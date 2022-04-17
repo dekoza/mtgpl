@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-01 01:05+0200\n"
-"PO-Revision-Date: 2022-04-17 16:43+0000\n"
+"PO-Revision-Date: 2022-04-17 22:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/eve/pl/>\n"
 "Language: pl\n"
@@ -1512,13 +1512,15 @@ msgstr "Inne czarne stwory pod twoim władaniem dostają +1/+1."
 
 #: ../../EVE.rst:453
 msgid "Whenever you cast a white spell, you may tap target creature."
-msgstr ""
+msgstr "Ilekroć rzucisz biały czar, możesz przekręcić wskazanego stwora."
 
 #: ../../EVE.rst:455
 msgid ""
 "Whenever you cast a black spell, you may destroy target creature if it's "
 "tapped."
 msgstr ""
+"Ilekroć rzucisz czarny czar, możesz zniszczyć wskazanego stwora jeśli jest "
+"on przekręcony."
 
 #: ../../EVE.rst:462
 msgid ""
@@ -2725,7 +2727,7 @@ msgstr ""
 
 #: ../../EVE.rst:891
 msgid "Create a token that's a copy of target creature."
-msgstr ""
+msgstr "Stwórz żeton będący kopią wskazanego stwora."
 
 #: ../../EVE.rst:904
 msgid ""

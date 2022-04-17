@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-01 01:05+0200\n"
-"PO-Revision-Date: 2022-04-17 21:24+0000\n"
+"PO-Revision-Date: 2022-04-17 22:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c21/pl/>\n"
 "Language: pl\n"
@@ -470,6 +470,9 @@ msgid ""
 "turns, you may instead choose a creature other than Esix, Fractal Bloom and "
 "create that many tokens that are copies of that creature."
 msgstr ""
+"Kiedy pierwszy raz w każdej z twoich tur miałbyś stworzyć co najmniej jeden "
+"żeton, możesz zamiast tego wybrać stwora innego niż niniejszy i stworzyć "
+"tyle samo żetonów będących kopią owego stwora."
 
 #: ../../C21.rst:76
 msgid ""
@@ -1107,6 +1110,10 @@ msgid ""
 "revealed by the other player. You each put the card you revealed into your "
 "hand."
 msgstr ""
+"Na początku twojego kroku utrzymania, ty i wskazany przeciwnik ujawniacie po "
+"wierzchniej karcie swoich bibliotek. Każdy z was traci życia równe skrótowi "
+"many karty ujawnionej przez drugiego gracza. Każdy z was umieszcza ujawnioną "
+"przez siebie kartę w swojej ręce."
 
 #: ../../C21.rst:260
 msgid ""
@@ -1120,6 +1127,9 @@ msgid ""
 "|mana_1|\\ |mana_b|, |tap|: Rather than pay the mana cost of the next spell "
 "you cast this turn, you may pay life equal to that spell's mana value."
 msgstr ""
+"|mana_1|\\ |mana_b|, |tap|: Zamiast płacić koszt many następnego czaru "
+"rzuconego przez ciebie w tej turze, możesz zapłacić życia równe skrótowi "
+"many owego czaru."
 
 #: ../../C21.rst:264
 msgid ""
@@ -1133,6 +1143,8 @@ msgid ""
 "You draw X cards and you lose X life, where X is the mana value of a "
 "commander you own on the battlefield or in the command zone."
 msgstr ""
+"Dobierz X kart i strać X żyć, gdzie X jest skrótem many dowódcy, którego "
+"posiadasz na polu bitwy lub w strefie dowodzenia."
 
 #: ../../C21.rst:270
 msgid ""
@@ -1151,6 +1163,9 @@ msgid ""
 "X life, where X is the amount of life you gained this turn. If you do, "
 "create an X/X black Demon creature token with flying."
 msgstr ""
+"Na początku twojego kroku końcowego, jeśli zyskałeś życia w tej turze, "
+"możesz zapłacić X żyć, gdzie X jest liczbą żyć zyskanych przez ciebie w tej "
+"turze. Jeśli tak zrobisz stwórz żeton czarnego stwora Demon X/X z lataniem."
 
 #: ../../C21.rst:276
 msgid ""
@@ -1207,6 +1222,9 @@ msgid ""
 "ability, you may pay |mana_1|. If you do, copy that ability. You may choose "
 "new targets for the copy."
 msgstr ""
+"Ilekroć zostanie aktywowana zdolność wyposażonego stwora, jeśli nie jest "
+"zdolnością many, możesz zapłacić |mana_1|. Jeśli tak zrobisz, skopiuj ową "
+"zdolność. Możesz wskazać nowe cele dla kopii."
 
 #: ../../C21.rst:287 ../../C21.rst:367
 msgid "Equip |mana_2|"
@@ -1226,6 +1244,10 @@ msgid ""
 "library in a random order. You may cast the exiled card without paying its "
 "mana cost."
 msgstr ""
+"Przetasuj twoją bibliotekę, po czym ujawnij karty z wierzchu aż ujawnisz "
+"nielądową kartę. Wygnaj ową kartę i umieść pozostałe losowo na spodzie "
+"twojej biblioteki. Możesz rzucić ową wygnaną kartę bez płacenia jej kosztu "
+"many."
 
 #: ../../C21.rst:300
 msgid ""
@@ -1243,6 +1265,8 @@ msgid ""
 "As Cursed Mirror enters the battlefield, you may have it become a copy of "
 "any creature on the battlefield until end of turn, except it has haste."
 msgstr ""
+"Przy wejściu tego bytu na pole bitwy, możesz zdecydować, że stanie się on do "
+"końca tury kopią dowolnego stwora na polu bitwy, ale ma pośpiech."
 
 #: ../../C21.rst:306
 msgid ""
@@ -1257,6 +1281,9 @@ msgid ""
 "Fiery Encore deals damage equal to that card's mana value to target creature "
 "or planeswalker."
 msgstr ""
+"Odrzuć kartę, po czym dobierz kartę. Kiedy odrzucisz nielądową kartę w ten "
+"sposób, niniejszy czar zadaje wskazanemu stworowi lub wędrowcowi obrażenia "
+"równe skrótowi many owej karty."
 
 #: ../../C21.rst:305 ../../C21.rst:711
 msgid ""
@@ -1278,6 +1305,8 @@ msgid ""
 "Inferno Project enters the battlefield with X +1/+1 counters on it, where X "
 "is the total mana value of instant and sorcery cards in your graveyard."
 msgstr ""
+"Ten stwór wchodzi na pole bitwy mając X znaczników +1/+1, gdzie X jest sumą "
+"skrótów many kart sztuczek i obrzędów w twoim cmentarzu."
 
 #: ../../C21.rst:320
 msgid ""
@@ -1296,6 +1325,8 @@ msgid ""
 "Whenever Laelia, the Blade Reforged attacks, exile the top card of your "
 "library. You may play that card this turn."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, wygnaj wierzchnią kartę twojej biblioteki. "
+"Możesz zagrać ową kartę w tej turze."
 
 #: ../../C21.rst:319
 msgid ""
@@ -1320,6 +1351,10 @@ msgid ""
 "spell or ability could target. Each copy targets a different one of those "
 "permanents and players."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, jeśli rzuciłeś go z twojej ręki, "
+"wybierz wskazany czar lub zdolność wskazujący tylko jeden byt lub gracza. "
+"Skopiuj ów czar lub zdolność za każdy inny byt lub gracza, którego mógłby "
+"wskazywać. Każda kopia wskazuje inny z owych bytów lub graczy."
 
 #: ../../C21.rst:330
 msgid ""
@@ -1335,6 +1370,10 @@ msgid ""
 "instant and sorcery spells you've cast this turn. They gain haste. Exile "
 "them at the beginning of the next end step."
 msgstr ""
+"Na początku potyczki w twojej turze, stwórz X żetonów będących kopią innego "
+"wskazanego stwora pod twoim władaniem, gdzie X to jeden plus liczba czarów "
+"sztuczek i obrzędów rzuconych przez ciebie w tej turze. Zyskują one "
+"pośpiech. Wygnaj je na początku najbliższego kroku końcowego."
 
 #: ../../C21.rst:336
 msgid ""
@@ -1349,6 +1388,9 @@ msgid ""
 "don't lose this mana as steps and phases end. Exile Rousing Refrain with "
 "three time counters on it."
 msgstr ""
+"Weź |mana_r| za każdą kartę w ręce wskazanego przeciwnika. Do końca tury nie "
+"tracisz owej many podczas końców kroków i faz. Wygnaj tę kartę z trzema "
+"znacznikami czasu."
 
 #: ../../C21.rst:335
 msgid ""
@@ -1357,6 +1399,10 @@ msgid ""
 "At the beginning of your upkeep, remove a time counter. When the last is "
 "removed, cast it without paying its mana cost.)"
 msgstr ""
+"Zawieszenie 3—|mana_1|\\ |mana_r| (Zamiast rzucać tę kartę z twojej ręki, "
+"możesz zapłacić |mana_1|\\ |mana_r| i wygnać ją z trzema znacznikami czasu. "
+"Na początku twojego kroku utrzymania, usuń znacznik czasu. Kiedy ostatni "
+"znacznik czasu zostanie usunięty, rzuć ją bez płacenia kosztu many.)"
 
 #: ../../C21.rst:344
 msgid ""
@@ -1370,6 +1416,8 @@ msgid ""
 "When Ruin Grinder dies, each player may discard their hand and draw seven "
 "cards."
 msgstr ""
+"Kiedy ten stwór umrze, każdy gracz może odrzucić swoją rękę i dobrać siedem "
+"kart."
 
 #: ../../C21.rst:343
 msgid ""
@@ -1393,6 +1441,11 @@ msgid ""
 "Whenever a creature you control deals combat damage to a player this turn, "
 "copy the exiled card. You may cast the copy without paying its mana cost."
 msgstr ""
+"Wygnaj wskazaną kartę sztuczki lub obrzędu z twojego cmentarza. Stwory pod "
+"twoim władaniem dostają do końca tury +X/+0, gdzie X jest jej skrótem many. "
+"Ilekroć w tej turze stwór pod twoim władaniem zada graczowi obrażenia "
+"bojowe, skopiuj ową wygnaną kartę. Możesz rzucić ową kopię bez płacenia jej "
+"kosztu many."
 
 #: ../../C21.rst:352
 msgid ""
@@ -1407,6 +1460,9 @@ msgid ""
 "control gain trample and get +X/+X until end of turn, where X is the amount "
 "of life you gained this turn."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, zyskaj 2 życia. Następnie stwory pod twoim "
+"władaniem do końca tury zyskują tratowanie i dostają +X/+X, gdzie X jest "
+"liczbą żyć zyskanych przez ciebie w tej turze."
 
 #: ../../C21.rst:360
 msgid ""
@@ -1424,10 +1480,12 @@ msgid ""
 "Creature spells you cast cost |mana_x| less to cast, where X is the amount "
 "of life you gained this turn."
 msgstr ""
+"Rzucanie czarów stworów kosztuje cię o |mana_x| mniej, gdzie X jest liczbą "
+"żyć zyskanych przez ciebie w tej turze."
 
 #: ../../C21.rst:359
 msgid "|tap|: You gain 2 life."
-msgstr ""
+msgstr "|tap|: Zyskaj 2 życia."
 
 #: ../../C21.rst:368
 msgid ""
@@ -1442,12 +1500,16 @@ msgid ""
 "Fractal creature token. Put X +1/+1 counters on it and attach Fractal "
 "Harness to it."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton zielono-niebieskiego "
+"stwora Fraktal 0/0. Umieść na nim X znaczników +1/+1 o dołącz do niego ten "
+"byt."
 
 #: ../../C21.rst:365
 msgid ""
 "Whenever equipped creature attacks, double the number of +1/+1 counters on "
 "it."
 msgstr ""
+"Ilekroć wyposażony stwór zaatakuje, podwój liczbę jego znaczników +1/+1."
 
 #: ../../C21.rst:376
 msgid ""
@@ -1462,7 +1524,7 @@ msgstr "Dowódcy pod twoim władaniem dostają +2/+2."
 
 #: ../../C21.rst:375
 msgid "Commanders you control have hexproof."
-msgstr ""
+msgstr "Dowódcy pod twoim władaniem mają antyklątwę."
 
 #: ../../C21.rst:382
 msgid ""
@@ -1476,6 +1538,8 @@ msgid ""
 "Return target card from your graveyard to your hand. You gain life equal to "
 "that card's mana value. Exile Healing Technique."
 msgstr ""
+"Przywróć wskazaną kartę z twojego cmentarza do twojej ręki. Zyskaj życia "
+"równe skrótowi many owej karty. Wygnaj niniejszą kartę."
 
 #: ../../C21.rst:388
 msgid ""
@@ -1486,7 +1550,7 @@ msgstr ""
 
 #: ../../C21.rst:385
 msgid "Paradox Zone enters the battlefield with a growth counter on it."
-msgstr ""
+msgstr "Ten byt wchodzi na pole bitwy mając znacznik wzrostu."
 
 #: ../../C21.rst:387
 msgid ""
@@ -1513,6 +1577,9 @@ msgid ""
 "black and green Pest creature tokens with \"When this creature dies, you "
 "gain 1 life.\""
 msgstr ""
+"Zniszcz co najwyżej X wskazanych artefaktów i/lub uroków. Stwórz dwukrotność "
+"X żetonów czarno-zielonego stwora Szkodnik 1/1 mający \"Kiedy ten stwór "
+"umrze, zyskaj 1 życie.\""
 
 #: ../../C21.rst:400
 msgid ""
@@ -1531,13 +1598,15 @@ msgstr ""
 
 #: ../../C21.rst:397
 msgid "Creatures you control with no abilities get +1/+1."
-msgstr ""
+msgstr "Stwory bez zdolności pod twoim władaniem dostają +1/+1."
 
 #: ../../C21.rst:399
 msgid ""
 "You may have creatures you control with no abilities assign their combat "
 "damage as though they weren't blocked."
 msgstr ""
+"Możesz zdecydować, że stwory bez zdolności pod twoim władaniem przypiszą "
+"swoje obrażenia bojowe tak, jakby nie zostały zablokowane."
 
 #: ../../C21.rst:404
 msgid ""
@@ -1576,6 +1645,8 @@ msgid ""
 "At the beginning of your end step, if you gained life this turn, you may "
 "cast Sproutback Trudge from your graveyard."
 msgstr ""
+"Na początku twojego kroku końcowego, jeśli zyskałeś życie w tej turze, "
+"możesz rzucić tę kartę z twojego cmentarza."
 
 #: ../../C21.rst:416
 msgid ""
@@ -1622,6 +1693,9 @@ msgid ""
 "damage prevented this way, create a 2/1 white and black Inkling creature "
 "token with flying."
 msgstr ""
+"Zażegnaj wszystkie obrażenia bojowe, jakie mogłyby zostać tobie zadane w tej "
+"turze. Za każde 1 obrażenie zażegnane w ten sposób, stwórz żeton biało-"
+"czarnego stwora Kleks 2/1 z lataniem."
 
 #: ../../C21.rst:428
 msgid ""
@@ -1636,6 +1710,9 @@ msgid ""
 "creature token and puts a number of +1/+1 counters on it equal to the total "
 "power of creatures they controlled that were exiled this way."
 msgstr ""
+"Wygnaj wszystkie stwory. Każdy gracz tworzy żeton zielono-niebieskiego "
+"stwora Fraktal 0/0 i umieszcza na nim tyle znaczników +1/+1, ile wynosi suma "
+"sił stworów pod władaniem owego gracza wygnanych w ten sposób."
 
 #: ../../C21.rst:432
 msgid ""
@@ -1649,6 +1726,8 @@ msgid ""
 "Counter target spell. You may cast a spell with an equal or lesser mana "
 "value from your hand without paying its mana cost."
 msgstr ""
+"Skontruj wskazany czar. Możesz rzucić czar z równym lub mniejszym skrótem "
+"many z twojej ręki bez płacenia jego kosztu many."
 
 #: ../../C21.rst:436
 msgid ""
@@ -1663,6 +1742,9 @@ msgid ""
 "graveyard to the battlefield. You lose 3 life for each card returned this "
 "way. Exile Revival Experiment."
 msgstr ""
+"Dla każdego typu bytu, przywróć co najwyżej jedną kartę owego typu z twojego "
+"cmentarza na pole bitwy. Strać po 3 życia za każdą kartę przywróconą w ten "
+"sposób. Wygnaj niniejszą kartę."
 
 #: ../../C21.rst:440
 msgid ""
@@ -1676,6 +1758,8 @@ msgid ""
 "Return all artifact cards from your graveyard to the battlefield. They gain "
 "haste until end of turn."
 msgstr ""
+"Przywróć wszystkie karty artefaktów z twojego cmentarza na pole bitwy. Do "
+"końca tury zyskują one pośpiech."
 
 #: ../../C21.rst:448
 msgid ""
@@ -1689,6 +1773,8 @@ msgid ""
 "Whenever you cast a spell with |mana_x| in its mana cost, put two charge "
 "counters on Elementalist's Palette."
 msgstr ""
+"Ilekroć rzucisz czar mający |mana_x| w koszcie many, umieść dwa znaczniki "
+"ładunku na tym bycie."
 
 #: ../../C21.rst:445 ../../C21.rst:1271
 msgid "|tap|: Add one mana of any color."
@@ -1699,6 +1785,8 @@ msgid ""
 "|tap|: Add |colorless| for each charge counter on Elementalist's Palette. "
 "Spend this mana only on costs that contain |mana_x|."
 msgstr ""
+"|tap|: Weź |colorless| za każdy znacznik ładunku na tym bycie. Wydaj tę manę "
+"tylko na koszty zawierające |mana_x|."
 
 #: ../../C21.rst:454
 msgid ""
@@ -1712,6 +1800,8 @@ msgid ""
 "Whenever a player casts an instant or sorcery spell, put a number of charge "
 "counters on Geometric Nexus equal to that spell's mana value."
 msgstr ""
+"Ilekroć gracz rzuci czar sztuczki lub obrzędu, umieść na tym bycie liczbę "
+"znaczników ładunku równą skrótowi many owego czaru."
 
 #: ../../C21.rst:453
 msgid ""
@@ -1719,6 +1809,9 @@ msgid ""
 "0/0 green and blue Fractal creature token. Put X +1/+1 counters on it, where "
 "X is the number of charge counters removed this way."
 msgstr ""
+"|mana_6|, |tap|, usuń wszystkie znaczniki ładunku z tego bytu: Stwórz żeton "
+"zielono-niebieskiego stwora Fraktal 0/0. Umieść na nim X znaczników +1/+1, "
+"gdzie X jest liczbą znaczników ładunku usuniętych w ten sposób."
 
 #: ../../C21.rst:458
 msgid ""
@@ -1732,6 +1825,8 @@ msgid ""
 "At the beginning of your upkeep, each opponent may create a Treasure token. "
 "For each opponent who does, you create a Treasure token."
 msgstr ""
+"Na początku twojego kroku utrzymania, każdy przeciwnik może stworzyć żeton "
+"Skarbu. Za każdego przeciwnika, który tak zrobi, stwórz żeton Skarbu."
 
 #: ../../C21.rst:464
 msgid ""
@@ -1750,6 +1845,10 @@ msgid ""
 "token with flying, a 3/3 colorless Golem artifact creature token with "
 "vigilance, and a 3/3 colorless Golem artifact creature token with trample."
 msgstr ""
+"Kiedy ten stwór umrze, stwórz żeton bezkolorowego artefaktowego stwora Golem "
+"3/3 z lataniem, żeton bezkolorowego artefaktowego stwora Golem 3/3 z "
+"czujnością i żeton bezkolorowego artefaktowego stwora Golem 3/3 z "
+"tratowaniem."
 
 #: ../../C21.rst:470
 msgid ""
@@ -1775,6 +1874,9 @@ msgid ""
 "your commander, scry X, where X is the number of times it's been cast from "
 "the command zone this game."
 msgstr ""
+"|mana_1|, |tap|: Weź jedną manę dowolnego koloru. Kiedy wydasz tę manę na "
+"rzucenie twojego dowódcy, wróż X, gdzie X jest liczbą jego rzuceń ze strefy "
+"dowodzenia w tej grze."
 
 #: ../../C21.rst:476
 msgid ""
@@ -2075,12 +2177,16 @@ msgid ""
 "Enchanted creature gets +1/+1 and is goaded. (It attacks each combat if able "
 "and attacks a player other than you if able.)"
 msgstr ""
+"Zauroczony stwór dostaje +1/+1 i jest ponaglony. (Atakuje w każdej potyczce "
+"jeśli może i atakuje innego gracza niż ty jeśli może.)"
 
 #: ../../C21.rst:567
 msgid ""
 "Whenever enchanted creature attacks, each other creature that's attacking "
 "one of your opponents gets +1/+1 until end of turn."
 msgstr ""
+"Ilekroć zauroczony stwór zaatakuje, każdy inny stwór atakujący jednego z "
+"twoich przeciwników dostaje do końca tury +1/+1."
 
 #: ../../C21.rst:572
 msgid ""
@@ -2813,6 +2919,8 @@ msgid ""
 "Destroy all creatures. Each player loses life equal to the number of "
 "creatures they controlled that were destroyed this way."
 msgstr ""
+"Zniszcz wszystkie stwory. Każdy gracz traci życia równe liczbie stworów pod "
+"swoim władaniem zniszczonych w ten sposób."
 
 #: ../../C21.rst:806
 msgid ""
@@ -2890,6 +2998,8 @@ msgid ""
 "Choose an opponent. You and that player each sacrifice a creature. Each "
 "player who sacrificed a creature this way draws two cards."
 msgstr ""
+"Wybierz przeciwnika. Ty oraz ów gracz poświęcacie po stworze. Każdy gracz, "
+"który poświęcił stwora w ten sposób dobiera dwie karty."
 
 #: ../../C21.rst:829
 msgid ""
@@ -2897,6 +3007,9 @@ msgid ""
 "battlefield, then that player returns a creature card from their graveyard "
 "to the battlefield."
 msgstr ""
+"Wybierz przeciwnika. Przywróć kartę stwora z twojego cmentarza na pole "
+"bitwy, po czym ów gracz przywraca kartę stwora ze swojego cmentarza na pole "
+"bitwy."
 
 #: ../../C21.rst:836
 msgid ""
@@ -2965,12 +3078,16 @@ msgid ""
 "Enchanted creature gets +2/+2 and is goaded. (It attacks each combat if able "
 "and attacks a player other than you if able.)"
 msgstr ""
+"Zauroczony stwór dostaje +2/+2 i jest ponaglony. (Atakuje w każdej potyczce "
+"jeśli może i atakuje gracza innego niż ty jeśli może.)"
 
 #: ../../C21.rst:857
 msgid ""
 "Whenever enchanted creature attacks, its controller loses 2 life and you "
 "gain 2 life."
 msgstr ""
+"Ilekroć zauroczony stwór zaatakuje, jego władca traci 2 życia, a ty zyskaj 2 "
+"życia."
 
 #: ../../C21.rst:862
 msgid ""
@@ -3587,12 +3704,16 @@ msgid ""
 "|mana_x|\\ |mana_g|, |tap|: Arashi, the Sky Asunder deals X damage to target "
 "creature with flying."
 msgstr ""
+"|mana_x|\\ |mana_g|, |tap|: Ten byt zadaje wskazanemu stworowi z lataniem X "
+"obrażeń."
 
 #: ../../C21.rst:1045
 msgid ""
 "Channel — |mana_x|\\ |mana_g|\\ |mana_g|, Discard Arashi: Arashi deals X "
 "damage to each creature with flying."
 msgstr ""
+"Przepust — |mana_x|\\ |mana_g|\\ |mana_g|, odrzuć tę kartę: Zadaje ona "
+"wskazanemu stworowi z lataniem X obrażeń."
 
 #: ../../C21.rst:1050
 msgid ""
@@ -3636,6 +3757,9 @@ msgid ""
 "creature token. Each of those Beasts fights a different one of those "
 "creatures."
 msgstr ""
+"Za każdego stwora pod władaniem twoich przeciwników, stwórz żeton zielonego "
+"stwora Phyrexiańska Bestia 4/4. Każda z owych Bestii walczy z innym z owych "
+"stworów."
 
 #: ../../C21.rst:1064
 msgid ""
@@ -4124,13 +4248,15 @@ msgstr "Inne czarne stwory pod twoim władaniem dostają +1/+1."
 
 #: ../../C21.rst:1223
 msgid "Whenever you cast a white spell, you may tap target creature."
-msgstr ""
+msgstr "Ilekroć rzucisz biały czar, możesz przekręcić wskazanego stwora."
 
 #: ../../C21.rst:1225
 msgid ""
 "Whenever you cast a black spell, you may destroy target creature if it's "
 "tapped."
 msgstr ""
+"Ilekroć rzucisz czarny czar, możesz zniszczyć wskazanego stwora jeśli jest "
+"on przekręcony."
 
 #: ../../C21.rst:1232
 msgid ""
@@ -4402,7 +4528,7 @@ msgstr ""
 
 #: ../../C21.rst:1305
 msgid "Create a token that's a copy of target creature."
-msgstr ""
+msgstr "Stwórz żeton będący kopią wskazanego stwora."
 
 #: ../../C21.rst:1314
 msgid ""
@@ -4583,6 +4709,9 @@ msgid ""
 "blocked, that player draws three cards and gains control of Coveted Jewel. "
 "Untap it."
 msgstr ""
+"Ilekroć co najmniej jeden stwór pod władaniem przeciwnika atakuje cię i nie "
+"jest blokowany, ów gracz dobiera trzy karty i zyskuje władanie nad tym "
+"bytem. Odkręć go."
 
 #: ../../C21.rst:1374
 msgid ""
@@ -5086,10 +5215,12 @@ msgid ""
 "You may activate abilities of creatures you control as though those "
 "creatures had haste."
 msgstr ""
+"Możesz aktywować zdolności stworów pod twoim władaniem jakby owe stwory "
+"miały pośpiech."
 
 #: ../../C21.rst:1529
 msgid "|mana_1|, |tap|: Untap target creature."
-msgstr ""
+msgstr "|mana_1|, |tap|: Odkręć wskazanego stwora."
 
 #: ../../C21.rst:1536
 msgid ""
@@ -5125,7 +5256,7 @@ msgstr ""
 
 #: ../../C21.rst:1545
 msgid "Untap Victory Chimes during each other player's untap step."
-msgstr ""
+msgstr "Odkręć ten byt podczas kroku odkręcania każdego z graczy."
 
 #: ../../C21.rst:1547
 msgid "|tap|: A player of your choice adds |colorless|."

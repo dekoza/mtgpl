@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-01 01:05+0200\n"
-"PO-Revision-Date: 2022-04-17 18:49+0000\n"
+"PO-Revision-Date: 2022-04-17 22:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/lrw/pl/>\n"
 "Language: pl\n"
@@ -4275,10 +4275,12 @@ msgid ""
 "You may activate abilities of creatures you control as though those "
 "creatures had haste."
 msgstr ""
+"Możesz aktywować zdolności stworów pod twoim władaniem jakby owe stwory "
+"miały pośpiech."
 
 #: ../../LRW.rst:1451
 msgid "|mana_1|, |tap|: Untap target creature."
-msgstr ""
+msgstr "|mana_1|, |tap|: Odkręć wskazanego stwora."
 
 #: ../../LRW.rst:1456
 msgid ""

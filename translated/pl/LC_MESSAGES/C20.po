@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-01 01:05+0200\n"
-"PO-Revision-Date: 2022-04-17 18:49+0000\n"
+"PO-Revision-Date: 2022-04-17 22:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c20/pl/>\n"
 "Language: pl\n"
@@ -838,12 +838,16 @@ msgid ""
 "Enchanted creature gets +1/+1 and is goaded. (It attacks each combat if able "
 "and attacks a player other than you if able.)"
 msgstr ""
+"Zauroczony stwór dostaje +1/+1 i jest ponaglony. (Atakuje w każdej potyczce "
+"jeśli może i atakuje innego gracza niż ty jeśli może.)"
 
 #: ../../C20.rst:203
 msgid ""
 "Whenever enchanted creature attacks, each other creature that's attacking "
 "one of your opponents gets +1/+1 until end of turn."
 msgstr ""
+"Ilekroć zauroczony stwór zaatakuje, każdy inny stwór atakujący jednego z "
+"twoich przeciwników dostaje do końca tury +1/+1."
 
 #: ../../C20.rst:212
 msgid ""
@@ -994,6 +998,8 @@ msgid ""
 "Enchanted creature gets +2/+2 and is goaded. (It attacks each combat if able "
 "and attacks a player other than you if able.)"
 msgstr ""
+"Zauroczony stwór dostaje +2/+2 i jest ponaglony. (Atakuje w każdej potyczce "
+"jeśli może i atakuje gracza innego niż ty jeśli może.)"
 
 #: ../../C20.rst:259
 msgid "Whenever enchanted creature attacks, you scry 2."
@@ -1151,6 +1157,8 @@ msgid ""
 "Whenever enchanted creature attacks, its controller loses 2 life and you "
 "gain 2 life."
 msgstr ""
+"Ilekroć zauroczony stwór zaatakuje, jego władca traci 2 życia, a ty zyskaj 2 "
+"życia."
 
 #: ../../C20.rst:324
 msgid ""
@@ -2650,6 +2658,8 @@ msgid ""
 "Destroy all creatures. Each player loses life equal to the number of "
 "creatures they controlled that were destroyed this way."
 msgstr ""
+"Zniszcz wszystkie stwory. Każdy gracz traci życia równe liczbie stworów pod "
+"swoim władaniem zniszczonych w ten sposób."
 
 #: ../../C20.rst:824
 msgid ""

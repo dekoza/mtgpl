@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-01 01:05+0200\n"
-"PO-Revision-Date: 2022-04-17 21:24+0000\n"
+"PO-Revision-Date: 2022-04-17 22:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c13/pl/>\n"
 "Language: pl\n"
@@ -5073,11 +5073,13 @@ msgid ""
 "You may activate abilities of creatures you control as though those "
 "creatures had haste."
 msgstr ""
+"Możesz aktywować zdolności stworów pod twoim władaniem jakby owe stwory "
+"miały pośpiech."
 
 # e2745c15e0e847cd827a2b40bce132ed
 #: ../../C13.rst:1519
 msgid "|mana_1|, |tap|: Untap target creature."
-msgstr ""
+msgstr "|mana_1|, |tap|: Odkręć wskazanego stwora."
 
 #: ../../C13.rst:1526
 msgid ""
