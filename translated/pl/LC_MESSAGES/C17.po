@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 20:58+0100\n"
-"PO-Revision-Date: 2022-04-17 16:43+0000\n"
+"PO-Revision-Date: 2022-04-17 17:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c17/pl/>\n"
 "Language: pl\n"
@@ -535,6 +535,9 @@ msgid ""
 "graveyard, you may pay |mana_1|\\ |mana_b|. If you do, return Boneyard "
 "Scourge from your graveyard to the battlefield."
 msgstr ""
+"Ilekroć umrze Smok pod twoim władaniem gdy ta karta jest w twoim cmentarzu, "
+"możesz zapłacić |mana_1|\\ |mana_b|. Jeśli tak zrobisz, przywróć tę kartę z "
+"twojego cmentarza na pole bitwy."
 
 #: ../../C17.rst:100
 msgid ""
@@ -548,6 +551,8 @@ msgid ""
 "Whenever enchanted player is attacked, create a 2/2 black Zombie creature "
 "token. Each opponent attacking that player does the same."
 msgstr ""
+"Ilekroć zauroczony gracz jest zaatakowany, stwórz żeton czarnego stwora "
+"Zombi 2/2. Każdy przeciwnik atakujący owego gracza robi to samo."
 
 #: ../../C17.rst:108
 msgid ""
@@ -565,12 +570,16 @@ msgid ""
 "Whenever Kheru Mind-Eater deals combat damage to a player, that player "
 "exiles a card from their hand face down."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, ów gracz wygania kartę ze "
+"swojej ręki, zakrytą."
 
 #: ../../C17.rst:107
 msgid ""
 "You may look at cards exiled with Kheru Mind-Eater, and you may play lands "
 "and cast spells from among those cards."
 msgstr ""
+"Możesz patrzeć na karty wygnane tym bytem i możesz zagrywać karty lądów i "
+"rzucać czary spośród owych kart."
 
 #: ../../C17.rst:112
 msgid ""
@@ -582,7 +591,7 @@ msgstr ""
 #: ../../C17.rst:111
 msgid ""
 "Choose a creature type. Destroy all creatures that aren't of the chosen type."
-msgstr ""
+msgstr "Wybierz typ stwora. Zniszcz wszystkie stwory nie będące owego typu."
 
 #: ../../C17.rst:118
 msgid ""
@@ -596,12 +605,16 @@ msgid ""
 "As an additional cost to cast this spell, tap an untapped Vampire you "
 "control."
 msgstr ""
+"Jako dodatkowy koszt rzucenia tego czaru — przekręć odkręconego Wampira pod "
+"twoim władaniem."
 
 #: ../../C17.rst:117
 msgid ""
 "Gain control of target creature. Change the text of that creature by "
 "replacing all instances of one creature type with Vampire."
 msgstr ""
+"Zyskaj władanie nad wskazanym stworem. Zmień tekst owego stwora zastępując "
+"wszystkie wystąpienia jednego typu stwora Wampirem."
 
 #: ../../C17.rst:126
 msgid ""
@@ -615,12 +628,16 @@ msgid ""
 "When Patron of the Vein enters the battlefield, destroy target creature an "
 "opponent controls."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, zniszcz wskazanego stwora pod władaniem "
+"przeciwnika."
 
 #: ../../C17.rst:125
 msgid ""
 "Whenever a creature an opponent controls dies, exile it and put a +1/+1 "
 "counter on each Vampire you control."
 msgstr ""
+"Ilekroć umrze stwór pod władaniem przeciwnika, wygnaj go i umieść po "
+"znaczniku +1/+1 na każdym Wampirze pod twoim władaniem."
 
 #: ../../C17.rst:136
 msgid ""
@@ -634,6 +651,8 @@ msgid ""
 "When Vindictive Lich dies, choose one or more. Each mode must target a "
 "different player."
 msgstr ""
+"Kiedy ten stwór umrze, wybierz jedno lub więcej. Każdy tryb musi wskazywać "
+"innego gracza."
 
 #: ../../C17.rst:131
 msgid "Target opponent sacrifices a creature."
@@ -645,7 +664,7 @@ msgstr "Wskazany przeciwnik odrzuca dwie karty."
 
 #: ../../C17.rst:135
 msgid "Target opponent loses 5 life."
-msgstr ""
+msgstr "Wskazany przeciwnik traci 5 żyć."
 
 #: ../../C17.rst:142
 msgid ""
@@ -656,7 +675,7 @@ msgstr ""
 
 #: ../../C17.rst:141
 msgid "Commander creatures you control get +2/+2 and have haste."
-msgstr ""
+msgstr "Dowódcy pod twoim władaniem dostają +2/+2 i mają pośpiech."
 
 #: ../../C17.rst:148
 msgid ""
@@ -674,6 +693,8 @@ msgid ""
 "At the beginning of each player's end step, Crimson Honor Guard deals 4 "
 "damage to that player unless they control a commander."
 msgstr ""
+"Na początku kroku końcowego każdego gracza, ten byt zadaje owemu graczowi 4 "
+"obrażenia, chyba że włada dowódcą."
 
 #: ../../C17.rst:154
 msgid ""
@@ -688,6 +709,9 @@ msgid ""
 "attacking that player does the same. (A Gold token is an artifact with "
 "\"Sacrifice this artifact: Add one mana of any color.\")"
 msgstr ""
+"Ilekroć zauroczony gracz jest zaatakowany, stwórz żeton Złota. Każdy "
+"przeciwnik atakujący owego gracza robi to samo. (Żeton Złota to artefakt "
+"mający \"Poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../C17.rst:158
 msgid ""
@@ -701,6 +725,9 @@ msgid ""
 "Goad all creatures you don't control. (Until your next turn, those creatures "
 "attack each combat if able and attack a player other than you if able.)"
 msgstr ""
+"Ponaglij wszystkie stwory poza twoim władaniem. (Do twojej następnej tury "
+"owe stwory atakują w każdej potyczce jeśli mogą i atakują gracza innego niż "
+"ty jeśli mogą.)"
 
 #: ../../C17.rst:166
 msgid ""
@@ -741,6 +768,9 @@ msgid ""
 "create a token that's a copy of that creature. Those tokens gain haste. "
 "Exile them at the beginning of the next end step."
 msgstr ""
+"Wybierz typ stwora. Za każdego stwora owego typu pod twoim władaniem, stwórz "
+"żeton będący kopią owego stwora. Owe żetony zyskują pośpiech. Wygnaj je na "
+"początku najbliższego kroku końcowego."
 
 #: ../../C17.rst:176
 msgid ""
@@ -761,6 +791,11 @@ msgid ""
 "to it, then put all other cards revealed this way on the bottom of your "
 "library in a random order.\""
 msgstr ""
+"Zauroczony stwór ma pośpiech oraz \"Na początku twojego kroku utrzymania, "
+"zniszcz tego stwora. Ujawnij karty z wierzchu twojej biblioteki aż ujawnisz "
+"kartę stwora. Umieść ową kartę na polu bitwy i dołącz do niej Shifting "
+"Shadow, po czym umieść pozostałe karty ujawnione w ten sposób losowo na "
+"spodzie twojej biblioteki.\""
 
 #: ../../C17.rst:182
 msgid ""
@@ -780,6 +815,10 @@ msgid ""
 "Hellkite attacks that player this combat if able. If you can't choose an "
 "opponent this way, tap Territorial Hellkite."
 msgstr ""
+"Na początku potyczki w twojej turze, wybierz losowego przeciwnika, którego "
+"ten stwór nie atakował w twojej poprzedniej potyczce. Ten stwór atakuje "
+"owego gracza w tej potyczce jeśli może. Jeśli nie możesz wybrać przeciwnika "
+"w ten sposób, przekręć tego stwora."
 
 #: ../../C17.rst:188
 msgid ""
@@ -794,6 +833,9 @@ msgid ""
 "control. Each opponent attacking that player untaps all nonland permanents "
 "they control."
 msgstr ""
+"Ilekroć zauroczony stwór jest zaatakowany, odkręć wszystkie nielądowe byty "
+"pod twoim władaniem. Każdy przeciwnik atakujący owego gracza odkręca "
+"wszystkie nielądowe byty pod swoim władaniem."
 
 #: ../../C17.rst:196
 msgid ""
@@ -807,16 +849,22 @@ msgid ""
 "Cats you control have protection from Rats. (They can't be blocked, "
 "targeted, or dealt damage by Rats.)"
 msgstr ""
+"Koty pod twoim władaniem mają ochronę przed Szczurami (Szczury nie mogą ich "
+"blokować, wskazywać ani zadawać obrażeń.)"
 
 #: ../../C17.rst:193
 msgid ""
 "At the beginning of your end step, target opponent creates a 1/1 black Rat "
 "creature token with deathtouch."
 msgstr ""
+"Na początku twojego kroku końcowego, wskazany przeciwnik tworzy żeton "
+"czarnego stwora Szczur 1/1 z dotykiem śmierci."
 
 #: ../../C17.rst:195
 msgid "Whenever a Rat dies, put a +1/+1 counter on each Cat you control."
 msgstr ""
+"Ilekroć umrze Szczur, umieść znacznik +1/+1 na każdym Kocie pod twoim "
+"władaniem."
 
 #: ../../C17.rst:200
 msgid ""

@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.11\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-01 01:05+0200\n"
-"PO-Revision-Date: 2022-04-17 16:43+0000\n"
+"PO-Revision-Date: 2022-04-17 17:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/voc/pl/>\n"
 "Language: pl\n"
@@ -1944,12 +1944,16 @@ msgid ""
 "When Patron of the Vein enters the battlefield, destroy target creature an "
 "opponent controls."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, zniszcz wskazanego stwora pod władaniem "
+"przeciwnika."
 
 #: ../../VOC.rst:577
 msgid ""
 "Whenever a creature an opponent controls dies, exile it and put a +1/+1 "
 "counter on each Vampire you control."
 msgstr ""
+"Ilekroć umrze stwór pod władaniem przeciwnika, wygnaj go i umieść po "
+"znaczniku +1/+1 na każdym Wampirze pod twoim władaniem."
 
 #: ../../VOC.rst:582
 msgid ""
@@ -2105,7 +2109,7 @@ msgstr ""
 
 #: ../../VOC.rst:625
 msgid "Commander creatures you control get +2/+2 and have haste."
-msgstr ""
+msgstr "Dowódcy pod twoim władaniem dostają +2/+2 i mają pośpiech."
 
 #: ../../VOC.rst:632
 msgid ""
@@ -2123,6 +2127,8 @@ msgid ""
 "At the beginning of each player's end step, Crimson Honor Guard deals 4 "
 "damage to that player unless they control a commander."
 msgstr ""
+"Na początku kroku końcowego każdego gracza, ten byt zadaje owemu graczowi 4 "
+"obrażenia, chyba że włada dowódcą."
 
 #: ../../VOC.rst:636
 msgid ""
