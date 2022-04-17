@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-01 01:05+0200\n"
-"PO-Revision-Date: 2022-04-17 18:36+0000\n"
+"PO-Revision-Date: 2022-04-17 18:49+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c15/pl/>\n"
 "Language: pl\n"
@@ -5442,7 +5442,7 @@ msgstr ""
 
 #: ../../C15.rst:1761
 msgid "Smoldering Crater enters the battlefield tapped."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../C15.rst:1774
 msgid ""
@@ -5456,6 +5456,8 @@ msgid ""
 "|mana_r|, |tap|: You may play the exiled card without paying its mana cost "
 "if an opponent was dealt 7 or more damage this turn."
 msgstr ""
+"|mana_r|, |tap|: Możesz zagrać ową wygnaną kartę bez płacenia jej kosztu "
+"many jeśli przeciwnik otrzymał w tej turze co najmniej 7 obrażeń."
 
 #: ../../C15.rst:1782
 msgid ""

@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 20:58+0100\n"
-"PO-Revision-Date: 2022-04-17 18:36+0000\n"
+"PO-Revision-Date: 2022-04-17 18:49+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c16/pl/>\n"
 "Language: pl\n"
@@ -5725,7 +5725,7 @@ msgstr ""
 
 #: ../../C16.rst:1881
 msgid "(Seat of the Synod isn't a spell.)"
-msgstr ""
+msgstr "(Ta karta nie jest czarem.)"
 
 #: ../../C16.rst:1883
 msgid "|tap|: Add |mana_u|."
@@ -5800,6 +5800,8 @@ msgid ""
 "|mana_r|, |tap|: You may play the exiled card without paying its mana cost "
 "if an opponent was dealt 7 or more damage this turn."
 msgstr ""
+"|mana_r|, |tap|: Możesz zagrać ową wygnaną kartę bez płacenia jej kosztu "
+"many jeśli przeciwnik otrzymał w tej turze co najmniej 7 obrażeń."
 
 #: ../../C16.rst:1916
 msgid ""
@@ -5945,6 +5947,8 @@ msgid ""
 "|mana_w|, |tap|: You may play the exiled card without paying its mana cost "
 "if you attacked with three or more creatures this turn."
 msgstr ""
+"|mana_w|, |tap|: Możesz zagrać wygnaną kartę bez płacenia jej kosztu many "
+"jeśli w tej turze zaatakowałeś co najmniej trzema stworami."
 
 #: ../../C16.rst:1972
 msgid ""

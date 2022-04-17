@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-01 01:05+0200\n"
-"PO-Revision-Date: 2022-04-17 18:36+0000\n"
+"PO-Revision-Date: 2022-04-17 18:49+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/cmd/pl/>\n"
 "Language: pl\n"
@@ -589,7 +589,7 @@ msgstr ""
 
 #: ../../CMD.rst:121
 msgid "When Monk Realist enters the battlefield, destroy target enchantment."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zniszcz wskazany urok."
 
 #: ../../CMD.rst:126
 msgid ""
@@ -5034,6 +5034,9 @@ msgid ""
 "power and toughness are each equal to the number of creature cards in your "
 "graveyard.\" It's still a land."
 msgstr ""
+"|mana_3|\\ |mana_b|\\ |mana_g|: Do końca tury ten ląd staje się czarno-"
+"zielonym stworem Roślina Zombi mającym \"Siła i wytrzymałość tego stwora są "
+"obie równe liczbie kart stworów w twoim cmentarzu.\" Nadal jest lądem."
 
 #: ../../CMD.rst:1616
 msgid ""
