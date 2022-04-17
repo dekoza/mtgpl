@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-01 01:05+0200\n"
-"PO-Revision-Date: 2022-04-17 00:01+0000\n"
+"PO-Revision-Date: 2022-04-17 14:01+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mrd/pl/>\n"
 "Language: pl\n"
@@ -442,7 +442,7 @@ msgstr ""
 
 #: ../../MRD.rst:71
 msgid "Loxodon Punisher gets +2/+2 for each Equipment attached to it."
-msgstr ""
+msgstr "Ten stwór dostaje +2/+2 za każde Wyposażenie dołączone do niego."
 
 #: ../../MRD.rst:78
 msgid ""
@@ -456,6 +456,8 @@ msgid ""
 "At the beginning of your upkeep, you may create a 1/1 white Spirit creature "
 "token with flying."
 msgstr ""
+"Na początku twojego kroku utrzymania, możesz stworzyć żeton białego stwora "
+"Duch 1/1 z lataniem."
 
 #: ../../MRD.rst:82
 msgid ""
@@ -480,6 +482,8 @@ msgid ""
 "Target permanent you control gains protection from artifacts or from the "
 "color of your choice until end of turn."
 msgstr ""
+"Wskazany byt pod twoim władaniem zyskuje do końca tury ochronę przed "
+"artefaktami lub przed kolorem twojego wyboru."
 
 #: ../../MRD.rst:96
 msgid ""
@@ -525,6 +529,9 @@ msgid ""
 "and land cards in their graveyard that were put there from the battlefield "
 "this turn."
 msgstr ""
+"Każdy gracz przywraca ze swojego cmentarza na pole bitwy wszystkie karty "
+"artefaktów, stworów, uroków i lądów, które trafiły tam w tej turze z pola "
+"bitwy."
 
 #: ../../MRD.rst:108
 msgid ""
@@ -535,7 +542,7 @@ msgstr ""
 
 #: ../../MRD.rst:107
 msgid "As long as Skyhunter Cub is equipped, it gets +1/+1 and has flying."
-msgstr ""
+msgstr "O ile ten stwór jest wyposażony, dostaje +1/+1 i ma latanie."
 
 #: ../../MRD.rst:112
 msgid ""
@@ -566,6 +573,8 @@ msgid ""
 "Whenever Slith Ascendant deals combat damage to a player, put a +1/+1 "
 "counter on it."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, umieść na nim znacznik +1/"
+"+1."
 
 #: ../../MRD.rst:128
 msgid ""
@@ -576,7 +585,7 @@ msgstr ""
 
 #: ../../MRD.rst:123
 msgid "Destroy all creatures with power 2 or less."
-msgstr ""
+msgstr "Zniszcz wszystkie stwory o sile 2 lub mniejszej."
 
 #: ../../MRD.rst:125
 msgid "Destroy all creatures with power 3 or greater."
@@ -585,6 +594,7 @@ msgstr "Zniszcz wszystkie stwory o sile 3 lub większej."
 #: ../../MRD.rst:127
 msgid "Entwine—Sacrifice two lands. (Choose both if you pay the entwine cost.)"
 msgstr ""
+"Splątanie—Poświęć dwa lądy. (Wybierz oba jeśli opłaciłeś koszt splątania.)"
 
 #: ../../MRD.rst:132
 msgid ""
@@ -596,6 +606,8 @@ msgstr ""
 #: ../../MRD.rst:131
 msgid "Exile target attacking creature and all Equipment attached to it."
 msgstr ""
+"Wygnaj wskazanego atakującego stwora i wszystkie Wyposażenia dołączone do "
+"niego."
 
 #: ../../MRD.rst:136
 msgid ""
@@ -607,6 +619,7 @@ msgstr ""
 #: ../../MRD.rst:135
 msgid "If an artifact would deal damage to you, prevent 1 of that damage."
 msgstr ""
+"Jeśli artefakt miałby zadać tobie obrażenia, zażegnaj 1 z owych obrażeń."
 
 #: ../../MRD.rst:140
 msgid ""
@@ -683,6 +696,8 @@ msgid ""
 "Broodstar's power and toughness are each equal to the number of artifacts "
 "you control."
 msgstr ""
+"Siła i wytrzymałość tej karty są obie równe liczbie artefaktów pod twoim "
+"władaniem."
 
 #: ../../MRD.rst:166
 msgid ""
@@ -693,7 +708,7 @@ msgstr ""
 
 #: ../../MRD.rst:165
 msgid "Unattach all Equipment from target creature."
-msgstr ""
+msgstr "Odłącz wszystkie Wyposażenia od wskazanego stwora."
 
 #: ../../MRD.rst:172
 msgid ""
@@ -704,11 +719,11 @@ msgstr ""
 
 #: ../../MRD.rst:169
 msgid "Enchant artifact creature"
-msgstr ""
+msgstr "Zaurocz artefaktowego stwora"
 
 #: ../../MRD.rst:171
 msgid "You control enchanted artifact creature."
-msgstr ""
+msgstr "Masz władanie nad zauroczonym artefaktowym stworem."
 
 #: ../../MRD.rst:182
 msgid ""
@@ -723,7 +738,7 @@ msgstr "Przekręć wskazany byt."
 
 #: ../../MRD.rst:179
 msgid "Untap target permanent."
-msgstr ""
+msgstr "Odkręć wskazany byt."
 
 #: ../../MRD.rst:186
 msgid ""
@@ -3779,6 +3794,8 @@ msgid ""
 "Imprint — When Soul Foundry enters the battlefield, you may exile a creature "
 "card from your hand."
 msgstr ""
+"Odlew — Kiedy ten byt wejdzie na pole bitwy, możesz wygnać kartę stwora z "
+"twojej ręki."
 
 #: ../../MRD.rst:1283
 msgid ""

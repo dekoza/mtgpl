@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-01 01:05+0200\n"
-"PO-Revision-Date: 2022-04-11 19:31+0000\n"
+"PO-Revision-Date: 2022-04-17 14:01+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c19/pl/>\n"
 "Language: pl\n"
@@ -1349,6 +1349,8 @@ msgid ""
 "target creature with a counter on it, except it's 7/5 and it has this "
 "ability."
 msgstr ""
+"|mana_1|: Do twojej następnej tury niniejszy staje się kopią wskazanego "
+"stwora mającego znacznik, ale jest 7/5 i ma tę zdolność."
 
 #: ../../C19.rst:334
 msgid ""
@@ -1359,13 +1361,15 @@ msgstr ""
 
 #: ../../C19.rst:331
 msgid "Aeon Engine enters the battlefield tapped."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../C19.rst:333
 msgid ""
 "|tap|, Exile Aeon Engine: Reverse the game's turn order. (For example, if "
 "play had proceeded clockwise around the table, it now goes counterclockwise.)"
 msgstr ""
+"|tap|, wygnaj ten byt: Odwróć porządek tur gry. (Przykładowo jeśli gra "
+"odbywała się zgodnie z ruchem zegara, to teraz odbywa się przeciwnie.)"
 
 #: ../../C19.rst:340
 msgid ""
@@ -1379,12 +1383,16 @@ msgid ""
 "Equipped creature gets +2/+0 and is goaded. (It attacks each combat if able "
 "and attacks a player other than you if able.)"
 msgstr ""
+"Wyposażony stwór dostaje +2/+0 i jest ponaglony. (Atakuje w każdej potyczce "
+"jeśli może i atakuje innego gracza niż ty jeśli może.)"
 
 #: ../../C19.rst:339
 msgid ""
 "|mana_1|: Attach Bloodthirsty Blade to target creature an opponent controls. "
 "Activate only as a sorcery."
 msgstr ""
+"|mana_1|: Dołącz ten byt do wskazanego stwora pod władaniem przeciwnika. "
+"Aktywuj tylko jako obrzęd."
 
 #: ../../C19.rst:346
 msgid ""
@@ -1395,7 +1403,7 @@ msgstr ""
 
 #: ../../C19.rst:343
 msgid "Empowered Autogenerator enters the battlefield tapped."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../C19.rst:345
 msgid ""
@@ -1403,6 +1411,8 @@ msgid ""
 "one color, where X is the number of charge counters on Empowered "
 "Autogenerator."
 msgstr ""
+"|tap|: Umieść znacznik ładunku na tym bycie. Weź X many w dowolnym jednym "
+"kolorze, gdzie X jest liczbą znaczników ładunku na tym bycie."
 
 #: ../../C19.rst:352
 msgid ""
@@ -1421,6 +1431,8 @@ msgid ""
 "|mana_8|, |tap|, Sacrifice Idol of Oblivion: Create a 10/10 colorless "
 "Eldrazi creature token."
 msgstr ""
+"|mana_8|, |tap|, poświęć ten byt: Stwórz żeton bezkolorowego stwora Eldrazi "
+"10/10."
 
 #: ../../C19.rst:358
 msgid ""
@@ -1443,6 +1455,9 @@ msgid ""
 "onto the battlefield. Pendant of Prosperity's owner draws a card, then that "
 "player may put a land card from their hand onto the battlefield."
 msgstr ""
+"|mana_2|, |tap|: Dobierz kartę, po czym możesz umieścić kartę lądu z twojej "
+"ręki na polu bitwy. Właściciel tego bytu dobiera kartę, po czym ów gracz "
+"może umieścić kartę lądu ze swojej ręki na polu bitwy."
 
 #: ../../C19.rst:366
 msgid ""
@@ -1477,6 +1492,9 @@ msgid ""
 "face down as a 2/2 creature. Turn it face up any time for its mana cost if "
 "it's a creature card.)"
 msgstr ""
+"|tap|: Objaw kartę z twojej ręki. (Umieść ową kartę zakrytą na polu bitwy "
+"jako stwora 2/2. Odkryj ją w dowolnym momencie za jej koszt many, jeśli jest "
+"to karta stwora.)"
 
 #: ../../C19.rst:376
 msgid ""
@@ -1497,6 +1515,8 @@ msgid ""
 "|mana_2|, |tap|: Return target commander you own from the battlefield to "
 "your hand. Activate only during your turn."
 msgstr ""
+"|mana_2|, |tap|: Przywróć wskazanego własnego dowódcę z pola bitwy do twojej "
+"ręki. Aktywuj tylko w twojej turze."
 
 #: ../../C19.rst:380
 msgid ""
@@ -1687,12 +1707,17 @@ msgid ""
 "Prevent all damage that sources of the color of your choice would deal this "
 "turn."
 msgstr ""
+"Zażegnaj wszystkie obrażenia, jakie źródła w wybranym przez ciebie kolorze "
+"mogłyby zadać w tej turze."
 
 #: ../../C19.rst:433
 msgid ""
 "Flashback—Tap an untapped white creature you control. (You may cast this "
 "card from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie—Przekręć odkręconego białego stwora pod twoim władaniem. (Możesz "
+"rzucić tę kartę z twojego cmentarza za koszt wspomnienia. Następnie wygnaj "
+"ją.)"
 
 #: ../../C19.rst:442
 msgid ""
@@ -1748,6 +1773,8 @@ msgid ""
 "Flashback |mana_4|\\ |mana_w|\\ |mana_w| (You may cast this card from your "
 "graveyard for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_4|\\ |mana_w|\\ |mana_w| (Możesz rzucić tę kartę z twojego "
+"cmentarza za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../C19.rst:460
 msgid ""
@@ -1898,6 +1925,8 @@ msgid ""
 "When Chromeshell Crab is turned face up, you may exchange control of target "
 "creature you control and target creature an opponent controls."
 msgstr ""
+"Kiedy ten byt zostanie odkryty, możesz zamienić władanie nad wskazanym "
+"stworem pod twoim władaniem i wskazanym stworem pod władaniem przeciwnika."
 
 #: ../../C19.rst:506
 msgid ""
@@ -2125,10 +2154,11 @@ msgid ""
 "Whenever River Kelpie or another permanent enters the battlefield from a "
 "graveyard, draw a card."
 msgstr ""
+"Ilekroć ten lub inny byt wejdzie na pole bitwy z cmentarza, dobierz kartę."
 
 #: ../../C19.rst:565
 msgid "Whenever a player casts a spell from a graveyard, draw a card."
-msgstr ""
+msgstr "Ilekroć gracz rzuci czar z cmentarza, dobierz kartę."
 
 #: ../../C19.rst:567
 msgid ""
@@ -2331,12 +2361,15 @@ msgid ""
 "Morph |mana_x|\\ |mana_b|\\ |mana_b| (You may cast this card face down as a "
 "2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
+"Przemiana |mana_x|\\ |mana_b|\\ |mana_b| (Możesz rzucić tę kartę zakrytą za "
+"|mana_3| jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt przemiany.)"
 
 #: ../../C19.rst:631
 msgid ""
 "When Bane of the Living is turned face up, all creatures get -X/-X until end "
 "of turn."
 msgstr ""
+"Kiedy ten byt zostanie odkryty, wszystkie stwory dostają do końca tury -X/-X."
 
 #: ../../C19.rst:636
 msgid ""
@@ -2646,7 +2679,7 @@ msgstr ""
 
 #: ../../C19.rst:717
 msgid "Destroy six target creatures."
-msgstr ""
+msgstr "Zniszcz sześć wskazanych stworów."
 
 #: ../../C19.rst:722
 msgid ""
@@ -2724,12 +2757,15 @@ msgid ""
 "When Overseer of the Damned enters the battlefield, you may destroy target "
 "creature."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, możesz zniszczyć wskazanego stwora."
 
 #: ../../C19.rst:751
 msgid ""
 "Whenever a nontoken creature an opponent controls dies, create a tapped 2/2 "
 "black Zombie creature token."
 msgstr ""
+"Ilekroć umrze nieżetonowy stwór pod władaniem przeciwnika, stwórz "
+"przekręcony żeton czarnego stwora Zombi 2/2."
 
 #: ../../C19.rst:756
 msgid ""
@@ -2802,12 +2838,16 @@ msgid ""
 "Morph |mana_3|\\ |mana_b|\\ |mana_b| (You may cast this card face down as a "
 "2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
+"Przemiana |mana_3|\\ |mana_b|\\ |mana_b| (Możesz rzucić tę kartę zakrytą za "
+"|mana_3| jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt przemiany.)"
 
 #: ../../C19.rst:773
 msgid ""
 "When Skinthinner is turned face up, destroy target nonblack creature. It "
 "can't be regenerated."
 msgstr ""
+"Kiedy ten byt zostanie odkryty, zniszcz wskazanego nieczarnego stwora. Nie "
+"może on zregenerować."
 
 #: ../../C19.rst:782
 msgid ""
@@ -3276,6 +3316,8 @@ msgid ""
 "Violent Eruption deals 4 damage divided as you choose among any number of "
 "targets."
 msgstr ""
+"Ten czar zadaje 4 obrażenia rozdzielone jak wolisz pomiędzy dowolną liczbę "
+"wskazanych celów."
 
 #: ../../C19.rst:913
 msgid ""
@@ -3559,6 +3601,8 @@ msgid ""
 "When Great Oak Guardian enters the battlefield, creatures target player "
 "controls get +2/+2 until end of turn. Untap them."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, stwory pod władaniem wskazanego gracza "
+"dostają do końca tury +2/+2. Odkręć je."
 
 #: ../../C19.rst:1004
 msgid ""
@@ -3629,12 +3673,14 @@ msgid ""
 "Morph |mana_1|\\ |mana_g| (You may cast this card face down as a 2/2 "
 "creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
+"Przemiana |mana_1|\\ |mana_g| (Możesz rzucić tę kartę zakrytą za |mana_3| "
+"jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt przemiany.)"
 
 #: ../../C19.rst:1025
 msgid ""
 "When Nantuko Vigilante is turned face up, destroy target artifact or "
 "enchantment."
-msgstr ""
+msgstr "Kiedy ten byt zostanie odkryty, zniszcz wskazany artefakt lub urok."
 
 #: ../../C19.rst:1030
 msgid ""
@@ -4521,6 +4567,8 @@ msgid ""
 "Imprint — When Soul Foundry enters the battlefield, you may exile a creature "
 "card from your hand."
 msgstr ""
+"Odlew — Kiedy ten byt wejdzie na pole bitwy, możesz wygnać kartę stwora z "
+"twojej ręki."
 
 #: ../../C19.rst:1315
 msgid ""

@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-01 01:05+0200\n"
-"PO-Revision-Date: 2022-04-16 23:39+0000\n"
+"PO-Revision-Date: 2022-04-17 14:01+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/cmd/pl/>\n"
 "Language: pl\n"
@@ -925,6 +925,8 @@ msgid ""
 "When Chromeshell Crab is turned face up, you may exchange control of target "
 "creature you control and target creature an opponent controls."
 msgstr ""
+"Kiedy ten byt zostanie odkryty, możesz zamienić władanie nad wskazanym "
+"stworem pod twoim władaniem i wskazanym stworem pod władaniem przeciwnika."
 
 #: ../../CMD.rst:236
 msgid ""
@@ -1632,7 +1634,7 @@ msgstr ""
 
 #: ../../CMD.rst:461
 msgid "Destroy six target creatures."
-msgstr ""
+msgstr "Zniszcz sześć wskazanych stworów."
 
 #: ../../CMD.rst:466
 msgid ""
