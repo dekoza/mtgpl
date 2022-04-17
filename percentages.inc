@@ -244,7 +244,7 @@
 .. |DKA_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |C17_percent| image:: images/pie80.png        
+.. |C17_percent| image:: images/pie85.png        
 
 .. |LEB_percent| image:: images/pie70.png        
 
