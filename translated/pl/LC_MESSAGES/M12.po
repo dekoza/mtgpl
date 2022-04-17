@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-11-01 23:01+0100\n"
-"PO-Revision-Date: 2022-03-28 09:53+0000\n"
+"PO-Revision-Date: 2022-04-17 16:43+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/m12/pl/>\n"
 "Language: pl\n"
@@ -1241,9 +1241,10 @@ msgid ""
 "other types and it has \"When this creature becomes the target of a spell or "
 "ability, sacrifice it.\""
 msgstr ""
-"Umieszczając tę kartę na polu bitwy możesz uczynić ją kopią stwora obecnego "
-"na polu bitwy, ale jest Iluzją oprócz swoich innych typów i ma \"Kiedy ten "
-"stwór zostanie wskazany przez czar lub zdolność, poświęć go.\""
+"Możesz zdecydować, że ten byt wejdzie na pole bitwy jako kopia dowolnego "
+"stwora na polu bitwy, ale jest on dodatkowo Iluzją oprócz swoich innych "
+"typów i ma \"Kiedy ten stwór zostanie wskazany przez czar lub zdolność, "
+"poświęć go.\""
 
 #: ../../M12.rst:362
 msgid ""
@@ -1819,7 +1820,7 @@ msgid ""
 "As Sutured Ghoul enters the battlefield, exile any number of creature cards "
 "from your graveyard."
 msgstr ""
-"Umieszczając tę kartę na polu bitwy, wygnaj dowolną liczbę kart stworów z "
+"Przy wejściu tego bytu na pole bitwy, wygnaj dowolną liczbę kart stworów z "
 "twojego cmentarza."
 
 #: ../../M12.rst:557
@@ -3048,7 +3049,7 @@ msgstr ""
 
 #: ../../M12.rst:995
 msgid "As Adaptive Automaton enters the battlefield, choose a creature type."
-msgstr "Umieszczając tego stwora na polu bitwy wybierz typ stwora."
+msgstr "Przy wejściu tego bytu na pole bitwy wybierz typ stwora."
 
 #: ../../M12.rst:997
 msgid "Adaptive Automaton is the chosen type in addition to its other types."

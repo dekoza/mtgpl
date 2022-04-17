@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 20:58+0100\n"
-"PO-Revision-Date: 2022-04-16 23:39+0000\n"
+"PO-Revision-Date: 2022-04-17 16:43+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c17/pl/>\n"
 "Language: pl\n"
@@ -255,6 +255,8 @@ msgid ""
 "If an opponent would draw two or more cards, instead you and that player "
 "each draw a card."
 msgstr ""
+"Jeśli przeciwnik miałby dobrać co najmniej dwie karty, zamiast tego ty i ów "
+"gracz dobieracie po karcie."
 
 #: ../../C17.rst:20
 msgid ""
@@ -272,10 +274,14 @@ msgid ""
 "Balan, Wandering Knight has double strike as long as two or more Equipment "
 "are attached to it."
 msgstr ""
+"Ten stwór ma podwójny cios o ile co najmniej dwa Wyposażenia są do niego "
+"dołączone."
 
 #: ../../C17.rst:19
 msgid "|mana_1|\\ |mana_w|: Attach all Equipment you control to Balan."
 msgstr ""
+"|mana_1|\\ |mana_w|: Dołącz wszystkie Wyposażenia pod twoim władaniem do "
+"tego stwora."
 
 #: ../../C17.rst:26
 msgid ""
@@ -294,6 +300,8 @@ msgid ""
 "Whenever enchanted player is attacked, you gain 2 life. Each opponent "
 "attacking that player does the same."
 msgstr ""
+"Ilekroć zauroczony gracz zostanie zaatakowany, zyskaj 2 życia. Każdy "
+"przeciwnik atakujący owego gracza robi to samo."
 
 #: ../../C17.rst:30
 msgid ""
@@ -308,6 +316,9 @@ msgid ""
 "a nonland permanent they don't control that hasn't been chosen this way. "
 "Destroy all other nonland permanents."
 msgstr ""
+"Wybierz nielądowy byt poza twoim władaniem, po czym każdy inny gracz wybiera "
+"nielądowy byt poza swoim władaniem, który nie został wybrany w ten sposób. "
+"Zniszcz wszystkie inne nielądowe byty."
 
 #: ../../C17.rst:38
 msgid ""
@@ -318,18 +329,21 @@ msgstr ""
 
 #: ../../C17.rst:33
 msgid "As Kindred Boon enters the battlefield, choose a creature type."
-msgstr ""
+msgstr "Przy wejściu tego bytu na pole bitwy, wybierz typ stwora."
 
 #: ../../C17.rst:35
 msgid ""
 "|mana_1|\\ |mana_w|: Put a divinity counter on target creature you control "
 "of the chosen type."
 msgstr ""
+"|mana_1|\\ |mana_w|: Umieść znacznik boskości na wskazanym stworze pod twoim "
+"władaniem będącym wybranego typu."
 
 #: ../../C17.rst:37
 msgid ""
 "Each creature you control with a divinity counter on it has indestructible."
 msgstr ""
+"Każdy stwór pod twoim władaniem mający znacznik boskości ma niezniszczalność."
 
 #: ../../C17.rst:44
 msgid ""
@@ -355,6 +369,9 @@ msgid ""
 "Whenever a Dragon you control becomes the target of a spell or ability an "
 "opponent controls, destroy target nonland permanent that player controls."
 msgstr ""
+"Ilekroć Smok pod twoim władaniem zostanie wskazany przez czar lub zdolność "
+"pod władaniem przeciwnika, zniszcz wskazany nielądowy byt pod władaniem "
+"owego gracza."
 
 #: ../../C17.rst:50
 msgid ""
@@ -373,6 +390,8 @@ msgid ""
 "Reveal the player you chose: Exile target creature that's attacking you if "
 "it's controlled by the chosen player. Activate only once."
 msgstr ""
+"Ujawnij wybór gracza: Wygnaj wskazanego atakującego cię stwora jeśli jest on "
+"pod władaniem wybranego gracza. Aktywuj tylko raz."
 
 #: ../../C17.rst:56
 msgid ""
@@ -395,7 +414,7 @@ msgstr ""
 
 #: ../../C17.rst:55
 msgid "Exile Teferi's Protection."
-msgstr ""
+msgstr "Wygnaj ten czar."
 
 #: ../../C17.rst:62
 msgid ""
@@ -409,6 +428,8 @@ msgid ""
 "Whenever enchanted player is attacked, you draw a card. Each opponent "
 "attacking that player does the same."
 msgstr ""
+"Ilekroć zauroczony gracz zostanie zaatakowany, dobierz kartę. Każdy "
+"przeciwnik atakujący owego gracza robi to samo."
 
 #: ../../C17.rst:66
 msgid ""
@@ -422,6 +443,8 @@ msgid ""
 "Tap an untapped Wizard you control: Return target nonland permanent you "
 "don't control to its owner's hand."
 msgstr ""
+"Przekręć odkręconego Czarodzieja pod twoim władaniem: Przywróć wskazany "
+"nielądowy byt pod twoim władaniem do ręki właściciela."
 
 #: ../../C17.rst:72
 msgid ""
@@ -432,13 +455,15 @@ msgstr ""
 
 #: ../../C17.rst:69
 msgid "As Kindred Discovery enters the battlefield, choose a creature type."
-msgstr ""
+msgstr "Przy wejściu tego bytu na pole bitwy, wybierz typ stwora."
 
 #: ../../C17.rst:71
 msgid ""
 "Whenever a creature you control of the chosen type enters the battlefield or "
 "attacks, draw a card."
 msgstr ""
+"Ilekroć stwór wybranego typu pod twoim władaniem wejdzie na pole bitwy lub "
+"zaatakuje, dobierz kartę."
 
 #: ../../C17.rst:76
 msgid ""
@@ -454,6 +479,10 @@ msgid ""
 "turn. Until end of turn, you may play lands and cast spells from among cards "
 "exiled this way without paying their mana costs."
 msgstr ""
+"|mana_u|, |tap|, poświęć ten byt: Przetasuj twoją bibliotekę, po czym wygnaj "
+"X wierzchnich kart, gdzie X to jeden plus liczba czarów rzuconych w tej "
+"turze. Do końca tury możesz zagrywać lądy i rzucać czary spośród kart "
+"wygnanych w ten sposób bez płacenia ich kosztów many."
 
 #: ../../C17.rst:82
 msgid ""
@@ -469,6 +498,10 @@ msgid ""
 "attacking. (It can't attack its controller or its controller's "
 "planeswalkers.)"
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy podczas kroku deklaracji atakujących, "
+"możesz zmienić wybór gracza lub wędrowca atakowanego przez wskazanego "
+"atakującego stwora. (Nie może on atakować swojego władcy ani wędrowca "
+"swojego władcy.)"
 
 #: ../../C17.rst:88
 msgid ""
@@ -486,6 +519,8 @@ msgid ""
 "When Bloodline Necromancer enters the battlefield, you may return target "
 "Vampire or Wizard creature card from your graveyard to the battlefield."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, możesz przywrócić wskazaną kartę "
+"Wampira lub Czarodzieja z twojego cmentarza na pole bitwy."
 
 #: ../../C17.rst:94
 msgid ""
@@ -1204,7 +1239,7 @@ msgstr ""
 
 #: ../../C17.rst:335
 msgid "As Herald's Horn enters the battlefield, choose a creature type."
-msgstr "Umieszczając tę kartę na polu bitwy wybierz typ stwora."
+msgstr "Przy wejściu tego bytu na pole bitwy wybierz typ stwora."
 
 #: ../../C17.rst:337
 msgid "Creature spells you cast of the chosen type cost |mana_1| less to cast."
@@ -1802,7 +1837,7 @@ msgstr ""
 
 #: ../../C17.rst:519
 msgid "As Monastery Siege enters the battlefield, choose Khans or Dragons."
-msgstr "Umieszczając ten urok na polu bitwy wybierz Chanów lub Smoki."
+msgstr "Przy wejściu tego bytu na pole bitwy wybierz Chanów lub Smoki."
 
 #: ../../C17.rst:521
 msgid ""
@@ -2346,7 +2381,7 @@ msgstr ""
 
 #: ../../C17.rst:681
 msgid "As Palace Siege enters the battlefield, choose Khans or Dragons."
-msgstr "Umieszczając ten urok na polu bitwy wybierz Chanów lub Smoki."
+msgstr "Przy wejściu tego bytu na pole bitwy wybierz Chanów lub Smoki."
 
 #: ../../C17.rst:683
 msgid ""
@@ -2684,7 +2719,7 @@ msgstr ""
 
 #: ../../C17.rst:793
 msgid "As Outpost Siege enters the battlefield, choose Khans or Dragons."
-msgstr "Umieszczając ten urok na polu bitwy wybierz Chanów lub Smoki."
+msgstr "Przy wejściu tego bytu na pole bitwy wybierz Chanów lub Smoki."
 
 #: ../../C17.rst:795
 msgid ""
@@ -2870,7 +2905,7 @@ msgstr ""
 
 #: ../../C17.rst:855
 msgid "As Frontier Siege enters the battlefield, choose Khans or Dragons."
-msgstr "Umieszczając ten urok na polu bitwy wybierz Chanów lub Smoki."
+msgstr "Przy wejściu tego bytu na pole bitwy wybierz Chanów lub Smoki."
 
 #: ../../C17.rst:857
 msgid ""
@@ -3907,7 +3942,7 @@ msgstr ""
 
 #: ../../C17.rst:1219
 msgid "As Door of Destinies enters the battlefield, choose a creature type."
-msgstr "Umieszczając ten artefakt na polu bitwy wybierz typ stwora."
+msgstr "Przy wejściu tego bytu na pole bitwy wybierz typ stwora."
 
 #: ../../C17.rst:1221
 msgid ""

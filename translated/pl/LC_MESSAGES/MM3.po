@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-01 01:05+0200\n"
-"PO-Revision-Date: 2022-04-16 23:39+0000\n"
+"PO-Revision-Date: 2022-04-17 16:43+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mm3/pl/>\n"
 "Language: pl\n"
@@ -1001,9 +1001,10 @@ msgid ""
 "other types and it has \"When this creature becomes the target of a spell or "
 "ability, sacrifice it.\""
 msgstr ""
-"Umieszczając tę kartę na polu bitwy możesz uczynić ją kopią stwora obecnego "
-"na polu bitwy, ale jest Iluzją oprócz swoich innych typów i ma \"Kiedy ten "
-"stwór zostanie wskazany przez czar lub zdolność, poświęć go.\""
+"Możesz zdecydować, że ten byt wejdzie na pole bitwy jako kopia dowolnego "
+"stwora na polu bitwy, ale jest on dodatkowo Iluzją oprócz swoich innych "
+"typów i ma \"Kiedy ten stwór zostanie wskazany przez czar lub zdolność, "
+"poświęć go.\""
 
 #: ../../MM3.rst:242
 msgid ""
@@ -3928,7 +3929,7 @@ msgstr ""
 
 #: ../../MM3.rst:1193
 msgid "As Cavern of Souls enters the battlefield, choose a creature type."
-msgstr "Umieszczając ten ląd na polu bitwy, wybierz typ stwora."
+msgstr "Przy wejściu tego bytu na pole bitwy, wybierz typ stwora."
 
 #: ../../MM3.rst:1195 ../../MM3.rst:1279
 msgid "|tap|: Add |colorless|."

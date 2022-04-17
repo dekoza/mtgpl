@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-01 01:05+0200\n"
-"PO-Revision-Date: 2022-04-08 15:24+0000\n"
+"PO-Revision-Date: 2022-04-17 16:43+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c20/pl/>\n"
 "Language: pl\n"
@@ -1418,7 +1418,7 @@ msgid ""
 "creatures. This creature enters the battlefield with three times that many "
 "+1/+1 counters on it.)"
 msgstr ""
-"Pożarcie 3 (Umieszczając tego stwora na polu bitwy możesz poświęcić dowolną "
+"Pożarcie 3 (Przy wejściu tego stwora na pole bitwy możesz poświęcić dowolną "
 "liczbę stworów. Ten stwór wchodzi na pole bitwy mając trzykrotnie tyle "
 "znaczników +1/+1.)"
 
@@ -2078,7 +2078,7 @@ msgstr ""
 
 #: ../../C20.rst:633
 msgid "As Riders of Gavony enters the battlefield, choose a creature type."
-msgstr "Umieszczając tego stwora na polu bitwy wybierz typ stwora."
+msgstr "Przy wejściu tego bytu na pole bitwy wybierz typ stwora."
 
 #: ../../C20.rst:635
 msgid ""
@@ -2500,6 +2500,10 @@ msgid ""
 "attacking. (It can't attack its controller or its controller's "
 "planeswalkers.)"
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy podczas kroku deklaracji atakujących, "
+"możesz zmienić wybór gracza lub wędrowca atakowanego przez wskazanego "
+"atakującego stwora. (Nie może on atakować swojego władcy ani wędrowca "
+"swojego władcy.)"
 
 #: ../../C20.rst:780
 msgid ""
@@ -3125,7 +3129,7 @@ msgstr ""
 
 #: ../../C20.rst:959
 msgid "As Outpost Siege enters the battlefield, choose Khans or Dragons."
-msgstr "Umieszczając ten urok na polu bitwy wybierz Chanów lub Smoki."
+msgstr "Przy wejściu tego bytu na pole bitwy wybierz Chanów lub Smoki."
 
 #: ../../C20.rst:961
 msgid ""
@@ -5921,7 +5925,7 @@ msgstr ""
 
 #: ../../C20.rst:1971
 msgid "As Unclaimed Territory enters the battlefield, choose a creature type."
-msgstr "Umieszczając tę kartę na polu bitwy wybierz typ stwora."
+msgstr "Przy wejściu tego bytu na pole bitwy wybierz typ stwora."
 
 #: ../../C20.rst:1975
 msgid ""

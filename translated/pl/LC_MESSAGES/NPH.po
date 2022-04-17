@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-01 01:05+0200\n"
-"PO-Revision-Date: 2022-03-28 10:21+0000\n"
+"PO-Revision-Date: 2022-04-17 16:43+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/nph/pl/>\n"
 "Language: pl\n"
@@ -1050,9 +1050,9 @@ msgid ""
 "artifact or creature on the battlefield, except it's an artifact in addition "
 "to its other types."
 msgstr ""
-"Umieszczając tę kartę na polu bitwy możesz uczynić ją kopią dowolnego "
-"artefaktu lub stwora obecnego na polu bitwy, ale jest dodatkowo artefaktem "
-"oprócz swoich innych typów."
+"Możesz zdecydować, że ten byt wejdzie na pole bitwy jako kopia dowolnego "
+"artefaktu lub stwora na polu bitwy, ale jest dodatkowo artefaktem oprócz "
+"swoich innych typów."
 
 #: ../../NPH.rst:274
 msgid ""
@@ -1171,7 +1171,7 @@ msgstr ""
 # 17e914b8e7a04404a6f666469805f510
 #: ../../NPH.rst:317
 msgid "As Xenograft enters the battlefield, choose a creature type."
-msgstr "Umieszczając tę kartę na polu bitwy wybierz typ stwora."
+msgstr "Przy wejściu tego bytu na pole bitwy wybierz typ stwora."
 
 # a0aa26a3dcfa4b4c9772e7ba270a8209
 #: ../../NPH.rst:319
@@ -2527,7 +2527,7 @@ msgstr ""
 # ce62c379dd1f4b7fbc6f6e42616fe703
 #: ../../NPH.rst:773
 msgid "As Caged Sun enters the battlefield, choose a color."
-msgstr "Umieszczając tę kartę na polu bitwy, wybierz kolor."
+msgstr "Przy wejściu tego bytu na pole bitwy, wybierz kolor."
 
 # 83f782a7d64640f9b122a3f1629bf322
 #: ../../NPH.rst:775

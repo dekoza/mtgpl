@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-01 01:05+0200\n"
-"PO-Revision-Date: 2022-04-16 23:39+0000\n"
+"PO-Revision-Date: 2022-04-17 16:43+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/tsr/pl/>\n"
 "Language: pl\n"
@@ -2010,10 +2010,10 @@ msgid ""
 "it has \"At the beginning of your upkeep, you may turn this creature face "
 "down.\""
 msgstr ""
-"Umieszczając tego stwora na polu bitwy lub odkrywając go możesz wybrać "
-"innego stwora na polu bitwy. Jeśli tak zrobisz, dopóki niniejszy stwór nie "
-"zostanie zakryty, staje się kopią owego stwora, ale ma \"Na początku twojego "
-"kroku utrzymania możesz zakryć tego stwora.\""
+"Przy wejściu tego bytu na pole bitwy lub odkrywając go możesz wybrać innego "
+"stwora na polu bitwy. Jeśli tak zrobisz, dopóki niniejszy stwór nie zostanie "
+"zakryty, staje się kopią owego stwora, ale ma \"Na początku twojego kroku "
+"utrzymania możesz zakryć tego stwora.\""
 
 #: ../../TSR.rst:589
 msgid "Morph |mana_1|\\ |mana_u|"
@@ -4973,7 +4973,7 @@ msgid ""
 "As Cloud Key enters the battlefield, choose artifact, creature, enchantment, "
 "instant, or sorcery."
 msgstr ""
-"Umieszczając tę kartę na polu bitwy wybierz artefakt, stwór, urok, sztuczka "
+"Przy wejściu tego bytu na pole bitwy wybierz artefakt, stwór, urok, sztuczka "
 "lub obrzęd."
 
 #: ../../TSR.rst:1535
@@ -5014,7 +5014,7 @@ msgstr ""
 
 #: ../../TSR.rst:1547
 msgid "As Gauntlet of Power enters the battlefield, choose a color."
-msgstr "Umieszczając ten artefakt na polu bitwy, wybierz kolor."
+msgstr "Przy wejściu tego bytu na pole bitwy, wybierz kolor."
 
 #: ../../TSR.rst:1549
 msgid "Creatures of the chosen color get +1/+1."
@@ -5090,7 +5090,7 @@ msgstr ""
 
 #: ../../TSR.rst:1569
 msgid "As Paradise Plume enters the battlefield, choose a color."
-msgstr "Umieszczając ten artefakt na polu bitwy, wybierz kolor."
+msgstr "Przy wejściu tego bytu na pole bitwy, wybierz kolor."
 
 #: ../../TSR.rst:1571
 msgid ""
@@ -5147,7 +5147,7 @@ msgstr "Niezniszczalność"
 
 #: ../../TSR.rst:1589
 msgid "As Stuffy Doll enters the battlefield, choose a player."
-msgstr "Umieszczając tego stwora na polu bitwy, wybierz gracza."
+msgstr "Przy wejściu tego bytu na pole bitwy, wybierz gracza."
 
 #: ../../TSR.rst:1591
 msgid ""
@@ -5923,7 +5923,7 @@ msgstr ""
 
 #: ../../TSR.rst:1855
 msgid "As True-Name Nemesis enters the battlefield, choose a player."
-msgstr "Umieszczając tę kartę na polu bitwy, wybierz gracza."
+msgstr "Przy wejściu tego bytu na pole bitwy, wybierz gracza."
 
 #: ../../TSR.rst:1857
 msgid "True-Name Nemesis has protection from the chosen player."
@@ -7294,7 +7294,7 @@ msgid ""
 "As Sorcerous Spyglass enters the battlefield, look at an opponent's hand, "
 "then choose any card name."
 msgstr ""
-"Umieszczając tę kartę na polu bitwy, spójrz na rękę przeciwnika, po czym "
+"Przy wejściu tego bytu na pole bitwy, spójrz na rękę przeciwnika, po czym "
 "nazwij kartę."
 
 #: ../../TSR.rst:2295
@@ -7314,7 +7314,7 @@ msgstr ""
 
 #: ../../TSR.rst:2299
 msgid "As Vanquisher's Banner enters the battlefield, choose a creature type."
-msgstr "Umieszczając tę kartę na polu bitwy wybierz typ stwora."
+msgstr "Przy wejściu tego bytu na pole bitwy wybierz typ stwora."
 
 #: ../../TSR.rst:2301
 msgid "Creatures you control of the chosen type get +1/+1."

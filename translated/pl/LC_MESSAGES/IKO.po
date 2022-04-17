@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-01 01:05+0200\n"
-"PO-Revision-Date: 2022-03-29 10:54+0000\n"
+"PO-Revision-Date: 2022-04-17 16:43+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/iko/pl/>\n"
 "Language: pl\n"
@@ -546,7 +546,7 @@ msgid ""
 "As Lavabrink Venturer enters the battlefield, choose odd or even. (Zero is "
 "even.)"
 msgstr ""
-"Umieszczając tę kartę na polu bitwy wybierz parzyste lub nieparzyste. (Zero "
+"Przy wejściu tego bytu na pole bitwy wybierz parzyste lub nieparzyste. (Zero "
 "jest parzyste.)"
 
 #: ../../IKO.rst:107
@@ -4403,7 +4403,7 @@ msgstr ""
 
 #: ../../IKO.rst:1331
 msgid "As Umori, the Collector enters the battlefield, choose a card type."
-msgstr "Umieszczając tę kartę na polu bitwy wybierz typ karty."
+msgstr "Przy wejściu tego bytu na pole bitwy wybierz typ karty."
 
 #: ../../IKO.rst:1333
 msgid "Spells you cast of the chosen type cost |mana_1| less to cast."
