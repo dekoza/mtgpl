@@ -88,7 +88,8 @@
 .. |M10_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |C21_percent| image:: images/pie85.png        
+.. |C21_percent| image:: images/done.png        
+   :alt: Tłumaczenie zakończone
 
 .. |GK1_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
@@ -224,7 +225,7 @@
 
 .. |CSP_percent| image:: images/pie45.png        
 
-.. |C16_percent| image:: images/pie80.png        
+.. |C16_percent| image:: images/pie85.png        
 
 .. |ZEN_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
