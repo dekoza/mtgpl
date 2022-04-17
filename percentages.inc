@@ -54,7 +54,7 @@
 .. |M13_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |C20_percent| image:: images/pie75.png        
+.. |C20_percent| image:: images/pie80.png        
 
 .. |BBD_percent| image:: images/pie70.png        
 
@@ -244,7 +244,8 @@
 .. |DKA_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |C17_percent| image:: images/pie90.png        
+.. |C17_percent| image:: images/done.png        
+   :alt: Tłumaczenie zakończone
 
 .. |LEB_percent| image:: images/pie70.png        
 
