@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 20:58+0100\n"
-"PO-Revision-Date: 2022-04-18 17:53+0000\n"
+"PO-Revision-Date: 2022-04-18 22:02+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/cmr/pl/>\n"
 "Language: pl\n"
@@ -543,7 +543,7 @@ msgstr "Zauroczony stwór nie może atakować ani blokować."
 
 #: ../../CMR.rst:113
 msgid "|mana_1|\\ |mana_w|: Return Cage of Hands to its owner's hand."
-msgstr ""
+msgstr "|mana_1|\\ |mana_w|: Przywróć ten byt do ręki właściciela."
 
 #: ../../CMR.rst:118
 msgid ""
@@ -5748,6 +5748,8 @@ msgid ""
 "|tap|, Sacrifice Command Beacon: Put your commander into your hand from the "
 "command zone."
 msgstr ""
+"|tap|, poświęć ten byt: Umieść twojego dowódcę w twojej ręce ze strefy "
+"dowodzenia."
 
 #: ../../CMR.rst:1986
 msgid ""

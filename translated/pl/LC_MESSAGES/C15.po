@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-01 01:05+0200\n"
-"PO-Revision-Date: 2022-04-18 19:47+0000\n"
+"PO-Revision-Date: 2022-04-18 22:02+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c15/pl/>\n"
 "Language: pl\n"
@@ -272,6 +272,9 @@ msgid ""
 "graveyard, then that player chooses a creature card in your graveyard. You "
 "may return those cards to the battlefield under their owners' control."
 msgstr ""
+"Na początku twojego kroku końcowego, wybierz kartę stwora w cmentarzu "
+"przeciwnika, po czym ów gracz wybiera kartę stwora w twoim cmentarzu. Możesz "
+"przywrócić owe karty na pole bitwy pod władaniem ich właścicieli."
 
 #: ../../C15.rst:20
 msgid ""
@@ -286,6 +289,10 @@ msgid ""
 "one target nonland permanent that player controls until Grasp of Fate leaves "
 "the battlefield. (Those permanents return under their owners' control.)"
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, dla każdego przeciwnika, wygnaj co "
+"najwyżej jeden wskazany nielądowy byt pod władaniem owego gracza do czasu "
+"opuszczenia przez niniejszy pola bitwy. (Owe byty wracają pod władanie "
+"swoich właścicieli.)"
 
 #: ../../C15.rst:26
 msgid ""
@@ -323,12 +330,15 @@ msgid ""
 "|mana_5|\\ |mana_w|\\ |mana_w|: Monstrosity 3. (If this creature isn't "
 "monstrous, put three +1/+1 counters on it and it becomes monstrous.)"
 msgstr ""
+"|mana_5|\\ |mana_w|\\ |mana_w|: Monstrualność 3. (Jeśli ten stwór nie jest "
+"monstrualny, umieść na nim 3 znaczniki +1/+1 i staje się on monstrualny.)"
 
 #: ../../C15.rst:33
 msgid ""
 "When Kalemne's Captain becomes monstrous, exile all artifacts and "
 "enchantments."
 msgstr ""
+"Kiedy ten stwór staje się monstrualny, wygnaj wszystkie artefakty i uroki."
 
 #: ../../C15.rst:38
 msgid ""
@@ -407,6 +417,9 @@ msgid ""
 "Gain control of target spell. You may choose new targets for it. (If that "
 "spell becomes a permanent, it enters the battlefield under your control.)"
 msgstr ""
+"Zyskaj władanie nad wskazanym czarem. Możesz wybrać dla niego nowe "
+"wskazania. (Jeśli ów czar stanie się bytem, wchodzi on na pole bitwy pod "
+"twoim władaniem.)"
 
 #: ../../C15.rst:66
 msgid ""
@@ -419,7 +432,7 @@ msgstr ""
 msgid ""
 "Whenever Broodbirth Viper deals combat damage to a player, you may draw a "
 "card."
-msgstr ""
+msgstr "Ilekroć ten stwór zada graczowi obrażenia bojowe, możesz dobrać kartę."
 
 #: ../../C15.rst:70
 msgid ""
@@ -434,6 +447,9 @@ msgid ""
 "the battlefield, except it has \"|mana_x|: This creature has base power and "
 "toughness X/X.\""
 msgstr ""
+"Możesz zdecydować, że ten byt wejdzie na pole bitwy jako kopia "
+"któregokolwiek stwora na polu bitwy, ale ma on \"|mana_x|: Ten stwór ma "
+"bazową siłę i wytrzymałość X/X.\""
 
 #: ../../C15.rst:76
 msgid ""
@@ -459,7 +475,7 @@ msgstr ""
 
 #: ../../C15.rst:79
 msgid "Cast this spell only during the declare blockers step."
-msgstr ""
+msgstr "Rzuć ten czar tylko podczas kroku deklaracji blokujących."
 
 #: ../../C15.rst:81
 msgid ""
@@ -467,6 +483,9 @@ msgid ""
 "token that's a copy of that creature and that's blocking that creature. "
 "Exile those tokens at end of combat."
 msgstr ""
+"Dla każdego stwora atakującego ciebie lub wędrowca pod twoim władaniem, "
+"stwórz żeton będący kopią owego stwora blokujący owego stwora. Wygnaj owe "
+"żetony na koniec potyczki."
 
 #: ../../C15.rst:92
 msgid ""
@@ -501,6 +520,10 @@ msgid ""
 "creature cards, put all creature cards revealed this way onto the "
 "battlefield, then shuffle the rest of the revealed cards into your library."
 msgstr ""
+"Wygnaj wszystkie stwory pod twoim władaniem. Na początku najbliższego kroku "
+"końcowego, ujawnij karty z wierzchu twojej biblioteki aż ujawnisz tyle samo "
+"kart stworów, umieść wszystkie karty stworów ujawnione w ten sposób na polu "
+"bitwy, po czym wtasuj pozostałe z ujawnionych kart do twojej biblioteki."
 
 #: ../../C15.rst:102
 msgid ""
@@ -515,6 +538,7 @@ msgid ""
 "Whenever Banshee of the Dread Choir deals combat damage to a player, that "
 "player discards a card."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, ów gracz odrzuca kartę."
 
 #: ../../C15.rst:106
 msgid ""
@@ -544,6 +568,9 @@ msgid ""
 "battlefield under your control, Daxos's Torment becomes a 5/5 Demon creature "
 "with flying and haste in addition to its other types until end of turn."
 msgstr ""
+"Konstelacja — Ilekroć ten lub inny urok wejdzie na pole bitwy pod twoim "
+"władaniem, niniejszy staje się do końca tury dodatkowo stworem Demon 5/5 z "
+"lataniem i pośpiechem oprócz swoich innych typów."
 
 #: ../../C15.rst:114
 msgid ""
@@ -572,6 +599,8 @@ msgid ""
 "Each player mills X cards. For each creature card put into a graveyard this "
 "way, you create a tapped 2/2 black Zombie creature token."
 msgstr ""
+"Każdy gracz mieli X kart. Za każdą kartę stwora zmieloną w ten sposób, "
+"stwórz przekręcony żeton czarnego stwora Zombi 2/2."
 
 #: ../../C15.rst:124
 msgid ""
@@ -601,6 +630,9 @@ msgid ""
 "permanents. Thief of Blood enters the battlefield with a +1/+1 counter on it "
 "for each counter removed this way."
 msgstr ""
+"Przy wejściu tego stwora na pole bitwy, usuń wszystkie znaczniki ze "
+"wszystkich bytów. Ten stwór wchodzi na pole bitwy mając znacznik +1/+1 za "
+"każdy znacznik usunięty w ten sposób."
 
 #: ../../C15.rst:140
 msgid ""
@@ -633,6 +665,8 @@ msgid ""
 "When a source an opponent controls deals damage to you, sacrifice Awaken the "
 "Sky Tyrant. If you do, create a 5/5 red Dragon creature token with flying."
 msgstr ""
+"Kiedy źródło pod władaniem przeciwnika zadaje tobie obrażenia, poświęć ten "
+"byt. Jeśli tak zrobisz, stwórz żeton czerwonego stwora Smok 5/5 z lataniem."
 
 #: ../../C15.rst:150
 msgid ""
@@ -660,11 +694,11 @@ msgstr ""
 
 #: ../../C15.rst:155
 msgid "Fiery Confluence deals 1 damage to each creature."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi po 1 obrażeniu."
 
 #: ../../C15.rst:157
 msgid "Fiery Confluence deals 2 damage to each opponent."
-msgstr ""
+msgstr "Ten czar zadaje każdemu przeciwnikowi po 2 obrażenia."
 
 #: ../../C15.rst:159
 msgid "Destroy target artifact."
@@ -694,7 +728,7 @@ msgstr ""
 
 #: ../../C15.rst:167
 msgid "Meteor Blast deals 4 damage to each of X targets."
-msgstr ""
+msgstr "Ten czar zadaje po 4 obrażenia każdemu z X wskazanych celów."
 
 #: ../../C15.rst:174
 msgid ""
@@ -719,6 +753,9 @@ msgid ""
 "for its overload cost. If you do, change its text by replacing all instances "
 "of \"target\" with \"each.\")"
 msgstr ""
+"Przeciążenie |mana_5|\\ |mana_r|\\ |mana_r|\\ |mana_r| (Możesz rzucić ten "
+"czar za jego koszt przeciążenia. Jeśli tak zrobisz, zmień jego tekst "
+"zastępując wszystkie wystąpienia słowa \"wskazany\" słowem \"każdy\".)"
 
 #: ../../C15.rst:180
 msgid ""
@@ -733,6 +770,8 @@ msgid ""
 "Creatures named Lightning Rager can't attack you or planeswalkers you "
 "control."
 msgstr ""
+"Stwory o nazwie Lightning Rager nie mogą atakować ciebie ani wędrowców pod "
+"twoim władaniem."
 
 #: ../../C15.rst:179
 msgid ""
@@ -740,6 +779,9 @@ msgid ""
 "Elemental creature token named Lightning Rager. It has trample, haste, and "
 "\"At the beginning of the end step, sacrifice this creature.\""
 msgstr ""
+"Na początku kroku utrzymania każdego gracza, ów gracz tworzy żeton "
+"czerwonego stwora Żywiołak 5/1 o nazwie Lightning Rager. Ma on tratowanie, "
+"pośpiech oraz \"Na początku kroku końcowego, poświęć tego stwora.\""
 
 #: ../../C15.rst:186
 msgid ""
@@ -765,6 +807,9 @@ msgid ""
 "of creatures attacking you. Prevent all combat damage that would be dealt "
 "this turn by non-Spider creatures."
 msgstr ""
+"Stwórz X żetonów zielonego stwora Pająk 1/2 z zasięgiem, gdzie X jest liczbą "
+"stworów atakujących cię. Zażegnaj wszystkie obrażenia bojowe jakie mogłyby w "
+"tej turze zadać stwory bez typu Pająk."
 
 #: ../../C15.rst:196
 msgid ""
@@ -877,6 +922,9 @@ msgid ""
 "get +X/+X until end of turn, where X is the greatest power among creatures "
 "you control."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, stwory pod twoim władaniem zyskują do końca "
+"tury tratowanie oraz +X/+X, gdzie X jest największą siłą pośród stworów pod "
+"twoim władaniem."
 
 #: ../../C15.rst:232
 msgid ""
@@ -899,6 +947,9 @@ msgid ""
 "graveyard to your hand, then choose an opponent. That player returns a card "
 "from their graveyard to their hand."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, przywróć wskazaną kartę z twojego "
+"cmentarza do twojej ręki, po czym wybierz przeciwnika. Ów gracz przywraca "
+"kartę ze swojego cmentarza do swojej ręki."
 
 #: ../../C15.rst:242
 msgid ""
@@ -935,12 +986,16 @@ msgid ""
 "Anya, Merciless Angel gets +3/+3 for each opponent whose life total is less "
 "than half their starting life total."
 msgstr ""
+"Ten stwór dostaje +3/+3 za każdego przeciwnika, którego liczba żyć jest "
+"mniejsza niż połowa jego startowej liczby żyć."
 
 #: ../../C15.rst:249
 msgid ""
 "As long as an opponent's life total is less than half their starting life "
 "total, Anya has indestructible."
 msgstr ""
+"O ile liczba żyć przeciwnika jest mniejsza niż połowa jego startowej liczby "
+"żyć, ten stwór ma niezniszczalność."
 
 #: ../../C15.rst:256
 msgid ""
@@ -955,6 +1010,8 @@ msgid ""
 "Whenever you cast a spell, put the cards in your hand on the bottom of your "
 "library in any order, then draw that many cards."
 msgstr ""
+"Ilekroć rzucisz czar, umieść karty z twojej ręki dowolnie na spodzie twojej "
+"biblioteki, po czym dobierz tyle samo kart."
 
 #: ../../C15.rst:262
 msgid ""
@@ -965,7 +1022,7 @@ msgstr ""
 
 #: ../../C15.rst:259
 msgid "Whenever you cast an enchantment spell, you get an experience counter."
-msgstr ""
+msgstr "Ilekroć rzucisz czar uroku, dostajesz znacznik doświadczenia."
 
 #: ../../C15.rst:261
 msgid ""
@@ -973,6 +1030,9 @@ msgid ""
 "creature token. It has \"This creature's power and toughness are each equal "
 "to the number of experience counters you have.\""
 msgstr ""
+"|mana_1|\\ |mana_w|\\ |mana_b|: Stwórz żeton biało-czarnego uroku-stwora "
+"Duch. Ma on \"Siła i wytrzymałość tego stwora są obie równe liczbie twoich "
+"znaczników doświadczenia.\""
 
 #: ../../C15.rst:268
 msgid ""
@@ -986,6 +1046,8 @@ msgid ""
 "Whenever a creature with power 2 or less enters the battlefield under your "
 "control, you get an experience counter."
 msgstr ""
+"Ilekroć stwór o sile 2 lub mniejszej wejdzie na pole bitwy pod twoim "
+"władaniem, dostajesz znacznik doświadczenia."
 
 #: ../../C15.rst:267
 msgid ""
@@ -993,6 +1055,9 @@ msgid ""
 "target creature you control, where X is the number of experience counters "
 "you have."
 msgstr ""
+"Na początku potyczki w twojej turze, umieść X znaczników +1/+1 na innym "
+"wskazanym stworze pod twoim władaniem, gdzie X jest liczbą twoich znaczników "
+"doświadczenia."
 
 #: ../../C15.rst:276
 msgid ""
@@ -1004,18 +1069,22 @@ msgstr ""
 
 #: ../../C15.rst:271
 msgid "Double strike, vigilance"
-msgstr ""
+msgstr "Podwójny cios, czujność"
 
 #: ../../C15.rst:273
 msgid ""
 "Whenever you cast a creature spell with mana value 5 or greater, you get an "
 "experience counter."
 msgstr ""
+"Ilekroć rzucisz czar stwora o skrócie many 5 lub większym, dostajesz "
+"znacznik doświadczenia."
 
 #: ../../C15.rst:275
 msgid ""
 "Kalemne, Disciple of Iroas gets +1/+1 for each experience counter you have."
 msgstr ""
+"Ten stwór wchodzi na pole bitwy mając znacznik +1/+1 za każdy twój znacznik "
+"doświadczenia."
 
 #: ../../C15.rst:282
 msgid ""
@@ -1029,13 +1098,15 @@ msgstr ""
 msgid ""
 "Whenever you gain life, put two +1/+1 counters on Karlov of the Ghost "
 "Council."
-msgstr ""
+msgstr "Ilekroć zyskasz życia, umieść dwa znaczniki +1/+1 na tym stworze."
 
 #: ../../C15.rst:281
 msgid ""
 "|mana_w|\\ |mana_b|, Remove six +1/+1 counters from Karlov of the Ghost "
 "Council: Exile target creature."
 msgstr ""
+"|mana_w|\\ |mana_b|, usuń sześć znaczników +1/+1 z tego stwora: Wygnaj "
+"wskazanego stwora."
 
 #: ../../C15.rst:286
 msgid ""
@@ -1079,6 +1150,8 @@ msgstr ""
 msgid ""
 "Whenever another creature you control dies, you get an experience counter."
 msgstr ""
+"Ilekroć umrze inny stwór pod twoim władaniem, dostajesz znacznik "
+"doświadczenia."
 
 #: ../../C15.rst:297
 msgid ""
@@ -1087,6 +1160,10 @@ msgid ""
 "experience counters you have, return it to the battlefield. Otherwise, put "
 "it into your hand."
 msgstr ""
+"Na początku twojego kroku końcowego, wybierz wskazaną kartę stwora w twoim "
+"cmentarzu. Jeśli skrót many owej karty jest mniejszy lub równy liczbie "
+"twoich znaczników doświadczenia, przywróć ją na pole bitwy. W przeciwnym "
+"razie umieść ją w twojej ręce."
 
 #: ../../C15.rst:304
 msgid ""
@@ -1100,12 +1177,16 @@ msgid ""
 "Whenever you cast an instant or sorcery spell with mana value greater than "
 "the number of experience counters you have, you get an experience counter."
 msgstr ""
+"Ilekroć rzucisz czar sztuczki lub obrzędu o skrócie many większym niż liczba "
+"twoich znaczników doświadczenia, dostajesz znacznik doświadczenia."
 
 #: ../../C15.rst:303
 msgid ""
 "Instant and sorcery spells you cast cost |mana_1| less to cast for each "
 "experience counter you have."
 msgstr ""
+"Rzucane przez ciebie czary sztuczek i obrzędów kosztują o |mana_1| mniej za "
+"każdy z twoich znaczników doświadczenia."
 
 #: ../../C15.rst:310
 msgid ""
@@ -1181,13 +1262,15 @@ msgstr ""
 
 #: ../../C15.rst:329
 msgid "As Seal of the Guildpact enters the battlefield, choose two colors."
-msgstr ""
+msgstr "Przy wejściu tego bytu na pole bitwy, wybierz dwa kolory."
 
 #: ../../C15.rst:331
 msgid ""
 "Each spell you cast costs |mana_1| less to cast for each of the chosen "
 "colors it is."
 msgstr ""
+"Każdy rzucany przez ciebie czar kosztuje o |mana_1| mniej za każdy posiadany "
+"kolor z wybranych."
 
 #: ../../C15.rst:338
 msgid ""
@@ -1219,6 +1302,8 @@ msgid ""
 "|tap|, Sacrifice Command Beacon: Put your commander into your hand from the "
 "command zone."
 msgstr ""
+"|tap|, poświęć ten byt: Umieść twojego dowódcę w twojej ręce ze strefy "
+"dowodzenia."
 
 #: ../../C15.rst:348
 msgid ""
@@ -1322,7 +1407,7 @@ msgstr "Zauroczony stwór nie może atakować ani blokować."
 
 #: ../../C15.rst:379
 msgid "|mana_1|\\ |mana_w|: Return Cage of Hands to its owner's hand."
-msgstr ""
+msgstr "|mana_1|\\ |mana_w|: Przywróć ten byt do ręki właściciela."
 
 #: ../../C15.rst:386
 msgid ""
@@ -1513,6 +1598,9 @@ msgid ""
 "permanent you control, you may destroy target permanent that opponent "
 "controls."
 msgstr ""
+"Ilekroć czar lub zdolność pod władaniem przeciwnika zniszczy nieżetonowy byt "
+"pod twoim władaniem, możesz zniszczyć wskazany byt pod władaniem owego "
+"przeciwnika."
 
 #: ../../C15.rst:452
 msgid ""
@@ -1850,7 +1938,7 @@ msgstr ""
 
 #: ../../C15.rst:547
 msgid "Gain control of target creature with mana value X or less."
-msgstr ""
+msgstr "Zyskaj władanie nad wskazanym stworem o skrócie many X lub mniejszym."
 
 #: ../../C15.rst:552
 msgid ""
@@ -2300,18 +2388,24 @@ msgid ""
 "When Diabolic Servitude enters the battlefield, return target creature card "
 "from your graveyard to the battlefield."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, przywróć wskazaną kartę stwora z "
+"twojego cmentarza na pole bitwy."
 
 #: ../../C15.rst:687
 msgid ""
 "When the creature put onto the battlefield with Diabolic Servitude dies, "
 "exile it and return Diabolic Servitude to its owner's hand."
 msgstr ""
+"Kiedy umrze stwór umieszczony na polu bitwy tym bytem, wygnaj go i przywróć "
+"ten byt do ręki właściciela."
 
 #: ../../C15.rst:689
 msgid ""
 "When Diabolic Servitude leaves the battlefield, exile the creature put onto "
 "the battlefield with Diabolic Servitude."
 msgstr ""
+"Kiedy ten byt opuści pole bitwy, wygnaj stwora umieszczonego na polu bitwy "
+"tym bytem."
 
 #: ../../C15.rst:694
 msgid ""
@@ -2457,6 +2551,8 @@ msgid ""
 "When a nonblack creature enters the battlefield, sacrifice Grave Peril. If "
 "you do, destroy that creature."
 msgstr ""
+"Kiedy nieczarny stwór wejdzie na pole bitwy, poświęć niniejszy byt. Jeśli "
+"tak zrobisz, zniszcz owego stwora."
 
 #: ../../C15.rst:740
 msgid ""
@@ -2699,7 +2795,7 @@ msgstr ""
 
 #: ../../C15.rst:807
 msgid "Borderland Behemoth gets +4/+4 for each other Giant you control."
-msgstr ""
+msgstr "Ten stwór dostaje +4/+4 za każdego innego Giganta pod twoim władaniem."
 
 #: ../../C15.rst:814
 msgid ""
@@ -2720,6 +2816,9 @@ msgid ""
 "player. If this spell was kicked, it deals 4 damage to each creature without "
 "flying and each player instead."
 msgstr ""
+"Ten czar zadaje każdemu stworowi bez latania i każdemu graczowi po 1 "
+"obrażeniu. Jeśli ten czar został podbity, zamiast tego zadaje on każdemu "
+"stworowi bez latania i każdemu graczowi po 4 obrażenia."
 
 #: ../../C15.rst:818
 msgid ""
@@ -2812,12 +2911,17 @@ msgid ""
 "Kicker |mana_w|\\ |mana_w| (You may pay an additional |mana_w|\\ |mana_w| as "
 "you cast this spell.)"
 msgstr ""
+"Podbicie |mana_w|\\ |mana_w| (Możesz zapłacić dodatkowe |mana_w|\\ |mana_w| "
+"podczas rzucania tego czaru.)"
 
 #: ../../C15.rst:841
 msgid ""
 "When Desolation Giant enters the battlefield, destroy all other creatures "
 "you control. If it was kicked, destroy all other creatures instead."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, zniszcz wszystkie inne stwory pod "
+"twoim władaniem. Jeśli został podbity, zamiast tego zniszcz wszystkie inne "
+"stwory."
 
 #: ../../C15.rst:848
 msgid ""
