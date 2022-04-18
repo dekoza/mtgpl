@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-01 01:05+0200\n"
-"PO-Revision-Date: 2022-04-18 22:02+0000\n"
+"PO-Revision-Date: 2022-04-18 23:05+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/chk/pl/>\n"
 "Language: pl\n"
@@ -4233,13 +4233,15 @@ msgstr ""
 
 #: ../../CHK.rst:1409
 msgid "Orochi Hatchery enters the battlefield with X charge counters on it."
-msgstr ""
+msgstr "Ten byt wchodzi na pole bitwy mając X znaczników ładunku."
 
 #: ../../CHK.rst:1411
 msgid ""
 "|mana_5|, |tap|: Create a 1/1 green Snake creature token for each charge "
 "counter on Orochi Hatchery."
 msgstr ""
+"|mana_5|, |tap|: Stwórz żeton zielonego stwora Wąż 1/1 za każdy znacznik "
+"ładunku na tym bycie."
 
 #: ../../CHK.rst:1416
 msgid ""

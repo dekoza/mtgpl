@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-01 01:05+0200\n"
-"PO-Revision-Date: 2022-04-18 19:47+0000\n"
+"PO-Revision-Date: 2022-04-18 23:05+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c13/pl/>\n"
 "Language: pl\n"
@@ -2802,6 +2802,8 @@ msgid ""
 "enchantments. Put a +1/+1 counter on Bane of Progress for each permanent "
 "destroyed this way."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, zniszcz wszystkie artefakty i uroki. "
+"Umieść znacznik +1/+1 na tym stworze za każdy byt zniszczony w ten sposób."
 
 #: ../../C13.rst:768
 msgid ""
@@ -3617,7 +3619,7 @@ msgstr ""
 
 #: ../../C13.rst:1029
 msgid "Death Grasp deals X damage to any target. You gain X life."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi X obrażeń. Zyskaj X żyć."
 
 #: ../../C13.rst:1036
 msgid ""

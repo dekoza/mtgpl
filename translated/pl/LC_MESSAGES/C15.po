@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-01 01:05+0200\n"
-"PO-Revision-Date: 2022-04-18 22:02+0000\n"
+"PO-Revision-Date: 2022-04-18 23:05+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c15/pl/>\n"
 "Language: pl\n"
@@ -313,6 +313,10 @@ msgid ""
 "that's tapped and attacking that player or a planeswalker they control. "
 "Exile the tokens at end of combat.)"
 msgstr ""
+"Miriady (Ilekroć ten stwór zaatakuje, za każdego przeciwnika innego niż "
+"broniący się gracz, możesz stworzyć przekręcony żeton będący kopią tego "
+"stwora atakujący owego gracza lub wędrowca pod jego władaniem. Wygnaj owe "
+"żetony na koniec potyczki.)"
 
 #: ../../C15.rst:34
 msgid ""
@@ -1202,6 +1206,10 @@ msgid ""
 "that's tapped and attacking that player or a planeswalker they control. "
 "Exile the tokens at end of combat.)"
 msgstr ""
+"Wyposażony stwór ma miriady. (Ilekroć ów stwór zaatakuje, za każdego "
+"przeciwnika innego niż broniący się gracz, możesz stworzyć przekręcony żeton "
+"będący kopią tego stwora atakujący owego gracza lub wędrowca pod jego "
+"władaniem. Wygnaj owe żetony na koniec potyczki.)"
 
 #: ../../C15.rst:309
 msgid "Equip |mana_4|"
@@ -3031,6 +3039,9 @@ msgid ""
 "creatures. (Whenever this creature blocks or becomes blocked, it gets +X/+X "
 "until end of turn.)"
 msgstr ""
+"Ten stwór ma bushido X, gdzie X jest liczbą atakujących stworów. (Ilekroć "
+"ten stwór zablokuje lub zostanie zablokowany, dostaje on do końca tury +X/"
+"+X.)"
 
 #: ../../C15.rst:879
 msgid "Creatures your opponents control attack each combat if able."
@@ -3065,6 +3076,8 @@ msgid ""
 "|tap|: Hammerfist Giant deals 4 damage to each creature without flying and "
 "each player."
 msgstr ""
+"|tap|: Ten byt zadaje każdemu stworowi bez latania i każdemu graczowi po 4 "
+"obrażenia."
 
 #: ../../C15.rst:896
 msgid ""
@@ -3079,12 +3092,17 @@ msgid ""
 "damage. Create a 3/1 red Elemental Shaman creature token with haste for each "
 "1 damage prevented this way."
 msgstr ""
+"Jeśli stwór pod twoim władaniem miałby zadać obrażenia przeciwnikowi, "
+"zażegnaj owe obrażenia. Stwórz żeton czerwonego stwora Żywiołak Szaman 3/1 z "
+"pośpiechem za każde 1 obrażenie zażegnane w ten sposób."
 
 #: ../../C15.rst:895
 msgid ""
 "When Hostility is put into a graveyard from anywhere, shuffle it into its "
 "owner's library."
 msgstr ""
+"Kiedy ta karta trafi skądkolwiek do cmentarza, wtasuj ją do biblioteki jej "
+"właściciela."
 
 #: ../../C15.rst:902
 msgid ""
@@ -3102,6 +3120,8 @@ msgid ""
 "When Hunted Dragon enters the battlefield, target opponent creates three 2/2 "
 "white Knight creature tokens with first strike."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, wskazany przeciwnik tworzy trzy żetony "
+"białego stwora Rycerz 2/2 z pierwszym ciosem."
 
 #: ../../C15.rst:908
 msgid ""
@@ -3134,6 +3154,8 @@ msgid ""
 "When Magma Giant enters the battlefield, it deals 2 damage to each creature "
 "and each player."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, zadaje on każdemu stworowi i każdemu "
+"graczowi po 2 obrażenia."
 
 #: ../../C15.rst:916
 msgid ""
@@ -3214,7 +3236,7 @@ msgstr ""
 
 #: ../../C15.rst:935
 msgid "Other Giant creatures you control get +2/+2 and have trample."
-msgstr ""
+msgstr "Inni Giganci pod twoim władaniem dostają +2/+2 i mają tratowanie."
 
 #: ../../C15.rst:942
 msgid ""
@@ -3385,6 +3407,8 @@ msgid ""
 "enchantments. Put a +1/+1 counter on Bane of Progress for each permanent "
 "destroyed this way."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, zniszcz wszystkie artefakty i uroki. "
+"Umieść znacznik +1/+1 na tym stworze za każdy byt zniszczony w ten sposób."
 
 #: ../../C15.rst:994
 msgid ""
@@ -3422,6 +3446,9 @@ msgid ""
 "creature token for each nontoken creature put into your graveyard from the "
 "battlefield this turn."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton zielonego stwora "
+"Niedźwiedź 2/2 za każdego nieżetonowego stwora umieszczonego w twoim "
+"cmentarzu z pola bitwy w tej turze."
 
 #: ../../C15.rst:1008
 msgid ""
@@ -3439,6 +3466,8 @@ msgid ""
 "|mana_2|\\ |mana_g|\\ |mana_g|: Chameleon Colossus gets +X/+X until end of "
 "turn, where X is its power."
 msgstr ""
+"|mana_2|\\ |mana_g|\\ |mana_g|: Ten stwór dostaje do końca tury +X/+X, gdzie "
+"X jest jego siłą."
 
 #: ../../C15.rst:1018
 msgid ""
@@ -3452,12 +3481,17 @@ msgid ""
 "When Cloudthresher enters the battlefield, it deals 2 damage to each "
 "creature with flying and each player."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, zadaje on każdemu stworowi z lataniem i "
+"każdemu graczowi po 2 obrażenia."
 
 #: ../../C15.rst:1017
 msgid ""
 "Evoke |mana_2|\\ |mana_g|\\ |mana_g| (You may cast this spell for its evoke "
 "cost. If you do, it's sacrificed when it enters the battlefield.)"
 msgstr ""
+"Przyzwanie |mana_2|\\ |mana_g|\\ |mana_g| (Możesz rzucić ten czar za jego "
+"koszt przyzwania. Jeśli tak zrobisz, zostaje poświęcony po wejściu na pole "
+"bitwy.)"
 
 #: ../../C15.rst:1024
 msgid ""
@@ -3709,11 +3743,13 @@ msgid ""
 "Whenever Ohran Viper deals combat damage to a creature, destroy that "
 "creature at end of combat."
 msgstr ""
+"Ilekroć ten stwór zada stworowi obrażenia bojowe, zniszcz owego stwora na "
+"koniec potyczki."
 
 #: ../../C15.rst:1093
 msgid ""
 "Whenever Ohran Viper deals combat damage to a player, you may draw a card."
-msgstr ""
+msgstr "Ilekroć ten stwór zada graczowi obrażenia bojowe, możesz dobrać kartę."
 
 #: ../../C15.rst:1098
 msgid ""
@@ -3929,7 +3965,7 @@ msgstr ""
 
 #: ../../C15.rst:1155
 msgid "Each opponent sacrifices an artifact or enchantment."
-msgstr ""
+msgstr "Każdy przeciwnik poświęca artefakt lub urok."
 
 #: ../../C15.rst:1160
 msgid ""
@@ -3983,6 +4019,7 @@ msgid ""
 "|mana_1|\\ |mana_g|, Sacrifice Viridian Zealot: Destroy target artifact or "
 "enchantment."
 msgstr ""
+"|mana_1|\\ |mana_g|, poświęć ten byt: Zniszcz wskazany artefakt lub urok."
 
 #: ../../C15.rst:1178
 msgid ""
@@ -4061,7 +4098,7 @@ msgstr ""
 
 #: ../../C15.rst:1197
 msgid "Death Grasp deals X damage to any target. You gain X life."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi X obrażeń. Zyskaj X żyć."
 
 #: ../../C15.rst:1202
 msgid ""
@@ -4366,6 +4403,9 @@ msgid ""
 "your library. Put one of those cards into your hand and the rest on the "
 "bottom of your library in any order."
 msgstr ""
+"Ten czar zadaje wskazanemu celowi 4 obrażenia. Spójrz na cztery wierzchnie "
+"karty twojej biblioteki. Umieść jedną z owych kart w twojej ręce, a "
+"pozostałe dowolnie na spodzie twojej biblioteki."
 
 #: ../../C15.rst:1298
 msgid ""
@@ -4557,6 +4597,8 @@ msgid ""
 "Until end of turn, target creature loses all abilities and becomes a green "
 "Snake with base power and toughness 1/1."
 msgstr ""
+"Do końca tury wskazany stwór traci wszystkie zdolności i staje się zielonym "
+"Wężem z bazową siłą i wytrzymałością 1/1."
 
 #: ../../C15.rst:1358
 msgid ""
@@ -4567,7 +4609,7 @@ msgstr ""
 
 #: ../../C15.rst:1357
 msgid "When Wistful Selkie enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../C15.rst:1366
 msgid ""
@@ -4679,6 +4721,8 @@ msgid ""
 "|mana_3|, |tap|, Sacrifice Crystal Chimes: Return all enchantment cards from "
 "your graveyard to your hand."
 msgstr ""
+"|mana_3|, |tap|, poświęć ten byt: Przywróć wszystkie karty uroków z twojego "
+"cmentarza do twojej ręki."
 
 #: ../../C15.rst:1406
 msgid ""
@@ -4814,13 +4858,15 @@ msgstr ""
 
 #: ../../C15.rst:1451
 msgid "Orochi Hatchery enters the battlefield with X charge counters on it."
-msgstr ""
+msgstr "Ten byt wchodzi na pole bitwy mając X znaczników ładunku."
 
 #: ../../C15.rst:1453
 msgid ""
 "|mana_5|, |tap|: Create a 1/1 green Snake creature token for each charge "
 "counter on Orochi Hatchery."
 msgstr ""
+"|mana_5|, |tap|: Stwórz żeton zielonego stwora Wąż 1/1 za każdy znacznik "
+"ładunku na tym bycie."
 
 #: ../../C15.rst:1460
 msgid ""
@@ -5013,11 +5059,11 @@ msgstr ""
 
 #: ../../C15.rst:1523
 msgid "As Urza's Incubator enters the battlefield, choose a creature type."
-msgstr ""
+msgstr "Przy wejściu tego bytu na pole bitwy, wybierz typ stwora."
 
 #: ../../C15.rst:1525
 msgid "Creature spells of the chosen type cost |mana_2| less to cast."
-msgstr ""
+msgstr "Rzucanie czarów stworów wybranego typu kosztuje o |mana_2| mniej."
 
 #: ../../C15.rst:1530
 msgid ""
@@ -5058,6 +5104,8 @@ msgid ""
 "from your hand. If you don't, Ancient Amphitheater enters the battlefield "
 "tapped."
 msgstr ""
+"Przy wejściu tego bytu na pole bitwy, możesz ujawnić kartę Giganta z twojej "
+"ręki. Jeśli tak nie zrobisz, ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../C15.rst:1550
 msgid ""
@@ -5463,7 +5511,7 @@ msgstr ""
 
 #: ../../C15.rst:1703
 msgid "Polluted Mire enters the battlefield tapped."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../C15.rst:1714
 msgid ""
