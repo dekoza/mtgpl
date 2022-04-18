@@ -1,233 +1,234 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2013-2022, Dominik Kozaczko
 # This file is distributed under the same license as the MTG-pl package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-#, fuzzy
+# Weblate Admin <weblate-admin@kozaczko.info>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2022.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-18 22:11+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2022-04-18 20:22+0000\n"
+"Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
+"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/anb/pl/>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.10.1\n"
 
 #: ../../symbols.rst:3
 msgid "{C}"
-msgstr ""
+msgstr "{C}"
 
 #: ../../symbols.rst:5
 msgid "{T}"
-msgstr ""
+msgstr "{T}"
 
 #: ../../symbols.rst:7
 msgid "{Q}"
-msgstr ""
+msgstr "{Q}"
 
 #: ../../symbols.rst:9
 msgid "{U}"
-msgstr ""
+msgstr "{U}"
 
 #: ../../symbols.rst:11
 msgid "{W}"
-msgstr ""
+msgstr "{W}"
 
 #: ../../symbols.rst:13
 msgid "{B}"
-msgstr ""
+msgstr "{B}"
 
 #: ../../symbols.rst:15
 msgid "{G}"
-msgstr ""
+msgstr "{G}"
 
 #: ../../symbols.rst:17
 msgid "{R}"
-msgstr ""
+msgstr "{R}"
 
 #: ../../symbols.rst:19
 msgid "{2/U}"
-msgstr ""
+msgstr "{2/U}"
 
 #: ../../symbols.rst:21
 msgid "{2/W}"
-msgstr ""
+msgstr "{2/W}"
 
 #: ../../symbols.rst:23
 msgid "{2/B}"
-msgstr ""
+msgstr "{2/B}"
 
 #: ../../symbols.rst:25
 msgid "{2/G}"
-msgstr ""
+msgstr "{2/G}"
 
 #: ../../symbols.rst:27
 msgid "{2/R}"
-msgstr ""
+msgstr "{2/R}"
 
 #: ../../symbols.rst:29
 msgid "{U/P}"
-msgstr ""
+msgstr "{U/P}"
 
 #: ../../symbols.rst:31
 msgid "{W/P}"
-msgstr ""
+msgstr "{W/P}"
 
 #: ../../symbols.rst:33
 msgid "{B/P}"
-msgstr ""
+msgstr "{B/P}"
 
 #: ../../symbols.rst:35
 msgid "{G/P}"
-msgstr ""
+msgstr "{G/P}"
 
 #: ../../symbols.rst:37
 msgid "{R/P}"
-msgstr ""
+msgstr "{R/P}"
 
 #: ../../symbols.rst:39
 msgid "{X}"
-msgstr ""
+msgstr "{X}"
 
 #: ../../symbols.rst:41
 msgid "{P}"
-msgstr ""
+msgstr "{P}"
 
 #: ../../symbols.rst:43
 msgid "{0}"
-msgstr ""
+msgstr "{0}"
 
 #: ../../symbols.rst:45
 msgid "{1}"
-msgstr ""
+msgstr "{1}"
 
 #: ../../symbols.rst:47
 msgid "{2}"
-msgstr ""
+msgstr "{2}"
 
 #: ../../symbols.rst:49
 msgid "{3}"
-msgstr ""
+msgstr "{3}"
 
 #: ../../symbols.rst:51
 msgid "{4}"
-msgstr ""
+msgstr "{4}"
 
 #: ../../symbols.rst:53
 msgid "{5}"
-msgstr ""
+msgstr "{5}"
 
 #: ../../symbols.rst:55
 msgid "{6}"
-msgstr ""
+msgstr "{6}"
 
 #: ../../symbols.rst:57
 msgid "{7}"
-msgstr ""
+msgstr "{7}"
 
 #: ../../symbols.rst:59
 msgid "{8}"
-msgstr ""
+msgstr "{8}"
 
 #: ../../symbols.rst:61
 msgid "{9}"
-msgstr ""
+msgstr "{9}"
 
 #: ../../symbols.rst:63
 msgid "{10}"
-msgstr ""
+msgstr "{10}"
 
 #: ../../symbols.rst:65
 msgid "{11}"
-msgstr ""
+msgstr "{11}"
 
 #: ../../symbols.rst:67
 msgid "{12}"
-msgstr ""
+msgstr "{12}"
 
 #: ../../symbols.rst:69
 msgid "{13}"
-msgstr ""
+msgstr "{13}"
 
 #: ../../symbols.rst:71
 msgid "{14}"
-msgstr ""
+msgstr "{14}"
 
 #: ../../symbols.rst:73
 msgid "{15}"
-msgstr ""
+msgstr "{15}"
 
 #: ../../symbols.rst:75
 msgid "{16}"
-msgstr ""
+msgstr "{16}"
 
 #: ../../symbols.rst:77
 msgid "{20}"
-msgstr ""
+msgstr "{20}"
 
 #: ../../symbols.rst:79
 msgid "{(r/g)}"
-msgstr ""
+msgstr "{(r/g)}"
 
 #: ../../symbols.rst:81
 msgid "{(r/w)}"
-msgstr ""
+msgstr "{(r/w)}"
 
 #: ../../symbols.rst:83
 msgid "{(u/b)}"
-msgstr ""
+msgstr "{(u/b)}"
 
 #: ../../symbols.rst:85
 msgid "{(u/r)}"
-msgstr ""
+msgstr "{(u/r)}"
 
 #: ../../symbols.rst:87
 msgid "{(w/b)}"
-msgstr ""
+msgstr "{(w/b)}"
 
 #: ../../symbols.rst:89
 msgid "{(w/u)}"
-msgstr ""
+msgstr "{(w/u)}"
 
 #: ../../symbols.rst:91
 msgid "{(b/g)}"
-msgstr ""
+msgstr "{(b/g)}"
 
 #: ../../symbols.rst:93
 msgid "{(b/r)}"
-msgstr ""
+msgstr "{(b/r)}"
 
 #: ../../symbols.rst:95
 msgid "{(g/w)}"
-msgstr ""
+msgstr "{(g/w)}"
 
 #: ../../symbols.rst:97
 msgid "{(g/u)}"
-msgstr ""
+msgstr "{(g/u)}"
 
 #: ../../symbols.rst:99
 msgid "{(g/u/p)}"
-msgstr ""
+msgstr "{(g/u/p)}"
 
 #: ../../symbols.rst:101
 msgid "{S}"
-msgstr ""
+msgstr "{S}"
 
 #: ../../symbols.rst:103
 msgid "{E}"
-msgstr ""
+msgstr "{E}"
 
 #: ../../symbols.rst:105
 msgid "{CHAOS}"
-msgstr ""
+msgstr "{CHAOS}"
 
 #: ../../symbols.rst:107
 msgid "{PW}"
-msgstr ""
+msgstr "{PW}"
 
 #: ../../ANB.rst:5
 msgid ":mtgexp:`ANB` Arena Beginner Set"
@@ -244,15 +245,15 @@ msgstr ""
 #: ../../ANB.rst:185 ../../ANB.rst:203 ../../ANB.rst:209 ../../ANB.rst:221
 #: ../../ANB.rst:283 ../../ANB.rst:405
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 #: ../../ANB.rst:11
 msgid "If you would gain life, you gain that much life plus 1 instead."
-msgstr ""
+msgstr "Jeśli masz zyskać życia, zamiast tego zyskaj tyle samo żyć plus 1."
 
 #: ../../ANB.rst:13
 msgid "Angel of Vitality gets +2/+2 as long as you have 25 or more life."
-msgstr ""
+msgstr "Ten stwór dostaje +2/+2 o ile masz co najmniej 25 żyć."
 
 #: ../../ANB.rst:20
 msgid ""
@@ -267,6 +268,8 @@ msgid ""
 "Flying (This creature can't be blocked except by creatures with flying or "
 "reach.)"
 msgstr ""
+"Latanie (Ten stwór nie może być blokowany, chyba że przez stwory z lataniem "
+"lub zasięgiem.)"
 
 #: ../../ANB.rst:19
 msgid ""
@@ -274,6 +277,9 @@ msgid ""
 "until end of turn. (Damage and effects that say \"destroy\" don't destroy "
 "them.)"
 msgstr ""
+"Ilekroć jeden lub więcej stworów pod twoim władaniem zaatakuje, zyskują one "
+"do końca tury niezniszczalność. (Obrażenia i efekty mówiące \"zniszcz\" nie "
+"niszczą ich.)"
 
 #: ../../ANB.rst:26
 msgid ""
@@ -285,11 +291,11 @@ msgstr ""
 #: ../../ANB.rst:23 ../../ANB.rst:67 ../../ANB.rst:85 ../../ANB.rst:155
 #: ../../ANB.rst:195 ../../ANB.rst:243 ../../ANB.rst:371 ../../ANB.rst:445
 msgid "Enchant creature"
-msgstr ""
+msgstr "Zaurocz stwora"
 
 #: ../../ANB.rst:25
 msgid "Enchanted creature gets +3/+3 and has flying."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +3/+3 i ma latanie."
 
 #: ../../ANB.rst:30
 msgid ""
@@ -303,6 +309,8 @@ msgid ""
 "Tap all creatures your opponents control. Creatures you control gain "
 "lifelink until end of turn."
 msgstr ""
+"Przekręć wszystkie stwory pod władaniem twoich przeciwników. Stwory pod "
+"twoim władaniem zyskują więź życia do końca tury."
 
 #: ../../ANB.rst:36
 msgid ""
@@ -313,13 +321,15 @@ msgstr ""
 
 #: ../../ANB.rst:33
 msgid "Lifelink"
-msgstr ""
+msgstr "Więź życia"
 
 #: ../../ANB.rst:35
 msgid ""
 "When Charmed Stray enters the battlefield, put a +1/+1 counter on each other "
 "creature you control named Charmed Stray."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, umieść znacznik +1/+1 na każdym innym "
+"stworze o nazwie Charmed Stray pod twoim władaniem."
 
 #: ../../ANB.rst:42
 msgid ""
@@ -330,11 +340,11 @@ msgstr ""
 
 #: ../../ANB.rst:39
 msgid "Cast this spell only if a creature is attacking you."
-msgstr ""
+msgstr "Możesz rzucić ten czar tylko jeśli stwór cię atakuje."
 
 #: ../../ANB.rst:41
 msgid "Create three 1/1 white Spirit creature tokens with flying."
-msgstr ""
+msgstr "Stwórz trzy żetony białego stwora Duch 1/1 z lataniem."
 
 #: ../../ANB.rst:46
 msgid ""
@@ -345,7 +355,7 @@ msgstr ""
 
 #: ../../ANB.rst:45 ../../ANB.rst:49
 msgid "Double strike"
-msgstr ""
+msgstr "Podwójny cios"
 
 #: ../../ANB.rst:52
 msgid ""
@@ -359,6 +369,8 @@ msgid ""
 "Whenever Goring Ceratops attacks, other creatures you control gain double "
 "strike until end of turn."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, inne stwory pod twoim władaniem zyskują "
+"podwójny cios do końca tury."
 
 #: ../../ANB.rst:56
 msgid ""
@@ -369,7 +381,7 @@ msgstr ""
 
 #: ../../ANB.rst:55
 msgid "Whenever you gain life, put a +1/+1 counter on Hallowed Priest."
-msgstr ""
+msgstr "Ilekroć zyskasz życia, umieść znacznik +1/+1 na tym stworze."
 
 #: ../../ANB.rst:60
 msgid ""
@@ -383,6 +395,7 @@ msgid ""
 "Whenever another creature enters the battlefield under your control, you "
 "gain 1 life."
 msgstr ""
+"Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, zyskaj 1 życie."
 
 #: ../../ANB.rst:64
 msgid ""
@@ -396,6 +409,8 @@ msgid ""
 "Whenever another creature with power 2 or less enters the battlefield under "
 "your control, you gain 1 life and draw a card."
 msgstr ""
+"Ilekroć inny stwór o sile 2 lub mniejszej wejdzie na pole bitwy pod twoim "
+"władaniem, zyskaj 1 życie i dobierz kartę."
 
 #: ../../ANB.rst:70
 msgid ""
@@ -406,7 +421,7 @@ msgstr ""
 
 #: ../../ANB.rst:69
 msgid "Enchanted creature gets +2/+2."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +2/+2."
 
 #: ../../ANB.rst:74
 msgid ""
@@ -420,6 +435,8 @@ msgid ""
 "Whenever Leonin Warleader attacks, create two 1/1 white Cat creature tokens "
 "with lifelink that are tapped and attacking."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, stwórz dwa przekręcone i atakujące żetony "
+"białego stwora Kot 1/1 z więzią życia."
 
 #: ../../ANB.rst:76
 msgid ""
@@ -440,6 +457,8 @@ msgid ""
 "|mana_2|\\ |mana_w|: Moorland Inquisitor gains first strike until end of "
 "turn. (It deals combat damage before creatures without first strike.)"
 msgstr ""
+"|mana_2|\\ |mana_w|: Ten stwór zyskuje pierwszy cios do końca tury. (Zadaje "
+"obrażenia bojowe przed stworami bez pierwszego ciosu.)"
 
 #: ../../ANB.rst:88
 msgid ""
@@ -450,7 +469,7 @@ msgstr ""
 
 #: ../../ANB.rst:87
 msgid "Enchanted creature can't attack or block."
-msgstr ""
+msgstr "Zauroczony stwór nie może atakować ani blokować."
 
 #: ../../ANB.rst:90
 msgid ""
@@ -468,7 +487,7 @@ msgstr ""
 
 #: ../../ANB.rst:95
 msgid "Flying, vigilance"
-msgstr ""
+msgstr "Latanie, czujność"
 
 #: ../../ANB.rst:98
 msgid ""
@@ -486,7 +505,7 @@ msgstr ""
 
 #: ../../ANB.rst:103
 msgid "|tap|: You gain 1 life."
-msgstr ""
+msgstr "|tap|: Zyskaj 1 życie."
 
 #: ../../ANB.rst:108
 msgid ""
@@ -497,7 +516,7 @@ msgstr ""
 
 #: ../../ANB.rst:107
 msgid "When Spiritual Guardian enters the battlefield, you gain 4 life."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 4 życia."
 
 #: ../../ANB.rst:112
 msgid ""
@@ -510,6 +529,8 @@ msgstr ""
 msgid ""
 "Target blocking or blocked creature you control gets +2/+2 until end of turn."
 msgstr ""
+"Wskazany blokujący lub zablokowany stwór pod twoim władaniem dostaje do "
+"końca tury +2/+2."
 
 #: ../../ANB.rst:116
 msgid ""
@@ -534,7 +555,7 @@ msgstr ""
 
 #: ../../ANB.rst:125
 msgid "When Cloudkin Seer enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../ANB.rst:128
 msgid ""
@@ -555,6 +576,7 @@ msgid ""
 "|mana_5|\\ |mana_u|\\ |mana_u|: Frilled Sea Serpent can't be blocked this "
 "turn."
 msgstr ""
+"|mana_5|\\ |mana_u|\\ |mana_u|: Ten stwór nie może być blokowany w tej turze."
 
 #: ../../ANB.rst:138
 msgid ""
@@ -568,6 +590,9 @@ msgid ""
 "Target creature you control gets +0/+3 and gains hexproof until end of turn. "
 "(It can't be the target of spells or abilities your opponents control.)"
 msgstr ""
+"Wskazany stwór pod twoim władaniem dostaje do końca tury +0/+3 oraz "
+"antyklątwę. (Nie może być wskazywany przez czary lub zdolności pod władaniem "
+"twoich przeciwników.)"
 
 #: ../../ANB.rst:142
 msgid ""
@@ -582,6 +607,9 @@ msgid ""
 "of your library, then put any number of them on the bottom of your library "
 "and the rest on top in any order.)"
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, wróż 2. (Spójrz na dwie wierzchnie "
+"karty twojej biblioteki, po czym umieść dowolną ich liczbę na spodzie twojej "
+"biblioteki, a pozostałe na jej wierzchu w dowolnej kolejności.)"
 
 #: ../../ANB.rst:146
 msgid ""
@@ -592,7 +620,7 @@ msgstr ""
 
 #: ../../ANB.rst:145
 msgid "Target player draws seven cards."
-msgstr ""
+msgstr "Wskazany gracz dobiera siedem kart."
 
 #: ../../ANB.rst:152
 msgid ""
@@ -606,6 +634,8 @@ msgid ""
 "When Riddlemaster Sphinx enters the battlefield, you may return target "
 "creature an opponent controls to its owner's hand."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, możesz przywrócić wskazanego stwora pod "
+"władaniem przeciwnika do ręki właściciela."
 
 #: ../../ANB.rst:158
 msgid ""
@@ -616,7 +646,7 @@ msgstr ""
 
 #: ../../ANB.rst:157
 msgid "Enchanted creature gets +1/+1."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +1/+1."
 
 #: ../../ANB.rst:162
 msgid ""
@@ -630,6 +660,8 @@ msgid ""
 "Tap all creatures target player controls. Those creatures don't untap during "
 "that player's next untap step."
 msgstr ""
+"Przekręć wszystkie stwory pod władaniem wskazanego gracza. Owe stwory nie "
+"odkręcą się podczas najbliższego kroku odkręcania owego gracza."
 
 #: ../../ANB.rst:168
 msgid ""
@@ -643,6 +675,8 @@ msgid ""
 "Whenever you cast a noncreature spell, creatures you control get +1/+1 until "
 "end of turn."
 msgstr ""
+"Ilekroć rzucisz nie-stworowy czar, stwory pod twoim władaniem dostają do "
+"końca tury +1/+1."
 
 #: ../../ANB.rst:170
 msgid ""
@@ -660,7 +694,7 @@ msgstr ""
 
 #: ../../ANB.rst:175
 msgid "Return target creature to its owner's hand."
-msgstr ""
+msgstr "Przywróć wskazanego stwora do ręki właściciela."
 
 #: ../../ANB.rst:182
 msgid ""
@@ -671,13 +705,15 @@ msgstr ""
 
 #: ../../ANB.rst:179
 msgid "Defender (This creature can't attack.)"
-msgstr ""
+msgstr "Obronność (Ten stwór nie może atakować.)"
 
 #: ../../ANB.rst:181
 msgid ""
 "When Wall of Runes enters the battlefield, scry 1. (Look at the top card of "
 "your library. You may put that card on the bottom of your library.)"
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, wróż 1. (Spójrz na wierzchnią kartę "
+"twojej biblioteki. Możesz umieścić ową kartę na spodzie twojej biblioteki.)"
 
 #: ../../ANB.rst:188
 msgid ""
@@ -688,7 +724,7 @@ msgstr ""
 
 #: ../../ANB.rst:187
 msgid "Creature spells with flying you cast cost |mana_1| less to cast."
-msgstr ""
+msgstr "Rzucanie czarów stworów mających latanie kosztuje cię o |mana_1| mniej."
 
 #: ../../ANB.rst:192
 msgid ""
@@ -702,6 +738,8 @@ msgid ""
 "Whenever a creature with flying enters the battlefield under your control, "
 "Waterkin Shaman gets +1/+1 until end of turn."
 msgstr ""
+"Ilekroć stwór z lataniem wejdzie na pole bitwy pod twoim władaniem, "
+"niniejszy stwór dostaje do końca tury +1/+1."
 
 #: ../../ANB.rst:200
 msgid ""
@@ -712,11 +750,11 @@ msgstr ""
 
 #: ../../ANB.rst:197
 msgid "When Waterknot enters the battlefield, tap enchanted creature."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, przekręć zauroczonego stwora."
 
 #: ../../ANB.rst:199
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr ""
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
 
 #: ../../ANB.rst:206
 msgid ""
@@ -727,7 +765,7 @@ msgstr ""
 
 #: ../../ANB.rst:205
 msgid "Whenever a creature with flying attacks, you may draw a card."
-msgstr ""
+msgstr "Ilekroć stwór z lataniem zaatakuje, możesz dobrać kartę."
 
 #: ../../ANB.rst:212
 msgid ""
@@ -738,7 +776,7 @@ msgstr ""
 
 #: ../../ANB.rst:211
 msgid "Other creatures you control with flying get +1/+0."
-msgstr ""
+msgstr "Inne stwory z lataniem pod twoim władaniem dostają +1/+0."
 
 #: ../../ANB.rst:218
 msgid ""
@@ -751,10 +789,12 @@ msgstr ""
 msgid ""
 "This spell costs |mana_1| less to cast if you control a creature with flying."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_1| mniej jeśli władasz stworem z "
+"lataniem."
 
 #: ../../ANB.rst:217
 msgid "Draw two cards."
-msgstr ""
+msgstr "Dobierz dwie karty."
 
 #: ../../ANB.rst:222
 msgid ""
@@ -775,6 +815,8 @@ msgid ""
 "You draw two cards and each opponent discards two cards. Each player loses 2 "
 "life."
 msgstr ""
+"Dobierz dwie karty i każdy przeciwnik odrzuca dwie karty. Każdy gracz traci "
+"po 2 życia."
 
 #: ../../ANB.rst:230
 msgid ""
@@ -788,6 +830,8 @@ msgid ""
 "Target creature gets -1/-1 until end of turn. It gets an additional -1/-1 "
 "until end of turn for each card named Compound Fracture in your graveyard."
 msgstr ""
+"Wskazany stwór dostaje do końca tury -1/-1. Dostaje on do końca tury "
+"dodatkowe -1/-1 za każdą kartę o nazwie Compound Fracture w twoim cmentarzu."
 
 #: ../../ANB.rst:234
 msgid ""
@@ -798,7 +842,7 @@ msgstr ""
 
 #: ../../ANB.rst:233
 msgid "Destroy target creature with power 2 or less."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora o sile 2 lub mniejszej."
 
 #: ../../ANB.rst:240
 msgid ""
@@ -809,13 +853,14 @@ msgstr ""
 
 #: ../../ANB.rst:237
 msgid "Flying, trample"
-msgstr ""
+msgstr "Latanie, tratowanie"
 
 #: ../../ANB.rst:239
 msgid ""
 "Whenever Demon of Loathing deals combat damage to a player, that player "
 "sacrifices a creature."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, ów gracz poświęca stwora."
 
 #: ../../ANB.rst:246
 msgid ""
@@ -830,6 +875,10 @@ msgid ""
 "controls dies, put a +1/+1 counter on this creature.\" (Damage dealt by a "
 "creature with lifelink also causes its controller to gain that much life.)"
 msgstr ""
+"Zauroczony stwór ma więź życia oraz \"Ilekroć umrze stwór pod władaniem "
+"przeciwnika, umieść znacznik +1/+1 na niniejszym stworze.\" (Obrażenia "
+"zadane przez stwora z więzią życia powodują, że jego władca także zyskuje "
+"tyle samo żyć.)"
 
 #: ../../ANB.rst:248
 msgid ""
@@ -850,6 +899,8 @@ msgid ""
 "Whenever a creature an opponent controls dies, put a +1/+1 counter on "
 "Malakir Cullblade."
 msgstr ""
+"Ilekroć umrze stwór pod władaniem przeciwnika, umieść znacznik +1/+1 na tym "
+"stworze."
 
 #: ../../ANB.rst:258
 msgid ""
@@ -860,7 +911,7 @@ msgstr ""
 
 #: ../../ANB.rst:257
 msgid "As an additional cost to cast this spell, discard a card."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — odrzuć kartę."
 
 #: ../../ANB.rst:262
 msgid ""
@@ -871,7 +922,7 @@ msgstr ""
 
 #: ../../ANB.rst:261
 msgid "Destroy target creature."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora."
 
 #: ../../ANB.rst:268
 msgid ""
@@ -885,6 +936,8 @@ msgid ""
 "Nightmare's power and toughness are each equal to the number of Swamps you "
 "control."
 msgstr ""
+"Siła oraz wytrzymałość tej karty są obie równe liczbie Bagien pod twoim "
+"władaniem."
 
 #: ../../ANB.rst:272
 msgid ""
@@ -895,7 +948,7 @@ msgstr ""
 
 #: ../../ANB.rst:271 ../../ANB.rst:443
 msgid "Flash"
-msgstr ""
+msgstr "Błysk"
 
 #: ../../ANB.rst:276
 msgid ""
@@ -906,7 +959,7 @@ msgstr ""
 
 #: ../../ANB.rst:275
 msgid "Return target creature card from your graveyard to your hand."
-msgstr ""
+msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza do twojej ręki."
 
 #: ../../ANB.rst:280
 msgid ""
@@ -920,6 +973,7 @@ msgid ""
 "|mana_2|\\ |mana_b|: Return Sanitarium Skeleton from your graveyard to your "
 "hand."
 msgstr ""
+"|mana_2|\\ |mana_b|: Przywróć tę kartę z twojego cmentarza do twojej ręki."
 
 #: ../../ANB.rst:286
 msgid ""
@@ -933,6 +987,9 @@ msgid ""
 "At the beginning of your end step, if an opponent lost life this turn, put a "
 "+1/+1 counter on Savage Gorger. (Damage causes loss of life.)"
 msgstr ""
+"Na początku twojego kroku końcowego, jeśli przeciwnik stracił życia w tej "
+"turze, umieść znacznik +1/+1 na tym stworze. (Obrażenia powodują utratę "
+"życia.)"
 
 #: ../../ANB.rst:288
 msgid ""
@@ -953,6 +1010,8 @@ msgid ""
 "Whenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/"
 "+1 counter on Sengir Vampire."
 msgstr ""
+"Ilekroć umrze stwór uszkodzony w tej turze przez niniejszego stwora, umieść "
+"na niniejszym stworze znacznik +1/+1."
 
 #: ../../ANB.rst:300
 msgid ""
@@ -965,6 +1024,7 @@ msgstr ""
 msgid ""
 "When Skeleton Archer enters the battlefield, it deals 1 damage to any target."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../ANB.rst:306
 msgid ""
@@ -975,13 +1035,16 @@ msgstr ""
 
 #: ../../ANB.rst:303
 msgid "Soulhunter Rakshasa can't block."
-msgstr ""
+msgstr "Ten stwór nie może blokować."
 
 #: ../../ANB.rst:305
 msgid ""
 "When Soulhunter Rakshasa enters the battlefield, if you cast it from your "
 "hand, it deals 1 damage to target opponent for each Swamp you control."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, jeśli został rzucony z twojej ręki, "
+"zadaje on wskazanemu przeciwnikowi po 1 obrażeniu za każde Bagno pod twoim "
+"władaniem."
 
 #: ../../ANB.rst:310
 msgid ""
@@ -995,6 +1058,8 @@ msgid ""
 "Deathtouch (Any amount of damage this deals to a creature is enough to "
 "destroy it.)"
 msgstr ""
+"Dotyk śmierci. (Stwór otrzymujący od niniejszego jakiekolwiek obrażenia "
+"zostaje zniszczony.)"
 
 #: ../../ANB.rst:314
 msgid ""
@@ -1008,6 +1073,8 @@ msgid ""
 "Target creature gets +2/+0 and gains indestructible until end of turn. "
 "(Damage and effects that say \"destroy\" don't destroy it.)"
 msgstr ""
+"Wskazany stwór dostaje do końca tury +2/+0 oraz niezniszczalność. (Obrażenia "
+"i efekty mówiące \"zniszcz\" nie niszczą go.)"
 
 #: ../../ANB.rst:318
 msgid ""
@@ -1019,6 +1086,7 @@ msgstr ""
 #: ../../ANB.rst:317
 msgid "|mana_6|\\ |mana_b|: Each opponent loses 2 life and you gain 2 life."
 msgstr ""
+"|mana_6|\\ |mana_b|: Każdy przeciwnik traci po 2 życia, a ty zyskaj 2 życia."
 
 #: ../../ANB.rst:320
 msgid ""
@@ -1036,7 +1104,7 @@ msgstr ""
 
 #: ../../ANB.rst:325
 msgid "Bombard deals 4 damage to target creature."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu stworowi 4 obrażenia."
 
 #: ../../ANB.rst:330
 msgid ""
@@ -1047,7 +1115,7 @@ msgstr ""
 
 #: ../../ANB.rst:329
 msgid "Creatures you control get +2/+0 until end of turn."
-msgstr ""
+msgstr "Stwory pod twoim władaniem dostają do końca tury +2/+0."
 
 #: ../../ANB.rst:332
 msgid ""
@@ -1068,6 +1136,8 @@ msgid ""
 "When Goblin Gang Leader enters the battlefield, create two 1/1 red Goblin "
 "creature tokens."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, stwórz dwa żetony czerwonego stwora "
+"Goblin 1/1."
 
 #: ../../ANB.rst:342
 msgid ""
@@ -1081,6 +1151,8 @@ msgid ""
 "Create a number of 1/1 red Goblin creature tokens equal to two plus the "
 "number of cards named Goblin Gathering in your graveyard."
 msgstr ""
+"Stwórz o dwa więcej żetonów czerwonego stwora Goblin 1/1, niż masz kart o "
+"nazwie Goblin Gathering w twoim cmentarzu."
 
 #: ../../ANB.rst:348
 msgid ""
@@ -1091,11 +1163,11 @@ msgstr ""
 
 #: ../../ANB.rst:345
 msgid "Other Goblins you control get +1/+1."
-msgstr ""
+msgstr "Inne Gobliny pod twoim władaniem dostają +1/+1."
 
 #: ../../ANB.rst:347
 msgid "Sacrifice a Goblin: Destroy target artifact."
-msgstr ""
+msgstr "Poświęć Goblina: Zniszcz wskazany artefakt."
 
 #: ../../ANB.rst:352
 msgid ""
@@ -1107,6 +1179,8 @@ msgstr ""
 #: ../../ANB.rst:351
 msgid "|tap|: Target creature with power 2 or less can't be blocked this turn."
 msgstr ""
+"|tap|: Wskazany stwór o sile 2 lub mniejszej nie może być blokowany w tej "
+"turze."
 
 #: ../../ANB.rst:354
 msgid ""
@@ -1124,7 +1198,7 @@ msgstr ""
 
 #: ../../ANB.rst:361
 msgid "When Immortal Phoenix dies, return it to its owner's hand."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, przywróć go do ręki właściciela."
 
 #: ../../ANB.rst:368
 msgid ""
@@ -1135,11 +1209,11 @@ msgstr ""
 
 #: ../../ANB.rst:365
 msgid "This spell can't be countered."
-msgstr ""
+msgstr "Ten czar nie może być skontrowany."
 
 #: ../../ANB.rst:367
 msgid "Inescapable Blaze deals 6 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi 6 obrażeń."
 
 #: ../../ANB.rst:374
 msgid ""
@@ -1150,7 +1224,7 @@ msgstr ""
 
 #: ../../ANB.rst:373
 msgid "Enchanted creature gets +2/+2 and can't block."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +2/+2 i nie może blokować."
 
 #: ../../ANB.rst:378
 msgid ""
@@ -1161,7 +1235,7 @@ msgstr ""
 
 #: ../../ANB.rst:377
 msgid "|mana_r|: Molten Ravager gets +1/+0 until end of turn."
-msgstr ""
+msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../ANB.rst:382
 msgid ""
@@ -1172,7 +1246,7 @@ msgstr ""
 
 #: ../../ANB.rst:381
 msgid "Haste"
-msgstr ""
+msgstr "Pośpiech"
 
 #: ../../ANB.rst:386
 msgid ""
@@ -1187,6 +1261,9 @@ msgid ""
 "creature gets +2/+0 and gains haste until end of turn. (It can attack and |"
 "tap| this turn.)"
 msgstr ""
+"Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, ów stwór "
+"dostaje do końca tury +2/+0 oraz pośpiech. (Może atakować oraz |tap| w tej "
+"turze.)"
 
 #: ../../ANB.rst:390
 msgid ""
@@ -1200,6 +1277,8 @@ msgid ""
 "Haste (This creature can attack and |tap| as soon as it comes under your "
 "control.)"
 msgstr ""
+"Pośpiech (Ten stwór może atakować i |tap| od razu po wejściu pod twoje "
+"władanie.)"
 
 #: ../../ANB.rst:394
 msgid ""
@@ -1214,6 +1293,9 @@ msgid ""
 "Bombardment deals 1 damage to the player or planeswalker that creature is "
 "attacking."
 msgstr ""
+"Ilekroć zaatakuje stwór pod twoim władaniem o sile 2 lub mniejszej, "
+"niniejszy stwór zadaje 1 obrażenie graczowi lub wędrowcowi, którego ów stwór "
+"atakuje."
 
 #: ../../ANB.rst:398
 msgid ""
@@ -1227,6 +1309,8 @@ msgid ""
 "Reduce to Ashes deals 5 damage to target creature. If that creature would "
 "die this turn, exile it instead."
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi 5 obrażeń. Jeśli ów stwór miałby umrzeć "
+"w tej turze, zamiast tego wygnaj go."
 
 #: ../../ANB.rst:402
 msgid ""
@@ -1237,7 +1321,7 @@ msgstr ""
 
 #: ../../ANB.rst:401
 msgid "Shock deals 2 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi 2 obrażenia."
 
 #: ../../ANB.rst:410
 msgid ""
@@ -1251,12 +1335,17 @@ msgid ""
 "When Siege Dragon enters the battlefield, destroy all Walls your opponents "
 "control."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, zniszcz wszystkie Ściany pod władaniem "
+"twoich przeciwników."
 
 #: ../../ANB.rst:409
 msgid ""
 "Whenever Siege Dragon attacks, if defending player controls no Walls, it "
 "deals 2 damage to each creature without flying that player controls."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, jeśli broniący się gracz nie ma we władaniu "
+"Ściany, zadaje on 2 obrażenia każdemu stworowi bez latania pod władaniem "
+"owego gracza."
 
 #: ../../ANB.rst:414
 msgid ""
@@ -1268,7 +1357,7 @@ msgstr ""
 #: ../../ANB.rst:413
 msgid ""
 "Target creature gets +1/+0 and gains first strike until end of turn. Scry 1."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury +1/+0 oraz pierwszy cios. Wróż 1."
 
 #: ../../ANB.rst:418
 msgid ""
@@ -1282,6 +1371,8 @@ msgid ""
 "Whenever Tin Street Cadet becomes blocked, create a 1/1 red Goblin creature "
 "token."
 msgstr ""
+"Ilekroć ten stwór zostanie zablokowany, stwórz żeton czerwonego stwora "
+"Goblin 1/1."
 
 #: ../../ANB.rst:422
 msgid ""
@@ -1292,7 +1383,7 @@ msgstr ""
 
 #: ../../ANB.rst:421
 msgid "Flying, haste"
-msgstr ""
+msgstr "Latanie, pośpiech"
 
 #: ../../ANB.rst:426
 msgid ""
@@ -1307,6 +1398,9 @@ msgid ""
 "target creature you don't control. (Each deals damage equal to its power to "
 "the other.)"
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, możesz kazać mu walczyć ze wskazanym "
+"stworem poza twoim władaniem. (Każdy zadaje drugiemu obrażenia równe swojej "
+"sile.)"
 
 #: ../../ANB.rst:432
 msgid ""
@@ -1317,13 +1411,15 @@ msgstr ""
 
 #: ../../ANB.rst:429 ../../ANB.rst:435 ../../ANB.rst:483
 msgid "Trample"
-msgstr ""
+msgstr "Tratowanie"
 
 #: ../../ANB.rst:431
 msgid ""
 "When Baloth Packhunter enters the battlefield, put two +1/+1 counters on "
 "each other creature you control named Baloth Packhunter."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, umieść dwa znaczniki +1/+1 na każdym "
+"innym stworze pod twoim władaniem o niniejszej nazwie."
 
 #: ../../ANB.rst:436
 msgid ""
@@ -1344,6 +1440,8 @@ msgid ""
 "At the beginning of your upkeep, if you control a creature with power 4 or "
 "greater, draw a card."
 msgstr ""
+"Na początku twojego kroku utrzymania, jeśli władasz stworem o sile 4 lub "
+"większej, dobierz kartę."
 
 #: ../../ANB.rst:448
 msgid ""
@@ -1354,7 +1452,7 @@ msgstr ""
 
 #: ../../ANB.rst:447
 msgid "Enchanted creature gets +5/+5 and has trample."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +5/+5 i ma tratowanie."
 
 #: ../../ANB.rst:452
 msgid ""
@@ -1365,7 +1463,7 @@ msgstr ""
 
 #: ../../ANB.rst:451 ../../ANB.rst:501
 msgid "Target creature gets +4/+4 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury +4/+4."
 
 #: ../../ANB.rst:456
 msgid ""
@@ -1376,7 +1474,7 @@ msgstr ""
 
 #: ../../ANB.rst:455
 msgid "When Generous Stray enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../ANB.rst:458
 msgid ""
@@ -1394,7 +1492,7 @@ msgstr ""
 
 #: ../../ANB.rst:463
 msgid "Vigilance (Attacking doesn't cause this creature to tap.)"
-msgstr ""
+msgstr "Czujność (Atakowanie nie powoduje przekręcenia tego stwora.)"
 
 #: ../../ANB.rst:468
 msgid ""
@@ -1408,6 +1506,8 @@ msgid ""
 "|tap|: Add one mana of any color. If you control a creature with power 4 or "
 "greater, add two mana of any one color instead."
 msgstr ""
+"|tap|: Weź jedną manę dowolnego koloru. Jeśli władasz stworem o sile 4 lub "
+"większej, zamiast tego weź dwie many jednego dowolnego koloru."
 
 #: ../../ANB.rst:472
 msgid ""
@@ -1418,7 +1518,7 @@ msgstr ""
 
 #: ../../ANB.rst:471
 msgid "|mana_3|\\ |mana_g|: Put a +1/+1 counter on Jungle Delver."
-msgstr ""
+msgstr "|mana_3|\\ |mana_g|: Umieść znacznik +1/+1 na tym stworze."
 
 #: ../../ANB.rst:476
 msgid ""
@@ -1429,7 +1529,7 @@ msgstr ""
 
 #: ../../ANB.rst:475
 msgid "All creatures able to block Prized Unicorn do so."
-msgstr ""
+msgstr "Wszystkie stwory mogące blokować tego stwora, robią to."
 
 #: ../../ANB.rst:480
 msgid ""
@@ -1443,6 +1543,8 @@ msgid ""
 "Target creature you control deals damage equal to its power to target "
 "creature you don't control."
 msgstr ""
+"Wskazany stwór pod twoim władaniem zadaje obrażenia równe swojej sile "
+"wskazanemu stworowi poza twoim władaniem."
 
 #: ../../ANB.rst:486
 msgid ""
@@ -1456,6 +1558,8 @@ msgid ""
 "Whenever Rampaging Brontodon attacks, it gets +1/+1 until end of turn for "
 "each land you control."
 msgstr ""
+"Ilekroć ten stwór atakuje, dostaje do końca tury +1/+1 za każdy ląd pod "
+"twoim władaniem."
 
 #: ../../ANB.rst:488
 msgid ""
@@ -1473,7 +1577,7 @@ msgstr ""
 
 #: ../../ANB.rst:493
 msgid "Vigilance, reach"
-msgstr ""
+msgstr "Czujność, zasięg"
 
 #: ../../ANB.rst:498
 msgid ""
@@ -1486,6 +1590,8 @@ msgstr ""
 msgid ""
 "Put a +1/+1 counter on target creature you control. Untap that creature."
 msgstr ""
+"Umieść znacznik +1/+1 na wskazanym stworze pod twoim władaniem. Odkręć owego "
+"stwora."
 
 #: ../../ANB.rst:502
 msgid ""
@@ -1513,6 +1619,8 @@ msgid ""
 "Trample (This creature can deal excess combat damage to the player or "
 "planeswalker it's attacking.)"
 msgstr ""
+"Tratowanie (Ten stwór może zadać nadwyżkę obrażeń bojowych atakowanemu "
+"graczowi lub wędrowcowi.)"
 
 #: ../../ANB.rst:514
 msgid ""
@@ -1523,7 +1631,7 @@ msgstr ""
 
 #: ../../ANB.rst:513
 msgid "|tap|: Add |mana_g|."
-msgstr ""
+msgstr "|tap|: Weź |mana_g|."
 
 #: ../../ANB.rst:520
 msgid ""
@@ -1534,13 +1642,15 @@ msgstr ""
 
 #: ../../ANB.rst:517
 msgid "Whenever World Shaper attacks, you may mill three cards."
-msgstr ""
+msgstr "Ilekroć ten stwór zaatakuje, możesz zmielić trzy karty."
 
 #: ../../ANB.rst:519
 msgid ""
 "When World Shaper dies, return all land cards from your graveyard to the "
 "battlefield tapped."
 msgstr ""
+"Kiedy ten stwór umrze, przywróć wszystkie karty lądów z twojego cmentarza "
+"przekręcone na pole bitwy."
 
 #: ../../ANB.rst:524
 msgid ""
@@ -1554,6 +1664,8 @@ msgid ""
 "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, "
 "put it onto the battlefield tapped, then shuffle."
 msgstr ""
+"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
+"umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../ANB.rst:528
 msgid ""
@@ -1564,7 +1676,7 @@ msgstr ""
 
 #: ../../ANB.rst:527
 msgid "(|tap|: Add |mana_g|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_g|.)"
 
 #: ../../ANB.rst:532
 msgid ""
@@ -1575,7 +1687,7 @@ msgstr ""
 
 #: ../../ANB.rst:531
 msgid "(|tap|: Add |mana_u|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_u|.)"
 
 #: ../../ANB.rst:536
 msgid ""
@@ -1586,7 +1698,7 @@ msgstr ""
 
 #: ../../ANB.rst:535
 msgid "(|tap|: Add |mana_r|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_r|.)"
 
 #: ../../ANB.rst:540
 msgid ""
@@ -1597,7 +1709,7 @@ msgstr ""
 
 #: ../../ANB.rst:539
 msgid "(|tap|: Add |mana_w|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_w|.)"
 
 #: ../../ANB.rst:543
 msgid ""
@@ -1608,4 +1720,4 @@ msgstr ""
 
 #: ../../ANB.rst:543
 msgid "(|tap|: Add |mana_b|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_b|.)"
