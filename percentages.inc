@@ -198,7 +198,8 @@
 .. |KHM_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |ANB_percent| image:: images/pie05.png        
+.. |ANB_percent| image:: images/done.png        
+   :alt: Tłumaczenie zakończone
 
 .. |7ED_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
