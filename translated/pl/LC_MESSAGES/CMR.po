@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-26 20:58+0100\n"
-"PO-Revision-Date: 2022-04-18 15:30+0000\n"
+"PO-Revision-Date: 2022-04-18 17:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/cmr/pl/>\n"
 "Language: pl\n"
@@ -262,7 +262,7 @@ msgstr ""
 #: ../../CMR.rst:3039 ../../CMR.rst:3047 ../../CMR.rst:3053 ../../CMR.rst:3061
 #: ../../CMR.rst:3067
 msgid "Partner (You can have two commanders if both have partner.)"
-msgstr ""
+msgstr "Partnerstwo (Możesz mieć dwóch dowódców jeśli obaj mają partnerstwo.)"
 
 #: ../../CMR.rst:20
 msgid ""
@@ -3916,8 +3916,8 @@ msgid ""
 "Choose target creature you control. Whenever that creature deals combat "
 "damage to a player or planeswalker this turn, draw that many cards."
 msgstr ""
-"Wskaż stwora pod twoim władaniem. Ilekroć w tej turze ów stwór zada graczowi "
-"lub wędrowcowi obrażenia bojowe, dobierz tyle samo kart."
+"Wybierz wskazanego stwora pod twoim władaniem. Ilekroć w tej turze ów stwór "
+"zada graczowi lub wędrowcowi obrażenia bojowe, dobierz tyle samo kart."
 
 #: ../../CMR.rst:1324
 msgid ""
@@ -8250,7 +8250,7 @@ msgstr "Pierwszy cios, czujność"
 
 #: ../../CMR.rst:2881
 msgid "Akiri, Line-Slinger gets +1/+0 for each artifact you control."
-msgstr ""
+msgstr "Ten stwór dostaje +1/+0 za każdy artefakt pod twoim władaniem."
 
 #: ../../CMR.rst:2890
 msgid ""
@@ -8283,6 +8283,8 @@ msgid ""
 "target creature you control gains double strike and lifelink until end of "
 "turn."
 msgstr ""
+"Ilekroć ten stwór wejdzie na pole bitwy lub zaatakuje, wskazany stwór pod "
+"twoim władaniem zyskuje do końca tury podwójny cios i więź życia."
 
 #: ../../CMR.rst:2904
 msgid ""
@@ -8318,6 +8320,8 @@ msgid ""
 "Whenever a creature you control deals combat damage to a player, you gain "
 "life equal to that creature's toughness."
 msgstr ""
+"Ilekroć stwór pod twoim władaniem zada graczowi obrażenia bojowe, zyskaj "
+"życia równe wytrzymałości owego stwora."
 
 #: ../../CMR.rst:2920
 msgid ""
@@ -8331,7 +8335,7 @@ msgstr ""
 msgid ""
 "Whenever an opponent casts a spell, put a +1/+1 counter on Ishai, Ojutai "
 "Dragonspeaker."
-msgstr ""
+msgstr "Ilekroć przeciwnik rzuci czar, umieść znacznik +1/+1 na niniejszym."
 
 #: ../../CMR.rst:2926
 msgid ""
@@ -8403,7 +8407,7 @@ msgstr ""
 
 #: ../../CMR.rst:2945
 msgid "|tap|: Add |colorless| for each card you've drawn this turn."
-msgstr ""
+msgstr "|tap|: Weź |colorless| za każdą kartę dobraną przez ciebie w tej turze."
 
 #: ../../CMR.rst:2954
 msgid ""
@@ -8418,6 +8422,8 @@ msgid ""
 "At the beginning of each player's end step, that player may draw a card if a "
 "player other than you lost life this turn."
 msgstr ""
+"Na początku kroku końcowego każdego gracza, ów gracz może dobrać kartę jeśli "
+"gracz inny od ciebie stracił życia w tej turze."
 
 #: ../../CMR.rst:2960
 msgid ""
@@ -8593,6 +8599,8 @@ msgid ""
 "At the beginning of your upkeep, you may return target creature card from "
 "your graveyard to your hand."
 msgstr ""
+"Na początku twojego kroku utrzymania, możesz przywrócić wskazaną kartę "
+"stwora z twojego cmentarza do twojej ręki."
 
 #: ../../CMR.rst:3024
 msgid ""
@@ -8606,7 +8614,7 @@ msgstr ""
 msgid ""
 "Reyhan, Last of the Abzan enters the battlefield with three +1/+1 counters "
 "on it."
-msgstr ""
+msgstr "Ten stwór wchodzi na pole bitwy mając trzy znaczniki +1/+1."
 
 #: ../../CMR.rst:3021
 msgid ""
@@ -8614,6 +8622,9 @@ msgid ""
 "had one or more +1/+1 counters on it, you may put that many +1/+1 counters "
 "on target creature."
 msgstr ""
+"Ilekroć umrze stwór pod twoim władaniem lub zostanie umieszczony w strefie "
+"dowodzenia, jeśli miał co najmniej jeden znacznik +1/+1, możesz umieścić "
+"tyle samo znaczników +1/+1 na wskazanym stworze."
 
 #: ../../CMR.rst:3032
 msgid ""
@@ -8635,6 +8646,8 @@ msgid ""
 "Creatures your opponents control without flying or reach can't block "
 "creatures with power 2 or less."
 msgstr ""
+"Stwory bez latania ani zasięgu pod władaniem twoich przeciwników nie mogą "
+"blokować stworów o sile 2 lub mniejszej."
 
 #: ../../CMR.rst:3040
 msgid ""
@@ -8649,6 +8662,8 @@ msgid ""
 "Whenever Silas Renn, Seeker Adept deals combat damage to a player, choose "
 "target artifact card in your graveyard. You may cast that card this turn."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, wybierz wskazaną kartę "
+"artefaktu w twoim cmentarzu. Możesz rzucić ową kartę w tej turze."
 
 #: ../../CMR.rst:3048
 msgid ""
@@ -8662,6 +8677,8 @@ msgid ""
 "Whenever Tana, the Bloodsower deals combat damage to a player, create that "
 "many 1/1 green Saproling creature tokens."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, stwórz tyle samo żetonów "
+"zielonego stwora Sadzonka 1/1."
 
 #: ../../CMR.rst:3054
 msgid ""
@@ -8675,6 +8692,9 @@ msgid ""
 "|mana_4|: Scry 1, then reveal the top card of your library. If it's a land "
 "card, put it onto the battlefield tapped. Otherwise, draw a card."
 msgstr ""
+"|mana_4|: Wróż 1, po czym ujawnij wierzchnią kartę twojej biblioteki. Jeśli "
+"to karta lądu, umieść ją przekręconą na polu bitwy. W przeciwnym razie "
+"dobierz kartę."
 
 #: ../../CMR.rst:3062
 msgid ""
@@ -8689,6 +8709,9 @@ msgid ""
 "is the number of opponents that were dealt combat damage this turn. If you "
 "do, draw X cards."
 msgstr ""
+"Na początku twojej fazy głównej po potyczce, możesz zapłacić X żyć, gdzie X "
+"jest liczbą przeciwników, którzy w tej turze otrzymali obrażenia bojowe. "
+"Jeśli tak zrobisz, dobierz X kart."
 
 #: ../../CMR.rst:3068
 msgid ""
@@ -8703,6 +8726,9 @@ msgid ""
 "Vial Smasher the Fierce deals damage equal to that spell's mana value to "
 "that player or a planeswalker that player controls."
 msgstr ""
+"Ilekroć rzucisz twój pierwszy czar w danej turze, wybierz losowego "
+"przeciwnika. Ten byt zadaje owemu graczowi lub wędrowcowi pod jego władaniem "
+"obrażenia równe skrótowi many owego czaru."
 
 #: ../../CMR.rst:3076
 msgid ""
@@ -8768,12 +8794,16 @@ msgid ""
 "At the beginning of your upkeep, you gain X life and draw X cards, where X "
 "is the number of permanents you own that your opponents control."
 msgstr ""
+"Na początku twojego kroku utrzymania, zyskaj X żyć i dobierz X kart, gdzie X "
+"jest liczbą bytów twojej własności pod władaniem twoich przeciwników."
 
 #: ../../CMR.rst:3087
 msgid ""
 "|mana_u|\\ |mana_r|\\ |mana_w|: Target opponent gains control of target "
 "permanent you control."
 msgstr ""
+"|mana_u|\\ |mana_r|\\ |mana_w|: Wskazany przeciwnik zyskuje władanie nad "
+"wskazanym bytem pod twoim władaniem."
 
 #: ../../CMR.rst:3094
 msgid ""

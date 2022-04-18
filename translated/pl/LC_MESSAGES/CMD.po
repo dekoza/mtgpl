@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-01 01:05+0200\n"
-"PO-Revision-Date: 2022-04-18 15:30+0000\n"
+"PO-Revision-Date: 2022-04-18 17:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/cmd/pl/>\n"
 "Language: pl\n"
@@ -1097,6 +1097,9 @@ msgid ""
 "Join forces — Starting with you, each player may pay any amount of mana. "
 "Each player draws X cards, where X is the total amount of mana paid this way."
 msgstr ""
+"Połącz siły — Zaczynając od ciebie, każdy gracz może zapłacić dowolną ilość "
+"many. Każdy gracz dobiera X kart, gdzie X jest sumą wartości many "
+"zapłaconych w ten sposób."
 
 #: ../../CMD.rst:292
 msgid ""
@@ -1175,6 +1178,9 @@ msgid ""
 "You and that opponent each gain control of all creatures the other controls "
 "until end of turn. Those creatures gain haste until end of turn."
 msgstr ""
+"Odkręć wszystkie stwory pod twoim władaniem i wszystkie stwory pod władaniem "
+"wskazanego przeciwnika. Każdy z was zyskuje do końca tury władanie nad "
+"wszystkimi stworami drugiego. Owe stwory zyskują do końca tury pośpiech."
 
 #: ../../CMD.rst:318
 msgid ""
@@ -3517,17 +3523,19 @@ msgstr ""
 #: ../../CMD.rst:1071
 msgid ""
 "Ghave, Guru of Spores enters the battlefield with five +1/+1 counters on it."
-msgstr ""
+msgstr "Ten stwór wchodzi na pole bitwy mając pięć znaczników +1/+1."
 
 #: ../../CMD.rst:1073
 msgid ""
 "|mana_1|, Remove a +1/+1 counter from a creature you control: Create a 1/1 "
 "green Saproling creature token."
 msgstr ""
+"|mana_1|, usuń znacznik +1/+1 ze stwora pod twoim władaniem: Stwórz żeton "
+"zielonego stwora Sadzonka 1/1."
 
 #: ../../CMD.rst:1075
 msgid "|mana_1|, Sacrifice a creature: Put a +1/+1 counter on target creature."
-msgstr ""
+msgstr "|mana_1|, poświęć stwora: Umieść znacznik +1/+1 na wskazanym stworze."
 
 #: ../../CMD.rst:1082
 msgid ""
@@ -4124,6 +4132,8 @@ msgid ""
 "Whenever a card is put into an opponent's graveyard from anywhere, put a +1/"
 "+1 counter on Vulturous Zombie."
 msgstr ""
+"Ilekroć karta trafi skądkolwiek do cmentarza przeciwnika, umieść znacznik +1/"
+"+1 na tym stworze."
 
 #: ../../CMD.rst:1284
 msgid ""
@@ -4182,12 +4192,16 @@ msgid ""
 "At the beginning of your upkeep, you gain X life and draw X cards, where X "
 "is the number of permanents you own that your opponents control."
 msgstr ""
+"Na początku twojego kroku utrzymania, zyskaj X żyć i dobierz X kart, gdzie X "
+"jest liczbą bytów twojej własności pod władaniem twoich przeciwników."
 
 #: ../../CMD.rst:1299
 msgid ""
 "|mana_u|\\ |mana_r|\\ |mana_w|: Target opponent gains control of target "
 "permanent you control."
 msgstr ""
+"|mana_u|\\ |mana_r|\\ |mana_w|: Wskazany przeciwnik zyskuje władanie nad "
+"wskazanym bytem pod twoim władaniem."
 
 #: ../../CMD.rst:1304
 msgid ""
@@ -4790,7 +4804,7 @@ msgstr ""
 
 #: ../../CMD.rst:1517
 msgid "|tap|: Each player gains control of all creatures they own."
-msgstr ""
+msgstr "|tap|: Każdy gracz zyskuje władanie nad wszystkimi własnymi stworami."
 
 #: ../../CMD.rst:1526
 msgid ""

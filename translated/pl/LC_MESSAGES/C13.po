@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-01 01:05+0200\n"
-"PO-Revision-Date: 2022-04-18 15:30+0000\n"
+"PO-Revision-Date: 2022-04-18 17:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c13/pl/>\n"
 "Language: pl\n"
@@ -4295,12 +4295,16 @@ msgid ""
 "|mana_u|: Target noncreature artifact becomes an artifact creature with "
 "power and toughness each equal to its mana value until end of turn."
 msgstr ""
+"|mana_u|: Wskazany niestworowy artefakt do końca tury staje się artefaktowym "
+"stworem o sile i wytrzymałości równych niezależnie jego skrótowi many."
 
 #: ../../C13.rst:1271
 msgid ""
 "|mana_w|\\ |mana_b|: Target artifact creature gains deathtouch and lifelink "
 "until end of turn."
 msgstr ""
+"|mana_w|\\ |mana_b|: Wskazany artefaktowy stwór zyskuje do końca tury dotyk "
+"śmierci i więź życia."
 
 #: ../../C13.rst:1280
 msgid ""
@@ -5595,7 +5599,7 @@ msgstr ""
 
 #: ../../C13.rst:1699
 msgid "|tap|: Each player gains control of all creatures they own."
-msgstr ""
+msgstr "|tap|: Każdy gracz zyskuje władanie nad wszystkimi własnymi stworami."
 
 #: ../../C13.rst:1708
 msgid ""

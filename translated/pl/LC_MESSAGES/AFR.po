@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-15 18:11+0200\n"
-"PO-Revision-Date: 2022-04-17 16:43+0000\n"
+"PO-Revision-Date: 2022-04-18 17:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/afr/pl/>\n"
 "Language: pl\n"
@@ -1596,7 +1596,7 @@ msgstr ""
 
 #: ../../AFR.rst:455
 msgid "Choose target creature an opponent controls, then roll a d20."
-msgstr "Wskaż stwora pod władaniem przeciwnika, po czym rzuć k20."
+msgstr "Wybierz wskazanego stwora pod władaniem przeciwnika, po czym rzuć k20."
 
 #: ../../AFR.rst:457
 msgid "1—9 | Return it to its owner's hand."
@@ -1760,8 +1760,8 @@ msgid ""
 "Choose target player. Return half the creatures they control to their "
 "owner's hand, rounded up."
 msgstr ""
-"Wskaż gracza. Przywróć połowę stworów pod jego władaniem do ręki "
-"właściciela, zaokrąglając w górę."
+"Wybierz wskazanego gracza. Przywróć połowę stworów pod jego władaniem do "
+"ręki właściciela, zaokrąglając w górę."
 
 #: ../../AFR.rst:522
 msgid ""
@@ -5508,7 +5508,9 @@ msgstr ""
 msgid ""
 "|mana_5|, |tap|, Sacrifice Spiked Pit Trap: Choose target creature, then "
 "roll a d20."
-msgstr "|mana_5|, |tap|, poświęć ten artefakt: Wskaż stwora, po czym rzuć k20."
+msgstr ""
+"|mana_5|, |tap|, poświęć ten artefakt: Wybierz wskazanego stwora, po czym "
+"rzuć k20."
 
 #: ../../AFR.rst:1787
 msgid "1—9 | Spiked Pit Trap deals 5 damage to that creature."

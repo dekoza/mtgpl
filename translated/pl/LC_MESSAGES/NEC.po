@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2022.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-21 09:07+0100\n"
-"PO-Revision-Date: 2022-04-18 15:30+0000\n"
+"PO-Revision-Date: 2022-04-18 17:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/nec/pl/>\n"
 "Language: pl\n"
@@ -762,7 +762,7 @@ msgstr ""
 
 #: ../../NEC.rst:207
 msgid "Partner (You can have two commanders if both have partner.)"
-msgstr ""
+msgstr "Partnerstwo (Możesz mieć dwóch dowódców jeśli obaj mają partnerstwo.)"
 
 #: ../../NEC.rst:214
 msgid ":mtgtip:`Myojin of Cryptic Dreams<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/1/31142a36-3676-4ce4-9f5b-d9252fc30739.jpg?1643929208|https://scryfall.com/card/nec/33/myojin-of-cryptic-dreams?utm_source=api>`"
@@ -995,8 +995,8 @@ msgstr "Kiedy ten byt wejdzie na pole bitwy, zmiel cztery karty."
 #: ../../NEC.rst:317
 msgid "|tap|: Choose target artifact card in your graveyard. You may cast that card this turn. (You still pay its costs. Timing rules still apply.)"
 msgstr ""
-"|tap|: Wskaż kartę artefaktu w twoim cmentarzu. Możesz rzucić ową kartę w "
-"tej turze. (Nadal musisz zapłacić jej koszty. Reguły dotyczące czasu "
+"|tap|: Wybierz wskazaną kartę artefaktu w twoim cmentarzu. Możesz rzucić ową "
+"kartę w tej turze. (Nadal musisz zapłacić jej koszty. Reguły dotyczące czasu "
 "zagrywania wciąż są w mocy.)"
 
 #: ../../NEC.rst:322
@@ -1119,6 +1119,8 @@ msgstr ""
 #: ../../NEC.rst:365
 msgid "|tap|: Add two mana of any one color. Spend this mana only to cast artifact spells or activate abilities of artifacts."
 msgstr ""
+"|tap|: Weź dwie many w jednym dowolnym kolorze. Wydaj ową manę tylko na "
+"rzucenie czarów artefaktów lub aktywację zdolności artefaktów."
 
 #: ../../NEC.rst:372
 msgid ":mtgtip:`Whirler Rogue<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/6/261dd09a-6a68-4fe1-aed3-0892955e52c3.jpg?1644344081|https://scryfall.com/card/nec/101/whirler-rogue?utm_source=api>`"
@@ -1254,6 +1256,7 @@ msgstr "Zmiennokształtny (Ta karta ma każdy typ stwora.)"
 #: ../../NEC.rst:425
 msgid "Whenever an opponent casts a spell, you may put a +1/+1 counter on Taurean Mauler."
 msgstr ""
+"Ilekroć przeciwnik rzuci czar, możesz umieścić znacznik +1/+1 na tym stworze."
 
 #: ../../NEC.rst:432
 msgid ":mtgtip:`Acidic Slime<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/6/c672b34d-066e-40e6-a499-3ab68ea6514c.jpg?1644344321|https://scryfall.com/card/nec/112/acidic-slime?utm_source=api>`"
@@ -1365,8 +1368,8 @@ msgstr ""
 #: ../../NEC.rst:471
 msgid "Choose target creature you control. Whenever that creature deals combat damage to a player or planeswalker this turn, draw that many cards."
 msgstr ""
-"Wskaż stwora pod twoim władaniem. Ilekroć w tej turze ów stwór zada graczowi "
-"lub wędrowcowi obrażenia bojowe, dobierz tyle samo kart."
+"Wybierz wskazanego stwora pod twoim władaniem. Ilekroć w tej turze ów stwór "
+"zada graczowi lub wędrowcowi obrażenia bojowe, dobierz tyle samo kart."
 
 #: ../../NEC.rst:476
 msgid ":mtgtip:`Kodama's Reach<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bf1c9d24-f5f6-43ff-85c3-034b76e1bf1b.jpg?1644323805|https://scryfall.com/card/nec/120/kodamas-reach?utm_source=api>`"
@@ -1433,10 +1436,14 @@ msgstr ""
 #: ../../NEC.rst:501
 msgid "This spell costs |mana_1| less to cast for each creature your opponents control."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_1| mniej za każdego stwora pod "
+"władaniem twoich przeciwników."
 
 #: ../../NEC.rst:503
 msgid "When Primeval Protector enters the battlefield, put a +1/+1 counter on each other creature you control."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, umieść znacznik +1/+1 na każdym innym "
+"stworze pod twoim władaniem."
 
 #: ../../NEC.rst:508
 msgid ":mtgtip:`Rampant Growth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/4/0442b365-c970-478b-b418-ae02d83ca8e1.jpg?1644344555|https://scryfall.com/card/nec/125/rampant-growth?utm_source=api>`"
