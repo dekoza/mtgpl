@@ -102,9 +102,6 @@ karty z innych dodatków dobrane w taki sposób, by zapewnić odpowiedni balans 
 * :mtgexp:`KLR` :doc:`Kaladesh Remastered<KLR>` (tylko Arena) |KLR_percent|
 * :mtgexp:`TPR` :doc:`Tempest Remastered<TPR>` (tylko MTGO) |TPR_percent|
 
-W sierpniu 2021 ma się ukazać pierwszy dodatek do Areny zawierający karty z unikalnymi mechanikami przeznaczonymi
-wyłącznie do gry cyfrowej
-
 Jumpstart
 ---------
 
