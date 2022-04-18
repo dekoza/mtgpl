@@ -2,6 +2,9 @@
 Spis zmian
 ***********
 
+2022-04-19
+   * :mtgexp:`C15` :doc:`Commander 2015<C15>` - 100%
+
 2022-04-18
    * :mtgexp:`C21` :doc:`Commander 2021<C21>` - 100%
    * :mtgexp:`C18` :doc:`Commander 2018<C18>` - 100%

@@ -25,7 +25,7 @@
 .. |MID_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |USG_percent| image:: images/pie50.png        
+.. |USG_percent| image:: images/pie55.png        
 
 .. |MRD_percent| image:: images/pie55.png        
 
@@ -54,7 +54,7 @@
 .. |M13_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |C20_percent| image:: images/pie80.png        
+.. |C20_percent| image:: images/pie85.png        
 
 .. |BBD_percent| image:: images/pie75.png        
 
@@ -276,7 +276,8 @@
 .. |OGW_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |C15_percent| image:: images/pie90.png        
+.. |C15_percent| image:: images/done.png        
+   :alt: Tłumaczenie zakończone
 
 .. |GNT_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
