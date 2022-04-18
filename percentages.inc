@@ -271,7 +271,7 @@
 .. |OGW_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |C15_percent| image:: images/pie80.png        
+.. |C15_percent| image:: images/pie85.png        
 
 .. |GNT_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
