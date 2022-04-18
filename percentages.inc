@@ -124,7 +124,7 @@
 .. |THS_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |MOR_percent| image:: images/pie50.png        
+.. |MOR_percent| image:: images/pie55.png        
 
 .. |ORI_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
@@ -276,7 +276,7 @@
 .. |OGW_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |C15_percent| image:: images/pie85.png        
+.. |C15_percent| image:: images/pie90.png        
 
 .. |GNT_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
@@ -321,7 +321,7 @@
 
 .. |FEM_percent| image:: images/pie35.png        
 
-.. |APC_percent| image:: images/pie45.png        
+.. |APC_percent| image:: images/pie50.png        
 
 .. |EVE_percent| image:: images/pie65.png        
 
