@@ -80,7 +80,7 @@
 .. |S99_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |AFC_percent| image:: images/pie05.png        
+.. |AFC_percent| image:: images/pie75.png        
 
 .. |STX_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
@@ -197,6 +197,8 @@
 
 .. |KHM_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
+
+.. |ANB_percent| image:: images/pie05.png        
 
 .. |7ED_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
