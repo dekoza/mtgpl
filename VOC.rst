@@ -229,7 +229,7 @@
    Whenever Umbris or another Nightmare or Horror enters the battlefield under your control, target opponent exiles cards from the top of their library until they exile a land card.
 
 
-:mtgtip:`Angel of Flight Alabaster<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/f/3ff8fbcd-5db9-4cde-9f56-243b1f4924f8.jpg?1641601009|https://scryfall.com/card/voc/77/angel-of-flight-alabaster?utm_source=api>`
+:mtgtip:`Angel of Flight Alabaster<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/f/3ff8fbcd-5db9-4cde-9f56-243b1f4924f8.jpg?1649691387|https://scryfall.com/card/voc/77/angel-of-flight-alabaster?utm_source=api>`
    Flying
 
    At the beginning of your upkeep, return target Spirit card from your graveyard to your hand.

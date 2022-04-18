@@ -305,8 +305,8 @@
    When Psionic Snoop enters the battlefield, it connives. (Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)
 
 
-:mtgtip:`Psychic Pickpocket<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/5/956b90ca-1012-4132-bf2f-bc3825ed16ac.jpg?1649744094|https://scryfall.com/card/snc/54/psychic-pickpocket?utm_source=api>`
-   When Psychic Pickpocket enters the battlefield, it connives. When it connives this way, return up to one target nonland permanent to its owner's hand. (To have a creature connive, draw a card, then discard a card. Put a +1/+1 counter on that creature for each nonland card discarded this way.)
+:mtgtip:`Psychic Pickpocket<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/5/956b90ca-1012-4132-bf2f-bc3825ed16ac.jpg?1650273181|https://scryfall.com/card/snc/54/psychic-pickpocket?utm_source=api>`
+   When Psychic Pickpocket enters the battlefield, it connives. When it connives this way, return up to one target nonland permanent to its owner's hand. (To have a creature connive, draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)
 
 
 :mtgtip:`Public Enemy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/e/0e69ba61-8c16-4112-9601-fac978b88667.jpg?1649935785|https://scryfall.com/card/snc/55/public-enemy?utm_source=api>`
@@ -1217,12 +1217,12 @@
    • Destroy target creature or planeswalker with mana value 3 or less.
 
 
-:mtgtip:`Obscura Interceptor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/8/08886346-2405-47ee-997f-c0fb7776c783.jpg?1649695985|https://scryfall.com/card/snc/209/obscura-interceptor?utm_source=api>`
+:mtgtip:`Obscura Interceptor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/8/08886346-2405-47ee-997f-c0fb7776c783.jpg?1650273170|https://scryfall.com/card/snc/209/obscura-interceptor?utm_source=api>`
    Flash
 
    Lifelink
 
-   When Obscura Interceptor enters the battlefield, it connives. When it connives this way, return up to one target spell to its owner's hand. (To have a creature connive, draw a card, then discard a card. Put a +1/+1 counter on that creature for each nonland card discarded this way.)
+   When Obscura Interceptor enters the battlefield, it connives. When it connives this way, return up to one target spell to its owner's hand. (To have a creature connive, draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)
 
 
 :mtgtip:`Ognis, the Dragon's Lash<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/3/636058c3-bacc-4a66-8988-832ab0cc9be6.jpg?1649878167|https://scryfall.com/card/snc/210/ognis-the-dragons-lash?utm_source=api>`
@@ -1337,7 +1337,7 @@
    When Toluz, Clever Conductor dies, put the cards exiled with it into their owner's hand.
 
 
-:mtgtip:`Unleash the Inferno<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/f/1f892607-8672-4013-86e6-0779d0b726de.jpg?1649699392|https://scryfall.com/card/snc/229/unleash-the-inferno?utm_source=api>`
+:mtgtip:`Unleash the Inferno<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/f/1f892607-8672-4013-86e6-0779d0b726de.jpg?1650275733|https://scryfall.com/card/snc/229/unleash-the-inferno?utm_source=api>`
    Unleash the Inferno deals 7 damage to target creature or planeswalker. When it deals excess damage this way, destroy target artifact or enchantment an opponent controls with mana value less than or equal to that amount of excess damage.
 
 
