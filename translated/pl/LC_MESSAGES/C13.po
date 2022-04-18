@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-01 01:05+0200\n"
-"PO-Revision-Date: 2022-04-17 22:53+0000\n"
+"PO-Revision-Date: 2022-04-18 15:30+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c13/pl/>\n"
 "Language: pl\n"
@@ -3401,6 +3401,8 @@ msgid ""
 "Enchanted land has \"|tap|: Create a 5/5 green Beast creature token with "
 "trample.\""
 msgstr ""
+"Zauroczony ląd ma \"|tap|: Stwórz żeton zielonego stwora Bestia 5/5 z "
+"tratowaniem.\""
 
 #: ../../C13.rst:964
 msgid ""
@@ -5865,7 +5867,7 @@ msgstr ""
 # 40df377242f44812b7d6a186eabf18f3
 #: ../../C13.rst:1797
 msgid "New Benalia enters the battlefield tapped."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 # 9e2faa42edf44577a75b9ebb278a3b97
 #: ../../C13.rst:1799
@@ -5873,6 +5875,8 @@ msgid ""
 "When New Benalia enters the battlefield, scry 1. (Look at the top card of "
 "your library. You may put that card on the bottom of your library.)"
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, wróż 1. (Spójrz na wierzchnią kartę "
+"twojej biblioteki. Możesz umieścić ową kartę na spodzie twojej biblioteki.)"
 
 #: ../../C13.rst:1808
 msgid ""

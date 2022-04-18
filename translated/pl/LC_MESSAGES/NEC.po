@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2022.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-21 09:07+0100\n"
-"PO-Revision-Date: 2022-04-17 17:45+0000\n"
+"PO-Revision-Date: 2022-04-18 15:30+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/nec/pl/>\n"
 "Language: pl\n"
@@ -1389,6 +1389,8 @@ msgstr "Tratowanie"
 #: ../../NEC.rst:481
 msgid "Lieutenant — At the beginning of combat on your turn, if you control your commander, put a +1/+1 counter on each creature you control."
 msgstr ""
+"Porucznik — Na początku potyczki w twojej turze, jeśli władasz swoim "
+"dowódcą, umieść znacznik +1/+1 na każdym stworze pod twoim władaniem."
 
 #: ../../NEC.rst:490
 msgid ":mtgtip:`Nissa, Voice of Zendikar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/3/83b5445f-16d9-4b32-a728-90e68b3909a0.jpg?1644346869|https://scryfall.com/card/nec/122/nissa-voice-of-zendikar?utm_source=api>`"
@@ -1562,6 +1564,9 @@ msgstr "Zasięg"
 #: ../../NEC.rst:559
 msgid "When Whiptongue Hydra enters the battlefield, destroy all creatures with flying. Put a +1/+1 counter on Whiptongue Hydra for each creature destroyed this way."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, zniszcz wszystkie stwory z lataniem. "
+"Umieść na tym stworze znacznik +1/+1 za każdego stwora zniszczonego w ten "
+"sposób."
 
 #: ../../NEC.rst:566
 msgid ":mtgtip:`Arcanist's Owl<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/8/9849087e-ea39-4667-b879-51ecdff4bf6a.jpg?1644344734|https://scryfall.com/card/nec/135/arcanists-owl?utm_source=api>`"

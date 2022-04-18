@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-01 01:05+0200\n"
-"PO-Revision-Date: 2022-04-17 22:53+0000\n"
+"PO-Revision-Date: 2022-04-18 15:30+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c18/pl/>\n"
 "Language: pl\n"
@@ -347,6 +347,10 @@ msgid ""
 "controlled by the player who controls the fewest, then sacrifices the rest. "
 "Players discard cards and sacrifice creatures the same way."
 msgstr ""
+"|mana_4|\\ |mana_w|, |tap|, poświęć ten byt: Każdy gracz wybiera tyle lądów "
+"pod swoim władaniem, iloma lądami włada gracz władający najmniejszą ich "
+"liczbą, po czym poświęca pozostałe. Gracze odrzucają karty i poświęcają "
+"stwory w ten sam sposób."
 
 #: ../../C18.rst:40
 msgid ""
@@ -362,6 +366,10 @@ msgid ""
 "type, you may cast a spell of that type from among the exiled cards without "
 "paying its mana cost."
 msgstr ""
+"Wygnaj osiem wierzchnich kart twojej biblioteki. Możesz spośród nich "
+"umieścić kartę lądu na polu bitwy. Do końca tury, dla każdego nielądowego "
+"typu karty, możesz rzucić czar owego typu spośród owych wygnanych kart bez "
+"płacenia ich kosztu many."
 
 #: ../../C18.rst:46
 msgid ""
@@ -375,6 +383,8 @@ msgid ""
 "When you cast this spell, copy it for each time you've cast your commander "
 "from the command zone this game. You may choose new targets for the copies."
 msgstr ""
+"Kiedy rzucisz ten czar, skopiuj go tyle razy, ile razy w tej grze rzuciłeś "
+"twojego dowódcę ze strefy dowodzenia. Możesz wskazać nowe cele dla kopii."
 
 #: ../../C18.rst:45 ../../C18.rst:627
 msgid "Create a token that's a copy of target artifact."
@@ -394,6 +404,10 @@ msgid ""
 "you may exile this enchantment. If you do, return it to the battlefield "
 "under its owner's control.\""
 msgstr ""
+"Możesz zdecydować, że ten byt wejdzie na pole bitwy jako kopia uroku pod "
+"twoim władaniem, ale ma \"Na początku twojego kroku utrzymania, możesz "
+"wygnać ten urok. Jeśli tak zrobisz, przywróć go na pole bitwy pod władaniem "
+"właściciela.\""
 
 #: ../../C18.rst:54
 msgid ""
@@ -422,6 +436,8 @@ msgid ""
 "Lieutenant — At the beginning of combat on your turn, if you control your "
 "commander, draw a card."
 msgstr ""
+"Porucznik — Na początku potyczki w twojej turze, jeśli władasz swoim "
+"dowódcą, dobierz kartę."
 
 #: ../../C18.rst:68
 msgid ""
@@ -441,6 +457,9 @@ msgid ""
 "Enchanted creature has base power and toughness 8/8 and has \"Whenever this "
 "creature attacks, you may tap target creature with power 8 or less.\""
 msgstr ""
+"Zauroczony stwór ma bazową siłę i wytrzymałość 8/8 oraz ma \"Ilekroć ten "
+"stwór zaatakuje, możesz przekręcić wskazanego stwora o sile 8 lub mniejszej."
+"\""
 
 #: ../../C18.rst:67 ../../C18.rst:561 ../../C18.rst:799 ../../C18.rst:973
 msgid ""
@@ -463,12 +482,18 @@ msgid ""
 "library. (Put it onto the battlefield face down as a 2/2 creature. Turn it "
 "face up any time for its mana cost if it's a creature card.)"
 msgstr ""
+"Na początku twojego kroku końcowego, możesz objawić wierzchnią kartę twojej "
+"biblioteki. (Umieść ją zakrytą na polu bitwy jako stwora 2/2. Odkryj ją w "
+"dowolnym momencie za jej koszt many, jeśli jest to karta stwora.)"
 
 #: ../../C18.rst:73
 msgid ""
 "Exile a face-down permanent you control face up: You may play that card this "
 "turn. (You still pay its costs. Timing rules still apply.)"
 msgstr ""
+"Wygnaj zakryty byt pod twoim władaniem jako odkryty: Możesz zagrać ową kartę "
+"w tej turze. (Nadal płacisz jej koszty. Nadal stosuj reguły czasu "
+"zagrywania.)"
 
 #: ../../C18.rst:78
 msgid ""
@@ -483,6 +508,9 @@ msgid ""
 "more artifacts, creatures your opponents control lose all abilities and have "
 "base power and toughness 1/1 until end of turn."
 msgstr ""
+"Metalurgia — Ilekroć ten stwór zaatakuje, jeśli władasz co najmniej trzema "
+"artefaktami, stwory pod władaniem twoich przeciwników do końca tury tracą "
+"wszystkie zdolności i mają bazową siłę i wytrzymałość 1/1."
 
 #: ../../C18.rst:86
 msgid ""
@@ -512,13 +540,16 @@ msgstr ""
 
 #: ../../C18.rst:89
 msgid "Return X target creature cards from your graveyard to the battlefield."
-msgstr ""
+msgstr "Przywróć X wskazanych kart stworów z twojego cmentarza na pole bitwy."
 
 #: ../../C18.rst:91
 msgid ""
 "Miracle |mana_x|\\ |mana_b|\\ |mana_b| (You may cast this card for its "
 "miracle cost when you draw it if it's the first card you drew this turn.)"
 msgstr ""
+"Cud |mana_x|\\ |mana_b|\\ |mana_b| (Możesz rzucić tę kartę za koszt cudu w "
+"momencie jej dobrania, jeśli jest to pierwsza karta dobrana przez ciebie w "
+"tej turze.)"
 
 #: ../../C18.rst:98
 msgid ""
@@ -536,6 +567,8 @@ msgid ""
 "Lieutenant — At the beginning of combat on your turn, if you control your "
 "commander, each opponent loses 3 life."
 msgstr ""
+"Porucznik — Na początku potyczki w twojej turze, jeśli władasz twoim "
+"dowódcą, każdy przeciwnik traci po 3 życia."
 
 #: ../../C18.rst:106
 msgid ""
@@ -553,12 +586,16 @@ msgid ""
 "When Night Incarnate leaves the battlefield, all creatures get -3/-3 until "
 "end of turn."
 msgstr ""
+"Kiedy ten byt opuści pole bitwy, wszystkie stwory dostają do końca tury -3/"
+"-3."
 
 #: ../../C18.rst:105
 msgid ""
 "Evoke |mana_3|\\ |mana_b| (You may cast this spell for its evoke cost. If "
 "you do, it's sacrificed when it enters the battlefield.)"
 msgstr ""
+"Przyzwanie |mana_3|\\ |mana_b| (Możesz rzucić ten czar za jego koszt "
+"przyzwania. Jeśli tak zrobisz, zostaje poświęcony po wejściu na pole bitwy.)"
 
 #: ../../C18.rst:112
 msgid ""
@@ -572,6 +609,8 @@ msgid ""
 "Each opponent sacrifices a creature. Each opponent who can't loses half "
 "their life, rounded up."
 msgstr ""
+"Każdy przeciwnik poświęca stwora. Każdy przeciwnik nie mogący tego zrobić, "
+"traci połowę swoich żyć, zaokrąglając w górę."
 
 #: ../../C18.rst:120
 msgid ""
@@ -582,13 +621,15 @@ msgstr ""
 
 #: ../../C18.rst:117
 msgid "As Sower of Discord enters the battlefield, choose two players."
-msgstr ""
+msgstr "Przy wejściu tego bytu na pole bitwy, wybierz dwóch graczy."
 
 #: ../../C18.rst:119
 msgid ""
 "Whenever damage is dealt to one of the chosen players, the other chosen "
 "player also loses that much life."
 msgstr ""
+"Ilekroć obrażenia zostaną zadane jednemu z owych wybranych graczy, drugi z "
+"nich także traci tyle samo żyć."
 
 #: ../../C18.rst:128
 msgid ""
@@ -604,7 +645,7 @@ msgstr "Latanie, pośpiech"
 #: ../../C18.rst:125
 msgid ""
 "As Emissary of Grudges enters the battlefield, secretly choose an opponent."
-msgstr ""
+msgstr "Przy wejściu tego bytu na pole bitwy, potajemnie wybierz przeciwnika."
 
 #: ../../C18.rst:127
 msgid ""
@@ -612,6 +653,9 @@ msgid ""
 "if it's controlled by the chosen player and if it targets you or a permanent "
 "you control. Activate only once."
 msgstr ""
+"Ujawnij wybór gracza: Wybierz nowe wskazania dla wskazanego czaru lub "
+"zdolności jest pod władaniem wybranego gracza i jeśli wskazuje ciebie lub "
+"byt pod twoim władaniem. Aktywuj tylko raz."
 
 #: ../../C18.rst:132
 msgid ""
@@ -660,6 +704,9 @@ msgid ""
 "commander, create a 1/1 colorless Thopter artifact creature token with "
 "flying. That token gains haste until end of turn."
 msgstr ""
+"Porucznik — Na początku potyczki w twojej turze, jeśli władasz swoim "
+"dowódcą, stwórz żeton bezkolorowego artefaktowego stwora Kopter 1/1 z "
+"lataniem. Ów żeton do końca tury zyskuje pośpiech."
 
 #: ../../C18.rst:150
 msgid ""
@@ -675,6 +722,10 @@ msgid ""
 "dies, create a 2/2 red Dragon creature token with flying and '|mana_r|: This "
 "creature gets +1/+0 until end of turn.'\""
 msgstr ""
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, stwórz "
+"żeton czerwonego stwora Smok Jajo 0/2 z obronnością i \"Kiedy ten stwór "
+"umrze, stwórz żeton czerwonego stwora Smok 2/2 z lataniem i '|mana_r|: Ten "
+"stwór dostaje do końca tury +1/+0.'\""
 
 #: ../../C18.rst:156
 msgid ""
@@ -690,6 +741,10 @@ msgid ""
 "with that permanent. Put that card onto the battlefield and the rest on the "
 "bottom of your library in a random order."
 msgstr ""
+"Umieść wskazany własny byt na spodzie twojej biblioteki. Ujawnij karty z "
+"wierzchu twojej biblioteki aż ujawnisz kartę współdzielącą typ karty z owym "
+"bytem. Umieść ową kartę na polu bitwy, a pozostałe losowo na spodzie twojej "
+"biblioteki."
 
 #: ../../C18.rst:155 ../../C18.rst:1155
 msgid ""
@@ -711,6 +766,8 @@ msgid ""
 "Improvise (Each artifact you tap after you're done activating mana abilities "
 "pays for |mana_1|.)"
 msgstr ""
+"Improwizacja (Każdy artefakt, który przekręcisz po aktywacji zdolności "
+"dających manę, opłaca |mana_1|.)"
 
 #: ../../C18.rst:161
 msgid ""
@@ -736,6 +793,8 @@ msgid ""
 "Whenever an opponent taps an artifact for mana, gain control of that "
 "artifact until the end of your next turn."
 msgstr ""
+"Ilekroć przeciwnik przekręci artefakt pobierając manę, zyskaj władanie nad "
+"owym artefaktem do końca twojej następnej tury."
 
 #: ../../C18.rst:174
 msgid ""
@@ -750,6 +809,8 @@ msgid ""
 "Whenever Varchild, Betrayer of Kjeldor deals combat damage to a player, that "
 "player creates that many 1/1 red Survivor creature tokens."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, ów gracz tworzy tyle samo "
+"żetonów czerwonego stwora Ocalony 1/1."
 
 #: ../../C18.rst:171
 msgid ""
@@ -762,6 +823,7 @@ msgstr ""
 #: ../../C18.rst:173
 msgid "When Varchild leaves the battlefield, gain control of all Survivors."
 msgstr ""
+"Kiedy ten byt opuści pole bitwy, zyskaj władanie nad wszystkimi Ocalonymi."
 
 #: ../../C18.rst:180
 msgid ""
@@ -780,6 +842,7 @@ msgstr "Tratowanie"
 msgid ""
 "Crash of Rhino Beetles gets +10/+10 as long as you control ten or more lands."
 msgstr ""
+"Ten stwór dostaje +10/+10 o ile władasz co najmniej dziesięcioma lądami."
 
 #: ../../C18.rst:186
 msgid ""
@@ -795,6 +858,10 @@ msgid ""
 "cards revealed this way that weren't put onto the battlefield on the bottom "
 "of your library in a random order."
 msgstr ""
+"Ujawnij karty z wierzchu twojej biblioteki aż ujawnisz kartę nielądowego "
+"bytu. Możesz umieścić ową kartę na polu bitwy. Następnie umieść wszystkie "
+"ujawnione karty, które nie zostały umieszczone na polu bitwy, losowo na "
+"spodzie twojej biblioteki."
 
 #: ../../C18.rst:192
 msgid ""
@@ -808,6 +875,8 @@ msgid ""
 "Lieutenant — At the beginning of combat on your turn, if you control your "
 "commander, put a +1/+1 counter on each creature you control."
 msgstr ""
+"Porucznik — Na początku potyczki w twojej turze, jeśli władasz swoim "
+"dowódcą, umieść znacznik +1/+1 na każdym stworze pod twoim władaniem."
 
 #: ../../C18.rst:198
 msgid ""
@@ -821,12 +890,15 @@ msgid ""
 "Your commander costs |mana_1| less to cast for each time it's been cast from "
 "the command zone this game."
 msgstr ""
+"Rzucenie twojego dowódcy kosztuje o |mana_1| mniej za każde jego rzucenie ze "
+"strefy dowodzenia w tej grze."
 
 #: ../../C18.rst:197
 msgid ""
 "Whenever your commander is put into the command zone from anywhere, draw a "
 "card."
 msgstr ""
+"Ilekroć twój dowódca trafi skądkolwiek do strefy dowodzenia, dobierz kartę."
 
 #: ../../C18.rst:202
 msgid ""
@@ -841,6 +913,8 @@ msgid ""
 "battlefield under your control, double target creature's power and toughness "
 "until end of turn."
 msgstr ""
+"Konstelacja — Ilekroć ten lub inny urok wejdzie na pole bitwy pod twoim "
+"władaniem, podwój do końca tury siłę i wytrzymałość wskazanego stwora."
 
 #: ../../C18.rst:208
 msgid ""
@@ -851,13 +925,15 @@ msgstr ""
 
 #: ../../C18.rst:205
 msgid "Ravenous Slime can't be blocked by creatures with power 2 or less."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany przez stwory o sile 2 lub mniejszej."
 
 #: ../../C18.rst:207
 msgid ""
 "If a creature an opponent controls would die, instead exile it and put a "
 "number of +1/+1 counters equal to that creature's power on Ravenous Slime."
 msgstr ""
+"Jeśli stwór pod władaniem przeciwnika miałby umrzeć, zamiast tego wygnaj go "
+"i umieść na niniejszym tyle znaczników +1/+1, ile siły miał ów stwór."
 
 #: ../../C18.rst:214
 msgid ""
@@ -871,12 +947,16 @@ msgid ""
 "Whenever one or more land cards are put into your graveyard from anywhere, "
 "create a 0/1 green Plant creature token."
 msgstr ""
+"Ilekroć jedna lub więcej kart lądów trafi skądkolwiek do twojego cmentarza, "
+"stwórz żeton zielonego stwora Roślina 0/1."
 
 #: ../../C18.rst:213
 msgid ""
 "|mana_g|, Sacrifice three creatures: Return target land card from your "
 "graveyard to your hand."
 msgstr ""
+"|mana_g|, poświęć trzy stwory: Przywróć wskazaną kartę lądu z twojego "
+"cmentarza do twojej ręki."
 
 #: ../../C18.rst:220
 msgid ""
@@ -895,6 +975,9 @@ msgid ""
 "flying. Put a +1/+1 counter on Whiptongue Hydra for each creature destroyed "
 "this way."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, zniszcz wszystkie stwory z lataniem. "
+"Umieść na tym stworze znacznik +1/+1 za każdego stwora zniszczonego w ten "
+"sposób."
 
 #: ../../C18.rst:230
 msgid ""
@@ -907,12 +990,16 @@ msgstr ""
 #: ../../C18.rst:223
 msgid "+1: Draw a card, then put a card from your hand on top of your library."
 msgstr ""
+"+1: Dobierz kartę, po czym umieść kartę z twojej ręki na wierzchu twojej "
+"biblioteki."
 
 #: ../../C18.rst:225
 msgid ""
 "−1: Exile another target permanent you own, then return it to the "
 "battlefield under your control."
 msgstr ""
+"–1: Wygnaj inny wskazany własny byt, po czym przywróć go na pole bitwy pod "
+"twoim władaniem."
 
 #: ../../C18.rst:227
 msgid ""
@@ -920,10 +1007,13 @@ msgid ""
 "permanents other than Aminatou, the Fateshifter controlled by the next "
 "player in the chosen direction."
 msgstr ""
+"–6: Wybierz lewo lub prawo. Każdy gracz zyskuje władanie nad wszystkimi "
+"nielądowymi bytami innymi niż niniejszy władanymi przez gracza po wybranej "
+"stronie."
 
 #: ../../C18.rst:229
 msgid "Aminatou, the Fateshifter can be your commander."
-msgstr ""
+msgstr "Ta karta może być twoim dowódcą."
 
 #: ../../C18.rst:240
 msgid ""
@@ -987,13 +1077,15 @@ msgstr ""
 
 #: ../../C18.rst:249
 msgid "+2: Untap each enchanted permanent you control."
-msgstr ""
+msgstr "+2: Odkręć każdy zauroczony byt pod twoim władaniem."
 
 #: ../../C18.rst:251
 msgid ""
 "−1: Create a white Aura enchantment token named Mask attached to another "
 "target permanent. The token has enchant permanent and totem armor."
 msgstr ""
+"–1: Stwórz żeton białego uroku Aury o nazwie Maska dołączony do innego "
+"wskazanego bytu. Ów żeton ma zauroczenie bytu i zbroję totemową."
 
 #: ../../C18.rst:253
 msgid ""
@@ -1005,7 +1097,7 @@ msgstr ""
 
 #: ../../C18.rst:255
 msgid "Estrid, the Masked can be your commander."
-msgstr ""
+msgstr "Ta karta może być twoim dowódcą."
 
 #: ../../C18.rst:262
 msgid ""
@@ -1019,6 +1111,8 @@ msgid ""
 "Gyrus, Waker of Corpses enters the battlefield with a number of +1/+1 "
 "counters on it equal to the amount of mana spent to cast it."
 msgstr ""
+"Ten stwór wchodzi na pole bitwy mając tyle znaczników +1/+1, ile many wydano "
+"do jego rzucenia."
 
 #: ../../C18.rst:261
 msgid ""
@@ -1026,6 +1120,9 @@ msgid ""
 "from your graveyard. If you do, create a token that's a copy of that card "
 "and that's tapped and attacking. Exile the token at end of combat."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, możesz wygnać wskazaną kartę stwora o mniejszej "
+"sile z twojego cmentarza. Jeśli tak zrobisz, stwórz przekręcony i atakujący "
+"żeton będący kopią owej karty. Wygnaj ów żeton na koniec potyczki."
 
 #: ../../C18.rst:270
 msgid ""
@@ -1040,6 +1137,9 @@ msgid ""
 "its bestow cost, it's an Aura spell with enchant creature. It becomes a "
 "creature again if it's not attached to a creature.)"
 msgstr ""
+"Obdaruj |mana_3|\\ |mana_g|\\ |mana_w|\\ |mana_u| (Jeśli rzucisz tę kartę za "
+"koszt obdarowania, jest ona czarem Aury zauroczenia stwora. Ponownie staje "
+"się stworem, jeśli nie jest dołączona do stwora.)"
 
 #: ../../C18.rst:267
 msgid "Enchanted creature gets +4/+4."
@@ -1050,6 +1150,8 @@ msgid ""
 "Whenever an enchanted creature or enchantment creature you control attacks, "
 "draw a card."
 msgstr ""
+"Ilekroć zauroczony stwór lub stwór-urok pod twoim władaniem zaatakuje, "
+"dobierz kartę."
 
 #: ../../C18.rst:280
 msgid ""
@@ -1063,22 +1165,28 @@ msgid ""
 "+2: Discard a card, then draw a card. If a land card is discarded this way, "
 "draw an additional card."
 msgstr ""
+"+2: Odrzuć kartę, po czym dobierz kartę. Jeśli karta lądu zostanie odrzucona "
+"w ten sposób, dobierz dodatkową kartę."
 
 #: ../../C18.rst:275
 msgid ""
 "−3: Return up to two target land cards from your graveyard to the "
 "battlefield."
 msgstr ""
+"–3: Przywróć co najwyżej dwie wskazane karty lądów z twojego cmentarza na "
+"pole bitwy."
 
 #: ../../C18.rst:277
 msgid ""
 "−11: Destroy up to six target nonland permanents, then create six 2/2 green "
 "Cat Warrior creature tokens with forestwalk."
 msgstr ""
+"–11: Zniszcz co najwyżej sześć wskazanych nielądowych bytów, po czym stwórz "
+"sześć żetonów zielonego stwora Kot Wojownik 2/2 z podbojem lasów."
 
 #: ../../C18.rst:279
 msgid "Lord Windgrace can be your commander."
-msgstr ""
+msgstr "Ta karta może być twoim dowódcą."
 
 #: ../../C18.rst:290
 msgid ""
@@ -1089,23 +1197,28 @@ msgstr ""
 
 #: ../../C18.rst:283
 msgid "+1: Create a 1/1 colorless Servo artifact creature token."
-msgstr ""
+msgstr "+1: Stwórz żeton bezkolorowego artefaktowego stwora Serwo 1/1."
 
 #: ../../C18.rst:285
 msgid ""
 "+1: The next spell you cast this turn costs |mana_1| less to cast for each "
 "artifact you control as you cast it."
 msgstr ""
+"+1: Rzucenie najbliższego twojego czaru w tej turze kosztuje cię o |mana_1| "
+"mniej za każdy artefakt będący pod twoim władaniem podczas jego rzucania."
 
 #: ../../C18.rst:287
 msgid ""
 "−7: For each artifact you control, create a token that's a copy of it. Those "
 "tokens gain haste. Exile those tokens at the beginning of the next end step."
 msgstr ""
+"–7: Za każdy artefakt pod twoim władaniem, stwórz żeton będący jego kopią. "
+"Owe żetony zyskują pośpiech. Wygnaj owe żetony na początku najbliższego "
+"kroku końcowego."
 
 #: ../../C18.rst:289
 msgid "Saheeli, the Gifted can be your commander."
-msgstr ""
+msgstr "Ta karta może być twoim dowódcą."
 
 #: ../../C18.rst:296
 msgid ""
@@ -1121,6 +1234,9 @@ msgid ""
 "control from an artifact source. You may choose new targets for the copy. "
 "(Mana abilities can't be targeted.)"
 msgstr ""
+"|mana_u|\\ |mana_r|, |tap|: Skopiuj wskazaną aktywowaną lub wyzwalaną "
+"zdolność pod twoim władaniem pochodzącą od artefaktu. Możesz wskazać nowe "
+"cele dla kopii. (Zdolności many nie można wskazać.)"
 
 #: ../../C18.rst:304
 msgid ""
@@ -1135,13 +1251,15 @@ msgstr "Czujność, zasięg"
 
 #: ../../C18.rst:301
 msgid "All creatures attack each combat if able."
-msgstr ""
+msgstr "Wszystkie stwory atakują w każdej potyczce jeśli mogą."
 
 #: ../../C18.rst:303
 msgid ""
 "Whenever a creature attacks you or a planeswalker you control, put a +1/+1 "
 "counter on Thantis, the Warweaver."
 msgstr ""
+"Ilekroć stwór zaatakuje ciebie lub wędrowca pod twoim władaniem, umieść "
+"znacznik +1/+1 na niniejszym."
 
 #: ../../C18.rst:310
 msgid ""
@@ -1152,11 +1270,11 @@ msgstr ""
 
 #: ../../C18.rst:307
 msgid "Tuvasa the Sunlit gets +1/+1 for each enchantment you control."
-msgstr ""
+msgstr "Ten stwór dostaje +1/+1 za każdy urok pod twoim władaniem."
 
 #: ../../C18.rst:309
 msgid "Whenever you cast your first enchantment spell each turn, draw a card."
-msgstr ""
+msgstr "Ilekroć rzucisz twój pierwszy czar uroku w danej turze, dobierz kartę."
 
 #: ../../C18.rst:316
 msgid ""
@@ -1170,12 +1288,16 @@ msgid ""
 "Whenever you attack with one or more Zombies, draw that many cards, then "
 "discard that many cards. You gain that much life."
 msgstr ""
+"Ilekroć zaatakujesz co najmniej jednym Zombi, dobierz tyle samo kart, po "
+"czym odrzuć tyle samo kart. Zyskaj tyle samo żyć."
 
 #: ../../C18.rst:315
 msgid ""
 "|mana_2|, Exile two cards from your graveyard: Create a tapped 2/2 black "
 "Zombie creature token."
 msgstr ""
+"|mana_2|, wygnaj dwie karty z twojego cmentarza: Stwórz przekręcony żeton "
+"czarnego stwora Zombi 2/2."
 
 #: ../../C18.rst:320
 msgid ""
@@ -1189,6 +1311,8 @@ msgid ""
 "For any number of opponents, destroy target nonland permanent that player "
 "controls."
 msgstr ""
+"Dla dowolnej liczby przeciwników, zniszcz wskazany nielądowy byt pod "
+"władaniem owego gracza."
 
 #: ../../C18.rst:328
 msgid ""
@@ -1202,18 +1326,24 @@ msgid ""
 "Xantcha, Sleeper Agent enters the battlefield under the control of an "
 "opponent of your choice."
 msgstr ""
+"Ten byt wchodzi na pole bitwy pod władaniem wybranego przez ciebie "
+"przeciwnika."
 
 #: ../../C18.rst:325
 msgid ""
 "Xantcha attacks each combat if able and can't attack its owner or "
 "planeswalkers its owner controls."
 msgstr ""
+"Ten stwór atakuje w każdej potyczce jeśli może i nie może atakować swojego "
+"właściciela ani wędrowców pod jego władaniem."
 
 #: ../../C18.rst:327
 msgid ""
 "|mana_3|: Xantcha's controller loses 2 life and you draw a card. Any player "
 "may activate this ability."
 msgstr ""
+"|mana_3|: Władca tego stwora traci 2 życia, a ty dobierz kartę. Każdy gracz "
+"może aktywować tę zdolność."
 
 #: ../../C18.rst:334
 msgid ""
@@ -1225,7 +1355,7 @@ msgstr ""
 
 #: ../../C18.rst:331
 msgid "Flying, vigilance, menace"
-msgstr ""
+msgstr "Latanie, czujność, złowrogość"
 
 #: ../../C18.rst:333
 msgid ""
@@ -1233,6 +1363,9 @@ msgid ""
 "library. You may cast it without paying its mana cost if its mana value is "
 "odd. If you don't cast it, draw a card."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, ujawnij wierzchnią kartę twojej biblioteki. "
+"Możesz ją rzucić bez płacenia jej kosztu many jeśli jej skrót many jest "
+"nieparzysty. Jeśli jej nie rzucisz, dobierz kartę."
 
 #: ../../C18.rst:340
 msgid ""
@@ -1248,6 +1381,9 @@ msgid ""
 "unblocked attacker you control to hand: Put this card onto the battlefield "
 "from your hand or the command zone tapped and attacking.)"
 msgstr ""
+"Ninjutsu dowódcy |mana_u|\\ |mana_b| (|mana_u|\\ |mana_b|, przywróć "
+"niezablokowanego atakującego pod twoim władaniem do ręki: Umieść tę kartę "
+"przekręconą i atakującą na polu bitwy z twojej ręki lub strefy dowodzenia.)"
 
 #: ../../C18.rst:339
 msgid ""
@@ -1255,6 +1391,9 @@ msgid ""
 "card of your library and put that card into your hand. Each opponent loses "
 "life equal to that card's mana value."
 msgstr ""
+"Ilekroć Ninja pod twoim władaniem zada graczowi obrażenia bojowe, ujawnij "
+"wierzchnią kartę twojej biblioteki i umieść ową kartę w twojej ręce. Każdy "
+"przeciwnik traci życia równe skrótowi many owej karty."
 
 #: ../../C18.rst:350
 msgid ""
@@ -1277,6 +1416,8 @@ msgid ""
 "When Ancient Stone Idol dies, create a 6/12 colorless Construct artifact "
 "creature token with trample."
 msgstr ""
+"Kiedy ten stwór umrze, stwórz żeton bezkolorowego artefaktowego stwora "
+"Konstrukt 6/12 z tratowaniem."
 
 #: ../../C18.rst:358
 msgid ""
@@ -1331,6 +1472,9 @@ msgid ""
 "commander from the command zone without paying its mana cost. (You still pay "
 "any additional costs.)"
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, możesz rzucić twojego "
+"dowódcę ze strefy dowodzenia bez płacenia jego kosztu many. (Nadal płacisz "
+"dodatkowe koszty.)"
 
 #: ../../C18.rst:378
 msgid ""
@@ -1341,23 +1485,28 @@ msgstr ""
 
 #: ../../C18.rst:371
 msgid "|mana_3|: Untap Retrofitter Foundry."
-msgstr ""
+msgstr "|mana_3|: Odkręć ten byt."
 
 #: ../../C18.rst:373
 msgid "|mana_2|, |tap|: Create a 1/1 colorless Servo artifact creature token."
 msgstr ""
+"|mana_2|, |tap|: Stwórz żeton bezkolorowego artefaktowego stwora Serwo 1/1."
 
 #: ../../C18.rst:375
 msgid ""
 "|mana_1|, |tap|, Sacrifice a Servo: Create a 1/1 colorless Thopter artifact "
 "creature token with flying."
 msgstr ""
+"mana_1|, |tap|, poświęć Serwo: Stwórz żeton bezkolorowego artefaktowego "
+"stwora Kopter 1/1 z lataniem."
 
 #: ../../C18.rst:377
 msgid ""
 "|tap|, Sacrifice a Thopter: Create a 4/4 colorless Construct artifact "
 "creature token."
 msgstr ""
+"|tap|, poświęć Kopter: Stwórz żeton bezkolorowego artefaktowego stwora "
+"Konstrukt 4/4."
 
 #: ../../C18.rst:384
 msgid ""
@@ -1380,6 +1529,9 @@ msgid ""
 "+1/+1 counter on it if it's a creature and a loyalty counter on it if it's a "
 "planeswalker."
 msgstr ""
+"|tap|: Wybierz wskazanego dowódcę, który wszedł na pole bitwy w tej turze. "
+"Umieść na nim znacznik +1/+1 jeśli jest stworem lub znacznik lojalności "
+"jeśli jest wędrowcem."
 
 #: ../../C18.rst:390
 msgid ""
@@ -2102,6 +2254,9 @@ msgid ""
 "chosen name was milled this way, you draw two cards. Otherwise, you draw a "
 "card."
 msgstr ""
+"Nazwij kartę, po czym wskazany gracz mieli kartę. Jeśli karta o tej nazwie "
+"została zmielona w ten sposób, dobierz dwie karty. W przeciwnym razie "
+"dobierz kartę."
 
 #: ../../C18.rst:622
 msgid ""
@@ -2365,6 +2520,9 @@ msgid ""
 "Look at the top five cards of your library. For each card, put that card "
 "into your graveyard unless you pay 2 life. Then put the rest into your hand."
 msgstr ""
+"Spójrz na pięć wierzchnich kart twojej biblioteki. Za każdą kartę, umieść ją "
+"w twoim cmentarzu, chyba że zapłacisz 2 życia. Następnie umieść pozostałe w "
+"twojej ręce."
 
 #: ../../C18.rst:706
 msgid ""
@@ -2468,6 +2626,8 @@ msgid ""
 "Threshold — Return that card from your graveyard to the battlefield instead "
 "if seven or more cards are in your graveyard."
 msgstr ""
+"Próg — Zamiast tego przywróć ową kartę z twojego cmentarza na pole bitwy "
+"jeśli w twoim cmentarzu jest co najmniej siedem kart."
 
 #: ../../C18.rst:740
 msgid ""
@@ -2730,6 +2890,8 @@ msgid ""
 "|tap|: You may put a land card from your hand onto the battlefield. If you "
 "control ten or more lands, flip Budoka Gardener."
 msgstr ""
+"|tap|: Możesz umieścić kartę lądu z twojej ręki na polu bitwy. Jeśli władasz "
+"co najmniej dziesięcioma lądami, odwróć ten byt."
 
 #: ../../C18.rst:820
 msgid ""
@@ -2744,6 +2906,8 @@ msgid ""
 "|mana_4|\\ |mana_g|\\ |mana_g|, |tap|: Create an X/X green Elemental "
 "creature token, where X is the number of lands you control."
 msgstr ""
+"|mana_4|\\ |mana_g|\\ |mana_g|, |tap|: Stwórz żeton zielonego stwora "
+"Żywiołak X/X, gdzie X jest liczbą lądów pod twoim władaniem."
 
 #: ../../C18.rst:828
 msgid ""
@@ -2757,6 +2921,8 @@ msgid ""
 "Centaur Vinecrasher enters the battlefield with a number of +1/+1 counters "
 "on it equal to the number of land cards in all graveyards."
 msgstr ""
+"Ten stwór wchodzi na pole bitwy mając tyle znaczników +1/+1, ile jest kart "
+"lądów we wszystkich cmentarzach."
 
 #: ../../C18.rst:827
 msgid ""
@@ -2764,6 +2930,9 @@ msgid ""
 "mana_g|\\ |mana_g|. If you do, return Centaur Vinecrasher from your "
 "graveyard to your hand."
 msgstr ""
+"Ilekroć karta lądu trafi skądkolwiek do cmentarza, możesz zapłacić |mana_g|\\"
+" |mana_g|. Jeśli tak zrobisz, przywróć tę kartę z twojego cmentarza do "
+"twojej ręki."
 
 #: ../../C18.rst:834
 msgid ""
@@ -2877,7 +3046,7 @@ msgstr ""
 
 #: ../../C18.rst:865
 msgid "Enchanted creature gets +5/+5 and has trample."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +5/+5 i ma tratowanie."
 
 #: ../../C18.rst:872
 msgid ""
@@ -3230,6 +3399,8 @@ msgid ""
 "Enchanted land has \"|tap|: Create a 5/5 green Beast creature token with "
 "trample.\""
 msgstr ""
+"Zauroczony ląd ma \"|tap|: Stwórz żeton zielonego stwora Bestia 5/5 z "
+"tratowaniem.\""
 
 #: ../../C18.rst:986
 msgid ""
@@ -3466,13 +3637,15 @@ msgstr "Tratowanie, więź życia"
 
 #: ../../C18.rst:1059
 msgid "Spells you cast that target Elderwood Scion cost |mana_2| less to cast."
-msgstr ""
+msgstr "Rzucanie czarów wskazujących ten byt kosztuje cię o |mana_2| mniej."
 
 #: ../../C18.rst:1061
 msgid ""
 "Spells your opponents cast that target Elderwood Scion cost |mana_2| more to "
 "cast."
 msgstr ""
+"Rzucanie czarów wskazujących ten byt kosztuje twoich przeciwników o |mana_2| "
+"więcej."
 
 #: ../../C18.rst:1070
 msgid ""
@@ -3707,6 +3880,9 @@ msgid ""
 "Return an unblocked attacker you control to hand: Put this card onto the "
 "battlefield from your hand tapped and attacking.)"
 msgstr ""
+"Ninjutsu |mana_4|\\ |mana_u|\\ |mana_b| (|mana_4|\\ |mana_u|\\ |mana_b|, "
+"przywróć niezablokowanego atakującego pod twoim władaniem do ręki: Umieść tę "
+"kartę z twojej ręki na polu bitwy przekręconą i atakującą.)"
 
 #: ../../C18.rst:1139
 msgid ""
@@ -3714,6 +3890,8 @@ msgid ""
 "player's hand. You may cast a spell from among those cards without paying "
 "its mana cost."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, spójrz na rękę owego "
+"gracza. Możesz spośród owych kart rzucić czar bez płacenia jego kosztu many."
 
 #: ../../C18.rst:1146
 msgid ""
@@ -3791,6 +3969,8 @@ msgid ""
 "At the beginning of each player's precombat main phase, if Blinkmoth Urn is "
 "untapped, that player adds |colorless| for each artifact they control."
 msgstr ""
+"Na początku fazy głównej przed potyczką każdego gracza, jeśli ten byt jest "
+"odkręcony, ów gracz bierze |colorless| za każdy artefakt pod jego władaniem."
 
 #: ../../C18.rst:1174
 msgid ""
@@ -4957,7 +5137,7 @@ msgstr ""
 
 #: ../../C18.rst:1613
 msgid "Mountain Valley enters the battlefield tapped."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../C18.rst:1615
 msgid ""
@@ -4997,13 +5177,15 @@ msgstr ""
 
 #: ../../C18.rst:1627
 msgid "New Benalia enters the battlefield tapped."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../C18.rst:1629
 msgid ""
 "When New Benalia enters the battlefield, scry 1. (Look at the top card of "
 "your library. You may put that card on the bottom of your library.)"
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, wróż 1. (Spójrz na wierzchnią kartę "
+"twojej biblioteki. Możesz umieścić ową kartę na spodzie twojej biblioteki.)"
 
 #: ../../C18.rst:1631 ../../C18.rst:1691
 msgid "|tap|: Add |mana_w|."
@@ -5075,7 +5257,7 @@ msgstr ""
 
 #: ../../C18.rst:1657
 msgid "Rocky Tar Pit enters the battlefield tapped."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../C18.rst:1659
 msgid ""

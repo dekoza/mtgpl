@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-01 01:05+0200\n"
-"PO-Revision-Date: 2022-04-17 22:53+0000\n"
+"PO-Revision-Date: 2022-04-18 15:30+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c15/pl/>\n"
 "Language: pl\n"
@@ -815,6 +815,8 @@ msgid ""
 "Centaur Vinecrasher enters the battlefield with a number of +1/+1 counters "
 "on it equal to the number of land cards in all graveyards."
 msgstr ""
+"Ten stwór wchodzi na pole bitwy mając tyle znaczników +1/+1, ile jest kart "
+"lądów we wszystkich cmentarzach."
 
 #: ../../C15.rst:209
 msgid ""
@@ -822,6 +824,9 @@ msgid ""
 "mana_g|\\ |mana_g|. If you do, return Centaur Vinecrasher from your "
 "graveyard to your hand."
 msgstr ""
+"Ilekroć karta lądu trafi skądkolwiek do cmentarza, możesz zapłacić |mana_g|\\"
+" |mana_g|. Jeśli tak zrobisz, przywróć tę kartę z twojego cmentarza do "
+"twojej ręki."
 
 #: ../../C15.rst:214
 msgid ""
@@ -5260,13 +5265,15 @@ msgstr ""
 
 #: ../../C15.rst:1667
 msgid "New Benalia enters the battlefield tapped."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../C15.rst:1669
 msgid ""
 "When New Benalia enters the battlefield, scry 1. (Look at the top card of "
 "your library. You may put that card on the bottom of your library.)"
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, wróż 1. (Spójrz na wierzchnią kartę "
+"twojej biblioteki. Możesz umieścić ową kartę na spodzie twojej biblioteki.)"
 
 #: ../../C15.rst:1678
 msgid ""
