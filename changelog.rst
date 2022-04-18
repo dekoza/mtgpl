@@ -4,6 +4,7 @@ Spis zmian
 
 2022-04-18
    * :mtgexp:`C21` :doc:`Commander 2021<C21>` - 100%
+   * :mtgexp:`C18` :doc:`Commander 2018<C18>` - 100%
 
 2022-04-17
    * :mtgexp:`PLC` :doc:`Planar Chaos<PLC>` - 100%

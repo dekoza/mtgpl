@@ -47,7 +47,7 @@
 .. |6ED_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |LRW_percent| image:: images/pie50.png        
+.. |LRW_percent| image:: images/pie55.png        
 
 .. |EXO_percent| image:: images/pie60.png        
 
@@ -66,7 +66,8 @@
 
 .. |PCY_percent| image:: images/pie40.png        
 
-.. |C18_percent| image:: images/pie80.png        
+.. |C18_percent| image:: images/done.png        
+   :alt: Tłumaczenie zakończone
 
 .. |BFZ_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
@@ -346,7 +347,7 @@
 
 .. |KHC_percent| image:: images/pie80.png        
 
-.. |ONS_percent| image:: images/pie40.png        
+.. |ONS_percent| image:: images/pie45.png        
 
 .. |MM2_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
