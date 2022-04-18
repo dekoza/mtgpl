@@ -6,6 +6,7 @@ Spis zmian
    * :mtgexp:`C21` :doc:`Commander 2021<C21>` - 100%
    * :mtgexp:`C18` :doc:`Commander 2018<C18>` - 100%
    * :mtgexp:`C16` :doc:`Commander 2016<C16>` - 100%
+   * :mtgexp:`ANB` :doc:`Arena Beginner Set<ANB>` - 100%
 
 2022-04-17
    * :mtgexp:`PLC` :doc:`Planar Chaos<PLC>` - 100%
