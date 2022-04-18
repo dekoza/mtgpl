@@ -13,7 +13,7 @@ Poniżej znajduje się lista dodatków do formatu Commander oraz produkty pokrew
 * :mtgexp:`VOC` :doc:`Crimson Vow Commander<VOC>` |VOC_percent|
 * :mtgexp:`MIC` :doc:`Midnight Hunt Commander<MIC>` |MIC_percent|
 * :mtgexp:`C21` :doc:`Commander 2021<C21>` |C21_percent|
-* :mtgexp:`AFC` :doc:`Dungeons & Dragons: Adventures in the Forgotten Realms Commander Decks<AFC>` |AFC_percent|
+* :mtgexp:`AFC` :doc:`Forgotten Realms Commander<AFC>` |AFC_percent|
 * :mtgexp:`KHC` :doc:`Kaldheim Commander Decks<KHC>` |KHC_percent|
 * :mtgexp:`CMR` :doc:`Commander Legends<CMR>` |CMR_percent|
 * :mtgexp:`ZNC` :doc:`Zendikar Rising Commander Decks<ZNC>` |ZNC_percent|
