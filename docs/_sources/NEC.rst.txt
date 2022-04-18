@@ -481,14 +481,6 @@
    Lieutenant — At the beginning of combat on your turn, if you control your commander, put a +1/+1 counter on each creature you control.
 
 
-:mtgtip:`Nissa, Voice of Zendikar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/3/83b5445f-16d9-4b32-a728-90e68b3909a0.jpg?1644346869|https://scryfall.com/card/nec/122/nissa-voice-of-zendikar?utm_source=api>`
-   +1: Create a 0/1 green Plant creature token.
-
-   −2: Put a +1/+1 counter on each creature you control.
-
-   −7: You gain X life and draw X cards, where X is the number of lands you control.
-
-
 :mtgtip:`Ordeal of Nylea<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/d/fdbbbe4a-976c-4eb3-b32c-eef892b7699d.jpg?1644344488|https://scryfall.com/card/nec/123/ordeal-of-nylea?utm_source=api>`
    Enchant creature
 

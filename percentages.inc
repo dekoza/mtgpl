@@ -56,7 +56,7 @@
 
 .. |C20_percent| image:: images/pie80.png        
 
-.. |BBD_percent| image:: images/pie70.png        
+.. |BBD_percent| image:: images/pie75.png        
 
 .. |KTK_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
@@ -403,8 +403,7 @@
 .. |GTC_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |SNC_percent| image:: images/done.png        
-   :alt: Tłumaczenie zakończone
+.. |SNC_percent| image:: images/pie95.png        
 
 .. |ARN_percent| image:: images/pie55.png        
 
