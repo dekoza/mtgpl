@@ -224,9 +224,10 @@
 .. |AER_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |CSP_percent| image:: images/pie45.png        
+.. |CSP_percent| image:: images/pie50.png        
 
-.. |C16_percent| image:: images/pie85.png        
+.. |C16_percent| image:: images/done.png        
+   :alt: Tłumaczenie zakończone
 
 .. |ZEN_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
