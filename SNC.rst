@@ -355,8 +355,8 @@
    Enchanted creature doesn't untap during its controller's untap step.
 
 
-:mtgtip:`Slip Out the Back<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/7/8725f4c4-fad7-460e-b86c-ff81674f0980.jpg?1650025477|https://scryfall.com/card/snc/62/slip-out-the-back?utm_source=api>`
-   Put a +1/+1 counter on target creature. It phases out. (Treat it and anything attached to it as though they don't exist until your next turn.)
+:mtgtip:`Slip Out the Back<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/7/8725f4c4-fad7-460e-b86c-ff81674f0980.jpg?1650436523|https://scryfall.com/card/snc/62/slip-out-the-back?utm_source=api>`
+   Put a +1/+1 counter on target creature. It phases out. (Treat it and anything attached to it as though they don't exist until its controller's next turn.)
 
 
 :mtgtip:`Undercover Operative<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/e/4ecec953-ab86-409b-b618-04bb07ff3eac.jpg?1649958858|https://scryfall.com/card/snc/63/undercover-operative?utm_source=api>`
