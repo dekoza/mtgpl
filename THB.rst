@@ -959,7 +959,7 @@
    IV — Target creature you control fights up to one target creature you don't control. (Each deals damage equal to its power to the other.)
 
 
-:mtgtip:`Underworld Breach<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/e/0e51d796-7279-4c06-87f0-37adbdaa41df.jpg?1596451461|https://scryfall.com/card/thb/161/underworld-breach?utm_source=api>`
+:mtgtip:`Underworld Breach<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/e/0e51d796-7279-4c06-87f0-37adbdaa41df.jpg?1650599818|https://scryfall.com/card/thb/161/underworld-breach?utm_source=api>`
    Each nonland card in your graveyard has escape. The escape cost is equal to the card's mana cost plus exile three other cards from your graveyard. (You may cast cards from your graveyard for their escape cost.)
 
    At the beginning of the end step, sacrifice Underworld Breach.
@@ -1381,7 +1381,7 @@
    Enchanted creature gets +1/+1 and has lifelink and "Whenever this creature deals combat damage to a player, draw a card."
 
 
-:mtgtip:`Uro, Titan of Nature's Wrath<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/0/a0b6a71e-56cb-4d25-8f2b-7a4f1b60900d.jpg?1628801843|https://scryfall.com/card/thb/229/uro-titan-of-natures-wrath?utm_source=api>`
+:mtgtip:`Uro, Titan of Nature's Wrath<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/0/a0b6a71e-56cb-4d25-8f2b-7a4f1b60900d.jpg?1650599829|https://scryfall.com/card/thb/229/uro-titan-of-natures-wrath?utm_source=api>`
    When Uro enters the battlefield, sacrifice it unless it escaped.
 
    Whenever Uro enters the battlefield or attacks, you gain 3 life and draw a card, then you may put a land card from your hand onto the battlefield.

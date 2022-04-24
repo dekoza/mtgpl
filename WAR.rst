@@ -1197,7 +1197,7 @@
    −3: Return target card from your graveyard to your hand.
 
 
-:mtgtip:`Teferi, Time Raveler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/c/5cb76266-ae50-4bbc-8f96-d98f309b02d3.jpg?1647659892|https://scryfall.com/card/war/221/teferi-time-raveler?utm_source=api>`
+:mtgtip:`Teferi, Time Raveler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/c/5cb76266-ae50-4bbc-8f96-d98f309b02d3.jpg?1650599808|https://scryfall.com/card/war/221/teferi-time-raveler?utm_source=api>`
    Each opponent can cast spells only any time they could cast a sorcery.
 
    +1: Until your next turn, you may cast sorcery spells as though they had flash.

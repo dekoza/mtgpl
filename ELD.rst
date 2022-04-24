@@ -1041,7 +1041,7 @@
    Adamant — If at least three green mana was spent to cast this spell, instead return those cards to your hand and exile Once and Future.
 
 
-:mtgtip:`Once Upon a Time<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/0/4034e5ba-9974-43e3-bde7-8d9b4586c3a4.jpg?1628801815|https://scryfall.com/card/eld/169/once-upon-a-time?utm_source=api>`
+:mtgtip:`Once Upon a Time<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/0/4034e5ba-9974-43e3-bde7-8d9b4586c3a4.jpg?1650599715|https://scryfall.com/card/eld/169/once-upon-a-time?utm_source=api>`
    If this spell is the first spell you've cast this game, you may cast it without paying its mana cost.
 
    Look at the top five cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
@@ -1221,7 +1221,7 @@
    |tap|: Add |mana_g| or |mana_u|.
 
 
-:mtgtip:`Oko, Thief of Crowns<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/4/3462a3d0-5552-49fa-9eb7-100960c55891.jpg?1613387000|https://scryfall.com/card/eld/197/oko-thief-of-crowns?utm_source=api>`
+:mtgtip:`Oko, Thief of Crowns<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/4/3462a3d0-5552-49fa-9eb7-100960c55891.jpg?1650599698|https://scryfall.com/card/eld/197/oko-thief-of-crowns?utm_source=api>`
    +2: Create a Food token. (It's an artifact with "|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.")
 
    +1: Target artifact or creature loses all abilities and becomes a green Elk creature with base power and toughness 3/3.

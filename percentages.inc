@@ -36,7 +36,7 @@
 
 .. |CMR_percent| image:: images/pie65.png        
 
-.. |CMD_percent| image:: images/pie80.png        
+.. |CMD_percent| image:: images/pie90.png        
 
 .. |AKH_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone

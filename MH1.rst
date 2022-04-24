@@ -169,7 +169,7 @@
    Draw a card.
 
 
-:mtgtip:`Sisay, Weatherlight Captain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/a/5a293c45-1e73-4527-be2f-2dcd5c47b610.jpg?1582021363|https://scryfall.com/card/mh1/29/sisay-weatherlight-captain?utm_source=api>`
+:mtgtip:`Sisay, Weatherlight Captain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/a/5a293c45-1e73-4527-be2f-2dcd5c47b610.jpg?1650730165|https://scryfall.com/card/mh1/29/sisay-weatherlight-captain?utm_source=api>`
    Sisay, Weatherlight Captain gets +1/+1 for each color among other legendary permanents you control.
 
    |mana_w|\ |mana_u|\ |mana_b|\ |mana_r|\ |mana_g|: Search your library for a legendary permanent card with mana value less than Sisay's power, put that card onto the battlefield, then shuffle.

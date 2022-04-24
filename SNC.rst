@@ -1329,12 +1329,12 @@
    Draw two cards. Then discard a card unless there are five or more mana values among cards in your graveyard.
 
 
-:mtgtip:`Toluz, Clever Conductor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/0/f01f12e0-f354-43aa-9e2d-b59a99571a5f.jpg?1649698834|https://scryfall.com/card/snc/228/toluz-clever-conductor?utm_source=api>`
+:mtgtip:`Toluz, Clever Conductor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/0/f01f12e0-f354-43aa-9e2d-b59a99571a5f.jpg?1650578083|https://scryfall.com/card/snc/228/toluz-clever-conductor?utm_source=api>`
    When Toluz, Clever Conductor enters the battlefield, it connives. (Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)
 
    Whenever you discard one or more cards, exile them from your graveyard.
 
-   When Toluz, Clever Conductor dies, put the cards exiled with it into their owner's hand.
+   When Toluz dies, put the cards exiled with it into their owner's hand.
 
 
 :mtgtip:`Unleash the Inferno<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/f/1f892607-8672-4013-86e6-0779d0b726de.jpg?1650275733|https://scryfall.com/card/snc/229/unleash-the-inferno?utm_source=api>`
