@@ -54,7 +54,8 @@
 .. |M13_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |C20_percent| image:: images/pie85.png        
+.. |C20_percent| image:: images/done.png        
+   :alt: Tłumaczenie zakończone
 
 .. |BBD_percent| image:: images/pie75.png        
 

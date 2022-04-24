@@ -331,7 +331,7 @@
    When a Dragon enters the battlefield, you may return Bladewing's Thrall from your graveyard to the battlefield.
 
 
-:mtgtip:`Cabal Conditioning<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/b/eb81c6e6-fded-4cd3-a6fa-486419a5408a.jpg?1562536656|https://scryfall.com/card/scg/56/cabal-conditioning?utm_source=api>`
+:mtgtip:`Cabal Conditioning<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/b/eb81c6e6-fded-4cd3-a6fa-486419a5408a.jpg?1650357097|https://scryfall.com/card/scg/56/cabal-conditioning?utm_source=api>`
    Any number of target players each discard a number of cards equal to the highest mana value among permanents you control.
 
 
