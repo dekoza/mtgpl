@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-01 01:05+0200\n"
-"PO-Revision-Date: 2022-04-17 22:53+0000\n"
+"PO-Revision-Date: 2022-04-24 19:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/sok/pl/>\n"
 "Language: pl\n"
@@ -985,6 +985,8 @@ msgid ""
 "Reveal the top three cards of your library. An opponent chooses one of them. "
 "Put that card into your graveyard and the rest into your hand."
 msgstr ""
+"Ujawnij trzy wierzchnie karty twojej biblioteki. Przeciwnik wybiera jedną z "
+"nich. Umieść ową kartę w twoim cmentarzu, a pozostałe w twojej ręce."
 
 #: ../../SOK.rst:272
 msgid ""
@@ -1583,7 +1585,7 @@ msgstr ""
 
 #: ../../SOK.rst:473
 msgid "Black creatures can't block."
-msgstr ""
+msgstr "Czarne stwory nie mogą blokować."
 
 #: ../../SOK.rst:480
 msgid ""
@@ -1899,6 +1901,8 @@ msgid ""
 "At the beginning of your upkeep, return a red creature you control to its "
 "owner's hand."
 msgstr ""
+"Na początku twojego kroku utrzymania, przywróć czerwonego stwora pod twoim "
+"władaniem do ręki właściciela."
 
 #: ../../SOK.rst:584
 msgid ""
