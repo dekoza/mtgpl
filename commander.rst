@@ -5,7 +5,7 @@ Commander
 .. include:: progress.rst
 .. include:: percentages.inc
 
-:doc:`Zasady formatu Commander (Dowódca)<commander_rules>` |p25|
+:doc:`Zasady formatu Commander (Dowódca)<commander_rules>` |p100|
 
 Poniżej znajduje się lista dodatków do formatu Commander oraz produkty pokrewne (np. :mtgexp:`BBD` :doc:`Battlebond<BBD>`):
 
