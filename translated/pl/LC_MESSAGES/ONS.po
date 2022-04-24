@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-01 01:05+0200\n"
-"PO-Revision-Date: 2022-04-18 17:53+0000\n"
+"PO-Revision-Date: 2022-04-24 18:17+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ons/pl/>\n"
 "Language: pl\n"
@@ -3478,6 +3478,8 @@ msgid ""
 "Whenever a player cycles a card, you may pay |mana_1|. If you do, Lightning "
 "Rift deals 2 damage to any target."
 msgstr ""
+"Ilekroć gracz recykluje kartę, możesz zapłacić |mana_1|. Jeśli tak zrobisz, "
+"ten byt zadaje wskazanemu celowi 2 obrażenia."
 
 #: ../../ONS.rst:1172
 msgid ""
@@ -3696,7 +3698,7 @@ msgstr ""
 
 #: ../../ONS.rst:1241
 msgid "Slice and Dice deals 4 damage to each creature."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi po 4 obrażenia."
 
 #: ../../ONS.rst:1243
 msgid ""
@@ -3711,6 +3713,8 @@ msgid ""
 "When you cycle Slice and Dice, you may have it deal 1 damage to each "
 "creature."
 msgstr ""
+"Kiedy recyklujesz tę kartę, możesz zdecydować, że zada ona każdemu stworowi "
+"po 1 obrażeniu."
 
 #: ../../ONS.rst:1252
 msgid ""
@@ -3807,7 +3811,7 @@ msgstr ""
 
 #: ../../ONS.rst:1277
 msgid "Starstorm deals X damage to each creature."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi po X obrażeń."
 
 #: ../../ONS.rst:1286
 msgid ""

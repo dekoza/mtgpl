@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-01 01:05+0200\n"
-"PO-Revision-Date: 2022-04-24 17:43+0000\n"
+"PO-Revision-Date: 2022-04-24 18:17+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c20/pl/>\n"
 "Language: pl\n"
@@ -1391,6 +1391,10 @@ msgid ""
 "three or more doom counters on it, sacrifice Lavabrink Floodgates. When you "
 "do, it deals 6 damage to each creature."
 msgstr ""
+"Na początku kroku utrzymania każdego gracza, ów gracz może umieścić znacznik "
+"zguby na tym bycie lub usunąć z niego znacznik zguby. Następnie jeśli ma on "
+"co najmniej trzy znaczniki zguby, poświęć ten byt. Kiedy tak zrobisz, zadaje "
+"on każdemu stworowi po 6 obrażeń."
 
 #: ../../C20.rst:362
 msgid ""
@@ -1401,7 +1405,7 @@ msgstr ""
 
 #: ../../C20.rst:359
 msgid "As Molten Echoes enters the battlefield, choose a creature type."
-msgstr ""
+msgstr "Przy wejściu tego bytu na pole bitwy, wybierz typ stwora."
 
 #: ../../C20.rst:361
 msgid ""
@@ -1409,6 +1413,9 @@ msgid ""
 "your control, create a token that's a copy of that creature. That token "
 "gains haste. Exile it at the beginning of the next end step."
 msgstr ""
+"Ilekroć nieżetonowy stwór wybranego typu wejdzie na pole bitwy pod twoim "
+"władaniem, stwórz żeton będący kopią owego stwora. Ów żeton zyskuje "
+"pośpiech. Wygnaj go na początku najbliższego kroku końcowego."
 
 #: ../../C20.rst:370
 msgid ""
@@ -1422,6 +1429,8 @@ msgid ""
 "Whenever enchanted creature attacks, you create a Treasure token. (It's an "
 "artifact with \"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
 msgstr ""
+"Ilekroć zauroczony stwór zaatakuje, stwórz żeton Skarbu. (To artefakt mający "
+"\"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../C20.rst:378
 msgid ""
@@ -1435,12 +1444,16 @@ msgid ""
 "When Spellpyre Phoenix enters the battlefield, you may return target instant "
 "or sorcery card with a cycling ability from your graveyard to your hand."
 msgstr ""
+"Ilekroć ten stwór wejdzie na pole bitwy, możesz przywrócić wskazaną kartę "
+"sztuczki lub obrzędu mającą recykling z twojego cmentarza do twojej ręki."
 
 #: ../../C20.rst:377
 msgid ""
 "At the beginning of each end step, if you cycled two or more cards this "
 "turn, return Spellpyre Phoenix from your graveyard to your hand."
 msgstr ""
+"Na początku każdego kroku końcowego, jeśli w tej turze zrecyklowałeś co "
+"najmniej dwie karty, przywróć tę kartę z twojego cmentarza do twojej ręki."
 
 #: ../../C20.rst:386
 msgid ""
@@ -1453,19 +1466,23 @@ msgstr ""
 msgid ""
 "Whenever you discard a creature card, put a +1/+1 counter on Surly "
 "Badgersaur."
-msgstr ""
+msgstr "Ilekroć odrzucisz kartę stwora, umieść znacznik +1/+1 na niniejszym."
 
 #: ../../C20.rst:383
 msgid ""
 "Whenever you discard a land card, create a Treasure token. (It's an artifact "
 "with \"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
 msgstr ""
+"Ilekroć odrzucisz kartę lądu, stwórz żeton Skarbu. (To artefakt mający \""
+"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../C20.rst:385
 msgid ""
 "Whenever you discard a noncreature, nonland card, Surly Badgersaur fights up "
 "to one target creature you don't control."
 msgstr ""
+"Ilekroć odrzucisz niestworową, nielądową kartę, ten stwór walczy z co "
+"najwyżej jednym wskazanym stworem poza twoim władaniem."
 
 #: ../../C20.rst:392
 msgid ""
@@ -1476,7 +1493,7 @@ msgstr ""
 
 #: ../../C20.rst:389
 msgid "Capricopian enters the battlefield with X +1/+1 counters on it."
-msgstr ""
+msgstr "Ten stwór wchodzi na pole bitwy mając X znaczników +1/+1."
 
 #: ../../C20.rst:391
 msgid ""
@@ -1485,6 +1502,10 @@ msgid ""
 "may activate this ability and only during the declare attackers step. (It "
 "can't attack its controller.)"
 msgstr ""
+"|mana_2|: Umieść znacznik +1/+1 na tym stworze, po czym możesz zmienić wybór "
+"gracza atakowanego przez tego stwora. Tylko gracz atakowany przez tego "
+"stwora może aktywować tę zdolność i tylko podczas kroku deklaracji "
+"atakujących. (Nie może on atakować swojego władcy.)"
 
 #: ../../C20.rst:396
 msgid ""
@@ -1498,6 +1519,8 @@ msgid ""
 "Choose target opponent. You create X 3/3 green Beast creature tokens, where "
 "X is the number of artifacts that player controls."
 msgstr ""
+"Wybierz wskazanego przeciwnika. Stwórz X żetonów zielonego stwora Bestia 3/"
+"3, gdzie X jest liczbą artefaktów pod władaniem owego gracza."
 
 #: ../../C20.rst:400
 msgid ""
@@ -1511,6 +1534,7 @@ msgid ""
 "Whenever a player casts a spell, if it's not their turn, that player draws a "
 "card."
 msgstr ""
+"Ilekroć gracz rzuci czar, jeśli nie jest jego tura, ów gracz dobiera kartę."
 
 #: ../../C20.rst:406
 msgid ""
@@ -1539,6 +1563,9 @@ msgid ""
 "Enchanted creature gets +3/+3, must be blocked if able, and is goaded. (It "
 "attacks each combat if able and attacks a player other than you if able.)"
 msgstr ""
+"Zauroczony stwór dostaje +3/+3, musi być blokowany jeśli to możliwe i jest "
+"ponaglony. (Atakuje w każdej potyczce jeśli może i atakuje gracza innego niż "
+"ty jeśli może.)"
 
 #: ../../C20.rst:418
 msgid ""
@@ -1564,6 +1591,9 @@ msgid ""
 "Each of those creatures deals damage equal to its power to Ravenous "
 "Gigantotherium."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, zadaje on X obrażeń rozdzielonych jak "
+"wolisz pomiędzy co najwyżej X wskazanych stworów, gdzie X jest jego siłą. "
+"Każdy z owych stworów zadaje obrażenia równe swojej sile niniejszemu."
 
 #: ../../C20.rst:426
 msgid ""
@@ -1606,6 +1636,12 @@ msgid ""
 "trample, and vigilance. Put one of the chosen cards onto the battlefield, "
 "the other chosen cards into your hand, and the rest into your graveyard."
 msgstr ""
+"Ujawnij siedem wierzchnich kart twojej biblioteki. Wybierz spośród nich "
+"kartę z lataniem, kartę z pierwszym ciosem i tak dalej dla podwójnego ciosu, "
+"dotyku śmierci, pośpiechu, antyklątwy, niezniszczalności, więzi życia, "
+"złowrogości, zasięgu, tratowania i czujności. Umieść jedną z wybranych kart "
+"na polu bitwy, pozostałe z wybranych kart w twojej ręce, a resztę w twoim "
+"cmentarzu."
 
 #: ../../C20.rst:438
 msgid ""
@@ -1629,6 +1665,9 @@ msgid ""
 "target creature. Then move any number of counters from among creatures you "
 "control onto that creature."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, umieść znacznik antyklątwy na wskazanym "
+"stworze. Następnie przenieś dowolną liczbę znaczników spośród stworów pod "
+"twoim władaniem na owego stwora."
 
 #: ../../C20.rst:444
 msgid ""
@@ -1646,6 +1685,8 @@ msgid ""
 "|mana_4|, |tap|: Each player who controls a permanent named Bonder's "
 "Ornament draws a card."
 msgstr ""
+"|mana_4|, |tap|: Każdy gracz władający bytem o nazwie Bonder's Ornament "
+"dobiera kartę."
 
 #: ../../C20.rst:452
 msgid ""
@@ -1656,19 +1697,22 @@ msgstr ""
 
 #: ../../C20.rst:447
 msgid "Manascape Refractor enters the battlefield tapped."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../C20.rst:449
 msgid ""
 "Manascape Refractor has all activated abilities of all lands on the "
 "battlefield."
 msgstr ""
+"Ten byt ma wszystkie aktywowane zdolności wszystkich lądów na polu bitwy."
 
 #: ../../C20.rst:451
 msgid ""
 "You may spend mana as though it were mana of any color to pay the activation "
 "costs of Manascape Refractor's abilities."
 msgstr ""
+"Możesz wydawać manę jakby była maną dowolnego koloru do płacenia kosztów "
+"aktywacji niniejszego bytu."
 
 #: ../../C20.rst:460
 msgid ""
@@ -1679,12 +1723,13 @@ msgstr ""
 
 #: ../../C20.rst:455
 msgid "As Sanctuary Blade becomes attached to a creature, choose a color."
-msgstr ""
+msgstr "Przy dołączaniu tego bytu do stwora, wybierz kolor."
 
 #: ../../C20.rst:457
 msgid ""
 "Equipped creature gets +2/+0 and has protection from the last chosen color."
 msgstr ""
+"Wyposażony stwór dostaje +2/+0 i ma ochronę przed ostatnio wybranym kolorem."
 
 #: ../../C20.rst:459
 msgid "Equip |mana_3|"
@@ -1702,12 +1747,17 @@ msgid ""
 "If you would copy a spell one or more times, instead copy it that many times "
 "plus an additional time. You may choose new targets for the additional copy."
 msgstr ""
+"Jeśli miałbyś co najmniej raz skopiować czar, zamiast tego skopiuj go tyle "
+"samo razy plus jeden dodatkowy raz. Możesz wskazać nowe cele dla owej "
+"dodatkowej kopii."
 
 #: ../../C20.rst:465
 msgid ""
 "|mana_7|, |tap|: Copy target instant or sorcery spell you control. You may "
 "choose new targets for the copy."
 msgstr ""
+"|mana_7|, |tap|: Skopiuj wskazany czar sztuczki lub obrzędu pod twoim "
+"władaniem. Możesz wskazać nowe cele dla kopii."
 
 #: ../../C20.rst:472
 msgid ""
@@ -1729,6 +1779,8 @@ msgid ""
 "|mana_1|, |tap|: Move a counter from target permanent you control onto "
 "another target permanent. Activate only as a sorcery."
 msgstr ""
+"|mana_1|, |tap|: Przenieś znacznik ze wskazanego bytu pod twoim władaniem na "
+"inny wskazany byt. Aktywuj tylko jako obrzęd."
 
 #: ../../C20.rst:476
 msgid ""
@@ -2775,6 +2827,10 @@ msgid ""
 "flying. The same is true for fear, first strike, double strike, deathtouch, "
 "haste, landwalk, lifelink, protection, reach, trample, shroud, and vigilance."
 msgstr ""
+"O ile karta stwora z lataniem jest w cmentarzu, niniejszy ma latanie. To "
+"samo jest prawdą dla postrachu, pierwszego ciosu, podwójnego ciosu, dotyku "
+"śmierci, pośpiechu, podboju lądów, więzi życia, ochrony, zasięgu, "
+"tratowania, antymagii i czujności."
 
 #: ../../C20.rst:820
 msgid ""
@@ -3247,6 +3303,8 @@ msgid ""
 "Whenever a player cycles a card, you may pay |mana_1|. If you do, Lightning "
 "Rift deals 2 damage to any target."
 msgstr ""
+"Ilekroć gracz recykluje kartę, możesz zapłacić |mana_1|. Jeśli tak zrobisz, "
+"ten byt zadaje wskazanemu celowi 2 obrażenia."
 
 #: ../../C20.rst:956
 msgid ""
@@ -3314,7 +3372,7 @@ msgstr ""
 
 #: ../../C20.rst:971
 msgid "Slice and Dice deals 4 damage to each creature."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi po 4 obrażenia."
 
 #: ../../C20.rst:973
 msgid ""
@@ -3329,6 +3387,8 @@ msgid ""
 "When you cycle Slice and Dice, you may have it deal 1 damage to each "
 "creature."
 msgstr ""
+"Kiedy recyklujesz tę kartę, możesz zdecydować, że zada ona każdemu stworowi "
+"po 1 obrażeniu."
 
 #: ../../C20.rst:982
 msgid ""
@@ -3339,7 +3399,7 @@ msgstr ""
 
 #: ../../C20.rst:979
 msgid "Starstorm deals X damage to each creature."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi po X obrażeń."
 
 #: ../../C20.rst:988
 msgid ""
@@ -4098,10 +4158,12 @@ msgid ""
 "As Archon of Valor's Reach enters the battlefield, choose artifact, "
 "enchantment, instant, sorcery, or planeswalker."
 msgstr ""
+"Przy wejściu tego bytu na pole bitwy, wybierz artefakt, urok, sztuczkę, "
+"obrzęd lub wędrowca."
 
 #: ../../C20.rst:1225
 msgid "Players can't cast spells of the chosen type."
-msgstr ""
+msgstr "Gracze nie mogą rzucać czarów wybranego typu."
 
 #: ../../C20.rst:1230
 msgid ""

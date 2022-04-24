@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-01 01:05+0200\n"
-"PO-Revision-Date: 2022-04-18 23:59+0000\n"
+"PO-Revision-Date: 2022-04-24 18:17+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c13/pl/>\n"
 "Language: pl\n"
@@ -2458,7 +2458,7 @@ msgstr ""
 # 06a53860830f4496acff8f85686d0d7c
 #: ../../C13.rst:671
 msgid "Slice and Dice deals 4 damage to each creature."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi po 4 obrażenia."
 
 # 1c8628bff9574ccf825b011f0469122b
 #: ../../C13.rst:673
@@ -2475,6 +2475,8 @@ msgid ""
 "When you cycle Slice and Dice, you may have it deal 1 damage to each "
 "creature."
 msgstr ""
+"Kiedy recyklujesz tę kartę, możesz zdecydować, że zada ona każdemu stworowi "
+"po 1 obrażeniu."
 
 #: ../../C13.rst:682
 msgid ""
@@ -2531,7 +2533,7 @@ msgstr ""
 # 617bd52b22194772b2fa55e21e649718
 #: ../../C13.rst:691
 msgid "Starstorm deals X damage to each creature."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi po X obrażeń."
 
 # 538e1f9611a84a6cbd8f6a1c650a22ab
 #: ../../C13.rst:693
