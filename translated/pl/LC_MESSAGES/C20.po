@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-01 01:05+0200\n"
-"PO-Revision-Date: 2022-04-20 19:43+0000\n"
+"PO-Revision-Date: 2022-04-24 17:43+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c20/pl/>\n"
 "Language: pl\n"
@@ -283,6 +283,9 @@ msgid ""
 "that have fetch counters on them, and you may spend mana as though it were "
 "mana of any color to cast those spells."
 msgstr ""
+"Możesz zagrywać lądy i rzucać niestworowe czary spośród wygnanych przez "
+"ciebie kart mających znacznik pobrania, a do ich rzucenia możesz wydawać "
+"manę tak, jakby była maną dowolnego koloru."
 
 #: ../../C20.rst:26
 msgid ""
@@ -480,6 +483,12 @@ msgid ""
 "indestructible, lifelink, menace, reach, trample, and vigilance. Then put a "
 "+1/+1 counter on Kathril for each counter put on a creature this way."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, umieść znacznik latania na dowolnym "
+"stworze pod twoim władaniem jeśli karta stwora w twoim cmentarzu ma latanie. "
+"Powtórz ten proces dla pierwszego ciosu, podwójnego ciosu, dotyku śmierci, "
+"antyklątwy, niezniszczalności, więzi życia, złowrogości, zasięgu, tratowania "
+"i czujności. Następnie umieść na niniejszym znacznik +1/+1 za każdy znacznik "
+"umieszczony na stworze w ten sposób."
 
 #: ../../C20.rst:78
 msgid ""
@@ -501,6 +510,9 @@ msgid ""
 "|tap|: Kelsien deals 1 damage to target creature you don't control. When "
 "that creature dies this turn, you get an experience counter."
 msgstr ""
+"|tap|: Niniejszy zadaje wskazanemu stworowi poza twoim władaniem 1 "
+"obrażenie. Kiedy ten stwór umrze w tej turze, dostajesz znacznik "
+"doświadczenia."
 
 #: ../../C20.rst:86
 msgid ""
@@ -516,6 +528,10 @@ msgid ""
 "its mutate cost, put it over or under target non-Human creature you own. "
 "They mutate into the creature on top plus all abilities from under it.)"
 msgstr ""
+"Mutowanie |mana_1|\\ |mana_b|\\ |mana_g|\\ |mana_u| (Jeśli rzucisz ten czar "
+"za jego koszt mutowania, umieść go na lub pod wskazanym stworem pod twoim "
+"władaniem bez typu Człowiek. Mutują one w stwora na wierzchu mającym "
+"wszystkie zdolności spod niego.)"
 
 #: ../../C20.rst:83 ../../C20.rst:423 ../../C20.rst:1151
 msgid "Trample"
@@ -526,6 +542,8 @@ msgid ""
 "Whenever this creature deals combat damage to a player, return target "
 "creature card with mutate from your graveyard to your hand."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, przywróć wskazaną kartę "
+"stwora z mutowaniem z twojego cmentarza do twojej ręki."
 
 #: ../../C20.rst:94
 msgid ""
@@ -548,6 +566,9 @@ msgid ""
 "library and put a fetch counter on each of them. Put a +1/+1 counter on Pako "
 "for each noncreature card exiled this way."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, wygnaj wierzchnią kartę biblioteki każdego "
+"gracza i umieść znacznik pobrania na każdej z nich. Umieść znacznik +1/+1 na "
+"niniejszym za każdą niestworową kartę wygnaną w ten sposób."
 
 #: ../../C20.rst:104
 msgid ""
@@ -565,10 +586,12 @@ msgid ""
 "Whenever you draw a card, put a +1/+1 counter on Shabraz, the Skyshark and "
 "you gain 1 life."
 msgstr ""
+"Ilekroć dobierzesz kartę, umieść znacznik +1/+1 na tym stworze i zyskaj 1 "
+"życie."
 
 #: ../../C20.rst:103
 msgid "|mana_wu|: Target Human gains flying until end of turn."
-msgstr ""
+msgstr "|mana_wu|: Wskazany Człowiek zyskuje do końca tury latanie."
 
 #: ../../C20.rst:112
 msgid ""
@@ -593,6 +616,8 @@ msgid ""
 "Sacrifice a Human: Put a +1/+1 counter on Silvar, Devourer of the Free. It "
 "gains indestructible until end of turn."
 msgstr ""
+"Poświęć Człowieka: Umieść znacznik +1/+1 na niniejszym. Do końca tury "
+"zyskuje on niezniszczalność."
 
 #: ../../C20.rst:118
 msgid ""
@@ -606,6 +631,8 @@ msgid ""
 "Each other creature you control enters the battlefield with an additional "
 "vigilance counter on it."
 msgstr ""
+"Każdy inny stwór pod twoim władaniem wchodzi na pole bitwy mając dodatkowo "
+"znacznik czujności."
 
 #: ../../C20.rst:117
 msgid ""
@@ -636,13 +663,15 @@ msgstr ""
 
 #: ../../C20.rst:123
 msgid "Ukkima, Stalking Shadow can't be blocked."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany."
 
 #: ../../C20.rst:125
 msgid ""
 "When Ukkima leaves the battlefield, it deals X damage to target player and "
 "you gain X life, where X is its power."
 msgstr ""
+"Kiedy ten stwór opuści pole bitwy, zadaje on wskazanemu graczowi X obrażeń, "
+"a ty zyskaj X żyć, gdzie X jest jego siłą."
 
 #: ../../C20.rst:134
 msgid ""
@@ -657,12 +686,16 @@ msgid ""
 "Whenever an opponent draws a card except the first one they draw in each of "
 "their draw steps, create a 1/1 green Snake creature token."
 msgstr ""
+"Ilekroć przeciwnik dobierze kartę poza pierwszą dobieraną w swoim kroku "
+"dobierania, stwórz żeton zielonego stwora Wąż 1/1."
 
 #: ../../C20.rst:133
 msgid ""
 "Whenever Xyris, the Writhing Storm deals combat damage to a player, you and "
 "that player each draw that many cards."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, ty i ów gracz dobieracie "
+"po tyle samo kart."
 
 #: ../../C20.rst:142
 msgid ""
@@ -688,6 +721,10 @@ msgid ""
 "distribute X +1/+1 counters among any number of target creatures, where X is "
 "the exiled creature's power."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, wygnaj innego stwora pod twoim "
+"władaniem aż niniejszy opuści pole bitwy. Kiedy tak zrobisz, rozmieść między "
+"dowolną liczbą wskazanych stworów X znaczników +1/+1, gdzie X jest siłą "
+"wygnanego stwora."
 
 #: ../../C20.rst:150
 msgid ""
@@ -709,6 +746,8 @@ msgid ""
 "Whenever you cast a spell with |mana_x| in its mana cost, create a 0/0 green "
 "Hydra creature token, then put X +1/+1 counters on it."
 msgstr ""
+"Ilekroć rzucisz czar mający |mana_x| w koszcie many, stwórz żeton zielonego "
+"stwora Hydra 0/0, po czym umieść na nim X znaczników +1/+1."
 
 #: ../../C20.rst:158
 msgid ""
@@ -719,17 +758,19 @@ msgstr ""
 
 #: ../../C20.rst:153
 msgid "Cryptic Trilobite enters the battlefield with X +1/+1 counters on it."
-msgstr ""
+msgstr "Ten stwór wchodzi na pole bitwy mając X znaczników +1/+1."
 
 #: ../../C20.rst:155
 msgid ""
 "Remove a +1/+1 counter from Cryptic Trilobite: Add |colorless|\\ |"
 "colorless|. Spend this mana only to activate abilities."
 msgstr ""
+"Usuń znacznik +1/+1 z tego stwora: Weź |colorless|\\ |colorless|. Wydaj ową "
+"manę tylko na aktywację zdolności."
 
 #: ../../C20.rst:157
 msgid "|mana_1|, |tap|: Put a +1/+1 counter on Cryptic Trilobite."
-msgstr ""
+msgstr "|mana_1|, |tap|: Umieść znacznik +1/+1 na tym stworze."
 
 #: ../../C20.rst:164
 msgid ""
@@ -747,6 +788,8 @@ msgid ""
 "Whenever Avenging Huntbonder attacks, put a double strike counter on another "
 "target attacking creature."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, umieść znacznik podwójnego ciosu na innym "
+"wskazanym atakującym stworze."
 
 #: ../../C20.rst:170
 msgid ""
@@ -768,6 +811,9 @@ msgid ""
 "Choose any number of target opponents. Create X 1/1 white Human Soldier "
 "creature tokens, where X is the number of creatures those opponents control."
 msgstr ""
+"Wybierz dowolną liczbę wskazanych przeciwników. Stwórz X żetonów białego "
+"stwora Człowiek Piechur 1/1, gdzie X jest liczbą stworów pod władaniem owych "
+"przeciwników."
 
 #: ../../C20.rst:176
 msgid ""
@@ -800,17 +846,21 @@ msgid ""
 "For each opponent, destroy up to one target artifact or enchantment that "
 "player controls."
 msgstr ""
+"Dla każdego przeciwnika, zniszcz co najwyżej jeden wskazany artefakt lub "
+"urok pod władaniem owego gracza."
 
 #: ../../C20.rst:181
 msgid ""
 "Cycling |mana_6|\\ |mana_w|\\ |mana_w| (|mana_6|\\ |mana_w|\\ |mana_w|, "
 "Discard this card: Draw a card.)"
 msgstr ""
+"Recykling |mana_6|\\ |mana_w|\\ |mana_w| (|mana_6|\\ |mana_w|\\ |mana_w|, "
+"odrzuć tę kartę: Dobierz kartę.)"
 
 #: ../../C20.rst:183
 msgid ""
 "When you cycle Dismantling Wave, destroy all artifacts and enchantments."
-msgstr ""
+msgstr "Kiedy recyklujesz tę kartę, zniszcz wszystkie artefakty i uroki."
 
 #: ../../C20.rst:190
 msgid ""
@@ -825,6 +875,7 @@ msgid ""
 "If you control a commander, you may cast this spell without paying its mana "
 "cost."
 msgstr ""
+"Jeśli władasz dowódcą, możesz rzucić ten czar bez płacenia jego kosztu many."
 
 #: ../../C20.rst:189
 msgid "Creatures you control gain indestructible until end of turn."
@@ -843,6 +894,9 @@ msgid ""
 "any number of target permanent cards with cycling abilities from your "
 "graveyard to the battlefield."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, jeśli go rzuciłeś, przywróć dowolną "
+"liczbę wskazanych kart bytów ze zdolnością recyklingu z twojego cmentarza na "
+"pole bitwy."
 
 #: ../../C20.rst:204
 msgid ""
@@ -894,6 +948,9 @@ msgid ""
 "the top of your library. (You can play a land this way only if you have an "
 "available land play remaining.)"
 msgstr ""
+"O ile przeciwnik ma we władaniu więcej lądów niż ty, możesz zagrywać lądy z "
+"wierzchu twojej biblioteki. (Możesz zagrać ląd w ten sposób tylko jeśli masz "
+"wolne zagrania lądów.)"
 
 #: ../../C20.rst:220
 msgid ""
@@ -911,12 +968,16 @@ msgid ""
 "|mana_x|\\ |mana_w|\\ |mana_w|: Monstrosity X. (If this creature isn't "
 "monstrous, put X +1/+1 counters on it and it becomes monstrous.)"
 msgstr ""
+"|mana_x|\\ |mana_w|\\ |mana_w|: Monstrualność X. (Jeśli ten stwór nie jest "
+"monstrualny, umieść na nim X znaczników +1/+1 i staje się on monstrualny.)"
 
 #: ../../C20.rst:219
 msgid ""
 "When Vitality Hunter becomes monstrous, put a lifelink counter on each of up "
 "to X target creatures."
 msgstr ""
+"Kiedy ten stwór staje się monstrualny, umieść znacznik więzi życia na każdym "
+"z co najwyżej X wskazanych stworów."
 
 #: ../../C20.rst:224
 msgid ""
@@ -930,6 +991,9 @@ msgid ""
 "Whenever you cycle a card, you may have Crystalline Resonance become a copy "
 "of another target permanent until your next turn, except it has this ability."
 msgstr ""
+"Ilekroć recyklujesz kartę, możesz zdecydować, że ten byt stanie się do "
+"twojej następnej tury kopią innego wskazanego bytu, ale ma niniejsza "
+"zdolność."
 
 #: ../../C20.rst:228
 msgid ""
@@ -944,6 +1008,9 @@ msgid ""
 "then return that creature to its owner's hand unless its controller has you "
 "draw a card."
 msgstr ""
+"Dla każdego przeciwnika, wybierz co najwyżej jednego wskazanego stwora pod "
+"władaniem owego gracza, po czym przywróć owego stwora do ręki właściciela, "
+"chyba że jego władca zdecyduje, że dobierasz kartę."
 
 #: ../../C20.rst:234
 msgid ""
@@ -960,6 +1027,11 @@ msgid ""
 "planeswalkers you control can't be targeted, dealt damage, or enchanted by "
 "anything controlled by that player.)"
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, jeśli go rzuciłeś, wskazany przeciwnik "
+"bierze dodatkową turę po obecnej. Do twojej następnej tury, ty oraz wędrowcy "
+"pod twoim władaniem zyskujecie ochroną przed owym graczem. (Ty i wędrowcy "
+"pod twoim władaniem nie możecie być wskazywani, otrzymywać obrażeń, ani być "
+"zauroczeni przez cokolwiek pod władaniem owego gracza.)"
 
 #: ../../C20.rst:242
 msgid ""
@@ -981,6 +1053,8 @@ msgid ""
 "Whenever Ethereal Forager attacks, you may return an instant or sorcery card "
 "exiled with Ethereal Forager to its owner's hand."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, możesz przywrócić wygnaną nim kartę sztuczki "
+"lub obrzędu do ręki właściciela."
 
 #: ../../C20.rst:248
 msgid ""
@@ -1008,6 +1082,10 @@ msgid ""
 "puts all cards revealed this way on the bottom of their library in a random "
 "order."
 msgstr ""
+"Ilekroć ten stwór zaatakuje lub zablokuje, wskazany przeciwnik ujawnia karty "
+"z wierzchu swojej biblioteki aż ujawni kartę stwora. Ten stwór do końca tury "
+"staje się kopią owej karty. Następnie ów gracz umieszcza wszystkie karty "
+"ujawnione w ten sposób losowo na spodzie swojej biblioteki."
 
 #: ../../C20.rst:260
 msgid ""
@@ -1026,7 +1104,7 @@ msgstr ""
 
 #: ../../C20.rst:259
 msgid "Whenever enchanted creature attacks, you scry 2."
-msgstr ""
+msgstr "Ilekroć zauroczony stwor zaatakuje, wróż 2."
 
 #: ../../C20.rst:268
 msgid ""
@@ -1041,15 +1119,17 @@ msgid ""
 "it over or under target non-Human creature you own. They mutate into the "
 "creature on top plus all abilities from under it.)"
 msgstr ""
-"Mutuj |mana_5|\\ |mana_u| (Jeśli rzucisz ten czar za jego koszt mutacji, "
-"umieść go na lub pod wskazanym stworem pod twoim władaniem bez typu "
-"Człowiek. Mutują one w stwora na wierzchu mającym wszystkie zdolności spod "
-"niego.)"
+"Mutowanie |mana_5|\\ |mana_u| (Jeśli rzucisz ten czar za jego koszt "
+"mutowania, umieść go na lub pod wskazanym stworem pod twoim władaniem bez "
+"typu Człowiek. Mutują one w stwora na wierzchu mającym wszystkie zdolności "
+"spod niego.)"
 
 #: ../../C20.rst:267
 msgid ""
 "Whenever this creature mutates, gain control of target noncreature artifact."
 msgstr ""
+"Ilekroć ten stwór mutuje, zyskaj władanie nad wskazanym niestworowym "
+"artefaktem."
 
 #: ../../C20.rst:274
 msgid ""
@@ -1060,7 +1140,7 @@ msgstr ""
 
 #: ../../C20.rst:271
 msgid "Any player may cast spells as though they had flash."
-msgstr ""
+msgstr "Dowolny gracz może rzucać czary jakby miały błysk."
 
 #: ../../C20.rst:273
 msgid "Your opponents can't cast spells during your turn."
@@ -1078,6 +1158,8 @@ msgid ""
 "Boneyard Mycodrax's power and toughness are each equal to the number of "
 "other creature cards in your graveyard."
 msgstr ""
+"Siła i wytrzymałość tej karty są obie równe liczbie innych kart stworów w "
+"twoim cmentarzu."
 
 #: ../../C20.rst:279
 msgid ""
@@ -1085,6 +1167,9 @@ msgid ""
 "graveyard: Put a number of +1/+1 counters equal to this card's power on "
 "target creature. Scavenge only as a sorcery.)"
 msgstr ""
+"Czystka |mana_4|\\ |mana_b| (|mana_4|\\ |mana_b|, wygnaj tę kartę z twojego "
+"cmentarza: Umieść na wskazanym stworze tyle znaczników +1/+1 , ile wynosi "
+"siła tej karty. Aktywuj tylko jako obrzęd.)"
 
 #: ../../C20.rst:288
 msgid ""
@@ -1095,7 +1180,7 @@ msgstr ""
 
 #: ../../C20.rst:285
 msgid "Daring Fiendbonder attacks each combat if able."
-msgstr ""
+msgstr "Ten stwór atakuje w każdej potyczce jeśli może."
 
 #: ../../C20.rst:287
 msgid ""
@@ -1128,6 +1213,8 @@ msgid ""
 "Each opponent chooses a creature card in their graveyard. Put those cards "
 "onto the battlefield under your control."
 msgstr ""
+"Każdy przeciwnik wybiera kartę stwora w swoim cmentarza. Umieść owe karty na "
+"polu bitwy pod twoim władaniem."
 
 #: ../../C20.rst:306
 msgid ""
@@ -1142,10 +1229,10 @@ msgid ""
 "it over or under target non-Human creature you own. They mutate into the "
 "creature on top plus all abilities from under it.)"
 msgstr ""
-"Mutuj |mana_4|\\ |mana_b| (Jeśli rzucisz ten czar za jego koszt mutacji, "
-"umieść go na lub pod wskazanym stworem pod twoim władaniem bez typu "
-"Człowiek. Mutują one w stwora na wierzchu mającym wszystkie zdolności spod "
-"niego.)"
+"Mutowanie |mana_4|\\ |mana_b| (Jeśli rzucisz ten czar za jego koszt "
+"mutowania, umieść go na lub pod wskazanym stworem pod twoim władaniem bez "
+"typu Człowiek. Mutują one w stwora na wierzchu mającym wszystkie zdolności "
+"spod niego.)"
 
 #: ../../C20.rst:305
 msgid ""
@@ -1153,6 +1240,8 @@ msgid ""
 "library face down. You may look at and play those cards for as long as they "
 "remain exiled."
 msgstr ""
+"Ilekroć ten stwór mutuje, wygnaj jako zakrytą wierzchnią kartę biblioteki "
+"każdego przeciwnika. Możesz patrzeć na owe karty przez czas ich wygnania."
 
 #: ../../C20.rst:310
 msgid ""
@@ -1167,6 +1256,9 @@ msgid ""
 "hand from the command zone. Then you lose 3 life for each soul counter on "
 "Netherborn Altar."
 msgstr ""
+"|tap|, umieść znacznik duszy na tym bycie: Umieść twojego dowódcę w twojej "
+"ręce z strefy dowodzenia. Następnie strać po 3 życia za każdy znacznik duszy "
+"na tym bycie."
 
 #: ../../C20.rst:318
 msgid ""
@@ -1192,11 +1284,11 @@ msgstr ""
 
 #: ../../C20.rst:321
 msgid "As Species Specialist enters the battlefield, choose a creature type."
-msgstr ""
+msgstr "Przy wejściu tego bytu na pole bitwy, wybierz typ stwora."
 
 #: ../../C20.rst:323
 msgid "Whenever a creature of the chosen type dies, you may draw a card."
-msgstr ""
+msgstr "Ilekroć umrze stwór wybranego typu, możesz dobrać kartę."
 
 #: ../../C20.rst:330
 msgid ""
@@ -1210,10 +1302,12 @@ msgid ""
 "At the beginning of each player's end step, if no creatures died this turn, "
 "Titan Hunter deals 4 damage to that player."
 msgstr ""
+"Na początku kroku końcowego każdego gracza, jeśli żaden stwór nie umarł w "
+"tej turze, niniejszy zadaje owemu graczowi 4 obrażenia."
 
 #: ../../C20.rst:329
 msgid "|mana_1|\\ |mana_b|, Sacrifice a creature: You gain 4 life."
-msgstr ""
+msgstr "|mana_1|\\ |mana_b|, poświęć stwora: Zyskaj 4 życia."
 
 #: ../../C20.rst:334
 msgid ""
@@ -1229,6 +1323,10 @@ msgid ""
 "way. (Until your next turn, those creatures attack each combat if able and "
 "attack a player other than you if able.)"
 msgstr ""
+"Na początku twojego kroku końcowego, każdy gracz może umieścić dwa znaczniki "
+"+1/+1 na stworze pod swoim władaniem. Ponaglij każdego stwora otrzymującego "
+"znaczniki w ten sposób. (Do twojej najbliższej tury, ów stwór atakuje w "
+"każdej potyczce jeśli może i atakuje gracza innego niż ty jeśli może.)"
 
 #: ../../C20.rst:340
 msgid ""
@@ -1239,7 +1337,7 @@ msgstr ""
 
 #: ../../C20.rst:339
 msgid "You may choose new targets for target spell or ability."
-msgstr ""
+msgstr "Możesz wybrać nowe wskazania dla wskazanego czaru lub zdolności."
 
 #: ../../C20.rst:346
 msgid ""
@@ -1255,6 +1353,10 @@ msgid ""
 "until you reveal a creature card. Put that card onto the battlefield tapped "
 "and attacking and the rest on the bottom of your library in a random order."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, możesz wygnać innego atakującego stwora pod "
+"twoim władaniem. Jeśli tak zrobisz, ujawnij karty z wierzchu twojej "
+"biblioteki aż ujawnisz kartę stwora. Umieść ową kartę przekręconą i "
+"atakującą na polu bitwy, a pozostałe losowo na spodzie twojej biblioteki."
 
 #: ../../C20.rst:350
 msgid ""
@@ -1268,6 +1370,8 @@ msgid ""
 "Whenever one or more creatures attack one of your opponents or a "
 "planeswalker they control, those creatures gain menace until end of turn."
 msgstr ""
+"Ilekroć co najmniej zaatakuje jednego z twoich przeciwników lub wędrowca pod "
+"ich władaniem, owe stwory zyskują do końca tury złowrogość."
 
 #: ../../C20.rst:356
 msgid ""
@@ -1278,7 +1382,7 @@ msgstr ""
 
 #: ../../C20.rst:353
 msgid "|tap|: Add |mana_r|\\ |mana_r|."
-msgstr ""
+msgstr "|tap|: Weź |mana_r|\\ |mana_r|."
 
 #: ../../C20.rst:355
 msgid ""
@@ -1474,10 +1578,10 @@ msgid ""
 "it over or under target non-Human creature you own. They mutate into the "
 "creature on top plus all abilities from under it.)"
 msgstr ""
-"Mutuj |mana_3|\\ |mana_g| (Jeśli rzucisz ten czar za jego koszt mutacji, "
-"umieść go na lub pod wskazanym stworem pod twoim władaniem bez typu "
-"Człowiek. Mutują one w stwora na wierzchu mającym wszystkie zdolności spod "
-"niego.)"
+"Mutowanie |mana_3|\\ |mana_g| (Jeśli rzucisz ten czar za jego koszt "
+"mutowania, umieść go na lub pod wskazanym stworem pod twoim władaniem bez "
+"typu Człowiek. Mutują one w stwora na wierzchu mającym wszystkie zdolności "
+"spod niego.)"
 
 #: ../../C20.rst:425
 msgid ""
