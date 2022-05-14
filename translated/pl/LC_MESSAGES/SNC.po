@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2022.3\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-24 21:47+0200\n"
+"POT-Creation-Date: 2022-05-14 18:07+0200\n"
 "PO-Revision-Date: 2022-04-18 17:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/snc/pl/>\n"
@@ -295,9 +295,13 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:23
+#, fuzzy
+#| msgid ""
+#| "Put a shield counter on target creature. (If that creature would be dealt "
+#| "damage or destroyed, remove a shield counter from it instead.)"
 msgid ""
-"Put a shield counter on target creature. (If that creature would be dealt "
-"damage or destroyed, remove a shield counter from it instead.)"
+"Put a shield counter on target creature. (If it would be dealt damage or "
+"destroyed, remove a shield counter from it instead.)"
 msgstr ""
 "Umieść znacznik tarczy na wskazanym stworze. (Jeśli ów stwór miałby otrzymać "
 "obrażenia lub zostać zniszczony, zamiast tego usuń z niego znacznik tarczy.)"
@@ -896,7 +900,7 @@ msgid ""
 "https://scryfall.com/card/snc/35/backstreet-bruiser?utm_source=api>`"
 msgstr ""
 
-#: ../../SNC.rst:201
+#: ../../SNC.rst:201 ../../SNC.rst:1447
 msgid "Defender"
 msgstr "Obronność"
 
@@ -916,10 +920,15 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:207
+#, fuzzy
+#| msgid ""
+#| "When Brokers Veteran dies, put a shield counter on target creature you "
+#| "control. (If that creature would be dealt damage or destroyed, remove a "
+#| "shield counter from it instead.)"
 msgid ""
 "When Brokers Veteran dies, put a shield counter on target creature you "
-"control. (If that creature would be dealt damage or destroyed, remove a "
-"shield counter from it instead.)"
+"control. (If it would be dealt damage or destroyed, remove a shield counter "
+"from it instead.)"
 msgstr ""
 "Kiedy ten stwór umrze, umieść znacznik tarczy na wskazanym stworze pod twoim "
 "władaniem. (Jeśli ów stwór miałby otrzymać obrażenia lub zostać zniszczony, "
@@ -945,10 +954,15 @@ msgid ""
 "https://scryfall.com/card/snc/38/cut-your-losses?utm_source=api>`"
 msgstr ""
 
-#: ../../SNC.rst:215 ../../SNC.rst:483 ../../SNC.rst:639
+#: ../../SNC.rst:215 ../../SNC.rst:639
+#, fuzzy
+#| msgid ""
+#| "Casualty 2 (As you cast this spell, you may sacrifice a creature with "
+#| "power 2 or greater. When you do, copy this spell and you may choose new "
+#| "targets for the copy.)"
 msgid ""
 "Casualty 2 (As you cast this spell, you may sacrifice a creature with power "
-"2 or greater. When you do, copy this spell and you may choose new targets "
+"2 or greater. When you do, copy this spell and you may choose a new target "
 "for the copy.)"
 msgstr ""
 "Ofiara 2 (Rzucając ten czar możesz poświęcić stwora o sile 2 lub większej. "
@@ -1095,7 +1109,7 @@ msgid ""
 "https://scryfall.com/card/snc/47/a-little-chat?utm_source=api>`"
 msgstr ""
 
-#: ../../SNC.rst:267 ../../SNC.rst:695
+#: ../../SNC.rst:267 ../../SNC.rst:431 ../../SNC.rst:695
 msgid ""
 "Casualty 1 (As you cast this spell, you may sacrifice a creature with power "
 "1 or greater. When you do, copy this spell.)"
@@ -1137,10 +1151,15 @@ msgid ""
 "https://scryfall.com/card/snc/49/make-disappear?utm_source=api>`"
 msgstr ""
 
-#: ../../SNC.rst:279 ../../SNC.rst:327 ../../SNC.rst:431 ../../SNC.rst:467
+#: ../../SNC.rst:279 ../../SNC.rst:327 ../../SNC.rst:467
+#, fuzzy
+#| msgid ""
+#| "Casualty 1 (As you cast this spell, you may sacrifice a creature with "
+#| "power 1 or greater. When you do, copy this spell and you may choose new "
+#| "targets for the copy.)"
 msgid ""
 "Casualty 1 (As you cast this spell, you may sacrifice a creature with power "
-"1 or greater. When you do, copy this spell and you may choose new targets "
+"1 or greater. When you do, copy this spell and you may choose a new target "
 "for the copy.)"
 msgstr ""
 "Ofiara 1 (Rzucając ten czar możesz poświęcić stwora o sile 1 lub większej. "
@@ -1556,7 +1575,7 @@ msgid ""
 "https://scryfall.com/card/snc/72/cut-of-the-profits?utm_source=api>`"
 msgstr ""
 
-#: ../../SNC.rst:413
+#: ../../SNC.rst:413 ../../SNC.rst:473
 msgid ""
 "Casualty 3 (As you cast this spell, you may sacrifice a creature with power "
 "3 or greater. When you do, copy this spell.)"
@@ -1617,10 +1636,15 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:433
+#, fuzzy
+#| msgid ""
+#| "Mill two cards, then you may return a creature card from your graveyard "
+#| "to your hand. (To mill a card, a player puts the top card of their "
+#| "library into their graveyard.)"
 msgid ""
 "Mill two cards, then you may return a creature card from your graveyard to "
-"your hand. (To mill a card, a player puts the top card of their library into "
-"their graveyard.)"
+"your hand. (To mill a card, put the top card of your library into your "
+"graveyard.)"
 msgstr ""
 "Zmiel dwie karty, po czym możesz przywrócić kartę stwora z twojego cmentarza "
 "do twojej ręki. (Mieląc kartę gracz umieszcza wierzchnią kartę swojej "
@@ -1757,15 +1781,6 @@ msgid ""
 "https://scryfall.com/card/snc/83/illicit-shipment?utm_source=api>`"
 msgstr ""
 
-#: ../../SNC.rst:473
-msgid ""
-"Casualty 3 (As you cast this spell, you may sacrifice a creature with power "
-"3 or greater. When you do, copy this spell and you may choose new targets "
-"for the copy.)"
-msgstr ""
-"Ofiara 3 (Rzucając ten czar możesz poświęcić stwora o sile 3 lub większej. "
-"Jeśli tak zrobisz, skopiuj ten czar i możesz wskazać nowe cele dla kopii.)"
-
 #: ../../SNC.rst:475
 msgid "Search your library for a card, put it into your hand, then shuffle."
 msgstr ""
@@ -1793,6 +1808,18 @@ msgid ""
 "border_crop/front/f/f/ff2665f7-6cf8-4f9b-810e-17e264753225.jpg?1649471797|"
 "https://scryfall.com/card/snc/85/join-the-maestros?utm_source=api>`"
 msgstr ""
+
+#: ../../SNC.rst:483
+#, fuzzy
+#| msgid ""
+#| "Casualty 1 (As you cast this spell, you may sacrifice a creature with "
+#| "power 1 or greater. When you do, copy this spell.)"
+msgid ""
+"Casualty 2 (As you cast this spell, you may sacrifice a creature with power "
+"2 or greater. When you do, copy this spell.)"
+msgstr ""
+"Ofiara 1 (Rzucając ten czar możesz poświęcić stwora o sile 1 lub większej. "
+"Jeśli tak zrobisz, skopiuj ten czar.)"
 
 #: ../../SNC.rst:485
 msgid "Create a 4/3 black Ogre Warrior creature token."
@@ -3611,10 +3638,15 @@ msgstr ""
 "wygnaj ze znacznikiem kolekcji wierzchnią kartę z biblioteki każdego gracza."
 
 #: ../../SNC.rst:1071
+#, fuzzy
+#| msgid ""
+#| "Once each turn, you may play a card from exile with a collection counter "
+#| "on it if it was exiled by an ability you controlled, and you may spend "
+#| "mana as though it were any color to cast it."
 msgid ""
 "Once each turn, you may play a card from exile with a collection counter on "
 "it if it was exiled by an ability you controlled, and you may spend mana as "
-"though it were any color to cast it."
+"though it were mana of any color to cast it."
 msgstr ""
 "Raz na turę możesz zagrać z wygnania kartę mającą znacznik kolekcji jeśli "
 "została wygnana zdolnością pod twoim władaniem i do jej rzucenia możesz "
@@ -4029,15 +4061,20 @@ msgstr ""
 msgid ""
 ":mtgtip:`Ob Nixilis, the Adversary<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/8/0/80226520-6b0a-48ea-a868-a29eb3fbd403.jpg?"
-"1649366630|https://scryfall.com/card/snc/206/ob-nixilis-the-adversary?"
+"1652142963|https://scryfall.com/card/snc/206/ob-nixilis-the-adversary?"
 "utm_source=api>`"
 msgstr ""
 
 #: ../../SNC.rst:1195
+#, fuzzy
+#| msgid ""
+#| "Casualty X. The copy isn't legendary and has starting loyalty X. (As you "
+#| "cast this spell, you may sacrifice a creature with power X. When you do, "
+#| "copy this spell and you may choose new targets for the copy.)"
 msgid ""
 "Casualty X. The copy isn't legendary and has starting loyalty X. (As you "
 "cast this spell, you may sacrifice a creature with power X. When you do, "
-"copy this spell and you may choose new targets for the copy.)"
+"copy this spell. The copy becomes a token.)"
 msgstr ""
 "Ofiara X. Kopia nie jest legendarna i ma startową lojalność X. (Rzucając ten "
 "czar możesz poświęcić stwora o sile X. Jeśli tak zrobisz, skopiuj ten czar i "
@@ -4833,10 +4870,6 @@ msgid ""
 "https://scryfall.com/card/snc/245/suspicious-bookcase?utm_source=api>`"
 msgstr ""
 
-#: ../../SNC.rst:1447
-msgid "Defender (This creature can't attack.)"
-msgstr "Obronność (Ten stwór nie może atakować.)"
-
 #: ../../SNC.rst:1449
 msgid "|mana_3|, |tap|: Target creature can't be blocked this turn."
 msgstr "|mana_3|, |tap|: Wskazany stwór nie może być blokowany w tej turze."
@@ -4918,7 +4951,7 @@ msgstr ""
 #: ../../SNC.rst:1482
 msgid ""
 ":mtgtip:`Jetmir's Garden<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/2/6/26d40e03-6de4-4373-9fbf-04c1dd79e995.jpg?1646591275|"
+"border_crop/front/2/6/26d40e03-6de4-4373-9fbf-04c1dd79e995.jpg?1651966183|"
 "https://scryfall.com/card/snc/250/jetmirs-garden?utm_source=api>`"
 msgstr ""
 
@@ -4992,7 +5025,7 @@ msgstr "|mana_2|\\ |mana_r|\\ |mana_g|, |tap|, poświęć ten byt: Dobierz kart�
 #: ../../SNC.rst:1506
 msgid ""
 ":mtgtip:`Raffine's Tower<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/a/2/a2c56479-4bee-4edb-80d7-4af010b7c793.jpg?1646348981|"
+"border_crop/front/a/2/a2c56479-4bee-4edb-80d7-4af010b7c793.jpg?1651966195|"
 "https://scryfall.com/card/snc/254/raffines-tower?utm_source=api>`"
 msgstr ""
 
@@ -5045,7 +5078,7 @@ msgstr "|mana_2|\\ |mana_w|\\ |mana_u|, |tap|, poświęć ten byt: Dobierz kart�
 #: ../../SNC.rst:1526
 msgid ""
 ":mtgtip:`Spara's Headquarters<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/7/3/7363f1fb-9af3-4212-921f-d59533faf0e5.jpg?1646591264|"
+"border_crop/front/7/3/7363f1fb-9af3-4212-921f-d59533faf0e5.jpg?1651966200|"
 "https://scryfall.com/card/snc/257/sparas-headquarters?utm_source=api>`"
 msgstr ""
 
@@ -5102,7 +5135,7 @@ msgstr "|mana_2|\\ |mana_u|\\ |mana_b|, |tap|, poświęć ten byt: Dobierz kart�
 #: ../../SNC.rst:1550
 msgid ""
 ":mtgtip:`Xander's Lounge<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/5/4/54f449ff-4025-465e-9ec5-a5cf42c4c9d3.jpg?1646591246|"
+"border_crop/front/5/4/54f449ff-4025-465e-9ec5-a5cf42c4c9d3.jpg?1651966205|"
 "https://scryfall.com/card/snc/260/xanders-lounge?utm_source=api>`"
 msgstr ""
 
@@ -5118,7 +5151,7 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 msgid ""
 ":mtgtip:`Ziatora's Proving Ground<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/7/5/75fdce80-e338-4a50-bdc6-786511feaeef.jpg?"
-"1646591222|https://scryfall.com/card/snc/261/ziatoras-proving-ground?"
+"1651966210|https://scryfall.com/card/snc/261/ziatoras-proving-ground?"
 "utm_source=api>`"
 msgstr ""
 
@@ -5184,6 +5217,18 @@ msgstr ""
 #: ../../SNC.rst:1577
 msgid "(|tap|: Add |mana_g|.)"
 msgstr "(|tap|: Weź |mana_g|.)"
+
+#~ msgid ""
+#~ "Casualty 3 (As you cast this spell, you may sacrifice a creature with "
+#~ "power 3 or greater. When you do, copy this spell and you may choose new "
+#~ "targets for the copy.)"
+#~ msgstr ""
+#~ "Ofiara 3 (Rzucając ten czar możesz poświęcić stwora o sile 3 lub "
+#~ "większej. Jeśli tak zrobisz, skopiuj ten czar i możesz wskazać nowe cele "
+#~ "dla kopii.)"
+
+#~ msgid "Defender (This creature can't attack.)"
+#~ msgstr "Obronność (Ten stwór nie może atakować.)"
 
 #~ msgid ""
 #~ "\"Supportive BFF\" enters the battlefield with a shield counter on it. "

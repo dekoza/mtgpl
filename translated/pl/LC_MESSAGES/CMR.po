@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-26 20:58+0100\n"
+"POT-Creation-Date: 2022-05-14 18:07+0200\n"
 "PO-Revision-Date: 2022-04-18 22:02+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/cmr/pl/>\n"
@@ -348,8 +348,8 @@ msgid ""
 "When Ancestral Blade enters the battlefield, create a 1/1 white Soldier "
 "creature token, then attach Ancestral Blade to it."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton białego stwora Piechur 1/"
-"1, po czym dołącz ten artefakt do niego."
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton białego stwora Piechur "
+"1/1, po czym dołącz ten artefakt do niego."
 
 #: ../../CMR.rst:41
 msgid "Equipped creature gets +1/+1."
@@ -8409,7 +8409,8 @@ msgstr ""
 
 #: ../../CMR.rst:2945
 msgid "|tap|: Add |colorless| for each card you've drawn this turn."
-msgstr "|tap|: Weź |colorless| za każdą kartę dobraną przez ciebie w tej turze."
+msgstr ""
+"|tap|: Weź |colorless| za każdą kartę dobraną przez ciebie w tej turze."
 
 #: ../../CMR.rst:2954
 msgid ""
@@ -8846,8 +8847,8 @@ msgid ""
 "Activate only once each turn."
 msgstr ""
 "Usuń pięć znaczników +1/+1 z tego stwora: Weź |mana_w|\\ |mana_w|\\ |mana_u|"
-"\\ |mana_u|\\ |mana_b|\\ |mana_b|\\ |mana_r|\\ |mana_r|\\ |mana_g|\\ |mana_g|"
-". Aktywuj tylko raz na turę."
+"\\ |mana_u|\\ |mana_b|\\ |mana_b|\\ |mana_r|\\ |mana_r|\\ |mana_g|\\ |"
+"mana_g|. Aktywuj tylko raz na turę."
 
 #: ../../CMR.rst:3105
 msgid ""
