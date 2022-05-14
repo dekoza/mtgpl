@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: MTG-pl 2022.4\n"
+"Project-Id-Version: MTG-pl 2022.5\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-24 21:47+0200\n"
+"POT-Creation-Date: 2022-05-14 18:07+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -557,7 +557,7 @@ msgid ":mtgtip:`Boon of Safety<https://c1.scryfall.com/file/scryfall-cards/borde
 msgstr ""
 
 #: ../../SNC.rst:23
-msgid "Put a shield counter on target creature. (If that creature would be dealt damage or destroyed, remove a shield counter from it instead.)"
+msgid "Put a shield counter on target creature. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)"
 msgstr ""
 
 #: ../../SNC.rst:25
@@ -913,6 +913,7 @@ msgid ":mtgtip:`Backstreet Bruiser<https://c1.scryfall.com/file/scryfall-cards/b
 msgstr ""
 
 #: ../../SNC.rst:201
+#: ../../SNC.rst:1447
 msgid "Defender"
 msgstr ""
 
@@ -925,7 +926,7 @@ msgid ":mtgtip:`Brokers Veteran<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../SNC.rst:207
-msgid "When Brokers Veteran dies, put a shield counter on target creature you control. (If that creature would be dealt damage or destroyed, remove a shield counter from it instead.)"
+msgid "When Brokers Veteran dies, put a shield counter on target creature you control. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)"
 msgstr ""
 
 #: ../../SNC.rst:212
@@ -941,9 +942,8 @@ msgid ":mtgtip:`Cut Your Losses<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../SNC.rst:215
-#: ../../SNC.rst:483
 #: ../../SNC.rst:639
-msgid "Casualty 2 (As you cast this spell, you may sacrifice a creature with power 2 or greater. When you do, copy this spell and you may choose new targets for the copy.)"
+msgid "Casualty 2 (As you cast this spell, you may sacrifice a creature with power 2 or greater. When you do, copy this spell and you may choose a new target for the copy.)"
 msgstr ""
 
 #: ../../SNC.rst:217
@@ -1027,6 +1027,7 @@ msgid ":mtgtip:`A Little Chat<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../SNC.rst:267
+#: ../../SNC.rst:431
 #: ../../SNC.rst:695
 msgid "Casualty 1 (As you cast this spell, you may sacrifice a creature with power 1 or greater. When you do, copy this spell.)"
 msgstr ""
@@ -1056,9 +1057,8 @@ msgstr ""
 
 #: ../../SNC.rst:279
 #: ../../SNC.rst:327
-#: ../../SNC.rst:431
 #: ../../SNC.rst:467
-msgid "Casualty 1 (As you cast this spell, you may sacrifice a creature with power 1 or greater. When you do, copy this spell and you may choose new targets for the copy.)"
+msgid "Casualty 1 (As you cast this spell, you may sacrifice a creature with power 1 or greater. When you do, copy this spell and you may choose a new target for the copy.)"
 msgstr ""
 
 #: ../../SNC.rst:281
@@ -1279,6 +1279,7 @@ msgid ":mtgtip:`Cut of the Profits<https://c1.scryfall.com/file/scryfall-cards/b
 msgstr ""
 
 #: ../../SNC.rst:413
+#: ../../SNC.rst:473
 msgid "Casualty 3 (As you cast this spell, you may sacrifice a creature with power 3 or greater. When you do, copy this spell.)"
 msgstr ""
 
@@ -1315,7 +1316,7 @@ msgid ":mtgtip:`Dig Up the Body<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../SNC.rst:433
-msgid "Mill two cards, then you may return a creature card from your graveyard to your hand. (To mill a card, a player puts the top card of their library into their graveyard.)"
+msgid "Mill two cards, then you may return a creature card from your graveyard to your hand. (To mill a card, put the top card of your library into your graveyard.)"
 msgstr ""
 
 #: ../../SNC.rst:440
@@ -1396,10 +1397,6 @@ msgstr ""
 msgid ":mtgtip:`Illicit Shipment<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/f/1f7cced2-390b-499f-ace3-e52fd53d4712.jpg?1650121093|https://scryfall.com/card/snc/83/illicit-shipment?utm_source=api>`"
 msgstr ""
 
-#: ../../SNC.rst:473
-msgid "Casualty 3 (As you cast this spell, you may sacrifice a creature with power 3 or greater. When you do, copy this spell and you may choose new targets for the copy.)"
-msgstr ""
-
 #: ../../SNC.rst:475
 msgid "Search your library for a card, put it into your hand, then shuffle."
 msgstr ""
@@ -1414,6 +1411,10 @@ msgstr ""
 
 #: ../../SNC.rst:486
 msgid ":mtgtip:`Join the Maestros<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/f/ff2665f7-6cf8-4f9b-810e-17e264753225.jpg?1649471797|https://scryfall.com/card/snc/85/join-the-maestros?utm_source=api>`"
+msgstr ""
+
+#: ../../SNC.rst:483
+msgid "Casualty 2 (As you cast this spell, you may sacrifice a creature with power 2 or greater. When you do, copy this spell.)"
 msgstr ""
 
 #: ../../SNC.rst:485
@@ -2485,7 +2486,7 @@ msgid "Whenever Evelyn, the Covetous or another Vampire enters the battlefield u
 msgstr ""
 
 #: ../../SNC.rst:1071
-msgid "Once each turn, you may play a card from exile with a collection counter on it if it was exiled by an ability you controlled, and you may spend mana as though it were any color to cast it."
+msgid "Once each turn, you may play a card from exile with a collection counter on it if it was exiled by an ability you controlled, and you may spend mana as though it were mana of any color to cast it."
 msgstr ""
 
 #: ../../SNC.rst:1076
@@ -2706,11 +2707,11 @@ msgid "When Nimble Larcenist enters the battlefield, target opponent reveals the
 msgstr ""
 
 #: ../../SNC.rst:1202
-msgid ":mtgtip:`Ob Nixilis, the Adversary<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/0/80226520-6b0a-48ea-a868-a29eb3fbd403.jpg?1649366630|https://scryfall.com/card/snc/206/ob-nixilis-the-adversary?utm_source=api>`"
+msgid ":mtgtip:`Ob Nixilis, the Adversary<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/0/80226520-6b0a-48ea-a868-a29eb3fbd403.jpg?1652142963|https://scryfall.com/card/snc/206/ob-nixilis-the-adversary?utm_source=api>`"
 msgstr ""
 
 #: ../../SNC.rst:1195
-msgid "Casualty X. The copy isn't legendary and has starting loyalty X. (As you cast this spell, you may sacrifice a creature with power X. When you do, copy this spell and you may choose new targets for the copy.)"
+msgid "Casualty X. The copy isn't legendary and has starting loyalty X. (As you cast this spell, you may sacrifice a creature with power X. When you do, copy this spell. The copy becomes a token.)"
 msgstr ""
 
 #: ../../SNC.rst:1197
@@ -3143,10 +3144,6 @@ msgstr ""
 msgid ":mtgtip:`Suspicious Bookcase<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/c/fc574b42-e1bb-428f-a71f-bc3d7f5451da.jpg?1650121568|https://scryfall.com/card/snc/245/suspicious-bookcase?utm_source=api>`"
 msgstr ""
 
-#: ../../SNC.rst:1447
-msgid "Defender (This creature can't attack.)"
-msgstr ""
-
 #: ../../SNC.rst:1449
 msgid "|mana_3|, |tap|: Target creature can't be blocked this turn."
 msgstr ""
@@ -3196,7 +3193,7 @@ msgid "When Cabaretti Courtyard enters the battlefield, sacrifice it. When you d
 msgstr ""
 
 #: ../../SNC.rst:1482
-msgid ":mtgtip:`Jetmir's Garden<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/6/26d40e03-6de4-4373-9fbf-04c1dd79e995.jpg?1646591275|https://scryfall.com/card/snc/250/jetmirs-garden?utm_source=api>`"
+msgid ":mtgtip:`Jetmir's Garden<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/6/26d40e03-6de4-4373-9fbf-04c1dd79e995.jpg?1651966183|https://scryfall.com/card/snc/250/jetmirs-garden?utm_source=api>`"
 msgstr ""
 
 #: ../../SNC.rst:1477
@@ -3248,7 +3245,7 @@ msgid "|mana_2|\\ |mana_r|\\ |mana_g|, |tap|, Sacrifice Racers' Ring: Draw a car
 msgstr ""
 
 #: ../../SNC.rst:1506
-msgid ":mtgtip:`Raffine's Tower<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/2/a2c56479-4bee-4edb-80d7-4af010b7c793.jpg?1646348981|https://scryfall.com/card/snc/254/raffines-tower?utm_source=api>`"
+msgid ":mtgtip:`Raffine's Tower<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/2/a2c56479-4bee-4edb-80d7-4af010b7c793.jpg?1651966195|https://scryfall.com/card/snc/254/raffines-tower?utm_source=api>`"
 msgstr ""
 
 #: ../../SNC.rst:1501
@@ -3284,7 +3281,7 @@ msgid "|mana_2|\\ |mana_w|\\ |mana_u|, |tap|, Sacrifice Skybridge Towers: Draw a
 msgstr ""
 
 #: ../../SNC.rst:1526
-msgid ":mtgtip:`Spara's Headquarters<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/3/7363f1fb-9af3-4212-921f-d59533faf0e5.jpg?1646591264|https://scryfall.com/card/snc/257/sparas-headquarters?utm_source=api>`"
+msgid ":mtgtip:`Spara's Headquarters<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/3/7363f1fb-9af3-4212-921f-d59533faf0e5.jpg?1651966200|https://scryfall.com/card/snc/257/sparas-headquarters?utm_source=api>`"
 msgstr ""
 
 #: ../../SNC.rst:1521
@@ -3328,7 +3325,7 @@ msgid "|mana_2|\\ |mana_u|\\ |mana_b|, |tap|, Sacrifice Waterfront District: Dra
 msgstr ""
 
 #: ../../SNC.rst:1550
-msgid ":mtgtip:`Xander's Lounge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/4/54f449ff-4025-465e-9ec5-a5cf42c4c9d3.jpg?1646591246|https://scryfall.com/card/snc/260/xanders-lounge?utm_source=api>`"
+msgid ":mtgtip:`Xander's Lounge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/4/54f449ff-4025-465e-9ec5-a5cf42c4c9d3.jpg?1651966205|https://scryfall.com/card/snc/260/xanders-lounge?utm_source=api>`"
 msgstr ""
 
 #: ../../SNC.rst:1545
@@ -3340,7 +3337,7 @@ msgid "Xander's Lounge enters the battlefield tapped."
 msgstr ""
 
 #: ../../SNC.rst:1558
-msgid ":mtgtip:`Ziatora's Proving Ground<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/5/75fdce80-e338-4a50-bdc6-786511feaeef.jpg?1646591222|https://scryfall.com/card/snc/261/ziatoras-proving-ground?utm_source=api>`"
+msgid ":mtgtip:`Ziatora's Proving Ground<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/5/75fdce80-e338-4a50-bdc6-786511feaeef.jpg?1651966210|https://scryfall.com/card/snc/261/ziatoras-proving-ground?utm_source=api>`"
 msgstr ""
 
 #: ../../SNC.rst:1553

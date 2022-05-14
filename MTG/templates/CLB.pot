@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: MTG-pl 2022.4\n"
+"Project-Id-Version: MTG-pl 2022.5\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-01 01:05+0200\n"
+"POT-Creation-Date: 2022-05-14 18:07+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,6 +20,7 @@ msgstr ""
 msgid "{C}"
 msgstr ""
 
+#: ../../symbols.rst:5
 #: ../../symbols.rst:5
 #: ../../symbols.rst:5
 #: ../../symbols.rst:5
@@ -122,6 +123,7 @@ msgstr ""
 msgid "{1}"
 msgstr ""
 
+#: ../../symbols.rst:47
 #: ../../symbols.rst:47
 msgid "{2}"
 msgstr ""
@@ -296,7 +298,7 @@ msgid "Lightning Bolt deals 3 damage to any target."
 msgstr ""
 
 #: ../../CLB.rst:38
-msgid ":mtgtip:`Wand of Wonder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/f/df67ec01-9d4c-4ae1-9c8a-f94d649c81bc.jpg?1648156214|https://scryfall.com/card/clb/204/wand-of-wonder?utm_source=api>`"
+msgid ":mtgtip:`Wand of Wonder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/f/df67ec01-9d4c-4ae1-9c8a-f94d649c81bc.jpg?1652260041|https://scryfall.com/card/clb/204/wand-of-wonder?utm_source=api>`"
 msgstr ""
 
 #: ../../CLB.rst:31
@@ -336,69 +338,81 @@ msgid "Minsc & Boo, Timeless Heroes can be your commander."
 msgstr ""
 
 #: ../../CLB.rst:54
-msgid ":mtgtip:`Bountiful Promenade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/1/5125a8d8-344d-4419-b37a-ddf343493c5f.jpg?1648155250|https://scryfall.com/card/clb/348/bountiful-promenade?utm_source=api>`"
+msgid ":mtgtip:`Zevlor, Elturel Exile<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/1/d1e51138-9745-465d-84dd-27605f8a2264.jpg?1652300325|https://scryfall.com/card/clb/296/zevlor-elturel-exile?utm_source=api>`"
 msgstr ""
 
 #: ../../CLB.rst:51
-msgid "Bountiful Promenade enters the battlefield tapped unless you have two or more opponents."
+msgid "Haste"
 msgstr ""
 
 #: ../../CLB.rst:53
-msgid "|tap|: Add |mana_g| or |mana_w|."
+msgid "|mana_2|, |tap|: When you next cast an instant or sorcery spell that targets only a single opponent or a single permanent an opponent controls this turn, for each other opponent, choose that player or a permanent they control, copy that spell, and the copy targets the chosen player or permanent."
 msgstr ""
 
 #: ../../CLB.rst:60
-msgid ":mtgtip:`Luxury Suite<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/f/6fc5fc38-4054-4663-9061-df5455788c4a.jpg?1648155289|https://scryfall.com/card/clb/355/luxury-suite?utm_source=api>`"
+msgid ":mtgtip:`Bountiful Promenade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/1/5125a8d8-344d-4419-b37a-ddf343493c5f.jpg?1648155250|https://scryfall.com/card/clb/348/bountiful-promenade?utm_source=api>`"
 msgstr ""
 
 #: ../../CLB.rst:57
-msgid "Luxury Suite enters the battlefield tapped unless you have two or more opponents."
+msgid "Bountiful Promenade enters the battlefield tapped unless you have two or more opponents."
 msgstr ""
 
 #: ../../CLB.rst:59
-msgid "|tap|: Add |mana_b| or |mana_r|."
+msgid "|tap|: Add |mana_g| or |mana_w|."
 msgstr ""
 
 #: ../../CLB.rst:66
-msgid ":mtgtip:`Morphic Pool<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/8/48e40927-dd87-42ed-b805-0ae8ba81f5fb.jpg?1648155391|https://scryfall.com/card/clb/357/morphic-pool?utm_source=api>`"
+msgid ":mtgtip:`Luxury Suite<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/f/6fc5fc38-4054-4663-9061-df5455788c4a.jpg?1648155289|https://scryfall.com/card/clb/355/luxury-suite?utm_source=api>`"
 msgstr ""
 
 #: ../../CLB.rst:63
-msgid "Morphic Pool enters the battlefield tapped unless you have two or more opponents."
+msgid "Luxury Suite enters the battlefield tapped unless you have two or more opponents."
 msgstr ""
 
 #: ../../CLB.rst:65
-msgid "|tap|: Add |mana_u| or |mana_b|."
+msgid "|tap|: Add |mana_b| or |mana_r|."
 msgstr ""
 
-#: ../../CLB.rst:70
-msgid ":mtgtip:`Reflecting Pool<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/8/18a1b3f5-473d-45ca-be0d-e67e77ba30ce.jpg?1648155540|https://scryfall.com/card/clb/358/reflecting-pool?utm_source=api>`"
+#: ../../CLB.rst:72
+msgid ":mtgtip:`Morphic Pool<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/8/48e40927-dd87-42ed-b805-0ae8ba81f5fb.jpg?1648155391|https://scryfall.com/card/clb/357/morphic-pool?utm_source=api>`"
 msgstr ""
 
 #: ../../CLB.rst:69
-msgid "|tap|: Add one mana of any type that a land you control could produce."
+msgid "Morphic Pool enters the battlefield tapped unless you have two or more opponents."
+msgstr ""
+
+#: ../../CLB.rst:71
+msgid "|tap|: Add |mana_u| or |mana_b|."
 msgstr ""
 
 #: ../../CLB.rst:76
-msgid ":mtgtip:`Sea of Clouds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/4/d4fb722f-40af-4bd1-b660-e8186b98f233.jpg?1648155451|https://scryfall.com/card/clb/360/sea-of-clouds?utm_source=api>`"
-msgstr ""
-
-#: ../../CLB.rst:73
-msgid "Sea of Clouds enters the battlefield tapped unless you have two or more opponents."
+msgid ":mtgtip:`Reflecting Pool<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/8/18a1b3f5-473d-45ca-be0d-e67e77ba30ce.jpg?1648155540|https://scryfall.com/card/clb/358/reflecting-pool?utm_source=api>`"
 msgstr ""
 
 #: ../../CLB.rst:75
-msgid "|tap|: Add |mana_w| or |mana_u|."
+msgid "|tap|: Add one mana of any type that a land you control could produce."
 msgstr ""
 
-#: ../../CLB.rst:81
-msgid ":mtgtip:`Spire Garden<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/72aed540-7833-4442-90a9-aa5468014c65.jpg?1648155497|https://scryfall.com/card/clb/361/spire-garden?utm_source=api>`"
+#: ../../CLB.rst:82
+msgid ":mtgtip:`Sea of Clouds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/4/d4fb722f-40af-4bd1-b660-e8186b98f233.jpg?1648155451|https://scryfall.com/card/clb/360/sea-of-clouds?utm_source=api>`"
 msgstr ""
 
 #: ../../CLB.rst:79
-msgid "Spire Garden enters the battlefield tapped unless you have two or more opponents."
+msgid "Sea of Clouds enters the battlefield tapped unless you have two or more opponents."
 msgstr ""
 
 #: ../../CLB.rst:81
+msgid "|tap|: Add |mana_w| or |mana_u|."
+msgstr ""
+
+#: ../../CLB.rst:87
+msgid ":mtgtip:`Spire Garden<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/72aed540-7833-4442-90a9-aa5468014c65.jpg?1648155497|https://scryfall.com/card/clb/361/spire-garden?utm_source=api>`"
+msgstr ""
+
+#: ../../CLB.rst:85
+msgid "Spire Garden enters the battlefield tapped unless you have two or more opponents."
+msgstr ""
+
+#: ../../CLB.rst:87
 msgid "|tap|: Add |mana_r| or |mana_g|."
 msgstr ""

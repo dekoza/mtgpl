@@ -805,7 +805,7 @@
    When Nezumi Prowler enters the battlefield, target creature you control gains deathtouch and lifelink until end of turn.
 
 
-:mtgtip:`Okiba Reckoner Raid<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/f/4f0582b4-d951-4450-b158-4a34109e48cd.jpg?1643759759|https://scryfall.com/card/neo/117/okiba-reckoner-raid-nezumi-road-captain?utm_source=api>`
+:mtgtip:`Okiba Reckoner Raid<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/f/4f0582b4-d951-4450-b158-4a34109e48cd.jpg?1651301335|https://scryfall.com/card/neo/117/okiba-reckoner-raid-nezumi-road-captain?utm_source=api>`
    (As this Saga enters and after your draw step, add a lore counter.)
 
    I, II — Each opponent loses 1 life and you gain 1 life.
@@ -813,10 +813,10 @@
    III — Exile this Saga, then return it to the battlefield transformed under your control.
 
 
-:mtgtip:`Nezumi Road Captain<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/4/f/4f0582b4-d951-4450-b158-4a34109e48cd.jpg?1643759759|https://scryfall.com/card/neo/117/okiba-reckoner-raid-nezumi-road-captain?utm_source=api>`
+:mtgtip:`Nezumi Road Captain<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/4/f/4f0582b4-d951-4450-b158-4a34109e48cd.jpg?1651301335|https://scryfall.com/card/neo/117/okiba-reckoner-raid-nezumi-road-captain?utm_source=api>`
    Menace
 
-   Vehicles you control have menace. (This creature can't be blocked except by two or more creatures.)
+   Vehicles you control have menace. (They can't be blocked except by two or more creatures.)
 
 
 :mtgtip:`Okiba Salvage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/9/d9e4485d-c208-46b4-9b5d-48e55e2ee182.jpg?1644032506|https://scryfall.com/card/neo/118/okiba-salvage?utm_source=api>`

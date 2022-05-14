@@ -27,7 +27,7 @@
    Lightning Bolt deals 3 damage to any target.
 
 
-:mtgtip:`Wand of Wonder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/f/df67ec01-9d4c-4ae1-9c8a-f94d649c81bc.jpg?1648156214|https://scryfall.com/card/clb/204/wand-of-wonder?utm_source=api>`
+:mtgtip:`Wand of Wonder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/f/df67ec01-9d4c-4ae1-9c8a-f94d649c81bc.jpg?1652260041|https://scryfall.com/card/clb/204/wand-of-wonder?utm_source=api>`
    |mana_4|, |tap|: Roll a d20. Each opponent exiles cards from the top of their library until they exile an instant or sorcery card, then shuffles the rest into their library. You may cast up to X instant and/or sorcery spells from among cards exiled this way without paying their mana costs.
 
    1-9 | X is one
@@ -45,6 +45,12 @@
    −2: Sacrifice a creature. When you do, Minsc & Boo, Timeless Heroes deals X damage to any target, where X is that creature's power. If the sacrificed creature was a Hamster, draw X cards.
 
    Minsc & Boo, Timeless Heroes can be your commander.
+
+
+:mtgtip:`Zevlor, Elturel Exile<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/1/d1e51138-9745-465d-84dd-27605f8a2264.jpg?1652300325|https://scryfall.com/card/clb/296/zevlor-elturel-exile?utm_source=api>`
+   Haste
+
+   |mana_2|, |tap|: When you next cast an instant or sorcery spell that targets only a single opponent or a single permanent an opponent controls this turn, for each other opponent, choose that player or a permanent they control, copy that spell, and the copy targets the chosen player or permanent.
 
 
 :mtgtip:`Bountiful Promenade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/1/5125a8d8-344d-4419-b37a-ddf343493c5f.jpg?1648155250|https://scryfall.com/card/clb/348/bountiful-promenade?utm_source=api>`
