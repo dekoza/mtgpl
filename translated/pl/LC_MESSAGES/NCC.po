@@ -1,20 +1,22 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2013-2022, Dominik Kozaczko
 # This file is distributed under the same license as the MTG-pl package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-#, fuzzy
+# Weblate Admin <weblate-admin@kozaczko.info>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2022.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-14 18:07+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-05-15 00:03+0000\n"
+"Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
+"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ncc/pl/>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.12.1\n"
 
 #: ../../symbols.rst:3
 #: ../../symbols.rst:3
@@ -738,6 +740,8 @@ msgstr ""
 #: ../../NCC.rst:25
 msgid "When Kitt Kanto enters the battlefield, create a 1/1 green and white Citizen creature token."
 msgstr ""
+"Kidy ten byt wejdzie na pole bitwy, stwórz żeton zielono-białego stwora "
+"Mieszczanin 1/1."
 
 #: ../../NCC.rst:27
 msgid "At the beginning of combat on each player's turn, you may tap two untapped creatures you control. When you do, target creature that player controls gets +2/+2 and gains trample until end of turn. Goad that creature."
