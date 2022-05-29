@@ -12,6 +12,7 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -20,7 +21,6 @@ msgstr ""
 msgid "{C}"
 msgstr ""
 
-#: ../../symbols.rst:5
 #: ../../symbols.rst:5
 msgid "{T}"
 msgstr ""
@@ -33,7 +33,6 @@ msgstr ""
 msgid "{U}"
 msgstr ""
 
-#: ../../symbols.rst:11
 #: ../../symbols.rst:11
 msgid "{W}"
 msgstr ""
@@ -235,7 +234,11 @@ msgid ":mtgexp:`2X2` Double Masters 2022"
 msgstr ""
 
 #: ../../2X2.rst:14
-msgid ":mtgtip:`Kozilek, Butcher of Truth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/2/d27cf7b7-7982-46bd-a559-7789c0e74bae.jpg?1652387000|https://scryfall.com/card/2x2/2/kozilek-butcher-of-truth?utm_source=api>`"
+msgid ""
+":mtgtip:`Kozilek, Butcher of Truth<https://c1.scryfall.com/file/scryfall-"
+"cards/border_crop/front/d/2/d27cf7b7-7982-46bd-a559-7789c0e74bae.jpg?"
+"1652387000|https://scryfall.com/card/2x2/2/kozilek-butcher-of-truth?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../2X2.rst:9
@@ -243,23 +246,36 @@ msgid "When you cast this spell, draw four cards."
 msgstr ""
 
 #: ../../2X2.rst:11
-msgid "Annihilator 4 (Whenever this creature attacks, defending player sacrifices four permanents.)"
+msgid ""
+"Annihilator 4 (Whenever this creature attacks, defending player sacrifices "
+"four permanents.)"
 msgstr ""
 
 #: ../../2X2.rst:13
-msgid "When Kozilek, Butcher of Truth is put into a graveyard from anywhere, its owner shuffles their graveyard into their library."
+msgid ""
+"When Kozilek, Butcher of Truth is put into a graveyard from anywhere, its "
+"owner shuffles their graveyard into their library."
 msgstr ""
 
 #: ../../2X2.rst:18
-msgid ":mtgtip:`Weathered Wayfarer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/09656d96-c366-49ec-b687-cad903de1385.jpg?1652387247|https://scryfall.com/card/2x2/34/weathered-wayfarer?utm_source=api>`"
+msgid ""
+":mtgtip:`Weathered Wayfarer<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/0/9/09656d96-c366-49ec-b687-cad903de1385.jpg?1652387247|"
+"https://scryfall.com/card/2x2/34/weathered-wayfarer?utm_source=api>`"
 msgstr ""
 
 #: ../../2X2.rst:17
-msgid "|mana_w|, |tap|: Search your library for a land card, reveal it, put it into your hand, then shuffle. Activate only if an opponent controls more lands than you."
+msgid ""
+"|mana_w|, |tap|: Search your library for a land card, reveal it, put it into "
+"your hand, then shuffle. Activate only if an opponent controls more lands "
+"than you."
 msgstr ""
 
 #: ../../2X2.rst:26
-msgid ":mtgtip:`Liliana, the Last Hope<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/7/f7ae5085-0d0d-4d7d-80a3-614315a07de5.jpg?1652387032|https://scryfall.com/card/2x2/81/liliana-the-last-hope?utm_source=api>`"
+msgid ""
+":mtgtip:`Liliana, the Last Hope<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/f/7/f7ae5085-0d0d-4d7d-80a3-614315a07de5.jpg?1652387032|"
+"https://scryfall.com/card/2x2/81/liliana-the-last-hope?utm_source=api>`"
 msgstr ""
 
 #: ../../2X2.rst:21
@@ -267,23 +283,38 @@ msgid "+1: Up to one target creature gets -2/-1 until your next turn."
 msgstr ""
 
 #: ../../2X2.rst:23
-msgid "−2: Mill two cards, then you may return a creature card from your graveyard to your hand."
+msgid ""
+"−2: Mill two cards, then you may return a creature card from your graveyard "
+"to your hand."
 msgstr ""
 
 #: ../../2X2.rst:25
-msgid "−7: You get an emblem with \"At the beginning of your end step, create X 2/2 black Zombie creature tokens, where X is two plus the number of Zombies you control.\""
+msgid ""
+"−7: You get an emblem with \"At the beginning of your end step, create X 2/2 "
+"black Zombie creature tokens, where X is two plus the number of Zombies you "
+"control.\""
 msgstr ""
 
 #: ../../2X2.rst:30
-msgid ":mtgtip:`Bring to Light<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/3/e3399260-a81a-475c-9b87-1efb1a13f8d6.jpg?1652387230|https://scryfall.com/card/2x2/188/bring-to-light?utm_source=api>`"
+msgid ""
+":mtgtip:`Bring to Light<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/e/3/e3399260-a81a-475c-9b87-1efb1a13f8d6.jpg?1652387230|"
+"https://scryfall.com/card/2x2/188/bring-to-light?utm_source=api>`"
 msgstr ""
 
 #: ../../2X2.rst:29
-msgid "Converge — Search your library for a creature, instant, or sorcery card with mana value less than or equal to the number of colors of mana spent to cast this spell, exile that card, then shuffle. You may cast that card without paying its mana cost."
+msgid ""
+"Converge — Search your library for a creature, instant, or sorcery card with "
+"mana value less than or equal to the number of colors of mana spent to cast "
+"this spell, exile that card, then shuffle. You may cast that card without "
+"paying its mana cost."
 msgstr ""
 
 #: ../../2X2.rst:37
-msgid ":mtgtip:`Wrenn and Six<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5bd498cc-a609-4457-9325-6888d59ca36f.jpg?1652387050|https://scryfall.com/card/2x2/296/wrenn-and-six?utm_source=api>`"
+msgid ""
+":mtgtip:`Wrenn and Six<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/5/b/5bd498cc-a609-4457-9325-6888d59ca36f.jpg?1652387050|"
+"https://scryfall.com/card/2x2/296/wrenn-and-six?utm_source=api>`"
 msgstr ""
 
 #: ../../2X2.rst:33
@@ -295,5 +326,8 @@ msgid "−1: Wrenn and Six deals 1 damage to any target."
 msgstr ""
 
 #: ../../2X2.rst:37
-msgid "−7: You get an emblem with \"Instant and sorcery cards in your graveyard have retrace.\" (You may cast instant and sorcery cards from your graveyard by discarding a land card in addition to paying their other costs.)"
+msgid ""
+"−7: You get an emblem with \"Instant and sorcery cards in your graveyard "
+"have retrace.\" (You may cast instant and sorcery cards from your graveyard "
+"by discarding a land card in addition to paying their other costs.)"
 msgstr ""
