@@ -316,7 +316,7 @@
 .. |2XM_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |40K_percent| image:: images/pie90.png        
+.. |40K_percent| image:: images/pie95.png        
 
 .. |ZNC_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
