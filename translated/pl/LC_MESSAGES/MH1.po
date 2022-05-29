@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-29 18:35+0200\n"
-"PO-Revision-Date: 2022-04-17 16:43+0000\n"
+"PO-Revision-Date: 2022-05-29 17:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mh1/pl/>\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.10.1\n"
+"X-Generator: Weblate 4.12.1\n"
 
 #: ../../symbols.rst:3
 msgid "{C}"
@@ -1663,25 +1663,18 @@ msgid ""
 msgstr ""
 
 #: ../../MH1.rst:455
-#, fuzzy
-#| msgid ""
-#| "Hideaway (This creature enters the battlefield tapped. When it does, look "
-#| "at the top four cards of your library, exile one face down, then put the "
-#| "rest on the bottom of your library.)"
 msgid ""
 "Hideaway 4 (When this creature enters the battlefield, look at the top four "
 "cards of your library, exile one face down, then put the rest on the bottom "
 "in a random order.)"
 msgstr ""
-"Kryjówka (Ten stwór wchodzi na pole bitwy przekręcony. Kiedy wejdzie, spójrz "
-"na cztery wierzchnie karty twojej biblioteki, wygnaj jedną z nich zakrytą, "
-"po czym umieść pozostałe na spodzie twojej biblioteki.)"
+"Kryjówka 4 (Kiedy ten byt wejdzie na pole bitwy, spójrz na cztery wierzchnie "
+"karty twojej biblioteki, wygnaj jedną zakrytą, po czym umieść pozostałe "
+"losowo na spodzie.)"
 
 #: ../../MH1.rst:457
-#, fuzzy
-#| msgid "Barren Moor enters the battlefield tapped."
 msgid "Watcher for Tomorrow enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../MH1.rst:459
 msgid ""

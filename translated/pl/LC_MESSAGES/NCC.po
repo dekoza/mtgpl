@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2022.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-29 18:35+0200\n"
-"PO-Revision-Date: 2022-05-29 08:43+0000\n"
+"PO-Revision-Date: 2022-05-29 17:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ncc/pl/>\n"
 "Language: pl\n"
@@ -5148,6 +5148,9 @@ msgid ""
 "paying its mana cost. If that spell would be put into a graveyard, exile it "
 "instead."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, możesz rzucić wskazaną "
+"kartę sztuczki lub obrzędu z cmentarza owego gracza bez płacenia jej kosztu "
+"many. Jeśli ów czar miałby trafić do cmentarza, zamiast tego wygnaj ją."
 
 #: ../../NCC.rst:1540
 msgid ""
@@ -5247,8 +5250,8 @@ msgid ""
 "Multikicker |mana_2| (You may pay an additional |mana_2| any number of times "
 "as you cast this spell.)"
 msgstr ""
-"Wielopodbicie |mana_2| (Rzucając ten czar możesz dodatkowo zapłacić "
-"wielokrotność |mana_2|.)"
+"Wielopodbicie |mana_2| (Rzucając ten czar możesz zapłacić dodatkowo |mana_2| "
+"dowolną liczbę razy.)"
 
 #: ../../NCC.rst:1569
 msgid ""
@@ -6098,10 +6101,13 @@ msgid ""
 "cards of your library, exile one face down, then put the rest on the bottom "
 "in a random order.)"
 msgstr ""
+"Kryjówka 4 (Kiedy ten byt wejdzie na pole bitwy, spójrz na cztery wierzchnie "
+"karty twojej biblioteki, wygnaj jedną zakrytą, po czym umieść pozostałe "
+"losowo na spodzie.)"
 
 #: ../../NCC.rst:1857
 msgid "Mosswort Bridge enters the battlefield tapped."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../NCC.rst:1861
 msgid ""
@@ -6324,7 +6330,7 @@ msgstr ""
 
 #: ../../NCC.rst:1943
 msgid "Spinerock Knoll enters the battlefield tapped."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../NCC.rst:1947
 msgid ""
@@ -6652,7 +6658,7 @@ msgstr ""
 
 #: ../../NCC.rst:2077
 msgid "Windbrisk Heights enters the battlefield tapped."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../NCC.rst:2081
 msgid ""

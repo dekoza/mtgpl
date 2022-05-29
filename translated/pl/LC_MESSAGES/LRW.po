@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-29 18:35+0200\n"
-"PO-Revision-Date: 2022-04-24 19:45+0000\n"
+"PO-Revision-Date: 2022-05-29 17:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/lrw/pl/>\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.10.1\n"
+"X-Generator: Weblate 4.12.1\n"
 
 #: ../../symbols.rst:3
 msgid "{C}"
@@ -4397,25 +4397,18 @@ msgstr ""
 
 #: ../../LRW.rst:1481 ../../LRW.rst:1491 ../../LRW.rst:1507 ../../LRW.rst:1523
 #: ../../LRW.rst:1579
-#, fuzzy
-#| msgid ""
-#| "Hideaway (This land enters the battlefield tapped. When it does, look at "
-#| "the top four cards of your library, exile one face down, then put the "
-#| "rest on the bottom of your library.)"
 msgid ""
 "Hideaway 4 (When this land enters the battlefield, look at the top four "
 "cards of your library, exile one face down, then put the rest on the bottom "
 "in a random order.)"
 msgstr ""
-"Kryjówka (Kiedy ten byt wejdzie na pole bitwy, spójrz na cztery wierzchnie "
-"karty twojej biblioteki, wygnaj jedną zakrytą, po czym umieść pozostałe na "
-"spodzie twojej biblioteki.)"
+"Kryjówka 4 (Kiedy ten byt wejdzie na pole bitwy, spójrz na cztery wierzchnie "
+"karty twojej biblioteki, wygnaj jedną zakrytą, po czym umieść pozostałe "
+"losowo na spodzie.)"
 
 #: ../../LRW.rst:1483
-#, fuzzy
-#| msgid "When Mulldrifter enters the battlefield, draw two cards."
 msgid "Howltooth Hollow enters the battlefield tapped."
-msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz dwie karty."
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../LRW.rst:1485 ../../LRW.rst:1559
 msgid "|tap|: Add |mana_b|."
@@ -4435,10 +4428,8 @@ msgid ""
 msgstr ""
 
 #: ../../LRW.rst:1493
-#, fuzzy
-#| msgid "When Faultgrinder enters the battlefield, destroy target land."
 msgid "Mosswort Bridge enters the battlefield tapped."
-msgstr "Kiedy ten byt wejdzie na pole bitwy, zniszcz wskazany ląd."
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../LRW.rst:1497
 msgid ""
@@ -4473,10 +4464,8 @@ msgid ""
 msgstr ""
 
 #: ../../LRW.rst:1509
-#, fuzzy
-#| msgid "When Mulldrifter enters the battlefield, draw two cards."
 msgid "Shelldock Isle enters the battlefield tapped."
-msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz dwie karty."
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../LRW.rst:1511 ../../LRW.rst:1543
 msgid "|tap|: Add |mana_u|."
@@ -4511,10 +4500,8 @@ msgid ""
 msgstr ""
 
 #: ../../LRW.rst:1525
-#, fuzzy
-#| msgid "When Silvergill Adept enters the battlefield, draw a card."
 msgid "Spinerock Knoll enters the battlefield tapped."
-msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../LRW.rst:1527 ../../LRW.rst:1535
 msgid "|tap|: Add |mana_r|."
@@ -4647,10 +4634,8 @@ msgid ""
 msgstr ""
 
 #: ../../LRW.rst:1581
-#, fuzzy
-#| msgid "When Mulldrifter enters the battlefield, draw two cards."
 msgid "Windbrisk Heights enters the battlefield tapped."
-msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz dwie karty."
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../LRW.rst:1585
 msgid ""

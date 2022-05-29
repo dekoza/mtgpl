@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-29 18:35+0200\n"
-"PO-Revision-Date: 2022-04-18 17:53+0000\n"
+"PO-Revision-Date: 2022-05-29 17:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/gtc/pl/>\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.10.1\n"
+"X-Generator: Weblate 4.12.1\n"
 "X-POOTLE-MTIME: 1385404109.643633\n"
 
 #: ../../symbols.rst:3
@@ -812,12 +812,6 @@ msgstr ""
 
 # 46da0f0c1dc546229c6dcbfe6f04e3e7
 #: ../../GTC.rst:175
-#, fuzzy
-#| msgid ""
-#| "When Diluvian Primordial enters the battlefield, for each opponent, you "
-#| "may cast up to one target instant or sorcery card from that player's "
-#| "graveyard without paying its mana cost. If a spell cast this way would be "
-#| "put into a graveyard this turn, exile it instead."
 msgid ""
 "When Diluvian Primordial enters the battlefield, for each opponent, you may "
 "cast up to one target instant or sorcery card from that player's graveyard "
@@ -827,7 +821,7 @@ msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, za każdego przeciwnika możesz rzucić co "
 "najwyżej jedną kartę sztuczki lub obrzędu z cmentarza owego gracza bez "
 "płacenia jej kosztu many. Jeśli czar rzucony w ten sposób miałby trafić do "
-"cmentarza w tej turze, zamiast tego wygnaj go."
+"cmentarza, zamiast tego wygnaj go."
 
 #: ../../GTC.rst:180
 msgid ""

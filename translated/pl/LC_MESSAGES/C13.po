@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-29 18:35+0200\n"
-"PO-Revision-Date: 2022-04-24 18:17+0000\n"
+"PO-Revision-Date: 2022-05-29 17:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c13/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.10.1\n"
+"X-Generator: Weblate 4.12.1\n"
 "X-POOTLE-MTIME: 1391098867.903162\n"
 
 #: ../../symbols.rst:3
@@ -5829,26 +5829,19 @@ msgstr ""
 
 # a7039e623a5b4d77bd30b759b9a444bf
 #: ../../C13.rst:1783
-#, fuzzy
-#| msgid ""
-#| "Hideaway (This land enters the battlefield tapped. When it does, look at "
-#| "the top four cards of your library, exile one face down, then put the "
-#| "rest on the bottom of your library.)"
 msgid ""
 "Hideaway 4 (When this land enters the battlefield, look at the top four "
 "cards of your library, exile one face down, then put the rest on the bottom "
 "in a random order.)"
 msgstr ""
-"Kryjówka (Kiedy ten byt wejdzie na pole bitwy, spójrz na cztery wierzchnie "
-"karty twojej biblioteki, wygnaj jedną zakrytą, po czym umieść pozostałe na "
-"spodzie twojej biblioteki.)"
+"Kryjówka 4 (Kiedy ten byt wejdzie na pole bitwy, spójrz na cztery wierzchnie "
+"karty twojej biblioteki, wygnaj jedną zakrytą, po czym umieść pozostałe "
+"losowo na spodzie.)"
 
 # b99cb41aba1440609c1feeeefd8303b1
 #: ../../C13.rst:1785
-#, fuzzy
-#| msgid "Boros Guildgate enters the battlefield tapped."
 msgid "Mosswort Bridge enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 # 47decf1eb5f544af91319816398973ae
 #: ../../C13.rst:1789

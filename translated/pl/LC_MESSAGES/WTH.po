@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-29 18:35+0200\n"
-"PO-Revision-Date: 2022-04-18 22:02+0000\n"
+"PO-Revision-Date: 2022-05-29 17:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/wth/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.10.1\n"
+"X-Generator: Weblate 4.12.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../symbols.rst:3
@@ -893,19 +893,14 @@ msgid ""
 msgstr ""
 
 #: ../../WTH.rst:245
-#, fuzzy
-#| msgid ""
-#| "When Veteran Explorer dies, each player may search their library for up "
-#| "to two basic land cards and put them onto the battlefield. Then each "
-#| "player who searched their library this way shuffles it."
 msgid ""
 "When Noble Benefactor dies, each player may search their library for a card "
 "and put that card into their hand. Then each player who searched their "
 "library this way shuffles."
 msgstr ""
-"Kiedy ten stwór umrze, każdy gracz może wyszukać w swojej bibliotece co "
-"najwyżej dwie karty bazowych lądów i umieścić je na polu bitwy. Następnie "
-"każdy gracz, który przeszukał swoją bibliotekę, tasuje ją."
+"Kiedy ten stwór umrze, każdy gracz może wyszukać w swojej bibliotece kartę i "
+"umieścić ową kartę w swojej ręce. Następnie każdy gracz, który przeszukał w "
+"ten sposób swoją bibliotekę, tasuje."
 
 #: ../../WTH.rst:250
 msgid ""
@@ -1495,17 +1490,13 @@ msgid ""
 msgstr ""
 
 #: ../../WTH.rst:453
-#, fuzzy
-#| msgid ""
-#| "At the beginning of your upkeep, destroy all artifacts and enchantments. "
-#| "They can't be regenerated."
 msgid ""
 "At the beginning of your draw step, destroy each creature with mana value "
 "equal to the number of age counters on Wave of Terror. They can't be "
 "regenerated."
 msgstr ""
-"Na początku twojego kroku utrzymania, zniszcz wszystkie artefakty i uroki. "
-"Nie mogą one regenerować."
+"Na początku twojego kroku dobierania, zniszcz każdego stwora o skrócie "
+"równym liczbie znaczników wieku na niniejszym. Nie mogą one regenerować."
 
 #: ../../WTH.rst:458
 msgid ""

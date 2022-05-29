@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-29 18:35+0200\n"
-"PO-Revision-Date: 2022-04-17 16:43+0000\n"
+"PO-Revision-Date: 2022-05-29 17:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ori/pl/>\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.10.1\n"
+"X-Generator: Weblate 4.12.1\n"
 
 #: ../../symbols.rst:3
 msgid "{C}"
@@ -1259,18 +1259,13 @@ msgstr ""
 "+1: Co najwyżej jeden wskazany stwór dostaje do twojej następnej tury -2/-0."
 
 #: ../../ORI.rst:345
-#, fuzzy
-#| msgid ""
-#| "−3: You may cast target instant or sorcery card from your graveyard this "
-#| "turn. If that spell would be put into your graveyard this turn, exile it "
-#| "instead."
 msgid ""
 "−3: You may cast target instant or sorcery card from your graveyard this "
 "turn. If that spell would be put into your graveyard, exile it instead."
 msgstr ""
 "–3: Możesz w tej turze rzucić wskazaną kartę sztuczki lub obrzędu z twojego "
-"cmentarza. Jeśli ów czar miałby zostać umieszczony w twoim cmentarzu w tej "
-"turze, zamiast tego wygnaj go."
+"cmentarza. Jeśli ów czar miałby zostać umieszczony w twoim cmentarzu, "
+"zamiast tego wygnaj go."
 
 #: ../../ORI.rst:347
 msgid ""

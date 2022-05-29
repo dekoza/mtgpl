@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-29 18:35+0200\n"
-"PO-Revision-Date: 2022-04-18 15:30+0000\n"
+"PO-Revision-Date: 2022-05-29 17:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c18/pl/>\n"
 "Language: pl\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.10.1\n"
+"X-Generator: Weblate 4.12.1\n"
 
 #: ../../symbols.rst:3
 msgid "{C}"
@@ -5111,25 +5111,18 @@ msgid ""
 msgstr ""
 
 #: ../../C18.rst:1605
-#, fuzzy
-#| msgid ""
-#| "Hideaway (This land enters the battlefield tapped. When it does, look at "
-#| "the top four cards of your library, exile one face down, then put the "
-#| "rest on the bottom of your library.)"
 msgid ""
 "Hideaway 4 (When this land enters the battlefield, look at the top four "
 "cards of your library, exile one face down, then put the rest on the bottom "
 "in a random order.)"
 msgstr ""
-"Kryjówka (Kiedy ten byt wejdzie na pole bitwy, spójrz na cztery wierzchnie "
-"karty twojej biblioteki, wygnaj jedną zakrytą, po czym umieść pozostałe na "
-"spodzie twojej biblioteki.)"
+"Kryjówka 4 (Kiedy ten byt wejdzie na pole bitwy, spójrz na cztery wierzchnie "
+"karty twojej biblioteki, wygnaj jedną zakrytą, po czym umieść pozostałe "
+"losowo na spodzie.)"
 
 #: ../../C18.rst:1607
-#, fuzzy
-#| msgid "Mortuary Mire enters the battlefield tapped."
 msgid "Mosswort Bridge enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../C18.rst:1611
 msgid ""
