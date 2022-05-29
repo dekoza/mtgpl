@@ -20,7 +20,7 @@
 
 
 :mtgtip:`Boon of Safety<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/0/2069310a-9fb6-41b7-bbd5-849e3df05632.jpg?1650029941|https://scryfall.com/card/snc/4/boon-of-safety?utm_source=api>`
-   Put a shield counter on target creature. (If that creature would be dealt damage or destroyed, remove a shield counter from it instead.)
+   Put a shield counter on target creature. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)
 
    Scry 1.
 
@@ -204,7 +204,7 @@
 
 
 :mtgtip:`Brokers Veteran<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9d4a54bd-5598-4313-b5e6-29fd38da016a.jpg?1650023916|https://scryfall.com/card/snc/36/brokers-veteran?utm_source=api>`
-   When Brokers Veteran dies, put a shield counter on target creature you control. (If that creature would be dealt damage or destroyed, remove a shield counter from it instead.)
+   When Brokers Veteran dies, put a shield counter on target creature you control. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)
 
 
 :mtgtip:`Case the Joint<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/f/0f9edf04-681d-45f9-975f-704154040506.jpg?1649943538|https://scryfall.com/card/snc/37/case-the-joint?utm_source=api>`
@@ -212,7 +212,7 @@
 
 
 :mtgtip:`Cut Your Losses<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/1/31184dd0-4080-44c1-a3e0-f6d10a4d1fcb.jpg?1649471806|https://scryfall.com/card/snc/38/cut-your-losses?utm_source=api>`
-   Casualty 2 (As you cast this spell, you may sacrifice a creature with power 2 or greater. When you do, copy this spell and you may choose new targets for the copy.)
+   Casualty 2 (As you cast this spell, you may sacrifice a creature with power 2 or greater. When you do, copy this spell and you may choose a new target for the copy.)
 
    Target player mills half their library, rounded down.
 
@@ -276,7 +276,7 @@
 
 
 :mtgtip:`Make Disappear<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/f/3f2d6a21-ea77-484b-9e3a-1bd49806f907.jpg?1649471769|https://scryfall.com/card/snc/49/make-disappear?utm_source=api>`
-   Casualty 1 (As you cast this spell, you may sacrifice a creature with power 1 or greater. When you do, copy this spell and you may choose new targets for the copy.)
+   Casualty 1 (As you cast this spell, you may sacrifice a creature with power 1 or greater. When you do, copy this spell and you may choose a new target for the copy.)
 
    Counter target spell unless its controller pays |mana_2|.
 
@@ -324,7 +324,7 @@
 
 
 :mtgtip:`Rooftop Nuisance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/7/d7a84781-b40c-41e0-a0b9-86e466c9b12d.jpg?1649698025|https://scryfall.com/card/snc/57/rooftop-nuisance?utm_source=api>`
-   Casualty 1 (As you cast this spell, you may sacrifice a creature with power 1 or greater. When you do, copy this spell and you may choose new targets for the copy.)
+   Casualty 1 (As you cast this spell, you may sacrifice a creature with power 1 or greater. When you do, copy this spell and you may choose a new target for the copy.)
 
    Tap target creature. It doesn't untap during its controller's next untap step.
 
@@ -428,9 +428,9 @@
 
 
 :mtgtip:`Dig Up the Body<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/0/902abe4d-5c19-4c96-b825-e6cd4d954a84.jpg?1650121042|https://scryfall.com/card/snc/76/dig-up-the-body?utm_source=api>`
-   Casualty 1 (As you cast this spell, you may sacrifice a creature with power 1 or greater. When you do, copy this spell and you may choose new targets for the copy.)
+   Casualty 1 (As you cast this spell, you may sacrifice a creature with power 1 or greater. When you do, copy this spell.)
 
-   Mill two cards, then you may return a creature card from your graveyard to your hand. (To mill a card, a player puts the top card of their library into their graveyard.)
+   Mill two cards, then you may return a creature card from your graveyard to your hand. (To mill a card, put the top card of your library into your graveyard.)
 
 
 :mtgtip:`Dusk Mangler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/8/b86825b2-5b03-4311-b7d9-f8131b17249d.jpg?1649935915|https://scryfall.com/card/snc/77/dusk-mangler?utm_source=api>`
@@ -464,13 +464,13 @@
 
 
 :mtgtip:`Grisly Sigil<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/3/6322e12d-b932-4ca1-a51d-e2a928140cc7.jpg?1649701945|https://scryfall.com/card/snc/82/grisly-sigil?utm_source=api>`
-   Casualty 1 (As you cast this spell, you may sacrifice a creature with power 1 or greater. When you do, copy this spell and you may choose new targets for the copy.)
+   Casualty 1 (As you cast this spell, you may sacrifice a creature with power 1 or greater. When you do, copy this spell and you may choose a new target for the copy.)
 
    Choose target creature or planeswalker. If it was dealt noncombat damage this turn, Grisly Sigil deals 3 damage to it and you gain 3 life. Otherwise, Grisly Sigil deals 1 damage to it and you gain 1 life.
 
 
 :mtgtip:`Illicit Shipment<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/f/1f7cced2-390b-499f-ace3-e52fd53d4712.jpg?1650121093|https://scryfall.com/card/snc/83/illicit-shipment?utm_source=api>`
-   Casualty 3 (As you cast this spell, you may sacrifice a creature with power 3 or greater. When you do, copy this spell and you may choose new targets for the copy.)
+   Casualty 3 (As you cast this spell, you may sacrifice a creature with power 3 or greater. When you do, copy this spell.)
 
    Search your library for a card, put it into your hand, then shuffle.
 
@@ -480,7 +480,7 @@
 
 
 :mtgtip:`Join the Maestros<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/f/ff2665f7-6cf8-4f9b-810e-17e264753225.jpg?1649471797|https://scryfall.com/card/snc/85/join-the-maestros?utm_source=api>`
-   Casualty 2 (As you cast this spell, you may sacrifice a creature with power 2 or greater. When you do, copy this spell and you may choose new targets for the copy.)
+   Casualty 2 (As you cast this spell, you may sacrifice a creature with power 2 or greater. When you do, copy this spell.)
 
    Create a 4/3 black Ogre Warrior creature token.
 
@@ -636,7 +636,7 @@
 
 
 :mtgtip:`Light 'Em Up<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/e/ee31d56a-9b7e-4de0-81cb-3b7c76b6fbd5.jpg?1649364797|https://scryfall.com/card/snc/113/light-em-up?utm_source=api>`
-   Casualty 2 (As you cast this spell, you may sacrifice a creature with power 2 or greater. When you do, copy this spell and you may choose new targets for the copy.)
+   Casualty 2 (As you cast this spell, you may sacrifice a creature with power 2 or greater. When you do, copy this spell and you may choose a new target for the copy.)
 
    Light 'Em Up deals 2 damage to target creature or planeswalker.
 
@@ -1068,7 +1068,7 @@
 
    Whenever Evelyn, the Covetous or another Vampire enters the battlefield under your control, exile the top card of each player's library with a collection counter on it.
 
-   Once each turn, you may play a card from exile with a collection counter on it if it was exiled by an ability you controlled, and you may spend mana as though it were any color to cast it.
+   Once each turn, you may play a card from exile with a collection counter on it if it was exiled by an ability you controlled, and you may spend mana as though it were mana of any color to cast it.
 
 
 :mtgtip:`Exotic Pets<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/0/902f1ed8-5c10-45e4-8f2f-182e800faab4.jpg?1649702356|https://scryfall.com/card/snc/185/exotic-pets?utm_source=api>`
@@ -1191,8 +1191,8 @@
    When Nimble Larcenist enters the battlefield, target opponent reveals their hand. You choose an artifact, instant, or sorcery card from it and exile that card.
 
 
-:mtgtip:`Ob Nixilis, the Adversary<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/0/80226520-6b0a-48ea-a868-a29eb3fbd403.jpg?1649366630|https://scryfall.com/card/snc/206/ob-nixilis-the-adversary?utm_source=api>`
-   Casualty X. The copy isn't legendary and has starting loyalty X. (As you cast this spell, you may sacrifice a creature with power X. When you do, copy this spell and you may choose new targets for the copy.)
+:mtgtip:`Ob Nixilis, the Adversary<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/0/80226520-6b0a-48ea-a868-a29eb3fbd403.jpg?1652142963|https://scryfall.com/card/snc/206/ob-nixilis-the-adversary?utm_source=api>`
+   Casualty X. The copy isn't legendary and has starting loyalty X. (As you cast this spell, you may sacrifice a creature with power X. When you do, copy this spell. The copy becomes a token.)
 
    +1: Each opponent loses 2 life unless they discard a card. If you control a Demon or Devil, you gain 2 life.
 
@@ -1329,12 +1329,12 @@
    Draw two cards. Then discard a card unless there are five or more mana values among cards in your graveyard.
 
 
-:mtgtip:`Toluz, Clever Conductor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/0/f01f12e0-f354-43aa-9e2d-b59a99571a5f.jpg?1649698834|https://scryfall.com/card/snc/228/toluz-clever-conductor?utm_source=api>`
+:mtgtip:`Toluz, Clever Conductor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/0/f01f12e0-f354-43aa-9e2d-b59a99571a5f.jpg?1650578083|https://scryfall.com/card/snc/228/toluz-clever-conductor?utm_source=api>`
    When Toluz, Clever Conductor enters the battlefield, it connives. (Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)
 
    Whenever you discard one or more cards, exile them from your graveyard.
 
-   When Toluz, Clever Conductor dies, put the cards exiled with it into their owner's hand.
+   When Toluz dies, put the cards exiled with it into their owner's hand.
 
 
 :mtgtip:`Unleash the Inferno<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/f/1f892607-8672-4013-86e6-0779d0b726de.jpg?1650275733|https://scryfall.com/card/snc/229/unleash-the-inferno?utm_source=api>`
@@ -1444,7 +1444,7 @@
 
 
 :mtgtip:`Suspicious Bookcase<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/c/fc574b42-e1bb-428f-a71f-bc3d7f5451da.jpg?1650121568|https://scryfall.com/card/snc/245/suspicious-bookcase?utm_source=api>`
-   Defender (This creature can't attack.)
+   Defender
 
    |mana_3|, |tap|: Target creature can't be blocked this turn.
 
@@ -1473,7 +1473,7 @@
    When Cabaretti Courtyard enters the battlefield, sacrifice it. When you do, search your library for a basic Mountain, Forest, or Plains card, put it onto the battlefield tapped, then shuffle and you gain 1 life.
 
 
-:mtgtip:`Jetmir's Garden<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/6/26d40e03-6de4-4373-9fbf-04c1dd79e995.jpg?1646591275|https://scryfall.com/card/snc/250/jetmirs-garden?utm_source=api>`
+:mtgtip:`Jetmir's Garden<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/6/26d40e03-6de4-4373-9fbf-04c1dd79e995.jpg?1651966183|https://scryfall.com/card/snc/250/jetmirs-garden?utm_source=api>`
    (|tap|: Add |mana_r|, |mana_g|, or |mana_w|.)
 
    Jetmir's Garden enters the battlefield tapped.
@@ -1497,7 +1497,7 @@
    |mana_2|\ |mana_r|\ |mana_g|, |tap|, Sacrifice Racers' Ring: Draw a card.
 
 
-:mtgtip:`Raffine's Tower<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/2/a2c56479-4bee-4edb-80d7-4af010b7c793.jpg?1646348981|https://scryfall.com/card/snc/254/raffines-tower?utm_source=api>`
+:mtgtip:`Raffine's Tower<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/2/a2c56479-4bee-4edb-80d7-4af010b7c793.jpg?1651966195|https://scryfall.com/card/snc/254/raffines-tower?utm_source=api>`
    (|tap|: Add |mana_w|, |mana_u|, or |mana_b|.)
 
    Raffine's Tower enters the battlefield tapped.
@@ -1517,7 +1517,7 @@
    |mana_2|\ |mana_w|\ |mana_u|, |tap|, Sacrifice Skybridge Towers: Draw a card.
 
 
-:mtgtip:`Spara's Headquarters<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/3/7363f1fb-9af3-4212-921f-d59533faf0e5.jpg?1646591264|https://scryfall.com/card/snc/257/sparas-headquarters?utm_source=api>`
+:mtgtip:`Spara's Headquarters<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/3/7363f1fb-9af3-4212-921f-d59533faf0e5.jpg?1651966200|https://scryfall.com/card/snc/257/sparas-headquarters?utm_source=api>`
    (|tap|: Add |mana_g|, |mana_w|, or |mana_u|.)
 
    Spara's Headquarters enters the battlefield tapped.
@@ -1541,7 +1541,7 @@
    |mana_2|\ |mana_u|\ |mana_b|, |tap|, Sacrifice Waterfront District: Draw a card.
 
 
-:mtgtip:`Xander's Lounge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/4/54f449ff-4025-465e-9ec5-a5cf42c4c9d3.jpg?1646591246|https://scryfall.com/card/snc/260/xanders-lounge?utm_source=api>`
+:mtgtip:`Xander's Lounge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/4/54f449ff-4025-465e-9ec5-a5cf42c4c9d3.jpg?1651966205|https://scryfall.com/card/snc/260/xanders-lounge?utm_source=api>`
    (|tap|: Add |mana_u|, |mana_b|, or |mana_r|.)
 
    Xander's Lounge enters the battlefield tapped.
@@ -1549,7 +1549,7 @@
    Cycling |mana_3| (|mana_3|, Discard this card: Draw a card.)
 
 
-:mtgtip:`Ziatora's Proving Ground<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/5/75fdce80-e338-4a50-bdc6-786511feaeef.jpg?1646591222|https://scryfall.com/card/snc/261/ziatoras-proving-ground?utm_source=api>`
+:mtgtip:`Ziatora's Proving Ground<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/5/75fdce80-e338-4a50-bdc6-786511feaeef.jpg?1651966210|https://scryfall.com/card/snc/261/ziatoras-proving-ground?utm_source=api>`
    (|tap|: Add |mana_b|, |mana_r|, or |mana_g|.)
 
    Ziatora's Proving Ground enters the battlefield tapped.

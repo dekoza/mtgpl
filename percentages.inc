@@ -1,8 +1,7 @@
 
-.. |CLB_percent| image:: images/pie80.png        
+.. |CLB_percent| image:: images/pie75.png        
 
-.. |M12_percent| image:: images/done.png        
-   :alt: Tłumaczenie zakończone
+.. |M12_percent| image:: images/pie95.png        
 
 .. |THB_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
@@ -40,6 +39,8 @@
 
 .. |AKH_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
+
+.. |NCC_percent| image:: images/pie05.png        
 
 .. |RIX_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
@@ -89,8 +90,7 @@
 .. |C19_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |M10_percent| image:: images/done.png        
-   :alt: Tłumaczenie zakończone
+.. |M10_percent| image:: images/pie95.png        
 
 .. |C21_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
@@ -146,8 +146,7 @@
 .. |JMP_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |ARB_percent| image:: images/done.png        
-   :alt: Tłumaczenie zakończone
+.. |ARB_percent| image:: images/pie95.png        
 
 .. |ALL_percent| image:: images/pie40.png        
 
@@ -218,8 +217,7 @@
 .. |9ED_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |ROE_percent| image:: images/done.png        
-   :alt: Tłumaczenie zakończone
+.. |ROE_percent| image:: images/pie95.png        
 
 .. |RTR_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
@@ -238,8 +236,7 @@
 .. |ZEN_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |AKR_percent| image:: images/done.png        
-   :alt: Tłumaczenie zakończone
+.. |AKR_percent| image:: images/pie95.png        
 
 .. |A25_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
@@ -389,8 +386,7 @@
 
 .. |NEM_percent| image:: images/pie45.png        
 
-.. |CNS_percent| image:: images/done.png        
-   :alt: Tłumaczenie zakończone
+.. |CNS_percent| image:: images/pie95.png        
 
 .. |ULG_percent| image:: images/pie60.png        
 

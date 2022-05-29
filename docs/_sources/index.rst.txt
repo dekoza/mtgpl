@@ -42,8 +42,12 @@ Tłumaczenie dodatków
 Nadchodzące
 -----------
 
-* :mtgexp:`SNC` :doc:`Streets of New Capenna<SNC>` Premiera: 2022-04-29
 * :mtgexp:`CLB` :doc:`Commander Legends: Battle for Baldur's Gate<CLB>` Premiera: 2022-06-10
+* :mtgexp:`2X2` :doc:`Double Master 2022<2X2>` Premiera: 2022-07
+* :mtgexp:`40K` :doc:`Warhammer 40,000 Commander<40K>` Premiera: 2022-08
+* :mtgexp:`DMU` :doc:`Dominaria United` Premiera: 2022-09
+* :mtgexp:`DMC` :doc:`Dominaria United Commander` Premiera: 2022-09
+
 
 Standard
 --------
@@ -51,6 +55,7 @@ Standard
 Format posiadający rotację - raz do roku część dodatków przestaje być legalna w tym formacie, by zrobić miejsce na kolejne. Dzięki temu pula kart ma przewidywalny rozmiar.
 Jest podzbiorem wszystkich innych formatów.
 
+* :mtgexp:`SNC` :doc:`Streets of New Capenna<SNC>` |SNC_percent|
 * :mtgexp:`NEO` :doc:`Kamigawa: Neon Dynasty<NEO>` |NEO_percent|
 * :mtgexp:`VOW` :doc:`Innistrad: Crimson Vow<VOW>` |VOW_percent|
 * :mtgexp:`MID` :doc:`Innistrad: Midnight Hunt<MID>` |MID_percent|

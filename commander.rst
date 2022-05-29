@@ -9,6 +9,7 @@ Commander
 
 Poniżej znajduje się lista dodatków do formatu Commander oraz produkty pokrewne (np. :mtgexp:`BBD` :doc:`Battlebond<BBD>`):
 
+* :mtgexp:`NCC` :doc:`Streets of New Capenna Commander<NCC>` |NCC_percent|
 * :mtgexp:`NEC` :doc:`Kamigawa: Neon Dynasty Commander<NEC>` |NEC_percent|
 * :mtgexp:`VOC` :doc:`Crimson Vow Commander<VOC>` |VOC_percent|
 * :mtgexp:`MIC` :doc:`Midnight Hunt Commander<MIC>` |MIC_percent|
