@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-14 18:07+0200\n"
+"POT-Creation-Date: 2022-05-29 18:35+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -1673,8 +1673,8 @@ msgstr ""
 #: ../../BOK.rst:509
 msgid ""
 "Whenever a creature an opponent controls dies, you may cast target instant "
-"card from your graveyard. If that spell would be put into a graveyard this "
-"turn, exile it instead."
+"card from your graveyard. If that spell would be put into a graveyard, exile "
+"it instead."
 msgstr ""
 
 #: ../../BOK.rst:514
@@ -1859,15 +1859,15 @@ msgstr ""
 msgid ""
 ":mtgtip:`Flames of the Blood Hand<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/a/7/a79701b4-d220-4c3e-b96c-7a77a22ba899.jpg?"
-"1562878975|https://scryfall.com/card/bok/101/flames-of-the-blood-hand?"
+"1651124386|https://scryfall.com/card/bok/101/flames-of-the-blood-hand?"
 "utm_source=api>`"
 msgstr ""
 
 #: ../../BOK.rst:571
 msgid ""
 "Flames of the Blood Hand deals 4 damage to target player or planeswalker. "
-"The damage can't be prevented. If that player would gain life this turn, "
-"that player gains no life instead."
+"The damage can't be prevented. If that player or that planeswalker's "
+"controller would gain life this turn, that player gains no life instead."
 msgstr ""
 
 #: ../../BOK.rst:574

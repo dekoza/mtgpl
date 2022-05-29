@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2022.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-18 22:11+0200\n"
+"POT-Creation-Date: 2022-05-29 18:35+0200\n"
 "PO-Revision-Date: 2022-04-18 20:22+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/anb/pl/>\n"
@@ -724,7 +724,8 @@ msgstr ""
 
 #: ../../ANB.rst:187
 msgid "Creature spells with flying you cast cost |mana_1| less to cast."
-msgstr "Rzucanie czarów stworów mających latanie kosztuje cię o |mana_1| mniej."
+msgstr ""
+"Rzucanie czarów stworów mających latanie kosztuje cię o |mana_1| mniej."
 
 #: ../../ANB.rst:192
 msgid ""
@@ -1711,7 +1712,7 @@ msgstr ""
 msgid "(|tap|: Add |mana_w|.)"
 msgstr "(|tap|: Weź |mana_w|.)"
 
-#: ../../ANB.rst:543
+#: ../../ANB.rst:544
 msgid ""
 ":mtgtip:`Swamp<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/2/4/24f796dc-7a6b-4652-9268-3523d7b54e94.jpg?1597375431|https://"
@@ -1721,3 +1722,21 @@ msgstr ""
 #: ../../ANB.rst:543
 msgid "(|tap|: Add |mana_b|.)"
 msgstr "(|tap|: Weź |mana_b|.)"
+
+#: ../../ANB.rst:548
+msgid ""
+":mtgtip:`Arcane Signet<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/e/a/eae6e393-315b-4f70-9da2-c58003e2813d.jpg?1652898607|"
+"https://scryfall.com/card/anb/117/arcane-signet?utm_source=api>`"
+msgstr ""
+
+#: ../../ANB.rst:547 ../../ANB.rst:551
+msgid "|tap|: Add one mana of any color in your commander's color identity."
+msgstr ""
+
+#: ../../ANB.rst:551
+msgid ""
+":mtgtip:`Command Tower<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/b/d/bde73c08-40f6-42bd-9c38-348fcef97aa5.jpg?1652898645|"
+"https://scryfall.com/card/anb/118/command-tower?utm_source=api>`"
+msgstr ""

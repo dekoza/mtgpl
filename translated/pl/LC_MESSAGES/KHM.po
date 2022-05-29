@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2020.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-14 18:07+0200\n"
+"POT-Creation-Date: 2022-05-29 18:35+0200\n"
 "PO-Revision-Date: 2022-04-18 17:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/khm/pl/>\n"
@@ -1307,12 +1307,14 @@ msgstr ""
 #: ../../KHM.rst:360
 msgid ""
 ":mtgtip:`A-Cosmos Charger<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/4/d/4dfd73e2-1fad-46f6-90c5-ea35a380dbef.jpg?1649850835|"
+"border_crop/front/4/d/4dfd73e2-1fad-46f6-90c5-ea35a380dbef.jpg?1651977628|"
 "https://scryfall.com/card/khm/A-51/a-cosmos-charger?utm_source=api>`"
 msgstr ""
 
 #: ../../KHM.rst:359
-msgid "Foretell |mana_1|\\ |mana_u|"
+#, fuzzy
+#| msgid "Foretell |mana_1|\\ |mana_u|"
+msgid "Foretell |mana_u|"
 msgstr "Przepowiednia |mana_1|\\ |mana_u|"
 
 #: ../../KHM.rst:364
@@ -3315,7 +3317,7 @@ msgstr "Ten czar zadaje wskazanemu stworowi lub wędrowcowi 6 obrażeń."
 #: ../../KHM.rst:984
 msgid ""
 ":mtgtip:`Tibalt's Trickery<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/d/d/dd921e27-3e08-438c-bec2-723226d35175.jpg?1634131612|"
+"border_crop/front/d/d/dd921e27-3e08-438c-bec2-723226d35175.jpg?1652278784|"
 "https://scryfall.com/card/khm/153/tibalts-trickery?utm_source=api>`"
 msgstr ""
 

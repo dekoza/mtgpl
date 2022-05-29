@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-14 18:07+0200\n"
+"POT-Creation-Date: 2022-05-29 18:35+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -461,7 +461,7 @@ msgstr ""
 msgid ""
 ":mtgtip:`Scholar of the Lost Trove<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/a/a/aa254a86-3c30-408d-9c14-befd472f9740.jpg?"
-"1632261772|https://scryfall.com/card/jmp/14/scholar-of-the-lost-trove?"
+"1651525848|https://scryfall.com/card/jmp/14/scholar-of-the-lost-trove?"
 "utm_source=api>`"
 msgstr ""
 
@@ -470,7 +470,7 @@ msgid ""
 "When Scholar of the Lost Trove enters the battlefield, you may cast target "
 "instant, sorcery, or artifact card from your graveyard without paying its "
 "mana cost. If an instant or sorcery spell cast this way would be put into "
-"your graveyard this turn, exile it instead."
+"your graveyard, exile it instead."
 msgstr ""
 
 #: ../../JMP.rst:92
@@ -2020,7 +2020,7 @@ msgid ""
 msgstr ""
 
 #: ../../JMP.rst:671 ../../JMP.rst:833 ../../JMP.rst:875 ../../JMP.rst:1699
-#: ../../JMP.rst:1961 ../../JMP.rst:2095 ../../JMP.rst:2303
+#: ../../JMP.rst:1961 ../../JMP.rst:2095 ../../JMP.rst:2303 ../../JMP.rst:2339
 msgid "Defender"
 msgstr ""
 
@@ -4995,7 +4995,7 @@ msgid ""
 "https://scryfall.com/card/jmp/382/carven-caryatid?utm_source=api>`"
 msgstr ""
 
-#: ../../JMP.rst:1783 ../../JMP.rst:2101 ../../JMP.rst:2213 ../../JMP.rst:2339
+#: ../../JMP.rst:1783 ../../JMP.rst:2101 ../../JMP.rst:2213
 msgid "Defender (This creature can't attack.)"
 msgstr ""
 

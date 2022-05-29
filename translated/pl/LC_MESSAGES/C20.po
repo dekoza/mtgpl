@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-14 18:07+0200\n"
+"POT-Creation-Date: 2022-05-29 18:35+0200\n"
 "PO-Revision-Date: 2022-04-24 18:17+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c20/pl/>\n"
@@ -1676,7 +1676,7 @@ msgid ""
 "https://scryfall.com/card/c20/67/bonders-ornament?utm_source=api>`"
 msgstr ""
 
-#: ../../C20.rst:441 ../../C20.rst:1873
+#: ../../C20.rst:441 ../../C20.rst:1875
 msgid "|tap|: Add one mana of any color."
 msgstr "|tap|: Weź jedną manę dowolnego koloru."
 
@@ -1769,8 +1769,8 @@ msgstr ""
 #: ../../C20.rst:469 ../../C20.rst:1533 ../../C20.rst:1547 ../../C20.rst:1553
 #: ../../C20.rst:1581 ../../C20.rst:1625 ../../C20.rst:1647 ../../C20.rst:1673
 #: ../../C20.rst:1687 ../../C20.rst:1709 ../../C20.rst:1731 ../../C20.rst:1739
-#: ../../C20.rst:1745 ../../C20.rst:1789 ../../C20.rst:1851 ../../C20.rst:1863
-#: ../../C20.rst:1883 ../../C20.rst:1909 ../../C20.rst:1973 ../../C20.rst:1987
+#: ../../C20.rst:1745 ../../C20.rst:1791 ../../C20.rst:1853 ../../C20.rst:1865
+#: ../../C20.rst:1885 ../../C20.rst:1911 ../../C20.rst:1977 ../../C20.rst:1993
 msgid "|tap|: Add |colorless|."
 msgstr "|tap|: Weź |colorless|."
 
@@ -1911,7 +1911,7 @@ msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, wygnaj wskazany nie-lądowy byt pod "
 "władaniem przeciwnika, dopóki ten urok nie opuści pola bitwy."
 
-#: ../../C20.rst:515 ../../C20.rst:1893
+#: ../../C20.rst:515 ../../C20.rst:1895
 msgid "Cycling |mana_w| (|mana_w|, Discard this card: Draw a card.)"
 msgstr "Recykling |mana_w| (|mana_w|, odrzuć tę kartę: Dobierz kartę.)"
 
@@ -3266,11 +3266,17 @@ msgid ""
 msgstr ""
 
 #: ../../C20.rst:943
+#, fuzzy
+#| msgid ""
+#| "When Goblin Dark-Dwellers enters the battlefield, you may cast target "
+#| "instant or sorcery card with mana value 3 or less from your graveyard "
+#| "without paying its mana cost. If that spell would be put into your "
+#| "graveyard this turn, exile it instead."
 msgid ""
 "When Goblin Dark-Dwellers enters the battlefield, you may cast target "
 "instant or sorcery card with mana value 3 or less from your graveyard "
-"without paying its mana cost. If that spell would be put into your graveyard "
-"this turn, exile it instead."
+"without paying its mana cost. If that spell would be put into your "
+"graveyard, exile it instead."
 msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, możesz rzucić wskazaną kartę sztuczki "
 "lub obrzędu o skrócie many 3 lub mniejszym z twojego cmentarza bez płacenia "
@@ -3434,8 +3440,8 @@ msgstr ""
 msgid "Each land card in your hand has cycling |mana_r|."
 msgstr "Każda karta lądu w twojej ręce ma recykling |mana_r|."
 
-#: ../../C20.rst:993 ../../C20.rst:1643 ../../C20.rst:1719 ../../C20.rst:1859
-#: ../../C20.rst:1931
+#: ../../C20.rst:993 ../../C20.rst:1643 ../../C20.rst:1719 ../../C20.rst:1861
+#: ../../C20.rst:1933
 msgid "Cycling |mana_2| (|mana_2|, Discard this card: Draw a card.)"
 msgstr "Recykling |mana_2| (|mana_2|, odrzuć tę kartę: Dobierz kartę.)"
 
@@ -4819,7 +4825,7 @@ msgid ""
 "https://scryfall.com/card/c20/238/azorius-signet?utm_source=api>`"
 msgstr ""
 
-#: ../../C20.rst:1441 ../../C20.rst:1923
+#: ../../C20.rst:1441 ../../C20.rst:1925
 msgid "|mana_1|, |tap|: Add |mana_w|\\ |mana_u|."
 msgstr "|mana_1|, |tap|: Weź |mana_w|\\ |mana_u|."
 
@@ -4992,7 +4998,7 @@ msgid ""
 "https://scryfall.com/card/c20/249/rakdos-signet?utm_source=api>`"
 msgstr ""
 
-#: ../../C20.rst:1499 ../../C20.rst:1905
+#: ../../C20.rst:1499 ../../C20.rst:1907
 msgid "|mana_1|, |tap|: Add |mana_b|\\ |mana_r|."
 msgstr "|mana_1|, |tap|: Weź |mana_b|\\ |mana_r|."
 
@@ -5258,7 +5264,7 @@ msgstr ""
 msgid "Desert of the Fervent enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
-#: ../../C20.rst:1603 ../../C20.rst:1661 ../../C20.rst:1929 ../../C20.rst:1951
+#: ../../C20.rst:1603 ../../C20.rst:1661 ../../C20.rst:1931 ../../C20.rst:1955
 msgid "|tap|: Add |mana_r|."
 msgstr "|tap|: Weź |mana_r|."
 
@@ -5281,8 +5287,8 @@ msgstr ""
 msgid "Desert of the Mindful enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
-#: ../../C20.rst:1611 ../../C20.rst:1705 ../../C20.rst:1753 ../../C20.rst:1857
-#: ../../C20.rst:1945
+#: ../../C20.rst:1611 ../../C20.rst:1705 ../../C20.rst:1753 ../../C20.rst:1859
+#: ../../C20.rst:1947
 msgid "|tap|: Add |mana_u|."
 msgstr "|tap|: Weź |mana_u|."
 
@@ -5297,7 +5303,7 @@ msgstr ""
 msgid "Desert of the True enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
-#: ../../C20.rst:1619 ../../C20.rst:1641 ../../C20.rst:1891 ../../C20.rst:1981
+#: ../../C20.rst:1619 ../../C20.rst:1641 ../../C20.rst:1893 ../../C20.rst:1987
 msgid "|tap|: Add |mana_w|."
 msgstr "|tap|: Weź |mana_w|."
 
@@ -5534,7 +5540,7 @@ msgid ""
 "https://scryfall.com/card/c20/282/irrigated-farmland?utm_source=api>`"
 msgstr ""
 
-#: ../../C20.rst:1715 ../../C20.rst:1835
+#: ../../C20.rst:1715 ../../C20.rst:1837
 msgid "(|tap|: Add |mana_w| or |mana_u|.)"
 msgstr "(|tap|: Weź |mana_w| lub |mana_u|.)"
 
@@ -5670,28 +5676,39 @@ msgstr ""
 msgid "|mana_1|, |tap|: Add |mana_r|\\ |mana_g|."
 msgstr "|mana_1|, |tap|: Weź |mana_r|\\ |mana_g|."
 
-#: ../../C20.rst:1784
+#: ../../C20.rst:1786
 msgid ""
 ":mtgtip:`Mosswort Bridge<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/7/f/7f3a9d35-39c9-4f9d-adab-2291db1a3b40.jpg?1591322221|"
 "https://scryfall.com/card/c20/291/mosswort-bridge?utm_source=api>`"
 msgstr ""
 
-#: ../../C20.rst:1779 ../../C20.rst:1949 ../../C20.rst:1979
+#: ../../C20.rst:1779 ../../C20.rst:1951 ../../C20.rst:1983
+#, fuzzy
+#| msgid ""
+#| "Hideaway (This land enters the battlefield tapped. When it does, look at "
+#| "the top four cards of your library, exile one face down, then put the "
+#| "rest on the bottom of your library.)"
 msgid ""
-"Hideaway (This land enters the battlefield tapped. When it does, look at the "
-"top four cards of your library, exile one face down, then put the rest on "
-"the bottom of your library.)"
+"Hideaway 4 (When this land enters the battlefield, look at the top four "
+"cards of your library, exile one face down, then put the rest on the bottom "
+"in a random order.)"
 msgstr ""
 "Kryjówka (Kiedy ten byt wejdzie na pole bitwy, spójrz na cztery wierzchnie "
 "karty twojej biblioteki, wygnaj jedną zakrytą, po czym umieść pozostałe na "
 "spodzie twojej biblioteki.)"
 
-#: ../../C20.rst:1781 ../../C20.rst:1815
+#: ../../C20.rst:1781
+#, fuzzy
+#| msgid "Mortuary Mire enters the battlefield tapped."
+msgid "Mosswort Bridge enters the battlefield tapped."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
+
+#: ../../C20.rst:1783 ../../C20.rst:1817
 msgid "|tap|: Add |mana_g|."
 msgstr "|tap|: Weź |mana_g|."
 
-#: ../../C20.rst:1783
+#: ../../C20.rst:1785
 msgid ""
 "|mana_g|, |tap|: You may play the exiled card without paying its mana cost "
 "if creatures you control have total power 10 or greater."
@@ -5699,18 +5716,18 @@ msgstr ""
 "|mana_g|, |tap|: Możesz zagrać ową wygnaną kartę bez płacenia jej kosztu "
 "many jeśli stwory pod twoim władaniem mają łączną siłę 10 lub większą."
 
-#: ../../C20.rst:1792
+#: ../../C20.rst:1794
 msgid ""
 ":mtgtip:`Myriad Landscape<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/4/2/42bb5732-5c17-447f-9fcd-dc12136fa145.jpg?1591322236|"
 "https://scryfall.com/card/c20/292/myriad-landscape?utm_source=api>`"
 msgstr ""
 
-#: ../../C20.rst:1787
+#: ../../C20.rst:1789
 msgid "Myriad Landscape enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
-#: ../../C20.rst:1791
+#: ../../C20.rst:1793
 msgid ""
 "|mana_2|, |tap|, Sacrifice Myriad Landscape: Search your library for up to "
 "two basic land cards that share a land type, put them onto the battlefield "
@@ -5720,63 +5737,63 @@ msgstr ""
 "dwie karty bazowych lądów mających wspólny typ lądu, umieść je przekręcone "
 "na polu bitwy, po czym przetasuj."
 
-#: ../../C20.rst:1798
+#: ../../C20.rst:1800
 msgid ""
 ":mtgtip:`Mystic Monastery<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/3/2/3242ffa7-01e8-4349-9a59-2060bc37f8fe.jpg?1591322250|"
 "https://scryfall.com/card/c20/293/mystic-monastery?utm_source=api>`"
 msgstr ""
 
-#: ../../C20.rst:1795
+#: ../../C20.rst:1797
 msgid "Mystic Monastery enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
-#: ../../C20.rst:1797
+#: ../../C20.rst:1799
 msgid "|tap|: Add |mana_u|, |mana_r|, or |mana_w|."
 msgstr "|tap|: Weź |mana_u|, |mana_r| lub |mana_w|."
 
-#: ../../C20.rst:1804
+#: ../../C20.rst:1806
 msgid ""
 ":mtgtip:`Nomad Outpost<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/f/3/f32ff85d-0a5d-4bab-adc3-27a140ebef1d.jpg?1591322264|"
 "https://scryfall.com/card/c20/294/nomad-outpost?utm_source=api>`"
 msgstr ""
 
-#: ../../C20.rst:1801
+#: ../../C20.rst:1803
 msgid "Nomad Outpost enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
-#: ../../C20.rst:1803
+#: ../../C20.rst:1805
 msgid "|tap|: Add |mana_r|, |mana_w|, or |mana_b|."
 msgstr "|tap|: Weź |mana_r|, |mana_w|, lub |mana_b|."
 
-#: ../../C20.rst:1810
+#: ../../C20.rst:1812
 msgid ""
 ":mtgtip:`Opulent Palace<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/c/c/ccef1e71-1484-4e27-b8a4-b5427cdf0193.jpg?1591322279|"
 "https://scryfall.com/card/c20/295/opulent-palace?utm_source=api>`"
 msgstr ""
 
-#: ../../C20.rst:1807
+#: ../../C20.rst:1809
 msgid "Opulent Palace enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
-#: ../../C20.rst:1809
+#: ../../C20.rst:1811
 msgid "|tap|: Add |mana_b|, |mana_g|, or |mana_u|."
 msgstr "|tap|: Weź |mana_b|, |mana_g|, lub |mana_u|."
 
-#: ../../C20.rst:1818
+#: ../../C20.rst:1820
 msgid ""
 ":mtgtip:`Oran-Rief, the Vastwood<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/b/9/b94c9237-dd43-411a-8231-6338ab08c192.jpg?1591322292|"
 "https://scryfall.com/card/c20/296/oran-rief-the-vastwood?utm_source=api>`"
 msgstr ""
 
-#: ../../C20.rst:1813
+#: ../../C20.rst:1815
 msgid "Oran-Rief, the Vastwood enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
-#: ../../C20.rst:1817
+#: ../../C20.rst:1819
 msgid ""
 "|tap|: Put a +1/+1 counter on each green creature that entered the "
 "battlefield this turn."
@@ -5784,18 +5801,18 @@ msgstr ""
 "|tap|: Umieść znacznik +1/+1 na każdym zielonym stworze, który wszedł na "
 "pole bitwy w tej turze."
 
-#: ../../C20.rst:1826
+#: ../../C20.rst:1828
 msgid ""
 ":mtgtip:`Orzhov Basilica<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/a/7/a732e2cc-325f-429b-a933-fc4cbcc395c9.jpg?1591322306|"
 "https://scryfall.com/card/c20/297/orzhov-basilica?utm_source=api>`"
 msgstr ""
 
-#: ../../C20.rst:1821
+#: ../../C20.rst:1823
 msgid "Orzhov Basilica enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
-#: ../../C20.rst:1823
+#: ../../C20.rst:1825
 msgid ""
 "When Orzhov Basilica enters the battlefield, return a land you control to "
 "its owner's hand."
@@ -5803,22 +5820,22 @@ msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
 "ręki właściciela."
 
-#: ../../C20.rst:1825
+#: ../../C20.rst:1827
 msgid "|tap|: Add |mana_w|\\ |mana_b|."
 msgstr "|tap|: Weź |mana_w|\\ |mana_b|."
 
-#: ../../C20.rst:1832
+#: ../../C20.rst:1834
 msgid ""
 ":mtgtip:`Path of Ancestry<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/d/2/d2731103-47ef-41d3-bf5f-5773b60c7948.jpg?1591322318|"
 "https://scryfall.com/card/c20/298/path-of-ancestry?utm_source=api>`"
 msgstr ""
 
-#: ../../C20.rst:1829
+#: ../../C20.rst:1831
 msgid "Path of Ancestry enters the battlefield tapped."
 msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
-#: ../../C20.rst:1831
+#: ../../C20.rst:1833
 msgid ""
 "|tap|: Add one mana of any color in your commander's color identity. When "
 "that mana is spent to cast a creature spell that shares a creature type with "
@@ -5830,14 +5847,14 @@ msgstr ""
 "z twoim dowódcą, wróż 1. (Spójrz na wierzchnią kartę twojej biblioteki. "
 "Możesz umieścić ową kartę na spodzie twojej biblioteki.)"
 
-#: ../../C20.rst:1838
+#: ../../C20.rst:1840
 msgid ""
 ":mtgtip:`Prairie Stream<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/b/9/b9bc9e0e-8da2-4213-bb23-f46433425022.jpg?1591322332|"
 "https://scryfall.com/card/c20/299/prairie-stream?utm_source=api>`"
 msgstr ""
 
-#: ../../C20.rst:1837
+#: ../../C20.rst:1839
 msgid ""
 "Prairie Stream enters the battlefield tapped unless you control two or more "
 "basic lands."
@@ -5845,18 +5862,18 @@ msgstr ""
 "Ten ląd wchodzi przekręcony na pole bitwy, chyba że władasz co najmniej "
 "dwoma bazowymi lądami."
 
-#: ../../C20.rst:1846
+#: ../../C20.rst:1848
 msgid ""
 ":mtgtip:`Rakdos Carnarium<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/7/1/719ceec2-bc20-49b7-9e87-6af1a7992b5a.jpg?1591322345|"
 "https://scryfall.com/card/c20/300/rakdos-carnarium?utm_source=api>`"
 msgstr ""
 
-#: ../../C20.rst:1841
+#: ../../C20.rst:1843
 msgid "Rakdos Carnarium enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
-#: ../../C20.rst:1843
+#: ../../C20.rst:1845
 msgid ""
 "When Rakdos Carnarium enters the battlefield, return a land you control to "
 "its owner's hand."
@@ -5864,55 +5881,55 @@ msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
 "ręki właściciela."
 
-#: ../../C20.rst:1845
+#: ../../C20.rst:1847
 msgid "|tap|: Add |mana_b|\\ |mana_r|."
 msgstr "|tap|: Weź |mana_b|\\ |mana_r|."
 
-#: ../../C20.rst:1852
+#: ../../C20.rst:1854
 msgid ""
 ":mtgtip:`Reliquary Tower<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/c/e/ce724b58-769f-424a-8e82-a1c3875d90a4.jpg?1591322359|"
 "https://scryfall.com/card/c20/301/reliquary-tower?utm_source=api>`"
 msgstr ""
 
-#: ../../C20.rst:1849
+#: ../../C20.rst:1851
 msgid "You have no maximum hand size."
 msgstr "Nie masz limitu kart na ręce."
 
-#: ../../C20.rst:1860
+#: ../../C20.rst:1862
 msgid ""
 ":mtgtip:`Remote Isle<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/4/5/452c82dc-6388-4d60-84ee-f8961a81980c.jpg?1591322368|https://"
 "scryfall.com/card/c20/302/remote-isle?utm_source=api>`"
 msgstr ""
 
-#: ../../C20.rst:1855
+#: ../../C20.rst:1857
 msgid "Remote Isle enters the battlefield tapped."
 msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
-#: ../../C20.rst:1866
+#: ../../C20.rst:1868
 msgid ""
 ":mtgtip:`Rogue's Passage<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/8/2/8230642b-865e-4114-87f9-516fb7efa6cd.jpg?1591322376|"
 "https://scryfall.com/card/c20/303/rogues-passage?utm_source=api>`"
 msgstr ""
 
-#: ../../C20.rst:1865
+#: ../../C20.rst:1867
 msgid "|mana_4|, |tap|: Target creature can't be blocked this turn."
 msgstr "|mana_4|, |tap|: Wskazany stwór nie może być blokowany w tej turze."
 
-#: ../../C20.rst:1874
+#: ../../C20.rst:1876
 msgid ""
 ":mtgtip:`Rupture Spire<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/1/b/1b8b7d75-00c5-483c-8b1a-858c121dc203.jpg?1591322383|"
 "https://scryfall.com/card/c20/304/rupture-spire?utm_source=api>`"
 msgstr ""
 
-#: ../../C20.rst:1869
+#: ../../C20.rst:1871
 msgid "Rupture Spire enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
-#: ../../C20.rst:1871
+#: ../../C20.rst:1873
 msgid ""
 "When Rupture Spire enters the battlefield, sacrifice it unless you pay |"
 "mana_1|."
@@ -5920,55 +5937,55 @@ msgstr ""
 "Kiedy ta karta wejdzie na pole bitwy, poświęć ją, chyba że zapłacisz |"
 "mana_1|."
 
-#: ../../C20.rst:1880
+#: ../../C20.rst:1882
 msgid ""
 ":mtgtip:`Sandsteppe Citadel<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/7/6/76357d95-9c86-411b-a115-36de5c2f123a.jpg?1591322389|"
 "https://scryfall.com/card/c20/305/sandsteppe-citadel?utm_source=api>`"
 msgstr ""
 
-#: ../../C20.rst:1877
+#: ../../C20.rst:1879
 msgid "Sandsteppe Citadel enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
-#: ../../C20.rst:1879
+#: ../../C20.rst:1881
 msgid "|tap|: Add |mana_w|, |mana_b|, or |mana_g|."
 msgstr "|tap|: Weź |mana_w|, |mana_b|, lub |mana_g|."
 
-#: ../../C20.rst:1886
+#: ../../C20.rst:1888
 msgid ""
 ":mtgtip:`Scavenger Grounds<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/f/0/f070bcc2-d764-44da-91ab-f2af23aa42e6.jpg?1591322397|"
 "https://scryfall.com/card/c20/306/scavenger-grounds?utm_source=api>`"
 msgstr ""
 
-#: ../../C20.rst:1885
+#: ../../C20.rst:1887
 msgid "|mana_2|, |tap|, Sacrifice a Desert: Exile all graveyards."
 msgstr "|mana_2|, |tap|, poświęć Pustynię: Wygnaj wszystkie cmentarze."
 
-#: ../../C20.rst:1894
+#: ../../C20.rst:1896
 msgid ""
 ":mtgtip:`Secluded Steppe<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/0/6/06e93b14-d226-41c0-9366-d4e1bfff5186.jpg?1591322408|"
 "https://scryfall.com/card/c20/307/secluded-steppe?utm_source=api>`"
 msgstr ""
 
-#: ../../C20.rst:1889
+#: ../../C20.rst:1891
 msgid "Secluded Steppe enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
-#: ../../C20.rst:1902
+#: ../../C20.rst:1904
 msgid ""
 ":mtgtip:`Selesnya Sanctuary<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/b/0/b082e600-4cfe-44ce-aeb2-b0c22c3482c1.jpg?1591322418|"
 "https://scryfall.com/card/c20/308/selesnya-sanctuary?utm_source=api>`"
 msgstr ""
 
-#: ../../C20.rst:1897
+#: ../../C20.rst:1899
 msgid "Selesnya Sanctuary enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
-#: ../../C20.rst:1899
+#: ../../C20.rst:1901
 msgid ""
 "When Selesnya Sanctuary enters the battlefield, return a land you control to "
 "its owner's hand."
@@ -5976,40 +5993,40 @@ msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
 "ręki właściciela."
 
-#: ../../C20.rst:1901
+#: ../../C20.rst:1903
 msgid "|tap|: Add |mana_g|\\ |mana_w|."
 msgstr "|tap|: Weź |mana_g|\\ |mana_w|."
 
-#: ../../C20.rst:1906
+#: ../../C20.rst:1908
 msgid ""
 ":mtgtip:`Shadowblood Ridge<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/0/9/093fd241-d251-41a0-8363-0b4238a9bbea.jpg?1591322427|"
 "https://scryfall.com/card/c20/309/shadowblood-ridge?utm_source=api>`"
 msgstr ""
 
-#: ../../C20.rst:1912
+#: ../../C20.rst:1914
 msgid ""
 ":mtgtip:`Shivan Reef<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/9/8/983d129b-809b-436e-bb66-3c7028709e50.jpg?1591322435|https://"
 "scryfall.com/card/c20/310/shivan-reef?utm_source=api>`"
 msgstr ""
 
-#: ../../C20.rst:1911
+#: ../../C20.rst:1913
 msgid "|tap|: Add |mana_u| or |mana_r|. Shivan Reef deals 1 damage to you."
 msgstr "|tap|: Weź |mana_u| lub |mana_r|. Ten ląd zadaje tobie 1 obrażenie."
 
-#: ../../C20.rst:1920
+#: ../../C20.rst:1922
 msgid ""
 ":mtgtip:`Simic Growth Chamber<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/f/9/f9b24ba7-2578-411c-b0bd-f8e919ca0a6e.jpg?1591322442|"
 "https://scryfall.com/card/c20/311/simic-growth-chamber?utm_source=api>`"
 msgstr ""
 
-#: ../../C20.rst:1915
+#: ../../C20.rst:1917
 msgid "Simic Growth Chamber enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
-#: ../../C20.rst:1917
+#: ../../C20.rst:1919
 msgid ""
 "When Simic Growth Chamber enters the battlefield, return a land you control "
 "to its owner's hand."
@@ -6017,40 +6034,40 @@ msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
 "ręki właściciela."
 
-#: ../../C20.rst:1919
+#: ../../C20.rst:1921
 msgid "|tap|: Add |mana_g|\\ |mana_u|."
 msgstr "|tap|: Weź |mana_g|\\ |mana_u|."
 
-#: ../../C20.rst:1924
+#: ../../C20.rst:1926
 msgid ""
 ":mtgtip:`Skycloud Expanse<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/4/4/44205d8c-4fa5-4c06-9ad5-c743bf4f90d2.jpg?1591322449|"
 "https://scryfall.com/card/c20/312/skycloud-expanse?utm_source=api>`"
 msgstr ""
 
-#: ../../C20.rst:1932
+#: ../../C20.rst:1934
 msgid ""
 ":mtgtip:`Smoldering Crater<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/2/6/26a9d3ef-2a56-45f4-a68a-c6acac381fbc.jpg?1591322456|"
 "https://scryfall.com/card/c20/313/smoldering-crater?utm_source=api>`"
 msgstr ""
 
-#: ../../C20.rst:1927
+#: ../../C20.rst:1929
 msgid "Smoldering Crater enters the battlefield tapped."
 msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
-#: ../../C20.rst:1938
+#: ../../C20.rst:1940
 msgid ""
 ":mtgtip:`Smoldering Marsh<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/a/3/a31c6923-8b25-4e5b-ad98-ce8f644c0a29.jpg?1591322464|"
 "https://scryfall.com/card/c20/314/smoldering-marsh?utm_source=api>`"
 msgstr ""
 
-#: ../../C20.rst:1935
+#: ../../C20.rst:1937
 msgid "(|tap|: Add |mana_b| or |mana_r|.)"
 msgstr "(|tap|: Weź |mana_b| lub |mana_r|.)"
 
-#: ../../C20.rst:1937
+#: ../../C20.rst:1939
 msgid ""
 "Smoldering Marsh enters the battlefield tapped unless you control two or "
 "more basic lands."
@@ -6058,18 +6075,18 @@ msgstr ""
 "Ten ląd wchodzi przekręcony na pole bitwy, chyba że władasz co najmniej "
 "dwoma bazowymi lądami."
 
-#: ../../C20.rst:1946
+#: ../../C20.rst:1948
 msgid ""
 ":mtgtip:`Soaring Seacliff<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/6/5/651a1a4f-bdaa-44d6-ac45-050894788063.jpg?1591322470|"
 "https://scryfall.com/card/c20/315/soaring-seacliff?utm_source=api>`"
 msgstr ""
 
-#: ../../C20.rst:1941
+#: ../../C20.rst:1943
 msgid "Soaring Seacliff enters the battlefield tapped."
 msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
-#: ../../C20.rst:1943
+#: ../../C20.rst:1945
 msgid ""
 "When Soaring Seacliff enters the battlefield, target creature gains flying "
 "until end of turn."
@@ -6077,7 +6094,7 @@ msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, wskazany stwór zyskuje do końca tury "
 "latanie."
 
-#: ../../C20.rst:1954
+#: ../../C20.rst:1958
 msgid ""
 ":mtgtip:`Spinerock Knoll<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/8/d/8d275f23-f6e6-4db8-ab98-de0519aa9772.jpg?1591322476|"
@@ -6085,6 +6102,12 @@ msgid ""
 msgstr ""
 
 #: ../../C20.rst:1953
+#, fuzzy
+#| msgid "Memorial to Folly enters the battlefield tapped."
+msgid "Spinerock Knoll enters the battlefield tapped."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
+
+#: ../../C20.rst:1957
 msgid ""
 "|mana_r|, |tap|: You may play the exiled card without paying its mana cost "
 "if an opponent was dealt 7 or more damage this turn."
@@ -6092,29 +6115,29 @@ msgstr ""
 "|mana_r|, |tap|: Możesz zagrać ową wygnaną kartę bez płacenia jej kosztu "
 "many jeśli przeciwnik otrzymał w tej turze co najmniej 7 obrażeń."
 
-#: ../../C20.rst:1958
+#: ../../C20.rst:1962
 msgid ""
 ":mtgtip:`Sungrass Prairie<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/c/f/cf6e4f8e-5c02-4aa4-b065-4fe0b0ed2772.jpg?1591322483|"
 "https://scryfall.com/card/c20/317/sungrass-prairie?utm_source=api>`"
 msgstr ""
 
-#: ../../C20.rst:1957
+#: ../../C20.rst:1961
 msgid "|mana_1|, |tap|: Add |mana_g|\\ |mana_w|."
 msgstr "|mana_1|, |tap|: Weź |mana_g|\\ |mana_w|."
 
-#: ../../C20.rst:1964
+#: ../../C20.rst:1968
 msgid ""
 ":mtgtip:`Sunken Hollow<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/b/b/bba559bc-dcbf-41a1-b5c0-e1fc850d657b.jpg?1591322490|"
 "https://scryfall.com/card/c20/318/sunken-hollow?utm_source=api>`"
 msgstr ""
 
-#: ../../C20.rst:1961
+#: ../../C20.rst:1965
 msgid "(|tap|: Add |mana_u| or |mana_b|.)"
 msgstr "(|tap|: Weź |mana_u| lub |mana_b|.)"
 
-#: ../../C20.rst:1963
+#: ../../C20.rst:1967
 msgid ""
 "Sunken Hollow enters the battlefield tapped unless you control two or more "
 "basic lands."
@@ -6122,14 +6145,14 @@ msgstr ""
 "Ten ląd wchodzi przekręcony na pole bitwy, chyba że władasz co najmniej "
 "dwoma bazowymi lądami."
 
-#: ../../C20.rst:1968
+#: ../../C20.rst:1972
 msgid ""
 ":mtgtip:`Temple of the False God<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/b/6/b69cc893-4e71-4724-8df3-fcc0a037e399.jpg?1591322496|"
 "https://scryfall.com/card/c20/319/temple-of-the-false-god?utm_source=api>`"
 msgstr ""
 
-#: ../../C20.rst:1967
+#: ../../C20.rst:1971
 msgid ""
 "|tap|: Add |colorless|\\ |colorless|. Activate only if you control five or "
 "more lands."
@@ -6137,18 +6160,18 @@ msgstr ""
 "|tap|: Weź |colorless|\\ |colorless|. Możesz aktywować tylko jeśli władasz "
 "co najmniej pięcioma lądami."
 
-#: ../../C20.rst:1976
+#: ../../C20.rst:1980
 msgid ""
 ":mtgtip:`Unclaimed Territory<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/b/9/b96a5b3a-ee54-4864-a84c-385a97b8cb7b.jpg?1591322503|"
 "https://scryfall.com/card/c20/320/unclaimed-territory?utm_source=api>`"
 msgstr ""
 
-#: ../../C20.rst:1971
+#: ../../C20.rst:1975
 msgid "As Unclaimed Territory enters the battlefield, choose a creature type."
 msgstr "Przy wejściu tego bytu na pole bitwy wybierz typ stwora."
 
-#: ../../C20.rst:1975
+#: ../../C20.rst:1979
 msgid ""
 "|tap|: Add one mana of any color. Spend this mana only to cast a creature "
 "spell of the chosen type."
@@ -6156,14 +6179,20 @@ msgstr ""
 "|tap|: Weź jedną manę w dowolnym kolorze. Wydaj tę manę tylko na rzucenie "
 "czaru stwora owego wybranego typu."
 
-#: ../../C20.rst:1984
+#: ../../C20.rst:1990
 msgid ""
 ":mtgtip:`Windbrisk Heights<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/e/c/ec7f0e60-8fa4-4eab-8465-baf4e5e8196b.jpg?1591322511|"
 "https://scryfall.com/card/c20/321/windbrisk-heights?utm_source=api>`"
 msgstr ""
 
-#: ../../C20.rst:1983
+#: ../../C20.rst:1985
+#, fuzzy
+#| msgid "Halimar Depths enters the battlefield tapped."
+msgid "Windbrisk Heights enters the battlefield tapped."
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
+
+#: ../../C20.rst:1989
 msgid ""
 "|mana_w|, |tap|: You may play the exiled card without paying its mana cost "
 "if you attacked with three or more creatures this turn."
@@ -6171,13 +6200,13 @@ msgstr ""
 "|mana_w|, |tap|: Możesz zagrać wygnaną kartę bez płacenia jej kosztu many "
 "jeśli w tej turze zaatakowałeś co najmniej trzema stworami."
 
-#: ../../C20.rst:1989
+#: ../../C20.rst:1995
 msgid ""
 ":mtgtip:`Yavimaya Coast<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/3/5/35cd7440-247c-4878-9a0d-9b9bc1feb847.jpg?1591322517|"
 "https://scryfall.com/card/c20/322/yavimaya-coast?utm_source=api>`"
 msgstr ""
 
-#: ../../C20.rst:1989
+#: ../../C20.rst:1995
 msgid "|tap|: Add |mana_g| or |mana_u|. Yavimaya Coast deals 1 damage to you."
 msgstr "|tap|: Weź |mana_g| lub |mana_u|. Ten ląd zadaje tobie 1 obrażenie."

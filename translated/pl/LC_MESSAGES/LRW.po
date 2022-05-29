@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-14 18:07+0200\n"
+"POT-Creation-Date: 2022-05-29 18:35+0200\n"
 "PO-Revision-Date: 2022-04-24 19:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/lrw/pl/>\n"
@@ -3746,7 +3746,7 @@ msgid ""
 "scryfall.com/card/lrw/227/leaf-gilder?utm_source=api>`"
 msgstr ""
 
-#: ../../LRW.rst:1253 ../../LRW.rst:1491 ../../LRW.rst:1543
+#: ../../LRW.rst:1253 ../../LRW.rst:1495 ../../LRW.rst:1551
 msgid "|tap|: Add |mana_g|."
 msgstr "|tap|: Weź |mana_g|."
 
@@ -4388,35 +4388,46 @@ msgstr ""
 msgid "|tap|: Add |mana_b| or |mana_g|."
 msgstr "|tap|: Weź |mana_b| lub |mana_g|."
 
-#: ../../LRW.rst:1486
+#: ../../LRW.rst:1488
 msgid ""
 ":mtgtip:`Howltooth Hollow<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/5/c/5c678643-6640-49e1-a5b0-2954123bcabc.jpg?1562349711|"
 "https://scryfall.com/card/lrw/269/howltooth-hollow?utm_source=api>`"
 msgstr ""
 
-#: ../../LRW.rst:1481 ../../LRW.rst:1489 ../../LRW.rst:1503 ../../LRW.rst:1517
-#: ../../LRW.rst:1571
+#: ../../LRW.rst:1481 ../../LRW.rst:1491 ../../LRW.rst:1507 ../../LRW.rst:1523
+#: ../../LRW.rst:1579
+#, fuzzy
+#| msgid ""
+#| "Hideaway (This land enters the battlefield tapped. When it does, look at "
+#| "the top four cards of your library, exile one face down, then put the "
+#| "rest on the bottom of your library.)"
 msgid ""
-"Hideaway (This land enters the battlefield tapped. When it does, look at the "
-"top four cards of your library, exile one face down, then put the rest on "
-"the bottom of your library.)"
+"Hideaway 4 (When this land enters the battlefield, look at the top four "
+"cards of your library, exile one face down, then put the rest on the bottom "
+"in a random order.)"
 msgstr ""
 "Kryjówka (Kiedy ten byt wejdzie na pole bitwy, spójrz na cztery wierzchnie "
 "karty twojej biblioteki, wygnaj jedną zakrytą, po czym umieść pozostałe na "
 "spodzie twojej biblioteki.)"
 
-#: ../../LRW.rst:1483 ../../LRW.rst:1551
+#: ../../LRW.rst:1483
+#, fuzzy
+#| msgid "When Mulldrifter enters the battlefield, draw two cards."
+msgid "Howltooth Hollow enters the battlefield tapped."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz dwie karty."
+
+#: ../../LRW.rst:1485 ../../LRW.rst:1559
 msgid "|tap|: Add |mana_b|."
 msgstr "|tap|: Weź |mana_b|."
 
-#: ../../LRW.rst:1485
+#: ../../LRW.rst:1487
 msgid ""
 "|mana_b|, |tap|: You may play the exiled card without paying its mana cost "
 "if each player has no cards in hand."
 msgstr ""
 
-#: ../../LRW.rst:1494
+#: ../../LRW.rst:1498
 msgid ""
 ":mtgtip:`Mosswort Bridge<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/3/8/38234590-812c-4d29-80c1-32b9e1282580.jpg?1562344458|"
@@ -4424,6 +4435,12 @@ msgid ""
 msgstr ""
 
 #: ../../LRW.rst:1493
+#, fuzzy
+#| msgid "When Faultgrinder enters the battlefield, destroy target land."
+msgid "Mosswort Bridge enters the battlefield tapped."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zniszcz wskazany ląd."
+
+#: ../../LRW.rst:1497
 msgid ""
 "|mana_g|, |tap|: You may play the exiled card without paying its mana cost "
 "if creatures you control have total power 10 or greater."
@@ -4431,67 +4448,79 @@ msgstr ""
 "|mana_g|, |tap|: Możesz zagrać ową wygnaną kartę bez płacenia jej kosztu "
 "many jeśli stwory pod twoim władaniem mają łączną siłę 10 lub większą."
 
-#: ../../LRW.rst:1500
+#: ../../LRW.rst:1504
 msgid ""
 ":mtgtip:`Secluded Glen<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/9/e/9e4afa65-7933-4a64-b50f-a9a9f832b112.jpg?1562360339|"
 "https://scryfall.com/card/lrw/271/secluded-glen?utm_source=api>`"
 msgstr ""
 
-#: ../../LRW.rst:1497
+#: ../../LRW.rst:1501
 msgid ""
 "As Secluded Glen enters the battlefield, you may reveal a Faerie card from "
 "your hand. If you don't, Secluded Glen enters the battlefield tapped."
 msgstr ""
 
-#: ../../LRW.rst:1499
+#: ../../LRW.rst:1503
 msgid "|tap|: Add |mana_u| or |mana_b|."
 msgstr "|tap|: Weź |mana_u| lub |mana_b|."
 
-#: ../../LRW.rst:1508
+#: ../../LRW.rst:1514
 msgid ""
 ":mtgtip:`Shelldock Isle<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/4/2/4216656e-90e8-45fc-a0f6-0d0d79d0a021.jpg?1562345880|"
 "https://scryfall.com/card/lrw/272/shelldock-isle?utm_source=api>`"
 msgstr ""
 
-#: ../../LRW.rst:1505 ../../LRW.rst:1535
+#: ../../LRW.rst:1509
+#, fuzzy
+#| msgid "When Mulldrifter enters the battlefield, draw two cards."
+msgid "Shelldock Isle enters the battlefield tapped."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz dwie karty."
+
+#: ../../LRW.rst:1511 ../../LRW.rst:1543
 msgid "|tap|: Add |mana_u|."
 msgstr "|tap|: Weź |mana_u|."
 
-#: ../../LRW.rst:1507
+#: ../../LRW.rst:1513
 msgid ""
 "|mana_u|, |tap|: You may play the exiled card without paying its mana cost "
 "if a library has twenty or fewer cards in it."
 msgstr ""
 
-#: ../../LRW.rst:1514
+#: ../../LRW.rst:1520
 msgid ""
 ":mtgtip:`Shimmering Grotto<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/b/5/b5e85acc-ed12-4036-8193-739721c3e178.jpg?1562364181|"
 "https://scryfall.com/card/lrw/273/shimmering-grotto?utm_source=api>`"
 msgstr ""
 
-#: ../../LRW.rst:1511
+#: ../../LRW.rst:1517
 msgid "|tap|: Add |colorless|."
 msgstr "|tap|: Weź |colorless|."
 
-#: ../../LRW.rst:1513
+#: ../../LRW.rst:1519
 msgid "|mana_1|, |tap|: Add one mana of any color."
 msgstr "|mana_1|, |tap|: Weź jedną manę dowolnego koloru."
 
-#: ../../LRW.rst:1522
+#: ../../LRW.rst:1530
 msgid ""
 ":mtgtip:`Spinerock Knoll<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/d/e/dec6abed-8fbb-4d3e-8f89-64ea1b3913db.jpg?1562371106|"
 "https://scryfall.com/card/lrw/274/spinerock-knoll?utm_source=api>`"
 msgstr ""
 
-#: ../../LRW.rst:1519 ../../LRW.rst:1527
+#: ../../LRW.rst:1525
+#, fuzzy
+#| msgid "When Silvergill Adept enters the battlefield, draw a card."
+msgid "Spinerock Knoll enters the battlefield tapped."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+
+#: ../../LRW.rst:1527 ../../LRW.rst:1535
 msgid "|tap|: Add |mana_r|."
 msgstr "|tap|: Weź |mana_r|."
 
-#: ../../LRW.rst:1521
+#: ../../LRW.rst:1529
 msgid ""
 "|mana_r|, |tap|: You may play the exiled card without paying its mana cost "
 "if an opponent was dealt 7 or more damage this turn."
@@ -4499,125 +4528,131 @@ msgstr ""
 "|mana_r|, |tap|: Możesz zagrać ową wygnaną kartę bez płacenia jej kosztu "
 "many jeśli przeciwnik otrzymał w tej turze co najmniej 7 obrażeń."
 
-#: ../../LRW.rst:1530
+#: ../../LRW.rst:1538
 msgid ""
 ":mtgtip:`Vivid Crag<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/5/3/539001dc-69f0-42c0-b5c3-37d7b12eb79e.jpg?1562348525|https://"
 "scryfall.com/card/lrw/275/vivid-crag?utm_source=api>`"
 msgstr ""
 
-#: ../../LRW.rst:1525
+#: ../../LRW.rst:1533
 msgid ""
 "Vivid Crag enters the battlefield tapped with two charge counters on it."
 msgstr "Ten byt wchodzi przekręcony na pole bitwy mając dwa znaczniki ładunku."
 
-#: ../../LRW.rst:1529
+#: ../../LRW.rst:1537
 msgid ""
 "|tap|, Remove a charge counter from Vivid Crag: Add one mana of any color."
 msgstr ""
 "|tap|, usuń znacznik ładunku z tego bytu: Weź jedną manę dowolnego koloru."
 
-#: ../../LRW.rst:1538
+#: ../../LRW.rst:1546
 msgid ""
 ":mtgtip:`Vivid Creek<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/2/e/2e3c2935-84ee-446d-b247-2f574ea84a8f.jpg?1562342974|https://"
 "scryfall.com/card/lrw/276/vivid-creek?utm_source=api>`"
 msgstr ""
 
-#: ../../LRW.rst:1533
+#: ../../LRW.rst:1541
 msgid ""
 "Vivid Creek enters the battlefield tapped with two charge counters on it."
 msgstr "Ten byt wchodzi przekręcony na pole bitwy mając dwa znaczniki ładunku."
 
-#: ../../LRW.rst:1537
+#: ../../LRW.rst:1545
 msgid ""
 "|tap|, Remove a charge counter from Vivid Creek: Add one mana of any color."
 msgstr ""
 "|tap|, usuń znacznik ładunku z tego bytu: Weź jedną manę dowolnego koloru."
 
-#: ../../LRW.rst:1546
+#: ../../LRW.rst:1554
 msgid ""
 ":mtgtip:`Vivid Grove<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/6/6/6646babe-edd8-4367-ba8f-89af4f859dd8.jpg?1562351207|https://"
 "scryfall.com/card/lrw/277/vivid-grove?utm_source=api>`"
 msgstr ""
 
-#: ../../LRW.rst:1541
+#: ../../LRW.rst:1549
 msgid ""
 "Vivid Grove enters the battlefield tapped with two charge counters on it."
 msgstr "Ten byt wchodzi przekręcony na pole bitwy mając dwa znaczniki ładunku."
 
-#: ../../LRW.rst:1545
+#: ../../LRW.rst:1553
 msgid ""
 "|tap|, Remove a charge counter from Vivid Grove: Add one mana of any color."
 msgstr ""
 "|tap|, usuń znacznik ładunku z tego bytu: Weź jedną manę dowolnego koloru."
 
-#: ../../LRW.rst:1554
+#: ../../LRW.rst:1562
 msgid ""
 ":mtgtip:`Vivid Marsh<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/3/1/31f806c7-0063-4270-b37c-5363c41a7621.jpg?1562343493|https://"
 "scryfall.com/card/lrw/278/vivid-marsh?utm_source=api>`"
 msgstr ""
 
-#: ../../LRW.rst:1549
+#: ../../LRW.rst:1557
 msgid ""
 "Vivid Marsh enters the battlefield tapped with two charge counters on it."
 msgstr "Ten byt wchodzi przekręcony na pole bitwy mając dwa znaczniki ładunku."
 
-#: ../../LRW.rst:1553
+#: ../../LRW.rst:1561
 msgid ""
 "|tap|, Remove a charge counter from Vivid Marsh: Add one mana of any color."
 msgstr ""
 "|tap|, usuń znacznik ładunku z tego bytu: Weź jedną manę dowolnego koloru."
 
-#: ../../LRW.rst:1562
+#: ../../LRW.rst:1570
 msgid ""
 ":mtgtip:`Vivid Meadow<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/a/5/a535790b-d416-4807-bca0-acf6b192101c.jpg?1562361486|"
 "https://scryfall.com/card/lrw/279/vivid-meadow?utm_source=api>`"
 msgstr ""
 
-#: ../../LRW.rst:1557
+#: ../../LRW.rst:1565
 msgid ""
 "Vivid Meadow enters the battlefield tapped with two charge counters on it."
 msgstr "Ten byt wchodzi przekręcony na pole bitwy mając dwa znaczniki ładunku."
 
-#: ../../LRW.rst:1559 ../../LRW.rst:1573
+#: ../../LRW.rst:1567 ../../LRW.rst:1583
 msgid "|tap|: Add |mana_w|."
 msgstr "|tap|: Weź |mana_w|."
 
-#: ../../LRW.rst:1561
+#: ../../LRW.rst:1569
 msgid ""
 "|tap|, Remove a charge counter from Vivid Meadow: Add one mana of any color."
 msgstr ""
 "|tap|, usuń znacznik ładunku z tego bytu: Weź jedną manę dowolnego koloru."
 
-#: ../../LRW.rst:1568
+#: ../../LRW.rst:1576
 msgid ""
 ":mtgtip:`Wanderwine Hub<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/c/c/ccec69de-7203-4810-a8ec-8748705ee3a2.jpg?1562368257|"
 "https://scryfall.com/card/lrw/280/wanderwine-hub?utm_source=api>`"
 msgstr ""
 
-#: ../../LRW.rst:1565
+#: ../../LRW.rst:1573
 msgid ""
 "As Wanderwine Hub enters the battlefield, you may reveal a Merfolk card from "
 "your hand. If you don't, Wanderwine Hub enters the battlefield tapped."
 msgstr ""
 
-#: ../../LRW.rst:1567
+#: ../../LRW.rst:1575
 msgid "|tap|: Add |mana_w| or |mana_u|."
 msgstr "|tap|: Weź |mana_w| lub |mana_u|."
 
-#: ../../LRW.rst:1576
+#: ../../LRW.rst:1586
 msgid ""
 ":mtgtip:`Windbrisk Heights<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/9/d/9df6a31a-5c49-4506-b8f8-84c9ab4a2ece.jpg?1562360314|"
 "https://scryfall.com/card/lrw/281/windbrisk-heights?utm_source=api>`"
 msgstr ""
 
-#: ../../LRW.rst:1575
+#: ../../LRW.rst:1581
+#, fuzzy
+#| msgid "When Mulldrifter enters the battlefield, draw two cards."
+msgid "Windbrisk Heights enters the battlefield tapped."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz dwie karty."
+
+#: ../../LRW.rst:1585
 msgid ""
 "|mana_w|, |tap|: You may play the exiled card without paying its mana cost "
 "if you attacked with three or more creatures this turn."
@@ -4625,57 +4660,57 @@ msgstr ""
 "|mana_w|, |tap|: Możesz zagrać wygnaną kartę bez płacenia jej kosztu many "
 "jeśli w tej turze zaatakowałeś co najmniej trzema stworami."
 
-#: ../../LRW.rst:1580
+#: ../../LRW.rst:1590
 msgid ""
 ":mtgtip:`Plains<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/b/8/b8e41010-a7d2-4e78-8f7b-502347f8c47d.jpg?1562365040|https://"
 "scryfall.com/card/lrw/282/plains?utm_source=api>`"
 msgstr ""
 
-#: ../../LRW.rst:1579
+#: ../../LRW.rst:1589
 msgid "(|tap|: Add |mana_w|.)"
 msgstr "(|tap|: Weź |mana_w|.)"
 
-#: ../../LRW.rst:1584
+#: ../../LRW.rst:1594
 msgid ""
 ":mtgtip:`Island<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/5/8/5885738f-a51d-418c-b194-0ba8ef6af556.jpg?1562349472|https://"
 "scryfall.com/card/lrw/286/island?utm_source=api>`"
 msgstr ""
 
-#: ../../LRW.rst:1583
+#: ../../LRW.rst:1593
 msgid "(|tap|: Add |mana_u|.)"
 msgstr "(|tap|: Weź |mana_u|.)"
 
-#: ../../LRW.rst:1588
+#: ../../LRW.rst:1598
 msgid ""
 ":mtgtip:`Swamp<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/4/f/4f799604-bbbf-4d57-83c8-13a0eafa974e.jpg?1562348007|https://"
 "scryfall.com/card/lrw/290/swamp?utm_source=api>`"
 msgstr ""
 
-#: ../../LRW.rst:1587
+#: ../../LRW.rst:1597
 msgid "(|tap|: Add |mana_b|.)"
 msgstr "(|tap|: Weź |mana_b|.)"
 
-#: ../../LRW.rst:1592
+#: ../../LRW.rst:1602
 msgid ""
 ":mtgtip:`Mountain<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/8/3/83beeef7-2bb5-4c3a-9be4-79a968696d65.jpg?1562356173|https://"
 "scryfall.com/card/lrw/294/mountain?utm_source=api>`"
 msgstr ""
 
-#: ../../LRW.rst:1591
+#: ../../LRW.rst:1601
 msgid "(|tap|: Add |mana_r|.)"
 msgstr "(|tap|: Weź |mana_r|.)"
 
-#: ../../LRW.rst:1595
+#: ../../LRW.rst:1605
 msgid ""
 ":mtgtip:`Forest<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/6/d/6d3a661e-d890-4211-bc9c-8266001ebfba.jpg?1562352557|https://"
 "scryfall.com/card/lrw/298/forest?utm_source=api>`"
 msgstr ""
 
-#: ../../LRW.rst:1595
+#: ../../LRW.rst:1605
 msgid "(|tap|: Add |mana_g|.)"
 msgstr "(|tap|: Weź |mana_g|.)"

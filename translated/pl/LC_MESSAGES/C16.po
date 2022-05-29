@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-14 18:07+0200\n"
+"POT-Creation-Date: 2022-05-29 18:35+0200\n"
 "PO-Revision-Date: 2022-04-18 17:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c16/pl/>\n"
@@ -1272,8 +1272,8 @@ msgstr ""
 
 #: ../../C16.rst:351 ../../C16.rst:1623 ../../C16.rst:1629 ../../C16.rst:1647
 #: ../../C16.rst:1677 ../../C16.rst:1715 ../../C16.rst:1729 ../../C16.rst:1757
-#: ../../C16.rst:1765 ../../C16.rst:1789 ../../C16.rst:1807 ../../C16.rst:1837
-#: ../../C16.rst:1957
+#: ../../C16.rst:1765 ../../C16.rst:1791 ../../C16.rst:1809 ../../C16.rst:1839
+#: ../../C16.rst:1961
 msgid "|tap|: Add |colorless|."
 msgstr "|tap|: Weź |colorless|."
 
@@ -4364,7 +4364,7 @@ msgid ""
 "https://scryfall.com/card/c16/232/zhur-taa-druid?utm_source=api>`"
 msgstr ""
 
-#: ../../C16.rst:1315 ../../C16.rst:1773
+#: ../../C16.rst:1315 ../../C16.rst:1775
 msgid "|tap|: Add |mana_g|."
 msgstr "|tap|: Weź |mana_g|."
 
@@ -4662,8 +4662,8 @@ msgid "Lands you control have \"|tap|: Add one mana of any color.\""
 msgstr ""
 "Lądy pod twoim władaniem mają \"|tap|: Weź jedną manę dowolnego koloru.\""
 
-#: ../../C16.rst:1411 ../../C16.rst:1431 ../../C16.rst:1693 ../../C16.rst:1859
-#: ../../C16.rst:1953
+#: ../../C16.rst:1411 ../../C16.rst:1431 ../../C16.rst:1693 ../../C16.rst:1861
+#: ../../C16.rst:1957
 msgid "|tap|: Add one mana of any color."
 msgstr "|tap|: Weź jedną manę dowolnego koloru."
 
@@ -4753,8 +4753,12 @@ msgid ""
 msgstr ""
 
 #: ../../C16.rst:1447
-msgid "Multikicker |mana_2|"
-msgstr "Wielopodbicie |mana_2|"
+msgid ""
+"Multikicker |mana_2| (You may pay an additional |mana_2| any number of times "
+"as you cast this spell.)"
+msgstr ""
+"Wielopodbicie |mana_2| (Rzucając ten czar możesz zapłacić dodatkowo |mana_2| "
+"dowolną liczbę razy.)"
 
 #: ../../C16.rst:1449
 msgid ""
@@ -4980,7 +4984,7 @@ msgid ""
 "https://scryfall.com/card/c16/268/rakdos-signet?utm_source=api>`"
 msgstr ""
 
-#: ../../C16.rst:1521 ../../C16.rst:1895
+#: ../../C16.rst:1521 ../../C16.rst:1897
 msgid "|mana_1|, |tap|: Add |mana_b|\\ |mana_r|."
 msgstr "|mana_1|, |tap|: Weź |mana_b|\\ |mana_r|."
 
@@ -5150,7 +5154,7 @@ msgid ""
 "https://scryfall.com/card/c16/279/vensers-journal?utm_source=api>`"
 msgstr ""
 
-#: ../../C16.rst:1589 ../../C16.rst:1835
+#: ../../C16.rst:1589 ../../C16.rst:1837
 msgid "You have no maximum hand size."
 msgstr "Nie masz limitu kart na ręce."
 
@@ -5595,24 +5599,35 @@ msgstr ""
 "|mana_2|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę Lasu i "
 "kartę Równiny, umieść je przekręcone na polu bitwy, po czym przetasuj."
 
-#: ../../C16.rst:1776
+#: ../../C16.rst:1778
 msgid ""
 ":mtgtip:`Mosswort Bridge<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/d/8/d8b818f1-fdb2-4bd4-9b67-6146d6b1c5b2.jpg?1562421730|"
 "https://scryfall.com/card/c16/307/mosswort-bridge?utm_source=api>`"
 msgstr ""
 
-#: ../../C16.rst:1771 ../../C16.rst:1907 ../../C16.rst:1963
+#: ../../C16.rst:1771 ../../C16.rst:1909 ../../C16.rst:1967
+#, fuzzy
+#| msgid ""
+#| "Hideaway (This land enters the battlefield tapped. When it does, look at "
+#| "the top four cards of your library, exile one face down, then put the "
+#| "rest on the bottom of your library.)"
 msgid ""
-"Hideaway (This land enters the battlefield tapped. When it does, look at the "
-"top four cards of your library, exile one face down, then put the rest on "
-"the bottom of your library.)"
+"Hideaway 4 (When this land enters the battlefield, look at the top four "
+"cards of your library, exile one face down, then put the rest on the bottom "
+"in a random order.)"
 msgstr ""
 "Kryjówka (Kiedy ten byt wejdzie na pole bitwy, spójrz na cztery wierzchnie "
 "karty twojej biblioteki, wygnaj jedną zakrytą, po czym umieść pozostałe na "
 "spodzie twojej biblioteki.)"
 
-#: ../../C16.rst:1775
+#: ../../C16.rst:1773
+#, fuzzy
+#| msgid "Krosan Verge enters the battlefield tapped."
+msgid "Mosswort Bridge enters the battlefield tapped."
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
+
+#: ../../C16.rst:1777
 msgid ""
 "|mana_g|, |tap|: You may play the exiled card without paying its mana cost "
 "if creatures you control have total power 10 or greater."
@@ -5620,18 +5635,18 @@ msgstr ""
 "|mana_g|, |tap|: Możesz zagrać ową wygnaną kartę bez płacenia jej kosztu "
 "many jeśli stwory pod twoim władaniem mają łączną siłę 10 lub większą."
 
-#: ../../C16.rst:1784
+#: ../../C16.rst:1786
 msgid ""
 ":mtgtip:`Murmuring Bosk<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/d/0/d07a08cc-e558-40a5-a10a-b52fd1c877e6.jpg?1562420520|"
 "https://scryfall.com/card/c16/308/murmuring-bosk?utm_source=api>`"
 msgstr ""
 
-#: ../../C16.rst:1779 ../../C16.rst:1987
+#: ../../C16.rst:1781 ../../C16.rst:1993
 msgid "(|tap|: Add |mana_g|.)"
 msgstr "(|tap|: Weź |mana_g|.)"
 
-#: ../../C16.rst:1781
+#: ../../C16.rst:1783
 msgid ""
 "As Murmuring Bosk enters the battlefield, you may reveal a Treefolk card "
 "from your hand. If you don't, Murmuring Bosk enters the battlefield tapped."
@@ -5639,22 +5654,22 @@ msgstr ""
 "Przy wejściu tego bytu na pole bitwy, możesz ujawnić kartę Drzewca z twojej "
 "ręki. Jeśli tak nie zrobisz, ten byt wchodzi przekręcony na pole bitwy."
 
-#: ../../C16.rst:1783
+#: ../../C16.rst:1785
 msgid "|tap|: Add |mana_w| or |mana_b|. Murmuring Bosk deals 1 damage to you."
 msgstr "|tap|: Weź |mana_w| lub |mana_b|. Ten byt zadaje tobie 1 obrażenie."
 
-#: ../../C16.rst:1792
+#: ../../C16.rst:1794
 msgid ""
 ":mtgtip:`Myriad Landscape<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/7/2/725cae0d-4407-4f83-818e-d42de5d3ff78.jpg?1562405585|"
 "https://scryfall.com/card/c16/309/myriad-landscape?utm_source=api>`"
 msgstr ""
 
-#: ../../C16.rst:1787
+#: ../../C16.rst:1789
 msgid "Myriad Landscape enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
-#: ../../C16.rst:1791
+#: ../../C16.rst:1793
 msgid ""
 "|mana_2|, |tap|, Sacrifice Myriad Landscape: Search your library for up to "
 "two basic land cards that share a land type, put them onto the battlefield "
@@ -5664,44 +5679,44 @@ msgstr ""
 "dwie karty bazowych lądów mających wspólny typ lądu, umieść je przekręcone "
 "na polu bitwy, po czym przetasuj."
 
-#: ../../C16.rst:1798
+#: ../../C16.rst:1800
 msgid ""
 ":mtgtip:`Mystic Monastery<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/2/7/2770621f-3906-4762-bfbd-e6e32b52ea92.jpg?1562392656|"
 "https://scryfall.com/card/c16/310/mystic-monastery?utm_source=api>`"
 msgstr ""
 
-#: ../../C16.rst:1795
+#: ../../C16.rst:1797
 msgid "Mystic Monastery enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
-#: ../../C16.rst:1797
+#: ../../C16.rst:1799
 msgid "|tap|: Add |mana_u|, |mana_r|, or |mana_w|."
 msgstr "|tap|: Weź |mana_u|, |mana_r| lub |mana_w|."
 
-#: ../../C16.rst:1804
+#: ../../C16.rst:1806
 msgid ""
 ":mtgtip:`Nomad Outpost<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/5/7/5728dffd-0312-4844-8868-12f040b8326f.jpg?1562401019|"
 "https://scryfall.com/card/c16/311/nomad-outpost?utm_source=api>`"
 msgstr ""
 
-#: ../../C16.rst:1801
+#: ../../C16.rst:1803
 msgid "Nomad Outpost enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
-#: ../../C16.rst:1803
+#: ../../C16.rst:1805
 msgid "|tap|: Add |mana_r|, |mana_w|, or |mana_b|."
 msgstr "|tap|: Weź |mana_r|, |mana_w|, lub |mana_b|."
 
-#: ../../C16.rst:1810
+#: ../../C16.rst:1812
 msgid ""
 ":mtgtip:`Opal Palace<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/1/7/17e02be7-a09d-4d74-a2d0-8f87244fd4bb.jpg?1562389778|https://"
 "scryfall.com/card/c16/312/opal-palace?utm_source=api>`"
 msgstr ""
 
-#: ../../C16.rst:1809
+#: ../../C16.rst:1811
 msgid ""
 "|mana_1|, |tap|: Add one mana of any color in your commander's color "
 "identity. If you spend this mana to cast your commander, it enters the "
@@ -5713,33 +5728,33 @@ msgstr ""
 "pole bitwy z tyloma dodatkowymi znacznikami +1/+1, ile razy został on "
 "rzucony ze strefy dowodzenia w tej grze."
 
-#: ../../C16.rst:1816
+#: ../../C16.rst:1818
 msgid ""
 ":mtgtip:`Opulent Palace<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/8/0/80dbbb02-3361-4b35-b193-9b5752222647.jpg?1562407784|"
 "https://scryfall.com/card/c16/313/opulent-palace?utm_source=api>`"
 msgstr ""
 
-#: ../../C16.rst:1813
+#: ../../C16.rst:1815
 msgid "Opulent Palace enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
-#: ../../C16.rst:1815
+#: ../../C16.rst:1817
 msgid "|tap|: Add |mana_b|, |mana_g|, or |mana_u|."
 msgstr "|tap|: Weź |mana_b|, |mana_g|, lub |mana_u|."
 
-#: ../../C16.rst:1824
+#: ../../C16.rst:1826
 msgid ""
 ":mtgtip:`Orzhov Basilica<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/7/f/7f625a1e-688e-4e05-a1a6-13a898d96b58.jpg?1562407376|"
 "https://scryfall.com/card/c16/314/orzhov-basilica?utm_source=api>`"
 msgstr ""
 
-#: ../../C16.rst:1819
+#: ../../C16.rst:1821
 msgid "Orzhov Basilica enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
-#: ../../C16.rst:1821
+#: ../../C16.rst:1823
 msgid ""
 "When Orzhov Basilica enters the battlefield, return a land you control to "
 "its owner's hand."
@@ -5747,22 +5762,22 @@ msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
 "ręki właściciela."
 
-#: ../../C16.rst:1823
+#: ../../C16.rst:1825
 msgid "|tap|: Add |mana_w|\\ |mana_b|."
 msgstr "|tap|: Weź |mana_w|\\ |mana_b|."
 
-#: ../../C16.rst:1832
+#: ../../C16.rst:1834
 msgid ""
 ":mtgtip:`Rakdos Carnarium<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/3/9/39b1b219-be35-48af-849f-af0a61c34a1c.jpg?1562395860|"
 "https://scryfall.com/card/c16/315/rakdos-carnarium?utm_source=api>`"
 msgstr ""
 
-#: ../../C16.rst:1827
+#: ../../C16.rst:1829
 msgid "Rakdos Carnarium enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
-#: ../../C16.rst:1829
+#: ../../C16.rst:1831
 msgid ""
 "When Rakdos Carnarium enters the battlefield, return a land you control to "
 "its owner's hand."
@@ -5770,62 +5785,62 @@ msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
 "ręki właściciela."
 
-#: ../../C16.rst:1831
+#: ../../C16.rst:1833
 msgid "|tap|: Add |mana_b|\\ |mana_r|."
 msgstr "|tap|: Weź |mana_b|\\ |mana_r|."
 
-#: ../../C16.rst:1838
+#: ../../C16.rst:1840
 msgid ""
 ":mtgtip:`Reliquary Tower<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/7/b/7bd0479a-c73c-45b9-bb88-fc2886bcc1c8.jpg?1562407090|"
 "https://scryfall.com/card/c16/316/reliquary-tower?utm_source=api>`"
 msgstr ""
 
-#: ../../C16.rst:1844
+#: ../../C16.rst:1846
 msgid ""
 ":mtgtip:`Rootbound Crag<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/3/6/365b6a35-2388-4e21-8532-d49416dd9a54.jpg?1562395316|"
 "https://scryfall.com/card/c16/317/rootbound-crag?utm_source=api>`"
 msgstr ""
 
-#: ../../C16.rst:1841
+#: ../../C16.rst:1843
 msgid ""
 "Rootbound Crag enters the battlefield tapped unless you control a Mountain "
 "or a Forest."
 msgstr ""
 "Ten ląd wchodzi przekręcony na pole bitwy, chyba że władasz Górą lub Lasem."
 
-#: ../../C16.rst:1843 ../../C16.rst:1851
+#: ../../C16.rst:1845 ../../C16.rst:1853
 msgid "|tap|: Add |mana_r| or |mana_g|."
 msgstr "|tap|: Weź |mana_r| lub |mana_g|."
 
-#: ../../C16.rst:1852
+#: ../../C16.rst:1854
 msgid ""
 ":mtgtip:`Rugged Highlands<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/8/2/825f18f4-a35d-4d92-a9f8-c4c5484891b0.jpg?1562407832|"
 "https://scryfall.com/card/c16/318/rugged-highlands?utm_source=api>`"
 msgstr ""
 
-#: ../../C16.rst:1847
+#: ../../C16.rst:1849
 msgid "Rugged Highlands enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
-#: ../../C16.rst:1849
+#: ../../C16.rst:1851
 msgid "When Rugged Highlands enters the battlefield, you gain 1 life."
 msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
-#: ../../C16.rst:1860
+#: ../../C16.rst:1862
 msgid ""
 ":mtgtip:`Rupture Spire<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/e/7/e748fc8f-e369-4ccb-990a-d1abfa47a023.jpg?1562424080|"
 "https://scryfall.com/card/c16/319/rupture-spire?utm_source=api>`"
 msgstr ""
 
-#: ../../C16.rst:1855
+#: ../../C16.rst:1857
 msgid "Rupture Spire enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
-#: ../../C16.rst:1857
+#: ../../C16.rst:1859
 msgid ""
 "When Rupture Spire enters the battlefield, sacrifice it unless you pay |"
 "mana_1|."
@@ -5833,78 +5848,78 @@ msgstr ""
 "Kiedy ta karta wejdzie na pole bitwy, poświęć ją, chyba że zapłacisz |"
 "mana_1|."
 
-#: ../../C16.rst:1866
+#: ../../C16.rst:1868
 msgid ""
 ":mtgtip:`Sandsteppe Citadel<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/7/d/7d035968-ba49-47c1-b26a-2faead68b2ac.jpg?1562407279|"
 "https://scryfall.com/card/c16/320/sandsteppe-citadel?utm_source=api>`"
 msgstr ""
 
-#: ../../C16.rst:1863
+#: ../../C16.rst:1865
 msgid "Sandsteppe Citadel enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
-#: ../../C16.rst:1865
+#: ../../C16.rst:1867
 msgid "|tap|: Add |mana_w|, |mana_b|, or |mana_g|."
 msgstr "|tap|: Weź |mana_w|, |mana_b|, lub |mana_g|."
 
-#: ../../C16.rst:1872
+#: ../../C16.rst:1874
 msgid ""
 ":mtgtip:`Savage Lands<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/9/f/9f658788-3667-4dd0-b9cd-04aaa9d7edd4.jpg?1562412790|"
 "https://scryfall.com/card/c16/321/savage-lands?utm_source=api>`"
 msgstr ""
 
-#: ../../C16.rst:1869
+#: ../../C16.rst:1871
 msgid "Savage Lands enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
-#: ../../C16.rst:1871
+#: ../../C16.rst:1873
 msgid "|tap|: Add |mana_b|, |mana_r|, or |mana_g|."
 msgstr "|tap|: Weź |mana_b|, |mana_r|, lub |mana_g|."
 
-#: ../../C16.rst:1878
+#: ../../C16.rst:1880
 msgid ""
 ":mtgtip:`Seaside Citadel<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/a/4/a43910f1-303d-4214-9404-cabee59b65bd.jpg?1562413772|"
 "https://scryfall.com/card/c16/322/seaside-citadel?utm_source=api>`"
 msgstr ""
 
-#: ../../C16.rst:1875
+#: ../../C16.rst:1877
 msgid "Seaside Citadel enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
-#: ../../C16.rst:1877
+#: ../../C16.rst:1879
 msgid "|tap|: Add |mana_g|, |mana_w|, or |mana_u|."
 msgstr "|tap|: Weź |mana_g|, |mana_w|, lub |mana_u|."
 
-#: ../../C16.rst:1884
+#: ../../C16.rst:1886
 msgid ""
 ":mtgtip:`Seat of the Synod<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/c/c/ccd300af-057e-4ea2-8132-7e33c8f34e08.jpg?1562420016|"
 "https://scryfall.com/card/c16/323/seat-of-the-synod?utm_source=api>`"
 msgstr ""
 
-#: ../../C16.rst:1881
+#: ../../C16.rst:1883
 msgid "(Seat of the Synod isn't a spell.)"
 msgstr "(Ta karta nie jest czarem.)"
 
-#: ../../C16.rst:1883
+#: ../../C16.rst:1885
 msgid "|tap|: Add |mana_u|."
 msgstr "|tap|: Weź |mana_u|."
 
-#: ../../C16.rst:1892
+#: ../../C16.rst:1894
 msgid ""
 ":mtgtip:`Selesnya Sanctuary<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/0/2/02c63879-d0e2-4bb3-b0fe-52be077030df.jpg?1562386211|"
 "https://scryfall.com/card/c16/324/selesnya-sanctuary?utm_source=api>`"
 msgstr ""
 
-#: ../../C16.rst:1887
+#: ../../C16.rst:1889
 msgid "Selesnya Sanctuary enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
-#: ../../C16.rst:1889
+#: ../../C16.rst:1891
 msgid ""
 "When Selesnya Sanctuary enters the battlefield, return a land you control to "
 "its owner's hand."
@@ -5912,29 +5927,29 @@ msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
 "ręki właściciela."
 
-#: ../../C16.rst:1891
+#: ../../C16.rst:1893
 msgid "|tap|: Add |mana_g|\\ |mana_w|."
 msgstr "|tap|: Weź |mana_g|\\ |mana_w|."
 
-#: ../../C16.rst:1896
+#: ../../C16.rst:1898
 msgid ""
 ":mtgtip:`Shadowblood Ridge<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/a/7/a7d4dbc3-bfbd-4b82-892e-d6314b68c793.jpg?1562414310|"
 "https://scryfall.com/card/c16/325/shadowblood-ridge?utm_source=api>`"
 msgstr ""
 
-#: ../../C16.rst:1904
+#: ../../C16.rst:1906
 msgid ""
 ":mtgtip:`Simic Growth Chamber<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/1/a/1a8657d9-7623-45d7-9189-7c0edd972205.jpg?1562390254|"
 "https://scryfall.com/card/c16/326/simic-growth-chamber?utm_source=api>`"
 msgstr ""
 
-#: ../../C16.rst:1899
+#: ../../C16.rst:1901
 msgid "Simic Growth Chamber enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
-#: ../../C16.rst:1901
+#: ../../C16.rst:1903
 msgid ""
 "When Simic Growth Chamber enters the battlefield, return a land you control "
 "to its owner's hand."
@@ -5942,22 +5957,28 @@ msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
 "ręki właściciela."
 
-#: ../../C16.rst:1903
+#: ../../C16.rst:1905
 msgid "|tap|: Add |mana_g|\\ |mana_u|."
 msgstr "|tap|: Weź |mana_g|\\ |mana_u|."
 
-#: ../../C16.rst:1912
+#: ../../C16.rst:1916
 msgid ""
 ":mtgtip:`Spinerock Knoll<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/4/c/4c38757c-8707-4834-afd0-169afec1e235.jpg?1562398945|"
 "https://scryfall.com/card/c16/327/spinerock-knoll?utm_source=api>`"
 msgstr ""
 
-#: ../../C16.rst:1909
+#: ../../C16.rst:1911
+#, fuzzy
+#| msgid "Jungle Hollow enters the battlefield tapped."
+msgid "Spinerock Knoll enters the battlefield tapped."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
+
+#: ../../C16.rst:1913
 msgid "|tap|: Add |mana_r|."
 msgstr "|tap|: Weź |mana_r|."
 
-#: ../../C16.rst:1911
+#: ../../C16.rst:1915
 msgid ""
 "|mana_r|, |tap|: You may play the exiled card without paying its mana cost "
 "if an opponent was dealt 7 or more damage this turn."
@@ -5965,25 +5986,25 @@ msgstr ""
 "|mana_r|, |tap|: Możesz zagrać ową wygnaną kartę bez płacenia jej kosztu "
 "many jeśli przeciwnik otrzymał w tej turze co najmniej 7 obrażeń."
 
-#: ../../C16.rst:1916
+#: ../../C16.rst:1920
 msgid ""
 ":mtgtip:`Sungrass Prairie<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/8/7/872d5bdb-1c1d-40dd-9162-d5d216f2656b.jpg?1562408738|"
 "https://scryfall.com/card/c16/328/sungrass-prairie?utm_source=api>`"
 msgstr ""
 
-#: ../../C16.rst:1915
+#: ../../C16.rst:1919
 msgid "|mana_1|, |tap|: Add |mana_g|\\ |mana_w|."
 msgstr "|mana_1|, |tap|: Weź |mana_g|\\ |mana_w|."
 
-#: ../../C16.rst:1922
+#: ../../C16.rst:1926
 msgid ""
 ":mtgtip:`Sunpetal Grove<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/e/e/ee06bee0-912f-49ae-98ca-a30246de1a5a.jpg?1562425093|"
 "https://scryfall.com/card/c16/329/sunpetal-grove?utm_source=api>`"
 msgstr ""
 
-#: ../../C16.rst:1919
+#: ../../C16.rst:1923
 msgid ""
 "Sunpetal Grove enters the battlefield tapped unless you control a Forest or "
 "a Plains."
@@ -5991,37 +6012,37 @@ msgstr ""
 "Ten ląd wchodzi przekręcony na pole bitwy, chyba że władasz Lasem lub "
 "Równiną."
 
-#: ../../C16.rst:1921
+#: ../../C16.rst:1925
 msgid "|tap|: Add |mana_g| or |mana_w|."
 msgstr "|tap|: Weź |mana_g| lub |mana_w|."
 
-#: ../../C16.rst:1930
+#: ../../C16.rst:1934
 msgid ""
 ":mtgtip:`Swiftwater Cliffs<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/a/a/aaea6938-6a9d-48f2-9fe6-e4649062e53a.jpg?1562414530|"
 "https://scryfall.com/card/c16/330/swiftwater-cliffs?utm_source=api>`"
 msgstr ""
 
-#: ../../C16.rst:1925
+#: ../../C16.rst:1929
 msgid "Swiftwater Cliffs enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
-#: ../../C16.rst:1927
+#: ../../C16.rst:1931
 msgid "When Swiftwater Cliffs enters the battlefield, you gain 1 life."
 msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
-#: ../../C16.rst:1929
+#: ../../C16.rst:1933
 msgid "|tap|: Add |mana_u| or |mana_r|."
 msgstr "|tap|: Weź |mana_u| lub |mana_r|."
 
-#: ../../C16.rst:1934
+#: ../../C16.rst:1938
 msgid ""
 ":mtgtip:`Temple of the False God<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/1/2/12c24992-5042-4d98-b326-909832b41f68.jpg?1562389095|"
 "https://scryfall.com/card/c16/331/temple-of-the-false-god?utm_source=api>`"
 msgstr ""
 
-#: ../../C16.rst:1933
+#: ../../C16.rst:1937
 msgid ""
 "|tap|: Add |colorless|\\ |colorless|. Activate only if you control five or "
 "more lands."
@@ -6029,14 +6050,14 @@ msgstr ""
 "|tap|: Weź |colorless|\\ |colorless|. Możesz aktywować tylko jeśli władasz "
 "co najmniej pięcioma lądami."
 
-#: ../../C16.rst:1938
+#: ../../C16.rst:1942
 msgid ""
 ":mtgtip:`Terramorphic Expanse<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/9/b/9b8d7221-b8a8-438e-9ba1-5aa94eeefb84.jpg?1562411872|"
 "https://scryfall.com/card/c16/332/terramorphic-expanse?utm_source=api>`"
 msgstr ""
 
-#: ../../C16.rst:1937
+#: ../../C16.rst:1941
 msgid ""
 "|tap|, Sacrifice Terramorphic Expanse: Search your library for a basic land "
 "card, put it onto the battlefield tapped, then shuffle."
@@ -6044,67 +6065,73 @@ msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
 "umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
-#: ../../C16.rst:1946
+#: ../../C16.rst:1950
 msgid ""
 ":mtgtip:`Thornwood Falls<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/2/2/22e41485-89af-4a6b-9254-1e3c1397321f.jpg?1562391713|"
 "https://scryfall.com/card/c16/333/thornwood-falls?utm_source=api>`"
 msgstr ""
 
-#: ../../C16.rst:1941
+#: ../../C16.rst:1945
 msgid "Thornwood Falls enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
-#: ../../C16.rst:1943
+#: ../../C16.rst:1947
 msgid "When Thornwood Falls enters the battlefield, you gain 1 life."
 msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
-#: ../../C16.rst:1945
+#: ../../C16.rst:1949
 msgid "|tap|: Add |mana_g| or |mana_u|."
 msgstr "|tap|: Weź |mana_g| lub |mana_u|."
 
-#: ../../C16.rst:1954
+#: ../../C16.rst:1958
 msgid ""
 ":mtgtip:`Transguild Promenade<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/0/6/06dfd214-a1be-4fb0-9f55-4f38fdd29f43.jpg?1562386703|"
 "https://scryfall.com/card/c16/334/transguild-promenade?utm_source=api>`"
 msgstr ""
 
-#: ../../C16.rst:1949
+#: ../../C16.rst:1953
 msgid "Transguild Promenade enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
-#: ../../C16.rst:1951
+#: ../../C16.rst:1955
 msgid ""
 "When Transguild Promenade enters the battlefield, sacrifice it unless you "
 "pay |mana_1|."
 msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy poświęć go, chyba że zapłacisz |mana_1|."
 
-#: ../../C16.rst:1960
+#: ../../C16.rst:1964
 msgid ""
 ":mtgtip:`Underground River<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/3/5/351bc970-edd0-49b6-bd5d-3109b96f51d6.jpg?1562395253|"
 "https://scryfall.com/card/c16/335/underground-river?utm_source=api>`"
 msgstr ""
 
-#: ../../C16.rst:1959
+#: ../../C16.rst:1963
 msgid ""
 "|tap|: Add |mana_u| or |mana_b|. Underground River deals 1 damage to you."
 msgstr "|tap|: Weź |mana_u| lub |mana_b|. Ten ląd zadaje tobie 1 obrażenie."
 
-#: ../../C16.rst:1968
+#: ../../C16.rst:1974
 msgid ""
 ":mtgtip:`Windbrisk Heights<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/c/c/cc8e7dac-f537-4acf-9854-ca3b5faa67e3.jpg?1562420004|"
 "https://scryfall.com/card/c16/336/windbrisk-heights?utm_source=api>`"
 msgstr ""
 
-#: ../../C16.rst:1965
+#: ../../C16.rst:1969
+#, fuzzy
+#| msgid "Rugged Highlands enters the battlefield tapped."
+msgid "Windbrisk Heights enters the battlefield tapped."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
+
+#: ../../C16.rst:1971
 msgid "|tap|: Add |mana_w|."
 msgstr "|tap|: Weź |mana_w|."
 
-#: ../../C16.rst:1967
+#: ../../C16.rst:1973
 msgid ""
 "|mana_w|, |tap|: You may play the exiled card without paying its mana cost "
 "if you attacked with three or more creatures this turn."
@@ -6112,56 +6139,59 @@ msgstr ""
 "|mana_w|, |tap|: Możesz zagrać wygnaną kartę bez płacenia jej kosztu many "
 "jeśli w tej turze zaatakowałeś co najmniej trzema stworami."
 
-#: ../../C16.rst:1972
+#: ../../C16.rst:1978
 msgid ""
 ":mtgtip:`Plains<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/3/1/315bc0a3-3d1a-4c2e-b12c-e81486a02311.jpg?1562394375|https://"
 "scryfall.com/card/c16/337/plains?utm_source=api>`"
 msgstr ""
 
-#: ../../C16.rst:1971
+#: ../../C16.rst:1977
 msgid "(|tap|: Add |mana_w|.)"
 msgstr "(|tap|: Weź |mana_w|.)"
 
-#: ../../C16.rst:1976
+#: ../../C16.rst:1982
 msgid ""
 ":mtgtip:`Island<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/5/8/58651bbd-b3df-4b9c-b515-28d778cc2f7f.jpg?1562401065|https://"
 "scryfall.com/card/c16/340/island?utm_source=api>`"
 msgstr ""
 
-#: ../../C16.rst:1975
+#: ../../C16.rst:1981
 msgid "(|tap|: Add |mana_u|.)"
 msgstr "(|tap|: Weź |mana_u|.)"
 
-#: ../../C16.rst:1980
+#: ../../C16.rst:1986
 msgid ""
 ":mtgtip:`Swamp<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/8/3/8394a4fc-809b-4586-88a4-1d3c2c3c84ef.jpg?1562408242|https://"
 "scryfall.com/card/c16/343/swamp?utm_source=api>`"
 msgstr ""
 
-#: ../../C16.rst:1979
+#: ../../C16.rst:1985
 msgid "(|tap|: Add |mana_b|.)"
 msgstr "(|tap|: Weź |mana_b|.)"
 
-#: ../../C16.rst:1984
+#: ../../C16.rst:1990
 msgid ""
 ":mtgtip:`Mountain<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/e/5/e5a66092-6748-430e-877c-0ddc94c948c2.jpg?1562423636|https://"
 "scryfall.com/card/c16/346/mountain?utm_source=api>`"
 msgstr ""
 
-#: ../../C16.rst:1983
+#: ../../C16.rst:1989
 msgid "(|tap|: Add |mana_r|.)"
 msgstr "(|tap|: Weź |mana_r|.)"
 
-#: ../../C16.rst:1987
+#: ../../C16.rst:1993
 msgid ""
 ":mtgtip:`Forest<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/e/4/e4508384-7c5b-4189-80e6-1fc8a0fd4692.jpg?1562423219|https://"
 "scryfall.com/card/c16/349/forest?utm_source=api>`"
 msgstr ""
+
+#~ msgid "Multikicker |mana_2|"
+#~ msgstr "Wielopodbicie |mana_2|"
 
 #~ msgid ""
 #~ "Suspend X—|mana_x|\\ |mana_3|\\ |mana_u|. X can't be 0. (Rather than cast "
@@ -6175,10 +6205,3 @@ msgstr ""
 #~ "mana_u| i wygnaj ją z X znacznikami czasu. Na początku twojego kroku "
 #~ "utrzymania, usuń znacznik czasu. Kiedy ostatni znacznik czasu zostanie "
 #~ "usunięty, rzuć ją bez płacenia kosztu many. Ma pośpiech.)"
-
-#~ msgid ""
-#~ "Multikicker |mana_2| (You may pay an additional |mana_2| any number of "
-#~ "times as you cast this spell.)"
-#~ msgstr ""
-#~ "Wielopodbicie |mana_2| (Rzucając ten czar możesz zapłacić dodatkowo |"
-#~ "mana_2| dowolną liczbę razy.)"
