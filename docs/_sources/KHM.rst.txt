@@ -349,14 +349,14 @@
    Foretell |mana_2|\ |mana_u| (During your turn, you may pay |mana_2| and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)
 
 
-:mtgtip:`A-Cosmos Charger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4dfd73e2-1fad-46f6-90c5-ea35a380dbef.jpg?1649850835|https://scryfall.com/card/khm/A-51/a-cosmos-charger?utm_source=api>`
+:mtgtip:`A-Cosmos Charger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4dfd73e2-1fad-46f6-90c5-ea35a380dbef.jpg?1651977628|https://scryfall.com/card/khm/A-51/a-cosmos-charger?utm_source=api>`
    Flash
 
    Flying
 
    Foretelling cards from your hand costs |mana_1| less and can be done on any player's turn.
 
-   Foretell |mana_1|\ |mana_u|
+   Foretell |mana_u|
 
 
 :mtgtip:`Cyclone Summoner<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/2/b2d40071-cadf-48de-a8ed-d55adbfab632.jpg?1631046953|https://scryfall.com/card/khm/52/cyclone-summoner?utm_source=api>`
@@ -979,7 +979,7 @@
    Squash deals 6 damage to target creature or planeswalker.
 
 
-:mtgtip:`Tibalt's Trickery<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/d/dd921e27-3e08-438c-bec2-723226d35175.jpg?1634131612|https://scryfall.com/card/khm/153/tibalts-trickery?utm_source=api>`
+:mtgtip:`Tibalt's Trickery<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/d/dd921e27-3e08-438c-bec2-723226d35175.jpg?1652278784|https://scryfall.com/card/khm/153/tibalts-trickery?utm_source=api>`
    Counter target spell. Choose 1, 2, or 3 at random. Its controller mills that many cards, then exiles cards from the top of their library until they exile a nonland card with a different name than that spell. They may cast that card without paying its mana cost. Then they put the exiled cards on the bottom of their library in a random order.
 
 

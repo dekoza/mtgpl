@@ -660,7 +660,7 @@
 :mtgtip:`Goblin Dark-Dwellers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/d/ddf91a4e-97f7-4189-823d-b619bb3b3d55.jpg?1562939666|https://scryfall.com/card/ogw/110/goblin-dark-dwellers?utm_source=api>`
    Menace
 
-   When Goblin Dark-Dwellers enters the battlefield, you may cast target instant or sorcery card with mana value 3 or less from your graveyard without paying its mana cost. If that spell would be put into your graveyard this turn, exile it instead.
+   When Goblin Dark-Dwellers enters the battlefield, you may cast target instant or sorcery card with mana value 3 or less from your graveyard without paying its mana cost. If that spell would be put into your graveyard, exile it instead.
 
 
 :mtgtip:`Goblin Freerunner<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/0/5082e0a1-5c3e-4b8c-ba88-290151564133.jpg?1562911327|https://scryfall.com/card/ogw/111/goblin-freerunner?utm_source=api>`

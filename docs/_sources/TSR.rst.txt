@@ -1966,7 +1966,7 @@
 :mtgtip:`Dreadhorde Arcanist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/7/27933adb-9c7a-4248-9908-f01e6a6bf12c.jpg?1619401433|https://scryfall.com/card/tsr/341/dreadhorde-arcanist?utm_source=api>`
    Trample
 
-   Whenever Dreadhorde Arcanist attacks, you may cast target instant or sorcery card with mana value less than or equal to Dreadhorde Arcanist's power from your graveyard without paying its mana cost. If that spell would be put into your graveyard this turn, exile it instead.
+   Whenever Dreadhorde Arcanist attacks, you may cast target instant or sorcery card with mana value less than or equal to Dreadhorde Arcanist's power from your graveyard without paying its mana cost. If that spell would be put into your graveyard, exile it instead.
 
 
 :mtgtip:`Etali, Primal Storm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/0/b0f9f8b0-f0de-4dff-a8ea-857919366000.jpg?1619401469|https://scryfall.com/card/tsr/342/etali-primal-storm?utm_source=api>`
@@ -2250,7 +2250,7 @@
 
 
 :mtgtip:`Everflowing Chalice<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/7/27875258-47af-4105-9ded-56e03dcbd9e7.jpg?1619403015|https://scryfall.com/card/tsr/394/everflowing-chalice?utm_source=api>`
-   Multikicker |mana_2|
+   Multikicker |mana_2| (You may pay an additional |mana_2| any number of times as you cast this spell.)
 
    Everflowing Chalice enters the battlefield with a charge counter on it for each time it was kicked.
 

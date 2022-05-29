@@ -1554,7 +1554,9 @@
 
 
 :mtgtip:`Mosswort Bridge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/b/cbc74505-4d75-4bae-bf43-ec08731dfdd9.jpg?1631589969|https://scryfall.com/card/afc/251/mosswort-bridge?utm_source=api>`
-   Hideaway (This land enters the battlefield tapped. When it does, look at the top four cards of your library, exile one face down, then put the rest on the bottom of your library.)
+   Hideaway 4 (When this land enters the battlefield, look at the top four cards of your library, exile one face down, then put the rest on the bottom in a random order.)
+
+   Mosswort Bridge enters the battlefield tapped.
 
    |tap|: Add |mana_g|.
 
@@ -1632,7 +1634,9 @@
 
 
 :mtgtip:`Spinerock Knoll<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/b/6bfb3dac-94d7-4b94-9a9e-6392d5ce5bf2.jpg?1631590313|https://scryfall.com/card/afc/263/spinerock-knoll?utm_source=api>`
-   Hideaway (This land enters the battlefield tapped. When it does, look at the top four cards of your library, exile one face down, then put the rest on the bottom of your library.)
+   Hideaway 4 (When this land enters the battlefield, look at the top four cards of your library, exile one face down, then put the rest on the bottom in a random order.)
+
+   Spinerock Knoll enters the battlefield tapped.
 
    |tap|: Add |mana_r|.
 

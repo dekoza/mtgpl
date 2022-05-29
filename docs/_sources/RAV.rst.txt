@@ -550,7 +550,7 @@
 
 
 :mtgtip:`Sins of the Past<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/c/5c518792-a50f-40b1-b6fb-674432093b6a.jpg?1598915195|https://scryfall.com/card/rav/106/sins-of-the-past?utm_source=api>`
-   Until end of turn, you may cast target instant or sorcery card from your graveyard without paying its mana cost. If that spell would be put into your graveyard this turn, exile it instead. Exile Sins of the Past.
+   Until end of turn, you may cast target instant or sorcery card from your graveyard without paying its mana cost. If that spell would be put into your graveyard, exile it instead. Exile Sins of the Past.
 
 
 :mtgtip:`Stinkweed Imp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/2/628903a0-6695-4643-80f3-9a6efc4d6a27.jpg?1598915220|https://scryfall.com/card/rav/107/stinkweed-imp?utm_source=api>`

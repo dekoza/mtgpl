@@ -29,7 +29,7 @@
    Magecraft — Whenever you cast or copy an instant or sorcery spell, scry 1. If that spell's mana value is 5 or greater, create a 4/4 blue and red Elemental creature token. If that spell's mana value is 10 or greater, Zaffai, Thunder Conductor deals 10 damage to an opponent chosen at random.
 
 
-:mtgtip:`Gyome, Master Chef<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/d/5dd7dd1a-6dd1-43c3-8298-7db703d384a1.jpg?1625190660|https://scryfall.com/card/c21/5/gyome-master-chef?utm_source=api>`
+:mtgtip:`Gyome, Master Chef<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/d/5dd7dd1a-6dd1-43c3-8298-7db703d384a1.jpg?1652657094|https://scryfall.com/card/c21/5/gyome-master-chef?utm_source=api>`
    Trample
 
    At the beginning of your end step, create a number of Food tokens equal to the number of nontoken creatures you had enter the battlefield under your control this turn.
@@ -685,10 +685,10 @@
    Look at the top seven cards of your library. Put two of them into your hand and the rest on the bottom of your library in any order.
 
 
-:mtgtip:`Diluvian Primordial<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/b/eb580daa-0cf3-4816-b8c5-49927682a91d.jpg?1625976172|https://scryfall.com/card/c21/120/diluvian-primordial?utm_source=api>`
+:mtgtip:`Diluvian Primordial<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/b/eb580daa-0cf3-4816-b8c5-49927682a91d.jpg?1651525805|https://scryfall.com/card/c21/120/diluvian-primordial?utm_source=api>`
    Flying
 
-   When Diluvian Primordial enters the battlefield, for each opponent, you may cast up to one target instant or sorcery card from that player's graveyard without paying its mana cost. If a spell cast this way would be put into a graveyard this turn, exile it instead.
+   When Diluvian Primordial enters the battlefield, for each opponent, you may cast up to one target instant or sorcery card from that player's graveyard without paying its mana cost. If a spell cast this way would be put into a graveyard, exile it instead.
 
 
 :mtgtip:`Living Lore<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/5/15b137fb-3f90-4a44-a225-cff5ca153190.jpg?1625976209|https://scryfall.com/card/c21/121/living-lore?utm_source=api>`
@@ -1105,7 +1105,7 @@
    |mana_3|\ |mana_g|\ |mana_g|: Adapt 3. (If this creature has no +1/+1 counters on it, put three +1/+1 counters on it.)
 
 
-:mtgtip:`Kazandu Tuskcaller<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/5/f5453591-6377-40de-892c-e8dd46687d11.jpg?1648097785|https://scryfall.com/card/c21/196/kazandu-tuskcaller?utm_source=api>`
+:mtgtip:`Kazandu Tuskcaller<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/5/f5453591-6377-40de-892c-e8dd46687d11.jpg?1652016207|https://scryfall.com/card/c21/196/kazandu-tuskcaller?utm_source=api>`
    Level up |mana_1|\ |mana_g| (|mana_1|\ |mana_g|: Put a level counter on this. Level up only as a sorcery.)
 
    LEVEL 2-5
@@ -1736,7 +1736,9 @@
 
 
 :mtgtip:`Mosswort Bridge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/e/3ed79e47-e91b-40c6-adc2-7ec5d3ad17cf.jpg?1625980555|https://scryfall.com/card/c21/303/mosswort-bridge?utm_source=api>`
-   Hideaway (This land enters the battlefield tapped. When it does, look at the top four cards of your library, exile one face down, then put the rest on the bottom of your library.)
+   Hideaway 4 (When this land enters the battlefield, look at the top four cards of your library, exile one face down, then put the rest on the bottom in a random order.)
+
+   Mosswort Bridge enters the battlefield tapped.
 
    |tap|: Add |mana_g|.
 

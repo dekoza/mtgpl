@@ -2011,8 +2011,8 @@
    |mana_2|, |tap|, Sacrifice Navigation Orb: Search your library for up to two basic land cards and/or Gate cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle.
 
 
-:mtgtip:`Nimblewright Schematic<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/4/34282856-c0f1-4845-bfc8-537466c6a5bb.jpg?1653732276|https://scryfall.com/card/clb/330/nimblewright-schematic?utm_source=api>`
-   When enters the battelefield or is put into a graveyard from the battlefield, create a 1/1 colorless Construct artifact creature token.
+:mtgtip:`Nimblewright Schematic<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/4/34282856-c0f1-4845-bfc8-537466c6a5bb.jpg?1653804744|https://scryfall.com/card/clb/330/nimblewright-schematic?utm_source=api>`
+   When enters the battlefield or is put into a graveyard from the battlefield, create a 1/1 colorless Construct artifact creature token.
 
 
 :mtgtip:`Noble's Purse<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/e/be533558-3b16-4df0-a0ca-faa1ebf2e641.jpg?1652832583|https://scryfall.com/card/clb/331/nobles-purse?utm_source=api>`

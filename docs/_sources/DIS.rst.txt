@@ -669,10 +669,10 @@
    Whenever an opponent is dealt 3 or more damage by a single source, that player discards a card.
 
 
-:mtgtip:`Palliation Accord<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/d/cda10c3b-ee16-4de5-9e54-d0187cd5cc80.jpg?1593273690|https://scryfall.com/card/dis/122/palliation-accord?utm_source=api>`
-   Whenever a creature an opponent controls becomes tapped, put a shield counter on Palliation Accord.
+:mtgtip:`Palliation Accord<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/d/cda10c3b-ee16-4de5-9e54-d0187cd5cc80.jpg?1651124399|https://scryfall.com/card/dis/122/palliation-accord?utm_source=api>`
+   Whenever a creature an opponent controls becomes tapped, put a palliation counter on Palliation Accord.
 
-   Remove a shield counter from Palliation Accord: Prevent the next 1 damage that would be dealt to you this turn.
+   Remove a palliation counter from Palliation Accord: Prevent the next 1 damage that would be dealt to you this turn.
 
 
 :mtgtip:`Plaxcaster Frogling<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/4/64bb1946-8057-4a31-9de7-4bd1a9845165.jpg?1593273699|https://scryfall.com/card/dis/123/plaxcaster-frogling?utm_source=api>`

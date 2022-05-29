@@ -1233,7 +1233,7 @@
    Whenever you cast a noncreature spell, draw a card.
 
 
-:mtgtip:`Winota, Joiner of Forces<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/d/5dd13a6c-23d3-44ce-a628-cb1c19d777c4.jpg?1632831221|https://scryfall.com/card/iko/216/winota-joiner-of-forces?utm_source=api>`
+:mtgtip:`Winota, Joiner of Forces<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/d/5dd13a6c-23d3-44ce-a628-cb1c19d777c4.jpg?1652278787|https://scryfall.com/card/iko/216/winota-joiner-of-forces?utm_source=api>`
    Whenever a non-Human creature you control attacks, look at the top six cards of your library. You may put a Human creature card from among them onto the battlefield tapped and attacking. It gains indestructible until end of turn. Put the rest of the cards on the bottom of your library in a random order.
 
 

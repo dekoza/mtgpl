@@ -77,10 +77,10 @@
    |mana_1|\ |mana_u|\ |mana_u|, Discard three cards with different names: Draw five cards.
 
 
-:mtgtip:`Scholar of the Lost Trove<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/a/aa254a86-3c30-408d-9c14-befd472f9740.jpg?1632261772|https://scryfall.com/card/jmp/14/scholar-of-the-lost-trove?utm_source=api>`
+:mtgtip:`Scholar of the Lost Trove<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/a/aa254a86-3c30-408d-9c14-befd472f9740.jpg?1651525848|https://scryfall.com/card/jmp/14/scholar-of-the-lost-trove?utm_source=api>`
    Flying
 
-   When Scholar of the Lost Trove enters the battlefield, you may cast target instant, sorcery, or artifact card from your graveyard without paying its mana cost. If an instant or sorcery spell cast this way would be put into your graveyard this turn, exile it instead.
+   When Scholar of the Lost Trove enters the battlefield, you may cast target instant, sorcery, or artifact card from your graveyard without paying its mana cost. If an instant or sorcery spell cast this way would be put into your graveyard, exile it instead.
 
 
 :mtgtip:`Kels, Fight Fixer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/7/b70d445b-d3d6-4f7c-b9ea-bed6a26d4a2a.jpg?1632261776|https://scryfall.com/card/jmp/15/kels-fight-fixer?utm_source=api>`
@@ -2336,7 +2336,7 @@
 
 
 :mtgtip:`Suspicious Bookcase<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/b/7b14ff70-6817-4539-b19b-142f8f6b6b1f.jpg?1601082941|https://scryfall.com/card/jmp/487/suspicious-bookcase?utm_source=api>`
-   Defender (This creature can't attack.)
+   Defender
 
    |mana_3|, |tap|: Target creature can't be blocked this turn.
 

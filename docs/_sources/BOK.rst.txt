@@ -506,7 +506,7 @@
 :mtgtip:`Toshiro Umezawa<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/e/0e767e07-febd-4025-bf03-d4d816bc1d3d.jpg?1562875477|https://scryfall.com/card/bok/89/toshiro-umezawa?utm_source=api>`
    Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)
 
-   Whenever a creature an opponent controls dies, you may cast target instant card from your graveyard. If that spell would be put into a graveyard this turn, exile it instead.
+   Whenever a creature an opponent controls dies, you may cast target instant card from your graveyard. If that spell would be put into a graveyard, exile it instead.
 
 
 :mtgtip:`Yukora, the Prisoner<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/4/54aeca31-1175-4d2d-adc3-e3682d7e9e07.jpg?1562877071|https://scryfall.com/card/bok/90/yukora-the-prisoner?utm_source=api>`
@@ -567,8 +567,8 @@
    First Volley deals 1 damage to target creature and 1 damage to that creature's controller.
 
 
-:mtgtip:`Flames of the Blood Hand<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/7/a79701b4-d220-4c3e-b96c-7a77a22ba899.jpg?1562878975|https://scryfall.com/card/bok/101/flames-of-the-blood-hand?utm_source=api>`
-   Flames of the Blood Hand deals 4 damage to target player or planeswalker. The damage can't be prevented. If that player would gain life this turn, that player gains no life instead.
+:mtgtip:`Flames of the Blood Hand<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/7/a79701b4-d220-4c3e-b96c-7a77a22ba899.jpg?1651124386|https://scryfall.com/card/bok/101/flames-of-the-blood-hand?utm_source=api>`
+   Flames of the Blood Hand deals 4 damage to target player or planeswalker. The damage can't be prevented. If that player or that planeswalker's controller would gain life this turn, that player gains no life instead.
 
 
 :mtgtip:`Frost Ogre<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/a/1a91e5f1-9179-4763-b7c9-b7ad5451f6d0.jpg?1562875749|https://scryfall.com/card/bok/102/frost-ogre?utm_source=api>`

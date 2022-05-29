@@ -366,7 +366,7 @@
 :mtgtip:`Torrential Gearhulk<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/5/d52868cb-087e-4f91-91bc-455f2e2e7cd7.jpg?1576381464|https://scryfall.com/card/kld/67/torrential-gearhulk?utm_source=api>`
    Flash
 
-   When Torrential Gearhulk enters the battlefield, you may cast target instant card from your graveyard without paying its mana cost. If that spell would be put into your graveyard this turn, exile it instead.
+   When Torrential Gearhulk enters the battlefield, you may cast target instant card from your graveyard without paying its mana cost. If that spell would be put into your graveyard, exile it instead.
 
 
 :mtgtip:`Vedalken Blademaster<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/7/572c15ab-2229-4536-b586-638ec77d9cb7.jpg?1576381476|https://scryfall.com/card/kld/68/vedalken-blademaster?utm_source=api>`

@@ -1360,7 +1360,7 @@
 
 
 :mtgtip:`Everflowing Chalice<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/c/9cd8112f-21e0-4272-9f0d-14d1ef989779.jpg?1599709165|https://scryfall.com/card/2xm/254/everflowing-chalice?utm_source=api>`
-   Multikicker |mana_2|
+   Multikicker |mana_2| (You may pay an additional |mana_2| any number of times as you cast this spell.)
 
    Everflowing Chalice enters the battlefield with a charge counter on it for each time it was kicked.
 
