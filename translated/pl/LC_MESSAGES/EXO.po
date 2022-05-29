@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-14 18:07+0200\n"
-"PO-Revision-Date: 2022-04-07 18:35+0000\n"
+"PO-Revision-Date: 2022-05-29 17:57+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/exo/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.10.1\n"
+"X-Generator: Weblate 4.12.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../symbols.rst:3
@@ -309,6 +309,8 @@ msgid ""
 "At the beginning of your upkeep, if you have 10 or less life, you gain 1 "
 "life."
 msgstr ""
+"Na początku twojego kroku utrzymania, jeśli masz 10 żyć lub mniej, zyskaj 1 "
+"życie."
 
 #: ../../EXO.rst:34
 msgid ""
@@ -355,6 +357,8 @@ msgid ""
 "|mana_w|, |tap|: Choose target opponent who had more life than you did as "
 "you activated this ability. You gain 3 life."
 msgstr ""
+"|mana_w|, |tap|: Wybierz wskazanego przeciwnika, który miał więcej żyć od "
+"ciebie podczas aktywacji tej zdolności. Zyskaj 3 życia."
 
 #: ../../EXO.rst:46
 msgid ""
@@ -384,11 +388,15 @@ msgid ""
 "When Limited Resources enters the battlefield, each player chooses five "
 "lands they control and sacrifices the rest."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, każdy gracz wybiera pięć lądów pod "
+"swoim władaniem i poświęca resztę."
 
 #: ../../EXO.rst:51
 msgid ""
 "Players can't play lands as long as ten or more lands are on the battlefield."
 msgstr ""
+"Gracze nie mogą zagrywać lądów o ile na polu bitwy jest co najmniej dziesięć "
+"lądów."
 
 #: ../../EXO.rst:56
 msgid ""
