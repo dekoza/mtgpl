@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2022.5\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-14 18:07+0200\n"
+"POT-Creation-Date: 2022-05-29 18:35+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,6 +20,8 @@ msgstr ""
 msgid "{C}"
 msgstr ""
 
+#: ../../symbols.rst:5
+#: ../../symbols.rst:5
 #: ../../symbols.rst:5
 #: ../../symbols.rst:5
 #: ../../symbols.rst:5
@@ -1201,10 +1203,23 @@ msgstr ""
 msgid "(|tap|: Add |mana_w|.)"
 msgstr ""
 
-#: ../../ANB.rst:543
+#: ../../ANB.rst:544
 msgid ":mtgtip:`Swamp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/4/24f796dc-7a6b-4652-9268-3523d7b54e94.jpg?1597375431|https://scryfall.com/card/anb/116/swamp?utm_source=api>`"
 msgstr ""
 
 #: ../../ANB.rst:543
 msgid "(|tap|: Add |mana_b|.)"
+msgstr ""
+
+#: ../../ANB.rst:548
+msgid ":mtgtip:`Arcane Signet<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/a/eae6e393-315b-4f70-9da2-c58003e2813d.jpg?1652898607|https://scryfall.com/card/anb/117/arcane-signet?utm_source=api>`"
+msgstr ""
+
+#: ../../ANB.rst:547
+#: ../../ANB.rst:551
+msgid "|tap|: Add one mana of any color in your commander's color identity."
+msgstr ""
+
+#: ../../ANB.rst:551
+msgid ":mtgtip:`Command Tower<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bde73c08-40f6-42bd-9c38-348fcef97aa5.jpg?1652898645|https://scryfall.com/card/anb/118/command-tower?utm_source=api>`"
 msgstr ""

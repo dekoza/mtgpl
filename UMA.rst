@@ -69,7 +69,7 @@
    When Ancestor's Chosen enters the battlefield, you gain 1 life for each card in your graveyard.
 
 
-:mtgtip:`Angelic Renewal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/0/a03fc1f1-31f6-4e52-87d0-e3d18ea60d3b.jpg?1547515384|https://scryfall.com/card/uma/10/angelic-renewal?utm_source=api>`
+:mtgtip:`Angelic Renewal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/0/a03fc1f1-31f6-4e52-87d0-e3d18ea60d3b.jpg?1651387506|https://scryfall.com/card/uma/10/angelic-renewal?utm_source=api>`
    Whenever a creature is put into your graveyard from the battlefield, you may sacrifice Angelic Renewal. If you do, return that card to the battlefield.
 
 

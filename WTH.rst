@@ -741,8 +741,8 @@
    Prevent all damage that would be dealt to creatures.
 
 
-:mtgtip:`Bösium Strip<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/8/3884bede-df28-42e8-9ac9-ae03118b1985.jpg?1562800239|https://scryfall.com/card/wth/147/b%C3%B6sium-strip?utm_source=api>`
-   |mana_3|, |tap|: Until end of turn, you may cast instant and sorcery spells from the top of your graveyard. If a spell cast this way would be put into a graveyard this turn, exile it instead.
+:mtgtip:`Bösium Strip<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/8/3884bede-df28-42e8-9ac9-ae03118b1985.jpg?1651492718|https://scryfall.com/card/wth/147/b%C3%B6sium-strip?utm_source=api>`
+   |mana_3|, |tap|: Until end of turn, you may cast instant and sorcery spells from the top of your graveyard. If a spell cast this way would be put into a graveyard, exile it instead.
 
 
 :mtgtip:`Chimeric Sphere<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/c/cc96857c-b38e-4614-9838-cacd3700e3ee.jpg?1562803391|https://scryfall.com/card/wth/148/chimeric-sphere?utm_source=api>`

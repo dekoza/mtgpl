@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2022.5\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-14 18:07+0200\n"
+"POT-Creation-Date: 2022-05-29 18:35+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -478,6 +478,7 @@ msgstr ""
 msgid "{1}"
 msgstr ""
 
+#: ../../symbols.rst:47
 #: ../../symbols.rst:47
 #: ../../symbols.rst:47
 #: ../../symbols.rst:47
@@ -4309,7 +4310,7 @@ msgid ":mtgtip:`Dreadhorde Arcanist<https://c1.scryfall.com/file/scryfall-cards/
 msgstr ""
 
 #: ../../TSR.rst:1969
-msgid "Whenever Dreadhorde Arcanist attacks, you may cast target instant or sorcery card with mana value less than or equal to Dreadhorde Arcanist's power from your graveyard without paying its mana cost. If that spell would be put into your graveyard this turn, exile it instead."
+msgid "Whenever Dreadhorde Arcanist attacks, you may cast target instant or sorcery card with mana value less than or equal to Dreadhorde Arcanist's power from your graveyard without paying its mana cost. If that spell would be put into your graveyard, exile it instead."
 msgstr ""
 
 #: ../../TSR.rst:1974
@@ -4817,7 +4818,7 @@ msgid ":mtgtip:`Everflowing Chalice<https://c1.scryfall.com/file/scryfall-cards/
 msgstr ""
 
 #: ../../TSR.rst:2253
-msgid "Multikicker |mana_2|"
+msgid "Multikicker |mana_2| (You may pay an additional |mana_2| any number of times as you cast this spell.)"
 msgstr ""
 
 #: ../../TSR.rst:2255

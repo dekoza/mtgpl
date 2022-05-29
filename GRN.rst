@@ -234,7 +234,7 @@
 
 
 :mtgtip:`Mission Briefing<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/2/02bed34d-67d9-4ae9-b351-dc9a89daeabf.jpg?1572892770|https://scryfall.com/card/grn/44/mission-briefing?utm_source=api>`
-   Surveil 2, then choose an instant or sorcery card in your graveyard. You may cast it this turn. If that spell would be put into your graveyard this turn, exile it instead. (To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+   Surveil 2, then choose an instant or sorcery card in your graveyard. You may cast it this turn. If that spell would be put into your graveyard, exile it instead. (To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
 
 
 :mtgtip:`Murmuring Mystic<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/f/5fc6adff-dcb3-456d-a8c2-0e77b784ff89.jpg?1572892777|https://scryfall.com/card/grn/45/murmuring-mystic?utm_source=api>`

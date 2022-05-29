@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2022.5\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-14 18:07+0200\n"
+"POT-Creation-Date: 2022-05-29 18:35+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1424,10 +1424,10 @@ msgstr ""
 #: ../../AFC.rst:1515
 #: ../../AFC.rst:1523
 #: ../../AFC.rst:1537
-#: ../../AFC.rst:1565
-#: ../../AFC.rst:1653
-#: ../../AFC.rst:1695
-#: ../../AFC.rst:1703
+#: ../../AFC.rst:1567
+#: ../../AFC.rst:1657
+#: ../../AFC.rst:1699
+#: ../../AFC.rst:1707
 msgid "|tap|: Add |colorless|."
 msgstr ""
 
@@ -3069,7 +3069,7 @@ msgid ":mtgtip:`Rakdos Signet<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../AFC.rst:1327
-#: ../../AFC.rst:1613
+#: ../../AFC.rst:1615
 msgid "|mana_1|, |tap|: Add |mana_b|\\ |mana_r|."
 msgstr ""
 
@@ -3462,299 +3462,307 @@ msgstr ""
 msgid ":mtgtip:`Mossfire Valley<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/e/6e25404c-52ed-4553-a09a-a28a3b17c37f.jpg?1631589947|https://scryfall.com/card/afc/250/mossfire-valley?utm_source=api>`"
 msgstr ""
 
-#: ../../AFC.rst:1562
+#: ../../AFC.rst:1564
 msgid ":mtgtip:`Mosswort Bridge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/b/cbc74505-4d75-4bae-bf43-ec08731dfdd9.jpg?1631589969|https://scryfall.com/card/afc/251/mosswort-bridge?utm_source=api>`"
 msgstr ""
 
 #: ../../AFC.rst:1557
-#: ../../AFC.rst:1635
-msgid "Hideaway (This land enters the battlefield tapped. When it does, look at the top four cards of your library, exile one face down, then put the rest on the bottom of your library.)"
+#: ../../AFC.rst:1637
+msgid "Hideaway 4 (When this land enters the battlefield, look at the top four cards of your library, exile one face down, then put the rest on the bottom in a random order.)"
 msgstr ""
 
 #: ../../AFC.rst:1559
-msgid "|tap|: Add |mana_g|."
+msgid "Mosswort Bridge enters the battlefield tapped."
 msgstr ""
 
 #: ../../AFC.rst:1561
+msgid "|tap|: Add |mana_g|."
+msgstr ""
+
+#: ../../AFC.rst:1563
 msgid "|mana_g|, |tap|: You may play the exiled card without paying its mana cost if creatures you control have total power 10 or greater."
 msgstr ""
 
-#: ../../AFC.rst:1570
+#: ../../AFC.rst:1572
 msgid ":mtgtip:`Nimbus Maze<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/1/711dbdb1-7ec3-4fb4-8364-d34f5e143fd1.jpg?1631589989|https://scryfall.com/card/afc/252/nimbus-maze?utm_source=api>`"
 msgstr ""
 
-#: ../../AFC.rst:1567
+#: ../../AFC.rst:1569
 msgid "|tap|: Add |mana_w|. Activate only if you control an Island."
 msgstr ""
 
-#: ../../AFC.rst:1569
+#: ../../AFC.rst:1571
 msgid "|tap|: Add |mana_u|. Activate only if you control a Plains."
 msgstr ""
 
-#: ../../AFC.rst:1578
+#: ../../AFC.rst:1580
 msgid ":mtgtip:`Orzhov Basilica<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/c/fc063704-f0d3-46b5-9340-f80d431ce5dc.jpg?1631590027|https://scryfall.com/card/afc/253/orzhov-basilica?utm_source=api>`"
 msgstr ""
 
-#: ../../AFC.rst:1573
+#: ../../AFC.rst:1575
 msgid "Orzhov Basilica enters the battlefield tapped."
 msgstr ""
 
-#: ../../AFC.rst:1575
+#: ../../AFC.rst:1577
 msgid "When Orzhov Basilica enters the battlefield, return a land you control to its owner's hand."
 msgstr ""
 
-#: ../../AFC.rst:1577
+#: ../../AFC.rst:1579
 msgid "|tap|: Add |mana_w|\\ |mana_b|."
 msgstr ""
 
-#: ../../AFC.rst:1584
+#: ../../AFC.rst:1586
 msgid ":mtgtip:`Path of Ancestry<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/a/4ae7a4a1-0da6-44a9-b7e8-a28733580d0c.jpg?1631590048|https://scryfall.com/card/afc/254/path-of-ancestry?utm_source=api>`"
 msgstr ""
 
-#: ../../AFC.rst:1581
+#: ../../AFC.rst:1583
 msgid "Path of Ancestry enters the battlefield tapped."
 msgstr ""
 
-#: ../../AFC.rst:1583
+#: ../../AFC.rst:1585
 msgid "|tap|: Add one mana of any color in your commander's color identity. When that mana is spent to cast a creature spell that shares a creature type with your commander, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
 
-#: ../../AFC.rst:1590
+#: ../../AFC.rst:1592
 msgid ":mtgtip:`Port Town<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/6/e6a12a68-a88c-440d-a6ee-b235afbbbfb8.jpg?1631590085|https://scryfall.com/card/afc/255/port-town?utm_source=api>`"
 msgstr ""
 
-#: ../../AFC.rst:1587
+#: ../../AFC.rst:1589
 msgid "As Port Town enters the battlefield, you may reveal a Plains or Island card from your hand. If you don't, Port Town enters the battlefield tapped."
 msgstr ""
 
-#: ../../AFC.rst:1589
+#: ../../AFC.rst:1591
 msgid "|tap|: Add |mana_w| or |mana_u|."
 msgstr ""
 
-#: ../../AFC.rst:1596
+#: ../../AFC.rst:1598
 msgid ":mtgtip:`Prairie Stream<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/b/9b724d9e-89d5-4e2f-9331-a60ee0d1893d.jpg?1631590106|https://scryfall.com/card/afc/256/prairie-stream?utm_source=api>`"
 msgstr ""
 
-#: ../../AFC.rst:1593
+#: ../../AFC.rst:1595
 msgid "(|tap|: Add |mana_w| or |mana_u|.)"
 msgstr ""
 
-#: ../../AFC.rst:1595
+#: ../../AFC.rst:1597
 msgid "Prairie Stream enters the battlefield tapped unless you control two or more basic lands."
 msgstr ""
 
-#: ../../AFC.rst:1604
+#: ../../AFC.rst:1606
 msgid ":mtgtip:`Rakdos Carnarium<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/1/b18103c9-b92f-4f65-93ba-d18d3fd5b557.jpg?1631590127|https://scryfall.com/card/afc/257/rakdos-carnarium?utm_source=api>`"
 msgstr ""
 
-#: ../../AFC.rst:1599
+#: ../../AFC.rst:1601
 msgid "Rakdos Carnarium enters the battlefield tapped."
 msgstr ""
 
-#: ../../AFC.rst:1601
+#: ../../AFC.rst:1603
 msgid "When Rakdos Carnarium enters the battlefield, return a land you control to its owner's hand."
 msgstr ""
 
-#: ../../AFC.rst:1603
+#: ../../AFC.rst:1605
 msgid "|tap|: Add |mana_b|\\ |mana_r|."
 msgstr ""
 
-#: ../../AFC.rst:1610
+#: ../../AFC.rst:1612
 msgid ":mtgtip:`Seaside Citadel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/f/4f35d808-51c7-42b1-bbd5-1cd452432cd6.jpg?1631590165|https://scryfall.com/card/afc/258/seaside-citadel?utm_source=api>`"
 msgstr ""
 
-#: ../../AFC.rst:1607
+#: ../../AFC.rst:1609
 msgid "Seaside Citadel enters the battlefield tapped."
 msgstr ""
 
-#: ../../AFC.rst:1609
+#: ../../AFC.rst:1611
 msgid "|tap|: Add |mana_g|, |mana_w|, or |mana_u|."
 msgstr ""
 
-#: ../../AFC.rst:1614
+#: ../../AFC.rst:1616
 msgid ":mtgtip:`Shadowblood Ridge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/4/74c0016a-6761-4764-bf4a-ecde26061a90.jpg?1631590187|https://scryfall.com/card/afc/259/shadowblood-ridge?utm_source=api>`"
 msgstr ""
 
-#: ../../AFC.rst:1622
+#: ../../AFC.rst:1624
 msgid ":mtgtip:`Simic Growth Chamber<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/8/c8f84235-758a-41b9-8b6c-185b64c00ca2.jpg?1631590225|https://scryfall.com/card/afc/260/simic-growth-chamber?utm_source=api>`"
 msgstr ""
 
-#: ../../AFC.rst:1617
+#: ../../AFC.rst:1619
 msgid "Simic Growth Chamber enters the battlefield tapped."
 msgstr ""
 
-#: ../../AFC.rst:1619
+#: ../../AFC.rst:1621
 msgid "When Simic Growth Chamber enters the battlefield, return a land you control to its owner's hand."
 msgstr ""
 
-#: ../../AFC.rst:1621
+#: ../../AFC.rst:1623
 msgid "|tap|: Add |mana_g|\\ |mana_u|."
 msgstr ""
 
-#: ../../AFC.rst:1626
+#: ../../AFC.rst:1628
 msgid ":mtgtip:`Skycloud Expanse<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/5/5510e165-f632-47e7-84c6-b5346e46ac9a.jpg?1631590252|https://scryfall.com/card/afc/261/skycloud-expanse?utm_source=api>`"
 msgstr ""
 
-#: ../../AFC.rst:1625
+#: ../../AFC.rst:1627
 msgid "|mana_1|, |tap|: Add |mana_w|\\ |mana_u|."
 msgstr ""
 
-#: ../../AFC.rst:1632
+#: ../../AFC.rst:1634
 msgid ":mtgtip:`Smoldering Marsh<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/2/02d90054-65da-4562-bfe7-48c381757b30.jpg?1631590291|https://scryfall.com/card/afc/262/smoldering-marsh?utm_source=api>`"
 msgstr ""
 
-#: ../../AFC.rst:1629
+#: ../../AFC.rst:1631
 msgid "(|tap|: Add |mana_b| or |mana_r|.)"
 msgstr ""
 
-#: ../../AFC.rst:1631
+#: ../../AFC.rst:1633
 msgid "Smoldering Marsh enters the battlefield tapped unless you control two or more basic lands."
 msgstr ""
 
-#: ../../AFC.rst:1640
+#: ../../AFC.rst:1644
 msgid ":mtgtip:`Spinerock Knoll<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/b/6bfb3dac-94d7-4b94-9a9e-6392d5ce5bf2.jpg?1631590313|https://scryfall.com/card/afc/263/spinerock-knoll?utm_source=api>`"
 msgstr ""
 
-#: ../../AFC.rst:1637
+#: ../../AFC.rst:1639
+msgid "Spinerock Knoll enters the battlefield tapped."
+msgstr ""
+
+#: ../../AFC.rst:1641
 msgid "|tap|: Add |mana_r|."
 msgstr ""
 
-#: ../../AFC.rst:1639
+#: ../../AFC.rst:1643
 msgid "|mana_r|, |tap|: You may play the exiled card without paying its mana cost if an opponent was dealt 7 or more damage this turn."
 msgstr ""
 
-#: ../../AFC.rst:1644
+#: ../../AFC.rst:1648
 msgid ":mtgtip:`Sungrass Prairie<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/e/6ed96237-ef35-4665-881b-868634161717.jpg?1631590349|https://scryfall.com/card/afc/264/sungrass-prairie?utm_source=api>`"
 msgstr ""
 
-#: ../../AFC.rst:1643
+#: ../../AFC.rst:1647
 msgid "|mana_1|, |tap|: Add |mana_g|\\ |mana_w|."
 msgstr ""
 
-#: ../../AFC.rst:1650
+#: ../../AFC.rst:1654
 msgid ":mtgtip:`Sunken Hollow<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/9/29982d94-9824-4371-95f6-d5050b1895ce.jpg?1631590371|https://scryfall.com/card/afc/265/sunken-hollow?utm_source=api>`"
 msgstr ""
 
-#: ../../AFC.rst:1647
+#: ../../AFC.rst:1651
 msgid "(|tap|: Add |mana_u| or |mana_b|.)"
 msgstr ""
 
-#: ../../AFC.rst:1649
+#: ../../AFC.rst:1653
 msgid "Sunken Hollow enters the battlefield tapped unless you control two or more basic lands."
 msgstr ""
 
-#: ../../AFC.rst:1656
+#: ../../AFC.rst:1660
 msgid ":mtgtip:`Tainted Peak<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/5/e5dd195d-6f81-4ff8-b950-455ab462ec7d.jpg?1631590406|https://scryfall.com/card/afc/266/tainted-peak?utm_source=api>`"
 msgstr ""
 
-#: ../../AFC.rst:1655
+#: ../../AFC.rst:1659
 msgid "|tap|: Add |mana_b| or |mana_r|. Activate only if you control a Swamp."
 msgstr ""
 
-#: ../../AFC.rst:1660
+#: ../../AFC.rst:1664
 msgid ":mtgtip:`Terramorphic Expanse<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/8/08ac4e43-4e16-46a2-96f5-58d5550984c4.jpg?1631590427|https://scryfall.com/card/afc/267/terramorphic-expanse?utm_source=api>`"
 msgstr ""
 
-#: ../../AFC.rst:1659
+#: ../../AFC.rst:1663
 msgid "|tap|, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
-#: ../../AFC.rst:1668
+#: ../../AFC.rst:1672
 msgid ":mtgtip:`Thriving Grove<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/d/0de19659-5b50-4917-b8dd-e030aa72868d.jpg?1631590447|https://scryfall.com/card/afc/268/thriving-grove?utm_source=api>`"
 msgstr ""
 
-#: ../../AFC.rst:1663
+#: ../../AFC.rst:1667
 msgid "Thriving Grove enters the battlefield tapped."
 msgstr ""
 
-#: ../../AFC.rst:1665
+#: ../../AFC.rst:1669
 msgid "As Thriving Grove enters the battlefield, choose a color other than green."
 msgstr ""
 
-#: ../../AFC.rst:1667
+#: ../../AFC.rst:1671
 msgid "|tap|: Add |mana_g| or one mana of the chosen color."
 msgstr ""
 
-#: ../../AFC.rst:1676
+#: ../../AFC.rst:1680
 msgid ":mtgtip:`Thriving Heath<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/6/5677c5a9-e63f-4d13-91dc-beeb6875f675.jpg?1631590484|https://scryfall.com/card/afc/269/thriving-heath?utm_source=api>`"
 msgstr ""
 
-#: ../../AFC.rst:1671
+#: ../../AFC.rst:1675
 msgid "Thriving Heath enters the battlefield tapped."
 msgstr ""
 
-#: ../../AFC.rst:1673
+#: ../../AFC.rst:1677
 msgid "As Thriving Heath enters the battlefield, choose a color other than white."
 msgstr ""
 
-#: ../../AFC.rst:1675
+#: ../../AFC.rst:1679
 msgid "|tap|: Add |mana_w| or one mana of the chosen color."
 msgstr ""
 
-#: ../../AFC.rst:1684
+#: ../../AFC.rst:1688
 msgid ":mtgtip:`Thriving Isle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/5/d50646a7-f5a7-4106-b660-98ee4bd4d93b.jpg?1631590506|https://scryfall.com/card/afc/270/thriving-isle?utm_source=api>`"
 msgstr ""
 
-#: ../../AFC.rst:1679
+#: ../../AFC.rst:1683
 msgid "Thriving Isle enters the battlefield tapped."
 msgstr ""
 
-#: ../../AFC.rst:1681
+#: ../../AFC.rst:1685
 msgid "As Thriving Isle enters the battlefield, choose a color other than blue."
 msgstr ""
 
-#: ../../AFC.rst:1683
+#: ../../AFC.rst:1687
 msgid "|tap|: Add |mana_u| or one mana of the chosen color."
 msgstr ""
 
-#: ../../AFC.rst:1692
+#: ../../AFC.rst:1696
 msgid ":mtgtip:`Thriving Moor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/f/7faa30a1-ca8c-4462-90ea-8e935cad0a53.jpg?1631590546|https://scryfall.com/card/afc/271/thriving-moor?utm_source=api>`"
 msgstr ""
 
-#: ../../AFC.rst:1687
+#: ../../AFC.rst:1691
 msgid "Thriving Moor enters the battlefield tapped."
 msgstr ""
 
-#: ../../AFC.rst:1689
+#: ../../AFC.rst:1693
 msgid "As Thriving Moor enters the battlefield, choose a color other than black."
 msgstr ""
 
-#: ../../AFC.rst:1691
+#: ../../AFC.rst:1695
 msgid "|tap|: Add |mana_b| or one mana of the chosen color."
 msgstr ""
 
-#: ../../AFC.rst:1698
+#: ../../AFC.rst:1702
 msgid ":mtgtip:`Vitu-Ghazi, the City-Tree<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/3/33145080-077e-4231-96ca-e8b1852b6380.jpg?1631590569|https://scryfall.com/card/afc/272/vitu-ghazi-the-city-tree?utm_source=api>`"
 msgstr ""
 
-#: ../../AFC.rst:1697
+#: ../../AFC.rst:1701
 msgid "|mana_2|\\ |mana_g|\\ |mana_w|, |tap|: Create a 1/1 green Saproling creature token."
 msgstr ""
 
-#: ../../AFC.rst:1704
+#: ../../AFC.rst:1708
 msgid ":mtgtip:`Zhalfirin Void<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/4/d481d871-d1e3-439b-bfd5-5b2212f9b0c8.jpg?1631590590|https://scryfall.com/card/afc/273/zhalfirin-void?utm_source=api>`"
 msgstr ""
 
-#: ../../AFC.rst:1701
+#: ../../AFC.rst:1705
 msgid "When Zhalfirin Void enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
 
-#: ../../AFC.rst:1708
+#: ../../AFC.rst:1712
 msgid ":mtgtip:`Dragonspeaker Shaman<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/b/7b0a2799-197e-4d61-ab23-67d974458a05.jpg?1631590611|https://scryfall.com/card/afc/330/dragonspeaker-shaman?utm_source=api>`"
 msgstr ""
 
-#: ../../AFC.rst:1707
+#: ../../AFC.rst:1711
 msgid "Dragon spells you cast cost |mana_2| less to cast."
 msgstr ""
 
-#: ../../AFC.rst:1713
+#: ../../AFC.rst:1717
 msgid ":mtgtip:`Lightning Greaves<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/e/1e5d9c01-f8db-43ef-bb50-f9e38e99f8d0.jpg?1631590647|https://scryfall.com/card/afc/331/lightning-greaves?utm_source=api>`"
 msgstr ""
 
-#: ../../AFC.rst:1711
+#: ../../AFC.rst:1715
 msgid "Equipped creature has haste and shroud. (It can't be the target of spells or abilities.)"
 msgstr ""
 
-#: ../../AFC.rst:1713
+#: ../../AFC.rst:1717
 msgid "Equip |mana_0|"
 msgstr ""

@@ -940,7 +940,7 @@
 :mtgtip:`Goblin Dark-Dwellers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/b/3bb7be0d-1937-4b30-909c-df2b31a921e3.jpg?1591320633|https://scryfall.com/card/c20/153/goblin-dark-dwellers?utm_source=api>`
    Menace
 
-   When Goblin Dark-Dwellers enters the battlefield, you may cast target instant or sorcery card with mana value 3 or less from your graveyard without paying its mana cost. If that spell would be put into your graveyard this turn, exile it instead.
+   When Goblin Dark-Dwellers enters the battlefield, you may cast target instant or sorcery card with mana value 3 or less from your graveyard without paying its mana cost. If that spell would be put into your graveyard, exile it instead.
 
 
 :mtgtip:`Humble Defector<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/2/4248ee86-a269-4ffc-9050-e9a51612ba75.jpg?1591320642|https://scryfall.com/card/c20/154/humble-defector?utm_source=api>`
@@ -1776,7 +1776,9 @@
 
 
 :mtgtip:`Mosswort Bridge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/f/7f3a9d35-39c9-4f9d-adab-2291db1a3b40.jpg?1591322221|https://scryfall.com/card/c20/291/mosswort-bridge?utm_source=api>`
-   Hideaway (This land enters the battlefield tapped. When it does, look at the top four cards of your library, exile one face down, then put the rest on the bottom of your library.)
+   Hideaway 4 (When this land enters the battlefield, look at the top four cards of your library, exile one face down, then put the rest on the bottom in a random order.)
+
+   Mosswort Bridge enters the battlefield tapped.
 
    |tap|: Add |mana_g|.
 
@@ -1946,7 +1948,9 @@
 
 
 :mtgtip:`Spinerock Knoll<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/d/8d275f23-f6e6-4db8-ab98-de0519aa9772.jpg?1591322476|https://scryfall.com/card/c20/316/spinerock-knoll?utm_source=api>`
-   Hideaway (This land enters the battlefield tapped. When it does, look at the top four cards of your library, exile one face down, then put the rest on the bottom of your library.)
+   Hideaway 4 (When this land enters the battlefield, look at the top four cards of your library, exile one face down, then put the rest on the bottom in a random order.)
+
+   Spinerock Knoll enters the battlefield tapped.
 
    |tap|: Add |mana_r|.
 
@@ -1976,7 +1980,9 @@
 
 
 :mtgtip:`Windbrisk Heights<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/c/ec7f0e60-8fa4-4eab-8465-baf4e5e8196b.jpg?1591322511|https://scryfall.com/card/c20/321/windbrisk-heights?utm_source=api>`
-   Hideaway (This land enters the battlefield tapped. When it does, look at the top four cards of your library, exile one face down, then put the rest on the bottom of your library.)
+   Hideaway 4 (When this land enters the battlefield, look at the top four cards of your library, exile one face down, then put the rest on the bottom in a random order.)
+
+   Windbrisk Heights enters the battlefield tapped.
 
    |tap|: Add |mana_w|.
 

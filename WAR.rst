@@ -648,7 +648,7 @@
 :mtgtip:`Dreadhorde Arcanist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/d/fd97b3cf-924e-4f77-bb82-0bf19592389f.jpg?1613386994|https://scryfall.com/card/war/125/dreadhorde-arcanist?utm_source=api>`
    Trample
 
-   Whenever Dreadhorde Arcanist attacks, you may cast target instant or sorcery card with mana value less than or equal to Dreadhorde Arcanist's power from your graveyard without paying its mana cost. If that spell would be put into your graveyard this turn, exile it instead.
+   Whenever Dreadhorde Arcanist attacks, you may cast target instant or sorcery card with mana value less than or equal to Dreadhorde Arcanist's power from your graveyard without paying its mana cost. If that spell would be put into your graveyard, exile it instead.
 
 
 :mtgtip:`Dreadhorde Twins<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/2/82017bf6-352f-4e81-8fd5-c1b0daf05b01.jpg?1557576685|https://scryfall.com/card/war/126/dreadhorde-twins?utm_source=api>`
@@ -657,8 +657,8 @@
    Zombie tokens you control have trample.
 
 
-:mtgtip:`Finale of Promise<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/1/811b2dda-e1b7-4a46-83cc-5cdc17554836.jpg?1557576690|https://scryfall.com/card/war/127/finale-of-promise?utm_source=api>`
-   You may cast up to one target instant card and/or up to one target sorcery card from your graveyard each with mana value X or less without paying their mana costs. If a spell cast this way would be put into your graveyard this turn, exile it instead. If X is 10 or more, copy each of those spells twice. You may choose new targets for the copies.
+:mtgtip:`Finale of Promise<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/1/811b2dda-e1b7-4a46-83cc-5cdc17554836.jpg?1651525823|https://scryfall.com/card/war/127/finale-of-promise?utm_source=api>`
+   You may cast up to one target instant card and/or up to one target sorcery card from your graveyard each with mana value X or less without paying their mana costs. If a spell cast this way would be put into your graveyard, exile it instead. If X is 10 or more, copy each of those spells twice. You may choose new targets for the copies.
 
 
 :mtgtip:`Goblin Assailant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/4/e41acc81-7c22-4b59-97b8-54473623db6f.jpg?1557576697|https://scryfall.com/card/war/128/goblin-assailant?utm_source=api>`

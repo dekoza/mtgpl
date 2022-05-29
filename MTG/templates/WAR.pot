@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2022.5\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-14 18:07+0200\n"
+"POT-Creation-Date: 2022-05-29 18:35+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1585,7 +1585,7 @@ msgid "Trample"
 msgstr ""
 
 #: ../../WAR.rst:651
-msgid "Whenever Dreadhorde Arcanist attacks, you may cast target instant or sorcery card with mana value less than or equal to Dreadhorde Arcanist's power from your graveyard without paying its mana cost. If that spell would be put into your graveyard this turn, exile it instead."
+msgid "Whenever Dreadhorde Arcanist attacks, you may cast target instant or sorcery card with mana value less than or equal to Dreadhorde Arcanist's power from your graveyard without paying its mana cost. If that spell would be put into your graveyard, exile it instead."
 msgstr ""
 
 #: ../../WAR.rst:658
@@ -1601,11 +1601,11 @@ msgid "Zombie tokens you control have trample."
 msgstr ""
 
 #: ../../WAR.rst:662
-msgid ":mtgtip:`Finale of Promise<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/1/811b2dda-e1b7-4a46-83cc-5cdc17554836.jpg?1557576690|https://scryfall.com/card/war/127/finale-of-promise?utm_source=api>`"
+msgid ":mtgtip:`Finale of Promise<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/1/811b2dda-e1b7-4a46-83cc-5cdc17554836.jpg?1651525823|https://scryfall.com/card/war/127/finale-of-promise?utm_source=api>`"
 msgstr ""
 
 #: ../../WAR.rst:661
-msgid "You may cast up to one target instant card and/or up to one target sorcery card from your graveyard each with mana value X or less without paying their mana costs. If a spell cast this way would be put into your graveyard this turn, exile it instead. If X is 10 or more, copy each of those spells twice. You may choose new targets for the copies."
+msgid "You may cast up to one target instant card and/or up to one target sorcery card from your graveyard each with mana value X or less without paying their mana costs. If a spell cast this way would be put into your graveyard, exile it instead. If X is 10 or more, copy each of those spells twice. You may choose new targets for the copies."
 msgstr ""
 
 #: ../../WAR.rst:664

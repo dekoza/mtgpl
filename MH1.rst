@@ -451,8 +451,10 @@
    |mana_5|: Shuffle your library, then exile the top card. Until end of turn, you may play that card without paying its mana cost.
 
 
-:mtgtip:`Watcher for Tomorrow<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/5/15f01a3c-0a66-48da-a7d2-46260e3b721f.jpg?1562201546|https://scryfall.com/card/mh1/76/watcher-for-tomorrow?utm_source=api>`
-   Hideaway (This creature enters the battlefield tapped. When it does, look at the top four cards of your library, exile one face down, then put the rest on the bottom of your library.)
+:mtgtip:`Watcher for Tomorrow<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/5/15f01a3c-0a66-48da-a7d2-46260e3b721f.jpg?1651225123|https://scryfall.com/card/mh1/76/watcher-for-tomorrow?utm_source=api>`
+   Hideaway 4 (When this creature enters the battlefield, look at the top four cards of your library, exile one face down, then put the rest on the bottom in a random order.)
+
+   Watcher for Tomorrow enters the battlefield tapped.
 
    When Watcher for Tomorrow leaves the battlefield, put the exiled card into its owner's hand.
 

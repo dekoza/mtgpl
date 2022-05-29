@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2022.5\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-14 18:07+0200\n"
+"POT-Creation-Date: 2022-05-29 18:35+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3148,11 +3148,11 @@ msgstr ""
 #: ../../C17.rst:1507
 #: ../../C17.rst:1513
 #: ../../C17.rst:1553
-#: ../../C17.rst:1569
-#: ../../C17.rst:1581
-#: ../../C17.rst:1593
-#: ../../C17.rst:1633
-#: ../../C17.rst:1639
+#: ../../C17.rst:1571
+#: ../../C17.rst:1583
+#: ../../C17.rst:1595
+#: ../../C17.rst:1635
+#: ../../C17.rst:1641
 msgid "|tap|: Add |colorless|."
 msgstr ""
 
@@ -3199,8 +3199,8 @@ msgstr ""
 #: ../../C17.rst:1373
 #: ../../C17.rst:1393
 #: ../../C17.rst:1429
-#: ../../C17.rst:1629
-#: ../../C17.rst:1741
+#: ../../C17.rst:1631
+#: ../../C17.rst:1743
 msgid "|tap|: Add |mana_b| or |mana_r|."
 msgstr ""
 
@@ -3251,9 +3251,9 @@ msgstr ""
 #: ../../C17.rst:1401
 #: ../../C17.rst:1469
 #: ../../C17.rst:1503
-#: ../../C17.rst:1683
-#: ../../C17.rst:1697
-#: ../../C17.rst:1727
+#: ../../C17.rst:1685
+#: ../../C17.rst:1699
+#: ../../C17.rst:1729
 msgid "|tap|: Add |mana_g| or |mana_w|."
 msgstr ""
 
@@ -3270,7 +3270,7 @@ msgid "When Bojuka Bog enters the battlefield, exile target player's graveyard."
 msgstr ""
 
 #: ../../C17.rst:1409
-#: ../../C17.rst:1771
+#: ../../C17.rst:1773
 msgid "|tap|: Add |mana_b|."
 msgstr ""
 
@@ -3299,8 +3299,8 @@ msgid "Boros Guildgate enters the battlefield tapped."
 msgstr ""
 
 #: ../../C17.rst:1423
-#: ../../C17.rst:1705
-#: ../../C17.rst:1789
+#: ../../C17.rst:1707
+#: ../../C17.rst:1791
 msgid "|tap|: Add |mana_r| or |mana_w|."
 msgstr ""
 
@@ -3402,8 +3402,8 @@ msgid "Forsaken Sanctuary enters the battlefield tapped."
 msgstr ""
 
 #: ../../C17.rst:1483
-#: ../../C17.rst:1615
-#: ../../C17.rst:1663
+#: ../../C17.rst:1617
+#: ../../C17.rst:1665
 msgid "|tap|: Add |mana_w| or |mana_b|."
 msgstr ""
 
@@ -3516,8 +3516,8 @@ msgid "When Kabira Crossroads enters the battlefield, you gain 2 life."
 msgstr ""
 
 #: ../../C17.rst:1547
-#: ../../C17.rst:1675
-#: ../../C17.rst:1779
+#: ../../C17.rst:1677
+#: ../../C17.rst:1781
 msgid "|tap|: Add |mana_w|."
 msgstr ""
 
@@ -3533,436 +3533,440 @@ msgstr ""
 msgid "|mana_2|, |tap|, Sacrifice Krosan Verge: Search your library for a Forest card and a Plains card, put them onto the battlefield tapped, then shuffle."
 msgstr ""
 
-#: ../../C17.rst:1564
+#: ../../C17.rst:1566
 msgid ":mtgtip:`Mosswort Bridge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/1/f1bc3755-054d-4037-aea2-7376c0b865c8.jpg?1562628783|https://scryfall.com/card/c17/261/mosswort-bridge?utm_source=api>`"
 msgstr ""
 
 #: ../../C17.rst:1559
-msgid "Hideaway (This land enters the battlefield tapped. When it does, look at the top four cards of your library, exile one face down, then put the rest on the bottom of your library.)"
+msgid "Hideaway 4 (When this land enters the battlefield, look at the top four cards of your library, exile one face down, then put the rest on the bottom in a random order.)"
 msgstr ""
 
 #: ../../C17.rst:1561
-#: ../../C17.rst:1733
-#: ../../C17.rst:1763
-msgid "|tap|: Add |mana_g|."
+msgid "Mosswort Bridge enters the battlefield tapped."
 msgstr ""
 
 #: ../../C17.rst:1563
+#: ../../C17.rst:1735
+#: ../../C17.rst:1765
+msgid "|tap|: Add |mana_g|."
+msgstr ""
+
+#: ../../C17.rst:1565
 msgid "|mana_g|, |tap|: You may play the exiled card without paying its mana cost if creatures you control have total power 10 or greater."
 msgstr ""
 
-#: ../../C17.rst:1572
+#: ../../C17.rst:1574
 msgid ":mtgtip:`Myriad Landscape<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7c63114c-0324-4bca-8d7d-0f83f3b5c0eb.jpg?1562613983|https://scryfall.com/card/c17/262/myriad-landscape?utm_source=api>`"
 msgstr ""
 
-#: ../../C17.rst:1567
+#: ../../C17.rst:1569
 msgid "Myriad Landscape enters the battlefield tapped."
 msgstr ""
 
-#: ../../C17.rst:1571
+#: ../../C17.rst:1573
 msgid "|mana_2|, |tap|, Sacrifice Myriad Landscape: Search your library for up to two basic land cards that share a land type, put them onto the battlefield tapped, then shuffle."
 msgstr ""
 
-#: ../../C17.rst:1578
+#: ../../C17.rst:1580
 msgid ":mtgtip:`Mystic Monastery<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/a/0ab900ee-af10-442b-baa5-8654f82ca381.jpg?1562599531|https://scryfall.com/card/c17/263/mystic-monastery?utm_source=api>`"
 msgstr ""
 
-#: ../../C17.rst:1575
+#: ../../C17.rst:1577
 msgid "Mystic Monastery enters the battlefield tapped."
 msgstr ""
 
-#: ../../C17.rst:1577
+#: ../../C17.rst:1579
 msgid "|tap|: Add |mana_u|, |mana_r|, or |mana_w|."
 msgstr ""
 
-#: ../../C17.rst:1584
+#: ../../C17.rst:1586
 msgid ":mtgtip:`Mystifying Maze<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/a/faeeb2f8-0aa1-4f3e-848d-f4233996055b.jpg?1562629830|https://scryfall.com/card/c17/264/mystifying-maze?utm_source=api>`"
 msgstr ""
 
-#: ../../C17.rst:1583
+#: ../../C17.rst:1585
 msgid "|mana_4|, |tap|: Exile target attacking creature an opponent controls. At the beginning of the next end step, return it to the battlefield tapped under its owner's control."
 msgstr ""
 
-#: ../../C17.rst:1590
+#: ../../C17.rst:1592
 msgid ":mtgtip:`Nomad Outpost<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/c/fc472eca-ffae-4d66-97f2-9204d825402c.jpg?1562630224|https://scryfall.com/card/c17/265/nomad-outpost?utm_source=api>`"
 msgstr ""
 
-#: ../../C17.rst:1587
+#: ../../C17.rst:1589
 msgid "Nomad Outpost enters the battlefield tapped."
 msgstr ""
 
-#: ../../C17.rst:1589
+#: ../../C17.rst:1591
 msgid "|tap|: Add |mana_r|, |mana_w|, or |mana_b|."
 msgstr ""
 
-#: ../../C17.rst:1596
+#: ../../C17.rst:1598
 msgid ":mtgtip:`Opal Palace<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/7/c7d25e91-a1a4-4c64-bb4e-3aac8145d885.jpg?1562623280|https://scryfall.com/card/c17/266/opal-palace?utm_source=api>`"
 msgstr ""
 
-#: ../../C17.rst:1595
+#: ../../C17.rst:1597
 msgid "|mana_1|, |tap|: Add one mana of any color in your commander's color identity. If you spend this mana to cast your commander, it enters the battlefield with a number of additional +1/+1 counters on it equal to the number of times it's been cast from the command zone this game."
 msgstr ""
 
-#: ../../C17.rst:1602
+#: ../../C17.rst:1604
 msgid ":mtgtip:`Opulent Palace<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/1/11da235d-31a3-44b5-9e64-45a577d9622f.jpg?1562600508|https://scryfall.com/card/c17/267/opulent-palace?utm_source=api>`"
 msgstr ""
 
-#: ../../C17.rst:1599
+#: ../../C17.rst:1601
 msgid "Opulent Palace enters the battlefield tapped."
 msgstr ""
 
-#: ../../C17.rst:1601
+#: ../../C17.rst:1603
 msgid "|tap|: Add |mana_b|, |mana_g|, or |mana_u|."
 msgstr ""
 
-#: ../../C17.rst:1610
+#: ../../C17.rst:1612
 msgid ":mtgtip:`Orzhov Basilica<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/3/b31f4a31-fe5c-4430-a8b3-630ceb80e38d.jpg?1562620708|https://scryfall.com/card/c17/268/orzhov-basilica?utm_source=api>`"
 msgstr ""
 
-#: ../../C17.rst:1605
+#: ../../C17.rst:1607
 msgid "Orzhov Basilica enters the battlefield tapped."
 msgstr ""
 
-#: ../../C17.rst:1607
+#: ../../C17.rst:1609
 msgid "When Orzhov Basilica enters the battlefield, return a land you control to its owner's hand."
 msgstr ""
 
-#: ../../C17.rst:1609
+#: ../../C17.rst:1611
 msgid "|tap|: Add |mana_w|\\ |mana_b|."
 msgstr ""
 
-#: ../../C17.rst:1616
+#: ../../C17.rst:1618
 msgid ":mtgtip:`Orzhov Guildgate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/7/27c6f99a-4a1a-44a3-bc41-507aa7b62e1c.jpg?1562603130|https://scryfall.com/card/c17/269/orzhov-guildgate?utm_source=api>`"
 msgstr ""
 
-#: ../../C17.rst:1613
+#: ../../C17.rst:1615
 msgid "Orzhov Guildgate enters the battlefield tapped."
 msgstr ""
 
-#: ../../C17.rst:1624
+#: ../../C17.rst:1626
 msgid ":mtgtip:`Rakdos Carnarium<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/7/67ba680b-b32e-4c2e-8693-bbbe9855a049.jpg?1562611270|https://scryfall.com/card/c17/270/rakdos-carnarium?utm_source=api>`"
 msgstr ""
 
-#: ../../C17.rst:1619
+#: ../../C17.rst:1621
 msgid "Rakdos Carnarium enters the battlefield tapped."
 msgstr ""
 
-#: ../../C17.rst:1621
+#: ../../C17.rst:1623
 msgid "When Rakdos Carnarium enters the battlefield, return a land you control to its owner's hand."
 msgstr ""
 
-#: ../../C17.rst:1623
+#: ../../C17.rst:1625
 msgid "|tap|: Add |mana_b|\\ |mana_r|."
 msgstr ""
 
-#: ../../C17.rst:1630
+#: ../../C17.rst:1632
 msgid ":mtgtip:`Rakdos Guildgate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/8/88e5b326-dbdb-4f97-8496-d2b093d1f822.jpg?1562615491|https://scryfall.com/card/c17/271/rakdos-guildgate?utm_source=api>`"
 msgstr ""
 
-#: ../../C17.rst:1627
+#: ../../C17.rst:1629
 msgid "Rakdos Guildgate enters the battlefield tapped."
 msgstr ""
 
-#: ../../C17.rst:1636
+#: ../../C17.rst:1638
 msgid ":mtgtip:`Rogue's Passage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/766b7834-f54e-4948-80c5-bc37c1d5344e.jpg?1562613020|https://scryfall.com/card/c17/272/rogues-passage?utm_source=api>`"
 msgstr ""
 
-#: ../../C17.rst:1635
+#: ../../C17.rst:1637
 msgid "|mana_4|, |tap|: Target creature can't be blocked this turn."
 msgstr ""
 
-#: ../../C17.rst:1644
+#: ../../C17.rst:1646
 msgid ":mtgtip:`Saltcrusted Steppe<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/6/163d942b-86d0-4947-ba43-cc3b38efa600.jpg?1562601041|https://scryfall.com/card/c17/273/saltcrusted-steppe?utm_source=api>`"
 msgstr ""
 
-#: ../../C17.rst:1641
+#: ../../C17.rst:1643
 msgid "|mana_1|, |tap|: Put a storage counter on Saltcrusted Steppe."
 msgstr ""
 
-#: ../../C17.rst:1643
+#: ../../C17.rst:1645
 msgid "|mana_1|, Remove X storage counters from Saltcrusted Steppe: Add X mana in any combination of |mana_g| and/or |mana_w|."
 msgstr ""
 
-#: ../../C17.rst:1650
+#: ../../C17.rst:1652
 msgid ":mtgtip:`Sandsteppe Citadel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/7/979cf461-2801-4b1a-89b1-257ef9b61c03.jpg?1562617153|https://scryfall.com/card/c17/274/sandsteppe-citadel?utm_source=api>`"
 msgstr ""
 
-#: ../../C17.rst:1647
+#: ../../C17.rst:1649
 msgid "Sandsteppe Citadel enters the battlefield tapped."
 msgstr ""
 
-#: ../../C17.rst:1649
+#: ../../C17.rst:1651
 msgid "|tap|: Add |mana_w|, |mana_b|, or |mana_g|."
 msgstr ""
 
-#: ../../C17.rst:1656
+#: ../../C17.rst:1658
 msgid ":mtgtip:`Savage Lands<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/1/613cb144-6e33-4c9b-b4e3-fd7cef2e4b76.jpg?1562610324|https://scryfall.com/card/c17/275/savage-lands?utm_source=api>`"
 msgstr ""
 
-#: ../../C17.rst:1653
+#: ../../C17.rst:1655
 msgid "Savage Lands enters the battlefield tapped."
 msgstr ""
 
-#: ../../C17.rst:1655
+#: ../../C17.rst:1657
 msgid "|tap|: Add |mana_b|, |mana_r|, or |mana_g|."
 msgstr ""
 
-#: ../../C17.rst:1664
+#: ../../C17.rst:1666
 msgid ":mtgtip:`Scoured Barrens<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/d/0d525f2e-3330-4145-9e78-ce5408627c34.jpg?1562599644|https://scryfall.com/card/c17/276/scoured-barrens?utm_source=api>`"
 msgstr ""
 
-#: ../../C17.rst:1659
+#: ../../C17.rst:1661
 msgid "Scoured Barrens enters the battlefield tapped."
 msgstr ""
 
-#: ../../C17.rst:1661
+#: ../../C17.rst:1663
 msgid "When Scoured Barrens enters the battlefield, you gain 1 life."
 msgstr ""
 
-#: ../../C17.rst:1670
+#: ../../C17.rst:1672
 msgid ":mtgtip:`Seaside Citadel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/3/c3e6f255-2d5a-4ba1-92e7-41a19216d816.jpg?1562622687|https://scryfall.com/card/c17/277/seaside-citadel?utm_source=api>`"
 msgstr ""
 
-#: ../../C17.rst:1667
+#: ../../C17.rst:1669
 msgid "Seaside Citadel enters the battlefield tapped."
 msgstr ""
 
-#: ../../C17.rst:1669
+#: ../../C17.rst:1671
 msgid "|tap|: Add |mana_g|, |mana_w|, or |mana_u|."
 msgstr ""
 
-#: ../../C17.rst:1678
+#: ../../C17.rst:1680
 msgid ":mtgtip:`Secluded Steppe<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/7618227f-fbce-4270-a70a-c5313ad80d53.jpg?1562612993|https://scryfall.com/card/c17/278/secluded-steppe?utm_source=api>`"
 msgstr ""
 
-#: ../../C17.rst:1673
+#: ../../C17.rst:1675
 msgid "Secluded Steppe enters the battlefield tapped."
 msgstr ""
 
-#: ../../C17.rst:1677
+#: ../../C17.rst:1679
 msgid "Cycling |mana_w| (|mana_w|, Discard this card: Draw a card.)"
 msgstr ""
 
-#: ../../C17.rst:1684
+#: ../../C17.rst:1686
 msgid ":mtgtip:`Selesnya Guildgate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/c/4c1d26ae-d775-4cd4-afc1-139021d77543.jpg?1644254593|https://scryfall.com/card/c17/279/selesnya-guildgate?utm_source=api>`"
 msgstr ""
 
-#: ../../C17.rst:1681
+#: ../../C17.rst:1683
 msgid "Selesnya Guildgate enters the battlefield tapped."
 msgstr ""
 
-#: ../../C17.rst:1692
+#: ../../C17.rst:1694
 msgid ":mtgtip:`Selesnya Sanctuary<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/7/7783b333-4039-45e5-958d-478d86170e4e.jpg?1562613071|https://scryfall.com/card/c17/280/selesnya-sanctuary?utm_source=api>`"
 msgstr ""
 
-#: ../../C17.rst:1687
+#: ../../C17.rst:1689
 msgid "Selesnya Sanctuary enters the battlefield tapped."
 msgstr ""
 
-#: ../../C17.rst:1689
+#: ../../C17.rst:1691
 msgid "When Selesnya Sanctuary enters the battlefield, return a land you control to its owner's hand."
 msgstr ""
 
-#: ../../C17.rst:1691
+#: ../../C17.rst:1693
 msgid "|tap|: Add |mana_g|\\ |mana_w|."
 msgstr ""
 
-#: ../../C17.rst:1700
+#: ../../C17.rst:1702
 msgid ":mtgtip:`Stirring Wildwood<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/9/999b3016-2893-4d94-bcac-dfeac5290d93.jpg?1562617532|https://scryfall.com/card/c17/281/stirring-wildwood?utm_source=api>`"
 msgstr ""
 
-#: ../../C17.rst:1695
+#: ../../C17.rst:1697
 msgid "Stirring Wildwood enters the battlefield tapped."
 msgstr ""
 
-#: ../../C17.rst:1699
+#: ../../C17.rst:1701
 msgid "|mana_1|\\ |mana_g|\\ |mana_w|: Until end of turn, Stirring Wildwood becomes a 3/4 green and white Elemental creature with reach. It's still a land."
 msgstr ""
 
-#: ../../C17.rst:1706
+#: ../../C17.rst:1708
 msgid ":mtgtip:`Stone Quarry<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/2/b2a226c2-da8a-4255-967f-d9561f4206b3.jpg?1562620699|https://scryfall.com/card/c17/282/stone-quarry?utm_source=api>`"
 msgstr ""
 
-#: ../../C17.rst:1703
+#: ../../C17.rst:1705
 msgid "Stone Quarry enters the battlefield tapped."
 msgstr ""
 
-#: ../../C17.rst:1714
+#: ../../C17.rst:1716
 msgid ":mtgtip:`Swiftwater Cliffs<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/a/9abe0e1e-5e21-4121-9ae1-f1844210a861.jpg?1562617589|https://scryfall.com/card/c17/283/swiftwater-cliffs?utm_source=api>`"
 msgstr ""
 
-#: ../../C17.rst:1709
+#: ../../C17.rst:1711
 msgid "Swiftwater Cliffs enters the battlefield tapped."
 msgstr ""
 
-#: ../../C17.rst:1711
+#: ../../C17.rst:1713
 msgid "When Swiftwater Cliffs enters the battlefield, you gain 1 life."
 msgstr ""
 
-#: ../../C17.rst:1713
+#: ../../C17.rst:1715
 msgid "|tap|: Add |mana_u| or |mana_r|."
 msgstr ""
 
-#: ../../C17.rst:1718
+#: ../../C17.rst:1720
 msgid ":mtgtip:`Temple of the False God<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/5/d531d19e-0bed-46c8-9eb3-9ad59362b86c.jpg?1562624841|https://scryfall.com/card/c17/284/temple-of-the-false-god?utm_source=api>`"
 msgstr ""
 
-#: ../../C17.rst:1717
+#: ../../C17.rst:1719
 msgid "|tap|: Add |colorless|\\ |colorless|. Activate only if you control five or more lands."
 msgstr ""
 
-#: ../../C17.rst:1722
+#: ../../C17.rst:1724
 msgid ":mtgtip:`Terramorphic Expanse<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/7/c7daa923-6bd9-4315-a483-840021b745dd.jpg?1562623284|https://scryfall.com/card/c17/285/terramorphic-expanse?utm_source=api>`"
 msgstr ""
 
-#: ../../C17.rst:1721
+#: ../../C17.rst:1723
 msgid "|tap|, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
-#: ../../C17.rst:1728
+#: ../../C17.rst:1730
 msgid ":mtgtip:`Tranquil Expanse<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/4/34ae81d1-7858-4790-aca8-d5cd7735d67a.jpg?1562604650|https://scryfall.com/card/c17/286/tranquil-expanse?utm_source=api>`"
 msgstr ""
 
-#: ../../C17.rst:1725
+#: ../../C17.rst:1727
 msgid "Tranquil Expanse enters the battlefield tapped."
 msgstr ""
 
-#: ../../C17.rst:1736
+#: ../../C17.rst:1738
 msgid ":mtgtip:`Tranquil Thicket<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/6/66b5d00a-5986-47a4-8440-682ace0248fb.jpg?1562610893|https://scryfall.com/card/c17/287/tranquil-thicket?utm_source=api>`"
 msgstr ""
 
-#: ../../C17.rst:1731
+#: ../../C17.rst:1733
 msgid "Tranquil Thicket enters the battlefield tapped."
 msgstr ""
 
-#: ../../C17.rst:1735
+#: ../../C17.rst:1737
 msgid "Cycling |mana_g| (|mana_g|, Discard this card: Draw a card.)"
 msgstr ""
 
-#: ../../C17.rst:1742
+#: ../../C17.rst:1744
 msgid ":mtgtip:`Urborg Volcano<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/6/c69f6612-c974-4723-925e-afd4211c76db.jpg?1562623115|https://scryfall.com/card/c17/288/urborg-volcano?utm_source=api>`"
 msgstr ""
 
-#: ../../C17.rst:1739
+#: ../../C17.rst:1741
 msgid "Urborg Volcano enters the battlefield tapped."
 msgstr ""
 
-#: ../../C17.rst:1750
+#: ../../C17.rst:1752
 msgid ":mtgtip:`Vivid Crag<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/1/71a2c58e-eb1f-4a8b-b040-419c9d5ccf65.jpg?1562612333|https://scryfall.com/card/c17/289/vivid-crag?utm_source=api>`"
 msgstr ""
 
-#: ../../C17.rst:1745
+#: ../../C17.rst:1747
 msgid "Vivid Crag enters the battlefield tapped with two charge counters on it."
 msgstr ""
 
-#: ../../C17.rst:1747
+#: ../../C17.rst:1749
 msgid "|tap|: Add |mana_r|."
 msgstr ""
 
-#: ../../C17.rst:1749
+#: ../../C17.rst:1751
 msgid "|tap|, Remove a charge counter from Vivid Crag: Add one mana of any color."
 msgstr ""
 
-#: ../../C17.rst:1758
+#: ../../C17.rst:1760
 msgid ":mtgtip:`Vivid Creek<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/5/65887a2e-893e-429d-8831-bd6e60941300.jpg?1562610843|https://scryfall.com/card/c17/290/vivid-creek?utm_source=api>`"
 msgstr ""
 
-#: ../../C17.rst:1753
+#: ../../C17.rst:1755
 msgid "Vivid Creek enters the battlefield tapped with two charge counters on it."
 msgstr ""
 
-#: ../../C17.rst:1755
+#: ../../C17.rst:1757
 msgid "|tap|: Add |mana_u|."
 msgstr ""
 
-#: ../../C17.rst:1757
+#: ../../C17.rst:1759
 msgid "|tap|, Remove a charge counter from Vivid Creek: Add one mana of any color."
 msgstr ""
 
-#: ../../C17.rst:1766
+#: ../../C17.rst:1768
 msgid ":mtgtip:`Vivid Grove<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/9/b9ec7aed-5d90-43f5-90e4-9c0541b54fa8.jpg?1562621661|https://scryfall.com/card/c17/291/vivid-grove?utm_source=api>`"
 msgstr ""
 
-#: ../../C17.rst:1761
+#: ../../C17.rst:1763
 msgid "Vivid Grove enters the battlefield tapped with two charge counters on it."
 msgstr ""
 
-#: ../../C17.rst:1765
+#: ../../C17.rst:1767
 msgid "|tap|, Remove a charge counter from Vivid Grove: Add one mana of any color."
 msgstr ""
 
-#: ../../C17.rst:1774
+#: ../../C17.rst:1776
 msgid ":mtgtip:`Vivid Marsh<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/7/b71b3df3-e188-45bb-8dc8-53fd4d527735.jpg?1562621212|https://scryfall.com/card/c17/292/vivid-marsh?utm_source=api>`"
 msgstr ""
 
-#: ../../C17.rst:1769
+#: ../../C17.rst:1771
 msgid "Vivid Marsh enters the battlefield tapped with two charge counters on it."
 msgstr ""
 
-#: ../../C17.rst:1773
+#: ../../C17.rst:1775
 msgid "|tap|, Remove a charge counter from Vivid Marsh: Add one mana of any color."
 msgstr ""
 
-#: ../../C17.rst:1782
+#: ../../C17.rst:1784
 msgid ":mtgtip:`Vivid Meadow<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/9/d9dd64b1-12f8-49f6-b12e-f5a1b4f219dc.jpg?1562625747|https://scryfall.com/card/c17/293/vivid-meadow?utm_source=api>`"
 msgstr ""
 
-#: ../../C17.rst:1777
+#: ../../C17.rst:1779
 msgid "Vivid Meadow enters the battlefield tapped with two charge counters on it."
 msgstr ""
 
-#: ../../C17.rst:1781
+#: ../../C17.rst:1783
 msgid "|tap|, Remove a charge counter from Vivid Meadow: Add one mana of any color."
 msgstr ""
 
-#: ../../C17.rst:1790
+#: ../../C17.rst:1792
 msgid ":mtgtip:`Wind-Scarred Crag<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/a/ea993daa-f793-4caf-a2f8-eb2a6a0fc94a.jpg?1562627849|https://scryfall.com/card/c17/294/wind-scarred-crag?utm_source=api>`"
 msgstr ""
 
-#: ../../C17.rst:1785
+#: ../../C17.rst:1787
 msgid "Wind-Scarred Crag enters the battlefield tapped."
 msgstr ""
 
-#: ../../C17.rst:1787
+#: ../../C17.rst:1789
 msgid "When Wind-Scarred Crag enters the battlefield, you gain 1 life."
 msgstr ""
 
-#: ../../C17.rst:1794
+#: ../../C17.rst:1796
 msgid ":mtgtip:`Plains<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/9/1927feea-a2ee-43ca-a413-9084be8f50a2.jpg?1562601461|https://scryfall.com/card/c17/295/plains?utm_source=api>`"
 msgstr ""
 
-#: ../../C17.rst:1793
+#: ../../C17.rst:1795
 msgid "(|tap|: Add |mana_w|.)"
 msgstr ""
 
-#: ../../C17.rst:1798
+#: ../../C17.rst:1800
 msgid ":mtgtip:`Island<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/a/4ad74ee8-5b41-445d-9a5b-f9a755bb1590.jpg?1562607320|https://scryfall.com/card/c17/298/island?utm_source=api>`"
 msgstr ""
 
-#: ../../C17.rst:1797
+#: ../../C17.rst:1799
 msgid "(|tap|: Add |mana_u|.)"
 msgstr ""
 
-#: ../../C17.rst:1802
+#: ../../C17.rst:1804
 msgid ":mtgtip:`Swamp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/d/3dd92a77-c852-410a-9ee9-abc01e9867a4.jpg?1562605767|https://scryfall.com/card/c17/301/swamp?utm_source=api>`"
 msgstr ""
 
-#: ../../C17.rst:1801
+#: ../../C17.rst:1803
 msgid "(|tap|: Add |mana_b|.)"
 msgstr ""
 
-#: ../../C17.rst:1806
+#: ../../C17.rst:1808
 msgid ":mtgtip:`Mountain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/5/15a7deb5-0163-42a5-90c7-388f8dda83fb.jpg?1562601011|https://scryfall.com/card/c17/304/mountain?utm_source=api>`"
 msgstr ""
 
-#: ../../C17.rst:1805
+#: ../../C17.rst:1807
 msgid "(|tap|: Add |mana_r|.)"
 msgstr ""
 
-#: ../../C17.rst:1809
+#: ../../C17.rst:1811
 msgid ":mtgtip:`Forest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/3/439d196c-551e-4e38-8dbf-65b328d50df6.jpg?1562606367|https://scryfall.com/card/c17/307/forest?utm_source=api>`"
 msgstr ""
 
-#: ../../C17.rst:1809
+#: ../../C17.rst:1811
 msgid "(|tap|: Add |mana_g|.)"
 msgstr ""

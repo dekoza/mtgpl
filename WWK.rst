@@ -642,7 +642,7 @@
 :mtgtip:`Wrexial, the Risen Deep<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/e/deeb989b-aff4-4232-9ae1-c4f73dacf728.jpg?1562297654|https://scryfall.com/card/wwk/120/wrexial-the-risen-deep?utm_source=api>`
    Islandwalk, swampwalk (This creature can't be blocked as long as defending player controls an Island or a Swamp.)
 
-   Whenever Wrexial, the Risen Deep deals combat damage to a player, you may cast target instant or sorcery card from that player's graveyard without paying its mana cost. If that spell would be put into a graveyard this turn, exile it instead.
+   Whenever Wrexial, the Risen Deep deals combat damage to a player, you may cast target instant or sorcery card from that player's graveyard without paying its mana cost. If that spell would be put into a graveyard, exile it instead.
 
 
 :mtgtip:`Amulet of Vigor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/9/997bc933-ac30-477b-a4e1-5333b796a99d.jpg?1562292191|https://scryfall.com/card/wwk/121/amulet-of-vigor?utm_source=api>`
@@ -656,7 +656,7 @@
 
 
 :mtgtip:`Everflowing Chalice<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/f/1fdcc0c3-4029-4fc3-a486-5d7f45c910bd.jpg?1562283219|https://scryfall.com/card/wwk/123/everflowing-chalice?utm_source=api>`
-   Multikicker |mana_2|
+   Multikicker |mana_2| (You may pay an additional |mana_2| any number of times as you cast this spell.)
 
    Everflowing Chalice enters the battlefield with a charge counter on it for each time it was kicked.
 

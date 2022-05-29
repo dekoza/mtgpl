@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2022.5\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-14 18:07+0200\n"
+"POT-Creation-Date: 2022-05-29 18:35+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -417,6 +417,7 @@ msgstr ""
 msgid "{1}"
 msgstr ""
 
+#: ../../symbols.rst:47
 #: ../../symbols.rst:47
 #: ../../symbols.rst:47
 #: ../../symbols.rst:47
@@ -3131,7 +3132,7 @@ msgid ":mtgtip:`Everflowing Chalice<https://c1.scryfall.com/file/scryfall-cards/
 msgstr ""
 
 #: ../../C14.rst:1319
-msgid "Multikicker |mana_2|"
+msgid "Multikicker |mana_2| (You may pay an additional |mana_2| any number of times as you cast this spell.)"
 msgstr ""
 
 #: ../../C14.rst:1321

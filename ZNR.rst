@@ -1509,8 +1509,8 @@
    Landfall — Whenever a land enters the battlefield under your control, you gain 4 life if this is the first time this ability has resolved this turn. If it's the second time, add |mana_r|\ |mana_g|\ |mana_w|\ |mana_u|. If it's the third time, Omnath deals 4 damage to each opponent and each planeswalker you don't control.
 
 
-:mtgtip:`A-Omnath, Locus of Creation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/5/b5f5fbd5-b045-4da7-a996-54f163b35b8d.jpg?1645415634|https://scryfall.com/card/znr/A-232/a-omnath-locus-of-creation?utm_source=api>`
-   When Omnath, Locus of Creation enters the battlefield, scry 1.
+:mtgtip:`A-Omnath, Locus of Creation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/5/b5f5fbd5-b045-4da7-a996-54f163b35b8d.jpg?1651977770|https://scryfall.com/card/znr/A-232/a-omnath-locus-of-creation?utm_source=api>`
+   When Omnath, Locus of Creation enters the battlefield, draw a card.
 
    Landfall — Whenever a land enters the battlefield under your control, you gain 4 life if this is the first time this ability has resolved this turn. If it's the second time, add |mana_r|\ |mana_g|\ |mana_w|\ |mana_u|. If it's the third time, Omnath deals 4 damage to each opponent and each planeswalker you don't control.
 

@@ -542,3 +542,11 @@
 :mtgtip:`Swamp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/4/24f796dc-7a6b-4652-9268-3523d7b54e94.jpg?1597375431|https://scryfall.com/card/anb/116/swamp?utm_source=api>`
    (|tap|: Add |mana_b|.)
 
+
+:mtgtip:`Arcane Signet<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/a/eae6e393-315b-4f70-9da2-c58003e2813d.jpg?1652898607|https://scryfall.com/card/anb/117/arcane-signet?utm_source=api>`
+   |tap|: Add one mana of any color in your commander's color identity.
+
+
+:mtgtip:`Command Tower<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bde73c08-40f6-42bd-9c38-348fcef97aa5.jpg?1652898645|https://scryfall.com/card/anb/118/command-tower?utm_source=api>`
+   |tap|: Add one mana of any color in your commander's color identity.
+

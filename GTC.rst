@@ -172,7 +172,7 @@
 :mtgtip:`Diluvian Primordial<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/b/0b7c34af-91de-44c6-a3e2-f48dbb0ce9fd.jpg?1561815273|https://scryfall.com/card/gtc/33/diluvian-primordial?utm_source=api>`
    Flying
 
-   When Diluvian Primordial enters the battlefield, for each opponent, you may cast up to one target instant or sorcery card from that player's graveyard without paying its mana cost. If a spell cast this way would be put into a graveyard this turn, exile it instead.
+   When Diluvian Primordial enters the battlefield, for each opponent, you may cast up to one target instant or sorcery card from that player's graveyard without paying its mana cost. If a spell cast this way would be put into a graveyard, exile it instead.
 
 
 :mtgtip:`Enter the Infinite<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/1/612beb8f-2ab1-4a8b-84c5-c47d19d400ab.jpg?1561829105|https://scryfall.com/card/gtc/34/enter-the-infinite?utm_source=api>`

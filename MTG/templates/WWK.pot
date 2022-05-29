@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2022.5\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-14 18:07+0200\n"
+"POT-Creation-Date: 2022-05-29 18:35+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -228,6 +228,7 @@ msgstr ""
 msgid "{1}"
 msgstr ""
 
+#: ../../symbols.rst:47
 #: ../../symbols.rst:47
 #: ../../symbols.rst:47
 #: ../../symbols.rst:47
@@ -1559,7 +1560,7 @@ msgid "Islandwalk, swampwalk (This creature can't be blocked as long as defendin
 msgstr ""
 
 #: ../../WWK.rst:645
-msgid "Whenever Wrexial, the Risen Deep deals combat damage to a player, you may cast target instant or sorcery card from that player's graveyard without paying its mana cost. If that spell would be put into a graveyard this turn, exile it instead."
+msgid "Whenever Wrexial, the Risen Deep deals combat damage to a player, you may cast target instant or sorcery card from that player's graveyard without paying its mana cost. If that spell would be put into a graveyard, exile it instead."
 msgstr ""
 
 #: ../../WWK.rst:650
@@ -1589,7 +1590,7 @@ msgid ":mtgtip:`Everflowing Chalice<https://c1.scryfall.com/file/scryfall-cards/
 msgstr ""
 
 #: ../../WWK.rst:659
-msgid "Multikicker |mana_2|"
+msgid "Multikicker |mana_2| (You may pay an additional |mana_2| any number of times as you cast this spell.)"
 msgstr ""
 
 #: ../../WWK.rst:661
