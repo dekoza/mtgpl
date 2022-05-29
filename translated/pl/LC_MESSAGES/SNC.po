@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2022.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-14 18:07+0200\n"
-"PO-Revision-Date: 2022-04-18 17:53+0000\n"
+"PO-Revision-Date: 2022-05-29 08:43+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/snc/pl/>\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.10.1\n"
+"X-Generator: Weblate 4.12.1\n"
 
 #: ../../symbols.rst:3
 msgid "{C}"
@@ -295,15 +295,11 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:23
-#, fuzzy
-#| msgid ""
-#| "Put a shield counter on target creature. (If that creature would be dealt "
-#| "damage or destroyed, remove a shield counter from it instead.)"
 msgid ""
 "Put a shield counter on target creature. (If it would be dealt damage or "
 "destroyed, remove a shield counter from it instead.)"
 msgstr ""
-"Umieść znacznik tarczy na wskazanym stworze. (Jeśli ów stwór miałby otrzymać "
+"Umieść znacznik tarczy na wskazanym stworze. (Jeśli miałby on otrzymać "
 "obrażenia lub zostać zniszczony, zamiast tego usuń z niego znacznik tarczy.)"
 
 #: ../../SNC.rst:25
@@ -920,18 +916,13 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:207
-#, fuzzy
-#| msgid ""
-#| "When Brokers Veteran dies, put a shield counter on target creature you "
-#| "control. (If that creature would be dealt damage or destroyed, remove a "
-#| "shield counter from it instead.)"
 msgid ""
 "When Brokers Veteran dies, put a shield counter on target creature you "
 "control. (If it would be dealt damage or destroyed, remove a shield counter "
 "from it instead.)"
 msgstr ""
 "Kiedy ten stwór umrze, umieść znacznik tarczy na wskazanym stworze pod twoim "
-"władaniem. (Jeśli ów stwór miałby otrzymać obrażenia lub zostać zniszczony, "
+"władaniem. (Jeśli miałby on otrzymać obrażenia lub zostać zniszczony, "
 "zamiast tego usuń z niego znacznik tarczy.)"
 
 #: ../../SNC.rst:212
@@ -955,11 +946,6 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:215 ../../SNC.rst:639
-#, fuzzy
-#| msgid ""
-#| "Casualty 2 (As you cast this spell, you may sacrifice a creature with "
-#| "power 2 or greater. When you do, copy this spell and you may choose new "
-#| "targets for the copy.)"
 msgid ""
 "Casualty 2 (As you cast this spell, you may sacrifice a creature with power "
 "2 or greater. When you do, copy this spell and you may choose a new target "
@@ -1152,18 +1138,13 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:279 ../../SNC.rst:327 ../../SNC.rst:467
-#, fuzzy
-#| msgid ""
-#| "Casualty 1 (As you cast this spell, you may sacrifice a creature with "
-#| "power 1 or greater. When you do, copy this spell and you may choose new "
-#| "targets for the copy.)"
 msgid ""
 "Casualty 1 (As you cast this spell, you may sacrifice a creature with power "
 "1 or greater. When you do, copy this spell and you may choose a new target "
 "for the copy.)"
 msgstr ""
 "Ofiara 1 (Rzucając ten czar możesz poświęcić stwora o sile 1 lub większej. "
-"Jeśli tak zrobisz, skopiuj ten czar i możesz wskazać nowe cele dla kopii.)"
+"Jeśli tak zrobisz, skopiuj ten czar i możesz wskazać nowy cel dla kopii.)"
 
 #: ../../SNC.rst:281
 msgid "Counter target spell unless its controller pays |mana_2|."
@@ -1243,13 +1224,6 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:309
-#, fuzzy
-#| msgid ""
-#| "When Psychic Pickpocket enters the battlefield, it connives. When it "
-#| "connives this way, return up to one target nonland permanent to its "
-#| "owner's hand. (To have a creature connive, draw a card, then discard a "
-#| "card. Put a +1/+1 counter on that creature for each nonland card "
-#| "discarded this way.)"
 msgid ""
 "When Psychic Pickpocket enters the battlefield, it connives. When it "
 "connives this way, return up to one target nonland permanent to its owner's "
@@ -1258,8 +1232,8 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, pobłaża. Kiedy pobłaża w ten sposób, "
 "przywróć co najwyżej jeden wskazany nielądowy byt do ręki właściciela. (Aby "
-"stwór pobłażał, dobierz kartę, po czym odrzuć kartę. Umieść na owym stworze "
-"znacznik +1/+1 za każdą nielądową kartę odrzuconą w ten sposób.)"
+"stwór pobłażał, dobierz kartę, po czym odrzuć kartę. Jeśli odrzuciłeś "
+"nielądową kartę, umieść na owym stworze znacznik +1/+1.)"
 
 #: ../../SNC.rst:318
 msgid ""
@@ -1399,17 +1373,14 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:359
-#, fuzzy
-#| msgid ""
-#| "Put a +1/+1 counter on target creature. It phases out. (Treat it and "
-#| "anything attached to it as though they don't exist until your next turn.)"
 msgid ""
 "Put a +1/+1 counter on target creature. It phases out. (Treat it and "
 "anything attached to it as though they don't exist until its controller's "
 "next turn.)"
 msgstr ""
-"Umieść znacznik +1/+1 na wskazanym stworze. Wycofuje się on. (Do twojej "
-"następnej tury traktuj go i cokolwiek go niego dołączone jakby nie istniały.)"
+"Umieść znacznik +1/+1 na wskazanym stworze. Wycofuje się on. (Do następnej "
+"tury jego władcy traktuj go i cokolwiek go niego dołączone jakby nie "
+"istniały.)"
 
 #: ../../SNC.rst:364
 msgid ""
@@ -1636,19 +1607,14 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:433
-#, fuzzy
-#| msgid ""
-#| "Mill two cards, then you may return a creature card from your graveyard "
-#| "to your hand. (To mill a card, a player puts the top card of their "
-#| "library into their graveyard.)"
 msgid ""
 "Mill two cards, then you may return a creature card from your graveyard to "
 "your hand. (To mill a card, put the top card of your library into your "
 "graveyard.)"
 msgstr ""
 "Zmiel dwie karty, po czym możesz przywrócić kartę stwora z twojego cmentarza "
-"do twojej ręki. (Mieląc kartę gracz umieszcza wierzchnią kartę swojej "
-"biblioteki w swoim cmentarzu.)"
+"do twojej ręki. (Mieląc kartę umieść wierzchnią kartę twojej biblioteki w "
+"twoim cmentarzu.)"
 
 #: ../../SNC.rst:440
 msgid ""
@@ -1810,15 +1776,11 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:483
-#, fuzzy
-#| msgid ""
-#| "Casualty 1 (As you cast this spell, you may sacrifice a creature with "
-#| "power 1 or greater. When you do, copy this spell.)"
 msgid ""
 "Casualty 2 (As you cast this spell, you may sacrifice a creature with power "
 "2 or greater. When you do, copy this spell.)"
 msgstr ""
-"Ofiara 1 (Rzucając ten czar możesz poświęcić stwora o sile 1 lub większej. "
+"Ofiara 2 (Rzucając ten czar możesz poświęcić stwora o sile 2 lub większej. "
 "Jeśli tak zrobisz, skopiuj ten czar.)"
 
 #: ../../SNC.rst:485
@@ -3638,11 +3600,6 @@ msgstr ""
 "wygnaj ze znacznikiem kolekcji wierzchnią kartę z biblioteki każdego gracza."
 
 #: ../../SNC.rst:1071
-#, fuzzy
-#| msgid ""
-#| "Once each turn, you may play a card from exile with a collection counter "
-#| "on it if it was exiled by an ability you controlled, and you may spend "
-#| "mana as though it were any color to cast it."
 msgid ""
 "Once each turn, you may play a card from exile with a collection counter on "
 "it if it was exiled by an ability you controlled, and you may spend mana as "
@@ -4066,19 +4023,14 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:1195
-#, fuzzy
-#| msgid ""
-#| "Casualty X. The copy isn't legendary and has starting loyalty X. (As you "
-#| "cast this spell, you may sacrifice a creature with power X. When you do, "
-#| "copy this spell and you may choose new targets for the copy.)"
 msgid ""
 "Casualty X. The copy isn't legendary and has starting loyalty X. (As you "
 "cast this spell, you may sacrifice a creature with power X. When you do, "
 "copy this spell. The copy becomes a token.)"
 msgstr ""
 "Ofiara X. Kopia nie jest legendarna i ma startową lojalność X. (Rzucając ten "
-"czar możesz poświęcić stwora o sile X. Jeśli tak zrobisz, skopiuj ten czar i "
-"możesz wskazać nowe cele dla kopii.)"
+"czar możesz poświęcić stwora o sile X. Jeśli tak zrobisz, skopiuj ten czar. "
+"Kopia staje się żetonem.)"
 
 #: ../../SNC.rst:1197
 msgid ""
@@ -4156,12 +4108,6 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:1225
-#, fuzzy
-#| msgid ""
-#| "When Obscura Interceptor enters the battlefield, it connives. When it "
-#| "connives this way, return up to one target spell to its owner's hand. (To "
-#| "have a creature connive, draw a card, then discard a card. Put a +1/+1 "
-#| "counter on that creature for each nonland card discarded this way.)"
 msgid ""
 "When Obscura Interceptor enters the battlefield, it connives. When it "
 "connives this way, return up to one target spell to its owner's hand. (To "
@@ -4170,8 +4116,8 @@ msgid ""
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, pobłaża. Kiedy pobłaża w ten sposób, "
 "przywróć co najwyżej jeden wskazany czar do ręki właściciela. (Aby stwór "
-"pobłażał, dobierz kartę, po czym odrzuć kartę. Umieść znacznik +1/+1 na tym "
-"stworze za każdą nielądową kartę odrzuconą w ten sposób.)"
+"pobłażał, dobierz kartę, po czym odrzuć kartę. Jeśli odrzuciłeś nielądową "
+"kartę, umieść na owym stworze znacznik +1/+1.)"
 
 #: ../../SNC.rst:1232
 msgid ""
@@ -4553,10 +4499,6 @@ msgstr ""
 "Ilekroć odrzucisz co najmniej jedną kartę, wygnaj je z twojego cmentarza."
 
 #: ../../SNC.rst:1337
-#, fuzzy
-#| msgid ""
-#| "When Toluz, Clever Conductor dies, put the cards exiled with it into "
-#| "their owner's hand."
 msgid "When Toluz dies, put the cards exiled with it into their owner's hand."
 msgstr ""
 "Kiedy ten stwór umrze, umieść karty nim wygnane w rękach ich właścicieli."

@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2022.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-29 10:00+0200\n"
-"PO-Revision-Date: 2022-04-18 23:59+0000\n"
+"PO-Revision-Date: 2022-05-29 08:43+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/clb/pl/>\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.10.1\n"
+"X-Generator: Weblate 4.12.1\n"
 
 #: ../../symbols.rst:3
 msgid "{C}"
@@ -311,7 +311,7 @@ msgstr ""
 #: ../../CLB.rst:287 ../../CLB.rst:317 ../../CLB.rst:599 ../../CLB.rst:1127
 #: ../../CLB.rst:1889
 msgid "Flash"
-msgstr ""
+msgstr "Błysk"
 
 #: ../../CLB.rst:29
 msgid ""
@@ -339,17 +339,15 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:37
-#, fuzzy
-#| msgid ""
-#| "This spell costs |mana_1| more to cast for each target beyond the first."
 msgid ""
 "This spell costs |mana_1| less to cast for each opponent you're attacking."
 msgstr ""
-"Rzucenie tego czaru kosztuje o |mana_1| więcej za każdy cel poza pierwszym."
+"Rzucenie tego czaru kosztuje o |mana_1| mniej za każdego przeciwnika, "
+"którego atakujesz."
 
 #: ../../CLB.rst:39
 msgid "Exile target creature."
-msgstr ""
+msgstr "Wygnaj wskazanego stwora."
 
 #: ../../CLB.rst:44
 msgid ""
@@ -386,10 +384,8 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:53
-#, fuzzy
-#| msgid "Flying"
 msgid "Flying, myriad"
-msgstr "Latanie"
+msgstr "Latanie, miriady"
 
 #: ../../CLB.rst:55
 msgid ""
@@ -480,7 +476,7 @@ msgstr ""
 
 #: ../../CLB.rst:87
 msgid "Flying, vigilance"
-msgstr ""
+msgstr "Latanie, czujność"
 
 #: ../../CLB.rst:92
 msgid ""
@@ -519,19 +515,19 @@ msgstr ""
 
 #: ../../CLB.rst:99
 msgid "When Dawnbringer Cleric enters the battlefield, choose one —"
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wybierz jedną —"
 
 #: ../../CLB.rst:101
 msgid "Cure Wounds — You gain 2 life."
-msgstr ""
+msgstr "Leczenie ran — Zyskaj 2 życia."
 
 #: ../../CLB.rst:103
 msgid "Dispel Magic — Destroy target enchantment."
-msgstr ""
+msgstr "Rozproszenie magii — Zniszcz wskazany urok."
 
 #: ../../CLB.rst:105
 msgid "Gentle Repose — Exile target card from a graveyard."
-msgstr ""
+msgstr "Spokojny spoczynek — Wygnaj wskazaną kartę z cmentarza."
 
 #: ../../CLB.rst:112
 msgid ""
@@ -611,7 +607,7 @@ msgstr ""
 #: ../../CLB.rst:135 ../../CLB.rst:147 ../../CLB.rst:631 ../../CLB.rst:1571
 #: ../../CLB.rst:1677
 msgid "Vigilance"
-msgstr ""
+msgstr "Czujność"
 
 #: ../../CLB.rst:137
 msgid "When Goliath Paladin enters the battlefield, you take the initiative."
@@ -673,7 +669,7 @@ msgstr ""
 
 #: ../../CLB.rst:157
 msgid "Destroy target creature with power 4 or greater."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora o sile 4 lub większej."
 
 #: ../../CLB.rst:159
 msgid ""
@@ -696,6 +692,10 @@ msgid ""
 "that's tapped and attacking that player or a planeswalker they control. "
 "Exile the tokens at end of combat.)"
 msgstr ""
+"Miriady (Ilekroć ten stwór zaatakuje, za każdego przeciwnika innego niż "
+"broniący się gracz, możesz stworzyć przekręcony żeton będący kopią tego "
+"stwora atakujący owego gracza lub wędrowca pod jego władaniem. Wygnaj owe "
+"żetony na koniec potyczki.)"
 
 #: ../../CLB.rst:165
 msgid ""
@@ -717,7 +717,7 @@ msgstr ""
 
 #: ../../CLB.rst:171 ../../CLB.rst:1525
 msgid "Equip |mana_3|"
-msgstr ""
+msgstr "Wyposaż |mana_3|"
 
 #: ../../CLB.rst:176
 msgid ""
@@ -837,19 +837,23 @@ msgstr ""
 #: ../../CLB.rst:213 ../../CLB.rst:289 ../../CLB.rst:545 ../../CLB.rst:601
 #: ../../CLB.rst:851 ../../CLB.rst:1177 ../../CLB.rst:1513
 msgid "Enchant creature"
-msgstr ""
+msgstr "Zaurocz stwora"
 
 #: ../../CLB.rst:215
 msgid ""
 "Enchanted creature gets +1/+1 and is goaded. (It attacks each combat if able "
 "and attacks a player other than you if able.)"
 msgstr ""
+"Zauroczony stwór dostaje +1/+1 i jest ponaglony. (Atakuje w każdej potyczce "
+"jeśli może i atakuje innego gracza niż ty jeśli może.)"
 
 #: ../../CLB.rst:217
 msgid ""
 "Whenever enchanted creature attacks, each other creature that's attacking "
 "one of your opponents gets +1/+1 until end of turn."
 msgstr ""
+"Ilekroć zauroczony stwór zaatakuje, każdy inny stwór atakujący jednego z "
+"twoich przeciwników dostaje do końca tury +1/+1."
 
 #: ../../CLB.rst:224
 msgid ""
@@ -860,7 +864,7 @@ msgstr ""
 
 #: ../../CLB.rst:221
 msgid "Enchant nonland permanent"
-msgstr ""
+msgstr "Zaurocz nie-lądowy byt"
 
 #: ../../CLB.rst:223
 msgid ""
@@ -868,6 +872,9 @@ msgid ""
 "artifact: Add one mana of any color,\" and it loses all other abilities. (If "
 "it was a creature, it's no longer a creature.)"
 msgstr ""
+"Zauroczony byt jest artefaktem typu Skarb mającym \"|tap|, poświęć ten "
+"artefakt: Weź jedną manę dowolnego koloru\" i traci wszystkie inne "
+"zdolności. (Jeśli był stworem, to już nie jest stworem.)"
 
 #: ../../CLB.rst:228
 msgid ""
@@ -926,6 +933,8 @@ msgid ""
 "Each creature you control assigns combat damage equal to its toughness "
 "rather than its power."
 msgstr ""
+"Każdy stwór pod twoim władaniem przypisuje obrażenia bojowe równe swojej "
+"wytrzymałości, a nie sile."
 
 #: ../../CLB.rst:243
 msgid ""
@@ -943,7 +952,7 @@ msgstr ""
 #: ../../CLB.rst:249 ../../CLB.rst:381 ../../CLB.rst:391 ../../CLB.rst:813
 #: ../../CLB.rst:1217
 msgid "Roll a d20."
-msgstr ""
+msgstr "Rzuć k20."
 
 #: ../../CLB.rst:251
 msgid "1-9 | Create two 1/1 white Soldier creature tokens."
@@ -1021,6 +1030,8 @@ msgid ""
 "Each player chooses any number of creatures they control with total power 4 "
 "or less, then sacrifices all other creatures they control."
 msgstr ""
+"Każdy gracz wybiera dowolną liczbę władanych przez siebie stworów o łącznej "
+"sile 4 lub mniej, po czym poświęca wszystkie inne stwory pod swoim władaniem."
 
 #: ../../CLB.rst:284
 msgid ""
@@ -1137,7 +1148,7 @@ msgstr ""
 #: ../../CLB.rst:329 ../../CLB.rst:337 ../../CLB.rst:1293 ../../CLB.rst:1587
 #: ../../CLB.rst:1595
 msgid "Choose one —"
-msgstr ""
+msgstr "Wybierz jedno —"
 
 #: ../../CLB.rst:331
 msgid ""
@@ -1229,10 +1240,12 @@ msgid ""
 "Exile target creature you control, then return that card to the battlefield "
 "under its owner's control."
 msgstr ""
+"Wygnaj wskazanego stwora pod twoim władaniem, po czym przywróć ową kartę na "
+"pole bitwy po władaniem właściciela."
 
 #: ../../CLB.rst:369 ../../CLB.rst:417 ../../CLB.rst:1161 ../../CLB.rst:1509
 msgid "Draw a card."
-msgstr ""
+msgstr "Dobierz kartę."
 
 #: ../../CLB.rst:374
 msgid ""
@@ -1294,15 +1307,15 @@ msgstr ""
 
 #: ../../CLB.rst:393
 msgid "1—9 | Draw two cards."
-msgstr ""
+msgstr "1—9 | Dobierz dwie karty."
 
 #: ../../CLB.rst:395
 msgid "10—19 | Scry 2, then draw two cards."
-msgstr ""
+msgstr "10—19 | Wróż 2, po czym dobierz dwie karty."
 
 #: ../../CLB.rst:397
 msgid "20 | Scry 3, then draw three cards."
-msgstr ""
+msgstr "20 | Wróż 3, po czym dobierz trzy karty."
 
 #: ../../CLB.rst:402
 msgid ""
@@ -1326,16 +1339,12 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:405
-#, fuzzy
-#| msgid ""
-#| "This spell costs |mana_1| more to cast for each target beyond the first."
 msgid "This spell costs |mana_2| less to cast if you control a Dragon."
-msgstr ""
-"Rzucenie tego czaru kosztuje o |mana_1| więcej za każdy cel poza pierwszym."
+msgstr "Rzucenie tego czaru kosztuje o |mana_2| mniej jeśli władasz Smokiem."
 
 #: ../../CLB.rst:407
 msgid "Draw three cards."
-msgstr ""
+msgstr "Dobierz trzy karty."
 
 #: ../../CLB.rst:412
 msgid ""
@@ -1346,7 +1355,7 @@ msgstr ""
 
 #: ../../CLB.rst:411
 msgid "|mana_1|, |tap|: Draw a card, then discard a card."
-msgstr ""
+msgstr "|mana_1|, |tap|: Dobierz kartę, po czym odrzuć kartę."
 
 #: ../../CLB.rst:418
 msgid ""
@@ -1357,7 +1366,7 @@ msgstr ""
 
 #: ../../CLB.rst:415
 msgid "Counter target spell. Its controller draws a card."
-msgstr ""
+msgstr "Skontruj wskazany czar. Jego władca dobiera kartę."
 
 #: ../../CLB.rst:422
 msgid ""
@@ -1486,6 +1495,8 @@ msgid ""
 "Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip only "
 "as a sorcery.)"
 msgstr ""
+"Wyposaż |mana_2| (|mana_2|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Aktywuj tylko jako obrzęd.)"
 
 #: ../../CLB.rst:466
 msgid ""
@@ -1546,6 +1557,8 @@ msgid ""
 "Ward |mana_2| (Whenever this creature becomes the target of a spell or "
 "ability an opponent controls, counter it unless that player pays |mana_2|.)"
 msgstr ""
+"Opieka |mana_2| (Ilekroć ten stwór zostanie wskazany przez czar lub zdolność "
+"pod władaniem przeciwnika, skontruj to, chyba że ów gracz zapłaci |mana_2|.)"
 
 #: ../../CLB.rst:479
 msgid ""
@@ -1604,13 +1617,15 @@ msgstr ""
 
 #: ../../CLB.rst:499
 msgid "As Kindred Discovery enters the battlefield, choose a creature type."
-msgstr ""
+msgstr "Przy wejściu tego bytu na pole bitwy, wybierz typ stwora."
 
 #: ../../CLB.rst:501
 msgid ""
 "Whenever a creature you control of the chosen type enters the battlefield or "
 "attacks, draw a card."
 msgstr ""
+"Ilekroć stwór wybranego typu pod twoim władaniem wejdzie na pole bitwy lub "
+"zaatakuje, dobierz kartę."
 
 #: ../../CLB.rst:506
 msgid ""
@@ -1684,6 +1699,8 @@ msgid ""
 "Equip |mana_1| (|mana_1|: Attach to target creature you control. Equip only "
 "as a sorcery.)"
 msgstr ""
+"Wyposaż |mana_1| (|mana_1|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Aktywuj tylko jako obrzęd.)"
 
 #: ../../CLB.rst:530
 msgid ""
@@ -1721,7 +1738,7 @@ msgstr ""
 
 #: ../../CLB.rst:541
 msgid "|mana_2|\\ |mana_u|: Target creature gains flying until end of turn."
-msgstr ""
+msgstr "|mana_2|\\ |mana_u|: Wskazany stwór zyskuje do końca tury latanie."
 
 #: ../../CLB.rst:550
 msgid ""
@@ -1735,10 +1752,12 @@ msgid ""
 "Enchanted creature gets +2/+2 and is goaded. (It attacks each combat if able "
 "and attacks a player other than you if able.)"
 msgstr ""
+"Zauroczony stwór dostaje +2/+2 i jest ponaglony. (Atakuje w każdej potyczce "
+"jeśli może i atakuje gracza innego niż ty jeśli może.)"
 
 #: ../../CLB.rst:549
 msgid "Whenever enchanted creature attacks, you scry 2."
-msgstr ""
+msgstr "Ilekroć zauroczony stwor zaatakuje, wróż 2."
 
 #: ../../CLB.rst:556
 msgid ""
@@ -1768,7 +1787,7 @@ msgstr ""
 
 #: ../../CLB.rst:561 ../../CLB.rst:1843
 msgid "Equip |mana_4|"
-msgstr ""
+msgstr "Wyposaż |mana_4|"
 
 #: ../../CLB.rst:563
 msgid "Equip Shaman, Warlock, or Wizard |mana_1|"
@@ -1786,6 +1805,8 @@ msgid ""
 "Choose two target creatures controlled by different players. Return those "
 "creatures to their owners' hands."
 msgstr ""
+"Wskaż dwa stwory pod władaniem różnych graczy. Przywróć owe stwory do rąk "
+"właścicieli."
 
 #: ../../CLB.rst:574
 msgid ""
@@ -2027,7 +2048,7 @@ msgstr ""
 
 #: ../../CLB.rst:653
 msgid "Instant and sorcery spells you cast cost |mana_1| less to cast."
-msgstr ""
+msgstr "Rzucanie czarów sztuczek i obrzędów kosztuje cię o |mana_1| mniej."
 
 #: ../../CLB.rst:655
 msgid "You may cast sorcery spells as though they had flash."
@@ -2122,7 +2143,7 @@ msgstr ""
 
 #: ../../CLB.rst:683
 msgid "You draw three cards and you lose 3 life."
-msgstr ""
+msgstr "Dobierz trzy karty i strać 3 życia."
 
 #: ../../CLB.rst:690
 msgid ""
@@ -2240,7 +2261,7 @@ msgstr ""
 
 #: ../../CLB.rst:721
 msgid "Destroy target nonlegendary creature."
-msgstr ""
+msgstr "Zniszcz wskazanego nie-legendarnego stwora."
 
 #: ../../CLB.rst:726
 msgid ""
@@ -2305,13 +2326,15 @@ msgstr ""
 #: ../../CLB.rst:741
 msgid ""
 "As an additional cost to cast this spell, sacrifice an artifact or creature."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć artefakt lub stwora."
 
 #: ../../CLB.rst:743
 msgid ""
 "Draw two cards and create a Treasure token. (It's an artifact with \"|tap|, "
 "Sacrifice this artifact: Add one mana of any color.\")"
 msgstr ""
+"Dobierz dwie karty i stwórz żeton Skarbu. (To artefakt mający \"|tap|, "
+"poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../CLB.rst:750
 msgid ""
@@ -2382,7 +2405,7 @@ msgstr ""
 
 #: ../../CLB.rst:767 ../../CLB.rst:2067
 msgid "Equip |mana_1|"
-msgstr ""
+msgstr "Wyposaż |mana_1|"
 
 #: ../../CLB.rst:772
 msgid ""
@@ -2432,7 +2455,7 @@ msgstr ""
 
 #: ../../CLB.rst:783 ../../CLB.rst:1401 ../../CLB.rst:1789
 msgid "Deathtouch"
-msgstr ""
+msgstr "Dotyk śmierci"
 
 #: ../../CLB.rst:785
 msgid "When Guildsworn Prowler dies, if it wasn't blocking, draw a card."
@@ -2494,7 +2517,7 @@ msgstr ""
 
 #: ../../CLB.rst:803 ../../CLB.rst:859
 msgid "Lifelink"
-msgstr ""
+msgstr "Więź życia"
 
 #: ../../CLB.rst:805
 msgid ""
@@ -2511,7 +2534,7 @@ msgstr ""
 
 #: ../../CLB.rst:809
 msgid "Destroy target creature."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora."
 
 #: ../../CLB.rst:820
 msgid ""
@@ -2607,7 +2630,7 @@ msgstr ""
 
 #: ../../CLB.rst:847
 msgid "Equip—Discard a card."
-msgstr ""
+msgstr "Wyposaż—Odrzuć kartę."
 
 #: ../../CLB.rst:856
 msgid ""
@@ -2621,6 +2644,8 @@ msgid ""
 "Whenever enchanted creature attacks, its controller loses 2 life and you "
 "gain 2 life."
 msgstr ""
+"Ilekroć zauroczony stwór zaatakuje, jego władca traci 2 życia, a ty zyskaj 2 "
+"życia."
 
 #: ../../CLB.rst:864
 msgid ""
@@ -2765,11 +2790,13 @@ msgid ""
 "(It's an artifact with \"|tap|, Sacrifice this artifact: Add one mana of any "
 "color.\")"
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton Skarbu. (To artefakt "
+"mający \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../CLB.rst:911
 msgid ""
 "|mana_1|\\ |mana_b|, Sacrifice another creature or a Treasure: Draw a card."
-msgstr ""
+msgstr "|mana_1|\\ |mana_b|, poświęć innego stwora lub Skarb: Dobierz kartę."
 
 #: ../../CLB.rst:920
 msgid ""
@@ -2814,10 +2841,12 @@ msgid ""
 "an artifact with \"|tap|, Sacrifice this artifact: Add one mana of any color."
 "\")"
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton Skarbu. (To artefakt "
+"mający \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../CLB.rst:929
 msgid "Equipped creature can't be blocked as long as its power is 3 or less."
-msgstr ""
+msgstr "Wyposażony stwór nie może być blokowany o ile ma siłę 3 lub mniejszą."
 
 #: ../../CLB.rst:936
 msgid ""
@@ -2829,7 +2858,7 @@ msgstr ""
 
 #: ../../CLB.rst:935
 msgid "Flying, deathtouch"
-msgstr ""
+msgstr "Latanie, dotyk śmierci"
 
 #: ../../CLB.rst:940
 msgid ""
@@ -2856,6 +2885,8 @@ msgstr ""
 msgid ""
 "Menace (This creature can't be blocked except by two or more creatures.)"
 msgstr ""
+"Złowrogość (Ten stwór nie może być blokowany, chyba że przez co najmniej dwa "
+"stwory.)"
 
 #: ../../CLB.rst:945
 msgid ""
@@ -2931,7 +2962,7 @@ msgstr ""
 #: ../../CLB.rst:971 ../../CLB.rst:1207 ../../CLB.rst:1227 ../../CLB.rst:1653
 #: ../../CLB.rst:1683 ../../CLB.rst:1813
 msgid "Haste"
-msgstr ""
+msgstr "Pośpiech"
 
 #: ../../CLB.rst:973
 msgid ""
@@ -2948,10 +2979,8 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:979 ../../CLB.rst:2243
-#, fuzzy
-#| msgid "Flying"
 msgid "Flying, haste"
-msgstr "Latanie"
+msgstr "Latanie, pośpiech"
 
 #: ../../CLB.rst:984
 msgid ""
@@ -3074,7 +3103,7 @@ msgstr ""
 #: ../../CLB.rst:1023 ../../CLB.rst:1315 ../../CLB.rst:1423 ../../CLB.rst:1633
 #: ../../CLB.rst:1807 ../../CLB.rst:1927 ../../CLB.rst:1965 ../../CLB.rst:1975
 msgid "Trample"
-msgstr ""
+msgstr "Tratowanie"
 
 #: ../../CLB.rst:1025
 msgid ""
@@ -3256,14 +3285,12 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:1085
-#, fuzzy
-#| msgid ""
-#| "This spell costs |mana_1| more to cast for each target beyond the first."
 msgid ""
 "This spell costs |mana_1| less to cast for each opponent who was dealt "
 "damage this turn."
 msgstr ""
-"Rzucenie tego czaru kosztuje o |mana_1| więcej za każdy cel poza pierwszym."
+"Rzucenie tego czaru kosztuje o |mana_1| mniej za każdego przeciwnika, który "
+"otrzymał w tej turze obrażenia."
 
 #: ../../CLB.rst:1094
 msgid ""
@@ -3303,21 +3330,23 @@ msgstr ""
 
 #: ../../CLB.rst:1103
 msgid "Whenever Hoarding Ogre attacks, roll a d20."
-msgstr ""
+msgstr "Ilekroć ten stwór zaatakuje, rzuć k20."
 
 #: ../../CLB.rst:1105
 msgid ""
 "1—9 | Create a Treasure token. (It's an artifact with \"|tap|, Sacrifice "
 "this artifact: Add one mana of any color.\")"
 msgstr ""
+"1—9 | Stwórz żeton Skarbu. (To artefakt mający \"|tap|, poświęć ten artefakt:"
+" Weź jedną manę dowolnego koloru.\")"
 
 #: ../../CLB.rst:1107
 msgid "10—19 | Create two Treasure tokens."
-msgstr ""
+msgstr "10—19 | Stwórz dwa żetony Skarbu."
 
 #: ../../CLB.rst:1109
 msgid "20 | Create three Treasure tokens."
-msgstr ""
+msgstr "20 | Stwórz trzy żetony Skarbu."
 
 #: ../../CLB.rst:1114
 msgid ""
@@ -3389,6 +3418,8 @@ msgid ""
 "Equip |mana_4| (|mana_4|: Attach to target creature you control. Equip only "
 "as a sorcery.)"
 msgstr ""
+"Wyposaż |mana_4| (|mana_4|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Aktywuj tylko jako obrzęd.)"
 
 #: ../../CLB.rst:1140
 msgid ""
@@ -3509,6 +3540,8 @@ msgid ""
 "Whenever enchanted creature attacks, you create a Treasure token. (It's an "
 "artifact with \"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
 msgstr ""
+"Ilekroć zauroczony stwór zaatakuje, stwórz żeton Skarbu. (To artefakt mający "
+"\"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../CLB.rst:1190
 msgid ""
@@ -3519,7 +3552,7 @@ msgstr ""
 
 #: ../../CLB.rst:1185
 msgid "Defender"
-msgstr ""
+msgstr "Obronność"
 
 #: ../../CLB.rst:1187
 msgid "When Stirring Bard enters the battlefield, you take the initiative."
@@ -3648,10 +3681,8 @@ msgid "Whenever equipped creature attacks, double its power until end of turn."
 msgstr ""
 
 #: ../../CLB.rst:1235
-#, fuzzy
-#| msgid "|tap|: Add |mana_b| or |mana_r|."
 msgid "Equip |mana_1|\\ |mana_r|"
-msgstr "|tap|: Weź |mana_b| lub |mana_r|."
+msgstr "Wyposaż |mana_1|\\ |mana_r|"
 
 #: ../../CLB.rst:1240
 msgid ""
@@ -3748,6 +3779,8 @@ msgid ""
 "If you would roll one or more dice, instead roll that many dice plus one and "
 "ignore the lowest roll."
 msgstr ""
+"Jeśli masz rzucić co najmniej jedną kostką, zamiast tego rzuć tyle samo "
+"kostek plus jeden i zignoruj najniższy wynik."
 
 #: ../../CLB.rst:1269
 msgid ""
@@ -3887,6 +3920,8 @@ msgid ""
 "Up to two target creatures you control each deal damage equal to their power "
 "to another target creature."
 msgstr ""
+"Każdy z co najwyżej dwóch wskazanych stworów zadaje obrażenia równe swojej "
+"sile innemu wskazanemu stworowi."
 
 #: ../../CLB.rst:1326
 msgid ""
@@ -4090,18 +4125,16 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:1385
-#, fuzzy
-#| msgid ""
-#| "This spell costs |mana_1| more to cast for each target beyond the first."
 msgid ""
 "This spell costs |mana_x| less to cast, where X is the total mana value of "
 "Dragons you control."
 msgstr ""
-"Rzucenie tego czaru kosztuje o |mana_1| więcej za każdy cel poza pierwszym."
+"Rzucenie tego czaru kosztuje o |mana_x| mniej, gdzie X jest sumą skrótów "
+"many Smoków pod twoim władaniem."
 
 #: ../../CLB.rst:1387 ../../CLB.rst:1393
 msgid "Flying, trample"
-msgstr ""
+msgstr "Latanie, tratowanie"
 
 #: ../../CLB.rst:1389
 msgid ""
@@ -4153,7 +4186,7 @@ msgstr ""
 
 #: ../../CLB.rst:1409 ../../CLB.rst:1533
 msgid "Reach"
-msgstr ""
+msgstr "Zasięg"
 
 #: ../../CLB.rst:1414
 msgid ""
@@ -4180,6 +4213,8 @@ msgid ""
 "Search your library for up to two basic land cards and/or Gate cards, put "
 "them onto the battlefield tapped, then shuffle."
 msgstr ""
+"Wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów i/lub "
+"Bram, umieść je przekręcone na polu bitwy, po czym przetasuj."
 
 #: ../../CLB.rst:1419
 msgid "You take the initiative."
@@ -4269,6 +4304,7 @@ msgstr ""
 #: ../../CLB.rst:1453
 msgid "Prevent all combat damage that would be dealt this turn."
 msgstr ""
+"Zażegnaj wszystkie obrażenia bojowe, jakie mogłyby zostać zadane w tej turze."
 
 #: ../../CLB.rst:1460
 msgid ""
@@ -4365,6 +4401,8 @@ msgid ""
 "Search your library for a Forest card, put that card onto the battlefield, "
 "then shuffle."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę Lasu, umieść ją na polu bitwy, po czym "
+"przetasuj."
 
 #: ../../CLB.rst:1496
 msgid ""
@@ -4432,7 +4470,7 @@ msgstr ""
 
 #: ../../CLB.rst:1507
 msgid "Target creature gains deathtouch until end of turn."
-msgstr ""
+msgstr "Wskazany stwór zyskuje do końca tury dotyk śmierci."
 
 #: ../../CLB.rst:1516
 msgid ""
@@ -4446,6 +4484,9 @@ msgid ""
 "Enchanted creature gets +3/+3, must be blocked if able, and is goaded. (It "
 "attacks each combat if able and attacks a player other than you if able.)"
 msgstr ""
+"Zauroczony stwór dostaje +3/+3, musi być blokowany jeśli to możliwe i jest "
+"ponaglony. (Atakuje w każdej potyczce jeśli może i atakuje gracza innego niż "
+"ty jeśli może.)"
 
 #: ../../CLB.rst:1520
 msgid ""
@@ -4544,6 +4585,8 @@ msgid ""
 "Deathtouch (Any amount of damage this deals to a creature is enough to "
 "destroy it.)"
 msgstr ""
+"Dotyk śmierci. (Stwór otrzymujący od niniejszego jakiekolwiek obrażenia "
+"zostaje zniszczony.)"
 
 #: ../../CLB.rst:1553
 msgid ""
@@ -4551,6 +4594,9 @@ msgid ""
 "graveyard to your hand, then choose an opponent. That player returns a card "
 "from their graveyard to their hand."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, przywróć wskazaną kartę z twojego "
+"cmentarza do twojej ręki, po czym wybierz przeciwnika. Ów gracz przywraca "
+"kartę ze swojego cmentarza do swojej ręki."
 
 #: ../../CLB.rst:1558
 msgid ""
@@ -4579,6 +4625,9 @@ msgid ""
 "power among creatures you control. Put those cards onto the battlefield "
 "tapped, then shuffle."
 msgstr ""
+"Wyszukaj w twojej bibliotece co najwyżej X kart bazowych lądów, gdzie X jest "
+"największą siłą pośród stworów pod twoim władaniem. Umieść owe karty "
+"przekręcone na polu bitwy, po czym przetasuj."
 
 #: ../../CLB.rst:1568
 msgid ""
@@ -4595,10 +4644,8 @@ msgstr ""
 
 #: ../../CLB.rst:1567 ../../CLB.rst:1849 ../../CLB.rst:1885 ../../CLB.rst:1943
 #: ../../CLB.rst:2025
-#, fuzzy
-#| msgid "|tap|: Add |mana_b| or |mana_r|."
 msgid "|tap|: Add one mana of any color."
-msgstr "|tap|: Weź |mana_b| lub |mana_r|."
+msgstr "|tap|: Weź jedną manę dowolnego koloru."
 
 #: ../../CLB.rst:1576
 msgid ""
@@ -4629,7 +4676,7 @@ msgstr ""
 
 #: ../../CLB.rst:1579
 msgid "This spell can't be countered."
-msgstr ""
+msgstr "Ten czar nie może być skontrowany."
 
 #: ../../CLB.rst:1581
 msgid "Vigilance, reach, trample, ward |mana_2|"
@@ -4669,10 +4716,13 @@ msgid ""
 "any number of creature cards from among them and put them into your hand. "
 "Put the rest on the bottom of your library in a random order."
 msgstr ""
+"Załóż drużynę — Spójrz na pięć wierzchnich kart twojej biblioteki. Możesz "
+"ujawnić spośród nich dowolną liczbę kart stworów i umieścić je w twojej "
+"ręce. Umieść pozostałe losowo na spodzie twojej biblioteki."
 
 #: ../../CLB.rst:1599
 msgid "Start a Brawl — Creatures you control get +2/+2 until end of turn."
-msgstr ""
+msgstr "Wywołaj bójkę — Stwory pod twoim władaniem dostają do końca tury +2/+2."
 
 #: ../../CLB.rst:1604
 msgid ""
@@ -4700,11 +4750,11 @@ msgstr ""
 
 #: ../../CLB.rst:1607
 msgid "Deathtouch, lifelink"
-msgstr ""
+msgstr "Dotyk śmierci, więź życia"
 
 #: ../../CLB.rst:1609
 msgid "At the beginning of your end step, choose one —"
-msgstr ""
+msgstr "Na początku twojego kroku końcowego, wybierz jedną —"
 
 #: ../../CLB.rst:1611
 msgid ""
@@ -4979,6 +5029,7 @@ msgstr ""
 #: ../../CLB.rst:1703 ../../CLB.rst:2251
 msgid "You may look at the top card of your library any time."
 msgstr ""
+"Możesz patrzeć na wierzchnią kartę twojej biblioteki w dowolnym momencie."
 
 #: ../../CLB.rst:1705
 msgid "You may cast Dragon spells from the top of your library."
@@ -5042,7 +5093,7 @@ msgstr ""
 
 #: ../../CLB.rst:1725
 msgid "Flying, ward |mana_2|"
-msgstr ""
+msgstr "Latanie, opieka |mana_2|"
 
 #: ../../CLB.rst:1727
 msgid ""
@@ -5310,7 +5361,7 @@ msgstr ""
 
 #: ../../CLB.rst:1819
 msgid "|mana_3|, |tap|: Draw a card."
-msgstr ""
+msgstr "|mana_3|, |tap|: Dobierz kartę."
 
 #: ../../CLB.rst:1824
 msgid ""
@@ -5320,12 +5371,8 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:1823 ../../CLB.rst:2141
-#, fuzzy
-#| msgid ""
-#| "|tap|: Add one mana of any type that a land you control could produce."
 msgid "|tap|: Add one mana of any color in your commander's color identity."
-msgstr ""
-"|tap|: Weź jedną manę takiego typu, jaki mógłby dać ląd pod twoim władaniem."
+msgstr "|tap|: Weź jedną manę w jednym z kolorów tożsamości twojego dowódcy."
 
 #: ../../CLB.rst:1832
 msgid ""
@@ -5336,17 +5383,19 @@ msgstr ""
 
 #: ../../CLB.rst:1827
 msgid "Whenever you discard a card, exile that card from your graveyard."
-msgstr ""
+msgstr "Ilekroć odrzucisz kartę, wygnaj ją z twojego cmentarza."
 
 #: ../../CLB.rst:1829
 msgid "|mana_2|, |tap|: Draw a card, then discard a card."
-msgstr ""
+msgstr "|mana_2|, |tap|: Dobierz kartę, po czym odrzuć kartę."
 
 #: ../../CLB.rst:1831
 msgid ""
 "|mana_4|, |tap|, Sacrifice Bag of Holding: Return all cards exiled with Bag "
 "of Holding to their owner's hand."
 msgstr ""
+"|mana_4|, |tap|, poświęć ten artefakt: Przywróć wszystkie karty wygnane z "
+"jego pomocą do rąk ich właścicieli."
 
 #: ../../CLB.rst:1838
 msgid ""
@@ -5357,11 +5406,11 @@ msgstr ""
 
 #: ../../CLB.rst:1835
 msgid "Equipped creature has deathtouch and lifelink."
-msgstr ""
+msgstr "Wyposażony stwór ma dotyk śmierci i więź życia."
 
 #: ../../CLB.rst:1837
 msgid "Equip |mana_2|"
-msgstr ""
+msgstr "Wyposaż |mana_2|"
 
 #: ../../CLB.rst:1844
 msgid ""
@@ -5377,6 +5426,10 @@ msgid ""
 "that's tapped and attacking that player or a planeswalker they control. "
 "Exile the tokens at end of combat.)"
 msgstr ""
+"Wyposażony stwór ma miriady. (Ilekroć ów stwór zaatakuje, za każdego "
+"przeciwnika innego niż broniący się gracz, możesz stworzyć przekręcony żeton "
+"będący kopią tego stwora atakujący owego gracza lub wędrowca pod jego "
+"władaniem. Wygnaj owe żetony na koniec potyczki.)"
 
 #: ../../CLB.rst:1850
 msgid ""
@@ -5404,6 +5457,8 @@ msgid ""
 "|mana_3|, Sacrifice Burnished Hart: Search your library for up to two basic "
 "land cards, put them onto the battlefield tapped, then shuffle."
 msgstr ""
+"|mana_3|, poświęć tego stwora: Wyszukaj w twojej bibliotece co najwyżej dwie "
+"karty bazowych lądów, umieść je przekręcone na polu bitwy, po czym przetasuj."
 
 #: ../../CLB.rst:1860
 msgid ""
@@ -5432,13 +5487,11 @@ msgstr ""
 
 #: ../../CLB.rst:1863
 msgid "Charcoal Diamond enters the battlefield tapped."
-msgstr ""
+msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
 
 #: ../../CLB.rst:1865
-#, fuzzy
-#| msgid "|tap|: Add |mana_u| or |mana_b|."
 msgid "|tap|: Add |mana_b|."
-msgstr "|tap|: Weź |mana_u| lub |mana_b|."
+msgstr "|tap|: Weź |mana_b|."
 
 #: ../../CLB.rst:1870
 msgid ""
@@ -5456,7 +5509,7 @@ msgstr ""
 
 #: ../../CLB.rst:1873
 msgid "Equipped creature has flying and haste."
-msgstr ""
+msgstr "Wyposażony stwór ma latanie i pośpiech."
 
 #: ../../CLB.rst:1880
 msgid ""
@@ -5481,7 +5534,7 @@ msgstr ""
 
 #: ../../CLB.rst:1883
 msgid "You have no maximum hand size."
-msgstr ""
+msgstr "Nie masz limitu kart na ręce."
 
 #: ../../CLB.rst:1894
 msgid ""
@@ -5541,13 +5594,11 @@ msgstr ""
 
 #: ../../CLB.rst:1907
 msgid "Fire Diamond enters the battlefield tapped."
-msgstr ""
+msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
 
 #: ../../CLB.rst:1909
-#, fuzzy
-#| msgid "|tap|: Add |mana_b| or |mana_r|."
 msgid "|tap|: Add |mana_r|."
-msgstr "|tap|: Weź |mana_b| lub |mana_r|."
+msgstr "|tap|: Weź |mana_r|."
 
 #: ../../CLB.rst:1916
 msgid ""
@@ -5578,22 +5629,22 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:1919
-#, fuzzy
-#| msgid ""
-#| "This spell costs |mana_1| more to cast for each target beyond the first."
 msgid "This spell costs |mana_1| less to cast for each Gate you control."
 msgstr ""
-"Rzucenie tego czaru kosztuje o |mana_1| więcej za każdy cel poza pierwszym."
+"Rzucenie tego czaru kosztuje o |mana_1| mniej za każdą Bramę pod twoim "
+"władaniem."
 
 #: ../../CLB.rst:1921
 msgid "Gate Colossus can't be blocked by creatures with power 2 or less."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany przez stwory o sile 2 lub mniejszej."
 
 #: ../../CLB.rst:1923
 msgid ""
 "Whenever a Gate enters the battlefield under your control, you may put Gate "
 "Colossus from your graveyard on top of your library."
 msgstr ""
+"Ilekroć Brama wejdzie na pole bitwy pod twoim władaniem, możesz umieścić tę "
+"kartę z twojego cmentarza na wierzchu twojej biblioteki."
 
 #: ../../CLB.rst:1930
 msgid ""
@@ -5608,6 +5659,9 @@ msgid ""
 "commander from the command zone without paying its mana cost. (You still pay "
 "any additional costs.)"
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, możesz rzucić twojego "
+"dowódcę ze strefy dowodzenia bez płacenia jego kosztu many. (Nadal płacisz "
+"dodatkowe koszty.)"
 
 #: ../../CLB.rst:1940
 msgid ""
@@ -5658,11 +5712,11 @@ msgstr ""
 
 #: ../../CLB.rst:1949
 msgid "|mana_1|, |tap|: Untap another target artifact."
-msgstr ""
+msgstr "|mana_1|, |tap|: Odkręć inny wskazany artefakt."
 
 #: ../../CLB.rst:1951
 msgid "|mana_3|, |tap|: Target creature can't be blocked this turn."
-msgstr ""
+msgstr "|mana_3|, |tap|: Wskazany stwór nie może być blokowany w tej turze."
 
 #: ../../CLB.rst:1958
 msgid ""
@@ -5673,13 +5727,11 @@ msgstr ""
 
 #: ../../CLB.rst:1955
 msgid "Marble Diamond enters the battlefield tapped."
-msgstr ""
+msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
 
 #: ../../CLB.rst:1957
-#, fuzzy
-#| msgid "|tap|: Add |mana_g| or |mana_w|."
 msgid "|tap|: Add |mana_w|."
-msgstr "|tap|: Weź |mana_g| lub |mana_w|."
+msgstr "|tap|: Weź |mana_w|."
 
 #: ../../CLB.rst:1962
 msgid ""
@@ -5721,6 +5773,8 @@ msgid ""
 "When Meteor Golem enters the battlefield, destroy target nonland permanent "
 "an opponent controls."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, zniszcz wskazany nie-lądowy byt pod "
+"władaniem przeciwnika."
 
 #: ../../CLB.rst:1982
 msgid ""
@@ -5732,7 +5786,7 @@ msgstr ""
 
 #: ../../CLB.rst:1977
 msgid "Ward—Discard a card."
-msgstr ""
+msgstr "Opieka—Odrzuć kartę."
 
 #: ../../CLB.rst:1979
 msgid ""
@@ -5743,7 +5797,7 @@ msgstr ""
 
 #: ../../CLB.rst:1981
 msgid "Crew 4"
-msgstr ""
+msgstr "Załoga 4"
 
 #: ../../CLB.rst:1988
 msgid ""
@@ -5755,11 +5809,11 @@ msgstr ""
 #: ../../CLB.rst:1985 ../../CLB.rst:2099 ../../CLB.rst:2105 ../../CLB.rst:2151
 #: ../../CLB.rst:2157
 msgid "|tap|: Add |colorless|."
-msgstr ""
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../CLB.rst:1987
 msgid "|mana_1|, |tap|, Sacrifice Mind Stone: Draw a card."
-msgstr ""
+msgstr "|mana_1|, |tap|, poświęć ten artefakt: Dobierz kartę."
 
 #: ../../CLB.rst:1992
 msgid ""
@@ -5784,13 +5838,11 @@ msgstr ""
 
 #: ../../CLB.rst:1995
 msgid "Moss Diamond enters the battlefield tapped."
-msgstr ""
+msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
 
 #: ../../CLB.rst:1997
-#, fuzzy
-#| msgid "|tap|: Add |mana_r| or |mana_g|."
 msgid "|tap|: Add |mana_g|."
-msgstr "|tap|: Weź |mana_r| lub |mana_g|."
+msgstr "|tap|: Weź |mana_g|."
 
 #: ../../CLB.rst:2008
 msgid ""
@@ -5813,7 +5865,7 @@ msgstr ""
 
 #: ../../CLB.rst:2007
 msgid "Crew 3"
-msgstr ""
+msgstr "Załoga 3"
 
 #: ../../CLB.rst:2012
 msgid ""
@@ -5885,6 +5937,8 @@ msgid ""
 "When Pilgrim's Eye enters the battlefield, you may search your library for a "
 "basic land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"kartę bazowego lądu, ujawnij ją, umieść w twojej ręce, po czym przetasuj."
 
 #: ../../CLB.rst:2038
 msgid ""
@@ -5909,11 +5963,11 @@ msgstr ""
 
 #: ../../CLB.rst:2041
 msgid "When Prophetic Prism enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../CLB.rst:2043 ../../CLB.rst:2159
 msgid "|mana_1|, |tap|: Add one mana of any color."
-msgstr ""
+msgstr "|mana_1|, |tap|: Weź jedną manę dowolnego koloru."
 
 #: ../../CLB.rst:2050
 msgid ""
@@ -5937,13 +5991,11 @@ msgstr ""
 
 #: ../../CLB.rst:2053
 msgid "Sky Diamond enters the battlefield tapped."
-msgstr ""
+msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
 
 #: ../../CLB.rst:2055
-#, fuzzy
-#| msgid "|tap|: Add |mana_w| or |mana_u|."
 msgid "|tap|: Add |mana_u|."
-msgstr "|tap|: Weź |mana_w| lub |mana_u|."
+msgstr "|tap|: Weź |mana_u|."
 
 #: ../../CLB.rst:2062
 msgid ""
@@ -5954,7 +6006,7 @@ msgstr ""
 
 #: ../../CLB.rst:2059
 msgid "|tap|: Add |colorless|\\ |colorless|."
-msgstr ""
+msgstr "|tap|: Weź |colorless|\\ |colorless|."
 
 #: ../../CLB.rst:2061
 msgid ""
@@ -5971,7 +6023,7 @@ msgstr ""
 
 #: ../../CLB.rst:2065
 msgid "Equipped creature has hexproof and haste."
-msgstr ""
+msgstr "Wyposażony stwór ma antyklątwę i pośpiech."
 
 #: ../../CLB.rst:2076
 msgid ""
@@ -6005,6 +6057,10 @@ msgid ""
 "without paying its mana cost. Put all revealed cards not cast this way on "
 "the bottom of your library in a random order."
 msgstr ""
+"Kiedy ten stwór umrze, ujawnij karty z wierzchu twojej biblioteki aż "
+"ujawnisz nie-lądową kartę o skrócie many 3 lub mniejszym. Możesz rzucić ową "
+"kartę bez płacenia jej kosztu many. Umieść wszystkie ujawnione i nie rzucone "
+"w ten sposób karty losowo na spodzie twojej biblioteki."
 
 #: ../../CLB.rst:2084
 msgid ""
@@ -6015,7 +6071,7 @@ msgstr ""
 
 #: ../../CLB.rst:2083
 msgid "|mana_7|, |tap|, Sacrifice Universal Solvent: Destroy target permanent."
-msgstr ""
+msgstr "|mana_7|, |tap|, poświęć ten artefakt: Zniszcz wskazany byt."
 
 #: ../../CLB.rst:2092
 msgid ""
@@ -6031,12 +6087,8 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:2089
-#, fuzzy
-#| msgid ""
-#| "|tap|: Add one mana of any type that a land you control could produce."
 msgid "|tap|: Add one mana of any color. Roll a d20."
-msgstr ""
-"|tap|: Weź jedną manę takiego typu, jaki mógłby dać ląd pod twoim władaniem."
+msgstr "|tap|: Weź jedną manę dowolnego koloru. Rzuć k20."
 
 #: ../../CLB.rst:2091
 msgid ""
@@ -6056,6 +6108,8 @@ msgid ""
 "|mana_2|, |tap|, Sacrifice Wayfarer's Bauble: Search your library for a "
 "basic land card, put that card onto the battlefield tapped, then shuffle."
 msgstr ""
+"|mana_2|, |tap|, poświęć ten artefakt: Wyszukaj w twojej bibliotece kartę "
+"bazowego lądu, umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../CLB.rst:2102
 msgid ""
@@ -6100,10 +6154,8 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:2115
-#, fuzzy
-#| msgid "|tap|: Add |mana_b| or |mana_r|."
 msgid "|tap|: Add |mana_b| or one mana of the chosen color."
-msgstr "|tap|: Weź |mana_b| lub |mana_r|."
+msgstr "|tap|: Weź |mana_b| lub jedną manę wybranego koloru."
 
 #: ../../CLB.rst:2122
 msgid ""
@@ -6139,10 +6191,8 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:2129
-#, fuzzy
-#| msgid "|tap|: Add |mana_w| or |mana_u|."
 msgid "|tap|: Add |mana_w| or one mana of the chosen color."
-msgstr "|tap|: Weź |mana_w| lub |mana_u|."
+msgstr "|tap|: Weź |mana_w| lub jedną manę wybranego koloru."
 
 #: ../../CLB.rst:2138
 msgid ""
@@ -6160,10 +6210,8 @@ msgid "As Cliffgate enters the battlefield, choose a color other than red."
 msgstr ""
 
 #: ../../CLB.rst:2137
-#, fuzzy
-#| msgid "|tap|: Add |mana_r| or |mana_g|."
 msgid "|tap|: Add |mana_r| or one mana of the chosen color."
-msgstr "|tap|: Weź |mana_r| lub |mana_g|."
+msgstr "|tap|: Weź |mana_r| lub jedną manę wybranego koloru."
 
 #: ../../CLB.rst:2142
 msgid ""
@@ -6184,6 +6232,8 @@ msgid ""
 "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, "
 "put it onto the battlefield tapped, then shuffle."
 msgstr ""
+"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
+"umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../CLB.rst:2154
 msgid ""
@@ -6197,12 +6247,10 @@ msgid "Gates you control enter the battlefield untapped."
 msgstr ""
 
 #: ../../CLB.rst:2153
-#, fuzzy
-#| msgid ""
-#| "|tap|: Add one mana of any type that a land you control could produce."
 msgid "|tap|: Add one mana of any color that a Gate you control could produce."
 msgstr ""
-"|tap|: Weź jedną manę takiego typu, jaki mógłby dać ląd pod twoim władaniem."
+"|tap|: Weź jedną manę dowolnego koloru, jaki mogłaby dać Brama pod twoim "
+"władaniem."
 
 #: ../../CLB.rst:2162
 msgid ""
@@ -6251,10 +6299,8 @@ msgid "As Manor Gate enters the battlefield, choose a color other than green."
 msgstr ""
 
 #: ../../CLB.rst:2175
-#, fuzzy
-#| msgid "|tap|: Add |mana_g| or |mana_w|."
 msgid "|tap|: Add |mana_g| or one mana of the chosen color."
-msgstr "|tap|: Weź |mana_g| lub |mana_w|."
+msgstr "|tap|: Weź |mana_g| lub jedną manę wybranego koloru."
 
 #: ../../CLB.rst:2182
 msgid ""
@@ -6301,10 +6347,8 @@ msgid "As Sea Gate enters the battlefield, choose a color other than blue."
 msgstr ""
 
 #: ../../CLB.rst:2193
-#, fuzzy
-#| msgid "|tap|: Add |mana_u| or |mana_b|."
 msgid "|tap|: Add |mana_u| or one mana of the chosen color."
-msgstr "|tap|: Weź |mana_u| lub |mana_b|."
+msgstr "|tap|: Weź |mana_u| lub jedną manę wybranego koloru."
 
 #: ../../CLB.rst:2200
 msgid ""
@@ -6348,10 +6392,8 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:2209
-#, fuzzy
-#| msgid "|tap|: Add |mana_g| or |mana_w|."
 msgid "(|tap|: Add |mana_w|.)"
-msgstr "|tap|: Weź |mana_g| lub |mana_w|."
+msgstr "(|tap|: Weź |mana_w|.)"
 
 #: ../../CLB.rst:2214
 msgid ""
@@ -6361,10 +6403,8 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:2213
-#, fuzzy
-#| msgid "|tap|: Add |mana_w| or |mana_u|."
 msgid "(|tap|: Add |mana_u|.)"
-msgstr "|tap|: Weź |mana_w| lub |mana_u|."
+msgstr "(|tap|: Weź |mana_u|.)"
 
 #: ../../CLB.rst:2218
 msgid ""
@@ -6374,10 +6414,8 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:2217
-#, fuzzy
-#| msgid "|tap|: Add |mana_u| or |mana_b|."
 msgid "(|tap|: Add |mana_b|.)"
-msgstr "|tap|: Weź |mana_u| lub |mana_b|."
+msgstr "(|tap|: Weź |mana_b|.)"
 
 #: ../../CLB.rst:2222
 msgid ""
@@ -6387,10 +6425,8 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:2221
-#, fuzzy
-#| msgid "|tap|: Add |mana_b| or |mana_r|."
 msgid "(|tap|: Add |mana_r|.)"
-msgstr "|tap|: Weź |mana_b| lub |mana_r|."
+msgstr "(|tap|: Weź |mana_r|.)"
 
 #: ../../CLB.rst:2226
 msgid ""
@@ -6400,10 +6436,8 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:2225
-#, fuzzy
-#| msgid "|tap|: Add |mana_r| or |mana_g|."
 msgid "(|tap|: Add |mana_g|.)"
-msgstr "|tap|: Weź |mana_r| lub |mana_g|."
+msgstr "(|tap|: Weź |mana_g|.)"
 
 #: ../../CLB.rst:2234
 msgid ""
