@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2022.5\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-29 18:35+0200\n"
+"POT-Creation-Date: 2022-06-19 01:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -253,6 +253,7 @@ msgstr ""
 
 #: ../../percentages.inc:43
 #: ../../percentages.inc:43
+#: ../../percentages.inc:43
 msgid "NCC_percent"
 msgstr ""
 
@@ -489,81 +490,85 @@ msgid "Poniżej znajduje się lista dodatków do formatu Commander oraz produkty
 msgstr ""
 
 #: ../../commander.rst:12
-msgid ":mtgexp:`NCC` :doc:`Streets of New Capenna Commander<NCC>` |NCC_percent|"
+msgid ":mtgexp:`CLB` :doc:`Commander Legends: Battle for Baldur's Gate<CLB>` |NCC_percent|"
 msgstr ""
 
 #: ../../commander.rst:13
-msgid ":mtgexp:`NEC` :doc:`Kamigawa: Neon Dynasty Commander<NEC>` |NEC_percent|"
+msgid ":mtgexp:`NCC` :doc:`Streets of New Capenna Commander<NCC>` |NCC_percent|"
 msgstr ""
 
 #: ../../commander.rst:14
-msgid ":mtgexp:`VOC` :doc:`Crimson Vow Commander<VOC>` |VOC_percent|"
+msgid ":mtgexp:`NEC` :doc:`Kamigawa: Neon Dynasty Commander<NEC>` |NEC_percent|"
 msgstr ""
 
 #: ../../commander.rst:15
-msgid ":mtgexp:`MIC` :doc:`Midnight Hunt Commander<MIC>` |MIC_percent|"
+msgid ":mtgexp:`VOC` :doc:`Crimson Vow Commander<VOC>` |VOC_percent|"
 msgstr ""
 
 #: ../../commander.rst:16
-msgid ":mtgexp:`C21` :doc:`Commander 2021<C21>` |C21_percent|"
+msgid ":mtgexp:`MIC` :doc:`Midnight Hunt Commander<MIC>` |MIC_percent|"
 msgstr ""
 
 #: ../../commander.rst:17
-msgid ":mtgexp:`AFC` :doc:`Forgotten Realms Commander<AFC>` |AFC_percent|"
+msgid ":mtgexp:`C21` :doc:`Commander 2021<C21>` |C21_percent|"
 msgstr ""
 
 #: ../../commander.rst:18
-msgid ":mtgexp:`KHC` :doc:`Kaldheim Commander Decks<KHC>` |KHC_percent|"
+msgid ":mtgexp:`AFC` :doc:`Forgotten Realms Commander<AFC>` |AFC_percent|"
 msgstr ""
 
 #: ../../commander.rst:19
-msgid ":mtgexp:`CMR` :doc:`Commander Legends<CMR>` |CMR_percent|"
+msgid ":mtgexp:`KHC` :doc:`Kaldheim Commander Decks<KHC>` |KHC_percent|"
 msgstr ""
 
 #: ../../commander.rst:20
-msgid ":mtgexp:`ZNC` :doc:`Zendikar Rising Commander Decks<ZNC>` |ZNC_percent|"
+msgid ":mtgexp:`CMR` :doc:`Commander Legends<CMR>` |CMR_percent|"
 msgstr ""
 
 #: ../../commander.rst:21
-msgid ":mtgexp:`C20` :doc:`Commander 2020<C20>` |C20_percent|"
+msgid ":mtgexp:`ZNC` :doc:`Zendikar Rising Commander Decks<ZNC>` |ZNC_percent|"
 msgstr ""
 
 #: ../../commander.rst:22
-msgid ":mtgexp:`C19` :doc:`Commander 2019<C19>` |C19_percent|"
+msgid ":mtgexp:`C20` :doc:`Commander 2020<C20>` |C20_percent|"
 msgstr ""
 
 #: ../../commander.rst:23
-msgid ":mtgexp:`C18` :doc:`Commander 2018<C18>` |C18_percent|"
+msgid ":mtgexp:`C19` :doc:`Commander 2019<C19>` |C19_percent|"
 msgstr ""
 
 #: ../../commander.rst:24
-msgid ":mtgexp:`BBD` :doc:`Battlebond<BBD>` |BBD_percent|"
+msgid ":mtgexp:`C18` :doc:`Commander 2018<C18>` |C18_percent|"
 msgstr ""
 
 #: ../../commander.rst:25
-msgid ":mtgexp:`C17` :doc:`Commander 2017<C17>` |C17_percent|"
+msgid ":mtgexp:`BBD` :doc:`Battlebond<BBD>` |BBD_percent|"
 msgstr ""
 
 #: ../../commander.rst:26
-msgid ":mtgexp:`C16` :doc:`Commander 2016<C16>` |C16_percent|"
+msgid ":mtgexp:`C17` :doc:`Commander 2017<C17>` |C17_percent|"
 msgstr ""
 
 #: ../../commander.rst:27
-msgid ":mtgexp:`C15` :doc:`Commander 2015<C15>` |C15_percent|"
+msgid ":mtgexp:`C16` :doc:`Commander 2016<C16>` |C16_percent|"
 msgstr ""
 
 #: ../../commander.rst:28
-msgid ":mtgexp:`C14` :doc:`Commander 2014<C14>` |C14_percent|"
+msgid ":mtgexp:`C15` :doc:`Commander 2015<C15>` |C15_percent|"
 msgstr ""
 
 #: ../../commander.rst:29
-msgid ":mtgexp:`C13` :doc:`Commander 2013<C13>` |C13_percent|"
+msgid ":mtgexp:`C14` :doc:`Commander 2014<C14>` |C14_percent|"
 msgstr ""
 
 #: ../../commander.rst:30
-msgid ":mtgexp:`CM1` :doc:`Commander's Arsenal<CM1>` |CM1_percent|"
+msgid ":mtgexp:`C13` :doc:`Commander 2013<C13>` |C13_percent|"
 msgstr ""
 
 #: ../../commander.rst:31
+msgid ":mtgexp:`CM1` :doc:`Commander's Arsenal<CM1>` |CM1_percent|"
+msgstr ""
+
+#: ../../commander.rst:32
 msgid ":mtgexp:`CMD` :doc:`Commander<CMD>` |CMD_percent|"
 msgstr ""

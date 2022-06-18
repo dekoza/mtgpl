@@ -42,8 +42,7 @@ Tłumaczenie dodatków
 Nadchodzące
 -----------
 
-* :mtgexp:`CLB` :doc:`Commander Legends: Battle for Baldur's Gate<CLB>` Premiera: 2022-06-10
-* :mtgexp:`2X2` :doc:`Double Master 2022<2X2>` Premiera: 2022-07
+* :mtgexp:`2X2` :doc:`Double Masters 2022<2X2>` Premiera: 2022-07
 * :mtgexp:`40K` :doc:`Warhammer 40,000 Commander<40K>` Premiera: 2022-08
 * :mtgexp:`DMU` :doc:`Dominaria United` Premiera: 2022-09
 * :mtgexp:`DMC` :doc:`Dominaria United Commander` Premiera: 2022-09
