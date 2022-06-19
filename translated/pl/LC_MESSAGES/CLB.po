@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2022.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-06-19 01:09+0200\n"
-"PO-Revision-Date: 2022-05-29 08:43+0000\n"
+"PO-Revision-Date: 2022-06-19 10:19+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/clb/pl/>\n"
 "Language: pl\n"
@@ -466,10 +466,8 @@ msgid "1—9 | Its controller creates a 4/4 green Ox creature token."
 msgstr ""
 
 #: ../../CLB.rst:81
-#, fuzzy
-#| msgid "10—19 | Create two Treasure tokens."
 msgid "10—19 | Its controller creates a 2/2 green Boar creature token."
-msgstr "10—19 | Stwórz dwa żetony Skarbu."
+msgstr "10—19 | Jego władca tworzy żeton zielonego stwora Knur 2/2."
 
 #: ../../CLB.rst:83
 msgid "20 | Its controller creates a 0/1 white Goat creature token."
@@ -722,7 +720,7 @@ msgstr ""
 
 #: ../../CLB.rst:169
 msgid "Equipped creature gets +1/+1 for each creature you control."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +1/+1 za każdego stwora pod twoim władaniem."
 
 #: ../../CLB.rst:171 ../../CLB.rst:1523
 msgid "Equip |mana_3|"
@@ -964,16 +962,12 @@ msgid "Roll a d20."
 msgstr "Rzuć k20."
 
 #: ../../CLB.rst:251
-#, fuzzy
-#| msgid "10—19 | Create two Treasure tokens."
 msgid "1—9 | Create two 1/1 white Soldier creature tokens."
-msgstr "10—19 | Stwórz dwa żetony Skarbu."
+msgstr "1—1 | Stwórz dwa żetony białego stwora Piechur 1/1."
 
 #: ../../CLB.rst:253
-#, fuzzy
-#| msgid "10—19 | Create two Treasure tokens."
 msgid "10—19 | Create two 2/2 white Knight creature tokens."
-msgstr "10—19 | Stwórz dwa żetony Skarbu."
+msgstr "10—19 | Stwórz dwa żetony białego stwora Rycerz 2/2."
 
 #: ../../CLB.rst:255
 msgid "20 | Create three 2/2 white Knight creature tokens."
@@ -1744,17 +1738,15 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:535
-#, fuzzy
-#| msgid ""
-#| "Enchanted creature gets +1/+1 and is goaded. (It attacks each combat if "
-#| "able and attacks a player other than you if able.)"
 msgid ""
 "When Oceanus Dragon enters the battlefield, tap target creature an opponent "
 "controls. Goad it. (Until your next turn, that creature attacks each combat "
 "if able and attacks a player other than you if able.)"
 msgstr ""
-"Zauroczony stwór dostaje +1/+1 i jest ponaglony. (Atakuje w każdej potyczce "
-"jeśli może i atakuje innego gracza niż ty jeśli może.)"
+"Kiedy ten byt wejdzie na pole bitwy, przekręć wskazanego stwora pod "
+"władaniem przeciwnika. Ponaglij go. (Do twojej najbliższej tury, ów stwór "
+"atakuje w każdej potyczce jeśli może i atakuje gracza innego niż ty jeśli "
+"może.)"
 
 #: ../../CLB.rst:542
 msgid ""
@@ -4763,7 +4755,7 @@ msgstr "Ten czar nie może być skontrowany."
 
 #: ../../CLB.rst:1579
 msgid "Vigilance, reach, trample"
-msgstr ""
+msgstr "Czujność, zasięg, tratowanie"
 
 #: ../../CLB.rst:1592
 msgid ""
@@ -5426,16 +5418,12 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:1809
-#, fuzzy
-#| msgid ""
-#| "Whenever enchanted creature attacks, each other creature that's attacking "
-#| "one of your opponents gets +1/+1 until end of turn."
 msgid ""
 "Whenever Thrakkus the Butcher attacks, double the power of each Dragon you "
 "control until end of turn."
 msgstr ""
-"Ilekroć zauroczony stwór zaatakuje, każdy inny stwór atakujący jednego z "
-"twoich przeciwników dostaje do końca tury +1/+1."
+"Ilekroć ten stwór zaatakuje, podwój do końca tury siłę każdego Smoka pod "
+"twoim władaniem."
 
 #: ../../CLB.rst:1816
 msgid ""
@@ -6666,10 +6654,8 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:2257
-#, fuzzy
-#| msgid "Flying, ward |mana_2|"
 msgid "Ward |mana_2|"
-msgstr "Latanie, opieka |mana_2|"
+msgstr "Opieka |mana_2|"
 
 #: ../../CLB.rst:2259
 msgid ""
@@ -6713,10 +6699,8 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:2273
-#, fuzzy
-#| msgid "Enchant creature"
 msgid "Enchant creature you control"
-msgstr "Zaurocz stwora"
+msgstr "Zaurocz stwora pod twoim władaniem"
 
 #: ../../CLB.rst:2275
 msgid ""
@@ -6957,19 +6941,14 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:2357
-#, fuzzy
-#| msgid ""
-#| "Enchanted creature gets +3/+3, must be blocked if able, and is goaded. "
-#| "(It attacks each combat if able and attacks a player other than you if "
-#| "able.)"
 msgid ""
 "Creatures your opponents control with power less than Baeloth Barrityl's "
 "power are goaded. (They attack each combat if able and attack a player other "
 "than you if able.)"
 msgstr ""
-"Zauroczony stwór dostaje +3/+3, musi być blokowany jeśli to możliwe i jest "
-"ponaglony. (Atakuje w każdej potyczce jeśli może i atakuje gracza innego niż "
-"ty jeśli może.)"
+"Stwory pod władaniem twoich przeciwników mające siłę mniejszą niż siła "
+"niniejszego są ponaglone. (Atakują one w każdej potyczce jeśli mogą i "
+"atakują innego gracza niż ty jeśli mogą.)"
 
 #: ../../CLB.rst:2359
 msgid ""
@@ -6989,17 +6968,14 @@ msgid "Goaded creatures your opponents control can't block."
 msgstr ""
 
 #: ../../CLB.rst:2369
-#, fuzzy
-#| msgid ""
-#| "Enchanted creature gets +1/+1 and is goaded. (It attacks each combat if "
-#| "able and attacks a player other than you if able.)"
 msgid ""
 "Whenever you cast a noncreature spell, goad target creature an opponent "
 "controls. (Until your next turn, that creature attacks each combat if able "
 "and attacks a player other than you if able.)"
 msgstr ""
-"Zauroczony stwór dostaje +1/+1 i jest ponaglony. (Atakuje w każdej potyczce "
-"jeśli może i atakuje innego gracza niż ty jeśli może.)"
+"Ilekroć rzucisz niestworowy czar, ponaglij wskazanego stwora pod władaniem "
+"przeciwnika. (Do twojej najbliższej tury, ów stwór atakuje w każdej potyczce "
+"jeśli może i atakuje gracza innego niż ty jeśli może.)"
 
 #: ../../CLB.rst:2378
 msgid ""
@@ -7009,16 +6985,12 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:2373
-#, fuzzy
-#| msgid ""
-#| "Whenever enchanted creature attacks, each other creature that's attacking "
-#| "one of your opponents gets +1/+1 until end of turn."
 msgid ""
 "Whenever a creature an opponent controls attacks one of your opponents, "
 "double its power until end of turn."
 msgstr ""
-"Ilekroć zauroczony stwór zaatakuje, każdy inny stwór atakujący jednego z "
-"twoich przeciwników dostaje do końca tury +1/+1."
+"Ilekroć stwór pod władaniem przeciwnika zaatakuje jednego z twoich "
+"przeciwników, podwój do końca tury jego siłę."
 
 #: ../../CLB.rst:2375
 msgid ""
@@ -7166,6 +7138,8 @@ msgid ""
 "card from your hand face down. Cast it on a later turn for its foretell "
 "cost.)"
 msgstr ""
+"Przepowiednia |mana_g| (W twojej turze możesz zapłacić |mana_2| i wygnać tę "
+"kartę zakrytą. Rzuć ją w późniejszej turze za jej koszt przepowiedni.)"
 
 #: ../../CLB.rst:2432
 msgid ""
@@ -7410,7 +7384,7 @@ msgstr ""
 
 #: ../../CLB.rst:2497
 msgid "(Gain the next level as a sorcery to add its ability.)"
-msgstr ""
+msgstr "(Zyskaj kolejny poziom jako obrzęd by dodać jego zdolność.)"
 
 #: ../../CLB.rst:2499
 #, fuzzy
@@ -7467,12 +7441,17 @@ msgid ""
 "party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and "
 "Wizard.)"
 msgstr ""
+"Siła tego stwora jest równa liczbie stworów w twojej ekipie. (Na ekipę "
+"składa się po jednym stworze spośród danego typu: Kleryka, Łotrzyka, "
+"Wojownika i Czarodzieja.)"
 
 #: ../../CLB.rst:2513
 msgid ""
 "At the beginning of combat on your turn, if you have a full party, target "
 "creature gets +1/+1 and gains flying until end of turn."
 msgstr ""
+"Na początku potyczki w twojej turze, jeśli masz pełną ekipę, wskazany stwór "
+"dostaje do końca tury +1/+1 i latanie."
 
 #: ../../CLB.rst:2526
 msgid ""
@@ -7482,34 +7461,24 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:2517
-#, fuzzy
-#| msgid "Choose one —"
 msgid "Choose two —"
-msgstr "Wybierz jedno —"
+msgstr "Wybierz dwie —"
 
 #: ../../CLB.rst:2519
-#, fuzzy
-#| msgid "Destroy target creature."
 msgid "Destroy all artifacts."
-msgstr "Zniszcz wskazanego stwora."
+msgstr "Zniszcz wszystkie artefakty."
 
 #: ../../CLB.rst:2521
-#, fuzzy
-#| msgid "Dispel Magic — Destroy target enchantment."
 msgid "Destroy all enchantments."
-msgstr "Rozproszenie magii — Zniszcz wskazany urok."
+msgstr "Zniszcz wszystkie uroki."
 
 #: ../../CLB.rst:2523
-#, fuzzy
-#| msgid "Destroy target creature with power 4 or greater."
 msgid "Destroy all creatures with mana value 3 or less."
-msgstr "Zniszcz wskazanego stwora o sile 4 lub większej."
+msgstr "Zniszcz wszystkie stwory o skrócie many 3 lub mniejszym."
 
 #: ../../CLB.rst:2525
-#, fuzzy
-#| msgid "Destroy target creature with power 4 or greater."
 msgid "Destroy all creatures with mana value 4 or greater."
-msgstr "Zniszcz wskazanego stwora o sile 4 lub większej."
+msgstr "Zniszcz wszystkie stwory o skrótach many 4 lub większych."
 
 #: ../../CLB.rst:2534
 msgid ""
@@ -7523,6 +7492,8 @@ msgid ""
 "If an opponent would search a library, that player searches the top four "
 "cards of that library instead."
 msgstr ""
+"Jeśli przeciwnik miałby przeszukać bibliotekę, zamiast tego ów gracz "
+"przeszukuje cztery wierzchnie karty owej biblioteki."
 
 #: ../../CLB.rst:2540
 msgid ""
@@ -7555,13 +7526,15 @@ msgstr ""
 #: ../../CLB.rst:2543 ../../CLB.rst:2587 ../../CLB.rst:2615 ../../CLB.rst:2669
 #: ../../CLB.rst:2863
 msgid "Changeling (This card is every creature type.)"
-msgstr ""
+msgstr "Zmiennokształtny (Ta karta ma każdy typ stwora.)"
 
 #: ../../CLB.rst:2545
 msgid ""
 "Exile target creature. Its controller creates a 1/1 colorless Shapeshifter "
 "creature token with changeling."
 msgstr ""
+"Wygnaj wskazanego stwora. Jego władca tworzy żeton bezkolorowego stwora "
+"Przemieniec 1/1 ze zmiennokształtnością."
 
 #: ../../CLB.rst:2550
 msgid ""
@@ -7571,10 +7544,8 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:2549
-#, fuzzy
-#| msgid "Destroy target creature with power 4 or greater."
 msgid "Destroy all creatures with power 3 or greater."
-msgstr "Zniszcz wskazanego stwora o sile 4 lub większej."
+msgstr "Zniszcz wszystkie stwory o sile 3 lub większej."
 
 #: ../../CLB.rst:2556
 msgid ""
@@ -7586,12 +7557,16 @@ msgstr ""
 #: ../../CLB.rst:2553
 msgid "Aftermath (Cast this spell only from your graveyard. Then exile it.)"
 msgstr ""
+"Pokłosie (Możesz rzucić ten czar tylko z twojego cmentarza. Następnie wygnaj "
+"go.)"
 
 #: ../../CLB.rst:2555
 msgid ""
 "Return all creature cards with power 2 or less from your graveyard to your "
 "hand."
 msgstr ""
+"Przywróć wszystkie karty stworów o sile 2 lub mniejszej z twojego cmentarza "
+"do twojej ręki."
 
 #: ../../CLB.rst:2562
 msgid ""
@@ -7601,18 +7576,16 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:2559
-#, fuzzy
-#| msgid "|mana_2|\\ |mana_u|: Target creature gains flying until end of turn."
 msgid ""
 "|mana_1|\\ |mana_w|: Target permanent you control gains protection from "
 "white until end of turn."
-msgstr "|mana_2|\\ |mana_u|: Wskazany stwór zyskuje do końca tury latanie."
+msgstr ""
+"|mana_1|\\ |mana_w|: Wskazany byt pod twoim władaniem zyskuje do końca tury "
+"ochronę przed białym."
 
 #: ../../CLB.rst:2561
-#, fuzzy
-#| msgid "|mana_2|\\ |mana_u|: Target creature gains flying until end of turn."
 msgid "|mana_1|: Target spell or permanent becomes white until end of turn."
-msgstr "|mana_2|\\ |mana_u|: Wskazany stwór zyskuje do końca tury latanie."
+msgstr "|mana_1|: Wskazany czar lub byt staje się biały do końca tury."
 
 #: ../../CLB.rst:2568
 msgid ""
@@ -7626,12 +7599,16 @@ msgid ""
 "Battalion — Whenever Frontline Medic and at least two other creatures "
 "attack, creatures you control gain indestructible until end of turn."
 msgstr ""
+"Batalion — Ilekroć ten stwór zaatakuje wraz z co najmniej dwoma innymi "
+"stworami, stwory pod twoim władaniem zyskują niezniszczalność do końca tury."
 
 #: ../../CLB.rst:2567
 msgid ""
 "Sacrifice Frontline Medic: Counter target spell with |mana_x| in its mana "
 "cost unless its controller pays |mana_3|."
 msgstr ""
+"Poświęć tego stwora: Skontruj wskazany czar posiadający |mana_x| w swoim "
+"koszcie, chyba że jego władca zapłaci |mana_3|."
 
 #: ../../CLB.rst:2574
 msgid ""
@@ -7641,17 +7618,14 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:2573
-#, fuzzy
-#| msgid ""
-#| "Exile target creature you control, then return that card to the "
-#| "battlefield under its owner's control."
 msgid ""
 "Whenever Galepowder Mage attacks, exile another target creature. Return that "
 "card to the battlefield under its owner's control at the beginning of the "
 "next end step."
 msgstr ""
-"Wygnaj wskazanego stwora pod twoim władaniem, po czym przywróć ową kartę na "
-"pole bitwy po władaniem właściciela."
+"Ilekroć ten stwór zaatakuje, wygnaj innego wskazanego stwora. Przywróć ową "
+"kartę na pole bitwy pod władaniem jej właściciela na początku najbliższego "
+"kroku końcowego."
 
 #: ../../CLB.rst:2584
 msgid ""
@@ -7666,12 +7640,13 @@ msgid ""
 "non-Angel creatures you control until Glorious Protector leaves the "
 "battlefield."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, możesz wygnać dowolną liczbę stworów "
+"bez typu Anioł pod twoim władaniem dopóki niniejszy stwór nie opuści pola "
+"bitwy."
 
 #: ../../CLB.rst:2583
-#, fuzzy
-#| msgid "Equip |mana_1|\\ |mana_r|"
 msgid "Foretell |mana_2|\\ |mana_w|"
-msgstr "Wyposaż |mana_1|\\ |mana_r|"
+msgstr "Przepowiednia |mana_2|\\ |mana_w|"
 
 #: ../../CLB.rst:2590
 msgid ""
@@ -7685,6 +7660,8 @@ msgid ""
 "When Irregular Cohort enters the battlefield, create a 2/2 colorless "
 "Shapeshifter creature token with changeling."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton bezkolorowego stwora "
+"Przemieniec 2/2 ze zmiennokształtnością."
 
 #: ../../CLB.rst:2596
 msgid ""
@@ -7695,13 +7672,15 @@ msgstr ""
 
 #: ../../CLB.rst:2593 ../../CLB.rst:3127 ../../CLB.rst:3161 ../../CLB.rst:3167
 msgid "First strike"
-msgstr ""
+msgstr "Pierwszy cios"
 
 #: ../../CLB.rst:2595
 msgid ""
 "|mana_3|\\ |mana_w|\\ |mana_w|: Attacking creatures you control get +X/+X "
 "until end of turn, where X is the number of attacking creatures."
 msgstr ""
+"|mana_3|\\ |mana_w|\\ |mana_w|: Atakujące stwory pod twoim władaniem dostają "
+"do końca tury +X/+X, gdzie X jest liczbą atakujących stworów."
 
 #: ../../CLB.rst:2600
 msgid ""
@@ -7716,6 +7695,9 @@ msgid ""
 "creature token with \"|mana_1|, Sacrifice this creature: Counter target "
 "noncreature spell unless its controller pays |mana_1|.\""
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton niebieskiego stwora "
+"Czarodziej 1/1 z \"|mana_1|, poświęć tego stwora: Skontruj wskazany "
+"niestworowy czar, chyba że jego władca zapłaci |mana_1|.\""
 
 #: ../../CLB.rst:2604
 msgid ""
@@ -7731,6 +7713,10 @@ msgid ""
 "controlled by the player who controls the fewest, then sacrifices the rest. "
 "Players discard cards and sacrifice creatures the same way."
 msgstr ""
+"|mana_4|\\ |mana_w|, |tap|, poświęć ten byt: Każdy gracz wybiera tyle lądów "
+"pod swoim władaniem, iloma lądami włada gracz władający najmniejszą ich "
+"liczbą, po czym poświęca pozostałe. Gracze odrzucają karty i poświęcają "
+"stwory w ten sam sposób."
 
 #: ../../CLB.rst:2612
 msgid ""
@@ -7742,17 +7728,19 @@ msgstr ""
 #: ../../CLB.rst:2607
 msgid ""
 "Mikaeus, the Lunarch enters the battlefield with X +1/+1 counters on it."
-msgstr ""
+msgstr "Ten stwór wchodzi na pole bitwy mając X znaczników +1/+1."
 
 #: ../../CLB.rst:2609
 msgid "|tap|: Put a +1/+1 counter on Mikaeus."
-msgstr ""
+msgstr "|tap|: Umieść znacznik +1/+1 na tym stworze."
 
 #: ../../CLB.rst:2611
 msgid ""
 "|tap|, Remove a +1/+1 counter from Mikaeus: Put a +1/+1 counter on each "
 "other creature you control."
 msgstr ""
+"|tap|, usuń znacznik +1/+1 z tego stwora: Umieść znacznik +1/+1 na każdym "
+"innym stworze pod twoim władaniem."
 
 #: ../../CLB.rst:2618
 msgid ""
@@ -7766,6 +7754,8 @@ msgid ""
 "|mana_x|: Until end of turn, creatures you control have base power and "
 "toughness X/X and gain all creature types."
 msgstr ""
+"|mana_x|: Do końca tury stwory pod twoim władaniem mają bazowe siłę i "
+"wytrzymałość X/X i zyskują wszystkie typy stwora."
 
 #: ../../CLB.rst:2622
 msgid ""
@@ -7775,12 +7765,12 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:2621
-#, fuzzy
-#| msgid "Target creature gains deathtouch until end of turn."
 msgid ""
 "|tap|: Target creature you control gains protection from the color of your "
 "choice until end of turn."
-msgstr "Wskazany stwór zyskuje do końca tury dotyk śmierci."
+msgstr ""
+"|tap|: Wskazany stwór pod twoim władaniem zyskuje do końca tury ochronę "
+"przed wybranym przez ciebie kolorem."
 
 #: ../../CLB.rst:2626
 msgid ""
@@ -7795,6 +7785,9 @@ msgid ""
 "mana value 3 or less from your graveyard to the battlefield. (|untap| is the "
 "untap symbol.)"
 msgstr ""
+"|mana_1|\\ |mana_w|\\ |mana_w|, |untap|: Przywróć wskazaną kartę stwora o "
+"skrócie many 3 lub mniejszym z twojego cmentarza na pole bitwy (|untap| jest "
+"symbolem odkręcenia.)"
 
 #: ../../CLB.rst:2630
 msgid ""
@@ -7804,12 +7797,10 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:2629
-#, fuzzy
-#| msgid "When Prophetic Prism enters the battlefield, draw a card."
 msgid ""
 "When Priest of Ancient Lore enters the battlefield, you gain 1 life and draw "
 "a card."
-msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie i dobierz kartę."
 
 #: ../../CLB.rst:2634
 msgid ""
@@ -7824,6 +7815,9 @@ msgid ""
 "control, scry 1. If this is the second time this ability has resolved this "
 "turn, draw a card instead."
 msgstr ""
+"Sojusz — Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, wróż "
+"1. Jeśli ta zdolność jest rozpatrzona drugi raz w tej turze, zamiast tego "
+"dobierz kartę."
 
 #: ../../CLB.rst:2640
 msgid ""
@@ -7833,13 +7827,12 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:2639
-#, fuzzy
-#| msgid "Start a Brawl — Creatures you control get +2/+2 until end of turn."
 msgid ""
 "Sacrifice Selfless Spirit: Creatures you control gain indestructible until "
 "end of turn."
 msgstr ""
-"Wywołaj bójkę — Stwory pod twoim władaniem dostają do końca tury +2/+2."
+"Poświęć tego stwora: Stwory pod twoim władaniem zyskują niezniszczalność do "
+"końca tury."
 
 #: ../../CLB.rst:2646
 msgid ""
@@ -7854,12 +7847,17 @@ msgid ""
 "to the battlefield. If this spell was cast from a graveyard, you may copy "
 "this spell and may choose a new target for the copy."
 msgstr ""
+"Przywróć wskazaną kartę bytu o skrócie many 3 lub mniejszym z twojego "
+"cmentarza na pole bitwy, Jeśli ten czas został rzucony z cmentarza, możesz "
+"skopiować ten czar i możesz wskazać nowy cel dla kopii."
 
 #: ../../CLB.rst:2645
 msgid ""
 "Flashback |mana_4|\\ |mana_w| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_4|\\ |mana_w| (Możesz rzucić tę kartę z twojego cmentarza "
+"za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../CLB.rst:2652
 msgid ""
@@ -7870,13 +7868,15 @@ msgstr ""
 
 #: ../../CLB.rst:2649 ../../CLB.rst:2671
 msgid "Double strike"
-msgstr ""
+msgstr "Podwójny cios"
 
 #: ../../CLB.rst:2651
 msgid ""
 "Revolt — At the beginning of your end step, if a permanent you controlled "
 "left the battlefield this turn, put a +1/+1 counter on Solemn Recruit."
 msgstr ""
+"Rewolta — Na początku twojego kroku końcowego, jeśli byt pod twoim władaniem "
+"opuścił pole bitwy w tej turze, umieść dwa znaczniki +1/+1 na tym stworze."
 
 #: ../../CLB.rst:2658
 msgid ""
@@ -7891,12 +7891,18 @@ msgid ""
 "creature token for each creature in your party. (Your party consists of up "
 "to one each of Cleric, Rogue, Warrior, and Wizard.)"
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton białego stwora Kor "
+"Wojownik 1/1 za każdego stwora w twojej ekipie. (Na ekipę składa się po "
+"jednym stworze spośród danego typu: Kleryka, Łotrzyka, Wojownika i "
+"Czarodzieja.)"
 
 #: ../../CLB.rst:2657
 msgid ""
 "At the beginning of combat on your turn, if you have a full party, creatures "
 "you control get +1/+0 and gain indestructible until end of turn."
 msgstr ""
+"Na początku potyczki w twojej turze, jeśli masz pełną ekipę, stwory pod "
+"twoim władaniem dostają do końca tury +1/+0 i niezniszczalność."
 
 #: ../../CLB.rst:2664
 msgid ""
@@ -7906,17 +7912,16 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:2661
-#, fuzzy
-#| msgid "Start a Brawl — Creatures you control get +2/+2 until end of turn."
 msgid "Creatures you control gain indestructible until end of turn."
-msgstr ""
-"Wywołaj bójkę — Stwory pod twoim władaniem dostają do końca tury +2/+2."
+msgstr "Stwory pod twoim władaniem zyskują niezniszczalność do końca tury."
 
 #: ../../CLB.rst:2663
 msgid ""
 "Addendum — If you cast this spell during your main phase, put a +1/+1 "
 "counter on each of those creatures and they gain vigilance until end of turn."
 msgstr ""
+"Dopisek — Jeśli rzucisz ten czar w twojej fazie głównej, umieść znacznik +1/+"
+"1 na każdym z owych stworów i zyskują one czujność do końca tury."
 
 #: ../../CLB.rst:2672
 msgid ""
@@ -7931,6 +7936,9 @@ msgid ""
 "creatures you control. This effect can't reduce the amount of mana this "
 "spell costs by more than |mana_5|."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_1| mniej za każdy typ stwora spośród "
+"stworów pod twoim władaniem. Ten efekt nie może obniżyć kosztu many tego "
+"czaru o więcej niż |mana_5|."
 
 #: ../../CLB.rst:2676
 msgid ""
@@ -7941,7 +7949,7 @@ msgstr ""
 
 #: ../../CLB.rst:2675
 msgid "Return six target nonland permanents to their owners' hands."
-msgstr ""
+msgstr "Przywróć sześć wskazanych nie-lądowych bytów do rąk ich właścicieli."
 
 #: ../../CLB.rst:2682
 msgid ""
@@ -7952,11 +7960,13 @@ msgstr ""
 
 #: ../../CLB.rst:2679
 msgid "Hexproof"
-msgstr ""
+msgstr "Antyklątwa"
 
 #: ../../CLB.rst:2681
 msgid "Creatures your opponents control attack each combat if able."
 msgstr ""
+"Stwory pod władaniem twoich przeciwników atakują w każdej potyczce jeśli "
+"mogą."
 
 #: ../../CLB.rst:2688
 msgid ""
@@ -7967,7 +7977,7 @@ msgstr ""
 
 #: ../../CLB.rst:2685
 msgid "Whenever you draw a card, put a +1/+1 counter on Chasm Skulker."
-msgstr ""
+msgstr "Ilekroć dobierzesz kartę, umieść znacznik +1/+1 na tym stworze."
 
 #: ../../CLB.rst:2687
 msgid ""
@@ -7975,6 +7985,9 @@ msgid ""
 "islandwalk, where X is the number of +1/+1 counters on Chasm Skulker. (They "
 "can't be blocked as long as defending player controls an Island.)"
 msgstr ""
+"Kiedy ten stwór umrze, stwórz X żetonów niebieskiego stwora Kalmar 1/1 z "
+"podbojem wysp, gdzie X jest liczbą znaczników +1/+1 na tym stworze. (Nie "
+"mogą być blokowane, o ile broniący się gracz włada Wyspą.)"
 
 #: ../../CLB.rst:2692
 msgid ""
@@ -7988,6 +8001,8 @@ msgid ""
 "Target player draws three cards. Then that player discards two cards unless "
 "they discard a land card."
 msgstr ""
+"Wskazany gracz dobiera trzy karty. Następnie ów gracz odrzuca dwie karty, "
+"chyba że odrzuci kartę lądu."
 
 #: ../../CLB.rst:2696
 msgid ""
@@ -8001,6 +8016,8 @@ msgid ""
 "Exile X target creatures. For each creature exiled this way, its controller "
 "creates a 2/2 green Boar creature token."
 msgstr ""
+"Wygnaj X wskazanych stworów. Za każdego stwora wygnanego w ten sposób jego "
+"władca tworzy żeton zielonego stwora Knur 2/2."
 
 #: ../../CLB.rst:2702
 msgid ""
@@ -8010,16 +8027,16 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:2699 ../../CLB.rst:3115
-#, fuzzy
-#| msgid "Enchant creature"
 msgid "Enchant player"
-msgstr "Zaurocz stwora"
+msgstr "Zaurocz gracza"
 
 #: ../../CLB.rst:2701
 msgid ""
 "Whenever enchanted player is attacked, you draw a card. Each opponent "
 "attacking that player does the same."
 msgstr ""
+"Ilekroć zauroczony gracz zostanie zaatakowany, dobierz kartę. Każdy "
+"przeciwnik atakujący owego gracza robi to samo."
 
 #: ../../CLB.rst:2706
 msgid ""
@@ -8031,7 +8048,7 @@ msgstr ""
 #: ../../CLB.rst:2705
 msgid ""
 "Whenever a permanent deals damage to you, return it to its owner's hand."
-msgstr ""
+msgstr "Ilekroć byt zada tobie obrażenia, przywróć go do ręki właściciela."
 
 #: ../../CLB.rst:2710
 msgid ""
@@ -8059,6 +8076,9 @@ msgid ""
 "into two piles. Put one pile into your hand and the other into your "
 "graveyard."
 msgstr ""
+"Ujawnij pięć wierzchnich kart twojej biblioteki. Przeciwnik rozdziela owe "
+"karty na dwa stosy. Umieść jeden stos w twojej ręce, a pozostały w twoim "
+"cmentarzu."
 
 #: ../../CLB.rst:2720
 msgid ""
@@ -8068,19 +8088,17 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:2717 ../../CLB.rst:2819
-#, fuzzy
-#| msgid ""
-#| "Menace (This creature can't be blocked except by two or more creatures.)"
 msgid "Skulk (This creature can't be blocked by creatures with greater power.)"
 msgstr ""
-"Złowrogość (Ten stwór nie może być blokowany, chyba że przez co najmniej dwa "
-"stwory.)"
+"Przyczajenie (Ten stwór nie może być blokowany przez stwory z większą siłą.)"
 
 #: ../../CLB.rst:2719
 msgid ""
 "At the beginning of your upkeep, you may discard all the cards in your hand. "
 "If you do, draw that many cards."
 msgstr ""
+"Na początku twojego kroku utrzymania, możesz odrzucić wszystkie karty z "
+"twojej ręki. Jeśli tak zrobisz, dobierz tyle samo kart."
 
 #: ../../CLB.rst:2728
 msgid ""
@@ -8091,17 +8109,19 @@ msgstr ""
 
 #: ../../CLB.rst:2723
 msgid "Each opponent mills fourteen cards."
-msgstr ""
+msgstr "Każdy przeciwnik mieli po czternaście kart."
 
 #: ../../CLB.rst:2725
 msgid ""
 "Cycling |mana_1|\\ |mana_u| (|mana_1|\\ |mana_u|, Discard this card: Draw a "
 "card.)"
 msgstr ""
+"Recykling |mana_1|\\ |mana_u| (|mana_1|\\ |mana_u|, odrzuć tę kartę: Dobierz "
+"kartę.)"
 
 #: ../../CLB.rst:2727
 msgid "When you cycle Fractured Sanity, each opponent mills four cards."
-msgstr ""
+msgstr "Kiedy recyklujesz tę kartę, każdy przeciwnik mieli po cztery karty."
 
 #: ../../CLB.rst:2734
 msgid ""
@@ -8112,28 +8132,20 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:2731
-#, fuzzy
-#| msgid ""
-#| "Whenever a creature you control of the chosen type enters the battlefield "
-#| "or attacks, draw a card."
 msgid ""
 "Whenever a creature you control becomes blocked, you may return it to its "
 "owner's hand."
 msgstr ""
-"Ilekroć stwór wybranego typu pod twoim władaniem wejdzie na pole bitwy lub "
-"zaatakuje, dobierz kartę."
+"Ilekroć stwór pod twoim władaniem zostaje zablokowany, możesz go przywrócić "
+"do ręki właściciela."
 
 #: ../../CLB.rst:2733
-#, fuzzy
-#| msgid ""
-#| "Whenever a creature you control of the chosen type enters the battlefield "
-#| "or attacks, draw a card."
 msgid ""
 "Whenever one or more creatures you control deal combat damage to a player, "
 "draw a card."
 msgstr ""
-"Ilekroć stwór wybranego typu pod twoim władaniem wejdzie na pole bitwy lub "
-"zaatakuje, dobierz kartę."
+"Ilekroć jeden lub więcej stworów pod twoim władaniem zada graczowi obrażenia "
+"bojowe, dobierz kartę."
 
 #: ../../CLB.rst:2746
 msgid ""
@@ -8144,15 +8156,15 @@ msgstr ""
 
 #: ../../CLB.rst:2741
 msgid "Whenever you cast a spell, choose up to one —"
-msgstr ""
+msgstr "Ilekroć rzucisz czar, wybierz co najwyżej jedno —"
 
 #: ../../CLB.rst:2743
 msgid "Return target spell you don't control to its owner's hand."
-msgstr ""
+msgstr "Przywróć wskazany czar poza twoim władaniem do ręki właściciela."
 
 #: ../../CLB.rst:2745
 msgid "Return target nonland permanent to its owner's hand."
-msgstr ""
+msgstr "Przywróć wskazany nie-lądowy byt do ręki właściciela."
 
 #: ../../CLB.rst:2752
 msgid ""
@@ -8163,7 +8175,7 @@ msgstr ""
 
 #: ../../CLB.rst:2751
 msgid "When Keiga, the Tide Star dies, gain control of target creature."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, zyskaj władanie nad wskazanym stworem."
 
 #: ../../CLB.rst:2758
 msgid ""
@@ -8177,10 +8189,12 @@ msgid ""
 "If Leyline of Anticipation is in your opening hand, you may begin the game "
 "with it on the battlefield."
 msgstr ""
+"Jeśli ta karta jest w twojej startowej ręce, możesz rozpocząć grę mając ją "
+"na polu bitwy."
 
 #: ../../CLB.rst:2757
 msgid "You may cast spells as though they had flash."
-msgstr ""
+msgstr "Możesz rzucać czary tak, jakby miały błysk."
 
 #: ../../CLB.rst:2768
 msgid ""
@@ -8191,17 +8205,22 @@ msgstr ""
 
 #: ../../CLB.rst:2763
 msgid "|mana_2|\\ |mana_u|: Put an hour counter on Midnight Clock."
-msgstr ""
+msgstr "|mana_2|\\ |mana_u|: Umieść znacznik godziny na tym artefakcie."
 
 #: ../../CLB.rst:2765
 msgid "At the beginning of each upkeep, put an hour counter on Midnight Clock."
 msgstr ""
+"Na początku każdego kroku utrzymania umieść znacznik godziny na tym "
+"artefakcie."
 
 #: ../../CLB.rst:2767
 msgid ""
 "When the twelfth hour counter is put on Midnight Clock, shuffle your hand "
 "and graveyard into your library, then draw seven cards. Exile Midnight Clock."
 msgstr ""
+"Kiedy dwunasty znacznik godziny zostanie umieszczony na tym artefakcie, "
+"wtasuj swoją rękę i cmentarz do twojej biblioteki, po czym dobierz siedem "
+"kart. Wygnaj ten artefakt."
 
 #: ../../CLB.rst:2772
 msgid ""
@@ -8215,6 +8234,8 @@ msgid ""
 "Dominate Monster — When Mind Flayer enters the battlefield, gain control of "
 "target creature for as long as you control Mind Flayer."
 msgstr ""
+"Dominacja potwora — Kiedy ten byt wejdzie na pole bitwy, zyskaj władanie nad "
+"wskazanym stworem na czas twojego władania niniejszym stworem."
 
 #: ../../CLB.rst:2782
 msgid ""
@@ -8224,18 +8245,18 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:2779
-#, fuzzy
-#| msgid "As Kindred Discovery enters the battlefield, choose a creature type."
 msgid ""
 "Exploit (When this creature enters the battlefield, you may sacrifice a "
 "creature.)"
-msgstr "Przy wejściu tego bytu na pole bitwy, wybierz typ stwora."
+msgstr "Wyzysk (Kiedy ten byt wejdzie na pole bitwy, możesz poświęcić stwora.)"
 
 #: ../../CLB.rst:2781
 msgid ""
 "When Overcharged Amalgam exploits a creature, counter target spell, "
 "activated ability, or triggered ability."
 msgstr ""
+"Kiedy ten stwór wyzyska stwora, skontruj wskazany czar, aktywowaną zdolność "
+"lub wyzwalaną zdolność."
 
 #: ../../CLB.rst:2786
 msgid ""
@@ -8249,6 +8270,8 @@ msgid ""
 "Creatures can't attack you unless their controller pays |mana_2| for each "
 "creature they control that's attacking you."
 msgstr ""
+"Stwory nie mogą cię atakować, chyba że ich władca zapłaci po |mana_2| za "
+"każdego stwora pod swoim władaniem atakującego ciebie."
 
 #: ../../CLB.rst:2790
 msgid ""
@@ -8258,10 +8281,8 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:2789
-#, fuzzy
-#| msgid "|mana_1|, |tap|: Draw a card, then discard a card."
 msgid "Draw X cards, then discard a card."
-msgstr "|mana_1|, |tap|: Dobierz kartę, po czym odrzuć kartę."
+msgstr "Dobierz X kart, po czym odrzuć kartę."
 
 #: ../../CLB.rst:2796
 msgid ""
@@ -8276,12 +8297,17 @@ msgid ""
 "Pirate creature token with \"This creature can't block\" and \"Creatures you "
 "control attack each combat if able.\""
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, każdy przeciwnik tworzy żeton "
+"czerwonego stwora Pirat 1/1 mający \"Ten stwór nie może blokować\" oraz "
+"\"Stwory pod twoim władaniem atakują w każdej potyczce, jeśli mogą.\""
 
 #: ../../CLB.rst:2795
 msgid ""
 "Spells your opponents cast that target Pursued Whale cost |mana_3| more to "
 "cast."
 msgstr ""
+"Rzucanie czarów wskazujących tego stwora kosztuje twoich przeciwników o "
+"|mana_3| więcej."
 
 #: ../../CLB.rst:2802
 msgid ""
@@ -8291,8 +8317,6 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:2799
-#, fuzzy
-#| msgid "As Kindred Discovery enters the battlefield, choose a creature type."
 msgid ""
 "As Reflections of Littjara enters the battlefield, choose a creature type."
 msgstr "Przy wejściu tego bytu na pole bitwy, wybierz typ stwora."
@@ -8302,6 +8326,8 @@ msgid ""
 "Whenever you cast a spell of the chosen type, copy that spell. (A copy of a "
 "permanent spell becomes a token.)"
 msgstr ""
+"Ilekroć rzucisz czar wybranego typu, skopiuj ów czar. (Kopia czaru bytu "
+"staje się żetonem.)"
 
 #: ../../CLB.rst:2806
 msgid ""
@@ -8316,6 +8342,9 @@ msgid ""
 "You and that opponent each gain control of all creatures the other controls "
 "until end of turn. Those creatures gain haste until end of turn."
 msgstr ""
+"Odkręć wszystkie stwory pod twoim władaniem i wszystkie stwory pod władaniem "
+"wskazanego przeciwnika. Każdy z was zyskuje do końca tury władanie nad "
+"wszystkimi stworami drugiego. Owe stwory zyskują do końca tury pośpiech."
 
 #: ../../CLB.rst:2812
 msgid ""
@@ -8329,12 +8358,16 @@ msgid ""
 "Whenever Sludge Monster enters the battlefield or attacks, put a slime "
 "counter on up to one other target creature."
 msgstr ""
+"Ilekroć ten byt wejdzie na pole bitwy lub zaatakuje, umieść znacznik szlamu "
+"na co najwyżej jednym innym wskazanym stworze."
 
 #: ../../CLB.rst:2811
 msgid ""
 "Non-Horror creatures with slime counters on them lose all abilities and have "
 "base power and toughness 2/2."
 msgstr ""
+"Żetony stworów bez typu Horror mające znacznik szlamu tracą wszystkie "
+"zdolności i mają bazową siłę i wytrzymałość 2/2."
 
 #: ../../CLB.rst:2816
 msgid ""
@@ -8344,19 +8377,15 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:2815
-#, fuzzy
-#| msgid ""
-#| "Enchanted creature gets +3/+3, must be blocked if able, and is goaded. "
-#| "(It attacks each combat if able and attacks a player other than you if "
-#| "able.)"
 msgid ""
 "|mana_u|, |tap|: Until your next turn, target creature an opponent controls "
 "can't be blocked. Goad that creature. (Until your next turn, that creature "
 "attacks each combat if able and attacks a player other than you if able.)"
 msgstr ""
-"Zauroczony stwór dostaje +3/+3, musi być blokowany jeśli to możliwe i jest "
-"ponaglony. (Atakuje w każdej potyczce jeśli może i atakuje gracza innego niż "
-"ty jeśli może.)"
+"|mana_u|, |tap|: Do twojej następnej tury wskazany stwór pod władaniem "
+"przeciwnika nie może być blokowany. Ponaglij owego stwora. (Do twojej "
+"najbliższej tury, ów stwór atakuje w każdej potyczce jeśli może i atakuje "
+"gracza innego niż ty jeśli może.)"
 
 #: ../../CLB.rst:2824
 msgid ""
@@ -8370,12 +8399,16 @@ msgid ""
 "Whenever Wharf Infiltrator deals combat damage to a player, you may draw a "
 "card. If you do, discard a card."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, możesz dobrać kartę. Jeśli "
+"tak zrobisz, odrzuć kartę."
 
 #: ../../CLB.rst:2823
 msgid ""
 "Whenever you discard a creature card, you may pay |mana_2|. If you do, "
 "create a 3/2 colorless Eldrazi Horror creature token."
 msgstr ""
+"Ilekroć odrzucisz kartę stwora, możesz zapłacić |mana_2|. Jeśli tak zrobisz, "
+"stwórz żeton bezkolorowego stwora Eldrazi Horror 3/2."
 
 #: ../../CLB.rst:2836
 msgid ""
@@ -8389,26 +8422,32 @@ msgid ""
 "+2: Until your next turn, up to two target creatures each have base power "
 "and toughness 0/3 and lose all abilities."
 msgstr ""
+"+2: Do twojej następnej tury każdy z co najwyżej dwóch wskazanych stworów ma "
+"bazową siłę i wytrzymałość 0/3 i traci wszystkie zdolności."
 
 #: ../../CLB.rst:2829
 msgid ""
 "−2: Target player draws two cards. Until your next turn, instant, sorcery, "
 "and planeswalker spells that player casts cost |mana_2| less to cast."
 msgstr ""
+"–2: Wskazany gracz dobiera dwie karty. Do twojej następnej tury rzucanie "
+"kart sztuczek, obrzędów i wędrowców kosztuje owego gracza o |mana_2| mniej."
 
 #: ../../CLB.rst:2831
 msgid ""
 "−8: Target player gets an emblem with \"Whenever you cast an instant or "
 "sorcery spell, copy it. You may choose new targets for the copy.\""
 msgstr ""
+"–8: Wskazany gracz dostaje emblemat mający \"Ilekroć rzucisz czar sztuczki "
+"lub obrzędu, skopiuj go. Możesz wskazać nowe cele dla kopii.\""
 
 #: ../../CLB.rst:2833
 msgid "Partner with Rowan Kenrith"
-msgstr ""
+msgstr "Partnerstwo z Rowan Kenrith"
 
 #: ../../CLB.rst:2835
 msgid "Will Kenrith can be your commander."
-msgstr ""
+msgstr "Ten wędrowiec może być twoim dowódcą."
 
 #: ../../CLB.rst:2842
 msgid ""
@@ -8419,13 +8458,15 @@ msgstr ""
 
 #: ../../CLB.rst:2839
 msgid "Whenever a creature dies, put a charge counter on Black Market."
-msgstr ""
+msgstr "Ilekroć umrze stwór, umieść znacznik ładunku na tym uroku."
 
 #: ../../CLB.rst:2841
 msgid ""
 "At the beginning of your precombat main phase, add |mana_b| for each charge "
 "counter on Black Market."
 msgstr ""
+"Na początku twojej fazy głównej przed potyczką, weź |mana_b| za każdy "
+"znacznik ładunku na tym uroku."
 
 #: ../../CLB.rst:2848
 msgid ""
@@ -8436,13 +8477,15 @@ msgstr ""
 
 #: ../../CLB.rst:2845
 msgid "Bloodsoaked Champion can't block."
-msgstr ""
+msgstr "Ten stwór nie może blokować."
 
 #: ../../CLB.rst:2847
 msgid ""
 "Raid — |mana_1|\\ |mana_b|: Return Bloodsoaked Champion from your graveyard "
 "to the battlefield. Activate only if you attacked this turn."
 msgstr ""
+"Najazd — |mana_1|\\ |mana_b|: Przywróć tę kartę z twojego cmentarza na pole "
+"bitwy. Możesz aktywować tylko jeśli atakowałeś w tej turze."
 
 #: ../../CLB.rst:2854
 msgid ""
@@ -8456,6 +8499,8 @@ msgid ""
 "Whenever Butcher of Malakir or another creature you control dies, each "
 "opponent sacrifices a creature."
 msgstr ""
+"Ilekroć umrze ten lub inny stwór pod twoim władaniem, każdy przeciwnik "
+"poświęca stwora."
 
 #: ../../CLB.rst:2860
 msgid ""
@@ -8484,7 +8529,7 @@ msgstr ""
 
 #: ../../CLB.rst:2865
 msgid "Changeling Outcast can't block and can't be blocked."
-msgstr ""
+msgstr "Ten stwór nie może blokować ani być blokowany."
 
 #: ../../CLB.rst:2870
 msgid ""
@@ -8498,6 +8543,8 @@ msgid ""
 "When Corpse Augur dies, you draw X cards and you lose X life, where X is the "
 "number of creature cards in target player's graveyard."
 msgstr ""
+"Kiedy ten stwór umrze, dobierz X kart i strać X żyć, gdzie X jest liczbą "
+"kart stworów w cmentarzu wskazanego gracza."
 
 #: ../../CLB.rst:2874
 msgid ""
@@ -8507,16 +8554,12 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:2873
-#, fuzzy
-#| msgid ""
-#| "Whenever enchanted creature attacks, each other creature that's attacking "
-#| "one of your opponents gets +1/+1 until end of turn."
 msgid ""
 "Choose a creature type. Creatures that aren't of the chosen type get -3/-3 "
 "until end of turn."
 msgstr ""
-"Ilekroć zauroczony stwór zaatakuje, każdy inny stwór atakujący jednego z "
-"twoich przeciwników dostaje do końca tury +1/+1."
+"Wybierz typ stwora. Stwory nie będące wybranego typu dostają do końca tury "
+"-3/-3."
 
 #: ../../CLB.rst:2880
 msgid ""
@@ -8526,19 +8569,14 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:2877
-#, fuzzy
-#| msgid ""
-#| "This spell costs |mana_1| less to cast for each opponent you're attacking."
 msgid "Undaunted (This spell costs |mana_1| less to cast for each opponent.)"
 msgstr ""
-"Rzucenie tego czaru kosztuje o |mana_1| mniej za każdego przeciwnika, "
-"którego atakujesz."
+"Nieulękły (Rzucenie tego czaru kosztuje o |mana_1| mniej za każdego "
+"przeciwnika.)"
 
 #: ../../CLB.rst:2879
-#, fuzzy
-#| msgid "Destroy target creature."
 msgid "Destroy two target creatures."
-msgstr "Zniszcz wskazanego stwora."
+msgstr "Zniszcz dwa wskazane stwory."
 
 #: ../../CLB.rst:2886
 msgid ""
@@ -8548,16 +8586,12 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:2885
-#, fuzzy
-#| msgid ""
-#| "When Meteor Golem enters the battlefield, destroy target nonland "
-#| "permanent an opponent controls."
 msgid ""
 "When Dark Hatchling enters the battlefield, destroy target nonblack "
 "creature. It can't be regenerated."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, zniszcz wskazany nie-lądowy byt pod "
-"władaniem przeciwnika."
+"Kiedy ten byt wejdzie na pole bitwy, zniszcz wskazanego nieczarnego stwora. "
+"Nie może on zregenerować."
 
 #: ../../CLB.rst:2892
 msgid ""
@@ -8567,23 +8601,14 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:2889
-#, fuzzy
-#| msgid ""
-#| "Menace (This creature can't be blocked except by two or more creatures.)"
 msgid ""
 "Shadow (This creature can block or be blocked by only creatures with shadow.)"
 msgstr ""
-"Złowrogość (Ten stwór nie może być blokowany, chyba że przez co najmniej dwa "
-"stwory.)"
+"Cień (Ten stwór może blokować i być blokowany tylko przez stwory z cieniem.)"
 
 #: ../../CLB.rst:2891
-#, fuzzy
-#| msgid ""
-#| "Menace (This creature can't be blocked except by two or more creatures.)"
 msgid "Dauthi Horror can't be blocked by white creatures."
-msgstr ""
-"Złowrogość (Ten stwór nie może być blokowany, chyba że przez co najmniej dwa "
-"stwory.)"
+msgstr "Ten stwór nie może być blokowany przez białe stwory."
 
 #: ../../CLB.rst:2898
 msgid ""
@@ -8593,16 +8618,16 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:2895
-#, fuzzy
-#| msgid "Flying, deathtouch"
 msgid "Menace, deathtouch"
-msgstr "Latanie, dotyk śmierci"
+msgstr "Złowrogość, dotyk śmierci"
 
 #: ../../CLB.rst:2897
 msgid ""
 "When Dire Fleet Ravager enters the battlefield, each player loses a third of "
 "their life, rounded up."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, każdy gracz traci jedną trzecią swoich "
+"żyć, zaokrąglając w górę."
 
 #: ../../CLB.rst:2906
 msgid ""
@@ -8613,19 +8638,15 @@ msgstr ""
 
 #: ../../CLB.rst:2901
 msgid "Protection from white"
-msgstr ""
+msgstr "Ochrona przed białym"
 
 #: ../../CLB.rst:2903
-#, fuzzy
-#| msgid "At the beginning of your end step, choose one —"
 msgid "At the beginning of your end step, you lose 4 life."
-msgstr "Na początku twojego kroku końcowego, wybierz jedną —"
+msgstr "Na początku twojego kroku końcowego, strać 4 życia."
 
 #: ../../CLB.rst:2905
-#, fuzzy
-#| msgid "Whenever enchanted creature attacks, you scry 2."
 msgid "Whenever a creature dies, you gain 2 life."
-msgstr "Ilekroć zauroczony stwor zaatakuje, wróż 2."
+msgstr "Ilekroć umrze stwór, zyskaj 2 życia."
 
 #: ../../CLB.rst:2912
 msgid ""
@@ -8635,21 +8656,20 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:2909
-#, fuzzy
-#| msgid ""
-#| "As an additional cost to cast this spell, sacrifice an artifact or "
-#| "creature."
 msgid ""
 "As an additional cost to cast this spell, sacrifice a creature, discard a "
 "card, or pay 4 life."
 msgstr ""
-"Jako dodatkowy koszt rzucenia tego czaru — poświęć artefakt lub stwora."
+"Jako dodatkowy koszt rzucenia tego czaru — poświęć stwora, odrzuć kartę lub "
+"zapłać 4 życia."
 
 #: ../../CLB.rst:2911
 msgid ""
 "When Dusk Mangler enters the battlefield, each opponent sacrifices a "
 "creature, discards a card, and loses 4 life."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, każdy przeciwnik poświęca stwora, "
+"odrzuca kartę i traci 4 życia."
 
 #: ../../CLB.rst:2916
 msgid ""
@@ -8663,6 +8683,8 @@ msgid ""
 "Destroy target creature or enchantment an opponent controls. You lose life "
 "equal to that permanent's mana value."
 msgstr ""
+"Zniszcz wskazanego stwora lub urok pod władaniem przeciwnika. Strać tyle "
+"żyć, ile wynosił skrót many owego bytu."
 
 #: ../../CLB.rst:2922
 msgid ""
@@ -8679,6 +8701,11 @@ msgid ""
 "and cast that card for as long as it remains exiled, and you may spend mana "
 "as though it were mana of any type to cast that spell."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, spójrz na cztery wierzchnie karty "
+"biblioteki wskazanego przeciwnika, wygnaj jedną z nich zakrytą, po czym "
+"umieść pozostałe losowo na spodzie owej biblioteki. Przez czas jej wygnania "
+"możesz patrzeć na ową kartę oraz rzucić ją wydając manę tak, jakby była maną "
+"dowolnego typu."
 
 #: ../../CLB.rst:2928
 msgid ""
@@ -8692,16 +8719,13 @@ msgid ""
 "Morph |mana_b| (You may cast this card face down as a 2/2 creature for |"
 "mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
+"Przemiana |mana_b| (Możesz rzucić tę kartę zakrytą za |mana_3| jako stwora 2/"
+"2. Odkryj ją w dowolnym momencie za koszt przemiany.)"
 
 #: ../../CLB.rst:2927
-#, fuzzy
-#| msgid ""
-#| "Whenever a creature you control of the chosen type enters the battlefield "
-#| "or attacks, draw a card."
 msgid "Whenever another nontoken creature you control dies, draw a card."
 msgstr ""
-"Ilekroć stwór wybranego typu pod twoim władaniem wejdzie na pole bitwy lub "
-"zaatakuje, dobierz kartę."
+"Ilekroć inny nieżetonowy stwór pod twoim władaniem umrze, dobierz kartę."
 
 #: ../../CLB.rst:2934
 msgid ""
@@ -8711,16 +8735,12 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:2931
-#, fuzzy
-#| msgid ""
-#| "Up to two target creatures you control each deal damage equal to their "
-#| "power to another target creature."
 msgid ""
 "Whenever one or more creatures you control deal combat damage to a player, "
 "create two Treasure tokens."
 msgstr ""
-"Każdy z co najwyżej dwóch wskazanych stworów zadaje obrażenia równe swojej "
-"sile innemu wskazanemu stworowi."
+"Ilekroć jeden lub więcej stworów pod twoim władaniem zada graczowi obrażenia "
+"bojowe, stwórz dwa żetony Skarbu."
 
 #: ../../CLB.rst:2933
 msgid ""
@@ -8736,21 +8756,20 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:2937 ../../CLB.rst:2983
-#, fuzzy
-#| msgid ""
-#| "Menace (This creature can't be blocked except by two or more creatures.)"
 msgid ""
 "Fear (This creature can't be blocked except by artifact creatures and/or "
 "black creatures.)"
 msgstr ""
-"Złowrogość (Ten stwór nie może być blokowany, chyba że przez co najmniej dwa "
-"stwory.)"
+"Postrach (Ten stwór nie może być blokowany, chyba że przez stwory "
+"artefaktowe lub czarne.)"
 
 #: ../../CLB.rst:2939
 msgid ""
 "Whenever Guiltfeeder attacks and isn't blocked, defending player loses 1 "
 "life for each card in their graveyard."
 msgstr ""
+"Ilekroć ten stwór zaatakuje i nie zostanie zablokowany, broniący się gracz "
+"traci 1 życie za każdą kartę w swoim cmentarzu."
 
 #: ../../CLB.rst:2944
 msgid ""
@@ -8760,10 +8779,8 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:2943
-#, fuzzy
-#| msgid "Destroy target creature."
 msgid "Destroy six target creatures."
-msgstr "Zniszcz wskazanego stwora."
+msgstr "Zniszcz sześć wskazanych stworów."
 
 #: ../../CLB.rst:2950
 msgid ""
@@ -8790,6 +8807,8 @@ msgid ""
 "Destroy all creatures you don't control and all planeswalkers you don't "
 "control."
 msgstr ""
+"Zniszcz wszystkie stwory poza twoim władaniem i wszystkich wędrowców poza "
+"twoim władaniem."
 
 #: ../../CLB.rst:2958
 msgid ""
@@ -8804,6 +8823,10 @@ msgid ""
 "and you gain X life, where X is the number of creatures in your party. (Your "
 "party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)"
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, każdy przeciwnik traci po X żyć, a ty "
+"zyskaj X żyć, gdzie X jest liczbą stworów w twojej ekipie. (Na ekipę składa "
+"się po jednym stworze spośród danego typu: Kleryka, Łotrzyka, Wojownika i "
+"Czarodzieja.)"
 
 #: ../../CLB.rst:2964
 msgid ""
@@ -8816,7 +8839,7 @@ msgstr ""
 msgid ""
 "Whenever Mardu Strike Leader attacks, create a 2/1 black Warrior creature "
 "token."
-msgstr ""
+msgstr "Ilekroć ten stwór zaatakuje, stwórz żeton czarnego stwora Wojownik 2/1."
 
 #: ../../CLB.rst:2963
 msgid ""
@@ -8824,6 +8847,9 @@ msgid ""
 "do, it gains haste, and it's returned from the battlefield to its owner's "
 "hand at the beginning of the next end step.)"
 msgstr ""
+"Brawura |mana_3|\\ |mana_b| (Możesz rzucić ten czar za koszt brawury. Jeśli "
+"tak zrobisz, dostaje on pośpiech i jest przywracany z pola bitwy do ręki "
+"właściciela na początku najbliższego kroku końcowego.)"
 
 #: ../../CLB.rst:2968
 msgid ""
@@ -8846,10 +8872,8 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:2971
-#, fuzzy
-#| msgid "Deathtouch, lifelink"
 msgid "Flying, deathtouch, lifelink"
-msgstr "Dotyk śmierci, więź życia"
+msgstr "Latanie, dotyk śmierci, więź życia"
 
 #: ../../CLB.rst:2973
 msgid ""
@@ -8857,6 +8881,9 @@ msgid ""
 "among cards in your opponents' graveyards. (Cards in graveyards have only "
 "the characteristics of their front face.)"
 msgstr ""
+"Siła tego stwora jest równa 1 plus liczba typów kart spośród kart w "
+"cmentarzach twoich przeciwników. (Karty w cmentarzach mają tylko cechy "
+"swojej przedniej strony.)"
 
 #: ../../CLB.rst:2980
 msgid ""
@@ -8871,12 +8898,17 @@ msgid ""
 "cost, it's an Aura spell with enchant creature. It becomes a creature again "
 "if it's not attached to a creature.)"
 msgstr ""
+"Obdaruj |mana_2|\\ |mana_b|\\ |mana_b| (Jeśli rzucisz tę kartę za koszt "
+"obdarowania, jest ona czarem Aury zauroczenia stwora. Ponownie staje się "
+"stworem, jeśli nie jest dołączona do stwora.)"
 
 #: ../../CLB.rst:2979
 msgid ""
 "Nighthowler and enchanted creature each get +X/+X, where X is the number of "
 "creature cards in all graveyards."
 msgstr ""
+"Ten oraz zauroczony stwór dostają +X/+X każdy, gdzie X jest równe liczbie "
+"kart stworów we wszystkich cmentarzach."
 
 #: ../../CLB.rst:2988
 msgid ""
@@ -8907,12 +8939,10 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:2991
-#, fuzzy
-#| msgid "When Prophetic Prism enters the battlefield, draw a card."
 msgid ""
 "When Phyrexian Rager enters the battlefield, you draw a card and you lose 1 "
 "life."
-msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę i strać 1 życie."
 
 #: ../../CLB.rst:2998
 msgid ""
@@ -8945,12 +8975,16 @@ msgid ""
 "Extort (Whenever you cast a spell, you may pay |mana_wb|. If you do, each "
 "opponent loses 1 life and you gain that much life.)"
 msgstr ""
+"Wymuszenie (Ilekroć rzucisz czar, możesz zapłacić |mana_wb|. Jeśli tak "
+"zrobisz, każdy z przeciwników traci po 1 życiu, a ty zyskaj tyle samo żyć.)"
 
 #: ../../CLB.rst:3003
 msgid ""
 "Other creatures you control have extort. (If a creature has multiple "
 "instances of extort, each triggers separately.)"
 msgstr ""
+"Inne stwory pod twoim władaniem mają wymuszenie. (Jeśli stwór ma wiele "
+"wymuszeń, każde wyzwalane jest osobno.)"
 
 #: ../../CLB.rst:3012
 msgid ""
@@ -8965,18 +8999,17 @@ msgid ""
 "an opponent's graveyard onto the battlefield under your control. It gains "
 "haste. At the beginning of your next end step, exile it."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, umieść wskazaną kartę stwora z "
+"cmentarza przeciwnika na polu bitwy pod twoim władaniem. Zyskuje on "
+"pośpiech. Na początku twojego najbliższego kroku końcowego, wygnaj go."
 
 #: ../../CLB.rst:3011
-#, fuzzy
-#| msgid ""
-#| "Exile target creature you control, then return that card to the "
-#| "battlefield under its owner's control."
 msgid ""
 "Persist (When this creature dies, if it had no -1/-1 counters on it, return "
 "it to the battlefield under its owner's control with a -1/-1 counter on it.)"
 msgstr ""
-"Wygnaj wskazanego stwora pod twoim władaniem, po czym przywróć ową kartę na "
-"pole bitwy po władaniem właściciela."
+"Wytrwałość (Kiedy ten stwór umrze, jeśli nie miał znaczników -1/-1, przywróć "
+"go na pole bitwy ze znacznikiem -1/-1 pod władaniem właściciela.)"
 
 #: ../../CLB.rst:3016
 msgid ""
@@ -8986,16 +9019,12 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3015
-#, fuzzy
-#| msgid ""
-#| "When Meteor Golem enters the battlefield, destroy target nonland "
-#| "permanent an opponent controls."
 msgid ""
 "When Ravenous Chupacabra enters the battlefield, destroy target creature an "
 "opponent controls."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, zniszcz wskazany nie-lądowy byt pod "
-"władaniem przeciwnika."
+"Kiedy ten byt wejdzie na pole bitwy, zniszcz wskazanego stwora pod władaniem "
+"przeciwnika."
 
 #: ../../CLB.rst:3024
 msgid ""
@@ -9005,20 +9034,20 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3019
-#, fuzzy
-#| msgid "As Kindred Discovery enters the battlefield, choose a creature type."
 msgid "As Sewer Nemesis enters the battlefield, choose a player."
-msgstr "Przy wejściu tego bytu na pole bitwy, wybierz typ stwora."
+msgstr "Przy wejściu tego bytu na pole bitwy, wybierz gracza."
 
 #: ../../CLB.rst:3021
 msgid ""
 "Sewer Nemesis's power and toughness are each equal to the number of cards in "
 "the chosen player's graveyard."
 msgstr ""
+"Siła i wytrzymałość tego stwora są obie równe liczbie kart w cmentarzu "
+"wybranego gracza."
 
 #: ../../CLB.rst:3023
 msgid "Whenever the chosen player casts a spell, that player mills a card."
-msgstr ""
+msgstr "Ilekroć wybrany gracz rzuci czar, ów gracz mieli kartę."
 
 #: ../../CLB.rst:3028
 msgid ""
@@ -9032,6 +9061,8 @@ msgid ""
 "Each other player discards a card. You draw a card for each card discarded "
 "this way."
 msgstr ""
+"Każdy inny gracz odrzuca kartę. Dobierz kartę za każdą kartę odrzuconą w ten "
+"sposób."
 
 #: ../../CLB.rst:3034
 msgid ""
@@ -9046,12 +9077,18 @@ msgid ""
 "(Your party consists of up to one each of Cleric, Rogue, Warrior, and "
 "Wizard.)"
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_1| mniej za każdego stwora w twojej "
+"ekipie. (Na ekipę składa się po jednym stworze spośród danego typu: Kleryka, "
+"Łotrzyka, Wojownika i Czarodzieja.)"
 
 #: ../../CLB.rst:3033
 msgid ""
 "Return target creature card and up to one target Cleric, Rogue, Warrior, or "
 "Wizard creature card from your graveyard to the battlefield."
 msgstr ""
+"Przywróć wskazaną kartę stwora i co najwyżej jedną wskazaną kartę stwora "
+"typu Kleryk, Łotrzyk, Wojownik lub Czarodziej z twojego cmentarza na pole "
+"bitwy."
 
 #: ../../CLB.rst:3044
 msgid ""
@@ -9061,26 +9098,28 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3037
-#, fuzzy
-#| msgid "As Kindred Discovery enters the battlefield, choose a creature type."
 msgid ""
 "When Woe Strider enters the battlefield, create a 0/1 white Goat creature "
 "token."
-msgstr "Przy wejściu tego bytu na pole bitwy, wybierz typ stwora."
+msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton białego stwora Koza 0/1."
 
 #: ../../CLB.rst:3039
 msgid "Sacrifice another creature: Scry 1."
-msgstr ""
+msgstr "Poświęć innego stwora: Wróż 1."
 
 #: ../../CLB.rst:3041
 msgid ""
 "Escape—|mana_3|\\ |mana_b|\\ |mana_b|, Exile four other cards from your "
 "graveyard. (You may cast this card from your graveyard for its escape cost.)"
 msgstr ""
+"Ucieczka—|mana_3|\\ |mana_b|\\ |mana_b|, wygnaj cztery inne karty z twojego "
+"cmentarza. (Możesz rzucić tę kartę z twojego cmentarza za jej koszt "
+"ucieczki.)"
 
 #: ../../CLB.rst:3043
 msgid "Woe Strider escapes with two +1/+1 counters on it."
-msgstr ""
+msgstr "Ten stwór ucieka mając dwa znaczniki +1/+1."
 
 #: ../../CLB.rst:3048
 msgid ""
@@ -9090,16 +9129,12 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3047
-#, fuzzy
-#| msgid ""
-#| "Whenever enchanted creature attacks, its controller loses 2 life and you "
-#| "gain 2 life."
 msgid ""
 "Whenever Zulaport Cutthroat or another creature you control dies, each "
 "opponent loses 1 life and you gain 1 life."
 msgstr ""
-"Ilekroć zauroczony stwór zaatakuje, jego władca traci 2 życia, a ty zyskaj 2 "
-"życia."
+"Ilekroć umrze ten lub inny stwór pod twoim władaniem, każdy przeciwnik traci "
+"po 1 życiu, a ty zyskaj 1 życie."
 
 #: ../../CLB.rst:3052
 msgid ""
@@ -9115,6 +9150,10 @@ msgid ""
 "way. (Until your next turn, those creatures attack each combat if able and "
 "attack a player other than you if able.)"
 msgstr ""
+"Na początku twojego kroku końcowego, każdy gracz może umieścić dwa znaczniki "
+"+1/+1 na stworze pod swoim władaniem. Ponaglij każdego stwora otrzymującego "
+"znaczniki w ten sposób. (Do twojej najbliższej tury, ów stwór atakuje w "
+"każdej potyczce jeśli może i atakuje gracza innego niż ty jeśli może.)"
 
 #: ../../CLB.rst:3062
 msgid ""
@@ -9128,22 +9167,28 @@ msgid ""
 "(As this Saga enters and after your draw step, add a lore counter. Sacrifice "
 "after III.)"
 msgstr ""
+"(Przy wejściu tej Sagi oraz po kroku dobierania, dodaj znacznik opowieści. "
+"Poświęć po III.)"
 
 #: ../../CLB.rst:3057
 msgid ""
 "I — Gain control of target creature for as long as The Akroan War remains on "
 "the battlefield."
 msgstr ""
+"I — Zyskaj władanie nad wskazanym stworem na czas pozostawania tego uroku na "
+"polu bitwy."
 
 #: ../../CLB.rst:3059
 msgid ""
 "II — Until your next turn, creatures your opponents control attack each "
 "combat if able."
 msgstr ""
+"II — Do twojej następnej tury stwory pod władaniem twoich przeciwników "
+"atakują w każdej potyczce, jeśli mogą."
 
 #: ../../CLB.rst:3061
 msgid "III — Each tapped creature deals damage to itself equal to its power."
-msgstr ""
+msgstr "III — Każdy przekręcony stwór zadaje sobie obrażenia równe swojej sile."
 
 #: ../../CLB.rst:3070
 msgid ""
@@ -9153,30 +9198,24 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3067 ../../CLB.rst:3289 ../../CLB.rst:3383 ../../CLB.rst:3451
-#, fuzzy
-#| msgid ""
-#| "When Treasure Keeper dies, reveal cards from the top of your library "
-#| "until you reveal a nonland card with mana value 3 or less. You may cast "
-#| "that card without paying its mana cost. Put all revealed cards not cast "
-#| "this way on the bottom of your library in a random order."
 msgid ""
 "Cascade (When you cast this spell, exile cards from the top of your library "
 "until you exile a nonland card that costs less. You may cast it without "
 "paying its mana cost. Put the exiled cards on the bottom of your library in "
 "a random order.)"
 msgstr ""
-"Kiedy ten stwór umrze, ujawnij karty z wierzchu twojej biblioteki aż "
-"ujawnisz nie-lądową kartę o skrócie many 3 lub mniejszym. Możesz rzucić ową "
-"kartę bez płacenia jej kosztu many. Umieść wszystkie ujawnione i nie rzucone "
-"w ten sposób karty losowo na spodzie twojej biblioteki."
+"Kaskada (Kiedy rzucisz ten czar, wyganiaj karty z wierzchu twojej biblioteki "
+"aż wygnasz nie-lądową kartę o niższym koszcie. Możesz rzucić ową kartę bez "
+"płacenia jej kosztu many. Umieść wygnane karty losowo na spodzie twojej "
+"biblioteki.)"
 
 #: ../../CLB.rst:3069
-#, fuzzy
-#| msgid "Whenever you discard a card, exile that card from your graveyard."
 msgid ""
 "Whenever you cast a spell with cascade, return Aurora Phoenix from your "
 "graveyard to your hand."
-msgstr "Ilekroć odrzucisz kartę, wygnaj ją z twojego cmentarza."
+msgstr ""
+"Ilekroć rzucisz czar z kaskadą, przywróć niniejszą kartę z twojego cmentarza "
+"do twojej ręki."
 
 #: ../../CLB.rst:3074
 msgid ""
@@ -9188,6 +9227,7 @@ msgstr ""
 #: ../../CLB.rst:3073
 msgid "All creatures have double strike and attack each combat if able."
 msgstr ""
+"Wszystkie stwory mają podwójny cios i atakują w każdej potyczce jeśli mogą."
 
 #: ../../CLB.rst:3080
 msgid ""
@@ -9197,19 +9237,15 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3077
-#, fuzzy
-#| msgid "This spell costs |mana_1| less to cast for each Gate you control."
 msgid ""
 "This spell costs |mana_1| less to cast for each creature on the battlefield."
 msgstr ""
-"Rzucenie tego czaru kosztuje o |mana_1| mniej za każdą Bramę pod twoim "
-"władaniem."
+"Rzucenie tego czaru kosztuje o |mana_1| mniej za każdego stwora na polu "
+"bitwy."
 
 #: ../../CLB.rst:3079
-#, fuzzy
-#| msgid "Lightning Bolt deals 3 damage to any target."
 msgid "Blasphemous Act deals 13 damage to each creature."
-msgstr "Ten czar zadaje wskazanemu celowi 3 obrażenia."
+msgstr "Ten czar zadaje każdemu stworowi po 13 obrażeń."
 
 #: ../../CLB.rst:3084
 msgid ""
@@ -9223,6 +9259,8 @@ msgid ""
 "Whenever Bonecrusher Giant becomes the target of a spell, Bonecrusher Giant "
 "deals 2 damage to that spell's controller."
 msgstr ""
+"Ilekroć ten stwór zostanie wskazany przez czar, zadaje on władcy owego czaru "
+"2 obrażenia."
 
 #: ../../CLB.rst:3088
 msgid ""
@@ -9232,11 +9270,11 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3087
-#, fuzzy
-#| msgid "Lightning Bolt deals 3 damage to any target."
 msgid ""
 "Damage can't be prevented this turn. Stomp deals 2 damage to any target."
-msgstr "Ten czar zadaje wskazanemu celowi 3 obrażenia."
+msgstr ""
+"Obrażenia nie mogą być zażegnane w tej turze. Ten czar zadaje wskazanemu "
+"celowi 2 obrażenia."
 
 #: ../../CLB.rst:3096
 msgid ""
@@ -9247,20 +9285,20 @@ msgstr ""
 
 #: ../../CLB.rst:3091 ../../CLB.rst:3661
 msgid "Indestructible"
-msgstr ""
+msgstr "Niezniszczalność"
 
 #: ../../CLB.rst:3093
 msgid ""
 "Whenever Brash Taunter is dealt damage, it deals that much damage to target "
 "opponent."
 msgstr ""
+"Ilekroć ten stwór otrzyma obrażenia, zadaje on tyle samo obrażeń wskazanemu "
+"przeciwnikowi."
 
 #: ../../CLB.rst:3095
-#, fuzzy
-#| msgid "|mana_1|, |tap|: Untap another target artifact."
 msgid ""
 "|mana_2|\\ |mana_r|, |tap|: Brash Taunter fights another target creature."
-msgstr "|mana_1|, |tap|: Odkręć inny wskazany artefakt."
+msgstr "|mana_2|\\ |mana_r|, |tap|: Ten stwór walczy z innym wskazanym stworem."
 
 #: ../../CLB.rst:3100
 msgid ""
@@ -9274,6 +9312,8 @@ msgid ""
 "Chain Reaction deals X damage to each creature, where X is the number of "
 "creatures on the battlefield."
 msgstr ""
+"Ten czar zadaje każdemu stworowi po X obrażeń, gdzie X jest liczbą stworów "
+"na polu bitwy."
 
 #: ../../CLB.rst:3108
 msgid ""
@@ -9306,6 +9346,9 @@ msgid ""
 "the top card of their library. If it's a permanent card, they put it onto "
 "the battlefield."
 msgstr ""
+"Właściciel wskazanego bytu wtasowuje go do swojej biblioteki, po czym "
+"ujawnia wierzchnią kartę swojej biblioteki. Jeśli to karta bytu, umieszcza "
+"ją na polu bitwy."
 
 #: ../../CLB.rst:3118
 msgid ""
@@ -9315,18 +9358,14 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3117
-#, fuzzy
-#| msgid ""
-#| "Whenever enchanted creature attacks, you create a Treasure token. (It's "
-#| "an artifact with \"|tap|, Sacrifice this artifact: Add one mana of any "
-#| "color.\")"
 msgid ""
 "Whenever enchanted player is attacked, create a Gold token. Each opponent "
 "attacking that player does the same. (A Gold token is an artifact with "
 "\"Sacrifice this artifact: Add one mana of any color.\")"
 msgstr ""
-"Ilekroć zauroczony stwór zaatakuje, stwórz żeton Skarbu. (To artefakt mający "
-"\"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
+"Ilekroć zauroczony gracz jest zaatakowany, stwórz żeton Złota. Każdy "
+"przeciwnik atakujący owego gracza robi to samo. (Żeton Złota to artefakt "
+"mający \"Poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../CLB.rst:3124
 msgid ""
@@ -9337,7 +9376,7 @@ msgstr ""
 
 #: ../../CLB.rst:3121
 msgid "Demon Bolt deals 4 damage to target creature or planeswalker."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu stworowi lub wędrowcowi 4 obrażenia."
 
 #: ../../CLB.rst:3123
 msgid ""
@@ -9345,6 +9384,8 @@ msgid ""
 "card from your hand face down. Cast it on a later turn for its foretell "
 "cost.)"
 msgstr ""
+"Przepowiednia |mana_r| (W twojej turze możesz zapłacić |mana_2| i wygnać tę "
+"kartę zakrytą. Rzuć ją w późniejszej turze za jej koszt przepowiedni.)"
 
 #: ../../CLB.rst:3130
 msgid ""
@@ -9360,6 +9401,10 @@ msgid ""
 "you may spend mana as though it were mana of any type to cast that spell. If "
 "that spell would be put into a graveyard this turn, exile it instead."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, wygnaj wskazaną kartę sztuczki lub "
+"obrzędu z cmentarza przeciwnika. Możesz rzucić ją w tej turze wydając manę "
+"tak, jakby była maną dowolnego koloru. Jeśli ów czar miałby trafić do "
+"cmentarza w tej turze, zamiast tego wygnaj go."
 
 #: ../../CLB.rst:3134
 msgid ""
@@ -9369,16 +9414,13 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3133
-#, fuzzy
-#| msgid ""
-#| "Enchanted creature gets +1/+1 and is goaded. (It attacks each combat if "
-#| "able and attacks a player other than you if able.)"
 msgid ""
 "Goad all creatures you don't control. (Until your next turn, those creatures "
 "attack each combat if able and attack a player other than you if able.)"
 msgstr ""
-"Zauroczony stwór dostaje +1/+1 i jest ponaglony. (Atakuje w każdej potyczce "
-"jeśli może i atakuje innego gracza niż ty jeśli może.)"
+"Ponaglij wszystkie stwory poza twoim władaniem. (Do twojej następnej tury "
+"owe stwory atakują w każdej potyczce jeśli mogą i atakują gracza innego niż "
+"ty jeśli mogą.)"
 
 #: ../../CLB.rst:3140
 msgid ""
@@ -9393,6 +9435,8 @@ msgid ""
 "Whenever Drakuseth, Maw of Flames attacks, it deals 4 damage to any target "
 "and 3 damage to each of up to two other targets."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, zadaje wskazanemu celowi 4 obrażenia oraz po 3 "
+"obrażenia każdemu z co najwyżej dwóch innych wskazanych celów."
 
 #: ../../CLB.rst:3146
 msgid ""
@@ -9407,6 +9451,9 @@ msgid ""
 "cards from the top of your library. Until end of turn, you may cast spells "
 "from among those exiled cards."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, wygnaj tyle samo kart z "
+"wierzchu twojej biblioteki. Do końca tury możesz rzucać czary spośród owych "
+"wygnanych kart."
 
 #: ../../CLB.rst:3148
 msgid ""
@@ -9429,6 +9476,8 @@ msgid ""
 "Destroy target artifact. (Then exile this card. You may cast the creature "
 "later from exile.)"
 msgstr ""
+"Zniszcz wskazany artefakt. (Następnie wygnaj tę kartę. Możesz później rzucić "
+"z niej stwora z wygnania.)"
 
 #: ../../CLB.rst:3158
 msgid ""
@@ -9443,6 +9492,9 @@ msgid ""
 "library, then you may cast any number of spells from among those cards "
 "without paying their mana costs."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, wygnaj wierzchnią kartę z biblioteki każdego z "
+"graczy, po czym możesz rzucić dowolną liczbę czarów spośród owych kart bez "
+"płacenia ich kosztów many."
 
 #: ../../CLB.rst:3164
 msgid ""
@@ -9457,6 +9509,10 @@ msgid ""
 "each creature target player controls. (Until your next turn, those creatures "
 "attack each combat if able and attack a player other than you if able.)"
 msgstr ""
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, ponaglij "
+"każdego stwora pod władaniem owego gracza. (Do twojej następnej tury, owe "
+"stwory atakują w każdej potyczce jeśli mogą i atakują gracza innego niż ty "
+"jeśli mogą.)"
 
 #: ../../CLB.rst:3170
 msgid ""
@@ -9471,6 +9527,9 @@ msgid ""
 "Goblin creature token with \"Creatures you control attack each combat if "
 "able.\""
 msgstr ""
+"Na początku kroku końcowego każdego przeciwnika, ów gracz tworzy żeton "
+"czerwonego stwora Goblin 1/1 mający \"Stwory pod twoim władaniem atakują w "
+"każdej potyczce jeśli mogą.\""
 
 #: ../../CLB.rst:3176
 msgid ""
@@ -9481,13 +9540,15 @@ msgstr ""
 
 #: ../../CLB.rst:3173
 msgid "Suspend 10—|mana_r|"
-msgstr ""
+msgstr "Zawieszenie 10—|mana_r|"
 
 #: ../../CLB.rst:3175
 msgid ""
 "Sacrifice an artifact, creature, or land: Remove a time counter from Greater "
 "Gargadon. Activate only if Greater Gargadon is suspended."
 msgstr ""
+"Poświęć artefakt, stwora lub ląd: Usuń znacznik czasu z tej karty. Możesz "
+"aktywować tylko jeśli ta karta jest zawieszona."
 
 #: ../../CLB.rst:3182
 msgid ""
@@ -9502,12 +9563,17 @@ msgid ""
 "you may play those cards. If this spell was cast from a graveyard, you may "
 "play cards this way without paying their mana costs."
 msgstr ""
+"Wygnaj trzy wierzchnie karty twojej biblioteki. Do końca twojej następnej "
+"tury możesz zagrać owe karty. Jeśli ten czar został rzucony z cmentarza, "
+"możesz zagrywać karty w ten sposób bez płacenia ich kosztów many."
 
 #: ../../CLB.rst:3181
 msgid ""
 "Flashback |mana_7|\\ |mana_r| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_7|\\ |mana_r| (Możesz rzucić tę kartę z twojego cmentarza "
+"za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../CLB.rst:3190
 msgid ""
@@ -9520,12 +9586,16 @@ msgstr ""
 msgid ""
 "|mana_r|, |tap|: Exile target instant or sorcery card from your graveyard."
 msgstr ""
+"|mana_r|, |tap|: Wygnaj wskazaną kartę sztuczki lub obrzędu z twojego "
+"cmentarza."
 
 #: ../../CLB.rst:3189
 msgid ""
 "|mana_1|\\ |mana_r|, |tap|, Sacrifice Izzet Chemister: Cast any number of "
 "cards exiled with Izzet Chemister without paying their mana costs."
 msgstr ""
+"|mana_1|\\ |mana_r|, |tap|, poświęć ten byt: Rzuć dowolną liczbę kart "
+"wygnanych tym bytem bez płacenia ich kosztów many."
 
 #: ../../CLB.rst:3198
 msgid ""
@@ -9539,6 +9609,8 @@ msgid ""
 "Choose one. If you control a commander as you cast this spell, you may "
 "choose both."
 msgstr ""
+"Wybierz jedną. Jeśli rzucając ten czar masz we władaniu dowódcę, możesz "
+"wybrać obie."
 
 #: ../../CLB.rst:3195
 msgid "Add |mana_r| for each card in target opponent's hand."
@@ -9562,6 +9634,9 @@ msgid ""
 "player, create a 3/3 red Ogre creature token unless that creature's "
 "controller pays |mana_3|."
 msgstr ""
+"Ilekroć zaatakuje stwór pod władaniem przeciwnika, jeśli jesteś broniącym "
+"się graczem, stwórz żeton czerwonego stwora Ogr 3/3 chyba że władca owego "
+"stwora zapłaci |mana_3|."
 
 #: ../../CLB.rst:3210
 msgid ""
@@ -9576,12 +9651,16 @@ msgid ""
 "Whenever Laelia, the Blade Reforged attacks, exile the top card of your "
 "library. You may play that card this turn."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, wygnaj wierzchnią kartę twojej biblioteki. "
+"Możesz zagrać ową kartę w tej turze."
 
 #: ../../CLB.rst:3209
 msgid ""
 "Whenever one or more cards are put into exile from your library and/or your "
 "graveyard, put a +1/+1 counter on Laelia."
 msgstr ""
+"Ilekroć jedna lub więcej kart zostanie wygnanych z twojej biblioteki i/lub "
+"cmentarza, umieść znacznik +1/+1 na tym stworze."
 
 #: ../../CLB.rst:3216
 msgid ""
@@ -9595,12 +9674,16 @@ msgid ""
 "Spectacle |mana_r| (You may cast this spell for its spectacle cost rather "
 "than its mana cost if an opponent lost life this turn.)"
 msgstr ""
+"Widowisko |mana_r| (Możesz rzucić ten czar za koszt widowiska zamiast "
+"normalny koszt many jeśli przeciwnik stracił życie w tej turze.)"
 
 #: ../../CLB.rst:3215
 msgid ""
 "Exile the top two cards of your library. Until the end of your next turn, "
 "you may play those cards."
 msgstr ""
+"Wygnaj dwie wierzchnie karty twojej biblioteki. Do końca twojej następnej "
+"tury możesz zagrać owe karty."
 
 #: ../../CLB.rst:3222
 msgid ""
@@ -9611,7 +9694,7 @@ msgstr ""
 
 #: ../../CLB.rst:3219
 msgid "Mizzium Mortars deals 4 damage to target creature you don't control."
-msgstr ""
+msgstr "Wskazany stwór poza twoim władaniem dostaje od tego czaru 4 obrażenia."
 
 #: ../../CLB.rst:3221
 msgid ""
@@ -9627,28 +9710,24 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3225
-#, fuzzy
-#| msgid "As Kindred Discovery enters the battlefield, choose a creature type."
 msgid "As Outpost Siege enters the battlefield, choose Khans or Dragons."
-msgstr "Przy wejściu tego bytu na pole bitwy, wybierz typ stwora."
+msgstr "Przy wejściu tego bytu na pole bitwy wybierz Chanów lub Smoki."
 
 #: ../../CLB.rst:3227
 msgid ""
 "Khans — At the beginning of your upkeep, exile the top card of your library. "
 "Until end of turn, you may play that card."
 msgstr ""
+"Chanowie — Na początku twojego kroku utrzymania wygnaj wierzchnią kartę "
+"twojej biblioteki. Do końca tury możesz zagrać ową kartę."
 
 #: ../../CLB.rst:3229
-#, fuzzy
-#| msgid ""
-#| "Whenever a creature you control of the chosen type enters the battlefield "
-#| "or attacks, draw a card."
 msgid ""
 "Dragons — Whenever a creature you control leaves the battlefield, Outpost "
 "Siege deals 1 damage to any target."
 msgstr ""
-"Ilekroć stwór wybranego typu pod twoim władaniem wejdzie na pole bitwy lub "
-"zaatakuje, dobierz kartę."
+"Smoki — Ilekroć stwór pod twoim władaniem opuści pole bitwy, ten urok zadaje "
+"wskazanemu celowi 1 obrażenie."
 
 #: ../../CLB.rst:3242
 msgid ""
@@ -9662,12 +9741,16 @@ msgid ""
 "+2: During target player's next turn, each creature that player controls "
 "attacks if able."
 msgstr ""
+"+2: Podczas najbliższej tury wskazanego gracza, każdy stwór pod władaniem "
+"owego gracza atakuje jeśli może."
 
 #: ../../CLB.rst:3235
 msgid ""
 "−2: Rowan Kenrith deals 3 damage to each tapped creature target player "
 "controls."
 msgstr ""
+"–2: Ten wędrowiec zadaje każdemu przekręconemu stworowi pod władaniem "
+"wskazanego gracza po 3 obrażenia."
 
 #: ../../CLB.rst:3237
 msgid ""
@@ -9675,14 +9758,16 @@ msgid ""
 "that isn't a mana ability, copy it. You may choose new targets for the copy."
 "\""
 msgstr ""
+"–8: Wskazany gracz dostaje emblemat mający \"Ilekroć aktywujesz zdolność nie "
+"dającą many, skopiuj ją. Możesz wskazać nowe cele dla kopii.\""
 
 #: ../../CLB.rst:3239
 msgid "Partner with Will Kenrith"
-msgstr ""
+msgstr "Partnerstwo z Will Kenrith"
 
 #: ../../CLB.rst:3241
 msgid "Rowan Kenrith can be your commander."
-msgstr ""
+msgstr "Ten wędrowiec może być twoim dowódcą."
 
 #: ../../CLB.rst:3248
 msgid ""
@@ -9697,6 +9782,7 @@ msgid ""
 "When Ryusei, the Falling Star dies, it deals 5 damage to each creature "
 "without flying."
 msgstr ""
+"Kiedy ten stwór umrze, zadaje on każdemu stworowi bez latania po 5 obrażeń."
 
 #: ../../CLB.rst:3252
 msgid ""
@@ -9712,6 +9798,10 @@ msgid ""
 "cards, and you may spend mana as though it were mana of any color to cast "
 "those spells."
 msgstr ""
+"Na początku twojego kroku utrzymania, wygnaj wierzchnią kartę biblioteki "
+"każdego z przeciwników. Do końca tury, możesz rzucać czary spośród owych "
+"wygnanych kart i do ich rzucenia możesz wydawać manę tak, jakby była maną "
+"dowolnego koloru."
 
 #: ../../CLB.rst:3260
 msgid ""
@@ -9721,29 +9811,24 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3255
-#, fuzzy
-#| msgid ""
-#| "Ward |mana_2| (Whenever this creature becomes the target of a spell or "
-#| "ability an opponent controls, counter it unless that player pays |"
-#| "mana_2|.)"
 msgid ""
 "Whenever Tectonic Giant attacks or becomes the target of a spell an opponent "
 "controls, choose one —"
 msgstr ""
-"Opieka |mana_2| (Ilekroć ten stwór zostanie wskazany przez czar lub zdolność "
-"pod władaniem przeciwnika, skontruj to, chyba że ów gracz zapłaci |mana_2|.)"
+"Ilekroć ten stwór zaatakuje lub zostanie wskazany przez czar pod władaniem "
+"przeciwnika, wybierz jedno —"
 
 #: ../../CLB.rst:3257
-#, fuzzy
-#| msgid "Lightning Bolt deals 3 damage to any target."
 msgid "Tectonic Giant deals 3 damage to each opponent."
-msgstr "Ten czar zadaje wskazanemu celowi 3 obrażenia."
+msgstr "Ten stwór zadaje każdemu przeciwnikowi po 3 obrażenia."
 
 #: ../../CLB.rst:3259
 msgid ""
 "Exile the top two cards of your library. Choose one of them. Until the end "
 "of your next turn, you may play that card."
 msgstr ""
+"Wygnaj dwie wierzchnie karty twojej biblioteki. Wybierz jedną z nich. Możesz "
+"zagrać ową kartę do końca twojej następnej tury."
 
 #: ../../CLB.rst:3266
 msgid ""
@@ -9759,6 +9844,10 @@ msgid ""
 "Hellkite attacks that player this combat if able. If you can't choose an "
 "opponent this way, tap Territorial Hellkite."
 msgstr ""
+"Na początku potyczki w twojej turze, wybierz losowego przeciwnika, którego "
+"ten stwór nie atakował w twojej poprzedniej potyczce. Ten stwór atakuje "
+"owego gracza w tej potyczce jeśli może. Jeśli nie możesz wybrać przeciwnika "
+"w ten sposób, przekręć tego stwora."
 
 #: ../../CLB.rst:3272
 msgid ""
@@ -9768,12 +9857,12 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3271
-#, fuzzy
-#| msgid "As Kindred Discovery enters the battlefield, choose a creature type."
 msgid ""
 "When Thunder Dragon enters the battlefield, it deals 3 damage to each "
 "creature without flying."
-msgstr "Przy wejściu tego bytu na pole bitwy, wybierz typ stwora."
+msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, zadaje on każdemu stworowi nie mającemu "
+"latania po 3 obrażenia."
 
 #: ../../CLB.rst:3278
 msgid ""
@@ -9784,13 +9873,12 @@ msgstr ""
 
 #: ../../CLB.rst:3275
 msgid "Creatures you control have haste."
-msgstr ""
+msgstr "Stwory pod twoim władaniem mają pośpiech."
 
 #: ../../CLB.rst:3277
-#, fuzzy
-#| msgid "Charcoal Diamond enters the battlefield tapped."
 msgid "Creatures your opponents control enter the battlefield tapped."
-msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
+msgstr ""
+"Stwory pod władaniem twoich przeciwników wchodzą przekręcone na pole bitwy."
 
 #: ../../CLB.rst:3286
 msgid ""
@@ -9800,24 +9888,20 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3283
-#, fuzzy
-#| msgid ""
-#| "Enchanted creature gets +1/+1 and is goaded. (It attacks each combat if "
-#| "able and attacks a player other than you if able.)"
 msgid ""
 "Whenever Vengeful Ancestor enters the battlefield or attacks, goad target "
 "creature. (Until your next turn, that creature attacks each combat if able "
 "and attacks a player other than you if able.)"
 msgstr ""
-"Zauroczony stwór dostaje +1/+1 i jest ponaglony. (Atakuje w każdej potyczce "
-"jeśli może i atakuje innego gracza niż ty jeśli może.)"
+"Ilekroć ten byt wejdzie na pole bitwy lub zaatakuje, ponaglij wskazanego "
+"stwora. (Do twojej najbliższej tury, ów stwór atakuje w każdej potyczce "
+"jeśli może i atakuje gracza innego niż ty jeśli może.)"
 
 #: ../../CLB.rst:3285
-#, fuzzy
-#| msgid "Whenever enchanted creature attacks, you scry 2."
 msgid ""
 "Whenever a goaded creature attacks, it deals 1 damage to its controller."
-msgstr "Ilekroć zauroczony stwor zaatakuje, wróż 2."
+msgstr ""
+"Ilekroć zaatakuje ponaglony stwór, zadaje on swojemu władcy 1 obrażenie."
 
 #: ../../CLB.rst:3292
 msgid ""
@@ -9841,13 +9925,11 @@ msgstr ""
 
 #: ../../CLB.rst:3297
 msgid "All creatures attack each combat if able."
-msgstr ""
+msgstr "Wszystkie stwory atakują w każdej potyczce jeśli mogą."
 
 #: ../../CLB.rst:3299
-#, fuzzy
-#| msgid "|mana_2|\\ |mana_u|: Target creature gains flying until end of turn."
 msgid "|mana_1|\\ |mana_r|: Attacking creatures get +1/+0 until end of turn."
-msgstr "|mana_2|\\ |mana_u|: Wskazany stwór zyskuje do końca tury latanie."
+msgstr "|mana_1|\\ |mana_r|: Atakujące stwory dostają do końca tury +1/+0."
 
 #: ../../CLB.rst:3304
 msgid ""
@@ -9857,16 +9939,12 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3303
-#, fuzzy
-#| msgid ""
-#| "Whenever a Gate enters the battlefield under your control, you may put "
-#| "Gate Colossus from your graveyard on top of your library."
 msgid ""
 "Whenever a creature enters the battlefield under your control, it deals "
 "damage equal to its power to any target."
 msgstr ""
-"Ilekroć Brama wejdzie na pole bitwy pod twoim władaniem, możesz umieścić tę "
-"kartę z twojego cmentarza na wierzchu twojej biblioteki."
+"Ilekroć stwór wejdzie na pole bitwy pod twoim władaniem, zadaje on "
+"wskazanemu celowi obrażenia równe swojej sile."
 
 #: ../../CLB.rst:3308
 msgid ""
@@ -9876,12 +9954,6 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3307
-#, fuzzy
-#| msgid ""
-#| "When Treasure Keeper dies, reveal cards from the top of your library "
-#| "until you reveal a nonland card with mana value 3 or less. You may cast "
-#| "that card without paying its mana cost. Put all revealed cards not cast "
-#| "this way on the bottom of your library in a random order."
 msgid ""
 "The first spell you cast from exile each turn has cascade. (When you cast "
 "your first spell from exile, exile cards from the top of your library until "
@@ -9889,10 +9961,11 @@ msgid ""
 "mana cost. Put the exiled cards on the bottom of your library in a random "
 "order.)"
 msgstr ""
-"Kiedy ten stwór umrze, ujawnij karty z wierzchu twojej biblioteki aż "
-"ujawnisz nie-lądową kartę o skrócie many 3 lub mniejszym. Możesz rzucić ową "
-"kartę bez płacenia jej kosztu many. Umieść wszystkie ujawnione i nie rzucone "
-"w ten sposób karty losowo na spodzie twojej biblioteki."
+"Pierwszy czar rzucony przez ciebie z wygnania w danej turze, ma kaskadę. ("
+"Kiedy rzucisz swój pierwszy czar z wygnania, wygnaj karty z wierzchu twojej "
+"biblioteki aż wygnasz nie-lądową kartę o mniejszym skrócie many. Możesz "
+"rzucić ową kartę bez płacenia jej kosztu many. Umieść wygnane karty losowo "
+"na spodzie twojej biblioteki.)"
 
 #: ../../CLB.rst:3314
 msgid ""
@@ -9907,6 +9980,8 @@ msgid ""
 "Whenever an opponent casts an instant or sorcery spell, create a 1/2 green "
 "Spider creature token with reach."
 msgstr ""
+"Ilekroć przeciwnik rzuci czar sztuczki lub obrzędu, stwórz żeton zielonego "
+"stwora Pająk 1/2 z zasięgiem."
 
 #: ../../CLB.rst:3322
 msgid ""
@@ -9916,17 +9991,12 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3319
-#, fuzzy
-#| msgid ""
-#| "Ward |mana_2| (Whenever this creature becomes the target of a spell or "
-#| "ability an opponent controls, counter it unless that player pays |"
-#| "mana_2|.)"
 msgid ""
 "Whenever a permanent you control becomes the target of a spell or ability an "
 "opponent controls, you may draw a card."
 msgstr ""
-"Opieka |mana_2| (Ilekroć ten stwór zostanie wskazany przez czar lub zdolność "
-"pod władaniem przeciwnika, skontruj to, chyba że ów gracz zapłaci |mana_2|.)"
+"Ilekroć byt pod twoim władaniem zostanie wskazany przez czar lub zdolność "
+"pod władaniem przeciwnika, możesz dobrać kartę."
 
 #: ../../CLB.rst:3321
 msgid ""
@@ -9934,6 +10004,9 @@ msgid ""
 "mana_2| and exile this card from your hand face down. Cast it on a later "
 "turn for its foretell cost.)"
 msgstr ""
+"Przepowiednia |mana_2|\\ |mana_g|\\ |mana_g| (W twojej turze możesz zapłacić "
+"|mana_2| i wygnać tę kartę zakrytą. Rzuć ją w późniejszej turze za jej koszt "
+"przepowiedni.)"
 
 #: ../../CLB.rst:3326
 msgid ""
@@ -9948,6 +10021,8 @@ msgid ""
 "Beanstalk Giant's power and toughness are each equal to the number of lands "
 "you control."
 msgstr ""
+"Siła i wytrzymałość tej karty są obie równe liczbie lądów pod twoim "
+"władaniem."
 
 #: ../../CLB.rst:3330
 msgid ""
@@ -9958,16 +10033,13 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3329
-#, fuzzy
-#| msgid ""
-#| "Search your library for a Forest card, put that card onto the "
-#| "battlefield, then shuffle."
 msgid ""
 "Search your library for a basic land card, put it onto the battlefield, then "
 "shuffle. (Then exile this card. You may cast the creature later from exile.)"
 msgstr ""
-"Wyszukaj w twojej bibliotece kartę Lasu, umieść ją na polu bitwy, po czym "
-"przetasuj."
+"Wyszukaj w twojej bibliotece kartę bazowego lądu, umieść ją na polu bitwy, "
+"po czym przetasuj. (Następnie wygnaj tę kartę. Możesz później rzucić z niej "
+"stwora z wygnania.)"
 
 #: ../../CLB.rst:3334
 msgid ""
@@ -9981,6 +10053,7 @@ msgid ""
 "Destroy target permanent. Its controller creates a 3/3 green Beast creature "
 "token."
 msgstr ""
+"Zniszcz wskazany byt. Jego władca tworzy żeton zielonego stwora Bestia 3/3."
 
 #: ../../CLB.rst:3338
 msgid ""
@@ -9990,16 +10063,12 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3337 ../../CLB.rst:3365
-#, fuzzy
-#| msgid ""
-#| "Search your library for up to two basic land cards and/or Gate cards, put "
-#| "them onto the battlefield tapped, then shuffle."
 msgid ""
 "Search your library for up to two basic land cards, reveal those cards, put "
 "one onto the battlefield tapped and the other into your hand, then shuffle."
 msgstr ""
-"Wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów i/lub "
-"Bram, umieść je przekręcone na polu bitwy, po czym przetasuj."
+"Wyszukaj w twojej bibliotece dwie karty bazowych lądów, ujawnij je i umieść "
+"jedną przekręconą na polu bitwy, a drugą w twojej ręce, po czym przetasuj."
 
 #: ../../CLB.rst:3344
 msgid ""
@@ -10010,13 +10079,15 @@ msgstr ""
 
 #: ../../CLB.rst:3341
 msgid "Vigilance, trample, haste"
-msgstr ""
+msgstr "Czujność, tratowanie, pośpiech"
 
 #: ../../CLB.rst:3343
 msgid ""
 "When End-Raze Forerunners enters the battlefield, other creatures you "
 "control get +2/+2 and gain vigilance and trample until end of turn."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, inne stwory pod twoim władaniem dostają "
+"do końca tury +2/+2 oraz czujność i tratowanie."
 
 #: ../../CLB.rst:3350
 msgid ""
@@ -10027,7 +10098,7 @@ msgstr ""
 
 #: ../../CLB.rst:3347 ../../CLB.rst:3475
 msgid "You may play an additional land this turn."
-msgstr ""
+msgstr "Możesz zagrać dodatkowy ląd w tej turze."
 
 #: ../../CLB.rst:3354
 msgid ""
@@ -10063,6 +10134,8 @@ msgid ""
 "When Hornet Queen enters the battlefield, create four 1/1 green Insect "
 "creature tokens with flying and deathtouch."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, stwórz cztery żetony stwora Owad 1/1 z "
+"lataniem i dotykiem śmierci."
 
 #: ../../CLB.rst:3366
 msgid ""
@@ -10081,7 +10154,7 @@ msgstr ""
 
 #: ../../CLB.rst:3369
 msgid "Lovestruck Beast can't attack unless you control a 1/1 creature."
-msgstr ""
+msgstr "Ten stwór nie może atakować, chyba że władasz stworem 1/1."
 
 #: ../../CLB.rst:3374
 msgid ""
@@ -10096,6 +10169,8 @@ msgid ""
 "Create a 1/1 white Human creature token. (Then exile this card. You may cast "
 "the creature later from exile.)"
 msgstr ""
+"Stwórz żeton białego stwora Człowiek 1/1. (Następnie wygnaj tę kartę. Możesz "
+"później rzucić z niej stwora z wygnania.)"
 
 #: ../../CLB.rst:3380
 msgid ""
@@ -10107,7 +10182,7 @@ msgstr ""
 #: ../../CLB.rst:3379
 msgid ""
 "Whenever a player casts a spell, put a +1/+1 counter on Managorger Hydra."
-msgstr ""
+msgstr "Ilekroć gracz rzuci czar, umieść znacznik +1/+1 na tym stworze."
 
 #: ../../CLB.rst:3386
 msgid ""
@@ -10117,10 +10192,8 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3385
-#, fuzzy
-#| msgid "Destroy target creature."
 msgid "Destroy target artifact or enchantment."
-msgstr "Zniszcz wskazanego stwora."
+msgstr "Zniszcz wskazany artefakt lub urok."
 
 #: ../../CLB.rst:3394
 msgid ""
@@ -10132,24 +10205,20 @@ msgstr ""
 #: ../../CLB.rst:3389
 msgid ""
 "Whenever you cast a creature spell, create a 3/3 green Beast creature token."
-msgstr ""
+msgstr "Ilekroć rzucisz czar stwora, stwórz żeton zielonego stwora Bestia 3/3."
 
 #: ../../CLB.rst:3391
 msgid ""
 "Whenever you cast a noncreature spell, put three +1/+1 counters on target "
 "creature you control."
 msgstr ""
+"Ilekroć rzucisz nie-stworowy czar, umieść trzy znaczniki +1/+1 na wskazanym "
+"stworze pod twoim władaniem."
 
 #: ../../CLB.rst:3393
-#, fuzzy
-#| msgid ""
-#| "Whenever a Gate enters the battlefield under your control, you may put "
-#| "Gate Colossus from your graveyard on top of your library."
 msgid ""
 "Whenever a land enters the battlefield under your control, you gain 3 life."
-msgstr ""
-"Ilekroć Brama wejdzie na pole bitwy pod twoim władaniem, możesz umieścić tę "
-"kartę z twojego cmentarza na wierzchu twojej biblioteki."
+msgstr "Ilekroć na pole bitwy wejdzie ląd pod twoim władaniem, zyskaj 3 życia."
 
 #: ../../CLB.rst:3402
 msgid ""
@@ -10163,13 +10232,13 @@ msgstr ""
 msgid ""
 "Draw cards equal to the greatest power among non-Human creatures you control."
 msgstr ""
+"Dobierz tyle kart, ile wynosi największa siła pośród stworów bez typu "
+"Człowiek pod twoim władaniem."
 
 #: ../../CLB.rst:3401
-#, fuzzy
-#| msgid "Start a Brawl — Creatures you control get +2/+2 until end of turn."
 msgid "Non-Human creatures you control get +3/+3 until end of turn."
 msgstr ""
-"Wywołaj bójkę — Stwory pod twoim władaniem dostają do końca tury +2/+2."
+"Stwory bez typu Człowiek pod twoim władaniem dostają do końca tury +3/+3."
 
 #: ../../CLB.rst:3406
 msgid ""
@@ -10179,16 +10248,12 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3405
-#, fuzzy
-#| msgid ""
-#| "|mana_2|, |tap|, Sacrifice Wayfarer's Bauble: Search your library for a "
-#| "basic land card, put that card onto the battlefield tapped, then shuffle."
 msgid ""
 "Sacrifice Sakura-Tribe Elder: Search your library for a basic land card, put "
 "that card onto the battlefield tapped, then shuffle."
 msgstr ""
-"|mana_2|, |tap|, poświęć ten artefakt: Wyszukaj w twojej bibliotece kartę "
-"bazowego lądu, umieść ją przekręconą na polu bitwy, po czym przetasuj."
+"Poświęć tego stwora: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
+"umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../CLB.rst:3412
 msgid ""
@@ -10200,13 +10265,13 @@ msgstr ""
 #: ../../CLB.rst:3409
 msgid "Creatures with flying can't attack you or planeswalkers you control."
 msgstr ""
+"Stwory z lataniem nie mogą atakować ciebie ani wędrowców pod twoim władaniem."
 
 #: ../../CLB.rst:3411
-#, fuzzy
-#| msgid "At the beginning of your end step, choose one —"
 msgid ""
 "At the beginning of your end step, create a 5/5 green Wurm creature token."
-msgstr "Na początku twojego kroku końcowego, wybierz jedną —"
+msgstr ""
+"Na początku twojego kroku końcowego, stwórz żeton zielonego stwora Żmij 5/5."
 
 #: ../../CLB.rst:3418
 msgid ""
@@ -10216,16 +10281,12 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3415 ../../CLB.rst:3431
-#, fuzzy
-#| msgid ""
-#| "Search your library for a Forest card, put that card onto the "
-#| "battlefield, then shuffle."
 msgid ""
 "Search your library for a basic land card, put it onto the battlefield, then "
 "shuffle."
 msgstr ""
-"Wyszukaj w twojej bibliotece kartę Lasu, umieść ją na polu bitwy, po czym "
-"przetasuj."
+"Wyszukaj w twojej bibliotece kartę bazowego lądu, umieść ją na polu bitwy, "
+"po czym przetasuj."
 
 #: ../../CLB.rst:3417
 msgid ""
@@ -10234,6 +10295,10 @@ msgid ""
 "upkeep, remove a time counter. When the last is removed, cast it without "
 "paying its mana cost.)"
 msgstr ""
+"Zawieszenie 2—|mana_g| (Zamiast rzucać tę kartę z twojej ręki, zapłać "
+"|mana_g| i wygnaj ją z dwoma znacznikami czasu. Na początku twojego kroku "
+"utrzymania, usuń znacznik czasu. Kiedy ostatni znacznik czasu zostanie "
+"usunięty, rzuć ją bez płacenia kosztu many.)"
 
 #: ../../CLB.rst:3428
 msgid ""
@@ -10244,7 +10309,7 @@ msgstr ""
 
 #: ../../CLB.rst:3423
 msgid "Cascade"
-msgstr ""
+msgstr "Kaskada"
 
 #: ../../CLB.rst:3427
 msgid ""
@@ -10266,6 +10331,9 @@ msgid ""
 "the beginning of your next upkeep, you may cast this card from exile without "
 "paying its mana cost.)"
 msgstr ""
+"Rykoszet (Jeśli rzucisz ten czar z twojej ręki, wygnaj go podczas "
+"rozpatrzenia. Na początku twojego najbliższego kroku utrzymania możesz "
+"rzucić tę kartę z wygnania bez płacenia jej kosztu many.)"
 
 #: ../../CLB.rst:3438
 msgid ""
@@ -10296,13 +10364,15 @@ msgstr ""
 
 #: ../../CLB.rst:3441
 msgid "You may cast creature spells as though they had flash."
-msgstr ""
+msgstr "Możesz rzucać czary stworów tak, jakby miały błysk."
 
 #: ../../CLB.rst:3443
 msgid ""
 "+1: Until your next turn, up to one target creature gains vigilance and "
 "reach."
 msgstr ""
+"+1: Do twojej następnej tury, co najwyżej jeden wskazany stwór zyskuje "
+"czujność i zasięg."
 
 #: ../../CLB.rst:3445
 msgid ""
@@ -10311,6 +10381,10 @@ msgid ""
 "remains exiled, you may look at that card and you may cast it if it's a "
 "creature spell."
 msgstr ""
+"–2: Spójrz na trzy wierzchnie karty twojej biblioteki. Wygnaj jedną zakrytą "
+"i umieść pozostałe w dowolnej kolejności na spodzie twojej biblioteki. Przez "
+"czas jej wygnania możesz patrzeć na ową kartę i możesz ją rzucić jeśli to "
+"czar stwora."
 
 #: ../../CLB.rst:3452
 msgid ""
@@ -10331,6 +10405,8 @@ msgid ""
 "Consuming Aberration's power and toughness are each equal to the number of "
 "cards in your opponents' graveyards."
 msgstr ""
+"Siła oraz wytrzymałość tej karty są obie równe liczbie kart w cmentarzach "
+"twoich przeciwników."
 
 #: ../../CLB.rst:3457
 msgid ""
@@ -10338,6 +10414,9 @@ msgid ""
 "library until they reveal a land card, then puts those cards into their "
 "graveyard."
 msgstr ""
+"Ilekroć rzucisz czar, każdy przeciwnik ujawnia karty z wierzchu swojej "
+"biblioteki, aż ujawni kartę lądu, po czym umieszcza owe karty w swoim "
+"cmentarzu."
 
 #: ../../CLB.rst:3462
 msgid ""
@@ -10347,10 +10426,8 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3461
-#, fuzzy
-#| msgid "Destroy target creature with power 4 or greater."
 msgid "Exile target permanent with mana value 4 or greater."
-msgstr "Zniszcz wskazanego stwora o sile 4 lub większej."
+msgstr "Wygnaj wskazany byt o skrócie many 4 lub większym."
 
 #: ../../CLB.rst:3470
 msgid ""
@@ -10364,12 +10441,16 @@ msgid ""
 "Counter target spell with mana value less than or equal to the number of "
 "cards in its controller's graveyard."
 msgstr ""
+"Skontruj wskazany czar o skrócie many mniejszym lub równym liczbie kart w "
+"cmentarzu jego władcy."
 
 #: ../../CLB.rst:3469
 msgid ""
 "Destroy target creature with mana value less than or equal to the number of "
 "cards in its controller's graveyard."
 msgstr ""
+"Zniszcz wskazanego stwora o skrócie many mniejszym lub równym liczbie kart w "
+"cmentarzu jego władcy."
 
 #: ../../CLB.rst:3476
 msgid ""
@@ -10383,6 +10464,8 @@ msgid ""
 "Exile the top five cards of your library. You may play cards exiled this way "
 "until the end of your next turn."
 msgstr ""
+"Wygnaj pięć wierzchnich kart twojej biblioteki. Możesz zagrać karty wygnane "
+"w ten sposób do końca twojej następnej tury."
 
 #: ../../CLB.rst:3480
 msgid ""
@@ -10392,16 +10475,12 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3479
-#, fuzzy
-#| msgid ""
-#| "Exile target creature you control, then return that card to the "
-#| "battlefield under its owner's control."
 msgid ""
 "Each player mills two cards. Then you put a creature card from a graveyard "
 "onto the battlefield under your control."
 msgstr ""
-"Wygnaj wskazanego stwora pod twoim władaniem, po czym przywróć ową kartę na "
-"pole bitwy po władaniem właściciela."
+"Każdy gracz mieli dwie karty. Następnie umieść kartę stwora z dowolnego "
+"cmentarza na polu bitwy pod twoim władaniem."
 
 #: ../../CLB.rst:3488
 msgid ""
@@ -10416,6 +10495,8 @@ msgid ""
 "Mentor (Whenever this creature attacks, put a +1/+1 counter on target "
 "attacking creature with lesser power.)"
 msgstr ""
+"Mentor (Ilekroć ten stwór zaatakuje, umieść znacznik +1/+1 na wskazanym "
+"atakującym stworze o mniejszej sile.)"
 
 #: ../../CLB.rst:3487
 msgid ""
@@ -10423,6 +10504,9 @@ msgid ""
 "create X tapped 2/1 white and black Inkling creature tokens with flying, "
 "where X is the number of counters it had on it."
 msgstr ""
+"Ilekroć umrze nieżetonowy stwór pod twoim władaniem, jeśli miał znaczniki, "
+"stwórz X przekręconych żetonów biało-czarnego stwora Kleks 2/1 z lataniem, "
+"gdzie X jest liczbą znaczników, jakie miał ów stwór."
 
 #: ../../CLB.rst:3498
 msgid ""
@@ -10436,19 +10520,19 @@ msgid ""
 "I — Create a 4/4 white Angel Warrior creature token with flying and "
 "vigilance."
 msgstr ""
+"I — Stwórz żeton białego stwora Anioł Wojownik 4/4 z lataniem i czujnością."
 
 #: ../../CLB.rst:3495
 msgid ""
 "II — Until end of turn, Angels you control gain \"|tap|: Destroy target "
 "creature with power less than this creature's power.\""
 msgstr ""
+"II — Do końca tury Anioły pod twoim władaniem zyskują \"|tap|: Zniszcz "
+"wskazanego stwora o sile mniejszej niż siła niniejszego stwora.\""
 
 #: ../../CLB.rst:3497
-#, fuzzy
-#| msgid "Start a Brawl — Creatures you control get +2/+2 until end of turn."
 msgid "III — Angels you control gain double strike until end of turn."
-msgstr ""
-"Wywołaj bójkę — Stwory pod twoim władaniem dostają do końca tury +2/+2."
+msgstr "III — Anioły pod twoim władaniem zyskują do końca tury podwójny cios."
 
 #: ../../CLB.rst:3502
 msgid ""
@@ -10462,6 +10546,8 @@ msgid ""
 "Each other non-Human creature you control enters the battlefield with an "
 "additional +1/+1 counter on it."
 msgstr ""
+"Każdy inny stwór bez typu Człowiek pod twoim władaniem wchodzi na pole bitwy "
+"mając dodatkowy znacznik +1/+1."
 
 #: ../../CLB.rst:3506
 msgid ""
@@ -10475,6 +10561,8 @@ msgid ""
 "Whenever High Priest of Penance is dealt damage, you may destroy target "
 "nonland permanent."
 msgstr ""
+"Ilekroć ten stwór otrzyma obrażenia, możesz zniszczyć wskazany nie-lądowy "
+"byt."
 
 #: ../../CLB.rst:3510
 msgid ""
@@ -10488,6 +10576,8 @@ msgid ""
 "You may cast target instant or sorcery card from an opponent's graveyard "
 "without paying its mana cost."
 msgstr ""
+"Możesz rzucić wskazaną kartę sztuczki lub obrzędu z cmentarza przeciwnika "
+"bez płacenia jej kosztu many."
 
 #: ../../CLB.rst:3514
 msgid ""
@@ -10498,7 +10588,7 @@ msgstr ""
 
 #: ../../CLB.rst:3513
 msgid "Whenever Nemesis of Reason attacks, defending player mills ten cards."
-msgstr ""
+msgstr "Ilekroć ten stwór zaatakuje, broniący się gracz mieli dziesięć kart."
 
 #: ../../CLB.rst:3524
 msgid ""
@@ -10511,10 +10601,11 @@ msgstr ""
 msgid ""
 "Whenever you draw a card, Niv-Mizzet, Parun deals 1 damage to any target."
 msgstr ""
+"Ilekroć dobierzesz kartę, ten stwór zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../CLB.rst:3523
 msgid "Whenever a player casts an instant or sorcery spell, you draw a card."
-msgstr ""
+msgstr "Ilekroć jakiś gracz rzuci czar sztuczki lub obrzędu, dobierz kartę."
 
 #: ../../CLB.rst:3530
 msgid ""
@@ -10527,6 +10618,7 @@ msgstr ""
 msgid ""
 "Whenever you cast a noncreature spell, put a +1/+1 counter on Sprite Dragon."
 msgstr ""
+"Ilekroć rzucisz nie-stworowy czar, umieść znacznik +1/+1 na tym stworze."
 
 #: ../../CLB.rst:3538
 msgid ""
@@ -10540,24 +10632,20 @@ msgid ""
 "+1: Add X mana in any combination of |mana_r| and/or |mana_g|, where X is "
 "the number of creatures you control."
 msgstr ""
+"+1: Weź X many w dowolnej kombinacji |mana_r| i |mana_g|, gdzie X jest "
+"liczbą stworów pod twoim władaniem."
 
 #: ../../CLB.rst:3535
 msgid "0: Create a 2/2 red and green Satyr creature token with haste."
-msgstr ""
+msgstr "0: Stwórz żeton czerwono-zielonego stwora Satyr 2/2 z pośpiechem."
 
 #: ../../CLB.rst:3537
-#, fuzzy
-#| msgid ""
-#| "Form a Party — Look at the top five cards of your library. You may reveal "
-#| "any number of creature cards from among them and put them into your hand. "
-#| "Put the rest on the bottom of your library in a random order."
 msgid ""
 "−6: Exile the top seven cards of your library. You may put any number of "
 "creature and/or land cards from among them onto the battlefield."
 msgstr ""
-"Załóż drużynę — Spójrz na pięć wierzchnich kart twojej biblioteki. Możesz "
-"ujawnić spośród nich dowolną liczbę kart stworów i umieścić je w twojej "
-"ręce. Umieść pozostałe losowo na spodzie twojej biblioteki."
+"–6: Wygnaj siedem wierzchnich kart twojej biblioteki. Możesz umieścić na "
+"polu bitwy dowolną liczbę kart stworów i lądów spośród nich."
 
 #: ../../CLB.rst:3544
 msgid ""
@@ -10567,28 +10655,20 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3541
-#, fuzzy
-#| msgid ""
-#| "Enchanted creature gets +2/+2 and is goaded. (It attacks each combat if "
-#| "able and attacks a player other than you if able.)"
 msgid ""
 "Equipped creature gets +2/+0 and is goaded. (It attacks each combat if able "
 "and attacks a player other than you if able.)"
 msgstr ""
-"Zauroczony stwór dostaje +2/+2 i jest ponaglony. (Atakuje w każdej potyczce "
-"jeśli może i atakuje gracza innego niż ty jeśli może.)"
+"Wyposażony stwór dostaje +2/+0 i jest ponaglony. (Atakuje w każdej potyczce "
+"jeśli może i atakuje innego gracza niż ty jeśli może.)"
 
 #: ../../CLB.rst:3543
-#, fuzzy
-#| msgid ""
-#| "Equip |mana_1| (|mana_1|: Attach to target creature you control. Equip "
-#| "only as a sorcery.)"
 msgid ""
 "|mana_1|: Attach Bloodthirsty Blade to target creature an opponent controls. "
 "Activate only as a sorcery."
 msgstr ""
-"Wyposaż |mana_1| (|mana_1|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Aktywuj tylko jako obrzęd.)"
+"|mana_1|: Dołącz ten byt do wskazanego stwora pod władaniem przeciwnika. "
+"Aktywuj tylko jako obrzęd."
 
 #: ../../CLB.rst:3548
 msgid ""
@@ -10598,22 +10678,16 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3547
-#, fuzzy
-#| msgid ""
-#| "When Treasure Keeper dies, reveal cards from the top of your library "
-#| "until you reveal a nonland card with mana value 3 or less. You may cast "
-#| "that card without paying its mana cost. Put all revealed cards not cast "
-#| "this way on the bottom of your library in a random order."
 msgid ""
 "|mana_4|, |tap|: Target opponent exiles cards from the top of their library "
 "until they exile an instant or sorcery card. You may cast that card without "
 "paying its mana cost. Then put the exiled cards that weren't cast this way "
 "on the bottom of that library in a random order."
 msgstr ""
-"Kiedy ten stwór umrze, ujawnij karty z wierzchu twojej biblioteki aż "
-"ujawnisz nie-lądową kartę o skrócie many 3 lub mniejszym. Możesz rzucić ową "
-"kartę bez płacenia jej kosztu many. Umieść wszystkie ujawnione i nie rzucone "
-"w ten sposób karty losowo na spodzie twojej biblioteki."
+"|mana_4|, |tap|: Wskazany przeciwnik wygania karty z wierzchu swojej "
+"biblioteki, aż wygna kartę sztuczki lub obrzędu. Możesz rzucić ową kartę bez "
+"płacenia jej kosztu many. Następnie umieść pozostałe wygnane w ten sposób "
+"karty losowo na spodzie owej biblioteki."
 
 #: ../../CLB.rst:3554
 msgid ""
@@ -10627,6 +10701,8 @@ msgid ""
 "|mana_u|\\ |mana_b|: Dimir Keyrune becomes a 2/2 blue and black Horror "
 "artifact creature until end of turn and can't be blocked this turn."
 msgstr ""
+"|mana_u|\\ |mana_b|: Do końca tury ten artefakt staje się niebiesko-czarnym "
+"artefaktowym stworem Horror 2/2 i nie może być blokowany w tej turze."
 
 #: ../../CLB.rst:3558
 msgid ""
@@ -10636,10 +10712,8 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3557 ../../CLB.rst:3759
-#, fuzzy
-#| msgid "|tap|: Add |mana_u| or |mana_b|."
 msgid "|mana_1|, |tap|: Add |mana_u|\\ |mana_b|."
-msgstr "|tap|: Weź |mana_u| lub |mana_b|."
+msgstr "|mana_1|, |tap|: Weź |mana_u|\\ |mana_b|."
 
 #: ../../CLB.rst:3566
 msgid ""
@@ -10649,20 +10723,16 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3561
-#, fuzzy
-#| msgid ""
-#| "Whenever a Gate enters the battlefield under your control, you may put "
-#| "Gate Colossus from your graveyard on top of your library."
 msgid ""
 "Whenever a Dragon enters the battlefield under your control, put a gold "
 "counter on Dragon's Hoard."
 msgstr ""
-"Ilekroć Brama wejdzie na pole bitwy pod twoim władaniem, możesz umieścić tę "
-"kartę z twojego cmentarza na wierzchu twojej biblioteki."
+"Ilekroć Smok wejdzie na pole bitwy pod twoim władaniem, umieść znacznik "
+"złota na tym artefakcie."
 
 #: ../../CLB.rst:3563
 msgid "|tap|, Remove a gold counter from Dragon's Hoard: Draw a card."
-msgstr ""
+msgstr "|tap|, usuń znacznik złota z tego artefaktu: Dobierz kartę."
 
 #: ../../CLB.rst:3574
 msgid ""
@@ -10676,16 +10746,20 @@ msgid ""
 "Multikicker |mana_2| (You may pay an additional |mana_2| any number of times "
 "as you cast this spell.)"
 msgstr ""
+"Wielopodbicie |mana_2| (Rzucając ten czar możesz zapłacić dodatkowo |mana_2| "
+"dowolną liczbę razy.)"
 
 #: ../../CLB.rst:3571
 msgid ""
 "Everflowing Chalice enters the battlefield with a charge counter on it for "
 "each time it was kicked."
 msgstr ""
+"Ten artefakt wchodzi na pole bitwy mając tyle znaczników ładunku, ile razy "
+"został podbity."
 
 #: ../../CLB.rst:3573
 msgid "|tap|: Add |colorless| for each charge counter on Everflowing Chalice."
-msgstr ""
+msgstr "|tap|: Weź |colorless| za każdy znacznik ładunku na tym artefakcie."
 
 #: ../../CLB.rst:3578
 msgid ""
@@ -10695,15 +10769,12 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3577 ../../CLB.rst:3783
-#, fuzzy
-#| msgid ""
-#| "|tap|: Add one mana of any color that a Gate you control could produce."
 msgid ""
 "|tap|: Add one mana of any color that a land an opponent controls could "
 "produce."
 msgstr ""
-"|tap|: Weź jedną manę dowolnego koloru, jaki mogłaby dać Brama pod twoim "
-"władaniem."
+"|tap|: Weź jedną manę w jednym z kolorów możliwych do wydania przez ląd pod "
+"władaniem przeciwnika."
 
 #: ../../CLB.rst:3584
 msgid ""
@@ -10713,10 +10784,8 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3583
-#, fuzzy
-#| msgid "|mana_1|, |tap|, Sacrifice Mind Stone: Draw a card."
 msgid "|mana_2|, |tap|, Sacrifice Hedron Archive: Draw two cards."
-msgstr "|mana_1|, |tap|, poświęć ten artefakt: Dobierz kartę."
+msgstr "|mana_2|, |tap|, poświęć ten artefakt: Dobierz dwie karty."
 
 #: ../../CLB.rst:3592
 msgid ""
@@ -10726,16 +10795,12 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3587
-#, fuzzy
-#| msgid "As Kindred Discovery enters the battlefield, choose a creature type."
 msgid "As Herald's Horn enters the battlefield, choose a creature type."
-msgstr "Przy wejściu tego bytu na pole bitwy, wybierz typ stwora."
+msgstr "Przy wejściu tego bytu na pole bitwy wybierz typ stwora."
 
 #: ../../CLB.rst:3589
-#, fuzzy
-#| msgid "Instant and sorcery spells you cast cost |mana_1| less to cast."
 msgid "Creature spells you cast of the chosen type cost |mana_1| less to cast."
-msgstr "Rzucanie czarów sztuczek i obrzędów kosztuje cię o |mana_1| mniej."
+msgstr "Rzucanie czarów stworów wybranego typu kosztuje cię o |mana_1| mniej."
 
 #: ../../CLB.rst:3591
 msgid ""
@@ -10743,6 +10808,9 @@ msgid ""
 "it's a creature card of the chosen type, you may reveal it and put it into "
 "your hand."
 msgstr ""
+"Na początku twojego kroku utrzymania, spójrz na wierzchnią kartę twojej "
+"biblioteki. Jeśli jest to karta stwora wybranego typu, możesz ujawnić ją i "
+"umieścić w twojej ręce."
 
 #: ../../CLB.rst:3596
 msgid ""
@@ -10752,10 +10820,8 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3595
-#, fuzzy
-#| msgid "|tap|: Add |mana_b| or |mana_r|."
 msgid "|mana_1|, |tap|: Add |mana_u|\\ |mana_r|."
-msgstr "|tap|: Weź |mana_b| lub |mana_r|."
+msgstr "|mana_1|, |tap|: Weź |mana_u|\\ |mana_r|."
 
 #: ../../CLB.rst:3602
 msgid ""
@@ -10769,12 +10835,12 @@ msgid ""
 "Equipped creature has haste and shroud. (It can't be the target of spells or "
 "abilities.)"
 msgstr ""
+"Wyposażony stwór ma pośpiech i antymagię. (Nie może być wskazywany przez "
+"czary lub zdolności.)"
 
 #: ../../CLB.rst:3601
-#, fuzzy
-#| msgid "Equip |mana_3|"
 msgid "Equip |mana_0|"
-msgstr "Wyposaż |mana_3|"
+msgstr "Wyposaż |mana_0|"
 
 #: ../../CLB.rst:3608
 msgid ""
@@ -10788,12 +10854,16 @@ msgid ""
 "Creatures you control are every creature type. The same is true for creature "
 "spells you control and creature cards you own that aren't on the battlefield."
 msgstr ""
+"Stwory pod twoim władaniem mają każdy typ stwora. To samo tyczy się czarów "
+"stworów pod twoim władaniem oraz twoich kart stworów poza polem bitwy."
 
 #: ../../CLB.rst:3607
 msgid ""
 "|mana_3|, |tap|: Create a 2/2 blue Shapeshifter creature token with "
 "changeling. (It is every creature type.)"
 msgstr ""
+"|mana_3|, |tap|: Stwórz żeton niebieskiego stwora Przemieniec 2/2 ze "
+"zmiennokształtnością. (Ma każdy typ stwora.)"
 
 #: ../../CLB.rst:3612
 msgid ""
@@ -10816,10 +10886,8 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3615
-#, fuzzy
-#| msgid "|tap|: Add |mana_u| or |mana_b|."
 msgid "|mana_1|, |tap|: Add |mana_w|\\ |mana_b|."
-msgstr "|tap|: Weź |mana_u| lub |mana_b|."
+msgstr "|mana_1|, |tap|: Weź |mana_w|\\ |mana_b|."
 
 #: ../../CLB.rst:3622
 msgid ""
@@ -10829,15 +10897,13 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3619
-#, fuzzy
-#| msgid "As Kindred Discovery enters the battlefield, choose a creature type."
 msgid ""
 "As Phyrexian Revoker enters the battlefield, choose a nonland card name."
-msgstr "Przy wejściu tego bytu na pole bitwy, wybierz typ stwora."
+msgstr "Przy wejściu tego bytu na pole bitwy nazwij nie-lądową kartę."
 
 #: ../../CLB.rst:3621
 msgid "Activated abilities of sources with the chosen name can't be activated."
-msgstr ""
+msgstr "Aktywowane zdolności źródła o wybranej nazwie nie mogą być aktywowane."
 
 #: ../../CLB.rst:3628
 msgid ""
@@ -10850,13 +10916,11 @@ msgstr ""
 msgid ""
 "Psychosis Crawler's power and toughness are each equal to the number of "
 "cards in your hand."
-msgstr ""
+msgstr "Siła i wytrzymałość tej karty są obie równe liczbie kart w twojej ręce."
 
 #: ../../CLB.rst:3627
-#, fuzzy
-#| msgid "You draw three cards and you lose 3 life."
 msgid "Whenever you draw a card, each opponent loses 1 life."
-msgstr "Dobierz trzy karty i strać 3 życia."
+msgstr "Ilekroć dobierzesz kartę, każdy przeciwnik traci po 1 życiu."
 
 #: ../../CLB.rst:3636
 msgid ""
@@ -10866,16 +10930,12 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3631
-#, fuzzy
-#| msgid "Equipped creature has flying and haste."
 msgid "Equipped creature gets +1/-1."
-msgstr "Wyposażony stwór ma latanie i pośpiech."
+msgstr "Wyposażony stwór dostaje +1/-1."
 
 #: ../../CLB.rst:3633
-#, fuzzy
-#| msgid "Whenever enchanted creature attacks, you scry 2."
 msgid "Whenever equipped creature dies, draw two cards."
-msgstr "Ilekroć zauroczony stwor zaatakuje, wróż 2."
+msgstr "Ilekroć wyposażony stwór umrze, dobierz dwie karty."
 
 #: ../../CLB.rst:3640
 msgid ""
@@ -10892,21 +10952,17 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3643
-#, fuzzy
-#| msgid ""
-#| "When Pilgrim's Eye enters the battlefield, you may search your library "
-#| "for a basic land card, reveal it, put it into your hand, then shuffle."
 msgid ""
 "When Solemn Simulacrum enters the battlefield, you may search your library "
 "for a basic land card, put that card onto the battlefield tapped, then "
 "shuffle."
 msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę bazowego lądu, ujawnij ją, umieść w twojej ręce, po czym przetasuj."
+"kartę bazowego lądu, umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../CLB.rst:3645
 msgid "When Solemn Simulacrum dies, you may draw a card."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, możesz dobrać kartę."
 
 #: ../../CLB.rst:3650
 msgid ""
@@ -10920,6 +10976,8 @@ msgid ""
 "|mana_up|: Change a target of target spell or ability to Spellskite. (|"
 "mana_up| can be paid with either |mana_u| or 2 life.)"
 msgstr ""
+"|mana_up|: Zmień wskazanie wskazanego czaru lub zdolności na tego stwora. "
+"(|mana_up| można zapłacić |mana_u| lub 2 życiami.)"
 
 #: ../../CLB.rst:3658
 msgid ""
@@ -10929,10 +10987,8 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3655
-#, fuzzy
-#| msgid "|mana_2|\\ |mana_u|: Target creature gains flying until end of turn."
 msgid "|mana_2|: Steel Hellkite gets +1/+0 until end of turn."
-msgstr "|mana_2|\\ |mana_u|: Wskazany stwór zyskuje do końca tury latanie."
+msgstr "|mana_2|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../CLB.rst:3657
 msgid ""
@@ -10940,6 +10996,9 @@ msgid ""
 "was dealt combat damage by Steel Hellkite this turn. Activate only once each "
 "turn."
 msgstr ""
+"|mana_x|: Zniszcz każdy nielądowy byt o skrócie many X, którego władca "
+"otrzymał w tej turze obrażenia bojowe od niniejszego stwora. Możesz "
+"aktywować tylko raz na turę."
 
 #: ../../CLB.rst:3668
 msgid ""
@@ -10949,20 +11008,20 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3663
-#, fuzzy
-#| msgid "As Kindred Discovery enters the battlefield, choose a creature type."
 msgid "As Stuffy Doll enters the battlefield, choose a player."
-msgstr "Przy wejściu tego bytu na pole bitwy, wybierz typ stwora."
+msgstr "Przy wejściu tego bytu na pole bitwy, wybierz gracza."
 
 #: ../../CLB.rst:3665
 msgid ""
 "Whenever Stuffy Doll is dealt damage, it deals that much damage to the "
 "chosen player."
 msgstr ""
+"Ilekroć ten stwór otrzyma obrażenia, zadaje tyle samo obrażeń wybranemu "
+"graczowi."
 
 #: ../../CLB.rst:3667
 msgid "|tap|: Stuffy Doll deals 1 damage to itself."
-msgstr ""
+msgstr "|tap|: Ten stwór zadaje sobie 1 obrażenie."
 
 #: ../../CLB.rst:3674
 msgid ""
@@ -10972,12 +11031,11 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3673
-#, fuzzy
-#| msgid "|tap|: Add |mana_u| or one mana of the chosen color."
 msgid ""
 "|tap|: Add |mana_u| or |mana_r|. Talisman of Creativity deals 1 damage to "
 "you."
-msgstr "|tap|: Weź |mana_u| lub jedną manę wybranego koloru."
+msgstr ""
+"|tap|: Weź |mana_u| lub |mana_r|. Ten artefakt zadaje tobie 1 obrażenie."
 
 #: ../../CLB.rst:3680
 msgid ""
@@ -10987,11 +11045,9 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3679
-#, fuzzy
-#| msgid "|tap|: Add |mana_u| or one mana of the chosen color."
 msgid ""
 "|tap|: Add |mana_u| or |mana_b|. Talisman of Dominance deals 1 damage to you."
-msgstr "|tap|: Weź |mana_u| lub jedną manę wybranego koloru."
+msgstr "|tap|: Weź |mana_u| lub |mana_b|. Ten byt zadaje tobie 1 obrażenie."
 
 #: ../../CLB.rst:3686
 msgid ""
@@ -11001,11 +11057,10 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3685
-#, fuzzy
-#| msgid "|tap|: Add |mana_w| or one mana of the chosen color."
 msgid ""
 "|tap|: Add |mana_w| or |mana_b|. Talisman of Hierarchy deals 1 damage to you."
-msgstr "|tap|: Weź |mana_w| lub jedną manę wybranego koloru."
+msgstr ""
+"|tap|: Weź |mana_w| lub |mana_b|. Ten artefakt zadaje tobie 1 obrażenie."
 
 #: ../../CLB.rst:3692
 msgid ""
@@ -11022,16 +11077,13 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3697
-#, fuzzy
-#| msgid ""
-#| "When Pilgrim's Eye enters the battlefield, you may search your library "
-#| "for a basic land card, reveal it, put it into your hand, then shuffle."
 msgid ""
 "Basic landcycling |mana_1| (|mana_1|, Discard this card: Search your library "
 "for a basic land card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę bazowego lądu, ujawnij ją, umieść w twojej ręce, po czym przetasuj."
+"Lądocykling bazowych |mana_1| (|mana_1|, odrzuć tę kartę: Wyszukaj w twojej "
+"bibliotece kartę bazowego lądu, ujawnij ją, umieść w twojej ręce, po czym "
+"przetasuj.)"
 
 #: ../../CLB.rst:3704
 msgid ""
@@ -11041,17 +11093,14 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3703
-#, fuzzy
-#| msgid ""
-#| "|mana_3|, Sacrifice Burnished Hart: Search your library for up to two "
-#| "basic land cards, put them onto the battlefield tapped, then shuffle."
 msgid ""
 "|mana_3|\\ |mana_g|, |tap|, Sacrifice Blighted Woodland: Search your library "
 "for up to two basic land cards, put them onto the battlefield tapped, then "
 "shuffle."
 msgstr ""
-"|mana_3|, poświęć tego stwora: Wyszukaj w twojej bibliotece co najwyżej dwie "
-"karty bazowych lądów, umieść je przekręcone na polu bitwy, po czym przetasuj."
+"|mana_3|\\ |mana_g|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece co "
+"najwyżej dwie karty bazowych lądów, umieść je przekręcone na polu bitwy, po "
+"czym przetasuj."
 
 #: ../../CLB.rst:3712
 msgid ""
@@ -11061,17 +11110,13 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3707
-#, fuzzy
-#| msgid "Sky Diamond enters the battlefield tapped."
 msgid "Bojuka Bog enters the battlefield tapped."
-msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../CLB.rst:3709
-#, fuzzy
-#| msgid "When Prophetic Prism enters the battlefield, draw a card."
 msgid ""
 "When Bojuka Bog enters the battlefield, exile target player's graveyard."
-msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wygnaj cmentarz wskazanego gracza."
 
 #: ../../CLB.rst:3720
 msgid ""
@@ -11083,16 +11128,15 @@ msgstr ""
 #: ../../CLB.rst:3715
 msgid ""
 "Castle Embereth enters the battlefield tapped unless you control a Mountain."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole bitwy przekręcony, chyba że władasz Górą."
 
 #: ../../CLB.rst:3719
-#, fuzzy
-#| msgid "Start a Brawl — Creatures you control get +2/+2 until end of turn."
 msgid ""
 "|mana_1|\\ |mana_r|\\ |mana_r|, |tap|: Creatures you control get +1/+0 until "
 "end of turn."
 msgstr ""
-"Wywołaj bójkę — Stwory pod twoim władaniem dostają do końca tury +2/+2."
+"|mana_1|\\ |mana_r|\\ |mana_r|, |tap|: Stwory pod twoim władaniem dostają do "
+"końca tury +1/+0."
 
 #: ../../CLB.rst:3728
 msgid ""
@@ -11102,17 +11146,17 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3723
-#, fuzzy
-#| msgid "Marble Diamond enters the battlefield tapped."
 msgid ""
 "Castle Locthwain enters the battlefield tapped unless you control a Swamp."
-msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
+msgstr "Ten ląd wchodzi na pole bitwy przekręcony, chyba że władasz Bagnem."
 
 #: ../../CLB.rst:3727
 msgid ""
 "|mana_1|\\ |mana_b|\\ |mana_b|, |tap|: Draw a card, then you lose life equal "
 "to the number of cards in your hand."
 msgstr ""
+"|mana_1|\\ |mana_b|\\ |mana_b|, |tap|: Dobierz kartę, po czym strać tyle "
+"żyć, ile masz kart w ręce."
 
 #: ../../CLB.rst:3736
 msgid ""
@@ -11122,15 +11166,13 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3731
-#, fuzzy
-#| msgid "Marble Diamond enters the battlefield tapped."
 msgid ""
 "Castle Vantress enters the battlefield tapped unless you control an Island."
-msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
+msgstr "Ten ląd wchodzi na pole bitwy przekręcony, chyba że władasz Wyspą."
 
 #: ../../CLB.rst:3735
 msgid "|mana_2|\\ |mana_u|\\ |mana_u|, |tap|: Scry 2."
-msgstr ""
+msgstr "|mana_2|\\ |mana_u|\\ |mana_u|, |tap|: Wróż 2."
 
 #: ../../CLB.rst:3742
 msgid ""
@@ -11145,6 +11187,9 @@ msgid ""
 "card from your hand. If you don't, Choked Estuary enters the battlefield "
 "tapped."
 msgstr ""
+"Przy wejściu tego bytu na pole bitwy możesz ujawnić z twojej ręki kartę "
+"Wyspy lub Bagna. Jeśli tak nie zrobisz, ten byt wchodzi przekręcony na pole "
+"bitwy."
 
 #: ../../CLB.rst:3748
 msgid ""
@@ -11154,16 +11199,16 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3745 ../../CLB.rst:3801
-#, fuzzy
-#| msgid "|tap|: Add |mana_r| or |mana_g|."
 msgid "(|tap|: Add |mana_r| or |mana_g|.)"
-msgstr "|tap|: Weź |mana_r| lub |mana_g|."
+msgstr "(|tap|: Weź |mana_r| lub |mana_g|.)"
 
 #: ../../CLB.rst:3747
 msgid ""
 "Cinder Glade enters the battlefield tapped unless you control two or more "
 "basic lands."
 msgstr ""
+"Ten ląd wchodzi przekręcony na pole bitwy, chyba że władasz co najmniej "
+"dwoma bazowymi lądami."
 
 #: ../../CLB.rst:3756
 msgid ""
@@ -11173,10 +11218,8 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3751
-#, fuzzy
-#| msgid "Fire Diamond enters the battlefield tapped."
 msgid "Creeping Tar Pit enters the battlefield tapped."
-msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../CLB.rst:3755
 msgid ""
@@ -11184,6 +11227,8 @@ msgid ""
 "black Elemental creature until end of turn and can't be blocked this turn. "
 "It's still a land."
 msgstr ""
+"|mana_1|\\ |mana_u|\\ |mana_b|: Do końca tury ten ląd staje się czarnym "
+"stworem Żywiołak 3/2 i nie może być blokowany w tej turze. Nadal jest lądem."
 
 #: ../../CLB.rst:3760
 msgid ""
@@ -11200,11 +11245,10 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3765
-#, fuzzy
-#| msgid "|mana_1|, |tap|: Draw a card, then discard a card."
 msgid ""
 "|mana_1|\\ |mana_u|\\ |mana_r|, |tap|: Draw a card, then discard a card."
-msgstr "|mana_1|, |tap|: Dobierz kartę, po czym odrzuć kartę."
+msgstr ""
+"|mana_1|\\ |mana_u|\\ |mana_r|, |tap|: Dobierz kartę, po czym odrzuć kartę."
 
 #: ../../CLB.rst:3774
 msgid ""
@@ -11214,22 +11258,20 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3769
-#, fuzzy
-#| msgid "Sky Diamond enters the battlefield tapped."
 msgid "Dimir Aqueduct enters the battlefield tapped."
-msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
+msgstr "Ten ląd wchodzi na pole bitwy przekręcony."
 
 #: ../../CLB.rst:3771
 msgid ""
 "When Dimir Aqueduct enters the battlefield, return a land you control to its "
 "owner's hand."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
+"ręki właściciela."
 
 #: ../../CLB.rst:3773
-#, fuzzy
-#| msgid "|tap|: Add |mana_u| or |mana_b|."
 msgid "|tap|: Add |mana_u|\\ |mana_b|."
-msgstr "|tap|: Weź |mana_u| lub |mana_b|."
+msgstr "|tap|: Weź |mana_u|\\ |mana_b|."
 
 #: ../../CLB.rst:3780
 msgid ""
@@ -11243,6 +11285,7 @@ msgid ""
 "|mana_3|: Return Drownyard Temple from your graveyard to the battlefield "
 "tapped."
 msgstr ""
+"|mana_3|: Przywróć ten ląd z twojego cmentarza przekręcony na pole bitwy."
 
 #: ../../CLB.rst:3784
 msgid ""
@@ -11263,6 +11306,8 @@ msgid ""
 "As Game Trail enters the battlefield, you may reveal a Mountain or Forest "
 "card from your hand. If you don't, Game Trail enters the battlefield tapped."
 msgstr ""
+"Przy wejściu tego bytu na pole bitwy możesz ujawnić z twojej ręki kartę Góry "
+"lub Lasu. Jeśli tak nie zrobisz, ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../CLB.rst:3798
 msgid ""
@@ -11272,22 +11317,20 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3793
-#, fuzzy
-#| msgid "Marble Diamond enters the battlefield tapped."
 msgid "Gruul Turf enters the battlefield tapped."
-msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../CLB.rst:3795
 msgid ""
 "When Gruul Turf enters the battlefield, return a land you control to its "
 "owner's hand."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
+"ręki właściciela."
 
 #: ../../CLB.rst:3797
-#, fuzzy
-#| msgid "|tap|: Add |mana_r| or |mana_g|."
 msgid "|tap|: Add |mana_r|\\ |mana_g|."
-msgstr "|tap|: Weź |mana_r| lub |mana_g|."
+msgstr "|tap|: Weź |mana_r|\\ |mana_g|."
 
 #: ../../CLB.rst:3804
 msgid ""
@@ -11297,10 +11340,8 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3803
-#, fuzzy
-#| msgid "Sky Diamond enters the battlefield tapped."
 msgid "Highland Forest enters the battlefield tapped."
-msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../CLB.rst:3812
 msgid ""
@@ -11310,28 +11351,20 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3807
-#, fuzzy
-#| msgid "Fire Diamond enters the battlefield tapped."
 msgid "Izzet Boilerworks enters the battlefield tapped."
-msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../CLB.rst:3809
-#, fuzzy
-#| msgid ""
-#| "When Meteor Golem enters the battlefield, destroy target nonland "
-#| "permanent an opponent controls."
 msgid ""
 "When Izzet Boilerworks enters the battlefield, return a land you control to "
 "its owner's hand."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, zniszcz wskazany nie-lądowy byt pod "
-"władaniem przeciwnika."
+"Kiedy ten byt wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
+"ręki właściciela."
 
 #: ../../CLB.rst:3811
-#, fuzzy
-#| msgid "|tap|: Add |mana_b| or |mana_r|."
 msgid "|tap|: Add |mana_u|\\ |mana_r|."
-msgstr "|tap|: Weź |mana_b| lub |mana_r|."
+msgstr "|tap|: Weź |mana_u|\\ |mana_r|."
 
 #: ../../CLB.rst:3818
 msgid ""
@@ -11341,12 +11374,12 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3817
-#, fuzzy
-#| msgid "|mana_2|\\ |mana_u|: Target creature gains flying until end of turn."
 msgid ""
 "|mana_x|\\ |mana_r|\\ |mana_g|, |tap|: Target creature gets +X/+0 and gains "
 "trample until end of turn."
-msgstr "|mana_2|\\ |mana_u|: Wskazany stwór zyskuje do końca tury latanie."
+msgstr ""
+"|mana_x|\\ |mana_r|\\ |mana_g|, |tap|: Wskazany stwór dostaje do końca tury +"
+"X/+0 u tratowanie."
 
 #: ../../CLB.rst:3824
 msgid ""
@@ -11360,6 +11393,8 @@ msgid ""
 "|mana_1|\\ |mana_r|, |tap|: Create a 0/1 red Kobold creature token named "
 "Kobolds of Kher Keep."
 msgstr ""
+"|mana_1|\\ |mana_r|, |tap|: Stwórz żeton czerwonego stwora Kobold 0/1 o "
+"nazwie Kobolds of Kher Keep."
 
 #: ../../CLB.rst:3832
 msgid ""
@@ -11369,22 +11404,16 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3827
-#, fuzzy
-#| msgid "Marble Diamond enters the battlefield tapped."
 msgid "Mortuary Mire enters the battlefield tapped."
-msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../CLB.rst:3829
-#, fuzzy
-#| msgid ""
-#| "Whenever a Gate enters the battlefield under your control, you may put "
-#| "Gate Colossus from your graveyard on top of your library."
 msgid ""
 "When Mortuary Mire enters the battlefield, you may put target creature card "
 "from your graveyard on top of your library."
 msgstr ""
-"Ilekroć Brama wejdzie na pole bitwy pod twoim władaniem, możesz umieścić tę "
-"kartę z twojego cmentarza na wierzchu twojej biblioteki."
+"Kiedy ten byt wejdzie na pole bitwy, możesz umieścić wskazaną kartę stwora z "
+"twojego cmentarza na wierzchu twojej biblioteki."
 
 #: ../../CLB.rst:3836
 msgid ""
@@ -11394,10 +11423,8 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3835
-#, fuzzy
-#| msgid "|tap|: Add |mana_r| or |mana_g|."
 msgid "|mana_1|, |tap|: Add |mana_r|\\ |mana_g|."
-msgstr "|tap|: Weź |mana_r| lub |mana_g|."
+msgstr "|mana_1|, |tap|: Weź |mana_r|\\ |mana_g|."
 
 #: ../../CLB.rst:3846
 msgid ""
@@ -11412,18 +11439,21 @@ msgid ""
 "cards of your library, exile one face down, then put the rest on the bottom "
 "in a random order.)"
 msgstr ""
+"Kryjówka 4 (Kiedy ten byt wejdzie na pole bitwy, spójrz na cztery wierzchnie "
+"karty twojej biblioteki, wygnaj jedną zakrytą, po czym umieść pozostałe "
+"losowo na spodzie.)"
 
 #: ../../CLB.rst:3841
-#, fuzzy
-#| msgid "Moss Diamond enters the battlefield tapped."
 msgid "Mosswort Bridge enters the battlefield tapped."
-msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../CLB.rst:3845
 msgid ""
 "|mana_g|, |tap|: You may play the exiled card without paying its mana cost "
 "if creatures you control have total power 10 or greater."
 msgstr ""
+"|mana_g|, |tap|: Możesz zagrać ową wygnaną kartę bez płacenia jej kosztu "
+"many jeśli stwory pod twoim władaniem mają łączną siłę 10 lub większą."
 
 #: ../../CLB.rst:3852
 msgid ""
@@ -11437,6 +11467,8 @@ msgid ""
 "|mana_1|: Mutavault becomes a 2/2 creature with all creature types until end "
 "of turn. It's still a land."
 msgstr ""
+"|mana_1|: Ten ląd do końca tury staje się stworem 2/2 mający każdy typ "
+"stwora. Nadal jest lądem."
 
 #: ../../CLB.rst:3860
 msgid ""
@@ -11446,23 +11478,18 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3855
-#, fuzzy
-#| msgid "Sky Diamond enters the battlefield tapped."
 msgid "Myriad Landscape enters the battlefield tapped."
-msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../CLB.rst:3859
-#, fuzzy
-#| msgid ""
-#| "|mana_3|, Sacrifice Burnished Hart: Search your library for up to two "
-#| "basic land cards, put them onto the battlefield tapped, then shuffle."
 msgid ""
 "|mana_2|, |tap|, Sacrifice Myriad Landscape: Search your library for up to "
 "two basic land cards that share a land type, put them onto the battlefield "
 "tapped, then shuffle."
 msgstr ""
-"|mana_3|, poświęć tego stwora: Wyszukaj w twojej bibliotece co najwyżej dwie "
-"karty bazowych lądów, umieść je przekręcone na polu bitwy, po czym przetasuj."
+"|mana_2|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece co najwyżej "
+"dwie karty bazowych lądów mających wspólny typ lądu, umieść je przekręcone "
+"na polu bitwy, po czym przetasuj."
 
 #: ../../CLB.rst:3866
 msgid ""
@@ -11473,7 +11500,7 @@ msgstr ""
 
 #: ../../CLB.rst:3865
 msgid "|mana_1|\\ |mana_u|\\ |mana_b|, |tap|: Target player mills three cards."
-msgstr ""
+msgstr "|mana_1|\\ |mana_u|\\ |mana_b|, |tap|: Wskazany gracz mieli trzy karty."
 
 #: ../../CLB.rst:3874
 msgid ""
@@ -11483,22 +11510,20 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3869
-#, fuzzy
-#| msgid "Charcoal Diamond enters the battlefield tapped."
 msgid "Orzhov Basilica enters the battlefield tapped."
-msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../CLB.rst:3871
 msgid ""
 "When Orzhov Basilica enters the battlefield, return a land you control to "
 "its owner's hand."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
+"ręki właściciela."
 
 #: ../../CLB.rst:3873
-#, fuzzy
-#| msgid "|tap|: Add |mana_u| or |mana_b|."
 msgid "|tap|: Add |mana_w|\\ |mana_b|."
-msgstr "|tap|: Weź |mana_u| lub |mana_b|."
+msgstr "|tap|: Weź |mana_w|\\ |mana_b|."
 
 #: ../../CLB.rst:3880
 msgid ""
@@ -11508,10 +11533,8 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3877
-#, fuzzy
-#| msgid "Sky Diamond enters the battlefield tapped."
 msgid "Path of Ancestry enters the battlefield tapped."
-msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../CLB.rst:3879
 msgid ""
@@ -11520,6 +11543,10 @@ msgid ""
 "your commander, scry 1. (Look at the top card of your library. You may put "
 "that card on the bottom of your library.)"
 msgstr ""
+"|tap|: Weź jedną maną w jednym z kolorów tożsamości twojego dowódcy. Kiedy "
+"owa mana zostanie wydana na rzucenie czaru stwora współdzielącego typ stwora "
+"z twoim dowódcą, wróż 1. (Spójrz na wierzchnią kartę twojej biblioteki. "
+"Możesz umieścić ową kartę na spodzie twojej biblioteki.)"
 
 #: ../../CLB.rst:3888
 msgid ""
@@ -11529,10 +11556,8 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3883
-#, fuzzy
-#| msgid "Fire Diamond enters the battlefield tapped."
 msgid "Port of Karfell enters the battlefield tapped."
-msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../CLB.rst:3887
 msgid ""
@@ -11541,6 +11566,10 @@ msgid ""
 "battlefield tapped. (To mill a card, put the top card of your library into "
 "your graveyard.)"
 msgstr ""
+"|mana_3|\\ |mana_u|\\ |mana_b|\\ |mana_b|, |tap|, poświęć ten ląd: Zmiel "
+"cztery karty, po czym przywróć kartę stwora z twojego cmentarza przekręconą "
+"na pole bitwy. (Aby zmielić kartę umieść wierzchnią kartę twojej biblioteki "
+"w twoim cmentarzu.)"
 
 #: ../../CLB.rst:3896
 msgid ""
@@ -11550,22 +11579,16 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3891
-#, fuzzy
-#| msgid "Fire Diamond enters the battlefield tapped."
 msgid "Prismari Campus enters the battlefield tapped."
-msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../CLB.rst:3893 ../../CLB.rst:3993 ../../CLB.rst:4023
-#, fuzzy
-#| msgid "|tap|: Add |mana_u| or |mana_b|."
 msgid "|tap|: Add |mana_u| or |mana_r|."
-msgstr "|tap|: Weź |mana_u| lub |mana_b|."
+msgstr "|tap|: Weź |mana_u| lub |mana_r|."
 
 #: ../../CLB.rst:3895
-#, fuzzy
-#| msgid "|mana_3|, |tap|: Draw a card."
 msgid "|mana_4|, |tap|: Scry 1."
-msgstr "|mana_3|, |tap|: Dobierz kartę."
+msgstr "|mana_4|, |tap|: Wróż 1."
 
 #: ../../CLB.rst:3904
 msgid ""
@@ -11575,10 +11598,8 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3899
-#, fuzzy
-#| msgid "Fire Diamond enters the battlefield tapped."
 msgid "Raging Ravine enters the battlefield tapped."
-msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../CLB.rst:3903
 msgid ""
@@ -11586,6 +11607,9 @@ msgid ""
 "3/3 red and green Elemental creature with \"Whenever this creature attacks, "
 "put a +1/+1 counter on it.\" It's still a land."
 msgstr ""
+"|mana_2|\\ |mana_r|\\ |mana_g|: Do końca tury ten ląd staje się czerwono-"
+"zielonym stworem Żywiołak 3/3 mającym \"Ilekroć ten stwór zaatakuje, umieść "
+"na nim znacznik +1/+1.\" Nadal jest lądem."
 
 #: ../../CLB.rst:3910
 msgid ""
@@ -11602,11 +11626,11 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3913
-#, fuzzy
-#| msgid "|tap|: Add |mana_u| or |mana_b|."
 msgid ""
 "|tap|: Add |mana_u|. If you played a land this turn, add |mana_b| instead."
-msgstr "|tap|: Weź |mana_u| lub |mana_b|."
+msgstr ""
+"|tap|: Weź |mana_u|. Jeśli zagrałeś ten ląd w tej turze, zamiast tego weź "
+"|mana_b|."
 
 #: ../../CLB.rst:3920
 msgid ""
@@ -11616,10 +11640,8 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3919
-#, fuzzy
-#| msgid "|mana_3|, |tap|: Target creature can't be blocked this turn."
 msgid "|mana_4|, |tap|: Target creature can't be blocked this turn."
-msgstr "|mana_3|, |tap|: Wskazany stwór nie może być blokowany w tej turze."
+msgstr "|mana_4|, |tap|: Wskazany stwór nie może być blokowany w tej turze."
 
 #: ../../CLB.rst:3928
 msgid ""
@@ -11629,22 +11651,20 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3923
-#, fuzzy
-#| msgid "Sky Diamond enters the battlefield tapped."
 msgid "Shambling Vent enters the battlefield tapped."
-msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../CLB.rst:3925 ../../CLB.rst:4001
-#, fuzzy
-#| msgid "|tap|: Add |mana_w| or |mana_u|."
 msgid "|tap|: Add |mana_w| or |mana_b|."
-msgstr "|tap|: Weź |mana_w| lub |mana_u|."
+msgstr "|tap|: Weź |mana_w| lub |mana_b|."
 
 #: ../../CLB.rst:3927
 msgid ""
 "|mana_1|\\ |mana_w|\\ |mana_b|: Shambling Vent becomes a 2/3 white and black "
 "Elemental creature with lifelink until end of turn. It's still a land."
 msgstr ""
+"|mana_1|\\ |mana_w|\\ |mana_b|: Ten ląd staje się do końca tury biało-"
+"czarnym stworem Żywiołak 2/3 z więzią życia. Nadal jest lądem."
 
 #: ../../CLB.rst:3934
 msgid ""
@@ -11654,16 +11674,12 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3931
-#, fuzzy
-#| msgid "|tap|: Add |mana_w| or |mana_u|."
 msgid "(|tap|: Add |mana_w| or |mana_b|.)"
-msgstr "|tap|: Weź |mana_w| lub |mana_u|."
+msgstr "(|tap|: Weź |mana_w| lub |mana_b|.)"
 
 #: ../../CLB.rst:3933
-#, fuzzy
-#| msgid "Fire Diamond enters the battlefield tapped."
 msgid "Snowfield Sinkhole enters the battlefield tapped."
-msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../CLB.rst:3944
 msgid ""
@@ -11673,16 +11689,16 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3939
-#, fuzzy
-#| msgid "Sky Diamond enters the battlefield tapped."
 msgid "Spinerock Knoll enters the battlefield tapped."
-msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../CLB.rst:3943
 msgid ""
 "|mana_r|, |tap|: You may play the exiled card without paying its mana cost "
 "if an opponent was dealt 7 or more damage this turn."
 msgstr ""
+"|mana_r|, |tap|: Możesz zagrać ową wygnaną kartę bez płacenia jej kosztu "
+"many jeśli przeciwnik otrzymał w tej turze co najmniej 7 obrażeń."
 
 #: ../../CLB.rst:3952
 msgid ""
@@ -11711,16 +11727,16 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3955
-#, fuzzy
-#| msgid "|tap|: Add |mana_u| or |mana_b|."
 msgid "(|tap|: Add |mana_u| or |mana_b|.)"
-msgstr "|tap|: Weź |mana_u| lub |mana_b|."
+msgstr "(|tap|: Weź |mana_u| lub |mana_b|.)"
 
 #: ../../CLB.rst:3957
 msgid ""
 "Sunken Hollow enters the battlefield tapped unless you control two or more "
 "basic lands."
 msgstr ""
+"Ten ląd wchodzi przekręcony na pole bitwy, chyba że władasz co najmniej "
+"dwoma bazowymi lądami."
 
 #: ../../CLB.rst:3964
 msgid ""
@@ -11730,10 +11746,10 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3963
-#, fuzzy
-#| msgid "|tap|: Add |mana_w| or one mana of the chosen color."
 msgid "|tap|: Add |mana_w| or |mana_b|. Activate only if you control a Swamp."
-msgstr "|tap|: Weź |mana_w| lub jedną manę wybranego koloru."
+msgstr ""
+"|tap|: Weź |mana_w| lub |mana_b|. Możesz aktywować tylko jeśli władasz "
+"Bagnem."
 
 #: ../../CLB.rst:3970
 msgid ""
@@ -11743,10 +11759,10 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3969
-#, fuzzy
-#| msgid "|tap|: Add |mana_u| or |mana_b|."
 msgid "|tap|: Add |mana_u| or |mana_b|. Activate only if you control a Swamp."
-msgstr "|tap|: Weź |mana_u| lub |mana_b|."
+msgstr ""
+"|tap|: Weź |mana_u| lub |mana_b|. Możesz aktywować tylko jeśli władasz "
+"Bagnem."
 
 #: ../../CLB.rst:3978
 msgid ""
@@ -11756,16 +11772,12 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3973
-#, fuzzy
-#| msgid "Marble Diamond enters the battlefield tapped."
 msgid "Temple of Abandon enters the battlefield tapped."
-msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../CLB.rst:3975
-#, fuzzy
-#| msgid "When Prophetic Prism enters the battlefield, draw a card."
 msgid "When Temple of Abandon enters the battlefield, scry 1."
-msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wróż 1."
 
 #: ../../CLB.rst:3986
 msgid ""
@@ -11775,16 +11787,12 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3981
-#, fuzzy
-#| msgid "Marble Diamond enters the battlefield tapped."
 msgid "Temple of Deceit enters the battlefield tapped."
-msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../CLB.rst:3983
-#, fuzzy
-#| msgid "When Prophetic Prism enters the battlefield, draw a card."
 msgid "When Temple of Deceit enters the battlefield, scry 1."
-msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wróż 1."
 
 #: ../../CLB.rst:3994
 msgid ""
@@ -11794,16 +11802,12 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3989
-#, fuzzy
-#| msgid "Marble Diamond enters the battlefield tapped."
 msgid "Temple of Epiphany enters the battlefield tapped."
-msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../CLB.rst:3991
-#, fuzzy
-#| msgid "When Prophetic Prism enters the battlefield, draw a card."
 msgid "When Temple of Epiphany enters the battlefield, scry 1."
-msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wróż 1."
 
 #: ../../CLB.rst:4002
 msgid ""
@@ -11813,16 +11817,12 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3997
-#, fuzzy
-#| msgid "Marble Diamond enters the battlefield tapped."
 msgid "Temple of Silence enters the battlefield tapped."
-msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../CLB.rst:3999
-#, fuzzy
-#| msgid "When Prophetic Prism enters the battlefield, draw a card."
 msgid "When Temple of Silence enters the battlefield, scry 1."
-msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wróż 1."
 
 #: ../../CLB.rst:4006
 msgid ""
@@ -11836,6 +11836,8 @@ msgid ""
 "|tap|: Add |colorless|\\ |colorless|. Activate only if you control five or "
 "more lands."
 msgstr ""
+"|tap|: Weź |colorless|\\ |colorless|. Możesz aktywować tylko jeśli władasz "
+"co najmniej pięcioma lądami."
 
 #: ../../CLB.rst:4012
 msgid ""
@@ -11845,16 +11847,12 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:4011
-#, fuzzy
-#| msgid ""
-#| "|mana_2|, |tap|, Sacrifice Wayfarer's Bauble: Search your library for a "
-#| "basic land card, put that card onto the battlefield tapped, then shuffle."
 msgid ""
 "|mana_2|, |tap|: You may put a basic land card from your hand onto the "
 "battlefield tapped."
 msgstr ""
-"|mana_2|, |tap|, poświęć ten artefakt: Wyszukaj w twojej bibliotece kartę "
-"bazowego lądu, umieść ją przekręconą na polu bitwy, po czym przetasuj."
+"|mana_2|, |tap|: Możesz umieścić kartę bazowego lądu z twojej ręki "
+"przekręconą na polu bitwy."
 
 #: ../../CLB.rst:4018
 msgid ""
@@ -11864,12 +11862,12 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:4017
-#, fuzzy
-#| msgid "|mana_2|\\ |mana_u|: Target creature gains flying until end of turn."
 msgid ""
 "|mana_2|\\ |mana_w|\\ |mana_b|, |tap|: Creatures you control gain deathtouch "
 "and lifelink until end of turn."
-msgstr "|mana_2|\\ |mana_u|: Wskazany stwór zyskuje do końca tury latanie."
+msgstr ""
+"|mana_2|\\ |mana_w|\\ |mana_b|, |tap|: Stwory pod twoim władaniem zyskują do "
+"końca tury dotyk śmierci i więź życia."
 
 #: ../../CLB.rst:4026
 msgid ""
@@ -11879,10 +11877,8 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:4021
-#, fuzzy
-#| msgid "Marble Diamond enters the battlefield tapped."
 msgid "Wandering Fumarole enters the battlefield tapped."
-msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../CLB.rst:4025
 msgid ""
@@ -11890,6 +11886,9 @@ msgid ""
 "becomes a 1/4 blue and red Elemental creature with \"|mana_0|: Switch this "
 "creature's power and toughness until end of turn.\" It's still a land."
 msgstr ""
+"|mana_2|\\ |mana_u|\\ |mana_r|: Ten ląd staje się do końca tury niebiesko-"
+"czerwonym stworem Żywiołak 1/4 mającym \"|mana_0|: Zamień do końca tury siłę "
+"z wytrzymałością tego stwora.\" Nadal jest lądem."
 
 #: ../../CLB.rst:4032
 msgid ""
@@ -11899,12 +11898,12 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:4031
-#, fuzzy
-#| msgid "|tap|: Add one mana of any color in your commander's color identity."
 msgid ""
 "|mana_3|, |tap|, Pay life equal to the number of colors in your commanders' "
 "color identity: Draw a card."
-msgstr "|tap|: Weź jedną manę w jednym z kolorów tożsamości twojego dowódcy."
+msgstr ""
+"|mana_3|, |tap|, zapłać życia równe liczbie kolorów w tożsamości twojego "
+"dowódcy: Dobierz kartę."
 
 #: ../../CLB.rst:4041
 msgid ""
@@ -11914,16 +11913,16 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:4037
-#, fuzzy
-#| msgid "Fire Diamond enters the battlefield tapped."
 msgid "Windbrisk Heights enters the battlefield tapped."
-msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../CLB.rst:4041
 msgid ""
 "|mana_w|, |tap|: You may play the exiled card without paying its mana cost "
 "if you attacked with three or more creatures this turn."
 msgstr ""
+"|mana_w|, |tap|: Możesz zagrać wygnaną kartę bez płacenia jej kosztu many "
+"jeśli w tej turze zaatakowałeś co najmniej trzema stworami."
 
 #~ msgid "Equipped creature has hexproof and haste."
 #~ msgstr "Wyposażony stwór ma antyklątwę i pośpiech."
