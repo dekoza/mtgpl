@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2022.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-06-19 01:09+0200\n"
-"PO-Revision-Date: 2022-06-19 10:19+0000\n"
+"PO-Revision-Date: 2022-06-19 10:23+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/2x2/pl/>\n"
 "Language: pl\n"
@@ -1316,6 +1316,8 @@ msgid ""
 "Whenever Ashenmoor Liege becomes the target of a spell or ability an "
 "opponent controls, that player loses 4 life."
 msgstr ""
+"Ilekroć niniejszy zostanie wskazany przez czar lub zdolność pod władaniem "
+"przeciwnika, ów gracz traci 4 życia."
 
 #: ../../2X2.rst:342
 msgid ""
@@ -1618,6 +1620,8 @@ msgid ""
 "Untap all green and/or blue creatures you control during each other player's "
 "untap step."
 msgstr ""
+"Odkręć wszystkie zielone i/lub niebieskie stwory pod twoim władaniem podczas "
+"kroku odkręcania każdego innego gracza."
 
 #: ../../2X2.rst:442
 msgid ""
@@ -1666,6 +1670,8 @@ msgid ""
 "Whenever a player draws a card, that player loses 2 life unless they pay |"
 "mana_2|."
 msgstr ""
+"Ilekroć gracz dobiera kartę, ów gracz traci 2 życia, chyba że zapłaci "
+"|mana_2|."
 
 #: ../../2X2.rst:452
 msgid ""
@@ -1752,6 +1758,8 @@ msgid ""
 "|mana_2|, |tap|: You may put a multicolored creature card from your hand "
 "onto the battlefield."
 msgstr ""
+"|mana_2|, |tap|: Możesz umieścić na polu bitwy kartę wielokolorowego stwora "
+"z twojej ręki."
 
 #: ../../2X2.rst:488
 msgid ""
@@ -2110,15 +2118,15 @@ msgstr ""
 
 #: ../../2X2.rst:599
 msgid "As you create your deck, circle two of the colors below."
-msgstr ""
+msgstr "Tworząc swoją talię, zakreśl dwa z poniższych kolorów."
 
 #: ../../2X2.rst:601
 msgid "Cryptic Spires enters the battlefield tapped."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../2X2.rst:603
 msgid "|tap|: Add one mana of either of the circled colors."
-msgstr ""
+msgstr "|tap|: Weź jedną manę któregokolwiek z zakreślonych kolorów."
 
 #: ../../2X2.rst:608
 msgid ""
