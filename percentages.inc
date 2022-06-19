@@ -1,5 +1,5 @@
 
-.. |CLB_percent| image:: images/pie30.png        
+.. |CLB_percent| image:: images/pie50.png        
 
 .. |M12_percent| image:: images/pie95.png        
 
@@ -33,7 +33,7 @@
 
 .. |CHK_percent| image:: images/pie45.png        
 
-.. |CMR_percent| image:: images/pie65.png        
+.. |CMR_percent| image:: images/pie70.png        
 
 .. |CMD_percent| image:: images/pie90.png        
 
