@@ -62,7 +62,7 @@
 :mtgtip:`Bygone Bishop<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7c45198f-fb2b-4c83-abdc-8b1a0071cfed.jpg?1576383693|https://scryfall.com/card/soi/8/bygone-bishop?utm_source=api>`
    Flying
 
-   Whenever you cast a creature spell with mana value 3 or less, investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
+   Whenever you cast a creature spell with mana value 3 or less, investigate. (Create a Clue token. It's an artifact with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
 
 :mtgtip:`Cathar's Companion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/f/0f4b9943-0fe6-4383-90a0-4a719dcf9499.jpg?1576383699|https://scryfall.com/card/soi/9/cathars-companion?utm_source=api>`
@@ -116,7 +116,7 @@
 :mtgtip:`Expose Evil<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9de0341a-cd45-439c-adc2-8d24c47c4bd5.jpg?1576383763|https://scryfall.com/card/soi/19/expose-evil?utm_source=api>`
    Tap up to two target creatures.
 
-   Investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
+   Investigate. (Create a Clue token. It's an artifact with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
 
 :mtgtip:`Gryff's Boon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9d8aecb0-c535-493c-bf64-4964e061deba.jpg?1576383770|https://scryfall.com/card/soi/20/gryffs-boon?utm_source=api>`
@@ -148,7 +148,7 @@
 :mtgtip:`Humble the Brute<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7c105686-8b45-494a-b9ef-8aa267bb1b5a.jpg?1576383796|https://scryfall.com/card/soi/23/humble-the-brute?utm_source=api>`
    Destroy target creature with power 4 or greater.
 
-   Investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
+   Investigate.(Create a Clue token. It's an artifact with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
 
 :mtgtip:`Inquisitor's Ox<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/d/fd1401fe-9e88-401b-96f0-5f58808a519f.jpg?1576383802|https://scryfall.com/card/soi/24/inquisitors-ox?utm_source=api>`
@@ -236,7 +236,7 @@
 :mtgtip:`Survive the Night<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/c/5cb4a0bc-196a-466b-a704-377f5c7eb5b7.jpg?1576383916|https://scryfall.com/card/soi/41/survive-the-night?utm_source=api>`
    Target creature gets +1/+0 and gains indestructible until end of turn. (Damage and effects that say "destroy" don't destroy it.)
 
-   Investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
+   Investigate. (Create a Clue token. It's an artifact with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
 
 :mtgtip:`Tenacity<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/1/41fbe149-3e1f-495e-be1b-efc3a6dbcb08.jpg?1576383922|https://scryfall.com/card/soi/42/tenacity?utm_source=api>`
@@ -250,7 +250,7 @@
 
 
 :mtgtip:`Thraben Inspector<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/1/d140c3b7-ca78-483d-baeb-307b624fea8b.jpg?1576383936|https://scryfall.com/card/soi/44/thraben-inspector?utm_source=api>`
-   When Thraben Inspector enters the battlefield, investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
+   When Thraben Inspector enters the battlefield, investigate. (Create a Clue token. It's an artifact with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
 
 :mtgtip:`Topplegeist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/c/ec9e8653-13ae-446c-b341-85c9b3fa6ca8.jpg?1576383942|https://scryfall.com/card/soi/45/topplegeist?utm_source=api>`
@@ -306,7 +306,7 @@
 :mtgtip:`Confirm Suspicions<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/f/cf7fcbc2-1034-442d-9f2a-7d79ea40ac3d.jpg?1576384007|https://scryfall.com/card/soi/53/confirm-suspicions?utm_source=api>`
    Counter target spell.
 
-   Investigate three times. (To investigate, create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
+   Investigate three times. (To investigate, create a Clue token. It's an artifact with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
 
 :mtgtip:`Daring Sleuth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/4/440f9f10-6999-4cff-ab98-8aed77813b07.jpg?1576384019|https://scryfall.com/card/soi/54/daring-sleuth-bearer-of-overwhelming-truths?utm_source=api>`
@@ -316,7 +316,7 @@
 :mtgtip:`Bearer of Overwhelming Truths<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/4/4/440f9f10-6999-4cff-ab98-8aed77813b07.jpg?1576384019|https://scryfall.com/card/soi/54/daring-sleuth-bearer-of-overwhelming-truths?utm_source=api>`
    Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
 
-   Whenever Bearer of Overwhelming Truths deals combat damage to a player, investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
+   Whenever Bearer of Overwhelming Truths deals combat damage to a player, investigate. (Create a Clue token. It's an artifact with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
 
 :mtgtip:`Deny Existence<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/6/16a14eeb-1c85-4029-a047-39a4efef3f74.jpg?1576384025|https://scryfall.com/card/soi/55/deny-existence?utm_source=api>`
@@ -324,7 +324,7 @@
 
 
 :mtgtip:`Drownyard Explorers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/7/3714713f-deb4-4b1c-8764-35287293ca18.jpg?1576384031|https://scryfall.com/card/soi/56/drownyard-explorers?utm_source=api>`
-   When Drownyard Explorers enters the battlefield, investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
+   When Drownyard Explorers enters the battlefield, investigate. (Create a Clue token. It's an artifact with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
 
 :mtgtip:`Drunau Corpse Trawler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/9/1997e6a0-9e66-486d-921d-d64137c3221d.jpg?1576384037|https://scryfall.com/card/soi/57/drunau-corpse-trawler?utm_source=api>`
@@ -352,7 +352,7 @@
 
 
 :mtgtip:`Fleeting Memories<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/b/4b9eaf90-2a9e-44a7-bdae-03c26f9d21e7.jpg?1576384069|https://scryfall.com/card/soi/62/fleeting-memories?utm_source=api>`
-   When Fleeting Memories enters the battlefield, investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
+   When Fleeting Memories enters the battlefield, investigate. (Create a Clue token. It's an artifact with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
    Whenever you sacrifice a Clue, target player mills three cards.
 
@@ -386,7 +386,7 @@
 :mtgtip:`Gone Missing<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/8/e88ae6bf-9c58-4543-ba66-19ea41d01e9b.jpg?1576384102|https://scryfall.com/card/soi/67/gone-missing?utm_source=api>`
    Put target permanent on top of its owner's library.
 
-   Investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
+   Investigate. (Create a Clue token. It's an artifact with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
 
 :mtgtip:`Invasive Surgery<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/e/6e644e38-39bf-40bd-9be1-5eb80f472e81.jpg?1576384110|https://scryfall.com/card/soi/68/invasive-surgery?utm_source=api>`
@@ -406,7 +406,7 @@
 :mtgtip:`Jace's Scrutiny<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/d/3d0eea0d-c790-4d91-962f-f05b22d0c8fa.jpg?1576384122|https://scryfall.com/card/soi/70/jaces-scrutiny?utm_source=api>`
    Target creature gets -4/-0 until end of turn.
 
-   Investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
+   Investigate. (Create a Clue token. It's an artifact with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
 
 :mtgtip:`Just the Wind<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/8/98b3d18c-7029-4eff-a918-f75e7d9d79d7.jpg?1576384128|https://scryfall.com/card/soi/71/just-the-wind?utm_source=api>`
@@ -446,7 +446,7 @@
 
 
 :mtgtip:`Ongoing Investigation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/9/19b8f962-8d4e-4dd8-a157-c0a55f9e152a.jpg?1576384167|https://scryfall.com/card/soi/77/ongoing-investigation?utm_source=api>`
-   Whenever one or more creatures you control deal combat damage to a player, investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
+   Whenever one or more creatures you control deal combat damage to a player, investigate. (Create a Clue token. It's an artifact with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
    |mana_1|\ |mana_g|, Exile a creature card from your graveyard: Investigate. You gain 2 life.
 
@@ -462,7 +462,7 @@
 :mtgtip:`Press for Answers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/e/5ec8b8bf-7b02-4f5e-bbd3-9560f9888192.jpg?1576384189|https://scryfall.com/card/soi/80/press-for-answers?utm_source=api>`
    Tap target creature. It doesn't untap during its controller's next untap step.
 
-   Investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
+   Investigate. (Create a Clue token. It's an artifact with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
 
 :mtgtip:`Rattlechains<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/6/a6fc4db9-a29c-4f50-8e41-105b45af0be9.jpg?1576384197|https://scryfall.com/card/soi/81/rattlechains?utm_source=api>`
@@ -546,7 +546,7 @@
 
 
 :mtgtip:`Trail of Evidence<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/b/4b150797-ee8d-42f8-adcb-2f4b1783c074.jpg?1576384288|https://scryfall.com/card/soi/93/trail-of-evidence?utm_source=api>`
-   Whenever you cast an instant or sorcery spell, investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
+   Whenever you cast an instant or sorcery spell, investigate. (Create a Clue token. It's an artifact with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
 
 :mtgtip:`Uninvited Geist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4dea7c9f-ce66-447b-9f1b-d9bca5806153.jpg?1576384303|https://scryfall.com/card/soi/94/uninvited-geist-unimpeded-trespasser?utm_source=api>`
@@ -1150,13 +1150,13 @@
 
 
 :mtgtip:`Briarbridge Patrol<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/4/f44a017b-40cb-4c15-b9ea-a3ed904e4e49.jpg?1576385004|https://scryfall.com/card/soi/195/briarbridge-patrol?utm_source=api>`
-   Whenever Briarbridge Patrol deals damage to one or more creatures, investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
+   Whenever Briarbridge Patrol deals damage to one or more creatures, investigate. (Create a Clue token. It's an artifact with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
    At the beginning of each end step, if you sacrificed three or more Clues this turn, you may put a creature card from your hand onto the battlefield.
 
 
 :mtgtip:`Byway Courier<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/f/2f243a51-bbd3-4028-a469-469ab5591aae.jpg?1576385010|https://scryfall.com/card/soi/196/byway-courier?utm_source=api>`
-   When Byway Courier dies, investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
+   When Byway Courier dies, investigate. (Create a Clue token. It's an artifact with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
 
 :mtgtip:`Clip Wings<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/2/f2835993-6c71-4a63-bad5-cb25aedc4a15.jpg?1576385016|https://scryfall.com/card/soi/197/clip-wings?utm_source=api>`
@@ -1164,7 +1164,7 @@
 
 
 :mtgtip:`Confront the Unknown<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/5/c59557c3-aba2-4f80-8f37-accb7b991cb9.jpg?1576385022|https://scryfall.com/card/soi/198/confront-the-unknown?utm_source=api>`
-   Investigate, then target creature gets +1/+1 until end of turn for each Clue you control. (To investigate, create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
+   Investigate, then target creature gets +1/+1 until end of turn for each Clue you control. (Create a Clue token. It's an artifact with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
 
 :mtgtip:`Crawling Sensation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/f/7f6d5abe-22b5-4ef1-ad74-af3e75e22a07.jpg?1576385029|https://scryfall.com/card/soi/199/crawling-sensation?utm_source=api>`
@@ -1318,7 +1318,7 @@
 :mtgtip:`Root Out<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/f/ffb04258-d6ab-440c-85d2-05a995aeba2c.jpg?1576385201|https://scryfall.com/card/soi/224/root-out?utm_source=api>`
    Destroy target artifact or enchantment.
 
-   Investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
+   Investigate. (Create a Clue token. It's an artifact with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
 
 :mtgtip:`Sage of Ancient Lore<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/4/94c5f7fe-9ca6-4040-bf7c-062ab22e6a02.jpg?1576385212|https://scryfall.com/card/soi/225/sage-of-ancient-lore-werewolf-of-ancient-hunger?utm_source=api>`
@@ -1374,7 +1374,7 @@
 
 
 :mtgtip:`Tireless Tracker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/e/ee8e9928-d9b2-4570-adb8-44b34115decd.jpg?1576385266|https://scryfall.com/card/soi/233/tireless-tracker?utm_source=api>`
-   Whenever a land enters the battlefield under your control, investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
+   Whenever a land enters the battlefield under your control, investigate. (Create a Clue token. It's an artifact with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
    Whenever you sacrifice a Clue, put a +1/+1 counter on Tireless Tracker.
 
@@ -1394,7 +1394,7 @@
 
 
 :mtgtip:`Ulvenwald Mysteries<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/1/911a2b5d-7e2d-4358-8e38-cbae7192e4d4.jpg?1576385285|https://scryfall.com/card/soi/236/ulvenwald-mysteries?utm_source=api>`
-   Whenever a nontoken creature you control dies, investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
+   Whenever a nontoken creature you control dies, investigate. (Create a Clue token. It's an artifact with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
    Whenever you sacrifice a Clue, create a 1/1 white Human Soldier creature token.
 
@@ -1416,7 +1416,7 @@
 :mtgtip:`Weirding Wood<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/8/b8033b16-7a48-4455-9b1b-f62ceb7b9b61.jpg?1576385311|https://scryfall.com/card/soi/240/weirding-wood?utm_source=api>`
    Enchant land
 
-   When Weirding Wood enters the battlefield, investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
+   When Weirding Wood enters the battlefield, investigate. (Create a Clue token. It's an artifact with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
    Enchanted land has "|tap|: Add two mana of any one color."
 
@@ -1540,7 +1540,7 @@
 :mtgtip:`Magnifying Glass<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/7/f7a708d5-f757-4fcf-a167-5b5920c6adeb.jpg?1576385438|https://scryfall.com/card/soi/258/magnifying-glass?utm_source=api>`
    |tap|: Add |colorless|.
 
-   |mana_4|, |tap|: Investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
+   |mana_4|, |tap|: Investigate. (Create a Clue token. It's an artifact with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
 
 :mtgtip:`Murderer's Axe<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/9/696dcb79-4915-424f-ba8f-5363ae3395a6.jpg?1576385443|https://scryfall.com/card/soi/259/murderers-axe?utm_source=api>`
@@ -1594,7 +1594,7 @@
 
 
 :mtgtip:`Tamiyo's Journal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/4/b474378c-5fa8-418f-8d76-23e78003ed18.jpg?1576385483|https://scryfall.com/card/soi/265/tamiyos-journal?utm_source=api>`
-   At the beginning of your upkeep, investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
+   At the beginning of your upkeep, investigate. (Create a Clue token. It's an artifact with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
    |tap|, Sacrifice three Clues: Search your library for a card, put that card into your hand, then shuffle.
 

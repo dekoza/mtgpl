@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2022.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-19 21:39+0200\n"
+"POT-Creation-Date: 2022-06-21 00:16+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -610,7 +610,7 @@ msgid ":mtgtip:`Bygone Bishop<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../SOI.rst:65
-msgid "Whenever you cast a creature spell with mana value 3 or less, investigate. (Create a colorless Clue artifact token with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
+msgid "Whenever you cast a creature spell with mana value 3 or less, investigate. (Create a Clue token. It's an artifact with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
 
 #: ../../SOI.rst:70
@@ -706,13 +706,12 @@ msgid "Tap up to two target creatures."
 msgstr ""
 
 #: ../../SOI.rst:119
-#: ../../SOI.rst:151
 #: ../../SOI.rst:239
 #: ../../SOI.rst:389
 #: ../../SOI.rst:409
 #: ../../SOI.rst:465
 #: ../../SOI.rst:1321
-msgid "Investigate. (Create a colorless Clue artifact token with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
+msgid "Investigate. (Create a Clue token. It's an artifact with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
 
 #: ../../SOI.rst:128
@@ -765,6 +764,10 @@ msgstr ""
 
 #: ../../SOI.rst:149
 msgid "Destroy target creature with power 4 or greater."
+msgstr ""
+
+#: ../../SOI.rst:151
+msgid "Investigate.(Create a Clue token. It's an artifact with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
 
 #: ../../SOI.rst:156
@@ -957,7 +960,7 @@ msgid ":mtgtip:`Thraben Inspector<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../SOI.rst:253
-msgid "When Thraben Inspector enters the battlefield, investigate. (Create a colorless Clue artifact token with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
+msgid "When Thraben Inspector enters the battlefield, investigate. (Create a Clue token. It's an artifact with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
 
 #: ../../SOI.rst:262
@@ -1054,7 +1057,7 @@ msgid ":mtgtip:`Confirm Suspicions<https://c1.scryfall.com/file/scryfall-cards/b
 msgstr ""
 
 #: ../../SOI.rst:309
-msgid "Investigate three times. (To investigate, create a colorless Clue artifact token with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
+msgid "Investigate three times. (To investigate, create a Clue token. It's an artifact with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
 
 #: ../../SOI.rst:314
@@ -1076,7 +1079,7 @@ msgid "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 
 msgstr ""
 
 #: ../../SOI.rst:319
-msgid "Whenever Bearer of Overwhelming Truths deals combat damage to a player, investigate. (Create a colorless Clue artifact token with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
+msgid "Whenever Bearer of Overwhelming Truths deals combat damage to a player, investigate. (Create a Clue token. It's an artifact with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
 
 #: ../../SOI.rst:324
@@ -1092,7 +1095,7 @@ msgid ":mtgtip:`Drownyard Explorers<https://c1.scryfall.com/file/scryfall-cards/
 msgstr ""
 
 #: ../../SOI.rst:327
-msgid "When Drownyard Explorers enters the battlefield, investigate. (Create a colorless Clue artifact token with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
+msgid "When Drownyard Explorers enters the battlefield, investigate. (Create a Clue token. It's an artifact with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
 
 #: ../../SOI.rst:334
@@ -1144,7 +1147,7 @@ msgid ":mtgtip:`Fleeting Memories<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../SOI.rst:355
-msgid "When Fleeting Memories enters the battlefield, investigate. (Create a colorless Clue artifact token with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
+msgid "When Fleeting Memories enters the battlefield, investigate. (Create a Clue token. It's an artifact with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
 
 #: ../../SOI.rst:357
@@ -1306,7 +1309,7 @@ msgid ":mtgtip:`Ongoing Investigation<https://c1.scryfall.com/file/scryfall-card
 msgstr ""
 
 #: ../../SOI.rst:449
-msgid "Whenever one or more creatures you control deal combat damage to a player, investigate. (Create a colorless Clue artifact token with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
+msgid "Whenever one or more creatures you control deal combat damage to a player, investigate. (Create a Clue token. It's an artifact with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
 
 #: ../../SOI.rst:451
@@ -1468,7 +1471,7 @@ msgid ":mtgtip:`Trail of Evidence<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../SOI.rst:549
-msgid "Whenever you cast an instant or sorcery spell, investigate. (Create a colorless Clue artifact token with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
+msgid "Whenever you cast an instant or sorcery spell, investigate. (Create a Clue token. It's an artifact with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
 
 #: ../../SOI.rst:556
@@ -2563,7 +2566,7 @@ msgid ":mtgtip:`Briarbridge Patrol<https://c1.scryfall.com/file/scryfall-cards/b
 msgstr ""
 
 #: ../../SOI.rst:1153
-msgid "Whenever Briarbridge Patrol deals damage to one or more creatures, investigate. (Create a colorless Clue artifact token with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
+msgid "Whenever Briarbridge Patrol deals damage to one or more creatures, investigate. (Create a Clue token. It's an artifact with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
 
 #: ../../SOI.rst:1155
@@ -2575,7 +2578,7 @@ msgid ":mtgtip:`Byway Courier<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../SOI.rst:1159
-msgid "When Byway Courier dies, investigate. (Create a colorless Clue artifact token with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
+msgid "When Byway Courier dies, investigate. (Create a Clue token. It's an artifact with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
 
 #: ../../SOI.rst:1164
@@ -2591,7 +2594,7 @@ msgid ":mtgtip:`Confront the Unknown<https://c1.scryfall.com/file/scryfall-cards
 msgstr ""
 
 #: ../../SOI.rst:1167
-msgid "Investigate, then target creature gets +1/+1 until end of turn for each Clue you control. (To investigate, create a colorless Clue artifact token with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
+msgid "Investigate, then target creature gets +1/+1 until end of turn for each Clue you control. (Create a Clue token. It's an artifact with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
 
 #: ../../SOI.rst:1174
@@ -2977,7 +2980,7 @@ msgid ":mtgtip:`Tireless Tracker<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../SOI.rst:1377
-msgid "Whenever a land enters the battlefield under your control, investigate. (Create a colorless Clue artifact token with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
+msgid "Whenever a land enters the battlefield under your control, investigate. (Create a Clue token. It's an artifact with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
 
 #: ../../SOI.rst:1379
@@ -3013,7 +3016,7 @@ msgid ":mtgtip:`Ulvenwald Mysteries<https://c1.scryfall.com/file/scryfall-cards/
 msgstr ""
 
 #: ../../SOI.rst:1397
-msgid "Whenever a nontoken creature you control dies, investigate. (Create a colorless Clue artifact token with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
+msgid "Whenever a nontoken creature you control dies, investigate. (Create a Clue token. It's an artifact with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
 
 #: ../../SOI.rst:1399
@@ -3057,7 +3060,7 @@ msgid "Enchant land"
 msgstr ""
 
 #: ../../SOI.rst:1419
-msgid "When Weirding Wood enters the battlefield, investigate. (Create a colorless Clue artifact token with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
+msgid "When Weirding Wood enters the battlefield, investigate. (Create a Clue token. It's an artifact with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
 
 #: ../../SOI.rst:1421
@@ -3299,7 +3302,7 @@ msgid "|tap|: Add |colorless|."
 msgstr ""
 
 #: ../../SOI.rst:1543
-msgid "|mana_4|, |tap|: Investigate. (Create a colorless Clue artifact token with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
+msgid "|mana_4|, |tap|: Investigate. (Create a Clue token. It's an artifact with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
 
 #: ../../SOI.rst:1550
@@ -3388,7 +3391,7 @@ msgid ":mtgtip:`Tamiyo's Journal<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../SOI.rst:1597
-msgid "At the beginning of your upkeep, investigate. (Create a colorless Clue artifact token with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
+msgid "At the beginning of your upkeep, investigate. (Create a Clue token. It's an artifact with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
 
 #: ../../SOI.rst:1599

@@ -832,7 +832,7 @@
 
 
 :mtgtip:`Mindcrank<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/1/d13a5ae0-d76a-4430-98c1-47a19e615e2c.jpg?1562881729|https://scryfall.com/card/nph/144/mindcrank?utm_source=api>`
-   Whenever an opponent loses life, that player mills that many cards. (Damage dealt by sources without infect causes loss of life.)
+   Whenever an opponent loses life, that player mills that many cards. (Damage causes loss of life.)
 
 
 :mtgtip:`Mycosynth Wellspring<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/097f7ab8-01fa-4699-943a-32075aecebc2.jpg?1562875396|https://scryfall.com/card/nph/145/mycosynth-wellspring?utm_source=api>`

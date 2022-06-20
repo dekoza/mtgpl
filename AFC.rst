@@ -88,7 +88,7 @@
 
 
 :mtgtip:`Thorough Investigation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/4/a40e6034-aa05-4542-ac12-78e6a76d86e9.jpg?1631584786|https://scryfall.com/card/afc/12/thorough-investigation?utm_source=api>`
-   Whenever you attack, investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
+   Whenever you attack, investigate. (Create a Clue token. It's an artifact with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
    Whenever you sacrifice a Clue, venture into the dungeon. (Enter the first room or advance to the next room.)
 
@@ -1338,7 +1338,7 @@
 
 
 :mtgtip:`Swiftfoot Boots<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/c/bc89db46-0df6-4ce1-b162-233f5fe1b554.jpg?1631589209|https://scryfall.com/card/afc/217/swiftfoot-boots?utm_source=api>`
-   Equipped creature has hexproof and haste.
+   Equipped creature has hexproof and haste. (It can't be the target of spells or abilities your opponents control.)
 
    Equip |mana_1|
 

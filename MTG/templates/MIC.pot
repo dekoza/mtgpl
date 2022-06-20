@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2022.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-19 21:39+0200\n"
+"POT-Creation-Date: 2022-06-21 00:16+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -420,11 +420,11 @@ msgid "At the beginning of your end step, you may sacrifice a Zombie. If you do,
 msgstr ""
 
 #: ../../MIC.rst:22
-msgid ":mtgtip:`Eloise, Nephalia Sleuth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bf81da34-4c2b-4e54-a60b-46ab41f72431.jpg?1637627771|https://scryfall.com/card/mic/3/eloise-nephalia-sleuth?utm_source=api>`"
+msgid ":mtgtip:`Eloise, Nephalia Sleuth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bf81da34-4c2b-4e54-a60b-46ab41f72431.jpg?1655437106|https://scryfall.com/card/mic/3/eloise-nephalia-sleuth?utm_source=api>`"
 msgstr ""
 
 #: ../../MIC.rst:19
-msgid "Whenever another creature you control dies, investigate. (Create a colorless Clue artifact token with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
+msgid "Whenever another creature you control dies, investigate. (Create a Clue token. It's an artifact with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
 
 #: ../../MIC.rst:21
@@ -1699,7 +1699,7 @@ msgid ":mtgtip:`Swiftfoot Boots<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../MIC.rst:691
-msgid "Equipped creature has hexproof and haste."
+msgid "Equipped creature has hexproof and haste. (It can't be the target of spells or abilities your opponents control.)"
 msgstr ""
 
 #: ../../MIC.rst:693

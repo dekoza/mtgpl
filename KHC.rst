@@ -570,7 +570,7 @@
 
 
 :mtgtip:`Swiftfoot Boots<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bf700ec0-1fd3-4971-ab03-51365dc8f4f4.jpg?1631235831|https://scryfall.com/card/khc/105/swiftfoot-boots?utm_source=api>`
-   Equipped creature has hexproof and haste.
+   Equipped creature has hexproof and haste. (It can't be the target of spells or abilities your opponents control.)
 
    Equip |mana_1|
 

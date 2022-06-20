@@ -310,7 +310,7 @@
 :mtgtip:`Doorkeeper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/a/ca527a9e-3a01-4e0b-add4-a6882f1c89d1.jpg?1562853754|https://scryfall.com/card/ima/53/doorkeeper?utm_source=api>`
    Defender
 
-   |mana_2|\ |mana_u|, |tap|: Target player mills X cards, where X is the number of creatures with defender you control.
+   |mana_2|\ |mana_u|, |tap|: Target player mills X cards, where X is the number of creatures you control with defender.
 
 
 :mtgtip:`Elusive Spellfist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/a/aac94901-f4ec-4888-82ef-87fd2b20cf11.jpg?1562852551|https://scryfall.com/card/ima/54/elusive-spellfist?utm_source=api>`
@@ -704,7 +704,7 @@
 
 
 :mtgtip:`Furnace Whelp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/2/1267597a-bbfe-4fb7-91b7-7fee371f0dfd.jpg?1562846223|https://scryfall.com/card/ima/129/furnace-whelp?utm_source=api>`
-   Flying (This creature can't be blocked except by creatures with flying or reach.)
+   Flying
 
    |mana_r|: Furnace Whelp gets +1/+0 until end of turn.
 
@@ -846,7 +846,7 @@
 :mtgtip:`Vent Sentinel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/b/6b6f563e-4f94-4caf-83b9-bfc64e18bc9c.jpg?1562849931|https://scryfall.com/card/ima/153/vent-sentinel?utm_source=api>`
    Defender
 
-   |mana_1|\ |mana_r|, |tap|: Vent Sentinel deals damage to target player or planeswalker equal to the number of creatures with defender you control.
+   |mana_1|\ |mana_r|, |tap|: Vent Sentinel deals damage to target player or planeswalker equal to the number of creatures you control with defender.
 
 
 :mtgtip:`Aerial Predation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/b/3b405858-83eb-4939-b86d-4ba190fca048.jpg?1562847918|https://scryfall.com/card/ima/154/aerial-predation?utm_source=api>`
@@ -984,7 +984,7 @@
 :mtgtip:`Overgrown Battlement<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/4/c43ea5d8-d7b7-4518-b37c-32668e4fd5d4.jpg?1562853691|https://scryfall.com/card/ima/180/overgrown-battlement?utm_source=api>`
    Defender
 
-   |tap|: Add |mana_g| for each creature with defender you control.
+   |tap|: Add |mana_g| for each creature you control with defender.
 
 
 :mtgtip:`Phantom Tiger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/72f8a506-04e4-4f6f-9f81-f31db562f7c6.jpg?1562850142|https://scryfall.com/card/ima/181/phantom-tiger?utm_source=api>`
@@ -1226,7 +1226,7 @@
 
 
 :mtgtip:`Mindcrank<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/6/2679a847-7196-4a45-8610-229aa2e124d6.jpg?1562846551|https://scryfall.com/card/ima/220/mindcrank?utm_source=api>`
-   Whenever an opponent loses life, that player mills that many cards. (Damage dealt by sources without infect causes loss of life.)
+   Whenever an opponent loses life, that player mills that many cards. (Damage causes loss of life.)
 
 
 :mtgtip:`Mishra's Bauble<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/d/8dbe32c7-180f-4b9e-b260-0ff1d9017e28.jpg?1562851517|https://scryfall.com/card/ima/221/mishras-bauble?utm_source=api>`

@@ -332,7 +332,7 @@
 
 
 :mtgtip:`Furnace Whelp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/1/a1726eba-c471-40bd-a487-40d910b75d64.jpg?1562878851|https://scryfall.com/card/5dn/65/furnace-whelp?utm_source=api>`
-   Flying (This creature can't be blocked except by creatures with flying or reach.)
+   Flying
 
    |mana_r|: Furnace Whelp gets +1/+0 until end of turn.
 

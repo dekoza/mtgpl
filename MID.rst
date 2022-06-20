@@ -150,7 +150,7 @@
 
 
 :mtgtip:`Fateful Absence<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/c/eca8d6f8-c6f1-437c-99e2-4281eae14a6f.jpg?1634346819|https://scryfall.com/card/mid/18/fateful-absence?utm_source=api>`
-   Destroy target creature or planeswalker. Its controller investigates. (They create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
+   Destroy target creature or planeswalker. Its controller investigates. (Create a Clue token. It's an artifact with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
 
 :mtgtip:`Flare of Faith<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/b/1b4354c6-ea21-46c0-93c4-744dbacbfcf4.jpg?1634346842|https://scryfall.com/card/mid/19/flare-of-faith?utm_source=api>`
@@ -540,7 +540,7 @@
 
 
 :mtgtip:`Secrets of the Key<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/b/9b022ba8-07b6-4993-99c8-89c6dcb19e60.jpg?1634349228|https://scryfall.com/card/mid/73/secrets-of-the-key?utm_source=api>`
-   Investigate. If this spell was cast from a graveyard, investigate twice instead. (To investigate, create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
+   Investigate. If this spell was cast from a graveyard, investigate twice instead. (Create a Clue token. It's an artifact with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
    Flashback |mana_3|\ |mana_u|
 
@@ -732,7 +732,7 @@
 
 
 :mtgtip:`Foul Play<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/7/87e4b75c-e993-4983-8933-977be314bba6.jpg?1634349812|https://scryfall.com/card/mid/101/foul-play?utm_source=api>`
-   Destroy target creature with power 2 or less. Investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
+   Destroy target creature with power 2 or less. Investigate. (Create a Clue token. It's an artifact with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
 
 :mtgtip:`Ghoulish Procession<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/6/363bd6a6-e8e4-4626-a43c-0b77339dd28b.jpg?1634349836|https://scryfall.com/card/mid/102/ghoulish-procession?utm_source=api>`
@@ -1238,7 +1238,7 @@
 :mtgtip:`Briarbridge Tracker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/2/e215a7bd-112f-4228-a99e-5a8cb4be5cee.jpg?1636223950|https://scryfall.com/card/mid/172/briarbridge-tracker?utm_source=api>`
    Vigilance
 
-   When Briarbridge Tracker enters the battlefield, investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
+   When Briarbridge Tracker enters the battlefield, investigate. (Create a Clue token. It's an artifact with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
    As long as you control a token, Briarbridge Tracker gets +2/+0.
 
@@ -1564,7 +1564,7 @@
 :mtgtip:`Dennick, Pious Apparition<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/3/5/35cf2d72-931f-47b1-a1b4-916f0383551a.jpg?1636683976|https://scryfall.com/card/mid/217/dennick-pious-apprentice-dennick-pious-apparition?utm_source=api>`
    Flying
 
-   Whenever one or more creature cards are put into graveyards from anywhere, investigate. This ability triggers only once each turn. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
+   Whenever one or more creature cards are put into graveyards from anywhere, investigate. This ability triggers only once each turn. (Create a Clue token. It's an artifact with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
    If Dennick, Pious Apparition would be put into a graveyard from anywhere, exile it instead.
 

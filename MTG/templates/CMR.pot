@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2022.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-19 21:39+0200\n"
+"POT-Creation-Date: 2022-06-21 00:16+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3391,7 +3391,7 @@ msgid ":mtgtip:`Three Visits<https://c1.scryfall.com/file/scryfall-cards/border_
 msgstr ""
 
 #: ../../CMR.rst:1479
-msgid "Search your library for a Forest card, put that card onto the battlefield, then shuffle."
+msgid "Search your library for a Forest card, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../CMR.rst:1486
@@ -5526,7 +5526,7 @@ msgid ":mtgtip:`Swiftfoot Boots<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../CMR.rst:2669
-msgid "Equipped creature has hexproof and haste."
+msgid "Equipped creature has hexproof and haste. (It can't be the target of spells or abilities your opponents control.)"
 msgstr ""
 
 #: ../../CMR.rst:2678

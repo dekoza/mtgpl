@@ -2033,7 +2033,7 @@
    When Pilgrim's Eye enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 
 
-:mtgtip:`Prized Statue<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/8/58a49829-c354-4823-8cc1-a159fc46c0d7.jpg?1653930958|https://scryfall.com/card/clb/334/prized-statue?utm_source=api>`
+:mtgtip:`Prized Statue<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/8/58a49829-c354-4823-8cc1-a159fc46c0d7.jpg?1655630865|https://scryfall.com/card/clb/334/prized-statue?utm_source=api>`
    When Prized Statue enters the battlefield or is put into a graveyard from the battlefield, create a Treasure token. (It's an artifact with "|tap|, Sacrifice this artifact: Add one mana of any color.")
 
 
@@ -3611,7 +3611,7 @@
    Whenever an opponent loses life, that player mills that many cards. (Damage causes loss of life.)
 
 
-:mtgtip:`Orzhov Signet<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/d/ddb325f3-3c39-410b-b7a6-1615a7c4fe54.jpg?1654120371|https://scryfall.com/card/clb/867/orzhov-signet?utm_source=api>`
+:mtgtip:`Orzhov Signet<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/d/ddb325f3-3c39-410b-b7a6-1615a7c4fe54.jpg?1655684759|https://scryfall.com/card/clb/867/orzhov-signet?utm_source=api>`
    |mana_1|, |tap|: Add |mana_w|\ |mana_b|.
 
 

@@ -1587,7 +1587,7 @@
    Whenever you attack, you may pay |mana_2|. If you do, target creature can't be blocked this turn.
 
 
-:mtgtip:`Minsc, Beloved Ranger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/72405607-a60e-42af-b523-64008d3f89b9.jpg?1627709088|https://scryfall.com/card/afr/227/minsc-beloved-ranger?utm_source=api>`
+:mtgtip:`Minsc, Beloved Ranger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/72405607-a60e-42af-b523-64008d3f89b9.jpg?1655249958|https://scryfall.com/card/afr/227/minsc-beloved-ranger?utm_source=api>`
    When Minsc, Beloved Ranger enters the battlefield, create Boo, a legendary 1/1 red Hamster creature token with trample and haste.
 
    |mana_x|: Until end of turn, target creature you control has base power and toughness X/X and becomes a Giant in addition to its other types. Activate only as a sorcery.

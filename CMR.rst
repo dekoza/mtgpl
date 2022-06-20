@@ -1476,7 +1476,7 @@
 
 
 :mtgtip:`Three Visits<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bd9307ec-987b-4bbf-a679-cfaabe283a80.jpg?1608910969|https://scryfall.com/card/cmr/261/three-visits?utm_source=api>`
-   Search your library for a Forest card, put that card onto the battlefield, then shuffle.
+   Search your library for a Forest card, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Vow of Wildness<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/764fa7f1-b92b-42cc-983e-e0b5457369a7.jpg?1608910977|https://scryfall.com/card/cmr/262/vow-of-wildness?utm_source=api>`
@@ -2666,7 +2666,7 @@
 
 
 :mtgtip:`Swiftfoot Boots<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/5/b5c45f3d-cf12-4db7-b161-9539ed969ca7.jpg?1608917917|https://scryfall.com/card/cmr/474/swiftfoot-boots?utm_source=api>`
-   Equipped creature has hexproof and haste.
+   Equipped creature has hexproof and haste. (It can't be the target of spells or abilities your opponents control.)
 
    Equip |mana_1|
 

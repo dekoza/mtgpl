@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2022.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-19 21:39+0200\n"
+"POT-Creation-Date: 2022-06-21 00:16+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1014,7 +1014,7 @@ msgid ":mtgtip:`Thraben Inspector<https://c1.scryfall.com/file/scryfall-cards/bo
 msgstr ""
 
 #: ../../2XM.rst:195
-msgid "When Thraben Inspector enters the battlefield, investigate. (Create a colorless Clue artifact token with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
+msgid "When Thraben Inspector enters the battlefield, investigate. (Create a Clue token. It's an artifact with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
 
 #: ../../2XM.rst:202
@@ -2462,7 +2462,7 @@ msgid ":mtgtip:`Ulvenwald Mysteries<https://c1.scryfall.com/file/scryfall-cards/
 msgstr ""
 
 #: ../../2XM.rst:951
-msgid "Whenever a nontoken creature you control dies, investigate. (Create a colorless Clue artifact token with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
+msgid "Whenever a nontoken creature you control dies, investigate. (Create a Clue token. It's an artifact with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
 
 #: ../../2XM.rst:953
@@ -3410,7 +3410,7 @@ msgid "|tap|: Add |colorless|."
 msgstr ""
 
 #: ../../2XM.rst:1455
-msgid "|mana_4|, |tap|: Investigate. (Create a colorless Clue artifact token with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
+msgid "|mana_4|, |tap|: Investigate. (Create a Clue token. It's an artifact with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
 
 #: ../../2XM.rst:1462

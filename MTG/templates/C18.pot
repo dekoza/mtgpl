@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2022.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-19 21:39+0200\n"
+"POT-Creation-Date: 2022-06-21 00:16+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2928,7 +2928,7 @@ msgid ":mtgtip:`Magnifying Glass<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../C18.rst:1227
-msgid "|mana_4|, |tap|: Investigate. (Create a colorless Clue artifact token with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
+msgid "|mana_4|, |tap|: Investigate. (Create a Clue token. It's an artifact with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
 
 #: ../../C18.rst:1234
@@ -3092,7 +3092,7 @@ msgid ":mtgtip:`Swiftfoot Boots<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../C18.rst:1323
-msgid "Equipped creature has hexproof and haste."
+msgid "Equipped creature has hexproof and haste. (It can't be the target of spells or abilities your opponents control.)"
 msgstr ""
 
 #: ../../C18.rst:1325

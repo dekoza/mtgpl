@@ -919,7 +919,7 @@
    Whenever Blood Artist or another creature dies, target player loses 1 life and you gain 1 life.
 
 
-:mtgtip:`A-Blood Artist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/b/ab76e956-5d6c-49b8-991c-c39d5b18b876.jpg?1649276596|https://scryfall.com/card/jmp/A-206/a-blood-artist?utm_source=api>`
+:mtgtip:`A-Blood Artist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/b/ab76e956-5d6c-49b8-991c-c39d5b18b876.jpg?1655196413|https://scryfall.com/card/jmp/A-206/a-blood-artist?utm_source=api>`
    Whenever Blood Artist or another creature dies, target opponent loses 1 life and you gain 1 life.
 
 
@@ -1492,7 +1492,7 @@
 
 
 :mtgtip:`Furnace Whelp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/c/2ce76e86-39f3-4ebf-b550-88ea7f23a91f.jpg?1601077737|https://scryfall.com/card/jmp/323/furnace-whelp?utm_source=api>`
-   Flying (This creature can't be blocked except by creatures with flying or reach.)
+   Flying
 
    |mana_r|: Furnace Whelp gets +1/+0 until end of turn.
 
@@ -1960,7 +1960,7 @@
 :mtgtip:`Overgrown Battlement<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/0/50974264-b509-4df9-802b-623805a4cbee.jpg?1601079869|https://scryfall.com/card/jmp/417/overgrown-battlement?utm_source=api>`
    Defender
 
-   |tap|: Add |mana_g| for each creature with defender you control.
+   |tap|: Add |mana_g| for each creature you control with defender.
 
 
 :mtgtip:`Penumbra Bobcat<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/9/496cce86-ff61-4d24-8d37-8c27acaff21c.jpg?1601079888|https://scryfall.com/card/jmp/418/penumbra-bobcat?utm_source=api>`

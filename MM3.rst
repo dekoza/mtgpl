@@ -522,7 +522,7 @@
 :mtgtip:`Mizzium Mortars<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/0/708557e2-c1b4-4e45-b568-17763b7a9924.jpg?1593813504|https://scryfall.com/card/mm3/101/mizzium-mortars?utm_source=api>`
    Mizzium Mortars deals 4 damage to target creature you don't control.
 
-   Overload |mana_3|\ |mana_r|\ |mana_r|\ |mana_r| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of "target" with "each.")
+   Overload |mana_3|\ |mana_r|\ |mana_r|\ |mana_r| (You may cast this spell for its overload cost. If you do, change "target" in its text to "each.")
 
 
 :mtgtip:`Mogg Flunkies<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/c/dcc21927-efbf-4e3b-8df1-d901962c4b71.jpg?1593813513|https://scryfall.com/card/mm3/102/mogg-flunkies?utm_source=api>`

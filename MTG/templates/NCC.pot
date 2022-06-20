@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2022.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-19 21:39+0200\n"
+"POT-Creation-Date: 2022-06-21 00:16+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -714,7 +714,7 @@ msgid ":mtgtip:`Henzie \"Toolbox\" Torre<https://c1.scryfall.com/file/scryfall-c
 msgstr ""
 
 #: ../../NCC.rst:15
-msgid "Each creature spell you cast with mana value 4 or greater has blitz. The blitz cost is equal to its mana cost. (You may choose to cast that spell for its blitz cost. If you do, it gains haste and \"When this creature dies, draw a card.\" Sacrifice it at the beginning of the next end step.)"
+msgid "Each creature spell you cast with mana value 4 or greater has blitz. The blitz cost is equal to its mana cost. (You may choose to cast that spell for its blitz cost. If you do it gains haste and \"When this creature dies, draw a card.\" Sacrifice it at the beginning of the next end step.)"
 msgstr ""
 
 #: ../../NCC.rst:17
@@ -974,7 +974,7 @@ msgid ":mtgtip:`Change of Plans<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../NCC.rst:143
-msgid "Each of X target creatures you control connive. You may have any number of them phase out. (To have a creature connive, draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature. Treat phased out permanents and anything attached to them as though they don't exist until their controller's next turn.)"
+msgid "Each of X target creatures you control connive. You may have any number of them phase out. (To have a creature connive, draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature. Treat phased-out permanents and anything attached to them as though they don't exist until their controller's next turn.)"
 msgstr ""
 
 #: ../../NCC.rst:148
@@ -2288,7 +2288,7 @@ msgid "Whenever you draw a card, you may pay |mana_1|. If you do, put a +1/+1 co
 msgstr ""
 
 #: ../../NCC.rst:822
-msgid ":mtgtip:`Ponder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/4/44dcfc0c-b23d-48be-bf3a-a6fc6806c5e1.jpg?1650410794|https://scryfall.com/card/ncc/229/ponder?utm_source=api>`"
+msgid ":mtgtip:`Ponder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/4/44dcfc0c-b23d-48be-bf3a-a6fc6806c5e1.jpg?1655075626|https://scryfall.com/card/ncc/229/ponder?utm_source=api>`"
 msgstr ""
 
 #: ../../NCC.rst:819
@@ -3045,7 +3045,7 @@ msgid "Defender"
 msgstr ""
 
 #: ../../NCC.rst:1221
-msgid "|tap|: Add |mana_g| for each creature with defender you control."
+msgid "|tap|: Add |mana_g| for each creature you control with defender."
 msgstr ""
 
 #: ../../NCC.rst:1226
@@ -3860,7 +3860,7 @@ msgid ":mtgtip:`Swiftfoot Boots<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../NCC.rst:1657
-msgid "Equipped creature has hexproof and haste."
+msgid "Equipped creature has hexproof and haste. (It can't be the target of spells or abilities your opponents control.)"
 msgstr ""
 
 #: ../../NCC.rst:1659

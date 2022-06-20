@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2022.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-19 21:39+0200\n"
+"POT-Creation-Date: 2022-06-21 00:16+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -861,7 +861,7 @@ msgid "Defender"
 msgstr ""
 
 #: ../../RTR.rst:183
-msgid "|mana_2|\\ |mana_u|, |tap|: Target player mills X cards, where X is the number of creatures with defender you control."
+msgid "|mana_2|\\ |mana_u|, |tap|: Target player mills X cards, where X is the number of creatures you control with defender."
 msgstr ""
 
 #: ../../RTR.rst:190
@@ -1439,7 +1439,7 @@ msgid "Mizzium Mortars deals 4 damage to target creature you don't control."
 msgstr ""
 
 #: ../../RTR.rst:517
-msgid "Overload |mana_3|\\ |mana_r|\\ |mana_r|\\ |mana_r| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")"
+msgid "Overload |mana_3|\\ |mana_r|\\ |mana_r|\\ |mana_r| (You may cast this spell for its overload cost. If you do, change \"target\" in its text to \"each.\")"
 msgstr ""
 
 #: ../../RTR.rst:524

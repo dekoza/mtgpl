@@ -1605,7 +1605,7 @@
    Cycling |mana_2| (|mana_2|, Discard this card: Draw a card.)
 
 
-:mtgtip:`Serra's Sanctum<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/7/f7a18130-dbaa-4657-a885-3a96a985935a.jpg?1562947303|https://scryfall.com/card/usg/325/serras-sanctum?utm_source=api>`
+:mtgtip:`Serra's Sanctum<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/7/f7a18130-dbaa-4657-a885-3a96a985935a.jpg?1653966911|https://scryfall.com/card/usg/325/serras-sanctum?utm_source=api>`
    |tap|: Add |mana_w| for each enchantment you control.
 
 

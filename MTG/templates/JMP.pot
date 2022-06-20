@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2022.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-19 21:39+0200\n"
+"POT-Creation-Date: 2022-06-21 00:16+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -606,6 +606,7 @@ msgstr ""
 #: ../../JMP.rst:1261
 #: ../../JMP.rst:1305
 #: ../../JMP.rst:1435
+#: ../../JMP.rst:1495
 #: ../../JMP.rst:1575
 #: ../../JMP.rst:1665
 #: ../../JMP.rst:2157
@@ -2223,7 +2224,7 @@ msgid "Whenever Blood Artist or another creature dies, target player loses 1 lif
 msgstr ""
 
 #: ../../JMP.rst:924
-msgid ":mtgtip:`A-Blood Artist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/b/ab76e956-5d6c-49b8-991c-c39d5b18b876.jpg?1649276596|https://scryfall.com/card/jmp/A-206/a-blood-artist?utm_source=api>`"
+msgid ":mtgtip:`A-Blood Artist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/b/ab76e956-5d6c-49b8-991c-c39d5b18b876.jpg?1655196413|https://scryfall.com/card/jmp/A-206/a-blood-artist?utm_source=api>`"
 msgstr ""
 
 #: ../../JMP.rst:923
@@ -2542,7 +2543,6 @@ msgstr ""
 
 #: ../../JMP.rst:1097
 #: ../../JMP.rst:1267
-#: ../../JMP.rst:1495
 msgid "Flying (This creature can't be blocked except by creatures with flying or reach.)"
 msgstr ""
 
@@ -4115,7 +4115,7 @@ msgid ":mtgtip:`Overgrown Battlement<https://c1.scryfall.com/file/scryfall-cards
 msgstr ""
 
 #: ../../JMP.rst:1963
-msgid "|tap|: Add |mana_g| for each creature with defender you control."
+msgid "|tap|: Add |mana_g| for each creature you control with defender."
 msgstr ""
 
 #: ../../JMP.rst:1968

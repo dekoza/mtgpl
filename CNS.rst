@@ -850,7 +850,7 @@
 :mtgtip:`Vent Sentinel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/f/ef91f2f1-488f-4d43-86de-0797e5e01bb7.jpg?1562867358|https://scryfall.com/card/cns/156/vent-sentinel?utm_source=api>`
    Defender
 
-   |mana_1|\ |mana_r|, |tap|: Vent Sentinel deals damage to target player or planeswalker equal to the number of creatures with defender you control.
+   |mana_1|\ |mana_r|, |tap|: Vent Sentinel deals damage to target player or planeswalker equal to the number of creatures you control with defender.
 
 
 :mtgtip:`Volcanic Fallout<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/c/0c123961-7107-4f29-97ad-48bd8db7b24d.jpg?1592485190|https://scryfall.com/card/cns/157/volcanic-fallout?utm_source=api>`

@@ -1387,7 +1387,7 @@
    When Chrome Cat enters the battlefield, scry 1.
 
 
-:mtgtip:`Getaway Car<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/a/8a6d2fa3-3f5a-4b6f-8b7e-6a8bf65c07ad.jpg?1649356138|https://scryfall.com/card/snc/237/getaway-car?utm_source=api>`
+:mtgtip:`Getaway Car<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/a/8a6d2fa3-3f5a-4b6f-8b7e-6a8bf65c07ad.jpg?1654811193|https://scryfall.com/card/snc/237/getaway-car?utm_source=api>`
    Haste
 
    Whenever Getaway Car attacks or blocks, return up to one target creature that crewed it this turn to its owner's hand.

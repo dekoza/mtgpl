@@ -180,7 +180,7 @@
 :mtgtip:`Doorkeeper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/c/5c31221f-3753-4d5c-905a-6b558ab648ae.jpg?1562786892|https://scryfall.com/card/rtr/37/doorkeeper?utm_source=api>`
    Defender
 
-   |mana_2|\ |mana_u|, |tap|: Target player mills X cards, where X is the number of creatures with defender you control.
+   |mana_2|\ |mana_u|, |tap|: Target player mills X cards, where X is the number of creatures you control with defender.
 
 
 :mtgtip:`Downsize<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/8/e8408a52-d34a-4e03-9312-700dec75d844.jpg?1562794824|https://scryfall.com/card/rtr/38/downsize?utm_source=api>`
@@ -514,7 +514,7 @@
 :mtgtip:`Mizzium Mortars<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/4/d4ded88d-2688-4f5e-a8b2-16216cf9c792.jpg?1562793745|https://scryfall.com/card/rtr/101/mizzium-mortars?utm_source=api>`
    Mizzium Mortars deals 4 damage to target creature you don't control.
 
-   Overload |mana_3|\ |mana_r|\ |mana_r|\ |mana_r| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of "target" with "each.")
+   Overload |mana_3|\ |mana_r|\ |mana_r|\ |mana_r| (You may cast this spell for its overload cost. If you do, change "target" in its text to "each.")
 
 
 :mtgtip:`Pursuit of Flight<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/7/37a6290c-a0a8-4032-972b-84a7eef04dae.jpg?1562784875|https://scryfall.com/card/rtr/102/pursuit-of-flight?utm_source=api>`

@@ -1535,7 +1535,7 @@
    |mana_1|, |tap|: Add one mana of any color.
 
 
-:mtgtip:`Sarpadian Empires, Vol. VII<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/3/b37a6cf7-f239-4bca-b4c3-a48932ef56b5.jpg?1562932852|https://scryfall.com/card/tsp/263/sarpadian-empires-vol-vii?utm_source=api>`
+:mtgtip:`Sarpadian Empires, Vol. VII<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/3/b37a6cf7-f239-4bca-b4c3-a48932ef56b5.jpg?1653984963|https://scryfall.com/card/tsp/263/sarpadian-empires-vol-vii?utm_source=api>`
    As Sarpadian Empires, Vol. VII enters the battlefield, choose white Citizen, blue Camarid, black Thrull, red Goblin, or green Saproling.
 
    |mana_3|, |tap|: Create a 1/1 creature token of the chosen color and type.

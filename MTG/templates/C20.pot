@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2022.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-19 21:39+0200\n"
+"POT-Creation-Date: 2022-06-21 00:16+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1003,6 +1003,7 @@ msgstr ""
 
 #: ../../C20.rst:145
 #: ../../C20.rst:855
+#: ../../C20.rst:1139
 msgid "Deathtouch"
 msgstr ""
 
@@ -2309,7 +2310,7 @@ msgid "|mana_3|\\ |mana_b|\\ |mana_b|, Exile Soul of Innistrad from your graveya
 msgstr ""
 
 #: ../../C20.rst:866
-msgid ":mtgtip:`Soulflayer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/2/e249a406-6783-4502-952a-27ec744a38b3.jpg?1591563413|https://scryfall.com/card/c20/138/soulflayer?utm_source=api>`"
+msgid ":mtgtip:`Soulflayer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/2/e249a406-6783-4502-952a-27ec744a38b3.jpg?1654667251|https://scryfall.com/card/c20/138/soulflayer?utm_source=api>`"
 msgstr ""
 
 #: ../../C20.rst:865
@@ -2583,7 +2584,6 @@ msgstr ""
 
 #: ../../C20.rst:1005
 #: ../../C20.rst:1069
-#: ../../C20.rst:1139
 msgid "Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)"
 msgstr ""
 
@@ -2759,7 +2759,7 @@ msgid "Destroy target artifact or enchantment."
 msgstr ""
 
 #: ../../C20.rst:1106
-msgid ":mtgtip:`Majestic Myriarch<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/5/457d66b3-f059-4b2f-91b0-96568e1b17f5.jpg?1591320952|https://scryfall.com/card/c20/182/majestic-myriarch?utm_source=api>`"
+msgid ":mtgtip:`Majestic Myriarch<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/5/457d66b3-f059-4b2f-91b0-96568e1b17f5.jpg?1654667570|https://scryfall.com/card/c20/182/majestic-myriarch?utm_source=api>`"
 msgstr ""
 
 #: ../../C20.rst:1103
@@ -3543,7 +3543,7 @@ msgid ":mtgtip:`Swiftfoot Boots<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../C20.rst:1527
-msgid "Equipped creature has hexproof and haste."
+msgid "Equipped creature has hexproof and haste. (It can't be the target of spells or abilities your opponents control.)"
 msgstr ""
 
 #: ../../C20.rst:1536
