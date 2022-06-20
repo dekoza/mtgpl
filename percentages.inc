@@ -1,7 +1,8 @@
 
 .. |CLB_percent| image:: images/pie50.png        
 
-.. |M12_percent| image:: images/pie95.png        
+.. |M12_percent| image:: images/done.png        
+   :alt: Tłumaczenie zakończone
 
 .. |THB_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
