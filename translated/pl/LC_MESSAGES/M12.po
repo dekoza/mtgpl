@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-06-19 21:39+0200\n"
-"PO-Revision-Date: 2022-05-15 00:19+0000\n"
+"PO-Revision-Date: 2022-06-20 16:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/m12/pl/>\n"
 "Language: pl\n"
@@ -214,10 +214,8 @@ msgid "{(g/u)}"
 msgstr "{(g/u)}"
 
 #: ../../symbols.rst:99
-#, fuzzy
-#| msgid "{(g/u)}"
 msgid "{(g/u/p)}"
-msgstr "{(g/u)}"
+msgstr "{(g/u/p)}"
 
 #: ../../symbols.rst:101
 msgid "{S}"
