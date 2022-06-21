@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-19 21:39+0200\n"
+"POT-Creation-Date: 2022-06-21 00:16+0200\n"
 "PO-Revision-Date: 2022-04-17 16:43+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/m13/pl/>\n"
@@ -336,8 +336,8 @@ msgstr ""
 #: ../../M13.rst:37 ../../M13.rst:43 ../../M13.rst:89 ../../M13.rst:189
 #: ../../M13.rst:201 ../../M13.rst:219 ../../M13.rst:265 ../../M13.rst:297
 #: ../../M13.rst:347 ../../M13.rst:401 ../../M13.rst:409 ../../M13.rst:517
-#: ../../M13.rst:549 ../../M13.rst:639 ../../M13.rst:653 ../../M13.rst:727
-#: ../../M13.rst:739
+#: ../../M13.rst:549 ../../M13.rst:639 ../../M13.rst:653 ../../M13.rst:663
+#: ../../M13.rst:727 ../../M13.rst:739
 msgid "Flying"
 msgstr "Latanie"
 
@@ -1326,7 +1326,7 @@ msgid ""
 "scryfall.com/card/m13/79/welkin-tern?utm_source=api>`"
 msgstr ""
 
-#: ../../M13.rst:395 ../../M13.rst:663
+#: ../../M13.rst:395
 msgid ""
 "Flying (This creature can't be blocked except by creatures with flying or "
 "reach.)"

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-19 21:39+0200\n"
+"POT-Creation-Date: 2022-06-21 00:16+0200\n"
 "PO-Revision-Date: 2022-05-29 17:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c20/pl/>\n"
@@ -733,7 +733,7 @@ msgid ""
 "https://scryfall.com/card/c20/20/zaxara-the-exemplary?utm_source=api>`"
 msgstr ""
 
-#: ../../C20.rst:145 ../../C20.rst:855
+#: ../../C20.rst:145 ../../C20.rst:855 ../../C20.rst:1139
 msgid "Deathtouch"
 msgstr "Dotyk śmierci"
 
@@ -2989,7 +2989,7 @@ msgstr ""
 #: ../../C20.rst:866
 msgid ""
 ":mtgtip:`Soulflayer<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/e/2/e249a406-6783-4502-952a-27ec744a38b3.jpg?1591563413|https://"
+"front/e/2/e249a406-6783-4502-952a-27ec744a38b3.jpg?1654667251|https://"
 "scryfall.com/card/c20/138/soulflayer?utm_source=api>`"
 msgstr ""
 
@@ -3476,7 +3476,7 @@ msgid ""
 "https://scryfall.com/card/c20/165/acidic-slime?utm_source=api>`"
 msgstr ""
 
-#: ../../C20.rst:1005 ../../C20.rst:1069 ../../C20.rst:1139
+#: ../../C20.rst:1005 ../../C20.rst:1069
 msgid ""
 "Deathtouch (Any amount of damage this deals to a creature is enough to "
 "destroy it.)"
@@ -3766,7 +3766,7 @@ msgstr "Zniszcz wskazany artefakt lub urok."
 #: ../../C20.rst:1106
 msgid ""
 ":mtgtip:`Majestic Myriarch<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/4/5/457d66b3-f059-4b2f-91b0-96568e1b17f5.jpg?1591320952|"
+"border_crop/front/4/5/457d66b3-f059-4b2f-91b0-96568e1b17f5.jpg?1654667570|"
 "https://scryfall.com/card/c20/182/majestic-myriarch?utm_source=api>`"
 msgstr ""
 
@@ -5065,8 +5065,16 @@ msgid ""
 msgstr ""
 
 #: ../../C20.rst:1527
-msgid "Equipped creature has hexproof and haste."
-msgstr "Wyposażony stwór ma antyklątwę i pośpiech."
+#, fuzzy
+#| msgid ""
+#| "Equipped creature has haste and shroud. (It can't be the target of spells "
+#| "or abilities.)"
+msgid ""
+"Equipped creature has hexproof and haste. (It can't be the target of spells "
+"or abilities your opponents control.)"
+msgstr ""
+"Wyposażony stwór ma pośpiech i antymagię. (Nie może być wskazywany przez "
+"czary lub zdolności.)"
 
 #: ../../C20.rst:1536
 msgid ""
@@ -6193,3 +6201,6 @@ msgstr ""
 #: ../../C20.rst:1995
 msgid "|tap|: Add |mana_g| or |mana_u|. Yavimaya Coast deals 1 damage to you."
 msgstr "|tap|: Weź |mana_g| lub |mana_u|. Ten ląd zadaje tobie 1 obrażenie."
+
+#~ msgid "Equipped creature has hexproof and haste."
+#~ msgstr "Wyposażony stwór ma antyklątwę i pośpiech."

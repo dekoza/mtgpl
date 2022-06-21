@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-19 21:39+0200\n"
+"POT-Creation-Date: 2022-06-21 00:16+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -1678,8 +1678,7 @@ msgstr ""
 #: ../../MM3.rst:525
 msgid ""
 "Overload |mana_3|\\ |mana_r|\\ |mana_r|\\ |mana_r| (You may cast this spell "
-"for its overload cost. If you do, change its text by replacing all instances "
-"of \"target\" with \"each.\")"
+"for its overload cost. If you do, change \"target\" in its text to \"each.\")"
 msgstr ""
 
 #: ../../MM3.rst:530

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-29 18:35+0200\n"
+"POT-Creation-Date: 2022-06-21 00:16+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -314,8 +314,8 @@ msgstr ""
 #: ../../JMP.rst:863 ../../JMP.rst:913 ../../JMP.rst:941 ../../JMP.rst:967
 #: ../../JMP.rst:995 ../../JMP.rst:1053 ../../JMP.rst:1059 ../../JMP.rst:1179
 #: ../../JMP.rst:1197 ../../JMP.rst:1215 ../../JMP.rst:1249 ../../JMP.rst:1261
-#: ../../JMP.rst:1305 ../../JMP.rst:1435 ../../JMP.rst:1575 ../../JMP.rst:1665
-#: ../../JMP.rst:2157
+#: ../../JMP.rst:1305 ../../JMP.rst:1435 ../../JMP.rst:1495 ../../JMP.rst:1575
+#: ../../JMP.rst:1665 ../../JMP.rst:2157
 msgid "Flying"
 msgstr ""
 
@@ -2645,7 +2645,7 @@ msgstr ""
 #: ../../JMP.rst:924
 msgid ""
 ":mtgtip:`A-Blood Artist<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/a/b/ab76e956-5d6c-49b8-991c-c39d5b18b876.jpg?1649276596|"
+"border_crop/front/a/b/ab76e956-5d6c-49b8-991c-c39d5b18b876.jpg?1655196413|"
 "https://scryfall.com/card/jmp/A-206/a-blood-artist?utm_source=api>`"
 msgstr ""
 
@@ -3121,7 +3121,7 @@ msgid ""
 "scryfall.com/card/jmp/241/gravewaker?utm_source=api>`"
 msgstr ""
 
-#: ../../JMP.rst:1097 ../../JMP.rst:1267 ../../JMP.rst:1495
+#: ../../JMP.rst:1097 ../../JMP.rst:1267
 msgid ""
 "Flying (This creature can't be blocked except by creatures with flying or "
 "reach.)"
@@ -5469,7 +5469,7 @@ msgid ""
 msgstr ""
 
 #: ../../JMP.rst:1963
-msgid "|tap|: Add |mana_g| for each creature with defender you control."
+msgid "|tap|: Add |mana_g| for each creature you control with defender."
 msgstr ""
 
 #: ../../JMP.rst:1968

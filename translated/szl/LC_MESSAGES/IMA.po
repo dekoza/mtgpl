@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-19 21:39+0200\n"
+"POT-Creation-Date: 2022-06-21 00:16+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -244,9 +244,9 @@ msgstr ""
 #: ../../IMA.rst:345 ../../IMA.rst:349 ../../IMA.rst:369 ../../IMA.rst:399
 #: ../../IMA.rst:409 ../../IMA.rst:415 ../../IMA.rst:425 ../../IMA.rst:459
 #: ../../IMA.rst:527 ../../IMA.rst:533 ../../IMA.rst:563 ../../IMA.rst:577
-#: ../../IMA.rst:591 ../../IMA.rst:651 ../../IMA.rst:739 ../../IMA.rst:791
-#: ../../IMA.rst:797 ../../IMA.rst:823 ../../IMA.rst:943 ../../IMA.rst:1065
-#: ../../IMA.rst:1073 ../../IMA.rst:1137 ../../IMA.rst:1259
+#: ../../IMA.rst:591 ../../IMA.rst:651 ../../IMA.rst:707 ../../IMA.rst:739
+#: ../../IMA.rst:791 ../../IMA.rst:797 ../../IMA.rst:823 ../../IMA.rst:943
+#: ../../IMA.rst:1065 ../../IMA.rst:1073 ../../IMA.rst:1137 ../../IMA.rst:1259
 msgid "Flying"
 msgstr ""
 
@@ -709,7 +709,7 @@ msgid ""
 "https://scryfall.com/card/ima/32/stalwart-aven?utm_source=api>`"
 msgstr ""
 
-#: ../../IMA.rst:193 ../../IMA.rst:375 ../../IMA.rst:707
+#: ../../IMA.rst:193 ../../IMA.rst:375
 msgid ""
 "Flying (This creature can't be blocked except by creatures with flying or "
 "reach.)"
@@ -1002,7 +1002,7 @@ msgstr ""
 #: ../../IMA.rst:313
 msgid ""
 "|mana_2|\\ |mana_u|, |tap|: Target player mills X cards, where X is the "
-"number of creatures with defender you control."
+"number of creatures you control with defender."
 msgstr ""
 
 #: ../../IMA.rst:318
@@ -2344,7 +2344,7 @@ msgstr ""
 #: ../../IMA.rst:849
 msgid ""
 "|mana_1|\\ |mana_r|, |tap|: Vent Sentinel deals damage to target player or "
-"planeswalker equal to the number of creatures with defender you control."
+"planeswalker equal to the number of creatures you control with defender."
 msgstr ""
 
 #: ../../IMA.rst:854
@@ -2736,7 +2736,7 @@ msgid ""
 msgstr ""
 
 #: ../../IMA.rst:987
-msgid "|tap|: Add |mana_g| for each creature with defender you control."
+msgid "|tap|: Add |mana_g| for each creature you control with defender."
 msgstr ""
 
 #: ../../IMA.rst:994
@@ -3347,7 +3347,7 @@ msgstr ""
 #: ../../IMA.rst:1229
 msgid ""
 "Whenever an opponent loses life, that player mills that many cards. (Damage "
-"dealt by sources without infect causes loss of life.)"
+"causes loss of life.)"
 msgstr ""
 
 #: ../../IMA.rst:1234

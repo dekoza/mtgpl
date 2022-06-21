@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-19 21:39+0200\n"
+"POT-Creation-Date: 2022-06-21 00:16+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -802,7 +802,7 @@ msgstr ""
 #: ../../C15.rst:213
 msgid ""
 "For each creature your opponents control, create a 4/4 green Phyrexian Beast "
-"creature token. Each of those Beasts fights a different one of those "
+"creature token. Each of those tokens fights a different one of those "
 "creatures."
 msgstr ""
 
@@ -844,10 +844,8 @@ msgid ""
 "scryfall.com/card/c15/39/skullwinder?utm_source=api>`"
 msgstr ""
 
-#: ../../C15.rst:229 ../../C15.rst:973
-msgid ""
-"Deathtouch (Any amount of damage this deals to a creature is enough to "
-"destroy it.)"
+#: ../../C15.rst:229
+msgid "Deathtouch"
 msgstr ""
 
 #: ../../C15.rst:231
@@ -2797,8 +2795,7 @@ msgstr ""
 #: ../../C15.rst:921
 msgid ""
 "Overload |mana_3|\\ |mana_r|\\ |mana_r|\\ |mana_r| (You may cast this spell "
-"for its overload cost. If you do, change its text by replacing all instances "
-"of \"target\" with \"each.\")"
+"for its overload cost. If you do, change \"target\" in its text to \"each.\")"
 msgstr ""
 
 #: ../../C15.rst:926
@@ -2947,6 +2944,12 @@ msgid ""
 ":mtgtip:`Acidic Slime<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/3/3/33c95f5a-3b59-4103-8464-b43b42f451b3.jpg?1562702925|"
 "https://scryfall.com/card/c15/173/acidic-slime?utm_source=api>`"
+msgstr ""
+
+#: ../../C15.rst:973
+msgid ""
+"Deathtouch (Any amount of damage this deals to a creature is enough to "
+"destroy it.)"
 msgstr ""
 
 #: ../../C15.rst:975
@@ -4431,7 +4434,9 @@ msgid ""
 msgstr ""
 
 #: ../../C15.rst:1511
-msgid "Equipped creature has hexproof and haste."
+msgid ""
+"Equipped creature has hexproof and haste. (It can't be the target of spells "
+"or abilities your opponents control.)"
 msgstr ""
 
 #: ../../C15.rst:1520

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-19 21:39+0200\n"
+"POT-Creation-Date: 2022-06-21 00:16+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -398,7 +398,7 @@ msgstr ""
 #: ../../SOI.rst:65
 msgid ""
 "Whenever you cast a creature spell with mana value 3 or less, investigate. "
-"(Create a colorless Clue artifact token with \"|mana_2|, Sacrifice this "
+"(Create a Clue token. It's an artifact with \"|mana_2|, Sacrifice this "
 "artifact: Draw a card.\")"
 msgstr ""
 
@@ -546,10 +546,10 @@ msgstr ""
 msgid "Tap up to two target creatures."
 msgstr ""
 
-#: ../../SOI.rst:119 ../../SOI.rst:151 ../../SOI.rst:239 ../../SOI.rst:389
-#: ../../SOI.rst:409 ../../SOI.rst:465 ../../SOI.rst:1321
+#: ../../SOI.rst:119 ../../SOI.rst:239 ../../SOI.rst:389 ../../SOI.rst:409
+#: ../../SOI.rst:465 ../../SOI.rst:1321
 msgid ""
-"Investigate. (Create a colorless Clue artifact token with \"|mana_2|, "
+"Investigate. (Create a Clue token. It's an artifact with \"|mana_2|, "
 "Sacrifice this artifact: Draw a card.\")"
 msgstr ""
 
@@ -628,6 +628,12 @@ msgstr ""
 
 #: ../../SOI.rst:149
 msgid "Destroy target creature with power 4 or greater."
+msgstr ""
+
+#: ../../SOI.rst:151
+msgid ""
+"Investigate.(Create a Clue token. It's an artifact with \"|mana_2|, "
+"Sacrifice this artifact: Draw a card.\")"
 msgstr ""
 
 #: ../../SOI.rst:156
@@ -929,9 +935,9 @@ msgstr ""
 
 #: ../../SOI.rst:253
 msgid ""
-"When Thraben Inspector enters the battlefield, investigate. (Create a "
-"colorless Clue artifact token with \"|mana_2|, Sacrifice this artifact: Draw "
-"a card.\")"
+"When Thraben Inspector enters the battlefield, investigate. (Create a Clue "
+"token. It's an artifact with \"|mana_2|, Sacrifice this artifact: Draw a "
+"card.\")"
 msgstr ""
 
 #: ../../SOI.rst:262
@@ -1082,8 +1088,8 @@ msgstr ""
 
 #: ../../SOI.rst:309
 msgid ""
-"Investigate three times. (To investigate, create a colorless Clue artifact "
-"token with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
+"Investigate three times. (To investigate, create a Clue token. It's an "
+"artifact with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
 
 #: ../../SOI.rst:314
@@ -1115,7 +1121,7 @@ msgstr ""
 #: ../../SOI.rst:319
 msgid ""
 "Whenever Bearer of Overwhelming Truths deals combat damage to a player, "
-"investigate. (Create a colorless Clue artifact token with \"|mana_2|, "
+"investigate. (Create a Clue token. It's an artifact with \"|mana_2|, "
 "Sacrifice this artifact: Draw a card.\")"
 msgstr ""
 
@@ -1141,9 +1147,9 @@ msgstr ""
 
 #: ../../SOI.rst:327
 msgid ""
-"When Drownyard Explorers enters the battlefield, investigate. (Create a "
-"colorless Clue artifact token with \"|mana_2|, Sacrifice this artifact: Draw "
-"a card.\")"
+"When Drownyard Explorers enters the battlefield, investigate. (Create a Clue "
+"token. It's an artifact with \"|mana_2|, Sacrifice this artifact: Draw a "
+"card.\")"
 msgstr ""
 
 #: ../../SOI.rst:334
@@ -1226,9 +1232,9 @@ msgstr ""
 
 #: ../../SOI.rst:355
 msgid ""
-"When Fleeting Memories enters the battlefield, investigate. (Create a "
-"colorless Clue artifact token with \"|mana_2|, Sacrifice this artifact: Draw "
-"a card.\")"
+"When Fleeting Memories enters the battlefield, investigate. (Create a Clue "
+"token. It's an artifact with \"|mana_2|, Sacrifice this artifact: Draw a "
+"card.\")"
 msgstr ""
 
 #: ../../SOI.rst:357
@@ -1459,7 +1465,7 @@ msgstr ""
 #: ../../SOI.rst:449
 msgid ""
 "Whenever one or more creatures you control deal combat damage to a player, "
-"investigate. (Create a colorless Clue artifact token with \"|mana_2|, "
+"investigate. (Create a Clue token. It's an artifact with \"|mana_2|, "
 "Sacrifice this artifact: Draw a card.\")"
 msgstr ""
 
@@ -1705,9 +1711,9 @@ msgstr ""
 
 #: ../../SOI.rst:549
 msgid ""
-"Whenever you cast an instant or sorcery spell, investigate. (Create a "
-"colorless Clue artifact token with \"|mana_2|, Sacrifice this artifact: Draw "
-"a card.\")"
+"Whenever you cast an instant or sorcery spell, investigate. (Create a Clue "
+"token. It's an artifact with \"|mana_2|, Sacrifice this artifact: Draw a "
+"card.\")"
 msgstr ""
 
 #: ../../SOI.rst:556
@@ -3384,7 +3390,7 @@ msgstr ""
 #: ../../SOI.rst:1153
 msgid ""
 "Whenever Briarbridge Patrol deals damage to one or more creatures, "
-"investigate. (Create a colorless Clue artifact token with \"|mana_2|, "
+"investigate. (Create a Clue token. It's an artifact with \"|mana_2|, "
 "Sacrifice this artifact: Draw a card.\")"
 msgstr ""
 
@@ -3403,8 +3409,8 @@ msgstr ""
 
 #: ../../SOI.rst:1159
 msgid ""
-"When Byway Courier dies, investigate. (Create a colorless Clue artifact "
-"token with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
+"When Byway Courier dies, investigate. (Create a Clue token. It's an artifact "
+"with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
 
 #: ../../SOI.rst:1164
@@ -3428,8 +3434,8 @@ msgstr ""
 #: ../../SOI.rst:1167
 msgid ""
 "Investigate, then target creature gets +1/+1 until end of turn for each Clue "
-"you control. (To investigate, create a colorless Clue artifact token with \"|"
-"mana_2|, Sacrifice this artifact: Draw a card.\")"
+"you control. (Create a Clue token. It's an artifact with \"|mana_2|, "
+"Sacrifice this artifact: Draw a card.\")"
 msgstr ""
 
 #: ../../SOI.rst:1174
@@ -4027,7 +4033,7 @@ msgstr ""
 #: ../../SOI.rst:1377
 msgid ""
 "Whenever a land enters the battlefield under your control, investigate. "
-"(Create a colorless Clue artifact token with \"|mana_2|, Sacrifice this "
+"(Create a Clue token. It's an artifact with \"|mana_2|, Sacrifice this "
 "artifact: Draw a card.\")"
 msgstr ""
 
@@ -4083,9 +4089,9 @@ msgstr ""
 
 #: ../../SOI.rst:1397
 msgid ""
-"Whenever a nontoken creature you control dies, investigate. (Create a "
-"colorless Clue artifact token with \"|mana_2|, Sacrifice this artifact: Draw "
-"a card.\")"
+"Whenever a nontoken creature you control dies, investigate. (Create a Clue "
+"token. It's an artifact with \"|mana_2|, Sacrifice this artifact: Draw a "
+"card.\")"
 msgstr ""
 
 #: ../../SOI.rst:1399
@@ -4149,8 +4155,9 @@ msgstr ""
 
 #: ../../SOI.rst:1419
 msgid ""
-"When Weirding Wood enters the battlefield, investigate. (Create a colorless "
-"Clue artifact token with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
+"When Weirding Wood enters the battlefield, investigate. (Create a Clue "
+"token. It's an artifact with \"|mana_2|, Sacrifice this artifact: Draw a "
+"card.\")"
 msgstr ""
 
 #: ../../SOI.rst:1421
@@ -4504,8 +4511,8 @@ msgstr ""
 
 #: ../../SOI.rst:1543
 msgid ""
-"|mana_4|, |tap|: Investigate. (Create a colorless Clue artifact token with "
-"\"|mana_2|, Sacrifice this artifact: Draw a card.\")"
+"|mana_4|, |tap|: Investigate. (Create a Clue token. It's an artifact with \"|"
+"mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
 
 #: ../../SOI.rst:1550
@@ -4626,8 +4633,8 @@ msgstr ""
 
 #: ../../SOI.rst:1597
 msgid ""
-"At the beginning of your upkeep, investigate. (Create a colorless Clue "
-"artifact token with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
+"At the beginning of your upkeep, investigate. (Create a Clue token. It's an "
+"artifact with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
 
 #: ../../SOI.rst:1599
