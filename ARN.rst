@@ -23,6 +23,14 @@
    The next time a source of your choice would deal damage to you this turn, instead that source deals that much damage to you and Eye for an Eye deals that much damage to that source's controller.
 
 
+:mtgtip:`Jihad<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/6/b6c7705a-2987-4ef1-92b1-2c55d989ec6f.jpg?1644608192|https://scryfall.com/card/arn/5/jihad?utm_source=api>`
+   As Jihad enters the battlefield, choose a color and an opponent.
+
+   White creatures get +2/+1 as long as the chosen player controls a nontoken permanent of the chosen color.
+
+   When the chosen player controls no nontoken permanents of the chosen color, sacrifice Jihad.
+
+
 :mtgtip:`King Suleiman<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4d3dce0f-2168-4f63-b2f9-156a11beeea7.jpg?1592364322|https://scryfall.com/card/arn/6/king-suleiman?utm_source=api>`
    |tap|: Destroy target Djinn or Efreet.
 
@@ -157,6 +165,10 @@
 
 :mtgtip:`Sorceress Queen<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/4/94742003-f0f1-4483-b1a0-e7163995db1b.jpg?1562922545|https://scryfall.com/card/arn/32/sorceress-queen?utm_source=api>`
    |tap|: Target creature other than Sorceress Queen has base power and toughness 0/2 until end of turn.
+
+
+:mtgtip:`Stone-Throwing Devils<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/1/d1c387dd-1347-4443-91ce-b71f7ccdceba.jpg?1591989129|https://scryfall.com/card/arn/33/stone-throwing-devils?utm_source=api>`
+   First strike
 
 
 :mtgtip:`Aladdin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/b/db52bad2-a3ec-4f6f-9418-12e8c40703f6.jpg?1562935954|https://scryfall.com/card/arn/34/aladdin?utm_source=api>`

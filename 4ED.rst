@@ -99,6 +99,10 @@
    All Mountains are Plains.
 
 
+:mtgtip:`Crusade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/b/fb5428ef-847d-4ac1-b9a9-31afe155650f.jpg?1559603869|https://scryfall.com/card/4ed/20/crusade?utm_source=api>`
+   White creatures get +1/+1.
+
+
 :mtgtip:`Death Ward<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/9/e9c54ffe-2479-4178-a5dc-dca7b564efce.jpg?1559603834|https://scryfall.com/card/4ed/21/death-ward?utm_source=api>`
    Regenerate target creature.
 
@@ -1305,6 +1309,10 @@
 
 :mtgtip:`Nafs Asp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/d/0db4a4ef-20a8-415f-8d7d-a6740b482f73.jpg?1559600642|https://scryfall.com/card/4ed/264/nafs-asp?utm_source=api>`
    Whenever Nafs Asp deals damage to a player, that player loses 1 life at the beginning of their next draw step unless they pay |mana_1| before that draw step.
+
+
+:mtgtip:`Pradesh Gypsies<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/3/2338aeec-63f6-4cc1-833e-77d44994a7ca.jpg?1559603845|https://scryfall.com/card/4ed/265/pradesh-gypsies?utm_source=api>`
+   |mana_1|\ |mana_g|, |tap|: Target creature gets -2/-0 until end of turn.
 
 
 :mtgtip:`Radjan Spirit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/0/504e4e18-a70c-47d6-8331-2ca3c6210a98.jpg?1559603791|https://scryfall.com/card/4ed/266/radjan-spirit?utm_source=api>`

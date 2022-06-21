@@ -83,6 +83,10 @@
    All Mountains are Plains.
 
 
+:mtgtip:`Crusade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/b/4b9933e3-2267-4534-a1c6-c463e767480a.jpg?1559591924|https://scryfall.com/card/2ed/17/crusade?utm_source=api>`
+   White creatures get +1/+1.
+
+
 :mtgtip:`Death Ward<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/7/d7604388-752a-463d-95cd-486752a4bd04.jpg?1559592103|https://scryfall.com/card/2ed/18/death-ward?utm_source=api>`
    Regenerate target creature.
 

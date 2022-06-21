@@ -111,6 +111,10 @@
    |mana_1|: The next time a white source of your choice would deal damage to you this turn, prevent that damage.
 
 
+:mtgtip:`Crusade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/7/3745725e-2bae-4c9b-bece-9e6b5f45c3c9.jpg?1562590172|https://scryfall.com/card/5ed/22/crusade?utm_source=api>`
+   White creatures get +1/+1.
+
+
 :mtgtip:`D'Avenant Archer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/5/d57621be-3420-49f5-87a3-a9f66fc7c2e1.jpg?1562594458|https://scryfall.com/card/5ed/23/davenant-archer?utm_source=api>`
    |tap|: D'Avenant Archer deals 1 damage to target attacking or blocking creature.
 
@@ -1575,6 +1579,10 @@
 
 :mtgtip:`Nature's Lore<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/0/00a4ffc1-7731-42d9-b970-2a8d84cba14d.jpg?1562588736|https://scryfall.com/card/5ed/316/natures-lore?utm_source=api>`
    Search your library for a Forest card, put that card onto the battlefield, then shuffle.
+
+
+:mtgtip:`Pradesh Gypsies<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/9/d9ee195a-c331-4918-ad9e-3877dd3f4e3a.jpg?1562594463|https://scryfall.com/card/5ed/317/pradesh-gypsies?utm_source=api>`
+   |mana_1|\ |mana_g|, |tap|: Target creature gets -2/-0 until end of turn.
 
 
 :mtgtip:`Primal Order<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/3/535b455a-417a-4490-8495-bda9441306c8.jpg?1562590862|https://scryfall.com/card/5ed/318/primal-order?utm_source=api>`

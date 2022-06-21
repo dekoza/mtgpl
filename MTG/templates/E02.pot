@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2022.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-21 00:16+0200\n"
+"POT-Creation-Date: 2022-06-21 12:36+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -263,429 +263,433 @@ msgstr ""
 msgid "Double target player's life total. Shuffle Beacon of Immortality into its owner's library."
 msgstr ""
 
-#: ../../E02.rst:14
-msgid ":mtgtip:`Day of Judgment<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/a/da6dbb49-1e70-439e-9866-c755b3236bdd.jpg?1562947028|https://scryfall.com/card/e02/2/day-of-judgment?utm_source=api>`"
-msgstr ""
-
-#: ../../E02.rst:13
-msgid "Destroy all creatures."
+#: ../../E02.rst:12
+msgid ":mtgtip:`Saproling<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/a/eac3b55f-ebf8-413e-b987-3b92e89ca7c5.jpg?1562950897|https://scryfall.com/card/e02/T1/saproling?utm_source=api>`"
 msgstr ""
 
 #: ../../E02.rst:18
-msgid ":mtgtip:`Path to Exile<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/0/30b68ec2-bdb8-46ab-a741-36259926fd6f.jpg?1562906397|https://scryfall.com/card/e02/3/path-to-exile?utm_source=api>`"
+msgid ":mtgtip:`Day of Judgment<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/a/da6dbb49-1e70-439e-9866-c755b3236bdd.jpg?1562947028|https://scryfall.com/card/e02/2/day-of-judgment?utm_source=api>`"
 msgstr ""
 
 #: ../../E02.rst:17
-msgid "Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle."
+msgid "Destroy all creatures."
 msgstr ""
 
-#: ../../E02.rst:26
-msgid ":mtgtip:`Shielded by Faith<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/6/066ac822-7417-4dc4-93ba-bfba2252f47b.jpg?1562896529|https://scryfall.com/card/e02/4/shielded-by-faith?utm_source=api>`"
+#: ../../E02.rst:22
+msgid ":mtgtip:`Path to Exile<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/0/30b68ec2-bdb8-46ab-a741-36259926fd6f.jpg?1562906397|https://scryfall.com/card/e02/3/path-to-exile?utm_source=api>`"
 msgstr ""
 
 #: ../../E02.rst:21
-#: ../../E02.rst:33
-#: ../../E02.rst:71
-#: ../../E02.rst:143
-#: ../../E02.rst:165
-#: ../../E02.rst:179
-msgid "Enchant creature"
-msgstr ""
-
-#: ../../E02.rst:23
-msgid "Enchanted creature has indestructible."
-msgstr ""
-
-#: ../../E02.rst:25
-msgid "Whenever a creature enters the battlefield, you may attach Shielded by Faith to that creature."
+msgid "Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../E02.rst:30
-msgid ":mtgtip:`Veteran's Reflexes<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/b/1ba8b52a-af98-4a7d-83e5-ab94e058d9a7.jpg?1562901515|https://scryfall.com/card/e02/5/veterans-reflexes?utm_source=api>`"
+msgid ":mtgtip:`Shielded by Faith<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/6/066ac822-7417-4dc4-93ba-bfba2252f47b.jpg?1562896529|https://scryfall.com/card/e02/4/shielded-by-faith?utm_source=api>`"
+msgstr ""
+
+#: ../../E02.rst:25
+#: ../../E02.rst:37
+#: ../../E02.rst:75
+#: ../../E02.rst:147
+#: ../../E02.rst:169
+#: ../../E02.rst:183
+msgid "Enchant creature"
+msgstr ""
+
+#: ../../E02.rst:27
+msgid "Enchanted creature has indestructible."
 msgstr ""
 
 #: ../../E02.rst:29
+msgid "Whenever a creature enters the battlefield, you may attach Shielded by Faith to that creature."
+msgstr ""
+
+#: ../../E02.rst:34
+msgid ":mtgtip:`Veteran's Reflexes<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/b/1ba8b52a-af98-4a7d-83e5-ab94e058d9a7.jpg?1562901515|https://scryfall.com/card/e02/5/veterans-reflexes?utm_source=api>`"
+msgstr ""
+
+#: ../../E02.rst:33
 msgid "Target creature gets +1/+1 until end of turn. Untap that creature."
 msgstr ""
 
-#: ../../E02.rst:36
+#: ../../E02.rst:40
 msgid ":mtgtip:`Vow of Duty<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/b/bb43ab42-0c5e-4c71-b678-a258fec3bf48.jpg?1562939178|https://scryfall.com/card/e02/6/vow-of-duty?utm_source=api>`"
 msgstr ""
 
-#: ../../E02.rst:35
+#: ../../E02.rst:39
 msgid "Enchanted creature gets +2/+2, has vigilance, and can't attack you or planeswalkers you control."
 msgstr ""
 
-#: ../../E02.rst:40
+#: ../../E02.rst:44
 msgid ":mtgtip:`Aether Gale<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/3/1352ede2-9eb4-44db-b323-58b7b6409242.jpg?1562899588|https://scryfall.com/card/e02/7/aether-gale?utm_source=api>`"
 msgstr ""
 
-#: ../../E02.rst:39
+#: ../../E02.rst:43
 msgid "Return six target nonland permanents to their owners' hands."
 msgstr ""
 
-#: ../../E02.rst:44
+#: ../../E02.rst:48
 msgid ":mtgtip:`Blatant Thievery<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/b/bb500b63-a61f-4d62-a666-61c7bca94b18.jpg?1562939192|https://scryfall.com/card/e02/8/blatant-thievery?utm_source=api>`"
 msgstr ""
 
-#: ../../E02.rst:43
+#: ../../E02.rst:47
 msgid "For each opponent, gain control of target permanent that player controls."
 msgstr ""
 
-#: ../../E02.rst:48
+#: ../../E02.rst:52
 msgid ":mtgtip:`Concentrate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/4/64f6ac9a-e0a6-4334-ac98-63b2c5bdccd2.jpg?1562918809|https://scryfall.com/card/e02/9/concentrate?utm_source=api>`"
 msgstr ""
 
-#: ../../E02.rst:47
+#: ../../E02.rst:51
 msgid "Draw three cards."
 msgstr ""
 
-#: ../../E02.rst:54
+#: ../../E02.rst:58
 msgid ":mtgtip:`Merfolk Sovereign<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/b/0b1a55bc-7a62-4d0f-9885-db98e4324ff7.jpg?1562897510|https://scryfall.com/card/e02/10/merfolk-sovereign?utm_source=api>`"
 msgstr ""
 
-#: ../../E02.rst:51
+#: ../../E02.rst:55
 msgid "Other Merfolk creatures you control get +1/+1."
 msgstr ""
 
-#: ../../E02.rst:53
+#: ../../E02.rst:57
 msgid "|tap|: Target Merfolk creature can't be blocked this turn."
 msgstr ""
 
-#: ../../E02.rst:60
+#: ../../E02.rst:64
 msgid ":mtgtip:`Threads of Disloyalty<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/c/0c4a061e-45ac-47b5-a955-5744199589b1.jpg?1593860779|https://scryfall.com/card/e02/11/threads-of-disloyalty?utm_source=api>`"
 msgstr ""
 
-#: ../../E02.rst:57
+#: ../../E02.rst:61
 msgid "Enchant creature with mana value 2 or less"
 msgstr ""
 
-#: ../../E02.rst:59
+#: ../../E02.rst:63
 msgid "You control enchanted creature."
 msgstr ""
 
-#: ../../E02.rst:64
+#: ../../E02.rst:68
 msgid ":mtgtip:`Time Warp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/7/87fe8637-9be1-4b57-832f-38cf92d23482.jpg?1562927104|https://scryfall.com/card/e02/12/time-warp?utm_source=api>`"
 msgstr ""
 
-#: ../../E02.rst:63
+#: ../../E02.rst:67
 msgid "Target player takes an extra turn after this one."
 msgstr ""
 
-#: ../../E02.rst:68
+#: ../../E02.rst:72
 msgid ":mtgtip:`Unsummon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/e/fe499edd-2a65-4cbc-8d0c-6b3b6277edcc.jpg?1562955213|https://scryfall.com/card/e02/13/unsummon?utm_source=api>`"
 msgstr ""
 
-#: ../../E02.rst:67
+#: ../../E02.rst:71
 msgid "Return target creature to its owner's hand."
 msgstr ""
 
-#: ../../E02.rst:74
+#: ../../E02.rst:78
 msgid ":mtgtip:`Vow of Flight<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/4/940379f0-55ae-49b2-9aef-d18e509ed05b.jpg?1562929891|https://scryfall.com/card/e02/14/vow-of-flight?utm_source=api>`"
 msgstr ""
 
-#: ../../E02.rst:73
+#: ../../E02.rst:77
 msgid "Enchanted creature gets +2/+2, has flying, and can't attack you or planeswalkers you control."
 msgstr ""
 
-#: ../../E02.rst:78
+#: ../../E02.rst:82
 msgid ":mtgtip:`Bloodbond Vampire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/c/6c2b7878-d66a-437a-967d-d6070e425c2c.jpg?1592451739|https://scryfall.com/card/e02/15/bloodbond-vampire?utm_source=api>`"
 msgstr ""
 
-#: ../../E02.rst:77
+#: ../../E02.rst:81
 msgid "Whenever you gain life, put a +1/+1 counter on Bloodbond Vampire."
 msgstr ""
 
-#: ../../E02.rst:82
+#: ../../E02.rst:86
 msgid ":mtgtip:`Child of Night<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/0/d01884e2-40e7-4af4-964c-52b6cbae2dae.jpg?1562944561|https://scryfall.com/card/e02/16/child-of-night?utm_source=api>`"
 msgstr ""
 
-#: ../../E02.rst:81
+#: ../../E02.rst:85
 msgid "Lifelink"
 msgstr ""
 
-#: ../../E02.rst:86
+#: ../../E02.rst:90
 msgid ":mtgtip:`Coat with Venom<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/c/cc4baf68-7399-40f1-b60c-44f078b65e75.jpg?1562943224|https://scryfall.com/card/e02/17/coat-with-venom?utm_source=api>`"
 msgstr ""
 
-#: ../../E02.rst:85
+#: ../../E02.rst:89
 msgid "Target creature gets +1/+2 and gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)"
 msgstr ""
 
-#: ../../E02.rst:90
+#: ../../E02.rst:94
 msgid ":mtgtip:`Doom Blade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/e/7e89b4da-a095-4790-b1b7-2369fa221aa4.jpg?1562924813|https://scryfall.com/card/e02/18/doom-blade?utm_source=api>`"
 msgstr ""
 
-#: ../../E02.rst:89
+#: ../../E02.rst:93
 msgid "Destroy target nonblack creature."
 msgstr ""
 
-#: ../../E02.rst:94
+#: ../../E02.rst:98
 msgid ":mtgtip:`Innocent Blood<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/4/f4b83306-bb1d-4c44-bb77-1c9b048313dc.jpg?1562953032|https://scryfall.com/card/e02/19/innocent-blood?utm_source=api>`"
 msgstr ""
 
-#: ../../E02.rst:93
+#: ../../E02.rst:97
 msgid "Each player sacrifices a creature."
 msgstr ""
 
-#: ../../E02.rst:100
+#: ../../E02.rst:104
 msgid ":mtgtip:`Necropolis Regent<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/f/6ff29341-b947-415b-a939-46bfa4800dbe.jpg?1562921340|https://scryfall.com/card/e02/20/necropolis-regent?utm_source=api>`"
 msgstr ""
 
-#: ../../E02.rst:97
-#: ../../E02.rst:107
+#: ../../E02.rst:101
+#: ../../E02.rst:111
 msgid "Flying"
 msgstr ""
 
-#: ../../E02.rst:99
+#: ../../E02.rst:103
 msgid "Whenever a creature you control deals combat damage to a player, put that many +1/+1 counters on it."
 msgstr ""
 
-#: ../../E02.rst:104
+#: ../../E02.rst:108
 msgid ":mtgtip:`Urge to Feed<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/f/ff8e3bff-1502-4dac-9d2d-784a988e5565.jpg?1562955539|https://scryfall.com/card/e02/21/urge-to-feed?utm_source=api>`"
 msgstr ""
 
-#: ../../E02.rst:103
+#: ../../E02.rst:107
 msgid "Target creature gets -3/-3 until end of turn. You may tap any number of untapped Vampire creatures you control. If you do, put a +1/+1 counter on each of those Vampires."
 msgstr ""
 
-#: ../../E02.rst:110
+#: ../../E02.rst:114
 msgid ":mtgtip:`Vampire Interloper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/2/e22b76e5-4b37-4638-9002-089d5d967cd3.jpg?1562948875|https://scryfall.com/card/e02/22/vampire-interloper?utm_source=api>`"
 msgstr ""
 
-#: ../../E02.rst:109
+#: ../../E02.rst:113
 msgid "Vampire Interloper can't block."
 msgstr ""
 
-#: ../../E02.rst:114
+#: ../../E02.rst:118
 msgid ":mtgtip:`Vampire Nighthawk<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/c/2c0cbb60-d75c-4bb4-9f20-b3382481b288.jpg?1562905303|https://scryfall.com/card/e02/23/vampire-nighthawk?utm_source=api>`"
 msgstr ""
 
-#: ../../E02.rst:113
+#: ../../E02.rst:117
 msgid "Flying, deathtouch, lifelink"
 msgstr ""
 
-#: ../../E02.rst:116
+#: ../../E02.rst:120
 msgid ":mtgtip:`Vampire Noble<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/9/19068744-60df-4099-8b1c-9784ba331362.jpg?1562900965|https://scryfall.com/card/e02/24/vampire-noble?utm_source=api>`"
 msgstr ""
 
-#: ../../E02.rst:122
+#: ../../E02.rst:126
 msgid ":mtgtip:`Aggravated Assault<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/f/8f9fa105-6829-431c-8386-8e3e9deff2db.jpg?1562928859|https://scryfall.com/card/e02/25/aggravated-assault?utm_source=api>`"
 msgstr ""
 
-#: ../../E02.rst:121
+#: ../../E02.rst:125
 msgid "|mana_3|\\ |mana_r|\\ |mana_r|: Untap all creatures you control. After this main phase, there is an additional combat phase followed by an additional main phase. Activate only as a sorcery."
 msgstr ""
 
-#: ../../E02.rst:128
+#: ../../E02.rst:132
 msgid ":mtgtip:`Disaster Radius<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/7/a7a4ef98-2b74-40e6-90ff-23179fb962da.jpg?1562934725|https://scryfall.com/card/e02/26/disaster-radius?utm_source=api>`"
 msgstr ""
 
-#: ../../E02.rst:125
+#: ../../E02.rst:129
 msgid "As an additional cost to cast this spell, reveal a creature card from your hand."
 msgstr ""
 
-#: ../../E02.rst:127
+#: ../../E02.rst:131
 msgid "Disaster Radius deals X damage to each creature your opponents control, where X is the revealed card's mana value."
 msgstr ""
 
-#: ../../E02.rst:132
+#: ../../E02.rst:136
 msgid ":mtgtip:`Mass Mutiny<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/6/461aaf42-9b96-4960-b6c8-ba80cf4ef349.jpg?1562911451|https://scryfall.com/card/e02/27/mass-mutiny?utm_source=api>`"
 msgstr ""
 
-#: ../../E02.rst:131
+#: ../../E02.rst:135
 msgid "For each opponent, gain control of up to one target creature that player controls until end of turn. Untap those creatures. They gain haste until end of turn."
 msgstr ""
 
-#: ../../E02.rst:136
+#: ../../E02.rst:140
 msgid ":mtgtip:`Rush of Adrenaline<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/2/024eea40-6d8f-4b4e-9bcc-e55a9f12bf64.jpg?1562895576|https://scryfall.com/card/e02/28/rush-of-adrenaline?utm_source=api>`"
 msgstr ""
 
-#: ../../E02.rst:135
+#: ../../E02.rst:139
 msgid "Target creature gets +2/+1 and gains trample until end of turn."
 msgstr ""
 
-#: ../../E02.rst:140
+#: ../../E02.rst:144
 msgid ":mtgtip:`Shared Animosity<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/a/ca5feaf7-3ca0-4ad7-b56b-b76d39e4bec7.jpg?1562942780|https://scryfall.com/card/e02/29/shared-animosity?utm_source=api>`"
 msgstr ""
 
-#: ../../E02.rst:139
+#: ../../E02.rst:143
 msgid "Whenever a creature you control attacks, it gets +1/+0 until end of turn for each other attacking creature that shares a creature type with it."
 msgstr ""
 
-#: ../../E02.rst:146
+#: ../../E02.rst:150
 msgid ":mtgtip:`Vow of Lightning<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/2/520762c5-ca7c-4be3-b9aa-a5ae87c00da4.jpg?1562914221|https://scryfall.com/card/e02/30/vow-of-lightning?utm_source=api>`"
 msgstr ""
 
-#: ../../E02.rst:145
+#: ../../E02.rst:149
 msgid "Enchanted creature gets +2/+2, has first strike, and can't attack you or planeswalkers you control."
 msgstr ""
 
-#: ../../E02.rst:150
+#: ../../E02.rst:154
 msgid ":mtgtip:`Borderland Ranger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/2/12124073-518a-498c-a817-400547ae7040.jpg?1562899345|https://scryfall.com/card/e02/31/borderland-ranger?utm_source=api>`"
 msgstr ""
 
-#: ../../E02.rst:149
+#: ../../E02.rst:153
 msgid "When Borderland Ranger enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
-#: ../../E02.rst:154
+#: ../../E02.rst:158
 msgid ":mtgtip:`Giant Growth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/2/f237ecfe-ecb0-42e6-852f-4a7c61652803.jpg?1562952508|https://scryfall.com/card/e02/32/giant-growth?utm_source=api>`"
 msgstr ""
 
-#: ../../E02.rst:153
+#: ../../E02.rst:157
 msgid "Target creature gets +3/+3 until end of turn."
 msgstr ""
 
-#: ../../E02.rst:158
+#: ../../E02.rst:162
 msgid ":mtgtip:`Hunter's Prowess<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/c/2c0e5ac0-48f2-44c2-814e-9bc90ff01760.jpg?1562905305|https://scryfall.com/card/e02/33/hunters-prowess?utm_source=api>`"
 msgstr ""
 
-#: ../../E02.rst:157
+#: ../../E02.rst:161
 msgid "Until end of turn, target creature gets +3/+3 and gains trample and \"Whenever this creature deals combat damage to a player, draw that many cards.\""
 msgstr ""
 
-#: ../../E02.rst:162
+#: ../../E02.rst:166
 msgid ":mtgtip:`Prey Upon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/a/eac2c4a6-54b9-41ac-9265-39dd0be75726.jpg?1562950896|https://scryfall.com/card/e02/34/prey-upon?utm_source=api>`"
 msgstr ""
 
-#: ../../E02.rst:161
+#: ../../E02.rst:165
 msgid "Target creature you control fights target creature you don't control. (Each deals damage equal to its power to the other.)"
 msgstr ""
 
-#: ../../E02.rst:170
+#: ../../E02.rst:174
 msgid ":mtgtip:`Rancor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/8/38e281ab-3437-4a2c-a668-9a148bc3eaf7.jpg?1562908394|https://scryfall.com/card/e02/35/rancor?utm_source=api>`"
 msgstr ""
 
-#: ../../E02.rst:167
+#: ../../E02.rst:171
 msgid "Enchanted creature gets +2/+0 and has trample."
 msgstr ""
 
-#: ../../E02.rst:169
+#: ../../E02.rst:173
 msgid "When Rancor is put into a graveyard from the battlefield, return Rancor to its owner's hand."
 msgstr ""
 
-#: ../../E02.rst:176
+#: ../../E02.rst:180
 msgid ":mtgtip:`Soul of the Harvest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/a/4a4ad065-cfab-4aad-b265-211143c1c69d.jpg?1562912362|https://scryfall.com/card/e02/36/soul-of-the-harvest?utm_source=api>`"
 msgstr ""
 
-#: ../../E02.rst:173
+#: ../../E02.rst:177
 msgid "Trample"
 msgstr ""
 
-#: ../../E02.rst:175
+#: ../../E02.rst:179
 msgid "Whenever another nontoken creature enters the battlefield under your control, you may draw a card."
 msgstr ""
 
-#: ../../E02.rst:182
+#: ../../E02.rst:186
 msgid ":mtgtip:`Vow of Wildness<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/1/e1c4cea1-e06b-468e-86ef-07c3958ab10b.jpg?1562948732|https://scryfall.com/card/e02/37/vow-of-wildness?utm_source=api>`"
 msgstr ""
 
-#: ../../E02.rst:181
+#: ../../E02.rst:185
 msgid "Enchanted creature gets +3/+3, has trample, and can't attack you or planeswalkers you control."
 msgstr ""
 
-#: ../../E02.rst:188
+#: ../../E02.rst:192
 msgid ":mtgtip:`Jungle Barrier<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/b/8be6060c-f6df-451d-86cd-c4e2564095ba.jpg?1562928034|https://scryfall.com/card/e02/38/jungle-barrier?utm_source=api>`"
 msgstr ""
 
-#: ../../E02.rst:185
+#: ../../E02.rst:189
 msgid "Defender (This creature can't attack.)"
 msgstr ""
 
-#: ../../E02.rst:187
+#: ../../E02.rst:191
 msgid "When Jungle Barrier enters the battlefield, draw a card."
 msgstr ""
 
-#: ../../E02.rst:192
+#: ../../E02.rst:196
 msgid ":mtgtip:`Lightning Helix<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/9/79d1f0c1-9271-47e7-8bee-a102cdc396e9.jpg?1562923722|https://scryfall.com/card/e02/39/lightning-helix?utm_source=api>`"
 msgstr ""
 
-#: ../../E02.rst:191
+#: ../../E02.rst:195
 msgid "Lightning Helix deals 3 damage to any target and you gain 3 life."
 msgstr ""
 
-#: ../../E02.rst:196
+#: ../../E02.rst:200
 msgid ":mtgtip:`Mortify<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/d/7dc4eced-d8b1-4e77-bacd-ba1dae56bfa6.jpg?1562924634|https://scryfall.com/card/e02/40/mortify?utm_source=api>`"
 msgstr ""
 
-#: ../../E02.rst:195
+#: ../../E02.rst:199
 msgid "Destroy target creature or enchantment."
 msgstr ""
 
-#: ../../E02.rst:200
+#: ../../E02.rst:204
 msgid ":mtgtip:`Zealous Persecution<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/0/00963993-ff4d-4cc6-a7e0-ed8adac40bfd.jpg?1562895154|https://scryfall.com/card/e02/41/zealous-persecution?utm_source=api>`"
 msgstr ""
 
-#: ../../E02.rst:199
+#: ../../E02.rst:203
 msgid "Until end of turn, creatures you control get +1/+1 and creatures your opponents control get -1/-1."
 msgstr ""
 
-#: ../../E02.rst:208
+#: ../../E02.rst:212
 msgid ":mtgtip:`Adaptive Automaton<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/3/a3a74bb9-b850-4d94-81f4-ffe062e91c49.jpg?1562933645|https://scryfall.com/card/e02/42/adaptive-automaton?utm_source=api>`"
 msgstr ""
 
-#: ../../E02.rst:203
+#: ../../E02.rst:207
 msgid "As Adaptive Automaton enters the battlefield, choose a creature type."
 msgstr ""
 
-#: ../../E02.rst:205
+#: ../../E02.rst:209
 msgid "Adaptive Automaton is the chosen type in addition to its other types."
 msgstr ""
 
-#: ../../E02.rst:207
+#: ../../E02.rst:211
 msgid "Other creatures you control of the chosen type get +1/+1."
 msgstr ""
 
-#: ../../E02.rst:214
+#: ../../E02.rst:218
 msgid ":mtgtip:`Prismatic Lens<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/b/eb3da3e2-fdef-4ff4-bef6-85e57dc4c56d.jpg?1562951021|https://scryfall.com/card/e02/43/prismatic-lens?utm_source=api>`"
 msgstr ""
 
-#: ../../E02.rst:211
-#: ../../E02.rst:233
+#: ../../E02.rst:215
+#: ../../E02.rst:237
 msgid "|tap|: Add |colorless|."
 msgstr ""
 
-#: ../../E02.rst:213
+#: ../../E02.rst:217
 msgid "|mana_1|, |tap|: Add one mana of any color."
 msgstr ""
 
-#: ../../E02.rst:218
+#: ../../E02.rst:222
 msgid ":mtgtip:`Quicksilver Amulet<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/b/ab053d73-31a9-4e70-9310-4e250862ad6b.jpg?1562935367|https://scryfall.com/card/e02/44/quicksilver-amulet?utm_source=api>`"
 msgstr ""
 
-#: ../../E02.rst:217
+#: ../../E02.rst:221
 msgid "|mana_4|, |tap|: You may put a creature card from your hand onto the battlefield."
 msgstr ""
 
-#: ../../E02.rst:224
+#: ../../E02.rst:228
 msgid ":mtgtip:`Crumbling Necropolis<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/7/478bc89c-ad53-41e8-9304-60837914c590.jpg?1562911751|https://scryfall.com/card/e02/45/crumbling-necropolis?utm_source=api>`"
 msgstr ""
 
-#: ../../E02.rst:221
+#: ../../E02.rst:225
 msgid "Crumbling Necropolis enters the battlefield tapped."
 msgstr ""
 
-#: ../../E02.rst:223
+#: ../../E02.rst:227
 msgid "|tap|: Add |mana_u|, |mana_b|, or |mana_r|."
 msgstr ""
 
-#: ../../E02.rst:230
+#: ../../E02.rst:234
 msgid ":mtgtip:`Jungle Shrine<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/a/0a3c12f1-5988-49a4-969a-cc7f678468d8.jpg?1562897315|https://scryfall.com/card/e02/46/jungle-shrine?utm_source=api>`"
 msgstr ""
 
-#: ../../E02.rst:227
+#: ../../E02.rst:231
 msgid "Jungle Shrine enters the battlefield tapped."
 msgstr ""
 
-#: ../../E02.rst:229
+#: ../../E02.rst:233
 msgid "|tap|: Add |mana_r|, |mana_g|, or |mana_w|."
 msgstr ""
 
-#: ../../E02.rst:235
+#: ../../E02.rst:239
 msgid ":mtgtip:`Tainted Field<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/b/cb4125db-b44f-49b8-b74d-e131844e5510.jpg?1562943021|https://scryfall.com/card/e02/47/tainted-field?utm_source=api>`"
 msgstr ""
 
-#: ../../E02.rst:235
+#: ../../E02.rst:239
 msgid "|tap|: Add |mana_w| or |mana_b|. Activate only if you control a Swamp."
 msgstr ""

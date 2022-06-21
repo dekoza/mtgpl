@@ -25,6 +25,10 @@
    Creatures you control get +1/+1 as long as you control no nonartifact, nonwhite creatures.
 
 
+:mtgtip:`Cleanse<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/f/2fbd611b-ac97-4516-bad7-cc9ee4ef74f7.jpg?1591836785|https://scryfall.com/card/leg/5/cleanse?utm_source=api>`
+   Destroy all black creatures.
+
+
 :mtgtip:`Clergy of the Holy Nimbus<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/b/db1f578f-fa3b-4447-953b-1490852b6c80.jpg?1617613157|https://scryfall.com/card/leg/6/clergy-of-the-holy-nimbus?utm_source=api>`
    If Clergy of the Holy Nimbus would be destroyed, regenerate it.
 
@@ -293,6 +297,10 @@
    Whenever a player casts an instant spell, counter it unless that player pays |mana_x|, where X is its mana value.
 
 
+:mtgtip:`Invoke Prejudice<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/0/903d9fde-d7da-4a0e-a337-b63023c6d74b.jpg?1591988938|https://scryfall.com/card/leg/62/invoke-prejudice?utm_source=api>`
+   Whenever an opponent casts a creature spell that doesn't share a color with a creature you control, counter that spell unless that player pays |mana_x|, where X is its mana value.
+
+
 :mtgtip:`Juxtapose<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/4/c48d78db-d982-4c28-9308-2d57dc2b947e.jpg?1562860874|https://scryfall.com/card/leg/63/juxtapose?utm_source=api>`
    You and target player exchange control of the creature you each control with the highest mana value. Then exchange control of artifacts the same way. If two or more permanents a player controls are tied for highest, their controller chooses one of them.
 
@@ -509,6 +517,14 @@
 
 :mtgtip:`Horror of Horrors<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/9/b9f68dc2-c048-41ec-b237-c36fdd99c27d.jpg?1592364413|https://scryfall.com/card/leg/106/horror-of-horrors?utm_source=api>`
    Sacrifice a Swamp: Regenerate target black creature. (The next time that creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
+
+
+:mtgtip:`Imprison<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/2/12671381-beb7-41b8-9484-97f8aca5c981.jpg?1644608203|https://scryfall.com/card/leg/107/imprison?utm_source=api>`
+   Enchant creature
+
+   Whenever a player activates an ability of enchanted creature with |tap| in its activation cost that isn't a mana ability, you may pay |mana_1|. If you do, counter that ability. If you don't, destroy Imprison.
+
+   Whenever enchanted creature attacks or blocks, you may pay |mana_1|. If you do, tap the creature, remove it from combat, and creatures it was blocking that had become blocked by only that creature this combat become unblocked. If you don't, destroy Imprison.
 
 
 :mtgtip:`Infernal Medusa<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/6/26a5333f-2761-42b8-ae8b-1d360b109daf.jpg?1562858225|https://scryfall.com/card/leg/108/infernal-medusa?utm_source=api>`
@@ -939,6 +955,10 @@
    Flying
 
    |mana_g|\ |mana_g|\ |mana_g|, |tap|: Target creature gains flying until end of turn.
+
+
+:mtgtip:`Pradesh Gypsies<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/3/0370330d-83d9-44d2-a1ed-c4827edc60fd.jpg?1562857295|https://scryfall.com/card/leg/197/pradesh-gypsies?utm_source=api>`
+   |mana_1|\ |mana_g|, |tap|: Target creature gets -2/-0 until end of turn.
 
 
 :mtgtip:`Rabid Wombat<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9d9b9eb8-6367-4ab5-8e00-a9c9e1d69032.jpg?1562860163|https://scryfall.com/card/leg/198/rabid-wombat?utm_source=api>`

@@ -47,8 +47,8 @@ async def download_expansion(exp: str):
                     name = card["name"]
                     if name not in cache:
                         cache.append(name)
-                        if card.get("card_faces"):
-                            for face in card["card_faces"]:
+                        if faces := card.get("card_faces"):
+                            for face in faces:
                                 if "image_uris" in face:
                                     image_uri = face["image_uris"]["border_crop"]
                                 else:

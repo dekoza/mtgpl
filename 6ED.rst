@@ -59,6 +59,10 @@
    |mana_1|: The next time a white source of your choice would deal damage to you this turn, prevent that damage.
 
 
+:mtgtip:`Crusade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/f/5f3f5f07-f692-4531-81b6-31813574ec12.jpg?1562818171|https://scryfall.com/card/6ed/13/crusade?utm_source=api>`
+   White creatures get +1/+1.
+
+
 :mtgtip:`Daraja Griffin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/7/0795a1d6-9caf-472a-a349-fca97bccf8e2.jpg?1587101542|https://scryfall.com/card/6ed/14/daraja-griffin?utm_source=api>`
    Flying
 
@@ -1089,6 +1093,10 @@
 
 :mtgtip:`Panther Warriors<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/a/ba165e25-5328-40f4-b87c-9d02590f9d38.jpg?1562822119|https://scryfall.com/card/6ed/243/panther-warriors?utm_source=api>`
    
+
+
+:mtgtip:`Pradesh Gypsies<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/4/a4c9b18c-4993-4ce1-b2bd-ab14c9f3aad7.jpg?1644608181|https://scryfall.com/card/6ed/244/pradesh-gypsies?utm_source=api>`
+   |mana_1|\ |mana_g|, |tap|: Target creature gets -2/-0 until end of turn.
 
 
 :mtgtip:`Radjan Spirit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/1/e1ae5f0a-1fea-4c20-85b2-4b8eb2aba57c.jpg?1562823744|https://scryfall.com/card/6ed/245/radjan-spirit?utm_source=api>`
