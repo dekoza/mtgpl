@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-19 21:39+0200\n"
+"POT-Creation-Date: 2022-06-21 00:16+0200\n"
 "PO-Revision-Date: 2022-06-20 16:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c13/pl/>\n"
@@ -5022,10 +5022,13 @@ msgid ""
 "https://scryfall.com/card/c13/263/swiftfoot-boots?utm_source=api>`"
 msgstr ""
 
-# 13f08714f2db4b94a2ccc5708572417c
 #: ../../C13.rst:1497
-msgid "Equipped creature has hexproof and haste."
-msgstr "Wyposażony stwór ma antyklątwę i pośpiech."
+#, fuzzy
+#| msgid "Shroud (This creature can't be the target of spells or abilities.)"
+msgid ""
+"Equipped creature has hexproof and haste. (It can't be the target of spells "
+"or abilities your opponents control.)"
+msgstr "Antymagia (Ten stwór nie może być wskazywany przez czary i zdolności.)"
 
 # a03289526b7d41f8a167cf1100f60eea
 #: ../../C13.rst:1499
@@ -6433,6 +6436,10 @@ msgstr ""
 #: ../../C13.rst:2013
 msgid "(|tap|: Add |mana_g|.)"
 msgstr "(|tap|: Weź |mana_g|.)"
+
+# 13f08714f2db4b94a2ccc5708572417c
+#~ msgid "Equipped creature has hexproof and haste."
+#~ msgstr "Wyposażony stwór ma antyklątwę i pośpiech."
 
 # b3aa723e9f094efc80233aed3e715b1a
 #~ msgid ""

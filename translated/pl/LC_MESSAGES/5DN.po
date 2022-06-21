@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-19 21:39+0200\n"
+"POT-Creation-Date: 2022-06-21 00:16+0200\n"
 "PO-Revision-Date: 2022-05-29 08:43+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/5dn/pl/>\n"
@@ -313,7 +313,8 @@ msgid ""
 msgstr ""
 
 #: ../../5DN.rst:33 ../../5DN.rst:113 ../../5DN.rst:163 ../../5DN.rst:181
-#: ../../5DN.rst:227 ../../5DN.rst:247 ../../5DN.rst:269 ../../5DN.rst:805
+#: ../../5DN.rst:227 ../../5DN.rst:247 ../../5DN.rst:269 ../../5DN.rst:335
+#: ../../5DN.rst:805
 msgid "Flying"
 msgstr "Latanie"
 
@@ -1149,14 +1150,6 @@ msgid ""
 "border_crop/front/a/1/a1726eba-c471-40bd-a487-40d910b75d64.jpg?1562878851|"
 "https://scryfall.com/card/5dn/65/furnace-whelp?utm_source=api>`"
 msgstr ""
-
-#: ../../5DN.rst:335
-msgid ""
-"Flying (This creature can't be blocked except by creatures with flying or "
-"reach.)"
-msgstr ""
-"Latanie (Ten stwór nie może być blokowany, chyba że przez stwory z lataniem "
-"lub zasięgiem.)"
 
 #: ../../5DN.rst:337
 msgid "|mana_r|: Furnace Whelp gets +1/+0 until end of turn."
@@ -2679,3 +2672,10 @@ msgid ""
 msgstr ""
 "|mana_2|, |tap|, poświęć ten artefakt: Wyszukaj w twojej bibliotece kartę "
 "bazowego lądu, umieść ją przekręconą na polu bitwy, po czym przetasuj."
+
+#~ msgid ""
+#~ "Flying (This creature can't be blocked except by creatures with flying or "
+#~ "reach.)"
+#~ msgstr ""
+#~ "Latanie (Ten stwór nie może być blokowany, chyba że przez stwory z "
+#~ "lataniem lub zasięgiem.)"

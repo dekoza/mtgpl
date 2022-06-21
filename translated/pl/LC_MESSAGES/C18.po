@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-19 21:39+0200\n"
+"POT-Creation-Date: 2022-06-21 00:16+0200\n"
 "PO-Revision-Date: 2022-05-29 17:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c18/pl/>\n"
@@ -4138,9 +4138,13 @@ msgid ""
 msgstr ""
 
 #: ../../C18.rst:1227
+#, fuzzy
+#| msgid ""
+#| "|mana_4|, |tap|: Investigate. (Create a colorless Clue artifact token "
+#| "with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgid ""
-"|mana_4|, |tap|: Investigate. (Create a colorless Clue artifact token with "
-"\"|mana_2|, Sacrifice this artifact: Draw a card.\")"
+"|mana_4|, |tap|: Investigate. (Create a Clue token. It's an artifact with \"|"
+"mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
 "|mana_4|, |tap|: Dociekaj. (Stwórz żeton bezkolorowego artefaktu Wskazówka "
 "mający \"|mana_2|, poświęć ten artefakt: Dobierz kartę.\")"
@@ -4426,8 +4430,12 @@ msgid ""
 msgstr ""
 
 #: ../../C18.rst:1323
-msgid "Equipped creature has hexproof and haste."
-msgstr "Wyposażony stwór ma antyklątwę i pośpiech."
+#, fuzzy
+#| msgid "Shroud (This creature can't be the target of spells or abilities.)"
+msgid ""
+"Equipped creature has hexproof and haste. (It can't be the target of spells "
+"or abilities your opponents control.)"
+msgstr "Antymagia (Ten stwór nie może być wskazywany przez czary i zdolności.)"
 
 #: ../../C18.rst:1325
 msgid "Equip |mana_1|"
@@ -5595,6 +5603,9 @@ msgstr ""
 #: ../../C18.rst:1803
 msgid "(|tap|: Add |mana_g|.)"
 msgstr "(|tap|: Weź |mana_g|.)"
+
+#~ msgid "Equipped creature has hexproof and haste."
+#~ msgstr "Wyposażony stwór ma antyklątwę i pośpiech."
 
 #~ msgid "|tap|: Add |colorless|. (|colorless| represents colorless mana.)"
 #~ msgstr "|tap|: Weź |colorless|. (|colorless| oznacza bezkolorową manę.)"

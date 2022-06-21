@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-19 21:39+0200\n"
+"POT-Creation-Date: 2022-06-21 00:16+0200\n"
 "PO-Revision-Date: 2022-04-18 17:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/nph/pl/>\n"
@@ -2742,9 +2742,13 @@ msgstr ""
 
 # c71ffe9e713b4fbbb6155c4d79fdead1
 #: ../../NPH.rst:835
+#, fuzzy
+#| msgid ""
+#| "Whenever an opponent loses life, that player mills that many cards. "
+#| "(Damage dealt by sources without infect causes loss of life.)"
 msgid ""
 "Whenever an opponent loses life, that player mills that many cards. (Damage "
-"dealt by sources without infect causes loss of life.)"
+"causes loss of life.)"
 msgstr ""
 "Ilekroć przeciwnik traci życie, ów gracz mieli tyle samo kart. (Obrażenia "
 "zadane przez źródła bez zatruwania powodują utratę życia.)"

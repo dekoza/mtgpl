@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-19 21:39+0200\n"
+"POT-Creation-Date: 2022-06-21 00:16+0200\n"
 "PO-Revision-Date: 2022-04-18 22:02+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/khc/pl/>\n"
@@ -2020,8 +2020,10 @@ msgid ""
 msgstr ""
 
 #: ../../KHC.rst:573
-msgid "Equipped creature has hexproof and haste."
-msgstr "Wyposażony stwór ma antyklątwę i pośpiech."
+msgid ""
+"Equipped creature has hexproof and haste. (It can't be the target of spells "
+"or abilities your opponents control.)"
+msgstr ""
 
 #: ../../KHC.rst:575
 msgid "Equip |mana_1|"
@@ -2254,3 +2256,6 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 #: ../../KHC.rst:667
 msgid "When Tranquil Cove enters the battlefield, you gain 1 life."
 msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
+
+#~ msgid "Equipped creature has hexproof and haste."
+#~ msgstr "Wyposażony stwór ma antyklątwę i pośpiech."

@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-19 21:39+0200\n"
+"POT-Creation-Date: 2022-06-21 00:16+0200\n"
 "PO-Revision-Date: 2022-05-29 17:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c15/pl/>\n"
@@ -885,9 +885,14 @@ msgid ""
 msgstr ""
 
 #: ../../C15.rst:213
+#, fuzzy
+#| msgid ""
+#| "For each creature your opponents control, create a 4/4 green Phyrexian "
+#| "Beast creature token. Each of those Beasts fights a different one of "
+#| "those creatures."
 msgid ""
 "For each creature your opponents control, create a 4/4 green Phyrexian Beast "
-"creature token. Each of those Beasts fights a different one of those "
+"creature token. Each of those tokens fights a different one of those "
 "creatures."
 msgstr ""
 "Za każdego stwora pod władaniem twoich przeciwników, stwórz żeton zielonego "
@@ -937,13 +942,9 @@ msgid ""
 "scryfall.com/card/c15/39/skullwinder?utm_source=api>`"
 msgstr ""
 
-#: ../../C15.rst:229 ../../C15.rst:973
-msgid ""
-"Deathtouch (Any amount of damage this deals to a creature is enough to "
-"destroy it.)"
+#: ../../C15.rst:229
+msgid "Deathtouch"
 msgstr ""
-"Dotyk śmierci. (Stwór otrzymujący od niniejszego jakiekolwiek obrażenia "
-"zostaje zniszczony.)"
 
 #: ../../C15.rst:231
 msgid ""
@@ -3184,10 +3185,14 @@ msgid "Mizzium Mortars deals 4 damage to target creature you don't control."
 msgstr "Wskazany stwór poza twoim władaniem dostaje od tego czaru 4 obrażenia."
 
 #: ../../C15.rst:921
+#, fuzzy
+#| msgid ""
+#| "Overload |mana_3|\\ |mana_r|\\ |mana_r|\\ |mana_r| (You may cast this "
+#| "spell for its overload cost. If you do, change its text by replacing all "
+#| "instances of \"target\" with \"each.\")"
 msgid ""
 "Overload |mana_3|\\ |mana_r|\\ |mana_r|\\ |mana_r| (You may cast this spell "
-"for its overload cost. If you do, change its text by replacing all instances "
-"of \"target\" with \"each.\")"
+"for its overload cost. If you do, change \"target\" in its text to \"each.\")"
 msgstr ""
 "Przeciążenie |mana_3|\\ |mana_r|\\ |mana_r|\\ |mana_r| (Możesz rzucić ten "
 "czar za jego koszt przeciążenia. Jeśli tak zrobisz, zmień jego tekst "
@@ -3361,6 +3366,14 @@ msgid ""
 "border_crop/front/3/3/33c95f5a-3b59-4103-8464-b43b42f451b3.jpg?1562702925|"
 "https://scryfall.com/card/c15/173/acidic-slime?utm_source=api>`"
 msgstr ""
+
+#: ../../C15.rst:973
+msgid ""
+"Deathtouch (Any amount of damage this deals to a creature is enough to "
+"destroy it.)"
+msgstr ""
+"Dotyk śmierci. (Stwór otrzymujący od niniejszego jakiekolwiek obrażenia "
+"zostaje zniszczony.)"
 
 #: ../../C15.rst:975
 msgid ""
@@ -5032,8 +5045,16 @@ msgid ""
 msgstr ""
 
 #: ../../C15.rst:1511
-msgid "Equipped creature has hexproof and haste."
-msgstr "Wyposażony stwór ma antyklątwę i pośpiech."
+#, fuzzy
+#| msgid ""
+#| "Equipped creature has haste and shroud. (It can't be the target of spells "
+#| "or abilities.)"
+msgid ""
+"Equipped creature has hexproof and haste. (It can't be the target of spells "
+"or abilities your opponents control.)"
+msgstr ""
+"Wyposażony stwór ma pośpiech i antymagię. (Nie może być wskazywany przez "
+"czary lub zdolności.)"
 
 #: ../../C15.rst:1520
 msgid ""
@@ -5904,6 +5925,9 @@ msgstr ""
 #: ../../C15.rst:1887
 msgid "(|tap|: Add |mana_g|.)"
 msgstr "(|tap|: Weź |mana_g|.)"
+
+#~ msgid "Equipped creature has hexproof and haste."
+#~ msgstr "Wyposażony stwór ma antyklątwę i pośpiech."
 
 #~ msgid ""
 #~ "You may cast the top card of your library if it's an instant or sorcery "

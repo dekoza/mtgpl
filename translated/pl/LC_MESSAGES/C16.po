@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-29 18:35+0200\n"
+"POT-Creation-Date: 2022-06-21 00:16+0200\n"
 "PO-Revision-Date: 2022-05-29 17:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c16/pl/>\n"
@@ -5106,8 +5106,16 @@ msgid ""
 msgstr ""
 
 #: ../../C16.rst:1569
-msgid "Equipped creature has hexproof and haste."
-msgstr "Wyposażony stwór ma antyklątwę i pośpiech."
+#, fuzzy
+#| msgid ""
+#| "Equipped creature has haste and shroud. (It can't be the target of spells "
+#| "or abilities.)"
+msgid ""
+"Equipped creature has hexproof and haste. (It can't be the target of spells "
+"or abilities your opponents control.)"
+msgstr ""
+"Wyposażony stwór ma pośpiech i antymagię. (Nie może być wskazywany przez "
+"czary lub zdolności.)"
 
 #: ../../C16.rst:1576
 msgid ""
@@ -6178,6 +6186,9 @@ msgid ""
 "front/e/4/e4508384-7c5b-4189-80e6-1fc8a0fd4692.jpg?1562423219|https://"
 "scryfall.com/card/c16/349/forest?utm_source=api>`"
 msgstr ""
+
+#~ msgid "Equipped creature has hexproof and haste."
+#~ msgstr "Wyposażony stwór ma antyklątwę i pośpiech."
 
 #~ msgid "Multikicker |mana_2|"
 #~ msgstr "Wielopodbicie |mana_2|"
