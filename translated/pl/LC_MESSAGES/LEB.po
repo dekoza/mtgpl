@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-21 00:16+0200\n"
+"POT-Creation-Date: 2022-06-21 12:36+0200\n"
 "PO-Revision-Date: 2022-06-20 16:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/leb/pl/>\n"
@@ -287,7 +287,7 @@ msgid ""
 "https://scryfall.com/card/leb/4/benalish-hero?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:23 ../../LEB.rst:1091
+#: ../../LEB.rst:23 ../../LEB.rst:1095
 msgid ""
 "Banding (Any creatures with banding, and up to one without, can attack in a "
 "band. Bands are blocked as a group. If any creatures with banding you "
@@ -308,12 +308,12 @@ msgid ""
 "scryfall.com/card/leb/5/black-ward?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:27 ../../LEB.rst:39 ../../LEB.rst:45 ../../LEB.rst:101
-#: ../../LEB.rst:119 ../../LEB.rst:127 ../../LEB.rst:141 ../../LEB.rst:169
-#: ../../LEB.rst:219 ../../LEB.rst:259 ../../LEB.rst:273 ../../LEB.rst:289
-#: ../../LEB.rst:295 ../../LEB.rst:603 ../../LEB.rst:665 ../../LEB.rst:683
-#: ../../LEB.rst:705 ../../LEB.rst:737 ../../LEB.rst:763 ../../LEB.rst:921
-#: ../../LEB.rst:1009 ../../LEB.rst:1055 ../../LEB.rst:1121
+#: ../../LEB.rst:27 ../../LEB.rst:39 ../../LEB.rst:45 ../../LEB.rst:105
+#: ../../LEB.rst:123 ../../LEB.rst:131 ../../LEB.rst:145 ../../LEB.rst:173
+#: ../../LEB.rst:223 ../../LEB.rst:263 ../../LEB.rst:277 ../../LEB.rst:293
+#: ../../LEB.rst:299 ../../LEB.rst:607 ../../LEB.rst:669 ../../LEB.rst:687
+#: ../../LEB.rst:709 ../../LEB.rst:741 ../../LEB.rst:767 ../../LEB.rst:925
+#: ../../LEB.rst:1013 ../../LEB.rst:1059 ../../LEB.rst:1125
 msgid "Enchant creature"
 msgstr "Zaurocz stwora"
 
@@ -468,8 +468,8 @@ msgid ""
 "https://scryfall.com/card/leb/15/consecrate-land?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:75 ../../LEB.rst:95 ../../LEB.rst:335 ../../LEB.rst:373
-#: ../../LEB.rst:483 ../../LEB.rst:533 ../../LEB.rst:1021 ../../LEB.rst:1137
+#: ../../LEB.rst:75 ../../LEB.rst:99 ../../LEB.rst:339 ../../LEB.rst:377
+#: ../../LEB.rst:487 ../../LEB.rst:537 ../../LEB.rst:1025 ../../LEB.rst:1141
 msgid "Enchant land"
 msgstr "Zaurocz ląd"
 
@@ -500,34 +500,45 @@ msgstr "Wszystkie Góry są Równinami."
 
 #: ../../LEB.rst:88
 msgid ""
+":mtgtip:`Crusade<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/2/d/2d5fbd9d-48bf-4600-8ca4-2ce2ca48128e.jpg?1559591666|https://"
+"scryfall.com/card/leb/17/crusade?utm_source=api>`"
+msgstr ""
+
+#: ../../LEB.rst:87
+msgid "White creatures get +1/+1."
+msgstr "Białe stwory dostają +1/+1."
+
+#: ../../LEB.rst:92
+msgid ""
 ":mtgtip:`Death Ward<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/b/1/b119edd8-7801-475e-943a-6cbf10f2d303.jpg?1559591619|https://"
 "scryfall.com/card/leb/18/death-ward?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:87
+#: ../../LEB.rst:91
 msgid "Regenerate target creature."
 msgstr "Zregeneruj wskazanego stwora."
 
-#: ../../LEB.rst:92
+#: ../../LEB.rst:96
 msgid ""
 ":mtgtip:`Disenchant<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/9/d/9d61d0a5-7e92-4413-9121-925e1876b64d.jpg?1559591821|https://"
 "scryfall.com/card/leb/19/disenchant?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:91
+#: ../../LEB.rst:95
 msgid "Destroy target artifact or enchantment."
 msgstr "Zniszcz wskazany artefakt lub urok."
 
-#: ../../LEB.rst:98
+#: ../../LEB.rst:102
 msgid ""
 ":mtgtip:`Farmstead<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/c/4/c49ecc66-dccb-4026-8c6e-0b275a635a1f.jpg?1559591808|https://"
 "scryfall.com/card/leb/20/farmstead?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:97
+#: ../../LEB.rst:101
 msgid ""
 "Enchanted land has \"At the beginning of your upkeep, you may pay |mana_w|\\ "
 "|mana_w|. If you do, you gain 1 life.\""
@@ -535,14 +546,14 @@ msgstr ""
 "Zauroczony ląd ma \"Na początku twojego kroku utrzymania, możesz zapłacić |"
 "mana_w|\\ |mana_w|. Jeśli tak zrobisz, zyskaj 1 życie.\""
 
-#: ../../LEB.rst:104
+#: ../../LEB.rst:108
 msgid ""
 ":mtgtip:`Green Ward<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/a/4/a488ce63-1adb-4051-9521-703bad8d02f6.jpg?1559591785|https://"
 "scryfall.com/card/leb/21/green-ward?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:103
+#: ../../LEB.rst:107
 msgid ""
 "Enchanted creature has protection from green. This effect doesn't remove "
 "Green Ward."
@@ -550,14 +561,14 @@ msgstr ""
 "Zauroczony stwór ma ochronę przed zielonym. Ten efekt nie usuwa niniejszego "
 "bytu."
 
-#: ../../LEB.rst:108
+#: ../../LEB.rst:112
 msgid ""
 ":mtgtip:`Guardian Angel<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/9/c/9c4e8259-b369-4b59-85fa-fe9edb1887c5.jpg?1559591784|"
 "https://scryfall.com/card/leb/22/guardian-angel?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:107
+#: ../../LEB.rst:111
 msgid ""
 "Prevent the next X damage that would be dealt to any target this turn. Until "
 "end of turn, you may pay |mana_1| any time you could cast an instant. If you "
@@ -565,75 +576,75 @@ msgid ""
 "player this turn."
 msgstr ""
 
-#: ../../LEB.rst:116
+#: ../../LEB.rst:120
 msgid ""
 ":mtgtip:`Healing Salve<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/9/c/9c9f2eeb-fea5-4b33-9723-8be3c1914f63.jpg?1559591587|"
 "https://scryfall.com/card/leb/23/healing-salve?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:111 ../../LEB.rst:243 ../../LEB.rst:843
+#: ../../LEB.rst:115 ../../LEB.rst:247 ../../LEB.rst:847
 msgid "Choose one —"
 msgstr "Wybierz jedno —"
 
-#: ../../LEB.rst:113
+#: ../../LEB.rst:117
 msgid "Target player gains 3 life."
 msgstr "Wskazany gracz zyskuje 3 życia."
 
-#: ../../LEB.rst:115
+#: ../../LEB.rst:119
 msgid "Prevent the next 3 damage that would be dealt to any target this turn."
 msgstr ""
 "Zażegnaj najbliższe 3 obrażenia jakie mogłyby zostać w tej turze zadane "
 "wskazanemu celowi."
 
-#: ../../LEB.rst:124
+#: ../../LEB.rst:128
 msgid ""
 ":mtgtip:`Holy Armor<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/6/a/6ab1d885-989c-4d71-8139-9e35d2f16d03.jpg?1559591781|https://"
 "scryfall.com/card/leb/24/holy-armor?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:121
+#: ../../LEB.rst:125
 msgid "Enchanted creature gets +0/+2."
 msgstr "Zauroczony stwór dostaje +0/+2."
 
-#: ../../LEB.rst:123
+#: ../../LEB.rst:127
 msgid "|mana_w|: Enchanted creature gets +0/+1 until end of turn."
 msgstr "|mana_w|: Zauroczony stwór dostaje do końca tury +0/+1."
 
-#: ../../LEB.rst:130
+#: ../../LEB.rst:134
 msgid ""
 ":mtgtip:`Holy Strength<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/d/e/de989395-50bf-458a-a010-e12abe2e15a6.jpg?1559591779|"
 "https://scryfall.com/card/leb/25/holy-strength?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:129
+#: ../../LEB.rst:133
 msgid "Enchanted creature gets +1/+2."
 msgstr "Zauroczony stwór dostaje +1/+2."
 
-#: ../../LEB.rst:134
+#: ../../LEB.rst:138
 msgid ""
 ":mtgtip:`Island Sanctuary<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/2/7/273fb2b6-3d11-4f0d-9fb0-0364353c2060.jpg?1559591665|"
 "https://scryfall.com/card/leb/26/island-sanctuary?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:133
+#: ../../LEB.rst:137
 msgid ""
 "If you would draw a card during your draw step, instead you may skip that "
 "draw. If you do, until your next turn, you can't be attacked except by "
 "creatures with flying and/or islandwalk."
 msgstr ""
 
-#: ../../LEB.rst:138
+#: ../../LEB.rst:142
 msgid ""
 ":mtgtip:`Karma<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/1/b/1bea2eb6-dfae-4bdc-9ab3-b2b491c69c59.jpg?1559591638|https://"
 "scryfall.com/card/leb/27/karma?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:137
+#: ../../LEB.rst:141
 msgid ""
 "At the beginning of each player's upkeep, Karma deals damage to that player "
 "equal to the number of Swamps they control."
@@ -641,25 +652,25 @@ msgstr ""
 "Na początku kroku utrzymania każdego z graczy, ten urok zadaje owemu "
 "graczowi obrażenia równe liczbie Bagien pod jego władaniem."
 
-#: ../../LEB.rst:144
+#: ../../LEB.rst:148
 msgid ""
 ":mtgtip:`Lance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/"
 "a/7/a7aa3a93-3765-49f0-8ff2-b6843509c34a.jpg?1559591549|https://scryfall.com/"
 "card/leb/28/lance?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:143
+#: ../../LEB.rst:147
 msgid "Enchanted creature has first strike."
 msgstr "Zauroczony stwór ma pierwszy cios."
 
-#: ../../LEB.rst:148
+#: ../../LEB.rst:152
 msgid ""
 ":mtgtip:`Mesa Pegasus<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/5/5/55bff46a-6725-4918-9bdf-38efaaf50236.jpg?1559591752|"
 "https://scryfall.com/card/leb/29/mesa-pegasus?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:147
+#: ../../LEB.rst:151
 msgid ""
 "Flying; banding (Any creatures with banding, and up to one without, can "
 "attack in a band. Bands are blocked as a group. If any creatures with "
@@ -673,51 +684,51 @@ msgstr ""
 "przez stwora, to ty rozdzielasz obrażenia bojowe owego stwora zamiast jego "
 "władcy, między dowolne stwory, które blokuje lub przez które jest blokowany.)"
 
-#: ../../LEB.rst:152
+#: ../../LEB.rst:156
 msgid ""
 ":mtgtip:`Northern Paladin<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/4/b/4ba8493c-ae69-48d1-a050-a887ae27c83f.jpg?1559591629|"
 "https://scryfall.com/card/leb/30/northern-paladin?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:151
+#: ../../LEB.rst:155
 msgid "|mana_w|\\ |mana_w|, |tap|: Destroy target black permanent."
 msgstr "|mana_w|\\ |mana_w|, |tap|: Zniszcz wskazany czarny byt."
 
-#: ../../LEB.rst:154
+#: ../../LEB.rst:158
 msgid ""
 ":mtgtip:`Pearled Unicorn<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/4/7/47024d6d-dc55-4c35-b2bb-1b8bb0ee4e38.jpg?1559591622|"
 "https://scryfall.com/card/leb/31/pearled-unicorn?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:162
+#: ../../LEB.rst:166
 msgid ""
 ":mtgtip:`Personal Incarnation<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/f/7/f7bb9f31-0818-4422-8533-99a4e6845a02.jpg?1559591905|"
 "https://scryfall.com/card/leb/32/personal-incarnation?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:159
+#: ../../LEB.rst:163
 msgid ""
 "|mana_0|: The next 1 damage that would be dealt to Personal Incarnation this "
 "turn is dealt to its owner instead. Only Personal Incarnation's owner may "
 "activate this ability."
 msgstr ""
 
-#: ../../LEB.rst:161
+#: ../../LEB.rst:165
 msgid ""
 "When Personal Incarnation dies, its owner loses half their life, rounded up."
 msgstr ""
 
-#: ../../LEB.rst:166
+#: ../../LEB.rst:170
 msgid ""
 ":mtgtip:`Purelace<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/a/f/af11986e-42bd-4f54-8624-7b34b1783a40.jpg?1559591904|https://"
 "scryfall.com/card/leb/33/purelace?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:165
+#: ../../LEB.rst:169
 msgid ""
 "Target spell or permanent becomes white. (Mana symbols on that permanent "
 "remain unchanged.)"
@@ -725,14 +736,14 @@ msgstr ""
 "Wskazany czar lub byt staje się biały. (Symbole many na owym bycie zostają "
 "bez zmian.)"
 
-#: ../../LEB.rst:172
+#: ../../LEB.rst:176
 msgid ""
 ":mtgtip:`Red Ward<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/0/5/057237bb-e1e6-4bcc-8639-ca0dcdd4846c.jpg?1559591635|https://"
 "scryfall.com/card/leb/34/red-ward?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:171
+#: ../../LEB.rst:175
 msgid ""
 "Enchanted creature has protection from red. This effect doesn't remove Red "
 "Ward."
@@ -740,25 +751,25 @@ msgstr ""
 "Zauroczony stwór ma ochronę przed czerwonym. Ten efekt nie usuwa niniejszego "
 "bytu."
 
-#: ../../LEB.rst:176
+#: ../../LEB.rst:180
 msgid ""
 ":mtgtip:`Resurrection<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/5/0/50e3c741-5095-48a6-bd93-b9c4db265004.jpg?1559591734|"
 "https://scryfall.com/card/leb/35/resurrection?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:175
+#: ../../LEB.rst:179
 msgid "Return target creature card from your graveyard to the battlefield."
 msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza na pole bitwy."
 
-#: ../../LEB.rst:180
+#: ../../LEB.rst:184
 msgid ""
 ":mtgtip:`Reverse Damage<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/4/6/46cf22e4-cc5c-4723-a9cb-ae7ce7a55a1a.jpg?1559591533|"
 "https://scryfall.com/card/leb/36/reverse-damage?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:179
+#: ../../LEB.rst:183
 msgid ""
 "The next time a source of your choice would deal damage to you this turn, "
 "prevent that damage. You gain life equal to the damage prevented this way."
@@ -767,100 +778,100 @@ msgstr ""
 "tobie obrażenia, zażegnaj je. Zyskaj życia równe obrażeniom zażegnanym w ten "
 "sposób."
 
-#: ../../LEB.rst:184
+#: ../../LEB.rst:188
 msgid ""
 ":mtgtip:`Righteousness<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/b/8/b847a2d1-5912-4f88-a68f-06790d0795dc.jpg?1559591901|"
 "https://scryfall.com/card/leb/37/righteousness?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:183
+#: ../../LEB.rst:187
 msgid "Target blocking creature gets +7/+7 until end of turn."
 msgstr "Wskazany blokujący stwór dostaje do końca tury +7/+7."
 
-#: ../../LEB.rst:188
+#: ../../LEB.rst:192
 msgid ""
 ":mtgtip:`Samite Healer<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/3/f/3fbfb106-29d8-4065-b306-51dba0ed11a4.jpg?1559591930|"
 "https://scryfall.com/card/leb/38/samite-healer?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:187
+#: ../../LEB.rst:191
 msgid ""
 "|tap|: Prevent the next 1 damage that would be dealt to any target this turn."
 msgstr ""
 "|tap|: Zażegnaj najbliższe 1 obrażenie, jakie miałoby zostać zadane w tej "
 "turze wskazanemu celowi."
 
-#: ../../LEB.rst:190
+#: ../../LEB.rst:194
 msgid ""
 ":mtgtip:`Savannah Lions<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/6/7/67d1945d-d228-4dc3-a593-859408b2016b.jpg?1559591503|"
 "https://scryfall.com/card/leb/39/savannah-lions?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:196
+#: ../../LEB.rst:200
 msgid ""
 ":mtgtip:`Serra Angel<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/5/6/5669f9c8-2e94-47e2-a551-7efff317fb34.jpg?1559591719|https://"
 "scryfall.com/card/leb/40/serra-angel?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:195
+#: ../../LEB.rst:199
 msgid "Flying, vigilance"
 msgstr "Latanie, czujność"
 
-#: ../../LEB.rst:200
+#: ../../LEB.rst:204
 msgid ""
 ":mtgtip:`Swords to Plowshares<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/2/5/255099be-c64e-4f6a-8463-4fc058d6908d.jpg?1559591712|"
 "https://scryfall.com/card/leb/41/swords-to-plowshares?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:199
+#: ../../LEB.rst:203
 msgid "Exile target creature. Its controller gains life equal to its power."
 msgstr "Wygnaj wskazanego stwora. Jego władca zyskuje życia równe jego sile."
 
-#: ../../LEB.rst:204
+#: ../../LEB.rst:208
 msgid ""
 ":mtgtip:`Veteran Bodyguard<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/d/8/d8d888b7-26e2-465d-b5ee-bb2f2af5c621.jpg?1559591695|"
 "https://scryfall.com/card/leb/42/veteran-bodyguard?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:203
+#: ../../LEB.rst:207
 msgid ""
 "As long as Veteran Bodyguard is untapped, all damage that would be dealt to "
 "you by unblocked creatures is dealt to Veteran Bodyguard instead."
 msgstr ""
 
-#: ../../LEB.rst:210
+#: ../../LEB.rst:214
 msgid ""
 ":mtgtip:`Wall of Swords<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/b/e/be955e9a-e722-4cd7-8e3d-bab1889c255b.jpg?1559591581|"
 "https://scryfall.com/card/leb/43/wall-of-swords?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:207 ../../LEB.rst:445 ../../LEB.rst:671 ../../LEB.rst:907
-#: ../../LEB.rst:913 ../../LEB.rst:1107 ../../LEB.rst:1113 ../../LEB.rst:1117
-#: ../../LEB.rst:1273
+#: ../../LEB.rst:211 ../../LEB.rst:449 ../../LEB.rst:675 ../../LEB.rst:911
+#: ../../LEB.rst:917 ../../LEB.rst:1111 ../../LEB.rst:1117 ../../LEB.rst:1121
+#: ../../LEB.rst:1277
 msgid "Defender (This creature can't attack.)"
 msgstr "Obronność (Ten stwór nie może atakować.)"
 
-#: ../../LEB.rst:209 ../../LEB.rst:229 ../../LEB.rst:329 ../../LEB.rst:343
-#: ../../LEB.rst:559 ../../LEB.rst:719 ../../LEB.rst:785 ../../LEB.rst:851
-#: ../../LEB.rst:933 ../../LEB.rst:949 ../../LEB.rst:1075
+#: ../../LEB.rst:213 ../../LEB.rst:233 ../../LEB.rst:333 ../../LEB.rst:347
+#: ../../LEB.rst:563 ../../LEB.rst:723 ../../LEB.rst:789 ../../LEB.rst:855
+#: ../../LEB.rst:937 ../../LEB.rst:953 ../../LEB.rst:1079
 msgid "Flying"
 msgstr "Latanie"
 
-#: ../../LEB.rst:216
+#: ../../LEB.rst:220
 msgid ""
 ":mtgtip:`White Knight<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/a/2/a231e0b8-b3e3-4f4a-8baa-c56626b01685.jpg?1559591891|"
 "https://scryfall.com/card/leb/44/white-knight?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:213 ../../LEB.rst:467
+#: ../../LEB.rst:217 ../../LEB.rst:471
 msgid ""
 "First strike (This creature deals combat damage before creatures without "
 "first strike.)"
@@ -868,7 +879,7 @@ msgstr ""
 "Pierwszy cios (Ten stwór zadaje obrażenia bojowe przed stworami bez "
 "pierwszego ciosu.)"
 
-#: ../../LEB.rst:215
+#: ../../LEB.rst:219
 msgid ""
 "Protection from black (This creature can't be blocked, targeted, dealt "
 "damage, or enchanted by anything black.)"
@@ -876,14 +887,14 @@ msgstr ""
 "Ochrona przed czarnym (Nic czarnego nie może blokować, wskazywać, zadać "
 "obrażeń, zauroczyć ani wyposażyć tego stwora.)"
 
-#: ../../LEB.rst:222
+#: ../../LEB.rst:226
 msgid ""
 ":mtgtip:`White Ward<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/4/9/4988dc3e-2ed8-4de3-9d1b-838003c9c9e3.jpg?1559591890|https://"
 "scryfall.com/card/leb/45/white-ward?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:221
+#: ../../LEB.rst:225
 msgid ""
 "Enchanted creature has protection from white. This effect doesn't remove "
 "White Ward."
@@ -891,86 +902,86 @@ msgstr ""
 "Zauroczony stwór ma ochronę przed białym. Ten efekt nie usuwa niniejszego "
 "bytu."
 
-#: ../../LEB.rst:226
+#: ../../LEB.rst:230
 msgid ""
 ":mtgtip:`Wrath of God<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/9/6/96dd2d61-a43d-4582-b730-71d4fac0fa23.jpg?1559591596|"
 "https://scryfall.com/card/leb/46/wrath-of-god?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:225
+#: ../../LEB.rst:229
 msgid "Destroy all creatures. They can't be regenerated."
 msgstr "Zniszcz wszystkie stwory. Nie mogą być zregenerowane."
 
-#: ../../LEB.rst:230
+#: ../../LEB.rst:234
 msgid ""
 ":mtgtip:`Air Elemental<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/3/6/36a94a6d-26b1-4486-9444-ec366e6f4d6e.jpg?1559591881|"
 "https://scryfall.com/card/leb/47/air-elemental?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:234
+#: ../../LEB.rst:238
 msgid ""
 ":mtgtip:`Ancestral Recall<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/4/6/46b0a5c2-ac85-448e-9e87-12fc74fd4147.jpg?1559591672|"
 "https://scryfall.com/card/leb/48/ancestral-recall?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:233
+#: ../../LEB.rst:237
 msgid "Target player draws three cards."
 msgstr "Wskazany gracz dobiera trzy karty."
 
-#: ../../LEB.rst:240
+#: ../../LEB.rst:244
 msgid ""
 ":mtgtip:`Animate Artifact<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/c/b/cb575b27-d2ca-4d90-a650-dc670484f607.jpg?1559591878|"
 "https://scryfall.com/card/leb/49/animate-artifact?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:237 ../../LEB.rst:407 ../../LEB.rst:677 ../../LEB.rst:1039
+#: ../../LEB.rst:241 ../../LEB.rst:411 ../../LEB.rst:681 ../../LEB.rst:1043
 msgid "Enchant artifact"
 msgstr "Zaurocz artefakt"
 
-#: ../../LEB.rst:239
+#: ../../LEB.rst:243
 msgid ""
 "As long as enchanted artifact isn't a creature, it's an artifact creature "
 "with power and toughness each equal to its mana value."
 msgstr ""
 
-#: ../../LEB.rst:248
+#: ../../LEB.rst:252
 msgid ""
 ":mtgtip:`Blue Elemental Blast<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/7/f/7f07e272-6cc7-46d6-ad5c-473d1021c179.jpg?1559591860|"
 "https://scryfall.com/card/leb/50/blue-elemental-blast?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:245
+#: ../../LEB.rst:249
 msgid "Counter target red spell."
 msgstr "Skontruj wskazany czerwony czar."
 
-#: ../../LEB.rst:247
+#: ../../LEB.rst:251
 msgid "Destroy target red permanent."
 msgstr "Zniszcz wskazany czerwony byt."
 
-#: ../../LEB.rst:252
+#: ../../LEB.rst:256
 msgid ""
 ":mtgtip:`Braingeyser<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/a/5/a5dd8dbb-9538-4786-b20c-0ea2f446f323.jpg?1559591641|https://"
 "scryfall.com/card/leb/51/braingeyser?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:251
+#: ../../LEB.rst:255
 msgid "Target player draws X cards."
 msgstr "Wskazany gracz dobiera X kart."
 
-#: ../../LEB.rst:256
+#: ../../LEB.rst:260
 msgid ""
 ":mtgtip:`Clone<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/"
 "a/f/af53b5fc-c31a-4f26-93bf-0c45c1f4e1e5.jpg?1559591842|https://scryfall.com/"
 "card/leb/52/clone?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:255
+#: ../../LEB.rst:259
 msgid ""
 "You may have Clone enter the battlefield as a copy of any creature on the "
 "battlefield."
@@ -978,138 +989,138 @@ msgstr ""
 "Możesz zdecydować, że ten byt wejdzie na pole bitwy jako kopia dowolnego "
 "stwora na polu bitwy."
 
-#: ../../LEB.rst:262
+#: ../../LEB.rst:266
 msgid ""
 ":mtgtip:`Control Magic<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/1/3/133315bd-3c46-4eff-938e-4dba63631c1b.jpg?1559591839|"
 "https://scryfall.com/card/leb/53/control-magic?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:261
+#: ../../LEB.rst:265
 msgid "You control enchanted creature."
 msgstr "Masz władanie nad zauroczonym stworem."
 
-#: ../../LEB.rst:266
+#: ../../LEB.rst:270
 msgid ""
 ":mtgtip:`Copy Artifact<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/e/2/e24fe07d-1328-4165-b7a0-622b60cec481.jpg?1559591837|"
 "https://scryfall.com/card/leb/54/copy-artifact?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:265
+#: ../../LEB.rst:269
 msgid ""
 "You may have Copy Artifact enter the battlefield as a copy of any artifact "
 "on the battlefield, except it's an enchantment in addition to its other "
 "types."
 msgstr ""
 
-#: ../../LEB.rst:270
+#: ../../LEB.rst:274
 msgid ""
 ":mtgtip:`Counterspell<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/9/e/9e11bf7c-f439-4529-b29a-d711359807ef.jpg?1559591924|"
 "https://scryfall.com/card/leb/55/counterspell?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:269
+#: ../../LEB.rst:273
 msgid "Counter target spell."
 msgstr "Skontruj wskazany czar."
 
-#: ../../LEB.rst:276
+#: ../../LEB.rst:280
 msgid ""
 ":mtgtip:`Creature Bond<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/4/c/4ce48b24-a65e-42d9-a147-8f89028fada7.jpg?1559591835|"
 "https://scryfall.com/card/leb/56/creature-bond?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:275
+#: ../../LEB.rst:279
 msgid ""
 "When enchanted creature dies, Creature Bond deals damage equal to that "
 "creature's toughness to the creature's controller."
 msgstr ""
 
-#: ../../LEB.rst:280
+#: ../../LEB.rst:284
 msgid ""
 ":mtgtip:`Drain Power<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/9/6/9672caeb-5cf8-4b40-a371-005c911a67d9.jpg?1559591511|https://"
 "scryfall.com/card/leb/57/drain-power?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:279
+#: ../../LEB.rst:283
 msgid ""
 "Target player activates a mana ability of each land they control. Then that "
 "player loses all unspent mana and you add the mana lost this way."
 msgstr ""
 
-#: ../../LEB.rst:286
+#: ../../LEB.rst:290
 msgid ""
 ":mtgtip:`Feedback<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/6/4/644288e8-e0b1-418f-b105-01a557a3e497.jpg?1559591805|https://"
 "scryfall.com/card/leb/58/feedback?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:283 ../../LEB.rst:355
+#: ../../LEB.rst:287 ../../LEB.rst:359
 msgid "Enchant enchantment"
 msgstr "Zaurocz urok"
 
-#: ../../LEB.rst:285
+#: ../../LEB.rst:289
 msgid ""
 "At the beginning of the upkeep of enchanted enchantment's controller, "
 "Feedback deals 1 damage to that player."
 msgstr ""
 
-#: ../../LEB.rst:292
+#: ../../LEB.rst:296
 msgid ""
 ":mtgtip:`Flight<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/2/4/24584ffa-8ed1-4930-b6d8-ac1d02738ed0.jpg?1559591931|https://"
 "scryfall.com/card/leb/59/flight?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:291
+#: ../../LEB.rst:295
 msgid "Enchanted creature has flying."
 msgstr "Zauroczony stwór ma latanie."
 
-#: ../../LEB.rst:298
+#: ../../LEB.rst:302
 msgid ""
 ":mtgtip:`Invisibility<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/d/d/dde97b8f-7c10-48d3-8ae2-9f86158973ec.jpg?1559591773|"
 "https://scryfall.com/card/leb/60/invisibility?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:297
+#: ../../LEB.rst:301
 msgid "Enchanted creature can't be blocked except by Walls."
 msgstr "Zauroczony stwór nie może być blokowany, chyba że przez Ściany."
 
-#: ../../LEB.rst:302
+#: ../../LEB.rst:306
 msgid ""
 ":mtgtip:`Jump<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/"
 "e/5/e51e8a6e-1da8-4e6f-8433-9f0695926f04.jpg?1559591548|https://scryfall.com/"
 "card/leb/61/jump?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:301
+#: ../../LEB.rst:305
 msgid "Target creature gains flying until end of turn."
 msgstr "Wskazany stwór zyskuje do końca tury latanie."
 
-#: ../../LEB.rst:306
+#: ../../LEB.rst:310
 msgid ""
 ":mtgtip:`Lifetap<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/7/4/74e7775b-b03b-4fc0-bcd9-3681cce5e70c.jpg?1559591912|https://"
 "scryfall.com/card/leb/62/lifetap?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:305
+#: ../../LEB.rst:309
 msgid "Whenever a Forest an opponent controls becomes tapped, you gain 1 life."
 msgstr ""
 "Ilekroć Las pod władaniem przeciwnika zostanie przekręcony, zyskaj 1 życie."
 
-#: ../../LEB.rst:310
+#: ../../LEB.rst:314
 msgid ""
 ":mtgtip:`Lord of Atlantis<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/2/7/27d7ac1f-2243-4c70-95a4-2b7343c8d92d.jpg?1559591759|"
 "https://scryfall.com/card/leb/63/lord-of-atlantis?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:309
+#: ../../LEB.rst:313
 msgid ""
 "Other Merfolk get +1/+1 and have islandwalk. (They can't be blocked as long "
 "as defending player controls an Island.)"
@@ -1117,29 +1128,29 @@ msgstr ""
 "Inne Wodniki dostają +1/+1 i mają podbój wysp (Nie mogą być blokowane o ile "
 "broniący się gracz włada Wyspą.)"
 
-#: ../../LEB.rst:314
+#: ../../LEB.rst:318
 msgid ""
 ":mtgtip:`Magical Hack<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/0/a/0aa81390-4e0b-484b-a5be-a9449cd41860.jpg?1559591883|"
 "https://scryfall.com/card/leb/64/magical-hack?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:313
+#: ../../LEB.rst:317
 msgid ""
 "Change the text of target spell or permanent by replacing all instances of "
 "one basic land type with another. (For example, you may change \"swampwalk\" "
 "to \"plainswalk.\" This effect lasts indefinitely.)"
 msgstr ""
 
-#: ../../LEB.rst:318
+#: ../../LEB.rst:322
 msgid ""
 ":mtgtip:`Mahamoti Djinn<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/0/8/083f76c8-3e6d-4de5-b408-2f2394faed5c.jpg?1559591611|"
 "https://scryfall.com/card/leb/65/mahamoti-djinn?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:317 ../../LEB.rst:597 ../../LEB.rst:647 ../../LEB.rst:689
-#: ../../LEB.rst:875
+#: ../../LEB.rst:321 ../../LEB.rst:601 ../../LEB.rst:651 ../../LEB.rst:693
+#: ../../LEB.rst:879
 msgid ""
 "Flying (This creature can't be blocked except by creatures with flying or "
 "reach.)"
@@ -1147,21 +1158,21 @@ msgstr ""
 "Latanie (Ten stwór nie może być blokowany, chyba że przez stwory z lataniem "
 "lub zasięgiem.)"
 
-#: ../../LEB.rst:322
+#: ../../LEB.rst:326
 msgid ""
 ":mtgtip:`Mana Short<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/4/d/4da4f9a8-024b-4707-b300-ccb11bd87cea.jpg?1559591754|https://"
 "scryfall.com/card/leb/66/mana-short?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:321
+#: ../../LEB.rst:325
 msgid ""
 "Tap all lands target player controls and that player loses all unspent mana."
 msgstr ""
 "Przekręć wszystkie lądy pod władaniem wskazanego gracza i ów gracz traci "
 "całą niewydaną manę."
 
-#: ../../LEB.rst:324
+#: ../../LEB.rst:328
 msgid ""
 ":mtgtip:`Merfolk of the Pearl Trident<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/c/c/cca142de-906d-4143-8f77-4acea1f1e6b1.jpg?"
@@ -1169,68 +1180,68 @@ msgid ""
 "utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:332
+#: ../../LEB.rst:336
 msgid ""
 ":mtgtip:`Phantasmal Forces<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/b/0/b0c6d792-0abb-474e-8c05-c4e843242ef0.jpg?1559591509|"
 "https://scryfall.com/card/leb/68/phantasmal-forces?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:331
+#: ../../LEB.rst:335
 msgid ""
 "At the beginning of your upkeep, sacrifice Phantasmal Forces unless you pay |"
 "mana_u|."
 msgstr ""
 
-#: ../../LEB.rst:340
+#: ../../LEB.rst:344
 msgid ""
 ":mtgtip:`Phantasmal Terrain<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/9/c/9c29369c-d909-45a7-be70-3181ddac9728.jpg?1559591598|"
 "https://scryfall.com/card/leb/69/phantasmal-terrain?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:337
+#: ../../LEB.rst:341
 msgid "As Phantasmal Terrain enters the battlefield, choose a basic land type."
 msgstr "Przy wejściu tego bytu na pole bitwy, wybierz typ bazowego lądu."
 
-#: ../../LEB.rst:339
+#: ../../LEB.rst:343
 msgid "Enchanted land is the chosen type."
 msgstr "Zauroczony ląd jest wybranego typu."
 
-#: ../../LEB.rst:344
+#: ../../LEB.rst:348
 msgid ""
 ":mtgtip:`Phantom Monster<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/b/0/b0782e90-383b-4aed-8fa0-99c8cf8b2cec.jpg?1559591742|"
 "https://scryfall.com/card/leb/70/phantom-monster?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:352
+#: ../../LEB.rst:356
 msgid ""
 ":mtgtip:`Pirate Ship<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/9/2/925ce0a7-ae09-4220-9e67-314dbc231c94.jpg?1559591741|https://"
 "scryfall.com/card/leb/71/pirate-ship?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:347
+#: ../../LEB.rst:351
 msgid "Pirate Ship can't attack unless defending player controls an Island."
 msgstr "Ten stwór nie może atakować, chyba że broniący się gracz włada Wyspą."
 
-#: ../../LEB.rst:349
+#: ../../LEB.rst:353
 msgid "|tap|: Pirate Ship deals 1 damage to any target."
 msgstr "|tap|: Ten stwór zadaje wskazanemu celowi 1 obrażenie."
 
-#: ../../LEB.rst:351
+#: ../../LEB.rst:355
 msgid "When you control no Islands, sacrifice Pirate Ship."
 msgstr "Kiedy nie władasz żadną Wyspą, poświęć tego stwora."
 
-#: ../../LEB.rst:358
+#: ../../LEB.rst:362
 msgid ""
 ":mtgtip:`Power Leak<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/8/6/86fdfb7b-1bcf-485a-be70-0130fc1fceef.jpg?1559591738|https://"
 "scryfall.com/card/leb/72/power-leak?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:357
+#: ../../LEB.rst:361
 msgid ""
 "At the beginning of the upkeep of enchanted enchantment's controller, that "
 "player may pay any amount of mana. Power Leak deals 2 damage to that player. "
@@ -1238,14 +1249,14 @@ msgid ""
 "this way."
 msgstr ""
 
-#: ../../LEB.rst:362
+#: ../../LEB.rst:366
 msgid ""
 ":mtgtip:`Power Sink<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/9/5/954b04e3-861a-45c9-8897-9cb4a99f04c3.jpg?1559591739|https://"
 "scryfall.com/card/leb/73/power-sink?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:361
+#: ../../LEB.rst:365
 msgid ""
 "Counter target spell unless its controller pays |mana_x|. If that player "
 "doesn't, they tap all lands with mana abilities they control and lose all "
@@ -1255,36 +1266,36 @@ msgstr ""
 "gracz tego nie zrobi, przekręca wszystkie lądy pod swoim władaniem mające "
 "zdolność dającą manę i traci całą niewydaną manę."
 
-#: ../../LEB.rst:366
+#: ../../LEB.rst:370
 msgid ""
 ":mtgtip:`Prodigal Sorcerer<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/c/4/c420abf2-05ec-4623-8a6c-353736a4edeb.jpg?1621595967|"
 "https://scryfall.com/card/leb/74/prodigal-sorcerer?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:365
+#: ../../LEB.rst:369
 msgid "|tap|: Prodigal Sorcerer deals 1 damage to any target."
 msgstr "|tap|: Ten stwór zadaje wskazanemu celowi 1 obrażenie."
 
-#: ../../LEB.rst:370
+#: ../../LEB.rst:374
 msgid ""
 ":mtgtip:`Psionic Blast<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/7/3/73b6b789-00c5-4d72-8fb3-6808bfbf0144.jpg?1559591500|"
 "https://scryfall.com/card/leb/75/psionic-blast?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:369
+#: ../../LEB.rst:373
 msgid "Psionic Blast deals 4 damage to any target and 2 damage to you."
 msgstr "Ten czar zadaje wskazanemu celowi 4 obrażenia oraz 2 obrażenia tobie."
 
-#: ../../LEB.rst:376
+#: ../../LEB.rst:380
 msgid ""
 ":mtgtip:`Psychic Venom<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/e/5/e5c8a81f-bf05-4504-ac87-4fd4b41e88c1.jpg?1559591902|"
 "https://scryfall.com/card/leb/76/psychic-venom?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:375
+#: ../../LEB.rst:379
 msgid ""
 "Whenever enchanted land becomes tapped, Psychic Venom deals 2 damage to that "
 "land's controller."
@@ -1292,39 +1303,39 @@ msgstr ""
 "Ilekroć zauroczony ląd zostanie przekręcony, ten urok zadaje władcy owego "
 "lądu 2 obrażenia."
 
-#: ../../LEB.rst:382
+#: ../../LEB.rst:386
 msgid ""
 ":mtgtip:`Sea Serpent<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/1/1/11b21f91-51fd-407d-bab2-63c11f23b680.jpg?1559591675|https://"
 "scryfall.com/card/leb/77/sea-serpent?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:379
+#: ../../LEB.rst:383
 msgid "Sea Serpent can't attack unless defending player controls an Island."
 msgstr "Ten stwór nie może atakować, chyba że broniący się gracz włada Wyspą."
 
-#: ../../LEB.rst:381
+#: ../../LEB.rst:385
 msgid "When you control no Islands, sacrifice Sea Serpent."
 msgstr "Kiedy nie władasz żadną Wyspą, poświęć tego stwora."
 
-#: ../../LEB.rst:390
+#: ../../LEB.rst:394
 msgid ""
 ":mtgtip:`Siren's Call<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/0/0/00ce03f3-ddc0-4cf3-8f07-551c960e8639.jpg?1559591540|"
 "https://scryfall.com/card/leb/78/sirens-call?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:385
+#: ../../LEB.rst:389
 msgid ""
 "Cast this spell only during an opponent's turn, before attackers are "
 "declared."
 msgstr ""
 
-#: ../../LEB.rst:387
+#: ../../LEB.rst:391
 msgid "Creatures the active player controls attack this turn if able."
 msgstr ""
 
-#: ../../LEB.rst:389
+#: ../../LEB.rst:393
 msgid ""
 "At the beginning of the next end step, destroy all non-Wall creatures that "
 "player controls that didn't attack this turn. Ignore this effect for each "
@@ -1332,28 +1343,28 @@ msgid ""
 "turn."
 msgstr ""
 
-#: ../../LEB.rst:394
+#: ../../LEB.rst:398
 msgid ""
 ":mtgtip:`Sleight of Mind<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/f/b/fb4da609-6c08-4a18-b7d9-fb2f9b11bab2.jpg?1559591541|"
 "https://scryfall.com/card/leb/79/sleight-of-mind?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:393
+#: ../../LEB.rst:397
 msgid ""
 "Change the text of target spell or permanent by replacing all instances of "
 "one color word with another. (For example, you may change \"target black "
 "spell\" to \"target blue spell.\" This effect lasts indefinitely.)"
 msgstr ""
 
-#: ../../LEB.rst:398
+#: ../../LEB.rst:402
 msgid ""
 ":mtgtip:`Spell Blast<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/3/f/3f599b73-1d55-4acc-8931-f5ab39d1d4e9.jpg?1559591579|https://"
 "scryfall.com/card/leb/80/spell-blast?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:397
+#: ../../LEB.rst:401
 msgid ""
 "Counter target spell with mana value X. (For example, if that spell's mana "
 "cost is |mana_3|\\ |mana_u|\\ |mana_u|, X is 5.)"
@@ -1361,102 +1372,102 @@ msgstr ""
 "Skontruj wskazany czar o skrócie many równym X. (Np. jeśli koszt owego czaru "
 "to |mana_3|\\ |mana_u|\\ |mana_u|, X wynosi 5.)"
 
-#: ../../LEB.rst:404
+#: ../../LEB.rst:408
 msgid ""
 ":mtgtip:`Stasis<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/7/3/73c76f5d-d866-4eb7-b2d2-fc6ecf982f8e.jpg?1559591716|https://"
 "scryfall.com/card/leb/81/stasis?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:401
+#: ../../LEB.rst:405
 msgid "Players skip their untap steps."
 msgstr "Gracze pomijają swój krok odkręcania."
 
-#: ../../LEB.rst:403
+#: ../../LEB.rst:407
 msgid ""
 "At the beginning of your upkeep, sacrifice Stasis unless you pay |mana_u|."
 msgstr ""
 "Na początku twojego kroku utrzymania, poświęć ten byt, chyba że zapłacisz |"
 "mana_u|."
 
-#: ../../LEB.rst:410
+#: ../../LEB.rst:414
 msgid ""
 ":mtgtip:`Steal Artifact<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/9/2/92c14d4d-abaa-411a-aaa1-0b79fccee8c1.jpg?1559591715|"
 "https://scryfall.com/card/leb/82/steal-artifact?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:409
+#: ../../LEB.rst:413
 msgid "You control enchanted artifact."
 msgstr "Władasz zauroczonym artefaktem."
 
-#: ../../LEB.rst:414
+#: ../../LEB.rst:418
 msgid ""
 ":mtgtip:`Thoughtlace<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/f/c/fc2b2b9e-5abf-4c41-a85c-ef95e6ab84d6.jpg?1559591708|https://"
 "scryfall.com/card/leb/83/thoughtlace?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:413
+#: ../../LEB.rst:417
 msgid ""
 "Target spell or permanent becomes blue. (Mana symbols on that permanent "
 "remain unchanged.)"
 msgstr ""
 
-#: ../../LEB.rst:418
+#: ../../LEB.rst:422
 msgid ""
 ":mtgtip:`Time Walk<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/5/4/54992fda-45a9-4ed1-b380-34d167feec90.jpg?1559591520|https://"
 "scryfall.com/card/leb/84/time-walk?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:417
+#: ../../LEB.rst:421
 msgid "Take an extra turn after this one."
 msgstr "Weź dodatkową turę po obecnej."
 
-#: ../../LEB.rst:422
+#: ../../LEB.rst:426
 msgid ""
 ":mtgtip:`Timetwister<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/0/9/09f1958a-50cc-43cc-80e1-988800e44ca8.jpg?1559591703|https://"
 "scryfall.com/card/leb/85/timetwister?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:421
+#: ../../LEB.rst:425
 msgid ""
 "Each player shuffles their hand and graveyard into their library, then draws "
 "seven cards. (Then put Timetwister into its owner's graveyard.)"
 msgstr ""
 
-#: ../../LEB.rst:426
+#: ../../LEB.rst:430
 msgid ""
 ":mtgtip:`Twiddle<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/3/4/34bd24da-f156-494e-86cb-80707863e40b.jpg?1559591529|https://"
 "scryfall.com/card/leb/86/twiddle?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:425
+#: ../../LEB.rst:429
 msgid "You may tap or untap target artifact, creature, or land."
 msgstr "Możesz przekręcić lub odkręcić wskazany artefakt, stwora lub ląd."
 
-#: ../../LEB.rst:430
+#: ../../LEB.rst:434
 msgid ""
 ":mtgtip:`Unsummon<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/6/8/686843c8-8c8a-4af6-bca8-e7f7583cc886.jpg?1559591601|https://"
 "scryfall.com/card/leb/87/unsummon?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:429
+#: ../../LEB.rst:433
 msgid "Return target creature to its owner's hand."
 msgstr "Przywróć wskazanego stwora do ręki właściciela."
 
-#: ../../LEB.rst:434
+#: ../../LEB.rst:438
 msgid ""
 ":mtgtip:`Vesuvan Doppelganger<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/d/1/d18e952b-ab4d-4f90-bf5e-4db490e4e203.jpg?1559591699|"
 "https://scryfall.com/card/leb/88/vesuvan-doppelganger?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:433
+#: ../../LEB.rst:437
 msgid ""
 "You may have Vesuvan Doppelganger enter the battlefield as a copy of any "
 "creature on the battlefield, except it doesn't copy that creature's color "
@@ -1465,28 +1476,28 @@ msgid ""
 "color and it has this ability.\""
 msgstr ""
 
-#: ../../LEB.rst:438
+#: ../../LEB.rst:442
 msgid ""
 ":mtgtip:`Volcanic Eruption<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/c/a/ca669988-e009-4b3e-af20-ee5885554d34.jpg?1559591565|"
 "https://scryfall.com/card/leb/89/volcanic-eruption?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:437
+#: ../../LEB.rst:441
 msgid ""
 "Destroy X target Mountains. Volcanic Eruption deals damage to each creature "
 "and each player equal to the number of Mountains put into a graveyard this "
 "way."
 msgstr ""
 
-#: ../../LEB.rst:442
+#: ../../LEB.rst:446
 msgid ""
 ":mtgtip:`Wall of Air<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/7/1/71904b59-55dd-4074-9d50-c5bb0fb7266f.jpg?1559591694|https://"
 "scryfall.com/card/leb/90/wall-of-air?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:441
+#: ../../LEB.rst:445
 msgid ""
 "Defender, flying (This creature can't attack, and it can block creatures "
 "with flying.)"
@@ -1494,36 +1505,36 @@ msgstr ""
 "Obronność, latanie (Ten stwór nie może atakować i może blokować stwory z "
 "lataniem.)"
 
-#: ../../LEB.rst:448
+#: ../../LEB.rst:452
 msgid ""
 ":mtgtip:`Wall of Water<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/3/4/34887689-0adb-4ead-87a5-1d8fd77b6278.jpg?1559591700|"
 "https://scryfall.com/card/leb/91/wall-of-water?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:447
+#: ../../LEB.rst:451
 msgid "|mana_u|: Wall of Water gets +1/+0 until end of turn."
 msgstr ""
 
-#: ../../LEB.rst:450
+#: ../../LEB.rst:454
 msgid ""
 ":mtgtip:`Water Elemental<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/6/6/66f729e2-565b-4cdb-8b6f-0a14babe5680.jpg?1559591571|"
 "https://scryfall.com/card/leb/92/water-elemental?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:460
+#: ../../LEB.rst:464
 msgid ""
 ":mtgtip:`Animate Dead<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/2/0/20d5059a-60a4-4135-863f-85a48bff8731.jpg?1559591643|"
 "https://scryfall.com/card/leb/93/animate-dead?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:455
+#: ../../LEB.rst:459
 msgid "Enchant creature card in a graveyard"
 msgstr "Zaurocz kartę stwora w cmentarzu"
 
-#: ../../LEB.rst:457
+#: ../../LEB.rst:461
 msgid ""
 "When Animate Dead enters the battlefield, if it's on the battlefield, it "
 "loses \"enchant creature card in a graveyard\" and gains \"enchant creature "
@@ -1538,29 +1549,29 @@ msgstr ""
 "cmentarza na pole bitwy pod twoim władaniem i dołącz do niego ten urok. "
 "Kiedy ten urok opuści pole bitwy, władca owego stwora poświęca go."
 
-#: ../../LEB.rst:459
+#: ../../LEB.rst:463
 msgid "Enchanted creature gets -1/-0."
 msgstr "Zauroczony stwór dostaje -1/-0."
 
-#: ../../LEB.rst:464
+#: ../../LEB.rst:468
 msgid ""
 ":mtgtip:`Bad Moon<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/b/f/bf812f48-633c-46ab-b0c3-4819ab1b4e49.jpg?1559591929|https://"
 "scryfall.com/card/leb/94/bad-moon?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:463
+#: ../../LEB.rst:467
 msgid "Black creatures get +1/+1."
 msgstr "Czarne stwory dostają +1/+1."
 
-#: ../../LEB.rst:470
+#: ../../LEB.rst:474
 msgid ""
 ":mtgtip:`Black Knight<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/1/e/1eced352-d49c-4e91-a368-52904d77a69d.jpg?1559591865|"
 "https://scryfall.com/card/leb/95/black-knight?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:469
+#: ../../LEB.rst:473
 msgid ""
 "Protection from white (This creature can't be blocked, targeted, dealt "
 "damage, or enchanted by anything white.)"
@@ -1568,14 +1579,14 @@ msgstr ""
 "Ochrona przed białym (Nic białego nie może zablokować, wskazywać, zadać "
 "obrażeń, zauroczyć ani wyposażyć tego stwora.)"
 
-#: ../../LEB.rst:474
+#: ../../LEB.rst:478
 msgid ""
 ":mtgtip:`Bog Wraith<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/d/a/da26289f-e0e6-4aae-8782-ebdbabf39819.jpg?1559591631|https://"
 "scryfall.com/card/leb/96/bog-wraith?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:473
+#: ../../LEB.rst:477
 msgid ""
 "Swampwalk (This creature can't be blocked as long as defending player "
 "controls a Swamp.)"
@@ -1583,32 +1594,32 @@ msgstr ""
 "Podbój bagien (Ten stwór nie może być blokowany o ile broniący się gracz "
 "włada Bagnem.)"
 
-#: ../../LEB.rst:480
+#: ../../LEB.rst:484
 msgid ""
 ":mtgtip:`Contract from Below<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/6/2/62f96e43-aebd-4de2-969a-37cd1d62f127.jpg?1559591925|"
 "https://scryfall.com/card/leb/97/contract-from-below?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:477
+#: ../../LEB.rst:481
 msgid ""
 "Remove Contract from Below from your deck before playing if you're not "
 "playing for ante."
 msgstr ""
 
-#: ../../LEB.rst:479
+#: ../../LEB.rst:483
 msgid ""
 "Discard your hand, ante the top card of your library, then draw seven cards."
 msgstr ""
 
-#: ../../LEB.rst:486
+#: ../../LEB.rst:490
 msgid ""
 ":mtgtip:`Cursed Land<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/1/e/1eea8122-00c2-4d00-b87b-12eea86b16ba.jpg?1559591831|https://"
 "scryfall.com/card/leb/98/cursed-land?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:485
+#: ../../LEB.rst:489
 msgid ""
 "At the beginning of the upkeep of enchanted land's controller, Cursed Land "
 "deals 1 damage to that player."
@@ -1616,119 +1627,119 @@ msgstr ""
 "Na początku kroku utrzymania władcy zauroczonego lądu, ten urok zadaje owemu "
 "graczowi 1 obrażenie."
 
-#: ../../LEB.rst:490
+#: ../../LEB.rst:494
 msgid ""
 ":mtgtip:`Dark Ritual<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/0/6/0690f724-eb95-416b-b064-f1239e2a30e8.jpg?1559591651|https://"
 "scryfall.com/card/leb/99/dark-ritual?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:489
+#: ../../LEB.rst:493
 msgid "Add |mana_b|\\ |mana_b|\\ |mana_b|."
 msgstr "Weź |mana_b|\\ |mana_b|\\ |mana_b|."
 
-#: ../../LEB.rst:496
+#: ../../LEB.rst:500
 msgid ""
 ":mtgtip:`Darkpact<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/0/9/09b12bcb-a935-48be-a5e8-abbb890e91ca.jpg?1559591829|https://"
 "scryfall.com/card/leb/100/darkpact?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:493
+#: ../../LEB.rst:497
 msgid ""
 "Remove Darkpact from your deck before playing if you're not playing for ante."
 msgstr ""
 
-#: ../../LEB.rst:495
+#: ../../LEB.rst:499
 msgid ""
 "You own target card in the ante. Exchange that card with the top card of "
 "your library."
 msgstr ""
 
-#: ../../LEB.rst:500
+#: ../../LEB.rst:504
 msgid ""
 ":mtgtip:`Deathgrip<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/c/9/c942a9af-e449-4f10-916c-6eb9e944de6a.jpg?1559591828|https://"
 "scryfall.com/card/leb/101/deathgrip?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:499
+#: ../../LEB.rst:503
 msgid "|mana_b|\\ |mana_b|: Counter target green spell."
 msgstr "|mana_b|\\ |mana_b|: Skontruj wskazany zielony czar."
 
-#: ../../LEB.rst:504
+#: ../../LEB.rst:508
 msgid ""
 ":mtgtip:`Deathlace<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/e/1/e16fc59a-17da-462a-86ea-31f8a9ac18a1.jpg?1559591826|https://"
 "scryfall.com/card/leb/102/deathlace?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:503
+#: ../../LEB.rst:507
 msgid ""
 "Target spell or permanent becomes black. (Mana symbols on that permanent "
 "remain unchanged.)"
 msgstr ""
 
-#: ../../LEB.rst:510
+#: ../../LEB.rst:514
 msgid ""
 ":mtgtip:`Demonic Attorney<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/6/0/60f37eac-e8fa-48d3-b936-74461ea1853c.jpg?1559591577|"
 "https://scryfall.com/card/leb/103/demonic-attorney?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:507
+#: ../../LEB.rst:511
 msgid ""
 "Remove Demonic Attorney from your deck before playing if you're not playing "
 "for ante."
 msgstr ""
 
-#: ../../LEB.rst:509
+#: ../../LEB.rst:513
 msgid "Each player antes the top card of their library."
 msgstr ""
 
-#: ../../LEB.rst:516
+#: ../../LEB.rst:520
 msgid ""
 ":mtgtip:`Demonic Hordes<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/d/c/dc20c19b-7216-4f23-a3bb-70d4dcd3865e.jpg?1559591825|"
 "https://scryfall.com/card/leb/104/demonic-hordes?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:513
+#: ../../LEB.rst:517
 msgid "|tap|: Destroy target land."
 msgstr "|tap|: Zniszcz wskazany ląd."
 
-#: ../../LEB.rst:515
+#: ../../LEB.rst:519
 msgid ""
 "At the beginning of your upkeep, unless you pay |mana_b|\\ |mana_b|\\ |"
 "mana_b|, tap Demonic Hordes and sacrifice a land of an opponent's choice."
 msgstr ""
 
-#: ../../LEB.rst:520
+#: ../../LEB.rst:524
 msgid ""
 ":mtgtip:`Demonic Tutor<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/a/5/a5e571ef-1645-4584-ab53-e7ea5d443dea.jpg?1559591824|"
 "https://scryfall.com/card/leb/105/demonic-tutor?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:519
+#: ../../LEB.rst:523
 msgid ""
 "Search your library for a card, put that card into your hand, then shuffle."
 msgstr ""
 "Wyszukaj kartę w twojej bibliotece, umieść ją w twojej ręce, po czym "
 "przetasuj."
 
-#: ../../LEB.rst:526
+#: ../../LEB.rst:530
 msgid ""
 ":mtgtip:`Drain Life<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/9/f/9fbc6761-c4fc-4b4c-afb5-94ad4d21bc05.jpg?1559591558|https://"
 "scryfall.com/card/leb/106/drain-life?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:523
+#: ../../LEB.rst:527
 msgid "Spend only black mana on X."
 msgstr "Opłać X tylko czarną maną."
 
-#: ../../LEB.rst:525
+#: ../../LEB.rst:529
 msgid ""
 "Drain Life deals X damage to any target. You gain life equal to the damage "
 "dealt, but not more life than the player's life total before the damage was "
@@ -1736,14 +1747,14 @@ msgid ""
 "creature's toughness."
 msgstr ""
 
-#: ../../LEB.rst:530
+#: ../../LEB.rst:534
 msgid ""
 ":mtgtip:`Drudge Skeletons<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/b/1/b1f3a1b9-d192-49d9-87bb-ca50e99edbd1.jpg?1559591585|"
 "https://scryfall.com/card/leb/107/drudge-skeletons?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:529
+#: ../../LEB.rst:533
 msgid ""
 "|mana_b|: Regenerate Drudge Skeletons. (The next time this creature would be "
 "destroyed this turn, it isn't. Instead tap it, remove all damage from it, "
@@ -1753,25 +1764,25 @@ msgstr ""
 "zniszczony w tej turze, nie jest. Zamiast tego przekręć go, usuń z niego "
 "wszystkie obrażenia i usuń go z potyczki.)"
 
-#: ../../LEB.rst:536
+#: ../../LEB.rst:540
 msgid ""
 ":mtgtip:`Evil Presence<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/9/e/9e995f4b-efd3-4ac7-8fec-adb913294815.jpg?1559591809|"
 "https://scryfall.com/card/leb/108/evil-presence?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:535
+#: ../../LEB.rst:539
 msgid "Enchanted land is a Swamp."
 msgstr "Zauroczony ląd jest Bagnem."
 
-#: ../../LEB.rst:542
+#: ../../LEB.rst:546
 msgid ""
 ":mtgtip:`Fear<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/6/7/67830531-970a-4339-8673-40954376455d.jpg?1559591561|https://"
 "scryfall.com/card/leb/109/fear?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:539 ../../LEB.rst:1065 ../../LEB.rst:1131
+#: ../../LEB.rst:543 ../../LEB.rst:1069 ../../LEB.rst:1135
 msgid ""
 "Enchant creature (Target a creature as you cast this. This card enters the "
 "battlefield attached to that creature.)"
@@ -1779,7 +1790,7 @@ msgstr ""
 "Zaurocz stwora (Wskaż stwora podczas rzucania. Ta karta wchodzi na pole "
 "bitwy dołączona do owego stwora.)"
 
-#: ../../LEB.rst:541
+#: ../../LEB.rst:545
 msgid ""
 "Enchanted creature has fear. (It can't be blocked except by artifact "
 "creatures and/or black creatures.)"
@@ -1787,53 +1798,53 @@ msgstr ""
 "Zauroczony stwór ma postrach. (Nie może być blokowany, chyba że przez stwory "
 "artefaktowe lub czarne.)"
 
-#: ../../LEB.rst:546
+#: ../../LEB.rst:550
 msgid ""
 ":mtgtip:`Frozen Shade<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/8/9/89b6a352-40f5-4d7c-b2b6-2617539a1c1c.jpg?1559591797|"
 "https://scryfall.com/card/leb/110/frozen-shade?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:545
+#: ../../LEB.rst:549
 msgid "|mana_b|: Frozen Shade gets +1/+1 until end of turn."
 msgstr "|mana_b|: Ten stwór dostaje do końca tury +1/+1."
 
-#: ../../LEB.rst:552
+#: ../../LEB.rst:556
 msgid ""
 ":mtgtip:`Gloom<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/6/4/640770d9-c0f8-40fd-9467-ebc099a27a4b.jpg?1559591513|https://"
 "scryfall.com/card/leb/111/gloom?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:549
+#: ../../LEB.rst:553
 msgid "White spells cost |mana_3| more to cast."
 msgstr "Rzucanie białych czarów kosztuje o |mana_3| więcej."
 
-#: ../../LEB.rst:551
+#: ../../LEB.rst:555
 msgid ""
 "Activated abilities of white enchantments cost |mana_3| more to activate."
 msgstr ""
 "Aktywacja aktywowanych zdolności białych uroków kosztuje o |mana_3| więcej."
 
-#: ../../LEB.rst:556
+#: ../../LEB.rst:560
 msgid ""
 ":mtgtip:`Howl from Beyond<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/f/6/f6018459-d09b-489a-81be-933fd7d854c1.jpg?1559591518|"
 "https://scryfall.com/card/leb/112/howl-from-beyond?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:555
+#: ../../LEB.rst:559
 msgid "Target creature gets +X/+0 until end of turn."
 msgstr "Wskazany stwór dostaje do końca tury +X/+0."
 
-#: ../../LEB.rst:562
+#: ../../LEB.rst:566
 msgid ""
 ":mtgtip:`Hypnotic Specter<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/e/d/edcc56a0-1dc0-4261-8f9c-5a88ce83f9e9.jpg?1587914897|"
 "https://scryfall.com/card/leb/113/hypnotic-specter?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:561
+#: ../../LEB.rst:565
 msgid ""
 "Whenever Hypnotic Specter deals damage to an opponent, that player discards "
 "a card at random."
@@ -1841,48 +1852,48 @@ msgstr ""
 "Ilekroć ten stwór zada graczowi obrażenia bojowe, ów gracz odrzuca losową "
 "kartę."
 
-#: ../../LEB.rst:574
+#: ../../LEB.rst:578
 msgid ""
 ":mtgtip:`Lich<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/"
 "e/5/e5a9c089-0aad-4c14-9bfc-c0b39c976777.jpg?1559591649|https://scryfall.com/"
 "card/leb/114/lich?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:565
+#: ../../LEB.rst:569
 msgid "As Lich enters the battlefield, you lose life equal to your life total."
 msgstr "Przy wejściu tego bytu na pole bitwy, strać tyle żyć, ile masz żyć."
 
-#: ../../LEB.rst:567
+#: ../../LEB.rst:571
 msgid "You don't lose the game for having 0 or less life."
 msgstr "Nie przegrywasz gry za posiadanie 0 lub mniej żyć."
 
-#: ../../LEB.rst:569
+#: ../../LEB.rst:573
 msgid "If you would gain life, draw that many cards instead."
 msgstr ""
 
-#: ../../LEB.rst:571
+#: ../../LEB.rst:575
 msgid ""
 "Whenever you're dealt damage, sacrifice that many nontoken permanents. If "
 "you can't, you lose the game."
 msgstr ""
 
-#: ../../LEB.rst:573
+#: ../../LEB.rst:577
 msgid ""
 "When Lich is put into a graveyard from the battlefield, you lose the game."
 msgstr "Kiedy ten byt trafi do cmentarza z pola bitwy, przegrywasz grę."
 
-#: ../../LEB.rst:580
+#: ../../LEB.rst:584
 msgid ""
 ":mtgtip:`Lord of the Pit<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/2/4/24626988-81df-44c9-9a8e-ecb9f82c383b.jpg?1559591757|"
 "https://scryfall.com/card/leb/115/lord-of-the-pit?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:577
+#: ../../LEB.rst:581
 msgid "Flying, trample"
 msgstr "Latanie, tratowanie"
 
-#: ../../LEB.rst:579
+#: ../../LEB.rst:583
 msgid ""
 "At the beginning of your upkeep, sacrifice a creature other than Lord of the "
 "Pit. If you can't, Lord of the Pit deals 7 damage to you."
@@ -1890,43 +1901,43 @@ msgstr ""
 "Na początku twojego kroku utrzymania, poświęć stwora innego niż niniejszy. "
 "Jeśli nie możesz, ten stwór zadaje tobie 7 obrażeń."
 
-#: ../../LEB.rst:584
+#: ../../LEB.rst:588
 msgid ""
 ":mtgtip:`Mind Twist<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/0/c/0cb6cbbe-c3e9-4d14-a6b8-fb74e6a02b33.jpg?1559591663|https://"
 "scryfall.com/card/leb/116/mind-twist?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:583
+#: ../../LEB.rst:587
 msgid "Target player discards X cards at random."
 msgstr "Wskazany gracz odrzuca X losowych kart."
 
-#: ../../LEB.rst:590
+#: ../../LEB.rst:594
 msgid ""
 ":mtgtip:`Nether Shadow<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/3/8/38396ae3-a48f-44c7-96bf-ea41b5aaeebc.jpg?1559591746|"
 "https://scryfall.com/card/leb/117/nether-shadow?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:587
+#: ../../LEB.rst:591
 msgid "Haste"
 msgstr "Pośpiech"
 
-#: ../../LEB.rst:589
+#: ../../LEB.rst:593
 msgid ""
 "At the beginning of your upkeep, if Nether Shadow is in your graveyard with "
 "three or more creature cards above it, you may put Nether Shadow onto the "
 "battlefield."
 msgstr ""
 
-#: ../../LEB.rst:594
+#: ../../LEB.rst:598
 msgid ""
 ":mtgtip:`Nettling Imp<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/5/7/576220c3-1e6b-43f3-a47e-5e8246ee7d46.jpg?1559591551|"
 "https://scryfall.com/card/leb/118/nettling-imp?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:593
+#: ../../LEB.rst:597
 msgid ""
 "|tap|: Choose target non-Wall creature the active player has controlled "
 "continuously since the beginning of the turn. That creature attacks this "
@@ -1935,14 +1946,14 @@ msgid ""
 "are declared."
 msgstr ""
 
-#: ../../LEB.rst:600
+#: ../../LEB.rst:604
 msgid ""
 ":mtgtip:`Nightmare<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/f/c/fc78dced-27d2-441a-b63b-32356bc33747.jpg?1559591745|https://"
 "scryfall.com/card/leb/119/nightmare?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:599
+#: ../../LEB.rst:603
 msgid ""
 "Nightmare's power and toughness are each equal to the number of Swamps you "
 "control."
@@ -1950,35 +1961,35 @@ msgstr ""
 "Siła oraz wytrzymałość tej karty są obie równe liczbie Bagien pod twoim "
 "władaniem."
 
-#: ../../LEB.rst:610
+#: ../../LEB.rst:614
 msgid ""
 ":mtgtip:`Paralyze<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/1/0/106d8401-f0e2-461e-b8ea-16d475db98da.jpg?1559591555|https://"
 "scryfall.com/card/leb/120/paralyze?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:605
+#: ../../LEB.rst:609
 msgid "When Paralyze enters the battlefield, tap enchanted creature."
 msgstr "Kiedy ten urok wejdzie na pole bitwy, przekręć zauroczonego stwora."
 
-#: ../../LEB.rst:607
+#: ../../LEB.rst:611
 msgid "Enchanted creature doesn't untap during its controller's untap step."
 msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
 
-#: ../../LEB.rst:609
+#: ../../LEB.rst:613
 msgid ""
 "At the beginning of the upkeep of enchanted creature's controller, that "
 "player may pay |mana_4|. If the player does, untap the creature."
 msgstr ""
 
-#: ../../LEB.rst:616
+#: ../../LEB.rst:620
 msgid ""
 ":mtgtip:`Pestilence<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/1/3/1313b7e6-4acb-435a-bde5-1def5e5350ac.jpg?1559591557|https://"
 "scryfall.com/card/leb/121/pestilence?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:613
+#: ../../LEB.rst:617
 msgid ""
 "At the beginning of the end step, if no creatures are on the battlefield, "
 "sacrifice Pestilence."
@@ -1986,95 +1997,95 @@ msgstr ""
 "Na początku kroku końcowego, jeśli na polu bitwy nie ma stwora, poświęć ten "
 "urok."
 
-#: ../../LEB.rst:615
+#: ../../LEB.rst:619
 msgid "|mana_b|: Pestilence deals 1 damage to each creature and each player."
 msgstr ""
 "|mana_b|: Ten urok zadaje każdemu stworowi i każdemu graczowi po 1 obrażeniu."
 
-#: ../../LEB.rst:620
+#: ../../LEB.rst:624
 msgid ""
 ":mtgtip:`Plague Rats<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/9/9/995b58e6-5c69-4fdf-9c41-61cef7a610c4.jpg?1587914906|https://"
 "scryfall.com/card/leb/122/plague-rats?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:619
+#: ../../LEB.rst:623
 msgid ""
 "Plague Rats's power and toughness are each equal to the number of creatures "
 "named Plague Rats on the battlefield."
 msgstr ""
 
-#: ../../LEB.rst:624
+#: ../../LEB.rst:628
 msgid ""
 ":mtgtip:`Raise Dead<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/0/0/0066c7a6-7775-43ba-81cd-35fbc5621bc3.jpg?1559591661|https://"
 "scryfall.com/card/leb/123/raise-dead?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:623
+#: ../../LEB.rst:627
 msgid "Return target creature card from your graveyard to your hand."
 msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza do twojej ręki."
 
-#: ../../LEB.rst:628
+#: ../../LEB.rst:632
 msgid ""
 ":mtgtip:`Royal Assassin<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/b/6/b6e33c5e-6d99-4e7e-b611-4b271a47b4d2.jpg?1559591732|"
 "https://scryfall.com/card/leb/124/royal-assassin?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:627
+#: ../../LEB.rst:631
 msgid "|tap|: Destroy target tapped creature."
 msgstr "|tap|: Zniszcz wskazanego przekręconego stwora."
 
-#: ../../LEB.rst:634
+#: ../../LEB.rst:638
 msgid ""
 ":mtgtip:`Sacrifice<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/8/a/8abe7d62-6a99-4d1f-9b81-cff0485997a8.jpg?1559591731|https://"
 "scryfall.com/card/leb/125/sacrifice?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:631
+#: ../../LEB.rst:635
 msgid "As an additional cost to cast this spell, sacrifice a creature."
 msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć stwora."
 
-#: ../../LEB.rst:633
+#: ../../LEB.rst:637
 msgid ""
 "Add an amount of |mana_b| equal to the sacrificed creature's mana value."
 msgstr "Weź tyle |mana_b|, ile wynosił skrót many poświęconego stwora."
 
-#: ../../LEB.rst:636
+#: ../../LEB.rst:640
 msgid ""
 ":mtgtip:`Scathe Zombies<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/a/3/a30abb09-2f80-46cf-a839-b4dac5c23dce.jpg?1587914914|"
 "https://scryfall.com/card/leb/126/scathe-zombies?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:644
+#: ../../LEB.rst:648
 msgid ""
 ":mtgtip:`Scavenging Ghoul<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/e/2/e2bfa6bb-cf7b-4a79-83f5-178a633c499e.jpg?1559591537|"
 "https://scryfall.com/card/leb/127/scavenging-ghoul?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:641
+#: ../../LEB.rst:645
 msgid ""
 "At the beginning of each end step, put a corpse counter on Scavenging Ghoul "
 "for each creature that died this turn."
 msgstr ""
 
-#: ../../LEB.rst:643
+#: ../../LEB.rst:647
 msgid ""
 "Remove a corpse counter from Scavenging Ghoul: Regenerate Scavenging Ghoul."
 msgstr ""
 
-#: ../../LEB.rst:650
+#: ../../LEB.rst:654
 msgid ""
 ":mtgtip:`Sengir Vampire<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/5/f/5fbd5fbb-f689-4ff0-8f23-17e4cb0925a2.jpg?1559591722|"
 "https://scryfall.com/card/leb/128/sengir-vampire?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:649
+#: ../../LEB.rst:653
 msgid ""
 "Whenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/"
 "+1 counter on Sengir Vampire."
@@ -2082,63 +2093,63 @@ msgstr ""
 "Ilekroć umrze stwór uszkodzony w tej turze przez niniejszego stwora, umieść "
 "na niniejszym stworze znacznik +1/+1."
 
-#: ../../LEB.rst:654
+#: ../../LEB.rst:658
 msgid ""
 ":mtgtip:`Simulacrum<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/5/b/5bcda143-55f8-4d02-918f-975d9090d03f.jpg?1559591718|https://"
 "scryfall.com/card/leb/129/simulacrum?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:653
+#: ../../LEB.rst:657
 msgid ""
 "You gain life equal to the damage dealt to you this turn. Simulacrum deals "
 "damage to target creature you control equal to the damage dealt to you this "
 "turn."
 msgstr ""
 
-#: ../../LEB.rst:658
+#: ../../LEB.rst:662
 msgid ""
 ":mtgtip:`Sinkhole<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/5/2/52ea4387-f23c-430c-99d6-0248a4ab1713.jpg?1621596916|https://"
 "scryfall.com/card/leb/130/sinkhole?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:657 ../../LEB.rst:889 ../../LEB.rst:1005
+#: ../../LEB.rst:661 ../../LEB.rst:893 ../../LEB.rst:1009
 msgid "Destroy target land."
 msgstr "Zniszcz wskazany ląd."
 
-#: ../../LEB.rst:662
+#: ../../LEB.rst:666
 msgid ""
 ":mtgtip:`Terror<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/5/8/58d8598b-35e5-414f-aee0-52137236f642.jpg?1559591709|https://"
 "scryfall.com/card/leb/131/terror?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:661
+#: ../../LEB.rst:665
 msgid "Destroy target nonartifact, nonblack creature. It can't be regenerated."
 msgstr ""
 "Zniszcz wskazanego nieartefaktowego, nieczarnego stwora. Nie może on "
 "regenerować."
 
-#: ../../LEB.rst:668
+#: ../../LEB.rst:672
 msgid ""
 ":mtgtip:`Unholy Strength<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/1/c/1c1c781d-1f27-40e3-9d79-0ebb6677e835.jpg?1559591678|"
 "https://scryfall.com/card/leb/132/unholy-strength?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:667
+#: ../../LEB.rst:671
 msgid "Enchanted creature gets +2/+1."
 msgstr "Zauroczony stwór dostaje +2/+1."
 
-#: ../../LEB.rst:674
+#: ../../LEB.rst:678
 msgid ""
 ":mtgtip:`Wall of Bone<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/7/9/7930666c-12ac-420b-8ced-0e924925b075.jpg?1559591568|"
 "https://scryfall.com/card/leb/133/wall-of-bone?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:673
+#: ../../LEB.rst:677
 msgid ""
 "|mana_b|: Regenerate Wall of Bone. (The next time this creature would be "
 "destroyed this turn, it isn't. Instead tap it, remove all damage from it, "
@@ -2148,38 +2159,38 @@ msgstr ""
 "zniszczony w tej turze, nie jest. Zamiast tego przekręć go, usuń z niego "
 "wszystkie obrażenia i usuń go z potyczki.)"
 
-#: ../../LEB.rst:680
+#: ../../LEB.rst:684
 msgid ""
 ":mtgtip:`Warp Artifact<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/4/a/4a289787-2d30-4e0b-ac97-3767818d0387.jpg?1559591685|"
 "https://scryfall.com/card/leb/134/warp-artifact?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:679
+#: ../../LEB.rst:683
 msgid ""
 "At the beginning of the upkeep of enchanted artifact's controller, Warp "
 "Artifact deals 1 damage to that player."
 msgstr ""
 
-#: ../../LEB.rst:686
+#: ../../LEB.rst:690
 msgid ""
 ":mtgtip:`Weakness<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/1/6/16137fa6-1b5c-49e7-ad79-dda4b7019a59.jpg?1559591886|https://"
 "scryfall.com/card/leb/135/weakness?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:685
+#: ../../LEB.rst:689
 msgid "Enchanted creature gets -2/-1."
 msgstr "Zauroczony stwór dostaje -2/-1."
 
-#: ../../LEB.rst:692
+#: ../../LEB.rst:696
 msgid ""
 ":mtgtip:`Will-o'-the-Wisp<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/4/b/4b60630c-f97c-43be-8410-53a68613b735.jpg?1587914922|"
 "https://scryfall.com/card/leb/136/will-o-the-wisp?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:691
+#: ../../LEB.rst:695
 msgid ""
 "|mana_b|: Regenerate Will-o'-the-Wisp. (The next time this creature would be "
 "destroyed this turn, it isn't. Instead tap it, remove all damage from it, "
@@ -2189,14 +2200,14 @@ msgstr ""
 "zniszczony w tej turze, nie jest. Zamiast tego przekręć go, usuń z niego "
 "wszystkie obrażenia i usuń go z potyczki.)"
 
-#: ../../LEB.rst:696
+#: ../../LEB.rst:700
 msgid ""
 ":mtgtip:`Word of Command<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/7/d/7d37b529-8a41-4177-abef-614f363e69d1.jpg?1559591683|"
 "https://scryfall.com/card/leb/137/word-of-command?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:695
+#: ../../LEB.rst:699
 msgid ""
 "Look at target opponent's hand and choose a card from it. You control that "
 "player until Word of Command finishes resolving. The player plays that card "
@@ -2207,14 +2218,14 @@ msgid ""
 "player while that spell is resolving."
 msgstr ""
 
-#: ../../LEB.rst:702
+#: ../../LEB.rst:706
 msgid ""
 ":mtgtip:`Zombie Master<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/a/1/a1bfda92-b932-46d8-b549-e2bc2b584a17.jpg?1559591496|"
 "https://scryfall.com/card/leb/138/zombie-master?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:699
+#: ../../LEB.rst:703
 msgid ""
 "Other Zombie creatures have swampwalk. (They can't be blocked as long as "
 "defending player controls a Swamp.)"
@@ -2222,18 +2233,18 @@ msgstr ""
 "Inne Zombi mają podbój bagien. (Nie mogą być blokowane o ile broniący się "
 "gracz włada Bagnem.)"
 
-#: ../../LEB.rst:701
+#: ../../LEB.rst:705
 msgid "Other Zombies have \"|mana_b|: Regenerate this permanent.\""
 msgstr "Inne Zombi mają \"|mana_b|: Zregeneruj ten byt.\""
 
-#: ../../LEB.rst:708
+#: ../../LEB.rst:712
 msgid ""
 ":mtgtip:`Burrowing<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/8/7/8795bab7-ced2-4a1d-8c57-636bc4c0a977.jpg?1559591856|https://"
 "scryfall.com/card/leb/139/burrowing?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:707
+#: ../../LEB.rst:711
 msgid ""
 "Enchanted creature has mountainwalk. (It can't be blocked as long as "
 "defending player controls a Mountain.)"
@@ -2241,39 +2252,39 @@ msgstr ""
 "Zauroczony stwór ma podbój gór. (Nie może być blokowany o ile broniący się "
 "gracz włada Górą.)"
 
-#: ../../LEB.rst:712
+#: ../../LEB.rst:716
 msgid ""
 ":mtgtip:`Chaoslace<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/d/9/d980e9c0-db88-41f9-8dbf-89f0e1ac6c20.jpg?1559591852|https://"
 "scryfall.com/card/leb/140/chaoslace?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:711
+#: ../../LEB.rst:715
 msgid ""
 "Target spell or permanent becomes red. (Its mana symbols remain unchanged.)"
 msgstr ""
 
-#: ../../LEB.rst:716
+#: ../../LEB.rst:720
 msgid ""
 ":mtgtip:`Disintegrate<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/c/f/cfb3a6b9-a119-49c0-9baf-b552fdd00b28.jpg?1559591822|"
 "https://scryfall.com/card/leb/141/disintegrate?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:715
+#: ../../LEB.rst:719
 msgid ""
 "Disintegrate deals X damage to any target. If it's a creature, it can't be "
 "regenerated this turn, and if it would die this turn, exile it instead."
 msgstr ""
 
-#: ../../LEB.rst:722
+#: ../../LEB.rst:726
 msgid ""
 ":mtgtip:`Dragon Whelp<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/2/e/2e009adf-aded-4d64-ba3e-ddc3448c967a.jpg?1587915289|"
 "https://scryfall.com/card/leb/142/dragon-whelp?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:721
+#: ../../LEB.rst:725
 msgid ""
 "|mana_r|: Dragon Whelp gets +1/+0 until end of turn. If this ability has "
 "been activated four or more times this turn, sacrifice Dragon Whelp at the "
@@ -2283,103 +2294,103 @@ msgstr ""
 "aktywowana co najmniej cztery razy w tej turze, poświęć tego stwora na "
 "początku najbliższego kroku końcowego."
 
-#: ../../LEB.rst:726
+#: ../../LEB.rst:730
 msgid ""
 ":mtgtip:`Dwarven Demolition Team<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/e/5/e552dfb6-b8a5-419d-b098-5aedc0500684.jpg?1559591818|"
 "https://scryfall.com/card/leb/143/dwarven-demolition-team?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:725
+#: ../../LEB.rst:729
 msgid "|tap|: Destroy target Wall."
 msgstr "|tap|: Zniszcz wskazaną Ścianę."
 
-#: ../../LEB.rst:730
+#: ../../LEB.rst:734
 msgid ""
 ":mtgtip:`Dwarven Warriors<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/c/0/c0de88cf-b9e5-4611-a16f-2787d8d9d269.jpg?1559591560|"
 "https://scryfall.com/card/leb/144/dwarven-warriors?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:729
+#: ../../LEB.rst:733
 msgid "|tap|: Target creature with power 2 or less can't be blocked this turn."
 msgstr ""
 "|tap|: Wskazany stwór o sile 2 lub mniejszej nie może być blokowany w tej "
 "turze."
 
-#: ../../LEB.rst:732
+#: ../../LEB.rst:736
 msgid ""
 ":mtgtip:`Earth Elemental<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/c/4/c427e8cc-d908-4b88-931d-a540fc8bfe74.jpg?1559591817|"
 "https://scryfall.com/card/leb/145/earth-elemental?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:740
+#: ../../LEB.rst:744
 msgid ""
 ":mtgtip:`Earthbind<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/e/5/e5955a9d-8a0e-4e57-9433-ed3392b2f308.jpg?1559591815|https://"
 "scryfall.com/card/leb/146/earthbind?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:739
+#: ../../LEB.rst:743
 msgid ""
 "When Earthbind enters the battlefield, if enchanted creature has flying, "
 "Earthbind deals 2 damage to that creature and Earthbind gains \"Enchanted "
 "creature loses flying.\""
 msgstr ""
 
-#: ../../LEB.rst:744
+#: ../../LEB.rst:748
 msgid ""
 ":mtgtip:`Earthquake<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/8/6/86435875-ac92-4348-b41e-19570cf62a1c.jpg?1559591812|https://"
 "scryfall.com/card/leb/147/earthquake?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:743
+#: ../../LEB.rst:747
 msgid ""
 "Earthquake deals X damage to each creature without flying and each player."
 msgstr ""
 "Ten czar zadaje każdemu stworowi bez latania i każdemu graczowi po X obrażeń."
 
-#: ../../LEB.rst:750
+#: ../../LEB.rst:754
 msgid ""
 ":mtgtip:`False Orders<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/e/4/e4ebc485-f1b7-436d-8c90-9acf2f7d92e5.jpg?1559591811|"
 "https://scryfall.com/card/leb/148/false-orders?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:747
+#: ../../LEB.rst:751
 msgid "Cast this spell only during the declare blockers step."
 msgstr "Rzuć ten czar tylko podczas kroku deklaracji blokujących."
 
-#: ../../LEB.rst:749
+#: ../../LEB.rst:753
 msgid ""
 "Remove target creature defending player controls from combat. Creatures it "
 "was blocking that had become blocked by only that creature this combat "
 "become unblocked. You may have it block an attacking creature of your choice."
 msgstr ""
 
-#: ../../LEB.rst:752
+#: ../../LEB.rst:756
 msgid ""
 ":mtgtip:`Fire Elemental<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/3/7/376cb9e5-89fb-4091-8a20-140bb6de0ef6.jpg?1559591512|"
 "https://scryfall.com/card/leb/149/fire-elemental?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:760
+#: ../../LEB.rst:764
 msgid ""
 ":mtgtip:`Fireball<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/a/2/a285ab2e-836e-45b0-894e-574f733cf3db.jpg?1559591803|https://"
 "scryfall.com/card/leb/150/fireball?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:757
+#: ../../LEB.rst:761
 msgid ""
 "This spell costs |mana_1| more to cast for each target beyond the first."
 msgstr ""
 "Rzucenie tego czaru kosztuje o |mana_1| więcej za każdy cel poza pierwszym."
 
-#: ../../LEB.rst:759
+#: ../../LEB.rst:763
 msgid ""
 "Fireball deals X damage divided evenly, rounded down, among any number of "
 "targets."
@@ -2387,138 +2398,138 @@ msgstr ""
 "Ten czar zadaje X obrażeń rozdzielonych po równo, zaokrąglając w dół, "
 "pomiędzy dowolną liczbę wskazanych celów."
 
-#: ../../LEB.rst:766
+#: ../../LEB.rst:770
 msgid ""
 ":mtgtip:`Firebreathing<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/2/3/235e4321-0216-4d6a-a57b-72ebff427b09.jpg?1587915300|"
 "https://scryfall.com/card/leb/151/firebreathing?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:765
+#: ../../LEB.rst:769
 msgid "|mana_r|: Enchanted creature gets +1/+0 until end of turn."
 msgstr "|mana_r|: Zauroczony stwór dostaje do końca tury +1/+0."
 
-#: ../../LEB.rst:770
+#: ../../LEB.rst:774
 msgid ""
 ":mtgtip:`Flashfires<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/5/a/5a2a91b9-c45f-4e3d-b3c4-944493bdd86a.jpg?1559591801|https://"
 "scryfall.com/card/leb/152/flashfires?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:769
+#: ../../LEB.rst:773
 msgid "Destroy all Plains."
 msgstr "Zniszcz wszystkie Równiny."
 
-#: ../../LEB.rst:774
+#: ../../LEB.rst:778
 msgid ""
 ":mtgtip:`Fork<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/8/1/8144418b-e3e5-459f-8db2-f2e348fba4da.jpg?1559591795|https://"
 "scryfall.com/card/leb/153/fork?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:773
+#: ../../LEB.rst:777
 msgid ""
 "Copy target instant or sorcery spell, except that the copy is red. You may "
 "choose new targets for the copy."
 msgstr ""
 
-#: ../../LEB.rst:778
+#: ../../LEB.rst:782
 msgid ""
 ":mtgtip:`Goblin Balloon Brigade<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/3/f/3fdb52dd-4fc5-4594-b53b-ea169325be0b.jpg?1559591786|"
 "https://scryfall.com/card/leb/154/goblin-balloon-brigade?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:777
+#: ../../LEB.rst:781
 msgid "|mana_r|: Goblin Balloon Brigade gains flying until end of turn."
 msgstr "|mana_r|: Ten stwór zyskuje do końca tury latanie."
 
-#: ../../LEB.rst:782
+#: ../../LEB.rst:786
 msgid ""
 ":mtgtip:`Goblin King<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/6/5/65705a8d-6bb1-4289-b8b0-8546ccc478dc.jpg?1559591921|https://"
 "scryfall.com/card/leb/155/goblin-king?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:781
+#: ../../LEB.rst:785
 msgid "Other Goblins get +1/+1 and have mountainwalk."
 msgstr "Inne Gobliny dostają +1/+1 i mają podbój gór."
 
-#: ../../LEB.rst:788
+#: ../../LEB.rst:792
 msgid ""
 ":mtgtip:`Granite Gargoyle<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/a/f/affb57f4-273a-425c-a1b3-d0a5407f43d5.jpg?1587915314|"
 "https://scryfall.com/card/leb/156/granite-gargoyle?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:787
+#: ../../LEB.rst:791
 msgid "|mana_r|: Granite Gargoyle gets +0/+1 until end of turn."
 msgstr ""
 
-#: ../../LEB.rst:790
+#: ../../LEB.rst:794
 msgid ""
 ":mtgtip:`Gray Ogre<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/4/1/41023495-d3cb-4cb0-b95c-f717480a76a5.jpg?1559591918|https://"
 "scryfall.com/card/leb/157/gray-ogre?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:794
+#: ../../LEB.rst:798
 msgid ""
 ":mtgtip:`Hill Giant<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/4/9/4905e98f-0c5a-4ec7-b85b-dc2c3549d5d0.jpg?1559591516|https://"
 "scryfall.com/card/leb/158/hill-giant?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:798
+#: ../../LEB.rst:802
 msgid ""
 ":mtgtip:`Hurloon Minotaur<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/8/e/8ef29573-99a1-42fc-8941-2466cda2465f.jpg?1559591614|"
 "https://scryfall.com/card/leb/159/hurloon-minotaur?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:804
+#: ../../LEB.rst:808
 msgid ""
 ":mtgtip:`Ironclaw Orcs<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/a/7/a7be8a25-a744-426e-8e66-7fdff2789af4.jpg?1559591547|"
 "https://scryfall.com/card/leb/160/ironclaw-orcs?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:803
+#: ../../LEB.rst:807
 msgid "Ironclaw Orcs can't block creatures with power 2 or greater."
 msgstr ""
 
-#: ../../LEB.rst:808
+#: ../../LEB.rst:812
 msgid ""
 ":mtgtip:`Keldon Warlord<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/b/0/b07deb9b-5b88-4658-8ae8-041568992019.jpg?1559591610|"
 "https://scryfall.com/card/leb/161/keldon-warlord?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:807
+#: ../../LEB.rst:811
 msgid ""
 "Keldon Warlord's power and toughness are each equal to the number of non-"
 "Wall creatures you control."
 msgstr ""
 
-#: ../../LEB.rst:812
+#: ../../LEB.rst:816
 msgid ""
 ":mtgtip:`Lightning Bolt<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/b/5/b5d3dcab-2260-479d-9ef6-dfb92d4f6061.jpg?1559591914|"
 "https://scryfall.com/card/leb/162/lightning-bolt?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:811
+#: ../../LEB.rst:815
 msgid "Lightning Bolt deals 3 damage to any target."
 msgstr "Ten czar zadaje wskazanemu celowi 3 obrażenia."
 
-#: ../../LEB.rst:816
+#: ../../LEB.rst:820
 msgid ""
 ":mtgtip:`Mana Flare<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/b/4/b44d3087-ced3-40e8-a63b-1733b7e7f34c.jpg?1559591756|https://"
 "scryfall.com/card/leb/163/mana-flare?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:815
+#: ../../LEB.rst:819
 msgid ""
 "Whenever a player taps a land for mana, that player adds one mana of any "
 "type that land produced."
@@ -2526,14 +2537,14 @@ msgstr ""
 "Ilekroć gracz przekręca ląd biorąc manę, ów gracz bierze dodatkowo jedną "
 "manę w typie wyprodukowanym przez ów ląd."
 
-#: ../../LEB.rst:820
+#: ../../LEB.rst:824
 msgid ""
 ":mtgtip:`Manabarbs<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/7/c/7c01cae0-4d61-4bf7-a145-82d9bb11d816.jpg?1559591506|https://"
 "scryfall.com/card/leb/164/manabarbs?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:819
+#: ../../LEB.rst:823
 msgid ""
 "Whenever a player taps a land for mana, Manabarbs deals 1 damage to that "
 "player."
@@ -2541,59 +2552,59 @@ msgstr ""
 "Ilekroć gracz przekręca ląd pobierając manę, ten urok zadaje owemu graczowi "
 "1 obrażenie."
 
-#: ../../LEB.rst:822
+#: ../../LEB.rst:826
 msgid ""
 ":mtgtip:`Mons's Goblin Raiders<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/2/f/2fbf039d-0ab9-4c42-a0a3-cbfa3ea1dd6e.jpg?1559591681|"
 "https://scryfall.com/card/leb/165/monss-goblin-raiders?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:828
+#: ../../LEB.rst:832
 msgid ""
 ":mtgtip:`Orcish Artillery<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/4/d/4d2354ee-2ce0-4adb-b48c-0e30b952e545.jpg?1559591588|"
 "https://scryfall.com/card/leb/166/orcish-artillery?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:827
+#: ../../LEB.rst:831
 msgid ""
 "|tap|: Orcish Artillery deals 2 damage to any target and 3 damage to you."
 msgstr ""
 "|tap|: Ten stwór zadaje wskazanemu celowi 2 obrażenia i 3 obrażenia tobie."
 
-#: ../../LEB.rst:832
+#: ../../LEB.rst:836
 msgid ""
 ":mtgtip:`Orcish Oriflamme<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/f/2/f2752cf2-9a48-49a8-98ff-2e32a9121d78.jpg?1559591507|"
 "https://scryfall.com/card/leb/167/orcish-oriflamme?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:831
+#: ../../LEB.rst:835
 msgid "Attacking creatures you control get +1/+0."
 msgstr "Atakujące stwory pod twoim władaniem dostają +1/+0."
 
-#: ../../LEB.rst:836
+#: ../../LEB.rst:840
 msgid ""
 ":mtgtip:`Power Surge<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/f/5/f52eb10a-a9eb-44b7-95ae-12fb551c8fa5.jpg?1559591499|https://"
 "scryfall.com/card/leb/168/power-surge?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:835
+#: ../../LEB.rst:839
 msgid ""
 "At the beginning of each player's upkeep, Power Surge deals X damage to that "
 "player, where X is the number of untapped lands they controlled at the "
 "beginning of this turn."
 msgstr ""
 
-#: ../../LEB.rst:840
+#: ../../LEB.rst:844
 msgid ""
 ":mtgtip:`Raging River<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/c/1/c14746bb-aa00-4be2-9740-d87f976296d2.jpg?1559591532|"
 "https://scryfall.com/card/leb/169/raging-river?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:839
+#: ../../LEB.rst:843
 msgid ""
 "Whenever one or more creatures you control attack, each defending player "
 "divides all creatures without flying they control into a \"left\" pile and a "
@@ -2602,114 +2613,114 @@ msgid ""
 "creatures with flying and creatures in a pile with the chosen label."
 msgstr ""
 
-#: ../../LEB.rst:848
+#: ../../LEB.rst:852
 msgid ""
 ":mtgtip:`Red Elemental Blast<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/4/f/4fafd3f9-f7de-4d6e-8824-6b60866fc50f.jpg?1559591735|"
 "https://scryfall.com/card/leb/170/red-elemental-blast?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:845
+#: ../../LEB.rst:849
 msgid "Counter target blue spell."
 msgstr "Skontruj wskazany niebieski czar."
 
-#: ../../LEB.rst:847
+#: ../../LEB.rst:851
 msgid "Destroy target blue permanent."
 msgstr "Zniszcz wskazany niebieski byt."
 
-#: ../../LEB.rst:852
+#: ../../LEB.rst:856
 msgid ""
 ":mtgtip:`Roc of Kher Ridges<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/f/1/f1b9e3ae-c7e9-455f-abfe-220262719beb.jpg?1559591534|"
 "https://scryfall.com/card/leb/171/roc-of-kher-ridges?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:862
+#: ../../LEB.rst:866
 msgid ""
 ":mtgtip:`Rock Hydra<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/c/1/c17a982d-466d-4fec-b85a-a44161e5dad5.jpg?1559591536|https://"
 "scryfall.com/card/leb/172/rock-hydra?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:855
+#: ../../LEB.rst:859
 msgid "Rock Hydra enters the battlefield with X +1/+1 counters on it."
 msgstr ""
 
-#: ../../LEB.rst:857
+#: ../../LEB.rst:861
 msgid ""
 "For each 1 damage that would be dealt to Rock Hydra, if it has a +1/+1 "
 "counter on it, remove a +1/+1 counter from it and prevent that 1 damage."
 msgstr ""
 
-#: ../../LEB.rst:859
+#: ../../LEB.rst:863
 msgid ""
 "|mana_r|: Prevent the next 1 damage that would be dealt to Rock Hydra this "
 "turn."
 msgstr ""
 
-#: ../../LEB.rst:861
+#: ../../LEB.rst:865
 msgid ""
 "|mana_r|\\ |mana_r|\\ |mana_r|: Put a +1/+1 counter on Rock Hydra. Activate "
 "only during your upkeep."
 msgstr ""
 
-#: ../../LEB.rst:868
+#: ../../LEB.rst:872
 msgid ""
 ":mtgtip:`Sedge Troll<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/0/2/02ec317b-52a6-4490-80e5-a56826b06771.jpg?1559591723|https://"
 "scryfall.com/card/leb/173/sedge-troll?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:865
+#: ../../LEB.rst:869
 msgid "Sedge Troll gets +1/+1 as long as you control a Swamp."
 msgstr ""
 
-#: ../../LEB.rst:867
+#: ../../LEB.rst:871
 msgid "|mana_b|: Regenerate Sedge Troll."
 msgstr ""
 
-#: ../../LEB.rst:872
+#: ../../LEB.rst:876
 msgid ""
 ":mtgtip:`Shatter<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/7/6/76ddf3f4-1305-4599-bf4c-f9e148bdda4d.jpg?1559591899|https://"
 "scryfall.com/card/leb/174/shatter?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:871
+#: ../../LEB.rst:875
 msgid "Destroy target artifact."
 msgstr "Zniszcz wskazany artefakt."
 
-#: ../../LEB.rst:878
+#: ../../LEB.rst:882
 msgid ""
 ":mtgtip:`Shivan Dragon<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/5/e/5e64822a-6817-4e1e-8155-3e95f8e3763f.jpg?1559591621|"
 "https://scryfall.com/card/leb/175/shivan-dragon?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:877
+#: ../../LEB.rst:881
 msgid "|mana_r|: Shivan Dragon gets +1/+0 until end of turn."
 msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
 
-#: ../../LEB.rst:882
+#: ../../LEB.rst:886
 msgid ""
 ":mtgtip:`Smoke<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/7/e/7eb0cb82-d930-43c3-a6d6-f947018d45d6.jpg?1559591543|https://"
 "scryfall.com/card/leb/176/smoke?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:881
+#: ../../LEB.rst:885
 msgid "Players can't untap more than one creature during their untap steps."
 msgstr ""
 "Gracze nie mogą w swoim kroku odkręcania odkręcić więcej niż jednego stwora."
 
-#: ../../LEB.rst:886
+#: ../../LEB.rst:890
 msgid ""
 ":mtgtip:`Stone Giant<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/a/2/a2b5f545-a87d-4292-880f-5cd2f6755748.jpg?1559591545|https://"
 "scryfall.com/card/leb/177/stone-giant?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:885
+#: ../../LEB.rst:889
 msgid ""
 "|tap|: Target creature you control with toughness less than Stone Giant's "
 "power gains flying until end of turn. Destroy that creature at the beginning "
@@ -2719,25 +2730,25 @@ msgstr ""
 "niniejszego stwora zyskuje do końca tury latanie. Zniszcz owego stwora na "
 "początku najbliższego kroku końcowego."
 
-#: ../../LEB.rst:890
+#: ../../LEB.rst:894
 msgid ""
 ":mtgtip:`Stone Rain<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/9/0/901831ad-1840-4287-b6a0-bea310598dc2.jpg?1559591713|https://"
 "scryfall.com/card/leb/178/stone-rain?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:894
+#: ../../LEB.rst:898
 msgid ""
 ":mtgtip:`Tunnel<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/c/c/cc738025-a771-4186-b08c-7b37c0e9713b.jpg?1559591582|https://"
 "scryfall.com/card/leb/179/tunnel?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:893
+#: ../../LEB.rst:897
 msgid "Destroy target Wall. It can't be regenerated."
 msgstr ""
 
-#: ../../LEB.rst:900
+#: ../../LEB.rst:904
 msgid ""
 ":mtgtip:`Two-Headed Giant of Foriys<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/3/0/30fcbb16-f8e7-4f6e-a806-541ef54aa025.jpg?"
@@ -2745,81 +2756,81 @@ msgid ""
 "utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:897 ../../LEB.rst:1127
+#: ../../LEB.rst:901 ../../LEB.rst:1131
 msgid "Trample"
 msgstr "Tratowanie"
 
-#: ../../LEB.rst:899
+#: ../../LEB.rst:903
 msgid ""
 "Two-Headed Giant of Foriys can block an additional creature each combat."
 msgstr ""
 
-#: ../../LEB.rst:904
+#: ../../LEB.rst:908
 msgid ""
 ":mtgtip:`Uthden Troll<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/9/1/91f46e9a-6075-4fa5-8f60-f81e2024b13d.jpg?1559591627|"
 "https://scryfall.com/card/leb/181/uthden-troll?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:903
+#: ../../LEB.rst:907
 msgid "|mana_r|: Regenerate Uthden Troll."
 msgstr ""
 
-#: ../../LEB.rst:910
+#: ../../LEB.rst:914
 msgid ""
 ":mtgtip:`Wall of Fire<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/8/8/88baaea5-69ec-4756-86c2-9c9d73ca8ef1.jpg?1559591692|"
 "https://scryfall.com/card/leb/182/wall-of-fire?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:909
+#: ../../LEB.rst:913
 msgid "|mana_r|: Wall of Fire gets +1/+0 until end of turn."
 msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
 
-#: ../../LEB.rst:914
+#: ../../LEB.rst:918
 msgid ""
 ":mtgtip:`Wall of Stone<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/3/2/329ba196-a107-41ac-b02a-5f8b10ecd130.jpg?1559591690|"
 "https://scryfall.com/card/leb/183/wall-of-stone?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:918
+#: ../../LEB.rst:922
 msgid ""
 ":mtgtip:`Wheel of Fortune<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/9/0/9052369f-840f-438e-b86d-e2f8d6339585.jpg?1559591625|"
 "https://scryfall.com/card/leb/184/wheel-of-fortune?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:917
+#: ../../LEB.rst:921
 msgid "Each player discards their hand, then draws seven cards."
 msgstr "Każdy gracz odrzuca swoją rękę, po czym dobiera siedem kart."
 
-#: ../../LEB.rst:924
+#: ../../LEB.rst:928
 msgid ""
 ":mtgtip:`Aspect of Wolf<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/3/6/36f7dc8e-e02a-4ceb-8767-2875f86e6811.jpg?1559591875|"
 "https://scryfall.com/card/leb/185/aspect-of-wolf?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:923
+#: ../../LEB.rst:927
 msgid ""
 "Enchanted creature gets +X/+Y, where X is half the number of Forests you "
 "control, rounded down, and Y is half the number of Forests you control, "
 "rounded up."
 msgstr ""
 
-#: ../../LEB.rst:930
+#: ../../LEB.rst:934
 msgid ""
 ":mtgtip:`Berserk<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/8/8/88d6f431-a7ea-4508-a52c-86d33e12e4e4.jpg?1559591868|https://"
 "scryfall.com/card/leb/186/berserk?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:927
+#: ../../LEB.rst:931
 msgid "Cast this spell only before the combat damage step."
 msgstr "Rzuć ten czar tylko przed krokiem obrażeń bojowych."
 
-#: ../../LEB.rst:929
+#: ../../LEB.rst:933
 msgid ""
 "Target creature gains trample and gets +X/+0 until end of turn, where X is "
 "its power. At the beginning of the next end step, destroy that creature if "
@@ -2829,29 +2840,29 @@ msgstr ""
 "siłą. Na początku najbliższego kroku końcowego zniszcz owego stwora jeśli "
 "zaatakował on w tej turze."
 
-#: ../../LEB.rst:936
+#: ../../LEB.rst:940
 msgid ""
 ":mtgtip:`Birds of Paradise<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/8/5/852d7a68-8682-4073-a44b-f10f5613879c.jpg?1559591866|"
 "https://scryfall.com/card/leb/187/birds-of-paradise?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:935
+#: ../../LEB.rst:939
 msgid "|tap|: Add one mana of any color."
 msgstr "|tap|: Weź jedną manę dowolnego koloru."
 
-#: ../../LEB.rst:942
+#: ../../LEB.rst:946
 msgid ""
 ":mtgtip:`Camouflage<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/2/f/2f55ff95-32a3-43ba-82e5-a5a3bc2cc9e5.jpg?1559591858|https://"
 "scryfall.com/card/leb/188/camouflage?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:939
+#: ../../LEB.rst:943
 msgid "Cast this spell only during your declare attackers step."
 msgstr ""
 
-#: ../../LEB.rst:941
+#: ../../LEB.rst:945
 msgid ""
 "This turn, instead of declaring blockers, each defending player chooses any "
 "number of creatures they control and divides them into a number of piles "
@@ -2863,14 +2874,14 @@ msgid ""
 "can be empty.)"
 msgstr ""
 
-#: ../../LEB.rst:946
+#: ../../LEB.rst:950
 msgid ""
 ":mtgtip:`Channel<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/6/f/6fa6468a-335a-467d-aef6-e537af9d5c1c.jpg?1559591572|https://"
 "scryfall.com/card/leb/189/channel?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:945
+#: ../../LEB.rst:949
 msgid ""
 "Until end of turn, any time you could activate a mana ability, you may pay 1 "
 "life. If you do, add |colorless|."
@@ -2878,74 +2889,74 @@ msgstr ""
 "Do końca tury, kiedykolwiek mógłbyś aktywować zdolność dającą manę, możesz "
 "zapłacić 1 życie. Jeśli tak zrobisz, weź |colorless|."
 
-#: ../../LEB.rst:952
+#: ../../LEB.rst:956
 msgid ""
 ":mtgtip:`Cockatrice<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/f/c/fc71dd0f-dffe-4671-b9e3-ddec70626688.jpg?1559591841|https://"
 "scryfall.com/card/leb/190/cockatrice?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:951
+#: ../../LEB.rst:955
 msgid ""
 "Whenever Cockatrice blocks or becomes blocked by a non-Wall creature, "
 "destroy that creature at end of combat."
 msgstr ""
 
-#: ../../LEB.rst:954
+#: ../../LEB.rst:958
 msgid ""
 ":mtgtip:`Craw Wurm<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/1/7/17d5c1c7-a882-479a-9077-0784e83b462d.jpg?1559591575|https://"
 "scryfall.com/card/leb/191/craw-wurm?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:960
+#: ../../LEB.rst:964
 msgid ""
 ":mtgtip:`Elvish Archers<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/c/3/c3240d5e-b3d4-4368-b09b-c309bc935152.jpg?1559591814|"
 "https://scryfall.com/card/leb/192/elvish-archers?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:959
+#: ../../LEB.rst:963
 msgid "First strike"
 msgstr "Pierwszy cios"
 
-#: ../../LEB.rst:966
+#: ../../LEB.rst:970
 msgid ""
 ":mtgtip:`Fastbond<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/f/4/f48ed192-c1a1-437a-80dd-647a616b46e3.jpg?1559591806|https://"
 "scryfall.com/card/leb/193/fastbond?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:963
+#: ../../LEB.rst:967
 msgid "You may play any number of lands on each of your turns."
 msgstr ""
 
-#: ../../LEB.rst:965
+#: ../../LEB.rst:969
 msgid ""
 "Whenever you play a land, if it wasn't the first land you played this turn, "
 "Fastbond deals 1 damage to you."
 msgstr ""
 
-#: ../../LEB.rst:970
+#: ../../LEB.rst:974
 msgid ""
 ":mtgtip:`Fog<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/"
 "f/4/f4e9597a-4489-47e9-8b15-888acb402ddd.jpg?1559591799|https://scryfall.com/"
 "card/leb/194/fog?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:969
+#: ../../LEB.rst:973
 msgid "Prevent all combat damage that would be dealt this turn."
 msgstr ""
 "Zażegnaj wszystkie obrażenia bojowe, jakie mogłyby zostać zadane w tej turze."
 
-#: ../../LEB.rst:976
+#: ../../LEB.rst:980
 msgid ""
 ":mtgtip:`Force of Nature<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/c/2/c25a61b3-c828-491c-868d-e4eff770c1bb.jpg?1559591798|"
 "https://scryfall.com/card/leb/195/force-of-nature?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:973
+#: ../../LEB.rst:977
 msgid ""
 "Trample (This creature can deal excess combat damage to the player or "
 "planeswalker it's attacking.)"
@@ -2953,7 +2964,7 @@ msgstr ""
 "Tratowanie (Ten stwór może zadać nadwyżkę obrażeń bojowych atakowanemu "
 "graczowi lub wędrowcowi.)"
 
-#: ../../LEB.rst:975
+#: ../../LEB.rst:979
 msgid ""
 "At the beginning of your upkeep, Force of Nature deals 8 damage to you "
 "unless you pay |mana_g|\\ |mana_g|\\ |mana_g|\\ |mana_g|."
@@ -2961,25 +2972,25 @@ msgstr ""
 "Na początku twojego kroku utrzymania, ten stwór zadaje tobie 8 obrażeń, "
 "chyba że zapłacisz |mana_g|\\ |mana_g|\\ |mana_g|\\ |mana_g|."
 
-#: ../../LEB.rst:980
+#: ../../LEB.rst:984
 msgid ""
 ":mtgtip:`Fungusaur<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/7/5/75a58f0b-c772-4254-8686-182d26889f9c.jpg?1559591794|https://"
 "scryfall.com/card/leb/196/fungusaur?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:979
+#: ../../LEB.rst:983
 msgid "Whenever Fungusaur is dealt damage, put a +1/+1 counter on it."
 msgstr "Ilekroć ten stwór otrzyma obrażenia, umieść na nim znacznik +1/+1."
 
-#: ../../LEB.rst:986
+#: ../../LEB.rst:990
 msgid ""
 ":mtgtip:`Gaea's Liege<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/5/5/554362d7-97b3-4a55-9292-15e90435088d.jpg?1559591792|"
 "https://scryfall.com/card/leb/197/gaeas-liege?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:983
+#: ../../LEB.rst:987
 msgid ""
 "As long as Gaea's Liege isn't attacking, its power and toughness are each "
 "equal to the number of Forests you control. As long as Gaea's Liege is "
@@ -2987,192 +2998,192 @@ msgid ""
 "defending player controls."
 msgstr ""
 
-#: ../../LEB.rst:985
+#: ../../LEB.rst:989
 msgid ""
 "|tap|: Target land becomes a Forest until Gaea's Liege leaves the "
 "battlefield."
 msgstr ""
 
-#: ../../LEB.rst:990
+#: ../../LEB.rst:994
 msgid ""
 ":mtgtip:`Giant Growth<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/7/5/755a45bd-8fe6-4e4d-8065-024a2836751b.jpg?1559591788|"
 "https://scryfall.com/card/leb/198/giant-growth?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:989
+#: ../../LEB.rst:993
 msgid "Target creature gets +3/+3 until end of turn."
 msgstr "Wskazany stwór dostaje do końca tury +3/+3."
 
-#: ../../LEB.rst:994
+#: ../../LEB.rst:998
 msgid ""
 ":mtgtip:`Giant Spider<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/5/2/52ea35ce-8aa1-4818-8ad5-7e462452f10e.jpg?1559591789|"
 "https://scryfall.com/card/leb/199/giant-spider?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:993
+#: ../../LEB.rst:997
 msgid "Reach (This creature can block creatures with flying.)"
 msgstr "Zasięg (Ten stwór może blokować stwory mające latanie.)"
 
-#: ../../LEB.rst:996
+#: ../../LEB.rst:1000
 msgid ""
 ":mtgtip:`Grizzly Bears<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/e/7/e7aa2b93-0a84-4318-bf2d-58164f0a846f.jpg?1559591515|"
 "https://scryfall.com/card/leb/200/grizzly-bears?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1002
+#: ../../LEB.rst:1006
 msgid ""
 ":mtgtip:`Hurricane<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/b/3/b3939f72-1ec6-4b2c-b37e-b1ebb024bb8f.jpg?1559591593|https://"
 "scryfall.com/card/leb/201/hurricane?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1001
+#: ../../LEB.rst:1005
 msgid "Hurricane deals X damage to each creature with flying and each player."
 msgstr ""
 "Ten czar zadaje każdemu stworowi z lataniem i każdemu graczowi po X obrażeń."
 
-#: ../../LEB.rst:1006
+#: ../../LEB.rst:1010
 msgid ""
 ":mtgtip:`Ice Storm<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/7/c/7c439c5a-b4a5-411b-9e68-fb8438ccdfb0.jpg?1559591562|https://"
 "scryfall.com/card/leb/202/ice-storm?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1014
+#: ../../LEB.rst:1018
 msgid ""
 ":mtgtip:`Instill Energy<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/5/8/58334cf9-5186-4fba-963c-fffb21f2b8de.jpg?1559591775|"
 "https://scryfall.com/card/leb/203/instill-energy?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1011
+#: ../../LEB.rst:1015
 msgid "Enchanted creature can attack as though it had haste."
 msgstr ""
 
-#: ../../LEB.rst:1013
+#: ../../LEB.rst:1017
 msgid ""
 "|mana_0|: Untap enchanted creature. Activate only during your turn and only "
 "once each turn."
 msgstr ""
 
-#: ../../LEB.rst:1016
+#: ../../LEB.rst:1020
 msgid ""
 ":mtgtip:`Ironroot Treefolk<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/1/d/1d9479ae-2b42-4137-9e62-ef4d7fd17d0c.jpg?1559591679|"
 "https://scryfall.com/card/leb/204/ironroot-treefolk?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1024
+#: ../../LEB.rst:1028
 msgid ""
 ":mtgtip:`Kudzu<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/"
 "c/e/ced83afa-9718-4b8a-961b-394f8595c480.jpg?1559591766|https://scryfall.com/"
 "card/leb/205/kudzu?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1023
+#: ../../LEB.rst:1027
 msgid ""
 "When enchanted land becomes tapped, destroy it. That land's controller may "
 "attach Kudzu to a land of their choice."
 msgstr ""
 
-#: ../../LEB.rst:1028
+#: ../../LEB.rst:1032
 msgid ""
 ":mtgtip:`Ley Druid<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/b/5/b58867ec-0b1a-4804-bc2e-1c88d338c29e.jpg?1559591765|https://"
 "scryfall.com/card/leb/206/ley-druid?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1027
+#: ../../LEB.rst:1031
 msgid "|tap|: Untap target land."
 msgstr "|tap|: Odkręć wskazany ląd."
 
-#: ../../LEB.rst:1032
+#: ../../LEB.rst:1036
 msgid ""
 ":mtgtip:`Lifeforce<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/3/7/3715abe2-5a8e-4bf4-ac02-6c755d86bb4c.jpg?1559591505|https://"
 "scryfall.com/card/leb/207/lifeforce?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1031
+#: ../../LEB.rst:1035
 msgid "|mana_g|\\ |mana_g|: Counter target black spell."
 msgstr ""
 
-#: ../../LEB.rst:1036
+#: ../../LEB.rst:1040
 msgid ""
 ":mtgtip:`Lifelace<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/9/3/9379e159-43ac-4bd2-8b33-f3de8e20cfe0.jpg?1559591763|https://"
 "scryfall.com/card/leb/208/lifelace?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1035
+#: ../../LEB.rst:1039
 msgid ""
 "Target spell or permanent becomes green. (Mana symbols on that permanent "
 "remain unchanged.)"
 msgstr ""
 
-#: ../../LEB.rst:1044
+#: ../../LEB.rst:1048
 msgid ""
 ":mtgtip:`Living Artifact<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/8/b/8bbf6678-f597-407d-9a95-02bbe6c4bcf3.jpg?1559591760|"
 "https://scryfall.com/card/leb/209/living-artifact?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1041
+#: ../../LEB.rst:1045
 msgid ""
 "Whenever you're dealt damage, put that many vitality counters on Living "
 "Artifact."
 msgstr ""
 
-#: ../../LEB.rst:1043
+#: ../../LEB.rst:1047
 msgid ""
 "At the beginning of your upkeep, you may remove a vitality counter from "
 "Living Artifact. If you do, you gain 1 life."
 msgstr ""
 
-#: ../../LEB.rst:1048
+#: ../../LEB.rst:1052
 msgid ""
 ":mtgtip:`Living Lands<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/f/1/f132acbd-53e5-430a-8f93-8b7469633c0e.jpg?1559591646|"
 "https://scryfall.com/card/leb/210/living-lands?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1047
+#: ../../LEB.rst:1051
 msgid "All Forests are 1/1 creatures that are still lands."
 msgstr "Wszystkie Kasy są stworami 1/1 pozostając lądami."
 
-#: ../../LEB.rst:1052
+#: ../../LEB.rst:1056
 msgid ""
 ":mtgtip:`Llanowar Elves<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/a/b/abd80204-e9ba-483f-9b75-a69712545ba9.jpg?1559591522|"
 "https://scryfall.com/card/leb/211/llanowar-elves?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1051 ../../LEB.rst:1293
+#: ../../LEB.rst:1055 ../../LEB.rst:1297
 msgid "|tap|: Add |mana_g|."
 msgstr "|tap|: Weź |mana_g|."
 
-#: ../../LEB.rst:1058
+#: ../../LEB.rst:1062
 msgid ""
 ":mtgtip:`Lure<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/"
 "e/3/e31495ab-e6ed-40a6-b82d-aa6092b049e2.jpg?1559591637|https://scryfall.com/"
 "card/leb/212/lure?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1057
+#: ../../LEB.rst:1061
 msgid "All creatures able to block enchanted creature do so."
 msgstr "Wszystkie stwory mogące blokować zauroczonego stwora, robią to."
 
-#: ../../LEB.rst:1062
+#: ../../LEB.rst:1066
 msgid ""
 ":mtgtip:`Natural Selection<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/a/5/a594299e-fc3a-4d46-bd58-1a9cf7ddbdd7.jpg?1559591747|"
 "https://scryfall.com/card/leb/213/natural-selection?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1061
+#: ../../LEB.rst:1065
 msgid ""
 "Look at the top three cards of target player's library, then put them back "
 "in any order. You may have that player shuffle."
@@ -3180,14 +3191,14 @@ msgstr ""
 "Spójrz na trzy wierzchnie karty biblioteki wskazanego gracza, następnie "
 "odłóż je w dowolnej kolejności. Możesz sprawić, że ów gracz przetasuje."
 
-#: ../../LEB.rst:1068
+#: ../../LEB.rst:1072
 msgid ""
 ":mtgtip:`Regeneration<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/4/2/42ad2d7f-34a5-4b17-ae11-16b322601d73.jpg?1559591502|"
 "https://scryfall.com/card/leb/214/regeneration?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1067
+#: ../../LEB.rst:1071
 msgid ""
 "|mana_g|: Regenerate enchanted creature. (The next time that creature would "
 "be destroyed this turn, it isn't. Instead tap it, remove all damage from it, "
@@ -3197,32 +3208,32 @@ msgstr ""
 "miałby zostać zniszczony w tej turze, nie jest. Zamiast tego przekręć go, "
 "usuń z niego wszystkie obrażenia i usuń go z potyczki.)"
 
-#: ../../LEB.rst:1072
+#: ../../LEB.rst:1076
 msgid ""
 ":mtgtip:`Regrowth<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/8/9/898cd314-9060-4f1c-a821-1d61a292a12b.jpg?1559591659|https://"
 "scryfall.com/card/leb/215/regrowth?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1071
+#: ../../LEB.rst:1075
 msgid "Return target card from your graveyard to your hand."
 msgstr "Przywróć wskazaną kartę z twojego cmentarza do twojej ręki."
 
-#: ../../LEB.rst:1076
+#: ../../LEB.rst:1080
 msgid ""
 ":mtgtip:`Scryb Sprites<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/f/a/fafe9639-e9d0-4aa2-8a16-f4ec24c140c0.jpg?1559591725|"
 "https://scryfall.com/card/leb/216/scryb-sprites?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1080
+#: ../../LEB.rst:1084
 msgid ""
 ":mtgtip:`Shanodin Dryads<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/1/a/1ac8bdb0-2dfd-4531-a4d9-420f2f2a90be.jpg?1559591720|"
 "https://scryfall.com/card/leb/217/shanodin-dryads?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1079
+#: ../../LEB.rst:1083
 msgid ""
 "Forestwalk (This creature can't be blocked as long as defending player "
 "controls a Forest.)"
@@ -3230,25 +3241,25 @@ msgstr ""
 "Podbój lasów (Ten stwór nie może być blokowany o ile broniący się gracz "
 "włada Lasem.)"
 
-#: ../../LEB.rst:1084
+#: ../../LEB.rst:1088
 msgid ""
 ":mtgtip:`Stream of Life<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/d/a/da18a2c9-850e-400d-b0b3-edd8a946e380.jpg?1559591656|"
 "https://scryfall.com/card/leb/218/stream-of-life?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1083
+#: ../../LEB.rst:1087
 msgid "Target player gains X life."
 msgstr "Wskazany gracz zyskuje X żyć."
 
-#: ../../LEB.rst:1088
+#: ../../LEB.rst:1092
 msgid ""
 ":mtgtip:`Thicket Basilisk<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/6/3/6321e16b-0b4b-4d36-ab94-97bf5816acf4.jpg?1559591894|"
 "https://scryfall.com/card/leb/219/thicket-basilisk?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1087
+#: ../../LEB.rst:1091
 msgid ""
 "Whenever Thicket Basilisk blocks or becomes blocked by a non-Wall creature, "
 "destroy that creature at end of combat."
@@ -3256,99 +3267,99 @@ msgstr ""
 "Ilekroć ten stwór zablokuje lub zostanie zablokowany przez stwora bez typu "
 "Ściana, zniszcz owego stwora na końcu potyczki."
 
-#: ../../LEB.rst:1092
+#: ../../LEB.rst:1096
 msgid ""
 ":mtgtip:`Timber Wolves<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/a/a/aa598db8-c0c7-4a9a-bd89-6d3da0d3dfba.jpg?1559591613|"
 "https://scryfall.com/card/leb/220/timber-wolves?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1096
+#: ../../LEB.rst:1100
 msgid ""
 ":mtgtip:`Tranquility<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/e/e/ee21b620-4dfa-4e06-872e-8d8ffce12f76.jpg?1559591701|https://"
 "scryfall.com/card/leb/221/tranquility?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1095
+#: ../../LEB.rst:1099
 msgid "Destroy all enchantments."
 msgstr "Zniszcz wszystkie uroki."
 
-#: ../../LEB.rst:1100
+#: ../../LEB.rst:1104
 msgid ""
 ":mtgtip:`Tsunami<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/1/f/1f4b6f5a-1ba2-409d-9b9b-91e2c1470f62.jpg?1559591527|https://"
 "scryfall.com/card/leb/222/tsunami?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1099
+#: ../../LEB.rst:1103
 msgid "Destroy all Islands."
 msgstr "Zniszcz wszystkie Wyspy."
 
-#: ../../LEB.rst:1104
+#: ../../LEB.rst:1108
 msgid ""
 ":mtgtip:`Verduran Enchantress<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/d/a/da3f051c-6be3-4f92-8f66-9f72d75dbcf5.jpg?1559591697|"
 "https://scryfall.com/card/leb/223/verduran-enchantress?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1103
+#: ../../LEB.rst:1107
 msgid "Whenever you cast an enchantment spell, you may draw a card."
 msgstr "Ilekroć rzucisz czar uroku, możesz dobrać kartę."
 
-#: ../../LEB.rst:1110
+#: ../../LEB.rst:1114
 msgid ""
 ":mtgtip:`Wall of Brambles<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/c/2/c2fca52b-80b3-4b6b-9a49-110c66557894.jpg?1559591599|"
 "https://scryfall.com/card/leb/224/wall-of-brambles?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1109
+#: ../../LEB.rst:1113
 msgid "|mana_g|: Regenerate Wall of Brambles."
 msgstr ""
 
-#: ../../LEB.rst:1114
+#: ../../LEB.rst:1118
 msgid ""
 ":mtgtip:`Wall of Ice<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/c/c/cc05a648-7719-4ed3-aa3b-648463ee2869.jpg?1587915326|https://"
 "scryfall.com/card/leb/225/wall-of-ice?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1118
+#: ../../LEB.rst:1122
 msgid ""
 ":mtgtip:`Wall of Wood<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/1/a/1a5054a4-599d-49df-9a80-77eeed47891f.jpg?1559591570|"
 "https://scryfall.com/card/leb/226/wall-of-wood?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1124
+#: ../../LEB.rst:1128
 msgid ""
 ":mtgtip:`Wanderlust<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/3/9/393f08a2-7aa8-443f-aab5-4287240e9167.jpg?1559591686|https://"
 "scryfall.com/card/leb/227/wanderlust?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1123
+#: ../../LEB.rst:1127
 msgid ""
 "At the beginning of the upkeep of enchanted creature's controller, "
 "Wanderlust deals 1 damage to that player."
 msgstr ""
 
-#: ../../LEB.rst:1128
+#: ../../LEB.rst:1132
 msgid ""
 ":mtgtip:`War Mammoth<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/9/f/9f67175d-ac5c-4947-b243-d5206b552bdc.jpg?1559591688|https://"
 "scryfall.com/card/leb/228/war-mammoth?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1134
+#: ../../LEB.rst:1138
 msgid ""
 ":mtgtip:`Web<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/"
 "f/7/f7f84dc2-5a29-447d-97ab-a10afd9ee538.jpg?1559591494|https://scryfall.com/"
 "card/leb/229/web?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1133
+#: ../../LEB.rst:1137
 msgid ""
 "Enchanted creature gets +0/+2 and has reach. (It can block creatures with "
 "flying.)"
@@ -3356,14 +3367,14 @@ msgstr ""
 "Zauroczony stwór dostaje +0/+2 i ma zasięg. (Może blokować stwory mające "
 "latanie.)"
 
-#: ../../LEB.rst:1140
+#: ../../LEB.rst:1144
 msgid ""
 ":mtgtip:`Wild Growth<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/6/4/64f299eb-9cd6-40bc-ad44-22e3aeb5c930.jpg?1559591668|https://"
 "scryfall.com/card/leb/230/wild-growth?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1139
+#: ../../LEB.rst:1143
 msgid ""
 "Whenever enchanted land is tapped for mana, its controller adds an "
 "additional |mana_g|."
@@ -3371,14 +3382,14 @@ msgstr ""
 "Ilekroć zauroczony ląd jest przekręcany przy pobieraniu many, jego władca "
 "bierze dodatkowo |mana_g|."
 
-#: ../../LEB.rst:1144
+#: ../../LEB.rst:1148
 msgid ""
 ":mtgtip:`Ankh of Mishra<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/a/0/a0367e54-eb07-475a-b06b-f869a046a86c.jpg?1559591874|"
 "https://scryfall.com/card/leb/231/ankh-of-mishra?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1143
+#: ../../LEB.rst:1147
 msgid ""
 "Whenever a land enters the battlefield, Ankh of Mishra deals 2 damage to "
 "that land's controller."
@@ -3386,72 +3397,72 @@ msgstr ""
 "Ilekroć ląd wejdzie na pole bitwy, ten artefakt zadaje władcy owego lądu 2 "
 "obrażenia."
 
-#: ../../LEB.rst:1152
+#: ../../LEB.rst:1156
 msgid ""
 ":mtgtip:`Basalt Monolith<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/8/1/81d73362-43c1-4dd0-87dd-9aa7ae13ff2f.jpg?1559591872|"
 "https://scryfall.com/card/leb/232/basalt-monolith?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1147
+#: ../../LEB.rst:1151
 msgid "Basalt Monolith doesn't untap during your untap step."
 msgstr "Ten stwór nie odkręca się w twoim kroku odkręcania."
 
-#: ../../LEB.rst:1149 ../../LEB.rst:1285
+#: ../../LEB.rst:1153 ../../LEB.rst:1289
 msgid "|tap|: Add |colorless|\\ |colorless|\\ |colorless|."
 msgstr "|tap|: Weź |colorless|\\ |colorless|\\ |colorless|."
 
-#: ../../LEB.rst:1151
+#: ../../LEB.rst:1155
 msgid "|mana_3|: Untap Basalt Monolith."
 msgstr "|mana_3|: Odkręć tego stwora."
 
-#: ../../LEB.rst:1156
+#: ../../LEB.rst:1160
 msgid ""
 ":mtgtip:`Black Lotus<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/b/3/b3a69a1c-c80f-4413-a6fd-ae54cabbce28.jpg?1559591595|https://"
 "scryfall.com/card/leb/233/black-lotus?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1155
+#: ../../LEB.rst:1159
 msgid "|tap|, Sacrifice Black Lotus: Add three mana of any one color."
 msgstr "|tap|, poświęć ten artefakt: Weź trzy many w dowolnym jednym kolorze."
 
-#: ../../LEB.rst:1162
+#: ../../LEB.rst:1166
 msgid ""
 ":mtgtip:`Black Vise<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/d/2/d234f3d7-2f15-4fbf-92db-16c3433d644b.jpg?1559591927|https://"
 "scryfall.com/card/leb/234/black-vise?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1159
+#: ../../LEB.rst:1163
 msgid "As Black Vise enters the battlefield, choose an opponent."
 msgstr ""
 
-#: ../../LEB.rst:1161
+#: ../../LEB.rst:1165
 msgid ""
 "At the beginning of the chosen player's upkeep, Black Vise deals X damage to "
 "that player, where X is the number of cards in their hand minus 4."
 msgstr ""
 
-#: ../../LEB.rst:1166
+#: ../../LEB.rst:1170
 msgid ""
 ":mtgtip:`Celestial Prism<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/2/4/243c5460-8d4c-47a7-8a9c-ab626daa520a.jpg?1559591854|"
 "https://scryfall.com/card/leb/235/celestial-prism?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1165
+#: ../../LEB.rst:1169
 msgid "|mana_2|, |tap|: Add one mana of any color."
 msgstr ""
 
-#: ../../LEB.rst:1170
+#: ../../LEB.rst:1174
 msgid ""
 ":mtgtip:`Chaos Orb<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/6/b/6bec436c-2869-432a-b3cf-633a58af6d4c.jpg?1559591606|https://"
 "scryfall.com/card/leb/236/chaos-orb?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1169
+#: ../../LEB.rst:1173
 msgid ""
 "|mana_1|, |tap|: If Chaos Orb is on the battlefield, flip Chaos Orb onto the "
 "battlefield from a height of at least one foot. If Chaos Orb turns over "
@@ -3459,64 +3470,64 @@ msgid ""
 "touches. Then destroy Chaos Orb."
 msgstr ""
 
-#: ../../LEB.rst:1178
+#: ../../LEB.rst:1182
 msgid ""
 ":mtgtip:`Clockwork Beast<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/6/c/6c6efe95-ae57-4ff1-8f8a-0d6f3bd36d9c.jpg?1559591845|"
 "https://scryfall.com/card/leb/237/clockwork-beast?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1173
+#: ../../LEB.rst:1177
 msgid "Clockwork Beast enters the battlefield with seven +1/+0 counters on it."
 msgstr ""
 
-#: ../../LEB.rst:1175
+#: ../../LEB.rst:1179
 msgid ""
 "At end of combat, if Clockwork Beast attacked or blocked this combat, remove "
 "a +1/+0 counter from it."
 msgstr ""
 
-#: ../../LEB.rst:1177
+#: ../../LEB.rst:1181
 msgid ""
 "|mana_x|, |tap|: Put up to X +1/+0 counters on Clockwork Beast. This ability "
 "can't cause the total number of +1/+0 counters on Clockwork Beast to be "
 "greater than seven. Activate only during your upkeep."
 msgstr ""
 
-#: ../../LEB.rst:1182
+#: ../../LEB.rst:1186
 msgid ""
 ":mtgtip:`Conservator<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/d/4/d4f54af3-7c85-43da-b0ce-df4a44af4736.jpg?1559591607|https://"
 "scryfall.com/card/leb/238/conservator?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1181
+#: ../../LEB.rst:1185
 msgid ""
 "|mana_3|, |tap|: Prevent the next 2 damage that would be dealt to you this "
 "turn."
 msgstr ""
 
-#: ../../LEB.rst:1186
+#: ../../LEB.rst:1190
 msgid ""
 ":mtgtip:`Copper Tablet<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/9/3/93842064-a0a8-4e4d-9c8a-e8a86448d225.jpg?1559591838|"
 "https://scryfall.com/card/leb/239/copper-tablet?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1185
+#: ../../LEB.rst:1189
 msgid ""
 "At the beginning of each player's upkeep, Copper Tablet deals 1 damage to "
 "that player."
 msgstr ""
 
-#: ../../LEB.rst:1190
+#: ../../LEB.rst:1194
 msgid ""
 ":mtgtip:`Crystal Rod<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/e/4/e44d892f-a975-4062-8a54-5777d2600504.jpg?1559591833|https://"
 "scryfall.com/card/leb/240/crystal-rod?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1189
+#: ../../LEB.rst:1193
 msgid ""
 "Whenever a player casts a blue spell, you may pay |mana_1|. If you do, you "
 "gain 1 life."
@@ -3524,21 +3535,21 @@ msgstr ""
 "Ilekroć gracz rzuci niebieski czar, możesz zapłacić |mana_1|. Jeśli tak "
 "zrobisz, zyskaj 1 życie."
 
-#: ../../LEB.rst:1196
+#: ../../LEB.rst:1200
 msgid ""
 ":mtgtip:`Cyclopean Tomb<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/0/0/00775f44-fbe6-41ee-9977-d13d1fb5b6fb.jpg?1559591832|"
 "https://scryfall.com/card/leb/241/cyclopean-tomb?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1193
+#: ../../LEB.rst:1197
 msgid ""
 "|mana_2|, |tap|: Put a mire counter on target non-Swamp land. That land is a "
 "Swamp for as long as it has a mire counter on it. Activate only during your "
 "upkeep."
 msgstr ""
 
-#: ../../LEB.rst:1195
+#: ../../LEB.rst:1199
 msgid ""
 "When Cyclopean Tomb is put into a graveyard from the battlefield, at the "
 "beginning of each of your upkeeps for the rest of the game, remove all mire "
@@ -3546,14 +3557,14 @@ msgid ""
 "but that a mire counter has not been removed from with Cyclopean Tomb."
 msgstr ""
 
-#: ../../LEB.rst:1200
+#: ../../LEB.rst:1204
 msgid ""
 ":mtgtip:`Dingus Egg<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/f/e/fe8ecaee-0de3-45ee-8428-09dc400d63d8.jpg?1559591640|https://"
 "scryfall.com/card/leb/242/dingus-egg?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1199
+#: ../../LEB.rst:1203
 msgid ""
 "Whenever a land is put into a graveyard from the battlefield, Dingus Egg "
 "deals 2 damage to that land's controller."
@@ -3561,14 +3572,14 @@ msgstr ""
 "Ilekroć ląd zostanie umieszczony w cmentarzu z pola bitwy, ten artefakt "
 "zadaje właścicielowi owego lądu 2 obrażenia."
 
-#: ../../LEB.rst:1204
+#: ../../LEB.rst:1208
 msgid ""
 ":mtgtip:`Disrupting Scepter<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/a/e/ae91e07c-ad6d-41d9-bd65-184f92761334.jpg?1559591616|"
 "https://scryfall.com/card/leb/243/disrupting-scepter?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1203
+#: ../../LEB.rst:1207
 msgid ""
 "|mana_3|, |tap|: Target player discards a card. Activate only during your "
 "turn."
@@ -3576,55 +3587,55 @@ msgstr ""
 "|mana_3|, |tap|: Wskazany gracz odrzuca kartę. Możesz aktywować tylko w "
 "twojej turze."
 
-#: ../../LEB.rst:1208
+#: ../../LEB.rst:1212
 msgid ""
 ":mtgtip:`Forcefield<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/3/4/34855fa8-959d-45a2-ad91-8b17019755be.jpg?1559591617|https://"
 "scryfall.com/card/leb/244/forcefield?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1207
+#: ../../LEB.rst:1211
 msgid ""
 "|mana_1|: The next time an unblocked creature of your choice would deal "
 "combat damage to you this turn, prevent all but 1 of that damage."
 msgstr ""
 
-#: ../../LEB.rst:1214
+#: ../../LEB.rst:1218
 msgid ""
 ":mtgtip:`Gauntlet of Might<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/6/3/63c0e240-07b0-45fb-90af-f4fce18c604e.jpg?1559591791|"
 "https://scryfall.com/card/leb/245/gauntlet-of-might?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1211
+#: ../../LEB.rst:1215
 msgid "Red creatures get +1/+1."
 msgstr ""
 
-#: ../../LEB.rst:1213
+#: ../../LEB.rst:1217
 msgid ""
 "Whenever a Mountain is tapped for mana, its controller adds an additional |"
 "mana_r|."
 msgstr ""
 
-#: ../../LEB.rst:1218
+#: ../../LEB.rst:1222
 msgid ""
 ":mtgtip:`Glasses of Urza<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/e/b/eb6953fd-ee48-49dc-9c9c-bfb9a9dc06d0.jpg?1559591604|"
 "https://scryfall.com/card/leb/246/glasses-of-urza?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1217
+#: ../../LEB.rst:1221
 msgid "|tap|: Look at target player's hand."
 msgstr "|tap|: Spójrz na rękę wskazanego gracza."
 
-#: ../../LEB.rst:1222
+#: ../../LEB.rst:1226
 msgid ""
 ":mtgtip:`Helm of Chatzuk<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/5/5/559d3329-9053-4301-b867-1b49c248fe31.jpg?1559591782|"
 "https://scryfall.com/card/leb/247/helm-of-chatzuk?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1221
+#: ../../LEB.rst:1225
 msgid ""
 "|mana_1|, |tap|: Target creature gains banding until end of turn. (Any "
 "creatures with banding, and up to one without, can attack in a band. Bands "
@@ -3634,14 +3645,14 @@ msgid ""
 "blocked by or is blocking.)"
 msgstr ""
 
-#: ../../LEB.rst:1226
+#: ../../LEB.rst:1230
 msgid ""
 ":mtgtip:`Howling Mine<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/3/7/37634ffe-788f-4262-88e8-5ab7c7ca74d6.jpg?1559591706|"
 "https://scryfall.com/card/leb/248/howling-mine?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1225
+#: ../../LEB.rst:1229
 msgid ""
 "At the beginning of each player's draw step, if Howling Mine is untapped, "
 "that player draws an additional card."
@@ -3649,25 +3660,25 @@ msgstr ""
 "Na początku kroku dobierania każdego z graczy, jeśli ten artefakt jest "
 "odkręcony, ów gracz dobiera dodatkową kartę."
 
-#: ../../LEB.rst:1230
+#: ../../LEB.rst:1234
 msgid ""
 ":mtgtip:`Icy Manipulator<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/d/2/d27608e7-6539-4813-95b6-d8847cdc6a12.jpg?1559591776|"
 "https://scryfall.com/card/leb/249/icy-manipulator?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1229
+#: ../../LEB.rst:1233
 msgid "|mana_1|, |tap|: Tap target artifact, creature, or land."
 msgstr "|mana_1|, |tap|: Przekręć wskazany artefakt, stwora lub ląd."
 
-#: ../../LEB.rst:1234
+#: ../../LEB.rst:1238
 msgid ""
 ":mtgtip:`Illusionary Mask<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/6/1/61ea96b1-4428-4951-88d4-f79338955981.jpg?1559591564|"
 "https://scryfall.com/card/leb/250/illusionary-mask?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1233
+#: ../../LEB.rst:1237
 msgid ""
 "|mana_x|: You may choose a creature card in your hand whose mana cost could "
 "be paid by some amount of, or all of, the mana you spent on |mana_x|. If you "
@@ -3678,14 +3689,14 @@ msgid ""
 "dealt damage, or becomes tapped. Activate only as a sorcery."
 msgstr ""
 
-#: ../../LEB.rst:1238
+#: ../../LEB.rst:1242
 msgid ""
 ":mtgtip:`Iron Star<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/b/0/b08fff47-c3c8-40a9-b3d3-296954aa4ed4.jpg?1559591772|https://"
 "scryfall.com/card/leb/251/iron-star?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1237
+#: ../../LEB.rst:1241
 msgid ""
 "Whenever a player casts a red spell, you may pay |mana_1|. If you do, you "
 "gain 1 life."
@@ -3693,14 +3704,14 @@ msgstr ""
 "Ilekroć gracz rzuci czerwony czar, możesz zapłacić |mana_1|. Jeśli tak "
 "zrobisz, zyskaj 1 życie."
 
-#: ../../LEB.rst:1242
+#: ../../LEB.rst:1246
 msgid ""
 ":mtgtip:`Ivory Cup<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/3/2/32516ab8-43be-4207-a7d5-4916933ce155.jpg?1559591771|https://"
 "scryfall.com/card/leb/252/ivory-cup?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1241
+#: ../../LEB.rst:1245
 msgid ""
 "Whenever a player casts a white spell, you may pay |mana_1|. If you do, you "
 "gain 1 life."
@@ -3708,14 +3719,14 @@ msgstr ""
 "Ilekroć którykolwiek gracz rzuci biały czar, możesz zapłacić |mana_1|. Jeśli "
 "tak zrobisz, zyskaj 1 życie."
 
-#: ../../LEB.rst:1246
+#: ../../LEB.rst:1250
 msgid ""
 ":mtgtip:`Jade Monolith<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/e/e/eeea32ba-dfe4-4a9b-b403-43c2abc80b78.jpg?1559591768|"
 "https://scryfall.com/card/leb/253/jade-monolith?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1245
+#: ../../LEB.rst:1249
 msgid ""
 "|mana_1|: The next time a source of your choice would deal damage to target "
 "creature this turn, that source deals that damage to you instead."
@@ -3724,14 +3735,14 @@ msgstr ""
 "miałoby zadać obrażenia wskazanemu stworowi, zamiast tego owe źródło zadaje "
 "owe obrażenia tobie."
 
-#: ../../LEB.rst:1250
+#: ../../LEB.rst:1254
 msgid ""
 ":mtgtip:`Jade Statue<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/9/8/985164ba-0c30-42b1-a8b6-3be19251359c.jpg?1587915337|https://"
 "scryfall.com/card/leb/254/jade-statue?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1249
+#: ../../LEB.rst:1253
 msgid ""
 "|mana_2|: Jade Statue becomes a 3/6 Golem artifact creature until end of "
 "combat. Activate only during combat."
@@ -3739,83 +3750,83 @@ msgstr ""
 "|mana_2|: Ten artefakt staje się do końca potyczki artefaktowym stworem "
 "Golem 3/6. Możesz aktywować tylko w trakcie potyczki."
 
-#: ../../LEB.rst:1254
+#: ../../LEB.rst:1258
 msgid ""
 ":mtgtip:`Jayemdae Tome<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/e/4/e48b1c51-c0fd-4c08-8631-80f507b04d28.jpg?1559591769|"
 "https://scryfall.com/card/leb/255/jayemdae-tome?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1253
+#: ../../LEB.rst:1257
 msgid "|mana_4|, |tap|: Draw a card."
 msgstr "|mana_4|, |tap|: Dobierz kartę."
 
-#: ../../LEB.rst:1260
+#: ../../LEB.rst:1264
 msgid ""
 ":mtgtip:`Juggernaut<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/8/7/870eb49c-f62d-4986-b492-601feb68a307.jpg?1559591915|https://"
 "scryfall.com/card/leb/256/juggernaut?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1257
+#: ../../LEB.rst:1261
 msgid "Juggernaut attacks each combat if able."
 msgstr "Ten stwór atakuje w każdej potyczce, jeśli może."
 
-#: ../../LEB.rst:1259
+#: ../../LEB.rst:1263
 msgid "Juggernaut can't be blocked by Walls."
 msgstr "Ten stwór nie może być blokowany przez Ściany."
 
-#: ../../LEB.rst:1264
+#: ../../LEB.rst:1268
 msgid ""
 ":mtgtip:`Kormus Bell<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/0/c/0cd2a4f9-8f80-4ee3-8068-73e686d6eeb9.jpg?1559591584|https://"
 "scryfall.com/card/leb/257/kormus-bell?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1263
+#: ../../LEB.rst:1267
 msgid "All Swamps are 1/1 black creatures that are still lands."
 msgstr ""
 
-#: ../../LEB.rst:1270
+#: ../../LEB.rst:1274
 msgid ""
 ":mtgtip:`Library of Leng<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/0/2/0254bff2-a3a7-434e-980a-2d30355793fc.jpg?1559591624|"
 "https://scryfall.com/card/leb/258/library-of-leng?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1267
+#: ../../LEB.rst:1271
 msgid "You have no maximum hand size."
 msgstr "Nie masz limitu kart na ręce."
 
-#: ../../LEB.rst:1269
+#: ../../LEB.rst:1273
 msgid ""
 "If an effect causes you to discard a card, discard it, but you may put it on "
 "top of your library instead of into your graveyard."
 msgstr ""
 
-#: ../../LEB.rst:1276
+#: ../../LEB.rst:1280
 msgid ""
 ":mtgtip:`Living Wall<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/0/c/0c2cd1c8-8734-4534-ae92-def4d94ef5bc.jpg?1559591762|https://"
 "scryfall.com/card/leb/259/living-wall?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1275
+#: ../../LEB.rst:1279
 msgid "|mana_1|: Regenerate Living Wall."
 msgstr ""
 
-#: ../../LEB.rst:1286
+#: ../../LEB.rst:1290
 msgid ""
 ":mtgtip:`Mana Vault<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/a/1/a11f55e8-7f86-4ca9-b737-9a920d9cf282.jpg?1559591911|https://"
 "scryfall.com/card/leb/260/mana-vault?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1279
+#: ../../LEB.rst:1283
 msgid "Mana Vault doesn't untap during your untap step."
 msgstr "Ten artefakt nie odkręca się w twoim kroku odkręcania."
 
-#: ../../LEB.rst:1281
+#: ../../LEB.rst:1285
 msgid ""
 "At the beginning of your upkeep, you may pay |mana_4|. If you do, untap Mana "
 "Vault."
@@ -3823,7 +3834,7 @@ msgstr ""
 "Na początku twojego kroku utrzymania, możesz zapłacić |mana_4|. Jeśli tak "
 "zrobisz, odkręć ten artefakt."
 
-#: ../../LEB.rst:1283
+#: ../../LEB.rst:1287
 msgid ""
 "At the beginning of your draw step, if Mana Vault is tapped, it deals 1 "
 "damage to you."
@@ -3831,14 +3842,14 @@ msgstr ""
 "Na początku twojego kroku dobierania, jeśli ten artefakt jest przekręcony, "
 "zadaje tobie 1 obrażenie."
 
-#: ../../LEB.rst:1290
+#: ../../LEB.rst:1294
 msgid ""
 ":mtgtip:`Meekstone<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/7/4/74b22007-9def-4c0f-921c-555483cc3deb.jpg?1559591910|https://"
 "scryfall.com/card/leb/261/meekstone?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1289
+#: ../../LEB.rst:1293
 msgid ""
 "Creatures with power 3 or greater don't untap during their controllers' "
 "untap steps."
@@ -3846,134 +3857,134 @@ msgstr ""
 "Stwory o sile 3 lub większej nie odkręcają się podczas kroku odkręcania "
 "swoich władców."
 
-#: ../../LEB.rst:1294
+#: ../../LEB.rst:1298
 msgid ""
 ":mtgtip:`Mox Emerald<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/e/a/ea5d9476-76be-48e7-b6a0-49ced25cb092.jpg?1559591908|https://"
 "scryfall.com/card/leb/262/mox-emerald?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1298
+#: ../../LEB.rst:1302
 msgid ""
 ":mtgtip:`Mox Jet<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/1/3/133204e4-fef8-4851-aa50-c96ffa35b802.jpg?1559591884|https://"
 "scryfall.com/card/leb/263/mox-jet?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1297
+#: ../../LEB.rst:1301
 msgid "|tap|: Add |mana_b|."
 msgstr "|tap|: Weź |mana_b|."
 
-#: ../../LEB.rst:1302
+#: ../../LEB.rst:1306
 msgid ""
 ":mtgtip:`Mox Pearl<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/4/d/4da892c5-071f-416f-9e42-c4bff102eb88.jpg?1559591750|https://"
 "scryfall.com/card/leb/264/mox-pearl?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1301
+#: ../../LEB.rst:1305
 msgid "|tap|: Add |mana_w|."
 msgstr "|tap|: Weź |mana_w|."
 
-#: ../../LEB.rst:1306
+#: ../../LEB.rst:1310
 msgid ""
 ":mtgtip:`Mox Ruby<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/f/d/fdac742b-16db-4e03-be8f-c600dbd522d5.jpg?1559591749|https://"
 "scryfall.com/card/leb/265/mox-ruby?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1305
+#: ../../LEB.rst:1309
 msgid "|tap|: Add |mana_r|."
 msgstr "|tap|: Weź |mana_r|."
 
-#: ../../LEB.rst:1310
+#: ../../LEB.rst:1314
 msgid ""
 ":mtgtip:`Mox Sapphire<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/1/e/1eb3178b-dac5-4b34-9d3e-4f5a170d1c87.jpg?1559591907|"
 "https://scryfall.com/card/leb/266/mox-sapphire?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1309
+#: ../../LEB.rst:1313
 msgid "|tap|: Add |mana_u|."
 msgstr "|tap|: Weź |mana_u|."
 
-#: ../../LEB.rst:1316
+#: ../../LEB.rst:1320
 msgid ""
 ":mtgtip:`Nevinyrral's Disk<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/d/b/dbb21f21-668a-4d57-8d05-8db11fb82d99.jpg?1559591553|"
 "https://scryfall.com/card/leb/267/nevinyrrals-disk?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1313
+#: ../../LEB.rst:1317
 msgid "Nevinyrral's Disk enters the battlefield tapped."
 msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
 
-#: ../../LEB.rst:1315
+#: ../../LEB.rst:1319
 msgid "|mana_1|, |tap|: Destroy all artifacts, creatures, and enchantments."
 msgstr "|mana_1|, |tap|: Zniszcz wszystkie artefakty, stwory i uroki."
 
-#: ../../LEB.rst:1318
+#: ../../LEB.rst:1322
 msgid ""
 ":mtgtip:`Obsianus Golem<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/e/9/e9ed6669-e340-46d5-906b-e24e76464e75.jpg?1587914953|"
 "https://scryfall.com/card/leb/268/obsianus-golem?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1324
+#: ../../LEB.rst:1328
 msgid ""
 ":mtgtip:`Rod of Ruin<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/4/5/45810c0a-0a35-4bd4-ba66-5a45f8973fa4.jpg?1559591671|https://"
 "scryfall.com/card/leb/269/rod-of-ruin?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1323
+#: ../../LEB.rst:1327
 msgid "|mana_3|, |tap|: Rod of Ruin deals 1 damage to any target."
 msgstr "|mana_3|, |tap|: Ten artefakt zadaje wskazanemu celowi 1 obrażenie."
 
-#: ../../LEB.rst:1328
+#: ../../LEB.rst:1332
 msgid ""
 ":mtgtip:`Sol Ring<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/c/0/c0fb91ec-20a8-4c13-9469-18885b1ecca3.jpg?1559591658|https://"
 "scryfall.com/card/leb/270/sol-ring?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1327
+#: ../../LEB.rst:1331
 msgid "|tap|: Add |colorless|\\ |colorless|."
 msgstr "|tap|: Weź |colorless|\\ |colorless|."
 
-#: ../../LEB.rst:1332
+#: ../../LEB.rst:1336
 msgid ""
 ":mtgtip:`Soul Net<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/0/8/08ba41ec-4fff-4192-80ff-2afcd706ea59.jpg?1559591897|https://"
 "scryfall.com/card/leb/271/soul-net?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1331
+#: ../../LEB.rst:1335
 msgid ""
 "Whenever a creature dies, you may pay |mana_1|. If you do, you gain 1 life."
 msgstr ""
 "Ilekroć umrze stwór, możesz zapłacić |mana_1|. Jeśli tak zrobisz, zyskaj 1 "
 "życie."
 
-#: ../../LEB.rst:1336
+#: ../../LEB.rst:1340
 msgid ""
 ":mtgtip:`Sunglasses of Urza<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/4/9/49fcf47d-0f1d-469e-a8c4-d5c97be7a1ef.jpg?1559591654|"
 "https://scryfall.com/card/leb/272/sunglasses-of-urza?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1335
+#: ../../LEB.rst:1339
 msgid "You may spend white mana as though it were red mana."
 msgstr ""
 
-#: ../../LEB.rst:1340
+#: ../../LEB.rst:1344
 msgid ""
 ":mtgtip:`The Hive<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/8/4/84b83106-a10d-469a-99eb-56110ef34ba1.jpg?1559591628|https://"
 "scryfall.com/card/leb/273/the-hive?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1339
+#: ../../LEB.rst:1343
 msgid ""
 "|mana_5|, |tap|: Create a 1/1 colorless Insect artifact creature token with "
 "flying named Wasp. (It can't be blocked except by creatures with flying or "
@@ -3983,14 +3994,14 @@ msgstr ""
 "nazwie Osa. (Nie może być on blokowanym, chyba że przez stwory mające "
 "latanie lub zasięg.)"
 
-#: ../../LEB.rst:1344
+#: ../../LEB.rst:1348
 msgid ""
 ":mtgtip:`Throne of Bone<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/6/5/655b6265-3030-4c68-af5b-b9e636b1a778.jpg?1559591895|"
 "https://scryfall.com/card/leb/274/throne-of-bone?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1343
+#: ../../LEB.rst:1347
 msgid ""
 "Whenever a player casts a black spell, you may pay |mana_1|. If you do, you "
 "gain 1 life."
@@ -3998,39 +4009,39 @@ msgstr ""
 "Ilekroć gracz rzuci czarny czar, możesz zapłacić |mana_1|. Jeśli tak "
 "zrobisz, zyskaj 1 życie."
 
-#: ../../LEB.rst:1354
+#: ../../LEB.rst:1358
 msgid ""
 ":mtgtip:`Time Vault<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/1/1/1164f22f-2706-4f35-9f58-d0eb8c344396.jpg?1559591705|https://"
 "scryfall.com/card/leb/275/time-vault?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1347
+#: ../../LEB.rst:1351
 msgid "Time Vault enters the battlefield tapped."
 msgstr ""
 
-#: ../../LEB.rst:1349
+#: ../../LEB.rst:1353
 msgid "Time Vault doesn't untap during your untap step."
 msgstr ""
 
-#: ../../LEB.rst:1351
+#: ../../LEB.rst:1355
 msgid ""
 "If you would begin your turn while Time Vault is tapped, you may skip that "
 "turn instead. If you do, untap Time Vault."
 msgstr ""
 
-#: ../../LEB.rst:1353
+#: ../../LEB.rst:1357
 msgid "|tap|: Take an extra turn after this one."
 msgstr ""
 
-#: ../../LEB.rst:1358
+#: ../../LEB.rst:1362
 msgid ""
 ":mtgtip:`Winter Orb<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/8/4/847de6a4-a268-492e-a4d2-5b12237bc130.jpg?1559591888|https://"
 "scryfall.com/card/leb/276/winter-orb?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1357
+#: ../../LEB.rst:1361
 msgid ""
 "As long as Winter Orb is untapped, players can't untap more than one land "
 "during their untap steps."
@@ -4038,14 +4049,14 @@ msgstr ""
 "O ile ten artefakt jest odkręcony, gracze nie mogą odkręcić więcej niż "
 "jednego lądu podczas swoich kroków odkręcania."
 
-#: ../../LEB.rst:1362
+#: ../../LEB.rst:1366
 msgid ""
 ":mtgtip:`Wooden Sphere<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/0/2/02eee156-54bd-46fc-8804-a73aab87f0ba.jpg?1559591673|"
 "https://scryfall.com/card/leb/277/wooden-sphere?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1361
+#: ../../LEB.rst:1365
 msgid ""
 "Whenever a player casts a green spell, you may pay |mana_1|. If you do, you "
 "gain 1 life."
@@ -4053,170 +4064,167 @@ msgstr ""
 "Ilekroć gracz rzuci zielony czar, możesz zapłacić |mana_1|. Jeśli tak "
 "zrobisz, zyskaj 1 życie."
 
-#: ../../LEB.rst:1366
+#: ../../LEB.rst:1370
 msgid ""
 ":mtgtip:`Badlands<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/a/3/a3393436-3426-4903-8f41-7abcbf6c18c2.jpg?1559591876|https://"
 "scryfall.com/card/leb/278/badlands?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1365
+#: ../../LEB.rst:1369
 msgid "(|tap|: Add |mana_b| or |mana_r|.)"
 msgstr "(|tap|: Weź |mana_b| lub |mana_r|.)"
 
-#: ../../LEB.rst:1370
+#: ../../LEB.rst:1374
 msgid ""
 ":mtgtip:`Bayou<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/1/7/17db2b6a-eaa8-4a08-9e86-370bbd058574.jpg?1559591871|https://"
 "scryfall.com/card/leb/279/bayou?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1369
+#: ../../LEB.rst:1373
 msgid "(|tap|: Add |mana_b| or |mana_g|.)"
 msgstr "(|tap|: Weź |mana_b| lub |mana_g|.)"
 
-#: ../../LEB.rst:1374
+#: ../../LEB.rst:1378
 msgid ""
 ":mtgtip:`Plateau<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/f/a/fad0bbc4-f760-47a2-aab6-0dbb66ee3a95.jpg?1559591662|https://"
 "scryfall.com/card/leb/280/plateau?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1373
+#: ../../LEB.rst:1377
 msgid "(|tap|: Add |mana_r| or |mana_w|.)"
 msgstr "(|tap|: Weź |mana_r| lub |mana_w|.)"
 
-#: ../../LEB.rst:1378
+#: ../../LEB.rst:1382
 msgid ""
 ":mtgtip:`Savannah<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/0/e/0e9aeaa8-9a75-4719-992f-cbb316f72175.jpg?1559591729|https://"
 "scryfall.com/card/leb/281/savannah?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1377
+#: ../../LEB.rst:1381
 msgid "(|tap|: Add |mana_g| or |mana_w|.)"
 msgstr "(|tap|: Weź |mana_g| lub |mana_w|.)"
 
-#: ../../LEB.rst:1382
+#: ../../LEB.rst:1386
 msgid ""
 ":mtgtip:`Scrubland<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/8/c/8cf99186-3167-4092-8efb-e7448609ceba.jpg?1559591726|https://"
 "scryfall.com/card/leb/282/scrubland?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1381
+#: ../../LEB.rst:1385
 msgid "(|tap|: Add |mana_w| or |mana_b|.)"
 msgstr "(|tap|: Weź |mana_w| lub |mana_b|.)"
 
-#: ../../LEB.rst:1386
+#: ../../LEB.rst:1390
 msgid ""
 ":mtgtip:`Taiga<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/3/0/30ce1bf0-7561-418f-a217-3ce10f28be82.jpg?1559591711|https://"
 "scryfall.com/card/leb/283/taiga?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1385
+#: ../../LEB.rst:1389
 msgid "(|tap|: Add |mana_r| or |mana_g|.)"
 msgstr "(|tap|: Weź |mana_r| lub |mana_g|.)"
 
-#: ../../LEB.rst:1390
+#: ../../LEB.rst:1394
 msgid ""
 ":mtgtip:`Tropical Island<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/a/c/ac19c5a1-ca13-4443-920b-83b567167ed4.jpg?1559591608|"
 "https://scryfall.com/card/leb/284/tropical-island?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1389
+#: ../../LEB.rst:1393
 msgid "(|tap|: Add |mana_g| or |mana_u|.)"
 msgstr "(|tap|: Weź |mana_g| lub |mana_u|.)"
 
-#: ../../LEB.rst:1394
+#: ../../LEB.rst:1398
 msgid ""
 ":mtgtip:`Tundra<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/1/b/1b93ce48-219c-49ea-9ad0-b7357bea4606.jpg?1559591676|https://"
 "scryfall.com/card/leb/285/tundra?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1393
+#: ../../LEB.rst:1397
 msgid "(|tap|: Add |mana_w| or |mana_u|.)"
 msgstr "(|tap|: Weź |mana_w| lub |mana_u|.)"
 
-#: ../../LEB.rst:1398
+#: ../../LEB.rst:1402
 msgid ""
 ":mtgtip:`Underground Sea<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/5/e/5e91ce41-053e-4203-8860-49cbf854cc18.jpg?1559591493|"
 "https://scryfall.com/card/leb/286/underground-sea?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1397
+#: ../../LEB.rst:1401
 msgid "(|tap|: Add |mana_u| or |mana_b|.)"
 msgstr "(|tap|: Weź |mana_u| lub |mana_b|.)"
 
-#: ../../LEB.rst:1402
+#: ../../LEB.rst:1406
 msgid ""
 ":mtgtip:`Volcanic Island<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/0/3/0324641d-af55-4c53-b4dc-c8262e967da5.jpg?1559591893|"
 "https://scryfall.com/card/leb/287/volcanic-island?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1401
+#: ../../LEB.rst:1405
 msgid "(|tap|: Add |mana_u| or |mana_r|.)"
 msgstr "(|tap|: Weź |mana_u| lub |mana_r|.)"
 
-#: ../../LEB.rst:1406
+#: ../../LEB.rst:1410
 msgid ""
 ":mtgtip:`Plains<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/b/7/b7331b03-be66-419c-94bc-ed494c042ea3.jpg?1559591592|https://"
 "scryfall.com/card/leb/288/plains?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1405
+#: ../../LEB.rst:1409
 msgid "(|tap|: Add |mana_w|.)"
 msgstr "(|tap|: Weź |mana_w|.)"
 
-#: ../../LEB.rst:1410
+#: ../../LEB.rst:1414
 msgid ""
 ":mtgtip:`Island<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/b/f/bff33e91-8e52-43f2-b8ae-603b456b08fc.jpg?1559591634|https://"
 "scryfall.com/card/leb/291/island?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1409
+#: ../../LEB.rst:1413
 msgid "(|tap|: Add |mana_u|.)"
 msgstr "(|tap|: Weź |mana_u|.)"
 
-#: ../../LEB.rst:1414
+#: ../../LEB.rst:1418
 msgid ""
 ":mtgtip:`Swamp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/"
 "d/1/d1309a80-a761-4b80-8cf1-1a8b83190511.jpg?1559591578|https://scryfall.com/"
 "card/leb/294/swamp?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1413
+#: ../../LEB.rst:1417
 msgid "(|tap|: Add |mana_b|.)"
 msgstr "(|tap|: Weź |mana_b|.)"
 
-#: ../../LEB.rst:1418
+#: ../../LEB.rst:1422
 msgid ""
 ":mtgtip:`Mountain<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/7/a/7af9c715-8d72-4eae-b412-fc89138ff588.jpg?1576694058|https://"
 "scryfall.com/card/leb/297/mountain?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1417
+#: ../../LEB.rst:1421
 msgid "(|tap|: Add |mana_r|.)"
 msgstr "(|tap|: Weź |mana_r|.)"
 
-#: ../../LEB.rst:1421
+#: ../../LEB.rst:1425
 msgid ""
 ":mtgtip:`Forest<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/b/5/b5a922eb-49c7-45f0-92bc-671d7a8758f4.jpg?1559591567|https://"
 "scryfall.com/card/leb/300/forest?utm_source=api>`"
 msgstr ""
 
-#: ../../LEB.rst:1421
+#: ../../LEB.rst:1425
 msgid "(|tap|: Add |mana_g|.)"
 msgstr "(|tap|: Weź |mana_g|.)"
-
-#~ msgid "White creatures get +1/+1."
-#~ msgstr "Białe stwory dostają +1/+1."

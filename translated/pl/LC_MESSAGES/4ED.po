@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-21 00:16+0200\n"
+"POT-Creation-Date: 2022-06-21 12:36+0200\n"
 "PO-Revision-Date: 2022-06-20 16:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/4ed/pl/>\n"
@@ -244,11 +244,11 @@ msgid ""
 "https://scryfall.com/card/4ed/1/alabaster-potion?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:9 ../../4ED.rst:137 ../../4ED.rst:309 ../../4ED.rst:1085
+#: ../../4ED.rst:9 ../../4ED.rst:141 ../../4ED.rst:313 ../../4ED.rst:1089
 msgid "Choose one —"
 msgstr "Wybierz jedno —"
 
-#: ../../4ED.rst:11 ../../4ED.rst:1339
+#: ../../4ED.rst:11 ../../4ED.rst:1347
 msgid "Target player gains X life."
 msgstr "Wskazany gracz zyskuje X żyć."
 
@@ -276,7 +276,7 @@ msgid ""
 "scryfall.com/card/4ed/3/angry-mob?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:21 ../../4ED.rst:401 ../../4ED.rst:1001 ../../4ED.rst:1401
+#: ../../4ED.rst:21 ../../4ED.rst:405 ../../4ED.rst:1005 ../../4ED.rst:1409
 msgid "Trample"
 msgstr "Tratowanie"
 
@@ -340,7 +340,7 @@ msgid ""
 "https://scryfall.com/card/4ed/7/benalish-hero?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:41 ../../4ED.rst:1351 ../../4ED.rst:1657
+#: ../../4ED.rst:41 ../../4ED.rst:1359 ../../4ED.rst:1665
 msgid ""
 "Banding (Any creatures with banding, and up to one without, can attack in a "
 "band. Bands are blocked as a group. If any creatures with banding you "
@@ -362,13 +362,13 @@ msgid ""
 msgstr ""
 
 #: ../../4ED.rst:45 ../../4ED.rst:51 ../../4ED.rst:57 ../../4ED.rst:63
-#: ../../4ED.rst:111 ../../4ED.rst:131 ../../4ED.rst:145 ../../4ED.rst:153
-#: ../../4ED.rst:217 ../../4ED.rst:239 ../../4ED.rst:279 ../../4ED.rst:303
-#: ../../4ED.rst:317 ../../4ED.rst:327 ../../4ED.rst:357 ../../4ED.rst:367
-#: ../../4ED.rst:561 ../../4ED.rst:761 ../../4ED.rst:821 ../../4ED.rst:835
-#: ../../4ED.rst:859 ../../4ED.rst:909 ../../4ED.rst:957 ../../4ED.rst:973
-#: ../../4ED.rst:987 ../../4ED.rst:1025 ../../4ED.rst:1125 ../../4ED.rst:1161
-#: ../../4ED.rst:1247 ../../4ED.rst:1297 ../../4ED.rst:1371 ../../4ED.rst:1395
+#: ../../4ED.rst:115 ../../4ED.rst:135 ../../4ED.rst:149 ../../4ED.rst:157
+#: ../../4ED.rst:221 ../../4ED.rst:243 ../../4ED.rst:283 ../../4ED.rst:307
+#: ../../4ED.rst:321 ../../4ED.rst:331 ../../4ED.rst:361 ../../4ED.rst:371
+#: ../../4ED.rst:565 ../../4ED.rst:765 ../../4ED.rst:825 ../../4ED.rst:839
+#: ../../4ED.rst:863 ../../4ED.rst:913 ../../4ED.rst:961 ../../4ED.rst:977
+#: ../../4ED.rst:991 ../../4ED.rst:1029 ../../4ED.rst:1129 ../../4ED.rst:1165
+#: ../../4ED.rst:1251 ../../4ED.rst:1301 ../../4ED.rst:1379 ../../4ED.rst:1403
 msgid "Enchant creature"
 msgstr "Zaurocz stwora"
 
@@ -546,60 +546,71 @@ msgstr "Wszystkie Góry są Równinami."
 
 #: ../../4ED.rst:104
 msgid ""
+":mtgtip:`Crusade<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/f/b/fb5428ef-847d-4ac1-b9a9-31afe155650f.jpg?1559603869|https://"
+"scryfall.com/card/4ed/20/crusade?utm_source=api>`"
+msgstr ""
+
+#: ../../4ED.rst:103
+msgid "White creatures get +1/+1."
+msgstr "Białe stwory dostają +1/+1."
+
+#: ../../4ED.rst:108
+msgid ""
 ":mtgtip:`Death Ward<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/e/9/e9c54ffe-2479-4178-a5dc-dca7b564efce.jpg?1559603834|https://"
 "scryfall.com/card/4ed/21/death-ward?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:103
+#: ../../4ED.rst:107
 msgid "Regenerate target creature."
 msgstr "Zregeneruj wskazanego stwora."
 
-#: ../../4ED.rst:108
+#: ../../4ED.rst:112
 msgid ""
 ":mtgtip:`Disenchant<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/a/9/a915f261-2cdc-499c-9163-da5b628b0127.jpg?1559600453|https://"
 "scryfall.com/card/4ed/22/disenchant?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:107
+#: ../../4ED.rst:111
 msgid "Destroy target artifact or enchantment."
 msgstr "Zniszcz wskazany artefakt lub urok."
 
-#: ../../4ED.rst:114
+#: ../../4ED.rst:118
 msgid ""
 ":mtgtip:`Divine Transformation<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/f/5/f59605bf-27d8-47ca-805e-527aab6ddf70.jpg?1559600454|"
 "https://scryfall.com/card/4ed/23/divine-transformation?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:113 ../../4ED.rst:563
+#: ../../4ED.rst:117 ../../4ED.rst:567
 msgid "Enchanted creature gets +3/+3."
 msgstr "Zauroczony stwór dostaje +3/+3."
 
-#: ../../4ED.rst:120
+#: ../../4ED.rst:124
 msgid ""
 ":mtgtip:`Elder Land Wurm<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/b/1/b188d0d4-cd7c-4314-ae65-cb49e4674241.jpg?1559604238|"
 "https://scryfall.com/card/4ed/24/elder-land-wurm?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:117
+#: ../../4ED.rst:121
 msgid "Defender, trample"
 msgstr ""
 
-#: ../../4ED.rst:119
+#: ../../4ED.rst:123
 msgid "When Elder Land Wurm blocks, it loses defender."
 msgstr ""
 
-#: ../../4ED.rst:124
+#: ../../4ED.rst:128
 msgid ""
 ":mtgtip:`Eye for an Eye<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/a/c/acc41bca-73fc-42da-b639-b73a8de8a9c6.jpg?1559604230|"
 "https://scryfall.com/card/4ed/25/eye-for-an-eye?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:123
+#: ../../4ED.rst:127
 msgid ""
 "The next time a source of your choice would deal damage to you this turn, "
 "instead that source deals that much damage to you and Eye for an Eye deals "
@@ -609,14 +620,14 @@ msgstr ""
 "tej turze, zamiast tego owe źródło zadaje tobie tyle samo obrażeń, a ten "
 "urok zadaje tyle samo obrażeń władcy owego źródła."
 
-#: ../../4ED.rst:128
+#: ../../4ED.rst:132
 msgid ""
 ":mtgtip:`Fortified Area<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/8/f/8f89968f-0182-4639-96fd-0dc94b6ad926.jpg?1559603754|"
 "https://scryfall.com/card/4ed/26/fortified-area?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:127
+#: ../../4ED.rst:131
 msgid ""
 "Wall creatures you control get +1/+0 and have banding. (Any creatures with "
 "banding, and up to one without, can attack in a band. Bands are blocked as a "
@@ -625,14 +636,14 @@ msgid ""
 "controller, among any of the creatures it's being blocked by or is blocking.)"
 msgstr ""
 
-#: ../../4ED.rst:134
+#: ../../4ED.rst:138
 msgid ""
 ":mtgtip:`Green Ward<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/b/7/b7548dc7-11dc-4611-85a5-71bdb48d8a62.jpg?1559604194|https://"
 "scryfall.com/card/4ed/27/green-ward?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:133
+#: ../../4ED.rst:137
 msgid ""
 "Enchanted creature has protection from green. This effect doesn't remove "
 "Green Ward."
@@ -640,71 +651,71 @@ msgstr ""
 "Zauroczony stwór ma ochronę przed zielonym. Ten efekt nie usuwa niniejszego "
 "bytu."
 
-#: ../../4ED.rst:142
+#: ../../4ED.rst:146
 msgid ""
 ":mtgtip:`Healing Salve<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/a/f/afd08b3b-196e-43a5-9318-9dae9edc6d12.jpg?1559604193|"
 "https://scryfall.com/card/4ed/28/healing-salve?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:139
+#: ../../4ED.rst:143
 msgid "Target player gains 3 life."
 msgstr "Wskazany gracz zyskuje 3 życia."
 
-#: ../../4ED.rst:141
+#: ../../4ED.rst:145
 msgid "Prevent the next 3 damage that would be dealt to any target this turn."
 msgstr ""
 "Zażegnaj najbliższe 3 obrażenia jakie mogłyby zostać w tej turze zadane "
 "wskazanemu celowi."
 
-#: ../../4ED.rst:150
+#: ../../4ED.rst:154
 msgid ""
 ":mtgtip:`Holy Armor<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/3/a/3a0b9dba-f621-4700-8a36-bf326e04cbac.jpg?1559603633|https://"
 "scryfall.com/card/4ed/29/holy-armor?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:147
+#: ../../4ED.rst:151
 msgid "Enchanted creature gets +0/+2."
 msgstr "Zauroczony stwór dostaje +0/+2."
 
-#: ../../4ED.rst:149
+#: ../../4ED.rst:153
 msgid "|mana_w|: Enchanted creature gets +0/+1 until end of turn."
 msgstr "|mana_w|: Zauroczony stwór dostaje do końca tury +0/+1."
 
-#: ../../4ED.rst:156
+#: ../../4ED.rst:160
 msgid ""
 ":mtgtip:`Holy Strength<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/7/7/77af9f19-66d1-44e5-9aed-955e6bfd9902.jpg?1559593855|"
 "https://scryfall.com/card/4ed/30/holy-strength?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:155
+#: ../../4ED.rst:159
 msgid "Enchanted creature gets +1/+2."
 msgstr "Zauroczony stwór dostaje +1/+2."
 
-#: ../../4ED.rst:160
+#: ../../4ED.rst:164
 msgid ""
 ":mtgtip:`Island Sanctuary<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/c/0/c0eff4d1-4ce6-48b1-84ae-a95bd1d04d16.jpg?1559604181|"
 "https://scryfall.com/card/4ed/31/island-sanctuary?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:159
+#: ../../4ED.rst:163
 msgid ""
 "If you would draw a card during your draw step, instead you may skip that "
 "draw. If you do, until your next turn, you can't be attacked except by "
 "creatures with flying and/or islandwalk."
 msgstr ""
 
-#: ../../4ED.rst:164
+#: ../../4ED.rst:168
 msgid ""
 ":mtgtip:`Karma<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/2/a/2acd8dd7-f561-487f-abae-4ad910db9d27.jpg?1559603616|https://"
 "scryfall.com/card/4ed/32/karma?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:163
+#: ../../4ED.rst:167
 msgid ""
 "At the beginning of each player's upkeep, Karma deals damage to that player "
 "equal to the number of Swamps they control."
@@ -712,14 +723,14 @@ msgstr ""
 "Na początku kroku utrzymania każdego z graczy, ten urok zadaje owemu "
 "graczowi obrażenia równe liczbie Bagien pod jego władaniem."
 
-#: ../../4ED.rst:168
+#: ../../4ED.rst:172
 msgid ""
 ":mtgtip:`Kismet<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/f/2/f2381234-cf5a-4baf-89f9-cdec15557cf4.jpg?1559603842|https://"
 "scryfall.com/card/4ed/33/kismet?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:167
+#: ../../4ED.rst:171
 msgid ""
 "Artifacts, creatures, and lands your opponents control enter the battlefield "
 "tapped."
@@ -727,14 +738,14 @@ msgstr ""
 "Artefakty, stwory i lądy pod władaniem przeciwników wchodzą przekręcone na "
 "pole bitwy."
 
-#: ../../4ED.rst:172
+#: ../../4ED.rst:176
 msgid ""
 ":mtgtip:`Land Tax<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/1/3/1301e203-7d9a-4735-8db3-7882ad70d343.jpg?1559604176|https://"
 "scryfall.com/card/4ed/34/land-tax?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:171
+#: ../../4ED.rst:175
 msgid ""
 "At the beginning of your upkeep, if an opponent controls more lands than "
 "you, you may search your library for up to three basic land cards, reveal "
@@ -744,14 +755,14 @@ msgstr ""
 "więcej lądów niż ty, możesz wyszukać w swojej bibliotece co najwyżej trzy "
 "karty bazowych lądów, umieścić je w twojej ręce, po czym przetasuj."
 
-#: ../../4ED.rst:176
+#: ../../4ED.rst:180
 msgid ""
 ":mtgtip:`Mesa Pegasus<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/6/0/60c0faf1-0c16-441a-97fd-6d4e91c894a5.jpg?1559601288|"
 "https://scryfall.com/card/4ed/35/mesa-pegasus?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:175
+#: ../../4ED.rst:179
 msgid ""
 "Flying; banding (Any creatures with banding, and up to one without, can "
 "attack in a band. Bands are blocked as a group. If any creatures with "
@@ -765,100 +776,100 @@ msgstr ""
 "przez stwora, to ty rozdzielasz obrażenia bojowe owego stwora zamiast jego "
 "władcy, między dowolne stwory, które blokuje lub przez które jest blokowany.)"
 
-#: ../../4ED.rst:180
+#: ../../4ED.rst:184
 msgid ""
 ":mtgtip:`Morale<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/b/5/b52cdfe3-fca1-420c-b5c0-2366ea58345b.jpg?1587911071|https://"
 "scryfall.com/card/4ed/36/morale?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:179
+#: ../../4ED.rst:183
 msgid "Attacking creatures get +1/+1 until end of turn."
 msgstr ""
 
-#: ../../4ED.rst:184
+#: ../../4ED.rst:188
 msgid ""
 ":mtgtip:`Northern Paladin<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/0/9/09e97dce-6bef-480d-939e-d35cfbf6b989.jpg?1559604141|"
 "https://scryfall.com/card/4ed/37/northern-paladin?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:183
+#: ../../4ED.rst:187
 msgid "|mana_w|\\ |mana_w|, |tap|: Destroy target black permanent."
 msgstr "|mana_w|\\ |mana_w|, |tap|: Zniszcz wskazany czarny byt."
 
-#: ../../4ED.rst:192
+#: ../../4ED.rst:196
 msgid ""
 ":mtgtip:`Osai Vultures<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/d/a/da915d3c-8d43-44c2-9052-08c1cd2afa7b.jpg?1559601310|"
 "https://scryfall.com/card/4ed/38/osai-vultures?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:187 ../../4ED.rst:269 ../../4ED.rst:289 ../../4ED.rst:373
-#: ../../4ED.rst:439 ../../4ED.rst:453 ../../4ED.rst:715 ../../4ED.rst:721
-#: ../../4ED.rst:897 ../../4ED.rst:925 ../../4ED.rst:939 ../../4ED.rst:1167
-#: ../../4ED.rst:1181 ../../4ED.rst:1259 ../../4ED.rst:1331 ../../4ED.rst:1507
-#: ../../4ED.rst:1677 ../../4ED.rst:1721
+#: ../../4ED.rst:191 ../../4ED.rst:273 ../../4ED.rst:293 ../../4ED.rst:377
+#: ../../4ED.rst:443 ../../4ED.rst:457 ../../4ED.rst:719 ../../4ED.rst:725
+#: ../../4ED.rst:901 ../../4ED.rst:929 ../../4ED.rst:943 ../../4ED.rst:1171
+#: ../../4ED.rst:1185 ../../4ED.rst:1263 ../../4ED.rst:1339 ../../4ED.rst:1515
+#: ../../4ED.rst:1685 ../../4ED.rst:1729
 msgid "Flying"
 msgstr "Latanie"
 
-#: ../../4ED.rst:189
+#: ../../4ED.rst:193
 msgid ""
 "At the beginning of each end step, if a creature died this turn, put a "
 "carrion counter on Osai Vultures."
 msgstr ""
 
-#: ../../4ED.rst:191
+#: ../../4ED.rst:195
 msgid ""
 "Remove two carrion counters from Osai Vultures: Osai Vultures gets +1/+1 "
 "until end of turn."
 msgstr ""
 
-#: ../../4ED.rst:194
+#: ../../4ED.rst:198
 msgid ""
 ":mtgtip:`Pearled Unicorn<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/6/a/6acc78fc-1eab-47aa-993d-6781b2d2408a.jpg?1559601312|"
 "https://scryfall.com/card/4ed/39/pearled-unicorn?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:202
+#: ../../4ED.rst:206
 msgid ""
 ":mtgtip:`Personal Incarnation<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/0/b/0b107c80-0c9a-46cd-8f00-26c37f080ce7.jpg?1559601803|"
 "https://scryfall.com/card/4ed/40/personal-incarnation?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:199
+#: ../../4ED.rst:203
 msgid ""
 "|mana_0|: The next 1 damage that would be dealt to Personal Incarnation this "
 "turn is dealt to its owner instead. Only Personal Incarnation's owner may "
 "activate this ability."
 msgstr ""
 
-#: ../../4ED.rst:201
+#: ../../4ED.rst:205
 msgid ""
 "When Personal Incarnation dies, its owner loses half their life, rounded up."
 msgstr ""
 
-#: ../../4ED.rst:206
+#: ../../4ED.rst:210
 msgid ""
 ":mtgtip:`Piety<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/"
 "d/4/d4942a9f-6b8f-438b-a2ea-366228038ed8.jpg?1587911080|https://scryfall.com/"
 "card/4ed/41/piety?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:205
+#: ../../4ED.rst:209
 msgid "Blocking creatures get +0/+3 until end of turn."
 msgstr ""
 
-#: ../../4ED.rst:210
+#: ../../4ED.rst:214
 msgid ""
 ":mtgtip:`Pikemen<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/0/1/015cc1ad-8b9f-484c-aa7d-d44f7bc914d2.jpg?1559603833|https://"
 "scryfall.com/card/4ed/42/pikemen?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:209
+#: ../../4ED.rst:213
 msgid ""
 "First strike; banding (Any creatures with banding, and up to one without, "
 "can attack in a band. Bands are blocked as a group. If any creatures with "
@@ -867,14 +878,14 @@ msgid ""
 "creatures it's being blocked by or is blocking.)"
 msgstr ""
 
-#: ../../4ED.rst:214
+#: ../../4ED.rst:218
 msgid ""
 ":mtgtip:`Purelace<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/5/7/5736fcc7-fa95-4ef4-b821-392ec00e03bf.jpg?1559604129|https://"
 "scryfall.com/card/4ed/43/purelace?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:213
+#: ../../4ED.rst:217
 msgid ""
 "Target spell or permanent becomes white. (Mana symbols on that permanent "
 "remain unchanged.)"
@@ -882,14 +893,14 @@ msgstr ""
 "Wskazany czar lub byt staje się biały. (Symbole many na owym bycie zostają "
 "bez zmian.)"
 
-#: ../../4ED.rst:220
+#: ../../4ED.rst:224
 msgid ""
 ":mtgtip:`Red Ward<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/5/4/543e8ec0-f36a-46a6-b7b1-e983e90a091a.jpg?1559603756|https://"
 "scryfall.com/card/4ed/44/red-ward?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:219
+#: ../../4ED.rst:223
 msgid ""
 "Enchanted creature has protection from red. This effect doesn't remove Red "
 "Ward."
@@ -897,14 +908,14 @@ msgstr ""
 "Zauroczony stwór ma ochronę przed czerwonym. Ten efekt nie usuwa niniejszego "
 "bytu."
 
-#: ../../4ED.rst:224
+#: ../../4ED.rst:228
 msgid ""
 ":mtgtip:`Reverse Damage<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/c/d/cd458c66-0183-4bad-a651-6fe52a6d14c4.jpg?1559603789|"
 "https://scryfall.com/card/4ed/45/reverse-damage?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:223
+#: ../../4ED.rst:227
 msgid ""
 "The next time a source of your choice would deal damage to you this turn, "
 "prevent that damage. You gain life equal to the damage prevented this way."
@@ -913,70 +924,70 @@ msgstr ""
 "tobie obrażenia, zażegnaj je. Zyskaj życia równe obrażeniom zażegnanym w ten "
 "sposób."
 
-#: ../../4ED.rst:228
+#: ../../4ED.rst:232
 msgid ""
 ":mtgtip:`Righteousness<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/3/f/3fccc7f2-b317-40c4-9b55-658d67dca843.jpg?1559603853|"
 "https://scryfall.com/card/4ed/46/righteousness?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:227
+#: ../../4ED.rst:231
 msgid "Target blocking creature gets +7/+7 until end of turn."
 msgstr "Wskazany blokujący stwór dostaje do końca tury +7/+7."
 
-#: ../../4ED.rst:232
+#: ../../4ED.rst:236
 msgid ""
 ":mtgtip:`Samite Healer<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/b/3/b354858f-d25b-4264-8a0b-fecc3a58db6d.jpg?1559600467|"
 "https://scryfall.com/card/4ed/47/samite-healer?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:231
+#: ../../4ED.rst:235
 msgid ""
 "|tap|: Prevent the next 1 damage that would be dealt to any target this turn."
 msgstr ""
 "|tap|: Zażegnaj najbliższe 1 obrażenie, jakie miałoby zostać zadane w tej "
 "turze wskazanemu celowi."
 
-#: ../../4ED.rst:234
+#: ../../4ED.rst:238
 msgid ""
 ":mtgtip:`Savannah Lions<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/a/2/a2ee9127-d007-48e8-b797-88ef72bc7c8b.jpg?1559600473|"
 "https://scryfall.com/card/4ed/48/savannah-lions?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:242
+#: ../../4ED.rst:246
 msgid ""
 ":mtgtip:`Seeker<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/7/0/7052825f-d9fc-4820-b8c4-dbc204730b7c.jpg?1559604162|https://"
 "scryfall.com/card/4ed/49/seeker?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:241
+#: ../../4ED.rst:245
 msgid ""
 "Enchanted creature can't be blocked except by artifact creatures and/or "
 "white creatures."
 msgstr ""
 
-#: ../../4ED.rst:246
+#: ../../4ED.rst:250
 msgid ""
 ":mtgtip:`Serra Angel<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/8/0/8072d00a-82ff-4406-bdf8-1af20cd3a170.jpg?1559604164|https://"
 "scryfall.com/card/4ed/50/serra-angel?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:245 ../../4ED.rst:591
+#: ../../4ED.rst:249 ../../4ED.rst:595
 msgid "Flying, vigilance"
 msgstr "Latanie, czujność"
 
-#: ../../4ED.rst:252
+#: ../../4ED.rst:256
 msgid ""
 ":mtgtip:`Spirit Link<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/5/8/58838b77-3bac-41b7-8055-5737c07df12e.jpg?1559603601|https://"
 "scryfall.com/card/4ed/51/spirit-link?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:249 ../../4ED.rst:691 ../../4ED.rst:1321 ../../4ED.rst:1405
+#: ../../4ED.rst:253 ../../4ED.rst:695 ../../4ED.rst:1329 ../../4ED.rst:1413
 msgid ""
 "Enchant creature (Target a creature as you cast this. This card enters the "
 "battlefield attached to that creature.)"
@@ -984,29 +995,29 @@ msgstr ""
 "Zaurocz stwora (Wskaż stwora podczas rzucania. Ta karta wchodzi na pole "
 "bitwy dołączona do owego stwora.)"
 
-#: ../../4ED.rst:251
+#: ../../4ED.rst:255
 msgid "Whenever enchanted creature deals damage, you gain that much life."
 msgstr "Ilekroć zauroczony stwór zada obrażenia, zyskaj tyle samo żyć."
 
-#: ../../4ED.rst:256
+#: ../../4ED.rst:260
 msgid ""
 ":mtgtip:`Swords to Plowshares<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/8/b/8bd501ae-5814-4336-a45b-2b88cb85d29e.jpg?1559603711|"
 "https://scryfall.com/card/4ed/52/swords-to-plowshares?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:255
+#: ../../4ED.rst:259
 msgid "Exile target creature. Its controller gains life equal to its power."
 msgstr "Wygnaj wskazanego stwora. Jego władca zyskuje życia równe jego sile."
 
-#: ../../4ED.rst:260
+#: ../../4ED.rst:264
 msgid ""
 ":mtgtip:`Tundra Wolves<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/0/c/0c8527ac-27c3-4e2d-b46c-bfd6a1e1f778.jpg?1559604099|"
 "https://scryfall.com/card/4ed/53/tundra-wolves?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:259 ../../4ED.rst:273 ../../4ED.rst:615
+#: ../../4ED.rst:263 ../../4ED.rst:277 ../../4ED.rst:619
 msgid ""
 "First strike (This creature deals combat damage before creatures without "
 "first strike.)"
@@ -1014,40 +1025,40 @@ msgstr ""
 "Pierwszy cios (Ten stwór zadaje obrażenia bojowe przed stworami bez "
 "pierwszego ciosu.)"
 
-#: ../../4ED.rst:264
+#: ../../4ED.rst:268
 msgid ""
 ":mtgtip:`Visions<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/b/0/b0fed0e6-0e56-4987-b0dd-b294156c0233.jpg?1587911091|https://"
 "scryfall.com/card/4ed/54/visions?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:263
+#: ../../4ED.rst:267
 msgid ""
 "Look at the top five cards of target player's library. You may then have "
 "that player shuffle that library."
 msgstr ""
 
-#: ../../4ED.rst:270
+#: ../../4ED.rst:274
 msgid ""
 ":mtgtip:`Wall of Swords<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/1/8/18ffa85c-61c4-49b7-8946-ab353355a11c.jpg?1559603825|"
 "https://scryfall.com/card/4ed/55/wall-of-swords?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:267 ../../4ED.rst:581 ../../4ED.rst:847 ../../4ED.rst:1141
-#: ../../4ED.rst:1147 ../../4ED.rst:1153 ../../4ED.rst:1381 ../../4ED.rst:1387
-#: ../../4ED.rst:1391 ../../4ED.rst:1755
+#: ../../4ED.rst:271 ../../4ED.rst:585 ../../4ED.rst:851 ../../4ED.rst:1145
+#: ../../4ED.rst:1151 ../../4ED.rst:1157 ../../4ED.rst:1389 ../../4ED.rst:1395
+#: ../../4ED.rst:1399 ../../4ED.rst:1763
 msgid "Defender (This creature can't attack.)"
 msgstr "Obronność (Ten stwór nie może atakować.)"
 
-#: ../../4ED.rst:276
+#: ../../4ED.rst:280
 msgid ""
 ":mtgtip:`White Knight<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/2/e/2e8f8a10-6984-46a7-a641-5f712dab5c57.jpg?1559600433|"
 "https://scryfall.com/card/4ed/56/white-knight?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:275
+#: ../../4ED.rst:279
 msgid ""
 "Protection from black (This creature can't be blocked, targeted, dealt "
 "damage, or enchanted by anything black.)"
@@ -1055,14 +1066,14 @@ msgstr ""
 "Ochrona przed czarnym (Nic czarnego nie może blokować, wskazywać, zadać "
 "obrażeń, zauroczyć ani wyposażyć tego stwora.)"
 
-#: ../../4ED.rst:282
+#: ../../4ED.rst:286
 msgid ""
 ":mtgtip:`White Ward<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/2/d/2d3c467f-0e33-43e8-b108-0ea00d6adcc2.jpg?1559603811|https://"
 "scryfall.com/card/4ed/57/white-ward?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:281
+#: ../../4ED.rst:285
 msgid ""
 "Enchanted creature has protection from white. This effect doesn't remove "
 "White Ward."
@@ -1070,136 +1081,136 @@ msgstr ""
 "Zauroczony stwór ma ochronę przed białym. Ten efekt nie usuwa niniejszego "
 "bytu."
 
-#: ../../4ED.rst:286
+#: ../../4ED.rst:290
 msgid ""
 ":mtgtip:`Wrath of God<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/4/5/4566f6a3-4d25-4df0-84be-fe4201138955.jpg?1559603827|"
 "https://scryfall.com/card/4ed/58/wrath-of-god?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:285
+#: ../../4ED.rst:289
 msgid "Destroy all creatures. They can't be regenerated."
 msgstr "Zniszcz wszystkie stwory. Nie mogą być zregenerowane."
 
-#: ../../4ED.rst:290
+#: ../../4ED.rst:294
 msgid ""
 ":mtgtip:`Air Elemental<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/e/5/e5cfaefb-764c-4c56-bdb3-5f0375168597.jpg?1559603660|"
 "https://scryfall.com/card/4ed/59/air-elemental?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:296
+#: ../../4ED.rst:300
 msgid ""
 ":mtgtip:`Animate Artifact<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/e/a/ea613c48-258b-499d-975b-f56fbef3c665.jpg?1559603702|"
 "https://scryfall.com/card/4ed/60/animate-artifact?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:293 ../../4ED.rst:535 ../../4ED.rst:853 ../../4ED.rst:1281
+#: ../../4ED.rst:297 ../../4ED.rst:539 ../../4ED.rst:857 ../../4ED.rst:1285
 msgid "Enchant artifact"
 msgstr "Zaurocz artefakt"
 
-#: ../../4ED.rst:295
+#: ../../4ED.rst:299
 msgid ""
 "As long as enchanted artifact isn't a creature, it's an artifact creature "
 "with power and toughness each equal to its mana value."
 msgstr ""
 
-#: ../../4ED.rst:300
+#: ../../4ED.rst:304
 msgid ""
 ":mtgtip:`Apprentice Wizard<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/c/9/c9ef569e-91e7-45f5-83b0-5a820242c628.jpg?1559604221|"
 "https://scryfall.com/card/4ed/61/apprentice-wizard?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:299
+#: ../../4ED.rst:303
 msgid "|mana_u|, |tap|: Add |colorless|\\ |colorless|\\ |colorless|."
 msgstr "|mana_u|, |tap|: Weź |colorless|\\ |colorless|\\ |colorless|."
 
-#: ../../4ED.rst:306
+#: ../../4ED.rst:310
 msgid ""
 ":mtgtip:`Backfire<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/a/d/ad34094d-a7ec-4b04-a288-4d4f1a07fc6b.jpg?1559603813|https://"
 "scryfall.com/card/4ed/62/backfire?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:305
+#: ../../4ED.rst:309
 msgid ""
 "Whenever enchanted creature deals damage to you, Backfire deals that much "
 "damage to that creature's controller."
 msgstr ""
 
-#: ../../4ED.rst:314
+#: ../../4ED.rst:318
 msgid ""
 ":mtgtip:`Blue Elemental Blast<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/9/8/988f7b31-24b2-45c2-89e4-ff6bd9e0c8c7.jpg?1559603822|"
 "https://scryfall.com/card/4ed/63/blue-elemental-blast?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:311
+#: ../../4ED.rst:315
 msgid "Counter target red spell."
 msgstr "Skontruj wskazany czerwony czar."
 
-#: ../../4ED.rst:313
+#: ../../4ED.rst:317
 msgid "Destroy target red permanent."
 msgstr "Zniszcz wskazany czerwony byt."
 
-#: ../../4ED.rst:320
+#: ../../4ED.rst:324
 msgid ""
 ":mtgtip:`Control Magic<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/1/b/1bb371e5-424e-42dd-9966-732c22e8ece8.jpg?1559604206|"
 "https://scryfall.com/card/4ed/64/control-magic?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:319
+#: ../../4ED.rst:323
 msgid "You control enchanted creature."
 msgstr "Masz władanie nad zauroczonym stworem."
 
-#: ../../4ED.rst:324
+#: ../../4ED.rst:328
 msgid ""
 ":mtgtip:`Counterspell<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/e/8/e8493631-6c9c-40a8-b7de-ecf26ba6bf7d.jpg?1559601564|"
 "https://scryfall.com/card/4ed/65/counterspell?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:323
+#: ../../4ED.rst:327
 msgid "Counter target spell."
 msgstr "Skontruj wskazany czar."
 
-#: ../../4ED.rst:330
+#: ../../4ED.rst:334
 msgid ""
 ":mtgtip:`Creature Bond<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/7/1/717c5ee5-a033-4a58-bdcb-ef54e6c8b7a9.jpg?1559601274|"
 "https://scryfall.com/card/4ed/66/creature-bond?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:329
+#: ../../4ED.rst:333
 msgid ""
 "When enchanted creature dies, Creature Bond deals damage equal to that "
 "creature's toughness to the creature's controller."
 msgstr ""
 
-#: ../../4ED.rst:334
+#: ../../4ED.rst:338
 msgid ""
 ":mtgtip:`Drain Power<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/e/3/e3009237-fb96-497f-9a6e-b93b8115528a.jpg?1559604243|https://"
 "scryfall.com/card/4ed/67/drain-power?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:333
+#: ../../4ED.rst:337
 msgid ""
 "Target player activates a mana ability of each land they control. Then that "
 "player loses all unspent mana and you add the mana lost this way."
 msgstr ""
 
-#: ../../4ED.rst:338
+#: ../../4ED.rst:342
 msgid ""
 ":mtgtip:`Energy Flux<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/f/b/fbfa8400-1820-4108-a7f3-6ae8a1897f0c.jpg?1559603643|https://"
 "scryfall.com/card/4ed/68/energy-flux?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:337
+#: ../../4ED.rst:341
 msgid ""
 "All artifacts have \"At the beginning of your upkeep, sacrifice this "
 "artifact unless you pay |mana_2|.\""
@@ -1207,14 +1218,14 @@ msgstr ""
 "Wszystkie artefakty mają \"Na początku twojego kroku utrzymania, poświęć ten "
 "artefakt, chyba że zapłacisz |mana_2|.\""
 
-#: ../../4ED.rst:342
+#: ../../4ED.rst:346
 msgid ""
 ":mtgtip:`Energy Tap<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/9/f/9f67692d-9df6-4841-a36b-26c28110b63b.jpg?1559604235|https://"
 "scryfall.com/card/4ed/69/energy-tap?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:341
+#: ../../4ED.rst:345
 msgid ""
 "Tap target untapped creature you control. If you do, add an amount of |"
 "colorless| equal to that creature's mana value."
@@ -1222,71 +1233,71 @@ msgstr ""
 "Przekręć wskazanego odkręconego stwora pod twoim władaniem. Jeśli tak "
 "zrobisz, weź tyle |colorless|, ile wynosi skrót many owego stwora."
 
-#: ../../4ED.rst:348
+#: ../../4ED.rst:352
 msgid ""
 ":mtgtip:`Erosion<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/8/d/8dc539ff-03f5-4bec-877a-061fb5d40de9.jpg?1559603772|https://"
 "scryfall.com/card/4ed/70/erosion?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:345 ../../4ED.rst:445 ../../4ED.rst:483 ../../4ED.rst:621
-#: ../../4ED.rst:645 ../../4ED.rst:685 ../../4ED.rst:1417
+#: ../../4ED.rst:349 ../../4ED.rst:449 ../../4ED.rst:487 ../../4ED.rst:625
+#: ../../4ED.rst:649 ../../4ED.rst:689 ../../4ED.rst:1425
 msgid "Enchant land"
 msgstr "Zaurocz ląd"
 
-#: ../../4ED.rst:347
+#: ../../4ED.rst:351
 msgid ""
 "At the beginning of the upkeep of enchanted land's controller, destroy that "
 "land unless that player pays |mana_1| or 1 life."
 msgstr ""
 
-#: ../../4ED.rst:354
+#: ../../4ED.rst:358
 msgid ""
 ":mtgtip:`Feedback<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/e/b/eb5a60e6-be5f-454e-a354-ab736839f092.jpg?1559604232|https://"
 "scryfall.com/card/4ed/71/feedback?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:351 ../../4ED.rst:465
+#: ../../4ED.rst:355 ../../4ED.rst:469
 msgid "Enchant enchantment"
 msgstr "Zaurocz urok"
 
-#: ../../4ED.rst:353
+#: ../../4ED.rst:357
 msgid ""
 "At the beginning of the upkeep of enchanted enchantment's controller, "
 "Feedback deals 1 damage to that player."
 msgstr ""
 
-#: ../../4ED.rst:360
+#: ../../4ED.rst:364
 msgid ""
 ":mtgtip:`Flight<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/1/8/1867cb70-f615-4583-bf0b-fb1016209785.jpg?1559604227|https://"
 "scryfall.com/card/4ed/72/flight?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:359
+#: ../../4ED.rst:363
 msgid "Enchanted creature has flying."
 msgstr "Zauroczony stwór ma latanie."
 
-#: ../../4ED.rst:364
+#: ../../4ED.rst:368
 msgid ""
 ":mtgtip:`Flood<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/"
 "b/a/ba099785-bfa0-4224-be19-0dcded94fba5.jpg?1559600461|https://scryfall.com/"
 "card/4ed/73/flood?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:363
+#: ../../4ED.rst:367
 msgid "|mana_u|\\ |mana_u|: Tap target creature without flying."
 msgstr ""
 
-#: ../../4ED.rst:370
+#: ../../4ED.rst:374
 msgid ""
 ":mtgtip:`Gaseous Form<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/c/f/cfdd00f0-c6aa-4e8b-a035-fb3403711741.jpg?1559603751|"
 "https://scryfall.com/card/4ed/74/gaseous-form?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:369
+#: ../../4ED.rst:373
 msgid ""
 "Prevent all combat damage that would be dealt to and dealt by enchanted "
 "creature."
@@ -1294,124 +1305,124 @@ msgstr ""
 "Zażegnaj wszystkie obrażenia bojowe, jakie zauroczony stwór mógłby zadać lub "
 "mogłyby zostać zadane przez niego."
 
-#: ../../4ED.rst:376
+#: ../../4ED.rst:380
 msgid ""
 ":mtgtip:`Ghost Ship<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/3/a/3af0b9ce-0a9c-4619-95c1-bbbfffa7fcec.jpg?1559604223|https://"
 "scryfall.com/card/4ed/75/ghost-ship?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:375
+#: ../../4ED.rst:379
 msgid "|mana_u|\\ |mana_u|\\ |mana_u|: Regenerate Ghost Ship."
 msgstr "|mana_u|\\ |mana_u|\\ |mana_u|: Zregeneruj ten byt."
 
-#: ../../4ED.rst:380
+#: ../../4ED.rst:384
 msgid ""
 ":mtgtip:`Giant Tortoise<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/f/5/f512addb-5888-49f3-985b-53cc11831e5e.jpg?1559603735|"
 "https://scryfall.com/card/4ed/76/giant-tortoise?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:379
+#: ../../4ED.rst:383
 msgid "Giant Tortoise gets +0/+3 as long as it's untapped."
 msgstr "Ten stwór dostaje +0/+3 o ile jest odkręcony."
 
-#: ../../4ED.rst:384
+#: ../../4ED.rst:388
 msgid ""
 ":mtgtip:`Hurkyl's Recall<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/b/e/bee569a6-20b0-4d37-91d6-db18de4b90c6.jpg?1559604190|"
 "https://scryfall.com/card/4ed/77/hurkyls-recall?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:383
+#: ../../4ED.rst:387
 msgid "Return all artifacts target player owns to their hand."
 msgstr ""
 "Przywróć wszystkie artefakty będące własnością wskazanego gracza do jego "
 "ręki."
 
-#: ../../4ED.rst:394
+#: ../../4ED.rst:398
 msgid ""
 ":mtgtip:`Island Fish Jasconius<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/8/4/84f18188-70fa-433e-a114-2f1dd49388ed.jpg?1559603739|"
 "https://scryfall.com/card/4ed/78/island-fish-jasconius?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:387
+#: ../../4ED.rst:391
 msgid "Island Fish Jasconius doesn't untap during your untap step."
 msgstr ""
 
-#: ../../4ED.rst:389
+#: ../../4ED.rst:393
 msgid ""
 "At the beginning of your upkeep, you may pay |mana_u|\\ |mana_u|\\ |mana_u|. "
 "If you do, untap Island Fish Jasconius."
 msgstr ""
 
-#: ../../4ED.rst:391
+#: ../../4ED.rst:395
 msgid ""
 "Island Fish Jasconius can't attack unless defending player controls an "
 "Island."
 msgstr ""
 
-#: ../../4ED.rst:393
+#: ../../4ED.rst:397
 msgid "When you control no Islands, sacrifice Island Fish Jasconius."
 msgstr ""
 
-#: ../../4ED.rst:398
+#: ../../4ED.rst:402
 msgid ""
 ":mtgtip:`Jump<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/7/b/7b994bf9-5b3d-42c7-b4c6-f1029d78dd80.jpg?1559603619|https://"
 "scryfall.com/card/4ed/79/jump?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:397
+#: ../../4ED.rst:401
 msgid "Target creature gains flying until end of turn."
 msgstr "Wskazany stwór zyskuje do końca tury latanie."
 
-#: ../../4ED.rst:408
+#: ../../4ED.rst:412
 msgid ""
 ":mtgtip:`Leviathan<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/f/b/fbc98990-7fb0-4f69-a80d-38443966b3ae.jpg?1559604098|https://"
 "scryfall.com/card/4ed/80/leviathan?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:403
+#: ../../4ED.rst:407
 msgid ""
 "Leviathan enters the battlefield tapped and doesn't untap during your untap "
 "step."
 msgstr ""
 
-#: ../../4ED.rst:405
+#: ../../4ED.rst:409
 msgid ""
 "At the beginning of your upkeep, you may sacrifice two Islands. If you do, "
 "untap Leviathan."
 msgstr ""
 
-#: ../../4ED.rst:407
+#: ../../4ED.rst:411
 msgid ""
 "Leviathan can't attack unless you sacrifice two Islands. (This cost is paid "
 "as attackers are declared.)"
 msgstr ""
 
-#: ../../4ED.rst:412
+#: ../../4ED.rst:416
 msgid ""
 ":mtgtip:`Lifetap<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/6/3/634dd3bd-d29b-4481-990b-f320e60c4f91.jpg?1559603744|https://"
 "scryfall.com/card/4ed/81/lifetap?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:411
+#: ../../4ED.rst:415
 msgid "Whenever a Forest an opponent controls becomes tapped, you gain 1 life."
 msgstr ""
 "Ilekroć Las pod władaniem przeciwnika zostanie przekręcony, zyskaj 1 życie."
 
-#: ../../4ED.rst:416
+#: ../../4ED.rst:420
 msgid ""
 ":mtgtip:`Lord of Atlantis<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/8/4/846572ce-c8fd-402c-9212-8288336c75e8.jpg?1559601276|"
 "https://scryfall.com/card/4ed/82/lord-of-atlantis?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:415
+#: ../../4ED.rst:419
 msgid ""
 "Other Merfolk get +1/+1 and have islandwalk. (They can't be blocked as long "
 "as defending player controls an Island.)"
@@ -1419,29 +1430,29 @@ msgstr ""
 "Inne Wodniki dostają +1/+1 i mają podbój wysp (Nie mogą być blokowane o ile "
 "broniący się gracz włada Wyspą.)"
 
-#: ../../4ED.rst:420
+#: ../../4ED.rst:424
 msgid ""
 ":mtgtip:`Magical Hack<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/4/1/41c57f8a-6592-49b4-acb1-9b30500d1e8c.jpg?1559604152|"
 "https://scryfall.com/card/4ed/83/magical-hack?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:419
+#: ../../4ED.rst:423
 msgid ""
 "Change the text of target spell or permanent by replacing all instances of "
 "one basic land type with another. (For example, you may change \"swampwalk\" "
 "to \"plainswalk.\" This effect lasts indefinitely.)"
 msgstr ""
 
-#: ../../4ED.rst:424
+#: ../../4ED.rst:428
 msgid ""
 ":mtgtip:`Mahamoti Djinn<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/7/1/71935f14-d7ca-4406-9263-b2c7f5f5b94f.jpg?1559603868|"
 "https://scryfall.com/card/4ed/84/mahamoti-djinn?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:423 ../../4ED.rst:627 ../../4ED.rst:755 ../../4ED.rst:807
-#: ../../4ED.rst:841 ../../4ED.rst:865 ../../4ED.rst:1097 ../../4ED.rst:1551
+#: ../../4ED.rst:427 ../../4ED.rst:631 ../../4ED.rst:759 ../../4ED.rst:811
+#: ../../4ED.rst:845 ../../4ED.rst:869 ../../4ED.rst:1101 ../../4ED.rst:1559
 msgid ""
 "Flying (This creature can't be blocked except by creatures with flying or "
 "reach.)"
@@ -1449,21 +1460,21 @@ msgstr ""
 "Latanie (Ten stwór nie może być blokowany, chyba że przez stwory z lataniem "
 "lub zasięgiem.)"
 
-#: ../../4ED.rst:428
+#: ../../4ED.rst:432
 msgid ""
 ":mtgtip:`Mana Short<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/d/d/dd84fdcc-5463-45e9-9421-1d554ecdb8ae.jpg?1559603816|https://"
 "scryfall.com/card/4ed/85/mana-short?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:427
+#: ../../4ED.rst:431
 msgid ""
 "Tap all lands target player controls and that player loses all unspent mana."
 msgstr ""
 "Przekręć wszystkie lądy pod władaniem wskazanego gracza i ów gracz traci "
 "całą niewydaną manę."
 
-#: ../../4ED.rst:430
+#: ../../4ED.rst:434
 msgid ""
 ":mtgtip:`Merfolk of the Pearl Trident<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/9/3/93661c9f-b529-4d82-b68d-3ce050f77e0d.jpg?"
@@ -1471,81 +1482,81 @@ msgid ""
 "utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:436
+#: ../../4ED.rst:440
 msgid ""
 ":mtgtip:`Mind Bomb<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/2/a/2ae30614-f558-4627-8e08-bf8a30ecd5b9.jpg?1559601853|https://"
 "scryfall.com/card/4ed/87/mind-bomb?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:435
+#: ../../4ED.rst:439
 msgid ""
 "Each player may discard up to three cards. Mind Bomb deals damage to each "
 "player equal to 3 minus the number of cards they discarded this way."
 msgstr ""
 
-#: ../../4ED.rst:442
+#: ../../4ED.rst:446
 msgid ""
 ":mtgtip:`Phantasmal Forces<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/0/b/0bc15dcf-6f78-4968-8af9-c115dfa10e4c.jpg?1559604137|"
 "https://scryfall.com/card/4ed/88/phantasmal-forces?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:441
+#: ../../4ED.rst:445
 msgid ""
 "At the beginning of your upkeep, sacrifice Phantasmal Forces unless you pay |"
 "mana_u|."
 msgstr ""
 
-#: ../../4ED.rst:450
+#: ../../4ED.rst:454
 msgid ""
 ":mtgtip:`Phantasmal Terrain<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/0/d/0d7b3b65-e1f9-4a0d-95a6-42c2c4a358e5.jpg?1559603801|"
 "https://scryfall.com/card/4ed/89/phantasmal-terrain?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:447
+#: ../../4ED.rst:451
 msgid "As Phantasmal Terrain enters the battlefield, choose a basic land type."
 msgstr "Przy wejściu tego bytu na pole bitwy, wybierz typ bazowego lądu."
 
-#: ../../4ED.rst:449
+#: ../../4ED.rst:453
 msgid "Enchanted land is the chosen type."
 msgstr "Zauroczony ląd jest wybranego typu."
 
-#: ../../4ED.rst:454
+#: ../../4ED.rst:458
 msgid ""
 ":mtgtip:`Phantom Monster<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/d/a/daa120ce-63a6-4d5e-9801-123d5e05646e.jpg?1559601313|"
 "https://scryfall.com/card/4ed/90/phantom-monster?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:462
+#: ../../4ED.rst:466
 msgid ""
 ":mtgtip:`Pirate Ship<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/0/d/0d7f104a-fb06-41a4-abd9-38f2c6017bbf.jpg?1559601317|https://"
 "scryfall.com/card/4ed/91/pirate-ship?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:457
+#: ../../4ED.rst:461
 msgid "Pirate Ship can't attack unless defending player controls an Island."
 msgstr "Ten stwór nie może atakować, chyba że broniący się gracz włada Wyspą."
 
-#: ../../4ED.rst:459
+#: ../../4ED.rst:463
 msgid "|tap|: Pirate Ship deals 1 damage to any target."
 msgstr "|tap|: Ten stwór zadaje wskazanemu celowi 1 obrażenie."
 
-#: ../../4ED.rst:461
+#: ../../4ED.rst:465
 msgid "When you control no Islands, sacrifice Pirate Ship."
 msgstr "Kiedy nie władasz żadną Wyspą, poświęć tego stwora."
 
-#: ../../4ED.rst:468
+#: ../../4ED.rst:472
 msgid ""
 ":mtgtip:`Power Leak<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/9/9/99f235d7-8f6b-4d17-bc36-6f2cb6d5deec.jpg?1559601321|https://"
 "scryfall.com/card/4ed/92/power-leak?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:467
+#: ../../4ED.rst:471
 msgid ""
 "At the beginning of the upkeep of enchanted enchantment's controller, that "
 "player may pay any amount of mana. Power Leak deals 2 damage to that player. "
@@ -1553,14 +1564,14 @@ msgid ""
 "this way."
 msgstr ""
 
-#: ../../4ED.rst:472
+#: ../../4ED.rst:476
 msgid ""
 ":mtgtip:`Power Sink<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/e/9/e91c51ab-c8b1-47be-8169-7f842712771c.jpg?1559604135|https://"
 "scryfall.com/card/4ed/93/power-sink?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:471
+#: ../../4ED.rst:475
 msgid ""
 "Counter target spell unless its controller pays |mana_x|. If that player "
 "doesn't, they tap all lands with mana abilities they control and lose all "
@@ -1570,37 +1581,37 @@ msgstr ""
 "gracz tego nie zrobi, przekręca wszystkie lądy pod swoim władaniem mające "
 "zdolność dającą manę i traci całą niewydaną manę."
 
-#: ../../4ED.rst:476
+#: ../../4ED.rst:480
 msgid ""
 ":mtgtip:`Prodigal Sorcerer<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/d/c/dc4e1161-5008-427f-a88e-5497a8eb84cd.jpg?1621595950|"
 "https://scryfall.com/card/4ed/94/prodigal-sorcerer?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:475
+#: ../../4ED.rst:479
 msgid "|tap|: Prodigal Sorcerer deals 1 damage to any target."
 msgstr "|tap|: Ten stwór zadaje wskazanemu celowi 1 obrażenie."
 
-#: ../../4ED.rst:480
+#: ../../4ED.rst:484
 msgid ""
 ":mtgtip:`Psionic Entity<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/6/6/6641a587-c066-4f0a-a951-b91d3f749eb2.jpg?1559604131|"
 "https://scryfall.com/card/4ed/95/psionic-entity?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:479
+#: ../../4ED.rst:483
 msgid ""
 "|tap|: Psionic Entity deals 2 damage to any target and 3 damage to itself."
 msgstr ""
 
-#: ../../4ED.rst:486
+#: ../../4ED.rst:490
 msgid ""
 ":mtgtip:`Psychic Venom<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/1/3/138db623-393d-485a-8fa8-f1b1b933fce5.jpg?1559604132|"
 "https://scryfall.com/card/4ed/96/psychic-venom?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:485
+#: ../../4ED.rst:489
 msgid ""
 "Whenever enchanted land becomes tapped, Psychic Venom deals 2 damage to that "
 "land's controller."
@@ -1608,52 +1619,52 @@ msgstr ""
 "Ilekroć zauroczony ląd zostanie przekręcony, ten urok zadaje władcy owego "
 "lądu 2 obrażenia."
 
-#: ../../4ED.rst:496
+#: ../../4ED.rst:500
 msgid ""
 ":mtgtip:`Relic Bind<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/0/5/05eee3dd-e17f-4154-8f8d-29c5421cd89d.jpg?1559603758|https://"
 "scryfall.com/card/4ed/97/relic-bind?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:489
+#: ../../4ED.rst:493
 msgid "Enchant artifact an opponent controls"
 msgstr ""
 
-#: ../../4ED.rst:491
+#: ../../4ED.rst:495
 msgid "Whenever enchanted artifact becomes tapped, choose one —"
 msgstr ""
 
-#: ../../4ED.rst:493
+#: ../../4ED.rst:497
 msgid "Relic Bind deals 1 damage to target player or planeswalker."
 msgstr ""
 
-#: ../../4ED.rst:495
+#: ../../4ED.rst:499
 msgid "Target player gains 1 life."
 msgstr ""
 
-#: ../../4ED.rst:502
+#: ../../4ED.rst:506
 msgid ""
 ":mtgtip:`Sea Serpent<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/e/4/e474391c-9ff0-4db4-9352-3fc07eeb4b51.jpg?1559603859|https://"
 "scryfall.com/card/4ed/98/sea-serpent?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:499
+#: ../../4ED.rst:503
 msgid "Sea Serpent can't attack unless defending player controls an Island."
 msgstr "Ten stwór nie może atakować, chyba że broniący się gracz włada Wyspą."
 
-#: ../../4ED.rst:501
+#: ../../4ED.rst:505
 msgid "When you control no Islands, sacrifice Sea Serpent."
 msgstr "Kiedy nie władasz żadną Wyspą, poświęć tego stwora."
 
-#: ../../4ED.rst:506
+#: ../../4ED.rst:510
 msgid ""
 ":mtgtip:`Segovian Leviathan<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/2/2/22e6e890-d1d0-4a9b-a453-5b51974a9dff.jpg?1559600474|"
 "https://scryfall.com/card/4ed/99/segovian-leviathan?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:505
+#: ../../4ED.rst:509
 msgid ""
 "Islandwalk (This creature can't be blocked as long as defending player "
 "controls an Island.)"
@@ -1661,36 +1672,36 @@ msgstr ""
 "Podbój wysp (Ten stwór nie może być blokowany o ile broniący się gracz włada "
 "Wyspą.)"
 
-#: ../../4ED.rst:510
+#: ../../4ED.rst:514
 msgid ""
 ":mtgtip:`Sindbad<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/9/b/9b6906d0-4963-4f4b-aa29-ad98e9944107.jpg?1559603800|https://"
 "scryfall.com/card/4ed/100/sindbad?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:509
+#: ../../4ED.rst:513
 msgid "|tap|: Draw a card and reveal it. If it isn't a land card, discard it."
 msgstr ""
 "|tap|: Dobierz kartę i ujawnij ją. Jeśli nie jest to karta lądu, odrzuć ją."
 
-#: ../../4ED.rst:518
+#: ../../4ED.rst:522
 msgid ""
 ":mtgtip:`Siren's Call<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/5/1/51832cfb-0a2e-4674-bb36-38027a71ac6d.jpg?1559603887|"
 "https://scryfall.com/card/4ed/101/sirens-call?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:513
+#: ../../4ED.rst:517
 msgid ""
 "Cast this spell only during an opponent's turn, before attackers are "
 "declared."
 msgstr ""
 
-#: ../../4ED.rst:515
+#: ../../4ED.rst:519
 msgid "Creatures the active player controls attack this turn if able."
 msgstr ""
 
-#: ../../4ED.rst:517
+#: ../../4ED.rst:521
 msgid ""
 "At the beginning of the next end step, destroy all non-Wall creatures that "
 "player controls that didn't attack this turn. Ignore this effect for each "
@@ -1698,28 +1709,28 @@ msgid ""
 "turn."
 msgstr ""
 
-#: ../../4ED.rst:522
+#: ../../4ED.rst:526
 msgid ""
 ":mtgtip:`Sleight of Mind<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/c/d/cd21dc3d-c9e6-4592-a655-1a20ee13ae73.jpg?1559600482|"
 "https://scryfall.com/card/4ed/102/sleight-of-mind?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:521
+#: ../../4ED.rst:525
 msgid ""
 "Change the text of target spell or permanent by replacing all instances of "
 "one color word with another. (For example, you may change \"target black "
 "spell\" to \"target blue spell.\" This effect lasts indefinitely.)"
 msgstr ""
 
-#: ../../4ED.rst:526
+#: ../../4ED.rst:530
 msgid ""
 ":mtgtip:`Spell Blast<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/0/0/008df307-f010-47bc-8548-65a1c7b1c4b8.jpg?1559601144|https://"
 "scryfall.com/card/4ed/103/spell-blast?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:525
+#: ../../4ED.rst:529
 msgid ""
 "Counter target spell with mana value X. (For example, if that spell's mana "
 "cost is |mana_3|\\ |mana_u|\\ |mana_u|, X is 5.)"
@@ -1727,103 +1738,103 @@ msgstr ""
 "Skontruj wskazany czar o skrócie many równym X. (Np. jeśli koszt owego czaru "
 "to |mana_3|\\ |mana_u|\\ |mana_u|, X wynosi 5.)"
 
-#: ../../4ED.rst:532
+#: ../../4ED.rst:536
 msgid ""
 ":mtgtip:`Stasis<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/f/3/f3d29fed-248d-4547-9455-3d69b1f2787d.jpg?1559600486|https://"
 "scryfall.com/card/4ed/104/stasis?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:529
+#: ../../4ED.rst:533
 msgid "Players skip their untap steps."
 msgstr "Gracze pomijają swój krok odkręcania."
 
-#: ../../4ED.rst:531
+#: ../../4ED.rst:535
 msgid ""
 "At the beginning of your upkeep, sacrifice Stasis unless you pay |mana_u|."
 msgstr ""
 "Na początku twojego kroku utrzymania, poświęć ten byt, chyba że zapłacisz |"
 "mana_u|."
 
-#: ../../4ED.rst:538
+#: ../../4ED.rst:542
 msgid ""
 ":mtgtip:`Steal Artifact<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/d/c/dcd9ee1d-d1c5-4725-98fc-f6cff3a79512.jpg?1559603600|"
 "https://scryfall.com/card/4ed/105/steal-artifact?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:537
+#: ../../4ED.rst:541
 msgid "You control enchanted artifact."
 msgstr "Władasz zauroczonym artefaktem."
 
-#: ../../4ED.rst:544
+#: ../../4ED.rst:548
 msgid ""
 ":mtgtip:`Sunken City<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/2/2/226f89b4-cf98-4354-a2f4-3f63fe2dd99e.jpg?1559603598|https://"
 "scryfall.com/card/4ed/106/sunken-city?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:541
+#: ../../4ED.rst:545
 msgid ""
 "At the beginning of your upkeep, sacrifice Sunken City unless you pay |"
 "mana_u|\\ |mana_u|."
 msgstr ""
 
-#: ../../4ED.rst:543
+#: ../../4ED.rst:547
 msgid "Blue creatures get +1/+1."
 msgstr ""
 
-#: ../../4ED.rst:548
+#: ../../4ED.rst:552
 msgid ""
 ":mtgtip:`Thoughtlace<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/1/8/185674a4-db97-444d-b0e9-7dcfc245ce4b.jpg?1559600369|https://"
 "scryfall.com/card/4ed/107/thoughtlace?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:547
+#: ../../4ED.rst:551
 msgid ""
 "Target spell or permanent becomes blue. (Mana symbols on that permanent "
 "remain unchanged.)"
 msgstr ""
 
-#: ../../4ED.rst:554
+#: ../../4ED.rst:558
 msgid ""
 ":mtgtip:`Time Elemental<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/9/5/957fa561-d090-435d-a0da-f405edb7e591.jpg?1559600381|"
 "https://scryfall.com/card/4ed/108/time-elemental?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:551
+#: ../../4ED.rst:555
 msgid ""
 "When Time Elemental attacks or blocks, at end of combat, sacrifice it and it "
 "deals 5 damage to you."
 msgstr ""
 
-#: ../../4ED.rst:553
+#: ../../4ED.rst:557
 msgid ""
 "|mana_2|\\ |mana_u|\\ |mana_u|, |tap|: Return target permanent that isn't "
 "enchanted to its owner's hand."
 msgstr ""
 
-#: ../../4ED.rst:558
+#: ../../4ED.rst:562
 msgid ""
 ":mtgtip:`Twiddle<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/d/b/db401643-6114-4254-8e40-ea7605e5ed82.jpg?1559603640|https://"
 "scryfall.com/card/4ed/109/twiddle?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:557
+#: ../../4ED.rst:561
 msgid "You may tap or untap target artifact, creature, or land."
 msgstr "Możesz przekręcić lub odkręcić wskazany artefakt, stwora lub ląd."
 
-#: ../../4ED.rst:566
+#: ../../4ED.rst:570
 msgid ""
 ":mtgtip:`Unstable Mutation<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/8/4/841ae3a3-30b5-4f0c-ad2f-af3d5e0da2e9.jpg?1559600531|"
 "https://scryfall.com/card/4ed/110/unstable-mutation?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:565
+#: ../../4ED.rst:569
 msgid ""
 "At the beginning of the upkeep of enchanted creature's controller, put a "
 "-1/-1 counter on that creature."
@@ -1831,39 +1842,39 @@ msgstr ""
 "Na początku kroku rozliczania władcy zauroczonego stwora, umieść znacznik "
 "-1/-1 na owym stworze."
 
-#: ../../4ED.rst:570
+#: ../../4ED.rst:574
 msgid ""
 ":mtgtip:`Unsummon<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/3/3/338948aa-463d-4af4-a0d6-64132512334c.jpg?1559600384|https://"
 "scryfall.com/card/4ed/111/unsummon?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:569
+#: ../../4ED.rst:573
 msgid "Return target creature to its owner's hand."
 msgstr "Przywróć wskazanego stwora do ręki właściciela."
 
-#: ../../4ED.rst:574
+#: ../../4ED.rst:578
 msgid ""
 ":mtgtip:`Volcanic Eruption<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/5/8/5828713a-edb3-4b11-b1f9-8f1bfc3c103f.jpg?1559600399|"
 "https://scryfall.com/card/4ed/112/volcanic-eruption?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:573
+#: ../../4ED.rst:577
 msgid ""
 "Destroy X target Mountains. Volcanic Eruption deals damage to each creature "
 "and each player equal to the number of Mountains put into a graveyard this "
 "way."
 msgstr ""
 
-#: ../../4ED.rst:578
+#: ../../4ED.rst:582
 msgid ""
 ":mtgtip:`Wall of Air<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/2/3/239435c8-3380-4556-9618-09fc0e40b69d.jpg?1559600401|https://"
 "scryfall.com/card/4ed/113/wall-of-air?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:577
+#: ../../4ED.rst:581
 msgid ""
 "Defender, flying (This creature can't attack, and it can block creatures "
 "with flying.)"
@@ -1871,56 +1882,56 @@ msgstr ""
 "Obronność, latanie (Ten stwór nie może atakować i może blokować stwory z "
 "lataniem.)"
 
-#: ../../4ED.rst:584
+#: ../../4ED.rst:588
 msgid ""
 ":mtgtip:`Wall of Water<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/7/8/78028eda-61b0-408c-b3fc-adc968d39b47.jpg?1559600430|"
 "https://scryfall.com/card/4ed/114/wall-of-water?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:583
+#: ../../4ED.rst:587
 msgid "|mana_u|: Wall of Water gets +1/+0 until end of turn."
 msgstr ""
 
-#: ../../4ED.rst:586
+#: ../../4ED.rst:590
 msgid ""
 ":mtgtip:`Water Elemental<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/d/a/dadea972-714e-4f6d-8fb7-a59c0ac1e028.jpg?1559603876|"
 "https://scryfall.com/card/4ed/115/water-elemental?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:592
+#: ../../4ED.rst:596
 msgid ""
 ":mtgtip:`Zephyr Falcon<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/0/3/032ee0fd-9eb3-4d81-9972-9e7f4c4d64e4.jpg?1559600443|"
 "https://scryfall.com/card/4ed/116/zephyr-falcon?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:596
+#: ../../4ED.rst:600
 msgid ""
 ":mtgtip:`Abomination<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/a/3/a363bc91-8278-448e-9d5c-564e4b51eb62.jpg?1559603880|https://"
 "scryfall.com/card/4ed/117/abomination?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:595
+#: ../../4ED.rst:599
 msgid ""
 "Whenever Abomination blocks or becomes blocked by a green or white creature, "
 "destroy that creature at end of combat."
 msgstr ""
 
-#: ../../4ED.rst:604
+#: ../../4ED.rst:608
 msgid ""
 ":mtgtip:`Animate Dead<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/c/c/cc1dc456-1f64-4f24-a646-84c57e641b3b.jpg?1559603884|"
 "https://scryfall.com/card/4ed/118/animate-dead?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:599
+#: ../../4ED.rst:603
 msgid "Enchant creature card in a graveyard"
 msgstr "Zaurocz kartę stwora w cmentarzu"
 
-#: ../../4ED.rst:601
+#: ../../4ED.rst:605
 msgid ""
 "When Animate Dead enters the battlefield, if it's on the battlefield, it "
 "loses \"enchant creature card in a graveyard\" and gains \"enchant creature "
@@ -1935,41 +1946,41 @@ msgstr ""
 "cmentarza na pole bitwy pod twoim władaniem i dołącz do niego ten urok. "
 "Kiedy ten urok opuści pole bitwy, władca owego stwora poświęca go."
 
-#: ../../4ED.rst:603
+#: ../../4ED.rst:607
 msgid "Enchanted creature gets -1/-0."
 msgstr "Zauroczony stwór dostaje -1/-0."
 
-#: ../../4ED.rst:608
+#: ../../4ED.rst:612
 msgid ""
 ":mtgtip:`Ashes to Ashes<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/2/8/28f40650-9dd5-473d-a660-448672d475a5.jpg?1559604105|"
 "https://scryfall.com/card/4ed/119/ashes-to-ashes?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:607
+#: ../../4ED.rst:611
 msgid ""
 "Exile two target nonartifact creatures. Ashes to Ashes deals 5 damage to you."
 msgstr ""
 
-#: ../../4ED.rst:612
+#: ../../4ED.rst:616
 msgid ""
 ":mtgtip:`Bad Moon<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/a/c/aca216e2-27a5-40e1-bb61-0ddcd8ee02ae.jpg?1559603684|https://"
 "scryfall.com/card/4ed/120/bad-moon?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:611
+#: ../../4ED.rst:615
 msgid "Black creatures get +1/+1."
 msgstr "Czarne stwory dostają +1/+1."
 
-#: ../../4ED.rst:618
+#: ../../4ED.rst:622
 msgid ""
 ":mtgtip:`Black Knight<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/4/7/47716cf4-f35c-4613-9686-4e00b5063408.jpg?1559601186|"
 "https://scryfall.com/card/4ed/121/black-knight?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:617
+#: ../../4ED.rst:621
 msgid ""
 "Protection from white (This creature can't be blocked, targeted, dealt "
 "damage, or enchanted by anything white.)"
@@ -1977,32 +1988,32 @@ msgstr ""
 "Ochrona przed białym (Nic białego nie może zablokować, wskazywać, zadać "
 "obrażeń, zauroczyć ani wyposażyć tego stwora.)"
 
-#: ../../4ED.rst:624
+#: ../../4ED.rst:628
 msgid ""
 ":mtgtip:`Blight<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/5/9/59365350-d149-4c0d-a08f-eabdfb7cce3d.jpg?1559603597|https://"
 "scryfall.com/card/4ed/122/blight?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:623
+#: ../../4ED.rst:627
 msgid "When enchanted land becomes tapped, destroy it."
 msgstr "Kiedy zauroczony ląd zostanie przekręcony, zniszcz go."
 
-#: ../../4ED.rst:628
+#: ../../4ED.rst:632
 msgid ""
 ":mtgtip:`Bog Imp<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/c/5/c50c3053-3cf3-40d3-bc9e-2fc292f11c34.jpg?1559603890|https://"
 "scryfall.com/card/4ed/123/bog-imp?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:632
+#: ../../4ED.rst:636
 msgid ""
 ":mtgtip:`Bog Wraith<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/f/b/fbf82ad6-b32e-41ea-abea-22b8eef69e67.jpg?1559603662|https://"
 "scryfall.com/card/4ed/124/bog-wraith?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:631 ../../4ED.rst:733
+#: ../../4ED.rst:635 ../../4ED.rst:737
 msgid ""
 "Swampwalk (This creature can't be blocked as long as defending player "
 "controls a Swamp.)"
@@ -2010,43 +2021,43 @@ msgstr ""
 "Podbój bagien (Ten stwór nie może być blokowany o ile broniący się gracz "
 "włada Bagnem.)"
 
-#: ../../4ED.rst:636
+#: ../../4ED.rst:640
 msgid ""
 ":mtgtip:`Carrion Ants<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/f/5/f5de329d-fb08-4c4a-883f-1d77dc64470d.jpg?1559604214|"
 "https://scryfall.com/card/4ed/125/carrion-ants?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:635
+#: ../../4ED.rst:639
 msgid "|mana_1|: Carrion Ants gets +1/+1 until end of turn."
 msgstr ""
 
-#: ../../4ED.rst:642
+#: ../../4ED.rst:646
 msgid ""
 ":mtgtip:`Cosmic Horror<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/0/7/07e975cc-e89d-4ac3-b9dc-dad202dacc14.jpg?1559601565|"
 "https://scryfall.com/card/4ed/126/cosmic-horror?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:639 ../../4ED.rst:1207 ../../4ED.rst:1265 ../../4ED.rst:1757
+#: ../../4ED.rst:643 ../../4ED.rst:1211 ../../4ED.rst:1269 ../../4ED.rst:1765
 msgid "First strike"
 msgstr "Pierwszy cios"
 
-#: ../../4ED.rst:641
+#: ../../4ED.rst:645
 msgid ""
 "At the beginning of your upkeep, destroy Cosmic Horror unless you pay |"
 "mana_3|\\ |mana_b|\\ |mana_b|\\ |mana_b|. If Cosmic Horror is destroyed this "
 "way, it deals 7 damage to you."
 msgstr ""
 
-#: ../../4ED.rst:648
+#: ../../4ED.rst:652
 msgid ""
 ":mtgtip:`Cursed Land<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/2/3/23d9fb0a-1087-43cd-9e14-24c1685a2057.jpg?1559603652|https://"
 "scryfall.com/card/4ed/127/cursed-land?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:647
+#: ../../4ED.rst:651
 msgid ""
 "At the beginning of the upkeep of enchanted land's controller, Cursed Land "
 "deals 1 damage to that player."
@@ -2054,64 +2065,64 @@ msgstr ""
 "Na początku kroku utrzymania władcy zauroczonego lądu, ten urok zadaje owemu "
 "graczowi 1 obrażenie."
 
-#: ../../4ED.rst:652
+#: ../../4ED.rst:656
 msgid ""
 ":mtgtip:`Cyclopean Mummy<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/8/2/8201b51b-da03-4207-805c-134e527c42e1.jpg?1559604253|"
 "https://scryfall.com/card/4ed/128/cyclopean-mummy?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:651
+#: ../../4ED.rst:655
 msgid "When Cyclopean Mummy dies, exile it."
 msgstr ""
 
-#: ../../4ED.rst:656
+#: ../../4ED.rst:660
 msgid ""
 ":mtgtip:`Dark Ritual<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/3/4/3477f601-5374-4316-a74e-b5e198af482b.jpg?1559603804|https://"
 "scryfall.com/card/4ed/129/dark-ritual?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:655
+#: ../../4ED.rst:659
 msgid "Add |mana_b|\\ |mana_b|\\ |mana_b|."
 msgstr "Weź |mana_b|\\ |mana_b|\\ |mana_b|."
 
-#: ../../4ED.rst:660
+#: ../../4ED.rst:664
 msgid ""
 ":mtgtip:`Deathgrip<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/7/4/74e2ae05-29ec-4005-8d78-280a190601c4.jpg?1559603780|https://"
 "scryfall.com/card/4ed/130/deathgrip?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:659
+#: ../../4ED.rst:663
 msgid "|mana_b|\\ |mana_b|: Counter target green spell."
 msgstr "|mana_b|\\ |mana_b|: Skontruj wskazany zielony czar."
 
-#: ../../4ED.rst:664
+#: ../../4ED.rst:668
 msgid ""
 ":mtgtip:`Deathlace<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/2/3/237e37fb-383d-432c-8ac3-1332096567db.jpg?1559603651|https://"
 "scryfall.com/card/4ed/131/deathlace?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:663
+#: ../../4ED.rst:667
 msgid ""
 "Target spell or permanent becomes black. (Mana symbols on that permanent "
 "remain unchanged.)"
 msgstr ""
 
-#: ../../4ED.rst:670
+#: ../../4ED.rst:674
 msgid ""
 ":mtgtip:`Drain Life<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/b/9/b9d10677-36f0-4339-a2c3-213e8ee1c51d.jpg?1559603761|https://"
 "scryfall.com/card/4ed/132/drain-life?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:667
+#: ../../4ED.rst:671
 msgid "Spend only black mana on X."
 msgstr "Opłać X tylko czarną maną."
 
-#: ../../4ED.rst:669
+#: ../../4ED.rst:673
 msgid ""
 "Drain Life deals X damage to any target. You gain life equal to the damage "
 "dealt, but not more life than the player's life total before the damage was "
@@ -2119,14 +2130,14 @@ msgid ""
 "creature's toughness."
 msgstr ""
 
-#: ../../4ED.rst:674
+#: ../../4ED.rst:678
 msgid ""
 ":mtgtip:`Drudge Skeletons<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/d/3/d3d223d3-72c1-4240-9323-84484167c5e0.jpg?1559604244|"
 "https://scryfall.com/card/4ed/133/drudge-skeletons?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:673
+#: ../../4ED.rst:677
 msgid ""
 "|mana_b|: Regenerate Drudge Skeletons. (The next time this creature would be "
 "destroyed this turn, it isn't. Instead tap it, remove all damage from it, "
@@ -2136,25 +2147,25 @@ msgstr ""
 "zniszczony w tej turze, nie jest. Zamiast tego przekręć go, usuń z niego "
 "wszystkie obrażenia i usuń go z potyczki.)"
 
-#: ../../4ED.rst:678
+#: ../../4ED.rst:682
 msgid ""
 ":mtgtip:`El-Hajjâj<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/c/f/cf371bd2-89ad-487e-8f27-37a6e75ca0f5.jpg?1559604241|https://"
 "scryfall.com/card/4ed/134/el-hajj%C3%A2j?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:677
+#: ../../4ED.rst:681
 msgid "Whenever El-Hajjâj deals damage, you gain that much life."
 msgstr ""
 
-#: ../../4ED.rst:682
+#: ../../4ED.rst:686
 msgid ""
 ":mtgtip:`Erg Raiders<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/4/7/472c83ff-66aa-485b-9ca7-aef8731de20a.jpg?1559604236|https://"
 "scryfall.com/card/4ed/135/erg-raiders?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:681
+#: ../../4ED.rst:685
 msgid ""
 "At the beginning of your end step, if Erg Raiders didn't attack this turn, "
 "Erg Raiders deals 2 damage to you unless it came under your control this "
@@ -2164,25 +2175,25 @@ msgstr ""
 "turze, zadaje on tobie 2 obrażenia, chyba że wszedł pod twoje władanie w tej "
 "turze."
 
-#: ../../4ED.rst:688
+#: ../../4ED.rst:692
 msgid ""
 ":mtgtip:`Evil Presence<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/5/c/5cbca45f-7b08-408b-9445-e3f2b9563f1b.jpg?1559603759|"
 "https://scryfall.com/card/4ed/136/evil-presence?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:687
+#: ../../4ED.rst:691
 msgid "Enchanted land is a Swamp."
 msgstr "Zauroczony ląd jest Bagnem."
 
-#: ../../4ED.rst:694
+#: ../../4ED.rst:698
 msgid ""
 ":mtgtip:`Fear<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/1/2/126c1b02-01bd-4b70-9293-a89173b4cd32.jpg?1559603812|https://"
 "scryfall.com/card/4ed/137/fear?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:693
+#: ../../4ED.rst:697
 msgid ""
 "Enchanted creature has fear. (It can't be blocked except by artifact "
 "creatures and/or black creatures.)"
@@ -2190,64 +2201,64 @@ msgstr ""
 "Zauroczony stwór ma postrach. (Nie może być blokowany, chyba że przez stwory "
 "artefaktowe lub czarne.)"
 
-#: ../../4ED.rst:698
+#: ../../4ED.rst:702
 msgid ""
 ":mtgtip:`Frozen Shade<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/9/5/95547c2a-c01b-45ed-b775-f33c157b17a5.jpg?1559600462|"
 "https://scryfall.com/card/4ed/138/frozen-shade?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:697
+#: ../../4ED.rst:701
 msgid "|mana_b|: Frozen Shade gets +1/+1 until end of turn."
 msgstr "|mana_b|: Ten stwór dostaje do końca tury +1/+1."
 
-#: ../../4ED.rst:704
+#: ../../4ED.rst:708
 msgid ""
 ":mtgtip:`Gloom<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/"
 "f/5/f5a8573d-0e2d-4a7f-a47f-7e1bc472d4fa.jpg?1559603670|https://scryfall.com/"
 "card/4ed/139/gloom?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:701
+#: ../../4ED.rst:705
 msgid "White spells cost |mana_3| more to cast."
 msgstr "Rzucanie białych czarów kosztuje o |mana_3| więcej."
 
-#: ../../4ED.rst:703
+#: ../../4ED.rst:707
 msgid ""
 "Activated abilities of white enchantments cost |mana_3| more to activate."
 msgstr ""
 "Aktywacja aktywowanych zdolności białych uroków kosztuje o |mana_3| więcej."
 
-#: ../../4ED.rst:708
+#: ../../4ED.rst:712
 msgid ""
 ":mtgtip:`Greed<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/7/6/76fb0c62-1c53-464e-a2df-59285f2d593d.jpg?1595376462|https://"
 "scryfall.com/card/4ed/140/greed?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:707
+#: ../../4ED.rst:711
 msgid "|mana_b|, Pay 2 life: Draw a card."
 msgstr "|mana_b|, zapłać 2 życia: Dobierz kartę."
 
-#: ../../4ED.rst:712
+#: ../../4ED.rst:716
 msgid ""
 ":mtgtip:`Howl from Beyond<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/5/d/5dba7b1e-90a0-419e-bcba-a6b19beacf29.jpg?1559603668|"
 "https://scryfall.com/card/4ed/141/howl-from-beyond?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:711
+#: ../../4ED.rst:715
 msgid "Target creature gets +X/+0 until end of turn."
 msgstr "Wskazany stwór dostaje do końca tury +X/+0."
 
-#: ../../4ED.rst:718
+#: ../../4ED.rst:722
 msgid ""
 ":mtgtip:`Hypnotic Specter<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/b/5/b5900350-be08-4904-8f1b-cc180ed08485.jpg?1591104637|"
 "https://scryfall.com/card/4ed/142/hypnotic-specter?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:717
+#: ../../4ED.rst:721
 msgid ""
 "Whenever Hypnotic Specter deals damage to an opponent, that player discards "
 "a card at random."
@@ -2255,31 +2266,31 @@ msgstr ""
 "Ilekroć ten stwór zada graczowi obrażenia bojowe, ów gracz odrzuca losową "
 "kartę."
 
-#: ../../4ED.rst:724
+#: ../../4ED.rst:728
 msgid ""
 ":mtgtip:`Junún Efreet<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/3/9/398a2b0f-0b91-408c-8083-3bc89873b69f.jpg?1559603803|"
 "https://scryfall.com/card/4ed/143/jun%C3%BAn-efreet?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:723
+#: ../../4ED.rst:727
 msgid ""
 "At the beginning of your upkeep, sacrifice Junún Efreet unless you pay |"
 "mana_b|\\ |mana_b|."
 msgstr ""
 
-#: ../../4ED.rst:730
+#: ../../4ED.rst:734
 msgid ""
 ":mtgtip:`Lord of the Pit<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/9/6/9691e76c-770d-4721-b758-805574227de1.jpg?1559601893|"
 "https://scryfall.com/card/4ed/144/lord-of-the-pit?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:727
+#: ../../4ED.rst:731
 msgid "Flying, trample"
 msgstr "Latanie, tratowanie"
 
-#: ../../4ED.rst:729
+#: ../../4ED.rst:733
 msgid ""
 "At the beginning of your upkeep, sacrifice a creature other than Lord of the "
 "Pit. If you can't, Lord of the Pit deals 7 damage to you."
@@ -2287,74 +2298,74 @@ msgstr ""
 "Na początku twojego kroku utrzymania, poświęć stwora innego niż niniejszy. "
 "Jeśli nie możesz, ten stwór zadaje tobie 7 obrażeń."
 
-#: ../../4ED.rst:734
+#: ../../4ED.rst:738
 msgid ""
 ":mtgtip:`Lost Soul<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/6/6/66b875b1-e534-4ed8-9ebd-8f4d5a066e7d.jpg?1613677449|https://"
 "scryfall.com/card/4ed/145/lost-soul?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:738
+#: ../../4ED.rst:742
 msgid ""
 ":mtgtip:`Marsh Gas<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/c/8/c8c65bf9-cbab-45ee-9c6e-f8ee832dbe61.jpg?1587911112|https://"
 "scryfall.com/card/4ed/146/marsh-gas?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:737
+#: ../../4ED.rst:741
 msgid "All creatures get -2/-0 until end of turn."
 msgstr ""
 
-#: ../../4ED.rst:742
+#: ../../4ED.rst:746
 msgid ""
 ":mtgtip:`Mind Twist<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/b/b/bbb6765c-a052-46dc-a589-200b8ba8c99f.jpg?1559604146|https://"
 "scryfall.com/card/4ed/147/mind-twist?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:741
+#: ../../4ED.rst:745
 msgid "Target player discards X cards at random."
 msgstr "Wskazany gracz odrzuca X losowych kart."
 
-#: ../../4ED.rst:746
+#: ../../4ED.rst:750
 msgid ""
 ":mtgtip:`Murk Dwellers<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/7/7/7731dc37-2eac-4e60-bb0f-6230205a5323.jpg?1559601297|"
 "https://scryfall.com/card/4ed/148/murk-dwellers?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:745
+#: ../../4ED.rst:749
 msgid ""
 "Whenever Murk Dwellers attacks and isn't blocked, it gets +2/+0 until end of "
 "combat."
 msgstr ""
 
-#: ../../4ED.rst:752
+#: ../../4ED.rst:756
 msgid ""
 ":mtgtip:`Nether Shadow<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/1/b/1b6d9e96-0c7f-45c5-b6d0-6444ef84bab1.jpg?1559603818|"
 "https://scryfall.com/card/4ed/149/nether-shadow?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:749
+#: ../../4ED.rst:753
 msgid "Haste"
 msgstr "Pośpiech"
 
-#: ../../4ED.rst:751
+#: ../../4ED.rst:755
 msgid ""
 "At the beginning of your upkeep, if Nether Shadow is in your graveyard with "
 "three or more creature cards above it, you may put Nether Shadow onto the "
 "battlefield."
 msgstr ""
 
-#: ../../4ED.rst:758
+#: ../../4ED.rst:762
 msgid ""
 ":mtgtip:`Nightmare<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/d/b/db11b832-7584-4e4b-8d02-b03fe76dcbc3.jpg?1559601299|https://"
 "scryfall.com/card/4ed/150/nightmare?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:757
+#: ../../4ED.rst:761
 msgid ""
 "Nightmare's power and toughness are each equal to the number of Swamps you "
 "control."
@@ -2362,35 +2373,35 @@ msgstr ""
 "Siła oraz wytrzymałość tej karty są obie równe liczbie Bagien pod twoim "
 "władaniem."
 
-#: ../../4ED.rst:768
+#: ../../4ED.rst:772
 msgid ""
 ":mtgtip:`Paralyze<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/d/0/d0bcad9a-b69c-434a-8d48-6b727bd8e382.jpg?1559604113|https://"
 "scryfall.com/card/4ed/151/paralyze?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:763
+#: ../../4ED.rst:767
 msgid "When Paralyze enters the battlefield, tap enchanted creature."
 msgstr "Kiedy ten urok wejdzie na pole bitwy, przekręć zauroczonego stwora."
 
-#: ../../4ED.rst:765
+#: ../../4ED.rst:769
 msgid "Enchanted creature doesn't untap during its controller's untap step."
 msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
 
-#: ../../4ED.rst:767
+#: ../../4ED.rst:771
 msgid ""
 "At the beginning of the upkeep of enchanted creature's controller, that "
 "player may pay |mana_4|. If the player does, untap the creature."
 msgstr ""
 
-#: ../../4ED.rst:774
+#: ../../4ED.rst:778
 msgid ""
 ":mtgtip:`Pestilence<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/9/0/90886a02-4c1f-48ea-8563-6d80c97d9f58.jpg?1559603763|https://"
 "scryfall.com/card/4ed/152/pestilence?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:771
+#: ../../4ED.rst:775
 msgid ""
 "At the beginning of the end step, if no creatures are on the battlefield, "
 "sacrifice Pestilence."
@@ -2398,45 +2409,45 @@ msgstr ""
 "Na początku kroku końcowego, jeśli na polu bitwy nie ma stwora, poświęć ten "
 "urok."
 
-#: ../../4ED.rst:773
+#: ../../4ED.rst:777
 msgid "|mana_b|: Pestilence deals 1 damage to each creature and each player."
 msgstr ""
 "|mana_b|: Ten urok zadaje każdemu stworowi i każdemu graczowi po 1 obrażeniu."
 
-#: ../../4ED.rst:778
+#: ../../4ED.rst:782
 msgid ""
 ":mtgtip:`Pit Scorpion<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/0/a/0a53418c-3720-4aa3-a525-6bc82c363844.jpg?1559601318|"
 "https://scryfall.com/card/4ed/153/pit-scorpion?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:777
+#: ../../4ED.rst:781
 msgid ""
 "Whenever Pit Scorpion deals damage to a player, that player gets a poison "
 "counter. (A player with ten or more poison counters loses the game.)"
 msgstr ""
 
-#: ../../4ED.rst:782
+#: ../../4ED.rst:786
 msgid ""
 ":mtgtip:`Plague Rats<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/9/0/901591cb-a7e9-47c1-96ff-3de7b39b1055.jpg?1559601801|https://"
 "scryfall.com/card/4ed/154/plague-rats?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:781
+#: ../../4ED.rst:785
 msgid ""
 "Plague Rats's power and toughness are each equal to the number of creatures "
 "named Plague Rats on the battlefield."
 msgstr ""
 
-#: ../../4ED.rst:786
+#: ../../4ED.rst:790
 msgid ""
 ":mtgtip:`Rag Man<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/0/1/018a02f9-81f7-412b-8e98-d7be3eb73eca.jpg?1559603755|https://"
 "scryfall.com/card/4ed/155/rag-man?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:785
+#: ../../4ED.rst:789
 msgid ""
 "|mana_b|\\ |mana_b|\\ |mana_b|, |tap|: Target opponent reveals their hand "
 "and discards a creature card at random. Activate only during your turn."
@@ -2444,61 +2455,61 @@ msgstr ""
 "|mana_b|\\ |mana_b|\\ |mana_b|, |tap|: Wskazany przeciwnik ujawnia swoją "
 "rękę i odrzuca losową kartę stwora. Możesz aktywować tylko w twojej turze."
 
-#: ../../4ED.rst:790
+#: ../../4ED.rst:794
 msgid ""
 ":mtgtip:`Raise Dead<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/2/0/2096e54e-1a55-4fd7-8415-a6f2fdb2a536.jpg?1559601309|https://"
 "scryfall.com/card/4ed/156/raise-dead?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:789
+#: ../../4ED.rst:793
 msgid "Return target creature card from your graveyard to your hand."
 msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza do twojej ręki."
 
-#: ../../4ED.rst:794
+#: ../../4ED.rst:798
 msgid ""
 ":mtgtip:`Royal Assassin<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/b/2/b2d51bdf-f118-4a1e-9060-bdf3c78697f2.jpg?1559603610|"
 "https://scryfall.com/card/4ed/157/royal-assassin?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:793
+#: ../../4ED.rst:797
 msgid "|tap|: Destroy target tapped creature."
 msgstr "|tap|: Zniszcz wskazanego przekręconego stwora."
 
-#: ../../4ED.rst:796
+#: ../../4ED.rst:800
 msgid ""
 ":mtgtip:`Scathe Zombies<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/d/b/dbd55d32-e969-4d12-b101-a35db8a53921.jpg?1559604170|"
 "https://scryfall.com/card/4ed/158/scathe-zombies?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:804
+#: ../../4ED.rst:808
 msgid ""
 ":mtgtip:`Scavenging Ghoul<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/d/f/df0baaa9-c42b-413a-b10d-95689e4ddb50.jpg?1559604168|"
 "https://scryfall.com/card/4ed/159/scavenging-ghoul?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:801
+#: ../../4ED.rst:805
 msgid ""
 "At the beginning of each end step, put a corpse counter on Scavenging Ghoul "
 "for each creature that died this turn."
 msgstr ""
 
-#: ../../4ED.rst:803
+#: ../../4ED.rst:807
 msgid ""
 "Remove a corpse counter from Scavenging Ghoul: Regenerate Scavenging Ghoul."
 msgstr ""
 
-#: ../../4ED.rst:810
+#: ../../4ED.rst:814
 msgid ""
 ":mtgtip:`Sengir Vampire<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/2/e/2e29882a-c194-48b8-ba18-439b0bda395e.jpg?1559604166|"
 "https://scryfall.com/card/4ed/160/sengir-vampire?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:809
+#: ../../4ED.rst:813
 msgid ""
 "Whenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/"
 "+1 counter on Sengir Vampire."
@@ -2506,87 +2517,87 @@ msgstr ""
 "Ilekroć umrze stwór uszkodzony w tej turze przez niniejszego stwora, umieść "
 "na niniejszym stworze znacznik +1/+1."
 
-#: ../../4ED.rst:814
+#: ../../4ED.rst:818
 msgid ""
 ":mtgtip:`Simulacrum<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/7/c/7c23232c-a264-4df9-824b-4111a5c6524c.jpg?1559600479|https://"
 "scryfall.com/card/4ed/161/simulacrum?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:813
+#: ../../4ED.rst:817
 msgid ""
 "You gain life equal to the damage dealt to you this turn. Simulacrum deals "
 "damage to target creature you control equal to the damage dealt to you this "
 "turn."
 msgstr ""
 
-#: ../../4ED.rst:818
+#: ../../4ED.rst:822
 msgid ""
 ":mtgtip:`Sorceress Queen<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/e/4/e4855db6-570c-4845-9074-a9df7611307a.jpg?1559603836|"
 "https://scryfall.com/card/4ed/162/sorceress-queen?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:817
+#: ../../4ED.rst:821
 msgid ""
 "|tap|: Target creature other than Sorceress Queen has base power and "
 "toughness 0/2 until end of turn."
 msgstr ""
 
-#: ../../4ED.rst:824
+#: ../../4ED.rst:828
 msgid ""
 ":mtgtip:`Spirit Shackle<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/1/d/1df0c902-3fe1-4de7-9777-7ddb563b6cec.jpg?1559603788|"
 "https://scryfall.com/card/4ed/163/spirit-shackle?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:823
+#: ../../4ED.rst:827
 msgid "Whenever enchanted creature becomes tapped, put a -0/-2 counter on it."
 msgstr ""
 
-#: ../../4ED.rst:828
+#: ../../4ED.rst:832
 msgid ""
 ":mtgtip:`Terror<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/d/e/deb5d44d-977d-4d0d-8242-17c8ffa7247c.jpg?1559603777|https://"
 "scryfall.com/card/4ed/164/terror?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:827
+#: ../../4ED.rst:831
 msgid "Destroy target nonartifact, nonblack creature. It can't be regenerated."
 msgstr ""
 "Zniszcz wskazanego nieartefaktowego, nieczarnego stwora. Nie może on "
 "regenerować."
 
-#: ../../4ED.rst:832
+#: ../../4ED.rst:836
 msgid ""
 ":mtgtip:`Uncle Istvan<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/c/b/cbf5aa58-f68b-4197-9697-1e6653760853.jpg?1559604121|"
 "https://scryfall.com/card/4ed/165/uncle-istvan?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:831
+#: ../../4ED.rst:835
 msgid "Prevent all damage that would be dealt to Uncle Istvan by creatures."
 msgstr ""
 
-#: ../../4ED.rst:838
+#: ../../4ED.rst:842
 msgid ""
 ":mtgtip:`Unholy Strength<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/f/5/f52c3c85-1462-406c-8e3b-c25deda9c4e6.jpg?1559604127|"
 "https://scryfall.com/card/4ed/166/unholy-strength?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:837
+#: ../../4ED.rst:841
 msgid "Enchanted creature gets +2/+1."
 msgstr "Zauroczony stwór dostaje +2/+1."
 
-#: ../../4ED.rst:844
+#: ../../4ED.rst:848
 msgid ""
 ":mtgtip:`Vampire Bats<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/d/2/d2aed701-5164-4c63-9539-3d2406970f46.jpg?1559600394|"
 "https://scryfall.com/card/4ed/167/vampire-bats?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:843
+#: ../../4ED.rst:847
 msgid ""
 "|mana_b|: Vampire Bats gets +1/+0 until end of turn. Activate no more than "
 "twice each turn."
@@ -2594,14 +2605,14 @@ msgstr ""
 "|mana_b|: Ten stwór dostaje do końca tury +1/+0. Możesz aktywować nie więcej "
 "niż dwa razy na turę."
 
-#: ../../4ED.rst:850
+#: ../../4ED.rst:854
 msgid ""
 ":mtgtip:`Wall of Bone<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/3/6/36ce3251-017f-4834-9935-0985c56cccb7.jpg?1559600408|"
 "https://scryfall.com/card/4ed/168/wall-of-bone?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:849
+#: ../../4ED.rst:853
 msgid ""
 "|mana_b|: Regenerate Wall of Bone. (The next time this creature would be "
 "destroyed this turn, it isn't. Instead tap it, remove all damage from it, "
@@ -2611,38 +2622,38 @@ msgstr ""
 "zniszczony w tej turze, nie jest. Zamiast tego przekręć go, usuń z niego "
 "wszystkie obrażenia i usuń go z potyczki.)"
 
-#: ../../4ED.rst:856
+#: ../../4ED.rst:860
 msgid ""
 ":mtgtip:`Warp Artifact<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/e/d/edc2fcd5-e7a5-4a66-b385-82726ee6e3cc.jpg?1559603580|"
 "https://scryfall.com/card/4ed/169/warp-artifact?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:855
+#: ../../4ED.rst:859
 msgid ""
 "At the beginning of the upkeep of enchanted artifact's controller, Warp "
 "Artifact deals 1 damage to that player."
 msgstr ""
 
-#: ../../4ED.rst:862
+#: ../../4ED.rst:866
 msgid ""
 ":mtgtip:`Weakness<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/5/4/548d4cd1-7cc6-44ee-872e-68e5bcc608fb.jpg?1559604120|https://"
 "scryfall.com/card/4ed/170/weakness?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:861
+#: ../../4ED.rst:865
 msgid "Enchanted creature gets -2/-1."
 msgstr "Zauroczony stwór dostaje -2/-1."
 
-#: ../../4ED.rst:868
+#: ../../4ED.rst:872
 msgid ""
 ":mtgtip:`Will-o'-the-Wisp<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/5/8/583ef317-8105-4917-ba3c-93de3eebd944.jpg?1559603879|"
 "https://scryfall.com/card/4ed/171/will-o-the-wisp?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:867
+#: ../../4ED.rst:871
 msgid ""
 "|mana_b|: Regenerate Will-o'-the-Wisp. (The next time this creature would be "
 "destroyed this turn, it isn't. Instead tap it, remove all damage from it, "
@@ -2652,38 +2663,38 @@ msgstr ""
 "zniszczony w tej turze, nie jest. Zamiast tego przekręć go, usuń z niego "
 "wszystkie obrażenia i usuń go z potyczki.)"
 
-#: ../../4ED.rst:872
+#: ../../4ED.rst:876
 msgid ""
 ":mtgtip:`Word of Binding<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/7/1/715472e1-585b-4379-b335-8f3b5e572d83.jpg?1587911170|"
 "https://scryfall.com/card/4ed/172/word-of-binding?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:871
+#: ../../4ED.rst:875
 msgid "Tap X target creatures."
 msgstr "Zaznacz X wskazanych stworów."
 
-#: ../../4ED.rst:876
+#: ../../4ED.rst:880
 msgid ""
 ":mtgtip:`Xenic Poltergeist<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/a/3/a3c546db-0871-4a13-8654-c26ae9f9b50a.jpg?1559603828|"
 "https://scryfall.com/card/4ed/173/xenic-poltergeist?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:875
+#: ../../4ED.rst:879
 msgid ""
 "|tap|: Until your next upkeep, target noncreature artifact becomes an "
 "artifact creature with power and toughness each equal to its mana value."
 msgstr ""
 
-#: ../../4ED.rst:882
+#: ../../4ED.rst:886
 msgid ""
 ":mtgtip:`Zombie Master<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/d/8/d86753ae-c8da-47d7-b97a-3c75f83ee929.jpg?1559600444|"
 "https://scryfall.com/card/4ed/174/zombie-master?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:879
+#: ../../4ED.rst:883
 msgid ""
 "Other Zombie creatures have swampwalk. (They can't be blocked as long as "
 "defending player controls a Swamp.)"
@@ -2691,29 +2702,29 @@ msgstr ""
 "Inne Zombi mają podbój bagien. (Nie mogą być blokowane o ile broniący się "
 "gracz włada Bagnem.)"
 
-#: ../../4ED.rst:881
+#: ../../4ED.rst:885
 msgid "Other Zombies have \"|mana_b|: Regenerate this permanent.\""
 msgstr "Inne Zombi mają \"|mana_b|: Zregeneruj ten byt.\""
 
-#: ../../4ED.rst:886
+#: ../../4ED.rst:890
 msgid ""
 ":mtgtip:`Ali Baba<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/9/2/92191f72-e3d7-4679-97a2-f0c2d19d7738.jpg?1587911197|https://"
 "scryfall.com/card/4ed/175/ali-baba?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:885
+#: ../../4ED.rst:889
 msgid "|mana_r|: Tap target Wall."
 msgstr ""
 
-#: ../../4ED.rst:894
+#: ../../4ED.rst:898
 msgid ""
 ":mtgtip:`Ball Lightning<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/6/b/6bccf9a0-8d93-4b5e-ada0-1f19f260e5a8.jpg?1559600494|"
 "https://scryfall.com/card/4ed/176/ball-lightning?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:889 ../../4ED.rst:1215 ../../4ED.rst:1525
+#: ../../4ED.rst:893 ../../4ED.rst:1219 ../../4ED.rst:1533
 msgid ""
 "Trample (This creature can deal excess combat damage to the player or "
 "planeswalker it's attacking.)"
@@ -2721,7 +2732,7 @@ msgstr ""
 "Tratowanie (Ten stwór może zadać nadwyżkę obrażeń bojowych atakowanemu "
 "graczowi lub wędrowcowi.)"
 
-#: ../../4ED.rst:891
+#: ../../4ED.rst:895
 msgid ""
 "Haste (This creature can attack and |tap| as soon as it comes under your "
 "control.)"
@@ -2729,52 +2740,52 @@ msgstr ""
 "Pośpiech (Ten stwór może atakować i |tap| od razu po wejściu pod twoje "
 "władanie.)"
 
-#: ../../4ED.rst:893
+#: ../../4ED.rst:897
 msgid "At the beginning of the end step, sacrifice Ball Lightning."
 msgstr "Na początku kroku końcowego, poświęć tego stwora."
 
-#: ../../4ED.rst:898
+#: ../../4ED.rst:902
 msgid ""
 ":mtgtip:`Bird Maiden<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/f/c/fc81a99a-0380-456f-8e81-753add511dbe.jpg?1559601184|https://"
 "scryfall.com/card/4ed/177/bird-maiden?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:902
+#: ../../4ED.rst:906
 msgid ""
 ":mtgtip:`Blood Lust<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/4/2/426e477f-2873-4115-9527-a50a97769dd1.jpg?1559603590|https://"
 "scryfall.com/card/4ed/178/blood-lust?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:901
+#: ../../4ED.rst:905
 msgid ""
 "If target creature has toughness 5 or greater, it gets +4/-4 until end of "
 "turn. Otherwise, it gets +4/-X until end of turn, where X is its toughness "
 "minus 1."
 msgstr ""
 
-#: ../../4ED.rst:906
+#: ../../4ED.rst:910
 msgid ""
 ":mtgtip:`Brothers of Fire<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/6/6/66674f3a-e882-44f1-addc-d74605150c39.jpg?1559603858|"
 "https://scryfall.com/card/4ed/179/brothers-of-fire?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:905
+#: ../../4ED.rst:909
 msgid ""
 "|mana_1|\\ |mana_r|\\ |mana_r|: Brothers of Fire deals 1 damage to any "
 "target and 1 damage to you."
 msgstr ""
 
-#: ../../4ED.rst:912
+#: ../../4ED.rst:916
 msgid ""
 ":mtgtip:`Burrowing<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/9/4/946f1a83-6fcc-45b0-91fc-9c75504a16f3.jpg?1559603824|https://"
 "scryfall.com/card/4ed/180/burrowing?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:911
+#: ../../4ED.rst:915
 msgid ""
 "Enchanted creature has mountainwalk. (It can't be blocked as long as "
 "defending player controls a Mountain.)"
@@ -2782,57 +2793,57 @@ msgstr ""
 "Zauroczony stwór ma podbój gór. (Nie może być blokowany o ile broniący się "
 "gracz włada Górą.)"
 
-#: ../../4ED.rst:918
+#: ../../4ED.rst:922
 msgid ""
 ":mtgtip:`Cave People<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/9/9/99e9ff47-b98c-4ab6-a4bc-8914360c3f6d.jpg?1559603764|https://"
 "scryfall.com/card/4ed/181/cave-people?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:915
+#: ../../4ED.rst:919
 msgid "Whenever Cave People attacks, it gets +1/-2 until end of turn."
 msgstr ""
 
-#: ../../4ED.rst:917
+#: ../../4ED.rst:921
 msgid ""
 "|mana_1|\\ |mana_r|\\ |mana_r|, |tap|: Target creature gains mountainwalk "
 "until end of turn. (It can't be blocked as long as defending player controls "
 "a Mountain.)"
 msgstr ""
 
-#: ../../4ED.rst:922
+#: ../../4ED.rst:926
 msgid ""
 ":mtgtip:`Chaoslace<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/4/7/476180df-8b88-4ead-b6c5-6ccb3e8a2cfd.jpg?1559601269|https://"
 "scryfall.com/card/4ed/182/chaoslace?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:921
+#: ../../4ED.rst:925
 msgid ""
 "Target spell or permanent becomes red. (Its mana symbols remain unchanged.)"
 msgstr ""
 
-#: ../../4ED.rst:928
+#: ../../4ED.rst:932
 msgid ""
 ":mtgtip:`Crimson Manticore<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/c/a/cac8fc5c-368f-4b25-a33e-a32855037c4b.jpg?1559601528|"
 "https://scryfall.com/card/4ed/183/crimson-manticore?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:927
+#: ../../4ED.rst:931
 msgid ""
 "|mana_r|, |tap|: Crimson Manticore deals 1 damage to target attacking or "
 "blocking creature."
 msgstr ""
 
-#: ../../4ED.rst:932
+#: ../../4ED.rst:936
 msgid ""
 ":mtgtip:`Detonate<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/2/6/26e23d23-92ca-4d74-88e8-e1137d7faaf1.jpg?1559603794|https://"
 "scryfall.com/card/4ed/184/detonate?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:931
+#: ../../4ED.rst:935
 msgid ""
 "Destroy target artifact with mana value X. It can't be regenerated. Detonate "
 "deals X damage to that artifact's controller."
@@ -2840,27 +2851,27 @@ msgstr ""
 "Zniszcz wskazany artefakt o skrócie many X. Nie może on zregenerować. Ten "
 "czar zadaje władcy owego artefaktu X obrażeń."
 
-#: ../../4ED.rst:936
+#: ../../4ED.rst:940
 msgid ""
 ":mtgtip:`Disintegrate<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/5/f/5f41f868-454e-4075-9ef4-bcf3754d421c.jpg?1559604248|"
 "https://scryfall.com/card/4ed/185/disintegrate?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:935
+#: ../../4ED.rst:939
 msgid ""
 "Disintegrate deals X damage to any target. If it's a creature, it can't be "
 "regenerated this turn, and if it would die this turn, exile it instead."
 msgstr ""
 
-#: ../../4ED.rst:942
+#: ../../4ED.rst:946
 msgid ""
 ":mtgtip:`Dragon Whelp<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/3/4/349ff6e6-b914-4787-bb90-ea77a3550d23.jpg?1587911210|"
 "https://scryfall.com/card/4ed/186/dragon-whelp?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:941
+#: ../../4ED.rst:945
 msgid ""
 "|mana_r|: Dragon Whelp gets +1/+0 until end of turn. If this ability has "
 "been activated four or more times this turn, sacrifice Dragon Whelp at the "
@@ -2870,71 +2881,71 @@ msgstr ""
 "aktywowana co najmniej cztery razy w tej turze, poświęć tego stwora na "
 "początku najbliższego kroku końcowego."
 
-#: ../../4ED.rst:946
+#: ../../4ED.rst:950
 msgid ""
 ":mtgtip:`Dwarven Warriors<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/3/6/3616f381-ca10-4945-b95e-96dfefa3c303.jpg?1559603774|"
 "https://scryfall.com/card/4ed/187/dwarven-warriors?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:945
+#: ../../4ED.rst:949
 msgid "|tap|: Target creature with power 2 or less can't be blocked this turn."
 msgstr ""
 "|tap|: Wskazany stwór o sile 2 lub mniejszej nie może być blokowany w tej "
 "turze."
 
-#: ../../4ED.rst:948
+#: ../../4ED.rst:952
 msgid ""
 ":mtgtip:`Earth Elemental<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/a/5/a5a859fd-28a3-470f-adf4-c6431ced27e1.jpg?1559600457|"
 "https://scryfall.com/card/4ed/188/earth-elemental?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:954
+#: ../../4ED.rst:958
 msgid ""
 ":mtgtip:`Earthquake<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/1/9/19ec03ce-a8a3-42c3-a895-21cce1657411.jpg?1559604239|https://"
 "scryfall.com/card/4ed/189/earthquake?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:953
+#: ../../4ED.rst:957
 msgid ""
 "Earthquake deals X damage to each creature without flying and each player."
 msgstr ""
 "Ten czar zadaje każdemu stworowi bez latania i każdemu graczowi po X obrażeń."
 
-#: ../../4ED.rst:960
+#: ../../4ED.rst:964
 msgid ""
 ":mtgtip:`Eternal Warrior<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/9/d/9d574075-9909-444a-817f-d6ad419aa62c.jpg?1559604233|"
 "https://scryfall.com/card/4ed/190/eternal-warrior?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:959
+#: ../../4ED.rst:963
 msgid "Enchanted creature has vigilance."
 msgstr ""
 
-#: ../../4ED.rst:962
+#: ../../4ED.rst:966
 msgid ""
 ":mtgtip:`Fire Elemental<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/0/2/0261cd0f-e763-49b5-96ed-5e5767a3d8d7.jpg?1559603855|"
 "https://scryfall.com/card/4ed/191/fire-elemental?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:970
+#: ../../4ED.rst:974
 msgid ""
 ":mtgtip:`Fireball<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/a/f/afe078d7-cdde-44bb-942e-417123ebeccb.jpg?1559603642|https://"
 "scryfall.com/card/4ed/192/fireball?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:967
+#: ../../4ED.rst:971
 msgid ""
 "This spell costs |mana_1| more to cast for each target beyond the first."
 msgstr ""
 "Rzucenie tego czaru kosztuje o |mana_1| więcej za każdy cel poza pierwszym."
 
-#: ../../4ED.rst:969
+#: ../../4ED.rst:973
 msgid ""
 "Fireball deals X damage divided evenly, rounded down, among any number of "
 "targets."
@@ -2942,205 +2953,205 @@ msgstr ""
 "Ten czar zadaje X obrażeń rozdzielonych po równo, zaokrąglając w dół, "
 "pomiędzy dowolną liczbę wskazanych celów."
 
-#: ../../4ED.rst:976
+#: ../../4ED.rst:980
 msgid ""
 ":mtgtip:`Firebreathing<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/2/9/294892cb-3927-4bf0-97ca-f37bdd0b9de5.jpg?1559604224|"
 "https://scryfall.com/card/4ed/193/firebreathing?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:975
+#: ../../4ED.rst:979
 msgid "|mana_r|: Enchanted creature gets +1/+0 until end of turn."
 msgstr "|mana_r|: Zauroczony stwór dostaje do końca tury +1/+0."
 
-#: ../../4ED.rst:980
+#: ../../4ED.rst:984
 msgid ""
 ":mtgtip:`Fissure<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/7/6/7601b15a-53d8-499f-837b-abf369d1e3f4.jpg?1559600459|https://"
 "scryfall.com/card/4ed/194/fissure?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:979
+#: ../../4ED.rst:983
 msgid "Destroy target creature or land. It can't be regenerated."
 msgstr ""
 
-#: ../../4ED.rst:984
+#: ../../4ED.rst:988
 msgid ""
 ":mtgtip:`Flashfires<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/e/d/ed0de18a-1dad-49f1-8127-09aa07b69eb0.jpg?1559604226|https://"
 "scryfall.com/card/4ed/195/flashfires?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:983
+#: ../../4ED.rst:987
 msgid "Destroy all Plains."
 msgstr "Zniszcz wszystkie Równiny."
 
-#: ../../4ED.rst:990
+#: ../../4ED.rst:994
 msgid ""
 ":mtgtip:`Giant Strength<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/f/1/f1aebd61-311c-4269-aa75-5c004639178d.jpg?1559604199|"
 "https://scryfall.com/card/4ed/196/giant-strength?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:989
+#: ../../4ED.rst:993
 msgid "Enchanted creature gets +2/+2."
 msgstr "Zauroczony stwór dostaje +2/+2."
 
-#: ../../4ED.rst:994
+#: ../../4ED.rst:998
 msgid ""
 ":mtgtip:`Goblin Balloon Brigade<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/8/6/866df71c-856c-451d-a11b-c2086c265868.jpg?1595438157|"
 "https://scryfall.com/card/4ed/197/goblin-balloon-brigade?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:993
+#: ../../4ED.rst:997
 msgid "|mana_r|: Goblin Balloon Brigade gains flying until end of turn."
 msgstr "|mana_r|: Ten stwór zyskuje do końca tury latanie."
 
-#: ../../4ED.rst:998
+#: ../../4ED.rst:1002
 msgid ""
 ":mtgtip:`Goblin King<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/9/2/92dd4aef-6d15-4d74-96cf-1cc51812b541.jpg?1559603792|https://"
 "scryfall.com/card/4ed/198/goblin-king?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:997
+#: ../../4ED.rst:1001
 msgid "Other Goblins get +1/+1 and have mountainwalk."
 msgstr "Inne Gobliny dostają +1/+1 i mają podbój gór."
 
-#: ../../4ED.rst:1006
+#: ../../4ED.rst:1010
 msgid ""
 ":mtgtip:`Goblin Rock Sled<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/2/5/25f4f0c1-a43e-4282-b20e-91c711c57521.jpg?1559601325|"
 "https://scryfall.com/card/4ed/199/goblin-rock-sled?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1003
+#: ../../4ED.rst:1007
 msgid ""
 "Goblin Rock Sled doesn't untap during your untap step if it attacked during "
 "your last turn."
 msgstr ""
 
-#: ../../4ED.rst:1005
+#: ../../4ED.rst:1009
 msgid ""
 "Goblin Rock Sled can't attack unless defending player controls a Mountain."
 msgstr ""
 
-#: ../../4ED.rst:1008
+#: ../../4ED.rst:1012
 msgid ""
 ":mtgtip:`Gray Ogre<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/1/1/11bf2cc0-799f-4eb8-b338-ed7543f469e7.jpg?1559604196|https://"
 "scryfall.com/card/4ed/200/gray-ogre?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1012
+#: ../../4ED.rst:1016
 msgid ""
 ":mtgtip:`Hill Giant<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/6/a/6ac25236-c2f2-48df-8dbb-d4f9ce790cfb.jpg?1559603634|https://"
 "scryfall.com/card/4ed/201/hill-giant?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1016
+#: ../../4ED.rst:1020
 msgid ""
 ":mtgtip:`Hurloon Minotaur<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/5/c/5c2c27de-e788-4ad7-b1e3-030e7ef00471.jpg?1559604187|"
 "https://scryfall.com/card/4ed/202/hurloon-minotaur?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1022
+#: ../../4ED.rst:1026
 msgid ""
 ":mtgtip:`Hurr Jackal<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/c/1/c1c0ab2b-04bf-4cba-8efa-3d1d0ab4f50d.jpg?1559604188|https://"
 "scryfall.com/card/4ed/203/hurr-jackal?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1021
+#: ../../4ED.rst:1025
 msgid "|tap|: Target creature can't be regenerated this turn."
 msgstr ""
 
-#: ../../4ED.rst:1028
+#: ../../4ED.rst:1032
 msgid ""
 ":mtgtip:`Immolation<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/f/9/f9dbfdc1-a598-4c72-9b0d-91207bd067ab.jpg?1559603839|https://"
 "scryfall.com/card/4ed/204/immolation?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1027
+#: ../../4ED.rst:1031
 msgid "Enchanted creature gets +2/-2."
 msgstr "Zauroczony stwór dostaje +2/-2."
 
-#: ../../4ED.rst:1032
+#: ../../4ED.rst:1036
 msgid ""
 ":mtgtip:`Inferno<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/3/d/3db90782-fa89-4470-bec5-27614e88a0a9.jpg?1559604184|https://"
 "scryfall.com/card/4ed/205/inferno?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1031
+#: ../../4ED.rst:1035
 msgid "Inferno deals 6 damage to each creature and each player."
 msgstr "Ten czar zadaje każdemu stworowi i każdemu graczowi po 6 obrażeń."
 
-#: ../../4ED.rst:1036
+#: ../../4ED.rst:1040
 msgid ""
 ":mtgtip:`Ironclaw Orcs<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/d/8/d882105f-2de0-46ae-b673-01508c016cc6.jpg?1559604182|"
 "https://scryfall.com/card/4ed/206/ironclaw-orcs?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1035
+#: ../../4ED.rst:1039
 msgid "Ironclaw Orcs can't block creatures with power 2 or greater."
 msgstr ""
 
-#: ../../4ED.rst:1040
+#: ../../4ED.rst:1044
 msgid ""
 ":mtgtip:`Keldon Warlord<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/b/1/b1a32db7-e1a8-47d8-a708-987bcbf0636e.jpg?1559603767|"
 "https://scryfall.com/card/4ed/207/keldon-warlord?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1039
+#: ../../4ED.rst:1043
 msgid ""
 "Keldon Warlord's power and toughness are each equal to the number of non-"
 "Wall creatures you control."
 msgstr ""
 
-#: ../../4ED.rst:1044
+#: ../../4ED.rst:1048
 msgid ""
 ":mtgtip:`Lightning Bolt<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/9/5/9521375e-0bc1-45ef-b513-6d332a25f9d2.jpg?1559604172|"
 "https://scryfall.com/card/4ed/208/lightning-bolt?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1043
+#: ../../4ED.rst:1047
 msgid "Lightning Bolt deals 3 damage to any target."
 msgstr "Ten czar zadaje wskazanemu celowi 3 obrażenia."
 
-#: ../../4ED.rst:1050
+#: ../../4ED.rst:1054
 msgid ""
 ":mtgtip:`Magnetic Mountain<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/9/9/993a14d5-a33d-426e-ab49-c3226a6fcdca.jpg?1559604150|"
 "https://scryfall.com/card/4ed/209/magnetic-mountain?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1047
+#: ../../4ED.rst:1051
 msgid "Blue creatures don't untap during their controllers' untap steps."
 msgstr ""
 
-#: ../../4ED.rst:1049
+#: ../../4ED.rst:1053
 msgid ""
 "At the beginning of each player's upkeep, that player may choose any number "
 "of tapped blue creatures they control and pay |mana_4| for each creature "
 "chosen this way. If the player does, untap those creatures."
 msgstr ""
 
-#: ../../4ED.rst:1054
+#: ../../4ED.rst:1058
 msgid ""
 ":mtgtip:`Mana Clash<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/a/0/a01f27b7-f1d0-4fb6-b743-ca7a810ef85c.jpg?1559603873|https://"
 "scryfall.com/card/4ed/210/mana-clash?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1053
+#: ../../4ED.rst:1057
 msgid ""
 "You and target opponent each flip a coin. Mana Clash deals 1 damage to each "
 "player whose coin comes up tails. Repeat this process until both players' "
@@ -3150,14 +3161,14 @@ msgstr ""
 "obrażenie graczowi, który wyrzucił reszkę. Powtarzaj ten proces do czasu aż "
 "obaj gracze uzyskają orła w tym samym rzucie."
 
-#: ../../4ED.rst:1058
+#: ../../4ED.rst:1062
 msgid ""
 ":mtgtip:`Mana Flare<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/e/7/e7169e26-e700-4e71-b959-4592a03f3c9f.jpg?1559603579|https://"
 "scryfall.com/card/4ed/211/mana-flare?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1057
+#: ../../4ED.rst:1061
 msgid ""
 "Whenever a player taps a land for mana, that player adds one mana of any "
 "type that land produced."
@@ -3165,14 +3176,14 @@ msgstr ""
 "Ilekroć gracz przekręca ląd biorąc manę, ów gracz bierze dodatkowo jedną "
 "manę w typie wyprodukowanym przez ów ląd."
 
-#: ../../4ED.rst:1062
+#: ../../4ED.rst:1066
 msgid ""
 ":mtgtip:`Manabarbs<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/f/f/ffb4f505-bc05-44ac-9190-60101f813c65.jpg?1559601284|https://"
 "scryfall.com/card/4ed/212/manabarbs?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1061
+#: ../../4ED.rst:1065
 msgid ""
 "Whenever a player taps a land for mana, Manabarbs deals 1 damage to that "
 "player."
@@ -3180,59 +3191,59 @@ msgstr ""
 "Ilekroć gracz przekręca ląd pobierając manę, ten urok zadaje owemu graczowi "
 "1 obrażenie."
 
-#: ../../4ED.rst:1064
+#: ../../4ED.rst:1068
 msgid ""
 ":mtgtip:`Mons's Goblin Raiders<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/9/f/9f31c715-9ab8-4578-989f-141099b6750c.jpg?1559603648|"
 "https://scryfall.com/card/4ed/213/monss-goblin-raiders?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1070
+#: ../../4ED.rst:1074
 msgid ""
 ":mtgtip:`Orcish Artillery<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/1/9/19281eb4-f5b6-4b27-8c65-7e56d2a8ab77.jpg?1559604138|"
 "https://scryfall.com/card/4ed/214/orcish-artillery?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1069
+#: ../../4ED.rst:1073
 msgid ""
 "|tap|: Orcish Artillery deals 2 damage to any target and 3 damage to you."
 msgstr ""
 "|tap|: Ten stwór zadaje wskazanemu celowi 2 obrażenia i 3 obrażenia tobie."
 
-#: ../../4ED.rst:1074
+#: ../../4ED.rst:1078
 msgid ""
 ":mtgtip:`Orcish Oriflamme<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/5/6/56cc0d8b-2d4b-4c3b-a9af-b5fae35e6ec5.jpg?1559601836|"
 "https://scryfall.com/card/4ed/215/orcish-oriflamme?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1073
+#: ../../4ED.rst:1077
 msgid "Attacking creatures you control get +1/+0."
 msgstr "Atakujące stwory pod twoim władaniem dostają +1/+0."
 
-#: ../../4ED.rst:1078
+#: ../../4ED.rst:1082
 msgid ""
 ":mtgtip:`Power Surge<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/0/b/0b5717af-a1a3-45cb-8b05-7543eed5532a.jpg?1559604134|https://"
 "scryfall.com/card/4ed/216/power-surge?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1077
+#: ../../4ED.rst:1081
 msgid ""
 "At the beginning of each player's upkeep, Power Surge deals X damage to that "
 "player, where X is the number of untapped lands they controlled at the "
 "beginning of this turn."
 msgstr ""
 
-#: ../../4ED.rst:1082
+#: ../../4ED.rst:1086
 msgid ""
 ":mtgtip:`Pyrotechnics<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/5/e/5e32142d-b161-4497-a6cd-ba4c67e16a6f.jpg?1559600464|"
 "https://scryfall.com/card/4ed/217/pyrotechnics?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1081
+#: ../../4ED.rst:1085
 msgid ""
 "Pyrotechnics deals 4 damage divided as you choose among any number of "
 "targets."
@@ -3240,74 +3251,74 @@ msgstr ""
 "Ten czar zadaje 4 obrażenia rozdzielone według twojego uznania pomiędzy "
 "dowolną liczbę wskazanych celów."
 
-#: ../../4ED.rst:1090
+#: ../../4ED.rst:1094
 msgid ""
 ":mtgtip:`Red Elemental Blast<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/a/5/a54246c9-5e5c-484e-a546-ae1f9fd020f3.jpg?1559603871|"
 "https://scryfall.com/card/4ed/218/red-elemental-blast?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1087
+#: ../../4ED.rst:1091
 msgid "Counter target blue spell."
 msgstr "Skontruj wskazany niebieski czar."
 
-#: ../../4ED.rst:1089
+#: ../../4ED.rst:1093
 msgid "Destroy target blue permanent."
 msgstr "Zniszcz wskazany niebieski byt."
 
-#: ../../4ED.rst:1094
+#: ../../4ED.rst:1098
 msgid ""
 ":mtgtip:`Shatter<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/b/b/bbd44196-aa28-4143-872d-592c6fc175a9.jpg?1559601168|https://"
 "scryfall.com/card/4ed/219/shatter?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1093
+#: ../../4ED.rst:1097
 msgid "Destroy target artifact."
 msgstr "Zniszcz wskazany artefakt."
 
-#: ../../4ED.rst:1100
+#: ../../4ED.rst:1104
 msgid ""
 ":mtgtip:`Shivan Dragon<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/7/0/70846483-9c23-42c4-9f9f-1fc5cda17c77.jpg?1559603732|"
 "https://scryfall.com/card/4ed/220/shivan-dragon?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1099
+#: ../../4ED.rst:1103
 msgid "|mana_r|: Shivan Dragon gets +1/+0 until end of turn."
 msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
 
-#: ../../4ED.rst:1104
+#: ../../4ED.rst:1108
 msgid ""
 ":mtgtip:`Sisters of the Flame<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/a/3/a39ab53c-133a-4211-8499-aea00ed3ee1d.jpg?1559600481|"
 "https://scryfall.com/card/4ed/221/sisters-of-the-flame?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1103
+#: ../../4ED.rst:1107
 msgid "|tap|: Add |mana_r|."
 msgstr "|tap|: Weź |mana_r|."
 
-#: ../../4ED.rst:1108
+#: ../../4ED.rst:1112
 msgid ""
 ":mtgtip:`Smoke<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/"
 "c/2/c2069f9b-578a-45da-bd52-3c208465be88.jpg?1559600484|https://scryfall.com/"
 "card/4ed/222/smoke?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1107
+#: ../../4ED.rst:1111
 msgid "Players can't untap more than one creature during their untap steps."
 msgstr ""
 "Gracze nie mogą w swoim kroku odkręcania odkręcić więcej niż jednego stwora."
 
-#: ../../4ED.rst:1112
+#: ../../4ED.rst:1116
 msgid ""
 ":mtgtip:`Stone Giant<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/2/6/265de55e-63d2-4a5d-9078-858da70f2a08.jpg?1559603911|https://"
 "scryfall.com/card/4ed/223/stone-giant?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1111
+#: ../../4ED.rst:1115
 msgid ""
 "|tap|: Target creature you control with toughness less than Stone Giant's "
 "power gains flying until end of turn. Destroy that creature at the beginning "
@@ -3317,31 +3328,31 @@ msgstr ""
 "niniejszego stwora zyskuje do końca tury latanie. Zniszcz owego stwora na "
 "początku najbliższego kroku końcowego."
 
-#: ../../4ED.rst:1116
+#: ../../4ED.rst:1120
 msgid ""
 ":mtgtip:`Stone Rain<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/b/9/b9029bfb-fcff-4f80-a423-c2cfdc881c61.jpg?1559603905|https://"
 "scryfall.com/card/4ed/224/stone-rain?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1115
+#: ../../4ED.rst:1119
 msgid "Destroy target land."
 msgstr "Zniszcz wskazany ląd."
 
-#: ../../4ED.rst:1122
+#: ../../4ED.rst:1126
 msgid ""
 ":mtgtip:`Tempest Efreet<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/c/2/c2ea6dfe-64d6-451a-bd34-31546996e711.jpg?1559604155|"
 "https://scryfall.com/card/4ed/225/tempest-efreet?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1119
+#: ../../4ED.rst:1123
 msgid ""
 "Remove Tempest Efreet from your deck before playing if you're not playing "
 "for ante."
 msgstr ""
 
-#: ../../4ED.rst:1121
+#: ../../4ED.rst:1125
 msgid ""
 "|tap|, Sacrifice Tempest Efreet: Target opponent may pay 10 life. If that "
 "player doesn't, they reveal a card at random from their hand. Exchange "
@@ -3350,82 +3361,82 @@ msgid ""
 "graveyard. This change in ownership is permanent."
 msgstr ""
 
-#: ../../4ED.rst:1130
+#: ../../4ED.rst:1134
 msgid ""
 ":mtgtip:`The Brute<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/4/b/4b58ca62-6532-45e5-ad51-84a388d5cc4d.jpg?1587911449|https://"
 "scryfall.com/card/4ed/226/the-brute?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1127
+#: ../../4ED.rst:1131
 msgid "Enchanted creature gets +1/+0."
 msgstr "Zauroczony stwór dostaje +1/+0."
 
-#: ../../4ED.rst:1129
+#: ../../4ED.rst:1133
 msgid "|mana_r|\\ |mana_r|\\ |mana_r|: Regenerate enchanted creature."
 msgstr ""
 
-#: ../../4ED.rst:1134
+#: ../../4ED.rst:1138
 msgid ""
 ":mtgtip:`Tunnel<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/9/4/9483f5d0-c627-43ed-bfaa-1559855c8a6d.jpg?1559604123|https://"
 "scryfall.com/card/4ed/227/tunnel?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1133
+#: ../../4ED.rst:1137
 msgid "Destroy target Wall. It can't be regenerated."
 msgstr ""
 
-#: ../../4ED.rst:1138
+#: ../../4ED.rst:1142
 msgid ""
 ":mtgtip:`Uthden Troll<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/2/8/28dea433-2dee-4faf-a868-6af664c6af4a.jpg?1559600387|"
 "https://scryfall.com/card/4ed/228/uthden-troll?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1137
+#: ../../4ED.rst:1141
 msgid "|mana_r|: Regenerate Uthden Troll."
 msgstr ""
 
-#: ../../4ED.rst:1144
+#: ../../4ED.rst:1148
 msgid ""
 ":mtgtip:`Wall of Dust<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/b/2/b25b81fb-1d0f-4c0c-8d54-fbf9c1d54578.jpg?1559603806|"
 "https://scryfall.com/card/4ed/229/wall-of-dust?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1143
+#: ../../4ED.rst:1147
 msgid ""
 "Whenever Wall of Dust blocks a creature, that creature can't attack during "
 "its controller's next turn."
 msgstr ""
 
-#: ../../4ED.rst:1150
+#: ../../4ED.rst:1154
 msgid ""
 ":mtgtip:`Wall of Fire<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/c/c/ccd7753b-0f01-42f3-9a5b-fe1ac6e7441d.jpg?1559600425|"
 "https://scryfall.com/card/4ed/230/wall-of-fire?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1149
+#: ../../4ED.rst:1153
 msgid "|mana_r|: Wall of Fire gets +1/+0 until end of turn."
 msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
 
-#: ../../4ED.rst:1154
+#: ../../4ED.rst:1158
 msgid ""
 ":mtgtip:`Wall of Stone<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/8/c/8c4b68e0-ec8b-4dad-91ee-dc1da5db6251.jpg?1559603807|"
 "https://scryfall.com/card/4ed/231/wall-of-stone?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1158
+#: ../../4ED.rst:1162
 msgid ""
 ":mtgtip:`Winds of Change<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/7/7/77071f4c-d00b-4c79-a2e6-6be0720af36b.jpg?1559600435|"
 "https://scryfall.com/card/4ed/232/winds-of-change?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1157
+#: ../../4ED.rst:1161
 msgid ""
 "Each player shuffles the cards from their hand into their library, then "
 "draws that many cards."
@@ -3433,50 +3444,50 @@ msgstr ""
 "Każdy gracz wtasowuje karty ze swojej ręki do swojej biblioteki, po czym "
 "dobiera tyle samo kart."
 
-#: ../../4ED.rst:1164
+#: ../../4ED.rst:1168
 msgid ""
 ":mtgtip:`Aspect of Wolf<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/5/8/58e780b8-8002-47d4-9d0c-bd65a40ea34e.jpg?1559603874|"
 "https://scryfall.com/card/4ed/233/aspect-of-wolf?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1163
+#: ../../4ED.rst:1167
 msgid ""
 "Enchanted creature gets +X/+Y, where X is half the number of Forests you "
 "control, rounded down, and Y is half the number of Forests you control, "
 "rounded up."
 msgstr ""
 
-#: ../../4ED.rst:1170
+#: ../../4ED.rst:1174
 msgid ""
 ":mtgtip:`Birds of Paradise<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/b/8/b8852e36-204c-4b3a-a4f8-33a98548fa7b.jpg?1559603821|"
 "https://scryfall.com/card/4ed/234/birds-of-paradise?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1169
+#: ../../4ED.rst:1173
 msgid "|tap|: Add one mana of any color."
 msgstr "|tap|: Weź jedną manę dowolnego koloru."
 
-#: ../../4ED.rst:1174
+#: ../../4ED.rst:1178
 msgid ""
 ":mtgtip:`Carnivorous Plant<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/6/f/6f449835-5e20-4244-b7f4-c22838910076.jpg?1559604212|"
 "https://scryfall.com/card/4ed/235/carnivorous-plant?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1173
+#: ../../4ED.rst:1177
 msgid "Defender"
 msgstr "Obronność"
 
-#: ../../4ED.rst:1178
+#: ../../4ED.rst:1182
 msgid ""
 ":mtgtip:`Channel<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/e/4/e42eb95f-638d-410c-a830-a414fb2494ec.jpg?1559603784|https://"
 "scryfall.com/card/4ed/236/channel?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1177
+#: ../../4ED.rst:1181
 msgid ""
 "Until end of turn, any time you could activate a mana ability, you may pay 1 "
 "life. If you do, add |colorless|."
@@ -3484,34 +3495,34 @@ msgstr ""
 "Do końca tury, kiedykolwiek mógłbyś aktywować zdolność dającą manę, możesz "
 "zapłacić 1 życie. Jeśli tak zrobisz, weź |colorless|."
 
-#: ../../4ED.rst:1184
+#: ../../4ED.rst:1188
 msgid ""
 ":mtgtip:`Cockatrice<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/3/4/3406dfe1-68e9-4757-9487-0b556c97d07a.jpg?1559604108|https://"
 "scryfall.com/card/4ed/237/cockatrice?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1183
+#: ../../4ED.rst:1187
 msgid ""
 "Whenever Cockatrice blocks or becomes blocked by a non-Wall creature, "
 "destroy that creature at end of combat."
 msgstr ""
 
-#: ../../4ED.rst:1186
+#: ../../4ED.rst:1190
 msgid ""
 ":mtgtip:`Craw Wurm<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/5/7/57e9cf07-a335-4725-a124-0e983721f2f8.jpg?1559604202|https://"
 "scryfall.com/card/4ed/238/craw-wurm?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1192
+#: ../../4ED.rst:1196
 msgid ""
 ":mtgtip:`Crumble<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/8/6/86873be9-21eb-496c-b278-4c9847563b0f.jpg?1559600992|https://"
 "scryfall.com/card/4ed/239/crumble?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1191
+#: ../../4ED.rst:1195
 msgid ""
 "Destroy target artifact. It can't be regenerated. That artifact's controller "
 "gains life equal to its mana value."
@@ -3519,65 +3530,65 @@ msgstr ""
 "Zniszcz wskazany artefakt. Nie może on zregenerować. Władca owego artefaktu "
 "zyskuje życia równej jego skrótowi many."
 
-#: ../../4ED.rst:1196
+#: ../../4ED.rst:1200
 msgid ""
 ":mtgtip:`Desert Twister<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/5/6/5603ce3f-3b39-4433-8ccf-44b44dc99de5.jpg?1559603746|"
 "https://scryfall.com/card/4ed/240/desert-twister?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1195
+#: ../../4ED.rst:1199
 msgid "Destroy target permanent."
 msgstr "Zniszcz wskazany byt."
 
-#: ../../4ED.rst:1198
+#: ../../4ED.rst:1202
 msgid ""
 ":mtgtip:`Durkwood Boars<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/e/8/e85ab895-d2b9-47f5-91f0-07b0cb43fc7c.jpg?1559600456|"
 "https://scryfall.com/card/4ed/241/durkwood-boars?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1204
+#: ../../4ED.rst:1208
 msgid ""
 ":mtgtip:`Elven Riders<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/9/0/906095f6-25c7-4f61-8513-9d75e32aab02.jpg?1559603595|"
 "https://scryfall.com/card/4ed/242/elven-riders?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1203
+#: ../../4ED.rst:1207
 msgid ""
 "Elven Riders can't be blocked except by Walls and/or creatures with flying."
 msgstr ""
 "Ten stwór nie może być blokowany, chyba że przez Ściany i/lub stwory z "
 "lataniem."
 
-#: ../../4ED.rst:1208
+#: ../../4ED.rst:1212
 msgid ""
 ":mtgtip:`Elvish Archers<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/e/f/efd21750-856f-4017-a728-dcbf3f506f20.jpg?1559603645|"
 "https://scryfall.com/card/4ed/243/elvish-archers?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1212
+#: ../../4ED.rst:1216
 msgid ""
 ":mtgtip:`Fog<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/"
 "a/1/a1959de7-e945-438c-a90a-158e21c4d5bf.jpg?1559603809|https://scryfall.com/"
 "card/4ed/244/fog?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1211
+#: ../../4ED.rst:1215
 msgid "Prevent all combat damage that would be dealt this turn."
 msgstr ""
 "Zażegnaj wszystkie obrażenia bojowe, jakie mogłyby zostać zadane w tej turze."
 
-#: ../../4ED.rst:1218
+#: ../../4ED.rst:1222
 msgid ""
 ":mtgtip:`Force of Nature<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/c/c/ccef1a44-faf8-42bd-aaff-778f65d18ae9.jpg?1559603856|"
 "https://scryfall.com/card/4ed/245/force-of-nature?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1217
+#: ../../4ED.rst:1221
 msgid ""
 "At the beginning of your upkeep, Force of Nature deals 8 damage to you "
 "unless you pay |mana_g|\\ |mana_g|\\ |mana_g|\\ |mana_g|."
@@ -3585,25 +3596,25 @@ msgstr ""
 "Na początku twojego kroku utrzymania, ten stwór zadaje tobie 8 obrażeń, "
 "chyba że zapłacisz |mana_g|\\ |mana_g|\\ |mana_g|\\ |mana_g|."
 
-#: ../../4ED.rst:1222
+#: ../../4ED.rst:1226
 msgid ""
 ":mtgtip:`Fungusaur<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/7/d/7d9ff903-176f-45e7-82fd-e9705c1c719f.jpg?1559603747|https://"
 "scryfall.com/card/4ed/246/fungusaur?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1221
+#: ../../4ED.rst:1225
 msgid "Whenever Fungusaur is dealt damage, put a +1/+1 counter on it."
 msgstr "Ilekroć ten stwór otrzyma obrażenia, umieść na nim znacznik +1/+1."
 
-#: ../../4ED.rst:1228
+#: ../../4ED.rst:1232
 msgid ""
 ":mtgtip:`Gaea's Liege<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/4/d/4d9e1c1b-bc7c-41b8-a983-b1c60f558547.jpg?1559603749|"
 "https://scryfall.com/card/4ed/247/gaeas-liege?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1225
+#: ../../4ED.rst:1229
 msgid ""
 "As long as Gaea's Liege isn't attacking, its power and toughness are each "
 "equal to the number of Forests you control. As long as Gaea's Liege is "
@@ -3611,246 +3622,259 @@ msgid ""
 "defending player controls."
 msgstr ""
 
-#: ../../4ED.rst:1227
+#: ../../4ED.rst:1231
 msgid ""
 "|tap|: Target land becomes a Forest until Gaea's Liege leaves the "
 "battlefield."
 msgstr ""
 
-#: ../../4ED.rst:1232
+#: ../../4ED.rst:1236
 msgid ""
 ":mtgtip:`Giant Growth<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/c/6/c6ce96a5-76f1-48ca-854d-a37fb6a023a0.jpg?1559603830|"
 "https://scryfall.com/card/4ed/248/giant-growth?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1231
+#: ../../4ED.rst:1235
 msgid "Target creature gets +3/+3 until end of turn."
 msgstr "Wskazany stwór dostaje do końca tury +3/+3."
 
-#: ../../4ED.rst:1236
+#: ../../4ED.rst:1240
 msgid ""
 ":mtgtip:`Giant Spider<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/9/d/9dd711db-661d-4e2c-b817-0905e26ed929.jpg?1559604200|"
 "https://scryfall.com/card/4ed/249/giant-spider?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1235
+#: ../../4ED.rst:1239
 msgid "Reach (This creature can block creatures with flying.)"
 msgstr "Zasięg (Ten stwór może blokować stwory mające latanie.)"
 
-#: ../../4ED.rst:1238
+#: ../../4ED.rst:1242
 msgid ""
 ":mtgtip:`Grizzly Bears<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/3/8/38fc72de-2093-477b-b39e-696339d2fdbc.jpg?1559603888|"
 "https://scryfall.com/card/4ed/250/grizzly-bears?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1244
+#: ../../4ED.rst:1248
 msgid ""
 ":mtgtip:`Hurricane<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/8/4/8457f271-4075-4694-a1c0-280aff910953.jpg?1559603738|https://"
 "scryfall.com/card/4ed/251/hurricane?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1243
+#: ../../4ED.rst:1247
 msgid "Hurricane deals X damage to each creature with flying and each player."
 msgstr ""
 "Ten czar zadaje każdemu stworowi z lataniem i każdemu graczowi po X obrażeń."
 
-#: ../../4ED.rst:1252
+#: ../../4ED.rst:1256
 msgid ""
 ":mtgtip:`Instill Energy<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/0/e/0eeb4671-e6f6-4f64-83f8-8c2a56defa1b.jpg?1559603840|"
 "https://scryfall.com/card/4ed/252/instill-energy?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1249
+#: ../../4ED.rst:1253
 msgid "Enchanted creature can attack as though it had haste."
 msgstr ""
 
-#: ../../4ED.rst:1251
+#: ../../4ED.rst:1255
 msgid ""
 "|mana_0|: Untap enchanted creature. Activate only during your turn and only "
 "once each turn."
 msgstr ""
 
-#: ../../4ED.rst:1254
+#: ../../4ED.rst:1258
 msgid ""
 ":mtgtip:`Ironroot Treefolk<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/c/6/c6c93c85-5263-4770-b937-704e57912478.jpg?1559604185|"
 "https://scryfall.com/card/4ed/253/ironroot-treefolk?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1262
+#: ../../4ED.rst:1266
 msgid ""
 ":mtgtip:`Killer Bees<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/e/4/e4e748b0-4041-4266-a777-e1b8a5533e80.jpg?1559603861|https://"
 "scryfall.com/card/4ed/254/killer-bees?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1261
+#: ../../4ED.rst:1265
 msgid "|mana_g|: Killer Bees gets +1/+1 until end of turn."
 msgstr ""
 
-#: ../../4ED.rst:1266
+#: ../../4ED.rst:1270
 msgid ""
 ":mtgtip:`Land Leeches<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/7/1/71f1d97c-5bfa-4791-9004-5f2464908c30.jpg?1559601433|"
 "https://scryfall.com/card/4ed/255/land-leeches?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1270
+#: ../../4ED.rst:1274
 msgid ""
 ":mtgtip:`Ley Druid<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/9/2/925adfb2-cfe3-4847-9db0-20bbe4e7baf1.jpg?1559604178|https://"
 "scryfall.com/card/4ed/256/ley-druid?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1269
+#: ../../4ED.rst:1273
 msgid "|tap|: Untap target land."
 msgstr "|tap|: Odkręć wskazany ląd."
 
-#: ../../4ED.rst:1274
+#: ../../4ED.rst:1278
 msgid ""
 ":mtgtip:`Lifeforce<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/e/1/e1ca1cc3-e588-4ef7-b846-d5dba3c875a0.jpg?1559603614|https://"
 "scryfall.com/card/4ed/257/lifeforce?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1273
+#: ../../4ED.rst:1277
 msgid "|mana_g|\\ |mana_g|: Counter target black spell."
 msgstr ""
 
-#: ../../4ED.rst:1278
+#: ../../4ED.rst:1282
 msgid ""
 ":mtgtip:`Lifelace<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/b/f/bf312acb-2fa6-440a-964b-424ad8abc331.jpg?1559601333|https://"
 "scryfall.com/card/4ed/258/lifelace?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1277
+#: ../../4ED.rst:1281
 msgid ""
 "Target spell or permanent becomes green. (Mana symbols on that permanent "
 "remain unchanged.)"
 msgstr ""
 
-#: ../../4ED.rst:1286
+#: ../../4ED.rst:1290
 msgid ""
 ":mtgtip:`Living Artifact<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/2/c/2cbe717c-313c-4a8c-85a5-d23d3796ff26.jpg?1559601475|"
 "https://scryfall.com/card/4ed/259/living-artifact?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1283
+#: ../../4ED.rst:1287
 msgid ""
 "Whenever you're dealt damage, put that many vitality counters on Living "
 "Artifact."
 msgstr ""
 
-#: ../../4ED.rst:1285
+#: ../../4ED.rst:1289
 msgid ""
 "At the beginning of your upkeep, you may remove a vitality counter from "
 "Living Artifact. If you do, you gain 1 life."
 msgstr ""
 
-#: ../../4ED.rst:1290
+#: ../../4ED.rst:1294
 msgid ""
 ":mtgtip:`Living Lands<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/3/6/36d5c0df-3db4-4e2d-9688-223383e02b02.jpg?1559604173|"
 "https://scryfall.com/card/4ed/260/living-lands?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1289
+#: ../../4ED.rst:1293
 msgid "All Forests are 1/1 creatures that are still lands."
 msgstr "Wszystkie Kasy są stworami 1/1 pozostając lądami."
 
-#: ../../4ED.rst:1294
+#: ../../4ED.rst:1298
 msgid ""
 ":mtgtip:`Llanowar Elves<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/7/5/75d972d7-5ed9-49c1-8d27-ec162771284d.jpg?1559604175|"
 "https://scryfall.com/card/4ed/261/llanowar-elves?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1293
+#: ../../4ED.rst:1297
 msgid "|tap|: Add |mana_g|."
 msgstr "|tap|: Weź |mana_g|."
 
-#: ../../4ED.rst:1300
+#: ../../4ED.rst:1304
 msgid ""
 ":mtgtip:`Lure<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/7/a/7abc17aa-8f6b-4156-b148-fc049e1d316a.jpg?1559603815|https://"
 "scryfall.com/card/4ed/262/lure?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1299
+#: ../../4ED.rst:1303
 msgid "All creatures able to block enchanted creature do so."
 msgstr "Wszystkie stwory mogące blokować zauroczonego stwora, robią to."
 
-#: ../../4ED.rst:1304
+#: ../../4ED.rst:1308
 msgid ""
 ":mtgtip:`Marsh Viper<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/1/6/16524bd2-0d88-451c-a394-7d5fe204dfc6.jpg?1559604147|https://"
 "scryfall.com/card/4ed/263/marsh-viper?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1303
+#: ../../4ED.rst:1307
 msgid ""
 "Whenever Marsh Viper deals damage to a player, that player gets two poison "
 "counters. (A player with ten or more poison counters loses the game.)"
 msgstr ""
 
-#: ../../4ED.rst:1308
+#: ../../4ED.rst:1312
 msgid ""
 ":mtgtip:`Nafs Asp<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/0/d/0db4a4ef-20a8-415f-8d7d-a6740b482f73.jpg?1559600642|https://"
 "scryfall.com/card/4ed/264/nafs-asp?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1307
+#: ../../4ED.rst:1311
 msgid ""
 "Whenever Nafs Asp deals damage to a player, that player loses 1 life at the "
 "beginning of their next draw step unless they pay |mana_1| before that draw "
 "step."
 msgstr ""
 
-#: ../../4ED.rst:1312
+#: ../../4ED.rst:1316
+msgid ""
+":mtgtip:`Pradesh Gypsies<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/2/3/2338aeec-63f6-4cc1-833e-77d44994a7ca.jpg?1559603845|"
+"https://scryfall.com/card/4ed/265/pradesh-gypsies?utm_source=api>`"
+msgstr ""
+
+#: ../../4ED.rst:1315
+msgid ""
+"|mana_1|\\ |mana_g|, |tap|: Target creature gets -2/-0 until end of turn."
+msgstr ""
+"|mana_1|\\ |mana_g|, |tap|: Wskazany stwór dostaje do końca tury -2/-0."
+
+#: ../../4ED.rst:1320
 msgid ""
 ":mtgtip:`Radjan Spirit<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/5/0/504e4e18-a70c-47d6-8331-2ca3c6210a98.jpg?1559603791|"
 "https://scryfall.com/card/4ed/266/radjan-spirit?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1311
+#: ../../4ED.rst:1319
 msgid "|tap|: Target creature loses flying until end of turn."
 msgstr "|tap|: Wskazany stwór traci do końca tury latanie."
 
-#: ../../4ED.rst:1318
+#: ../../4ED.rst:1326
 msgid ""
 ":mtgtip:`Rebirth<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/2/7/27c01d57-2bd4-433e-bea7-1acc70d14be3.jpg?1559604104|https://"
 "scryfall.com/card/4ed/267/rebirth?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1315
+#: ../../4ED.rst:1323
 msgid ""
 "Remove Rebirth from your deck before playing if you're not playing for ante."
 msgstr ""
 
-#: ../../4ED.rst:1317
+#: ../../4ED.rst:1325
 msgid ""
 "Each player may ante the top card of their library. If a player does, that "
 "player's life total becomes 20."
 msgstr ""
 
-#: ../../4ED.rst:1324
+#: ../../4ED.rst:1332
 msgid ""
 ":mtgtip:`Regeneration<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/5/6/5697b2e7-25c5-4ae0-a9ac-48cbc6a94c15.jpg?1559603611|"
 "https://scryfall.com/card/4ed/268/regeneration?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1323
+#: ../../4ED.rst:1331
 msgid ""
 "|mana_g|: Regenerate enchanted creature. (The next time that creature would "
 "be destroyed this turn, it isn't. Instead tap it, remove all damage from it, "
@@ -3860,32 +3884,32 @@ msgstr ""
 "miałby zostać zniszczony w tej turze, nie jest. Zamiast tego przekręć go, "
 "usuń z niego wszystkie obrażenia i usuń go z potyczki.)"
 
-#: ../../4ED.rst:1328
+#: ../../4ED.rst:1336
 msgid ""
 ":mtgtip:`Sandstorm<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/c/a/ca9af432-3997-426a-b532-52333c3c50c4.jpg?1559603608|https://"
 "scryfall.com/card/4ed/269/sandstorm?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1327
+#: ../../4ED.rst:1335
 msgid "Sandstorm deals 1 damage to each attacking creature."
 msgstr ""
 
-#: ../../4ED.rst:1332
+#: ../../4ED.rst:1340
 msgid ""
 ":mtgtip:`Scryb Sprites<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/2/8/281e8da8-1383-460e-b74e-ad56f1b6d007.jpg?1559604167|"
 "https://scryfall.com/card/4ed/270/scryb-sprites?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1336
+#: ../../4ED.rst:1344
 msgid ""
 ":mtgtip:`Shanodin Dryads<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/8/d/8d8f8c01-6f1c-4902-a7fd-c9cf04b28461.jpg?1559600476|"
 "https://scryfall.com/card/4ed/271/shanodin-dryads?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1335
+#: ../../4ED.rst:1343
 msgid ""
 "Forestwalk (This creature can't be blocked as long as defending player "
 "controls a Forest.)"
@@ -3893,21 +3917,21 @@ msgstr ""
 "Podbój lasów (Ten stwór nie może być blokowany o ile broniący się gracz "
 "włada Lasem.)"
 
-#: ../../4ED.rst:1340
+#: ../../4ED.rst:1348
 msgid ""
 ":mtgtip:`Stream of Life<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/c/a/ca367627-9be3-4e80-a214-0b3f0f2ab867.jpg?1559604160|"
 "https://scryfall.com/card/4ed/272/stream-of-life?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1344
+#: ../../4ED.rst:1352
 msgid ""
 ":mtgtip:`Sylvan Library<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/b/1/b1a9682c-ecca-4caa-9e5a-17874167082b.jpg?1559603775|"
 "https://scryfall.com/card/4ed/273/sylvan-library?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1343
+#: ../../4ED.rst:1351
 msgid ""
 "At the beginning of your draw step, you may draw two additional cards. If "
 "you do, choose two cards in your hand drawn this turn. For each of those "
@@ -3917,14 +3941,14 @@ msgstr ""
 "Jeśli tak zrobisz, wybierz dwie karty dobrane w tej turze w twojej ręce. Za "
 "każdą z nich zapłać 4 życia lub umieść ją na wierzchu twojej biblioteki."
 
-#: ../../4ED.rst:1348
+#: ../../4ED.rst:1356
 msgid ""
 ":mtgtip:`Thicket Basilisk<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/c/6/c63c16a5-588e-4ef1-9e79-4d36127cd84b.jpg?1559600491|"
 "https://scryfall.com/card/4ed/274/thicket-basilisk?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1347
+#: ../../4ED.rst:1355
 msgid ""
 "Whenever Thicket Basilisk blocks or becomes blocked by a non-Wall creature, "
 "destroy that creature at end of combat."
@@ -3932,57 +3956,57 @@ msgstr ""
 "Ilekroć ten stwór zablokuje lub zostanie zablokowany przez stwora bez typu "
 "Ściana, zniszcz owego stwora na końcu potyczki."
 
-#: ../../4ED.rst:1352
+#: ../../4ED.rst:1360
 msgid ""
 ":mtgtip:`Timber Wolves<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/d/8/d8f84fc8-69b4-4756-9634-4d6c17ec88a1.jpg?1559600380|"
 "https://scryfall.com/card/4ed/275/timber-wolves?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1356
+#: ../../4ED.rst:1364
 msgid ""
 ":mtgtip:`Titania's Song<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/1/9/19dd44e3-d62c-405d-a620-7dc871eef81c.jpg?1559600383|"
 "https://scryfall.com/card/4ed/276/titanias-song?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1355
+#: ../../4ED.rst:1363
 msgid ""
 "Each noncreature artifact loses all abilities and becomes an artifact "
 "creature with power and toughness each equal to its mana value. If Titania's "
 "Song leaves the battlefield, this effect continues until end of turn."
 msgstr ""
 
-#: ../../4ED.rst:1360
+#: ../../4ED.rst:1368
 msgid ""
 ":mtgtip:`Tranquility<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/b/1/b1c8b995-f3d9-435a-8360-4047a619b23b.jpg?1559603797|https://"
 "scryfall.com/card/4ed/277/tranquility?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1359
+#: ../../4ED.rst:1367
 msgid "Destroy all enchantments."
 msgstr "Zniszcz wszystkie uroki."
 
-#: ../../4ED.rst:1364
+#: ../../4ED.rst:1372
 msgid ""
 ":mtgtip:`Tsunami<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/2/2/227c2abc-d484-4198-863c-3266a83249c6.jpg?1559604094|https://"
 "scryfall.com/card/4ed/278/tsunami?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1363
+#: ../../4ED.rst:1371
 msgid "Destroy all Islands."
 msgstr "Zniszcz wszystkie Wyspy."
 
-#: ../../4ED.rst:1368
+#: ../../4ED.rst:1376
 msgid ""
 ":mtgtip:`Untamed Wilds<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/d/e/de2d276d-7a73-4a8f-9803-a37301bc2905.jpg?1559600386|"
 "https://scryfall.com/card/4ed/279/untamed-wilds?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1367
+#: ../../4ED.rst:1375
 msgid ""
 "Search your library for a basic land card, put that card onto the "
 "battlefield, then shuffle."
@@ -3990,83 +4014,83 @@ msgstr ""
 "Wyszukaj w twojej bibliotece kartę bazowego lądu i umieść ją przekręconą na "
 "polu bitwy. Następnie przetasuj."
 
-#: ../../4ED.rst:1374
+#: ../../4ED.rst:1382
 msgid ""
 ":mtgtip:`Venom<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/"
 "c/7/c7a314a0-14cb-4df1-8f2f-653455f13b09.jpg?1559603639|https://scryfall.com/"
 "card/4ed/280/venom?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1373
+#: ../../4ED.rst:1381
 msgid ""
 "Whenever enchanted creature blocks or becomes blocked by a non-Wall "
 "creature, destroy the other creature at end of combat."
 msgstr ""
 
-#: ../../4ED.rst:1378
+#: ../../4ED.rst:1386
 msgid ""
 ":mtgtip:`Verduran Enchantress<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/9/6/96e30d22-da86-49a1-a319-22e8a909d443.jpg?1559603637|"
 "https://scryfall.com/card/4ed/281/verduran-enchantress?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1377
+#: ../../4ED.rst:1385
 msgid "Whenever you cast an enchantment spell, you may draw a card."
 msgstr "Ilekroć rzucisz czar uroku, możesz dobrać kartę."
 
-#: ../../4ED.rst:1384
+#: ../../4ED.rst:1392
 msgid ""
 ":mtgtip:`Wall of Brambles<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/b/b/bbd66c7c-19fb-4daa-996e-70107d732732.jpg?1587911456|"
 "https://scryfall.com/card/4ed/282/wall-of-brambles?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1383
+#: ../../4ED.rst:1391
 msgid "|mana_g|: Regenerate Wall of Brambles."
 msgstr ""
 
-#: ../../4ED.rst:1388
+#: ../../4ED.rst:1396
 msgid ""
 ":mtgtip:`Wall of Ice<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/d/7/d702bd22-6079-4f4c-9540-42cf2a29f4a3.jpg?1587911466|https://"
 "scryfall.com/card/4ed/283/wall-of-ice?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1392
+#: ../../4ED.rst:1400
 msgid ""
 ":mtgtip:`Wall of Wood<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/3/9/39f236da-8391-487b-88d4-a45342bfff62.jpg?1559600431|"
 "https://scryfall.com/card/4ed/284/wall-of-wood?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1398
+#: ../../4ED.rst:1406
 msgid ""
 ":mtgtip:`Wanderlust<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/f/4/f4144ca4-4817-4bb9-929b-613fc609bdb5.jpg?1559603907|https://"
 "scryfall.com/card/4ed/285/wanderlust?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1397
+#: ../../4ED.rst:1405
 msgid ""
 "At the beginning of the upkeep of enchanted creature's controller, "
 "Wanderlust deals 1 damage to that player."
 msgstr ""
 
-#: ../../4ED.rst:1402
+#: ../../4ED.rst:1410
 msgid ""
 ":mtgtip:`War Mammoth<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/2/1/2137757c-161c-4a3b-9a99-0fd23aa0c847.jpg?1559603795|https://"
 "scryfall.com/card/4ed/286/war-mammoth?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1408
+#: ../../4ED.rst:1416
 msgid ""
 ":mtgtip:`Web<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/0/5/0547a390-ceee-4b8a-9d0e-36d8778ec693.jpg?1559604118|https://"
 "scryfall.com/card/4ed/287/web?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1407
+#: ../../4ED.rst:1415
 msgid ""
 "Enchanted creature gets +0/+2 and has reach. (It can block creatures with "
 "flying.)"
@@ -4074,31 +4098,31 @@ msgstr ""
 "Zauroczony stwór dostaje +0/+2 i ma zasięg. (Może blokować stwory mające "
 "latanie.)"
 
-#: ../../4ED.rst:1414
+#: ../../4ED.rst:1422
 msgid ""
 ":mtgtip:`Whirling Dervish<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/b/0/b0f4724e-f22e-4156-97fd-1adfccc47be3.jpg?1559604117|"
 "https://scryfall.com/card/4ed/288/whirling-dervish?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1411
+#: ../../4ED.rst:1419
 msgid "Protection from black"
 msgstr "Ochrona przed czarnym"
 
-#: ../../4ED.rst:1413
+#: ../../4ED.rst:1421
 msgid ""
 "At the beginning of each end step, if Whirling Dervish dealt damage to an "
 "opponent this turn, put a +1/+1 counter on it."
 msgstr ""
 
-#: ../../4ED.rst:1420
+#: ../../4ED.rst:1428
 msgid ""
 ":mtgtip:`Wild Growth<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/4/a/4aea57a2-2753-4014-9724-2701455a6be8.jpg?1559603831|https://"
 "scryfall.com/card/4ed/289/wild-growth?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1419
+#: ../../4ED.rst:1427
 msgid ""
 "Whenever enchanted land is tapped for mana, its controller adds an "
 "additional |mana_g|."
@@ -4106,65 +4130,65 @@ msgstr ""
 "Ilekroć zauroczony ląd jest przekręcany przy pobieraniu many, jego władca "
 "bierze dodatkowo |mana_g|."
 
-#: ../../4ED.rst:1424
+#: ../../4ED.rst:1432
 msgid ""
 ":mtgtip:`Winter Blast<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/3/d/3d4f72de-51e9-45c2-853b-1b6668416417.jpg?1559604115|"
 "https://scryfall.com/card/4ed/290/winter-blast?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1423
+#: ../../4ED.rst:1431
 msgid ""
 "Tap X target creatures. Winter Blast deals 2 damage to each of those "
 "creatures with flying."
 msgstr ""
 
-#: ../../4ED.rst:1428
+#: ../../4ED.rst:1436
 msgid ""
 ":mtgtip:`Aladdin's Lamp<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/4/2/42e7cf40-c136-4fcb-a947-558b713b39f6.jpg?1559603908|"
 "https://scryfall.com/card/4ed/291/aladdins-lamp?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1427
+#: ../../4ED.rst:1435
 msgid ""
 "|mana_x|, |tap|: The next time you would draw a card this turn, instead look "
 "at the top X cards of your library, put all but one of them on the bottom of "
 "your library in a random order, then draw a card. X can't be 0."
 msgstr ""
 
-#: ../../4ED.rst:1432
+#: ../../4ED.rst:1440
 msgid ""
 ":mtgtip:`Aladdin's Ring<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/d/9/d9907bbb-12aa-4826-9a65-b2ddda5fc1e2.jpg?1559603658|"
 "https://scryfall.com/card/4ed/292/aladdins-ring?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1431
+#: ../../4ED.rst:1439
 msgid "|mana_8|, |tap|: Aladdin's Ring deals 4 damage to any target."
 msgstr "|mana_8|, |tap|: Ten artefakt zadaje wskazanemu celowi 4 obrażenia."
 
-#: ../../4ED.rst:1436
+#: ../../4ED.rst:1444
 msgid ""
 ":mtgtip:`Amulet of Kroog<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/3/f/3fc1716d-5817-49f4-a9db-c162e6ceacbf.jpg?1559604254|"
 "https://scryfall.com/card/4ed/293/amulet-of-kroog?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1435
+#: ../../4ED.rst:1443
 msgid ""
 "|mana_2|, |tap|: Prevent the next 1 damage that would be dealt to any target "
 "this turn."
 msgstr ""
 
-#: ../../4ED.rst:1440
+#: ../../4ED.rst:1448
 msgid ""
 ":mtgtip:`Ankh of Mishra<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/4/4/44135b17-69e7-4002-a6e0-d76f4c0c423b.jpg?1559603663|"
 "https://scryfall.com/card/4ed/294/ankh-of-mishra?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1439
+#: ../../4ED.rst:1447
 msgid ""
 "Whenever a land enters the battlefield, Ankh of Mishra deals 2 damage to "
 "that land's controller."
@@ -4172,56 +4196,56 @@ msgstr ""
 "Ilekroć ląd wejdzie na pole bitwy, ten artefakt zadaje władcy owego lądu 2 "
 "obrażenia."
 
-#: ../../4ED.rst:1448
+#: ../../4ED.rst:1456
 msgid ""
 ":mtgtip:`Armageddon Clock<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/2/f/2fa3fe10-0f6e-4b7f-98fc-3a21c399c38a.jpg?1559604220|"
 "https://scryfall.com/card/4ed/295/armageddon-clock?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1443
+#: ../../4ED.rst:1451
 msgid ""
 "At the beginning of your upkeep, put a doom counter on Armageddon Clock."
 msgstr ""
 
-#: ../../4ED.rst:1445
+#: ../../4ED.rst:1453
 msgid ""
 "At the beginning of your draw step, Armageddon Clock deals damage equal to "
 "the number of doom counters on it to each player."
 msgstr ""
 
-#: ../../4ED.rst:1447
+#: ../../4ED.rst:1455
 msgid ""
 "|mana_4|: Remove a doom counter from Armageddon Clock. Any player may "
 "activate this ability but only during any upkeep step."
 msgstr ""
 
-#: ../../4ED.rst:1454
+#: ../../4ED.rst:1462
 msgid ""
 ":mtgtip:`Ashnod's Battle Gear<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/0/b/0bc11285-0891-4cc3-a056-b698911166c7.jpg?1559603843|"
 "https://scryfall.com/card/4ed/296/ashnods-battle-gear?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1451
+#: ../../4ED.rst:1459
 msgid ""
 "You may choose not to untap Ashnod's Battle Gear during your untap step."
 msgstr ""
 
-#: ../../4ED.rst:1453
+#: ../../4ED.rst:1461
 msgid ""
 "|mana_2|, |tap|: Target creature you control gets +2/-2 for as long as "
 "Ashnod's Battle Gear remains tapped."
 msgstr ""
 
-#: ../../4ED.rst:1460
+#: ../../4ED.rst:1468
 msgid ""
 ":mtgtip:`Battering Ram<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/e/b/ebf5ea1c-0ea7-4b84-b886-ebd346f4e154.jpg?1559604218|"
 "https://scryfall.com/card/4ed/297/battering-ram?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1457
+#: ../../4ED.rst:1465
 msgid ""
 "At the beginning of combat on your turn, Battering Ram gains banding until "
 "end of combat. (Any creatures with banding, and up to one without, can "
@@ -4231,73 +4255,73 @@ msgid ""
 "it's blocking.)"
 msgstr ""
 
-#: ../../4ED.rst:1459
+#: ../../4ED.rst:1467
 msgid ""
 "Whenever Battering Ram becomes blocked by a Wall, destroy that Wall at end "
 "of combat."
 msgstr ""
 
-#: ../../4ED.rst:1466
+#: ../../4ED.rst:1474
 msgid ""
 ":mtgtip:`Black Mana Battery<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/a/8/a81f7a0f-183f-438b-b252-738d8d30c245.jpg?1559601189|"
 "https://scryfall.com/card/4ed/298/black-mana-battery?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1463
+#: ../../4ED.rst:1471
 msgid "|mana_2|, |tap|: Put a charge counter on Black Mana Battery."
 msgstr ""
 
-#: ../../4ED.rst:1465
+#: ../../4ED.rst:1473
 msgid ""
 "|tap|, Remove any number of charge counters from Black Mana Battery: Add |"
 "mana_b|, then add an additional |mana_b| for each charge counter removed "
 "this way."
 msgstr ""
 
-#: ../../4ED.rst:1472
+#: ../../4ED.rst:1480
 msgid ""
 ":mtgtip:`Black Vise<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/1/9/196b83a1-2a25-498d-83b8-8faacd79909d.jpg?1559601201|https://"
 "scryfall.com/card/4ed/299/black-vise?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1469
+#: ../../4ED.rst:1477
 msgid "As Black Vise enters the battlefield, choose an opponent."
 msgstr ""
 
-#: ../../4ED.rst:1471
+#: ../../4ED.rst:1479
 msgid ""
 "At the beginning of the chosen player's upkeep, Black Vise deals X damage to "
 "that player, where X is the number of cards in their hand minus 4."
 msgstr ""
 
-#: ../../4ED.rst:1478
+#: ../../4ED.rst:1486
 msgid ""
 ":mtgtip:`Blue Mana Battery<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/c/d/cd2cb84e-c079-486e-87ad-d188fe38bc76.jpg?1559603819|"
 "https://scryfall.com/card/4ed/300/blue-mana-battery?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1475
+#: ../../4ED.rst:1483
 msgid "|mana_2|, |tap|: Put a charge counter on Blue Mana Battery."
 msgstr ""
 
-#: ../../4ED.rst:1477
+#: ../../4ED.rst:1485
 msgid ""
 "|tap|, Remove any number of charge counters from Blue Mana Battery: Add |"
 "mana_u|, then add an additional |mana_u| for each charge counter removed "
 "this way."
 msgstr ""
 
-#: ../../4ED.rst:1482
+#: ../../4ED.rst:1490
 msgid ""
 ":mtgtip:`Bottle of Suleiman<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/d/1/d1924860-4532-40c2-b0e8-28584d22ccb5.jpg?1559604215|"
 "https://scryfall.com/card/4ed/301/bottle-of-suleiman?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1481
+#: ../../4ED.rst:1489
 msgid ""
 "|mana_1|, Sacrifice Bottle of Suleiman: Flip a coin. If you win the flip, "
 "create a 5/5 colorless Djinn artifact creature token with flying. If you "
@@ -4307,41 +4331,41 @@ msgstr ""
 "żeton bezkolorowego artefaktowego stwora Dżin 5/5 z lataniem. Jeśli "
 "przegrasz rzut, ten artefakt zadaje tobie 5 obrażeń."
 
-#: ../../4ED.rst:1488
+#: ../../4ED.rst:1496
 msgid ""
 ":mtgtip:`Brass Man<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/7/a/7ab18c6d-2705-473e-b404-75660ff28736.jpg?1559603673|https://"
 "scryfall.com/card/4ed/302/brass-man?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1485
+#: ../../4ED.rst:1493
 msgid "Brass Man doesn't untap during your untap step."
 msgstr ""
 
-#: ../../4ED.rst:1487
+#: ../../4ED.rst:1495
 msgid ""
 "At the beginning of your upkeep, you may pay |mana_1|. If you do, untap "
 "Brass Man."
 msgstr ""
 
-#: ../../4ED.rst:1496
+#: ../../4ED.rst:1504
 msgid ""
 ":mtgtip:`Bronze Tablet<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/c/a/cad56033-c1f9-4477-9dd6-ba7009c30593.jpg?1559603594|"
 "https://scryfall.com/card/4ed/303/bronze-tablet?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1491
+#: ../../4ED.rst:1499
 msgid ""
 "Remove Bronze Tablet from your deck before playing if you're not playing for "
 "ante."
 msgstr ""
 
-#: ../../4ED.rst:1493
+#: ../../4ED.rst:1501
 msgid "Bronze Tablet enters the battlefield tapped."
 msgstr ""
 
-#: ../../4ED.rst:1495
+#: ../../4ED.rst:1503
 msgid ""
 "|mana_4|, |tap|: Exile Bronze Tablet and target nontoken permanent an "
 "opponent owns. That player may pay 10 life. If they do, put Bronze Tablet "
@@ -4349,127 +4373,127 @@ msgid ""
 "you own the other exiled card."
 msgstr ""
 
-#: ../../4ED.rst:1500
+#: ../../4ED.rst:1508
 msgid ""
 ":mtgtip:`Celestial Prism<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/e/7/e7ca1534-0049-4672-9677-99f1ba00fb78.jpg?1559601267|"
 "https://scryfall.com/card/4ed/304/celestial-prism?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1499
+#: ../../4ED.rst:1507
 msgid "|mana_2|, |tap|: Add one mana of any color."
 msgstr ""
 
-#: ../../4ED.rst:1504
+#: ../../4ED.rst:1512
 msgid ""
 ":mtgtip:`Clay Statue<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/0/d/0dd9b203-fa4c-4383-a671-265101f4453a.jpg?1559603593|https://"
 "scryfall.com/card/4ed/305/clay-statue?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1503
+#: ../../4ED.rst:1511
 msgid "|mana_2|: Regenerate Clay Statue."
 msgstr ""
 
-#: ../../4ED.rst:1514
+#: ../../4ED.rst:1522
 msgid ""
 ":mtgtip:`Clockwork Avian<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/4/a/4a92484b-064c-4588-a1ea-6de8fd485ca4.jpg?1559603667|"
 "https://scryfall.com/card/4ed/306/clockwork-avian?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1509
+#: ../../4ED.rst:1517
 msgid "Clockwork Avian enters the battlefield with four +1/+0 counters on it."
 msgstr ""
 
-#: ../../4ED.rst:1511
+#: ../../4ED.rst:1519
 msgid ""
 "At end of combat, if Clockwork Avian attacked or blocked this combat, remove "
 "a +1/+0 counter from it."
 msgstr ""
 
-#: ../../4ED.rst:1513
+#: ../../4ED.rst:1521
 msgid ""
 "|mana_x|, |tap|: Put up to X +1/+0 counters on Clockwork Avian. This ability "
 "can't cause the total number of +1/+0 counters on Clockwork Avian to be "
 "greater than four. Activate only during your upkeep."
 msgstr ""
 
-#: ../../4ED.rst:1522
+#: ../../4ED.rst:1530
 msgid ""
 ":mtgtip:`Clockwork Beast<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/4/0/40dc8595-32b9-4045-bae3-5078c9a17527.jpg?1559603665|"
 "https://scryfall.com/card/4ed/307/clockwork-beast?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1517
+#: ../../4ED.rst:1525
 msgid "Clockwork Beast enters the battlefield with seven +1/+0 counters on it."
 msgstr ""
 
-#: ../../4ED.rst:1519
+#: ../../4ED.rst:1527
 msgid ""
 "At end of combat, if Clockwork Beast attacked or blocked this combat, remove "
 "a +1/+0 counter from it."
 msgstr ""
 
-#: ../../4ED.rst:1521
+#: ../../4ED.rst:1529
 msgid ""
 "|mana_x|, |tap|: Put up to X +1/+0 counters on Clockwork Beast. This ability "
 "can't cause the total number of +1/+0 counters on Clockwork Beast to be "
 "greater than seven. Activate only during your upkeep."
 msgstr ""
 
-#: ../../4ED.rst:1530
+#: ../../4ED.rst:1538
 msgid ""
 ":mtgtip:`Colossus of Sardia<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/0/6/063acc0f-8062-4461-b0f5-8c3a835e1fbf.jpg?1559601273|"
 "https://scryfall.com/card/4ed/308/colossus-of-sardia?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1527
+#: ../../4ED.rst:1535
 msgid "Colossus of Sardia doesn't untap during your untap step."
 msgstr "Ten stwór nie odkręca się w twoim kroku odkręcania."
 
-#: ../../4ED.rst:1529
+#: ../../4ED.rst:1537
 msgid "|mana_9|: Untap Colossus of Sardia. Activate only during your upkeep."
 msgstr ""
 "|mana_9|: Odkręć tego stwora. Możesz aktywować tylko w twoim kroku "
 "utrzymania."
 
-#: ../../4ED.rst:1534
+#: ../../4ED.rst:1542
 msgid ""
 ":mtgtip:`Conservator<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/f/6/f6639eea-d0ae-4f0d-a8da-1b863b482b68.jpg?1559604203|https://"
 "scryfall.com/card/4ed/309/conservator?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1533
+#: ../../4ED.rst:1541
 msgid ""
 "|mana_3|, |tap|: Prevent the next 2 damage that would be dealt to you this "
 "turn."
 msgstr ""
 
-#: ../../4ED.rst:1538
+#: ../../4ED.rst:1546
 msgid ""
 ":mtgtip:`Coral Helm<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/6/0/6065242b-e14e-44fa-bbe0-00f070f0140a.jpg?1559603893|https://"
 "scryfall.com/card/4ed/310/coral-helm?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1537
+#: ../../4ED.rst:1545
 msgid ""
 "|mana_3|, Discard a card at random: Target creature gets +2/+2 until end of "
 "turn."
 msgstr ""
 
-#: ../../4ED.rst:1542
+#: ../../4ED.rst:1550
 msgid ""
 ":mtgtip:`Crystal Rod<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/c/0/c05c17c7-49c2-41f2-842e-d980e7d62613.jpg?1559603617|https://"
 "scryfall.com/card/4ed/311/crystal-rod?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1541
+#: ../../4ED.rst:1549
 msgid ""
 "Whenever a player casts a blue spell, you may pay |mana_1|. If you do, you "
 "gain 1 life."
@@ -4477,47 +4501,47 @@ msgstr ""
 "Ilekroć gracz rzuci niebieski czar, możesz zapłacić |mana_1|. Jeśli tak "
 "zrobisz, zyskaj 1 życie."
 
-#: ../../4ED.rst:1548
+#: ../../4ED.rst:1556
 msgid ""
 ":mtgtip:`Cursed Rack<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/2/8/28cbcab8-5593-4ef0-8689-77e71fb1c41a.jpg?1559604250|https://"
 "scryfall.com/card/4ed/312/cursed-rack?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1545
+#: ../../4ED.rst:1553
 msgid "As Cursed Rack enters the battlefield, choose an opponent."
 msgstr ""
 
-#: ../../4ED.rst:1547
+#: ../../4ED.rst:1555
 msgid "The chosen player's maximum hand size is four."
 msgstr ""
 
-#: ../../4ED.rst:1552
+#: ../../4ED.rst:1560
 msgid ""
 ":mtgtip:`Dancing Scimitar<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/c/0/c0662881-664f-47d2-8164-b4727125ba0b.jpg?1559604251|"
 "https://scryfall.com/card/4ed/313/dancing-scimitar?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1556
+#: ../../4ED.rst:1564
 msgid ""
 ":mtgtip:`Diabolic Machine<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/2/3/23d2c7c2-5696-49a0-b6b0-789bfe839f8d.jpg?1559600451|"
 "https://scryfall.com/card/4ed/314/diabolic-machine?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1555
+#: ../../4ED.rst:1563
 msgid "|mana_3|: Regenerate Diabolic Machine."
 msgstr ""
 
-#: ../../4ED.rst:1560
+#: ../../4ED.rst:1568
 msgid ""
 ":mtgtip:`Dingus Egg<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/b/9/b9c44bba-5eaa-41a6-a11a-0bc8fb751ad8.jpg?1559604247|https://"
 "scryfall.com/card/4ed/315/dingus-egg?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1559
+#: ../../4ED.rst:1567
 msgid ""
 "Whenever a land is put into a graveyard from the battlefield, Dingus Egg "
 "deals 2 damage to that land's controller."
@@ -4525,14 +4549,14 @@ msgstr ""
 "Ilekroć ląd zostanie umieszczony w cmentarzu z pola bitwy, ten artefakt "
 "zadaje właścicielowi owego lądu 2 obrażenia."
 
-#: ../../4ED.rst:1564
+#: ../../4ED.rst:1572
 msgid ""
 ":mtgtip:`Disrupting Scepter<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/f/b/fb9b9085-6dd7-44fc-b3a5-7f797c34f8dc.jpg?1559604245|"
 "https://scryfall.com/card/4ed/316/disrupting-scepter?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1563
+#: ../../4ED.rst:1571
 msgid ""
 "|mana_3|, |tap|: Target player discards a card. Activate only during your "
 "turn."
@@ -4540,38 +4564,38 @@ msgstr ""
 "|mana_3|, |tap|: Wskazany gracz odrzuca kartę. Możesz aktywować tylko w "
 "twojej turze."
 
-#: ../../4ED.rst:1568
+#: ../../4ED.rst:1576
 msgid ""
 ":mtgtip:`Dragon Engine<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/8/0/80ecbbb3-2d0d-49dc-90b3-1b396d47bf56.jpg?1559603649|"
 "https://scryfall.com/card/4ed/317/dragon-engine?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1567
+#: ../../4ED.rst:1575
 msgid "|mana_2|: Dragon Engine gets +1/+0 until end of turn."
 msgstr "|mana_2|: Ten stwór dostaje do końca tury +1/+0."
 
-#: ../../4ED.rst:1572
+#: ../../4ED.rst:1580
 msgid ""
 ":mtgtip:`Ebony Horse<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/b/6/b665f9dc-a5df-4ad7-9067-9b48f942bdde.jpg?1559603646|https://"
 "scryfall.com/card/4ed/318/ebony-horse?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1571
+#: ../../4ED.rst:1579
 msgid ""
 "|mana_2|, |tap|: Untap target attacking creature you control. Prevent all "
 "combat damage that would be dealt to and dealt by that creature this turn."
 msgstr ""
 
-#: ../../4ED.rst:1576
+#: ../../4ED.rst:1584
 msgid ""
 ":mtgtip:`Fellwar Stone<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/6/f/6f7a41cc-277a-4d95-a30c-91bf5aa7ac11.jpg?1559604228|"
 "https://scryfall.com/card/4ed/319/fellwar-stone?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1575
+#: ../../4ED.rst:1583
 msgid ""
 "|tap|: Add one mana of any color that a land an opponent controls could "
 "produce."
@@ -4579,67 +4603,67 @@ msgstr ""
 "|tap|: Weź jedną manę w jednym z kolorów możliwych do wydania przez ląd pod "
 "władaniem przeciwnika."
 
-#: ../../4ED.rst:1580
+#: ../../4ED.rst:1588
 msgid ""
 ":mtgtip:`Flying Carpet<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/3/0/300428ea-7909-4c2b-81cc-a03d51030bcb.jpg?1559603685|"
 "https://scryfall.com/card/4ed/320/flying-carpet?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1579
+#: ../../4ED.rst:1587
 msgid "|mana_2|, |tap|: Target creature gains flying until end of turn."
 msgstr "|mana_2|, |tap|: Wskazany stwór zyskuje do końca tury latanie."
 
-#: ../../4ED.rst:1584
+#: ../../4ED.rst:1592
 msgid ""
 ":mtgtip:`Glasses of Urza<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/4/d/4d71a210-eb2c-4bcc-ae3b-f60a6fb615cb.jpg?1559603671|"
 "https://scryfall.com/card/4ed/321/glasses-of-urza?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1583
+#: ../../4ED.rst:1591
 msgid "|tap|: Look at target player's hand."
 msgstr "|tap|: Spójrz na rękę wskazanego gracza."
 
-#: ../../4ED.rst:1588
+#: ../../4ED.rst:1596
 msgid ""
 ":mtgtip:`Grapeshot Catapult<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/d/0/d0f96f18-8340-4b50-9b4c-3c72c0bbc2f2.jpg?1559601426|"
 "https://scryfall.com/card/4ed/322/grapeshot-catapult?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1587
+#: ../../4ED.rst:1595
 msgid ""
 "|tap|: Grapeshot Catapult deals 1 damage to target creature with flying."
 msgstr ""
 "|tap|: Ten artefakt zadaje wskazanemu stworowi mającemu latanie 1 obrażenie."
 
-#: ../../4ED.rst:1594
+#: ../../4ED.rst:1602
 msgid ""
 ":mtgtip:`Green Mana Battery<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/d/0/d0a6e224-72df-4f1f-93d1-5114779aed2c.jpg?1559603636|"
 "https://scryfall.com/card/4ed/323/green-mana-battery?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1591
+#: ../../4ED.rst:1599
 msgid "|mana_2|, |tap|: Put a charge counter on Green Mana Battery."
 msgstr ""
 
-#: ../../4ED.rst:1593
+#: ../../4ED.rst:1601
 msgid ""
 "|tap|, Remove any number of charge counters from Green Mana Battery: Add |"
 "mana_g|, then add an additional |mana_g| for each charge counter removed "
 "this way."
 msgstr ""
 
-#: ../../4ED.rst:1598
+#: ../../4ED.rst:1606
 msgid ""
 ":mtgtip:`Helm of Chatzuk<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/6/7/673c0a08-1aaf-4976-8eea-c93a9f9486fa.jpg?1559604191|"
 "https://scryfall.com/card/4ed/324/helm-of-chatzuk?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1597
+#: ../../4ED.rst:1605
 msgid ""
 "|mana_1|, |tap|: Target creature gains banding until end of turn. (Any "
 "creatures with banding, and up to one without, can attack in a band. Bands "
@@ -4649,14 +4673,14 @@ msgid ""
 "blocked by or is blocking.)"
 msgstr ""
 
-#: ../../4ED.rst:1602
+#: ../../4ED.rst:1610
 msgid ""
 ":mtgtip:`Howling Mine<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/a/4/a4df1be4-364e-4582-929a-05f2905f8ce6.jpg?1559603631|"
 "https://scryfall.com/card/4ed/325/howling-mine?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1601
+#: ../../4ED.rst:1609
 msgid ""
 "At the beginning of each player's draw step, if Howling Mine is untapped, "
 "that player draws an additional card."
@@ -4664,14 +4688,14 @@ msgstr ""
 "Na początku kroku dobierania każdego z graczy, jeśli ten artefakt jest "
 "odkręcony, ów gracz dobiera dodatkową kartę."
 
-#: ../../4ED.rst:1606
+#: ../../4ED.rst:1614
 msgid ""
 ":mtgtip:`Iron Star<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/b/8/b8846e66-fd42-4e74-80fe-858944108d40.jpg?1559603627|https://"
 "scryfall.com/card/4ed/326/iron-star?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1605
+#: ../../4ED.rst:1613
 msgid ""
 "Whenever a player casts a red spell, you may pay |mana_1|. If you do, you "
 "gain 1 life."
@@ -4679,14 +4703,14 @@ msgstr ""
 "Ilekroć gracz rzuci czerwony czar, możesz zapłacić |mana_1|. Jeśli tak "
 "zrobisz, zyskaj 1 życie."
 
-#: ../../4ED.rst:1610
+#: ../../4ED.rst:1618
 msgid ""
 ":mtgtip:`Ivory Cup<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/1/4/14f378af-ea54-4035-9e3e-e8cf980d1e84.jpg?1559603741|https://"
 "scryfall.com/card/4ed/327/ivory-cup?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1609
+#: ../../4ED.rst:1617
 msgid ""
 "Whenever a player casts a white spell, you may pay |mana_1|. If you do, you "
 "gain 1 life."
@@ -4694,27 +4718,27 @@ msgstr ""
 "Ilekroć którykolwiek gracz rzuci biały czar, możesz zapłacić |mana_1|. Jeśli "
 "tak zrobisz, zyskaj 1 życie."
 
-#: ../../4ED.rst:1614
+#: ../../4ED.rst:1622
 msgid ""
 ":mtgtip:`Ivory Tower<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/e/f/eff5624d-fffa-48c1-91f3-f03585e45c69.jpg?1559604179|https://"
 "scryfall.com/card/4ed/328/ivory-tower?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1613
+#: ../../4ED.rst:1621
 msgid ""
 "At the beginning of your upkeep, you gain X life, where X is the number of "
 "cards in your hand minus 4."
 msgstr ""
 
-#: ../../4ED.rst:1618
+#: ../../4ED.rst:1626
 msgid ""
 ":mtgtip:`Jade Monolith<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/0/4/044e5475-4ab5-45c5-b86d-9b4720e7ba0c.jpg?1559603743|"
 "https://scryfall.com/card/4ed/329/jade-monolith?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1617
+#: ../../4ED.rst:1625
 msgid ""
 "|mana_1|: The next time a source of your choice would deal damage to target "
 "creature this turn, that source deals that damage to you instead."
@@ -4723,68 +4747,68 @@ msgstr ""
 "miałoby zadać obrażenia wskazanemu stworowi, zamiast tego owe źródło zadaje "
 "owe obrażenia tobie."
 
-#: ../../4ED.rst:1622
+#: ../../4ED.rst:1630
 msgid ""
 ":mtgtip:`Jandor's Saddlebags<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/a/c/ac15b58c-80b4-4da7-8ed6-d963702eda3a.jpg?1559603626|"
 "https://scryfall.com/card/4ed/330/jandors-saddlebags?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1621
+#: ../../4ED.rst:1629
 msgid "|mana_3|, |tap|: Untap target creature."
 msgstr "|mana_3|, |tap|: Odkręć wskazanego stwora."
 
-#: ../../4ED.rst:1626
+#: ../../4ED.rst:1634
 msgid ""
 ":mtgtip:`Jayemdae Tome<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/4/0/4009fceb-9140-457b-b980-875f6a2f70fd.jpg?1559603734|"
 "https://scryfall.com/card/4ed/331/jayemdae-tome?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1625
+#: ../../4ED.rst:1633
 msgid "|mana_4|, |tap|: Draw a card."
 msgstr "|mana_4|, |tap|: Dobierz kartę."
 
-#: ../../4ED.rst:1630
+#: ../../4ED.rst:1638
 msgid ""
 ":mtgtip:`Kormus Bell<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/3/b/3bd054ed-9c91-4bc6-9d0d-0c045c089bd9.jpg?1559603783|https://"
 "scryfall.com/card/4ed/332/kormus-bell?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1629
+#: ../../4ED.rst:1637
 msgid "All Swamps are 1/1 black creatures that are still lands."
 msgstr ""
 
-#: ../../4ED.rst:1636
+#: ../../4ED.rst:1644
 msgid ""
 ":mtgtip:`Library of Leng<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/b/8/b811a515-87a2-4dee-8689-48bfba12e6c5.jpg?1559603583|"
 "https://scryfall.com/card/4ed/333/library-of-leng?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1633
+#: ../../4ED.rst:1641
 msgid "You have no maximum hand size."
 msgstr "Nie masz limitu kart na ręce."
 
-#: ../../4ED.rst:1635
+#: ../../4ED.rst:1643
 msgid ""
 "If an effect causes you to discard a card, discard it, but you may put it on "
 "top of your library instead of into your graveyard."
 msgstr ""
 
-#: ../../4ED.rst:1646
+#: ../../4ED.rst:1654
 msgid ""
 ":mtgtip:`Mana Vault<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/3/b/3be9942c-89b3-422f-bb9d-b55f51a22a37.jpg?1559601278|https://"
 "scryfall.com/card/4ed/334/mana-vault?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1639
+#: ../../4ED.rst:1647
 msgid "Mana Vault doesn't untap during your untap step."
 msgstr "Ten artefakt nie odkręca się w twoim kroku odkręcania."
 
-#: ../../4ED.rst:1641
+#: ../../4ED.rst:1649
 msgid ""
 "At the beginning of your upkeep, you may pay |mana_4|. If you do, untap Mana "
 "Vault."
@@ -4792,7 +4816,7 @@ msgstr ""
 "Na początku twojego kroku utrzymania, możesz zapłacić |mana_4|. Jeśli tak "
 "zrobisz, odkręć ten artefakt."
 
-#: ../../4ED.rst:1643
+#: ../../4ED.rst:1651
 msgid ""
 "At the beginning of your draw step, if Mana Vault is tapped, it deals 1 "
 "damage to you."
@@ -4800,18 +4824,18 @@ msgstr ""
 "Na początku twojego kroku dobierania, jeśli ten artefakt jest przekręcony, "
 "zadaje tobie 1 obrażenie."
 
-#: ../../4ED.rst:1645
+#: ../../4ED.rst:1653
 msgid "|tap|: Add |colorless|\\ |colorless|\\ |colorless|."
 msgstr "|tap|: Weź |colorless|\\ |colorless|\\ |colorless|."
 
-#: ../../4ED.rst:1650
+#: ../../4ED.rst:1658
 msgid ""
 ":mtgtip:`Meekstone<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/c/9/c9714ce0-7fc3-4bf3-ad65-68555a9d2f35.jpg?1559601886|https://"
 "scryfall.com/card/4ed/335/meekstone?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1649
+#: ../../4ED.rst:1657
 msgid ""
 "Creatures with power 3 or greater don't untap during their controllers' "
 "untap steps."
@@ -4819,79 +4843,79 @@ msgstr ""
 "Stwory o sile 3 lub większej nie odkręcają się podczas kroku odkręcania "
 "swoich władców."
 
-#: ../../4ED.rst:1654
+#: ../../4ED.rst:1662
 msgid ""
 ":mtgtip:`Millstone<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/f/1/f16f7d28-1bc2-44b6-973b-c60d966101a6.jpg?1559601855|https://"
 "scryfall.com/card/4ed/336/millstone?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1653
+#: ../../4ED.rst:1661
 msgid "|mana_2|, |tap|: Target player mills two cards."
 msgstr "|mana_2|, |tap|: Wskazany gracz mieli dwie karty."
 
-#: ../../4ED.rst:1660
+#: ../../4ED.rst:1668
 msgid ""
 ":mtgtip:`Mishra's War Machine<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/0/f/0f7b5921-3e10-47e7-98a7-8411a18313bf.jpg?1559604144|"
 "https://scryfall.com/card/4ed/337/mishras-war-machine?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1659
+#: ../../4ED.rst:1667
 msgid ""
 "At the beginning of your upkeep, Mishra's War Machine deals 3 damage to you "
 "unless you discard a card. If Mishra's War Machine deals damage to you this "
 "way, tap it."
 msgstr ""
 
-#: ../../4ED.rst:1666
+#: ../../4ED.rst:1674
 msgid ""
 ":mtgtip:`Nevinyrral's Disk<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/d/4/d427396c-f1ef-46ac-b130-ed1e51e826a3.jpg?1559604140|"
 "https://scryfall.com/card/4ed/338/nevinyrrals-disk?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1663
+#: ../../4ED.rst:1671
 msgid "Nevinyrral's Disk enters the battlefield tapped."
 msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
 
-#: ../../4ED.rst:1665
+#: ../../4ED.rst:1673
 msgid "|mana_1|, |tap|: Destroy all artifacts, creatures, and enchantments."
 msgstr "|mana_1|, |tap|: Zniszcz wszystkie artefakty, stwory i uroki."
 
-#: ../../4ED.rst:1668
+#: ../../4ED.rst:1676
 msgid ""
 ":mtgtip:`Obsianus Golem<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/8/3/837605e3-f4c2-4b60-8478-f21ca8734ef2.jpg?1559601306|"
 "https://scryfall.com/card/4ed/339/obsianus-golem?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1674
+#: ../../4ED.rst:1682
 msgid ""
 ":mtgtip:`Onulet<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/c/6/c64c2dff-9c11-4c91-a606-b5de704f18d4.jpg?1559601307|https://"
 "scryfall.com/card/4ed/340/onulet?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1673
+#: ../../4ED.rst:1681
 msgid "When Onulet dies, you gain 2 life."
 msgstr ""
 
-#: ../../4ED.rst:1678
+#: ../../4ED.rst:1686
 msgid ""
 ":mtgtip:`Ornithopter<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/2/a/2aeb3ce1-1e7f-4269-a326-700f27e9e932.jpg?1559601830|https://"
 "scryfall.com/card/4ed/341/ornithopter?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1682
+#: ../../4ED.rst:1690
 msgid ""
 ":mtgtip:`Primal Clay<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/c/c/cc49d724-b46d-449b-bd2b-03551e130a06.jpg?1559601323|https://"
 "scryfall.com/card/4ed/342/primal-clay?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1681
+#: ../../4ED.rst:1689
 msgid ""
 "As Primal Clay enters the battlefield, it becomes your choice of a 3/3 "
 "artifact creature, a 2/2 artifact creature with flying, or a 1/6 Wall "
@@ -4903,91 +4927,91 @@ msgstr ""
 "Ściana 1/6 z obronnością oprócz swoich innych typów. (Stwór z obronnością "
 "nie może atakować.)"
 
-#: ../../4ED.rst:1688
+#: ../../4ED.rst:1696
 msgid ""
 ":mtgtip:`Red Mana Battery<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/e/4/e4e507bc-441d-4f44-85d4-cf93ca199d2e.jpg?1559603885|"
 "https://scryfall.com/card/4ed/343/red-mana-battery?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1685
+#: ../../4ED.rst:1693
 msgid "|mana_2|, |tap|: Put a charge counter on Red Mana Battery."
 msgstr ""
 
-#: ../../4ED.rst:1687
+#: ../../4ED.rst:1695
 msgid ""
 "|tap|, Remove any number of charge counters from Red Mana Battery: Add |"
 "mana_r|, then add an additional |mana_r| for each charge counter removed "
 "this way."
 msgstr ""
 
-#: ../../4ED.rst:1692
+#: ../../4ED.rst:1700
 msgid ""
 ":mtgtip:`Rod of Ruin<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/8/8/88bf9da4-4647-4c66-a3ce-fab7ca9618d1.jpg?1559600465|https://"
 "scryfall.com/card/4ed/344/rod-of-ruin?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1691
+#: ../../4ED.rst:1699
 msgid "|mana_3|, |tap|: Rod of Ruin deals 1 damage to any target."
 msgstr "|mana_3|, |tap|: Ten artefakt zadaje wskazanemu celowi 1 obrażenie."
 
-#: ../../4ED.rst:1700
+#: ../../4ED.rst:1708
 msgid ""
 ":mtgtip:`Shapeshifter<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/0/b/0b9d1526-9888-41bc-b77d-88d62325e0b2.jpg?1559600478|"
 "https://scryfall.com/card/4ed/345/shapeshifter?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1695
+#: ../../4ED.rst:1703
 msgid ""
 "As Shapeshifter enters the battlefield, choose a number between 0 and 7."
 msgstr ""
 
-#: ../../4ED.rst:1697
+#: ../../4ED.rst:1705
 msgid ""
 "At the beginning of your upkeep, you may choose a number between 0 and 7."
 msgstr ""
 
-#: ../../4ED.rst:1699
+#: ../../4ED.rst:1707
 msgid ""
 "Shapeshifter's power is equal to the last chosen number and its toughness is "
 "equal to 7 minus that number."
 msgstr ""
 
-#: ../../4ED.rst:1704
+#: ../../4ED.rst:1712
 msgid ""
 ":mtgtip:`Soul Net<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/8/c/8ccacae0-f8db-45e0-b25a-35418fd24389.jpg?1559600485|https://"
 "scryfall.com/card/4ed/346/soul-net?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1703
+#: ../../4ED.rst:1711
 msgid ""
 "Whenever a creature dies, you may pay |mana_1|. If you do, you gain 1 life."
 msgstr ""
 "Ilekroć umrze stwór, możesz zapłacić |mana_1|. Jeśli tak zrobisz, zyskaj 1 "
 "życie."
 
-#: ../../4ED.rst:1708
+#: ../../4ED.rst:1716
 msgid ""
 ":mtgtip:`Sunglasses of Urza<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/6/a/6a225462-947c-49d7-81b2-91f875664dca.jpg?1559600488|"
 "https://scryfall.com/card/4ed/347/sunglasses-of-urza?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1707
+#: ../../4ED.rst:1715
 msgid "You may spend white mana as though it were red mana."
 msgstr ""
 
-#: ../../4ED.rst:1712
+#: ../../4ED.rst:1720
 msgid ""
 ":mtgtip:`Tawnos's Wand<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/d/5/d566993f-18a6-4e5c-abc3-0fe9a03e97d2.jpg?1559603709|"
 "https://scryfall.com/card/4ed/348/tawnoss-wand?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1711
+#: ../../4ED.rst:1719
 msgid ""
 "|mana_2|, |tap|: Target creature with power 2 or less can't be blocked this "
 "turn."
@@ -4995,35 +5019,35 @@ msgstr ""
 "|mana_2|, |tap|: Wskazany stwór o sile 2 lub mniejszej nie może być "
 "blokowany w tej turze."
 
-#: ../../4ED.rst:1718
+#: ../../4ED.rst:1726
 msgid ""
 ":mtgtip:`Tawnos's Weaponry<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/4/7/4750787e-9fef-4bdf-b2e3-e410c84999f2.jpg?1559600489|"
 "https://scryfall.com/card/4ed/349/tawnoss-weaponry?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1715
+#: ../../4ED.rst:1723
 msgid "You may choose not to untap Tawnos's Weaponry during your untap step."
 msgstr ""
 
-#: ../../4ED.rst:1717
+#: ../../4ED.rst:1725
 msgid ""
 "|mana_2|, |tap|: Target creature gets +1/+1 for as long as Tawnos's Weaponry "
 "remains tapped."
 msgstr ""
 
-#: ../../4ED.rst:1728
+#: ../../4ED.rst:1736
 msgid ""
 ":mtgtip:`Tetravus<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/4/9/49c1a2b2-50f0-4ed0-bd8f-06cd6aada04f.jpg?1559603786|https://"
 "scryfall.com/card/4ed/350/tetravus?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1723
+#: ../../4ED.rst:1731
 msgid "Tetravus enters the battlefield with three +1/+1 counters on it."
 msgstr ""
 
-#: ../../4ED.rst:1725
+#: ../../4ED.rst:1733
 msgid ""
 "At the beginning of your upkeep, you may remove any number of +1/+1 counters "
 "from Tetravus. If you do, create that many 1/1 colorless Tetravite artifact "
@@ -5031,20 +5055,20 @@ msgid ""
 "enchanted.\""
 msgstr ""
 
-#: ../../4ED.rst:1727
+#: ../../4ED.rst:1735
 msgid ""
 "At the beginning of your upkeep, you may exile any number of tokens created "
 "with Tetravus. If you do, put that many +1/+1 counters on Tetravus."
 msgstr ""
 
-#: ../../4ED.rst:1732
+#: ../../4ED.rst:1740
 msgid ""
 ":mtgtip:`The Hive<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/f/9/f9d01a2e-2687-4b37-aed6-63202cd81231.jpg?1559604110|https://"
 "scryfall.com/card/4ed/351/the-hive?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1731
+#: ../../4ED.rst:1739
 msgid ""
 "|mana_5|, |tap|: Create a 1/1 colorless Insect artifact creature token with "
 "flying named Wasp. (It can't be blocked except by creatures with flying or "
@@ -5054,31 +5078,31 @@ msgstr ""
 "nazwie Osa. (Nie może być on blokowanym, chyba że przez stwory mające "
 "latanie lub zasięg.)"
 
-#: ../../4ED.rst:1738
+#: ../../4ED.rst:1746
 msgid ""
 ":mtgtip:`The Rack<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/1/e/1e19104f-55d5-40e5-a61d-ddba2cf5a527.jpg?1559603837|https://"
 "scryfall.com/card/4ed/352/the-rack?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1735
+#: ../../4ED.rst:1743
 msgid "As The Rack enters the battlefield, choose an opponent."
 msgstr ""
 
-#: ../../4ED.rst:1737
+#: ../../4ED.rst:1745
 msgid ""
 "At the beginning of the chosen player's upkeep, The Rack deals X damage to "
 "that player, where X is 3 minus the number of cards in their hand."
 msgstr ""
 
-#: ../../4ED.rst:1742
+#: ../../4ED.rst:1750
 msgid ""
 ":mtgtip:`Throne of Bone<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/9/8/98e77be1-3c29-40b4-9c47-44fa2d9d4454.jpg?1559603779|"
 "https://scryfall.com/card/4ed/353/throne-of-bone?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1741
+#: ../../4ED.rst:1749
 msgid ""
 "Whenever a player casts a black spell, you may pay |mana_1|. If you do, you "
 "gain 1 life."
@@ -5086,31 +5110,31 @@ msgstr ""
 "Ilekroć gracz rzuci czarny czar, możesz zapłacić |mana_1|. Jeśli tak "
 "zrobisz, zyskaj 1 życie."
 
-#: ../../4ED.rst:1748
+#: ../../4ED.rst:1756
 msgid ""
 ":mtgtip:`Triskelion<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/0/9/09294401-a895-4084-8302-196a946863d6.jpg?1559603591|https://"
 "scryfall.com/card/4ed/354/triskelion?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1745
+#: ../../4ED.rst:1753
 msgid "Triskelion enters the battlefield with three +1/+1 counters on it."
 msgstr "Ten stwór wchodzi na pole bitwy mając trzy znaczniki +1/+1."
 
-#: ../../4ED.rst:1747
+#: ../../4ED.rst:1755
 msgid ""
 "Remove a +1/+1 counter from Triskelion: It deals 1 damage to any target."
 msgstr ""
 "Usuń znacznik +1/+1 z tego stwora: Zadaje on wskazanemu celowi 1 obrażenie."
 
-#: ../../4ED.rst:1752
+#: ../../4ED.rst:1760
 msgid ""
 ":mtgtip:`Urza's Avenger<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/9/7/97dd1daa-0b5d-4d0c-9a67-a59083038f2d.jpg?1559603752|"
 "https://scryfall.com/card/4ed/355/urzas-avenger?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1751
+#: ../../4ED.rst:1759
 msgid ""
 "|mana_0|: Urza's Avenger gets -1/-1 and gains your choice of banding, "
 "flying, first strike, or trample until end of turn. (Any creatures with "
@@ -5120,39 +5144,39 @@ msgid ""
 "controller, among any of the creatures it's being blocked by or is blocking.)"
 msgstr ""
 
-#: ../../4ED.rst:1758
+#: ../../4ED.rst:1766
 msgid ""
 ":mtgtip:`Wall of Spears<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/a/d/ad580bfc-8827-4a8a-a5ec-b6195b3146bb.jpg?1559600428|"
 "https://scryfall.com/card/4ed/356/wall-of-spears?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1764
+#: ../../4ED.rst:1772
 msgid ""
 ":mtgtip:`White Mana Battery<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/b/6/b622e694-858d-482f-a67d-0e52d268708c.jpg?1559603877|"
 "https://scryfall.com/card/4ed/357/white-mana-battery?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1761
+#: ../../4ED.rst:1769
 msgid "|mana_2|, |tap|: Put a charge counter on White Mana Battery."
 msgstr ""
 
-#: ../../4ED.rst:1763
+#: ../../4ED.rst:1771
 msgid ""
 "|tap|, Remove any number of charge counters from White Mana Battery: Add |"
 "mana_w|, then add an additional |mana_w| for each charge counter removed "
 "this way."
 msgstr ""
 
-#: ../../4ED.rst:1768
+#: ../../4ED.rst:1776
 msgid ""
 ":mtgtip:`Winter Orb<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/d/6/d60ee90d-5f7b-4294-8d52-9744fada8d36.jpg?1559604107|https://"
 "scryfall.com/card/4ed/358/winter-orb?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1767
+#: ../../4ED.rst:1775
 msgid ""
 "As long as Winter Orb is untapped, players can't untap more than one land "
 "during their untap steps."
@@ -5160,14 +5184,14 @@ msgstr ""
 "O ile ten artefakt jest odkręcony, gracze nie mogą odkręcić więcej niż "
 "jednego lądu podczas swoich kroków odkręcania."
 
-#: ../../4ED.rst:1772
+#: ../../4ED.rst:1780
 msgid ""
 ":mtgtip:`Wooden Sphere<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/6/a/6a51abf0-8661-4776-929d-35b7bd345e21.jpg?1559604096|"
 "https://scryfall.com/card/4ed/359/wooden-sphere?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1771
+#: ../../4ED.rst:1779
 msgid ""
 "Whenever a player casts a green spell, you may pay |mana_1|. If you do, you "
 "gain 1 life."
@@ -5175,29 +5199,29 @@ msgstr ""
 "Ilekroć gracz rzuci zielony czar, możesz zapłacić |mana_1|. Jeśli tak "
 "zrobisz, zyskaj 1 życie."
 
-#: ../../4ED.rst:1776
+#: ../../4ED.rst:1784
 msgid ""
 ":mtgtip:`Yotian Soldier<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/a/a/aaab84be-bb96-437b-a9a7-aa7a11ffd21d.jpg?1559600441|"
 "https://scryfall.com/card/4ed/360/yotian-soldier?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1775
+#: ../../4ED.rst:1783
 msgid "Vigilance"
 msgstr "Czujność"
 
-#: ../../4ED.rst:1784
+#: ../../4ED.rst:1792
 msgid ""
 ":mtgtip:`Mishra's Factory<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/a/f/aff8d4f1-eaad-4afb-9097-2afab133f707.jpg?1559601289|"
 "https://scryfall.com/card/4ed/361/mishras-factory?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1779 ../../4ED.rst:1791
+#: ../../4ED.rst:1787 ../../4ED.rst:1799
 msgid "|tap|: Add |colorless|."
 msgstr "|tap|: Weź |colorless|."
 
-#: ../../4ED.rst:1781
+#: ../../4ED.rst:1789
 msgid ""
 "|mana_1|: Mishra's Factory becomes a 2/2 Assembly-Worker artifact creature "
 "until end of turn. It's still a land."
@@ -5205,96 +5229,88 @@ msgstr ""
 "|mana_1|: Ten ląd staje się do końca tury artefaktowym stworem Składacz 2/2. "
 "Nadal jest lądem."
 
-#: ../../4ED.rst:1783
+#: ../../4ED.rst:1791
 msgid "|tap|: Target Assembly-Worker creature gets +1/+1 until end of turn."
 msgstr "|tap|: Wskazany Składacz dostaje do końca tury +1/+1."
 
-#: ../../4ED.rst:1788
+#: ../../4ED.rst:1796
 msgid ""
 ":mtgtip:`Oasis<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/1/d/1d51a6de-7bb4-4e3d-82a7-a298c8d742ef.jpg?1559604143|https://"
 "scryfall.com/card/4ed/362/oasis?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1787
+#: ../../4ED.rst:1795
 msgid ""
 "|tap|: Prevent the next 1 damage that would be dealt to target creature this "
 "turn."
 msgstr ""
 
-#: ../../4ED.rst:1794
+#: ../../4ED.rst:1802
 msgid ""
 ":mtgtip:`Strip Mine<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/a/5/a5899b46-226b-4be6-8e80-d2396f54210d.jpg?1559604159|https://"
 "scryfall.com/card/4ed/363/strip-mine?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1793
+#: ../../4ED.rst:1801
 msgid "|tap|, Sacrifice Strip Mine: Destroy target land."
 msgstr ""
 
-#: ../../4ED.rst:1798
+#: ../../4ED.rst:1806
 msgid ""
 ":mtgtip:`Plains<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/6/3/639e47dc-c90f-4f55-9b3a-721240ec04ed.jpg?1559601320|https://"
 "scryfall.com/card/4ed/364/plains?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1797
+#: ../../4ED.rst:1805
 msgid "(|tap|: Add |mana_w|.)"
 msgstr "(|tap|: Weź |mana_w|.)"
 
-#: ../../4ED.rst:1802
+#: ../../4ED.rst:1810
 msgid ""
 ":mtgtip:`Island<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/b/0/b06bbd6e-eb0d-45fc-88ef-0e085d6505ef.jpg?1559603922|https://"
 "scryfall.com/card/4ed/367/island?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1801
+#: ../../4ED.rst:1809
 msgid "(|tap|: Add |mana_u|.)"
 msgstr "(|tap|: Weź |mana_u|.)"
 
-#: ../../4ED.rst:1806
+#: ../../4ED.rst:1814
 msgid ""
 ":mtgtip:`Swamp<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/8/4/84634023-5c94-4dcc-9449-abf73ecea542.jpg?1559600563|https://"
 "scryfall.com/card/4ed/370/swamp?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1805
+#: ../../4ED.rst:1813
 msgid "(|tap|: Add |mana_b|.)"
 msgstr "(|tap|: Weź |mana_b|.)"
 
-#: ../../4ED.rst:1810
+#: ../../4ED.rst:1818
 msgid ""
 ":mtgtip:`Mountain<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/0/c/0c5c9379-b686-4823-b85a-eaf2c4b63205.jpg?1559603770|https://"
 "scryfall.com/card/4ed/373/mountain?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1809
+#: ../../4ED.rst:1817
 msgid "(|tap|: Add |mana_r|.)"
 msgstr "(|tap|: Weź |mana_r|.)"
 
-#: ../../4ED.rst:1813
+#: ../../4ED.rst:1821
 msgid ""
 ":mtgtip:`Forest<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/1/1/119c4d73-5b71-446a-a739-25d494591aa1.jpg?1559604102|https://"
 "scryfall.com/card/4ed/376/forest?utm_source=api>`"
 msgstr ""
 
-#: ../../4ED.rst:1813
+#: ../../4ED.rst:1821
 msgid "(|tap|: Add |mana_g|.)"
 msgstr "(|tap|: Weź |mana_g|.)"
-
-#~ msgid "White creatures get +1/+1."
-#~ msgstr "Białe stwory dostają +1/+1."
-
-#~ msgid ""
-#~ "|mana_1|\\ |mana_g|, |tap|: Target creature gets -2/-0 until end of turn."
-#~ msgstr ""
-#~ "|mana_1|\\ |mana_g|, |tap|: Wskazany stwór dostaje do końca tury -2/-0."
 
 #~ msgid ""
 #~ "|mana_2|, |tap|: Target player puts the top two cards of their library "
