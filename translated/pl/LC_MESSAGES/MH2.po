@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-06-21 00:16+0200\n"
-"PO-Revision-Date: 2022-05-29 17:33+0000\n"
+"PO-Revision-Date: 2022-06-25 15:11+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mh2/pl/>\n"
 "Language: pl\n"
@@ -799,19 +799,14 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:173
-#, fuzzy
-#| msgid ""
-#| "Whenever a creature attacks you or a planeswalker you control, "
-#| "investigate. (Create a colorless Clue artifact token with \"|mana_2|, "
-#| "Sacrifice this artifact: Draw a card.\")"
 msgid ""
 "Whenever a creature attacks you or a planeswalker you control, investigate. "
 "(Create a Clue token. It's an artifact with \"|mana_2|, Sacrifice this "
 "artifact: Draw a card.\")"
 msgstr ""
-"Ilekroć stwór zaatakuje ciebie lub wędrowca pod twoim władaniem, dociekaj. "
-"(Stwórz żeton bezkolorowego artefaktu Wskazówka mający \"|mana_2|, poświęć "
-"ten artefakt: Dobierz kartę.\")"
+"Ilekroć stwór zaatakuje ciebie lub wędrowca pod twoim władaniem, dociekaj. ("
+"Stwórz żeton Wskazówki. To artefakt mający \"|mana_2|, poświęć ten artefakt: "
+"Dobierz kartę.\")"
 
 #: ../../MH2.rst:182
 msgid ""
@@ -1052,16 +1047,12 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:267
-#, fuzzy
-#| msgid ""
-#| "|mana_3|, |tap|: Investigate. (Create a colorless Clue artifact token "
-#| "with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgid ""
 "|mana_3|, |tap|: Investigate. (Create a Clue token. It's an artifact with \"|"
 "mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
-"|mana_3|, |tap|: Dociekaj. (Stwórz żeton bezkolorowego artefaktu Wskazówka "
-"mający \"|mana_2|, poświęć ten artefakt: Dobierz kartę.\")"
+"|mana_3|, |tap|: Dociekaj. (Stwórz żeton Wskazówki. To artefakt mający \""
+"|mana_2|, poświęć ten artefakt: Dobierz kartę.\")"
 
 #: ../../MH2.rst:276
 msgid ""
@@ -1142,15 +1133,11 @@ msgid "Create a 0/3 blue Crab creature token."
 msgstr "Stwórz żeton niebieskiego stwora Krab 0/3."
 
 #: ../../MH2.rst:297
-#, fuzzy
-#| msgid ""
-#| "Investigate. (Create a colorless Clue artifact token with \"|mana_2|, "
-#| "Sacrifice this artifact: Draw a card.\")"
 msgid ""
 "Investigate. (Create a Clue token. It's an artifact with \"|mana_2|, "
 "Sacrifice this artifact: Draw a card.\")"
 msgstr ""
-"Dociekaj. (Stwórz bezkolorowy artefakt Wskazówka mający \"|mana_2|, poświęć "
+"Dociekaj. (Stwórz żeton Wskazówki. To artefakt mający \"|mana_2|, poświęć "
 "ten artefakt: Dobierz kartę.\")"
 
 #: ../../MH2.rst:304
@@ -3489,19 +3476,14 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:1003
-#, fuzzy
-#| msgid ""
-#| "Morbid — When Funnel-Web Recluse enters the battlefield, if a creature "
-#| "died this turn, investigate. (Create a colorless Clue artifact token with "
-#| "\"|mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgid ""
 "Morbid — When Funnel-Web Recluse enters the battlefield, if a creature died "
 "this turn, investigate. (Create a Clue token. It's an artifact with \"|"
 "mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
 "Okropność — Kiedy ten byt wejdzie na pole bitwy, jeśli w tej turze umarł "
-"stwór, dociekaj. (Stwórz żeton bezkolorowego artefaktu Wskazówka mający \"|"
-"mana_2|, poświęć ten artefakt: Dobierz kartę.\")"
+"stwór, dociekaj. (Stwórz żeton Wskazówki. To artefakt mający \"|mana_2|, "
+"poświęć ten artefakt: Dobierz kartę.\")"
 
 #: ../../MH2.rst:1012
 msgid ""
@@ -4681,19 +4663,14 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:1369
-#, fuzzy
-#| msgid ""
-#| "When Wavesifter enters the battlefield, investigate twice. (To "
-#| "investigate, create a colorless Clue artifact token with \"|mana_2|, "
-#| "Sacrifice this artifact: Draw a card.\")"
 msgid ""
 "When Wavesifter enters the battlefield, investigate twice. (To investigate, "
 "create a Clue token. It's an artifact with \"|mana_2|, Sacrifice this "
 "artifact: Draw a card.\")"
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, dociekaj dwukrotnie. (Dociekając stwórz "
-"żeton bezkolorowego artefaktu Wskazówka mający \"|mana_2|, poświęć ten "
-"artefakt: Dobierz kartę.\")"
+"Kiedy ten byt wejdzie na pole bitwy, dociekaj dwukrotnie. (Stwórz żeton "
+"Wskazówki. To artefakt mający \"|mana_2|, poświęć ten artefakt: Dobierz "
+"kartę.\")"
 
 #: ../../MH2.rst:1371
 msgid ""

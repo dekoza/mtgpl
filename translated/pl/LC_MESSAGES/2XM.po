@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-06-21 00:16+0200\n"
-"PO-Revision-Date: 2022-05-29 17:33+0000\n"
+"PO-Revision-Date: 2022-06-25 15:11+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/2xm/pl/>\n"
 "Language: pl\n"
@@ -842,19 +842,13 @@ msgid ""
 msgstr ""
 
 #: ../../2XM.rst:195
-#, fuzzy
-#| msgid ""
-#| "When Thraben Inspector enters the battlefield, investigate. (Create a "
-#| "colorless Clue artifact token with \"|mana_2|, Sacrifice this artifact: "
-#| "Draw a card.\")"
 msgid ""
 "When Thraben Inspector enters the battlefield, investigate. (Create a Clue "
 "token. It's an artifact with \"|mana_2|, Sacrifice this artifact: Draw a "
 "card.\")"
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, dociekaj. (Stwórz żeton bezkolorowego "
-"artefaktu Wskazówka mający \"|mana_2|, poświęć ten artefakt: Dobierz kartę."
-"\")"
+"Kiedy ten byt wejdzie na pole bitwy, dociekaj. (Stwórz żeton Wskazówki. To "
+"artefakt mający \"|mana_2|, poświęć ten artefakt: Dobierz kartę.\")"
 
 #: ../../2XM.rst:202
 msgid ""
@@ -3341,19 +3335,14 @@ msgid ""
 msgstr ""
 
 #: ../../2XM.rst:951
-#, fuzzy
-#| msgid ""
-#| "Whenever a nontoken creature you control dies, investigate. (Create a "
-#| "colorless Clue artifact token with \"|mana_2|, Sacrifice this artifact: "
-#| "Draw a card.\")"
 msgid ""
 "Whenever a nontoken creature you control dies, investigate. (Create a Clue "
 "token. It's an artifact with \"|mana_2|, Sacrifice this artifact: Draw a "
 "card.\")"
 msgstr ""
 "Ilekroć umrze nieżetonowy stwór pod twoim władaniem, dociekaj. (Stwórz żeton "
-"bezkolorowego artefaktu Wskazówka mający \"|mana_2|, poświęć ten artefakt: "
-"Dobierz kartę.\")"
+"Wskazówki. To artefakt mający \"|mana_2|, poświęć ten artefakt: Dobierz "
+"kartę.\")"
 
 #: ../../2XM.rst:953
 msgid ""
@@ -4884,16 +4873,12 @@ msgid "|tap|: Add |colorless|."
 msgstr "|tap|: Weź |colorless|."
 
 #: ../../2XM.rst:1455
-#, fuzzy
-#| msgid ""
-#| "|mana_4|, |tap|: Investigate. (Create a colorless Clue artifact token "
-#| "with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgid ""
 "|mana_4|, |tap|: Investigate. (Create a Clue token. It's an artifact with \"|"
 "mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
-"|mana_4|, |tap|: Dociekaj. (Stwórz żeton bezkolorowego artefaktu Wskazówka "
-"mający \"|mana_2|, poświęć ten artefakt: Dobierz kartę.\")"
+"|mana_4|, |tap|: Dociekaj. (Stwórz żeton Wskazówki. Jest to artefakt mający "
+"\"|mana_2|, poświęć ten artefakt: Dobierz kartę.\")"
 
 #: ../../2XM.rst:1462
 msgid ""

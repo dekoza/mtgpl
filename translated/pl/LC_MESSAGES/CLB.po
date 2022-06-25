@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2022.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-06-21 00:16+0200\n"
-"PO-Revision-Date: 2022-06-20 16:45+0000\n"
+"PO-Revision-Date: 2022-06-25 15:11+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/clb/pl/>\n"
 "Language: pl\n"
@@ -6141,6 +6141,8 @@ msgid ""
 "Equipped creature has hexproof and haste. (It can't be the target of spells "
 "or abilities your opponents control.)"
 msgstr ""
+"Wyposażony stwór ma pośpiech i antyklątwę. (Ten stwór nie może być "
+"wskazywany przez czary lub zdolności pod władaniem twoich przeciwników.)"
 
 #: ../../CLB.rst:2076
 msgid ""
@@ -7503,18 +7505,14 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:2539
-#, fuzzy
-#| msgid ""
-#| "Whenever enchanted creature attacks, you create a Treasure token. (It's "
-#| "an artifact with \"|tap|, Sacrifice this artifact: Add one mana of any "
-#| "color.\")"
 msgid ""
 "Whenever you cast a creature spell with mana value 3 or less, investigate. "
 "(Create a Clue token. It's an artifact with \"|mana_2|, Sacrifice this "
 "artifact: Draw a card.\")"
 msgstr ""
-"Ilekroć zauroczony stwór zaatakuje, stwórz żeton Skarbu. (To artefakt mający "
-"\"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
+"Ilekroć rzucisz czar stwora o skrócie many 3 lub mniejszym, dociekaj. ("
+"Stwórz żeton Wskazówki. To artefakt mający \"|mana_2|, poświęć ten artefakt: "
+"Dobierz kartę.\")"
 
 #: ../../CLB.rst:2546
 msgid ""
@@ -9704,6 +9702,9 @@ msgid ""
 "Overload |mana_3|\\ |mana_r|\\ |mana_r|\\ |mana_r| (You may cast this spell "
 "for its overload cost. If you do, change \"target\" in its text to \"each.\")"
 msgstr ""
+"Przeciążenie |mana_3|\\ |mana_r|\\ |mana_r|\\ |mana_r| (Możesz rzucić ten "
+"czar za jego koszt przeciążenia. Jeśli tak zrobisz, zamień w jego tekście "
+"słowa \"wskazany\" słowem \"każdy\".)"
 
 #: ../../CLB.rst:3230
 msgid ""
@@ -10116,6 +10117,9 @@ msgid ""
 "creature token. Each of those tokens fights a different one of those "
 "creatures."
 msgstr ""
+"Za każdego stwora pod władaniem twoich przeciwników, stwórz żeton zielonego "
+"stwora Phyrexiańska Bestia 4/4. Każdy z owych żetonów walczy z innym z owych "
+"stworów."
 
 #: ../../CLB.rst:3362
 msgid ""
@@ -10346,10 +10350,6 @@ msgid ""
 msgstr ""
 
 #: ../../CLB.rst:3437
-#, fuzzy
-#| msgid ""
-#| "Search your library for a Forest card, put that card onto the "
-#| "battlefield, then shuffle."
 msgid ""
 "Search your library for a Forest card, put it onto the battlefield, then "
 "shuffle."
@@ -10880,6 +10880,8 @@ msgid ""
 "Whenever an opponent loses life, that player mills that many cards. (Damage "
 "causes loss of life.)"
 msgstr ""
+"Ilekroć przeciwnik traci życie, ów gracz mieli tyle samo kart. (Obrażenia "
+"powodują utratę życia.)"
 
 #: ../../CLB.rst:3616
 msgid ""

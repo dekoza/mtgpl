@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-06-19 21:39+0200\n"
-"PO-Revision-Date: 2022-06-25 14:00+0000\n"
+"PO-Revision-Date: 2022-06-25 15:11+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/cmd/pl/>\n"
 "Language: pl\n"
@@ -4046,12 +4046,15 @@ msgid ""
 "Whenever Skullbriar, the Walking Grave deals combat damage to a player, put "
 "a +1/+1 counter on it."
 msgstr ""
+"Kiedy ten stwór zada graczowi obrażenia bojowe, umieść na nim znacznik +1/+1."
 
 #: ../../CMD.rst:1225
 msgid ""
 "Counters remain on Skullbriar as it moves to any zone other than a player's "
 "hand or library."
 msgstr ""
+"Znaczniki pozostają na niniejszym podczas przenoszenia go do dowolnej strefy "
+"oprócz ręki gracza lub biblioteki."
 
 #: ../../CMD.rst:1232
 msgid ""
@@ -4081,6 +4084,8 @@ msgid ""
 "|tap|: Choose a creature card at random from target opponent's graveyard. "
 "Put that card onto the battlefield under your control."
 msgstr ""
+"|tap|: Wybierz losową kartę stwora z cmentarza wskazanego gracza. Umieść ową "
+"kartę na polu bitwy pod twoim władaniem."
 
 #: ../../CMD.rst:1244
 msgid ""

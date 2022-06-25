@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2022.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-06-25 15:47+0200\n"
-"PO-Revision-Date: 2022-06-25 14:00+0000\n"
+"PO-Revision-Date: 2022-06-25 15:11+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/2x2/pl/>\n"
 "Language: pl\n"
@@ -2731,7 +2731,7 @@ msgstr ""
 
 #: ../../2X2.rst:785
 msgid "All creatures have haste."
-msgstr ""
+msgstr "Wszystkie stwory mają pośpiech."
 
 #: ../../2X2.rst:792
 msgid ""
@@ -2827,6 +2827,9 @@ msgid ""
 "the exiled creature's mana value. Spend this mana only to cast creature "
 "spells."
 msgstr ""
+"Wygnaj stwora pod twoim władaniem: Weź X many w dowolnym jednym kolorze, "
+"gdzie X jest 1 plus skrót many wygnanego stwora. Wydaj ową manę tylko na "
+"rzucenie czarów stworów."
 
 #: ../../2X2.rst:822
 msgid ""
@@ -3759,6 +3762,8 @@ msgid ""
 "Each creature assigns combat damage equal to its toughness rather than its "
 "power."
 msgstr ""
+"Każdy stwór przypisuje obrażenia bojowe równe swojej wytrzymałości zamiast "
+"sile."
 
 #: ../../2X2.rst:1144
 msgid ""
@@ -4185,6 +4190,9 @@ msgid ""
 "creature card, a land card, and a noncreature, nonland card. You put the "
 "chosen cards into your hand. Then shuffle."
 msgstr ""
+"Ujawnij karty w twojej bibliotece. Przeciwnik wybiera spośród nich kartę "
+"stwora, kartę lądu oraz niestworową nielądową kartę. Umieść owe wybrane "
+"karty w twojej ręce. Następnie przetasuj."
 
 #: ../../2X2.rst:1292
 msgid ""
@@ -5143,12 +5151,13 @@ msgid ""
 "|mana_2|\\ |mana_r|, Sacrifice an artifact: Each other player sacrifices an "
 "artifact."
 msgstr ""
+"|mana_2|\\ |mana_r|, poświęć artefakt: Każdy inny gracz poświęca artefakt."
 
 #: ../../2X2.rst:1599
 msgid ""
 "|mana_2|\\ |mana_g|, Sacrifice an enchantment: Each other player sacrifices "
 "an enchantment."
-msgstr ""
+msgstr "|mana_2|\\ |mana_g|, poświęć urok: Każdy inny gracz poświęca urok."
 
 #: ../../2X2.rst:1606
 msgid ""
@@ -5184,12 +5193,15 @@ msgid ""
 "Whenever Skullbriar, the Walking Grave deals combat damage to a player, put "
 "a +1/+1 counter on it."
 msgstr ""
+"Kiedy ten stwór zada graczowi obrażenia bojowe, umieść na nim znacznik +1/+1."
 
 #: ../../2X2.rst:1613
 msgid ""
 "Counters remain on Skullbriar as it moves to any zone other than a player's "
 "hand or library."
 msgstr ""
+"Znaczniki pozostają na niniejszym podczas przenoszenia go do dowolnej strefy "
+"oprócz ręki gracza lub biblioteki."
 
 #: ../../2X2.rst:1618
 msgid ""
@@ -5250,6 +5262,8 @@ msgid ""
 "|tap|: Choose a creature card at random from target opponent's graveyard. "
 "Put that card onto the battlefield under your control."
 msgstr ""
+"|tap|: Wybierz losową kartę stwora z cmentarza wskazanego gracza. Umieść ową "
+"kartę na polu bitwy pod twoim władaniem."
 
 #: ../../2X2.rst:1640
 msgid ""
