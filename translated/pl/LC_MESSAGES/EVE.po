@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-06-19 21:39+0200\n"
-"PO-Revision-Date: 2022-06-19 10:23+0000\n"
+"PO-Revision-Date: 2022-06-25 14:00+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/eve/pl/>\n"
 "Language: pl\n"
@@ -1818,6 +1818,8 @@ msgid ""
 "|mana_ur|\\ |mana_ur|\\ |mana_ur|\\ |mana_ur|: You may put a blue or red "
 "creature card from your hand onto the battlefield."
 msgstr ""
+"|mana_ur|\\ |mana_ur|\\ |mana_ur|\\ |mana_ur|: Możesz umieścić kartę "
+"niebieskiego lub czerwonego stwora z twojej ręki na polu bitwy."
 
 #: ../../EVE.rst:578
 msgid ""
@@ -2249,10 +2251,12 @@ msgid ""
 "Whenever you cast a red spell, Balefire Liege deals 3 damage to target "
 "player or planeswalker."
 msgstr ""
+"Ilekroć rzucisz czerwony czar, ten byt zadaje wskazanemu graczowi lub "
+"wędrowcowi 3 obrażenia."
 
 #: ../../EVE.rst:729
 msgid "Whenever you cast a white spell, you gain 3 life."
-msgstr ""
+msgstr "Ilekroć rzucisz biały czar, zyskaj 3 życia."
 
 #: ../../EVE.rst:734
 msgid ""

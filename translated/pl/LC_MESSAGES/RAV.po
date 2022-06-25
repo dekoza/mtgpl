@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-06-19 21:39+0200\n"
-"PO-Revision-Date: 2022-04-24 19:45+0000\n"
+"PO-Revision-Date: 2022-06-25 14:00+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/rav/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.10.1\n"
+"X-Generator: Weblate 4.12.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../symbols.rst:3
@@ -1809,11 +1809,11 @@ msgstr ""
 msgid ""
 "When Strands of Undeath enters the battlefield, target player discards two "
 "cards."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wskazany gracz odrzuca dwie karty."
 
 #: ../../RAV.rst:569
 msgid "|mana_b|: Regenerate enchanted creature."
-msgstr ""
+msgstr "|mana_b|: Zregeneruj zauroczonego stwora."
 
 #: ../../RAV.rst:574
 msgid ""
