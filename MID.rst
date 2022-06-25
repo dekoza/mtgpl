@@ -1883,7 +1883,7 @@
    |mana_2|: Stuffed Bear becomes a 4/4 green Bear artifact creature until end of turn.
 
 
-:mtgtip:`Deserted Beach<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/8/38367ee5-154b-44cb-8974-422038d039df.jpg?1637114746|https://scryfall.com/card/mid/260/deserted-beach?utm_source=api>`
+:mtgtip:`Deserted Beach<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/8/38367ee5-154b-44cb-8974-422038d039df.jpg?1655879794|https://scryfall.com/card/mid/260/deserted-beach?utm_source=api>`
    Deserted Beach enters the battlefield tapped unless you control two or more other lands.
 
    |tap|: Add |mana_w| or |mana_u|.
@@ -1899,7 +1899,7 @@
    |mana_2|, |tap|, Sacrifice Field of Ruin: Destroy target nonbasic land an opponent controls. Each player searches their library for a basic land card, puts it onto the battlefield, then shuffles.
 
 
-:mtgtip:`Haunted Ridge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/2/b200e822-be36-4e59-bd0e-9d0188a68df8.jpg?1637114828|https://scryfall.com/card/mid/263/haunted-ridge?utm_source=api>`
+:mtgtip:`Haunted Ridge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/2/b200e822-be36-4e59-bd0e-9d0188a68df8.jpg?1655879799|https://scryfall.com/card/mid/263/haunted-ridge?utm_source=api>`
    Haunted Ridge enters the battlefield tapped unless you control two or more other lands.
 
    |tap|: Add |mana_b| or |mana_r|.
@@ -1917,19 +1917,19 @@
    |mana_4|: Creeping Inn phases out.
 
 
-:mtgtip:`Overgrown Farmland<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/4/84a76e0f-49fc-4087-8859-98f4a4deacdf.jpg?1637114907|https://scryfall.com/card/mid/265/overgrown-farmland?utm_source=api>`
+:mtgtip:`Overgrown Farmland<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/4/84a76e0f-49fc-4087-8859-98f4a4deacdf.jpg?1655879808|https://scryfall.com/card/mid/265/overgrown-farmland?utm_source=api>`
    Overgrown Farmland enters the battlefield tapped unless you control two or more other lands.
 
    |tap|: Add |mana_g| or |mana_w|.
 
 
-:mtgtip:`Rockfall Vale<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/a/eaff0a1e-b65a-422f-8f9f-65fac037047d.jpg?1637114937|https://scryfall.com/card/mid/266/rockfall-vale?utm_source=api>`
+:mtgtip:`Rockfall Vale<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/a/eaff0a1e-b65a-422f-8f9f-65fac037047d.jpg?1655879806|https://scryfall.com/card/mid/266/rockfall-vale?utm_source=api>`
    Rockfall Vale enters the battlefield tapped unless you control two or more other lands.
 
    |tap|: Add |mana_r| or |mana_g|.
 
 
-:mtgtip:`Shipwreck Marsh<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/5/7579824a-6e46-442b-95ff-03fea4adbba6.jpg?1637114960|https://scryfall.com/card/mid/267/shipwreck-marsh?utm_source=api>`
+:mtgtip:`Shipwreck Marsh<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/5/7579824a-6e46-442b-95ff-03fea4adbba6.jpg?1655879802|https://scryfall.com/card/mid/267/shipwreck-marsh?utm_source=api>`
    Shipwreck Marsh enters the battlefield tapped unless you control two or more other lands.
 
    |tap|: Add |mana_u| or |mana_b|.

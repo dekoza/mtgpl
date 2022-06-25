@@ -401,7 +401,7 @@
    Avoidance — Whenever you cast a noncreature spell, exile up to one target nonland permanent you control, then return that card to the battlefield under its owner's control.
 
 
-:mtgtip:`Draconic Lore<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/5/557f2aa6-0b82-4f60-9617-610b613c2a48.jpg?1653690984|https://scryfall.com/card/clb/64/draconic-lore?utm_source=api>`
+:mtgtip:`Draconic Lore<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/5/557f2aa6-0b82-4f60-9617-610b613c2a48.jpg?1655870117|https://scryfall.com/card/clb/64/draconic-lore?utm_source=api>`
    This spell costs |mana_2| less to cast if you control a Dragon.
 
    Draw three cards.
@@ -785,11 +785,11 @@
    When Guildsworn Prowler dies, if it wasn't blocking, draw a card.
 
 
-:mtgtip:`Hezrou<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/c/0c2f40e7-82b0-4847-994d-9326a88c4965.jpg?1653596129|https://scryfall.com/card/clb/131/hezrou-demonic-stench?utm_source=api>`
+:mtgtip:`Hezrou<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/c/0c2f40e7-82b0-4847-994d-9326a88c4965.jpg?1655896677|https://scryfall.com/card/clb/131/hezrou-demonic-stench?utm_source=api>`
    Whenever one or more creatures you control become blocked, each blocking creature gets -1/-1 until end of turn.
 
 
-:mtgtip:`Demonic Stench<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/c/0c2f40e7-82b0-4847-994d-9326a88c4965.jpg?1653596129|https://scryfall.com/card/clb/131/hezrou-demonic-stench?utm_source=api>`
+:mtgtip:`Demonic Stench<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/c/0c2f40e7-82b0-4847-994d-9326a88c4965.jpg?1655896677|https://scryfall.com/card/clb/131/hezrou-demonic-stench?utm_source=api>`
    Each creature that blocked this turn gets -1/-1 until end of turn. (Then exile this card. You may cast the creature later from exile.)
 
 
@@ -2037,7 +2037,7 @@
    When Prized Statue enters the battlefield or is put into a graveyard from the battlefield, create a Treasure token. (It's an artifact with "|tap|, Sacrifice this artifact: Add one mana of any color.")
 
 
-:mtgtip:`Prophetic Prism<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/b/1b837b21-9165-4965-a7b5-c59811647951.jpg?1653695991|https://scryfall.com/card/clb/335/prophetic-prism?utm_source=api>`
+:mtgtip:`Prophetic Prism<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/b/1b837b21-9165-4965-a7b5-c59811647951.jpg?1655870150|https://scryfall.com/card/clb/335/prophetic-prism?utm_source=api>`
    When Prophetic Prism enters the battlefield, draw a card.
 
    |mana_1|, |tap|: Add one mana of any color.

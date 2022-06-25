@@ -1891,13 +1891,13 @@
    |tap|, Sacrifice Wedding Invitation: Target creature can't be blocked this turn. If it's a Vampire, it also gains lifelink until end of turn.
 
 
-:mtgtip:`Deathcap Glade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/5/d5523659-98a8-4ae2-9ec7-d77e7352c374.jpg?1643594865|https://scryfall.com/card/vow/261/deathcap-glade?utm_source=api>`
+:mtgtip:`Deathcap Glade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/5/d5523659-98a8-4ae2-9ec7-d77e7352c374.jpg?1655879791|https://scryfall.com/card/vow/261/deathcap-glade?utm_source=api>`
    Deathcap Glade enters the battlefield tapped unless you control two or more other lands.
 
    |tap|: Add |mana_b| or |mana_g|.
 
 
-:mtgtip:`Dreamroot Cascade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/b/eb604455-c411-414d-a2ef-e7567ee86a4d.jpg?1643594893|https://scryfall.com/card/vow/262/dreamroot-cascade?utm_source=api>`
+:mtgtip:`Dreamroot Cascade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/b/eb604455-c411-414d-a2ef-e7567ee86a4d.jpg?1655879797|https://scryfall.com/card/vow/262/dreamroot-cascade?utm_source=api>`
    Dreamroot Cascade enters the battlefield tapped unless you control two or more other lands.
 
    |tap|: Add |mana_g| or |mana_u|.
@@ -1907,19 +1907,19 @@
    |tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
 
-:mtgtip:`Shattered Sanctum<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/d/ad44c9aa-eb8f-4200-8dfe-2af728d80083.jpg?1643594943|https://scryfall.com/card/vow/264/shattered-sanctum?utm_source=api>`
+:mtgtip:`Shattered Sanctum<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/d/ad44c9aa-eb8f-4200-8dfe-2af728d80083.jpg?1655879804|https://scryfall.com/card/vow/264/shattered-sanctum?utm_source=api>`
    Shattered Sanctum enters the battlefield tapped unless you control two or more other lands.
 
    |tap|: Add |mana_w| or |mana_b|.
 
 
-:mtgtip:`Stormcarved Coast<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/9/299f1dee-b3d7-472b-aa0b-2f9b46a96da5.jpg?1643594975|https://scryfall.com/card/vow/265/stormcarved-coast?utm_source=api>`
+:mtgtip:`Stormcarved Coast<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/9/299f1dee-b3d7-472b-aa0b-2f9b46a96da5.jpg?1655879810|https://scryfall.com/card/vow/265/stormcarved-coast?utm_source=api>`
    Stormcarved Coast enters the battlefield tapped unless you control two or more other lands.
 
    |tap|: Add |mana_u| or |mana_r|.
 
 
-:mtgtip:`Sundown Pass<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/f/8f3fddd7-ede4-41c7-a645-a6af298a3d35.jpg?1643595001|https://scryfall.com/card/vow/266/sundown-pass?utm_source=api>`
+:mtgtip:`Sundown Pass<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/f/8f3fddd7-ede4-41c7-a645-a6af298a3d35.jpg?1655879812|https://scryfall.com/card/vow/266/sundown-pass?utm_source=api>`
    Sundown Pass enters the battlefield tapped unless you control two or more other lands.
 
    |tap|: Add |mana_r| or |mana_w|.

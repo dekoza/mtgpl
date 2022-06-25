@@ -42,9 +42,9 @@ Tłumaczenie dodatków
 Nadchodzące
 -----------
 
-* :mtgexp:`2X2` :doc:`Double Masters 2022<2X2>` Premiera: 2022-07
-* :mtgexp:`40K` :doc:`Warhammer 40,000 Commander<40K>` Premiera: 2022-08
-* :mtgexp:`DMU` :doc:`Dominaria United` Premiera: 2022-09
+* :mtgexp:`2X2` :doc:`Double Masters 2022<2X2>` |2X2_percent| Premiera: 2022-07-08
+* :mtgexp:`40K` :doc:`Warhammer 40,000 Commander<40K>` Premiera: 2022-08-12
+* :mtgexp:`DMU` :doc:`Dominaria United` Premiera: 2022-09-09
 * :mtgexp:`DMC` :doc:`Dominaria United Commander` Premiera: 2022-09
 
 

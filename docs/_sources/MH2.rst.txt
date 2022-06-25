@@ -345,7 +345,7 @@
    |mana_2|, Sacrifice Parcel Myr: Draw a card.
 
 
-:mtgtip:`Phantasmal Dreadmaw<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/7/a7f09ddb-0dec-47a7-92d4-efbeaf8cd85c.jpg?1632168649|https://scryfall.com/card/mh2/55/phantasmal-dreadmaw?utm_source=api>`
+:mtgtip:`Phantasmal Dreadmaw<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/7/a7f09ddb-0dec-47a7-92d4-efbeaf8cd85c.jpg?1656002884|https://scryfall.com/card/mh2/55/phantasmal-dreadmaw?utm_source=api>`
    Trample
 
    When Phantasmal Dreadmaw becomes the target of a spell or ability, sacrifice it.
