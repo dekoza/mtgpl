@@ -12,7 +12,7 @@
 
 
 :mtgtip:`Henzie "Toolbox" Torre<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/e/ee228dcc-3170-4c24-80bc-28bcee07cb43.jpg?1651401011|https://scryfall.com/card/ncc/2/henzie-toolbox-torre?utm_source=api>`
-   Each creature spell you cast with mana value 4 or greater has blitz. The blitz cost is equal to its mana cost. (You may choose to cast that spell for its blitz cost. If you do, it gains haste and "When this creature dies, draw a card." Sacrifice it at the beginning of the next end step.)
+   Each creature spell you cast with mana value 4 or greater has blitz. The blitz cost is equal to its mana cost. (You may choose to cast that spell for its blitz cost. If you do it gains haste and "When this creature dies, draw a card." Sacrifice it at the beginning of the next end step.)
 
    Blitz costs you pay cost |mana_1| less for each time you've cast your commander from the command zone this game.
 
@@ -140,7 +140,7 @@
 
 
 :mtgtip:`Change of Plans<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7cc7f675-3e56-4e5a-9618-9a9ba8e0310d.jpg?1650506010|https://scryfall.com/card/ncc/24/change-of-plans?utm_source=api>`
-   Each of X target creatures you control connive. You may have any number of them phase out. (To have a creature connive, draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature. Treat phased out permanents and anything attached to them as though they don't exist until their controller's next turn.)
+   Each of X target creatures you control connive. You may have any number of them phase out. (To have a creature connive, draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature. Treat phased-out permanents and anything attached to them as though they don't exist until their controller's next turn.)
 
 
 :mtgtip:`Extravagant Replication<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/a/6a6f55d7-d689-43eb-a59a-b8be88269ee6.jpg?1650409587|https://scryfall.com/card/ncc/25/extravagant-replication?utm_source=api>`
@@ -815,7 +815,7 @@
    Whenever you draw a card, you may pay |mana_1|. If you do, put a +1/+1 counter on Nadir Kraken and create a 1/1 blue Tentacle creature token.
 
 
-:mtgtip:`Ponder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/4/44dcfc0c-b23d-48be-bf3a-a6fc6806c5e1.jpg?1650410794|https://scryfall.com/card/ncc/229/ponder?utm_source=api>`
+:mtgtip:`Ponder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/4/44dcfc0c-b23d-48be-bf3a-a6fc6806c5e1.jpg?1655075626|https://scryfall.com/card/ncc/229/ponder?utm_source=api>`
    Look at the top three cards of your library, then put them back in any order. You may shuffle.
 
    Draw a card.
@@ -1218,7 +1218,7 @@
 :mtgtip:`Overgrown Battlement<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/3/137852ce-3699-4dd0-8ead-9b267e9bb900.jpg?1650419191|https://scryfall.com/card/ncc/303/overgrown-battlement?utm_source=api>`
    Defender
 
-   |tap|: Add |mana_g| for each creature with defender you control.
+   |tap|: Add |mana_g| for each creature you control with defender.
 
 
 :mtgtip:`Rampant Growth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/2/c29e97e7-5a3d-4754-a859-0e7318e7c1d2.jpg?1650419210|https://scryfall.com/card/ncc/304/rampant-growth?utm_source=api>`
@@ -1654,7 +1654,7 @@
 
 
 :mtgtip:`Swiftfoot Boots<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/c/3cb171ef-42eb-466e-b425-e3c16301c0ca.jpg?1650424713|https://scryfall.com/card/ncc/382/swiftfoot-boots?utm_source=api>`
-   Equipped creature has hexproof and haste.
+   Equipped creature has hexproof and haste. (It can't be the target of spells or abilities your opponents control.)
 
    Equip |mana_1|
 

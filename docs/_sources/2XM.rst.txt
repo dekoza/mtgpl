@@ -192,7 +192,7 @@
 
 
 :mtgtip:`Thraben Inspector<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/b/2be39749-ad6f-4160-99eb-c677eee7f1b2.jpg?1599711120|https://scryfall.com/card/2xm/35/thraben-inspector?utm_source=api>`
-   When Thraben Inspector enters the battlefield, investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
+   When Thraben Inspector enters the battlefield, investigate. (Create a Clue token. It's an artifact with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
 
 :mtgtip:`Topple the Statue<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/b/ab74e12a-ad7c-4563-aa06-632654bac91d.jpg?1599711323|https://scryfall.com/card/2xm/36/topple-the-statue?utm_source=api>`
@@ -948,7 +948,7 @@
 
 
 :mtgtip:`Ulvenwald Mysteries<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/6/1614bad6-07db-4a7c-8336-3ac3db393689.jpg?1599707631|https://scryfall.com/card/2xm/184/ulvenwald-mysteries?utm_source=api>`
-   Whenever a nontoken creature you control dies, investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
+   Whenever a nontoken creature you control dies, investigate. (Create a Clue token. It's an artifact with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
    Whenever you sacrifice a Clue, create a 1/1 white Human Soldier creature token.
 
@@ -1452,7 +1452,7 @@
 :mtgtip:`Magnifying Glass<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/a/7a0c879b-c566-431e-a8fa-6104c39b6d7c.jpg?1599709480|https://scryfall.com/card/2xm/269/magnifying-glass?utm_source=api>`
    |tap|: Add |colorless|.
 
-   |mana_4|, |tap|: Investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
+   |mana_4|, |tap|: Investigate. (Create a Clue token. It's an artifact with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
 
 :mtgtip:`Mana Crypt<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4d960186-4559-4af0-bd22-63baa15f8939.jpg?1599709515|https://scryfall.com/card/2xm/270/mana-crypt?utm_source=api>`

@@ -332,7 +332,7 @@
 
 .. |APC_percent| image:: images/pie50.png        
 
-.. |EVE_percent| image:: images/pie65.png        
+.. |EVE_percent| image:: images/pie70.png        
 
 .. |S00_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
@@ -374,7 +374,7 @@
 
 .. |VOC_percent| image:: images/pie75.png        
 
-.. |C13_percent| image:: images/pie80.png        
+.. |C13_percent| image:: images/pie85.png        
 
 .. |WAR_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone

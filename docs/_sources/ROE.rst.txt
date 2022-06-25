@@ -1134,7 +1134,7 @@
 :mtgtip:`Vent Sentinel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/7/07989612-d3c4-44f7-b1ee-1ddf2d93a7da.jpg?1562700846|https://scryfall.com/card/roe/171/vent-sentinel?utm_source=api>`
    Defender
 
-   |mana_1|\ |mana_r|, |tap|: Vent Sentinel deals damage to target player or planeswalker equal to the number of creatures with defender you control.
+   |mana_1|\ |mana_r|, |tap|: Vent Sentinel deals damage to target player or planeswalker equal to the number of creatures you control with defender.
 
 
 :mtgtip:`World at War<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/4/a47a05ad-fe86-481e-b770-e1760be4f852.jpg?1562706935|https://scryfall.com/card/roe/172/world-at-war?utm_source=api>`
@@ -1326,7 +1326,7 @@
 :mtgtip:`Overgrown Battlement<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/2/f2e3d197-e978-4ec6-ab69-3c5fd8ac3fc1.jpg?1562710188|https://scryfall.com/card/roe/203/overgrown-battlement?utm_source=api>`
    Defender
 
-   |tap|: Add |mana_g| for each creature with defender you control.
+   |tap|: Add |mana_g| for each creature you control with defender.
 
 
 :mtgtip:`Pelakka Wurm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/e/8e732593-0bdc-4dd4-9b07-9aa1a780e6e8.jpg?1562706228|https://scryfall.com/card/roe/204/pelakka-wurm?utm_source=api>`

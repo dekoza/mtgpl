@@ -1764,7 +1764,7 @@
 
 
 :mtgtip:`Thraben Inspector<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/c/ec18fa41-6948-4d94-8dcc-31fb63fb53ec.jpg?1619400151|https://scryfall.com/card/tsr/305/thraben-inspector?utm_source=api>`
-   When Thraben Inspector enters the battlefield, investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
+   When Thraben Inspector enters the battlefield, investigate. (Create a Clue token. It's an artifact with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
 
 :mtgtip:`Baral, Chief of Compliance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/1/a103a725-4750-4d9e-8792-6fbbb81bba0e.jpg?1619400191|https://scryfall.com/card/tsr/306/baral-chief-of-compliance?utm_source=api>`

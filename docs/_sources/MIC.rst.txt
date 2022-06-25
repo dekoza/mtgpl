@@ -15,8 +15,8 @@
    At the beginning of your end step, you may sacrifice a Zombie. If you do, draw a card.
 
 
-:mtgtip:`Eloise, Nephalia Sleuth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bf81da34-4c2b-4e54-a60b-46ab41f72431.jpg?1637627771|https://scryfall.com/card/mic/3/eloise-nephalia-sleuth?utm_source=api>`
-   Whenever another creature you control dies, investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
+:mtgtip:`Eloise, Nephalia Sleuth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bf81da34-4c2b-4e54-a60b-46ab41f72431.jpg?1655437106|https://scryfall.com/card/mic/3/eloise-nephalia-sleuth?utm_source=api>`
+   Whenever another creature you control dies, investigate. (Create a Clue token. It's an artifact with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
    Whenever you sacrifice a token, surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)
 
@@ -688,7 +688,7 @@
 
 
 :mtgtip:`Swiftfoot Boots<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/3/8359e15a-52b1-401a-a080-fed4bada7c01.jpg?1637631827|https://scryfall.com/card/mic/163/swiftfoot-boots?utm_source=api>`
-   Equipped creature has hexproof and haste.
+   Equipped creature has hexproof and haste. (It can't be the target of spells or abilities your opponents control.)
 
    Equip |mana_1|
 

@@ -671,7 +671,7 @@
    When Sandstone Oracle enters the battlefield, choose an opponent. If that player has more cards in hand than you, draw cards equal to the difference.
 
 
-:mtgtip:`Scaretiller<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/3/83ad06e3-c498-49f8-b8d4-34d044ede097.jpg?1604195787|https://scryfall.com/card/znc/117/scaretiller?utm_source=api>`
+:mtgtip:`Scaretiller<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/3/83ad06e3-c498-49f8-b8d4-34d044ede097.jpg?1654805369|https://scryfall.com/card/znc/117/scaretiller?utm_source=api>`
    Whenever Scaretiller becomes tapped, choose one —
 
    • You may put a land card from your hand onto the battlefield tapped.

@@ -170,7 +170,7 @@
 
 
 :mtgtip:`Search the Premises<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/0/d0345668-0cc1-41d2-8e4f-de7726fd0365.jpg?1626094032|https://scryfall.com/card/mh2/29/search-the-premises?utm_source=api>`
-   Whenever a creature attacks you or a planeswalker you control, investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
+   Whenever a creature attacks you or a planeswalker you control, investigate. (Create a Clue token. It's an artifact with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
 
 :mtgtip:`Serra's Emissary<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/6/b6534049-3045-4546-b1e8-e5b1b0df5f56.jpg?1626094056|https://scryfall.com/card/mh2/30/serras-emissary?utm_source=api>`
@@ -264,7 +264,7 @@
 
 
 :mtgtip:`Floodhound<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/5/a5b1ac05-bd87-4605-8443-0469276e1e3a.jpg?1626094368|https://scryfall.com/card/mh2/42/floodhound?utm_source=api>`
-   |mana_3|, |tap|: Investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
+   |mana_3|, |tap|: Investigate. (Create a Clue token. It's an artifact with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
 
 :mtgtip:`Foul Watcher<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/1/71d00175-5e5e-40dd-a71b-5ba56d763134.jpg?1626094394|https://scryfall.com/card/mh2/43/foul-watcher?utm_source=api>`
@@ -294,7 +294,7 @@
 :mtgtip:`Hard Evidence<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/0/501599d6-1072-4124-b05d-01f96de153f3.jpg?1626094482|https://scryfall.com/card/mh2/46/hard-evidence?utm_source=api>`
    Create a 0/3 blue Crab creature token.
 
-   Investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
+   Investigate. (Create a Clue token. It's an artifact with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
 
 :mtgtip:`Inevitable Betrayal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/1/71725895-38cd-4017-bbf0-0b7dc9b5db60.jpg?1626094514|https://scryfall.com/card/mh2/47/inevitable-betrayal?utm_source=api>`
@@ -853,7 +853,7 @@
    When Obsidian Charmaw enters the battlefield, destroy target nonbasic land an opponent controls.
 
 
-:mtgtip:`Ragavan, Nimble Pilferer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/9/a9738cda-adb1-47fb-9f4c-ecd930228c4d.jpg?1643112412|https://scryfall.com/card/mh2/138/ragavan-nimble-pilferer?utm_source=api>`
+:mtgtip:`Ragavan, Nimble Pilferer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/9/a9738cda-adb1-47fb-9f4c-ecd930228c4d.jpg?1653966896|https://scryfall.com/card/mh2/138/ragavan-nimble-pilferer?utm_source=api>`
    Whenever Ragavan, Nimble Pilferer deals combat damage to a player, create a Treasure token and exile the top card of that player's library. Until end of turn, you may cast that card.
 
    Dash |mana_1|\ |mana_r| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)
@@ -1000,7 +1000,7 @@
 :mtgtip:`Funnel-Web Recluse<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/4/b486c9cf-b0a6-44a4-b4c1-b3f5eed6c294.jpg?1626097467|https://scryfall.com/card/mh2/161/funnel-web-recluse?utm_source=api>`
    Reach
 
-   Morbid — When Funnel-Web Recluse enters the battlefield, if a creature died this turn, investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
+   Morbid — When Funnel-Web Recluse enters the battlefield, if a creature died this turn, investigate. (Create a Clue token. It's an artifact with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
 
 :mtgtip:`Gaea's Will<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/8/488996b2-06c8-4866-bf0d-4664640c2be1.jpg?1626097489|https://scryfall.com/card/mh2/162/gaeas-will?utm_source=api>`
@@ -1366,7 +1366,7 @@
 :mtgtip:`Wavesifter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/a/0a269277-7f4e-40de-a2b4-53aa50cfd665.jpg?1626098852|https://scryfall.com/card/mh2/217/wavesifter?utm_source=api>`
    Flying
 
-   When Wavesifter enters the battlefield, investigate twice. (To investigate, create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
+   When Wavesifter enters the battlefield, investigate twice. (To investigate, create a Clue token. It's an artifact with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
    Evoke |mana_g|\ |mana_u| (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)
 
@@ -1381,7 +1381,7 @@
    If you would create a Clue, Food, or Treasure token, instead create one of each.
 
 
-:mtgtip:`Altar of the Goyf<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/0/e0b3a98f-2b3c-438b-b78c-eef8d917f68e.jpg?1626098924|https://scryfall.com/card/mh2/220/altar-of-the-goyf?utm_source=api>`
+:mtgtip:`Altar of the Goyf<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/0/e0b3a98f-2b3c-438b-b78c-eef8d917f68e.jpg?1653898014|https://scryfall.com/card/mh2/220/altar-of-the-goyf?utm_source=api>`
    Whenever a creature you control attacks alone, it gets +X/+X until end of turn, where X is the number of card types among cards in all graveyards.
 
    Lhurgoyf creatures you control have trample.

@@ -210,7 +210,7 @@
 
 
 :mtgtip:`Ezuri's Predation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4d9b4ad1-3d5c-43b6-9284-9ec427936dd2.jpg?1562704058|https://scryfall.com/card/c15/36/ezuris-predation?utm_source=api>`
-   For each creature your opponents control, create a 4/4 green Phyrexian Beast creature token. Each of those Beasts fights a different one of those creatures.
+   For each creature your opponents control, create a 4/4 green Phyrexian Beast creature token. Each of those tokens fights a different one of those creatures.
 
 
 :mtgtip:`Great Oak Guardian<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/e/be0637cd-ccc4-4314-801d-9f780e5476c2.jpg?1562709091|https://scryfall.com/card/c15/37/great-oak-guardian?utm_source=api>`
@@ -226,7 +226,7 @@
 
 
 :mtgtip:`Skullwinder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/b/cb7f2e86-5445-4835-8cad-e08aea651ebb.jpg?1562709667|https://scryfall.com/card/c15/39/skullwinder?utm_source=api>`
-   Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+   Deathtouch
 
    When Skullwinder enters the battlefield, return target card from your graveyard to your hand, then choose an opponent. That player returns a card from their graveyard to their hand.
 
@@ -918,7 +918,7 @@
 :mtgtip:`Mizzium Mortars<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/5/85e72d7b-8d0f-4953-b8b1-7ddfaaa9fc06.jpg?1562706620|https://scryfall.com/card/c15/163/mizzium-mortars?utm_source=api>`
    Mizzium Mortars deals 4 damage to target creature you don't control.
 
-   Overload |mana_3|\ |mana_r|\ |mana_r|\ |mana_r| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of "target" with "each.")
+   Overload |mana_3|\ |mana_r|\ |mana_r|\ |mana_r| (You may cast this spell for its overload cost. If you do, change "target" in its text to "each.")
 
 
 :mtgtip:`Stinkdrinker Daredevil<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/2/a2f8a517-07b5-4db0-b7b4-98187d97f372.jpg?1562707878|https://scryfall.com/card/c15/164/stinkdrinker-daredevil?utm_source=api>`
@@ -1508,7 +1508,7 @@
 
 
 :mtgtip:`Swiftfoot Boots<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/7/b79b931d-93b6-46fa-8dff-87abe6dd7170.jpg?1562708786|https://scryfall.com/card/c15/271/swiftfoot-boots?utm_source=api>`
-   Equipped creature has hexproof and haste.
+   Equipped creature has hexproof and haste. (It can't be the target of spells or abilities your opponents control.)
 
    Equip |mana_1|
 

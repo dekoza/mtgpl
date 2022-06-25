@@ -275,7 +275,7 @@
    When Archaeomancer enters the battlefield, return target instant or sorcery card from your graveyard to your hand.
 
 
-:mtgtip:`Back to Basics<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/6/0600d6c2-0f72-4e79-a55d-1f06dffa48c2.jpg?1547516124|https://scryfall.com/card/uma/46/back-to-basics?utm_source=api>`
+:mtgtip:`Back to Basics<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/6/0600d6c2-0f72-4e79-a55d-1f06dffa48c2.jpg?1654805483|https://scryfall.com/card/uma/46/back-to-basics?utm_source=api>`
    Nonbasic lands don't untap during their controllers' untap steps.
 
 
@@ -1269,7 +1269,7 @@
    Discard a card: Regenerate Patchwork Gnomes. (The next time this creature would be destroyed, instead tap it, remove it from combat, and heal all damage on it.)
 
 
-:mtgtip:`Phyrexian Altar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/c/3c66c54b-b2d1-494d-ae10-a950c184a52f.jpg?1547518505|https://scryfall.com/card/uma/232/phyrexian-altar?utm_source=api>`
+:mtgtip:`Phyrexian Altar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/c/3c66c54b-b2d1-494d-ae10-a950c184a52f.jpg?1655149852|https://scryfall.com/card/uma/232/phyrexian-altar?utm_source=api>`
    Sacrifice a creature: Add one mana of any color.
 
 
