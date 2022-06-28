@@ -11,8 +11,8 @@
    The first instant or sorcery spell you cast each turn has casualty 2. (As you cast that spell, you may sacrifice a creature with power 2 or greater. When you do, copy the spell and you may choose new targets for the copy.)
 
 
-:mtgtip:`Henzie "Toolbox" Torre<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/e/ee228dcc-3170-4c24-80bc-28bcee07cb43.jpg?1651401011|https://scryfall.com/card/ncc/2/henzie-toolbox-torre?utm_source=api>`
-   Each creature spell you cast with mana value 4 or greater has blitz. The blitz cost is equal to its mana cost. (You may choose to cast that spell for its blitz cost. If you do it gains haste and "When this creature dies, draw a card." Sacrifice it at the beginning of the next end step.)
+:mtgtip:`Henzie "Toolbox" Torre<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/e/ee228dcc-3170-4c24-80bc-28bcee07cb43.jpg?1656286355|https://scryfall.com/card/ncc/2/henzie-toolbox-torre?utm_source=api>`
+   Each creature spell you cast with mana value 4 or greater has blitz. The blitz cost is equal to its mana cost. (You may choose to cast that spell for its blitz cost. If you do, it gains haste and "When this creature dies, draw a card." Sacrifice it at the beginning of the next end step.)
 
    Blitz costs you pay cost |mana_1| less for each time you've cast your commander from the command zone this game.
 

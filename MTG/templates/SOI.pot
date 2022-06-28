@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2022.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-21 00:16+0200\n"
+"POT-Creation-Date: 2022-06-28 15:31+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -706,6 +706,7 @@ msgid "Tap up to two target creatures."
 msgstr ""
 
 #: ../../SOI.rst:119
+#: ../../SOI.rst:151
 #: ../../SOI.rst:239
 #: ../../SOI.rst:389
 #: ../../SOI.rst:409
@@ -759,15 +760,11 @@ msgid "As long as enchanted creature is a Human, it has first strike."
 msgstr ""
 
 #: ../../SOI.rst:152
-msgid ":mtgtip:`Humble the Brute<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7c105686-8b45-494a-b9ef-8aa267bb1b5a.jpg?1576383796|https://scryfall.com/card/soi/23/humble-the-brute?utm_source=api>`"
+msgid ":mtgtip:`Humble the Brute<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7c105686-8b45-494a-b9ef-8aa267bb1b5a.jpg?1656286373|https://scryfall.com/card/soi/23/humble-the-brute?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:149
 msgid "Destroy target creature with power 4 or greater."
-msgstr ""
-
-#: ../../SOI.rst:151
-msgid "Investigate.(Create a Clue token. It's an artifact with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
 
 #: ../../SOI.rst:156
