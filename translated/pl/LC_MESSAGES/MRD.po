@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-06-19 21:39+0200\n"
-"PO-Revision-Date: 2022-06-25 15:11+0000\n"
+"PO-Revision-Date: 2022-06-28 14:28+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mrd/pl/>\n"
 "Language: pl\n"
@@ -432,6 +432,10 @@ msgid ""
 "life total, you choose one of them, and that player gains control of Loxodon "
 "Peacekeeper."
 msgstr ""
+"Na początku twojego kroku utrzymania, gracz o najmniejszej liczbie żyć "
+"zyskuje władanie nad niniejszym bytem. Jeśli dwóch lub więcej graczy ma "
+"równo najmniej, ty wybierasz jednego z nich i ów gracz zyskuje władanie nad "
+"niniejszym bytem."
 
 #: ../../MRD.rst:72
 msgid ""
@@ -768,6 +772,9 @@ msgid ""
 "main phase, or combat phase. The player skips each instance of the chosen "
 "step or phase this turn."
 msgstr ""
+"Na początku kroku utrzymania każdego przeciwnika, ów gracz wybiera krok "
+"dobierania, fazę główną lub fazę potyczki. Ów gracz pomija wszystkie "
+"wystąpienia wybranego kroku lub fazy w tej turze."
 
 #: ../../MRD.rst:196
 msgid ""
@@ -782,7 +789,7 @@ msgstr "Zaurocz artefakt"
 
 #: ../../MRD.rst:195
 msgid "Enchanted artifact doesn't untap during its controller's untap step."
-msgstr ""
+msgstr "Zauroczony artefakt nie odkręca się w kroku odkręcania jego władcy."
 
 #: ../../MRD.rst:202
 msgid ""
@@ -796,6 +803,8 @@ msgid ""
 "When Looming Hoverguard enters the battlefield, put target artifact on top "
 "of its owner's library."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, umieść wskazany artefakt na wierzchu "
+"biblioteki właściciela."
 
 #: ../../MRD.rst:206
 msgid ""
@@ -809,6 +818,8 @@ msgid ""
 "|mana_1|, |tap|: Target player draws a card, then discards a card. If that "
 "player discards an artifact card this way, untap Lumengrid Augur."
 msgstr ""
+"|mana_1|, |tap|: Wskazany gracz dobiera kartę, po czym odrzuca kartę. Jeśli "
+"ów gracz odrzuci w ten sposób kartę artefaktu, odkręć niniejszy byt."
 
 #: ../../MRD.rst:212
 msgid ""
@@ -822,6 +833,8 @@ msgid ""
 "Whenever an artifact enters the battlefield under your control, you may tap "
 "target permanent."
 msgstr ""
+"Ilekroć artefakt wejdzie na pole bitwy pod twoim władaniem, możesz odkręcić "
+"wskazany byt."
 
 #: ../../MRD.rst:214
 msgid ""
@@ -860,6 +873,9 @@ msgid ""
 "library. If it's an artifact card, put it into your hand. Otherwise, put it "
 "into your graveyard."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, ujawnij wierzchnią kartę twojej "
+"biblioteki. Jeśli to karta artefaktu, umieść ją w twojej ręce. W przeciwnym "
+"razie umieść ją w twoim cmentarzu."
 
 #: ../../MRD.rst:230
 msgid ""
@@ -872,6 +888,7 @@ msgstr ""
 msgid ""
 "Neurok Spy can't be blocked as long as defending player controls an artifact."
 msgstr ""
+"Ten stwór nie może być blokowany o ile broniący się gracz włada artefaktem."
 
 #: ../../MRD.rst:234
 msgid ""
@@ -885,6 +902,8 @@ msgid ""
 "Counter target spell unless its controller pays |mana_1| for each artifact "
 "you control."
 msgstr ""
+"Skontruj wskazany czar, chyba że jego władca zapłaci |mana_1| za każdy "
+"artefakt pod twoim władaniem."
 
 #: ../../MRD.rst:240
 msgid ""
@@ -899,7 +918,7 @@ msgstr "Obronność (Ten stwór nie może atakować.)"
 
 #: ../../MRD.rst:239
 msgid "Whenever Psychic Membrane blocks, you may draw a card."
-msgstr ""
+msgstr "Ilekroć ten stwór zablokuje, możesz dobrać kartę."
 
 #: ../../MRD.rst:246
 msgid ""
@@ -944,12 +963,16 @@ msgid ""
 "If a player would draw a card, that player exiles the top card of one of "
 "their opponents' libraries face down instead."
 msgstr ""
+"Jeśli gracz miałby dobrać kartę, zamiast tego ów gracz wygania jako zakrytą "
+"wierzchnią kartę biblioteki jednego ze swoich przeciwników."
 
 #: ../../MRD.rst:255
 msgid ""
 "Each player may look at cards they exiled with Shared Fate, and they may "
 "play lands and cast spells from among those cards."
 msgstr ""
+"Każdy gracz może patrzeć na karty wygnane przez siebie tym bytem i może "
+"zagrywać lądy oraz rzucać czary spośród owych kart."
 
 #: ../../MRD.rst:262
 msgid ""
@@ -960,13 +983,15 @@ msgstr ""
 
 #: ../../MRD.rst:259
 msgid "Whenever Slith Strider becomes blocked, draw a card."
-msgstr ""
+msgstr "Ilekroć ten stwór zostanie zablokowany, dobierz kartę."
 
 #: ../../MRD.rst:261
 msgid ""
 "Whenever Slith Strider deals combat damage to a player, put a +1/+1 counter "
 "on it."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, umieść na nim znacznik +1/"
+"+1."
 
 #: ../../MRD.rst:268
 msgid ""
@@ -984,11 +1009,11 @@ msgstr ""
 
 #: ../../MRD.rst:273
 msgid "Each player shuffles their hand and graveyard into their library."
-msgstr ""
+msgstr "Każdy gracz wtasowuje swoją rękę i cmentarz do swojej biblioteki."
 
 #: ../../MRD.rst:275
 msgid "Each player draws seven cards."
-msgstr ""
+msgstr "Każdy gracz dobiera siedem kart."
 
 #: ../../MRD.rst:277 ../../MRD.rst:519 ../../MRD.rst:705
 msgid "Entwine |mana_2| (Choose both if you pay the entwine cost.)"
@@ -1074,6 +1099,7 @@ msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza na pole bitwy."
 msgid ""
 "Entwine—Sacrifice three lands. (Choose both if you pay the entwine cost.)"
 msgstr ""
+"Splątanie—Poświęć trzy lądy. (Wybierz oba jeśli opłaciłeś koszt splątania.)"
 
 #: ../../MRD.rst:316
 msgid ""
@@ -1087,6 +1113,8 @@ msgid ""
 "When Chimney Imp dies, target opponent puts a card from their hand on top of "
 "their library."
 msgstr ""
+"Kiedy ten stwór umrze, wskazany przeciwnik umieszcza kartę ze swojej ręki na "
+"wierzchu swojej biblioteki."
 
 #: ../../MRD.rst:322
 msgid ""
@@ -1185,10 +1213,12 @@ msgid ""
 "Whenever Flayed Nim deals combat damage to a creature, that creature's "
 "controller loses that much life."
 msgstr ""
+"Ilekroć ten stwór zada stworowi obrażenia bojowe, władca owego stwora traci "
+"tyle samo żyć."
 
 #: ../../MRD.rst:349
 msgid "|mana_2|\\ |mana_b|: Regenerate Flayed Nim."
-msgstr ""
+msgstr "|mana_2|\\ |mana_b|: Zregeneruj tego stwora."
 
 #: ../../MRD.rst:356
 msgid ""
@@ -1211,6 +1241,8 @@ msgid ""
 "|mana_b|\\ |mana_b|: Return Grim Reminder from your graveyard to your hand. "
 "Activate only during your upkeep."
 msgstr ""
+"|mana_b|\\ |mana_b|: Przywróć tę kartę z twojego cmentarza do twojej ręki. "
+"Aktywuj tylko w twoim kroku utrzymania."
 
 #: ../../MRD.rst:360
 msgid ""
@@ -1223,6 +1255,8 @@ msgstr ""
 msgid ""
 "Target creature gets -1/-1 until end of turn for each artifact you control."
 msgstr ""
+"Wskazany stwór dostaje do końca tury -1/-1 za każdy artefakt pod twoim "
+"władaniem."
 
 #: ../../MRD.rst:364
 msgid ""
@@ -1236,6 +1270,8 @@ msgid ""
 "When Moriok Scavenger enters the battlefield, you may return target artifact "
 "creature card from your graveyard to your hand."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, możesz przywrócić wskazaną kartę "
+"artefaktowego stwora z twojego cmentarza do twojej ręki."
 
 #: ../../MRD.rst:368
 msgid ""
@@ -1257,13 +1293,15 @@ msgstr ""
 
 #: ../../MRD.rst:371
 msgid "Nim Devourer gets +1/+0 for each artifact you control."
-msgstr ""
+msgstr "Ten stwór dostaje +1/+0 za każdy artefakt pod twoim władaniem."
 
 #: ../../MRD.rst:373
 msgid ""
 "|mana_b|\\ |mana_b|: Return Nim Devourer from your graveyard to the "
 "battlefield, then sacrifice a creature. Activate only during your upkeep."
 msgstr ""
+"|mana_b|\\ |mana_b|: Przywróć tę kartę z twojego cmentarza na pole bitwy, po "
+"czym poświęć stwora. Aktywuj tylko w twoim kroku utrzymania."
 
 #: ../../MRD.rst:378
 msgid ""
@@ -1274,7 +1312,7 @@ msgstr ""
 
 #: ../../MRD.rst:377
 msgid "Nim Lasher gets +1/+0 for each artifact you control."
-msgstr ""
+msgstr "Ten stwór dostaje +1/+0 za każdy artefakt pod twoim władaniem."
 
 #: ../../MRD.rst:384
 msgid ""
@@ -1285,11 +1323,11 @@ msgstr ""
 
 #: ../../MRD.rst:381
 msgid "Nim Shambler gets +1/+0 for each artifact you control."
-msgstr ""
+msgstr "Ten stwór dostaje +1/+0 za każdy artefakt pod twoim władaniem."
 
 #: ../../MRD.rst:383
 msgid "Sacrifice a creature: Regenerate Nim Shambler."
-msgstr ""
+msgstr "Poświęć stwora: Zregeneruj niniejszego."
 
 #: ../../MRD.rst:390
 msgid ""
@@ -1300,7 +1338,7 @@ msgstr ""
 
 #: ../../MRD.rst:389
 msgid "Nim Shrieker gets +1/+0 for each artifact you control."
-msgstr ""
+msgstr "Ten stwór dostaje +1/+0 za każdy artefakt pod twoim władaniem."
 
 #: ../../MRD.rst:400
 msgid ""
@@ -1311,17 +1349,19 @@ msgstr ""
 
 #: ../../MRD.rst:395
 msgid "You draw five cards and you lose 5 life."
-msgstr ""
+msgstr "Dobierz pięć kart i strać 5 żyć."
 
 #: ../../MRD.rst:397
 msgid ""
 "Create an X/X black Demon creature token with flying, where X is the number "
 "of cards in your hand."
 msgstr ""
+"Stwórz żeton czarnego stwora Smok X/X z lataniem, gdzie X jest liczbą kart w "
+"twojej ręce."
 
 #: ../../MRD.rst:399
 msgid "Entwine |mana_4| (Choose both if you pay the entwine cost.)"
-msgstr ""
+msgstr "Splątanie |mana_4| (Wybierz oba jeśli opłaciłeś koszt splątania.)"
 
 #: ../../MRD.rst:406
 msgid ""
@@ -1350,6 +1390,8 @@ msgstr ""
 msgid ""
 "Enchanted artifact has \"At the beginning of your upkeep, you lose 2 life.\""
 msgstr ""
+"Zauroczony artefakt ma \"Na początku twojego kroku utrzymania, strać 2 życia."
+"\""
 
 #: ../../MRD.rst:418
 msgid ""
@@ -1363,10 +1405,12 @@ msgid ""
 "Whenever Slith Bloodletter deals combat damage to a player, put a +1/+1 "
 "counter on it."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, umieść na nim znacznik +1/"
+"+1."
 
 #: ../../MRD.rst:417
 msgid "|mana_1|\\ |mana_b|: Regenerate Slith Bloodletter."
-msgstr ""
+msgstr "|mana_1|\\ |mana_b|: Zregeneruj niniejszego."
 
 #: ../../MRD.rst:422
 msgid ""
@@ -1412,6 +1456,8 @@ msgid ""
 "Whenever an artifact enters the battlefield, Vermiculos gets +4/+4 until end "
 "of turn."
 msgstr ""
+"Ilekroć artefakt wejdzie na pole bitwy, ten stwór dostaje do końca tury +4/"
+"+4."
 
 #: ../../MRD.rst:440
 msgid ""
@@ -1426,7 +1472,7 @@ msgstr "Zregeneruj każdego stwora pod twoim władaniem."
 
 #: ../../MRD.rst:437
 msgid "Wail of the Nim deals 1 damage to each creature and each player."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi i każdemu graczowi po 1 obrażeniu."
 
 #: ../../MRD.rst:439
 msgid "Entwine |mana_b| (Choose both if you pay the entwine cost.)"
@@ -1441,7 +1487,7 @@ msgstr ""
 
 #: ../../MRD.rst:445
 msgid "Pay 1 life: Wall of Blood gets +1/+1 until end of turn."
-msgstr ""
+msgstr "Zapłać 1 życie: Ten stwór dostaje do końca tury +1/+1."
 
 #: ../../MRD.rst:452
 msgid ""
@@ -1455,6 +1501,8 @@ msgid ""
 "Whenever Woebearer deals combat damage to a player, you may return target "
 "creature card from your graveyard to your hand."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, możesz przywrócić wskazaną "
+"kartę stwora z twojego cmentarza do twojej ręki."
 
 #: ../../MRD.rst:456
 msgid ""
@@ -1479,6 +1527,8 @@ msgid ""
 "|mana_r|, Exile the top ten cards of your library: Arc-Slogger deals 2 "
 "damage to any target."
 msgstr ""
+"|mana_r|, wygnaj dziesięć wierzchnich kart twojej biblioteki: Ten stwór "
+"zadaje wskazanemu celowi 2 obrażenia."
 
 #: ../../MRD.rst:464
 msgid ""
@@ -1489,7 +1539,7 @@ msgstr ""
 
 #: ../../MRD.rst:463
 msgid "Sacrifice an artifact: Atog gets +2/+2 until end of turn."
-msgstr ""
+msgstr "Poświęć artefakt: Ten stwór dostaje do końca tury +2/+2."
 
 #: ../../MRD.rst:468
 msgid ""
@@ -1504,6 +1554,9 @@ msgid ""
 "controller chooses target permanent another player controls that shares a "
 "card type with it. Exchange control of those permanents."
 msgstr ""
+"Ilekroć artefakt, stwór lub urok wejdzie na pole bitwy, jego władca wybiera "
+"wskazany byt pod władaniem innego gracza mający wspólny typ karty. Zamień "
+"władanie nad owymi bytami."
 
 #: ../../MRD.rst:472
 msgid ""
@@ -1532,6 +1585,8 @@ msgid ""
 "Electrostatic Bolt deals 2 damage to target creature. If it's an artifact "
 "creature, Electrostatic Bolt deals 4 damage to it instead."
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi 2 obrażenia. Jeśli to artefaktowy stwór, "
+"ten czar zamiast tego zadaje mu 4 obrażenia."
 
 #: ../../MRD.rst:480
 msgid ""
@@ -1548,6 +1603,12 @@ msgid ""
 "Gambit deals 6 damage to each opponent. If you win three or more flips, draw "
 "nine cards and untap all lands you control."
 msgstr ""
+"Rzucaj monetą aż przegrasz rzut lub zdecydujesz o przestaniu. Jeśli "
+"przegrasz rzut, ten czar nie ma efektu. Jeśli wygrasz co najmniej jeden "
+"rzut, ten czar zadaje wskazanemu stworowi 3 obrażenia. Jeśli wygrasz co "
+"najmniej dwa rzuty, ten czar zadaje każdemu przeciwnikowi po 6 obrażeń. "
+"Jeśli wygrasz co najmniej trzy rzuty, dobierz dziewięć kart i odkręć "
+"wszystkie lądy pod twoim władaniem."
 
 #: ../../MRD.rst:484
 msgid ""
@@ -1576,6 +1637,8 @@ msgid ""
 "Put X +1/+1 counters on target creature, where X is the sacrificed "
 "artifact's mana value."
 msgstr ""
+"Umieść X znaczników +1/+1 na wskazanym stworze, gdzie X jest skrótem many "
+"poświęconego artefaktu."
 
 #: ../../MRD.rst:496
 msgid ""
@@ -1590,6 +1653,9 @@ msgid ""
 "spell or ability's controller gains control of that creature. (This effect "
 "lasts indefinitely.)"
 msgstr ""
+"Ilekroć zauroczony stwór zostanie wskazany przez czar lub zdolność, władca "
+"owego czaru lub zdolności zyskuje władanie nad owym stworem. (Ten efekt trwa "
+"stale.)"
 
 #: ../../MRD.rst:500
 msgid ""
@@ -1637,7 +1703,7 @@ msgstr ""
 
 #: ../../MRD.rst:515
 msgid "Creatures target player controls attack this turn if able."
-msgstr ""
+msgstr "Stwory pod władaniem wskazanego gracza atakują w tej turze jeśli mogą."
 
 #: ../../MRD.rst:517
 msgid "Creatures you control gain first strike until end of turn."
@@ -1655,6 +1721,7 @@ msgid ""
 "Sacrifice an artifact: Krark-Clan Grunt gets +1/+0 and gains first strike "
 "until end of turn."
 msgstr ""
+"Poświęć artefakt: Ten stwór dostaje do końca tury +1/+0 i pierwszy cios."
 
 #: ../../MRD.rst:528
 msgid ""
@@ -1668,6 +1735,8 @@ msgid ""
 "Sacrifice an artifact: Krark-Clan Shaman deals 1 damage to each creature "
 "without flying."
 msgstr ""
+"Poświęć artefakt: Ten stwór zadaje każdemu stworowi bez latania po 1 "
+"obrażeniu."
 
 #: ../../MRD.rst:532
 msgid ""
@@ -1691,7 +1760,7 @@ msgstr ""
 msgid ""
 "Sacrifice an artifact: Megatog gets +3/+3 and gains trample until end of "
 "turn."
-msgstr ""
+msgstr "Poświęć artefakt: Ten stwór dostaje do końca tury +3/+3 i tratowanie."
 
 #: ../../MRD.rst:540
 msgid ""
@@ -1720,6 +1789,8 @@ msgid ""
 "Whenever Ogre Leadfoot becomes blocked by an artifact creature, destroy that "
 "creature."
 msgstr ""
+"Ilekroć ten stwór zostanie zablokowany przez artefaktowego stwora, zniszcz "
+"owego stwora."
 
 #: ../../MRD.rst:548
 msgid ""
@@ -1733,6 +1804,8 @@ msgid ""
 "Whenever Rustmouth Ogre deals combat damage to a player, you may destroy "
 "target artifact that player controls."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, możesz zniszczyć wskazany "
+"artefakt pod władaniem owego gracza."
 
 #: ../../MRD.rst:552
 msgid ""
@@ -1783,6 +1856,8 @@ msgid ""
 "Whenever Slith Firewalker deals combat damage to a player, put a +1/+1 "
 "counter on it."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, umieść na nim znacznik +1/"
+"+1."
 
 #: ../../MRD.rst:572
 msgid ""
@@ -1822,6 +1897,8 @@ msgid ""
 "When Vulshok Battlemaster enters the battlefield, attach all Equipment on "
 "the battlefield to it. (Control of the Equipment doesn't change.)"
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, dołącz do niego wszystkie Wyposażenia "
+"na polu bitwy. (Władanie nad Wyposażeniami się nie zmienia.)"
 
 #: ../../MRD.rst:588
 msgid ""
@@ -1850,12 +1927,16 @@ msgid ""
 "When War Elemental enters the battlefield, sacrifice it unless an opponent "
 "was dealt damage this turn."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, poświęć go, chyba że przeciwnik "
+"otrzymał w tej turze obrażenia."
 
 #: ../../MRD.rst:593
 msgid ""
 "Whenever an opponent is dealt damage, put that many +1/+1 counters on War "
 "Elemental."
 msgstr ""
+"Ilekroć przeciwnik otrzyma obrażenia, umieść tyle samo znacznik +1/+1 na "
+"niniejszym."
 
 #: ../../MRD.rst:598
 msgid ""
@@ -1892,6 +1973,8 @@ msgid ""
 "|mana_1|\\ |mana_g|, |tap|: Counter target activated ability from an "
 "artifact source. (Mana abilities can't be targeted.)"
 msgstr ""
+"|mana_1|\\ |mana_g|, |tap|: Skontruj wskazaną aktywowaną zdolność pochodzącą "
+"z artefaktu. (Zdolności dających manę nie można wskazać.)"
 
 #: ../../MRD.rst:610
 msgid ""
@@ -1905,6 +1988,7 @@ msgid ""
 "Copperhoof Vorrac gets +1/+1 for each untapped permanent your opponents "
 "control."
 msgstr ""
+"Ten stwór dostaje +1/+1 za każdy odkręcony byt pod władaniem przeciwników."
 
 #: ../../MRD.rst:614
 msgid ""
@@ -1926,7 +2010,7 @@ msgstr ""
 
 #: ../../MRD.rst:617
 msgid "Destroy target artifact. Add |mana_g|\\ |mana_g|\\ |mana_g|."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt. Weź |mana_g|\\ |mana_g|\\ |mana_g|."
 
 #: ../../MRD.rst:622
 msgid ""
