@@ -491,7 +491,7 @@
    Whenever a creature you control dies, you gain 1 life and draw a card.
 
 
-:mtgtip:`Poison-Tip Archer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/6/1677d49e-3d63-45bd-9849-01b1bdd95ad8.jpg?1631235510|https://scryfall.com/card/khc/90/poison-tip-archer?utm_source=api>`
+:mtgtip:`Poison-Tip Archer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/6/1677d49e-3d63-45bd-9849-01b1bdd95ad8.jpg?1656159779|https://scryfall.com/card/khc/90/poison-tip-archer?utm_source=api>`
    Reach (This creature can block creatures with flying.)
 
    Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)

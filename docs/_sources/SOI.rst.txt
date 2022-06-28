@@ -145,10 +145,10 @@
    As long as enchanted creature is a Human, it has first strike.
 
 
-:mtgtip:`Humble the Brute<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7c105686-8b45-494a-b9ef-8aa267bb1b5a.jpg?1576383796|https://scryfall.com/card/soi/23/humble-the-brute?utm_source=api>`
+:mtgtip:`Humble the Brute<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7c105686-8b45-494a-b9ef-8aa267bb1b5a.jpg?1656286373|https://scryfall.com/card/soi/23/humble-the-brute?utm_source=api>`
    Destroy target creature with power 4 or greater.
 
-   Investigate.(Create a Clue token. It's an artifact with "|mana_2|, Sacrifice this artifact: Draw a card.")
+   Investigate. (Create a Clue token. It's an artifact with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
 
 :mtgtip:`Inquisitor's Ox<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/d/fd1401fe-9e88-401b-96f0-5f58808a519f.jpg?1576383802|https://scryfall.com/card/soi/24/inquisitors-ox?utm_source=api>`

@@ -27,7 +27,7 @@
 
 .. |USG_percent| image:: images/pie55.png        
 
-.. |MRD_percent| image:: images/pie55.png        
+.. |MRD_percent| image:: images/pie70.png        
 
 .. |EMN_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
