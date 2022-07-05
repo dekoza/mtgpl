@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-07-05 08:45+0200\n"
-"PO-Revision-Date: 2022-04-18 17:53+0000\n"
+"PO-Revision-Date: 2022-07-05 20:46+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/znr/pl/>\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.10.1\n"
+"X-Generator: Weblate 4.12.1\n"
 
 #: ../../symbols.rst:3
 msgid "{C}"
@@ -3158,10 +3158,8 @@ msgid ""
 msgstr ""
 
 #: ../../ZNR.rst:931
-#, fuzzy
-#| msgid "Target Warrior gains trample until end of turn."
 msgid "Target Warrior gets +1/+1 and gains trample until end of turn."
-msgstr "Wskazany Wojownik zyskuje do końca tury tratowanie."
+msgstr "Wskazany Wojownik dostaje do końca tury +1/+1 oraz tratowanie."
 
 #: ../../ZNR.rst:940
 msgid ""
