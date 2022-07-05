@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2022.5\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-25 15:47+0200\n"
+"POT-Creation-Date: 2022-07-05 08:45+0200\n"
 "PO-Revision-Date: 2022-06-25 15:11+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/2x2/pl/>\n"
@@ -559,8 +559,8 @@ msgid ""
 "Players can't search libraries. Any player may pay |mana_2| for that player "
 "to ignore this effect until end of turn."
 msgstr ""
-"Gracze nie mogą przeszukiwać bibliotek. Dowolny gracz może zapłacić |mana_2|"
-", by zignorować ten efekt do końca tury."
+"Gracze nie mogą przeszukiwać bibliotek. Dowolny gracz może zapłacić |"
+"mana_2|, by zignorować ten efekt do końca tury."
 
 #: ../../2X2.rst:110
 msgid ""
@@ -1259,8 +1259,8 @@ msgstr ""
 msgid ""
 "Enchanted creature loses all abilities and has base power and toughness 1/1."
 msgstr ""
-"Zauroczony stwór traci wszystkie zdolności i ma bazową siłę i wytrzymałość 1/"
-"1."
+"Zauroczony stwór traci wszystkie zdolności i ma bazową siłę i wytrzymałość "
+"1/1."
 
 #: ../../2X2.rst:346
 msgid ""
@@ -1491,7 +1491,7 @@ msgstr ""
 #: ../../2X2.rst:418
 msgid ""
 ":mtgtip:`Blood Artist<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/6/9/693dd112-d04a-4404-8fce-74f7e5497312.jpg?1656068428|"
+"border_crop/front/6/9/693dd112-d04a-4404-8fce-74f7e5497312.jpg?1656287306|"
 "https://scryfall.com/card/2x2/70/blood-artist?utm_source=api>`"
 msgstr ""
 
@@ -1861,7 +1861,8 @@ msgstr ""
 msgid ""
 "When Strands of Undeath enters the battlefield, target player discards two "
 "cards."
-msgstr "Kiedy ten byt wejdzie na pole bitwy, wskazany gracz odrzuca dwie karty."
+msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, wskazany gracz odrzuca dwie karty."
 
 #: ../../2X2.rst:531
 msgid "|mana_b|: Regenerate enchanted creature."
@@ -1959,7 +1960,7 @@ msgstr ""
 #: ../../2X2.rst:564
 msgid ""
 ":mtgtip:`Vampiric Rites<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/d/f/df9947ed-de58-4172-91df-82a93584e6fe.jpg?1656114489|"
+"border_crop/front/d/f/df9947ed-de58-4172-91df-82a93584e6fe.jpg?1656560831|"
 "https://scryfall.com/card/2x2/98/vampiric-rites?utm_source=api>`"
 msgstr ""
 
@@ -2167,7 +2168,7 @@ msgstr ""
 #: ../../2X2.rst:624
 msgid ""
 ":mtgtip:`Fiery Fall<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/1/e/1ed3229f-40ab-420d-a41a-57f1ff8ab7ad.jpg?1656114510|https://"
+"front/1/e/1ed3229f-40ab-420d-a41a-57f1ff8ab7ad.jpg?1656560590|https://"
 "scryfall.com/card/2x2/109/fiery-fall?utm_source=api>`"
 msgstr ""
 
@@ -2491,7 +2492,7 @@ msgstr "Przywróć losową kartę sztuczki z twojego cmentarza do twojej ręki."
 #: ../../2X2.rst:720
 msgid ""
 ":mtgtip:`Titan's Strength<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/3/0/30f1bfbe-7cfd-4b11-be95-0df327a83c12.jpg?1656114641|"
+"border_crop/front/3/0/30f1bfbe-7cfd-4b11-be95-0df327a83c12.jpg?1656560562|"
 "https://scryfall.com/card/2x2/128/titans-strength?utm_source=api>`"
 msgstr ""
 
@@ -2561,7 +2562,7 @@ msgstr ""
 #: ../../2X2.rst:742
 msgid ""
 ":mtgtip:`Allosaurus Shepherd<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/7/a/7afa0ee5-a0b8-472e-9991-09402ddb5de3.jpg?1655400884|"
+"border_crop/front/7/a/7afa0ee5-a0b8-472e-9991-09402ddb5de3.jpg?1656319323|"
 "https://scryfall.com/card/2x2/132/allosaurus-shepherd?utm_source=api>`"
 msgstr ""
 
@@ -3001,8 +3002,8 @@ msgstr ""
 msgid ""
 "Each creature you control with a counter on it has \"|tap|: Add |mana_g|.\""
 msgstr ""
-"Każdy stwór pod twoim władaniem mający jakiś znacznik ma \"|tap|: Weź "
-"|mana_g|.\""
+"Każdy stwór pod twoim władaniem mający jakiś znacznik ma \"|tap|: Weź |"
+"mana_g|.\""
 
 #: ../../2X2.rst:876
 msgid ""
@@ -3269,8 +3270,8 @@ msgid ""
 "Creature spells you cast cost |mana_1| less to cast for each +1/+1 counter "
 "on Animar."
 msgstr ""
-"Rzucanie czarów stworów kosztuje cię o |mana_1| mniej za każdy znacznik +1/+"
-"1 na tym stworze."
+"Rzucanie czarów stworów kosztuje cię o |mana_1| mniej za każdy znacznik +1/"
+"+1 na tym stworze."
 
 #: ../../2X2.rst:966
 msgid ""
@@ -4034,7 +4035,8 @@ msgstr ""
 
 #: ../../2X2.rst:1229
 msgid "Red instant and sorcery spells you control have lifelink."
-msgstr "Czerwone czary sztuczek i obrzędów pod twoim władaniem mają więź życia."
+msgstr ""
+"Czerwone czary sztuczek i obrzędów pod twoim władaniem mają więź życia."
 
 #: ../../2X2.rst:1231
 msgid ""
@@ -4175,7 +4177,8 @@ msgstr ""
 msgid ""
 "Ground Assault deals damage to target creature equal to the number of lands "
 "you control."
-msgstr "Ten czar zadaje wskazanemu stworowi tyle obrażeń, iloma lądami władasz."
+msgstr ""
+"Ten czar zadaje wskazanemu stworowi tyle obrażeń, iloma lądami władasz."
 
 #: ../../2X2.rst:1284
 msgid ""
@@ -4342,7 +4345,8 @@ msgstr "Ten czar zadaje wskazanemu przeciwnikowi lub wędrowcowi 4 obrażenia."
 
 #: ../../2X2.rst:1339
 msgid "Creatures you control get +1/+1 and gain lifelink until end of turn."
-msgstr "Stwory pod twoim władaniem dostają do końca tury +1/+1 oraz więź życia."
+msgstr ""
+"Stwory pod twoim władaniem dostają do końca tury +1/+1 oraz więź życia."
 
 #: ../../2X2.rst:1346
 msgid ""
@@ -5128,10 +5132,10 @@ msgid ""
 "haste. Exile it at the beginning of the next end step or if it would leave "
 "the battlefield. Unearth only as a sorcery.)"
 msgstr ""
-"Każda karta stwora w twoim cmentarzu ma odkopanie |mana_2|\\ |mana_b| "
-"(|mana_2|\\ |mana_b|: Przywróć ową kartę z twojego cmentarza na pole bitwy. "
-"Ów stwór zyskuje pośpiech. Wygnaj go na początku najbliższego kroku "
-"końcowego lub gdyby miał opuścić pole bitwy. Aktywuj tylko jako obrzęd.)"
+"Każda karta stwora w twoim cmentarzu ma odkopanie |mana_2|\\ |mana_b| (|"
+"mana_2|\\ |mana_b|: Przywróć ową kartę z twojego cmentarza na pole bitwy. Ów "
+"stwór zyskuje pośpiech. Wygnaj go na początku najbliższego kroku końcowego "
+"lub gdyby miał opuścić pole bitwy. Aktywuj tylko jako obrzęd.)"
 
 #: ../../2X2.rst:1600
 msgid ""
@@ -5753,8 +5757,8 @@ msgid ""
 "battlefield, you may pay |mana_4|. If you do, return that card to the "
 "battlefield and attach Nim Deathmantle to it."
 msgstr ""
-"Ilekroć nieżetonowy stwór trafi do cmentarza z pola bitwy, możesz zapłacić "
-"|mana_4|. Jeśli tak zrobisz, przywróć ową kartę na pole bitwy i dołącz do "
+"Ilekroć nieżetonowy stwór trafi do cmentarza z pola bitwy, możesz zapłacić |"
+"mana_4|. Jeśli tak zrobisz, przywróć ową kartę na pole bitwy i dołącz do "
 "niego ten artefakt."
 
 #: ../../2X2.rst:1817

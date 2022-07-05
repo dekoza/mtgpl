@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-21 00:16+0200\n"
+"POT-Creation-Date: 2022-06-28 15:31+0200\n"
 "PO-Revision-Date: 2022-06-25 15:11+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/soi/pl/>\n"
@@ -423,9 +423,9 @@ msgid ""
 "(Create a Clue token. It's an artifact with \"|mana_2|, Sacrifice this "
 "artifact: Draw a card.\")"
 msgstr ""
-"Ilekroć rzucisz czar stwora o skrócie many 3 lub mniejszym, dociekaj. ("
-"Stwórz żeton Wskazówki. To artefakt mający \"|mana_2|, poświęć ten artefakt: "
-"Dobierz kartę.\")"
+"Ilekroć rzucisz czar stwora o skrócie many 3 lub mniejszym, dociekaj. "
+"(Stwórz żeton Wskazówki. To artefakt mający \"|mana_2|, poświęć ten "
+"artefakt: Dobierz kartę.\")"
 
 #: ../../SOI.rst:70
 msgid ""
@@ -586,8 +586,8 @@ msgstr ""
 msgid "Tap up to two target creatures."
 msgstr "Przekręć co najwyżej dwa wskazane stwory."
 
-#: ../../SOI.rst:119 ../../SOI.rst:239 ../../SOI.rst:389 ../../SOI.rst:409
-#: ../../SOI.rst:465 ../../SOI.rst:1321
+#: ../../SOI.rst:119 ../../SOI.rst:151 ../../SOI.rst:239 ../../SOI.rst:389
+#: ../../SOI.rst:409 ../../SOI.rst:465 ../../SOI.rst:1321
 msgid ""
 "Investigate. (Create a Clue token. It's an artifact with \"|mana_2|, "
 "Sacrifice this artifact: Draw a card.\")"
@@ -672,21 +672,13 @@ msgstr "O ile zauroczony stwór jest Człowiekiem, ma pierwszy cios."
 #: ../../SOI.rst:152
 msgid ""
 ":mtgtip:`Humble the Brute<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/7/c/7c105686-8b45-494a-b9ef-8aa267bb1b5a.jpg?1576383796|"
+"border_crop/front/7/c/7c105686-8b45-494a-b9ef-8aa267bb1b5a.jpg?1656286373|"
 "https://scryfall.com/card/soi/23/humble-the-brute?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:149
 msgid "Destroy target creature with power 4 or greater."
 msgstr "Zniszcz wskazanego stwora o sile 4 lub większej."
-
-#: ../../SOI.rst:151
-msgid ""
-"Investigate.(Create a Clue token. It's an artifact with \"|mana_2|, "
-"Sacrifice this artifact: Draw a card.\")"
-msgstr ""
-"Dociekaj. (Stwórz żeton Wskazówki. To artefakt mający \"|mana_2|, poświęć "
-"ten artefakt: Dobierz kartę.\")"
 
 #: ../../SOI.rst:156
 msgid ""
@@ -3823,9 +3815,9 @@ msgid ""
 "investigate. (Create a Clue token. It's an artifact with \"|mana_2|, "
 "Sacrifice this artifact: Draw a card.\")"
 msgstr ""
-"Ilekroć ten stwór zada obrażenia co najmniej jednemu stworowi, dociekaj. ("
-"Stwórz żeton Wskazówki. To artefakt mający \"|mana_2|, poświęć ten artefakt: "
-"Dobierz kartę.\")"
+"Ilekroć ten stwór zada obrażenia co najmniej jednemu stworowi, dociekaj. "
+"(Stwórz żeton Wskazówki. To artefakt mający \"|mana_2|, poświęć ten "
+"artefakt: Dobierz kartę.\")"
 
 #: ../../SOI.rst:1155
 msgid ""
@@ -3876,8 +3868,8 @@ msgid ""
 "Sacrifice this artifact: Draw a card.\")"
 msgstr ""
 "Dociekaj, po czym wskazany stwór dostaje do końca tury +1/+1 za każdą "
-"Wskazówkę pod twoim władaniem. (Stwórz żeton Wskazówki. To artefakt mający \""
-"|mana_2|, poświęć ten artefakt: Dobierz kartę.\")"
+"Wskazówkę pod twoim władaniem. (Stwórz żeton Wskazówki. To artefakt mający "
+"\"|mana_2|, poświęć ten artefakt: Dobierz kartę.\")"
 
 #: ../../SOI.rst:1174
 msgid ""
@@ -5612,6 +5604,13 @@ msgstr ""
 #: ../../SOI.rst:1731
 msgid "(|tap|: Add |mana_g|.)"
 msgstr "(|tap|: Weź |mana_g|.)"
+
+#~ msgid ""
+#~ "Investigate.(Create a Clue token. It's an artifact with \"|mana_2|, "
+#~ "Sacrifice this artifact: Draw a card.\")"
+#~ msgstr ""
+#~ "Dociekaj. (Stwórz żeton Wskazówki. To artefakt mający \"|mana_2|, poświęć "
+#~ "ten artefakt: Dobierz kartę.\")"
 
 #~ msgid ""
 #~ "Delirium — At the beginning of each opponent's upkeep, if there are four "
