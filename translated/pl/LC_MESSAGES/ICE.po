@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-06-19 21:39+0200\n"
-"PO-Revision-Date: 2022-06-28 14:28+0000\n"
+"PO-Revision-Date: 2022-07-05 20:43+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ice/pl/>\n"
 "Language: pl\n"
@@ -808,12 +808,16 @@ msgid ""
 "At the beginning of your upkeep, sacrifice Justice unless you pay |mana_w|\\ "
 "|mana_w|."
 msgstr ""
+"Na początku twojego kroku utrzymania, poświęć niniejszy byt, chyba że "
+"zapłacisz |mana_w|\\ |mana_w|."
 
 #: ../../ICE.rst:191
 msgid ""
 "Whenever a red creature or spell deals damage, Justice deals that much "
 "damage to that creature's or spell's controller."
 msgstr ""
+"Ilekroć czerwony stwór lub czar zada obrażenia, niniejszy zadaje tyle samo "
+"obrażeń władcy owego stwora lub czaru."
 
 #: ../../ICE.rst:196
 msgid ""
@@ -900,6 +904,11 @@ msgid ""
 "that creature's combat damage, not its controller, among any of the "
 "creatures it's being blocked by or is blocking.)"
 msgstr ""
+"Pierwszy cios, zrzeszanie (Dowolne stwory ze zrzeszaniem, oraz co najwyżej "
+"jedna bez, mogą atakować jako rzesza. Rzesze są blokowane jako grupa. Jeśli "
+"dowolne stwory ze zrzeszaniem pod twoim władaniem blokują lub są blokowane "
+"przez stwora, to ty rozdzielasz obrażenia bojowe owego stwora zamiast jego "
+"władcy, między dowolne stwory, które blokuje lub przez które jest blokowany.)"
 
 #: ../../ICE.rst:220
 msgid ""
@@ -931,6 +940,12 @@ msgid ""
 "creature, you divide that creature's combat damage, not its controller, "
 "among any of the creatures it's being blocked by or is blocking.)"
 msgstr ""
+"Latanie, pierwszy cios, zrzeszanie (Dowolne stwory ze zrzeszaniem, oraz co "
+"najwyżej jedna bez, mogą atakować jako rzesza. Rzesze są blokowane jako "
+"grupa. Jeśli dowolne stwory ze zrzeszaniem pod twoim władaniem blokują lub "
+"są blokowane przez stwora, to ty rozdzielasz obrażenia bojowe owego stwora "
+"zamiast jego władcy, między dowolne stwory, które blokuje lub przez które "
+"jest blokowany.)"
 
 #: ../../ICE.rst:228
 msgid ""
@@ -1014,12 +1029,12 @@ msgstr "Ochrona przed czarnym"
 #: ../../ICE.rst:257
 msgid ""
 "|mana_w|: Order of the White Shield gains first strike until end of turn."
-msgstr ""
+msgstr "|mana_w|: Ten stwór zyskuje do końca tury pierwszy cios."
 
 #: ../../ICE.rst:259
 msgid ""
 "|mana_w|\\ |mana_w|: Order of the White Shield gets +1/+0 until end of turn."
-msgstr ""
+msgstr "|mana_w|\\ |mana_w|: Ten stwór dostaje do końca tury +1/+0."
 
 #: ../../ICE.rst:268
 msgid ""
@@ -1030,13 +1045,15 @@ msgstr ""
 
 #: ../../ICE.rst:265
 msgid "As Prismatic Ward enters the battlefield, choose a color."
-msgstr ""
+msgstr "Przy wejściu tego bytu na pole bitwy, wybierz kolor."
 
 #: ../../ICE.rst:267
 msgid ""
 "Prevent all damage that would be dealt to enchanted creature by sources of "
 "the chosen color."
 msgstr ""
+"Zażegnaj wszystkie obrażenia jakie mogłyby zostać zadane zauroczonemu "
+"stworowi przez źródła owego wybranego koloru."
 
 #: ../../ICE.rst:272
 msgid ""
@@ -1079,6 +1096,9 @@ msgid ""
 "At the beginning of the next end step, put a +0/+1 counter on that creature "
 "for each 1 damage prevented this way."
 msgstr ""
+"Zażegnaj najbliższe 3 obrażenia, jakie mogłyby zostać w tej turze zadane "
+"wskazanemu stworowi. Na początku najbliższego kroku końcowego, umieść na "
+"owym stworze znacznik +0/+1 za każde 1 obrażenie zażegnane w ten sposób."
 
 #: ../../ICE.rst:290
 msgid ""
@@ -1234,6 +1254,8 @@ msgid ""
 "At the beginning of your upkeep, sacrifice Binding Grasp unless you pay |"
 "mana_1|\\ |mana_u|."
 msgstr ""
+"Na początku twojego kroku utrzymania, poświęć ten byt, chyba że zapłacisz "
+"|mana_1|\\ |mana_u|."
 
 #: ../../ICE.rst:335
 msgid "You control enchanted creature."
@@ -1241,7 +1263,7 @@ msgstr "Masz władanie nad zauroczonym stworem."
 
 #: ../../ICE.rst:337
 msgid "Enchanted creature gets +0/+1."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +0/+1."
 
 #: ../../ICE.rst:342
 msgid ""
