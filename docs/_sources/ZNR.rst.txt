@@ -923,12 +923,12 @@
    • Target Warrior gains trample until end of turn.
 
 
-:mtgtip:`A-Kargan Intimidator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/2/825d4bac-9433-4956-9126-358432c22818.jpg?1649275085|https://scryfall.com/card/znr/A-145/a-kargan-intimidator?utm_source=api>`
+:mtgtip:`A-Kargan Intimidator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/2/825d4bac-9433-4956-9126-358432c22818.jpg?1656684840|https://scryfall.com/card/znr/A-145/a-kargan-intimidator?utm_source=api>`
    Cowards can't block Warriors.
 
    |mana_1|: Choose one that hasn't been chosen this turn —
 
-   • Kargan Intimidator gets +1/+1 and gains trample until end of turn.
+   • Target Warrior gets +1/+1 and gains trample until end of turn.
 
    • Target creature becomes a Coward until end of turn.
 
