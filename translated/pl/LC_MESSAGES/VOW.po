@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.9\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-25 17:48+0200\n"
+"POT-Creation-Date: 2022-07-22 17:15+0200\n"
 "PO-Revision-Date: 2022-03-29 10:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/vow/pl/>\n"
@@ -262,7 +262,7 @@ msgstr ""
 #: ../../VOW.rst:621 ../../VOW.rst:635 ../../VOW.rst:661 ../../VOW.rst:679
 #: ../../VOW.rst:787 ../../VOW.rst:823 ../../VOW.rst:839 ../../VOW.rst:891
 #: ../../VOW.rst:917 ../../VOW.rst:1015 ../../VOW.rst:1023 ../../VOW.rst:1243
-#: ../../VOW.rst:1709 ../../VOW.rst:1787 ../../VOW.rst:1795 ../../VOW.rst:1833
+#: ../../VOW.rst:1709 ../../VOW.rst:1787 ../../VOW.rst:1795 ../../VOW.rst:1839
 msgid "Flying"
 msgstr "Latanie"
 
@@ -308,7 +308,7 @@ msgstr ""
 "cios o ile Wyposażenie o nazwie Groom's Finery jest dołączone do stwora pod "
 "twoim władaniem."
 
-#: ../../VOW.rst:25 ../../VOW.rst:883 ../../VOW.rst:1851
+#: ../../VOW.rst:25 ../../VOW.rst:883 ../../VOW.rst:1857
 msgid ""
 "Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip only "
 "as a sorcery.)"
@@ -612,7 +612,7 @@ msgstr ""
 
 #: ../../VOW.rst:113 ../../VOW.rst:119 ../../VOW.rst:145 ../../VOW.rst:223
 #: ../../VOW.rst:255 ../../VOW.rst:1343 ../../VOW.rst:1399 ../../VOW.rst:1569
-#: ../../VOW.rst:1819
+#: ../../VOW.rst:1825
 msgid ""
 "Training (Whenever this creature attacks with another creature with greater "
 "power, put a +1/+1 counter on this creature.)"
@@ -1550,7 +1550,7 @@ msgstr ""
 
 #: ../../VOW.rst:431 ../../VOW.rst:583 ../../VOW.rst:595 ../../VOW.rst:649
 #: ../../VOW.rst:851 ../../VOW.rst:869 ../../VOW.rst:923 ../../VOW.rst:969
-#: ../../VOW.rst:1807 ../../VOW.rst:1813
+#: ../../VOW.rst:1813 ../../VOW.rst:1819
 msgid ""
 "Exploit (When this creature enters the battlefield, you may sacrifice a "
 "creature.)"
@@ -4341,7 +4341,7 @@ msgid ""
 "https://scryfall.com/card/vow/185/apprentice-sharpshooter?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1341 ../../VOW.rst:1825
+#: ../../VOW.rst:1341 ../../VOW.rst:1831
 msgid "Reach"
 msgstr "Zasięg"
 
@@ -4992,7 +4992,7 @@ msgstr ""
 "Ten stwór dostaje +3/+2 o ile w twoim cmentarzu są co najmniej cztery karty "
 "stworów."
 
-#: ../../VOW.rst:1561 ../../VOW.rst:1633 ../../VOW.rst:1869
+#: ../../VOW.rst:1561 ../../VOW.rst:1633 ../../VOW.rst:1875
 msgid "|tap|: Add one mana of any color."
 msgstr "|tap|: Weź jedną manę dowolnego koloru."
 
@@ -5729,7 +5729,7 @@ msgid ""
 "https://scryfall.com/card/vow/247/sigardian-paladin?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1801
+#: ../../VOW.rst:1801 ../../VOW.rst:1807
 msgid ""
 "As long as you've put one or more +1/+1 counters on a creature this turn, "
 "Sigardian Paladin has trample and lifelink."
@@ -5747,12 +5747,31 @@ msgstr ""
 
 #: ../../VOW.rst:1810
 msgid ""
+":mtgtip:`A-Sigardian Paladin<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/2/2/220003ce-cf2e-4595-91f4-c3462407d293.jpg?1657064976|"
+"https://scryfall.com/card/vow/A-247/a-sigardian-paladin?utm_source=api>`"
+msgstr ""
+
+#: ../../VOW.rst:1809
+#, fuzzy
+#| msgid ""
+#| "|mana_1|\\ |mana_g|\\ |mana_w|: Target creature you control with a +1/+1 "
+#| "counter on it gains trample and lifelink until end of turn."
+msgid ""
+"|mana_g|\\ |mana_w|: Target creature you control with a +1/+1 counter on it "
+"gains trample and lifelink until end of turn."
+msgstr ""
+"|mana_1|\\ |mana_g|\\ |mana_w|: Wskazany stwór pod twoim władaniem mający "
+"znacznik +1/+1 zyskuje do końca tury tratowanie i więź życia."
+
+#: ../../VOW.rst:1816
+msgid ""
 ":mtgtip:`Skull Skaab<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/2/6/268fd7e7-0105-4c39-a3ea-77ed32214ff3.jpg?1643594403|https://"
 "scryfall.com/card/vow/248/skull-skaab?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1809
+#: ../../VOW.rst:1815
 msgid ""
 "Whenever a creature you control exploits a nontoken creature, create a 2/2 "
 "black Zombie creature token."
@@ -5760,14 +5779,14 @@ msgstr ""
 "Ilekroć stwór pod twoim władaniem wyzyska nieżetonowego stwora, stwórz żeton "
 "czarnego stwora Zombi 2/2."
 
-#: ../../VOW.rst:1816
+#: ../../VOW.rst:1822
 msgid ""
 ":mtgtip:`A-Skull Skaab<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/7/3/7302dfa1-7302-4b3c-a894-b780b5474d8f.jpg?1645740419|"
 "https://scryfall.com/card/vow/A-248/a-skull-skaab?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1815
+#: ../../VOW.rst:1821
 msgid ""
 "Whenever a creature you control exploits a creature, create a 2/2 black "
 "Zombie creature token."
@@ -5775,7 +5794,7 @@ msgstr ""
 "Ilekroć stwór pod twoim władaniem wyzyska stwora, stwórz żeton czarnego "
 "stwora Zombi 2/2."
 
-#: ../../VOW.rst:1822
+#: ../../VOW.rst:1828
 msgid ""
 ":mtgtip:`Torens, Fist of the Angels<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/b/d/bd111dc9-b8de-4e92-a63d-75a961b2db3b.jpg?"
@@ -5783,7 +5802,7 @@ msgid ""
 "utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1821
+#: ../../VOW.rst:1827
 msgid ""
 "Whenever you cast a creature spell, create a 1/1 green and white Human "
 "Soldier creature token with training."
@@ -5791,14 +5810,14 @@ msgstr ""
 "Ilekroć rzucisz czar stwora, stwórz żeton zielono-białego stwora Człowiek "
 "Piechur 1/1 z treningiem."
 
-#: ../../VOW.rst:1830
+#: ../../VOW.rst:1836
 msgid ""
 ":mtgtip:`Vilespawn Spider<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/6/a/6ad9ae64-6526-4747-9b0c-77d113f58c33.jpg?1643594495|"
 "https://scryfall.com/card/vow/250/vilespawn-spider?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1827
+#: ../../VOW.rst:1833
 msgid ""
 "At the beginning of your upkeep, mill a card. (Put the top card of your "
 "library into your graveyard.)"
@@ -5806,7 +5825,7 @@ msgstr ""
 "Na początku twojego kroku utrzymania, zmiel kartę. (Umieść wierzchnią kartę "
 "twojej biblioteki w twoim cmentarzu.)"
 
-#: ../../VOW.rst:1829
+#: ../../VOW.rst:1835
 msgid ""
 "|mana_2|\\ |mana_g|\\ |mana_u|, |tap|, Sacrifice Vilespawn Spider: Create a "
 "1/1 green Insect creature token for each creature card in your graveyard. "
@@ -5816,14 +5835,14 @@ msgstr ""
 "żetonie zielonego stwora Owad 1/1 za każdą kartę stwora w twoim cmentarzu. "
 "Aktywuj tylko jako obrzęd."
 
-#: ../../VOW.rst:1836
+#: ../../VOW.rst:1842
 msgid ""
 ":mtgtip:`Wandering Mind<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/4/b/4b9a1096-6313-4245-be18-1588c219b842.jpg?1643594554|"
 "https://scryfall.com/card/vow/251/wandering-mind?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1835
+#: ../../VOW.rst:1841
 msgid ""
 "When Wandering Mind enters the battlefield, look at the top six cards of "
 "your library. You may reveal a noncreature, nonland card from among them and "
@@ -5835,14 +5854,14 @@ msgstr ""
 "umieścić ją w twojej ręce. Umieść pozostałe losowo na spodzie twojej "
 "biblioteki."
 
-#: ../../VOW.rst:1840
+#: ../../VOW.rst:1846
 msgid ""
 ":mtgtip:`Blood Servitor<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/8/7/87845cc2-bf5d-491d-bfa2-b33b034557a4.jpg?1643594580|"
 "https://scryfall.com/card/vow/252/blood-servitor?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1839
+#: ../../VOW.rst:1845
 msgid ""
 "When Blood Servitor enters the battlefield, create a Blood token. (It's an "
 "artifact with \"|mana_1|, |tap|, Discard a card, Sacrifice this artifact: "
@@ -5851,18 +5870,18 @@ msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, stwórz żeton Krwi. (To artefakt mający "
 "\"|mana_1|, |tap|, odrzuć kartę, poświęć ten artefakt: Dobierz kartę.\")"
 
-#: ../../VOW.rst:1846
+#: ../../VOW.rst:1852
 msgid ""
 ":mtgtip:`Boarded Window<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/f/0/f02cf94c-94d3-4c4c-a7ae-b4d48ef5b14e.jpg?1643594610|"
 "https://scryfall.com/card/vow/253/boarded-window?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1843
+#: ../../VOW.rst:1849
 msgid "Creatures attacking you get -1/-0."
 msgstr "Atakujące cię stwory dostają -1/-0."
 
-#: ../../VOW.rst:1845
+#: ../../VOW.rst:1851
 msgid ""
 "At the beginning of each end step, if you were dealt 4 or more damage this "
 "turn, exile Boarded Window."
@@ -5870,14 +5889,14 @@ msgstr ""
 "Na początku każdego kroku końcowego, jeśli w tej turze otrzymałeś co "
 "najmniej 4 obrażenia, wygnaj ten artefakt."
 
-#: ../../VOW.rst:1852
+#: ../../VOW.rst:1858
 msgid ""
 ":mtgtip:`Ceremonial Knife<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/9/c/9ccb4b1e-ef8f-4c5f-8b5b-6148455442f7.jpg?1643594637|"
 "https://scryfall.com/card/vow/254/ceremonial-knife?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1849
+#: ../../VOW.rst:1855
 msgid ""
 "Equipped creature gets +1/+0 and has \"Whenever this creature deals combat "
 "damage, create a Blood token.\" (It's an artifact with \"|mana_1|, |tap|, "
@@ -5887,14 +5906,14 @@ msgstr ""
 "bojowe, stwórz żeton Krwi.\" (To artefakt mający \"|mana_1|, |tap|, odrzuć "
 "kartę, poświęć ten artefakt: Dobierz kartę.\")"
 
-#: ../../VOW.rst:1856
+#: ../../VOW.rst:1862
 msgid ""
 ":mtgtip:`Dollhouse of Horrors<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/3/9/396abc9e-a738-430d-85cc-448ace2548f9.jpg?1643594665|"
 "https://scryfall.com/card/vow/255/dollhouse-of-horrors?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1855
+#: ../../VOW.rst:1861
 msgid ""
 "|mana_1|, |tap|, Exile a creature card from your graveyard: Create a token "
 "that's a copy of the exiled card, except it's a 0/0 Construct artifact in "
@@ -5908,7 +5927,7 @@ msgstr ""
 "Konstrukta pod twoim władaniem.\" Do końca tury zyskuje on pośpiech. Aktywuj "
 "tylko jako obrzęd."
 
-#: ../../VOW.rst:1862
+#: ../../VOW.rst:1868
 msgid ""
 ":mtgtip:`Foreboding Statue<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/a/2/a27b9d82-f613-4789-9e8b-f37db5597027.jpg?1643594736|"
@@ -5916,14 +5935,14 @@ msgid ""
 "utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1859
+#: ../../VOW.rst:1865
 msgid ""
 "|tap|: Add one mana of any color. Put an omen counter on Foreboding Statue."
 msgstr ""
 "|tap|: Weź jedną manę dowolnego koloru. Umieść znacznik omenu na tym "
 "artefakcie."
 
-#: ../../VOW.rst:1861
+#: ../../VOW.rst:1867
 msgid ""
 "At the beginning of your end step, if there are three or more omen counters "
 "on Foreboding Statue, untap it, then transform it."
@@ -5931,7 +5950,7 @@ msgstr ""
 "Na początku twojego kroku końcowego, jeśli na tym artefakcie są co najmniej "
 "trzy znaczniki omenu, odkręć go, po czym transformuj go."
 
-#: ../../VOW.rst:1866
+#: ../../VOW.rst:1872
 msgid ""
 ":mtgtip:`Forsaken Thresher<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/back/a/2/a27b9d82-f613-4789-9e8b-f37db5597027.jpg?1643594736|"
@@ -5939,32 +5958,32 @@ msgid ""
 "utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1865
+#: ../../VOW.rst:1871
 msgid ""
 "At the beginning of your precombat main phase, add one mana of any color."
 msgstr ""
 "Na początku twojej fazy głównej przed potyczką, weź jedną manę dowolnego "
 "koloru."
 
-#: ../../VOW.rst:1872
+#: ../../VOW.rst:1878
 msgid ""
 ":mtgtip:`Honored Heirloom<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/d/3/d3390e4d-9137-40ff-b998-bdb19c90b7d5.jpg?1643594759|"
 "https://scryfall.com/card/vow/257/honored-heirloom?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1871
+#: ../../VOW.rst:1877
 msgid "|mana_2|, |tap|: Exile target card from a graveyard."
 msgstr "|mana_2|, |tap|: Wygnaj wskazaną kartę z cmentarza."
 
-#: ../../VOW.rst:1880
+#: ../../VOW.rst:1886
 msgid ""
 ":mtgtip:`Investigator's Journal<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/f/8/f8a606e5-7a90-4a89-b51a-7f4e68705f97.jpg?1643594784|"
 "https://scryfall.com/card/vow/258/investigators-journal?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1875
+#: ../../VOW.rst:1881
 msgid ""
 "Investigator's Journal enters the battlefield with a number of suspect "
 "counters on it equal to the greatest number of creatures a player controls."
@@ -5972,32 +5991,32 @@ msgstr ""
 "Ten artefakt wchodzi na pole bitwy mając tyle zaczników podejrzanych, ile "
 "wynosi największa liczba stworów pod władaniem jednego gracza."
 
-#: ../../VOW.rst:1877
+#: ../../VOW.rst:1883
 msgid ""
 "|mana_2|, |tap|, Remove a suspect counter from Investigator's Journal: Draw "
 "a card."
 msgstr ""
 "|mana_2|, |tap|, usuń znacznik podejrzanego z tego artefaktu: Dobierz kartę."
 
-#: ../../VOW.rst:1879
+#: ../../VOW.rst:1885
 msgid "|mana_2|, Sacrifice Investigator's Journal: Draw a card."
 msgstr "|mana_2|, poświęć ten artefakt: Dobierz kartę."
 
-#: ../../VOW.rst:1886
+#: ../../VOW.rst:1892
 msgid ""
 ":mtgtip:`Lantern of the Lost<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/c/2/c2303f11-2c82-44d5-893a-8e71dece7746.jpg?1643594810|"
 "https://scryfall.com/card/vow/259/lantern-of-the-lost?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1883
+#: ../../VOW.rst:1889
 msgid ""
 "When Lantern of the Lost enters the battlefield, exile target card from a "
 "graveyard."
 msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, wygnaj wskazaną kartę z cmentarza."
 
-#: ../../VOW.rst:1885
+#: ../../VOW.rst:1891
 msgid ""
 "|mana_1|, |tap|, Exile Lantern of the Lost: Exile all cards from all "
 "graveyards, then draw a card."
@@ -6005,18 +6024,18 @@ msgstr ""
 "|mana_1|, |tap|, wygnaj ten artefakt: Wygnaj wszystkie karty ze wszystkich "
 "cmentarzy, po czym dobierz kartę."
 
-#: ../../VOW.rst:1892
+#: ../../VOW.rst:1898
 msgid ""
 ":mtgtip:`Wedding Invitation<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/d/d/ddc22ff6-4081-47ce-bc8a-e063f5f4d044.jpg?1643594836|"
 "https://scryfall.com/card/vow/260/wedding-invitation?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1889
+#: ../../VOW.rst:1895
 msgid "When Wedding Invitation enters the battlefield, draw a card."
 msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
-#: ../../VOW.rst:1891
+#: ../../VOW.rst:1897
 msgid ""
 "|tap|, Sacrifice Wedding Invitation: Target creature can't be blocked this "
 "turn. If it's a Vampire, it also gains lifelink until end of turn."
@@ -6024,14 +6043,14 @@ msgstr ""
 "|tap|, poświęć ten artefakt: Wskazany stwór nie może być blokowany w tej "
 "turze. Jeśli jest on Wampirem do końca tury zyskuje on też więź życia."
 
-#: ../../VOW.rst:1898
+#: ../../VOW.rst:1904
 msgid ""
 ":mtgtip:`Deathcap Glade<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/d/5/d5523659-98a8-4ae2-9ec7-d77e7352c374.jpg?1655879791|"
 "https://scryfall.com/card/vow/261/deathcap-glade?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1895
+#: ../../VOW.rst:1901
 msgid ""
 "Deathcap Glade enters the battlefield tapped unless you control two or more "
 "other lands."
@@ -6039,18 +6058,18 @@ msgstr ""
 "Ten ląd wchodzi przekręcony na pole bitwy, chyba że władasz co najmniej "
 "dwoma innymi lądami."
 
-#: ../../VOW.rst:1897
+#: ../../VOW.rst:1903
 msgid "|tap|: Add |mana_b| or |mana_g|."
 msgstr "|tap|: Weź |mana_b| lub |mana_g|."
 
-#: ../../VOW.rst:1904
+#: ../../VOW.rst:1910
 msgid ""
 ":mtgtip:`Dreamroot Cascade<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/e/b/eb604455-c411-414d-a2ef-e7567ee86a4d.jpg?1655879797|"
 "https://scryfall.com/card/vow/262/dreamroot-cascade?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1901
+#: ../../VOW.rst:1907
 msgid ""
 "Dreamroot Cascade enters the battlefield tapped unless you control two or "
 "more other lands."
@@ -6058,18 +6077,18 @@ msgstr ""
 "Ten ląd wchodzi przekręcony na pole bitwy, chyba że władasz co najmniej "
 "dwoma innymi lądami."
 
-#: ../../VOW.rst:1903
+#: ../../VOW.rst:1909
 msgid "|tap|: Add |mana_g| or |mana_u|."
 msgstr "|tap|: Weź |mana_g| lub |mana_u|."
 
-#: ../../VOW.rst:1908
+#: ../../VOW.rst:1914
 msgid ""
 ":mtgtip:`Evolving Wilds<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/e/8/e80fe230-745d-42ae-a1f5-a8cc950783d0.jpg?1643594919|"
 "https://scryfall.com/card/vow/263/evolving-wilds?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1907
+#: ../../VOW.rst:1913
 msgid ""
 "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, "
 "put it onto the battlefield tapped, then shuffle."
@@ -6077,14 +6096,14 @@ msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
 "umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
-#: ../../VOW.rst:1914
+#: ../../VOW.rst:1920
 msgid ""
 ":mtgtip:`Shattered Sanctum<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/a/d/ad44c9aa-eb8f-4200-8dfe-2af728d80083.jpg?1655879804|"
 "https://scryfall.com/card/vow/264/shattered-sanctum?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1911
+#: ../../VOW.rst:1917
 msgid ""
 "Shattered Sanctum enters the battlefield tapped unless you control two or "
 "more other lands."
@@ -6092,18 +6111,18 @@ msgstr ""
 "Ten ląd wchodzi przekręcony na pole bitwy, chyba że władasz co najmniej "
 "dwoma innymi lądami."
 
-#: ../../VOW.rst:1913
+#: ../../VOW.rst:1919
 msgid "|tap|: Add |mana_w| or |mana_b|."
 msgstr "|tap|: Weź |mana_w| lub |mana_b|."
 
-#: ../../VOW.rst:1920
+#: ../../VOW.rst:1926
 msgid ""
 ":mtgtip:`Stormcarved Coast<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/2/9/299f1dee-b3d7-472b-aa0b-2f9b46a96da5.jpg?1655879810|"
 "https://scryfall.com/card/vow/265/stormcarved-coast?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1917
+#: ../../VOW.rst:1923
 msgid ""
 "Stormcarved Coast enters the battlefield tapped unless you control two or "
 "more other lands."
@@ -6111,18 +6130,18 @@ msgstr ""
 "Ten ląd wchodzi przekręcony na pole bitwy, chyba że władasz co najmniej "
 "dwoma innymi lądami."
 
-#: ../../VOW.rst:1919
+#: ../../VOW.rst:1925
 msgid "|tap|: Add |mana_u| or |mana_r|."
 msgstr "|tap|: Weź |mana_u| lub |mana_r|."
 
-#: ../../VOW.rst:1926
+#: ../../VOW.rst:1932
 msgid ""
 ":mtgtip:`Sundown Pass<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/8/f/8f3fddd7-ede4-41c7-a645-a6af298a3d35.jpg?1655879812|"
 "https://scryfall.com/card/vow/266/sundown-pass?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1923
+#: ../../VOW.rst:1929
 msgid ""
 "Sundown Pass enters the battlefield tapped unless you control two or more "
 "other lands."
@@ -6130,22 +6149,22 @@ msgstr ""
 "Ten ląd wchodzi przekręcony na pole bitwy, chyba że władasz co najmniej "
 "dwoma innymi lądami."
 
-#: ../../VOW.rst:1925
+#: ../../VOW.rst:1931
 msgid "|tap|: Add |mana_r| or |mana_w|."
 msgstr "|tap|: Weź |mana_r| lub |mana_w|."
 
-#: ../../VOW.rst:1934
+#: ../../VOW.rst:1940
 msgid ""
 ":mtgtip:`Voldaren Estate<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/2/5/2577e5fd-903a-44ce-989a-d53d56511ad3.jpg?1643595032|"
 "https://scryfall.com/card/vow/267/voldaren-estate?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1929
+#: ../../VOW.rst:1935
 msgid "|tap|: Add |colorless|."
 msgstr "|tap|: Weź |colorless|."
 
-#: ../../VOW.rst:1931
+#: ../../VOW.rst:1937
 msgid ""
 "|tap|, Pay 1 life: Add one mana of any color. Spend this mana only to cast a "
 "Vampire spell."
@@ -6153,7 +6172,7 @@ msgstr ""
 "|tap|, zapłać 1 życie: Weź jedną manę dowolnego koloru. Wydaj tę manę tylko "
 "na rzucenie czaru Wampira."
 
-#: ../../VOW.rst:1933
+#: ../../VOW.rst:1939
 msgid ""
 "|mana_5|, |tap|: Create a Blood token. This ability costs |mana_1| less to "
 "activate for each Vampire you control. (It's an artifact with \"|mana_1|, |"
@@ -6163,58 +6182,58 @@ msgstr ""
 "mana_1| mniej za każdego Wampira pod twoim władaniem. (To artefakt mający \"|"
 "mana_1|, |tap|, odrzuć kartę, poświęć ten artefakt: Dobierz kartę.\")"
 
-#: ../../VOW.rst:1938
+#: ../../VOW.rst:1944
 msgid ""
 ":mtgtip:`Plains<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/d/e/deabdaa1-6227-48e4-82d5-63a1771320b2.jpg?1643595060|https://"
 "scryfall.com/card/vow/268/plains?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1937
+#: ../../VOW.rst:1943
 msgid "(|tap|: Add |mana_w|.)"
 msgstr "(|tap|: Weź |mana_w|.)"
 
-#: ../../VOW.rst:1942
+#: ../../VOW.rst:1948
 msgid ""
 ":mtgtip:`Island<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/5/4/54ddd3aa-593c-4adb-b591-33c15d02131c.jpg?1643595123|https://"
 "scryfall.com/card/vow/270/island?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1941
+#: ../../VOW.rst:1947
 msgid "(|tap|: Add |mana_u|.)"
 msgstr "(|tap|: Weź |mana_u|.)"
 
-#: ../../VOW.rst:1946
+#: ../../VOW.rst:1952
 msgid ""
 ":mtgtip:`Swamp<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/4/a/4abfe418-15f8-46ce-9b39-fd5a38b25d12.jpg?1643595179|https://"
 "scryfall.com/card/vow/272/swamp?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1945
+#: ../../VOW.rst:1951
 msgid "(|tap|: Add |mana_b|.)"
 msgstr "(|tap|: Weź |mana_b|.)"
 
-#: ../../VOW.rst:1950
+#: ../../VOW.rst:1956
 msgid ""
 ":mtgtip:`Mountain<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/8/a/8a4448b6-0dbe-427c-b145-8ac915fc0dfc.jpg?1643595235|https://"
 "scryfall.com/card/vow/274/mountain?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1949
+#: ../../VOW.rst:1955
 msgid "(|tap|: Add |mana_r|.)"
 msgstr "(|tap|: Weź |mana_r|.)"
 
-#: ../../VOW.rst:1953
+#: ../../VOW.rst:1959
 msgid ""
 ":mtgtip:`Forest<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/e/4/e4c83b60-3d49-4fdc-a6b7-06d1a0c4a126.jpg?1643595289|https://"
 "scryfall.com/card/vow/276/forest?utm_source=api>`"
 msgstr ""
 
-#: ../../VOW.rst:1953
+#: ../../VOW.rst:1959
 msgid "(|tap|: Add |mana_g|.)"
 msgstr "(|tap|: Weź |mana_g|.)"
 

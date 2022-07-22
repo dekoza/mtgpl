@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-21 00:16+0200\n"
+"POT-Creation-Date: 2022-07-22 17:15+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -241,8 +241,8 @@ msgstr ""
 
 #: ../../IKO.rst:9 ../../IKO.rst:173 ../../IKO.rst:269 ../../IKO.rst:329
 #: ../../IKO.rst:373 ../../IKO.rst:387 ../../IKO.rst:411 ../../IKO.rst:433
-#: ../../IKO.rst:485 ../../IKO.rst:543 ../../IKO.rst:1185 ../../IKO.rst:1251
-#: ../../IKO.rst:1305 ../../IKO.rst:1393
+#: ../../IKO.rst:485 ../../IKO.rst:543 ../../IKO.rst:1185 ../../IKO.rst:1255
+#: ../../IKO.rst:1309 ../../IKO.rst:1397
 msgid "Flash"
 msgstr ""
 
@@ -259,7 +259,7 @@ msgid ""
 msgstr ""
 
 #: ../../IKO.rst:15 ../../IKO.rst:93 ../../IKO.rst:129 ../../IKO.rst:135
-#: ../../IKO.rst:945 ../../IKO.rst:1053 ../../IKO.rst:1245 ../../IKO.rst:1283
+#: ../../IKO.rst:945 ../../IKO.rst:1053 ../../IKO.rst:1249 ../../IKO.rst:1287
 msgid "Vigilance"
 msgstr ""
 
@@ -317,8 +317,8 @@ msgstr ""
 #: ../../IKO.rst:343 ../../IKO.rst:357 ../../IKO.rst:381 ../../IKO.rst:505
 #: ../../IKO.rst:577 ../../IKO.rst:701 ../../IKO.rst:743 ../../IKO.rst:753
 #: ../../IKO.rst:775 ../../IKO.rst:791 ../../IKO.rst:825 ../../IKO.rst:893
-#: ../../IKO.rst:929 ../../IKO.rst:941 ../../IKO.rst:999 ../../IKO.rst:1359
-#: ../../IKO.rst:1365 ../../IKO.rst:1377 ../../IKO.rst:1383 ../../IKO.rst:1401
+#: ../../IKO.rst:929 ../../IKO.rst:941 ../../IKO.rst:999 ../../IKO.rst:1363
+#: ../../IKO.rst:1369 ../../IKO.rst:1381 ../../IKO.rst:1387 ../../IKO.rst:1405
 msgid "Cycling |mana_2| (|mana_2|, Discard this card: Draw a card.)"
 msgstr ""
 
@@ -336,7 +336,7 @@ msgid ""
 "into the creature on top plus all abilities from under it.)"
 msgstr ""
 
-#: ../../IKO.rst:41 ../../IKO.rst:183 ../../IKO.rst:1297
+#: ../../IKO.rst:41 ../../IKO.rst:183 ../../IKO.rst:1301
 msgid "Lifelink"
 msgstr ""
 
@@ -554,7 +554,7 @@ msgstr ""
 
 #: ../../IKO.rst:121 ../../IKO.rst:149 ../../IKO.rst:195 ../../IKO.rst:215
 #: ../../IKO.rst:241 ../../IKO.rst:275 ../../IKO.rst:303 ../../IKO.rst:487
-#: ../../IKO.rst:649 ../../IKO.rst:1177 ../../IKO.rst:1275 ../../IKO.rst:1339
+#: ../../IKO.rst:649 ../../IKO.rst:1177 ../../IKO.rst:1279 ../../IKO.rst:1343
 msgid "Flying"
 msgstr ""
 
@@ -1564,7 +1564,7 @@ msgid ""
 "https://scryfall.com/card/iko/92/hunted-nightmare?utm_source=api>`"
 msgstr ""
 
-#: ../../IKO.rst:529 ../../IKO.rst:1095 ../../IKO.rst:1323
+#: ../../IKO.rst:529 ../../IKO.rst:1095 ../../IKO.rst:1327
 msgid "Menace"
 msgstr ""
 
@@ -2136,7 +2136,7 @@ msgid ""
 msgstr ""
 
 #: ../../IKO.rst:735 ../../IKO.rst:811 ../../IKO.rst:851 ../../IKO.rst:979
-#: ../../IKO.rst:1015 ../../IKO.rst:1145 ../../IKO.rst:1317 ../../IKO.rst:1555
+#: ../../IKO.rst:1015 ../../IKO.rst:1145 ../../IKO.rst:1321 ../../IKO.rst:1559
 msgid "Trample"
 msgstr ""
 
@@ -3363,7 +3363,7 @@ msgid ""
 "https://scryfall.com/card/iko/206/skull-prophet?utm_source=api>`"
 msgstr ""
 
-#: ../../IKO.rst:1171 ../../IKO.rst:1451
+#: ../../IKO.rst:1171 ../../IKO.rst:1455
 msgid "|tap|: Add |mana_b| or |mana_g|."
 msgstr ""
 
@@ -3553,82 +3553,99 @@ msgstr ""
 
 #: ../../IKO.rst:1242
 msgid ""
+":mtgtip:`A-Winota, Joiner of Forces<https://c1.scryfall.com/file/scryfall-"
+"cards/border_crop/front/6/b/6bf6e906-9305-4003-b040-1dfecca590c1.jpg?"
+"1657064728|https://scryfall.com/card/iko/A-216/a-winota-joiner-of-forces?"
+"utm_source=api>`"
+msgstr ""
+
+#: ../../IKO.rst:1241
+msgid ""
+"Whenever one or more non-Human creatures you control attacks, look at the "
+"top six cards of your library. You may put a Human creature card from among "
+"them onto the battlefield tapped and attacking. It gains indestructible "
+"until end of turn. Put the rest of the cards on the bottom of your library "
+"in a random order."
+msgstr ""
+
+#: ../../IKO.rst:1246
+msgid ""
 ":mtgtip:`Zenith Flare<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/0/e/0efac1ed-3f01-487c-86be-8239568b4425.jpg?1591228324|"
 "https://scryfall.com/card/iko/217/zenith-flare?utm_source=api>`"
 msgstr ""
 
-#: ../../IKO.rst:1241
+#: ../../IKO.rst:1245
 msgid ""
 "Zenith Flare deals X damage to any target and you gain X life, where X is "
 "the number of cards with a cycling ability in your graveyard."
 msgstr ""
 
-#: ../../IKO.rst:1248
+#: ../../IKO.rst:1252
 msgid ""
 ":mtgtip:`Alert Heedbonder<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/1/5/15a2ccae-c322-4e99-a094-a68fc5d52ea3.jpg?1591228332|"
 "https://scryfall.com/card/iko/218/alert-heedbonder?utm_source=api>`"
 msgstr ""
 
-#: ../../IKO.rst:1247
+#: ../../IKO.rst:1251
 msgid ""
 "At the beginning of your end step, you gain 1 life for each creature you "
 "control with vigilance."
 msgstr ""
 
-#: ../../IKO.rst:1254
+#: ../../IKO.rst:1258
 msgid ""
 ":mtgtip:`Cunning Nightbonder<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/a/d/adb202e7-f9a4-4785-840d-18aa6aa663b4.jpg?1636491385|"
 "https://scryfall.com/card/iko/219/cunning-nightbonder?utm_source=api>`"
 msgstr ""
 
-#: ../../IKO.rst:1253
+#: ../../IKO.rst:1257
 msgid ""
 "Spells with flash you cast cost |mana_1| less to cast and can't be countered."
 msgstr ""
 
-#: ../../IKO.rst:1260
+#: ../../IKO.rst:1264
 msgid ""
 ":mtgtip:`Fiend Artisan<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/6/c/6cd9d800-6d31-42e2-87d2-772db0ff95ed.jpg?1591228355|"
 "https://scryfall.com/card/iko/220/fiend-artisan?utm_source=api>`"
 msgstr ""
 
-#: ../../IKO.rst:1257
+#: ../../IKO.rst:1261
 msgid "Fiend Artisan gets +1/+1 for each creature card in your graveyard."
 msgstr ""
 
-#: ../../IKO.rst:1259
+#: ../../IKO.rst:1263
 msgid ""
 "|mana_x|\\ |mana_bg|, |tap|, Sacrifice another creature: Search your library "
 "for a creature card with mana value X or less, put it onto the battlefield, "
 "then shuffle. Activate only as a sorcery."
 msgstr ""
 
-#: ../../IKO.rst:1266
+#: ../../IKO.rst:1270
 msgid ""
 ":mtgtip:`Gyruda, Doom of Depths<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/9/7/97eb1804-6fd8-4917-af36-87fdfce39d3a.jpg?1591228372|"
 "https://scryfall.com/card/iko/221/gyruda-doom-of-depths?utm_source=api>`"
 msgstr ""
 
-#: ../../IKO.rst:1263
+#: ../../IKO.rst:1267
 msgid ""
 "Companion — Your starting deck contains only cards with even mana values. "
 "(If this card is your chosen companion, you may put it into your hand from "
 "outside the game for |mana_3| any time you could cast a sorcery.)"
 msgstr ""
 
-#: ../../IKO.rst:1265
+#: ../../IKO.rst:1269
 msgid ""
 "When Gyruda enters the battlefield, each player mills four cards. Put a "
 "creature card with an even mana value from among the milled cards onto the "
 "battlefield under your control."
 msgstr ""
 
-#: ../../IKO.rst:1272
+#: ../../IKO.rst:1276
 msgid ""
 ":mtgtip:`Jegantha, the Wellspring<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/1/d/1d52e527-3835-4350-8c01-0f2d5d623b9c.jpg?"
@@ -3636,7 +3653,7 @@ msgid ""
 "utm_source=api>`"
 msgstr ""
 
-#: ../../IKO.rst:1269
+#: ../../IKO.rst:1273
 msgid ""
 "Companion — No card in your starting deck has more than one of the same mana "
 "symbol in its mana cost. (If this card is your chosen companion, you may put "
@@ -3644,26 +3661,26 @@ msgid ""
 "a sorcery.)"
 msgstr ""
 
-#: ../../IKO.rst:1271
+#: ../../IKO.rst:1275
 msgid ""
 "|tap|: Add |mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|. This mana "
 "can't be spent to pay generic mana costs."
 msgstr ""
 
-#: ../../IKO.rst:1278
+#: ../../IKO.rst:1282
 msgid ""
 ":mtgtip:`Jubilant Skybonder<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/7/f/7f8f2d69-fba9-40e5-8ef7-75e14ef4070a.jpg?1591605364|"
 "https://scryfall.com/card/iko/223/jubilant-skybonder?utm_source=api>`"
 msgstr ""
 
-#: ../../IKO.rst:1277
+#: ../../IKO.rst:1281
 msgid ""
 "Creatures you control with flying have \"Spells your opponents cast that "
 "target this creature cost |mana_2| more to cast.\""
 msgstr ""
 
-#: ../../IKO.rst:1286
+#: ../../IKO.rst:1290
 msgid ""
 ":mtgtip:`Kaheera, the Orphanguard<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/d/4/d4ebed0b-8060-4a7b-a060-5cfcd2172b16.jpg?"
@@ -3671,7 +3688,7 @@ msgid ""
 "utm_source=api>`"
 msgstr ""
 
-#: ../../IKO.rst:1281
+#: ../../IKO.rst:1285
 msgid ""
 "Companion — Each creature card in your starting deck is a Cat, Elemental, "
 "Nightmare, Dinosaur, or Beast card. (If this card is your chosen companion, "
@@ -3679,20 +3696,20 @@ msgid ""
 "you could cast a sorcery.)"
 msgstr ""
 
-#: ../../IKO.rst:1285
+#: ../../IKO.rst:1289
 msgid ""
 "Each other creature you control that's a Cat, Elemental, Nightmare, "
 "Dinosaur, or Beast gets +1/+1 and has vigilance."
 msgstr ""
 
-#: ../../IKO.rst:1292
+#: ../../IKO.rst:1296
 msgid ""
 ":mtgtip:`Keruga, the Macrosage<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/a/9/a90ee952-de7a-420f-993c-a38db89bc8ac.jpg?1591228418|"
 "https://scryfall.com/card/iko/225/keruga-the-macrosage?utm_source=api>`"
 msgstr ""
 
-#: ../../IKO.rst:1289
+#: ../../IKO.rst:1293
 msgid ""
 "Companion — Your starting deck contains only cards with mana value 3 or "
 "greater and land cards. (If this card is your chosen companion, you may put "
@@ -3700,130 +3717,130 @@ msgid ""
 "a sorcery.)"
 msgstr ""
 
-#: ../../IKO.rst:1291
+#: ../../IKO.rst:1295
 msgid ""
 "When Keruga, the Macrosage enters the battlefield, draw a card for each "
 "other permanent you control with mana value 3 or greater."
 msgstr ""
 
-#: ../../IKO.rst:1300
+#: ../../IKO.rst:1304
 msgid ""
 ":mtgtip:`Lurrus of the Dream-Den<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/5/a/5ad36fb2-c44e-4085-ba0d-54277841ad3a.jpg?1650599605|"
 "https://scryfall.com/card/iko/226/lurrus-of-the-dream-den?utm_source=api>`"
 msgstr ""
 
-#: ../../IKO.rst:1295
+#: ../../IKO.rst:1299
 msgid ""
 "Companion — Each permanent card in your starting deck has mana value 2 or "
 "less. (If this card is your chosen companion, you may put it into your hand "
 "from outside the game for |mana_3| any time you could cast a sorcery.)"
 msgstr ""
 
-#: ../../IKO.rst:1299
+#: ../../IKO.rst:1303
 msgid ""
 "During each of your turns, you may cast one permanent spell with mana value "
 "2 or less from your graveyard."
 msgstr ""
 
-#: ../../IKO.rst:1308
+#: ../../IKO.rst:1312
 msgid ""
 ":mtgtip:`Lutri, the Spellchaser<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/f/b/fb1189c9-7842-466e-8238-1e02677d8494.jpg?1628801771|"
 "https://scryfall.com/card/iko/227/lutri-the-spellchaser?utm_source=api>`"
 msgstr ""
 
-#: ../../IKO.rst:1303
+#: ../../IKO.rst:1307
 msgid ""
 "Companion — Each nonland card in your starting deck has a different name. "
 "(If this card is your chosen companion, you may put it into your hand from "
 "outside the game for |mana_3| any time you could cast a sorcery.)"
 msgstr ""
 
-#: ../../IKO.rst:1307
+#: ../../IKO.rst:1311
 msgid ""
 "When Lutri, the Spellchaser enters the battlefield, if you cast it, copy "
 "target instant or sorcery spell you control. You may choose new targets for "
 "the copy."
 msgstr ""
 
-#: ../../IKO.rst:1314
+#: ../../IKO.rst:1318
 msgid ""
 ":mtgtip:`Obosh, the Preypiercer<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/4/5/451507de-9c42-43ee-b9ba-1f69e9aa29d2.jpg?1591228450|"
 "https://scryfall.com/card/iko/228/obosh-the-preypiercer?utm_source=api>`"
 msgstr ""
 
-#: ../../IKO.rst:1311
+#: ../../IKO.rst:1315
 msgid ""
 "Companion — Your starting deck contains only cards with odd mana values and "
 "land cards. (If this card is your chosen companion, you may put it into your "
 "hand from outside the game for |mana_3| any time you could cast a sorcery.)"
 msgstr ""
 
-#: ../../IKO.rst:1313
+#: ../../IKO.rst:1317
 msgid ""
 "If a source you control with an odd mana value would deal damage to a "
 "permanent or player, it deals double that damage to that permanent or player "
 "instead."
 msgstr ""
 
-#: ../../IKO.rst:1320
+#: ../../IKO.rst:1324
 msgid ""
 ":mtgtip:`Proud Wildbonder<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/f/4/f4876e17-a206-4351-9c0b-0845db4569a3.jpg?1591605265|"
 "https://scryfall.com/card/iko/229/proud-wildbonder?utm_source=api>`"
 msgstr ""
 
-#: ../../IKO.rst:1319
+#: ../../IKO.rst:1323
 msgid ""
 "Creatures you control with trample have \"You may have this creature assign "
 "its combat damage as though it weren't blocked.\""
 msgstr ""
 
-#: ../../IKO.rst:1326
+#: ../../IKO.rst:1330
 msgid ""
 ":mtgtip:`Sonorous Howlbonder<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/5/9/595f0b25-6e6e-43c4-a4a0-903920067df1.jpg?1591228476|"
 "https://scryfall.com/card/iko/230/sonorous-howlbonder?utm_source=api>`"
 msgstr ""
 
-#: ../../IKO.rst:1325
+#: ../../IKO.rst:1329
 msgid ""
 "Each creature you control with menace can't be blocked except by three or "
 "more creatures."
 msgstr ""
 
-#: ../../IKO.rst:1334
+#: ../../IKO.rst:1338
 msgid ""
 ":mtgtip:`Umori, the Collector<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/7/5/75ac31e0-ac70-4ee6-b2b1-cc445ffa1da9.jpg?1591228489|"
 "https://scryfall.com/card/iko/231/umori-the-collector?utm_source=api>`"
 msgstr ""
 
-#: ../../IKO.rst:1329
+#: ../../IKO.rst:1333
 msgid ""
 "Companion — Each nonland card in your starting deck shares a card type. (If "
 "this card is your chosen companion, you may put it into your hand from "
 "outside the game for |mana_3| any time you could cast a sorcery.)"
 msgstr ""
 
-#: ../../IKO.rst:1331
+#: ../../IKO.rst:1335
 msgid "As Umori, the Collector enters the battlefield, choose a card type."
 msgstr ""
 
-#: ../../IKO.rst:1333
+#: ../../IKO.rst:1337
 msgid "Spells you cast of the chosen type cost |mana_1| less to cast."
 msgstr ""
 
-#: ../../IKO.rst:1342
+#: ../../IKO.rst:1346
 msgid ""
 ":mtgtip:`Yorion, Sky Nomad<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/2/7/275426c4-c14e-47d0-a9d4-24da7f6f6911.jpg?1616182288|"
 "https://scryfall.com/card/iko/232/yorion-sky-nomad?utm_source=api>`"
 msgstr ""
 
-#: ../../IKO.rst:1337
+#: ../../IKO.rst:1341
 msgid ""
 "Companion — Your starting deck contains at least twenty cards more than the "
 "minimum deck size. (If this card is your chosen companion, you may put it "
@@ -3831,46 +3848,46 @@ msgid ""
 "sorcery.)"
 msgstr ""
 
-#: ../../IKO.rst:1341
+#: ../../IKO.rst:1345
 msgid ""
 "When Yorion enters the battlefield, exile any number of other nonland "
 "permanents you own and control. Return those cards to the battlefield at the "
 "beginning of the next end step."
 msgstr ""
 
-#: ../../IKO.rst:1350
+#: ../../IKO.rst:1354
 msgid ""
 ":mtgtip:`Zirda, the Dawnwaker<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/1/b/1bd8e61c-2ee8-4243-a848-7008810db8a0.jpg?1615132391|"
 "https://scryfall.com/card/iko/233/zirda-the-dawnwaker?utm_source=api>`"
 msgstr ""
 
-#: ../../IKO.rst:1345
+#: ../../IKO.rst:1349
 msgid ""
 "Companion — Each permanent card in your starting deck has an activated "
 "ability. (If this card is your chosen companion, you may put it into your "
 "hand from outside the game for |mana_3| any time you could cast a sorcery.)"
 msgstr ""
 
-#: ../../IKO.rst:1347
+#: ../../IKO.rst:1351
 msgid ""
 "Abilities you activate that aren't mana abilities cost |mana_2| less to "
 "activate. This effect can't reduce the mana in that cost to less than one "
 "mana."
 msgstr ""
 
-#: ../../IKO.rst:1349
+#: ../../IKO.rst:1353
 msgid "|mana_1|, |tap|: Target creature can't block this turn."
 msgstr ""
 
-#: ../../IKO.rst:1354
+#: ../../IKO.rst:1358
 msgid ""
 ":mtgtip:`Crystalline Giant<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/1/1/1146c418-2176-466e-8a06-f2ef6bf2b1a9.jpg?1591228515|"
 "https://scryfall.com/card/iko/234/crystalline-giant?utm_source=api>`"
 msgstr ""
 
-#: ../../IKO.rst:1353
+#: ../../IKO.rst:1357
 msgid ""
 "At the beginning of combat on your turn, choose a kind of counter at random "
 "that Crystalline Giant doesn't have on it from among flying, first strike, "
@@ -3878,461 +3895,461 @@ msgid ""
 "+1. Put a counter of that kind on Crystalline Giant."
 msgstr ""
 
-#: ../../IKO.rst:1360
+#: ../../IKO.rst:1364
 msgid ""
 ":mtgtip:`Indatha Crystal<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/b/d/bdace59f-f025-4717-8eb4-3d1e13b31d2b.jpg?1591228525|"
 "https://scryfall.com/card/iko/235/indatha-crystal?utm_source=api>`"
 msgstr ""
 
-#: ../../IKO.rst:1357
+#: ../../IKO.rst:1361
 msgid "|tap|: Add |mana_w|, |mana_b|, or |mana_g|."
 msgstr ""
 
-#: ../../IKO.rst:1366
+#: ../../IKO.rst:1370
 msgid ""
 ":mtgtip:`Ketria Crystal<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/7/d/7df435cb-3aeb-490a-8fca-91f3b6936965.jpg?1591228536|"
 "https://scryfall.com/card/iko/236/ketria-crystal?utm_source=api>`"
 msgstr ""
 
-#: ../../IKO.rst:1363
+#: ../../IKO.rst:1367
 msgid "|tap|: Add |mana_g|, |mana_u|, or |mana_r|."
 msgstr ""
 
-#: ../../IKO.rst:1372
+#: ../../IKO.rst:1376
 msgid ""
 ":mtgtip:`The Ozolith<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/9/3/9341ed06-53db-4604-b60a-3ea9129afbc2.jpg?1591228544|https://"
 "scryfall.com/card/iko/237/the-ozolith?utm_source=api>`"
 msgstr ""
 
-#: ../../IKO.rst:1369
+#: ../../IKO.rst:1373
 msgid ""
 "Whenever a creature you control leaves the battlefield, if it had counters "
 "on it, put those counters on The Ozolith."
 msgstr ""
 
-#: ../../IKO.rst:1371
+#: ../../IKO.rst:1375
 msgid ""
 "At the beginning of combat on your turn, if The Ozolith has counters on it, "
 "you may move all counters from The Ozolith onto target creature."
 msgstr ""
 
-#: ../../IKO.rst:1378
+#: ../../IKO.rst:1382
 msgid ""
 ":mtgtip:`Raugrin Crystal<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/c/5/c5bce0fb-53d6-47ee-8c5a-a99e50f67fc9.jpg?1591228553|"
 "https://scryfall.com/card/iko/238/raugrin-crystal?utm_source=api>`"
 msgstr ""
 
-#: ../../IKO.rst:1375
+#: ../../IKO.rst:1379
 msgid "|tap|: Add |mana_u|, |mana_r|, or |mana_w|."
 msgstr ""
 
-#: ../../IKO.rst:1384
+#: ../../IKO.rst:1388
 msgid ""
 ":mtgtip:`Savai Crystal<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/6/9/6954a5c1-89b1-4edd-814e-8f88fd49cda3.jpg?1591228561|"
 "https://scryfall.com/card/iko/239/savai-crystal?utm_source=api>`"
 msgstr ""
 
-#: ../../IKO.rst:1381
+#: ../../IKO.rst:1385
 msgid "|tap|: Add |mana_r|, |mana_w|, or |mana_b|."
 msgstr ""
 
-#: ../../IKO.rst:1390
+#: ../../IKO.rst:1394
 msgid ""
 ":mtgtip:`Sleeper Dart<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/3/1/311f827a-1585-483e-b0fd-3dc05969b485.jpg?1591228570|"
 "https://scryfall.com/card/iko/240/sleeper-dart?utm_source=api>`"
 msgstr ""
 
-#: ../../IKO.rst:1387
+#: ../../IKO.rst:1391
 msgid "When Sleeper Dart enters the battlefield, draw a card."
 msgstr ""
 
-#: ../../IKO.rst:1389
+#: ../../IKO.rst:1393
 msgid ""
 "|tap|, Sacrifice Sleeper Dart: Target creature doesn't untap during its "
 "controller's next untap step."
 msgstr ""
 
-#: ../../IKO.rst:1396
+#: ../../IKO.rst:1400
 msgid ""
 ":mtgtip:`Springjaw Trap<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/3/7/3741de51-ea92-493a-8058-e0f2000e7701.jpg?1591228577|"
 "https://scryfall.com/card/iko/241/springjaw-trap?utm_source=api>`"
 msgstr ""
 
-#: ../../IKO.rst:1395
+#: ../../IKO.rst:1399
 msgid ""
 "|mana_4|, |tap|, Sacrifice Springjaw Trap: It deals 3 damage to any target."
 msgstr ""
 
-#: ../../IKO.rst:1402
+#: ../../IKO.rst:1406
 msgid ""
 ":mtgtip:`Zagoth Crystal<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/9/1/9138a442-8e8b-465f-bb76-b6af7e6dab6f.jpg?1591228587|"
 "https://scryfall.com/card/iko/242/zagoth-crystal?utm_source=api>`"
 msgstr ""
 
-#: ../../IKO.rst:1399
+#: ../../IKO.rst:1403
 msgid "|tap|: Add |mana_b|, |mana_g|, or |mana_u|."
 msgstr ""
 
-#: ../../IKO.rst:1410
+#: ../../IKO.rst:1414
 msgid ""
 ":mtgtip:`Bloodfell Caves<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/0/c/0c8269e6-b30c-4fdc-82a7-d503c133afa6.jpg?1591228594|"
 "https://scryfall.com/card/iko/243/bloodfell-caves?utm_source=api>`"
 msgstr ""
 
-#: ../../IKO.rst:1405
+#: ../../IKO.rst:1409
 msgid "Bloodfell Caves enters the battlefield tapped."
 msgstr ""
 
-#: ../../IKO.rst:1407
+#: ../../IKO.rst:1411
 msgid "When Bloodfell Caves enters the battlefield, you gain 1 life."
 msgstr ""
 
-#: ../../IKO.rst:1409
+#: ../../IKO.rst:1413
 msgid "|tap|: Add |mana_b| or |mana_r|."
 msgstr ""
 
-#: ../../IKO.rst:1418
+#: ../../IKO.rst:1422
 msgid ""
 ":mtgtip:`Blossoming Sands<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/8/2/828044d6-0f53-4caf-a581-d71919df4175.jpg?1591228603|"
 "https://scryfall.com/card/iko/244/blossoming-sands?utm_source=api>`"
 msgstr ""
 
-#: ../../IKO.rst:1413
+#: ../../IKO.rst:1417
 msgid "Blossoming Sands enters the battlefield tapped."
 msgstr ""
 
-#: ../../IKO.rst:1415
+#: ../../IKO.rst:1419
 msgid "When Blossoming Sands enters the battlefield, you gain 1 life."
 msgstr ""
 
-#: ../../IKO.rst:1417
+#: ../../IKO.rst:1421
 msgid "|tap|: Add |mana_g| or |mana_w|."
 msgstr ""
 
-#: ../../IKO.rst:1424
+#: ../../IKO.rst:1428
 msgid ""
 ":mtgtip:`Bonders' Enclave<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/4/f/4fe9388d-b1ee-4f35-9fbd-5f504528b398.jpg?1591228614|"
 "https://scryfall.com/card/iko/245/bonders-enclave?utm_source=api>`"
 msgstr ""
 
-#: ../../IKO.rst:1421
+#: ../../IKO.rst:1425
 msgid "|tap|: Add |colorless|."
 msgstr ""
 
-#: ../../IKO.rst:1423
+#: ../../IKO.rst:1427
 msgid ""
 "|mana_3|, |tap|: Draw a card. Activate only if you control a creature with "
 "power 4 or greater."
 msgstr ""
 
-#: ../../IKO.rst:1432
+#: ../../IKO.rst:1436
 msgid ""
 ":mtgtip:`Dismal Backwater<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/9/d/9de0981e-54fc-4919-96a4-a9608a5452fc.jpg?1591228624|"
 "https://scryfall.com/card/iko/246/dismal-backwater?utm_source=api>`"
 msgstr ""
 
-#: ../../IKO.rst:1427
+#: ../../IKO.rst:1431
 msgid "Dismal Backwater enters the battlefield tapped."
 msgstr ""
 
-#: ../../IKO.rst:1429
+#: ../../IKO.rst:1433
 msgid "When Dismal Backwater enters the battlefield, you gain 1 life."
 msgstr ""
 
-#: ../../IKO.rst:1431
+#: ../../IKO.rst:1435
 msgid "|tap|: Add |mana_u| or |mana_b|."
 msgstr ""
 
-#: ../../IKO.rst:1436
+#: ../../IKO.rst:1440
 msgid ""
 ":mtgtip:`Evolving Wilds<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/8/e/8e3d6745-8904-4905-a98f-d43f18b51d6d.jpg?1615738130|"
 "https://scryfall.com/card/iko/247/evolving-wilds?utm_source=api>`"
 msgstr ""
 
-#: ../../IKO.rst:1435
+#: ../../IKO.rst:1439
 msgid ""
 "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, "
 "put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
-#: ../../IKO.rst:1444
+#: ../../IKO.rst:1448
 msgid ""
 ":mtgtip:`Indatha Triome<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/2/b/2b74bb81-fb9a-40e5-a941-e517430b52f5.jpg?1636491374|"
 "https://scryfall.com/card/iko/248/indatha-triome?utm_source=api>`"
 msgstr ""
 
-#: ../../IKO.rst:1439
+#: ../../IKO.rst:1443
 msgid "(|tap|: Add |mana_w|, |mana_b|, or |mana_g|.)"
 msgstr ""
 
-#: ../../IKO.rst:1441
+#: ../../IKO.rst:1445
 msgid "Indatha Triome enters the battlefield tapped."
 msgstr ""
 
-#: ../../IKO.rst:1443 ../../IKO.rst:1459 ../../IKO.rst:1467 ../../IKO.rst:1483
-#: ../../IKO.rst:1531
+#: ../../IKO.rst:1447 ../../IKO.rst:1463 ../../IKO.rst:1471 ../../IKO.rst:1487
+#: ../../IKO.rst:1535
 msgid "Cycling |mana_3| (|mana_3|, Discard this card: Draw a card.)"
 msgstr ""
 
-#: ../../IKO.rst:1452
+#: ../../IKO.rst:1456
 msgid ""
 ":mtgtip:`Jungle Hollow<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/0/1/01926862-bf2d-4a2b-af94-1ea5e4dd7444.jpg?1591228650|"
 "https://scryfall.com/card/iko/249/jungle-hollow?utm_source=api>`"
 msgstr ""
 
-#: ../../IKO.rst:1447
+#: ../../IKO.rst:1451
 msgid "Jungle Hollow enters the battlefield tapped."
 msgstr ""
 
-#: ../../IKO.rst:1449
+#: ../../IKO.rst:1453
 msgid "When Jungle Hollow enters the battlefield, you gain 1 life."
 msgstr ""
 
-#: ../../IKO.rst:1460
+#: ../../IKO.rst:1464
 msgid ""
 ":mtgtip:`Ketria Triome<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/a/2/a249b1f4-2b22-4b67-a207-e0c4ae95d2e1.jpg?1601241399|"
 "https://scryfall.com/card/iko/250/ketria-triome?utm_source=api>`"
 msgstr ""
 
-#: ../../IKO.rst:1455
+#: ../../IKO.rst:1459
 msgid "(|tap|: Add |mana_g|, |mana_u|, or |mana_r|.)"
 msgstr ""
 
-#: ../../IKO.rst:1457
+#: ../../IKO.rst:1461
 msgid "Ketria Triome enters the battlefield tapped."
 msgstr ""
 
-#: ../../IKO.rst:1468
+#: ../../IKO.rst:1472
 msgid ""
 ":mtgtip:`Raugrin Triome<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/0/2/02138fbb-3962-4348-8d31-faaefba0b8b2.jpg?1591228666|"
 "https://scryfall.com/card/iko/251/raugrin-triome?utm_source=api>`"
 msgstr ""
 
-#: ../../IKO.rst:1463
+#: ../../IKO.rst:1467
 msgid "(|tap|: Add |mana_u|, |mana_r|, or |mana_w|.)"
 msgstr ""
 
-#: ../../IKO.rst:1465
+#: ../../IKO.rst:1469
 msgid "Raugrin Triome enters the battlefield tapped."
 msgstr ""
 
-#: ../../IKO.rst:1476
+#: ../../IKO.rst:1480
 msgid ""
 ":mtgtip:`Rugged Highlands<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/9/a/9a69fa8f-1c2b-453d-8d54-2748890ce925.jpg?1591228674|"
 "https://scryfall.com/card/iko/252/rugged-highlands?utm_source=api>`"
 msgstr ""
 
-#: ../../IKO.rst:1471
+#: ../../IKO.rst:1475
 msgid "Rugged Highlands enters the battlefield tapped."
 msgstr ""
 
-#: ../../IKO.rst:1473
+#: ../../IKO.rst:1477
 msgid "When Rugged Highlands enters the battlefield, you gain 1 life."
 msgstr ""
 
-#: ../../IKO.rst:1475
+#: ../../IKO.rst:1479
 msgid "|tap|: Add |mana_r| or |mana_g|."
 msgstr ""
 
-#: ../../IKO.rst:1484
+#: ../../IKO.rst:1488
 msgid ""
 ":mtgtip:`Savai Triome<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/7/4/748e6a61-9c1f-4225-9f04-e54002f63ac3.jpg?1591228681|"
 "https://scryfall.com/card/iko/253/savai-triome?utm_source=api>`"
 msgstr ""
 
-#: ../../IKO.rst:1479
+#: ../../IKO.rst:1483
 msgid "(|tap|: Add |mana_r|, |mana_w|, or |mana_b|.)"
 msgstr ""
 
-#: ../../IKO.rst:1481
+#: ../../IKO.rst:1485
 msgid "Savai Triome enters the battlefield tapped."
 msgstr ""
 
-#: ../../IKO.rst:1492
+#: ../../IKO.rst:1496
 msgid ""
 ":mtgtip:`Scoured Barrens<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/2/2/2282018a-46c8-41ca-ab93-f7dbf32cd295.jpg?1591228691|"
 "https://scryfall.com/card/iko/254/scoured-barrens?utm_source=api>`"
 msgstr ""
 
-#: ../../IKO.rst:1487
+#: ../../IKO.rst:1491
 msgid "Scoured Barrens enters the battlefield tapped."
 msgstr ""
 
-#: ../../IKO.rst:1489
+#: ../../IKO.rst:1493
 msgid "When Scoured Barrens enters the battlefield, you gain 1 life."
 msgstr ""
 
-#: ../../IKO.rst:1491
+#: ../../IKO.rst:1495
 msgid "|tap|: Add |mana_w| or |mana_b|."
 msgstr ""
 
-#: ../../IKO.rst:1500
+#: ../../IKO.rst:1504
 msgid ""
 ":mtgtip:`Swiftwater Cliffs<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/7/1/7108c071-5f1c-4cf5-90c6-530cee3f7685.jpg?1591228700|"
 "https://scryfall.com/card/iko/255/swiftwater-cliffs?utm_source=api>`"
 msgstr ""
 
-#: ../../IKO.rst:1495
+#: ../../IKO.rst:1499
 msgid "Swiftwater Cliffs enters the battlefield tapped."
 msgstr ""
 
-#: ../../IKO.rst:1497
+#: ../../IKO.rst:1501
 msgid "When Swiftwater Cliffs enters the battlefield, you gain 1 life."
 msgstr ""
 
-#: ../../IKO.rst:1499
+#: ../../IKO.rst:1503
 msgid "|tap|: Add |mana_u| or |mana_r|."
 msgstr ""
 
-#: ../../IKO.rst:1508
+#: ../../IKO.rst:1512
 msgid ""
 ":mtgtip:`Thornwood Falls<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/8/d/8d011b0f-1681-4a51-9f5d-47ad135d03fe.jpg?1591228713|"
 "https://scryfall.com/card/iko/256/thornwood-falls?utm_source=api>`"
 msgstr ""
 
-#: ../../IKO.rst:1503
+#: ../../IKO.rst:1507
 msgid "Thornwood Falls enters the battlefield tapped."
 msgstr ""
 
-#: ../../IKO.rst:1505
+#: ../../IKO.rst:1509
 msgid "When Thornwood Falls enters the battlefield, you gain 1 life."
 msgstr ""
 
-#: ../../IKO.rst:1507
+#: ../../IKO.rst:1511
 msgid "|tap|: Add |mana_g| or |mana_u|."
 msgstr ""
 
-#: ../../IKO.rst:1516
+#: ../../IKO.rst:1520
 msgid ""
 ":mtgtip:`Tranquil Cove<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/3/6/366ac097-39cb-4401-87c7-1dd73bf34329.jpg?1591228722|"
 "https://scryfall.com/card/iko/257/tranquil-cove?utm_source=api>`"
 msgstr ""
 
-#: ../../IKO.rst:1511
+#: ../../IKO.rst:1515
 msgid "Tranquil Cove enters the battlefield tapped."
 msgstr ""
 
-#: ../../IKO.rst:1513
+#: ../../IKO.rst:1517
 msgid "When Tranquil Cove enters the battlefield, you gain 1 life."
 msgstr ""
 
-#: ../../IKO.rst:1515
+#: ../../IKO.rst:1519
 msgid "|tap|: Add |mana_w| or |mana_u|."
 msgstr ""
 
-#: ../../IKO.rst:1524
+#: ../../IKO.rst:1528
 msgid ""
 ":mtgtip:`Wind-Scarred Crag<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/8/6/86367edc-9587-4f3b-aa95-c3a2bfc8c6f4.jpg?1591228731|"
 "https://scryfall.com/card/iko/258/wind-scarred-crag?utm_source=api>`"
 msgstr ""
 
-#: ../../IKO.rst:1519
+#: ../../IKO.rst:1523
 msgid "Wind-Scarred Crag enters the battlefield tapped."
 msgstr ""
 
-#: ../../IKO.rst:1521
+#: ../../IKO.rst:1525
 msgid "When Wind-Scarred Crag enters the battlefield, you gain 1 life."
 msgstr ""
 
-#: ../../IKO.rst:1523
+#: ../../IKO.rst:1527
 msgid "|tap|: Add |mana_r| or |mana_w|."
 msgstr ""
 
-#: ../../IKO.rst:1532
+#: ../../IKO.rst:1536
 msgid ""
 ":mtgtip:`Zagoth Triome<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/c/c/cc520518-2063-4b57-a0d4-10cf62a7175e.jpg?1591228738|"
 "https://scryfall.com/card/iko/259/zagoth-triome?utm_source=api>`"
 msgstr ""
 
-#: ../../IKO.rst:1527
+#: ../../IKO.rst:1531
 msgid "(|tap|: Add |mana_b|, |mana_g|, or |mana_u|.)"
 msgstr ""
 
-#: ../../IKO.rst:1529
+#: ../../IKO.rst:1533
 msgid "Zagoth Triome enters the battlefield tapped."
 msgstr ""
 
-#: ../../IKO.rst:1536
+#: ../../IKO.rst:1540
 msgid ""
 ":mtgtip:`Plains<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/1/6/16ebbce9-fd10-4c14-b52d-cf82c0c1a58c.jpg?1591228746|https://"
 "scryfall.com/card/iko/260/plains?utm_source=api>`"
 msgstr ""
 
-#: ../../IKO.rst:1535
+#: ../../IKO.rst:1539
 msgid "(|tap|: Add |mana_w|.)"
 msgstr ""
 
-#: ../../IKO.rst:1540
+#: ../../IKO.rst:1544
 msgid ""
 ":mtgtip:`Island<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/4/b/4b2ad5b3-7257-4521-8916-6b1cbfb89e27.jpg?1591228769|https://"
 "scryfall.com/card/iko/263/island?utm_source=api>`"
 msgstr ""
 
-#: ../../IKO.rst:1539
+#: ../../IKO.rst:1543
 msgid "(|tap|: Add |mana_u|.)"
 msgstr ""
 
-#: ../../IKO.rst:1544
+#: ../../IKO.rst:1548
 msgid ""
 ":mtgtip:`Swamp<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/6/c/6c8c3f0e-7af4-410b-a675-9ea84f51e812.jpg?1591228797|https://"
 "scryfall.com/card/iko/266/swamp?utm_source=api>`"
 msgstr ""
 
-#: ../../IKO.rst:1543
+#: ../../IKO.rst:1547
 msgid "(|tap|: Add |mana_b|.)"
 msgstr ""
 
-#: ../../IKO.rst:1548
+#: ../../IKO.rst:1552
 msgid ""
 ":mtgtip:`Mountain<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/a/e/ae3d2fcd-11e0-4071-8c53-cb3315b7360a.jpg?1591228835|https://"
 "scryfall.com/card/iko/269/mountain?utm_source=api>`"
 msgstr ""
 
-#: ../../IKO.rst:1547
+#: ../../IKO.rst:1551
 msgid "(|tap|: Add |mana_r|.)"
 msgstr ""
 
-#: ../../IKO.rst:1552
+#: ../../IKO.rst:1556
 msgid ""
 ":mtgtip:`Forest<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/9/c/9c348494-f60c-4bd1-9077-bff24f2e634b.jpg?1591228875|https://"
 "scryfall.com/card/iko/272/forest?utm_source=api>`"
 msgstr ""
 
-#: ../../IKO.rst:1551
+#: ../../IKO.rst:1555
 msgid "(|tap|: Add |mana_g|.)"
 msgstr ""
 
-#: ../../IKO.rst:1557
+#: ../../IKO.rst:1561
 msgid ""
 ":mtgtip:`Zilortha, Strength Incarnate<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/9/a/9a0639a0-c898-4a07-975c-a02bdd53175b.jpg?"
@@ -4340,7 +4357,7 @@ msgid ""
 "utm_source=api>`"
 msgstr ""
 
-#: ../../IKO.rst:1557
+#: ../../IKO.rst:1561
 msgid ""
 "Lethal damage dealt to creatures you control is determined by their power "
 "rather than their toughness."
