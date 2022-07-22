@@ -42,10 +42,9 @@ Tłumaczenie dodatków
 Nadchodzące
 -----------
 
-* :mtgexp:`2X2` :doc:`Double Masters 2022<2X2>` |2X2_percent| Premiera: 2022-07-08
 * :mtgexp:`40K` :doc:`Warhammer 40,000 Commander<40K>` Premiera: 2022-08-12
-* :mtgexp:`DMU` :doc:`Dominaria United` Premiera: 2022-09-09
-* :mtgexp:`DMC` :doc:`Dominaria United Commander` Premiera: 2022-09
+* :mtgexp:`DMU` :doc:`Dominaria United<DMU>` Premiera: 2022-09-09
+* :mtgexp:`DMC` :doc:`Dominaria United Commander<DMC>` Premiera: 2022-09
 
 
 Standard
@@ -124,6 +123,7 @@ Zestawy gildyjne
 Seria 'Masters'
 ---------------
 
+* :mtgexp:`2X2` :doc:`Double Masters 2022<2X2>` |2X2_percent|
 * :mtgexp:`TSR` :doc:`Time Spiral Remastered<TSR>` |TSR_percent|
 * :mtgexp:`2XM` :doc:`Double Masters<2XM>` |2XM_percent|
 * :mtgexp:`UMA` :doc:`Ultimate Masters<UMA>` 2018 |UMA_percent|

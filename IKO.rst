@@ -1237,6 +1237,10 @@
    Whenever a non-Human creature you control attacks, look at the top six cards of your library. You may put a Human creature card from among them onto the battlefield tapped and attacking. It gains indestructible until end of turn. Put the rest of the cards on the bottom of your library in a random order.
 
 
+:mtgtip:`A-Winota, Joiner of Forces<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/b/6bf6e906-9305-4003-b040-1dfecca590c1.jpg?1657064728|https://scryfall.com/card/iko/A-216/a-winota-joiner-of-forces?utm_source=api>`
+   Whenever one or more non-Human creatures you control attacks, look at the top six cards of your library. You may put a Human creature card from among them onto the battlefield tapped and attacking. It gains indestructible until end of turn. Put the rest of the cards on the bottom of your library in a random order.
+
+
 :mtgtip:`Zenith Flare<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/e/0efac1ed-3f01-487c-86be-8239568b4425.jpg?1591228324|https://scryfall.com/card/iko/217/zenith-flare?utm_source=api>`
    Zenith Flare deals X damage to any target and you gain X life, where X is the number of cards with a cycling ability in your graveyard.
 

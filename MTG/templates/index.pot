@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: MTG-pl 2022.6\n"
+"Project-Id-Version: MTG-pl 2022.7\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-28 15:31+0200\n"
+"POT-Creation-Date: 2022-07-22 17:15+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -194,7 +194,6 @@ msgstr ""
 #: ../../percentages.inc:418
 #: ../../percentages.inc:425
 #: ../../progress.rst:20
-#: ../../percentages.inc:188
 #: ../../percentages.inc:418
 #: ../../percentages.inc:358
 #: ../../percentages.inc:389
@@ -213,6 +212,7 @@ msgstr ""
 #: ../../percentages.inc:148
 #: ../../percentages.inc:159
 #: ../../percentages.inc:100
+#: ../../percentages.inc:188
 #: ../../percentages.inc:135
 #: ../../percentages.inc:317
 #: ../../percentages.inc:425
@@ -537,167 +537,167 @@ msgid "Nadchodzące"
 msgstr ""
 
 #: ../../index.rst:45
-msgid ":mtgexp:`2X2` :doc:`Double Masters 2022<2X2>` |2X2_percent| Premiera: 2022-07-08"
-msgstr ""
-
-#: ../../index.rst:46
 msgid ":mtgexp:`40K` :doc:`Warhammer 40,000 Commander<40K>` Premiera: 2022-08-12"
 msgstr ""
 
+#: ../../index.rst:46
+msgid ":mtgexp:`DMU` :doc:`Dominaria United<DMU>` Premiera: 2022-09-09"
+msgstr ""
+
 #: ../../index.rst:47
-msgid ":mtgexp:`DMU` :doc:`Dominaria United` Premiera: 2022-09-09"
+msgid ":mtgexp:`DMC` :doc:`Dominaria United Commander<DMC>` Premiera: 2022-09"
 msgstr ""
 
-#: ../../index.rst:48
-msgid ":mtgexp:`DMC` :doc:`Dominaria United Commander` Premiera: 2022-09"
-msgstr ""
-
-#: ../../index.rst:52
+#: ../../index.rst:51
 msgid "Standard"
 msgstr ""
 
-#: ../../index.rst:54
+#: ../../index.rst:53
 msgid "Format posiadający rotację - raz do roku część dodatków przestaje być legalna w tym formacie, by zrobić miejsce na kolejne. Dzięki temu pula kart ma przewidywalny rozmiar. Jest podzbiorem wszystkich innych formatów."
 msgstr ""
 
-#: ../../index.rst:57
+#: ../../index.rst:56
 msgid ":mtgexp:`SNC` :doc:`Streets of New Capenna<SNC>` |SNC_percent|"
 msgstr ""
 
-#: ../../index.rst:58
+#: ../../index.rst:57
 msgid ":mtgexp:`NEO` :doc:`Kamigawa: Neon Dynasty<NEO>` |NEO_percent|"
 msgstr ""
 
-#: ../../index.rst:59
+#: ../../index.rst:58
 msgid ":mtgexp:`VOW` :doc:`Innistrad: Crimson Vow<VOW>` |VOW_percent|"
 msgstr ""
 
-#: ../../index.rst:60
+#: ../../index.rst:59
 msgid ":mtgexp:`MID` :doc:`Innistrad: Midnight Hunt<MID>` |MID_percent|"
 msgstr ""
 
-#: ../../index.rst:61
+#: ../../index.rst:60
 msgid ":mtgexp:`AFR` :doc:`Adventures in the Forgotten Realms<AFR>` |AFR_percent|"
 msgstr ""
 
-#: ../../index.rst:62
+#: ../../index.rst:61
 msgid ":mtgexp:`STX` :doc:`Strixhaven: School of Mages<STX>` |STX_percent|"
 msgstr ""
 
-#: ../../index.rst:63
+#: ../../index.rst:62
 msgid ":mtgexp:`KHM` :doc:`Kaldheim<KHM>` |KHM_percent|"
 msgstr ""
 
-#: ../../index.rst:64
+#: ../../index.rst:63
 msgid ":mtgexp:`ZNR` :doc:`Zendikar Rising<ZNR>` |ZNR_percent|"
 msgstr ""
 
-#: ../../index.rst:67
+#: ../../index.rst:66
 msgid "Pionier"
 msgstr ""
 
-#: ../../index.rst:69
+#: ../../index.rst:68
 msgid "Nowy format bez rotacji. Należą do niego wszystkie dodatki wydane wcześniej w Standardzie od :doc:`Return to Ravnica<RTR>` do teraz. Jest podzbiorem formatu Modern. Na poniższej liście znajdują się dodatki poza Standardem."
 msgstr ""
 
-#: ../../index.rst:71
+#: ../../index.rst:70
 msgid ":doc:`Pionier<pioneer>`"
 msgstr ""
 
-#: ../../index.rst:74
+#: ../../index.rst:73
 msgid "Modern"
 msgstr ""
 
-#: ../../index.rst:76
+#: ../../index.rst:75
 msgid "Starszy format pozbawiony rotacji. Należą do niego wszystkie dodatki wydane wcześniej w Standardzie od :doc:`Mirrodin<MRD>` do teraz. Na poniższej liście znajdują się dodatki nie wymienione wcześniej."
 msgstr ""
 
-#: ../../index.rst:78
+#: ../../index.rst:77
 msgid ":doc:`Pełna lista dodatków wchodzących w skład formatu Modern<modern>`"
 msgstr ""
 
-#: ../../index.rst:80
+#: ../../index.rst:79
 msgid "Oprócz tego format otrzymał specjalne dodatki, które nigdy nie był częścią Standardu:"
 msgstr ""
 
-#: ../../index.rst:82
+#: ../../index.rst:81
 msgid ":mtgexp:`MH2` :doc:`Modern Horizons 2<MH2>` |MH2_percent|"
 msgstr ""
 
-#: ../../index.rst:83
+#: ../../index.rst:82
 msgid ":mtgexp:`MH1` :doc:`Modern Horizons<MH1>` |MH1_percent|"
 msgstr ""
 
-#: ../../index.rst:86
+#: ../../index.rst:85
 msgid "Legacy / Vintage"
 msgstr ""
 
-#: ../../index.rst:88
+#: ../../index.rst:87
 msgid "Formaty Legacy i Vintage zawierają wszystkie karty wydane od początku istnienia gry. Na poniższej liście znajdują się te dodatki, które nie znalazły się na wcześniejszych listach."
 msgstr ""
 
-#: ../../index.rst:91
+#: ../../index.rst:90
 msgid ":doc:`Lista dodatków<legacy>`"
 msgstr ""
 
-#: ../../index.rst:95
+#: ../../index.rst:94
 msgid "Pozostałe produkty"
 msgstr ""
 
-#: ../../index.rst:98
+#: ../../index.rst:97
 msgid "Dodatki wyłącznie cyfrowe"
 msgstr ""
 
-#: ../../index.rst:100
+#: ../../index.rst:99
 msgid "Na komputery wyszło kilka gier pozwalających grać w MTG, ale najpopularniejszymi są zdecydowanie MTG Online oraz MTG Arena. Otrzymały one specjalne dodatki, które nie miały swoich bezpośrednich papierowych odpowiedników, ale zawierały karty z innych dodatków dobrane w taki sposób, by zapewnić odpowiedni balans zarówno w Constructed jak i Limited."
 msgstr ""
 
-#: ../../index.rst:104
+#: ../../index.rst:103
 msgid ":mtgexp:`ANB` :doc:`Arena Beginner Set<ANB>` (tylko Arena) |ANB_percent|"
 msgstr ""
 
-#: ../../index.rst:105
+#: ../../index.rst:104
 msgid ":mtgexp:`AKR` :doc:`Amonkhet Remastered<AKR>` (tylko Arena) |AKR_percent|"
 msgstr ""
 
-#: ../../index.rst:106
+#: ../../index.rst:105
 msgid ":mtgexp:`KLR` :doc:`Kaladesh Remastered<KLR>` (tylko Arena) |KLR_percent|"
 msgstr ""
 
-#: ../../index.rst:107
+#: ../../index.rst:106
 msgid ":mtgexp:`TPR` :doc:`Tempest Remastered<TPR>` (tylko MTGO) |TPR_percent|"
 msgstr ""
 
-#: ../../index.rst:110
+#: ../../index.rst:109
 msgid "Jumpstart"
 msgstr ""
 
-#: ../../index.rst:112
+#: ../../index.rst:111
 msgid "Jumpstart jest ciekawym sposobem na szybką grę w MTG. Dodatek zwiera niemal 500 przedruków z innych dodatków. Oprócz tego zawiera 37 nowych kart legalnych tylko w formatach Eternal (Legacy, Vintage, Commander). Karty z symbolem :mtgexp:`M21` są legalne w Standardzie 2021."
 msgstr ""
 
-#: ../../index.rst:114
+#: ../../index.rst:113
 msgid ":mtgexp:`J21` :doc:`Jumpstart: Historic Horizons<J21>` |J21_percent| tylko cyfrowo"
 msgstr ""
 
-#: ../../index.rst:115
+#: ../../index.rst:114
 msgid ":mtgexp:`JMP` :doc:`Jumpstart<JMP>` |JMP_percent|"
 msgstr ""
 
-#: ../../index.rst:118
+#: ../../index.rst:117
 msgid "Zestawy gildyjne"
 msgstr ""
 
-#: ../../index.rst:120
+#: ../../index.rst:119
 msgid ":mtgexp:`azorius` :mtgexp:`gruul` :mtgexp:`rakdos` :mtgexp:`simic` :mtgexp:`orzhov` :doc:`Ravnica Allegiance Kits<GK2>` |GK2_percent|"
 msgstr ""
 
-#: ../../index.rst:121
+#: ../../index.rst:120
 msgid ":mtgexp:`dimir` :mtgexp:`selesnya` :mtgexp:`izzet` :mtgexp:`boros` :mtgexp:`golgari` :doc:`Guilds of Ravnica Kits<GK1>` |GK1_percent|"
 msgstr ""
 
-#: ../../index.rst:125
+#: ../../index.rst:124
 msgid "Seria 'Masters'"
+msgstr ""
+
+#: ../../index.rst:126
+msgid ":mtgexp:`2X2` :doc:`Double Masters 2022<2X2>` |2X2_percent|"
 msgstr ""
 
 #: ../../index.rst:127

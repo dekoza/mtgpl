@@ -8,7 +8,7 @@ authors = ["Dominik Kozaczko <dominik@kozaczko.info>"]
 python = "^3.10"
 polib = "^1.1.1"
 python-decouple = "^3.6"
-typer = "^0.4.1"
+typer = {version = "^0.6.1", extras = ["all"]}
 lark-parser = "^0.12.0"
 trio = "^0.20.0"
 anyio = "^3.6.1"

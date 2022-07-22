@@ -1371,6 +1371,16 @@
    Split — When Ochre Jelly dies, if it had two or more +1/+1 counters on it, create a token that's a copy of it at the beginning of the next end step. The token enters the battlefield with half that many +1/+1 counters on it, rounded down.
 
 
+:mtgtip:`A-Ochre Jelly<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/4/e499ccce-359a-45ac-a09b-5e4ca96ac1cd.jpg?1657065174|https://scryfall.com/card/afr/A-196/a-ochre-jelly?utm_source=api>`
+   Trample
+
+   Ward |mana_2|
+
+   Ochre Jelly enters the battlefield with X +1/+1 counters on it.
+
+   Split — When Ochre Jelly dies, if it had two or more +1/+1 counters on it, create a token that's a copy of it at the beginning of the next end step. The token enters the battlefield with half that many +1/+1 counters on it, rounded down.
+
+
 :mtgtip:`Old Gnawbone<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/7/77ceba8b-de19-4db8-b5a7-f5df49bf241f.jpg?1627708100|https://scryfall.com/card/afr/197/old-gnawbone?utm_source=api>`
    Flying
 
@@ -1659,6 +1669,20 @@
    Creatures you control have "|tap|: Add |mana_u| or |mana_r|. Spend this mana only to cast an instant or sorcery spell or to gain a Class level."
 
    |mana_3|\ |mana_u|\ |mana_r|: Level 3
+
+   Whenever you cast an instant or sorcery spell, that spell deals damage to each opponent equal to the number of instant and sorcery spells you've cast this turn.
+
+
+:mtgtip:`A-Sorcerer Class<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/7/67afa501-d561-4a02-9321-351d19daa10d.jpg?1657065536|https://scryfall.com/card/afr/A-233/a-sorcerer-class?utm_source=api>`
+   (Gain the next level as a sorcery to add its ability.)
+
+   When Sorcerer Class enters the battlefield, draw two cards, then discard two cards.
+
+   |mana_u|\ |mana_r|: Level 2
+
+   Creatures you control have "|tap|: Add |mana_u| or |mana_r|. Spend this mana only to cast an instant or sorcery spell or to gain a Class level."
+
+   |mana_1|\ |mana_u|\ |mana_r|: Level 3
 
    Whenever you cast an instant or sorcery spell, that spell deals damage to each opponent equal to the number of instant and sorcery spells you've cast this turn.
 

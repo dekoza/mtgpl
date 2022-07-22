@@ -751,6 +751,12 @@
    Delirium — As long as there are four or more card types among cards in your graveyard, Dragon's Rage Channeler gets +2/+2, has flying, and attacks each combat if able.
 
 
+:mtgtip:`A-Dragon's Rage Channeler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/e/ae8024ce-12c9-4139-934d-fb230103daa1.jpg?1657064609|https://scryfall.com/card/mh2/A-121/a-dragons-rage-channeler?utm_source=api>`
+   Whenever you cast a noncreature spell, surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)
+
+   Delirium — As long as there are four or more card types among cards in your graveyard, Dragon's Rage Channeler gets +2/+0, has flying, and attacks each combat if able.
+
+
 :mtgtip:`Faithless Salvaging<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/6/c6ed4077-4ed5-48fb-91c9-a9195d652978.jpg?1630178094|https://scryfall.com/card/mh2/122/faithless-salvaging?utm_source=api>`
    Discard a card, then draw a card.
 
@@ -899,6 +905,12 @@
    Unholy Heat deals 2 damage to target creature or planeswalker.
 
    Delirium — Unholy Heat deals 6 damage instead if there are four or more card types among cards in your graveyard.
+
+
+:mtgtip:`A-Unholy Heat<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/9/89d5d2b5-3769-4341-b84e-03771dbb7491.jpg?1658485688|https://scryfall.com/card/mh2/A-145/a-unholy-heat?utm_source=api>`
+   Unholy Heat deals 2 damage to target creature or planeswalker.
+
+   Delirium — Unholy Heat deals 4 damage instead if there are four or more card types among cards in your graveyard.
 
 
 :mtgtip:`Viashino Lashclaw<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/4/3457e346-a5de-4624-b577-f59d4c186537.jpg?1626097117|https://scryfall.com/card/mh2/146/viashino-lashclaw?utm_source=api>`

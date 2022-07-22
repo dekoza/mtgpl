@@ -343,7 +343,7 @@
    Goblin Brawler can't be equipped.
 
 
-:mtgtip:`Granulate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/1/e13798b8-689e-4f19-af10-b72d3fe19f3c.jpg?1562880300|https://scryfall.com/card/5dn/67/granulate?utm_source=api>`
+:mtgtip:`Granulate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/1/e13798b8-689e-4f19-af10-b72d3fe19f3c.jpg?1657014395|https://scryfall.com/card/5dn/67/granulate?utm_source=api>`
    Destroy each nonland artifact with mana value 4 or less.
 
 

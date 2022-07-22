@@ -829,6 +829,12 @@
    Whenever a creature an opponent controls dies, you gain 1 life.
 
 
+:mtgtip:`A-The Meathook Massacre<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/5/353c37d7-1c20-43fe-b9d9-6336856c9ef4.jpg?1657064602|https://scryfall.com/card/mid/A-112/a-the-meathook-massacre?utm_source=api>`
+   When The Meathook Massacre enters the battlefield, each creature gets -X/-X until end of turn.
+
+   Whenever a creature you control dies, each opponent loses 1 life.
+
+
 :mtgtip:`Morbid Opportunist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/a/5a53982e-3d66-4808-bcb5-46ff40567872.jpg?1634350039|https://scryfall.com/card/mid/113/morbid-opportunist?utm_source=api>`
    Whenever one or more other creatures die, draw a card. This ability triggers only once each turn.
 

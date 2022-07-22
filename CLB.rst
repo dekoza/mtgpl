@@ -1915,7 +1915,7 @@
    At the beginning of each player's upkeep, that player may pay |mana_2|. If they do, they put a rope counter on a creature they control. Otherwise, exile Fraying Line and each creature without a rope counter on it, then remove all rope counters from all creatures.
 
 
-:mtgtip:`Gate Colossus<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5b2318e7-250d-4a30-8b45-55d4c1db68e9.jpg?1653441575|https://scryfall.com/card/clb/315/gate-colossus?utm_source=api>`
+:mtgtip:`Gate Colossus<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5b2318e7-250d-4a30-8b45-55d4c1db68e9.jpg?1658233171|https://scryfall.com/card/clb/315/gate-colossus?utm_source=api>`
    This spell costs |mana_1| less to cast for each Gate you control.
 
    Gate Colossus can't be blocked by creatures with power 2 or less.
@@ -2027,7 +2027,7 @@
    |mana_1|, |tap|: Untap target legendary creature you control.
 
 
-:mtgtip:`Pilgrim's Eye<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/2/32161267-e12b-454f-a7e1-94e078566ffa.jpg?1653695875|https://scryfall.com/card/clb/333/pilgrims-eye?utm_source=api>`
+:mtgtip:`Pilgrim's Eye<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/2/32161267-e12b-454f-a7e1-94e078566ffa.jpg?1657209890|https://scryfall.com/card/clb/333/pilgrims-eye?utm_source=api>`
    Flying
 
    When Pilgrim's Eye enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
@@ -2141,7 +2141,7 @@
    |tap|: Add one mana of any color in your commander's color identity.
 
 
-:mtgtip:`Evolving Wilds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/b/bbc8841a-0f6e-4078-a0b9-a4bda642182e.jpg?1653696052|https://scryfall.com/card/clb/352/evolving-wilds?utm_source=api>`
+:mtgtip:`Evolving Wilds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/b/bbc8841a-0f6e-4078-a0b9-a4bda642182e.jpg?1658440328|https://scryfall.com/card/clb/352/evolving-wilds?utm_source=api>`
    |tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
 
@@ -2377,7 +2377,7 @@
    When Death Kiss becomes monstrous, goad up to X target creatures your opponents control.
 
 
-:mtgtip:`Delayed Blast Fireball<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/0/400c76c6-f677-4e7e-87ad-2e526d4b498a.jpg?1655088681|https://scryfall.com/card/clb/630/delayed-blast-fireball?utm_source=api>`
+:mtgtip:`Delayed Blast Fireball<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/0/400c76c6-f677-4e7e-87ad-2e526d4b498a.jpg?1657012647|https://scryfall.com/card/clb/630/delayed-blast-fireball?utm_source=api>`
    Delayed Blast Fireball deals 2 damage to each opponent and each creature they control. If this spell was cast from exile, it deals 5 damage to each opponent and each creature they control instead.
 
    Foretell |mana_4|\ |mana_r|\ |mana_r| (During your turn, you may pay |mana_2| and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)
@@ -2413,7 +2413,7 @@
    Choose a Background (You can have a Background as a second commander.)
 
 
-:mtgtip:`Green Slime<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/7/f700972f-2c26-443b-9af0-72a4b5d4d723.jpg?1655088799|https://scryfall.com/card/clb/636/green-slime?utm_source=api>`
+:mtgtip:`Green Slime<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/7/f700972f-2c26-443b-9af0-72a4b5d4d723.jpg?1657012653|https://scryfall.com/card/clb/636/green-slime?utm_source=api>`
    Flash
 
    When Green Slime enters the battlefield, counter target activated or triggered ability from an artifact or enchantment source. If a permanent's ability is countered this way, destroy that permanent.
@@ -3433,7 +3433,7 @@
    Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)
 
 
-:mtgtip:`Three Visits<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/a/cad698c3-687e-4b73-88d2-fd0ac7d755c5.jpg?1654118100|https://scryfall.com/card/clb/837/three-visits?utm_source=api>`
+:mtgtip:`Three Visits<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/a/cad698c3-687e-4b73-88d2-fd0ac7d755c5.jpg?1657946610|https://scryfall.com/card/clb/837/three-visits?utm_source=api>`
    Search your library for a Forest card, put it onto the battlefield, then shuffle.
 
 
