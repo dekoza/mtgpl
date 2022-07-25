@@ -29,7 +29,7 @@
    Shivan Devastator enters the battlefield with X +1/+1 counters on it.
 
 
-:mtgtip:`Temporal Firestorm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9d690340-75f1-4733-bde5-2d60fd02f060.jpg?1658429051|https://scryfall.com/card/dmu/147/temporal-firestorm?utm_source=api>`
+:mtgtip:`Temporal Firestorm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9d690340-75f1-4733-bde5-2d60fd02f060.jpg?1658593615|https://scryfall.com/card/dmu/147/temporal-firestorm?utm_source=api>`
    Kicker |mana_1|\ |mana_w| and/or |mana_1|\ |mana_u| (You may pay an additional |mana_1|\ |mana_w| and/or |mana_1|\ |mana_u| as you cast this spell.)
 
    Choose up to X creatures and/or planeswalkers you control, where X is the number of times this spell was kicked. Those permanents phase out.

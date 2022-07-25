@@ -5,7 +5,7 @@
 =========================================
 
 
-:mtgtip:`Jasmine Boreal of the Seven<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/1/c1f5bcc4-3ec7-42ae-8e4b-80a9b9135ff0.jpg?1658429538|https://scryfall.com/card/dmc/33/jasmine-boreal-of-the-seven?utm_source=api>`
+:mtgtip:`Jasmine Boreal of the Seven<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/1/c1f5bcc4-3ec7-42ae-8e4b-80a9b9135ff0.jpg?1658610965|https://scryfall.com/card/dmc/33/jasmine-boreal-of-the-seven?utm_source=api>`
    |tap|: Add |mana_g|\ |mana_w|. Spend this mana only to cast creature spells with no abilities.
 
    Creatures you control with no abilities can't be blocked by creatures with abilities.
