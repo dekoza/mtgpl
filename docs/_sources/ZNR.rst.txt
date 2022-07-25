@@ -433,6 +433,14 @@
    Whenever you cast an instant, sorcery, or Wizard spell, you may have Master of Winds's base power and toughness become 4/1 or 1/4 until end of turn.
 
 
+:mtgtip:`A-Master of Winds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/2/f2a96105-8448-44cb-b60a-36648a1bdbac.jpg?1657065374|https://scryfall.com/card/znr/A-68/a-master-of-winds?utm_source=api>`
+   Flying
+
+   When Master of Winds enters the battlefield, draw two cards, then discard a card.
+
+   Whenever you cast an instant, sorcery, or Wizard spell, you may have Master of Winds's base power and toughness become 5/1 or 1/5 until end of turn.
+
+
 :mtgtip:`Merfolk Falconer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/c/acb0d55a-9d6a-443d-aa82-5cea93188fd2.jpg?1604194490|https://scryfall.com/card/znr/69/merfolk-falconer?utm_source=api>`
    Flying
 
@@ -659,6 +667,12 @@
    Each creature you control with a +1/+1 counter on it has menace. (A creature with menace can't be blocked except by two or more creatures.)
 
 
+:mtgtip:`A-Hagra Constrictor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/7/f7bdcad1-00d2-4e26-8230-82f0768bdd67.jpg?1657064998|https://scryfall.com/card/znr/A-105/a-hagra-constrictor?utm_source=api>`
+   Hagra Constrictor enters the battlefield with two +1/+1 counters on it.
+
+   Each creature you control with a +1/+1 counter on it has menace. (A creature with menace can't be blocked except by two or more creatures.)
+
+
 :mtgtip:`Hagra Mauling<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7c04c734-354d-4925-8161-7052110951df.jpg?1604195798|https://scryfall.com/card/znr/106/hagra-mauling-hagra-broodpit?utm_source=api>`
    This spell costs |mana_1| less to cast if an opponent controls no basic lands.
 
@@ -801,6 +815,12 @@
 
 :mtgtip:`Skyclave Shadowcat<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/2/b27fcfc5-a1a9-4b21-8240-2ed6346c64e1.jpg?1604196571|https://scryfall.com/card/znr/126/skyclave-shadowcat?utm_source=api>`
    |mana_1|\ |mana_b|, Sacrifice another creature: Put a +1/+1 counter on Skyclave Shadowcat.
+
+   Whenever a creature you control with a +1/+1 counter on it dies, draw a card.
+
+
+:mtgtip:`A-Skyclave Shadowcat<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/c/bc5fd304-d8e4-4ba4-ab0e-2ebeebea8fdd.jpg?1657065141|https://scryfall.com/card/znr/A-126/a-skyclave-shadowcat?utm_source=api>`
+   |mana_b|, Sacrifice another creature: Put a +1/+1 counter on Skyclave Shadowcat.
 
    Whenever a creature you control with a +1/+1 counter on it dies, draw a card.
 
@@ -988,6 +1008,10 @@
 
 
 :mtgtip:`Rockslide Sorcerer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/1/e105c546-ce4f-49c7-97ba-ea5fbe70df82.jpg?1604197586|https://scryfall.com/card/znr/154/rockslide-sorcerer?utm_source=api>`
+   Whenever you cast an instant, sorcery, or Wizard spell, Rockslide Sorcerer deals 1 damage to any target.
+
+
+:mtgtip:`A-Rockslide Sorcerer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/3/e350e531-1ce1-48dc-b458-c2ace44cad1e.jpg?1657065310|https://scryfall.com/card/znr/A-154/a-rockslide-sorcerer?utm_source=api>`
    Whenever you cast an instant, sorcery, or Wizard spell, Rockslide Sorcerer deals 1 damage to any target.
 
 
@@ -1191,6 +1215,14 @@
    Each creature you control with a +1/+1 counter on it has trample.
 
 
+:mtgtip:`A-Gnarlid Colony<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/6/46f644a6-9621-429e-a0a0-4c74d0ecff2e.jpg?1657064951|https://scryfall.com/card/znr/A-185/a-gnarlid-colony?utm_source=api>`
+   Kicker |mana_2|\ |mana_g| (You may pay an additional |mana_2|\ |mana_g| as you cast this spell.)
+
+   If Gnarlid Colony was kicked, it enters the battlefield with four +1/+1 counters on it.
+
+   Each creature you control with a +1/+1 counter on it has trample.
+
+
 :mtgtip:`Inscription of Abundance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/c/fcd2e01e-a143-4b62-8b01-d253fb35c590.jpg?1604198784|https://scryfall.com/card/znr/186/inscription-of-abundance?utm_source=api>`
    Kicker |mana_2|\ |mana_g|
 
@@ -1204,6 +1236,10 @@
 
 
 :mtgtip:`Iridescent Hornbeetle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/1/214ef641-b08c-42d0-94a5-3054fa7fcebc.jpg?1604263662|https://scryfall.com/card/znr/187/iridescent-hornbeetle?utm_source=api>`
+   At the beginning of your end step, create a 1/1 green Insect creature token for each +1/+1 counter you've put on creatures under your control this turn.
+
+
+:mtgtip:`A-Iridescent Hornbeetle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/3/538103da-aa42-436b-8d1a-8f774d005c9a.jpg?1657065056|https://scryfall.com/card/znr/A-187/a-iridescent-hornbeetle?utm_source=api>`
    At the beginning of your end step, create a 1/1 green Insect creature token for each +1/+1 counter you've put on creatures under your control this turn.
 
 
@@ -1273,6 +1309,12 @@
    When Oran-Rief Ooze enters the battlefield, put a +1/+1 counter on target creature you control.
 
    Whenever Oran-Rief Ooze attacks, put a +1/+1 counter on each attacking creature with a +1/+1 counter on it.
+
+
+:mtgtip:`A-Oran-Rief Ooze<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/2/52abea40-2736-49a8-a372-16b7b93d510a.jpg?1657065202|https://scryfall.com/card/znr/A-198/a-oran-rief-ooze?utm_source=api>`
+   When Oran-Rief Ooze enters the battlefield, put a +1/+1 counter on target creature you control.
+
+   Whenever Oran-Rief Ooze attacks, put a +1/+1 counter on each creature you control with a +1/+1 counter on it.
 
 
 :mtgtip:`Rabid Bite<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/f/effe3fab-6d13-4603-8a21-8a3c2a0d9e08.jpg?1604199283|https://scryfall.com/card/znr/199/rabid-bite?utm_source=api>`
@@ -1471,6 +1513,14 @@
    Whenever one or more +1/+1 counters are put on a creature you control, if Moss-Pit Skeleton is in your graveyard, you may put Moss-Pit Skeleton on top of your library.
 
 
+:mtgtip:`A-Moss-Pit Skeleton<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/d/dd748df0-b7af-4438-b567-5fabe0731438.jpg?1657065115|https://scryfall.com/card/znr/A-228/a-moss-pit-skeleton?utm_source=api>`
+   Kicker |mana_3| (You may pay an additional |mana_3| as you cast this spell.)
+
+   If Moss-Pit Skeleton was kicked, it enters the battlefield with three +1/+1 counters on it.
+
+   Whenever one or more +1/+1 counters are put on a creature you control, if Moss-Pit Skeleton is in your graveyard, return A-Moss-Pit Skeleton from your graveyard to your hand at the beginning of the next end step.
+
+
 :mtgtip:`Murasa Rootgrazer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/7/e70b3b78-9bdc-449b-82a9-c2fc3dd7f120.jpg?1604200243|https://scryfall.com/card/znr/229/murasa-rootgrazer?utm_source=api>`
    Vigilance
 
@@ -1561,6 +1611,12 @@
 
 :mtgtip:`Umara Mystic<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/b/fb979cfc-3e5b-42c9-b78d-584c274ed912.jpg?1604200545|https://scryfall.com/card/znr/238/umara-mystic?utm_source=api>`
    Flying
+
+   Whenever you cast an instant, sorcery, or Wizard spell, Umara Mystic gets +2/+0 until end of turn.
+
+
+:mtgtip:`A-Umara Mystic<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/5/559ebc64-3412-413f-8ef3-f058a0d60f33.jpg?1657065556|https://scryfall.com/card/znr/A-238/a-umara-mystic?utm_source=api>`
+   Flying, haste
 
    Whenever you cast an instant, sorcery, or Wizard spell, Umara Mystic gets +2/+0 until end of turn.
 

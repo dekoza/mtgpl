@@ -259,13 +259,13 @@
    Whenever Hakka, Whispering Raven deals combat damage to a player, return it to its owner's hand, then scry 2.
 
 
-:mtgtip:`A-Alrund, God of the Cosmos<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/4/b443504e-1b25-4565-bad7-2575826c7bb9.jpg?1645758046|https://scryfall.com/card/khm/A-40/a-alrund-god-of-the-cosmos-a-hakka-whispering-raven?utm_source=api>`
+:mtgtip:`A-Alrund, God of the Cosmos<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/4/b443504e-1b25-4565-bad7-2575826c7bb9.jpg?1657266320|https://scryfall.com/card/khm/A-40/a-alrund-god-of-the-cosmos-a-hakka-whispering-raven?utm_source=api>`
    Alrund gets +1/+1 for each card in your hand and each foretold card you own in exile.
 
    At the beginning of your end step, choose a card type, then reveal the top three cards of your library. Put all cards of the chosen type revealed this way into your hand and the rest on the bottom of your library in any order.
 
 
-:mtgtip:`A-Hakka, Whispering Raven<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/b/4/b443504e-1b25-4565-bad7-2575826c7bb9.jpg?1645758046|https://scryfall.com/card/khm/A-40/a-alrund-god-of-the-cosmos-a-hakka-whispering-raven?utm_source=api>`
+:mtgtip:`A-Hakka, Whispering Raven<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/b/4/b443504e-1b25-4565-bad7-2575826c7bb9.jpg?1657266320|https://scryfall.com/card/khm/A-40/a-alrund-god-of-the-cosmos-a-hakka-whispering-raven?utm_source=api>`
    Flying
 
    Whenever Hakka, Whispering Raven deals combat damage to a player, return it to its owner's hand, then scry 2.
@@ -349,7 +349,7 @@
    Foretell |mana_2|\ |mana_u| (During your turn, you may pay |mana_2| and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)
 
 
-:mtgtip:`A-Cosmos Charger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4dfd73e2-1fad-46f6-90c5-ea35a380dbef.jpg?1651977628|https://scryfall.com/card/khm/A-51/a-cosmos-charger?utm_source=api>`
+:mtgtip:`A-Cosmos Charger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4dfd73e2-1fad-46f6-90c5-ea35a380dbef.jpg?1657012621|https://scryfall.com/card/khm/A-51/a-cosmos-charger?utm_source=api>`
    Flash
 
    Flying
@@ -675,7 +675,7 @@
    Foretell |mana_3|\ |mana_b| (During your turn, you may pay |mana_2| and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)
 
 
-:mtgtip:`A-Return Upon the Tide<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/2/a238560c-4633-4507-828e-4e96ecf62e11.jpg?1649275510|https://scryfall.com/card/khm/A-106/a-return-upon-the-tide?utm_source=api>`
+:mtgtip:`A-Return Upon the Tide<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/2/a238560c-4633-4507-828e-4e96ecf62e11.jpg?1657012625|https://scryfall.com/card/khm/A-106/a-return-upon-the-tide?utm_source=api>`
    Return target creature card from your graveyard to the battlefield. If it's an Elf, create three 1/1 green Elf Warrior creature tokens.
 
    Foretell |mana_3|\ |mana_b|
@@ -1381,6 +1381,14 @@
    III — Exile a creature with the greatest power among creatures target opponent controls.
 
 
+:mtgtip:`A-Fall of the Impostor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/f/3fe02fae-3e0a-402e-9f2e-f0e9c553cc1a.jpg?1657064899|https://scryfall.com/card/khm/A-208/a-fall-of-the-impostor?utm_source=api>`
+   (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+
+   I, II — Put a +1/+1 counter on up to one target creature.
+
+   III — Exile a creature with the greatest power among creatures target opponent controls.
+
+
 :mtgtip:`Firja, Judge of Valor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/f/df87077c-85d8-499e-bce0-27697caada5a.jpg?1631051364|https://scryfall.com/card/khm/209/firja-judge-of-valor?utm_source=api>`
    Flying, lifelink
 
@@ -1747,6 +1755,14 @@
    |tap|: Add |mana_g|.
 
    |mana_g|\ |mana_w|\ |mana_w|, |tap|, Sacrifice Bretagard Stronghold: Put a +1/+1 counter on each of up to two target creatures you control. They gain vigilance and lifelink until end of turn. Activate only as a sorcery.
+
+
+:mtgtip:`A-Bretagard Stronghold<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/8/88010fdf-41e5-4303-82e2-19cfe9082270.jpg?1657064796|https://scryfall.com/card/khm/A-253/a-bretagard-stronghold?utm_source=api>`
+   Bretagard Stronghold enters the battlefield tapped.
+
+   |tap|: Add |mana_g|.
+
+   |mana_g|\ |mana_w|\ |mana_w|, |tap|, Sacrifice Bretagard Stronghold: Distribute two +1/+1 counters among one or two target creatures you control. They gain vigilance and lifelink until end of turn. Activate only as a sorcery.
 
 
 :mtgtip:`Darkbore Pathway<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/7/87a4e5fe-161f-42da-9ca2-67c8e8970e94.jpg?1636057741|https://scryfall.com/card/khm/254/darkbore-pathway-slitherbore-pathway?utm_source=api>`

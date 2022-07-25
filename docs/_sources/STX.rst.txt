@@ -89,6 +89,12 @@
    |mana_4|\ |mana_w|, |tap|: Put a +1/+1 counter on each creature you control with a +1/+1 counter on it.
 
 
+:mtgtip:`A-Dueling Coach<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/7/27b19a46-f4e9-4a08-b118-a62a93901c1e.jpg?1658281846|https://scryfall.com/card/stx/A-15/a-dueling-coach?utm_source=api>`
+   When Dueling Coach enters the battlefield, distribute two +1/+1 counters among one or two target creatures you control.
+
+   |mana_w|, |tap|: Put a +1/+1 counter on each creature you control with a +1/+1 counter on it.
+
+
 :mtgtip:`Eager First-Year<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/a/7a83543b-3b6f-4e28-96f9-007b814bcfd6.jpg?1624589409|https://scryfall.com/card/stx/16/eager-first-year?utm_source=api>`
    Magecraft — Whenever you cast or copy an instant or sorcery spell, Eager First-Year gets +1/+0 until end of turn.
 
@@ -258,6 +264,12 @@
 
 
 :mtgtip:`Mentor's Guidance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/d/0dbb1230-a465-4499-bb9c-35a06712a08b.jpg?1624590229|https://scryfall.com/card/stx/46/mentors-guidance?utm_source=api>`
+   When you cast this spell, copy it if you control a planeswalker, Cleric, Druid, Shaman, Warlock, or Wizard.
+
+   Scry 1, then draw a card.
+
+
+:mtgtip:`A-Mentor's Guidance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bf572a77-bd21-48e3-9640-3f17a5416ab1.jpg?1657065409|https://scryfall.com/card/stx/A-46/a-mentors-guidance?utm_source=api>`
    When you cast this spell, copy it if you control a planeswalker, Cleric, Druid, Shaman, Warlock, or Wizard.
 
    Scry 1, then draw a card.
@@ -499,6 +511,12 @@
    Whenever a creature you control with a +1/+1 counter on it attacks, each opponent loses 1 life and you gain 1 life.
 
 
+:mtgtip:`A-Tenured Inkcaster<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/4/d4ea2dad-f276-47b8-912c-267a832f1d36.jpg?1657065026|https://scryfall.com/card/stx/A-88/a-tenured-inkcaster?utm_source=api>`
+   When Tenured Inkcaster enters the battlefield, put a +1/+1 counter on target creature.
+
+   Whenever a creature you control with a +1/+1 counter on it attacks, each opponent loses 1 life and you gain 1 life.
+
+
 :mtgtip:`Umbral Juke<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/f/3fbd0921-e953-492b-ad73-c8a8bfaa750b.jpg?1624591481|https://scryfall.com/card/stx/89/umbral-juke?utm_source=api>`
    Choose one —
 
@@ -520,6 +538,10 @@
 
 
 :mtgtip:`Ardent Dustspeaker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/f/7ff4832a-26c0-4da5-abbb-1941e7084e72.jpg?1624591569|https://scryfall.com/card/stx/92/ardent-dustspeaker?utm_source=api>`
+   Whenever Ardent Dustspeaker attacks, you may put an instant or sorcery card from your graveyard on the bottom of your library. If you do, exile the top two cards of your library. You may play those cards this turn.
+
+
+:mtgtip:`A-Ardent Dustspeaker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/9/79b12c44-9537-4863-a678-c982e8714a5a.jpg?1657065243|https://scryfall.com/card/stx/A-92/a-ardent-dustspeaker?utm_source=api>`
    Whenever Ardent Dustspeaker attacks, you may put an instant or sorcery card from your graveyard on the bottom of your library. If you do, exile the top two cards of your library. You may play those cards this turn.
 
 
@@ -585,7 +607,7 @@
    Whenever one or more cards leave your graveyard, Fuming Effigy deals 1 damage to each opponent.
 
 
-:mtgtip:`Grinning Ignus<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/f/cfa04897-6438-45e5-a10b-2e8afaf2b9eb.jpg?1624591901|https://scryfall.com/card/stx/104/grinning-ignus?utm_source=api>`
+:mtgtip:`Grinning Ignus<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/f/cfa04897-6438-45e5-a10b-2e8afaf2b9eb.jpg?1657064689|https://scryfall.com/card/stx/104/grinning-ignus?utm_source=api>`
    |mana_r|, Return Grinning Ignus to its owner's hand: Add |colorless|\ |colorless|\ |mana_r|. Activate only as a sorcery.
 
 
@@ -660,6 +682,12 @@
 
 
 :mtgtip:`Tome Shredder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/7/a7cc9ea8-db4e-4f41-800f-fb0dbcb2c345.jpg?1624592265|https://scryfall.com/card/stx/117/tome-shredder?utm_source=api>`
+   Haste
+
+   |tap|, Exile an instant or sorcery card from your graveyard: Put a +1/+1 counter on Tome Shredder.
+
+
+:mtgtip:`A-Tome Shredder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/9/2952a34c-b0c0-4e1c-9a00-c74c7e6b7d32.jpg?1657065342|https://scryfall.com/card/stx/A-117/a-tome-shredder?utm_source=api>`
    Haste
 
    |tap|, Exile an instant or sorcery card from your graveyard: Put a +1/+1 counter on Tome Shredder.
@@ -939,6 +967,24 @@
    −7: Exile up to five target permanents. For each permanent exiled this way, its controller creates a 4/4 blue and red Elemental creature token.
 
 
+:mtgtip:`A-Rowan, Scholar of Sparks<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/1/6168bf9a-8a2e-46a5-ba87-7f88a4edc526.jpg?1657065501|https://scryfall.com/card/stx/A-156/a-rowan-scholar-of-sparks-a-will-scholar-of-frost?utm_source=api>`
+   Instant and sorcery spells you cast cost |mana_1| less to cast.
+
+   +1: Rowan, Scholar of Sparks deals 1 damage to each opponent. If you've drawn three or more cards this turn, she deals 3 damage to each opponent instead.
+
+   −5: You get an emblem with "Whenever you cast an instant or sorcery spell, you may pay |mana_2|. If you do, copy that spell. You may choose new targets for the copy."
+
+
+:mtgtip:`A-Will, Scholar of Frost<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/6/1/6168bf9a-8a2e-46a5-ba87-7f88a4edc526.jpg?1657065501|https://scryfall.com/card/stx/A-156/a-rowan-scholar-of-sparks-a-will-scholar-of-frost?utm_source=api>`
+   Instant and sorcery spells you cast cost |mana_1| less to cast.
+
+   +1: Up to one target creature has base power and toughness 0/2 until your next turn.
+
+   −3: Draw two cards.
+
+   −8: Exile up to five target permanents. For each permanent exiled this way, its controller creates a 4/4 blue and red Elemental creature token.
+
+
 :mtgtip:`Selfless Glyphweaver<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/9/8982ff88-8595-4363-8cde-6e87fb57a2d8.jpg?1634060533|https://scryfall.com/card/stx/157/selfless-glyphweaver-deadly-vanity?utm_source=api>`
    Exile Selfless Glyphweaver: Creatures you control gain indestructible until end of turn.
 
@@ -1211,6 +1257,12 @@
    Whenever Maelstrom Muse attacks, the next instant or sorcery spell you cast this turn costs |mana_x| less to cast, where X is Maelstrom Muse's power as this ability resolves.
 
 
+:mtgtip:`A-Maelstrom Muse<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/5/f53e674b-5d48-4734-beeb-2a3deeb935e0.jpg?1657065270|https://scryfall.com/card/stx/A-202/a-maelstrom-muse?utm_source=api>`
+   Flying
+
+   Whenever Maelstrom Muse attacks, the next instant or sorcery spell you cast this turn costs |mana_x| less to cast, where X is Maelstrom Muse's power as this ability resolves.
+
+
 :mtgtip:`Magma Opus<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/7/27c914a3-2294-4feb-9450-c012cfd307a6.jpg?1627429585|https://scryfall.com/card/stx/203/magma-opus?utm_source=api>`
    Magma Opus deals 4 damage divided as you choose among any number of targets. Tap two target permanents. Create a 4/4 blue and red Elemental creature token. Draw two cards.
 
@@ -1428,6 +1480,14 @@
 
 
 :mtgtip:`Tanazir Quandrix<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/b/3bd62ee4-e654-44ba-a650-889782cc9ac3.jpg?1624740235|https://scryfall.com/card/stx/240/tanazir-quandrix?utm_source=api>`
+   Flying, trample
+
+   When Tanazir Quandrix enters the battlefield, double the number of +1/+1 counters on target creature you control.
+
+   Whenever Tanazir Quandrix attacks, you may have the base power and toughness of other creatures you control become equal to Tanazir Quandrix's power and toughness until end of turn.
+
+
+:mtgtip:`A-Tanazir Quandrix<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/5/957117fe-ddc9-4c5d-bff8-f74602a24dd8.jpg?1657065224|https://scryfall.com/card/stx/A-240/a-tanazir-quandrix?utm_source=api>`
    Flying, trample
 
    When Tanazir Quandrix enters the battlefield, double the number of +1/+1 counters on target creature you control.

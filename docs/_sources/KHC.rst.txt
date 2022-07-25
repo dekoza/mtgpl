@@ -5,7 +5,7 @@
 =================================
 
 
-:mtgtip:`Lathril, Blade of the Elves<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/4/547888c3-a9a6-4413-b29a-6bcd8a9279bf.jpg?1631232593|https://scryfall.com/card/khc/1/lathril-blade-of-the-elves?utm_source=api>`
+:mtgtip:`Lathril, Blade of the Elves<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/4/547888c3-a9a6-4413-b29a-6bcd8a9279bf.jpg?1657065647|https://scryfall.com/card/khc/1/lathril-blade-of-the-elves?utm_source=api>`
    Menace
 
    Whenever Lathril, Blade of the Elves deals combat damage to a player, create that many 1/1 green Elf Warrior creature tokens.
@@ -13,7 +13,7 @@
    |tap|, Tap ten untapped Elves you control: Each opponent loses 10 life and you gain 10 life.
 
 
-:mtgtip:`Ranar the Ever-Watchful<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/c/1c8c41dd-8551-4ce8-a9be-9b9f65718852.jpg?1631232612|https://scryfall.com/card/khc/2/ranar-the-ever-watchful?utm_source=api>`
+:mtgtip:`Ranar the Ever-Watchful<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/c/1c8c41dd-8551-4ce8-a9be-9b9f65718852.jpg?1657065666|https://scryfall.com/card/khc/2/ranar-the-ever-watchful?utm_source=api>`
    Flying, vigilance
 
    The first card you foretell each turn costs |mana_0| to foretell.

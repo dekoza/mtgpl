@@ -1803,6 +1803,12 @@
    |mana_1|\ |mana_g|\ |mana_w|: Target creature you control with a +1/+1 counter on it gains trample and lifelink until end of turn.
 
 
+:mtgtip:`A-Sigardian Paladin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/2/220003ce-cf2e-4595-91f4-c3462407d293.jpg?1657064976|https://scryfall.com/card/vow/A-247/a-sigardian-paladin?utm_source=api>`
+   As long as you've put one or more +1/+1 counters on a creature this turn, Sigardian Paladin has trample and lifelink.
+
+   |mana_g|\ |mana_w|: Target creature you control with a +1/+1 counter on it gains trample and lifelink until end of turn.
+
+
 :mtgtip:`Skull Skaab<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/6/268fd7e7-0105-4c39-a3ea-77ed32214ff3.jpg?1643594403|https://scryfall.com/card/vow/248/skull-skaab?utm_source=api>`
    Exploit (When this creature enters the battlefield, you may sacrifice a creature.)
 
