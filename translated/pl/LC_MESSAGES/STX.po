@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-07-22 17:15+0200\n"
-"PO-Revision-Date: 2022-04-18 17:53+0000\n"
+"PO-Revision-Date: 2022-07-25 07:43+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/stx/pl/>\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.10.1\n"
+"X-Generator: Weblate 4.12.1\n"
 
 #: ../../symbols.rst:3
 msgid "{C}"
@@ -535,28 +535,20 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:93
-#, fuzzy
-#| msgid ""
-#| "When Dueling Coach enters the battlefield, put a +1/+1 counter on target "
-#| "creature."
 msgid ""
 "When Dueling Coach enters the battlefield, distribute two +1/+1 counters "
 "among one or two target creatures you control."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, umieść znacznik +1/+1 na wskazanym "
-"stworze."
+"Kiedy ten byt wejdzie na pole bitwy, rozmieść łącznie dwa znaczniki +1/+1 na "
+"jednym lub dwóch wskazanych stworach pod twoim władaniem."
 
 #: ../../STX.rst:95
-#, fuzzy
-#| msgid ""
-#| "|mana_4|\\ |mana_w|, |tap|: Put a +1/+1 counter on each creature you "
-#| "control with a +1/+1 counter on it."
 msgid ""
 "|mana_w|, |tap|: Put a +1/+1 counter on each creature you control with a +1/"
 "+1 counter on it."
 msgstr ""
-"|mana_4|\\ |mana_w|, |tap|: Umieść znacznik +1/+1 na każdym stworze pod "
-"twoim władaniem mającym znacznik +1/+1."
+"|mana_w|, |tap|: Umieść znacznik +1/+1 na każdym stworze pod twoim władaniem "
+"mającym znacznik +1/+1."
 
 #: ../../STX.rst:100
 msgid ""
@@ -3309,17 +3301,12 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:975
-#, fuzzy
-#| msgid ""
-#| "−4: You get an emblem with \"Whenever you cast an instant or sorcery "
-#| "spell, you may pay |mana_2|. If you do, copy that spell. You may choose "
-#| "new targets for the copy.\""
 msgid ""
 "−5: You get an emblem with \"Whenever you cast an instant or sorcery spell, "
 "you may pay |mana_2|. If you do, copy that spell. You may choose new targets "
 "for the copy.\""
 msgstr ""
-"–4: Dostajesz emblemat mający \"Ilekroć rzucisz czar sztuczki lub obrzędu, "
+"–5: Dostajesz emblemat mający \"Ilekroć rzucisz czar sztuczki lub obrzędu, "
 "możesz zapłacić |mana_2|. Jeśli tak zrobisz, skopiuj ów czar. Możesz wskazać "
 "nowe cele dla kopii.\""
 
@@ -3332,15 +3319,11 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:985
-#, fuzzy
-#| msgid ""
-#| "−7: Exile up to five target permanents. For each permanent exiled this "
-#| "way, its controller creates a 4/4 blue and red Elemental creature token."
 msgid ""
 "−8: Exile up to five target permanents. For each permanent exiled this way, "
 "its controller creates a 4/4 blue and red Elemental creature token."
 msgstr ""
-"–7: Wygnaj co najwyżej pięć wskazanych bytów. Za każdy byt wygnany w ten "
+"–8: Wygnaj co najwyżej pięć wskazanych bytów. Za każdy byt wygnany w ten "
 "sposób, jego władca tworzy żeton niebiesko-czerwonego stwora Żywiołak 4/4."
 
 #: ../../STX.rst:990

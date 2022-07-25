@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-07-22 17:15+0200\n"
-"PO-Revision-Date: 2022-07-05 20:46+0000\n"
+"PO-Revision-Date: 2022-07-25 07:43+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/znr/pl/>\n"
 "Language: pl\n"
@@ -1604,18 +1604,13 @@ msgid ""
 msgstr ""
 
 #: ../../ZNR.rst:441
-#, fuzzy
-#| msgid ""
-#| "Whenever you cast an instant, sorcery, or Wizard spell, you may have "
-#| "Master of Winds's base power and toughness become 4/1 or 1/4 until end of "
-#| "turn."
 msgid ""
 "Whenever you cast an instant, sorcery, or Wizard spell, you may have Master "
 "of Winds's base power and toughness become 5/1 or 1/5 until end of turn."
 msgstr ""
 "Ilekroć rzucisz czar sztuczki, obrzędu lub Czarodzieja, możesz sprawić, że "
 "bazowe siła i wytrzymałość niniejszego stwora przyjmą do końca tury wartości "
-"4/1 lub 1/4."
+"5/1 lub 1/5."
 
 #: ../../ZNR.rst:448
 msgid ""
@@ -2834,16 +2829,10 @@ msgid ""
 msgstr ""
 
 #: ../../ZNR.rst:823
-#, fuzzy
-#| msgid ""
-#| "|mana_1|\\ |mana_b|, Sacrifice another creature: Put a +1/+1 counter on "
-#| "Skyclave Shadowcat."
 msgid ""
 "|mana_b|, Sacrifice another creature: Put a +1/+1 counter on Skyclave "
 "Shadowcat."
-msgstr ""
-"|mana_1|\\ |mana_b|, poświęć innego stwora: Umieść znacznik +1/+1 na tym "
-"stworze."
+msgstr "|mana_b|, poświęć innego stwora: Umieść znacznik +1/+1 na tym stworze."
 
 #: ../../ZNR.rst:830
 msgid ""
@@ -4044,16 +4033,12 @@ msgid ""
 msgstr ""
 
 #: ../../ZNR.rst:1221
-#, fuzzy
-#| msgid ""
-#| "If Gnarlid Colony was kicked, it enters the battlefield with two +1/+1 "
-#| "counters on it."
 msgid ""
 "If Gnarlid Colony was kicked, it enters the battlefield with four +1/+1 "
 "counters on it."
 msgstr ""
-"Jeśli ten stwór został podbity, wchodzi na pole bitwy z dwoma znacznikami +1/"
-"+1."
+"Jeśli ten stwór został podbity, wchodzi na pole bitwy z czterema znacznikami "
+"+1/+1."
 
 #: ../../ZNR.rst:1236
 msgid ""
@@ -4311,16 +4296,12 @@ msgid ""
 msgstr ""
 
 #: ../../ZNR.rst:1317
-#, fuzzy
-#| msgid ""
-#| "Whenever Oran-Rief Ooze attacks, put a +1/+1 counter on each attacking "
-#| "creature with a +1/+1 counter on it."
 msgid ""
 "Whenever Oran-Rief Ooze attacks, put a +1/+1 counter on each creature you "
 "control with a +1/+1 counter on it."
 msgstr ""
-"Ilekroć ten stwór atakuje, umieść znacznik +1/+1 na każdym atakującym "
-"stworze mającym znacznik +1/+1."
+"Ilekroć ten stwór atakuje, umieść znacznik +1/+1 na każdym stworze pod twoim "
+"władaniem mającym znacznik +1/+1."
 
 #: ../../ZNR.rst:1322
 msgid ""
@@ -4911,19 +4892,14 @@ msgid ""
 msgstr ""
 
 #: ../../ZNR.rst:1521
-#, fuzzy
-#| msgid ""
-#| "Whenever one or more +1/+1 counters are put on a creature you control, if "
-#| "Moss-Pit Skeleton is in your graveyard, you may put Moss-Pit Skeleton on "
-#| "top of your library."
 msgid ""
 "Whenever one or more +1/+1 counters are put on a creature you control, if "
 "Moss-Pit Skeleton is in your graveyard, return A-Moss-Pit Skeleton from your "
 "graveyard to your hand at the beginning of the next end step."
 msgstr ""
 "Ilekroć co najmniej jeden znacznik +1/+1 jest umieszczany na stworze pod "
-"twoim władaniem, jeśli ta karta jest w twoim cmentarzu, możesz umieścić tę "
-"kartę na wierzchu twojej biblioteki."
+"twoim władaniem, jeśli ta karta jest w twoim cmentarzu, umieść tę kartę z "
+"twojego cmentarza w twojej ręce na początku najbliższego kroku końcowego."
 
 #: ../../ZNR.rst:1530
 msgid ""
