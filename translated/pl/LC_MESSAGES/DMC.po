@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2022.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-20 20:32+0200\n"
-"PO-Revision-Date: 2022-07-25 07:43+0000\n"
+"PO-Revision-Date: 2022-08-20 19:07+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dmc/pl/>\n"
 "Language: pl\n"
@@ -320,7 +320,7 @@ msgstr ""
 
 #: ../../DMC.rst:35 ../../DMC.rst:49
 msgid "Menace"
-msgstr ""
+msgstr "Złowrogość"
 
 #: ../../DMC.rst:37
 msgid "Other legendary creatures you control have menace."
@@ -341,7 +341,7 @@ msgstr ""
 
 #: ../../DMC.rst:43
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 #: ../../DMC.rst:45
 msgid ""
@@ -392,7 +392,7 @@ msgstr ""
 
 #: ../../DMC.rst:61
 msgid "Equip |mana_3|"
-msgstr ""
+msgstr "Wyposaż |mana_3|"
 
 #: ../../DMC.rst:68
 msgid ""
@@ -404,7 +404,7 @@ msgstr ""
 
 #: ../../DMC.rst:65
 msgid "Flying, haste"
-msgstr ""
+msgstr "Latanie, pośpiech"
 
 #: ../../DMC.rst:67
 msgid ""
@@ -520,11 +520,11 @@ msgstr ""
 
 #: ../../DMC.rst:105
 msgid "Target player draws a card."
-msgstr ""
+msgstr "Wskazany gracz dobiera kartę."
 
 #: ../../DMC.rst:107
 msgid "Exile target player's graveyard."
-msgstr ""
+msgstr "Wygnaj cmentarz wskazanego gracza."
 
 #: ../../DMC.rst:109
 msgid "Unite the Coalition deals 2 damage to any target."
@@ -532,7 +532,7 @@ msgstr ""
 
 #: ../../DMC.rst:111
 msgid "Destroy target artifact or enchantment."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub urok."
 
 #: ../../DMC.rst:118
 msgid ""
@@ -542,10 +542,8 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:115
-#, fuzzy
-#| msgid "Reach, lifelink"
 msgid "Flying, deathtouch, lifelink"
-msgstr "Zasięg, więź życia"
+msgstr "Latanie, dotyk śmierci, więź życia"
 
 #: ../../DMC.rst:117
 msgid ""
@@ -564,12 +562,14 @@ msgstr ""
 
 #: ../../DMC.rst:121 ../../DMC.rst:235 ../../DMC.rst:311
 msgid "Flash"
-msgstr ""
+msgstr "Błysk"
 
 #: ../../DMC.rst:123
 msgid ""
 "If a player would begin an extra turn, that player skips that turn instead."
 msgstr ""
+"Jeśli gracz miałby rozpocząć dodatkową turę, zamiast tego ów gracz pomija "
+"ową turę."
 
 #: ../../DMC.rst:125
 msgid ""
@@ -591,13 +591,15 @@ msgstr ""
 
 #: ../../DMC.rst:131 ../../DMC.rst:329 ../../DMC.rst:335
 msgid "|tap|: Add |colorless|."
-msgstr ""
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../DMC.rst:133
 msgid ""
 "|tap|: Add one mana of any color. Spend this mana only to cast a "
 "multicolored spell."
 msgstr ""
+"|tap|: Weź jedną manę dowolnego koloru. Wydaj ową manę tylko na rzucenie "
+"wielokolorowego czaru."
 
 #: ../../DMC.rst:140
 msgid ""
@@ -608,7 +610,7 @@ msgstr ""
 
 #: ../../DMC.rst:137
 msgid "Haste"
-msgstr ""
+msgstr "Pośpiech"
 
 #: ../../DMC.rst:139
 msgid ""
@@ -774,7 +776,7 @@ msgstr ""
 
 #: ../../DMC.rst:189
 msgid "Trample"
-msgstr ""
+msgstr "Tratowanie"
 
 #: ../../DMC.rst:191
 msgid ""
@@ -817,7 +819,7 @@ msgstr ""
 
 #: ../../DMC.rst:203
 msgid "Deathtouch"
-msgstr ""
+msgstr "Dotyk śmierci"
 
 #: ../../DMC.rst:205
 msgid "Other Assassins you control get +1/+1."
@@ -1018,6 +1020,9 @@ msgid ""
 "Exile target creature. Its controller may search their library for a basic "
 "land card, put that card onto the battlefield tapped, then shuffle."
 msgstr ""
+"Wygnaj wskazanego stwora. Jego władca możesz wyszukać w swojej bibliotece "
+"kartę bazowego lądu, umieścić ją przekręconą na polu bitwy, po czym "
+"przetasować."
 
 #: ../../DMC.rst:276
 msgid ""
@@ -1028,11 +1033,11 @@ msgstr ""
 
 #: ../../DMC.rst:273
 msgid "As an additional cost to cast this spell, discard a card."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — odrzuć kartę."
 
 #: ../../DMC.rst:275
 msgid "Draw two cards."
-msgstr ""
+msgstr "Dobierz dwie karty."
 
 #: ../../DMC.rst:282
 msgid ""
@@ -1043,11 +1048,11 @@ msgstr ""
 
 #: ../../DMC.rst:279
 msgid "Flying, deathtouch"
-msgstr ""
+msgstr "Latanie, dotyk śmierci"
 
 #: ../../DMC.rst:281
 msgid "When Baleful Strix enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../DMC.rst:290
 msgid ""
@@ -1058,17 +1063,20 @@ msgstr ""
 
 #: ../../DMC.rst:285
 msgid "Vigilance"
-msgstr ""
+msgstr "Czujność"
 
 #: ../../DMC.rst:287
 msgid "Faeburrow Elder gets +1/+1 for each color among permanents you control."
 msgstr ""
+"Ten stwór dostaje +1/+1 za każdy kolor spośród bytów pod twoim władaniem."
 
 #: ../../DMC.rst:289
 msgid ""
 "|tap|: For each color among permanents you control, add one mana of that "
 "color."
 msgstr ""
+"|tap|: Za każdy kolor spośród bytów pod twoim władaniem, weź jedną manę "
+"owego koloru."
 
 #: ../../DMC.rst:294
 msgid ""
@@ -1084,6 +1092,10 @@ msgid ""
 "card that costs less. You may cast it without paying its mana cost. Put the "
 "exiled cards on the bottom of your library in a random order.)"
 msgstr ""
+"Pierwszy czar rzucony przez cienie w danej turze ma kaskadę. (Kiedy rzucisz "
+"swój pierwszy czar, wyganiaj karty z wierzchu twojej biblioteki aż wygnasz "
+"nie-lądową kartę o niższym koszcie. Możesz rzucić ową kartę bez płacenia jej "
+"kosztu many. Umieść wygnane karty losowo na spodzie twojej biblioteki.)"
 
 #: ../../DMC.rst:302
 msgid ""
@@ -1098,18 +1110,22 @@ msgid ""
 "for its mutate cost, put it over or under target non-Human creature you own. "
 "They mutate into the creature on top plus all abilities from under it.)"
 msgstr ""
+"Mutowanie |mana_4|\\ |mana_gw|\\ |mana_b|\\ |mana_b| (Jeśli rzucisz ten czar "
+"za jego koszt mutowania, umieść go na lub pod wskazanym stworem pod twoim "
+"władaniem bez typu Człowiek. Mutują one w stwora na wierzchu mającym "
+"wszystkie zdolności spod niego.)"
 
 #: ../../DMC.rst:299
-#, fuzzy
-#| msgid "Reach, lifelink"
 msgid "Deathtouch, lifelink"
-msgstr "Zasięg, więź życia"
+msgstr "Dotyk śmierci, więź życia"
 
 #: ../../DMC.rst:301
 msgid ""
 "Whenever this creature mutates, return any number of target creature cards "
 "with total power 10 or less from your graveyard to the battlefield."
 msgstr ""
+"Ilekroć ten stwór mutuje, przywróć dowolną liczbę wskazanych kart stworów o "
+"łącznej sile 10 lub mniejszej z twojego cmentarza na pole bitwy."
 
 #: ../../DMC.rst:308
 msgid ""
@@ -1121,7 +1137,7 @@ msgstr ""
 
 #: ../../DMC.rst:305
 msgid "Flying, trample"
-msgstr ""
+msgstr "Latanie, tratowanie"
 
 #: ../../DMC.rst:307
 msgid ""
@@ -1129,6 +1145,9 @@ msgid ""
 "player attacked you during their last turn, exile target nonland permanent "
 "that player controls."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, jeśli ów gracz zaatakował "
+"ciebie w swojej poprzedniej turze, wygnaj wskazany nielądowy byt pod "
+"władaniem owego gracza."
 
 #: ../../DMC.rst:318
 msgid ""
@@ -1139,15 +1158,15 @@ msgstr ""
 
 #: ../../DMC.rst:313
 msgid "This spell can't be countered."
-msgstr ""
+msgstr "Ten czar nie może być skontrowany."
 
 #: ../../DMC.rst:315
 msgid "Creature spells you control can't be countered."
-msgstr ""
+msgstr "Czary stworów pod twoim władaniem nie mogą być skontrowane."
 
 #: ../../DMC.rst:317
 msgid "Other creatures you control have trample."
-msgstr ""
+msgstr "Inne stwory pod twoim władaniem mają tratowanie."
 
 #: ../../DMC.rst:324
 msgid ""
@@ -1165,6 +1184,8 @@ msgid ""
 "|tap|, Sacrifice Bad River: Search your library for an Island or Swamp card, "
 "put it onto the battlefield, then shuffle."
 msgstr ""
+"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę Wyspy lub Bagna, "
+"umieść ją na polu bitwy, po czym przetasuj."
 
 #: ../../DMC.rst:332
 msgid ""
@@ -1175,11 +1196,11 @@ msgstr ""
 
 #: ../../DMC.rst:327
 msgid "Indestructible"
-msgstr ""
+msgstr "Niezniszczalność"
 
 #: ../../DMC.rst:331
 msgid "|mana_5|, |tap|: Add five mana in any combination of colors."
-msgstr ""
+msgstr "|mana_5|, |tap|: Weź pięć man w dowolnej kombinacji kolorów."
 
 #: ../../DMC.rst:338
 msgid ""
@@ -1197,14 +1218,16 @@ msgstr ""
 
 #: ../../DMC.rst:341
 msgid "(|tap|: Add |mana_g|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_g|.)"
 
 #: ../../DMC.rst:343
 msgid ""
 "As Murmuring Bosk enters the battlefield, you may reveal a Treefolk card "
 "from your hand. If you don't, Murmuring Bosk enters the battlefield tapped."
 msgstr ""
+"Przy wejściu tego bytu na pole bitwy, możesz ujawnić kartę Drzewca z twojej "
+"ręki. Jeśli tak nie zrobisz, ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../DMC.rst:345
 msgid "|tap|: Add |mana_w| or |mana_b|. Murmuring Bosk deals 1 damage to you."
-msgstr ""
+msgstr "|tap|: Weź |mana_w| lub |mana_b|. Ten byt zadaje tobie 1 obrażenie."
