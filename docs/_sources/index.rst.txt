@@ -42,7 +42,6 @@ Tłumaczenie dodatków
 Nadchodzące
 -----------
 
-* :mtgexp:`40K` :doc:`Warhammer 40,000 Commander<40K>` Premiera: 2022-08-12
 * :mtgexp:`DMU` :doc:`Dominaria United<DMU>` Premiera: 2022-09-09
 * :mtgexp:`DMC` :doc:`Dominaria United Commander<DMC>` Premiera: 2022-09
 

@@ -5,10 +5,192 @@
 =========================================
 
 
+:mtgtip:`Dihada, Binder of Wills<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/d/ddeb54d6-a600-42b9-98df-20f8d58caed8.jpg?1660887216|https://scryfall.com/card/dmc/1/dihada-binder-of-wills?utm_source=api>`
+   +2: Up to one target legendary creature gains vigilance, lifelink, and indestructible until your next turn.
+
+   −3: Reveal the top four cards of your library. Put any number of legendary cards from among them into your hand and the rest into your graveyard. Create a Treasure token for each card put into your graveyard this way.
+
+   −11: Gain control of all nonland permanents until end of turn. Untap them. They gain haste until end of turn.
+
+   Dihada, Binder of Wills can be your commander.
+
+
+:mtgtip:`Jared Carthalion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/a/5acffa48-9e3f-4ba3-a55f-d459307f46df.jpg?1660839647|https://scryfall.com/card/dmc/2/jared-carthalion?utm_source=api>`
+   +1: Create a 3/3 Kavu creature token with trample that's all colors.
+
+   −3: Choose up to two target creatures. For each of them, put a number of +1/+1 counters on it equal to the number of colors it is.
+
+   −6: Return target multicolored card from your graveyard to your hand. If that card was all colors, draw a card and create two Treasure tokens.
+
+   Jared Carthalion can be your commander.
+
+
+:mtgtip:`Jenson Carthalion, Druid Exile<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/a/6a67f32c-4c9a-4bda-92f4-037b99999777.jpg?1660933017|https://scryfall.com/card/dmc/3/jenson-carthalion-druid-exile?utm_source=api>`
+   Whenever you cast a multicolored spell, scry 1. If that spell was all colors, create a 4/4 white Angel creature token with flying and vigilance.
+
+   |mana_5|, |tap|: Add |mana_w|\ |mana_u|\ |mana_b|\ |mana_r|\ |mana_g|.
+
+
+:mtgtip:`Shanid, Sleepers' Scourge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/b/1b0fb859-055d-4aa1-814c-0894cd2ccd4a.jpg?1660930038|https://scryfall.com/card/dmc/4/shanid-sleepers-scourge?utm_source=api>`
+   Menace
+
+   Other legendary creatures you control have menace.
+
+   Whenever you play a legendary land or cast a legendary spell, you draw a card and you lose 1 life.
+
+
+:mtgtip:`Zeriam, Golden Wind<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/7/e7efbb9a-e0b3-412c-9ee7-a90123033999.jpg?1660930136|https://scryfall.com/card/dmc/5/zeriam-golden-wind?utm_source=api>`
+   Flying
+
+   Whenever a Griffin you control deals combat damage to a player, create a 2/2 white Griffin creature token with flying.
+
+
+:mtgtip:`Moira, Urborg Haunt<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/a/0a5c9d99-8fbc-4a74-99a5-32ba71eb2b62.jpg?1660931247|https://scryfall.com/card/dmc/6/moira-urborg-haunt?utm_source=api>`
+   Menace
+
+   Whenever Moira, Urborg Haunt deals combat damage to a player, return to the battlefield target creature card in your graveyard that was put there from the battlefield this turn.
+
+
+:mtgtip:`Mana Cannons<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5ba12cfc-36d3-4f9c-950e-3ed8b8f105fd.jpg?1660933810|https://scryfall.com/card/dmc/7/mana-cannons?utm_source=api>`
+   Whenever you cast a multicolored spell, Mana Cannons deals X damage to any target, where X is the number of colors that spell is.
+
+
+:mtgtip:`The Reaver Cleaver<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5bcd1591-b5b9-49fc-9f2a-45f31ed1871e.jpg?1660931463|https://scryfall.com/card/dmc/8/the-reaver-cleaver?utm_source=api>`
+   Equipped creature gets +1/+1 and has trample and "Whenever this creature deals combat damage to a player or planeswalker, create that many Treasure tokens."
+
+   Equip |mana_3|
+
+
+:mtgtip:`Bladewing, Deathless Tyrant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/d/7dcf3b3e-e986-4add-a3c6-4e92a6f72a12.jpg?1660930870|https://scryfall.com/card/dmc/9/bladewing-deathless-tyrant?utm_source=api>`
+   Flying, haste
+
+   Whenever Bladewing, Deathless Tyrant deals combat damage to a player or planeswalker, for each creature card in your graveyard, create a 2/2 black Zombie Knight creature token with menace.
+
+
+:mtgtip:`Cadric, Soul Kindler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/8/f82f8cab-5039-4e3a-a2ba-cbf829db80ed.jpg?1660930964|https://scryfall.com/card/dmc/10/cadric-soul-kindler?utm_source=api>`
+   The "legend rule" doesn't apply to tokens you control.
+
+   Whenever another nontoken legendary permanent enters the battlefield under your control, you may pay |mana_1|. If you do, create a token that's a copy of it. That token gains haste. Sacrifice it at the beginning of the next end step.
+
+
+:mtgtip:`Fallaji Wayfarer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/c/bc2378b2-96e2-44ca-8434-9f06c26b183d.jpg?1660952690|https://scryfall.com/card/dmc/11/fallaji-wayfarer?utm_source=api>`
+   Fallaji Wayfarer is all colors. This ability doesn't affect its color identity. (It can be in any deck whose commander's color identity includes green.)
+
+   Multicolored spells you cast have convoke. (Your creatures can help cast those spells. Each creature you tap while casting a multicolored spell pays for |mana_1| or one mana of a color that creature is.)
+
+
+:mtgtip:`Iridian Maelstrom<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/e/fe784eab-fd21-4812-8172-42af3eb18fe2.jpg?1660933737|https://scryfall.com/card/dmc/12/iridian-maelstrom?utm_source=api>`
+   Destroy each creature that isn't all colors.
+
+
+:mtgtip:`Primeval Spawn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/f/cfa77c4f-b20b-40cc-9dc4-276be75109a8.jpg?1660932909|https://scryfall.com/card/dmc/13/primeval-spawn?utm_source=api>`
+   If Primeval Spawn would enter the battlefield and it wasn't cast or no mana was spent to cast it, exile it instead.
+
+   Vigilance, trample, lifelink
+
+   When Primeval Spawn leaves the battlefield, exile the top ten cards of your library. You may cast any number of spells with total mana value 10 or less from among them without paying their mana costs.
+
+
+:mtgtip:`Two-Headed Hellkite<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/d/8d5cf3a1-2228-4143-b07d-de082380b5e7.jpg?1660933150|https://scryfall.com/card/dmc/14/two-headed-hellkite?utm_source=api>`
+   Flying, menace, haste
+
+   Whenever Two-Headed Hellkite attacks, draw two cards.
+
+
+:mtgtip:`Unite the Coalition<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/5/e5ec8ad6-57ad-4bce-9c5e-a7205d5f4bea.jpg?1660933519|https://scryfall.com/card/dmc/15/unite-the-coalition?utm_source=api>`
+   Choose five. You may choose the same mode more than once.
+
+   • Target permanent phases out.
+
+   • Target player draws a card.
+
+   • Exile target player's graveyard.
+
+   • Unite the Coalition deals 2 damage to any target.
+
+   • Destroy target artifact or enchantment.
+
+
+:mtgtip:`Verrak, Warped Sengir<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/c/8ca7f49a-ab5a-49de-b07b-96c803daaf7d.jpg?1660946004|https://scryfall.com/card/dmc/16/verrak-warped-sengir?utm_source=api>`
+   Flying, deathtouch, lifelink
+
+   Whenever you activate an ability that isn't a mana ability, if life was paid to activate it, you may pay that much life again. If you do, copy that ability. You may choose new targets for the copy.
+
+
+:mtgtip:`Gerrard's Hourglass Pendant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/8/580ca958-4df7-4f42-b497-d412d286bd4e.jpg?1660931085|https://scryfall.com/card/dmc/17/gerrards-hourglass-pendant?utm_source=api>`
+   Flash
+
+   If a player would begin an extra turn, that player skips that turn instead.
+
+   |mana_4|, |tap|, Exile Gerrard's Hourglass Pendant: Return to the battlefield tapped all artifact, creature, enchantment, and land cards in your graveyard that were put there from the battlefield this turn.
+
+
+:mtgtip:`Obsidian Obelisk<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/d/2dcf9804-ccd6-4a03-90ca-088388800e7f.jpg?1660934051|https://scryfall.com/card/dmc/18/obsidian-obelisk?utm_source=api>`
+   Obsidian Obelisk enters the battlefield tapped.
+
+   |tap|: Add |colorless|.
+
+   |tap|: Add one mana of any color. Spend this mana only to cast a multicolored spell.
+
+
+:mtgtip:`The Peregrine Dynamo<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/e/2e474c23-22d3-4249-b678-254b178ddf6f.jpg?1660931189|https://scryfall.com/card/dmc/19/the-peregrine-dynamo?utm_source=api>`
+   Haste
+
+   |mana_1|, |tap|: Copy target activated or triggered ability you control from another legendary source that's not a commander. You may choose new targets for the copy. (Mana abilities can't be targeted.)
+
+
+:mtgtip:`Tiller Engine<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/a/fa793e56-827c-4ba0-b330-4010a84e75f3.jpg?1660952633|https://scryfall.com/card/dmc/20/tiller-engine?utm_source=api>`
+   Whenever a land enters the battlefield tapped and under your control, choose one —
+
+   • Untap that land.
+
+   • Tap target nonland permanent an opponent controls.
+
+
+:mtgtip:`Ayesha Tanaka, Armorer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/a/dab74812-89c9-42e2-8b9d-bf5b35a7cf7e.jpg?1660929698|https://scryfall.com/card/dmc/29/ayesha-tanaka-armorer?utm_source=api>`
+   Whenever Ayesha Tanaka, Armorer attacks, look at the top four cards of your library. You may put any number of artifact cards with mana value less than or equal to Ayesha's power from among them onto the battlefield tapped. Put the rest on the bottom of your library in a random order.
+
+   Ayesha can't be blocked as long as defending player controls three or more artifacts.
+
+
+:mtgtip:`The Ever-Changing 'Dane<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/1/a17c5b28-e7d1-4ca6-bf6b-0a4c8b757232.jpg?1660861586|https://scryfall.com/card/dmc/30/the-ever-changing-dane?utm_source=api>`
+   |mana_1|, Sacrifice another creature: The Ever-Changing 'Dane becomes a copy of the sacrificed creature, except it has this ability.
+
+
+:mtgtip:`General Marhault Elsdragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bf2931bd-bedc-45e8-b3f0-e2a220dbac1b.jpg?1660861880|https://scryfall.com/card/dmc/31/general-marhault-elsdragon?utm_source=api>`
+   Whenever a creature you control becomes blocked, that creature gets +3/+3 until end of turn for each creature blocking it.
+
+
+:mtgtip:`Hazezon, Shaper of Sand<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/5/25869cd0-63da-4dfb-8870-221cdba276e2.jpg?1660832172|https://scryfall.com/card/dmc/32/hazezon-shaper-of-sand?utm_source=api>`
+   Desertwalk (This creature can't be blocked as long as defending player controls a Desert.)
+
+   You may play Desert lands from your graveyard.
+
+   Whenever a Desert enters the battlefield under your control, create two 1/1 red, green, and white Sand Warrior creature tokens.
+
+
 :mtgtip:`Jasmine Boreal of the Seven<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/1/c1f5bcc4-3ec7-42ae-8e4b-80a9b9135ff0.jpg?1658610965|https://scryfall.com/card/dmc/33/jasmine-boreal-of-the-seven?utm_source=api>`
    |tap|: Add |mana_g|\ |mana_w|. Spend this mana only to cast creature spells with no abilities.
 
    Creatures you control with no abilities can't be blocked by creatures with abilities.
+
+
+:mtgtip:`Jedit Ojanen, Mercenary<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/1/914a4923-18a6-4aa5-8510-b02e9dc7bb41.jpg?1660887229|https://scryfall.com/card/dmc/34/jedit-ojanen-mercenary?utm_source=api>`
+   Whenever Jedit Ojanen, Mercenary or another legendary creature enters the battlefield under your control, you may pay |mana_g|. If you do, create a 2/2 green Cat Warrior creature token with forestwalk. (It can't be blocked as long as defending player controls a Forest.)
+
+
+:mtgtip:`"The Lady of Otaria"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/9/d96a5a00-22a7-4a7b-a7e2-5c055a8384ba.jpg?1660928799|https://scryfall.com/card/dmc/35/the-lady-of-otaria?utm_source=api>`
+   You may tap three untapped Dwarves you control rather than pay this spell's mana cost.
+
+   At the beginning of each end step, if a land you controlled was put into your graveyard from the battlefield this turn, reveal the top four cards of your library. Put any number of Dwarf cards from among them into your hand and the rest on the bottom of your library in a random order.
+
+
+:mtgtip:`Orca, Siege Demon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/5/8511fc1e-cff2-4d6c-b9c3-0a7f70ac3528.jpg?1660945330|https://scryfall.com/card/dmc/37/orca-siege-demon?utm_source=api>`
+   Trample
+
+   Whenever another creature dies, put a +1/+1 counter on Orca, Siege Demon.
+
+   When Orca dies, it deals damage equal to its power divided as you choose among any number of targets.
 
 
 :mtgtip:`Ramirez DePietro, Pillager<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/1/91f65272-fee1-4076-b5b2-2e04001cf1ea.jpg?1658429557|https://scryfall.com/card/dmc/38/ramirez-depietro-pillager?utm_source=api>`
@@ -17,10 +199,148 @@
    Whenever one or more Pirates you control deal combat damage to a player, exile the top card of that player's library. You may cast that card for as long as it remains exiled.
 
 
+:mtgtip:`Ramses, Assassin Lord<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/e/9e5f168c-4f56-4d06-bef1-db10fdfbe657.jpg?1660887238|https://scryfall.com/card/dmc/39/ramses-assassin-lord?utm_source=api>`
+   Deathtouch
+
+   Other Assassins you control get +1/+1.
+
+   Whenever a player loses the game, if they were attacked this turn by an Assassin you controlled, you win the game.
+
+
+:mtgtip:`Rasputin, the Oneiromancer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/f/7f0f171a-2929-4d95-9829-d0e885622e04.jpg?1660919829|https://scryfall.com/card/dmc/40/rasputin-the-oneiromancer?utm_source=api>`
+   When Rasputin, the Oneiromancer enters the battlefield, put a dream counter on it for each opponent you have. Each opponent creates a 1/1 red Goblin creature token.
+
+   |tap|: Remove one or more dream counters from Raputin: Add that much |colorless|.
+
+   |tap|: Remove a dream counter from Rasputin: Create a 2/2 white Knight creature token with protection from red.
+
+
+:mtgtip:`Rohgahh, Kher Keep Overlord<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/4/84e87400-cc3f-4476-b177-2c36a65f277b.jpg?1660844928|https://scryfall.com/card/dmc/41/rohgahh-kher-keep-overlord?utm_source=api>`
+   Other Kobolds you control get +2/+2.
+
+   Whenever you cast a Kobold spell, you may pay |mana_2|. If you do, create a 4/4 red Dragon creature token with flying.
+
+   Whenever you cast a Dragon spell, create a 0/1 red Kobold creature token named Kobolds of Kher Keep.
+
+
+:mtgtip:`Tetsuo, Imperial Champion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/1/51c523cd-78b0-438f-bba5-19160f648d5f.jpg?1660928930|https://scryfall.com/card/dmc/44/tetsuo-imperial-champion?utm_source=api>`
+   Whenever Tetsuo, Imperial Champion attacks, if it's equipped, choose one —
+
+   • Tetsuo deals damage equal to the highest mana value among Equipment attached to it to any target.
+
+   • You may cast an instant or sorcery spell from your hand with mana value less than or equal to the highest mana value among Equipment attached to Tetsuo without paying its mana cost.
+
+
+:mtgtip:`"The Six-Fingered Man"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/f/afcb1feb-e957-42e7-b05a-48f26bda7b76.jpg?1660926266|https://scryfall.com/card/dmc/45/the-six-fingered-man?utm_source=api>`
+   Flash
+
+   When "The Six-Fingered Man" dies, create a 2/2 black Zombie creature token for each nontoken creature that died under your control this turn.
+
+
 :mtgtip:`Tor Wauki the Younger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/d/adea296b-b320-4588-9d6e-cbb5db7c39e3.jpg?1658429631|https://scryfall.com/card/dmc/46/tor-wauki-the-younger?utm_source=api>`
    Reach, lifelink
 
    If another source you control would deal noncombat damage to a permanent or player, it deals that much damage plus 1 to that permanent or player instead.
 
    Whenever you cast an instant or sorcery spell, Tor Wauki the Younger deals 2 damage to any target.
+
+
+:mtgtip:`Torsten, Founder of Benalia<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/7/0783b426-a527-42c1-9271-be28b229e1c6.jpg?1660931745|https://scryfall.com/card/dmc/47/torsten-founder-of-benalia?utm_source=api>`
+   When Torsten, Founder of Benalia enters the battlefield, reveal the top seven cards of your library. Put any number of creature and/or land cards from among them into your hand and the rest on the bottom of your library in a random order.
+
+   When Torsten dies, create seven 1/1 white Soldier creature tokens.
+
+
+:mtgtip:`Stangg, Echo Warrior<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/3/9385b40f-79a7-4d9c-b253-54587a1f28b4.jpg?1660840230|https://scryfall.com/card/dmc/64/stangg-echo-warrior?utm_source=api>`
+   Whenever Stangg, Echo Warrior attacks, create Stangg Twin, a legendary 3/4 red and green Human Warrior creature token. It enters the battlefield tapped and attacking. For each Aura and Equipment attached to Stangg, create a token that's a copy of it attached to Stangg Twin. Sacrifice all tokens created this way at the beginning of the next end step.
+
+
+:mtgtip:`Sivitri, Dragon Master<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/5/55cc167d-b701-444b-9eb9-f0ee1bdfa762.jpg?1660846044|https://scryfall.com/card/dmc/65/sivitri-dragon-master?utm_source=api>`
+   +1: Until your next turn, creatures can't attack you or planeswalkers you control unless their controller pays 2 life for each of those creatures.
+
+   −3: Search your library for a Dragon card, reveal it, put it into your hand, then shuffle.
+
+   −7: Destroy all non-Dragon creatures.
+
+   Sivitri, Dragon Master can be your commander.
+
+
+:mtgtip:`Path to Exile<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9d607a40-608a-44cd-b946-02636b5bea9f.jpg?1660936402|https://scryfall.com/card/dmc/104/path-to-exile?utm_source=api>`
+   Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+
+
+:mtgtip:`Thrill of Possibility<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/7/9752ed44-dc5e-4f73-9422-c1d267b60a3c.jpg?1660927483|https://scryfall.com/card/dmc/127/thrill-of-possibility?utm_source=api>`
+   As an additional cost to cast this spell, discard a card.
+
+   Draw two cards.
+
+
+:mtgtip:`Baleful Strix<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/4/b451783a-8824-4eeb-8fd6-c9290ce7ccdb.jpg?1660936449|https://scryfall.com/card/dmc/143/baleful-strix?utm_source=api>`
+   Flying, deathtouch
+
+   When Baleful Strix enters the battlefield, draw a card.
+
+
+:mtgtip:`Faeburrow Elder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/8/c817cf1f-c0fe-49ab-a8e9-1d09b4c15e57.jpg?1660936357|https://scryfall.com/card/dmc/149/faeburrow-elder?utm_source=api>`
+   Vigilance
+
+   Faeburrow Elder gets +1/+1 for each color among permanents you control.
+
+   |tap|: For each color among permanents you control, add one mana of that color.
+
+
+:mtgtip:`Maelstrom Nexus<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/3/a3107767-6c36-4982-8e0d-e100d5fca204.jpg?1660936358|https://scryfall.com/card/dmc/159/maelstrom-nexus?utm_source=api>`
+   The first spell you cast each turn has cascade. (When you cast your first spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom of your library in a random order.)
+
+
+:mtgtip:`Nethroi, Apex of Death<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/4/04b9b58f-4c01-48a5-afaf-b8a37165a83f.jpg?1660936437|https://scryfall.com/card/dmc/163/nethroi-apex-of-death?utm_source=api>`
+   Mutate |mana_4|\ |mana_gw|\ |mana_b|\ |mana_b| (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+
+   Deathtouch, lifelink
+
+   Whenever this creature mutates, return any number of target creature cards with total power 10 or less from your graveyard to the battlefield.
+
+
+:mtgtip:`O-Kagachi, Vengeful Kami<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/7/07a42ae6-c2ca-4028-a364-70c19ce125b3.jpg?1660936331|https://scryfall.com/card/dmc/164/o-kagachi-vengeful-kami?utm_source=api>`
+   Flying, trample
+
+   Whenever O-Kagachi, Vengeful Kami deals combat damage to a player, if that player attacked you during their last turn, exile target nonland permanent that player controls.
+
+
+:mtgtip:`Surrak Dragonclaw<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/8/e8efe72d-3c01-4dd6-b3dd-0382ac09dc52.jpg?1660936355|https://scryfall.com/card/dmc/169/surrak-dragonclaw?utm_source=api>`
+   Flash
+
+   This spell can't be countered.
+
+   Creature spells you control can't be countered.
+
+   Other creatures you control have trample.
+
+
+:mtgtip:`Bad River<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/a/ca79caa8-9893-49be-bc39-f021adb28220.jpg?1660936403|https://scryfall.com/card/dmc/197/bad-river?utm_source=api>`
+   Bad River enters the battlefield tapped.
+
+   |tap|, Sacrifice Bad River: Search your library for an Island or Swamp card, put it onto the battlefield, then shuffle.
+
+
+:mtgtip:`Cascading Cataracts<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/f/2f3fbd9b-91ab-4691-a916-e20db8ebc513.jpg?1660936305|https://scryfall.com/card/dmc/202/cascading-cataracts?utm_source=api>`
+   Indestructible
+
+   |tap|: Add |colorless|.
+
+   |mana_5|, |tap|: Add five mana in any combination of colors.
+
+
+:mtgtip:`Crystal Quarry<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/5/55999d8e-50f8-4c8b-a0c3-f3256af62491.jpg?1660936281|https://scryfall.com/card/dmc/206/crystal-quarry?utm_source=api>`
+   |tap|: Add |colorless|.
+
+   |mana_5|, |tap|: Add |mana_w|\ |mana_u|\ |mana_b|\ |mana_r|\ |mana_g|.
+
+
+:mtgtip:`Murmuring Bosk<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/a/5aca73a9-e90d-48c6-bdd9-9a3f4f552de3.jpg?1660936399|https://scryfall.com/card/dmc/220/murmuring-bosk?utm_source=api>`
+   (|tap|: Add |mana_g|.)
+
+   As Murmuring Bosk enters the battlefield, you may reveal a Treefolk card from your hand. If you don't, Murmuring Bosk enters the battlefield tapped.
+
+   |tap|: Add |mana_w| or |mana_b|. Murmuring Bosk deals 1 damage to you.
 
