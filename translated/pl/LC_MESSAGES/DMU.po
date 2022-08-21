@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2022.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-20 20:32+0200\n"
-"PO-Revision-Date: 2022-08-20 19:07+0000\n"
+"PO-Revision-Date: 2022-08-21 19:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dmu/pl/>\n"
 "Language: pl\n"
@@ -246,6 +246,8 @@ msgid ""
 "Kicker |mana_b| and/or |mana_r| (You may pay an additional |mana_b| and/or |"
 "mana_r| as you cast this spell.)"
 msgstr ""
+"Podbicie |mana_b| i/lub |mana_r| (Możesz zapłacić dodatkowe |mana_b| i/lub "
+"|mana_r| podczas rzucania tego czaru.)"
 
 #: ../../DMU.rst:11
 msgid "Flying, lifelink"
@@ -256,12 +258,16 @@ msgid ""
 "When Archangel of Wrath enters the battlefield, if it was kicked, it deals 2 "
 "damage to any target."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli został podbity, zadaje on "
+"wskazanemu celowi 2 obrażenia."
 
 #: ../../DMU.rst:15
 msgid ""
 "When Archangel of Wrath enters the battlefield, if it was kicked twice, it "
 "deals 2 damage to any target."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli został podbity dwukrotnie, "
+"zadaje on wskazanemu celowi 2 obrażenia."
 
 #: ../../DMU.rst:22
 msgid ""
@@ -282,6 +288,8 @@ msgid ""
 "When Benalish Sleeper enters the battlefield, if it was kicked, each player "
 "sacrifices a creature."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli został podbity, każdy gracz "
+"poświęca stwora."
 
 #: ../../DMU.rst:26
 msgid ""
@@ -308,16 +316,20 @@ msgid ""
 "control without summoning sickness. When you do, add its power to this "
 "creature's until end of turn.)"
 msgstr ""
+"Zwerbuj (Atakując tym stworem możesz przekręcić nieatakującego stwora pod "
+"twoim władaniem bez choroby przywołania. Kiedy to zrobisz, dodaj do końca "
+"tury jego siłę do siły niniejszego.)"
 
 #: ../../DMU.rst:31
 msgid "Whenever Guardian of New Benalia enlists a creature, scry 2."
-msgstr ""
+msgstr "Ilekroć ten stwór zwerbuje stwora, wróż 2."
 
 #: ../../DMU.rst:33
 msgid ""
 "Discard a card: Guardian of New Benalia gains indestructible until end of "
 "turn. Tap it."
 msgstr ""
+"Odrzuć kartę: Ten stwór zyskuje do końca tury niezniszczalność. Przekręć go."
 
 #: ../../DMU.rst:38
 msgid ""
@@ -347,7 +359,7 @@ msgstr "Latanie"
 
 #: ../../DMU.rst:43
 msgid "When Mesa Cavalier enters the battlefield, you gain 2 life."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 2 życia."
 
 #: ../../DMU.rst:50
 msgid ""
@@ -365,6 +377,8 @@ msgid ""
 "When Resolute Reinforcements enters the battlefield, create a 1/1 white "
 "Soldier creature token."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton białego stwora Piechur 1/"
+"1."
 
 #: ../../DMU.rst:54
 msgid ""
@@ -379,6 +393,9 @@ msgid ""
 "at the top card of your library. You may put that card on the bottom of your "
 "library.)"
 msgstr ""
+"Ilekroć ten byt zostanie przekręcony, zyskaj 1 życie i wróż 1. (Spójrz na "
+"wierzchnią kartę twojej biblioteki. Możesz umieścić ową kartę na spodzie "
+"twojej biblioteki.)"
 
 #: ../../DMU.rst:62
 msgid ""
@@ -400,6 +417,8 @@ msgid ""
 "If Shalai's Acolyte was kicked, it enters the battlefield with two +1/+1 "
 "counters on it."
 msgstr ""
+"Jeśli ten stwór został podbity, wchodzi na pole bitwy mając dwa znaczniki +1/"
+"+1."
 
 #: ../../DMU.rst:70
 msgid ""
@@ -422,6 +441,10 @@ msgid ""
 "on each of those creatures. (If a creature with a stun counter on it would "
 "become untapped, remove it from combat instead.)"
 msgstr ""
+"Przekręć co najwyżej dwa wskazane stwory. Jeśli ten czar został podbity, "
+"umieść znacznik ogłuszenia na każdym z owych stworów. (Jeśli stwór mający "
+"znacznik ogłuszenia miałby zostać odkręcony, zamiast tego usuń z niego ów "
+"znacznik.)"
 
 #: ../../DMU.rst:69 ../../DMU.rst:407
 msgid "Draw a card."
@@ -440,6 +463,9 @@ msgid ""
 "until end of turn. (Damage and effects that say \"destroy\" don't destroy "
 "it.)"
 msgstr ""
+"Umieść znacznik +1/+1 na wskazanym stworze. Do końca tury zyskuje on więź "
+"życia i niezniszczalność. (Obrażenia i efekty mówiące \"zniszcz\" nie "
+"niszczą go.)"
 
 #: ../../DMU.rst:82
 msgid ""
@@ -454,10 +480,14 @@ msgid ""
 "Those spells cost |mana_u| less to cast if you paid life this way. This "
 "effect reduces only the amount of blue mana you pay."
 msgstr ""
+"Jako dodatkowy koszt przy rzucaniu czarów niebieskich bytów, możesz zapłacić "
+"2 życia. Rzucenie owych czarów kosztuje o |mana_u| mniej jeśli zapłaciłeś "
+"życie w ten sposób. Ten efekt zmniejsza tylko ilość płaconej niebieskiej "
+"many."
 
 #: ../../DMU.rst:81
 msgid "Whenever you cast a blue permanent spell, draw a card."
-msgstr ""
+msgstr "Ilekroć rzucisz czar niebieskiego bytu, dobierz kartę."
 
 #: ../../DMU.rst:88
 msgid ""
@@ -480,6 +510,10 @@ msgid ""
 "opponent controls and put a stun counter on it. (If a permanent with a stun "
 "counter would become untapped, remove one from it instead.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, przekręć wskazanego stwora pod "
+"władaniem przeciwnika i umieść na nim znacznik ogłuszenia. (Jeśli byt mający "
+"znacznik ogłuszenia miałby zostać odkręcony, zamiast tego usuń z niego ów "
+"znacznik.)"
 
 #: ../../DMU.rst:94
 msgid ""
@@ -493,6 +527,9 @@ msgid ""
 "Tap target creature and put three stun counters on it. (If a permanent with "
 "a stun counter would become untapped, remove one from it instead.)"
 msgstr ""
+"Przekręć wskazanego stwora i umieść na nim trzy znaczniki ogłuszenia. (Jeśli "
+"byt mający znacznik ogłuszenia miałby zostać odkręcony, zamiast tego usuń z "
+"niego ów znacznik.)"
 
 #: ../../DMU.rst:93
 msgid ""
@@ -515,6 +552,9 @@ msgid ""
 "instant or sorcery card with mana value 1, reveal it, put it into your hand, "
 "then shuffle."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"kartę sztuczki lub obrzędu o skrócie many 1, ujawnij ją, umieść ją w twojej "
+"ręce, po czym przetasuj."
 
 #: ../../DMU.rst:106
 msgid ""
@@ -557,13 +597,15 @@ msgstr ""
 
 #: ../../DMU.rst:111
 msgid "If this spell was kicked, create a 1/1 white Soldier creature token."
-msgstr ""
+msgstr "Jeśli ten czar został podbity, stwórz żeton białego stwora Piechur 1/1."
 
 #: ../../DMU.rst:113
 msgid ""
 "Counter target spell unless its controller pays |mana_1| for each creature "
 "you control."
 msgstr ""
+"Skontruj wskazany czar, chyba że jego władca zapłaci |mana_1| za każdego "
+"stwora pod twoim władaniem."
 
 #: ../../DMU.rst:120
 msgid ""
@@ -596,6 +638,8 @@ msgid ""
 "Return target creature to its owner's hand. Draw a card. If this spell was "
 "kicked, you gain 3 life."
 msgstr ""
+"Przywróć wskazanego stwora do ręki właściciela. Dobierz kartę. Jeśli ten "
+"czar został podbity, zyskaj 3 życia."
 
 #: ../../DMU.rst:132
 msgid ""
@@ -639,6 +683,8 @@ msgid ""
 "|tap|: Add |mana_u|. Spend this mana only to cast an instant or sorcery "
 "spell or a kicked spell."
 msgstr ""
+"|tap|: Weź |mana_u|. Wydaj tę manę tylko na rzucenie czaru sztuczki lub "
+"obrzędu lub podbitego czaru."
 
 #: ../../DMU.rst:148
 msgid ""
@@ -1014,6 +1060,9 @@ msgid ""
 "additional |mana_1|\\ |mana_w| and/or |mana_1|\\ |mana_u| as you cast this "
 "spell.)"
 msgstr ""
+"Podbicie |mana_1|\\ |mana_w| i/lub |mana_1|\\ |mana_u| (Możesz zapłacić "
+"dodatkowe |mana_1|\\ |mana_w| i/lub |mana_1|\\ |mana_u| podczas rzucania "
+"tego czaru.)"
 
 #: ../../DMU.rst:269
 msgid ""
@@ -1660,9 +1709,14 @@ msgid ""
 "Domain — Create a 3/3 green Beast creature token for each basic land type "
 "among lands you control."
 msgstr ""
+"Domena — Stwórz żeton zielonego stwora Bestia 3/3 za każdy typ bazowego lądu "
+"pośród lądów pod twoim władaniem."
 
 #: ../../DMU.rst:511
 msgid ""
 "|mana_1|\\ |mana_g|, Discard Herd Migration: Search your library for a basic "
 "land card, reveal it, put it into your hand, then shuffle. You gain 3 life."
 msgstr ""
+"|mana_1|\\ |mana_g|, odrzuć tę kartę: Wyszukaj w twojej bibliotece kartę "
+"bazowego lądu, ujawnij ją, umieść ją w twojej ręce, po czym przetasuj. "
+"Zyskaj 3 życia."
