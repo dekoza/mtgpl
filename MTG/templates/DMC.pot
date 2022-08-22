@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: MTG-pl 2022.7\n"
+"Project-Id-Version: MTG-pl 2022.8\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-08-20 20:32+0200\n"
+"POT-Creation-Date: 2022-08-22 09:12+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -146,6 +146,7 @@ msgstr ""
 msgid "{1}"
 msgstr ""
 
+#: ../../symbols.rst:47
 #: ../../symbols.rst:47
 #: ../../symbols.rst:47
 msgid "{2}"
@@ -323,7 +324,7 @@ msgid "Jared Carthalion can be your commander."
 msgstr ""
 
 #: ../../DMC.rst:32
-msgid ":mtgtip:`Jenson Carthalion, Druid Exile<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/a/6a67f32c-4c9a-4bda-92f4-037b99999777.jpg?1660933017|https://scryfall.com/card/dmc/3/jenson-carthalion-druid-exile?utm_source=api>`"
+msgid ":mtgtip:`Jenson Carthalion, Druid Exile<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/a/6a67f32c-4c9a-4bda-92f4-037b99999777.jpg?1661101564|https://scryfall.com/card/dmc/3/jenson-carthalion-druid-exile?utm_source=api>`"
 msgstr ""
 
 #: ../../DMC.rst:29
@@ -331,7 +332,7 @@ msgid "Whenever you cast a multicolored spell, scry 1. If that spell was all col
 msgstr ""
 
 #: ../../DMC.rst:31
-#: ../../DMC.rst:337
+#: ../../DMC.rst:351
 msgid "|mana_5|, |tap|: Add |mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|."
 msgstr ""
 
@@ -397,6 +398,7 @@ msgid ":mtgtip:`Bladewing, Deathless Tyrant<https://c1.scryfall.com/file/scryfal
 msgstr ""
 
 #: ../../DMC.rst:65
+#: ../../DMC.rst:277
 msgid "Flying, haste"
 msgstr ""
 
@@ -509,8 +511,8 @@ msgid ":mtgtip:`Gerrard's Hourglass Pendant<https://c1.scryfall.com/file/scryfal
 msgstr ""
 
 #: ../../DMC.rst:121
-#: ../../DMC.rst:235
-#: ../../DMC.rst:311
+#: ../../DMC.rst:257
+#: ../../DMC.rst:325
 msgid "Flash"
 msgstr ""
 
@@ -531,8 +533,8 @@ msgid "Obsidian Obelisk enters the battlefield tapped."
 msgstr ""
 
 #: ../../DMC.rst:131
-#: ../../DMC.rst:329
-#: ../../DMC.rst:335
+#: ../../DMC.rst:343
+#: ../../DMC.rst:349
 msgid "|tap|: Add |colorless|."
 msgstr ""
 
@@ -589,7 +591,7 @@ msgid "|mana_1|, Sacrifice another creature: The Ever-Changing 'Dane becomes a c
 msgstr ""
 
 #: ../../DMC.rst:162
-msgid ":mtgtip:`General Marhault Elsdragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bf2931bd-bedc-45e8-b3f0-e2a220dbac1b.jpg?1660861880|https://scryfall.com/card/dmc/31/general-marhault-elsdragon?utm_source=api>`"
+msgid ":mtgtip:`General Marhault Elsdragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bf2931bd-bedc-45e8-b3f0-e2a220dbac1b.jpg?1661032989|https://scryfall.com/card/dmc/31/general-marhault-elsdragon?utm_source=api>`"
 msgstr ""
 
 #: ../../DMC.rst:161
@@ -645,301 +647,325 @@ msgid "At the beginning of each end step, if a land you controlled was put into 
 msgstr ""
 
 #: ../../DMC.rst:194
-msgid ":mtgtip:`Orca, Siege Demon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/5/8511fc1e-cff2-4d6c-b9c3-0a7f70ac3528.jpg?1660945330|https://scryfall.com/card/dmc/37/orca-siege-demon?utm_source=api>`"
+msgid ":mtgtip:`Ohabi Caleria<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/2/82003d72-5138-4341-a53a-62b794f2bce1.jpg?1661064630|https://scryfall.com/card/dmc/36/ohabi-caleria?utm_source=api>`"
 msgstr ""
 
 #: ../../DMC.rst:189
-msgid "Trample"
+msgid "Reach"
 msgstr ""
 
 #: ../../DMC.rst:191
-msgid "Whenever another creature dies, put a +1/+1 counter on Orca, Siege Demon."
+msgid "Untap all Archers you control during each other player's untap step."
 msgstr ""
 
 #: ../../DMC.rst:193
-msgid "When Orca dies, it deals damage equal to its power divided as you choose among any number of targets."
+msgid "Whenever an Archer you control deals damage to a creature, you may pay |mana_2|. If you do, draw a card."
 msgstr ""
 
-#: ../../DMC.rst:200
-msgid ":mtgtip:`Ramirez DePietro, Pillager<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/1/91f65272-fee1-4076-b5b2-2e04001cf1ea.jpg?1658429557|https://scryfall.com/card/dmc/38/ramirez-depietro-pillager?utm_source=api>`"
+#: ../../DMC.rst:202
+msgid ":mtgtip:`Orca, Siege Demon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/5/8511fc1e-cff2-4d6c-b9c3-0a7f70ac3528.jpg?1661032886|https://scryfall.com/card/dmc/37/orca-siege-demon?utm_source=api>`"
 msgstr ""
 
 #: ../../DMC.rst:197
-msgid "When Ramirez DePietro, Pillager enters the battlefield, you lose 2 life and create two Treasure tokens."
+msgid "Trample"
 msgstr ""
 
 #: ../../DMC.rst:199
-msgid "Whenever one or more Pirates you control deal combat damage to a player, exile the top card of that player's library. You may cast that card for as long as it remains exiled."
+msgid "Whenever another creature dies, put a +1/+1 counter on Orca, Siege Demon."
+msgstr ""
+
+#: ../../DMC.rst:201
+msgid "When Orca dies, it deals damage equal to its power divided as you choose among any number of targets."
 msgstr ""
 
 #: ../../DMC.rst:208
-msgid ":mtgtip:`Ramses, Assassin Lord<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/e/9e5f168c-4f56-4d06-bef1-db10fdfbe657.jpg?1660887238|https://scryfall.com/card/dmc/39/ramses-assassin-lord?utm_source=api>`"
-msgstr ""
-
-#: ../../DMC.rst:203
-msgid "Deathtouch"
+msgid ":mtgtip:`Ramirez DePietro, Pillager<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/1/91f65272-fee1-4076-b5b2-2e04001cf1ea.jpg?1658429557|https://scryfall.com/card/dmc/38/ramirez-depietro-pillager?utm_source=api>`"
 msgstr ""
 
 #: ../../DMC.rst:205
-msgid "Other Assassins you control get +1/+1."
+msgid "When Ramirez DePietro, Pillager enters the battlefield, you lose 2 life and create two Treasure tokens."
 msgstr ""
 
 #: ../../DMC.rst:207
-msgid "Whenever a player loses the game, if they were attacked this turn by an Assassin you controlled, you win the game."
+msgid "Whenever one or more Pirates you control deal combat damage to a player, exile the top card of that player's library. You may cast that card for as long as it remains exiled."
 msgstr ""
 
 #: ../../DMC.rst:216
-msgid ":mtgtip:`Rasputin, the Oneiromancer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/f/7f0f171a-2929-4d95-9829-d0e885622e04.jpg?1660919829|https://scryfall.com/card/dmc/40/rasputin-the-oneiromancer?utm_source=api>`"
+msgid ":mtgtip:`Ramses, Assassin Lord<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/e/9e5f168c-4f56-4d06-bef1-db10fdfbe657.jpg?1660887238|https://scryfall.com/card/dmc/39/ramses-assassin-lord?utm_source=api>`"
 msgstr ""
 
 #: ../../DMC.rst:211
-msgid "When Rasputin, the Oneiromancer enters the battlefield, put a dream counter on it for each opponent you have. Each opponent creates a 1/1 red Goblin creature token."
+msgid "Deathtouch"
 msgstr ""
 
 #: ../../DMC.rst:213
-msgid "|tap|: Remove one or more dream counters from Raputin: Add that much |colorless|."
+msgid "Other Assassins you control get +1/+1."
 msgstr ""
 
 #: ../../DMC.rst:215
-msgid "|tap|: Remove a dream counter from Rasputin: Create a 2/2 white Knight creature token with protection from red."
+msgid "Whenever a player loses the game, if they were attacked this turn by an Assassin you controlled, you win the game."
 msgstr ""
 
 #: ../../DMC.rst:224
-msgid ":mtgtip:`Rohgahh, Kher Keep Overlord<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/4/84e87400-cc3f-4476-b177-2c36a65f277b.jpg?1660844928|https://scryfall.com/card/dmc/41/rohgahh-kher-keep-overlord?utm_source=api>`"
+msgid ":mtgtip:`Rasputin, the Oneiromancer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/f/7f0f171a-2929-4d95-9829-d0e885622e04.jpg?1660919829|https://scryfall.com/card/dmc/40/rasputin-the-oneiromancer?utm_source=api>`"
 msgstr ""
 
 #: ../../DMC.rst:219
-msgid "Other Kobolds you control get +2/+2."
+msgid "When Rasputin, the Oneiromancer enters the battlefield, put a dream counter on it for each opponent you have. Each opponent creates a 1/1 red Goblin creature token."
 msgstr ""
 
 #: ../../DMC.rst:221
-msgid "Whenever you cast a Kobold spell, you may pay |mana_2|. If you do, create a 4/4 red Dragon creature token with flying."
+msgid "|tap|: Remove one or more dream counters from Raputin: Add that much |colorless|."
 msgstr ""
 
 #: ../../DMC.rst:223
-msgid "Whenever you cast a Dragon spell, create a 0/1 red Kobold creature token named Kobolds of Kher Keep."
+msgid "|tap|: Remove a dream counter from Rasputin: Create a 2/2 white Knight creature token with protection from red."
 msgstr ""
 
 #: ../../DMC.rst:232
-msgid ":mtgtip:`Tetsuo, Imperial Champion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/1/51c523cd-78b0-438f-bba5-19160f648d5f.jpg?1660928930|https://scryfall.com/card/dmc/44/tetsuo-imperial-champion?utm_source=api>`"
+msgid ":mtgtip:`Rohgahh, Kher Keep Overlord<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/4/84e87400-cc3f-4476-b177-2c36a65f277b.jpg?1660844928|https://scryfall.com/card/dmc/41/rohgahh-kher-keep-overlord?utm_source=api>`"
 msgstr ""
 
 #: ../../DMC.rst:227
-msgid "Whenever Tetsuo, Imperial Champion attacks, if it's equipped, choose one —"
+msgid "Other Kobolds you control get +2/+2."
 msgstr ""
 
 #: ../../DMC.rst:229
-msgid "Tetsuo deals damage equal to the highest mana value among Equipment attached to it to any target."
+msgid "Whenever you cast a Kobold spell, you may pay |mana_2|. If you do, create a 4/4 red Dragon creature token with flying."
 msgstr ""
 
 #: ../../DMC.rst:231
-msgid "You may cast an instant or sorcery spell from your hand with mana value less than or equal to the highest mana value among Equipment attached to Tetsuo without paying its mana cost."
+msgid "Whenever you cast a Dragon spell, create a 0/1 red Kobold creature token named Kobolds of Kher Keep."
 msgstr ""
 
-#: ../../DMC.rst:238
-msgid ":mtgtip:`\"The Six-Fingered Man\"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/f/afcb1feb-e957-42e7-b05a-48f26bda7b76.jpg?1660926266|https://scryfall.com/card/dmc/45/the-six-fingered-man?utm_source=api>`"
+#: ../../DMC.rst:236
+msgid ":mtgtip:`Stangg, Echo Warrior<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/7/7722a9a1-2ff9-4a39-b56e-c7eef2ff9dcd.jpg?1661033062|https://scryfall.com/card/dmc/42/stangg-echo-warrior?utm_source=api>`"
 msgstr ""
 
-#: ../../DMC.rst:237
-msgid "When \"The Six-Fingered Man\" dies, create a 2/2 black Zombie creature token for each nontoken creature that died under your control this turn."
-msgstr ""
-
-#: ../../DMC.rst:246
-msgid ":mtgtip:`Tor Wauki the Younger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/d/adea296b-b320-4588-9d6e-cbb5db7c39e3.jpg?1658429631|https://scryfall.com/card/dmc/46/tor-wauki-the-younger?utm_source=api>`"
-msgstr ""
-
-#: ../../DMC.rst:241
-msgid "Reach, lifelink"
-msgstr ""
-
-#: ../../DMC.rst:243
-msgid "If another source you control would deal noncombat damage to a permanent or player, it deals that much damage plus 1 to that permanent or player instead."
-msgstr ""
-
-#: ../../DMC.rst:245
-msgid "Whenever you cast an instant or sorcery spell, Tor Wauki the Younger deals 2 damage to any target."
-msgstr ""
-
-#: ../../DMC.rst:252
-msgid ":mtgtip:`Torsten, Founder of Benalia<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/7/0783b426-a527-42c1-9271-be28b229e1c6.jpg?1660931745|https://scryfall.com/card/dmc/47/torsten-founder-of-benalia?utm_source=api>`"
-msgstr ""
-
-#: ../../DMC.rst:249
-msgid "When Torsten, Founder of Benalia enters the battlefield, reveal the top seven cards of your library. Put any number of creature and/or land cards from among them into your hand and the rest on the bottom of your library in a random order."
-msgstr ""
-
-#: ../../DMC.rst:251
-msgid "When Torsten dies, create seven 1/1 white Soldier creature tokens."
-msgstr ""
-
-#: ../../DMC.rst:256
-msgid ":mtgtip:`Stangg, Echo Warrior<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/3/9385b40f-79a7-4d9c-b253-54587a1f28b4.jpg?1660840230|https://scryfall.com/card/dmc/64/stangg-echo-warrior?utm_source=api>`"
-msgstr ""
-
-#: ../../DMC.rst:255
+#: ../../DMC.rst:235
 msgid "Whenever Stangg, Echo Warrior attacks, create Stangg Twin, a legendary 3/4 red and green Human Warrior creature token. It enters the battlefield tapped and attacking. For each Aura and Equipment attached to Stangg, create a token that's a copy of it attached to Stangg Twin. Sacrifice all tokens created this way at the beginning of the next end step."
 msgstr ""
 
-#: ../../DMC.rst:266
-msgid ":mtgtip:`Sivitri, Dragon Master<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/5/55cc167d-b701-444b-9eb9-f0ee1bdfa762.jpg?1660846044|https://scryfall.com/card/dmc/65/sivitri-dragon-master?utm_source=api>`"
+#: ../../DMC.rst:246
+msgid ":mtgtip:`Sivitri, Dragon Master<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/7/b7505068-484e-4844-b3dd-89c28f18275d.jpg?1661033042|https://scryfall.com/card/dmc/43/sivitri-dragon-master?utm_source=api>`"
 msgstr ""
 
-#: ../../DMC.rst:259
+#: ../../DMC.rst:239
 msgid "+1: Until your next turn, creatures can't attack you or planeswalkers you control unless their controller pays 2 life for each of those creatures."
 msgstr ""
 
-#: ../../DMC.rst:261
+#: ../../DMC.rst:241
 msgid "−3: Search your library for a Dragon card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
-#: ../../DMC.rst:263
+#: ../../DMC.rst:243
 msgid "−7: Destroy all non-Dragon creatures."
 msgstr ""
 
-#: ../../DMC.rst:265
+#: ../../DMC.rst:245
 msgid "Sivitri, Dragon Master can be your commander."
 msgstr ""
 
-#: ../../DMC.rst:270
-msgid ":mtgtip:`Path to Exile<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9d607a40-608a-44cd-b946-02636b5bea9f.jpg?1660936402|https://scryfall.com/card/dmc/104/path-to-exile?utm_source=api>`"
+#: ../../DMC.rst:254
+msgid ":mtgtip:`Tetsuo, Imperial Champion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/1/51c523cd-78b0-438f-bba5-19160f648d5f.jpg?1660928930|https://scryfall.com/card/dmc/44/tetsuo-imperial-champion?utm_source=api>`"
 msgstr ""
 
-#: ../../DMC.rst:269
-msgid "Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle."
+#: ../../DMC.rst:249
+msgid "Whenever Tetsuo, Imperial Champion attacks, if it's equipped, choose one —"
 msgstr ""
 
-#: ../../DMC.rst:276
-msgid ":mtgtip:`Thrill of Possibility<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/7/9752ed44-dc5e-4f73-9422-c1d267b60a3c.jpg?1660927483|https://scryfall.com/card/dmc/127/thrill-of-possibility?utm_source=api>`"
+#: ../../DMC.rst:251
+msgid "Tetsuo deals damage equal to the highest mana value among Equipment attached to it to any target."
+msgstr ""
+
+#: ../../DMC.rst:253
+msgid "You may cast an instant or sorcery spell from your hand with mana value less than or equal to the highest mana value among Equipment attached to Tetsuo without paying its mana cost."
+msgstr ""
+
+#: ../../DMC.rst:260
+msgid ":mtgtip:`\"The Six-Fingered Man\"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/f/afcb1feb-e957-42e7-b05a-48f26bda7b76.jpg?1660926266|https://scryfall.com/card/dmc/45/the-six-fingered-man?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:259
+msgid "When \"The Six-Fingered Man\" dies, create a 2/2 black Zombie creature token for each nontoken creature that died under your control this turn."
+msgstr ""
+
+#: ../../DMC.rst:268
+msgid ":mtgtip:`Tor Wauki the Younger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/d/adea296b-b320-4588-9d6e-cbb5db7c39e3.jpg?1658429631|https://scryfall.com/card/dmc/46/tor-wauki-the-younger?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:263
+msgid "Reach, lifelink"
+msgstr ""
+
+#: ../../DMC.rst:265
+msgid "If another source you control would deal noncombat damage to a permanent or player, it deals that much damage plus 1 to that permanent or player instead."
+msgstr ""
+
+#: ../../DMC.rst:267
+msgid "Whenever you cast an instant or sorcery spell, Tor Wauki the Younger deals 2 damage to any target."
+msgstr ""
+
+#: ../../DMC.rst:274
+msgid ":mtgtip:`Torsten, Founder of Benalia<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/7/0783b426-a527-42c1-9271-be28b229e1c6.jpg?1660931745|https://scryfall.com/card/dmc/47/torsten-founder-of-benalia?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:271
+msgid "When Torsten, Founder of Benalia enters the battlefield, reveal the top seven cards of your library. Put any number of creature and/or land cards from among them into your hand and the rest on the bottom of your library in a random order."
 msgstr ""
 
 #: ../../DMC.rst:273
-msgid "As an additional cost to cast this spell, discard a card."
+msgid "When Torsten dies, create seven 1/1 white Soldier creature tokens."
 msgstr ""
 
-#: ../../DMC.rst:275
-msgid "Draw two cards."
-msgstr ""
-
-#: ../../DMC.rst:282
-msgid ":mtgtip:`Baleful Strix<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/4/b451783a-8824-4eeb-8fd6-c9290ce7ccdb.jpg?1660936449|https://scryfall.com/card/dmc/143/baleful-strix?utm_source=api>`"
+#: ../../DMC.rst:280
+msgid ":mtgtip:`Xira, the Golden Sting<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/8/48e60dff-8ac0-4e70-a7a8-a177e9e6847b.jpg?1661064706|https://scryfall.com/card/dmc/48/xira-the-golden-sting?utm_source=api>`"
 msgstr ""
 
 #: ../../DMC.rst:279
-msgid "Flying, deathtouch"
+msgid "Whenever Xira, the Golden Sting attacks, put an egg counter on another target creature without an egg counter on it. When that creature dies, if it has an egg counter on it, draw a card and create a 1/1 black Insect creature token with flying."
 msgstr ""
 
-#: ../../DMC.rst:281
-msgid "When Baleful Strix enters the battlefield, draw a card."
+#: ../../DMC.rst:284
+msgid ":mtgtip:`Path to Exile<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9d607a40-608a-44cd-b946-02636b5bea9f.jpg?1660936402|https://scryfall.com/card/dmc/104/path-to-exile?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:283
+msgid "Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle."
 msgstr ""
 
 #: ../../DMC.rst:290
-msgid ":mtgtip:`Faeburrow Elder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/8/c817cf1f-c0fe-49ab-a8e9-1d09b4c15e57.jpg?1660936357|https://scryfall.com/card/dmc/149/faeburrow-elder?utm_source=api>`"
-msgstr ""
-
-#: ../../DMC.rst:285
-msgid "Vigilance"
+msgid ":mtgtip:`Thrill of Possibility<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/7/9752ed44-dc5e-4f73-9422-c1d267b60a3c.jpg?1660927483|https://scryfall.com/card/dmc/127/thrill-of-possibility?utm_source=api>`"
 msgstr ""
 
 #: ../../DMC.rst:287
-msgid "Faeburrow Elder gets +1/+1 for each color among permanents you control."
+msgid "As an additional cost to cast this spell, discard a card."
 msgstr ""
 
 #: ../../DMC.rst:289
-msgid "|tap|: For each color among permanents you control, add one mana of that color."
+msgid "Draw two cards."
 msgstr ""
 
-#: ../../DMC.rst:294
-msgid ":mtgtip:`Maelstrom Nexus<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/3/a3107767-6c36-4982-8e0d-e100d5fca204.jpg?1660936358|https://scryfall.com/card/dmc/159/maelstrom-nexus?utm_source=api>`"
+#: ../../DMC.rst:296
+msgid ":mtgtip:`Baleful Strix<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/4/b451783a-8824-4eeb-8fd6-c9290ce7ccdb.jpg?1660936449|https://scryfall.com/card/dmc/143/baleful-strix?utm_source=api>`"
 msgstr ""
 
 #: ../../DMC.rst:293
-msgid "The first spell you cast each turn has cascade. (When you cast your first spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom of your library in a random order.)"
+msgid "Flying, deathtouch"
 msgstr ""
 
-#: ../../DMC.rst:302
-msgid ":mtgtip:`Nethroi, Apex of Death<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/4/04b9b58f-4c01-48a5-afaf-b8a37165a83f.jpg?1660936437|https://scryfall.com/card/dmc/163/nethroi-apex-of-death?utm_source=api>`"
+#: ../../DMC.rst:295
+msgid "When Baleful Strix enters the battlefield, draw a card."
 msgstr ""
 
-#: ../../DMC.rst:297
-msgid "Mutate |mana_4|\\ |mana_gw|\\ |mana_b|\\ |mana_b| (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)"
+#: ../../DMC.rst:304
+msgid ":mtgtip:`Faeburrow Elder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/8/c817cf1f-c0fe-49ab-a8e9-1d09b4c15e57.jpg?1660936357|https://scryfall.com/card/dmc/149/faeburrow-elder?utm_source=api>`"
 msgstr ""
 
 #: ../../DMC.rst:299
-msgid "Deathtouch, lifelink"
+msgid "Vigilance"
 msgstr ""
 
 #: ../../DMC.rst:301
-msgid "Whenever this creature mutates, return any number of target creature cards with total power 10 or less from your graveyard to the battlefield."
+msgid "Faeburrow Elder gets +1/+1 for each color among permanents you control."
+msgstr ""
+
+#: ../../DMC.rst:303
+msgid "|tap|: For each color among permanents you control, add one mana of that color."
 msgstr ""
 
 #: ../../DMC.rst:308
-msgid ":mtgtip:`O-Kagachi, Vengeful Kami<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/7/07a42ae6-c2ca-4028-a364-70c19ce125b3.jpg?1660936331|https://scryfall.com/card/dmc/164/o-kagachi-vengeful-kami?utm_source=api>`"
-msgstr ""
-
-#: ../../DMC.rst:305
-msgid "Flying, trample"
+msgid ":mtgtip:`Maelstrom Nexus<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/3/a3107767-6c36-4982-8e0d-e100d5fca204.jpg?1660936358|https://scryfall.com/card/dmc/159/maelstrom-nexus?utm_source=api>`"
 msgstr ""
 
 #: ../../DMC.rst:307
-msgid "Whenever O-Kagachi, Vengeful Kami deals combat damage to a player, if that player attacked you during their last turn, exile target nonland permanent that player controls."
+msgid "The first spell you cast each turn has cascade. (When you cast your first spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom of your library in a random order.)"
 msgstr ""
 
-#: ../../DMC.rst:318
-msgid ":mtgtip:`Surrak Dragonclaw<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/8/e8efe72d-3c01-4dd6-b3dd-0382ac09dc52.jpg?1660936355|https://scryfall.com/card/dmc/169/surrak-dragonclaw?utm_source=api>`"
+#: ../../DMC.rst:316
+msgid ":mtgtip:`Nethroi, Apex of Death<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/4/04b9b58f-4c01-48a5-afaf-b8a37165a83f.jpg?1660936437|https://scryfall.com/card/dmc/163/nethroi-apex-of-death?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:311
+msgid "Mutate |mana_4|\\ |mana_gw|\\ |mana_b|\\ |mana_b| (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)"
 msgstr ""
 
 #: ../../DMC.rst:313
-msgid "This spell can't be countered."
+msgid "Deathtouch, lifelink"
 msgstr ""
 
 #: ../../DMC.rst:315
-msgid "Creature spells you control can't be countered."
+msgid "Whenever this creature mutates, return any number of target creature cards with total power 10 or less from your graveyard to the battlefield."
 msgstr ""
 
-#: ../../DMC.rst:317
-msgid "Other creatures you control have trample."
+#: ../../DMC.rst:322
+msgid ":mtgtip:`O-Kagachi, Vengeful Kami<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/7/07a42ae6-c2ca-4028-a364-70c19ce125b3.jpg?1660936331|https://scryfall.com/card/dmc/164/o-kagachi-vengeful-kami?utm_source=api>`"
 msgstr ""
 
-#: ../../DMC.rst:324
-msgid ":mtgtip:`Bad River<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/a/ca79caa8-9893-49be-bc39-f021adb28220.jpg?1660936403|https://scryfall.com/card/dmc/197/bad-river?utm_source=api>`"
+#: ../../DMC.rst:319
+msgid "Flying, trample"
 msgstr ""
 
 #: ../../DMC.rst:321
-msgid "Bad River enters the battlefield tapped."
-msgstr ""
-
-#: ../../DMC.rst:323
-msgid "|tap|, Sacrifice Bad River: Search your library for an Island or Swamp card, put it onto the battlefield, then shuffle."
+msgid "Whenever O-Kagachi, Vengeful Kami deals combat damage to a player, if that player attacked you during their last turn, exile target nonland permanent that player controls."
 msgstr ""
 
 #: ../../DMC.rst:332
-msgid ":mtgtip:`Cascading Cataracts<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/f/2f3fbd9b-91ab-4691-a916-e20db8ebc513.jpg?1660936305|https://scryfall.com/card/dmc/202/cascading-cataracts?utm_source=api>`"
+msgid ":mtgtip:`Surrak Dragonclaw<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/8/e8efe72d-3c01-4dd6-b3dd-0382ac09dc52.jpg?1660936355|https://scryfall.com/card/dmc/169/surrak-dragonclaw?utm_source=api>`"
 msgstr ""
 
 #: ../../DMC.rst:327
-msgid "Indestructible"
+msgid "This spell can't be countered."
+msgstr ""
+
+#: ../../DMC.rst:329
+msgid "Creature spells you control can't be countered."
 msgstr ""
 
 #: ../../DMC.rst:331
-msgid "|mana_5|, |tap|: Add five mana in any combination of colors."
+msgid "Other creatures you control have trample."
 msgstr ""
 
 #: ../../DMC.rst:338
-msgid ":mtgtip:`Crystal Quarry<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/5/55999d8e-50f8-4c8b-a0c3-f3256af62491.jpg?1660936281|https://scryfall.com/card/dmc/206/crystal-quarry?utm_source=api>`"
+msgid ":mtgtip:`Bad River<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/a/ca79caa8-9893-49be-bc39-f021adb28220.jpg?1660936403|https://scryfall.com/card/dmc/197/bad-river?utm_source=api>`"
 msgstr ""
 
-#: ../../DMC.rst:345
-msgid ":mtgtip:`Murmuring Bosk<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/a/5aca73a9-e90d-48c6-bdd9-9a3f4f552de3.jpg?1660936399|https://scryfall.com/card/dmc/220/murmuring-bosk?utm_source=api>`"
+#: ../../DMC.rst:335
+msgid "Bad River enters the battlefield tapped."
+msgstr ""
+
+#: ../../DMC.rst:337
+msgid "|tap|, Sacrifice Bad River: Search your library for an Island or Swamp card, put it onto the battlefield, then shuffle."
+msgstr ""
+
+#: ../../DMC.rst:346
+msgid ":mtgtip:`Cascading Cataracts<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/f/2f3fbd9b-91ab-4691-a916-e20db8ebc513.jpg?1660936305|https://scryfall.com/card/dmc/202/cascading-cataracts?utm_source=api>`"
 msgstr ""
 
 #: ../../DMC.rst:341
-msgid "(|tap|: Add |mana_g|.)"
-msgstr ""
-
-#: ../../DMC.rst:343
-msgid "As Murmuring Bosk enters the battlefield, you may reveal a Treefolk card from your hand. If you don't, Murmuring Bosk enters the battlefield tapped."
+msgid "Indestructible"
 msgstr ""
 
 #: ../../DMC.rst:345
+msgid "|mana_5|, |tap|: Add five mana in any combination of colors."
+msgstr ""
+
+#: ../../DMC.rst:352
+msgid ":mtgtip:`Crystal Quarry<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/5/55999d8e-50f8-4c8b-a0c3-f3256af62491.jpg?1660936281|https://scryfall.com/card/dmc/206/crystal-quarry?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:359
+msgid ":mtgtip:`Murmuring Bosk<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/a/5aca73a9-e90d-48c6-bdd9-9a3f4f552de3.jpg?1660936399|https://scryfall.com/card/dmc/220/murmuring-bosk?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:355
+msgid "(|tap|: Add |mana_g|.)"
+msgstr ""
+
+#: ../../DMC.rst:357
+msgid "As Murmuring Bosk enters the battlefield, you may reveal a Treefolk card from your hand. If you don't, Murmuring Bosk enters the battlefield tapped."
+msgstr ""
+
+#: ../../DMC.rst:359
 msgid "|tap|: Add |mana_w| or |mana_b|. Murmuring Bosk deals 1 damage to you."
 msgstr ""

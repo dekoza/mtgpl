@@ -25,7 +25,7 @@
    Jared Carthalion can be your commander.
 
 
-:mtgtip:`Jenson Carthalion, Druid Exile<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/a/6a67f32c-4c9a-4bda-92f4-037b99999777.jpg?1660933017|https://scryfall.com/card/dmc/3/jenson-carthalion-druid-exile?utm_source=api>`
+:mtgtip:`Jenson Carthalion, Druid Exile<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/a/6a67f32c-4c9a-4bda-92f4-037b99999777.jpg?1661101564|https://scryfall.com/card/dmc/3/jenson-carthalion-druid-exile?utm_source=api>`
    Whenever you cast a multicolored spell, scry 1. If that spell was all colors, create a 4/4 white Angel creature token with flying and vigilance.
 
    |mana_5|, |tap|: Add |mana_w|\ |mana_u|\ |mana_b|\ |mana_r|\ |mana_g|.
@@ -157,7 +157,7 @@
    |mana_1|, Sacrifice another creature: The Ever-Changing 'Dane becomes a copy of the sacrificed creature, except it has this ability.
 
 
-:mtgtip:`General Marhault Elsdragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bf2931bd-bedc-45e8-b3f0-e2a220dbac1b.jpg?1660861880|https://scryfall.com/card/dmc/31/general-marhault-elsdragon?utm_source=api>`
+:mtgtip:`General Marhault Elsdragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bf2931bd-bedc-45e8-b3f0-e2a220dbac1b.jpg?1661032989|https://scryfall.com/card/dmc/31/general-marhault-elsdragon?utm_source=api>`
    Whenever a creature you control becomes blocked, that creature gets +3/+3 until end of turn for each creature blocking it.
 
 
@@ -185,7 +185,15 @@
    At the beginning of each end step, if a land you controlled was put into your graveyard from the battlefield this turn, reveal the top four cards of your library. Put any number of Dwarf cards from among them into your hand and the rest on the bottom of your library in a random order.
 
 
-:mtgtip:`Orca, Siege Demon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/5/8511fc1e-cff2-4d6c-b9c3-0a7f70ac3528.jpg?1660945330|https://scryfall.com/card/dmc/37/orca-siege-demon?utm_source=api>`
+:mtgtip:`Ohabi Caleria<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/2/82003d72-5138-4341-a53a-62b794f2bce1.jpg?1661064630|https://scryfall.com/card/dmc/36/ohabi-caleria?utm_source=api>`
+   Reach
+
+   Untap all Archers you control during each other player's untap step.
+
+   Whenever an Archer you control deals damage to a creature, you may pay |mana_2|. If you do, draw a card.
+
+
+:mtgtip:`Orca, Siege Demon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/5/8511fc1e-cff2-4d6c-b9c3-0a7f70ac3528.jpg?1661032886|https://scryfall.com/card/dmc/37/orca-siege-demon?utm_source=api>`
    Trample
 
    Whenever another creature dies, put a +1/+1 counter on Orca, Siege Demon.
@@ -223,6 +231,20 @@
    Whenever you cast a Dragon spell, create a 0/1 red Kobold creature token named Kobolds of Kher Keep.
 
 
+:mtgtip:`Stangg, Echo Warrior<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/7/7722a9a1-2ff9-4a39-b56e-c7eef2ff9dcd.jpg?1661033062|https://scryfall.com/card/dmc/42/stangg-echo-warrior?utm_source=api>`
+   Whenever Stangg, Echo Warrior attacks, create Stangg Twin, a legendary 3/4 red and green Human Warrior creature token. It enters the battlefield tapped and attacking. For each Aura and Equipment attached to Stangg, create a token that's a copy of it attached to Stangg Twin. Sacrifice all tokens created this way at the beginning of the next end step.
+
+
+:mtgtip:`Sivitri, Dragon Master<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/7/b7505068-484e-4844-b3dd-89c28f18275d.jpg?1661033042|https://scryfall.com/card/dmc/43/sivitri-dragon-master?utm_source=api>`
+   +1: Until your next turn, creatures can't attack you or planeswalkers you control unless their controller pays 2 life for each of those creatures.
+
+   −3: Search your library for a Dragon card, reveal it, put it into your hand, then shuffle.
+
+   −7: Destroy all non-Dragon creatures.
+
+   Sivitri, Dragon Master can be your commander.
+
+
 :mtgtip:`Tetsuo, Imperial Champion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/1/51c523cd-78b0-438f-bba5-19160f648d5f.jpg?1660928930|https://scryfall.com/card/dmc/44/tetsuo-imperial-champion?utm_source=api>`
    Whenever Tetsuo, Imperial Champion attacks, if it's equipped, choose one —
 
@@ -251,18 +273,10 @@
    When Torsten dies, create seven 1/1 white Soldier creature tokens.
 
 
-:mtgtip:`Stangg, Echo Warrior<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/3/9385b40f-79a7-4d9c-b253-54587a1f28b4.jpg?1660840230|https://scryfall.com/card/dmc/64/stangg-echo-warrior?utm_source=api>`
-   Whenever Stangg, Echo Warrior attacks, create Stangg Twin, a legendary 3/4 red and green Human Warrior creature token. It enters the battlefield tapped and attacking. For each Aura and Equipment attached to Stangg, create a token that's a copy of it attached to Stangg Twin. Sacrifice all tokens created this way at the beginning of the next end step.
+:mtgtip:`Xira, the Golden Sting<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/8/48e60dff-8ac0-4e70-a7a8-a177e9e6847b.jpg?1661064706|https://scryfall.com/card/dmc/48/xira-the-golden-sting?utm_source=api>`
+   Flying, haste
 
-
-:mtgtip:`Sivitri, Dragon Master<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/5/55cc167d-b701-444b-9eb9-f0ee1bdfa762.jpg?1660846044|https://scryfall.com/card/dmc/65/sivitri-dragon-master?utm_source=api>`
-   +1: Until your next turn, creatures can't attack you or planeswalkers you control unless their controller pays 2 life for each of those creatures.
-
-   −3: Search your library for a Dragon card, reveal it, put it into your hand, then shuffle.
-
-   −7: Destroy all non-Dragon creatures.
-
-   Sivitri, Dragon Master can be your commander.
+   Whenever Xira, the Golden Sting attacks, put an egg counter on another target creature without an egg counter on it. When that creature dies, if it has an egg counter on it, draw a card and create a 1/1 black Insect creature token with flying.
 
 
 :mtgtip:`Path to Exile<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9d607a40-608a-44cd-b946-02636b5bea9f.jpg?1660936402|https://scryfall.com/card/dmc/104/path-to-exile?utm_source=api>`
