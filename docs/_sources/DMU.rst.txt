@@ -5,6 +5,14 @@
 ===============================
 
 
+:mtgtip:`Karn, Living Legacy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/8/e83b1b87-01d5-4624-8a2b-4b771e13e59c.jpg?1661025516|https://scryfall.com/card/dmu/1/karn-living-legacy?utm_source=api>`
+   +1: Create a tapped Powerstone token. (It's an artifact with "|tap|: Add |colorless|. This mana can't be spent to cast a nonartifact spell.")
+
+   −1: Pay any amount of mana. Look at that many cards from the top of your library, then put one of those cards into your hand and rest on the bottom of your library in a random order.
+
+   −7: You get an emblem with "Tap an untapped artifact you control: This emblem deals 1 damage to any target."
+
+
 :mtgtip:`Archangel of Wrath<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/d/2d00bab2-e95d-4296-a805-2a05e7640efb.jpg?1660843348|https://scryfall.com/card/dmu/3/archangel-of-wrath?utm_source=api>`
    Kicker |mana_b| and/or |mana_r| (You may pay an additional |mana_b| and/or |mana_r| as you cast this spell.)
 
@@ -25,6 +33,14 @@
    |mana_4|\ |mana_w|: Creatures you control get +1/+1 until end of turn.
 
 
+:mtgtip:`Defiler of Faith<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/c/2cfe404d-1a27-4627-9284-56188d92d5d5.jpg?1661101894|https://scryfall.com/card/dmu/18/defiler-of-faith?utm_source=api>`
+   Vigilance
+
+   As an additional cost to cast white permanent spells, you may pay 2 life. Those spells cost |mana_w| less to cast if you paid life this way. This effect reduces only the amount of white mana you pay.
+
+   Whenever you cast a white permanent spell, create a 1/1 white Soldier creature token.
+
+
 :mtgtip:`Guardian of New Benalia<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/3/43da76ee-fec3-4b2e-915d-10cf8d518d2c.jpg?1660840962|https://scryfall.com/card/dmu/19/guardian-of-new-benalia?utm_source=api>`
    Enlist (As this creature attacks, you may tap a nonattacking creature you control without summoning sickness. When you do, add its power to this creature's until end of turn.)
 
@@ -33,7 +49,7 @@
    Discard a card: Guardian of New Benalia gains indestructible until end of turn. Tap it.
 
 
-:mtgtip:`Join Forces<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/4/e4dce5e7-c864-4239-bab7-af6a3adcb731.jpg?1660968551|https://scryfall.com/card/dmu/21/join-forces?utm_source=api>`
+:mtgtip:`Join Forces<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/4/e4dce5e7-c864-4239-bab7-af6a3adcb731.jpg?1661014124|https://scryfall.com/card/dmu/21/join-forces?utm_source=api>`
    Untap up to two target creatures. They each get +2/+2 until end of turn.
 
 
@@ -61,10 +77,10 @@
    If Shalai's Acolyte was kicked, it enters the battlefield with two +1/+1 counters on it.
 
 
-:mtgtip:`Stall for Time<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/3/f346defa-ee4a-404e-8154-0e33ebe9102c.jpg?1660937396|https://scryfall.com/card/dmu/34/stall-for-time?utm_source=api>`
+:mtgtip:`Stall for Time<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/3/f346defa-ee4a-404e-8154-0e33ebe9102c.jpg?1661120490|https://scryfall.com/card/dmu/34/stall-for-time?utm_source=api>`
    Kicker |mana_1|\ |mana_u| (You may pay an additional |mana_1|\ |mana_u| as you cast this spell.)
 
-   Tap up to two target creatures. If this spell was kicked, put a stun counter on each of those creatures. (If a creature with a stun counter on it would become untapped, remove it from combat instead.)
+   Tap up to two target creatures. If this spell was kicked, put a stun counter on each of those creatures. (If a permanent with a stun counter on it would become untapped, remove one from it instead.)
 
    Draw a card.
 
@@ -105,12 +121,18 @@
    III — Destroy all creatures. For each creature destroyed this way, its controller creates a 2/2 black Phyrexian creature token.
 
 
-:mtgtip:`Protect the Negotiators<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/b/bb6db604-8bbe-4719-88bd-f3cad8c4725d.jpg?1660990828|https://scryfall.com/card/dmu/62/protect-the-negotiators?utm_source=api>`
+:mtgtip:`Protect the Negotiators<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/b/bb6db604-8bbe-4719-88bd-f3cad8c4725d.jpg?1661120416|https://scryfall.com/card/dmu/62/protect-the-negotiators?utm_source=api>`
    Kicker |mana_w| (You may pay an additional |mana_w| as you cast this spell.)
 
    If this spell was kicked, create a 1/1 white Soldier creature token.
 
    Counter target spell unless its controller pays |mana_1| for each creature you control.
+
+
+:mtgtip:`Rona's Vortex<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bdf96533-f28a-4465-893b-0c9394d5b8d7.jpg?1661101549|https://scryfall.com/card/dmu/63/ronas-vortex?utm_source=api>`
+   Kicker |mana_2|\ |mana_b| (You may pay an additional |mana_2|\ |mana_b| as you cast this spell.)
+
+   Return target creature or planeswalker you don't control to its owner's hand. If this spell was kicked, put that permanent on the bottom of its owner's library instaed.
 
 
 :mtgtip:`Sphinx of Clear Skies<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/7/974c9e0c-07b2-4535-a3d0-bb827b651075.jpg?1660950670|https://scryfall.com/card/dmu/67/sphinx-of-clear-skies?utm_source=api>`
@@ -151,7 +173,13 @@
    At the beginning of your end step, you may sacrifice an artifact, creature, enchantment, land, or planeswalker. If you do, each opponent may sacrifice a permanent that shares a card type with it. For each opponent who doesn't, that player loses 2 life and you draw a card.
 
 
-:mtgtip:`Cut Down<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/5/753db072-5d6a-4f37-8f7d-255572ecd3bd.jpg?1660950691|https://scryfall.com/card/dmu/89/cut-down?utm_source=api>`
+:mtgtip:`Cult Conscript<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/e/fed77513-94ab-44e2-b9a1-30ba927cd6ee.jpg?1661089951|https://scryfall.com/card/dmu/88/cult-conscript?utm_source=api>`
+   Cult Conscript enters the battlefield tapped.
+
+   |mana_1|\ |mana_b|: Return Cult Conscript from your graveyard to the battlefield. Activate only if a non-Skeleton creature died under your control this turn.
+
+
+:mtgtip:`Cut Down<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/5/753db072-5d6a-4f37-8f7d-255572ecd3bd.jpg?1661071155|https://scryfall.com/card/dmu/89/cut-down?utm_source=api>`
    Destroy target creature with total power and toughness 5 or less.
 
 
@@ -169,6 +197,14 @@
    −2: Target player sacrifices a creature.
 
    −6: Separate all permanents target player controls into two piles. That player sacrifices all permanents in the pile of their choice.
+
+
+:mtgtip:`Monstrous War-Leech<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/6/660d7983-b335-48b4-898d-f182effcf2de.jpg?1661025606|https://scryfall.com/card/dmu/98/monstrous-war-leech?utm_source=api>`
+   Kicker |mana_u| (You may pay an additional |mana_u| as you cast this spell.)
+
+   As Monstrous War-Leech enters the battlefield, if it was kicked, mill four cards. (To mill a card, put the top card of your library into your graveyard.)
+
+   Monstrous War-Leech's power and toughness are each equal to the highest mana value among cards in your graveyard.
 
 
 :mtgtip:`The Raven Man<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/e/6e761fb2-ae4f-4d72-a142-f7e9bd681303.jpg?1660838227|https://scryfall.com/card/dmu/103/the-raven-man?utm_source=api>`
@@ -217,6 +253,12 @@
    Exile up to one target artifact, up to one target creature, up to one target enchantment, up to one target planeswalker, and/or up to one target land. For each permanent exiled this way, its controller reveals cards from the top of their library until they reveal a card that shares a card type with it, puts that card onto the battlefield, then shuffles.
 
 
+:mtgtip:`Dragon Whelp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/1/d13d40b9-319b-4630-a5cd-228ff2f24367.jpg?1661025265|https://scryfall.com/card/dmu/120/dragon-whelp?utm_source=api>`
+   Flying
+
+   |mana_r|: Dragon Whelp gets +1/+0 until end of turn. If this ability has been activated four or more times this turn, sacrifice Dragon Whelp at the beginning of the next end step.
+
+
 :mtgtip:`Jaya, Fiery Negotiator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/b/3b9f54f0-4368-4d28-aa21-3f1e7be1b23a.jpg?1658428597|https://scryfall.com/card/dmu/133/jaya-fiery-negotiator?utm_source=api>`
    +1: Create a 1/1 red Monk creature token with prowess.
 
@@ -241,6 +283,14 @@
    This spell costs |mana_x| less to cast, where X is the greatest power among creatures you control.
 
    Trample
+
+
+:mtgtip:`Phoenix Chick<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/76bdc912-61da-428d-b0d7-3a38676a402a.jpg?1661102237|https://scryfall.com/card/dmu/140/phoenix-chick?utm_source=api>`
+   Flying, haste
+
+   Phoenix Chick can't block.
+
+   Whenever you attack with three or more creatures, you may pay |mana_r|\ |mana_r|. If you do, return Phoenix Chick from your graveyard to the battlefield tapped and attacking with a +1/+1 counter on it.
 
 
 :mtgtip:`Radha's Firebrand<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/e/ae8a90c4-4a79-49e7-9fab-076b35d28adb.jpg?1660844817|https://scryfall.com/card/dmu/141/radhas-firebrand?utm_source=api>`
@@ -281,7 +331,7 @@
    |mana_2|\ |mana_r|: Viashino Branchrider gets +2/+0 until end of turn.
 
 
-:mtgtip:`Yavimaya Steelcrusher<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/5/25175622-7b68-4916-adf2-3bf2d82e8356.jpg?1660935554|https://scryfall.com/card/dmu/152/yavimaya-steelcrusher?utm_source=api>`
+:mtgtip:`Yavimaya Steelcrusher<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/5/25175622-7b68-4916-adf2-3bf2d82e8356.jpg?1661108614|https://scryfall.com/card/dmu/152/yavimaya-steelcrusher?utm_source=api>`
    Enlist (As this creature attacks, you may tap a nonattacking creature you control without summoning sickness. When you do, add its power to this creature's until end of turn.)
 
    |mana_1|, Sacrifice Yavimaya Steelcrusher: Destroy target artifact.
@@ -293,6 +343,12 @@
    As an additional cost to cast green permanent spells, you may pay 2 life. Those spells cost |mana_g| less to cast if you paid life this way. This effect reduces only the amount of green mana you pay.
 
    Whenever you cast a green permanent spell, put a +1/+1 counter on each creature you control.
+
+
+:mtgtip:`Herd Migration<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/0/b0244a1f-e696-4223-9c14-22c2ca3cb738.jpg?1661064893|https://scryfall.com/card/dmu/165/herd-migration?utm_source=api>`
+   Domain — Create a 3/3 green Beast creature token for each basic land type among lands you control.
+
+   |mana_1|\ |mana_g|, Discard Herd Migration: Search your library for a basic land card, reveal it, put it into your hand, then shuffle. You gain 3 life.
 
 
 :mtgtip:`"Eight Legged Chonker"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/1/81f90e4d-f60f-4175-830f-c2ce04c5a945.jpg?1660935985|https://scryfall.com/card/dmu/169/eight-legged-chonker?utm_source=api>`
@@ -329,6 +385,12 @@
    Whenever Snarespinner blocks a creature with flying, Snarespinner gets +2/+0 until end of turn.
 
 
+:mtgtip:`Strength of the Coalition<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/4/8418c504-24fe-470f-8102-dcad68ba1520.jpg?1661025918|https://scryfall.com/card/dmu/180/strength-of-the-coalition?utm_source=api>`
+   Kicker |mana_2|\ |mana_w| (You may pay an additional |mana_2|\ |mana_w| as you cast this spell.)
+
+   Target creature you control gets +2/+2 until end of turn. If this spell was kicked, put a +1/+1 counter on each creature you control.
+
+
 :mtgtip:`Territorial Maro<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/5/853ddf31-826b-411e-9b6d-75d53cdd1b84.jpg?1660887271|https://scryfall.com/card/dmu/184/territorial-maro?utm_source=api>`
    Domain — Territorial Maro's power and toughness are each equal to twice the number of basic land types among lands you control.
 
@@ -351,6 +413,14 @@
    III — Put up to two non-Saga permanent cards from your hand onto the battlefield.
 
 
+:mtgtip:`Yavimaya Iconoclast<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/b/1b1af9be-7f5e-48e9-a6e7-9261e199812e.jpg?1661025220|https://scryfall.com/card/dmu/190/yavimaya-iconoclast?utm_source=api>`
+   Kicker |mana_r| (You may pay an additional |mana_r| as you cast this spell.)
+
+   Trample
+
+   When Yavimaya Iconoclast enters the battlefield, if it was kicked, it gets +1/+1 and gains haste until end of turn.
+
+
 :mtgtip:`Ajani, Sleeper Agent<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/7641f4d9-4614-41c8-87f5-4845bd78e9b3.jpg?1660839093|https://scryfall.com/card/dmu/192/ajani-sleeper-agent?utm_source=api>`
    Compleated ({G/W/P} can be paid with |mana_g|, |mana_w|, or 2 life. If life was paid, this planeswalker enters with two fewer loyalty counters.)
 
@@ -367,6 +437,10 @@
    Equipment you control have equip |mana_1|.
 
    Vehicles you control have crew 1.
+
+
+:mtgtip:`Bortuk Bonerattle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/a/9a25855f-abfc-482d-a36b-088b023a7df6.jpg?1661101779|https://scryfall.com/card/dmu/197/bortuk-bonerattle?utm_source=api>`
+   Domain — When Bortuk Bonerattle enters the battlefield, if you cast it, choose target creature card in your graveyard. Return that card to the battlefield if its mana value is less than or equal to the number of basic land types among lands you control. Otherwise, put it into your hand.
 
 
 :mtgtip:`Jhoira, Ageless Innovator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/d/dd911900-1f5f-4420-96b8-1e4fe67e59f6.jpg?1660838500|https://scryfall.com/card/dmu/202/jhoira-ageless-innovator?utm_source=api>`
@@ -443,6 +517,14 @@
    Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)
 
 
+:mtgtip:`Hero's Heirloom<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5b7c0d2d-7107-4599-8d49-c7c57d21e467.jpg?1661090102|https://scryfall.com/card/dmu/231/heros-heirloom?utm_source=api>`
+   Equipped creature gets +2/+1.
+
+   As long as equipped creature is legendary, it has trample and haste.
+
+   Equip |mana_2|
+
+
 :mtgtip:`Adarkar Wastes<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/8/08ae1037-6f70-41a9-b75e-98fa9a2152c8.jpg?1660843967|https://scryfall.com/card/dmu/243/adarkar-wastes?utm_source=api>`
    |tap|: Add |colorless|.
 
@@ -459,6 +541,16 @@
    |tap|: Add |colorless|.
 
    |tap|: Add |mana_r| or |mana_g|. Karplusan Forest deals 1 damage to you.
+
+
+:mtgtip:`Plaza of Heroes<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/2/a2cfcf67-f83c-43af-9e2d-5513fcdde835.jpg?1661025354|https://scryfall.com/card/dmu/252/plaza-of-heroes?utm_source=api>`
+   |tap|: Add |colorless|.
+
+   |tap|: Add one mana of any color. Spend this mana only to cast a legendary spell.
+
+   |tap|: Add one mana of any color among legendary permanents you control.
+
+   |mana_3|, |tap|, Exile Plaza of Heroes: Target legendary creature gains hexproof and indestructible until end of turn.
 
 
 :mtgtip:`Shivan Reef<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/3/a338107b-0960-4496-a9a5-f7b672e7c043.jpg?1660843760|https://scryfall.com/card/dmu/255/shivan-reef?utm_source=api>`
@@ -503,10 +595,4 @@
    Menace
 
    |mana_w|\ |mana_b|, |tap|, Sacrifice another creature: Put a +1/+1 counter on each creature you control.
-
-
-:mtgtip:`Herd Migration<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/8/e8b91c26-26f3-45d6-bf7d-35a2963dde37.jpg?1660846283|https://scryfall.com/card/dmu/429/herd-migration?utm_source=api>`
-   Domain — Create a 3/3 green Beast creature token for each basic land type among lands you control.
-
-   |mana_1|\ |mana_g|, Discard Herd Migration: Search your library for a basic land card, reveal it, put it into your hand, then shuffle. You gain 3 life.
 
