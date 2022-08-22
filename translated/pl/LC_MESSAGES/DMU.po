@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2022.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-22 09:12+0200\n"
-"PO-Revision-Date: 2022-08-22 07:11+0000\n"
+"PO-Revision-Date: 2022-08-22 11:42+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dmu/pl/>\n"
 "Language: pl\n"
@@ -337,10 +337,8 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:37
-#, fuzzy
-#| msgid "Vigilance, trample"
 msgid "Vigilance"
-msgstr "Czujność, tratowanie"
+msgstr "Czujność"
 
 #: ../../DMU.rst:39
 #, fuzzy
@@ -688,16 +686,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:133
-#, fuzzy
-#| msgid ""
-#| "Kicker |mana_2|\\ |mana_g| (You may pay an additional |mana_2|\\ |mana_g| "
-#| "as you cast this spell.)"
 msgid ""
 "Kicker |mana_2|\\ |mana_b| (You may pay an additional |mana_2|\\ |mana_b| as "
 "you cast this spell.)"
 msgstr ""
-"Podbicie |mana_2|\\ |mana_g| (Rzucając ten czar możesz dodatkowo zapłacić |"
-"mana_2|\\ |mana_g|.)"
+"Podbicie |mana_2|\\ |mana_b| (Rzucając ten czar możesz dodatkowo zapłacić "
+"|mana_2|\\ |mana_g|.)"
 
 #: ../../DMU.rst:135
 msgid ""
@@ -724,6 +718,10 @@ msgid ""
 "types among lands you control. An opponent separates those cards into two "
 "piles. Put one pile into your hand and the other into your graveyard."
 msgstr ""
+"Domena — Ilekroć ten stwór zada graczowi obrażenia bojowe, ujawnij X "
+"wierzchnich kart twojej biblioteki, gdzie X jest liczbą bazowych typów lądów "
+"pośród lądów pod twoim władaniem. Przeciwnik rozdziela owe karty na dwa "
+"stosy. Umieść jeden z nich w twojej ręce, a drugi w twoim cmentarzu."
 
 #: ../../DMU.rst:148
 msgid ""
@@ -912,14 +910,10 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:203
-#, fuzzy
-#| msgid ""
-#| "Kicker |mana_b| (You may pay an additional |mana_b| as you cast this "
-#| "spell.)"
 msgid ""
 "Kicker |mana_u| (You may pay an additional |mana_u| as you cast this spell.)"
 msgstr ""
-"Podbicie |mana_b| (Możesz zapłacić dodatkowe |mana_b| podczas rzucania tego "
+"Podbicie |mana_u| (Możesz zapłacić dodatkowe |mana_u| podczas rzucania tego "
 "czaru.)"
 
 #: ../../DMU.rst:205
@@ -1068,6 +1062,9 @@ msgid ""
 "been activated four or more times this turn, sacrifice Dragon Whelp at the "
 "beginning of the next end step."
 msgstr ""
+"|mana_r|: Ten stwór dostaje do końca tury +1/+0. Jeśli ta zdolność została "
+"aktywowana co najmniej cztery razy w tej turze, poświęć tego stwora na "
+"początku najbliższego kroku końcowego."
 
 #: ../../DMU.rst:270
 msgid ""
@@ -1445,16 +1442,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:389
-#, fuzzy
-#| msgid ""
-#| "Kicker |mana_2|\\ |mana_g| (You may pay an additional |mana_2|\\ |mana_g| "
-#| "as you cast this spell.)"
 msgid ""
 "Kicker |mana_2|\\ |mana_w| (You may pay an additional |mana_2|\\ |mana_w| as "
 "you cast this spell.)"
 msgstr ""
-"Podbicie |mana_2|\\ |mana_g| (Rzucając ten czar możesz dodatkowo zapłacić |"
-"mana_2|\\ |mana_g|.)"
+"Podbicie |mana_2|\\ |mana_w| (Rzucając ten czar możesz dodatkowo zapłacić "
+"|mana_2|\\ |mana_w|.)"
 
 #: ../../DMU.rst:391
 msgid ""
@@ -1829,7 +1822,7 @@ msgstr ""
 
 #: ../../DMU.rst:521
 msgid "Equipped creature gets +2/+1."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +2/+1."
 
 #: ../../DMU.rst:523
 msgid "As long as equipped creature is legendary, it has trample and haste."
@@ -1837,7 +1830,7 @@ msgstr ""
 
 #: ../../DMU.rst:525
 msgid "Equip |mana_2|"
-msgstr ""
+msgstr "Wyposaż |mana_2|"
 
 #: ../../DMU.rst:532
 msgid ""
