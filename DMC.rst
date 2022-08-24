@@ -273,7 +273,7 @@
    When Torsten dies, create seven 1/1 white Soldier creature tokens.
 
 
-:mtgtip:`Xira, the Golden Sting<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/8/48e60dff-8ac0-4e70-a7a8-a177e9e6847b.jpg?1661064706|https://scryfall.com/card/dmc/48/xira-the-golden-sting?utm_source=api>`
+:mtgtip:`Xira, the Golden Sting<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/8/48e60dff-8ac0-4e70-a7a8-a177e9e6847b.jpg?1661162099|https://scryfall.com/card/dmc/48/xira-the-golden-sting?utm_source=api>`
    Flying, haste
 
    Whenever Xira, the Golden Sting attacks, put an egg counter on another target creature without an egg counter on it. When that creature dies, if it has an egg counter on it, draw a card and create a 1/1 black Insect creature token with flying.
