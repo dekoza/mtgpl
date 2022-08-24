@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2022.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-24 18:20+0200\n"
-"PO-Revision-Date: 2022-08-24 13:47+0000\n"
+"PO-Revision-Date: 2022-08-24 16:47+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dmu/pl/>\n"
 "Language: pl\n"
@@ -246,6 +246,8 @@ msgid ""
 "+1: Create a tapped Powerstone token. (It's an artifact with \"|tap|: Add |"
 "colorless|. This mana can't be spent to cast a nonartifact spell.\")"
 msgstr ""
+"+1: Stwórz przekręcony żeton Kamień Mocy. (To artefakt z \"|tap|: Weź "
+"|colorless|. Tej many nie można wydać na rzucenie nieartefaktowego czaru.\")"
 
 #: ../../DMU.rst:11
 msgid ""
@@ -430,16 +432,12 @@ msgid "Flying"
 msgstr "Latanie"
 
 #: ../../DMU.rst:61
-#, fuzzy
-#| msgid ""
-#| "When Archangel of Wrath enters the battlefield, if it was kicked, it "
-#| "deals 2 damage to any target."
 msgid ""
 "When Cleaving Skyrider enters the battlefield, if it was kicked, it deals X "
 "damage to any target, where X is the number of attacking creatures."
 msgstr ""
 "Kiedy ten stwór wejdzie na pole bitwy, jeśli został podbity, zadaje on "
-"wskazanemu celowi 2 obrażenia."
+"wskazanemu celowi X obrażeń, gdzie X jest liczbą atakujących stworów."
 
 #: ../../DMU.rst:68
 msgid ""
@@ -464,6 +462,8 @@ msgid ""
 "When Danitha, Benalia's Hope enters the battlefield, you may put an Aura or "
 "Equipment card from your hand onto the battlefield attached to Danitha."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole bitwy, możesz umieścić kartę Aury lub "
+"Wyposażenia z twojej ręki na polu bitwy dołączoną do niniejszego."
 
 #: ../../DMU.rst:82
 msgid ""
@@ -477,32 +477,21 @@ msgid "Vigilance"
 msgstr "Czujność"
 
 #: ../../DMU.rst:79
-#, fuzzy
-#| msgid ""
-#| "As an additional cost to cast blue permanent spells, you may pay 2 life. "
-#| "Those spells cost |mana_u| less to cast if you paid life this way. This "
-#| "effect reduces only the amount of blue mana you pay."
 msgid ""
 "As an additional cost to cast white permanent spells, you may pay 2 life. "
 "Those spells cost |mana_w| less to cast if you paid life this way. This "
 "effect reduces only the amount of white mana you pay."
 msgstr ""
-"Jako dodatkowy koszt przy rzucaniu czarów niebieskich bytów, możesz zapłacić "
-"2 życia. Rzucenie owych czarów kosztuje o |mana_u| mniej jeśli zapłaciłeś "
-"życie w ten sposób. Ten efekt zmniejsza tylko ilość płaconej niebieskiej "
-"many."
+"Jako dodatkowy koszt przy rzucaniu czarów białych bytów, możesz zapłacić 2 "
+"życia. Rzucenie owych czarów kosztuje o |mana_w| mniej jeśli zapłaciłeś "
+"życie w ten sposób. Ten efekt zmniejsza tylko ilość płaconej białej many."
 
 #: ../../DMU.rst:81
-#, fuzzy
-#| msgid ""
-#| "When Resolute Reinforcements enters the battlefield, create a 1/1 white "
-#| "Soldier creature token."
 msgid ""
 "Whenever you cast a white permanent spell, create a 1/1 white Soldier "
 "creature token."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton białego stwora Piechur "
-"1/1."
+"Ilekroć rzucisz czar białego bytu, stwórz żeton białego stwora Piechur 1/1."
 
 #: ../../DMU.rst:90
 msgid ""
@@ -551,16 +540,12 @@ msgstr ""
 "Podbicie |mana_g| (Rzucając ten czar możesz zapłacić dodatkowo |mana_g|.)"
 
 #: ../../DMU.rst:99
-#, fuzzy
-#| msgid ""
-#| "When Benalish Sleeper enters the battlefield, if it was kicked, each "
-#| "player sacrifices a creature."
 msgid ""
 "When Juniper Order Rootweaver enters the battlefield, if it was kicked, put "
 "a +1/+1 counter on target creature you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli został podbity, każdy gracz "
-"poświęca stwora."
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli został podbity, umieść znacznik "
+"+1/+1 na wskazanym stworze pod twoim władaniem."
 
 #: ../../DMU.rst:106
 msgid ""
@@ -602,14 +587,10 @@ msgstr ""
 "Podbicie |mana_u| (Rzucając ten czar możesz zapłacić dodatkowo |mana_u|.)"
 
 #: ../../DMU.rst:117
-#, fuzzy
-#| msgid ""
-#| "Return target creature to its owner's hand. Draw a card. If this spell "
-#| "was kicked, you gain 3 life."
 msgid "Destroy target tapped creature. If this spell was kicked, scry 2."
 msgstr ""
-"Przywróć wskazanego stwora do ręki właściciela. Dobierz kartę. Jeśli ten "
-"czar został podbity, zyskaj 3 życia."
+"Zniszcz wskazanego przekręconego stwora. Jeśli ten czar został podbity, wróż "
+"2."
 
 #: ../../DMU.rst:122
 msgid ""
@@ -642,6 +623,10 @@ msgid ""
 "you do, it gains \"When this permanent is put into a graveyard from the "
 "battlefield, exile it and you gain 2 life.\""
 msgstr ""
+"Raz w każdej twojej turze możesz zagrać kartę lądu z twojego cmentarza lub "
+"rzucić czar bytu o skrócie many 3 lub mniejszym z twojego cmentarza. Jeśli "
+"tak zrobisz, zyskuje on \"Kiedy ten byt zostanie umieszczony z pola bitwy w "
+"cmentarzu, wygnaj go i zyskaj 2 życia.\""
 
 #: ../../DMU.rst:136
 msgid ""
@@ -682,18 +667,13 @@ msgstr ""
 "mana_1|\\ |mana_u|.)"
 
 #: ../../DMU.rst:141
-#, fuzzy
-#| msgid ""
-#| "Tap up to two target creatures. If this spell was kicked, put a stun "
-#| "counter on each of those creatures. (If a creature with a stun counter on "
-#| "it would become untapped, remove it from combat instead.)"
 msgid ""
 "Tap up to two target creatures. If this spell was kicked, put a stun counter "
 "on each of those creatures. (If a permanent with a stun counter on it would "
 "become untapped, remove one from it instead.)"
 msgstr ""
 "Przekręć co najwyżej dwa wskazane stwory. Jeśli ten czar został podbity, "
-"umieść znacznik ogłuszenia na każdym z owych stworów. (Jeśli stwór mający "
+"umieść znacznik ogłuszenia na każdym z owych stworów. (Jeśli byt mający "
 "znacznik ogłuszenia miałby zostać odkręcony, zamiast tego usuń z niego ów "
 "znacznik.)"
 
@@ -730,6 +710,8 @@ msgid ""
 "When Temporary Lockdown enters the battlefield, exile each nonland permanent "
 "with mana value 2 or less until Temporary Lockdown leaves the battlefield."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, wygnaj każdy nielądowy byt o skrócie "
+"many 2 lub mniejszym dopóki niniejszy nie opuści pola bitwy."
 
 #: ../../DMU.rst:160
 msgid ""
@@ -743,28 +725,20 @@ msgid "Defender"
 msgstr "Obronność"
 
 #: ../../DMU.rst:157
-#, fuzzy
-#| msgid ""
-#| "When Resolute Reinforcements enters the battlefield, create a 1/1 white "
-#| "Soldier creature token."
 msgid ""
 "When Wingmantle Chaplain enters the battlefield, create a 1/1 white Bird "
 "creature token with flying for each creature with defender you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton białego stwora Piechur "
-"1/1."
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton białego stwora Ptak 1/1 "
+"z lataniem za każdego stwora pod twoim władaniem mającego obronność."
 
 #: ../../DMU.rst:159
-#, fuzzy
-#| msgid ""
-#| "When Resolute Reinforcements enters the battlefield, create a 1/1 white "
-#| "Soldier creature token."
 msgid ""
 "Whenever another creature with defender enters the battlefield under your "
 "control, create a 1/1 white Bird creature token with flying."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton białego stwora Piechur "
-"1/1."
+"Ilekroć inny ten stwór z obronnością wejdzie na pole bitwy pod twoim "
+"władaniem, stwórz żeton białego stwora Ptak 1/1 z lataniem."
 
 #: ../../DMU.rst:168
 msgid ""
@@ -780,16 +754,12 @@ msgstr ""
 "Podbicie |mana_r| (Rzucając ten czar możesz dodatkowo zapłacić |mana_r|.)"
 
 #: ../../DMU.rst:167
-#, fuzzy
-#| msgid ""
-#| "When Benalish Sleeper enters the battlefield, if it was kicked, each "
-#| "player sacrifices a creature."
 msgid ""
 "When Battlewing Mystic enters the battlefield, if it was kicked, discard "
 "your hand, then draw two cards."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli został podbity, każdy gracz "
-"poświęca stwora."
+"Kiedy ten stwór wejdzie na pole bitwy, jeśli został podbity, odrzuć twoją "
+"rękę, po czym dobierz dwie karty."
 
 #: ../../DMU.rst:174
 msgid ""
@@ -804,6 +774,9 @@ msgid ""
 "number of cards you control with defender. (To mill a card, a player puts "
 "the top card of their library into their graveyard.)"
 msgstr ""
+"|mana_1|\\ |mana_u|, |tap|: Wskazany gracz mieli X kart, gdzie X jest liczbą "
+"stworów pod twoim władaniem mających obronność. (Mieląc kartę gracz "
+"umieszcza wierzchnią kartę swojej biblioteki w swoim cmentarzu.)"
 
 #: ../../DMU.rst:182
 msgid ""
@@ -836,21 +809,19 @@ msgstr ""
 
 #: ../../DMU.rst:187
 msgid "Whenever you cast an instant or sorcery spell, choose one —"
-msgstr ""
+msgstr "Ilekroć rzucisz czar sztuczki lub obrzędu, wybierz jedno —"
 
 #: ../../DMU.rst:189
-#, fuzzy
-#| msgid ""
-#| "|mana_4|\\ |mana_w|: Creatures you control get +1/+1 until end of turn."
 msgid "Djinn of the Fountain gets +1/+1 until end of turn."
-msgstr ""
-"|mana_4|\\ |mana_w|: Stwory pod twoim władaniem dostają do końca tury +1/+1."
+msgstr "Ten stwór dostaje do końca tury +1/+1."
 
 #: ../../DMU.rst:191
 msgid ""
 "Exile Djinn of the Fountain. Return it to the battlefield under its owner's "
 "control at the beginning of the next end step."
 msgstr ""
+"Wygnaj tego stwora. Przywróć go na pole bitwy pod władaniem właściciela na "
+"początku najbliższego kroku końcowego."
 
 #: ../../DMU.rst:193
 msgid "Scry 1."
@@ -874,18 +845,20 @@ msgid ""
 "I — You may cast an instant or sorcery spell with mana value 1 or 2 from "
 "your hand without paying its mana cost."
 msgstr ""
+"I — Możesz rzucić z twojej ręki czar sztuczki lub obrzędu o skrócie many 1 "
+"lub 2 bez płacenia kosztu many."
 
 #: ../../DMU.rst:201
-#, fuzzy
-#| msgid "−2: Target player sacrifices a creature."
 msgid "II — Target player mills four cards."
-msgstr "–2: Wskazany gracz poświęca stwora."
+msgstr "II — Wskazany gracz mieli cztery karty."
 
 #: ../../DMU.rst:203
 msgid ""
 "III — Exile target instant or sorcery card from your graveyard. Copy it. You "
 "may cast the copy."
 msgstr ""
+"III — Wygnaj wskazaną kartę sztuczki lub obrzędu z twojego cmentarza. "
+"Skopiuj ją. Możesz rzucić ową kopię."
 
 #: ../../DMU.rst:210
 msgid ""
@@ -921,16 +894,11 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:215
-#, fuzzy
-#| msgid ""
-#| "This spell costs |mana_1| less to cast for each instant and sorcery card "
-#| "in your graveyard."
 msgid ""
 "Haughty Djinn's power is equal to the number of instant and sorcery cards in "
 "your graveyard."
 msgstr ""
-"Rzucenie tego czaru kosztuje o |mana_1| mniej za każdą kartę sztuczki lub "
-"obrzędu w twoim cmentarzu."
+"Siła tej karty jest równa liczbie kart sztuczek i obrzędów w twoim cmentarzu."
 
 #: ../../DMU.rst:217
 msgid "Instant and sorcery spells you cast cost |mana_1| less to cast."
@@ -1017,6 +985,8 @@ msgstr ""
 msgid ""
 "Draw two cards. If this spell was kicked, each opponent discards a card."
 msgstr ""
+"Dobierz dwie karty. Jeśli ten czar został podbity, każdy przeciwnik odrzuca "
+"kartę."
 
 #: ../../DMU.rst:250
 msgid ""
@@ -1065,6 +1035,9 @@ msgid ""
 "hand. If this spell was kicked, put that permanent on the bottom of its "
 "owner's library instead."
 msgstr ""
+"Przywróć wskazanego stwora lub wędrowca poza twoim władaniem do ręki "
+"właściciela. Jeśli ten czar został podbity, zamiast tego umieść ów byt na "
+"spodzie biblioteki właściciela."
 
 #: ../../DMU.rst:262
 msgid ""
@@ -1075,7 +1048,7 @@ msgstr ""
 
 #: ../../DMU.rst:259
 msgid "You may cast Silver Scrutiny as though it had flash if X is 3 or less."
-msgstr ""
+msgstr "Możesz rzucić ten czar jakby miał błysk jeśli X wynosi 3 lub mniej."
 
 #: ../../DMU.rst:261
 msgid "Draw X cards."
@@ -1126,6 +1099,8 @@ msgid ""
 "Target creature gets -1/-0 until end of turn. If this spell was kicked, that "
 "creature blocks this turn if able."
 msgstr ""
+"Wskazany stwór dostaje do końca tury -1/-0. Jeśli ten czar został podbity, "
+"ów stwór blokuje w tej turze jeśli może."
 
 #: ../../DMU.rst:282
 msgid ""
@@ -1188,16 +1163,12 @@ msgid "Kicker |mana_1|\\ |mana_r| and/or |mana_1|\\ |mana_g|"
 msgstr "Podbicie |mana_1|\\ |mana_r| i/lub |mana_1|\\ |mana_g|"
 
 #: ../../DMU.rst:297
-#, fuzzy
-#| msgid ""
-#| "If Shalai's Acolyte was kicked, it enters the battlefield with two +1/+1 "
-#| "counters on it."
 msgid ""
 "Vodalian Mindsinger enters the battlefield with two +1/+1 counters on it for "
 "each time it was kicked."
 msgstr ""
-"Jeśli ten stwór został podbity, wchodzi na pole bitwy mając dwa znaczniki +1/"
-"+1."
+"Ten stwór wchodzi na pole bitwy mając po dwa znaczniki +1/+1 za każde jego "
+"podbicie."
 
 #: ../../DMU.rst:299
 msgid ""
@@ -3176,17 +3147,19 @@ msgstr ""
 "obrzędu lub podbitego czaru."
 
 #: ../../DMU.rst:945
-#, fuzzy
-#| msgid "|tap|: Add one mana of any color."
 msgid ""
 "|tap|: Add one mana of any color among legendary permanents you control."
-msgstr "|tap|: Weź jedną manę dowolnego koloru."
+msgstr ""
+"|tap|: Weź jedną manę dowolnego koloru spośród legendarnych bytów pod twoim "
+"władaniem."
 
 #: ../../DMU.rst:947
 msgid ""
 "|mana_3|, |tap|, Exile Plaza of Heroes: Target legendary creature gains "
 "hexproof and indestructible until end of turn."
 msgstr ""
+"|mana_3|, |tap|, wygnaj ten byt: Wskazany legendarny stwór do końca tury "
+"zyskuje antyklątwę i niezniszczalność."
 
 #: ../../DMU.rst:954
 msgid ""
