@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2022.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-24 14:10+0200\n"
-"PO-Revision-Date: 2022-08-22 12:30+0000\n"
+"PO-Revision-Date: 2022-08-24 13:47+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dmu/pl/>\n"
 "Language: pl\n"
@@ -253,12 +253,17 @@ msgid ""
 "library, then put one of those cards into your hand and rest on the bottom "
 "of your library in a random order."
 msgstr ""
+"–1: Zapłać dowolną ilość many. Spójrz na tyle samo kart z wierzchu twojej "
+"biblioteki, po czym umieść jedną z owych kart w twojej ręce, a pozostałe "
+"losowo na spodzie twojej biblioteki."
 
 #: ../../DMU.rst:13
 msgid ""
 "−7: You get an emblem with \"Tap an untapped artifact you control: This "
 "emblem deals 1 damage to any target.\""
 msgstr ""
+"–7: Zyskujesz emblemat z \"Przekręć odkręcony artefakt pod twoim władaniem: "
+"Ten emblemat zadaje wskazanemu celowi 1 obrażenie.\""
 
 #: ../../DMU.rst:22
 msgid ""
@@ -272,17 +277,23 @@ msgid ""
 "As Anointed Peacekeeper enters the battlefield, look at an opponent's hand, "
 "then choose any card name."
 msgstr ""
+"Przy wejściu tego bytu na pole bitwy spójrz na rękę przeciwnika, po czym "
+"nazwij kartę."
 
 #: ../../DMU.rst:19
 msgid ""
 "Spells your opponents cast with the chosen name cost |mana_2| more to cast."
 msgstr ""
+"Rzucanie przez twoich przeciwników czarów o wybranej nazwie kosztuje o "
+"|mana_2| więcej."
 
 #: ../../DMU.rst:21
 msgid ""
 "Activated abilities of sources with the chosen name cost |mana_2| more to "
 "activate unless they're mana abilities."
 msgstr ""
+"Aktywacja aktywowanych zdolności źródeł o wybranej nazwie kosztuje o |mana_2|"
+" więcej, chyba że dają manę."
 
 #: ../../DMU.rst:32
 msgid ""
@@ -296,8 +307,8 @@ msgid ""
 "Kicker |mana_b| and/or |mana_r| (You may pay an additional |mana_b| and/or |"
 "mana_r| as you cast this spell.)"
 msgstr ""
-"Podbicie |mana_b| i/lub |mana_r| (Możesz zapłacić dodatkowe |mana_b| i/lub |"
-"mana_r| podczas rzucania tego czaru.)"
+"Podbicie |mana_b| i/lub |mana_r| (Rzucając ten czar możesz zapłacić "
+"dodatkowo |mana_b| i/lub |mana_r|.)"
 
 #: ../../DMU.rst:27
 msgid "Flying, lifelink"
@@ -338,16 +349,12 @@ msgstr ""
 "tury jego siłę do siły niniejszego.)"
 
 #: ../../DMU.rst:37
-#, fuzzy
-#| msgid ""
-#| "When Resolute Reinforcements enters the battlefield, create a 1/1 white "
-#| "Soldier creature token."
 msgid ""
 "When Argivian Cavalier enters the battlefield, create a 1/1 white Soldier "
 "creature token."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton białego stwora Piechur "
-"1/1."
+"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton białego stwora Piechur 1/"
+"1."
 
 #: ../../DMU.rst:44
 msgid ""
@@ -360,8 +367,7 @@ msgstr ""
 msgid ""
 "Kicker |mana_b| (You may pay an additional |mana_b| as you cast this spell.)"
 msgstr ""
-"Podbicie |mana_b| (Możesz zapłacić dodatkowe |mana_b| podczas rzucania tego "
-"czaru.)"
+"Podbicie |mana_b| (Rzucając ten czar możesz zapłacić dodatkowo |mana_b|.)"
 
 #: ../../DMU.rst:43
 msgid ""
@@ -409,16 +415,12 @@ msgid "Flash"
 msgstr "Błysk"
 
 #: ../../DMU.rst:57
-#, fuzzy
-#| msgid ""
-#| "Kicker |mana_2|\\ |mana_b| (You may pay an additional |mana_2|\\ |mana_b| "
-#| "as you cast this spell.)"
 msgid ""
 "Kicker |mana_2|\\ |mana_r| (You may pay an additional |mana_2|\\ |mana_r| as "
 "you cast this spell.)"
 msgstr ""
-"Podbicie |mana_2|\\ |mana_b| (Rzucając ten czar możesz dodatkowo zapłacić |"
-"mana_2|\\ |mana_g|.)"
+"Podbicie |mana_2|\\ |mana_r| (Rzucając ten czar możesz dodatkowo zapłacić "
+"|mana_2|\\ |mana_r|.)"
 
 #: ../../DMU.rst:59 ../../DMU.rst:65 ../../DMU.rst:103 ../../DMU.rst:125
 #: ../../DMU.rst:133 ../../DMU.rst:165 ../../DMU.rst:177 ../../DMU.rst:211
@@ -455,7 +457,7 @@ msgstr ""
 
 #: ../../DMU.rst:71
 msgid "First strike, vigilance, lifelink"
-msgstr ""
+msgstr "Pierwszy cios, czujność, więź życia"
 
 #: ../../DMU.rst:73
 msgid ""
@@ -543,15 +545,10 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:97 ../../DMU.rst:511
-#, fuzzy
-#| msgid ""
-#| "Kicker |mana_b| (You may pay an additional |mana_b| as you cast this "
-#| "spell.)"
 msgid ""
 "Kicker |mana_g| (You may pay an additional |mana_g| as you cast this spell.)"
 msgstr ""
-"Podbicie |mana_b| (Możesz zapłacić dodatkowe |mana_b| podczas rzucania tego "
-"czaru.)"
+"Podbicie |mana_g| (Rzucając ten czar możesz zapłacić dodatkowo |mana_g|.)"
 
 #: ../../DMU.rst:99
 #, fuzzy
@@ -602,8 +599,7 @@ msgstr ""
 msgid ""
 "Kicker |mana_u| (You may pay an additional |mana_u| as you cast this spell.)"
 msgstr ""
-"Podbicie |mana_u| (Możesz zapłacić dodatkowe |mana_u| podczas rzucania tego "
-"czaru.)"
+"Podbicie |mana_u| (Rzucając ten czar możesz zapłacić dodatkowo |mana_u|.)"
 
 #: ../../DMU.rst:117
 #, fuzzy
@@ -744,7 +740,7 @@ msgstr ""
 
 #: ../../DMU.rst:155 ../../DMU.rst:171 ../../DMU.rst:307 ../../DMU.rst:907
 msgid "Defender"
-msgstr ""
+msgstr "Obronność"
 
 #: ../../DMU.rst:157
 #, fuzzy
@@ -858,7 +854,7 @@ msgstr ""
 
 #: ../../DMU.rst:191
 msgid "Scry 1."
-msgstr ""
+msgstr "Wróż 1."
 
 #: ../../DMU.rst:202
 msgid ""
@@ -938,7 +934,7 @@ msgstr ""
 
 #: ../../DMU.rst:215
 msgid "Instant and sorcery spells you cast cost |mana_1| less to cast."
-msgstr ""
+msgstr "Rzucanie czarów sztuczek i obrzędów kosztuje cię o |mana_1| mniej."
 
 #: ../../DMU.rst:222
 msgid ""
@@ -1010,16 +1006,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:237
-#, fuzzy
-#| msgid ""
-#| "Kicker |mana_1|\\ |mana_g| (You may pay an additional |mana_1|\\ |mana_g| "
-#| "as you cast this spell.)"
 msgid ""
 "Kicker |mana_1|\\ |mana_b| (You may pay an additional |mana_1|\\ |mana_b| as "
 "you cast this spell.)"
 msgstr ""
-"Podbicie |mana_1|\\ |mana_g| (Rzucając ten czar możesz dodatkowo zapłacić |"
-"mana_1|\\ |mana_g|.)"
+"Podbicie |mana_1|\\ |mana_b| (Rzucając ten czar możesz dodatkowo zapłacić "
+"|mana_1|\\ |mana_b|.)"
 
 #: ../../DMU.rst:239
 msgid ""
@@ -1037,8 +1029,7 @@ msgstr ""
 msgid ""
 "Kicker |mana_w| (You may pay an additional |mana_w| as you cast this spell.)"
 msgstr ""
-"Podbicie |mana_w| (Możesz zapłacić dodatkowe |mana_w| podczas rzucania tego "
-"czaru.)"
+"Podbicie |mana_w| (Rzucając ten czar możesz zapłacić dodatkowo |mana_w|.)"
 
 #: ../../DMU.rst:245
 msgid "If this spell was kicked, create a 1/1 white Soldier creature token."
@@ -1065,8 +1056,8 @@ msgid ""
 "Kicker |mana_2|\\ |mana_b| (You may pay an additional |mana_2|\\ |mana_b| as "
 "you cast this spell.)"
 msgstr ""
-"Podbicie |mana_2|\\ |mana_b| (Rzucając ten czar możesz dodatkowo zapłacić |"
-"mana_2|\\ |mana_g|.)"
+"Podbicie |mana_2|\\ |mana_b| (Rzucając ten czar możesz dodatkowo zapłacić "
+"|mana_2|\\ |mana_b|.)"
 
 #: ../../DMU.rst:253
 msgid ""
@@ -1087,13 +1078,6 @@ msgid "Flying, ward |mana_2|"
 msgstr "Latanie, opieka |mana_2|"
 
 #: ../../DMU.rst:259
-#, fuzzy
-#| msgid ""
-#| "Domain — Whenever Sphinx of Clear Skies deals combat damage to a player, "
-#| "reveal the top X cards of your library, where X is the number of basic "
-#| "land types among lands you control. An opponent separates those cards "
-#| "into two piles. Put one pile into your hand and the other into your "
-#| "graveyard."
 msgid ""
 "Domain — Whenever Sphinx of Clear Skies deals combat damage to a player, "
 "reveal the top X cards of your library, where X is the number of basic land "
@@ -1104,7 +1088,8 @@ msgstr ""
 "Domena — Ilekroć ten stwór zada graczowi obrażenia bojowe, ujawnij X "
 "wierzchnich kart twojej biblioteki, gdzie X jest liczbą bazowych typów lądów "
 "pośród lądów pod twoim władaniem. Przeciwnik rozdziela owe karty na dwa "
-"stosy. Umieść jeden z nich w twojej ręce, a drugi w twoim cmentarzu."
+"stosy. Umieść jeden z nich w twojej ręce, a drugi w twoim cmentarzu. (Stosy "
+"mogą być puste.)"
 
 #: ../../DMU.rst:268
 msgid ""
@@ -1114,16 +1099,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:263
-#, fuzzy
-#| msgid ""
-#| "Kicker |mana_1|\\ |mana_g| (You may pay an additional |mana_1|\\ |mana_g| "
-#| "as you cast this spell.)"
 msgid ""
 "Kicker |mana_1|\\ |mana_r| (You may pay an additional |mana_1|\\ |mana_r| as "
 "you cast this spell.)"
 msgstr ""
-"Podbicie |mana_1|\\ |mana_g| (Rzucając ten czar możesz dodatkowo zapłacić |"
-"mana_1|\\ |mana_g|.)"
+"Podbicie |mana_1|\\ |mana_r| (Rzucając ten czar możesz dodatkowo zapłacić "
+"|mana_1|\\ |mana_r|.)"
 
 #: ../../DMU.rst:265
 msgid ""
@@ -1188,14 +1169,8 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:287
-#, fuzzy
-#| msgid ""
-#| "Kicker |mana_1|\\ |mana_g| (You may pay an additional |mana_1|\\ |mana_g| "
-#| "as you cast this spell.)"
 msgid "Kicker |mana_1|\\ |mana_r| and/or |mana_1|\\ |mana_g|"
-msgstr ""
-"Podbicie |mana_1|\\ |mana_g| (Rzucając ten czar możesz dodatkowo zapłacić |"
-"mana_1|\\ |mana_g|.)"
+msgstr "Podbicie |mana_1|\\ |mana_r| i/lub |mana_1|\\ |mana_g|"
 
 #: ../../DMU.rst:289
 #, fuzzy
@@ -1258,16 +1233,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:309
-#, fuzzy
-#| msgid ""
-#| "|mana_w|\\ |mana_b|, |tap|, Sacrifice another creature: Put a +1/+1 "
-#| "counter on each creature you control."
 msgid ""
 "|mana_2|\\ |mana_b|, |tap|: Each opponent loses X life, where X is the "
 "number of creatures with defender you control."
 msgstr ""
-"|mana_w|\\ |mana_b|, |tap|, poświęć innego stwora: Umieść znacznik +1/+1 na "
-"każdym stworze pod twoim władaniem."
+"|mana_2|\\ |mana_b|, |tap|: Każdy przeciwnik traci po X żyć, gdzie X jest "
+"liczbą stworów pod twoim władaniem mających obronność."
 
 #: ../../DMU.rst:314
 msgid ""
@@ -1298,10 +1269,8 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:319
-#, fuzzy
-#| msgid "Draw a card."
 msgid "Draw X cards."
-msgstr "Dobierz kartę."
+msgstr "Dobierz X kart."
 
 #: ../../DMU.rst:326
 msgid ""
@@ -1467,6 +1436,8 @@ msgid ""
 "Target opponent reveals their hand. You choose a nonland card from it. That "
 "player discards that card."
 msgstr ""
+"Wskazany przeciwnik ujawnia swoją rękę. Wybierz z niej nie-lądowę kartę. Ów "
+"gracz odrzuca ową kartę."
 
 #: ../../DMU.rst:376
 msgid ""
@@ -1529,16 +1500,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:393
-#, fuzzy
-#| msgid ""
-#| "Kicker |mana_b| and/or |mana_r| (You may pay an additional |mana_b| and/"
-#| "or |mana_r| as you cast this spell.)"
 msgid ""
 "Kicker |mana_g| and/or |mana_w| (You may pay an additional |mana_g| and/or |"
 "mana_w| as you cast this spell.)"
 msgstr ""
-"Podbicie |mana_b| i/lub |mana_r| (Możesz zapłacić dodatkowe |mana_b| i/lub |"
-"mana_r| podczas rzucania tego czaru.)"
+"Podbicie |mana_g| i/lub |mana_w| (Rzucając ten czar możesz zapłacić "
+"dodatkowe |mana_g| i/lub |mana_w|.)"
 
 #: ../../DMU.rst:395
 #, fuzzy
@@ -1661,16 +1628,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:439
-#, fuzzy
-#| msgid ""
-#| "Kicker |mana_1|\\ |mana_u| (You may pay an additional |mana_1|\\ |mana_u| "
-#| "as you cast this spell.)"
 msgid ""
 "Kicker |mana_2|\\ |mana_u| (You may pay an additional |mana_2|\\ |mana_u| as "
 "you cast this spell.)"
 msgstr ""
-"Podbicie |mana_1|\\ |mana_u| (Rzucając ten czar możesz dodatkowo zapłacić |"
-"mana_1|\\ |mana_u|.)"
+"Podbicie |mana_2|\\ |mana_u| (Rzucając ten czar możesz zapłacić dodatkowo "
+"|mana_2|\\ |mana_u|.)"
 
 #: ../../DMU.rst:441
 msgid ""
@@ -1865,7 +1828,7 @@ msgstr ""
 
 #: ../../DMU.rst:499
 msgid "Other Goblins you control get +1/+1."
-msgstr ""
+msgstr "Inne Gobliny pod twoim władaniem dostają +1/+1."
 
 #: ../../DMU.rst:501
 msgid ""
@@ -1948,9 +1911,8 @@ msgid ""
 "additional |mana_1|\\ |mana_w| and/or |mana_1|\\ |mana_u| as you cast this "
 "spell.)"
 msgstr ""
-"Podbicie |mana_1|\\ |mana_w| i/lub |mana_1|\\ |mana_u| (Możesz zapłacić "
-"dodatkowe |mana_1|\\ |mana_w| i/lub |mana_1|\\ |mana_u| podczas rzucania "
-"tego czaru.)"
+"Podbicie |mana_1|\\ |mana_w| i/lub |mana_1|\\ |mana_u| (Rzucając ten czar "
+"możesz zapłacić dodatkowo |mana_1|\\ |mana_w| i/lub |mana_1|\\ |mana_u|.)"
 
 #: ../../DMU.rst:529
 msgid ""
@@ -1972,21 +1934,19 @@ msgstr ""
 
 #: ../../DMU.rst:535
 msgid "Choose one —"
-msgstr ""
+msgstr "Wybierz jedno —"
 
 #: ../../DMU.rst:537
 msgid ""
 "When you cast your next instant or sorcery spell this turn, copy that spell. "
 "You may choose new targets for the copy."
 msgstr ""
+"Kiedy rzucisz w tej turze swój kolejny czar sztuczki lub obrzędu, skopiuj ów "
+"czar. Możesz wskazać nowe cele dla kopii."
 
 #: ../../DMU.rst:539
-#, fuzzy
-#| msgid ""
-#| "|mana_4|\\ |mana_w|: Creatures you control get +1/+1 until end of turn."
 msgid "Target creature you control gains double strike until end of turn."
-msgstr ""
-"|mana_4|\\ |mana_w|: Stwory pod twoim władaniem dostają do końca tury +1/+1."
+msgstr "Wskazany stwór pod twoim władaniem do końca tury zyskuje podwójny cios."
 
 #: ../../DMU.rst:550
 msgid ""
@@ -2118,16 +2078,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:595
-#, fuzzy
-#| msgid ""
-#| "Kicker |mana_1|\\ |mana_u| (You may pay an additional |mana_1|\\ |mana_u| "
-#| "as you cast this spell.)"
 msgid ""
 "Kicker |mana_3|\\ |mana_u| (You may pay an additional |mana_3|\\ |mana_u| as "
 "you cast this spell.)"
 msgstr ""
-"Podbicie |mana_1|\\ |mana_u| (Rzucając ten czar możesz dodatkowo zapłacić |"
-"mana_1|\\ |mana_u|.)"
+"Podbicie |mana_3|\\ |mana_u| (Rzucając ten czar możesz dodatkowo zapłacić "
+"|mana_3|\\ |mana_u|.)"
 
 #: ../../DMU.rst:597
 #, fuzzy
@@ -2149,16 +2105,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:601
-#, fuzzy
-#| msgid ""
-#| "Domain — Create a 3/3 green Beast creature token for each basic land type "
-#| "among lands you control."
 msgid ""
 "Domain — Target creature gets +1/+1 until end of turn for each basic land "
 "type among lands you control."
 msgstr ""
-"Domena — Stwórz żeton zielonego stwora Bestia 3/3 za każdy typ bazowego lądu "
-"pośród lądów pod twoim władaniem."
+"Domena — Wskazany stwór dostaje do końca tury +1/+1 za każdy typ bazowego "
+"lądu pośród lądów pod twoim władaniem."
 
 #: ../../DMU.rst:608
 msgid ""
@@ -2407,16 +2359,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:669
-#, fuzzy
-#| msgid ""
-#| "Kicker |mana_b| and/or |mana_r| (You may pay an additional |mana_b| and/"
-#| "or |mana_r| as you cast this spell.)"
 msgid ""
 "Kicker |mana_u| and/or |mana_b| (You may pay an additional |mana_u| and/or |"
 "mana_b| as you cast this spell.)"
 msgstr ""
-"Podbicie |mana_b| i/lub |mana_r| (Możesz zapłacić dodatkowe |mana_b| i/lub |"
-"mana_r| podczas rzucania tego czaru.)"
+"Podbicie |mana_u| i/lub |mana_b| (Rzucając ten czar możesz zapłacić "
+"dodatkowo |mana_u| i/lub |mana_b|.)"
 
 #: ../../DMU.rst:671
 msgid ""
@@ -2562,12 +2510,11 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:723
-#, fuzzy
-#| msgid "When Mesa Cavalier enters the battlefield, you gain 2 life."
 msgid ""
 "Whenever another creature enters the battlefield under your control, you "
 "gain 1 life."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 2 życia."
+msgstr ""
+"Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, zyskaj 1 życie."
 
 #: ../../DMU.rst:725
 msgid "Whenever another creature you control dies, each opponent loses 1 life."
@@ -2611,7 +2558,7 @@ msgstr ""
 
 #: ../../DMU.rst:739
 msgid "Other creatures you control get +1/+1."
-msgstr ""
+msgstr "Inne stwory pod twoim władaniem dostają +1/+1."
 
 #: ../../DMU.rst:741
 msgid ""
@@ -2784,11 +2731,11 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:795
-#, fuzzy
-#| msgid "Reach (This creature can block creatures with flying.)"
 msgid ""
 "Menace (This creature can't be blocked except by two or more creatures.)"
-msgstr "Zasięg (Ten stwór może blokować stwory mające latanie.)"
+msgstr ""
+"Złowrogość (Ten stwór nie może być blokowany, chyba że przez co najmniej dwa "
+"stwory.)"
 
 #: ../../DMU.rst:797
 msgid ""
@@ -2891,7 +2838,7 @@ msgstr ""
 
 #: ../../DMU.rst:831
 msgid "Spells you cast of the chosen type cost |mana_1| less to cast."
-msgstr ""
+msgstr "Rzucane przez ciebie czary wybranego typu kosztują o |mana_1| mniej."
 
 #: ../../DMU.rst:833
 msgid ""
@@ -3086,18 +3033,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:889
-#, fuzzy
-#| msgid ""
-#| "Domain — |mana_5|\\ |mana_r|: Radha's Firebrand gets +2/+2 until end of "
-#| "turn. This ability costs |mana_1| less to activate for each basic land "
-#| "type among lands you control. Activate only once each turn."
 msgid ""
 "Domain — |mana_5|, |tap|: Draw a card. This ability costs |mana_1| less to "
 "activate for each basic land type among lands you control."
 msgstr ""
-"Domena — |mana_5|\\ |mana_r|: Ten stwór dostaje do końca tury +2/+2. "
-"Aktywacja tej zdolności kosztuje o |mana_1| mniej za każdy bazowy typ lądu "
-"pośród lądów pod twoim władaniem. Aktywuj tylko raz na turę."
+"Domena — |mana_5|, |tap|: Dobierz kartę. Aktywacja tej zdolności kosztuje o "
+"|mana_1| mniej za każdy typ bazowego lądu pośród lądów pod twoim władaniem."
 
 #: ../../DMU.rst:898
 msgid ""
