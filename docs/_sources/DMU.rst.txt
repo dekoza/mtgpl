@@ -73,7 +73,7 @@
    When Danitha, Benalia's Hope enters the battlefield, you may put an Aura or Equipment card from your hand onto the battlefield attached to Danitha.
 
 
-:mtgtip:`Defiler of Faith<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/c/2cfe404d-1a27-4627-9284-56188d92d5d5.jpg?1661101894|https://scryfall.com/card/dmu/18/defiler-of-faith?utm_source=api>`
+:mtgtip:`Defiler of Faith<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/c/2cfe404d-1a27-4627-9284-56188d92d5d5.jpg?1661336513|https://scryfall.com/card/dmu/16/defiler-of-faith?utm_source=api>`
    Vigilance
 
    As an additional cost to cast white permanent spells, you may pay 2 life. Those spells cost |mana_w| less to cast if you paid life this way. This effect reduces only the amount of white mana you pay.
@@ -181,7 +181,9 @@
    Whenever you cast a blue permanent spell, draw a card.
 
 
-:mtgtip:`Djinn of the Fountain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/5/f55606da-de3e-4375-925b-cc16b03b6365.jpg?1661301125|https://scryfall.com/card/dmu/47/djinn-of-the-fountain?utm_source=api>`
+:mtgtip:`Djinn of the Fountain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/5/f55606da-de3e-4375-925b-cc16b03b6365.jpg?1661329777|https://scryfall.com/card/dmu/47/djinn-of-the-fountain?utm_source=api>`
+   Flying
+
    Whenever you cast an instant or sorcery spell, choose one —
 
    • Djinn of the Fountain gets +1/+1 until end of turn.
@@ -253,6 +255,12 @@
    Return target creature or planeswalker you don't control to its owner's hand. If this spell was kicked, put that permanent on the bottom of its owner's library instead.
 
 
+:mtgtip:`Silver Scrutiny<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/b/8b650ab6-9c22-424f-99e5-8ef5235a18a3.jpg?1661336520|https://scryfall.com/card/dmu/65/silver-scrutiny?utm_source=api>`
+   You may cast Silver Scrutiny as though it had flash if X is 3 or less.
+
+   Draw X cards.
+
+
 :mtgtip:`Sphinx of Clear Skies<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/7/974c9e0c-07b2-4535-a3d0-bb827b651075.jpg?1661154305|https://scryfall.com/card/dmu/67/sphinx-of-clear-skies?utm_source=api>`
    Flying, ward |mana_2|
 
@@ -311,12 +319,6 @@
 
 :mtgtip:`Braids, Arisen Nightmare<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/f/4ff97c69-6a6b-401c-b0a1-55fa81045d19.jpg?1660840654|https://scryfall.com/card/dmu/84/braids-arisen-nightmare?utm_source=api>`
    At the beginning of your end step, you may sacrifice an artifact, creature, enchantment, land, or planeswalker. If you do, each opponent may sacrifice a permanent that shares a card type with it. For each opponent who doesn't, that player loses 2 life and you draw a card.
-
-
-:mtgtip:`Silver Scrutiny<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/b/8b650ab6-9c22-424f-99e5-8ef5235a18a3.jpg?1661323524|https://scryfall.com/card/dmu/85/silver-scrutiny?utm_source=api>`
-   You may cast Silver Scrutiny as though it had flash if X is three or less.
-
-   Draw X cards.
 
 
 :mtgtip:`Cult Conscript<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/e/fed77513-94ab-44e2-b9a1-30ba927cd6ee.jpg?1661089951|https://scryfall.com/card/dmu/88/cult-conscript?utm_source=api>`
@@ -863,7 +865,7 @@
    |mana_1|\ |mana_w|: Target non-Aura enchantment you control becomes a creature in addition to its other types and has base power and base toughness each equal to its mana value.
 
 
-:mtgtip:`Automatic Librarian<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/c/6c3d7ece-0f57-4213-a0ab-a9d7c1536ebb.jpg?1661301621|https://scryfall.com/card/dmu/229/automatic-librarian?utm_source=api>`
+:mtgtip:`Automatic Librarian<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/c/6c3d7ece-0f57-4213-a0ab-a9d7c1536ebb.jpg?1661329799|https://scryfall.com/card/dmu/229/automatic-librarian?utm_source=api>`
    When Automatic Librarian enters the battlefield, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)
 
 
