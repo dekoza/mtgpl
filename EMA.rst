@@ -347,7 +347,7 @@
    Phyrexian Ingester gets +X/+Y, where X is the exiled creature card's power and Y is its toughness.
 
 
-:mtgtip:`Prodigal Sorcerer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/0/50aef269-55f9-4d84-8bc5-29e794297f11.jpg?1580014085|https://scryfall.com/card/ema/67/prodigal-sorcerer?utm_source=api>`
+:mtgtip:`Prodigal Sorcerer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/0/50aef269-55f9-4d84-8bc5-29e794297f11.jpg?1661399689|https://scryfall.com/card/ema/67/prodigal-sorcerer?utm_source=api>`
    |tap|: Prodigal Sorcerer deals 1 damage to any target.
 
 

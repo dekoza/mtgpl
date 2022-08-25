@@ -515,7 +515,7 @@
    Sacrifice a Food: Return Cauldron Familiar from your graveyard to the battlefield.
 
 
-:mtgtip:`A-Cauldron Familiar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/5/c55cdc15-e289-49a0-94d9-d0a118ad0a2a.jpg?1657064637|https://scryfall.com/card/eld/A-81/a-cauldron-familiar?utm_source=api>`
+:mtgtip:`A-Cauldron Familiar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/5/c55cdc15-e289-49a0-94d9-d0a118ad0a2a.jpg?1658633053|https://scryfall.com/card/eld/A-81/a-cauldron-familiar?utm_source=api>`
    A-Cauldron Familiar can't block.
 
    When Cauldron Familiar enters the battlefield, each opponent loses 1 life and you gain 1 life.

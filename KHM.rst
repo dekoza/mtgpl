@@ -1987,7 +1987,7 @@
    |tap|: Add |mana_g|\ |mana_g|\ |mana_g|.
 
 
-:mtgtip:`A-Canopy Tactician<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/9/693eb7cb-a78c-4d79-b4de-f59da76cce31.jpg?1649275386|https://scryfall.com/card/khm/A-378/a-canopy-tactician?utm_source=api>`
+:mtgtip:`A-Canopy Tactician<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/9/693eb7cb-a78c-4d79-b4de-f59da76cce31.jpg?1659249532|https://scryfall.com/card/khm/A-378/a-canopy-tactician?utm_source=api>`
    Other Elves you control get +1/+1.
 
    |tap|: Add |mana_g|\ |mana_g|\ |mana_g|.

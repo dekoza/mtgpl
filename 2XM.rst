@@ -391,7 +391,7 @@
    If you would draw a card, draw two cards instead.
 
 
-:mtgtip:`Treasure Mage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/0/c0ea2fcd-f090-4545-a055-30d7980ad66f.jpg?1598304392|https://scryfall.com/card/2xm/73/treasure-mage?utm_source=api>`
+:mtgtip:`Treasure Mage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/0/c0ea2fcd-f090-4545-a055-30d7980ad66f.jpg?1658650104|https://scryfall.com/card/2xm/73/treasure-mage?utm_source=api>`
    When Treasure Mage enters the battlefield, you may search your library for an artifact card with mana value 6 or greater, reveal it, put it into your hand, then shuffle.
 
 

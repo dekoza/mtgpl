@@ -767,7 +767,7 @@
    |tap|: Add |mana_r|\ |mana_g|.
 
 
-:mtgtip:`Jungle Shrine<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/7/57e7fedd-3e02-462d-b13e-32c34eedd069.jpg?1604196274|https://scryfall.com/card/znc/132/jungle-shrine?utm_source=api>`
+:mtgtip:`Jungle Shrine<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/7/57e7fedd-3e02-462d-b13e-32c34eedd069.jpg?1660841393|https://scryfall.com/card/znc/132/jungle-shrine?utm_source=api>`
    Jungle Shrine enters the battlefield tapped.
 
    |tap|: Add |mana_r|, |mana_g|, or |mana_w|.

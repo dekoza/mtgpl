@@ -907,8 +907,8 @@
    As long as Armory Veteran is equipped, it has menace. (It can't be blocked except by two or more creatures.)
 
 
-:mtgtip:`A-Armory Veteran<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/2/423f13ba-e165-4add-9935-d88503e1e761.jpg?1649274866|https://scryfall.com/card/afr/A-130/a-armory-veteran?utm_source=api>`
-   Ward — Pay 2 life.
+:mtgtip:`A-Armory Veteran<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/2/423f13ba-e165-4add-9935-d88503e1e761.jpg?1660839671|https://scryfall.com/card/afr/A-130/a-armory-veteran?utm_source=api>`
+   Ward—Pay 2 life.
 
    As long as Armory Veteran is equipped, it has menace. (It can't be blocked except by two or more creatures.)
 

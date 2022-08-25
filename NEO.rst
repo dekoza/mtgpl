@@ -535,7 +535,7 @@
    Whenever a nontoken artifact enters the battlefield under your control, you may pay |mana_1|\ |mana_u|. If you do, create a token that's a copy of that artifact.
 
 
-:mtgtip:`Saiba Trespassers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/3/c3dd7f1a-5d43-4218-a9d8-7cc4f6a18ecd.jpg?1654566940|https://scryfall.com/card/neo/77/saiba-trespassers?utm_source=api>`
+:mtgtip:`Saiba Trespassers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/3/c3dd7f1a-5d43-4218-a9d8-7cc4f6a18ecd.jpg?1661094142|https://scryfall.com/card/neo/77/saiba-trespassers?utm_source=api>`
    Channel — |mana_3|\ |mana_u|, Discard Saiba Trespassers: Tap up to two target creatures you don't control. Those creatures don't untap during their controller's next untap step.
 
 
@@ -1027,7 +1027,7 @@
    Target creature gets +1/+0 and gains first strike until end of turn.
 
 
-:mtgtip:`Kumano Faces Kakkazan<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/8/28d92cad-45b0-479d-97fc-c175f3a3f259.jpg?1656453251|https://scryfall.com/card/neo/152/kumano-faces-kakkazan-etching-of-kumano?utm_source=api>`
+:mtgtip:`Kumano Faces Kakkazan<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/8/28d92cad-45b0-479d-97fc-c175f3a3f259.jpg?1660075559|https://scryfall.com/card/neo/152/kumano-faces-kakkazan-etching-of-kumano?utm_source=api>`
    (As this Saga enters and after your draw step, add a lore counter.)
 
    I — Kumano Faces Kakkazan deals 1 damage to each opponent and each planeswalker they control.
@@ -1037,7 +1037,7 @@
    III — Exile this Saga, then return it to the battlefield transformed under your control.
 
 
-:mtgtip:`Etching of Kumano<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/2/8/28d92cad-45b0-479d-97fc-c175f3a3f259.jpg?1656453251|https://scryfall.com/card/neo/152/kumano-faces-kakkazan-etching-of-kumano?utm_source=api>`
+:mtgtip:`Etching of Kumano<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/2/8/28d92cad-45b0-479d-97fc-c175f3a3f259.jpg?1660075559|https://scryfall.com/card/neo/152/kumano-faces-kakkazan-etching-of-kumano?utm_source=api>`
    Haste
 
    If a creature dealt damage this turn by a source you controlled would die, exile it instead.

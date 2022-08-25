@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2022.8\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-08-22 09:12+0200\n"
+"POT-Creation-Date: 2022-08-25 14:27+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -867,7 +867,8 @@ msgid ":mtgtip:`Allosaurus Shepherd<https://c1.scryfall.com/file/scryfall-cards/
 msgstr ""
 
 #: ../../JMP.rst:163
-msgid "Allosaurus Shepherd can't be countered."
+#: ../../JMP.rst:1717
+msgid "This spell can't be countered."
 msgstr ""
 
 #: ../../JMP.rst:165
@@ -3659,10 +3660,6 @@ msgstr ""
 
 #: ../../JMP.rst:1720
 msgid ":mtgtip:`Volcanic Fallout<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/c/ecba926b-915c-4dd2-84f3-019775e1cc14.jpg?1601081979|https://scryfall.com/card/jmp/368/volcanic-fallout?utm_source=api>`"
-msgstr ""
-
-#: ../../JMP.rst:1717
-msgid "This spell can't be countered."
 msgstr ""
 
 #: ../../JMP.rst:1719

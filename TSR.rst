@@ -1283,7 +1283,7 @@
    |mana_g|: Regenerate Mire Boa. (The next time this creature would be destroyed, instead tap it, remove it from combat, and heal all damage on it.)
 
 
-:mtgtip:`Muraganda Petroglyphs<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/1/b103cb22-93b2-4206-9f80-5f966155e07e.jpg?1619398431|https://scryfall.com/card/tsr/220/muraganda-petroglyphs?utm_source=api>`
+:mtgtip:`Muraganda Petroglyphs<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/1/b103cb22-93b2-4206-9f80-5f966155e07e.jpg?1658648183|https://scryfall.com/card/tsr/220/muraganda-petroglyphs?utm_source=api>`
    Creatures with no abilities get +2/+2.
 
 

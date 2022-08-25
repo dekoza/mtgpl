@@ -117,7 +117,7 @@
    When Leyline Binding enters the battlefield, exile target nonland permanent an opponent controls until Leyline Binding leaves the battlefield.
 
 
-:mtgtip:`"Love Song of Night and Day"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/e/1e08d288-2f09-4856-a9ed-cc8aa8d953d7.jpg?1661362157|https://scryfall.com/card/dmu/25/love-song-of-night-and-day?utm_source=api>`
+:mtgtip:`"Love Song of Night and Day"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/e/1e08d288-2f09-4856-a9ed-cc8aa8d953d7.jpg?1661419959|https://scryfall.com/card/dmu/25/love-song-of-night-and-day?utm_source=api>`
    Read ahead (Choose a chapter and start with that many lore counters. Add one after your draw step. Skipped chapters don't trigger. Sacrifice after III.)
 
    I — You and target opponent each draw two cards.
@@ -139,6 +139,12 @@
    Lifelink
 
    When "Unburial Priest" enters the battlefield, if it was kicked, return target creature card from your graveyard to your hand.
+
+
+:mtgtip:`Prayer of Binding<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/2/322f90b6-6b49-458d-9d5b-b601bfdd0af8.jpg?1661440736|https://scryfall.com/card/dmu/28/prayer-of-binding?utm_source=api>`
+   Flash
+
+   When Prayer of Binding enters the battlefield, exile up to one target nonland permanent an opponent controls until Prayer of Binding leaves the battlefield. You gain 2 life.
 
 
 :mtgtip:`Resolute Reinforcements<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/e/3e11ad33-b9d7-43ef-840a-61955683b599.jpg?1660845756|https://scryfall.com/card/dmu/29/resolute-reinforcements?utm_source=api>`
@@ -201,10 +207,24 @@
    Whenever another creature with defender enters the battlefield under your control, create a 1/1 white Bird creature token with flying.
 
 
+:mtgtip:`"Executive Librarian"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/f/9fca4c4f-a77b-483e-9da4-574ba2e3d179.jpg?1661440435|https://scryfall.com/card/dmu/40/executive-librarian?utm_source=api>`
+   At the beginning of each player's draw step, that player may draw an additional card. If they do, spells they cast this turn cost |mana_2| more to cast.
+
+
 :mtgtip:`Academy Wall<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/2/d2028115-f0de-4e8b-99bc-7369352e1e07.jpg?1661378316|https://scryfall.com/card/dmu/41/academy-wall?utm_source=api>`
    Defender
 
    Whenever you cast an instant or sorcery spell, you may draw a card. If you do, discard a card. This ability triggers only once each turn.
+
+
+:mtgtip:`Aether Channeler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/0/60afeb75-2c1e-4634-8c83-88b1dddb77c2.jpg?1661440143|https://scryfall.com/card/dmu/42/aether-channeler?utm_source=api>`
+   When Aether Channeler enters the battlefield, choose one —
+
+   • Create a 1/1 white Bird creature token with flying.
+
+   • Return another target nonland permanent to its owner's hand.
+
+   • Draw a card.
 
 
 :mtgtip:`Battlewing Mystic<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/0/000376ef-8b6c-490d-98cb-d6de15b2e585.jpg?1661378259|https://scryfall.com/card/dmu/43/battlewing-mystic?utm_source=api>`
@@ -293,7 +313,7 @@
    III — Destroy all creatures. For each creature destroyed this way, its controller creates a 2/2 black Phyrexian creature token.
 
 
-:mtgtip:`Phyrexian Espionage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/b/0b983366-385f-41a3-aa46-20151e68d140.jpg?1661326351|https://scryfall.com/card/dmu/60/phyrexian-espionage?utm_source=api>`
+:mtgtip:`Phyrexian Espionage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/b/0b983366-385f-41a3-aa46-20151e68d140.jpg?1661419919|https://scryfall.com/card/dmu/60/phyrexian-espionage?utm_source=api>`
    Kicker |mana_1|\ |mana_b| (You may pay an additional |mana_1|\ |mana_b| as you cast this spell.)
 
    Draw two cards. If this spell was kicked, each opponent discards a card.
@@ -479,6 +499,12 @@
    Whenever one or more other creatures die, put a +1/+1 counter on Sengir Connoisseur. This aility triggers only once each turn.
 
 
+:mtgtip:`Shadow-Rite Priest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/9/c9e43116-a489-4557-a47f-623d915a2b79.jpg?1661443057|https://scryfall.com/card/dmu/106/shadow-rite-priest?utm_source=api>`
+   Other Clerics you control get +1/+1.
+
+   |mana_3|\ |mana_b|\ |mana_b|, |tap|, Sacrifice another Cleric: Search your library for a black creature card, put it onto the battlefield, then shuffle.
+
+
 :mtgtip:`Sheoldred, the Apocalypse<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/6/d67be074-cdd4-41d9-ac89-0a0456c4e4b2.jpg?1660839337|https://scryfall.com/card/dmu/107/sheoldred-the-apocalypse?utm_source=api>`
    Deathtouch
 
@@ -539,6 +565,14 @@
 
 :mtgtip:`Chaotic Transformation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bdfb44f1-e366-437a-bde3-59bfdb362864.jpg?1661230523|https://scryfall.com/card/dmu/117/chaotic-transformation?utm_source=api>`
    Exile up to one target artifact, up to one target creature, up to one target enchantment, up to one target planeswalker, and/or up to one target land. For each permanent exiled this way, its controller reveals cards from the top of their library until they reveal a card that shares a card type with it, puts that card onto the battlefield, then shuffles.
+
+
+:mtgtip:`Defiler of Instinct<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/e/0e76e0cc-caff-4b15-b550-39e2324c8c95.jpg?1661439827|https://scryfall.com/card/dmu/119/defiler-of-instinct?utm_source=api>`
+   First strike
+
+   As an additional cost to cast red permanent spells, you may pay 2 life. Those spells cost |mana_r| less to cast if you paid life this way. This effect reduces only the amount of red mana you pay.
+
+   Whenever you cast a red permanent spell, Defiler of Instinct deals 1 damage to any target.
 
 
 :mtgtip:`Dragon Whelp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/1/d13d40b9-319b-4630-a5cd-228ff2f24367.jpg?1661025265|https://scryfall.com/card/dmu/120/dragon-whelp?utm_source=api>`
@@ -635,6 +669,16 @@
    Shivan Devastator enters the battlefield with X +1/+1 counters on it.
 
 
+:mtgtip:`Smash to Dust<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/4/747881c7-3788-4dd6-b78d-b2a5ded20e14.jpg?1661419822|https://scryfall.com/card/dmu/144/smash-to-dust?utm_source=api>`
+   Choose one —
+
+   • Destroy target artifact.
+
+   • Destroy target creature with defender.
+
+   • Smash to Dust deals 1 damage to each creature your opponents control.
+
+
 :mtgtip:`Sprouting Goblin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/0/602f5370-d096-4765-b612-16bcec3aafa7.jpg?1661301743|https://scryfall.com/card/dmu/145/sprouting-goblin?utm_source=api>`
    Kicker |mana_g| (You may pay an additional |mana_g| as you cast this spell.)
 
@@ -659,7 +703,7 @@
    Temporal Firestorm deals 5 damage to each creature and each planeswalker.
 
 
-:mtgtip:`Thrill of Possibility<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/5/25e5dc88-9573-4eaa-bd37-eb0dee4add03.jpg?1661384198|https://scryfall.com/card/dmu/148/thrill-of-possibility?utm_source=api>`
+:mtgtip:`Thrill of Possibility<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/5/25e5dc88-9573-4eaa-bd37-eb0dee4add03.jpg?1661392633|https://scryfall.com/card/dmu/148/thrill-of-possibility?utm_source=api>`
    As an additional cost to cast this spell, discard a card.
 
    Draw two cards.
@@ -793,6 +837,16 @@
    Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. If this spell was kicked, create two 1/1 white Soldier creature tokens.
 
 
+:mtgtip:`"Ape of Industry"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/9/b987664f-0b74-4c0a-b306-14767a55559a.jpg?1661443047|https://scryfall.com/card/dmu/177/ape-of-industry?utm_source=api>`
+   Whenever you cast a creature spell, choose one —
+
+   • Destroy target artifact or enchantment.
+
+   • Look at the top five cards of your library. You may put a land card from among them onto the battlefield tapped. Put the rest on the bottom of your library in a random order.
+
+   • You gain 4 life.
+
+
 :mtgtip:`Slimefoot's Survey<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/2/622f96fc-179a-4ff6-95a5-de721492f7eb.jpg?1661189720|https://scryfall.com/card/dmu/178/slimefoots-survey?utm_source=api>`
    Domain — Search your library for up to two land cards that each have a basic land type, put them into the battlefield tapped, then shuffle. Look at the top X cards of your library, where X is the number of basic land types among lands you control. Put up to one of them on top of your library and the rest on the bottom of your library in a random order.
 
@@ -869,6 +923,10 @@
    Trample
 
    When Yavimaya Iconoclast enters the battlefield, if it was kicked, it gets +1/+1 and gains haste until end of turn.
+
+
+:mtgtip:`Yavimaya Sojourner<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/7/c7fdb424-4d2c-437e-b2a2-8bc56c028338.jpg?1661413327|https://scryfall.com/card/dmu/191/yavimaya-sojourner?utm_source=api>`
+   Domain — This spell costs |mana_1| less to cast for each basic land type among lands you control.
 
 
 :mtgtip:`Ajani, Sleeper Agent<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/7641f4d9-4614-41c8-87f5-4845bd78e9b3.jpg?1660839093|https://scryfall.com/card/dmu/192/ajani-sleeper-agent?utm_source=api>`
@@ -969,6 +1027,10 @@
    Queen Allenal of Ruadach's power and toughness are each equal to the number of creatures you control.
 
    If one or more creature tokens would be created under your control, those tokens plus a 1/1 white Soldier creature token are created instead.
+
+
+:mtgtip:`Radha, Coalition Warlord<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/c/2cec235e-7ce0-4947-b221-a555b2c865bd.jpg?1661440297|https://scryfall.com/card/dmu/211/radha-coalition-warlord?utm_source=api>`
+   Domain — Whenever Radha, Coalition Warlord becomes tapped, another target creature you control gets +X/+X until end of turn, where X is the number of basic land types among lands you control.
 
 
 :mtgtip:`Raff, Weatherlight Stalwart<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/c/cc0cba4c-d9f0-421f-acf4-ab1adcd59c80.jpg?1660838677|https://scryfall.com/card/dmu/212/raff-weatherlight-stalwart?utm_source=api>`
@@ -1129,6 +1191,12 @@
    |mana_x|, |tap|, Exile Karn's Sylex: Destroy each nonland permanent with mana value X or less. Activate only as a sorcery.
 
 
+:mtgtip:`Relic of Legends<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/4/64a2809e-c441-416c-90ff-6fb1e246dff3.jpg?1661440230|https://scryfall.com/card/dmu/236/relic-of-legends?utm_source=api>`
+   |tap|: Add one mana of any color.
+
+   Tap an untapped legendary creature you control: Add one mana of any color.
+
+
 :mtgtip:`Shield-Wall Sentinel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/e/7e57e1d7-da1d-4a2b-867f-85b8331b7bbc.jpg?1661358938|https://scryfall.com/card/dmu/238/shield-wall-sentinel?utm_source=api>`
    Defender
 
@@ -1271,7 +1339,7 @@
    Whenever another creature you control dies, draw a card if it was attacking. Otherwise, "Garna, Aggro Champ" deals 1 damage to each opponent.
 
 
-:mtgtip:`Jodah, the Unifier<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/1/416429e0-4b7e-43d1-8126-16ab679b6e39.jpg?1661386382|https://scryfall.com/card/dmu/302/jodah-the-unifier?utm_source=api>`
+:mtgtip:`Jodah, the Unifier<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/1/416429e0-4b7e-43d1-8126-16ab679b6e39.jpg?1661405888|https://scryfall.com/card/dmu/302/jodah-the-unifier?utm_source=api>`
    Legendary creatures you control get +X/+X where X is the number of legendary creatures you control.
 
    Whenever you cast a legendary spell from your hand, exile cards from the top of your library until you exile a legendary nonland card with lesser mana value. You may cast that card without paying its mana cost. Put the rest on the bottom of your library in a random order.

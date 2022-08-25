@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2022.8\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-08-25 07:55+0200\n"
+"POT-Creation-Date: 2022-08-25 22:42+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -28,6 +28,8 @@ msgstr ""
 msgid "{C}"
 msgstr ""
 
+#: ../../symbols.rst:5
+#: ../../symbols.rst:5
 #: ../../symbols.rst:5
 #: ../../symbols.rst:5
 #: ../../symbols.rst:5
@@ -179,6 +181,8 @@ msgstr ""
 #: ../../symbols.rst:13
 #: ../../symbols.rst:13
 #: ../../symbols.rst:13
+#: ../../symbols.rst:13
+#: ../../symbols.rst:13
 msgid "{B}"
 msgstr ""
 
@@ -216,6 +220,7 @@ msgstr ""
 msgid "{G}"
 msgstr ""
 
+#: ../../symbols.rst:17
 #: ../../symbols.rst:17
 #: ../../symbols.rst:17
 #: ../../symbols.rst:17
@@ -356,6 +361,7 @@ msgstr ""
 #: ../../symbols.rst:45
 #: ../../symbols.rst:45
 #: ../../symbols.rst:45
+#: ../../symbols.rst:45
 msgid "{1}"
 msgstr ""
 
@@ -389,9 +395,11 @@ msgstr ""
 #: ../../symbols.rst:47
 #: ../../symbols.rst:47
 #: ../../symbols.rst:47
+#: ../../symbols.rst:47
 msgid "{2}"
 msgstr ""
 
+#: ../../symbols.rst:49
 #: ../../symbols.rst:49
 #: ../../symbols.rst:49
 #: ../../symbols.rst:49
@@ -593,9 +601,9 @@ msgstr ""
 #: ../../DMU.rst:37
 #: ../../DMU.rst:69
 #: ../../DMU.rst:87
-#: ../../DMU.rst:535
-#: ../../DMU.rst:693
-#: ../../DMU.rst:751
+#: ../../DMU.rst:561
+#: ../../DMU.rst:737
+#: ../../DMU.rst:795
 msgid "Enlist (As this creature attacks, you may tap a nonattacking creature you control without summoning sickness. When you do, add its power to this creature's until end of turn.)"
 msgstr ""
 
@@ -608,8 +616,8 @@ msgid ":mtgtip:`Benalish Sleeper<https://c1.scryfall.com/file/scryfall-cards/bor
 msgstr ""
 
 #: ../../DMU.rst:43
-#: ../../DMU.rst:687
-#: ../../DMU.rst:709
+#: ../../DMU.rst:731
+#: ../../DMU.rst:753
 msgid "Kicker |mana_b| (You may pay an additional |mana_b| as you cast this spell.)"
 msgstr ""
 
@@ -640,7 +648,8 @@ msgstr ""
 #: ../../DMU.rst:57
 #: ../../DMU.rst:113
 #: ../../DMU.rst:145
-#: ../../DMU.rst:357
+#: ../../DMU.rst:151
+#: ../../DMU.rst:377
 msgid "Flash"
 msgstr ""
 
@@ -651,23 +660,23 @@ msgstr ""
 #: ../../DMU.rst:61
 #: ../../DMU.rst:67
 #: ../../DMU.rst:131
-#: ../../DMU.rst:161
-#: ../../DMU.rst:169
-#: ../../DMU.rst:213
-#: ../../DMU.rst:225
+#: ../../DMU.rst:167
+#: ../../DMU.rst:175
 #: ../../DMU.rst:233
-#: ../../DMU.rst:261
-#: ../../DMU.rst:477
-#: ../../DMU.rst:507
-#: ../../DMU.rst:545
-#: ../../DMU.rst:899
-#: ../../DMU.rst:917
-#: ../../DMU.rst:947
-#: ../../DMU.rst:1067
-#: ../../DMU.rst:1091
-#: ../../DMU.rst:1151
-#: ../../DMU.rst:1235
-#: ../../DMU.rst:1255
+#: ../../DMU.rst:245
+#: ../../DMU.rst:253
+#: ../../DMU.rst:281
+#: ../../DMU.rst:497
+#: ../../DMU.rst:533
+#: ../../DMU.rst:579
+#: ../../DMU.rst:957
+#: ../../DMU.rst:975
+#: ../../DMU.rst:1005
+#: ../../DMU.rst:1129
+#: ../../DMU.rst:1153
+#: ../../DMU.rst:1219
+#: ../../DMU.rst:1303
+#: ../../DMU.rst:1323
 msgid "Flying"
 msgstr ""
 
@@ -728,8 +737,8 @@ msgid ":mtgtip:`Juniper Order Rootweaver<https://c1.scryfall.com/file/scryfall-c
 msgstr ""
 
 #: ../../DMU.rst:99
-#: ../../DMU.rst:275
-#: ../../DMU.rst:639
+#: ../../DMU.rst:295
+#: ../../DMU.rst:683
 msgid "Kicker |mana_g| (You may pay an additional |mana_g| as you cast this spell.)"
 msgstr ""
 
@@ -742,6 +751,7 @@ msgid ":mtgtip:`Knight of Dawn's Light<https://c1.scryfall.com/file/scryfall-car
 msgstr ""
 
 #: ../../DMU.rst:105
+#: ../../DMU.rst:571
 msgid "First strike"
 msgstr ""
 
@@ -758,6 +768,7 @@ msgid ":mtgtip:`Leyline Binding<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../DMU.rst:115
+#: ../../DMU.rst:929
 msgid "Domain — This spell costs |mana_1| less to cast for each basic land type among lands you control."
 msgstr ""
 
@@ -766,17 +777,17 @@ msgid "When Leyline Binding enters the battlefield, exile target nonland permane
 msgstr ""
 
 #: ../../DMU.rst:128
-msgid ":mtgtip:`\"Love Song of Night and Day\"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/e/1e08d288-2f09-4856-a9ed-cc8aa8d953d7.jpg?1661362157|https://scryfall.com/card/dmu/25/love-song-of-night-and-day?utm_source=api>`"
+msgid ":mtgtip:`\"Love Song of Night and Day\"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/e/1e08d288-2f09-4856-a9ed-cc8aa8d953d7.jpg?1661419959|https://scryfall.com/card/dmu/25/love-song-of-night-and-day?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:121
-#: ../../DMU.rst:245
-#: ../../DMU.rst:289
-#: ../../DMU.rst:395
-#: ../../DMU.rst:551
-#: ../../DMU.rst:699
-#: ../../DMU.rst:849
-#: ../../DMU.rst:859
+#: ../../DMU.rst:265
+#: ../../DMU.rst:309
+#: ../../DMU.rst:415
+#: ../../DMU.rst:585
+#: ../../DMU.rst:743
+#: ../../DMU.rst:903
+#: ../../DMU.rst:913
 msgid "Read ahead (Choose a chapter and start with that many lore counters. Add one after your draw step. Skipped chapters don't trigger. Sacrifice after III.)"
 msgstr ""
 
@@ -805,13 +816,13 @@ msgid ":mtgtip:`\"Unburial Priest\"<https://c1.scryfall.com/file/scryfall-cards/
 msgstr ""
 
 #: ../../DMU.rst:137
-#: ../../DMU.rst:297
-#: ../../DMU.rst:821
+#: ../../DMU.rst:317
+#: ../../DMU.rst:875
 msgid "Kicker |mana_1|\\ |mana_b| (You may pay an additional |mana_1|\\ |mana_b| as you cast this spell.)"
 msgstr ""
 
 #: ../../DMU.rst:139
-#: ../../DMU.rst:1019
+#: ../../DMU.rst:1081
 msgid "Lifelink"
 msgstr ""
 
@@ -820,2009 +831,2124 @@ msgid "When \"Unburial Priest\" enters the battlefield, if it was kicked, return
 msgstr ""
 
 #: ../../DMU.rst:148
-msgid ":mtgtip:`Resolute Reinforcements<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/e/3e11ad33-b9d7-43ef-840a-61955683b599.jpg?1660845756|https://scryfall.com/card/dmu/29/resolute-reinforcements?utm_source=api>`"
+msgid ":mtgtip:`Prayer of Binding<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/2/322f90b6-6b49-458d-9d5b-b601bfdd0af8.jpg?1661440736|https://scryfall.com/card/dmu/28/prayer-of-binding?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:147
-msgid "When Resolute Reinforcements enters the battlefield, create a 1/1 white Soldier creature token."
+msgid "When Prayer of Binding enters the battlefield, exile up to one target nonland permanent an opponent controls until Prayer of Binding leaves the battlefield. You gain 2 life."
 msgstr ""
 
 #: ../../DMU.rst:154
-msgid ":mtgtip:`Runic Shot<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/5/f54413be-7d73-478d-a25a-8fe06f6491a5.jpg?1661300133|https://scryfall.com/card/dmu/30/runic-shot?utm_source=api>`"
-msgstr ""
-
-#: ../../DMU.rst:151
-#: ../../DMU.rst:447
-msgid "Kicker |mana_u| (You may pay an additional |mana_u| as you cast this spell.)"
+msgid ":mtgtip:`Resolute Reinforcements<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/e/3e11ad33-b9d7-43ef-840a-61955683b599.jpg?1660845756|https://scryfall.com/card/dmu/29/resolute-reinforcements?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:153
-msgid "Destroy target tapped creature. If this spell was kicked, scry 2."
+msgid "When Resolute Reinforcements enters the battlefield, create a 1/1 white Soldier creature token."
 msgstr ""
 
-#: ../../DMU.rst:158
-msgid ":mtgtip:`Samite Herbalist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/0/409189da-53c9-4daf-b6b2-d155fc14f91a.jpg?1660935497|https://scryfall.com/card/dmu/31/samite-herbalist?utm_source=api>`"
+#: ../../DMU.rst:160
+msgid ":mtgtip:`Runic Shot<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/5/f54413be-7d73-478d-a25a-8fe06f6491a5.jpg?1661300133|https://scryfall.com/card/dmu/30/runic-shot?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:157
-msgid "Whenever Samite Herbalist becomes tapped, you gain 1 life and scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
+#: ../../DMU.rst:467
+msgid "Kicker |mana_u| (You may pay an additional |mana_u| as you cast this spell.)"
+msgstr ""
+
+#: ../../DMU.rst:159
+msgid "Destroy target tapped creature. If this spell was kicked, scry 2."
 msgstr ""
 
 #: ../../DMU.rst:164
-msgid ":mtgtip:`Serra Paragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/e/ce295f1e-fb31-4275-a5d3-8c6f29afff40.jpg?1661299811|https://scryfall.com/card/dmu/32/serra-paragon?utm_source=api>`"
+msgid ":mtgtip:`Samite Herbalist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/0/409189da-53c9-4daf-b6b2-d155fc14f91a.jpg?1660935497|https://scryfall.com/card/dmu/31/samite-herbalist?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:163
+msgid "Whenever Samite Herbalist becomes tapped, you gain 1 life and scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
+msgstr ""
+
+#: ../../DMU.rst:170
+msgid ":mtgtip:`Serra Paragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/e/ce295f1e-fb31-4275-a5d3-8c6f29afff40.jpg?1661299811|https://scryfall.com/card/dmu/32/serra-paragon?utm_source=api>`"
+msgstr ""
+
+#: ../../DMU.rst:169
 msgid "Once during each of your turns, you may play a land card from your graveyard or cast a permanent spell with mana value 3 or less from your graveyard. If you do, it gains \"When this permanent is put into a graveyard from the battlefield, exile it and you gain 2 life.\""
 msgstr ""
 
-#: ../../DMU.rst:172
+#: ../../DMU.rst:178
 msgid ":mtgtip:`Shalai's Acolyte<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/9/39996722-e7f2-41e4-aa1e-2b6778d7b535.jpg?1660926966|https://scryfall.com/card/dmu/33/shalais-acolyte?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:167
-#: ../../DMU.rst:523
+#: ../../DMU.rst:173
+#: ../../DMU.rst:549
 msgid "Kicker |mana_1|\\ |mana_g| (You may pay an additional |mana_1|\\ |mana_g| as you cast this spell.)"
 msgstr ""
 
-#: ../../DMU.rst:171
+#: ../../DMU.rst:177
 msgid "If Shalai's Acolyte was kicked, it enters the battlefield with two +1/+1 counters on it."
 msgstr ""
 
-#: ../../DMU.rst:180
+#: ../../DMU.rst:186
 msgid ":mtgtip:`Stall for Time<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/3/f346defa-ee4a-404e-8154-0e33ebe9102c.jpg?1661120490|https://scryfall.com/card/dmu/34/stall-for-time?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:175
-#: ../../DMU.rst:517
-#: ../../DMU.rst:843
+#: ../../DMU.rst:181
+#: ../../DMU.rst:543
+#: ../../DMU.rst:897
 msgid "Kicker |mana_1|\\ |mana_u| (You may pay an additional |mana_1|\\ |mana_u| as you cast this spell.)"
 msgstr ""
 
-#: ../../DMU.rst:177
+#: ../../DMU.rst:183
 msgid "Tap up to two target creatures. If this spell was kicked, put a stun counter on each of those creatures. (If a permanent with a stun counter on it would become untapped, remove one from it instead.)"
 msgstr ""
 
-#: ../../DMU.rst:179
-#: ../../DMU.rst:333
-#: ../../DMU.rst:1027
+#: ../../DMU.rst:185
+#: ../../DMU.rst:227
+#: ../../DMU.rst:353
+#: ../../DMU.rst:1089
 msgid "Draw a card."
 msgstr ""
 
-#: ../../DMU.rst:184
+#: ../../DMU.rst:190
 msgid ":mtgtip:`Take Up the Shield<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/5/851e842e-a497-4c36-90ee-8d64f806c378.jpg?1660926848|https://scryfall.com/card/dmu/35/take-up-the-shield?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:183
+#: ../../DMU.rst:189
 msgid "Put a +1/+1 counter on target creature. It gains lifelink and indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)"
 msgstr ""
 
-#: ../../DMU.rst:188
+#: ../../DMU.rst:194
 msgid ":mtgtip:`Temporary Lockdown<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/2/82b3088f-7b49-45e9-b447-129a597ceb75.jpg?1661378235|https://scryfall.com/card/dmu/36/temporary-lockdown?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:187
+#: ../../DMU.rst:193
 msgid "When Temporary Lockdown enters the battlefield, exile each nonland permanent with mana value 2 or less until Temporary Lockdown leaves the battlefield."
 msgstr ""
 
-#: ../../DMU.rst:194
+#: ../../DMU.rst:200
 msgid ":mtgtip:`Valiant Veteran<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/8/18b1a4ee-437f-4a08-b176-8342d526143f.jpg?1661358127|https://scryfall.com/card/dmu/38/valiant-veteran?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:191
+#: ../../DMU.rst:197
 msgid "Other Soldiers you control get +1/+1."
 msgstr ""
 
-#: ../../DMU.rst:193
+#: ../../DMU.rst:199
 msgid "|mana_3|\\ |mana_w|\\ |mana_w|, Exile Valiant Veteran from your graveyard: Put a +1/+1 counter on each Soldier you control."
 msgstr ""
 
-#: ../../DMU.rst:202
+#: ../../DMU.rst:208
 msgid ":mtgtip:`Wingmantle Chaplain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/5/f5800f3d-b2e0-4c74-94bf-f29b27f82130.jpg?1661303324|https://scryfall.com/card/dmu/39/wingmantle-chaplain?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:197
-#: ../../DMU.rst:205
-#: ../../DMU.rst:219
-#: ../../DMU.rst:385
-#: ../../DMU.rst:1133
-#: ../../DMU.rst:1145
+#: ../../DMU.rst:203
+#: ../../DMU.rst:215
+#: ../../DMU.rst:239
+#: ../../DMU.rst:405
+#: ../../DMU.rst:1201
+#: ../../DMU.rst:1213
 msgid "Defender"
 msgstr ""
 
-#: ../../DMU.rst:199
+#: ../../DMU.rst:205
 msgid "When Wingmantle Chaplain enters the battlefield, create a 1/1 white Bird creature token with flying for each creature with defender you control."
 msgstr ""
 
-#: ../../DMU.rst:201
+#: ../../DMU.rst:207
 msgid "Whenever another creature with defender enters the battlefield under your control, create a 1/1 white Bird creature token with flying."
 msgstr ""
 
-#: ../../DMU.rst:208
-msgid ":mtgtip:`Academy Wall<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/2/d2028115-f0de-4e8b-99bc-7369352e1e07.jpg?1661378316|https://scryfall.com/card/dmu/41/academy-wall?utm_source=api>`"
-msgstr ""
-
-#: ../../DMU.rst:207
-msgid "Whenever you cast an instant or sorcery spell, you may draw a card. If you do, discard a card. This ability triggers only once each turn."
-msgstr ""
-
-#: ../../DMU.rst:216
-msgid ":mtgtip:`Battlewing Mystic<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/0/000376ef-8b6c-490d-98cb-d6de15b2e585.jpg?1661378259|https://scryfall.com/card/dmu/43/battlewing-mystic?utm_source=api>`"
+#: ../../DMU.rst:212
+msgid ":mtgtip:`\"Executive Librarian\"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/f/9fca4c4f-a77b-483e-9da4-574ba2e3d179.jpg?1661440435|https://scryfall.com/card/dmu/40/executive-librarian?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:211
-#: ../../DMU.rst:377
-#: ../../DMU.rst:715
-#: ../../DMU.rst:867
-msgid "Kicker |mana_r| (You may pay an additional |mana_r| as you cast this spell.)"
+msgid "At the beginning of each player's draw step, that player may draw an additional card. If they do, spells they cast this turn cost |mana_2| more to cast."
 msgstr ""
 
-#: ../../DMU.rst:215
-msgid "When Battlewing Mystic enters the battlefield, if it was kicked, discard your hand, then draw two cards."
+#: ../../DMU.rst:218
+msgid ":mtgtip:`Academy Wall<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/2/d2028115-f0de-4e8b-99bc-7369352e1e07.jpg?1661378316|https://scryfall.com/card/dmu/41/academy-wall?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:222
-msgid ":mtgtip:`Coral Colony<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/c/9c0e3882-1f97-48eb-b9e3-2f9683ff5897.jpg?1661187208|https://scryfall.com/card/dmu/45/coral-colony?utm_source=api>`"
+#: ../../DMU.rst:217
+msgid "Whenever you cast an instant or sorcery spell, you may draw a card. If you do, discard a card. This ability triggers only once each turn."
+msgstr ""
+
+#: ../../DMU.rst:228
+msgid ":mtgtip:`Aether Channeler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/0/60afeb75-2c1e-4634-8c83-88b1dddb77c2.jpg?1661440143|https://scryfall.com/card/dmu/42/aether-channeler?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:221
-msgid "|mana_1|\\ |mana_u|, |tap|: Target player mills X cards, where X is the number of cards you control with defender. (To mill a card, a player puts the top card of their library into their graveyard.)"
+msgid "When Aether Channeler enters the battlefield, choose one —"
 msgstr ""
 
-#: ../../DMU.rst:230
-msgid ":mtgtip:`Defiler of Dreams<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/8/881cc4a3-252b-4155-a34f-63d4b4f44442.jpg?1660843492|https://scryfall.com/card/dmu/46/defiler-of-dreams?utm_source=api>`"
+#: ../../DMU.rst:223
+msgid "Create a 1/1 white Bird creature token with flying."
 msgstr ""
 
-#: ../../DMU.rst:227
-msgid "As an additional cost to cast blue permanent spells, you may pay 2 life. Those spells cost |mana_u| less to cast if you paid life this way. This effect reduces only the amount of blue mana you pay."
+#: ../../DMU.rst:225
+msgid "Return another target nonland permanent to its owner's hand."
 msgstr ""
 
-#: ../../DMU.rst:229
-msgid "Whenever you cast a blue permanent spell, draw a card."
+#: ../../DMU.rst:236
+msgid ":mtgtip:`Battlewing Mystic<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/0/000376ef-8b6c-490d-98cb-d6de15b2e585.jpg?1661378259|https://scryfall.com/card/dmu/43/battlewing-mystic?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:242
-msgid ":mtgtip:`Djinn of the Fountain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/5/f55606da-de3e-4375-925b-cc16b03b6365.jpg?1661329777|https://scryfall.com/card/dmu/47/djinn-of-the-fountain?utm_source=api>`"
+#: ../../DMU.rst:231
+#: ../../DMU.rst:397
+#: ../../DMU.rst:759
+#: ../../DMU.rst:921
+msgid "Kicker |mana_r| (You may pay an additional |mana_r| as you cast this spell.)"
 msgstr ""
 
 #: ../../DMU.rst:235
-msgid "Whenever you cast an instant or sorcery spell, choose one —"
+msgid "When Battlewing Mystic enters the battlefield, if it was kicked, discard your hand, then draw two cards."
 msgstr ""
 
-#: ../../DMU.rst:237
-msgid "Djinn of the Fountain gets +1/+1 until end of turn."
-msgstr ""
-
-#: ../../DMU.rst:239
-msgid "Exile Djinn of the Fountain. Return it to the battlefield under its owner's control at the beginning of the next end step."
+#: ../../DMU.rst:242
+msgid ":mtgtip:`Coral Colony<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/c/9c0e3882-1f97-48eb-b9e3-2f9683ff5897.jpg?1661187208|https://scryfall.com/card/dmu/45/coral-colony?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:241
-msgid "Scry 1."
+msgid "|mana_1|\\ |mana_u|, |tap|: Target player mills X cards, where X is the number of cards you control with defender. (To mill a card, a player puts the top card of their library into their graveyard.)"
 msgstr ""
 
-#: ../../DMU.rst:252
-msgid ":mtgtip:`Founding the Third Path<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/d/2d841faa-9e0b-45ff-9dfd-f8a169d9af76.jpg?1661378340|https://scryfall.com/card/dmu/50/founding-the-third-path?utm_source=api>`"
+#: ../../DMU.rst:250
+msgid ":mtgtip:`Defiler of Dreams<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/8/881cc4a3-252b-4155-a34f-63d4b4f44442.jpg?1660843492|https://scryfall.com/card/dmu/46/defiler-of-dreams?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:247
-msgid "I — You may cast an instant or sorcery spell with mana value 1 or 2 from your hand without paying its mana cost."
+msgid "As an additional cost to cast blue permanent spells, you may pay 2 life. Those spells cost |mana_u| less to cast if you paid life this way. This effect reduces only the amount of blue mana you pay."
 msgstr ""
 
 #: ../../DMU.rst:249
-msgid "II — Target player mills four cards."
+msgid "Whenever you cast a blue permanent spell, draw a card."
 msgstr ""
 
-#: ../../DMU.rst:251
-msgid "III — Exile target instant or sorcery card from your graveyard. Copy it. You may cast the copy."
-msgstr ""
-
-#: ../../DMU.rst:258
-msgid ":mtgtip:`Frostfist Strider<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/0/40141353-c0d6-4529-b26a-34dfccbcf231.jpg?1660934816|https://scryfall.com/card/dmu/51/frostfist-strider?utm_source=api>`"
+#: ../../DMU.rst:262
+msgid ":mtgtip:`Djinn of the Fountain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/5/f55606da-de3e-4375-925b-cc16b03b6365.jpg?1661329777|https://scryfall.com/card/dmu/47/djinn-of-the-fountain?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:255
-#: ../../DMU.rst:345
-msgid "Ward |mana_2| (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays |mana_2|.)"
+msgid "Whenever you cast an instant or sorcery spell, choose one —"
 msgstr ""
 
 #: ../../DMU.rst:257
-msgid "When Frostfist Strider enters the battlefield, tap target creature an opponent controls and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)"
+msgid "Djinn of the Fountain gets +1/+1 until end of turn."
 msgstr ""
 
-#: ../../DMU.rst:266
-msgid ":mtgtip:`Haughty Djinn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/5/35095a68-b7c0-4805-b0b6-6ca15a338692.jpg?1661378360|https://scryfall.com/card/dmu/52/haughty-djinn?utm_source=api>`"
+#: ../../DMU.rst:259
+msgid "Exile Djinn of the Fountain. Return it to the battlefield under its owner's control at the beginning of the next end step."
 msgstr ""
 
-#: ../../DMU.rst:263
-msgid "Haughty Djinn's power is equal to the number of instant and sorcery cards in your graveyard."
-msgstr ""
-
-#: ../../DMU.rst:265
-msgid "Instant and sorcery spells you cast cost |mana_1| less to cast."
+#: ../../DMU.rst:261
+msgid "Scry 1."
 msgstr ""
 
 #: ../../DMU.rst:272
-msgid ":mtgtip:`Impede Momentum<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/5/259c04f7-86f2-4584-97fb-8278dca9a213.jpg?1660843414|https://scryfall.com/card/dmu/54/impede-momentum?utm_source=api>`"
+msgid ":mtgtip:`Founding the Third Path<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/d/2d841faa-9e0b-45ff-9dfd-f8a169d9af76.jpg?1661378340|https://scryfall.com/card/dmu/50/founding-the-third-path?utm_source=api>`"
+msgstr ""
+
+#: ../../DMU.rst:267
+msgid "I — You may cast an instant or sorcery spell with mana value 1 or 2 from your hand without paying its mana cost."
 msgstr ""
 
 #: ../../DMU.rst:269
-msgid "Tap target creature and put three stun counters on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)"
+msgid "II — Target player mills four cards."
 msgstr ""
 
 #: ../../DMU.rst:271
-msgid "Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
+msgid "III — Exile target instant or sorcery card from your graveyard. Copy it. You may cast the copy."
 msgstr ""
 
 #: ../../DMU.rst:278
-msgid ":mtgtip:`Joint Exploration<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/2/b25ab334-1060-457e-b212-3d7a697c545e.jpg?1661381894|https://scryfall.com/card/dmu/56/joint-exploration?utm_source=api>`"
+msgid ":mtgtip:`Frostfist Strider<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/0/40141353-c0d6-4529-b26a-34dfccbcf231.jpg?1660934816|https://scryfall.com/card/dmu/51/frostfist-strider?utm_source=api>`"
+msgstr ""
+
+#: ../../DMU.rst:275
+#: ../../DMU.rst:365
+msgid "Ward |mana_2| (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays |mana_2|.)"
 msgstr ""
 
 #: ../../DMU.rst:277
-msgid "Scry 2, then draw a card. If this spell was kicked, you may put a land card from your hand onto the battlefield."
-msgstr ""
-
-#: ../../DMU.rst:282
-msgid ":mtgtip:`Micromancer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/2/b21203c8-a935-4ce0-a742-148587e32145.jpg?1660937877|https://scryfall.com/card/dmu/57/micromancer?utm_source=api>`"
-msgstr ""
-
-#: ../../DMU.rst:281
-msgid "When Micromancer enters the battlefield, you may search your library for an instant or sorcery card with mana value 1, reveal it, put it into your hand, then shuffle."
+msgid "When Frostfist Strider enters the battlefield, tap target creature an opponent controls and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)"
 msgstr ""
 
 #: ../../DMU.rst:286
-msgid ":mtgtip:`Negate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/0/4016c6f7-7cb4-46c2-af73-3bd6d682ea5e.jpg?1661357063|https://scryfall.com/card/dmu/58/negate?utm_source=api>`"
+msgid ":mtgtip:`Haughty Djinn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/5/35095a68-b7c0-4805-b0b6-6ca15a338692.jpg?1661378360|https://scryfall.com/card/dmu/52/haughty-djinn?utm_source=api>`"
+msgstr ""
+
+#: ../../DMU.rst:283
+msgid "Haughty Djinn's power is equal to the number of instant and sorcery cards in your graveyard."
 msgstr ""
 
 #: ../../DMU.rst:285
-msgid "Counter target noncreature spell."
+msgid "Instant and sorcery spells you cast cost |mana_1| less to cast."
 msgstr ""
 
-#: ../../DMU.rst:294
-msgid ":mtgtip:`The Phasing of Zhalfir<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/7/0770eb6a-4f01-4677-a401-14c1b30692c9.jpg?1660840547|https://scryfall.com/card/dmu/59/the-phasing-of-zhalfir?utm_source=api>`"
+#: ../../DMU.rst:292
+msgid ":mtgtip:`Impede Momentum<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/5/259c04f7-86f2-4584-97fb-8278dca9a213.jpg?1660843414|https://scryfall.com/card/dmu/54/impede-momentum?utm_source=api>`"
+msgstr ""
+
+#: ../../DMU.rst:289
+msgid "Tap target creature and put three stun counters on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)"
 msgstr ""
 
 #: ../../DMU.rst:291
-msgid "I, II — Another target nonland permanent phases out. It can't phase in for as long as you control The Phasing of Zhalfir."
+msgid "Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
 
-#: ../../DMU.rst:293
-msgid "III — Destroy all creatures. For each creature destroyed this way, its controller creates a 2/2 black Phyrexian creature token."
+#: ../../DMU.rst:298
+msgid ":mtgtip:`Joint Exploration<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/2/b25ab334-1060-457e-b212-3d7a697c545e.jpg?1661381894|https://scryfall.com/card/dmu/56/joint-exploration?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:300
-msgid ":mtgtip:`Phyrexian Espionage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/b/0b983366-385f-41a3-aa46-20151e68d140.jpg?1661326351|https://scryfall.com/card/dmu/60/phyrexian-espionage?utm_source=api>`"
+#: ../../DMU.rst:297
+msgid "Scry 2, then draw a card. If this spell was kicked, you may put a land card from your hand onto the battlefield."
 msgstr ""
 
-#: ../../DMU.rst:299
-msgid "Draw two cards. If this spell was kicked, each opponent discards a card."
+#: ../../DMU.rst:302
+msgid ":mtgtip:`Micromancer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/2/b21203c8-a935-4ce0-a742-148587e32145.jpg?1660937877|https://scryfall.com/card/dmu/57/micromancer?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:308
-msgid ":mtgtip:`Protect the Negotiators<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/b/bb6db604-8bbe-4719-88bd-f3cad8c4725d.jpg?1661378453|https://scryfall.com/card/dmu/62/protect-the-negotiators?utm_source=api>`"
+#: ../../DMU.rst:301
+msgid "When Micromancer enters the battlefield, you may search your library for an instant or sorcery card with mana value 1, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
-#: ../../DMU.rst:303
-#: ../../DMU.rst:337
-#: ../../DMU.rst:459
-#: ../../DMU.rst:577
-msgid "Kicker |mana_w| (You may pay an additional |mana_w| as you cast this spell.)"
+#: ../../DMU.rst:306
+msgid ":mtgtip:`Negate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/0/4016c6f7-7cb4-46c2-af73-3bd6d682ea5e.jpg?1661357063|https://scryfall.com/card/dmu/58/negate?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:305
-msgid "If this spell was kicked, create a 1/1 white Soldier creature token."
-msgstr ""
-
-#: ../../DMU.rst:307
-msgid "Counter target spell unless its controller pays |mana_1| for each creature you control."
+msgid "Counter target noncreature spell."
 msgstr ""
 
 #: ../../DMU.rst:314
-msgid ":mtgtip:`Rona's Vortex<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bdf96533-f28a-4465-893b-0c9394d5b8d7.jpg?1661143243|https://scryfall.com/card/dmu/63/ronas-vortex?utm_source=api>`"
+msgid ":mtgtip:`The Phasing of Zhalfir<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/7/0770eb6a-4f01-4677-a401-14c1b30692c9.jpg?1660840547|https://scryfall.com/card/dmu/59/the-phasing-of-zhalfir?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:311
-msgid "Kicker |mana_2|\\ |mana_b| (You may pay an additional |mana_2|\\ |mana_b| as you cast this spell.)"
+msgid "I, II — Another target nonland permanent phases out. It can't phase in for as long as you control The Phasing of Zhalfir."
 msgstr ""
 
 #: ../../DMU.rst:313
-msgid "Return target creature or planeswalker you don't control to its owner's hand. If this spell was kicked, put that permanent on the bottom of its owner's library instead."
+msgid "III — Destroy all creatures. For each creature destroyed this way, its controller creates a 2/2 black Phyrexian creature token."
 msgstr ""
 
 #: ../../DMU.rst:320
-msgid ":mtgtip:`Silver Scrutiny<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/b/8b650ab6-9c22-424f-99e5-8ef5235a18a3.jpg?1661336520|https://scryfall.com/card/dmu/65/silver-scrutiny?utm_source=api>`"
-msgstr ""
-
-#: ../../DMU.rst:317
-msgid "You may cast Silver Scrutiny as though it had flash if X is 3 or less."
+msgid ":mtgtip:`Phyrexian Espionage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/b/0b983366-385f-41a3-aa46-20151e68d140.jpg?1661419919|https://scryfall.com/card/dmu/60/phyrexian-espionage?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:319
-msgid "Draw X cards."
+msgid "Draw two cards. If this spell was kicked, each opponent discards a card."
 msgstr ""
 
-#: ../../DMU.rst:326
-msgid ":mtgtip:`Sphinx of Clear Skies<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/7/974c9e0c-07b2-4535-a3d0-bb827b651075.jpg?1661154305|https://scryfall.com/card/dmu/67/sphinx-of-clear-skies?utm_source=api>`"
+#: ../../DMU.rst:328
+msgid ":mtgtip:`Protect the Negotiators<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/b/bb6db604-8bbe-4719-88bd-f3cad8c4725d.jpg?1661378453|https://scryfall.com/card/dmu/62/protect-the-negotiators?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:323
-#: ../../DMU.rst:989
-msgid "Flying, ward |mana_2|"
+#: ../../DMU.rst:357
+#: ../../DMU.rst:479
+#: ../../DMU.rst:611
+msgid "Kicker |mana_w| (You may pay an additional |mana_w| as you cast this spell.)"
 msgstr ""
 
 #: ../../DMU.rst:325
-msgid "Domain — Whenever Sphinx of Clear Skies deals combat damage to a player, reveal the top X cards of your library, where X is the number of basic land types among lands you control. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard. (Piles can be empty.)"
+msgid "If this spell was kicked, create a 1/1 white Soldier creature token."
+msgstr ""
+
+#: ../../DMU.rst:327
+msgid "Counter target spell unless its controller pays |mana_1| for each creature you control."
 msgstr ""
 
 #: ../../DMU.rst:334
-msgid ":mtgtip:`Timely Interference<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/1/017a3c6b-9a1e-403a-9c20-2360090d39ee.jpg?1661193255|https://scryfall.com/card/dmu/70/timely-interference?utm_source=api>`"
-msgstr ""
-
-#: ../../DMU.rst:329
-msgid "Kicker |mana_1|\\ |mana_r| (You may pay an additional |mana_1|\\ |mana_r| as you cast this spell.)"
+msgid ":mtgtip:`Rona's Vortex<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bdf96533-f28a-4465-893b-0c9394d5b8d7.jpg?1661143243|https://scryfall.com/card/dmu/63/ronas-vortex?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:331
-msgid "Target creature gets -1/-0 until end of turn. If this spell was kicked, that creature blocks this turn if able."
+msgid "Kicker |mana_2|\\ |mana_b| (You may pay an additional |mana_2|\\ |mana_b| as you cast this spell.)"
+msgstr ""
+
+#: ../../DMU.rst:333
+msgid "Return target creature or planeswalker you don't control to its owner's hand. If this spell was kicked, put that permanent on the bottom of its owner's library instead."
 msgstr ""
 
 #: ../../DMU.rst:340
-msgid ":mtgtip:`Tolarian Geyser<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/d/5dd5f389-fea2-4aed-a218-eca162902775.jpg?1661378470|https://scryfall.com/card/dmu/71/tolarian-geyser?utm_source=api>`"
+msgid ":mtgtip:`Silver Scrutiny<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/b/8b650ab6-9c22-424f-99e5-8ef5235a18a3.jpg?1661336520|https://scryfall.com/card/dmu/65/silver-scrutiny?utm_source=api>`"
+msgstr ""
+
+#: ../../DMU.rst:337
+msgid "You may cast Silver Scrutiny as though it had flash if X is 3 or less."
 msgstr ""
 
 #: ../../DMU.rst:339
-msgid "Return target creature to its owner's hand. Draw a card. If this spell was kicked, you gain 3 life."
+msgid "Draw X cards."
 msgstr ""
 
 #: ../../DMU.rst:346
-msgid ":mtgtip:`Tolarian Terror<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/2/42f01cba-43d4-46ad-b7a5-d7631b0e1347.jpg?1661378488|https://scryfall.com/card/dmu/72/tolarian-terror?utm_source=api>`"
+msgid ":mtgtip:`Sphinx of Clear Skies<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/7/974c9e0c-07b2-4535-a3d0-bb827b651075.jpg?1661154305|https://scryfall.com/card/dmu/67/sphinx-of-clear-skies?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:343
-msgid "This spell costs |mana_1| less to cast for each instant and sorcery card in your graveyard."
+#: ../../DMU.rst:1051
+msgid "Flying, ward |mana_2|"
 msgstr ""
 
-#: ../../DMU.rst:350
-msgid ":mtgtip:`Vesuvan Duplimancy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/a/9a2119bc-a377-4156-89d4-56e7b5b494a8.jpg?1661362198|https://scryfall.com/card/dmu/73/vesuvan-duplimancy?utm_source=api>`"
-msgstr ""
-
-#: ../../DMU.rst:349
-msgid "Whenever you cast a spell that targets only a single artifact or creature you control, create a token that's a copy of that artifact or creature, except it's not legendary."
+#: ../../DMU.rst:345
+msgid "Domain — Whenever Sphinx of Clear Skies deals combat damage to a player, reveal the top X cards of your library, where X is the number of basic land types among lands you control. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard. (Piles can be empty.)"
 msgstr ""
 
 #: ../../DMU.rst:354
-msgid ":mtgtip:`Voda Sea Scavenger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/a/2a3cc789-cbb8-4dae-a749-af169832dd7b.jpg?1660952743|https://scryfall.com/card/dmu/74/voda-sea-scavenger?utm_source=api>`"
+msgid ":mtgtip:`Timely Interference<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/1/017a3c6b-9a1e-403a-9c20-2360090d39ee.jpg?1661193255|https://scryfall.com/card/dmu/70/timely-interference?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:353
-msgid "Domain — When Voda Sea Scavenger enters the battlefield, look at the top card X cards of your library, where X is the number of basic land types among lands you control. You may put one of those cards on top of your library. Put the rest on the bottom of your library in a random order."
+#: ../../DMU.rst:349
+msgid "Kicker |mana_1|\\ |mana_r| (You may pay an additional |mana_1|\\ |mana_r| as you cast this spell.)"
 msgstr ""
 
-#: ../../DMU.rst:362
-msgid ":mtgtip:`Vodalian Hexcatcher<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/e/4ec464dc-b1dd-4e45-b093-c3ad65a74050.jpg?1661357792|https://scryfall.com/card/dmu/75/vodalian-hexcatcher?utm_source=api>`"
+#: ../../DMU.rst:351
+msgid "Target creature gets -1/-0 until end of turn. If this spell was kicked, that creature blocks this turn if able."
+msgstr ""
+
+#: ../../DMU.rst:360
+msgid ":mtgtip:`Tolarian Geyser<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/d/5dd5f389-fea2-4aed-a218-eca162902775.jpg?1661378470|https://scryfall.com/card/dmu/71/tolarian-geyser?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:359
-msgid "Other Merfolk you control get +1/+1."
+msgid "Return target creature to its owner's hand. Draw a card. If this spell was kicked, you gain 3 life."
 msgstr ""
 
-#: ../../DMU.rst:361
-msgid "Sacrifice a Merfolk: Counter target noncreature spell unless its controller pays |mana_1|."
+#: ../../DMU.rst:366
+msgid ":mtgtip:`Tolarian Terror<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/2/42f01cba-43d4-46ad-b7a5-d7631b0e1347.jpg?1661378488|https://scryfall.com/card/dmu/72/tolarian-terror?utm_source=api>`"
+msgstr ""
+
+#: ../../DMU.rst:363
+msgid "This spell costs |mana_1| less to cast for each instant and sorcery card in your graveyard."
 msgstr ""
 
 #: ../../DMU.rst:370
-msgid ":mtgtip:`Vodalian Mindsinger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/1/211a9db2-8b5f-419d-8032-ac2a571dbb53.jpg?1661231289|https://scryfall.com/card/dmu/76/vodalian-mindsinger?utm_source=api>`"
-msgstr ""
-
-#: ../../DMU.rst:365
-msgid "Kicker |mana_1|\\ |mana_r| and/or |mana_1|\\ |mana_g|"
-msgstr ""
-
-#: ../../DMU.rst:367
-msgid "Vodalian Mindsinger enters the battlefield with two +1/+1 counters on it for each time it was kicked."
+msgid ":mtgtip:`Vesuvan Duplimancy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/a/9a2119bc-a377-4156-89d4-56e7b5b494a8.jpg?1661362198|https://scryfall.com/card/dmu/73/vesuvan-duplimancy?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:369
-msgid "When Vodalian Mindsinger enters the battlefield, gain control of target creature with power less than Vodalian Mindsinger's power for as long as you control Vodalian Mindsinger."
+msgid "Whenever you cast a spell that targets only a single artifact or creature you control, create a token that's a copy of that artifact or creature, except it's not legendary."
 msgstr ""
 
 #: ../../DMU.rst:374
-msgid ":mtgtip:`Volshe Tideturner<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/a/ea61871b-9295-4ea0-86ef-e7a11e23bda8.jpg?1660937412|https://scryfall.com/card/dmu/77/volshe-tideturner?utm_source=api>`"
+msgid ":mtgtip:`Voda Sea Scavenger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/a/2a3cc789-cbb8-4dae-a749-af169832dd7b.jpg?1660952743|https://scryfall.com/card/dmu/74/voda-sea-scavenger?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:373
-msgid "|tap|: Add |mana_u|. Spend this mana only to cast an instant or sorcery spell or a kicked spell."
+msgid "Domain — When Voda Sea Scavenger enters the battlefield, look at the top card X cards of your library, where X is the number of basic land types among lands you control. You may put one of those cards on top of your library. Put the rest on the bottom of your library in a random order."
 msgstr ""
 
 #: ../../DMU.rst:382
-msgid ":mtgtip:`Balduvian Atrocity<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/6/365333c4-59a0-4365-b242-a67b6224c1b8.jpg?1661378514|https://scryfall.com/card/dmu/79/balduvian-atrocity?utm_source=api>`"
+msgid ":mtgtip:`Vodalian Hexcatcher<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/e/4ec464dc-b1dd-4e45-b093-c3ad65a74050.jpg?1661357792|https://scryfall.com/card/dmu/75/vodalian-hexcatcher?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:379
-#: ../../DMU.rst:415
-#: ../../DMU.rst:997
-msgid "Menace"
+msgid "Other Merfolk you control get +1/+1."
 msgstr ""
 
 #: ../../DMU.rst:381
-msgid "When Balduvian Atrocity enters the battlefield, if it was kicked, return target creature card with mana value 3 or less from your graveyard to the battlefield. It gains haste. Sacrifice it at the beginning of the next end step."
+msgid "Sacrifice a Merfolk: Counter target noncreature spell unless its controller pays |mana_1|."
 msgstr ""
 
-#: ../../DMU.rst:388
-msgid ":mtgtip:`Blight Pile<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/d/0dcc2699-03e6-47d1-b976-1453fe9d27b7.jpg?1661191149|https://scryfall.com/card/dmu/82/blight-pile?utm_source=api>`"
+#: ../../DMU.rst:390
+msgid ":mtgtip:`Vodalian Mindsinger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/1/211a9db2-8b5f-419d-8032-ac2a571dbb53.jpg?1661231289|https://scryfall.com/card/dmu/76/vodalian-mindsinger?utm_source=api>`"
+msgstr ""
+
+#: ../../DMU.rst:385
+msgid "Kicker |mana_1|\\ |mana_r| and/or |mana_1|\\ |mana_g|"
 msgstr ""
 
 #: ../../DMU.rst:387
-msgid "|mana_2|\\ |mana_b|, |tap|: Each opponent loses X life, where X is the number of creatures with defender you control."
+msgid "Vodalian Mindsinger enters the battlefield with two +1/+1 counters on it for each time it was kicked."
 msgstr ""
 
-#: ../../DMU.rst:392
-msgid ":mtgtip:`Braids, Arisen Nightmare<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/f/4ff97c69-6a6b-401c-b0a1-55fa81045d19.jpg?1660840654|https://scryfall.com/card/dmu/84/braids-arisen-nightmare?utm_source=api>`"
+#: ../../DMU.rst:389
+msgid "When Vodalian Mindsinger enters the battlefield, gain control of target creature with power less than Vodalian Mindsinger's power for as long as you control Vodalian Mindsinger."
 msgstr ""
 
-#: ../../DMU.rst:391
-msgid "At the beginning of your end step, you may sacrifice an artifact, creature, enchantment, land, or planeswalker. If you do, each opponent may sacrifice a permanent that shares a card type with it. For each opponent who doesn't, that player loses 2 life and you draw a card."
+#: ../../DMU.rst:394
+msgid ":mtgtip:`Volshe Tideturner<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/a/ea61871b-9295-4ea0-86ef-e7a11e23bda8.jpg?1660937412|https://scryfall.com/card/dmu/77/volshe-tideturner?utm_source=api>`"
+msgstr ""
+
+#: ../../DMU.rst:393
+msgid "|tap|: Add |mana_u|. Spend this mana only to cast an instant or sorcery spell or a kicked spell."
 msgstr ""
 
 #: ../../DMU.rst:402
-msgid ":mtgtip:`\"Braids's Nightmarish Return\"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/9/49aa8d4c-04e9-4f38-9786-2c9ad735dd72.jpg?1661360967|https://scryfall.com/card/dmu/85/braidss-nightmarish-return?utm_source=api>`"
-msgstr ""
-
-#: ../../DMU.rst:397
-msgid "I — You may sacrifice a creature. If you do, each opponent discards a card."
+msgid ":mtgtip:`Balduvian Atrocity<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/6/365333c4-59a0-4365-b242-a67b6224c1b8.jpg?1661378514|https://scryfall.com/card/dmu/79/balduvian-atrocity?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:399
-msgid "II — Return target creature card from your graveyard to your hand."
+#: ../../DMU.rst:435
+#: ../../DMU.rst:1059
+msgid "Menace"
 msgstr ""
 
 #: ../../DMU.rst:401
-msgid "III — Target opponent may sacrifice a nonland, nontoken permanent. If they don't, they lose 2 life and you draw a card."
+msgid "When Balduvian Atrocity enters the battlefield, if it was kicked, return target creature card with mana value 3 or less from your graveyard to the battlefield. It gains haste. Sacrifice it at the beginning of the next end step."
 msgstr ""
 
 #: ../../DMU.rst:408
-msgid ":mtgtip:`Cult Conscript<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/e/fed77513-94ab-44e2-b9a1-30ba927cd6ee.jpg?1661089951|https://scryfall.com/card/dmu/88/cult-conscript?utm_source=api>`"
-msgstr ""
-
-#: ../../DMU.rst:405
-msgid "Cult Conscript enters the battlefield tapped."
+msgid ":mtgtip:`Blight Pile<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/d/0dcc2699-03e6-47d1-b976-1453fe9d27b7.jpg?1661191149|https://scryfall.com/card/dmu/82/blight-pile?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:407
-msgid "|mana_1|\\ |mana_b|: Return Cult Conscript from your graveyard to the battlefield. Activate only if a non-Skeleton creature died under your control this turn."
+msgid "|mana_2|\\ |mana_b|, |tap|: Each opponent loses X life, where X is the number of creatures with defender you control."
 msgstr ""
 
 #: ../../DMU.rst:412
-msgid ":mtgtip:`Cut Down<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/5/753db072-5d6a-4f37-8f7d-255572ecd3bd.jpg?1661071155|https://scryfall.com/card/dmu/89/cut-down?utm_source=api>`"
+msgid ":mtgtip:`Braids, Arisen Nightmare<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/f/4ff97c69-6a6b-401c-b0a1-55fa81045d19.jpg?1660840654|https://scryfall.com/card/dmu/84/braids-arisen-nightmare?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:411
-msgid "Destroy target creature with total power and toughness 5 or less."
+msgid "At the beginning of your end step, you may sacrifice an artifact, creature, enchantment, land, or planeswalker. If you do, each opponent may sacrifice a permanent that shares a card type with it. For each opponent who doesn't, that player loses 2 life and you draw a card."
 msgstr ""
 
-#: ../../DMU.rst:420
-msgid ":mtgtip:`Defiler of Flesh<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/1/61a4dd11-6166-4a54-95c0-728c623d0fbc.jpg?1661378535|https://scryfall.com/card/dmu/90/defiler-of-flesh?utm_source=api>`"
+#: ../../DMU.rst:422
+msgid ":mtgtip:`\"Braids's Nightmarish Return\"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/9/49aa8d4c-04e9-4f38-9786-2c9ad735dd72.jpg?1661360967|https://scryfall.com/card/dmu/85/braidss-nightmarish-return?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:417
-msgid "As an additional cost to cast black permanent spells, you may pay 2 life. Those spells cost |mana_b| less to cast if you paid life this way. This effect reduces only the amount of black mana you pay."
+msgid "I — You may sacrifice a creature. If you do, each opponent discards a card."
 msgstr ""
 
 #: ../../DMU.rst:419
-msgid "Whenever you cast a black permanent spell, target creature you control gets +1/+1 and gains menace until end of turn."
+msgid "II — Return target creature card from your graveyard to your hand."
 msgstr ""
 
-#: ../../DMU.rst:424
-msgid ":mtgtip:`Drag to the Bottom<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9d243099-94b1-4571-96af-4c5a34241911.jpg?1661378557|https://scryfall.com/card/dmu/91/drag-to-the-bottom?utm_source=api>`"
+#: ../../DMU.rst:421
+msgid "III — Target opponent may sacrifice a nonland, nontoken permanent. If they don't, they lose 2 life and you draw a card."
 msgstr ""
 
-#: ../../DMU.rst:423
-msgid "Domain — Each creature gets -X/-X until end of turn, where X is 1 plus the number of basic land types among lands you control."
+#: ../../DMU.rst:428
+msgid ":mtgtip:`Cult Conscript<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/e/fed77513-94ab-44e2-b9a1-30ba927cd6ee.jpg?1661089951|https://scryfall.com/card/dmu/88/cult-conscript?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:432
-msgid ":mtgtip:`Evolved Sleeper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/b/ebeafbc2-0399-4335-8f63-76a3e085e8c6.jpg?1658428656|https://scryfall.com/card/dmu/93/evolved-sleeper?utm_source=api>`"
+#: ../../DMU.rst:425
+msgid "Cult Conscript enters the battlefield tapped."
 msgstr ""
 
 #: ../../DMU.rst:427
-msgid "|mana_b|: Evolved Sleeper becomes a Human Cleric with base power and toughness 2/2."
+msgid "|mana_1|\\ |mana_b|: Return Cult Conscript from your graveyard to the battlefield. Activate only if a non-Skeleton creature died under your control this turn."
 msgstr ""
 
-#: ../../DMU.rst:429
-msgid "|mana_1|\\ |mana_b|: If Evolved Sleeper is a Cleric, put a deathtouch counter on it and it becomes a Phyrexian Human Cleric with base power and toughness 3/3."
+#: ../../DMU.rst:432
+msgid ":mtgtip:`Cut Down<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/5/753db072-5d6a-4f37-8f7d-255572ecd3bd.jpg?1661071155|https://scryfall.com/card/dmu/89/cut-down?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:431
-msgid "|mana_1|\\ |mana_b|\\ |mana_b|: If Evolved Sleeper is a Phyrexian, put a +1/+1 counter on it, then you draw a card and you lose 1 life."
+msgid "Destroy target creature with total power and toughness 5 or less."
 msgstr ""
 
-#: ../../DMU.rst:436
-msgid ":mtgtip:`Extinguish the Light<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/1/01a51d08-f90e-4b72-8dce-fb2a6c72f181.jpg?1661357932|https://scryfall.com/card/dmu/94/extinguish-the-light?utm_source=api>`"
+#: ../../DMU.rst:440
+msgid ":mtgtip:`Defiler of Flesh<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/1/61a4dd11-6166-4a54-95c0-728c623d0fbc.jpg?1661378535|https://scryfall.com/card/dmu/90/defiler-of-flesh?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:435
-msgid "Destroy target creature or planeswalker. If its mana value was 3 or less, you gain 3 life."
-msgstr ""
-
-#: ../../DMU.rst:444
-msgid ":mtgtip:`Liliana of the Veil<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/1/d12c8c97-6491-452c-811d-943441a7ef9f.jpg?1660837722|https://scryfall.com/card/dmu/97/liliana-of-the-veil?utm_source=api>`"
+#: ../../DMU.rst:437
+msgid "As an additional cost to cast black permanent spells, you may pay 2 life. Those spells cost |mana_b| less to cast if you paid life this way. This effect reduces only the amount of black mana you pay."
 msgstr ""
 
 #: ../../DMU.rst:439
-msgid "+1: Each player discards a card."
+msgid "Whenever you cast a black permanent spell, target creature you control gets +1/+1 and gains menace until end of turn."
 msgstr ""
 
-#: ../../DMU.rst:441
-msgid "−2: Target player sacrifices a creature."
+#: ../../DMU.rst:444
+msgid ":mtgtip:`Drag to the Bottom<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9d243099-94b1-4571-96af-4c5a34241911.jpg?1661378557|https://scryfall.com/card/dmu/91/drag-to-the-bottom?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:443
-msgid "−6: Separate all permanents target player controls into two piles. That player sacrifices all permanents in the pile of their choice."
+msgid "Domain — Each creature gets -X/-X until end of turn, where X is 1 plus the number of basic land types among lands you control."
 msgstr ""
 
 #: ../../DMU.rst:452
-msgid ":mtgtip:`Monstrous War-Leech<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/6/660d7983-b335-48b4-898d-f182effcf2de.jpg?1661193242|https://scryfall.com/card/dmu/98/monstrous-war-leech?utm_source=api>`"
+msgid ":mtgtip:`Evolved Sleeper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/b/ebeafbc2-0399-4335-8f63-76a3e085e8c6.jpg?1658428656|https://scryfall.com/card/dmu/93/evolved-sleeper?utm_source=api>`"
+msgstr ""
+
+#: ../../DMU.rst:447
+msgid "|mana_b|: Evolved Sleeper becomes a Human Cleric with base power and toughness 2/2."
 msgstr ""
 
 #: ../../DMU.rst:449
-msgid "As Monstrous War-Leech enters the battlefield, if it was kicked, mill four cards. (To mill a card, put the top card of your library into your graveyard.)"
+msgid "|mana_1|\\ |mana_b|: If Evolved Sleeper is a Cleric, put a deathtouch counter on it and it becomes a Phyrexian Human Cleric with base power and toughness 3/3."
 msgstr ""
 
 #: ../../DMU.rst:451
-msgid "Monstrous War-Leech's power and toughness are each equal to the highest mana value among cards in your graveyard."
+msgid "|mana_1|\\ |mana_b|\\ |mana_b|: If Evolved Sleeper is a Phyrexian, put a +1/+1 counter on it, then you draw a card and you lose 1 life."
 msgstr ""
 
 #: ../../DMU.rst:456
-msgid ":mtgtip:`Phyrexian Rager<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/f/6fd574e7-705f-4a65-aad0-68ff6d63bf0f.jpg?1661362144|https://scryfall.com/card/dmu/99/phyrexian-rager?utm_source=api>`"
+msgid ":mtgtip:`Extinguish the Light<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/1/01a51d08-f90e-4b72-8dce-fb2a6c72f181.jpg?1661357932|https://scryfall.com/card/dmu/94/extinguish-the-light?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:455
-msgid "When Phyrexian Rager enters the battlefield, you draw a card and you lose 1 life."
+msgid "Destroy target creature or planeswalker. If its mana value was 3 or less, you gain 3 life."
 msgstr ""
 
 #: ../../DMU.rst:464
-msgid ":mtgtip:`Phyrexian Warhorse<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/4/f42167ef-7858-4c66-b1bc-41c3288a8ee8.jpg?1661381947|https://scryfall.com/card/dmu/101/phyrexian-warhorse?utm_source=api>`"
+msgid ":mtgtip:`Liliana of the Veil<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/1/d12c8c97-6491-452c-811d-943441a7ef9f.jpg?1660837722|https://scryfall.com/card/dmu/97/liliana-of-the-veil?utm_source=api>`"
+msgstr ""
+
+#: ../../DMU.rst:459
+msgid "+1: Each player discards a card."
 msgstr ""
 
 #: ../../DMU.rst:461
-msgid "When Phyrexian Warhorse enters the battlefield, if it was kicked, create a 1/1 white Soldier creature token."
+msgid "−2: Target player sacrifices a creature."
 msgstr ""
 
 #: ../../DMU.rst:463
-msgid "|mana_1|, Sacrifice another creature: Phyrexian Warhorse gets +2/+1 until end of turn."
+msgid "−6: Separate all permanents target player controls into two piles. That player sacrifices all permanents in the pile of their choice."
 msgstr ""
 
-#: ../../DMU.rst:468
-msgid ":mtgtip:`Pilfer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/d/6d872c10-4126-4130-a74a-1331ed418ca8.jpg?1661187692|https://scryfall.com/card/dmu/102/pilfer?utm_source=api>`"
+#: ../../DMU.rst:472
+msgid ":mtgtip:`Monstrous War-Leech<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/6/660d7983-b335-48b4-898d-f182effcf2de.jpg?1661193242|https://scryfall.com/card/dmu/98/monstrous-war-leech?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:467
-msgid "Target opponent reveals their hand. You choose a nonland card from it. That player discards that card."
-msgstr ""
-
-#: ../../DMU.rst:474
-msgid ":mtgtip:`The Raven Man<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/e/6e761fb2-ae4f-4d72-a142-f7e9bd681303.jpg?1660838227|https://scryfall.com/card/dmu/103/the-raven-man?utm_source=api>`"
+#: ../../DMU.rst:469
+msgid "As Monstrous War-Leech enters the battlefield, if it was kicked, mill four cards. (To mill a card, put the top card of your library into your graveyard.)"
 msgstr ""
 
 #: ../../DMU.rst:471
-msgid "At the beginning of each end step, if a player discarded a card this turn, create a 1/1 black Bird creature token with flying and \"This creature can't block.\""
+msgid "Monstrous War-Leech's power and toughness are each equal to the highest mana value among cards in your graveyard."
 msgstr ""
 
-#: ../../DMU.rst:473
-msgid "|mana_3|\\ |mana_b|, |tap|: Each opponent discards a card. Activate only as a sorcery."
+#: ../../DMU.rst:476
+msgid ":mtgtip:`Phyrexian Rager<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/f/6fd574e7-705f-4a65-aad0-68ff6d63bf0f.jpg?1661362144|https://scryfall.com/card/dmu/99/phyrexian-rager?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:480
-msgid ":mtgtip:`Sengir Connoisseur<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7c9231f0-7733-46d9-b9c6-c6c5b7fe65dd.jpg?1661378593|https://scryfall.com/card/dmu/104/sengir-connoisseur?utm_source=api>`"
+#: ../../DMU.rst:475
+msgid "When Phyrexian Rager enters the battlefield, you draw a card and you lose 1 life."
 msgstr ""
 
-#: ../../DMU.rst:479
-msgid "Whenever one or more other creatures die, put a +1/+1 counter on Sengir Connoisseur. This aility triggers only once each turn."
+#: ../../DMU.rst:484
+msgid ":mtgtip:`Phyrexian Warhorse<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/4/f42167ef-7858-4c66-b1bc-41c3288a8ee8.jpg?1661381947|https://scryfall.com/card/dmu/101/phyrexian-warhorse?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:488
-msgid ":mtgtip:`Sheoldred, the Apocalypse<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/6/d67be074-cdd4-41d9-ac89-0a0456c4e4b2.jpg?1660839337|https://scryfall.com/card/dmu/107/sheoldred-the-apocalypse?utm_source=api>`"
+#: ../../DMU.rst:481
+msgid "When Phyrexian Warhorse enters the battlefield, if it was kicked, create a 1/1 white Soldier creature token."
 msgstr ""
 
 #: ../../DMU.rst:483
-#: ../../DMU.rst:531
-#: ../../DMU.rst:909
-msgid "Deathtouch"
+msgid "|mana_1|, Sacrifice another creature: Phyrexian Warhorse gets +2/+1 until end of turn."
 msgstr ""
 
-#: ../../DMU.rst:485
-msgid "Whenever you draw a card, you gain 2 life."
+#: ../../DMU.rst:488
+msgid ":mtgtip:`Pilfer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/d/6d872c10-4126-4130-a74a-1331ed418ca8.jpg?1661187692|https://scryfall.com/card/dmu/102/pilfer?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:487
-msgid "Whenever an opponent draws a card, they lose 2 life."
+msgid "Target opponent reveals their hand. You choose a nonland card from it. That player discards that card."
 msgstr ""
 
-#: ../../DMU.rst:496
-msgid ":mtgtip:`Sheoldred's Restoration<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/d/ed719f25-1aab-4a1e-8c9f-dd574db5de0c.jpg?1661357882|https://scryfall.com/card/dmu/108/sheoldreds-restoration?utm_source=api>`"
+#: ../../DMU.rst:494
+msgid ":mtgtip:`The Raven Man<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/e/6e761fb2-ae4f-4d72-a142-f7e9bd681303.jpg?1660838227|https://scryfall.com/card/dmu/103/the-raven-man?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:491
-#: ../../DMU.rst:807
-msgid "Kicker |mana_2|\\ |mana_w| (You may pay an additional |mana_2|\\ |mana_w| as you cast this spell.)"
+msgid "At the beginning of each end step, if a player discarded a card this turn, create a 1/1 black Bird creature token with flying and \"This creature can't block.\""
 msgstr ""
 
 #: ../../DMU.rst:493
-msgid "Return target creature card from your graveyard to the battlefield. If this spell was kicked, you gain life equal to that card's mana value. Otherwise, you lose that much life."
+msgid "|mana_3|\\ |mana_b|, |tap|: Each opponent discards a card. Activate only as a sorcery."
 msgstr ""
 
-#: ../../DMU.rst:495
-msgid "Exile Sheoldred's Restoration."
-msgstr ""
-
-#: ../../DMU.rst:504
-msgid ":mtgtip:`Stronghold Arena<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/b/fb64b0a7-3e9a-490f-bf02-c62fc8cf750d.jpg?1661189949|https://scryfall.com/card/dmu/110/stronghold-arena?utm_source=api>`"
+#: ../../DMU.rst:500
+msgid ":mtgtip:`Sengir Connoisseur<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7c9231f0-7733-46d9-b9c6-c6c5b7fe65dd.jpg?1661378593|https://scryfall.com/card/dmu/104/sengir-connoisseur?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:499
-msgid "Kicker |mana_g| and/or |mana_w| (You may pay an additional |mana_g| and/or |mana_w| as you cast this spell.)"
+msgid "Whenever one or more other creatures die, put a +1/+1 counter on Sengir Connoisseur. This aility triggers only once each turn."
 msgstr ""
 
-#: ../../DMU.rst:501
-msgid "When Stronghold Arena enters the battlefield, you gain 3 life for each time it was kicked."
+#: ../../DMU.rst:506
+msgid ":mtgtip:`Shadow-Rite Priest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/9/c9e43116-a489-4557-a47f-623d915a2b79.jpg?1661443057|https://scryfall.com/card/dmu/106/shadow-rite-priest?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:503
-msgid "Whenever one or more creatures you control deal combat damage to a player, you may reveal the top card of your library and put it into your hand. If you do, you lose life equal to its mana value."
+msgid "Other Clerics you control get +1/+1."
 msgstr ""
 
-#: ../../DMU.rst:510
-msgid ":mtgtip:`Tattered Apparition<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/3/0368e91c-31ee-4b81-a361-30a4555b1a42.jpg?1660926754|https://scryfall.com/card/dmu/111/tattered-apparition?utm_source=api>`"
-msgstr ""
-
-#: ../../DMU.rst:509
-msgid "|mana_1|\\ |mana_b|: Tattered Apparition gets +1/+1 until end of turn."
+#: ../../DMU.rst:505
+msgid "|mana_3|\\ |mana_b|\\ |mana_b|, |tap|, Sacrifice another Cleric: Search your library for a black creature card, put it onto the battlefield, then shuffle."
 msgstr ""
 
 #: ../../DMU.rst:514
-msgid ":mtgtip:`Toxic Abomination<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/4/f435329e-6de7-4b05-ba70-cb63d121116e.jpg?1660926674|https://scryfall.com/card/dmu/112/toxic-abomination?utm_source=api>`"
+msgid ":mtgtip:`Sheoldred, the Apocalypse<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/6/d67be074-cdd4-41d9-ac89-0a0456c4e4b2.jpg?1660839337|https://scryfall.com/card/dmu/107/sheoldred-the-apocalypse?utm_source=api>`"
+msgstr ""
+
+#: ../../DMU.rst:509
+#: ../../DMU.rst:557
+#: ../../DMU.rst:967
+msgid "Deathtouch"
+msgstr ""
+
+#: ../../DMU.rst:511
+msgid "Whenever you draw a card, you gain 2 life."
 msgstr ""
 
 #: ../../DMU.rst:513
-msgid "When Toxic Abomination enters the battlefield, you lose 2 life."
+msgid "Whenever an opponent draws a card, they lose 2 life."
 msgstr ""
 
-#: ../../DMU.rst:520
-msgid ":mtgtip:`Tribute to Urborg<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/1/31274707-3e16-4f46-8450-6927d936064b.jpg?1661366406|https://scryfall.com/card/dmu/113/tribute-to-urborg?utm_source=api>`"
+#: ../../DMU.rst:522
+msgid ":mtgtip:`Sheoldred's Restoration<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/d/ed719f25-1aab-4a1e-8c9f-dd574db5de0c.jpg?1661357882|https://scryfall.com/card/dmu/108/sheoldreds-restoration?utm_source=api>`"
+msgstr ""
+
+#: ../../DMU.rst:517
+#: ../../DMU.rst:861
+msgid "Kicker |mana_2|\\ |mana_w| (You may pay an additional |mana_2|\\ |mana_w| as you cast this spell.)"
 msgstr ""
 
 #: ../../DMU.rst:519
-msgid "Target creature gets -2/-2 until end of turn. If this spell was kicked, that creature gets an additional -1/-1 until end of turn for each instant and sorcery card in your graveyard."
+msgid "Return target creature card from your graveyard to the battlefield. If this spell was kicked, you gain life equal to that card's mana value. Otherwise, you lose that much life."
 msgstr ""
 
-#: ../../DMU.rst:526
-msgid ":mtgtip:`Urborg Repossession<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/c/ecb8dab0-ecce-4321-b382-c58b296c2fd3.jpg?1660929225|https://scryfall.com/card/dmu/114/urborg-repossession?utm_source=api>`"
+#: ../../DMU.rst:521
+msgid "Exile Sheoldred's Restoration."
+msgstr ""
+
+#: ../../DMU.rst:530
+msgid ":mtgtip:`Stronghold Arena<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/b/fb64b0a7-3e9a-490f-bf02-c62fc8cf750d.jpg?1661189949|https://scryfall.com/card/dmu/110/stronghold-arena?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:525
-msgid "Return target creature card from your graveyard to your hand. You gain 2 life. If this spell was kicked, return another target permanent card from your graveyard to your hand."
+msgid "Kicker |mana_g| and/or |mana_w| (You may pay an additional |mana_g| and/or |mana_w| as you cast this spell.)"
 msgstr ""
 
-#: ../../DMU.rst:532
-msgid ":mtgtip:`Writhing Necromass<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/1/a166abef-f068-47e9-8a65-43ebf4b015bd.jpg?1660929359|https://scryfall.com/card/dmu/115/writhing-necromass?utm_source=api>`"
+#: ../../DMU.rst:527
+msgid "When Stronghold Arena enters the battlefield, you gain 3 life for each time it was kicked."
 msgstr ""
 
 #: ../../DMU.rst:529
-msgid "This spell costs |mana_1| less to cast for each creature card in your graveyard."
+msgid "Whenever one or more creatures you control deal combat damage to a player, you may reveal the top card of your library and put it into your hand. If you do, you lose life equal to its mana value."
 msgstr ""
 
-#: ../../DMU.rst:538
-msgid ":mtgtip:`Balduvian Berserker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/3/c35bab2f-8464-4968-8c50-8807638d687b.jpg?1661378613|https://scryfall.com/card/dmu/116/balduvian-berserker?utm_source=api>`"
+#: ../../DMU.rst:536
+msgid ":mtgtip:`Tattered Apparition<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/3/0368e91c-31ee-4b81-a361-30a4555b1a42.jpg?1660926754|https://scryfall.com/card/dmu/111/tattered-apparition?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:537
-msgid "When Balduvian Berserker dies, it deals damage equal to its power to any target."
+#: ../../DMU.rst:535
+msgid "|mana_1|\\ |mana_b|: Tattered Apparition gets +1/+1 until end of turn."
 msgstr ""
 
-#: ../../DMU.rst:542
-msgid ":mtgtip:`Chaotic Transformation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bdfb44f1-e366-437a-bde3-59bfdb362864.jpg?1661230523|https://scryfall.com/card/dmu/117/chaotic-transformation?utm_source=api>`"
+#: ../../DMU.rst:540
+msgid ":mtgtip:`Toxic Abomination<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/4/f435329e-6de7-4b05-ba70-cb63d121116e.jpg?1660926674|https://scryfall.com/card/dmu/112/toxic-abomination?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:541
-msgid "Exile up to one target artifact, up to one target creature, up to one target enchantment, up to one target planeswalker, and/or up to one target land. For each permanent exiled this way, its controller reveals cards from the top of their library until they reveal a card that shares a card type with it, puts that card onto the battlefield, then shuffles."
+#: ../../DMU.rst:539
+msgid "When Toxic Abomination enters the battlefield, you lose 2 life."
 msgstr ""
 
-#: ../../DMU.rst:548
-msgid ":mtgtip:`Dragon Whelp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/1/d13d40b9-319b-4630-a5cd-228ff2f24367.jpg?1661025265|https://scryfall.com/card/dmu/120/dragon-whelp?utm_source=api>`"
+#: ../../DMU.rst:546
+msgid ":mtgtip:`Tribute to Urborg<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/1/31274707-3e16-4f46-8450-6927d936064b.jpg?1661366406|https://scryfall.com/card/dmu/113/tribute-to-urborg?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:547
-msgid "|mana_r|: Dragon Whelp gets +1/+0 until end of turn. If this ability has been activated four or more times this turn, sacrifice Dragon Whelp at the beginning of the next end step."
+#: ../../DMU.rst:545
+msgid "Target creature gets -2/-2 until end of turn. If this spell was kicked, that creature gets an additional -1/-1 until end of turn for each instant and sorcery card in your graveyard."
+msgstr ""
+
+#: ../../DMU.rst:552
+msgid ":mtgtip:`Urborg Repossession<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/c/ecb8dab0-ecce-4321-b382-c58b296c2fd3.jpg?1660929225|https://scryfall.com/card/dmu/114/urborg-repossession?utm_source=api>`"
+msgstr ""
+
+#: ../../DMU.rst:551
+msgid "Return target creature card from your graveyard to your hand. You gain 2 life. If this spell was kicked, return another target permanent card from your graveyard to your hand."
 msgstr ""
 
 #: ../../DMU.rst:558
-msgid ":mtgtip:`The Elder Dragon War<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/c/0c52c7d4-a350-4518-8c9a-72cf7b14603d.jpg?1661377782|https://scryfall.com/card/dmu/121/the-elder-dragon-war?utm_source=api>`"
-msgstr ""
-
-#: ../../DMU.rst:553
-msgid "I — The Elder Dragon War deals 2 damage to each creature and each opponent."
+msgid ":mtgtip:`Writhing Necromass<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/1/a166abef-f068-47e9-8a65-43ebf4b015bd.jpg?1660929359|https://scryfall.com/card/dmu/115/writhing-necromass?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:555
-msgid "II — Discard any number of cards, then draw that many cards."
-msgstr ""
-
-#: ../../DMU.rst:557
-msgid "III — Create a 4/4 red Dragon creature token with flying."
+msgid "This spell costs |mana_1| less to cast for each creature card in your graveyard."
 msgstr ""
 
 #: ../../DMU.rst:564
-msgid ":mtgtip:`Electrostatic Infantry<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/e/5ed2d72f-f1cf-45a7-adf7-969f531721ce.jpg?1661384090|https://scryfall.com/card/dmu/122/electrostatic-infantry?utm_source=api>`"
-msgstr ""
-
-#: ../../DMU.rst:561
-#: ../../DMU.rst:609
-#: ../../DMU.rst:721
-#: ../../DMU.rst:773
-#: ../../DMU.rst:779
-#: ../../DMU.rst:869
-#: ../../DMU.rst:1261
-msgid "Trample"
+msgid ":mtgtip:`Balduvian Berserker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/3/c35bab2f-8464-4968-8c50-8807638d687b.jpg?1661378613|https://scryfall.com/card/dmu/116/balduvian-berserker?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:563
-msgid "Whenever you cast an instant or sorcery spell, put a +1/+1 counter on Electrostatic Infantry."
+msgid "When Balduvian Berserker dies, it deals damage equal to its power to any target."
 msgstr ""
 
-#: ../../DMU.rst:570
-msgid ":mtgtip:`Fires of Victory<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/5/c58096e5-3cd4-4edd-b71a-3bdb47ab2536.jpg?1661384113|https://scryfall.com/card/dmu/123/fires-of-victory?utm_source=api>`"
+#: ../../DMU.rst:568
+msgid ":mtgtip:`Chaotic Transformation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bdfb44f1-e366-437a-bde3-59bfdb362864.jpg?1661230523|https://scryfall.com/card/dmu/117/chaotic-transformation?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:567
-msgid "Kicker |mana_2|\\ |mana_u| (You may pay an additional |mana_2|\\ |mana_u| as you cast this spell.)"
+msgid "Exile up to one target artifact, up to one target creature, up to one target enchantment, up to one target planeswalker, and/or up to one target land. For each permanent exiled this way, its controller reveals cards from the top of their library until they reveal a card that shares a card type with it, puts that card onto the battlefield, then shuffles."
 msgstr ""
 
-#: ../../DMU.rst:569
-msgid "If this spell was kicked, draw a card. Fires of Victory deals damage to target creature or planeswalker equal to the number of cards in your hand."
-msgstr ""
-
-#: ../../DMU.rst:574
-msgid ":mtgtip:`Hurler Cyclops<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/1/b16f2cf2-5908-4f49-9c5c-6c9e22a65a4d.jpg?1661231046|https://scryfall.com/card/dmu/130/hurler-cyclops?utm_source=api>`"
+#: ../../DMU.rst:576
+msgid ":mtgtip:`Defiler of Instinct<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/e/0e76e0cc-caff-4b15-b550-39e2324c8c95.jpg?1661439827|https://scryfall.com/card/dmu/119/defiler-of-instinct?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:573
-msgid "|mana_1|, Sacrifice another creature: Hurler Cyclops deals 1 damage to any target."
+msgid "As an additional cost to cast red permanent spells, you may pay 2 life. Those spells cost |mana_r| less to cast if you paid life this way. This effect reduces only the amount of red mana you pay."
 msgstr ""
 
-#: ../../DMU.rst:580
-msgid ":mtgtip:`Hurloon Battle Hymn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/f/ff252e80-c155-467b-8df3-9bddc5cc45c3.jpg?1661384140|https://scryfall.com/card/dmu/131/hurloon-battle-hymn?utm_source=api>`"
+#: ../../DMU.rst:575
+msgid "Whenever you cast a red permanent spell, Defiler of Instinct deals 1 damage to any target."
 msgstr ""
 
-#: ../../DMU.rst:579
-msgid "Hurloon Battle Hymn deals 4 damage to target creature or planeswalker. If this spell was kicked, you gain 4 life."
+#: ../../DMU.rst:582
+msgid ":mtgtip:`Dragon Whelp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/1/d13d40b9-319b-4630-a5cd-228ff2f24367.jpg?1661025265|https://scryfall.com/card/dmu/120/dragon-whelp?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:590
-msgid ":mtgtip:`Jaya, Fiery Negotiator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/b/3b9f54f0-4368-4d28-aa21-3f1e7be1b23a.jpg?1658428597|https://scryfall.com/card/dmu/133/jaya-fiery-negotiator?utm_source=api>`"
+#: ../../DMU.rst:581
+msgid "|mana_r|: Dragon Whelp gets +1/+0 until end of turn. If this ability has been activated four or more times this turn, sacrifice Dragon Whelp at the beginning of the next end step."
 msgstr ""
 
-#: ../../DMU.rst:583
-msgid "+1: Create a 1/1 red Monk creature token with prowess."
-msgstr ""
-
-#: ../../DMU.rst:585
-msgid "−1: Exile the top two cards of your library. Choose one of them. You may play that card this turn."
+#: ../../DMU.rst:592
+msgid ":mtgtip:`The Elder Dragon War<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/c/0c52c7d4-a350-4518-8c9a-72cf7b14603d.jpg?1661377782|https://scryfall.com/card/dmu/121/the-elder-dragon-war?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:587
-msgid "−2: Choose target creature an opponent controls. Whenever you attack this turn, Jaya, Fiery Negotiator deals damage equal to the number of attacking creatures to that creature."
+msgid "I — The Elder Dragon War deals 2 damage to each creature and each opponent."
 msgstr ""
 
 #: ../../DMU.rst:589
-msgid "−8: You get an emblem with \"Whenever you cast a red instant or sorcery spell, copy it twice. You may choose new targets for the copies.\""
+msgid "II — Discard any number of cards, then draw that many cards."
 msgstr ""
 
-#: ../../DMU.rst:594
-msgid ":mtgtip:`Jaya's Firenado<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/b/4b78eaab-819c-4f06-b3b1-a25c17ab2235.jpg?1661231857|https://scryfall.com/card/dmu/134/jayas-firenado?utm_source=api>`"
+#: ../../DMU.rst:591
+msgid "III — Create a 4/4 red Dragon creature token with flying."
 msgstr ""
 
-#: ../../DMU.rst:593
-msgid "Jaya's Firenado deals 5 damage to target creature or planeswalker. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
+#: ../../DMU.rst:598
+msgid ":mtgtip:`Electrostatic Infantry<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/e/5ed2d72f-f1cf-45a7-adf7-969f531721ce.jpg?1661384090|https://scryfall.com/card/dmu/122/electrostatic-infantry?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:600
-msgid ":mtgtip:`Keldon Flamesage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/1/710d2a3c-63a7-4e33-9ae3-21fb6b3d8326.jpg?1660976095|https://scryfall.com/card/dmu/135/keldon-flamesage?utm_source=api>`"
+#: ../../DMU.rst:595
+#: ../../DMU.rst:643
+#: ../../DMU.rst:765
+#: ../../DMU.rst:817
+#: ../../DMU.rst:823
+#: ../../DMU.rst:923
+#: ../../DMU.rst:1329
+msgid "Trample"
 msgstr ""
 
 #: ../../DMU.rst:597
-msgid "Enlist"
-msgstr ""
-
-#: ../../DMU.rst:599
-msgid "Whenever Keldon Flamesage attacks, look at the top X cards of your library, where X is Keldon Flamesage's power. You may exile an instant or sorcery card with mana value X or less from among them. Put the rest on the bottom of your library in a random order. You may cast the exiled card without paying its mana cost."
+msgid "Whenever you cast an instant or sorcery spell, put a +1/+1 counter on Electrostatic Infantry."
 msgstr ""
 
 #: ../../DMU.rst:604
-msgid ":mtgtip:`Lightning Strike<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/d/7d541125-bfb8-4f88-8bf3-ad7b6af7ad1d.jpg?1660887334|https://scryfall.com/card/dmu/137/lightning-strike?utm_source=api>`"
+msgid ":mtgtip:`Fires of Victory<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/5/c58096e5-3cd4-4edd-b71a-3bdb47ab2536.jpg?1661384113|https://scryfall.com/card/dmu/123/fires-of-victory?utm_source=api>`"
+msgstr ""
+
+#: ../../DMU.rst:601
+msgid "Kicker |mana_2|\\ |mana_u| (You may pay an additional |mana_2|\\ |mana_u| as you cast this spell.)"
 msgstr ""
 
 #: ../../DMU.rst:603
-msgid "Lightning Strike deals 3 damage to any target."
+msgid "If this spell was kicked, draw a card. Fires of Victory deals damage to target creature or planeswalker equal to the number of cards in your hand."
 msgstr ""
 
-#: ../../DMU.rst:610
-msgid ":mtgtip:`Molten Monstrosity<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/4/240957e5-ab0a-443f-92de-ae999b08c44f.jpg?1660927228|https://scryfall.com/card/dmu/139/molten-monstrosity?utm_source=api>`"
+#: ../../DMU.rst:608
+msgid ":mtgtip:`Hurler Cyclops<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/1/b16f2cf2-5908-4f49-9c5c-6c9e22a65a4d.jpg?1661231046|https://scryfall.com/card/dmu/130/hurler-cyclops?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:607
-msgid "This spell costs |mana_x| less to cast, where X is the greatest power among creatures you control."
+msgid "|mana_1|, Sacrifice another creature: Hurler Cyclops deals 1 damage to any target."
 msgstr ""
 
-#: ../../DMU.rst:618
-msgid ":mtgtip:`Phoenix Chick<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/76bdc912-61da-428d-b0d7-3a38676a402a.jpg?1661102237|https://scryfall.com/card/dmu/140/phoenix-chick?utm_source=api>`"
+#: ../../DMU.rst:614
+msgid ":mtgtip:`Hurloon Battle Hymn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/f/ff252e80-c155-467b-8df3-9bddc5cc45c3.jpg?1661384140|https://scryfall.com/card/dmu/131/hurloon-battle-hymn?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:613
-#: ../../DMU.rst:633
-msgid "Flying, haste"
-msgstr ""
-
-#: ../../DMU.rst:615
-msgid "Phoenix Chick can't block."
-msgstr ""
-
-#: ../../DMU.rst:617
-msgid "Whenever you attack with three or more creatures, you may pay |mana_r|\\ |mana_r|. If you do, return Phoenix Chick from your graveyard to the battlefield tapped and attacking with a +1/+1 counter on it."
+msgid "Hurloon Battle Hymn deals 4 damage to target creature or planeswalker. If this spell was kicked, you gain 4 life."
 msgstr ""
 
 #: ../../DMU.rst:624
-msgid ":mtgtip:`Radha's Firebrand<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/e/ae8a90c4-4a79-49e7-9fab-076b35d28adb.jpg?1660844817|https://scryfall.com/card/dmu/141/radhas-firebrand?utm_source=api>`"
+msgid ":mtgtip:`Jaya, Fiery Negotiator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/b/3b9f54f0-4368-4d28-aa21-3f1e7be1b23a.jpg?1658428597|https://scryfall.com/card/dmu/133/jaya-fiery-negotiator?utm_source=api>`"
+msgstr ""
+
+#: ../../DMU.rst:617
+msgid "+1: Create a 1/1 red Monk creature token with prowess."
+msgstr ""
+
+#: ../../DMU.rst:619
+msgid "−1: Exile the top two cards of your library. Choose one of them. You may play that card this turn."
 msgstr ""
 
 #: ../../DMU.rst:621
-msgid "Whenever Radha's Firebrand attacks, target creature defending player controls with power less than Radha's Firebrand's power can't block this turn."
+msgid "−2: Choose target creature an opponent controls. Whenever you attack this turn, Jaya, Fiery Negotiator deals damage equal to the number of attacking creatures to that creature."
 msgstr ""
 
 #: ../../DMU.rst:623
-msgid "Domain — |mana_5|\\ |mana_r|: Radha's Firebrand gets +2/+2 until end of turn. This ability costs |mana_1| less to activate for each basic land type among lands you control. Activate only once each turn."
+msgid "−8: You get an emblem with \"Whenever you cast a red instant or sorcery spell, copy it twice. You may choose new targets for the copies.\""
 msgstr ""
 
-#: ../../DMU.rst:630
-msgid ":mtgtip:`Rundvelt Hordemaster<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/f/ffee9dbe-af90-4e19-844d-4df1180f24c4.jpg?1661231480|https://scryfall.com/card/dmu/142/rundvelt-hordemaster?utm_source=api>`"
+#: ../../DMU.rst:628
+msgid ":mtgtip:`Jaya's Firenado<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/b/4b78eaab-819c-4f06-b3b1-a25c17ab2235.jpg?1661231857|https://scryfall.com/card/dmu/134/jayas-firenado?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:627
-msgid "Other Goblins you control get +1/+1."
+msgid "Jaya's Firenado deals 5 damage to target creature or planeswalker. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
 
-#: ../../DMU.rst:629
-msgid "Whenever Rundvelt Hordemaster or another Goblin you control dies, exile the top card of your library. If it's a Goblin creature card, you may cast that card until the end of your next turn."
+#: ../../DMU.rst:634
+msgid ":mtgtip:`Keldon Flamesage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/1/710d2a3c-63a7-4e33-9ae3-21fb6b3d8326.jpg?1660976095|https://scryfall.com/card/dmu/135/keldon-flamesage?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:636
-msgid ":mtgtip:`Shivan Devastator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/f/1f5d274c-3a03-4f0d-97e8-7eef6508105d.jpg?1658428648|https://scryfall.com/card/dmu/143/shivan-devastator?utm_source=api>`"
+#: ../../DMU.rst:631
+msgid "Enlist"
 msgstr ""
 
-#: ../../DMU.rst:635
-msgid "Shivan Devastator enters the battlefield with X +1/+1 counters on it."
+#: ../../DMU.rst:633
+msgid "Whenever Keldon Flamesage attacks, look at the top X cards of your library, where X is Keldon Flamesage's power. You may exile an instant or sorcery card with mana value X or less from among them. Put the rest on the bottom of your library in a random order. You may cast the exiled card without paying its mana cost."
+msgstr ""
+
+#: ../../DMU.rst:638
+msgid ":mtgtip:`Lightning Strike<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/d/7d541125-bfb8-4f88-8bf3-ad7b6af7ad1d.jpg?1660887334|https://scryfall.com/card/dmu/137/lightning-strike?utm_source=api>`"
+msgstr ""
+
+#: ../../DMU.rst:637
+msgid "Lightning Strike deals 3 damage to any target."
 msgstr ""
 
 #: ../../DMU.rst:644
-msgid ":mtgtip:`Sprouting Goblin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/0/602f5370-d096-4765-b612-16bcec3aafa7.jpg?1661301743|https://scryfall.com/card/dmu/145/sprouting-goblin?utm_source=api>`"
+msgid ":mtgtip:`Molten Monstrosity<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/4/240957e5-ab0a-443f-92de-ae999b08c44f.jpg?1660927228|https://scryfall.com/card/dmu/139/molten-monstrosity?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:641
-msgid "When Sprouting Goblin enters the battlefield, if it was kicked, search your library for a land card with a basic land type, reveal it, put it into your hand, then shuffle."
-msgstr ""
-
-#: ../../DMU.rst:643
-msgid "|mana_r|, |tap|, Sacrifice a land: Draw a card."
+msgid "This spell costs |mana_x| less to cast, where X is the greatest power among creatures you control."
 msgstr ""
 
 #: ../../DMU.rst:652
-msgid ":mtgtip:`Squee, Dubious Monarch<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/c/3cd907ed-9c68-4bd6-af92-6244909fdf8b.jpg?1660887155|https://scryfall.com/card/dmu/146/squee-dubious-monarch?utm_source=api>`"
+msgid ":mtgtip:`Phoenix Chick<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/76bdc912-61da-428d-b0d7-3a38676a402a.jpg?1661102237|https://scryfall.com/card/dmu/140/phoenix-chick?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:647
-#: ../../DMU.rst:679
-msgid "Haste"
+#: ../../DMU.rst:667
+msgid "Flying, haste"
 msgstr ""
 
 #: ../../DMU.rst:649
-msgid "Whenever Squee, Dubious Monarch attacks, create a 1/1 red Goblin creature token that's tapped and attacking."
+msgid "Phoenix Chick can't block."
 msgstr ""
 
 #: ../../DMU.rst:651
-msgid "You may cast Squee, Dubious Monarch from your graveyard by paying |mana_3|\\ |mana_r| and exiling four other cards from your graveyard rather than paying its mana cost."
+msgid "Whenever you attack with three or more creatures, you may pay |mana_r|\\ |mana_r|. If you do, return Phoenix Chick from your graveyard to the battlefield tapped and attacking with a +1/+1 counter on it."
 msgstr ""
 
-#: ../../DMU.rst:660
-msgid ":mtgtip:`Temporal Firestorm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9d690340-75f1-4733-bde5-2d60fd02f060.jpg?1658593615|https://scryfall.com/card/dmu/147/temporal-firestorm?utm_source=api>`"
+#: ../../DMU.rst:658
+msgid ":mtgtip:`Radha's Firebrand<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/e/ae8a90c4-4a79-49e7-9fab-076b35d28adb.jpg?1660844817|https://scryfall.com/card/dmu/141/radhas-firebrand?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:655
-msgid "Kicker |mana_1|\\ |mana_w| and/or |mana_1|\\ |mana_u| (You may pay an additional |mana_1|\\ |mana_w| and/or |mana_1|\\ |mana_u| as you cast this spell.)"
+msgid "Whenever Radha's Firebrand attacks, target creature defending player controls with power less than Radha's Firebrand's power can't block this turn."
 msgstr ""
 
 #: ../../DMU.rst:657
-msgid "Choose up to X creatures and/or planeswalkers you control, where X is the number of times this spell was kicked. Those permanents phase out."
+msgid "Domain — |mana_5|\\ |mana_r|: Radha's Firebrand gets +2/+2 until end of turn. This ability costs |mana_1| less to activate for each basic land type among lands you control. Activate only once each turn."
 msgstr ""
 
-#: ../../DMU.rst:659
-msgid "Temporal Firestorm deals 5 damage to each creature and each planeswalker."
+#: ../../DMU.rst:664
+msgid ":mtgtip:`Rundvelt Hordemaster<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/f/ffee9dbe-af90-4e19-844d-4df1180f24c4.jpg?1661231480|https://scryfall.com/card/dmu/142/rundvelt-hordemaster?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:666
-msgid ":mtgtip:`Thrill of Possibility<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/5/25e5dc88-9573-4eaa-bd37-eb0dee4add03.jpg?1661384198|https://scryfall.com/card/dmu/148/thrill-of-possibility?utm_source=api>`"
+#: ../../DMU.rst:661
+msgid "Other Goblins you control get +1/+1."
 msgstr ""
 
 #: ../../DMU.rst:663
-msgid "As an additional cost to cast this spell, discard a card."
+msgid "Whenever Rundvelt Hordemaster or another Goblin you control dies, exile the top card of your library. If it's a Goblin creature card, you may cast that card until the end of your next turn."
 msgstr ""
 
-#: ../../DMU.rst:665
-msgid "Draw two cards."
-msgstr ""
-
-#: ../../DMU.rst:674
-msgid ":mtgtip:`Twinferno<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/c/bc531409-26cb-4c58-ba69-f39dd8aee3d1.jpg?1661188941|https://scryfall.com/card/dmu/149/twinferno?utm_source=api>`"
+#: ../../DMU.rst:670
+msgid ":mtgtip:`Shivan Devastator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/f/1f5d274c-3a03-4f0d-97e8-7eef6508105d.jpg?1658428648|https://scryfall.com/card/dmu/143/shivan-devastator?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:669
-msgid "Choose one —"
+msgid "Shivan Devastator enters the battlefield with X +1/+1 counters on it."
 msgstr ""
 
-#: ../../DMU.rst:671
-msgid "When you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy."
+#: ../../DMU.rst:680
+msgid ":mtgtip:`Smash to Dust<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/4/747881c7-3788-4dd6-b78d-b2a5ded20e14.jpg?1661419822|https://scryfall.com/card/dmu/144/smash-to-dust?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:673
-msgid "Target creature you control gains double strike until end of turn."
+#: ../../DMU.rst:713
+msgid "Choose one —"
 msgstr ""
 
-#: ../../DMU.rst:684
-msgid ":mtgtip:`Viashino Branchrider<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/f/1f08749e-05e0-4fb4-a4ae-35e7187584ab.jpg?1660927161|https://scryfall.com/card/dmu/150/viashino-branchrider?utm_source=api>`"
+#: ../../DMU.rst:675
+msgid "Destroy target artifact."
 msgstr ""
 
 #: ../../DMU.rst:677
-msgid "Kicker |mana_2|\\ |mana_g| (You may pay an additional |mana_2|\\ |mana_g| as you cast this spell.)"
+msgid "Destroy target creature with defender."
 msgstr ""
 
-#: ../../DMU.rst:681
-msgid "If Viashino Branchrider was kicked, it enters the battlefield with two +1/+1 counters on it."
+#: ../../DMU.rst:679
+msgid "Smash to Dust deals 1 damage to each creature your opponents control."
 msgstr ""
 
-#: ../../DMU.rst:683
-msgid "|mana_2|\\ |mana_r|: Viashino Branchrider gets +2/+0 until end of turn."
+#: ../../DMU.rst:688
+msgid ":mtgtip:`Sprouting Goblin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/0/602f5370-d096-4765-b612-16bcec3aafa7.jpg?1661301743|https://scryfall.com/card/dmu/145/sprouting-goblin?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:690
-msgid ":mtgtip:`Warhost's Frenzy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/8/a83d571b-ad91-43f5-8498-115cede4867d.jpg?1661303299|https://scryfall.com/card/dmu/151/warhosts-frenzy?utm_source=api>`"
+#: ../../DMU.rst:685
+msgid "When Sprouting Goblin enters the battlefield, if it was kicked, search your library for a land card with a basic land type, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
-#: ../../DMU.rst:689
-msgid "Creatures you control get +2/+0 until end of turn. If this spell was kicked, whenever a creature you control dies this turn, draw a card."
+#: ../../DMU.rst:687
+msgid "|mana_r|, |tap|, Sacrifice a land: Draw a card."
 msgstr ""
 
 #: ../../DMU.rst:696
-msgid ":mtgtip:`Yavimaya Steelcrusher<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/5/25175622-7b68-4916-adf2-3bf2d82e8356.jpg?1661108614|https://scryfall.com/card/dmu/152/yavimaya-steelcrusher?utm_source=api>`"
+msgid ":mtgtip:`Squee, Dubious Monarch<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/c/3cd907ed-9c68-4bd6-af92-6244909fdf8b.jpg?1660887155|https://scryfall.com/card/dmu/146/squee-dubious-monarch?utm_source=api>`"
+msgstr ""
+
+#: ../../DMU.rst:691
+#: ../../DMU.rst:723
+msgid "Haste"
+msgstr ""
+
+#: ../../DMU.rst:693
+msgid "Whenever Squee, Dubious Monarch attacks, create a 1/1 red Goblin creature token that's tapped and attacking."
 msgstr ""
 
 #: ../../DMU.rst:695
-msgid "|mana_1|, Sacrifice Yavimaya Steelcrusher: Destroy target artifact."
+msgid "You may cast Squee, Dubious Monarch from your graveyard by paying |mana_3|\\ |mana_r| and exiling four other cards from your graveyard rather than paying its mana cost."
 msgstr ""
 
-#: ../../DMU.rst:706
-msgid ":mtgtip:`Yotia Declares War<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/b/3bd9e99a-ae8c-4323-aa86-b19288c877d4.jpg?1661384224|https://scryfall.com/card/dmu/153/yotia-declares-war?utm_source=api>`"
+#: ../../DMU.rst:704
+msgid ":mtgtip:`Temporal Firestorm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9d690340-75f1-4733-bde5-2d60fd02f060.jpg?1658593615|https://scryfall.com/card/dmu/147/temporal-firestorm?utm_source=api>`"
+msgstr ""
+
+#: ../../DMU.rst:699
+msgid "Kicker |mana_1|\\ |mana_w| and/or |mana_1|\\ |mana_u| (You may pay an additional |mana_1|\\ |mana_w| and/or |mana_1|\\ |mana_u| as you cast this spell.)"
 msgstr ""
 
 #: ../../DMU.rst:701
-msgid "I — Create a 0/2 colorless Thopter artifact creature token with flying named Ornithopter."
+msgid "Choose up to X creatures and/or planeswalkers you control, where X is the number of times this spell was kicked. Those permanents phase out."
 msgstr ""
 
 #: ../../DMU.rst:703
-msgid "II — Tap any number of untapped artifacts you control. When you do, Yotia Declares War deals that much damage to target creature or planeswalker."
+msgid "Temporal Firestorm deals 5 damage to each creature and each planeswalker."
 msgstr ""
 
-#: ../../DMU.rst:705
-msgid "III — Up to one target artifact you control becomes an artifact creature with base power and toughness 4/4 until end of turn."
+#: ../../DMU.rst:710
+msgid ":mtgtip:`Thrill of Possibility<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/5/25e5dc88-9573-4eaa-bd37-eb0dee4add03.jpg?1661392633|https://scryfall.com/card/dmu/148/thrill-of-possibility?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:712
-msgid ":mtgtip:`Bog Badger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/d/3d31d878-9114-4205-b7a9-bb13ce6aedd2.jpg?1661231642|https://scryfall.com/card/dmu/156/bog-badger?utm_source=api>`"
+#: ../../DMU.rst:707
+msgid "As an additional cost to cast this spell, discard a card."
 msgstr ""
 
-#: ../../DMU.rst:711
-msgid "When Bog Badger enters the battlefield, if it was kicked, creatures you control gain menace until end of turn. (A creature with menace can't be blocked except by two or more creatures.)"
+#: ../../DMU.rst:709
+msgid "Draw two cards."
 msgstr ""
 
 #: ../../DMU.rst:718
-msgid ":mtgtip:`Colossal Growth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/9/d9142f35-75f4-44c7-b03c-79c4a2d43c88.jpg?1661190486|https://scryfall.com/card/dmu/158/colossal-growth?utm_source=api>`"
+msgid ":mtgtip:`Twinferno<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/c/bc531409-26cb-4c58-ba69-f39dd8aee3d1.jpg?1661188941|https://scryfall.com/card/dmu/149/twinferno?utm_source=api>`"
+msgstr ""
+
+#: ../../DMU.rst:715
+msgid "When you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy."
 msgstr ""
 
 #: ../../DMU.rst:717
-msgid "Target creature gets +3/+3 until end of turn. If this spell was kicked, instead that creature gets +4/+4 and gains trample and haste until end of turn."
+msgid "Target creature you control gains double strike until end of turn."
 msgstr ""
 
-#: ../../DMU.rst:726
-msgid ":mtgtip:`Defiler of Vigor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/8/0896860c-d028-4193-89a5-97e05c12a1e7.jpg?1660925552|https://scryfall.com/card/dmu/160/defiler-of-vigor?utm_source=api>`"
+#: ../../DMU.rst:728
+msgid ":mtgtip:`Viashino Branchrider<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/f/1f08749e-05e0-4fb4-a4ae-35e7187584ab.jpg?1660927161|https://scryfall.com/card/dmu/150/viashino-branchrider?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:723
-msgid "As an additional cost to cast green permanent spells, you may pay 2 life. Those spells cost |mana_g| less to cast if you paid life this way. This effect reduces only the amount of green mana you pay."
+#: ../../DMU.rst:721
+msgid "Kicker |mana_2|\\ |mana_g| (You may pay an additional |mana_2|\\ |mana_g| as you cast this spell.)"
 msgstr ""
 
 #: ../../DMU.rst:725
-msgid "Whenever you cast a green permanent spell, put a +1/+1 counter on each creature you control."
+msgid "If Viashino Branchrider was kicked, it enters the battlefield with two +1/+1 counters on it."
 msgstr ""
 
-#: ../../DMU.rst:732
-msgid ":mtgtip:`Elvish Hydromancer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/0/90dc4122-4f7a-4d9f-8427-de36e3e8a913.jpg?1661362116|https://scryfall.com/card/dmu/162/elvish-hydromancer?utm_source=api>`"
+#: ../../DMU.rst:727
+msgid "|mana_2|\\ |mana_r|: Viashino Branchrider gets +2/+0 until end of turn."
 msgstr ""
 
-#: ../../DMU.rst:729
-msgid "Kicker |mana_3|\\ |mana_u| (You may pay an additional |mana_3|\\ |mana_u| as you cast this spell.)"
+#: ../../DMU.rst:734
+msgid ":mtgtip:`Warhost's Frenzy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/8/a83d571b-ad91-43f5-8498-115cede4867d.jpg?1661303299|https://scryfall.com/card/dmu/151/warhosts-frenzy?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:731
-msgid "When Elvish Hydromancer enters the battlefield, if it was kicked, create a token that's a copy of target creature you control."
+#: ../../DMU.rst:733
+msgid "Creatures you control get +2/+0 until end of turn. If this spell was kicked, whenever a creature you control dies this turn, draw a card."
 msgstr ""
 
-#: ../../DMU.rst:736
-msgid ":mtgtip:`Gaea's Might<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/9/89c46e9c-ae7c-466c-bb11-4f4d01ea7a63.jpg?1661384249|https://scryfall.com/card/dmu/164/gaeas-might?utm_source=api>`"
-msgstr ""
-
-#: ../../DMU.rst:735
-msgid "Domain — Target creature gets +1/+1 until end of turn for each basic land type among lands you control."
-msgstr ""
-
-#: ../../DMU.rst:742
-msgid ":mtgtip:`Herd Migration<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/0/b0244a1f-e696-4223-9c14-22c2ca3cb738.jpg?1661064893|https://scryfall.com/card/dmu/165/herd-migration?utm_source=api>`"
+#: ../../DMU.rst:740
+msgid ":mtgtip:`Yavimaya Steelcrusher<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/5/25175622-7b68-4916-adf2-3bf2d82e8356.jpg?1661108614|https://scryfall.com/card/dmu/152/yavimaya-steelcrusher?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:739
-msgid "Domain — Create a 3/3 green Beast creature token for each basic land type among lands you control."
+msgid "|mana_1|, Sacrifice Yavimaya Steelcrusher: Destroy target artifact."
 msgstr ""
 
-#: ../../DMU.rst:741
-msgid "|mana_1|\\ |mana_g|, Discard Herd Migration: Search your library for a basic land card, reveal it, put it into your hand, then shuffle. You gain 3 life."
-msgstr ""
-
-#: ../../DMU.rst:748
-msgid ":mtgtip:`Leaf-Crowned Visionary<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/a/aa7bd814-9f88-4e01-932d-07ac1abc060e.jpg?1661359569|https://scryfall.com/card/dmu/167/leaf-crowned-visionary?utm_source=api>`"
+#: ../../DMU.rst:750
+msgid ":mtgtip:`Yotia Declares War<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/b/3bd9e99a-ae8c-4323-aa86-b19288c877d4.jpg?1661384224|https://scryfall.com/card/dmu/153/yotia-declares-war?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:745
-msgid "Other Elves you control get +1/+1."
+msgid "I — Create a 0/2 colorless Thopter artifact creature token with flying named Ornithopter."
 msgstr ""
 
 #: ../../DMU.rst:747
-msgid "Whenever you cast an Elf spell, you may pay |mana_g|. If you do, draw a card."
+msgid "II — Tap any number of untapped artifacts you control. When you do, Yotia Declares War deals that much damage to target creature or planeswalker."
 msgstr ""
 
-#: ../../DMU.rst:754
-msgid ":mtgtip:`Linebreaker Baloth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/5/15cc59c7-6478-4f84-898a-7e0fed10f004.jpg?1661357427|https://scryfall.com/card/dmu/168/linebreaker-baloth?utm_source=api>`"
+#: ../../DMU.rst:749
+msgid "III — Up to one target artifact you control becomes an artifact creature with base power and toughness 4/4 until end of turn."
 msgstr ""
 
-#: ../../DMU.rst:753
-msgid "Linebreaker Baloth can't be blocked by creatures with power 2 or less."
+#: ../../DMU.rst:756
+msgid ":mtgtip:`Bog Badger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/d/3d31d878-9114-4205-b7a9-bb13ce6aedd2.jpg?1661231642|https://scryfall.com/card/dmu/156/bog-badger?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:760
-msgid ":mtgtip:`Llanowar Greenwidow<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/1/81f90e4d-f60f-4175-830f-c2ce04c5a945.jpg?1661384268|https://scryfall.com/card/dmu/169/llanowar-greenwidow?utm_source=api>`"
+#: ../../DMU.rst:755
+msgid "When Bog Badger enters the battlefield, if it was kicked, creatures you control gain menace until end of turn. (A creature with menace can't be blocked except by two or more creatures.)"
 msgstr ""
 
-#: ../../DMU.rst:757
-msgid "Reach, trample"
+#: ../../DMU.rst:762
+msgid ":mtgtip:`Colossal Growth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/9/d9142f35-75f4-44c7-b03c-79c4a2d43c88.jpg?1661190486|https://scryfall.com/card/dmu/158/colossal-growth?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:759
-msgid "Domain — |mana_7|\\ |mana_g|: Return Llanowar Greenwidow from your graveyard to the battlefield tapped. It gains \"If this permanent would leave the battlefield, exile it instead.\" This ability costs |mana_1| less to activate for each basic land type among lands you control."
-msgstr ""
-
-#: ../../DMU.rst:766
-msgid ":mtgtip:`Llanowar Loamspeaker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bd5611db-82dd-464d-8b03-70d7619dcefe.jpg?1659472105|https://scryfall.com/card/dmu/170/llanowar-loamspeaker?utm_source=api>`"
-msgstr ""
-
-#: ../../DMU.rst:763
-msgid "|tap|: Add one mana of any color."
-msgstr ""
-
-#: ../../DMU.rst:765
-msgid "|tap|: Target land you control becomes a 3/3 Elemental creature with haste until end of turn. It's still a land. Activate only as a sorcery."
+#: ../../DMU.rst:761
+msgid "Target creature gets +3/+3 until end of turn. If this spell was kicked, instead that creature gets +4/+4 and gains trample and haste until end of turn."
 msgstr ""
 
 #: ../../DMU.rst:770
-msgid ":mtgtip:`Magnigoth Sentry<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/9/d939d4bc-b7e8-4ee8-b904-68f0bff0fde1.jpg?1660927415|https://scryfall.com/card/dmu/172/magnigoth-sentry?utm_source=api>`"
+msgid ":mtgtip:`Defiler of Vigor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/8/0896860c-d028-4193-89a5-97e05c12a1e7.jpg?1660925552|https://scryfall.com/card/dmu/160/defiler-of-vigor?utm_source=api>`"
+msgstr ""
+
+#: ../../DMU.rst:767
+msgid "As an additional cost to cast green permanent spells, you may pay 2 life. Those spells cost |mana_g| less to cast if you paid life this way. This effect reduces only the amount of green mana you pay."
 msgstr ""
 
 #: ../../DMU.rst:769
-#: ../../DMU.rst:959
-msgid "Reach"
+msgid "Whenever you cast a green permanent spell, put a +1/+1 counter on each creature you control."
 msgstr ""
 
 #: ../../DMU.rst:776
-msgid ":mtgtip:`Mossbeard Ancient<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/e/7e528d36-cea6-4013-83d5-ba837d570713.jpg?1661358488|https://scryfall.com/card/dmu/173/mossbeard-ancient?utm_source=api>`"
+msgid ":mtgtip:`Elvish Hydromancer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/0/90dc4122-4f7a-4d9f-8427-de36e3e8a913.jpg?1661362116|https://scryfall.com/card/dmu/162/elvish-hydromancer?utm_source=api>`"
+msgstr ""
+
+#: ../../DMU.rst:773
+msgid "Kicker |mana_3|\\ |mana_u| (You may pay an additional |mana_3|\\ |mana_u| as you cast this spell.)"
 msgstr ""
 
 #: ../../DMU.rst:775
-msgid "When Mossbeard Ancient enters the battlefield, you gain 5 life."
+msgid "When Elvish Hydromancer enters the battlefield, if it was kicked, create a token that's a copy of target creature you control."
 msgstr ""
 
-#: ../../DMU.rst:782
-msgid ":mtgtip:`Nishoba Brawler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/e/2ef6cb5f-0ab3-4652-9b39-c2cbf6d693d5.jpg?1660846057|https://scryfall.com/card/dmu/174/nishoba-brawler?utm_source=api>`"
+#: ../../DMU.rst:780
+msgid ":mtgtip:`Gaea's Might<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/9/89c46e9c-ae7c-466c-bb11-4f4d01ea7a63.jpg?1661384249|https://scryfall.com/card/dmu/164/gaeas-might?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:781
-msgid "Domain — Nishoba Brawler's power is equal to the number of basic land types among lands you control."
+#: ../../DMU.rst:779
+msgid "Domain — Target creature gets +1/+1 until end of turn for each basic land type among lands you control."
 msgstr ""
 
-#: ../../DMU.rst:788
-msgid ":mtgtip:`Quirion Beastcaller<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/a/2a501319-59a7-45d4-a6ca-666276095f87.jpg?1661384298|https://scryfall.com/card/dmu/175/quirion-beastcaller?utm_source=api>`"
+#: ../../DMU.rst:786
+msgid ":mtgtip:`Herd Migration<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/0/b0244a1f-e696-4223-9c14-22c2ca3cb738.jpg?1661064893|https://scryfall.com/card/dmu/165/herd-migration?utm_source=api>`"
+msgstr ""
+
+#: ../../DMU.rst:783
+msgid "Domain — Create a 3/3 green Beast creature token for each basic land type among lands you control."
 msgstr ""
 
 #: ../../DMU.rst:785
-msgid "Whenever you cast a creature spell, put a +1/+1 counter on Quirion Beastcaller."
+msgid "|mana_1|\\ |mana_g|, Discard Herd Migration: Search your library for a basic land card, reveal it, put it into your hand, then shuffle. You gain 3 life."
 msgstr ""
 
-#: ../../DMU.rst:787
-msgid "When Quirion Beastcaller dies, distribute X +1/+1 counters among any number of target creatures you control, where X is the number of +1/+1 counters on Quirion Beastcaller."
+#: ../../DMU.rst:792
+msgid ":mtgtip:`Leaf-Crowned Visionary<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/a/aa7bd814-9f88-4e01-932d-07ac1abc060e.jpg?1661359569|https://scryfall.com/card/dmu/167/leaf-crowned-visionary?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:794
-msgid ":mtgtip:`Scout the Wilderness<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/c/5ccd67d4-1a22-4378-804d-6e2c93dc4938.jpg?1660929149|https://scryfall.com/card/dmu/176/scout-the-wilderness?utm_source=api>`"
+#: ../../DMU.rst:789
+msgid "Other Elves you control get +1/+1."
 msgstr ""
 
 #: ../../DMU.rst:791
-msgid "Kicker |mana_1|\\ |mana_w| (You may pay an additional |mana_1|\\ |mana_w| as you cast this spell.)"
-msgstr ""
-
-#: ../../DMU.rst:793
-msgid "Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. If this spell was kicked, create two 1/1 white Soldier creature tokens."
+msgid "Whenever you cast an Elf spell, you may pay |mana_g|. If you do, draw a card."
 msgstr ""
 
 #: ../../DMU.rst:798
-msgid ":mtgtip:`Slimefoot's Survey<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/2/622f96fc-179a-4ff6-95a5-de721492f7eb.jpg?1661189720|https://scryfall.com/card/dmu/178/slimefoots-survey?utm_source=api>`"
+msgid ":mtgtip:`Linebreaker Baloth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/5/15cc59c7-6478-4f84-898a-7e0fed10f004.jpg?1661357427|https://scryfall.com/card/dmu/168/linebreaker-baloth?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:797
-msgid "Domain — Search your library for up to two land cards that each have a basic land type, put them into the battlefield tapped, then shuffle. Look at the top X cards of your library, where X is the number of basic land types among lands you control. Put up to one of them on top of your library and the rest on the bottom of your library in a random order."
+msgid "Linebreaker Baloth can't be blocked by creatures with power 2 or less."
 msgstr ""
 
 #: ../../DMU.rst:804
-msgid ":mtgtip:`Snarespinner<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/b/0b51c3b5-db70-4976-986d-ed3fc8584d1a.jpg?1660927306|https://scryfall.com/card/dmu/179/snarespinner?utm_source=api>`"
+msgid ":mtgtip:`Llanowar Greenwidow<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/1/81f90e4d-f60f-4175-830f-c2ce04c5a945.jpg?1661384268|https://scryfall.com/card/dmu/169/llanowar-greenwidow?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:801
-msgid "Reach (This creature can block creatures with flying.)"
+msgid "Reach, trample"
 msgstr ""
 
 #: ../../DMU.rst:803
-msgid "Whenever Snarespinner blocks a creature with flying, Snarespinner gets +2/+0 until end of turn."
+msgid "Domain — |mana_7|\\ |mana_g|: Return Llanowar Greenwidow from your graveyard to the battlefield tapped. It gains \"If this permanent would leave the battlefield, exile it instead.\" This ability costs |mana_1| less to activate for each basic land type among lands you control."
 msgstr ""
 
 #: ../../DMU.rst:810
-msgid ":mtgtip:`Strength of the Coalition<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/4/8418c504-24fe-470f-8102-dcad68ba1520.jpg?1661193252|https://scryfall.com/card/dmu/180/strength-of-the-coalition?utm_source=api>`"
+msgid ":mtgtip:`Llanowar Loamspeaker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bd5611db-82dd-464d-8b03-70d7619dcefe.jpg?1659472105|https://scryfall.com/card/dmu/170/llanowar-loamspeaker?utm_source=api>`"
+msgstr ""
+
+#: ../../DMU.rst:807
+#: ../../DMU.rst:1195
+msgid "|tap|: Add one mana of any color."
 msgstr ""
 
 #: ../../DMU.rst:809
-msgid "Target creature you control gets +2/+2 until end of turn. If this spell was kicked, put a +1/+1 counter on each creature you control."
+msgid "|tap|: Target land you control becomes a 3/3 Elemental creature with haste until end of turn. It's still a land. Activate only as a sorcery."
 msgstr ""
 
 #: ../../DMU.rst:814
-msgid ":mtgtip:`Sunbathing Rootwalla<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/a/7ae6f015-2ad6-4b8e-8590-c2c2d01b6d98.jpg?1661377854|https://scryfall.com/card/dmu/181/sunbathing-rootwalla?utm_source=api>`"
+msgid ":mtgtip:`Magnigoth Sentry<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/9/d939d4bc-b7e8-4ee8-b904-68f0bff0fde1.jpg?1660927415|https://scryfall.com/card/dmu/172/magnigoth-sentry?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:813
-msgid "Domain — |mana_3|\\ |mana_g|: Until end of turn, Sunbathing Rootwalla gets +1/+1 for each basic land type among lands you control. Activate only once each turn."
+#: ../../DMU.rst:1017
+msgid "Reach"
 msgstr ""
 
-#: ../../DMU.rst:818
-msgid ":mtgtip:`Tail Swipe<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/5/95a39b26-8c83-40ea-b492-036251366d73.jpg?1661384336|https://scryfall.com/card/dmu/182/tail-swipe?utm_source=api>`"
+#: ../../DMU.rst:820
+msgid ":mtgtip:`Mossbeard Ancient<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/e/7e528d36-cea6-4013-83d5-ba837d570713.jpg?1661358488|https://scryfall.com/card/dmu/173/mossbeard-ancient?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:817
-msgid "Choose target creature you control and target creature you don't control. If you cast this spell during your main phase, the creature you control gets +1/+1 until end of turn. Then those creatures fight each other. (Each deals damage equal to its power to the other.)"
+#: ../../DMU.rst:819
+msgid "When Mossbeard Ancient enters the battlefield, you gain 5 life."
 msgstr ""
 
-#: ../../DMU.rst:824
-msgid ":mtgtip:`Tear Asunder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/2/629aa907-9533-4681-9bf2-9e56450a4cc2.jpg?1661362214|https://scryfall.com/card/dmu/183/tear-asunder?utm_source=api>`"
+#: ../../DMU.rst:826
+msgid ":mtgtip:`Nishoba Brawler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/e/2ef6cb5f-0ab3-4652-9b39-c2cbf6d693d5.jpg?1660846057|https://scryfall.com/card/dmu/174/nishoba-brawler?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:823
-msgid "Exile target artifact or enchantment. If this spell was kicked, exile target nonland permanent instead."
-msgstr ""
-
-#: ../../DMU.rst:828
-msgid ":mtgtip:`Territorial Maro<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/5/853ddf31-826b-411e-9b6d-75d53cdd1b84.jpg?1660887271|https://scryfall.com/card/dmu/184/territorial-maro?utm_source=api>`"
-msgstr ""
-
-#: ../../DMU.rst:827
-msgid "Domain — Territorial Maro's power and toughness are each equal to twice the number of basic land types among lands you control."
+#: ../../DMU.rst:825
+msgid "Domain — Nishoba Brawler's power is equal to the number of basic land types among lands you control."
 msgstr ""
 
 #: ../../DMU.rst:832
-msgid ":mtgtip:`Threats Undetected<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/9/99545c3e-0710-48d3-8558-046bd66f225c.jpg?1660951941|https://scryfall.com/card/dmu/185/threats-undetected?utm_source=api>`"
+msgid ":mtgtip:`Quirion Beastcaller<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/a/2a501319-59a7-45d4-a6ca-666276095f87.jpg?1661384298|https://scryfall.com/card/dmu/175/quirion-beastcaller?utm_source=api>`"
+msgstr ""
+
+#: ../../DMU.rst:829
+msgid "Whenever you cast a creature spell, put a +1/+1 counter on Quirion Beastcaller."
 msgstr ""
 
 #: ../../DMU.rst:831
-msgid "Search your library for up to four creature cards with different powers and reveal them. An opponent chooses two of those cards. Shuffle the chosen cards into your library and put the rest into your hand."
+msgid "When Quirion Beastcaller dies, distribute X +1/+1 counters among any number of target creatures you control, where X is the number of +1/+1 counters on Quirion Beastcaller."
 msgstr ""
 
-#: ../../DMU.rst:840
-msgid ":mtgtip:`Urborg Lhurgoyf<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/6/a6f97236-1497-4811-8189-0545707451da.jpg?1661189823|https://scryfall.com/card/dmu/186/urborg-lhurgoyf?utm_source=api>`"
+#: ../../DMU.rst:838
+msgid ":mtgtip:`Scout the Wilderness<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/c/5ccd67d4-1a22-4378-804d-6e2c93dc4938.jpg?1660929149|https://scryfall.com/card/dmu/176/scout-the-wilderness?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:835
-msgid "Kicker |mana_u| and/or |mana_b| (You may pay an additional |mana_u| and/or |mana_b| as you cast this spell.)"
+msgid "Kicker |mana_1|\\ |mana_w| (You may pay an additional |mana_1|\\ |mana_w| as you cast this spell.)"
 msgstr ""
 
 #: ../../DMU.rst:837
-msgid "As Urborg Lhurgoyf enters the battlefield, mill three cards for each time it was kicked."
+msgid "Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. If this spell was kicked, create two 1/1 white Soldier creature tokens."
 msgstr ""
 
-#: ../../DMU.rst:839
-msgid "Urborg Lhurgoyf's power is equal to the number of creature cards in your graveyard and its toughness is equal to that number plus 1."
+#: ../../DMU.rst:848
+msgid ":mtgtip:`\"Ape of Industry\"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/9/b987664f-0b74-4c0a-b306-14767a55559a.jpg?1661443047|https://scryfall.com/card/dmu/177/ape-of-industry?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:846
-msgid ":mtgtip:`Vineshaper Prodigy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/4/545cddde-8018-4fdd-874d-b5193b73b414.jpg?1661384357|https://scryfall.com/card/dmu/187/vineshaper-prodigy?utm_source=api>`"
+#: ../../DMU.rst:841
+msgid "Whenever you cast a creature spell, choose one —"
+msgstr ""
+
+#: ../../DMU.rst:843
+msgid "Destroy target artifact or enchantment."
 msgstr ""
 
 #: ../../DMU.rst:845
-msgid "When Vineshaper Prodigy enters the battlefield, if it was kicked, look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order."
+msgid "Look at the top five cards of your library. You may put a land card from among them onto the battlefield tapped. Put the rest on the bottom of your library in a random order."
 msgstr ""
 
-#: ../../DMU.rst:856
-msgid ":mtgtip:`The Weatherseed Treaty<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/2/e2a54461-1f75-4304-b6d7-635171419456.jpg?1661360076|https://scryfall.com/card/dmu/188/the-weatherseed-treaty?utm_source=api>`"
+#: ../../DMU.rst:847
+msgid "You gain 4 life."
+msgstr ""
+
+#: ../../DMU.rst:852
+msgid ":mtgtip:`Slimefoot's Survey<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/2/622f96fc-179a-4ff6-95a5-de721492f7eb.jpg?1661189720|https://scryfall.com/card/dmu/178/slimefoots-survey?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:851
-msgid "I — Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
+msgid "Domain — Search your library for up to two land cards that each have a basic land type, put them into the battlefield tapped, then shuffle. Look at the top X cards of your library, where X is the number of basic land types among lands you control. Put up to one of them on top of your library and the rest on the bottom of your library in a random order."
 msgstr ""
 
-#: ../../DMU.rst:853
-msgid "II — Create a 1/1 green Saproling creature token."
+#: ../../DMU.rst:858
+msgid ":mtgtip:`Snarespinner<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/b/0b51c3b5-db70-4976-986d-ed3fc8584d1a.jpg?1660927306|https://scryfall.com/card/dmu/179/snarespinner?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:855
-msgid "III — Domain — Target creature you control gets +X/+X and gains trample until end of turn, where X is the number of basic land types among lands you control."
+msgid "Reach (This creature can block creatures with flying.)"
+msgstr ""
+
+#: ../../DMU.rst:857
+msgid "Whenever Snarespinner blocks a creature with flying, Snarespinner gets +2/+0 until end of turn."
 msgstr ""
 
 #: ../../DMU.rst:864
-msgid ":mtgtip:`The World Spell<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/3/f3a9112a-6a1d-4d89-9866-189b55cd326d.jpg?1660841446|https://scryfall.com/card/dmu/189/the-world-spell?utm_source=api>`"
-msgstr ""
-
-#: ../../DMU.rst:861
-msgid "I, II — Look at the top seven cards of your library. You may reveal a non-Saga permanent card from among them and put it into your hand. Put the rest on the bottom of your library in a random order."
+msgid ":mtgtip:`Strength of the Coalition<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/4/8418c504-24fe-470f-8102-dcad68ba1520.jpg?1661193252|https://scryfall.com/card/dmu/180/strength-of-the-coalition?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:863
-msgid "III — Put up to two non-Saga permanent cards from your hand onto the battlefield."
+msgid "Target creature you control gets +2/+2 until end of turn. If this spell was kicked, put a +1/+1 counter on each creature you control."
+msgstr ""
+
+#: ../../DMU.rst:868
+msgid ":mtgtip:`Sunbathing Rootwalla<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/a/7ae6f015-2ad6-4b8e-8590-c2c2d01b6d98.jpg?1661377854|https://scryfall.com/card/dmu/181/sunbathing-rootwalla?utm_source=api>`"
+msgstr ""
+
+#: ../../DMU.rst:867
+msgid "Domain — |mana_3|\\ |mana_g|: Until end of turn, Sunbathing Rootwalla gets +1/+1 for each basic land type among lands you control. Activate only once each turn."
 msgstr ""
 
 #: ../../DMU.rst:872
-msgid ":mtgtip:`Yavimaya Iconoclast<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/b/1b1af9be-7f5e-48e9-a6e7-9261e199812e.jpg?1661384382|https://scryfall.com/card/dmu/190/yavimaya-iconoclast?utm_source=api>`"
+msgid ":mtgtip:`Tail Swipe<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/5/95a39b26-8c83-40ea-b492-036251366d73.jpg?1661384336|https://scryfall.com/card/dmu/182/tail-swipe?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:871
-msgid "When Yavimaya Iconoclast enters the battlefield, if it was kicked, it gets +1/+1 and gains haste until end of turn."
+msgid "Choose target creature you control and target creature you don't control. If you cast this spell during your main phase, the creature you control gets +1/+1 until end of turn. Then those creatures fight each other. (Each deals damage equal to its power to the other.)"
 msgstr ""
 
-#: ../../DMU.rst:882
-msgid ":mtgtip:`Ajani, Sleeper Agent<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/7641f4d9-4614-41c8-87f5-4845bd78e9b3.jpg?1660839093|https://scryfall.com/card/dmu/192/ajani-sleeper-agent?utm_source=api>`"
-msgstr ""
-
-#: ../../DMU.rst:875
-msgid "Compleated ({G/W/P} can be paid with |mana_g|, |mana_w|, or 2 life. If life was paid, this planeswalker enters with two fewer loyalty counters.)"
+#: ../../DMU.rst:878
+msgid ":mtgtip:`Tear Asunder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/2/629aa907-9533-4681-9bf2-9e56450a4cc2.jpg?1661362214|https://scryfall.com/card/dmu/183/tear-asunder?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:877
-msgid "+1: Reveal the top card of your library. If it's a creature or planeswalker card, put it into your hand. Otherwise, you may put it on the bottom of your library."
+msgid "Exile target artifact or enchantment. If this spell was kicked, exile target nonland permanent instead."
 msgstr ""
 
-#: ../../DMU.rst:879
-msgid "−3: Distribute three +1/+1 counters among up to three target creatures. They gain vigilance until end of turn."
+#: ../../DMU.rst:882
+msgid ":mtgtip:`Territorial Maro<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/5/853ddf31-826b-411e-9b6d-75d53cdd1b84.jpg?1660887271|https://scryfall.com/card/dmu/184/territorial-maro?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:881
-msgid "−6: You get an emblem with \"Whenever you cast a creature or planeswalker spell, target opponent gets two poison counters.\""
+msgid "Domain — Territorial Maro's power and toughness are each equal to twice the number of basic land types among lands you control."
 msgstr ""
 
-#: ../../DMU.rst:888
-msgid ":mtgtip:`Aron, Benalia's Ruin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/1/f1f8bf98-8911-4c86-978a-427377700544.jpg?1661362178|https://scryfall.com/card/dmu/193/aron-benalias-ruin?utm_source=api>`"
+#: ../../DMU.rst:886
+msgid ":mtgtip:`Threats Undetected<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/9/99545c3e-0710-48d3-8558-046bd66f225c.jpg?1660951941|https://scryfall.com/card/dmu/185/threats-undetected?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:885
-#: ../../DMU.rst:1013
-msgid "Menace (This creature can't be blocked except by two or more creatures.)"
+msgid "Search your library for up to four creature cards with different powers and reveal them. An opponent chooses two of those cards. Shuffle the chosen cards into your library and put the rest into your hand."
 msgstr ""
 
-#: ../../DMU.rst:887
-msgid "|mana_w|\\ |mana_b|, |tap|, Sacrifice another creature: Put a +1/+1 counter on each creature you control."
+#: ../../DMU.rst:894
+msgid ":mtgtip:`Urborg Lhurgoyf<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/6/a6f97236-1497-4811-8189-0545707451da.jpg?1661189823|https://scryfall.com/card/dmu/186/urborg-lhurgoyf?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:896
-msgid ":mtgtip:`Astor, Bearer of Blades<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/0/40f3a0ba-b917-488b-adbf-60a0d3c58a56.jpg?1660887319|https://scryfall.com/card/dmu/194/astor-bearer-of-blades?utm_source=api>`"
+#: ../../DMU.rst:889
+msgid "Kicker |mana_u| and/or |mana_b| (You may pay an additional |mana_u| and/or |mana_b| as you cast this spell.)"
 msgstr ""
 
 #: ../../DMU.rst:891
-msgid "When Astor, Bearer of Blades enters the battlefield, look at the top seven cards of your library. You may reveal an Equipment or Vehicle card from among them and put it into your hand. Put the rest on the bottom of your library in a random order."
+msgid "As Urborg Lhurgoyf enters the battlefield, mill three cards for each time it was kicked."
 msgstr ""
 
 #: ../../DMU.rst:893
-msgid "Equipment you control have equip |mana_1|."
+msgid "Urborg Lhurgoyf's power is equal to the number of creature cards in your graveyard and its toughness is equal to that number plus 1."
 msgstr ""
 
-#: ../../DMU.rst:895
-msgid "Vehicles you control have crew 1."
+#: ../../DMU.rst:900
+msgid ":mtgtip:`Vineshaper Prodigy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/4/545cddde-8018-4fdd-874d-b5193b73b414.jpg?1661384357|https://scryfall.com/card/dmu/187/vineshaper-prodigy?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:902
-msgid ":mtgtip:`Balmor, Battlemage Captain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/5/959ba62e-bb3a-49ad-8b1b-e787e413e5d4.jpg?1661359687|https://scryfall.com/card/dmu/196/balmor-battlemage-captain?utm_source=api>`"
+#: ../../DMU.rst:899
+msgid "When Vineshaper Prodigy enters the battlefield, if it was kicked, look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order."
 msgstr ""
 
-#: ../../DMU.rst:901
-msgid "Whenever you cast an instant or sorcery spell, creatures you control get +1/+0 and gain trample until end of turn."
-msgstr ""
-
-#: ../../DMU.rst:906
-msgid ":mtgtip:`Bortuk Bonerattle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/a/9a25855f-abfc-482d-a36b-088b023a7df6.jpg?1661101779|https://scryfall.com/card/dmu/197/bortuk-bonerattle?utm_source=api>`"
+#: ../../DMU.rst:910
+msgid ":mtgtip:`The Weatherseed Treaty<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/2/e2a54461-1f75-4304-b6d7-635171419456.jpg?1661360076|https://scryfall.com/card/dmu/188/the-weatherseed-treaty?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:905
-msgid "Domain — When Bortuk Bonerattle enters the battlefield, if you cast it, choose target creature card in your graveyard. Return that card to the battlefield if its mana value is less than or equal to the number of basic land types among lands you control. Otherwise, put it into your hand."
+msgid "I — Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
-#: ../../DMU.rst:914
-msgid ":mtgtip:`Elas il-Kor, Sadistic Pilgrim<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/c/1c3f0ffe-cf51-4c30-8cd5-9e3c7e92c019.jpg?1661316568|https://scryfall.com/card/dmu/198/elas-il-kor-sadistic-pilgrim?utm_source=api>`"
+#: ../../DMU.rst:907
+msgid "II — Create a 1/1 green Saproling creature token."
 msgstr ""
 
-#: ../../DMU.rst:911
-msgid "Whenever another creature enters the battlefield under your control, you gain 1 life."
+#: ../../DMU.rst:909
+msgid "III — Domain — Target creature you control gets +X/+X and gains trample until end of turn, where X is the number of basic land types among lands you control."
 msgstr ""
 
-#: ../../DMU.rst:913
-msgid "Whenever another creature you control dies, each opponent loses 1 life."
+#: ../../DMU.rst:918
+msgid ":mtgtip:`The World Spell<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/3/f3a9112a-6a1d-4d89-9866-189b55cd326d.jpg?1660841446|https://scryfall.com/card/dmu/189/the-world-spell?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:920
-msgid ":mtgtip:`Ivy, Gleeful Spellthief<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/9/d94c15b7-6c8f-45a6-8734-975e3e3b790c.jpg?1661301354|https://scryfall.com/card/dmu/201/ivy-gleeful-spellthief?utm_source=api>`"
+#: ../../DMU.rst:915
+msgid "I, II — Look at the top seven cards of your library. You may reveal a non-Saga permanent card from among them and put it into your hand. Put the rest on the bottom of your library in a random order."
 msgstr ""
 
-#: ../../DMU.rst:919
-msgid "Whenever a player casts a spell that targets only a single creature other than Ivy, Gleeful Spellthief, you may copy that spell. The copy targets Ivy. (A copy of an Aura spell becomes a token.)"
+#: ../../DMU.rst:917
+msgid "III — Put up to two non-Saga permanent cards from your hand onto the battlefield."
 msgstr ""
 
-#: ../../DMU.rst:924
-msgid ":mtgtip:`Jhoira, Ageless Innovator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/d/dd911900-1f5f-4420-96b8-1e4fe67e59f6.jpg?1660838500|https://scryfall.com/card/dmu/202/jhoira-ageless-innovator?utm_source=api>`"
+#: ../../DMU.rst:926
+msgid ":mtgtip:`Yavimaya Iconoclast<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/b/1b1af9be-7f5e-48e9-a6e7-9261e199812e.jpg?1661384382|https://scryfall.com/card/dmu/190/yavimaya-iconoclast?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:923
-msgid "|tap|: Put two ingenuity counters on Jhoira, Ageless Innovator, then you may put an artifact card with mana value X or less from your hand onto the battlefield, where X is the number of ingenuity counters on Jhoira."
+#: ../../DMU.rst:925
+msgid "When Yavimaya Iconoclast enters the battlefield, if it was kicked, it gets +1/+1 and gains haste until end of turn."
 msgstr ""
 
-#: ../../DMU.rst:932
-msgid ":mtgtip:`King Darien XLVIII<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/0/10eca3b1-f35a-4984-bfc0-818e619b1ece.jpg?1661300274|https://scryfall.com/card/dmu/204/king-darien-xlviii?utm_source=api>`"
+#: ../../DMU.rst:930
+msgid ":mtgtip:`Yavimaya Sojourner<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/7/c7fdb424-4d2c-437e-b2a2-8bc56c028338.jpg?1661413327|https://scryfall.com/card/dmu/191/yavimaya-sojourner?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:927
-msgid "Other creatures you control get +1/+1."
+#: ../../DMU.rst:940
+msgid ":mtgtip:`Ajani, Sleeper Agent<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/7641f4d9-4614-41c8-87f5-4845bd78e9b3.jpg?1660839093|https://scryfall.com/card/dmu/192/ajani-sleeper-agent?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:929
-msgid "|mana_3|\\ |mana_g|\\ |mana_w|: Put a +1/+1 counter on King Darien and create a 1/1 white Soldier creature token."
-msgstr ""
-
-#: ../../DMU.rst:931
-msgid "Sacrifice King Darien: Creature tokens you control gain hexproof and indestructible until end of turn."
-msgstr ""
-
-#: ../../DMU.rst:938
-msgid ":mtgtip:`Lagomos, Hand of Hatred<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/a/1a6bb0c2-1e3c-48cd-8f10-49f047e0514c.jpg?1661231574|https://scryfall.com/card/dmu/205/lagomos-hand-of-hatred?utm_source=api>`"
+#: ../../DMU.rst:933
+msgid "Compleated ({G/W/P} can be paid with |mana_g|, |mana_w|, or 2 life. If life was paid, this planeswalker enters with two fewer loyalty counters.)"
 msgstr ""
 
 #: ../../DMU.rst:935
-msgid "At the beginning of combat on your turn, create a 2/1 red Elemental creature token with trample and haste. Sacrifice it at the beginning of the next end step."
+msgid "+1: Reveal the top card of your library. If it's a creature or planeswalker card, put it into your hand. Otherwise, you may put it on the bottom of your library."
 msgstr ""
 
 #: ../../DMU.rst:937
-msgid "|tap|: Search your library for a card, put it into your hand, then shuffle. Activate only if five or more creatures died this turn."
+msgid "−3: Distribute three +1/+1 counters among up to three target creatures. They gain vigilance until end of turn."
 msgstr ""
 
-#: ../../DMU.rst:944
-msgid ":mtgtip:`Meria, Scholar of Antiquity<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/e/3eedd979-783d-4721-92de-965b77c20576.jpg?1661356800|https://scryfall.com/card/dmu/206/meria-scholar-of-antiquity?utm_source=api>`"
+#: ../../DMU.rst:939
+msgid "−6: You get an emblem with \"Whenever you cast a creature or planeswalker spell, target opponent gets two poison counters.\""
 msgstr ""
 
-#: ../../DMU.rst:941
-msgid "Tap an untapped nontoken artifact you control: Add |mana_g|."
+#: ../../DMU.rst:946
+msgid ":mtgtip:`Aron, Benalia's Ruin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/1/f1f8bf98-8911-4c86-978a-427377700544.jpg?1661362178|https://scryfall.com/card/dmu/193/aron-benalias-ruin?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:943
-msgid "Tap two untapped nontoken artifacts you control: Exile the top card of your library. You may play it this turn."
+#: ../../DMU.rst:1075
+msgid "Menace (This creature can't be blocked except by two or more creatures.)"
 msgstr ""
 
-#: ../../DMU.rst:950
-msgid ":mtgtip:`Nael, Avizoa Aeronaut<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/d/5da59e8f-cbe5-4c14-a5a9-28d56048dc23.jpg?1661359867|https://scryfall.com/card/dmu/207/nael-avizoa-aeronaut?utm_source=api>`"
+#: ../../DMU.rst:945
+msgid "|mana_w|\\ |mana_b|, |tap|, Sacrifice another creature: Put a +1/+1 counter on each creature you control."
+msgstr ""
+
+#: ../../DMU.rst:954
+msgid ":mtgtip:`Astor, Bearer of Blades<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/0/40f3a0ba-b917-488b-adbf-60a0d3c58a56.jpg?1660887319|https://scryfall.com/card/dmu/194/astor-bearer-of-blades?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:949
-msgid "Domain — Whenever Nael, Avizoa Aeronaut deals combat damage to a player, look at the top X cards of your library, where X is the number of basic land types among lands you control. Put up to one of them on top of your library and the rest on the bottom in a random order. Then if there are five basic land types among lands you control, draw a card."
+msgid "When Astor, Bearer of Blades enters the battlefield, look at the top seven cards of your library. You may reveal an Equipment or Vehicle card from among them and put it into your hand. Put the rest on the bottom of your library in a random order."
 msgstr ""
 
-#: ../../DMU.rst:956
-msgid ":mtgtip:`Najal, the Storm Runner<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/0/9017ee70-761b-434e-bc44-705cf14336fa.jpg?1660926084|https://scryfall.com/card/dmu/208/najal-the-storm-runner?utm_source=api>`"
+#: ../../DMU.rst:951
+msgid "Equipment you control have equip |mana_1|."
 msgstr ""
 
 #: ../../DMU.rst:953
-msgid "You may cast sorcery spells as though they had flash."
+msgid "Vehicles you control have crew 1."
 msgstr ""
 
-#: ../../DMU.rst:955
-msgid "Whenever Najal, the Storm Runner attacks, you may pay |mana_2|. If you do, when you cast your next instant or sorcery spell this turn, copy it. You may choose new targets for the copy."
+#: ../../DMU.rst:960
+msgid ":mtgtip:`Balmor, Battlemage Captain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/5/959ba62e-bb3a-49ad-8b1b-e787e413e5d4.jpg?1661359687|https://scryfall.com/card/dmu/196/balmor-battlemage-captain?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:966
-msgid ":mtgtip:`Nemata, Primeval Warden<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/d/adcd556d-351f-4faf-9456-0e47def69a69.jpg?1660950731|https://scryfall.com/card/dmu/209/nemata-primeval-warden?utm_source=api>`"
+#: ../../DMU.rst:959
+msgid "Whenever you cast an instant or sorcery spell, creatures you control get +1/+0 and gain trample until end of turn."
 msgstr ""
 
-#: ../../DMU.rst:961
-msgid "If a creature an opponent controls would die, exile it instead. When you do, create a 1/1 green Saproling creature token."
+#: ../../DMU.rst:964
+msgid ":mtgtip:`Bortuk Bonerattle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/a/9a25855f-abfc-482d-a36b-088b023a7df6.jpg?1661101779|https://scryfall.com/card/dmu/197/bortuk-bonerattle?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:963
-msgid "|mana_g|, Sacrifice a Saproling: Nemata, Primeval Warden gets +2/+2 until end of turn."
-msgstr ""
-
-#: ../../DMU.rst:965
-msgid "|mana_1|\\ |mana_b|, Sacrifice two Saprolings: Draw a card."
+msgid "Domain — When Bortuk Bonerattle enters the battlefield, if you cast it, choose target creature card in your graveyard. Return that card to the battlefield if its mana value is less than or equal to the number of basic land types among lands you control. Otherwise, put it into your hand."
 msgstr ""
 
 #: ../../DMU.rst:972
-msgid ":mtgtip:`Queen Allenal of Ruadach<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/4/b44b4e8b-7675-4c6a-a16a-92f8b6a0259f.jpg?1661190554|https://scryfall.com/card/dmu/210/queen-allenal-of-ruadach?utm_source=api>`"
+msgid ":mtgtip:`Elas il-Kor, Sadistic Pilgrim<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/c/1c3f0ffe-cf51-4c30-8cd5-9e3c7e92c019.jpg?1661316568|https://scryfall.com/card/dmu/198/elas-il-kor-sadistic-pilgrim?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:969
-msgid "Queen Allenal of Ruadach's power and toughness are each equal to the number of creatures you control."
+msgid "Whenever another creature enters the battlefield under your control, you gain 1 life."
 msgstr ""
 
 #: ../../DMU.rst:971
-msgid "If one or more creature tokens would be created under your control, those tokens plus a 1/1 white Soldier creature token are created instead."
+msgid "Whenever another creature you control dies, each opponent loses 1 life."
 msgstr ""
 
 #: ../../DMU.rst:978
-msgid ":mtgtip:`Raff, Weatherlight Stalwart<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/c/cc0cba4c-d9f0-421f-acf4-ab1adcd59c80.jpg?1660838677|https://scryfall.com/card/dmu/212/raff-weatherlight-stalwart?utm_source=api>`"
-msgstr ""
-
-#: ../../DMU.rst:975
-msgid "Whenever you cast an instant or sorcery spell, you may tap two untapped creatures you control. If you do, draw a card."
+msgid ":mtgtip:`Ivy, Gleeful Spellthief<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/9/d94c15b7-6c8f-45a6-8734-975e3e3b790c.jpg?1661301354|https://scryfall.com/card/dmu/201/ivy-gleeful-spellthief?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:977
-msgid "|mana_3|\\ |mana_w|\\ |mana_w|: Creatures you control get +1/+1 and gain vigilance until end of turn."
+msgid "Whenever a player casts a spell that targets only a single creature other than Ivy, Gleeful Spellthief, you may copy that spell. The copy targets Ivy. (A copy of an Aura spell becomes a token.)"
 msgstr ""
 
-#: ../../DMU.rst:986
-msgid ":mtgtip:`Ratadrabik of Urborg<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/3/9315812d-03e8-4eb4-a693-e7adf281f7fb.jpg?1661303286|https://scryfall.com/card/dmu/213/ratadrabik-of-urborg?utm_source=api>`"
+#: ../../DMU.rst:982
+msgid ":mtgtip:`Jhoira, Ageless Innovator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/d/dd911900-1f5f-4420-96b8-1e4fe67e59f6.jpg?1660838500|https://scryfall.com/card/dmu/202/jhoira-ageless-innovator?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:981
-msgid "Vigilance, ward |mana_2|"
+msgid "|tap|: Put two ingenuity counters on Jhoira, Ageless Innovator, then you may put an artifact card with mana value X or less from your hand onto the battlefield, where X is the number of ingenuity counters on Jhoira."
 msgstr ""
 
-#: ../../DMU.rst:983
-msgid "Other zombies you control have vigilance."
+#: ../../DMU.rst:990
+msgid ":mtgtip:`King Darien XLVIII<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/0/10eca3b1-f35a-4984-bfc0-818e619b1ece.jpg?1661300274|https://scryfall.com/card/dmu/204/king-darien-xlviii?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:985
-msgid "Whenever another legendary creature you control dies, create a token that's a copy of that creature, except it's not legendary and it's a 2/2 black Zombie in addition to its other colors and types."
+msgid "Other creatures you control get +1/+1."
 msgstr ""
 
-#: ../../DMU.rst:994
-msgid ":mtgtip:`Rith, Liberated Primeval<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/c/ac148784-b7b6-4aae-bffb-a4cf09f56971.jpg?1661364105|https://scryfall.com/card/dmu/214/rith-liberated-primeval?utm_source=api>`"
+#: ../../DMU.rst:987
+msgid "|mana_3|\\ |mana_g|\\ |mana_w|: Put a +1/+1 counter on King Darien and create a 1/1 white Soldier creature token."
 msgstr ""
 
-#: ../../DMU.rst:991
-msgid "Other Dragons you control have ward |mana_2|."
+#: ../../DMU.rst:989
+msgid "Sacrifice King Darien: Creature tokens you control gain hexproof and indestructible until end of turn."
+msgstr ""
+
+#: ../../DMU.rst:996
+msgid ":mtgtip:`Lagomos, Hand of Hatred<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/a/1a6bb0c2-1e3c-48cd-8f10-49f047e0514c.jpg?1661231574|https://scryfall.com/card/dmu/205/lagomos-hand-of-hatred?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:993
-msgid "At the beginning of your end step, if a creature or planeswalker an opponent controlled was dealt excess damage this turn, create a 4/4 red Dragon creature token with flying."
+msgid "At the beginning of combat on your turn, create a 2/1 red Elemental creature token with trample and haste. Sacrifice it at the beginning of the next end step."
 msgstr ""
 
-#: ../../DMU.rst:1004
-msgid ":mtgtip:`Rivaz of the Claw<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/a/9a47573a-601e-4738-acef-16118289f939.jpg?1661386537|https://scryfall.com/card/dmu/215/rivaz-of-the-claw?utm_source=api>`"
+#: ../../DMU.rst:995
+msgid "|tap|: Search your library for a card, put it into your hand, then shuffle. Activate only if five or more creatures died this turn."
+msgstr ""
+
+#: ../../DMU.rst:1002
+msgid ":mtgtip:`Meria, Scholar of Antiquity<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/e/3eedd979-783d-4721-92de-965b77c20576.jpg?1661356800|https://scryfall.com/card/dmu/206/meria-scholar-of-antiquity?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:999
-msgid "|tap|: Add two mana in any combination of colors. Spend this mana only to cast Dragon creature spells."
+msgid "Tap an untapped nontoken artifact you control: Add |mana_g|."
 msgstr ""
 
 #: ../../DMU.rst:1001
-msgid "Once during each of your turns, you may cast a Dragon creature spell from your graveyard."
+msgid "Tap two untapped nontoken artifacts you control: Exile the top card of your library. You may play it this turn."
 msgstr ""
 
-#: ../../DMU.rst:1003
-msgid "Whenever you cast a Dragon creature spell from your graveyard, it gains \"When this creature dies, exile it.\""
-msgstr ""
-
-#: ../../DMU.rst:1010
-msgid ":mtgtip:`Rona, Sheoldred's Faithful<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/c/cc8331ab-adc9-45c6-9728-66afc72d901c.jpg?1661384415|https://scryfall.com/card/dmu/216/rona-sheoldreds-faithful?utm_source=api>`"
+#: ../../DMU.rst:1008
+msgid ":mtgtip:`Nael, Avizoa Aeronaut<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/d/5da59e8f-cbe5-4c14-a5a9-28d56048dc23.jpg?1661359867|https://scryfall.com/card/dmu/207/nael-avizoa-aeronaut?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:1007
-msgid "Whenever you cast an instant or sorcery spell, each opponent loses 1 life."
+msgid "Domain — Whenever Nael, Avizoa Aeronaut deals combat damage to a player, look at the top X cards of your library, where X is the number of basic land types among lands you control. Put up to one of them on top of your library and the rest on the bottom in a random order. Then if there are five basic land types among lands you control, draw a card."
 msgstr ""
 
-#: ../../DMU.rst:1009
-msgid "You may cast Rona, Sheoldred's Faithful from your graveyard by discarding two cards in addition to paying its other costs."
+#: ../../DMU.rst:1014
+msgid ":mtgtip:`Najal, the Storm Runner<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/0/9017ee70-761b-434e-bc44-705cf14336fa.jpg?1660926084|https://scryfall.com/card/dmu/208/najal-the-storm-runner?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:1016
-msgid ":mtgtip:`Rulik Mons, Warren Chief<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/f/3fa49711-473d-4774-99b8-2bfbabc6b735.jpg?1661190691|https://scryfall.com/card/dmu/217/rulik-mons-warren-chief?utm_source=api>`"
+#: ../../DMU.rst:1011
+msgid "You may cast sorcery spells as though they had flash."
 msgstr ""
 
-#: ../../DMU.rst:1015
-msgid "Whenever Rulik Mons, Warren Chief attacks, look at the top card of your library. If it's a land card, you may put it onto the battlefield tapped. If you didn't put a card onto the battlefield this way, create a 1/1 red Goblin creature token."
+#: ../../DMU.rst:1013
+msgid "Whenever Najal, the Storm Runner attacks, you may pay |mana_2|. If you do, when you cast your next instant or sorcery spell this turn, copy it. You may choose new targets for the copy."
 msgstr ""
 
-#: ../../DMU.rst:1022
-msgid ":mtgtip:`Shanna, Purifying Blade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/7261c443-8d27-4d85-8027-2a0271b85e07.jpg?1660932377|https://scryfall.com/card/dmu/218/shanna-purifying-blade?utm_source=api>`"
+#: ../../DMU.rst:1024
+msgid ":mtgtip:`Nemata, Primeval Warden<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/d/adcd556d-351f-4faf-9456-0e47def69a69.jpg?1660950731|https://scryfall.com/card/dmu/209/nemata-primeval-warden?utm_source=api>`"
+msgstr ""
+
+#: ../../DMU.rst:1019
+msgid "If a creature an opponent controls would die, exile it instead. When you do, create a 1/1 green Saproling creature token."
 msgstr ""
 
 #: ../../DMU.rst:1021
-msgid "At the beginning of your end step, you may pay |mana_x|. If you do, draw X cards. X can't be greater than the amount of life you gained this turn."
+msgid "|mana_g|, Sacrifice a Saproling: Nemata, Primeval Warden gets +2/+2 until end of turn."
 msgstr ""
 
-#: ../../DMU.rst:1034
-msgid ":mtgtip:`Sol'Kanar the Tainted<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/0/3027347d-5fd3-47cd-83d4-8c834e00794c.jpg?1660846004|https://scryfall.com/card/dmu/219/solkanar-the-tainted?utm_source=api>`"
+#: ../../DMU.rst:1023
+msgid "|mana_1|\\ |mana_b|, Sacrifice two Saprolings: Draw a card."
 msgstr ""
 
-#: ../../DMU.rst:1025
-msgid "At the beginning of your end step, choose one that hasn't been chosen —"
+#: ../../DMU.rst:1030
+msgid ":mtgtip:`Queen Allenal of Ruadach<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/4/b44b4e8b-7675-4c6a-a16a-92f8b6a0259f.jpg?1661190554|https://scryfall.com/card/dmu/210/queen-allenal-of-ruadach?utm_source=api>`"
+msgstr ""
+
+#: ../../DMU.rst:1027
+msgid "Queen Allenal of Ruadach's power and toughness are each equal to the number of creatures you control."
 msgstr ""
 
 #: ../../DMU.rst:1029
-msgid "Each opponent loses 2 life and you gain 2 life."
+msgid "If one or more creature tokens would be created under your control, those tokens plus a 1/1 white Soldier creature token are created instead."
 msgstr ""
 
-#: ../../DMU.rst:1031
-msgid "Sol'Kanar the Tainted deals 3 damage to up to one other target creature or planeswalker."
+#: ../../DMU.rst:1034
+msgid ":mtgtip:`Radha, Coalition Warlord<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/c/2cec235e-7ce0-4947-b221-a555b2c865bd.jpg?1661440297|https://scryfall.com/card/dmu/211/radha-coalition-warlord?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:1033
-msgid "Exile Sol'Kanar, then return it to the battlefield under an opponent's control."
+msgid "Domain — Whenever Radha, Coalition Warlord becomes tapped, another target creature you control gets +X/+X until end of turn, where X is the number of basic land types among lands you control."
 msgstr ""
 
-#: ../../DMU.rst:1044
-msgid ":mtgtip:`Soul of Windgrace<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/7/e775a2e6-e701-4cb8-8c0b-718d3508f6b6.jpg?1660838963|https://scryfall.com/card/dmu/220/soul-of-windgrace?utm_source=api>`"
+#: ../../DMU.rst:1040
+msgid ":mtgtip:`Raff, Weatherlight Stalwart<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/c/cc0cba4c-d9f0-421f-acf4-ab1adcd59c80.jpg?1660838677|https://scryfall.com/card/dmu/212/raff-weatherlight-stalwart?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:1037
-msgid "Whenever Soul of Windgrace enters the battlefield or attacks, you may put a land card from a graveyard onto the battlefield tapped under your control."
+msgid "Whenever you cast an instant or sorcery spell, you may tap two untapped creatures you control. If you do, draw a card."
 msgstr ""
 
 #: ../../DMU.rst:1039
-msgid "|mana_g|, Discard a land card: You gain 3 life."
+msgid "|mana_3|\\ |mana_w|\\ |mana_w|: Creatures you control get +1/+1 and gain vigilance until end of turn."
 msgstr ""
 
-#: ../../DMU.rst:1041
-msgid "|mana_1|\\ |mana_r|, Discard a land card: Draw a card."
+#: ../../DMU.rst:1048
+msgid ":mtgtip:`Ratadrabik of Urborg<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/3/9315812d-03e8-4eb4-a693-e7adf281f7fb.jpg?1661303286|https://scryfall.com/card/dmu/213/ratadrabik-of-urborg?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:1043
-msgid "|mana_2|\\ |mana_b|, Discard a land card: Soul of Windgrace gains indestructible until end of turn. Tap it."
+msgid "Vigilance, ward |mana_2|"
 msgstr ""
 
-#: ../../DMU.rst:1052
-msgid ":mtgtip:`Stenn, Paranoid Partisan<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/7/07177a8e-5ded-4084-a22f-2d8fe933de7a.jpg?1661384448|https://scryfall.com/card/dmu/221/stenn-paranoid-partisan?utm_source=api>`"
+#: ../../DMU.rst:1045
+msgid "Other zombies you control have vigilance."
 msgstr ""
 
 #: ../../DMU.rst:1047
-msgid "As Stenn, Paranoid Partisan enters the battlefield, choose a card type other than creature or land."
+msgid "Whenever another legendary creature you control dies, create a token that's a copy of that creature, except it's not legendary and it's a 2/2 black Zombie in addition to its other colors and types."
 msgstr ""
 
-#: ../../DMU.rst:1049
-msgid "Spells you cast of the chosen type cost |mana_1| less to cast."
+#: ../../DMU.rst:1056
+msgid ":mtgtip:`Rith, Liberated Primeval<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/c/ac148784-b7b6-4aae-bffb-a4cf09f56971.jpg?1661364105|https://scryfall.com/card/dmu/214/rith-liberated-primeval?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:1051
-msgid "|mana_1|\\ |mana_w|\\ |mana_u|: Exile Stenn. Return it to the battlefield under its owner's control at the beginning of the next end step."
-msgstr ""
-
-#: ../../DMU.rst:1058
-msgid ":mtgtip:`Tatyova, Steward of Tides<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/d/0d446cb9-519a-4889-b057-029db9400021.jpg?1661384500|https://scryfall.com/card/dmu/222/tatyova-steward-of-tides?utm_source=api>`"
+#: ../../DMU.rst:1053
+msgid "Other Dragons you control have ward |mana_2|."
 msgstr ""
 
 #: ../../DMU.rst:1055
-msgid "Land creatures you control have flying."
+msgid "At the beginning of your end step, if a creature or planeswalker an opponent controlled was dealt excess damage this turn, create a 4/4 red Dragon creature token with flying."
 msgstr ""
 
-#: ../../DMU.rst:1057
-msgid "Whenever a land enters the battlefield under your control, if you control seven or more lands, up to one target land you control becomes a 3/3 Elemental creature with haste. It's still a land."
-msgstr ""
-
-#: ../../DMU.rst:1064
-msgid ":mtgtip:`Tori D'Avenant, Fury Rider<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/c/9c873c5b-61f6-49b9-8993-2d5e9823de62.jpg?1660975962|https://scryfall.com/card/dmu/223/tori-davenant-fury-rider?utm_source=api>`"
+#: ../../DMU.rst:1066
+msgid ":mtgtip:`Rivaz of the Claw<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/a/9a47573a-601e-4738-acef-16118289f939.jpg?1661386537|https://scryfall.com/card/dmu/215/rivaz-of-the-claw?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:1061
-msgid "Vigilance, trample"
+msgid "|tap|: Add two mana in any combination of colors. Spend this mana only to cast Dragon creature spells."
 msgstr ""
 
 #: ../../DMU.rst:1063
-msgid "Whenever Tori D'Avenant, Fury Rider attacks, all other attacking creatures you control get +1/+1 until end of turn. Other red attacking creatures you control gain trample until end of turn Untap each other white attacking creature you control."
+msgid "Once during each of your turns, you may cast a Dragon creature spell from your graveyard."
 msgstr ""
 
-#: ../../DMU.rst:1070
-msgid ":mtgtip:`Tura Kennerüd, Skyknight<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/8/c839d302-bf85-4a30-a49a-dbbd48695b5c.jpg?1661384529|https://scryfall.com/card/dmu/224/tura-kenner%C3%BCd-skyknight?utm_source=api>`"
+#: ../../DMU.rst:1065
+msgid "Whenever you cast a Dragon creature spell from your graveyard, it gains \"When this creature dies, exile it.\""
+msgstr ""
+
+#: ../../DMU.rst:1072
+msgid ":mtgtip:`Rona, Sheoldred's Faithful<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/c/cc8331ab-adc9-45c6-9728-66afc72d901c.jpg?1661384415|https://scryfall.com/card/dmu/216/rona-sheoldreds-faithful?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:1069
-msgid "Whenever you cast an instant or sorcery spell, create a 1/1 white Soldier creature token."
+msgid "Whenever you cast an instant or sorcery spell, each opponent loses 1 life."
+msgstr ""
+
+#: ../../DMU.rst:1071
+msgid "You may cast Rona, Sheoldred's Faithful from your graveyard by discarding two cards in addition to paying its other costs."
 msgstr ""
 
 #: ../../DMU.rst:1078
-msgid ":mtgtip:`Uurg, Spawn of Turg<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/d/dd3fc36c-682b-4352-a66f-eddd2baf0bf6.jpg?1661357663|https://scryfall.com/card/dmu/225/uurg-spawn-of-turg?utm_source=api>`"
-msgstr ""
-
-#: ../../DMU.rst:1073
-msgid "Uurg, Spawn of Turg's power is equal to the number of land cards in your graveyard."
-msgstr ""
-
-#: ../../DMU.rst:1075
-msgid "At the beginning of your upkeep, look at the top card of your library. You may put that card into your graveyard."
+msgid ":mtgtip:`Rulik Mons, Warren Chief<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/f/3fa49711-473d-4774-99b8-2bfbabc6b735.jpg?1661190691|https://scryfall.com/card/dmu/217/rulik-mons-warren-chief?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:1077
-msgid "|mana_b|\\ |mana_g|, Sacrifice a land: You gain 2 life."
+msgid "Whenever Rulik Mons, Warren Chief attacks, look at the top card of your library. If it's a land card, you may put it onto the battlefield tapped. If you didn't put a card onto the battlefield this way, create a 1/1 red Goblin creature token."
 msgstr ""
 
 #: ../../DMU.rst:1084
-msgid ":mtgtip:`Vohar, Vodalian Desecrator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/0/807c7812-c108-45a7-a5b2-08cc693bc500.jpg?1661303387|https://scryfall.com/card/dmu/226/vohar-vodalian-desecrator?utm_source=api>`"
-msgstr ""
-
-#: ../../DMU.rst:1081
-msgid "|tap|: Draw a card, then discard a card. If you discarded an instant or sorcery card this way, each opponent loses 1 life and you gain 1 life."
+msgid ":mtgtip:`Shanna, Purifying Blade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/7261c443-8d27-4d85-8027-2a0271b85e07.jpg?1660932377|https://scryfall.com/card/dmu/218/shanna-purifying-blade?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:1083
-msgid "|mana_2|, Sacrifice Vohar, Vodalian Desecrator: You may cast target instant or sorcery card from your graveyard this turn. If that spell would be put into your graveyard, exile it instead. Activate only as a sorcery."
-msgstr ""
-
-#: ../../DMU.rst:1088
-msgid ":mtgtip:`Zar Ojanen, Scion of Efrava<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/5/65c903e3-d622-415e-9144-a5b2f3f7b9ed.jpg?1661384551|https://scryfall.com/card/dmu/227/zar-ojanen-scion-of-efrava?utm_source=api>`"
-msgstr ""
-
-#: ../../DMU.rst:1087
-msgid "Domain — Whenever Zar Ojanen, Scion of Efrava becomes tapped, put a +1/+1 counter on each creature you control with toughness less than the number of basic land types among lands you control."
+msgid "At the beginning of your end step, you may pay |mana_x|. If you do, draw X cards. X can't be greater than the amount of life you gained this turn."
 msgstr ""
 
 #: ../../DMU.rst:1096
-msgid ":mtgtip:`Zur, Eternal Schemer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4d987435-2403-4e0f-b19d-693da923ba50.jpg?1660846021|https://scryfall.com/card/dmu/228/zur-eternal-schemer?utm_source=api>`"
+msgid ":mtgtip:`Sol'Kanar the Tainted<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/0/3027347d-5fd3-47cd-83d4-8c834e00794c.jpg?1660846004|https://scryfall.com/card/dmu/219/solkanar-the-tainted?utm_source=api>`"
+msgstr ""
+
+#: ../../DMU.rst:1087
+msgid "At the beginning of your end step, choose one that hasn't been chosen —"
+msgstr ""
+
+#: ../../DMU.rst:1091
+msgid "Each opponent loses 2 life and you gain 2 life."
 msgstr ""
 
 #: ../../DMU.rst:1093
-msgid "Enchantment creatures you control have deathtouch, lifelink, and hexproof."
+msgid "Sol'Kanar the Tainted deals 3 damage to up to one other target creature or planeswalker."
 msgstr ""
 
 #: ../../DMU.rst:1095
-msgid "|mana_1|\\ |mana_w|: Target non-Aura enchantment you control becomes a creature in addition to its other types and has base power and base toughness each equal to its mana value."
-msgstr ""
-
-#: ../../DMU.rst:1100
-msgid ":mtgtip:`Automatic Librarian<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/c/6c3d7ece-0f57-4213-a0ab-a9d7c1536ebb.jpg?1661329799|https://scryfall.com/card/dmu/229/automatic-librarian?utm_source=api>`"
-msgstr ""
-
-#: ../../DMU.rst:1099
-msgid "When Automatic Librarian enters the battlefield, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)"
+msgid "Exile Sol'Kanar, then return it to the battlefield under an opponent's control."
 msgstr ""
 
 #: ../../DMU.rst:1106
-msgid ":mtgtip:`Golden Argosy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/8/f8611a53-e54e-4625-8e28-03511f1550e8.jpg?1660934616|https://scryfall.com/card/dmu/230/golden-argosy?utm_source=api>`"
+msgid ":mtgtip:`Soul of Windgrace<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/7/e775a2e6-e701-4cb8-8c0b-718d3508f6b6.jpg?1660838963|https://scryfall.com/card/dmu/220/soul-of-windgrace?utm_source=api>`"
+msgstr ""
+
+#: ../../DMU.rst:1099
+msgid "Whenever Soul of Windgrace enters the battlefield or attacks, you may put a land card from a graveyard onto the battlefield tapped under your control."
+msgstr ""
+
+#: ../../DMU.rst:1101
+msgid "|mana_g|, Discard a land card: You gain 3 life."
 msgstr ""
 
 #: ../../DMU.rst:1103
-msgid "Whenever Golden Argosy attacks, exile each creature that crewed it this turn. Return them to the battlefield tapped under their owner's control at the beginning of the next end step."
+msgid "|mana_1|\\ |mana_r|, Discard a land card: Draw a card."
 msgstr ""
 
 #: ../../DMU.rst:1105
-msgid "Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)"
+msgid "|mana_2|\\ |mana_b|, Discard a land card: Soul of Windgrace gains indestructible until end of turn. Tap it."
 msgstr ""
 
 #: ../../DMU.rst:1114
-msgid ":mtgtip:`Hero's Heirloom<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5b7c0d2d-7107-4599-8d49-c7c57d21e467.jpg?1661154255|https://scryfall.com/card/dmu/231/heros-heirloom?utm_source=api>`"
+msgid ":mtgtip:`Stenn, Paranoid Partisan<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/7/07177a8e-5ded-4084-a22f-2d8fe933de7a.jpg?1661384448|https://scryfall.com/card/dmu/221/stenn-paranoid-partisan?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:1109
-msgid "Equipped creature gets +2/+1."
+msgid "As Stenn, Paranoid Partisan enters the battlefield, choose a card type other than creature or land."
 msgstr ""
 
 #: ../../DMU.rst:1111
-msgid "As long as equipped creature is legendary, it has trample and haste."
+msgid "Spells you cast of the chosen type cost |mana_1| less to cast."
 msgstr ""
 
 #: ../../DMU.rst:1113
-msgid "Equip |mana_2|"
+msgid "|mana_1|\\ |mana_w|\\ |mana_u|: Exile Stenn. Return it to the battlefield under its owner's control at the beginning of the next end step."
 msgstr ""
 
-#: ../../DMU.rst:1118
-msgid ":mtgtip:`Inscribed Tablet<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/9/699d8655-d250-4ab6-92c5-376979bbabc7.jpg?1661188836|https://scryfall.com/card/dmu/232/inscribed-tablet?utm_source=api>`"
+#: ../../DMU.rst:1120
+msgid ":mtgtip:`Tatyova, Steward of Tides<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/d/0d446cb9-519a-4889-b057-029db9400021.jpg?1661384500|https://scryfall.com/card/dmu/222/tatyova-steward-of-tides?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:1117
-msgid "|mana_1|, |tap|, Sacrifice Inscribed Tablet: Reveal the top five cards of your library. Put a land card from among them into your hand and the rest on the bottom of your library in a random order. If you didn't put a card into your hand this way, draw a card."
+msgid "Land creatures you control have flying."
 msgstr ""
 
-#: ../../DMU.rst:1122
-msgid ":mtgtip:`Jodah's Codex<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/6/d636da1e-4cc6-40a1-bd83-cc0dd761b1cc.jpg?1661384583|https://scryfall.com/card/dmu/233/jodahs-codex?utm_source=api>`"
+#: ../../DMU.rst:1119
+msgid "Whenever a land enters the battlefield under your control, if you control seven or more lands, up to one target land you control becomes a 3/3 Elemental creature with haste. It's still a land."
 msgstr ""
 
-#: ../../DMU.rst:1121
-msgid "Domain — |mana_5|, |tap|: Draw a card. This ability costs |mana_1| less to activate for each basic land type among lands you control."
+#: ../../DMU.rst:1126
+msgid ":mtgtip:`Tori D'Avenant, Fury Rider<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/c/9c873c5b-61f6-49b9-8993-2d5e9823de62.jpg?1660975962|https://scryfall.com/card/dmu/223/tori-davenant-fury-rider?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:1130
-msgid ":mtgtip:`Karn's Sylex<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/7/673a8676-0a93-4ca3-a786-63f138027e8a.jpg?1661231121|https://scryfall.com/card/dmu/234/karns-sylex?utm_source=api>`"
+#: ../../DMU.rst:1123
+msgid "Vigilance, trample"
 msgstr ""
 
 #: ../../DMU.rst:1125
-msgid "Karn's Sylex enters the battlefield tapped."
+msgid "Whenever Tori D'Avenant, Fury Rider attacks, all other attacking creatures you control get +1/+1 until end of turn. Other red attacking creatures you control gain trample until end of turn Untap each other white attacking creature you control."
 msgstr ""
 
-#: ../../DMU.rst:1127
-msgid "Players can't pay life to cast spells or to activate abilities that aren't mana abilities."
+#: ../../DMU.rst:1132
+msgid ":mtgtip:`Tura Kennerüd, Skyknight<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/8/c839d302-bf85-4a30-a49a-dbbd48695b5c.jpg?1661384529|https://scryfall.com/card/dmu/224/tura-kenner%C3%BCd-skyknight?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:1129
-msgid "|mana_x|, |tap|, Exile Karn's Sylex: Destroy each nonland permanent with mana value X or less. Activate only as a sorcery."
+#: ../../DMU.rst:1131
+msgid "Whenever you cast an instant or sorcery spell, create a 1/1 white Soldier creature token."
 msgstr ""
 
-#: ../../DMU.rst:1136
-msgid ":mtgtip:`Shield-Wall Sentinel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/e/7e57e1d7-da1d-4a2b-867f-85b8331b7bbc.jpg?1661358938|https://scryfall.com/card/dmu/238/shield-wall-sentinel?utm_source=api>`"
+#: ../../DMU.rst:1140
+msgid ":mtgtip:`Uurg, Spawn of Turg<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/d/dd3fc36c-682b-4352-a66f-eddd2baf0bf6.jpg?1661357663|https://scryfall.com/card/dmu/225/uurg-spawn-of-turg?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:1135
-msgid "When Shield-Wall Sentinel enters the battlefield, you may search your library for a creature card with defender, reveal it, put it into your hand, then shuffle."
+msgid "Uurg, Spawn of Turg's power is equal to the number of land cards in your graveyard."
 msgstr ""
 
-#: ../../DMU.rst:1142
-msgid ":mtgtip:`Timeless Lotus<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/f/6f566387-3342-4325-ba4c-eee7626072ac.jpg?1661231200|https://scryfall.com/card/dmu/239/timeless-lotus?utm_source=api>`"
+#: ../../DMU.rst:1137
+msgid "At the beginning of your upkeep, look at the top card of your library. You may put that card into your graveyard."
 msgstr ""
 
 #: ../../DMU.rst:1139
-msgid "Timeless Lotus enters the battlefield tapped."
+msgid "|mana_b|\\ |mana_g|, Sacrifice a land: You gain 2 life."
 msgstr ""
 
-#: ../../DMU.rst:1141
-msgid "|tap|: Add |mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|."
+#: ../../DMU.rst:1146
+msgid ":mtgtip:`Vohar, Vodalian Desecrator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/0/807c7812-c108-45a7-a5b2-08cc693bc500.jpg?1661303387|https://scryfall.com/card/dmu/226/vohar-vodalian-desecrator?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:1148
-msgid ":mtgtip:`Walking Bulwark<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/0/602d163c-d341-4b3b-9d3c-5d3419e9b10b.jpg?1661187546|https://scryfall.com/card/dmu/241/walking-bulwark?utm_source=api>`"
+#: ../../DMU.rst:1143
+msgid "|tap|: Draw a card, then discard a card. If you discarded an instant or sorcery card this way, each opponent loses 1 life and you gain 1 life."
 msgstr ""
 
-#: ../../DMU.rst:1147
-msgid "|mana_2|: Until end of turn, target creature with defender gains haste, can attack as though it didn't have defender, and assigns combat damage equal to its toughness rather than its power. Activate only as a sorcery."
+#: ../../DMU.rst:1145
+msgid "|mana_2|, Sacrifice Vohar, Vodalian Desecrator: You may cast target instant or sorcery card from your graveyard this turn. If that spell would be put into your graveyard, exile it instead. Activate only as a sorcery."
 msgstr ""
 
-#: ../../DMU.rst:1156
-msgid ":mtgtip:`Weatherlight Compleated<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/7/976fd9d9-a9b5-40b6-ad38-4b3b263e1ebc.jpg?1661189601|https://scryfall.com/card/dmu/242/weatherlight-compleated?utm_source=api>`"
+#: ../../DMU.rst:1150
+msgid ":mtgtip:`Zar Ojanen, Scion of Efrava<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/5/65c903e3-d622-415e-9144-a5b2f3f7b9ed.jpg?1661384551|https://scryfall.com/card/dmu/227/zar-ojanen-scion-of-efrava?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:1153
-msgid "As long as Weatherlight Compleated has four or more phyresis counters on it, it's a Phyrexian creature in addition to its other types."
+#: ../../DMU.rst:1149
+msgid "Domain — Whenever Zar Ojanen, Scion of Efrava becomes tapped, put a +1/+1 counter on each creature you control with toughness less than the number of basic land types among lands you control."
+msgstr ""
+
+#: ../../DMU.rst:1158
+msgid ":mtgtip:`Zur, Eternal Schemer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4d987435-2403-4e0f-b19d-693da923ba50.jpg?1660846021|https://scryfall.com/card/dmu/228/zur-eternal-schemer?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:1155
-msgid "Whenever a creature you control dies, put a phyresis counter on Weatherlight Compleated. Then draw a card if it has seven or more phyresis counters on it. If it doesn't, scry 1."
+msgid "Enchantment creatures you control have deathtouch, lifelink, and hexproof."
+msgstr ""
+
+#: ../../DMU.rst:1157
+msgid "|mana_1|\\ |mana_w|: Target non-Aura enchantment you control becomes a creature in addition to its other types and has base power and base toughness each equal to its mana value."
 msgstr ""
 
 #: ../../DMU.rst:1162
-msgid ":mtgtip:`Adarkar Wastes<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/8/08ae1037-6f70-41a9-b75e-98fa9a2152c8.jpg?1660843967|https://scryfall.com/card/dmu/243/adarkar-wastes?utm_source=api>`"
-msgstr ""
-
-#: ../../DMU.rst:1159
-#: ../../DMU.rst:1165
-#: ../../DMU.rst:1171
-#: ../../DMU.rst:1177
-#: ../../DMU.rst:1187
-#: ../../DMU.rst:1193
-#: ../../DMU.rst:1209
-msgid "|tap|: Add |colorless|."
+msgid ":mtgtip:`Automatic Librarian<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/c/6c3d7ece-0f57-4213-a0ab-a9d7c1536ebb.jpg?1661329799|https://scryfall.com/card/dmu/229/automatic-librarian?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:1161
-msgid "|tap|: Add |mana_w| or |mana_u|. Adarkar Wastes deals 1 damage to you."
+msgid "When Automatic Librarian enters the battlefield, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)"
 msgstr ""
 
 #: ../../DMU.rst:1168
-msgid ":mtgtip:`Caves of Koilos<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/9/99264beb-2149-4cd4-9880-f0dc5c570c1b.jpg?1660843703|https://scryfall.com/card/dmu/244/caves-of-koilos?utm_source=api>`"
+msgid ":mtgtip:`Golden Argosy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/8/f8611a53-e54e-4625-8e28-03511f1550e8.jpg?1660934616|https://scryfall.com/card/dmu/230/golden-argosy?utm_source=api>`"
+msgstr ""
+
+#: ../../DMU.rst:1165
+msgid "Whenever Golden Argosy attacks, exile each creature that crewed it this turn. Return them to the battlefield tapped under their owner's control at the beginning of the next end step."
 msgstr ""
 
 #: ../../DMU.rst:1167
-msgid "|tap|: Add |mana_w| or |mana_b|. Caves of Koilos deals 1 damage to you."
+msgid "Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)"
 msgstr ""
 
-#: ../../DMU.rst:1174
-msgid ":mtgtip:`Karplusan Forest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/8/b89b2c79-e3d3-4ef9-bfc8-f9c090975011.jpg?1660843816|https://scryfall.com/card/dmu/250/karplusan-forest?utm_source=api>`"
+#: ../../DMU.rst:1176
+msgid ":mtgtip:`Hero's Heirloom<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5b7c0d2d-7107-4599-8d49-c7c57d21e467.jpg?1661154255|https://scryfall.com/card/dmu/231/heros-heirloom?utm_source=api>`"
+msgstr ""
+
+#: ../../DMU.rst:1171
+msgid "Equipped creature gets +2/+1."
 msgstr ""
 
 #: ../../DMU.rst:1173
-msgid "|tap|: Add |mana_r| or |mana_g|. Karplusan Forest deals 1 damage to you."
+msgid "As long as equipped creature is legendary, it has trample and haste."
 msgstr ""
 
-#: ../../DMU.rst:1184
-msgid ":mtgtip:`Plaza of Heroes<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/2/a2cfcf67-f83c-43af-9e2d-5513fcdde835.jpg?1661025354|https://scryfall.com/card/dmu/252/plaza-of-heroes?utm_source=api>`"
+#: ../../DMU.rst:1175
+msgid "Equip |mana_2|"
+msgstr ""
+
+#: ../../DMU.rst:1180
+msgid ":mtgtip:`Inscribed Tablet<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/9/699d8655-d250-4ab6-92c5-376979bbabc7.jpg?1661188836|https://scryfall.com/card/dmu/232/inscribed-tablet?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:1179
-msgid "|tap|: Add one mana of any color. Spend this mana only to cast a legendary spell."
+msgid "|mana_1|, |tap|, Sacrifice Inscribed Tablet: Reveal the top five cards of your library. Put a land card from among them into your hand and the rest on the bottom of your library in a random order. If you didn't put a card into your hand this way, draw a card."
 msgstr ""
 
-#: ../../DMU.rst:1181
-msgid "|tap|: Add one mana of any color among legendary permanents you control."
+#: ../../DMU.rst:1184
+msgid ":mtgtip:`Jodah's Codex<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/6/d636da1e-4cc6-40a1-bd83-cc0dd761b1cc.jpg?1661384583|https://scryfall.com/card/dmu/233/jodahs-codex?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:1183
-msgid "|mana_3|, |tap|, Exile Plaza of Heroes: Target legendary creature gains hexproof and indestructible until end of turn."
+msgid "Domain — |mana_5|, |tap|: Draw a card. This ability costs |mana_1| less to activate for each basic land type among lands you control."
 msgstr ""
 
-#: ../../DMU.rst:1190
-msgid ":mtgtip:`Shivan Reef<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/3/a338107b-0960-4496-a9a5-f7b672e7c043.jpg?1660843760|https://scryfall.com/card/dmu/255/shivan-reef?utm_source=api>`"
+#: ../../DMU.rst:1192
+msgid ":mtgtip:`Karn's Sylex<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/7/673a8676-0a93-4ca3-a786-63f138027e8a.jpg?1661231121|https://scryfall.com/card/dmu/234/karns-sylex?utm_source=api>`"
+msgstr ""
+
+#: ../../DMU.rst:1187
+msgid "Karn's Sylex enters the battlefield tapped."
 msgstr ""
 
 #: ../../DMU.rst:1189
-msgid "|tap|: Add |mana_u| or |mana_r|. Shivan Reef deals 1 damage to you."
+msgid "Players can't pay life to cast spells or to activate abilities that aren't mana abilities."
 msgstr ""
 
-#: ../../DMU.rst:1196
-msgid ":mtgtip:`Sulfurous Springs<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/f/dfd5450a-6490-417f-9aea-b6fca6f380d7.jpg?1660843898|https://scryfall.com/card/dmu/256/sulfurous-springs?utm_source=api>`"
+#: ../../DMU.rst:1191
+msgid "|mana_x|, |tap|, Exile Karn's Sylex: Destroy each nonland permanent with mana value X or less. Activate only as a sorcery."
 msgstr ""
 
-#: ../../DMU.rst:1195
-msgid "|tap|: Add |mana_b| or |mana_r|. Sulfurous Springs deals 1 damage to you."
+#: ../../DMU.rst:1198
+msgid ":mtgtip:`Relic of Legends<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/4/64a2809e-c441-416c-90ff-6fb1e246dff3.jpg?1661440230|https://scryfall.com/card/dmu/236/relic-of-legends?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:1206
-msgid ":mtgtip:`Thran Portal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/f/ef074a2e-a387-4af8-a180-74b145d93992.jpg?1661358003|https://scryfall.com/card/dmu/259/thran-portal?utm_source=api>`"
+#: ../../DMU.rst:1197
+msgid "Tap an untapped legendary creature you control: Add one mana of any color."
 msgstr ""
 
-#: ../../DMU.rst:1199
-msgid "Thran Portal enters the battlefield tapped unless you control two or fewer other lands."
-msgstr ""
-
-#: ../../DMU.rst:1201
-msgid "As Thran Portal enters the battlefield, choose a basic land type."
+#: ../../DMU.rst:1204
+msgid ":mtgtip:`Shield-Wall Sentinel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/e/7e57e1d7-da1d-4a2b-867f-85b8331b7bbc.jpg?1661358938|https://scryfall.com/card/dmu/238/shield-wall-sentinel?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:1203
-msgid "Thran Portal is the chosen type in addition to its other types."
+msgid "When Shield-Wall Sentinel enters the battlefield, you may search your library for a creature card with defender, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
-#: ../../DMU.rst:1205
-msgid "Mana abilities of Thran Portal cost an additional 1 life to activate."
+#: ../../DMU.rst:1210
+msgid ":mtgtip:`Timeless Lotus<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/f/6f566387-3342-4325-ba4c-eee7626072ac.jpg?1661231200|https://scryfall.com/card/dmu/239/timeless-lotus?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:1212
-msgid ":mtgtip:`Yavimaya Coast<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/e/0ed6c8b0-f154-4678-89d0-9869864ead8d.jpg?1660887347|https://scryfall.com/card/dmu/261/yavimaya-coast?utm_source=api>`"
+#: ../../DMU.rst:1207
+msgid "Timeless Lotus enters the battlefield tapped."
 msgstr ""
 
-#: ../../DMU.rst:1211
-msgid "|tap|: Add |mana_g| or |mana_u|. Yavimaya Coast deals 1 damage to you."
+#: ../../DMU.rst:1209
+msgid "|tap|: Add |mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|."
 msgstr ""
 
 #: ../../DMU.rst:1216
-msgid ":mtgtip:`Plains<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/8/5822b027-369d-46da-b6dd-c31207e2f449.jpg?1660950881|https://scryfall.com/card/dmu/262/plains?utm_source=api>`"
+msgid ":mtgtip:`Walking Bulwark<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/0/602d163c-d341-4b3b-9d3c-5d3419e9b10b.jpg?1661187546|https://scryfall.com/card/dmu/241/walking-bulwark?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:1215
-msgid "(|tap|: Add |mana_w|.)"
-msgstr ""
-
-#: ../../DMU.rst:1220
-msgid ":mtgtip:`Island<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/b/8bafc217-3d83-4551-b2e3-3494ec14b2f9.jpg?1660950973|https://scryfall.com/card/dmu/265/island?utm_source=api>`"
-msgstr ""
-
-#: ../../DMU.rst:1219
-msgid "(|tap|: Add |mana_u|.)"
+msgid "|mana_2|: Until end of turn, target creature with defender gains haste, can attack as though it didn't have defender, and assigns combat damage equal to its toughness rather than its power. Activate only as a sorcery."
 msgstr ""
 
 #: ../../DMU.rst:1224
-msgid ":mtgtip:`Swamp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/a/5a846f00-ccb9-4ee2-8358-7c7722258601.jpg?1660951065|https://scryfall.com/card/dmu/268/swamp?utm_source=api>`"
+msgid ":mtgtip:`Weatherlight Compleated<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/7/976fd9d9-a9b5-40b6-ad38-4b3b263e1ebc.jpg?1661189601|https://scryfall.com/card/dmu/242/weatherlight-compleated?utm_source=api>`"
+msgstr ""
+
+#: ../../DMU.rst:1221
+msgid "As long as Weatherlight Compleated has four or more phyresis counters on it, it's a Phyrexian creature in addition to its other types."
 msgstr ""
 
 #: ../../DMU.rst:1223
-msgid "(|tap|: Add |mana_b|.)"
+msgid "Whenever a creature you control dies, put a phyresis counter on Weatherlight Compleated. Then draw a card if it has seven or more phyresis counters on it. If it doesn't, scry 1."
 msgstr ""
 
-#: ../../DMU.rst:1228
-msgid ":mtgtip:`Mountain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/8/a82f782e-abc8-4b92-a193-17b2c383f765.jpg?1660951177|https://scryfall.com/card/dmu/271/mountain?utm_source=api>`"
+#: ../../DMU.rst:1230
+msgid ":mtgtip:`Adarkar Wastes<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/8/08ae1037-6f70-41a9-b75e-98fa9a2152c8.jpg?1660843967|https://scryfall.com/card/dmu/243/adarkar-wastes?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:1227
-msgid "(|tap|: Add |mana_r|.)"
+#: ../../DMU.rst:1233
+#: ../../DMU.rst:1239
+#: ../../DMU.rst:1245
+#: ../../DMU.rst:1255
+#: ../../DMU.rst:1261
+#: ../../DMU.rst:1277
+msgid "|tap|: Add |colorless|."
 msgstr ""
 
-#: ../../DMU.rst:1232
-msgid ":mtgtip:`Forest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/2/52097f6a-58d3-4176-b3bf-dc94f44adf30.jpg?1660951232|https://scryfall.com/card/dmu/274/forest?utm_source=api>`"
+#: ../../DMU.rst:1229
+msgid "|tap|: Add |mana_w| or |mana_u|. Adarkar Wastes deals 1 damage to you."
 msgstr ""
 
-#: ../../DMU.rst:1231
-msgid "(|tap|: Add |mana_g|.)"
+#: ../../DMU.rst:1236
+msgid ":mtgtip:`Caves of Koilos<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/9/99264beb-2149-4cd4-9880-f0dc5c570c1b.jpg?1660843703|https://scryfall.com/card/dmu/244/caves-of-koilos?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:1238
-msgid ":mtgtip:`Serra Redeemer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/8/a8b9cb5c-29f2-46ed-803e-c2170955217c.jpg?1661384715|https://scryfall.com/card/dmu/282/serra-redeemer?utm_source=api>`"
-msgstr ""
-
-#: ../../DMU.rst:1237
-msgid "Whenever another creature with power 2 or less enters the battlefield under your control, put two +1/+1 counters on that creature."
+#: ../../DMU.rst:1235
+msgid "|tap|: Add |mana_w| or |mana_b|. Caves of Koilos deals 1 damage to you."
 msgstr ""
 
 #: ../../DMU.rst:1242
-msgid ":mtgtip:`Cosmic Epiphany<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/9/79718dbe-d5d6-4f24-b514-5c392963f021.jpg?1661385232|https://scryfall.com/card/dmu/283/cosmic-epiphany?utm_source=api>`"
+msgid ":mtgtip:`Karplusan Forest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/8/b89b2c79-e3d3-4ef9-bfc8-f9c090975011.jpg?1660843816|https://scryfall.com/card/dmu/250/karplusan-forest?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:1241
-msgid "Draw cards equal to the number of instant and sorcery cards in your graveyard."
+msgid "|tap|: Add |mana_r| or |mana_g|. Karplusan Forest deals 1 damage to you."
 msgstr ""
 
 #: ../../DMU.rst:1252
-msgid ":mtgtip:`Tyrannical Pitlord<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/2/027ef1fc-4a7a-465c-9c25-dc19c771b5f5.jpg?1661385436|https://scryfall.com/card/dmu/284/tyrannical-pitlord?utm_source=api>`"
-msgstr ""
-
-#: ../../DMU.rst:1245
-msgid "Flying, trample"
+msgid ":mtgtip:`Plaza of Heroes<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/2/a2cfcf67-f83c-43af-9e2d-5513fcdde835.jpg?1661025354|https://scryfall.com/card/dmu/252/plaza-of-heroes?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:1247
-msgid "As Tyrannical Pitlord enters the battlefield, choose another creature you control."
+msgid "|tap|: Add one mana of any color. Spend this mana only to cast a legendary spell."
 msgstr ""
 
 #: ../../DMU.rst:1249
-msgid "Those chosen creature gets +3/+3 and has flying."
+msgid "|tap|: Add one mana of any color among legendary permanents you control."
 msgstr ""
 
 #: ../../DMU.rst:1251
-msgid "When Tyrannical Pitlord leaves the battlefield, sacrifice the chosen creature."
+msgid "|mana_3|, |tap|, Exile Plaza of Heroes: Target legendary creature gains hexproof and indestructible until end of turn."
 msgstr ""
 
 #: ../../DMU.rst:1258
-msgid ":mtgtip:`Ragefire Hellkite<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/3/23ccd68d-0162-4a4c-892e-1726b8b28612.jpg?1661385886|https://scryfall.com/card/dmu/285/ragefire-hellkite?utm_source=api>`"
+msgid ":mtgtip:`Shivan Reef<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/3/a338107b-0960-4496-a9a5-f7b672e7c043.jpg?1660843760|https://scryfall.com/card/dmu/255/shivan-reef?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:1257
-msgid "Whenever Ragefire Hellkite attacks, you may sacrifice another creature. If you do, Ragefire Hellkite gains double strike until end of turn."
+msgid "|tap|: Add |mana_u| or |mana_r|. Shivan Reef deals 1 damage to you."
 msgstr ""
 
 #: ../../DMU.rst:1264
-msgid ":mtgtip:`Briar Hydra<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/9/390fd5d1-3ce9-456e-b130-30ad0557f4cf.jpg?1661386009|https://scryfall.com/card/dmu/286/briar-hydra?utm_source=api>`"
+msgid ":mtgtip:`Sulfurous Springs<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/f/dfd5450a-6490-417f-9aea-b6fca6f380d7.jpg?1660843898|https://scryfall.com/card/dmu/256/sulfurous-springs?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:1263
-msgid "Domain — Whenever Briar Hydra deals combat damage to a player, put a X +1/+1 counters on target creature you control, where X is the number of basic land types among lands you control."
+msgid "|tap|: Add |mana_b| or |mana_r|. Sulfurous Springs deals 1 damage to you."
 msgstr ""
 
-#: ../../DMU.rst:1268
-msgid ":mtgtip:`\"Baird, Gym Bro\"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/b/6b7acac3-cb41-46bb-ae5e-98dc60620e53.jpg?1661356569|https://scryfall.com/card/dmu/294/baird-gym-bro?utm_source=api>`"
+#: ../../DMU.rst:1274
+msgid ":mtgtip:`Thran Portal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/f/ef074a2e-a387-4af8-a180-74b145d93992.jpg?1661358003|https://scryfall.com/card/dmu/259/thran-portal?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:1267
-msgid "At the beginning of your end step, if you control a creature with power greater than its base power, create a 1/1 white Soldier creature token."
+msgid "Thran Portal enters the battlefield tapped unless you control two or fewer other lands."
 msgstr ""
 
-#: ../../DMU.rst:1272
-msgid ":mtgtip:`\"Garna, Aggro Champ\"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/7/a7ab0eb2-1c6d-4117-b620-81ba324dd4c7.jpg?1661356714|https://scryfall.com/card/dmu/299/garna-aggro-champ?utm_source=api>`"
+#: ../../DMU.rst:1269
+msgid "As Thran Portal enters the battlefield, choose a basic land type."
 msgstr ""
 
 #: ../../DMU.rst:1271
+msgid "Thran Portal is the chosen type in addition to its other types."
+msgstr ""
+
+#: ../../DMU.rst:1273
+msgid "Mana abilities of Thran Portal cost an additional 1 life to activate."
+msgstr ""
+
+#: ../../DMU.rst:1280
+msgid ":mtgtip:`Yavimaya Coast<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/e/0ed6c8b0-f154-4678-89d0-9869864ead8d.jpg?1660887347|https://scryfall.com/card/dmu/261/yavimaya-coast?utm_source=api>`"
+msgstr ""
+
+#: ../../DMU.rst:1279
+msgid "|tap|: Add |mana_g| or |mana_u|. Yavimaya Coast deals 1 damage to you."
+msgstr ""
+
+#: ../../DMU.rst:1284
+msgid ":mtgtip:`Plains<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/8/5822b027-369d-46da-b6dd-c31207e2f449.jpg?1660950881|https://scryfall.com/card/dmu/262/plains?utm_source=api>`"
+msgstr ""
+
+#: ../../DMU.rst:1283
+msgid "(|tap|: Add |mana_w|.)"
+msgstr ""
+
+#: ../../DMU.rst:1288
+msgid ":mtgtip:`Island<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/b/8bafc217-3d83-4551-b2e3-3494ec14b2f9.jpg?1660950973|https://scryfall.com/card/dmu/265/island?utm_source=api>`"
+msgstr ""
+
+#: ../../DMU.rst:1287
+msgid "(|tap|: Add |mana_u|.)"
+msgstr ""
+
+#: ../../DMU.rst:1292
+msgid ":mtgtip:`Swamp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/a/5a846f00-ccb9-4ee2-8358-7c7722258601.jpg?1660951065|https://scryfall.com/card/dmu/268/swamp?utm_source=api>`"
+msgstr ""
+
+#: ../../DMU.rst:1291
+msgid "(|tap|: Add |mana_b|.)"
+msgstr ""
+
+#: ../../DMU.rst:1296
+msgid ":mtgtip:`Mountain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/8/a82f782e-abc8-4b92-a193-17b2c383f765.jpg?1660951177|https://scryfall.com/card/dmu/271/mountain?utm_source=api>`"
+msgstr ""
+
+#: ../../DMU.rst:1295
+msgid "(|tap|: Add |mana_r|.)"
+msgstr ""
+
+#: ../../DMU.rst:1300
+msgid ":mtgtip:`Forest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/2/52097f6a-58d3-4176-b3bf-dc94f44adf30.jpg?1660951232|https://scryfall.com/card/dmu/274/forest?utm_source=api>`"
+msgstr ""
+
+#: ../../DMU.rst:1299
+msgid "(|tap|: Add |mana_g|.)"
+msgstr ""
+
+#: ../../DMU.rst:1306
+msgid ":mtgtip:`Serra Redeemer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/8/a8b9cb5c-29f2-46ed-803e-c2170955217c.jpg?1661384715|https://scryfall.com/card/dmu/282/serra-redeemer?utm_source=api>`"
+msgstr ""
+
+#: ../../DMU.rst:1305
+msgid "Whenever another creature with power 2 or less enters the battlefield under your control, put two +1/+1 counters on that creature."
+msgstr ""
+
+#: ../../DMU.rst:1310
+msgid ":mtgtip:`Cosmic Epiphany<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/9/79718dbe-d5d6-4f24-b514-5c392963f021.jpg?1661385232|https://scryfall.com/card/dmu/283/cosmic-epiphany?utm_source=api>`"
+msgstr ""
+
+#: ../../DMU.rst:1309
+msgid "Draw cards equal to the number of instant and sorcery cards in your graveyard."
+msgstr ""
+
+#: ../../DMU.rst:1320
+msgid ":mtgtip:`Tyrannical Pitlord<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/2/027ef1fc-4a7a-465c-9c25-dc19c771b5f5.jpg?1661385436|https://scryfall.com/card/dmu/284/tyrannical-pitlord?utm_source=api>`"
+msgstr ""
+
+#: ../../DMU.rst:1313
+msgid "Flying, trample"
+msgstr ""
+
+#: ../../DMU.rst:1315
+msgid "As Tyrannical Pitlord enters the battlefield, choose another creature you control."
+msgstr ""
+
+#: ../../DMU.rst:1317
+msgid "Those chosen creature gets +3/+3 and has flying."
+msgstr ""
+
+#: ../../DMU.rst:1319
+msgid "When Tyrannical Pitlord leaves the battlefield, sacrifice the chosen creature."
+msgstr ""
+
+#: ../../DMU.rst:1326
+msgid ":mtgtip:`Ragefire Hellkite<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/3/23ccd68d-0162-4a4c-892e-1726b8b28612.jpg?1661385886|https://scryfall.com/card/dmu/285/ragefire-hellkite?utm_source=api>`"
+msgstr ""
+
+#: ../../DMU.rst:1325
+msgid "Whenever Ragefire Hellkite attacks, you may sacrifice another creature. If you do, Ragefire Hellkite gains double strike until end of turn."
+msgstr ""
+
+#: ../../DMU.rst:1332
+msgid ":mtgtip:`Briar Hydra<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/9/390fd5d1-3ce9-456e-b130-30ad0557f4cf.jpg?1661386009|https://scryfall.com/card/dmu/286/briar-hydra?utm_source=api>`"
+msgstr ""
+
+#: ../../DMU.rst:1331
+msgid "Domain — Whenever Briar Hydra deals combat damage to a player, put a X +1/+1 counters on target creature you control, where X is the number of basic land types among lands you control."
+msgstr ""
+
+#: ../../DMU.rst:1336
+msgid ":mtgtip:`\"Baird, Gym Bro\"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/b/6b7acac3-cb41-46bb-ae5e-98dc60620e53.jpg?1661356569|https://scryfall.com/card/dmu/294/baird-gym-bro?utm_source=api>`"
+msgstr ""
+
+#: ../../DMU.rst:1335
+msgid "At the beginning of your end step, if you control a creature with power greater than its base power, create a 1/1 white Soldier creature token."
+msgstr ""
+
+#: ../../DMU.rst:1340
+msgid ":mtgtip:`\"Garna, Aggro Champ\"<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/7/a7ab0eb2-1c6d-4117-b620-81ba324dd4c7.jpg?1661356714|https://scryfall.com/card/dmu/299/garna-aggro-champ?utm_source=api>`"
+msgstr ""
+
+#: ../../DMU.rst:1339
 msgid "Whenever another creature you control dies, draw a card if it was attacking. Otherwise, \"Garna, Aggro Champ\" deals 1 damage to each opponent."
 msgstr ""
 
-#: ../../DMU.rst:1277
-msgid ":mtgtip:`Jodah, the Unifier<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/1/416429e0-4b7e-43d1-8126-16ab679b6e39.jpg?1661386382|https://scryfall.com/card/dmu/302/jodah-the-unifier?utm_source=api>`"
+#: ../../DMU.rst:1345
+msgid ":mtgtip:`Jodah, the Unifier<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/1/416429e0-4b7e-43d1-8126-16ab679b6e39.jpg?1661405888|https://scryfall.com/card/dmu/302/jodah-the-unifier?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:1275
+#: ../../DMU.rst:1343
 msgid "Legendary creatures you control get +X/+X where X is the number of legendary creatures you control."
 msgstr ""
 
-#: ../../DMU.rst:1277
+#: ../../DMU.rst:1345
 msgid "Whenever you cast a legendary spell from your hand, exile cards from the top of your library until you exile a legendary nonland card with lesser mana value. You may cast that card without paying its mana cost. Put the rest on the bottom of your library in a random order."
 msgstr ""

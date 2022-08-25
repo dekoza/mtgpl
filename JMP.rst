@@ -160,7 +160,7 @@
 
 
 :mtgtip:`Allosaurus Shepherd<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/e/0ee4a931-5d61-49ba-affc-f022263938ca.jpg?1609798819|https://scryfall.com/card/jmp/28/allosaurus-shepherd?utm_source=api>`
-   Allosaurus Shepherd can't be countered.
+   This spell can't be countered.
 
    Green spells you control can't be countered.
 

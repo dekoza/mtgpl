@@ -919,51 +919,51 @@
    |mana_5|, |tap|: Add |mana_w|\ |mana_u|\ |mana_b|\ |mana_r|\ |mana_g|.
 
 
-:mtgtip:`Dragonskull Summit<https://c2.scryfall.com/file/scryfall-errors/soon.jpg|https://scryfall.com/card/dmc/207/dragonskull-summit?utm_source=api>`
+:mtgtip:`Dragonskull Summit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/c/8c5a9cb7-6c97-47fd-acd0-bc6dd11b77b4.jpg?1661392466|https://scryfall.com/card/dmc/207/dragonskull-summit?utm_source=api>`
    Dragonskull Summit enters the battlefield tapped unless you control a Swamp or a Mountain.
 
    |tap|: Add |mana_b| or |mana_r|.
 
 
-:mtgtip:`Evolving Wilds<https://c2.scryfall.com/file/scryfall-errors/soon.jpg|https://scryfall.com/card/dmc/208/evolving-wilds?utm_source=api>`
+:mtgtip:`Evolving Wilds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/2/b2f20d21-6666-4851-a293-469152c347cf.jpg?1661392484|https://scryfall.com/card/dmc/208/evolving-wilds?utm_source=api>`
    |tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
 
-:mtgtip:`Exotic Orchard<https://c2.scryfall.com/file/scryfall-errors/soon.jpg|https://scryfall.com/card/dmc/209/exotic-orchard?utm_source=api>`
+:mtgtip:`Exotic Orchard<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/d/ad281a0a-57ac-4285-aac7-244eb7b18601.jpg?1661392501|https://scryfall.com/card/dmc/209/exotic-orchard?utm_source=api>`
    |tap|: Add one mana of any color that a land an opponent controls could produce.
 
 
-:mtgtip:`Foreboding Ruins<https://c2.scryfall.com/file/scryfall-errors/soon.jpg|https://scryfall.com/card/dmc/211/foreboding-ruins?utm_source=api>`
+:mtgtip:`Foreboding Ruins<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/e/be7a14d1-5846-492e-a41a-d5c2045c3cc7.jpg?1661392518|https://scryfall.com/card/dmc/211/foreboding-ruins?utm_source=api>`
    As Foreboding Ruins enters the battlefield, you may reveal a Swamp or Mountain card from your hand. If you don't, Foreboding Ruins enters the battlefield tapped.
 
    |tap|: Add |mana_b| or |mana_r|.
 
 
-:mtgtip:`Frontier Bivouac<https://c2.scryfall.com/file/scryfall-errors/soon.jpg|https://scryfall.com/card/dmc/212/frontier-bivouac?utm_source=api>`
+:mtgtip:`Frontier Bivouac<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/d/cd5d50df-b555-4e81-bf21-756ed71a64de.jpg?1661392544|https://scryfall.com/card/dmc/212/frontier-bivouac?utm_source=api>`
    Frontier Bivouac enters the battlefield tapped.
 
    |tap|: Add |mana_g|, |mana_u|, or |mana_r|.
 
 
-:mtgtip:`Geier Reach Sanitarium<https://c2.scryfall.com/file/scryfall-errors/soon.jpg|https://scryfall.com/card/dmc/213/geier-reach-sanitarium?utm_source=api>`
+:mtgtip:`Geier Reach Sanitarium<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/b/0b9fa570-770d-45a7-9b87-2def6992a22b.jpg?1661392563|https://scryfall.com/card/dmc/213/geier-reach-sanitarium?utm_source=api>`
    |tap|: Add |colorless|.
 
    |mana_2|, |tap|: Each player draws a card, then discards a card.
 
 
-:mtgtip:`Grasslands<https://c2.scryfall.com/file/scryfall-errors/soon.jpg|https://scryfall.com/card/dmc/214/grasslands?utm_source=api>`
+:mtgtip:`Grasslands<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/0/60bef70c-ded1-4645-8c6d-3f9ad032957f.jpg?1661392581|https://scryfall.com/card/dmc/214/grasslands?utm_source=api>`
    Grasslands enters the battlefield tapped.
 
    |tap|, Sacrifice Grasslands: Search your library for a Forest or Plains card, put it onto the battlefield, then shuffle.
 
 
-:mtgtip:`Jungle Shrine<https://c2.scryfall.com/file/scryfall-errors/soon.jpg|https://scryfall.com/card/dmc/215/jungle-shrine?utm_source=api>`
+:mtgtip:`Jungle Shrine<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/0/e01e4661-29d8-466d-8045-37e14b88ea1c.jpg?1661392598|https://scryfall.com/card/dmc/215/jungle-shrine?utm_source=api>`
    Jungle Shrine enters the battlefield tapped.
 
    |tap|: Add |mana_r|, |mana_g|, or |mana_w|.
 
 
-:mtgtip:`Krosan Verge<https://c2.scryfall.com/file/scryfall-errors/soon.jpg|https://scryfall.com/card/dmc/216/krosan-verge?utm_source=api>`
+:mtgtip:`Krosan Verge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/9/d94c0ed8-a4f0-48ab-809e-5976fd87b97a.jpg?1661392618|https://scryfall.com/card/dmc/216/krosan-verge?utm_source=api>`
    Krosan Verge enters the battlefield tapped.
 
    |tap|: Add |colorless|.
@@ -971,19 +971,19 @@
    |mana_2|, |tap|, Sacrifice Krosan Verge: Search your library for a Forest card and a Plains card, put them onto the battlefield tapped, then shuffle.
 
 
-:mtgtip:`Mikokoro, Center of the Sea<https://c2.scryfall.com/file/scryfall-errors/soon.jpg|https://scryfall.com/card/dmc/217/mikokoro-center-of-the-sea?utm_source=api>`
+:mtgtip:`Mikokoro, Center of the Sea<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/8/d80eb098-5433-4b1e-aad5-0fd31bf598dd.jpg?1661392635|https://scryfall.com/card/dmc/217/mikokoro-center-of-the-sea?utm_source=api>`
    |tap|: Add |colorless|.
 
    |mana_2|, |tap|: Each player draws a card.
 
 
-:mtgtip:`Mobilized District<https://c2.scryfall.com/file/scryfall-errors/soon.jpg|https://scryfall.com/card/dmc/218/mobilized-district?utm_source=api>`
+:mtgtip:`Mobilized District<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/f/cf58d89a-03f9-46f0-8ce3-4dd9e97c292f.jpg?1661392649|https://scryfall.com/card/dmc/218/mobilized-district?utm_source=api>`
    |tap|: Add |colorless|.
 
    |mana_4|: Mobilized District becomes a 3/3 Citizen creature with vigilance until end of turn. It's still a land. This ability costs |mana_1| less to activate for each legendary creature and planeswalker you control.
 
 
-:mtgtip:`Mountain Valley<https://c2.scryfall.com/file/scryfall-errors/soon.jpg|https://scryfall.com/card/dmc/219/mountain-valley?utm_source=api>`
+:mtgtip:`Mountain Valley<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/a/1acef291-70ad-4196-9276-de7b4d31016d.jpg?1661392670|https://scryfall.com/card/dmc/219/mountain-valley?utm_source=api>`
    Mountain Valley enters the battlefield tapped.
 
    |tap|, Sacrifice Mountain Valley: Search your library for a Mountain or Forest card, put it onto the battlefield, then shuffle.
@@ -997,25 +997,25 @@
    |tap|: Add |mana_w| or |mana_b|. Murmuring Bosk deals 1 damage to you.
 
 
-:mtgtip:`Mystic Monastery<https://c2.scryfall.com/file/scryfall-errors/soon.jpg|https://scryfall.com/card/dmc/221/mystic-monastery?utm_source=api>`
+:mtgtip:`Mystic Monastery<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/6/46b0efe1-958c-4d13-9464-b140080014e7.jpg?1661392691|https://scryfall.com/card/dmc/221/mystic-monastery?utm_source=api>`
    Mystic Monastery enters the battlefield tapped.
 
    |tap|: Add |mana_u|, |mana_r|, or |mana_w|.
 
 
-:mtgtip:`Nomad Outpost<https://c2.scryfall.com/file/scryfall-errors/soon.jpg|https://scryfall.com/card/dmc/222/nomad-outpost?utm_source=api>`
+:mtgtip:`Nomad Outpost<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/c/9c003287-993d-4cc2-8b91-47919dbaa1ec.jpg?1661392712|https://scryfall.com/card/dmc/222/nomad-outpost?utm_source=api>`
    Nomad Outpost enters the battlefield tapped.
 
    |tap|: Add |mana_r|, |mana_w|, or |mana_b|.
 
 
-:mtgtip:`Opulent Palace<https://c2.scryfall.com/file/scryfall-errors/soon.jpg|https://scryfall.com/card/dmc/223/opulent-palace?utm_source=api>`
+:mtgtip:`Opulent Palace<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/f/ef77912d-b9f5-4785-a57c-077275605d06.jpg?1661392729|https://scryfall.com/card/dmc/223/opulent-palace?utm_source=api>`
    Opulent Palace enters the battlefield tapped.
 
    |tap|: Add |mana_b|, |mana_g|, or |mana_u|.
 
 
-:mtgtip:`Orzhov Basilica<https://c2.scryfall.com/file/scryfall-errors/soon.jpg|https://scryfall.com/card/dmc/224/orzhov-basilica?utm_source=api>`
+:mtgtip:`Orzhov Basilica<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/4/b4895407-2ff7-4a68-b47e-eb9733c95451.jpg?1661392746|https://scryfall.com/card/dmc/224/orzhov-basilica?utm_source=api>`
    Orzhov Basilica enters the battlefield tapped.
 
    When Orzhov Basilica enters the battlefield, return a land you control to its owner's hand.
@@ -1023,13 +1023,13 @@
    |tap|: Add |mana_w|\ |mana_b|.
 
 
-:mtgtip:`Prairie Stream<https://c2.scryfall.com/file/scryfall-errors/soon.jpg|https://scryfall.com/card/dmc/225/prairie-stream?utm_source=api>`
+:mtgtip:`Prairie Stream<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/3/f39392dd-a32e-4bbe-a9f9-e8cd281138fe.jpg?1661392770|https://scryfall.com/card/dmc/225/prairie-stream?utm_source=api>`
    (|tap|: Add |mana_w| or |mana_u|.)
 
    Prairie Stream enters the battlefield tapped unless you control two or more basic lands.
 
 
-:mtgtip:`Rakdos Carnarium<https://c2.scryfall.com/file/scryfall-errors/soon.jpg|https://scryfall.com/card/dmc/226/rakdos-carnarium?utm_source=api>`
+:mtgtip:`Rakdos Carnarium<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/9/19906ffa-c43e-4c11-b9c0-4a8b77d6691a.jpg?1661392798|https://scryfall.com/card/dmc/226/rakdos-carnarium?utm_source=api>`
    Rakdos Carnarium enters the battlefield tapped.
 
    When Rakdos Carnarium enters the battlefield, return a land you control to its owner's hand.
@@ -1037,61 +1037,61 @@
    |tap|: Add |mana_b|\ |mana_r|.
 
 
-:mtgtip:`Reliquary Tower<https://c2.scryfall.com/file/scryfall-errors/soon.jpg|https://scryfall.com/card/dmc/227/reliquary-tower?utm_source=api>`
+:mtgtip:`Reliquary Tower<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/b/2bdb402f-b3a9-499c-8b00-31a36c3cba89.jpg?1661392826|https://scryfall.com/card/dmc/227/reliquary-tower?utm_source=api>`
    You have no maximum hand size.
 
    |tap|: Add |colorless|.
 
 
-:mtgtip:`Rocky Tar Pit<https://c2.scryfall.com/file/scryfall-errors/soon.jpg|https://scryfall.com/card/dmc/228/rocky-tar-pit?utm_source=api>`
+:mtgtip:`Rocky Tar Pit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/1/41c99349-2181-4eee-bf71-717e1dc94f7f.jpg?1661392853|https://scryfall.com/card/dmc/228/rocky-tar-pit?utm_source=api>`
    Rocky Tar Pit enters the battlefield tapped.
 
    |tap|, Sacrifice Rocky Tar Pit: Search your library for a Swamp or Mountain card, put it onto the battlefield, then shuffle.
 
 
-:mtgtip:`Sandsteppe Citadel<https://c2.scryfall.com/file/scryfall-errors/soon.jpg|https://scryfall.com/card/dmc/229/sandsteppe-citadel?utm_source=api>`
+:mtgtip:`Sandsteppe Citadel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/5/b5265db7-5165-469c-bdff-978a5cefc034.jpg?1661392869|https://scryfall.com/card/dmc/229/sandsteppe-citadel?utm_source=api>`
    Sandsteppe Citadel enters the battlefield tapped.
 
    |tap|: Add |mana_w|, |mana_b|, or |mana_g|.
 
 
-:mtgtip:`Savage Lands<https://c2.scryfall.com/file/scryfall-errors/soon.jpg|https://scryfall.com/card/dmc/230/savage-lands?utm_source=api>`
+:mtgtip:`Savage Lands<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/76f6cdba-ae62-4ec5-8319-739a35303b21.jpg?1661392886|https://scryfall.com/card/dmc/230/savage-lands?utm_source=api>`
    Savage Lands enters the battlefield tapped.
 
    |tap|: Add |mana_b|, |mana_r|, or |mana_g|.
 
 
-:mtgtip:`Seaside Citadel<https://c2.scryfall.com/file/scryfall-errors/soon.jpg|https://scryfall.com/card/dmc/231/seaside-citadel?utm_source=api>`
+:mtgtip:`Seaside Citadel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/e/6ed511b8-6c8d-4a9e-aeef-6d1224bb9204.jpg?1661392906|https://scryfall.com/card/dmc/231/seaside-citadel?utm_source=api>`
    Seaside Citadel enters the battlefield tapped.
 
    |tap|: Add |mana_g|, |mana_w|, or |mana_u|.
 
 
-:mtgtip:`Shivan Gorge<https://c2.scryfall.com/file/scryfall-errors/soon.jpg|https://scryfall.com/card/dmc/232/shivan-gorge?utm_source=api>`
+:mtgtip:`Shivan Gorge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/3/d3162830-4d06-4c69-8544-876d2fa8ea10.jpg?1661392932|https://scryfall.com/card/dmc/232/shivan-gorge?utm_source=api>`
    |tap|: Add |colorless|.
 
    |mana_2|\ |mana_r|, |tap|: Shivan Gorge deals 1 damage to each opponent.
 
 
-:mtgtip:`Shizo, Death's Storehouse<https://c2.scryfall.com/file/scryfall-errors/soon.jpg|https://scryfall.com/card/dmc/233/shizo-deaths-storehouse?utm_source=api>`
+:mtgtip:`Shizo, Death's Storehouse<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/099352e2-38c8-4fb4-a25f-6d928aa20f9e.jpg?1661392954|https://scryfall.com/card/dmc/233/shizo-deaths-storehouse?utm_source=api>`
    |tap|: Add |mana_b|.
 
    |mana_b|, |tap|: Target legendary creature gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.)
 
 
-:mtgtip:`Smoldering Marsh<https://c2.scryfall.com/file/scryfall-errors/soon.jpg|https://scryfall.com/card/dmc/234/smoldering-marsh?utm_source=api>`
+:mtgtip:`Smoldering Marsh<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/6/5613def4-c9fe-48e0-920d-48dd3a193ecc.jpg?1661392973|https://scryfall.com/card/dmc/234/smoldering-marsh?utm_source=api>`
    (|tap|: Add |mana_b| or |mana_r|.)
 
    Smoldering Marsh enters the battlefield tapped unless you control two or more basic lands.
 
 
-:mtgtip:`Sunken Hollow<https://c2.scryfall.com/file/scryfall-errors/soon.jpg|https://scryfall.com/card/dmc/235/sunken-hollow?utm_source=api>`
+:mtgtip:`Sunken Hollow<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/7/57e7f2d7-f2aa-45fd-ad6f-c618edb01018.jpg?1661392993|https://scryfall.com/card/dmc/235/sunken-hollow?utm_source=api>`
    (|tap|: Add |mana_u| or |mana_b|.)
 
    Sunken Hollow enters the battlefield tapped unless you control two or more basic lands.
 
 
-:mtgtip:`Temple of Malice<https://c2.scryfall.com/file/scryfall-errors/soon.jpg|https://scryfall.com/card/dmc/236/temple-of-malice?utm_source=api>`
+:mtgtip:`Temple of Malice<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/b/0b5d626b-c04e-4573-ab07-cf0143baa8b7.jpg?1661393012|https://scryfall.com/card/dmc/236/temple-of-malice?utm_source=api>`
    Temple of Malice enters the battlefield tapped.
 
    When Temple of Malice enters the battlefield, scry 1.
@@ -1099,7 +1099,7 @@
    |tap|: Add |mana_b| or |mana_r|.
 
 
-:mtgtip:`Temple of Silence<https://c2.scryfall.com/file/scryfall-errors/soon.jpg|https://scryfall.com/card/dmc/237/temple-of-silence?utm_source=api>`
+:mtgtip:`Temple of Silence<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/b/3b7db6c9-509a-4556-b855-338c34e3cb9b.jpg?1661393039|https://scryfall.com/card/dmc/237/temple-of-silence?utm_source=api>`
    Temple of Silence enters the battlefield tapped.
 
    When Temple of Silence enters the battlefield, scry 1.
@@ -1107,7 +1107,7 @@
    |tap|: Add |mana_w| or |mana_b|.
 
 
-:mtgtip:`Temple of Triumph<https://c2.scryfall.com/file/scryfall-errors/soon.jpg|https://scryfall.com/card/dmc/238/temple-of-triumph?utm_source=api>`
+:mtgtip:`Temple of Triumph<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/0/506e6398-174b-42ce-a326-2c74671c3777.jpg?1661393067|https://scryfall.com/card/dmc/238/temple-of-triumph?utm_source=api>`
    Temple of Triumph enters the battlefield tapped.
 
    When Temple of Triumph enters the battlefield, scry 1.
@@ -1115,6 +1115,14 @@
    |tap|: Add |mana_r| or |mana_w|.
 
 
-:mtgtip:`Terramorphic Expanse<https://c2.scryfall.com/file/scryfall-errors/soon.jpg|https://scryfall.com/card/dmc/239/terramorphic-expanse?utm_source=api>`
+:mtgtip:`Terramorphic Expanse<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/4/74d8849c-fe0d-4749-9165-a22f8643888a.jpg?1661393094|https://scryfall.com/card/dmc/239/terramorphic-expanse?utm_source=api>`
    |tap|, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+
+
+:mtgtip:`Tyrite Sanctum<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/d/6d56df43-e5b4-4633-a961-dafc10ffafc5.jpg?1661393114|https://scryfall.com/card/dmc/240/tyrite-sanctum?utm_source=api>`
+   |tap|: Add |colorless|.
+
+   |mana_2|, |tap|: Target legendary creature becomes a God in addition to its other types. Put a +1/+1 counter on it.
+
+   |mana_4|, |tap|, Sacrifice Tyrite Sanctum: Put an indestructible counter on target God.
 

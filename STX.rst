@@ -541,7 +541,7 @@
    Whenever Ardent Dustspeaker attacks, you may put an instant or sorcery card from your graveyard on the bottom of your library. If you do, exile the top two cards of your library. You may play those cards this turn.
 
 
-:mtgtip:`A-Ardent Dustspeaker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/9/79b12c44-9537-4863-a678-c982e8714a5a.jpg?1657065243|https://scryfall.com/card/stx/A-92/a-ardent-dustspeaker?utm_source=api>`
+:mtgtip:`A-Ardent Dustspeaker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/9/79b12c44-9537-4863-a678-c982e8714a5a.jpg?1659102058|https://scryfall.com/card/stx/A-92/a-ardent-dustspeaker?utm_source=api>`
    Whenever Ardent Dustspeaker attacks, you may put an instant or sorcery card from your graveyard on the bottom of your library. If you do, exile the top two cards of your library. You may play those cards this turn.
 
 
@@ -935,13 +935,13 @@
    Return up to two target creature, land, and/or planeswalker cards from your graveyard to your hand. Each player gains 4 life. Exile Restorative Burst.
 
 
-:mtgtip:`Plargg, Dean of Chaos<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5bd9b5cf-f018-48af-a081-995ce8ecc539.jpg?1624593727|https://scryfall.com/card/stx/155/plargg-dean-of-chaos-augusta-dean-of-order?utm_source=api>`
+:mtgtip:`Plargg, Dean of Chaos<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5bd9b5cf-f018-48af-a081-995ce8ecc539.jpg?1660299546|https://scryfall.com/card/stx/155/plargg-dean-of-chaos-augusta-dean-of-order?utm_source=api>`
    |tap|, Discard a card: Draw a card.
 
    |mana_4|\ |mana_r|, |tap|: Reveal cards from the top of your library until you reveal a nonlegendary, nonland card with mana value 3 or less. You may cast that card without paying its mana cost. Put all revealed cards not cast this way on the bottom of your library in a random order.
 
 
-:mtgtip:`Augusta, Dean of Order<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/5/b/5bd9b5cf-f018-48af-a081-995ce8ecc539.jpg?1624593727|https://scryfall.com/card/stx/155/plargg-dean-of-chaos-augusta-dean-of-order?utm_source=api>`
+:mtgtip:`Augusta, Dean of Order<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/5/b/5bd9b5cf-f018-48af-a081-995ce8ecc539.jpg?1660299546|https://scryfall.com/card/stx/155/plargg-dean-of-chaos-augusta-dean-of-order?utm_source=api>`
    Other tapped creatures you control get +1/+0.
 
    Other untapped creatures you control get +0/+1.
