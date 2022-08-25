@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2022.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-25 07:55+0200\n"
-"PO-Revision-Date: 2022-08-24 16:47+0000\n"
+"PO-Revision-Date: 2022-08-25 08:35+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dmu/pl/>\n"
 "Language: pl\n"
@@ -325,7 +325,7 @@ msgid ""
 "When Archangel of Wrath enters the battlefield, if it was kicked, it deals 2 "
 "damage to any target."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli został podbity, zadaje on "
+"Kiedy ten byt wejdzie na pole bitwy, jeśli został podbity, zadaje on "
 "wskazanemu celowi 2 obrażenia."
 
 #: ../../DMU.rst:33
@@ -333,8 +333,8 @@ msgid ""
 "When Archangel of Wrath enters the battlefield, if it was kicked twice, it "
 "deals 2 damage to any target."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli został podbity dwukrotnie, "
-"zadaje on wskazanemu celowi 2 obrażenia."
+"Kiedy ten byt wejdzie na pole bitwy, jeśli został podbity dwukrotnie, zadaje "
+"on wskazanemu celowi 2 obrażenia."
 
 #: ../../DMU.rst:40
 msgid ""
@@ -359,8 +359,7 @@ msgid ""
 "When Argivian Cavalier enters the battlefield, create a 1/1 white Soldier "
 "creature token."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton białego stwora Piechur "
-"1/1."
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton białego stwora Piechur 1/1."
 
 #: ../../DMU.rst:46
 msgid ""
@@ -380,7 +379,7 @@ msgid ""
 "When Benalish Sleeper enters the battlefield, if it was kicked, each player "
 "sacrifices a creature."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli został podbity, każdy gracz "
+"Kiedy ten byt wejdzie na pole bitwy, jeśli został podbity, każdy gracz "
 "poświęca stwora."
 
 #: ../../DMU.rst:50
@@ -441,7 +440,7 @@ msgid ""
 "When Cleaving Skyrider enters the battlefield, if it was kicked, it deals X "
 "damage to any target, where X is the number of attacking creatures."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli został podbity, zadaje on "
+"Kiedy ten byt wejdzie na pole bitwy, jeśli został podbity, zadaje on "
 "wskazanemu celowi X obrażeń, gdzie X jest liczbą atakujących stworów."
 
 #: ../../DMU.rst:70
@@ -467,7 +466,7 @@ msgid ""
 "When Danitha, Benalia's Hope enters the battlefield, you may put an Aura or "
 "Equipment card from your hand onto the battlefield attached to Danitha."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz umieścić kartę Aury lub "
+"Kiedy ten byt wejdzie na pole bitwy, możesz umieścić kartę Aury lub "
 "Wyposażenia z twojej ręki na polu bitwy dołączoną do niniejszego."
 
 #: ../../DMU.rst:84
@@ -503,14 +502,14 @@ msgstr ""
 
 #: ../../DMU.rst:89
 msgid "Whenever Guardian of New Benalia enlists a creature, scry 2."
-msgstr "Ilekroć ten stwór zwerbuje stwora, wróż 2."
+msgstr "Ilekroć ten byt zwerbuje stwora, wróż 2."
 
 #: ../../DMU.rst:91
 msgid ""
 "Discard a card: Guardian of New Benalia gains indestructible until end of "
 "turn. Tap it."
 msgstr ""
-"Odrzuć kartę: Ten stwór zyskuje do końca tury niezniszczalność. Przekręć go."
+"Odrzuć kartę: Ten byt zyskuje do końca tury niezniszczalność. Przekręć go."
 
 #: ../../DMU.rst:96
 msgid ""
@@ -545,8 +544,8 @@ msgid ""
 "When Juniper Order Rootweaver enters the battlefield, if it was kicked, put "
 "a +1/+1 counter on target creature you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli został podbity, umieść znacznik "
-"+1/+1 na wskazanym stworze pod twoim władaniem."
+"Kiedy ten byt wejdzie na pole bitwy, jeśli został podbity, umieść znacznik +"
+"1/+1 na wskazanym stworze pod twoim władaniem."
 
 #: ../../DMU.rst:110
 msgid ""
@@ -557,11 +556,11 @@ msgstr ""
 
 #: ../../DMU.rst:105
 msgid "First strike"
-msgstr ""
+msgstr "Pierwszy cios"
 
 #: ../../DMU.rst:107
 msgid "If you would gain life, you gain that much life plus 1 instead."
-msgstr ""
+msgstr "Jeśli masz zyskać życia, zamiast tego zyskaj tyle samo żyć plus 1."
 
 #: ../../DMU.rst:109
 #, fuzzy
@@ -580,16 +579,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:115
-#, fuzzy
-#| msgid ""
-#| "Domain — |mana_5|, |tap|: Draw a card. This ability costs |mana_1| less "
-#| "to activate for each basic land type among lands you control."
 msgid ""
 "Domain — This spell costs |mana_1| less to cast for each basic land type "
 "among lands you control."
 msgstr ""
-"Domena — |mana_5|, |tap|: Dobierz kartę. Aktywacja tej zdolności kosztuje o |"
-"mana_1| mniej za każdy typ bazowego lądu pośród lądów pod twoim władaniem."
+"Domena — Rzucenie tego czaru kosztuje o |mana_1| mniej za każdy typ bazowego "
+"lądu pośród lądów pod twoim władaniem."
 
 #: ../../DMU.rst:117
 #, fuzzy
@@ -643,7 +638,7 @@ msgstr ""
 
 #: ../../DMU.rst:133
 msgid "When Mesa Cavalier enters the battlefield, you gain 2 life."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 2 życia."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 2 życia."
 
 #: ../../DMU.rst:142
 msgid ""
@@ -665,16 +660,12 @@ msgid "Lifelink"
 msgstr "Więź życia"
 
 #: ../../DMU.rst:141
-#, fuzzy
-#| msgid ""
-#| "When Juniper Order Rootweaver enters the battlefield, if it was kicked, "
-#| "put a +1/+1 counter on target creature you control."
 msgid ""
 "When \"Unburial Priest\" enters the battlefield, if it was kicked, return "
 "target creature card from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli został podbity, umieść znacznik "
-"+1/+1 na wskazanym stworze pod twoim władaniem."
+"Kiedy ten byt wejdzie na pole bitwy, jeśli został podbity, przywróć wskazaną "
+"kartę stwora z twojego cmentarza do twojej ręki."
 
 #: ../../DMU.rst:148
 msgid ""
@@ -688,8 +679,7 @@ msgid ""
 "When Resolute Reinforcements enters the battlefield, create a 1/1 white "
 "Soldier creature token."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton białego stwora Piechur "
-"1/1."
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton białego stwora Piechur 1/1."
 
 #: ../../DMU.rst:154
 msgid ""
@@ -766,7 +756,7 @@ msgid ""
 "If Shalai's Acolyte was kicked, it enters the battlefield with two +1/+1 "
 "counters on it."
 msgstr ""
-"Jeśli ten stwór został podbity, wchodzi na pole bitwy mając dwa znaczniki +1/"
+"Jeśli ten byt został podbity, wchodzi na pole bitwy mając dwa znaczniki +1/"
 "+1."
 
 #: ../../DMU.rst:180
@@ -873,16 +863,16 @@ msgid ""
 "When Wingmantle Chaplain enters the battlefield, create a 1/1 white Bird "
 "creature token with flying for each creature with defender you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton białego stwora Ptak 1/1 "
-"z lataniem za każdego stwora pod twoim władaniem mającego obronność."
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton białego stwora Ptak 1/1 z "
+"lataniem za każdego stwora pod twoim władaniem mającego obronność."
 
 #: ../../DMU.rst:201
 msgid ""
 "Whenever another creature with defender enters the battlefield under your "
 "control, create a 1/1 white Bird creature token with flying."
 msgstr ""
-"Ilekroć inny ten stwór z obronnością wejdzie na pole bitwy pod twoim "
-"władaniem, stwórz żeton białego stwora Ptak 1/1 z lataniem."
+"Ilekroć inny stwór z obronnością wejdzie na pole bitwy pod twoim władaniem, "
+"stwórz żeton białego stwora Ptak 1/1 z lataniem."
 
 #: ../../DMU.rst:208
 msgid ""
@@ -892,16 +882,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:207
-#, fuzzy
-#| msgid ""
-#| "When Resolute Reinforcements enters the battlefield, create a 1/1 white "
-#| "Soldier creature token."
 msgid ""
 "Whenever you cast an instant or sorcery spell, you may draw a card. If you "
 "do, discard a card. This ability triggers only once each turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton białego stwora Piechur "
-"1/1."
+"Ilekroć rzucisz czar sztuczki lub obrzędu, możesz dobrać kartę. Jeśli tak "
+"zrobisz, odrzuć kartę. Ta zdolność wyzwala się tylko raz na turę."
 
 #: ../../DMU.rst:216
 msgid ""
@@ -921,7 +907,7 @@ msgid ""
 "When Battlewing Mystic enters the battlefield, if it was kicked, discard "
 "your hand, then draw two cards."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli został podbity, odrzuć twoją "
+"Kiedy ten byt wejdzie na pole bitwy, jeśli został podbity, odrzuć twoją "
 "rękę, po czym dobierz dwie karty."
 
 #: ../../DMU.rst:222
@@ -1038,7 +1024,7 @@ msgid ""
 "opponent controls and put a stun counter on it. (If a permanent with a stun "
 "counter would become untapped, remove one from it instead.)"
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, przekręć wskazanego stwora pod "
+"Kiedy ten byt wejdzie na pole bitwy, przekręć wskazanego stwora pod "
 "władaniem przeciwnika i umieść na nim znacznik ogłuszenia. (Jeśli byt mający "
 "znacznik ogłuszenia miałby zostać odkręcony, zamiast tego usuń z niego ów "
 "znacznik.)"
@@ -1093,16 +1079,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:277
-#, fuzzy
-#| msgid ""
-#| "When Danitha, Benalia's Hope enters the battlefield, you may put an Aura "
-#| "or Equipment card from your hand onto the battlefield attached to Danitha."
 msgid ""
 "Scry 2, then draw a card. If this spell was kicked, you may put a land card "
 "from your hand onto the battlefield."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz umieścić kartę Aury lub "
-"Wyposażenia z twojej ręki na polu bitwy dołączoną do niniejszego."
+"Wróż 2, po czym dobierz kartę. Jeśli ten czar został podbity, możesz "
+"umieścić kartę lądu z twojej ręki na polu bitwy."
 
 #: ../../DMU.rst:282
 msgid ""
@@ -1117,7 +1099,7 @@ msgid ""
 "instant or sorcery card with mana value 1, reveal it, put it into your hand, "
 "then shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę sztuczki lub obrzędu o skrócie many 1, ujawnij ją, umieść ją w twojej "
 "ręce, po czym przetasuj."
 
@@ -1130,7 +1112,7 @@ msgstr ""
 
 #: ../../DMU.rst:285
 msgid "Counter target noncreature spell."
-msgstr ""
+msgstr "Skontruj wskazany nie-stworowy czar."
 
 #: ../../DMU.rst:294
 msgid ""
@@ -1339,7 +1321,7 @@ msgid ""
 "among lands you control. You may put one of those cards on top of your "
 "library. Put the rest on the bottom of your library in a random order."
 msgstr ""
-"Domena — Kiedy ten stwór wejdzie na pole bitwy, spójrz na X wierzchnich kart "
+"Domena — Kiedy ten byt wejdzie na pole bitwy, spójrz na X wierzchnich kart "
 "twojej biblioteki, gdzie X jest liczbą bazowych typów lądów pośród lądów pod "
 "twoim władaniem. Możesz jedną spośród owych kart umieścić na wierzchu twojej "
 "biblioteki. Umieść pozostałe losowo na spodzie twojej biblioteki."
@@ -1352,10 +1334,8 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:359
-#, fuzzy
-#| msgid "Other Goblins you control get +1/+1."
 msgid "Other Merfolk you control get +1/+1."
-msgstr "Inne Gobliny pod twoim władaniem dostają +1/+1."
+msgstr "Inni Wodnicy pod twoim władaniem dostają +1/+1."
 
 #: ../../DMU.rst:361
 #, fuzzy
@@ -1385,7 +1365,7 @@ msgid ""
 "Vodalian Mindsinger enters the battlefield with two +1/+1 counters on it for "
 "each time it was kicked."
 msgstr ""
-"Ten stwór wchodzi na pole bitwy mając po dwa znaczniki +1/+1 za każde jego "
+"Ten byt wchodzi na pole bitwy mając po dwa znaczniki +1/+1 za każde jego "
 "podbicie."
 
 #: ../../DMU.rst:369
@@ -1547,16 +1527,12 @@ msgstr ""
 "many."
 
 #: ../../DMU.rst:419
-#, fuzzy
-#| msgid ""
-#| "When Archangel of Wrath enters the battlefield, if it was kicked, it "
-#| "deals 2 damage to any target."
 msgid ""
 "Whenever you cast a black permanent spell, target creature you control gets "
 "+1/+1 and gains menace until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli został podbity, zadaje on "
-"wskazanemu celowi 2 obrażenia."
+"Ilekroć rzucisz czar czarnego bytu, wskazany stwór pod twoim władaniem "
+"dostaje do końca tury +1/+1 oraz złowrogość."
 
 #: ../../DMU.rst:424
 msgid ""
@@ -1673,12 +1649,10 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:455
-#, fuzzy
-#| msgid "When Mesa Cavalier enters the battlefield, you gain 2 life."
 msgid ""
 "When Phyrexian Rager enters the battlefield, you draw a card and you lose 1 "
 "life."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 2 życia."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę i strać 1 życie."
 
 #: ../../DMU.rst:464
 msgid ""
@@ -1688,26 +1662,18 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:461
-#, fuzzy
-#| msgid ""
-#| "When Argivian Cavalier enters the battlefield, create a 1/1 white Soldier "
-#| "creature token."
 msgid ""
 "When Phyrexian Warhorse enters the battlefield, if it was kicked, create a "
 "1/1 white Soldier creature token."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton białego stwora Piechur "
-"1/1."
+"Kiedy ten byt wejdzie na pole bitwy, jeśli został podbity, stwórz żeton "
+"białego stwora Piechur 1/1."
 
 #: ../../DMU.rst:463
-#, fuzzy
-#| msgid ""
-#| "|mana_4|\\ |mana_w|: Creatures you control get +1/+1 until end of turn."
 msgid ""
 "|mana_1|, Sacrifice another creature: Phyrexian Warhorse gets +2/+1 until "
 "end of turn."
-msgstr ""
-"|mana_4|\\ |mana_w|: Stwory pod twoim władaniem dostają do końca tury +1/+1."
+msgstr "|mana_1|, poświęć innego stwora: Niniejszy dostaje do końca tury +2/+1."
 
 #: ../../DMU.rst:468
 msgid ""
@@ -1819,12 +1785,12 @@ msgstr ""
 "dodatkowe |mana_g| i/lub |mana_w|.)"
 
 #: ../../DMU.rst:501
-#, fuzzy
-#| msgid "When Mesa Cavalier enters the battlefield, you gain 2 life."
 msgid ""
 "When Stronghold Arena enters the battlefield, you gain 3 life for each time "
 "it was kicked."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 2 życia."
+msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, zyskaj po 3 życia za każde jego "
+"podbicie."
 
 #: ../../DMU.rst:503
 msgid ""
@@ -1983,16 +1949,12 @@ msgid "Trample"
 msgstr "Tratowanie"
 
 #: ../../DMU.rst:563
-#, fuzzy
-#| msgid ""
-#| "When Resolute Reinforcements enters the battlefield, create a 1/1 white "
-#| "Soldier creature token."
 msgid ""
 "Whenever you cast an instant or sorcery spell, put a +1/+1 counter on "
 "Electrostatic Infantry."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton białego stwora Piechur "
-"1/1."
+"Ilekroć rzucisz czar sztuczki lub obrzędu, umieść znacznik +1/+1 na "
+"niniejszym."
 
 #: ../../DMU.rst:570
 msgid ""
@@ -2226,18 +2188,13 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:641
-#, fuzzy
-#| msgid ""
-#| "When Micromancer enters the battlefield, you may search your library for "
-#| "an instant or sorcery card with mana value 1, reveal it, put it into your "
-#| "hand, then shuffle."
 msgid ""
 "When Sprouting Goblin enters the battlefield, if it was kicked, search your "
 "library for a land card with a basic land type, reveal it, put it into your "
 "hand, then shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę sztuczki lub obrzędu o skrócie many 1, ujawnij ją, umieść ją w twojej "
+"Kiedy ten byt wejdzie na pole bitwy, jeśli został podbity, wyszukaj w twojej "
+"bibliotece kartę lądu mającą bazowy typ lądu, ujawnij ją, umieść ją w twojej "
 "ręce, po czym przetasuj."
 
 #: ../../DMU.rst:643
@@ -2304,13 +2261,11 @@ msgstr ""
 
 #: ../../DMU.rst:663
 msgid "As an additional cost to cast this spell, discard a card."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — odrzuć kartę."
 
 #: ../../DMU.rst:665
-#, fuzzy
-#| msgid "Draw X cards."
 msgid "Draw two cards."
-msgstr "Dobierz X kart."
+msgstr "Dobierz dwie karty."
 
 #: ../../DMU.rst:674
 msgid ""
@@ -2474,16 +2429,12 @@ msgstr ""
 "mana_3|\\ |mana_u|.)"
 
 #: ../../DMU.rst:731
-#, fuzzy
-#| msgid ""
-#| "When Benalish Sleeper enters the battlefield, if it was kicked, each "
-#| "player sacrifices a creature."
 msgid ""
 "When Elvish Hydromancer enters the battlefield, if it was kicked, create a "
 "token that's a copy of target creature you control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli został podbity, każdy gracz "
-"poświęca stwora."
+"Kiedy ten byt wejdzie na pole bitwy, jeśli został podbity, stwórz żeton "
+"będący kopią wskazanego stwora pod twoim władaniem."
 
 #: ../../DMU.rst:736
 msgid ""
@@ -2532,10 +2483,8 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:745
-#, fuzzy
-#| msgid "Other Goblins you control get +1/+1."
 msgid "Other Elves you control get +1/+1."
-msgstr "Inne Gobliny pod twoim władaniem dostają +1/+1."
+msgstr "Inne Elfy pod twoim władaniem dostają +1/+1."
 
 #: ../../DMU.rst:747
 #, fuzzy
@@ -2620,10 +2569,8 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:775
-#, fuzzy
-#| msgid "When Mesa Cavalier enters the battlefield, you gain 2 life."
 msgid "When Mossbeard Ancient enters the battlefield, you gain 5 life."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 2 życia."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 5 żyć."
 
 #: ../../DMU.rst:782
 msgid ""
@@ -2648,16 +2595,10 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:785
-#, fuzzy
-#| msgid ""
-#| "When Resolute Reinforcements enters the battlefield, create a 1/1 white "
-#| "Soldier creature token."
 msgid ""
 "Whenever you cast a creature spell, put a +1/+1 counter on Quirion "
 "Beastcaller."
-msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton białego stwora Piechur "
-"1/1."
+msgstr "Ilekroć rzucisz czar stwora, umieść znacznik +1/+1 na niniejszym."
 
 #: ../../DMU.rst:787
 msgid ""
@@ -2696,12 +2637,6 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:797
-#, fuzzy
-#| msgid ""
-#| "Domain — When Voda Sea Scavenger enters the battlefield, look at the top "
-#| "card X cards of your library, where X is the number of basic land types "
-#| "among lands you control. You may put one of those cards on top of your "
-#| "library. Put the rest on the bottom of your library in a random order."
 msgid ""
 "Domain — Search your library for up to two land cards that each have a basic "
 "land type, put them into the battlefield tapped, then shuffle. Look at the "
@@ -2709,10 +2644,12 @@ msgid ""
 "lands you control. Put up to one of them on top of your library and the rest "
 "on the bottom of your library in a random order."
 msgstr ""
-"Domena — Kiedy ten stwór wejdzie na pole bitwy, spójrz na X wierzchnich kart "
-"twojej biblioteki, gdzie X jest liczbą bazowych typów lądów pośród lądów pod "
-"twoim władaniem. Możesz jedną spośród owych kart umieścić na wierzchu twojej "
-"biblioteki. Umieść pozostałe losowo na spodzie twojej biblioteki."
+"Domena — Wyszukaj w twojej bibliotece co najwyżej dwóch kart lądów mających "
+"typ bazowego lądu, umieść je przekręcone na polu bitwy, po czym przetasuj. "
+"Spójrz na X wierzchnich kart twojej biblioteki, gdzie X jest liczbą bazowych "
+"typów lądów pośród lądów pod twoim władaniem. Umieść co najwyżej jedną z "
+"nich na wierzchu twojej biblioteki, a pozostałe losowo na spodzie twojej "
+"biblioteki."
 
 #: ../../DMU.rst:804
 msgid ""
@@ -2754,19 +2691,13 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:813
-#, fuzzy
-#| msgid ""
-#| "Domain — |mana_5|\\ |mana_r|: Radha's Firebrand gets +2/+2 until end of "
-#| "turn. This ability costs |mana_1| less to activate for each basic land "
-#| "type among lands you control. Activate only once each turn."
 msgid ""
 "Domain — |mana_3|\\ |mana_g|: Until end of turn, Sunbathing Rootwalla gets "
 "+1/+1 for each basic land type among lands you control. Activate only once "
 "each turn."
 msgstr ""
-"Domena — |mana_5|\\ |mana_r|: Ten stwór dostaje do końca tury +2/+2. "
-"Aktywacja tej zdolności kosztuje o |mana_1| mniej za każdy bazowy typ lądu "
-"pośród lądów pod twoim władaniem. Aktywuj tylko raz na turę."
+"Domena — |mana_3|\\ |mana_g|: Do końca tury niniejszy dostaje +1/+1 za każdy "
+"bazowy typ lądu pośród lądów pod twoim władaniem. Aktywuj tylko raz na turę."
 
 #: ../../DMU.rst:818
 msgid ""
@@ -2927,16 +2858,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:871
-#, fuzzy
-#| msgid ""
-#| "When Archangel of Wrath enters the battlefield, if it was kicked, it "
-#| "deals 2 damage to any target."
 msgid ""
 "When Yavimaya Iconoclast enters the battlefield, if it was kicked, it gets "
 "+1/+1 and gains haste until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli został podbity, zadaje on "
-"wskazanemu celowi 2 obrażenia."
+"Kiedy ten byt wejdzie na pole bitwy, jeśli został podbity, dostaje on do "
+"końca tury +1/+1 i pośpiech."
 
 #: ../../DMU.rst:882
 msgid ""
@@ -3024,16 +2951,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:901
-#, fuzzy
-#| msgid ""
-#| "When Archangel of Wrath enters the battlefield, if it was kicked, it "
-#| "deals 2 damage to any target."
 msgid ""
 "Whenever you cast an instant or sorcery spell, creatures you control get +1/"
 "+0 and gain trample until end of turn."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, jeśli został podbity, zadaje on "
-"wskazanemu celowi 2 obrażenia."
+"Ilekroć rzucisz czar sztuczki lub obrzędu, stwory pod twoim władaniem "
+"dostają do końca tury +1/+0 i tratowanie."
 
 #: ../../DMU.rst:906
 msgid ""
@@ -3167,12 +3090,6 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:949
-#, fuzzy
-#| msgid ""
-#| "Domain — When Voda Sea Scavenger enters the battlefield, look at the top "
-#| "card X cards of your library, where X is the number of basic land types "
-#| "among lands you control. You may put one of those cards on top of your "
-#| "library. Put the rest on the bottom of your library in a random order."
 msgid ""
 "Domain — Whenever Nael, Avizoa Aeronaut deals combat damage to a player, "
 "look at the top X cards of your library, where X is the number of basic land "
@@ -3180,10 +3097,12 @@ msgid ""
 "and the rest on the bottom in a random order. Then if there are five basic "
 "land types among lands you control, draw a card."
 msgstr ""
-"Domena — Kiedy ten stwór wejdzie na pole bitwy, spójrz na X wierzchnich kart "
-"twojej biblioteki, gdzie X jest liczbą bazowych typów lądów pośród lądów pod "
-"twoim władaniem. Możesz jedną spośród owych kart umieścić na wierzchu twojej "
-"biblioteki. Umieść pozostałe losowo na spodzie twojej biblioteki."
+"Domena — Ilekroć ten stwór zada graczowi obrażenia bojowe, spójrz na X "
+"wierzchnich kart twojej biblioteki, gdzie X jest liczbą bazowych typów lądów "
+"pośród lądów pod twoim władaniem. Umieść co najwyżej jedną z nich na "
+"wierzchu twojej biblioteki, a pozostałe losowo na spodzie. Następnie jeśli "
+"pośród lądów pod twoim władaniem jest pięć bazowych typów lądu, dobierz "
+"kartę."
 
 #: ../../DMU.rst:956
 msgid ""
@@ -3305,10 +3224,8 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:991
-#, fuzzy
-#| msgid "Other Goblins you control get +1/+1."
 msgid "Other Dragons you control have ward |mana_2|."
-msgstr "Inne Gobliny pod twoim władaniem dostają +1/+1."
+msgstr "Inne Smoki pod twoim władaniem mają opiekę |mana_2|."
 
 #: ../../DMU.rst:993
 msgid ""
@@ -3459,16 +3376,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:1047
-#, fuzzy
-#| msgid ""
-#| "When Resolute Reinforcements enters the battlefield, create a 1/1 white "
-#| "Soldier creature token."
 msgid ""
 "As Stenn, Paranoid Partisan enters the battlefield, choose a card type other "
 "than creature or land."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton białego stwora Piechur "
-"1/1."
+"Przy wejściu tego bytu na pole bitwy wybierz typ karty inny niż stwór lub "
+"ląd."
 
 #: ../../DMU.rst:1049
 msgid "Spells you cast of the chosen type cost |mana_1| less to cast."
@@ -3489,10 +3402,8 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:1055
-#, fuzzy
-#| msgid "Other creatures you control get +1/+1."
 msgid "Land creatures you control have flying."
-msgstr "Inne stwory pod twoim władaniem dostają +1/+1."
+msgstr "Lądy-stwory pod twoim władaniem mają latanie."
 
 #: ../../DMU.rst:1057
 msgid ""
@@ -3530,16 +3441,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:1069
-#, fuzzy
-#| msgid ""
-#| "When Resolute Reinforcements enters the battlefield, create a 1/1 white "
-#| "Soldier creature token."
 msgid ""
 "Whenever you cast an instant or sorcery spell, create a 1/1 white Soldier "
 "creature token."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton białego stwora Piechur "
-"1/1."
+"Ilekroć rzucisz czar sztuczki lub obrzędu, stwórz żeton białego stwora "
+"Piechur 1/1."
 
 #: ../../DMU.rst:1078
 msgid ""
@@ -3560,16 +3467,12 @@ msgstr ""
 "Siła tej karty jest równa liczbie kart sztuczek i obrzędów w twoim cmentarzu."
 
 #: ../../DMU.rst:1075
-#, fuzzy
-#| msgid ""
-#| "Scry 1. (Look at the top card of your library. You may put that card on "
-#| "the bottom of your library.)"
 msgid ""
 "At the beginning of your upkeep, look at the top card of your library. You "
 "may put that card into your graveyard."
 msgstr ""
-"Wróż 1. (Spójrz na wierzchnią kartę twojej biblioteki. Możesz umieścić ją na "
-"spodzie twojej biblioteki.)"
+"Na początku twojego kroku utrzymania spójrz na wierzchnią kartę twojej "
+"biblioteki. Możesz umieścić ową kartę w twoim cmentarzu."
 
 #: ../../DMU.rst:1077
 msgid "|mana_b|\\ |mana_g|, Sacrifice a land: You gain 2 life."
@@ -3737,10 +3640,8 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:1125
-#, fuzzy
-#| msgid "When Mesa Cavalier enters the battlefield, you gain 2 life."
 msgid "Karn's Sylex enters the battlefield tapped."
-msgstr "Kiedy ten stwór wejdzie na pole bitwy, zyskaj 2 życia."
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../DMU.rst:1127
 msgid ""
@@ -3762,19 +3663,14 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:1135
-#, fuzzy
-#| msgid ""
-#| "When Micromancer enters the battlefield, you may search your library for "
-#| "an instant or sorcery card with mana value 1, reveal it, put it into your "
-#| "hand, then shuffle."
 msgid ""
 "When Shield-Wall Sentinel enters the battlefield, you may search your "
 "library for a creature card with defender, reveal it, put it into your hand, "
 "then shuffle."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
-"kartę sztuczki lub obrzędu o skrócie many 1, ujawnij ją, umieść ją w twojej "
-"ręce, po czym przetasuj."
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"kartę stwora z obronnością, ujawnij ją, umieść ją w twojej ręce, po czym "
+"przetasuj."
 
 #: ../../DMU.rst:1142
 msgid ""
@@ -3943,14 +3839,8 @@ msgstr ""
 "Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, zyskaj 1 życie."
 
 #: ../../DMU.rst:1201
-#, fuzzy
-#| msgid ""
-#| "When Resolute Reinforcements enters the battlefield, create a 1/1 white "
-#| "Soldier creature token."
 msgid "As Thran Portal enters the battlefield, choose a basic land type."
-msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton białego stwora Piechur "
-"1/1."
+msgstr "Przy wejściu tego bytu na pole bitwy wybierz bazowy typ lądu."
 
 #: ../../DMU.rst:1203
 msgid "Thran Portal is the chosen type in addition to its other types."
@@ -4034,16 +3924,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:1237
-#, fuzzy
-#| msgid ""
-#| "Whenever another creature with defender enters the battlefield under your "
-#| "control, create a 1/1 white Bird creature token with flying."
 msgid ""
 "Whenever another creature with power 2 or less enters the battlefield under "
 "your control, put two +1/+1 counters on that creature."
 msgstr ""
-"Ilekroć inny ten stwór z obronnością wejdzie na pole bitwy pod twoim "
-"władaniem, stwórz żeton białego stwora Ptak 1/1 z lataniem."
+"Ilekroć inny ten stwór z siłą 2 lub mniejszą wejdzie na pole bitwy pod twoim "
+"władaniem, umieść na owym stworze dwa znaczniki +1/+1."
 
 #: ../../DMU.rst:1242
 msgid ""
@@ -4071,38 +3957,26 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:1245
-#, fuzzy
-#| msgid "Flying, haste"
 msgid "Flying, trample"
-msgstr "Latanie, pośpiech"
+msgstr "Latanie, tratowanie"
 
 #: ../../DMU.rst:1247
-#, fuzzy
-#| msgid ""
-#| "When Resolute Reinforcements enters the battlefield, create a 1/1 white "
-#| "Soldier creature token."
 msgid ""
 "As Tyrannical Pitlord enters the battlefield, choose another creature you "
 "control."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton białego stwora Piechur "
-"1/1."
+"Przy wejściu tego bytu na pole bitwy wybierz innego stwora pod twoim "
+"władaniem."
 
 #: ../../DMU.rst:1249
 msgid "Those chosen creature gets +3/+3 and has flying."
 msgstr ""
 
 #: ../../DMU.rst:1251
-#, fuzzy
-#| msgid ""
-#| "When Argivian Cavalier enters the battlefield, create a 1/1 white Soldier "
-#| "creature token."
 msgid ""
 "When Tyrannical Pitlord leaves the battlefield, sacrifice the chosen "
 "creature."
-msgstr ""
-"Kiedy ten stwór wejdzie na pole bitwy, stwórz żeton białego stwora Piechur "
-"1/1."
+msgstr "Kiedy ten byt opuszcza pole bitwy, poświęć owego wybranego stwora."
 
 #: ../../DMU.rst:1258
 msgid ""

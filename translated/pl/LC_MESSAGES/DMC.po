@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2022.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-25 07:55+0200\n"
-"PO-Revision-Date: 2022-08-22 11:42+0000\n"
+"PO-Revision-Date: 2022-08-25 08:35+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dmc/pl/>\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.12.1\n"
+"X-Generator: Weblate 4.13.1\n"
 
 #: ../../symbols.rst:3
 msgid "{C}"
@@ -1061,6 +1061,9 @@ msgid ""
 "control, bolster 1. (Choose a creature with the least toughness among "
 "creatures you control and put a +1/+1 counter on it.)"
 msgstr ""
+"Ilekroć inny nieżetonowy stwór wejdzie na pole bitwy pod twoim władaniem, "
+"wzmocnij 1. (Wybierz stwora z najmniejszą wytrzymałością spośród stworów pod "
+"twoim władaniem i umieść na nim znacznik +1/+1.)"
 
 #: ../../DMC.rst:294
 msgid ""
@@ -1072,24 +1075,28 @@ msgstr ""
 #: ../../DMC.rst:287
 msgid "This spell costs |mana_1| less to cast for each Knight you control."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_1| mniej za każdego Rycerza pod twoim "
+"władaniem."
 
 #: ../../DMC.rst:289
-#, fuzzy
-#| msgid "Other creatures you control have trample."
 msgid "Creatures you control get +1/+1."
-msgstr "Inne stwory pod twoim władaniem mają tratowanie."
+msgstr "Stwory pod twoim władaniem dostają +1/+1."
 
 #: ../../DMC.rst:291
 msgid ""
 "Whenever you cast a legendary spell, create a 2/2 white Knight creature "
 "token with vigilance."
 msgstr ""
+"Ilekroć rzucisz legendarny czar, stwórz żeton białego stwora Rycerz 2/2 z "
+"czujnością."
 
 #: ../../DMC.rst:293
 msgid ""
 "|mana_3|\\ |mana_w|, |tap|: Create a 2/2 white Knight creature token with "
 "vigilance."
 msgstr ""
+"|mana_3|\\ |mana_w|, |tap|: Stwórz żeton białego stwora Rycerz 2/2 z "
+"czujnością."
 
 #: ../../DMC.rst:298
 msgid ""
@@ -1099,10 +1106,8 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:297
-#, fuzzy
-#| msgid "Other creatures you control have trample."
 msgid "Legendary creatures you control get +2/+2."
-msgstr "Inne stwory pod twoim władaniem mają tratowanie."
+msgstr "Legendarne stwory pod twoim władaniem dostają +2/+2."
 
 #: ../../DMC.rst:302
 msgid ""
@@ -1116,6 +1121,7 @@ msgid ""
 "Destroy target permanent. Its controller creates a 3/3 green Elephant "
 "creature token."
 msgstr ""
+"Zniszcz wskazany byt. Jego władca tworzy żeton zielonego stwora Słoń 3/3."
 
 #: ../../DMC.rst:306
 msgid ""
@@ -1129,6 +1135,7 @@ msgid ""
 "Whenever you cast a multicolored spell, create a 1/1 white Human creature "
 "token."
 msgstr ""
+"Ilekroć rzucisz wielokolorowy czar, stwórz żeton białego stwora Człowiek 1/1."
 
 #: ../../DMC.rst:312
 msgid ""
@@ -1139,13 +1146,15 @@ msgstr ""
 
 #: ../../DMC.rst:309 ../../DMC.rst:389
 msgid "First strike"
-msgstr ""
+msgstr "Pierwszy cios"
 
 #: ../../DMC.rst:311
 msgid ""
 "|mana_3|\\ |mana_w|\\ |mana_w|: Attacking creatures you control get +X/+X "
 "until end of turn, where X is the number of attacking creatures."
 msgstr ""
+"|mana_3|\\ |mana_w|\\ |mana_w|: Atakujące stwory pod twoim władaniem dostają "
+"do końca tury +X/+X, gdzie X jest liczbą atakujących stworów."
 
 #: ../../DMC.rst:316
 msgid ""
@@ -1161,6 +1170,11 @@ msgid ""
 "true for flying, deathtouch, double strike, haste, hexproof, indestructible, "
 "lifelink, menace, reach, skulk, trample, and vigilance."
 msgstr ""
+"Na początku każdej potyczki, stwory pod twoim władaniem zyskują pierwszy "
+"cios jeśli stwór pod twoim władaniem ma pierwszy cios. To samo jest prawdą "
+"dla latania, dotyku śmierci, podwójnego ciosu, pośpiechu, antyklątwy "
+"niezniszczalności, więzi życia, złowrogości, zasięgu, przyczajenia, "
+"tratowania i czujności."
 
 #: ../../DMC.rst:320
 msgid ""
@@ -1187,17 +1201,14 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:325
-#, fuzzy
-#| msgid ""
-#| "Whenever this creature mutates, return any number of target creature "
-#| "cards with total power 10 or less from your graveyard to the battlefield."
 msgid ""
 "Whenever you cast a historic spell, return target creature card with mana "
 "value 3 or less from your graveyard to the battlefield. (Artifacts, "
 "legendaries, and Sagas are historic.)"
 msgstr ""
-"Ilekroć ten stwór mutuje, przywróć dowolną liczbę wskazanych kart stworów o "
-"łącznej sile 10 lub mniejszej z twojego cmentarza na pole bitwy."
+"Ilekroć rzucisz historyczny czar, przywróć wskazaną kartę stwora o skrócie "
+"many 3 lub mniejszym z twojego cmentarza na pole bitwy. (Artefakty, legendy "
+"i Sagi są historyczne.)"
 
 #: ../../DMC.rst:332
 msgid ""
@@ -1207,16 +1218,16 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:329
-#, fuzzy
-#| msgid "Creature spells you control can't be countered."
 msgid "Creatures you control gain indestructible until end of turn."
-msgstr "Czary stworów pod twoim władaniem nie mogą być skontrowane."
+msgstr "Stwory pod twoim władaniem zyskują niezniszczalność do końca tury."
 
 #: ../../DMC.rst:331
 msgid ""
 "Addendum — If you cast this spell during your main phase, put a +1/+1 "
 "counter on each of those creatures and they gain vigilance until end of turn."
 msgstr ""
+"Dopisek — Jeśli rzucisz ten czar w twojej fazie głównej, umieść znacznik +1/+"
+"1 na każdym z owych stworów i zyskują one czujność do końca tury."
 
 #: ../../DMC.rst:338
 msgid ""
@@ -1230,10 +1241,12 @@ msgid ""
 "(You may cast a legendary sorcery only if you control a legendary creature "
 "or planeswalker.)"
 msgstr ""
+"(Możesz rzucić legendarny obrzęd tylko jeśli władasz legendarnym stworem lub "
+"wędrowcem.)"
 
 #: ../../DMC.rst:337
 msgid "Exile all nonland permanents that aren't legendary."
-msgstr ""
+msgstr "Wygnaj wszystkie nie-lądowe byty, które nie są legendarne."
 
 #: ../../DMC.rst:342
 msgid ""
@@ -1244,7 +1257,7 @@ msgstr ""
 
 #: ../../DMC.rst:341
 msgid "Flying, double strike, vigilance, trample, indestructible"
-msgstr ""
+msgstr "Latanie, podwójny cios, czujność, tratowanie, niezniszczalność"
 
 #: ../../DMC.rst:346
 msgid ""
@@ -1258,6 +1271,8 @@ msgid ""
 "Return target nonland permanent and all other permanents with the same name "
 "as that permanent to their owners' hands."
 msgstr ""
+"Przywróć wskazany nielądowy byt i wszystkie inne byty mające tę samą nazwę "
+"do rąk ich właścicieli."
 
 #: ../../DMC.rst:350
 msgid ""
@@ -1268,7 +1283,7 @@ msgstr ""
 
 #: ../../DMC.rst:349
 msgid "You draw three cards and you lose 3 life."
-msgstr ""
+msgstr "Dobierz trzy karty i strać 3 życia."
 
 #: ../../DMC.rst:356
 msgid ""
@@ -1279,16 +1294,16 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:353
-#, fuzzy
-#| msgid "Flying, haste"
 msgid "Flying, first strike"
-msgstr "Latanie, pośpiech"
+msgstr "Latanie, pierwszy cios"
 
 #: ../../DMC.rst:355
 msgid ""
 "Whenever Drana, Liberator of Malakir deals combat damage to a player, put a "
 "+1/+1 counter on each attacking creature you control."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, umieść znacznik +1/+1 na "
+"każdym atakującym stworze pod twoim władaniem."
 
 #: ../../DMC.rst:360
 msgid ""
@@ -1298,10 +1313,8 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:359
-#, fuzzy
-#| msgid "Destroy target artifact or enchantment."
 msgid "Destroy target creature or planeswalker."
-msgstr "Zniszcz wskazany artefakt lub urok."
+msgstr "Zniszcz wskazanego stwora lub wędrowca."
 
 #: ../../DMC.rst:368
 msgid ""
@@ -1315,12 +1328,16 @@ msgid ""
 "Kicker |mana_5|\\ |mana_b| (You may pay an additional |mana_5|\\ |mana_b| as "
 "you cast this spell.)"
 msgstr ""
+"Podbicie |mana_5|\\ |mana_b| (Rzucając ten czar możesz dodatkowo zapłacić "
+"|mana_5|\\ |mana_b|.)"
 
 #: ../../DMC.rst:367
 msgid ""
 "When Josu Vess, Lich Knight enters the battlefield, if it was kicked, create "
 "eight 2/2 black Zombie Knight creature tokens with menace."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, jeśli został podbity, stwórz osiem "
+"żetonów czarnego stwora Rycerz Zombi 2/2 ze złowrogością."
 
 #: ../../DMC.rst:374
 msgid ""
@@ -1334,6 +1351,8 @@ msgid ""
 "Whenever a permanent owned by another player is put into a graveyard from "
 "the battlefield, you draw a card and you lose 1 life."
 msgstr ""
+"Ilekroć byt pod władaniem innego gracza zostanie umieszczony w cmentarzu z "
+"pola bitwy, dobierz kartę i strać 1 życie."
 
 #: ../../DMC.rst:378
 msgid ""
@@ -1344,7 +1363,7 @@ msgstr ""
 
 #: ../../DMC.rst:377 ../../DMC.rst:499
 msgid "You draw two cards and you lose 2 life."
-msgstr ""
+msgstr "Dobierz dwie karty i strać 2 życia."
 
 #: ../../DMC.rst:382
 msgid ""
@@ -1358,6 +1377,8 @@ msgid ""
 "Converge — You draw X cards and you lose X life, where X is the number of "
 "colors of mana spent to cast this spell."
 msgstr ""
+"Komasowanie — Dobierz X kart i strać X żyć, gdzie X jest liczbą kolorów many "
+"użytych do rzucenia tego czaru."
 
 #: ../../DMC.rst:386
 msgid ""
@@ -1368,7 +1389,7 @@ msgstr ""
 
 #: ../../DMC.rst:385
 msgid "Scry 2, then draw two cards. You lose 2 life."
-msgstr ""
+msgstr "Wróż 2, po czym dobierz dwie karty. Strać 2 życia."
 
 #: ../../DMC.rst:392
 msgid ""
@@ -1379,17 +1400,14 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:391
-#, fuzzy
-#| msgid ""
-#| "Whenever this creature mutates, return any number of target creature "
-#| "cards with total power 10 or less from your graveyard to the battlefield."
 msgid ""
 "Whenever Alesha, Who Smiles at Death attacks, you may pay |mana_wb|\\ |"
 "mana_wb|. If you do, return target creature card with power 2 or less from "
 "your graveyard to the battlefield tapped and attacking."
 msgstr ""
-"Ilekroć ten stwór mutuje, przywróć dowolną liczbę wskazanych kart stworów o "
-"łącznej sile 10 lub mniejszej z twojego cmentarza na pole bitwy."
+"Ilekroć ten stwór zaatakuje, możesz zapłacić |mana_wb|\\ |mana_wb|. Jeśli "
+"tak zrobisz, przywróć wskazaną kartę stwora o sile 2 lub mniejszej z twojego "
+"cmentarza na pole bitwy przekręconą i atakującą."
 
 #: ../../DMC.rst:396
 msgid ""
@@ -1418,12 +1436,14 @@ msgid ""
 "Whenever Captain Lannery Storm attacks, create a Treasure token. (It's an "
 "artifact with \"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
 msgstr ""
+"Ilekroć ten stwór zaatakuje, stwórz żeton Skarbu. (To artefakt mający \"|tap|"
+", poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../DMC.rst:403
 msgid ""
 "Whenever you sacrifice a Treasure, Captain Lannery Storm gets +1/+0 until "
 "end of turn."
-msgstr ""
+msgstr "Ilekroć poświęcisz Skarb, ten stwór dostaje do końca tury +1/+0."
 
 #: ../../DMC.rst:408
 msgid ""
@@ -1438,6 +1458,9 @@ msgid ""
 "library, then you may cast any number of spells from among those cards "
 "without paying their mana costs."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, wygnaj wierzchnią kartę z biblioteki każdego z "
+"graczy, po czym możesz rzucić dowolną liczbę czarów spośród owych kart bez "
+"płacenia ich kosztów many."
 
 #: ../../DMC.rst:414
 msgid ""
@@ -1448,13 +1471,15 @@ msgstr ""
 
 #: ../../DMC.rst:411
 msgid "Draw two cards, then discard two cards."
-msgstr ""
+msgstr "Dobierz dwie karty, po czym odrzuć dwie karty."
 
 #: ../../DMC.rst:413
 msgid ""
 "Flashback |mana_2|\\ |mana_r| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_2|\\ |mana_r| (Możesz rzucić tę kartę z twojego cmentarza "
+"za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../DMC.rst:420
 msgid ""
@@ -1466,7 +1491,7 @@ msgstr ""
 
 #: ../../DMC.rst:417
 msgid "First strike, menace"
-msgstr ""
+msgstr "Pierwszy cios, złowrogość"
 
 #: ../../DMC.rst:419
 msgid ""
@@ -1474,6 +1499,9 @@ msgid ""
 "red Monkey creature token. Ragavan enters the battlefield tapped and "
 "attacking. Exile that token at end of combat."
 msgstr ""
+"Ilekroć ten stwór atakuje, stwórz przekręcony i atakujący żeton czerwonego "
+"legendarnego stwora Małpa 2/1 o nazwie Ragavan. Wygnaj ów żeton na koniec "
+"potyczki."
 
 #: ../../DMC.rst:424
 msgid ""
@@ -1488,6 +1516,8 @@ msgid ""
 "Whenever Krenko, Tin Street Kingpin attacks, put a +1/+1 counter on it, then "
 "create a number of 1/1 red Goblin creature tokens equal to Krenko's power."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, umieść na nim znacznik +1/+1, po czym stwórz "
+"tyle żetonów czerwonego stwora Goblin 1/1, ile wynosi jego siła."
 
 #: ../../DMC.rst:430
 msgid ""
@@ -1504,6 +1534,10 @@ msgid ""
 "cards and add that much |mana_r|. Until end of turn, you don't lose this "
 "mana as steps and phases end."
 msgstr ""
+"Ilekroć ten stwór zada graczowi lub wędrowcowi obrażenia bojowe, możesz "
+"odrzucić dowolną liczbę kart. Jeśli tak zrobisz, dobierz tyle samo kart i "
+"weź tyle samo |mana_r|. Do końca tury nie tracisz owej many podczas końców "
+"kroków i faz."
 
 #: ../../DMC.rst:434
 msgid ""
@@ -1517,6 +1551,8 @@ msgid ""
 "Converge — Radiant Flames deals X damage to each creature, where X is the "
 "number of colors of mana spent to cast this spell."
 msgstr ""
+"Komasowanie — Ten czar zadaje każdemu stworowi po X obrażeń, gdzie X jest "
+"liczbą kolorów many użytych do rzucenia tego czaru."
 
 #: ../../DMC.rst:440
 msgid ""
@@ -1542,17 +1578,15 @@ msgstr ""
 
 #: ../../DMC.rst:443
 msgid "Enchant land"
-msgstr ""
+msgstr "Zaurocz ląd"
 
 #: ../../DMC.rst:445
-#, fuzzy
-#| msgid "When Baleful Strix enters the battlefield, draw a card."
 msgid "When Abundant Growth enters the battlefield, draw a card."
 msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../DMC.rst:447
 msgid "Enchanted land has \"|tap|: Add one mana of any color.\""
-msgstr ""
+msgstr "Zauroczony ląd ma \"|tap|: Weź jedną manę dowolnego koloru.\""
 
 #: ../../DMC.rst:452
 msgid ""
@@ -1566,6 +1600,7 @@ msgid ""
 "Destroy target permanent. Its controller creates a 3/3 green Beast creature "
 "token."
 msgstr ""
+"Zniszcz wskazany byt. Jego władca tworzy żeton zielonego stwora Bestia 3/3."
 
 #: ../../DMC.rst:456
 msgid ""
@@ -1575,17 +1610,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:455 ../../DMC.rst:473
-#, fuzzy
-#| msgid ""
-#| "Exile target creature. Its controller may search their library for a "
-#| "basic land card, put that card onto the battlefield tapped, then shuffle."
 msgid ""
 "Search your library for up to two basic land cards, reveal those cards, put "
 "one onto the battlefield tapped and the other into your hand, then shuffle."
 msgstr ""
-"Wygnaj wskazanego stwora. Jego władca możesz wyszukać w swojej bibliotece "
-"kartę bazowego lądu, umieścić ją przekręconą na polu bitwy, po czym "
-"przetasować."
+"Wyszukaj w twojej bibliotece dwie karty bazowych lądów, ujawnij je i umieść "
+"jedną przekręconą na polu bitwy, a drugą w twojej ręce, po czym przetasuj."
 
 #: ../../DMC.rst:462
 msgid ""
@@ -1596,13 +1626,11 @@ msgstr ""
 
 #: ../../DMC.rst:459
 msgid "You may play an additional land this turn."
-msgstr ""
+msgstr "Możesz zagrać dodatkowy ląd w tej turze."
 
 #: ../../DMC.rst:461
-#, fuzzy
-#| msgid "Draw two cards."
 msgid "Draw a card."
-msgstr "Dobierz dwie karty."
+msgstr "Dobierz kartę."
 
 #: ../../DMC.rst:466
 msgid ""
@@ -1612,17 +1640,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:465 ../../DMC.rst:477
-#, fuzzy
-#| msgid ""
-#| "Exile target creature. Its controller may search their library for a "
-#| "basic land card, put that card onto the battlefield tapped, then shuffle."
 msgid ""
 "Search your library for up to two basic land cards, put them onto the "
 "battlefield tapped, then shuffle."
 msgstr ""
-"Wygnaj wskazanego stwora. Jego władca możesz wyszukać w swojej bibliotece "
-"kartę bazowego lądu, umieścić ją przekręconą na polu bitwy, po czym "
-"przetasować."
+"Wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów, umieść "
+"je przekręcone na polu bitwy, po czym przetasuj."
 
 #: ../../DMC.rst:470
 msgid ""
@@ -1632,16 +1655,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:469
-#, fuzzy
-#| msgid ""
-#| "|tap|, Sacrifice Bad River: Search your library for an Island or Swamp "
-#| "card, put it onto the battlefield, then shuffle."
 msgid ""
 "Search your library for a Plains, Island, Swamp, or Mountain card, put it "
 "onto the battlefield tapped, then shuffle."
 msgstr ""
-"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę Wyspy lub Bagna, "
-"umieść ją na polu bitwy, po czym przetasuj."
+"Wyszukaj w twojej bibliotece kartę Równiny, Wyspy, Bagna lub Góry, umieść ją "
+"przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../DMC.rst:474
 msgid ""
@@ -1659,7 +1678,7 @@ msgstr ""
 
 #: ../../DMC.rst:479
 msgid "Cycling |mana_2| (|mana_2|, Discard this card: Draw a card.)"
-msgstr ""
+msgstr "Recykling |mana_2| (|mana_2|, odrzuć tę kartę: Dobierz kartę.)"
 
 #: ../../DMC.rst:486
 msgid ""
@@ -1673,6 +1692,8 @@ msgid ""
 "When Path to the World Tree enters the battlefield, search your library for "
 "a basic land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, wyszukaj w twojej bibliotece kartę "
+"bazowego lądu, ujawnij ją, umieść w twojej ręce, po czym przetasuj."
 
 #: ../../DMC.rst:485
 msgid ""
@@ -1681,6 +1702,10 @@ msgid ""
 "loses 2 life. Path to the World Tree deals 2 damage to up to one target "
 "creature. You create a 2/2 green Bear creature token."
 msgstr ""
+"|mana_2|\\ |mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|, poświęć ten "
+"urok: Zyskaj 2 życia i dobierz dwie karty. Wskazany przeciwnik traci 2 "
+"życia. Niniejsza karta zadaje 2 obrażenia co najwyżej jednemu wskazanemu "
+"stworowi. Stwórz żeton zielonego stwora Niedźwiedź 2/2."
 
 #: ../../DMC.rst:492
 msgid ""
@@ -1690,16 +1715,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:489
-#, fuzzy
-#| msgid ""
-#| "|tap|, Sacrifice Bad River: Search your library for an Island or Swamp "
-#| "card, put it onto the battlefield, then shuffle."
 msgid ""
 "Search your library for a basic land card, put it onto the battlefield, then "
 "shuffle."
 msgstr ""
-"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę Wyspy lub Bagna, "
-"umieść ją na polu bitwy, po czym przetasuj."
+"Wyszukaj w twojej bibliotece kartę bazowego lądu, umieść ją na polu bitwy, "
+"po czym przetasuj."
 
 #: ../../DMC.rst:491
 msgid ""
@@ -1708,6 +1729,10 @@ msgid ""
 "upkeep, remove a time counter. When the last is removed, cast it without "
 "paying its mana cost.)"
 msgstr ""
+"Zawieszenie 2—|mana_g| (Zamiast rzucać tę kartę z twojej ręki, zapłać "
+"|mana_g| i wygnaj ją z dwoma znacznikami czasu. Na początku twojego kroku "
+"utrzymania, usuń znacznik czasu. Kiedy ostatni znacznik czasu zostanie "
+"usunięty, rzuć ją bez płacenia kosztu many.)"
 
 #: ../../DMC.rst:502
 msgid ""
@@ -1718,15 +1743,16 @@ msgstr ""
 
 #: ../../DMC.rst:495 ../../DMC.rst:615 ../../DMC.rst:631 ../../DMC.rst:673
 msgid "Choose one —"
-msgstr ""
+msgstr "Wybierz jedno —"
 
 #: ../../DMC.rst:497
 msgid "Exile target creature with power 3 or greater."
-msgstr ""
+msgstr "Wygnaj wskazanego stwora o sile 3 lub większej."
 
 #: ../../DMC.rst:501
 msgid "Distribute two +1/+1 counters among one or two target creatures."
 msgstr ""
+"Rozmieść dwa znaczniki +1/+1 pomiędzy jednym lub dwoma wskazanymi stworami."
 
 #: ../../DMC.rst:508
 msgid ""
@@ -1741,12 +1767,16 @@ msgid ""
 "Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for "
 "each opponent you attacked this combat.)"
 msgstr ""
+"Bijatyka (Ilekroć ten stwór atakuje, dostaje do końca tury +1/+1 za każdego "
+"przeciwnika zaatakowanego przez ciebie w tej potyczce.)"
 
 #: ../../DMC.rst:507
 msgid ""
 "Other creatures you control have melee. (If a creature has multiple "
 "instances of melee, each triggers separately.)"
 msgstr ""
+"Inne stwory pod twoim władaniem mają bijatykę. (Jeśli stwór ma kilka "
+"instancji bijatyki, każda wyzwalana jest oddzielnie.)"
 
 #: ../../DMC.rst:514
 msgid ""
@@ -1779,10 +1809,8 @@ msgid "Deathtouch, lifelink"
 msgstr "Dotyk śmierci, więź życia"
 
 #: ../../DMC.rst:519
-#, fuzzy
-#| msgid "Other creatures you control have trample."
 msgid "Other legendary creatures you control get +2/+2."
-msgstr "Inne stwory pod twoim władaniem mają tratowanie."
+msgstr "Inne legendarne stwory pod twoim władaniem dostają +2/+2."
 
 #: ../../DMC.rst:526
 msgid ""
@@ -1794,24 +1822,17 @@ msgstr ""
 
 #: ../../DMC.rst:523
 msgid "|mana_2|, |tap|: Create a 0/1 green Egg creature token with defender."
-msgstr ""
+msgstr "|mana_2|, |tap|: Stwórz żeton zielonego stwora Jajo 0/1 z obronnością."
 
 #: ../../DMC.rst:525
-#, fuzzy
-#| msgid ""
-#| "The first spell you cast each turn has cascade. (When you cast your first "
-#| "spell, exile cards from the top of your library until you exile a nonland "
-#| "card that costs less. You may cast it without paying its mana cost. Put "
-#| "the exiled cards on the bottom of your library in a random order.)"
 msgid ""
 "Whenever an Egg you control dies, reveal cards from the top of your library "
 "until you reveal a creature card. Put that card onto the battlefield and the "
 "rest on the bottom of your library in a random order."
 msgstr ""
-"Pierwszy czar rzucony przez cienie w danej turze ma kaskadę. (Kiedy rzucisz "
-"swój pierwszy czar, wyganiaj karty z wierzchu twojej biblioteki aż wygnasz "
-"nie-lądową kartę o niższym koszcie. Możesz rzucić ową kartę bez płacenia jej "
-"kosztu many. Umieść wygnane karty losowo na spodzie twojej biblioteki.)"
+"Ilekroć umrze Jajo pod twoim władaniem, ujawniaj karty z wierzchu twojej "
+"biblioteki, aż ujawnisz kartę stwora. Umieść ową kartę na polu bitwy, a "
+"pozostałe losowo na spodzie twojej biblioteki."
 
 #: ../../DMC.rst:532
 msgid ""
@@ -1836,10 +1857,8 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:535
-#, fuzzy
-#| msgid "Destroy target artifact or enchantment."
 msgid "Destroy target artifact, creature, or planeswalker."
-msgstr "Zniszcz wskazany artefakt lub urok."
+msgstr "Zniszcz wskazany artefakt, stwora lub wędrowca."
 
 #: ../../DMC.rst:544
 msgid ""
@@ -1878,16 +1897,22 @@ msgid ""
 "you cast this card for its bestow cost, it's an Aura spell with enchant "
 "creature. It becomes a creature again if it's not attached to a creature.)"
 msgstr ""
+"Obdarowanie |mana_2|\\ |mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g| ("
+"Jeśli zagrasz tę kartę za koszt obdarowania, jest ona czarem Aury "
+"zauroczenia stwora. Ponownie staje się stworem, jeśli nie jest dołączona do "
+"stwora.)"
 
 #: ../../DMC.rst:549
 msgid "Flying, first strike, vigilance, trample, lifelink"
-msgstr ""
+msgstr "Latanie, pierwszy cios, czujność, tratowanie, więź życia"
 
 #: ../../DMC.rst:551
 msgid ""
 "Enchanted creature gets +4/+4 and has flying, first strike, vigilance, "
 "trample, and lifelink."
 msgstr ""
+"Zauroczony stwór dostaje +4/+4 oraz ma latanie, pierwszy cios, czujność, "
+"tratowanie i więź życia."
 
 #: ../../DMC.rst:556
 msgid ""
@@ -1902,6 +1927,9 @@ msgid ""
 "library. If it's a land card, put it onto the battlefield. Otherwise, put "
 "that card into your hand."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, ujawnij wierzchnią kartę twojej "
+"biblioteki. Jeśli to karta lądu, umieść ją na polu bitwy. W przeciwnym razie "
+"umieść ją w twojej ręce."
 
 #: ../../DMC.rst:560
 msgid ""
@@ -1912,7 +1940,7 @@ msgstr ""
 
 #: ../../DMC.rst:559
 msgid "Choose up to one creature. Destroy the rest."
-msgstr ""
+msgstr "Wybierz co najwyżej jednego stwora. Zniszcz pozostałe."
 
 #: ../../DMC.rst:568
 msgid ""
@@ -1957,12 +1985,13 @@ msgid ""
 "When Garna, the Bloodflame enters the battlefield, return to your hand all "
 "creature cards in your graveyard that were put there from anywhere this turn."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, przywróć do twojej ręki wszystkie karty "
+"stworów z twojego cmentarza, które został tam umieszczone skądkolwiek w tej "
+"turze."
 
 #: ../../DMC.rst:579
-#, fuzzy
-#| msgid "Other creatures you control have trample."
 msgid "Other creatures you control have haste."
-msgstr "Inne stwory pod twoim władaniem mają tratowanie."
+msgstr "Inne stwory pod twoim władaniem mają pośpiech."
 
 #: ../../DMC.rst:586
 msgid ""
@@ -1976,11 +2005,12 @@ msgid ""
 "Whenever Glint-Eye Nephilim deals combat damage to a player, draw that many "
 "cards."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, dobierz tyle samo kart."
 
 #: ../../DMC.rst:585
 msgid ""
 "|mana_1|, Discard a card: Glint-Eye Nephilim gets +1/+1 until end of turn."
-msgstr ""
+msgstr "|mana_1|, odrzuć kartę: Ten stwór dostaje do końca tury +1/+1."
 
 #: ../../DMC.rst:590
 msgid ""
@@ -1992,7 +2022,7 @@ msgstr ""
 #: ../../DMC.rst:589
 msgid ""
 "Draw a card. You may put a land card from your hand onto the battlefield."
-msgstr ""
+msgstr "Dobierz kartę. Możesz umieścić kartę lądu z twojej ręki na polu bitwy."
 
 #: ../../DMC.rst:594
 msgid ""
@@ -2006,6 +2036,8 @@ msgid ""
 "Destroy all creatures. You gain life equal to the number of creatures you "
 "controlled that were destroyed this way."
 msgstr ""
+"Zniszcz wszystkie stwory. Zyskaj tyle żyć, ile zniszczono w ten sposób "
+"stworów pod twoim władaniem."
 
 #: ../../DMC.rst:598
 msgid ""
@@ -2019,6 +2051,8 @@ msgid ""
 "Each other multicolored creature you control gets +1/+1 for each of its "
 "colors."
 msgstr ""
+"Każdy inny wielokolorowy stwór pod twoim władaniem dostaje +1/+1 za każdy ze "
+"swoich kolorów."
 
 #: ../../DMC.rst:602
 msgid ""
@@ -2032,6 +2066,8 @@ msgid ""
 "Lavalanche deals X damage to target player or planeswalker and each creature "
 "that player or that planeswalker's controller controls."
 msgstr ""
+"Ten czar zadaje wskazanemu graczowi lub wędrowcowi oraz każdemu stworowi pod "
+"władaniem owego gracza lub władcy owego wędrowca po X obrażeń."
 
 #: ../../DMC.rst:608
 msgid ""
@@ -2045,6 +2081,8 @@ msgid ""
 "Whenever Maelstrom Archangel deals combat damage to a player, you may cast a "
 "spell from your hand without paying its mana cost."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, możesz rzucić czar z "
+"twojej ręki bez płacenia jego kosztu many."
 
 #: ../../DMC.rst:612
 msgid ""
@@ -2074,21 +2112,19 @@ msgstr ""
 
 #: ../../DMC.rst:617
 msgid "Exile all artifacts."
-msgstr ""
+msgstr "Wygnaj wszystkie artefakty."
 
 #: ../../DMC.rst:619
 msgid "Exile all creatures."
-msgstr ""
+msgstr "Wygnaj wszystkie stwory."
 
 #: ../../DMC.rst:621
 msgid "Exile all enchantments."
-msgstr ""
+msgstr "Wygnaj wszystkie uroki."
 
 #: ../../DMC.rst:623
-#, fuzzy
-#| msgid "Exile target player's graveyard."
 msgid "Exile all planeswalkers."
-msgstr "Wygnaj cmentarz wskazanego gracza."
+msgstr "Wygnaj wszystkich wędrowców."
 
 #: ../../DMC.rst:628
 msgid ""
@@ -2098,10 +2134,8 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:627
-#, fuzzy
-#| msgid "Destroy target artifact or enchantment."
 msgid "Destroy target creature or enchantment."
-msgstr "Zniszcz wskazany artefakt lub urok."
+msgstr "Zniszcz wskazanego stwora lub urok."
 
 #: ../../DMC.rst:638
 msgid ""
@@ -2112,15 +2146,15 @@ msgstr ""
 
 #: ../../DMC.rst:633
 msgid "Naya Charm deals 3 damage to target creature."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu stworowi 3 obrażenia."
 
 #: ../../DMC.rst:635
 msgid "Return target card from a graveyard to its owner's hand."
-msgstr ""
+msgstr "Przywróć wskazaną kartę z cmentarza do ręki właściciela."
 
 #: ../../DMC.rst:637
 msgid "Tap all creatures target player controls."
-msgstr ""
+msgstr "Przekręć wszystkie stwory pod władaniem wskazanego gracza."
 
 #: ../../DMC.rst:646
 msgid ""
@@ -2182,6 +2216,8 @@ msgstr ""
 msgid ""
 "Return all legendary permanent cards from your graveyard to the battlefield."
 msgstr ""
+"Przywróć wszystkie karty legendarnych bytów z twojego cmentarza na pole "
+"bitwy."
 
 #: ../../DMC.rst:666
 msgid ""
@@ -2192,16 +2228,16 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:663
-#, fuzzy
-#| msgid "Other creatures you control have trample."
 msgid "Other multicolored creatures you control get +1/+0."
-msgstr "Inne stwory pod twoim władaniem mają tratowanie."
+msgstr "Inne wielokolorowe stwory pod twoim władaniem dostają +1/+0."
 
 #: ../../DMC.rst:665
 msgid ""
 "Whenever another multicolored creature you control dies, return it to its "
 "owner's hand at the beginning of the next end step."
 msgstr ""
+"Ilekroć umrze inny wielokolorowy stwór pod twoim władaniem, przywróć go do "
+"ręki właściciela na początku najbliższego kroku końcowego."
 
 #: ../../DMC.rst:670
 msgid ""
@@ -2217,6 +2253,9 @@ msgid ""
 "nonland card revealed this way, add |mana_g| and you gain 1 life. Then each "
 "player draws a card."
 msgstr ""
+"Układ — |tap|: Każdy gracz ujawnia wierzchnią kartę swojej biblioteki. Za "
+"każdą nielądową kartę ujawnioną w ten sposób, weź |mana_g| i zyskaj 1 życia. "
+"Następnie każdy gracz dobiera kartę."
 
 #: ../../DMC.rst:680
 msgid ""
@@ -2226,16 +2265,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:675
-#, fuzzy
-#| msgid "Destroy target artifact or enchantment."
 msgid "Destroy target monocolored creature."
-msgstr "Zniszcz wskazany artefakt lub urok."
+msgstr "Zniszcz wskazanego jednokolorowego stwora."
 
 #: ../../DMC.rst:679
-#, fuzzy
-#| msgid "As an additional cost to cast this spell, discard a card."
 msgid "Draw two cards, then discard a card."
-msgstr "Jako dodatkowy koszt rzucenia tego czaru — odrzuć kartę."
+msgstr "Dobierz dwie karty, po czym odrzuć kartę."
 
 #: ../../DMC.rst:690
 msgid ""
@@ -2264,22 +2299,17 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:693
-#, fuzzy
-#| msgid "Destroy target artifact or enchantment."
 msgid "Exile up to two target artifacts and/or enchantments."
-msgstr "Zniszcz wskazany artefakt lub urok."
+msgstr "Wygnaj co najwyżej dwa wskazane artefakty i/lub uroki."
 
 #: ../../DMC.rst:695
-#, fuzzy
-#| msgid ""
-#| "|tap|, Sacrifice Bad River: Search your library for an Island or Swamp "
-#| "card, put it onto the battlefield, then shuffle."
 msgid ""
 "Basic landcycling |mana_2| (|mana_2|, Discard this card: Search your library "
 "for a basic land card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
-"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę Wyspy lub Bagna, "
-"umieść ją na polu bitwy, po czym przetasuj."
+"Lądocykling bazowych |mana_2| (|mana_2|, odrzuć tę kartę: Wyszukaj w twojej "
+"bibliotece kartę bazowego lądu, ujawnij ją, umieść ją w twojej ręce, po czym "
+"przetasuj.)"
 
 #: ../../DMC.rst:702
 msgid ""
@@ -2298,6 +2328,8 @@ msgid ""
 "Battalion — Whenever Tajic, Blade of the Legion and at least two other "
 "creatures attack, Tajic gets +5/+5 until end of turn."
 msgstr ""
+"Batalion — Ilekroć ten stwór zaatakuje wraz z co najmniej dwoma innymi "
+"stworami, niniejszy stwór dostaje do końca tury +5/+5."
 
 #: ../../DMC.rst:706
 msgid ""
@@ -2307,10 +2339,8 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:705
-#, fuzzy
-#| msgid "Destroy target artifact or enchantment."
 msgid "Destroy target creature. It can't be regenerated."
-msgstr "Zniszcz wskazany artefakt lub urok."
+msgstr "Zniszcz wskazanego stwora. Nie może być zregenerowany."
 
 #: ../../DMC.rst:710
 msgid ""
@@ -2324,6 +2354,8 @@ msgid ""
 "Return a creature you control to its owner's hand, then destroy all "
 "creatures."
 msgstr ""
+"Przywróć stwora pod twoim władaniem do ręki jego właściciela, po czym "
+"zniszcz wszystkie stwory."
 
 #: ../../DMC.rst:716
 msgid ""
@@ -2333,14 +2365,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:713
-#, fuzzy
-#| msgid "Destroy target artifact or enchantment."
 msgid "Destroy target artifact."
-msgstr "Zniszcz wskazany artefakt lub urok."
+msgstr "Zniszcz wskazany artefakt."
 
 #: ../../DMC.rst:715 ../../DMC.rst:721
 msgid "Fuse (You may cast one or both halves of this card from your hand.)"
-msgstr ""
+msgstr "Fuzja (Możesz rzucić z ręki jedną lub obie połowy tej karty.)"
 
 #: ../../DMC.rst:722
 msgid ""
@@ -2350,10 +2380,8 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:719
-#, fuzzy
-#| msgid "Destroy target artifact or enchantment."
 msgid "Destroy target enchantment."
-msgstr "Zniszcz wskazany artefakt lub urok."
+msgstr "Zniszcz wskazany urok."
 
 #: ../../DMC.rst:730
 msgid ""
@@ -2368,12 +2396,16 @@ msgid ""
 "Whenever an opponent draws a card except the first one they draw in each of "
 "their draw steps, create a 1/1 green Snake creature token."
 msgstr ""
+"Ilekroć przeciwnik dobierze kartę poza pierwszą dobieraną w swoim kroku "
+"dobierania, stwórz żeton zielonego stwora Wąż 1/1."
 
 #: ../../DMC.rst:729
 msgid ""
 "Whenever Xyris, the Writhing Storm deals combat damage to a player, you and "
 "that player each draw that many cards."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, ty i ów gracz dobieracie "
+"po tyle samo kart."
 
 #: ../../DMC.rst:738
 msgid ""
@@ -2383,16 +2415,16 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:735
-#, fuzzy
-#| msgid "|mana_5|, |tap|: Add five mana in any combination of colors."
 msgid "|tap|: Add two mana of any one color."
-msgstr "|mana_5|, |tap|: Weź pięć man w dowolnej kombinacji kolorów."
+msgstr "|tap|: Weź dwie many w dowolnym jednym kolorze."
 
 #: ../../DMC.rst:737
 msgid ""
 "Whenever you cast a spell with |mana_x| in its mana cost, create a 0/0 green "
 "Hydra creature token, then put X +1/+1 counters on it."
 msgstr ""
+"Ilekroć rzucisz czar mający |mana_x| w koszcie many, stwórz żeton zielonego "
+"stwora Hydra 0/0, po czym umieść na nim X znaczników +1/+1."
 
 #: ../../DMC.rst:742
 msgid ""
@@ -2402,14 +2434,8 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:741 ../../DMC.rst:767 ../../DMC.rst:907
-#, fuzzy
-#| msgid ""
-#| "|tap|: Add one mana of any color. Spend this mana only to cast a "
-#| "multicolored spell."
 msgid "|tap|: Add one mana of any color in your commander's color identity."
-msgstr ""
-"|tap|: Weź jedną manę dowolnego koloru. Wydaj ową manę tylko na rzucenie "
-"wielokolorowego czaru."
+msgstr "|tap|: Weź jedną manę w jednym z kolorów tożsamości twojego dowódcy."
 
 #: ../../DMC.rst:750
 msgid ""
@@ -2419,22 +2445,16 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:745
-#, fuzzy
-#| msgid ""
-#| "Faeburrow Elder gets +1/+1 for each color among permanents you control."
 msgid "Equipped creature gets +1/+1 for each land you control."
-msgstr ""
-"Ten stwór dostaje +1/+1 za każdy kolor spośród bytów pod twoim władaniem."
+msgstr "Wyposażony stwór dostaje +1/+1 za każdy ląd pod twoim władaniem."
 
 #: ../../DMC.rst:747
 msgid "Equip legendary creature |mana_3|"
-msgstr ""
+msgstr "Wyposaż legendarnego stwora |mana_3|"
 
 #: ../../DMC.rst:749
-#, fuzzy
-#| msgid "Equip |mana_3|"
 msgid "Equip |mana_7|"
-msgstr "Wyposaż |mana_3|"
+msgstr "Wyposaż |mana_7|"
 
 #: ../../DMC.rst:756
 msgid ""
@@ -2445,13 +2465,15 @@ msgstr ""
 
 #: ../../DMC.rst:753
 msgid "Black creature spells you cast cost |mana_1| less to cast."
-msgstr ""
+msgstr "Rzucanie czarów czarnych stworów kosztuje cię o |mana_1| mniej."
 
 #: ../../DMC.rst:755
 msgid ""
 "Whenever you cast a creature spell, each opponent loses 1 life and you gain "
 "1 life."
 msgstr ""
+"Ilekroć rzucisz czar stwora, każdy przeciwnik traci po 1 życiu, a ty zyskaj "
+"1 życie."
 
 #: ../../DMC.rst:764
 msgid ""
@@ -2461,14 +2483,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:759
-#, fuzzy
-#| msgid "|mana_5|, |tap|: Add five mana in any combination of colors."
 msgid "|tap|: Add one mana of any color."
-msgstr "|mana_5|, |tap|: Weź pięć man w dowolnej kombinacji kolorów."
+msgstr "|tap|: Weź jedną manę dowolnego koloru."
 
 #: ../../DMC.rst:761
 msgid "|tap|: Put a charge counter on Coalition Relic."
-msgstr ""
+msgstr "|tap|: Umieść znacznik ładunku na tym artefakcie."
 
 #: ../../DMC.rst:763
 msgid ""
@@ -2476,6 +2496,9 @@ msgid ""
 "from Coalition Relic. Add one mana of any color for each charge counter "
 "removed this way."
 msgstr ""
+"Na początku twojej fazy głównej przed potyczką, usuń wszystkie znaczniki "
+"ładunku z tego artefaktu. Weź jedną manę dowolnego koloru za każdy znacznik "
+"ładunku usunięty w ten sposób."
 
 #: ../../DMC.rst:770
 msgid ""
@@ -2486,7 +2509,7 @@ msgstr ""
 
 #: ../../DMC.rst:769
 msgid "Sacrifice Commander's Sphere: Draw a card."
-msgstr ""
+msgstr "Poświęć ten byt: Dobierz kartę."
 
 #: ../../DMC.rst:774
 msgid ""
@@ -2496,16 +2519,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:773 ../../DMC.rst:933
-#, fuzzy
-#| msgid ""
-#| "|tap|: Add one mana of any color. Spend this mana only to cast a "
-#| "multicolored spell."
 msgid ""
 "|tap|: Add one mana of any color that a land an opponent controls could "
 "produce."
 msgstr ""
-"|tap|: Weź jedną manę dowolnego koloru. Wydaj ową manę tylko na rzucenie "
-"wielokolorowego czaru."
+"|tap|: Weź jedną manę w jednym z kolorów możliwych do wydania przez ląd pod "
+"władaniem przeciwnika."
 
 #: ../../DMC.rst:780
 msgid ""
@@ -2515,16 +2534,16 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:777
-#, fuzzy
-#| msgid "Creature spells you control can't be countered."
 msgid "Red creature spells you cast cost |mana_1| less to cast."
-msgstr "Czary stworów pod twoim władaniem nie mogą być skontrowane."
+msgstr "Rzucanie czarów czerwonych stworów kosztuje cię o |mana_1| mniej."
 
 #: ../../DMC.rst:779
 msgid ""
 "Whenever you cast a creature spell, you may discard a card. If you do, draw "
 "a card."
 msgstr ""
+"Ilekroć rzucisz czar stwora, możesz odrzucić kartę. Jeśli tak zrobisz, "
+"dobierz kartę."
 
 #: ../../DMC.rst:786
 msgid ""
@@ -2534,14 +2553,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:783 ../../DMC.rst:821
-#, fuzzy
-#| msgid "|tap|: Add |colorless|."
 msgid "|tap|: Add |colorless|\\ |colorless|."
-msgstr "|tap|: Weź |colorless|."
+msgstr "|tap|: Weź |colorless|\\ |colorless|."
 
 #: ../../DMC.rst:785
 msgid "|mana_2|, |tap|, Sacrifice Hedron Archive: Draw two cards."
-msgstr ""
+msgstr "|mana_2|, |tap|, poświęć ten artefakt: Dobierz dwie karty."
 
 #: ../../DMC.rst:792
 msgid ""
@@ -2555,6 +2572,8 @@ msgid ""
 "Each legendary creature you control gets +1/+1 for each other legendary "
 "creature you control."
 msgstr ""
+"Każdy legendarny stwór pod twoim władaniem dostaje +1/+1 za każdego innego "
+"legendarnego stwora pod twoim władaniem."
 
 #: ../../DMC.rst:791
 msgid ""
@@ -2562,6 +2581,9 @@ msgid ""
 "legendary creature card from among them and put it into your hand. Put the "
 "rest on the bottom of your library in a random order."
 msgstr ""
+"|mana_x|, |tap|: Spójrz na X wierzchnich kart twojej biblioteki. Możesz "
+"ujawnić spośród nich kartę legendarnego stwora i umieścić ją w twojej ręce. "
+"Umieść pozostałe losowo na spodzie twojej biblioteki."
 
 #: ../../DMC.rst:800
 msgid ""
@@ -2572,19 +2594,23 @@ msgstr ""
 
 #: ../../DMC.rst:795
 msgid "Equipped creature gets +3/+2."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +3/+2."
 
 #: ../../DMC.rst:797
 msgid ""
 "Whenever a legendary creature enters the battlefield under your control, you "
 "may attach Hero's Blade to it."
 msgstr ""
+"Ilekroć legendarny stwór wejdzie na pole bitwy pod twoim władaniem możesz "
+"dołączyć do niego ten artefakt."
 
 #: ../../DMC.rst:799
 msgid ""
 "Equip |mana_4| (|mana_4|: Attach to target creature you control. Equip only "
 "as a sorcery.)"
 msgstr ""
+"Wyposaż |mana_4| (|mana_4|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Aktywuj tylko jako obrzęd.)"
 
 #: ../../DMC.rst:806
 msgid ""
@@ -2607,13 +2633,15 @@ msgstr ""
 
 #: ../../DMC.rst:809
 msgid "White creature spells you cast cost |mana_1| less to cast."
-msgstr ""
+msgstr "Rzucanie czarów białych stworów kosztuje cię o |mana_1| mniej."
 
 #: ../../DMC.rst:811
 msgid ""
 "Whenever you cast a creature spell, create a 1/1 white Warrior creature "
 "token with vigilance."
 msgstr ""
+"Ilekroć rzucisz czar stwora, stwórz żeton białego stwora Wojownik 1/1 z "
+"czujnością."
 
 #: ../../DMC.rst:818
 msgid ""
@@ -2623,16 +2651,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:815
-#, fuzzy
-#| msgid "When Baleful Strix enters the battlefield, draw a card."
 msgid "When Prophetic Prism enters the battlefield, draw a card."
 msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../DMC.rst:817
-#, fuzzy
-#| msgid "|mana_5|, |tap|: Add five mana in any combination of colors."
 msgid "|mana_1|, |tap|: Add one mana of any color."
-msgstr "|mana_5|, |tap|: Weź pięć man w dowolnej kombinacji kolorów."
+msgstr "|mana_1|, |tap|: Weź jedną manę dowolnego koloru."
 
 #: ../../DMC.rst:822
 msgid ""
@@ -2649,22 +2673,17 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:825
-#, fuzzy
-#| msgid ""
-#| "Exile target creature. Its controller may search their library for a "
-#| "basic land card, put that card onto the battlefield tapped, then shuffle."
 msgid ""
 "When Solemn Simulacrum enters the battlefield, you may search your library "
 "for a basic land card, put that card onto the battlefield tapped, then "
 "shuffle."
 msgstr ""
-"Wygnaj wskazanego stwora. Jego władca możesz wyszukać w swojej bibliotece "
-"kartę bazowego lądu, umieścić ją przekręconą na polu bitwy, po czym "
-"przetasować."
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"kartę bazowego lądu, umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../DMC.rst:827
 msgid "When Solemn Simulacrum dies, you may draw a card."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, możesz dobrać kartę."
 
 #: ../../DMC.rst:832
 msgid ""
@@ -2695,6 +2714,8 @@ msgid ""
 "Equip |mana_1| (|mana_1|: Attach to target creature you control. Equip only "
 "as a sorcery.)"
 msgstr ""
+"Wyposaż |mana_1| (|mana_1|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Aktywuj tylko jako obrzęd.)"
 
 #: ../../DMC.rst:842
 msgid ""
@@ -2705,7 +2726,7 @@ msgstr ""
 
 #: ../../DMC.rst:841
 msgid "Transguild Courier is all colors."
-msgstr ""
+msgstr "Ten byt jest każdego koloru."
 
 #: ../../DMC.rst:850
 msgid ""
@@ -2720,12 +2741,16 @@ msgid ""
 "Traxos, Scourge of Kroog enters the battlefield tapped and doesn't untap "
 "during your untap step."
 msgstr ""
+"Ten stwór wchodzi przekręcony na pole bitwy i nie odkręca się w twoim kroku "
+"odkręcania."
 
 #: ../../DMC.rst:849
 msgid ""
 "Whenever you cast a historic spell, untap Traxos. (Artifacts, legendaries, "
 "and Sagas are historic.)"
 msgstr ""
+"Ilekroć rzucisz historyczny czar, odkręć tego stwora. (Artefakty, legendy i "
+"Sagi są historyczne.)"
 
 #: ../../DMC.rst:856
 msgid ""
@@ -2735,14 +2760,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:853
-#, fuzzy
-#| msgid "When Baleful Strix enters the battlefield, draw a card."
 msgid "Arcane Sanctum enters the battlefield tapped."
-msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../DMC.rst:855
 msgid "|tap|: Add |mana_w|, |mana_u|, or |mana_b|."
-msgstr ""
+msgstr "|tap|: Weź |mana_w|, |mana_u|, lub |mana_b|."
 
 #: ../../DMC.rst:862
 msgid ""
@@ -2771,12 +2794,9 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:867
-#, fuzzy
-#| msgid ""
-#| "|tap|: Add |mana_w| or |mana_b|. Murmuring Bosk deals 1 damage to you."
 msgid ""
 "|tap|: Add |mana_r| or |mana_w|. Battlefield Forge deals 1 damage to you."
-msgstr "|tap|: Weź |mana_w| lub |mana_b|. Ten byt zadaje tobie 1 obrażenie."
+msgstr "|tap|: Weź |mana_r| lub |mana_w|. Ten ląd zadaje tobie 1 obrażenie."
 
 #: ../../DMC.rst:876
 msgid ""
@@ -2786,23 +2806,17 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:871
-#, fuzzy
-#| msgid "When Baleful Strix enters the battlefield, draw a card."
 msgid "Bojuka Bog enters the battlefield tapped."
-msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../DMC.rst:873
-#, fuzzy
-#| msgid "When Baleful Strix enters the battlefield, draw a card."
 msgid ""
 "When Bojuka Bog enters the battlefield, exile target player's graveyard."
-msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wygnaj cmentarz wskazanego gracza."
 
 #: ../../DMC.rst:875 ../../DMC.rst:1077
-#, fuzzy
-#| msgid "(|tap|: Add |mana_g|.)"
 msgid "|tap|: Add |mana_b|."
-msgstr "(|tap|: Weź |mana_g|.)"
+msgstr "|tap|: Weź |mana_b|."
 
 #: ../../DMC.rst:884
 msgid ""
@@ -2812,22 +2826,20 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:879
-#, fuzzy
-#| msgid "When Baleful Strix enters the battlefield, draw a card."
 msgid "Boros Garrison enters the battlefield tapped."
-msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../DMC.rst:881
 msgid ""
 "When Boros Garrison enters the battlefield, return a land you control to its "
 "owner's hand."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
+"ręki właściciela."
 
 #: ../../DMC.rst:883
-#, fuzzy
-#| msgid "(|tap|: Add |mana_g|.)"
 msgid "|tap|: Add |mana_r|\\ |mana_w|."
-msgstr "(|tap|: Weź |mana_g|.)"
+msgstr "|tap|: Weź |mana_r|\\ |mana_w|."
 
 #: ../../DMC.rst:890
 msgid ""
@@ -2837,16 +2849,16 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:887
-#, fuzzy
-#| msgid "(|tap|: Add |mana_g|.)"
 msgid "(|tap|: Add |mana_g| or |mana_w|.)"
-msgstr "(|tap|: Weź |mana_g|.)"
+msgstr "(|tap|: Weź |mana_g| lub |mana_w|.)"
 
 #: ../../DMC.rst:889
 msgid ""
 "Canopy Vista enters the battlefield tapped unless you control two or more "
 "basic lands."
 msgstr ""
+"Ten ląd wchodzi przekręcony na pole bitwy, chyba że władasz co najmniej "
+"dwoma bazowymi lądami."
 
 #: ../../DMC.rst:898
 msgid ""
@@ -2867,16 +2879,16 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:901
-#, fuzzy
-#| msgid "(|tap|: Add |mana_g|.)"
 msgid "(|tap|: Add |mana_r| or |mana_g|.)"
-msgstr "(|tap|: Weź |mana_g|.)"
+msgstr "(|tap|: Weź |mana_r| lub |mana_g|.)"
 
 #: ../../DMC.rst:903
 msgid ""
 "Cinder Glade enters the battlefield tapped unless you control two or more "
 "basic lands."
 msgstr ""
+"Ten ląd wchodzi przekręcony na pole bitwy, chyba że władasz co najmniej "
+"dwoma bazowymi lądami."
 
 #: ../../DMC.rst:908
 msgid ""
@@ -2893,14 +2905,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:911
-#, fuzzy
-#| msgid "When Baleful Strix enters the battlefield, draw a card."
 msgid "Crumbling Necropolis enters the battlefield tapped."
-msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../DMC.rst:913
 msgid "|tap|: Add |mana_u|, |mana_b|, or |mana_r|."
-msgstr ""
+msgstr "|tap|: Weź |mana_u|, |mana_b|, lub |mana_r|."
 
 #: ../../DMC.rst:920
 msgid ""
@@ -2921,12 +2931,11 @@ msgid ""
 "Dragonskull Summit enters the battlefield tapped unless you control a Swamp "
 "or a Mountain."
 msgstr ""
+"Ten ląd wchodzi przekręcony na pole bitwy, chyba że władasz Bagnem lub Górą."
 
 #: ../../DMC.rst:925 ../../DMC.rst:939 ../../DMC.rst:1099
-#, fuzzy
-#| msgid "(|tap|: Add |mana_g|.)"
 msgid "|tap|: Add |mana_b| or |mana_r|."
-msgstr "(|tap|: Weź |mana_g|.)"
+msgstr "|tap|: Weź |mana_b| lub |mana_r|."
 
 #: ../../DMC.rst:930
 msgid ""
@@ -2935,16 +2944,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:929
-#, fuzzy
-#| msgid ""
-#| "|tap|, Sacrifice Bad River: Search your library for an Island or Swamp "
-#| "card, put it onto the battlefield, then shuffle."
 msgid ""
 "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, "
 "put it onto the battlefield tapped, then shuffle."
 msgstr ""
-"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę Wyspy lub Bagna, "
-"umieść ją na polu bitwy, po czym przetasuj."
+"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
+"umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../DMC.rst:934
 msgid ""
@@ -2959,18 +2964,14 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:937
-#, fuzzy
-#| msgid ""
-#| "As Murmuring Bosk enters the battlefield, you may reveal a Treefolk card "
-#| "from your hand. If you don't, Murmuring Bosk enters the battlefield "
-#| "tapped."
 msgid ""
 "As Foreboding Ruins enters the battlefield, you may reveal a Swamp or "
 "Mountain card from your hand. If you don't, Foreboding Ruins enters the "
 "battlefield tapped."
 msgstr ""
-"Przy wejściu tego bytu na pole bitwy, możesz ujawnić kartę Drzewca z twojej "
-"ręki. Jeśli tak nie zrobisz, ten byt wchodzi przekręcony na pole bitwy."
+"Przy wejściu tego bytu na pole bitwy możesz ujawnić z twojej ręki kartę "
+"Bagna lub Góry. Jeśli tak nie zrobisz, ten byt wchodzi przekręcony na pole "
+"bitwy."
 
 #: ../../DMC.rst:946
 msgid ""
@@ -2979,16 +2980,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:943
-#, fuzzy
-#| msgid "When Baleful Strix enters the battlefield, draw a card."
 msgid "Frontier Bivouac enters the battlefield tapped."
-msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../DMC.rst:945
-#, fuzzy
-#| msgid "(|tap|: Add |mana_g|.)"
 msgid "|tap|: Add |mana_g|, |mana_u|, or |mana_r|."
-msgstr "(|tap|: Weź |mana_g|.)"
+msgstr "|tap|: Weź |mana_g|, |mana_u|, or |mana_r|."
 
 #: ../../DMC.rst:952
 msgid ""
@@ -2999,7 +2996,7 @@ msgstr ""
 
 #: ../../DMC.rst:951
 msgid "|mana_2|, |tap|: Each player draws a card, then discards a card."
-msgstr ""
+msgstr "|mana_2|, |tap|: Każdy gracz dobiera kartę, po czym odrzuca kartę."
 
 #: ../../DMC.rst:958
 msgid ""
@@ -3008,21 +3005,15 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:955
-#, fuzzy
-#| msgid "When Baleful Strix enters the battlefield, draw a card."
 msgid "Grasslands enters the battlefield tapped."
-msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../DMC.rst:957
-#, fuzzy
-#| msgid ""
-#| "|tap|, Sacrifice Bad River: Search your library for an Island or Swamp "
-#| "card, put it onto the battlefield, then shuffle."
 msgid ""
 "|tap|, Sacrifice Grasslands: Search your library for a Forest or Plains "
 "card, put it onto the battlefield, then shuffle."
 msgstr ""
-"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę Wyspy lub Bagna, "
+"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę Lasu lub Równiny, "
 "umieść ją na polu bitwy, po czym przetasuj."
 
 #: ../../DMC.rst:964
@@ -3032,16 +3023,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:961
-#, fuzzy
-#| msgid "When Baleful Strix enters the battlefield, draw a card."
 msgid "Jungle Shrine enters the battlefield tapped."
-msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../DMC.rst:963
-#, fuzzy
-#| msgid "(|tap|: Add |mana_g|.)"
 msgid "|tap|: Add |mana_r|, |mana_g|, or |mana_w|."
-msgstr "(|tap|: Weź |mana_g|.)"
+msgstr "|tap|: Weź |mana_r|, |mana_g|, albo |mana_w|."
 
 #: ../../DMC.rst:972
 msgid ""
@@ -3050,22 +3037,16 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:967
-#, fuzzy
-#| msgid "When Baleful Strix enters the battlefield, draw a card."
 msgid "Krosan Verge enters the battlefield tapped."
-msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../DMC.rst:971
-#, fuzzy
-#| msgid ""
-#| "|tap|, Sacrifice Bad River: Search your library for an Island or Swamp "
-#| "card, put it onto the battlefield, then shuffle."
 msgid ""
 "|mana_2|, |tap|, Sacrifice Krosan Verge: Search your library for a Forest "
 "card and a Plains card, put them onto the battlefield tapped, then shuffle."
 msgstr ""
-"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę Wyspy lub Bagna, "
-"umieść ją na polu bitwy, po czym przetasuj."
+"|mana_2|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę Lasu i "
+"kartę Równiny, umieść je przekręcone na polu bitwy, po czym przetasuj."
 
 #: ../../DMC.rst:978
 msgid ""
@@ -3075,10 +3056,8 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:977
-#, fuzzy
-#| msgid "Target player draws a card."
 msgid "|mana_2|, |tap|: Each player draws a card."
-msgstr "Wskazany gracz dobiera kartę."
+msgstr "|mana_2|, |tap|: Każdy gracz dobiera kartę."
 
 #: ../../DMC.rst:984
 msgid ""
@@ -3093,6 +3072,9 @@ msgid ""
 "until end of turn. It's still a land. This ability costs |mana_1| less to "
 "activate for each legendary creature and planeswalker you control."
 msgstr ""
+"|mana_4|: Ten ląd do końca tury staje się stworem Mieszkaniec 3/3 z "
+"czujnością. Nadal jest lądem. Aktywacja tej zdolności kosztuje o |mana_1| "
+"mniej za każdego legendarnego stwora lub wędrowca pod twoim władaniem."
 
 #: ../../DMC.rst:990
 msgid ""
@@ -3101,21 +3083,15 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:987
-#, fuzzy
-#| msgid "When Baleful Strix enters the battlefield, draw a card."
 msgid "Mountain Valley enters the battlefield tapped."
-msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../DMC.rst:989
-#, fuzzy
-#| msgid ""
-#| "|tap|, Sacrifice Bad River: Search your library for an Island or Swamp "
-#| "card, put it onto the battlefield, then shuffle."
 msgid ""
 "|tap|, Sacrifice Mountain Valley: Search your library for a Mountain or "
 "Forest card, put it onto the battlefield, then shuffle."
 msgstr ""
-"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę Wyspy lub Bagna, "
+"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę Góry lub Lasu, "
 "umieść ją na polu bitwy, po czym przetasuj."
 
 #: ../../DMC.rst:998
@@ -3148,14 +3124,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:1001
-#, fuzzy
-#| msgid "When Baleful Strix enters the battlefield, draw a card."
 msgid "Mystic Monastery enters the battlefield tapped."
-msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../DMC.rst:1003
 msgid "|tap|: Add |mana_u|, |mana_r|, or |mana_w|."
-msgstr ""
+msgstr "|tap|: Weź |mana_u|, |mana_r| lub |mana_w|."
 
 #: ../../DMC.rst:1010
 msgid ""
@@ -3164,14 +3138,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:1007
-#, fuzzy
-#| msgid "When Baleful Strix enters the battlefield, draw a card."
 msgid "Nomad Outpost enters the battlefield tapped."
-msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../DMC.rst:1009
 msgid "|tap|: Add |mana_r|, |mana_w|, or |mana_b|."
-msgstr ""
+msgstr "|tap|: Weź |mana_r|, |mana_w|, lub |mana_b|."
 
 #: ../../DMC.rst:1016
 msgid ""
@@ -3180,16 +3152,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:1013
-#, fuzzy
-#| msgid "When Baleful Strix enters the battlefield, draw a card."
 msgid "Opulent Palace enters the battlefield tapped."
-msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../DMC.rst:1015
-#, fuzzy
-#| msgid "(|tap|: Add |mana_g|.)"
 msgid "|tap|: Add |mana_b|, |mana_g|, or |mana_u|."
-msgstr "(|tap|: Weź |mana_g|.)"
+msgstr "|tap|: Weź |mana_b|, |mana_g|, lub |mana_u|."
 
 #: ../../DMC.rst:1024
 msgid ""
@@ -3198,22 +3166,20 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:1019
-#, fuzzy
-#| msgid "When Baleful Strix enters the battlefield, draw a card."
 msgid "Orzhov Basilica enters the battlefield tapped."
-msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../DMC.rst:1021
 msgid ""
 "When Orzhov Basilica enters the battlefield, return a land you control to "
 "its owner's hand."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
+"ręki właściciela."
 
 #: ../../DMC.rst:1023
-#, fuzzy
-#| msgid "(|tap|: Add |mana_g|.)"
 msgid "|tap|: Add |mana_w|\\ |mana_b|."
-msgstr "(|tap|: Weź |mana_g|.)"
+msgstr "|tap|: Weź |mana_w|\\ |mana_b|."
 
 #: ../../DMC.rst:1030
 msgid ""
@@ -3222,16 +3188,16 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:1027
-#, fuzzy
-#| msgid "(|tap|: Add |mana_g|.)"
 msgid "(|tap|: Add |mana_w| or |mana_u|.)"
-msgstr "(|tap|: Weź |mana_g|.)"
+msgstr "(|tap|: Weź |mana_w| lub |mana_u|.)"
 
 #: ../../DMC.rst:1029
 msgid ""
 "Prairie Stream enters the battlefield tapped unless you control two or more "
 "basic lands."
 msgstr ""
+"Ten ląd wchodzi przekręcony na pole bitwy, chyba że władasz co najmniej "
+"dwoma bazowymi lądami."
 
 #: ../../DMC.rst:1038
 msgid ""
@@ -3240,22 +3206,20 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:1033
-#, fuzzy
-#| msgid "When Baleful Strix enters the battlefield, draw a card."
 msgid "Rakdos Carnarium enters the battlefield tapped."
-msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../DMC.rst:1035
 msgid ""
 "When Rakdos Carnarium enters the battlefield, return a land you control to "
 "its owner's hand."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
+"ręki właściciela."
 
 #: ../../DMC.rst:1037
-#, fuzzy
-#| msgid "(|tap|: Add |mana_g|.)"
 msgid "|tap|: Add |mana_b|\\ |mana_r|."
-msgstr "(|tap|: Weź |mana_g|.)"
+msgstr "|tap|: Weź |mana_b|\\ |mana_r|."
 
 #: ../../DMC.rst:1044
 msgid ""
@@ -3265,7 +3229,7 @@ msgstr ""
 
 #: ../../DMC.rst:1041
 msgid "You have no maximum hand size."
-msgstr ""
+msgstr "Nie masz limitu kart na ręce."
 
 #: ../../DMC.rst:1050
 msgid ""
@@ -3274,21 +3238,15 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:1047
-#, fuzzy
-#| msgid "When Baleful Strix enters the battlefield, draw a card."
 msgid "Rocky Tar Pit enters the battlefield tapped."
-msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../DMC.rst:1049
-#, fuzzy
-#| msgid ""
-#| "|tap|, Sacrifice Bad River: Search your library for an Island or Swamp "
-#| "card, put it onto the battlefield, then shuffle."
 msgid ""
 "|tap|, Sacrifice Rocky Tar Pit: Search your library for a Swamp or Mountain "
 "card, put it onto the battlefield, then shuffle."
 msgstr ""
-"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę Wyspy lub Bagna, "
+"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę Bagna lub Góry, "
 "umieść ją na polu bitwy, po czym przetasuj."
 
 #: ../../DMC.rst:1056
@@ -3299,17 +3257,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:1053
-#, fuzzy
-#| msgid "When Baleful Strix enters the battlefield, draw a card."
 msgid "Sandsteppe Citadel enters the battlefield tapped."
-msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../DMC.rst:1055
-#, fuzzy
-#| msgid ""
-#| "|tap|: Add |mana_w| or |mana_b|. Murmuring Bosk deals 1 damage to you."
 msgid "|tap|: Add |mana_w|, |mana_b|, or |mana_g|."
-msgstr "|tap|: Weź |mana_w| lub |mana_b|. Ten byt zadaje tobie 1 obrażenie."
+msgstr "|tap|: Weź |mana_w|, |mana_b|, lub |mana_g|."
 
 #: ../../DMC.rst:1062
 msgid ""
@@ -3318,16 +3271,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:1059
-#, fuzzy
-#| msgid "When Baleful Strix enters the battlefield, draw a card."
 msgid "Savage Lands enters the battlefield tapped."
-msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../DMC.rst:1061
-#, fuzzy
-#| msgid "(|tap|: Add |mana_g|.)"
 msgid "|tap|: Add |mana_b|, |mana_r|, or |mana_g|."
-msgstr "(|tap|: Weź |mana_g|.)"
+msgstr "|tap|: Weź |mana_b|, |mana_r|, lub |mana_g|."
 
 #: ../../DMC.rst:1068
 msgid ""
@@ -3336,16 +3285,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:1065
-#, fuzzy
-#| msgid "When Baleful Strix enters the battlefield, draw a card."
 msgid "Seaside Citadel enters the battlefield tapped."
-msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../DMC.rst:1067
-#, fuzzy
-#| msgid "(|tap|: Add |mana_g|.)"
 msgid "|tap|: Add |mana_g|, |mana_w|, or |mana_u|."
-msgstr "(|tap|: Weź |mana_g|.)"
+msgstr "|tap|: Weź |mana_g|, |mana_w|, lub |mana_u|."
 
 #: ../../DMC.rst:1074
 msgid ""
@@ -3378,16 +3323,16 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:1083
-#, fuzzy
-#| msgid "(|tap|: Add |mana_g|.)"
 msgid "(|tap|: Add |mana_b| or |mana_r|.)"
-msgstr "(|tap|: Weź |mana_g|.)"
+msgstr "(|tap|: Weź |mana_b| lub |mana_r|.)"
 
 #: ../../DMC.rst:1085
 msgid ""
 "Smoldering Marsh enters the battlefield tapped unless you control two or "
 "more basic lands."
 msgstr ""
+"Ten ląd wchodzi przekręcony na pole bitwy, chyba że władasz co najmniej "
+"dwoma bazowymi lądami."
 
 #: ../../DMC.rst:1092
 msgid ""
@@ -3396,16 +3341,16 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:1089
-#, fuzzy
-#| msgid "(|tap|: Add |mana_g|.)"
 msgid "(|tap|: Add |mana_u| or |mana_b|.)"
-msgstr "(|tap|: Weź |mana_g|.)"
+msgstr "(|tap|: Weź |mana_u| lub |mana_b|.)"
 
 #: ../../DMC.rst:1091
 msgid ""
 "Sunken Hollow enters the battlefield tapped unless you control two or more "
 "basic lands."
 msgstr ""
+"Ten ląd wchodzi przekręcony na pole bitwy, chyba że władasz co najmniej "
+"dwoma bazowymi lądami."
 
 #: ../../DMC.rst:1100
 msgid ""
@@ -3414,16 +3359,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:1095
-#, fuzzy
-#| msgid "When Baleful Strix enters the battlefield, draw a card."
 msgid "Temple of Malice enters the battlefield tapped."
-msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../DMC.rst:1097
-#, fuzzy
-#| msgid "When Baleful Strix enters the battlefield, draw a card."
 msgid "When Temple of Malice enters the battlefield, scry 1."
-msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wróż 1."
 
 #: ../../DMC.rst:1108
 msgid ""
@@ -3432,22 +3373,16 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:1103
-#, fuzzy
-#| msgid "When Baleful Strix enters the battlefield, draw a card."
 msgid "Temple of Silence enters the battlefield tapped."
-msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../DMC.rst:1105
-#, fuzzy
-#| msgid "When Baleful Strix enters the battlefield, draw a card."
 msgid "When Temple of Silence enters the battlefield, scry 1."
-msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wróż 1."
 
 #: ../../DMC.rst:1107
-#, fuzzy
-#| msgid "(|tap|: Add |mana_g|.)"
 msgid "|tap|: Add |mana_w| or |mana_b|."
-msgstr "(|tap|: Weź |mana_g|.)"
+msgstr "|tap|: Weź |mana_w| lub |mana_b|."
 
 #: ../../DMC.rst:1116
 msgid ""
@@ -3456,22 +3391,16 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:1111
-#, fuzzy
-#| msgid "When Baleful Strix enters the battlefield, draw a card."
 msgid "Temple of Triumph enters the battlefield tapped."
-msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../DMC.rst:1113
-#, fuzzy
-#| msgid "When Baleful Strix enters the battlefield, draw a card."
 msgid "When Temple of Triumph enters the battlefield, scry 1."
-msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wróż 1."
 
 #: ../../DMC.rst:1115
-#, fuzzy
-#| msgid "(|tap|: Add |mana_g|.)"
 msgid "|tap|: Add |mana_r| or |mana_w|."
-msgstr "(|tap|: Weź |mana_g|.)"
+msgstr "|tap|: Weź |mana_r| lub |mana_w|."
 
 #: ../../DMC.rst:1119
 msgid ""
@@ -3481,13 +3410,9 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:1119
-#, fuzzy
-#| msgid ""
-#| "|tap|, Sacrifice Bad River: Search your library for an Island or Swamp "
-#| "card, put it onto the battlefield, then shuffle."
 msgid ""
 "|tap|, Sacrifice Terramorphic Expanse: Search your library for a basic land "
 "card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
-"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę Wyspy lub Bagna, "
-"umieść ją na polu bitwy, po czym przetasuj."
+"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
+"umieść ją przekręconą na polu bitwy, po czym przetasuj."
