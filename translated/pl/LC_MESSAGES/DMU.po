@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2022.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-25 22:42+0200\n"
-"PO-Revision-Date: 2022-08-25 08:35+0000\n"
+"PO-Revision-Date: 2022-08-25 21:03+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dmu/pl/>\n"
 "Language: pl\n"
@@ -933,10 +933,8 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:221
-#, fuzzy
-#| msgid "When Mesa Cavalier enters the battlefield, you gain 2 life."
 msgid "When Aether Channeler enters the battlefield, choose one —"
-msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 2 życia."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wybierz jedno —"
 
 #: ../../DMU.rst:223
 #, fuzzy
@@ -2312,15 +2310,11 @@ msgstr "Wybierz jedno —"
 
 #: ../../DMU.rst:675
 msgid "Destroy target artifact."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt."
 
 #: ../../DMU.rst:677
-#, fuzzy
-#| msgid "Destroy target tapped creature. If this spell was kicked, scry 2."
 msgid "Destroy target creature with defender."
-msgstr ""
-"Zniszcz wskazanego przekręconego stwora. Jeśli ten czar został podbity, wróż "
-"2."
+msgstr "Zniszcz wskazanego stwora z obronnością."
 
 #: ../../DMU.rst:679
 msgid "Smash to Dust deals 1 damage to each creature your opponents control."
@@ -2786,24 +2780,21 @@ msgstr "Ilekroć rzucisz czar sztuczki lub obrzędu, wybierz jedno —"
 
 #: ../../DMU.rst:843
 msgid "Destroy target artifact or enchantment."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub urok."
 
 #: ../../DMU.rst:845
-#, fuzzy
-#| msgid ""
-#| "Scry 1. (Look at the top card of your library. You may put that card on "
-#| "the bottom of your library.)"
 msgid ""
 "Look at the top five cards of your library. You may put a land card from "
 "among them onto the battlefield tapped. Put the rest on the bottom of your "
 "library in a random order."
 msgstr ""
-"Wróż 1. (Spójrz na wierzchnią kartę twojej biblioteki. Możesz umieścić ją na "
-"spodzie twojej biblioteki.)"
+"Spójrz na pięć wierzchnich kart twojej biblioteki. Możesz umieścić spośród "
+"nich kartę lądu przekręconą na polu bitwy. Umieść pozostałe losowo na "
+"spodzie twojej biblioteki."
 
 #: ../../DMU.rst:847
 msgid "You gain 4 life."
-msgstr ""
+msgstr "Zyskaj 4 życia."
 
 #: ../../DMU.rst:852
 msgid ""

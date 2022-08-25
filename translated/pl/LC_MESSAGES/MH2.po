@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-25 14:27+0200\n"
-"PO-Revision-Date: 2022-06-25 15:11+0000\n"
+"PO-Revision-Date: 2022-08-25 21:03+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mh2/pl/>\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.12.1\n"
+"X-Generator: Weblate 4.13.1\n"
 
 #: ../../symbols.rst:3
 msgid "{C}"
@@ -2674,18 +2674,13 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:757
-#, fuzzy
-#| msgid ""
-#| "Delirium — As long as there are four or more card types among cards in "
-#| "your graveyard, Dragon's Rage Channeler gets +2/+2, has flying, and "
-#| "attacks each combat if able."
 msgid ""
 "Delirium — As long as there are four or more card types among cards in your "
 "graveyard, Dragon's Rage Channeler gets +2/+0, has flying, and attacks each "
 "combat if able."
 msgstr ""
 "Delirium — O ile co najmniej cztery typy kart są wśród kart w twoim "
-"cmentarzu, ten stwór dostaje +2/+2, ma latanie i atakuje w każdej potyczce, "
+"cmentarzu, ten stwór dostaje +2/+0, ma latanie i atakuje w każdej potyczce, "
 "jeśli może."
 
 #: ../../MH2.rst:764
@@ -3203,15 +3198,11 @@ msgid ""
 msgstr ""
 
 #: ../../MH2.rst:913
-#, fuzzy
-#| msgid ""
-#| "Delirium — Unholy Heat deals 6 damage instead if there are four or more "
-#| "card types among cards in your graveyard."
 msgid ""
 "Delirium — Unholy Heat deals 4 damage instead if there are four or more card "
 "types among cards in your graveyard."
 msgstr ""
-"Delirium — Ten czar zamiast tego zadaje 6 obrażeń jeśli co najmniej cztery "
+"Delirium — Ten czar zamiast tego zadaje 4 obrażenia jeśli co najmniej cztery "
 "typy kart są wśród kart w twoim cmentarzu."
 
 #: ../../MH2.rst:918
