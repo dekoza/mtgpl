@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2022.7\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-08-24 14:10+0200\n"
+"POT-Creation-Date: 2022-08-25 07:55+0200\n"
 "PO-Revision-Date: 2022-08-22 11:42+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dmc/pl/>\n"
@@ -305,7 +305,7 @@ msgid ""
 "colors, create a 4/4 white Angel creature token with flying and vigilance."
 msgstr ""
 
-#: ../../DMC.rst:31 ../../DMC.rst:351
+#: ../../DMC.rst:31 ../../DMC.rst:919
 msgid ""
 "|mana_5|, |tap|: Add |mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|."
 msgstr ""
@@ -318,7 +318,7 @@ msgid ""
 "utm_source=api>`"
 msgstr ""
 
-#: ../../DMC.rst:35 ../../DMC.rst:49
+#: ../../DMC.rst:35 ../../DMC.rst:49 ../../DMC.rst:365
 msgid "Menace"
 msgstr "Złowrogość"
 
@@ -339,7 +339,8 @@ msgid ""
 "https://scryfall.com/card/dmc/5/zeriam-golden-wind?utm_source=api>`"
 msgstr ""
 
-#: ../../DMC.rst:43
+#: ../../DMC.rst:43 ../../DMC.rst:323 ../../DMC.rst:371 ../../DMC.rst:605
+#: ../../DMC.rst:661 ../../DMC.rst:725
 msgid "Flying"
 msgstr "Latanie"
 
@@ -530,7 +531,7 @@ msgstr "Wygnaj cmentarz wskazanego gracza."
 msgid "Unite the Coalition deals 2 damage to any target."
 msgstr ""
 
-#: ../../DMC.rst:111
+#: ../../DMC.rst:111 ../../DMC.rst:677
 msgid "Destroy target artifact or enchantment."
 msgstr "Zniszcz wskazany artefakt lub urok."
 
@@ -560,7 +561,7 @@ msgid ""
 "utm_source=api>`"
 msgstr ""
 
-#: ../../DMC.rst:121 ../../DMC.rst:257 ../../DMC.rst:325
+#: ../../DMC.rst:121 ../../DMC.rst:257 ../../DMC.rst:575 ../../DMC.rst:683
 msgid "Flash"
 msgstr "Błysk"
 
@@ -589,7 +590,9 @@ msgstr ""
 msgid "Obsidian Obelisk enters the battlefield tapped."
 msgstr ""
 
-#: ../../DMC.rst:131 ../../DMC.rst:343 ../../DMC.rst:349
+#: ../../DMC.rst:131 ../../DMC.rst:803 ../../DMC.rst:865 ../../DMC.rst:895
+#: ../../DMC.rst:917 ../../DMC.rst:949 ../../DMC.rst:969 ../../DMC.rst:975
+#: ../../DMC.rst:981 ../../DMC.rst:1043 ../../DMC.rst:1071
 msgid "|tap|: Add |colorless|."
 msgstr "|tap|: Weź |colorless|."
 
@@ -608,7 +611,7 @@ msgid ""
 "https://scryfall.com/card/dmc/19/the-peregrine-dynamo?utm_source=api>`"
 msgstr ""
 
-#: ../../DMC.rst:137
+#: ../../DMC.rst:137 ../../DMC.rst:399
 msgid "Haste"
 msgstr "Pośpiech"
 
@@ -748,8 +751,8 @@ msgstr ""
 
 #: ../../DMC.rst:186
 msgid ""
-":mtgtip:`\"The Lady of Otaria\"<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/d/9/d96a5a00-22a7-4a7b-a7e2-5c055a8384ba.jpg?1660928799|"
+":mtgtip:`The Lady of Otaria<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/d/9/d96a5a00-22a7-4a7b-a7e2-5c055a8384ba.jpg?1661391146|"
 "https://scryfall.com/card/dmc/35/the-lady-of-otaria?utm_source=api>`"
 msgstr ""
 
@@ -795,7 +798,7 @@ msgid ""
 "https://scryfall.com/card/dmc/37/orca-siege-demon?utm_source=api>`"
 msgstr ""
 
-#: ../../DMC.rst:197
+#: ../../DMC.rst:197 ../../DMC.rst:427 ../../DMC.rst:845
 msgid "Trample"
 msgstr "Tratowanie"
 
@@ -838,7 +841,7 @@ msgid ""
 "https://scryfall.com/card/dmc/39/ramses-assassin-lord?utm_source=api>`"
 msgstr ""
 
-#: ../../DMC.rst:211
+#: ../../DMC.rst:211 ../../DMC.rst:733
 msgid "Deathtouch"
 msgstr "Dotyk śmierci"
 
@@ -974,15 +977,15 @@ msgstr ""
 
 #: ../../DMC.rst:260
 msgid ""
-":mtgtip:`\"The Six-Fingered Man\"<https://c1.scryfall.com/file/scryfall-"
+":mtgtip:`Tobias, Doomed Conqueror<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/a/f/afcb1feb-e957-42e7-b05a-48f26bda7b76.jpg?"
-"1660926266|https://scryfall.com/card/dmc/45/the-six-fingered-man?"
+"1661391209|https://scryfall.com/card/dmc/45/tobias-doomed-conqueror?"
 "utm_source=api>`"
 msgstr ""
 
 #: ../../DMC.rst:259
 msgid ""
-"When \"The Six-Fingered Man\" dies, create a 2/2 black Zombie creature token "
+"When Tobias, Doomed Conqueror dies, create a 2/2 black Zombie creature token "
 "for each nontoken creature that died under your control this turn."
 msgstr ""
 
@@ -1046,12 +1049,127 @@ msgstr ""
 
 #: ../../DMC.rst:284
 msgid ""
+":mtgtip:`Anafenza, Kin-Tree Spirit<https://c1.scryfall.com/file/scryfall-"
+"cards/border_crop/front/5/b/5ba5e8b8-ce9d-450c-8804-2f8e2ef51ff0.jpg?"
+"1661387312|https://scryfall.com/card/dmc/97/anafenza-kin-tree-spirit?"
+"utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:283
+msgid ""
+"Whenever another nontoken creature enters the battlefield under your "
+"control, bolster 1. (Choose a creature with the least toughness among "
+"creatures you control and put a +1/+1 counter on it.)"
+msgstr ""
+
+#: ../../DMC.rst:294
+msgid ""
+":mtgtip:`The Circle of Loyalty<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/8/1/81910ade-a742-4ed7-ab15-bca95850f8b5.jpg?1661387339|"
+"https://scryfall.com/card/dmc/98/the-circle-of-loyalty?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:287
+msgid "This spell costs |mana_1| less to cast for each Knight you control."
+msgstr ""
+
+#: ../../DMC.rst:289
+#, fuzzy
+#| msgid "Other creatures you control have trample."
+msgid "Creatures you control get +1/+1."
+msgstr "Inne stwory pod twoim władaniem mają tratowanie."
+
+#: ../../DMC.rst:291
+msgid ""
+"Whenever you cast a legendary spell, create a 2/2 white Knight creature "
+"token with vigilance."
+msgstr ""
+
+#: ../../DMC.rst:293
+msgid ""
+"|mana_3|\\ |mana_w|, |tap|: Create a 2/2 white Knight creature token with "
+"vigilance."
+msgstr ""
+
+#: ../../DMC.rst:298
+msgid ""
+":mtgtip:`Day of Destiny<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/5/6/56b27e0c-bf8e-43d6-b99d-3e25d4954d34.jpg?1661387359|"
+"https://scryfall.com/card/dmc/99/day-of-destiny?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:297
+#, fuzzy
+#| msgid "Other creatures you control have trample."
+msgid "Legendary creatures you control get +2/+2."
+msgstr "Inne stwory pod twoim władaniem mają tratowanie."
+
+#: ../../DMC.rst:302
+msgid ""
+":mtgtip:`Generous Gift<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/1/8/18c2efbd-fac9-471b-98e2-a162704b193c.jpg?1661387381|"
+"https://scryfall.com/card/dmc/100/generous-gift?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:301
+msgid ""
+"Destroy target permanent. Its controller creates a 3/3 green Elephant "
+"creature token."
+msgstr ""
+
+#: ../../DMC.rst:306
+msgid ""
+":mtgtip:`Hero of Precinct One<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/4/5/4564f7b4-4fa3-40a3-88e8-2f1cfd15461c.jpg?1661387397|"
+"https://scryfall.com/card/dmc/101/hero-of-precinct-one?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:305
+msgid ""
+"Whenever you cast a multicolored spell, create a 1/1 white Human creature "
+"token."
+msgstr ""
+
+#: ../../DMC.rst:312
+msgid ""
+":mtgtip:`Jazal Goldmane<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/9/e/9eec64e1-a9c9-4a84-bf78-1d8bc5255a04.jpg?1661387412|"
+"https://scryfall.com/card/dmc/102/jazal-goldmane?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:309 ../../DMC.rst:389
+msgid "First strike"
+msgstr ""
+
+#: ../../DMC.rst:311
+msgid ""
+"|mana_3|\\ |mana_w|\\ |mana_w|: Attacking creatures you control get +X/+X "
+"until end of turn, where X is the number of attacking creatures."
+msgstr ""
+
+#: ../../DMC.rst:316
+msgid ""
+":mtgtip:`Odric, Lunarch Marshal<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/a/2/a2d5c9f2-8f58-40ac-a01c-f4ac4ab4d7f0.jpg?1661387443|"
+"https://scryfall.com/card/dmc/103/odric-lunarch-marshal?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:315
+msgid ""
+"At the beginning of each combat, creatures you control gain first strike "
+"until end of turn if a creature you control has first strike. The same is "
+"true for flying, deathtouch, double strike, haste, hexproof, indestructible, "
+"lifelink, menace, reach, skulk, trample, and vigilance."
+msgstr ""
+
+#: ../../DMC.rst:320
+msgid ""
 ":mtgtip:`Path to Exile<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/9/d/9d607a40-608a-44cd-b946-02636b5bea9f.jpg?1660936402|"
 "https://scryfall.com/card/dmc/104/path-to-exile?utm_source=api>`"
 msgstr ""
 
-#: ../../DMC.rst:283
+#: ../../DMC.rst:319
 msgid ""
 "Exile target creature. Its controller may search their library for a basic "
 "land card, put that card onto the battlefield tapped, then shuffle."
@@ -1060,53 +1178,759 @@ msgstr ""
 "kartę bazowego lądu, umieścić ją przekręconą na polu bitwy, po czym "
 "przetasować."
 
-#: ../../DMC.rst:290
+#: ../../DMC.rst:326
+msgid ""
+":mtgtip:`Teshar, Ancestor's Apostle<https://c1.scryfall.com/file/scryfall-"
+"cards/border_crop/front/0/e/0ec9ef7c-88de-4346-a8f9-44beda59fa68.jpg?"
+"1661387466|https://scryfall.com/card/dmc/105/teshar-ancestors-apostle?"
+"utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:325
+#, fuzzy
+#| msgid ""
+#| "Whenever this creature mutates, return any number of target creature "
+#| "cards with total power 10 or less from your graveyard to the battlefield."
+msgid ""
+"Whenever you cast a historic spell, return target creature card with mana "
+"value 3 or less from your graveyard to the battlefield. (Artifacts, "
+"legendaries, and Sagas are historic.)"
+msgstr ""
+"Ilekroć ten stwór mutuje, przywróć dowolną liczbę wskazanych kart stworów o "
+"łącznej sile 10 lub mniejszej z twojego cmentarza na pole bitwy."
+
+#: ../../DMC.rst:332
+msgid ""
+":mtgtip:`Unbreakable Formation<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/9/2/92b4cc4b-8906-4e4d-8f41-2819c66d753e.jpg?1661387487|"
+"https://scryfall.com/card/dmc/106/unbreakable-formation?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:329
+#, fuzzy
+#| msgid "Creature spells you control can't be countered."
+msgid "Creatures you control gain indestructible until end of turn."
+msgstr "Czary stworów pod twoim władaniem nie mogą być skontrowane."
+
+#: ../../DMC.rst:331
+msgid ""
+"Addendum — If you cast this spell during your main phase, put a +1/+1 "
+"counter on each of those creatures and they gain vigilance until end of turn."
+msgstr ""
+
+#: ../../DMC.rst:338
+msgid ""
+":mtgtip:`Urza's Ruinous Blast<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/b/9/b918993f-2a6c-490d-b639-224f15303630.jpg?1661387504|"
+"https://scryfall.com/card/dmc/107/urzas-ruinous-blast?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:335 ../../DMC.rst:655
+msgid ""
+"(You may cast a legendary sorcery only if you control a legendary creature "
+"or planeswalker.)"
+msgstr ""
+
+#: ../../DMC.rst:337
+msgid "Exile all nonland permanents that aren't legendary."
+msgstr ""
+
+#: ../../DMC.rst:342
+msgid ""
+":mtgtip:`Zetalpa, Primal Dawn<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/7/7/77bcb902-70c0-4406-bbcf-49d23fd71a68.jpg?1661387528|"
+"https://scryfall.com/card/dmc/108/zetalpa-primal-dawn?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:341
+msgid "Flying, double strike, vigilance, trample, indestructible"
+msgstr ""
+
+#: ../../DMC.rst:346
+msgid ""
+":mtgtip:`Echoing Truth<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/5/d/5d987d26-c8e8-4edf-8ac0-6a2980265710.jpg?1661387548|"
+"https://scryfall.com/card/dmc/109/echoing-truth?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:345
+msgid ""
+"Return target nonland permanent and all other permanents with the same name "
+"as that permanent to their owners' hands."
+msgstr ""
+
+#: ../../DMC.rst:350
+msgid ""
+":mtgtip:`Ambition's Cost<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/2/3/2341686a-1b75-431a-8c89-d723ce3a867f.jpg?1661387576|"
+"https://scryfall.com/card/dmc/110/ambitions-cost?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:349
+msgid "You draw three cards and you lose 3 life."
+msgstr ""
+
+#: ../../DMC.rst:356
+msgid ""
+":mtgtip:`Drana, Liberator of Malakir<https://c1.scryfall.com/file/scryfall-"
+"cards/border_crop/front/d/b/dbee85f6-a880-49ce-8139-5c439a202821.jpg?"
+"1661387601|https://scryfall.com/card/dmc/111/drana-liberator-of-malakir?"
+"utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:353
+#, fuzzy
+#| msgid "Flying, haste"
+msgid "Flying, first strike"
+msgstr "Latanie, pośpiech"
+
+#: ../../DMC.rst:355
+msgid ""
+"Whenever Drana, Liberator of Malakir deals combat damage to a player, put a "
+"+1/+1 counter on each attacking creature you control."
+msgstr ""
+
+#: ../../DMC.rst:360
+msgid ""
+":mtgtip:`Hero's Downfall<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/3/3/33c5f81a-395d-41bf-9563-6cf0e406ee18.jpg?1661387618|"
+"https://scryfall.com/card/dmc/112/heros-downfall?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:359
+#, fuzzy
+#| msgid "Destroy target artifact or enchantment."
+msgid "Destroy target creature or planeswalker."
+msgstr "Zniszcz wskazany artefakt lub urok."
+
+#: ../../DMC.rst:368
+msgid ""
+":mtgtip:`Josu Vess, Lich Knight<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/0/b/0beb8de5-e54d-4642-b2e4-0e3ffbaa2435.jpg?1661387638|"
+"https://scryfall.com/card/dmc/113/josu-vess-lich-knight?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:363
+msgid ""
+"Kicker |mana_5|\\ |mana_b| (You may pay an additional |mana_5|\\ |mana_b| as "
+"you cast this spell.)"
+msgstr ""
+
+#: ../../DMC.rst:367
+msgid ""
+"When Josu Vess, Lich Knight enters the battlefield, if it was kicked, create "
+"eight 2/2 black Zombie Knight creature tokens with menace."
+msgstr ""
+
+#: ../../DMC.rst:374
+msgid ""
+":mtgtip:`Kothophed, Soul Hoarder<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/a/1/a1070dd6-944f-44a0-8834-02eae93dabaa.jpg?1661387663|"
+"https://scryfall.com/card/dmc/114/kothophed-soul-hoarder?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:373
+msgid ""
+"Whenever a permanent owned by another player is put into a graveyard from "
+"the battlefield, you draw a card and you lose 1 life."
+msgstr ""
+
+#: ../../DMC.rst:378
+msgid ""
+":mtgtip:`Night's Whisper<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/2/a/2a16686d-a4eb-46c4-98a9-dcc87b89872e.jpg?1661387679|"
+"https://scryfall.com/card/dmc/115/nights-whisper?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:377 ../../DMC.rst:499
+msgid "You draw two cards and you lose 2 life."
+msgstr ""
+
+#: ../../DMC.rst:382
+msgid ""
+":mtgtip:`Painful Truths<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/5/8/58a9c908-dba1-4a3d-bcb7-c3e22dc5c9d3.jpg?1661387698|"
+"https://scryfall.com/card/dmc/116/painful-truths?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:381
+msgid ""
+"Converge — You draw X cards and you lose X life, where X is the number of "
+"colors of mana spent to cast this spell."
+msgstr ""
+
+#: ../../DMC.rst:386
+msgid ""
+":mtgtip:`Read the Bones<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/e/f/ef841309-60fa-4956-bc3f-dcf1ef55de94.jpg?1661387716|"
+"https://scryfall.com/card/dmc/117/read-the-bones?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:385
+msgid "Scry 2, then draw two cards. You lose 2 life."
+msgstr ""
+
+#: ../../DMC.rst:392
+msgid ""
+":mtgtip:`Alesha, Who Smiles at Death<https://c1.scryfall.com/file/scryfall-"
+"cards/border_crop/front/7/a/7ae9ff8c-1cc8-4b10-9641-2c79648fd6c2.jpg?"
+"1661390722|https://scryfall.com/card/dmc/118/alesha-who-smiles-at-death?"
+"utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:391
+#, fuzzy
+#| msgid ""
+#| "Whenever this creature mutates, return any number of target creature "
+#| "cards with total power 10 or less from your graveyard to the battlefield."
+msgid ""
+"Whenever Alesha, Who Smiles at Death attacks, you may pay |mana_wb|\\ |"
+"mana_wb|. If you do, return target creature card with power 2 or less from "
+"your graveyard to the battlefield tapped and attacking."
+msgstr ""
+"Ilekroć ten stwór mutuje, przywróć dowolną liczbę wskazanych kart stworów o "
+"łącznej sile 10 lub mniejszej z twojego cmentarza na pole bitwy."
+
+#: ../../DMC.rst:396
+msgid ""
+":mtgtip:`Ashling the Pilgrim<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/b/6/b60633ed-6428-4672-9497-9a17f823b981.jpg?1661390737|"
+"https://scryfall.com/card/dmc/119/ashling-the-pilgrim?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:395
+msgid ""
+"|mana_1|\\ |mana_r|: Put a +1/+1 counter on Ashling the Pilgrim. If this is "
+"the third time this ability has resolved this turn, remove all +1/+1 "
+"counters from Ashling the Pilgrim, and it deals that much damage to each "
+"creature and each player."
+msgstr ""
+
+#: ../../DMC.rst:404
+msgid ""
+":mtgtip:`Captain Lannery Storm<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/9/8/98a2cd4c-f02e-4a5e-a5f5-1aad52132b90.jpg?1661390754|"
+"https://scryfall.com/card/dmc/120/captain-lannery-storm?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:401
+msgid ""
+"Whenever Captain Lannery Storm attacks, create a Treasure token. (It's an "
+"artifact with \"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
+msgstr ""
+
+#: ../../DMC.rst:403
+msgid ""
+"Whenever you sacrifice a Treasure, Captain Lannery Storm gets +1/+0 until "
+"end of turn."
+msgstr ""
+
+#: ../../DMC.rst:408
+msgid ""
+":mtgtip:`Etali, Primal Storm<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/a/0/a03fb3a7-3ef6-4162-aad2-82610492aa72.jpg?1661390776|"
+"https://scryfall.com/card/dmc/121/etali-primal-storm?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:407
+msgid ""
+"Whenever Etali, Primal Storm attacks, exile the top card of each player's "
+"library, then you may cast any number of spells from among those cards "
+"without paying their mana costs."
+msgstr ""
+
+#: ../../DMC.rst:414
+msgid ""
+":mtgtip:`Faithless Looting<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/8/4/84c3b38c-a6f7-49a2-8c47-d91b6be0a967.jpg?1661390795|"
+"https://scryfall.com/card/dmc/122/faithless-looting?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:411
+msgid "Draw two cards, then discard two cards."
+msgstr ""
+
+#: ../../DMC.rst:413
+msgid ""
+"Flashback |mana_2|\\ |mana_r| (You may cast this card from your graveyard "
+"for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../DMC.rst:420
+msgid ""
+":mtgtip:`Kari Zev, Skyship Raider<https://c1.scryfall.com/file/scryfall-"
+"cards/border_crop/front/5/2/52de8af2-d260-42a8-b8c2-b26b392632d1.jpg?"
+"1661390817|https://scryfall.com/card/dmc/123/kari-zev-skyship-raider?"
+"utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:417
+msgid "First strike, menace"
+msgstr ""
+
+#: ../../DMC.rst:419
+msgid ""
+"Whenever Kari Zev, Skyship Raider attacks, create Ragavan, a legendary 2/1 "
+"red Monkey creature token. Ragavan enters the battlefield tapped and "
+"attacking. Exile that token at end of combat."
+msgstr ""
+
+#: ../../DMC.rst:424
+msgid ""
+":mtgtip:`Krenko, Tin Street Kingpin<https://c1.scryfall.com/file/scryfall-"
+"cards/border_crop/front/3/4/3425e774-2b71-46be-9f58-9cbc121384cd.jpg?"
+"1661390837|https://scryfall.com/card/dmc/124/krenko-tin-street-kingpin?"
+"utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:423
+msgid ""
+"Whenever Krenko, Tin Street Kingpin attacks, put a +1/+1 counter on it, then "
+"create a number of 1/1 red Goblin creature tokens equal to Krenko's power."
+msgstr ""
+
+#: ../../DMC.rst:430
+msgid ""
+":mtgtip:`Neheb, Dreadhorde Champion<https://c1.scryfall.com/file/scryfall-"
+"cards/border_crop/front/a/8/a8cbc3ba-f552-43fd-a59b-f3d8e3edd12f.jpg?"
+"1661390856|https://scryfall.com/card/dmc/125/neheb-dreadhorde-champion?"
+"utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:429
+msgid ""
+"Whenever Neheb, Dreadhorde Champion deals combat damage to a player or "
+"planeswalker, you may discard any number of cards. If you do, draw that many "
+"cards and add that much |mana_r|. Until end of turn, you don't lose this "
+"mana as steps and phases end."
+msgstr ""
+
+#: ../../DMC.rst:434
+msgid ""
+":mtgtip:`Radiant Flames<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/e/8/e80455ca-f23c-44da-b191-c3b12a9c546f.jpg?1661390877|"
+"https://scryfall.com/card/dmc/126/radiant-flames?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:433
+msgid ""
+"Converge — Radiant Flames deals X damage to each creature, where X is the "
+"number of colors of mana spent to cast this spell."
+msgstr ""
+
+#: ../../DMC.rst:440
 msgid ""
 ":mtgtip:`Thrill of Possibility<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/9/7/9752ed44-dc5e-4f73-9422-c1d267b60a3c.jpg?1660927483|"
 "https://scryfall.com/card/dmc/127/thrill-of-possibility?utm_source=api>`"
 msgstr ""
 
-#: ../../DMC.rst:287
+#: ../../DMC.rst:437
 msgid "As an additional cost to cast this spell, discard a card."
 msgstr "Jako dodatkowy koszt rzucenia tego czaru — odrzuć kartę."
 
-#: ../../DMC.rst:289
+#: ../../DMC.rst:439
 msgid "Draw two cards."
 msgstr "Dobierz dwie karty."
 
-#: ../../DMC.rst:296
+#: ../../DMC.rst:448
+msgid ""
+":mtgtip:`Abundant Growth<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/6/d/6dba2d06-13af-464d-b007-9027cade1cdf.jpg?1661390916|"
+"https://scryfall.com/card/dmc/128/abundant-growth?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:443
+msgid "Enchant land"
+msgstr ""
+
+#: ../../DMC.rst:445
+#, fuzzy
+#| msgid "When Baleful Strix enters the battlefield, draw a card."
+msgid "When Abundant Growth enters the battlefield, draw a card."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+
+#: ../../DMC.rst:447
+msgid "Enchanted land has \"|tap|: Add one mana of any color.\""
+msgstr ""
+
+#: ../../DMC.rst:452
+msgid ""
+":mtgtip:`Beast Within<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/5/1/518e4f19-04c4-4829-980b-a2052e9f11b9.jpg?1661390936|"
+"https://scryfall.com/card/dmc/129/beast-within?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:451
+msgid ""
+"Destroy target permanent. Its controller creates a 3/3 green Beast creature "
+"token."
+msgstr ""
+
+#: ../../DMC.rst:456
+msgid ""
+":mtgtip:`Cultivate<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/6/d/6d204fda-c4c4-456c-900a-a67fa9ce3b5d.jpg?1661390955|https://"
+"scryfall.com/card/dmc/130/cultivate?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:455 ../../DMC.rst:473
+#, fuzzy
+#| msgid ""
+#| "Exile target creature. Its controller may search their library for a "
+#| "basic land card, put that card onto the battlefield tapped, then shuffle."
+msgid ""
+"Search your library for up to two basic land cards, reveal those cards, put "
+"one onto the battlefield tapped and the other into your hand, then shuffle."
+msgstr ""
+"Wygnaj wskazanego stwora. Jego władca możesz wyszukać w swojej bibliotece "
+"kartę bazowego lądu, umieścić ją przekręconą na polu bitwy, po czym "
+"przetasować."
+
+#: ../../DMC.rst:462
+msgid ""
+":mtgtip:`Explore<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/f/5/f55b5e21-decb-4b77-99d8-83cb7b433fda.jpg?1661390988|https://"
+"scryfall.com/card/dmc/131/explore?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:459
+msgid "You may play an additional land this turn."
+msgstr ""
+
+#: ../../DMC.rst:461
+#, fuzzy
+#| msgid "Draw two cards."
+msgid "Draw a card."
+msgstr "Dobierz dwie karty."
+
+#: ../../DMC.rst:466
+msgid ""
+":mtgtip:`Explosive Vegetation<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/0/1/015d9a5b-03a2-4341-90cc-e5be5b5fbc34.jpg?1661391008|"
+"https://scryfall.com/card/dmc/132/explosive-vegetation?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:465 ../../DMC.rst:477
+#, fuzzy
+#| msgid ""
+#| "Exile target creature. Its controller may search their library for a "
+#| "basic land card, put that card onto the battlefield tapped, then shuffle."
+msgid ""
+"Search your library for up to two basic land cards, put them onto the "
+"battlefield tapped, then shuffle."
+msgstr ""
+"Wygnaj wskazanego stwora. Jego władca możesz wyszukać w swojej bibliotece "
+"kartę bazowego lądu, umieścić ją przekręconą na polu bitwy, po czym "
+"przetasować."
+
+#: ../../DMC.rst:470
+msgid ""
+":mtgtip:`Farseek<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/3/d/3dbd7f11-01d2-4bb1-9f49-dd72d1afb3e5.jpg?1661391029|https://"
+"scryfall.com/card/dmc/133/farseek?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:469
+#, fuzzy
+#| msgid ""
+#| "|tap|, Sacrifice Bad River: Search your library for an Island or Swamp "
+#| "card, put it onto the battlefield, then shuffle."
+msgid ""
+"Search your library for a Plains, Island, Swamp, or Mountain card, put it "
+"onto the battlefield tapped, then shuffle."
+msgstr ""
+"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę Wyspy lub Bagna, "
+"umieść ją na polu bitwy, po czym przetasuj."
+
+#: ../../DMC.rst:474
+msgid ""
+":mtgtip:`Kodama's Reach<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/3/5/35edb95a-a293-45bc-bee8-9ce3000aa013.jpg?1661391049|"
+"https://scryfall.com/card/dmc/134/kodamas-reach?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:480
+msgid ""
+":mtgtip:`Migration Path<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/b/9/b989270b-22d0-4af0-9425-0a82b5e86059.jpg?1661391069|"
+"https://scryfall.com/card/dmc/135/migration-path?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:479
+msgid "Cycling |mana_2| (|mana_2|, Discard this card: Draw a card.)"
+msgstr ""
+
+#: ../../DMC.rst:486
+msgid ""
+":mtgtip:`Path to the World Tree<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/2/4/24d6c178-ee0d-4907-bf6b-12b845bceaeb.jpg?1661391085|"
+"https://scryfall.com/card/dmc/136/path-to-the-world-tree?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:483
+msgid ""
+"When Path to the World Tree enters the battlefield, search your library for "
+"a basic land card, reveal it, put it into your hand, then shuffle."
+msgstr ""
+
+#: ../../DMC.rst:485
+msgid ""
+"|mana_2|\\ |mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|, Sacrifice "
+"Path to the World Tree: You gain 2 life and draw two cards. Target opponent "
+"loses 2 life. Path to the World Tree deals 2 damage to up to one target "
+"creature. You create a 2/2 green Bear creature token."
+msgstr ""
+
+#: ../../DMC.rst:492
+msgid ""
+":mtgtip:`Search for Tomorrow<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/4/a/4a0c73a9-38a2-4a3d-938e-b81ba166f0ff.jpg?1661391106|"
+"https://scryfall.com/card/dmc/137/search-for-tomorrow?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:489
+#, fuzzy
+#| msgid ""
+#| "|tap|, Sacrifice Bad River: Search your library for an Island or Swamp "
+#| "card, put it onto the battlefield, then shuffle."
+msgid ""
+"Search your library for a basic land card, put it onto the battlefield, then "
+"shuffle."
+msgstr ""
+"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę Wyspy lub Bagna, "
+"umieść ją na polu bitwy, po czym przetasuj."
+
+#: ../../DMC.rst:491
+msgid ""
+"Suspend 2—|mana_g| (Rather than cast this card from your hand, you may pay |"
+"mana_g| and exile it with two time counters on it. At the beginning of your "
+"upkeep, remove a time counter. When the last is removed, cast it without "
+"paying its mana cost.)"
+msgstr ""
+
+#: ../../DMC.rst:502
+msgid ""
+":mtgtip:`Abzan Charm<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/b/d/bd5b386e-e71e-492d-8456-6cd178ef5b3d.jpg?1661391265|https://"
+"scryfall.com/card/dmc/138/abzan-charm?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:495 ../../DMC.rst:615 ../../DMC.rst:631 ../../DMC.rst:673
+msgid "Choose one —"
+msgstr ""
+
+#: ../../DMC.rst:497
+msgid "Exile target creature with power 3 or greater."
+msgstr ""
+
+#: ../../DMC.rst:501
+msgid "Distribute two +1/+1 counters among one or two target creatures."
+msgstr ""
+
+#: ../../DMC.rst:508
+msgid ""
+":mtgtip:`Adriana, Captain of the Guard<https://c1.scryfall.com/file/scryfall-"
+"cards/border_crop/front/0/1/01c2337d-1c3c-4c5e-8b06-dc8a8c56164e.jpg?"
+"1661391282|https://scryfall.com/card/dmc/139/adriana-captain-of-the-guard?"
+"utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:505
+msgid ""
+"Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for "
+"each opponent you attacked this combat.)"
+msgstr ""
+
+#: ../../DMC.rst:507
+msgid ""
+"Other creatures you control have melee. (If a creature has multiple "
+"instances of melee, each triggers separately.)"
+msgstr ""
+
+#: ../../DMC.rst:514
+msgid ""
+":mtgtip:`Archelos, Lagoon Mystic<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/d/4/d45ec78e-6190-46af-8057-834f5ca41ec8.jpg?1661391307|"
+"https://scryfall.com/card/dmc/140/archelos-lagoon-mystic?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:511
+msgid ""
+"As long as Archelos, Lagoon Mystic is tapped, other permanents enter the "
+"battlefield tapped."
+msgstr ""
+
+#: ../../DMC.rst:513
+msgid ""
+"As long as Archelos is untapped, other permanents enter the battlefield "
+"untapped."
+msgstr ""
+
+#: ../../DMC.rst:520
+msgid ""
+":mtgtip:`Arvad the Cursed<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/3/b/3b85ed69-bb0b-477b-8600-b2e7f3c95ce4.jpg?1661391327|"
+"https://scryfall.com/card/dmc/141/arvad-the-cursed?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:517 ../../DMC.rst:643
+msgid "Deathtouch, lifelink"
+msgstr "Dotyk śmierci, więź życia"
+
+#: ../../DMC.rst:519
+#, fuzzy
+#| msgid "Other creatures you control have trample."
+msgid "Other legendary creatures you control get +2/+2."
+msgstr "Inne stwory pod twoim władaniem mają tratowanie."
+
+#: ../../DMC.rst:526
+msgid ""
+":mtgtip:`Atla Palani, Nest Tender<https://c1.scryfall.com/file/scryfall-"
+"cards/border_crop/front/2/b/2b8414f7-22c3-4e1c-934b-4a0e7acf951d.jpg?"
+"1661391343|https://scryfall.com/card/dmc/142/atla-palani-nest-tender?"
+"utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:523
+msgid "|mana_2|, |tap|: Create a 0/1 green Egg creature token with defender."
+msgstr ""
+
+#: ../../DMC.rst:525
+#, fuzzy
+#| msgid ""
+#| "The first spell you cast each turn has cascade. (When you cast your first "
+#| "spell, exile cards from the top of your library until you exile a nonland "
+#| "card that costs less. You may cast it without paying its mana cost. Put "
+#| "the exiled cards on the bottom of your library in a random order.)"
+msgid ""
+"Whenever an Egg you control dies, reveal cards from the top of your library "
+"until you reveal a creature card. Put that card onto the battlefield and the "
+"rest on the bottom of your library in a random order."
+msgstr ""
+"Pierwszy czar rzucony przez cienie w danej turze ma kaskadę. (Kiedy rzucisz "
+"swój pierwszy czar, wyganiaj karty z wierzchu twojej biblioteki aż wygnasz "
+"nie-lądową kartę o niższym koszcie. Możesz rzucić ową kartę bez płacenia jej "
+"kosztu many. Umieść wygnane karty losowo na spodzie twojej biblioteki.)"
+
+#: ../../DMC.rst:532
 msgid ""
 ":mtgtip:`Baleful Strix<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/b/4/b451783a-8824-4eeb-8fd6-c9290ce7ccdb.jpg?1660936449|"
+"border_crop/front/b/4/b451783a-8824-4eeb-8fd6-c9290ce7ccdb.jpg?1661391365|"
 "https://scryfall.com/card/dmc/143/baleful-strix?utm_source=api>`"
 msgstr ""
 
-#: ../../DMC.rst:293
+#: ../../DMC.rst:529
 msgid "Flying, deathtouch"
 msgstr "Latanie, dotyk śmierci"
 
-#: ../../DMC.rst:295
+#: ../../DMC.rst:531
 msgid "When Baleful Strix enters the battlefield, draw a card."
 msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
-#: ../../DMC.rst:304
+#: ../../DMC.rst:536
+msgid ""
+":mtgtip:`Bedevil<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/f/c/fc81669c-af6e-4af4-b1eb-43ff7fdda590.jpg?1661391391|https://"
+"scryfall.com/card/dmc/144/bedevil?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:535
+#, fuzzy
+#| msgid "Destroy target artifact or enchantment."
+msgid "Destroy target artifact, creature, or planeswalker."
+msgstr "Zniszcz wskazany artefakt lub urok."
+
+#: ../../DMC.rst:544
+msgid ""
+":mtgtip:`Bell Borca, Spectral Sergeant<https://c1.scryfall.com/file/scryfall-"
+"cards/border_crop/front/4/f/4fdcd559-477f-48cb-a221-23a653b0dde1.jpg?"
+"1661391418|https://scryfall.com/card/dmc/145/bell-borca-spectral-sergeant?"
+"utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:539
+msgid "Note the mana value of each card as it's put into exile."
+msgstr ""
+
+#: ../../DMC.rst:541
+msgid ""
+"Bell Borca, Spectral Sergeant's power is equal to the greatest number noted "
+"for it this turn."
+msgstr ""
+
+#: ../../DMC.rst:543
+msgid ""
+"At the beginning of your upkeep, exile the top card of your library. You may "
+"play that card this turn."
+msgstr ""
+
+#: ../../DMC.rst:552
+msgid ""
+":mtgtip:`Chromanticore<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/f/1/f1182463-348b-45b3-a662-68f06ac53699.jpg?1661391436|"
+"https://scryfall.com/card/dmc/146/chromanticore?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:547
+msgid ""
+"Bestow |mana_2|\\ |mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g| (If "
+"you cast this card for its bestow cost, it's an Aura spell with enchant "
+"creature. It becomes a creature again if it's not attached to a creature.)"
+msgstr ""
+
+#: ../../DMC.rst:549
+msgid "Flying, first strike, vigilance, trample, lifelink"
+msgstr ""
+
+#: ../../DMC.rst:551
+msgid ""
+"Enchanted creature gets +4/+4 and has flying, first strike, vigilance, "
+"trample, and lifelink."
+msgstr ""
+
+#: ../../DMC.rst:556
+msgid ""
+":mtgtip:`Coiling Oracle<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/0/4/04741224-4974-4828-b005-cfaafaef9b76.jpg?1661391453|"
+"https://scryfall.com/card/dmc/147/coiling-oracle?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:555
+msgid ""
+"When Coiling Oracle enters the battlefield, reveal the top card of your "
+"library. If it's a land card, put it onto the battlefield. Otherwise, put "
+"that card into your hand."
+msgstr ""
+
+#: ../../DMC.rst:560
+msgid ""
+":mtgtip:`Duneblast<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/4/a/4a38e37b-d458-402a-8b36-13a0e0a115ce.jpg?1661391480|https://"
+"scryfall.com/card/dmc/148/duneblast?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:559
+msgid "Choose up to one creature. Destroy the rest."
+msgstr ""
+
+#: ../../DMC.rst:568
 msgid ""
 ":mtgtip:`Faeburrow Elder<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/c/8/c817cf1f-c0fe-49ab-a8e9-1d09b4c15e57.jpg?1660936357|"
 "https://scryfall.com/card/dmc/149/faeburrow-elder?utm_source=api>`"
 msgstr ""
 
-#: ../../DMC.rst:299
+#: ../../DMC.rst:563
 msgid "Vigilance"
 msgstr "Czujność"
 
-#: ../../DMC.rst:301
+#: ../../DMC.rst:565
 msgid "Faeburrow Elder gets +1/+1 for each color among permanents you control."
 msgstr ""
 "Ten stwór dostaje +1/+1 za każdy kolor spośród bytów pod twoim władaniem."
 
-#: ../../DMC.rst:303
+#: ../../DMC.rst:567
 msgid ""
 "|tap|: For each color among permanents you control, add one mana of that "
 "color."
@@ -1114,14 +1938,122 @@ msgstr ""
 "|tap|: Za każdy kolor spośród bytów pod twoim władaniem, weź jedną manę "
 "owego koloru."
 
-#: ../../DMC.rst:308
+#: ../../DMC.rst:570
+msgid ""
+":mtgtip:`Fusion Elemental<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/c/8/c8ab1550-0cd3-4dc9-82c2-121615f2ceee.jpg?1661391496|"
+"https://scryfall.com/card/dmc/150/fusion-elemental?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:580
+msgid ""
+":mtgtip:`Garna, the Bloodflame<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/7/3/732797d3-59e1-4fff-bcf0-22c2606a7a5f.jpg?1661391515|"
+"https://scryfall.com/card/dmc/151/garna-the-bloodflame?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:577
+msgid ""
+"When Garna, the Bloodflame enters the battlefield, return to your hand all "
+"creature cards in your graveyard that were put there from anywhere this turn."
+msgstr ""
+
+#: ../../DMC.rst:579
+#, fuzzy
+#| msgid "Other creatures you control have trample."
+msgid "Other creatures you control have haste."
+msgstr "Inne stwory pod twoim władaniem mają tratowanie."
+
+#: ../../DMC.rst:586
+msgid ""
+":mtgtip:`Glint-Eye Nephilim<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/a/4/a4f00d2b-d616-455a-bf9b-5bd82b690121.jpg?1661391536|"
+"https://scryfall.com/card/dmc/152/glint-eye-nephilim?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:583
+msgid ""
+"Whenever Glint-Eye Nephilim deals combat damage to a player, draw that many "
+"cards."
+msgstr ""
+
+#: ../../DMC.rst:585
+msgid ""
+"|mana_1|, Discard a card: Glint-Eye Nephilim gets +1/+1 until end of turn."
+msgstr ""
+
+#: ../../DMC.rst:590
+msgid ""
+":mtgtip:`Growth Spiral<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/7/d/7d0ae655-c64e-470d-a7ae-e06b89c77e57.jpg?1661391553|"
+"https://scryfall.com/card/dmc/153/growth-spiral?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:589
+msgid ""
+"Draw a card. You may put a land card from your hand onto the battlefield."
+msgstr ""
+
+#: ../../DMC.rst:594
+msgid ""
+":mtgtip:`Kaya's Wrath<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/2/0/20adee32-2144-44ad-a70c-ebfbda0900ec.jpg?1661391575|"
+"https://scryfall.com/card/dmc/155/kayas-wrath?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:593
+msgid ""
+"Destroy all creatures. You gain life equal to the number of creatures you "
+"controlled that were destroyed this way."
+msgstr ""
+
+#: ../../DMC.rst:598
+msgid ""
+":mtgtip:`Knight of New Alara<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/1/0/10076adb-8bd2-4a65-9ee6-192ecd79cc2b.jpg?1661391594|"
+"https://scryfall.com/card/dmc/156/knight-of-new-alara?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:597
+msgid ""
+"Each other multicolored creature you control gets +1/+1 for each of its "
+"colors."
+msgstr ""
+
+#: ../../DMC.rst:602
+msgid ""
+":mtgtip:`Lavalanche<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/e/3/e3a3b450-d988-40cb-a1ee-8b00ccdf5071.jpg?1661391621|https://"
+"scryfall.com/card/dmc/157/lavalanche?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:601
+msgid ""
+"Lavalanche deals X damage to target player or planeswalker and each creature "
+"that player or that planeswalker's controller controls."
+msgstr ""
+
+#: ../../DMC.rst:608
+msgid ""
+":mtgtip:`Maelstrom Archangel<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/9/5/95ea2a05-207d-4330-bcbe-bcaacd6657f4.jpg?1661391639|"
+"https://scryfall.com/card/dmc/158/maelstrom-archangel?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:607
+msgid ""
+"Whenever Maelstrom Archangel deals combat damage to a player, you may cast a "
+"spell from your hand without paying its mana cost."
+msgstr ""
+
+#: ../../DMC.rst:612
 msgid ""
 ":mtgtip:`Maelstrom Nexus<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/a/3/a3107767-6c36-4982-8e0d-e100d5fca204.jpg?1660936358|"
 "https://scryfall.com/card/dmc/159/maelstrom-nexus?utm_source=api>`"
 msgstr ""
 
-#: ../../DMC.rst:307
+#: ../../DMC.rst:611
 msgid ""
 "The first spell you cast each turn has cascade. (When you cast your first "
 "spell, exile cards from the top of your library until you exile a nonland "
@@ -1133,14 +2065,71 @@ msgstr ""
 "nie-lądową kartę o niższym koszcie. Możesz rzucić ową kartę bez płacenia jej "
 "kosztu many. Umieść wygnane karty losowo na spodzie twojej biblioteki.)"
 
-#: ../../DMC.rst:316
+#: ../../DMC.rst:624
+msgid ""
+":mtgtip:`Merciless Eviction<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/1/d/1d395707-4e6d-4e2c-b977-d9b8c0c9eb80.jpg?1661391664|"
+"https://scryfall.com/card/dmc/160/merciless-eviction?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:617
+msgid "Exile all artifacts."
+msgstr ""
+
+#: ../../DMC.rst:619
+msgid "Exile all creatures."
+msgstr ""
+
+#: ../../DMC.rst:621
+msgid "Exile all enchantments."
+msgstr ""
+
+#: ../../DMC.rst:623
+#, fuzzy
+#| msgid "Exile target player's graveyard."
+msgid "Exile all planeswalkers."
+msgstr "Wygnaj cmentarz wskazanego gracza."
+
+#: ../../DMC.rst:628
+msgid ""
+":mtgtip:`Mortify<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/f/f/ff33c675-04cb-429d-8568-57487edee25e.jpg?1661391682|https://"
+"scryfall.com/card/dmc/161/mortify?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:627
+#, fuzzy
+#| msgid "Destroy target artifact or enchantment."
+msgid "Destroy target creature or enchantment."
+msgstr "Zniszcz wskazany artefakt lub urok."
+
+#: ../../DMC.rst:638
+msgid ""
+":mtgtip:`Naya Charm<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/c/e/ce1d6f9b-2ca8-48b8-b4a6-46a61c7c3905.jpg?1661391699|https://"
+"scryfall.com/card/dmc/162/naya-charm?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:633
+msgid "Naya Charm deals 3 damage to target creature."
+msgstr ""
+
+#: ../../DMC.rst:635
+msgid "Return target card from a graveyard to its owner's hand."
+msgstr ""
+
+#: ../../DMC.rst:637
+msgid "Tap all creatures target player controls."
+msgstr ""
+
+#: ../../DMC.rst:646
 msgid ""
 ":mtgtip:`Nethroi, Apex of Death<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/0/4/04b9b58f-4c01-48a5-afaf-b8a37165a83f.jpg?1660936437|"
 "https://scryfall.com/card/dmc/163/nethroi-apex-of-death?utm_source=api>`"
 msgstr ""
 
-#: ../../DMC.rst:311
+#: ../../DMC.rst:641
 msgid ""
 "Mutate |mana_4|\\ |mana_gw|\\ |mana_b|\\ |mana_b| (If you cast this spell "
 "for its mutate cost, put it over or under target non-Human creature you own. "
@@ -1151,11 +2140,7 @@ msgstr ""
 "władaniem bez typu Człowiek. Mutują one w stwora na wierzchu mającym "
 "wszystkie zdolności spod niego.)"
 
-#: ../../DMC.rst:313
-msgid "Deathtouch, lifelink"
-msgstr "Dotyk śmierci, więź życia"
-
-#: ../../DMC.rst:315
+#: ../../DMC.rst:645
 msgid ""
 "Whenever this creature mutates, return any number of target creature cards "
 "with total power 10 or less from your graveyard to the battlefield."
@@ -1163,7 +2148,7 @@ msgstr ""
 "Ilekroć ten stwór mutuje, przywróć dowolną liczbę wskazanych kart stworów o "
 "łącznej sile 10 lub mniejszej z twojego cmentarza na pole bitwy."
 
-#: ../../DMC.rst:322
+#: ../../DMC.rst:652
 msgid ""
 ":mtgtip:`O-Kagachi, Vengeful Kami<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/0/7/07a42ae6-c2ca-4028-a364-70c19ce125b3.jpg?"
@@ -1171,11 +2156,11 @@ msgid ""
 "utm_source=api>`"
 msgstr ""
 
-#: ../../DMC.rst:319
+#: ../../DMC.rst:649
 msgid "Flying, trample"
 msgstr "Latanie, tratowanie"
 
-#: ../../DMC.rst:321
+#: ../../DMC.rst:651
 msgid ""
 "Whenever O-Kagachi, Vengeful Kami deals combat damage to a player, if that "
 "player attacked you during their last turn, exile target nonland permanent "
@@ -1185,37 +2170,592 @@ msgstr ""
 "ciebie w swojej poprzedniej turze, wygnaj wskazany nielądowy byt pod "
 "władaniem owego gracza."
 
-#: ../../DMC.rst:332
+#: ../../DMC.rst:658
+msgid ""
+":mtgtip:`Primevals' Glorious Rebirth<https://c1.scryfall.com/file/scryfall-"
+"cards/border_crop/front/e/1/e11471f9-6bf4-4b31-8eb6-f5f9e8abd797.jpg?"
+"1661391724|https://scryfall.com/card/dmc/165/primevals-glorious-rebirth?"
+"utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:657
+msgid ""
+"Return all legendary permanent cards from your graveyard to the battlefield."
+msgstr ""
+
+#: ../../DMC.rst:666
+msgid ""
+":mtgtip:`Rienne, Angel of Rebirth<https://c1.scryfall.com/file/scryfall-"
+"cards/border_crop/front/7/8/78660bdf-0edb-4fd0-a737-1c95f93cced1.jpg?"
+"1661391741|https://scryfall.com/card/dmc/166/rienne-angel-of-rebirth?"
+"utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:663
+#, fuzzy
+#| msgid "Other creatures you control have trample."
+msgid "Other multicolored creatures you control get +1/+0."
+msgstr "Inne stwory pod twoim władaniem mają tratowanie."
+
+#: ../../DMC.rst:665
+msgid ""
+"Whenever another multicolored creature you control dies, return it to its "
+"owner's hand at the beginning of the next end step."
+msgstr ""
+
+#: ../../DMC.rst:670
+msgid ""
+":mtgtip:`Selvala, Explorer Returned<https://c1.scryfall.com/file/scryfall-"
+"cards/border_crop/front/b/d/bd39ebe5-2725-4cfb-8a94-54e71d55e8b3.jpg?"
+"1661391766|https://scryfall.com/card/dmc/167/selvala-explorer-returned?"
+"utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:669
+msgid ""
+"Parley — |tap|: Each player reveals the top card of their library. For each "
+"nonland card revealed this way, add |mana_g| and you gain 1 life. Then each "
+"player draws a card."
+msgstr ""
+
+#: ../../DMC.rst:680
+msgid ""
+":mtgtip:`Sultai Charm<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/7/2/72af6c1f-33a0-4e02-95b7-74ecaa6a6d87.jpg?1661391783|"
+"https://scryfall.com/card/dmc/168/sultai-charm?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:675
+#, fuzzy
+#| msgid "Destroy target artifact or enchantment."
+msgid "Destroy target monocolored creature."
+msgstr "Zniszcz wskazany artefakt lub urok."
+
+#: ../../DMC.rst:679
+#, fuzzy
+#| msgid "As an additional cost to cast this spell, discard a card."
+msgid "Draw two cards, then discard a card."
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — odrzuć kartę."
+
+#: ../../DMC.rst:690
 msgid ""
 ":mtgtip:`Surrak Dragonclaw<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/e/8/e8efe72d-3c01-4dd6-b3dd-0382ac09dc52.jpg?1660936355|"
 "https://scryfall.com/card/dmc/169/surrak-dragonclaw?utm_source=api>`"
 msgstr ""
 
-#: ../../DMC.rst:327
+#: ../../DMC.rst:685
 msgid "This spell can't be countered."
 msgstr "Ten czar nie może być skontrowany."
 
-#: ../../DMC.rst:329
+#: ../../DMC.rst:687
 msgid "Creature spells you control can't be countered."
 msgstr "Czary stworów pod twoim władaniem nie mogą być skontrowane."
 
-#: ../../DMC.rst:331
+#: ../../DMC.rst:689
 msgid "Other creatures you control have trample."
 msgstr "Inne stwory pod twoim władaniem mają tratowanie."
 
-#: ../../DMC.rst:338
+#: ../../DMC.rst:696
+msgid ""
+":mtgtip:`Sylvan Reclamation<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/f/5/f51c70bf-cae2-49e1-988e-c9fb3ea5f370.jpg?1661391804|"
+"https://scryfall.com/card/dmc/170/sylvan-reclamation?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:693
+#, fuzzy
+#| msgid "Destroy target artifact or enchantment."
+msgid "Exile up to two target artifacts and/or enchantments."
+msgstr "Zniszcz wskazany artefakt lub urok."
+
+#: ../../DMC.rst:695
+#, fuzzy
+#| msgid ""
+#| "|tap|, Sacrifice Bad River: Search your library for an Island or Swamp "
+#| "card, put it onto the battlefield, then shuffle."
+msgid ""
+"Basic landcycling |mana_2| (|mana_2|, Discard this card: Search your library "
+"for a basic land card, reveal it, put it into your hand, then shuffle.)"
+msgstr ""
+"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę Wyspy lub Bagna, "
+"umieść ją na polu bitwy, po czym przetasuj."
+
+#: ../../DMC.rst:702
+msgid ""
+":mtgtip:`Tajic, Blade of the Legion<https://c1.scryfall.com/file/scryfall-"
+"cards/border_crop/front/e/e/eea2cdad-529a-499f-8be7-53f939153b7e.jpg?"
+"1661391820|https://scryfall.com/card/dmc/171/tajic-blade-of-the-legion?"
+"utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:699 ../../DMC.rst:893
+msgid "Indestructible"
+msgstr "Niezniszczalność"
+
+#: ../../DMC.rst:701
+msgid ""
+"Battalion — Whenever Tajic, Blade of the Legion and at least two other "
+"creatures attack, Tajic gets +5/+5 until end of turn."
+msgstr ""
+
+#: ../../DMC.rst:706
+msgid ""
+":mtgtip:`Terminate<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/0/4/0476ea45-ee6d-41c6-93b8-50f92cb37b78.jpg?1661391836|https://"
+"scryfall.com/card/dmc/172/terminate?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:705
+#, fuzzy
+#| msgid "Destroy target artifact or enchantment."
+msgid "Destroy target creature. It can't be regenerated."
+msgstr "Zniszcz wskazany artefakt lub urok."
+
+#: ../../DMC.rst:710
+msgid ""
+":mtgtip:`Time Wipe<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/5/d/5d75bf8a-0f38-42c8-8ac9-9f0f6cd8e75c.jpg?1661391861|https://"
+"scryfall.com/card/dmc/173/time-wipe?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:709
+msgid ""
+"Return a creature you control to its owner's hand, then destroy all "
+"creatures."
+msgstr ""
+
+#: ../../DMC.rst:716
+msgid ""
+":mtgtip:`Wear<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/"
+"f/8/f8e1bd2d-ff66-4e68-9ad0-0be9c134e6f5.jpg?1661391880|https://scryfall.com/"
+"card/dmc/174/wear-tear?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:713
+#, fuzzy
+#| msgid "Destroy target artifact or enchantment."
+msgid "Destroy target artifact."
+msgstr "Zniszcz wskazany artefakt lub urok."
+
+#: ../../DMC.rst:715 ../../DMC.rst:721
+msgid "Fuse (You may cast one or both halves of this card from your hand.)"
+msgstr ""
+
+#: ../../DMC.rst:722
+msgid ""
+":mtgtip:`Tear<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/"
+"f/8/f8e1bd2d-ff66-4e68-9ad0-0be9c134e6f5.jpg?1661391880|https://scryfall.com/"
+"card/dmc/174/wear-tear?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:719
+#, fuzzy
+#| msgid "Destroy target artifact or enchantment."
+msgid "Destroy target enchantment."
+msgstr "Zniszcz wskazany artefakt lub urok."
+
+#: ../../DMC.rst:730
+msgid ""
+":mtgtip:`Xyris, the Writhing Storm<https://c1.scryfall.com/file/scryfall-"
+"cards/border_crop/front/a/f/af0db1d6-5cb1-4917-8e8f-69d5dc184404.jpg?"
+"1661391904|https://scryfall.com/card/dmc/175/xyris-the-writhing-storm?"
+"utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:727
+msgid ""
+"Whenever an opponent draws a card except the first one they draw in each of "
+"their draw steps, create a 1/1 green Snake creature token."
+msgstr ""
+
+#: ../../DMC.rst:729
+msgid ""
+"Whenever Xyris, the Writhing Storm deals combat damage to a player, you and "
+"that player each draw that many cards."
+msgstr ""
+
+#: ../../DMC.rst:738
+msgid ""
+":mtgtip:`Zaxara, the Exemplary<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/6/d/6dc390da-75f8-490a-a724-c12d21cfe578.jpg?1661391923|"
+"https://scryfall.com/card/dmc/176/zaxara-the-exemplary?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:735
+#, fuzzy
+#| msgid "|mana_5|, |tap|: Add five mana in any combination of colors."
+msgid "|tap|: Add two mana of any one color."
+msgstr "|mana_5|, |tap|: Weź pięć man w dowolnej kombinacji kolorów."
+
+#: ../../DMC.rst:737
+msgid ""
+"Whenever you cast a spell with |mana_x| in its mana cost, create a 0/0 green "
+"Hydra creature token, then put X +1/+1 counters on it."
+msgstr ""
+
+#: ../../DMC.rst:742
+msgid ""
+":mtgtip:`Arcane Signet<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/1/b/1bf50ef8-e7e8-4099-ba91-0d7c31b04541.jpg?1661391940|"
+"https://scryfall.com/card/dmc/177/arcane-signet?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:741 ../../DMC.rst:767 ../../DMC.rst:907
+#, fuzzy
+#| msgid ""
+#| "|tap|: Add one mana of any color. Spend this mana only to cast a "
+#| "multicolored spell."
+msgid "|tap|: Add one mana of any color in your commander's color identity."
+msgstr ""
+"|tap|: Weź jedną manę dowolnego koloru. Wydaj ową manę tylko na rzucenie "
+"wielokolorowego czaru."
+
+#: ../../DMC.rst:750
+msgid ""
+":mtgtip:`Blackblade Reforged<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/2/4/240448cd-c308-49ae-9e4b-0c35adc59fba.jpg?1661391957|"
+"https://scryfall.com/card/dmc/178/blackblade-reforged?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:745
+#, fuzzy
+#| msgid ""
+#| "Faeburrow Elder gets +1/+1 for each color among permanents you control."
+msgid "Equipped creature gets +1/+1 for each land you control."
+msgstr ""
+"Ten stwór dostaje +1/+1 za każdy kolor spośród bytów pod twoim władaniem."
+
+#: ../../DMC.rst:747
+msgid "Equip legendary creature |mana_3|"
+msgstr ""
+
+#: ../../DMC.rst:749
+#, fuzzy
+#| msgid "Equip |mana_3|"
+msgid "Equip |mana_7|"
+msgstr "Wyposaż |mana_3|"
+
+#: ../../DMC.rst:756
+msgid ""
+":mtgtip:`Bontu's Monument<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/1/7/171a9a3f-6278-4921-9848-2b8459869d6c.jpg?1661391980|"
+"https://scryfall.com/card/dmc/179/bontus-monument?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:753
+msgid "Black creature spells you cast cost |mana_1| less to cast."
+msgstr ""
+
+#: ../../DMC.rst:755
+msgid ""
+"Whenever you cast a creature spell, each opponent loses 1 life and you gain "
+"1 life."
+msgstr ""
+
+#: ../../DMC.rst:764
+msgid ""
+":mtgtip:`Coalition Relic<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/e/f/ef44324a-32bd-47e9-8fd9-258ba668de53.jpg?1661391998|"
+"https://scryfall.com/card/dmc/180/coalition-relic?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:759
+#, fuzzy
+#| msgid "|mana_5|, |tap|: Add five mana in any combination of colors."
+msgid "|tap|: Add one mana of any color."
+msgstr "|mana_5|, |tap|: Weź pięć man w dowolnej kombinacji kolorów."
+
+#: ../../DMC.rst:761
+msgid "|tap|: Put a charge counter on Coalition Relic."
+msgstr ""
+
+#: ../../DMC.rst:763
+msgid ""
+"At the beginning of your precombat main phase, remove all charge counters "
+"from Coalition Relic. Add one mana of any color for each charge counter "
+"removed this way."
+msgstr ""
+
+#: ../../DMC.rst:770
+msgid ""
+":mtgtip:`Commander's Sphere<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/e/6/e6458206-bfbd-4f4c-b2cf-e2853a939d50.jpg?1661392014|"
+"https://scryfall.com/card/dmc/181/commanders-sphere?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:769
+msgid "Sacrifice Commander's Sphere: Draw a card."
+msgstr ""
+
+#: ../../DMC.rst:774
+msgid ""
+":mtgtip:`Fellwar Stone<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/5/b/5bf29f9d-0745-4aab-b7fc-7b04ba2eeaba.jpg?1661392034|"
+"https://scryfall.com/card/dmc/182/fellwar-stone?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:773 ../../DMC.rst:933
+#, fuzzy
+#| msgid ""
+#| "|tap|: Add one mana of any color. Spend this mana only to cast a "
+#| "multicolored spell."
+msgid ""
+"|tap|: Add one mana of any color that a land an opponent controls could "
+"produce."
+msgstr ""
+"|tap|: Weź jedną manę dowolnego koloru. Wydaj ową manę tylko na rzucenie "
+"wielokolorowego czaru."
+
+#: ../../DMC.rst:780
+msgid ""
+":mtgtip:`Hazoret's Monument<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/3/c/3c862fc4-e2fe-4fad-8bc1-a53f1fecc4de.jpg?1661392051|"
+"https://scryfall.com/card/dmc/183/hazorets-monument?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:777
+#, fuzzy
+#| msgid "Creature spells you control can't be countered."
+msgid "Red creature spells you cast cost |mana_1| less to cast."
+msgstr "Czary stworów pod twoim władaniem nie mogą być skontrowane."
+
+#: ../../DMC.rst:779
+msgid ""
+"Whenever you cast a creature spell, you may discard a card. If you do, draw "
+"a card."
+msgstr ""
+
+#: ../../DMC.rst:786
+msgid ""
+":mtgtip:`Hedron Archive<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/2/7/27b2db81-cdf6-4989-a38a-eb728d63d9be.jpg?1661392068|"
+"https://scryfall.com/card/dmc/184/hedron-archive?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:783 ../../DMC.rst:821
+#, fuzzy
+#| msgid "|tap|: Add |colorless|."
+msgid "|tap|: Add |colorless|\\ |colorless|."
+msgstr "|tap|: Weź |colorless|."
+
+#: ../../DMC.rst:785
+msgid "|mana_2|, |tap|, Sacrifice Hedron Archive: Draw two cards."
+msgstr ""
+
+#: ../../DMC.rst:792
+msgid ""
+":mtgtip:`Heroes' Podium<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/1/b/1b2bee5c-7ea0-4713-a60b-dccaf89c5d48.jpg?1661392089|"
+"https://scryfall.com/card/dmc/185/heroes-podium?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:789
+msgid ""
+"Each legendary creature you control gets +1/+1 for each other legendary "
+"creature you control."
+msgstr ""
+
+#: ../../DMC.rst:791
+msgid ""
+"|mana_x|, |tap|: Look at the top X cards of your library. You may reveal a "
+"legendary creature card from among them and put it into your hand. Put the "
+"rest on the bottom of your library in a random order."
+msgstr ""
+
+#: ../../DMC.rst:800
+msgid ""
+":mtgtip:`Hero's Blade<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/7/9/792600fb-7e8b-4a0f-8a59-93b00d4509ce.jpg?1661392107|"
+"https://scryfall.com/card/dmc/186/heros-blade?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:795
+msgid "Equipped creature gets +3/+2."
+msgstr ""
+
+#: ../../DMC.rst:797
+msgid ""
+"Whenever a legendary creature enters the battlefield under your control, you "
+"may attach Hero's Blade to it."
+msgstr ""
+
+#: ../../DMC.rst:799
+msgid ""
+"Equip |mana_4| (|mana_4|: Attach to target creature you control. Equip only "
+"as a sorcery.)"
+msgstr ""
+
+#: ../../DMC.rst:806
+msgid ""
+":mtgtip:`Honor-Worn Shaku<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/3/c/3c308e5c-40f1-4100-8f7b-8529bbbfcfb4.jpg?1661392129|"
+"https://scryfall.com/card/dmc/187/honor-worn-shaku?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:805
+msgid ""
+"Tap an untapped legendary permanent you control: Untap Honor-Worn Shaku."
+msgstr ""
+
+#: ../../DMC.rst:812
+msgid ""
+":mtgtip:`Oketra's Monument<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/a/7/a7f1d5a6-bdf2-4b12-b11e-70f58b59dd80.jpg?1661392148|"
+"https://scryfall.com/card/dmc/188/oketras-monument?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:809
+msgid "White creature spells you cast cost |mana_1| less to cast."
+msgstr ""
+
+#: ../../DMC.rst:811
+msgid ""
+"Whenever you cast a creature spell, create a 1/1 white Warrior creature "
+"token with vigilance."
+msgstr ""
+
+#: ../../DMC.rst:818
+msgid ""
+":mtgtip:`Prophetic Prism<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/a/0/a0dcb495-9562-4961-b095-8b844dfdb601.jpg?1661392163|"
+"https://scryfall.com/card/dmc/189/prophetic-prism?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:815
+#, fuzzy
+#| msgid "When Baleful Strix enters the battlefield, draw a card."
+msgid "When Prophetic Prism enters the battlefield, draw a card."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+
+#: ../../DMC.rst:817
+#, fuzzy
+#| msgid "|mana_5|, |tap|: Add five mana in any combination of colors."
+msgid "|mana_1|, |tap|: Add one mana of any color."
+msgstr "|mana_5|, |tap|: Weź pięć man w dowolnej kombinacji kolorów."
+
+#: ../../DMC.rst:822
+msgid ""
+":mtgtip:`Sol Ring<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/b/e/beebe533-29b9-4041-ab66-0a8233c50d56.jpg?1661392184|https://"
+"scryfall.com/card/dmc/190/sol-ring?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:828
+msgid ""
+":mtgtip:`Solemn Simulacrum<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/d/6/d6a3672f-c0d3-4504-8886-e50cd30295be.jpg?1661392209|"
+"https://scryfall.com/card/dmc/191/solemn-simulacrum?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:825
+#, fuzzy
+#| msgid ""
+#| "Exile target creature. Its controller may search their library for a "
+#| "basic land card, put that card onto the battlefield tapped, then shuffle."
+msgid ""
+"When Solemn Simulacrum enters the battlefield, you may search your library "
+"for a basic land card, put that card onto the battlefield tapped, then "
+"shuffle."
+msgstr ""
+"Wygnaj wskazanego stwora. Jego władca możesz wyszukać w swojej bibliotece "
+"kartę bazowego lądu, umieścić ją przekręconą na polu bitwy, po czym "
+"przetasować."
+
+#: ../../DMC.rst:827
+msgid "When Solemn Simulacrum dies, you may draw a card."
+msgstr ""
+
+#: ../../DMC.rst:832
+msgid ""
+":mtgtip:`Sword of the Chosen<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/6/d/6de493a9-d1df-4507-b7c3-e775c4c50db9.jpg?1661392225|"
+"https://scryfall.com/card/dmc/192/sword-of-the-chosen?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:831
+msgid "|tap|: Target legendary creature gets +2/+2 until end of turn."
+msgstr ""
+
+#: ../../DMC.rst:838
+msgid ""
+":mtgtip:`Tenza, Godo's Maul<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/3/f/3f918d2a-5769-43ce-a8e8-41db6c8f251d.jpg?1661392249|"
+"https://scryfall.com/card/dmc/193/tenza-godos-maul?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:835
+msgid ""
+"Equipped creature gets +1/+1. As long as it's legendary, it gets an "
+"additional +2/+2. As long as it's red, it has trample."
+msgstr ""
+
+#: ../../DMC.rst:837
+msgid ""
+"Equip |mana_1| (|mana_1|: Attach to target creature you control. Equip only "
+"as a sorcery.)"
+msgstr ""
+
+#: ../../DMC.rst:842
+msgid ""
+":mtgtip:`Transguild Courier<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/2/4/2496ab15-2a88-43fd-8d79-74758879157b.jpg?1661392266|"
+"https://scryfall.com/card/dmc/194/transguild-courier?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:841
+msgid "Transguild Courier is all colors."
+msgstr ""
+
+#: ../../DMC.rst:850
+msgid ""
+":mtgtip:`Traxos, Scourge of Kroog<https://c1.scryfall.com/file/scryfall-"
+"cards/border_crop/front/8/5/8566e91a-5f2c-4854-aeb3-68b3c4344582.jpg?"
+"1661392285|https://scryfall.com/card/dmc/195/traxos-scourge-of-kroog?"
+"utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:847
+msgid ""
+"Traxos, Scourge of Kroog enters the battlefield tapped and doesn't untap "
+"during your untap step."
+msgstr ""
+
+#: ../../DMC.rst:849
+msgid ""
+"Whenever you cast a historic spell, untap Traxos. (Artifacts, legendaries, "
+"and Sagas are historic.)"
+msgstr ""
+
+#: ../../DMC.rst:856
+msgid ""
+":mtgtip:`Arcane Sanctum<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/6/4/641ad3e2-c3ae-4235-a463-4cbb947eaee0.jpg?1661392302|"
+"https://scryfall.com/card/dmc/196/arcane-sanctum?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:853
+#, fuzzy
+#| msgid "When Baleful Strix enters the battlefield, draw a card."
+msgid "Arcane Sanctum enters the battlefield tapped."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+
+#: ../../DMC.rst:855
+msgid "|tap|: Add |mana_w|, |mana_u|, or |mana_b|."
+msgstr ""
+
+#: ../../DMC.rst:862
 msgid ""
 ":mtgtip:`Bad River<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/c/a/ca79caa8-9893-49be-bc39-f021adb28220.jpg?1660936403|https://"
 "scryfall.com/card/dmc/197/bad-river?utm_source=api>`"
 msgstr ""
 
-#: ../../DMC.rst:335
+#: ../../DMC.rst:859
 msgid "Bad River enters the battlefield tapped."
 msgstr ""
 
-#: ../../DMC.rst:337
+#: ../../DMC.rst:861
 msgid ""
 "|tap|, Sacrifice Bad River: Search your library for an Island or Swamp card, "
 "put it onto the battlefield, then shuffle."
@@ -1223,40 +2763,373 @@ msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę Wyspy lub Bagna, "
 "umieść ją na polu bitwy, po czym przetasuj."
 
-#: ../../DMC.rst:346
+#: ../../DMC.rst:868
+msgid ""
+":mtgtip:`Battlefield Forge<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/5/7/57c43ae5-8427-4c10-b437-c214017637d9.jpg?1661392329|"
+"https://scryfall.com/card/dmc/198/battlefield-forge?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:867
+#, fuzzy
+#| msgid ""
+#| "|tap|: Add |mana_w| or |mana_b|. Murmuring Bosk deals 1 damage to you."
+msgid ""
+"|tap|: Add |mana_r| or |mana_w|. Battlefield Forge deals 1 damage to you."
+msgstr "|tap|: Weź |mana_w| lub |mana_b|. Ten byt zadaje tobie 1 obrażenie."
+
+#: ../../DMC.rst:876
+msgid ""
+":mtgtip:`Bojuka Bog<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/c/6/c6525da7-49d9-4c92-a319-35a63dabadc6.jpg?1661392352|https://"
+"scryfall.com/card/dmc/199/bojuka-bog?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:871
+#, fuzzy
+#| msgid "When Baleful Strix enters the battlefield, draw a card."
+msgid "Bojuka Bog enters the battlefield tapped."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+
+#: ../../DMC.rst:873
+#, fuzzy
+#| msgid "When Baleful Strix enters the battlefield, draw a card."
+msgid ""
+"When Bojuka Bog enters the battlefield, exile target player's graveyard."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+
+#: ../../DMC.rst:875 ../../DMC.rst:1077
+#, fuzzy
+#| msgid "(|tap|: Add |mana_g|.)"
+msgid "|tap|: Add |mana_b|."
+msgstr "(|tap|: Weź |mana_g|.)"
+
+#: ../../DMC.rst:884
+msgid ""
+":mtgtip:`Boros Garrison<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/d/7/d7cd5af5-67de-4d4d-b84f-5f2c95bee52e.jpg?1661392370|"
+"https://scryfall.com/card/dmc/200/boros-garrison?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:879
+#, fuzzy
+#| msgid "When Baleful Strix enters the battlefield, draw a card."
+msgid "Boros Garrison enters the battlefield tapped."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+
+#: ../../DMC.rst:881
+msgid ""
+"When Boros Garrison enters the battlefield, return a land you control to its "
+"owner's hand."
+msgstr ""
+
+#: ../../DMC.rst:883
+#, fuzzy
+#| msgid "(|tap|: Add |mana_g|.)"
+msgid "|tap|: Add |mana_r|\\ |mana_w|."
+msgstr "(|tap|: Weź |mana_g|.)"
+
+#: ../../DMC.rst:890
+msgid ""
+":mtgtip:`Canopy Vista<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/d/b/db4f2c8c-1c92-4a01-87a8-b774da76189f.jpg?1661392388|"
+"https://scryfall.com/card/dmc/201/canopy-vista?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:887
+#, fuzzy
+#| msgid "(|tap|: Add |mana_g|.)"
+msgid "(|tap|: Add |mana_g| or |mana_w|.)"
+msgstr "(|tap|: Weź |mana_g|.)"
+
+#: ../../DMC.rst:889
+msgid ""
+"Canopy Vista enters the battlefield tapped unless you control two or more "
+"basic lands."
+msgstr ""
+
+#: ../../DMC.rst:898
 msgid ""
 ":mtgtip:`Cascading Cataracts<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/2/f/2f3fbd9b-91ab-4691-a916-e20db8ebc513.jpg?1660936305|"
 "https://scryfall.com/card/dmc/202/cascading-cataracts?utm_source=api>`"
 msgstr ""
 
-#: ../../DMC.rst:341
-msgid "Indestructible"
-msgstr "Niezniszczalność"
-
-#: ../../DMC.rst:345
+#: ../../DMC.rst:897
 msgid "|mana_5|, |tap|: Add five mana in any combination of colors."
 msgstr "|mana_5|, |tap|: Weź pięć man w dowolnej kombinacji kolorów."
 
-#: ../../DMC.rst:352
+#: ../../DMC.rst:904
+msgid ""
+":mtgtip:`Cinder Glade<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/3/1/31d57056-9327-401d-8ab1-ca898b4259ad.jpg?1661392407|"
+"https://scryfall.com/card/dmc/203/cinder-glade?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:901
+#, fuzzy
+#| msgid "(|tap|: Add |mana_g|.)"
+msgid "(|tap|: Add |mana_r| or |mana_g|.)"
+msgstr "(|tap|: Weź |mana_g|.)"
+
+#: ../../DMC.rst:903
+msgid ""
+"Cinder Glade enters the battlefield tapped unless you control two or more "
+"basic lands."
+msgstr ""
+
+#: ../../DMC.rst:908
+msgid ""
+":mtgtip:`Command Tower<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/7/7/77a679dd-220c-4fbe-a158-a8db57f55b86.jpg?1661392426|"
+"https://scryfall.com/card/dmc/204/command-tower?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:914
+msgid ""
+":mtgtip:`Crumbling Necropolis<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/4/e/4e9a9525-762a-4efd-82fe-184814543aef.jpg?1661392447|"
+"https://scryfall.com/card/dmc/205/crumbling-necropolis?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:911
+#, fuzzy
+#| msgid "When Baleful Strix enters the battlefield, draw a card."
+msgid "Crumbling Necropolis enters the battlefield tapped."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+
+#: ../../DMC.rst:913
+msgid "|tap|: Add |mana_u|, |mana_b|, or |mana_r|."
+msgstr ""
+
+#: ../../DMC.rst:920
 msgid ""
 ":mtgtip:`Crystal Quarry<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/5/5/55999d8e-50f8-4c8b-a0c3-f3256af62491.jpg?1660936281|"
 "https://scryfall.com/card/dmc/206/crystal-quarry?utm_source=api>`"
 msgstr ""
 
-#: ../../DMC.rst:359
+#: ../../DMC.rst:926
+msgid ""
+":mtgtip:`Dragonskull Summit<https://c2.scryfall.com/file/scryfall-errors/"
+"soon.jpg|https://scryfall.com/card/dmc/207/dragonskull-summit?"
+"utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:923
+msgid ""
+"Dragonskull Summit enters the battlefield tapped unless you control a Swamp "
+"or a Mountain."
+msgstr ""
+
+#: ../../DMC.rst:925 ../../DMC.rst:939 ../../DMC.rst:1099
+#, fuzzy
+#| msgid "(|tap|: Add |mana_g|.)"
+msgid "|tap|: Add |mana_b| or |mana_r|."
+msgstr "(|tap|: Weź |mana_g|.)"
+
+#: ../../DMC.rst:930
+msgid ""
+":mtgtip:`Evolving Wilds<https://c2.scryfall.com/file/scryfall-errors/soon."
+"jpg|https://scryfall.com/card/dmc/208/evolving-wilds?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:929
+#, fuzzy
+#| msgid ""
+#| "|tap|, Sacrifice Bad River: Search your library for an Island or Swamp "
+#| "card, put it onto the battlefield, then shuffle."
+msgid ""
+"|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, "
+"put it onto the battlefield tapped, then shuffle."
+msgstr ""
+"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę Wyspy lub Bagna, "
+"umieść ją na polu bitwy, po czym przetasuj."
+
+#: ../../DMC.rst:934
+msgid ""
+":mtgtip:`Exotic Orchard<https://c2.scryfall.com/file/scryfall-errors/soon."
+"jpg|https://scryfall.com/card/dmc/209/exotic-orchard?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:940
+msgid ""
+":mtgtip:`Foreboding Ruins<https://c2.scryfall.com/file/scryfall-errors/soon."
+"jpg|https://scryfall.com/card/dmc/211/foreboding-ruins?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:937
+#, fuzzy
+#| msgid ""
+#| "As Murmuring Bosk enters the battlefield, you may reveal a Treefolk card "
+#| "from your hand. If you don't, Murmuring Bosk enters the battlefield "
+#| "tapped."
+msgid ""
+"As Foreboding Ruins enters the battlefield, you may reveal a Swamp or "
+"Mountain card from your hand. If you don't, Foreboding Ruins enters the "
+"battlefield tapped."
+msgstr ""
+"Przy wejściu tego bytu na pole bitwy, możesz ujawnić kartę Drzewca z twojej "
+"ręki. Jeśli tak nie zrobisz, ten byt wchodzi przekręcony na pole bitwy."
+
+#: ../../DMC.rst:946
+msgid ""
+":mtgtip:`Frontier Bivouac<https://c2.scryfall.com/file/scryfall-errors/soon."
+"jpg|https://scryfall.com/card/dmc/212/frontier-bivouac?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:943
+#, fuzzy
+#| msgid "When Baleful Strix enters the battlefield, draw a card."
+msgid "Frontier Bivouac enters the battlefield tapped."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+
+#: ../../DMC.rst:945
+#, fuzzy
+#| msgid "(|tap|: Add |mana_g|.)"
+msgid "|tap|: Add |mana_g|, |mana_u|, or |mana_r|."
+msgstr "(|tap|: Weź |mana_g|.)"
+
+#: ../../DMC.rst:952
+msgid ""
+":mtgtip:`Geier Reach Sanitarium<https://c2.scryfall.com/file/scryfall-errors/"
+"soon.jpg|https://scryfall.com/card/dmc/213/geier-reach-sanitarium?"
+"utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:951
+msgid "|mana_2|, |tap|: Each player draws a card, then discards a card."
+msgstr ""
+
+#: ../../DMC.rst:958
+msgid ""
+":mtgtip:`Grasslands<https://c2.scryfall.com/file/scryfall-errors/soon.jpg|"
+"https://scryfall.com/card/dmc/214/grasslands?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:955
+#, fuzzy
+#| msgid "When Baleful Strix enters the battlefield, draw a card."
+msgid "Grasslands enters the battlefield tapped."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+
+#: ../../DMC.rst:957
+#, fuzzy
+#| msgid ""
+#| "|tap|, Sacrifice Bad River: Search your library for an Island or Swamp "
+#| "card, put it onto the battlefield, then shuffle."
+msgid ""
+"|tap|, Sacrifice Grasslands: Search your library for a Forest or Plains "
+"card, put it onto the battlefield, then shuffle."
+msgstr ""
+"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę Wyspy lub Bagna, "
+"umieść ją na polu bitwy, po czym przetasuj."
+
+#: ../../DMC.rst:964
+msgid ""
+":mtgtip:`Jungle Shrine<https://c2.scryfall.com/file/scryfall-errors/soon.jpg|"
+"https://scryfall.com/card/dmc/215/jungle-shrine?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:961
+#, fuzzy
+#| msgid "When Baleful Strix enters the battlefield, draw a card."
+msgid "Jungle Shrine enters the battlefield tapped."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+
+#: ../../DMC.rst:963
+#, fuzzy
+#| msgid "(|tap|: Add |mana_g|.)"
+msgid "|tap|: Add |mana_r|, |mana_g|, or |mana_w|."
+msgstr "(|tap|: Weź |mana_g|.)"
+
+#: ../../DMC.rst:972
+msgid ""
+":mtgtip:`Krosan Verge<https://c2.scryfall.com/file/scryfall-errors/soon.jpg|"
+"https://scryfall.com/card/dmc/216/krosan-verge?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:967
+#, fuzzy
+#| msgid "When Baleful Strix enters the battlefield, draw a card."
+msgid "Krosan Verge enters the battlefield tapped."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+
+#: ../../DMC.rst:971
+#, fuzzy
+#| msgid ""
+#| "|tap|, Sacrifice Bad River: Search your library for an Island or Swamp "
+#| "card, put it onto the battlefield, then shuffle."
+msgid ""
+"|mana_2|, |tap|, Sacrifice Krosan Verge: Search your library for a Forest "
+"card and a Plains card, put them onto the battlefield tapped, then shuffle."
+msgstr ""
+"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę Wyspy lub Bagna, "
+"umieść ją na polu bitwy, po czym przetasuj."
+
+#: ../../DMC.rst:978
+msgid ""
+":mtgtip:`Mikokoro, Center of the Sea<https://c2.scryfall.com/file/scryfall-"
+"errors/soon.jpg|https://scryfall.com/card/dmc/217/mikokoro-center-of-the-sea?"
+"utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:977
+#, fuzzy
+#| msgid "Target player draws a card."
+msgid "|mana_2|, |tap|: Each player draws a card."
+msgstr "Wskazany gracz dobiera kartę."
+
+#: ../../DMC.rst:984
+msgid ""
+":mtgtip:`Mobilized District<https://c2.scryfall.com/file/scryfall-errors/"
+"soon.jpg|https://scryfall.com/card/dmc/218/mobilized-district?"
+"utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:983
+msgid ""
+"|mana_4|: Mobilized District becomes a 3/3 Citizen creature with vigilance "
+"until end of turn. It's still a land. This ability costs |mana_1| less to "
+"activate for each legendary creature and planeswalker you control."
+msgstr ""
+
+#: ../../DMC.rst:990
+msgid ""
+":mtgtip:`Mountain Valley<https://c2.scryfall.com/file/scryfall-errors/soon."
+"jpg|https://scryfall.com/card/dmc/219/mountain-valley?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:987
+#, fuzzy
+#| msgid "When Baleful Strix enters the battlefield, draw a card."
+msgid "Mountain Valley enters the battlefield tapped."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+
+#: ../../DMC.rst:989
+#, fuzzy
+#| msgid ""
+#| "|tap|, Sacrifice Bad River: Search your library for an Island or Swamp "
+#| "card, put it onto the battlefield, then shuffle."
+msgid ""
+"|tap|, Sacrifice Mountain Valley: Search your library for a Mountain or "
+"Forest card, put it onto the battlefield, then shuffle."
+msgstr ""
+"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę Wyspy lub Bagna, "
+"umieść ją na polu bitwy, po czym przetasuj."
+
+#: ../../DMC.rst:998
 msgid ""
 ":mtgtip:`Murmuring Bosk<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/5/a/5aca73a9-e90d-48c6-bdd9-9a3f4f552de3.jpg?1660936399|"
 "https://scryfall.com/card/dmc/220/murmuring-bosk?utm_source=api>`"
 msgstr ""
 
-#: ../../DMC.rst:355
+#: ../../DMC.rst:993
 msgid "(|tap|: Add |mana_g|.)"
 msgstr "(|tap|: Weź |mana_g|.)"
 
-#: ../../DMC.rst:357
+#: ../../DMC.rst:995
 msgid ""
 "As Murmuring Bosk enters the battlefield, you may reveal a Treefolk card "
 "from your hand. If you don't, Murmuring Bosk enters the battlefield tapped."
@@ -1264,6 +3137,357 @@ msgstr ""
 "Przy wejściu tego bytu na pole bitwy, możesz ujawnić kartę Drzewca z twojej "
 "ręki. Jeśli tak nie zrobisz, ten byt wchodzi przekręcony na pole bitwy."
 
-#: ../../DMC.rst:359
+#: ../../DMC.rst:997
 msgid "|tap|: Add |mana_w| or |mana_b|. Murmuring Bosk deals 1 damage to you."
 msgstr "|tap|: Weź |mana_w| lub |mana_b|. Ten byt zadaje tobie 1 obrażenie."
+
+#: ../../DMC.rst:1004
+msgid ""
+":mtgtip:`Mystic Monastery<https://c2.scryfall.com/file/scryfall-errors/soon."
+"jpg|https://scryfall.com/card/dmc/221/mystic-monastery?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:1001
+#, fuzzy
+#| msgid "When Baleful Strix enters the battlefield, draw a card."
+msgid "Mystic Monastery enters the battlefield tapped."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+
+#: ../../DMC.rst:1003
+msgid "|tap|: Add |mana_u|, |mana_r|, or |mana_w|."
+msgstr ""
+
+#: ../../DMC.rst:1010
+msgid ""
+":mtgtip:`Nomad Outpost<https://c2.scryfall.com/file/scryfall-errors/soon.jpg|"
+"https://scryfall.com/card/dmc/222/nomad-outpost?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:1007
+#, fuzzy
+#| msgid "When Baleful Strix enters the battlefield, draw a card."
+msgid "Nomad Outpost enters the battlefield tapped."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+
+#: ../../DMC.rst:1009
+msgid "|tap|: Add |mana_r|, |mana_w|, or |mana_b|."
+msgstr ""
+
+#: ../../DMC.rst:1016
+msgid ""
+":mtgtip:`Opulent Palace<https://c2.scryfall.com/file/scryfall-errors/soon."
+"jpg|https://scryfall.com/card/dmc/223/opulent-palace?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:1013
+#, fuzzy
+#| msgid "When Baleful Strix enters the battlefield, draw a card."
+msgid "Opulent Palace enters the battlefield tapped."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+
+#: ../../DMC.rst:1015
+#, fuzzy
+#| msgid "(|tap|: Add |mana_g|.)"
+msgid "|tap|: Add |mana_b|, |mana_g|, or |mana_u|."
+msgstr "(|tap|: Weź |mana_g|.)"
+
+#: ../../DMC.rst:1024
+msgid ""
+":mtgtip:`Orzhov Basilica<https://c2.scryfall.com/file/scryfall-errors/soon."
+"jpg|https://scryfall.com/card/dmc/224/orzhov-basilica?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:1019
+#, fuzzy
+#| msgid "When Baleful Strix enters the battlefield, draw a card."
+msgid "Orzhov Basilica enters the battlefield tapped."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+
+#: ../../DMC.rst:1021
+msgid ""
+"When Orzhov Basilica enters the battlefield, return a land you control to "
+"its owner's hand."
+msgstr ""
+
+#: ../../DMC.rst:1023
+#, fuzzy
+#| msgid "(|tap|: Add |mana_g|.)"
+msgid "|tap|: Add |mana_w|\\ |mana_b|."
+msgstr "(|tap|: Weź |mana_g|.)"
+
+#: ../../DMC.rst:1030
+msgid ""
+":mtgtip:`Prairie Stream<https://c2.scryfall.com/file/scryfall-errors/soon."
+"jpg|https://scryfall.com/card/dmc/225/prairie-stream?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:1027
+#, fuzzy
+#| msgid "(|tap|: Add |mana_g|.)"
+msgid "(|tap|: Add |mana_w| or |mana_u|.)"
+msgstr "(|tap|: Weź |mana_g|.)"
+
+#: ../../DMC.rst:1029
+msgid ""
+"Prairie Stream enters the battlefield tapped unless you control two or more "
+"basic lands."
+msgstr ""
+
+#: ../../DMC.rst:1038
+msgid ""
+":mtgtip:`Rakdos Carnarium<https://c2.scryfall.com/file/scryfall-errors/soon."
+"jpg|https://scryfall.com/card/dmc/226/rakdos-carnarium?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:1033
+#, fuzzy
+#| msgid "When Baleful Strix enters the battlefield, draw a card."
+msgid "Rakdos Carnarium enters the battlefield tapped."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+
+#: ../../DMC.rst:1035
+msgid ""
+"When Rakdos Carnarium enters the battlefield, return a land you control to "
+"its owner's hand."
+msgstr ""
+
+#: ../../DMC.rst:1037
+#, fuzzy
+#| msgid "(|tap|: Add |mana_g|.)"
+msgid "|tap|: Add |mana_b|\\ |mana_r|."
+msgstr "(|tap|: Weź |mana_g|.)"
+
+#: ../../DMC.rst:1044
+msgid ""
+":mtgtip:`Reliquary Tower<https://c2.scryfall.com/file/scryfall-errors/soon."
+"jpg|https://scryfall.com/card/dmc/227/reliquary-tower?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:1041
+msgid "You have no maximum hand size."
+msgstr ""
+
+#: ../../DMC.rst:1050
+msgid ""
+":mtgtip:`Rocky Tar Pit<https://c2.scryfall.com/file/scryfall-errors/soon.jpg|"
+"https://scryfall.com/card/dmc/228/rocky-tar-pit?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:1047
+#, fuzzy
+#| msgid "When Baleful Strix enters the battlefield, draw a card."
+msgid "Rocky Tar Pit enters the battlefield tapped."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+
+#: ../../DMC.rst:1049
+#, fuzzy
+#| msgid ""
+#| "|tap|, Sacrifice Bad River: Search your library for an Island or Swamp "
+#| "card, put it onto the battlefield, then shuffle."
+msgid ""
+"|tap|, Sacrifice Rocky Tar Pit: Search your library for a Swamp or Mountain "
+"card, put it onto the battlefield, then shuffle."
+msgstr ""
+"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę Wyspy lub Bagna, "
+"umieść ją na polu bitwy, po czym przetasuj."
+
+#: ../../DMC.rst:1056
+msgid ""
+":mtgtip:`Sandsteppe Citadel<https://c2.scryfall.com/file/scryfall-errors/"
+"soon.jpg|https://scryfall.com/card/dmc/229/sandsteppe-citadel?"
+"utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:1053
+#, fuzzy
+#| msgid "When Baleful Strix enters the battlefield, draw a card."
+msgid "Sandsteppe Citadel enters the battlefield tapped."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+
+#: ../../DMC.rst:1055
+#, fuzzy
+#| msgid ""
+#| "|tap|: Add |mana_w| or |mana_b|. Murmuring Bosk deals 1 damage to you."
+msgid "|tap|: Add |mana_w|, |mana_b|, or |mana_g|."
+msgstr "|tap|: Weź |mana_w| lub |mana_b|. Ten byt zadaje tobie 1 obrażenie."
+
+#: ../../DMC.rst:1062
+msgid ""
+":mtgtip:`Savage Lands<https://c2.scryfall.com/file/scryfall-errors/soon.jpg|"
+"https://scryfall.com/card/dmc/230/savage-lands?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:1059
+#, fuzzy
+#| msgid "When Baleful Strix enters the battlefield, draw a card."
+msgid "Savage Lands enters the battlefield tapped."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+
+#: ../../DMC.rst:1061
+#, fuzzy
+#| msgid "(|tap|: Add |mana_g|.)"
+msgid "|tap|: Add |mana_b|, |mana_r|, or |mana_g|."
+msgstr "(|tap|: Weź |mana_g|.)"
+
+#: ../../DMC.rst:1068
+msgid ""
+":mtgtip:`Seaside Citadel<https://c2.scryfall.com/file/scryfall-errors/soon."
+"jpg|https://scryfall.com/card/dmc/231/seaside-citadel?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:1065
+#, fuzzy
+#| msgid "When Baleful Strix enters the battlefield, draw a card."
+msgid "Seaside Citadel enters the battlefield tapped."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+
+#: ../../DMC.rst:1067
+#, fuzzy
+#| msgid "(|tap|: Add |mana_g|.)"
+msgid "|tap|: Add |mana_g|, |mana_w|, or |mana_u|."
+msgstr "(|tap|: Weź |mana_g|.)"
+
+#: ../../DMC.rst:1074
+msgid ""
+":mtgtip:`Shivan Gorge<https://c2.scryfall.com/file/scryfall-errors/soon.jpg|"
+"https://scryfall.com/card/dmc/232/shivan-gorge?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:1073
+msgid ""
+"|mana_2|\\ |mana_r|, |tap|: Shivan Gorge deals 1 damage to each opponent."
+msgstr ""
+
+#: ../../DMC.rst:1080
+msgid ""
+":mtgtip:`Shizo, Death's Storehouse<https://c2.scryfall.com/file/scryfall-"
+"errors/soon.jpg|https://scryfall.com/card/dmc/233/shizo-deaths-storehouse?"
+"utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:1079
+msgid ""
+"|mana_b|, |tap|: Target legendary creature gains fear until end of turn. (It "
+"can't be blocked except by artifact creatures and/or black creatures.)"
+msgstr ""
+
+#: ../../DMC.rst:1086
+msgid ""
+":mtgtip:`Smoldering Marsh<https://c2.scryfall.com/file/scryfall-errors/soon."
+"jpg|https://scryfall.com/card/dmc/234/smoldering-marsh?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:1083
+#, fuzzy
+#| msgid "(|tap|: Add |mana_g|.)"
+msgid "(|tap|: Add |mana_b| or |mana_r|.)"
+msgstr "(|tap|: Weź |mana_g|.)"
+
+#: ../../DMC.rst:1085
+msgid ""
+"Smoldering Marsh enters the battlefield tapped unless you control two or "
+"more basic lands."
+msgstr ""
+
+#: ../../DMC.rst:1092
+msgid ""
+":mtgtip:`Sunken Hollow<https://c2.scryfall.com/file/scryfall-errors/soon.jpg|"
+"https://scryfall.com/card/dmc/235/sunken-hollow?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:1089
+#, fuzzy
+#| msgid "(|tap|: Add |mana_g|.)"
+msgid "(|tap|: Add |mana_u| or |mana_b|.)"
+msgstr "(|tap|: Weź |mana_g|.)"
+
+#: ../../DMC.rst:1091
+msgid ""
+"Sunken Hollow enters the battlefield tapped unless you control two or more "
+"basic lands."
+msgstr ""
+
+#: ../../DMC.rst:1100
+msgid ""
+":mtgtip:`Temple of Malice<https://c2.scryfall.com/file/scryfall-errors/soon."
+"jpg|https://scryfall.com/card/dmc/236/temple-of-malice?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:1095
+#, fuzzy
+#| msgid "When Baleful Strix enters the battlefield, draw a card."
+msgid "Temple of Malice enters the battlefield tapped."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+
+#: ../../DMC.rst:1097
+#, fuzzy
+#| msgid "When Baleful Strix enters the battlefield, draw a card."
+msgid "When Temple of Malice enters the battlefield, scry 1."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+
+#: ../../DMC.rst:1108
+msgid ""
+":mtgtip:`Temple of Silence<https://c2.scryfall.com/file/scryfall-errors/soon."
+"jpg|https://scryfall.com/card/dmc/237/temple-of-silence?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:1103
+#, fuzzy
+#| msgid "When Baleful Strix enters the battlefield, draw a card."
+msgid "Temple of Silence enters the battlefield tapped."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+
+#: ../../DMC.rst:1105
+#, fuzzy
+#| msgid "When Baleful Strix enters the battlefield, draw a card."
+msgid "When Temple of Silence enters the battlefield, scry 1."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+
+#: ../../DMC.rst:1107
+#, fuzzy
+#| msgid "(|tap|: Add |mana_g|.)"
+msgid "|tap|: Add |mana_w| or |mana_b|."
+msgstr "(|tap|: Weź |mana_g|.)"
+
+#: ../../DMC.rst:1116
+msgid ""
+":mtgtip:`Temple of Triumph<https://c2.scryfall.com/file/scryfall-errors/soon."
+"jpg|https://scryfall.com/card/dmc/238/temple-of-triumph?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:1111
+#, fuzzy
+#| msgid "When Baleful Strix enters the battlefield, draw a card."
+msgid "Temple of Triumph enters the battlefield tapped."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+
+#: ../../DMC.rst:1113
+#, fuzzy
+#| msgid "When Baleful Strix enters the battlefield, draw a card."
+msgid "When Temple of Triumph enters the battlefield, scry 1."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+
+#: ../../DMC.rst:1115
+#, fuzzy
+#| msgid "(|tap|: Add |mana_g|.)"
+msgid "|tap|: Add |mana_r| or |mana_w|."
+msgstr "(|tap|: Weź |mana_g|.)"
+
+#: ../../DMC.rst:1119
+msgid ""
+":mtgtip:`Terramorphic Expanse<https://c2.scryfall.com/file/scryfall-errors/"
+"soon.jpg|https://scryfall.com/card/dmc/239/terramorphic-expanse?"
+"utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:1119
+#, fuzzy
+#| msgid ""
+#| "|tap|, Sacrifice Bad River: Search your library for an Island or Swamp "
+#| "card, put it onto the battlefield, then shuffle."
+msgid ""
+"|tap|, Sacrifice Terramorphic Expanse: Search your library for a basic land "
+"card, put it onto the battlefield tapped, then shuffle."
+msgstr ""
+"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę Wyspy lub Bagna, "
+"umieść ją na polu bitwy, po czym przetasuj."
