@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2022.5\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-05 08:45+0200\n"
+"POT-Creation-Date: 2022-08-25 14:27+0200\n"
 "PO-Revision-Date: 2022-06-25 15:11+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/2x2/pl/>\n"
@@ -241,7 +241,7 @@ msgid ""
 "https://scryfall.com/card/2x2/1/emrakul-the-aeons-torn?utm_source=api>`"
 msgstr ""
 
-#: ../../2X2.rst:9 ../../2X2.rst:1139 ../../2X2.rst:1625
+#: ../../2X2.rst:9 ../../2X2.rst:737 ../../2X2.rst:1139 ../../2X2.rst:1625
 msgid "This spell can't be countered."
 msgstr "Ten czar nie może być skontrowany."
 
@@ -317,7 +317,7 @@ msgstr ""
 #: ../../2X2.rst:40
 msgid ""
 ":mtgtip:`Abzan Falconer<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/d/b/db62ac2c-0d24-4d6f-a6ca-cca4371a3bd7.jpg?1655824081|"
+"border_crop/front/d/b/db62ac2c-0d24-4d6f-a6ca-cca4371a3bd7.jpg?1659973314|"
 "https://scryfall.com/card/2x2/4/abzan-falconer?utm_source=api>`"
 msgstr ""
 
@@ -899,7 +899,7 @@ msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 #: ../../2X2.rst:212
 msgid ""
 ":mtgtip:`Weathered Wayfarer<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/0/9/09656d96-c366-49ec-b687-cad903de1385.jpg?1655394191|"
+"border_crop/front/0/9/09656d96-c366-49ec-b687-cad903de1385.jpg?1657405884|"
 "https://scryfall.com/card/2x2/34/weathered-wayfarer?utm_source=api>`"
 msgstr ""
 
@@ -2036,7 +2036,7 @@ msgstr ""
 #: ../../2X2.rst:588
 msgid ""
 ":mtgtip:`Anger of the Gods<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/f/9/f92088c2-74c2-4e63-8a54-83d39f9d6ad6.jpg?1655826064|"
+"border_crop/front/f/9/f92088c2-74c2-4e63-8a54-83d39f9d6ad6.jpg?1659645160|"
 "https://scryfall.com/card/2x2/102/anger-of-the-gods?utm_source=api>`"
 msgstr ""
 
@@ -2565,10 +2565,6 @@ msgid ""
 "border_crop/front/7/a/7afa0ee5-a0b8-472e-9991-09402ddb5de3.jpg?1656319323|"
 "https://scryfall.com/card/2x2/132/allosaurus-shepherd?utm_source=api>`"
 msgstr ""
-
-#: ../../2X2.rst:737
-msgid "Allosaurus Shepherd can't be countered."
-msgstr "Ten czar nie może być skontrowany."
 
 #: ../../2X2.rst:739
 msgid "Green spells you control can't be countered."
@@ -5521,7 +5517,7 @@ msgstr ""
 #: ../../2X2.rst:1736
 msgid ""
 ":mtgtip:`Zur the Enchanter<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/a/e/aeb0160a-dfdc-4b1f-865e-ef905aee65d5.jpg?1655499810|"
+"border_crop/front/a/e/aeb0160a-dfdc-4b1f-865e-ef905aee65d5.jpg?1660683055|"
 "https://scryfall.com/card/2x2/297/zur-the-enchanter?utm_source=api>`"
 msgstr ""
 
@@ -6042,7 +6038,7 @@ msgstr "|tap|: Weź |mana_b|\\ |mana_g|."
 #: ../../2X2.rst:1914
 msgid ""
 ":mtgtip:`Gruul Turf<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/2/9/294b7e06-4758-4590-b1f0-b7f97537218f.jpg?1655477580|https://"
+"front/2/9/294b7e06-4758-4590-b1f0-b7f97537218f.jpg?1658000358|https://"
 "scryfall.com/card/2x2/325/gruul-turf?utm_source=api>`"
 msgstr ""
 
@@ -6065,7 +6061,7 @@ msgstr "|tap|: Weź |mana_r|\\ |mana_g|."
 #: ../../2X2.rst:1922
 msgid ""
 ":mtgtip:`Izzet Boilerworks<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/e/b/eb746aeb-7595-4b45-8ffc-90f220308960.jpg?1655477893|"
+"border_crop/front/e/b/eb746aeb-7595-4b45-8ffc-90f220308960.jpg?1658000361|"
 "https://scryfall.com/card/2x2/326/izzet-boilerworks?utm_source=api>`"
 msgstr ""
 
@@ -6195,7 +6191,7 @@ msgstr "|tap|: Weź |mana_g|\\ |mana_u|."
 #: ../../2X2.rst:1965
 msgid ""
 ":mtgtip:`Cryptic Spires<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/3/0/309a6684-ecb3-491c-899a-3aa15a51130b.jpg?1656066777|"
+"border_crop/front/3/0/309a6684-ecb3-491c-899a-3aa15a51130b.jpg?1658363316|"
 "https://scryfall.com/card/2x2/332/cryptic-spires?utm_source=api>`"
 msgstr ""
 
@@ -6210,3 +6206,6 @@ msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 #: ../../2X2.rst:1965
 msgid "|tap|: Add one mana of either of the circled colors."
 msgstr "|tap|: Weź jedną manę któregokolwiek z zakreślonych kolorów."
+
+#~ msgid "Allosaurus Shepherd can't be countered."
+#~ msgstr "Ten czar nie może być skontrowany."

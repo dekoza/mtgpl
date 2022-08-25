@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-21 00:16+0200\n"
+"POT-Creation-Date: 2022-08-25 14:27+0200\n"
 "PO-Revision-Date: 2022-06-25 15:11+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/jmp/pl/>\n"
@@ -795,8 +795,8 @@ msgid ""
 "https://scryfall.com/card/jmp/28/allosaurus-shepherd?utm_source=api>`"
 msgstr ""
 
-#: ../../JMP.rst:163
-msgid "Allosaurus Shepherd can't be countered."
+#: ../../JMP.rst:163 ../../JMP.rst:1717
+msgid "This spell can't be countered."
 msgstr "Ten czar nie może być skontrowany."
 
 #: ../../JMP.rst:165
@@ -5298,10 +5298,6 @@ msgid ""
 "https://scryfall.com/card/jmp/368/volcanic-fallout?utm_source=api>`"
 msgstr ""
 
-#: ../../JMP.rst:1717
-msgid "This spell can't be countered."
-msgstr "Ten czar nie może być skontrowany."
-
 #: ../../JMP.rst:1719
 msgid "Volcanic Fallout deals 2 damage to each creature and each player."
 msgstr "Ten czar zadaje każdemu stworowi i każdemu graczowi po 2 obrażenia."
@@ -7265,6 +7261,9 @@ msgid ""
 msgstr ""
 "Kiedy ta karta wejdzie na pole bitwy, poświęć ją, chyba że zapłacisz |"
 "mana_1|."
+
+#~ msgid "Allosaurus Shepherd can't be countered."
+#~ msgstr "Ten czar nie może być skontrowany."
 
 #~ msgid "Target creature gains indestructible until end of turn."
 #~ msgstr "Wskazany stwór do końca tury zyskuje niezniszczalność."

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2022.7\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-08-25 07:55+0200\n"
+"POT-Creation-Date: 2022-08-25 14:23+0200\n"
 "PO-Revision-Date: 2022-08-25 08:35+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dmc/pl/>\n"
@@ -592,7 +592,7 @@ msgstr ""
 
 #: ../../DMC.rst:131 ../../DMC.rst:803 ../../DMC.rst:865 ../../DMC.rst:895
 #: ../../DMC.rst:917 ../../DMC.rst:949 ../../DMC.rst:969 ../../DMC.rst:975
-#: ../../DMC.rst:981 ../../DMC.rst:1043 ../../DMC.rst:1071
+#: ../../DMC.rst:981 ../../DMC.rst:1043 ../../DMC.rst:1071 ../../DMC.rst:1123
 msgid "|tap|: Add |colorless|."
 msgstr "|tap|: Weź |colorless|."
 
@@ -1226,8 +1226,8 @@ msgid ""
 "Addendum — If you cast this spell during your main phase, put a +1/+1 "
 "counter on each of those creatures and they gain vigilance until end of turn."
 msgstr ""
-"Dopisek — Jeśli rzucisz ten czar w twojej fazie głównej, umieść znacznik +1/+"
-"1 na każdym z owych stworów i zyskują one czujność do końca tury."
+"Dopisek — Jeśli rzucisz ten czar w twojej fazie głównej, umieść znacznik +1/"
+"+1 na każdym z owych stworów i zyskują one czujność do końca tury."
 
 #: ../../DMC.rst:338
 msgid ""
@@ -1328,8 +1328,8 @@ msgid ""
 "Kicker |mana_5|\\ |mana_b| (You may pay an additional |mana_5|\\ |mana_b| as "
 "you cast this spell.)"
 msgstr ""
-"Podbicie |mana_5|\\ |mana_b| (Rzucając ten czar możesz dodatkowo zapłacić "
-"|mana_5|\\ |mana_b|.)"
+"Podbicie |mana_5|\\ |mana_b| (Rzucając ten czar możesz dodatkowo zapłacić |"
+"mana_5|\\ |mana_b|.)"
 
 #: ../../DMC.rst:367
 msgid ""
@@ -1436,8 +1436,8 @@ msgid ""
 "Whenever Captain Lannery Storm attacks, create a Treasure token. (It's an "
 "artifact with \"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
 msgstr ""
-"Ilekroć ten stwór zaatakuje, stwórz żeton Skarbu. (To artefakt mający \"|tap|"
-", poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
+"Ilekroć ten stwór zaatakuje, stwórz żeton Skarbu. (To artefakt mający \"|"
+"tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../DMC.rst:403
 msgid ""
@@ -1729,8 +1729,8 @@ msgid ""
 "upkeep, remove a time counter. When the last is removed, cast it without "
 "paying its mana cost.)"
 msgstr ""
-"Zawieszenie 2—|mana_g| (Zamiast rzucać tę kartę z twojej ręki, zapłać "
-"|mana_g| i wygnaj ją z dwoma znacznikami czasu. Na początku twojego kroku "
+"Zawieszenie 2—|mana_g| (Zamiast rzucać tę kartę z twojej ręki, zapłać |"
+"mana_g| i wygnaj ją z dwoma znacznikami czasu. Na początku twojego kroku "
 "utrzymania, usuń znacznik czasu. Kiedy ostatni znacznik czasu zostanie "
 "usunięty, rzuć ją bez płacenia kosztu many.)"
 
@@ -1897,8 +1897,8 @@ msgid ""
 "you cast this card for its bestow cost, it's an Aura spell with enchant "
 "creature. It becomes a creature again if it's not attached to a creature.)"
 msgstr ""
-"Obdarowanie |mana_2|\\ |mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g| ("
-"Jeśli zagrasz tę kartę za koszt obdarowania, jest ona czarem Aury "
+"Obdarowanie |mana_2|\\ |mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g| "
+"(Jeśli zagrasz tę kartę za koszt obdarowania, jest ona czarem Aury "
 "zauroczenia stwora. Ponownie staje się stworem, jeśli nie jest dołączona do "
 "stwora.)"
 
@@ -2812,7 +2812,8 @@ msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 #: ../../DMC.rst:873
 msgid ""
 "When Bojuka Bog enters the battlefield, exile target player's graveyard."
-msgstr "Kiedy ten byt wejdzie na pole bitwy, wygnaj cmentarz wskazanego gracza."
+msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, wygnaj cmentarz wskazanego gracza."
 
 #: ../../DMC.rst:875 ../../DMC.rst:1077
 msgid "|tap|: Add |mana_b|."
@@ -2921,9 +2922,9 @@ msgstr ""
 
 #: ../../DMC.rst:926
 msgid ""
-":mtgtip:`Dragonskull Summit<https://c2.scryfall.com/file/scryfall-errors/"
-"soon.jpg|https://scryfall.com/card/dmc/207/dragonskull-summit?"
-"utm_source=api>`"
+":mtgtip:`Dragonskull Summit<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/8/c/8c5a9cb7-6c97-47fd-acd0-bc6dd11b77b4.jpg?1661392466|"
+"https://scryfall.com/card/dmc/207/dragonskull-summit?utm_source=api>`"
 msgstr ""
 
 #: ../../DMC.rst:923
@@ -2939,8 +2940,9 @@ msgstr "|tap|: Weź |mana_b| lub |mana_r|."
 
 #: ../../DMC.rst:930
 msgid ""
-":mtgtip:`Evolving Wilds<https://c2.scryfall.com/file/scryfall-errors/soon."
-"jpg|https://scryfall.com/card/dmc/208/evolving-wilds?utm_source=api>`"
+":mtgtip:`Evolving Wilds<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/b/2/b2f20d21-6666-4851-a293-469152c347cf.jpg?1661392484|"
+"https://scryfall.com/card/dmc/208/evolving-wilds?utm_source=api>`"
 msgstr ""
 
 #: ../../DMC.rst:929
@@ -2953,14 +2955,16 @@ msgstr ""
 
 #: ../../DMC.rst:934
 msgid ""
-":mtgtip:`Exotic Orchard<https://c2.scryfall.com/file/scryfall-errors/soon."
-"jpg|https://scryfall.com/card/dmc/209/exotic-orchard?utm_source=api>`"
+":mtgtip:`Exotic Orchard<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/a/d/ad281a0a-57ac-4285-aac7-244eb7b18601.jpg?1661392501|"
+"https://scryfall.com/card/dmc/209/exotic-orchard?utm_source=api>`"
 msgstr ""
 
 #: ../../DMC.rst:940
 msgid ""
-":mtgtip:`Foreboding Ruins<https://c2.scryfall.com/file/scryfall-errors/soon."
-"jpg|https://scryfall.com/card/dmc/211/foreboding-ruins?utm_source=api>`"
+":mtgtip:`Foreboding Ruins<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/b/e/be7a14d1-5846-492e-a41a-d5c2045c3cc7.jpg?1661392518|"
+"https://scryfall.com/card/dmc/211/foreboding-ruins?utm_source=api>`"
 msgstr ""
 
 #: ../../DMC.rst:937
@@ -2975,8 +2979,9 @@ msgstr ""
 
 #: ../../DMC.rst:946
 msgid ""
-":mtgtip:`Frontier Bivouac<https://c2.scryfall.com/file/scryfall-errors/soon."
-"jpg|https://scryfall.com/card/dmc/212/frontier-bivouac?utm_source=api>`"
+":mtgtip:`Frontier Bivouac<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/c/d/cd5d50df-b555-4e81-bf21-756ed71a64de.jpg?1661392544|"
+"https://scryfall.com/card/dmc/212/frontier-bivouac?utm_source=api>`"
 msgstr ""
 
 #: ../../DMC.rst:943
@@ -2989,9 +2994,9 @@ msgstr "|tap|: Weź |mana_g|, |mana_u|, or |mana_r|."
 
 #: ../../DMC.rst:952
 msgid ""
-":mtgtip:`Geier Reach Sanitarium<https://c2.scryfall.com/file/scryfall-errors/"
-"soon.jpg|https://scryfall.com/card/dmc/213/geier-reach-sanitarium?"
-"utm_source=api>`"
+":mtgtip:`Geier Reach Sanitarium<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/0/b/0b9fa570-770d-45a7-9b87-2def6992a22b.jpg?1661392563|"
+"https://scryfall.com/card/dmc/213/geier-reach-sanitarium?utm_source=api>`"
 msgstr ""
 
 #: ../../DMC.rst:951
@@ -3000,8 +3005,9 @@ msgstr "|mana_2|, |tap|: Każdy gracz dobiera kartę, po czym odrzuca kartę."
 
 #: ../../DMC.rst:958
 msgid ""
-":mtgtip:`Grasslands<https://c2.scryfall.com/file/scryfall-errors/soon.jpg|"
-"https://scryfall.com/card/dmc/214/grasslands?utm_source=api>`"
+":mtgtip:`Grasslands<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/6/0/60bef70c-ded1-4645-8c6d-3f9ad032957f.jpg?1661392581|https://"
+"scryfall.com/card/dmc/214/grasslands?utm_source=api>`"
 msgstr ""
 
 #: ../../DMC.rst:955
@@ -3018,7 +3024,8 @@ msgstr ""
 
 #: ../../DMC.rst:964
 msgid ""
-":mtgtip:`Jungle Shrine<https://c2.scryfall.com/file/scryfall-errors/soon.jpg|"
+":mtgtip:`Jungle Shrine<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/e/0/e01e4661-29d8-466d-8045-37e14b88ea1c.jpg?1661392598|"
 "https://scryfall.com/card/dmc/215/jungle-shrine?utm_source=api>`"
 msgstr ""
 
@@ -3032,7 +3039,8 @@ msgstr "|tap|: Weź |mana_r|, |mana_g|, albo |mana_w|."
 
 #: ../../DMC.rst:972
 msgid ""
-":mtgtip:`Krosan Verge<https://c2.scryfall.com/file/scryfall-errors/soon.jpg|"
+":mtgtip:`Krosan Verge<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/d/9/d94c0ed8-a4f0-48ab-809e-5976fd87b97a.jpg?1661392618|"
 "https://scryfall.com/card/dmc/216/krosan-verge?utm_source=api>`"
 msgstr ""
 
@@ -3050,8 +3058,9 @@ msgstr ""
 
 #: ../../DMC.rst:978
 msgid ""
-":mtgtip:`Mikokoro, Center of the Sea<https://c2.scryfall.com/file/scryfall-"
-"errors/soon.jpg|https://scryfall.com/card/dmc/217/mikokoro-center-of-the-sea?"
+":mtgtip:`Mikokoro, Center of the Sea<https://c1.scryfall.com/file/scryfall-"
+"cards/border_crop/front/d/8/d80eb098-5433-4b1e-aad5-0fd31bf598dd.jpg?"
+"1661392635|https://scryfall.com/card/dmc/217/mikokoro-center-of-the-sea?"
 "utm_source=api>`"
 msgstr ""
 
@@ -3061,9 +3070,9 @@ msgstr "|mana_2|, |tap|: Każdy gracz dobiera kartę."
 
 #: ../../DMC.rst:984
 msgid ""
-":mtgtip:`Mobilized District<https://c2.scryfall.com/file/scryfall-errors/"
-"soon.jpg|https://scryfall.com/card/dmc/218/mobilized-district?"
-"utm_source=api>`"
+":mtgtip:`Mobilized District<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/c/f/cf58d89a-03f9-46f0-8ce3-4dd9e97c292f.jpg?1661392649|"
+"https://scryfall.com/card/dmc/218/mobilized-district?utm_source=api>`"
 msgstr ""
 
 #: ../../DMC.rst:983
@@ -3078,8 +3087,9 @@ msgstr ""
 
 #: ../../DMC.rst:990
 msgid ""
-":mtgtip:`Mountain Valley<https://c2.scryfall.com/file/scryfall-errors/soon."
-"jpg|https://scryfall.com/card/dmc/219/mountain-valley?utm_source=api>`"
+":mtgtip:`Mountain Valley<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/1/a/1acef291-70ad-4196-9276-de7b4d31016d.jpg?1661392670|"
+"https://scryfall.com/card/dmc/219/mountain-valley?utm_source=api>`"
 msgstr ""
 
 #: ../../DMC.rst:987
@@ -3119,8 +3129,9 @@ msgstr "|tap|: Weź |mana_w| lub |mana_b|. Ten byt zadaje tobie 1 obrażenie."
 
 #: ../../DMC.rst:1004
 msgid ""
-":mtgtip:`Mystic Monastery<https://c2.scryfall.com/file/scryfall-errors/soon."
-"jpg|https://scryfall.com/card/dmc/221/mystic-monastery?utm_source=api>`"
+":mtgtip:`Mystic Monastery<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/4/6/46b0efe1-958c-4d13-9464-b140080014e7.jpg?1661392691|"
+"https://scryfall.com/card/dmc/221/mystic-monastery?utm_source=api>`"
 msgstr ""
 
 #: ../../DMC.rst:1001
@@ -3133,7 +3144,8 @@ msgstr "|tap|: Weź |mana_u|, |mana_r| lub |mana_w|."
 
 #: ../../DMC.rst:1010
 msgid ""
-":mtgtip:`Nomad Outpost<https://c2.scryfall.com/file/scryfall-errors/soon.jpg|"
+":mtgtip:`Nomad Outpost<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/9/c/9c003287-993d-4cc2-8b91-47919dbaa1ec.jpg?1661392712|"
 "https://scryfall.com/card/dmc/222/nomad-outpost?utm_source=api>`"
 msgstr ""
 
@@ -3147,8 +3159,9 @@ msgstr "|tap|: Weź |mana_r|, |mana_w|, lub |mana_b|."
 
 #: ../../DMC.rst:1016
 msgid ""
-":mtgtip:`Opulent Palace<https://c2.scryfall.com/file/scryfall-errors/soon."
-"jpg|https://scryfall.com/card/dmc/223/opulent-palace?utm_source=api>`"
+":mtgtip:`Opulent Palace<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/e/f/ef77912d-b9f5-4785-a57c-077275605d06.jpg?1661392729|"
+"https://scryfall.com/card/dmc/223/opulent-palace?utm_source=api>`"
 msgstr ""
 
 #: ../../DMC.rst:1013
@@ -3161,8 +3174,9 @@ msgstr "|tap|: Weź |mana_b|, |mana_g|, lub |mana_u|."
 
 #: ../../DMC.rst:1024
 msgid ""
-":mtgtip:`Orzhov Basilica<https://c2.scryfall.com/file/scryfall-errors/soon."
-"jpg|https://scryfall.com/card/dmc/224/orzhov-basilica?utm_source=api>`"
+":mtgtip:`Orzhov Basilica<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/b/4/b4895407-2ff7-4a68-b47e-eb9733c95451.jpg?1661392746|"
+"https://scryfall.com/card/dmc/224/orzhov-basilica?utm_source=api>`"
 msgstr ""
 
 #: ../../DMC.rst:1019
@@ -3183,8 +3197,9 @@ msgstr "|tap|: Weź |mana_w|\\ |mana_b|."
 
 #: ../../DMC.rst:1030
 msgid ""
-":mtgtip:`Prairie Stream<https://c2.scryfall.com/file/scryfall-errors/soon."
-"jpg|https://scryfall.com/card/dmc/225/prairie-stream?utm_source=api>`"
+":mtgtip:`Prairie Stream<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/f/3/f39392dd-a32e-4bbe-a9f9-e8cd281138fe.jpg?1661392770|"
+"https://scryfall.com/card/dmc/225/prairie-stream?utm_source=api>`"
 msgstr ""
 
 #: ../../DMC.rst:1027
@@ -3201,8 +3216,9 @@ msgstr ""
 
 #: ../../DMC.rst:1038
 msgid ""
-":mtgtip:`Rakdos Carnarium<https://c2.scryfall.com/file/scryfall-errors/soon."
-"jpg|https://scryfall.com/card/dmc/226/rakdos-carnarium?utm_source=api>`"
+":mtgtip:`Rakdos Carnarium<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/1/9/19906ffa-c43e-4c11-b9c0-4a8b77d6691a.jpg?1661392798|"
+"https://scryfall.com/card/dmc/226/rakdos-carnarium?utm_source=api>`"
 msgstr ""
 
 #: ../../DMC.rst:1033
@@ -3223,8 +3239,9 @@ msgstr "|tap|: Weź |mana_b|\\ |mana_r|."
 
 #: ../../DMC.rst:1044
 msgid ""
-":mtgtip:`Reliquary Tower<https://c2.scryfall.com/file/scryfall-errors/soon."
-"jpg|https://scryfall.com/card/dmc/227/reliquary-tower?utm_source=api>`"
+":mtgtip:`Reliquary Tower<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/2/b/2bdb402f-b3a9-499c-8b00-31a36c3cba89.jpg?1661392826|"
+"https://scryfall.com/card/dmc/227/reliquary-tower?utm_source=api>`"
 msgstr ""
 
 #: ../../DMC.rst:1041
@@ -3233,7 +3250,8 @@ msgstr "Nie masz limitu kart na ręce."
 
 #: ../../DMC.rst:1050
 msgid ""
-":mtgtip:`Rocky Tar Pit<https://c2.scryfall.com/file/scryfall-errors/soon.jpg|"
+":mtgtip:`Rocky Tar Pit<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/4/1/41c99349-2181-4eee-bf71-717e1dc94f7f.jpg?1661392853|"
 "https://scryfall.com/card/dmc/228/rocky-tar-pit?utm_source=api>`"
 msgstr ""
 
@@ -3251,9 +3269,9 @@ msgstr ""
 
 #: ../../DMC.rst:1056
 msgid ""
-":mtgtip:`Sandsteppe Citadel<https://c2.scryfall.com/file/scryfall-errors/"
-"soon.jpg|https://scryfall.com/card/dmc/229/sandsteppe-citadel?"
-"utm_source=api>`"
+":mtgtip:`Sandsteppe Citadel<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/b/5/b5265db7-5165-469c-bdff-978a5cefc034.jpg?1661392869|"
+"https://scryfall.com/card/dmc/229/sandsteppe-citadel?utm_source=api>`"
 msgstr ""
 
 #: ../../DMC.rst:1053
@@ -3266,7 +3284,8 @@ msgstr "|tap|: Weź |mana_w|, |mana_b|, lub |mana_g|."
 
 #: ../../DMC.rst:1062
 msgid ""
-":mtgtip:`Savage Lands<https://c2.scryfall.com/file/scryfall-errors/soon.jpg|"
+":mtgtip:`Savage Lands<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/7/6/76f6cdba-ae62-4ec5-8319-739a35303b21.jpg?1661392886|"
 "https://scryfall.com/card/dmc/230/savage-lands?utm_source=api>`"
 msgstr ""
 
@@ -3280,8 +3299,9 @@ msgstr "|tap|: Weź |mana_b|, |mana_r|, lub |mana_g|."
 
 #: ../../DMC.rst:1068
 msgid ""
-":mtgtip:`Seaside Citadel<https://c2.scryfall.com/file/scryfall-errors/soon."
-"jpg|https://scryfall.com/card/dmc/231/seaside-citadel?utm_source=api>`"
+":mtgtip:`Seaside Citadel<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/6/e/6ed511b8-6c8d-4a9e-aeef-6d1224bb9204.jpg?1661392906|"
+"https://scryfall.com/card/dmc/231/seaside-citadel?utm_source=api>`"
 msgstr ""
 
 #: ../../DMC.rst:1065
@@ -3294,7 +3314,8 @@ msgstr "|tap|: Weź |mana_g|, |mana_w|, lub |mana_u|."
 
 #: ../../DMC.rst:1074
 msgid ""
-":mtgtip:`Shivan Gorge<https://c2.scryfall.com/file/scryfall-errors/soon.jpg|"
+":mtgtip:`Shivan Gorge<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/d/3/d3162830-4d06-4c69-8544-876d2fa8ea10.jpg?1661392932|"
 "https://scryfall.com/card/dmc/232/shivan-gorge?utm_source=api>`"
 msgstr ""
 
@@ -3305,8 +3326,9 @@ msgstr ""
 
 #: ../../DMC.rst:1080
 msgid ""
-":mtgtip:`Shizo, Death's Storehouse<https://c2.scryfall.com/file/scryfall-"
-"errors/soon.jpg|https://scryfall.com/card/dmc/233/shizo-deaths-storehouse?"
+":mtgtip:`Shizo, Death's Storehouse<https://c1.scryfall.com/file/scryfall-"
+"cards/border_crop/front/0/9/099352e2-38c8-4fb4-a25f-6d928aa20f9e.jpg?"
+"1661392954|https://scryfall.com/card/dmc/233/shizo-deaths-storehouse?"
 "utm_source=api>`"
 msgstr ""
 
@@ -3318,8 +3340,9 @@ msgstr ""
 
 #: ../../DMC.rst:1086
 msgid ""
-":mtgtip:`Smoldering Marsh<https://c2.scryfall.com/file/scryfall-errors/soon."
-"jpg|https://scryfall.com/card/dmc/234/smoldering-marsh?utm_source=api>`"
+":mtgtip:`Smoldering Marsh<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/5/6/5613def4-c9fe-48e0-920d-48dd3a193ecc.jpg?1661392973|"
+"https://scryfall.com/card/dmc/234/smoldering-marsh?utm_source=api>`"
 msgstr ""
 
 #: ../../DMC.rst:1083
@@ -3336,7 +3359,8 @@ msgstr ""
 
 #: ../../DMC.rst:1092
 msgid ""
-":mtgtip:`Sunken Hollow<https://c2.scryfall.com/file/scryfall-errors/soon.jpg|"
+":mtgtip:`Sunken Hollow<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/5/7/57e7f2d7-f2aa-45fd-ad6f-c618edb01018.jpg?1661392993|"
 "https://scryfall.com/card/dmc/235/sunken-hollow?utm_source=api>`"
 msgstr ""
 
@@ -3354,8 +3378,9 @@ msgstr ""
 
 #: ../../DMC.rst:1100
 msgid ""
-":mtgtip:`Temple of Malice<https://c2.scryfall.com/file/scryfall-errors/soon."
-"jpg|https://scryfall.com/card/dmc/236/temple-of-malice?utm_source=api>`"
+":mtgtip:`Temple of Malice<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/0/b/0b5d626b-c04e-4573-ab07-cf0143baa8b7.jpg?1661393012|"
+"https://scryfall.com/card/dmc/236/temple-of-malice?utm_source=api>`"
 msgstr ""
 
 #: ../../DMC.rst:1095
@@ -3368,8 +3393,9 @@ msgstr "Kiedy ten byt wejdzie na pole bitwy, wróż 1."
 
 #: ../../DMC.rst:1108
 msgid ""
-":mtgtip:`Temple of Silence<https://c2.scryfall.com/file/scryfall-errors/soon."
-"jpg|https://scryfall.com/card/dmc/237/temple-of-silence?utm_source=api>`"
+":mtgtip:`Temple of Silence<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/3/b/3b7db6c9-509a-4556-b855-338c34e3cb9b.jpg?1661393039|"
+"https://scryfall.com/card/dmc/237/temple-of-silence?utm_source=api>`"
 msgstr ""
 
 #: ../../DMC.rst:1103
@@ -3386,8 +3412,9 @@ msgstr "|tap|: Weź |mana_w| lub |mana_b|."
 
 #: ../../DMC.rst:1116
 msgid ""
-":mtgtip:`Temple of Triumph<https://c2.scryfall.com/file/scryfall-errors/soon."
-"jpg|https://scryfall.com/card/dmc/238/temple-of-triumph?utm_source=api>`"
+":mtgtip:`Temple of Triumph<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/5/0/506e6398-174b-42ce-a326-2c74671c3777.jpg?1661393067|"
+"https://scryfall.com/card/dmc/238/temple-of-triumph?utm_source=api>`"
 msgstr ""
 
 #: ../../DMC.rst:1111
@@ -3402,11 +3429,11 @@ msgstr "Kiedy ten byt wejdzie na pole bitwy, wróż 1."
 msgid "|tap|: Add |mana_r| or |mana_w|."
 msgstr "|tap|: Weź |mana_r| lub |mana_w|."
 
-#: ../../DMC.rst:1119
+#: ../../DMC.rst:1120
 msgid ""
-":mtgtip:`Terramorphic Expanse<https://c2.scryfall.com/file/scryfall-errors/"
-"soon.jpg|https://scryfall.com/card/dmc/239/terramorphic-expanse?"
-"utm_source=api>`"
+":mtgtip:`Terramorphic Expanse<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/7/4/74d8849c-fe0d-4749-9165-a22f8643888a.jpg?1661393094|"
+"https://scryfall.com/card/dmc/239/terramorphic-expanse?utm_source=api>`"
 msgstr ""
 
 #: ../../DMC.rst:1119
@@ -3416,3 +3443,22 @@ msgid ""
 msgstr ""
 "|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
 "umieść ją przekręconą na polu bitwy, po czym przetasuj."
+
+#: ../../DMC.rst:1127
+msgid ""
+":mtgtip:`Tyrite Sanctum<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/6/d/6d56df43-e5b4-4633-a961-dafc10ffafc5.jpg?1661393114|"
+"https://scryfall.com/card/dmc/240/tyrite-sanctum?utm_source=api>`"
+msgstr ""
+
+#: ../../DMC.rst:1125
+msgid ""
+"|mana_2|, |tap|: Target legendary creature becomes a God in addition to its "
+"other types. Put a +1/+1 counter on it."
+msgstr ""
+
+#: ../../DMC.rst:1127
+msgid ""
+"|mana_4|, |tap|, Sacrifice Tyrite Sanctum: Put an indestructible counter on "
+"target God."
+msgstr ""
