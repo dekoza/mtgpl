@@ -499,7 +499,7 @@
    |mana_b|, Pay 2 life: Draw a card.
 
 
-:mtgtip:`Headless Horseman<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/1/d1aa37c8-98fa-4984-b09b-cf65ad84e97b.jpg?1592364379|https://scryfall.com/card/leg/102/headless-horseman?utm_source=api>`
+:mtgtip:`Headless Horseman<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/1/d1aa37c8-98fa-4984-b09b-cf65ad84e97b.jpg?1659112393|https://scryfall.com/card/leg/102/headless-horseman?utm_source=api>`
    
 
 

@@ -751,7 +751,7 @@
    Delirium — As long as there are four or more card types among cards in your graveyard, Dragon's Rage Channeler gets +2/+2, has flying, and attacks each combat if able.
 
 
-:mtgtip:`A-Dragon's Rage Channeler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/e/ae8024ce-12c9-4139-934d-fb230103daa1.jpg?1657064609|https://scryfall.com/card/mh2/A-121/a-dragons-rage-channeler?utm_source=api>`
+:mtgtip:`A-Dragon's Rage Channeler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/e/ae8024ce-12c9-4139-934d-fb230103daa1.jpg?1658633068|https://scryfall.com/card/mh2/A-121/a-dragons-rage-channeler?utm_source=api>`
    Whenever you cast a noncreature spell, surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)
 
    Delirium — As long as there are four or more card types among cards in your graveyard, Dragon's Rage Channeler gets +2/+0, has flying, and attacks each combat if able.
@@ -1607,7 +1607,7 @@
    |tap|: Add |mana_w| or |mana_u|.
 
 
-:mtgtip:`Rustvale Bridge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/2/2207467a-b82a-47ae-8867-15a859328fe9.jpg?1626099787|https://scryfall.com/card/mh2/253/rustvale-bridge?utm_source=api>`
+:mtgtip:`Rustvale Bridge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/2/2207467a-b82a-47ae-8867-15a859328fe9.jpg?1659047940|https://scryfall.com/card/mh2/253/rustvale-bridge?utm_source=api>`
    Rustvale Bridge enters the battlefield tapped.
 
    Indestructible
@@ -1813,11 +1813,11 @@
    Whenever a nontoken creature enters the battlefield under your control, if you didn't cast it from your hand, it gains haste until your next turn.
 
 
-:mtgtip:`Fire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/e/0e09b054-4d33-4a12-bf2a-9b0009f33044.jpg?1656606402|https://scryfall.com/card/mh2/290/fire-ice?utm_source=api>`
+:mtgtip:`Fire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/e/0e09b054-4d33-4a12-bf2a-9b0009f33044.jpg?1660845942|https://scryfall.com/card/mh2/290/fire-ice?utm_source=api>`
    Fire deals 2 damage divided as you choose among one or two targets.
 
 
-:mtgtip:`Ice<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/e/0e09b054-4d33-4a12-bf2a-9b0009f33044.jpg?1656606402|https://scryfall.com/card/mh2/290/fire-ice?utm_source=api>`
+:mtgtip:`Ice<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/e/0e09b054-4d33-4a12-bf2a-9b0009f33044.jpg?1660845942|https://scryfall.com/card/mh2/290/fire-ice?utm_source=api>`
    Tap target permanent.
 
    Draw a card.
@@ -1893,7 +1893,7 @@
    (|tap|: Add |mana_w|.)
 
 
-:mtgtip:`Island<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/2/423927e6-2419-4d88-b0c4-425e5cac1a3f.jpg?1626104038|https://scryfall.com/card/mh2/483/island?utm_source=api>`
+:mtgtip:`Island<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/2/423927e6-2419-4d88-b0c4-425e5cac1a3f.jpg?1660950508|https://scryfall.com/card/mh2/483/island?utm_source=api>`
    (|tap|: Add |mana_u|.)
 
 
