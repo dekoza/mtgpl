@@ -215,12 +215,12 @@
    Whenever a player loses the game, if they were attacked this turn by an Assassin you controlled, you win the game.
 
 
-:mtgtip:`Rasputin, the Oneiromancer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/f/7f0f171a-2929-4d95-9829-d0e885622e04.jpg?1660919829|https://scryfall.com/card/dmc/40/rasputin-the-oneiromancer?utm_source=api>`
+:mtgtip:`Rasputin, the Oneiromancer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/f/7f0f171a-2929-4d95-9829-d0e885622e04.jpg?1661497132|https://scryfall.com/card/dmc/40/rasputin-the-oneiromancer?utm_source=api>`
    When Rasputin, the Oneiromancer enters the battlefield, put a dream counter on it for each opponent you have. Each opponent creates a 1/1 red Goblin creature token.
 
-   |tap|: Remove one or more dream counters from Raputin: Add that much |colorless|.
+   |tap|, Remove one or more dream counters from Rasputin: Add that much |colorless|.
 
-   |tap|: Remove a dream counter from Rasputin: Create a 2/2 white Knight creature token with protection from red.
+   |tap|, Remove a dream counter from Rasputin: Create a 2/2 white Knight creature token with protection from red.
 
 
 :mtgtip:`Rohgahh, Kher Keep Overlord<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/4/84e87400-cc3f-4476-b177-2c36a65f277b.jpg?1660844928|https://scryfall.com/card/dmc/41/rohgahh-kher-keep-overlord?utm_source=api>`
