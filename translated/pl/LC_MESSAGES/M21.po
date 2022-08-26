@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-29 18:35+0200\n"
-"PO-Revision-Date: 2022-05-29 17:33+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/m21/pl/>\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.12.1\n"
+"X-Generator: Weblate 4.13.1\n"
 
 #: ../../symbols.rst:3
 msgid "{C}"
@@ -304,7 +304,7 @@ msgstr ""
 
 #: ../../M21.rst:27
 msgid "|mana_4|\\ |mana_w|: Anointed Chorister gets +3/+3 until end of turn."
-msgstr "|mana_4|\\ |mana_w|: Ten stwór dostaje do końca tury +3/+3."
+msgstr "|mana_4|\\ |mana_w|: Ten stwór do końca tury dostaje +3/+3."
 
 #: ../../M21.rst:34
 msgid ""
@@ -482,7 +482,7 @@ msgid ""
 "When Daybreak Charger enters the battlefield, target creature gets +2/+0 "
 "until end of turn."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór dostaje do końca tury +2/"
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór do końca tury dostaje +2/"
 "+0."
 
 #: ../../M21.rst:88
@@ -494,7 +494,7 @@ msgstr ""
 
 #: ../../M21.rst:85
 msgid "Target creature gets +1/+0 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +1/+0."
+msgstr "Wskazany stwór do końca tury dostaje +1/+0."
 
 #: ../../M21.rst:87 ../../M21.rst:177 ../../M21.rst:327 ../../M21.rst:783
 #: ../../M21.rst:985
@@ -860,8 +860,8 @@ msgid ""
 "indestructible until end of turn. (Damage and effects that say \"destroy\" "
 "don't destroy it.)"
 msgstr ""
-"Poświęć tego stwora: Inny wskazany stwór pod twoim władaniem zyskuje do "
-"końca tury niezniszczalność. (Obrażenia i efekty mówiące \"zniszcz\" nie "
+"Poświęć tego stwora: Inny wskazany stwór pod twoim władaniem do końca tury "
+"zyskuje niezniszczalność. (Obrażenia i efekty mówiące \"zniszcz\" nie "
 "niszczą go.)"
 
 #: ../../M21.rst:206
@@ -886,7 +886,7 @@ msgid ""
 "tapped this way."
 msgstr ""
 "Ilekroć ten stwór atakuje, możesz przekręcić dowolną liczbę odkręconych "
-"stworów pod twoim władaniem. Niniejszy stwór dostaje do końca tury +1/+1 za "
+"stworów pod twoim władaniem. Niniejszy stwór do końca tury dostaje +1/+1 za "
 "każdego stwora przekręconego w ten sposób."
 
 #: ../../M21.rst:212
@@ -1157,8 +1157,8 @@ msgid ""
 "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 "
 "until end of turn.)"
 msgstr ""
-"Waleczność (Ilekroć rzucisz nie-stworowy czar, ten stwór dostaje do końca "
-"tury +1/+1.)"
+"Waleczność (Ilekroć rzucisz nie-stworowy czar, ten stwór do końca tury "
+"dostaje +1/+1.)"
 
 #: ../../M21.rst:299
 msgid ""
@@ -1177,7 +1177,7 @@ msgstr ""
 
 #: ../../M21.rst:303
 msgid "|mana_2|\\ |mana_u|: Target creature gains flying until end of turn."
-msgstr "|mana_2|\\ |mana_u|: Wskazany stwór zyskuje do końca tury latanie."
+msgstr "|mana_2|\\ |mana_u|: Wskazany stwór do końca tury zyskuje latanie."
 
 #: ../../M21.rst:308
 msgid ""
@@ -1952,7 +1952,7 @@ msgstr ""
 
 #: ../../M21.rst:567
 msgid "Target creature gets -4/-4 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -4/-4."
+msgstr "Wskazany stwór do końca tury dostaje -4/-4."
 
 #: ../../M21.rst:572
 msgid ""
@@ -2057,7 +2057,7 @@ msgid ""
 "−3: Target creature gets -X/-X until end of turn, where X is the number of "
 "cards in your graveyard."
 msgstr ""
-"–3: Wskazany stwór dostaje do końca tury -X/-X, gdzie X jest liczbą kart w "
+"–3: Wskazany stwór do końca tury dostaje -X/-X, gdzie X jest liczbą kart w "
 "twoim cmentarzu."
 
 #: ../../M21.rst:603
@@ -2159,7 +2159,7 @@ msgstr ""
 
 #: ../../M21.rst:635
 msgid "|mana_2|\\ |mana_b|: Masked Blackguard gets +1/+1 until end of turn."
-msgstr "|mana_2|\\ |mana_b|: Ten stwór dostaje do końca tury +1/+1."
+msgstr "|mana_2|\\ |mana_b|: Ten stwór do końca tury dostaje +1/+1."
 
 #: ../../M21.rst:642
 msgid ""
@@ -2464,7 +2464,7 @@ msgid ""
 "When Bone Pit Brute enters the battlefield, target creature gets +4/+0 until "
 "end of turn."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór dostaje do końca tury +4/"
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór do końca tury dostaje +4/"
 "+0."
 
 #: ../../M21.rst:742
@@ -2588,7 +2588,7 @@ msgid ""
 "deals both first-strike and regular combat damage.)"
 msgstr ""
 "Ilekroć źródło pod twoim władaniem zada przeciwnikowi pozabojowe obrażenia, "
-"ten stwór dostaje do końca tury +1/+0 i podwójny cios. (Zadaje obrażenia "
+"ten stwór do końca tury dostaje +1/+0 i podwójny cios. (Zadaje obrażenia "
 "zarówno w pierwszym ciosie i normalnie.)"
 
 #: ../../M21.rst:778
@@ -2796,7 +2796,7 @@ msgstr ""
 
 #: ../../M21.rst:841
 msgid "|mana_r|: Hellkite Punisher gets +1/+0 until end of turn."
-msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_r|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../M21.rst:848
 msgid ""
@@ -2819,7 +2819,7 @@ msgstr ""
 
 #: ../../M21.rst:851
 msgid "|mana_1|\\ |mana_r|: Igneous Cur gets +2/+0 until end of turn."
-msgstr "|mana_1|\\ |mana_r|: Ten stwór dostaje do końca tury +2/+0."
+msgstr "|mana_1|\\ |mana_r|: Ten stwór do końca tury dostaje +2/+0."
 
 #: ../../M21.rst:860
 msgid ""
@@ -2974,7 +2974,7 @@ msgstr ""
 
 #: ../../M21.rst:899
 msgid "Target creature gets +3/+0 and gains first strike until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +3/+0 oraz pierwszy cios."
+msgstr "Wskazany stwór do końca tury dostaje +3/+0 oraz pierwszy cios."
 
 #: ../../M21.rst:908
 msgid ""
@@ -3143,7 +3143,7 @@ msgstr ""
 
 #: ../../M21.rst:953
 msgid "Whenever you draw a card, Burlfist Oak gets +2/+2 until end of turn."
-msgstr "Ilekroć dobierzesz kartę, ten stwór dostaje do końca tury +2/+2."
+msgstr "Ilekroć dobierzesz kartę, ten stwór do końca tury dostaje +2/+2."
 
 #: ../../M21.rst:960
 msgid ""
@@ -3284,7 +3284,7 @@ msgstr ""
 msgid ""
 "+1: Up to one target creature gets +3/+3 and gains trample until end of turn."
 msgstr ""
-"+1: Co najwyżej jeden wskazany stwór dostaje do końca tury +3/+3 i "
+"+1: Co najwyżej jeden wskazany stwór do końca tury dostaje +3/+3 i "
 "tratowanie."
 
 #: ../../M21.rst:1005
@@ -3499,7 +3499,7 @@ msgid ""
 "or greater, Ornery Dilophosaur gets +2/+2 until end of turn."
 msgstr ""
 "Ilekroć ten stwór atakuje, jeśli władasz stworem o sile 4 lub większej, "
-"niniejszy stwór dostaje do końca tury +2/+2."
+"niniejszy stwór do końca tury dostaje +2/+2."
 
 #: ../../M21.rst:1072
 msgid ""
@@ -3547,7 +3547,7 @@ msgid ""
 "Target creature you control gets +X/+X until end of turn. Then it fights up "
 "to one target creature you don't control."
 msgstr ""
-"Wskazany stwór pod twoim władaniem dostaje do końca tury +X/+X. Następnie "
+"Wskazany stwór pod twoim władaniem do końca tury dostaje +X/+X. Następnie "
 "walczy z co najwyżej jednym wskazanym stworem poza twoim władaniem."
 
 #: ../../M21.rst:1086
@@ -3577,7 +3577,7 @@ msgid ""
 "Target creature you control gets +1/+1 and gains hexproof until end of turn. "
 "(It can't be the target of spells or abilities your opponents control.)"
 msgstr ""
-"Wskazany stwór pod twoim władaniem dostaje do końca tury +1/+1 oraz "
+"Wskazany stwór pod twoim władaniem do końca tury dostaje +1/+1 oraz "
 "antyklątwę. (Nie może być wskazywany przez czary lub zdolności pod władaniem "
 "twoich przeciwników.)"
 
@@ -3703,7 +3703,7 @@ msgid ""
 "Whenever Snarespinner blocks a creature with flying, Snarespinner gets +2/+0 "
 "until end of turn."
 msgstr ""
-"Ilekroć ten stwór zablokuje stwora z lataniem, dostaje do końca tury +2/+0."
+"Ilekroć ten stwór zablokuje stwora z lataniem, do końca tury dostaje +2/+0."
 
 #: ../../M21.rst:1142
 msgid ""
@@ -3746,7 +3746,7 @@ msgstr ""
 
 #: ../../M21.rst:1149
 msgid "Target creature gets +4/+4 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +4/+4."
+msgstr "Wskazany stwór do końca tury dostaje +4/+4."
 
 #: ../../M21.rst:1154
 msgid ""
@@ -3843,7 +3843,7 @@ msgid ""
 "Whenever Alpine Houndmaster attacks, it gets +X/+0 until end of turn, where "
 "X is the number of other attacking creatures."
 msgstr ""
-"Ilekroć ten stwór zaatakuje, dostaje do końca tury +X/+0, gdzie X jest "
+"Ilekroć ten stwór zaatakuje, do końca tury dostaje +X/+0, gdzie X jest "
 "liczbą innych atakujących stworów."
 
 #: ../../M21.rst:1186
@@ -3880,7 +3880,7 @@ msgid ""
 "attacking.)"
 msgstr ""
 "Na początku potyczki w twojej turze, możesz poświęcić innego stwora. Jeśli "
-"tak zrobisz, niniejszy stwór dostaje do końca tury +2/+2 i tratowanie. (Może "
+"tak zrobisz, niniejszy stwór do końca tury dostaje +2/+2 i tratowanie. (Może "
 "zadań nadwyżkę obrażeń bojowych atakowanemu graczowi lub wędrowcowi.)"
 
 #: ../../M21.rst:1194
@@ -4019,7 +4019,7 @@ msgid ""
 "|mana_4|\\ |mana_r|\\ |mana_g|: Radha gets +X/+X until end of turn, where X "
 "is the number of lands you control."
 msgstr ""
-"|mana_4|\\ |mana_r|\\ |mana_g|: Ten stwór dostaje do końca tury +X/+X, gdzie "
+"|mana_4|\\ |mana_r|\\ |mana_g|: Ten stwór do końca tury dostaje +X/+X, gdzie "
 "X jest liczbą lądów pod twoim władaniem."
 
 #: ../../M21.rst:1240
@@ -4080,7 +4080,7 @@ msgid ""
 "control, Watcher of the Spheres gets +1/+1 until end of turn."
 msgstr ""
 "Ilekroć inny stwór mający latanie wejdzie na pole bitwy pod twoim władaniem, "
-"niniejszy stwór dostaje do końca tury +1/+1."
+"niniejszy stwór do końca tury dostaje +1/+1."
 
 #: ../../M21.rst:1260
 msgid ""
@@ -4816,8 +4816,8 @@ msgid ""
 "Whenever you draw your second card each turn, Mystic Skyfish gains flying "
 "until end of turn."
 msgstr ""
-"Ilekroć dobierzesz swoją drugą kartę w danej turze, ten stwór zyskuje do "
-"końca tury latanie."
+"Ilekroć dobierzesz swoją drugą kartę w danej turze, ten stwór do końca tury "
+"zyskuje latanie."
 
 #: ../../M21.rst:1536
 msgid ""

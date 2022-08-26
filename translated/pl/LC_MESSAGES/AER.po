@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-22 09:12+0200\n"
-"PO-Revision-Date: 2022-04-17 16:43+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/aer/pl/>\n"
 "Language: pl\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.10.1\n"
+"X-Generator: Weblate 4.13.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../symbols.rst:3
@@ -358,7 +358,7 @@ msgstr "Wybierz jedno —"
 
 #: ../../AER.rst:45
 msgid "Target creature you control gets +1/+2 until end of turn."
-msgstr "Wskazany stwór pod twoim władaniem dostaje do końca tury +1/+2 ."
+msgstr "Wskazany stwór pod twoim władaniem do końca tury dostaje +1/+2 ."
 
 #: ../../AER.rst:47
 msgid "Return target creature you control to its owner's hand."
@@ -993,7 +993,7 @@ msgstr ""
 
 #: ../../AER.rst:257
 msgid "Pay |energy|: Shipwreck Moray gets +2/-2 until end of turn."
-msgstr "Zapłać |energy|: Ten stwór dostaje do końca tury +2/-2."
+msgstr "Zapłać |energy|: Ten stwór do końca tury dostaje +2/-2."
 
 #: ../../AER.rst:264
 msgid ""
@@ -1117,7 +1117,7 @@ msgstr ""
 
 #: ../../AER.rst:301
 msgid "Target creature gets -X/-X until end of turn. You gain X life."
-msgstr "Wskazany stwór dostaje do końca tury -X/-X. Zyskaj X żyć."
+msgstr "Wskazany stwór do końca tury dostaje -X/-X. Zyskaj X żyć."
 
 #: ../../AER.rst:306
 msgid ""
@@ -1131,7 +1131,7 @@ msgid ""
 "Target creature gets -2/-2 until end of turn. Scry 1. (Look at the top card "
 "of your library. You may put that card on the bottom of your library.)"
 msgstr ""
-"Wskazany stwór dostaje do końca tury -2/-2. Wróż 1. (Spójrz na wierzchnią "
+"Wskazany stwór do końca tury dostaje -2/-2. Wróż 1. (Spójrz na wierzchnią "
 "kartę swojej biblioteki. Możesz umieścić ją na spodzie swojej biblioteki.)"
 
 #: ../../AER.rst:310
@@ -1220,8 +1220,8 @@ msgid ""
 "When Fourth Bridge Prowler enters the battlefield, you may have target "
 "creature get -1/-1 until end of turn."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, możesz sprawić, że wskazany stwór "
-"dostaje do końca tury -1/-1."
+"Kiedy ten byt wejdzie na pole bitwy, możesz sprawić, że wskazany stwór do "
+"końca tury dostaje -1/-1."
 
 #: ../../AER.rst:340
 msgid ""
@@ -1296,7 +1296,7 @@ msgid ""
 "|mana_1|\\ |mana_b|, Sacrifice an artifact: Target creature gets -2/-2 until "
 "end of turn."
 msgstr ""
-"|mana_1|\\ |mana_b|, poświęć artefakt: Wskazany stwór dostaje do końca tury "
+"|mana_1|\\ |mana_b|, poświęć artefakt: Wskazany stwór do końca tury dostaje "
 "-2/-2."
 
 #: ../../AER.rst:368
@@ -1444,8 +1444,8 @@ msgid ""
 "controls gets -3/-3 until end of turn."
 msgstr ""
 "Rewolta — Kiedy ten byt wejdzie na pole bitwy, jeśli byt pod twoim władaniem "
-"opuścił pole bitwy w tej turze, wskazany stwór pod władaniem przeciwnika "
-"dostaje do końca tury -3/-3."
+"opuścił pole bitwy w tej turze, wskazany stwór pod władaniem przeciwnika do "
+"końca tury dostaje -3/-3."
 
 #: ../../AER.rst:414
 msgid ""
@@ -1664,7 +1664,7 @@ msgstr "Wskazany stwór dostaje od końca tury +4/+0 oraz tratowanie."
 #: ../../AER.rst:485
 msgid "Two target creatures each get +2/+0 and gain trample until end of turn."
 msgstr ""
-"Każdy z dwóch wskazanych stwór dostaje do końca tury +2/+0 oraz tratowanie."
+"Każdy z dwóch wskazanych stwór do końca tury dostaje +2/+0 oraz tratowanie."
 
 #: ../../AER.rst:492
 msgid ""
@@ -1768,7 +1768,7 @@ msgstr ""
 
 #: ../../AER.rst:515
 msgid "Target creature gets +1/+0 and gains first strike until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +1/+0 i pierwszy cios."
+msgstr "Wskazany stwór do końca tury dostaje +1/+0 i pierwszy cios."
 
 #: ../../AER.rst:520
 msgid ""
@@ -1968,7 +1968,7 @@ msgstr ""
 
 #: ../../AER.rst:585
 msgid "Pay |energy|: Aetherwind Basker gets +1/+1 until end of turn."
-msgstr "Zapłać |energy|: Ten stwór dostaje do końca tury +1/+1."
+msgstr "Zapłać |energy|: Ten stwór do końca tury dostaje +1/+1."
 
 #: ../../AER.rst:590
 msgid ""
@@ -2072,8 +2072,8 @@ msgid ""
 "Target creature gets +3/+3 until end of turn. You get |energy|\\ |energy| "
 "(two energy counters)."
 msgstr ""
-"Wskazany stwór dostaje do końca tury +3/+3. Przyjmij |energy|\\ |energy| "
-"(dwa znaczniki energii)."
+"Wskazany stwór do końca tury dostaje +3/+3. Przyjmij |energy|\\ |energy| ("
+"dwa znaczniki energii)."
 
 #: ../../AER.rst:618
 msgid ""
@@ -2543,7 +2543,7 @@ msgid ""
 "−2: Target creature gets +X/-X until end of turn, where X is the number of "
 "artifacts you control."
 msgstr ""
-"–2: Wskazany stwór dostaje do końca tury +X/-X, gdzie X jest liczbą "
+"–2: Wskazany stwór do końca tury dostaje +X/-X, gdzie X jest liczbą "
 "artefaktów pod twoim władaniem."
 
 #: ../../AER.rst:755
@@ -2592,7 +2592,7 @@ msgid ""
 "control gets +2/+0 until end of turn."
 msgstr ""
 "Na początku potyczki w twojej turze, wskazany artefaktowy stwór pod twoim "
-"władaniem dostaje do końca tury +2/+0."
+"władaniem do końca tury dostaje +2/+0."
 
 #: ../../AER.rst:774
 msgid ""
@@ -2670,7 +2670,7 @@ msgstr ""
 
 #: ../../AER.rst:791
 msgid "|mana_1|\\ |mana_b|: Augmenting Automaton gets +1/+1 until end of turn."
-msgstr "|mana_1|\\ |mana_b|: Ten stwór dostaje do końca tury +1/+1."
+msgstr "|mana_1|\\ |mana_b|: Ten stwór do końca tury dostaje +1/+1."
 
 #: ../../AER.rst:798
 msgid ""
@@ -2745,7 +2745,7 @@ msgid ""
 "mana ability, Crackdown Construct gets +1/+1 until end of turn."
 msgstr ""
 "Ilekroć aktywujesz zdolność artefaktu lub stwora nie będącą zdolnością "
-"dającą manę, ten stwór dostaje do końca tury +1/+1."
+"dającą manę, ten stwór do końca tury dostaje +1/+1."
 
 #: ../../AER.rst:822
 msgid ""

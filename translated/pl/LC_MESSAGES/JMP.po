@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-25 14:27+0200\n"
-"PO-Revision-Date: 2022-06-25 15:11+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/jmp/pl/>\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.12.1\n"
+"X-Generator: Weblate 4.13.1\n"
 
 #: ../../symbols.rst:3
 msgid "{C}"
@@ -355,7 +355,7 @@ msgid ""
 "turn."
 msgstr ""
 "Ilekroć ten stwór atakuje, jeśli władasz artefaktem lub urokiem, ten stwór "
-"dostaje do końca tury +1/+1 i więź życia."
+"do końca tury dostaje +1/+1 i więź życia."
 
 #: ../../JMP.rst:40
 msgid ""
@@ -538,7 +538,7 @@ msgid ""
 "|mana_1|, Sacrifice a creature: Kels, Fight Fixer gains indestructible until "
 "end of turn."
 msgstr ""
-"|mana_1|, poświęć stwora: Niniejszy stwór zyskuje do końca tury "
+"|mana_1|, poświęć stwora: Niniejszy stwór do końca tury zyskuje "
 "niezniszczalność."
 
 #: ../../JMP.rst:98
@@ -673,8 +673,8 @@ msgid ""
 "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 "
 "until end of turn.)"
 msgstr ""
-"Waleczność (Ilekroć rzucisz nie-stworowy czar, ten stwór dostaje do końca "
-"tury +1/+1.)"
+"Waleczność (Ilekroć rzucisz nie-stworowy czar, ten stwór do końca tury "
+"dostaje +1/+1.)"
 
 #: ../../JMP.rst:136
 msgid ""
@@ -1074,7 +1074,7 @@ msgstr ""
 
 #: ../../JMP.rst:255
 msgid "Target creature gets +1/+7 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +1/+7."
+msgstr "Wskazany stwór do końca tury dostaje +1/+7."
 
 #: ../../JMP.rst:260
 msgid ""
@@ -1107,7 +1107,7 @@ msgid ""
 "When Affa Guard Hound enters the battlefield, target creature gets +0/+3 "
 "until end of turn."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór dostaje do końca tury +0/"
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór do końca tury dostaje +0/"
 "+3."
 
 #: ../../JMP.rst:270
@@ -1139,8 +1139,8 @@ msgid ""
 "turn. (Damage dealt by the creature also causes its controller to gain that "
 "much life.)"
 msgstr ""
-"|mana_1|\\ |mana_w|: Wskazany stwór pod twoim władaniem zyskuje do końca "
-"tury więź życia. (Obrażenia zadane przez owego stwora powodują, że jego "
+"|mana_1|\\ |mana_w|: Wskazany stwór pod twoim władaniem do końca tury "
+"zyskuje więź życia. (Obrażenia zadane przez owego stwora powodują, że jego "
 "władca zyskuje tyle samo żyć.)"
 
 #: ../../JMP.rst:280
@@ -1380,7 +1380,7 @@ msgstr ""
 #: ../../JMP.rst:359
 msgid "Up to two target creatures each get +2/+2 until end of turn."
 msgstr ""
-"Każdy z co najwyżej dwóch wskazanych stworów dostaje do końca tury +2/+2."
+"Każdy z co najwyżej dwóch wskazanych stworów do końca tury dostaje +2/+2."
 
 #: ../../JMP.rst:364
 msgid ""
@@ -1750,7 +1750,7 @@ msgid ""
 "Target creature gets +2/+2 and gains lifelink until end of turn. (Damage "
 "dealt by the creature also causes its controller to gain that much life.)"
 msgstr ""
-"Wskazany stwór dostaje do końca tury +2/+2 oraz więź życia. (Obrażenia "
+"Wskazany stwór do końca tury dostaje +2/+2 oraz więź życia. (Obrażenia "
 "zadane przez tego stwora dodatkowo sprawiają, że jego władca zyskuje tyle "
 "samo życia.)"
 
@@ -1894,7 +1894,7 @@ msgid ""
 "Target creature gets +2/+2 until end of turn. You gain 1 life for each "
 "attacking creature you control."
 msgstr ""
-"Wskazany stwór dostaje do końca tury +2/+2. Zyskaj po 1 życiu za każdego "
+"Wskazany stwór do końca tury dostaje +2/+2. Zyskaj po 1 życiu za każdego "
 "atakujące stwora pod twoim władaniem."
 
 #: ../../JMP.rst:550
@@ -1923,7 +1923,7 @@ msgid ""
 "Target creature gains indestructible until end of turn. (Damage and effects "
 "that say \"destroy\" don't destroy it.)"
 msgstr ""
-"Wskazany stwór zyskuje do końca tury niezniszczalność. (Obrażenia i efekty "
+"Wskazany stwór do końca tury zyskuje niezniszczalność. (Obrażenia i efekty "
 "mówiące \"zniszcz\" nie niszczą go.)"
 
 #: ../../JMP.rst:557
@@ -1972,7 +1972,7 @@ msgstr ""
 
 #: ../../JMP.rst:577
 msgid "Target creature gets -4/-0 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -4/-0."
+msgstr "Wskazany stwór do końca tury dostaje -4/-0."
 
 #: ../../JMP.rst:579 ../../JMP.rst:647 ../../JMP.rst:667 ../../JMP.rst:813
 #: ../../JMP.rst:1369 ../../JMP.rst:1747 ../../JMP.rst:1843 ../../JMP.rst:1907
@@ -3341,9 +3341,9 @@ msgid ""
 "until end of turn. That creature gets -4/-4 instead if you control a "
 "creature named Bogbrew Witch."
 msgstr ""
-"Kiedy ten stwór umrze, wskazany stwór pod władaniem przeciwnika dostaje do "
-"końca tury -1/-1. Ów stwór dostaje zamiast tego -4/-4 jeśli władasz stworem "
-"o nazwie Bogbrew Witch."
+"Kiedy ten stwór umrze, wskazany stwór pod władaniem przeciwnika do końca "
+"tury dostaje -1/-1. Ów stwór dostaje zamiast tego -4/-4 jeśli władasz "
+"stworem o nazwie Bogbrew Witch."
 
 #: ../../JMP.rst:1072
 msgid ""
@@ -3466,7 +3466,7 @@ msgstr ""
 
 #: ../../JMP.rst:1103
 msgid "Whenever a creature dies, Gristle Grinner gets +2/+2 until end of turn."
-msgstr "Ilekroć umrze stwór, niniejszy stwór dostaje do końca tury +2/+2."
+msgstr "Ilekroć umrze stwór, niniejszy stwór do końca tury dostaje +2/+2."
 
 #: ../../JMP.rst:1110
 msgid ""
@@ -3500,7 +3500,7 @@ msgstr ""
 #: ../../JMP.rst:1117
 msgid ""
 "Whenever you gain life, Kalastria Nightwatch gains flying until end of turn."
-msgstr "Ilekroć zyskasz życia, ten stwór zyskuje do końca tury latanie."
+msgstr "Ilekroć zyskasz życia, ten stwór do końca tury zyskuje latanie."
 
 #: ../../JMP.rst:1122
 msgid ""
@@ -3522,7 +3522,7 @@ msgstr ""
 
 #: ../../JMP.rst:1125
 msgid "Target creature gets -3/-3 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -3/-3."
+msgstr "Wskazany stwór do końca tury dostaje -3/-3."
 
 #: ../../JMP.rst:1132
 msgid ""
@@ -3599,7 +3599,7 @@ msgstr ""
 
 #: ../../JMP.rst:1155
 msgid "Whenever you gain life, Malakir Familiar gets +1/+1 until end of turn."
-msgstr "Ilekroć zyskasz życia, ten stwór dostaje do końca tury +1/+1."
+msgstr "Ilekroć zyskasz życia, ten stwór do końca tury dostaje +1/+1."
 
 #: ../../JMP.rst:1162
 msgid ""
@@ -3758,8 +3758,7 @@ msgstr ""
 msgid ""
 "|tap|, Sacrifice Phyrexian Debaser: Target creature gets -2/-2 until end of "
 "turn."
-msgstr ""
-"|tap|, poświęć tego stwora: Wskazany stwór dostaje do końca tury -2/-2."
+msgstr "|tap|, poświęć tego stwora: Wskazany stwór do końca tury dostaje -2/-2."
 
 #: ../../JMP.rst:1222
 msgid ""
@@ -3813,7 +3812,7 @@ msgstr ""
 #: ../../JMP.rst:1233
 msgid ""
 "|mana_b|, Sacrifice a creature: Target creature gets -1/-1 until end of turn."
-msgstr "|mana_b|, poświęć stwora: Wskazany stwór dostaje do końca tury -1/-1."
+msgstr "|mana_b|, poświęć stwora: Wskazany stwór do końca tury dostaje -1/-1."
 
 #: ../../JMP.rst:1238
 msgid ""
@@ -3946,8 +3945,8 @@ msgid ""
 "When Shambling Goblin dies, target creature an opponent controls gets -1/-1 "
 "until end of turn."
 msgstr ""
-"Kiedy ten stwór umrze, wskazany stwór pod władaniem przeciwnika dostaje do "
-"końca tury -1/-1."
+"Kiedy ten stwór umrze, wskazany stwór pod władaniem przeciwnika do końca "
+"tury dostaje -1/-1."
 
 #: ../../JMP.rst:1286
 msgid ""
@@ -4298,7 +4297,7 @@ msgstr ""
 
 #: ../../JMP.rst:1389
 msgid "Whenever Borderland Marauder attacks, it gets +2/+0 until end of turn."
-msgstr "Ilekroć ten stwór zaatakuje, dostaje do końca tury +2/+0."
+msgstr "Ilekroć ten stwór zaatakuje, do końca tury dostaje +2/+0."
 
 #: ../../JMP.rst:1392
 msgid ""
@@ -4344,8 +4343,8 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, Charmbreaker Devils gets +4/"
 "+0 until end of turn."
 msgstr ""
-"Ilekroć rzucisz czar sztuczki lub obrzędu, ten stwór dostaje do końca tury "
-"+4/+0."
+"Ilekroć rzucisz czar sztuczki lub obrzędu, ten stwór do końca tury dostaje +"
+"4/+0."
 
 #: ../../JMP.rst:1408
 msgid ""
@@ -4448,7 +4447,7 @@ msgstr ""
 
 #: ../../JMP.rst:1437
 msgid "|mana_r|: Dragon Hatchling gets +1/+0 until end of turn."
-msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_r|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../JMP.rst:1442
 msgid ""
@@ -4626,7 +4625,7 @@ msgstr ""
 
 #: ../../JMP.rst:1497
 msgid "|mana_r|: Furnace Whelp gets +1/+0 until end of turn."
-msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_r|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../JMP.rst:1504
 msgid ""
@@ -4850,8 +4849,8 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, Kiln Fiend gets +3/+0 until "
 "end of turn."
 msgstr ""
-"Ilekroć rzucisz czar sztuczki lub obrzędu, ten stwór dostaje do końca tury "
-"+3/+0."
+"Ilekroć rzucisz czar sztuczki lub obrzędu, ten stwór do końca tury dostaje +"
+"3/+0."
 
 #: ../../JMP.rst:1572
 msgid ""
@@ -5008,7 +5007,7 @@ msgstr ""
 msgid ""
 "When Minotaur Skullcleaver enters the battlefield, it gets +2/+0 until end "
 "of turn."
-msgstr "Kiedy ten byt wejdzie na pole bitwy, dostaje do końca tury +2/+0."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, do końca tury dostaje +2/+0."
 
 #: ../../JMP.rst:1632
 msgid ""
@@ -5023,7 +5022,7 @@ msgstr "Zasięg (Ten stwór może blokować stwory mające latanie.)"
 
 #: ../../JMP.rst:1631
 msgid "|mana_1|\\ |mana_r|: Minotaur Sureshot gets +1/+0 until end of turn."
-msgstr "|mana_1|\\ |mana_r|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_1|\\ |mana_r|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../JMP.rst:1636
 msgid ""
@@ -5034,7 +5033,7 @@ msgstr ""
 
 #: ../../JMP.rst:1635
 msgid "|mana_r|: Molten Ravager gets +1/+0 until end of turn."
-msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_r|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../JMP.rst:1640
 msgid ""
@@ -5278,7 +5277,7 @@ msgstr "Kiedy ten stwór umrze, zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../JMP.rst:1709
 msgid "|mana_1|\\ |mana_r|: Tibalt's Rager gets +2/+0 until end of turn."
-msgstr "|mana_1|\\ |mana_r|: Ten stwór dostaje do końca tury +2/+0."
+msgstr "|mana_1|\\ |mana_r|: Ten stwór do końca tury dostaje +2/+0."
 
 #: ../../JMP.rst:1714
 msgid ""
@@ -5394,7 +5393,7 @@ msgstr ""
 
 #: ../../JMP.rst:1745
 msgid "Target creature gets +1/+1 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +1/+1."
+msgstr "Wskazany stwór do końca tury dostaje +1/+1."
 
 #: ../../JMP.rst:1752
 msgid ""
@@ -5684,7 +5683,7 @@ msgid ""
 "blocked this turn if able. (A creature with trample can deal excess combat "
 "damage to the player or planeswalker it's attacking.)"
 msgstr ""
-"Wskazany stwór dostaje do końca tury +7/+7 oraz tratowanie. Musi być "
+"Wskazany stwór do końca tury dostaje +7/+7 oraz tratowanie. Musi być "
 "blokowany w tej turze, jeśli to możliwe. (Stwór z tratowaniem może zadać "
 "nadwyżkę obrażeń bojowych atakowanemu graczowi lub wędrowcowi.)"
 
@@ -6127,7 +6126,7 @@ msgid ""
 "Whenever Rampaging Brontodon attacks, it gets +1/+1 until end of turn for "
 "each land you control."
 msgstr ""
-"Ilekroć ten stwór atakuje, dostaje do końca tury +1/+1 za każdy ląd pod "
+"Ilekroć ten stwór atakuje, do końca tury dostaje +1/+1 za każdy ląd pod "
 "twoim władaniem."
 
 #: ../../JMP.rst:2000
@@ -6461,7 +6460,7 @@ msgstr ""
 #: ../../JMP.rst:2107
 msgid ""
 "|mana_8|: Target creature gets +5/+5 and gains trample until end of turn."
-msgstr "|mana_8|: Wskazany stwór dostaje do końca tury +5/+5 i tratowanie."
+msgstr "|mana_8|: Wskazany stwór do końca tury dostaje +5/+5 i tratowanie."
 
 #: ../../JMP.rst:2114
 msgid ""
@@ -6472,7 +6471,7 @@ msgstr ""
 
 #: ../../JMP.rst:2111
 msgid "Target creature gets +2/+2 and gains trample until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +2/+2 i tratowanie."
+msgstr "Wskazany stwór do końca tury dostaje +2/+2 i tratowanie."
 
 #: ../../JMP.rst:2118
 msgid ""
@@ -6538,7 +6537,7 @@ msgstr ""
 
 #: ../../JMP.rst:2131
 msgid "Target creature gets +4/-4 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +4/-4."
+msgstr "Wskazany stwór do końca tury dostaje +4/-4."
 
 #: ../../JMP.rst:2136
 msgid ""
@@ -6872,7 +6871,7 @@ msgstr ""
 
 #: ../../JMP.rst:2249
 msgid "|mana_3|: Jousting Dummy gets +1/+0 until end of turn."
-msgstr "|mana_3|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_3|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../JMP.rst:2256
 msgid ""
@@ -7020,7 +7019,7 @@ msgid ""
 "|mana_7|: Roving Keep gets +2/+0 and gains trample until end of turn. It can "
 "attack this turn as though it didn't have defender."
 msgstr ""
-"|mana_7|: Ten stwór dostaje do końca tury +2/+0 oraz tratowanie. Może "
+"|mana_7|: Ten stwór do końca tury dostaje +2/+0 oraz tratowanie. Może "
 "zaatakować w tej turze tak, jakby nie miał obronności."
 
 #: ../../JMP.rst:2310

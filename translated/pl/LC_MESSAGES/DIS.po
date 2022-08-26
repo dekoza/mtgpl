@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-22 09:12+0200\n"
-"PO-Revision-Date: 2022-05-29 17:33+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dis/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.12.1\n"
+"X-Generator: Weblate 4.13.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../symbols.rst:3
@@ -307,7 +307,7 @@ msgstr ""
 
 #: ../../DIS.rst:27
 msgid "|mana_w|: Beacon Hawk gets +0/+1 until end of turn."
-msgstr "|mana_w|: Ten stwór dostaje do końca tury +0/+1."
+msgstr "|mana_w|: Ten stwór do końca tury dostaje +0/+1."
 
 #: ../../DIS.rst:34
 msgid ""
@@ -558,8 +558,8 @@ msgid ""
 "gets +1/+1 until end of turn. (Activate only during your upkeep and only "
 "once each turn.)"
 msgstr ""
-"Zapowiedź — |mana_w|, ujawnij tę kartę z twojej ręki: Wskazany stwór dostaje "
-"do końca tury +1/+1. (Możesz aktywować tylko w twoim kroku utrzymania i "
+"Zapowiedź — |mana_w|, ujawnij tę kartę z twojej ręki: Wskazany stwór do "
+"końca tury dostaje +1/+1. (Możesz aktywować tylko w twoim kroku utrzymania i "
 "tylko raz na turę.)"
 
 #: ../../DIS.rst:114
@@ -719,7 +719,7 @@ msgid ""
 "|mana_1|: Target creature with a +1/+1 counter on it gains flying until end "
 "of turn."
 msgstr ""
-"|mana_1|: Wskazany stwór mający znacznik +1/+1 zyskuje do końca tury latanie."
+"|mana_1|: Wskazany stwór mający znacznik +1/+1 do końca tury zyskuje latanie."
 
 #: ../../DIS.rst:162
 msgid ""
@@ -759,7 +759,7 @@ msgstr "Zauroczony stwór ma \"|tap|: Dobierz kartę.\""
 
 #: ../../DIS.rst:169
 msgid "|mana_w|: Enchanted creature gains vigilance until end of turn."
-msgstr "|mana_w|: Zauroczony stwór zyskuje do końca tury czujność."
+msgstr "|mana_w|: Zauroczony stwór do końca tury zyskuje czujność."
 
 #: ../../DIS.rst:178
 msgid ""
@@ -1198,7 +1198,7 @@ msgid ""
 "target creature gets -3/-3 until end of turn."
 msgstr ""
 "Zaślepienie — Kiedy ten stwór umrze, jeśli nie masz kart w ręce, wskazany "
-"stwór dostaje do końca tury -3/-3."
+"stwór do końca tury dostaje -3/-3."
 
 #: ../../DIS.rst:322
 msgid ""
@@ -1209,7 +1209,7 @@ msgstr ""
 
 #: ../../DIS.rst:319
 msgid "|mana_b|: Slithering Shade gets +1/+1 until end of turn."
-msgstr "|mana_b|: Ten stwór dostaje do końca tury +1/+1."
+msgstr "|mana_b|: Ten stwór do końca tury dostaje +1/+1."
 
 #: ../../DIS.rst:321
 msgid ""
@@ -1228,7 +1228,7 @@ msgstr ""
 
 #: ../../DIS.rst:325
 msgid "|mana_b|: Unliving Psychopath gets +1/-1 until end of turn."
-msgstr "|mana_b|: Ten stwór dostaje do końca tury +1/-1."
+msgstr "|mana_b|: Ten stwór do końca tury dostaje +1/-1."
 
 #: ../../DIS.rst:327
 msgid ""
@@ -1329,8 +1329,8 @@ msgid ""
 "As long as Flaring Flame-Kin is enchanted, it gets +2/+2, has trample, and "
 "has \"|mana_r|: Flaring Flame-Kin gets +1/+0 until end of turn.\""
 msgstr ""
-"O ile ten stwór jest zauroczony, dostaje on +2/+2, ma tratowanie oraz \"|"
-"mana_r|: Ten stwór dostaje do końca tury +1/+0.\""
+"O ile ten stwór jest zauroczony, dostaje on +2/+2, ma tratowanie oraz \""
+"|mana_r|: Ten stwór do końca tury dostaje +1/+0.\""
 
 #: ../../DIS.rst:360
 msgid ""
@@ -1417,7 +1417,7 @@ msgstr ""
 
 #: ../../DIS.rst:381
 msgid "Target multicolored creature gains double strike until end of turn."
-msgstr "Wskazany wielokolorowy stwór zyskuje do końca tury podwójny cios."
+msgstr "Wskazany wielokolorowy stwór do końca tury zyskuje podwójny cios."
 
 #: ../../DIS.rst:392
 msgid ""
@@ -1428,11 +1428,11 @@ msgstr ""
 
 #: ../../DIS.rst:387
 msgid "|mana_r|\\ |mana_r|: Rakdos Pit Dragon gains flying until end of turn."
-msgstr "|mana_r|\\ |mana_r|: Ten stwór zyskuje do końca tury latanie."
+msgstr "|mana_r|\\ |mana_r|: Ten stwór do końca tury zyskuje latanie."
 
 #: ../../DIS.rst:389
 msgid "|mana_r|: Rakdos Pit Dragon gets +1/+0 until end of turn."
-msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_r|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../DIS.rst:391
 msgid ""
@@ -1485,7 +1485,7 @@ msgid ""
 "do, target creature gets +X/+0 until end of turn."
 msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, możesz zapłacić |mana_x|. Jeśli tak "
-"zrobisz, wskazany stwór dostaje do końca tury +X/+0."
+"zrobisz, wskazany stwór do końca tury dostaje +X/+0."
 
 #: ../../DIS.rst:409
 msgid ""
@@ -1626,7 +1626,7 @@ msgid ""
 "|mana_g|: Target creature with a +1/+1 counter on it gains reach until end "
 "of turn. (It can block creatures with flying.)"
 msgstr ""
-"|mana_g|: Wskazany stwór mający znacznik +1/+1 zyskuje do końca tury zasięg. "
+"|mana_g|: Wskazany stwór mający znacznik +1/+1 do końca tury zyskuje zasięg. "
 "(Może blokować stwory z lataniem.)"
 
 #: ../../DIS.rst:462
@@ -1674,7 +1674,7 @@ msgid ""
 "|mana_g|: Target creature with a +1/+1 counter on it gains trample until end "
 "of turn."
 msgstr ""
-"|mana_g|: Wskazany stwór mający znacznik +1/+1 zyskuje do końca tury "
+"|mana_g|: Wskazany stwór mający znacznik +1/+1 do końca tury zyskuje "
 "tratowanie."
 
 #: ../../DIS.rst:474
@@ -2363,7 +2363,7 @@ msgid ""
 "|mana_2|: Target creature with a +1/+1 counter on it gains shroud until end "
 "of turn. (It can't be the target of spells or abilities.)"
 msgstr ""
-"|mana_2|: Wskazany stwór mający znacznik +1/+1 zyskuje do końca tury "
+"|mana_2|: Wskazany stwór mający znacznik +1/+1 do końca tury zyskuje "
 "antymagię. (Nie może być wskazywany przez czary i zdolności.)"
 
 #: ../../DIS.rst:690
@@ -2629,11 +2629,11 @@ msgstr ""
 
 #: ../../DIS.rst:769
 msgid "|mana_w|: Windreaver gains vigilance until end of turn."
-msgstr "|mana_w|: Ten stwór zyskuje do końca tury czujność."
+msgstr "|mana_w|: Ten stwór do końca tury zyskuje czujność."
 
 #: ../../DIS.rst:771
 msgid "|mana_w|: Windreaver gets +0/+1 until end of turn."
-msgstr "|mana_w|: Ten stwór dostaje do końca tury +0/+1."
+msgstr "|mana_w|: Ten stwór do końca tury dostaje +0/+1."
 
 #: ../../DIS.rst:773
 msgid "|mana_u|: Switch Windreaver's power and toughness until end of turn."
@@ -2751,8 +2751,8 @@ msgid ""
 "|mana_3|\\ |mana_b|, Discard a card: Target creature gets -2/-2 until end of "
 "turn."
 msgstr ""
-"|mana_3|\\ |mana_b|, odrzuć kartę: Wskazany stwór dostaje do końca tury "
-"-2/-2."
+"|mana_3|\\ |mana_b|, odrzuć kartę: Wskazany stwór do końca tury dostaje -2/"
+"-2."
 
 #: ../../DIS.rst:817
 msgid ""

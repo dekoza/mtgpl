@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2022.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-26 22:27+0200\n"
-"PO-Revision-Date: 2022-08-25 08:35+0000\n"
+"PO-Revision-Date: 2022-08-26 21:05+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dmc/pl/>\n"
 "Language: pl\n"
@@ -1449,7 +1449,7 @@ msgstr ""
 msgid ""
 "Whenever you sacrifice a Treasure, Captain Lannery Storm gets +1/+0 until "
 "end of turn."
-msgstr "Ilekroć poświęcisz Skarb, ten stwór dostaje do końca tury +1/+0."
+msgstr "Ilekroć poświęcisz Skarb, ten stwór do końca tury dostaje +1/+0."
 
 #: ../../DMC.rst:408
 msgid ""
@@ -1773,7 +1773,7 @@ msgid ""
 "Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for "
 "each opponent you attacked this combat.)"
 msgstr ""
-"Bijatyka (Ilekroć ten stwór atakuje, dostaje do końca tury +1/+1 za każdego "
+"Bijatyka (Ilekroć ten stwór atakuje, do końca tury dostaje +1/+1 za każdego "
 "przeciwnika zaatakowanego przez ciebie w tej potyczce.)"
 
 #: ../../DMC.rst:507
@@ -2016,7 +2016,7 @@ msgstr ""
 #: ../../DMC.rst:585
 msgid ""
 "|mana_1|, Discard a card: Glint-Eye Nephilim gets +1/+1 until end of turn."
-msgstr "|mana_1|, odrzuć kartę: Ten stwór dostaje do końca tury +1/+1."
+msgstr "|mana_1|, odrzuć kartę: Ten stwór do końca tury dostaje +1/+1."
 
 #: ../../DMC.rst:590
 msgid ""
@@ -2335,7 +2335,7 @@ msgid ""
 "creatures attack, Tajic gets +5/+5 until end of turn."
 msgstr ""
 "Batalion — Ilekroć ten stwór zaatakuje wraz z co najmniej dwoma innymi "
-"stworami, niniejszy stwór dostaje do końca tury +5/+5."
+"stworami, niniejszy stwór do końca tury dostaje +5/+5."
 
 #: ../../DMC.rst:706
 msgid ""
@@ -3462,9 +3462,13 @@ msgid ""
 "|mana_2|, |tap|: Target legendary creature becomes a God in addition to its "
 "other types. Put a +1/+1 counter on it."
 msgstr ""
+"|mana_2|, |tap|: Wskazany legendarny stwór staje się dodatkowo Bogiem oprócz "
+"swoich pozostałych typów. Umieść na nim znacznik +1/+1."
 
 #: ../../DMC.rst:1127
 msgid ""
 "|mana_4|, |tap|, Sacrifice Tyrite Sanctum: Put an indestructible counter on "
 "target God."
 msgstr ""
+"|mana_4|, |tap|, poświęć ten ląd: Umieść znacznik niezniszczalności na "
+"wskazanym Bogu."

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-22 09:12+0200\n"
-"PO-Revision-Date: 2022-05-29 08:43+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/bok/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.12.1\n"
+"X-Generator: Weblate 4.13.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../symbols.rst:3
@@ -387,7 +387,7 @@ msgstr ""
 
 #: ../../BOK.rst:53
 msgid "Target creature gets +1/+0 and gains first strike until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +1/+0 i pierwszy cios."
+msgstr "Wskazany stwór do końca tury dostaje +1/+0 i pierwszy cios."
 
 #: ../../BOK.rst:55
 msgid ""
@@ -518,8 +518,8 @@ msgid ""
 "Sacrifice Moonlit Strider: Target creature you control gains protection from "
 "the color of your choice until end of turn."
 msgstr ""
-"Poświęć tego stwora: Wskazany stwór pod twoim władaniem zyskuje do końca "
-"tury ochronę przed wybranym przez cienie kolorem."
+"Poświęć tego stwora: Wskazany stwór pod twoim władaniem do końca tury "
+"zyskuje ochronę przed wybranym przez cienie kolorem."
 
 #: ../../BOK.rst:97
 msgid ""
@@ -1645,7 +1645,7 @@ msgstr ""
 
 #: ../../BOK.rst:473
 msgid "Target creature gets -X/-X until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -X/-X."
+msgstr "Wskazany stwór do końca tury dostaje -X/-X."
 
 #: ../../BOK.rst:480
 msgid ""
@@ -1865,7 +1865,7 @@ msgstr ""
 
 #: ../../BOK.rst:543
 msgid "Target creature gets +X/+0 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +X/+0."
+msgstr "Wskazany stwór do końca tury dostaje +X/+0."
 
 #: ../../BOK.rst:550
 msgid ""
@@ -2987,7 +2987,7 @@ msgstr ""
 
 #: ../../BOK.rst:907
 msgid "Target creature gets -1/-1 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -1/-1."
+msgstr "Wskazany stwór do końca tury dostaje -1/-1."
 
 #: ../../BOK.rst:909
 msgid "You gain 2 life."

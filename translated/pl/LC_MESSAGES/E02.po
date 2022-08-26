@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-22 09:12+0200\n"
-"PO-Revision-Date: 2022-04-17 16:43+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/e02/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.10.1\n"
+"X-Generator: Weblate 4.13.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../symbols.rst:3
@@ -471,7 +471,7 @@ msgid ""
 "Target creature gets +1/+2 and gains deathtouch until end of turn. (Any "
 "amount of damage it deals to a creature is enough to destroy it.)"
 msgstr ""
-"Wskazany stwór dostaje do końca tury +1/+2 oraz dotyk śmierci. (Stwór "
+"Wskazany stwór do końca tury dostaje +1/+2 oraz dotyk śmierci. (Stwór "
 "otrzymujący od niniejszego jakiekolwiek obrażenia zostaje zniszczony.)"
 
 #: ../../E02.rst:94
@@ -626,7 +626,7 @@ msgstr ""
 
 #: ../../E02.rst:139
 msgid "Target creature gets +2/+1 and gains trample until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +2/+1 i tratowanie."
+msgstr "Wskazany stwór do końca tury dostaje +2/+1 i tratowanie."
 
 #: ../../E02.rst:144
 msgid ""
@@ -682,7 +682,7 @@ msgstr ""
 
 #: ../../E02.rst:157
 msgid "Target creature gets +3/+3 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +3/+3."
+msgstr "Wskazany stwór do końca tury dostaje +3/+3."
 
 #: ../../E02.rst:162
 msgid ""

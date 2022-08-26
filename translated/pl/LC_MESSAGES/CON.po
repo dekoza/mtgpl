@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-22 09:12+0200\n"
-"PO-Revision-Date: 2022-04-17 16:43+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/con/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.10.1\n"
+"X-Generator: Weblate 4.13.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../symbols.rst:3
@@ -337,7 +337,7 @@ msgstr ""
 
 #: ../../CON.rst:43
 msgid "|mana_b|: Darklit Gargoyle gets +2/-1 until end of turn."
-msgstr "|mana_b|: Ten stwór dostaje do końca tury +2/-1."
+msgstr "|mana_b|: Ten stwór do końca tury dostaje +2/-1."
 
 #: ../../CON.rst:50
 msgid ""
@@ -583,7 +583,7 @@ msgstr ""
 
 #: ../../CON.rst:117
 msgid "Target creature gets -3/-0 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -3/-0."
+msgstr "Wskazany stwór do końca tury dostaje -3/-0."
 
 #: ../../CON.rst:119 ../../CON.rst:365
 msgid "Cycling |mana_2| (|mana_2|, Discard this card: Draw a card.)"
@@ -764,8 +764,8 @@ msgid ""
 "of turn. (Attacking doesn't cause it to tap, and it can't be blocked except "
 "by artifact creatures and/or black creatures.)"
 msgstr ""
-"|mana_w|\\ |mana_b|: Ten stwór zyskuje do końca tury postrach i czujność. "
-"(Atakowanie nie powoduje jego przekręcenia oraz nie może być on blokowany, "
+"|mana_w|\\ |mana_b|: Ten stwór do końca tury zyskuje postrach i czujność. ("
+"Atakowanie nie powoduje jego przekręcenia oraz nie może być on blokowany, "
 "chyba że przez stwory artefaktowe lub czarne.)"
 
 #: ../../CON.rst:190
@@ -831,7 +831,7 @@ msgid ""
 "Target creature gains flying until end of turn. If you control a white "
 "permanent, return View from Above to its owner's hand."
 msgstr ""
-"Wskazany stwór zyskuje do końca tury latanie. Jeśli władasz białym bytem, "
+"Wskazany stwór do końca tury zyskuje latanie. Jeśli władasz białym bytem, "
 "przywróć ten czar do ręki właściciela."
 
 #: ../../CON.rst:208
@@ -900,7 +900,7 @@ msgid ""
 "Domain — Target creature gets -1/-1 until end of turn for each basic land "
 "type among lands you control."
 msgstr ""
-"Domena — Wskazany stwór dostaje do końca tury -1/-1 za każdy bazowy typ lądy "
+"Domena — Wskazany stwór do końca tury dostaje -1/-1 za każdy bazowy typ lądy "
 "wśród lądów pod twoim władaniem."
 
 #: ../../CON.rst:228
@@ -915,7 +915,7 @@ msgid ""
 "|mana_1|\\ |mana_u|\\ |mana_r|: Dreadwing gets +3/+0 and gains flying until "
 "end of turn."
 msgstr ""
-"|mana_1|\\ |mana_u|\\ |mana_r|: Ten stwór dostaje do końca tury +3/+0 i "
+"|mana_1|\\ |mana_u|\\ |mana_r|: Ten stwór do końca tury dostaje +3/+0 i "
 "latanie."
 
 #: ../../CON.rst:236
@@ -959,8 +959,8 @@ msgid ""
 "turn. Activate only during your turn. (A creature with fear can't be blocked "
 "except by artifact creatures and/or black creatures.)"
 msgstr ""
-"|mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|: Ten stwór dostaje do "
-"końca tury +2/+2 i postrach. Wskazany stwór dostaje do końca tury -2/-2. "
+"|mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|: Ten stwór do końca "
+"tury dostaje +2/+2 i postrach. Wskazany stwór do końca tury dostaje -2/-2. "
 "Możesz aktywować tylko w twojej turze. (Stwór z postrachem nie może być "
 "blokowany, chyba że przez stwory artefaktowe lub czarne.)"
 
@@ -1331,7 +1331,7 @@ msgstr ""
 
 #: ../../CON.rst:353
 msgid "|mana_1|\\ |mana_w|: Kranioceros gets +0/+3 until end of turn."
-msgstr "|mana_1|\\ |mana_w|: Ten stwór dostaje do końca tury +0/+3."
+msgstr "|mana_1|\\ |mana_w|: Ten stwór do końca tury dostaje +0/+3."
 
 #: ../../CON.rst:360
 msgid ""
@@ -1423,7 +1423,7 @@ msgid ""
 "|mana_b|\\ |mana_g|: Viashino Slaughtermaster gets +1/+1 until end of turn. "
 "Activate only once each turn."
 msgstr ""
-"|mana_b|\\ |mana_b|: Ten stwór dostaje do końca tury +1/+1. Możesz aktywować "
+"|mana_b|\\ |mana_b|: Ten stwór do końca tury dostaje +1/+1. Możesz aktywować "
 "tylko raz na turę."
 
 #: ../../CON.rst:392
@@ -1478,7 +1478,7 @@ msgid ""
 "Domain — |mana_3|: Wandering Goblins gets +1/+0 until end of turn for each "
 "basic land type among lands you control."
 msgstr ""
-"Domena — |mana_3|: Ten stwór dostaje do końca tury +1/+0 za każdy typ "
+"Domena — |mana_3|: Ten stwór do końca tury dostaje +1/+0 za każdy typ "
 "bazowego lądu pośród lądów pod twoim władaniem."
 
 #: ../../CON.rst:410
@@ -1510,7 +1510,7 @@ msgid ""
 "|mana_1|: Target creature with power 5 or greater gains vigilance until end "
 "of turn."
 msgstr ""
-"|mana_1|: Wskazany stwór o sile 5 lub większej zyskuje do końca tury "
+"|mana_1|: Wskazany stwór o sile 5 lub większej do końca tury zyskuje "
 "czujność."
 
 #: ../../CON.rst:420
@@ -1615,7 +1615,7 @@ msgid ""
 "Domain — Target creature gets +1/+1 until end of turn for each basic land "
 "type among lands you control."
 msgstr ""
-"Domena — Wskazany stwór dostaje do końca tury +1/+1 za każdy typ bazowego "
+"Domena — Wskazany stwór do końca tury dostaje +1/+1 za każdy typ bazowego "
 "lądu pośród lądów pod twoim władaniem."
 
 #: ../../CON.rst:452
@@ -1755,23 +1755,23 @@ msgstr ""
 
 #: ../../CON.rst:491
 msgid "|mana_g|: Thornling gains haste until end of turn."
-msgstr "|mana_g|: Ten stwór zyskuje do końca tury pośpiech."
+msgstr "|mana_g|: Ten stwór do końca tury zyskuje pośpiech."
 
 #: ../../CON.rst:493
 msgid "|mana_g|: Thornling gains trample until end of turn."
-msgstr "|mana_g|: Ten stwór zyskuje do końca tury tratowanie."
+msgstr "|mana_g|: Ten stwór do końca tury zyskuje tratowanie."
 
 #: ../../CON.rst:495
 msgid "|mana_g|: Thornling gains indestructible until end of turn."
-msgstr "|mana_g|: Ten stwór zyskuje do końca tury niezniszczalność."
+msgstr "|mana_g|: Ten stwór do końca tury zyskuje niezniszczalność."
 
 #: ../../CON.rst:497
 msgid "|mana_1|: Thornling gets +1/-1 until end of turn."
-msgstr "|mana_1|: Ten stwór dostaje do końca tury +1/-1."
+msgstr "|mana_1|: Ten stwór do końca tury dostaje +1/-1."
 
 #: ../../CON.rst:499
 msgid "|mana_1|: Thornling gets -1/+1 until end of turn."
-msgstr "|mana_1|: Ten stwór dostaje do końca tury -1/+1."
+msgstr "|mana_1|: Ten stwór do końca tury dostaje -1/+1."
 
 #: ../../CON.rst:504
 msgid ""
@@ -2322,7 +2322,7 @@ msgid ""
 "|mana_u|\\ |mana_b|: Vectis Agents gets -2/-0 until end of turn and can't be "
 "blocked this turn."
 msgstr ""
-"|mana_u|\\ |mana_b|: Ten stwór dostaje do końca tury -2/-0 i nie może być w "
+"|mana_u|\\ |mana_b|: Ten stwór do końca tury dostaje -2/-0 i nie może być w "
 "tej turze blokowany."
 
 #: ../../CON.rst:694
@@ -2464,8 +2464,7 @@ msgstr "|mana_1|\\ |mana_u|, |tap|: Dobierz kartę, po czym odrzuć kartę."
 #: ../../CON.rst:735
 msgid ""
 "|mana_1|\\ |mana_b|, |tap|: Target creature gets -2/-2 until end of turn."
-msgstr ""
-"|mana_1|\\ |mana_b|, |tap|: Wskazany stwór dostaje do końca tury -2/-2."
+msgstr "|mana_1|\\ |mana_b|, |tap|: Wskazany stwór do końca tury dostaje -2/-2."
 
 #: ../../CON.rst:737
 msgid ""
@@ -2478,8 +2477,7 @@ msgstr ""
 #: ../../CON.rst:739
 msgid ""
 "|mana_1|\\ |mana_g|, |tap|: Target creature gets +4/+4 until end of turn."
-msgstr ""
-"|mana_1|\\ |mana_g|, |tap|: Wskazany stwór dostaje do końca tury +4/+4."
+msgstr "|mana_1|\\ |mana_g|, |tap|: Wskazany stwór do końca tury dostaje +4/+4."
 
 #: ../../CON.rst:744
 msgid ""

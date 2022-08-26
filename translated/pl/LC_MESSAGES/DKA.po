@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-22 09:12+0200\n"
-"PO-Revision-Date: 2022-03-29 10:54+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dka/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.10.1\n"
+"X-Generator: Weblate 4.13.1\n"
 
 #: ../../symbols.rst:3
 msgid "{C}"
@@ -367,7 +367,7 @@ msgid ""
 "Target permanent you control gains protection from the color of your choice "
 "until end of turn."
 msgstr ""
-"Wskazany byt pod twoim władaniem zyskuje do końca tury ochronę przed "
+"Wskazany byt pod twoim władaniem do końca tury zyskuje ochronę przed "
 "wybranym przez ciebie kolorem."
 
 # 9fa5cb2f49dc4692b1db8bd9db20bd86
@@ -377,7 +377,7 @@ msgid ""
 "you control gain protection from the color of your choice until end of turn."
 msgstr ""
 "Pamiętna godzina — Jeśli masz 5 żyć lub mniej, zamiast tego ty i każdy byt "
-"pod twoim władaniem zyskuje do końca tury ochronę przed wybranym przez "
+"pod twoim władaniem do końca tury zyskuje ochronę przed wybranym przez "
 "ciebie kolorem."
 
 #: ../../DKA.rst:50
@@ -663,7 +663,7 @@ msgstr ""
 # e6decc7b5d224d2a9e7c3afd70cdfbc3
 #: ../../DKA.rst:127
 msgid "Target creature gets +2/+0 and gains first strike until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +2/+0 oraz pierwszy cios."
+msgstr "Wskazany stwór do końca tury dostaje +2/+0 oraz pierwszy cios."
 
 #: ../../DKA.rst:132
 msgid ""
@@ -1269,7 +1269,7 @@ msgid ""
 "Target creature gains deathtouch until end of turn and must be blocked this "
 "turn if able."
 msgstr ""
-"Wskazany stwór zyskuje do końca tury dotyk śmierci i musi być blokowany w "
+"Wskazany stwór do końca tury zyskuje dotyk śmierci i musi być blokowany w "
 "tej turze jeśli to możliwe."
 
 #: ../../DKA.rst:338
@@ -1302,7 +1302,7 @@ msgid ""
 "the sacrificed creature was a Human, put a +1/+1 counter on Falkenrath "
 "Torturer."
 msgstr ""
-"Poświęć stwora: Ten stwór zyskuje do końca tury latanie. Jeśli poświęcony "
+"Poświęć stwora: Ten stwór do końca tury zyskuje latanie. Jeśli poświęcony "
 "stwór był Człowiekiem, umieść znacznik +1/+1 na tym stworze."
 
 #: ../../DKA.rst:346
@@ -1318,8 +1318,8 @@ msgid ""
 "When Farbog Boneflinger enters the battlefield, target creature gets -2/-2 "
 "until end of turn."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór dostaje do końca tury "
-"-2/-2."
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór do końca tury dostaje -2/"
+"-2."
 
 #: ../../DKA.rst:354
 msgid ""
@@ -1599,7 +1599,7 @@ msgstr ""
 # e2c5cd10d07f4b8e89a80b1a7b2a5d5b
 #: ../../DKA.rst:437
 msgid "Target creature gets -1/-1 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -1/-1."
+msgstr "Wskazany stwór do końca tury dostaje -1/-1."
 
 # 27259cedc4b54ce8813847f93c852c37
 #: ../../DKA.rst:439
@@ -1607,7 +1607,7 @@ msgid ""
 "Morbid — That creature gets -13/-13 until end of turn instead if a creature "
 "died this turn."
 msgstr ""
-"Okropność — Ów stwór zamiast tego dostaje do końca tury -13/-13 jeśli w tej "
+"Okropność — Ów stwór zamiast tego do końca tury dostaje -13/-13 jeśli w tej "
 "turze umarł stwór."
 
 #: ../../DKA.rst:444
@@ -2065,7 +2065,7 @@ msgstr ""
 # d870aa5a0f684718a0fe443494911f00
 #: ../../DKA.rst:575
 msgid "|mana_r|: Each creature you control gets +1/+0 until end of turn."
-msgstr "|mana_r|: Każdy stwór pod twoim władaniem dostaje do końca tury +1/+0."
+msgstr "|mana_r|: Każdy stwór pod twoim władaniem do końca tury dostaje +1/+0."
 
 #: ../../DKA.rst:580
 msgid ""
@@ -2143,8 +2143,8 @@ msgid ""
 "Enchanted creature has \"|mana_1|\\ |mana_r|: This creature gets +2/+0 until "
 "end of turn.\""
 msgstr ""
-"Zauroczony stwór ma \"|mana_1|\\ |mana_r|: Ten stwór dostaje do końca tury "
-"+2/+0.\""
+"Zauroczony stwór ma \"|mana_1|\\ |mana_r|: Ten stwór do końca tury dostaje +"
+"2/+0.\""
 
 #: ../../DKA.rst:612
 msgid ""
@@ -2183,7 +2183,7 @@ msgid ""
 "When Briarpack Alpha enters the battlefield, target creature gets +2/+2 "
 "until end of turn."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór dostaje do końca tury +2/"
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór do końca tury dostaje +2/"
 "+2."
 
 #: ../../DKA.rst:628
@@ -2638,7 +2638,7 @@ msgstr ""
 # c270272e06a24eef903bdd066ffb883b
 #: ../../DKA.rst:761
 msgid "Target creature gets +3/+1 and gains trample until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +3/+1 oraz tratowanie."
+msgstr "Wskazany stwór do końca tury dostaje +3/+1 oraz tratowanie."
 
 #: ../../DKA.rst:763
 msgid ""
@@ -2661,7 +2661,7 @@ msgid ""
 "|mana_1|\\ |mana_g|: Wolfbitten Captive gets +2/+2 until end of turn. "
 "Activate only once each turn."
 msgstr ""
-"|mana_1|\\ |mana_g|: Ten stwór dostaje do końca tury +2/+2. Możesz aktywować "
+"|mana_1|\\ |mana_g|: Ten stwór do końca tury dostaje +2/+2. Możesz aktywować "
 "tylko raz na turę."
 
 # ba1577fc1fe94793b681ecd2907db56e
@@ -2686,7 +2686,7 @@ msgid ""
 "|mana_3|\\ |mana_g|: Krallenhorde Killer gets +4/+4 until end of turn. "
 "Activate only once each turn."
 msgstr ""
-"|mana_3|\\ |mana_g|: Ten stwór dostaje do końca tury +4/+4. Możesz aktywować "
+"|mana_3|\\ |mana_g|: Ten stwór do końca tury dostaje +4/+4. Możesz aktywować "
 "tylko raz na turę."
 
 # 2f2240c1d83e4ae695340e5636847aa6
@@ -2781,7 +2781,7 @@ msgid ""
 "of turn. If the sacrificed creature was a Human, put a +1/+1 counter on "
 "Falkenrath Aristocrat."
 msgstr ""
-"Poświęć stwora: Ten stwór zyskuje do końca tury niezniszczalność. Jeśli "
+"Poświęć stwora: Ten stwór do końca tury zyskuje niezniszczalność. Jeśli "
 "poświęcony stwór był Człowiekiem, umieść znacznik +1/+1 na niniejszym "
 "stworze."
 
@@ -2799,8 +2799,8 @@ msgid ""
 "card until end of turn."
 msgstr ""
 "|mana_1|: Możesz w tej turze rzucić wskazaną kartę stwora z twojego "
-"cmentarza. Kiedy go rzucisz w tej turze, niniejszy stwór zyskuje do końca "
-"tury wszystkie aktywowane zdolności owej karty."
+"cmentarza. Kiedy go rzucisz w tej turze, niniejszy stwór do końca tury "
+"zyskuje wszystkie aktywowane zdolności owej karty."
 
 #: ../../DKA.rst:816
 msgid ""

@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-22 09:12+0200\n"
-"PO-Revision-Date: 2022-06-25 15:11+0000\n"
+"PO-Revision-Date: 2022-08-26 21:05+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/cmd/pl/>\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.12.1\n"
+"X-Generator: Weblate 4.13.1\n"
 
 #: ../../symbols.rst:3
 msgid "{C}"
@@ -608,7 +608,7 @@ msgid ""
 "|tap|: Target creature you control gains protection from the color of your "
 "choice until end of turn."
 msgstr ""
-"|tap|: Wskazany stwór pod twoim władaniem zyskuje do końca tury ochronę "
+"|tap|: Wskazany stwór pod twoim władaniem do końca tury zyskuje ochronę "
 "przed wybranym przez ciebie kolorem."
 
 #: ../../CMD.rst:130
@@ -1195,7 +1195,7 @@ msgid ""
 "until end of turn. Those creatures gain haste until end of turn."
 msgstr ""
 "Odkręć wszystkie stwory pod twoim władaniem i wszystkie stwory pod władaniem "
-"wskazanego przeciwnika. Każdy z was zyskuje do końca tury władanie nad "
+"wskazanego przeciwnika. Każdy z was do końca tury zyskuje władanie nad "
 "wszystkimi stworami drugiego. Owe stwory zyskują do końca tury pośpiech."
 
 #: ../../CMD.rst:318
@@ -1601,7 +1601,7 @@ msgstr ""
 
 #: ../../CMD.rst:439
 msgid "Sacrifice a creature: Fallen Angel gets +2/+1 until end of turn."
-msgstr "Poświęć stwora: Ten stwór dostaje do końca tury +2/+1."
+msgstr "Poświęć stwora: Ten stwór do końca tury dostaje +2/+1."
 
 #: ../../CMD.rst:444
 msgid ""
@@ -1716,7 +1716,7 @@ msgstr ""
 
 #: ../../CMD.rst:475
 msgid "Sacrifice a creature: Nantuko Husk gets +2/+2 until end of turn."
-msgstr "Poświęć stwora: Niniejszy stwór dostaje do końca tury +2/+2."
+msgstr "Poświęć stwora: Niniejszy stwór do końca tury dostaje +2/+2."
 
 #: ../../CMD.rst:482
 msgid ""
@@ -2027,7 +2027,7 @@ msgstr "Latanie, tratowanie, ochrona przed białym i niebieskim"
 
 #: ../../CMD.rst:575
 msgid "|mana_r|: Akroma, Angel of Fury gets +1/+0 until end of turn."
-msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_r|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../CMD.rst:577
 msgid ""
@@ -2075,7 +2075,7 @@ msgstr ""
 
 #: ../../CMD.rst:591
 msgid "|mana_r|: Avatar of Fury gets +1/+0 until end of turn."
-msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_r|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../CMD.rst:596
 msgid ""
@@ -2153,7 +2153,7 @@ msgstr ""
 
 #: ../../CMD.rst:613
 msgid "|mana_r|: Chartooth Cougar gets +1/+0 until end of turn."
-msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_r|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../CMD.rst:615
 msgid ""
@@ -2248,7 +2248,7 @@ msgid ""
 "been activated four or more times this turn, sacrifice Dragon Whelp at the "
 "beginning of the next end step."
 msgstr ""
-"|mana_r|: Ten stwór dostaje do końca tury +1/+0. Jeśli ta zdolność została "
+"|mana_r|: Ten stwór do końca tury dostaje +1/+0. Jeśli ta zdolność została "
 "aktywowana co najmniej cztery razy w tej turze, poświęć tego stwora na "
 "początku najbliższego kroku końcowego."
 
@@ -2316,7 +2316,7 @@ msgstr ""
 
 #: ../../CMD.rst:663
 msgid "|mana_r|: Furnace Whelp gets +1/+0 until end of turn."
-msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_r|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../CMD.rst:668
 msgid ""
@@ -2611,7 +2611,7 @@ msgid ""
 "|mana_g|: Target creature with a +1/+1 counter on it gains reach until end "
 "of turn. (It can block creatures with flying.)"
 msgstr ""
-"|mana_g|: Wskazany stwór mający znacznik +1/+1 zyskuje do końca tury zasięg. "
+"|mana_g|: Wskazany stwór mający znacznik +1/+1 do końca tury zyskuje zasięg. "
 "(Może blokować stwory z lataniem.)"
 
 #: ../../CMD.rst:756
@@ -2642,7 +2642,7 @@ msgid ""
 "Woodcrasher gets +4/+4 and gains trample until end of turn."
 msgstr ""
 "Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, ten stwór "
-"dostaje do końca tury +4/+4 oraz tratowanie."
+"do końca tury dostaje +4/+4 oraz tratowanie."
 
 #: ../../CMD.rst:764
 msgid ""
@@ -2965,7 +2965,7 @@ msgstr ""
 
 #: ../../CMD.rst:863
 msgid "Target creature gets +4/+4 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +4/+4."
+msgstr "Wskazany stwór do końca tury dostaje +4/+4."
 
 #: ../../CMD.rst:868
 msgid ""
@@ -3350,13 +3350,13 @@ msgstr ""
 
 #: ../../CMD.rst:991
 msgid "|mana_1|\\ |mana_r|: Target creature gains haste until end of turn."
-msgstr "|mana_1|\\ |mana_r|: Wskazany stwór zyskuje do końca tury pośpiech."
+msgstr "|mana_1|\\ |mana_r|: Wskazany stwór do końca tury zyskuje pośpiech."
 
 #: ../../CMD.rst:993
 msgid ""
 "|mana_1|\\ |mana_w|: Target creature gains first strike until end of turn."
 msgstr ""
-"|mana_1|\\ |mana_w|: Wskazany stwór zyskuje do końca tury pierwszy cios."
+"|mana_1|\\ |mana_w|: Wskazany stwór do końca tury zyskuje pierwszy cios."
 
 #: ../../CMD.rst:1000
 msgid ""
@@ -3427,7 +3427,7 @@ msgstr ""
 
 #: ../../CMD.rst:1015
 msgid "Target creature gets +4/+2 and gains trample until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +4/+2 oraz tratowanie."
+msgstr "Wskazany stwór do końca tury dostaje +4/+2 oraz tratowanie."
 
 #: ../../CMD.rst:1024
 msgid ""
@@ -4177,8 +4177,8 @@ msgid ""
 "Remove all +1/+1 counters from Vish Kal: Target creature gets -1/-1 until "
 "end of turn for each +1/+1 counter removed this way."
 msgstr ""
-"Usuń wszystkie znaczniki +1/+1 z tego stwora: Wskazany stwór dostaje do "
-"końca tury -1/-1 za każdy znacznik +1/+1 usunięty w ten sposób."
+"Usuń wszystkie znaczniki +1/+1 z tego stwora: Wskazany stwór do końca tury "
+"dostaje -1/-1 za każdy znacznik +1/+1 usunięty w ten sposób."
 
 #: ../../CMD.rst:1272
 msgid ""

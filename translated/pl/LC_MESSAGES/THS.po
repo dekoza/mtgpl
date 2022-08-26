@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-22 09:12+0200\n"
-"PO-Revision-Date: 2022-04-18 17:53+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ths/pl/>\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.10.1\n"
+"X-Generator: Weblate 4.13.1\n"
 "X-POOTLE-MTIME: 1419174967.506886\n"
 
 #: ../../symbols.rst:3
@@ -249,7 +249,7 @@ msgid ""
 "Target creature gets +2/+2 until end of turn. Scry 1. (Look at the top card "
 "of your library. You may put that card on the bottom of your library.)"
 msgstr ""
-"Wskazany stwór dostaje do końca tury +2/+2. Wróż 1. (Spójrz na wierzchnią "
+"Wskazany stwór do końca tury dostaje +2/+2. Wróż 1. (Spójrz na wierzchnią "
 "kartę twojej biblioteki. Możesz umieścić ową kartę na spodzie twojej "
 "biblioteki.)"
 
@@ -304,7 +304,7 @@ msgid ""
 "Whenever Cavalry Pegasus attacks, each attacking Human gains flying until "
 "end of turn."
 msgstr ""
-"Ilekroć ten stwór zaatakuje, każdy atakujący Człowiek zyskuje do końca tury "
+"Ilekroć ten stwór zaatakuje, każdy atakujący Człowiek do końca tury zyskuje "
 "latanie."
 
 #: ../../THS.rst:24
@@ -431,7 +431,7 @@ msgstr ""
 #: ../../THS.rst:41
 msgid "Up to two target creatures each get +2/+2 until end of turn."
 msgstr ""
-"Każdy z co najwyżej dwóch wskazanych stworów dostaje do końca tury +2/+2."
+"Każdy z co najwyżej dwóch wskazanych stworów do końca tury dostaje +2/+2."
 
 #: ../../THS.rst:48
 msgid ""
@@ -612,7 +612,7 @@ msgid ""
 "until end of turn. (It can't be blocked, targeted, dealt damage, enchanted, "
 "or equipped by anything of that color.)"
 msgstr ""
-"Wskazany stwór pod twoim władaniem zyskuje do końca tury ochronę przed "
+"Wskazany stwór pod twoim władaniem do końca tury zyskuje ochronę przed "
 "wybranym przez ciebie kolorem. (Nic w owym kolorze nie może blokować, "
 "wskazać, zadać obrażeń, zauroczyć ani wyposażyć tego stwora.)"
 
@@ -949,7 +949,7 @@ msgid ""
 "|mana_2|\\ |mana_g|\\ |mana_g|: Setessan Griffin gets +2/+2 until end of "
 "turn. Activate only once each turn."
 msgstr ""
-"|mana_2|\\ |mana_g|\\ |mana_g|: Ten stwór dostaje do końca tury +2/+2. "
+"|mana_2|\\ |mana_g|\\ |mana_g|: Ten stwór do końca tury dostaje +2/+2. "
 "Możesz aktywować tylko raz na turę."
 
 #: ../../THS.rst:180
@@ -1320,7 +1320,7 @@ msgid ""
 "Target creature gets -3/-0 until end of turn. Scry 1. (Look at the top card "
 "of your library. You may put that card on the bottom of your library.)"
 msgstr ""
-"Wskazany stwór dostaje do końca tury-3/-0. Wróż 1. (Spójrz na wierzchnią "
+"Wskazany stwór do końca tury dostaje -3/-0. Wróż 1. (Spójrz na wierzchnią "
 "kartę twojej biblioteki. Możesz umieścić ową kartę na spodzie twojej "
 "biblioteki.)"
 
@@ -1738,7 +1738,7 @@ msgid ""
 "blocked by one of those creatures this turn and it doesn't untap during its "
 "controller's next untap step."
 msgstr ""
-"Każdy z co najwyżej dwóch wskazanych stworów dostaje do końca tury +0/+3. "
+"Każdy z co najwyżej dwóch wskazanych stworów do końca tury dostaje +0/+3. "
 "Odkręć owe stwory. W najbliższym końcu potyczki w tej turze przekręć każdego "
 "stwora zablokowanego przez którekolwiek z nich i nie odkręci się on w "
 "najbliższym kroku odkręcania swojego władcy."
@@ -1922,7 +1922,7 @@ msgstr ""
 msgid ""
 "Target creature gets +2/+0 until end of turn. Regenerate it. You lose 2 life."
 msgstr ""
-"Wskazany stwór dostaje do końca tury +2/+0. Zregeneruj go. Strać 2 życia."
+"Wskazany stwór do końca tury dostaje +2/+0. Zregeneruj go. Strać 2 życia."
 
 #: ../../THS.rst:458
 msgid ""
@@ -1973,7 +1973,7 @@ msgid ""
 "Up to two target creatures each get +1/+1 and gain lifelink until end of "
 "turn."
 msgstr ""
-"Każdy z co najwyżej dwóch wskazanych stworów dostaje do końca tury +1/+1 "
+"Każdy z co najwyżej dwóch wskazanych stworów do końca tury dostaje +1/+1 "
 "oraz więź życia."
 
 #: ../../THS.rst:466
@@ -2056,8 +2056,8 @@ msgid ""
 "Erebos's Emissary is an Aura, enchanted creature gets +2/+2 until end of "
 "turn instead."
 msgstr ""
-"Odrzuć kartę stwora: Ten stwór dostaje do końca tury +2/+2. Jeśli niniejsza "
-"karta jest Aurą, zamiast tego zauroczony stwór dostaje do końca tury +2/+2."
+"Odrzuć kartę stwora: Ten stwór do końca tury dostaje +2/+2. Jeśli niniejsza "
+"karta jest Aurą, zamiast tego zauroczony stwór do końca tury dostaje +2/+2."
 
 #: ../../THS.rst:490
 msgid ""
@@ -2191,7 +2191,7 @@ msgstr ""
 # dea4d94681e54b26a749601a5caa1484
 #: ../../THS.rst:527
 msgid "Target creature gets -4/-4 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -4/-4."
+msgstr "Wskazany stwór do końca tury dostaje -4/-4."
 
 #: ../../THS.rst:534
 msgid ""
@@ -2216,8 +2216,8 @@ msgid ""
 "When Loathsome Catoblepas dies, target creature an opponent controls gets "
 "-3/-3 until end of turn."
 msgstr ""
-"Kiedy ten stwór umrze, wskazany stwór pod władaniem przeciwnika, dostaje do "
-"końca tury -3/-3."
+"Kiedy ten stwór umrze, wskazany stwór pod władaniem przeciwnika, do końca "
+"tury dostaje -3/-3."
 
 #: ../../THS.rst:538
 msgid ""
@@ -2253,7 +2253,7 @@ msgid ""
 "mana costs of permanents you control counts toward your devotion to black.)"
 msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, każdy z co najwyżej X wskazanych "
-"stworów zyskuje do końca tury zastraszanie i pośpiech, gdzie X jest twoim "
+"stworów do końca tury zyskuje zastraszanie i pośpiech, gdzie X jest twoim "
 "kultem czarnego. (Każda |mana_b| w kosztach many bytów, którymi władasz "
 "wlicza się do twojego kultu czarnego.)"
 
@@ -2595,7 +2595,7 @@ msgid ""
 "Up to two target creatures each get +1/+0 and gain first strike until end of "
 "turn."
 msgstr ""
-"Każdy z co najwyżej dwóch wskazanych stworów dostaje do końca tury +1/+0 "
+"Każdy z co najwyżej dwóch wskazanych stworów do końca tury dostaje +1/+0 "
 "oraz pierwszy cios."
 
 #: ../../THS.rst:644
@@ -2650,7 +2650,7 @@ msgid ""
 "Enchanted creature has \"|mana_r|: This creature gets +1/+0 until end of "
 "turn.\""
 msgstr ""
-"Zauroczony stwór ma \"|mana_r|: Ten stwór dostaje do końca tury +1/+0.\""
+"Zauroczony stwór ma \"|mana_r|: Ten stwór do końca tury dostaje +1/+0.\""
 
 #: ../../THS.rst:662
 msgid ""
@@ -2720,7 +2720,7 @@ msgid ""
 "|mana_1|\\ |mana_r|: Firedrinker Satyr gets +1/+0 until end of turn and "
 "deals 1 damage to you."
 msgstr ""
-"|mana_1|\\ |mana_r|: Ten stwór dostaje do końca tury +1/+0 i zadaje tobie 1 "
+"|mana_1|\\ |mana_r|: Ten stwór do końca tury dostaje +1/+0 i zadaje tobie 1 "
 "obrażenie."
 
 #: ../../THS.rst:676
@@ -2737,7 +2737,7 @@ msgid ""
 "Whenever you scry, Flamespeaker Adept gets +2/+0 and gains first strike "
 "until end of turn."
 msgstr ""
-"Ilekroć wróżysz, ten stwór dostaje do końca tury +2/+0 oraz pierwszy cios."
+"Ilekroć wróżysz, ten stwór do końca tury dostaje +2/+0 oraz pierwszy cios."
 
 #: ../../THS.rst:682
 msgid ""
@@ -2867,7 +2867,7 @@ msgstr "Pośpiech"
 msgid ""
 "When Minotaur Skullcleaver enters the battlefield, it gets +2/+0 until end "
 "of turn."
-msgstr "Kiedy ten byt wejdzie na pole bitwy, dostaje do końca tury +2/+0."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, do końca tury dostaje +2/+0."
 
 #: ../../THS.rst:720
 msgid ""
@@ -3178,7 +3178,7 @@ msgid ""
 "Target creature gets +3/+1 until end of turn. Scry 1. (Look at the top card "
 "of your library. You may put that card on the bottom of your library.)"
 msgstr ""
-"Wskazany stwór dostaje do końca tury +3/+1. Wróż 1. (Spójrz na wierzchnią "
+"Wskazany stwór do końca tury dostaje +3/+1. Wróż 1. (Spójrz na wierzchnią "
 "kartę twojej biblioteki. Możesz umieścić ją na spodzie twojej biblioteki.)"
 
 #: ../../THS.rst:802
@@ -3462,7 +3462,7 @@ msgid ""
 "Target green creature you control gets +2/+2 until end of turn. It fights "
 "target green creature an opponent controls."
 msgstr ""
-"Wskazany zielony stwór pod twoim władaniem dostaje do końca tury +2/+2. "
+"Wskazany zielony stwór pod twoim władaniem do końca tury dostaje +2/+2. "
 "Walczy on ze wskazanym zielonym stworem pod władaniem przeciwnika."
 
 #: ../../THS.rst:880
@@ -3616,7 +3616,7 @@ msgstr "Inne stwory pod twoim władaniem mają tratowanie."
 # 472dbd967fcc426dacf08d66f013224f
 #: ../../THS.rst:921
 msgid "|mana_3|\\ |mana_g|: Target creature gets +2/+2 until end of turn."
-msgstr "|mana_3|\\ |mana_g|: Wskazany stwór dostaje do końca tury +2/+2."
+msgstr "|mana_3|\\ |mana_g|: Wskazany stwór do końca tury dostaje +2/+2."
 
 #: ../../THS.rst:926
 msgid ""
@@ -3811,7 +3811,7 @@ msgstr ""
 # 3d3e0cf7004d47e2b2f32084fa51ce92
 #: ../../THS.rst:975
 msgid "Target creature gets +2/+2 until end of turn. Untap that creature."
-msgstr "Wskazany stwór dostaje do końca tury +2/+2. Odkręć go."
+msgstr "Wskazany stwór do końca tury dostaje +2/+2. Odkręć go."
 
 #: ../../THS.rst:980
 msgid ""

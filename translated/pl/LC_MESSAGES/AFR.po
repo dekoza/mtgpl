@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-25 14:27+0200\n"
-"PO-Revision-Date: 2022-08-25 21:03+0000\n"
+"PO-Revision-Date: 2022-08-26 21:05+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/afr/pl/>\n"
 "Language: pl\n"
@@ -273,7 +273,7 @@ msgid ""
 "When Arborea Pegasus enters the battlefield, target creature gets +1/+1 and "
 "gains flying until end of turn."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór dostaje do końca tury +1/"
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór do końca tury dostaje +1/"
 "+1 i latanie."
 
 #: ../../AFR.rst:24
@@ -986,8 +986,8 @@ msgid ""
 "Target creature gets +2/+0 and gains first strike until end of turn. Up to "
 "one other target creature gets +0/+2 and gains lifelink until end of turn."
 msgstr ""
-"Wskazany stwór dostaje do końca tury +2/+0 i pierwszy cios. Co najwyżej "
-"jeden inny wskazany stwór dostaje do końca tury +0/+2 i więź życia."
+"Wskazany stwór do końca tury dostaje +2/+0 i pierwszy cios. Co najwyżej "
+"jeden inny wskazany stwór do końca tury dostaje +0/+2 i więź życia."
 
 #: ../../AFR.rst:258
 msgid ""
@@ -1106,7 +1106,7 @@ msgstr ""
 
 #: ../../AFR.rst:291
 msgid "Stand and Fight — Target creature gets +1/+3 until end of turn."
-msgstr "Stań do walki — Wskazany stwór dostaje do końca tury +1/+3."
+msgstr "Stań do walki — Wskazany stwór do końca tury dostaje +1/+3."
 
 #: ../../AFR.rst:300
 msgid ""
@@ -1701,7 +1701,7 @@ msgstr ""
 
 #: ../../AFR.rst:497
 msgid "Target creature gets -2/-0 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -2/-0."
+msgstr "Wskazany stwór do końca tury dostaje -2/-0."
 
 #: ../../AFR.rst:499
 msgid "Draw a card."
@@ -1923,7 +1923,7 @@ msgid ""
 "Find a Crossing — Target creature gets +1/+0 until end of turn and can't be "
 "blocked this turn."
 msgstr ""
-"Znajdź bród — Wskazany stwór dostaje do końca tury +1/+0 i nie może być "
+"Znajdź bród — Wskazany stwór do końca tury dostaje +1/+0 i nie może być "
 "blokowany w tej turze."
 
 #: ../../AFR.rst:590
@@ -1959,7 +1959,7 @@ msgid ""
 "Hide — Target creature you control gains hexproof until end of turn. (It "
 "can't be the target of spells or abilities your opponents control.)"
 msgstr ""
-"Kryj się — Wskazany stwór pod twoim władaniem zyskuje do końca tury "
+"Kryj się — Wskazany stwór pod twoim władaniem do końca tury zyskuje "
 "antyklątwę. (Nie może być wskazywany przez czary lub zdolności pod władaniem "
 "twoich przeciwników.)"
 
@@ -2085,7 +2085,7 @@ msgid ""
 "opponent controls gets -3/-3 until end of turn."
 msgstr ""
 "Kwasowy oddech — Kiedy ten byt wejdzie na pole bitwy, wskazany stwór pod "
-"władaniem przeciwnika dostaje do końca tury -3/-3."
+"władaniem przeciwnika do końca tury dostaje -3/-3."
 
 #: ../../AFR.rst:644
 msgid ""
@@ -2304,7 +2304,7 @@ msgstr ""
 
 #: ../../AFR.rst:703
 msgid "Target creature gets -11/-11 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -11/-11."
+msgstr "Wskazany stwór do końca tury dostaje -11/-11."
 
 #: ../../AFR.rst:708
 msgid ""
@@ -2366,7 +2366,7 @@ msgid ""
 "from a Treasure was spent to activate this ability, that creature also gains "
 "deathtouch until end of turn."
 msgstr ""
-"|mana_2|\\ |mana_b|: Wskazany stwór dostaje do końca tury +2/+0. Jeśli do "
+"|mana_2|\\ |mana_b|: Wskazany stwór do końca tury dostaje +2/+0. Jeśli do "
 "aktywacji ten zdolności wydano manę ze Skarbu, ów stwór do końca tury "
 "zyskuje także dotyk śmierci."
 
@@ -2495,7 +2495,7 @@ msgstr "Podstępny atak — Ilekroć ten stwór atakuje, rzuć k20."
 
 #: ../../AFR.rst:763
 msgid "1—9 | Lightfoot Rogue gains deathtouch until end of turn."
-msgstr "1—9 | Ten stwór zyskuje do końca tury dotyk śmierci."
+msgstr "1—9 | Ten stwór do końca tury zyskuje dotyk śmierci."
 
 #: ../../AFR.rst:765
 msgid "10—19 | It gets +1/+0 and gains deathtouch until end of turn."
@@ -2610,8 +2610,8 @@ msgid ""
 "Target creature gets -4/-1 until end of turn. If that creature is white, it "
 "gets -4/-4 until end of turn instead."
 msgstr ""
-"Wskazany stwór dostaje do końca tury -4/-1. Jeśli ów stwór jest biały, "
-"zamiast tego dostaje do końca tury -4/-4."
+"Wskazany stwór do końca tury dostaje -4/-1. Jeśli ów stwór jest biały, "
+"zamiast tego do końca tury dostaje -4/-4."
 
 #: ../../AFR.rst:818
 msgid ""
@@ -2654,7 +2654,7 @@ msgid ""
 "Sacrifice another creature: Sepulcher Ghoul gets +2/+2 until end of turn. "
 "Activate only once each turn."
 msgstr ""
-"Poświęć innego stwora: Ten stwór dostaje do końca tury +2/+2. Aktywuj tylko "
+"Poświęć innego stwora: Ten stwór do końca tury dostaje +2/+2. Aktywuj tylko "
 "raz na turę."
 
 #: ../../AFR.rst:826
@@ -2680,8 +2680,8 @@ msgid ""
 "Brave the Stench — Target creature an opponent controls gets -1/-1 until end "
 "of turn."
 msgstr ""
-"Odważ się na smród — Wskazany stwór pod władaniem przeciwnika dostaje do "
-"końca tury -1/-1."
+"Odważ się na smród — Wskazany stwór pod władaniem przeciwnika do końca tury "
+"dostaje -1/-1."
 
 #: ../../AFR.rst:833
 msgid ""
@@ -2964,7 +2964,7 @@ msgid ""
 "and gains menace until end of turn."
 msgstr ""
 "Ilekroć rzucisz co najmniej jedną kostką, wskazany stwór pod twoim władaniem "
-"dostaje do końca tury +2/+0 i złowrogość."
+"do końca tury dostaje +2/+0 i złowrogość."
 
 #: ../../AFR.rst:925
 msgid "|mana_2|\\ |mana_r|: Level 3"
@@ -3088,7 +3088,7 @@ msgstr ""
 
 #: ../../AFR.rst:961
 msgid "Target creature gains double strike until end of turn."
-msgstr "Wskazany stwór zyskuje do końca tury podwójny cios."
+msgstr "Wskazany stwór do końca tury zyskuje podwójny cios."
 
 #: ../../AFR.rst:963
 msgid ""
@@ -3358,8 +3358,8 @@ msgid ""
 "first strike until end of turn."
 msgstr ""
 "Taktyka stada — Ilekroć ten stwór zaatakuje, jeśli w tej potyczce "
-"zaatakowałeś stworami o łącznej sile 6 lub więcej, ten stwór dostaje do "
-"końca tury pierwszy cios."
+"zaatakowałeś stworami o łącznej sile 6 lub więcej, ten stwór do końca tury "
+"dostaje pierwszy cios."
 
 #: ../../AFR.rst:1056
 msgid ""
@@ -3406,7 +3406,7 @@ msgid ""
 "|mana_r|: Inferno of the Star Mounts gets +1/+0 until end of turn. When its "
 "power becomes 20 this way, it deals 20 damage to any target."
 msgstr ""
-"|mana_1|: Ten stwór dostaje do końca tury +1/+0. Kiedy jego siła osiągnie w "
+"|mana_1|: Ten stwór do końca tury dostaje +1/+0. Kiedy jego siła osiągnie w "
 "ten sposób 20, zadaje on wskazanemu celowi 20 obrażeń."
 
 #: ../../AFR.rst:1072
@@ -3551,7 +3551,7 @@ msgid ""
 msgstr ""
 "Zyskaj do końca tury władanie nad wskazanym stworem. Odkręć go. Do końca "
 "tury zyskuje on pośpiech. Jeśli do jego rzucenia wydano manę ze Skarbu, ów "
-"stwór dostaje do końca tury +2/+0."
+"stwór do końca tury dostaje +2/+0."
 
 #: ../../AFR.rst:1116
 msgid ""
@@ -3581,7 +3581,7 @@ msgstr "Pierwszy cios"
 
 #: ../../AFR.rst:1121
 msgid "Sacrifice an artifact: Rust Monster gets +2/+0 until end of turn."
-msgstr "Poświęć artefakt: Ten stwór dostaje do końca tury +2/+0."
+msgstr "Poświęć artefakt: Ten stwór do końca tury dostaje +2/+0."
 
 #: ../../AFR.rst:1132
 msgid ""
@@ -3658,7 +3658,7 @@ msgid ""
 "creature you control gets +1/+0 until end of turn."
 msgstr ""
 "Zagrzewanie do walki — Na początku potyczki w twojej turze, wskazany stwór "
-"pod twoim władaniem dostaje do końca tury +1/+0."
+"pod twoim władaniem do końca tury dostaje +1/+0."
 
 #: ../../AFR.rst:1152
 msgid ""
@@ -3701,7 +3701,7 @@ msgstr ""
 
 #: ../../AFR.rst:1163
 msgid "Fend Them Off — Target creature gets +3/+1 until end of turn."
-msgstr "Przegoń ich — Wskazany stwór dostaje do końca tury +3/+1."
+msgstr "Przegoń ich — Wskazany stwór do końca tury dostaje +3/+1."
 
 #: ../../AFR.rst:1172
 msgid ""
@@ -3811,7 +3811,7 @@ msgstr ""
 #: ../../AFR.rst:1201
 msgid ""
 "Target creature gets +2/+2 and gains trample until end of turn. Untap it."
-msgstr "Wskazany stwór dostaje do końca tury +2/+2 i tratowanie. Odkręć go."
+msgstr "Wskazany stwór do końca tury dostaje +2/+2 i tratowanie. Odkręć go."
 
 #: ../../AFR.rst:1210
 msgid ""
@@ -3871,7 +3871,7 @@ msgid ""
 "Target creature gets +3/+3 until end of turn and must be blocked this turn "
 "if able."
 msgstr ""
-"Wskazany stwór dostaje do końca tury +3/+3 i musi być blokowany w tej turze "
+"Wskazany stwór do końca tury dostaje +3/+3 i musi być blokowany w tej turze "
 "jeśli to możliwe."
 
 #: ../../AFR.rst:1226
@@ -3886,7 +3886,7 @@ msgid ""
 "|mana_1|\\ |mana_g|: Dire Wolf Prowler gets +2/+2 and gains haste until end "
 "of turn. Activate only once each turn."
 msgstr ""
-"|mana_1|\\ |mana_g|: Ten stwór dostaje do końca tury +2/+2 i pośpiech. "
+"|mana_1|\\ |mana_g|: Ten stwór do końca tury dostaje +2/+2 i pośpiech. "
 "Aktywuj tylko raz na turę."
 
 #: ../../AFR.rst:1240
@@ -4124,7 +4124,7 @@ msgid ""
 "damage equal to its power to target creature or planeswalker you don't "
 "control."
 msgstr ""
-"Wskazany stwór pod twoim władaniem dostaje do końca tury +1/+1. Następnie "
+"Wskazany stwór pod twoim władaniem do końca tury dostaje +1/+1. Następnie "
 "zadaje obrażenia równe swojej sile wskazanemu stworowi lub wędrowcowi poza "
 "twoim władaniem."
 
@@ -4141,7 +4141,7 @@ msgstr "Kiedy ten byt wejdzie na pole bitwy, wybierz jedną —"
 
 #: ../../AFR.rst:1325
 msgid "Bardic Inspiration — Target creature gets +2/+2 until end of turn."
-msgstr "Inspiracja barda — Wskazany stwór dostaje do końca tury +2/+2."
+msgstr "Inspiracja barda — Wskazany stwór do końca tury dostaje +2/+2."
 
 #: ../../AFR.rst:1327
 msgid "Song of Rest — You gain 3 life."
@@ -4451,7 +4451,7 @@ msgid ""
 "a Treasure that was spent to cast this spell. Then that creature deals "
 "damage equal to its power to target creature an opponent controls."
 msgstr ""
-"Wskazany stwór pod twoim władaniem dostaje do końca tury +1/+0 za każdą manę "
+"Wskazany stwór pod twoim władaniem do końca tury dostaje +1/+0 za każdą manę "
 "ze Skarbu wydaną na rzucenie tego czaru. Następnie ów stwór zadaje "
 "wskazanemu stworowi pod władaniem przeciwnika obrażenia równe swojej sile."
 
@@ -4813,8 +4813,8 @@ msgid ""
 "Chosen gains flying and menace until end of turn. If any of those results "
 "was 10 or higher, draw a card."
 msgstr ""
-"Szczęście Mrocznego — Ilekroć rzucisz co najmniej jedną kostką, ten stwór "
-"zyskuje do końca tury latanie i złowrogość. Jeśli w którymkolwiek z owych "
+"Szczęście Mrocznego — Ilekroć rzucisz co najmniej jedną kostką, ten stwór do "
+"końca tury zyskuje latanie i złowrogość. Jeśli w którymkolwiek z owych "
 "rzutów wypadnie 10 lub więcej, dobierz kartę."
 
 #: ../../AFR.rst:1578
@@ -5008,7 +5008,7 @@ msgstr "Kiedy ten byt wejdzie na pole bitwy, wybierz jedną —"
 
 #: ../../AFR.rst:1625
 msgid "Each other creature gets -X/-X until end of turn. You lose X life."
-msgstr "Każdy inny stwór dostaje do końca tury -X/-X. Strać X żyć."
+msgstr "Każdy inny stwór do końca tury dostaje -X/-X. Strać X żyć."
 
 #: ../../AFR.rst:1627
 msgid ""
@@ -5445,7 +5445,7 @@ msgid ""
 "cards in your hand."
 msgstr ""
 "Na początku potyczki w twojej turze, wyposażony stwór lub stwór pod twoim "
-"władaniem o nazwie Vecna dostaje do końca tury +X/+X, gdzie X jest liczbą "
+"władaniem o nazwie Vecna do końca tury dostaje +X/+X, gdzie X jest liczbą "
 "kart w twojej ręce."
 
 #: ../../AFR.rst:1777

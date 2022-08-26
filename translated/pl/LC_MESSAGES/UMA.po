@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-22 09:12+0200\n"
-"PO-Revision-Date: 2022-04-18 17:53+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/uma/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.10.1\n"
+"X-Generator: Weblate 4.13.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../symbols.rst:3
@@ -610,7 +610,7 @@ msgid ""
 "until end of turn. (It can't be blocked, targeted, dealt damage, enchanted, "
 "or equipped by anything of that color.)"
 msgstr ""
-"Wskazany stwór pod twoim władaniem zyskuje do końca tury ochronę przed "
+"Wskazany stwór pod twoim władaniem do końca tury zyskuje ochronę przed "
 "wybranym przez ciebie kolorem. (Nic w owym kolorze nie może blokować, "
 "wskazać, zadać obrażeń, zauroczyć ani wyposażyć tego stwora.)"
 
@@ -699,8 +699,8 @@ msgid ""
 "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 "
 "until end of turn.)"
 msgstr ""
-"Waleczność (Ilekroć rzucisz nie-stworowy czar, ten stwór dostaje do końca "
-"tury +1/+1.)"
+"Waleczność (Ilekroć rzucisz nie-stworowy czar, ten stwór do końca tury "
+"dostaje +1/+1.)"
 
 #: ../../UMA.rst:157
 msgid ""
@@ -1118,7 +1118,7 @@ msgstr ""
 
 #: ../../UMA.rst:289
 msgid "Target creature gains flying until end of turn."
-msgstr "Wskazany stwór zyskuje do końca tury latanie."
+msgstr "Wskazany stwór do końca tury zyskuje latanie."
 
 #: ../../UMA.rst:291
 msgid ""
@@ -1509,7 +1509,7 @@ msgid ""
 "flashback cost. Then exile it.)"
 msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, wskazana karta sztuczki lub obrzędu w "
-"twoim cmentarzu zyskuje do końca tury wspomnienie. Koszt wspomnienia jest "
+"twoim cmentarzu do końca tury zyskuje wspomnienie. Koszt wspomnienia jest "
 "równy jej kosztowi many. (Możesz rzucić ową kartę z twojego cmentarza za "
 "koszt wspomnienia. Następnie wygnaj ją.)"
 
@@ -2016,7 +2016,7 @@ msgstr ""
 
 #: ../../UMA.rst:575
 msgid "Target creature gets -3/-3 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -3/-3."
+msgstr "Wskazany stwór do końca tury dostaje -3/-3."
 
 #: ../../UMA.rst:584
 msgid ""
@@ -2121,7 +2121,7 @@ msgstr ""
 
 #: ../../UMA.rst:615
 msgid "Discard a card: Olivia's Dragoon gains flying until end of turn."
-msgstr "Odrzuć kartę: Ten stwór zyskuje do końca tury latanie."
+msgstr "Odrzuć kartę: Ten stwór do końca tury zyskuje latanie."
 
 #: ../../UMA.rst:620
 msgid ""
@@ -2672,7 +2672,7 @@ msgstr ""
 
 #: ../../UMA.rst:783
 msgid "Target creature gets +3/+0 and gains haste until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +3/+0 i pośpiech."
+msgstr "Wskazany stwór do końca tury dostaje +3/+0 i pośpiech."
 
 #: ../../UMA.rst:792
 msgid ""
@@ -2893,7 +2893,7 @@ msgid ""
 "|mana_1|\\ |mana_g|: Basking Rootwalla gets +2/+2 until end of turn. "
 "Activate only once each turn."
 msgstr ""
-"|mana_1|\\ |mana_g|: Ten stwór dostaje do końca tury +2/+2. Możesz aktywować "
+"|mana_1|\\ |mana_g|: Ten stwór do końca tury dostaje +2/+2. Możesz aktywować "
 "tylko raz na turę."
 
 #: ../../UMA.rst:855
@@ -2913,7 +2913,7 @@ msgstr ""
 
 #: ../../UMA.rst:861
 msgid "Target creature gets +6/+6 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +6/+6."
+msgstr "Wskazany stwór do końca tury dostaje +6/+6."
 
 #: ../../UMA.rst:870
 msgid ""
@@ -3283,7 +3283,7 @@ msgid ""
 "Target creature gets +2/+2 until end of turn. You may remove a -1/-1 counter "
 "from it."
 msgstr ""
-"Wskazany stwór dostaje do końca tury +2/+2. Możesz usunąć z niego znacznik "
+"Wskazany stwór do końca tury dostaje +2/+2. Możesz usunąć z niego znacznik "
 "-1/-1."
 
 #: ../../UMA.rst:996
@@ -3485,7 +3485,7 @@ msgstr ""
 
 #: ../../UMA.rst:1057
 msgid "Target creature gets +3/+1 and gains trample until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +3/+1 oraz tratowanie."
+msgstr "Wskazany stwór do końca tury dostaje +3/+1 oraz tratowanie."
 
 #: ../../UMA.rst:1064
 msgid ""
@@ -4317,8 +4317,8 @@ msgid ""
 "+X/+0 until end of turn.\" It's still a land."
 msgstr ""
 "|mana_1|\\ |mana_b|\\ |mana_r|: Do końca tury ten ląd staje się czarno-"
-"czerwonym stworem Żywiołak 2/2 mającym \"|mana_x|: Ten stwór dostaje do "
-"końca tury +X/+0.\" Nadal jest lądem."
+"czerwonym stworem Żywiołak 2/2 mającym \"|mana_x|: Ten stwór do końca tury "
+"dostaje +X/+0.\" Nadal jest lądem."
 
 #: ../../UMA.rst:1368
 msgid ""

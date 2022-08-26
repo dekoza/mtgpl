@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-22 09:12+0200\n"
-"PO-Revision-Date: 2022-06-25 15:11+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ima/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.12.1\n"
+"X-Generator: Weblate 4.13.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../symbols.rst:3
@@ -511,8 +511,8 @@ msgid ""
 "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 "
 "until end of turn.)"
 msgstr ""
-"Waleczność (Ilekroć rzucisz nie-stworowy czar, ten stwór dostaje do końca "
-"tury +1/+1.)"
+"Waleczność (Ilekroć rzucisz nie-stworowy czar, ten stwór do końca tury "
+"dostaje +1/+1.)"
 
 #: ../../IMA.rst:112
 msgid ""
@@ -542,7 +542,7 @@ msgid ""
 "Target creature you control gains protection from the color of your choice "
 "until end of turn."
 msgstr ""
-"Wskazany stwór pod twoim władaniem zyskuje do końca tury ochronę przed "
+"Wskazany stwór pod twoim władaniem do końca tury zyskuje ochronę przed "
 "wybranym przez ciebie kolorem."
 
 #: ../../IMA.rst:117 ../../IMA.rst:129 ../../IMA.rst:205 ../../IMA.rst:307
@@ -608,7 +608,7 @@ msgstr ""
 
 #: ../../IMA.rst:139
 msgid "Target creature gets +1/+0 and gains first strike until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +1/+0 i pierwszy cios."
+msgstr "Wskazany stwór do końca tury dostaje +1/+0 i pierwszy cios."
 
 #: ../../IMA.rst:141 ../../IMA.rst:253 ../../IMA.rst:287 ../../IMA.rst:405
 #: ../../IMA.rst:441 ../../IMA.rst:1051 ../../IMA.rst:1059 ../../IMA.rst:1099
@@ -624,7 +624,7 @@ msgstr ""
 
 #: ../../IMA.rst:145
 msgid "|tap|: Target attacking creature gets +1/+1 until end of turn."
-msgstr "|tap|: Wskazany atakujący stwór dostaje do końca tury +1/+1."
+msgstr "|tap|: Wskazany atakujący stwór do końca tury dostaje +1/+1."
 
 #: ../../IMA.rst:150
 msgid ""
@@ -801,7 +801,7 @@ msgstr ""
 #: ../../IMA.rst:211
 msgid ""
 "Whenever Sustainer of the Realm blocks, it gets +0/+2 until end of turn."
-msgstr "Ilekroć ten stwór zablokuje, dostaje do końca tury +0/+2."
+msgstr "Ilekroć ten stwór zablokuje, do końca tury dostaje +0/+2."
 
 #: ../../IMA.rst:216
 msgid ""
@@ -918,7 +918,7 @@ msgstr ""
 
 #: ../../IMA.rst:251
 msgid "Target creature gets -3/-0 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -3/-0."
+msgstr "Wskazany stwór do końca tury dostaje -3/-0."
 
 #: ../../IMA.rst:258
 msgid ""
@@ -1056,7 +1056,7 @@ msgstr ""
 msgid ""
 "Target creature gets +1/+0 until end of turn and can't be blocked this turn."
 msgstr ""
-"Wskazany stwór dostaje do końca tury +1/+0 i nie może być blokowany w tej "
+"Wskazany stwór do końca tury dostaje +1/+0 i nie może być blokowany w tej "
 "turze."
 
 #: ../../IMA.rst:314
@@ -1091,7 +1091,7 @@ msgid ""
 "Whenever you cast a noncreature spell, Elusive Spellfist gets +1/+0 until "
 "end of turn and can't be blocked this turn."
 msgstr ""
-"Ilekroć rzucisz nie-stworowy czar, ten stwór dostaje do końca tury +1/+0 i "
+"Ilekroć rzucisz nie-stworowy czar, ten stwór do końca tury dostaje +1/+0 i "
 "nie może być blokowany w tej turze."
 
 #: ../../IMA.rst:324
@@ -1514,8 +1514,8 @@ msgid ""
 "it. (Damage dealt by a creature with lifelink also causes its controller to "
 "gain that much life.)"
 msgstr ""
-"Wskazany stwór dostaje do końca tury +3/+0 oraz więź życia. Zregeneruj go. "
-"(Obrażenia zadane przez stwora z więzią życia sprawiają, że jego władca "
+"Wskazany stwór do końca tury dostaje +3/+0 oraz więź życia. Zregeneruj go. ("
+"Obrażenia zadane przez stwora z więzią życia sprawiają, że jego władca "
 "zyskuje tyle samo żyć.)"
 
 #: ../../IMA.rst:488
@@ -1601,9 +1601,9 @@ msgid ""
 "until end of turn. That creature gets -4/-4 instead if you control a "
 "creature named Bogbrew Witch."
 msgstr ""
-"Kiedy ten stwór umrze, wskazany stwór pod władaniem przeciwnika dostaje do "
-"końca tury -1/-1. Ów stwór dostaje zamiast tego -4/-4 jeśli władasz stworem "
-"o nazwie Bogbrew Witch."
+"Kiedy ten stwór umrze, wskazany stwór pod władaniem przeciwnika do końca "
+"tury dostaje -1/-1. Ów stwór dostaje zamiast tego -4/-4 jeśli władasz "
+"stworem o nazwie Bogbrew Witch."
 
 #: ../../IMA.rst:516
 msgid ""
@@ -1941,7 +1941,7 @@ msgstr ""
 
 #: ../../IMA.rst:623
 msgid "Target creature gets -3/-3 until end of turn. You lose 3 life."
-msgstr "Wskazany stwór dostaje do końca tury -3/-3. Strać 3 życia."
+msgstr "Wskazany stwór do końca tury dostaje -3/-3. Strać 3 życia."
 
 #: ../../IMA.rst:630
 msgid ""
@@ -1952,7 +1952,7 @@ msgstr ""
 
 #: ../../IMA.rst:627
 msgid "Target creature gets +2/+0 and gains deathtouch until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +2/+0 i dotyk śmierci."
+msgstr "Wskazany stwór do końca tury dostaje +2/+0 i dotyk śmierci."
 
 #: ../../IMA.rst:634
 msgid ""
@@ -2034,7 +2034,7 @@ msgstr ""
 
 #: ../../IMA.rst:657
 msgid "Whenever Borderland Marauder attacks, it gets +2/+0 until end of turn."
-msgstr "Ilekroć ten stwór zaatakuje, dostaje do końca tury +2/+0."
+msgstr "Ilekroć ten stwór zaatakuje, do końca tury dostaje +2/+0."
 
 #: ../../IMA.rst:664
 msgid ""
@@ -2056,8 +2056,8 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, Charmbreaker Devils gets +4/"
 "+0 until end of turn."
 msgstr ""
-"Ilekroć rzucisz czar sztuczki lub obrzędu, ten stwór dostaje do końca tury "
-"+4/+0."
+"Ilekroć rzucisz czar sztuczki lub obrzędu, ten stwór do końca tury dostaje +"
+"4/+0."
 
 #: ../../IMA.rst:668
 msgid ""
@@ -2071,7 +2071,7 @@ msgid ""
 "Up to two target creatures each get +1/+0 and gain first strike until end of "
 "turn."
 msgstr ""
-"Każdy z co najwyżej dwóch wskazanych stworów dostaje do końca tury +1/+0 "
+"Każdy z co najwyżej dwóch wskazanych stworów do końca tury dostaje +1/+0 "
 "oraz pierwszy cios."
 
 #: ../../IMA.rst:672
@@ -2115,7 +2115,7 @@ msgid ""
 "\"|mana_r|: This creature gets +1/+0 until end of turn.\""
 msgstr ""
 "Kiedy ten stwór umrze, stwórz żeton czerwonego stwora Smok 2/2 z lataniem "
-"mającego \"|mana_r|: Ten stwór dostaje do końca tury +1/+0.\""
+"mającego \"|mana_r|: Ten stwór do końca tury dostaje +1/+0.\""
 
 #: ../../IMA.rst:690
 msgid ""
@@ -2188,7 +2188,7 @@ msgstr ""
 
 #: ../../IMA.rst:709
 msgid "|mana_r|: Furnace Whelp gets +1/+0 until end of turn."
-msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_r|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../IMA.rst:720
 msgid ""
@@ -2207,7 +2207,7 @@ msgstr "Zniszcz wskazany artefakt."
 
 #: ../../IMA.rst:717
 msgid "Target creature gets +1/+1 and gains trample until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +1/+1 i tratowanie."
+msgstr "Wskazany stwór do końca tury dostaje +1/+1 i tratowanie."
 
 #: ../../IMA.rst:719
 msgid "Remove two time counters from target permanent or suspended card."
@@ -2340,8 +2340,8 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, Kiln Fiend gets +3/+0 until "
 "end of turn."
 msgstr ""
-"Ilekroć rzucisz czar sztuczki lub obrzędu, ten stwór dostaje do końca tury "
-"+3/+0."
+"Ilekroć rzucisz czar sztuczki lub obrzędu, ten stwór do końca tury dostaje +"
+"3/+0."
 
 #: ../../IMA.rst:764
 msgid ""
@@ -2367,8 +2367,8 @@ msgid ""
 "and untap it. That creature gains haste until end of turn. (It can attack "
 "and |tap| this turn.)"
 msgstr ""
-"Zyskaj do końca tury władanie nad wskazanym stworem. Umieść na nim znacznik "
-"+1/+1 i odkręć go. Ów stwór zyskuje do końca tury pośpiech. (Może atakować i "
+"Zyskaj do końca tury władanie nad wskazanym stworem. Umieść na nim znacznik +"
+"1/+1 i odkręć go. Ów stwór do końca tury zyskuje pośpiech. (Może atakować i "
 "|tap| w tej turze.)"
 
 #: ../../IMA.rst:774
@@ -2461,7 +2461,7 @@ msgstr ""
 
 #: ../../IMA.rst:801
 msgid "|mana_r|: Scourge of Valkas gets +1/+0 until end of turn."
-msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_r|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../IMA.rst:808
 msgid ""
@@ -2717,7 +2717,7 @@ msgid ""
 "blocked this turn if able. (A creature with trample can deal excess combat "
 "damage to the player or planeswalker it's attacking.)"
 msgstr ""
-"Wskazany stwór dostaje do końca tury +7/+7 oraz tratowanie. Musi być "
+"Wskazany stwór do końca tury dostaje +7/+7 oraz tratowanie. Musi być "
 "blokowany w tej turze, jeśli to możliwe. (Stwór z tratowaniem może zadać "
 "nadwyżkę obrażeń bojowych atakowanemu graczowi lub wędrowcowi.)"
 
@@ -2985,7 +2985,7 @@ msgid ""
 "Whenever Netcaster Spider blocks a creature with flying, Netcaster Spider "
 "gets +2/+0 until end of turn."
 msgstr ""
-"Ilekroć ten stwór zablokuje stwora z lataniem, dostaje do końca tury +2/+0."
+"Ilekroć ten stwór zablokuje stwora z lataniem, do końca tury dostaje +2/+0."
 
 #: ../../IMA.rst:982
 msgid ""
@@ -3047,7 +3047,7 @@ msgstr ""
 
 #: ../../IMA.rst:997
 msgid "Target creature gets +2/+2 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +2/+2."
+msgstr "Wskazany stwór do końca tury dostaje +2/+2."
 
 #: ../../IMA.rst:1006
 msgid ""
@@ -3203,7 +3203,7 @@ msgstr ""
 
 #: ../../IMA.rst:1049
 msgid "Target creature gets +2/+2 and gains trample until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +2/+2 i tratowanie."
+msgstr "Wskazany stwór do końca tury dostaje +2/+2 i tratowanie."
 
 #: ../../IMA.rst:1062
 msgid ""
@@ -3858,8 +3858,8 @@ msgid ""
 "revealed cards into their graveyard."
 msgstr ""
 "Ilekroć wyposażony stwór zaatakuje, broniący się gracz ujawnia karty z "
-"wierzchu swojej biblioteki aż ujawni kartę lądu. Ów stwór dostaje do końca "
-"tury +1/+0 za każdą kartę ujawnioną w ten sposób. Ów gracz umieszcza "
+"wierzchu swojej biblioteki aż ujawni kartę lądu. Ów stwór do końca tury "
+"dostaje +1/+0 za każdą kartę ujawnioną w ten sposób. Ów gracz umieszcza "
 "ujawnione karty w swoim cmentarzu."
 
 #: ../../IMA.rst:1292

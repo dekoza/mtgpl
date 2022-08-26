@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.6\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-22 09:12+0200\n"
-"PO-Revision-Date: 2022-05-29 17:33+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/m20/pl/>\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.12.1\n"
+"X-Generator: Weblate 4.13.1\n"
 
 #: ../../symbols.rst:3
 msgid "{C}"
@@ -590,7 +590,7 @@ msgid ""
 "until end of turn. (It can't be blocked, targeted, dealt damage, enchanted, "
 "or equipped by anything of that color.)"
 msgstr ""
-"Wskazany stwór pod twoim władaniem zyskuje do końca tury ochronę przed "
+"Wskazany stwór pod twoim władaniem do końca tury zyskuje ochronę przed "
 "wybranym przez ciebie kolorem. (Nic w owym kolorze nie może blokować, "
 "wskazać, zadać obrażeń, zauroczyć ani wyposażyć tego stwora.)"
 
@@ -611,7 +611,7 @@ msgid ""
 "Protector gets +1/+1 until end of turn."
 msgstr ""
 "Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, niniejszy "
-"stwór dostaje do końca tury +1/+1."
+"stwór do końca tury dostaje +1/+1."
 
 #: ../../M20.rst:130
 msgid ""
@@ -728,7 +728,7 @@ msgid ""
 "|mana_5|\\ |mana_w|: Loxodon Lifechanter gets +X/+X until end of turn, where "
 "X is your life total."
 msgstr ""
-"|mana_5|\\ |mana_w|: Ten stwór dostaje do końca tury +X/+X, gdzie X jest "
+"|mana_5|\\ |mana_w|: Ten stwór do końca tury dostaje +X/+X, gdzie X jest "
 "liczbą twoich żyć."
 
 #: ../../M20.rst:170
@@ -773,7 +773,7 @@ msgid ""
 "Target creature gets +2/+2 and gains lifelink until end of turn. (Damage "
 "dealt by the creature also causes its controller to gain that much life.)"
 msgstr ""
-"Wskazany stwór dostaje do końca tury +2/+2 oraz więź życia. (Obrażenia "
+"Wskazany stwór do końca tury dostaje +2/+2 oraz więź życia. (Obrażenia "
 "zadane przez tego stwora dodatkowo sprawiają, że jego władca zyskuje tyle "
 "samo życia.)"
 
@@ -1019,7 +1019,7 @@ msgstr ""
 
 #: ../../M20.rst:265
 msgid "Target creature gets -4/-0 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -4/-0."
+msgstr "Wskazany stwór do końca tury dostaje -4/-0."
 
 #: ../../M20.rst:267 ../../M20.rst:273 ../../M20.rst:473
 msgid "Draw a card."
@@ -1311,7 +1311,7 @@ msgstr ""
 
 #: ../../M20.rst:373
 msgid "|mana_u|: Metropolis Sprite gets +1/-1 until end of turn."
-msgstr "|mana_u|: Ten stwór dostaje do końca tury +1/-1."
+msgstr "|mana_u|: Ten stwór do końca tury dostaje +1/-1."
 
 #: ../../M20.rst:378
 msgid ""
@@ -1552,7 +1552,7 @@ msgstr ""
 
 #: ../../M20.rst:455
 msgid "|mana_1|\\ |mana_u|: Target creature gains flying until end of turn."
-msgstr "|mana_1|\\ |mana_u|: Wskazany stwór zyskuje do końca tury latanie."
+msgstr "|mana_1|\\ |mana_u|: Wskazany stwór do końca tury zyskuje latanie."
 
 #: ../../M20.rst:460
 msgid ""
@@ -1592,7 +1592,7 @@ msgstr ""
 
 #: ../../M20.rst:471
 msgid "Target creature gains deathtouch until end of turn."
-msgstr "Wskazany stwór zyskuje do końca tury dotyk śmierci."
+msgstr "Wskazany stwór do końca tury zyskuje dotyk śmierci."
 
 #: ../../M20.rst:480
 msgid ""
@@ -1738,7 +1738,7 @@ msgstr ""
 
 #: ../../M20.rst:521
 msgid "Target creature gets -2/-2 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -2/-2."
+msgstr "Wskazany stwór do końca tury dostaje -2/-2."
 
 #: ../../M20.rst:530
 msgid ""
@@ -1898,7 +1898,7 @@ msgid ""
 "|mana_2|\\ |mana_b|: Knight of the Ebon Legion gets +3/+3 and gains "
 "deathtouch until end of turn."
 msgstr ""
-"|mana_2|\\ |mana_b|: Ten stwór dostaje do końca tury +3/+3 oraz dotyk "
+"|mana_2|\\ |mana_b|: Ten stwór do końca tury dostaje +3/+3 oraz dotyk "
 "śmierci."
 
 #: ../../M20.rst:571
@@ -2054,7 +2054,7 @@ msgid ""
 "+1: Target creature you control gains deathtouch and lifelink until end of "
 "turn. If it's a Vampire, put a +1/+1 counter on it."
 msgstr ""
-"+1: Wskazany stwór pod twoim władaniem zyskuje do końca tury dotyk śmierci i "
+"+1: Wskazany stwór pod twoim władaniem do końca tury zyskuje dotyk śmierci i "
 "więź życia. Jeśli jest Wampirem, umieść na nim znacznik +1/+1."
 
 #: ../../M20.rst:615
@@ -2165,7 +2165,7 @@ msgstr ""
 
 #: ../../M20.rst:653
 msgid "|mana_b|, Pay 2 life: Target creature gets -1/-1 until end of turn."
-msgstr "|mana_b|, zapłać 2 życia: Wskazany stwór dostaje do końca tury -1/-1."
+msgstr "|mana_b|, zapłać 2 życia: Wskazany stwór do końca tury dostaje -1/-1."
 
 #: ../../M20.rst:655
 msgid ""
@@ -2191,7 +2191,7 @@ msgstr ""
 
 #: ../../M20.rst:661
 msgid "|mana_2|\\ |mana_b|: Yarok's Fenlurker gets +1/+1 until end of turn."
-msgstr "|mana_2|\\ |mana_b|: Ten stwór dostaje do końca tury +1/+1."
+msgstr "|mana_2|\\ |mana_b|: Ten stwór do końca tury dostaje +1/+1."
 
 #: ../../M20.rst:666
 msgid ""
@@ -2388,8 +2388,8 @@ msgid ""
 "Whenever an opponent is dealt noncombat damage, Chandra's Spitfire gets +3/"
 "+0 until end of turn."
 msgstr ""
-"Ilekroć przeciwnik otrzyma pozabojowe obrażenia, ten stwór dostaje do końca "
-"tury +3/+0."
+"Ilekroć przeciwnik otrzyma pozabojowe obrażenia, ten stwór do końca tury "
+"dostaje +3/+0."
 
 #: ../../M20.rst:724
 msgid ""
@@ -2531,7 +2531,7 @@ msgid ""
 "|mana_r|: Goblin Bird-Grabber gains flying until end of turn. Activate only "
 "if you control a creature with flying."
 msgstr ""
-"|mana_r|: Ten stwór zyskuje do końca tury latanie. Możesz aktywować tylko "
+"|mana_r|: Ten stwór do końca tury zyskuje latanie. Możesz aktywować tylko "
 "jeśli władasz stworem z lataniem."
 
 #: ../../M20.rst:776
@@ -2583,7 +2583,7 @@ msgstr ""
 
 #: ../../M20.rst:785
 msgid "Target creature gets +3/+2 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +3/+2."
+msgstr "Wskazany stwór do końca tury dostaje +3/+2."
 
 #: ../../M20.rst:790
 msgid ""
@@ -2612,7 +2612,7 @@ msgid ""
 "Whenever Lavakin Brawler attacks, it gets +1/+0 until end of turn for each "
 "Elemental you control."
 msgstr ""
-"Ilekroć ten stwór zaatakuje, dostaje do końca tury +1/+0 za każdego "
+"Ilekroć ten stwór zaatakuje, do końca tury dostaje +1/+0 za każdego "
 "Żywiołaka pod twoim władaniem."
 
 #: ../../M20.rst:800
@@ -2670,7 +2670,7 @@ msgid ""
 msgstr ""
 "Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, ten stwór "
 "zadaje mu 2 obrażenia. Jeśli Dinozaur otrzyma obrażenia w ten sposób, "
-"niniejszy stwór dostaje do końca tury +2/+0."
+"niniejszy stwór do końca tury dostaje +2/+0."
 
 #: ../../M20.rst:820
 msgid ""
@@ -2716,7 +2716,7 @@ msgid ""
 "until end of turn."
 msgstr ""
 "|mana_1|\\ |mana_r|: Każdy stwór pod twoim władaniem o nazwie Pack Mastiff "
-"dostaje do końca tury +1/+0."
+"do końca tury dostaje +1/+0."
 
 #: ../../M20.rst:830
 msgid ""
@@ -2882,7 +2882,7 @@ msgid ""
 "Target creature gets +1/+1 and gains double strike until end of turn. (It "
 "deals both first-strike and regular combat damage.)"
 msgstr ""
-"Wskazany stwór dostaje do końca tury +1/+1 oraz podwójny cios. (Zadaje "
+"Wskazany stwór do końca tury dostaje +1/+1 oraz podwójny cios. (Zadaje "
 "obrażenia bojowe zarówno jako pierwszy cios oraz normalnie.)"
 
 #: ../../M20.rst:882
@@ -2921,7 +2921,7 @@ msgid ""
 "hexproof until end of turn. (It can't be the target of spells or abilities "
 "your opponents control.)"
 msgstr ""
-"|mana_1|, usuń znacznik +1/+1 z tego stwora: Ten stwór zyskuje do końca tury "
+"|mana_1|, usuń znacznik +1/+1 z tego stwora: Ten stwór do końca tury zyskuje "
 "antyklątwę. (Nie może być wskazywany przez czary i zdolności pod władaniem "
 "twoich przeciwników.)"
 
@@ -3083,7 +3083,7 @@ msgid ""
 "Target creature gets +3/+3 until end of turn. It gets an additional +2/+2 "
 "until end of turn for each card named Growth Cycle in your graveyard."
 msgstr ""
-"Wskazany stwór dostaje do końca tury +3/+3. Dostaje on do końca tury "
+"Wskazany stwór do końca tury dostaje +3/+3. Dostaje on do końca tury "
 "dodatkowe +2/+2 za każdą kartę o nazwie Growth Cycle w twoim cmentarzu."
 
 #: ../../M20.rst:950
@@ -3218,7 +3218,7 @@ msgid ""
 "Whenever Netcaster Spider blocks a creature with flying, Netcaster Spider "
 "gets +2/+0 until end of turn."
 msgstr ""
-"Ilekroć ten stwór zablokuje stwora z lataniem, dostaje do końca tury +2/+0."
+"Ilekroć ten stwór zablokuje stwora z lataniem, do końca tury dostaje +2/+0."
 
 #: ../../M20.rst:998
 msgid ""
@@ -3388,7 +3388,7 @@ msgid ""
 "|mana_g|: Shifting Ceratops gains your choice of reach, trample, or haste "
 "until end of turn."
 msgstr ""
-"|mana_g|: Ten stwór zyskuje do końca tury jedno z: zasięg, tratowanie lub "
+"|mana_g|: Ten stwór do końca tury zyskuje jedno z: zasięg, tratowanie lub "
 "pośpiech."
 
 #: ../../M20.rst:1048
@@ -3626,7 +3626,7 @@ msgid ""
 "|mana_2|\\ |mana_r|\\ |mana_g|: Creeping Trailblazer gets +1/+1 until end of "
 "turn for each Elemental you control."
 msgstr ""
-"|mana_2|\\ |mana_r|\\ |mana_g|: Ten stwór dostaje do końca tury +1/+1 za "
+"|mana_2|\\ |mana_r|\\ |mana_g|: Ten stwór do końca tury dostaje +1/+1 za "
 "każdego Żywiołaka pod twoim władaniem."
 
 #: ../../M20.rst:1126
@@ -4744,7 +4744,7 @@ msgid ""
 "Waterkin Shaman gets +1/+1 until end of turn."
 msgstr ""
 "Ilekroć stwór z lataniem wejdzie na pole bitwy pod twoim władaniem, "
-"niniejszy stwór dostaje do końca tury +1/+1."
+"niniejszy stwór do końca tury dostaje +1/+1."
 
 #: ../../M20.rst:1540
 msgid ""
@@ -4772,7 +4772,7 @@ msgstr ""
 
 #: ../../M20.rst:1543
 msgid "+1: Up to one target creature gets +2/+0 until end of turn."
-msgstr "+1: Co najwyżej jeden wskazany stwór dostaje do końca tury +2/+0."
+msgstr "+1: Co najwyżej jeden wskazany stwór do końca tury dostaje +2/+0."
 
 #: ../../M20.rst:1545
 msgid "−2: Sorin, Vampire Lord deals 4 damage to any target. You gain 4 life."
@@ -4931,7 +4931,7 @@ msgstr ""
 
 #: ../../M20.rst:1589
 msgid "−6: Target creature gets +10/+10 and gains trample until end of turn."
-msgstr "–6: Wskazany stwór dostaje do końca tury +10/+10 i tratowanie."
+msgstr "–6: Wskazany stwór do końca tury dostaje +10/+10 i tratowanie."
 
 #: ../../M20.rst:1596
 msgid ""
@@ -5026,8 +5026,8 @@ msgid ""
 "When Haazda Officer enters the battlefield, target creature you control gets "
 "+1/+1 until end of turn."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór pod twoim władaniem "
-"dostaje do końca tury +1/+1."
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór pod twoim władaniem do "
+"końca tury dostaje +1/+1."
 
 #: ../../M20.rst:1628
 msgid ""
@@ -5084,7 +5084,7 @@ msgstr ""
 
 #: ../../M20.rst:1651
 msgid "Target creature gets +2/+4 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +2/+4."
+msgstr "Wskazany stwór do końca tury dostaje +2/+4."
 
 #: ../../M20.rst:1654
 msgid ""
@@ -5116,8 +5116,8 @@ msgid ""
 "Whenever Trusted Pegasus attacks, target attacking creature without flying "
 "gains flying until end of turn."
 msgstr ""
-"Ilekroć ten stwór zaatakuje, wskazany atakujący stwór bez latania zyskuje do "
-"końca tury latanie."
+"Ilekroć ten stwór zaatakuje, wskazany atakujący stwór bez latania do końca "
+"tury zyskuje latanie."
 
 #: ../../M20.rst:1668
 msgid ""
@@ -5182,7 +5182,7 @@ msgstr ""
 
 #: ../../M20.rst:1695
 msgid "Target creature gets +1/+3 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +1/+3."
+msgstr "Wskazany stwór do końca tury dostaje +1/+3."
 
 #: ../../M20.rst:1700
 msgid ""
@@ -5323,7 +5323,7 @@ msgstr ""
 
 #: ../../M20.rst:1757
 msgid "|mana_r|: Shivan Dragon gets +1/+0 until end of turn."
-msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_r|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../M20.rst:1762
 msgid ""
@@ -5377,7 +5377,7 @@ msgid ""
 "|mana_1|\\ |mana_g|: Frilled Sandwalla gets +2/+2 until end of turn. "
 "Activate only once each turn."
 msgstr ""
-"|mana_1|\\ |mana_g|: Ten stwór dostaje do końca tury +2/+2. Możesz aktywować "
+"|mana_1|\\ |mana_g|: Ten stwór do końca tury dostaje +2/+2. Możesz aktywować "
 "tylko raz na turę."
 
 #: ../../M20.rst:1786
@@ -5411,7 +5411,7 @@ msgstr ""
 
 #: ../../M20.rst:1793
 msgid "Target creature gets +4/+4 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +4/+4."
+msgstr "Wskazany stwór do końca tury dostaje +4/+4."
 
 #: ../../M20.rst:1797
 msgid ""

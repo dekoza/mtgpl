@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-22 09:12+0200\n"
-"PO-Revision-Date: 2022-06-25 15:11+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c17/pl/>\n"
 "Language: pl\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.12.1\n"
+"X-Generator: Weblate 4.13.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../symbols.rst:3
@@ -937,7 +937,7 @@ msgid ""
 msgstr ""
 "Eminencja — Na początku potyczki w twojej turze, jeśli niniejszy jest w "
 "strefie dowodzenia lub na polu bitwy, inny wskazany Kot pod twoim władaniem "
-"dostaje do końca tury +3/+3."
+"do końca tury dostaje +3/+3."
 
 #: ../../C17.rst:215
 msgid ""
@@ -1231,8 +1231,8 @@ msgid ""
 "|mana_b|, |tap|, Exile X cards from your graveyard: Target creature gets -X/-"
 "X until end of turn."
 msgstr ""
-"|mana_b|, |tap|, wygnaj X kart z twojego cmentarz: Wskazany stwór dostaje do "
-"końca tury -X/-X."
+"|mana_b|, |tap|, wygnaj X kart z twojego cmentarz: Wskazany stwór do końca "
+"tury dostaje -X/-X."
 
 #: ../../C17.rst:302
 msgid ""
@@ -1519,14 +1519,14 @@ msgstr ""
 
 #: ../../C17.rst:383
 msgid "Whenever Jareth, Leonine Titan blocks, it gets +7/+7 until end of turn."
-msgstr "Ilekroć ten stwór blokuje, dostaje do końca tury +7/+7."
+msgstr "Ilekroć ten stwór blokuje, do końca tury dostaje +7/+7."
 
 #: ../../C17.rst:385
 msgid ""
 "|mana_w|: Jareth gains protection from the color of your choice until end of "
 "turn."
 msgstr ""
-"|mana_w|: Ten stwór zyskuje do końca tury ochronę przed wybranym przez "
+"|mana_w|: Ten stwór do końca tury zyskuje ochronę przed wybranym przez "
 "ciebie kolorem."
 
 #: ../../C17.rst:392
@@ -2412,8 +2412,8 @@ msgid ""
 "|mana_x|\\ |mana_b|\\ |mana_b|: Target creature gets -0/-X until end of turn "
 "and Drana, Kalastria Bloodchief gets +X/+0 until end of turn."
 msgstr ""
-"|mana_x|\\ |mana_b|\\ |mana_b|: Wskazany stwór dostaje do końca tury -0/-X, "
-"a ten stwór dostaje do końca tury +X/+0."
+"|mana_x|\\ |mana_b|\\ |mana_b|: Wskazany stwór do końca tury dostaje -0/-X, "
+"a ten stwór do końca tury dostaje +X/+0."
 
 #: ../../C17.rst:656
 msgid ""
@@ -2925,7 +2925,7 @@ msgstr ""
 
 #: ../../C17.rst:815
 msgid "|mana_r|: Scourge of Valkas gets +1/+0 until end of turn."
-msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_r|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../C17.rst:822
 msgid ""
@@ -3470,8 +3470,8 @@ msgid ""
 "card until end of turn."
 msgstr ""
 "|mana_1|: Możesz w tej turze rzucić wskazaną kartę stwora z twojego "
-"cmentarza. Kiedy go rzucisz w tej turze, niniejszy stwór zyskuje do końca "
-"tury wszystkie aktywowane zdolności owej karty."
+"cmentarza. Kiedy go rzucisz w tej turze, niniejszy stwór do końca tury "
+"zyskuje wszystkie aktywowane zdolności owej karty."
 
 #: ../../C17.rst:1000
 msgid ""
@@ -3894,7 +3894,7 @@ msgstr "Skontruj wskazany nie-stworowy czar."
 
 #: ../../C17.rst:1143
 msgid "Target creature gets -3/-3 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -3/-3."
+msgstr "Wskazany stwór do końca tury dostaje -3/-3."
 
 #: ../../C17.rst:1145
 msgid "Destroy target planeswalker."
@@ -3914,7 +3914,7 @@ msgid ""
 "card's mana value."
 msgstr ""
 "Ilekroć ten stwór zaatakuje, dobierz kartę, po czym odrzuć kartę. Ten stwór "
-"dostaje do końca tury +X/+0, gdzie X jest skrótem many odrzuconej karty."
+"do końca tury dostaje +X/+0, gdzie X jest skrótem many odrzuconej karty."
 
 #: ../../C17.rst:1158
 msgid ""
@@ -4373,7 +4373,7 @@ msgstr ""
 
 #: ../../C17.rst:1323
 msgid "|mana_2|: Steel Hellkite gets +1/+0 until end of turn."
-msgstr "|mana_2|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_2|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../C17.rst:1325
 msgid ""

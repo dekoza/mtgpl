@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-22 09:12+0200\n"
-"PO-Revision-Date: 2022-03-29 10:53+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/hou/pl/>\n"
 "Language: pl\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.10.1\n"
+"X-Generator: Weblate 4.13.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../symbols.rst:3
@@ -519,8 +519,8 @@ msgid ""
 "Whenever another Zombie enters the battlefield under your control, Mummy "
 "Paramount gets +1/+1 until end of turn."
 msgstr ""
-"Ilekroć inny Zombi wejdzie na pole bitwy pod twoim władaniem, ten stwór "
-"dostaje do końca tury +1/+1."
+"Ilekroć inny Zombi wejdzie na pole bitwy pod twoim władaniem, ten stwór do "
+"końca tury dostaje +1/+1."
 
 #: ../../HOU.rst:100
 msgid ""
@@ -727,7 +727,7 @@ msgstr ""
 
 #: ../../HOU.rst:155
 msgid "Target creature gets +3/+3 and gains flying until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +3/+3 oraz latanie."
+msgstr "Wskazany stwór do końca tury dostaje +3/+3 oraz latanie."
 
 #: ../../HOU.rst:157
 msgid ""
@@ -773,8 +773,8 @@ msgid ""
 "Whenever Aerial Guide attacks, another target attacking creature gains "
 "flying until end of turn."
 msgstr ""
-"Ilekroć ten stwór zaatakuje, inny wskazany atakujący stwór zyskuje do końca "
-"tury latanie."
+"Ilekroć ten stwór zaatakuje, inny wskazany atakujący stwór do końca tury "
+"zyskuje latanie."
 
 #: ../../HOU.rst:176
 msgid ""
@@ -972,7 +972,7 @@ msgid ""
 "gets -2/-0 until end of turn."
 msgstr ""
 "Ilekroć zrecyklujesz lub odrzucisz kartę, wskazany stwór pod władaniem "
-"przeciwnika dostaje do końca tury -2/-0."
+"przeciwnika do końca tury dostaje -2/-0."
 
 #: ../../HOU.rst:242
 msgid ""
@@ -1037,7 +1037,7 @@ msgstr ""
 
 #: ../../HOU.rst:255
 msgid "|mana_u|: Sinuous Striker gets +1/-1 until end of turn."
-msgstr "|mana_u|: Ten stwór dostaje do końca tury +1/-1."
+msgstr "|mana_u|: Ten stwór do końca tury dostaje +1/-1."
 
 #: ../../HOU.rst:257
 msgid ""
@@ -1063,8 +1063,8 @@ msgid ""
 "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 "
 "until end of turn.)"
 msgstr ""
-"Waleczność (Ilekroć rzucisz nie-stworowy czar, ten stwór dostaje do końca "
-"tury +1/+1.)"
+"Waleczność (Ilekroć rzucisz nie-stworowy czar, ten stwór do końca tury "
+"dostaje +1/+1.)"
 
 #: ../../HOU.rst:268
 msgid ""
@@ -1404,7 +1404,7 @@ msgid ""
 "Whenever you cycle or discard a card, Grisly Survivor gets +2/+0 until end "
 "of turn."
 msgstr ""
-"Ilekroć zrecyklujesz lub odrzucisz kartę, ten stwór dostaje do końca tury +2/"
+"Ilekroć zrecyklujesz lub odrzucisz kartę, ten stwór do końca tury dostaje +2/"
 "+0."
 
 #: ../../HOU.rst:374
@@ -1505,7 +1505,7 @@ msgid ""
 "|mana_2|\\ |mana_b|, Discard a card: Merciless Eternal gets +2/+2 until end "
 "of turn."
 msgstr ""
-"|mana_2|\\ |mana_b|, odrzuć kartę: Ten stwór dostaje do końca tury +2/+2."
+"|mana_2|\\ |mana_b|, odrzuć kartę: Ten stwór do końca tury dostaje +2/+2."
 
 #: ../../HOU.rst:408
 msgid ""
@@ -1719,7 +1719,7 @@ msgid ""
 "|mana_1|\\ |mana_r|, Discard a card: Burning-Fist Minotaur gets +2/+0 until "
 "end of turn."
 msgstr ""
-"|mana_1|\\ |mana_r|, odrzuć kartę: Ten stwór dostaje do końca tury +2/+0."
+"|mana_1|\\ |mana_r|, odrzuć kartę: Ten stwór do końca tury dostaje +2/+0."
 
 #: ../../HOU.rst:482
 msgid ""
@@ -1857,7 +1857,7 @@ msgstr ""
 
 #: ../../HOU.rst:519
 msgid "|mana_1|\\ |mana_r|: Frontline Devastator gets +1/+0 until end of turn."
-msgstr "|mana_1|\\ |mana_r|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_1|\\ |mana_r|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../HOU.rst:524
 msgid ""
@@ -1972,7 +1972,7 @@ msgstr ""
 
 #: ../../HOU.rst:559
 msgid "Target creature gets +1/+0 and gains first strike until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +1/+0 i pierwszy cios."
+msgstr "Wskazany stwór do końca tury dostaje +1/+0 i pierwszy cios."
 
 #: ../../HOU.rst:566
 msgid ""
@@ -2106,7 +2106,7 @@ msgid ""
 "Target creature you control gets +1/+0 until end of turn. It deals damage "
 "equal to its power to target creature an opponent controls."
 msgstr ""
-"Wskazany stwór pod twoim władaniem dostaje do końca tury +1/+0 i zadaje "
+"Wskazany stwór pod twoim władaniem do końca tury dostaje +1/+0 i zadaje "
 "obrażenia równe swojej sile wskazanemu stworowi pod władaniem przeciwnika."
 
 #: ../../HOU.rst:612
@@ -2144,7 +2144,7 @@ msgstr ""
 
 #: ../../HOU.rst:619
 msgid "|mana_4|\\ |mana_g|: Target creature gets +2/+2 until end of turn."
-msgstr "|mana_4|\\ |mana_g|: Wskazany stwór dostaje do końca tury +2/+2."
+msgstr "|mana_4|\\ |mana_g|: Wskazany stwór do końca tury dostaje +2/+2."
 
 #: ../../HOU.rst:624
 msgid ""
@@ -2182,7 +2182,7 @@ msgid ""
 "|mana_1|\\ |mana_g|: Frilled Sandwalla gets +2/+2 until end of turn. "
 "Activate only once each turn."
 msgstr ""
-"|mana_1|\\ |mana_g|: Ten stwór dostaje do końca tury +2/+2. Możesz aktywować "
+"|mana_1|\\ |mana_g|: Ten stwór do końca tury dostaje +2/+2. Możesz aktywować "
 "tylko raz na turę."
 
 #: ../../HOU.rst:636
@@ -2194,7 +2194,7 @@ msgstr ""
 
 #: ../../HOU.rst:635
 msgid "Target creature gets +3/+3 and gains reach until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +3/+3 oraz zasięg."
+msgstr "Wskazany stwór do końca tury dostaje +3/+3 oraz zasięg."
 
 #: ../../HOU.rst:638
 msgid ""
@@ -2849,7 +2849,7 @@ msgstr ""
 
 #: ../../HOU.rst:841
 msgid "Target creature gets +2/+0 and gains haste until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +2/+0 oraz pośpiech."
+msgstr "Wskazany stwór do końca tury dostaje +2/+0 oraz pośpiech."
 
 #: ../../HOU.rst:846
 msgid ""
@@ -3404,8 +3404,8 @@ msgid ""
 "|mana_1|\\ |mana_g|\\ |mana_g|, |tap|, Sacrifice a Desert: Target creature "
 "gets +3/+3 until end of turn. Activate only as a sorcery."
 msgstr ""
-"|mana_1|\\ |mana_g|\\ |mana_g|, |tap|, poświęć Pustynię: Wskazany stwór "
-"dostaje do końca tury +3/+3. Aktywuj tylko jako obrzęd."
+"|mana_1|\\ |mana_g|\\ |mana_g|, |tap|, poświęć Pustynię: Wskazany stwór do "
+"końca tury dostaje +3/+3. Aktywuj tylko jako obrzęd."
 
 #: ../../HOU.rst:1046
 msgid ""
@@ -3592,7 +3592,7 @@ msgstr ""
 
 #: ../../HOU.rst:1115
 msgid "−3: Target creature gets +5/+5 until end of turn."
-msgstr "–3: Wskazany stwór dostaje do końca tury +5/+5."
+msgstr "–3: Wskazany stwór do końca tury dostaje +5/+5."
 
 #: ../../HOU.rst:1117
 msgid ""

@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.11\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-14 18:07+0200\n"
-"PO-Revision-Date: 2022-05-29 17:33+0000\n"
+"PO-Revision-Date: 2022-08-26 21:05+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/voc/pl/>\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.12.1\n"
+"X-Generator: Weblate 4.13.1\n"
 
 #: ../../symbols.rst:3
 msgid "{C}"
@@ -340,7 +340,7 @@ msgid ""
 "Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for "
 "each opponent you attacked this combat.)"
 msgstr ""
-"Bijatyka (Ilekroć ten stwór atakuje, dostaje do końca tury +1/+1 za każdego "
+"Bijatyka (Ilekroć ten stwór atakuje, do końca tury dostaje +1/+1 za każdego "
 "przeciwnika zaatakowanego przez ciebie w tej potyczce.)"
 
 #: ../../VOC.rst:37
@@ -1925,7 +1925,7 @@ msgstr "Ilekroć przekręcisz Bagno pobierając manę, weź dodatkowo |mana_b|."
 
 #: ../../VOC.rst:569
 msgid "|mana_b|: Nirkana Revenant gets +1/+1 until end of turn."
-msgstr "|mana_b|: Ten stwór dostaje do końca tury +1/+1."
+msgstr "|mana_b|: Ten stwór do końca tury dostaje +1/+1."
 
 #: ../../VOC.rst:578
 msgid ""

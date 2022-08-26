@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-29 18:35+0200\n"
-"PO-Revision-Date: 2022-05-29 17:33+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/m19/pl/>\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.12.1\n"
+"X-Generator: Weblate 4.13.1\n"
 
 #: ../../symbols.rst:3
 msgid "{C}"
@@ -244,7 +244,7 @@ msgstr ""
 
 #: ../../M19.rst:9
 msgid "Target creature gets +1/+7 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +1/+7."
+msgstr "Wskazany stwór do końca tury dostaje +1/+7."
 
 #: ../../M19.rst:14
 msgid ""
@@ -260,7 +260,7 @@ msgid ""
 "effects that say \"destroy\" don't destroy it.)"
 msgstr ""
 "Na początku potyczki w twojej turze, wskazany artefaktowy stwór pod twoim "
-"władaniem dostaje do końca tury +2/+2 i niezniszczalność. (Obrażenia i "
+"władaniem do końca tury dostaje +2/+2 i niezniszczalność. (Obrażenia i "
 "efekty mówiące \"zniszcz\" nie niszczą go.)"
 
 #: ../../M19.rst:22
@@ -382,7 +382,7 @@ msgid ""
 "and gains first strike until end of turn. (It deals combat damage before "
 "creatures without first strike.)"
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór dostaje do końca tury +2/"
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór do końca tury dostaje +2/"
 "+0 oraz pierwszy cios. (Zadaje obrażenia bojowe przed stworami bez "
 "pierwszego ciosu.)"
 
@@ -594,7 +594,7 @@ msgid ""
 "creatures, Leonin Vanguard gets +1/+1 until end of turn and you gain 1 life."
 msgstr ""
 "Na początku potyczki w twojej turze, jeśli władasz co najmniej trzema "
-"stworami, ten stwór dostaje do końca tury +1/+1, a ty zyskaj 1 życie."
+"stworami, ten stwór do końca tury dostaje +1/+1, a ty zyskaj 1 życie."
 
 #: ../../M19.rst:122
 msgid ""
@@ -668,7 +668,7 @@ msgstr ""
 
 #: ../../M19.rst:143
 msgid "Target creature gets +2/+2 and gains flying until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +2/+2 oraz latanie."
+msgstr "Wskazany stwór do końca tury dostaje +2/+2 oraz latanie."
 
 #: ../../M19.rst:150
 msgid ""
@@ -727,8 +727,8 @@ msgid ""
 "Whenever Pegasus Courser attacks, another target attacking creature gains "
 "flying until end of turn."
 msgstr ""
-"Ilekroć ten stwór zaatakuje, inny wskazany atakujący stwór zyskuje do końca "
-"tury latanie."
+"Ilekroć ten stwór zaatakuje, inny wskazany atakujący stwór do końca tury "
+"zyskuje latanie."
 
 #: ../../M19.rst:172
 msgid ""
@@ -931,8 +931,8 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, Aven Wind Mage gets +1/+1 "
 "until end of turn."
 msgstr ""
-"Ilekroć rzucisz czar sztuczki lub obrzędu, ten stwór dostaje do końca tury "
-"+1/+1."
+"Ilekroć rzucisz czar sztuczki lub obrzędu, ten stwór do końca tury dostaje +"
+"1/+1."
 
 #: ../../M19.rst:242
 msgid ""
@@ -1394,7 +1394,7 @@ msgstr ""
 
 #: ../../M19.rst:393
 msgid "|mana_1|\\ |mana_u|: Surge Mare gets +2/-2 until end of turn."
-msgstr "|mana_1|\\ |mana_u|: Ten stwór dostaje do końca tury +2/-2."
+msgstr "|mana_1|\\ |mana_u|: Ten stwór do końca tury dostaje +2/-2."
 
 #: ../../M19.rst:398
 msgid ""
@@ -2036,7 +2036,7 @@ msgstr ""
 
 #: ../../M19.rst:611
 msgid "Target creature gets -3/-3 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -3/-3."
+msgstr "Wskazany stwór do końca tury dostaje -3/-3."
 
 #: ../../M19.rst:616
 msgid ""
@@ -2277,7 +2277,7 @@ msgid ""
 "\"|mana_r|: This creature gets +1/+0 until end of turn.\""
 msgstr ""
 "Kiedy ten stwór umrze, stwórz żeton czerwonego stwora Smok 2/2 z lataniem "
-"mającego \"|mana_r|: Ten stwór dostaje do końca tury +1/+0.\""
+"mającego \"|mana_r|: Ten stwór do końca tury dostaje +1/+0.\""
 
 #: ../../M19.rst:696
 msgid ""
@@ -2607,7 +2607,7 @@ msgstr ""
 
 #: ../../M19.rst:807
 msgid "Target creature gets +3/+0 and gains first strike until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +3/+0 oraz pierwszy cios."
+msgstr "Wskazany stwór do końca tury dostaje +3/+0 oraz pierwszy cios."
 
 #: ../../M19.rst:812
 msgid ""
@@ -2938,7 +2938,7 @@ msgid ""
 "with power 4 or greater gets +1/+1 and gains trample until end of turn."
 msgstr ""
 "Ilekroć ten stwór zaatakuje, każdy stwór pod twoim władaniem mający siłę 4 "
-"lub większą dostaje do końca tury +1/+1 oraz tratowanie."
+"lub większą do końca tury dostaje +1/+1 oraz tratowanie."
 
 #: ../../M19.rst:928
 msgid ""
@@ -3177,7 +3177,7 @@ msgstr ""
 
 #: ../../M19.rst:1009
 msgid "|mana_5|\\ |mana_g|: Thorn Lieutenant gets +4/+4 until end of turn."
-msgstr "|mana_5|\\ |mana_g|: Ten stwór dostaje do końca tury +4/+4."
+msgstr "|mana_5|\\ |mana_g|: Ten stwór do końca tury dostaje +4/+4."
 
 #: ../../M19.rst:1012
 msgid ""
@@ -3195,7 +3195,7 @@ msgstr ""
 
 #: ../../M19.rst:1017
 msgid "Target creature gets +4/+4 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +4/+4."
+msgstr "Wskazany stwór do końca tury dostaje +4/+4."
 
 #: ../../M19.rst:1022
 msgid ""
@@ -3334,7 +3334,7 @@ msgid ""
 "do, Brawl-Bash Ogre gets +2/+2 until end of turn."
 msgstr ""
 "Ilekroć ten stwór zaatakuje, możesz poświęcić innego stwora. Jeśli tak "
-"zrobisz, ten stwór dostaje do końca tury +2/+2."
+"zrobisz, ten stwór do końca tury dostaje +2/+2."
 
 #: ../../M19.rst:1074
 msgid ""
@@ -3544,7 +3544,7 @@ msgid ""
 msgstr ""
 "Na początku potyczki w twojej turze możesz zapłacić |mana_g|\\ |mana_u|. "
 "Kiedy to zrobisz, umieść znacznik +1/+1 na innym wskazanym stworze pod twoim "
-"władaniem i ów stwór zyskuje do końca tury latanie."
+"władaniem i ów stwór do końca tury zyskuje latanie."
 
 #: ../../M19.rst:1150
 msgid ""
@@ -4498,7 +4498,7 @@ msgstr ""
 
 #: ../../M19.rst:1485
 msgid "|mana_r|: Shivan Dragon gets +1/+0 until end of turn."
-msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_r|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../M19.rst:1494
 msgid ""
@@ -4625,7 +4625,7 @@ msgstr ""
 
 #: ../../M19.rst:1531
 msgid "Target creature gets -4/-0 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -4/-0."
+msgstr "Wskazany stwór do końca tury dostaje -4/-0."
 
 #: ../../M19.rst:1538
 msgid ""

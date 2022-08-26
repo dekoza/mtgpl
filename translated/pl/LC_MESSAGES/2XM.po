@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-25 14:27+0200\n"
-"PO-Revision-Date: 2022-06-25 15:11+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/2xm/pl/>\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.12.1\n"
+"X-Generator: Weblate 4.13.1\n"
 
 #: ../../symbols.rst:3
 msgid "{C}"
@@ -272,8 +272,8 @@ msgid ""
 "turn. (Damage dealt by the creature also causes its controller to gain that "
 "much life.)"
 msgstr ""
-"|mana_1|\\ |mana_w|: Wskazany stwór pod twoim władaniem zyskuje do końca "
-"tury więź życia. (Obrażenia zadane przez owego stwora powodują, że jego "
+"|mana_1|\\ |mana_w|: Wskazany stwór pod twoim władaniem do końca tury "
+"zyskuje więź życia. (Obrażenia zadane przez owego stwora powodują, że jego "
 "władca zyskuje tyle samo żyć.)"
 
 #: ../../2XM.rst:26
@@ -820,7 +820,7 @@ msgid ""
 "Target creature gets +2/+2 until end of turn. If you control an Equipment, "
 "create a 1/1 white Human Soldier creature token."
 msgstr ""
-"Wskazany stwór dostaje do końca tury +2/+2. Jeśli władasz Wyposażeniem, "
+"Wskazany stwór do końca tury dostaje +2/+2. Jeśli władasz Wyposażeniem, "
 "stwórz żeton białego stwora Człowiek Piechur 1/1."
 
 #: ../../2XM.rst:192
@@ -892,7 +892,7 @@ msgid ""
 "Target creature gains indestructible until end of turn. (Damage and effects "
 "that say \"destroy\" don't destroy it.)"
 msgstr ""
-"Wskazany stwór zyskuje do końca tury niezniszczalność. (Obrażenia i efekty "
+"Wskazany stwór do końca tury zyskuje niezniszczalność. (Obrażenia i efekty "
 "mówiące \"zniszcz\" nie niszczą go.)"
 
 #: ../../2XM.rst:213
@@ -1845,7 +1845,7 @@ msgid ""
 "Fiend gets +2/+2 until end of turn."
 msgstr ""
 "Ilekroć inny artefakt wejdzie na pole bitwy pod twoim władaniem, ten stwór "
-"dostaje do końca tury +2/+2."
+"do końca tury dostaje +2/+2."
 
 #: ../../2XM.rst:506
 msgid ""
@@ -1913,7 +1913,7 @@ msgid ""
 "this turn, target creature gets -4/-4 until end of turn."
 msgstr ""
 "Okropność — Kiedy ten byt wejdzie na pole bitwy, jeśli w tej turze umarł "
-"stwór, wskazany stwór dostaje do końca tury -4/-4."
+"stwór, wskazany stwór do końca tury dostaje -4/-4."
 
 #: ../../2XM.rst:522
 msgid ""
@@ -2061,7 +2061,7 @@ msgstr ""
 
 #: ../../2XM.rst:561
 msgid "|mana_b|: Skithiryx, the Blight Dragon gains haste until end of turn."
-msgstr "|mana_b|: Ten stwór zyskuje do końca tury pośpiech."
+msgstr "|mana_b|: Ten stwór do końca tury zyskuje pośpiech."
 
 #: ../../2XM.rst:563
 msgid "|mana_b|\\ |mana_b|: Regenerate Skithiryx."
@@ -2185,7 +2185,7 @@ msgstr ""
 
 #: ../../2XM.rst:605
 msgid "Target attacking creature gets +X/+0 until end of turn."
-msgstr "Wskazany atakujący stwór dostaje do końca tury +X/+0."
+msgstr "Wskazany atakujący stwór do końca tury dostaje +X/+0."
 
 #: ../../2XM.rst:607
 msgid "Draw a card at the beginning of the next turn's upkeep."
@@ -2556,8 +2556,8 @@ msgid ""
 "Bloodrush — |mana_1|\\ |mana_r|, Discard Pyrewild Shaman: Target attacking "
 "creature gets +3/+1 until end of turn."
 msgstr ""
-"Zew krwi — |mana_1|\\ |mana_r|, odrzuć tę kartę: Wskazany atakujący stwór "
-"dostaje do końca tury +3/+1."
+"Zew krwi — |mana_1|\\ |mana_r|, odrzuć tę kartę: Wskazany atakujący stwór do "
+"końca tury dostaje +3/+1."
 
 #: ../../2XM.rst:719
 msgid ""
@@ -2635,8 +2635,8 @@ msgid ""
 "Whenever an artifact enters the battlefield under your control, Salivating "
 "Gremlins gets +2/+0 and gains trample until end of turn."
 msgstr ""
-"Ilekroć artefakt wejdzie na pole bitwy pod twoim władaniem, ten stwór "
-"dostaje do końca tury +2/+0 oraz tratowanie."
+"Ilekroć artefakt wejdzie na pole bitwy pod twoim władaniem, ten stwór do "
+"końca tury dostaje +2/+0 oraz tratowanie."
 
 #: ../../2XM.rst:746
 msgid ""
@@ -2650,8 +2650,8 @@ msgid ""
 "Bloodrush — |mana_r|, Discard Skinbrand Goblin: Target attacking creature "
 "gets +2/+1 until end of turn."
 msgstr ""
-"Zew krwi — |mana_r|, odrzuć tę kartę: Wskazany atakujący stwór dostaje do "
-"końca tury +2/+1."
+"Zew krwi — |mana_r|, odrzuć tę kartę: Wskazany atakujący stwór do końca tury "
+"dostaje +2/+1."
 
 #: ../../2XM.rst:750
 msgid ""
@@ -2678,14 +2678,14 @@ msgstr ""
 
 #: ../../2XM.rst:753
 msgid "Target creature gains double strike until end of turn."
-msgstr "Wskazany stwór zyskuje do końca tury podwójny cios."
+msgstr "Wskazany stwór do końca tury zyskuje podwójny cios."
 
 #: ../../2XM.rst:755
 msgid ""
 "Ferocious — That creature also gains trample until end of turn if you "
 "control a creature with power 4 or greater."
 msgstr ""
-"Zaciekłość — Ów stwór zyskuje do końca tury także tratowanie jeśli władasz "
+"Zaciekłość — Ów stwór do końca tury zyskuje także tratowanie jeśli władasz "
 "stworem o sile 4 lub większej."
 
 #: ../../2XM.rst:762
@@ -2745,7 +2745,7 @@ msgid ""
 "Target creature you control gets +1/+0 and gains first strike until end of "
 "turn."
 msgstr ""
-"Wskazany stwór pod twoim władaniem dostaje do końca tury +1/+0 oraz pierwszy "
+"Wskazany stwór pod twoim władaniem do końca tury dostaje +1/+0 oraz pierwszy "
 "cios."
 
 #: ../../2XM.rst:779
@@ -2930,7 +2930,7 @@ msgid ""
 "Target creature you control gets +1/+1 until end of turn. It deals damage "
 "equal to its power to target creature you don't control."
 msgstr ""
-"Wskazany stwór pod twoim władaniem dostaje do końca tury +1/+1. Zadaje on "
+"Wskazany stwór pod twoim władaniem do końca tury dostaje +1/+1. Zadaje on "
 "wskazanemu stworowi poza twoim władaniem obrażenia równe swojej sile."
 
 #: ../../2XM.rst:830
@@ -2987,12 +2987,12 @@ msgstr ""
 
 #: ../../2XM.rst:847
 msgid "|mana_1|\\ |mana_g|: Death-Hood Cobra gains reach until end of turn."
-msgstr "|mana_1|\\ |mana_g|: Ten stwór zyskuje do końca tury zasięg."
+msgstr "|mana_1|\\ |mana_g|: Ten stwór do końca tury zyskuje zasięg."
 
 #: ../../2XM.rst:849
 msgid ""
 "|mana_1|\\ |mana_g|: Death-Hood Cobra gains deathtouch until end of turn."
-msgstr "|mana_1|\\ |mana_g|: Ten stwór zyskuje do końca tury dotyk śmierci."
+msgstr "|mana_1|\\ |mana_g|: Ten stwór do końca tury zyskuje dotyk śmierci."
 
 #: ../../2XM.rst:856
 msgid ""
@@ -3049,7 +3049,7 @@ msgid ""
 "blocked this turn if able. (A creature with trample can deal excess combat "
 "damage to the player or planeswalker it's attacking.)"
 msgstr ""
-"Wskazany stwór dostaje do końca tury +7/+7 oraz tratowanie. Musi być "
+"Wskazany stwór do końca tury dostaje +7/+7 oraz tratowanie. Musi być "
 "blokowany w tej turze, jeśli to możliwe. (Stwór z tratowaniem może zadać "
 "nadwyżkę obrażeń bojowych atakowanemu graczowi lub wędrowcowi.)"
 
@@ -3139,7 +3139,7 @@ msgstr ""
 
 #: ../../2XM.rst:891
 msgid "Target creature gets +4/+4 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +4/+4."
+msgstr "Wskazany stwór do końca tury dostaje +4/+4."
 
 #: ../../2XM.rst:896
 msgid ""
@@ -3282,7 +3282,7 @@ msgstr ""
 
 #: ../../2XM.rst:935
 msgid "Target creature gets +2/+2 and gains trample until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +2/+2 i tratowanie."
+msgstr "Wskazany stwór do końca tury dostaje +2/+2 i tratowanie."
 
 #: ../../2XM.rst:937
 msgid ""
@@ -3504,7 +3504,7 @@ msgstr "Ten stwór zadaje wskazanemu graczowi lub wędrowcowi 3 obrażenia."
 
 #: ../../2XM.rst:1005
 msgid "Target creature gets -4/-4 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -4/-4."
+msgstr "Wskazany stwór do końca tury dostaje -4/-4."
 
 #: ../../2XM.rst:1007
 msgid "You gain 5 life."
@@ -3565,7 +3565,7 @@ msgid ""
 "of turn. If the sacrificed creature was a Human, put a +1/+1 counter on "
 "Falkenrath Aristocrat."
 msgstr ""
-"Poświęć stwora: Ten stwór zyskuje do końca tury niezniszczalność. Jeśli "
+"Poświęć stwora: Ten stwór do końca tury zyskuje niezniszczalność. Jeśli "
 "poświęcony stwór był Człowiekiem, umieść znacznik +1/+1 na niniejszym "
 "stworze."
 
@@ -3616,8 +3616,8 @@ msgid ""
 "Bloodrush — |mana_r|\\ |mana_g|, Discard Ghor-Clan Rampager: Target "
 "attacking creature gets +4/+4 and gains trample until end of turn."
 msgstr ""
-"Zew krwi — |mana_r|\\ |mana_g|, odrzuć tę kartę: Wskazany atakujący stwór "
-"dostaje do końca tury +4/+4 i tratowanie."
+"Zew krwi — |mana_r|\\ |mana_g|, odrzuć tę kartę: Wskazany atakujący stwór do "
+"końca tury dostaje +4/+4 i tratowanie."
 
 #: ../../2XM.rst:1046
 msgid ""
@@ -4121,8 +4121,8 @@ msgid ""
 "Remove all +1/+1 counters from Vish Kal: Target creature gets -1/-1 until "
 "end of turn for each +1/+1 counter removed this way."
 msgstr ""
-"Usuń wszystkie znaczniki +1/+1 z tego stwora: Wskazany stwór dostaje do "
-"końca tury -1/-1 za każdy znacznik +1/+1 usunięty w ten sposób."
+"Usuń wszystkie znaczniki +1/+1 z tego stwora: Wskazany stwór do końca tury "
+"dostaje -1/-1 za każdy znacznik +1/+1 usunięty w ten sposób."
 
 #: ../../2XM.rst:1210
 msgid ""
@@ -4667,14 +4667,14 @@ msgstr ""
 
 #: ../../2XM.rst:1389
 msgid "|mana_2|: Target artifact creature gets +1/+1 until end of turn."
-msgstr "|mana_2|: Wskazany artefaktowy stwór dostaje do końca tury +1/+1."
+msgstr "|mana_2|: Wskazany artefaktowy stwór do końca tury dostaje +1/+1."
 
 #: ../../2XM.rst:1391
 msgid ""
 "|mana_2|: Target artifact creature gains your choice of flying, trample, or "
 "haste until end of turn."
 msgstr ""
-"|mana_2|: Wskazany artefaktowy stwór zyskuje do końca tury zdolność wybraną "
+"|mana_2|: Wskazany artefaktowy stwór do końca tury zyskuje zdolność wybraną "
 "przez cienie spośród latania, tratowania i pośpiechu."
 
 #: ../../2XM.rst:1398
@@ -5000,7 +5000,7 @@ msgid ""
 "to the player or planeswalker it's attacking."
 msgstr ""
 "Ilekroć ten stwór atakuje, możesz przekręcić X odkręconych Myrów pod twoim "
-"władaniem. Jeśli tak zrobisz, ten stwór dostaje do końca tury +X/+0 i zadaje "
+"władaniem. Jeśli tak zrobisz, ten stwór do końca tury dostaje +X/+0 i zadaje "
 "atakowanemu graczowi lub wędrowcowi X obrażeń."
 
 #: ../../2XM.rst:1494
@@ -5628,7 +5628,7 @@ msgstr ""
 msgid ""
 "|mana_1|, |tap|: Target Blinkmoth creature gets +1/+1 until end of turn."
 msgstr ""
-"|mana_1|, |tap|: Wskazany stwór typu Świetlik dostaje do końca tury +1/+1."
+"|mana_1|, |tap|: Wskazany stwór typu Świetlik do końca tury dostaje +1/+1."
 
 #: ../../2XM.rst:1712
 msgid ""
@@ -5818,7 +5818,7 @@ msgstr ""
 
 #: ../../2XM.rst:1779
 msgid "|tap|: Target Assembly-Worker creature gets +1/+1 until end of turn."
-msgstr "|tap|: Wskazany Składacz dostaje do końca tury +1/+1."
+msgstr "|tap|: Wskazany Składacz do końca tury dostaje +1/+1."
 
 #: ../../2XM.rst:1786
 msgid ""

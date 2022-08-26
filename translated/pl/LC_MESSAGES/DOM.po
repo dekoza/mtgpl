@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-22 09:12+0200\n"
-"PO-Revision-Date: 2022-04-17 16:51+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dom/pl/>\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.10.1\n"
+"X-Generator: Weblate 4.13.1\n"
 
 #: ../../symbols.rst:3
 msgid "{C}"
@@ -278,7 +278,7 @@ msgid ""
 "Target creature gets +2/+2 and gains indestructible until end of turn. "
 "(Damage and effects that say \"destroy\" don't destroy it.)"
 msgstr ""
-"Wskazany stwór dostaje do końca tury +2/+2 i niezniszczalność. (Obrażenia i "
+"Wskazany stwór do końca tury dostaje +2/+2 i niezniszczalność. (Obrażenia i "
 "efekty mówiące \"zniszcz\" nie niszczą go.)"
 
 #: ../../DOM.rst:22
@@ -708,8 +708,8 @@ msgid ""
 "Whenever Pegasus Courser attacks, another target attacking creature gains "
 "flying until end of turn."
 msgstr ""
-"Ilekroć ten stwór zaatakuje, inny wskazany atakujący stwór zyskuje do końca "
-"tury latanie."
+"Ilekroć ten stwór zaatakuje, inny wskazany atakujący stwór do końca tury "
+"zyskuje latanie."
 
 #: ../../DOM.rst:166
 msgid ""
@@ -796,8 +796,8 @@ msgid ""
 "Whenever you cast a historic spell, Serra Disciple gets +1/+1 until end of "
 "turn. (Artifacts, legendaries, and Sagas are historic.)"
 msgstr ""
-"Ilekroć rzucisz historyczny czar, ten stwór dostaje do końca tury +1/+1. "
-"(Artefakty, legendy i Sagi są historyczne.)"
+"Ilekroć rzucisz historyczny czar, ten stwór do końca tury dostaje +1/+1. ("
+"Artefakty, legendy i Sagi są historyczne.)"
 
 #: ../../DOM.rst:196
 msgid ""
@@ -875,8 +875,8 @@ msgid ""
 "III — Target creature you control with the greatest power gains flying, "
 "first strike, and lifelink until end of turn."
 msgstr ""
-"III — Wskazany stwór pod twoim władaniem o największej sile zyskuje do końca "
-"tury latanie, pierwszy cios oraz więź życia."
+"III — Wskazany stwór pod twoim władaniem o największej sile do końca tury "
+"zyskuje latanie, pierwszy cios oraz więź życia."
 
 #: ../../DOM.rst:220
 msgid ""
@@ -1002,7 +1002,7 @@ msgstr ""
 
 #: ../../DOM.rst:257
 msgid "Target creature gets -4/-0 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -4/-0."
+msgstr "Wskazany stwór do końca tury dostaje -4/-0."
 
 #: ../../DOM.rst:259 ../../DOM.rst:349 ../../DOM.rst:853 ../../DOM.rst:903
 msgid "Draw a card."
@@ -1502,7 +1502,7 @@ msgid ""
 "Target creature gets +2/+1 until end of turn. If it's legendary, it also "
 "gains lifelink until end of turn."
 msgstr ""
-"Wskazany stwór dostaje do końca tury +2/+1. Jeśli jest legendarny, zyskuje "
+"Wskazany stwór do końca tury dostaje +2/+1. Jeśli jest legendarny, zyskuje "
 "on także więź życia do końca tury."
 
 #: ../../DOM.rst:438
@@ -1676,7 +1676,7 @@ msgstr ""
 
 #: ../../DOM.rst:491
 msgid "|mana_b|: Dread Shade gets +1/+1 until end of turn."
-msgstr "|mana_b|: Ten stwór dostaje do końca tury +1/+1."
+msgstr "|mana_b|: Ten stwór do końca tury dostaje +1/+1."
 
 #: ../../DOM.rst:496
 msgid ""
@@ -1769,7 +1769,7 @@ msgid ""
 "Target creature gets -1/-1 until end of turn. Create a 1/1 green Saproling "
 "creature token."
 msgstr ""
-"Wskazany stwór dostaje do końca tury -1/-1. Stwórz żeton zielonego stwora "
+"Wskazany stwór do końca tury dostaje -1/-1. Stwórz żeton zielonego stwora "
 "Sadzonka 1/1."
 
 #: ../../DOM.rst:530
@@ -2091,7 +2091,7 @@ msgid ""
 "Target creature gets -2/-2 until end of turn. If this spell was kicked, that "
 "creature gets -5/-5 until end of turn instead."
 msgstr ""
-"Wskazany stwór dostaje do końca tury -2/-2. Jeśli ten czar został podbity, "
+"Wskazany stwór do końca tury dostaje -2/-2. Jeśli ten czar został podbity, "
 "zamiast tego ów stwór dostaje -5/-5 do końca tury."
 
 #: ../../DOM.rst:632
@@ -2163,8 +2163,8 @@ msgid ""
 "+1/+1 and gains menace until end of turn. (It can't be blocked except by two "
 "or more creatures.)"
 msgstr ""
-"Ilekroć rzucisz czar, jeśli ów czar został podbity, ten stwór dostaje do "
-"końca tury +1/+1 oraz złowrogość. (Nie może być blokowany, chyba że przez co "
+"Ilekroć rzucisz czar, jeśli ów czar został podbity, ten stwór do końca tury "
+"dostaje +1/+1 oraz złowrogość. (Nie może być blokowany, chyba że przez co "
 "najmniej dwa stwory.)"
 
 #: ../../DOM.rst:658
@@ -2195,7 +2195,7 @@ msgstr ""
 msgid ""
 "Target creature gets +1/+0 and gains first strike and haste until end of "
 "turn."
-msgstr "Wskazany stwór dostaje do końca tury +1/+0, pierwszy cios i pośpiech."
+msgstr "Wskazany stwór do końca tury dostaje +1/+0, pierwszy cios i pośpiech."
 
 #: ../../DOM.rst:670
 msgid ""
@@ -2603,7 +2603,7 @@ msgstr ""
 #: ../../DOM.rst:793
 msgid ""
 "Target attacking creature gets +3/+3 and gains trample until end of turn."
-msgstr "Wskazany atakujący stwór dostaje do końca tury +3/+3 oraz tratowanie."
+msgstr "Wskazany atakujący stwór do końca tury dostaje +3/+3 oraz tratowanie."
 
 #: ../../DOM.rst:798
 msgid ""
@@ -2986,7 +2986,7 @@ msgid ""
 "kicked, that creature gets +4/+4 until end of turn instead."
 msgstr ""
 "Odkręć wskazanego stwora. Dostaje on do końca tury +2/+2. Jeśli ten czar "
-"został podbity, zamiast tego ów stwór dostaje do końca tury +4/+4."
+"został podbity, zamiast tego ów stwór do końca tury dostaje +4/+4."
 
 #: ../../DOM.rst:922
 msgid ""
@@ -3827,7 +3827,7 @@ msgid ""
 "|mana_6|, |tap|, Sacrifice Bloodtallow Candle: Target creature gets -5/-5 "
 "until end of turn."
 msgstr ""
-"|mana_6|, |tap|, poświęć ten artefakt: Wskazany stwór dostaje do końca tury "
+"|mana_6|, |tap|, poświęć ten artefakt: Wskazany stwór do końca tury dostaje "
 "-5/-5."
 
 #: ../../DOM.rst:1204

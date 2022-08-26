@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-06-21 00:16+0200\n"
-"PO-Revision-Date: 2022-06-25 15:11+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c16/pl/>\n"
 "Language: pl\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.12.1\n"
+"X-Generator: Weblate 4.13.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../symbols.rst:3
@@ -788,7 +788,7 @@ msgstr "Ten stwór zadaje wskazanemu graczowi lub wędrowcowi 3 obrażenia."
 
 #: ../../C16.rst:169
 msgid "Target creature gets -4/-4 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -4/-4."
+msgstr "Wskazany stwór do końca tury dostaje -4/-4."
 
 #: ../../C16.rst:171
 msgid "You gain 5 life."
@@ -809,7 +809,7 @@ msgid ""
 "turn."
 msgstr ""
 "Ilekroć ten stwór wejdzie na pole bitwy lub zaatakuje, wskazany stwór pod "
-"twoim władaniem zyskuje do końca tury podwójny cios i więź życia."
+"twoim władaniem do końca tury zyskuje podwójny cios i więź życia."
 
 #: ../../C16.rst:184
 msgid ""
@@ -1012,7 +1012,7 @@ msgid ""
 "blocking creature gets -1/-1 until end of turn.)"
 msgstr ""
 "Flankowanie (Ilekroć stwór bez flankowania blokuje tego stwora, blokujący "
-"stwór dostaje do końca tury -1/-1.)"
+"stwór do końca tury dostaje -1/-1.)"
 
 #: ../../C16.rst:261
 msgid ""
@@ -1952,7 +1952,7 @@ msgid ""
 "until end of turn. Those creatures gain haste until end of turn."
 msgstr ""
 "Odkręć wszystkie stwory pod twoim władaniem i wszystkie stwory pod władaniem "
-"wskazanego przeciwnika. Każdy z was zyskuje do końca tury władanie nad "
+"wskazanego przeciwnika. Każdy z was do końca tury zyskuje władanie nad "
 "wszystkimi stworami drugiego. Owe stwory zyskują do końca tury pośpiech."
 
 #: ../../C16.rst:568
@@ -2543,7 +2543,7 @@ msgid ""
 "|mana_1|\\ |mana_r|: Hellkite Igniter gets +X/+0 until end of turn, where X "
 "is the number of artifacts you control."
 msgstr ""
-"|mana_1|\\ |mana_r|: Ten stwór dostaje do końca tury +X/+0, gdzie X jest "
+"|mana_1|\\ |mana_r|: Ten stwór do końca tury dostaje +X/+0, gdzie X jest "
 "liczbą artefaktów pod twoim władaniem."
 
 #: ../../C16.rst:748
@@ -2660,7 +2660,7 @@ msgid ""
 "Sacrifice an artifact: Target artifact gains indestructible until end of "
 "turn."
 msgstr ""
-"Poświęć artefakt: Wskazany artefakt zyskuje do końca tury niezniszczalność."
+"Poświęć artefakt: Wskazany artefakt do końca tury zyskuje niezniszczalność."
 
 #: ../../C16.rst:778
 msgid ""
@@ -3406,8 +3406,8 @@ msgid ""
 "Whenever Wild Beastmaster attacks, each other creature you control gets +X/"
 "+X until end of turn, where X is Wild Beastmaster's power."
 msgstr ""
-"Ilekroć ten stwór zaatakuje, każdy inny stwór pod twoim władaniem dostaje do "
-"końca tury +X/+X, gdzie X to siła niniejszego stwora."
+"Ilekroć ten stwór zaatakuje, każdy inny stwór pod twoim władaniem do końca "
+"tury dostaje +X/+X, gdzie X to siła niniejszego stwora."
 
 #: ../../C16.rst:1000
 msgid ""
@@ -3557,7 +3557,7 @@ msgstr "Permanenty pod twoim władaniem zyskują do końca tury niezniszczalnoś
 
 #: ../../C16.rst:1049
 msgid "Target creature gains double strike until end of turn."
-msgstr "Wskazany stwór zyskuje do końca tury podwójny cios."
+msgstr "Wskazany stwór do końca tury zyskuje podwójny cios."
 
 #: ../../C16.rst:1054
 msgid ""
@@ -3832,7 +3832,7 @@ msgstr ""
 #: ../../C16.rst:1135
 msgid ""
 "|mana_1|, Discard a card: Glint-Eye Nephilim gets +1/+1 until end of turn."
-msgstr "|mana_1|, odrzuć kartę: Ten stwór dostaje do końca tury +1/+1."
+msgstr "|mana_1|, odrzuć kartę: Ten stwór do końca tury dostaje +1/+1."
 
 #: ../../C16.rst:1142
 msgid ""
@@ -3953,7 +3953,7 @@ msgid ""
 "intimidate until end of turn. (It can't be blocked except by artifact "
 "creatures and/or creatures that share a color with it.)"
 msgstr ""
-"|mana_1|\\ |mana_b|\\ |mana_g|: Wskazany stwór dostaje do końca tury +1/+1 "
+"|mana_1|\\ |mana_b|\\ |mana_g|: Wskazany stwór do końca tury dostaje +1/+1 "
 "oraz zastraszenie. (Nie może być blokowany, chyba że przez stwory "
 "artefaktowe i/lub współdzielące z nim kolor.)"
 
@@ -4161,7 +4161,7 @@ msgid ""
 "lands you control."
 msgstr ""
 "Zew krwi — |mana_1|\\ |mana_r|\\ |mana_g|, odrzuć tę kartę: Wskazany "
-"atakujący stwór dostaje do końca tury +X/+X, gdzie X to liczba lądów pod "
+"atakujący stwór do końca tury dostaje +X/+X, gdzie X to liczba lądów pod "
 "twoim władaniem."
 
 #: ../../C16.rst:1252
@@ -4247,7 +4247,7 @@ msgid ""
 "|mana_w|\\ |mana_b|: Target artifact creature gains deathtouch and lifelink "
 "until end of turn."
 msgstr ""
-"|mana_w|\\ |mana_b|: Wskazany artefaktowy stwór zyskuje do końca tury dotyk "
+"|mana_w|\\ |mana_b|: Wskazany artefaktowy stwór do końca tury zyskuje dotyk "
 "śmierci i więź życia."
 
 #: ../../C16.rst:1280
@@ -4915,7 +4915,7 @@ msgid ""
 "to the player or planeswalker it's attacking."
 msgstr ""
 "Ilekroć ten stwór atakuje, możesz przekręcić X odkręconych Myrów pod twoim "
-"władaniem. Jeśli tak zrobisz, ten stwór dostaje do końca tury +X/+0 i zadaje "
+"władaniem. Jeśli tak zrobisz, ten stwór do końca tury dostaje +X/+0 i zadaje "
 "atakowanemu graczowi lub wędrowcowi X obrażeń."
 
 #: ../../C16.rst:1502

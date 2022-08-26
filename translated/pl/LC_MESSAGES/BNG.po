@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-22 09:12+0200\n"
-"PO-Revision-Date: 2022-03-28 10:21+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/bng/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.10.1\n"
+"X-Generator: Weblate 4.13.1\n"
 "X-POOTLE-MTIME: 1391098335.778030\n"
 
 #: ../../symbols.rst:3
@@ -701,7 +701,7 @@ msgid ""
 "Target creature gets +1/+1 and gains lifelink until end of turn. (Damage "
 "dealt by the creature also causes its controller to gain that much life.)"
 msgstr ""
-"Wskazany stwór dostaje do końca tury +1/+1 oraz więź życia. (Obrażenia "
+"Wskazany stwór do końca tury dostaje +1/+1 oraz więź życia. (Obrażenia "
 "zadane przez tego stwora dodatkowo sprawiają, że jego władca zyskuje tyle "
 "samo życia.)"
 
@@ -968,7 +968,7 @@ msgid ""
 "Target creature you control gains protection from creatures your opponents "
 "control until end of turn. Untap it."
 msgstr ""
-"Wskazany stwór zyskuje do końca tury ochronę przed stworami pod władaniem "
+"Wskazany stwór do końca tury zyskuje ochronę przed stworami pod władaniem "
 "twoich przeciwników. Odkręć go."
 
 #: ../../BNG.rst:192
@@ -986,7 +986,7 @@ msgid ""
 "opponent controls gets -3/-0 until end of turn."
 msgstr ""
 "Natchniony — Ilekroć ten stwór zostanie odkręcony, wskazany stwór pod "
-"władaniem przeciwnika dostaje do końca tury -3/-0."
+"władaniem przeciwnika do końca tury dostaje -3/-0."
 
 #: ../../BNG.rst:196
 msgid ""
@@ -1260,7 +1260,7 @@ msgid ""
 "Until end of turn, target creature gains \"|tap|: Return target nonland "
 "permanent to its owner's hand.\""
 msgstr ""
-"Wskazany stwór zyskuje do końca tury \"|tap|: Zwróć wskazany nie-lądowy byt "
+"Wskazany stwór do końca tury zyskuje \"|tap|: Zwróć wskazany nie-lądowy byt "
 "do ręki właściciela.\""
 
 #: ../../BNG.rst:272
@@ -1540,7 +1540,7 @@ msgid ""
 "gets +1/+1 until end of turn."
 msgstr ""
 "|mana_b|, przekręć innego odkręconego stwora pod twoim władaniem: Ten stwór "
-"dostaje do końca tury +1/+1."
+"do końca tury dostaje +1/+1."
 
 #: ../../BNG.rst:342
 msgid ""
@@ -1637,7 +1637,7 @@ msgstr ""
 msgid ""
 "Target creature gets -1/-1 until end of turn. If it's a Cyclops, destroy it."
 msgstr ""
-"Wskazany stwór dostaje do końca tury -1/-1. Jeśli to Cyklop, zniszcz go."
+"Wskazany stwór do końca tury dostaje -1/-1. Jeśli to Cyklop, zniszcz go."
 
 #: ../../BNG.rst:368
 msgid ""
@@ -2151,8 +2151,8 @@ msgid ""
 "|mana_r|: Everflame Eidolon gets +1/+0 until end of turn. If it's an Aura, "
 "enchanted creature gets +1/+0 until end of turn instead."
 msgstr ""
-"|mana_r|: Ten stwór dostaje do końca tury +1/+0. Jeśli jest Aurą, zamiast "
-"tego zauroczony stwór dostaje do końca tury +1/+0."
+"|mana_r|: Ten stwór do końca tury dostaje +1/+0. Jeśli jest Aurą, zamiast "
+"tego zauroczony stwór do końca tury dostaje +1/+0."
 
 #: ../../BNG.rst:504
 msgid ""
@@ -2422,7 +2422,7 @@ msgstr ""
 # 5ca21d699a8b43f2b3838132b05049a4
 #: ../../BNG.rst:577
 msgid "Target creature gets +2/+0 and gains first strike until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +2/+0 oraz pierwszy cios."
+msgstr "Wskazany stwór do końca tury dostaje +2/+0 oraz pierwszy cios."
 
 #: ../../BNG.rst:582
 msgid ""
@@ -2558,7 +2558,7 @@ msgid ""
 "X is your devotion to red. (Each |mana_r| in the mana costs of permanents "
 "you control counts toward your devotion to red.)"
 msgstr ""
-"Ilekroć zauroczony stwór zaatakuje, dostaje do końca tury +X/+0, gdzie X "
+"Ilekroć zauroczony stwór zaatakuje, do końca tury dostaje +X/+0, gdzie X "
 "jest twoim kultem czerwonego. (Każdy symbol |mana_r| w kosztach many bytów "
 "pod twoim władaniem wlicza się do twojego kultu czerwonego.)"
 
@@ -2619,7 +2619,7 @@ msgid ""
 "green. (Each |mana_g| in the mana costs of permanents you control counts "
 "toward your devotion to green.)"
 msgstr ""
-"Wskazany stwór dostaje do końca tury +X/+X, gdzie X jest twoim kultem "
+"Wskazany stwór do końca tury dostaje +X/+X, gdzie X jest twoim kultem "
 "zielonego. (Każde |mana_g| w kosztach many bytów pod twoim władaniem wlicza "
 "się do twojego kultu zielonego.)"
 
@@ -2710,7 +2710,7 @@ msgid ""
 "X is the number of creature cards in your graveyard. Activate only once each "
 "turn."
 msgstr ""
-"|mana_3|\\ |mana_b|: Ten stwór dostaje do końca tury +X/+X, gdzie X jest "
+"|mana_3|\\ |mana_b|: Ten stwór do końca tury dostaje +X/+X, gdzie X jest "
 "liczbą kart stworów w twoim cmentarzu. Możesz aktywować tylko raz na turę."
 
 #: ../../BNG.rst:660
@@ -2779,7 +2779,7 @@ msgstr ""
 #: ../../BNG.rst:675
 msgid "Up to two target creatures each get +4/+4 until end of turn."
 msgstr ""
-"Każdy z co najwyżej dwóch wskazanych stworów dostaje do końca tury +4/+4."
+"Każdy z co najwyżej dwóch wskazanych stworów do końca tury dostaje +4/+4."
 
 #: ../../BNG.rst:680
 msgid ""
@@ -2795,7 +2795,7 @@ msgid ""
 "Target creature gets +1/+1 and gains indestructible until end of turn. "
 "(Damage and effects that say \"destroy\" don't destroy it.)"
 msgstr ""
-"Wskazany stwór dostaje do końca tury +1/+1 oraz niezniszczalność. (Obrażenia "
+"Wskazany stwór do końca tury dostaje +1/+1 oraz niezniszczalność. (Obrażenia "
 "oraz efekty mówiące \"zniszcz\" nie niszczą go.)"
 
 #: ../../BNG.rst:686
@@ -3452,7 +3452,7 @@ msgid ""
 "power."
 msgstr ""
 "Na początku potyczki w twojej turze, inny wskazany stwór pod twoim władaniem "
-"dostaje do końca tury pośpiech oraz +X/+X, gdzie X jest siłą owego stwora."
+"do końca tury dostaje pośpiech oraz +X/+X, gdzie X jest siłą owego stwora."
 
 #: ../../BNG.rst:862
 msgid ""

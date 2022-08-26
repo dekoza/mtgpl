@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-22 09:12+0200\n"
-"PO-Revision-Date: 2022-07-25 07:43+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/iko/pl/>\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.12.1\n"
+"X-Generator: Weblate 4.13.1\n"
 
 #: ../../symbols.rst:3
 msgid "{C}"
@@ -427,7 +427,7 @@ msgid ""
 "Target Human creature you control gets +1/+1 and gains indestructible until "
 "end of turn."
 msgstr ""
-"Wskazany stwór typu Człowiek pod twoim władaniem dostaje do końca tury +1/+1 "
+"Wskazany stwór typu Człowiek pod twoim władaniem do końca tury dostaje +1/+1 "
 "i niezniszczalność."
 
 #: ../../IKO.rst:69
@@ -435,8 +435,8 @@ msgid ""
 "Target non-Human creature you control gets +1/+1 and gains indestructible "
 "until end of turn."
 msgstr ""
-"Wskazany stwór bez typu Człowiek pod twoim władaniem dostaje do końca tury "
-"+1/+1 i niezniszczalność."
+"Wskazany stwór bez typu Człowiek pod twoim władaniem do końca tury dostaje +"
+"1/+1 i niezniszczalność."
 
 #: ../../IKO.rst:76
 msgid ""
@@ -675,7 +675,7 @@ msgid ""
 "+2 until end of turn."
 msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, wskazany Człowiek pod twoim władaniem "
-"dostaje do końca tury +2/+2."
+"do końca tury dostaje +2/+2."
 
 #: ../../IKO.rst:156
 msgid ""
@@ -784,7 +784,7 @@ msgstr ""
 msgid ""
 "Target creature gets +2/+2 until end of turn. Put a flying counter on it."
 msgstr ""
-"Wskazany stwór dostaje do końca tury +2/+2. Umieść na nim znacznik latania."
+"Wskazany stwór do końca tury dostaje +2/+2. Umieść na nim znacznik latania."
 
 #: ../../IKO.rst:198
 msgid ""
@@ -860,7 +860,7 @@ msgid ""
 "Target creature gets +2/+2 until end of turn. If it's blocking, instead put "
 "two +1/+1 counters on it."
 msgstr ""
-"Wskazany stwór dostaje do końca tury +2/+2. Jeśli blokuje, zamiast tego "
+"Wskazany stwór do końca tury dostaje +2/+2. Jeśli blokuje, zamiast tego "
 "umieść na nim dwa znaczniki +1/+1."
 
 #: ../../IKO.rst:226
@@ -1454,7 +1454,7 @@ msgid ""
 "creature."
 msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, wskazany stwór pod władaniem "
-"przeciwnika dostaje do końca tury -2/-2. Usuń wszystkie znaczniki z owego "
+"przeciwnika do końca tury dostaje -2/-2. Usuń wszystkie znaczniki z owego "
 "stwora."
 
 #: ../../IKO.rst:440
@@ -1933,7 +1933,7 @@ msgid ""
 "Target creature gets +2/+0 and gains indestructible until end of turn. "
 "(Damage and effects that say \"destroy\" don't destroy it.)"
 msgstr ""
-"Wskazany stwór dostaje do końca tury +2/+0 oraz niezniszczalność. (Obrażenia "
+"Wskazany stwór do końca tury dostaje +2/+0 oraz niezniszczalność. (Obrażenia "
 "i efekty mówiące \"zniszcz\" nie niszczą go.)"
 
 #: ../../IKO.rst:598
@@ -1986,8 +1986,8 @@ msgid ""
 "Whenever this creature mutates, target creature an opponent controls gets "
 "-2/-2 until end of turn."
 msgstr ""
-"Ilekroć ten stwór mutuje, wskazany stwór pod władaniem przeciwnika dostaje "
-"do końca tury -2/-2."
+"Ilekroć ten stwór mutuje, wskazany stwór pod władaniem przeciwnika do końca "
+"tury dostaje -2/-2."
 
 #: ../../IKO.rst:610
 msgid ""
@@ -2191,7 +2191,7 @@ msgid ""
 "Enchanted land has \"|tap|: Target creature gains trample and haste until "
 "end of turn.\""
 msgstr ""
-"Zauroczony ląd ma \"|tap|: Wskazany stwór zyskuje do końca tury tratowanie i "
+"Zauroczony ląd ma \"|tap|: Wskazany stwór do końca tury zyskuje tratowanie i "
 "pośpiech.\""
 
 #: ../../IKO.rst:676
@@ -2268,7 +2268,7 @@ msgid ""
 "Target creature gets +1/+0 until end of turn. Put a first strike counter on "
 "it."
 msgstr ""
-"Wskazany stwór dostaje do końca tury +1/+0. Umieść na nim znacznik "
+"Wskazany stwór do końca tury dostaje +1/+0. Umieść na nim znacznik "
 "pierwszego ciosu."
 
 #: ../../IKO.rst:702
@@ -2340,7 +2340,7 @@ msgid ""
 "Whenever Momentum Rumbler attacks, if it has first strike, it gains double "
 "strike until end of turn."
 msgstr ""
-"Ilekroć ten stwór atakuje, jeśli ma pierwszy cios, zyskuje do końca tury "
+"Ilekroć ten stwór atakuje, jeśli ma pierwszy cios, do końca tury zyskuje "
 "podwójny cios."
 
 #: ../../IKO.rst:720
@@ -2401,7 +2401,7 @@ msgstr "Pierwszy cios"
 #: ../../IKO.rst:731
 msgid ""
 "Whenever you cycle a card, Prickly Marmoset gets +2/+0 until end of turn."
-msgstr "Ilekroć recyklujesz kartę, ten stwór dostaje do końca tury +2/+0."
+msgstr "Ilekroć recyklujesz kartę, ten stwór do końca tury dostaje +2/+0."
 
 #: ../../IKO.rst:738
 msgid ""
@@ -2430,7 +2430,7 @@ msgstr ""
 
 #: ../../IKO.rst:741
 msgid "Target creature gains double strike until end of turn."
-msgstr "Wskazany stwór zyskuje do końca tury podwójny cios."
+msgstr "Wskazany stwór do końca tury zyskuje podwójny cios."
 
 #: ../../IKO.rst:748
 msgid ""
@@ -2645,7 +2645,7 @@ msgstr ""
 
 #: ../../IKO.rst:813
 msgid "|mana_3|\\ |mana_g|: Almighty Brushwagg gets +3/+3 until end of turn."
-msgstr "|mana_3|\\ |mana_g|: Ten stwór dostaje do końca tury +3/+3."
+msgstr "|mana_3|\\ |mana_g|: Ten stwór do końca tury dostaje +3/+3."
 
 #: ../../IKO.rst:820
 msgid ""
@@ -2825,7 +2825,7 @@ msgstr ""
 msgid ""
 "Target creature gets +3/+3 until end of turn. Put a trample counter on it."
 msgstr ""
-"Wskazany stwór dostaje do końca tury +3/+3. Umieść na nim znacznik "
+"Wskazany stwór do końca tury dostaje +3/+3. Umieść na nim znacznik "
 "tratowania."
 
 #: ../../IKO.rst:880
@@ -2980,7 +2980,7 @@ msgid ""
 "Kogla gains indestructible until end of turn."
 msgstr ""
 "|mana_1|\\ |mana_g|: Przywróć wskazanego Człowieka pod twoim władaniem do "
-"ręki właściciela. Niniejszy stwór zyskuje do końca tury niezniszczalność."
+"ręki właściciela. Niniejszy stwór do końca tury zyskuje niezniszczalność."
 
 #: ../../IKO.rst:924
 msgid ""
@@ -3052,7 +3052,7 @@ msgid ""
 "Target creature gets +7/+7 until end of turn. Up to one other target "
 "creature blocks it this turn if able."
 msgstr ""
-"Wskazany stwór dostaje do końca tury +7/+7. Co najwyżej jeden wskazany stwór "
+"Wskazany stwór do końca tury dostaje +7/+7. Co najwyżej jeden wskazany stwór "
 "blokuje go w tej turze, jeśli może."
 
 #: ../../IKO.rst:946
@@ -3122,7 +3122,7 @@ msgid ""
 "Target creature gets +1/+3 until end of turn. Put a reach counter on it. "
 "Untap it."
 msgstr ""
-"Wskazany stwór dostaje do końca tury +1/+3. Umieść na nim znacznik zasięgu. "
+"Wskazany stwór do końca tury dostaje +1/+3. Umieść na nim znacznik zasięgu. "
 "Odkręć go."
 
 #: ../../IKO.rst:972

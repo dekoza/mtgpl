@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-22 09:12+0200\n"
-"PO-Revision-Date: 2022-06-25 15:11+0000\n"
+"PO-Revision-Date: 2022-08-26 21:05+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mid/pl/>\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.12.1\n"
+"X-Generator: Weblate 4.13.1\n"
 
 #: ../../symbols.rst:3
 msgid "{C}"
@@ -374,7 +374,7 @@ msgid ""
 "When that creature dies this turn, create a 1/1 white Spirit creature token "
 "with flying."
 msgstr ""
-"Wskazany stwór pod twoim władaniem dostaje do końca tury +2/+0 i więź życia. "
+"Wskazany stwór pod twoim władaniem do końca tury dostaje +2/+0 i więź życia. "
 "Kiedy ten stwór umrze w tej turze, stwórz żeton białego stwora Duch 1/1 z "
 "lataniem."
 
@@ -463,7 +463,7 @@ msgid ""
 "end of turn."
 msgstr ""
 "Sabat — Na początku potyczki w twojej turze, jeśli władasz co najmniej "
-"trzema stworami o różnych siłach, ten stwór zyskuje do końca tury latanie."
+"trzema stworami o różnych siłach, ten stwór do końca tury zyskuje latanie."
 
 #: ../../MID.rst:78
 msgid ""
@@ -664,8 +664,8 @@ msgid ""
 "double strike until end of turn."
 msgstr ""
 "Sabat — Na początku potyczki w twojej turze, jeśli władasz co najmniej "
-"trzema stworami o różnych siłach, wskazany stwór pod twoim władaniem zyskuje "
-"do końca tury podwójny cios."
+"trzema stworami o różnych siłach, wskazany stwór pod twoim władaniem do "
+"końca tury zyskuje podwójny cios."
 
 #: ../../MID.rst:140
 msgid ""
@@ -750,8 +750,8 @@ msgid ""
 "Target creature gets +2/+2 until end of turn. If it's a Human, instead it "
 "gets +3/+3 and gains indestructible until end of turn."
 msgstr ""
-"Wskazany stwór dostaje do końca tury +2/+2. Jeśli to Człowiek, zamiast tego "
-"dostaje do końca tury +3/+3 i niezniszczalność."
+"Wskazany stwór do końca tury dostaje +2/+2. Jeśli to Człowiek, zamiast tego "
+"do końca tury dostaje +3/+3 i niezniszczalność."
 
 #: ../../MID.rst:166
 msgid ""
@@ -996,7 +996,7 @@ msgid ""
 "end of turn."
 msgstr ""
 "Sabat — Na początku potyczki w twojej turze, jeśli władasz co najmniej "
-"trzema stworami o różnych siłach, ten stwór zyskuje do końca tury więź życia."
+"trzema stworami o różnych siłach, ten stwór do końca tury zyskuje więź życia."
 
 #: ../../MID.rst:244
 msgid ""
@@ -1126,7 +1126,7 @@ msgid ""
 "color this turn. Activate only if you control three or more creatures with "
 "different powers."
 msgstr ""
-"Sabat — |mana_1|\\ |mana_w|: Wybierz kolor. Ten stwór zyskuje do końca tury "
+"Sabat — |mana_1|\\ |mana_w|: Wybierz kolor. Ten stwór do końca tury zyskuje "
 "antyklątwę przed tym kolorem i do końca tury nie może być blokowany przez "
 "stwory w tym kolorze. Możesz aktywować tylko jeśli władasz co najmniej "
 "trzema stworami o różnych siłach."
@@ -1736,7 +1736,7 @@ msgid ""
 "opponent controls gets -2/-0 until end of turn."
 msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, co najwyżej jeden wskazany stwór pod "
-"władaniem przeciwnika dostaje do końca tury -2/-0."
+"władaniem przeciwnika do końca tury dostaje -2/-0."
 
 #: ../../MID.rst:486
 msgid ""
@@ -2044,7 +2044,7 @@ msgid ""
 "creature token with decayed. (It can't block. When it attacks, sacrifice it "
 "at end of combat.)"
 msgstr ""
-"Wskazany stwór dostaje do końca tury -2/-0. Stwórz żeton czarnego stwora "
+"Wskazany stwór do końca tury dostaje -2/-0. Stwórz żeton czarnego stwora "
 "Zombi 2/2 ze zgnilizną. (Nie może on blokować. Kiedy zaatakuje, poświęć go "
 "na koniec potyczki.)"
 
@@ -2169,8 +2169,8 @@ msgid ""
 "Whenever Baneblade Scoundrel becomes blocked, each creature blocking it gets "
 "-1/-1 until end of turn."
 msgstr ""
-"Ilekroć ten stwór zostaje zablokowany, każdy z blokujących go stworów "
-"dostaje do końca tury -1/-1."
+"Ilekroć ten stwór zostaje zablokowany, każdy z blokujących go stworów do "
+"końca tury dostaje -1/-1."
 
 #: ../../MID.rst:634
 msgid ""
@@ -2185,8 +2185,8 @@ msgid ""
 "Whenever Baneclaw Marauder becomes blocked, each creature blocking it gets "
 "-1/-1 until end of turn."
 msgstr ""
-"Ilekroć ten stwór zostaje zablokowany, każdy z blokujących go stworów "
-"dostaje do końca tury -1/-1."
+"Ilekroć ten stwór zostaje zablokowany, każdy z blokujących go stworów do "
+"końca tury dostaje -1/-1."
 
 #: ../../MID.rst:631
 msgid ""
@@ -2219,7 +2219,7 @@ msgstr ""
 
 #: ../../MID.rst:641
 msgid "Target creature gains deathtouch until end of turn."
-msgstr "Wskazany stwór zyskuje do końca tury dotyk śmierci."
+msgstr "Wskazany stwór do końca tury zyskuje dotyk śmierci."
 
 #: ../../MID.rst:648
 msgid ""
@@ -2246,7 +2246,7 @@ msgstr "Wybierz jedno —"
 
 #: ../../MID.rst:653
 msgid "Target creature gets -5/-5 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -5/-5."
+msgstr "Wskazany stwór do końca tury dostaje -5/-5."
 
 #: ../../MID.rst:655
 msgid "Creature tokens get -2/-2 until end of turn."
@@ -2702,7 +2702,7 @@ msgstr ""
 #: ../../MID.rst:797
 msgid "|mana_2|: Target Human you control gains lifelink until end of turn."
 msgstr ""
-"|mana_2|: Wskazany Człowiek pod twoim władaniem zyskuje do końca tury więź "
+"|mana_2|: Wskazany Człowiek pod twoim władaniem do końca tury zyskuje więź "
 "życia."
 
 #: ../../MID.rst:799
@@ -2788,7 +2788,7 @@ msgid ""
 "When The Meathook Massacre enters the battlefield, each creature gets -X/-X "
 "until end of turn."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, każdy stwór dostaje do końca tury -X/-X."
+"Kiedy ten byt wejdzie na pole bitwy, każdy stwór do końca tury dostaje -X/-X."
 
 #: ../../MID.rst:827 ../../MID.rst:835
 msgid "Whenever a creature you control dies, each opponent loses 1 life."
@@ -2910,8 +2910,8 @@ msgid ""
 "Target creature gets -2/-2 until end of turn. If it's night, that creature "
 "gets -13/-13 until end of turn instead."
 msgstr ""
-"Wskazany stwór dostaje do końca tury -2/-2. Jeśli jest noc, ów stwór zamiast "
-"tego dostaje do końca tury -13/-13."
+"Wskazany stwór do końca tury dostaje -2/-2. Jeśli jest noc, ów stwór zamiast "
+"tego do końca tury dostaje -13/-13."
 
 #: ../../MID.rst:872
 msgid ""
@@ -3314,7 +3314,7 @@ msgid ""
 "|mana_1|\\ |mana_r|: Fangblade Brigand gets +1/+0 and gains first strike "
 "until end of turn."
 msgstr ""
-"|mana_1|\\ |mana_r|: Ten stwór dostaje do końca tury +1/+0 i pierwszy cios."
+"|mana_1|\\ |mana_r|: Ten stwór do końca tury dostaje +1/+0 i pierwszy cios."
 
 #: ../../MID.rst:1008
 msgid ""
@@ -3329,7 +3329,7 @@ msgid ""
 "|mana_1|\\ |mana_r|: Fangblade Eviscerator gets +1/+0 and gains first strike "
 "until end of turn."
 msgstr ""
-"|mana_1|\\ |mana_r|: Ten stwór dostaje do końca tury +1/+0 i pierwszy cios."
+"|mana_1|\\ |mana_r|: Ten stwór do końca tury dostaje +1/+0 i pierwszy cios."
 
 #: ../../MID.rst:1005
 msgid "|mana_4|\\ |mana_r|: Creatures you control get +2/+0 until end of turn."
@@ -3348,8 +3348,8 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, Festival Crasher gets +2/+0 "
 "until end of turn."
 msgstr ""
-"Ilekroć rzucisz czar sztuczki lub obrzędu, ten stwór dostaje do końca tury "
-"+2/+0."
+"Ilekroć rzucisz czar sztuczki lub obrzędu, ten stwór do końca tury dostaje +"
+"2/+0."
 
 #: ../../MID.rst:1016
 msgid ""
@@ -3502,7 +3502,7 @@ msgid ""
 "Target creature you control gets +X/+0 and gains first strike and trample "
 "until end of turn."
 msgstr ""
-"Wskazany stwór pod twoim władaniem dostaje do końca tury +X/+0 oraz pierwszy "
+"Wskazany stwór pod twoim władaniem do końca tury dostaje +X/+0 oraz pierwszy "
 "cios i tratowanie."
 
 #: ../../MID.rst:1068
@@ -3666,7 +3666,7 @@ msgstr "Zniszcz wskazany artefakt."
 
 #: ../../MID.rst:1115
 msgid "Target attacking creature gets +2/+2 until end of turn."
-msgstr "Wskazany atakujący stwór dostaje do końca tury +2/+2."
+msgstr "Wskazany atakujący stwór do końca tury dostaje +2/+2."
 
 #: ../../MID.rst:1122
 msgid ""
@@ -3681,8 +3681,8 @@ msgid ""
 "At the beginning of combat on your turn, target creature you control gets +1/"
 "+0 and gains haste until end of turn."
 msgstr ""
-"Na początku potyczki w twojej turze, wskazany stwór pod twoim władaniem "
-"dostaje do końca tury +1/+0 oraz pośpiech."
+"Na początku potyczki w twojej turze, wskazany stwór pod twoim władaniem do "
+"końca tury dostaje +1/+0 oraz pośpiech."
 
 #: ../../MID.rst:1128
 msgid ""
@@ -3697,8 +3697,8 @@ msgid ""
 "At the beginning of combat on your turn, target creature you control gets +2/"
 "+0 and gains trample and haste until end of turn."
 msgstr ""
-"Na początku potyczki w twojej turze, wskazany stwór pod twoim władaniem "
-"dostaje do końca tury +2/+0 oraz tratowanie i pośpiech."
+"Na początku potyczki w twojej turze, wskazany stwór pod twoim władaniem do "
+"końca tury dostaje +2/+0 oraz tratowanie i pośpiech."
 
 #: ../../MID.rst:1134
 msgid ""
@@ -3775,8 +3775,8 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, Spellrune Painter gets +1/+1 "
 "until end of turn."
 msgstr ""
-"Ilekroć rzucisz czar sztuczki lub obrzędu, ten stwór dostaje do końca tury "
-"+1/+1."
+"Ilekroć rzucisz czar sztuczki lub obrzędu, ten stwór do końca tury dostaje +"
+"1/+1."
 
 #: ../../MID.rst:1158
 msgid ""
@@ -3791,8 +3791,8 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, Spellrune Howler gets +2/+2 "
 "until end of turn."
 msgstr ""
-"Ilekroć rzucisz czar sztuczki lub obrzędu, ten stwór dostaje do końca tury "
-"+2/+2."
+"Ilekroć rzucisz czar sztuczki lub obrzędu, ten stwór do końca tury dostaje +"
+"2/+2."
 
 #: ../../MID.rst:1162
 msgid ""
@@ -3807,8 +3807,8 @@ msgid ""
 "creature gains trample until end of turn. Otherwise, it gains first strike "
 "until end of turn."
 msgstr ""
-"Wskazany stwór dostaje do końca tury +3/+1. Jeśli jest twoja tura, ów stwór "
-"do końca tury zyskuje tratowanie. W przeciwnym razie zyskuje do końca tury "
+"Wskazany stwór do końca tury dostaje +3/+1. Jeśli jest twoja tura, ów stwór "
+"do końca tury zyskuje tratowanie. W przeciwnym razie do końca tury zyskuje "
 "pierwszy cios."
 
 #: ../../MID.rst:1170
@@ -3917,7 +3917,7 @@ msgstr "Ten stwór ma pierwszy cios o ile atakuje."
 
 #: ../../MID.rst:1207
 msgid "|mana_2|\\ |mana_r|: Voldaren Stinger gets +2/+0 until end of turn."
-msgstr "|mana_2|\\ |mana_r|: Ten stwór dostaje do końca tury +2/+0."
+msgstr "|mana_2|\\ |mana_r|: Ten stwór do końca tury dostaje +2/+0."
 
 #: ../../MID.rst:1216
 msgid ""
@@ -4066,7 +4066,7 @@ msgid ""
 "end of turn."
 msgstr ""
 "Sabat — Na początku potyczki w twojej turze, jeśli władasz co najmniej "
-"trzema stworami o różnych siłach, ten stwór zyskuje do końca tury tratowanie."
+"trzema stworami o różnych siłach, ten stwór do końca tury zyskuje tratowanie."
 
 #: ../../MID.rst:1276
 msgid ""
@@ -4080,7 +4080,7 @@ msgid ""
 "Target creature you control gets +1/+1 until end of turn. It deals damage "
 "equal to its power to target creature you don't control."
 msgstr ""
-"Wskazany stwór pod twoim władaniem dostaje do końca tury +1/+1. Zadaje on "
+"Wskazany stwór pod twoim władaniem do końca tury dostaje +1/+1. Zadaje on "
 "wskazanemu stworowi poza twoim władaniem obrażenia równe swojej sile."
 
 #: ../../MID.rst:1282
@@ -4151,8 +4151,8 @@ msgid ""
 "gains trample until end of turn. Activate only if you control three or more "
 "creatures with different powers."
 msgstr ""
-"Sabat — |mana_5|\\ |mana_g|: Wskazany stwór pod twoim władaniem dostaje do "
-"końca tury +3/+3 i tratowanie. Możesz aktywować tylko jeśli władasz co "
+"Sabat — |mana_5|\\ |mana_g|: Wskazany stwór pod twoim władaniem do końca "
+"tury dostaje +3/+3 i tratowanie. Możesz aktywować tylko jeśli władasz co "
 "najmniej trzema stworami o różnych siłach."
 
 #: ../../MID.rst:1300
@@ -4342,7 +4342,7 @@ msgstr ""
 
 #: ../../MID.rst:1361
 msgid "Target creature gets +2/+2 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +2/+2."
+msgstr "Wskazany stwór do końca tury dostaje +2/+2."
 
 #: ../../MID.rst:1363
 msgid ""
@@ -4536,7 +4536,7 @@ msgid ""
 "|mana_1|\\ |mana_g|: Snarling Wolf gets +2/+2 until end of turn. Activate "
 "only once each turn."
 msgstr ""
-"|mana_1|\\ |mana_g|: Ten stwór dostaje do końca tury +2/+2. Możesz aktywować "
+"|mana_1|\\ |mana_g|: Ten stwór do końca tury dostaje +2/+2. Możesz aktywować "
 "tylko raz na turę."
 
 #: ../../MID.rst:1438
@@ -5137,7 +5137,7 @@ msgid ""
 "|mana_1|, Sacrifice another creature: Fleshtaker gets +2/+2 until end of "
 "turn."
 msgstr ""
-"|mana_1|, poświęć innego stwora: Niniejszy stwór dostaje do końca tury +2/+2."
+"|mana_1|, poświęć innego stwora: Niniejszy stwór do końca tury dostaje +2/+2."
 
 #: ../../MID.rst:1624
 msgid ""
@@ -5645,8 +5645,8 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, Storm Skreelix gets +2/+0 "
 "until end of turn."
 msgstr ""
-"Ilekroć rzucisz czar sztuczki lub obrzędu, ten stwór dostaje do końca tury "
-"+2/+0."
+"Ilekroć rzucisz czar sztuczki lub obrzędu, ten stwór do końca tury dostaje +"
+"2/+0."
 
 #: ../../MID.rst:1782
 msgid ""
@@ -5755,7 +5755,7 @@ msgid ""
 "+0 and gains trample until end of turn."
 msgstr ""
 "|mana_x|\\ |mana_r|\\ |mana_g|: Wskazany Wilk lub Wilkołak pod twoim "
-"władaniem dostaje do końca tury +X/+0 i tratowanie."
+"władaniem do końca tury dostaje +X/+0 i tratowanie."
 
 #: ../../MID.rst:1805
 msgid "Nightbound"

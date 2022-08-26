@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-29 18:35+0200\n"
-"PO-Revision-Date: 2022-05-29 17:33+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/gtc/pl/>\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.12.1\n"
+"X-Generator: Weblate 4.13.1\n"
 "X-POOTLE-MTIME: 1385404109.643633\n"
 
 #: ../../symbols.rst:3
@@ -248,7 +248,7 @@ msgid ""
 "Target creature gets +1/+1 and gains flying and first strike until end of "
 "turn."
 msgstr ""
-"Wskazany stwór dostaje do końca tury +1/+1 oraz latanie i pierwszy cios."
+"Wskazany stwór do końca tury dostaje +1/+1 oraz latanie i pierwszy cios."
 
 #: ../../GTC.rst:14
 msgid ""
@@ -408,7 +408,7 @@ msgid ""
 "Daring Skyjek gains flying until end of turn."
 msgstr ""
 "Batalion — Ilekroć ten stwór zaatakuje wraz z co najmniej dwoma innymi "
-"stworami, niniejszy stwór zyskuje do końca tury latanie."
+"stworami, niniejszy stwór do końca tury zyskuje latanie."
 
 #: ../../GTC.rst:54
 msgid ""
@@ -522,7 +522,7 @@ msgid ""
 "Whenever Guardian of the Gateless blocks, it gets +1/+1 until end of turn "
 "for each creature it's blocking."
 msgstr ""
-"Ilekroć ten stwór blokuje, dostaje do końca tury +1/+1 za każdego "
+"Ilekroć ten stwór blokuje, do końca tury dostaje +1/+1 za każdego "
 "blokowanego stwora."
 
 #: ../../GTC.rst:86
@@ -662,7 +662,7 @@ msgid ""
 "attack, Nav Squad Commandos gets +1/+1 until end of turn. Untap it."
 msgstr ""
 "Batalion — Ilekroć ten stwór zaatakuje wraz z co najmniej dwoma innymi "
-"stworami, niniejszy stwór dostaje do końca tury +1/+1. Odkręć go."
+"stworami, niniejszy stwór do końca tury dostaje +1/+1. Odkręć go."
 
 #: ../../GTC.rst:126
 msgid ""
@@ -854,7 +854,7 @@ msgid ""
 "|mana_1|\\ |mana_g|: Frilled Oculus gets +2/+2 until end of turn. Activate "
 "only once each turn."
 msgstr ""
-"|mana_1|\\ |mana_g|: Ten stwór dostaje do końca tury +2/+2. Możesz aktywować "
+"|mana_1|\\ |mana_g|: Ten stwór do końca tury dostaje +2/+2. Możesz aktywować "
 "tylko raz na turę."
 
 #: ../../GTC.rst:188
@@ -921,8 +921,8 @@ msgid ""
 "Whenever you cast your second spell each turn, Incursion Specialist gets +2/"
 "+0 until end of turn and can't be blocked this turn."
 msgstr ""
-"Ilekroć rzucisz swój drugi czar w danej turze, ten stwór dostaje do końca "
-"tury +2/+0 i nie może być blokowany w tej turze."
+"Ilekroć rzucisz swój drugi czar w danej turze, ten stwór do końca tury "
+"dostaje +2/+0 i nie może być blokowany w tej turze."
 
 #: ../../GTC.rst:204
 msgid ""
@@ -984,7 +984,7 @@ msgstr ""
 # 37fdf62da8ac4d8b98034589794c96a9
 #: ../../GTC.rst:219
 msgid "|mana_u|: Metropolis Sprite gets +1/-1 until end of turn."
-msgstr "|mana_u|: Ten stwór dostaje do końca tury +1/-1."
+msgstr "|mana_u|: Ten stwór do końca tury dostaje +1/-1."
 
 #: ../../GTC.rst:226
 msgid ""
@@ -1120,7 +1120,7 @@ msgid ""
 "Enchanted land has \"|tap|: Target creature gains flying until end of turn. "
 "Activate only as a sorcery.\""
 msgstr ""
-"Zauroczony ląd ma \"|tap|: Wskazany stwór zyskuje do końca tury latanie. "
+"Zauroczony ląd ma \"|tap|: Wskazany stwór do końca tury zyskuje latanie. "
 "Aktywuj tylko jako obrzęd.\""
 
 #: ../../GTC.rst:274
@@ -1323,15 +1323,15 @@ msgstr ""
 # 6c02cb1405074d7795eb4764362d0647
 #: ../../GTC.rst:349
 msgid "|mana_b|: Gateway Shade gets +1/+1 until end of turn."
-msgstr "|mana_b|: Ten stwór dostaje do końca tury +1/+1."
+msgstr "|mana_b|: Ten stwór do końca tury dostaje +1/+1."
 
 # 4dc79ac88bb54ab1be84d167bd44326f
 #: ../../GTC.rst:351
 msgid ""
 "Tap an untapped Gate you control: Gateway Shade gets +2/+2 until end of turn."
 msgstr ""
-"Przekręć odkręconą Bramę pod twoim władaniem: Ten stwór dostaje do końca "
-"tury +2/+2."
+"Przekręć odkręconą Bramę pod twoim władaniem: Ten stwór do końca tury "
+"dostaje +2/+2."
 
 #: ../../GTC.rst:356
 msgid ""
@@ -1740,7 +1740,7 @@ msgid ""
 "Foundry Street Denizen gets +1/+0 until end of turn."
 msgstr ""
 "Ilekroć inny czerwony stwór wejdzie na pole bitwy pod twoim władaniem, ten "
-"stwór dostaje do końca tury +1/+0."
+"stwór do końca tury dostaje +1/+0."
 
 #: ../../GTC.rst:484
 msgid ""
@@ -1753,7 +1753,7 @@ msgstr ""
 #: ../../GTC.rst:483
 msgid ""
 "Target blocking creature gets +3/+0 and gains first strike until end of turn."
-msgstr "Wskazany blokujący stwór dostaje do końca tury +3/+0 i pierwszy cios."
+msgstr "Wskazany blokujący stwór do końca tury dostaje +3/+0 i pierwszy cios."
 
 #: ../../GTC.rst:492
 msgid ""
@@ -1947,7 +1947,7 @@ msgid ""
 "attacking creature gets +5/+1 until end of turn."
 msgstr ""
 "Zew krwi — |mana_1|\\ |mana_r|\\ |mana_r|, odrzuć tę kartę: Wskazany "
-"atakujący stwór dostaje do końca tury +5/+1."
+"atakujący stwór do końca tury dostaje +5/+1."
 
 #: ../../GTC.rst:542
 msgid ""
@@ -1962,8 +1962,8 @@ msgid ""
 "Bloodrush — |mana_r|, Discard Skinbrand Goblin: Target attacking creature "
 "gets +2/+1 until end of turn."
 msgstr ""
-"Zew krwi — |mana_r|, odrzuć tę kartę: Wskazany atakujący stwór dostaje do "
-"końca tury +2/+1."
+"Zew krwi — |mana_r|, odrzuć tę kartę: Wskazany atakujący stwór do końca tury "
+"dostaje +2/+1."
 
 #: ../../GTC.rst:546
 msgid ""
@@ -2039,8 +2039,8 @@ msgid ""
 "Bloodrush — |mana_2|\\ |mana_r|, Discard Viashino Shanktail: Target "
 "attacking creature gets +3/+1 and gains first strike until end of turn."
 msgstr ""
-"Zew krwi — |mana_2|\\ |mana_r|, odrzuć tę kartę: Wskazany atakujący stwór "
-"dostaje do końca tury +3/+1 oraz pierwszy cios."
+"Zew krwi — |mana_2|\\ |mana_r|, odrzuć tę kartę: Wskazany atakujący stwór do "
+"końca tury dostaje +3/+1 oraz pierwszy cios."
 
 #: ../../GTC.rst:570
 msgid ""
@@ -2056,7 +2056,7 @@ msgid ""
 "attack, Warmind Infantry gets +2/+0 until end of turn."
 msgstr ""
 "Batalion — Ilekroć ten stwór zaatakuje wraz z co najmniej dwoma innymi "
-"stworami, niniejszy stwór dostaje do końca tury +2/+0."
+"stworami, niniejszy stwór do końca tury dostaje +2/+0."
 
 #: ../../GTC.rst:576
 msgid ""
@@ -2077,7 +2077,7 @@ msgid ""
 "attacking creature gets +3/+3 and gains double strike until end of turn."
 msgstr ""
 "Zew krwi — |mana_3|\\ |mana_r|\\ |mana_r|, odrzuć tę kartę: Wskazany "
-"atakujący stwór dostaje do końca tury +3/+3 oraz podwójny cios."
+"atakujący stwór do końca tury dostaje +3/+3 oraz podwójny cios."
 
 #: ../../GTC.rst:580
 msgid ""
@@ -2160,7 +2160,7 @@ msgstr ""
 #: ../../GTC.rst:605
 msgid ""
 "|mana_r|: Disciple of the Old Ways gains first strike until end of turn."
-msgstr "|mana_r|: Ten stwór zyskuje do końca tury pierwszy cios."
+msgstr "|mana_r|: Ten stwór do końca tury zyskuje pierwszy cios."
 
 #: ../../GTC.rst:612
 msgid ""
@@ -2353,8 +2353,8 @@ msgid ""
 "Bloodrush — |mana_1|\\ |mana_g|, Discard Scab-Clan Charger: Target attacking "
 "creature gets +2/+4 until end of turn."
 msgstr ""
-"Zew krwi — |mana_1|\\ |mana_g|, odrzuć tę kartę: Wskazany atakujący stwór "
-"dostaje do końca tury +2/+4."
+"Zew krwi — |mana_1|\\ |mana_g|, odrzuć tę kartę: Wskazany atakujący stwór do "
+"końca tury dostaje +2/+4."
 
 #: ../../GTC.rst:670
 msgid ""
@@ -2386,7 +2386,7 @@ msgid ""
 "attacking creature gets +9/+9 and gains trample until end of turn."
 msgstr ""
 "Zew krwi — |mana_5|\\ |mana_g|\\ |mana_g|, odrzuć tę kartę: Wskazany "
-"atakujący stwór dostaje do końca tury +9/+9 oraz tratowanie."
+"atakujący stwór do końca tury dostaje +9/+9 oraz tratowanie."
 
 #: ../../GTC.rst:680
 msgid ""
@@ -2401,8 +2401,8 @@ msgid ""
 "Bloodrush — |mana_g|, Discard Slaughterhorn: Target attacking creature gets "
 "+3/+2 until end of turn."
 msgstr ""
-"Zew krwi — |mana_g|, odrzuć tę kartę: Wskazany atakujący stwór dostaje do "
-"końca tury +3/+2."
+"Zew krwi — |mana_g|, odrzuć tę kartę: Wskazany atakujący stwór do końca tury "
+"dostaje +3/+2."
 
 #: ../../GTC.rst:684
 msgid ""
@@ -2493,8 +2493,8 @@ msgid ""
 "Bloodrush — |mana_g|, Discard Wasteland Viper: Target attacking creature "
 "gets +1/+2 and gains deathtouch until end of turn."
 msgstr ""
-"Zew krwi — |mana_g|, odrzuć tę kartę: Wskazany atakujący stwór dostaje do "
-"końca tury +1/+2 oraz dotyk śmierci."
+"Zew krwi — |mana_g|, odrzuć tę kartę: Wskazany atakujący stwór do końca tury "
+"dostaje +1/+2 oraz dotyk śmierci."
 
 #: ../../GTC.rst:712
 msgid ""
@@ -2661,7 +2661,7 @@ msgstr "Permanenty pod twoim władaniem zyskują do końca tury niezniszczalnoś
 
 #: ../../GTC.rst:759
 msgid "Target creature gains double strike until end of turn."
-msgstr "Wskazany stwór zyskuje do końca tury podwójny cios."
+msgstr "Wskazany stwór do końca tury zyskuje podwójny cios."
 
 #: ../../GTC.rst:766
 msgid ""
@@ -2971,12 +2971,12 @@ msgstr ""
 # ea9f515a109740d1a8d2be7d88613854
 #: ../../GTC.rst:863
 msgid "|mana_r|: Foundry Champion gets +1/+0 until end of turn."
-msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_r|: Ten stwór do końca tury dostaje +1/+0."
 
 # 3bbcc5b12b6e463fadb2675bb6d44501
 #: ../../GTC.rst:865
 msgid "|mana_w|: Foundry Champion gets +0/+1 until end of turn."
-msgstr "|mana_w|: Ten stwór dostaje do końca tury +0/+1."
+msgstr "|mana_w|: Ten stwór do końca tury dostaje +0/+1."
 
 #: ../../GTC.rst:870
 msgid ""
@@ -3007,8 +3007,8 @@ msgid ""
 "Bloodrush — |mana_r|\\ |mana_g|, Discard Ghor-Clan Rampager: Target "
 "attacking creature gets +4/+4 and gains trample until end of turn."
 msgstr ""
-"Zew krwi — |mana_r|\\ |mana_g|, odrzuć tę kartę: Wskazany atakujący stwór "
-"dostaje do końca tury +4/+4 i tratowanie."
+"Zew krwi — |mana_r|\\ |mana_g|, odrzuć tę kartę: Wskazany atakujący stwór do "
+"końca tury dostaje +4/+4 i tratowanie."
 
 #: ../../GTC.rst:880
 msgid ""
@@ -3133,12 +3133,12 @@ msgstr ""
 # 2c356ed98c4a4e928d526fa304c5fd59
 #: ../../GTC.rst:917
 msgid "Target creature gets +3/+0 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +3/+0."
+msgstr "Wskazany stwór do końca tury dostaje +3/+0."
 
 # 38af911e74e946508a34410d55bc42e4
 #: ../../GTC.rst:919
 msgid "Target creature gets +0/+3 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +0/+3."
+msgstr "Wskazany stwór do końca tury dostaje +0/+3."
 
 #: ../../GTC.rst:924
 msgid ""
@@ -3307,7 +3307,7 @@ msgid ""
 "both first-strike and regular combat damage.)"
 msgstr ""
 "Batalion — Ilekroć ten stwór zaatakuje wraz z co najmniej dwoma innymi "
-"stworami, niniejszy stwór zyskuje do końca tury podwójny cios. (Zadaje "
+"stworami, niniejszy stwór do końca tury zyskuje podwójny cios. (Zadaje "
 "obrażenia zarówno jako pierwszy cios i normalnie.)"
 
 #: ../../GTC.rst:982
@@ -3436,7 +3436,7 @@ msgid ""
 "lands you control."
 msgstr ""
 "Zew krwi — |mana_1|\\ |mana_r|\\ |mana_g|, odrzuć tę kartę: Wskazany "
-"atakujący stwór dostaje do końca tury +X/+X, gdzie X to liczba lądów pod "
+"atakujący stwór do końca tury dostaje +X/+X, gdzie X to liczba lądów pod "
 "twoim władaniem."
 
 #: ../../GTC.rst:1016
@@ -3487,7 +3487,7 @@ msgstr ""
 # 2c356ed98c4a4e928d526fa304c5fd59
 #: ../../GTC.rst:1033
 msgid "Target creature gets +3/+3 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +3/+3."
+msgstr "Wskazany stwór do końca tury dostaje +3/+3."
 
 #: ../../GTC.rst:1035
 msgid "Permanents you control gain hexproof until end of turn."
@@ -3623,13 +3623,13 @@ msgstr ""
 # 660ac982f16d4a3ca97c0090cbc18f47
 #: ../../GTC.rst:1079
 msgid "|mana_r|\\ |mana_w|: Truefire Paladin gets +2/+0 until end of turn."
-msgstr "|mana_r|\\ |mana_w|: Ten stwór dostaje do końca tury +2/+0."
+msgstr "|mana_r|\\ |mana_w|: Ten stwór do końca tury dostaje +2/+0."
 
 # 1bb4a30a271a4820974590392fa739cd
 #: ../../GTC.rst:1081
 msgid ""
 "|mana_r|\\ |mana_w|: Truefire Paladin gains first strike until end of turn."
-msgstr "|mana_r|\\ |mana_w|: Ten stwór zyskuje do końca tury pierwszy cios."
+msgstr "|mana_r|\\ |mana_w|: Ten stwór do końca tury zyskuje pierwszy cios."
 
 #: ../../GTC.rst:1086
 msgid ""
@@ -3735,7 +3735,7 @@ msgid ""
 "attack, Wojek Halberdiers gains first strike until end of turn."
 msgstr ""
 "Batalion — Ilekroć ten stwór zaatakuje wraz z co najmniej dwoma innymi "
-"stworami, niniejszy stwór zyskuje do końca tury pierwszy cios."
+"stworami, niniejszy stwór do końca tury zyskuje pierwszy cios."
 
 #: ../../GTC.rst:1118
 msgid ""
@@ -3776,7 +3776,7 @@ msgid ""
 "attacking creature gets +5/+4 until end of turn."
 msgstr ""
 "Zew krwi — |mana_1|\\ |mana_r|\\ |mana_g|, odrzuć tę kartę: Wskazany "
-"atakujący stwór dostaje do końca tury +5/+4."
+"atakujący stwór do końca tury dostaje +5/+4."
 
 #: ../../GTC.rst:1126
 msgid ""
@@ -3857,7 +3857,7 @@ msgstr ""
 # 6b12e084605d41d5acb3f8d6c0887d90
 #: ../../GTC.rst:1143
 msgid "|mana_rw|: Boros Reckoner gains first strike until end of turn."
-msgstr "|mana_rw|: Ten stwór zyskuje do końca tury pierwszy cios."
+msgstr "|mana_rw|: Ten stwór do końca tury zyskuje pierwszy cios."
 
 #: ../../GTC.rst:1148
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-22 09:12+0200\n"
-"PO-Revision-Date: 2022-04-24 19:45+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/pcy/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.10.1\n"
+"X-Generator: Weblate 4.13.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../symbols.rst:3
@@ -596,7 +596,7 @@ msgstr ""
 msgid ""
 "|mana_w|\\ |mana_w|: Target attacking creature gets -1/-0 until end of turn."
 msgstr ""
-"|mana_w|\\ |mana_w|: Wskazany atakujący stwór dostaje do końca tury -1/-0."
+"|mana_w|\\ |mana_w|: Wskazany atakujący stwór do końca tury dostaje -1/-0."
 
 #: ../../PCY.rst:134
 msgid ""
@@ -671,7 +671,7 @@ msgstr ""
 
 #: ../../PCY.rst:159
 msgid "Sacrifice a land: Coastal Hornclaw gains flying until end of turn."
-msgstr "Poświęć ląd: Ten stwór zyskuje do końca tury latanie."
+msgstr "Poświęć ląd: Ten stwór do końca tury zyskuje latanie."
 
 #: ../../PCY.rst:164
 msgid ""
@@ -1346,8 +1346,8 @@ msgid ""
 "Target creature gets +1/+1 until end of turn. Another target creature gets "
 "-1/-1 until end of turn."
 msgstr ""
-"Wskazany stwór dostaje do końca tury +1/+1. Inny wskazany stwór dostaje do "
-"końca tury -1/-1."
+"Wskazany stwór do końca tury dostaje +1/+1. Inny wskazany stwór do końca "
+"tury dostaje -1/-1."
 
 #: ../../PCY.rst:400
 msgid ""
@@ -1392,7 +1392,7 @@ msgstr ""
 
 #: ../../PCY.rst:411
 msgid "|mana_r|: Avatar of Fury gets +1/+0 until end of turn."
-msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_r|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../PCY.rst:418
 msgid ""
@@ -1623,7 +1623,7 @@ msgstr ""
 
 #: ../../PCY.rst:493
 msgid "|mana_r|: Ridgeline Rager gets +1/+0 until end of turn."
-msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_r|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../PCY.rst:498
 msgid ""
@@ -1718,7 +1718,7 @@ msgid ""
 "|mana_r|: Target creature gains haste until end of turn. (It can attack this "
 "turn.)"
 msgstr ""
-"|mana_r|: Wskazany stwór zyskuje do końca tury pośpiech. (Może atakować w "
+"|mana_r|: Wskazany stwór do końca tury zyskuje pośpiech. (Może atakować w "
 "tej turze.)"
 
 #: ../../PCY.rst:532

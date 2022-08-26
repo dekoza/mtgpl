@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-22 09:12+0200\n"
-"PO-Revision-Date: 2022-04-24 19:45+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mir/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.10.1\n"
+"X-Generator: Weblate 4.13.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../symbols.rst:3
@@ -512,7 +512,7 @@ msgid ""
 "blocking creature gets -1/-1 until end of turn.)"
 msgstr ""
 "Flankowanie (Ilekroć stwór bez flankowania blokuje tego stwora, blokujący "
-"stwór dostaje do końca tury -1/-1.)"
+"stwór do końca tury dostaje -1/-1.)"
 
 #: ../../MIR.rst:95
 msgid "|mana_w|: Femeref Knight gains vigilance until end of turn."
@@ -754,7 +754,7 @@ msgstr ""
 
 #: ../../MIR.rst:181
 msgid "|mana_1|\\ |mana_w|: Pearl Dragon gets +0/+1 until end of turn."
-msgstr "|mana_1|\\ |mana_w|: Ten stwór dostaje do końca tury +0/+1."
+msgstr "|mana_1|\\ |mana_w|: Ten stwór do końca tury dostaje +0/+1."
 
 #: ../../MIR.rst:190
 msgid ""
@@ -1072,7 +1072,7 @@ msgid ""
 "|mana_u|: Azimaet Drake gets +1/+0 until end of turn. Activate only once "
 "each turn."
 msgstr ""
-"|mana_u|: Ten stwór dostaje do końca tury +1/+0. Możesz aktywować tylko raz "
+"|mana_u|: Ten stwór do końca tury dostaje +1/+0. Możesz aktywować tylko raz "
 "na turę."
 
 #: ../../MIR.rst:308
@@ -1317,7 +1317,7 @@ msgid ""
 "|mana_1|\\ |mana_u|\\ |mana_u|: Target creature gains flying until end of "
 "turn."
 msgstr ""
-"|mana_1|\\ |mana_u|\\ |mana_u|: Wskazany stwór zyskuje do końca tury latanie."
+"|mana_1|\\ |mana_u|\\ |mana_u|: Wskazany stwór do końca tury zyskuje latanie."
 
 #: ../../MIR.rst:394
 msgid ""
@@ -1629,7 +1629,7 @@ msgstr ""
 
 #: ../../MIR.rst:487
 msgid "Target creature gains flying until end of turn."
-msgstr "Wskazany stwór zyskuje do końca tury latanie."
+msgstr "Wskazany stwór do końca tury zyskuje latanie."
 
 #: ../../MIR.rst:489
 msgid ""
@@ -1901,12 +1901,12 @@ msgstr ""
 
 #: ../../MIR.rst:597
 msgid "|tap|, Sacrifice a Swamp: Target creature gets +1/+1 until end of turn."
-msgstr "|tap|, poświęć Bagno: Wskazany stwór dostaje do końca tury +1/+1."
+msgstr "|tap|, poświęć Bagno: Wskazany stwór do końca tury dostaje +1/+1."
 
 #: ../../MIR.rst:599
 msgid ""
 "|tap|, Sacrifice a creature: Target creature gets +2/+2 until end of turn."
-msgstr "|tap|, poświęć stwora: Wskazany stwór dostaje do końca tury +2/+2."
+msgstr "|tap|, poświęć stwora: Wskazany stwór do końca tury dostaje +2/+2."
 
 #: ../../MIR.rst:606
 msgid ""
@@ -2394,8 +2394,8 @@ msgid ""
 "creature gains haste until end of turn. Exile it at the beginning of the "
 "next end step."
 msgstr ""
-"Przywróć wierzchnią kartę twojego cmentarza na pole bitwy. Ów stwór zyskuje "
-"do końca tury pośpiech. Wygnaj go na początku najbliższego kroku końcowego."
+"Przywróć wierzchnią kartę twojego cmentarza na pole bitwy. Ów stwór do końca "
+"tury zyskuje pośpiech. Wygnaj go na początku najbliższego kroku końcowego."
 
 #: ../../MIR.rst:784
 msgid ""
@@ -2877,7 +2877,7 @@ msgstr ""
 
 #: ../../MIR.rst:961
 msgid "|mana_r|: Enchanted creature gets +1/+0 until end of turn."
-msgstr "|mana_r|: Zauroczony stwór dostaje do końca tury +1/+0."
+msgstr "|mana_r|: Zauroczony stwór do końca tury dostaje +1/+0."
 
 #: ../../MIR.rst:966
 msgid ""
@@ -2915,7 +2915,7 @@ msgid ""
 "Whenever Goblin Elite Infantry blocks or becomes blocked, it gets -1/-1 "
 "until end of turn."
 msgstr ""
-"Ilekroć ten stwór zablokuje lub zostanie zablokowany, dostaje do końca tury "
+"Ilekroć ten stwór zablokuje lub zostanie zablokowany, do końca tury dostaje "
 "-1/-1."
 
 #: ../../MIR.rst:980
@@ -3283,7 +3283,7 @@ msgstr "Ochrona przed białym"
 
 #: ../../MIR.rst:1105
 msgid "|mana_1|\\ |mana_r|: Wildfire Emissary gets +1/+0 until end of turn."
-msgstr "|mana_1|\\ |mana_r|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_1|\\ |mana_r|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../MIR.rst:1110
 msgid ""
@@ -3487,7 +3487,7 @@ msgstr ""
 
 #: ../../MIR.rst:1177
 msgid "|mana_g|, Sacrifice a Forest: Foratog gets +2/+2 until end of turn."
-msgstr "|mana_g|, poświęć Las: Ten stwór dostaje do końca tury +2/+2."
+msgstr "|mana_g|, poświęć Las: Ten stwór do końca tury dostaje +2/+2."
 
 #: ../../MIR.rst:1182
 msgid ""
@@ -3817,7 +3817,7 @@ msgstr ""
 
 #: ../../MIR.rst:1299
 msgid "Target creature gains trample until end of turn."
-msgstr "Wskazany stwór zyskuje do końca tury tratowanie."
+msgstr "Wskazany stwór do końca tury zyskuje tratowanie."
 
 #: ../../MIR.rst:1304
 msgid ""
@@ -3942,7 +3942,7 @@ msgid ""
 "|mana_1|\\ |mana_g|\\ |mana_g|: Target creature gains forestwalk until end "
 "of turn."
 msgstr ""
-"|mana_1|\\ |mana_g|\\ |mana_g|: Wskazany stwór zyskuje do końca tury podbój "
+"|mana_1|\\ |mana_g|\\ |mana_g|: Wskazany stwór do końca tury zyskuje podbój "
 "lasów."
 
 #: ../../MIR.rst:1346
@@ -4857,7 +4857,7 @@ msgstr ""
 
 #: ../../MIR.rst:1669
 msgid "|mana_3|: Patagia Golem gains flying until end of turn."
-msgstr "|mana_3|: Ten stwór zyskuje do końca tury latanie."
+msgstr "|mana_3|: Ten stwór do końca tury zyskuje latanie."
 
 #: ../../MIR.rst:1674
 msgid ""

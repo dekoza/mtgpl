@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-25 14:27+0200\n"
-"PO-Revision-Date: 2022-04-18 17:53+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/eld/pl/>\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.10.1\n"
+"X-Generator: Weblate 4.13.1\n"
 
 #: ../../symbols.rst:3
 msgid "{C}"
@@ -469,7 +469,7 @@ msgid ""
 "Target creature gets +2/+1 and gains flying until end of turn. (Then exile "
 "this card. You may cast the creature later from exile.)"
 msgstr ""
-"Wskazany stwór dostaje do końca tury +2/+1 oraz latanie. (Następnie wygnaj "
+"Wskazany stwór do końca tury dostaje +2/+1 oraz latanie. (Następnie wygnaj "
 "tę kartę. Możesz później rzucić z niej stwora z wygnania.)"
 
 #: ../../ELD.rst:82
@@ -747,7 +747,7 @@ msgstr ""
 
 #: ../../ELD.rst:169
 msgid "Target blocking creature gets +7/+7 until end of turn."
-msgstr "Wskazany blokujący stwór dostaje do końca tury +7/+7."
+msgstr "Wskazany blokujący stwór do końca tury dostaje +7/+7."
 
 #: ../../ELD.rst:172
 msgid ""
@@ -843,7 +843,7 @@ msgid ""
 "Target creature gets +2/+2 until end of turn. Untap it. (Then exile this "
 "card. You may cast the creature later from exile.)"
 msgstr ""
-"Wskazany stwór dostaje do końca tury +2/+2. Odkręć go. (Następnie wygnaj tę "
+"Wskazany stwór do końca tury dostaje +2/+2. Odkręć go. (Następnie wygnaj tę "
 "kartę. Możesz później rzucić z niej stwora z wygnania.)"
 
 #: ../../ELD.rst:208
@@ -1476,8 +1476,8 @@ msgid ""
 "Whenever you draw your second card each turn, Steelgaze Griffin gets +2/+0 "
 "until end of turn."
 msgstr ""
-"Ilekroć dobierzesz swoją drugą kartę w danej turze, ten stwór dostaje do "
-"końca tury +2/+0."
+"Ilekroć dobierzesz swoją drugą kartę w danej turze, ten stwór do końca tury "
+"dostaje +2/+0."
 
 #: ../../ELD.rst:424
 msgid ""
@@ -1735,7 +1735,7 @@ msgid ""
 "When Blacklance Paragon enters the battlefield, target Knight gains "
 "deathtouch and lifelink until end of turn."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, wskazany Rycerz zyskuje do końca tury "
+"Kiedy ten byt wejdzie na pole bitwy, wskazany Rycerz do końca tury zyskuje "
 "dotyk śmierci i więź życia."
 
 #: ../../ELD.rst:510
@@ -1750,8 +1750,8 @@ msgid ""
 "|mana_2|\\ |mana_b|, Sacrifice a Food: Target creature gets -3/-3 until end "
 "of turn."
 msgstr ""
-"|mana_2|\\ |mana_b|, poświęć Jadło: Wskazany stwór dostaje do końca tury "
-"-3/-3."
+"|mana_2|\\ |mana_b|, poświęć Jadło: Wskazany stwór do końca tury dostaje -3/"
+"-3."
 
 #: ../../ELD.rst:516
 msgid ""
@@ -1908,7 +1908,7 @@ msgid ""
 "Target creature gets -X/-X until end of turn, where X is the number of cards "
 "in your graveyard."
 msgstr ""
-"Wskazany stwór dostaje do końca tury -X/-X, gdzie X jest liczbą kart w twoim "
+"Wskazany stwór do końca tury dostaje -X/-X, gdzie X jest liczbą kart w twoim "
 "cmentarzu."
 
 #: ../../ELD.rst:566
@@ -2005,7 +2005,7 @@ msgstr ""
 
 #: ../../ELD.rst:591
 msgid "Target creature gets +2/+1 and gains deathtouch until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +2/+1 oraz dotyk śmierci."
+msgstr "Wskazany stwór do końca tury dostaje +2/+1 oraz dotyk śmierci."
 
 #: ../../ELD.rst:598
 msgid ""
@@ -2215,7 +2215,7 @@ msgid ""
 "in hand, it gains flying until end of turn."
 msgstr ""
 "Ilekroć ten stwór zaatakuje, jeśli broniący się gracz ma co najwyżej dwie "
-"karty w ręce, ten stwór zyskuje do końca tury latanie."
+"karty w ręce, ten stwór do końca tury zyskuje latanie."
 
 #: ../../ELD.rst:666
 msgid ""
@@ -2402,7 +2402,7 @@ msgid ""
 "Target attacking creature gets +2/+2 until end of turn. Each attacking non-"
 "Human creature gains trample until end of turn."
 msgstr ""
-"Wskazany atakujący stwór dostaje do końca tury +2/+2. Każdy atakujący stwór "
+"Wskazany atakujący stwór do końca tury dostaje +2/+2. Każdy atakujący stwór "
 "bez typu Człowiek, zyskuje tratowanie do końca tury."
 
 #: ../../ELD.rst:720
@@ -2417,8 +2417,8 @@ msgid ""
 "Whenever you draw your second card each turn, Bloodhaze Wolverine gets +1/+1 "
 "and gains first strike until end of turn."
 msgstr ""
-"Ilekroć dobierzesz swoją drugą kartę w danej turze, ten stwór dostaje do "
-"końca tury +1/+1 oraz pierwszy cios."
+"Ilekroć dobierzesz swoją drugą kartę w danej turze, ten stwór do końca tury "
+"dostaje +1/+1 oraz pierwszy cios."
 
 #: ../../ELD.rst:724
 msgid ""
@@ -2500,7 +2500,7 @@ msgid ""
 "control gets +2/+2 and gains trample and haste until end of turn."
 msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, inny wskazany Rycerz pod twoim "
-"władaniem dostaje do końca tury +2/+2 oraz tratowanie i pośpiech."
+"władaniem do końca tury dostaje +2/+2 oraz tratowanie i pośpiech."
 
 #: ../../ELD.rst:750
 msgid ""
@@ -2640,7 +2640,7 @@ msgid ""
 "control gets +1/+0 until end of turn."
 msgstr ""
 "Ilekroć ten stwór zaatakuje, inny wskazany atakujący Rycerz pod twoim "
-"władaniem dostaje do końca tury +1/+0."
+"władaniem do końca tury dostaje +1/+0."
 
 #: ../../ELD.rst:793
 msgid ""
@@ -2739,7 +2739,7 @@ msgid ""
 "the other.)"
 msgstr ""
 "Wybierz wskazanego stwora pod twoim władaniem i wskazanego stwora poza twoim "
-"władaniem. Stwór pod twoim władaniem dostaje do końca tury +2/+1 jeśli jest "
+"władaniem. Stwór pod twoim władaniem do końca tury dostaje +2/+1 jeśli jest "
 "Rycerzem. Następnie owe stwory walczą ze sobą. (Każdy zadaje drugiemu "
 "obrażenia równe swojej sile.)"
 
@@ -2860,7 +2860,7 @@ msgid ""
 "end of turn."
 msgstr ""
 "Ilekroć ten stwór zaatakuje, możesz odkręcić przekręconego stwora bez typu "
-"Człowiek. Jeśli tak zrobisz, niniejszy stwór dostaje do końca tury +1/+1 i "
+"Człowiek. Jeśli tak zrobisz, niniejszy stwór do końca tury dostaje +1/+1 i "
 "tratowanie."
 
 #: ../../ELD.rst:862
@@ -2888,7 +2888,7 @@ msgid ""
 "Target creature gets +2/+0 until end of turn. (Then exile this card. You may "
 "cast the creature later from exile.)"
 msgstr ""
-"Wskazany stwór dostaje do końca tury +2/+0. (Następnie wygnaj tę kartę. "
+"Wskazany stwór do końca tury dostaje +2/+0. (Następnie wygnaj tę kartę. "
 "Możesz później rzucić z niej stwora z wygnania.)"
 
 #: ../../ELD.rst:872
@@ -3082,7 +3082,7 @@ msgstr ""
 
 #: ../../ELD.rst:921
 msgid "|mana_1|\\ |mana_r|: Weaselback Redcap gets +2/+0 until end of turn."
-msgstr "|mana_1|\\ |mana_r|: Ten stwór dostaje do końca tury +2/+0."
+msgstr "|mana_1|\\ |mana_r|: Ten stwór do końca tury dostaje +2/+0."
 
 #: ../../ELD.rst:926
 msgid ""
@@ -3277,7 +3277,7 @@ msgid ""
 "Target creature gets +2/+2 until end of turn. (Then exile this card. You may "
 "cast the creature later from exile.)"
 msgstr ""
-"Wskazany stwór dostaje do końca tury +2/+2. (Następnie wygnaj tę kartę. "
+"Wskazany stwór do końca tury dostaje +2/+2. (Następnie wygnaj tę kartę. "
 "Możesz później rzucić z niej stwora z wygnania.)"
 
 #: ../../ELD.rst:982
@@ -3312,8 +3312,8 @@ msgid ""
 "gets +1/+1 until end of turn. (It doesn't need to have gone on the adventure "
 "first.)"
 msgstr ""
-"Ilekroć rzucisz czar stwora mającego Przygodę, niniejszy stwór dostaje do "
-"końca tury +1/+1. (Nie musiał najpierw odbyć przygody.)"
+"Ilekroć rzucisz czar stwora mającego Przygodę, niniejszy stwór do końca tury "
+"dostaje +1/+1. (Nie musiał najpierw odbyć przygody.)"
 
 #: ../../ELD.rst:990
 msgid ""
@@ -3395,8 +3395,8 @@ msgid ""
 "You may sacrifice a Food. If you do, target creature gets +5/+5 until end of "
 "turn. Otherwise, that creature gets +3/+3 until end of turn."
 msgstr ""
-"Możesz poświęcić Jadło. Jeśli tak zrobisz, wskazany stwór dostaje do końca "
-"tury +5/+5. W przeciwnym razie ów stwór dostaje do końca tury +3/+3."
+"Możesz poświęcić Jadło. Jeśli tak zrobisz, wskazany stwór do końca tury "
+"dostaje +5/+5. W przeciwnym razie ów stwór do końca tury dostaje +3/+3."
 
 #: ../../ELD.rst:1016
 msgid ""
@@ -3569,7 +3569,7 @@ msgid ""
 "creature you control gains indestructible until end of turn."
 msgstr ""
 "Nieugiętość — Jeśli na rzucenie tego czaru wydano co najmniej trzy zielone "
-"many, ów stwór pod twoim władaniem zyskuje do końca tury niezniszczalność."
+"many, ów stwór pod twoim władaniem do końca tury zyskuje niezniszczalność."
 
 #: ../../ELD.rst:1072
 msgid ""
@@ -3720,8 +3720,8 @@ msgid ""
 "Whenever Syr Faren, the Hengehammer attacks, another target attacking "
 "creature gets +X/+X until end of turn, where X is Syr Faren's power."
 msgstr ""
-"Ilekroć ten stwór zaatakuje, inny wskazany atakujący stwór dostaje do końca "
-"tury +X/+X, gdzie X jest siłą niniejszego stwora."
+"Ilekroć ten stwór zaatakuje, inny wskazany atakujący stwór do końca tury "
+"dostaje +X/+X, gdzie X jest siłą niniejszego stwora."
 
 #: ../../ELD.rst:1120
 msgid ""
@@ -3841,7 +3841,7 @@ msgid ""
 "Human creature, Wildwood Tracker gets +1/+1 until end of turn."
 msgstr ""
 "Ilekroć ten stwór zaatakuje lub zablokuje, jeśli władasz innym stworem bez "
-"typu Człowiek, niniejszy stwór dostaje do końca tury +1/+1."
+"typu Człowiek, niniejszy stwór do końca tury dostaje +1/+1."
 
 #: ../../ELD.rst:1156
 msgid ""
@@ -4172,7 +4172,7 @@ msgid ""
 "+1: Target creature gets +2/+0 and gains first strike and trample until end "
 "of turn."
 msgstr ""
-"+1: Wskazany stwór dostaje do końca tury +2/+0 oraz pierwszy cios i "
+"+1: Wskazany stwór do końca tury dostaje +2/+0 oraz pierwszy cios i "
 "tratowanie."
 
 #: ../../ELD.rst:1255
@@ -4288,9 +4288,9 @@ msgid ""
 "gains indestructible until end of turn. (Damage and effects that say "
 "\"destroy\" don't destroy it.)"
 msgstr ""
-"Ilekroć ten stwór zaatakuje, inny wskazany Rycerz pod twoim władaniem "
-"zyskuje do końca tury niezniszczalność. (Obrażenia i efekty mówiące \"zniszcz"
-"\" nie niszczą go.)"
+"Ilekroć ten stwór zaatakuje, inny wskazany Rycerz pod twoim władaniem do "
+"końca tury zyskuje niezniszczalność. (Obrażenia i efekty mówiące \"zniszcz\" "
+"nie niszczą go.)"
 
 #: ../../ELD.rst:1302
 msgid ""
@@ -4371,8 +4371,8 @@ msgid ""
 "|mana_rw|\\ |mana_rw|\\ |mana_rw|\\ |mana_rw|: Fireborn Knight gets +1/+1 "
 "until end of turn."
 msgstr ""
-"|mana_rw|\\ |mana_rw|\\ |mana_rw|\\ |mana_rw|: Ten stwór dostaje do końca "
-"tury +1/+1."
+"|mana_rw|\\ |mana_rw|\\ |mana_rw|\\ |mana_rw|: Ten stwór do końca tury "
+"dostaje +1/+1."
 
 #: ../../ELD.rst:1330
 msgid ""
@@ -4602,7 +4602,7 @@ msgstr ""
 
 #: ../../ELD.rst:1405
 msgid "|mana_3|: Jousting Dummy gets +1/+0 until end of turn."
-msgstr "|mana_3|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_3|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../ELD.rst:1410
 msgid ""
@@ -4614,7 +4614,7 @@ msgstr ""
 #: ../../ELD.rst:1409
 msgid ""
 "|mana_4|: Locthwain Gargoyle gets +2/+0 and gains flying until end of turn."
-msgstr "|mana_4|: Ten stwór dostaje do końca tury +2/+0 oraz latanie."
+msgstr "|mana_4|: Ten stwór do końca tury dostaje +2/+0 oraz latanie."
 
 #: ../../ELD.rst:1414
 msgid ""
@@ -4660,7 +4660,7 @@ msgid ""
 "|mana_7|: Roving Keep gets +2/+0 and gains trample until end of turn. It can "
 "attack this turn as though it didn't have defender."
 msgstr ""
-"|mana_7|: Ten stwór dostaje do końca tury +2/+0 oraz tratowanie. Może "
+"|mana_7|: Ten stwór do końca tury dostaje +2/+0 oraz tratowanie. Może "
 "zaatakować w tej turze tak, jakby nie miał obronności."
 
 #: ../../ELD.rst:1428
@@ -5170,7 +5170,7 @@ msgid ""
 "+1: Up to one target creature gets +3/+0 and gains first strike until end of "
 "turn."
 msgstr ""
-"+1: Co najwyżej jeden wskazany stwór dostaje do końca tury +3/+0 i pierwszy "
+"+1: Co najwyżej jeden wskazany stwór do końca tury dostaje +3/+0 i pierwszy "
 "cios."
 
 #: ../../ELD.rst:1597
@@ -5201,8 +5201,8 @@ msgid ""
 "Whenever Garrison Griffin attacks, target Knight you control gains flying "
 "until end of turn."
 msgstr ""
-"Ilekroć ten stwór zaatakuje, wskazany Rycerz pod twoim władaniem zyskuje do "
-"końca tury latanie."
+"Ilekroć ten stwór zaatakuje, wskazany Rycerz pod twoim władaniem do końca "
+"tury zyskuje latanie."
 
 #: ../../ELD.rst:1612
 msgid ""
@@ -5457,8 +5457,8 @@ msgid ""
 "|mana_1|\\ |mana_b|, Sacrifice a creature: Target creature gets -2/-2 until "
 "end of turn."
 msgstr ""
-"|mana_1|\\ |mana_b|, poświęć stwora: Wskazany stwór dostaje do końca tury "
-"-2/-2."
+"|mana_1|\\ |mana_b|, poświęć stwora: Wskazany stwór do końca tury dostaje -2/"
+"-2."
 
 #: ../../ELD.rst:1698
 msgid ""
@@ -5626,8 +5626,8 @@ msgid ""
 "|mana_1|\\ |mana_g|, Sacrifice another nonland permanent: Gluttonous Troll "
 "gets +2/+2 until end of turn."
 msgstr ""
-"|mana_1|\\ |mana_g|, poświęć inny nie-lądowy byt: Ten stwór dostaje do końca "
-"tury +2/+2."
+"|mana_1|\\ |mana_g|, poświęć inny nie-lądowy byt: Ten stwór do końca tury "
+"dostaje +2/+2."
 
 #: ../../ELD.rst:1752
 msgid ""

@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-06-21 00:16+0200\n"
-"PO-Revision-Date: 2022-06-25 15:11+0000\n"
+"PO-Revision-Date: 2022-08-26 21:05+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/cmr/pl/>\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.12.1\n"
+"X-Generator: Weblate 4.13.1\n"
 
 #: ../../symbols.rst:3
 msgid "{C}"
@@ -2062,7 +2062,7 @@ msgstr ""
 
 #: ../../CMR.rst:641
 msgid "Target creature gains deathtouch until end of turn."
-msgstr "Wskazany stwór zyskuje do końca tury dotyk śmierci."
+msgstr "Wskazany stwór do końca tury zyskuje dotyk śmierci."
 
 #: ../../CMR.rst:650
 msgid ""
@@ -2273,7 +2273,7 @@ msgid ""
 "controls gets -1/-1 until end of turn."
 msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, wskazany stwór pod władaniem "
-"przeciwnika dostaje do końca tury -1/-1."
+"przeciwnika do końca tury dostaje -1/-1."
 
 #: ../../CMR.rst:714
 msgid ""
@@ -3044,7 +3044,7 @@ msgid ""
 "\"|mana_r|: This creature gets +1/+0 until end of turn.\""
 msgstr ""
 "Kiedy ten stwór umrze, stwórz żeton czerwonego stwora Smok 2/2 z lataniem "
-"mającego \"|mana_r|: Ten stwór dostaje do końca tury +1/+0.\""
+"mającego \"|mana_r|: Ten stwór do końca tury dostaje +1/+0.\""
 
 #: ../../CMR.rst:1002
 msgid ""
@@ -3062,7 +3062,7 @@ msgid ""
 "Enchanted creature has \"|mana_r|: This creature gets +1/+0 until end of "
 "turn.\""
 msgstr ""
-"Zauroczony stwór ma \"|mana_r|: Ten stwór dostaje do końca tury +1/+0.\""
+"Zauroczony stwór ma \"|mana_r|: Ten stwór do końca tury dostaje +1/+0.\""
 
 #: ../../CMR.rst:1008
 msgid ""
@@ -4095,8 +4095,8 @@ msgid ""
 "Whenever an artifact is put into a graveyard from the battlefield, Molder "
 "Beast gets +2/+0 until end of turn."
 msgstr ""
-"Ilekroć artefakt trafi do cmentarza z pola bitwy, ten stwór dostaje do końca "
-"tury +2/+0."
+"Ilekroć artefakt trafi do cmentarza z pola bitwy, ten stwór do końca tury "
+"dostaje +2/+0."
 
 #: ../../CMR.rst:1386
 msgid ""
@@ -4396,7 +4396,7 @@ msgstr ""
 #: ../../CMR.rst:1489
 msgid ""
 "|mana_8|: Target creature gets +5/+5 and gains trample until end of turn."
-msgstr "|mana_8|: Wskazany stwór dostaje do końca tury +5/+5 i tratowanie."
+msgstr "|mana_8|: Wskazany stwór do końca tury dostaje +5/+5 i tratowanie."
 
 #: ../../CMR.rst:1496
 msgid ""
@@ -4407,7 +4407,7 @@ msgstr ""
 
 #: ../../CMR.rst:1493
 msgid "Target creature gets +2/+2 and gains trample until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +2/+2 i tratowanie."
+msgstr "Wskazany stwór do końca tury dostaje +2/+2 i tratowanie."
 
 #: ../../CMR.rst:1502
 msgid ""
@@ -5198,14 +5198,14 @@ msgstr ""
 
 #: ../../CMR.rst:1765
 msgid "|mana_2|: Target artifact creature gets +1/+1 until end of turn."
-msgstr "|mana_2|: Wskazany artefaktowy stwór dostaje do końca tury +1/+1."
+msgstr "|mana_2|: Wskazany artefaktowy stwór do końca tury dostaje +1/+1."
 
 #: ../../CMR.rst:1767
 msgid ""
 "|mana_2|: Target artifact creature gains your choice of flying, trample, or "
 "haste until end of turn."
 msgstr ""
-"|mana_2|: Wskazany artefaktowy stwór zyskuje do końca tury zdolność wybraną "
+"|mana_2|: Wskazany artefaktowy stwór do końca tury zyskuje zdolność wybraną "
 "przez cienie spośród latania, tratowania i pośpiechu."
 
 #: ../../CMR.rst:1776
@@ -6392,7 +6392,7 @@ msgid ""
 "Target creature gains indestructible until end of turn. (Damage and effects "
 "that say \"destroy\" don't destroy it.)"
 msgstr ""
-"Wskazany stwór zyskuje do końca tury niezniszczalność. (Obrażenia i efekty "
+"Wskazany stwór do końca tury zyskuje niezniszczalność. (Obrażenia i efekty "
 "mówiące \"zniszcz\" nie niszczą go.)"
 
 #: ../../CMR.rst:2211
@@ -6860,14 +6860,14 @@ msgstr ""
 
 #: ../../CMR.rst:2361 ../../CMR.rst:2491
 msgid "Target creature gains double strike until end of turn."
-msgstr "Wskazany stwór zyskuje do końca tury podwójny cios."
+msgstr "Wskazany stwór do końca tury zyskuje podwójny cios."
 
 #: ../../CMR.rst:2363
 msgid ""
 "Ferocious — That creature also gains trample until end of turn if you "
 "control a creature with power 4 or greater."
 msgstr ""
-"Zaciekłość — Ów stwór zyskuje do końca tury także tratowanie jeśli władasz "
+"Zaciekłość — Ów stwór do końca tury zyskuje także tratowanie jeśli władasz "
 "stworem o sile 4 lub większej."
 
 #: ../../CMR.rst:2370
@@ -7452,7 +7452,7 @@ msgstr ""
 
 #: ../../CMR.rst:2545
 msgid "Target creature gets +3/+3 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +3/+3."
+msgstr "Wskazany stwór do końca tury dostaje +3/+3."
 
 #: ../../CMR.rst:2547
 msgid "Permanents you control gain hexproof until end of turn."
@@ -8059,7 +8059,7 @@ msgid ""
 "|mana_r|\\ |mana_w|, |tap|: Target creature gets +2/+0 and gains vigilance "
 "and haste until end of turn."
 msgstr ""
-"|mana_r|\\ |mana_w|, |tap|: Wskazany stwór dostaje do końca tury +2/+0, "
+"|mana_r|\\ |mana_w|, |tap|: Wskazany stwór do końca tury dostaje +2/+0, "
 "czujność i pośpiech."
 
 #: ../../CMR.rst:2802
@@ -8086,7 +8086,7 @@ msgid ""
 "|mana_2|\\ |mana_r|\\ |mana_w|, |tap|: Target creature gains double strike "
 "until end of turn."
 msgstr ""
-"|mana_2|\\ |mana_r|\\ |mana_w|, |tap|: Wskazany stwór zyskuje do końca tury "
+"|mana_2|\\ |mana_r|\\ |mana_w|, |tap|: Wskazany stwór do końca tury zyskuje "
 "podwójny cios."
 
 #: ../../CMR.rst:2816
@@ -8296,7 +8296,7 @@ msgid ""
 "turn."
 msgstr ""
 "Ilekroć ten stwór wejdzie na pole bitwy lub zaatakuje, wskazany stwór pod "
-"twoim władaniem zyskuje do końca tury podwójny cios i więź życia."
+"twoim władaniem do końca tury zyskuje podwójny cios i więź życia."
 
 #: ../../CMR.rst:2904
 msgid ""
@@ -8552,7 +8552,7 @@ msgstr ""
 msgid ""
 "Sacrifice another creature: Prossh, Skyraider of Kher gets +1/+0 until end "
 "of turn."
-msgstr "Poświęć innego stwora: Niniejszy stwór dostaje do końca tury +1/+0."
+msgstr "Poświęć innego stwora: Niniejszy stwór do końca tury dostaje +1/+0."
 
 #: ../../CMR.rst:2998
 msgid ""
@@ -8653,7 +8653,7 @@ msgid ""
 "blocking creature gets -1/-1 until end of turn.)"
 msgstr ""
 "Flankowanie (Ilekroć stwór bez flankowania blokuje tego stwora, blokujący "
-"stwór dostaje do końca tury -1/-1.)"
+"stwór do końca tury dostaje -1/-1.)"
 
 #: ../../CMR.rst:3029
 msgid ""
@@ -8766,7 +8766,7 @@ msgid ""
 "power."
 msgstr ""
 "Na początku potyczki w twojej turze, inny wskazany stwór pod twoim władaniem "
-"dostaje do końca tury pośpiech oraz +X/+X, gdzie X jest siłą owego stwora."
+"do końca tury dostaje pośpiech oraz +X/+X, gdzie X jest siłą owego stwora."
 
 #: ../../CMR.rst:3082
 msgid ""

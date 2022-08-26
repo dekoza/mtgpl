@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-22 09:12+0200\n"
-"PO-Revision-Date: 2022-04-17 16:43+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/m13/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.10.1\n"
+"X-Generator: Weblate 4.13.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../symbols.rst:3
@@ -251,7 +251,7 @@ msgstr "+1: Umieść znacznik +1/+1 na co najwyżej jednym wskazanym stworze."
 
 #: ../../M13.rst:11
 msgid "−3: Target creature gains flying and double strike until end of turn."
-msgstr "–3: Wskazany stwór zyskuje do końca tury latanie oraz podwójny cios."
+msgstr "–3: Wskazany stwór do końca tury zyskuje latanie oraz podwójny cios."
 
 #: ../../M13.rst:13
 msgid "−8: Create X 2/2 white Cat creature tokens, where X is your life total."
@@ -353,7 +353,7 @@ msgid ""
 "When Battleflight Eagle enters the battlefield, target creature gets +2/+2 "
 "and gains flying until end of turn."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór dostaje do końca tury +2/"
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór do końca tury dostaje +2/"
 "+2 i latanie."
 
 #: ../../M13.rst:54
@@ -486,7 +486,7 @@ msgid ""
 "Protector gets +1/+1 until end of turn."
 msgstr ""
 "Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, niniejszy "
-"stwór dostaje do końca tury +1/+1."
+"stwór do końca tury dostaje +1/+1."
 
 #: ../../M13.rst:96
 msgid ""
@@ -636,7 +636,7 @@ msgid ""
 "|mana_g|: Prized Elephant gains trample until end of turn. (It can deal "
 "excess combat damage to the player or planeswalker it's attacking.)"
 msgstr ""
-"|mana_g|: Ten stwór zyskuje do końca tury tratowanie. (Może zadać nadwyżkę "
+"|mana_g|: Ten stwór do końca tury zyskuje tratowanie. (Może zadać nadwyżkę "
 "obrażeń bojowych atakowanemu graczowi lub wędrowcowi.)"
 
 #: ../../M13.rst:152
@@ -730,7 +730,7 @@ msgstr ""
 
 #: ../../M13.rst:181
 msgid "Target creature gets +2/+4 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +2/+4."
+msgstr "Wskazany stwór do końca tury dostaje +2/+4."
 
 #: ../../M13.rst:184
 msgid ""
@@ -831,7 +831,7 @@ msgid ""
 "|mana_w|: Arctic Aven gains lifelink until end of turn. (Damage dealt by "
 "this creature also causes you to gain that much life.)"
 msgstr ""
-"|mana_w|: Ten stwór zyskuje do końca tury więź życia. (Obrażenia zadane "
+"|mana_w|: Ten stwór do końca tury zyskuje więź życia. (Obrażenia zadane "
 "przez tego stwora powodują, że syskujesz tyle samo żyć.)"
 
 #: ../../M13.rst:228
@@ -1010,7 +1010,7 @@ msgstr ""
 
 #: ../../M13.rst:281
 msgid "Target creature gets -5/-0 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -5/-0."
+msgstr "Wskazany stwór do końca tury dostaje -5/-0."
 
 #: ../../M13.rst:286
 msgid ""
@@ -1317,7 +1317,7 @@ msgstr ""
 
 #: ../../M13.rst:391
 msgid "|mana_u|: Watercourser gets +1/-1 until end of turn."
-msgstr "|mana_u|: Ten stwór dostaje do końca tury +1/-1."
+msgstr "|mana_u|: Ten stwór do końca tury dostaje +1/-1."
 
 #: ../../M13.rst:398
 msgid ""
@@ -1384,7 +1384,7 @@ msgstr ""
 
 #: ../../M13.rst:415
 msgid "Sacrifice a creature: Bloodthrone Vampire gets +2/+2 until end of turn."
-msgstr "Poświęć stwora: Ten stwór dostaje do końca tury +2/+2."
+msgstr "Poświęć stwora: Ten stwór do końca tury dostaje +2/+2."
 
 #: ../../M13.rst:420
 msgid ""
@@ -1588,7 +1588,7 @@ msgid ""
 "−3: Target creature gets +X/+X or -X/-X until end of turn, where X is the "
 "number of Swamps you control."
 msgstr ""
-"–3: Wskazany stwór dostaje do końca tury +X/+X albo -X/-X, gdzie X jest "
+"–3: Wskazany stwór do końca tury dostaje +X/+X albo -X/-X, gdzie X jest "
 "liczbą Bagien pod twoim władaniem."
 
 #: ../../M13.rst:489
@@ -1616,7 +1616,7 @@ msgstr ""
 
 #: ../../M13.rst:495
 msgid "|mana_b|: Liliana's Shade gets +1/+1 until end of turn."
-msgstr "|mana_b|: Ten stwór dostaje do końca tury +1/+1."
+msgstr "|mana_b|: Ten stwór do końca tury dostaje +1/+1."
 
 #: ../../M13.rst:502
 msgid ""
@@ -1719,7 +1719,7 @@ msgid ""
 "player controls gets -2/-0 until end of turn."
 msgstr ""
 "Zniszcz wskazanego stwora pod władaniem przeciwnika. Każdy inny stwór pod "
-"władaniem owego gracza dostaje do końca tury -2/-0."
+"władaniem owego gracza do końca tury dostaje -2/-0."
 
 #: ../../M13.rst:538
 msgid ""
@@ -2040,7 +2040,7 @@ msgstr ""
 
 #: ../../M13.rst:641
 msgid "|mana_r|: Dragon Hatchling gets +1/+0 until end of turn."
-msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_r|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../M13.rst:646
 msgid ""
@@ -2103,7 +2103,7 @@ msgstr ""
 
 #: ../../M13.rst:665
 msgid "|mana_r|: Furnace Whelp gets +1/+0 until end of turn."
-msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_r|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../M13.rst:670
 msgid ""
@@ -2153,7 +2153,7 @@ msgstr ""
 
 #: ../../M13.rst:681
 msgid "Target creature gets +1/+0 and gains first strike until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +1/+0 i pierwszy cios."
+msgstr "Wskazany stwór do końca tury dostaje +1/+0 i pierwszy cios."
 
 #: ../../M13.rst:686
 msgid ""
@@ -2209,8 +2209,8 @@ msgid ""
 "and untap it. That creature gains haste until end of turn. (It can attack "
 "and |tap| this turn.)"
 msgstr ""
-"Zyskaj do końca tury władanie nad wskazanym stworem. Umieść na nim znacznik "
-"+1/+1 i odkręć go. Ów stwór zyskuje do końca tury pośpiech. (Może atakować i "
+"Zyskaj do końca tury władanie nad wskazanym stworem. Umieść na nim znacznik +"
+"1/+1 i odkręć go. Ów stwór do końca tury zyskuje pośpiech. (Może atakować i "
 "|tap| w tej turze.)"
 
 #: ../../M13.rst:702
@@ -2410,7 +2410,7 @@ msgstr ""
 
 #: ../../M13.rst:771
 msgid "|mana_r|: Wall of Fire gets +1/+0 until end of turn."
-msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_r|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../M13.rst:778
 msgid ""
@@ -2623,7 +2623,7 @@ msgid ""
 "|mana_r|: Flinthoof Boar gains haste until end of turn. (It can attack and |"
 "tap| this turn.)"
 msgstr ""
-"|mana_r|: Ten stwór zyskuje do końca tury pośpiech. (Może atakować i |tap| w "
+"|mana_r|: Ten stwór do końca tury zyskuje pośpiech. (Może atakować i |tap| w "
 "tej turze.)"
 
 #: ../../M13.rst:850
@@ -2984,7 +2984,7 @@ msgstr ""
 
 #: ../../M13.rst:959
 msgid "Target creature gets +4/+4 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +4/+4."
+msgstr "Wskazany stwór do końca tury dostaje +4/+4."
 
 #: ../../M13.rst:962
 msgid ""
@@ -3016,7 +3016,7 @@ msgid ""
 "When Yeva's Forcemage enters the battlefield, target creature gets +2/+2 "
 "until end of turn."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór dostaje do końca tury +2/"
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór do końca tury dostaje +2/"
 "+2."
 
 #: ../../M13.rst:982
@@ -3216,7 +3216,7 @@ msgid ""
 "|mana_2|: Equipped creature gains hexproof until end of turn. (It can't be "
 "the target of spells or abilities your opponents control.)"
 msgstr ""
-"|mana_2|: Wyposażony stwór zyskuje do końca tury antyklątwę. (Nie może być "
+"|mana_2|: Wyposażony stwór do końca tury zyskuje antyklątwę. (Nie może być "
 "wskazywany przez czary lub zdolności pod władaniem twoich przeciwników.)"
 
 #: ../../M13.rst:1035

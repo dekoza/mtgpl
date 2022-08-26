@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-22 09:12+0200\n"
-"PO-Revision-Date: 2022-07-05 20:43+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ice/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.12.1\n"
+"X-Generator: Weblate 4.13.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../symbols.rst:3
@@ -305,7 +305,7 @@ msgstr "Zauroczony stwór dostaje +1/+1."
 
 #: ../../ICE.rst:27
 msgid "|mana_w|: Enchanted creature gets +0/+1 until end of turn."
-msgstr "|mana_w|: Zauroczony stwór dostaje do końca tury +0/+1."
+msgstr "|mana_w|: Zauroczony stwór do końca tury dostaje +0/+1."
 
 #: ../../ICE.rst:34
 msgid ""
@@ -1029,12 +1029,12 @@ msgstr "Ochrona przed czarnym"
 #: ../../ICE.rst:257
 msgid ""
 "|mana_w|: Order of the White Shield gains first strike until end of turn."
-msgstr "|mana_w|: Ten stwór zyskuje do końca tury pierwszy cios."
+msgstr "|mana_w|: Ten stwór do końca tury zyskuje pierwszy cios."
 
 #: ../../ICE.rst:259
 msgid ""
 "|mana_w|\\ |mana_w|: Order of the White Shield gets +1/+0 until end of turn."
-msgstr "|mana_w|\\ |mana_w|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_w|\\ |mana_w|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../ICE.rst:268
 msgid ""
@@ -1895,7 +1895,7 @@ msgstr ""
 
 #: ../../ICE.rst:595
 msgid "Target creature gains flying until end of turn."
-msgstr "Wskazany stwór zyskuje do końca tury latanie."
+msgstr "Wskazany stwór do końca tury zyskuje latanie."
 
 #: ../../ICE.rst:604
 msgid ""
@@ -2051,7 +2051,7 @@ msgstr ""
 #: ../../ICE.rst:651
 msgid ""
 "|tap|, Sacrifice a creature: Target creature gets +2/+2 until end of turn."
-msgstr "|tap|, poświęć stwora: Wskazany stwór dostaje do końca tury +2/+2."
+msgstr "|tap|, poświęć stwora: Wskazany stwór do końca tury dostaje +2/+2."
 
 #: ../../ICE.rst:653
 msgid ""
@@ -2324,7 +2324,7 @@ msgstr ""
 
 #: ../../ICE.rst:743
 msgid "Target creature gets +X/+0 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +X/+0."
+msgstr "Wskazany stwór do końca tury dostaje +X/+0."
 
 #: ../../ICE.rst:748
 msgid ""
@@ -2790,7 +2790,7 @@ msgid ""
 "|mana_b|, Pay 1 life: Enchanted creature gets +2/+2 until end of turn. "
 "Activate no more than three times each turn."
 msgstr ""
-"|mana_b|, zapłać 1 życie: Zauroczony stwór dostaje do końca tury +2/+2. "
+"|mana_b|, zapłać 1 życie: Zauroczony stwór do końca tury dostaje +2/+2. "
 "Możesz aktywować z najwyżej trzy razy na turę."
 
 #: ../../ICE.rst:914
@@ -3117,7 +3117,7 @@ msgstr ""
 
 #: ../../ICE.rst:1027
 msgid "|mana_r|: Flame Spirit gets +1/+0 until end of turn."
-msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_r|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../ICE.rst:1034
 msgid ""
@@ -3616,7 +3616,7 @@ msgstr "Zauroczony stwór dostaje +0/+2."
 
 #: ../../ICE.rst:1205
 msgid "|mana_r|: Enchanted creature gets +1/+0 until end of turn."
-msgstr "|mana_r|: Zauroczony stwór dostaje do końca tury +1/+0."
+msgstr "|mana_r|: Zauroczony stwór do końca tury dostaje +1/+0."
 
 #: ../../ICE.rst:1208
 msgid ""
@@ -3960,7 +3960,7 @@ msgstr ""
 
 #: ../../ICE.rst:1335
 msgid "Target creature gets +3/+3 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +3/+3."
+msgstr "Wskazany stwór do końca tury dostaje +3/+3."
 
 #: ../../ICE.rst:1342
 msgid ""

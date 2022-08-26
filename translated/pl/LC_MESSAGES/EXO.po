@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-22 09:12+0200\n"
-"PO-Revision-Date: 2022-05-29 17:57+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/exo/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.12.1\n"
+"X-Generator: Weblate 4.13.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../symbols.rst:3
@@ -268,7 +268,7 @@ msgid ""
 "Target creature gets +3/+3 and gains flying until end of turn. (It can't be "
 "blocked except by creatures with flying or reach.)"
 msgstr ""
-"Wskazany stwór dostaje do końca tury +3/+3 i latanie. (Nie może być "
+"Wskazany stwór do końca tury dostaje +3/+3 i latanie. (Nie może być "
 "blokowany, chyba że przez stwory mające latanie lub zasięg.)"
 
 #: ../../EXO.rst:20
@@ -295,7 +295,7 @@ msgstr ""
 
 #: ../../EXO.rst:23
 msgid "Whenever Charging Paladin attacks, it gets +0/+3 until end of turn."
-msgstr "Ilekroć ten stwór zaatakuje, dostaje do końca tury +1/+3."
+msgstr "Ilekroć ten stwór zaatakuje, do końca tury dostaje +1/+3."
 
 #: ../../EXO.rst:28
 msgid ""
@@ -789,7 +789,7 @@ msgstr ""
 
 #: ../../EXO.rst:189
 msgid "|mana_u|: Killer Whale gains flying until end of turn."
-msgstr "|mana_u|: Ten stwór zyskuje do końca tury latanie."
+msgstr "|mana_u|: Ten stwór do końca tury zyskuje latanie."
 
 #: ../../EXO.rst:194
 msgid ""
@@ -930,7 +930,7 @@ msgid ""
 "Discard a card: Thalakos Drifters gains shadow until end of turn. (It can "
 "block or be blocked by only creatures with shadow.)"
 msgstr ""
-"Odrzuć kartę: Ten stwór zyskuje do końca tury cień. (Może blokować lub być "
+"Odrzuć kartę: Ten stwór do końca tury zyskuje cień. (Może blokować lub być "
 "blokowany przez wyłącznie stwory z cieniem.)"
 
 #: ../../EXO.rst:240
@@ -1153,7 +1153,7 @@ msgstr "Jako dodatkowy koszt rzucenia tego czaru — zapłać X żyć."
 
 #: ../../EXO.rst:323
 msgid "Target creature gets +X/+0 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +X/+0."
+msgstr "Wskazany stwór do końca tury dostaje +X/+0."
 
 #: ../../EXO.rst:328
 msgid ""
@@ -1347,7 +1347,7 @@ msgstr ""
 
 #: ../../EXO.rst:387
 msgid "Discard a creature card: Vampire Hounds gets +2/+2 until end of turn."
-msgstr "Odrzuć kartę stwora: Niniejszy stwór dostaje do końca tury +2/+2."
+msgstr "Odrzuć kartę stwora: Niniejszy stwór do końca tury dostaje +2/+2."
 
 #: ../../EXO.rst:394
 msgid ""
@@ -1797,7 +1797,7 @@ msgid ""
 "Whenever Elvish Berserker becomes blocked, it gets +1/+1 until end of turn "
 "for each creature blocking it."
 msgstr ""
-"Ilekroć ten stwór zostaje zablokowany, dostaje do końca tury +1/+1 za "
+"Ilekroć ten stwór zostaje zablokowany, do końca tury dostaje +1/+1 za "
 "każdego blokującego go stwora."
 
 #: ../../EXO.rst:542

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-22 09:12+0200\n"
-"PO-Revision-Date: 2022-04-18 22:02+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ody/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.10.1\n"
+"X-Generator: Weblate 4.13.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../symbols.rst:3
@@ -572,7 +572,7 @@ msgstr ""
 
 #: ../../ODY.rst:119
 msgid "Target blocking creature gets +4/+4 until end of turn."
-msgstr "Wskazany blokujący stwór dostaje do końca tury +4/+4."
+msgstr "Wskazany blokujący stwór do końca tury dostaje +4/+4."
 
 #: ../../ODY.rst:128
 msgid ""
@@ -946,7 +946,7 @@ msgid ""
 "Target creature you control gains protection from the color of your choice "
 "until end of turn."
 msgstr ""
-"Wskazany stwór pod twoim władaniem zyskuje do końca tury ochronę przed "
+"Wskazany stwór pod twoim władaniem do końca tury zyskuje ochronę przed "
 "wybranym przez ciebie kolorem."
 
 #: ../../ODY.rst:252
@@ -1855,7 +1855,7 @@ msgstr ""
 
 #: ../../ODY.rst:579
 msgid "Target creature gets -1/-1 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -1/-1."
+msgstr "Wskazany stwór do końca tury dostaje -1/-1."
 
 #: ../../ODY.rst:590
 msgid ""
@@ -3351,7 +3351,7 @@ msgstr ""
 
 #: ../../ODY.rst:1075
 msgid "Target creature gets +3/+0 and gains haste until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +3/+0 i pośpiech."
+msgstr "Wskazany stwór do końca tury dostaje +3/+0 i pośpiech."
 
 #: ../../ODY.rst:1077 ../../ODY.rst:1107
 msgid ""
@@ -3956,7 +3956,7 @@ msgstr ""
 
 #: ../../ODY.rst:1279
 msgid "|mana_g|, |tap|: Target creature gets +2/+2 until end of turn."
-msgstr "|mana_g|, |tap|: Wskazany stwór dostaje do końca tury +2/+2."
+msgstr "|mana_g|, |tap|: Wskazany stwór do końca tury dostaje +2/+2."
 
 #: ../../ODY.rst:1284
 msgid ""
@@ -4289,7 +4289,7 @@ msgstr ""
 
 #: ../../ODY.rst:1395
 msgid "Target creature gets +2/+2 and gains trample until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +2/+2 i tratowanie."
+msgstr "Wskazany stwór do końca tury dostaje +2/+2 i tratowanie."
 
 #: ../../ODY.rst:1397
 msgid ""
@@ -4862,8 +4862,8 @@ msgid ""
 "until end of turn. Activate only if seven or more cards are in your "
 "graveyard."
 msgstr ""
-"Próg — |mana_b|, |tap|, poświęć ten ląd: Wskazany stwór dostaje do końca "
-"tury -2/-2. Możesz aktywować tylko gdy w twoim cmentarzu jest co najmniej "
+"Próg — |mana_b|, |tap|, poświęć ten ląd: Wskazany stwór do końca tury "
+"dostaje -2/-2. Możesz aktywować tylko gdy w twoim cmentarzu jest co najmniej "
 "siedem kart."
 
 #: ../../ODY.rst:1602
@@ -4883,8 +4883,8 @@ msgid ""
 "+3/+3 until end of turn. Activate only if seven or more cards are in your "
 "graveyard."
 msgstr ""
-"Próg — |mana_g|, |tap|, poświęć ten ląd: Wskazany stwór dostaje do końca "
-"tury +3/+3. Możesz aktywować tylko gdy w twoim cmentarzu jest co najmniej "
+"Próg — |mana_g|, |tap|, poświęć ten ląd: Wskazany stwór do końca tury "
+"dostaje +3/+3. Możesz aktywować tylko gdy w twoim cmentarzu jest co najmniej "
 "siedem kart."
 
 #: ../../ODY.rst:1608

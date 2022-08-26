@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-22 09:12+0200\n"
-"PO-Revision-Date: 2022-05-29 08:43+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/arb/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.12.1\n"
+"X-Generator: Weblate 4.13.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../symbols.rst:3
@@ -880,7 +880,7 @@ msgstr ""
 
 #: ../../ARB.rst:227
 msgid "|mana_x|: Equipped creature gets +X/+0 until end of turn."
-msgstr "|mana_x|: Wyposażony stwór dostaje do końca tury +X/+0."
+msgstr "|mana_x|: Wyposażony stwór do końca tury dostaje +X/+0."
 
 #: ../../ARB.rst:229
 msgid "Equip |mana_1|"
@@ -1089,7 +1089,7 @@ msgstr ""
 
 #: ../../ARB.rst:297
 msgid "Target creature gets +4/+2 and gains trample until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +4/+2 oraz tratowanie."
+msgstr "Wskazany stwór do końca tury dostaje +4/+2 oraz tratowanie."
 
 #: ../../ARB.rst:304
 msgid ""
@@ -1630,8 +1630,8 @@ msgid ""
 "Whenever Skyclaw Thrash attacks, flip a coin. If you win the flip, Skyclaw "
 "Thrash gets +1/+1 and gains flying until end of turn."
 msgstr ""
-"Ilekroć ten stwór zaatakuje, rzuć monetą. Jeśli wygrasz rzut, ten stwór "
-"dostaje do końca tury +1/+1 i latanie."
+"Ilekroć ten stwór zaatakuje, rzuć monetą. Jeśli wygrasz rzut, ten stwór do "
+"końca tury dostaje +1/+1 i latanie."
 
 #: ../../ARB.rst:492
 msgid ""
@@ -1647,7 +1647,7 @@ msgid ""
 "card's mana value."
 msgstr ""
 "Ilekroć ten stwór zaatakuje, dobierz kartę, po czym odrzuć kartę. Ten stwór "
-"dostaje do końca tury +X/+0, gdzie X jest skrótem many odrzuconej karty."
+"do końca tury dostaje +X/+0, gdzie X jest skrótem many odrzuconej karty."
 
 #: ../../ARB.rst:496
 msgid ""
@@ -1731,7 +1731,7 @@ msgid ""
 "Pay 2 life: Putrid Leech gets +2/+2 until end of turn. Activate only once "
 "each turn."
 msgstr ""
-"Zapłać 2 życia: Ten stwór dostaje do końca tury +2/+2. Aktywuj tylko raz na "
+"Zapłać 2 życia: Ten stwór do końca tury dostaje +2/+2. Aktywuj tylko raz na "
 "turę."
 
 #: ../../ARB.rst:518
@@ -2147,7 +2147,7 @@ msgid ""
 "Whenever you cast a multicolored spell, Gloryscale Viashino gets +3/+3 until "
 "end of turn."
 msgstr ""
-"Ilekroć rzucisz wielokolorowy czar, ten stwór dostaje do końca tury +3/+3."
+"Ilekroć rzucisz wielokolorowy czar, ten stwór do końca tury dostaje +3/+3."
 
 #: ../../ARB.rst:654
 msgid ""

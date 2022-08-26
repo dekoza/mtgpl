@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-22 09:12+0200\n"
-"PO-Revision-Date: 2022-04-18 17:53+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/m14/pl/>\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.10.1\n"
+"X-Generator: Weblate 4.13.1\n"
 "X-POOTLE-MTIME: 1385404032.966664\n"
 
 #: ../../symbols.rst:3
@@ -253,7 +253,7 @@ msgstr "+1: Umieść znacznik +1/+1 na co najwyżej jednym wskazanym stworze."
 # 5c2bd7eb7bf840f38d6cee0f04f139aa
 #: ../../M14.rst:11
 msgid "−3: Target creature gains flying and double strike until end of turn."
-msgstr "–3: Wskazany stwór zyskuje do końca tury latanie oraz podwójny cios."
+msgstr "–3: Wskazany stwór do końca tury zyskuje latanie oraz podwójny cios."
 
 # 61e69fa8fb274f09b99016ab192f32a2
 # 0acf461f3a5d404da8460238f39c54fc
@@ -488,7 +488,7 @@ msgstr "Zaurocz stwora"
 # 714e039918b44434b9a00ab0822e1b90
 #: ../../M14.rst:49
 msgid "|mana_w|: Enchanted creature gets +1/+1 until end of turn."
-msgstr "|mana_w|: Zauroczony stwór dostaje do końca tury +1/+1."
+msgstr "|mana_w|: Zauroczony stwór do końca tury dostaje +1/+1."
 
 #: ../../M14.rst:54
 msgid ""
@@ -549,7 +549,7 @@ msgstr ""
 # 7d890483a44f4efc99df234fb92358fc
 #: ../../M14.rst:63
 msgid "|mana_1|\\ |mana_w|: Capashen Knight gets +1/+0 until end of turn."
-msgstr "|mana_1|\\ |mana_w|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_1|\\ |mana_w|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../M14.rst:68
 msgid ""
@@ -587,7 +587,7 @@ msgstr ""
 # dc953d6b14424c878786ec668187afa8
 #: ../../M14.rst:73
 msgid "Whenever Charging Griffin attacks, it gets +1/+1 until end of turn."
-msgstr "Ilekroć ten stwór zaatakuje, dostaje do końca tury +1/+1."
+msgstr "Ilekroć ten stwór zaatakuje, do końca tury dostaje +1/+1."
 
 #: ../../M14.rst:78
 msgid ""
@@ -896,7 +896,7 @@ msgstr ""
 # 514654b9d2b847eaba70ad04ecee4412
 #: ../../M14.rst:177
 msgid "Target creature gets +2/+4 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +2/+4."
+msgstr "Wskazany stwór do końca tury dostaje +2/+4."
 
 #: ../../M14.rst:180
 msgid ""
@@ -972,7 +972,7 @@ msgid ""
 "end of turn. (Attacking doesn't cause it to tap. Damage dealt by it also "
 "causes you to gain that much life.)"
 msgstr ""
-"|mana_5|\\ |mana_w|: Ten stwór zyskuje do końca tury czujność oraz więź "
+"|mana_5|\\ |mana_w|: Ten stwór do końca tury zyskuje czujność oraz więź "
 "życia. (Atakowanie nie powoduje jego przekręcenia. Obrażenia przez niego "
 "zadane powodują, że zyskujesz tyle samo żyć.)"
 
@@ -1612,13 +1612,13 @@ msgstr ""
 # bcb954dcf24642729059ca3147297d90
 #: ../../M14.rst:407
 msgid "|mana_u|: Water Servant gets +1/-1 until end of turn."
-msgstr "|mana_u|: Ten stwór dostaje do końca tury +1/-1."
+msgstr "|mana_u|: Ten stwór do końca tury dostaje +1/-1."
 
 # 3657ab0987854ee496c658b7bb705481
 # 6474ef9fe9b74a5284edd88b8139d689
 #: ../../M14.rst:409
 msgid "|mana_u|: Water Servant gets -1/+1 until end of turn."
-msgstr "|mana_u|: Ten stwór dostaje do końca tury -1/+1."
+msgstr "|mana_u|: Ten stwór do końca tury dostaje -1/+1."
 
 #: ../../M14.rst:416
 msgid ""
@@ -1644,7 +1644,7 @@ msgstr ""
 # 189810cce4414dc7903511692239f13e
 #: ../../M14.rst:419
 msgid "|mana_1|\\ |mana_u|: Target creature gains flying until end of turn."
-msgstr "|mana_1|\\ |mana_u|: Wskazany stwór zyskuje do końca tury latanie."
+msgstr "|mana_1|\\ |mana_u|: Wskazany stwór do końca tury zyskuje latanie."
 
 #: ../../M14.rst:424
 msgid ""
@@ -1732,7 +1732,7 @@ msgstr ""
 # f9708982bf2142759619f621a86456be
 #: ../../M14.rst:443
 msgid "Sacrifice another creature: Blood Bairn gets +2/+2 until end of turn."
-msgstr "Poświęć innego stwora: Ten stwór dostaje do końca tury +2/+2."
+msgstr "Poświęć innego stwora: Ten stwór do końca tury dostaje +2/+2."
 
 #: ../../M14.rst:448
 msgid ""
@@ -1912,9 +1912,9 @@ msgid ""
 "until end of turn. That creature gets -4/-4 instead if you control a "
 "creature named Bogbrew Witch."
 msgstr ""
-"Kiedy ten stwór umrze, wskazany stwór pod władaniem przeciwnika dostaje do "
-"końca tury -1/-1. Ów stwór dostaje zamiast tego -4/-4 jeśli władasz stworem "
-"o nazwie Bogbrew Witch."
+"Kiedy ten stwór umrze, wskazany stwór pod władaniem przeciwnika do końca "
+"tury dostaje -1/-1. Ów stwór dostaje zamiast tego -4/-4 jeśli władasz "
+"stworem o nazwie Bogbrew Witch."
 
 #: ../../M14.rst:498
 msgid ""
@@ -1992,7 +1992,7 @@ msgid ""
 "−3: Target creature gets +X/+X or -X/-X until end of turn, where X is the "
 "number of Swamps you control."
 msgstr ""
-"–3: Wskazany stwór dostaje do końca tury +X/+X albo -X/-X, gdzie X jest "
+"–3: Wskazany stwór do końca tury dostaje +X/+X albo -X/-X, gdzie X jest "
 "liczbą Bagien pod twoim władaniem."
 
 #: ../../M14.rst:515
@@ -2098,7 +2098,7 @@ msgstr ""
 # 11b1e144f6fc422fb34445ef73b6dfae
 #: ../../M14.rst:551
 msgid "|mana_1|\\ |mana_b|: Nightwing Shade gets +1/+1 until end of turn."
-msgstr "|mana_1|\\ |mana_b|: Ten stwór dostaje do końca tury +1/+1."
+msgstr "|mana_1|\\ |mana_b|: Ten stwór do końca tury dostaje +1/+1."
 
 #: ../../M14.rst:558
 msgid ""
@@ -2313,7 +2313,7 @@ msgstr ""
 # da4f483937d1460d9425272f33db832e
 #: ../../M14.rst:613
 msgid "Target creature gets -3/-1 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -3/-1."
+msgstr "Wskazany stwór do końca tury dostaje -3/-1."
 
 #: ../../M14.rst:618
 msgid ""
@@ -2581,7 +2581,7 @@ msgid ""
 "\"|mana_r|: This creature gets +1/+0 until end of turn.\""
 msgstr ""
 "Kiedy ten stwór umrze, stwórz żeton czerwonego stwora Smok 2/2 z lataniem "
-"mającego \"|mana_r|: Ten stwór dostaje do końca tury +1/+0.\""
+"mającego \"|mana_r|: Ten stwór do końca tury dostaje +1/+0.\""
 
 #: ../../M14.rst:696
 msgid ""
@@ -2594,7 +2594,7 @@ msgstr ""
 # de298874fef341238e273952fa995f76
 #: ../../M14.rst:695
 msgid "|mana_r|: Dragon Hatchling gets +1/+0 until end of turn."
-msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_r|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../M14.rst:700
 msgid ""
@@ -2757,8 +2757,8 @@ msgid ""
 "creature gets +2/+0 and gains haste until end of turn. (It can attack and |"
 "tap| this turn.)"
 msgstr ""
-"Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, ów stwór "
-"dostaje do końca tury +2/+0 oraz pośpiech. (Może atakować oraz |tap| w tej "
+"Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, ów stwór do "
+"końca tury dostaje +2/+0 oraz pośpiech. (Może atakować oraz |tap| w tej "
 "turze.)"
 
 #: ../../M14.rst:744
@@ -2804,7 +2804,7 @@ msgstr ""
 # 2bb4315e149d4d778a9026fa22f513b8
 #: ../../M14.rst:755
 msgid "|mana_r|: Scourge of Valkas gets +1/+0 until end of turn."
-msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_r|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../M14.rst:760
 msgid ""
@@ -2836,7 +2836,7 @@ msgstr "Zauroczony stwór dostaje +2/+2 i ma latanie."
 # 27f013ee414649f79366720e123e3092
 #: ../../M14.rst:767
 msgid "|mana_r|: Enchanted creature gets +1/+0 until end of turn."
-msgstr "|mana_r|: Zauroczony stwór dostaje do końca tury +1/+0."
+msgstr "|mana_r|: Zauroczony stwór do końca tury dostaje +1/+0."
 
 #: ../../M14.rst:774
 msgid ""
@@ -2849,7 +2849,7 @@ msgstr ""
 # 008a5a8a655e469986a412d6499f99dd
 #: ../../M14.rst:773
 msgid "|mana_r|: Shivan Dragon gets +1/+0 until end of turn."
-msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_r|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../M14.rst:778
 msgid ""
@@ -2923,7 +2923,7 @@ msgid ""
 "Target creature gets +2/+0 and gains first strike until end of turn. (It "
 "deals combat damage before creatures without first strike.)"
 msgstr ""
-"Wskazany stwór dostaje do końca tury +2/+0 oraz pierwszy cios. (Zadaje "
+"Wskazany stwór do końca tury dostaje +2/+0 oraz pierwszy cios. (Zadaje "
 "obrażenia bojowe przed stworami bez pierwszego ciosu.)"
 
 #: ../../M14.rst:798
@@ -3029,7 +3029,7 @@ msgid ""
 "When Briarpack Alpha enters the battlefield, target creature gets +2/+2 "
 "until end of turn."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór dostaje do końca tury +2/"
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór do końca tury dostaje +2/"
 "+2."
 
 #: ../../M14.rst:830
@@ -3088,7 +3088,7 @@ msgid ""
 "blocked this turn if able. (A creature with trample can deal excess combat "
 "damage to the player or planeswalker it's attacking.)"
 msgstr ""
-"Wskazany stwór dostaje do końca tury +7/+7 oraz tratowanie. Musi być "
+"Wskazany stwór do końca tury dostaje +7/+7 oraz tratowanie. Musi być "
 "blokowany w tej turze, jeśli to możliwe. (Stwór z tratowaniem może zadać "
 "nadwyżkę obrażeń bojowych atakowanemu graczowi lub wędrowcowi.)"
 
@@ -3187,7 +3187,7 @@ msgstr ""
 # 08a7294d010444e48d82275d46f3d159
 #: ../../M14.rst:867
 msgid "Target creature gets +3/+3 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +3/+3."
+msgstr "Wskazany stwór do końca tury dostaje +3/+3."
 
 #: ../../M14.rst:872
 msgid ""
@@ -3458,7 +3458,7 @@ msgid ""
 "Target creature you control gets +1/+1 and gains hexproof until end of turn. "
 "(It can't be the target of spells or abilities your opponents control.)"
 msgstr ""
-"Wskazany stwór pod twoim władaniem dostaje do końca tury +1/+1 oraz "
+"Wskazany stwór pod twoim władaniem do końca tury dostaje +1/+1 oraz "
 "antyklątwę. (Nie może być wskazywany przez czary lub zdolności pod władaniem "
 "twoich przeciwników.)"
 
@@ -3476,7 +3476,7 @@ msgid ""
 "|mana_1|\\ |mana_g|: Rootwalla gets +2/+2 until end of turn. Activate only "
 "once each turn."
 msgstr ""
-"|mana_1|\\ |mana_g|: Ten stwór dostaje do końca tury +2/+2. Możesz aktywować "
+"|mana_1|\\ |mana_g|: Ten stwór do końca tury dostaje +2/+2. Możesz aktywować "
 "tylko raz na turę."
 
 #: ../../M14.rst:950

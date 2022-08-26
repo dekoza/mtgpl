@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-22 09:12+0200\n"
-"PO-Revision-Date: 2022-04-17 16:43+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mbs/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.10.1\n"
+"X-Generator: Weblate 4.13.1\n"
 
 #: ../../symbols.rst:3
 msgid "{C}"
@@ -249,8 +249,8 @@ msgid ""
 "Battle cry (Whenever this creature attacks, each other attacking creature "
 "gets +1/+0 until end of turn.)"
 msgstr ""
-"Okrzyk bojowy (Ilekroć ten stwór zaatakuje, każdy inny atakujący stwór "
-"dostaje do końca tury +1/+0.)"
+"Okrzyk bojowy (Ilekroć ten stwór zaatakuje, każdy inny atakujący stwór do "
+"końca tury dostaje +1/+0.)"
 
 #: ../../MBS.rst:14
 msgid ""
@@ -844,7 +844,7 @@ msgstr ""
 
 #: ../../MBS.rst:213
 msgid "Sacrifice a creature: Flesh-Eater Imp gets +1/+1 until end of turn."
-msgstr "Poświęć stwora: Ten stwór dostaje do końca tury +1/+1."
+msgstr "Poświęć stwora: Ten stwór do końca tury dostaje +1/+1."
 
 #: ../../MBS.rst:218
 msgid ""
@@ -1012,8 +1012,8 @@ msgid ""
 "Whenever Septic Rats attacks, if defending player is poisoned, it gets +1/+1 "
 "until end of turn."
 msgstr ""
-"Ilekroć ten stwór zaatakuje, jeśli broniący się gracz jest zatruty, dostaje "
-"do końca tury +1/+1."
+"Ilekroć ten stwór zaatakuje, jeśli broniący się gracz jest zatruty, do końca "
+"tury dostaje +1/+1."
 
 #: ../../MBS.rst:284
 msgid ""
@@ -1132,7 +1132,7 @@ msgstr ""
 
 #: ../../MBS.rst:313
 msgid "Sacrifice an artifact: Gnathosaur gains trample until end of turn."
-msgstr "Poświęć artefakt: Ten stwór zyskuje do końca tury tratowanie."
+msgstr "Poświęć artefakt: Ten stwór do końca tury zyskuje tratowanie."
 
 #: ../../MBS.rst:318
 msgid ""
@@ -1157,7 +1157,7 @@ msgid ""
 "|mana_1|\\ |mana_r|: Hellkite Igniter gets +X/+0 until end of turn, where X "
 "is the number of artifacts you control."
 msgstr ""
-"|mana_1|\\ |mana_r|: Ten stwór dostaje do końca tury +X/+0, gdzie X jest "
+"|mana_1|\\ |mana_r|: Ten stwór do końca tury dostaje +X/+0, gdzie X jest "
 "liczbą artefaktów pod twoim władaniem."
 
 #: ../../MBS.rst:332
@@ -1417,14 +1417,14 @@ msgstr ""
 
 #: ../../MBS.rst:411
 msgid "Target creature gets +2/+2 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +2/+2."
+msgstr "Wskazany stwór do końca tury dostaje +2/+2."
 
 #: ../../MBS.rst:413
 msgid ""
 "Metalcraft — That creature gets +4/+4 until end of turn instead if you "
 "control three or more artifacts."
 msgstr ""
-"Metalurgia — Ów stwór zamiast tego dostaje do końca tury +4/+4 jeśli władasz "
+"Metalurgia — Ów stwór zamiast tego do końca tury dostaje +4/+4 jeśli władasz "
 "co najmniej trzema artefaktami."
 
 #: ../../MBS.rst:420
@@ -1551,7 +1551,7 @@ msgstr ""
 
 #: ../../MBS.rst:457
 msgid "Target creature gets +1/+1 and gains trample until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +1/+1 i tratowanie."
+msgstr "Wskazany stwór do końca tury dostaje +1/+1 i tratowanie."
 
 #: ../../MBS.rst:464
 msgid ""
@@ -1642,7 +1642,7 @@ msgstr ""
 
 #: ../../MBS.rst:485
 msgid "|mana_w|: Bladed Sentinel gains vigilance until end of turn."
-msgstr "|mana_w|: Ten stwór zyskuje do końca tury czujność."
+msgstr "|mana_w|: Ten stwór do końca tury zyskuje czujność."
 
 #: ../../MBS.rst:492
 msgid ""
@@ -1779,7 +1779,7 @@ msgstr ""
 
 #: ../../MBS.rst:531
 msgid "|mana_2|\\ |mana_b|: Dross Ripper gets +1/+1 until end of turn."
-msgstr "|mana_2|\\ |mana_b|: Ten stwór dostaje do końca tury +1/+1."
+msgstr "|mana_2|\\ |mana_b|: Ten stwór do końca tury dostaje +1/+1."
 
 #: ../../MBS.rst:540
 msgid ""
@@ -1801,7 +1801,7 @@ msgstr ""
 
 #: ../../MBS.rst:543
 msgid "|mana_u|: Gust-Skimmer gains flying until end of turn."
-msgstr "|mana_u|: Ten stwór zyskuje do końca tury latanie."
+msgstr "|mana_u|: Ten stwór do końca tury zyskuje latanie."
 
 #: ../../MBS.rst:546
 msgid ""

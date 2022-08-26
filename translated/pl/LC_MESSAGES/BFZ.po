@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-22 09:12+0200\n"
-"PO-Revision-Date: 2022-04-17 16:43+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/bfz/pl/>\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.10.1\n"
+"X-Generator: Weblate 4.13.1\n"
 
 #: ../../symbols.rst:3
 msgid "{C}"
@@ -823,7 +823,7 @@ msgid ""
 "Target creature gets +2/+2 until end of turn. Prevent all damage that would "
 "be dealt to that creature this turn by colorless sources."
 msgstr ""
-"Wskazany stwór dostaje do końca tury +2/+2. Zażegnaj wszystkie obrażenia, "
+"Wskazany stwór do końca tury dostaje +2/+2. Zażegnaj wszystkie obrażenia, "
 "jakie mogłyby mu zostać zadane w tej turze przez bezkolorowe źródła."
 
 #: ../../BFZ.rst:192
@@ -858,7 +858,7 @@ msgid ""
 "Greathorn gets +2/+2 until end of turn."
 msgstr ""
 "Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, ten stwór "
-"dostaje do końca tury +2/+2."
+"do końca tury dostaje +2/+2."
 
 #: ../../BFZ.rst:204
 msgid ""
@@ -1663,7 +1663,7 @@ msgid ""
 "Wing Elemental gets +2/+2 until end of turn."
 msgstr ""
 "Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, ten stwór "
-"dostaje do końca tury +2/+2."
+"do końca tury dostaje +2/+2."
 
 #: ../../BFZ.rst:480
 msgid ""
@@ -1800,7 +1800,7 @@ msgstr ""
 
 #: ../../BFZ.rst:543
 msgid "|mana_2|: Sludge Crawler gets +1/+1 until end of turn."
-msgstr "|mana_2|: Ten stwór dostaje do końca tury +1/+1."
+msgstr "|mana_2|: Ten stwór do końca tury dostaje +1/+1."
 
 #: ../../BFZ.rst:554
 msgid ""
@@ -1861,8 +1861,8 @@ msgid ""
 "creature gets -3/-3 until end of turn."
 msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, możesz umieścić kartę przeciwnika z "
-"wygnania w cmentarzu owego gracza. Jeśli tak zrobisz, wskazany stwór dostaje "
-"do końca tury -3/-3."
+"wygnania w cmentarzu owego gracza. Jeśli tak zrobisz, wskazany stwór do "
+"końca tury dostaje -3/-3."
 
 #: ../../BFZ.rst:578
 msgid ""
@@ -1932,7 +1932,7 @@ msgstr ""
 
 #: ../../BFZ.rst:601
 msgid "Target creature gets -5/-5 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -5/-5."
+msgstr "Wskazany stwór do końca tury dostaje -5/-5."
 
 #: ../../BFZ.rst:608
 msgid ""
@@ -1988,7 +1988,7 @@ msgid ""
 "Geyserfield Stalker gets +2/+2 until end of turn."
 msgstr ""
 "Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, ten stwór "
-"dostaje do końca tury +2/+2."
+"do końca tury dostaje +2/+2."
 
 #: ../../BFZ.rst:624
 msgid ""
@@ -2016,7 +2016,7 @@ msgstr ""
 
 #: ../../BFZ.rst:627
 msgid "|mana_4|\\ |mana_b|: Target creature gets -1/-1 until end of turn."
-msgstr "|mana_4|\\ |mana_b|: Wskazany stwór dostaje do końca tury -1/-1."
+msgstr "|mana_4|\\ |mana_b|: Wskazany stwór do końca tury dostaje -1/-1."
 
 #: ../../BFZ.rst:632
 msgid ""
@@ -2043,7 +2043,7 @@ msgstr ""
 #: ../../BFZ.rst:635
 msgid ""
 "Whenever you gain life, Kalastria Nightwatch gains flying until end of turn."
-msgstr "Ilekroć zyskasz życia, ten stwór zyskuje do końca tury latanie."
+msgstr "Ilekroć zyskasz życia, ten stwór do końca tury zyskuje latanie."
 
 #: ../../BFZ.rst:642
 msgid ""
@@ -2058,7 +2058,7 @@ msgstr "Latanie, dotyk śmierci"
 
 #: ../../BFZ.rst:641
 msgid "Whenever you gain life, Malakir Familiar gets +1/+1 until end of turn."
-msgstr "Ilekroć zyskasz życia, ten stwór dostaje do końca tury +1/+1."
+msgstr "Ilekroć zyskasz życia, ten stwór do końca tury dostaje +1/+1."
 
 #: ../../BFZ.rst:648
 msgid ""
@@ -2144,7 +2144,7 @@ msgstr ""
 
 #: ../../BFZ.rst:669
 msgid "Target creature gets +1/+0 and gains deathtouch until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +1/+0 oraz dotyk śmierci."
+msgstr "Wskazany stwór do końca tury dostaje +1/+0 oraz dotyk śmierci."
 
 #: ../../BFZ.rst:671
 msgid "Each opponent loses 1 life and you gain 1 life."
@@ -2282,7 +2282,7 @@ msgid ""
 "Whenever you cast a colorless spell, Kozilek's Sentinel gets +1/+0 until end "
 "of turn."
 msgstr ""
-"Ilekroć rzucisz bezkolorowy czar, ten stwór dostaje do końca tury +1/+0."
+"Ilekroć rzucisz bezkolorowy czar, ten stwór do końca tury dostaje +1/+0."
 
 #: ../../BFZ.rst:720
 msgid ""
@@ -2569,7 +2569,7 @@ msgstr ""
 
 #: ../../BFZ.rst:819
 msgid "|mana_2|\\ |mana_r|: Lavastep Raider gets +2/+0 until end of turn."
-msgstr "|mana_2|\\ |mana_r|: Ten stwór dostaje do końca tury +2/+0."
+msgstr "|mana_2|\\ |mana_r|: Ten stwór do końca tury dostaje +2/+0."
 
 #: ../../BFZ.rst:826
 msgid ""
@@ -2584,7 +2584,7 @@ msgid ""
 "Makindi Sliderunner gets +1/+1 until end of turn."
 msgstr ""
 "Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, ten stwór "
-"dostaje do końca tury +1/+1."
+"do końca tury dostaje +1/+1."
 
 #: ../../BFZ.rst:830
 msgid ""
@@ -2654,7 +2654,7 @@ msgstr ""
 
 #: ../../BFZ.rst:847
 msgid "Target creature gets +2/+0 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +2/+0."
+msgstr "Wskazany stwór do końca tury dostaje +2/+0."
 
 #: ../../BFZ.rst:849
 msgid "Target creature can't block this turn."
@@ -2705,7 +2705,7 @@ msgstr ""
 
 #: ../../BFZ.rst:865
 msgid "Target creature gets +3/+0 and gains first strike until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +3/+0 oraz pierwszy cios."
+msgstr "Wskazany stwór do końca tury dostaje +3/+0 oraz pierwszy cios."
 
 #: ../../BFZ.rst:870
 msgid ""
@@ -2746,7 +2746,7 @@ msgid ""
 "Valakut Predator gets +2/+2 until end of turn."
 msgstr ""
 "Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, ten stwór "
-"dostaje do końca tury +2/+2."
+"do końca tury dostaje +2/+2."
 
 #: ../../BFZ.rst:882
 msgid ""
@@ -3094,7 +3094,7 @@ msgstr ""
 #: ../../BFZ.rst:991
 msgid ""
 "|mana_8|: Oran-Rief Invoker gets +5/+5 and gains trample until end of turn."
-msgstr "|mana_8|: Ten stwór dostaje do końca tury +5/+5 oraz tratowanie."
+msgstr "|mana_8|: Ten stwór do końca tury dostaje +5/+5 oraz tratowanie."
 
 #: ../../BFZ.rst:998
 msgid ""
@@ -3176,7 +3176,7 @@ msgid ""
 "Leopard gets +1/+1 until end of turn."
 msgstr ""
 "Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, ten stwór "
-"dostaje do końca tury +1/+1."
+"do końca tury dostaje +1/+1."
 
 #: ../../BFZ.rst:1026
 msgid ""
@@ -3208,7 +3208,7 @@ msgid ""
 "Snapping Gnarlid gets +1/+1 until end of turn."
 msgstr ""
 "Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, ten stwór "
-"dostaje do końca tury +1/+1."
+"do końca tury dostaje +1/+1."
 
 #: ../../BFZ.rst:1034
 msgid ""
@@ -3222,7 +3222,7 @@ msgid ""
 "Target creature gets +2/+2 until end of turn. You may put a land card from "
 "your hand onto the battlefield."
 msgstr ""
-"Wskazany stwór dostaje do końca tury +2/+2. Możesz umieścić kartę lądu z "
+"Wskazany stwór do końca tury dostaje +2/+2. Możesz umieścić kartę lądu z "
 "twojej ręki na polu bitwy."
 
 #: ../../BFZ.rst:1038
@@ -3298,7 +3298,7 @@ msgid ""
 "Territorial Baloth gets +2/+2 until end of turn."
 msgstr ""
 "Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, ten stwór "
-"dostaje do końca tury +2/+2."
+"do końca tury dostaje +2/+2."
 
 #: ../../BFZ.rst:1060
 msgid ""
@@ -3363,8 +3363,8 @@ msgid ""
 "|mana_b|\\ |mana_g|, Sacrifice a creature: Target creature gets -2/-2 until "
 "end of turn."
 msgstr ""
-"|mana_b|\\ |mana_g|, poświęć stwora: Wskazany stwór dostaje do końca tury "
-"-2/-2."
+"|mana_b|\\ |mana_g|, poświęć stwora: Wskazany stwór do końca tury dostaje -2/"
+"-2."
 
 #: ../../BFZ.rst:1084
 msgid ""
@@ -3516,7 +3516,7 @@ msgid ""
 "Whenever Angelic Captain attacks, it gets +1/+1 until end of turn for each "
 "other attacking Ally."
 msgstr ""
-"Ilekroć ten stwór zaatakuje, dostaje do końca tury +1/+1 za każdego innego "
+"Ilekroć ten stwór zaatakuje, do końca tury dostaje +1/+1 za każdego innego "
 "atakującego Sojusznika."
 
 #: ../../BFZ.rst:1148
@@ -3566,7 +3566,7 @@ msgid ""
 "Rumbler gets +2/+2 until end of turn."
 msgstr ""
 "Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, ten stwór "
-"dostaje do końca tury +2/+2."
+"do końca tury dostaje +2/+2."
 
 #: ../../BFZ.rst:1164
 msgid ""
@@ -3771,8 +3771,8 @@ msgid ""
 "Tap another untapped Ally you control: Veteran Warleader gains your choice "
 "of first strike, vigilance, or trample until end of turn."
 msgstr ""
-"Przekręć innego odkręconego Sojusznika pod twoim władaniem: Ten stwór "
-"zyskuje do końca tury dowolną z następujących zdolności: pierwszy cios, "
+"Przekręć innego odkręconego Sojusznika pod twoim władaniem: Ten stwór do "
+"końca tury zyskuje dowolną z następujących zdolności: pierwszy cios, "
 "czujność lub tratowanie."
 
 #: ../../BFZ.rst:1218
@@ -3880,8 +3880,8 @@ msgid ""
 "owner's hand. If you do, the creature gets +2/+2 until end of turn."
 msgstr ""
 "Ilekroć wyposażony stwór zaatakuje, możesz przywrócić ląd pod twoim "
-"władaniem do ręki właściciela. Jeśli tak zrobisz, ów stwór dostaje do końca "
-"tury +2/+2."
+"władaniem do ręki właściciela. Jeśli tak zrobisz, ów stwór do końca tury "
+"dostaje +2/+2."
 
 #: ../../BFZ.rst:1258
 msgid ""
@@ -4081,7 +4081,7 @@ msgid ""
 "When Looming Spires enters the battlefield, target creature gets +1/+1 and "
 "gains first strike until end of turn."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór dostaje do końca tury +1/"
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór do końca tury dostaje +1/"
 "+1 i pierwszy cios."
 
 #: ../../BFZ.rst:1319
@@ -4186,7 +4186,7 @@ msgid ""
 "When Sandstone Bridge enters the battlefield, target creature gets +1/+1 and "
 "gains vigilance until end of turn."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór dostaje do końca tury +1/"
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór do końca tury dostaje +1/"
 "+1 oraz czujność."
 
 #: ../../BFZ.rst:1355

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-22 09:12+0200\n"
-"PO-Revision-Date: 2022-04-24 19:45+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/jud/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.10.1\n"
+"X-Generator: Weblate 4.13.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../symbols.rst:3
@@ -331,8 +331,8 @@ msgid ""
 "Sacrifice Benevolent Bodyguard: Target creature you control gains protection "
 "from the color of your choice until end of turn."
 msgstr ""
-"Poświęć tego stwora: Wskazany stwór pod twoim władaniem zyskuje do końca "
-"tury ochronę przed wybranym przez ciebie kolorem."
+"Poświęć tego stwora: Wskazany stwór pod twoim władaniem do końca tury "
+"zyskuje ochronę przed wybranym przez ciebie kolorem."
 
 #: ../../JUD.rst:38
 msgid ""
@@ -432,7 +432,7 @@ msgstr ""
 
 #: ../../JUD.rst:69
 msgid "Target creature gets +1/+0 and gains first strike until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +1/+0 i pierwszy cios."
+msgstr "Wskazany stwór do końca tury dostaje +1/+0 i pierwszy cios."
 
 #: ../../JUD.rst:71 ../../JUD.rst:217 ../../JUD.rst:231 ../../JUD.rst:243
 #: ../../JUD.rst:363 ../../JUD.rst:465 ../../JUD.rst:713
@@ -749,8 +749,8 @@ msgid ""
 "gets +3/+3 until end of turn.\""
 msgstr ""
 "Próg — O ile w twoim cmentarzu jest co najmniej siedem kart, ten stwór "
-"dostaje +1/+1 i ma \"|tap|: Wskazany atakujący lub blokujący stwór dostaje "
-"do końca tury +3/+3.\""
+"dostaje +1/+1 i ma \"|tap|: Wskazany atakujący lub blokujący stwór do końca "
+"tury dostaje +3/+3.\""
 
 #: ../../JUD.rst:184
 msgid ""
@@ -816,7 +816,7 @@ msgstr ""
 
 #: ../../JUD.rst:199
 msgid "Target creature gains flying until end of turn."
-msgstr "Wskazany stwór zyskuje do końca tury latanie."
+msgstr "Wskazany stwór do końca tury zyskuje latanie."
 
 #: ../../JUD.rst:201
 msgid ""
@@ -1662,7 +1662,7 @@ msgid ""
 "of turn.\""
 msgstr ""
 "Próg — O ile w twoim cmentarzu jest co najmniej siedem kart, ten stwór "
-"dostaje +3/+3 i ma \"|mana_r|: Ten stwór dostaje do końca tury +1/+0.\""
+"dostaje +3/+3 i ma \"|mana_r|: Ten stwór do końca tury dostaje +1/+0.\""
 
 #: ../../JUD.rst:488
 msgid ""
@@ -2319,7 +2319,7 @@ msgstr ""
 
 #: ../../JUD.rst:711
 msgid "Target creature gets +3/+3 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +3/+3."
+msgstr "Wskazany stwór do końca tury dostaje +3/+3."
 
 #: ../../JUD.rst:718
 msgid ""

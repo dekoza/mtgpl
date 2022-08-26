@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-22 09:12+0200\n"
-"PO-Revision-Date: 2022-04-17 16:43+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ala/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.10.1\n"
+"X-Generator: Weblate 4.13.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../symbols.rst:3
@@ -311,11 +311,11 @@ msgstr ""
 
 #: ../../ALA.rst:29
 msgid "|mana_g|, |tap|: Target creature gains trample until end of turn."
-msgstr "|mana_g|, |tap|: Wskazany stwór zyskuje do końca tury tratowanie."
+msgstr "|mana_g|, |tap|: Wskazany stwór do końca tury zyskuje tratowanie."
 
 #: ../../ALA.rst:31
 msgid "|mana_u|, |tap|: Target creature gains flying until end of turn."
-msgstr "|mana_u|, |tap|: Wskazany stwór zyskuje do końca tury latanie."
+msgstr "|mana_u|, |tap|: Wskazany stwór do końca tury zyskuje latanie."
 
 #: ../../ALA.rst:40
 msgid ""
@@ -337,7 +337,7 @@ msgid ""
 "Whenever a creature you control attacks alone, it gains lifelink until end "
 "of turn."
 msgstr ""
-"Ilekroć stwór pod twoim władaniem zaatakuje samotnie, zyskuje do końca tury "
+"Ilekroć stwór pod twoim władaniem zaatakuje samotnie, do końca tury zyskuje "
 "więź życia."
 
 #: ../../ALA.rst:44
@@ -383,7 +383,7 @@ msgstr "+1: Stwórz żeton białego stwora Piechur 1/1."
 
 #: ../../ALA.rst:53
 msgid "+1: Target creature gets +3/+3 and gains flying until end of turn."
-msgstr "+1: Wskazany stwór dostaje do końca tury +3/+3 i latanie."
+msgstr "+1: Wskazany stwór do końca tury dostaje +3/+3 i latanie."
 
 #: ../../ALA.rst:55
 msgid ""
@@ -472,7 +472,7 @@ msgid ""
 "|mana_3|\\ |mana_g|: Knight of the Skyward Eye gets +3/+3 until end of turn. "
 "Activate only once each turn."
 msgstr ""
-"|mana_3|\\ |mana_g|: Ten stwór dostaje do końca tury +3/+3. Możesz aktywować "
+"|mana_3|\\ |mana_g|: Ten stwór do końca tury dostaje +3/+3. Możesz aktywować "
 "tylko raz na turę."
 
 #: ../../ALA.rst:90
@@ -665,7 +665,7 @@ msgid ""
 "|mana_u|: Sighted-Caste Sorcerer gains shroud until end of turn. (It can't "
 "be the target of spells or abilities.)"
 msgstr ""
-"|mana_u|: Ten stwór zyskuje do końca tury antymagię. (Nie może być "
+"|mana_u|: Ten stwór do końca tury zyskuje antymagię. (Nie może być "
 "wskazywany przez czary i zdolności.)"
 
 #: ../../ALA.rst:148
@@ -718,7 +718,7 @@ msgid ""
 "When Welkin Guide enters the battlefield, target creature gets +2/+2 and "
 "gains flying until end of turn."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór dostaje do końca tury +2/"
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór do końca tury dostaje +2/"
 "+2 i latanie."
 
 #: ../../ALA.rst:168
@@ -773,7 +773,7 @@ msgstr ""
 #: ../../ALA.rst:185
 msgid ""
 "|mana_1|\\ |mana_w|: Cloudheath Drake gains vigilance until end of turn."
-msgstr "|mana_1|\\ |mana_w|: Ten stwór zyskuje do końca tury czujność."
+msgstr "|mana_1|\\ |mana_w|: Ten stwór do końca tury zyskuje czujność."
 
 #: ../../ALA.rst:192
 msgid ""
@@ -851,7 +851,7 @@ msgstr ""
 
 #: ../../ALA.rst:211
 msgid "|mana_b|, |tap|: Target creature gets -1/-1 until end of turn."
-msgstr "|mana_b|, |tap|: Wskazany stwór dostaje do końca tury -1/-1."
+msgstr "|mana_b|, |tap|: Wskazany stwór do końca tury dostaje -1/-1."
 
 #: ../../ALA.rst:218
 msgid ""
@@ -1200,7 +1200,7 @@ msgid ""
 "(Any amount of damage it deals to a creature is enough to destroy that "
 "creature.)"
 msgstr ""
-"|mana_2|\\ |mana_b|: Ten stwór zyskuje do końca tury dotyk śmierci. (Stwór "
+"|mana_2|\\ |mana_b|: Ten stwór do końca tury zyskuje dotyk śmierci. (Stwór "
 "otrzymujący od niniejszego jakiekolwiek obrażenia zostaje zniszczony.)"
 
 #: ../../ALA.rst:328
@@ -1270,8 +1270,8 @@ msgid ""
 "When Blister Beetle enters the battlefield, target creature gets -1/-1 until "
 "end of turn."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór dostaje do końca tury "
-"-1/-1."
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór do końca tury dostaje -1/"
+"-1."
 
 #: ../../ALA.rst:350
 msgid ""
@@ -1434,7 +1434,7 @@ msgid ""
 "Fiend gets +2/+2 until end of turn."
 msgstr ""
 "Ilekroć inny artefakt wejdzie na pole bitwy pod twoim władaniem, ten stwór "
-"dostaje do końca tury +2/+2."
+"do końca tury dostaje +2/+2."
 
 #: ../../ALA.rst:400
 msgid ""
@@ -1592,7 +1592,7 @@ msgid ""
 "|mana_u|: Shore Snapper gains islandwalk until end of turn. (It can't be "
 "blocked as long as defending player controls an Island.)"
 msgstr ""
-"|mana_u|: Ten stwór zyskuje do końca tury podbój wysp. (Nie może być "
+"|mana_u|: Ten stwór do końca tury zyskuje podbój wysp. (Nie może być "
 "blokowany o ile broniący się gracz włada Wyspą.)"
 
 #: ../../ALA.rst:456
@@ -1640,7 +1640,7 @@ msgstr ""
 
 #: ../../ALA.rst:465
 msgid "|mana_r|: Undead Leotau gets +1/-1 until end of turn."
-msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/-1."
+msgstr "|mana_r|: Ten stwór do końca tury dostaje +1/-1."
 
 #: ../../ALA.rst:467
 msgid ""
@@ -1726,7 +1726,7 @@ msgstr "Pośpiech"
 msgid ""
 "|tap|: Target creature with power 5 or greater gains haste until end of turn."
 msgstr ""
-"|tap|: Wskazany stwór o sile 5 lub większej zyskuje do końca tury pośpiech."
+"|tap|: Wskazany stwór o sile 5 lub większej do końca tury zyskuje pośpiech."
 
 #: ../../ALA.rst:498
 msgid ""
@@ -2071,7 +2071,7 @@ msgstr ""
 
 #: ../../ALA.rst:607
 msgid "|mana_g|: Thorn-Thrash Viashino gains trample until end of turn."
-msgstr "|mana_g|: Ten stwór zyskuje do końca tury tratowanie."
+msgstr "|mana_g|: Ten stwór do końca tury zyskuje tratowanie."
 
 #: ../../ALA.rst:612
 msgid ""
@@ -2209,7 +2209,7 @@ msgstr ""
 
 #: ../../ALA.rst:649
 msgid "|mana_1|\\ |mana_r|: Cavern Thoctar gets +1/+0 until end of turn."
-msgstr "|mana_1|\\ |mana_r|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_1|\\ |mana_r|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../ALA.rst:656
 msgid ""
@@ -2381,7 +2381,7 @@ msgid ""
 "Whenever you cast a spell, Manaplasm gets +X/+X until end of turn, where X "
 "is that spell's mana value."
 msgstr ""
-"Ilekroć rzucisz czar, ten stwór dostaje do końca tury +X/+X, gdzie X jest "
+"Ilekroć rzucisz czar, ten stwór do końca tury dostaje +X/+X, gdzie X jest "
 "skrótem many owego czaru."
 
 #: ../../ALA.rst:716
@@ -2396,7 +2396,7 @@ msgid ""
 "|mana_1|: Target creature with power 5 or greater gains trample until end of "
 "turn."
 msgstr ""
-"|mana_1|: Wskazany stwór o sile 5 lub większej zyskuje do końca tury "
+"|mana_1|: Wskazany stwór o sile 5 lub większej do końca tury zyskuje "
 "tratowanie."
 
 #: ../../ALA.rst:722
@@ -2434,7 +2434,7 @@ msgstr ""
 
 #: ../../ALA.rst:729
 msgid "|mana_r|, |tap|: Target creature gets +2/+0 until end of turn."
-msgstr "|mana_r|, |tap|: Wskazany stwór dostaje do końca tury +2/+0."
+msgstr "|mana_r|, |tap|: Wskazany stwór do końca tury dostaje +2/+0."
 
 #: ../../ALA.rst:731
 msgid "|mana_w|, |tap|: Tap target creature."
@@ -2466,7 +2466,7 @@ msgstr ""
 
 #: ../../ALA.rst:739
 msgid "Target creature gets +3/+3 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +3/+3."
+msgstr "Wskazany stwór do końca tury dostaje +3/+3."
 
 #: ../../ALA.rst:741
 msgid ""
@@ -2479,8 +2479,7 @@ msgstr ""
 #: ../../ALA.rst:743
 msgid ""
 "When you cycle Resounding Roar, target creature gets +6/+6 until end of turn."
-msgstr ""
-"Kiedy recyklujesz tę kartę, wskazany stwór dostaje do końca tury +6/+6."
+msgstr "Kiedy recyklujesz tę kartę, wskazany stwór do końca tury dostaje +6/+6."
 
 #: ../../ALA.rst:750
 msgid ""
@@ -2564,7 +2563,7 @@ msgid ""
 "|mana_1|: Target creature with power 5 or greater gains indestructible until "
 "end of turn."
 msgstr ""
-"|mana_1|: Wskazany stwór o sile 5 lub większej zyskuje do końca tury "
+"|mana_1|: Wskazany stwór o sile 5 lub większej do końca tury zyskuje "
 "niezniszczalność."
 
 #: ../../ALA.rst:782
@@ -2579,8 +2578,8 @@ msgid ""
 "Tap an untapped creature you control: Topan Ascetic gets +1/+1 until end of "
 "turn."
 msgstr ""
-"Przekręć odkręconego stwora pod twoim władaniem: Niniejszy stwór dostaje do "
-"końca tury +1/+1."
+"Przekręć odkręconego stwora pod twoim władaniem: Niniejszy stwór do końca "
+"tury dostaje +1/+1."
 
 #: ../../ALA.rst:788
 msgid ""
@@ -2606,11 +2605,11 @@ msgstr ""
 
 #: ../../ALA.rst:791
 msgid "Target creature gets -3/-0 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -3/-0."
+msgstr "Wskazany stwór do końca tury dostaje -3/-0."
 
 #: ../../ALA.rst:793
 msgid "Target creature gets -0/-3 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -0/-3."
+msgstr "Wskazany stwór do końca tury dostaje -0/-3."
 
 #: ../../ALA.rst:802
 msgid ""
@@ -2894,7 +2893,7 @@ msgstr ""
 
 #: ../../ALA.rst:903
 msgid "Target creature gets -4/-4 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -4/-4."
+msgstr "Wskazany stwór do końca tury dostaje -4/-4."
 
 #: ../../ALA.rst:905
 msgid "Creatures you control get +2/+0 until end of turn."
@@ -2913,7 +2912,7 @@ msgstr "Latanie, tratowanie, pośpiech"
 
 #: ../../ALA.rst:911
 msgid "|mana_r|: Hellkite Overlord gets +1/+0 until end of turn."
-msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_r|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../ALA.rst:913
 msgid "|mana_b|\\ |mana_g|: Regenerate Hellkite Overlord."
@@ -3141,7 +3140,7 @@ msgid ""
 "|mana_1|: Target creature with power 5 or greater gains first strike until "
 "end of turn."
 msgstr ""
-"|mana_1|: Wskazany stwór o sile 5 lub większej zyskuje do końca tury "
+"|mana_1|: Wskazany stwór o sile 5 lub większej do końca tury zyskuje "
 "pierwszy cios."
 
 #: ../../ALA.rst:996
@@ -3190,7 +3189,7 @@ msgstr ""
 
 #: ../../ALA.rst:1007
 msgid "Target creature gets +3/+3 and gains double strike until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +3/+3 oraz podwójny cios."
+msgstr "Wskazany stwór do końca tury dostaje +3/+3 oraz podwójny cios."
 
 #: ../../ALA.rst:1016
 msgid ""

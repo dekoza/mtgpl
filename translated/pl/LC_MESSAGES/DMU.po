@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2022.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-26 22:27+0200\n"
-"PO-Revision-Date: 2022-08-25 21:03+0000\n"
+"PO-Revision-Date: 2022-08-26 21:05+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dmu/pl/>\n"
 "Language: pl\n"
@@ -371,14 +371,10 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:43
-#, fuzzy
-#| msgid ""
-#| "This spell costs |mana_1| less to cast for each creature card in your "
-#| "graveyard."
 msgid "This spell costs |mana_1| less to cast for each creature you control."
 msgstr ""
-"Rzucenie tego czaru kosztuje o |mana_1| mniej za każdego stwora w twoim "
-"cmentarzu."
+"Rzucenie tego czaru kosztuje o |mana_1| mniej za każdego stwora pod twoim "
+"władaniem."
 
 #: ../../DMU.rst:50
 msgid ""
@@ -388,16 +384,13 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:49
-#, fuzzy
-#| msgid ""
-#| "Domain — Nishoba Brawler's power is equal to the number of basic land "
-#| "types among lands you control."
 msgid ""
 "Domain—Artillery Blast deals X damage to target tapped creature, where X is "
 "1 plus the number of basic land types among lands you control."
 msgstr ""
-"Domena — Siła tej karty jest równa liczbie bazowych typów lądu pośród lądów "
-"pod twoim władaniem."
+"Domena — Ten czar zadaje wskazanemu przekręconemu stworowi X obrażeń, gdzie "
+"X jest równe 1 plus liczba bazowych typów lądu pośród lądów pod twoim "
+"władaniem."
 
 #: ../../DMU.rst:56
 msgid ""
@@ -435,11 +428,8 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:65
-#, fuzzy
-#| msgid "If this spell was kicked, create a 1/1 white Soldier creature token."
 msgid "Create three 1/1 white Soldier creature tokens."
-msgstr ""
-"Jeśli ten czar został podbity, stwórz żeton białego stwora Piechur 1/1."
+msgstr "Stwórz trzy żetony białego stwora Piechur 1/1."
 
 #: ../../DMU.rst:70
 msgid ""
@@ -520,7 +510,7 @@ msgstr "Obronność"
 
 #: ../../DMU.rst:89
 msgid "|mana_2|\\ |mana_w|, |tap|: Tap target creature."
-msgstr ""
+msgstr "|mana_2|\\ |mana_w|, |tap|: Przekręć wskazanego stwora."
 
 #: ../../DMU.rst:96
 msgid ""
@@ -580,22 +570,16 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:113
-#, fuzzy
-#| msgid "Choose one —"
 msgid "Choose one—"
 msgstr "Wybierz jedno —"
 
 #: ../../DMU.rst:115
-#, fuzzy
-#| msgid "Destroy target creature with defender."
 msgid "Destroy target creature with toughness 4 or greater."
-msgstr "Zniszcz wskazanego stwora z obronnością."
+msgstr "Zniszcz wskazanego stwora o wytrzymałości 4 lub większej."
 
 #: ../../DMU.rst:117
-#, fuzzy
-#| msgid "Destroy target artifact or enchantment."
 msgid "Destroy target enchantment."
-msgstr "Zniszcz wskazany artefakt lub urok."
+msgstr "Zniszcz wskazany urok."
 
 #: ../../DMU.rst:124
 msgid ""
@@ -605,15 +589,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:123
-#, fuzzy
-#| msgid ""
-#| "Whenever another creature enters the battlefield under your control, you "
-#| "gain 1 life."
 msgid ""
 "Whenever another creature enters the battlefield under your control, Griffin "
 "Protector gets +1/+1 until end of turn."
 msgstr ""
-"Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, zyskaj 1 życie."
+"Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, niniejszy "
+"stwór do końca tury dostaje +1/+1."
 
 #: ../../DMU.rst:132
 msgid ""
@@ -631,7 +612,7 @@ msgid ""
 "Discard a card: Guardian of New Benalia gains indestructible until end of "
 "turn. Tap it."
 msgstr ""
-"Odrzuć kartę: Ten byt zyskuje do końca tury niezniszczalność. Przekręć go."
+"Odrzuć kartę: Ten byt do końca tury zyskuje niezniszczalność. Przekręć go."
 
 #: ../../DMU.rst:138
 msgid ""
@@ -641,28 +622,20 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:135
-#, fuzzy
-#| msgid ""
-#| "Kicker |mana_1|\\ |mana_r| (You may pay an additional |mana_1|\\ |mana_r| "
-#| "as you cast this spell.)"
 msgid ""
 "Kicker |mana_1|\\ |mana_r| (You may pay an additional |mana_1|\\ |mana_r| as "
 "you cast this spell."
 msgstr ""
-"Podbicie |mana_1|\\ |mana_r| (Rzucając ten czar możesz dodatkowo zapłacić |"
-"mana_1|\\ |mana_r|.)"
+"Podbicie |mana_1|\\ |mana_r| (Rzucając ten czar możesz dodatkowo zapłacić "
+"|mana_1|\\ |mana_r|.)"
 
 #: ../../DMU.rst:137
-#, fuzzy
-#| msgid ""
-#| "Target creature gets -1/-0 until end of turn. If this spell was kicked, "
-#| "that creature blocks this turn if able."
 msgid ""
 "Creatures you control get +2/+1 until end of turn. If this spell was kicked, "
 "those creatures also gain trample until end of turn."
 msgstr ""
-"Wskazany stwór dostaje do końca tury -1/-0. Jeśli ten czar został podbity, "
-"ów stwór blokuje w tej turze jeśli może."
+"Stwory pod twoim władaniem do końca tury dostają +2/+1. Jeśli ten czar "
+"został podbity, owe stwory do końca tury zyskują także tratowanie."
 
 #: ../../DMU.rst:142
 msgid ""
@@ -675,8 +648,8 @@ msgstr ""
 msgid ""
 "Untap up to two target creatures. They each get +2/+2 until end of turn."
 msgstr ""
-"Odkręć co najwyżej dwa wskazane stwory. Każdy z nich dostaje do końca tury "
-"+2/+2."
+"Odkręć co najwyżej dwa wskazane stwory. Każdy z nich do końca tury dostaje +"
+"2/+2."
 
 #: ../../DMU.rst:148
 msgid ""
@@ -716,13 +689,9 @@ msgid "If you would gain life, you gain that much life plus 1 instead."
 msgstr "Jeśli masz zyskać życia, zamiast tego zyskaj tyle samo żyć plus 1."
 
 #: ../../DMU.rst:155
-#, fuzzy
-#| msgid ""
-#| "|mana_4|\\ |mana_w|: Creatures you control get +1/+1 until end of turn."
 msgid ""
 "|mana_1|\\ |mana_w|: Knight of Dawn's Light gets +1/+1 until end of turn."
-msgstr ""
-"|mana_4|\\ |mana_w|: Stwory pod twoim władaniem dostają do końca tury +1/+1."
+msgstr "|mana_1|\\ |mana_w|: Niniejszy do końca tury dostaje +1/+1."
 
 #: ../../DMU.rst:164
 msgid ""
@@ -1162,13 +1131,15 @@ msgstr ""
 
 #: ../../DMU.rst:295 ../../DMU.rst:823
 msgid "Enchant creature"
-msgstr ""
+msgstr "Zaurocz stwora"
 
 #: ../../DMU.rst:297
 msgid ""
 "Enchanted creature has \"Whenever this creature deals combat damage to a "
 "player, draw a card.\""
 msgstr ""
+"Zauroczony stwór ma \"Ilekroć ten stwór zada graczowi obrażenia bojowe, "
+"dobierz kartę.\""
 
 #: ../../DMU.rst:299
 #, fuzzy
@@ -1236,7 +1207,7 @@ msgstr "Ilekroć rzucisz czar sztuczki lub obrzędu, wybierz jedno —"
 
 #: ../../DMU.rst:321
 msgid "Djinn of the Fountain gets +1/+1 until end of turn."
-msgstr "Ten stwór dostaje do końca tury +1/+1."
+msgstr "Ten stwór do końca tury dostaje +1/+1."
 
 #: ../../DMU.rst:323
 msgid ""
@@ -1270,10 +1241,8 @@ msgstr ""
 "cmentarzu."
 
 #: ../../DMU.rst:331
-#, fuzzy
-#| msgid "Counter target noncreature spell."
 msgid "Counter target spell."
-msgstr "Skontruj wskazany nie-stworowy czar."
+msgstr "Skontruj wskazany czar."
 
 #: ../../DMU.rst:336
 msgid ""
@@ -1283,10 +1252,8 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:335
-#, fuzzy
-#| msgid "Counter target noncreature spell."
 msgid "Counter target creature spell."
-msgstr "Skontruj wskazany nie-stworowy czar."
+msgstr "Skontruj wskazany czar stwora."
 
 #: ../../DMU.rst:346
 msgid ""
@@ -1404,18 +1371,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:375
-#, fuzzy
-#| msgid ""
-#| "Look at the top five cards of your library. You may put a land card from "
-#| "among them onto the battlefield tapped. Put the rest on the bottom of "
-#| "your library in a random order."
 msgid ""
 "Look at the top four cards of your library. Put one of them into your hand "
 "and the rest on the bottom of your library in any order."
 msgstr ""
-"Spójrz na pięć wierzchnich kart twojej biblioteki. Możesz umieścić spośród "
-"nich kartę lądu przekręconą na polu bitwy. Umieść pozostałe losowo na "
-"spodzie twojej biblioteki."
+"Spójrz na cztery wierzchnie karty twojej biblioteki. Umieść jedną z nich w "
+"twojej ręce, a pozostałe losowo na spodzie twojej biblioteki."
 
 #: ../../DMU.rst:382
 msgid ""
@@ -1503,16 +1464,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:407
-#, fuzzy
-#| msgid ""
-#| "Kicker |mana_1|\\ |mana_g| (You may pay an additional |mana_1|\\ |mana_g| "
-#| "as you cast this spell.)"
 msgid ""
 "Kicker |mana_3|\\ |mana_g| (You may pay an additional |mana_3|\\ |mana_g| as "
 "you cast this spell.)"
 msgstr ""
-"Podbicie |mana_1|\\ |mana_g| (Rzucając ten czar możesz dodatkowo zapłacić |"
-"mana_1|\\ |mana_g|.)"
+"Podbicie |mana_3|\\ |mana_g| (Możesz zapłacić dodatkowe |mana_3|\\ |mana_g| "
+"podczas rzucania tego czaru.)"
 
 #: ../../DMU.rst:411
 #, fuzzy
@@ -1527,13 +1484,12 @@ msgstr ""
 "+1."
 
 #: ../../DMU.rst:413
-#, fuzzy
-#| msgid "Target creature you control gains double strike until end of turn."
 msgid ""
 "|tap|: Target land you control becomes the basic land type of your choice "
 "until end of turn."
 msgstr ""
-"Wskazany stwór pod twoim władaniem do końca tury zyskuje podwójny cios."
+"|tap|: Lądy pod twoim władaniem do końca tury stają się bazowymi lądami "
+"wybranego przez ciebie typu."
 
 #: ../../DMU.rst:422
 msgid ""
@@ -1594,17 +1550,14 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:431
-#, fuzzy
-#| msgid ""
-#| "Domain — Nishoba Brawler's power is equal to the number of basic land "
-#| "types among lands you control."
 msgid ""
 "Target creature you control gets +1/+1 and gains hexproof until end of turn. "
 "Untap it. (It can't be the target of spells or abilities your opponents "
 "control.)"
 msgstr ""
-"Domena — Siła tej karty jest równa liczbie bazowych typów lądu pośród lądów "
-"pod twoim władaniem."
+"Wskazany stwór pod twoim władaniem do końca tury dostaje +1/+1 oraz "
+"antyklątwę. Odkręć go. (Nie może być wskazywany przez czary i zdolności pod "
+"władaniem twoich przeciwników.)"
 
 #: ../../DMU.rst:438
 msgid ""
@@ -1680,16 +1633,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:457
-#, fuzzy
-#| msgid ""
-#| "Scry 1. (Look at the top card of your library. You may put that card on "
-#| "the bottom of your library.)"
 msgid ""
 "|mana_2|\\ |mana_u|: Scry 1. (Look at the top card of your library. You may "
 "put that card on the bottom of your library.)"
 msgstr ""
-"Wróż 1. (Spójrz na wierzchnią kartę twojej biblioteki. Możesz umieścić ją na "
-"spodzie twojej biblioteki.)"
+"|mana_2|\\ |mana_u|: Wróż 1. (Spójrz na wierzchnią kartę twojej biblioteki. "
+"Możesz umieścić ją na spodzie twojej biblioteki.)"
 
 #: ../../DMU.rst:466
 msgid ""
@@ -1711,7 +1660,7 @@ msgid ""
 "Target creature gets -1/-0 until end of turn. If this spell was kicked, that "
 "creature blocks this turn if able."
 msgstr ""
-"Wskazany stwór dostaje do końca tury -1/-0. Jeśli ten czar został podbity, "
+"Wskazany stwór do końca tury dostaje -1/-0. Jeśli ten czar został podbity, "
 "ów stwór blokuje w tej turze jeśli może."
 
 #: ../../DMU.rst:472
@@ -1886,18 +1835,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:523
-#, fuzzy
-#| msgid ""
-#| "Put a +1/+1 counter on target creature. It gains lifelink and "
-#| "indestructible until end of turn. (Damage and effects that say \"destroy"
-#| "\" don't destroy it.)"
 msgid ""
 "Target creature gains deathtouch and indestructible until end of turn. "
 "(Damage and effects that say \"destroy\" don't destroy it.)"
 msgstr ""
-"Umieść znacznik +1/+1 na wskazanym stworze. Do końca tury zyskuje on więź "
-"życia i niezniszczalność. (Obrażenia i efekty mówiące \"zniszcz\" nie "
-"niszczą go.)"
+"Wskazany stwór do końca tury zyskuje dotyk śmierci i niezniszczalność. ("
+"Obrażenia i efekty mówiące \"zniszcz\" nie niszczą go.)"
 
 #: ../../DMU.rst:530
 msgid ""
@@ -1933,16 +1876,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:539
-#, fuzzy
-#| msgid "As an additional cost to cast this spell, discard a card."
 msgid "As an additional cost to cast this spell, sacrifice a creature."
-msgstr "Jako dodatkowy koszt rzucenia tego czaru — odrzuć kartę."
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć stwora."
 
 #: ../../DMU.rst:541
-#, fuzzy
-#| msgid "Destroy target artifact."
 msgid "Destroy target creature."
-msgstr "Zniszcz wskazany artefakt."
+msgstr "Zniszcz wskazanego stwora."
 
 #: ../../DMU.rst:546
 msgid ""
@@ -2010,13 +1949,8 @@ msgstr ""
 "Jeśli ten czar został podbity, stwórz żeton białego stwora Piechur 1/1."
 
 #: ../../DMU.rst:563
-#, fuzzy
-#| msgid ""
-#| "Untap up to two target creatures. They each get +2/+2 until end of turn."
 msgid "All creatures get -2/-2 until end of turn."
-msgstr ""
-"Odkręć co najwyżej dwa wskazane stwory. Każdy z nich dostaje do końca tury "
-"+2/+2."
+msgstr "Wszystkie stwory dostają do końca tury -2/-2."
 
 #: ../../DMU.rst:574
 msgid ""
@@ -2120,8 +2054,8 @@ msgid ""
 "Whenever you cast a black permanent spell, target creature you control gets "
 "+1/+1 and gains menace until end of turn."
 msgstr ""
-"Ilekroć rzucisz czar czarnego bytu, wskazany stwór pod twoim władaniem "
-"dostaje do końca tury +1/+1 oraz złowrogość."
+"Ilekroć rzucisz czar czarnego bytu, wskazany stwór pod twoim władaniem do "
+"końca tury dostaje +1/+1 oraz złowrogość."
 
 #: ../../DMU.rst:596
 msgid ""
@@ -2150,16 +2084,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:599
-#, fuzzy
-#| msgid ""
-#| "When \"Unburial Priest\" enters the battlefield, if it was kicked, return "
-#| "target creature card from your graveyard to your hand."
 msgid ""
 "When Eerie Soultender enters the battlefield, mill three cards. (To mill a "
 "card, put the top card of your library into your graveyard.)"
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, jeśli został podbity, przywróć wskazaną "
-"kartę stwora z twojego cmentarza do twojej ręki."
+"Kiedy ten byt wejdzie na pole bitwy, zmiel trzy karty. (Mieląc kartę umieść "
+"wierzchnią kartę twojej biblioteki w twoim cmentarzu.)"
 
 #: ../../DMU.rst:601
 #, fuzzy
@@ -2226,15 +2156,9 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:619
-#, fuzzy
-#| msgid ""
-#| "|mana_w|\\ |mana_b|, |tap|, Sacrifice another creature: Put a +1/+1 "
-#| "counter on each creature you control."
 msgid ""
 "|mana_2|\\ |mana_b|, Sacrifice a creature: You gain 1 life and draw a card."
-msgstr ""
-"|mana_w|\\ |mana_b|, |tap|, poświęć innego stwora: Umieść znacznik +1/+1 na "
-"każdym stworze pod twoim władaniem."
+msgstr "|mana_2|\\ |mana_b|, poświęć stwora: Zyskaj 1 życie i dobierz kartę."
 
 #: ../../DMU.rst:628
 msgid ""
@@ -2252,7 +2176,7 @@ msgstr ""
 
 #: ../../DMU.rst:625
 msgid "Your opponents can't gain life."
-msgstr ""
+msgstr "Twoi przeciwnicy nie mogą zyskiwać żyć."
 
 #: ../../DMU.rst:627
 #, fuzzy
@@ -2359,8 +2283,7 @@ msgstr ""
 msgid ""
 "|mana_1|, Sacrifice another creature: Phyrexian Warhorse gets +2/+1 until "
 "end of turn."
-msgstr ""
-"|mana_1|, poświęć innego stwora: Niniejszy dostaje do końca tury +2/+1."
+msgstr "|mana_1|, poświęć innego stwora: Niniejszy do końca tury dostaje +2/+1."
 
 #: ../../DMU.rst:664
 msgid ""
@@ -2418,23 +2341,14 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:679
-#, fuzzy
-#| msgid ""
-#| "Domain — Whenever Sphinx of Clear Skies deals combat damage to a player, "
-#| "reveal the top X cards of your library, where X is the number of basic "
-#| "land types among lands you control. An opponent separates those cards "
-#| "into two piles. Put one pile into your hand and the other into your "
-#| "graveyard. (Piles can be empty.)"
 msgid ""
 "Domain — Look at the top X cards of your library, where X is the number of "
 "basic land types among lands you control. Put up to two of them into your "
 "hand and the rest into your graveyard. You lose 2 life."
 msgstr ""
-"Domena — Ilekroć ten stwór zada graczowi obrażenia bojowe, ujawnij X "
-"wierzchnich kart twojej biblioteki, gdzie X jest liczbą bazowych typów lądów "
-"pośród lądów pod twoim władaniem. Przeciwnik rozdziela owe karty na dwa "
-"stosy. Umieść jeden z nich w twojej ręce, a drugi w twoim cmentarzu. (Stosy "
-"mogą być puste.)"
+"Domena — Spójrz na X wierzchnich kart twojej biblioteki, gdzie X jest liczbą "
+"bazowych typów lądów pośród lądów pod twoim władaniem. Umieść co najwyżej "
+"dwie z nich w twojej ręce a pozostałe w twoim cmentarzu. Strać 2 życia."
 
 #: ../../DMU.rst:686
 msgid ""
@@ -2714,7 +2628,7 @@ msgid ""
 "been activated four or more times this turn, sacrifice Dragon Whelp at the "
 "beginning of the next end step."
 msgstr ""
-"|mana_r|: Ten stwór dostaje do końca tury +1/+0. Jeśli ta zdolność została "
+"|mana_r|: Ten stwór do końca tury dostaje +1/+0. Jeśli ta zdolność została "
 "aktywowana co najmniej cztery razy w tej turze, poświęć tego stwora na "
 "początku najbliższego kroku końcowego."
 
@@ -2782,13 +2696,8 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:797
-#, fuzzy
-#| msgid ""
-#| "Untap up to two target creatures. They each get +2/+2 until end of turn."
 msgid "Target creature gets +2/-2 until end of turn."
-msgstr ""
-"Odkręć co najwyżej dwa wskazane stwory. Każdy z nich dostaje do końca tury "
-"+2/+2."
+msgstr "Wskazany stwór do końca tury dostaje +2/-2."
 
 #: ../../DMU.rst:804
 msgid ""
@@ -2798,10 +2707,8 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:803
-#, fuzzy
-#| msgid "Djinn of the Fountain gets +1/+1 until end of turn."
 msgid "|mana_r|: Flowstone Kavu gets +1/-1 until end of turn."
-msgstr "Ten stwór dostaje do końca tury +1/+1."
+msgstr "|mana_r|: Ten stwór do końca tury dostaje +1/-1."
 
 #: ../../DMU.rst:808
 msgid ""
@@ -2863,7 +2770,7 @@ msgstr ""
 
 #: ../../DMU.rst:819
 msgid "|mana_r|, |tap|, Discard a card: Draw a card."
-msgstr ""
+msgstr "|mana_r|, |tap|, odrzuć kartę: Dobierz kartę."
 
 #: ../../DMU.rst:828
 msgid ""
@@ -2873,21 +2780,20 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:825
-#, fuzzy
-#| msgid ""
-#| "When Argivian Cavalier enters the battlefield, create a 1/1 white Soldier "
-#| "creature token."
 msgid ""
 "When Hammerhand enters the battlefield, target creature can't block this "
 "turn."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton białego stwora Piechur 1/1."
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór nie może blokować w tej "
+"turze."
 
 #: ../../DMU.rst:827
 msgid ""
 "Enchanted creature gets +1/+1 and has haste. (It can attack and |tap| no "
 "matter when it came under your control.)"
 msgstr ""
+"Zauroczony stwór dostaje +1/+1 i ma pośpiech. (Może atakować i |tap| "
+"niezależnie kiedy wszedł pod twoje władanie.)"
 
 #: ../../DMU.rst:832
 msgid ""
@@ -3147,7 +3053,7 @@ msgid ""
 "turn. This ability costs |mana_1| less to activate for each basic land type "
 "among lands you control. Activate only once each turn."
 msgstr ""
-"Domena — |mana_5|\\ |mana_r|: Ten stwór dostaje do końca tury +2/+2. "
+"Domena — |mana_5|\\ |mana_r|: Ten stwór do końca tury dostaje +2/+2. "
 "Aktywacja tej zdolności kosztuje o |mana_1| mniej za każdy bazowy typ lądu "
 "pośród lądów pod twoim władaniem. Aktywuj tylko raz na turę."
 
@@ -3403,6 +3309,8 @@ msgid ""
 "Target creature you control deals damage equal to its power to target "
 "creature or planeswalker you don't control."
 msgstr ""
+"Wskazany stwór pod twoim władaniem zadaje obrażenia równe swojej sile "
+"wskazanemu stworowi lub wędrowcowi poza twoim władaniem."
 
 #: ../../DMU.rst:1008
 msgid ""
@@ -3426,10 +3334,8 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:1011
-#, fuzzy
-#| msgid "Destroy target artifact or enchantment."
 msgid "Destroy target artifact, enchantment, or creature with flying."
-msgstr "Zniszcz wskazany artefakt lub urok."
+msgstr "Zniszcz wskazany artefakt, urok lub stwora z lataniem."
 
 #: ../../DMU.rst:1018
 msgid ""
@@ -3544,7 +3450,7 @@ msgid ""
 "Domain — Target creature gets +1/+1 until end of turn for each basic land "
 "type among lands you control."
 msgstr ""
-"Domena — Wskazany stwór dostaje do końca tury +1/+1 za każdy typ bazowego "
+"Domena — Wskazany stwór do końca tury dostaje +1/+1 za każdy typ bazowego "
 "lądu pośród lądów pod twoim władaniem."
 
 #: ../../DMU.rst:1058
@@ -3811,7 +3717,7 @@ msgid ""
 "Whenever Snarespinner blocks a creature with flying, Snarespinner gets +2/+0 "
 "until end of turn."
 msgstr ""
-"Ilekroć ten stwór zablokuje stwora z lataniem, dostaje do końca tury +2/+0."
+"Ilekroć ten stwór zablokuje stwora z lataniem, do końca tury dostaje +2/+0."
 
 #: ../../DMU.rst:1146
 msgid ""
@@ -4906,14 +4812,9 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:1501
-#, fuzzy
-#| msgid ""
-#| "When Archangel of Wrath enters the battlefield, if it was kicked, it "
-#| "deals 2 damage to any target."
 msgid "When Meteorite enters the battlefield, it deals 2 damage to any target."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, jeśli został podbity, zadaje on "
-"wskazanemu celowi 2 obrażenia."
+"Kiedy ten byt wejdzie na pole bitwy, zadaje wskazanemu celowi 2 obrażenia."
 
 #: ../../DMU.rst:1510
 msgid ""

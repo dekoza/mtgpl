@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-22 09:12+0200\n"
-"PO-Revision-Date: 2022-04-17 14:01+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/vis/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.10.1\n"
+"X-Generator: Weblate 4.13.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../symbols.rst:3
@@ -373,7 +373,7 @@ msgstr ""
 
 #: ../../VIS.rst:51
 msgid "|tap|: Target attacking creature gets +1/+1 until end of turn."
-msgstr "|tap|: Wskazany atakujący stwór dostaje do końca tury +1/+1."
+msgstr "|tap|: Wskazany atakujący stwór do końca tury dostaje +1/+1."
 
 #: ../../VIS.rst:56
 msgid ""
@@ -400,7 +400,7 @@ msgid ""
 "blocking creature gets -1/-1 until end of turn.)"
 msgstr ""
 "Flankowanie (Ilekroć stwór bez flankowania blokuje tego stwora, blokujący "
-"stwór dostaje do końca tury -1/-1.)"
+"stwór do końca tury dostaje -1/-1.)"
 
 #: ../../VIS.rst:61
 msgid ""
@@ -1140,14 +1140,14 @@ msgstr "Wskazany gracz odrzuca kartę."
 
 #: ../../VIS.rst:325
 msgid "Target creature gets +2/-1 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +2/-1."
+msgstr "Wskazany stwór do końca tury dostaje +2/-1."
 
 #: ../../VIS.rst:327
 msgid ""
 "Target creature gains swampwalk until end of turn. (It can't be blocked as "
 "long as defending player controls a Swamp.)"
 msgstr ""
-"Wskazany stwór zyskuje do końca tury podbój bagien. (Nie może być blokowany "
+"Wskazany stwór do końca tury zyskuje podbój bagien. (Nie może być blokowany "
 "o ile broniący się gracz włada Bagnem.)"
 
 #: ../../VIS.rst:334
@@ -1662,7 +1662,7 @@ msgid ""
 "|mana_r|: Spitting Drake gets +1/+0 until end of turn. Activate only once "
 "each turn."
 msgstr ""
-"|mana_r|: Ten stwór dostaje do końca tury +1/+0. Możesz aktywować tylko raz "
+"|mana_r|: Ten stwór do końca tury dostaje +1/+0. Możesz aktywować tylko raz "
 "na turę."
 
 #: ../../VIS.rst:516
@@ -1836,7 +1836,7 @@ msgstr ""
 
 #: ../../VIS.rst:573
 msgid "Target creature gets +1/+1 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +1/+1."
+msgstr "Wskazany stwór do końca tury dostaje +1/+1."
 
 #: ../../VIS.rst:580
 msgid ""
@@ -2369,7 +2369,7 @@ msgid ""
 "Return it to its owner's hand at the beginning of the next end step. (Return "
 "it only if it's on the battlefield.)"
 msgstr ""
-"|mana_3|, |tap|: Wskazany stwór pod twoim władaniem dostaje do końca tury +2/"
+"|mana_3|, |tap|: Wskazany stwór pod twoim władaniem do końca tury dostaje +2/"
 "+2. Przywróć go do ręki właściciela na początku najbliższego kroku "
 "końcowego. (Przywróć go tylko jeśli jest na polu bitwy.)"
 
@@ -2725,8 +2725,8 @@ msgid ""
 "|tap|, Sacrifice Quicksand: Target attacking creature without flying gets "
 "-1/-2 until end of turn."
 msgstr ""
-"|tap|, poświęć ten ląd: Wskazany atakujący stwór bez latanie dostaje do "
-"końca tury -1/-2."
+"|tap|, poświęć ten ląd: Wskazany atakujący stwór bez latanie do końca tury "
+"dostaje -1/-2."
 
 #: ../../VIS.rst:899
 msgid ""

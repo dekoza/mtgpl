@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-22 09:12+0200\n"
-"PO-Revision-Date: 2022-04-17 16:51+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/thb/pl/>\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.10.1\n"
+"X-Generator: Weblate 4.13.1\n"
 
 #: ../../symbols.rst:3
 msgid "{C}"
@@ -252,7 +252,7 @@ msgid ""
 "you control gains protection from the color of your choice until end of turn."
 msgstr ""
 "|mana_1|, poświęć tego stwora: Wskazany stwór lub urok pod twoim władaniem "
-"zyskuje do końca tury ochronę przed wybranym przez ciebie kolorem."
+"do końca tury zyskuje ochronę przed wybranym przez ciebie kolorem."
 
 #: ../../THB.rst:18
 msgid ""
@@ -521,7 +521,7 @@ msgstr ""
 msgid ""
 "−1: Up to two target creatures you control each get +2/+1 until end of turn."
 msgstr ""
-"–1: Każdy z co najwyżej dwóch wskazanych stworów dostaje do końca tury +2/+1."
+"–1: Każdy z co najwyżej dwóch wskazanych stworów do końca tury dostaje +2/+1."
 
 #: ../../THB.rst:95
 msgid "−2: Create two 1/1 white Human Soldier creature tokens."
@@ -752,7 +752,7 @@ msgid ""
 "of turn. (It can't be the target of spells or abilities your opponents "
 "control. Damage and effects that say \"destroy\" don't destroy it.)"
 msgstr ""
-"Wskazany stwór dostaje do końca tury +2/+2. Jeśli jest zauroczonym stworem "
+"Wskazany stwór do końca tury dostaje +2/+2. Jeśli jest zauroczonym stworem "
 "lub stworem-urokiem, dostaje on do końca tury dodatkowo antyklątwę oraz "
 "niezniszczalność. (Nie może być wskazywany przez czary lub zdolności pod "
 "władaniem twoich przeciwników. Obrażenia i efekty mówiące \"zniszcz\" nie "
@@ -828,8 +828,8 @@ msgid ""
 "Target creature you control gets +2/+1 until end of turn. Each other "
 "creature you control gets +1/+1 until end of turn."
 msgstr ""
-"Wskazany stwór pod twoim władaniem dostaje do końca tury +2/+1. Każdy inny "
-"stwór pod twoim władaniem dostaje do końca tury +1/+1."
+"Wskazany stwór pod twoim władaniem do końca tury dostaje +2/+1. Każdy inny "
+"stwór pod twoim władaniem do końca tury dostaje +1/+1."
 
 #: ../../THB.rst:196
 msgid ""
@@ -844,7 +844,7 @@ msgid ""
 "control, target creature gets +1/+1 until end of turn."
 msgstr ""
 "Konstelacja — Ilekroć urok wejdzie na pole bitwy pod twoim władaniem, "
-"wskazany stwór dostaje do końca tury +1/+1."
+"wskazany stwór do końca tury dostaje +1/+1."
 
 #: ../../THB.rst:200
 msgid ""
@@ -932,7 +932,7 @@ msgid ""
 "|mana_1|\\ |mana_w|: Sunmane Pegasus gains vigilance and lifelink until end "
 "of turn."
 msgstr ""
-"|mana_1|\\ |mana_w|: Ten stwór dostaje do końca tury czujność i więź życia."
+"|mana_1|\\ |mana_w|: Ten stwór do końca tury dostaje czujność i więź życia."
 
 #: ../../THB.rst:232
 msgid ""
@@ -1077,7 +1077,7 @@ msgstr ""
 
 #: ../../THB.rst:273
 msgid "Target creature gets -4/-0 until end of turn. Scry 2."
-msgstr "Wskazany stwór dostaje do końca tury -4/-0. Wróż 2."
+msgstr "Wskazany stwór do końca tury dostaje -4/-0. Wróż 2."
 
 #: ../../THB.rst:278
 msgid ""
@@ -1423,7 +1423,7 @@ msgid ""
 "hexproof until end of turn. (It can't be the target of spells or abilities "
 "your opponents control.)"
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, zauroczony stwór dostaje do końca tury "
+"Kiedy ten byt wejdzie na pole bitwy, zauroczony stwór do końca tury dostaje "
 "antyklątwę. (Nie może być wskazany przez czary ani zdolności pod władaniem "
 "twoich przeciwników.)"
 
@@ -1580,7 +1580,7 @@ msgid ""
 "your devotion to blue.)"
 msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, wskazany stwór pod władaniem "
-"przeciwnika dostaje do końca tury -X/-0, gdzie X jest twoim kultem "
+"przeciwnika do końca tury dostaje -X/-0, gdzie X jest twoim kultem "
 "niebieskiego. (Każdy symbol |mana_u| w kosztach bytów pod twoim władaniem "
 "wlicza się do twojego kultu niebieskiego.)"
 
@@ -1625,7 +1625,7 @@ msgid ""
 "control, Triton Waverider gains flying until end of turn."
 msgstr ""
 "Konstelacja — Ilekroć urok wejdzie na pole bitwy pod twoim władaniem, ten "
-"stwór zyskuje do końca tury latanie."
+"stwór do końca tury zyskuje latanie."
 
 #: ../../THB.rst:464
 msgid ""
@@ -1738,7 +1738,7 @@ msgid ""
 "toward your devotion to black.)"
 msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, wskazany stwór pod władaniem "
-"przeciwnika dostaje do końca tury -X/-X, gdzie X jest twoim kultem czarnego. "
+"przeciwnika do końca tury dostaje -X/-X, gdzie X jest twoim kultem czarnego. "
 "(Każdy symbol |mana_b| w kosztach bytów pod twoim władaniem wlicza się do "
 "twojego kultu czarnego.)"
 
@@ -1879,8 +1879,8 @@ msgid ""
 "|mana_1|\\ |mana_b|, Sacrifice another creature: Target creature gets -2/-1 "
 "until end of turn."
 msgstr ""
-"|mana_1|\\ |mana_b|, poświęć innego stwora: Wskazany stwór dostaje do końca "
-"tury -2/-1."
+"|mana_1|\\ |mana_b|, poświęć innego stwora: Wskazany stwór do końca tury "
+"dostaje -2/-1."
 
 #: ../../THB.rst:556
 msgid ""
@@ -1891,7 +1891,7 @@ msgstr ""
 
 #: ../../THB.rst:553
 msgid "Target creature gets -X/-X until end of turn. You gain X life."
-msgstr "Wskazany stwór dostaje do końca tury -X/-X. Zyskaj X żyć."
+msgstr "Wskazany stwór do końca tury dostaje -X/-X. Zyskaj X żyć."
 
 #: ../../THB.rst:555
 msgid "Exile up to twice X target cards from graveyards."
@@ -1989,8 +1989,8 @@ msgid ""
 "When Grim Physician dies, target creature an opponent controls gets -1/-1 "
 "until end of turn."
 msgstr ""
-"Kiedy ten stwór umrze, wskazany stwór pod władaniem przeciwnika dostaje do "
-"końca tury -1/-1."
+"Kiedy ten stwór umrze, wskazany stwór pod władaniem przeciwnika do końca "
+"tury dostaje -1/-1."
 
 #: ../../THB.rst:592
 msgid ""
@@ -2191,9 +2191,9 @@ msgid ""
 "control gets +1/+0 and gains indestructible until end of turn. (Damage and "
 "effects that say \"destroy\" don't destroy it.)"
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór pod twoim władaniem "
-"dostaje do końca tury +1/+0 oraz niezniszczalność. (Obrażenia i efekty "
-"mówiące \"zniszcz\" nie zniszczą go.)"
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór pod twoim władaniem do "
+"końca tury dostaje +1/+0 oraz niezniszczalność. (Obrażenia i efekty mówiące "
+"\"zniszcz\" nie zniszczą go.)"
 
 #: ../../THB.rst:672
 msgid ""
@@ -2692,7 +2692,7 @@ msgstr ""
 
 #: ../../THB.rst:827
 msgid "|mana_1|\\ |mana_r|: Incendiary Oracle gets +1/+0 until end of turn."
-msgstr "|mana_1|\\ |mana_r|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_1|\\ |mana_r|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../THB.rst:829
 msgid ""
@@ -2711,7 +2711,7 @@ msgstr ""
 
 #: ../../THB.rst:833
 msgid "Target creature gets +3/+2 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +3/+2."
+msgstr "Wskazany stwór do końca tury dostaje +3/+2."
 
 #: ../../THB.rst:842
 msgid ""
@@ -2824,7 +2824,7 @@ msgstr "Latanie, pośpiech"
 
 #: ../../THB.rst:879
 msgid "|mana_2|\\ |mana_r|: Phoenix of Ash gets +2/+0 until end of turn."
-msgstr "|mana_2|\\ |mana_r|: Ten stwór dostaje do końca tury +2/+0."
+msgstr "|mana_2|\\ |mana_r|: Ten stwór do końca tury dostaje +2/+0."
 
 #: ../../THB.rst:881
 msgid ""
@@ -2939,7 +2939,7 @@ msgstr ""
 
 #: ../../THB.rst:915
 msgid "|mana_1|: Skophos Maze-Warden gets +1/-1 until end of turn."
-msgstr "|mana_1|: Ten stwór dostaje do końca tury +1/-1."
+msgstr "|mana_1|: Ten stwór do końca tury dostaje +1/-1."
 
 #: ../../THB.rst:917
 msgid ""
@@ -2965,7 +2965,7 @@ msgid ""
 "gets +1/+0 and gains menace until end of turn. (It can't be blocked except "
 "by two or more creatures.)"
 msgstr ""
-"|mana_r|, poświęć innego stwora lub urok: Ten stwór dostaje do końca tury +1/"
+"|mana_r|, poświęć innego stwora lub urok: Ten stwór do końca tury dostaje +1/"
 "+0 oraz złowrogość. (Nie może być blokowany, chyba że przez co najmniej dwa "
 "stwory.)"
 
@@ -2986,7 +2986,7 @@ msgid ""
 "greater, Stampede Rider gets +1/+1 until end of turn."
 msgstr ""
 "Na początku każdej potyczki, jeśli władasz stworem o sile 4 lub większej, "
-"niniejszy stwór dostaje do końca tury +1/+1."
+"niniejszy stwór do końca tury dostaje +1/+1."
 
 #: ../../THB.rst:934
 msgid ""
@@ -3313,7 +3313,7 @@ msgstr ""
 
 #: ../../THB.rst:1035
 msgid "Target creature gets +3/+3 and gains reach until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +3/+3 oraz zasięg."
+msgstr "Wskazany stwór do końca tury dostaje +3/+3 oraz zasięg."
 
 #: ../../THB.rst:1044
 msgid ""
@@ -3572,10 +3572,10 @@ msgid ""
 "mana_g| in the mana costs of permanents you control counts toward your "
 "devotion to green.)"
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór pod twoim władaniem "
-"dostaje do końca tury +X/+0, gdzie X jest twoim kultem zielonego. (Każdy "
-"symbol |mana_g| w kosztach bytów pod twoim władaniem wlicza się do twojego "
-"kultu zielonego.)"
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór pod twoim władaniem do "
+"końca tury dostaje +X/+0, gdzie X jest twoim kultem zielonego. (Każdy symbol "
+"|mana_g| w kosztach bytów pod twoim władaniem wlicza się do twojego kultu "
+"zielonego.)"
 
 #: ../../THB.rst:1130
 msgid ""
@@ -3610,7 +3610,7 @@ msgid ""
 "turn."
 msgstr ""
 "Na początku potyczki w twojej turze, wskazany zauroczony stwór lub stwór-"
-"urok pod twoim władaniem dostaje do końca tury +1/+1 oraz tratowanie."
+"urok pod twoim władaniem do końca tury dostaje +1/+1 oraz tratowanie."
 
 #: ../../THB.rst:1140
 msgid ""
@@ -3783,7 +3783,7 @@ msgid ""
 "control, Setessan Skirmisher gets +1/+1 until end of turn."
 msgstr ""
 "Konstelacja — Ilekroć urok wejdzie na pole bitwy pod twoim władaniem, ten "
-"stwór dostaje do końca tury +1/+1."
+"stwór do końca tury dostaje +1/+1."
 
 #: ../../THB.rst:1200
 msgid ""
@@ -4127,7 +4127,7 @@ msgid ""
 "until end of turn."
 msgstr ""
 "Konstelacja — Ilekroć urok wejdzie na pole bitwy pod twoim władaniem, umieść "
-"znacznik +1/+1 na wskazanym stworze. Ów stwór zyskuje do końca tury latanie."
+"znacznik +1/+1 na wskazanym stworze. Ów stwór do końca tury zyskuje latanie."
 
 #: ../../THB.rst:1302
 msgid ""
@@ -4381,7 +4381,7 @@ msgstr ""
 msgid ""
 "Whenever you sacrifice a permanent, Slaughter-Priest of Mogis gets +2/+0 "
 "until end of turn."
-msgstr "Ilekroć poświęcisz byt, ten stwór dostaje do końca tury +2/+0."
+msgstr "Ilekroć poświęcisz byt, ten stwór do końca tury dostaje +2/+0."
 
 #: ../../THB.rst:1375
 msgid ""
@@ -4945,8 +4945,8 @@ msgid ""
 "At the beginning of combat on your turn, target creature you control gets +2/"
 "+0 until end of turn."
 msgstr ""
-"Na początku potyczki w twojej turze, wskazany stwór pod twoim władaniem "
-"dostaje do końca tury +2/+0."
+"Na początku potyczki w twojej turze, wskazany stwór pod twoim władaniem do "
+"końca tury dostaje +2/+0."
 
 #: ../../THB.rst:1570
 msgid ""

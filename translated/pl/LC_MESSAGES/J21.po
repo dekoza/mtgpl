@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-25 14:23+0200\n"
-"PO-Revision-Date: 2022-08-24 13:47+0000\n"
+"PO-Revision-Date: 2022-08-26 21:05+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/j21/pl/>\n"
 "Language: pl\n"
@@ -909,7 +909,7 @@ msgid ""
 "effects that say \"destroy\" don't destroy it.)"
 msgstr ""
 "Na początku potyczki w twojej turze, wskazany artefaktowy stwór pod twoim "
-"władaniem dostaje do końca tury +2/+2 i niezniszczalność. (Obrażenia i "
+"władaniem do końca tury dostaje +2/+2 i niezniszczalność. (Obrażenia i "
 "efekty mówiące \"zniszcz\" nie niszczą go.)"
 
 #: ../../J21.rst:210
@@ -945,7 +945,7 @@ msgid ""
 "number of creatures in your party. (Your party consists of up to one each of "
 "Cleric, Rogue, Warrior, and Wizard.)"
 msgstr ""
-"Każdy z co najwyżej dwóch wskazanych stworów dostaje do końca tury +X/+X, "
+"Każdy z co najwyżej dwóch wskazanych stworów do końca tury dostaje +X/+X, "
 "gdzie X jest liczbą stworów w twojej ekipie. (Na ekipę składa się po jednym "
 "stworze spośród danego typu: Kleryka, Łotrzyka, Wojownika i Czarodzieja.)"
 
@@ -962,7 +962,7 @@ msgid ""
 "you control gains protection from the color of your choice until end of turn."
 msgstr ""
 "|mana_1|, poświęć tego stwora: Wskazany stwór lub urok pod twoim władaniem "
-"zyskuje do końca tury ochronę przed wybranym przez ciebie kolorem."
+"do końca tury zyskuje ochronę przed wybranym przez ciebie kolorem."
 
 #: ../../J21.rst:224
 msgid ""
@@ -977,9 +977,9 @@ msgid ""
 "control gains indestructible until end of turn. (Damage and effects that say "
 "\"destroy\" don't destroy it.)"
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór pod twoim władaniem "
-"zyskuje do końca tury niezniszczalność. (Obrażenia i efekty mówiące \"zniszcz"
-"\" nie niszczą go.)"
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór pod twoim władaniem do "
+"końca tury zyskuje niezniszczalność. (Obrażenia i efekty mówiące \"zniszcz\" "
+"nie niszczą go.)"
 
 #: ../../J21.rst:228
 msgid ""
@@ -1068,7 +1068,7 @@ msgstr ""
 
 #: ../../J21.rst:255
 msgid "|mana_4|\\ |mana_w|: Anointed Chorister gets +3/+3 until end of turn."
-msgstr "|mana_4|\\ |mana_w|: Ten stwór dostaje do końca tury +3/+3."
+msgstr "|mana_4|\\ |mana_w|: Ten stwór do końca tury dostaje +3/+3."
 
 #: ../../J21.rst:262
 msgid ""
@@ -1625,7 +1625,7 @@ msgid ""
 "Target creature gets +2/+1 and gains flying until end of turn. (Then exile "
 "this card. You may cast the creature later from exile.)"
 msgstr ""
-"Wskazany stwór dostaje do końca tury +2/+1 oraz latanie. (Następnie wygnaj "
+"Wskazany stwór do końca tury dostaje +2/+1 oraz latanie. (Następnie wygnaj "
 "tę kartę. Możesz później rzucić z niej stwora z wygnania.)"
 
 #: ../../J21.rst:436
@@ -1689,7 +1689,7 @@ msgid ""
 "Target Human creature you control gets +1/+1 and gains indestructible until "
 "end of turn."
 msgstr ""
-"Wskazany stwór typu Człowiek pod twoim władaniem dostaje do końca tury +1/+1 "
+"Wskazany stwór typu Człowiek pod twoim władaniem do końca tury dostaje +1/+1 "
 "i niezniszczalność."
 
 #: ../../J21.rst:451
@@ -1697,8 +1697,8 @@ msgid ""
 "Target non-Human creature you control gets +1/+1 and gains indestructible "
 "until end of turn."
 msgstr ""
-"Wskazany stwór bez typu Człowiek pod twoim władaniem dostaje do końca tury "
-"+1/+1 i niezniszczalność."
+"Wskazany stwór bez typu Człowiek pod twoim władaniem do końca tury dostaje +"
+"1/+1 i niezniszczalność."
 
 #: ../../J21.rst:456
 msgid ""
@@ -1840,7 +1840,7 @@ msgid ""
 "Glorious Enforcer gains double strike until end of turn."
 msgstr ""
 "Na początku każdej potyczki, jeśli masz więcej żyć niż przeciwnik, ten stwór "
-"zyskuje do końca tury podwójny cios."
+"do końca tury zyskuje podwójny cios."
 
 #: ../../J21.rst:508
 msgid ""
@@ -2131,7 +2131,7 @@ msgid ""
 "Target creature gets +2/+2 and gains lifelink until end of turn. (Damage "
 "dealt by the creature also causes its controller to gain that much life.)"
 msgstr ""
-"Wskazany stwór dostaje do końca tury +2/+2 oraz więź życia. (Obrażenia "
+"Wskazany stwór do końca tury dostaje +2/+2 oraz więź życia. (Obrażenia "
 "zadane przez tego stwora dodatkowo sprawiają, że jego władca zyskuje tyle "
 "samo życia.)"
 
@@ -2212,7 +2212,7 @@ msgid ""
 "control, target creature gets +1/+1 until end of turn."
 msgstr ""
 "Konstelacja — Ilekroć urok wejdzie na pole bitwy pod twoim władaniem, "
-"wskazany stwór dostaje do końca tury +1/+1."
+"wskazany stwór do końca tury dostaje +1/+1."
 
 #: ../../J21.rst:640
 msgid ""
@@ -2438,8 +2438,8 @@ msgid ""
 "indestructible until end of turn. (Damage and effects that say \"destroy\" "
 "don't destroy it.)"
 msgstr ""
-"Poświęć tego stwora: Inny wskazany stwór pod twoim władaniem zyskuje do "
-"końca tury niezniszczalność. (Obrażenia i efekty mówiące \"zniszcz\" nie "
+"Poświęć tego stwora: Inny wskazany stwór pod twoim władaniem do końca tury "
+"zyskuje niezniszczalność. (Obrażenia i efekty mówiące \"zniszcz\" nie "
 "niszczą go.)"
 
 #: ../../J21.rst:718
@@ -2523,7 +2523,7 @@ msgid ""
 "Target creature you control gains protection from the color of your choice "
 "until end of turn."
 msgstr ""
-"Wskazany stwór pod twoim władaniem zyskuje do końca tury ochronę przed "
+"Wskazany stwór pod twoim władaniem do końca tury zyskuje ochronę przed "
 "wybranym przez ciebie kolorem."
 
 #: ../../J21.rst:747 ../../J21.rst:1057 ../../J21.rst:1071 ../../J21.rst:1161
@@ -2761,7 +2761,7 @@ msgstr ""
 #: ../../J21.rst:827
 msgid ""
 "Whenever Sustainer of the Realm blocks, it gets +0/+2 until end of turn."
-msgstr "Ilekroć ten stwór zablokuje, dostaje do końca tury +0/+2."
+msgstr "Ilekroć ten stwór zablokuje, do końca tury dostaje +0/+2."
 
 #: ../../J21.rst:834
 msgid ""
@@ -2877,8 +2877,8 @@ msgid ""
 "III — Target creature you control with the greatest power gains flying, "
 "first strike, and lifelink until end of turn."
 msgstr ""
-"III — Wskazany stwór pod twoim władaniem o największej sile zyskuje do końca "
-"tury latanie, pierwszy cios oraz więź życia."
+"III — Wskazany stwór pod twoim władaniem o największej sile do końca tury "
+"zyskuje latanie, pierwszy cios oraz więź życia."
 
 #: ../../J21.rst:868
 msgid ""
@@ -3265,7 +3265,7 @@ msgid ""
 "controls gets -1/-0 until end of turn."
 msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, wskazany stwór pod władaniem "
-"przeciwnika dostaje do końca tury -1/-0."
+"przeciwnika do końca tury dostaje -1/-0."
 
 #: ../../J21.rst:1016
 msgid ""
@@ -3490,7 +3490,7 @@ msgid ""
 "controls gets -2/-0 until end of turn."
 msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, wskazany stwór pod władaniem "
-"przeciwnika dostaje do końca tury -2/-0."
+"przeciwnika do końca tury dostaje -2/-0."
 
 #: ../../J21.rst:1102
 msgid ""
@@ -3597,8 +3597,8 @@ msgid ""
 "Channel — |mana_x|\\ |mana_u|, Discard Ghost-Lit Drifter: X target creatures "
 "gain flying until end of turn."
 msgstr ""
-"Przepust — |mana_x|\\ |mana_u|, odrzuć tę kartę: X wskazanych stworów "
-"zyskuje do końca tury latanie."
+"Przepust — |mana_x|\\ |mana_u|, odrzuć tę kartę: X wskazanych stworów do "
+"końca tury zyskuje latanie."
 
 #: ../../J21.rst:1148
 msgid ""
@@ -3823,7 +3823,7 @@ msgstr ""
 
 #: ../../J21.rst:1215
 msgid "|mana_2|\\ |mana_u|: Target creature gains flying until end of turn."
-msgstr "|mana_2|\\ |mana_u|: Wskazany stwór zyskuje do końca tury latanie."
+msgstr "|mana_2|\\ |mana_u|: Wskazany stwór do końca tury zyskuje latanie."
 
 #: ../../J21.rst:1220
 msgid ""
@@ -4017,7 +4017,7 @@ msgstr ""
 
 #: ../../J21.rst:1283
 msgid "|mana_1|\\ |mana_u|: Mistwalker gets +1/-1 until end of turn."
-msgstr "|mana_1|\\ |mana_u|: Ten stwór dostaje do końca tury +1/-1."
+msgstr "|mana_1|\\ |mana_u|: Ten stwór do końca tury dostaje +1/-1."
 
 #: ../../J21.rst:1290
 msgid ""
@@ -4858,7 +4858,7 @@ msgid ""
 "Waterkin Shaman gets +1/+1 until end of turn."
 msgstr ""
 "Ilekroć stwór z lataniem wejdzie na pole bitwy pod twoim władaniem, "
-"niniejszy stwór dostaje do końca tury +1/+1."
+"niniejszy stwór do końca tury dostaje +1/+1."
 
 #: ../../J21.rst:1588
 msgid ""
@@ -4900,7 +4900,7 @@ msgid ""
 "When you cycle Windcaller Aven, target creature gains flying until end of "
 "turn."
 msgstr ""
-"Kiedy recyklujesz tę kartę, wskazany stwór zyskuje do końca tury latanie."
+"Kiedy recyklujesz tę kartę, wskazany stwór do końca tury zyskuje latanie."
 
 #: ../../J21.rst:1606
 msgid ""
@@ -5043,8 +5043,8 @@ msgid ""
 "At the beginning of combat on your turn, you may have target Vampire get +2/"
 "+0 until end of turn."
 msgstr ""
-"Na początku potyczki w twojej turze możesz sprawić, że wskazany Wampir "
-"dostaje do końca tury +2/+0."
+"Na początku potyczki w twojej turze możesz sprawić, że wskazany Wampir do "
+"końca tury dostaje +2/+0."
 
 #: ../../J21.rst:1652
 msgid ""
@@ -5120,8 +5120,8 @@ msgid ""
 "When Azra Smokeshaper enters the battlefield, target creature you control "
 "gains indestructible until end of turn."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór pod twoim władaniem "
-"zyskuje do końca tury niezniszczalność."
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór pod twoim władaniem do "
+"końca tury zyskuje niezniszczalność."
 
 #: ../../J21.rst:1668
 msgid ""
@@ -5174,7 +5174,7 @@ msgid ""
 "creature."
 msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, wskazany stwór pod władaniem "
-"przeciwnika dostaje do końca tury -2/-2. Usuń wszystkie znaczniki z owego "
+"przeciwnika do końca tury dostaje -2/-2. Usuń wszystkie znaczniki z owego "
 "stwora."
 
 #: ../../J21.rst:1690
@@ -5306,7 +5306,7 @@ msgstr ""
 
 #: ../../J21.rst:1725
 msgid "Discard a card: Cabal Initiate gains lifelink until end of turn."
-msgstr "Odrzuć kartę: Ten stwór zyskuje do końca tury więź życia."
+msgstr "Odrzuć kartę: Ten stwór do końca tury zyskuje więź życia."
 
 #: ../../J21.rst:1727
 msgid ""
@@ -5455,7 +5455,7 @@ msgid ""
 "controls."
 msgstr ""
 "Wskazany gracz tworzy X żetonów czarnego stwora Zombi 2/2, po czym co "
-"najwyżej jeden wskazany stwór dostaje do końca tury -1/-1 za każdego Zombi "
+"najwyżej jeden wskazany stwór do końca tury dostaje -1/-1 za każdego Zombi "
 "pod władaniem owego gracza."
 
 #: ../../J21.rst:1778
@@ -5532,7 +5532,7 @@ msgstr ""
 
 #: ../../J21.rst:1801
 msgid "Target creature gets -X/-X until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -X/-X."
+msgstr "Wskazany stwór do końca tury dostaje -X/-X."
 
 #: ../../J21.rst:1810
 msgid ""
@@ -5547,7 +5547,7 @@ msgid ""
 "control gets +1/+1 and gains deathtouch until end of turn."
 msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, wskazany atakujący Pirat pod twoim "
-"władaniem dostaje do końca tury +1/+1 i dotyk śmierci."
+"władaniem do końca tury dostaje +1/+1 i dotyk śmierci."
 
 #: ../../J21.rst:1816
 msgid ""
@@ -5680,7 +5680,7 @@ msgstr ""
 
 #: ../../J21.rst:1847
 msgid "|mana_1|: Endling gets +1/-1 or -1/+1 until end of turn."
-msgstr "|mana_1|: Ten stwór dostaje do końca tury +1/-1 lub -1/+1."
+msgstr "|mana_1|: Ten stwór do końca tury dostaje +1/-1 lub -1/+1."
 
 #: ../../J21.rst:1852
 msgid ""
@@ -5725,7 +5725,7 @@ msgid ""
 "controls gets -1/-1 until end of turn."
 msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, wskazany stwór pod władaniem "
-"przeciwnika dostaje do końca tury -1/-1."
+"przeciwnika do końca tury dostaje -1/-1."
 
 #: ../../J21.rst:1866
 msgid ""
@@ -5736,7 +5736,7 @@ msgstr ""
 
 #: ../../J21.rst:1865
 msgid "|mana_b|, Sacrifice a Goblin: Facevaulter gets +2/+2 until end of turn."
-msgstr "|mana_b|, poświęć Goblina: Ten stwór dostaje do końca tury +2/+2."
+msgstr "|mana_b|, poświęć Goblina: Ten stwór do końca tury dostaje +2/+2."
 
 #: ../../J21.rst:1870
 msgid ""
@@ -5885,8 +5885,8 @@ msgid ""
 "When Grim Physician dies, target creature an opponent controls gets -1/-1 "
 "until end of turn."
 msgstr ""
-"Kiedy ten stwór umrze, wskazany stwór pod władaniem przeciwnika dostaje do "
-"końca tury -1/-1."
+"Kiedy ten stwór umrze, wskazany stwór pod władaniem przeciwnika do końca "
+"tury dostaje -1/-1."
 
 #: ../../J21.rst:1922
 msgid ""
@@ -5957,7 +5957,7 @@ msgstr ""
 
 #: ../../J21.rst:1941
 msgid "Discard a card: Hell Mongrel gets +1/+1 until end of turn."
-msgstr "Odrzuć kartę: Ten stwór dostaje do końca tury +1/+1."
+msgstr "Odrzuć kartę: Ten stwór do końca tury dostaje +1/+1."
 
 #: ../../J21.rst:1943
 msgid ""
@@ -5998,7 +5998,7 @@ msgid ""
 "and effects that say \"destroy\" don't destroy them.)"
 msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, każdy z co najwyżej dwóch wskazanych "
-"stworów dostaje do końca tury +1/+0 i niezniszczalność. (Obrażenia oraz "
+"stworów do końca tury dostaje +1/+0 i niezniszczalność. (Obrażenia oraz "
 "efekty mówiące \"zniszcz\" nie zniszczą ich.)"
 
 #: ../../J21.rst:1960
@@ -6268,7 +6268,7 @@ msgstr ""
 
 #: ../../J21.rst:2049
 msgid "Target creature gets -2/-2 until end of turn. You gain 2 life."
-msgstr "Wskazany stwór dostaje do końca tury -2/-2. Zyskaj 2 życia."
+msgstr "Wskazany stwór do końca tury dostaje -2/-2. Zyskaj 2 życia."
 
 #: ../../J21.rst:2054
 msgid ""
@@ -6348,7 +6348,7 @@ msgid ""
 "|mana_b|, Discard a card: Necromancer's Familiar gains indestructible until "
 "end of turn. Tap it."
 msgstr ""
-"|mana_b|, odrzuć kartę: Ten stwór zyskuje do końca tury niezniszczalność. "
+"|mana_b|, odrzuć kartę: Ten stwór do końca tury zyskuje niezniszczalność. "
 "Przekręć go."
 
 #: ../../J21.rst:2084
@@ -6435,7 +6435,7 @@ msgid ""
 "Target creature gets -5/-5 until end of turn. If that creature would die "
 "this turn, exile it instead."
 msgstr ""
-"Wskazany stwór dostaje do końca tury -5/-5. Jeśli ów stwór miałby umrzeć w "
+"Wskazany stwór do końca tury dostaje -5/-5. Jeśli ów stwór miałby umrzeć w "
 "tej turze, zamiast tego wygnaj go."
 
 #: ../../J21.rst:2112
@@ -6545,8 +6545,8 @@ msgid ""
 "Whenever Plague Wight becomes blocked, each creature blocking it gets -1/-1 "
 "until end of turn."
 msgstr ""
-"Ilekroć ten stwór zostaje zablokowany, każdy z blokujących go stworów "
-"dostaje do końca tury -1/-1."
+"Ilekroć ten stwór zostaje zablokowany, każdy z blokujących go stworów do "
+"końca tury dostaje -1/-1."
 
 #: ../../J21.rst:2142
 msgid ""
@@ -6645,7 +6645,7 @@ msgid ""
 "in hand, it gains flying until end of turn."
 msgstr ""
 "Ilekroć ten stwór zaatakuje, jeśli broniący się gracz ma co najwyżej dwie "
-"karty w ręce, ten stwór zyskuje do końca tury latanie."
+"karty w ręce, ten stwór do końca tury zyskuje latanie."
 
 #: ../../J21.rst:2174
 msgid ""
@@ -6686,8 +6686,8 @@ msgid ""
 "When Shambling Goblin dies, target creature an opponent controls gets -1/-1 "
 "until end of turn."
 msgstr ""
-"Kiedy ten stwór umrze, wskazany stwór pod władaniem przeciwnika dostaje do "
-"końca tury -1/-1."
+"Kiedy ten stwór umrze, wskazany stwór pod władaniem przeciwnika do końca "
+"tury dostaje -1/-1."
 
 #: ../../J21.rst:2188
 msgid ""
@@ -6772,7 +6772,7 @@ msgstr ""
 
 #: ../../J21.rst:2209
 msgid "Target creature gets -3/-3 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -3/-3."
+msgstr "Wskazany stwór do końca tury dostaje -3/-3."
 
 #: ../../J21.rst:2218
 msgid ""
@@ -6783,7 +6783,7 @@ msgstr ""
 
 #: ../../J21.rst:2215
 msgid "Target creature gets -1/-1 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -1/-1."
+msgstr "Wskazany stwór do końca tury dostaje -1/-1."
 
 #: ../../J21.rst:2224
 msgid ""
@@ -7116,7 +7116,7 @@ msgstr ""
 
 #: ../../J21.rst:2335
 msgid "|mana_r|: Arcbound Whelp gets +1/+0 until end of turn."
-msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_r|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../J21.rst:2342
 msgid ""
@@ -7130,7 +7130,7 @@ msgid ""
 "Target attacking creature gets +2/+2 until end of turn. Each attacking non-"
 "Human creature gains trample until end of turn."
 msgstr ""
-"Wskazany atakujący stwór dostaje do końca tury +2/+2. Każdy atakujący stwór "
+"Wskazany atakujący stwór do końca tury dostaje +2/+2. Każdy atakujący stwór "
 "bez typu Człowiek, zyskuje tratowanie do końca tury."
 
 #: ../../J21.rst:2346
@@ -7262,7 +7262,7 @@ msgid ""
 "|mana_r|: Blazing Rootwalla gets +2/+0 until end of turn. Activate only once "
 "each turn."
 msgstr ""
-"|mana_r|: Ten stwór dostaje do końca tury +2/+0. Możesz aktywować tylko raz "
+"|mana_r|: Ten stwór do końca tury dostaje +2/+0. Możesz aktywować tylko raz "
 "na turę."
 
 #: ../../J21.rst:2379
@@ -7324,8 +7324,8 @@ msgid ""
 "Whenever you draw your second card each turn, Bloodhaze Wolverine gets +1/+1 "
 "and gains first strike until end of turn."
 msgstr ""
-"Ilekroć dobierzesz swoją drugą kartę w danej turze, ten stwór dostaje do "
-"końca tury +1/+1 oraz pierwszy cios."
+"Ilekroć dobierzesz swoją drugą kartę w danej turze, ten stwór do końca tury "
+"dostaje +1/+1 oraz pierwszy cios."
 
 #: ../../J21.rst:2398
 msgid ""
@@ -7386,7 +7386,7 @@ msgstr ""
 
 #: ../../J21.rst:2411
 msgid "Target creature gets +2/+0 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +2/+0."
+msgstr "Wskazany stwór do końca tury dostaje +2/+0."
 
 #: ../../J21.rst:2416
 msgid ""
@@ -7536,7 +7536,7 @@ msgid ""
 "\"|mana_r|: This creature gets +1/+0 until end of turn.\""
 msgstr ""
 "Kiedy ten stwór umrze, stwórz żeton czerwonego stwora Smok 2/2 z lataniem "
-"mającego \"|mana_r|: Ten stwór dostaje do końca tury +1/+0.\""
+"mającego \"|mana_r|: Ten stwór do końca tury dostaje +1/+0.\""
 
 #: ../../J21.rst:2466
 msgid ""
@@ -7558,7 +7558,7 @@ msgstr ""
 
 #: ../../J21.rst:2471
 msgid "|mana_r|: Dragon Hatchling gets +1/+0 until end of turn."
-msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_r|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../J21.rst:2480
 msgid ""
@@ -7576,7 +7576,7 @@ msgid ""
 "Enchanted creature has \"|mana_r|: This creature gets +1/+0 until end of "
 "turn.\""
 msgstr ""
-"Zauroczony stwór ma \"|mana_r|: Ten stwór dostaje do końca tury +1/+0.\""
+"Zauroczony stwór ma \"|mana_r|: Ten stwór do końca tury dostaje +1/+0.\""
 
 #: ../../J21.rst:2486
 msgid ""
@@ -7690,7 +7690,7 @@ msgid ""
 "Whenever you cycle or discard a card, Flameblade Adept gets +1/+0 until end "
 "of turn."
 msgstr ""
-"Ilekroć zrecyklujesz lub odrzucisz kartę, ten stwór dostaje do końca tury +1/"
+"Ilekroć zrecyklujesz lub odrzucisz kartę, ten stwór do końca tury dostaje +1/"
 "+0."
 
 #: ../../J21.rst:2520
@@ -7721,7 +7721,7 @@ msgid ""
 "Foundry Street Denizen gets +1/+0 until end of turn."
 msgstr ""
 "Ilekroć inny czerwony stwór wejdzie na pole bitwy pod twoim władaniem, ten "
-"stwór dostaje do końca tury +1/+0."
+"stwór do końca tury dostaje +1/+0."
 
 #: ../../J21.rst:2530
 msgid ""
@@ -7740,7 +7740,7 @@ msgstr ""
 
 #: ../../J21.rst:2529
 msgid "|mana_r|: Furnace Whelp gets +1/+0 until end of turn."
-msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_r|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../J21.rst:2536
 msgid ""
@@ -7761,7 +7761,7 @@ msgid ""
 "Furyblade Vampire gets +3/+0 until end of turn."
 msgstr ""
 "Na początku potyczki w twojej turze, możesz odrzucić kartę. Jeśli tak "
-"zrobisz, ten stwór dostaje do końca tury +3/+0."
+"zrobisz, ten stwór do końca tury dostaje +3/+0."
 
 #: ../../J21.rst:2544
 msgid ""
@@ -7914,7 +7914,7 @@ msgid ""
 "|mana_r|: Goblin Bird-Grabber gains flying until end of turn. Activate only "
 "if you control a creature with flying."
 msgstr ""
-"|mana_r|: Ten stwór zyskuje do końca tury latanie. Możesz aktywować tylko "
+"|mana_r|: Ten stwór do końca tury zyskuje latanie. Możesz aktywować tylko "
 "jeśli władasz stworem z lataniem."
 
 #: ../../J21.rst:2586
@@ -8087,8 +8087,8 @@ msgid ""
 "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 "
 "until end of turn.)"
 msgstr ""
-"Waleczność (Ilekroć rzucisz nie-stworowy czar, ten stwór dostaje do końca "
-"tury +1/+1.)"
+"Waleczność (Ilekroć rzucisz nie-stworowy czar, ten stwór do końca tury "
+"dostaje +1/+1.)"
 
 #: ../../J21.rst:2635
 msgid ""
@@ -8107,7 +8107,7 @@ msgstr ""
 
 #: ../../J21.rst:2641
 msgid "|mana_r|: Hellkite Punisher gets +1/+0 until end of turn."
-msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_r|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../J21.rst:2648
 msgid ""
@@ -8177,7 +8177,7 @@ msgstr ""
 
 #: ../../J21.rst:2665
 msgid "|mana_1|\\ |mana_r|: Incendiary Oracle gets +1/+0 until end of turn."
-msgstr "|mana_1|\\ |mana_r|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_1|\\ |mana_r|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../J21.rst:2667
 msgid ""
@@ -8601,7 +8601,7 @@ msgstr ""
 
 #: ../../J21.rst:2805
 msgid "Discard a card: Ravenous Bloodseeker gets +2/-2 until end of turn."
-msgstr "Odrzuć kartę: Ten stwór dostaje do końca tury +2/-2."
+msgstr "Odrzuć kartę: Ten stwór do końca tury dostaje +2/-2."
 
 #: ../../J21.rst:2810
 msgid ""
@@ -8623,7 +8623,7 @@ msgstr ""
 
 #: ../../J21.rst:2813
 msgid "Target creature gets +3/+0 and gains haste until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +3/+0 i pośpiech."
+msgstr "Wskazany stwór do końca tury dostaje +3/+0 i pośpiech."
 
 #: ../../J21.rst:2815 ../../J21.rst:2931
 msgid ""
@@ -8694,7 +8694,7 @@ msgstr ""
 
 #: ../../J21.rst:2845
 msgid "Sacrifice an artifact: Rust Monster gets +2/+0 until end of turn."
-msgstr "Poświęć artefakt: Ten stwór dostaje do końca tury +2/+0."
+msgstr "Poświęć artefakt: Ten stwór do końca tury dostaje +2/+0."
 
 #: ../../J21.rst:2850
 msgid ""
@@ -8794,7 +8794,7 @@ msgstr "Zauroczony stwór dostaje +2/+2 i ma latanie."
 
 #: ../../J21.rst:2879
 msgid "|mana_r|: Enchanted creature gets +1/+0 until end of turn."
-msgstr "|mana_r|: Zauroczony stwór dostaje do końca tury +1/+0."
+msgstr "|mana_r|: Zauroczony stwór do końca tury dostaje +1/+0."
 
 #: ../../J21.rst:2884
 msgid ""
@@ -8974,7 +8974,7 @@ msgid ""
 "Target creature gets +3/+0 and gains first strike until end of turn. (It "
 "deals combat damage before creatures without first strike.)"
 msgstr ""
-"Wskazany stwór dostaje do końca tury +3/+0 oraz pierwszy cios. (Zadaje "
+"Wskazany stwór do końca tury dostaje +3/+0 oraz pierwszy cios. (Zadaje "
 "obrażenia bojowe przez stworami bez pierwszego ciosu.)"
 
 #: ../../J21.rst:2948
@@ -9127,7 +9127,7 @@ msgstr ""
 
 #: ../../J21.rst:2999
 msgid "|mana_1|\\ |mana_r|: Weaselback Redcap gets +2/+0 until end of turn."
-msgstr "|mana_1|\\ |mana_r|: Ten stwór dostaje do końca tury +2/+0."
+msgstr "|mana_1|\\ |mana_r|: Ten stwór do końca tury dostaje +2/+0."
 
 #: ../../J21.rst:3004
 msgid ""
@@ -9266,7 +9266,7 @@ msgstr ""
 
 #: ../../J21.rst:3043
 msgid "Target creature gets +3/+3 and gains trample until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +3/+3 oraz tratowanie."
+msgstr "Wskazany stwór do końca tury dostaje +3/+3 oraz tratowanie."
 
 #: ../../J21.rst:3052
 msgid ""
@@ -9411,7 +9411,7 @@ msgstr ""
 
 #: ../../J21.rst:3091
 msgid "Target creature gains trample until end of turn."
-msgstr "Wskazany stwór zyskuje do końca tury tratowanie."
+msgstr "Wskazany stwór do końca tury zyskuje tratowanie."
 
 #: ../../J21.rst:3102
 msgid ""
@@ -9443,7 +9443,7 @@ msgid ""
 "|mana_b|, Sacrifice X Squirrels: Target creature gets +X/-X until end of "
 "turn."
 msgstr ""
-"|mana_b|, poświęć X Wiewiórów: Wskazany stwór dostaje do końca tury +X/-X."
+"|mana_b|, poświęć X Wiewiórów: Wskazany stwór do końca tury dostaje +X/-X."
 
 #: ../../J21.rst:3108
 msgid ""
@@ -9666,7 +9666,7 @@ msgid ""
 "blocked this turn if able. (A creature with trample can deal excess combat "
 "damage to the player or planeswalker it's attacking.)"
 msgstr ""
-"Wskazany stwór dostaje do końca tury +7/+7 oraz tratowanie. Musi być "
+"Wskazany stwór do końca tury dostaje +7/+7 oraz tratowanie. Musi być "
 "blokowany w tej turze, jeśli to możliwe. (Stwór z tratowaniem może zadać "
 "nadwyżkę obrażeń bojowych atakowanemu graczowi lub wędrowcowi.)"
 
@@ -9867,7 +9867,7 @@ msgid ""
 "kicked, that creature gets +4/+4 until end of turn instead."
 msgstr ""
 "Odkręć wskazanego stwora. Dostaje on do końca tury +2/+2. Jeśli ten czar "
-"został podbity, zamiast tego ów stwór dostaje do końca tury +4/+4."
+"został podbity, zamiast tego ów stwór do końca tury dostaje +4/+4."
 
 #: ../../J21.rst:3236
 msgid ""
@@ -9878,7 +9878,7 @@ msgstr ""
 
 #: ../../J21.rst:3235
 msgid "Sacrifice a token: Glimmer Bairn gets +2/+2 until end of turn."
-msgstr "Poświęć żeton: Ten stwór dostaje do końca tury +2/+2."
+msgstr "Poświęć żeton: Ten stwór do końca tury dostaje +2/+2."
 
 #: ../../J21.rst:3244
 msgid ""
@@ -9922,7 +9922,7 @@ msgid ""
 "with power 4 or greater gets +1/+1 and gains trample until end of turn."
 msgstr ""
 "Ilekroć ten stwór zaatakuje, każdy stwór pod twoim władaniem mający siłę 4 "
-"lub większą dostaje do końca tury +1/+1 oraz tratowanie."
+"lub większą do końca tury dostaje +1/+1 oraz tratowanie."
 
 #: ../../J21.rst:3252
 msgid ""
@@ -10014,8 +10014,8 @@ msgid ""
 "Target creature gets +3/+3 until end of turn. You get |energy|\\ |energy| "
 "(two energy counters)."
 msgstr ""
-"Wskazany stwór dostaje do końca tury +3/+3. Przyjmij |energy|\\ |energy| "
-"(dwa znaczniki energii)."
+"Wskazany stwór do końca tury dostaje +3/+3. Przyjmij |energy|\\ |energy| ("
+"dwa znaczniki energii)."
 
 #: ../../J21.rst:3286
 msgid ""
@@ -10429,7 +10429,7 @@ msgstr ""
 
 #: ../../J21.rst:3419
 msgid "Target creature gets +3/+3 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +3/+3."
+msgstr "Wskazany stwór do końca tury dostaje +3/+3."
 
 #: ../../J21.rst:3426
 msgid ""
@@ -10537,7 +10537,7 @@ msgstr ""
 
 #: ../../J21.rst:3455 ../../J21.rst:4107
 msgid "Target creature gets +2/+2 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +2/+2."
+msgstr "Wskazany stwór do końca tury dostaje +2/+2."
 
 #: ../../J21.rst:3462
 msgid ""
@@ -10694,7 +10694,7 @@ msgid ""
 "Then it fights target creature you don't control. (Each deals damage equal "
 "to its power to the other.)"
 msgstr ""
-"Wskazany stwór pod twoim władaniem dostaje do końca tury +2/+2 jeśli ma siłę "
+"Wskazany stwór pod twoim władaniem do końca tury dostaje +2/+2 jeśli ma siłę "
 "2. Następnie walczy on ze wskazanym stworem poza twoim władaniem. (Zadają "
 "sobie nawzajem obrażenia równe swojej sile.)"
 
@@ -10800,7 +10800,7 @@ msgid ""
 "control, Setessan Skirmisher gets +1/+1 until end of turn."
 msgstr ""
 "Konstelacja — Ilekroć urok wejdzie na pole bitwy pod twoim władaniem, ten "
-"stwór dostaje do końca tury +1/+1."
+"stwór do końca tury dostaje +1/+1."
 
 #: ../../J21.rst:3546
 msgid ""
@@ -11156,7 +11156,7 @@ msgstr ""
 
 #: ../../J21.rst:3651
 msgid "Target creature gets +4/+4 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +4/+4."
+msgstr "Wskazany stwór do końca tury dostaje +4/+4."
 
 #: ../../J21.rst:3660
 msgid ""
@@ -11333,7 +11333,7 @@ msgstr ""
 #: ../../J21.rst:3721
 msgid ""
 "|mana_8|: Target creature gets +5/+5 and gains trample until end of turn."
-msgstr "|mana_8|: Wskazany stwór dostaje do końca tury +5/+5 i tratowanie."
+msgstr "|mana_8|: Wskazany stwór do końca tury dostaje +5/+5 i tratowanie."
 
 #: ../../J21.rst:3728
 msgid ""
@@ -11476,7 +11476,7 @@ msgstr ""
 
 #: ../../J21.rst:3769
 msgid "Target creature gets +1/+1 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +1/+1."
+msgstr "Wskazany stwór do końca tury dostaje +1/+1."
 
 #: ../../J21.rst:3780
 msgid ""
@@ -11720,7 +11720,7 @@ msgid ""
 "control gains indestructible until end of turn."
 msgstr ""
 "|mana_1|, poświęć stwora wybranego typu: Wskazany stwór pod twoim władaniem "
-"zyskuje do końca tury niezniszczalność."
+"do końca tury zyskuje niezniszczalność."
 
 #: ../../J21.rst:3864
 msgid ""
@@ -12275,7 +12275,7 @@ msgstr ""
 
 #: ../../J21.rst:4039
 msgid "|mana_1|: Storm God's Oracle gets +1/-1 until end of turn."
-msgstr "|mana_1|: Ten stwór dostaje do końca tury +1/-1."
+msgstr "|mana_1|: Ten stwór do końca tury dostaje +1/-1."
 
 #: ../../J21.rst:4041
 msgid "When Storm God's Oracle dies, it deals 3 damage to any target."
@@ -12970,7 +12970,7 @@ msgstr "|mana_r|: Zniszcz wskazany artefakt pod twoim władaniem."
 
 #: ../../J21.rst:4277
 msgid "|mana_w|: Zabaz, the Glimmerwasp gains flying until end of turn."
-msgstr "|mana_w|: Ten stwór zyskuje do końca tury latanie."
+msgstr "|mana_w|: Ten stwór do końca tury zyskuje latanie."
 
 #: ../../J21.rst:4286
 msgid ""

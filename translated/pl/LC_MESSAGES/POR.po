@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-22 09:12+0200\n"
-"PO-Revision-Date: 2022-05-29 08:43+0000\n"
+"PO-Revision-Date: 2022-08-26 21:05+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/por/pl/>\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.12.1\n"
+"X-Generator: Weblate 4.13.1\n"
 
 #: ../../symbols.rst:3
 msgid "{C}"
@@ -265,7 +265,7 @@ msgid ""
 "Target creature gets +3/+3 and gains flying until end of turn. (It can't be "
 "blocked except by creatures with flying or reach.)"
 msgstr ""
-"Wskazany stwór dostaje do końca tury +3/+3 i latanie. (Nie może być "
+"Wskazany stwór do końca tury dostaje +3/+3 i latanie. (Nie może być "
 "blokowany, chyba że przez stwory mające latanie lub zasięg.)"
 
 #: ../../POR.rst:20
@@ -357,7 +357,7 @@ msgstr ""
 
 #: ../../POR.rst:51
 msgid "Whenever Charging Paladin attacks, it gets +0/+3 until end of turn."
-msgstr "Ilekroć ten stwór zaatakuje, dostaje do końca tury +1/+3."
+msgstr "Ilekroć ten stwór zaatakuje, do końca tury dostaje +1/+3."
 
 #: ../../POR.rst:58
 msgid ""
@@ -733,7 +733,7 @@ msgstr ""
 
 #: ../../POR.rst:189
 msgid "Target creature gains flying until end of turn."
-msgstr "Wskazany stwór zyskuje do końca tury latanie."
+msgstr "Wskazany stwór do końca tury zyskuje latanie."
 
 #: ../../POR.rst:191 ../../POR.rst:245 ../../POR.rst:277 ../../POR.rst:305
 #: ../../POR.rst:315
@@ -1334,7 +1334,7 @@ msgstr ""
 
 #: ../../POR.rst:431
 msgid "Target creature gets +4/+0 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +4/+0."
+msgstr "Wskazany stwór do końca tury dostaje +4/+0."
 
 #: ../../POR.rst:436
 msgid ""
@@ -2151,7 +2151,7 @@ msgstr ""
 
 #: ../../POR.rst:743
 msgid "Target creature gets +4/+4 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +4/+4."
+msgstr "Wskazany stwór do końca tury dostaje +4/+4."
 
 #: ../../POR.rst:748
 msgid ""

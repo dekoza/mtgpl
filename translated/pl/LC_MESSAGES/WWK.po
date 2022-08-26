@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-22 09:12+0200\n"
-"PO-Revision-Date: 2022-05-29 17:33+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/wwk/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.12.1\n"
+"X-Generator: Weblate 4.13.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../symbols.rst:3
@@ -329,7 +329,7 @@ msgid ""
 "Fledgling Griffin gains flying until end of turn."
 msgstr ""
 "Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, ten stwór "
-"zyskuje do końca tury latanie."
+"do końca tury zyskuje latanie."
 
 #: ../../WWK.rst:44
 msgid ""
@@ -1418,7 +1418,7 @@ msgstr ""
 
 #: ../../WWK.rst:375
 msgid "Target creature gets -2/-2 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -2/-2."
+msgstr "Wskazany stwór do końca tury dostaje -2/-2."
 
 #: ../../WWK.rst:377
 msgid ""
@@ -1426,7 +1426,7 @@ msgid ""
 "turn, that creature gets -4/-4 until end of turn instead."
 msgstr ""
 "Lądowanie — Jeśli ląd wszedł na pole bitwy pod twoim władaniem w tej turze, "
-"zamiast tego ów stwór dostaje do końca tury -4/-4."
+"zamiast tego ów stwór do końca tury dostaje -4/-4."
 
 #: ../../WWK.rst:382
 msgid ""
@@ -1490,7 +1490,7 @@ msgstr ""
 
 #: ../../WWK.rst:395
 msgid "Target creature gets +2/+0 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +2/+0."
+msgstr "Wskazany stwór do końca tury dostaje +2/+0."
 
 #: ../../WWK.rst:400
 msgid ""
@@ -1670,7 +1670,7 @@ msgstr ""
 
 #: ../../WWK.rst:457
 msgid "|mana_1|\\ |mana_r|: Mordant Dragon gets +1/+0 until end of turn."
-msgstr "|mana_1|\\ |mana_r|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_1|\\ |mana_r|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../WWK.rst:459
 msgid ""
@@ -2015,7 +2015,7 @@ msgstr ""
 
 #: ../../WWK.rst:559
 msgid "Target creature gets +2/+2 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +2/+2."
+msgstr "Wskazany stwór do końca tury dostaje +2/+2."
 
 #: ../../WWK.rst:561
 msgid ""
@@ -2023,7 +2023,7 @@ msgid ""
 "turn, that creature gets +4/+4 until end of turn instead."
 msgstr ""
 "Lądowanie — Jeśli ląd wszedł na pole bitwy pod twoim władaniem w tej turze, "
-"zamiast tego ów stwór dostaje do końca tury +4/+4."
+"zamiast tego ów stwór do końca tury dostaje +4/+4."
 
 #: ../../WWK.rst:566
 msgid ""
@@ -2152,7 +2152,7 @@ msgid ""
 "Snapping Creeper gains vigilance until end of turn."
 msgstr ""
 "Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, ten stwór "
-"zyskuje do końca tury czujność."
+"do końca tury zyskuje czujność."
 
 #: ../../WWK.rst:610
 msgid ""
@@ -2377,7 +2377,7 @@ msgid ""
 "Rover gets +2/+2 until end of turn."
 msgstr ""
 "Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, ten stwór "
-"dostaje do końca tury +2/+2."
+"do końca tury dostaje +2/+2."
 
 #: ../../WWK.rst:682
 msgid ""
@@ -2640,8 +2640,8 @@ msgid ""
 "+X/+0 until end of turn.\" It's still a land."
 msgstr ""
 "|mana_1|\\ |mana_b|\\ |mana_r|: Do końca tury ten ląd staje się czarno-"
-"czerwonym stworem Żywiołak 2/2 mającym \"|mana_x|: Ten stwór dostaje do "
-"końca tury +X/+0.\" Nadal jest lądem."
+"czerwonym stworem Żywiołak 2/2 mającym \"|mana_x|: Ten stwór do końca tury "
+"dostaje +X/+0.\" Nadal jest lądem."
 
 #: ../../WWK.rst:772
 msgid ""
@@ -2655,8 +2655,8 @@ msgid ""
 "|tap|, Sacrifice Quicksand: Target attacking creature without flying gets "
 "-1/-2 until end of turn."
 msgstr ""
-"|tap|, poświęć ten ląd: Wskazany atakujący stwór bez latanie dostaje do "
-"końca tury -1/-2."
+"|tap|, poświęć ten ląd: Wskazany atakujący stwór bez latanie do końca tury "
+"dostaje -1/-2."
 
 #: ../../WWK.rst:780
 msgid ""
@@ -2699,8 +2699,8 @@ msgid ""
 "When Sejiri Steppe enters the battlefield, target creature you control gains "
 "protection from the color of your choice until end of turn."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór pod twoim władaniem "
-"zyskuje do końca tury ochronę przed wybranym przez ciebie kolorem."
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór pod twoim władaniem do "
+"końca tury zyskuje ochronę przed wybranym przez ciebie kolorem."
 
 #: ../../WWK.rst:787
 msgid "|tap|: Add |mana_w|."

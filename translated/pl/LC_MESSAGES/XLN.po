@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-22 09:12+0200\n"
-"PO-Revision-Date: 2022-04-17 16:43+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/xln/pl/>\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.10.1\n"
+"X-Generator: Weblate 4.13.1\n"
 
 #: ../../symbols.rst:3
 msgid "{C}"
@@ -376,8 +376,7 @@ msgstr "Latanie"
 
 #: ../../XLN.rst:51
 msgid "|mana_w|, |tap|: Target attacking Vampire gets +1/+1 until end of turn."
-msgstr ""
-"|mana_w|, |tap|: Wskazany atakujący Wampir dostaje do końca tury +1/+1."
+msgstr "|mana_w|, |tap|: Wskazany atakujący Wampir do końca tury dostaje +1/+1."
 
 #: ../../XLN.rst:58
 msgid ""
@@ -426,7 +425,7 @@ msgstr ""
 
 #: ../../XLN.rst:67
 msgid "Pay 2 life: Glorifier of Dusk gains flying until end of turn."
-msgstr "Zapłać 2 życia: Ten stwór zyskuje do końca tury latanie."
+msgstr "Zapłać 2 życia: Ten stwór do końca tury zyskuje latanie."
 
 #: ../../XLN.rst:69
 msgid "Pay 2 life: Glorifier of Dusk gains vigilance until end of turn."
@@ -464,7 +463,7 @@ msgid ""
 "control gets +1/+1 and gains flying until end of turn."
 msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, inny wskazany stwór pod twoim władaniem "
-"dostaje do końca tury +1/+1 i latanie."
+"do końca tury dostaje +1/+1 i latanie."
 
 #: ../../XLN.rst:86
 msgid ""
@@ -886,7 +885,7 @@ msgid ""
 "Target creature gets +2/+2 until end of turn. If it's a Vampire, it gains "
 "first strike until end of turn."
 msgstr ""
-"Wskazany stwór dostaje do końca tury +2/+2. Jeśli to Wampir, zyskuje "
+"Wskazany stwór do końca tury dostaje +2/+2. Jeśli to Wampir, zyskuje "
 "pierwszy cios do końca tury."
 
 #: ../../XLN.rst:228
@@ -1037,7 +1036,7 @@ msgid ""
 "Target creature you control gets +0/+3 and gains hexproof until end of turn. "
 "(It can't be the target of spells or abilities your opponents control.)"
 msgstr ""
-"Wskazany stwór pod twoim władaniem dostaje do końca tury +0/+3 oraz "
+"Wskazany stwór pod twoim władaniem do końca tury dostaje +0/+3 oraz "
 "antyklątwę. (Nie może być wskazywany przez czary lub zdolności pod władaniem "
 "twoich przeciwników.)"
 
@@ -1300,8 +1299,8 @@ msgid ""
 "Whenever another Merfolk enters the battlefield under your control, River "
 "Sneak gets +1/+1 until end of turn."
 msgstr ""
-"Ilekroć inny Wodnik wejdzie na pole bitwy pod twoim władaniem, ten stwór "
-"dostaje do końca tury +1/+1."
+"Ilekroć inny Wodnik wejdzie na pole bitwy pod twoim władaniem, ten stwór do "
+"końca tury dostaje +1/+1."
 
 #: ../../XLN.rst:360
 msgid ""
@@ -1606,8 +1605,8 @@ msgid ""
 "At the beginning of combat on your turn, you may have target Vampire get +2/"
 "+0 until end of turn."
 msgstr ""
-"Na początku potyczki w twojej turze możesz sprawić, że wskazany Wampir "
-"dostaje do końca tury +2/+0."
+"Na początku potyczki w twojej turze możesz sprawić, że wskazany Wampir do "
+"końca tury dostaje +2/+0."
 
 #: ../../XLN.rst:456
 msgid ""
@@ -1990,7 +1989,7 @@ msgid ""
 "controls gets -2/-2 until end of turn."
 msgstr ""
 "Ilekroć stwór pod twoim władaniem eksploruje, wskazany stwór pod władaniem "
-"przeciwnika dostaje do końca tury -2/-2."
+"przeciwnika do końca tury dostaje -2/-2."
 
 #: ../../XLN.rst:574
 msgid ""
@@ -2379,7 +2378,7 @@ msgstr ""
 msgid ""
 "Whenever you sacrifice a Treasure, Captain Lannery Storm gets +1/+0 until "
 "end of turn."
-msgstr "Ilekroć poświęcisz Skarb, ten stwór dostaje do końca tury +1/+0."
+msgstr "Ilekroć poświęcisz Skarb, ten stwór do końca tury dostaje +1/+0."
 
 #: ../../XLN.rst:692
 msgid ""
@@ -2457,7 +2456,7 @@ msgstr ""
 #: ../../XLN.rst:711
 msgid ""
 "|mana_1|\\ |mana_r|: Fathom Fleet Firebrand gets +1/+0 until end of turn."
-msgstr "|mana_1|\\ |mana_r|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_1|\\ |mana_r|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../XLN.rst:716
 msgid ""
@@ -2802,7 +2801,7 @@ msgstr ""
 
 #: ../../XLN.rst:829
 msgid "Target creature gets +3/+0 and gains first strike until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +3/+0 oraz pierwszy cios."
+msgstr "Wskazany stwór do końca tury dostaje +3/+0 oraz pierwszy cios."
 
 #: ../../XLN.rst:836
 msgid ""
@@ -2841,8 +2840,8 @@ msgid ""
 "Whenever Tilonalli's Knight attacks, if you control a Dinosaur, Tilonalli's "
 "Knight gets +1/+1 until end of turn."
 msgstr ""
-"Ilekroć ten stwór zaatakuje, jeśli władasz Dinozaurem, ten stwór dostaje do "
-"końca tury +1/+1."
+"Ilekroć ten stwór zaatakuje, jeśli władasz Dinozaurem, ten stwór do końca "
+"tury dostaje +1/+1."
 
 #: ../../XLN.rst:850
 msgid ""
@@ -3066,7 +3065,7 @@ msgstr ""
 
 #: ../../XLN.rst:913
 msgid "Target creature gets +3/+3 and gains trample until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +3/+3 oraz tratowanie."
+msgstr "Wskazany stwór do końca tury dostaje +3/+3 oraz tratowanie."
 
 #: ../../XLN.rst:922
 msgid ""
@@ -3095,8 +3094,8 @@ msgid ""
 msgstr ""
 "Ilekroć ten byt wejdzie na pole bitwy lub zaatakuje, możesz wygnać wskazaną "
 "kartę z cmentarza. Jeśli wygnano w ten sposób kartę stwora, zyskaj 2 życia. "
-"Jeśli wygnano w ten sposób kartę nie będącą stworem, ten stwór dostaje do "
-"końca tury +1/+1."
+"Jeśli wygnano w ten sposób kartę nie będącą stworem, ten stwór do końca tury "
+"dostaje +1/+1."
 
 #: ../../XLN.rst:930
 msgid ""
@@ -3152,7 +3151,7 @@ msgid ""
 "Target creature gets +5/+5 until end of turn and must be blocked this turn "
 "if able."
 msgstr ""
-"Wskazany stwór dostaje do końca tury +5/+5 i musi być blokowany w tej turze, "
+"Wskazany stwór do końca tury dostaje +5/+5 i musi być blokowany w tej turze, "
 "jeśli to możliwe."
 
 #: ../../XLN.rst:948
@@ -3260,8 +3259,8 @@ msgid ""
 "|mana_7|\\ |mana_g|, |tap|, Sacrifice Ixalli's Keeper: Target creature gets "
 "+5/+5 and gains trample until end of turn."
 msgstr ""
-"|mana_7|\\ |mana_g|, |tap|, poświęć tego stwora: Wskazany stwór dostaje do "
-"końca tury +5/+5 oraz tratowanie."
+"|mana_7|\\ |mana_g|, |tap|, poświęć tego stwora: Wskazany stwór do końca "
+"tury dostaje +5/+5 oraz tratowanie."
 
 #: ../../XLN.rst:980
 msgid ""
@@ -3708,7 +3707,7 @@ msgid ""
 "Whenever Dire Fleet Captain attacks, it gets +1/+1 until end of turn for "
 "each other attacking Pirate."
 msgstr ""
-"Ilekroć ten stwór zaatakuje, dostaje do końca tury +1/+1 za każdego innego "
+"Ilekroć ten stwór zaatakuje, do końca tury dostaje +1/+1 za każdego innego "
 "atakującego Pirata."
 
 #: ../../XLN.rst:1112
@@ -4730,8 +4729,8 @@ msgid ""
 "Target creature gets +2/+0 until end of turn. If you control a Huatli "
 "planeswalker, that creature gets +4/+0 until end of turn instead."
 msgstr ""
-"Wskazany stwór dostaje do końca tury +2/+0. Jeśli władasz wędrowcem o typie "
-"Huatli, zamiast tego ów stwór dostaje do końca tury +4/+0."
+"Wskazany stwór do końca tury dostaje +2/+0. Jeśli władasz wędrowcem o typie "
+"Huatli, zamiast tego ów stwór do końca tury dostaje +4/+0."
 
 #: ../../XLN.rst:1456
 msgid ""

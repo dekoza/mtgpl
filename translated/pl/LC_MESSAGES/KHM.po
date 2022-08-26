@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-25 14:27+0200\n"
-"PO-Revision-Date: 2022-07-25 07:43+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/khm/pl/>\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.12.1\n"
+"X-Generator: Weblate 4.13.1\n"
 
 #: ../../symbols.rst:3
 msgid "{C}"
@@ -553,7 +553,7 @@ msgstr ""
 
 #: ../../KHM.rst:105
 msgid "Target creature gets +1/+1 and gains double strike until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +1/+1 oraz podwójny cios."
+msgstr "Wskazany stwór do końca tury dostaje +1/+1 oraz podwójny cios."
 
 #: ../../KHM.rst:112
 msgid ""
@@ -974,7 +974,7 @@ msgstr ""
 #: ../../KHM.rst:247
 msgid ""
 "Target creature gets +1/+3 and gains flying until end of turn. Untap it."
-msgstr "Wskazany stwór dostaje do końca tury +1/+3 oraz latanie. Odkręć go."
+msgstr "Wskazany stwór do końca tury dostaje +1/+3 oraz latanie. Odkręć go."
 
 #: ../../KHM.rst:254
 msgid ""
@@ -1233,7 +1233,7 @@ msgid ""
 "opponent controls gets -2/-0 until end of turn."
 msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, wskazany stwór pod władaniem "
-"przeciwnika dostaje do końca tury -2/-0."
+"przeciwnika do końca tury dostaje -2/-0."
 
 #: ../../KHM.rst:334
 msgid ""
@@ -1632,7 +1632,7 @@ msgstr ""
 
 #: ../../KHM.rst:453
 msgid "|mana_1|\\ |mana_u|: Mistwalker gets +1/-1 until end of turn."
-msgstr "|mana_1|\\ |mana_u|: Ten stwór dostaje do końca tury +1/-1."
+msgstr "|mana_1|\\ |mana_u|: Ten stwór do końca tury dostaje +1/-1."
 
 #: ../../KHM.rst:460
 msgid ""
@@ -2040,7 +2040,7 @@ msgstr ""
 #: ../../KHM.rst:583
 msgid ""
 "Whenever you foretell a card, Dream Devourer gets +2/+0 until end of turn."
-msgstr "Ilekroć przepowiadasz kartę, ten stwór dostaje do końca tury +2/+0."
+msgstr "Ilekroć przepowiadasz kartę, ten stwór do końca tury dostaje +2/+0."
 
 #: ../../KHM.rst:588
 msgid ""
@@ -2156,8 +2156,8 @@ msgid ""
 "turn. (It can't be blocked except by two or more creatures. |mana_s| can be "
 "paid with one mana from a snow source.)"
 msgstr ""
-"|mana_1|\\ |mana_s|: Ten stwór dostaje do końca tury +1/+0 i złowrogość. "
-"(Nie może być blokowany, chyba że przez co najmniej dwa stwory. |mana_s| "
+"|mana_1|\\ |mana_s|: Ten stwór do końca tury dostaje +1/+0 i złowrogość. ("
+"Nie może być blokowany, chyba że przez co najmniej dwa stwory. |mana_s| "
 "można opłacić maną ze śnieżnego źródła.)"
 
 #: ../../KHM.rst:624
@@ -2176,7 +2176,7 @@ msgid ""
 "|mana_s|\\ |mana_s|: Hailstorm Valkyrie gets +2/+2 until end of turn. (|"
 "mana_s| can be paid with one mana from a snow source.)"
 msgstr ""
-"|mana_s|\\ |mana_s|: Ten stwór dostaje do końca tury +2/+2. (|mana_s| można "
+"|mana_s|\\ |mana_s|: Ten stwór do końca tury dostaje +2/+2. (|mana_s| można "
 "opłacić maną ze śnieżnego źródła.)"
 
 #: ../../KHM.rst:630
@@ -2261,7 +2261,7 @@ msgid ""
 "and effects that say \"destroy\" don't destroy them.)"
 msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, każdy z co najwyżej dwóch wskazanych "
-"stworów dostaje do końca tury +1/+0 i niezniszczalność. (Obrażenia oraz "
+"stworów do końca tury dostaje +1/+0 i niezniszczalność. (Obrażenia oraz "
 "efekty mówiące \"zniszcz\" nie zniszczą ich.)"
 
 #: ../../KHM.rst:652
@@ -2669,7 +2669,7 @@ msgstr ""
 
 #: ../../KHM.rst:777
 msgid "Target creature gets -3/-3 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -3/-3."
+msgstr "Wskazany stwór do końca tury dostaje -3/-3."
 
 #: ../../KHM.rst:784
 msgid ""
@@ -3004,8 +3004,8 @@ msgid ""
 "Boast — |mana_2|\\ |mana_r|: Fearless Pup gets +2/+0 until end of turn. "
 "(Activate only if this creature attacked this turn and only once each turn.)"
 msgstr ""
-"Przechwałka — |mana_2|\\ |mana_r|: Ten stwór dostaje do końca tury +2/+0. "
-"(Możesz aktywować tylko jeśli ten stwór atakował w tej turze i tylko raz na "
+"Przechwałka — |mana_2|\\ |mana_r|: Ten stwór do końca tury dostaje +2/+0. ("
+"Możesz aktywować tylko jeśli ten stwór atakował w tej turze i tylko raz na "
 "turę.)"
 
 #: ../../KHM.rst:886
@@ -3163,7 +3163,7 @@ msgid ""
 "damage this way, it gets +5/+0 until end of turn."
 msgstr ""
 "Ten czar zadaje wskazanemu celowi 3 obrażenia. Jeśli stwór otrzymał "
-"obrażenia w ten sposób, dostaje do końca tury +5/+0."
+"obrażenia w ten sposób, do końca tury dostaje +5/+0."
 
 #: ../../KHM.rst:942
 msgid ""
@@ -3218,7 +3218,7 @@ msgstr ""
 #: ../../KHM.rst:949
 msgid ""
 "Target attacking creature gets +3/+3 and gains trample until end of turn."
-msgstr "Wskazany atakujący stwór dostaje do końca tury +3/+3 oraz tratowanie."
+msgstr "Wskazany atakujący stwór do końca tury dostaje +3/+3 oraz tratowanie."
 
 #: ../../KHM.rst:960
 msgid ""
@@ -3527,7 +3527,7 @@ msgid ""
 msgstr ""
 "Wybierz wskazanego stwora pod twoim władaniem i wskazanego stwora poza twoim "
 "władaniem. Jeśli władasz co najmniej trzema śnieżnymi bytami, ów stwór pod "
-"twoim władaniem dostaje do końca tury +1/+0 i niezniszczalność. Następnie "
+"twoim władaniem do końca tury dostaje +1/+0 i niezniszczalność. Następnie "
 "owe stwory walczą ze sobą. (Każdy z nich zadaje drugiemu obrażenia równe "
 "swojej sile.)"
 
@@ -3828,7 +3828,7 @@ msgid ""
 "end of turn. Tap it. (Damage and effects that say \"destroy\" don't destroy "
 "it. |mana_s| can be paid with one mana from a snow source.)"
 msgstr ""
-"|mana_s|\\ |mana_s|: Ten stwór dostaje do końca tury +2/+0 i "
+"|mana_s|\\ |mana_s|: Ten stwór do końca tury dostaje +2/+0 i "
 "niezniszczalność. Przekręć go. (Obrażenia i efekty mówiące \"zniszcz\" nie "
 "niszczą go. |mana_s| można opłacić jedną maną ze śnieżnego źródła.)"
 
@@ -3978,7 +3978,7 @@ msgstr ""
 
 #: ../../KHM.rst:1185
 msgid "Target creature gets +4/+4 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +4/+4."
+msgstr "Wskazany stwór do końca tury dostaje +4/+4."
 
 #: ../../KHM.rst:1187 ../../KHM.rst:1263
 msgid ""
@@ -4721,7 +4721,7 @@ msgid ""
 "opponent controls gets -1/-1 until end of turn."
 msgstr ""
 "III — Ilekroć w tej turze zaatakuje Elf pod twoim władaniem, wskazany stwór "
-"pod władaniem przeciwnika dostaje do końca tury -1/-1."
+"pod władaniem przeciwnika do końca tury dostaje -1/-1."
 
 #: ../../KHM.rst:1446
 msgid ""
@@ -4759,7 +4759,7 @@ msgid ""
 "Sacrifice another creature: Immersturm Predator gains indestructible until "
 "end of turn. Tap it."
 msgstr ""
-"Poświęć innego stwora: Niniejszy stwór dostaje do końca tury "
+"Poświęć innego stwora: Niniejszy stwór do końca tury dostaje "
 "niezniszczalność. Przekręć go."
 
 #: ../../KHM.rst:1464
@@ -5986,8 +5986,8 @@ msgid ""
 "a sorcery."
 msgstr ""
 "|mana_2|\\ |mana_b|\\ |mana_b|\\ |mana_g|, |tap|, poświęć ten ląd: Co "
-"najwyżej jeden wskazany stwór poza twoim władaniem dostaje do końca tury "
-"-2/-2. Stwórz dwa żetony zielonego stwora Elf Wojownik. Aktywuj tylko jako "
+"najwyżej jeden wskazany stwór poza twoim władaniem do końca tury dostaje -2/-"
+"2. Stwórz dwa żetony zielonego stwora Elf Wojownik. Aktywuj tylko jako "
 "obrzęd."
 
 #: ../../KHM.rst:1890
@@ -6005,8 +6005,8 @@ msgid ""
 "a sorcery."
 msgstr ""
 "|mana_1|\\ |mana_b|\\ |mana_b|\\ |mana_g|, |tap|, poświęć ten ląd: Co "
-"najwyżej jeden wskazany stwór poza twoim władaniem dostaje do końca tury "
-"-2/-2. Stwórz dwa żetony zielonego stwora Elf Wojownik. Aktywuj tylko jako "
+"najwyżej jeden wskazany stwór poza twoim władaniem do końca tury dostaje -2/-"
+"2. Stwórz dwa żetony zielonego stwora Elf Wojownik. Aktywuj tylko jako "
 "obrzęd."
 
 #: ../../KHM.rst:1896
@@ -6456,7 +6456,7 @@ msgid ""
 "Target creature an opponent controls gets -X/-X until end of turn, where X "
 "is the number of Elves you control."
 msgstr ""
-"Wskazany stwór pod władaniem przeciwnika dostaje do końca tury -X/-X, gdzie "
+"Wskazany stwór pod władaniem przeciwnika do końca tury dostaje -X/-X, gdzie "
 "X jest liczbą Elfów pod twoim władaniem."
 
 #: ../../KHM.rst:2052
@@ -6495,7 +6495,7 @@ msgid ""
 "from the top of your library. Until the end of your next turn, you may play "
 "those cards."
 msgstr ""
-"Wskazany Gigant pod twoim władaniem dostaje do końca tury +2/+2 i "
+"Wskazany Gigant pod twoim władaniem do końca tury dostaje +2/+2 i "
 "tratowanie. Ilekroć w tej turze zada on graczowi obrażenia bojowe, wygnaj "
 "tyle samo kart z wierzchu twojej biblioteki. Do końca twojej następnej tury "
 "możesz zagrywać owe karty."

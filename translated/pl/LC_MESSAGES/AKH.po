@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-22 09:12+0200\n"
-"PO-Revision-Date: 2022-04-17 16:43+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/akh/pl/>\n"
 "Language: pl\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.10.1\n"
+"X-Generator: Weblate 4.13.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../symbols.rst:3
@@ -617,7 +617,7 @@ msgstr ""
 
 #: ../../AKH.rst:119
 msgid "Target creature gets +2/+2 and gains flying until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +2/+2 oraz latanie."
+msgstr "Wskazany stwór do końca tury dostaje +2/+2 oraz latanie."
 
 #: ../../AKH.rst:128
 msgid ""
@@ -1196,7 +1196,7 @@ msgid ""
 "Whenever you cycle or discard a card, Hekma Sentinels gets +1/+1 until end "
 "of turn."
 msgstr ""
-"Ilekroć zrecyklujesz lub odrzucisz kartę, ten stwór dostaje do końca tury +1/"
+"Ilekroć zrecyklujesz lub odrzucisz kartę, ten stwór do końca tury dostaje +1/"
 "+1."
 
 #: ../../AKH.rst:326
@@ -1540,8 +1540,8 @@ msgid ""
 "Whenever you cycle or discard a card, target creature gains flying until end "
 "of turn."
 msgstr ""
-"Ilekroć zrecyklujesz lub odrzucisz kartę, wskazany stwór zyskuje do końca "
-"tury latanie."
+"Ilekroć zrecyklujesz lub odrzucisz kartę, wskazany stwór do końca tury "
+"zyskuje latanie."
 
 #: ../../AKH.rst:442
 msgid ""
@@ -1812,8 +1812,8 @@ msgid ""
 "Whenever you cycle or discard another card, Horror of the Broken Lands gets "
 "+2/+1 until end of turn."
 msgstr ""
-"Ilekroć zrecyklujesz lub odrzucisz inną kartę, ten stwór dostaje do końca "
-"tury +2/+1."
+"Ilekroć zrecyklujesz lub odrzucisz inną kartę, ten stwór do końca tury "
+"dostaje +2/+1."
 
 #: ../../AKH.rst:529 ../../AKH.rst:587
 msgid "Cycling |mana_b| (|mana_b|, Discard this card: Draw a card.)"
@@ -2249,7 +2249,7 @@ msgstr ""
 
 #: ../../AKH.rst:671
 msgid "Target creature gets +3/+1 and gains trample until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +3/+1 oraz tratowanie."
+msgstr "Wskazany stwór do końca tury dostaje +3/+1 oraz tratowanie."
 
 #: ../../AKH.rst:676
 msgid ""
@@ -2391,7 +2391,7 @@ msgid ""
 "Whenever you cycle or discard a card, Flameblade Adept gets +1/+0 until end "
 "of turn."
 msgstr ""
-"Ilekroć zrecyklujesz lub odrzucisz kartę, ten stwór dostaje do końca tury +1/"
+"Ilekroć zrecyklujesz lub odrzucisz kartę, ten stwór do końca tury dostaje +1/"
 "+0."
 
 #: ../../AKH.rst:726
@@ -2609,7 +2609,7 @@ msgstr "Zasięg (Ten stwór może blokować stwory mające latanie.)"
 
 #: ../../AKH.rst:783
 msgid "|mana_1|\\ |mana_r|: Minotaur Sureshot gets +1/+0 until end of turn."
-msgstr "|mana_1|\\ |mana_r|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_1|\\ |mana_r|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../AKH.rst:790
 msgid ""
@@ -2644,8 +2644,8 @@ msgid ""
 "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 "
 "until end of turn.)"
 msgstr ""
-"Waleczność (Ilekroć rzucisz nie-stworowy czar, ten stwór dostaje do końca "
-"tury +1/+1.)"
+"Waleczność (Ilekroć rzucisz nie-stworowy czar, ten stwór do końca tury "
+"dostaje +1/+1.)"
 
 #: ../../AKH.rst:798
 msgid ""
@@ -3235,7 +3235,7 @@ msgid ""
 "|mana_2|\\ |mana_g|: Another target creature gets +2/+0 and gains trample "
 "until end of turn."
 msgstr ""
-"|mana_2|\\ |mana_g|: Inny wskazany stwór dostaje do końca tury +2/+0 i "
+"|mana_2|\\ |mana_g|: Inny wskazany stwór do końca tury dostaje +2/+0 i "
 "tratowanie."
 
 #: ../../AKH.rst:994
@@ -3283,7 +3283,7 @@ msgid ""
 "Target creature gets +2/+2 until end of turn. You may remove a -1/-1 counter "
 "from it."
 msgstr ""
-"Wskazany stwór dostaje do końca tury +2/+2. Możesz usunąć z niego znacznik "
+"Wskazany stwór do końca tury dostaje +2/+2. Możesz usunąć z niego znacznik "
 "-1/-1."
 
 #: ../../AKH.rst:1008
@@ -3363,8 +3363,8 @@ msgstr ""
 msgid ""
 "Untap up to two target creatures. They each get +2/+2 until end of turn."
 msgstr ""
-"Odkręć co najwyżej dwa wskazane stwory. Każdy z nich dostaje do końca tury "
-"+2/+2."
+"Odkręć co najwyżej dwa wskazane stwory. Każdy z nich do końca tury dostaje +"
+"2/+2."
 
 #: ../../AKH.rst:1034
 msgid ""
@@ -3682,7 +3682,7 @@ msgid ""
 "Whenever you cycle or discard a card, Shadowstorm Vizier gets +1/+1 until "
 "end of turn."
 msgstr ""
-"Ilekroć zrecyklujesz lub odrzucisz kartę, ten stwór dostaje do końca tury +1/"
+"Ilekroć zrecyklujesz lub odrzucisz kartę, ten stwór do końca tury dostaje +1/"
 "+1."
 
 #: ../../AKH.rst:1134
@@ -3699,7 +3699,7 @@ msgid ""
 "gets +1/+1 until end of turn and can't be blocked this turn."
 msgstr ""
 "Na początku potyczki w twojej turze, wskazany żeton stwora pod twoim "
-"władaniem dostaje do końca tury +1/+1 i nie może być blokowany w tej turze."
+"władaniem do końca tury dostaje +1/+1 i nie może być blokowany w tej turze."
 
 #: ../../AKH.rst:1133
 msgid ""
@@ -3943,7 +3943,7 @@ msgstr ""
 
 #: ../../AKH.rst:1217
 msgid "Target creature gets +1/+0 and gains indestructible until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +1/+0 oraz niezniszczalność."
+msgstr "Wskazany stwór do końca tury dostaje +1/+0 oraz niezniszczalność."
 
 #: ../../AKH.rst:1224
 msgid ""
@@ -3966,7 +3966,7 @@ msgstr ""
 
 #: ../../AKH.rst:1227
 msgid "Target creature gets +X/+0 until end of turn, where X is its power."
-msgstr "Wskazany stwór dostaje do końca tury +X/+0, gdzie X jest jego siłą."
+msgstr "Wskazany stwór do końca tury dostaje +X/+0, gdzie X jest jego siłą."
 
 #: ../../AKH.rst:1234
 msgid ""
@@ -3977,7 +3977,7 @@ msgstr ""
 
 #: ../../AKH.rst:1233
 msgid "Target creature gains double strike until end of turn."
-msgstr "Wskazany stwór zyskuje do końca tury podwójny cios."
+msgstr "Wskazany stwór do końca tury zyskuje podwójny cios."
 
 #: ../../AKH.rst:1238
 msgid ""
@@ -4376,8 +4376,8 @@ msgid ""
 "Whenever you cast a creature spell, target creature you control gets +2/+2 "
 "and gains trample until end of turn."
 msgstr ""
-"Ilekroć rzucisz czar stwora, wskazany stwór pod twoim władaniem dostaje do "
-"końca tury +2/+2 oraz tratowanie."
+"Ilekroć rzucisz czar stwora, wskazany stwór pod twoim władaniem do końca "
+"tury dostaje +2/+2 oraz tratowanie."
 
 #: ../../AKH.rst:1370
 msgid ""

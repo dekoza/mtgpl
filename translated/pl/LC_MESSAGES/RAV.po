@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-22 09:12+0200\n"
-"PO-Revision-Date: 2022-06-25 14:00+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/rav/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.12.1\n"
+"X-Generator: Weblate 4.13.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../symbols.rst:3
@@ -851,7 +851,7 @@ msgstr ""
 
 #: ../../RAV.rst:217
 msgid "Target creature gets -3/-0 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -3/-0."
+msgstr "Wskazany stwór do końca tury dostaje -3/-0."
 
 #: ../../RAV.rst:219 ../../RAV.rst:241 ../../RAV.rst:247 ../../RAV.rst:283
 #: ../../RAV.rst:317
@@ -1395,7 +1395,7 @@ msgstr ""
 
 #: ../../RAV.rst:429
 msgid "Target creature gets -1/-1 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -1/-1."
+msgstr "Wskazany stwór do końca tury dostaje -1/-1."
 
 #: ../../RAV.rst:431 ../../RAV.rst:863 ../../RAV.rst:879 ../../RAV.rst:1177
 msgid ""
@@ -1550,8 +1550,8 @@ msgid ""
 "When Keening Banshee enters the battlefield, target creature gets -2/-2 "
 "until end of turn."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór dostaje do końca tury "
-"-2/-2."
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór do końca tury dostaje -2/"
+"-2."
 
 #: ../../RAV.rst:488
 msgid ""
@@ -1562,7 +1562,7 @@ msgstr ""
 
 #: ../../RAV.rst:487
 msgid "Target creature gets -3/-3 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -3/-3."
+msgstr "Wskazany stwór do końca tury dostaje -3/-3."
 
 #: ../../RAV.rst:492
 msgid ""
@@ -2600,7 +2600,7 @@ msgstr ""
 
 #: ../../RAV.rst:841
 msgid "Target creature gets +2/+2 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +2/+2."
+msgstr "Wskazany stwór do końca tury dostaje +2/+2."
 
 #: ../../RAV.rst:848
 msgid ""
@@ -2804,8 +2804,8 @@ msgid ""
 "Tap two untapped creatures you control: Root-Kin Ally gets +2/+2 until end "
 "of turn."
 msgstr ""
-"Przekręć dwa odkręcone stwory pod twoim władaniem: Niniejszy stwór dostaje "
-"do końca tury +2/+2."
+"Przekręć dwa odkręcone stwory pod twoim władaniem: Niniejszy stwór do końca "
+"tury dostaje +2/+2."
 
 #: ../../RAV.rst:926
 msgid ""
@@ -3163,8 +3163,8 @@ msgid ""
 "+2/+2 until end of turn. Another target creature gets -2/-2 until end of "
 "turn."
 msgstr ""
-"|mana_2|\\ |mana_b|\\ |mana_g|, poświęć stwora: Wskazany stwór dostaje do "
-"końca tury +2/+2. Inny wskazany stwór dostaje do końca tury -2/-2."
+"|mana_2|\\ |mana_b|\\ |mana_g|, poświęć stwora: Wskazany stwór do końca tury "
+"dostaje +2/+2. Inny wskazany stwór do końca tury dostaje -2/-2."
 
 #: ../../RAV.rst:1050
 msgid ""
@@ -3490,7 +3490,7 @@ msgstr ""
 
 #: ../../RAV.rst:1157 ../../RAV.rst:1159 ../../RAV.rst:1161
 msgid "Target creature gets +1/+1 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +1/+1."
+msgstr "Wskazany stwór do końca tury dostaje +1/+1."
 
 #: ../../RAV.rst:1166
 msgid ""
@@ -3696,13 +3696,13 @@ msgstr ""
 
 #: ../../RAV.rst:1239
 msgid "|mana_1|\\ |mana_r|: Target creature gains haste until end of turn."
-msgstr "|mana_1|\\ |mana_r|: Wskazany stwór zyskuje do końca tury pośpiech."
+msgstr "|mana_1|\\ |mana_r|: Wskazany stwór do końca tury zyskuje pośpiech."
 
 #: ../../RAV.rst:1241
 msgid ""
 "|mana_1|\\ |mana_w|: Target creature gains first strike until end of turn."
 msgstr ""
-"|mana_1|\\ |mana_w|: Wskazany stwór zyskuje do końca tury pierwszy cios."
+"|mana_1|\\ |mana_w|: Wskazany stwór do końca tury zyskuje pierwszy cios."
 
 #: ../../RAV.rst:1248
 msgid ""
@@ -4375,7 +4375,7 @@ msgid ""
 "|mana_2|\\ |mana_r|\\ |mana_w|, |tap|: Target creature gains double strike "
 "until end of turn."
 msgstr ""
-"|mana_2|\\ |mana_r|\\ |mana_w|, |tap|: Wskazany stwór zyskuje do końca tury "
+"|mana_2|\\ |mana_r|\\ |mana_w|, |tap|: Wskazany stwór do końca tury zyskuje "
 "podwójny cios."
 
 #: ../../RAV.rst:1496

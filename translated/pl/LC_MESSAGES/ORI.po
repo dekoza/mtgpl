@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-29 18:35+0200\n"
-"PO-Revision-Date: 2022-05-29 17:33+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ori/pl/>\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.12.1\n"
+"X-Generator: Weblate 4.13.1\n"
 
 #: ../../symbols.rst:3
 msgid "{C}"
@@ -270,7 +270,7 @@ msgstr ""
 
 #: ../../ORI.rst:17
 msgid "|tap|: Target attacking creature gets +1/+1 until end of turn."
-msgstr "|tap|: Wskazany atakujący stwór dostaje do końca tury +1/+1."
+msgstr "|tap|: Wskazany atakujący stwór do końca tury dostaje +1/+1."
 
 #: ../../ORI.rst:26
 msgid ""
@@ -373,7 +373,7 @@ msgstr ""
 
 #: ../../ORI.rst:51
 msgid "Whenever Charging Griffin attacks, it gets +1/+1 until end of turn."
-msgstr "Ilekroć ten stwór zaatakuje, dostaje do końca tury +1/+1."
+msgstr "Ilekroć ten stwór zaatakuje, do końca tury dostaje +1/+1."
 
 #: ../../ORI.rst:56
 msgid ""
@@ -446,7 +446,7 @@ msgid ""
 "Target creature gets +1/+1 until end of turn. Prevent all damage that would "
 "be dealt to it this turn. If it's renowned, untap it."
 msgstr ""
-"Wskazany stwór dostaje do końca tury +1/+1. Zażegnaj wszystkie obrażenia, "
+"Wskazany stwór do końca tury dostaje +1/+1. Zażegnaj wszystkie obrażenia, "
 "jakie mógłby otrzymać w tej turze. Jeśli jest sławny, odkręć go."
 
 #: ../../ORI.rst:78
@@ -700,7 +700,7 @@ msgstr ""
 
 #: ../../ORI.rst:153
 msgid "Target creature gets +2/+2 and gains flying until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +2/+2 oraz latanie."
+msgstr "Wskazany stwór do końca tury dostaje +2/+2 oraz latanie."
 
 #: ../../ORI.rst:160
 msgid ""
@@ -1128,7 +1128,7 @@ msgstr ""
 
 #: ../../ORI.rst:301
 msgid "Disciple of the Ring gets +1/+1 until end of turn."
-msgstr "Ten stwór dostaje do końca tury +1/+1."
+msgstr "Ten stwór do końca tury dostaje +1/+1."
 
 #: ../../ORI.rst:303
 msgid "Tap target creature."
@@ -1307,8 +1307,8 @@ msgid ""
 "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 "
 "until end of turn.)"
 msgstr ""
-"Waleczność (Ilekroć rzucisz nie-stworowy czar, ten stwór dostaje do końca "
-"tury +1/+1.)"
+"Waleczność (Ilekroć rzucisz nie-stworowy czar, ten stwór do końca tury "
+"dostaje +1/+1.)"
 
 #: ../../ORI.rst:359
 msgid "Whenever Jhessian Thief deals combat damage to a player, draw a card."
@@ -1632,7 +1632,7 @@ msgstr ""
 
 #: ../../ORI.rst:471
 msgid "|mana_u|: Watercourser gets +1/-1 until end of turn."
-msgstr "|mana_u|: Ten stwór dostaje do końca tury +1/-1."
+msgstr "|mana_u|: Ten stwór do końca tury dostaje +1/-1."
 
 #: ../../ORI.rst:478
 msgid ""
@@ -1874,7 +1874,7 @@ msgid ""
 "controls gets -1/-1 until end of turn."
 msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, wskazany stwór pod władaniem "
-"przeciwnika dostaje do końca tury -1/-1."
+"przeciwnika do końca tury dostaje -1/-1."
 
 #: ../../ORI.rst:548
 msgid ""
@@ -2130,7 +2130,7 @@ msgstr ""
 
 #: ../../ORI.rst:621
 msgid "Sacrifice a creature: Nantuko Husk gets +2/+2 until end of turn."
-msgstr "Poświęć stwora: Niniejszy stwór dostaje do końca tury +2/+2."
+msgstr "Poświęć stwora: Niniejszy stwór do końca tury dostaje +2/+2."
 
 #: ../../ORI.rst:628
 msgid ""
@@ -2352,7 +2352,7 @@ msgid ""
 "controller loses 2 life. (Any amount of damage a creature with deathtouch "
 "deals to a creature is enough to destroy it.)"
 msgstr ""
-"Wskazany stwór pod twoim władaniem dostaje do końca tury +1/+0 oraz dotyk "
+"Wskazany stwór pod twoim władaniem do końca tury dostaje +1/+0 oraz dotyk "
 "śmierci. Ilekroć w tej turze umrze stwór uszkodzony przez owego stwora, jego "
 "właściciel traci 2 życia. (Stwór otrzymujący od stwora z dotykiem śmierci "
 "jakiekolwiek obrażenia zostaje zniszczony.)"
@@ -2487,7 +2487,7 @@ msgstr ""
 
 #: ../../ORI.rst:739
 msgid "|mana_1|\\ |mana_r|: Bellows Lizard gets +1/+0 until end of turn."
-msgstr "|mana_1|\\ |mana_r|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_1|\\ |mana_r|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../ORI.rst:744
 msgid ""
@@ -3065,7 +3065,7 @@ msgid ""
 "Target creature gets +3/+1 until end of turn. Scry 1. (Look at the top card "
 "of your library. You may put that card on the bottom of your library.)"
 msgstr ""
-"Wskazany stwór dostaje do końca tury +3/+1. Wróż 1. (Spójrz na wierzchnią "
+"Wskazany stwór do końca tury dostaje +3/+1. Wróż 1. (Spójrz na wierzchnią "
 "kartę twojej biblioteki. Możesz umieścić ją na spodzie twojej biblioteki.)"
 
 #: ../../ORI.rst:926
@@ -3341,7 +3341,7 @@ msgid ""
 "Each creature you control gets +3/+3 until end of turn and must be blocked "
 "this turn if able."
 msgstr ""
-"Każdy stwór pod twoim władaniem dostaje do końca tury +3/+3 i musi być "
+"Każdy stwór pod twoim władaniem do końca tury dostaje +3/+3 i musi być "
 "blokowany w tej turze, o ile to możliwe."
 
 #: ../../ORI.rst:1010
@@ -3608,8 +3608,8 @@ msgid ""
 "Whenever a creature you control becomes blocked, it gets +1/+1 until end of "
 "turn."
 msgstr ""
-"Ilekroć stwór pod twoim władaniem zostanie zablokowany, dostaje do końca "
-"tury +1/+1."
+"Ilekroć stwór pod twoim władaniem zostanie zablokowany, do końca tury "
+"dostaje +1/+1."
 
 #: ../../ORI.rst:1091
 msgid ""
@@ -3662,7 +3662,7 @@ msgstr ""
 
 #: ../../ORI.rst:1105
 msgid "Target creature gets +4/+4 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +4/+4."
+msgstr "Wskazany stwór do końca tury dostaje +4/+4."
 
 #: ../../ORI.rst:1112
 msgid ""
@@ -3727,7 +3727,7 @@ msgid ""
 "creature an opponent controls. (Each deals damage equal to its power to the "
 "other.)"
 msgstr ""
-"Wskazany stwór pod twoim władaniem dostaje do końca tury +2/+2. Walczy on ze "
+"Wskazany stwór pod twoim władaniem do końca tury dostaje +2/+2. Walczy on ze "
 "wskazanym stworem pod władaniem przeciwnika. (Każdy zadaje drugiemu "
 "obrażenia równe swojej sile.)"
 
@@ -3760,7 +3760,7 @@ msgid ""
 "When Yeva's Forcemage enters the battlefield, target creature gets +2/+2 "
 "until end of turn."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór dostaje do końca tury +2/"
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór do końca tury dostaje +2/"
 "+2."
 
 #: ../../ORI.rst:1142
@@ -4220,7 +4220,7 @@ msgid ""
 "Whenever equipped creature attacks alone, it gets +1/+1 until end of turn "
 "for each other creature you control."
 msgstr ""
-"Ilekroć wyposażony stwór atakuje samotnie, dostaje do końca tury +1/+1 za "
+"Ilekroć wyposażony stwór atakuje samotnie, do końca tury dostaje +1/+1 za "
 "każdego innego stwora pod twoim władaniem."
 
 #: ../../ORI.rst:1308
@@ -4601,7 +4601,7 @@ msgstr ""
 
 #: ../../ORI.rst:1453
 msgid "|mana_r|: Fiery Hellhound gets +1/+0 until end of turn."
-msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_r|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../ORI.rst:1460
 msgid ""
@@ -4612,7 +4612,7 @@ msgstr ""
 
 #: ../../ORI.rst:1459
 msgid "|mana_r|: Shivan Dragon gets +1/+0 until end of turn."
-msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_r|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../ORI.rst:1464
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-22 09:12+0200\n"
-"PO-Revision-Date: 2022-04-24 19:45+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/fut/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.10.1\n"
+"X-Generator: Weblate 4.13.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../symbols.rst:3
@@ -432,7 +432,7 @@ msgid ""
 "the blocking creature gets -1/-1 until end of turn.)"
 msgstr ""
 "Latanie, flankowanie (Ilekroć stwór bez flankowania blokuje tego stwora, "
-"blokujący stwór dostaje do końca tury -1/-1.)"
+"blokujący stwór do końca tury dostaje -1/-1.)"
 
 #: ../../FUT.rst:67
 msgid ""
@@ -1186,7 +1186,7 @@ msgstr ""
 
 #: ../../FUT.rst:321
 msgid "|mana_2|: Sarcomite Myr gains flying until end of turn."
-msgstr "|mana_2|: Ten stwór zyskuje do końca tury latanie."
+msgstr "|mana_2|: Ten stwór do końca tury zyskuje latanie."
 
 #: ../../FUT.rst:323
 msgid "|mana_2|, Sacrifice Sarcomite Myr: Draw a card."
@@ -1393,7 +1393,7 @@ msgstr ""
 
 #: ../../FUT.rst:391
 msgid "Target creature gets -3/-3 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -3/-3."
+msgstr "Wskazany stwór do końca tury dostaje -3/-3."
 
 #: ../../FUT.rst:395
 msgid ""
@@ -1526,7 +1526,7 @@ msgid ""
 "then you may put that card on the bottom of your library.)"
 msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, wróż 1, po czym ujawnij wierzchnią "
-"kartę twojej biblioteki. Ten stwór dostaje do końca tury -X/-X, gdzie X jest "
+"kartę twojej biblioteki. Ten stwór do końca tury dostaje -X/-X, gdzie X jest "
 "skrótem many owej karty. (By wróżyć 1, spójrz na wierzchnią kartę twojej "
 "biblioteki, po czym możesz umieścić ową kartę na spodzie twojej biblioteki.)"
 
@@ -1874,7 +1874,7 @@ msgid ""
 "blocking creature gets -1/-1 until end of turn.)"
 msgstr ""
 "Flankowanie (Ilekroć stwór bez flankowania blokuje tego stwora, blokujący "
-"stwór dostaje do końca tury -1/-1.)"
+"stwór do końca tury dostaje -1/-1.)"
 
 #: ../../FUT.rst:552
 msgid ""
@@ -1889,7 +1889,7 @@ msgstr "Podwójny cios"
 
 #: ../../FUT.rst:551
 msgid "|mana_r|: Char-Rumbler gets +1/+0 until end of turn."
-msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_r|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../FUT.rst:556
 msgid ""
@@ -2073,7 +2073,7 @@ msgid ""
 "suspended card you own: Rift Elemental gets +2/+0 until end of turn."
 msgstr ""
 "|mana_1|\\ |mana_r|, usuń znacznik czasu z bytu pod twoim władaniem lub "
-"własnej zawieszonej karty: Ten stwór dostaje do końca tury +2/+0."
+"własnej zawieszonej karty: Ten stwór do końca tury dostaje +2/+0."
 
 #: ../../FUT.rst:618
 msgid ""
@@ -2260,7 +2260,7 @@ msgstr ""
 
 #: ../../FUT.rst:677
 msgid "|mana_br|: Henchfiend of Ukor gets +1/+0 until end of turn."
-msgstr "|mana_br|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_br|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../FUT.rst:684
 msgid ""

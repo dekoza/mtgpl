@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Polish (Dodatki)\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-29 18:35+0200\n"
-"PO-Revision-Date: 2022-05-29 17:33+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/war/pl/>\n"
 "Language: pl\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.12.1\n"
+"X-Generator: Weblate 4.13.1\n"
 
 #: ../../symbols.rst:3
 msgid "{C}"
@@ -388,7 +388,7 @@ msgstr ""
 
 #: ../../WAR.rst:53
 msgid "Target creature gets +1/+0 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +1/+0."
+msgstr "Wskazany stwór do końca tury dostaje +1/+0."
 
 #: ../../WAR.rst:55 ../../WAR.rst:187 ../../WAR.rst:245 ../../WAR.rst:599
 msgid "Draw a card."
@@ -464,8 +464,8 @@ msgid ""
 "+1: Up to one other target creature you control gains your choice of "
 "vigilance, lifelink, or indestructible until end of turn."
 msgstr ""
-"+1: Co najwyżej jeden inny wskazany stwór pod twoim władaniem zyskuje do "
-"końca tury jedno z: czujność, więź życia lub niezniszczalność."
+"+1: Co najwyżej jeden inny wskazany stwór pod twoim władaniem do końca tury "
+"zyskuje jedno z: czujność, więź życia lub niezniszczalność."
 
 #: ../../WAR.rst:77
 msgid "−6: Exile target nonland permanent."
@@ -845,8 +845,8 @@ msgid ""
 "Whenever Trusted Pegasus attacks, target attacking creature without flying "
 "gains flying until end of turn."
 msgstr ""
-"Ilekroć ten stwór zaatakuje, wskazany atakujący stwór bez latania zyskuje do "
-"końca tury latanie."
+"Ilekroć ten stwór zaatakuje, wskazany atakujący stwór bez latania do końca "
+"tury zyskuje latanie."
 
 #: ../../WAR.rst:200
 msgid ""
@@ -1399,7 +1399,7 @@ msgid ""
 "Whenever you cast a noncreature spell, Sky Theater Strix gets +1/+0 until "
 "end of turn."
 msgstr ""
-"Ilekroć rzucisz nie-stworowy czar, niniejszy stwór dostaje do końca tury +1/"
+"Ilekroć rzucisz nie-stworowy czar, niniejszy stwór do końca tury dostaje +1/"
 "+0."
 
 #: ../../WAR.rst:366
@@ -1570,8 +1570,8 @@ msgid ""
 "+1 counters on an Army you control. If you don't control one, create a 0/0 "
 "black Zombie Army creature token first.)"
 msgstr ""
-"Co najwyżej jeden wskazany stwór dostaje do końca tury -2/-2. Zgromadź 2. "
-"(Umieść 2 znaczniki +1/+1 na Armii pod twoim władaniem. Jeśli żadną nie "
+"Co najwyżej jeden wskazany stwór do końca tury dostaje -2/-2. Zgromadź 2. ("
+"Umieść 2 znaczniki +1/+1 na Armii pod twoim władaniem. Jeśli żadną nie "
 "władasz, stwórz najpierw żeton czarnego stwora Armia Zombi 0/0.)"
 
 #: ../../WAR.rst:422
@@ -1949,9 +1949,9 @@ msgid ""
 "until end of turn. Whenever a creature dies this turn, each creature other "
 "than Massacre Girl gets -1/-1 until end of turn."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, każdy inny stwór dostaje do końca tury "
-"-1/-1. Ilekroć umrze stwór w tej turze, każdy stwór inny niż niniejszy "
-"dostaje do końca tury -1/-1."
+"Kiedy ten byt wejdzie na pole bitwy, każdy inny stwór do końca tury dostaje "
+"-1/-1. Ilekroć umrze stwór w tej turze, każdy stwór inny niż niniejszy do "
+"końca tury dostaje -1/-1."
 
 #: ../../WAR.rst:532
 msgid ""
@@ -1985,7 +1985,7 @@ msgid ""
 "Target creature gets -5/-5 until end of turn. If that creature would die "
 "this turn, exile it instead."
 msgstr ""
-"Wskazany stwór dostaje do końca tury -5/-5. Jeśli ów stwór miałby umrzeć w "
+"Wskazany stwór do końca tury dostaje -5/-5. Jeśli ów stwór miałby umrzeć w "
 "tej turze, zamiast tego wygnaj go."
 
 #: ../../WAR.rst:540
@@ -2098,7 +2098,7 @@ msgid ""
 "Target creature gets +2/+0 and gains indestructible until end of turn. "
 "(Damage and effects that say \"destroy\" don't destroy it.)"
 msgstr ""
-"Wskazany stwór dostaje do końca tury +2/+0 oraz niezniszczalność. (Obrażenia "
+"Wskazany stwór do końca tury dostaje +2/+0 oraz niezniszczalność. (Obrażenia "
 "i efekty mówiące \"zniszcz\" nie niszczą go.)"
 
 #: ../../WAR.rst:578
@@ -2164,8 +2164,7 @@ msgstr "O ile jest twoja tura, ten stwór ma pierwszy cios."
 msgid ""
 "|mana_1|, Sacrifice another creature: Ahn-Crop Invader gets +2/+0 until end "
 "of turn."
-msgstr ""
-"|mana_1|, poświęć innego stwora: Ten stwór dostaje do końca tury +2/+0."
+msgstr "|mana_1|, poświęć innego stwora: Ten stwór do końca tury dostaje +2/+0."
 
 #: ../../WAR.rst:600
 msgid ""
@@ -2230,8 +2229,8 @@ msgid ""
 "Whenever you cast a noncreature spell, Burning Prophet gets +1/+0 until end "
 "of turn, then scry 1."
 msgstr ""
-"Ilekroć rzucisz nie-stworowy czar, niniejszy stwór dostaje do końca tury +1/"
-"+0, po czym wróż 1."
+"Ilekroć rzucisz nie-stworowy czar, niniejszy stwór do końca tury dostaje +1/+"
+"0, po czym wróż 1."
 
 #: ../../WAR.rst:618
 msgid ""
@@ -2602,7 +2601,7 @@ msgid ""
 "creature and gets +1/+1 until end of turn."
 msgstr ""
 "Ilekroć rzucisz nie-stworowy czar, ten byt staje się artefaktowym stworem i "
-"dostaje do końca tury +1/+1."
+"do końca tury dostaje +1/+1."
 
 #: ../../WAR.rst:723
 msgid ""
@@ -2622,7 +2621,7 @@ msgstr ""
 #: ../../WAR.rst:727
 msgid "Up to two target creatures each get +2/+0 until end of turn."
 msgstr ""
-"Każdy z co najwyżej dwóch wskazanych stworów dostaje do końca tury +2/+0."
+"Każdy z co najwyżej dwóch wskazanych stworów do końca tury dostaje +2/+0."
 
 #: ../../WAR.rst:734
 msgid ""
@@ -2664,7 +2663,7 @@ msgstr ""
 
 #: ../../WAR.rst:741
 msgid "Target creature gets +2/+1 and gains haste until end of turn. Scry 1."
-msgstr "Wskazany stwór dostaje do końca tury +2/+1 oraz pośpiech. Wróż 1."
+msgstr "Wskazany stwór do końca tury dostaje +2/+1 oraz pośpiech. Wróż 1."
 
 #: ../../WAR.rst:750
 msgid ""
@@ -2751,7 +2750,7 @@ msgstr "Kiedy ten stwór umrze, zadaje wskazanemu celowi 1 obrażenie."
 
 #: ../../WAR.rst:769
 msgid "|mana_1|\\ |mana_r|: Tibalt's Rager gets +2/+0 until end of turn."
-msgstr "|mana_1|\\ |mana_r|: Ten stwór dostaje do końca tury +2/+0."
+msgstr "|mana_1|\\ |mana_r|: Ten stwór do końca tury dostaje +2/+0."
 
 #: ../../WAR.rst:776
 msgid ""
@@ -2991,7 +2990,7 @@ msgstr ""
 
 #: ../../WAR.rst:837
 msgid "Target creature gets +3/+3 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +3/+3."
+msgstr "Wskazany stwór do końca tury dostaje +3/+3."
 
 #: ../../WAR.rst:846
 msgid ""
@@ -3253,7 +3252,7 @@ msgid ""
 "Whenever Snarespinner blocks a creature with flying, Snarespinner gets +2/+0 "
 "until end of turn."
 msgstr ""
-"Ilekroć ten stwór zablokuje stwora z lataniem, dostaje do końca tury +2/+0."
+"Ilekroć ten stwór zablokuje stwora z lataniem, do końca tury dostaje +2/+0."
 
 #: ../../WAR.rst:938
 msgid ""
@@ -4411,7 +4410,7 @@ msgstr "Stwory pod twoim władaniem mają pośpiech."
 #: ../../WAR.rst:1295
 msgid ""
 "−1: Target creature gets +2/+1 and gains haste until end of turn. Scry 1."
-msgstr "–1: Wskazany stwór dostaje do końca tury +2/+1 oraz pośpiech. Wróż 1."
+msgstr "–1: Wskazany stwór do końca tury dostaje +2/+1 oraz pośpiech. Wróż 1."
 
 #: ../../WAR.rst:1302
 msgid ""
@@ -4749,7 +4748,7 @@ msgstr ""
 msgid ""
 "Target creature gets +2/+2 and gains flying until end of turn. You gain 2 "
 "life."
-msgstr "Wskazany stwór dostaje do końca tury +2/+2 i latanie. Zyskaj 2 życia."
+msgstr "Wskazany stwór do końca tury dostaje +2/+2 i latanie. Zyskaj 2 życia."
 
 #: ../../WAR.rst:1422
 msgid ""

@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-22 09:12+0200\n"
-"PO-Revision-Date: 2022-04-18 20:13+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/rix/pl/>\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.10.1\n"
+"X-Generator: Weblate 4.13.1\n"
 
 #: ../../symbols.rst:3
 msgid "{C}"
@@ -387,7 +387,7 @@ msgid ""
 "creature gets +1/+1 until end of turn."
 msgstr ""
 "Ilekroć inny Wampir wejdzie na pole bitwy pod twoim władaniem, wskazany "
-"stwór dostaje do końca tury +1/+1."
+"stwór do końca tury dostaje +1/+1."
 
 #: ../../RIX.rst:58
 msgid ""
@@ -445,8 +445,8 @@ msgid ""
 "Whenever Majestic Heliopterus attacks, another target Dinosaur you control "
 "gains flying until end of turn."
 msgstr ""
-"Ilekroć ten stwór zaatakuje, inny wskazany Dinozaur pod twoim władaniem "
-"zyskuje do końca tury latanie."
+"Ilekroć ten stwór zaatakuje, inny wskazany Dinozaur pod twoim władaniem do "
+"końca tury zyskuje latanie."
 
 #: ../../RIX.rst:78
 msgid ""
@@ -471,7 +471,7 @@ msgstr ""
 
 #: ../../RIX.rst:81
 msgid "Target creature gets +2/+2 until end of turn. You gain 2 life."
-msgstr "Wskazany stwór dostaje do końca tury +2/+2. Zyskaj 2 życia."
+msgstr "Wskazany stwór do końca tury dostaje +2/+2. Zyskaj 2 życia."
 
 #: ../../RIX.rst:88
 msgid ""
@@ -1293,7 +1293,7 @@ msgid ""
 "control gets +1/+1 and gains deathtouch until end of turn."
 msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, wskazany atakujący Pirat pod twoim "
-"władaniem dostaje do końca tury +1/+1 i dotyk śmierci."
+"władaniem do końca tury dostaje +1/+1 i dotyk śmierci."
 
 #: ../../RIX.rst:376
 msgid ""
@@ -1450,7 +1450,7 @@ msgstr ""
 
 #: ../../RIX.rst:427
 msgid "Target creature gets -2/-2 until end of turn. You gain 2 life."
-msgstr "Wskazany stwór dostaje do końca tury -2/-2. Zyskaj 2 życia."
+msgstr "Wskazany stwór do końca tury dostaje -2/-2. Zyskaj 2 życia."
 
 #: ../../RIX.rst:434
 msgid ""
@@ -1643,8 +1643,8 @@ msgid ""
 "When Voracious Vampire enters the battlefield, target Vampire you control "
 "gets +1/+1 and gains menace until end of turn."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, wskazany Wampir pod twoim władaniem "
-"dostaje do końca tury +1/+1 oraz złowrogość."
+"Kiedy ten byt wejdzie na pole bitwy, wskazany Wampir pod twoim władaniem do "
+"końca tury dostaje +1/+1 oraz złowrogość."
 
 #: ../../RIX.rst:502
 msgid ""
@@ -1713,11 +1713,11 @@ msgstr ""
 
 #: ../../RIX.rst:519
 msgid "Target creature gets +1/+1 and gains first strike until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +1/+1 oraz pierwszy cios."
+msgstr "Wskazany stwór do końca tury dostaje +1/+1 oraz pierwszy cios."
 
 #: ../../RIX.rst:521
 msgid "Target Pirate gets +1/+1 and gains double strike until end of turn."
-msgstr "Wskazany Pirat dostaje do końca tury +1/+1 oraz podwójny cios."
+msgstr "Wskazany Pirat do końca tury dostaje +1/+1 oraz podwójny cios."
 
 #: ../../RIX.rst:528
 msgid ""
@@ -2065,7 +2065,7 @@ msgstr ""
 
 #: ../../RIX.rst:633
 msgid "|mana_2|\\ |mana_r|: Sun-Collared Raptor gets +3/+0 until end of turn."
-msgstr "|mana_2|\\ |mana_r|: Ten stwór dostaje do końca tury +3/+0."
+msgstr "|mana_2|\\ |mana_r|: Ten stwór do końca tury dostaje +3/+0."
 
 #: ../../RIX.rst:638
 msgid ""
@@ -2129,7 +2129,7 @@ msgstr ""
 
 #: ../../RIX.rst:655
 msgid "Target creature gets +1/+1 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +1/+1."
+msgstr "Wskazany stwór do końca tury dostaje +1/+1."
 
 #: ../../RIX.rst:662
 msgid ""
@@ -2334,7 +2334,7 @@ msgid ""
 "When Jadecraft Artisan enters the battlefield, target creature gets +2/+2 "
 "until end of turn."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór dostaje do końca tury +2/"
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór do końca tury dostaje +2/"
 "+2."
 
 #: ../../RIX.rst:722
@@ -2741,8 +2741,8 @@ msgid ""
 "|mana_1|\\ |mana_g|\\ |mana_u|, |tap|: Target creature you control gains "
 "flying and gets +X/+X until end of turn, where X is its power."
 msgstr ""
-"|mana_1|\\ |mana_g|\\ |mana_u|, |tap|: Wskazany stwór pod twoim władaniem "
-"zyskuje do końca tury latanie oraz +X/+X, gdzie X jest jego siłą."
+"|mana_1|\\ |mana_g|\\ |mana_u|, |tap|: Wskazany stwór pod twoim władaniem do "
+"końca tury zyskuje latanie oraz +X/+X, gdzie X jest jego siłą."
 
 #: ../../RIX.rst:858
 msgid ""

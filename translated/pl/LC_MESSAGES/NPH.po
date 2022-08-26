@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-22 09:12+0200\n"
-"PO-Revision-Date: 2022-06-25 15:11+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/nph/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.12.1\n"
+"X-Generator: Weblate 4.13.1\n"
 "X-POOTLE-MTIME: 1391082081.559340\n"
 
 #: ../../symbols.rst:3
@@ -285,7 +285,7 @@ msgid ""
 "Target artifact or creature you control gains protection from artifacts or "
 "from the color of your choice until end of turn."
 msgstr ""
-"Wskazany artefakt lub stwór pod twoim władaniem zyskuje do końca tury "
+"Wskazany artefakt lub stwór pod twoim władaniem do końca tury zyskuje "
 "ochronę od artefaktów lub wybranego przez ciebie koloru."
 
 #: ../../NPH.rst:24
@@ -1294,7 +1294,7 @@ msgstr "(|mana_bp| można opłacić |mana_b| lub 2 życiami.)"
 # 7942be4d91b442278913302e334f01c6
 #: ../../NPH.rst:351
 msgid "Target creature gets -5/-5 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -5/-5."
+msgstr "Wskazany stwór do końca tury dostaje -5/-5."
 
 #: ../../NPH.rst:360
 msgid ""
@@ -1844,7 +1844,7 @@ msgstr ""
 # 068bf837f3ea4cafaea8071bac50bee6
 #: ../../NPH.rst:537
 msgid "|mana_rp|: Moltensteel Dragon gets +1/+0 until end of turn."
-msgstr "|mana_rp|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_rp|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../NPH.rst:544
 msgid ""
@@ -1856,7 +1856,7 @@ msgstr ""
 # 3ff9c6b2295f42e8a6bae1904afae8df
 #: ../../NPH.rst:543
 msgid "|mana_r|: Ogre Menial gets +1/+0 until end of turn."
-msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_r|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../NPH.rst:548
 msgid ""
@@ -1962,11 +1962,11 @@ msgstr "Kiedy ten byt wejdzie na pole bitwy, wybierz jedną —"
 
 #: ../../NPH.rst:585
 msgid "Target creature gets +2/+0 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +2/+0."
+msgstr "Wskazany stwór do końca tury dostaje +2/+0."
 
 #: ../../NPH.rst:587
 msgid "Target creature gets -0/-2 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -0/-2."
+msgstr "Wskazany stwór do końca tury dostaje -0/-2."
 
 #: ../../NPH.rst:594
 msgid ""
@@ -2148,12 +2148,12 @@ msgstr ""
 
 #: ../../NPH.rst:643
 msgid "|mana_1|\\ |mana_g|: Death-Hood Cobra gains reach until end of turn."
-msgstr "|mana_1|\\ |mana_g|: Ten stwór zyskuje do końca tury zasięg."
+msgstr "|mana_1|\\ |mana_g|: Ten stwór do końca tury zyskuje zasięg."
 
 #: ../../NPH.rst:645
 msgid ""
 "|mana_1|\\ |mana_g|: Death-Hood Cobra gains deathtouch until end of turn."
-msgstr "|mana_1|\\ |mana_g|: Ten stwór zyskuje do końca tury dotyk śmierci."
+msgstr "|mana_1|\\ |mana_g|: Ten stwór do końca tury zyskuje dotyk śmierci."
 
 #: ../../NPH.rst:650
 msgid ""
@@ -2201,7 +2201,7 @@ msgid ""
 "|tap|: Target creature gets +4/+4 until end of turn. Activate only if "
 "Greenhilt Trainee's power is 4 or greater."
 msgstr ""
-"|tap|: Wskazany stwór dostaje do końca tury +4/+4. Możesz aktywować tylko "
+"|tap|: Wskazany stwór do końca tury dostaje +4/+4. Możesz aktywować tylko "
 "jeśli ten stwór ma siłę 4 lub większą."
 
 #: ../../NPH.rst:666
@@ -2217,8 +2217,8 @@ msgid ""
 "Target creature gets +1/+1 until end of turn. Another target creature gets "
 "-1/-1 until end of turn."
 msgstr ""
-"Wskazany stwór dostaje do końca tury +1/+1. Inny wskazany stwór dostaje do "
-"końca tury -1/-1."
+"Wskazany stwór do końca tury dostaje +1/+1. Inny wskazany stwór do końca "
+"tury dostaje -1/-1."
 
 #: ../../NPH.rst:672
 msgid ""
@@ -2271,7 +2271,7 @@ msgstr ""
 # 30d3e5dea6414347ad353bbc7ef3e862
 #: ../../NPH.rst:685
 msgid "Target creature gets +2/+2 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +2/+2."
+msgstr "Wskazany stwór do końca tury dostaje +2/+2."
 
 #: ../../NPH.rst:690
 msgid ""
@@ -2639,7 +2639,7 @@ msgid ""
 "mana_bp| can be paid with either |mana_b| or 2 life.)"
 msgstr ""
 "|mana_x|\\ |mana_bp|: Usuń co najwyżej X znaczników ze wskazanego bytu. Za "
-"każdy znacznik usunięty w ten sposób, ten stwór dostaje do końca tury +1/+0. "
+"każdy znacznik usunięty w ten sposób, ten stwór do końca tury dostaje +1/+0. "
 "(|mana_bp| można opłacić używając |mana_b| lub 2 żyć.)"
 
 #: ../../NPH.rst:808
@@ -2667,7 +2667,7 @@ msgid ""
 "|mana_rp|: Immolating Souleater gets +1/+0 until end of turn. (|mana_rp| can "
 "be paid with either |mana_r| or 2 life.)"
 msgstr ""
-"|mana_rp|: Ten stwór dostaje do końca tury +1/+0. (|mana_rp| można opłacić "
+"|mana_rp|: Ten stwór do końca tury dostaje +1/+0. (|mana_rp| można opłacić "
 "używając |mana_r| lub 2 żyć.)"
 
 #: ../../NPH.rst:816
@@ -2683,7 +2683,7 @@ msgid ""
 "|mana_gp|: Insatiable Souleater gains trample until end of turn. (|mana_gp| "
 "can be paid with either |mana_g| or 2 life.)"
 msgstr ""
-"|mana_gp|: Ten stwór zyskuje do końca tury tratowanie. (|mana_gp| można "
+"|mana_gp|: Ten stwór do końca tury zyskuje tratowanie. (|mana_gp| można "
 "opłacić używając |mana_g| lub 2 życia.)"
 
 #: ../../NPH.rst:820
@@ -2834,7 +2834,7 @@ msgid ""
 "damage to creatures in the form of -1/-1 counters and to players in the form "
 "of poison counters.)"
 msgstr ""
-"|mana_bp|: Ten stwór zyskuje do końca tury infekcję. (|mana_bp| można "
+"|mana_bp|: Ten stwór do końca tury zyskuje infekcję. (|mana_bp| można "
 "opłacić używając |mana_g| lub 2 życia. Stwór z infekcją zadaje stworom "
 "obrażenia w formie znaczników -1/-1, a graczom w formie znaczników zatrucia.)"
 

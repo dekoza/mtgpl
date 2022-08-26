@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-06-19 21:39+0200\n"
-"PO-Revision-Date: 2022-05-29 08:43+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/uds/pl/>\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.12.1\n"
+"X-Generator: Weblate 4.13.1\n"
 
 #: ../../symbols.rst:3
 msgid "{C}"
@@ -294,7 +294,7 @@ msgstr ""
 
 #: ../../UDS.rst:23
 msgid "|mana_1|\\ |mana_w|: Capashen Knight gets +1/+0 until end of turn."
-msgstr "|mana_1|\\ |mana_w|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_1|\\ |mana_w|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../UDS.rst:32
 msgid ""
@@ -507,7 +507,7 @@ msgstr "Latanie"
 msgid ""
 "|tap|: Target attacking or blocking creature gets +2/+2 until end of turn."
 msgstr ""
-"|tap|: Wskazany atakujący lub blokujący stwór dostaje do końca tury +2/+2."
+"|tap|: Wskazany atakujący lub blokujący stwór do końca tury dostaje +2/+2."
 
 #: ../../UDS.rst:102
 msgid ""
@@ -2054,7 +2054,7 @@ msgid ""
 "|mana_2|: Mantis Engine gains flying until end of turn. (It can't be blocked "
 "except by creatures with flying or reach.)"
 msgstr ""
-"|mana_2|: Ten stwór zyskuje do końca tury latanie. (Nie może być blokowany, "
+"|mana_2|: Ten stwór do końca tury zyskuje latanie. (Nie może być blokowany, "
 "chyba że przez stwory mające latanie lub zasięg.)"
 
 #: ../../UDS.rst:649
@@ -2062,7 +2062,7 @@ msgid ""
 "|mana_2|: Mantis Engine gains first strike until end of turn. (It deals "
 "combat damage before creatures without first strike.)"
 msgstr ""
-"|mana_2|: Ten stwór zyskuje do końca tury pierwszy cios. (Zadaje obrażenia "
+"|mana_2|: Ten stwór do końca tury zyskuje pierwszy cios. (Zadaje obrażenia "
 "bojowe przed stworami bez pierwszego ciosu.)"
 
 #: ../../UDS.rst:658

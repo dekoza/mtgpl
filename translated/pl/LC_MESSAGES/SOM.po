@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-22 09:12+0200\n"
-"PO-Revision-Date: 2022-04-16 23:39+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/som/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.10.1\n"
+"X-Generator: Weblate 4.13.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../symbols.rst:3
@@ -551,7 +551,7 @@ msgstr ""
 
 #: ../../SOM.rst:105
 msgid "Target creature gets +1/+1 and gains first strike until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +1/+1 oraz pierwszy cios."
+msgstr "Wskazany stwór do końca tury dostaje +1/+1 oraz pierwszy cios."
 
 #: ../../SOM.rst:110
 msgid ""
@@ -993,7 +993,7 @@ msgstr ""
 
 #: ../../SOM.rst:261
 msgid "Target creature gains flying until end of turn. Untap it."
-msgstr "Wskazany stwór zyskuje do końca tury latanie. Odkręć go."
+msgstr "Wskazany stwór do końca tury zyskuje latanie. Odkręć go."
 
 #: ../../SOM.rst:266
 msgid ""
@@ -1136,7 +1136,7 @@ msgstr ""
 
 #: ../../SOM.rst:309
 msgid "Sacrifice a creature: Dross Hopper gains flying until end of turn."
-msgstr "Poświęć stwora: Ten stwór zyskuje do końca tury latanie."
+msgstr "Poświęć stwora: Ten stwór do końca tury zyskuje latanie."
 
 #: ../../SOM.rst:314
 msgid ""
@@ -1216,7 +1216,7 @@ msgstr ""
 
 #: ../../SOM.rst:333
 msgid "Target creature gets -4/-4 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -4/-4."
+msgstr "Wskazany stwór do końca tury dostaje -4/-4."
 
 #: ../../SOM.rst:342
 msgid ""
@@ -1407,7 +1407,7 @@ msgstr ""
 
 #: ../../SOM.rst:407
 msgid "|mana_b|: Skithiryx, the Blight Dragon gains haste until end of turn."
-msgstr "|mana_b|: Ten stwór zyskuje do końca tury pośpiech."
+msgstr "|mana_b|: Ten stwór do końca tury zyskuje pośpiech."
 
 #: ../../SOM.rst:409
 msgid "|mana_b|\\ |mana_b|: Regenerate Skithiryx."
@@ -1426,7 +1426,7 @@ msgid ""
 "damage to creatures in the form of -1/-1 counters and to players in the form "
 "of poison counters.)"
 msgstr ""
-"Wskazany stwór dostaje do końca tury +1/+0 i infekcję. (Zadaje obrażenia "
+"Wskazany stwór do końca tury dostaje +1/+0 i infekcję. (Zadaje obrażenia "
 "stworom w postaci znaczników -1/-1, a graczom w postaci znaczników zatrucia.)"
 
 #: ../../SOM.rst:418
@@ -1484,7 +1484,7 @@ msgid ""
 "haste until end of turn."
 msgstr ""
 "Metalurgia — Kiedy ten byt wejdzie na pole bitwy, jeśli władasz co najmniej "
-"trzema artefaktami, ten stwór dostaje do końca tury +3/+3 i pośpiech."
+"trzema artefaktami, ten stwór do końca tury dostaje +3/+3 i pośpiech."
 
 #: ../../SOM.rst:434
 msgid ""
@@ -1545,7 +1545,7 @@ msgstr ""
 #: ../../SOM.rst:445
 msgid ""
 "|mana_r|, Sacrifice an artifact: Ferrovore gets +3/+0 until end of turn."
-msgstr "|mana_r|, poświęć artefakt: Ten stwór dostaje do końca tury +3/+0."
+msgstr "|mana_r|, poświęć artefakt: Ten stwór do końca tury dostaje +3/+0."
 
 #: ../../SOM.rst:452
 msgid ""
@@ -1619,8 +1619,8 @@ msgid ""
 "|mana_3|\\ |mana_r|: Destroy target artifact. Hoard-Smelter Dragon gets +X/"
 "+0 until end of turn, where X is that artifact's mana value."
 msgstr ""
-"|mana_3|\\ |mana_r|: Zniszcz wskazany artefakt. Ten stwór dostaje do końca "
-"tury +X/+0, gdzie X jest skrótem many owego artefaktu."
+"|mana_3|\\ |mana_r|: Zniszcz wskazany artefakt. Ten stwór do końca tury "
+"dostaje +X/+0, gdzie X jest skrótem many owego artefaktu."
 
 #: ../../SOM.rst:482
 msgid ""
@@ -1747,7 +1747,7 @@ msgstr ""
 
 #: ../../SOM.rst:511
 msgid "Sacrifice an artifact: Oxidda Daredevil gains haste until end of turn."
-msgstr "Poświęć artefakt: Ten stwór zyskuje do końca tury pośpiech."
+msgstr "Poświęć artefakt: Ten stwór do końca tury zyskuje pośpiech."
 
 #: ../../SOM.rst:516
 msgid ""
@@ -1838,7 +1838,7 @@ msgid ""
 "When Vulshok Heartstoker enters the battlefield, target creature gets +2/+0 "
 "until end of turn."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór dostaje do końca tury +2/"
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór do końca tury dostaje +2/"
 "+0."
 
 #: ../../SOM.rst:546
@@ -2025,8 +2025,8 @@ msgid ""
 "Whenever Ezuri's Archers blocks a creature with flying, Ezuri's Archers gets "
 "+3/+0 until end of turn."
 msgstr ""
-"Ilekroć ten stwór zablokuje stwora mającego latanie, niniejszy stwór dostaje "
-"do końca tury +3/+0."
+"Ilekroć ten stwór zablokuje stwora mającego latanie, niniejszy stwór do "
+"końca tury dostaje +3/+0."
 
 #: ../../SOM.rst:608
 msgid ""
@@ -2107,8 +2107,8 @@ msgid ""
 "Whenever an artifact is put into a graveyard from the battlefield, Molder "
 "Beast gets +2/+0 until end of turn."
 msgstr ""
-"Ilekroć artefakt trafi do cmentarza z pola bitwy, ten stwór dostaje do końca "
-"tury +2/+0."
+"Ilekroć artefakt trafi do cmentarza z pola bitwy, ten stwór do końca tury "
+"dostaje +2/+0."
 
 #: ../../SOM.rst:636
 msgid ""
@@ -2156,7 +2156,7 @@ msgstr ""
 
 #: ../../SOM.rst:651
 msgid "Target creature gains protection from artifacts until end of turn."
-msgstr "Wskazany stwór zyskuje do końca tury ochronę przed artefaktami."
+msgstr "Wskazany stwór do końca tury zyskuje ochronę przed artefaktami."
 
 #: ../../SOM.rst:660
 msgid ""
@@ -2178,7 +2178,7 @@ msgstr ""
 
 #: ../../SOM.rst:663
 msgid "Target creature gets +X/+X until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +X/+X."
+msgstr "Wskazany stwór do końca tury dostaje +X/+X."
 
 #: ../../SOM.rst:668
 msgid ""
@@ -2223,7 +2223,7 @@ msgid ""
 "that say \"destroy\" don't destroy it. If its toughness is 0 or less, it's "
 "still put into its owner's graveyard.)"
 msgstr ""
-"Wskazany stwór zyskuje do końca tury niezniszczalność. (Obrażenia i efekty "
+"Wskazany stwór do końca tury zyskuje niezniszczalność. (Obrażenia i efekty "
 "mówiące \"zniszcz\" nie niszczą go. Jeśli jego wytrzymałość spadnie do 0 lub "
 "mniej, nadal trafi do cmentarza właściciela.)"
 
@@ -2598,7 +2598,7 @@ msgid ""
 "|tap|, Sacrifice Flight Spellbomb: Target creature gains flying until end of "
 "turn."
 msgstr ""
-"|tap|, poświęć ten artefakt: Wskazany stwór zyskuje do końca tury latanie."
+"|tap|, poświęć ten artefakt: Wskazany stwór do końca tury zyskuje latanie."
 
 #: ../../SOM.rst:801
 msgid ""
@@ -2674,14 +2674,14 @@ msgstr ""
 
 #: ../../SOM.rst:821
 msgid "|mana_2|: Target artifact creature gets +1/+1 until end of turn."
-msgstr "|mana_2|: Wskazany artefaktowy stwór dostaje do końca tury +1/+1."
+msgstr "|mana_2|: Wskazany artefaktowy stwór do końca tury dostaje +1/+1."
 
 #: ../../SOM.rst:823
 msgid ""
 "|mana_2|: Target artifact creature gains your choice of flying, trample, or "
 "haste until end of turn."
 msgstr ""
-"|mana_2|: Wskazany artefaktowy stwór zyskuje do końca tury zdolność wybraną "
+"|mana_2|: Wskazany artefaktowy stwór do końca tury zyskuje zdolność wybraną "
 "przez cienie spośród latania, tratowania i pośpiechu."
 
 #: ../../SOM.rst:830
@@ -3042,7 +3042,7 @@ msgid ""
 "to the player or planeswalker it's attacking."
 msgstr ""
 "Ilekroć ten stwór atakuje, możesz przekręcić X odkręconych Myrów pod twoim "
-"władaniem. Jeśli tak zrobisz, ten stwór dostaje do końca tury +X/+0 i zadaje "
+"władaniem. Jeśli tak zrobisz, ten stwór do końca tury dostaje +X/+0 i zadaje "
 "atakowanemu graczowi lub wędrowcowi X obrażeń."
 
 #: ../../SOM.rst:944
@@ -3382,7 +3382,7 @@ msgstr ""
 
 #: ../../SOM.rst:1043
 msgid "|mana_r|: Saberclaw Golem gains first strike until end of turn."
-msgstr "|mana_r|: Ten stwór zyskuje do końca tury pierwszy cios."
+msgstr "|mana_r|: Ten stwór do końca tury zyskuje pierwszy cios."
 
 #: ../../SOM.rst:1050
 msgid ""
@@ -3453,7 +3453,7 @@ msgstr ""
 
 #: ../../SOM.rst:1067
 msgid "|mana_2|: Steel Hellkite gets +1/+0 until end of turn."
-msgstr "|mana_2|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_2|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../SOM.rst:1069
 msgid ""
@@ -3681,8 +3681,8 @@ msgid ""
 "|mana_2|, |tap|, Remove a charge counter from Trigon of Rage: Target "
 "creature gets +3/+0 until end of turn."
 msgstr ""
-"|mana_2|, |tap|, usuń znacznik ładunku z tego artefaktu: Wskazany stwór "
-"dostaje do końca tury +3/+0."
+"|mana_2|, |tap|, usuń znacznik ładunku z tego artefaktu: Wskazany stwór do "
+"końca tury dostaje +3/+0."
 
 #: ../../SOM.rst:1152
 msgid ""
@@ -3738,7 +3738,7 @@ msgid ""
 "creatures in the form of -1/-1 counters and to players in the form of poison "
 "counters.)"
 msgstr ""
-"|mana_b|: Ten stwór zyskuje do końca tury infekcję. (Zadaje obrażenia "
+"|mana_b|: Ten stwór do końca tury zyskuje infekcję. (Zadaje obrażenia "
 "stworom w postaci znaczników -1/-1, a graczom w postaci znaczników zatrucia.)"
 
 #: ../../SOM.rst:1168
@@ -3790,7 +3790,7 @@ msgid ""
 "|mana_g|: Wall of Tanglecord gains reach until end of turn. (It can block "
 "creatures with flying.)"
 msgstr ""
-"|mana_g|: Ten stwór zyskuje do końca tury zasięg. (Może blokować stwory z "
+"|mana_g|: Ten stwór do końca tury zyskuje zasięg. (Może blokować stwory z "
 "lataniem.)"
 
 #: ../../SOM.rst:1184

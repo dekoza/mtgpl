@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-22 09:12+0200\n"
-"PO-Revision-Date: 2022-03-28 10:21+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/emn/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.10.1\n"
+"X-Generator: Weblate 4.13.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../symbols.rst:3
@@ -905,7 +905,7 @@ msgid ""
 "Target creature gets +2/+6 until end of turn and can block any number of "
 "creatures this turn."
 msgstr ""
-"Wskazany stwór dostaje do końca tury +2/+6 i może blokować dowolną liczbę "
+"Wskazany stwór do końca tury dostaje +2/+6 i może blokować dowolną liczbę "
 "stworów w tej turze."
 
 #: ../../EMN.rst:216
@@ -920,7 +920,7 @@ msgid ""
 "When Guardian of Pilgrims enters the battlefield, target creature gets +1/+1 "
 "until end of turn."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór dostaje do końca tury +1/"
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór do końca tury dostaje +1/"
 "+1."
 
 #: ../../EMN.rst:220
@@ -1008,8 +1008,8 @@ msgid ""
 "Enchanted creature gets +2/+2 and has \"|mana_1|, Sacrifice a permanent: "
 "This creature gains flying until end of turn.\""
 msgstr ""
-"Zauroczony stwór dostaje +2/+2 i ma '|mana_1|, poświęć byt: Ten stwór "
-"zyskuje do końca tury latanie.\""
+"Zauroczony stwór dostaje +2/+2 i ma '|mana_1|, poświęć byt: Ten stwór do "
+"końca tury zyskuje latanie.\""
 
 #: ../../EMN.rst:248
 msgid ""
@@ -1067,7 +1067,7 @@ msgid ""
 "Sanctifier of Souls gets +1/+1 until end of turn."
 msgstr ""
 "Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, niniejszy "
-"stwór dostaje do końca tury +1/+1."
+"stwór do końca tury dostaje +1/+1."
 
 #: ../../EMN.rst:263
 msgid ""
@@ -1143,7 +1143,7 @@ msgstr ""
 
 #: ../../EMN.rst:287
 msgid "Whenever Steadfast Cathar attacks, it gets +0/+2 until end of turn."
-msgstr "Ilekroć ten stwór zaatakuje, dostaje do końca tury +0/+2."
+msgstr "Ilekroć ten stwór zaatakuje, do końca tury dostaje +0/+2."
 
 #: ../../EMN.rst:294
 msgid ""
@@ -1329,8 +1329,8 @@ msgid ""
 "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 "
 "until end of turn.)"
 msgstr ""
-"Waleczność (Ilekroć rzucisz nie-stworowy czar, ten stwór dostaje do końca "
-"tury +1/+1.)"
+"Waleczność (Ilekroć rzucisz nie-stworowy czar, ten stwór do końca tury "
+"dostaje +1/+1.)"
 
 #: ../../EMN.rst:345
 msgid "Instant and sorcery spells you cast cost |mana_1| less to cast."
@@ -1564,7 +1564,7 @@ msgstr ""
 
 #: ../../EMN.rst:417
 msgid "|mana_u|: Ingenious Skaab gets +1/-1 until end of turn."
-msgstr "|mana_u|: Ten stwór dostaje do końca tury +1/-1."
+msgstr "|mana_u|: Ten stwór do końca tury dostaje +1/-1."
 
 #: ../../EMN.rst:422
 msgid ""
@@ -1602,7 +1602,7 @@ msgid ""
 "Wanderer gets +1/+1 until end of turn."
 msgstr ""
 "Ilekroć inny Duch wejdzie na pole bitwy pod twoim władaniem, niniejszy stwór "
-"dostaje do końca tury +1/+1."
+"do końca tury dostaje +1/+1."
 
 #: ../../EMN.rst:433
 msgid ""
@@ -1796,11 +1796,11 @@ msgstr ""
 
 #: ../../EMN.rst:511
 msgid "Target creature gets +1/+1 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +1/+1."
+msgstr "Wskazany stwór do końca tury dostaje +1/+1."
 
 #: ../../EMN.rst:513
 msgid "Target creature gets -1/-1 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -1/-1."
+msgstr "Wskazany stwór do końca tury dostaje -1/-1."
 
 #: ../../EMN.rst:518
 msgid ""
@@ -1854,7 +1854,7 @@ msgstr ""
 
 #: ../../EMN.rst:531
 msgid "Target creature gets -2/-2 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -2/-2."
+msgstr "Wskazany stwór do końca tury dostaje -2/-2."
 
 #: ../../EMN.rst:533
 msgid "Target opponent loses 2 life and you gain 2 life."
@@ -1896,7 +1896,7 @@ msgid ""
 "controls."
 msgstr ""
 "Wskazany gracz tworzy X żetonów czarnego stwora Zombi 2/2, po czym co "
-"najwyżej jeden wskazany stwór dostaje do końca tury -1/-1 za każdego Zombi "
+"najwyżej jeden wskazany stwór do końca tury dostaje -1/-1 za każdego Zombi "
 "pod władaniem owego gracza."
 
 #: ../../EMN.rst:550
@@ -2145,7 +2145,7 @@ msgstr ""
 
 #: ../../EMN.rst:621
 msgid "Discard a card: Olivia's Dragoon gains flying until end of turn."
-msgstr "Odrzuć kartę: Ten stwór zyskuje do końca tury latanie."
+msgstr "Odrzuć kartę: Ten stwór do końca tury zyskuje latanie."
 
 #: ../../EMN.rst:626
 msgid ""
@@ -2195,7 +2195,7 @@ msgstr ""
 
 #: ../../EMN.rst:635
 msgid "Two target creatures each get -13/-13 until end of turn."
-msgstr "Każdy z dwóch wskazanych stworów dostaje do końca tury -13/-13."
+msgstr "Każdy z dwóch wskazanych stworów do końca tury dostaje -13/-13."
 
 #: ../../EMN.rst:640
 msgid ""
@@ -2388,7 +2388,7 @@ msgid ""
 "Up to two target creatures each get +1/+0 and gain first strike until end of "
 "turn."
 msgstr ""
-"Każdy z co najwyżej dwóch wskazanych stworów dostaje do końca tury +1/+0 "
+"Każdy z co najwyżej dwóch wskazanych stworów do końca tury dostaje +1/+0 "
 "oraz pierwszy cios."
 
 #: ../../EMN.rst:705 ../../EMN.rst:711 ../../EMN.rst:899
@@ -2479,7 +2479,7 @@ msgstr ""
 
 #: ../../EMN.rst:731
 msgid "|mana_2|\\ |mana_r|: Bold Impaler gets +2/+0 until end of turn."
-msgstr "|mana_2|\\ |mana_r|: Ten stwór dostaje do końca tury +2/+0."
+msgstr "|mana_2|\\ |mana_r|: Ten stwór do końca tury dostaje +2/+0."
 
 #: ../../EMN.rst:742
 msgid ""
@@ -2495,7 +2495,7 @@ msgstr "Eskalacja |mana_3| (Opłać ten koszt za każdy dodatkowo wybrany tryb.)
 
 #: ../../EMN.rst:739
 msgid "Target creature gets +3/+0 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +3/+0."
+msgstr "Wskazany stwór do końca tury dostaje +3/+0."
 
 #: ../../EMN.rst:741
 msgid "Target creature gains first strike until end of turn."
@@ -2592,7 +2592,7 @@ msgstr ""
 
 #: ../../EMN.rst:775
 msgid "Target creature gets +2/+2 and gains trample until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +2/+2 i tratowanie."
+msgstr "Wskazany stwór do końca tury dostaje +2/+2 i tratowanie."
 
 #: ../../EMN.rst:777
 msgid ""
@@ -2627,7 +2627,7 @@ msgid ""
 "Furyblade Vampire gets +3/+0 until end of turn."
 msgstr ""
 "Na początku potyczki w twojej turze, możesz odrzucić kartę. Jeśli tak "
-"zrobisz, ten stwór dostaje do końca tury +3/+0."
+"zrobisz, ten stwór do końca tury dostaje +3/+0."
 
 #: ../../EMN.rst:792
 msgid ""
@@ -2812,7 +2812,7 @@ msgid ""
 "Target creature gets +1/+0 until end of turn. When that creature dies this "
 "turn, create a 3/2 colorless Eldrazi Horror creature token."
 msgstr ""
-"Wskazany stwór dostaje do końca tury +1/+0. Kiedy ten stwór umrze w tej "
+"Wskazany stwór do końca tury dostaje +1/+0. Kiedy ten stwór umrze w tej "
 "turze, stwórz żeton bezkolorowego stwora Eldrazi Horror 3/2."
 
 #: ../../EMN.rst:852
@@ -2985,7 +2985,7 @@ msgstr ""
 
 #: ../../EMN.rst:913
 msgid "|mana_r|: Vildin-Pack Outcast gets +1/-1 until end of turn."
-msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/-1."
+msgstr "|mana_r|: Ten stwór do końca tury dostaje +1/-1."
 
 #: ../../EMN.rst:915
 msgid "|mana_5|\\ |mana_r|\\ |mana_r|: Transform Vildin-Pack Outcast."
@@ -3001,7 +3001,7 @@ msgstr ""
 
 #: ../../EMN.rst:921
 msgid "|mana_1|: Dronepack Kindred gets +1/+0 until end of turn."
-msgstr "|mana_1|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_1|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../EMN.rst:928
 msgid ""
@@ -3061,7 +3061,7 @@ msgid ""
 "Target creature you control gets +1/+1 until end of turn. It deals damage "
 "equal to its power to target creature you don't control."
 msgstr ""
-"Wskazany stwór pod twoim władaniem dostaje do końca tury +1/+1. Zadaje on "
+"Wskazany stwór pod twoim władaniem do końca tury dostaje +1/+1. Zadaje on "
 "wskazanemu stworowi poza twoim władaniem obrażenia równe swojej sile."
 
 #: ../../EMN.rst:946
@@ -3097,7 +3097,7 @@ msgstr ""
 #: ../../EMN.rst:949
 msgid "|mana_g|, |tap|: Target attacking Human gets +1/+1 until end of turn."
 msgstr ""
-"|mana_g|, |tap|: Wskazany atakujący Człowiek dostaje do końca tury +1/+1."
+"|mana_g|, |tap|: Wskazany atakujący Człowiek do końca tury dostaje +1/+1."
 
 #: ../../EMN.rst:956
 msgid ""
@@ -3285,7 +3285,7 @@ msgstr ""
 
 #: ../../EMN.rst:1005
 msgid "Discard a card: Noose Constrictor gets +1/+1 until end of turn."
-msgstr "Odrzuć kartę: Ten stwór dostaje do końca tury +1/+1."
+msgstr "Odrzuć kartę: Ten stwór do końca tury dostaje +1/+1."
 
 #: ../../EMN.rst:1010
 msgid ""
@@ -3396,7 +3396,7 @@ msgid ""
 "control that's a Wolf or a Werewolf gets +0/+3 until end of turn."
 msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, każdy inny stwór pod twoim władaniem "
-"będący Wilkiem lub Wilkołakiem dostaje do końca tury +0/+3."
+"będący Wilkiem lub Wilkołakiem do końca tury dostaje +0/+3."
 
 #: ../../EMN.rst:1044
 msgid ""
@@ -3552,7 +3552,7 @@ msgid ""
 "Target creature you control gets +3/+3 and gains hexproof until end of turn. "
 "(It can't be the target of spells or abilities your opponents control.)"
 msgstr ""
-"Wskazany stwór pod twoim władaniem dostaje do końca tury +3/+3 i antyklątwę. "
+"Wskazany stwór pod twoim władaniem do końca tury dostaje +3/+3 i antyklątwę. "
 "(Nie może być wskazany przez cele i zdolności pod władaniem przeciwników.)"
 
 #: ../../EMN.rst:1104
@@ -3673,8 +3673,8 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, Mercurial Geists gets +3/+0 "
 "until end of turn."
 msgstr ""
-"Ilekroć rzucisz czar sztuczki lub obrzędu, ten stwór dostaje do końca tury "
-"+3/+0."
+"Ilekroć rzucisz czar sztuczki lub obrzędu, ten stwór do końca tury dostaje +"
+"3/+0."
 
 #: ../../EMN.rst:1148
 msgid ""
@@ -3777,7 +3777,7 @@ msgid ""
 "the Krallenhorde, target creature gets +4/+4 until end of turn."
 msgstr ""
 "Ilekroć ten byt wejdzie na pole bitwy lub transformuje w tę formę, wskazany "
-"stwór dostaje do końca tury +4/+4."
+"stwór do końca tury dostaje +4/+4."
 
 #: ../../EMN.rst:1175
 msgid ""

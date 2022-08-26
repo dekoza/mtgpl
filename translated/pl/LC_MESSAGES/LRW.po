@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-29 18:35+0200\n"
-"PO-Revision-Date: 2022-06-25 15:11+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/lrw/pl/>\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.12.1\n"
+"X-Generator: Weblate 4.13.1\n"
 
 #: ../../symbols.rst:3
 msgid "{C}"
@@ -403,7 +403,7 @@ msgid ""
 "Whenever Cenn's Heir attacks, it gets +1/+1 until end of turn for each other "
 "attacking Kithkin."
 msgstr ""
-"Ilekroć ten stwór zaatakuje, dostaje do końca tury +1/+1 za każdego innego "
+"Ilekroć ten stwór zaatakuje, do końca tury dostaje +1/+1 za każdego innego "
 "atakującego Krewniołka."
 
 #: ../../LRW.rst:68
@@ -448,8 +448,8 @@ msgid ""
 "Tap three untapped Kithkin you control: Cloudgoat Ranger gets +2/+0 and "
 "gains flying until end of turn."
 msgstr ""
-"Przekręć trzech odkręconych Krewniołków pod twoim władaniem: Ten stwór "
-"dostaje do końca tury +2/+0 i latanie."
+"Przekręć trzech odkręconych Krewniołków pod twoim władaniem: Ten stwór do "
+"końca tury dostaje +2/+0 i latanie."
 
 #: ../../LRW.rst:80
 msgid ""
@@ -662,7 +662,7 @@ msgid ""
 "When Kinsbaile Skirmisher enters the battlefield, target creature gets +1/+1 "
 "until end of turn."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór dostaje do końca tury +1/"
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór do końca tury dostaje +1/"
 "+1."
 
 #: ../../LRW.rst:146
@@ -1959,7 +1959,7 @@ msgid ""
 "creature get -1/-1 until end of turn."
 msgstr ""
 "Ilekroć rzucisz czar podczas tury przeciwnika, możesz zdecydować, że "
-"wskazany stwór dostaje do końca tury -1/-1."
+"wskazany stwór do końca tury dostaje -1/-1."
 
 #: ../../LRW.rst:634
 msgid ""
@@ -1992,7 +1992,7 @@ msgstr ""
 
 #: ../../LRW.rst:641
 msgid "|mana_b|, Sacrifice a Goblin: Facevaulter gets +2/+2 until end of turn."
-msgstr "|mana_b|, poświęć Goblina: Ten stwór dostaje do końca tury +2/+2."
+msgstr "|mana_b|, poświęć Goblina: Ten stwór do końca tury dostaje +2/+2."
 
 #: ../../LRW.rst:646
 msgid ""
@@ -2067,7 +2067,7 @@ msgstr ""
 
 #: ../../LRW.rst:671
 msgid "|mana_1|\\ |mana_b|: Ghostly Changeling gets +1/+1 until end of turn."
-msgstr "|mana_1|\\ |mana_b|: Ten stwór dostaje do końca tury +1/+1."
+msgstr "|mana_1|\\ |mana_b|: Ten stwór do końca tury dostaje +1/+1."
 
 #: ../../LRW.rst:676
 msgid ""
@@ -2165,7 +2165,7 @@ msgid ""
 "|tap|, Discard an Elf card: Target creature gets -X/-X until end of turn, "
 "where X is the number of Elves you control."
 msgstr ""
-"|tap|, odrzuć kartę Elfa: Wskazany stwór dostaje do końca tury -X/-X, gdzie "
+"|tap|, odrzuć kartę Elfa: Wskazany stwór do końca tury dostaje -X/-X, gdzie "
 "X jest liczbą Elfów pod twoim władaniem."
 
 #: ../../LRW.rst:708
@@ -2266,7 +2266,7 @@ msgstr ""
 msgid ""
 "Target creature gets +3/-3 and loses all creature types until end of turn."
 msgstr ""
-"Wskazany stwór dostaje do końca tury +3/-3 i traci wszystkie typy stwora."
+"Wskazany stwór do końca tury dostaje +3/-3 i traci wszystkie typy stwora."
 
 #: ../../LRW.rst:740
 msgid ""
@@ -2333,7 +2333,7 @@ msgid ""
 "Discard a card: Oona's Prowler gets -2/-0 until end of turn. Any player may "
 "activate this ability."
 msgstr ""
-"Odrzuć kartę: Ten stwór dostaje do końca tury -2/-0. Dowolny gracz może "
+"Odrzuć kartę: Ten stwór do końca tury dostaje -2/-0. Dowolny gracz może "
 "aktywować tę zdolność."
 
 #: ../../LRW.rst:768
@@ -2348,7 +2348,7 @@ msgid ""
 "Target creature gets -1/-1 until end of turn. If you control a Faerie, draw "
 "a card."
 msgstr ""
-"Wskazany stwór dostaje do końca tury -1/-1. Jeśli władasz Wróżką, dobierz "
+"Wskazany stwór do końca tury dostaje -1/-1. Jeśli władasz Wróżką, dobierz "
 "kartę."
 
 #: ../../LRW.rst:780
@@ -2372,14 +2372,14 @@ msgstr ""
 
 #: ../../LRW.rst:777
 msgid "Target creature gets -X/-X until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -X/-X."
+msgstr "Wskazany stwór do końca tury dostaje -X/-X."
 
 #: ../../LRW.rst:779
 msgid ""
 "Up to X target creatures gain fear until end of turn. (They can't be blocked "
 "except by artifact creatures and/or black creatures.)"
 msgstr ""
-"Co najwyżej X wskazanych stworów zyskuje do końca tury postrach. (Nie mogą "
+"Co najwyżej X wskazanych stworów do końca tury zyskuje postrach. (Nie mogą "
 "być blokowane, chyba że przez stwory artefaktowe lub czarne.)"
 
 #: ../../LRW.rst:784
@@ -2542,7 +2542,7 @@ msgid ""
 msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, przywróć wskazaną kartę stwora z "
 "twojego cmentarza do twojej ręki. Jeśli owa karta ma typ Goblin, ten stwór "
-"dostaje do końca tury pośpiech."
+"do końca tury dostaje pośpiech."
 
 #: ../../LRW.rst:838
 msgid ""
@@ -2631,7 +2631,7 @@ msgid ""
 "Up to two target creatures each get +2/+0 and gain all creature types until "
 "end of turn."
 msgstr ""
-"Każdy z co najwyżej dwóch wskazanych stworów dostaje do końca tury +2/+0 "
+"Każdy z co najwyżej dwóch wskazanych stworów do końca tury dostaje +2/+0 "
 "oraz wszystkie typy stwora."
 
 #: ../../LRW.rst:868
@@ -2812,7 +2812,7 @@ msgid ""
 "|mana_r|: Fire-Belly Changeling gets +1/+0 until end of turn. Activate no "
 "more than twice each turn."
 msgstr ""
-"|mana_r|: Ten stwór dostaje do końca tury +1/+0. Możesz aktywować nie więcej "
+"|mana_r|: Ten stwór do końca tury dostaje +1/+0. Możesz aktywować nie więcej "
 "niż dwa razy na turę."
 
 #: ../../LRW.rst:934
@@ -3728,7 +3728,7 @@ msgid ""
 "Target creature gains deathtouch until end of turn. (Any amount of damage it "
 "deals to a creature is enough to destroy that creature.)"
 msgstr ""
-"Wskazany gracz zyskuje do końca tury dotyk śmierci. (Stwór otrzymujący od "
+"Wskazany gracz do końca tury zyskuje dotyk śmierci. (Stwór otrzymujący od "
 "niniejszego jakiekolwiek obrażenia zostaje zniszczony.)"
 
 #: ../../LRW.rst:1250

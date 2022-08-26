@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-06-21 00:16+0200\n"
-"PO-Revision-Date: 2022-06-25 15:11+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c13/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.12.1\n"
+"X-Generator: Weblate 4.13.1\n"
 "X-POOTLE-MTIME: 1391098867.903162\n"
 
 #: ../../symbols.rst:3
@@ -2146,8 +2146,8 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, Charmbreaker Devils gets +4/"
 "+0 until end of turn."
 msgstr ""
-"Ilekroć rzucisz czar sztuczki lub obrzędu, ten stwór dostaje do końca tury "
-"+4/+0."
+"Ilekroć rzucisz czar sztuczki lub obrzędu, ten stwór do końca tury dostaje +"
+"4/+0."
 
 #: ../../C13.rst:582
 msgid ""
@@ -2349,7 +2349,7 @@ msgstr ""
 # 8d241b80d6074bdeb2084f26d0f0bad9
 #: ../../C13.rst:641
 msgid "|mana_r|: Inferno Titan gets +1/+0 until end of turn."
-msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_r|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../C13.rst:643
 msgid ""
@@ -2790,7 +2790,7 @@ msgid ""
 "Woodcrasher gets +4/+4 and gains trample until end of turn."
 msgstr ""
 "Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, ten stwór "
-"dostaje do końca tury +4/+4 oraz tratowanie."
+"do końca tury dostaje +4/+4 oraz tratowanie."
 
 #: ../../C13.rst:764
 msgid ""
@@ -3567,7 +3567,7 @@ msgstr "Permanenty pod twoim władaniem zyskują do końca tury niezniszczalnoś
 
 #: ../../C13.rst:1005
 msgid "Target creature gains double strike until end of turn."
-msgstr "Wskazany stwór zyskuje do końca tury podwójny cios."
+msgstr "Wskazany stwór do końca tury zyskuje podwójny cios."
 
 #: ../../C13.rst:1012
 msgid ""
@@ -3699,7 +3699,7 @@ msgstr "Zyskaj 5 żyć."
 
 #: ../../C13.rst:1057
 msgid "Target creature gets -2/-2 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -2/-2."
+msgstr "Wskazany stwór do końca tury dostaje -2/-2."
 
 #: ../../C13.rst:1062
 msgid ""
@@ -3748,7 +3748,7 @@ msgstr "Stwory pod twoim władaniem mają pośpiech."
 #: ../../C13.rst:1073
 msgid ""
 "Sacrifice Fires of Yavimaya: Target creature gets +2/+2 until end of turn."
-msgstr "Poświęć ten byt: Wskazany stwór dostaje do końca tury +2/+2."
+msgstr "Poświęć ten byt: Wskazany stwór do końca tury dostaje +2/+2."
 
 #: ../../C13.rst:1078
 msgid ""
@@ -3773,7 +3773,7 @@ msgstr ""
 
 #: ../../C13.rst:1085
 msgid "Target creature gets -4/-4 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -4/-4."
+msgstr "Wskazany stwór do końca tury dostaje -4/-4."
 
 # c14e0e501fb9403ab74ef577e02f7c51
 #: ../../C13.rst:1087
@@ -4026,7 +4026,7 @@ msgstr ""
 msgid ""
 "Sacrifice another creature: Prossh, Skyraider of Kher gets +1/+0 until end "
 "of turn."
-msgstr "Poświęć innego stwora: Niniejszy stwór dostaje do końca tury +1/+0."
+msgstr "Poświęć innego stwora: Niniejszy stwór do końca tury dostaje +1/+0."
 
 #: ../../C13.rst:1184
 msgid ""
@@ -4041,7 +4041,7 @@ msgid ""
 "|mana_1|: Target creature with power 5 or greater gains first strike until "
 "end of turn."
 msgstr ""
-"|mana_1|: Wskazany stwór o sile 5 lub większej zyskuje do końca tury "
+"|mana_1|: Wskazany stwór o sile 5 lub większej do końca tury zyskuje "
 "pierwszy cios."
 
 #: ../../C13.rst:1190
@@ -4132,7 +4132,7 @@ msgstr ""
 # 3791fe90945e4dcdaa67a3ebfeaf4c33
 #: ../../C13.rst:1213
 msgid "Target creature gets +2/+2 and gains trample until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +2/+2 i tratowanie."
+msgstr "Wskazany stwór do końca tury dostaje +2/+2 i tratowanie."
 
 #: ../../C13.rst:1215
 msgid "Exile target creature with power 5 or greater."
@@ -4312,7 +4312,7 @@ msgid ""
 "|mana_w|\\ |mana_b|: Target artifact creature gains deathtouch and lifelink "
 "until end of turn."
 msgstr ""
-"|mana_w|\\ |mana_b|: Wskazany artefaktowy stwór zyskuje do końca tury dotyk "
+"|mana_w|\\ |mana_b|: Wskazany artefaktowy stwór do końca tury zyskuje dotyk "
 "śmierci i więź życia."
 
 #: ../../C13.rst:1280
@@ -4775,7 +4775,7 @@ msgid ""
 "to the player or planeswalker it's attacking."
 msgstr ""
 "Ilekroć ten stwór atakuje, możesz przekręcić X odkręconych Myrów pod twoim "
-"władaniem. Jeśli tak zrobisz, ten stwór dostaje do końca tury +X/+0 i zadaje "
+"władaniem. Jeśli tak zrobisz, ten stwór do końca tury dostaje +X/+0 i zadaje "
 "atakowanemu graczowi lub wędrowcowi X obrażeń."
 
 #: ../../C13.rst:1426

@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2022.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-25 14:27+0200\n"
-"PO-Revision-Date: 2022-05-29 08:43+0000\n"
+"PO-Revision-Date: 2022-08-26 21:05+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/snc/pl/>\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.12.1\n"
+"X-Generator: Weblate 4.13.1\n"
 
 #: ../../symbols.rst:3
 msgid "{C}"
@@ -758,7 +758,7 @@ msgstr ""
 
 #: ../../SNC.rst:153
 msgid "Target creature gets +2/+7 until end of turn. Untap it."
-msgstr "Wskazany stwór dostaje do końca tury +2/+7. Odkręć go."
+msgstr "Wskazany stwór do końca tury dostaje +2/+7. Odkręć go."
 
 #: ../../SNC.rst:158
 msgid ""
@@ -772,7 +772,7 @@ msgid ""
 "Target creature gets +2/+2 until end of turn. If it has a counter on it, it "
 "also gains flying and lifelink until end of turn."
 msgstr ""
-"Wskazany stwór dostaje do końca tury +2/+2. Jeśli ma on znacznik, zyskuje on "
+"Wskazany stwór do końca tury dostaje +2/+2. Jeśli ma on znacznik, zyskuje on "
 "do końca tury także latanie i więź życia."
 
 #: ../../SNC.rst:162
@@ -885,8 +885,8 @@ msgid ""
 "until your next turn, where X is the number of different mana values among "
 "cards in your graveyard."
 msgstr ""
-"Ilekroć odrzucisz kartę, wskazany stwór pod władaniem przeciwnika dostaje do "
-"końca tury -X/-0, gdzie X jest liczbą różnych wartości skrótów many pośród "
+"Ilekroć odrzucisz kartę, wskazany stwór pod władaniem przeciwnika do końca "
+"tury dostaje -X/-0, gdzie X jest liczbą różnych wartości skrótów many pośród "
 "kart w twoim cmentarzu."
 
 #: ../../SNC.rst:204
@@ -1160,7 +1160,7 @@ msgstr ""
 #: ../../SNC.rst:287
 msgid ""
 "|mana_1|\\ |mana_wb|: Obscura Initiate gains lifelink until end of turn."
-msgstr "|mana_1|\\ |mana_wb|: Ten stwór zyskuje do końca tury więź życia."
+msgstr "|mana_1|\\ |mana_wb|: Ten stwór do końca tury zyskuje więź życia."
 
 #: ../../SNC.rst:292
 msgid ""
@@ -1421,8 +1421,8 @@ msgid ""
 "Whenever Wingshield Agent attacks, up to one other target creature gains "
 "flying until end of turn."
 msgstr ""
-"Ilekroć ten stwór zaatakuje, co najwyżej jeden wskazany stwór zyskuje do "
-"końca tury latanie."
+"Ilekroć ten stwór zaatakuje, co najwyżej jeden wskazany stwór do końca tury "
+"zyskuje latanie."
 
 #: ../../SNC.rst:376
 msgid ""
@@ -1570,7 +1570,7 @@ msgid ""
 "Pay 1 life: Cutthroat Contender gets +1/+0 until end of turn. Activate only "
 "once each turn."
 msgstr ""
-"Zapłać 1 życie: Ten stwór dostaje do końca tury +1/+0. Aktywuj tylko raz na "
+"Zapłać 1 życie: Ten stwór do końca tury dostaje +1/+0. Aktywuj tylko raz na "
 "turę."
 
 #: ../../SNC.rst:424
@@ -1585,7 +1585,7 @@ msgid ""
 "Target creature gets -3/-3 until end of turn. Target player mills three "
 "cards. (They put the top three cards of their library into their graveyard.)"
 msgstr ""
-"Wskazany stwór dostaje do końca tury -3/-3. Wskazany gracz mieli trzy karty. "
+"Wskazany stwór do końca tury dostaje -3/-3. Wskazany gracz mieli trzy karty. "
 "(Umieszcza trzy wierzchnie karty swojej biblioteki w swoim cmentarzu.)"
 
 #: ../../SNC.rst:428
@@ -1871,8 +1871,8 @@ msgid ""
 "When Raffine's Silencer dies, target creature an opponent controls gets -X/-"
 "X until end of turn, where X is Raffine's Silencer's power."
 msgstr ""
-"Kiedy ten stwór umrze, wskazany stwór pod władaniem przeciwnika dostaje do "
-"końca tury -X/-X, gdzie X jest siłą niniejszego."
+"Kiedy ten stwór umrze, wskazany stwór pod władaniem przeciwnika do końca "
+"tury dostaje -X/-X, gdzie X jest siłą niniejszego."
 
 #: ../../SNC.rst:516
 msgid ""
@@ -2044,7 +2044,7 @@ msgstr ""
 
 #: ../../SNC.rst:561
 msgid "Target creature gets -4/-4 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -4/-4."
+msgstr "Wskazany stwór do końca tury dostaje -4/-4."
 
 #: ../../SNC.rst:566
 msgid ""
@@ -2055,7 +2055,7 @@ msgstr ""
 
 #: ../../SNC.rst:565
 msgid "Target creature gets +4/+3 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +4/+3."
+msgstr "Wskazany stwór do końca tury dostaje +4/+3."
 
 #: ../../SNC.rst:570
 msgid ""
@@ -2122,7 +2122,7 @@ msgstr ""
 #: ../../SNC.rst:583
 msgid ""
 "Target creature gets +1/+0 and gains first strike until end of turn. Scry 1."
-msgstr "Wskazany stwór dostaje do końca tury +1/+0 oraz pierwszy cios. Wróż 1."
+msgstr "Wskazany stwór do końca tury dostaje +1/+0 oraz pierwszy cios. Wróż 1."
 
 #: ../../SNC.rst:590
 msgid ""
@@ -2302,7 +2302,7 @@ msgstr ""
 msgid ""
 "Whenever Mayhem Patrol attacks, target creature gets +1/+0 until end of turn."
 msgstr ""
-"Ilekroć ten stwór zaatakuje, wskazany stwór dostaje do końca tury +1/+0."
+"Ilekroć ten stwór zaatakuje, wskazany stwór do końca tury dostaje +1/+0."
 
 #: ../../SNC.rst:656
 msgid ""
@@ -2420,7 +2420,7 @@ msgstr ""
 #: ../../SNC.rst:685
 msgid ""
 "|mana_1|\\ |mana_bg|: Riveteers Initiate gains deathtouch until end of turn."
-msgstr "|mana_1|\\ |mana_bg|: Ten stwór zyskuje do końca tury dotyk śmierci."
+msgstr "|mana_1|\\ |mana_bg|: Ten stwór do końca tury zyskuje dotyk śmierci."
 
 #: ../../SNC.rst:692
 msgid ""
@@ -2638,7 +2638,7 @@ msgid ""
 "control, Attended Socialite gets +1/+1 until end of turn."
 msgstr ""
 "Sojusz — Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, "
-"niniejszy dostaje do końca tury +1/+1."
+"niniejszy do końca tury dostaje +1/+1."
 
 #: ../../SNC.rst:760
 msgid ""
@@ -2818,7 +2818,7 @@ msgid ""
 "trample until end of turn."
 msgstr ""
 "Sojusz — Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, "
-"wskazany stwór inny niż niniejszy dostaje do końca tury +1/+1 i tratowanie."
+"wskazany stwór inny niż niniejszy do końca tury dostaje +1/+1 i tratowanie."
 
 #: ../../SNC.rst:818
 msgid ""
@@ -2868,8 +2868,8 @@ msgid ""
 "Target creature gets +2/+2 until end of turn. If you control four or more "
 "creatures, that creature gets +4/+4 until end of turn instead."
 msgstr ""
-"Wskazany stwór dostaje do końca tury +2/+2. Jeśli władasz co najmniej "
-"czterema stworami, zamiast tego ów stwór dostaje do końca tury +4/+4."
+"Wskazany stwór do końca tury dostaje +2/+2. Jeśli władasz co najmniej "
+"czterema stworami, zamiast tego ów stwór do końca tury dostaje +4/+4."
 
 #: ../../SNC.rst:832
 msgid ""
@@ -2946,8 +2946,8 @@ msgid ""
 "Whenever High-Rise Sawjack blocks a creature with flying, High-Rise Sawjack "
 "gets +2/+0 until end of turn."
 msgstr ""
-"Ilekroć ten stwór zablokuje stwora z lataniem, niniejszy dostaje do końca "
-"tury +2/+0."
+"Ilekroć ten stwór zablokuje stwora z lataniem, niniejszy do końca tury "
+"dostaje +2/+0."
 
 #: ../../SNC.rst:858
 msgid ""
@@ -2980,7 +2980,7 @@ msgid ""
 "Target creature gets +X/+X until end of turn. Create a 1/1 green and white "
 "Citizen creature token."
 msgstr ""
-"Wskazany stwór dostaje do końca tury +X/+X. Stwórz żeton zielono-białego "
+"Wskazany stwór do końca tury dostaje +X/+X. Stwórz żeton zielono-białego "
 "stwora Mieszczanin 1/1."
 
 #: ../../SNC.rst:872
@@ -3140,7 +3140,7 @@ msgid ""
 "control gain deathtouch until end of turn."
 msgstr ""
 "Sojusz — Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, "
-"niniejszy zyskuje do końca tury dotyk śmierci. Jeśli ta zdolność jest "
+"niniejszy do końca tury zyskuje dotyk śmierci. Jeśli ta zdolność jest "
 "rozpatrzona drugi raz w tej turze, wszystkie stwory pod twoim władaniem "
 "zyskują do końca tury dotyk śmierci."
 
@@ -3298,7 +3298,7 @@ msgid ""
 "|mana_b|\\ |mana_r|, Sacrifice another creature: Body Dropper gains menace "
 "until end of turn. (It can't be blocked except by two or more creatures.)"
 msgstr ""
-"|mana_b|\\ |mana_r|, poświęć innego stwora: Niniejszy zyskuje do końca tury "
+"|mana_b|\\ |mana_r|, poświęć innego stwora: Niniejszy do końca tury zyskuje "
 "złowrogość (Ten stwór nie może być blokowany, chyba że przez co najmniej dwa "
 "stwory.)"
 
@@ -3347,7 +3347,7 @@ msgid ""
 "Target creature you control gets +1/+0 until end of turn. It deals damage "
 "equal to its power to target creature or planeswalker an opponent controls."
 msgstr ""
-"Wskazany stwór pod twoim władaniem dostaje do końca tury +1/+0. Zadaje on "
+"Wskazany stwór pod twoim władaniem do końca tury dostaje +1/+0. Zadaje on "
 "obrażenia równe swojej sile wskazanemu stworowi lub wędrowcowi pod władaniem "
 "przeciwnika."
 
@@ -3452,8 +3452,8 @@ msgid ""
 "turn."
 msgstr ""
 "Ilekroć ten stwór zaatakuje, możesz przekręcić innego odkręconego "
-"Mieszczanina pod twoim władaniem. Jeśli tak zrobisz, niniejszy dostaje do "
-"końca tury +1/+0 i więź życia."
+"Mieszczanina pod twoim władaniem. Jeśli tak zrobisz, niniejszy do końca tury "
+"dostaje +1/+0 i więź życia."
 
 #: ../../SNC.rst:1032
 msgid ""
@@ -3799,7 +3799,7 @@ msgid ""
 "from a Treasure was spent to activate this ability, put a +1/+1 counter on "
 "Jetmir's Fixer instead."
 msgstr ""
-"|mana_r|\\ |mana_g|: Ten stwór dostaje do końca tury +1/+1. Jeśli do "
+"|mana_r|\\ |mana_g|: Ten stwór do końca tury dostaje +1/+1. Jeśli do "
 "aktywacji tej zdolności wydano manę ze Skarbu, zamiast tego umieść na tym "
 "stworze znacznik +1/+1."
 
@@ -4766,7 +4766,7 @@ msgid ""
 "three colors of mana were spent to activate this ability, put a +1/+1 "
 "counter on it instead."
 msgstr ""
-"|mana_3|: Ten stwór dostaje do końca tury +1/+1. Jeśli do aktywacji tej "
+"|mana_3|: Ten stwór do końca tury dostaje +1/+1. Jeśli do aktywacji tej "
 "zdolności wydano dokładnie trzy kolory many, zamiast tego umieść na tym "
 "stworze znacznik +1/+1."
 
@@ -4783,7 +4783,7 @@ msgid ""
 "you control. That creature gains first strike until end of turn."
 msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, dołącz go do wskazanego stwora pod "
-"twoim władaniem. Ów stwór zyskuje do końca tury pierwszy cios."
+"twoim władaniem. Ów stwór do końca tury zyskuje pierwszy cios."
 
 #: ../../SNC.rst:1437
 msgid "Equipped creature gets +1/+1."
@@ -4803,7 +4803,7 @@ msgid ""
 "turn."
 msgstr ""
 "Na początku potyczki w twojej turze, jeśli władasz co najmniej dwoma "
-"wielokolorowymi bytami, niniejszy zyskuje do końca tury podwójny cios."
+"wielokolorowymi bytami, niniejszy do końca tury zyskuje podwójny cios."
 
 #: ../../SNC.rst:1450
 msgid ""

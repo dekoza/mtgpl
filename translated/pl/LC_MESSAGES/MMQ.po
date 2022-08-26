@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-22 09:12+0200\n"
-"PO-Revision-Date: 2022-06-25 15:11+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mmq/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.12.1\n"
+"X-Generator: Weblate 4.13.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../symbols.rst:3
@@ -1284,7 +1284,7 @@ msgid ""
 "|mana_u|: Drake Hatchling gets +1/+0 until end of turn. Activate only once "
 "each turn."
 msgstr ""
-"|mana_u|: Ten stwór dostaje do końca tury +1/+0. Możesz aktywować raz na "
+"|mana_u|: Ten stwór do końca tury dostaje +1/+0. Możesz aktywować raz na "
 "turę."
 
 #: ../../MMQ.rst:370
@@ -2343,7 +2343,7 @@ msgstr ""
 
 #: ../../MMQ.rst:731
 msgid "|mana_b|: Primeval Shambler gets +1/+1 until end of turn."
-msgstr "|mana_b|: Ten stwór dostaje do końca tury +1/+1."
+msgstr "|mana_b|: Ten stwór do końca tury dostaje +1/+1."
 
 #: ../../MMQ.rst:736
 msgid ""
@@ -2407,7 +2407,7 @@ msgstr ""
 
 #: ../../MMQ.rst:753
 msgid "Target creature gets +2/+0 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +2/+0."
+msgstr "Wskazany stwór do końca tury dostaje +2/+0."
 
 #: ../../MMQ.rst:758
 msgid ""
@@ -3285,7 +3285,7 @@ msgstr "Ten stwór może blokować dodatkowego stwora w każdej potyczce."
 
 #: ../../MMQ.rst:1065
 msgid "|mana_1|\\ |mana_r|: Two-Headed Dragon gets +2/+0 until end of turn."
-msgstr "|mana_1|\\ |mana_r|: Ten stwór dostaje do końca tury +2/+0."
+msgstr "|mana_1|\\ |mana_r|: Ten stwór do końca tury dostaje +2/+0."
 
 #: ../../MMQ.rst:1070
 msgid ""
@@ -3718,7 +3718,7 @@ msgstr ""
 
 #: ../../MMQ.rst:1207
 msgid "Target creature gets +4/+4 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +4/+4."
+msgstr "Wskazany stwór do końca tury dostaje +4/+4."
 
 #: ../../MMQ.rst:1214
 msgid ""

@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-22 09:12+0200\n"
-"PO-Revision-Date: 2022-04-17 16:43+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/gk2/pl/>\n"
 "Language: pl\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.10.1\n"
+"X-Generator: Weblate 4.13.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../symbols.rst:3
@@ -648,11 +648,11 @@ msgstr ""
 
 #: ../../GK2.rst:141
 msgid "|mana_w|: Windreaver gains vigilance until end of turn."
-msgstr "|mana_w|: Ten stwór zyskuje do końca tury czujność."
+msgstr "|mana_w|: Ten stwór do końca tury zyskuje czujność."
 
 #: ../../GK2.rst:143
 msgid "|mana_w|: Windreaver gets +0/+1 until end of turn."
-msgstr "|mana_w|: Ten stwór dostaje do końca tury +0/+1."
+msgstr "|mana_w|: Ten stwór do końca tury dostaje +0/+1."
 
 #: ../../GK2.rst:145
 msgid "|mana_u|: Switch Windreaver's power and toughness until end of turn."
@@ -800,8 +800,8 @@ msgid ""
 "When Keening Banshee enters the battlefield, target creature gets -2/-2 "
 "until end of turn."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór dostaje do końca tury "
-"-2/-2."
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór do końca tury dostaje -2/"
+"-2."
 
 #: ../../GK2.rst:202
 msgid ""
@@ -813,7 +813,7 @@ msgstr ""
 #: ../../GK2.rst:201
 msgid ""
 "|mana_b|, Sacrifice a creature: Target creature gets -1/-1 until end of turn."
-msgstr "|mana_b|, poświęć stwora: Wskazany stwór dostaje do końca tury -1/-1."
+msgstr "|mana_b|, poświęć stwora: Wskazany stwór do końca tury dostaje -1/-1."
 
 #: ../../GK2.rst:208
 msgid ""
@@ -1283,11 +1283,11 @@ msgstr ""
 
 #: ../../GK2.rst:359
 msgid "|mana_r|\\ |mana_r|: Rakdos Pit Dragon gains flying until end of turn."
-msgstr "|mana_r|\\ |mana_r|: Ten stwór zyskuje do końca tury latanie."
+msgstr "|mana_r|\\ |mana_r|: Ten stwór do końca tury zyskuje latanie."
 
 #: ../../GK2.rst:361
 msgid "|mana_r|: Rakdos Pit Dragon gets +1/+0 until end of turn."
-msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_r|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../GK2.rst:363
 msgid ""
@@ -1330,7 +1330,7 @@ msgstr ""
 
 #: ../../GK2.rst:379
 msgid "Target creature gets +4/-4 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +4/-4."
+msgstr "Wskazany stwór do końca tury dostaje +4/-4."
 
 #: ../../GK2.rst:388
 msgid ""
@@ -1473,8 +1473,8 @@ msgid ""
 "|mana_3|\\ |mana_b|, Discard a card: Target creature gets -2/-2 until end of "
 "turn."
 msgstr ""
-"|mana_3|\\ |mana_b|, odrzuć kartę: Wskazany stwór dostaje do końca tury "
-"-2/-2."
+"|mana_3|\\ |mana_b|, odrzuć kartę: Wskazany stwór do końca tury dostaje -2/"
+"-2."
 
 #: ../../GK2.rst:437
 msgid ""
@@ -1725,8 +1725,8 @@ msgid ""
 "Bloodrush — |mana_g|, Discard Wasteland Viper: Target attacking creature "
 "gets +1/+2 and gains deathtouch until end of turn."
 msgstr ""
-"Zew krwi — |mana_g|, odrzuć tę kartę: Wskazany atakujący stwór dostaje do "
-"końca tury +1/+2 oraz dotyk śmierci."
+"Zew krwi — |mana_g|, odrzuć tę kartę: Wskazany atakujący stwór do końca tury "
+"dostaje +1/+2 oraz dotyk śmierci."
 
 #: ../../GK2.rst:534
 msgid ""
@@ -1809,8 +1809,8 @@ msgid ""
 "Bloodrush — |mana_r|\\ |mana_g|, Discard Ghor-Clan Rampager: Target "
 "attacking creature gets +4/+4 and gains trample until end of turn."
 msgstr ""
-"Zew krwi — |mana_r|\\ |mana_g|, odrzuć tę kartę: Wskazany atakujący stwór "
-"dostaje do końca tury +4/+4 i tratowanie."
+"Zew krwi — |mana_r|\\ |mana_g|, odrzuć tę kartę: Wskazany atakujący stwór do "
+"końca tury dostaje +4/+4 i tratowanie."
 
 #: ../../GK2.rst:560
 msgid ""
@@ -1901,7 +1901,7 @@ msgid ""
 "lands you control."
 msgstr ""
 "Zew krwi — |mana_1|\\ |mana_r|\\ |mana_g|, odrzuć tę kartę: Wskazany "
-"atakujący stwór dostaje do końca tury +X/+X, gdzie X to liczba lądów pod "
+"atakujący stwór do końca tury dostaje +X/+X, gdzie X to liczba lądów pod "
 "twoim władaniem."
 
 #: ../../GK2.rst:588
@@ -2023,7 +2023,7 @@ msgid ""
 "attacking creature gets +5/+4 until end of turn."
 msgstr ""
 "Zew krwi — |mana_1|\\ |mana_r|\\ |mana_g|, odrzuć tę kartę: Wskazany "
-"atakujący stwór dostaje do końca tury +5/+4."
+"atakujący stwór do końca tury dostaje +5/+4."
 
 #: ../../GK2.rst:630
 msgid ""
@@ -2349,7 +2349,7 @@ msgid ""
 "|mana_2|: Target creature with a +1/+1 counter on it gains shroud until end "
 "of turn. (It can't be the target of spells or abilities.)"
 msgstr ""
-"|mana_2|: Wskazany stwór mający znacznik +1/+1 zyskuje do końca tury "
+"|mana_2|: Wskazany stwór mający znacznik +1/+1 do końca tury zyskuje "
 "antymagię. (Nie może być wskazywany przez czary i zdolności.)"
 
 #: ../../GK2.rst:736

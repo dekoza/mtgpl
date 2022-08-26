@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-22 09:12+0200\n"
-"PO-Revision-Date: 2022-08-24 13:47+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/inv/pl/>\n"
 "Language: pl\n"
@@ -1359,8 +1359,8 @@ msgid ""
 "|mana_2|: Target white or black creature gains flying until end of turn. (It "
 "can't be blocked except by creatures with flying or reach.)"
 msgstr ""
-"|mana_2|: Wskazany biały lub czarny stwór zyskuje do końca tury latanie. "
-"(Nie może być blokowany, chyba że przez stwory mające latanie lub zasięg.)"
+"|mana_2|: Wskazany biały lub czarny stwór do końca tury zyskuje latanie. ("
+"Nie może być blokowany, chyba że przez stwory mające latanie lub zasięg.)"
 
 #: ../../INV.rst:410
 msgid ""
@@ -1480,7 +1480,7 @@ msgstr ""
 
 #: ../../INV.rst:453
 msgid "|mana_w|: Tower Drake gets +0/+1 until end of turn."
-msgstr "|mana_w|: Ten stwór dostaje do końca tury +0/+1."
+msgstr "|mana_w|: Ten stwór do końca tury dostaje +0/+1."
 
 #: ../../INV.rst:464
 msgid ""
@@ -1865,7 +1865,7 @@ msgstr ""
 #: ../../INV.rst:593
 msgid "|mana_2|: Target blue or red creature gets +1/+0 until end of turn."
 msgstr ""
-"|mana_2|: Wskazany niebieski lub czerwony stwór dostaje do końca tury +1/+0."
+"|mana_2|: Wskazany niebieski lub czerwony stwór do końca tury dostaje +1/+0."
 
 #: ../../INV.rst:600
 msgid ""
@@ -2370,7 +2370,7 @@ msgstr ""
 
 #: ../../INV.rst:781
 msgid "|mana_r|: Enchanted creature gets +1/+0 until end of turn."
-msgstr "|mana_r|: Zauroczony stwór dostaje do końca tury +1/+0."
+msgstr "|mana_r|: Zauroczony stwór do końca tury dostaje +1/+0."
 
 #: ../../INV.rst:783
 msgid "|mana_r|: Return Crown of Flames to its owner's hand."
@@ -2624,8 +2624,8 @@ msgid ""
 "|mana_2|: Target black or green creature gains haste until end of turn. (It "
 "can attack and |tap| this turn.)"
 msgstr ""
-"|mana_2|: Wskazany czarny lub zielony stwór zyskuje do końca tury pośpiech. "
-"(Może atakować i |tap| w tej turze.)"
+"|mana_2|: Wskazany czarny lub zielony stwór do końca tury zyskuje pośpiech. ("
+"Może atakować i |tap| w tej turze.)"
 
 #: ../../INV.rst:876
 msgid ""
@@ -2636,7 +2636,7 @@ msgstr ""
 
 #: ../../INV.rst:875
 msgid "Whenever Rogue Kavu attacks alone, it gets +2/+0 until end of turn."
-msgstr "Ilekroć ten stwór atakuje samotnie, dostaje do końca tury +2/+0."
+msgstr "Ilekroć ten stwór atakuje samotnie, do końca tury dostaje +2/+0."
 
 #: ../../INV.rst:882
 msgid ""
@@ -2913,7 +2913,7 @@ msgstr ""
 
 #: ../../INV.rst:985
 msgid "Target creature gets +1/+1 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +1/+1."
+msgstr "Wskazany stwór do końca tury dostaje +1/+1."
 
 #: ../../INV.rst:994
 msgid ""
@@ -3160,7 +3160,7 @@ msgid ""
 "|mana_2|: Target red or white creature gains trample until end of turn. (It "
 "can deal excess combat damage to the player or planeswalker it's attacking.)"
 msgstr ""
-"|mana_2|: Wskazany czerwony lub biały stwór zyskuje do końca tury "
+"|mana_2|: Wskazany czerwony lub biały stwór do końca tury zyskuje "
 "tratowanie. (Może zadać nadmiarowe obrażenia bojowe atakowanemu graczowi lub "
 "wędrowcowi.)"
 
@@ -3874,7 +3874,7 @@ msgstr "Stwory pod twoim władaniem mają pośpiech."
 #: ../../INV.rst:1329
 msgid ""
 "Sacrifice Fires of Yavimaya: Target creature gets +2/+2 until end of turn."
-msgstr "Poświęć ten byt: Wskazany stwór dostaje do końca tury +2/+2."
+msgstr "Poświęć ten byt: Wskazany stwór do końca tury dostaje +2/+2."
 
 #: ../../INV.rst:1334
 msgid ""
@@ -4594,7 +4594,7 @@ msgstr ""
 
 #: ../../INV.rst:1589
 msgid "Target creature gets +2/+2 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +2/+2."
+msgstr "Wskazany stwór do końca tury dostaje +2/+2."
 
 #: ../../INV.rst:1594
 msgid ""

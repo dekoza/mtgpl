@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-22 09:12+0200\n"
-"PO-Revision-Date: 2022-05-29 17:33+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ogw/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.12.1\n"
+"X-Generator: Weblate 4.13.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../symbols.rst:3
@@ -390,7 +390,7 @@ msgstr ""
 
 #: ../../OGW.rst:57
 msgid "Target creature gets +3/-3 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +3/-3."
+msgstr "Wskazany stwór do końca tury dostaje +3/-3."
 
 #: ../../OGW.rst:66
 msgid ""
@@ -665,7 +665,7 @@ msgstr ""
 
 #: ../../OGW.rst:147
 msgid "|mana_1|\\ |mana_w|: Kor Sky Climber gains flying until end of turn."
-msgstr "|mana_1|\\ |mana_w|: Ten stwór zyskuje do końca tury latanie."
+msgstr "|mana_1|\\ |mana_w|: Ten stwór do końca tury zyskuje latanie."
 
 #: ../../OGW.rst:156
 msgid ""
@@ -721,7 +721,7 @@ msgstr ""
 
 #: ../../OGW.rst:167
 msgid "Target creature gets +2/+2 and gains flying until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +2/+2 oraz latanie."
+msgstr "Wskazany stwór do końca tury dostaje +2/+2 oraz latanie."
 
 #: ../../OGW.rst:172
 msgid ""
@@ -1012,7 +1012,7 @@ msgid ""
 "represents colorless mana.)"
 msgstr ""
 "Ilekroć ten stwór zaatakuje, możesz zapłacić |colorless|. Jeśli tak zrobisz, "
-"inny wskazany stwór zyskuje do końca tury latanie. (|colorless| oznacza "
+"inny wskazany stwór do końca tury zyskuje latanie. (|colorless| oznacza "
 "bezkolorową manę.)"
 
 #: ../../OGW.rst:272
@@ -1341,8 +1341,8 @@ msgid ""
 "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 "
 "until end of turn.)"
 msgstr ""
-"Waleczność (Ilekroć rzucisz nie-stworowy czar, ten stwór dostaje do końca "
-"tury +1/+1.)"
+"Waleczność (Ilekroć rzucisz nie-stworowy czar, ten stwór do końca tury "
+"dostaje +1/+1.)"
 
 #: ../../OGW.rst:394
 msgid ""
@@ -1435,7 +1435,7 @@ msgid ""
 "|mana_1|\\ |colorless|: Havoc Sower gets +2/+1 until end of turn. (|"
 "colorless| represents colorless mana.)"
 msgstr ""
-"|mana_1|\\ |colorless|: Ten stwór dostaje do końca tury +2/+1. (|colorless| "
+"|mana_1|\\ |colorless|: Ten stwór do końca tury dostaje +2/+1. (|colorless| "
 "oznacza bezkolorową manę.)"
 
 #: ../../OGW.rst:436
@@ -1468,7 +1468,7 @@ msgid ""
 "turn. (It can't be blocked except by two or more creatures. |colorless| "
 "represents colorless mana.)"
 msgstr ""
-"|colorless|: Ten stwór dostaje do końca tury +1/+0 i złowrogość. (Nie może "
+"|colorless|: Ten stwór do końca tury dostaje +1/+0 i złowrogość. (Nie może "
 "być blokowany, chyba że przez co najmniej dwa stwory. |colorless| oznacza "
 "bezkolorową manę.)"
 
@@ -1542,7 +1542,7 @@ msgid ""
 "Whenever you cast a colorless spell, Sky Scourer gets +1/+0 until end of "
 "turn."
 msgstr ""
-"Ilekroć rzucisz bezkolorowy czar, ten stwór dostaje do końca tury +1/+0."
+"Ilekroć rzucisz bezkolorowy czar, ten stwór do końca tury dostaje +1/+0."
 
 #: ../../OGW.rst:480
 msgid ""
@@ -1570,7 +1570,7 @@ msgstr ""
 
 #: ../../OGW.rst:485
 msgid "Target creature gets +2/+0 until end of turn. Regenerate it."
-msgstr "Wskazany stwór dostaje do końca tury +2/+0. Zregeneruj go."
+msgstr "Wskazany stwór do końca tury dostaje +2/+0. Zregeneruj go."
 
 #: ../../OGW.rst:496
 msgid ""
@@ -1642,7 +1642,7 @@ msgstr ""
 
 #: ../../OGW.rst:513
 msgid "Target creature gets -4/-4 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -4/-4."
+msgstr "Wskazany stwór do końca tury dostaje -4/-4."
 
 #: ../../OGW.rst:522
 msgid ""
@@ -1726,7 +1726,7 @@ msgstr ""
 
 #: ../../OGW.rst:537
 msgid "Target creature gets -3/-2 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -3/-2."
+msgstr "Wskazany stwór do końca tury dostaje -3/-2."
 
 #: ../../OGW.rst:544
 msgid ""
@@ -1866,7 +1866,7 @@ msgid ""
 "|colorless|: Maw of Kozilek gets +2/-2 until end of turn. (|colorless| "
 "represents colorless mana.)"
 msgstr ""
-"|colorless|: Ten stwór dostaje do końca tury +2/-2. (|colorless| oznacza "
+"|colorless|: Ten stwór do końca tury dostaje +2/-2. (|colorless| oznacza "
 "bezkolorową manę.)"
 
 #: ../../OGW.rst:604
@@ -1923,7 +1923,7 @@ msgstr ""
 
 #: ../../OGW.rst:617
 msgid "Target creature gets +3/+1 and gains trample until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +3/+1 oraz tratowanie."
+msgstr "Wskazany stwór do końca tury dostaje +3/+1 oraz tratowanie."
 
 #: ../../OGW.rst:626
 msgid ""
@@ -2291,7 +2291,7 @@ msgid ""
 "|colorless|: Stalking Drone gets +1/+2 until end of turn. Activate only once "
 "each turn. (|colorless| represents colorless mana.)"
 msgstr ""
-"|colorless|: Ten stwór dostaje do końca tury +1/+2. Możesz aktywować tylko "
+"|colorless|: Ten stwór do końca tury dostaje +1/+2. Możesz aktywować tylko "
 "raz na turę. (|colorless| oznacza bezkolorową manę.)"
 
 #: ../../OGW.rst:756
@@ -2488,7 +2488,7 @@ msgid ""
 "Whenever Netcaster Spider blocks a creature with flying, Netcaster Spider "
 "gets +2/+0 until end of turn."
 msgstr ""
-"Ilekroć ten stwór zablokuje stwora z lataniem, dostaje do końca tury +2/+0."
+"Ilekroć ten stwór zablokuje stwora z lataniem, do końca tury dostaje +2/+0."
 
 #: ../../OGW.rst:828
 msgid ""
@@ -2641,7 +2641,7 @@ msgid ""
 "Target creature gets +1/+2 and gains reach until end of turn. Untap it. (A "
 "creature with reach can block creatures with flying.)"
 msgstr ""
-"Wskazany stwór dostaje do końca tury +1/+2 oraz zasięg. Odkręć go. (Stwór z "
+"Wskazany stwór do końca tury dostaje +1/+2 oraz zasięg. Odkręć go. (Stwór z "
 "zasięgiem może blokować stwory z lataniem.)"
 
 #: ../../OGW.rst:874
@@ -2847,7 +2847,7 @@ msgid ""
 "|mana_1|\\ |mana_r|\\ |mana_g|: Relentless Hunter gets +1/+1 and gains "
 "trample until end of turn."
 msgstr ""
-"|mana_1|\\ |mana_r|\\ |mana_g|: Ten stwór dostaje do końca tury +1/+1 oraz "
+"|mana_1|\\ |mana_r|\\ |mana_g|: Ten stwór do końca tury dostaje +1/+1 oraz "
 "tratowanie."
 
 #: ../../OGW.rst:944

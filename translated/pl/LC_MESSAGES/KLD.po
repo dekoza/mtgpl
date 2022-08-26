@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-22 09:12+0200\n"
-"PO-Revision-Date: 2022-05-29 17:33+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/kld/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.12.1\n"
+"X-Generator: Weblate 4.13.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../symbols.rst:3
@@ -370,7 +370,7 @@ msgid ""
 "it gains indestructible until end of turn. (Damage and effects that say "
 "\"destroy\" don't destroy it.)"
 msgstr ""
-"Wskazany stwór dostaje do końca tury +2/+2. Jeśli jest artefaktowym stworem, "
+"Wskazany stwór do końca tury dostaje +2/+2. Jeśli jest artefaktowym stworem, "
 "zyskuje niezniszczalność do końca tury. (Obrażenia i efekty mówiące \"zniszcz"
 "\" nie niszczą go.)"
 
@@ -486,7 +486,7 @@ msgid ""
 "target attacking creature gains flying until end of turn."
 msgstr ""
 "Ilekroć ten stwór zaatakuje, możesz zapłacić |energy|. Jeśli tak zrobisz, "
-"inny wskazany atakujący stwór zyskuje do końca tury latanie."
+"inny wskazany atakujący stwór do końca tury zyskuje latanie."
 
 #: ../../KLD.rst:84
 msgid ""
@@ -575,8 +575,8 @@ msgid ""
 "When Herald of the Fair enters the battlefield, target creature you control "
 "gets +1/+1 until end of turn."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór pod twoim władaniem "
-"dostaje do końca tury +1/+1."
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór pod twoim władaniem do "
+"końca tury dostaje +1/+1."
 
 #: ../../KLD.rst:110
 msgid ""
@@ -1380,8 +1380,8 @@ msgid ""
 "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 "
 "until end of turn.)"
 msgstr ""
-"Waleczność (Ilekroć rzucisz nie-stworowy czar, ten stwór dostaje do końca "
-"tury +1/+1.)"
+"Waleczność (Ilekroć rzucisz nie-stworowy czar, ten stwór do końca tury "
+"dostaje +1/+1.)"
 
 #: ../../KLD.rst:378
 msgid ""
@@ -1395,8 +1395,8 @@ msgid ""
 "Whenever an artifact enters the battlefield under your control, Weldfast "
 "Wingsmith gains flying until end of turn."
 msgstr ""
-"Ilekroć artefakt wejdzie na pole bitwy pod twoim władaniem, ten stwór "
-"zyskuje do końca tury latanie."
+"Ilekroć artefakt wejdzie na pole bitwy pod twoim władaniem, ten stwór do "
+"końca tury zyskuje latanie."
 
 #: ../../KLD.rst:382
 msgid ""
@@ -1501,8 +1501,8 @@ msgid ""
 "of turn for each |energy| paid this way."
 msgstr ""
 "Wybierz wskazanego stwora. Przyjmij |energy|\\ |energy| (dwa znaczniki "
-"energii), po czym możesz zapłacić dowolną liczbę |energy|. Ów stwór dostaje "
-"do końca tury -1/-1 za każdy |energy| zapłacony w ten sposób."
+"energii), po czym możesz zapłacić dowolną liczbę |energy|. Ów stwór do końca "
+"tury dostaje -1/-1 za każdy |energy| zapłacony w ten sposób."
 
 #: ../../KLD.rst:418
 msgid ""
@@ -1867,7 +1867,7 @@ msgid ""
 "that much life, and it can't be destroyed by damage or effects that say "
 "\"destroy.\")"
 msgstr ""
-"Wskazany stwór dostaje do końca tury +1/+0 oraz więź życia i "
+"Wskazany stwór do końca tury dostaje +1/+0 oraz więź życia i "
 "niezniszczalność. (Obrażania zadane przez tego stwora powodują, że zyskujesz "
 "tyle samo żyć i nie może być on zniszczony przez obrażenia lub efekty "
 "mówiące \"zniszcz\".)"
@@ -1881,7 +1881,7 @@ msgstr ""
 
 #: ../../KLD.rst:539
 msgid "Target creature gets -1/-1 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -1/-1."
+msgstr "Wskazany stwór do końca tury dostaje -1/-1."
 
 #: ../../KLD.rst:541
 msgid "Put a +1/+1 counter on target creature."
@@ -2026,7 +2026,7 @@ msgid ""
 "Target attacking creature gets +3/+3 until end of turn. If it's an artifact "
 "creature, it gains trample until end of turn."
 msgstr ""
-"Wskazany atakujący stwór dostaje do końca tury +3/+3. Jeśli jest "
+"Wskazany atakujący stwór do końca tury dostaje +3/+3. Jeśli jest "
 "artefaktowym stworem, zyskuje tratowanie do końca tury."
 
 #: ../../KLD.rst:588
@@ -2302,7 +2302,7 @@ msgstr ""
 msgid ""
 "|mana_1|\\ |mana_r|: Target artifact creature gets +1/+0 until end of turn."
 msgstr ""
-"|mana_1|\\ |mana_r|: Wskazany artefaktowy stwór dostaje do końca tury +1/+0."
+"|mana_1|\\ |mana_r|: Wskazany artefaktowy stwór do końca tury dostaje +1/+0."
 
 #: ../../KLD.rst:669
 msgid "|mana_1|, Sacrifice an artifact: Target creature can't block this turn."
@@ -2374,8 +2374,8 @@ msgid ""
 "Whenever an artifact enters the battlefield under your control, Salivating "
 "Gremlins gets +2/+0 and gains trample until end of turn."
 msgstr ""
-"Ilekroć artefakt wejdzie na pole bitwy pod twoim władaniem, ten stwór "
-"dostaje do końca tury +2/+0 oraz tratowanie."
+"Ilekroć artefakt wejdzie na pole bitwy pod twoim władaniem, ten stwór do "
+"końca tury dostaje +2/+0 oraz tratowanie."
 
 #: ../../KLD.rst:702
 msgid ""
@@ -2386,7 +2386,7 @@ msgstr ""
 
 #: ../../KLD.rst:697
 msgid "|mana_r|: Skyship Stalker gets +1/+0 until end of turn."
-msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_r|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../KLD.rst:699
 msgid "|mana_r|: Skyship Stalker gains first strike until end of turn."
@@ -2493,7 +2493,7 @@ msgid ""
 "gets +2/+2 until end of turn."
 msgstr ""
 "Ilekroć przyjmiesz jeden lub więcej |energy| (znaczników energii), ten stwór "
-"dostaje do końca tury +2/+2."
+"do końca tury dostaje +2/+2."
 
 #: ../../KLD.rst:734
 msgid ""
@@ -2638,7 +2638,7 @@ msgstr ""
 msgid ""
 "Target creature you control gets +2/+2 and gains hexproof until end of turn."
 msgstr ""
-"Wskazany stwór pod twoim władaniem dostaje do końca tury +2/+2 i antyklątwę."
+"Wskazany stwór pod twoim władaniem do końca tury dostaje +2/+2 i antyklątwę."
 
 #: ../../KLD.rst:784
 msgid ""
@@ -2847,7 +2847,7 @@ msgstr ""
 
 #: ../../KLD.rst:843
 msgid "Target creature gets +4/+4 and gains trample until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +4/+4 i tratowanie."
+msgstr "Wskazany stwór do końca tury dostaje +4/+4 i tratowanie."
 
 #: ../../KLD.rst:850
 msgid ""
@@ -3217,7 +3217,7 @@ msgstr ""
 
 #: ../../KLD.rst:967
 msgid "Target creature gets +5/+5 and gains trample until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +5/+5 oraz tratowanie."
+msgstr "Wskazany stwór do końca tury dostaje +5/+5 oraz tratowanie."
 
 #: ../../KLD.rst:969
 msgid "Creatures you control get +2/+2 and gain vigilance until end of turn."
@@ -3345,7 +3345,7 @@ msgid ""
 "Whenever Veteran Motorist crews a Vehicle, that Vehicle gets +1/+1 until end "
 "of turn."
 msgstr ""
-"Ilekroć ten stwór załoguje Pojazd, ów Pojazd dostaje do końca tury +1/+1."
+"Ilekroć ten stwór załoguje Pojazd, ów Pojazd do końca tury dostaje +1/+1."
 
 #: ../../KLD.rst:1010
 msgid ""
@@ -3678,7 +3678,7 @@ msgstr ""
 
 #: ../../KLD.rst:1113
 msgid "|mana_u|: Dukhara Peafowl gains flying until end of turn."
-msgstr "|mana_u|: Ten stwór zyskuje do końca tury latanie."
+msgstr "|mana_u|: Ten stwór do końca tury zyskuje latanie."
 
 #: ../../KLD.rst:1120
 msgid ""
@@ -3740,8 +3740,8 @@ msgid ""
 "Pay |energy|\\ |energy|\\ |energy|: Electrostatic Pummeler gets +X/+X until "
 "end of turn, where X is its power."
 msgstr ""
-"Zapłać |energy|\\ |energy|\\ |energy|: Ten stwór dostaje do końca tury +X/"
-"+X, gdzie X jest jego siłą."
+"Zapłać |energy|\\ |energy|\\ |energy|: Ten stwór do końca tury dostaje +X/+"
+"X, gdzie X jest jego siłą."
 
 #: ../../KLD.rst:1136
 msgid ""
@@ -4004,12 +4004,12 @@ msgid ""
 "Pay |energy|: Multiform Wonder gains your choice of flying, vigilance, or "
 "lifelink until end of turn."
 msgstr ""
-"Zapłać |energy|: Ten stwór zyskuje do końca tury wybraną przez ciebie "
+"Zapłać |energy|: Ten stwór do końca tury zyskuje wybraną przez ciebie "
 "zdolność spośród latania, czujności i więzi życia."
 
 #: ../../KLD.rst:1211
 msgid "Pay |energy|: Multiform Wonder gets +2/-2 or -2/+2 until end of turn."
-msgstr "Zapłać |energy|: Ten stwór dostaje do końca tury +2/-2 lub -2/+2."
+msgstr "Zapłać |energy|: Ten stwór do końca tury dostaje +2/-2 lub -2/+2."
 
 #: ../../KLD.rst:1216
 msgid ""
@@ -4118,7 +4118,7 @@ msgid ""
 "Whenever Renegade Freighter attacks, it gets +1/+1 and gains trample until "
 "end of turn."
 msgstr ""
-"Ilekroć ten pojazd zaatakuje, dostaje do końca tury +1/+1 oraz tratowanie."
+"Ilekroć ten pojazd zaatakuje, do końca tury dostaje +1/+1 oraz tratowanie."
 
 #: ../../KLD.rst:1254
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-22 09:12+0200\n"
-"PO-Revision-Date: 2022-04-17 16:43+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/avr/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.10.1\n"
+"X-Generator: Weblate 4.13.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../symbols.rst:3
@@ -639,7 +639,7 @@ msgid ""
 "Target creature gains flying until end of turn. Prevent all damage that "
 "would be dealt to that creature this turn."
 msgstr ""
-"Wskazany stwór zyskuje do końca tury latanie. Zażegnaj obrażenia, które ów "
+"Wskazany stwór do końca tury zyskuje latanie. Zażegnaj obrażenia, które ów "
 "stwór mógłby otrzymać w tej turze."
 
 #: ../../AVR.rst:142
@@ -665,8 +665,8 @@ msgid ""
 "When Midvast Protector enters the battlefield, target creature you control "
 "gains protection from the color of your choice until end of turn."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór pod twoim władaniem "
-"zyskuje do końca tury ochronę przed wybranym przez ciebie kolorem."
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór pod twoim władaniem do "
+"końca tury zyskuje ochronę przed wybranym przez ciebie kolorem."
 
 #: ../../AVR.rst:152
 msgid ""
@@ -860,7 +860,7 @@ msgstr ""
 
 #: ../../AVR.rst:217
 msgid "Target creature gets +2/+2 and gains first strike until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +2/+2 oraz pierwszy cios."
+msgstr "Wskazany stwór do końca tury dostaje +2/+2 oraz pierwszy cios."
 
 #: ../../AVR.rst:222
 msgid ""
@@ -1639,7 +1639,7 @@ msgstr ""
 
 #: ../../AVR.rst:483
 msgid "Target creature gets -X/-X until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -X/-X."
+msgstr "Wskazany stwór do końca tury dostaje -X/-X."
 
 #: ../../AVR.rst:488
 msgid ""
@@ -1759,7 +1759,7 @@ msgstr ""
 
 #: ../../AVR.rst:521
 msgid "|mana_b|: Evernight Shade gets +1/+1 until end of turn."
-msgstr "|mana_b|: Ten stwór dostaje do końca tury +1/+1."
+msgstr "|mana_b|: Ten stwór do końca tury dostaje +1/+1."
 
 #: ../../AVR.rst:528
 msgid ""
@@ -1995,7 +1995,7 @@ msgid ""
 "|mana_3|\\ |mana_b|: Searchlight Geist gains deathtouch until end of turn. "
 "(Any amount of damage it deals to a creature is enough to destroy it.)"
 msgstr ""
-"|mana_3|\\ |mana_b|: Ten stwór zyskuje do końca tury dotyk śmierci. (Stwór "
+"|mana_3|\\ |mana_b|: Ten stwór do końca tury zyskuje dotyk śmierci. (Stwór "
 "otrzymujący od niniejszego jakiekolwiek obrażenia zostaje zniszczony.)"
 
 #: ../../AVR.rst:614
@@ -2371,7 +2371,7 @@ msgid ""
 "Striker gets +1/+0 and gains trample until end of turn."
 msgstr ""
 "Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, niniejszy "
-"stwór dostaje do końca tury +1/+0 i tratowanie."
+"stwór do końca tury dostaje +1/+0 i tratowanie."
 
 #: ../../AVR.rst:738
 msgid ""
@@ -2525,7 +2525,7 @@ msgstr ""
 
 #: ../../AVR.rst:787
 msgid "Target creature gets +X/+0 until end of turn, where X is its power."
-msgstr "Wskazany stwór dostaje do końca tury +X/+0, gdzie X jest jego siłą."
+msgstr "Wskazany stwór do końca tury dostaje +X/+0, gdzie X jest jego siłą."
 
 #: ../../AVR.rst:792
 msgid ""
@@ -2570,7 +2570,7 @@ msgid ""
 "creatures has \"|mana_r|: This creature gets +1/+0 until end of turn.\""
 msgstr ""
 "O ile ten stwór jest sparowany z innym stworem, oba mają \"|mana_r|: Ten "
-"stwór dostaje do końca tury +1/+0.\""
+"stwór do końca tury dostaje +1/+0.\""
 
 #: ../../AVR.rst:806
 msgid ""
@@ -2679,7 +2679,7 @@ msgstr ""
 
 #: ../../AVR.rst:835
 msgid "Target creature gets +3/+0 and gains haste until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +3/+0 i pośpiech."
+msgstr "Wskazany stwór do końca tury dostaje +3/+0 i pośpiech."
 
 #: ../../AVR.rst:840
 msgid ""
@@ -2989,8 +2989,8 @@ msgid ""
 "Target creature gets +2/+2 until end of turn. If it's paired with a "
 "creature, that creature also gets +2/+2 until end of turn."
 msgstr ""
-"Wskazany stwór dostaje do końca tury +2/+2. Jeśli jest sparowany ze stworem, "
-"ów stwór również dostaje do końca tury +2/+2."
+"Wskazany stwór do końca tury dostaje +2/+2. Jeśli jest sparowany ze stworem, "
+"ów stwór również do końca tury dostaje +2/+2."
 
 #: ../../AVR.rst:946
 msgid ""
@@ -3120,7 +3120,7 @@ msgid ""
 "equal to that creature's toughness. (A creature with hexproof can't be the "
 "target of spells or abilities your opponents control.)"
 msgstr ""
-"Wskazany stwór pod twoim władaniem zyskuje do końca tury antyklątwę. Zyskaj "
+"Wskazany stwór pod twoim władaniem do końca tury zyskuje antyklątwę. Zyskaj "
 "tyle żyć, ile ma on wytrzymałości. (Stwór z antyklątwą nie może być "
 "wskazywany przez czary i zdolności pod władaniem twoich przeciwników.)"
 
@@ -3136,7 +3136,7 @@ msgid ""
 "Target creature gets +1/+1 and gains reach until end of turn. (It can block "
 "creatures with flying.)"
 msgstr ""
-"Wskazany stwór dostaje do końca tury +1/+1 i zasięg. (Może blokować stwory z "
+"Wskazany stwór do końca tury dostaje +1/+1 i zasięg. (Może blokować stwory z "
 "lataniem.)"
 
 #: ../../AVR.rst:998
@@ -3277,7 +3277,7 @@ msgid ""
 "spell, that creature gets +3/+3 until end of turn."
 msgstr ""
 "Ilekroć stwór pod twoim władaniem zostanie wskazany przez czar sztuczki lub "
-"obrzędu, ów stwór dostaje do końca tury +3/+3."
+"obrzędu, ów stwór do końca tury dostaje +3/+3."
 
 #: ../../AVR.rst:1042
 msgid ""
@@ -3330,7 +3330,7 @@ msgid ""
 "|mana_2|\\ |mana_g|\\ |mana_g|: Yew Spirit gets +X/+X until end of turn, "
 "where X is its power."
 msgstr ""
-"|mana_2|\\ |mana_g|\\ |mana_g|: Ten stwór dostaje do końca tury +X/+X, gdzie "
+"|mana_2|\\ |mana_g|\\ |mana_g|: Ten stwór do końca tury dostaje +X/+X, gdzie "
 "X jest jego siłą."
 
 #: ../../AVR.rst:1064
@@ -3539,7 +3539,7 @@ msgstr ""
 
 #: ../../AVR.rst:1119
 msgid "|mana_2|: Narstad Scrapper gets +1/+0 until end of turn."
-msgstr "|mana_2|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_2|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../AVR.rst:1126
 msgid ""
@@ -3727,7 +3727,7 @@ msgid ""
 "|mana_r|\\ |mana_w|, |tap|: Target creature gets +2/+0 and gains vigilance "
 "and haste until end of turn."
 msgstr ""
-"|mana_r|\\ |mana_w|, |tap|: Wskazany stwór dostaje do końca tury +2/+0, "
+"|mana_r|\\ |mana_w|, |tap|: Wskazany stwór do końca tury dostaje +2/+0, "
 "czujność i pośpiech."
 
 #: ../../AVR.rst:1190

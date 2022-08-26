@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-22 09:12+0200\n"
-"PO-Revision-Date: 2022-04-18 23:05+0000\n"
+"PO-Revision-Date: 2022-08-26 21:05+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/p02/pl/>\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.10.1\n"
+"X-Generator: Weblate 4.13.1\n"
 
 #: ../../symbols.rst:3
 msgid "{C}"
@@ -341,7 +341,7 @@ msgid ""
 "Target creature gets +3/+3 and gains flying until end of turn. (It can't be "
 "blocked except by creatures with flying or reach.)"
 msgstr ""
-"Wskazany stwór dostaje do końca tury +3/+3 i latanie. (Nie może być "
+"Wskazany stwór do końca tury dostaje +3/+3 i latanie. (Nie może być "
 "blokowany, chyba że przez stwory mające latanie lub zasięg.)"
 
 #: ../../P02.rst:52
@@ -957,7 +957,7 @@ msgstr ""
 
 #: ../../P02.rst:279
 msgid "Target creature gets +X/+0 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +X/+0."
+msgstr "Wskazany stwór do końca tury dostaje +X/+0."
 
 #: ../../P02.rst:284
 msgid ""
@@ -1767,7 +1767,7 @@ msgstr ""
 
 #: ../../P02.rst:567
 msgid "Target creature gets +4/+4 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +4/+4."
+msgstr "Wskazany stwór do końca tury dostaje +4/+4."
 
 #: ../../P02.rst:572
 msgid ""

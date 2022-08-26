@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-22 09:12+0200\n"
-"PO-Revision-Date: 2022-04-24 19:45+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/chk/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.10.1\n"
+"X-Generator: Weblate 4.13.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../symbols.rst:3
@@ -249,7 +249,7 @@ msgid ""
 "Target creature you control gains protection from the color of your choice "
 "until end of turn."
 msgstr ""
-"Wskazany stwór pod twoim władaniem zyskuje do końca tury ochronę przed "
+"Wskazany stwór pod twoim władaniem do końca tury zyskuje ochronę przed "
 "wybranym przez ciebie kolorem."
 
 #: ../../CHK.rst:11
@@ -385,7 +385,7 @@ msgid ""
 "|mana_1|\\ |mana_w|: Target permanent you control gains protection from "
 "white until end of turn."
 msgstr ""
-"|mana_1|\\ |mana_w|: Wskazany byt pod twoim władaniem zyskuje do końca tury "
+"|mana_1|\\ |mana_w|: Wskazany byt pod twoim władaniem do końca tury zyskuje "
 "ochronę przed białym."
 
 #: ../../CHK.rst:51
@@ -1314,7 +1314,7 @@ msgstr ""
 
 #: ../../CHK.rst:381
 msgid "Target creature gains flying until end of turn."
-msgstr "Wskazany stwór zyskuje do końca tury latanie."
+msgstr "Wskazany stwór do końca tury zyskuje latanie."
 
 #: ../../CHK.rst:390
 msgid ""
@@ -2301,7 +2301,7 @@ msgstr ""
 
 #: ../../CHK.rst:745
 msgid "Target creature gets -5/-5 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -5/-5."
+msgstr "Wskazany stwór do końca tury dostaje -5/-5."
 
 #: ../../CHK.rst:750
 msgid ""
@@ -2361,7 +2361,7 @@ msgstr ""
 #: ../../CHK.rst:769
 msgid ""
 "Sacrifice Scuttling Death: Target creature gets -1/-1 until end of turn."
-msgstr "Poświęć tego stwora: Wskazany stwór dostaje do końca tury -1/-1."
+msgstr "Poświęć tego stwora: Wskazany stwór do końca tury dostaje -1/-1."
 
 #: ../../CHK.rst:776
 msgid ""
@@ -3560,7 +3560,7 @@ msgstr ""
 
 #: ../../CHK.rst:1173
 msgid "Target creature gets +2/+2 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +2/+2."
+msgstr "Wskazany stwór do końca tury dostaje +2/+2."
 
 #: ../../CHK.rst:1175
 msgid ""

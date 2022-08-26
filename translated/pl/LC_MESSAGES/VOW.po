@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-22 09:12+0200\n"
-"PO-Revision-Date: 2022-07-25 07:43+0000\n"
+"PO-Revision-Date: 2022-08-26 21:05+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/vow/pl/>\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.12.1\n"
+"X-Generator: Weblate 4.13.1\n"
 
 #: ../../symbols.rst:3
 msgid "{C}"
@@ -246,7 +246,7 @@ msgid ""
 "Target creature gets +2/+2 and gains indestructible until end of turn. "
 "(Damage and effects that say \"destroy\" don't destroy it.)"
 msgstr ""
-"Wskazany stwór dostaje do końca tury +2/+2 i niezniszczalność. (Obrażenia i "
+"Wskazany stwór do końca tury dostaje +2/+2 i niezniszczalność. (Obrażenia i "
 "efekty mówiące \"zniszcz\" nie niszczą go.)"
 
 #: ../../VOW.rst:16
@@ -633,7 +633,7 @@ msgid ""
 "do, target attacking creature without flying gains flying until end of turn."
 msgstr ""
 "Ilekroć ten stwór zaatakuje, możesz zapłacić |mana_1|\\ |mana_w|. Jeśli tak "
-"zrobisz, wskazany atakujący stwór nie mający latanie zyskuje do końca tury "
+"zrobisz, wskazany atakujący stwór nie mający latanie do końca tury zyskuje "
 "latanie."
 
 #: ../../VOW.rst:128
@@ -864,7 +864,7 @@ msgid ""
 "your control, this creature gets +1/+1 until end of turn.\""
 msgstr ""
 "Zauroczony stwór ma \"Ilekroć stwór wejdzie na pole bitwy pod twoim "
-"władaniem, ten stwór dostaje do końca tury +1/+1.\""
+"władaniem, ten stwór do końca tury dostaje +1/+1.\""
 
 #: ../../VOW.rst:201
 msgid ""
@@ -890,8 +890,8 @@ msgid ""
 "Sacrifice Ollenbock Escort: Target creature you control with a +1/+1 counter "
 "on it gains lifelink and indestructible until end of turn."
 msgstr ""
-"Poświęć tego stwora: Wskazany stwór pod twoim władaniem mający znacznik +1/"
-"+1 zyskuje do końca tury więź życia i niezniszczalność."
+"Poświęć tego stwora: Wskazany stwór pod twoim władaniem mający znacznik +1/+"
+"1 do końca tury zyskuje więź życia i niezniszczalność."
 
 #: ../../VOW.rst:214
 msgid ""
@@ -932,7 +932,7 @@ msgstr "Ilekroć umrze ten lub inny stwór pod twoim władaniem, zyskaj 1 życie
 #: ../../VOW.rst:219
 msgid ""
 "|mana_1|\\ |mana_b|: Cackling Culprit gains deathtouch until end of turn."
-msgstr "|mana_1|\\ |mana_b|: Ten stwór zyskuje do końca tury dotyk śmierci."
+msgstr "|mana_1|\\ |mana_b|: Ten stwór do końca tury zyskuje dotyk śmierci."
 
 #: ../../VOW.rst:226
 msgid ""
@@ -1139,7 +1139,7 @@ msgid ""
 "|tap|: Target creature gets +1/+0 until end of turn. You gain 1 life. "
 "Activate only as a sorcery."
 msgstr ""
-"|tap|: Wskazany stwór dostaje do końca tury +1/+0. Zyskaj 1 życie. Aktywuj "
+"|tap|: Wskazany stwór do końca tury dostaje +1/+0. Zyskaj 1 życie. Aktywuj "
 "tylko jako obrzęd."
 
 #: ../../VOW.rst:298
@@ -1209,7 +1209,7 @@ msgid ""
 "Target creature gains indestructible until end of turn. (Damage and effects "
 "that say \"destroy\" don't destroy it.)"
 msgstr ""
-"Wskazany stwór zyskuje do końca tury niezniszczalność. (Obrażenia i efekty "
+"Wskazany stwór do końca tury zyskuje niezniszczalność. (Obrażenia i efekty "
 "mówiące \"zniszcz\" nie niszczą go.)"
 
 #: ../../VOW.rst:319
@@ -1337,8 +1337,8 @@ msgid ""
 "Whenever Binding Geist attacks, target creature an opponent controls gets "
 "-2/-0 until end of turn."
 msgstr ""
-"Ilekroć ten stwór zaatakuje, wskazany stwór pod władaniem przeciwnika "
-"dostaje do końca tury -2/-0."
+"Ilekroć ten stwór zaatakuje, wskazany stwór pod władaniem przeciwnika do "
+"końca tury dostaje -2/-0."
 
 #: ../../VOW.rst:357
 msgid ""
@@ -1518,7 +1518,7 @@ msgid ""
 "hexproof until end of turn. (It can't be the target of spells or abilities "
 "your opponents control.)"
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, zauroczony stwór zyskuje do końca tury "
+"Kiedy ten byt wejdzie na pole bitwy, zauroczony stwór do końca tury zyskuje "
 "antyklątwę. (Nie może być on wskazywany przez czary lub zdolności pod "
 "władaniem twoich przeciwników.)"
 
@@ -2397,7 +2397,7 @@ msgid ""
 "Target creature gets -13/-13 until end of turn. If that creature would die "
 "this turn, exile it instead."
 msgstr ""
-"Wskazany stwór dostaje do końca tury -13/-13. Jeśli ów stwór miałby umrzeć w "
+"Wskazany stwór do końca tury dostaje -13/-13. Jeśli ów stwór miałby umrzeć w "
 "tej turze, zamiast tego wygnaj go."
 
 #: ../../VOW.rst:728
@@ -2590,7 +2590,7 @@ msgid ""
 "Target creature an opponent controls gets -X/-X until end of turn, where X "
 "is the mana value of the exiled card."
 msgstr ""
-"Wskazany stwór pod władaniem przeciwnika dostaje do końca tury -X/-X, gdzie "
+"Wskazany stwór pod władaniem przeciwnika do końca tury dostaje -X/-X, gdzie "
 "X jest skrótem many wygnanej karty."
 
 #: ../../VOW.rst:778
@@ -2966,7 +2966,7 @@ msgid ""
 "deathtouch, and/or lifelink gets +1/+0 until end of turn."
 msgstr ""
 "|mana_1|\\ |mana_b|\\ |mana_b|: Każdy stwór pod twoim władaniem mający "
-"latanie, dotyk śmierci i/lub więź życia dostaje do końca tury +1/+0."
+"latanie, dotyk śmierci i/lub więź życia do końca tury dostaje +1/+0."
 
 #: ../../VOW.rst:910
 msgid ""
@@ -3192,7 +3192,7 @@ msgid ""
 "creatures."
 msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, wskazany stwór pod władaniem "
-"przeciwnika dostaje do końca tury -2/-2 jeśli ów przeciwnik nie ma innych "
+"przeciwnika do końca tury dostaje -2/-2 jeśli ów przeciwnik nie ma innych "
 "stworów we władaniu."
 
 #: ../../VOW.rst:984
@@ -3474,7 +3474,7 @@ msgid ""
 "Target creature gains trample and gets +X/+0 until end of turn, where X is 1 "
 "plus the number of cards named Ancestral Anger in your graveyard."
 msgstr ""
-"Wskazany stwór dostaje do końca tury +X/+0 oraz tratowanie, gdzie X wynosi 1 "
+"Wskazany stwór do końca tury dostaje +X/+0 oraz tratowanie, gdzie X wynosi 1 "
 "plus liczba kart o nazwie Ancestral Anger w twoim cmentarzu."
 
 #: ../../VOW.rst:1070
@@ -3728,7 +3728,7 @@ msgid ""
 "When Daybreak Combatants enters the battlefield, target creature gets +2/+0 "
 "until end of turn."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór dostaje do końca tury +2/"
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór do końca tury dostaje +2/"
 "+0."
 
 #: ../../VOW.rst:1142
@@ -3831,7 +3831,7 @@ msgid ""
 "Whenever you cast a noncreature spell, Frenzied Devils gets +2/+2 until end "
 "of turn."
 msgstr ""
-"Ilekroć rzucisz niestworowy czar, ten stwór dostaje do końca tury +2/+2."
+"Ilekroć rzucisz niestworowy czar, ten stwór do końca tury dostaje +2/+2."
 
 #: ../../VOW.rst:1180
 msgid ""
@@ -3881,7 +3881,7 @@ msgstr ""
 
 #: ../../VOW.rst:1189
 msgid "|mana_1|\\ |mana_r|: Ill-Tempered Loner gets +2/+0 until end of turn."
-msgstr "|mana_1|\\ |mana_r|: Ten stwór dostaje do końca tury +2/+0."
+msgstr "|mana_1|\\ |mana_r|: Ten stwór do końca tury dostaje +2/+0."
 
 #: ../../VOW.rst:1200
 msgid ""
@@ -3901,7 +3901,7 @@ msgstr ""
 
 #: ../../VOW.rst:1197
 msgid "|mana_1|\\ |mana_r|: Howlpack Avenger gets +2/+0 until end of turn."
-msgstr "|mana_1|\\ |mana_r|: Ten stwór dostaje do końca tury +2/+0."
+msgstr "|mana_1|\\ |mana_r|: Ten stwór do końca tury dostaje +2/+0."
 
 #: ../../VOW.rst:1204
 msgid ""
@@ -4010,7 +4010,7 @@ msgid ""
 "|mana_1|\\ |mana_r|: Lightning Wolf gains first strike until end of turn. "
 "Activate only as a sorcery."
 msgstr ""
-"|mana_1|\\ |mana_r|: Ten stwór zyskuje do końca tury pierwszy cios. Aktywuj "
+"|mana_1|\\ |mana_r|: Ten stwór do końca tury zyskuje pierwszy cios. Aktywuj "
 "tylko jako obrzęd."
 
 #: ../../VOW.rst:1240
@@ -4204,7 +4204,7 @@ msgstr ""
 
 #: ../../VOW.rst:1291
 msgid "Target creature gets +3/+0 and gains first strike until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +3/+0 oraz pierwszy cios."
+msgstr "Wskazany stwór do końca tury dostaje +3/+0 oraz pierwszy cios."
 
 #: ../../VOW.rst:1296
 msgid ""
@@ -4590,7 +4590,7 @@ msgid ""
 "Disciple gets +1/+1 until end of turn."
 msgstr ""
 "Ilekroć inny Człowiek wejdzie na pole bitwy pod twoim władaniem, niniejszy "
-"stwór dostaje do końca tury +1/+1."
+"stwór do końca tury dostaje +1/+1."
 
 #: ../../VOW.rst:1434
 msgid ""
@@ -4681,8 +4681,8 @@ msgid ""
 "Target land gains \"|tap|: Add |mana_g|\\ |mana_g|\\ |mana_g|\" until end of "
 "turn."
 msgstr ""
-"Wskazany ląd zyskuje do końca tury \"|tap|: Weź |mana_g|\\ |mana_g|\\ |"
-"mana_g|\"."
+"Wskazany ląd do końca tury zyskuje \"|tap|: Weź |mana_g|\\ |mana_g|\\ "
+"|mana_g|\"."
 
 #: ../../VOW.rst:1457
 msgid "Draw a card if you control a creature with power 3 or greater."
@@ -4767,7 +4767,7 @@ msgid ""
 "gets +2/+2 until end of turn."
 msgstr ""
 "Na początku potyczki w twojej turze, wskazany Wilk lub Wilkołak pod twoim "
-"władaniem dostaje do końca tury +2/+2."
+"władaniem do końca tury dostaje +2/+2."
 
 #: ../../VOW.rst:1487
 msgid ""
@@ -4875,7 +4875,7 @@ msgstr ""
 
 #: ../../VOW.rst:1523
 msgid "Target creature gets +2/+2 and gains trample until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +2/+2 i tratowanie."
+msgstr "Wskazany stwór do końca tury dostaje +2/+2 i tratowanie."
 
 #: ../../VOW.rst:1528
 msgid ""
@@ -5072,7 +5072,7 @@ msgid ""
 "|mana_1|\\ |mana_g|: Snarling Wolf gets +2/+2 until end of turn. Activate "
 "only once each turn."
 msgstr ""
-"|mana_1|\\ |mana_g|: Ten stwór dostaje do końca tury +2/+2. Możesz aktywować "
+"|mana_1|\\ |mana_g|: Ten stwór do końca tury dostaje +2/+2. Możesz aktywować "
 "tylko raz na turę."
 
 #: ../../VOW.rst:1600
@@ -5092,7 +5092,7 @@ msgid ""
 "that creature gains trample until end of turn."
 msgstr ""
 "Ilekroć wyposażony stwór zaatakuje, możesz poświęcić Las. Jeśli tak zrobisz, "
-"ów stwór zyskuje do końca tury tratowanie."
+"ów stwór do końca tury zyskuje tratowanie."
 
 #: ../../VOW.rst:1599
 msgid ""
@@ -5148,8 +5148,8 @@ msgid ""
 "When Toxic Scorpion enters the battlefield, another target creature you "
 "control gains deathtouch until end of turn."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór pod twoim władaniem "
-"zyskuje do końca tury dotyk śmierci."
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór pod twoim władaniem do "
+"końca tury zyskuje dotyk śmierci."
 
 #: ../../VOW.rst:1624
 msgid ""
@@ -5223,7 +5223,7 @@ msgid ""
 "Target creature you control gets +2/+0 until end of turn if it's night. Then "
 "it deals damage equal to its power to target creature you don't control."
 msgstr ""
-"Wskazany stwór pod twoim władaniem dostaje do końca tury +2/+0 o ile jest "
+"Wskazany stwór pod twoim władaniem do końca tury dostaje +2/+0 o ile jest "
 "noc. Następnie zadaje obrażenia równe swojej sile wskazanemu stworowi poza "
 "twoim władaniem."
 
@@ -5322,7 +5322,7 @@ msgid ""
 "of turn, where X is twice the number of Blood tokens you control. Activate "
 "only as a sorcery."
 msgstr ""
-"|tap|, poświęć tego stwora: Wskazany stwór dostaje do końca tury -X/-X, "
+"|tap|, poświęć tego stwora: Wskazany stwór do końca tury dostaje -X/-X, "
 "gdzie X to dwukrotność liczby żetonów Krwi pod twoim władaniem. Aktywuj "
 "tylko jako obrzęd."
 
@@ -5616,7 +5616,7 @@ msgid ""
 "control each get +1/+0 until end of turn."
 msgstr ""
 "Na początku potyczki w twojej turze, każdy z co najwyżej dwóch wskazanych "
-"stworów pod twoim władaniem dostaje do końca tury +1/+0."
+"stworów pod twoim władaniem do końca tury dostaje +1/+0."
 
 #: ../../VOW.rst:1774
 msgid ""
@@ -5743,7 +5743,7 @@ msgid ""
 "counter on it gains trample and lifelink until end of turn."
 msgstr ""
 "|mana_1|\\ |mana_g|\\ |mana_w|: Wskazany stwór pod twoim władaniem mający "
-"znacznik +1/+1 zyskuje do końca tury tratowanie i więź życia."
+"znacznik +1/+1 do końca tury zyskuje tratowanie i więź życia."
 
 #: ../../VOW.rst:1810
 msgid ""
@@ -5757,8 +5757,8 @@ msgid ""
 "|mana_g|\\ |mana_w|: Target creature you control with a +1/+1 counter on it "
 "gains trample and lifelink until end of turn."
 msgstr ""
-"|mana_g|\\ |mana_w|: Wskazany stwór pod twoim władaniem mający znacznik +1/"
-"+1 zyskuje do końca tury tratowanie i więź życia."
+"|mana_g|\\ |mana_w|: Wskazany stwór pod twoim władaniem mający znacznik +1/+"
+"1 do końca tury zyskuje tratowanie i więź życia."
 
 #: ../../VOW.rst:1816
 msgid ""

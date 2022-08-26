@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-06-19 21:39+0200\n"
-"PO-Revision-Date: 2022-08-25 08:35+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/pls/pl/>\n"
 "Language: pl\n"
@@ -1224,7 +1224,7 @@ msgstr "|mana_b|: Zregeneruj zauroczonego stwora."
 
 #: ../../PLS.rst:359
 msgid "|mana_r|: Enchanted creature gets +1/+0 until end of turn."
-msgstr "|mana_r|: Zauroczony stwór dostaje do końca tury +1/+0."
+msgstr "|mana_r|: Zauroczony stwór do końca tury dostaje +1/+0."
 
 #: ../../PLS.rst:361
 msgid "|mana_g|: Enchanted creature gains trample until end of turn."
@@ -1277,7 +1277,7 @@ msgstr ""
 #: ../../PLS.rst:379
 msgid ""
 "Whenever an opponent casts a spell, Mogg Sentry gets +2/+2 until end of turn."
-msgstr "Ilekroć przeciwnik rzuci czar, ten stwór dostaje do końca tury +2/+2."
+msgstr "Ilekroć przeciwnik rzuci czar, ten stwór do końca tury dostaje +2/+2."
 
 #: ../../PLS.rst:384
 msgid ""
@@ -1448,7 +1448,7 @@ msgid ""
 "Domain — Target creature gets +1/+1 until end of turn for each basic land "
 "type among lands you control."
 msgstr ""
-"Domena — Wskazany stwór dostaje do końca tury +1/+1 za każdy typ bazowego "
+"Domena — Wskazany stwór do końca tury dostaje +1/+1 za każdy typ bazowego "
 "lądu pośród lądów pod twoim władaniem."
 
 #: ../../PLS.rst:442
@@ -1755,7 +1755,7 @@ msgstr ""
 
 #: ../../PLS.rst:543
 msgid "Target creature gets +3/+3 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +3/+3."
+msgstr "Wskazany stwór do końca tury dostaje +3/+3."
 
 #: ../../PLS.rst:548
 msgid ""
@@ -1769,7 +1769,7 @@ msgid ""
 "Target creature gets +1/+1 and gains flying and first strike until end of "
 "turn."
 msgstr ""
-"Wskazany stwór dostaje do końca tury +1/+1 oraz latanie i pierwszy cios."
+"Wskazany stwór do końca tury dostaje +1/+1 oraz latanie i pierwszy cios."
 
 #: ../../PLS.rst:552
 msgid ""
@@ -1837,7 +1837,7 @@ msgstr "Skontruj wskazany czar."
 
 #: ../../PLS.rst:575
 msgid "Target creature gets -2/-2 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -2/-2."
+msgstr "Wskazany stwór do końca tury dostaje -2/-2."
 
 #: ../../PLS.rst:580
 msgid ""

@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-22 09:12+0200\n"
-"PO-Revision-Date: 2022-06-25 15:11+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mm3/pl/>\n"
 "Language: pl\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.12.1\n"
+"X-Generator: Weblate 4.13.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../symbols.rst:3
@@ -1060,7 +1060,7 @@ msgid ""
 "flashback cost. Then exile it.)"
 msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, wskazana karta sztuczki lub obrzędu w "
-"twoim cmentarzu zyskuje do końca tury wspomnienie. Koszt wspomnienia jest "
+"twoim cmentarzu do końca tury zyskuje wspomnienie. Koszt wspomnienia jest "
 "równy jej kosztowi many. (Możesz rzucić ową kartę z twojego cmentarza za "
 "koszt wspomnienia. Następnie wygnaj ją.)"
 
@@ -1624,7 +1624,7 @@ msgstr ""
 
 #: ../../MM3.rst:447
 msgid "Sacrifice a creature: Vampire Aristocrat gets +2/+2 until end of turn."
-msgstr "Poświęć stwora: Niniejszy stwór dostaje do końca tury +2/+2."
+msgstr "Poświęć stwora: Niniejszy stwór do końca tury dostaje +2/+2."
 
 #: ../../MM3.rst:452
 msgid ""
@@ -1740,7 +1740,7 @@ msgstr ""
 
 #: ../../MM3.rst:483
 msgid "Target creature you control gets +2/+0 until end of turn."
-msgstr "Wskazany stwór pod twoim władaniem dostaje do końca tury +2/+0."
+msgstr "Wskazany stwór pod twoim władaniem do końca tury dostaje +2/+0."
 
 #: ../../MM3.rst:485
 msgid ""
@@ -1939,8 +1939,8 @@ msgid ""
 "Bloodrush — |mana_1|\\ |mana_r|, Discard Pyrewild Shaman: Target attacking "
 "creature gets +3/+1 until end of turn."
 msgstr ""
-"Zew krwi — |mana_1|\\ |mana_r|, odrzuć tę kartę: Wskazany atakujący stwór "
-"dostaje do końca tury +3/+1."
+"Zew krwi — |mana_1|\\ |mana_r|, odrzuć tę kartę: Wskazany atakujący stwór do "
+"końca tury dostaje +3/+1."
 
 #: ../../MM3.rst:549
 msgid ""
@@ -2000,8 +2000,8 @@ msgid ""
 "Bloodrush — |mana_r|, Discard Rubblebelt Maaka: Target attacking creature "
 "gets +3/+3 until end of turn."
 msgstr ""
-"Zew krwi — |mana_r|,odrzuć tę kartę: Wskazany atakujący stwór dostaje do "
-"końca tury +3/+3."
+"Zew krwi — |mana_r|,odrzuć tę kartę: Wskazany atakujący stwór do końca tury "
+"dostaje +3/+3."
 
 #: ../../MM3.rst:568
 msgid ""
@@ -2254,12 +2254,12 @@ msgstr ""
 
 #: ../../MM3.rst:639
 msgid "|mana_1|\\ |mana_g|: Death-Hood Cobra gains reach until end of turn."
-msgstr "|mana_1|\\ |mana_g|: Ten stwór zyskuje do końca tury zasięg."
+msgstr "|mana_1|\\ |mana_g|: Ten stwór do końca tury zyskuje zasięg."
 
 #: ../../MM3.rst:641
 msgid ""
 "|mana_1|\\ |mana_g|: Death-Hood Cobra gains deathtouch until end of turn."
-msgstr "|mana_1|\\ |mana_g|: Ten stwór zyskuje do końca tury dotyk śmierci."
+msgstr "|mana_1|\\ |mana_g|: Ten stwór do końca tury zyskuje dotyk śmierci."
 
 #: ../../MM3.rst:646
 msgid ""
@@ -2342,7 +2342,7 @@ msgstr "Tratowanie"
 
 #: ../../MM3.rst:673
 msgid "Whenever Hungry Spriggan attacks, it gets +3/+3 until end of turn."
-msgstr "Ilekroć ten stwór zaatakuje, dostaje do końca tury +3/+3."
+msgstr "Ilekroć ten stwór zaatakuje, do końca tury dostaje +3/+3."
 
 #: ../../MM3.rst:678
 msgid ""
@@ -2356,8 +2356,8 @@ msgid ""
 "Target creature gets +2/+2 until end of turn. If you cast this spell during "
 "your main phase, that creature gets +4/+4 until end of turn instead."
 msgstr ""
-"Wskazany stwór dostaje do końca tury +2/+2. Jeśli rzucasz ten czar w swojej "
-"fazie głównej, zamiast tego ów stwór dostaje do końca tury +4/+4."
+"Wskazany stwór do końca tury dostaje +2/+2. Jeśli rzucasz ten czar w swojej "
+"fazie głównej, zamiast tego ów stwór do końca tury dostaje +4/+4."
 
 #: ../../MM3.rst:684
 msgid ""
@@ -2453,8 +2453,8 @@ msgid ""
 "Bloodrush — |mana_g|, Discard Slaughterhorn: Target attacking creature gets "
 "+3/+2 until end of turn."
 msgstr ""
-"Zew krwi — |mana_g|, odrzuć tę kartę: Wskazany atakujący stwór dostaje do "
-"końca tury +3/+2."
+"Zew krwi — |mana_g|, odrzuć tę kartę: Wskazany atakujący stwór do końca tury "
+"dostaje +3/+2."
 
 #: ../../MM3.rst:716
 msgid ""
@@ -2691,11 +2691,11 @@ msgstr ""
 
 #: ../../MM3.rst:779
 msgid "Target creature gets -3/-0 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -3/-0."
+msgstr "Wskazany stwór do końca tury dostaje -3/-0."
 
 #: ../../MM3.rst:781
 msgid "Target creature gets -0/-3 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -0/-3."
+msgstr "Wskazany stwór do końca tury dostaje -0/-3."
 
 #: ../../MM3.rst:786
 msgid ""
@@ -2706,7 +2706,7 @@ msgstr ""
 
 #: ../../MM3.rst:785
 msgid "Target creature gets +4/-4 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +4/-4."
+msgstr "Wskazany stwór do końca tury dostaje +4/-4."
 
 #: ../../MM3.rst:790
 msgid ""
@@ -2720,8 +2720,8 @@ msgid ""
 "Whenever another creature enters the battlefield under your control, "
 "Bronzebeak Moa gets +3/+3 until end of turn."
 msgstr ""
-"Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, ten stwór "
-"dostaje do końca tury +3/+3."
+"Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, ten stwór do "
+"końca tury dostaje +3/+3."
 
 #: ../../MM3.rst:796
 msgid ""
@@ -2901,7 +2901,7 @@ msgid ""
 "of turn. If the sacrificed creature was a Human, put a +1/+1 counter on "
 "Falkenrath Aristocrat."
 msgstr ""
-"Poświęć stwora: Ten stwór zyskuje do końca tury niezniszczalność. Jeśli "
+"Poświęć stwora: Ten stwór do końca tury zyskuje niezniszczalność. Jeśli "
 "poświęcony stwór był Człowiekiem, umieść znacznik +1/+1 na niniejszym "
 "stworze."
 
@@ -2932,8 +2932,8 @@ msgid ""
 "Bloodrush — |mana_r|\\ |mana_g|, Discard Ghor-Clan Rampager: Target "
 "attacking creature gets +4/+4 and gains trample until end of turn."
 msgstr ""
-"Zew krwi — |mana_r|\\ |mana_g|, odrzuć tę kartę: Wskazany atakujący stwór "
-"dostaje do końca tury +4/+4 i tratowanie."
+"Zew krwi — |mana_r|\\ |mana_g|, odrzuć tę kartę: Wskazany atakujący stwór do "
+"końca tury dostaje +4/+4 i tratowanie."
 
 #: ../../MM3.rst:860
 msgid ""
@@ -3358,7 +3358,7 @@ msgid ""
 "Target creature you control gets +1/+0 until end of turn and can't be "
 "blocked this turn."
 msgstr ""
-"Wskazany stwór pod twoim władaniem dostaje do końca tury +1/+0 i nie może "
+"Wskazany stwór pod twoim władaniem do końca tury dostaje +1/+0 i nie może "
 "być blokowany w tej turze."
 
 #: ../../MM3.rst:1009
@@ -3562,7 +3562,7 @@ msgstr ""
 
 #: ../../MM3.rst:1073
 msgid "|mana_rw|: Boros Reckoner gains first strike until end of turn."
-msgstr "|mana_rw|: Ten stwór zyskuje do końca tury pierwszy cios."
+msgstr "|mana_rw|: Ten stwór do końca tury zyskuje pierwszy cios."
 
 #: ../../MM3.rst:1078
 msgid ""
@@ -3654,7 +3654,7 @@ msgid ""
 "|mana_r|\\ |mana_g|: Each blocked creature gets +1/+0 and gains trample "
 "until end of turn."
 msgstr ""
-"|mana_r|\\ |mana_g|: Każdy zablokowany stwór dostaje do końca tury +1/+0 i "
+"|mana_r|\\ |mana_g|: Każdy zablokowany stwór do końca tury dostaje +1/+0 i "
 "tratowanie."
 
 #: ../../MM3.rst:1106

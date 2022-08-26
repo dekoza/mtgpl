@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-22 09:12+0200\n"
-"PO-Revision-Date: 2022-06-25 15:11+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/gk1/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.12.1\n"
+"X-Generator: Weblate 4.13.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../symbols.rst:3
@@ -324,7 +324,7 @@ msgstr ""
 
 #: ../../GK1.rst:29
 msgid "Target creature gets -3/-3 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -3/-3."
+msgstr "Wskazany stwór do końca tury dostaje -3/-3."
 
 #: ../../GK1.rst:36
 msgid ""
@@ -635,7 +635,7 @@ msgid ""
 "Target creature gets +X/-X until end of turn, where X is the number of cards "
 "in your hand."
 msgstr ""
-"Wskazany stwór dostaje do końca tury +X/-X, gdzie X jest liczbą kart w "
+"Wskazany stwór do końca tury dostaje +X/-X, gdzie X jest liczbą kart w "
 "twojej ręce."
 
 #: ../../GK1.rst:130
@@ -1020,7 +1020,7 @@ msgid ""
 "Whenever you cast a blue spell, target creature gains flying until end of "
 "turn."
 msgstr ""
-"Ilekroć rzucisz niebieski czar, wskazany stwór zyskuje do końca tury latanie."
+"Ilekroć rzucisz niebieski czar, wskazany stwór do końca tury zyskuje latanie."
 
 #: ../../GK1.rst:259
 msgid ""
@@ -1138,7 +1138,7 @@ msgstr ""
 
 #: ../../GK1.rst:297
 msgid "Target creature gets -1/-1 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -1/-1."
+msgstr "Wskazany stwór do końca tury dostaje -1/-1."
 
 #: ../../GK1.rst:299 ../../GK1.rst:409
 msgid ""
@@ -1307,8 +1307,8 @@ msgid ""
 "Choose target creature. Mill four cards, then that creature gets -1/-1 until "
 "end of turn for each land card in your graveyard."
 msgstr ""
-"Wybierz wskazanego stwora. Zmiel cztery karty, po czym ów stwór dostaje do "
-"końca tury -1/-1 za każdą kartę lądu w twoim cmentarzu."
+"Wybierz wskazanego stwora. Zmiel cztery karty, po czym ów stwór do końca "
+"tury dostaje -1/-1 za każdą kartę lądu w twoim cmentarzu."
 
 #: ../../GK1.rst:352
 msgid ""
@@ -1417,7 +1417,7 @@ msgid ""
 "intimidate until end of turn. (It can't be blocked except by artifact "
 "creatures and/or creatures that share a color with it.)"
 msgstr ""
-"|mana_1|\\ |mana_b|\\ |mana_g|: Wskazany stwór dostaje do końca tury +1/+1 "
+"|mana_1|\\ |mana_b|\\ |mana_g|: Wskazany stwór do końca tury dostaje +1/+1 "
 "oraz zastraszenie. (Nie może być blokowany, chyba że przez stwory "
 "artefaktowe i/lub współdzielące z nim kolor.)"
 
@@ -1629,7 +1629,7 @@ msgid ""
 "Daring Skyjek gains flying until end of turn."
 msgstr ""
 "Batalion — Ilekroć ten stwór zaatakuje wraz z co najmniej dwoma innymi "
-"stworami, niniejszy stwór zyskuje do końca tury latanie."
+"stworami, niniejszy stwór do końca tury zyskuje latanie."
 
 #: ../../GK1.rst:456
 msgid ""
@@ -1715,7 +1715,7 @@ msgstr "Permanenty pod twoim władaniem zyskują do końca tury niezniszczalnoś
 
 #: ../../GK1.rst:479
 msgid "Target creature gains double strike until end of turn."
-msgstr "Wskazany stwór zyskuje do końca tury podwójny cios."
+msgstr "Wskazany stwór do końca tury zyskuje podwójny cios."
 
 #: ../../GK1.rst:486
 msgid ""
@@ -1734,7 +1734,7 @@ msgstr ""
 
 #: ../../GK1.rst:485
 msgid "|mana_rw|: Boros Reckoner gains first strike until end of turn."
-msgstr "|mana_rw|: Ten stwór zyskuje do końca tury pierwszy cios."
+msgstr "|mana_rw|: Ten stwór do końca tury zyskuje pierwszy cios."
 
 #: ../../GK1.rst:490
 msgid ""
@@ -1828,11 +1828,11 @@ msgstr ""
 
 #: ../../GK1.rst:515
 msgid "Target creature gets +3/+0 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +3/+0."
+msgstr "Wskazany stwór do końca tury dostaje +3/+0."
 
 #: ../../GK1.rst:517
 msgid "Target creature gets +0/+3 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +0/+3."
+msgstr "Wskazany stwór do końca tury dostaje +0/+3."
 
 #: ../../GK1.rst:526
 msgid ""
@@ -1980,7 +1980,7 @@ msgid ""
 "|mana_2|\\ |mana_r|\\ |mana_w|, |tap|: Target creature gains double strike "
 "until end of turn."
 msgstr ""
-"|mana_2|\\ |mana_r|\\ |mana_w|, |tap|: Wskazany stwór zyskuje do końca tury "
+"|mana_2|\\ |mana_r|\\ |mana_w|, |tap|: Wskazany stwór do końca tury zyskuje "
 "podwójny cios."
 
 #: ../../GK1.rst:572
@@ -2059,7 +2059,7 @@ msgstr ""
 
 #: ../../GK1.rst:595
 msgid "Target creature gets +2/+2 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +2/+2."
+msgstr "Wskazany stwór do końca tury dostaje +2/+2."
 
 #: ../../GK1.rst:602
 msgid ""
@@ -2233,7 +2233,7 @@ msgstr ""
 
 #: ../../GK1.rst:657
 msgid "Target creature gets +2/+2 and gains trample until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +2/+2 i tratowanie."
+msgstr "Wskazany stwór do końca tury dostaje +2/+2 i tratowanie."
 
 #: ../../GK1.rst:659
 msgid "Exile target creature with power 5 or greater."

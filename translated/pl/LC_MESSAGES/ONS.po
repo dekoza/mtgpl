@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-22 09:12+0200\n"
-"PO-Revision-Date: 2022-04-24 19:45+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ons/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.10.1\n"
+"X-Generator: Weblate 4.13.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../symbols.rst:3
@@ -851,14 +851,14 @@ msgstr ""
 
 #: ../../ONS.rst:239
 msgid "Whenever Jareth, Leonine Titan blocks, it gets +7/+7 until end of turn."
-msgstr "Ilekroć ten stwór blokuje, dostaje do końca tury +7/+7."
+msgstr "Ilekroć ten stwór blokuje, do końca tury dostaje +7/+7."
 
 #: ../../ONS.rst:241
 msgid ""
 "|mana_w|: Jareth gains protection from the color of your choice until end of "
 "turn."
 msgstr ""
-"|mana_w|: Ten stwór zyskuje do końca tury ochronę przed wybranym przez "
+"|mana_w|: Ten stwór do końca tury zyskuje ochronę przed wybranym przez "
 "ciebie kolorem."
 
 #: ../../ONS.rst:248
@@ -2011,7 +2011,7 @@ msgstr ""
 
 #: ../../ONS.rst:653
 msgid "Target creature gains flying until end of turn."
-msgstr "Wskazany stwór zyskuje do końca tury latanie."
+msgstr "Wskazany stwór do końca tury zyskuje latanie."
 
 #: ../../ONS.rst:655
 msgid ""
@@ -2279,7 +2279,7 @@ msgstr ""
 
 #: ../../ONS.rst:745
 msgid "Target creature gets -4/-4 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -4/-4."
+msgstr "Wskazany stwór do końca tury dostaje -4/-4."
 
 #: ../../ONS.rst:747
 msgid ""
@@ -2468,7 +2468,7 @@ msgstr ""
 #: ../../ONS.rst:809
 msgid ""
 "When Festering Goblin dies, target creature gets -1/-1 until end of turn."
-msgstr "Kiedy ten stwór umrze, wskazany stwór dostaje do końca tury -1/-1."
+msgstr "Kiedy ten stwór umrze, wskazany stwór do końca tury dostaje -1/-1."
 
 #: ../../ONS.rst:816
 msgid ""
@@ -2645,7 +2645,7 @@ msgstr ""
 
 #: ../../ONS.rst:867
 msgid "Sacrifice a creature: Nantuko Husk gets +2/+2 until end of turn."
-msgstr "Poświęć stwora: Niniejszy stwór dostaje do końca tury +2/+2."
+msgstr "Poświęć stwora: Niniejszy stwór do końca tury dostaje +2/+2."
 
 #: ../../ONS.rst:872
 msgid ""
@@ -3020,7 +3020,7 @@ msgstr ""
 
 #: ../../ONS.rst:1003
 msgid "|mana_1|\\ |mana_r|: Avarax gets +1/+0 until end of turn."
-msgstr "|mana_1|\\ |mana_r|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_1|\\ |mana_r|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../ONS.rst:1010
 msgid ""
@@ -3252,7 +3252,7 @@ msgstr "Wskazany stwór zyskuje pośpiech do końca tury."
 
 #: ../../ONS.rst:1085
 msgid "Target creature gets +2/+0 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +2/+0."
+msgstr "Wskazany stwór do końca tury dostaje +2/+0."
 
 #: ../../ONS.rst:1087
 msgid "Fever Charm deals 3 damage to target Wizard creature."
@@ -4369,7 +4369,7 @@ msgstr ""
 
 #: ../../ONS.rst:1465
 msgid "Target creature gets +4/+4 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +4/+4."
+msgstr "Wskazany stwór do końca tury dostaje +4/+4."
 
 #: ../../ONS.rst:1469
 msgid ""
@@ -4640,7 +4640,7 @@ msgstr ""
 
 #: ../../ONS.rst:1563
 msgid "Target creature gets +1/+1 and gains trample until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +1/+1 i tratowanie."
+msgstr "Wskazany stwór do końca tury dostaje +1/+1 i tratowanie."
 
 #: ../../ONS.rst:1565
 msgid "Regenerate target Beast."

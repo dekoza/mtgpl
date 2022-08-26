@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-22 09:12+0200\n"
-"PO-Revision-Date: 2022-04-18 17:53+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/frf/pl/>\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.10.1\n"
+"X-Generator: Weblate 4.13.1\n"
 "X-POOTLE-MTIME: 1421483309.161061\n"
 
 #: ../../symbols.rst:3
@@ -475,8 +475,8 @@ msgid ""
 "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 "
 "until end of turn.)"
 msgstr ""
-"Waleczność (Ilekroć rzucisz nie-stworowy czar, ten stwór dostaje do końca "
-"tury +1/+1.)"
+"Waleczność (Ilekroć rzucisz nie-stworowy czar, ten stwór do końca tury "
+"dostaje +1/+1.)"
 
 #: ../../FRF.rst:70
 msgid ""
@@ -843,7 +843,7 @@ msgid ""
 "Target creature gains indestructible until end of turn. (Damage and effects "
 "that say \"destroy\" don't destroy it.)"
 msgstr ""
-"Wskazany stwór zyskuje do końca tury niezniszczalność. (Obrażenia i efekty "
+"Wskazany stwór do końca tury zyskuje niezniszczalność. (Obrażenia i efekty "
 "mówiące \"zniszcz\" nie niszczą go.)"
 
 # d07b4ab45f7e4858b6c06afdbcf5f422
@@ -1085,7 +1085,7 @@ msgid ""
 "Whenever you cast a noncreature spell, target creature gains flying until "
 "end of turn."
 msgstr ""
-"Ilekroć rzucisz nie-stworowy czar, wskazany stwór zyskuje do końca tury "
+"Ilekroć rzucisz nie-stworowy czar, wskazany stwór do końca tury zyskuje "
 "latanie."
 
 #: ../../FRF.rst:264
@@ -1733,7 +1733,7 @@ msgid ""
 "creature an opponent controls gets -1/-1 until end of turn."
 msgstr ""
 "Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem , wskazany "
-"stwór pod władaniem przeciwnika dostaje do końca tury -1/-1."
+"stwór pod władaniem przeciwnika do końca tury dostaje -1/-1."
 
 #: ../../FRF.rst:452
 msgid ""
@@ -2006,7 +2006,7 @@ msgid ""
 "|mana_r|: Target creature with power 2 or less gains haste until end of turn "
 "and can't be blocked this turn."
 msgstr ""
-"|mana_r|: Wskazany stwór o sile 2 lub mniejszej dostaje do końca tury "
+"|mana_r|: Wskazany stwór o sile 2 lub mniejszej do końca tury dostaje "
 "pośpiech i nie może być blokowany w tej turze."
 
 #: ../../FRF.rst:532
@@ -2063,8 +2063,8 @@ msgid ""
 "until end of turn.\""
 msgstr ""
 "Weź |mana_r| za każdego atakującego stwora pod twoim władaniem. Do końca "
-"tury atakujące stwory pod twoim władaniem dostają \"|mana_r|: Ten stwór "
-"dostaje do końca tury +1/+0.\""
+"tury atakujące stwory pod twoim władaniem dostają \"|mana_r|: Ten stwór do "
+"końca tury dostaje +1/+0.\""
 
 #: ../../FRF.rst:548
 msgid ""
@@ -2451,7 +2451,7 @@ msgstr ""
 # bb75f20e5e264d8e94e5581446706c57
 #: ../../FRF.rst:649
 msgid "Target creature gains double strike until end of turn."
-msgstr "Wskazany stwór zyskuje do końca tury podwójny cios."
+msgstr "Wskazany stwór do końca tury zyskuje podwójny cios."
 
 # 60fdd65f34e44db3a32c6d14810acb42
 #: ../../FRF.rst:651
@@ -2459,7 +2459,7 @@ msgid ""
 "Ferocious — That creature also gains trample until end of turn if you "
 "control a creature with power 4 or greater."
 msgstr ""
-"Zaciekłość — Ów stwór zyskuje do końca tury także tratowanie jeśli władasz "
+"Zaciekłość — Ów stwór do końca tury zyskuje także tratowanie jeśli władasz "
 "stworem o sile 4 lub większej."
 
 #: ../../FRF.rst:658
@@ -2806,14 +2806,14 @@ msgid ""
 "Target nonattacking creature gains reach and deathtouch until end of turn. "
 "Untap it."
 msgstr ""
-"Wskazany nieatakujący stwór zyskuje do końca tury zasięg i dotyk śmierci. "
+"Wskazany nieatakujący stwór do końca tury zyskuje zasięg i dotyk śmierci. "
 "Odkręć go."
 
 # 2a42bda08bca4b029f110777e69cfa21
 #: ../../FRF.rst:757
 msgid ""
 "Target attacking creature gets +2/+2 and gains trample until end of turn."
-msgstr "Wskazany atakujący stwór dostaje do końca tury +2/+2 oraz tratowanie."
+msgstr "Wskazany atakujący stwór do końca tury dostaje +2/+2 oraz tratowanie."
 
 #: ../../FRF.rst:764
 msgid ""
@@ -3365,7 +3365,7 @@ msgid ""
 "|mana_3|, |tap|: Target creature you control gets +1/+1 until end of turn "
 "for each lore counter on Scroll of the Masters."
 msgstr ""
-"|mana_3|, |tap|: Wskazany stwór pod twoim władaniem dostaje do końca tury +1/"
+"|mana_3|, |tap|: Wskazany stwór pod twoim władaniem do końca tury dostaje +1/"
 "+1 za każdy znacznik wiedzy na tym artefakcie."
 
 #: ../../FRF.rst:914

@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-22 09:12+0200\n"
-"PO-Revision-Date: 2022-08-24 13:47+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c14/pl/>\n"
 "Language: pl\n"
@@ -2507,7 +2507,7 @@ msgid ""
 "When Shaper Parasite is turned face up, target creature gets +2/-2 or -2/+2 "
 "until end of turn."
 msgstr ""
-"Kiedy ten stwór zostanie odkryty, wskazany stwór dostaje do końca tury +2/-2 "
+"Kiedy ten stwór zostanie odkryty, wskazany stwór do końca tury dostaje +2/-2 "
 "lub -2/+2."
 
 #: ../../C14.rst:732
@@ -2747,8 +2747,8 @@ msgid ""
 "|mana_x|\\ |mana_b|\\ |mana_b|: Target creature gets -0/-X until end of turn "
 "and Drana, Kalastria Bloodchief gets +X/+0 until end of turn."
 msgstr ""
-"|mana_x|\\ |mana_b|\\ |mana_b|: Wskazany stwór dostaje do końca tury -0/-X, "
-"a ten stwór dostaje do końca tury +X/+0."
+"|mana_x|\\ |mana_b|\\ |mana_b|: Wskazany stwór do końca tury dostaje -0/-X, "
+"a ten stwór do końca tury dostaje +X/+0."
 
 #: ../../C14.rst:816
 msgid ""
@@ -2789,7 +2789,7 @@ msgstr ""
 
 #: ../../C14.rst:823
 msgid "|mana_b|: Evernight Shade gets +1/+1 until end of turn."
-msgstr "|mana_b|: Ten stwór dostaje do końca tury +1/+1."
+msgstr "|mana_b|: Ten stwór do końca tury dostaje +1/+1."
 
 #: ../../C14.rst:825
 msgid ""
@@ -2873,7 +2873,7 @@ msgid ""
 "this turn, target creature gets -4/-4 until end of turn."
 msgstr ""
 "Okropność — Kiedy ten byt wejdzie na pole bitwy, jeśli w tej turze umarł "
-"stwór, wskazany stwór dostaje do końca tury -4/-4."
+"stwór, wskazany stwór do końca tury dostaje -4/-4."
 
 #: ../../C14.rst:854
 msgid ""
@@ -2897,7 +2897,7 @@ msgstr ""
 
 #: ../../C14.rst:857
 msgid "|mana_b|: Nantuko Shade gets +1/+1 until end of turn."
-msgstr "|mana_b|: Ten stwór dostaje do końca tury +1/+1."
+msgstr "|mana_b|: Ten stwór do końca tury dostaje +1/+1."
 
 #: ../../C14.rst:864
 msgid ""
@@ -2982,14 +2982,14 @@ msgstr ""
 
 #: ../../C14.rst:889
 msgid "Target creature gets -X/-X until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -X/-X."
+msgstr "Wskazany stwór do końca tury dostaje -X/-X."
 
 #: ../../C14.rst:891
 msgid ""
 "Up to X target creatures gain fear until end of turn. (They can't be blocked "
 "except by artifact creatures and/or black creatures.)"
 msgstr ""
-"Co najwyżej X wskazanych stworów zyskuje do końca tury postrach. (Nie mogą "
+"Co najwyżej X wskazanych stworów do końca tury zyskuje postrach. (Nie mogą "
 "być blokowane, chyba że przez stwory artefaktowe lub czarne.)"
 
 #: ../../C14.rst:902
@@ -3174,14 +3174,14 @@ msgstr ""
 
 #: ../../C14.rst:951
 msgid "Target creature gets -1/-1 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -1/-1."
+msgstr "Wskazany stwór do końca tury dostaje -1/-1."
 
 #: ../../C14.rst:953
 msgid ""
 "Morbid — That creature gets -13/-13 until end of turn instead if a creature "
 "died this turn."
 msgstr ""
-"Okropność — Ów stwór zamiast tego dostaje do końca tury -13/-13 jeśli w tej "
+"Okropność — Ów stwór zamiast tego do końca tury dostaje -13/-13 jeśli w tej "
 "turze umarł stwór."
 
 #: ../../C14.rst:960
@@ -3354,8 +3354,8 @@ msgid ""
 "|mana_3|\\ |mana_r|: Destroy target artifact. Hoard-Smelter Dragon gets +X/"
 "+0 until end of turn, where X is that artifact's mana value."
 msgstr ""
-"|mana_3|\\ |mana_r|: Zniszcz wskazany artefakt. Ten stwór dostaje do końca "
-"tury +X/+0, gdzie X jest skrótem many owego artefaktu."
+"|mana_3|\\ |mana_r|: Zniszcz wskazany artefakt. Ten stwór do końca tury "
+"dostaje +X/+0, gdzie X jest skrótem many owego artefaktu."
 
 #: ../../C14.rst:1018
 msgid ""
@@ -3986,7 +3986,7 @@ msgid ""
 "|tap|: Target creature gets +X/+X until end of turn, where X is the number "
 "of Elves on the battlefield."
 msgstr ""
-"|tap|: Wskazany stwór dostaje do końca tury +X/+X, gdzie X jest liczbą Elfów "
+"|tap|: Wskazany stwór do końca tury dostaje +X/+X, gdzie X jest liczbą Elfów "
 "na polu bitwy."
 
 #: ../../C14.rst:1220
@@ -4545,7 +4545,7 @@ msgid ""
 "to the player or planeswalker it's attacking."
 msgstr ""
 "Ilekroć ten stwór atakuje, możesz przekręcić X odkręconych Myrów pod twoim "
-"władaniem. Jeśli tak zrobisz, ten stwór dostaje do końca tury +X/+0 i zadaje "
+"władaniem. Jeśli tak zrobisz, ten stwór do końca tury dostaje +X/+0 i zadaje "
 "atakowanemu graczowi lub wędrowcowi X obrażeń."
 
 #: ../../C14.rst:1412
@@ -4827,7 +4827,7 @@ msgstr ""
 
 #: ../../C14.rst:1507
 msgid "|mana_2|: Steel Hellkite gets +1/+0 until end of turn."
-msgstr "|mana_2|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_2|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../C14.rst:1509
 msgid ""

@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-25 14:23+0200\n"
-"PO-Revision-Date: 2022-08-24 13:47+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/znr/pl/>\n"
 "Language: pl\n"
@@ -247,7 +247,7 @@ msgid ""
 "number of creatures in your party. (Your party consists of up to one each of "
 "Cleric, Rogue, Warrior, and Wizard.)"
 msgstr ""
-"Każdy z co najwyżej dwóch wskazanych stworów dostaje do końca tury +X/+X, "
+"Każdy z co najwyżej dwóch wskazanych stworów do końca tury dostaje +X/+X, "
 "gdzie X jest liczbą stworów w twojej ekipie. (Na ekipę składa się po jednym "
 "stworze spośród danego typu: Kleryka, Łotrzyka, Wojownika i Czarodzieja.)"
 
@@ -293,9 +293,9 @@ msgid ""
 "control gains indestructible until end of turn. (Damage and effects that say "
 "\"destroy\" don't destroy it.)"
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór pod twoim władaniem "
-"zyskuje do końca tury niezniszczalność. (Obrażenia i efekty mówiące \"zniszcz"
-"\" nie niszczą go.)"
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór pod twoim władaniem do "
+"końca tury zyskuje niezniszczalność. (Obrażenia i efekty mówiące \"zniszcz\" "
+"nie niszczą go.)"
 
 #: ../../ZNR.rst:30
 msgid ""
@@ -346,7 +346,7 @@ msgid ""
 "creature gets +1/+1 and gains flying until end of turn."
 msgstr ""
 "Na początku potyczki w twojej turze, jeśli masz pełną ekipę, wskazany stwór "
-"dostaje do końca tury +1/+1 i latanie."
+"do końca tury dostaje +1/+1 i latanie."
 
 #: ../../ZNR.rst:42
 msgid ""
@@ -367,7 +367,7 @@ msgstr ""
 msgid ""
 "|mana_2|\\ |mana_w|: Another target Cleric gains lifelink until end of turn."
 msgstr ""
-"|mana_2|\\ |mana_w|: Inny wskazany Kleryk zyskuje do końca tury więź życia."
+"|mana_2|\\ |mana_w|: Inny wskazany Kleryk do końca tury zyskuje więź życia."
 
 #: ../../ZNR.rst:46
 msgid ""
@@ -596,7 +596,7 @@ msgid ""
 "until end of turn for each creature in your party. (Your party consists of "
 "up to one each of Cleric, Rogue, Warrior, and Wizard.)"
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór dostaje do końca tury +1/"
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór do końca tury dostaje +1/"
 "+1 za każdego stwora w twojej ekipie. (Na ekipę składa się po jednym stworze "
 "spośród danego typu: Kleryka, Łotrzyka, Wojownika i Czarodzieja.)"
 
@@ -917,7 +917,7 @@ msgid ""
 "Target creature gets +2/+2 until end of turn. If it's a Warrior, you may "
 "attach an Equipment you control to it."
 msgstr ""
-"Wskazany stwór dostaje do końca tury +2/+2. Jeśli jest Wojownikiem, możesz "
+"Wskazany stwór do końca tury dostaje +2/+2. Jeśli jest Wojownikiem, możesz "
 "do niego dołączyć jedno Wyposażenie pod twoim władaniem."
 
 #: ../../ZNR.rst:220
@@ -945,7 +945,7 @@ msgid ""
 "Target creature you control gains protection from the color of your choice "
 "until end of turn."
 msgstr ""
-"Wskazany stwór pod twoim władaniem zyskuje do końca tury ochronę przed "
+"Wskazany stwór pod twoim władaniem do końca tury zyskuje ochronę przed "
 "wybranym przez ciebie kolorem."
 
 #: ../../ZNR.rst:230
@@ -1216,7 +1216,7 @@ msgid ""
 "|mana_3|: Charix gets +X/-X until end of turn, where X is the number of "
 "Islands you control."
 msgstr ""
-"|mana_3|: Ten stwór dostaje do końca tury +X/-X, gdzie X jest liczbą Wysp "
+"|mana_3|: Ten stwór do końca tury dostaje +X/-X, gdzie X jest liczbą Wysp "
 "pod twoim władaniem."
 
 #: ../../ZNR.rst:312
@@ -1231,7 +1231,7 @@ msgid ""
 "Target creature gets -4/-0 until end of turn. If you control a Wizard, draw "
 "a card."
 msgstr ""
-"Wskazany stwór dostaje do końca tury -4/-0. Jeśli władasz Czarodziejem, "
+"Wskazany stwór do końca tury dostaje -4/-0. Jeśli władasz Czarodziejem, "
 "dobierz kartę."
 
 #: ../../ZNR.rst:316
@@ -1806,7 +1806,7 @@ msgid ""
 "creature in your party. (Your party consists of up to one each of Cleric, "
 "Rogue, Warrior, and Wizard.)"
 msgstr ""
-"|mana_4|\\ |mana_u|: Ten stwór dostaje do końca tury +1/+0 i nie może być "
+"|mana_4|\\ |mana_u|: Ten stwór do końca tury dostaje +1/+0 i nie może być "
 "blokowany w tej turze. Aktywacja tej zdolności kosztuje o |mana_1| mniej za "
 "każdego stwora w twojej ekipie. (Na ekipę składa się po jednym stworze "
 "spośród danego typu: Kleryka, Łotrzyka, Wojownika i Czarodzieja.)"
@@ -1830,7 +1830,7 @@ msgid ""
 "kicked, that creature also gains hexproof until end of turn. (It can't be "
 "the target of spells or abilities your opponents control.)"
 msgstr ""
-"Wskazany stwór pod twoim władaniem dostaje do końca tury +0/+3. Jeśli ten "
+"Wskazany stwór pod twoim władaniem do końca tury dostaje +0/+3. Jeśli ten "
 "czar został podbity, ów stwór do końca tury zyskuje także antyklątwę. (Nie "
 "może być wskazywany przez czary lub zdolności pod władaniem twoich "
 "przeciwników.)"
@@ -1981,8 +1981,8 @@ msgid ""
 "Whenever you cast an instant, sorcery, or Wizard spell, Umara Wizard gains "
 "flying until end of turn."
 msgstr ""
-"Ilekroć rzucisz czar sztuczki, obrzędu lub Czarodzieje, niniejszy stwór "
-"zyskuje do końca tury latanie."
+"Ilekroć rzucisz czar sztuczki, obrzędu lub Czarodzieje, niniejszy stwór do "
+"końca tury zyskuje latanie."
 
 #: ../../ZNR.rst:558
 msgid ""
@@ -2023,8 +2023,8 @@ msgid ""
 "-2/-0 until end of turn. Its controller mills two cards. (They put the top "
 "two cards of their library into their graveyard.)"
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, co najwyżej jeden wskazany stwór "
-"dostaje do końca tury -2/-0. Jego władca mieli dwie karty. (Umieszcza dwie "
+"Kiedy ten byt wejdzie na pole bitwy, co najwyżej jeden wskazany stwór do "
+"końca tury dostaje -2/-0. Jego władca mieli dwie karty. (Umieszcza dwie "
 "wierzchnie karty swojej biblioteki w swoim cmentarzu.)"
 
 #: ../../ZNR.rst:574
@@ -2258,7 +2258,7 @@ msgid ""
 "Warrior, and Wizard.)"
 msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, wskazany stwór pod władaniem "
-"przeciwnika dostaje do końca tury -X/-X, gdzie X jest liczbą stworów w "
+"przeciwnika do końca tury dostaje -X/-X, gdzie X jest liczbą stworów w "
 "twojej ekipie. (Na ekipę składa się po jednym stworze spośród danego typu: "
 "Kleryka, Łotrzyka, Wojownika i Czarodzieja.)"
 
@@ -2276,7 +2276,7 @@ msgid ""
 "say \"destroy\" don't destroy it.)"
 msgstr ""
 "Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, ten stwór "
-"zyskuje do końca tury niezniszczalność. (Obrażenia i efekty mówiące \"zniszcz"
+"do końca tury zyskuje niezniszczalność. (Obrażenia i efekty mówiące \"zniszcz"
 "\" nie niszczą go.)"
 
 #: ../../ZNR.rst:646
@@ -2655,7 +2655,7 @@ msgid ""
 "card if that creature has a +1/+1 counter on it. (Damage and effects that "
 "say \"destroy\" don't destroy the creature.)"
 msgstr ""
-"Wskazany stwór pod twoim władaniem zyskuje do końca tury niezniszczalność. "
+"Wskazany stwór pod twoim władaniem do końca tury zyskuje niezniszczalność. "
 "Dobierz kartę jeśli ów stwór ma znacznik +1/+1. (Obrażenia i efekty mówiące "
 "\"zniszcz\" nie niszczą owego stwora.)"
 
@@ -2738,8 +2738,8 @@ msgid ""
 "Tap another untapped Rogue you control: Shadow Stinger gains deathtouch "
 "until end of turn."
 msgstr ""
-"Przekręć innego odkręconego Łotrzyka pod twoim władaniem: Niniejszy stwór "
-"zyskuje do końca tury dotyk śmierci."
+"Przekręć innego odkręconego Łotrzyka pod twoim władaniem: Niniejszy stwór do "
+"końca tury zyskuje dotyk śmierci."
 
 #: ../../ZNR.rst:799
 msgid ""
@@ -2862,7 +2862,7 @@ msgstr "Wybierz jedną lub obie —"
 
 #: ../../ZNR.rst:835
 msgid "Target creature gets -1/-1 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -1/-1."
+msgstr "Wskazany stwór do końca tury dostaje -1/-1."
 
 #: ../../ZNR.rst:837 ../../ZNR.rst:1421
 msgid "Put a +1/+1 counter on target creature."
@@ -2955,7 +2955,7 @@ msgid ""
 "Hellhound gets +2/+2 until end of turn."
 msgstr ""
 "Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, ten stwór "
-"dostaje do końca tury +2/+2."
+"do końca tury dostaje +2/+2."
 
 #: ../../ZNR.rst:874
 msgid ""
@@ -3159,7 +3159,7 @@ msgstr ""
 
 #: ../../ZNR.rst:931
 msgid "Target creature gets +3/+2 until end of turn. Scry 1."
-msgstr "Wskazany stwór dostaje do końca tury +3/+2. Wróż 1."
+msgstr "Wskazany stwór do końca tury dostaje +3/+2. Wróż 1."
 
 #: ../../ZNR.rst:944
 msgid ""
@@ -3178,7 +3178,7 @@ msgstr "|mana_1|: Wybierz jedną, która nie była wybrana w tej turze —"
 
 #: ../../ZNR.rst:939
 msgid "Kargan Intimidator gets +1/+1 until end of turn."
-msgstr "Ten stwór dostaje do końca tury +1/+1."
+msgstr "Ten stwór do końca tury dostaje +1/+1."
 
 #: ../../ZNR.rst:941 ../../ZNR.rst:953
 msgid "Target creature becomes a Coward until end of turn."
@@ -3186,7 +3186,7 @@ msgstr "Wskazany stwór do końca tury staje się Tchórzem."
 
 #: ../../ZNR.rst:943
 msgid "Target Warrior gains trample until end of turn."
-msgstr "Wskazany Wojownik zyskuje do końca tury tratowanie."
+msgstr "Wskazany Wojownik do końca tury zyskuje tratowanie."
 
 #: ../../ZNR.rst:954
 msgid ""
@@ -3197,7 +3197,7 @@ msgstr ""
 
 #: ../../ZNR.rst:951
 msgid "Target Warrior gets +1/+1 and gains trample until end of turn."
-msgstr "Wskazany Wojownik dostaje do końca tury +1/+1 oraz tratowanie."
+msgstr "Wskazany Wojownik do końca tury dostaje +1/+1 oraz tratowanie."
 
 #: ../../ZNR.rst:960
 msgid ""
@@ -3586,7 +3586,7 @@ msgid ""
 "Skyclave Geopede gets +2/+2 until end of turn."
 msgstr ""
 "Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, ten stwór "
-"dostaje do końca tury +2/+2."
+"do końca tury dostaje +2/+2."
 
 #: ../../ZNR.rst:1084
 msgid ""
@@ -3702,7 +3702,7 @@ msgstr ""
 
 #: ../../ZNR.rst:1115
 msgid "|mana_2|\\ |mana_r|: Teeterpeak Ambusher gets +2/+0 until end of turn."
-msgstr "|mana_2|\\ |mana_r|: Ten stwór dostaje do końca tury +2/+0."
+msgstr "|mana_2|\\ |mana_r|: Ten stwór do końca tury dostaje +2/+0."
 
 #: ../../ZNR.rst:1120
 msgid ""
@@ -3954,7 +3954,7 @@ msgid ""
 "Baloth gets +2/+2 until end of turn."
 msgstr ""
 "Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, ten stwór "
-"dostaje do końca tury +2/+2."
+"do końca tury dostaje +2/+2."
 
 #: ../../ZNR.rst:1204
 msgid ""
@@ -4114,7 +4114,7 @@ msgid ""
 "Kazandu Mammoth gets +2/+2 until end of turn."
 msgstr ""
 "Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, ten stwór "
-"dostaje do końca tury +2/+2."
+"do końca tury dostaje +2/+2."
 
 #: ../../ZNR.rst:1258
 msgid ""
@@ -4213,8 +4213,8 @@ msgid ""
 "Target creature gets +3/+3 until end of turn. If this spell was kicked, that "
 "creature gets +5/+5 until end of turn instead."
 msgstr ""
-"Wskazany stwór dostaje do końca tury +3/+3. Jeśli ten czar został podbity, "
-"zamiast tego ów stwór dostaje do końca tury +5/+5."
+"Wskazany stwór do końca tury dostaje +3/+3. Jeśli ten czar został podbity, "
+"zamiast tego ów stwór do końca tury dostaje +5/+5."
 
 #: ../../ZNR.rst:1290
 msgid ""
@@ -4403,7 +4403,7 @@ msgid ""
 "equipped creature gets +2/+2 until end of turn."
 msgstr ""
 "Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, "
-"wyposażony stwór dostaje do końca tury +2/+2."
+"wyposażony stwór do końca tury dostaje +2/+2."
 
 #: ../../ZNR.rst:1349
 msgid "Equip |mana_2|\\ |mana_g|"
@@ -4715,7 +4715,7 @@ msgid ""
 "Brushfire Elemental gets +2/+2 until end of turn."
 msgstr ""
 "Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, ten stwór "
-"dostaje do końca tury +2/+2."
+"do końca tury dostaje +2/+2."
 
 #: ../../ZNR.rst:1468
 msgid ""
@@ -5185,8 +5185,8 @@ msgid ""
 "Whenever you cast an instant, sorcery, or Wizard spell, Umara Mystic gets +2/"
 "+0 until end of turn."
 msgstr ""
-"Ilekroć rzucisz czar sztuczki, obrzędu lub Czarodzieja, ten stwór dostaje do "
-"końca tury +2/+0."
+"Ilekroć rzucisz czar sztuczki, obrzędu lub Czarodzieja, ten stwór do końca "
+"tury dostaje +2/+0."
 
 #: ../../ZNR.rst:1622
 msgid ""

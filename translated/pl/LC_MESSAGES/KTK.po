@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-22 09:12+0200\n"
-"PO-Revision-Date: 2022-04-17 16:43+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ktk/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.10.1\n"
+"X-Generator: Weblate 4.13.1\n"
 "X-POOTLE-MTIME: 1421404675.490232\n"
 
 #: ../../symbols.rst:3
@@ -355,7 +355,7 @@ msgstr ""
 # 3a750d8e06fc4318bad237b70d90f123
 #: ../../KTK.rst:43
 msgid "Target creature gets +1/+0 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +1/+0."
+msgstr "Wskazany stwór do końca tury dostaje +1/+0."
 
 # 2a97daff3a5a42cbaf7d5749af1d504c
 # 651152fec0ed4555ab53b2ae6d60b6bb
@@ -419,7 +419,7 @@ msgid ""
 "|mana_3|\\ |mana_r|: Firehoof Cavalry gets +2/+0 and gains trample until end "
 "of turn."
 msgstr ""
-"|mana_3|\\ |mana_r|: Ten stwór dostaje do końca tury +2/+0 oraz tratowanie."
+"|mana_3|\\ |mana_r|: Ten stwór do końca tury dostaje +2/+0 oraz tratowanie."
 
 #: ../../KTK.rst:68
 msgid ""
@@ -518,8 +518,8 @@ msgid ""
 "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 "
 "until end of turn.)"
 msgstr ""
-"Waleczność (Ilekroć rzucisz nie-stworowy czar, ten stwór dostaje do końca "
-"tury +1/+1.)"
+"Waleczność (Ilekroć rzucisz nie-stworowy czar, ten stwór do końca tury "
+"dostaje +1/+1.)"
 
 #: ../../KTK.rst:84
 msgid ""
@@ -1188,7 +1188,7 @@ msgstr ""
 # b07a3d204b724b1ba39ab45bd61208dd
 #: ../../KTK.rst:287
 msgid "|mana_u|: Scion of Glaciers gets +1/-1 until end of turn."
-msgstr "|mana_u|: Ten stwór dostaje do końca tury +1/-1."
+msgstr "|mana_u|: Ten stwór do końca tury dostaje +1/-1."
 
 #: ../../KTK.rst:294
 msgid ""
@@ -1660,8 +1660,8 @@ msgid ""
 "|mana_x|, |tap|, Exile X cards from your graveyard: Target creature gets -X/-"
 "X until end of turn."
 msgstr ""
-"|mana_x|, |tap|, wygnaj X kart z twojego cmentarza: Wskazany stwór dostaje "
-"do końca tury -X/-X."
+"|mana_x|, |tap|, wygnaj X kart z twojego cmentarza: Wskazany stwór do końca "
+"tury dostaje -X/-X."
 
 #: ../../KTK.rst:454
 msgid ""
@@ -1711,7 +1711,7 @@ msgid ""
 "creature gets -X/-X until end of turn."
 msgstr ""
 "|mana_b|, usuń X znaczników +1/+1 spośród stworów pod twoim władaniem: "
-"Wskazany stwór dostaje do końca tury -X/-X."
+"Wskazany stwór do końca tury dostaje -X/-X."
 
 #: ../../KTK.rst:466
 msgid ""
@@ -1842,7 +1842,7 @@ msgstr ""
 # eaa46224226a4c1b8281f1fab8bab4bc
 #: ../../KTK.rst:507
 msgid "Target creature gets -4/-4 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -4/-4."
+msgstr "Wskazany stwór do końca tury dostaje -4/-4."
 
 #: ../../KTK.rst:512
 msgid ""
@@ -2227,7 +2227,7 @@ msgstr ""
 # 2a2b6dc0fd364ae090ea2ad52ac55392
 #: ../../KTK.rst:619
 msgid "|mana_2|\\ |mana_w|: Leaping Master gains flying until end of turn."
-msgstr "|mana_2|\\ |mana_w|: Ten stwór zyskuje do końca tury latanie."
+msgstr "|mana_2|\\ |mana_w|: Ten stwór do końca tury zyskuje latanie."
 
 #: ../../KTK.rst:624
 msgid ""
@@ -2356,7 +2356,7 @@ msgid ""
 "Target creature you control gets +1/+0 until end of turn. It fights target "
 "creature you don't control."
 msgstr ""
-"Wskazany stwór pod twoim władaniem dostaje do końca tury +1/+0. Walczy ze "
+"Wskazany stwór pod twoim władaniem do końca tury dostaje +1/+0. Walczy ze "
 "wskazanym stworem poza twoim władaniem."
 
 #: ../../KTK.rst:664
@@ -2444,7 +2444,7 @@ msgstr ""
 # f459fddc06284e06b1f204cd02bd97cf
 #: ../../KTK.rst:693
 msgid "Target creature gets +3/+3 and gains trample until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +3/+3 oraz tratowanie."
+msgstr "Wskazany stwór do końca tury dostaje +3/+3 oraz tratowanie."
 
 #: ../../KTK.rst:700
 msgid ""
@@ -2456,7 +2456,7 @@ msgstr ""
 # 8c94e014dc9c404681d81a8af198315c
 #: ../../KTK.rst:699
 msgid "Target creature gets +6/+6 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +6/+6."
+msgstr "Wskazany stwór do końca tury dostaje +6/+6."
 
 #: ../../KTK.rst:704
 msgid ""
@@ -2521,7 +2521,7 @@ msgid ""
 "with power 4 or greater, Heir of the Wilds gets +1/+1 until end of turn."
 msgstr ""
 "Zaciekłość — Ilekroć ten stwór zaatakuje, jeśli władasz stworem o sile 4 lub "
-"większej, niniejszy stwór dostaje do końca tury +1/+1."
+"większej, niniejszy stwór do końca tury dostaje +1/+1."
 
 #: ../../KTK.rst:724
 msgid ""
@@ -2754,7 +2754,7 @@ msgid ""
 "Ferocious — That creature gains indestructible until end of turn if you "
 "control a creature with power 4 or greater."
 msgstr ""
-"Zaciekłość — Ów stwór zyskuje do końca tury niezniszczalność jeśli władasz "
+"Zaciekłość — Ów stwór do końca tury zyskuje niezniszczalność jeśli władasz "
 "stworem o sile 4 lub większej."
 
 #: ../../KTK.rst:792
@@ -2789,8 +2789,8 @@ msgid ""
 "Ferocious — The creature you control gets +2/+2 until end of turn before it "
 "fights if you control a creature with power 4 or greater."
 msgstr ""
-"Zaciekłość — Ów stwór pod twoim władaniem zanim będzie walczyć dostaje do "
-"końca tury +2/+2 jeśli władasz stworem o sile 4 lub większej."
+"Zaciekłość — Ów stwór pod twoim władaniem zanim będzie walczyć do końca tury "
+"dostaje +2/+2 jeśli władasz stworem o sile 4 lub większej."
 
 #: ../../KTK.rst:802
 msgid ""
@@ -2928,8 +2928,8 @@ msgid ""
 "Whenever a permanent you control is turned face up, if it's a creature, it "
 "gets +2/+2 until end of turn."
 msgstr ""
-"Ilekroć byt pod twoim władaniem zostanie odkryty, jeśli jest on stworem, "
-"dostaje do końca tury +2/+2."
+"Ilekroć byt pod twoim władaniem zostanie odkryty, jeśli jest on stworem, do "
+"końca tury dostaje +2/+2."
 
 #: ../../KTK.rst:834
 msgid ""
@@ -3194,7 +3194,7 @@ msgid ""
 "Sacrifice another creature: Butcher of the Horde gains your choice of "
 "vigilance, lifelink, or haste until end of turn."
 msgstr ""
-"Poświęć innego stwora: Ten stwór zyskuje do końca tury zdolność wybraną "
+"Poświęć innego stwora: Ten stwór do końca tury zyskuje zdolność wybraną "
 "spośród czujności, więzi życia i pośpiechu."
 
 #: ../../KTK.rst:914
@@ -3297,7 +3297,7 @@ msgid ""
 "another target creature you control gets +3/+0 until end of turn."
 msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy lub zostanie odkryty, inny wskazany "
-"stwór pod twoim władaniem dostaje do końca tury +3/+0."
+"stwór pod twoim władaniem do końca tury dostaje +3/+0."
 
 # 3167b6294b724608aea758acee935d60
 #: ../../KTK.rst:941
@@ -3636,7 +3636,7 @@ msgstr ""
 # 2a2b6dc0fd364ae090ea2ad52ac55392
 #: ../../KTK.rst:1033
 msgid "|mana_b|\\ |mana_g|: Rakshasa Deathdealer gets +2/+2 until end of turn."
-msgstr "|mana_b|\\ |mana_g|: Ten stwór dostaje do końca tury +2/+2."
+msgstr "|mana_b|\\ |mana_g|: Ten stwór do końca tury dostaje +2/+2."
 
 #: ../../KTK.rst:1035
 msgid "|mana_b|\\ |mana_g|: Regenerate Rakshasa Deathdealer."
@@ -3723,7 +3723,7 @@ msgid ""
 "|mana_2|\\ |mana_g|: Savage Knuckleblade gets +2/+2 until end of turn. "
 "Activate only once each turn."
 msgstr ""
-"|mana_2|\\ |mana_g|: Ten stwór dostaje do końca tury +2/+2. Możesz aktywować "
+"|mana_2|\\ |mana_g|: Ten stwór do końca tury dostaje +2/+2. Możesz aktywować "
 "tylko raz na turę."
 
 # 4f6f8d818b524c0fbe44565b7821bcd2
@@ -3940,7 +3940,7 @@ msgid ""
 "Target creature you control gets +1/+1 until end of turn. It fights target "
 "creature you don't control."
 msgstr ""
-"Wskazany stwór pod twoim władaniem dostaje do końca tury +1/+1. Walczy on ze "
+"Wskazany stwór pod twoim władaniem do końca tury dostaje +1/+1. Walczy on ze "
 "wskazanym stworem poza twoim władaniem."
 
 # df7ee7a4c7d24cd6bbeb312742f0acc1

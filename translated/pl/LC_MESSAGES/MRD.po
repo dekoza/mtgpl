@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-22 09:12+0200\n"
-"PO-Revision-Date: 2022-06-28 14:28+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mrd/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.12.1\n"
+"X-Generator: Weblate 4.13.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../symbols.rst:3
@@ -279,7 +279,7 @@ msgid ""
 "|tap|: Target creature gets +X/+X until end of turn, where X is Auriok "
 "Bladewarden's power."
 msgstr ""
-"|tap|: Wskazany stwór dostaje do końca tury +X/+X, gdzie X jest siłą "
+"|tap|: Wskazany stwór do końca tury dostaje +X/+X, gdzie X jest siłą "
 "niniejszego."
 
 #: ../../MRD.rst:26
@@ -486,7 +486,7 @@ msgid ""
 "Target permanent you control gains protection from artifacts or from the "
 "color of your choice until end of turn."
 msgstr ""
-"Wskazany byt pod twoim władaniem zyskuje do końca tury ochronę przed "
+"Wskazany byt pod twoim władaniem do końca tury zyskuje ochronę przed "
 "artefaktami lub przed kolorem twojego wyboru."
 
 #: ../../MRD.rst:96
@@ -1255,7 +1255,7 @@ msgstr ""
 msgid ""
 "Target creature gets -1/-1 until end of turn for each artifact you control."
 msgstr ""
-"Wskazany stwór dostaje do końca tury -1/-1 za każdy artefakt pod twoim "
+"Wskazany stwór do końca tury dostaje -1/-1 za każdy artefakt pod twoim "
 "władaniem."
 
 #: ../../MRD.rst:364
@@ -1456,7 +1456,7 @@ msgid ""
 "Whenever an artifact enters the battlefield, Vermiculos gets +4/+4 until end "
 "of turn."
 msgstr ""
-"Ilekroć artefakt wejdzie na pole bitwy, ten stwór dostaje do końca tury +4/"
+"Ilekroć artefakt wejdzie na pole bitwy, ten stwór do końca tury dostaje +4/"
 "+4."
 
 #: ../../MRD.rst:440
@@ -1487,7 +1487,7 @@ msgstr ""
 
 #: ../../MRD.rst:445
 msgid "Pay 1 life: Wall of Blood gets +1/+1 until end of turn."
-msgstr "Zapłać 1 życie: Ten stwór dostaje do końca tury +1/+1."
+msgstr "Zapłać 1 życie: Ten stwór do końca tury dostaje +1/+1."
 
 #: ../../MRD.rst:452
 msgid ""
@@ -1539,7 +1539,7 @@ msgstr ""
 
 #: ../../MRD.rst:463
 msgid "Sacrifice an artifact: Atog gets +2/+2 until end of turn."
-msgstr "Poświęć artefakt: Ten stwór dostaje do końca tury +2/+2."
+msgstr "Poświęć artefakt: Ten stwór do końca tury dostaje +2/+2."
 
 #: ../../MRD.rst:468
 msgid ""
@@ -1619,7 +1619,7 @@ msgstr ""
 
 #: ../../MRD.rst:483
 msgid "Target creature gets +4/+0 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +4/+0."
+msgstr "Wskazany stwór do końca tury dostaje +4/+0."
 
 #: ../../MRD.rst:490
 msgid ""
@@ -1721,7 +1721,7 @@ msgid ""
 "Sacrifice an artifact: Krark-Clan Grunt gets +1/+0 and gains first strike "
 "until end of turn."
 msgstr ""
-"Poświęć artefakt: Ten stwór dostaje do końca tury +1/+0 i pierwszy cios."
+"Poświęć artefakt: Ten stwór do końca tury dostaje +1/+0 i pierwszy cios."
 
 #: ../../MRD.rst:528
 msgid ""
@@ -1760,7 +1760,7 @@ msgstr ""
 msgid ""
 "Sacrifice an artifact: Megatog gets +3/+3 and gains trample until end of "
 "turn."
-msgstr "Poświęć artefakt: Ten stwór dostaje do końca tury +3/+3 i tratowanie."
+msgstr "Poświęć artefakt: Ten stwór do końca tury dostaje +3/+3 i tratowanie."
 
 #: ../../MRD.rst:540
 msgid ""
@@ -2161,7 +2161,7 @@ msgstr ""
 
 #: ../../MRD.rst:673
 msgid "Target creature gets +3/+3 and gains trample until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +3/+3 oraz tratowanie."
+msgstr "Wskazany stwór do końca tury dostaje +3/+3 oraz tratowanie."
 
 #: ../../MRD.rst:680
 msgid ""
@@ -3225,8 +3225,8 @@ msgid ""
 "Tap an untapped artifact you control: Lodestone Myr gets +1/+1 until end of "
 "turn."
 msgstr ""
-"Przekręć odkręcony artefakt pod twoim władaniem: Ten stwór dostaje do końca "
-"tury +1/+1."
+"Przekręć odkręcony artefakt pod twoim władaniem: Ten stwór do końca tury "
+"dostaje +1/+1."
 
 #: ../../MRD.rst:1052
 msgid ""

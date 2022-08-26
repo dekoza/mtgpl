@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-22 09:12+0200\n"
-"PO-Revision-Date: 2022-07-05 20:43+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/hml/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.12.1\n"
+"X-Generator: Weblate 4.13.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../symbols.rst:3
@@ -363,7 +363,7 @@ msgstr "Latanie"
 
 #: ../../HML.rst:47
 msgid "|mana_1|\\ |mana_w|: Mesa Falcon gets +0/+1 until end of turn."
-msgstr "|mana_1|\\ |mana_w|: Ten stwór dostaje do końca tury +0/+1."
+msgstr "|mana_1|\\ |mana_w|: Ten stwór do końca tury dostaje +0/+1."
 
 #: ../../HML.rst:54
 msgid ""
@@ -484,7 +484,7 @@ msgid ""
 "|mana_1|\\ |mana_w|\\ |mana_w|, |tap|: Target creature gains vigilance until "
 "end of turn."
 msgstr ""
-"|mana_1|\\ |mana_w|\\ |mana_w|, |tap|: Wskazany stwór zyskuje do końca tury "
+"|mana_1|\\ |mana_w|\\ |mana_w|, |tap|: Wskazany stwór do końca tury zyskuje "
 "czujność."
 
 #: ../../HML.rst:92
@@ -1646,7 +1646,7 @@ msgstr ""
 
 #: ../../HML.rst:503
 msgid "Target creature gets -5/-0 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -5/-0."
+msgstr "Wskazany stwór do końca tury dostaje -5/-0."
 
 #: ../../HML.rst:508
 msgid ""

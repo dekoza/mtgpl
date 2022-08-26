@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-22 09:12+0200\n"
-"PO-Revision-Date: 2022-06-25 15:11+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/a25/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.12.1\n"
+"X-Generator: Weblate 4.13.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../symbols.rst:3
@@ -475,7 +475,7 @@ msgid ""
 "until end of turn. (It can't be blocked, targeted, dealt damage, enchanted, "
 "or equipped by anything of that color.)"
 msgstr ""
-"Wskazany stwór pod twoim władaniem zyskuje do końca tury ochronę przed "
+"Wskazany stwór pod twoim władaniem do końca tury zyskuje ochronę przed "
 "wybranym przez ciebie kolorem. (Nic w owym kolorze nie może blokować, "
 "wskazać, zadać obrażeń, zauroczyć ani wyposażyć tego stwora.)"
 
@@ -496,7 +496,7 @@ msgid ""
 "Protector gets +1/+1 until end of turn."
 msgstr ""
 "Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, niniejszy "
-"stwór dostaje do końca tury +1/+1."
+"stwór do końca tury dostaje +1/+1."
 
 #: ../../A25.rst:94
 msgid ""
@@ -534,7 +534,7 @@ msgid ""
 "|mana_3|\\ |mana_g|: Knight of the Skyward Eye gets +3/+3 until end of turn. "
 "Activate only once each turn."
 msgstr ""
-"|mana_3|\\ |mana_g|: Ten stwór dostaje do końca tury +3/+3. Możesz aktywować "
+"|mana_3|\\ |mana_g|: Ten stwór do końca tury dostaje +3/+3. Możesz aktywować "
 "tylko raz na turę."
 
 #: ../../A25.rst:102
@@ -620,8 +620,8 @@ msgid ""
 "Enchanted creature gets +2/+2 and has \"|mana_1|, Sacrifice a permanent: "
 "This creature gains flying until end of turn.\""
 msgstr ""
-"Zauroczony stwór dostaje +2/+2 i ma '|mana_1|, poświęć byt: Ten stwór "
-"zyskuje do końca tury latanie.\""
+"Zauroczony stwór dostaje +2/+2 i ma '|mana_1|, poświęć byt: Ten stwór do "
+"końca tury zyskuje latanie.\""
 
 #: ../../A25.rst:130
 msgid ""
@@ -1402,7 +1402,7 @@ msgid ""
 "Until end of turn, target creature gains \"|tap|: Return target nonland "
 "permanent to its owner's hand.\""
 msgstr ""
-"Wskazany stwór zyskuje do końca tury \"|tap|: Zwróć wskazany nie-lądowy byt "
+"Wskazany stwór do końca tury zyskuje \"|tap|: Zwróć wskazany nie-lądowy byt "
 "do ręki właściciela.\""
 
 #: ../../A25.rst:386
@@ -1655,7 +1655,7 @@ msgstr ""
 
 #: ../../A25.rst:467
 msgid "Target creature gets -2/-2 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -2/-2."
+msgstr "Wskazany stwór do końca tury dostaje -2/-2."
 
 #: ../../A25.rst:472
 msgid ""
@@ -1713,7 +1713,7 @@ msgstr ""
 
 #: ../../A25.rst:485
 msgid "Sacrifice a creature: Fallen Angel gets +2/+1 until end of turn."
-msgstr "Poświęć stwora: Ten stwór dostaje do końca tury +2/+1."
+msgstr "Poświęć stwora: Ten stwór do końca tury dostaje +2/+1."
 
 #: ../../A25.rst:490
 msgid ""
@@ -1743,8 +1743,8 @@ msgid ""
 "Whenever you cycle or discard another card, Horror of the Broken Lands gets "
 "+2/+1 until end of turn."
 msgstr ""
-"Ilekroć zrecyklujesz lub odrzucisz inną kartę, ten stwór dostaje do końca "
-"tury +2/+1."
+"Ilekroć zrecyklujesz lub odrzucisz inną kartę, ten stwór do końca tury "
+"dostaje +2/+1."
 
 #: ../../A25.rst:495
 msgid "Cycling |mana_b| (|mana_b|, Discard this card: Draw a card.)"
@@ -1860,7 +1860,7 @@ msgstr ""
 
 #: ../../A25.rst:531
 msgid "Sacrifice a creature: Phyrexian Ghoul gets +2/+2 until end of turn."
-msgstr "Poświęć stwora: Ten stwór dostaje do końca tury +2/+2."
+msgstr "Poświęć stwora: Ten stwór do końca tury dostaje +2/+2."
 
 #: ../../A25.rst:538
 msgid ""
@@ -2198,7 +2198,7 @@ msgstr "Latanie, tratowanie, ochrona przed białym i niebieskim"
 
 #: ../../A25.rst:637
 msgid "|mana_r|: Akroma, Angel of Fury gets +1/+0 until end of turn."
-msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_r|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../A25.rst:639
 msgid ""
@@ -2302,7 +2302,7 @@ msgstr ""
 
 #: ../../A25.rst:667
 msgid "|mana_r|: Chartooth Cougar gets +1/+0 until end of turn."
-msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_r|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../A25.rst:669
 msgid ""
@@ -2335,7 +2335,7 @@ msgid ""
 "|mana_r|: Target creature you control gains haste until end of turn. (It can "
 "attack and |tap| this turn.)"
 msgstr ""
-"|mana_r|: Wskazany stwór pod twoim władaniem zyskuje do końca tury pośpiech. "
+"|mana_r|: Wskazany stwór pod twoim władaniem do końca tury zyskuje pośpiech. "
 "(Może atakować i |tap| w tej turze.)"
 
 #: ../../A25.rst:682
@@ -2787,7 +2787,7 @@ msgid ""
 "Target creature gets +1/+1 and gains double strike until end of turn. (It "
 "deals both first-strike and regular combat damage.)"
 msgstr ""
-"Wskazany stwór dostaje do końca tury +1/+1 oraz podwójny cios. (Zadaje "
+"Wskazany stwór do końca tury dostaje +1/+1 oraz podwójny cios. (Zadaje "
 "obrażenia bojowe zarówno jako pierwszy cios oraz normalnie.)"
 
 #: ../../A25.rst:816
@@ -3030,7 +3030,7 @@ msgid ""
 "creature you don't control. (Each deals damage equal to its power to the "
 "other.)"
 msgstr ""
-"Wskazany stwór pod twoim władaniem dostaje do końca tury +1/+2. Walczy ze "
+"Wskazany stwór pod twoim władaniem do końca tury dostaje +1/+2. Walczy ze "
 "wskazanym stworem poza twoim władaniem. (Każdy zadaje drugiemu obrażenia "
 "równe swojej sile.)"
 
@@ -3060,7 +3060,7 @@ msgstr ""
 
 #: ../../A25.rst:891
 msgid "Target creature gets +3/+3 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +3/+3."
+msgstr "Wskazany stwór do końca tury dostaje +3/+3."
 
 #: ../../A25.rst:898
 msgid ""
@@ -3079,7 +3079,7 @@ msgstr ""
 
 #: ../../A25.rst:897
 msgid "Target creature gets +4/+4 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +4/+4."
+msgstr "Wskazany stwór do końca tury dostaje +4/+4."
 
 #: ../../A25.rst:904
 msgid ""
@@ -3417,7 +3417,7 @@ msgstr ""
 #: ../../A25.rst:1007
 msgid ""
 "|mana_8|: Target creature gets +5/+5 and gains trample until end of turn."
-msgstr "|mana_8|: Wskazany stwór dostaje do końca tury +5/+5 i tratowanie."
+msgstr "|mana_8|: Wskazany stwór do końca tury dostaje +5/+5 i tratowanie."
 
 #: ../../A25.rst:1012
 msgid ""
@@ -3508,7 +3508,7 @@ msgstr "Permanenty pod twoim władaniem zyskują do końca tury niezniszczalnoś
 
 #: ../../A25.rst:1037
 msgid "Target creature gains double strike until end of turn."
-msgstr "Wskazany stwór zyskuje do końca tury podwójny cios."
+msgstr "Wskazany stwór do końca tury zyskuje podwójny cios."
 
 #: ../../A25.rst:1044
 msgid ""
@@ -3767,7 +3767,7 @@ msgstr ""
 msgid ""
 "Sacrifice another creature: Prossh, Skyraider of Kher gets +1/+0 until end "
 "of turn."
-msgstr "Poświęć innego stwora: Niniejszy stwór dostaje do końca tury +1/+0."
+msgstr "Poświęć innego stwora: Niniejszy stwór do końca tury dostaje +1/+0."
 
 #: ../../A25.rst:1134
 msgid ""
@@ -3865,7 +3865,7 @@ msgstr ""
 
 #: ../../A25.rst:1163 ../../A25.rst:1283
 msgid "|tap|: Target Assembly-Worker creature gets +1/+1 until end of turn."
-msgstr "|tap|: Wskazany Składacz dostaje do końca tury +1/+1."
+msgstr "|tap|: Wskazany Składacz do końca tury dostaje +1/+1."
 
 #: ../../A25.rst:1170
 msgid ""
@@ -4266,7 +4266,7 @@ msgstr "|tap|: Weź |mana_g|."
 
 #: ../../A25.rst:1297
 msgid "|tap|: Target 1/1 creature gets +1/+2 until end of turn."
-msgstr "|tap|: Wskazany stwór 1/1 dostaje do końca tury +1/+2."
+msgstr "|tap|: Wskazany stwór 1/1 do końca tury dostaje +1/+2."
 
 #: ../../A25.rst:1304
 msgid ""
@@ -4280,8 +4280,8 @@ msgid ""
 "|tap|, Sacrifice Quicksand: Target attacking creature without flying gets "
 "-1/-2 until end of turn."
 msgstr ""
-"|tap|, poświęć ten ląd: Wskazany atakujący stwór bez latanie dostaje do "
-"końca tury -1/-2."
+"|tap|, poświęć ten ląd: Wskazany atakujący stwór bez latanie do końca tury "
+"dostaje -1/-2."
 
 #: ../../A25.rst:1310
 msgid ""

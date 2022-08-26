@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-22 09:12+0200\n"
-"PO-Revision-Date: 2022-04-17 16:43+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/9ed/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.10.1\n"
+"X-Generator: Weblate 4.13.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../symbols.rst:3
@@ -273,7 +273,7 @@ msgid ""
 "Target creature gets +3/+3 and gains flying until end of turn. (It can't be "
 "blocked except by creatures with flying or reach.)"
 msgstr ""
-"Wskazany stwór dostaje do końca tury +3/+3 i latanie. (Nie może być "
+"Wskazany stwór do końca tury dostaje +3/+3 i latanie. (Nie może być "
 "blokowany, chyba że przez stwory mające latanie lub zasięg.)"
 
 #: ../../9ED.rst:24
@@ -582,7 +582,7 @@ msgstr ""
 
 #: ../../9ED.rst:131
 msgid "|mana_w|: Honor Guard gets +0/+1 until end of turn."
-msgstr "|mana_w|: Ten stwór dostaje do końca tury +0/+1."
+msgstr "|mana_w|: Ten stwór do końca tury dostaje +0/+1."
 
 #: ../../9ED.rst:136
 msgid ""
@@ -593,7 +593,7 @@ msgstr ""
 
 #: ../../9ED.rst:135
 msgid "|tap|: Target attacking creature gets +1/+1 until end of turn."
-msgstr "|tap|: Wskazany atakujący stwór dostaje do końca tury +1/+1."
+msgstr "|tap|: Wskazany atakujący stwór do końca tury dostaje +1/+1."
 
 #: ../../9ED.rst:140
 msgid ""
@@ -779,7 +779,7 @@ msgstr ""
 
 #: ../../9ED.rst:199
 msgid "Target blocking creature gets +7/+7 until end of turn."
-msgstr "Wskazany blokujący stwór dostaje do końca tury +7/+7."
+msgstr "Wskazany blokujący stwór do końca tury dostaje +7/+7."
 
 #: ../../9ED.rst:204
 msgid ""
@@ -1962,7 +1962,7 @@ msgstr ""
 #: ../../9ED.rst:615
 msgid ""
 "When Festering Goblin dies, target creature gets -1/-1 until end of turn."
-msgstr "Kiedy ten stwór umrze, wskazany stwór dostaje do końca tury -1/-1."
+msgstr "Kiedy ten stwór umrze, wskazany stwór do końca tury dostaje -1/-1."
 
 #: ../../9ED.rst:620
 msgid ""
@@ -2080,7 +2080,7 @@ msgstr ""
 
 #: ../../9ED.rst:653
 msgid "Whenever Hollow Dogs attacks, it gets +2/+0 until end of turn."
-msgstr "Ilekroć ten stwór zaatakuje, dostaje do końca tury +2/+0."
+msgstr "Ilekroć ten stwór zaatakuje, do końca tury dostaje +2/+0."
 
 #: ../../9ED.rst:658
 msgid ""
@@ -2123,7 +2123,7 @@ msgstr ""
 
 #: ../../9ED.rst:667
 msgid "|mana_b|: Looming Shade gets +1/+1 until end of turn."
-msgstr "|mana_b|: Ten stwór dostaje do końca tury +1/+1."
+msgstr "|mana_b|: Ten stwór do końca tury dostaje +1/+1."
 
 #: ../../9ED.rst:674
 msgid ""
@@ -2207,7 +2207,7 @@ msgstr ""
 
 #: ../../9ED.rst:695
 msgid "Sacrifice a creature: Nantuko Husk gets +2/+2 until end of turn."
-msgstr "Poświęć stwora: Niniejszy stwór dostaje do końca tury +2/+2."
+msgstr "Poświęć stwora: Niniejszy stwór do końca tury dostaje +2/+2."
 
 #: ../../9ED.rst:702
 msgid ""
@@ -2591,7 +2591,7 @@ msgstr ""
 
 #: ../../9ED.rst:839
 msgid "Target creature gets +X/+0 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +X/+0."
+msgstr "Wskazany stwór do końca tury dostaje +X/+0."
 
 #: ../../9ED.rst:846
 msgid ""
@@ -2602,7 +2602,7 @@ msgstr ""
 
 #: ../../9ED.rst:845
 msgid "|mana_r|: Enchanted creature gets +1/+0 until end of turn."
-msgstr "|mana_r|: Zauroczony stwór dostaje do końca tury +1/+0."
+msgstr "|mana_r|: Zauroczony stwór do końca tury dostaje +1/+0."
 
 #: ../../9ED.rst:850
 msgid ""
@@ -2639,7 +2639,7 @@ msgstr ""
 
 #: ../../9ED.rst:857
 msgid "|mana_r|: Flowstone Crusher gets +1/-1 until end of turn."
-msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/-1."
+msgstr "|mana_r|: Ten stwór do końca tury dostaje +1/-1."
 
 #: ../../9ED.rst:862
 msgid ""
@@ -2650,7 +2650,7 @@ msgstr ""
 
 #: ../../9ED.rst:861
 msgid "|mana_r|: Flowstone Shambler gets +1/-1 until end of turn."
-msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/-1."
+msgstr "|mana_r|: Ten stwór do końca tury dostaje +1/-1."
 
 #: ../../9ED.rst:866
 msgid ""
@@ -2710,7 +2710,7 @@ msgstr ""
 
 #: ../../9ED.rst:881
 msgid "|mana_r|: Goblin Balloon Brigade gains flying until end of turn."
-msgstr "|mana_r|: Ten stwór zyskuje do końca tury latanie."
+msgstr "|mana_r|: Ten stwór do końca tury zyskuje latanie."
 
 #: ../../9ED.rst:886
 msgid ""
@@ -2891,7 +2891,7 @@ msgstr ""
 #: ../../9ED.rst:945
 msgid ""
 "Whenever an opponent casts a spell, Mogg Sentry gets +2/+2 until end of turn."
-msgstr "Ilekroć przeciwnik rzuci czar, ten stwór dostaje do końca tury +2/+2."
+msgstr "Ilekroć przeciwnik rzuci czar, ten stwór do końca tury dostaje +2/+2."
 
 #: ../../9ED.rst:950
 msgid ""
@@ -3000,7 +3000,7 @@ msgstr ""
 
 #: ../../9ED.rst:985
 msgid "Whenever Rogue Kavu attacks alone, it gets +2/+0 until end of turn."
-msgstr "Ilekroć ten stwór atakuje samotnie, dostaje do końca tury +2/+0."
+msgstr "Ilekroć ten stwór atakuje samotnie, do końca tury dostaje +2/+0."
 
 #: ../../9ED.rst:990
 msgid ""
@@ -3026,7 +3026,7 @@ msgstr ""
 
 #: ../../9ED.rst:995
 msgid "|mana_r|: Sandstone Warrior gets +1/+0 until end of turn."
-msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_r|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../9ED.rst:1000
 msgid ""
@@ -3081,7 +3081,7 @@ msgstr ""
 
 #: ../../9ED.rst:1017
 msgid "|mana_r|: Shivan Dragon gets +1/+0 until end of turn."
-msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_r|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../9ED.rst:1022
 msgid ""
@@ -3184,7 +3184,7 @@ msgid ""
 "|mana_r|: Target creature gains haste until end of turn. (It can attack this "
 "turn.)"
 msgstr ""
-"|mana_r|: Wskazany stwór zyskuje do końca tury pośpiech. (Może atakować w "
+"|mana_r|: Wskazany stwór do końca tury zyskuje pośpiech. (Może atakować w "
 "tej turze.)"
 
 #: ../../9ED.rst:1058
@@ -3301,7 +3301,7 @@ msgid ""
 "Whenever Elvish Berserker becomes blocked, it gets +1/+1 until end of turn "
 "for each creature blocking it."
 msgstr ""
-"Ilekroć ten stwór zostaje zablokowany, dostaje do końca tury +1/+1 za "
+"Ilekroć ten stwór zostaje zablokowany, do końca tury dostaje +1/+1 za "
 "każdego blokującego go stwora."
 
 #: ../../9ED.rst:1100
@@ -3383,7 +3383,7 @@ msgstr ""
 
 #: ../../9ED.rst:1121
 msgid "Target creature gets +3/+3 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +3/+3."
+msgstr "Wskazany stwór do końca tury dostaje +3/+3."
 
 #: ../../9ED.rst:1126
 msgid ""
@@ -3493,8 +3493,8 @@ msgid ""
 "Tap an untapped creature you control: Llanowar Behemoth gets +1/+1 until end "
 "of turn."
 msgstr ""
-"Przekręć odkręconego stwora pod twoim władaniem: Ten stwór dostaje do końca "
-"tury +1/+1."
+"Przekręć odkręconego stwora pod twoim władaniem: Ten stwór do końca tury "
+"dostaje +1/+1."
 
 #: ../../9ED.rst:1162
 msgid ""
@@ -3530,7 +3530,7 @@ msgstr ""
 
 #: ../../9ED.rst:1169
 msgid "Target creature gets +7/+7 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +7/+7."
+msgstr "Wskazany stwór do końca tury dostaje +7/+7."
 
 #: ../../9ED.rst:1174
 msgid ""
@@ -3688,7 +3688,7 @@ msgid ""
 "|mana_1|\\ |mana_g|: Rootwalla gets +2/+2 until end of turn. Activate only "
 "once each turn."
 msgstr ""
-"|mana_1|\\ |mana_g|: Ten stwór dostaje do końca tury +2/+2. Możesz aktywować "
+"|mana_1|\\ |mana_g|: Ten stwór do końca tury dostaje +2/+2. Możesz aktywować "
 "tylko raz na turę."
 
 #: ../../9ED.rst:1228
@@ -4396,8 +4396,8 @@ msgid ""
 "|tap|, Sacrifice Quicksand: Target attacking creature without flying gets "
 "-1/-2 until end of turn."
 msgstr ""
-"|tap|, poświęć ten ląd: Wskazany atakujący stwór bez latanie dostaje do "
-"końca tury -1/-2."
+"|tap|, poświęć ten ląd: Wskazany atakujący stwór bez latanie do końca tury "
+"dostaje -1/-2."
 
 #: ../../9ED.rst:1480
 msgid ""

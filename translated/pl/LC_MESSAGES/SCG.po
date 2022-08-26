@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-22 09:12+0200\n"
-"PO-Revision-Date: 2022-04-07 12:16+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/scg/pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.10.1\n"
+"X-Generator: Weblate 4.13.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../symbols.rst:3
@@ -270,7 +270,7 @@ msgstr ""
 
 #: ../../SCG.rst:17
 msgid "Target creature gets +1/+2 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +1/+2."
+msgstr "Wskazany stwór do końca tury dostaje +1/+2."
 
 #: ../../SCG.rst:19 ../../SCG.rst:155 ../../SCG.rst:175 ../../SCG.rst:225
 #: ../../SCG.rst:317 ../../SCG.rst:425 ../../SCG.rst:445 ../../SCG.rst:593
@@ -1263,7 +1263,7 @@ msgstr ""
 
 #: ../../SCG.rst:357
 msgid "Target creature gets -X/-X until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -X/-X."
+msgstr "Wskazany stwór do końca tury dostaje -X/-X."
 
 #: ../../SCG.rst:364
 msgid ""
@@ -1616,7 +1616,7 @@ msgstr ""
 
 #: ../../SCG.rst:487
 msgid "|mana_r|: Chartooth Cougar gets +1/+0 until end of turn."
-msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_r|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../SCG.rst:489
 msgid ""
@@ -1662,7 +1662,7 @@ msgstr ""
 
 #: ../../SCG.rst:505
 msgid "|mana_r|: Enchanted creature gets +1/+0 until end of turn."
-msgstr "|mana_r|: Zauroczony stwór dostaje do końca tury +1/+0."
+msgstr "|mana_r|: Zauroczony stwór do końca tury dostaje +1/+0."
 
 #: ../../SCG.rst:507
 msgid ""
@@ -1753,7 +1753,7 @@ msgstr ""
 
 #: ../../SCG.rst:537
 msgid "Target creature gets +X/+0 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +X/+0."
+msgstr "Wskazany stwór do końca tury dostaje +X/+0."
 
 #: ../../SCG.rst:544
 msgid ""

@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-22 09:12+0200\n"
-"PO-Revision-Date: 2022-06-25 15:11+0000\n"
+"PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/cns/pl/>\n"
 "Language: pl\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.12.1\n"
+"X-Generator: Weblate 4.13.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../symbols.rst:3
@@ -713,8 +713,8 @@ msgid ""
 "|mana_2|\\ |mana_b|, Remove a +1/+1 counter from Drakestown Forgotten: "
 "Target creature gets -1/-1 until end of turn."
 msgstr ""
-"|mana_2|\\ |mana_b|, usuń znacznik +1/+1 z tego bytu: Wskazany stwór dostaje "
-"do końca tury -1/-1."
+"|mana_2|\\ |mana_b|, usuń znacznik +1/+1 z tego bytu: Wskazany stwór do "
+"końca tury dostaje -1/-1."
 
 #: ../../CNS.rst:156
 msgid ""
@@ -1115,8 +1115,8 @@ msgid ""
 "|mana_1|\\ |mana_u|\\ |mana_r|: Target creature you control gains haste "
 "until end of turn and can't be blocked this turn."
 msgstr ""
-"|mana_1|\\ |mana_u|\\ |mana_r|: Wskazany stwór pod twoim władaniem zyskuje "
-"do końca tury pośpiech i nie może być blokowany w tej turze."
+"|mana_1|\\ |mana_u|\\ |mana_r|: Wskazany stwór pod twoim władaniem do końca "
+"tury zyskuje pośpiech i nie może być blokowany w tej turze."
 
 #: ../../CNS.rst:280
 msgid ""
@@ -1599,7 +1599,7 @@ msgid ""
 "Target creature gets +2/+2 and gains lifelink until end of turn. (Damage "
 "dealt by the creature also causes its controller to gain that much life.)"
 msgstr ""
-"Wskazany stwór dostaje do końca tury +2/+2 oraz więź życia. (Obrażenia "
+"Wskazany stwór do końca tury dostaje +2/+2 oraz więź życia. (Obrażenia "
 "zadane przez tego stwora dodatkowo sprawiają, że jego władca zyskuje tyle "
 "samo życia.)"
 
@@ -1732,7 +1732,7 @@ msgid ""
 "Target creature gains protection from the color of your choice until end of "
 "turn."
 msgstr ""
-"Wskazany stwór zyskuje do końca tury ochronę przez wybranym przez ciebie "
+"Wskazany stwór do końca tury zyskuje ochronę przez wybranym przez ciebie "
 "kolorem."
 
 #: ../../CNS.rst:468
@@ -2157,7 +2157,7 @@ msgstr ""
 
 #: ../../CNS.rst:617
 msgid "|tap|: Target creature gains flying until end of turn."
-msgstr "|tap|: Wskazany stwór zyskuje do końca tury latanie."
+msgstr "|tap|: Wskazany stwór do końca tury zyskuje latanie."
 
 #: ../../CNS.rst:624
 msgid ""
@@ -2251,7 +2251,7 @@ msgid ""
 "this turn, target creature gets -4/-4 until end of turn."
 msgstr ""
 "Okropność — Kiedy ten byt wejdzie na pole bitwy, jeśli w tej turze umarł "
-"stwór, wskazany stwór dostaje do końca tury -4/-4."
+"stwór, wskazany stwór do końca tury dostaje -4/-4."
 
 #: ../../CNS.rst:656
 msgid ""
@@ -2307,7 +2307,7 @@ msgstr ""
 #: ../../CNS.rst:667
 msgid ""
 "|mana_b|, Sacrifice a creature: Target creature gets -1/-1 until end of turn."
-msgstr "|mana_b|, poświęć stwora: Wskazany stwór dostaje do końca tury -1/-1."
+msgstr "|mana_b|, poświęć stwora: Wskazany stwór do końca tury dostaje -1/-1."
 
 #: ../../CNS.rst:676
 msgid ""
@@ -2418,14 +2418,14 @@ msgstr ""
 
 #: ../../CNS.rst:701
 msgid "Target creature gets -1/-1 until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury -1/-1."
+msgstr "Wskazany stwór do końca tury dostaje -1/-1."
 
 #: ../../CNS.rst:703
 msgid ""
 "Morbid — That creature gets -13/-13 until end of turn instead if a creature "
 "died this turn."
 msgstr ""
-"Okropność — Ów stwór zamiast tego dostaje do końca tury -13/-13 jeśli w tej "
+"Okropność — Ów stwór zamiast tego do końca tury dostaje -13/-13 jeśli w tej "
 "turze umarł stwór."
 
 #: ../../CNS.rst:710
@@ -2593,7 +2593,7 @@ msgstr ""
 
 #: ../../CNS.rst:761
 msgid "|mana_r|: Chartooth Cougar gets +1/+0 until end of turn."
-msgstr "|mana_r|: Ten stwór dostaje do końca tury +1/+0."
+msgstr "|mana_r|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../CNS.rst:763
 msgid ""
@@ -2649,8 +2649,8 @@ msgid ""
 "As long as Flaring Flame-Kin is enchanted, it gets +2/+2, has trample, and "
 "has \"|mana_r|: Flaring Flame-Kin gets +1/+0 until end of turn.\""
 msgstr ""
-"O ile ten stwór jest zauroczony, dostaje on +2/+2, ma tratowanie oraz \"|"
-"mana_r|: Ten stwór dostaje do końca tury +1/+0.\""
+"O ile ten stwór jest zauroczony, dostaje on +2/+2, ma tratowanie oraz \""
+"|mana_r|: Ten stwór do końca tury dostaje +1/+0.\""
 
 #: ../../CNS.rst:786
 msgid ""
@@ -2661,7 +2661,7 @@ msgstr ""
 
 #: ../../CNS.rst:785
 msgid "|mana_r|: Enchanted creature gets +1/-1 until end of turn."
-msgstr "|mana_r|: Zauroczony stwór dostaje do końca tury +1/-1."
+msgstr "|mana_r|: Zauroczony stwór do końca tury dostaje +1/-1."
 
 #: ../../CNS.rst:790
 msgid ""
@@ -3323,7 +3323,7 @@ msgstr "Stwory pod twoim władaniem mają pośpiech."
 #: ../../CNS.rst:1009
 msgid ""
 "Sacrifice Fires of Yavimaya: Target creature gets +2/+2 until end of turn."
-msgstr "Poświęć ten byt: Wskazany stwór dostaje do końca tury +2/+2."
+msgstr "Poświęć ten byt: Wskazany stwór do końca tury dostaje +2/+2."
 
 #: ../../CNS.rst:1016
 msgid ""
@@ -3671,8 +3671,8 @@ msgid ""
 "|tap|, Sacrifice Quicksand: Target attacking creature without flying gets "
 "-1/-2 until end of turn."
 msgstr ""
-"|tap|, poświęć ten ląd: Wskazany atakujący stwór bez latanie dostaje do "
-"końca tury -1/-2."
+"|tap|, poświęć ten ląd: Wskazany atakujący stwór bez latanie do końca tury "
+"dostaje -1/-2."
 
 #: ../../CNS.rst:1129
 msgid ""
