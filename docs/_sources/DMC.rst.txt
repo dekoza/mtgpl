@@ -147,6 +147,58 @@
    • Tap target nonland permanent an opponent controls.
 
 
+:mtgtip:`Historian's Boon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/d/0da48d1e-0dec-461a-9a1d-477408b297e6.jpg?1661550639|https://scryfall.com/card/dmc/21/historians-boon?utm_source=api>`
+   Whenever Historian's Boon or another nontoken enchantment enters the battlefield under your control, create a 1/1 white Soldier creature token.
+
+   Whenever the final chapter of a Saga you control triggers, create a 4/4 white Angel creature token with flying and vigilance.
+
+
+:mtgtip:`Robaran Mercenaries<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/2/32e9a83f-be4b-4116-8e0d-61c159286ae0.jpg?1661583376|https://scryfall.com/card/dmc/22/robaran-mercenaries?utm_source=api>`
+   Vigilance
+
+   Robaran Mercenaries has all activated abilties of all legendary creatures you control.
+
+
+:mtgtip:`Emperor Mihail II<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/1/715284eb-8384-4ad8-910c-8378e954a2b1.jpg?1661534268|https://scryfall.com/card/dmc/23/emperor-mihail-ii?utm_source=api>`
+   You may look at the top card of your library any time.
+
+   You may cast Merfolk spells from the top of your library.
+
+   Whenever you cast a Merfolk spell, you may pay |mana_1|. If you do, create a 1/1 blue Merfolk creature token.
+
+
+:mtgtip:`Activated Sleeper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/4/343d01cf-9806-4c2d-a993-ddc9ed248d7f.jpg?1661534361|https://scryfall.com/card/dmc/24/activated-sleeper?utm_source=api>`
+   Flash
+
+   You may have Activated Sleeper enter the battlefield as a copy of any creature card in a graveyard that was put there from the battelfield this turn, except it's a Phyrexian in addition to its other types.
+
+
+:mtgtip:`Rosnakht, Heir of Rohgahh<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/1/013e33d4-7d08-4773-a570-469ae3cf92f2.jpg?1661534478|https://scryfall.com/card/dmc/25/rosnakht-heir-of-rohgahh?utm_source=api>`
+   Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)
+
+   Heroic — Whenever you cast a spell that targets Rosnakht, Heir of Rohgahh, create a 0/1 red Kobold creature token named Kobolds of Kher Keep.
+
+
+:mtgtip:`Baru, Wurmspeaker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/c/2cae4149-d8ef-4772-9db4-cb576bef61b5.jpg?1661534582|https://scryfall.com/card/dmc/26/baru-wurmspeaker?utm_source=api>`
+   Wurms you control get +2/+2 and have trample.
+
+   |mana_7|\ |mana_g|, |tap|: Create a 4/4 green Wurm creature token. This ability costs |mana_x| less to activate, whre X is the greatest power among Wurms you control.
+
+
+:mtgtip:`Greensleeves, Maro-Sorcerer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/0969d7f3-cec5-4118-adb1-ff957eedf6ab.jpg?1661534664|https://scryfall.com/card/dmc/27/greensleeves-maro-sorcerer?utm_source=api>`
+   Protection from planeswalkers and from Wizards
+
+   Greensleeves, Maro-Sorcerer's power and toughness are each equal to the number of lands you control.
+
+   Whenever a land enters the battlefield under your control, create a 3/3 green Badger creature token.
+
+
+:mtgtip:`The Mana Rig<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/0/c0a6edbf-eabe-44d3-b098-562f3758c005.jpg?1661535318|https://scryfall.com/card/dmc/28/the-mana-rig?utm_source=api>`
+   Whenever you cast a multicolored spell, create a tapped Powerstone token. (It's an artifact with "|tap|, Add |colorless|. This mana can't be spent to cast a nonartifact spell.")
+
+   |mana_x|\ |mana_x|\ |mana_x|, |tap|: Look at the top X cards of your library. Put up to two of them into your hand and the rest on the bottom of your library in a random order.
+
+
 :mtgtip:`Ayesha Tanaka, Armorer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/a/dab74812-89c9-42e2-8b9d-bf5b35a7cf7e.jpg?1660929698|https://scryfall.com/card/dmc/29/ayesha-tanaka-armorer?utm_source=api>`
    Whenever Ayesha Tanaka, Armorer attacks, look at the top four cards of your library. You may put any number of artifact cards with mana value less than or equal to Ayesha's power from among them onto the battlefield tapped. Put the rest on the bottom of your library in a random order.
 
@@ -451,7 +503,7 @@
    Destroy target permanent. Its controller creates a 3/3 green Beast creature token.
 
 
-:mtgtip:`Cultivate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/d/6d204fda-c4c4-456c-900a-a67fa9ce3b5d.jpg?1661390955|https://scryfall.com/card/dmc/130/cultivate?utm_source=api>`
+:mtgtip:`Cultivate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/d/6d204fda-c4c4-456c-900a-a67fa9ce3b5d.jpg?1661551880|https://scryfall.com/card/dmc/130/cultivate?utm_source=api>`
    Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle.
 
 
@@ -587,6 +639,14 @@
 
 :mtgtip:`Growth Spiral<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/d/7d0ae655-c64e-470d-a7ae-e06b89c77e57.jpg?1661391553|https://scryfall.com/card/dmc/153/growth-spiral?utm_source=api>`
    Draw a card. You may put a land card from your hand onto the battlefield.
+
+
+:mtgtip:`Illuna, Apex of Wishes<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/d/0dfec692-66c8-4c90-8afa-095654011c3d.jpg?1661535007|https://scryfall.com/card/dmc/154/illuna-apex-of-wishes?utm_source=api>`
+   Mutate |mana_3|\ |mana_rg|\ |mana_u|\ |mana_u| (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+
+   Flying, trample
+
+   Whenever this creature mutates, exile cards from the top of your library until you exile a nonland permanent card. Put that card onto the battlefield or into your hand.
 
 
 :mtgtip:`Kaya's Wrath<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/0/20adee32-2144-44ad-a70c-ebfbda0900ec.jpg?1661391575|https://scryfall.com/card/dmc/155/kayas-wrath?utm_source=api>`
@@ -903,7 +963,7 @@
    Cinder Glade enters the battlefield tapped unless you control two or more basic lands.
 
 
-:mtgtip:`Command Tower<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/7/77a679dd-220c-4fbe-a158-a8db57f55b86.jpg?1661392426|https://scryfall.com/card/dmc/204/command-tower?utm_source=api>`
+:mtgtip:`Command Tower<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/7/77a679dd-220c-4fbe-a158-a8db57f55b86.jpg?1661550978|https://scryfall.com/card/dmc/204/command-tower?utm_source=api>`
    |tap|: Add one mana of any color in your commander's color identity.
 
 
@@ -931,6 +991,12 @@
 
 :mtgtip:`Exotic Orchard<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/d/ad281a0a-57ac-4285-aac7-244eb7b18601.jpg?1661392501|https://scryfall.com/card/dmc/209/exotic-orchard?utm_source=api>`
    |tap|: Add one mana of any color that a land an opponent controls could produce.
+
+
+:mtgtip:`Flood Plain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/3/83ccb446-3e8a-436e-99b5-a1b2d57ab72f.jpg?1661535061|https://scryfall.com/card/dmc/210/flood-plain?utm_source=api>`
+   Flood Plain enters the battlefield tapped.
+
+   |tap|, Sacrifice Flood Plain: Search your library for a Plains or Island card, put it onto the battlefield, then shuffle.
 
 
 :mtgtip:`Foreboding Ruins<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/e/be7a14d1-5846-492e-a41a-d5c2045c3cc7.jpg?1661392518|https://scryfall.com/card/dmc/211/foreboding-ruins?utm_source=api>`
