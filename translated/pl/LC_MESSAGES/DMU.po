@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2022.7\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-08-26 22:27+0200\n"
+"POT-Creation-Date: 2022-08-27 20:15+0200\n"
 "PO-Revision-Date: 2022-08-26 21:05+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dmu/pl/>\n"
@@ -366,7 +366,7 @@ msgstr ""
 #: ../../DMU.rst:46
 msgid ""
 ":mtgtip:`Argivian Phalanx<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/a/f/afbadc37-1b4f-4237-a3c0-772bafb18aa0.jpg?1661527705|"
+"border_crop/front/a/f/afbadc37-1b4f-4237-a3c0-772bafb18aa0.jpg?1661576907|"
 "https://scryfall.com/card/dmu/5/argivian-phalanx?utm_source=api>`"
 msgstr ""
 
@@ -482,8 +482,8 @@ msgstr ""
 #: ../../DMU.rst:317 ../../DMU.rst:355 ../../DMU.rst:409 ../../DMU.rst:441
 #: ../../DMU.rst:451 ../../DMU.rst:527 ../../DMU.rst:673 ../../DMU.rst:717
 #: ../../DMU.rst:769 ../../DMU.rst:1243 ../../DMU.rst:1275 ../../DMU.rst:1311
-#: ../../DMU.rst:1435 ../../DMU.rst:1459 ../../DMU.rst:1531 ../../DMU.rst:1615
-#: ../../DMU.rst:1635
+#: ../../DMU.rst:1435 ../../DMU.rst:1459 ../../DMU.rst:1541 ../../DMU.rst:1693
+#: ../../DMU.rst:1713
 msgid "Flying"
 msgstr "Latanie"
 
@@ -503,8 +503,8 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:87 ../../DMU.rst:259 ../../DMU.rst:271 ../../DMU.rst:303
-#: ../../DMU.rst:533 ../../DMU.rst:617 ../../DMU.rst:1045 ../../DMU.rst:1513
-#: ../../DMU.rst:1525
+#: ../../DMU.rst:533 ../../DMU.rst:617 ../../DMU.rst:1045 ../../DMU.rst:1517
+#: ../../DMU.rst:1535
 msgid "Defender"
 msgstr "Obronność"
 
@@ -617,17 +617,17 @@ msgstr ""
 #: ../../DMU.rst:138
 msgid ""
 ":mtgtip:`Heroic Charge<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/4/a/4aab611c-64e0-4b38-97b9-b29a1c6a79b7.jpg?1661529287|"
+"border_crop/front/4/a/4aab611c-64e0-4b38-97b9-b29a1c6a79b7.jpg?1661596916|"
 "https://scryfall.com/card/dmu/20/heroic-charge?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:135
+#: ../../DMU.rst:135 ../../DMU.rst:461
 msgid ""
 "Kicker |mana_1|\\ |mana_r| (You may pay an additional |mana_1|\\ |mana_r| as "
-"you cast this spell."
+"you cast this spell.)"
 msgstr ""
-"Podbicie |mana_1|\\ |mana_r| (Rzucając ten czar możesz dodatkowo zapłacić "
-"|mana_1|\\ |mana_r|.)"
+"Podbicie |mana_1|\\ |mana_r| (Rzucając ten czar możesz dodatkowo zapłacić |"
+"mana_1|\\ |mana_r|.)"
 
 #: ../../DMU.rst:137
 msgid ""
@@ -648,8 +648,8 @@ msgstr ""
 msgid ""
 "Untap up to two target creatures. They each get +2/+2 until end of turn."
 msgstr ""
-"Odkręć co najwyżej dwa wskazane stwory. Każdy z nich do końca tury dostaje +"
-"2/+2."
+"Odkręć co najwyżej dwa wskazane stwory. Każdy z nich do końca tury dostaje "
+"+2/+2."
 
 #: ../../DMU.rst:148
 msgid ""
@@ -973,13 +973,13 @@ msgstr ""
 msgid ""
 ":mtgtip:`Urza Assembles the Titans<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/1/0/10a544d7-ead7-42fd-a35a-c1b672771d5b.jpg?"
-"1661529479|https://scryfall.com/card/dmu/37/urza-assembles-the-titans?"
+"1661576960|https://scryfall.com/card/dmu/37/urza-assembles-the-titans?"
 "utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:245
 msgid ""
-"I—Scry 4, then you may reveal the topp card of your library. if a "
+"I—Scry 4, then you may reveal the top card of your library. if a "
 "planeswalker card is revealed this way, put it into your hand."
 msgstr ""
 
@@ -1004,7 +1004,7 @@ msgstr ""
 #: ../../DMU.rst:256
 msgid ""
 ":mtgtip:`Valiant Veteran<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/1/8/18b1a4ee-437f-4a08-b176-8342d526143f.jpg?1661358127|"
+"border_crop/front/1/8/18b1a4ee-437f-4a08-b176-8342d526143f.jpg?1661583373|"
 "https://scryfall.com/card/dmu/38/valiant-veteran?utm_source=api>`"
 msgstr ""
 
@@ -1197,7 +1197,7 @@ msgstr "Ilekroć rzucisz czar niebieskiego bytu, dobierz kartę."
 #: ../../DMU.rst:326
 msgid ""
 ":mtgtip:`Djinn of the Fountain<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/f/5/f55606da-de3e-4375-925b-cc16b03b6365.jpg?1661329777|"
+"border_crop/front/f/5/f55606da-de3e-4375-925b-cc16b03b6365.jpg?1661550900|"
 "https://scryfall.com/card/dmu/47/djinn-of-the-fountain?utm_source=api>`"
 msgstr ""
 
@@ -1224,7 +1224,7 @@ msgstr "Wróż 1."
 #: ../../DMU.rst:332
 msgid ""
 ":mtgtip:`Ertai's Scorn<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/6/1/6129b0d3-b50a-4a4b-9111-39f8fc6718dd.jpg?1661528287|"
+"border_crop/front/6/1/6129b0d3-b50a-4a4b-9111-39f8fc6718dd.jpg?1661540669|"
 "https://scryfall.com/card/dmu/48/ertais-scorn?utm_source=api>`"
 msgstr ""
 
@@ -1459,7 +1459,7 @@ msgstr ""
 #: ../../DMU.rst:414
 msgid ""
 ":mtgtip:`Pixie Illusionist<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/1/7/171bfcb2-dd43-4d63-b2e2-6ca594c2ec40.jpg?1661528466|"
+"border_crop/front/1/7/171bfcb2-dd43-4d63-b2e2-6ca594c2ec40.jpg?1661554738|"
 "https://scryfall.com/card/dmu/61/pixie-illusionist?utm_source=api>`"
 msgstr ""
 
@@ -1609,7 +1609,7 @@ msgstr ""
 #: ../../DMU.rst:454
 msgid ""
 ":mtgtip:`Talas Lookout<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/0/a/0a4b9afe-aeb7-4c56-8a22-96e19a7a938c.jpg?1661528652|"
+"border_crop/front/0/a/0a4b9afe-aeb7-4c56-8a22-96e19a7a938c.jpg?1661603586|"
 "https://scryfall.com/card/dmu/68/talas-lookout?utm_source=api>`"
 msgstr ""
 
@@ -1620,7 +1620,7 @@ msgstr ""
 #| "You may put that card into your graveyard."
 msgid ""
 "When Talas Lookout dies, look at the top two cards of your library. Put one "
-"of htem into your hand and the other into your graveyard."
+"of them into your hand and the other into your graveyard."
 msgstr ""
 "Na początku twojego kroku utrzymania spójrz na wierzchnią kartę twojej "
 "biblioteki. Możesz umieścić ową kartę w twoim cmentarzu."
@@ -1646,14 +1646,6 @@ msgid ""
 "border_crop/front/0/1/017a3c6b-9a1e-403a-9c20-2360090d39ee.jpg?1661193255|"
 "https://scryfall.com/card/dmu/70/timely-interference?utm_source=api>`"
 msgstr ""
-
-#: ../../DMU.rst:461
-msgid ""
-"Kicker |mana_1|\\ |mana_r| (You may pay an additional |mana_1|\\ |mana_r| as "
-"you cast this spell.)"
-msgstr ""
-"Podbicie |mana_1|\\ |mana_r| (Rzucając ten czar możesz dodatkowo zapłacić |"
-"mana_1|\\ |mana_r|.)"
 
 #: ../../DMU.rst:463
 msgid ""
@@ -1710,7 +1702,7 @@ msgstr ""
 #: ../../DMU.rst:486
 msgid ""
 ":mtgtip:`Voda Sea Scavenger<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/2/a/2a3cc789-cbb8-4dae-a749-af169832dd7b.jpg?1660952743|"
+"border_crop/front/2/a/2a3cc789-cbb8-4dae-a749-af169832dd7b.jpg?1661580166|"
 "https://scryfall.com/card/dmu/74/voda-sea-scavenger?utm_source=api>`"
 msgstr ""
 
@@ -1839,8 +1831,8 @@ msgid ""
 "Target creature gains deathtouch and indestructible until end of turn. "
 "(Damage and effects that say \"destroy\" don't destroy it.)"
 msgstr ""
-"Wskazany stwór do końca tury zyskuje dotyk śmierci i niezniszczalność. ("
-"Obrażenia i efekty mówiące \"zniszcz\" nie niszczą go.)"
+"Wskazany stwór do końca tury zyskuje dotyk śmierci i niezniszczalność. "
+"(Obrażenia i efekty mówiące \"zniszcz\" nie niszczą go.)"
 
 #: ../../DMU.rst:530
 msgid ""
@@ -1955,7 +1947,7 @@ msgstr "Wszystkie stwory dostają do końca tury -2/-2."
 #: ../../DMU.rst:574
 msgid ""
 ":mtgtip:`The Cruelty of Gix<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/3/d/3d6e5eb3-25ab-4e9e-96e8-655e0ce74675.jpg?1661530230|"
+"border_crop/front/3/d/3d6e5eb3-25ab-4e9e-96e8-655e0ce74675.jpg?1661531987|"
 "https://scryfall.com/card/dmu/87/the-cruelty-of-gix?utm_source=api>`"
 msgstr ""
 
@@ -2246,7 +2238,7 @@ msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę i strać 1 życie."
 #: ../../DMU.rst:652
 msgid ""
 ":mtgtip:`Phyrexian Vivisector<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/6/5/65617a8f-4bd8-4edb-b5ec-e20b4482390b.jpg?1661530561|"
+"border_crop/front/6/5/65617a8f-4bd8-4edb-b5ec-e20b4482390b.jpg?1661535122|"
 "https://scryfall.com/card/dmu/100/phyrexian-vivisector?utm_source=api>`"
 msgstr ""
 
@@ -2283,7 +2275,8 @@ msgstr ""
 msgid ""
 "|mana_1|, Sacrifice another creature: Phyrexian Warhorse gets +2/+1 until "
 "end of turn."
-msgstr "|mana_1|, poświęć innego stwora: Niniejszy do końca tury dostaje +2/+1."
+msgstr ""
+"|mana_1|, poświęć innego stwora: Niniejszy do końca tury dostaje +2/+1."
 
 #: ../../DMU.rst:664
 msgid ""
@@ -2580,7 +2573,7 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:757 ../../DMU.rst:785 ../../DMU.rst:887 ../../DMU.rst:1027
-#: ../../DMU.rst:1099 ../../DMU.rst:1105 ../../DMU.rst:1205 ../../DMU.rst:1641
+#: ../../DMU.rst:1099 ../../DMU.rst:1105 ../../DMU.rst:1205 ../../DMU.rst:1719
 msgid "Trample"
 msgstr "Tratowanie"
 
@@ -2733,7 +2726,7 @@ msgstr ""
 #: ../../DMU.rst:816
 msgid ""
 ":mtgtip:`Ghitu Amplifier<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/b/1/b1845806-7585-40d5-9d3a-f13667e6a9d2.jpg?1661529886|"
+"border_crop/front/b/1/b1845806-7585-40d5-9d3a-f13667e6a9d2.jpg?1661533204|"
 "https://scryfall.com/card/dmu/127/ghitu-amplifier?utm_source=api>`"
 msgstr ""
 
@@ -3089,7 +3082,7 @@ msgstr ""
 #: ../../DMU.rst:924
 msgid ""
 ":mtgtip:`Smash to Dust<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/7/4/747881c7-3788-4dd6-b78d-b2a5ded20e14.jpg?1661419822|"
+"border_crop/front/7/4/747881c7-3788-4dd6-b78d-b2a5ded20e14.jpg?1661533277|"
 "https://scryfall.com/card/dmu/144/smash-to-dust?utm_source=api>`"
 msgstr ""
 
@@ -3300,7 +3293,7 @@ msgstr ""
 #: ../../DMU.rst:1002
 msgid ""
 ":mtgtip:`Bite Down<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/0/e/0eacd3de-b803-4322-8d88-d533761aa748.jpg?1661530620|https://"
+"front/0/e/0eacd3de-b803-4322-8d88-d533761aa748.jpg?1661577161|https://"
 "scryfall.com/card/dmu/155/bite-down?utm_source=api>`"
 msgstr ""
 
@@ -3558,7 +3551,7 @@ msgstr ""
 #: ../../DMU.rst:1092
 msgid ""
 ":mtgtip:`Llanowar Stalker<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/e/2/e2d714d8-0e9b-4761-a0ef-3429b4e2f5b7.jpg?1661531006|"
+"border_crop/front/e/2/e2d714d8-0e9b-4761-a0ef-3429b4e2f5b7.jpg?1661585403|"
 "https://scryfall.com/card/dmu/171/llanowar-stalker?utm_source=api>`"
 msgstr ""
 
@@ -3651,7 +3644,7 @@ msgstr ""
 #: ../../DMU.rst:1130
 msgid ""
 ":mtgtip:`Silverback Elder<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/b/9/b987664f-0b74-4c0a-b306-14767a55559a.jpg?1661531034|"
+"border_crop/front/b/9/b987664f-0b74-4c0a-b306-14767a55559a.jpg?1661533257|"
 "https://scryfall.com/card/dmu/177/silverback-elder?utm_source=api>`"
 msgstr ""
 
@@ -3918,7 +3911,7 @@ msgstr ""
 #: ../../DMU.rst:1212
 msgid ""
 ":mtgtip:`Yavimaya Sojourner<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/c/7/c7fdb424-4d2c-437e-b2a2-8bc56c028338.jpg?1661413327|"
+"border_crop/front/c/7/c7fdb424-4d2c-437e-b2a2-8bc56c028338.jpg?1661533297|"
 "https://scryfall.com/card/dmu/191/yavimaya-sojourner?utm_source=api>`"
 msgstr ""
 
@@ -3996,7 +3989,7 @@ msgstr ""
 msgid ""
 ":mtgtip:`Baird, Argivian Recruiter<https://c1.scryfall.com/file/scryfall-"
 "cards/border_crop/front/1/f/1f643d78-d8d8-4645-9357-a68ebd0d3517.jpg?"
-"1661530918|https://scryfall.com/card/dmu/195/baird-argivian-recruiter?"
+"1661535139|https://scryfall.com/card/dmu/195/baird-argivian-recruiter?"
 "utm_source=api>`"
 msgstr ""
 
@@ -4093,15 +4086,16 @@ msgstr ""
 
 #: ../../DMU.rst:1272
 msgid ""
-":mtgtip:`\"Garna, Aggro Champ\"<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/2/9/294c5f08-08e7-458f-8838-ff321dc5d9f2.jpg?1661531126|"
-"https://scryfall.com/card/dmu/200/garna-aggro-champ?utm_source=api>`"
+":mtgtip:`Garna, Bloodfist of Keld<https://c1.scryfall.com/file/scryfall-"
+"cards/border_crop/front/2/9/294c5f08-08e7-458f-8838-ff321dc5d9f2.jpg?"
+"1661531126|https://scryfall.com/card/dmu/200/garna-bloodfist-of-keld?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:1271
 msgid ""
 "Whenever another creature you control dies, draw a card if it was attacking. "
-"Otherwise, \"Garna, Aggro Champ\" deals 1 damage to each opponent."
+"Otherwise, Garna, Bloodfist of Keld deals 1 damage to each opponent."
 msgstr ""
 
 #: ../../DMU.rst:1278
@@ -4770,7 +4764,7 @@ msgstr ""
 #: ../../DMU.rst:1490
 msgid ""
 ":mtgtip:`Jodah's Codex<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/d/6/d636da1e-4cc6-40a1-bd83-cc0dd761b1cc.jpg?1661384583|"
+"border_crop/front/d/6/d636da1e-4cc6-40a1-bd83-cc0dd761b1cc.jpg?1661533139|"
 "https://scryfall.com/card/dmu/233/jodahs-codex?utm_source=api>`"
 msgstr ""
 
@@ -4807,8 +4801,9 @@ msgstr ""
 
 #: ../../DMU.rst:1504
 msgid ""
-":mtgtip:`Meteorite<https://c2.scryfall.com/file/scryfall-errors/soon.jpg|"
-"https://scryfall.com/card/dmu/235/meteorite?utm_source=api>`"
+":mtgtip:`Meteorite<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
+"front/3/3/33eb2032-50af-4fd6-bdc7-7cae2211956c.jpg?1661531256|https://"
+"scryfall.com/card/dmu/235/meteorite?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:1501
@@ -4828,14 +4823,31 @@ msgid ""
 "Tap an untapped legendary creature you control: Add one mana of any color."
 msgstr ""
 
-#: ../../DMU.rst:1516
+#: ../../DMU.rst:1514
+msgid ""
+":mtgtip:`Salvaged Manaworker<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/5/f/5fc22ecb-5d87-464e-8c7d-5d40a52e1e4f.jpg?1661540804|"
+"https://scryfall.com/card/dmu/237/salvaged-manaworker?utm_source=api>`"
+msgstr ""
+
+#: ../../DMU.rst:1513
+#, fuzzy
+#| msgid ""
+#| "|tap|: Add |mana_u|. Spend this mana only to cast an instant or sorcery "
+#| "spell or a kicked spell."
+msgid "|mana_1|: Add one mana of any color. Activate only once each turn."
+msgstr ""
+"|tap|: Weź |mana_u|. Wydaj tę manę tylko na rzucenie czaru sztuczki lub "
+"obrzędu lub podbitego czaru."
+
+#: ../../DMU.rst:1520
 msgid ""
 ":mtgtip:`Shield-Wall Sentinel<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/7/e/7e57e1d7-da1d-4a2b-867f-85b8331b7bbc.jpg?1661358938|"
+"border_crop/front/7/e/7e57e1d7-da1d-4a2b-867f-85b8331b7bbc.jpg?1661533015|"
 "https://scryfall.com/card/dmu/238/shield-wall-sentinel?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:1515
+#: ../../DMU.rst:1519
 msgid ""
 "When Shield-Wall Sentinel enters the battlefield, you may search your "
 "library for a creature card with defender, reveal it, put it into your hand, "
@@ -4845,105 +4857,246 @@ msgstr ""
 "kartę stwora z obronnością, ujawnij ją, umieść ją w twojej ręce, po czym "
 "przetasuj."
 
-#: ../../DMU.rst:1522
+#: ../../DMU.rst:1526
 msgid ""
 ":mtgtip:`Timeless Lotus<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/6/f/6f566387-3342-4325-ba4c-eee7626072ac.jpg?1661231200|"
 "https://scryfall.com/card/dmu/239/timeless-lotus?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:1519
+#: ../../DMU.rst:1523
 msgid "Timeless Lotus enters the battlefield tapped."
 msgstr ""
 
-#: ../../DMU.rst:1521
+#: ../../DMU.rst:1525
 #, fuzzy
 #| msgid ""
 #| "|tap|: Add |mana_w| or |mana_u|. Adarkar Wastes deals 1 damage to you."
 msgid "|tap|: Add |mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|."
 msgstr "|tap|: Weź |mana_w| lub |mana_u|. Ten ląd zadaje tobie 1 obrażenie."
 
-#: ../../DMU.rst:1528
+#: ../../DMU.rst:1532
+msgid ""
+":mtgtip:`Vanquisher's Axe<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/a/e/aef37244-deb9-464e-ab8c-4308369ae09b.jpg?1661533042|"
+"https://scryfall.com/card/dmu/240/vanquishers-axe?utm_source=api>`"
+msgstr ""
+
+#: ../../DMU.rst:1529
+#, fuzzy
+#| msgid "Equipped creature gets +2/+1."
+msgid "Equipped creature gets +2/+0."
+msgstr "Wyposażony stwór dostaje +2/+1."
+
+#: ../../DMU.rst:1531
+msgid ""
+"Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip only "
+"as a sorcery.)"
+msgstr ""
+
+#: ../../DMU.rst:1538
 msgid ""
 ":mtgtip:`Walking Bulwark<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/6/0/602d163c-d341-4b3b-9d3c-5d3419e9b10b.jpg?1661187546|"
 "https://scryfall.com/card/dmu/241/walking-bulwark?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:1527
+#: ../../DMU.rst:1537
 msgid ""
 "|mana_2|: Until end of turn, target creature with defender gains haste, can "
 "attack as though it didn't have defender, and assigns combat damage equal to "
 "its toughness rather than its power. Activate only as a sorcery."
 msgstr ""
 
-#: ../../DMU.rst:1536
+#: ../../DMU.rst:1546
 msgid ""
 ":mtgtip:`Weatherlight Compleated<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/9/7/976fd9d9-a9b5-40b6-ad38-4b3b263e1ebc.jpg?1661189601|"
 "https://scryfall.com/card/dmu/242/weatherlight-compleated?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:1533
+#: ../../DMU.rst:1543
 msgid ""
 "As long as Weatherlight Compleated has four or more phyresis counters on it, "
 "it's a Phyrexian creature in addition to its other types."
 msgstr ""
 
-#: ../../DMU.rst:1535
+#: ../../DMU.rst:1545
 msgid ""
 "Whenever a creature you control dies, put a phyresis counter on Weatherlight "
 "Compleated. Then draw a card if it has seven or more phyresis counters on "
 "it. If it doesn't, scry 1."
 msgstr ""
 
-#: ../../DMU.rst:1542
+#: ../../DMU.rst:1552
 msgid ""
 ":mtgtip:`Adarkar Wastes<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/0/8/08ae1037-6f70-41a9-b75e-98fa9a2152c8.jpg?1660843967|"
 "https://scryfall.com/card/dmu/243/adarkar-wastes?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:1539 ../../DMU.rst:1545 ../../DMU.rst:1551 ../../DMU.rst:1557
-#: ../../DMU.rst:1567 ../../DMU.rst:1573 ../../DMU.rst:1589
+#: ../../DMU.rst:1549 ../../DMU.rst:1555 ../../DMU.rst:1569 ../../DMU.rst:1593
+#: ../../DMU.rst:1605 ../../DMU.rst:1627 ../../DMU.rst:1633 ../../DMU.rst:1667
 msgid "|tap|: Add |colorless|."
 msgstr "|tap|: Weź |colorless|."
 
-#: ../../DMU.rst:1541
+#: ../../DMU.rst:1551
 msgid "|tap|: Add |mana_w| or |mana_u|. Adarkar Wastes deals 1 damage to you."
 msgstr "|tap|: Weź |mana_w| lub |mana_u|. Ten ląd zadaje tobie 1 obrażenie."
 
-#: ../../DMU.rst:1548
+#: ../../DMU.rst:1558
 msgid ""
 ":mtgtip:`Caves of Koilos<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/9/9/99264beb-2149-4cd4-9880-f0dc5c570c1b.jpg?1660843703|"
 "https://scryfall.com/card/dmu/244/caves-of-koilos?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:1547
+#: ../../DMU.rst:1557
 msgid "|tap|: Add |mana_w| or |mana_b|. Caves of Koilos deals 1 damage to you."
 msgstr "|tap|: Weź |mana_w| lub |mana_b|. Ten ląd zadaje tobie 1 obrażenie."
 
-#: ../../DMU.rst:1554
+#: ../../DMU.rst:1564
+msgid ""
+":mtgtip:`Contaminated Aquifer<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/6/b/6bb570f4-de68-4d8c-a9f3-8a3294163aa8.jpg?1661540014|"
+"https://scryfall.com/card/dmu/245/contaminated-aquifer?utm_source=api>`"
+msgstr ""
+
+#: ../../DMU.rst:1561
+#, fuzzy
+#| msgid "(|tap|: Add |mana_b|.)"
+msgid "(|tap|: Add |mana_u| or |mana_b|.)"
+msgstr "(|tap|: Weź |mana_b|.)"
+
+#: ../../DMU.rst:1563
+#, fuzzy
+#| msgid "Karn's Sylex enters the battlefield tapped."
+msgid "Contaminated Aquifer enters the battlefield tapped."
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
+
+#: ../../DMU.rst:1572
+msgid ""
+":mtgtip:`Crystal Grotto<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/b/d/bd250c9d-c65f-4293-a6b0-007fac634d3d.jpg?1661539894|"
+"https://scryfall.com/card/dmu/246/crystal-grotto?utm_source=api>`"
+msgstr ""
+
+#: ../../DMU.rst:1567
+#, fuzzy
+#| msgid ""
+#| "Whenever Samite Herbalist becomes tapped, you gain 1 life and scry 1. "
+#| "(Look at the top card of your library. You may put that card on the "
+#| "bottom of your library.)"
+msgid ""
+"When Crystal Grotto enters the battlefield, scry 1. (Look at the top card of "
+"your library. You may put that card on the bottom of your library.)"
+msgstr ""
+"Ilekroć ten byt zostanie przekręcony, zyskaj 1 życie i wróż 1. (Spójrz na "
+"wierzchnią kartę twojej biblioteki. Możesz umieścić ową kartę na spodzie "
+"twojej biblioteki.)"
+
+#: ../../DMU.rst:1571
+#, fuzzy
+#| msgid "|tap|: Add one mana of any color."
+msgid "|mana_1|, |tap|: Add one mana of any color."
+msgstr "|tap|: Weź jedną manę dowolnego koloru."
+
+#: ../../DMU.rst:1578
+msgid ""
+":mtgtip:`Geothermal Bog<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/1/e/1e62fe57-4fa4-4bfd-8e31-9f6db774d7e2.jpg?1661540102|"
+"https://scryfall.com/card/dmu/247/geothermal-bog?utm_source=api>`"
+msgstr ""
+
+#: ../../DMU.rst:1575
+#, fuzzy
+#| msgid "(|tap|: Add |mana_r|.)"
+msgid "(|tap|: Add |mana_b| or |mana_r|.)"
+msgstr "(|tap|: Weź |mana_r|.)"
+
+#: ../../DMU.rst:1577
+#, fuzzy
+#| msgid "Karn's Sylex enters the battlefield tapped."
+msgid "Geothermal Bog enters the battlefield tapped."
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
+
+#: ../../DMU.rst:1584
+msgid ""
+":mtgtip:`Haunted Mire<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/1/6/16f5e958-56e6-4666-a534-24deba6f652d.jpg?1661540154|"
+"https://scryfall.com/card/dmu/248/haunted-mire?utm_source=api>`"
+msgstr ""
+
+#: ../../DMU.rst:1581
+#, fuzzy
+#| msgid "(|tap|: Add |mana_g|.)"
+msgid "(|tap|: Add |mana_b| or |mana_g|.)"
+msgstr "(|tap|: Weź |mana_g|.)"
+
+#: ../../DMU.rst:1583
+#, fuzzy
+#| msgid "Karn's Sylex enters the battlefield tapped."
+msgid "Haunted Mire enters the battlefield tapped."
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
+
+#: ../../DMU.rst:1590
+msgid ""
+":mtgtip:`Idyllic Beachfront<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/c/5/c50ec22c-decb-419f-ae52-78ea1706eb11.jpg?1661540207|"
+"https://scryfall.com/card/dmu/249/idyllic-beachfront?utm_source=api>`"
+msgstr ""
+
+#: ../../DMU.rst:1587
+#, fuzzy
+#| msgid "(|tap|: Add |mana_u|.)"
+msgid "(|tap|: Add |mana_w| or |mana_u|.)"
+msgstr "(|tap|: Weź |mana_u|.)"
+
+#: ../../DMU.rst:1589
+#, fuzzy
+#| msgid "Karn's Sylex enters the battlefield tapped."
+msgid "Idyllic Beachfront enters the battlefield tapped."
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
+
+#: ../../DMU.rst:1596
 msgid ""
 ":mtgtip:`Karplusan Forest<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/b/8/b89b2c79-e3d3-4ef9-bfc8-f9c090975011.jpg?1660843816|"
 "https://scryfall.com/card/dmu/250/karplusan-forest?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:1553
+#: ../../DMU.rst:1595
 msgid ""
 "|tap|: Add |mana_r| or |mana_g|. Karplusan Forest deals 1 damage to you."
 msgstr "|tap|: Weź |mana_r| lub |mana_g|. Ten ląd zadaje tobie 1 obrażenie."
 
-#: ../../DMU.rst:1564
+#: ../../DMU.rst:1602
+msgid ""
+":mtgtip:`Molten Tributary<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/2/0/20aff4af-5128-432f-a8c8-65b6909d31ac.jpg?1661540256|"
+"https://scryfall.com/card/dmu/251/molten-tributary?utm_source=api>`"
+msgstr ""
+
+#: ../../DMU.rst:1599
+#, fuzzy
+#| msgid "(|tap|: Add |mana_r|.)"
+msgid "(|tap|: Add |mana_u| or |mana_r|.)"
+msgstr "(|tap|: Weź |mana_r|.)"
+
+#: ../../DMU.rst:1601
+#, fuzzy
+#| msgid "Karn's Sylex enters the battlefield tapped."
+msgid "Molten Tributary enters the battlefield tapped."
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
+
+#: ../../DMU.rst:1612
 msgid ""
 ":mtgtip:`Plaza of Heroes<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/a/2/a2cfcf67-f83c-43af-9e2d-5513fcdde835.jpg?1661025354|"
 "https://scryfall.com/card/dmu/252/plaza-of-heroes?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:1559
+#: ../../DMU.rst:1607
 #, fuzzy
 #| msgid ""
 #| "|tap|: Add |mana_u|. Spend this mana only to cast an instant or sorcery "
@@ -4955,14 +5108,14 @@ msgstr ""
 "|tap|: Weź |mana_u|. Wydaj tę manę tylko na rzucenie czaru sztuczki lub "
 "obrzędu lub podbitego czaru."
 
-#: ../../DMU.rst:1561
+#: ../../DMU.rst:1609
 msgid ""
 "|tap|: Add one mana of any color among legendary permanents you control."
 msgstr ""
 "|tap|: Weź jedną manę dowolnego koloru spośród legendarnych bytów pod twoim "
 "władaniem."
 
-#: ../../DMU.rst:1563
+#: ../../DMU.rst:1611
 msgid ""
 "|mana_3|, |tap|, Exile Plaza of Heroes: Target legendary creature gains "
 "hexproof and indestructible until end of turn."
@@ -4970,37 +5123,113 @@ msgstr ""
 "|mana_3|, |tap|, wygnaj ten byt: Wskazany legendarny stwór do końca tury "
 "zyskuje antyklątwę i niezniszczalność."
 
-#: ../../DMU.rst:1570
+#: ../../DMU.rst:1618
+msgid ""
+":mtgtip:`Radiant Grove<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/e/0/e0f9dca6-e5ae-4714-8a59-2ef1d8f1e82d.jpg?1661540312|"
+"https://scryfall.com/card/dmu/253/radiant-grove?utm_source=api>`"
+msgstr ""
+
+#: ../../DMU.rst:1615
+#, fuzzy
+#| msgid "(|tap|: Add |mana_w|.)"
+msgid "(|tap|: Add |mana_g| or |mana_w|.)"
+msgstr "(|tap|: Weź |mana_w|.)"
+
+#: ../../DMU.rst:1617
+#, fuzzy
+#| msgid "Karn's Sylex enters the battlefield tapped."
+msgid "Radiant Grove enters the battlefield tapped."
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
+
+#: ../../DMU.rst:1624
+msgid ""
+":mtgtip:`Sacred Peaks<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/2/4/24957d64-ad17-4d4f-8a00-3cdd83e1ce88.jpg?1661540361|"
+"https://scryfall.com/card/dmu/254/sacred-peaks?utm_source=api>`"
+msgstr ""
+
+#: ../../DMU.rst:1621
+#, fuzzy
+#| msgid "(|tap|: Add |mana_w|.)"
+msgid "(|tap|: Add |mana_r| or |mana_w|.)"
+msgstr "(|tap|: Weź |mana_w|.)"
+
+#: ../../DMU.rst:1623
+#, fuzzy
+#| msgid "Karn's Sylex enters the battlefield tapped."
+msgid "Sacred Peaks enters the battlefield tapped."
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
+
+#: ../../DMU.rst:1630
 msgid ""
 ":mtgtip:`Shivan Reef<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/a/3/a338107b-0960-4496-a9a5-f7b672e7c043.jpg?1660843760|https://"
 "scryfall.com/card/dmu/255/shivan-reef?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:1569
+#: ../../DMU.rst:1629
 msgid "|tap|: Add |mana_u| or |mana_r|. Shivan Reef deals 1 damage to you."
 msgstr "|tap|: Weź |mana_u| lub |mana_r|. Ten ląd zadaje tobie 1 obrażenie."
 
-#: ../../DMU.rst:1576
+#: ../../DMU.rst:1636
 msgid ""
 ":mtgtip:`Sulfurous Springs<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/d/f/dfd5450a-6490-417f-9aea-b6fca6f380d7.jpg?1660843898|"
 "https://scryfall.com/card/dmu/256/sulfurous-springs?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:1575
+#: ../../DMU.rst:1635
 msgid ""
 "|tap|: Add |mana_b| or |mana_r|. Sulfurous Springs deals 1 damage to you."
 msgstr "|tap|: Weź |mana_b| lub |mana_r|. Ten ląd zadaje tobie 1 obrażenie."
 
-#: ../../DMU.rst:1586
+#: ../../DMU.rst:1642
+msgid ""
+":mtgtip:`Sunlit Marsh<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/f/0/f0588fbf-3c05-452a-b3f7-67604c1f921d.jpg?1661540401|"
+"https://scryfall.com/card/dmu/257/sunlit-marsh?utm_source=api>`"
+msgstr ""
+
+#: ../../DMU.rst:1639
+#, fuzzy
+#| msgid "(|tap|: Add |mana_b|.)"
+msgid "(|tap|: Add |mana_w| or |mana_b|.)"
+msgstr "(|tap|: Weź |mana_b|.)"
+
+#: ../../DMU.rst:1641
+#, fuzzy
+#| msgid "Karn's Sylex enters the battlefield tapped."
+msgid "Sunlit Marsh enters the battlefield tapped."
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
+
+#: ../../DMU.rst:1648
+msgid ""
+":mtgtip:`Tangled Islet<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/4/a/4a325fb4-fe71-47f1-9a2f-05b8cfe88fe6.jpg?1661540457|"
+"https://scryfall.com/card/dmu/258/tangled-islet?utm_source=api>`"
+msgstr ""
+
+#: ../../DMU.rst:1645
+#, fuzzy
+#| msgid "(|tap|: Add |mana_u|.)"
+msgid "(|tap|: Add |mana_g| or |mana_u|.)"
+msgstr "(|tap|: Weź |mana_u|.)"
+
+#: ../../DMU.rst:1647
+#, fuzzy
+#| msgid "Karn's Sylex enters the battlefield tapped."
+msgid "Tangled Islet enters the battlefield tapped."
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
+
+#: ../../DMU.rst:1658
 msgid ""
 ":mtgtip:`Thran Portal<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/e/f/ef074a2e-a387-4af8-a180-74b145d93992.jpg?1661358003|"
+"border_crop/front/e/f/ef074a2e-a387-4af8-a180-74b145d93992.jpg?1661586752|"
 "https://scryfall.com/card/dmu/259/thran-portal?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:1579
+#: ../../DMU.rst:1651
 #, fuzzy
 #| msgid ""
 #| "Whenever another creature enters the battlefield under your control, you "
@@ -5011,92 +5240,111 @@ msgid ""
 msgstr ""
 "Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, zyskaj 1 życie."
 
-#: ../../DMU.rst:1581
+#: ../../DMU.rst:1653
 msgid "As Thran Portal enters the battlefield, choose a basic land type."
 msgstr "Przy wejściu tego bytu na pole bitwy wybierz bazowy typ lądu."
 
-#: ../../DMU.rst:1583
+#: ../../DMU.rst:1655
 msgid "Thran Portal is the chosen type in addition to its other types."
 msgstr ""
 
-#: ../../DMU.rst:1585
+#: ../../DMU.rst:1657
 msgid "Mana abilities of Thran Portal cost an additional 1 life to activate."
 msgstr ""
 
-#: ../../DMU.rst:1592
+#: ../../DMU.rst:1664
+msgid ""
+":mtgtip:`Wooded Ridgeline<https://c1.scryfall.com/file/scryfall-cards/"
+"border_crop/front/e/8/e8e31184-dca4-48b1-be9d-581247c41d99.jpg?1661540501|"
+"https://scryfall.com/card/dmu/260/wooded-ridgeline?utm_source=api>`"
+msgstr ""
+
+#: ../../DMU.rst:1661
+#, fuzzy
+#| msgid "(|tap|: Add |mana_g|.)"
+msgid "(|tap|: Add |mana_r| or |mana_g|.)"
+msgstr "(|tap|: Weź |mana_g|.)"
+
+#: ../../DMU.rst:1663
+#, fuzzy
+#| msgid "Karn's Sylex enters the battlefield tapped."
+msgid "Wooded Ridgeline enters the battlefield tapped."
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
+
+#: ../../DMU.rst:1670
 msgid ""
 ":mtgtip:`Yavimaya Coast<https://c1.scryfall.com/file/scryfall-cards/"
 "border_crop/front/0/e/0ed6c8b0-f154-4678-89d0-9869864ead8d.jpg?1660887347|"
 "https://scryfall.com/card/dmu/261/yavimaya-coast?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:1591
+#: ../../DMU.rst:1669
 msgid "|tap|: Add |mana_g| or |mana_u|. Yavimaya Coast deals 1 damage to you."
 msgstr "|tap|: Weź |mana_g| lub |mana_u|. Ten ląd zadaje tobie 1 obrażenie."
 
-#: ../../DMU.rst:1596
+#: ../../DMU.rst:1674
 msgid ""
 ":mtgtip:`Plains<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/5/8/5822b027-369d-46da-b6dd-c31207e2f449.jpg?1660950881|https://"
 "scryfall.com/card/dmu/262/plains?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:1595
+#: ../../DMU.rst:1673
 msgid "(|tap|: Add |mana_w|.)"
 msgstr "(|tap|: Weź |mana_w|.)"
 
-#: ../../DMU.rst:1600
+#: ../../DMU.rst:1678
 msgid ""
 ":mtgtip:`Island<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/8/b/8bafc217-3d83-4551-b2e3-3494ec14b2f9.jpg?1660950973|https://"
 "scryfall.com/card/dmu/265/island?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:1599
+#: ../../DMU.rst:1677
 msgid "(|tap|: Add |mana_u|.)"
 msgstr "(|tap|: Weź |mana_u|.)"
 
-#: ../../DMU.rst:1604
+#: ../../DMU.rst:1682
 msgid ""
 ":mtgtip:`Swamp<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/5/a/5a846f00-ccb9-4ee2-8358-7c7722258601.jpg?1660951065|https://"
 "scryfall.com/card/dmu/268/swamp?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:1603
+#: ../../DMU.rst:1681
 msgid "(|tap|: Add |mana_b|.)"
 msgstr "(|tap|: Weź |mana_b|.)"
 
-#: ../../DMU.rst:1608
+#: ../../DMU.rst:1686
 msgid ""
 ":mtgtip:`Mountain<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/a/8/a82f782e-abc8-4b92-a193-17b2c383f765.jpg?1660951177|https://"
 "scryfall.com/card/dmu/271/mountain?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:1607
+#: ../../DMU.rst:1685
 msgid "(|tap|: Add |mana_r|.)"
 msgstr "(|tap|: Weź |mana_r|.)"
 
-#: ../../DMU.rst:1612
+#: ../../DMU.rst:1690
 msgid ""
 ":mtgtip:`Forest<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
 "front/5/2/52097f6a-58d3-4176-b3bf-dc94f44adf30.jpg?1660951232|https://"
 "scryfall.com/card/dmu/274/forest?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:1611
+#: ../../DMU.rst:1689
 msgid "(|tap|: Add |mana_g|.)"
 msgstr "(|tap|: Weź |mana_g|.)"
 
-#: ../../DMU.rst:1618
+#: ../../DMU.rst:1696
 msgid ""
 ":mtgtip:`Serra Redeemer<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/a/8/a8b9cb5c-29f2-46ed-803e-c2170955217c.jpg?1661384715|"
+"border_crop/front/a/8/a8b9cb5c-29f2-46ed-803e-c2170955217c.jpg?1661557706|"
 "https://scryfall.com/card/dmu/282/serra-redeemer?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:1617
+#: ../../DMU.rst:1695
 msgid ""
 "Whenever another creature with power 2 or less enters the battlefield under "
 "your control, put two +1/+1 counters on that creature."
@@ -5104,14 +5352,14 @@ msgstr ""
 "Ilekroć inny ten stwór z siłą 2 lub mniejszą wejdzie na pole bitwy pod twoim "
 "władaniem, umieść na owym stworze dwa znaczniki +1/+1."
 
-#: ../../DMU.rst:1622
+#: ../../DMU.rst:1700
 msgid ""
 ":mtgtip:`Cosmic Epiphany<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/7/9/79718dbe-d5d6-4f24-b514-5c392963f021.jpg?1661385232|"
+"border_crop/front/7/9/79718dbe-d5d6-4f24-b514-5c392963f021.jpg?1661557712|"
 "https://scryfall.com/card/dmu/283/cosmic-epiphany?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:1621
+#: ../../DMU.rst:1699
 #, fuzzy
 #| msgid ""
 #| "Haughty Djinn's power is equal to the number of instant and sorcery cards "
@@ -5122,18 +5370,18 @@ msgid ""
 msgstr ""
 "Siła tej karty jest równa liczbie kart sztuczek i obrzędów w twoim cmentarzu."
 
-#: ../../DMU.rst:1632
+#: ../../DMU.rst:1710
 msgid ""
 ":mtgtip:`Tyrannical Pitlord<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/0/2/027ef1fc-4a7a-465c-9c25-dc19c771b5f5.jpg?1661385436|"
+"border_crop/front/0/2/027ef1fc-4a7a-465c-9c25-dc19c771b5f5.jpg?1661557718|"
 "https://scryfall.com/card/dmu/284/tyrannical-pitlord?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:1625
+#: ../../DMU.rst:1703
 msgid "Flying, trample"
 msgstr "Latanie, tratowanie"
 
-#: ../../DMU.rst:1627
+#: ../../DMU.rst:1705
 msgid ""
 "As Tyrannical Pitlord enters the battlefield, choose another creature you "
 "control."
@@ -5141,37 +5389,37 @@ msgstr ""
 "Przy wejściu tego bytu na pole bitwy wybierz innego stwora pod twoim "
 "władaniem."
 
-#: ../../DMU.rst:1629
+#: ../../DMU.rst:1707
 msgid "Those chosen creature gets +3/+3 and has flying."
 msgstr ""
 
-#: ../../DMU.rst:1631
+#: ../../DMU.rst:1709
 msgid ""
 "When Tyrannical Pitlord leaves the battlefield, sacrifice the chosen "
 "creature."
 msgstr "Kiedy ten byt opuszcza pole bitwy, poświęć owego wybranego stwora."
 
-#: ../../DMU.rst:1638
+#: ../../DMU.rst:1716
 msgid ""
 ":mtgtip:`Ragefire Hellkite<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/2/3/23ccd68d-0162-4a4c-892e-1726b8b28612.jpg?1661385886|"
+"border_crop/front/2/3/23ccd68d-0162-4a4c-892e-1726b8b28612.jpg?1661557724|"
 "https://scryfall.com/card/dmu/285/ragefire-hellkite?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:1637
+#: ../../DMU.rst:1715
 msgid ""
 "Whenever Ragefire Hellkite attacks, you may sacrifice another creature. If "
 "you do, Ragefire Hellkite gains double strike until end of turn."
 msgstr ""
 
-#: ../../DMU.rst:1643
+#: ../../DMU.rst:1721
 msgid ""
 ":mtgtip:`Briar Hydra<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/3/9/390fd5d1-3ce9-456e-b130-30ad0557f4cf.jpg?1661386009|https://"
+"front/3/9/390fd5d1-3ce9-456e-b130-30ad0557f4cf.jpg?1661557729|https://"
 "scryfall.com/card/dmu/286/briar-hydra?utm_source=api>`"
 msgstr ""
 
-#: ../../DMU.rst:1643
+#: ../../DMU.rst:1721
 #, fuzzy
 #| msgid ""
 #| "Domain — Territorial Maro's power and toughness are each equal to twice "
@@ -5183,3 +5431,10 @@ msgid ""
 msgstr ""
 "Domena — Siła i wytrzymałość tej karty są obie równe dwukrotności liczby "
 "bazowych typów lądu pośród lądów pod twoim władaniem."
+
+#~ msgid ""
+#~ "Kicker |mana_1|\\ |mana_r| (You may pay an additional |mana_1|\\ |mana_r| "
+#~ "as you cast this spell."
+#~ msgstr ""
+#~ "Podbicie |mana_1|\\ |mana_r| (Rzucając ten czar możesz dodatkowo zapłacić "
+#~ "|mana_1|\\ |mana_r|.)"
