@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2022.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-27 15:31+0200\n"
-"PO-Revision-Date: 2022-08-26 21:05+0000\n"
+"PO-Revision-Date: 2022-08-27 18:40+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dmc/pl/>\n"
 "Language: pl\n"
@@ -652,28 +652,20 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:151
-#, fuzzy
-#| msgid ""
-#| "Whenever a legendary creature enters the battlefield under your control, "
-#| "you may attach Hero's Blade to it."
 msgid ""
 "Whenever Historian's Boon or another nontoken enchantment enters the "
 "battlefield under your control, create a 1/1 white Soldier creature token."
 msgstr ""
-"Ilekroć legendarny stwór wejdzie na pole bitwy pod twoim władaniem możesz "
-"dołączyć do niego ten artefakt."
+"Ilekroć ten byt lub inny nieżetonowy urok wejdzie na pole bitwy pod twoim "
+"władaniem, stwórz żeton białego stwora Piechur 1/1."
 
 #: ../../DMC.rst:153
-#, fuzzy
-#| msgid ""
-#| "Whenever you cast a legendary spell, create a 2/2 white Knight creature "
-#| "token with vigilance."
 msgid ""
 "Whenever the final chapter of a Saga you control triggers, create a 4/4 "
 "white Angel creature token with flying and vigilance."
 msgstr ""
-"Ilekroć rzucisz legendarny czar, stwórz żeton białego stwora Rycerz 2/2 z "
-"czujnością."
+"Ilekroć wyzwolony zostanie ostatni rozdział Sagi pod twoim władaniem, stwórz "
+"żeton białego stwora Anioł 4/4 z lataniem i czujnością."
 
 #: ../../DMC.rst:160
 msgid ""
@@ -702,22 +694,19 @@ msgstr ""
 #: ../../DMC.rst:163
 msgid "You may look at the top card of your library any time."
 msgstr ""
+"Możesz patrzeć na wierzchnią kartę twojej biblioteki w dowolnym momencie."
 
 #: ../../DMC.rst:165
 msgid "You may cast Merfolk spells from the top of your library."
 msgstr ""
 
 #: ../../DMC.rst:167
-#, fuzzy
-#| msgid ""
-#| "Whenever you cast a creature spell, you may discard a card. If you do, "
-#| "draw a card."
 msgid ""
 "Whenever you cast a Merfolk spell, you may pay |mana_1|. If you do, create a "
 "1/1 blue Merfolk creature token."
 msgstr ""
-"Ilekroć rzucisz czar stwora, możesz odrzucić kartę. Jeśli tak zrobisz, "
-"dobierz kartę."
+"Ilekroć rzucisz czar Wodnika, możesz zapłacić |mana_1|. Jeśli tak zrobisz, "
+"stwórz żeton niebieskiego stwora Wodnik 1/1."
 
 #: ../../DMC.rst:174
 msgid ""
@@ -742,14 +731,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:177
-#, fuzzy
-#| msgid ""
-#| "Whenever you sacrifice a Treasure, Captain Lannery Storm gets +1/+0 until "
-#| "end of turn."
 msgid ""
 "Battle cry (Whenever this creature attacks, each other attacking creature "
 "gets +1/+0 until end of turn.)"
-msgstr "Ilekroć poświęcisz Skarb, ten stwór do końca tury dostaje +1/+0."
+msgstr ""
+"Okrzyk bojowy (Ilekroć ten stwór zaatakuje, każdy inny atakujący stwór do "
+"końca tury dostaje +1/+0.)"
 
 #: ../../DMC.rst:179
 msgid ""
@@ -765,10 +752,8 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:183
-#, fuzzy
-#| msgid "Other creatures you control have trample."
 msgid "Wurms you control get +2/+2 and have trample."
-msgstr "Inne stwory pod twoim władaniem mają tratowanie."
+msgstr "Stwory typu Żmij pod twoim władaniem dostają +2/+2 i mają tratowanie."
 
 #: ../../DMC.rst:185
 msgid ""
@@ -796,16 +781,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:193
-#, fuzzy
-#| msgid ""
-#| "Whenever a legendary creature enters the battlefield under your control, "
-#| "you may attach Hero's Blade to it."
 msgid ""
 "Whenever a land enters the battlefield under your control, create a 3/3 "
 "green Badger creature token."
 msgstr ""
-"Ilekroć legendarny stwór wejdzie na pole bitwy pod twoim władaniem możesz "
-"dołączyć do niego ten artefakt."
+"Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, stwórz żeton "
+"zielonego stwora Borsuk 3/3."
 
 #: ../../DMC.rst:200
 msgid ""
@@ -815,33 +796,24 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:197
-#, fuzzy
-#| msgid ""
-#| "Whenever Captain Lannery Storm attacks, create a Treasure token. (It's an "
-#| "artifact with \"|tap|, Sacrifice this artifact: Add one mana of any color."
-#| "\")"
 msgid ""
 "Whenever you cast a multicolored spell, create a tapped Powerstone token. "
 "(It's an artifact with \"|tap|, Add |colorless|. This mana can't be spent to "
 "cast a nonartifact spell.\")"
 msgstr ""
-"Ilekroć ten stwór zaatakuje, stwórz żeton Skarbu. (To artefakt mający \"|"
-"tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
+"Ilekroć rzucisz wielokolorowy czar, stwórz przekręcony żeton Kamień Mocy. ("
+"To artefakt z \"|tap|: Weź |coloroless|. Ta mana nie może być wydana na "
+"rzucenie nieartefaktowego czaru.\")"
 
 #: ../../DMC.rst:199
-#, fuzzy
-#| msgid ""
-#| "|mana_x|, |tap|: Look at the top X cards of your library. You may reveal "
-#| "a legendary creature card from among them and put it into your hand. Put "
-#| "the rest on the bottom of your library in a random order."
 msgid ""
 "|mana_x|\\ |mana_x|\\ |mana_x|, |tap|: Look at the top X cards of your "
 "library. Put up to two of them into your hand and the rest on the bottom of "
 "your library in a random order."
 msgstr ""
-"|mana_x|, |tap|: Spójrz na X wierzchnich kart twojej biblioteki. Możesz "
-"ujawnić spośród nich kartę legendarnego stwora i umieścić ją w twojej ręce. "
-"Umieść pozostałe losowo na spodzie twojej biblioteki."
+"|mana_x|\\ |mana_x|\\ |mana_x|, |tap|: Spójrz na X wierzchnich kart twojej "
+"biblioteki. Umieść dwie z nich w twojej ręce, a pozostałe losowo na spodzie "
+"twojej biblioteki."
 
 #: ../../DMC.rst:206
 msgid ""
@@ -1077,16 +1049,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:275
-#, fuzzy
-#| msgid ""
-#| "|mana_3|\\ |mana_w|, |tap|: Create a 2/2 white Knight creature token with "
-#| "vigilance."
 msgid ""
 "|tap|, Remove a dream counter from Rasputin: Create a 2/2 white Knight "
 "creature token with protection from red."
 msgstr ""
-"|mana_3|\\ |mana_w|, |tap|: Stwórz żeton białego stwora Rycerz 2/2 z "
-"czujnością."
+"|tap|, usuń znacznik snu z niniejszego: Stwórz żeton białego stwora Rycerz 2/"
+"2 z ochroną przed czerwonym."
 
 #: ../../DMC.rst:284
 msgid ""
@@ -2234,18 +2202,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:645
-#, fuzzy
-#| msgid ""
-#| "Mutate |mana_4|\\ |mana_gw|\\ |mana_b|\\ |mana_b| (If you cast this spell "
-#| "for its mutate cost, put it over or under target non-Human creature you "
-#| "own. They mutate into the creature on top plus all abilities from under "
-#| "it.)"
 msgid ""
 "Mutate |mana_3|\\ |mana_rg|\\ |mana_u|\\ |mana_u| (If you cast this spell "
 "for its mutate cost, put it over or under target non-Human creature you own. "
 "They mutate into the creature on top plus all abilities from under it.)"
 msgstr ""
-"Mutowanie |mana_4|\\ |mana_gw|\\ |mana_b|\\ |mana_b| (Jeśli rzucisz ten czar "
+"Mutowanie |mana_3|\\ |mana_rg|\\ |mana_u|\\ |mana_u| (Jeśli rzucisz ten czar "
 "za jego koszt mutowania, umieść go na lub pod wskazanym stworem pod twoim "
 "władaniem bez typu Człowiek. Mutują one w stwora na wierzchu mającym "
 "wszystkie zdolności spod niego.)"
@@ -2255,19 +2217,14 @@ msgid "Flying, trample"
 msgstr "Latanie, tratowanie"
 
 #: ../../DMC.rst:649
-#, fuzzy
-#| msgid ""
-#| "Whenever an Egg you control dies, reveal cards from the top of your "
-#| "library until you reveal a creature card. Put that card onto the "
-#| "battlefield and the rest on the bottom of your library in a random order."
 msgid ""
 "Whenever this creature mutates, exile cards from the top of your library "
 "until you exile a nonland permanent card. Put that card onto the battlefield "
 "or into your hand."
 msgstr ""
-"Ilekroć umrze Jajo pod twoim władaniem, ujawniaj karty z wierzchu twojej "
-"biblioteki, aż ujawnisz kartę stwora. Umieść ową kartę na polu bitwy, a "
-"pozostałe losowo na spodzie twojej biblioteki."
+"Ilekroć ten stwór mutuje, wygnaj karty z wierzchu twojej biblioteki aż "
+"wygnasz kartę nielądowego bytu. Umieść ową kartę na polu bitwy lub w twojej "
+"ręce."
 
 #: ../../DMC.rst:654
 msgid ""
@@ -3209,22 +3166,16 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:997
-#, fuzzy
-#| msgid "Boros Garrison enters the battlefield tapped."
 msgid "Flood Plain enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../DMC.rst:999
-#, fuzzy
-#| msgid ""
-#| "|tap|, Sacrifice Bad River: Search your library for an Island or Swamp "
-#| "card, put it onto the battlefield, then shuffle."
 msgid ""
 "|tap|, Sacrifice Flood Plain: Search your library for a Plains or Island "
 "card, put it onto the battlefield, then shuffle."
 msgstr ""
-"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę Wyspy lub Bagna, "
-"umieść ją na polu bitwy, po czym przetasuj."
+"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę Równiny lub "
+"Wyspy, umieść ją na polu bitwy, po czym przetasuj."
 
 #: ../../DMC.rst:1006
 msgid ""

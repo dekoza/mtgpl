@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2022.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-27 20:15+0200\n"
-"PO-Revision-Date: 2022-08-26 21:05+0000\n"
+"PO-Revision-Date: 2022-08-27 18:40+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dmu/pl/>\n"
 "Language: pl\n"
@@ -709,17 +709,12 @@ msgstr ""
 "lądu pośród lądów pod twoim władaniem."
 
 #: ../../DMU.rst:163
-#, fuzzy
-#| msgid ""
-#| "When Temporary Lockdown enters the battlefield, exile each nonland "
-#| "permanent with mana value 2 or less until Temporary Lockdown leaves the "
-#| "battlefield."
 msgid ""
 "When Leyline Binding enters the battlefield, exile target nonland permanent "
 "an opponent controls until Leyline Binding leaves the battlefield."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, wygnaj każdy nielądowy byt o skrócie "
-"many 2 lub mniejszym dopóki niniejszy nie opuści pola bitwy."
+"Kiedy ten byt wejdzie na pole bitwy, wygnaj wskazany nielądowy byt pod "
+"władaniem przeciwnika dopóki niniejszy nie opuści pola bitwy."
 
 #: ../../DMU.rst:174
 msgid ""
@@ -742,11 +737,8 @@ msgid "I — You and target opponent each draw two cards."
 msgstr ""
 
 #: ../../DMU.rst:171
-#, fuzzy
-#| msgid "If this spell was kicked, create a 1/1 white Soldier creature token."
 msgid "II — Create a 1/1 white Bird creature token with flying."
-msgstr ""
-"Jeśli ten czar został podbity, stwórz żeton białego stwora Piechur 1/1."
+msgstr "II — Stwórz żeton białego stwora Ptak 1/1 z lataniem."
 
 #: ../../DMU.rst:173
 msgid "III — Put a +1/+1 counter on each of up to two target creatures."
@@ -783,10 +775,6 @@ msgid "Lifelink"
 msgstr "Więź życia"
 
 #: ../../DMU.rst:187
-#, fuzzy
-#| msgid ""
-#| "When \"Unburial Priest\" enters the battlefield, if it was kicked, return "
-#| "target creature card from your graveyard to your hand."
 msgid ""
 "When Phyrexian Missionary enters the battlefield, if it was kicked, return "
 "target creature card from your graveyard to your hand."
@@ -802,18 +790,14 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:193
-#, fuzzy
-#| msgid ""
-#| "When Temporary Lockdown enters the battlefield, exile each nonland "
-#| "permanent with mana value 2 or less until Temporary Lockdown leaves the "
-#| "battlefield."
 msgid ""
 "When Prayer of Binding enters the battlefield, exile up to one target "
 "nonland permanent an opponent controls until Prayer of Binding leaves the "
 "battlefield. You gain 2 life."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, wygnaj każdy nielądowy byt o skrócie "
-"many 2 lub mniejszym dopóki niniejszy nie opuści pola bitwy."
+"Kiedy ten byt wejdzie na pole bitwy, wygnaj co najwyżej jeden wskazany "
+"nielądowy byt pod władaniem przeciwnika dopóki niniejszy nie opuści pola "
+"bitwy. Zyskaj 2 życia."
 
 #: ../../DMU.rst:200
 msgid ""
@@ -984,16 +968,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:247
-#, fuzzy
-#| msgid ""
-#| "I — You may cast an instant or sorcery spell with mana value 1 or 2 from "
-#| "your hand without paying its mana cost."
 msgid ""
 "II—You may put a planeswalker card with mana value 6 or less from your hand "
 "onto the battlefield."
 msgstr ""
-"I — Możesz rzucić z twojej ręki czar sztuczki lub obrzędu o skrócie many 1 "
-"lub 2 bez płacenia kosztu many."
+"II — Możesz umieścić z twojej ręki na polu bitwy kartę wędrowca o skrócie "
+"many 6 lub mniejszym."
 
 #: ../../DMU.rst:249
 msgid ""
@@ -1009,22 +989,16 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:253
-#, fuzzy
-#| msgid "Other Goblins you control get +1/+1."
 msgid "Other Soldiers you control get +1/+1."
-msgstr "Inne Gobliny pod twoim władaniem dostają +1/+1."
+msgstr "Inni Piechurzy pod twoim władaniem dostają +1/+1."
 
 #: ../../DMU.rst:255
-#, fuzzy
-#| msgid ""
-#| "|mana_w|\\ |mana_b|, |tap|, Sacrifice another creature: Put a +1/+1 "
-#| "counter on each creature you control."
 msgid ""
 "|mana_3|\\ |mana_w|\\ |mana_w|, Exile Valiant Veteran from your graveyard: "
 "Put a +1/+1 counter on each Soldier you control."
 msgstr ""
-"|mana_w|\\ |mana_b|, |tap|, poświęć innego stwora: Umieść znacznik +1/+1 na "
-"każdym stworze pod twoim władaniem."
+"|mana_3|\\ |mana_w|\\ |mana_w|, wygnaj tę kartę z twojego cmentarza: Umieść "
+"znacznik +1/+1 na każdym Piechurze pod twoim władaniem."
 
 #: ../../DMU.rst:264
 msgid ""
@@ -1090,11 +1064,8 @@ msgid "When Aether Channeler enters the battlefield, choose one —"
 msgstr "Kiedy ten byt wejdzie na pole bitwy, wybierz jedno —"
 
 #: ../../DMU.rst:279
-#, fuzzy
-#| msgid "If this spell was kicked, create a 1/1 white Soldier creature token."
 msgid "Create a 1/1 white Bird creature token with flying."
-msgstr ""
-"Jeśli ten czar został podbity, stwórz żeton białego stwora Piechur 1/1."
+msgstr "Stwórz żeton białego stwora Ptak 1/1 z lataniem."
 
 #: ../../DMU.rst:281
 msgid "Return another target nonland permanent to its owner's hand."
@@ -1142,18 +1113,14 @@ msgstr ""
 "dobierz kartę.\""
 
 #: ../../DMU.rst:299
-#, fuzzy
-#| msgid ""
-#| "Ward |mana_2| (Whenever this creature becomes the target of a spell or "
-#| "ability an opponent controls, counter it unless that player pays |"
-#| "mana_2|.)"
 msgid ""
 "As long as enchanted creature is legendary, it gets +1/+1 and has ward |"
 "mana_1|. (Whenever enchanted creature becomes the target of a spell or "
 "ability an opponent controls, counter it unless that player pays |mana_1|.)"
 msgstr ""
-"Opieka |mana_2| (Ilekroć ten stwór zostanie wskazany przez czar lub zdolność "
-"pod władaniem przeciwnika, skontruj to, chyba że ów gracz zapłaci |mana_2|.)"
+"O ile zauroczony stwór jest legendarny, dostaje +1/+1 i ma opiekę |mana_1| ("
+"Ilekroć zauroczony stwór zostanie wskazany przez czar lub zdolność pod "
+"władaniem przeciwnika, skontruj to, chyba że ów gracz zapłaci |mana_1|.)"
 
 #: ../../DMU.rst:306
 msgid ""
@@ -1229,16 +1196,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:329
-#, fuzzy
-#| msgid ""
-#| "This spell costs |mana_1| less to cast for each creature card in your "
-#| "graveyard."
 msgid ""
 "This spell costs |mana_u| less to cast if an opponent cast two or more "
 "spells this turn."
 msgstr ""
-"Rzucenie tego czaru kosztuje o |mana_1| mniej za każdego stwora w twoim "
-"cmentarzu."
+"Rzucenie tego czaru kosztuje o |mana_u| mniej jeśli przeciwnik rzucił co "
+"najmniej dwa czary w tej turze."
 
 #: ../../DMU.rst:331
 msgid "Counter target spell."
@@ -1472,10 +1435,6 @@ msgstr ""
 "podczas rzucania tego czaru.)"
 
 #: ../../DMU.rst:411
-#, fuzzy
-#| msgid ""
-#| "If Shalai's Acolyte was kicked, it enters the battlefield with two +1/+1 "
-#| "counters on it."
 msgid ""
 "If Pixie Illusionist was kicked, it enters the battlefield with two +1/+1 "
 "counters on it."
@@ -1614,16 +1573,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:453
-#, fuzzy
-#| msgid ""
-#| "At the beginning of your upkeep, look at the top card of your library. "
-#| "You may put that card into your graveyard."
 msgid ""
 "When Talas Lookout dies, look at the top two cards of your library. Put one "
 "of them into your hand and the other into your graveyard."
 msgstr ""
-"Na początku twojego kroku utrzymania spójrz na wierzchnią kartę twojej "
-"biblioteki. Możesz umieścić ową kartę w twoim cmentarzu."
+"Kiedy ten stwór umrze, spójrz na dwie wierzchnie karty twojej biblioteki. "
+"Umieść jedną z nich w twojej ręce, a drugą w twoim cmentarzu."
 
 #: ../../DMU.rst:458
 msgid ""
@@ -1730,16 +1685,12 @@ msgid "Other Merfolk you control get +1/+1."
 msgstr "Inni Wodnicy pod twoim władaniem dostają +1/+1."
 
 #: ../../DMU.rst:493
-#, fuzzy
-#| msgid ""
-#| "Counter target spell unless its controller pays |mana_1| for each "
-#| "creature you control."
 msgid ""
 "Sacrifice a Merfolk: Counter target noncreature spell unless its controller "
 "pays |mana_1|."
 msgstr ""
-"Skontruj wskazany czar, chyba że jego władca zapłaci |mana_1| za każdego "
-"stwora pod twoim władaniem."
+"Poświęć Wodnika: Skontruj wskazany niestworowy czar, chyba że jego władca "
+"zapłaci |mana_1|."
 
 #: ../../DMU.rst:502
 msgid ""
@@ -1790,15 +1741,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:511
-#, fuzzy
-#| msgid ""
-#| "Draw two cards. If this spell was kicked, each opponent discards a card."
 msgid ""
 "Target player discards two cards. If this spell was kicked, it deals 3 "
 "damage to that player."
 msgstr ""
-"Dobierz dwie karty. Jeśli ten czar został podbity, każdy przeciwnik odrzuca "
-"kartę."
+"Wskazany gracz odrzuca dwie karty. Jeśli ten czar został podbity, zadaje on "
+"owemu graczowi 3 obrażenia."
 
 #: ../../DMU.rst:520
 msgid ""
@@ -1900,24 +1848,15 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:551
-#, fuzzy
-#| msgid ""
-#| "Draw two cards. If this spell was kicked, each opponent discards a card."
 msgid ""
 "I — You may sacrifice a creature. If you do, each opponent discards a card."
 msgstr ""
-"Dobierz dwie karty. Jeśli ten czar został podbity, każdy przeciwnik odrzuca "
+"I — Możesz poświęcić stwora. Jeśli tak zrobisz, każdy przeciwnik odrzuca "
 "kartę."
 
 #: ../../DMU.rst:553
-#, fuzzy
-#| msgid ""
-#| "III — Exile target instant or sorcery card from your graveyard. Copy it. "
-#| "You may cast the copy."
 msgid "II — Return target creature card from your graveyard to your hand."
-msgstr ""
-"III — Wygnaj wskazaną kartę sztuczki lub obrzędu z twojego cmentarza. "
-"Skopiuj ją. Możesz rzucić ową kopię."
+msgstr "II — Przywróć wskazaną kartę stwora z twojego cmentarza do twojej ręki."
 
 #: ../../DMU.rst:555
 msgid ""
@@ -1933,12 +1872,11 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:561
-#, fuzzy
-#| msgid "If this spell was kicked, create a 1/1 white Soldier creature token."
 msgid ""
 "If this spell was kicked, put a +1/+1 counter on a creature you control."
 msgstr ""
-"Jeśli ten czar został podbity, stwórz żeton białego stwora Piechur 1/1."
+"Jeśli ten czar został podbity, umieść znacznik +1/+1 na stworze pod twoim "
+"władaniem."
 
 #: ../../DMU.rst:563
 msgid "All creatures get -2/-2 until end of turn."
@@ -1952,42 +1890,28 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:569
-#, fuzzy
-#| msgid ""
-#| "Target opponent reveals their hand. You choose a nonland card from it. "
-#| "That player discards that card."
 msgid ""
 "I — Target opponent reveals their hand. You choose a creature or "
 "planeswalker card from it. That player discards that card."
 msgstr ""
-"Wskazany przeciwnik ujawnia swoją rękę. Wybierz z niej nie-lądowę kartę. Ów "
-"gracz odrzuca ową kartę."
+"I — Wskazany przeciwnik ujawnia swoją rękę. Wybierz z niej kartę stwora albo "
+"wędrowca. Ów gracz odrzuca ową kartę."
 
 #: ../../DMU.rst:571
-#, fuzzy
-#| msgid ""
-#| "|mana_1|\\ |mana_g|, Discard Herd Migration: Search your library for a "
-#| "basic land card, reveal it, put it into your hand, then shuffle. You gain "
-#| "3 life."
 msgid ""
 "II — Search your library for a card, put that card into your hand, then "
 "shuffle. You lose 3 life."
 msgstr ""
-"|mana_1|\\ |mana_g|, odrzuć tę kartę: Wyszukaj w twojej bibliotece kartę "
-"bazowego lądu, ujawnij ją, umieść ją w twojej ręce, po czym przetasuj. "
-"Zyskaj 3 życia."
+"II — Wyszukaj kartę w twojej bibliotece, umieść ową kartę w twojej ręce, po "
+"czym przetasuj. Strać 3 życia."
 
 #: ../../DMU.rst:573
-#, fuzzy
-#| msgid ""
-#| "III — Exile target instant or sorcery card from your graveyard. Copy it. "
-#| "You may cast the copy."
 msgid ""
 "III — Put target creature card from a graveyard onto the battlefield under "
 "your control."
 msgstr ""
-"III — Wygnaj wskazaną kartę sztuczki lub obrzędu z twojego cmentarza. "
-"Skopiuj ją. Możesz rzucić ową kopię."
+"III — Umieść wskazaną kartę stwora z cmentarza na polu bitwy pod twoim "
+"władaniem."
 
 #: ../../DMU.rst:580
 msgid ""
@@ -2026,20 +1950,14 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:589
-#, fuzzy
-#| msgid ""
-#| "As an additional cost to cast blue permanent spells, you may pay 2 life. "
-#| "Those spells cost |mana_u| less to cast if you paid life this way. This "
-#| "effect reduces only the amount of blue mana you pay."
 msgid ""
 "As an additional cost to cast black permanent spells, you may pay 2 life. "
 "Those spells cost |mana_b| less to cast if you paid life this way. This "
 "effect reduces only the amount of black mana you pay."
 msgstr ""
-"Jako dodatkowy koszt przy rzucaniu czarów niebieskich bytów, możesz zapłacić "
-"2 życia. Rzucenie owych czarów kosztuje o |mana_u| mniej jeśli zapłaciłeś "
-"życie w ten sposób. Ten efekt zmniejsza tylko ilość płaconej niebieskiej "
-"many."
+"Jako dodatkowy koszt przy rzucaniu czarów czarnych bytów, możesz zapłacić 2 "
+"życia. Rzucenie owych czarów kosztuje o |mana_b| mniej jeśli zapłaciłeś "
+"życie w ten sposób. Ten efekt zmniejsza tylko ilość płaconej czarnej many."
 
 #: ../../DMU.rst:591
 msgid ""
@@ -2057,16 +1975,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:595
-#, fuzzy
-#| msgid ""
-#| "Domain — Nishoba Brawler's power is equal to the number of basic land "
-#| "types among lands you control."
 msgid ""
 "Domain — Each creature gets -X/-X until end of turn, where X is 1 plus the "
 "number of basic land types among lands you control."
 msgstr ""
-"Domena — Siła tej karty jest równa liczbie bazowych typów lądu pośród lądów "
-"pod twoim władaniem."
+"Domena — Każdy stwór do końca tury dostaje -X/-X, gdzie X jest równe 1 plus "
+"liczba bazowych typów lądu pośród lądów pod twoim władaniem."
 
 #: ../../DMU.rst:602
 msgid ""
@@ -2084,16 +1998,12 @@ msgstr ""
 "wierzchnią kartę twojej biblioteki w twoim cmentarzu.)"
 
 #: ../../DMU.rst:601
-#, fuzzy
-#| msgid ""
-#| "When \"Unburial Priest\" enters the battlefield, if it was kicked, return "
-#| "target creature card from your graveyard to your hand."
 msgid ""
 "|mana_4|\\ |mana_b|, Exile Eerie Soultender from your graveyard: Return "
 "another target creature card from your graveyard to your hand."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, jeśli został podbity, przywróć wskazaną "
-"kartę stwora z twojego cmentarza do twojej ręki."
+"|mana_4|\\ |mana_b|, wygnaj tę kartę z twojego cmentarza: Przywróć inną "
+"wskazaną kartę stwora z twojego cmentarza do twojej ręki."
 
 #: ../../DMU.rst:610
 msgid ""
@@ -2129,16 +2039,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:613
-#, fuzzy
-#| msgid ""
-#| "Return target creature to its owner's hand. Draw a card. If this spell "
-#| "was kicked, you gain 3 life."
 msgid ""
 "Destroy target creature or planeswalker. If its mana value was 3 or less, "
 "you gain 3 life."
 msgstr ""
-"Przywróć wskazanego stwora do ręki właściciela. Dobierz kartę. Jeśli ten "
-"czar został podbity, zyskaj 3 życia."
+"Zniszcz wskazanego stwora lub wędrowca. Jeśli ma on skrót many 3 lub "
+"mniejszy, zyskaj 3 życia."
 
 #: ../../DMU.rst:620
 msgid ""
@@ -2171,13 +2077,9 @@ msgid "Your opponents can't gain life."
 msgstr "Twoi przeciwnicy nie mogą zyskiwać żyć."
 
 #: ../../DMU.rst:627
-#, fuzzy
-#| msgid ""
-#| "|mana_4|\\ |mana_w|: Creatures you control get +1/+1 until end of turn."
 msgid ""
 "|mana_1|\\ |mana_b|: Knight of Dusk's Shadow gets +1/+1 until end of turn."
-msgstr ""
-"|mana_4|\\ |mana_w|: Stwory pod twoim władaniem dostają do końca tury +1/+1."
+msgstr "|mana_1|\\ |mana_b|: Ten stwór do końca tury dostaje +1/+1."
 
 #: ../../DMU.rst:636
 msgid ""
@@ -2243,18 +2145,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:651
-#, fuzzy
-#| msgid ""
-#| "Whenever Samite Herbalist becomes tapped, you gain 1 life and scry 1. "
-#| "(Look at the top card of your library. You may put that card on the "
-#| "bottom of your library.)"
 msgid ""
 "Whenever a creature you control dies, scry 1. (Look at the top card of your "
 "library. You may put that card on the bottom of your library.)"
 msgstr ""
-"Ilekroć ten byt zostanie przekręcony, zyskaj 1 życie i wróż 1. (Spójrz na "
-"wierzchnią kartę twojej biblioteki. Możesz umieścić ową kartę na spodzie "
-"twojej biblioteki.)"
+"Ilekroć umrze stwór pod twoim władaniem, wróż 1. (Spójrz na wierzchnią kartę "
+"twojej biblioteki. Możesz umieścić ową kartę na spodzie twojej biblioteki.)"
 
 #: ../../DMU.rst:660
 msgid ""
@@ -2351,10 +2247,8 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:683
-#, fuzzy
-#| msgid "Other Elves you control get +1/+1."
 msgid "Other Clerics you control get +1/+1."
-msgstr "Inne Elfy pod twoim władaniem dostają +1/+1."
+msgstr "Inni Klerycy pod twoim władaniem dostają +1/+1."
 
 #: ../../DMU.rst:685
 #, fuzzy
@@ -4883,16 +4777,16 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:1529
-#, fuzzy
-#| msgid "Equipped creature gets +2/+1."
 msgid "Equipped creature gets +2/+0."
-msgstr "Wyposażony stwór dostaje +2/+1."
+msgstr "Wyposażony stwór dostaje +2/+0."
 
 #: ../../DMU.rst:1531
 msgid ""
 "Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip only "
 "as a sorcery.)"
 msgstr ""
+"Wyposaż |mana_2| (|mana_2|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Aktywuj tylko jako obrzęd.)"
 
 #: ../../DMU.rst:1538
 msgid ""
@@ -4963,10 +4857,8 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:1561
-#, fuzzy
-#| msgid "(|tap|: Add |mana_b|.)"
 msgid "(|tap|: Add |mana_u| or |mana_b|.)"
-msgstr "(|tap|: Weź |mana_b|.)"
+msgstr "(|tap|: Weź |mana_u| lub |mana_b|.)"
 
 #: ../../DMU.rst:1563
 #, fuzzy
@@ -4996,10 +4888,8 @@ msgstr ""
 "twojej biblioteki.)"
 
 #: ../../DMU.rst:1571
-#, fuzzy
-#| msgid "|tap|: Add one mana of any color."
 msgid "|mana_1|, |tap|: Add one mana of any color."
-msgstr "|tap|: Weź jedną manę dowolnego koloru."
+msgstr "|mana_1|, |tap|: Weź jedną manę dowolnego koloru."
 
 #: ../../DMU.rst:1578
 msgid ""
@@ -5009,10 +4899,8 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:1575
-#, fuzzy
-#| msgid "(|tap|: Add |mana_r|.)"
 msgid "(|tap|: Add |mana_b| or |mana_r|.)"
-msgstr "(|tap|: Weź |mana_r|.)"
+msgstr "(|tap|: Weź |mana_b| lub |mana_r|.)"
 
 #: ../../DMU.rst:1577
 #, fuzzy
@@ -5028,10 +4916,8 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:1581
-#, fuzzy
-#| msgid "(|tap|: Add |mana_g|.)"
 msgid "(|tap|: Add |mana_b| or |mana_g|.)"
-msgstr "(|tap|: Weź |mana_g|.)"
+msgstr "(|tap|: Weź |mana_b| lub |mana_g|.)"
 
 #: ../../DMU.rst:1583
 #, fuzzy
@@ -5047,10 +4933,8 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:1587
-#, fuzzy
-#| msgid "(|tap|: Add |mana_u|.)"
 msgid "(|tap|: Add |mana_w| or |mana_u|.)"
-msgstr "(|tap|: Weź |mana_u|.)"
+msgstr "(|tap|: Weź |mana_w| lub |mana_u|.)"
 
 #: ../../DMU.rst:1589
 #, fuzzy
@@ -5078,10 +4962,8 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:1599
-#, fuzzy
-#| msgid "(|tap|: Add |mana_r|.)"
 msgid "(|tap|: Add |mana_u| or |mana_r|.)"
-msgstr "(|tap|: Weź |mana_r|.)"
+msgstr "(|tap|: Weź |mana_u| lub |mana_r|.)"
 
 #: ../../DMU.rst:1601
 #, fuzzy
@@ -5131,10 +5013,8 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:1615
-#, fuzzy
-#| msgid "(|tap|: Add |mana_w|.)"
 msgid "(|tap|: Add |mana_g| or |mana_w|.)"
-msgstr "(|tap|: Weź |mana_w|.)"
+msgstr "(|tap|: Weź |mana_g| lub |mana_w|.)"
 
 #: ../../DMU.rst:1617
 #, fuzzy
@@ -5150,10 +5030,8 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:1621
-#, fuzzy
-#| msgid "(|tap|: Add |mana_w|.)"
 msgid "(|tap|: Add |mana_r| or |mana_w|.)"
-msgstr "(|tap|: Weź |mana_w|.)"
+msgstr "(|tap|: Weź |mana_r| lub |mana_w|.)"
 
 #: ../../DMU.rst:1623
 #, fuzzy
@@ -5192,10 +5070,8 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:1639
-#, fuzzy
-#| msgid "(|tap|: Add |mana_b|.)"
 msgid "(|tap|: Add |mana_w| or |mana_b|.)"
-msgstr "(|tap|: Weź |mana_b|.)"
+msgstr "(|tap|: Weź |mana_w| lub |mana_b|.)"
 
 #: ../../DMU.rst:1641
 #, fuzzy
@@ -5211,10 +5087,8 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:1645
-#, fuzzy
-#| msgid "(|tap|: Add |mana_u|.)"
 msgid "(|tap|: Add |mana_g| or |mana_u|.)"
-msgstr "(|tap|: Weź |mana_u|.)"
+msgstr "(|tap|: Weź |mana_g| lub |mana_u|.)"
 
 #: ../../DMU.rst:1647
 #, fuzzy
@@ -5260,10 +5134,8 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:1661
-#, fuzzy
-#| msgid "(|tap|: Add |mana_g|.)"
 msgid "(|tap|: Add |mana_r| or |mana_g|.)"
-msgstr "(|tap|: Weź |mana_g|.)"
+msgstr "(|tap|: Weź |mana_r| lub |mana_g|.)"
 
 #: ../../DMU.rst:1663
 #, fuzzy
