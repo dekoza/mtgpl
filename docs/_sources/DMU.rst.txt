@@ -771,7 +771,7 @@
    |mana_r|: Dragon Whelp gets +1/+0 until end of turn. If this ability has been activated four or more times this turn, sacrifice Dragon Whelp at the beginning of the next end step.
 
 
-:mtgtip:`The Elder Dragon War<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/c/0c52c7d4-a350-4518-8c9a-72cf7b14603d.jpg?1661377782|https://scryfall.com/card/dmu/121/the-elder-dragon-war?utm_source=api>`
+:mtgtip:`The Elder Dragon War<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/c/0c52c7d4-a350-4518-8c9a-72cf7b14603d.jpg?1661631007|https://scryfall.com/card/dmu/121/the-elder-dragon-war?utm_source=api>`
    Read ahead (Choose a chapter and start with that many lore counters. Add one after your draw step. Skipped chapters don't trigger. Sacrifice after III.)
 
    I — The Elder Dragon War deals 2 damage to each creature and each opponent.

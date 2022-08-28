@@ -921,11 +921,11 @@
    All Sliver creatures get +2/+0.
 
 
-:mtgtip:`Boom<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/f/8ffdee1b-bb5d-44e6-a90d-6f9e9266d4fd.jpg?1619396784|https://scryfall.com/card/tsr/156/boom-bust?utm_source=api>`
+:mtgtip:`Boom<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/f/8ffdee1b-bb5d-44e6-a90d-6f9e9266d4fd.jpg?1661551536|https://scryfall.com/card/tsr/156/boom-bust?utm_source=api>`
    Destroy target land you control and target land you don't control.
 
 
-:mtgtip:`Bust<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/f/8ffdee1b-bb5d-44e6-a90d-6f9e9266d4fd.jpg?1619396784|https://scryfall.com/card/tsr/156/boom-bust?utm_source=api>`
+:mtgtip:`Bust<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/f/8ffdee1b-bb5d-44e6-a90d-6f9e9266d4fd.jpg?1661551536|https://scryfall.com/card/tsr/156/boom-bust?utm_source=api>`
    Destroy all lands.
 
 
