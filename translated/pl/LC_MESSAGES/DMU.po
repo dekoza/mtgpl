@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2022.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-27 20:15+0200\n"
-"PO-Revision-Date: 2022-08-27 18:40+0000\n"
+"PO-Revision-Date: 2022-08-28 13:44+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dmu/pl/>\n"
 "Language: pl\n"
@@ -2251,18 +2251,13 @@ msgid "Other Clerics you control get +1/+1."
 msgstr "Inni Klerycy pod twoim władaniem dostają +1/+1."
 
 #: ../../DMU.rst:685
-#, fuzzy
-#| msgid ""
-#| "|mana_1|\\ |mana_g|, Discard Herd Migration: Search your library for a "
-#| "basic land card, reveal it, put it into your hand, then shuffle. You gain "
-#| "3 life."
 msgid ""
 "|mana_3|\\ |mana_b|\\ |mana_b|, |tap|, Sacrifice another Cleric: Search your "
 "library for a black creature card, put it onto the battlefield, then shuffle."
 msgstr ""
-"|mana_1|\\ |mana_g|, odrzuć tę kartę: Wyszukaj w twojej bibliotece kartę "
-"bazowego lądu, ujawnij ją, umieść ją w twojej ręce, po czym przetasuj. "
-"Zyskaj 3 życia."
+"|mana_3|\\ |mana_b|\\ |mana_b|, |tap|, poświęć innego Kleryka: Wyszukaj w "
+"twojej bibliotece kartę czarnego stwora, umieść ją na polu bitwy, po czym "
+"przetasuj."
 
 #: ../../DMU.rst:694
 msgid ""
@@ -2318,16 +2313,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:705
-#, fuzzy
-#| msgid ""
-#| "Whenever you cast a black permanent spell, target creature you control "
-#| "gets +1/+1 and gains menace until end of turn."
 msgid ""
 "When Splatter Goblin dies, target creature an opponent controls gets -1/-1 "
 "until end of turn."
 msgstr ""
-"Ilekroć rzucisz czar czarnego bytu, wskazany stwór pod twoim władaniem "
-"dostaje do końca tury +1/+1 oraz złowrogość."
+"Kiedy niniejszy umrze, wskazany stwór pod władaniem przeciwnika do końca "
+"tury dostaje -1/-1."
 
 #: ../../DMU.rst:714
 msgid ""
@@ -2389,17 +2380,14 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:729
-#, fuzzy
-#| msgid ""
-#| "Target creature gets -1/-0 until end of turn. If this spell was kicked, "
-#| "that creature blocks this turn if able."
 msgid ""
 "Target creature gets -2/-2 until end of turn. If this spell was kicked, that "
 "creature gets an additional -1/-1 until end of turn for each instant and "
 "sorcery card in your graveyard."
 msgstr ""
-"Wskazany stwór dostaje do końca tury -1/-0. Jeśli ten czar został podbity, "
-"ów stwór blokuje w tej turze jeśli może."
+"Wskazany stwór do końca tury dostaje -2/-2. Jeśli ten czar został podbity, "
+"ów stwór dostaje do końca tury dodatkowe -1/-1 za każdą kartę sztuczki lub "
+"obrzędu w twoim cmentarzu."
 
 #: ../../DMU.rst:736
 msgid ""
@@ -2479,28 +2467,22 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:763
-#, fuzzy
-#| msgid ""
-#| "As an additional cost to cast blue permanent spells, you may pay 2 life. "
-#| "Those spells cost |mana_u| less to cast if you paid life this way. This "
-#| "effect reduces only the amount of blue mana you pay."
 msgid ""
 "As an additional cost to cast red permanent spells, you may pay 2 life. "
 "Those spells cost |mana_r| less to cast if you paid life this way. This "
 "effect reduces only the amount of red mana you pay."
 msgstr ""
-"Jako dodatkowy koszt przy rzucaniu czarów niebieskich bytów, możesz zapłacić "
-"2 życia. Rzucenie owych czarów kosztuje o |mana_u| mniej jeśli zapłaciłeś "
-"życie w ten sposób. Ten efekt zmniejsza tylko ilość płaconej niebieskiej "
-"many."
+"Jako dodatkowy koszt przy rzucaniu czarów czerwonych bytów, możesz zapłacić "
+"2 życia. Rzucenie owych czarów kosztuje o |mana_r| mniej jeśli zapłaciłeś "
+"życie w ten sposób. Ten efekt zmniejsza tylko ilość płaconej czerwonej many."
 
 #: ../../DMU.rst:765
-#, fuzzy
-#| msgid "Whenever you cast a blue permanent spell, draw a card."
 msgid ""
 "Whenever you cast a red permanent spell, Defiler of Instinct deals 1 damage "
 "to any target."
-msgstr "Ilekroć rzucisz czar niebieskiego bytu, dobierz kartę."
+msgstr ""
+"Ilekroć rzucisz czar czerwonego bytu, niniejszy zadaje wskazanemu celowi 1 "
+"obrażenie."
 
 #: ../../DMU.rst:772
 msgid ""
@@ -2605,17 +2587,14 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:807
-#, fuzzy
-#| msgid ""
-#| "Scry 1. (Look at the top card of your library. You may put that card on "
-#| "the bottom of your library.)"
 msgid ""
 "Target creature gets +3/+0 and gains first strike until end of turn. Scry 1. "
 "(Look at the top card of your library. You may put that card on the bottom "
 "of your library.)"
 msgstr ""
-"Wróż 1. (Spójrz na wierzchnią kartę twojej biblioteki. Możesz umieścić ją na "
-"spodzie twojej biblioteki.)"
+"Wskazany stwór do końca tury dostaje +3/+0 oraz pierwszy cios. Wróż 1. ("
+"Spójrz na wierzchnią kartę twojej biblioteki. Możesz umieścić ją na spodzie "
+"twojej biblioteki.)"
 
 #: ../../DMU.rst:816
 msgid ""
@@ -2625,28 +2604,20 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:813
-#, fuzzy
-#| msgid ""
-#| "When \"Unburial Priest\" enters the battlefield, if it was kicked, return "
-#| "target creature card from your graveyard to your hand."
 msgid ""
 "When Ghitu Amplifier enters the battlefield, if it was kicked, return target "
 "creature an opponent controls to its owner's hand."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, jeśli został podbity, przywróć wskazaną "
-"kartę stwora z twojego cmentarza do twojej ręki."
+"Kiedy ten byt wejdzie na pole bitwy, jeśli został podbity, przywróć "
+"wskazanego stwora pod władaniem przeciwnika do ręki właściciela."
 
 #: ../../DMU.rst:815
-#, fuzzy
-#| msgid ""
-#| "Whenever you cast an instant or sorcery spell, creatures you control get "
-#| "+1/+0 and gain trample until end of turn."
 msgid ""
 "Whenever you cast an instant or sorcery spell, Ghitu Amplifier gets +2/+0 "
 "until end of turn."
 msgstr ""
-"Ilekroć rzucisz czar sztuczki lub obrzędu, stwory pod twoim władaniem "
-"dostają do końca tury +1/+0 i tratowanie."
+"Ilekroć rzucisz czar sztuczki lub obrzędu, niniejszy do końca tury dostaje +"
+"2/+0."
 
 #: ../../DMU.rst:820
 msgid ""
@@ -2703,16 +2674,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:837
-#, fuzzy
-#| msgid ""
-#| "Return target creature to its owner's hand. Draw a card. If this spell "
-#| "was kicked, you gain 3 life."
 msgid ""
 "Hurloon Battle Hymn deals 4 damage to target creature or planeswalker. If "
 "this spell was kicked, you gain 4 life."
 msgstr ""
-"Przywróć wskazanego stwora do ręki właściciela. Dobierz kartę. Jeśli ten "
-"czar został podbity, zyskaj 3 życia."
+"Ten czar zadaje wskazanemu stworowi lub wędrowcowi 4 obrażenia. Jeśli ten "
+"czar został podbity, zyskaj 4 życia."
 
 #: ../../DMU.rst:844
 msgid ""
@@ -2722,19 +2689,14 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:843
-#, fuzzy
-#| msgid ""
-#| "|mana_r|: Dragon Whelp gets +1/+0 until end of turn. If this ability has "
-#| "been activated four or more times this turn, sacrifice Dragon Whelp at "
-#| "the beginning of the next end step."
 msgid ""
 "Gain control of target creature until end of turn. Untap that creature. It "
 "gains haste until end of turn. If this spell was kicked, sacrifice that "
 "creature at the beginning of the next end step."
 msgstr ""
-"|mana_r|: Ten stwór dostaje do końca tury +1/+0. Jeśli ta zdolność została "
-"aktywowana co najmniej cztery razy w tej turze, poświęć tego stwora na "
-"początku najbliższego kroku końcowego."
+"Zyskaj do końca tury władanie nad wskazanym stworem. Odkręć go. Do końca "
+"tury zyskuje on pośpiech. Jeśli ten czar został podbity, poświęć owego "
+"stwora na początku najbliższego kroku końcowego."
 
 #: ../../DMU.rst:854
 msgid ""
@@ -2774,17 +2736,14 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:857
-#, fuzzy
-#| msgid ""
-#| "Scry 1. (Look at the top card of your library. You may put that card on "
-#| "the bottom of your library.)"
 msgid ""
 "Jaya's Firenado deals 5 damage to target creature or planeswalker. Scry 1. "
 "(Look at the top card of your library. You may put that card on the bottom "
 "of your library.)"
 msgstr ""
-"Wróż 1. (Spójrz na wierzchnią kartę twojej biblioteki. Możesz umieścić ją na "
-"spodzie twojej biblioteki.)"
+"Ten czar zadaje wskazanemu stworowi lub wędrowcowi 5 obrażeń. Wróż 1. ("
+"Spójrz na wierzchnią kartę twojej biblioteki. Możesz umieścić ją na spodzie "
+"twojej biblioteki.)"
 
 #: ../../DMU.rst:864
 msgid ""
@@ -2814,40 +2773,28 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:867
-#, fuzzy
-#| msgid ""
-#| "Kicker |mana_1|\\ |mana_w| (You may pay an additional |mana_1|\\ |mana_w| "
-#| "as you cast this spell.)"
 msgid ""
 "Kicker |mana_1|\\ |mana_w| (You may pay an additional |mana_1|\\ |mana_w|} "
 "as you cast this spell.)"
 msgstr ""
-"Podbicie |mana_1|\\ |mana_w| (Rzucając ten czar możesz dodatkowo zapłacić |"
-"mana_1|\\ |mana_w|.)"
+"Podbicie |mana_1|\\ |mana_w| (Rzucając ten czar możesz dodatkowo zapłacić "
+"|mana_1|\\ |mana_w|.)"
 
 #: ../../DMU.rst:869
-#, fuzzy
-#| msgid ""
-#| "When Phyrexian Warhorse enters the battlefield, if it was kicked, create "
-#| "a 1/1 white Soldier creature token."
 msgid ""
 "When Keldon Strike Team enters the battlefield, if it was kicked, create two "
 "1/1 white Soldier creature tokens."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, jeśli został podbity, stwórz żeton "
+"Kiedy ten byt wejdzie na pole bitwy, jeśli został podbity, stwórz dwa żetony "
 "białego stwora Piechur 1/1."
 
 #: ../../DMU.rst:871
-#, fuzzy
-#| msgid ""
-#| "As Tyrannical Pitlord enters the battlefield, choose another creature you "
-#| "control."
 msgid ""
 "As long as Keldon Strike Team entered the battlefield this turn, creatures "
 "you control have haste."
 msgstr ""
-"Przy wejściu tego bytu na pole bitwy wybierz innego stwora pod twoim "
-"władaniem."
+"O ile niniejszy wszedł na pole bitwy w tej turze, stwory pod twoim władaniem "
+"mają pośpiech."
 
 #: ../../DMU.rst:876
 msgid ""
@@ -2872,16 +2819,13 @@ msgid "Reach"
 msgstr "Zasięg"
 
 #: ../../DMU.rst:881
-#, fuzzy
-#| msgid ""
-#| "Domain — Territorial Maro's power and toughness are each equal to twice "
-#| "the number of basic land types among lands you control."
 msgid ""
 "Domain—When Meria's Outrider enters the battlefield, it deals damage to each "
 "opponent equal to the number of basic land types among lands you control."
 msgstr ""
-"Domena — Siła i wytrzymałość tej karty są obie równe dwukrotności liczby "
-"bazowych typów lądu pośród lądów pod twoim władaniem."
+"Domena — Kiedy ten byt wejdzie na pole bitwy, zadaje on każdemu "
+"przeciwnikowi obrażenia równe liczbie bazowych typów lądu pośród lądów pod "
+"twoim władaniem."
 
 #: ../../DMU.rst:888
 msgid ""
@@ -3311,19 +3255,14 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:1047
-#, fuzzy
-#| msgid ""
-#| "Look at the top five cards of your library. You may put a land card from "
-#| "among them onto the battlefield tapped. Put the rest on the bottom of "
-#| "your library in a random order."
 msgid ""
 "When Floriferous Vinewall enters the battlefield, look at the top six cards "
 "of your library. You may reveal a land card from among them and put it into "
 "your hand. Put the rest on the bottom of your library in a random order."
 msgstr ""
-"Spójrz na pięć wierzchnich kart twojej biblioteki. Możesz umieścić spośród "
-"nich kartę lądu przekręconą na polu bitwy. Umieść pozostałe losowo na "
-"spodzie twojej biblioteki."
+"Kiedy ten byt wejdzie na pole bitwy, spójrz na sześć wierzchnich kart twojej "
+"biblioteki. Możesz spośród nich ujawnić kartę lądu i umieścić ją w twojej "
+"ręce. Umieść pozostałe losowo na spodzie twojej biblioteki."
 
 #: ../../DMU.rst:1052
 msgid ""
@@ -3383,11 +3322,11 @@ msgid "Other Elves you control get +1/+1."
 msgstr "Inne Elfy pod twoim władaniem dostają +1/+1."
 
 #: ../../DMU.rst:1069
-#, fuzzy
-#| msgid "Whenever you cast a blue permanent spell, draw a card."
 msgid ""
 "Whenever you cast an Elf spell, you may pay |mana_g|. If you do, draw a card."
-msgstr "Ilekroć rzucisz czar niebieskiego bytu, dobierz kartę."
+msgstr ""
+"Ilekroć rzucisz czar typu Elf, możesz zapłacić |mana_g|. Jeśli tak zrobisz, "
+"dobierz kartę."
 
 #: ../../DMU.rst:1076
 msgid ""
@@ -3412,12 +3351,6 @@ msgid "Reach, trample"
 msgstr "Zasięg, tratowanie"
 
 #: ../../DMU.rst:1081
-#, fuzzy
-#| msgid ""
-#| "Domain — |mana_7|\\ |mana_g|: Return \"Eight Legged Chonker\" from your "
-#| "graveyard to the battlefield tapped. It gains \"If this permanent would "
-#| "leave the battlefield, exile it instead.\" This ability costs |mana_1| "
-#| "less to activate for each basic land type among lands you control."
 msgid ""
 "Domain — |mana_7|\\ |mana_g|: Return Llanowar Greenwidow from your graveyard "
 "to the battlefield tapped. It gains \"If this permanent would leave the "
@@ -3450,15 +3383,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:1091
-#, fuzzy
-#| msgid ""
-#| "Whenever another creature enters the battlefield under your control, you "
-#| "gain 1 life."
 msgid ""
 "Whenever another creature enters the battlefield under your control, "
 "Llanowar Stalker gets +1/+0 until end of turn."
 msgstr ""
-"Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, zyskaj 1 życie."
+"Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, niniejszy do "
+"końca tury dostaje +1/+0."
 
 #: ../../DMU.rst:1096
 msgid ""
@@ -3543,10 +3473,8 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:1123
-#, fuzzy
-#| msgid "Whenever you cast an instant or sorcery spell, choose one —"
 msgid "Whenever you cast a creature spell, choose one —"
-msgstr "Ilekroć rzucisz czar sztuczki lub obrzędu, wybierz jedno —"
+msgstr "Ilekroć rzucisz czar stwora, wybierz jedno —"
 
 #: ../../DMU.rst:1125
 msgid "Destroy target artifact or enchantment."
@@ -3748,23 +3676,17 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:1189
-#, fuzzy
-#| msgid "If this spell was kicked, create a 1/1 white Soldier creature token."
 msgid "II — Create a 1/1 green Saproling creature token."
-msgstr ""
-"Jeśli ten czar został podbity, stwórz żeton białego stwora Piechur 1/1."
+msgstr "II — Stwórz żeton zielonego stwora Sadzonka 1/1."
 
 #: ../../DMU.rst:1191
-#, fuzzy
-#| msgid ""
-#| "Domain — Nishoba Brawler's power is equal to the number of basic land "
-#| "types among lands you control."
 msgid ""
 "III — Domain — Target creature you control gets +X/+X and gains trample "
 "until end of turn, where X is the number of basic land types among lands you "
 "control."
 msgstr ""
-"Domena — Siła tej karty jest równa liczbie bazowych typów lądu pośród lądów "
+"III — Domena — Wskazany stwór pod twoim władaniem do końca tury dostaje +X/+"
+"X i tratowanie, gdzie X jest równe liczbie bazowych typów lądu pośród lądów "
 "pod twoim władaniem."
 
 #: ../../DMU.rst:1200
@@ -3888,15 +3810,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:1239
-#, fuzzy
-#| msgid ""
-#| "Whenever you cast a white permanent spell, create a 1/1 white Soldier "
-#| "creature token."
 msgid ""
 "At the beginning of your end step, if you control a creature with power "
 "greater than its base power, create a 1/1 white Soldier creature token."
 msgstr ""
-"Ilekroć rzucisz czar białego bytu, stwórz żeton białego stwora Piechur 1/1."
+"Na początku twojego kroku końcowego, jeśli władasz stworem o sile większej "
+"niż jego bazowa siła, stwórz żeton białego stwora Piechur 1/1."
 
 #: ../../DMU.rst:1246
 msgid ""
@@ -3956,10 +3875,8 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:1263
-#, fuzzy
-#| msgid "When Aether Channeler enters the battlefield, choose one —"
 msgid "When Ertai Resurrected enters the battlefield, choose up to one —"
-msgstr "Kiedy ten byt wejdzie na pole bitwy, wybierz jedno —"
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wybierz co najwyżej jedno —"
 
 #: ../../DMU.rst:1265
 msgid ""
@@ -3968,15 +3885,10 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:1267
-#, fuzzy
-#| msgid ""
-#| "Return target creature to its owner's hand. Draw a card. If this spell "
-#| "was kicked, you gain 3 life."
 msgid ""
 "Destroy another target creature or planeswalker. Its controller draws a card."
 msgstr ""
-"Przywróć wskazanego stwora do ręki właściciela. Dobierz kartę. Jeśli ten "
-"czar został podbity, zyskaj 3 życia."
+"Zniszcz innego wskazanego stwora lub wędrowca. Jego władca dobiera kartę."
 
 #: ../../DMU.rst:1272
 msgid ""
@@ -4175,16 +4087,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:1333
-#, fuzzy
-#| msgid ""
-#| "Domain — Territorial Maro's power and toughness are each equal to twice "
-#| "the number of basic land types among lands you control."
 msgid ""
 "Queen Allenal of Ruadach's power and toughness are each equal to the number "
 "of creatures you control."
 msgstr ""
-"Domena — Siła i wytrzymałość tej karty są obie równe dwukrotności liczby "
-"bazowych typów lądu pośród lądów pod twoim władaniem."
+"Siła i wytrzymałość tej karty są obie równe liczbie stworów pod twoim "
+"władaniem."
 
 #: ../../DMU.rst:1335
 msgid ""
@@ -4201,17 +4109,14 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:1339
-#, fuzzy
-#| msgid ""
-#| "Domain — Nishoba Brawler's power is equal to the number of basic land "
-#| "types among lands you control."
 msgid ""
 "Domain — Whenever Radha, Coalition Warlord becomes tapped, another target "
 "creature you control gets +X/+X until end of turn, where X is the number of "
 "basic land types among lands you control."
 msgstr ""
-"Domena — Siła tej karty jest równa liczbie bazowych typów lądu pośród lądów "
-"pod twoim władaniem."
+"Domena — Ilekroć niniejszy zostanie przekręcony, inny wskazany stwór pod "
+"twoim władaniem do końca tury dostaje +X/+X, gdzie X jest liczbą bazowych "
+"typów lądu pośród lądów pod twoim władaniem."
 
 #: ../../DMU.rst:1346
 msgid ""
@@ -4241,10 +4146,8 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:1349
-#, fuzzy
-#| msgid "Flying, ward |mana_2|"
 msgid "Vigilance, ward |mana_2|"
-msgstr "Latanie, opieka |mana_2|"
+msgstr "Czujność, opieka |mana_2|"
 
 #: ../../DMU.rst:1351
 msgid "Other zombies you control have vigilance."
@@ -4284,16 +4187,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:1367
-#, fuzzy
-#| msgid ""
-#| "|tap|: Add |mana_u|. Spend this mana only to cast an instant or sorcery "
-#| "spell or a kicked spell."
 msgid ""
 "|tap|: Add two mana in any combination of colors. Spend this mana only to "
 "cast Dragon creature spells."
 msgstr ""
-"|tap|: Weź |mana_u|. Wydaj tę manę tylko na rzucenie czaru sztuczki lub "
-"obrzędu lub podbitego czaru."
+"|tap|: Weź dwie many w dowolnej kombinacji kolorów. Wydaj ową manę tylko do "
+"rzucenia stworów typu Smok."
 
 #: ../../DMU.rst:1369
 msgid ""
@@ -4494,15 +4393,10 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:1441
-#, fuzzy
-#| msgid ""
-#| "Haughty Djinn's power is equal to the number of instant and sorcery cards "
-#| "in your graveyard."
 msgid ""
 "Uurg, Spawn of Turg's power is equal to the number of land cards in your "
 "graveyard."
-msgstr ""
-"Siła tej karty jest równa liczbie kart sztuczek i obrzędów w twoim cmentarzu."
+msgstr "Siła tej karty jest równa liczbie kart lądów w twoim cmentarzu."
 
 #: ../../DMU.rst:1443
 msgid ""
@@ -4546,16 +4440,13 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:1455
-#, fuzzy
-#| msgid ""
-#| "Domain — Territorial Maro's power and toughness are each equal to twice "
-#| "the number of basic land types among lands you control."
 msgid ""
 "Domain — Whenever Zar Ojanen, Scion of Efrava becomes tapped, put a +1/+1 "
 "counter on each creature you control with toughness less than the number of "
 "basic land types among lands you control."
 msgstr ""
-"Domena — Siła i wytrzymałość tej karty są obie równe dwukrotności liczby "
+"Domena — Ilekroć ten byt zostanie przekręcony, umieść znacznik +1/+1 na "
+"każdym stworze pod twoim władaniem mającym wytrzymałość mniejszą od liczby "
 "bazowych typów lądu pośród lądów pod twoim władaniem."
 
 #: ../../DMU.rst:1464
@@ -4585,19 +4476,14 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:1467
-#, fuzzy
-#| msgid ""
-#| "Whenever Samite Herbalist becomes tapped, you gain 1 life and scry 1. "
-#| "(Look at the top card of your library. You may put that card on the "
-#| "bottom of your library.)"
 msgid ""
 "When Automatic Librarian enters the battlefield, scry 2. (Look at the top "
 "two cards of your library, then put any number of them on the bottom of your "
 "library and the rest on top in any order.)"
 msgstr ""
-"Ilekroć ten byt zostanie przekręcony, zyskaj 1 życie i wróż 1. (Spójrz na "
-"wierzchnią kartę twojej biblioteki. Możesz umieścić ową kartę na spodzie "
-"twojej biblioteki.)"
+"Kiedy ten byt wejdzie na pole bitwy, wróż 2. (Spójrz na 2 wierzchnie karty "
+"twojej biblioteki, po czym umieść dowolne z nich na spodzie twojej "
+"biblioteki, a pozostałe na jej wierzchu w dowolnej kolejności.)"
 
 #: ../../DMU.rst:1474
 msgid ""
@@ -4725,14 +4611,8 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:1513
-#, fuzzy
-#| msgid ""
-#| "|tap|: Add |mana_u|. Spend this mana only to cast an instant or sorcery "
-#| "spell or a kicked spell."
 msgid "|mana_1|: Add one mana of any color. Activate only once each turn."
-msgstr ""
-"|tap|: Weź |mana_u|. Wydaj tę manę tylko na rzucenie czaru sztuczki lub "
-"obrzędu lub podbitego czaru."
+msgstr "|mana_1|: Weź jedną many dowolnego koloru. Aktywuj tylko raz na turę."
 
 #: ../../DMU.rst:1520
 msgid ""
@@ -4763,11 +4643,8 @@ msgid "Timeless Lotus enters the battlefield tapped."
 msgstr ""
 
 #: ../../DMU.rst:1525
-#, fuzzy
-#| msgid ""
-#| "|tap|: Add |mana_w| or |mana_u|. Adarkar Wastes deals 1 damage to you."
 msgid "|tap|: Add |mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|."
-msgstr "|tap|: Weź |mana_w| lub |mana_u|. Ten ląd zadaje tobie 1 obrażenie."
+msgstr "|tap|: Weź |mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|."
 
 #: ../../DMU.rst:1532
 msgid ""
@@ -4861,8 +4738,6 @@ msgid "(|tap|: Add |mana_u| or |mana_b|.)"
 msgstr "(|tap|: Weź |mana_u| lub |mana_b|.)"
 
 #: ../../DMU.rst:1563
-#, fuzzy
-#| msgid "Karn's Sylex enters the battlefield tapped."
 msgid "Contaminated Aquifer enters the battlefield tapped."
 msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
@@ -4874,18 +4749,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:1567
-#, fuzzy
-#| msgid ""
-#| "Whenever Samite Herbalist becomes tapped, you gain 1 life and scry 1. "
-#| "(Look at the top card of your library. You may put that card on the "
-#| "bottom of your library.)"
 msgid ""
 "When Crystal Grotto enters the battlefield, scry 1. (Look at the top card of "
 "your library. You may put that card on the bottom of your library.)"
 msgstr ""
-"Ilekroć ten byt zostanie przekręcony, zyskaj 1 życie i wróż 1. (Spójrz na "
-"wierzchnią kartę twojej biblioteki. Możesz umieścić ową kartę na spodzie "
-"twojej biblioteki.)"
+"Kiedy ten byt wejdzie na pole bitwy, wróż 1. (Spójrz na wierzchnią kartę "
+"twojej biblioteki. Możesz umieścić ową kartę na spodzie twojej biblioteki.)"
 
 #: ../../DMU.rst:1571
 msgid "|mana_1|, |tap|: Add one mana of any color."
@@ -4903,8 +4772,6 @@ msgid "(|tap|: Add |mana_b| or |mana_r|.)"
 msgstr "(|tap|: Weź |mana_b| lub |mana_r|.)"
 
 #: ../../DMU.rst:1577
-#, fuzzy
-#| msgid "Karn's Sylex enters the battlefield tapped."
 msgid "Geothermal Bog enters the battlefield tapped."
 msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
@@ -4920,8 +4787,6 @@ msgid "(|tap|: Add |mana_b| or |mana_g|.)"
 msgstr "(|tap|: Weź |mana_b| lub |mana_g|.)"
 
 #: ../../DMU.rst:1583
-#, fuzzy
-#| msgid "Karn's Sylex enters the battlefield tapped."
 msgid "Haunted Mire enters the battlefield tapped."
 msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
@@ -4937,8 +4802,6 @@ msgid "(|tap|: Add |mana_w| or |mana_u|.)"
 msgstr "(|tap|: Weź |mana_w| lub |mana_u|.)"
 
 #: ../../DMU.rst:1589
-#, fuzzy
-#| msgid "Karn's Sylex enters the battlefield tapped."
 msgid "Idyllic Beachfront enters the battlefield tapped."
 msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
@@ -4966,8 +4829,6 @@ msgid "(|tap|: Add |mana_u| or |mana_r|.)"
 msgstr "(|tap|: Weź |mana_u| lub |mana_r|.)"
 
 #: ../../DMU.rst:1601
-#, fuzzy
-#| msgid "Karn's Sylex enters the battlefield tapped."
 msgid "Molten Tributary enters the battlefield tapped."
 msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
@@ -4979,16 +4840,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:1607
-#, fuzzy
-#| msgid ""
-#| "|tap|: Add |mana_u|. Spend this mana only to cast an instant or sorcery "
-#| "spell or a kicked spell."
 msgid ""
 "|tap|: Add one mana of any color. Spend this mana only to cast a legendary "
 "spell."
 msgstr ""
-"|tap|: Weź |mana_u|. Wydaj tę manę tylko na rzucenie czaru sztuczki lub "
-"obrzędu lub podbitego czaru."
+"|tap|: Weź jedną manę dowolnego koloru. Wydaj ową manę tylko na rzucenie "
+"legendarnego czaru."
 
 #: ../../DMU.rst:1609
 msgid ""
@@ -5017,8 +4874,6 @@ msgid "(|tap|: Add |mana_g| or |mana_w|.)"
 msgstr "(|tap|: Weź |mana_g| lub |mana_w|.)"
 
 #: ../../DMU.rst:1617
-#, fuzzy
-#| msgid "Karn's Sylex enters the battlefield tapped."
 msgid "Radiant Grove enters the battlefield tapped."
 msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
@@ -5034,8 +4889,6 @@ msgid "(|tap|: Add |mana_r| or |mana_w|.)"
 msgstr "(|tap|: Weź |mana_r| lub |mana_w|.)"
 
 #: ../../DMU.rst:1623
-#, fuzzy
-#| msgid "Karn's Sylex enters the battlefield tapped."
 msgid "Sacred Peaks enters the battlefield tapped."
 msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
@@ -5074,8 +4927,6 @@ msgid "(|tap|: Add |mana_w| or |mana_b|.)"
 msgstr "(|tap|: Weź |mana_w| lub |mana_b|.)"
 
 #: ../../DMU.rst:1641
-#, fuzzy
-#| msgid "Karn's Sylex enters the battlefield tapped."
 msgid "Sunlit Marsh enters the battlefield tapped."
 msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
@@ -5091,8 +4942,6 @@ msgid "(|tap|: Add |mana_g| or |mana_u|.)"
 msgstr "(|tap|: Weź |mana_g| lub |mana_u|.)"
 
 #: ../../DMU.rst:1647
-#, fuzzy
-#| msgid "Karn's Sylex enters the battlefield tapped."
 msgid "Tangled Islet enters the battlefield tapped."
 msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
@@ -5104,15 +4953,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:1651
-#, fuzzy
-#| msgid ""
-#| "Whenever another creature enters the battlefield under your control, you "
-#| "gain 1 life."
 msgid ""
 "Thran Portal enters the battlefield tapped unless you control two or fewer "
 "other lands."
 msgstr ""
-"Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, zyskaj 1 życie."
+"Ten byt wchodzi przekręcony na pole bitwy, chyba że władasz nie więcej niż "
+"dwoma innymi lądami."
 
 #: ../../DMU.rst:1653
 msgid "As Thran Portal enters the battlefield, choose a basic land type."
@@ -5138,8 +4984,6 @@ msgid "(|tap|: Add |mana_r| or |mana_g|.)"
 msgstr "(|tap|: Weź |mana_r| lub |mana_g|.)"
 
 #: ../../DMU.rst:1663
-#, fuzzy
-#| msgid "Karn's Sylex enters the battlefield tapped."
 msgid "Wooded Ridgeline enters the battlefield tapped."
 msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
@@ -5232,15 +5076,10 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:1699
-#, fuzzy
-#| msgid ""
-#| "Haughty Djinn's power is equal to the number of instant and sorcery cards "
-#| "in your graveyard."
 msgid ""
 "Draw cards equal to the number of instant and sorcery cards in your "
 "graveyard."
-msgstr ""
-"Siła tej karty jest równa liczbie kart sztuczek i obrzędów w twoim cmentarzu."
+msgstr "Dobierz tyle kart, ile jest kart sztuczek i obrzędów w twoim cmentarzu."
 
 #: ../../DMU.rst:1710
 msgid ""
@@ -5292,17 +5131,14 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:1721
-#, fuzzy
-#| msgid ""
-#| "Domain — Territorial Maro's power and toughness are each equal to twice "
-#| "the number of basic land types among lands you control."
 msgid ""
 "Domain — Whenever Briar Hydra deals combat damage to a player, put a X +1/+1 "
 "counters on target creature you control, where X is the number of basic land "
 "types among lands you control."
 msgstr ""
-"Domena — Siła i wytrzymałość tej karty są obie równe dwukrotności liczby "
-"bazowych typów lądu pośród lądów pod twoim władaniem."
+"Domena — Ilekroć ten stwór zada graczowi obrażenia bojowe, umieść X "
+"znaczników +1/+1 na wskazanym stworze pod twoim władaniem, gdzie X jest "
+"równe liczbie bazowych typów lądu pośród lądów pod twoim władaniem."
 
 #~ msgid ""
 #~ "Kicker |mana_1|\\ |mana_r| (You may pay an additional |mana_1|\\ |mana_r| "
