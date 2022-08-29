@@ -1,233 +1,234 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2013-2022, Dominik Kozaczko
 # This file is distributed under the same license as the MTG-pl package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-#, fuzzy
+# Weblate Admin <weblate-admin@kozaczko.info>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2022.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-29 05:51+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2022-08-29 04:47+0000\n"
+"Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
+"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/hbg/pl/>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.13.1\n"
 
 #: ../../symbols.rst:3
 msgid "{C}"
-msgstr ""
+msgstr "{C}"
 
 #: ../../symbols.rst:5
 msgid "{T}"
-msgstr ""
+msgstr "{T}"
 
 #: ../../symbols.rst:7
 msgid "{Q}"
-msgstr ""
+msgstr "{Q}"
 
 #: ../../symbols.rst:9
 msgid "{U}"
-msgstr ""
+msgstr "{U}"
 
 #: ../../symbols.rst:11
 msgid "{W}"
-msgstr ""
+msgstr "{W}"
 
 #: ../../symbols.rst:13
 msgid "{B}"
-msgstr ""
+msgstr "{B}"
 
 #: ../../symbols.rst:15
 msgid "{G}"
-msgstr ""
+msgstr "{G}"
 
 #: ../../symbols.rst:17
 msgid "{R}"
-msgstr ""
+msgstr "{R}"
 
 #: ../../symbols.rst:19
 msgid "{2/U}"
-msgstr ""
+msgstr "{2/U}"
 
 #: ../../symbols.rst:21
 msgid "{2/W}"
-msgstr ""
+msgstr "{2/W}"
 
 #: ../../symbols.rst:23
 msgid "{2/B}"
-msgstr ""
+msgstr "{2/B}"
 
 #: ../../symbols.rst:25
 msgid "{2/G}"
-msgstr ""
+msgstr "{2/G}"
 
 #: ../../symbols.rst:27
 msgid "{2/R}"
-msgstr ""
+msgstr "{2/R}"
 
 #: ../../symbols.rst:29
 msgid "{U/P}"
-msgstr ""
+msgstr "{U/P}"
 
 #: ../../symbols.rst:31
 msgid "{W/P}"
-msgstr ""
+msgstr "{W/P}"
 
 #: ../../symbols.rst:33
 msgid "{B/P}"
-msgstr ""
+msgstr "{B/P}"
 
 #: ../../symbols.rst:35
 msgid "{G/P}"
-msgstr ""
+msgstr "{G/P}"
 
 #: ../../symbols.rst:37
 msgid "{R/P}"
-msgstr ""
+msgstr "{R/P}"
 
 #: ../../symbols.rst:39
 msgid "{X}"
-msgstr ""
+msgstr "{X}"
 
 #: ../../symbols.rst:41
 msgid "{P}"
-msgstr ""
+msgstr "{P}"
 
 #: ../../symbols.rst:43
 msgid "{0}"
-msgstr ""
+msgstr "{0}"
 
 #: ../../symbols.rst:45
 msgid "{1}"
-msgstr ""
+msgstr "{1}"
 
 #: ../../symbols.rst:47
 msgid "{2}"
-msgstr ""
+msgstr "{2}"
 
 #: ../../symbols.rst:49
 msgid "{3}"
-msgstr ""
+msgstr "{3}"
 
 #: ../../symbols.rst:51
 msgid "{4}"
-msgstr ""
+msgstr "{4}"
 
 #: ../../symbols.rst:53
 msgid "{5}"
-msgstr ""
+msgstr "{5}"
 
 #: ../../symbols.rst:55
 msgid "{6}"
-msgstr ""
+msgstr "{6}"
 
 #: ../../symbols.rst:57
 msgid "{7}"
-msgstr ""
+msgstr "{7}"
 
 #: ../../symbols.rst:59
 msgid "{8}"
-msgstr ""
+msgstr "{8}"
 
 #: ../../symbols.rst:61
 msgid "{9}"
-msgstr ""
+msgstr "{9}"
 
 #: ../../symbols.rst:63
 msgid "{10}"
-msgstr ""
+msgstr "{10}"
 
 #: ../../symbols.rst:65
 msgid "{11}"
-msgstr ""
+msgstr "{11}"
 
 #: ../../symbols.rst:67
 msgid "{12}"
-msgstr ""
+msgstr "{12}"
 
 #: ../../symbols.rst:69
 msgid "{13}"
-msgstr ""
+msgstr "{13}"
 
 #: ../../symbols.rst:71
 msgid "{14}"
-msgstr ""
+msgstr "{14}"
 
 #: ../../symbols.rst:73
 msgid "{15}"
-msgstr ""
+msgstr "{15}"
 
 #: ../../symbols.rst:75
 msgid "{16}"
-msgstr ""
+msgstr "{16}"
 
 #: ../../symbols.rst:77
 msgid "{20}"
-msgstr ""
+msgstr "{20}"
 
 #: ../../symbols.rst:79
 msgid "{(r/g)}"
-msgstr ""
+msgstr "{(r/g)}"
 
 #: ../../symbols.rst:81
 msgid "{(r/w)}"
-msgstr ""
+msgstr "{(r/w)}"
 
 #: ../../symbols.rst:83
 msgid "{(u/b)}"
-msgstr ""
+msgstr "{(u/b)}"
 
 #: ../../symbols.rst:85
 msgid "{(u/r)}"
-msgstr ""
+msgstr "{(u/r)}"
 
 #: ../../symbols.rst:87
 msgid "{(w/b)}"
-msgstr ""
+msgstr "{(w/b)}"
 
 #: ../../symbols.rst:89
 msgid "{(w/u)}"
-msgstr ""
+msgstr "{(w/u)}"
 
 #: ../../symbols.rst:91
 msgid "{(b/g)}"
-msgstr ""
+msgstr "{(b/g)}"
 
 #: ../../symbols.rst:93
 msgid "{(b/r)}"
-msgstr ""
+msgstr "{(b/r)}"
 
 #: ../../symbols.rst:95
 msgid "{(g/w)}"
-msgstr ""
+msgstr "{(g/w)}"
 
 #: ../../symbols.rst:97
 msgid "{(g/u)}"
-msgstr ""
+msgstr "{(g/u)}"
 
 #: ../../symbols.rst:99
 msgid "{(g/u/p)}"
-msgstr ""
+msgstr "{(g/u/p)}"
 
 #: ../../symbols.rst:101
 msgid "{S}"
-msgstr ""
+msgstr "{S}"
 
 #: ../../symbols.rst:103
 msgid "{E}"
-msgstr ""
+msgstr "{E}"
 
 #: ../../symbols.rst:105
 msgid "{CHAOS}"
-msgstr ""
+msgstr "{CHAOS}"
 
 #: ../../symbols.rst:107
 msgid "{PW}"
-msgstr ""
+msgstr "{PW}"
 
 #: ../../HBG.rst:5
 msgid ":mtgexp:`HBG` Alchemy Horizons: Baldur's Gate"
@@ -287,7 +288,7 @@ msgstr ""
 #: ../../HBG.rst:23 ../../HBG.rst:41 ../../HBG.rst:49 ../../HBG.rst:55
 #: ../../HBG.rst:61 ../../HBG.rst:67 ../../HBG.rst:73
 msgid "Double strike"
-msgstr ""
+msgstr "Podwójny cios"
 
 #: ../../HBG.rst:25
 msgid ""
@@ -306,7 +307,7 @@ msgstr ""
 #: ../../HBG.rst:29 ../../HBG.rst:615 ../../HBG.rst:1167 ../../HBG.rst:2109
 #: ../../HBG.rst:2183 ../../HBG.rst:2345
 msgid "Vigilance"
-msgstr ""
+msgstr "Czujność"
 
 #: ../../HBG.rst:31
 msgid ""
@@ -323,7 +324,7 @@ msgstr ""
 
 #: ../../HBG.rst:35 ../../HBG.rst:633 ../../HBG.rst:1249
 msgid "Lifelink"
-msgstr ""
+msgstr "Więź życia"
 
 #: ../../HBG.rst:37
 msgid ""
@@ -442,7 +443,7 @@ msgstr ""
 #: ../../HBG.rst:1897 ../../HBG.rst:1907 ../../HBG.rst:1919 ../../HBG.rst:2221
 #: ../../HBG.rst:2291 ../../HBG.rst:2329 ../../HBG.rst:2379
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 #: ../../HBG.rst:83
 msgid ""
@@ -910,7 +911,7 @@ msgstr ""
 #: ../../HBG.rst:239 ../../HBG.rst:245 ../../HBG.rst:251 ../../HBG.rst:257
 #: ../../HBG.rst:263
 msgid "|tap|: Draw a card, then discard a card."
-msgstr ""
+msgstr "|tap|: Dobierz kartę, po czym odrzuć kartę."
 
 #: ../../HBG.rst:246
 msgid ""
@@ -1012,7 +1013,7 @@ msgstr ""
 
 #: ../../HBG.rst:279 ../../HBG.rst:571 ../../HBG.rst:2075 ../../HBG.rst:2299
 msgid "Trample"
-msgstr ""
+msgstr "Tratowanie"
 
 #: ../../HBG.rst:281
 msgid ""
@@ -1031,7 +1032,7 @@ msgstr ""
 
 #: ../../HBG.rst:285 ../../HBG.rst:579 ../../HBG.rst:609 ../../HBG.rst:927
 msgid "Menace"
-msgstr ""
+msgstr "Złowrogość"
 
 #: ../../HBG.rst:287
 msgid ""
@@ -1064,7 +1065,7 @@ msgstr ""
 
 #: ../../HBG.rst:295 ../../HBG.rst:449 ../../HBG.rst:621
 msgid "First strike"
-msgstr ""
+msgstr "Pierwszy cios"
 
 #: ../../HBG.rst:297
 msgid ""
@@ -1085,7 +1086,7 @@ msgstr ""
 #: ../../HBG.rst:341 ../../HBG.rst:563 ../../HBG.rst:1645 ../../HBG.rst:1651
 #: ../../HBG.rst:2131 ../../HBG.rst:2275
 msgid "Deathtouch"
-msgstr ""
+msgstr "Dotyk śmierci"
 
 #: ../../HBG.rst:303
 msgid "Specialize |mana_2|. Activate only if a player has 13 or less life."
@@ -1107,7 +1108,7 @@ msgstr ""
 
 #: ../../HBG.rst:309 ../../HBG.rst:2157
 msgid "Deathtouch, lifelink"
-msgstr ""
+msgstr "Dotyk śmierci, więź życia"
 
 #: ../../HBG.rst:311
 msgid ""
@@ -1304,7 +1305,7 @@ msgstr ""
 #: ../../HBG.rst:411 ../../HBG.rst:417 ../../HBG.rst:949 ../../HBG.rst:981
 #: ../../HBG.rst:2189
 msgid "Haste"
-msgstr ""
+msgstr "Pośpiech"
 
 #: ../../HBG.rst:389
 msgid ""
@@ -1495,7 +1496,7 @@ msgstr ""
 #: ../../HBG.rst:455 ../../HBG.rst:463 ../../HBG.rst:471 ../../HBG.rst:479
 #: ../../HBG.rst:487
 msgid "First strike, haste"
-msgstr ""
+msgstr "Pierwszy cios, pośpiech"
 
 #: ../../HBG.rst:457 ../../HBG.rst:465 ../../HBG.rst:473 ../../HBG.rst:481
 #: ../../HBG.rst:489
@@ -1839,7 +1840,7 @@ msgstr ""
 
 #: ../../HBG.rst:593
 msgid "Flying, lifelink"
-msgstr ""
+msgstr "Latanie, więź życia"
 
 #: ../../HBG.rst:595
 msgid ""
@@ -1972,12 +1973,12 @@ msgstr ""
 
 #: ../../HBG.rst:643 ../../HBG.rst:659 ../../HBG.rst:675
 msgid "Reach, trample"
-msgstr ""
+msgstr "Zasięg, tratowanie"
 
 #: ../../HBG.rst:645 ../../HBG.rst:653 ../../HBG.rst:661 ../../HBG.rst:669
 #: ../../HBG.rst:677 ../../HBG.rst:687 ../../HBG.rst:803
 msgid "Ward |mana_2|"
-msgstr ""
+msgstr "Opieka |mana_2|"
 
 #: ../../HBG.rst:656
 msgid ""
@@ -2178,7 +2179,7 @@ msgstr ""
 
 #: ../../HBG.rst:727 ../../HBG.rst:1613
 msgid "Equip |mana_1|"
-msgstr ""
+msgstr "Wyposaż |mana_1|"
 
 #: ../../HBG.rst:732
 msgid ""
@@ -2289,7 +2290,7 @@ msgstr ""
 
 #: ../../HBG.rst:771
 msgid "Choose one or more —"
-msgstr ""
+msgstr "Wybierz jedną lub więcej —"
 
 #: ../../HBG.rst:773
 msgid "Create two 2/2 white Knight creature tokens."
@@ -2301,15 +2302,15 @@ msgstr ""
 
 #: ../../HBG.rst:777
 msgid "Destroy target artifact."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt."
 
 #: ../../HBG.rst:779
 msgid "Destroy target enchantment."
-msgstr ""
+msgstr "Zniszcz wskazany urok."
 
 #: ../../HBG.rst:781
 msgid "Target player gains 3 life."
-msgstr ""
+msgstr "Wskazany gracz zyskuje 3 życia."
 
 #: ../../HBG.rst:788
 msgid ""
@@ -2345,7 +2346,7 @@ msgstr ""
 #: ../../HBG.rst:793 ../../HBG.rst:1311 ../../HBG.rst:1357 ../../HBG.rst:1461
 #: ../../HBG.rst:2087
 msgid "Draw a card."
-msgstr ""
+msgstr "Dobierz kartę."
 
 #: ../../HBG.rst:798
 msgid ""
@@ -2395,7 +2396,7 @@ msgstr ""
 
 #: ../../HBG.rst:813 ../../HBG.rst:1459
 msgid "Target creature gets -2/-0 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór do końca tury dostaje -2/-0."
 
 #: ../../HBG.rst:820
 msgid ""
@@ -2646,7 +2647,7 @@ msgstr ""
 
 #: ../../HBG.rst:897
 msgid "Enchant creature you control"
-msgstr ""
+msgstr "Zaurocz stwora pod twoim władaniem"
 
 #: ../../HBG.rst:899
 msgid ""
@@ -2736,6 +2737,8 @@ msgid ""
 "This spell costs |mana_1| less to cast for each creature you attacked with "
 "this turn."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_1| mniej za każdego stwora, którym "
+"zaatakowałeś w tej turze."
 
 #: ../../HBG.rst:937
 msgid "As long as it's your turn, Gnoll Hunting Party has first strike."
@@ -2972,7 +2975,7 @@ msgstr ""
 #: ../../HBG.rst:1481 ../../HBG.rst:1489 ../../HBG.rst:1497 ../../HBG.rst:1881
 #: ../../HBG.rst:1889 ../../HBG.rst:1935 ../../HBG.rst:2145
 msgid "Choose one —"
-msgstr ""
+msgstr "Wybierz jedno —"
 
 #: ../../HBG.rst:1019
 msgid "Aim for the Wyvern — Conjure a card named Plummet into your hand."
@@ -2998,6 +3001,7 @@ msgstr ""
 msgid ""
 "Permanents you control gain hexproof and indestructible until end of turn."
 msgstr ""
+"Do końca tury byty pod twoim władaniem zyskują antyklątwę i niezniszczalność."
 
 #: ../../HBG.rst:1029
 msgid ""
@@ -3132,7 +3136,7 @@ msgstr ""
 
 #: ../../HBG.rst:1069
 msgid "|tap|: Add |mana_b|."
-msgstr ""
+msgstr "|tap|: Weź |mana_b|."
 
 #: ../../HBG.rst:1078
 msgid ""
@@ -3151,7 +3155,7 @@ msgstr ""
 
 #: ../../HBG.rst:1077
 msgid "|tap|: Add |mana_g|."
-msgstr ""
+msgstr "|tap|: Weź |mana_g|."
 
 #: ../../HBG.rst:1086
 msgid ""
@@ -3170,7 +3174,7 @@ msgstr ""
 
 #: ../../HBG.rst:1085
 msgid "|tap|: Add |mana_u|."
-msgstr ""
+msgstr "|tap|: Weź |mana_u|."
 
 #: ../../HBG.rst:1094
 msgid ""
@@ -3189,7 +3193,7 @@ msgstr ""
 
 #: ../../HBG.rst:1093
 msgid "|tap|: Add |mana_w|."
-msgstr ""
+msgstr "|tap|: Weź |mana_w|."
 
 #: ../../HBG.rst:1102
 msgid ""
@@ -3208,7 +3212,7 @@ msgstr ""
 
 #: ../../HBG.rst:1101
 msgid "|tap|: Add |mana_r|."
-msgstr ""
+msgstr "|tap|: Weź |mana_r|."
 
 #: ../../HBG.rst:1108
 msgid ""
@@ -3249,7 +3253,7 @@ msgstr ""
 #: ../../HBG.rst:1667 ../../HBG.rst:1675 ../../HBG.rst:1781 ../../HBG.rst:2391
 #: ../../HBG.rst:2463 ../../HBG.rst:2475 ../../HBG.rst:2487 ../../HBG.rst:2507
 msgid "Flash"
-msgstr ""
+msgstr "Błysk"
 
 #: ../../HBG.rst:1117
 msgid ""
@@ -3322,7 +3326,7 @@ msgstr ""
 
 #: ../../HBG.rst:1145
 msgid "Whenever you gain life, put a +1/+1 counter on Celestial Unicorn."
-msgstr ""
+msgstr "Ilekroć zyskasz życia, umieść znacznik +1/+1 na tym stworze."
 
 #: ../../HBG.rst:1156
 msgid ""
@@ -3333,19 +3337,19 @@ msgstr ""
 
 #: ../../HBG.rst:1149
 msgid "When Dawnbringer Cleric enters the battlefield, choose one —"
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wybierz jedną —"
 
 #: ../../HBG.rst:1151
 msgid "Cure Wounds — You gain 2 life."
-msgstr ""
+msgstr "Leczenie ran — Zyskaj 2 życia."
 
 #: ../../HBG.rst:1153
 msgid "Dispel Magic — Destroy target enchantment."
-msgstr ""
+msgstr "Rozproszenie magii — Zniszcz wskazany urok."
 
 #: ../../HBG.rst:1155
 msgid "Gentle Repose — Exile target card from a graveyard."
-msgstr ""
+msgstr "Spokojny spoczynek — Wygnaj wskazaną kartę z cmentarza."
 
 #: ../../HBG.rst:1160
 msgid ""
@@ -3359,6 +3363,8 @@ msgid ""
 "Beacon of Hope — When Devoted Paladin enters the battlefield, creatures you "
 "control get +1/+1 and gain vigilance until end of turn."
 msgstr ""
+"Promyk nadziei — Kiedy ten byt wejdzie na pole bitwy, stwory pod twoim "
+"władaniem dostają do końca tury +1/+1 i czujność."
 
 #: ../../HBG.rst:1164
 msgid ""
@@ -3410,7 +3416,7 @@ msgstr ""
 
 #: ../../HBG.rst:1177
 msgid "Destroy target creature with power 4 or greater."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora o sile 4 lub większej."
 
 #: ../../HBG.rst:1179
 msgid ""
@@ -3428,11 +3434,11 @@ msgstr ""
 
 #: ../../HBG.rst:1183
 msgid "Equipped creature gets +1/+1 for each creature you control."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +1/+1 za każdego stwora pod twoim władaniem."
 
 #: ../../HBG.rst:1185 ../../HBG.rst:1747
 msgid "Equip |mana_3|"
-msgstr ""
+msgstr "Wyposaż |mana_3|"
 
 #: ../../HBG.rst:1190
 msgid ""
@@ -3495,7 +3501,7 @@ msgstr ""
 
 #: ../../HBG.rst:1205
 msgid "Enchant nonland permanent"
-msgstr ""
+msgstr "Zaurocz nie-lądowy byt"
 
 #: ../../HBG.rst:1207
 msgid ""
@@ -3503,6 +3509,9 @@ msgid ""
 "artifact: Add one mana of any color,\" and it loses all other abilities. (If "
 "it was a creature, it's no longer a creature.)"
 msgstr ""
+"Zauroczony byt jest artefaktem typu Skarb mającym \"|tap|, poświęć ten "
+"artefakt: Weź jedną manę dowolnego koloru\" i traci wszystkie inne "
+"zdolności. (Jeśli był stworem, to już nie jest stworem.)"
 
 #: ../../HBG.rst:1212
 msgid ""
@@ -3516,6 +3525,8 @@ msgid ""
 "Flurry of Blows — Whenever you cast your second spell each turn, put a +1/+1 "
 "counter on Monk of the Open Hand."
 msgstr ""
+"Nawał ciosów — Ilekroć rzucisz swój drugi czar w danej turze, umieść "
+"znacznik +1/+1 na tym stworze."
 
 #: ../../HBG.rst:1218
 msgid ""
@@ -3559,6 +3570,9 @@ msgid ""
 "opponent controls with mana value 2 or less until Portable Hole leaves the "
 "battlefield."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, wygnaj wskazany nielądowy byt o skrócie "
+"many 2 lub mniejszym pod władaniem przeciwnika dopóki niniejszy artefakt nie "
+"opuści pola bitwy."
 
 #: ../../HBG.rst:1230
 msgid ""
@@ -3571,7 +3585,7 @@ msgstr ""
 msgid ""
 "When Priest of Ancient Lore enters the battlefield, you gain 1 life and draw "
 "a card."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie i dobierz kartę."
 
 #: ../../HBG.rst:1234
 msgid ""
@@ -3585,6 +3599,8 @@ msgid ""
 "Target creature gets +2/+0 and gains first strike until end of turn. Up to "
 "one other target creature gets +0/+2 and gains lifelink until end of turn."
 msgstr ""
+"Wskazany stwór do końca tury dostaje +2/+0 i pierwszy cios. Co najwyżej "
+"jeden inny wskazany stwór do końca tury dostaje +0/+2 i więź życia."
 
 #: ../../HBG.rst:1240
 msgid ""
@@ -3670,11 +3686,12 @@ msgstr ""
 
 #: ../../HBG.rst:1267
 msgid "Rouse the Party — Creatures you control get +1/+1 until end of turn."
-msgstr ""
+msgstr "Obudź drużynę — Stwory pod twoim władaniem dostają do końca tury +1/+1."
 
 #: ../../HBG.rst:1269
 msgid "Set Off Traps — This spell deals 5 damage to target attacking creature."
 msgstr ""
+"Uruchom pułapki — Ten czar zadaje wskazanemu atakującemu stworowi 5 obrażeń."
 
 #: ../../HBG.rst:1274
 msgid ""
@@ -3710,10 +3727,11 @@ msgstr ""
 msgid ""
 "Make a Retreat — Return target creature you control to its owner's hand."
 msgstr ""
+"Uciekaj — Przywróć wskazanego stwora pod twoim władaniem do ręki właściciela."
 
 #: ../../HBG.rst:1285
 msgid "Stand and Fight — Target creature gets +1/+3 until end of turn."
-msgstr ""
+msgstr "Stań do walki — Wskazany stwór do końca tury dostaje +1/+3."
 
 #: ../../HBG.rst:1294
 msgid ""
@@ -3743,6 +3761,8 @@ msgid ""
 "Whirlwind — When Air-Cult Elemental enters the battlefield, return up to one "
 "other target creature to its owner's hand."
 msgstr ""
+"Trąba powietrzna — Kiedy ten byt wejdzie na pole bitwy, przywróć co najwyżej "
+"jednego innego wskazanego stwora do ręki właściciela."
 
 #: ../../HBG.rst:1306
 msgid ""
@@ -3770,6 +3790,8 @@ msgid ""
 "Exile target creature you control, then return that card to the battlefield "
 "under its owner's control."
 msgstr ""
+"Wygnaj wskazanego stwora pod twoim władaniem, po czym przywróć ową kartę na "
+"pole bitwy po władaniem właściciela."
 
 #: ../../HBG.rst:1320
 msgid ""
@@ -3780,15 +3802,15 @@ msgstr ""
 
 #: ../../HBG.rst:1315 ../../HBG.rst:1437
 msgid "Enchant creature"
-msgstr ""
+msgstr "Zaurocz stwora"
 
 #: ../../HBG.rst:1317
 msgid "When Charmed Sleep enters the battlefield, tap enchanted creature."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, przekręć zauroczonego stwora."
 
 #: ../../HBG.rst:1319 ../../HBG.rst:1443
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr ""
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
 
 #: ../../HBG.rst:1324
 msgid ""
@@ -3802,6 +3824,8 @@ msgid ""
 "Mage Hand — |tap|: Untap target permanent not named Clever Conjurer. "
 "Activate only as a sorcery."
 msgstr ""
+"Ręka maga — |tap|: Odkręć wskazany byt nie mający nazwy Clever Conjurer. "
+"Aktywuj tylko jako obrzęd."
 
 #: ../../HBG.rst:1334
 msgid ""
@@ -3812,19 +3836,19 @@ msgstr ""
 
 #: ../../HBG.rst:1327
 msgid "Roll a d20."
-msgstr ""
+msgstr "Rzuć k20."
 
 #: ../../HBG.rst:1329
 msgid "1—9 | Draw two cards."
-msgstr ""
+msgstr "1—9 | Dobierz dwie karty."
 
 #: ../../HBG.rst:1331
 msgid "10—19 | Scry 2, then draw two cards."
-msgstr ""
+msgstr "10—19 | Wróż 2, po czym dobierz dwie karty."
 
 #: ../../HBG.rst:1333
 msgid "20 | Scry 3, then draw three cards."
-msgstr ""
+msgstr "20 | Wróż 3, po czym dobierz trzy karty."
 
 #: ../../HBG.rst:1338
 msgid ""
@@ -3849,11 +3873,11 @@ msgstr ""
 
 #: ../../HBG.rst:1341
 msgid "This spell costs |mana_2| less to cast if you control a Dragon."
-msgstr ""
+msgstr "Rzucenie tego czaru kosztuje o |mana_2| mniej jeśli władasz Smokiem."
 
 #: ../../HBG.rst:1343
 msgid "Draw three cards."
-msgstr ""
+msgstr "Dobierz trzy karty."
 
 #: ../../HBG.rst:1348
 msgid ""
@@ -3864,7 +3888,7 @@ msgstr ""
 
 #: ../../HBG.rst:1347 ../../HBG.rst:1351
 msgid "|mana_1|, |tap|: Draw a card, then discard a card."
-msgstr ""
+msgstr "|mana_1|, |tap|: Dobierz kartę, po czym odrzuć kartę."
 
 #: ../../HBG.rst:1352
 msgid ""
@@ -3882,7 +3906,7 @@ msgstr ""
 
 #: ../../HBG.rst:1355
 msgid "Counter target spell. Its controller draws a card."
-msgstr ""
+msgstr "Skontruj wskazany czar. Jego władca dobiera kartę."
 
 #: ../../HBG.rst:1366
 msgid ""
@@ -3926,6 +3950,8 @@ msgid ""
 "Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip only "
 "as a sorcery.)"
 msgstr ""
+"Wyposaż |mana_2| (|mana_2|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Aktywuj tylko jako obrzęd.)"
 
 #: ../../HBG.rst:1378
 msgid ""
@@ -3939,6 +3965,8 @@ msgid ""
 "Equip |mana_1| (|mana_1|: Attach to target creature you control. Equip only "
 "as a sorcery.)"
 msgstr ""
+"Wyposaż |mana_1| (|mana_1|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Aktywuj tylko jako obrzęd.)"
 
 #: ../../HBG.rst:1384
 msgid ""
@@ -3952,11 +3980,15 @@ msgid ""
 "Whenever Guild Thief deals combat damage to a player, put a +1/+1 counter on "
 "it."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, umieść na nim znacznik +1/"
+"+1."
 
 #: ../../HBG.rst:1383
 msgid ""
 "Cunning Action — |mana_3|\\ |mana_u|: Guild Thief can't be blocked this turn."
 msgstr ""
+"Przebiegła akcja — |mana_3|\\ |mana_u|: Ten stwór nie może być blokowany w "
+"tej turze."
 
 #: ../../HBG.rst:1388
 msgid ""
@@ -4046,13 +4078,15 @@ msgstr ""
 
 #: ../../HBG.rst:1413
 msgid "As Kindred Discovery enters the battlefield, choose a creature type."
-msgstr ""
+msgstr "Przy wejściu tego bytu na pole bitwy, wybierz typ stwora."
 
 #: ../../HBG.rst:1415
 msgid ""
 "Whenever a creature you control of the chosen type enters the battlefield or "
 "attacks, draw a card."
 msgstr ""
+"Ilekroć stwór wybranego typu pod twoim władaniem wejdzie na pole bitwy lub "
+"zaatakuje, dobierz kartę."
 
 #: ../../HBG.rst:1420
 msgid ""
@@ -4078,7 +4112,7 @@ msgstr ""
 
 #: ../../HBG.rst:1425 ../../HBG.rst:1431
 msgid "|mana_2|\\ |mana_u|: Target creature gains flying until end of turn."
-msgstr ""
+msgstr "|mana_2|\\ |mana_u|: Wskazany stwór do końca tury zyskuje latanie."
 
 #: ../../HBG.rst:1432
 msgid ""
@@ -4099,10 +4133,12 @@ msgid ""
 "When Ray of Frost enters the battlefield, if enchanted creature is red, tap "
 "it."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, jeśli zauroczony stwór jest czerwony, "
+"przekręć go."
 
 #: ../../HBG.rst:1441
 msgid "As long as enchanted creature is red, it loses all abilities."
-msgstr ""
+msgstr "O ile zauroczony stwór jest czerwony, traci on wszystkie zdolności."
 
 #: ../../HBG.rst:1448
 msgid ""
@@ -4116,6 +4152,8 @@ msgid ""
 "Ward |mana_3| (Whenever this creature becomes the target of a spell or "
 "ability an opponent controls, counter it unless that player pays |mana_3|.)"
 msgstr ""
+"Opieka |mana_3| (Ilekroć ten stwór zostanie wskazany przez czar lub zdolność "
+"pod władaniem przeciwnika, skontruj to, chyba że ów gracz zapłaci |mana_3|.)"
 
 #: ../../HBG.rst:1456
 msgid ""
@@ -4132,7 +4170,7 @@ msgstr ""
 
 #: ../../HBG.rst:1453
 msgid "Equip |mana_4|"
-msgstr ""
+msgstr "Wyposaż |mana_4|"
 
 #: ../../HBG.rst:1455
 msgid "Equip Shaman, Warlock, or Wizard |mana_1|"
@@ -4154,7 +4192,7 @@ msgstr ""
 
 #: ../../HBG.rst:1465
 msgid "Whenever Soulknife Spy deals combat damage to a player, draw a card."
-msgstr ""
+msgstr "Ilekroć ten stwór zada graczowi obrażenia bojowe, dobierz kartę."
 
 #: ../../HBG.rst:1470
 msgid ""
@@ -4205,13 +4243,15 @@ msgstr ""
 #: ../../HBG.rst:1483
 msgid ""
 "Fight the Current — Return target nonland permanent to its owner's hand."
-msgstr ""
+msgstr "Walcz z prądem — Przywróć wskazany nielądowy byt do ręki właściciela."
 
 #: ../../HBG.rst:1485 ../../HBG.rst:1493
 msgid ""
 "Find a Crossing — Target creature gets +1/+0 until end of turn and can't be "
 "blocked this turn."
 msgstr ""
+"Znajdź bród — Wskazany stwór do końca tury dostaje +1/+0 i nie może być "
+"blokowany w tej turze."
 
 #: ../../HBG.rst:1494
 msgid ""
@@ -4236,11 +4276,11 @@ msgstr ""
 
 #: ../../HBG.rst:1499
 msgid "Foil Their Scheme — Counter target spell."
-msgstr ""
+msgstr "Zniwecz ich plany — Skontruj wskazany czar."
 
 #: ../../HBG.rst:1501
 msgid "Learn Their Secrets — Draw two cards, then discard two cards."
-msgstr ""
+msgstr "Poznaj ich sekrety — Dobierz dwie karty, po czym odrzuć dwie karty."
 
 #: ../../HBG.rst:1506
 msgid ""
@@ -4295,7 +4335,7 @@ msgstr ""
 
 #: ../../HBG.rst:1521
 msgid "You draw three cards and you lose 3 life."
-msgstr ""
+msgstr "Dobierz trzy karty i strać 3 życia."
 
 #: ../../HBG.rst:1528
 msgid ""
@@ -4334,17 +4374,20 @@ msgstr ""
 
 #: ../../HBG.rst:1535 ../../HBG.rst:1543
 msgid "When Baleful Beholder enters the battlefield, choose one —"
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wybierz jedną —"
 
 #: ../../HBG.rst:1537 ../../HBG.rst:1545
 msgid "Antimagic Cone — Each opponent sacrifices an enchantment."
-msgstr ""
+msgstr "Stożek antymagii — Każdy przeciwnik poświęca urok."
 
 #: ../../HBG.rst:1539 ../../HBG.rst:1547
 msgid ""
 "Fear Ray — Creatures you control gain menace until end of turn. (A creature "
 "with menace can't be blocked except by two or more creatures.)"
 msgstr ""
+"Promień strachu — Stwory pod twoim władaniem zyskują do końca tury "
+"złowrogość. (Stwór ze złowrogością nie może być blokowany, chyba że przez co "
+"najmniej dwa stwory.)"
 
 #: ../../HBG.rst:1548
 msgid ""
@@ -4365,6 +4408,8 @@ msgid ""
 "Acid Breath — When Black Dragon enters the battlefield, target creature an "
 "opponent controls gets -3/-3 until end of turn."
 msgstr ""
+"Kwasowy oddech — Kiedy ten byt wejdzie na pole bitwy, wskazany stwór pod "
+"władaniem przeciwnika do końca tury dostaje -3/-3."
 
 #: ../../HBG.rst:1564
 msgid ""
@@ -4427,7 +4472,7 @@ msgstr ""
 
 #: ../../HBG.rst:1575
 msgid "Destroy target nonlegendary creature."
-msgstr ""
+msgstr "Zniszcz wskazanego nie-legendarnego stwora."
 
 #: ../../HBG.rst:1580
 msgid ""
@@ -4452,13 +4497,15 @@ msgstr ""
 #: ../../HBG.rst:1583
 msgid ""
 "As an additional cost to cast this spell, sacrifice an artifact or creature."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć artefakt lub stwora."
 
 #: ../../HBG.rst:1585
 msgid ""
 "Draw two cards and create a Treasure token. (It's an artifact with \"|tap|, "
 "Sacrifice this artifact: Add one mana of any color.\")"
 msgstr ""
+"Dobierz dwie karty i stwórz żeton Skarbu. (To artefakt mający \"|tap|, "
+"poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../HBG.rst:1590
 msgid ""
@@ -4473,6 +4520,9 @@ msgid ""
 "mill a card, a player puts the top card of their library into their "
 "graveyard.)"
 msgstr ""
+"Wskazany przeciwnik odrzuca dwie karty, mieli dwie karty i traci 2 życia. ("
+"Mieląc kartę gracz umieszcza wierzchnią kartę swojej biblioteki w swoim "
+"cmentarzu.)"
 
 #: ../../HBG.rst:1596
 msgid ""
@@ -4483,13 +4533,15 @@ msgstr ""
 
 #: ../../HBG.rst:1593 ../../HBG.rst:2021
 msgid "Reach"
-msgstr ""
+msgstr "Zasięg"
 
 #: ../../HBG.rst:1595
 msgid ""
 "Whenever Drider deals combat damage to a player, create a 2/1 black Spider "
 "creature token with menace and reach."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, stwórz żeton czarnego "
+"stwora Pająk 2/1 ze złowrogością i zasięgiem."
 
 #: ../../HBG.rst:1600
 msgid ""
@@ -4513,7 +4565,7 @@ msgstr ""
 
 #: ../../HBG.rst:1603 ../../HBG.rst:1607
 msgid "Target creature gets -11/-11 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór do końca tury dostaje -11/-11."
 
 #: ../../HBG.rst:1608
 msgid ""
@@ -4586,6 +4638,8 @@ msgid ""
 "Destroy target creature or planeswalker. Create a Treasure token. (It's an "
 "artifact with \"|tap|, Sacrifice this artifact: Add one mana of any color.\")"
 msgstr ""
+"Zniszcz wskazanego stwora lub wędrowca. Stwórz żeton skarbu. (To artefakt "
+"mający \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../HBG.rst:1636
 msgid ""
@@ -4599,6 +4653,8 @@ msgid ""
 "Whenever one or more creatures you control deal combat damage to a player, "
 "create two Treasure tokens."
 msgstr ""
+"Ilekroć jeden lub więcej stworów pod twoim władaniem zada graczowi obrażenia "
+"bojowe, stwórz dwa żetony Skarbu."
 
 #: ../../HBG.rst:1635
 msgid ""
@@ -4615,7 +4671,7 @@ msgstr ""
 
 #: ../../HBG.rst:1641
 msgid "Tragic Backstory — Cast this spell only if a creature died this turn."
-msgstr ""
+msgstr "Tragiczna historia — Rzuć ten czar tylko jeśli w tej turze umarł stwór."
 
 #: ../../HBG.rst:1648
 msgid ""
@@ -4648,6 +4704,9 @@ msgid ""
 "token. (It's an artifact with \"|tap|, Sacrifice this artifact: Add one mana "
 "of any color.\")"
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, stwórz żeton Skarbu. (To "
+"artefakt mający \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego "
+"koloru.\")"
 
 #: ../../HBG.rst:1664
 msgid ""
@@ -4682,6 +4741,8 @@ msgid ""
 "Tail Spikes — When Manticore enters the battlefield, destroy target creature "
 "an opponent controls that was dealt damage this turn."
 msgstr ""
+"Kolczasty ogon — Kiedy ten byt wejdzie na pole bitwy, zniszcz wskazanego "
+"stwora pod władaniem przeciwnika, który otrzymał obrażenia w tej turze."
 
 #: ../../HBG.rst:1680
 msgid ""
@@ -4726,7 +4787,7 @@ msgstr ""
 
 #: ../../HBG.rst:1693
 msgid "Equip—Discard a card."
-msgstr ""
+msgstr "Wyposaż—Odrzuć kartę."
 
 #: ../../HBG.rst:1698
 msgid ""
@@ -4740,6 +4801,8 @@ msgid ""
 "Sacrifice another creature: Sepulcher Ghoul gets +2/+2 until end of turn. "
 "Activate only once each turn."
 msgstr ""
+"Poświęć innego stwora: Ten stwór do końca tury dostaje +2/+2. Aktywuj tylko "
+"raz na turę."
 
 #: ../../HBG.rst:1702
 msgid ""
@@ -4757,19 +4820,23 @@ msgstr ""
 
 #: ../../HBG.rst:1705
 msgid "When Shambling Ghast dies, choose one —"
-msgstr ""
+msgstr "Kiedy ten stwór umrze, wybierz jedną —"
 
 #: ../../HBG.rst:1707
 msgid ""
 "Brave the Stench — Target creature an opponent controls gets -1/-1 until end "
 "of turn."
 msgstr ""
+"Odważ się na smród — Wskazany stwór pod władaniem przeciwnika do końca tury "
+"dostaje -1/-1."
 
 #: ../../HBG.rst:1709
 msgid ""
 "Search the Body — Create a Treasure token. (It's an artifact with \"|tap|, "
 "Sacrifice this artifact: Add one mana of any color.\")"
 msgstr ""
+"Przeszukaj zwłoki — Stwórz żeton skarbu. (To artefakt mający \"|tap|, "
+"poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../HBG.rst:1714
 msgid ""
@@ -4806,11 +4873,13 @@ msgid ""
 "(It's an artifact with \"|tap|, Sacrifice this artifact: Add one mana of any "
 "color.\")"
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton Skarbu. (To artefakt "
+"mający \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../HBG.rst:1723
 msgid ""
 "|mana_1|\\ |mana_b|, Sacrifice another creature or a Treasure: Draw a card."
-msgstr ""
+msgstr "|mana_1|\\ |mana_b|, poświęć innego stwora lub Skarb: Dobierz kartę."
 
 #: ../../HBG.rst:1728
 msgid ""
@@ -4839,10 +4908,12 @@ msgid ""
 "an artifact with \"|tap|, Sacrifice this artifact: Add one mana of any color."
 "\")"
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton Skarbu. (To artefakt "
+"mający \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../HBG.rst:1733
 msgid "Equipped creature can't be blocked as long as its power is 3 or less."
-msgstr ""
+msgstr "Wyposażony stwór nie może być blokowany o ile ma siłę 3 lub mniejszą."
 
 #: ../../HBG.rst:1740
 msgid ""
@@ -4856,6 +4927,8 @@ msgid ""
 "When Vampire Spawn enters the battlefield, each opponent loses 2 life and "
 "you gain 2 life."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, każdy przeciwnik traci po 2 życia, a ty "
+"zyskaj 2 życia."
 
 #: ../../HBG.rst:1748
 msgid ""
@@ -4901,6 +4974,8 @@ msgid ""
 "|mana_1|\\ |mana_r|: Goblins you control get +1/+0 and gain haste until end "
 "of turn."
 msgstr ""
+"|mana_1|\\ |mana_r|: Gobliny pod twoim władaniem dostają do końca tury +1/+0 "
+"i pośpiech."
 
 #: ../../HBG.rst:1759
 msgid ""
@@ -4908,6 +4983,9 @@ msgid ""
 "creatures with total power 6 or greater this combat, create a 1/1 red Goblin "
 "creature token that's tapped and attacking."
 msgstr ""
+"Taktyka stada — Ilekroć ten stwór zaatakuje, jeśli w tej potyczce "
+"zaatakowałeś stworami o łącznej sile 6 lub więcej, stwórz przekręcony i "
+"atakujący żeton czerwonego stwora Goblin 1/1."
 
 #: ../../HBG.rst:1764
 msgid ""
@@ -4960,6 +5038,8 @@ msgid ""
 "As an additional cost to cast this spell, you may reveal a Dragon card from "
 "your hand or choose a Dragon you control."
 msgstr ""
+"Jako dodatkowy koszt rzucenia tego czaru — możesz ujawnić z twojej ręki "
+"kartę Smoka lub wybrać smoka pod twoim władaniem."
 
 #: ../../HBG.rst:1777
 msgid ""
@@ -4967,6 +5047,9 @@ msgid ""
 "revealed a Dragon card or chose a Dragon as you cast this spell, Dragon's "
 "Fire deals damage equal to the power of that card or creature instead."
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi lub wędrowcowi 3 obrażenia. Jeśli "
+"rzucając ten czar ujawniłeś kartę Smoka lub wybrałeś Smoka, zamiast tego ten "
+"czar zadaje obrażenia równe sile owej karty."
 
 #: ../../HBG.rst:1788
 msgid ""
@@ -4980,16 +5063,20 @@ msgid ""
 "When Dueling Rapier enters the battlefield, attach it to target creature you "
 "control."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, dołącz go do wskazanego stwora pod "
+"twoim władaniem."
 
 #: ../../HBG.rst:1785
 msgid "Equipped creature gets +2/+0."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +2/+0."
 
 #: ../../HBG.rst:1787
 msgid ""
 "Equip |mana_4| (|mana_4|: Attach to target creature you control. Equip only "
 "as a sorcery.)"
 msgstr ""
+"Wyposaż |mana_4| (|mana_4|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Aktywuj tylko jako obrzęd.)"
 
 #: ../../HBG.rst:1798
 msgid ""
@@ -5001,19 +5088,19 @@ msgstr ""
 #: ../../HBG.rst:1791
 msgid ""
 "Siege Monster — When Earth-Cult Elemental enters the battlefield, roll a d20."
-msgstr ""
+msgstr "Potwór oblężniczy — Kiedy ten byt wejdzie na pole bitwy, rzuć k20."
 
 #: ../../HBG.rst:1793
 msgid "1—9 | Each player sacrifices a permanent."
-msgstr ""
+msgstr "1—9 | Każdy gracz poświęca byt."
 
 #: ../../HBG.rst:1795
 msgid "10—19 | Each opponent sacrifices a permanent."
-msgstr ""
+msgstr "10—19 | Każdy przeciwnik poświęca byt."
 
 #: ../../HBG.rst:1797
 msgid "20 | Each opponent sacrifices two permanents."
-msgstr ""
+msgstr "20 | Każdy przeciwnik poświęca dwa byty."
 
 #: ../../HBG.rst:1806
 msgid ""
@@ -5026,15 +5113,15 @@ msgstr ""
 msgid ""
 "Farideh's Fireball deals 5 damage to target creature or planeswalker. Roll a "
 "d20."
-msgstr ""
+msgstr "Ten czar zadaje 5 obrażeń wskazanemu stworowi lub wędrowcowi. Rzuć k20."
 
 #: ../../HBG.rst:1803
 msgid "1—9 | Farideh's Fireball deals 2 damage to each player."
-msgstr ""
+msgstr "1—9 | Ten czar zadaje każdemu graczowi po 2 obrażenia."
 
 #: ../../HBG.rst:1805
 msgid "10—20 | Farideh's Fireball deals 2 damage to each opponent."
-msgstr ""
+msgstr "10—20 | Ten czar zadaje każdemu przeciwnikowi po 2 obrażenia."
 
 #: ../../HBG.rst:1814
 msgid ""
@@ -5055,7 +5142,7 @@ msgstr ""
 
 #: ../../HBG.rst:1813
 msgid "Equip |mana_2|\\ |mana_r|"
-msgstr ""
+msgstr "Wyposaż |mana_2|\\ |mana_r|"
 
 #: ../../HBG.rst:1818
 msgid ""
@@ -5070,6 +5157,9 @@ msgid ""
 "creatures with total power 6 or greater this combat, Hobgoblin Captain gains "
 "first strike until end of turn."
 msgstr ""
+"Taktyka stada — Ilekroć ten stwór zaatakuje, jeśli w tej potyczce "
+"zaatakowałeś stworami o łącznej sile 6 lub więcej, ten stwór do końca tury "
+"dostaje pierwszy cios."
 
 #: ../../HBG.rst:1822
 msgid ""
@@ -5084,6 +5174,9 @@ msgid ""
 "(It's an artifact with \"|tap|, Sacrifice this artifact: Add one mana of any "
 "color.\")"
 msgstr ""
+"Ten czar zadaje wskazanemu celowi 2 obrażenia. Stwórz żeton Skarbu. (To "
+"artefakt mający \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego "
+"koloru.\")"
 
 #: ../../HBG.rst:1826
 msgid ""
@@ -5097,6 +5190,8 @@ msgid ""
 "When Jaded Sell-Sword enters the battlefield, if mana from a Treasure was "
 "spent to cast it, it gains first strike and haste until end of turn."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, jeśli do jego rzucenia użyto manę ze "
+"Skarbu, zyskuje on do końca tury pierwszy cios i pośpiech."
 
 #: ../../HBG.rst:1832
 msgid ""
@@ -5136,6 +5231,8 @@ msgid ""
 "Fire Breath — When Red Dragon enters the battlefield, it deals 4 damage to "
 "each opponent."
 msgstr ""
+"Ognisty oddech — Kiedy ten byt wejdzie na pole bitwy, zadaje on każdemu "
+"przeciwnikowi po 4 obrażenia."
 
 #: ../../HBG.rst:1846
 msgid ""
@@ -5185,7 +5282,7 @@ msgstr ""
 
 #: ../../HBG.rst:1857
 msgid "Equip |mana_1|\\ |mana_r|"
-msgstr ""
+msgstr "Wyposaż |mana_1|\\ |mana_r|"
 
 #: ../../HBG.rst:1862
 msgid ""
@@ -5210,13 +5307,15 @@ msgstr ""
 
 #: ../../HBG.rst:1865
 msgid "As an additional cost to cast this spell, discard a card."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — odrzuć kartę."
 
 #: ../../HBG.rst:1867
 msgid ""
 "Draw two cards and create two Treasure tokens. (They're artifacts with \"|"
 "tap|, Sacrifice this artifact: Add one mana of any color.\")"
 msgstr ""
+"Dobierz dwie karty i stwórz dwa żetony Skarbu. (To artefakty mające \"|tap|, "
+"poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../HBG.rst:1872
 msgid ""
@@ -5230,6 +5329,8 @@ msgid ""
 "Combat Inspiration — At the beginning of combat on your turn, target "
 "creature you control gets +1/+0 until end of turn."
 msgstr ""
+"Zagrzewanie do walki — Na początku potyczki w twojej turze, wskazany stwór "
+"pod twoim władaniem do końca tury dostaje +1/+0."
 
 #: ../../HBG.rst:1878
 msgid ""
@@ -5255,10 +5356,11 @@ msgstr ""
 #: ../../HBG.rst:1883
 msgid "Intimidate Them — Up to two target creatures can't block this turn."
 msgstr ""
+"Zastrasz ich — Co najwyżej dwa wskazane stwory nie mogą blokować w tej turze."
 
 #: ../../HBG.rst:1885
 msgid "Fend Them Off — Target creature gets +3/+1 until end of turn."
-msgstr ""
+msgstr "Przegoń ich — Wskazany stwór do końca tury dostaje +3/+1."
 
 #: ../../HBG.rst:1894
 msgid ""
@@ -5269,7 +5371,7 @@ msgstr ""
 
 #: ../../HBG.rst:1891
 msgid "Break Their Chains — Destroy target artifact."
-msgstr ""
+msgstr "Zniszcz ich łańcuchy — Zniszcz wskazany artefakt."
 
 #: ../../HBG.rst:1893
 msgid ""
@@ -5277,6 +5379,10 @@ msgid ""
 "Choose one of them. Until the end of your next turn, you may play that card, "
 "and you may spend mana as though it were mana of any color to cast it."
 msgstr ""
+"Przesłuchaj ich — Wygnaj trzy wierzchnie karty biblioteki wskazanego "
+"przeciwnika. Wybierz jedną z nich. Możesz zagrać ową kartę do końca twojej "
+"najbliższej tury i możesz do jej rzucenia wydawać manę tak, jakby była maną "
+"dowolnego koloru."
 
 #: ../../HBG.rst:1900
 msgid ""
@@ -5360,6 +5466,8 @@ msgid ""
 "Up to two target creatures you control each deal damage equal to their power "
 "to another target creature."
 msgstr ""
+"Każdy z co najwyżej dwóch wskazanych stworów zadaje obrażenia równe swojej "
+"sile innemu wskazanemu stworowi."
 
 #: ../../HBG.rst:1932
 msgid ""
@@ -5390,10 +5498,12 @@ msgid ""
 "Two-Weapon Fighting — Double target creature's power and toughness until end "
 "of turn."
 msgstr ""
+"Walka dwiema broniami — Podwój do końca tury siłę i wytrzymałość wskazanego "
+"stwora."
 
 #: ../../HBG.rst:1939
 msgid "Archery — This spell deals 5 damage to target creature with flying."
-msgstr ""
+msgstr "Łucznictwo — Ten czar zadaje 5 obrażeń wskazanemu stworowi z lataniem."
 
 #: ../../HBG.rst:1946
 msgid ""
@@ -5436,6 +5546,8 @@ msgid ""
 "Bear Form — As long as it's your turn, Circle of the Moon Druid is a Bear "
 "with base power and toughness 4/2. (It loses all other creature types.)"
 msgstr ""
+"Forma niedźwiedzia — O ile jest twoja tura, ten stwór jest Niedźwiedziem o "
+"bazowej sile i wtrzymałości 4/2. (Traci inne typy stwora.)"
 
 #: ../../HBG.rst:1960
 msgid ""
@@ -5544,10 +5656,12 @@ msgid ""
 "This spell costs |mana_x| less to cast, where X is the total mana value of "
 "Dragons you control."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_x| mniej, gdzie X jest sumą skrótów "
+"many Smoków pod twoim władaniem."
 
 #: ../../HBG.rst:1991 ../../HBG.rst:1999 ../../HBG.rst:2005
 msgid "Flying, trample"
-msgstr ""
+msgstr "Latanie, tratowanie"
 
 #: ../../HBG.rst:1993
 msgid ""
@@ -5606,7 +5720,7 @@ msgstr ""
 
 #: ../../HBG.rst:2013 ../../HBG.rst:2233
 msgid "Flying, ward |mana_2|"
-msgstr ""
+msgstr "Latanie, opieka |mana_2|"
 
 #: ../../HBG.rst:2018
 msgid ""
@@ -5649,6 +5763,9 @@ msgid ""
 "with total power 6 or greater this combat, put a +1/+1 counter on Gnoll "
 "Hunter."
 msgstr ""
+"Taktyka stada — Ilekroć ten stwór zaatakuje, jeśli w tej potyczce "
+"zaatakowałeś stworami o łącznej sile 6 lub więcej, umieść znacznik +1/+1 na "
+"tym stworze."
 
 #: ../../HBG.rst:2034
 msgid ""
@@ -5659,7 +5776,7 @@ msgstr ""
 
 #: ../../HBG.rst:2033
 msgid "When Hill Giant Herdgorger enters the battlefield, you gain 3 life."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 3 życia."
 
 #: ../../HBG.rst:2042
 msgid ""
@@ -5670,15 +5787,15 @@ msgstr ""
 
 #: ../../HBG.rst:2037
 msgid "When Inspiring Bard enters the battlefield, choose one —"
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wybierz jedną —"
 
 #: ../../HBG.rst:2039
 msgid "Bardic Inspiration — Target creature gets +2/+2 until end of turn."
-msgstr ""
+msgstr "Inspiracja barda — Wskazany stwór do końca tury dostaje +2/+2."
 
 #: ../../HBG.rst:2041
 msgid "Song of Rest — You gain 3 life."
-msgstr ""
+msgstr "Pieśń odpoczynku — Zyskaj 3 życia."
 
 #: ../../HBG.rst:2046
 msgid ""
@@ -5719,11 +5836,11 @@ msgstr ""
 
 #: ../../HBG.rst:2053
 msgid "Lurking Roper doesn't untap during your untap step."
-msgstr ""
+msgstr "Ten stwór nie odkręca się w twoim kroku odkręcania."
 
 #: ../../HBG.rst:2055
 msgid "Whenever you gain life, untap Lurking Roper."
-msgstr ""
+msgstr "Ilekroć zyskasz życia, odkręć tego stwora."
 
 #: ../../HBG.rst:2060
 msgid ""
@@ -5789,7 +5906,7 @@ msgstr ""
 
 #: ../../HBG.rst:2077
 msgid "Keen Senses — When Owlbear enters the battlefield, draw a card."
-msgstr ""
+msgstr "Czujne zmysły — Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../HBG.rst:2082
 msgid ""
@@ -5813,7 +5930,7 @@ msgstr ""
 
 #: ../../HBG.rst:2085
 msgid "Target creature gains deathtouch until end of turn."
-msgstr ""
+msgstr "Wskazany stwór do końca tury zyskuje dotyk śmierci."
 
 #: ../../HBG.rst:2094
 msgid ""
@@ -5828,12 +5945,15 @@ msgid ""
 "(It's an artifact with \"|tap|, Sacrifice this artifact: Add one mana of any "
 "color.\")"
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton Skarbu. (To artefakt "
+"mający \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../HBG.rst:2093
 msgid ""
 "Whenever another creature enters the battlefield under your control, you "
 "gain 1 life."
 msgstr ""
+"Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, zyskaj 1 życie."
 
 #: ../../HBG.rst:2098
 msgid ""
@@ -5878,19 +5998,19 @@ msgstr ""
 
 #: ../../HBG.rst:2111
 msgid "Whenever Sylvan Shepherd attacks, roll a d20."
-msgstr ""
+msgstr "Ilekroć ten stwór zaatakuje, rzuć k20."
 
 #: ../../HBG.rst:2113
 msgid "1—9 | You gain 1 life."
-msgstr ""
+msgstr "1—9 | Zyskaj 1 życie."
 
 #: ../../HBG.rst:2115
 msgid "10—19 | You gain 2 life."
-msgstr ""
+msgstr "10—19 | Zyskaj 2 życia."
 
 #: ../../HBG.rst:2117
 msgid "20 | You gain 5 life."
-msgstr ""
+msgstr "20 | Zyskaj 5 żyć."
 
 #: ../../HBG.rst:2122
 msgid ""
@@ -5905,6 +6025,9 @@ msgid ""
 "power among creatures you control. Put those cards onto the battlefield "
 "tapped, then shuffle."
 msgstr ""
+"Wyszukaj w twojej bibliotece co najwyżej X kart bazowych lądów, gdzie X jest "
+"największą siłą pośród stworów pod twoim władaniem. Umieść owe karty "
+"przekręcone na polu bitwy, po czym przetasuj."
 
 #: ../../HBG.rst:2128
 msgid ""
@@ -5921,7 +6044,7 @@ msgstr ""
 
 #: ../../HBG.rst:2127 ../../HBG.rst:2325 ../../HBG.rst:2351 ../../HBG.rst:2357
 msgid "|tap|: Add one mana of any color."
-msgstr ""
+msgstr "|tap|: Weź jedną manę dowolnego koloru."
 
 #: ../../HBG.rst:2132
 msgid ""
@@ -5942,18 +6065,21 @@ msgid ""
 "Choose one. Until end of turn, target creature you control has that base "
 "power and toughness, becomes that creature type, and gains that ability."
 msgstr ""
+"Wybierz jedną. Do końca tury wskazany stwór pod twoim władaniem ma ową "
+"bazową siłę i wytrzymałość, staje się stworem owego typu i zyskuje ową "
+"zdolność."
 
 #: ../../HBG.rst:2137
 msgid "1/3 Turtle with hexproof."
-msgstr ""
+msgstr "Żółw 1/3 z antyklątwą."
 
 #: ../../HBG.rst:2139
 msgid "1/5 Spider with reach."
-msgstr ""
+msgstr "Pająk 1/5 z zasięgiem."
 
 #: ../../HBG.rst:2141
 msgid "3/3 Elephant with trample."
-msgstr ""
+msgstr "Słoń 3/3 z tratowaniem."
 
 #: ../../HBG.rst:2150
 msgid ""
@@ -5968,10 +6094,13 @@ msgid ""
 "any number of creature cards from among them and put them into your hand. "
 "Put the rest on the bottom of your library in a random order."
 msgstr ""
+"Załóż drużynę — Spójrz na pięć wierzchnich kart twojej biblioteki. Możesz "
+"ujawnić spośród nich dowolną liczbę kart stworów i umieścić je w twojej "
+"ręce. Umieść pozostałe losowo na spodzie twojej biblioteki."
 
 #: ../../HBG.rst:2149
 msgid "Start a Brawl — Creatures you control get +2/+2 until end of turn."
-msgstr ""
+msgstr "Wywołaj bójkę — Stwory pod twoim władaniem dostają do końca tury +2/+2."
 
 #: ../../HBG.rst:2154
 msgid ""
@@ -5999,7 +6128,7 @@ msgstr ""
 
 #: ../../HBG.rst:2159
 msgid "At the beginning of your end step, choose one —"
-msgstr ""
+msgstr "Na początku twojego kroku końcowego, wybierz jedną —"
 
 #: ../../HBG.rst:2161
 msgid ""
@@ -6045,7 +6174,7 @@ msgstr ""
 
 #: ../../HBG.rst:2175
 msgid "First strike, reach"
-msgstr ""
+msgstr "Pierwszy cios, zasięg"
 
 #: ../../HBG.rst:2177
 msgid ""
@@ -6126,12 +6255,16 @@ msgid ""
 "token. (It's an artifact with \"|tap|, Sacrifice this artifact: Add one mana "
 "of any color.\")"
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton Skarbu. (To artefakt "
+"mający \"|tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../HBG.rst:2205
 msgid ""
 "Other creatures you control enter the battlefield with an additional +1/+1 "
 "counter on them for each mana from a Treasure spent to cast them."
 msgstr ""
+"Inne stwory pod twoim władaniem wchodzą na pole bitwy mając dodatkowy "
+"znacznik +1/+1 za każdą manę ze Skarbu wydaną do ich rzucenia."
 
 #: ../../HBG.rst:2212
 msgid ""
@@ -6143,6 +6276,7 @@ msgstr ""
 #: ../../HBG.rst:2209 ../../HBG.rst:2257
 msgid "You may look at the top card of your library any time."
 msgstr ""
+"Możesz patrzeć na wierzchnią kartę twojej biblioteki w dowolnym momencie."
 
 #: ../../HBG.rst:2211
 msgid "You may cast Dragon spells from the top of your library."
@@ -6160,12 +6294,16 @@ msgid ""
 "Whenever Krydle of Baldur's Gate deals combat damage to a player, that "
 "player loses 1 life and mills a card, then you gain 1 life and scry 1."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, ów gracz traci 1 życie i "
+"mieli kartę, po czym ty zyskaj 1 życie i wróż 1."
 
 #: ../../HBG.rst:2217
 msgid ""
 "Whenever you attack, you may pay |mana_2|. If you do, target creature can't "
 "be blocked this turn."
 msgstr ""
+"Ilekroć zaatakujesz, możesz zapłacić |mana_2|. Jeśli tak zrobisz, wskazany "
+"stwór nie może być blokowany w tej turze."
 
 #: ../../HBG.rst:2224
 msgid ""
@@ -6393,6 +6531,8 @@ msgid ""
 "Whenever Thrakkus the Butcher attacks, double the power of each Dragon you "
 "control until end of turn."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, podwój do końca tury siłę każdego Smoka pod "
+"twoim władaniem."
 
 #: ../../HBG.rst:2306
 msgid ""
@@ -6407,6 +6547,9 @@ msgid ""
 "scry 1. (Look at the top card of your library. You may put that card on the "
 "bottom of your library.)"
 msgstr ""
+"Ilekroć zyskasz życia, umieść znacznik +1/+1 na tym stworze i wróż 1. ("
+"Spójrz na wierzchnią kartę twojej biblioteki. Możesz umieścić ową kartę na "
+"spodzie twojej biblioteki.)"
 
 #: ../../HBG.rst:2314
 msgid ""
@@ -6417,17 +6560,19 @@ msgstr ""
 
 #: ../../HBG.rst:2309
 msgid "Whenever you discard a card, exile that card from your graveyard."
-msgstr ""
+msgstr "Ilekroć odrzucisz kartę, wygnaj ją z twojego cmentarza."
 
 #: ../../HBG.rst:2311
 msgid "|mana_2|, |tap|: Draw a card, then discard a card."
-msgstr ""
+msgstr "|mana_2|, |tap|: Dobierz kartę, po czym odrzuć kartę."
 
 #: ../../HBG.rst:2313
 msgid ""
 "|mana_4|, |tap|, Sacrifice Bag of Holding: Return all cards exiled with Bag "
 "of Holding to their owner's hand."
 msgstr ""
+"|mana_4|, |tap|, poświęć ten artefakt: Przywróć wszystkie karty wygnane z "
+"jego pomocą do rąk ich właścicieli."
 
 #: ../../HBG.rst:2320
 msgid ""
@@ -6438,11 +6583,11 @@ msgstr ""
 
 #: ../../HBG.rst:2317
 msgid "Equipped creature has deathtouch and lifelink."
-msgstr ""
+msgstr "Wyposażony stwór ma dotyk śmierci i więź życia."
 
 #: ../../HBG.rst:2319
 msgid "Equip |mana_2|"
-msgstr ""
+msgstr "Wyposaż |mana_2|"
 
 #: ../../HBG.rst:2326
 msgid ""
@@ -6474,7 +6619,7 @@ msgstr ""
 
 #: ../../HBG.rst:2333
 msgid "Equipped creature has flying and haste."
-msgstr ""
+msgstr "Wyposażony stwór ma latanie i pośpiech."
 
 #: ../../HBG.rst:2342
 msgid ""
@@ -6506,7 +6651,7 @@ msgstr ""
 
 #: ../../HBG.rst:2347
 msgid "Iron Golem attacks or blocks each combat if able."
-msgstr ""
+msgstr "Ten stwór atakuje lub blokuje w każdej potyczce jeśli może."
 
 #: ../../HBG.rst:2354
 msgid ""
@@ -6548,6 +6693,8 @@ msgid ""
 "When Meteor Golem enters the battlefield, destroy target nonland permanent "
 "an opponent controls."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, zniszcz wskazany nie-lądowy byt pod "
+"władaniem przeciwnika."
 
 #: ../../HBG.rst:2368
 msgid ""
@@ -6603,6 +6750,8 @@ msgid ""
 "When Pilgrim's Eye enters the battlefield, you may search your library for a "
 "basic land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"kartę bazowego lądu, ujawnij ją, umieść w twojej ręce, po czym przetasuj."
 
 #: ../../HBG.rst:2388
 msgid ""
@@ -6613,11 +6762,11 @@ msgstr ""
 
 #: ../../HBG.rst:2385
 msgid "When Prophetic Prism enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../HBG.rst:2387
 msgid "|mana_1|, |tap|: Add one mana of any color."
-msgstr ""
+msgstr "|mana_1|, |tap|: Weź jedną manę dowolnego koloru."
 
 #: ../../HBG.rst:2398
 msgid ""
@@ -6631,16 +6780,19 @@ msgid ""
 "|mana_5|, |tap|, Sacrifice Spiked Pit Trap: Choose target creature, then "
 "roll a d20."
 msgstr ""
+"|mana_5|, |tap|, poświęć ten artefakt: Wybierz wskazanego stwora, po czym "
+"rzuć k20."
 
 #: ../../HBG.rst:2395
 msgid "1—9 | Spiked Pit Trap deals 5 damage to that creature."
-msgstr ""
+msgstr "1—9 | Ten artefakt zadaje owemu stworowi 5 obrażeń."
 
 #: ../../HBG.rst:2397
 msgid ""
 "10—20 | Spiked Pit Trap deals 5 damage to that creature. Create a Treasure "
 "token."
 msgstr ""
+"10—20 | Ten artefakt zadaje owemu stworowi 5 obrażeń. Stwórz żeton Skarbu."
 
 #: ../../HBG.rst:2404
 msgid ""
@@ -6651,7 +6803,7 @@ msgstr ""
 
 #: ../../HBG.rst:2401
 msgid "|tap|: Add |colorless|."
-msgstr ""
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../HBG.rst:2403
 msgid ""
@@ -6668,7 +6820,7 @@ msgstr ""
 
 #: ../../HBG.rst:2407
 msgid "(|tap|: Add |mana_w|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_w|.)"
 
 #: ../../HBG.rst:2412
 msgid ""
@@ -6679,7 +6831,7 @@ msgstr ""
 
 #: ../../HBG.rst:2411
 msgid "(|tap|: Add |mana_u|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_u|.)"
 
 #: ../../HBG.rst:2416
 msgid ""
@@ -6690,7 +6842,7 @@ msgstr ""
 
 #: ../../HBG.rst:2415
 msgid "(|tap|: Add |mana_b|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_b|.)"
 
 #: ../../HBG.rst:2420
 msgid ""
@@ -6701,7 +6853,7 @@ msgstr ""
 
 #: ../../HBG.rst:2419
 msgid "(|tap|: Add |mana_r|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_r|.)"
 
 #: ../../HBG.rst:2424
 msgid ""
@@ -6712,7 +6864,7 @@ msgstr ""
 
 #: ../../HBG.rst:2423
 msgid "(|tap|: Add |mana_g|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_g|.)"
 
 #: ../../HBG.rst:2430
 msgid ""
@@ -6727,6 +6879,10 @@ msgid ""
 "it over or under target non-Human creature you own. They mutate into the "
 "creature on top plus all abilities from under it.)"
 msgstr ""
+"Mutowanie |mana_5|\\ |mana_u| (Jeśli rzucisz ten czar za jego koszt "
+"mutowania, umieść go na lub pod wskazanym stworem pod twoim władaniem bez "
+"typu Człowiek. Mutują one w stwora na wierzchu mającym wszystkie zdolności "
+"spod niego.)"
 
 #: ../../HBG.rst:2429
 msgid ""
@@ -6734,6 +6890,9 @@ msgid ""
 "number of times this creature has mutated. Those creatures don't untap "
 "during their controller's next untap step."
 msgstr ""
+"Ilekroć ten stwór mutuje, przekręć co najwyżej X wskazanych stworów, gdzie X "
+"jest liczbą mutacji tego stwora. Owe stwory nie odkręcą się w kroku "
+"odkręcania swoich władców."
 
 #: ../../HBG.rst:2436
 msgid ""
@@ -6747,6 +6906,8 @@ msgid ""
 "Affinity for tokens (This spell costs |mana_1| less to cast for each token "
 "you control.)"
 msgstr ""
+"Koligacja z żetonami (Rzucenie tego czaru kosztuje o |mana_1| mniej za każdy "
+"żeton pod twoim władaniem.)"
 
 #: ../../HBG.rst:2435
 msgid ""
@@ -6754,6 +6915,9 @@ msgid ""
 "nonland permanent an opponent controls. It doesn't untap during its "
 "controller's next untap step."
 msgstr ""
+"Ilekroć żeton wejdzie na pole bitwy pod twoim władaniem, przekręć wskazany "
+"nielądowy byt pod władaniem przeciwnika. Nie odkręci się on w najbliższym "
+"kroku odkręcania swojego władcy."
 
 #: ../../HBG.rst:2440
 msgid ""
@@ -6764,7 +6928,7 @@ msgstr ""
 
 #: ../../HBG.rst:2439
 msgid "Defender (This creature can't attack.)"
-msgstr ""
+msgstr "Obronność (Ten stwór nie może atakować.)"
 
 #: ../../HBG.rst:2444
 msgid ""
@@ -6778,6 +6942,8 @@ msgid ""
 "Whenever you draw your second card each turn, Mystic Skyfish gains flying "
 "until end of turn."
 msgstr ""
+"Ilekroć dobierzesz swoją drugą kartę w danej turze, ten stwór do końca tury "
+"zyskuje latanie."
 
 #: ../../HBG.rst:2448
 msgid ""
@@ -6791,6 +6957,9 @@ msgid ""
 "Whenever you draw a card, you may pay |mana_1|. If you do, put a +1/+1 "
 "counter on Nadir Kraken and create a 1/1 blue Tentacle creature token."
 msgstr ""
+"Ilekroć dobierzesz kartę, możesz zapłacić |mana_1|. Jeśli tak zrobisz, "
+"umieść znacznik +1/+1 na tym stworze i stwórz żeton niebieskiego stwora "
+"Macka 1/1."
 
 #: ../../HBG.rst:2458
 msgid ""
@@ -6801,15 +6970,15 @@ msgstr ""
 
 #: ../../HBG.rst:2451
 msgid "This spell can't be countered."
-msgstr ""
+msgstr "Ten czar nie może być skontrowany."
 
 #: ../../HBG.rst:2453
 msgid "You have no maximum hand size."
-msgstr ""
+msgstr "Nie masz limitu kart na ręce."
 
 #: ../../HBG.rst:2455
 msgid "Whenever an opponent casts a noncreature spell, draw a card."
-msgstr ""
+msgstr "Ilekroć przeciwnik rzuci nie-stworowy czar, dobierz kartę."
 
 #: ../../HBG.rst:2457
 msgid ""
@@ -6817,6 +6986,8 @@ msgid ""
 "battlefield tapped under its owner's control at the beginning of the next "
 "end step."
 msgstr ""
+"Odrzuć trzy karty: Wygnaj tego stwora. Przywróć go przekręconego na pole "
+"bitwy pod władaniem właściciela na początku najbliższego kroku końcowego."
 
 #: ../../HBG.rst:2466
 msgid ""
@@ -6831,12 +7002,18 @@ msgid ""
 "it over or under target non-Human creature you own. They mutate into the "
 "creature on top plus all abilities from under it.)"
 msgstr ""
+"Mutowanie |mana_3|\\ |mana_u| (Jeśli rzucisz ten czar za jego koszt "
+"mutowania, umieść go na lub pod wskazanym stworem pod twoim władaniem bez "
+"typu Człowiek. Mutują one w stwora na wierzchu mającym wszystkie zdolności "
+"spod niego.)"
 
 #: ../../HBG.rst:2465
 msgid ""
 "Whenever this creature mutates, you may return target creature an opponent "
 "controls to its owner's hand."
 msgstr ""
+"Ilekroć ten stwór mutuje, możesz przywrócić wskazanego stwora pod władaniem "
+"przeciwnika do ręki właściciela."
 
 #: ../../HBG.rst:2472
 msgid ""
@@ -6851,12 +7028,17 @@ msgid ""
 "Pirate creature token with \"This creature can't block\" and \"Creatures you "
 "control attack each combat if able.\""
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, każdy przeciwnik tworzy żeton "
+"czerwonego stwora Pirat 1/1 mający \"Ten stwór nie może blokować\" oraz "
+"\"Stwory pod twoim władaniem atakują w każdej potyczce, jeśli mogą.\""
 
 #: ../../HBG.rst:2471
 msgid ""
 "Spells your opponents cast that target Pursued Whale cost |mana_3| more to "
 "cast."
 msgstr ""
+"Rzucanie czarów wskazujących tego stwora kosztuje twoich przeciwników o "
+"|mana_3| więcej."
 
 #: ../../HBG.rst:2478
 msgid ""
@@ -6867,7 +7049,7 @@ msgstr ""
 
 #: ../../HBG.rst:2477
 msgid "Defender"
-msgstr ""
+msgstr "Obronność"
 
 #: ../../HBG.rst:2482
 msgid ""
@@ -6882,6 +7064,9 @@ msgid ""
 "opponent mills three cards. (To mill a card, a player puts the top card of "
 "their library into their graveyard.)"
 msgstr ""
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, każdy "
+"przeciwnik mieli trzy karty. (By zmielić kartę, gracz umieszcza wierzchnią "
+"kartę swojej biblioteki w swoim cmentarzu.)"
 
 #: ../../HBG.rst:2490
 msgid ""
@@ -6896,10 +7081,14 @@ msgid ""
 "it over or under target non-Human creature you own. They mutate into the "
 "creature on top plus all abilities from under it.)"
 msgstr ""
+"Mutowanie |mana_1|\\ |mana_u| (Jeśli rzucisz ten czar za jego koszt "
+"mutowania, umieść go na lub pod wskazanym stworem pod twoim władaniem bez "
+"typu Człowiek. Mutują one w stwora na wierzchu mającym wszystkie zdolności "
+"spod niego.)"
 
 #: ../../HBG.rst:2489
 msgid "Whenever this creature deals combat damage to a player, draw a card."
-msgstr ""
+msgstr "Ilekroć ten stwór zada graczowi obrażenia bojowe, dobierz kartę."
 
 #: ../../HBG.rst:2494
 msgid ""
@@ -6913,6 +7102,8 @@ msgid ""
 "|tap|: Scry 1. (Look at the top card of your library. You may put that card "
 "on the bottom of your library.)"
 msgstr ""
+"|tap|: Wróż 1. (Spójrz na wierzchnią kartę twojej biblioteki. Możesz "
+"umieścić ją na spodzie twojej biblioteki.)"
 
 #: ../../HBG.rst:2500
 msgid ""
@@ -6926,12 +7117,16 @@ msgid ""
 "Hexproof (This creature can't be the target of spells or abilities your "
 "opponents control.)"
 msgstr ""
+"Antyklątwa (Ten stwór nie może być wskazywany przez czary lub zdolności pod "
+"władaniem twoich przeciwników.)"
 
 #: ../../HBG.rst:2499
 msgid ""
 "Whenever Spined Megalodon attacks, scry 1. (Look at the top card of your "
 "library. You may put that card on the bottom of your library.)"
 msgstr ""
+"Ilekroć ten stwór atakuje, wróż 1. (Spójrz na wierzchnią kartę twojej "
+"biblioteki. Możesz umieścić ową kartę na spodzie twojej biblioteki.)"
 
 #: ../../HBG.rst:2504
 msgid ""
@@ -6945,6 +7140,8 @@ msgid ""
 "Whenever you cast your first spell during each opponent's turn, you may tap "
 "or untap target nonland permanent."
 msgstr ""
+"Ilekroć rzucisz swój pierwszy czar w turze każdego z przeciwników, możesz "
+"przekręcić lub odkręcić wskazany nie-lądowy byt."
 
 #: ../../HBG.rst:2510
 msgid ""
@@ -6958,6 +7155,8 @@ msgid ""
 "When Voracious Greatshark enters the battlefield, counter target artifact or "
 "creature spell."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, skontruj wskazany czar artefaktu lub "
+"stwora."
 
 #: ../../HBG.rst:2514
 msgid ""
@@ -6968,7 +7167,7 @@ msgstr ""
 
 #: ../../HBG.rst:2513
 msgid "Lightning Bolt deals 3 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi 3 obrażenia."
 
 #: ../../HBG.rst:2518
 msgid ""
@@ -6979,7 +7178,7 @@ msgstr ""
 
 #: ../../HBG.rst:2517
 msgid "Destroy target artifact or enchantment."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub urok."
 
 #: ../../HBG.rst:2521
 msgid ""
@@ -6990,4 +7189,4 @@ msgstr ""
 
 #: ../../HBG.rst:2521
 msgid "Destroy target creature with flying."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora mającego latanie."
