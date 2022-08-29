@@ -501,7 +501,7 @@
    When Vodalian Mindsinger enters the battlefield, gain control of target creature with power less than Vodalian Mindsinger's power for as long as you control Vodalian Mindsinger.
 
 
-:mtgtip:`Volshe Tideturner<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/a/ea61871b-9295-4ea0-86ef-e7a11e23bda8.jpg?1660937412|https://scryfall.com/card/dmu/77/volshe-tideturner?utm_source=api>`
+:mtgtip:`Volshe Tideturner<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/a/ea61871b-9295-4ea0-86ef-e7a11e23bda8.jpg?1661760850|https://scryfall.com/card/dmu/77/volshe-tideturner?utm_source=api>`
    |tap|: Add |mana_u|. Spend this mana only to cast an instant or sorcery spell or a kicked spell.
 
 

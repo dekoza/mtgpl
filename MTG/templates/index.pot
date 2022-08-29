@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2022.8\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-08-29 09:05+0200\n"
+"POT-Creation-Date: 2022-08-29 20:17+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -181,27 +181,27 @@ msgstr ""
 #: ../../percentages.inc:357
 #: ../../percentages.inc:360
 #: ../../percentages.inc:369
-#: ../../percentages.inc:374
-#: ../../percentages.inc:381
-#: ../../percentages.inc:386
-#: ../../percentages.inc:391
-#: ../../percentages.inc:394
-#: ../../percentages.inc:401
-#: ../../percentages.inc:408
-#: ../../percentages.inc:411
-#: ../../percentages.inc:414
-#: ../../percentages.inc:419
-#: ../../percentages.inc:422
-#: ../../percentages.inc:433
+#: ../../percentages.inc:376
+#: ../../percentages.inc:383
+#: ../../percentages.inc:388
+#: ../../percentages.inc:393
+#: ../../percentages.inc:396
+#: ../../percentages.inc:403
+#: ../../percentages.inc:410
+#: ../../percentages.inc:413
+#: ../../percentages.inc:416
+#: ../../percentages.inc:421
+#: ../../percentages.inc:424
+#: ../../percentages.inc:435
 #: ../../progress.rst:20
-#: ../../percentages.inc:422
+#: ../../percentages.inc:424
 #: ../../percentages.inc:360
-#: ../../percentages.inc:391
+#: ../../percentages.inc:393
 #: ../../percentages.inc:25
 #: ../../percentages.inc:156
 #: ../../percentages.inc:88
 #: ../../percentages.inc:204
-#: ../../percentages.inc:408
+#: ../../percentages.inc:410
 #: ../../percentages.inc:168
 #: ../../percentages.inc:112
 #: ../../percentages.inc:207
@@ -215,7 +215,7 @@ msgstr ""
 #: ../../percentages.inc:188
 #: ../../percentages.inc:135
 #: ../../percentages.inc:317
-#: ../../percentages.inc:433
+#: ../../percentages.inc:435
 #: ../../percentages.inc:249
 #: ../../percentages.inc:252
 #: ../../percentages.inc:347
@@ -226,7 +226,7 @@ msgstr ""
 #: ../../progress.rst:20
 #: ../../progress.rst:20
 #: ../../percentages.inc:354
-#: ../../percentages.inc:401
+#: ../../percentages.inc:403
 #: ../../percentages.inc:288
 #: ../../percentages.inc:198
 #: ../../progress.rst:20
@@ -449,63 +449,68 @@ msgid "ONS_percent"
 msgstr ""
 
 #: ../../percentages.inc:372
+#: ../../percentages.inc:372
+msgid "GN2_percent"
+msgstr ""
+
+#: ../../percentages.inc:374
 msgid "4ED_percent"
 msgstr ""
 
-#: ../../percentages.inc:377
+#: ../../percentages.inc:379
 msgid "VOC_percent"
 msgstr ""
 
-#: ../../percentages.inc:379
+#: ../../percentages.inc:381
 msgid "C13_percent"
 msgstr ""
 
-#: ../../percentages.inc:384
+#: ../../percentages.inc:386
 msgid "RAV_percent"
 msgstr ""
 
-#: ../../percentages.inc:389
+#: ../../percentages.inc:391
 msgid "DRK_percent"
 msgstr ""
 
-#: ../../percentages.inc:397
+#: ../../percentages.inc:399
 msgid "ICE_percent"
 msgstr ""
 
-#: ../../percentages.inc:399
+#: ../../percentages.inc:401
 msgid "NEM_percent"
 msgstr ""
 
-#: ../../percentages.inc:404
+#: ../../percentages.inc:406
 msgid "ULG_percent"
 msgstr ""
 
-#: ../../percentages.inc:406
+#: ../../percentages.inc:408
 msgid "ODY_percent"
 msgstr ""
 
-#: ../../percentages.inc:417
-#: ../../percentages.inc:417
+#: ../../percentages.inc:419
+#: ../../percentages.inc:419
 msgid "HBG_percent"
 msgstr ""
 
-#: ../../percentages.inc:425
+#: ../../percentages.inc:427
 msgid "DMC_percent"
 msgstr ""
 
-#: ../../percentages.inc:427
+#: ../../percentages.inc:429
 msgid "DMU_percent"
 msgstr ""
 
-#: ../../percentages.inc:429
+#: ../../percentages.inc:431
 msgid "ARN_percent"
 msgstr ""
 
-#: ../../percentages.inc:431
+#: ../../percentages.inc:433
 msgid "PTK_percent"
 msgstr ""
 
-#: ../../percentages.inc:436
+#: ../../percentages.inc:438
 msgid "LEG_percent"
 msgstr ""
 
@@ -806,141 +811,145 @@ msgid "Produkty pokrewne"
 msgstr ""
 
 #: ../../index.rst:159
-msgid ":mtgexp:`GNT` :doc:`Game Night<GNT>` |GNT_percent|"
+msgid ":mtgexp:`GN2` :doc:`Game Night 2019<GN2>` |GN2_percent|"
 msgstr ""
 
 #: ../../index.rst:160
+msgid ":mtgexp:`GNT` :doc:`Game Night<GNT>` |GNT_percent|"
+msgstr ""
+
+#: ../../index.rst:161
 msgid ":mtgexp:`E02` :doc:`Explorers of Ixalan<E02>` |E02_percent|"
 msgstr ""
 
-#: ../../index.rst:162
+#: ../../index.rst:163
 msgid "Poniższe produkty nie zawierają zwykłych kart do Magica, ale umożliwiają specjalne rodzaje rozgrywek."
 msgstr ""
 
-#: ../../index.rst:164
+#: ../../index.rst:165
 msgid ":mtgexp:`MTG` :doc:`Bohaterowie<THS_heroes>` |p100|"
 msgstr ""
 
-#: ../../index.rst:165
+#: ../../index.rst:166
 msgid ":mtgexp:`JOU` :doc:`Pokonaj Bóstwo<JOU_god>` |p100|"
 msgstr ""
 
-#: ../../index.rst:166
+#: ../../index.rst:167
 msgid ":mtgexp:`BNG` :doc:`Walka z Hordą<BNG_horde>` |p100|"
 msgstr ""
 
-#: ../../index.rst:167
+#: ../../index.rst:168
 msgid ":mtgexp:`THS` :doc:`Staw czoła Hydrze<THS_hydra>` |p100|"
 msgstr ""
 
-#: ../../index.rst:170
+#: ../../index.rst:171
 msgid "Warto przeczytać"
 msgstr ""
 
-#: ../../index.rst:172
+#: ../../index.rst:173
 msgid ":doc:`Uzasadnienie tłumaczeń<rationale>`"
 msgstr ""
 
-#: ../../index.rst:173
+#: ../../index.rst:174
 msgid ":doc:`Nowe sposoby gry<game_variants>`"
 msgstr ""
 
-#: ../../index.rst:174
+#: ../../index.rst:175
 msgid ":doc:`Format Handicap<handicap>`"
 msgstr ""
 
-#: ../../index.rst:175
+#: ../../index.rst:176
 msgid ":doc:`Polskie lądy i żetony<polish_cards>`"
 msgstr ""
 
-#: ../../index.rst:179
+#: ../../index.rst:180
 msgid "Glosariusz"
 msgstr ""
 
-#: ../../index.rst:181
+#: ../../index.rst:182
 msgid ":doc:`Słowniczek podstawowych pojęć oraz slangu<glossary>`"
 msgstr ""
 
-#: ../../index.rst:184
+#: ../../index.rst:185
 msgid "Ostatnie zmiany"
 msgstr ""
 
-#: ../../index.rst:185
+#: ../../index.rst:186
 msgid "Proszę zajrzeć do pliku :doc:`Ostatnie zmiany<changelog>`"
 msgstr ""
 
-#: ../../index.rst:188
+#: ../../index.rst:189
 msgid "Sponsorzy"
 msgstr ""
 
-#: ../../index.rst:190
+#: ../../index.rst:191
 msgid "`Centrum hobbystyczne \"Strefa\" <https://strefamarzen.pl/>`_ z Bielska-Białej."
 msgstr ""
 
-#: ../../index.rst:191
+#: ../../index.rst:192
 msgid "`Wspierający poprzez Patronite <https://patronite.pl/mtgpl>`_."
 msgstr ""
 
-#: ../../index.rst:194
+#: ../../index.rst:195
 msgid "Ekipa"
 msgstr ""
 
-#: ../../index.rst:196
+#: ../../index.rst:197
 msgid "Niniejsze tłumaczenie powstało dzięki pracy następujących osób:"
 msgstr ""
 
-#: ../../index.rst:198
+#: ../../index.rst:199
 msgid "Dominik Kozaczko - pomysłodawca, główny tłumacz"
 msgstr ""
 
-#: ../../index.rst:199
+#: ../../index.rst:200
 msgid "Bartek Pękala - tłumacz"
 msgstr ""
 
-#: ../../index.rst:200
+#: ../../index.rst:201
 msgid "Krzysztof Buniewicz - tłumacz"
 msgstr ""
 
-#: ../../index.rst:201
+#: ../../index.rst:202
 msgid "Zofia Wąchocka - tłumacz, filolog"
 msgstr ""
 
-#: ../../index.rst:202
+#: ../../index.rst:203
 msgid "Roman Cupek - nadzorca merytoryczny"
 msgstr ""
 
-#: ../../index.rst:205
+#: ../../index.rst:206
 msgid "Kwestie prawne"
 msgstr ""
 
-#: ../../index.rst:207
+#: ../../index.rst:208
 msgid "Niniejszy serwis działa zgodnie z zasadami zawartymi w dokumencie `Wizards of the Coast's Fan Content Policy <https://company.wizards.com/fancontentpolicy>`_."
 msgstr ""
 
-#: ../../index.rst:209
+#: ../../index.rst:210
 msgid "Część materiałów w tym serwisie jest własnością Wizards of the Coast. ©Wizards of the Coast LLC."
 msgstr ""
 
-#: ../../index.rst:210
+#: ../../index.rst:211
 msgid "Zawartość niniejszego serwisu NIE JEST zatwierdzona lub sponsorowana przez Wizards of the Coast LLC."
 msgstr ""
 
-#: ../../index.rst:211
+#: ../../index.rst:212
 msgid "Tłumaczenia zawarte w tym serwisie (CC) copyleft Dominik Kozaczko. Some rights reversed."
 msgstr ""
 
-#: ../../index.rst:212
+#: ../../index.rst:213
 msgid "Licencja tłumaczeń: `CC BY-NC-SA 4.0 <https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.pl>`_"
 msgstr ""
 
-#: ../../index.rst:215
+#: ../../index.rst:216
 msgid "Legal notice"
 msgstr ""
 
-#: ../../index.rst:217
+#: ../../index.rst:218
 msgid "MTGpoPolsku.pl is unofficial Fan Content permitted under the `Fan Content Policy <https://company.wizards.com/fancontentpolicy>`_. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC."
 msgstr ""
 
-#: ../../index.rst:218
+#: ../../index.rst:219
 msgid "Translation work `(CC) copyleft <https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode>`_ Dominik Kozaczko. Some rights reversed."
 msgstr ""
