@@ -1,233 +1,234 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2013-2022, Dominik Kozaczko
 # This file is distributed under the same license as the MTG-pl package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-#, fuzzy
+# Weblate Admin <weblate-admin@kozaczko.info>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2022.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-29 09:05+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2022-08-29 07:15+0000\n"
+"Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
+"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/gn2/pl/>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.13.1\n"
 
 #: ../../symbols.rst:3
 msgid "{C}"
-msgstr ""
+msgstr "{C}"
 
 #: ../../symbols.rst:5
 msgid "{T}"
-msgstr ""
+msgstr "{T}"
 
 #: ../../symbols.rst:7
 msgid "{Q}"
-msgstr ""
+msgstr "{Q}"
 
 #: ../../symbols.rst:9
 msgid "{U}"
-msgstr ""
+msgstr "{U}"
 
 #: ../../symbols.rst:11
 msgid "{W}"
-msgstr ""
+msgstr "{W}"
 
 #: ../../symbols.rst:13
 msgid "{B}"
-msgstr ""
+msgstr "{B}"
 
 #: ../../symbols.rst:15
 msgid "{G}"
-msgstr ""
+msgstr "{G}"
 
 #: ../../symbols.rst:17
 msgid "{R}"
-msgstr ""
+msgstr "{R}"
 
 #: ../../symbols.rst:19
 msgid "{2/U}"
-msgstr ""
+msgstr "{2/U}"
 
 #: ../../symbols.rst:21
 msgid "{2/W}"
-msgstr ""
+msgstr "{2/W}"
 
 #: ../../symbols.rst:23
 msgid "{2/B}"
-msgstr ""
+msgstr "{2/B}"
 
 #: ../../symbols.rst:25
 msgid "{2/G}"
-msgstr ""
+msgstr "{2/G}"
 
 #: ../../symbols.rst:27
 msgid "{2/R}"
-msgstr ""
+msgstr "{2/R}"
 
 #: ../../symbols.rst:29
 msgid "{U/P}"
-msgstr ""
+msgstr "{U/P}"
 
 #: ../../symbols.rst:31
 msgid "{W/P}"
-msgstr ""
+msgstr "{W/P}"
 
 #: ../../symbols.rst:33
 msgid "{B/P}"
-msgstr ""
+msgstr "{B/P}"
 
 #: ../../symbols.rst:35
 msgid "{G/P}"
-msgstr ""
+msgstr "{G/P}"
 
 #: ../../symbols.rst:37
 msgid "{R/P}"
-msgstr ""
+msgstr "{R/P}"
 
 #: ../../symbols.rst:39
 msgid "{X}"
-msgstr ""
+msgstr "{X}"
 
 #: ../../symbols.rst:41
 msgid "{P}"
-msgstr ""
+msgstr "{P}"
 
 #: ../../symbols.rst:43
 msgid "{0}"
-msgstr ""
+msgstr "{0}"
 
 #: ../../symbols.rst:45
 msgid "{1}"
-msgstr ""
+msgstr "{1}"
 
 #: ../../symbols.rst:47
 msgid "{2}"
-msgstr ""
+msgstr "{2}"
 
 #: ../../symbols.rst:49
 msgid "{3}"
-msgstr ""
+msgstr "{3}"
 
 #: ../../symbols.rst:51
 msgid "{4}"
-msgstr ""
+msgstr "{4}"
 
 #: ../../symbols.rst:53
 msgid "{5}"
-msgstr ""
+msgstr "{5}"
 
 #: ../../symbols.rst:55
 msgid "{6}"
-msgstr ""
+msgstr "{6}"
 
 #: ../../symbols.rst:57
 msgid "{7}"
-msgstr ""
+msgstr "{7}"
 
 #: ../../symbols.rst:59
 msgid "{8}"
-msgstr ""
+msgstr "{8}"
 
 #: ../../symbols.rst:61
 msgid "{9}"
-msgstr ""
+msgstr "{9}"
 
 #: ../../symbols.rst:63
 msgid "{10}"
-msgstr ""
+msgstr "{10}"
 
 #: ../../symbols.rst:65
 msgid "{11}"
-msgstr ""
+msgstr "{11}"
 
 #: ../../symbols.rst:67
 msgid "{12}"
-msgstr ""
+msgstr "{12}"
 
 #: ../../symbols.rst:69
 msgid "{13}"
-msgstr ""
+msgstr "{13}"
 
 #: ../../symbols.rst:71
 msgid "{14}"
-msgstr ""
+msgstr "{14}"
 
 #: ../../symbols.rst:73
 msgid "{15}"
-msgstr ""
+msgstr "{15}"
 
 #: ../../symbols.rst:75
 msgid "{16}"
-msgstr ""
+msgstr "{16}"
 
 #: ../../symbols.rst:77
 msgid "{20}"
-msgstr ""
+msgstr "{20}"
 
 #: ../../symbols.rst:79
 msgid "{(r/g)}"
-msgstr ""
+msgstr "{(r/g)}"
 
 #: ../../symbols.rst:81
 msgid "{(r/w)}"
-msgstr ""
+msgstr "{(r/w)}"
 
 #: ../../symbols.rst:83
 msgid "{(u/b)}"
-msgstr ""
+msgstr "{(u/b)}"
 
 #: ../../symbols.rst:85
 msgid "{(u/r)}"
-msgstr ""
+msgstr "{(u/r)}"
 
 #: ../../symbols.rst:87
 msgid "{(w/b)}"
-msgstr ""
+msgstr "{(w/b)}"
 
 #: ../../symbols.rst:89
 msgid "{(w/u)}"
-msgstr ""
+msgstr "{(w/u)}"
 
 #: ../../symbols.rst:91
 msgid "{(b/g)}"
-msgstr ""
+msgstr "{(b/g)}"
 
 #: ../../symbols.rst:93
 msgid "{(b/r)}"
-msgstr ""
+msgstr "{(b/r)}"
 
 #: ../../symbols.rst:95
 msgid "{(g/w)}"
-msgstr ""
+msgstr "{(g/w)}"
 
 #: ../../symbols.rst:97
 msgid "{(g/u)}"
-msgstr ""
+msgstr "{(g/u)}"
 
 #: ../../symbols.rst:99
 msgid "{(g/u/p)}"
-msgstr ""
+msgstr "{(g/u/p)}"
 
 #: ../../symbols.rst:101
 msgid "{S}"
-msgstr ""
+msgstr "{S}"
 
 #: ../../symbols.rst:103
 msgid "{E}"
-msgstr ""
+msgstr "{E}"
 
 #: ../../symbols.rst:105
 msgid "{CHAOS}"
-msgstr ""
+msgstr "{CHAOS}"
 
 #: ../../symbols.rst:107
 msgid "{PW}"
-msgstr ""
+msgstr "{PW}"
 
 #: ../../GN2.rst:5
 msgid ":mtgexp:`GN2` Game Night 2019"
@@ -242,7 +243,7 @@ msgstr ""
 
 #: ../../GN2.rst:9
 msgid "Vigilance"
-msgstr ""
+msgstr "Czujność"
 
 #: ../../GN2.rst:11
 msgid ""
@@ -261,7 +262,7 @@ msgstr ""
 #: ../../GN2.rst:15 ../../GN2.rst:61 ../../GN2.rst:91 ../../GN2.rst:143
 #: ../../GN2.rst:147 ../../GN2.rst:187 ../../GN2.rst:215 ../../GN2.rst:227
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 #: ../../GN2.rst:17
 msgid ""
@@ -278,7 +279,7 @@ msgstr ""
 
 #: ../../GN2.rst:21
 msgid "Menace"
-msgstr ""
+msgstr "Złowrogość"
 
 #: ../../GN2.rst:23
 msgid ""
@@ -294,7 +295,7 @@ msgstr ""
 
 #: ../../GN2.rst:27 ../../GN2.rst:39
 msgid "First strike"
-msgstr ""
+msgstr "Pierwszy cios"
 
 #: ../../GN2.rst:29
 msgid ""
@@ -311,7 +312,7 @@ msgstr ""
 
 #: ../../GN2.rst:33 ../../GN2.rst:243 ../../GN2.rst:251
 msgid "Trample"
-msgstr ""
+msgstr "Tratowanie"
 
 #: ../../GN2.rst:35
 msgid ""
@@ -331,12 +332,16 @@ msgid ""
 "Renown 1 (When this creature deals combat damage to a player, if it isn't "
 "renowned, put a +1/+1 counter on it and it becomes renowned.)"
 msgstr ""
+"Sława 1 (Kiedy ten stwór zada graczowi obrażenia bojowe, jeśli nie jest "
+"sławny, umieść na nim znacznik +1/+1 i staje się sławny.)"
 
 #: ../../GN2.rst:43
 msgid ""
 "Whenever Consul's Lieutenant attacks, if it's renowned, other attacking "
 "creatures you control get +1/+1 until end of turn."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, jeśli jest sławny, inne atakujące stwory pod "
+"twoim władaniem dostają do końca tury +1/+1."
 
 #: ../../GN2.rst:48
 msgid ""
@@ -349,6 +354,8 @@ msgstr ""
 msgid ""
 "Whenever Fiend Binder attacks, tap target creature defending player controls."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, przekręć wskazanego stwora pod władaniem "
+"broniącego się gracza."
 
 #: ../../GN2.rst:54
 msgid ""
@@ -359,7 +366,7 @@ msgstr ""
 
 #: ../../GN2.rst:53
 msgid "|mana_w|\\ |mana_w|: Tap target creature."
-msgstr ""
+msgstr "|mana_w|\\ |mana_w|: Przekręć wskazanego stwora."
 
 #: ../../GN2.rst:58
 msgid ""
@@ -370,7 +377,7 @@ msgstr ""
 
 #: ../../GN2.rst:57
 msgid "Target creature gets +2/+2 and gains flying until end of turn."
-msgstr ""
+msgstr "Wskazany stwór do końca tury dostaje +2/+2 oraz latanie."
 
 #: ../../GN2.rst:64
 msgid ""
@@ -384,6 +391,8 @@ msgid ""
 "When Patron of the Valiant enters the battlefield, put a +1/+1 counter on "
 "each creature you control with a +1/+1 counter on it."
 msgstr ""
+"Kiedy ta karta wejdzie na pole bitwy, umieść znacznik +1/+1 na każdym "
+"stworze pod twoim władaniem posiadającym znacznik +1/+1."
 
 #: ../../GN2.rst:68
 msgid ""
@@ -397,6 +406,8 @@ msgid ""
 "When Relief Captain enters the battlefield, support 3. (Put a +1/+1 counter "
 "on each of up to three other target creatures.)"
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, wesprzyj 3. (Umieść znacznik +1/+1 na "
+"każdym z co najwyżej trzech innych wskazanych stworów.)"
 
 #: ../../GN2.rst:74
 msgid ""
@@ -407,13 +418,15 @@ msgstr ""
 
 #: ../../GN2.rst:71
 msgid "Flying, vigilance"
-msgstr ""
+msgstr "Latanie, czujność"
 
 #: ../../GN2.rst:73
 msgid ""
 "|mana_1|\\ |mana_w|: Target creature with a +1/+1 counter on it gains flying "
 "and vigilance until end of turn."
 msgstr ""
+"|mana_1|\\ |mana_w|: Wskazany stwór mający znacznik +1/+1 zyskuje latanie i "
+"czujność do końca tury."
 
 #: ../../GN2.rst:78
 msgid ""
@@ -424,7 +437,7 @@ msgstr ""
 
 #: ../../GN2.rst:77
 msgid "Destroy target tapped creature."
-msgstr ""
+msgstr "Zniszcz wskazanego przekręconego stwora."
 
 #: ../../GN2.rst:84
 msgid ""
@@ -435,7 +448,7 @@ msgstr ""
 
 #: ../../GN2.rst:81
 msgid "Vigilance (Attacking doesn't cause this creature to tap.)"
-msgstr ""
+msgstr "Czujność (Atakowanie nie powoduje przekręcenia tego stwora.)"
 
 #: ../../GN2.rst:88
 msgid ""
@@ -446,7 +459,7 @@ msgstr ""
 
 #: ../../GN2.rst:87
 msgid "Flying, double strike, vigilance, trample, indestructible"
-msgstr ""
+msgstr "Latanie, podwójny cios, czujność, tratowanie, niezniszczalność"
 
 #: ../../GN2.rst:94
 msgid ""
@@ -460,6 +473,8 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, Aven Wind Mage gets +1/+1 "
 "until end of turn."
 msgstr ""
+"Ilekroć rzucisz czar sztuczki lub obrzędu, ten stwór do końca tury dostaje +"
+"1/+1."
 
 #: ../../GN2.rst:102
 msgid ""
@@ -470,15 +485,15 @@ msgstr ""
 
 #: ../../GN2.rst:97
 msgid "Enchant creature"
-msgstr ""
+msgstr "Zaurocz stwora"
 
 #: ../../GN2.rst:99
 msgid "When Claustrophobia enters the battlefield, tap enchanted creature."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, przekręć zauroczonego stwora."
 
 #: ../../GN2.rst:101
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr ""
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
 
 #: ../../GN2.rst:106
 msgid ""
@@ -492,6 +507,8 @@ msgid ""
 "This spell costs |mana_1| less to cast for each instant and sorcery card in "
 "your graveyard."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_1| mniej za każdą kartę sztuczki lub "
+"obrzędu w twoim cmentarzu."
 
 #: ../../GN2.rst:110
 msgid ""
@@ -505,6 +522,8 @@ msgid ""
 "Tap up to two target creatures. Those creatures don't untap during their "
 "controller's next untap step."
 msgstr ""
+"Przekręć co najwyżej dwa wskazane stwory. Owe stwory nie odkręcą się w "
+"najbliższym kroku odkręcania swojego władcy."
 
 #: ../../GN2.rst:114
 msgid ""
@@ -515,7 +534,7 @@ msgstr ""
 
 #: ../../GN2.rst:113
 msgid "Untap all nonland permanents you control."
-msgstr ""
+msgstr "Odkręć wszystkie nie-lądowe byty pod twoim władaniem."
 
 #: ../../GN2.rst:118
 msgid ""
@@ -529,6 +548,8 @@ msgid ""
 "Return to their owners' hands all creatures with toughness less than or "
 "equal to the number of Islands you control."
 msgstr ""
+"Przywróć do rąk właścicieli wszystkie stwory z wytrzymałością mniejszą lub "
+"równą liczbie Wysp pod twoim władaniem."
 
 #: ../../GN2.rst:124
 msgid ""
@@ -539,11 +560,11 @@ msgstr ""
 
 #: ../../GN2.rst:121
 msgid "Return target tapped creature to its owner's hand."
-msgstr ""
+msgstr "Przywróć wskazanego przekręconego stwora do ręki właściciela."
 
 #: ../../GN2.rst:123
 msgid "Draw a card."
-msgstr ""
+msgstr "Dobierz kartę."
 
 #: ../../GN2.rst:128
 msgid ""
@@ -557,6 +578,8 @@ msgid ""
 "Create a tapped 2/2 black Zombie creature token for each instant and sorcery "
 "card in your graveyard."
 msgstr ""
+"Stwórz przekręcony żeton czarnego stwora Zombi 2/2 za każdą kartę sztuczki i "
+"obrzędu w twoim cmentarzu."
 
 #: ../../GN2.rst:132
 msgid ""
@@ -569,6 +592,8 @@ msgstr ""
 msgid ""
 "Return all nonland permanents target player controls to their owner's hand."
 msgstr ""
+"Przywróć wszystkie nie-lądowe byty pod władaniem wskazanego gracza do rąk "
+"ich właścicieli."
 
 #: ../../GN2.rst:136
 msgid ""
@@ -582,6 +607,8 @@ msgid ""
 "When Salvager of Secrets enters the battlefield, return target instant or "
 "sorcery card from your graveyard to your hand."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, przywróć wskazaną kartę sztuczki lub "
+"obrzędu z twojego cmentarza do twojej ręki."
 
 #: ../../GN2.rst:140
 msgid ""
@@ -596,6 +623,10 @@ msgid ""
 "of turn. (Damage and effects that say \"destroy\" don't destroy it. If its "
 "toughness is 0 or less, it's still put into its owner's graveyard.)"
 msgstr ""
+"|mana_1|\\ |mana_b|: Wskazany atakujący Zombi zyskuje niezniszczalność do "
+"końca tury. (Obrażenia i efekty mówiące \"zniszcz\" nie niszczą go. Jeśli "
+"jego wytrzymałość ma wartość 0 lub mniej, nadal zostanie umieszczony w "
+"cmentarzu właściciela.)"
 
 #: ../../GN2.rst:144
 msgid ""
@@ -616,6 +647,8 @@ msgid ""
 "When Crow of Dark Tidings enters the battlefield or dies, mill two cards. "
 "(Put the top two cards of your library into your graveyard.)"
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy lub umrze, zmiel dwie karty. (Umieść "
+"dwie wierzchnie karty twojej biblioteki w twoim cmentarzu.)"
 
 #: ../../GN2.rst:154
 msgid ""
@@ -629,6 +662,8 @@ msgid ""
 "Whenever another creature you control dies, put a +1/+1 counter on Gavony "
 "Unhallowed."
 msgstr ""
+"Ilekroć umrze inny stwór pod twoim władaniem, umieść znacznik +1/+1 na "
+"niniejszym stworze."
 
 #: ../../GN2.rst:158
 msgid ""
@@ -639,7 +674,7 @@ msgstr ""
 
 #: ../../GN2.rst:157
 msgid "Target creature gets -4/-4 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór do końca tury dostaje -4/-4."
 
 #: ../../GN2.rst:164
 msgid ""
@@ -650,13 +685,15 @@ msgstr ""
 
 #: ../../GN2.rst:161
 msgid "Zombies you control get +1/+1."
-msgstr ""
+msgstr "Zombi pod twoim władaniem dostają +1/+1."
 
 #: ../../GN2.rst:163
 msgid ""
 "When Liliana's Mastery enters the battlefield, create two 2/2 black Zombie "
 "creature tokens."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, stwórz dwa żetony czarnego stwora Zombi "
+"2/2."
 
 #: ../../GN2.rst:170
 msgid ""
@@ -667,11 +704,12 @@ msgstr ""
 
 #: ../../GN2.rst:167
 msgid "Other Zombies you control get +1/+1."
-msgstr ""
+msgstr "Inne Zombi pod twoim władaniem mają +1/+1."
 
 #: ../../GN2.rst:169
 msgid "|mana_1|\\ |mana_b|, |tap|: All Zombies gain menace until end of turn."
 msgstr ""
+"|mana_1|\\ |mana_b|, |tap|: Wszystkie Zombi zyskują złowrogość do końca tury."
 
 #: ../../GN2.rst:174
 msgid ""
@@ -686,6 +724,9 @@ msgid ""
 "control. That creature is a black Zombie in addition to its other colors and "
 "types."
 msgstr ""
+"Umieść wskazaną kartę stwora z dowolnego cmentarza na polu bitwy pod twoim "
+"władaniem. Ów stwór jest dodatkowo czarnym Zombi oprócz swoich pozostałych "
+"kolorów i typów."
 
 #: ../../GN2.rst:178
 msgid ""
@@ -696,7 +737,7 @@ msgstr ""
 
 #: ../../GN2.rst:177
 msgid "When Tattered Mummy dies, each opponent loses 2 life."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, każdy przeciwnik traci po 2 życia."
 
 #: ../../GN2.rst:184
 msgid ""
@@ -712,12 +753,18 @@ msgid ""
 "creatures. This spell costs |mana_2| less to cast for each creature "
 "sacrificed this way."
 msgstr ""
+"Jako dodatkowy koszt rzucenia tego czaru możesz poświęcić dowolną liczbę "
+"stworów. Rzucenie tego czaru kosztuje o |mana_2| mniej za każdego stwora "
+"poświęconego w ten sposób."
 
 #: ../../GN2.rst:183
 msgid ""
 "When Torgaar, Famine Incarnate enters the battlefield, up to one target "
 "player's life total becomes half their starting life total, rounded down."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, punkty życia co najwyżej jednego "
+"wskazanego gracza przyjmują wartość połowy ich startowej wartości, "
+"zaokrąglając w dół."
 
 #: ../../GN2.rst:190
 msgid ""
@@ -732,6 +779,9 @@ msgid ""
 "Hellkite deals 1 damage to any target. If that land is a Mountain, Akoum "
 "Hellkite deals 2 damage instead."
 msgstr ""
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, ten stwór "
+"zadaje wskazanemu celowi 1 obrażenie. Jeśli ów ląd jest Górą, zamiast tego "
+"ten stwór zadaje 2 obrażenia."
 
 #: ../../GN2.rst:194
 msgid ""
@@ -742,7 +792,7 @@ msgstr ""
 
 #: ../../GN2.rst:193
 msgid "Target creature gets +3/+1 and gains trample until end of turn."
-msgstr ""
+msgstr "Wskazany stwór do końca tury dostaje +3/+1 oraz tratowanie."
 
 #: ../../GN2.rst:202
 msgid ""
@@ -753,15 +803,15 @@ msgstr ""
 
 #: ../../GN2.rst:197
 msgid "Choose one —"
-msgstr ""
+msgstr "Wybierz jedno —"
 
 #: ../../GN2.rst:199
 msgid "Destroy target artifact."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt."
 
 #: ../../GN2.rst:201
 msgid "Creatures without flying can't block this turn."
-msgstr ""
+msgstr "Stwory bez latania nie mogą blokować w tej turze."
 
 #: ../../GN2.rst:208
 msgid ""
@@ -772,13 +822,15 @@ msgstr ""
 
 #: ../../GN2.rst:205
 msgid "Defender"
-msgstr ""
+msgstr "Obronność"
 
 #: ../../GN2.rst:207
 msgid ""
 "When Dragon Egg dies, create a 2/2 red Dragon creature token with flying and "
 "\"|mana_r|: This creature gets +1/+0 until end of turn.\""
 msgstr ""
+"Kiedy ten stwór umrze, stwórz żeton czerwonego stwora Smok 2/2 z lataniem "
+"mającego \"|mana_r|: Ten stwór do końca tury dostaje +1/+0.\""
 
 #: ../../GN2.rst:212
 msgid ""
@@ -792,6 +844,8 @@ msgid ""
 "As long as you control a Dragon, Kargan Dragonrider has flying. (It can't be "
 "blocked except by creatures with flying or reach.)"
 msgstr ""
+"O ile władasz Smokiem, ten stwór ma latanie. (Może być blokowany tylko przez "
+"stwory z lataniem i zasięgiem.)"
 
 #: ../../GN2.rst:220
 msgid ""
@@ -805,10 +859,13 @@ msgid ""
 "Whenever another nontoken Dragon enters the battlefield under your control, "
 "create a 5/5 red Dragon creature token with flying."
 msgstr ""
+"Ilekroć inny nie-żetonowy Smok wejdzie na pole bitwy pod twoim władaniem , "
+"stwórz żeton czerwonego stwora Smok 5/5 z lataniem."
 
 #: ../../GN2.rst:219
 msgid "|mana_1|\\ |mana_r|: Dragons you control get +1/+0 until end of turn."
 msgstr ""
+"|mana_1|\\ |mana_r|: Smoki pod twoim władaniem dostają +1/+0 do końca tury."
 
 #: ../../GN2.rst:224
 msgid ""
@@ -819,7 +876,7 @@ msgstr ""
 
 #: ../../GN2.rst:223
 msgid "Lightning Strike deals 3 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi 3 obrażenia."
 
 #: ../../GN2.rst:230
 msgid ""
@@ -833,6 +890,8 @@ msgid ""
 "When Sparktongue Dragon enters the battlefield, you may pay |mana_2|\\ |"
 "mana_r|. When you do, it deals 3 damage to any target."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, możesz zapłacić |mana_2|\\ |mana_r|. "
+"Kiedy to zrobisz, zadaje on wskazanemu celowi 3 obrażenia."
 
 #: ../../GN2.rst:236
 msgid ""
@@ -843,13 +902,15 @@ msgstr ""
 
 #: ../../GN2.rst:233
 msgid "Haste"
-msgstr ""
+msgstr "Pośpiech"
 
 #: ../../GN2.rst:235
 msgid ""
 "When Voldaren Duelist enters the battlefield, target creature can't block "
 "this turn."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór nie może blokować w tej "
+"turze."
 
 #: ../../GN2.rst:240
 msgid ""
@@ -864,6 +925,8 @@ msgid ""
 "|mana_4|\\ |mana_r|: Zealot of the God-Pharaoh deals 2 damage to target "
 "opponent or planeswalker."
 msgstr ""
+"|mana_4|\\ |mana_r|: Ten stwór zadaje wskazanemu przeciwnikowi lub "
+"wędrowcowi 2 obrażenia."
 
 #: ../../GN2.rst:246
 msgid ""
@@ -877,6 +940,8 @@ msgid ""
 "When Crested Herdcaller enters the battlefield, create a 3/3 green Dinosaur "
 "creature token with trample."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton zielonego stwora Dinozaur "
+"3/3 z tratowaniem."
 
 #: ../../GN2.rst:252
 msgid ""
@@ -890,6 +955,8 @@ msgid ""
 "This spell costs |mana_x| less to cast, where X is the total power of "
 "creatures you control."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_x| mniej, gdzie X jest sumą sił stworów "
+"pod twoim władaniem."
 
 #: ../../GN2.rst:256
 msgid ""
@@ -900,7 +967,7 @@ msgstr ""
 
 #: ../../GN2.rst:255
 msgid "Reach"
-msgstr ""
+msgstr "Zasięg"
 
 #: ../../GN2.rst:260
 msgid ""
@@ -915,6 +982,9 @@ msgid ""
 "library for a basic land card, put it onto the battlefield tapped, then "
 "shuffle."
 msgstr ""
+"Rozjuszenie — Ilekroć ten stwór otrzyma obrażenia, możesz wyszukać w twojej "
+"bibliotece kartę bazowego lądu, umieść ją przekręconą na polu bitwy, po czym "
+"przetasuj."
 
 #: ../../GN2.rst:264
 msgid ""
@@ -925,7 +995,7 @@ msgstr ""
 
 #: ../../GN2.rst:263
 msgid "Enrage — Whenever Ripjaw Raptor is dealt damage, draw a card."
-msgstr ""
+msgstr "Rozjuszenie — Ilekroć ten stwór otrzyma obrażenia, dobierz kartę."
 
 #: ../../GN2.rst:268
 msgid ""
@@ -939,6 +1009,8 @@ msgid ""
 "Untap target creature. It gets +2/+4 and gains reach until end of turn. (It "
 "can block creatures with flying.)"
 msgstr ""
+"Odkręć wskazanego stwora. Dostaje on do końca tury +2/+4 oraz zasięg. (Może "
+"blokować stwory z lataniem.)"
 
 #: ../../GN2.rst:274
 msgid ""
@@ -952,12 +1024,16 @@ msgid ""
 "As an additional cost to cast this spell, reveal a Dinosaur card from your "
 "hand or pay |mana_1|."
 msgstr ""
+"Jako dodatkowy koszt rzucenia tego czaru — ujawnij kartę Dinozaura z twojej "
+"ręki lub zapłać |mana_1|."
 
 #: ../../GN2.rst:273
 msgid ""
 "Search your library for a basic land card, put it onto the battlefield "
 "tapped, then shuffle."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę bazowego lądu, umieść ją przekręconą na "
+"polu bitwy, po czym przetasuj."
 
 #: ../../GN2.rst:280
 msgid ""
@@ -968,12 +1044,14 @@ msgstr ""
 
 #: ../../GN2.rst:277
 msgid "Other Dinosaurs you control get +1/+1."
-msgstr ""
+msgstr "Inne Dinozaury pod twoim władaniem dostają +1/+1."
 
 #: ../../GN2.rst:279
 msgid ""
 "|mana_5|\\ |mana_g|: Create a 3/3 green Dinosaur creature token with trample."
 msgstr ""
+"|mana_5|\\ |mana_g|: Stwórz żeton zielonego stwora Dinozaur 3/3 z "
+"tratowaniem."
 
 #: ../../GN2.rst:284
 msgid ""
@@ -984,7 +1062,7 @@ msgstr ""
 
 #: ../../GN2.rst:283
 msgid "Whenever Howling Golem attacks or blocks, each player draws a card."
-msgstr ""
+msgstr "Ilekroć ten stwór zaatakuje lub zablokuje, każdy gracz dobiera kartę."
 
 #: ../../GN2.rst:288
 msgid ""
@@ -995,7 +1073,7 @@ msgstr ""
 
 #: ../../GN2.rst:287
 msgid "(|tap|: Add |mana_w|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_w|.)"
 
 #: ../../GN2.rst:292
 msgid ""
@@ -1006,7 +1084,7 @@ msgstr ""
 
 #: ../../GN2.rst:291
 msgid "(|tap|: Add |mana_u|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_u|.)"
 
 #: ../../GN2.rst:296
 msgid ""
@@ -1017,7 +1095,7 @@ msgstr ""
 
 #: ../../GN2.rst:295
 msgid "(|tap|: Add |mana_b|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_b|.)"
 
 #: ../../GN2.rst:300
 msgid ""
@@ -1028,7 +1106,7 @@ msgstr ""
 
 #: ../../GN2.rst:299
 msgid "(|tap|: Add |mana_r|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_r|.)"
 
 #: ../../GN2.rst:303
 msgid ""
@@ -1039,4 +1117,4 @@ msgstr ""
 
 #: ../../GN2.rst:303
 msgid "(|tap|: Add |mana_g|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_g|.)"
