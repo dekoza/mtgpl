@@ -156,6 +156,7 @@ Conspiracy
 Produkty pokrewne
 =================
 
+* :mtgexp:`GN2` :doc:`Game Night 2019<GN2>` |GN2_percent|
 * :mtgexp:`GNT` :doc:`Game Night<GNT>` |GNT_percent|
 * :mtgexp:`E02` :doc:`Explorers of Ixalan<E02>` |E02_percent|
 

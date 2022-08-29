@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2022.8\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-08-22 09:12+0200\n"
+"POT-Creation-Date: 2022-08-29 09:05+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -178,25 +178,25 @@ msgstr ""
 #: ../../percentages.inc:322
 #: ../../percentages.inc:325
 #: ../../percentages.inc:328
-#: ../../percentages.inc:337
-#: ../../percentages.inc:340
-#: ../../percentages.inc:345
-#: ../../percentages.inc:352
-#: ../../percentages.inc:355
-#: ../../percentages.inc:358
-#: ../../percentages.inc:367
-#: ../../percentages.inc:372
-#: ../../percentages.inc:379
-#: ../../percentages.inc:384
-#: ../../percentages.inc:389
-#: ../../percentages.inc:392
-#: ../../percentages.inc:399
-#: ../../percentages.inc:406
-#: ../../percentages.inc:409
-#: ../../percentages.inc:412
-#: ../../percentages.inc:415
-#: ../../percentages.inc:418
-#: ../../percentages.inc:429
+#: ../../percentages.inc:339
+#: ../../percentages.inc:342
+#: ../../percentages.inc:347
+#: ../../percentages.inc:354
+#: ../../percentages.inc:357
+#: ../../percentages.inc:360
+#: ../../percentages.inc:369
+#: ../../percentages.inc:374
+#: ../../percentages.inc:381
+#: ../../percentages.inc:386
+#: ../../percentages.inc:391
+#: ../../percentages.inc:394
+#: ../../percentages.inc:401
+#: ../../percentages.inc:408
+#: ../../percentages.inc:411
+#: ../../percentages.inc:414
+#: ../../percentages.inc:419
+#: ../../percentages.inc:422
+#: ../../percentages.inc:433
 #: ../../progress.rst:20
 #: ../../percentages.inc:97
 #: ../../percentages.inc:322
@@ -388,7 +388,6 @@ msgid "5ED_percent"
 msgstr ""
 
 #: ../../percentages.inc:320
-#: ../../percentages.inc:320
 msgid "40K_percent"
 msgstr ""
 
@@ -401,89 +400,97 @@ msgid "APC_percent"
 msgstr ""
 
 #: ../../percentages.inc:335
+msgid "GN3_percent"
+msgstr ""
+
+#: ../../percentages.inc:337
 msgid "EVE_percent"
 msgstr ""
 
-#: ../../percentages.inc:343
+#: ../../percentages.inc:345
 msgid "MMQ_percent"
 msgstr ""
 
-#: ../../percentages.inc:348
+#: ../../percentages.inc:350
 msgid "VIS_percent"
 msgstr ""
 
-#: ../../percentages.inc:350
+#: ../../percentages.inc:352
 msgid "TMP_percent"
 msgstr ""
 
-#: ../../percentages.inc:361
+#: ../../percentages.inc:363
 msgid "FUT_percent"
 msgstr ""
 
-#: ../../percentages.inc:363
-#: ../../percentages.inc:363
+#: ../../percentages.inc:365
+#: ../../percentages.inc:365
 msgid "KHC_percent"
 msgstr ""
 
-#: ../../percentages.inc:365
+#: ../../percentages.inc:367
 msgid "ONS_percent"
 msgstr ""
 
-#: ../../percentages.inc:370
+#: ../../percentages.inc:372
 msgid "4ED_percent"
 msgstr ""
 
-#: ../../percentages.inc:375
-#: ../../percentages.inc:375
+#: ../../percentages.inc:377
+#: ../../percentages.inc:377
 msgid "VOC_percent"
 msgstr ""
 
-#: ../../percentages.inc:377
-#: ../../percentages.inc:377
+#: ../../percentages.inc:379
+#: ../../percentages.inc:379
 msgid "C13_percent"
 msgstr ""
 
-#: ../../percentages.inc:382
+#: ../../percentages.inc:384
 msgid "RAV_percent"
 msgstr ""
 
-#: ../../percentages.inc:387
+#: ../../percentages.inc:389
 msgid "DRK_percent"
 msgstr ""
 
-#: ../../percentages.inc:395
+#: ../../percentages.inc:397
 msgid "ICE_percent"
 msgstr ""
 
-#: ../../percentages.inc:397
+#: ../../percentages.inc:399
 msgid "NEM_percent"
 msgstr ""
 
-#: ../../percentages.inc:402
+#: ../../percentages.inc:404
 msgid "ULG_percent"
 msgstr ""
 
-#: ../../percentages.inc:404
+#: ../../percentages.inc:406
 msgid "ODY_percent"
 msgstr ""
 
-#: ../../percentages.inc:421
-msgid "DMC_percent"
-msgstr ""
-
-#: ../../percentages.inc:423
-msgid "DMU_percent"
+#: ../../percentages.inc:417
+msgid "HBG_percent"
 msgstr ""
 
 #: ../../percentages.inc:425
-msgid "ARN_percent"
+msgid "DMC_percent"
 msgstr ""
 
 #: ../../percentages.inc:427
+msgid "DMU_percent"
+msgstr ""
+
+#: ../../percentages.inc:429
+msgid "ARN_percent"
+msgstr ""
+
+#: ../../percentages.inc:431
 msgid "PTK_percent"
 msgstr ""
 
-#: ../../percentages.inc:432
+#: ../../percentages.inc:436
 msgid "LEG_percent"
 msgstr ""
 
@@ -496,89 +503,85 @@ msgid "Poniżej znajduje się lista dodatków do formatu Commander oraz produkty
 msgstr ""
 
 #: ../../commander.rst:12
-msgid ":mtgexp:`40K` :doc:`Warhammer 40,000 Commander<40K>` |40K_percent|"
-msgstr ""
-
-#: ../../commander.rst:13
 msgid ":mtgexp:`CLB` :doc:`Commander Legends: Battle for Baldur's Gate<CLB>` |NCC_percent|"
 msgstr ""
 
-#: ../../commander.rst:14
+#: ../../commander.rst:13
 msgid ":mtgexp:`NCC` :doc:`Streets of New Capenna Commander<NCC>` |NCC_percent|"
 msgstr ""
 
-#: ../../commander.rst:15
+#: ../../commander.rst:14
 msgid ":mtgexp:`NEC` :doc:`Kamigawa: Neon Dynasty Commander<NEC>` |NEC_percent|"
 msgstr ""
 
-#: ../../commander.rst:16
+#: ../../commander.rst:15
 msgid ":mtgexp:`VOC` :doc:`Crimson Vow Commander<VOC>` |VOC_percent|"
 msgstr ""
 
-#: ../../commander.rst:17
+#: ../../commander.rst:16
 msgid ":mtgexp:`MIC` :doc:`Midnight Hunt Commander<MIC>` |MIC_percent|"
 msgstr ""
 
-#: ../../commander.rst:18
+#: ../../commander.rst:17
 msgid ":mtgexp:`C21` :doc:`Commander 2021<C21>` |C21_percent|"
 msgstr ""
 
-#: ../../commander.rst:19
+#: ../../commander.rst:18
 msgid ":mtgexp:`AFC` :doc:`Forgotten Realms Commander<AFC>` |AFC_percent|"
 msgstr ""
 
-#: ../../commander.rst:20
+#: ../../commander.rst:19
 msgid ":mtgexp:`KHC` :doc:`Kaldheim Commander Decks<KHC>` |KHC_percent|"
 msgstr ""
 
-#: ../../commander.rst:21
+#: ../../commander.rst:20
 msgid ":mtgexp:`CMR` :doc:`Commander Legends<CMR>` |CMR_percent|"
 msgstr ""
 
-#: ../../commander.rst:22
+#: ../../commander.rst:21
 msgid ":mtgexp:`ZNC` :doc:`Zendikar Rising Commander Decks<ZNC>` |ZNC_percent|"
 msgstr ""
 
-#: ../../commander.rst:23
+#: ../../commander.rst:22
 msgid ":mtgexp:`C20` :doc:`Commander 2020<C20>` |C20_percent|"
 msgstr ""
 
-#: ../../commander.rst:24
+#: ../../commander.rst:23
 msgid ":mtgexp:`C19` :doc:`Commander 2019<C19>` |C19_percent|"
 msgstr ""
 
-#: ../../commander.rst:25
+#: ../../commander.rst:24
 msgid ":mtgexp:`C18` :doc:`Commander 2018<C18>` |C18_percent|"
 msgstr ""
 
-#: ../../commander.rst:26
+#: ../../commander.rst:25
 msgid ":mtgexp:`BBD` :doc:`Battlebond<BBD>` |BBD_percent|"
 msgstr ""
 
-#: ../../commander.rst:27
+#: ../../commander.rst:26
 msgid ":mtgexp:`C17` :doc:`Commander 2017<C17>` |C17_percent|"
 msgstr ""
 
-#: ../../commander.rst:28
+#: ../../commander.rst:27
 msgid ":mtgexp:`C16` :doc:`Commander 2016<C16>` |C16_percent|"
 msgstr ""
 
-#: ../../commander.rst:29
+#: ../../commander.rst:28
 msgid ":mtgexp:`C15` :doc:`Commander 2015<C15>` |C15_percent|"
 msgstr ""
 
-#: ../../commander.rst:30
+#: ../../commander.rst:29
 msgid ":mtgexp:`C14` :doc:`Commander 2014<C14>` |C14_percent|"
 msgstr ""
 
-#: ../../commander.rst:31
+#: ../../commander.rst:30
 msgid ":mtgexp:`C13` :doc:`Commander 2013<C13>` |C13_percent|"
 msgstr ""
 
-#: ../../commander.rst:32
+#: ../../commander.rst:31
 msgid ":mtgexp:`CM1` :doc:`Commander's Arsenal<CM1>` |CM1_percent|"
 msgstr ""
 
-#: ../../commander.rst:33
+#: ../../commander.rst:32
 msgid ":mtgexp:`CMD` :doc:`Commander<CMD>` |CMD_percent|"
 msgstr ""

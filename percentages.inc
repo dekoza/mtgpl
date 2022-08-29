@@ -369,6 +369,8 @@
 .. |MM2_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
+.. |GN2_percent| image:: images/pie05.png        
+
 .. |4ED_percent| image:: images/pie60.png        
 
 .. |M20_percent| image:: images/done.png        
