@@ -332,7 +332,7 @@
 
 .. |APC_percent| image:: images/pie50.png        
 
-.. |GN3_percent| image:: images/pie05.png        
+.. |GN3_percent| image:: images/pie95.png        
 
 .. |EVE_percent| image:: images/pie70.png        
 
@@ -369,7 +369,7 @@
 .. |MM2_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |GN2_percent| image:: images/pie05.png        
+.. |GN2_percent| image:: images/pie95.png        
 
 .. |4ED_percent| image:: images/pie60.png        
 
