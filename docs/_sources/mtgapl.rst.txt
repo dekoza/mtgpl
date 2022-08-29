@@ -1,10 +1,13 @@
 Spolszczenie do gry Magic Arena
 ===============================
 
-Producent gry z każdym nowym dodatkiem coraz bardziej utrudnia wgrywanie tłumaczenia. Możliwe, że u Ciebie nie będzie
-się dało wgrać plików. Jeśli lubisz grać w Arenę po polsku,
+Aktualnie podany poniżej sposób nie działa. Pozostawiłem go w celach archiwalnych.
+
+Jeśli lubisz grać w Arenę po polsku,
 `zagłosuj na prośbę o oficjalne umożliwienie dodawania własnych tłumaczeń <https://feedback.wizards.com/forums/918667-mtg-arena-bugs-product-suggestions/suggestions/44158059-please-add-and-document-it-somewhere-possibility>`_.
 
+TREŚĆ ARCHIWALNA!
+=================
 
 .. image:: images/MTGA_Teaser.png
 

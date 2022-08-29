@@ -9,7 +9,6 @@ Commander
 
 Poniżej znajduje się lista dodatków do formatu Commander oraz produkty pokrewne (np. :mtgexp:`BBD` :doc:`Battlebond<BBD>`):
 
-* :mtgexp:`40K` :doc:`Warhammer 40,000 Commander<40K>` |40K_percent|
 * :mtgexp:`CLB` :doc:`Commander Legends: Battle for Baldur's Gate<CLB>` |NCC_percent|
 * :mtgexp:`NCC` :doc:`Streets of New Capenna Commander<NCC>` |NCC_percent|
 * :mtgexp:`NEC` :doc:`Kamigawa: Neon Dynasty Commander<NEC>` |NEC_percent|

@@ -1649,7 +1649,7 @@
    At the beginning of combat on your turn, another target creature you control gains haste and myriad until end of turn. (Whenever it attacks, for each opponent other than defending player, you may create a token that's a copy of that creature that's tapped and attacking that player or a planeswalker they control. Exile the tokens at end of combat.)
 
 
-:mtgtip:`Dynaheir, Invoker Adept<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/3/c301b389-d802-4a8b-8681-9b50c8667423.jpg?1660728885|https://scryfall.com/card/clb/273/dynaheir-invoker-adept?utm_source=api>`
+:mtgtip:`Dynaheir, Invoker Adept<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/3/c301b389-d802-4a8b-8681-9b50c8667423.jpg?1661694027|https://scryfall.com/card/clb/273/dynaheir-invoker-adept?utm_source=api>`
    Haste
 
    You may activate abilities of other creatures you control as though those creatures had haste.

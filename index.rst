@@ -21,10 +21,8 @@ Spolszczenie Magic Arena
 .. image:: images/MTGA_Teaser.png
 
 
-Chcesz grać w Arenę po polsku? :doc:`Da się to zrobić<mtgapl>`. Niestety producent gry
-coraz bardziej utrudnia ten proces z każdym większym wydaniem. Po premierze dodatku Innistrad Midnight Hunt
-nie można już używać spolszczenia grając pod Linuksem (poprzez WINE). Niewykluczone, że nawet pod Windows
-tłumaczenie nie będzie działać, choć na razie dostaję informację, że mimo wszystko działa.
+Chcesz grać w Arenę po polsku? :doc:`Kiedyś dało się to zrobić<mtgapl>` (nie działa, zostawione jako treść archiwalna). Niestety producent gry
+wraz z kolejnymi aktualizacjami dość skutecznie wyłączył tę możliwość.
 Jeśli uważasz, że amatorskie tłumaczenie gry jest przydatnym projektem,
 `możesz zagłosować na prośbę o oficjalne umożliwienie dodawania własnych tłumaczeń <https://feedback.wizards.com/forums/918667-mtg-arena-bugs-product-suggestions/suggestions/44158059-please-add-and-document-it-somewhere-possibility>`_.
 
@@ -42,8 +40,11 @@ Tłumaczenie dodatków
 Nadchodzące
 -----------
 
+* :mtgexp:`BRO` :doc:`Brother's War` Premiera: 2022-11-18
+* :mtgexp:`GN3` :doc:`Game Night Free-for-All<GN3>` Premiera: 2022-10-14
+* :mtgexp:`40K` :doc:`Warhammer 40,000 Commander<40K>` Premiera: 2022-10-07
 * :mtgexp:`DMU` :doc:`Dominaria United<DMU>` Premiera: 2022-09-09
-* :mtgexp:`DMC` :doc:`Dominaria United Commander<DMC>` Premiera: 2022-09
+* :mtgexp:`DMC` :doc:`Dominaria United Commander<DMC>` Premiera: 2022-09-09
 
 
 Standard
@@ -99,6 +100,7 @@ Na komputery wyszło kilka gier pozwalających grać w MTG, ale najpopularniejsz
 Otrzymały one specjalne dodatki, które nie miały swoich bezpośrednich papierowych odpowiedników, ale zawierały
 karty z innych dodatków dobrane w taki sposób, by zapewnić odpowiedni balans zarówno w Constructed jak i Limited.
 
+* :mtgexp:`ANB` :doc:`Alchemy Horizons: Baldur's Gate<HBG>` (tylko Arena) |HBG_percent|
 * :mtgexp:`ANB` :doc:`Arena Beginner Set<ANB>` (tylko Arena) |ANB_percent|
 * :mtgexp:`AKR` :doc:`Amonkhet Remastered<AKR>` (tylko Arena) |AKR_percent|
 * :mtgexp:`KLR` :doc:`Kaladesh Remastered<KLR>` (tylko Arena) |KLR_percent|

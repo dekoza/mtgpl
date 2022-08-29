@@ -179,10 +179,10 @@
    Heroic — Whenever you cast a spell that targets Rosnakht, Heir of Rohgahh, create a 0/1 red Kobold creature token named Kobolds of Kher Keep.
 
 
-:mtgtip:`Baru, Wurmspeaker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/c/2cae4149-d8ef-4772-9db4-cb576bef61b5.jpg?1661534582|https://scryfall.com/card/dmc/26/baru-wurmspeaker?utm_source=api>`
+:mtgtip:`Baru, Wurmspeaker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/c/2cae4149-d8ef-4772-9db4-cb576bef61b5.jpg?1661682968|https://scryfall.com/card/dmc/26/baru-wurmspeaker?utm_source=api>`
    Wurms you control get +2/+2 and have trample.
 
-   |mana_7|\ |mana_g|, |tap|: Create a 4/4 green Wurm creature token. This ability costs |mana_x| less to activate, whre X is the greatest power among Wurms you control.
+   |mana_7|\ |mana_g|, |tap|: Create a 4/4 green Wurm creature token. This ability costs |mana_x| less to activate, where X is the greatest power among Wurms you control.
 
 
 :mtgtip:`Greensleeves, Maro-Sorcerer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/0969d7f3-cec5-4118-adb1-ff957eedf6ab.jpg?1661534664|https://scryfall.com/card/dmc/27/greensleeves-maro-sorcerer?utm_source=api>`

@@ -332,6 +332,8 @@
 
 .. |APC_percent| image:: images/pie50.png        
 
+.. |GN3_percent| image:: images/pie05.png        
+
 .. |EVE_percent| image:: images/pie70.png        
 
 .. |S00_percent| image:: images/done.png        
@@ -411,6 +413,8 @@
 
 .. |PLC_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
+
+.. |HBG_percent| image:: images/pie05.png        
 
 .. |GTC_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone

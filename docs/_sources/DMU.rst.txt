@@ -421,7 +421,7 @@
    Counter target spell unless its controller pays |mana_1| for each creature you control.
 
 
-:mtgtip:`Rona's Vortex<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bdf96533-f28a-4465-893b-0c9394d5b8d7.jpg?1661143243|https://scryfall.com/card/dmu/63/ronas-vortex?utm_source=api>`
+:mtgtip:`Rona's Vortex<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bdf96533-f28a-4465-893b-0c9394d5b8d7.jpg?1661693218|https://scryfall.com/card/dmu/63/ronas-vortex?utm_source=api>`
    Kicker |mana_2|\ |mana_b| (You may pay an additional |mana_2|\ |mana_b| as you cast this spell.)
 
    Return target creature or planeswalker you don't control to its owner's hand. If this spell was kicked, put that permanent on the bottom of its owner's library instead.
@@ -1051,7 +1051,7 @@
    Domain — Target creature gets +1/+1 until end of turn for each basic land type among lands you control.
 
 
-:mtgtip:`Herd Migration<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/0/b0244a1f-e696-4223-9c14-22c2ca3cb738.jpg?1661064893|https://scryfall.com/card/dmu/165/herd-migration?utm_source=api>`
+:mtgtip:`Herd Migration<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/0/b0244a1f-e696-4223-9c14-22c2ca3cb738.jpg?1661711090|https://scryfall.com/card/dmu/165/herd-migration?utm_source=api>`
    Domain — Create a 3/3 green Beast creature token for each basic land type among lands you control.
 
    |mana_1|\ |mana_g|, Discard Herd Migration: Search your library for a basic land card, reveal it, put it into your hand, then shuffle. You gain 3 life.
