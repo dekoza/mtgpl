@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2022.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-29 05:51+0200\n"
-"PO-Revision-Date: 2022-08-29 04:10+0000\n"
+"PO-Revision-Date: 2022-08-29 18:15+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dmu/pl/>\n"
 "Language: pl\n"
@@ -736,7 +736,7 @@ msgstr ""
 
 #: ../../DMU.rst:169
 msgid "I — You and target opponent each draw two cards."
-msgstr ""
+msgstr "I — Ty oraz wskazany przeciwnik dobieracie po dwie karty."
 
 #: ../../DMU.rst:171
 msgid "II — Create a 1/1 white Bird creature token with flying."
@@ -745,6 +745,7 @@ msgstr "II — Stwórz żeton białego stwora Ptak 1/1 z lataniem."
 #: ../../DMU.rst:173
 msgid "III — Put a +1/+1 counter on each of up to two target creatures."
 msgstr ""
+"III — Umieść znacznik +1/+1 na każdym z co najwyżej dwóch wskazanych stworów."
 
 #: ../../DMU.rst:180
 msgid ""
@@ -968,6 +969,8 @@ msgid ""
 "I—Scry 4, then you may reveal the top card of your library. if a "
 "planeswalker card is revealed this way, put it into your hand."
 msgstr ""
+"I — Wróż 4, po czym możesz ujawnić wierzchnią kartę twojej biblioteki. Jeśli "
+"karta wędrowca zostanie ujawniona w ten sposób, umieść ją w twojej ręce."
 
 #: ../../DMU.rst:247
 msgid ""
@@ -982,6 +985,8 @@ msgid ""
 "III—You may activate the loyalty abilities of planeswalkers you control "
 "twice this turn rather than only once."
 msgstr ""
+"III — W tej turze możesz aktywować zdolności lojalnościowe wędrowców pod "
+"twoim władaniem dwukrotnie zamiast tylko raz."
 
 #: ../../DMU.rst:256
 msgid ""
@@ -1038,6 +1043,9 @@ msgid ""
 "additional card. If they do, spells they cast this turn cost |mana_2| more "
 "to cast."
 msgstr ""
+"Na początku kroku dobierania każdego z graczy, ów gracz może dobrać "
+"dodatkową kartę. Jeśli tak zrobi, czary rzucane przez niego w tej turze "
+"kosztują o |mana_2| więcej."
 
 #: ../../DMU.rst:274
 msgid ""
@@ -1071,7 +1079,7 @@ msgstr "Stwórz żeton białego stwora Ptak 1/1 z lataniem."
 
 #: ../../DMU.rst:281
 msgid "Return another target nonland permanent to its owner's hand."
-msgstr ""
+msgstr "Przywróć inny wskazany nielądowy byt do ręki właściciela."
 
 #: ../../DMU.rst:292
 msgid ""
@@ -1303,6 +1311,8 @@ msgid ""
 "Haunting Figment can't be blocked as long as you've cast an instant or "
 "sorcery spell this turn."
 msgstr ""
+"Niniejszy nie może być blokowany o ile rzuciłeś czar sztuczki lub obrzędu w "
+"tej turze."
 
 #: ../../DMU.rst:372
 msgid ""
@@ -1655,6 +1665,9 @@ msgid ""
 "you control, create a token that's a copy of that artifact or creature, "
 "except it's not legendary."
 msgstr ""
+"Ilekroć rzucisz czar wskazujący tylko jeden artefakt lub stwora pod twoim "
+"władaniem, stwórz żeton będący kopią owego artefaktu lub stwora, ale nie "
+"jest on legendarny."
 
 #: ../../DMU.rst:486
 msgid ""
@@ -1719,6 +1732,9 @@ msgid ""
 "creature with power less than Vodalian Mindsinger's power for as long as you "
 "control Vodalian Mindsinger."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, zyskaj władanie nad wskazanym stworem o "
+"sile mniejszej niż siła niniejszego na czas pozostawania niniejszego pod "
+"twoim władaniem."
 
 #: ../../DMU.rst:506
 msgid ""
@@ -1768,6 +1784,10 @@ msgid ""
 "battlefield. It gains haste. Sacrifice it at the beginning of the next end "
 "step."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, jeśli został podbity, przywróć wskazaną "
+"kartę stwora o skrócie many 3 lub mniejszym z twojego cmentarza na pole "
+"bitwy. Zyskuje on pośpiech. Poświęć go na początku najbliższego kroku "
+"końcowego."
 
 #: ../../DMU.rst:524
 msgid ""
@@ -1793,7 +1813,7 @@ msgstr ""
 
 #: ../../DMU.rst:529
 msgid "|mana_b|: Battlefly Swarm gains deathtouch until end of turn."
-msgstr ""
+msgstr "|mana_b|: Ten stwór do końca tury zyskuje dotyk śmierci."
 
 #: ../../DMU.rst:536
 msgid ""
@@ -5126,6 +5146,8 @@ msgid ""
 "Whenever Ragefire Hellkite attacks, you may sacrifice another creature. If "
 "you do, Ragefire Hellkite gains double strike until end of turn."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, możesz poświęcić innego stwora. Jeśli tak "
+"zrobisz, niniejszy do końca tury zyskuje podwójny cios."
 
 #: ../../DMU.rst:1721
 msgid ""
