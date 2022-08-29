@@ -414,7 +414,7 @@
 .. |PLC_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |HBG_percent| image:: images/pie05.png        
+.. |HBG_percent| image:: images/pie40.png        
 
 .. |GTC_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
