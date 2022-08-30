@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2022.7\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-08-29 20:17+0200\n"
+"POT-Creation-Date: 2022-08-30 22:37+0200\n"
 "PO-Revision-Date: 2022-08-29 18:15+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dmu/pl/>\n"
@@ -1033,7 +1033,7 @@ msgstr ""
 #: ../../DMU.rst:268
 msgid ""
 ":mtgtip:`Academy Loremaster<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/9/f/9fca4c4f-a77b-483e-9da4-574ba2e3d179.jpg?1661528141|"
+"border_crop/front/9/f/9fca4c4f-a77b-483e-9da4-574ba2e3d179.jpg?1661843959|"
 "https://scryfall.com/card/dmu/40/academy-loremaster?utm_source=api>`"
 msgstr ""
 
@@ -1341,7 +1341,7 @@ msgstr ""
 #: ../../DMU.rst:376
 msgid ""
 ":mtgtip:`Impulse<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/5/a/5aec2b2c-0764-4869-814d-aad921122af9.jpg?1661528389|https://"
+"front/5/a/5aec2b2c-0764-4869-814d-aad921122af9.jpg?1661843993|https://"
 "scryfall.com/card/dmu/55/impulse?utm_source=api>`"
 msgstr ""
 
@@ -2235,15 +2235,21 @@ msgstr ""
 #: ../../DMU.rst:676
 msgid ""
 ":mtgtip:`Sengir Connoisseur<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/7/c/7c9231f0-7733-46d9-b9c6-c6c5b7fe65dd.jpg?1661378593|"
+"border_crop/front/7/c/7c9231f0-7733-46d9-b9c6-c6c5b7fe65dd.jpg?1661843905|"
 "https://scryfall.com/card/dmu/104/sengir-connoisseur?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:675
+#, fuzzy
+#| msgid ""
+#| "Whenever you cast an instant or sorcery spell, you may draw a card. If "
+#| "you do, discard a card. This ability triggers only once each turn."
 msgid ""
 "Whenever one or more other creatures die, put a +1/+1 counter on Sengir "
-"Connoisseur. This aility triggers only once each turn."
+"Connoisseur. This ability triggers only once each turn."
 msgstr ""
+"Ilekroć rzucisz czar sztuczki lub obrzędu, możesz dobrać kartę. Jeśli tak "
+"zrobisz, odrzuć kartę. Ta zdolność wyzwala się tylko raz na turę."
 
 #: ../../DMU.rst:680
 msgid ""
@@ -4786,7 +4792,7 @@ msgstr "|mana_1|, |tap|: Weź jedną manę dowolnego koloru."
 #: ../../DMU.rst:1578
 msgid ""
 ":mtgtip:`Geothermal Bog<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/1/e/1e62fe57-4fa4-4bfd-8e31-9f6db774d7e2.jpg?1661540102|"
+"border_crop/front/1/e/1e62fe57-4fa4-4bfd-8e31-9f6db774d7e2.jpg?1661844014|"
 "https://scryfall.com/card/dmu/247/geothermal-bog?utm_source=api>`"
 msgstr ""
 
@@ -4941,7 +4947,7 @@ msgstr "|tap|: Weź |mana_b| lub |mana_r|. Ten ląd zadaje tobie 1 obrażenie."
 #: ../../DMU.rst:1642
 msgid ""
 ":mtgtip:`Sunlit Marsh<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/f/0/f0588fbf-3c05-452a-b3f7-67604c1f921d.jpg?1661540401|"
+"border_crop/front/f/0/f0588fbf-3c05-452a-b3f7-67604c1f921d.jpg?1661843970|"
 "https://scryfall.com/card/dmu/257/sunlit-marsh?utm_source=api>`"
 msgstr ""
 
