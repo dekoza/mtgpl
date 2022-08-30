@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2022.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-30 22:37+0200\n"
-"PO-Revision-Date: 2022-08-29 18:15+0000\n"
+"PO-Revision-Date: 2022-08-30 21:05+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dmu/pl/>\n"
 "Language: pl\n"
@@ -2240,16 +2240,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:675
-#, fuzzy
-#| msgid ""
-#| "Whenever you cast an instant or sorcery spell, you may draw a card. If "
-#| "you do, discard a card. This ability triggers only once each turn."
 msgid ""
 "Whenever one or more other creatures die, put a +1/+1 counter on Sengir "
 "Connoisseur. This ability triggers only once each turn."
 msgstr ""
-"Ilekroć rzucisz czar sztuczki lub obrzędu, możesz dobrać kartę. Jeśli tak "
-"zrobisz, odrzuć kartę. Ta zdolność wyzwala się tylko raz na turę."
+"Ilekroć umrze jeden lub więcej stworów, umieść znacznik +1/+1 na niniejszym. "
+"Ta zdolność wyzwala się tylko raz na turę."
 
 #: ../../DMU.rst:680
 msgid ""
