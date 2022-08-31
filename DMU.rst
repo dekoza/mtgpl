@@ -1212,7 +1212,7 @@
 
 
 :mtgtip:`Ajani, Sleeper Agent<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/7641f4d9-4614-41c8-87f5-4845bd78e9b3.jpg?1660839093|https://scryfall.com/card/dmu/192/ajani-sleeper-agent?utm_source=api>`
-   Compleated ({G/W/P} can be paid with |mana_g|, |mana_w|, or 2 life. If life was paid, this planeswalker enters with two fewer loyalty counters.)
+   Compleated (|mana_gwp| can be paid with |mana_g|, |mana_w|, or 2 life. If life was paid, this planeswalker enters with two fewer loyalty counters.)
 
    +1: Reveal the top card of your library. If it's a creature or planeswalker card, put it into your hand. Otherwise, you may put it on the bottom of your library.
 

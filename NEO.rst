@@ -1646,7 +1646,7 @@
 
 
 :mtgtip:`Tamiyo, Compleated Sage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/2/222a736e-d819-452d-aeda-eb848c4b2302.jpg?1656616489|https://scryfall.com/card/neo/238/tamiyo-compleated-sage?utm_source=api>`
-   Compleated ({G/U/P} can be paid with |mana_g|, |mana_u|, or 2 life. If life was paid, this planeswalker enters with two fewer loyalty counters.)
+   Compleated (|mana_gup| can be paid with |mana_g|, |mana_u|, or 2 life. If life was paid, this planeswalker enters with two fewer loyalty counters.)
 
    +1: Tap up to one target artifact or creature. It doesn't untap during its controller's next untap step.
 
