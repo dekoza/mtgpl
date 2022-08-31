@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2022.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-31 21:52+0200\n"
-"PO-Revision-Date: 2022-08-31 19:55+0000\n"
+"PO-Revision-Date: 2022-08-31 21:11+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dmu/pl/>\n"
 "Language: pl\n"
@@ -733,6 +733,9 @@ msgid ""
 "Read ahead (Choose a chapter and start with that many lore counters. Add one "
 "after your draw step. Skipped chapters don't trigger. Sacrifice after III.)"
 msgstr ""
+"Czytanie z wyprzedzeniem (Wybierz rozdział i rozpocznij z tyloma znacznikami "
+"opowieści. Dodaj jeden po twoim kroku dobierania. Pominięte rozdziały nie "
+"wyzwalają się. Poświęć po III.)"
 
 #: ../../DMU.rst:169
 msgid "I — You and target opponent each draw two cards."
@@ -1408,6 +1411,8 @@ msgid ""
 "I, II — Another target nonland permanent phases out. It can't phase in for "
 "as long as you control The Phasing of Zhalfir."
 msgstr ""
+"I, II — Inny wskazany nielądowy byt wycofuje się. Nie może on zostać "
+"wprowadzony dopóki władasz niniejszym."
 
 #: ../../DMU.rst:397
 msgid ""
@@ -2507,6 +2512,12 @@ msgid ""
 "top of their library until they reveal a card that shares a card type with "
 "it, puts that card onto the battlefield, then shuffles."
 msgstr ""
+"Wygnaj co najwyżej jeden wskazany artefakt, co najwyżej jednego wskazanego "
+"stwora, co najwyżej jeden wskazany urok, co najwyżej jednego wskazanego "
+"wędrowca i/lub co najwyżej jeden wskazany ląd. Za każdy byt wygnany w ten "
+"sposób, jego władca ujawnia karty z wierzchu swojej biblioteki aż ujawni "
+"karty mającą z nim wspólny typ, umieszcza ową kartę na polu bitwy, po czym "
+"tasuje."
 
 #: ../../DMU.rst:758
 msgid ""
@@ -2789,6 +2800,9 @@ msgid ""
 "turn, Jaya, Fiery Negotiator deals damage equal to the number of attacking "
 "creatures to that creature."
 msgstr ""
+"–2: Wybierz wskazanego stwora pod władaniem przeciwnika. Ilekroć zaatakujesz "
+"w tej turze, niniejszy zadaje owemu stworowi obrażenia równe liczbie "
+"atakujących stworów."
 
 #: ../../DMU.rst:853
 msgid ""
@@ -2834,6 +2848,11 @@ msgid ""
 "of your library in a random order. You may cast the exiled card without "
 "paying its mana cost."
 msgstr ""
+"Ilekroć niniejszy zaatakuje, spójrz na X wierzchnich kart twojej biblioteki, "
+"gdzie X jest siłą niniejszego. Możesz spośród nich wygnać kartę sztuczki lub "
+"obrzędu o skrócie many X lub mniejszym. Umieść pozostałe losowo na spodzie "
+"twojej biblioteki. Możesz rzucić ową wygnaną kartę bez płacenia jej kosztu "
+"many."
 
 #: ../../DMU.rst:872
 msgid ""
@@ -3698,6 +3717,10 @@ msgid ""
 "+1 until end of turn. Then those creatures fight each other. (Each deals "
 "damage equal to its power to the other.)"
 msgstr ""
+"Wybierz wskazanego stwora pod twoim władaniem i wskazanego stwora poza twoim "
+"władaniem. Jeśli rzucasz ten czar w twojej fazie głównej, ów stwór pod twoim "
+"władaniem do końca tury dostaje +1/+1. Następnie owe stwory walczą ze sobą. ("
+"Każdy z nich zadaje drugiemu obrażenia równe swojej sile.)"
 
 #: ../../DMU.rst:1160
 msgid ""
@@ -3901,12 +3924,16 @@ msgid ""
 "−3: Distribute three +1/+1 counters among up to three target creatures. They "
 "gain vigilance until end of turn."
 msgstr ""
+"–3: Rozmieść łącznie trzy znaczniki +1/+1 pośród co najwyżej trzech "
+"wskazanych stworów. Do końca tury zyskują one czujność."
 
 #: ../../DMU.rst:1221
 msgid ""
 "−6: You get an emblem with \"Whenever you cast a creature or planeswalker "
 "spell, target opponent gets two poison counters.\""
 msgstr ""
+"–6: Dostajesz emblemat z \"Ilekroć rzucisz czar stwora lub wędrowca, "
+"wskazany przeciwnik dostaje dwa znaczniki zatrucia.\""
 
 #: ../../DMU.rst:1228
 msgid ""
@@ -3937,14 +3964,18 @@ msgid ""
 "among them and put it into your hand. Put the rest on the bottom of your "
 "library in a random order."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, spójrz na siedem wierzchnich kart "
+"twojej biblioteki. Możesz ujawnić spośród nich kartę Wyposażenia lub Pojazdu "
+"i umieścić ją w twojej ręce. Umieść pozostałe losowo na spodzie twojej "
+"biblioteki."
 
 #: ../../DMU.rst:1233
 msgid "Equipment you control have equip |mana_1|."
-msgstr ""
+msgstr "Wyposażenia pod twoim władaniem mają wyposażenie |mana_1|."
 
 #: ../../DMU.rst:1235
 msgid "Vehicles you control have crew 1."
-msgstr ""
+msgstr "Pojazdy pod twoim władaniem mają załogę 1."
 
 #: ../../DMU.rst:1240
 msgid ""
@@ -3992,6 +4023,10 @@ msgid ""
 "battlefield if its mana value is less than or equal to the number of basic "
 "land types among lands you control. Otherwise, put it into your hand."
 msgstr ""
+"Domena — Kiedy ten byt wejdzie na pole bitwy, jeśli go rzuciłeś, wybierz "
+"wskazaną kartę stwora w twoim cmentarzu. Przywróć ową kartę na pole bitwy "
+"jeśli jej skrót many jest mniejszy lub równy liczbie bazowych typów lądów "
+"pośród lądów pod twoim władaniem. W przeciwnym razie umieść ją w twojej ręce."
 
 #: ../../DMU.rst:1258
 msgid ""
@@ -4011,6 +4046,7 @@ msgstr ""
 #: ../../DMU.rst:1257
 msgid "Whenever another creature you control dies, each opponent loses 1 life."
 msgstr ""
+"Ilekroć umrze inny stwór pod twoim władaniem, każdy przeciwnik traci 1 życie."
 
 #: ../../DMU.rst:1268
 msgid ""
@@ -4028,6 +4064,8 @@ msgid ""
 "Counter target spell, activated ability, or triggered ability. Its "
 "controller draws a card."
 msgstr ""
+"Skontruj wskazany czar, aktywowaną zdolność lub wyzwalaną zdolność. Władca "
+"celu dobiera kartę."
 
 #: ../../DMU.rst:1267
 msgid ""
@@ -4048,6 +4086,9 @@ msgid ""
 "Whenever another creature you control dies, draw a card if it was attacking. "
 "Otherwise, Garna, Bloodfist of Keld deals 1 damage to each opponent."
 msgstr ""
+"Ilekroć umrze inny stwór pod twoim władaniem, dobierz kartę jeśli był on w "
+"trakcie ataku. W przeciwnym razie niniejszy zadaje każdemu przeciwnikowi po "
+"1 obrażeniu."
 
 #: ../../DMU.rst:1278
 msgid ""
@@ -4062,6 +4103,9 @@ msgid ""
 "than Ivy, Gleeful Spellthief, you may copy that spell. The copy targets Ivy. "
 "(A copy of an Aura spell becomes a token.)"
 msgstr ""
+"Ilekroć gracz rzuci czar wskazujący tylko jednego stwora innego niż "
+"niniejszy, możesz skopiować ów czar. Owa kopia wskazuje niniejszego. (Kopia "
+"czaru Aury staje się żetonem.)"
 
 #: ../../DMU.rst:1282
 msgid ""
@@ -4077,6 +4121,9 @@ msgid ""
 "put an artifact card with mana value X or less from your hand onto the "
 "battlefield, where X is the number of ingenuity counters on Jhoira."
 msgstr ""
+"|tap|: Umieść dwa znaczniki pomysłowości na niniejszym, po czym możesz "
+"umieścić kartę artefaktu o skrócie many X lub mniejszym z twojej ręki na "
+"polu bitwy, gdzie X jest liczbą znaczników pomysłowości na niniejszym."
 
 #: ../../DMU.rst:1288
 msgid ""
@@ -4090,6 +4137,8 @@ msgid ""
 "Legendary creatures you control get +X/+X where X is the number of legendary "
 "creatures you control."
 msgstr ""
+"Legendarne stwory pod twoim władaniem dostają +X/+X, gdzie X jest liczbą "
+"legendarnych stworów pod twoim władaniem."
 
 #: ../../DMU.rst:1287
 msgid ""
@@ -4098,6 +4147,10 @@ msgid ""
 "value. You may cast that card without paying its mana cost. Put the rest on "
 "the bottom of your library in a random order."
 msgstr ""
+"Ilekroć rzucisz legendarny czar z twojej ręki, wygnaj karty z wierzchu "
+"twojej biblioteki aż wygnaj legendarną nielądową kartę o mniejszym skrócie "
+"many. Możesz rzucić ową kartę bez płacenia jej kosztu many. Umieść pozostałe "
+"losowo na spodzie twojej biblioteki."
 
 #: ../../DMU.rst:1296
 msgid ""
@@ -4115,12 +4168,16 @@ msgid ""
 "|mana_3|\\ |mana_g|\\ |mana_w|: Put a +1/+1 counter on King Darien and "
 "create a 1/1 white Soldier creature token."
 msgstr ""
+"|mana_3|\\ |mana_g|\\ |mana_w|: Umieść znacznik +1/+1 na niniejszym i stwórz "
+"żeton białego stwora Piechur 1/1."
 
 #: ../../DMU.rst:1295
 msgid ""
 "Sacrifice King Darien: Creature tokens you control gain hexproof and "
 "indestructible until end of turn."
 msgstr ""
+"Poświęć ten byt: Żetony stworów pod twoim władaniem do końca tury zyskują "
+"antyklątwę i niezniszczalność."
 
 #: ../../DMU.rst:1302
 msgid ""
@@ -4135,12 +4192,17 @@ msgid ""
 "token with trample and haste. Sacrifice it at the beginning of the next end "
 "step."
 msgstr ""
+"Na początku potyczki w twojej turze, stwórz żeton czerwonego stwora Żywiołak "
+"2/1 z tratowaniem i pośpiechem. Poświęć go na początku najbliższego kroku "
+"końcowego."
 
 #: ../../DMU.rst:1301
 msgid ""
 "|tap|: Search your library for a card, put it into your hand, then shuffle. "
 "Activate only if five or more creatures died this turn."
 msgstr ""
+"|tap|: Wyszukaj w twojej bibliotece kartę, umieść ją w twojej ręce, po czym "
+"przetasuj. Aktywuj tylko jeśli co najmniej pięć stworów umarło w tej turze."
 
 #: ../../DMU.rst:1308
 msgid ""
@@ -4153,12 +4215,15 @@ msgstr ""
 #: ../../DMU.rst:1305
 msgid "Tap an untapped nontoken artifact you control: Add |mana_g|."
 msgstr ""
+"Przekręć odkręcony nieżetonowy artefakt pod twoim władaniem: Weź |mana_g|."
 
 #: ../../DMU.rst:1307
 msgid ""
 "Tap two untapped nontoken artifacts you control: Exile the top card of your "
 "library. You may play it this turn."
 msgstr ""
+"Przekręć dwa odkręcone nieżetonowe artefakty pod twoim władaniem: Wygnaj "
+"wierzchnią kartę twojej biblioteki. Możesz ją zagrać w tej turze."
 
 #: ../../DMU.rst:1314
 msgid ""
@@ -4191,7 +4256,7 @@ msgstr ""
 
 #: ../../DMU.rst:1317
 msgid "You may cast sorcery spells as though they had flash."
-msgstr ""
+msgstr "Możesz rzucać czary obrzędów jakby miały błysk."
 
 #: ../../DMU.rst:1319
 msgid ""
@@ -4199,6 +4264,9 @@ msgid ""
 "when you cast your next instant or sorcery spell this turn, copy it. You may "
 "choose new targets for the copy."
 msgstr ""
+"Ilekroć niniejszy zaatakuje, możesz zapłacić |mana_2|. Jeśli tak zrobisz, "
+"kiedy rzucisz twój następny czar sztuczki lub obrzędu w tej turze, skopiuj "
+"go. Możesz wskazać nowe cele dla owej kopii."
 
 #: ../../DMU.rst:1330
 msgid ""
@@ -4212,16 +4280,18 @@ msgid ""
 "If a creature an opponent controls would die, exile it instead. When you do, "
 "create a 1/1 green Saproling creature token."
 msgstr ""
+"Jeśli stwór pod władaniem przeciwnika miałby umrze, zamiast tego wygnaj go. "
+"Kiedy tak zrobisz, stwórz żeton zielonego stwora Sadzonka 1/1."
 
 #: ../../DMU.rst:1327
 msgid ""
 "|mana_g|, Sacrifice a Saproling: Nemata, Primeval Warden gets +2/+2 until "
 "end of turn."
-msgstr ""
+msgstr "|mana_g|, poświęć Sadzonkę: Niniejszy do końca tury dostaje +2/+2."
 
 #: ../../DMU.rst:1329
 msgid "|mana_1|\\ |mana_b|, Sacrifice two Saprolings: Draw a card."
-msgstr ""
+msgstr "|mana_1|\\ |mana_b|, poświęć dwie sadzonki: Dobierz kartę."
 
 #: ../../DMU.rst:1336
 msgid ""
@@ -4244,6 +4314,9 @@ msgid ""
 "If one or more creature tokens would be created under your control, those "
 "tokens plus a 1/1 white Soldier creature token are created instead."
 msgstr ""
+"Jeśli jeden lub więcej żetonów stworów miałoby zostać stworzonych pod twoim "
+"władaniem, zamiast tego tworzone są owe żetony oraz żeton białego stwora "
+"Piechur 1/1."
 
 #: ../../DMU.rst:1340
 msgid ""
@@ -4276,12 +4349,16 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, you may tap two untapped "
 "creatures you control. If you do, draw a card."
 msgstr ""
+"Ilekroć rzucisz czar sztuczki lub obrzędu, możesz przekręcić dwa odkręcone "
+"stwory pod twoim władaniem. Jeśli tak zrobisz, dobierz kartę."
 
 #: ../../DMU.rst:1345
 msgid ""
 "|mana_3|\\ |mana_w|\\ |mana_w|: Creatures you control get +1/+1 and gain "
 "vigilance until end of turn."
 msgstr ""
+"|mana_3|\\ |mana_w|\\ |mana_w|: Stwory pod twoim władaniem do końca tury "
+"dostają +1/+1 oraz czujność."
 
 #: ../../DMU.rst:1354
 msgid ""
@@ -4296,7 +4373,7 @@ msgstr "Czujność, opieka |mana_2|"
 
 #: ../../DMU.rst:1351
 msgid "Other zombies you control have vigilance."
-msgstr ""
+msgstr "Inne Zombi pod twoim władaniem mają czujność."
 
 #: ../../DMU.rst:1353
 msgid ""
@@ -4304,6 +4381,9 @@ msgid ""
 "a copy of that creature, except it's not legendary and it's a 2/2 black "
 "Zombie in addition to its other colors and types."
 msgstr ""
+"Ilekroć umrze inny legendarny stwór pod twoim władaniem, stwórz żeton będący "
+"kopią owego stwora, ale nie jest on legendarny i jest dodatkowo czarnym "
+"Zombi 2/2 oprócz swoich innych kolorów oraz typów."
 
 #: ../../DMU.rst:1362
 msgid ""
@@ -4323,6 +4403,9 @@ msgid ""
 "controlled was dealt excess damage this turn, create a 4/4 red Dragon "
 "creature token with flying."
 msgstr ""
+"Na początku twojego kroku końcowego, jeśli stwór lub wędrowiec pod władaniem "
+"przeciwnika otrzymał w tej turze nadwyżkowe obrażenia, stwórz żeton "
+"czerwonego stwora Smok 4/4 z lataniem."
 
 #: ../../DMU.rst:1372
 msgid ""
@@ -4344,12 +4427,16 @@ msgid ""
 "Once during each of your turns, you may cast a Dragon creature spell from "
 "your graveyard."
 msgstr ""
+"Raz na każdą twoją turę możesz rzucić czar stwora typu Smok z twojego "
+"cmentarza."
 
 #: ../../DMU.rst:1371
 msgid ""
 "Whenever you cast a Dragon creature spell from your graveyard, it gains "
 "\"When this creature dies, exile it.\""
 msgstr ""
+"Ilekroć rzucisz czar stwora typu Smok z twojego cmentarza, zyskuje on \"Kiedy"
+" ten stwór umrze, wygnaj go.\""
 
 #: ../../DMU.rst:1378
 msgid ""
@@ -4363,12 +4450,15 @@ msgstr ""
 msgid ""
 "Whenever you cast an instant or sorcery spell, each opponent loses 1 life."
 msgstr ""
+"Ilekroć rzucisz czar sztuczki lub obrzędu, każdy przeciwnik traci 1 życie."
 
 #: ../../DMU.rst:1377
 msgid ""
 "You may cast Rona, Sheoldred's Faithful from your graveyard by discarding "
 "two cards in addition to paying its other costs."
 msgstr ""
+"Możesz rzucić tę kartę z twojego cmentarza odrzucając dwie karty oprócz "
+"opłacenia jej innych kosztów."
 
 #: ../../DMU.rst:1384
 msgid ""
@@ -4385,6 +4475,10 @@ msgid ""
 "you didn't put a card onto the battlefield this way, create a 1/1 red Goblin "
 "creature token."
 msgstr ""
+"Ilekroć niniejszy zaatakuje, spójrz na wierzchnią kartę twojej biblioteki. "
+"Jeśli to karta lądu, możesz umieścić ją przekręconą na polu bitwy. Jeśli nie "
+"umieścisz w ten sposób karty na polu bitwy, stwórz żeton czerwonego stwora "
+"Goblin 1/1."
 
 #: ../../DMU.rst:1390
 msgid ""
@@ -4398,6 +4492,9 @@ msgid ""
 "At the beginning of your end step, you may pay |mana_x|. If you do, draw X "
 "cards. X can't be greater than the amount of life you gained this turn."
 msgstr ""
+"Na początku twojego kroku końcowego, możesz zapłacić |mana_x|. Jeśli tak "
+"zrobisz, dobierz X kart. X nie może być większe niż liczba żyć zyskanych "
+"przez ciebie w tej turze."
 
 #: ../../DMU.rst:1402
 msgid ""
@@ -4409,22 +4506,27 @@ msgstr ""
 #: ../../DMU.rst:1393
 msgid "At the beginning of your end step, choose one that hasn't been chosen —"
 msgstr ""
+"Na początku twojego kroku końcowego, wybierz jedno, które nie było jeszcze "
+"wybrane —"
 
 #: ../../DMU.rst:1397
 msgid "Each opponent loses 2 life and you gain 2 life."
-msgstr ""
+msgstr "Każdy przeciwnik traci po 2 życia, a ty zyskaj 2 życia."
 
 #: ../../DMU.rst:1399
 msgid ""
 "Sol'Kanar the Tainted deals 3 damage to up to one other target creature or "
 "planeswalker."
 msgstr ""
+"Niniejszy zadaje co najwyżej jednemu wskazanemu stworowi lub wędrowcowi 3 "
+"obrażenia."
 
 #: ../../DMU.rst:1401
 msgid ""
 "Exile Sol'Kanar, then return it to the battlefield under an opponent's "
 "control."
 msgstr ""
+"Wygnaj ten byt, po czym przywróć go na pole bitwy pod władaniem przeciwnika."
 
 #: ../../DMU.rst:1412
 msgid ""
@@ -4438,20 +4540,24 @@ msgid ""
 "Whenever Soul of Windgrace enters the battlefield or attacks, you may put a "
 "land card from a graveyard onto the battlefield tapped under your control."
 msgstr ""
+"Ilekroć niniejszy wejdzie na pole bitwy lub zaatakuje, możesz umieścić kartę "
+"lądu z cmentarza przekręconą na polu bitwy pod twoim władaniem."
 
 #: ../../DMU.rst:1407
 msgid "|mana_g|, Discard a land card: You gain 3 life."
-msgstr ""
+msgstr "|mana_g|, odrzuć kartę lądu: Zyskaj 3 życia."
 
 #: ../../DMU.rst:1409
 msgid "|mana_1|\\ |mana_r|, Discard a land card: Draw a card."
-msgstr ""
+msgstr "|mana_1|\\ |mana_r|, odrzuć kartę lądu: Dobierz kartę."
 
 #: ../../DMU.rst:1411
 msgid ""
 "|mana_2|\\ |mana_b|, Discard a land card: Soul of Windgrace gains "
 "indestructible until end of turn. Tap it."
 msgstr ""
+"|mana_2|\\ |mana_b|, odrzuć kartę lądu: Niniejszy do końca tury zyskuje "
+"niezniszczalność. Przekręć go."
 
 #: ../../DMU.rst:1420
 msgid ""
@@ -4478,6 +4584,8 @@ msgid ""
 "|mana_1|\\ |mana_w|\\ |mana_u|: Exile Stenn. Return it to the battlefield "
 "under its owner's control at the beginning of the next end step."
 msgstr ""
+"|mana_1|\\ |mana_w|\\ |mana_u|: Wygnaj ten byt. Przywróć go na pole bitwy "
+"pod władaniem właściciela na początku najbliższego kroku końcowego."
 
 #: ../../DMU.rst:1426
 msgid ""
@@ -4497,6 +4605,9 @@ msgid ""
 "seven or more lands, up to one target land you control becomes a 3/3 "
 "Elemental creature with haste. It's still a land."
 msgstr ""
+"Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, jeśli władasz co "
+"najmniej siedmioma lądami, co najwyżej jeden wskazany ląd pod twoim "
+"władaniem staje się stworem Żywiołak 3/3 z pośpiechem. Nadal jest on lądem."
 
 #: ../../DMU.rst:1432
 msgid ""
@@ -4513,6 +4624,10 @@ msgid ""
 "control gain trample until end of turn Untap each other white attacking "
 "creature you control."
 msgstr ""
+"Ilekroć niniejszy zaatakuje, wszystkie inne atakujące stwory pod twoim "
+"władaniem do końca tury dostają +1/+1. Inne czerwone atakujące stwory pod "
+"twoim władaniem do końca tury zyskują tratowanie. Odkręć każdego innego "
+"atakującego białego stwora pod twoim władaniem."
 
 #: ../../DMU.rst:1438
 msgid ""
@@ -4553,7 +4668,7 @@ msgstr ""
 
 #: ../../DMU.rst:1445
 msgid "|mana_b|\\ |mana_g|, Sacrifice a land: You gain 2 life."
-msgstr ""
+msgstr "|mana_b|\\ |mana_g|, poświęć ląd: Zyskaj 2 życia."
 
 #: ../../DMU.rst:1452
 msgid ""
@@ -4568,6 +4683,9 @@ msgid ""
 "|tap|: Draw a card, then discard a card. If you discarded an instant or "
 "sorcery card this way, each opponent loses 1 life and you gain 1 life."
 msgstr ""
+"|tap|: Dobierz kartę, po czym odrzuć kartę. Jeśli w ten sposób odrzuciłeś "
+"kartę sztuczki lub obrzędu, każdy przeciwnik traci po 1 życiu, a ty zyskaj 1 "
+"życie."
 
 #: ../../DMU.rst:1451
 msgid ""
@@ -4575,6 +4693,9 @@ msgid ""
 "or sorcery card from your graveyard this turn. If that spell would be put "
 "into your graveyard, exile it instead. Activate only as a sorcery."
 msgstr ""
+"|mana_2|, poświęć ten byt: Możesz w tej turze rzucić wskazaną kartę sztuczki "
+"lub obrzędu z twojego cmentarza. Jeśli ów czar miałby trafić do twojego "
+"cmentarza, zamiast tego wygnaj go."
 
 #: ../../DMU.rst:1456
 msgid ""
@@ -4605,6 +4726,7 @@ msgstr ""
 msgid ""
 "Enchantment creatures you control have deathtouch, lifelink, and hexproof."
 msgstr ""
+"Stwory-uroki pod twoim władaniem mają dotyk śmierci, więź życia i antyklątwę."
 
 #: ../../DMU.rst:1463
 msgid ""
@@ -4612,6 +4734,9 @@ msgid ""
 "creature in addition to its other types and has base power and base "
 "toughness each equal to its mana value."
 msgstr ""
+"|mana_1|\\ |mana_w|: Wskazany urok bez typu Aura pod twoim władaniem staje "
+"się dodatkowo stworem oprócz swoich innych typów i ma bazową siłę i "
+"wytrzymałość równą swojemu skrótowi many."
 
 #: ../../DMU.rst:1468
 msgid ""
@@ -4643,6 +4768,9 @@ msgid ""
 "turn. Return them to the battlefield tapped under their owner's control at "
 "the beginning of the next end step."
 msgstr ""
+"Ilekroć niniejszy zaatakuje, wygnaj każdego stwora, który załogował go w tej "
+"turze. Przywróć je przekręcone na pole bitwy pod władaniem ich właścicieli "
+"na początku najbliższego kroku końcowego."
 
 #: ../../DMU.rst:1473
 msgid ""
@@ -4665,7 +4793,7 @@ msgstr "Wyposażony stwór dostaje +2/+1."
 
 #: ../../DMU.rst:1479
 msgid "As long as equipped creature is legendary, it has trample and haste."
-msgstr ""
+msgstr "O ile wyposażony stwór jest legendarny, ma on tratowanie i pośpiech."
 
 #: ../../DMU.rst:1481
 msgid "Equip |mana_2|"
@@ -4685,6 +4813,10 @@ msgid ""
 "the bottom of your library in a random order. If you didn't put a card into "
 "your hand this way, draw a card."
 msgstr ""
+"|mana_1|, |tap|, poświęć ten byt: Ujawnij pięć wierzchnich kart twojej "
+"biblioteki. Umieść spośród nich kartę lądu w twojej ręce, a pozostałe losowo "
+"na spodzie twojej biblioteki. Jeśli w ten sposób nie umieściłeś karty w "
+"twojej ręce, dobierz kartę."
 
 #: ../../DMU.rst:1490
 msgid ""
@@ -4717,12 +4849,16 @@ msgid ""
 "Players can't pay life to cast spells or to activate abilities that aren't "
 "mana abilities."
 msgstr ""
+"Gracze nie mogą płacić życiem za rzucanie czarów lub aktywację zdolności nie "
+"dających many."
 
 #: ../../DMU.rst:1497
 msgid ""
 "|mana_x|, |tap|, Exile Karn's Sylex: Destroy each nonland permanent with "
 "mana value X or less. Activate only as a sorcery."
 msgstr ""
+"|mana_x|, |tap|, wygnaj ten byt: Zniszcz każdy nielądowy byt o skrócie many "
+"X lub mniejszym. Aktywuj tylko jako obrzęd."
 
 #: ../../DMU.rst:1504
 msgid ""
@@ -4747,6 +4883,8 @@ msgstr ""
 msgid ""
 "Tap an untapped legendary creature you control: Add one mana of any color."
 msgstr ""
+"Przekręć odkręconego legendarnego stwora pod twoim władaniem: Weź jedną manę "
+"dowolnego koloru."
 
 #: ../../DMU.rst:1514
 msgid ""
@@ -4785,7 +4923,7 @@ msgstr ""
 
 #: ../../DMU.rst:1523
 msgid "Timeless Lotus enters the battlefield tapped."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../DMU.rst:1525
 msgid "|tap|: Add |mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|."
@@ -4823,6 +4961,9 @@ msgid ""
 "attack as though it didn't have defender, and assigns combat damage equal to "
 "its toughness rather than its power. Activate only as a sorcery."
 msgstr ""
+"|mana_2|:Do końca tury wskazany stwór z obronnością zyskuje pośpiech, może "
+"atakować jakby nie miał obronności i przypisuje obrażenia bojowe równe "
+"swojej wytrzymałości a nie sile. Aktywuj tylko jako obrzęd."
 
 #: ../../DMU.rst:1546
 msgid ""
@@ -5116,7 +5257,7 @@ msgstr "Przy wejściu tego bytu na pole bitwy wybierz bazowy typ lądu."
 
 #: ../../DMU.rst:1655
 msgid "Thran Portal is the chosen type in addition to its other types."
-msgstr ""
+msgstr "Ten byt jest dodatkowo wybranego typu oprócz jego innych typów."
 
 #: ../../DMU.rst:1657
 msgid "Mana abilities of Thran Portal cost an additional 1 life to activate."
