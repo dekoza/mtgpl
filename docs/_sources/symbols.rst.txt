@@ -98,6 +98,8 @@
    :alt: {(g/u)}
 .. |mana_gup| image:: images/mana_gup.png
    :alt: {(g/u/p)}
+.. |mana_gwp| image:: images/mana_gwp.png
+   :alt: {(g/w/p)}
 .. |mana_s| image:: images/mana_snow.png
    :alt: {S}
 .. |energy| image:: images/energy.png
