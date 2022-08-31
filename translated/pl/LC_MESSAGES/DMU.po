@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2022.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-30 22:37+0200\n"
-"PO-Revision-Date: 2022-08-30 21:05+0000\n"
+"PO-Revision-Date: 2022-08-31 18:35+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dmu/pl/>\n"
 "Language: pl\n"
@@ -1860,6 +1860,10 @@ msgid ""
 "permanent that shares a card type with it. For each opponent who doesn't, "
 "that player loses 2 life and you draw a card."
 msgstr ""
+"Na początku twojego kroku końcowego, możesz poświęcić artefakt, stwora, "
+"urok, ląd lub wędrowca. Jeśli tak zrobisz, każdy przeciwnik może poświęcić "
+"byt mający z nim wspólny typ karty. Za każdego przeciwnika, który tego nie "
+"zrobił ów gracz traci 2 życia, a ty dobierz kartę."
 
 #: ../../DMU.rst:556
 msgid ""
@@ -1886,6 +1890,8 @@ msgid ""
 "III — Target opponent may sacrifice a nonland, nontoken permanent. If they "
 "don't, they lose 2 life and you draw a card."
 msgstr ""
+"III — Wskazany przeciwnik może poświęcić nielądowy, nieżetonowy byt. Jeśli "
+"tego nie zrobi, traci 2 życia, a ty dobierz kartę."
 
 #: ../../DMU.rst:564
 msgid ""
@@ -1945,7 +1951,7 @@ msgstr ""
 
 #: ../../DMU.rst:577
 msgid "Cult Conscript enters the battlefield tapped."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../DMU.rst:579
 msgid ""
@@ -1953,6 +1959,9 @@ msgid ""
 "battlefield. Activate only if a non-Skeleton creature died under your "
 "control this turn."
 msgstr ""
+"|mana_1|\\ |mana_b|: Przywróć tę kartę z twojego cmentarza na pole bitwy. "
+"Aktywuj tylko jeśli w tej turze umarł pod twoim władaniem stwór bez typu "
+"Szkielet."
 
 #: ../../DMU.rst:584
 msgid ""
@@ -1963,7 +1972,7 @@ msgstr ""
 
 #: ../../DMU.rst:583
 msgid "Destroy target creature with total power and toughness 5 or less."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora o sumie siły i wytrzymałości 5 lub mniej."
 
 #: ../../DMU.rst:592
 msgid ""
@@ -2040,6 +2049,8 @@ msgid ""
 "|mana_b|: Evolved Sleeper becomes a Human Cleric with base power and "
 "toughness 2/2."
 msgstr ""
+"|mana_b|: Ten byt staje się typu Człowiek Kleryk o bazowej sile i "
+"wytrzymałości 2/2."
 
 #: ../../DMU.rst:607
 msgid ""
@@ -2047,12 +2058,17 @@ msgid ""
 "counter on it and it becomes a Phyrexian Human Cleric with base power and "
 "toughness 3/3."
 msgstr ""
+"|mana_1|\\ |mana_b|: Jeśli ten byt jest Klerykiem, umieść na nim znacznik "
+"dotyku śmierci i staje się on typu Phyrexian Człowiek Kleryk o bazowej sile "
+"i wytrzymałości 3/3."
 
 #: ../../DMU.rst:609
 msgid ""
 "|mana_1|\\ |mana_b|\\ |mana_b|: If Evolved Sleeper is a Phyrexian, put a +1/"
 "+1 counter on it, then you draw a card and you lose 1 life."
 msgstr ""
+"|mana_1|\\ |mana_b|\\ |mana_b|: Jeśli ten byt jest Phyrexianem, umieść na "
+"nim znacznik +1/+1, po czym dobierz kartę i strać 1 życie."
 
 #: ../../DMU.rst:614
 msgid ""
@@ -2140,12 +2156,17 @@ msgid ""
 "cards. (To mill a card, put the top card of your library into your "
 "graveyard.)"
 msgstr ""
+"Przy wejściu tego bytu na pole bitwy, jeśli został on podbity, zmiel cztery "
+"karty. (Mieląc kartę gracz umieszcza wierzchnią kartę swojej biblioteki w "
+"swoim cmentarzu.)"
 
 #: ../../DMU.rst:643
 msgid ""
 "Monstrous War-Leech's power and toughness are each equal to the highest mana "
 "value among cards in your graveyard."
 msgstr ""
+"Siła i wytrzymałość tej karty są obie równe największemu skrótowi many "
+"pośród kart w twoim cmentarzu."
 
 #: ../../DMU.rst:648
 msgid ""
@@ -2225,12 +2246,17 @@ msgid ""
 "create a 1/1 black Bird creature token with flying and \"This creature can't "
 "block.\""
 msgstr ""
+"Na początku każdego kroku końcowego, jeśli w tej turze gracz odrzucił kartę, "
+"stwórz żeton czarnego stwora Ptak 1/1 z lataniem oraz \"Ten stwór nie może "
+"blokować.\""
 
 #: ../../DMU.rst:669
 msgid ""
 "|mana_3|\\ |mana_b|, |tap|: Each opponent discards a card. Activate only as "
 "a sorcery."
 msgstr ""
+"|mana_3|\\ |mana_b|, |tap|: Każdy przeciwnik odrzuca kartę. Aktywuj tylko "
+"jako obrzęd."
 
 #: ../../DMU.rst:676
 msgid ""
@@ -2298,11 +2324,11 @@ msgstr "Dotyk śmierci"
 
 #: ../../DMU.rst:691
 msgid "Whenever you draw a card, you gain 2 life."
-msgstr ""
+msgstr "Ilekroć dobierzesz kartę, zyskaj 2 życia."
 
 #: ../../DMU.rst:693
 msgid "Whenever an opponent draws a card, they lose 2 life."
-msgstr ""
+msgstr "Ilekroć przeciwnik dobiera kartę, traci on 2 życia."
 
 #: ../../DMU.rst:702
 msgid ""
@@ -2325,10 +2351,13 @@ msgid ""
 "spell was kicked, you gain life equal to that card's mana value. Otherwise, "
 "you lose that much life."
 msgstr ""
+"Przywróć wskazaną kartę stwora z twojego cmentarza na pole bitwy. Jeśli ten "
+"czar został podbity, zyskaj życia równe skrótowi many owej karty. W "
+"przeciwnym razie strać tyle żyć."
 
 #: ../../DMU.rst:701
 msgid "Exile Sheoldred's Restoration."
-msgstr ""
+msgstr "Wygnaj tę kartę."
 
 #: ../../DMU.rst:706
 msgid ""
@@ -2374,6 +2403,9 @@ msgid ""
 "you may reveal the top card of your library and put it into your hand. If "
 "you do, you lose life equal to its mana value."
 msgstr ""
+"Ilekroć jeden lub więcej stworów pod twoim władaniem zada graczowi obrażenia "
+"bojowe, możesz ujawnić wierzchnią kartę twojej biblioteki i umieścić ją w "
+"twojej ręce. Jeśli tak zrobisz, strać życia równe jej skrótowi many."
 
 #: ../../DMU.rst:720
 msgid ""
@@ -2384,7 +2416,7 @@ msgstr ""
 
 #: ../../DMU.rst:719
 msgid "|mana_1|\\ |mana_b|: Tattered Apparition gets +1/+1 until end of turn."
-msgstr ""
+msgstr "|mana_1|\\ |mana_b|: Niniejszy do końca tury dostaje +1/+1."
 
 #: ../../DMU.rst:724
 msgid ""
@@ -2395,7 +2427,7 @@ msgstr ""
 
 #: ../../DMU.rst:723
 msgid "When Toxic Abomination enters the battlefield, you lose 2 life."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, strać 2 życia."
 
 #: ../../DMU.rst:730
 msgid ""
@@ -2427,6 +2459,9 @@ msgid ""
 "life. If this spell was kicked, return another target permanent card from "
 "your graveyard to your hand."
 msgstr ""
+"Przywróć wskazaną kartę stwora z twojego cmentarza do twojej ręki. Zyskaj 2 "
+"życia. Jeśli ten czar został podbity, przywróć inną wskazaną kartę bytu z "
+"twojego cmentarza do twojej ręki."
 
 #: ../../DMU.rst:742
 msgid ""
@@ -2455,6 +2490,7 @@ msgid ""
 "When Balduvian Berserker dies, it deals damage equal to its power to any "
 "target."
 msgstr ""
+"Kiedy ten byt umrze, zadaje on wskazanemu celowi obrażenia równe swojej sile."
 
 #: ../../DMU.rst:752
 msgid ""
@@ -2537,14 +2573,15 @@ msgstr ""
 msgid ""
 "I — The Elder Dragon War deals 2 damage to each creature and each opponent."
 msgstr ""
+"I — Ten byt zadaje każdemu stworowi i każdemu przeciwnikowi po 2 obrażenia."
 
 #: ../../DMU.rst:779
 msgid "II — Discard any number of cards, then draw that many cards."
-msgstr ""
+msgstr "II — Odrzuć dowolną liczbę kart, po czym dobierz tyle samo kart."
 
 #: ../../DMU.rst:781
 msgid "III — Create a 4/4 red Dragon creature token with flying."
-msgstr ""
+msgstr "III — Stwórz żeton czerwonego stwora Smok 4/4 z lataniem."
 
 #: ../../DMU.rst:788
 msgid ""
@@ -2581,6 +2618,8 @@ msgid ""
 "If this spell was kicked, draw a card. Fires of Victory deals damage to "
 "target creature or planeswalker equal to the number of cards in your hand."
 msgstr ""
+"Jeśli ten czar został podbity, dobierz kartę. Ten czar zadaje wskazanemu "
+"graczowi lub wędrowcowi obrażenia równe liczbie kart w twojej ręce."
 
 #: ../../DMU.rst:798
 msgid ""
@@ -2690,6 +2729,8 @@ msgid ""
 "|mana_1|, Sacrifice another creature: Hurler Cyclops deals 1 damage to any "
 "target."
 msgstr ""
+"|mana_1|, poświęć innego stwora: Niniejszy zadaje wskazanemu celowi 1 "
+"obrażenie."
 
 #: ../../DMU.rst:838
 msgid ""
@@ -2732,13 +2773,15 @@ msgstr ""
 
 #: ../../DMU.rst:847
 msgid "+1: Create a 1/1 red Monk creature token with prowess."
-msgstr ""
+msgstr "+1: Stwórz żeton czerwonego stwora Mnich 1/1 z walecznością."
 
 #: ../../DMU.rst:849
 msgid ""
 "−1: Exile the top two cards of your library. Choose one of them. You may "
 "play that card this turn."
 msgstr ""
+"–1: Wygnaj dwie wierzchnie karty twojej biblioteki. Wybierz jedną z nich. W "
+"tej turze możesz zagrać ową kartę."
 
 #: ../../DMU.rst:851
 msgid ""
@@ -2752,6 +2795,8 @@ msgid ""
 "−8: You get an emblem with \"Whenever you cast a red instant or sorcery "
 "spell, copy it twice. You may choose new targets for the copies.\""
 msgstr ""
+"–8: Otrzymujesz emblemat z \"Ilekroć rzucisz czerwony czar sztuczki lub "
+"obrzędu, skopiuj go dwukrotnie. Możesz wskazać nowe cele dla owych kopii.\""
 
 #: ../../DMU.rst:858
 msgid ""
@@ -2880,7 +2925,7 @@ msgstr "Latanie, pośpiech"
 
 #: ../../DMU.rst:893
 msgid "Phoenix Chick can't block."
-msgstr ""
+msgstr "Ten stwór nie może blokować."
 
 #: ../../DMU.rst:895
 msgid ""
@@ -2902,6 +2947,8 @@ msgid ""
 "controls with power less than Radha's Firebrand's power can't block this "
 "turn."
 msgstr ""
+"Ilekroć niniejszy zaatakuje, wskazany stwór pod władaniem broniącego się "
+"gracza o sile mniejszej niż siła niniejszego nie może blokować w tej turze."
 
 #: ../../DMU.rst:901
 msgid ""
@@ -2930,6 +2977,9 @@ msgid ""
 "top card of your library. If it's a Goblin creature card, you may cast that "
 "card until the end of your next turn."
 msgstr ""
+"Ilekroć niniejszy lub inny Goblin pod twoim władaniem umrze, wygnaj "
+"wierzchnią kartę twojej biblioteki. Jeśli to karta stwora typu Goblin, "
+"możesz rzucić ową kartę do końca następnej tury."
 
 #: ../../DMU.rst:914
 msgid ""
@@ -2940,7 +2990,7 @@ msgstr ""
 
 #: ../../DMU.rst:913
 msgid "Shivan Devastator enters the battlefield with X +1/+1 counters on it."
-msgstr ""
+msgstr "Ten byt wchodzi na pole bitwy mając X znaczników +1/+1."
 
 #: ../../DMU.rst:924
 msgid ""
@@ -2964,6 +3014,8 @@ msgstr "Zniszcz wskazanego stwora z obronnością."
 #: ../../DMU.rst:923
 msgid "Smash to Dust deals 1 damage to each creature your opponents control."
 msgstr ""
+"Ten czar zadaje każdemu stworowi pod władaniem twoich przeciwników po 1 "
+"obrażeniu."
 
 #: ../../DMU.rst:932
 msgid ""
@@ -2984,7 +3036,7 @@ msgstr ""
 
 #: ../../DMU.rst:931
 msgid "|mana_r|, |tap|, Sacrifice a land: Draw a card."
-msgstr ""
+msgstr "|mana_r|, |tap|, poświęć ląd: Dobierz kartę."
 
 #: ../../DMU.rst:940
 msgid ""
@@ -5128,7 +5180,7 @@ msgstr ""
 
 #: ../../DMU.rst:1707
 msgid "Those chosen creature gets +3/+3 and has flying."
-msgstr ""
+msgstr "Ów wybrany stwór dostaje +3/+3 i ma latanie."
 
 #: ../../DMU.rst:1709
 msgid ""
