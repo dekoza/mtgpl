@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2022.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-31 20:42+0200\n"
-"PO-Revision-Date: 2022-08-31 19:18+0000\n"
+"PO-Revision-Date: 2022-08-31 19:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dmu/pl/>\n"
 "Language: pl\n"
@@ -3742,6 +3742,9 @@ msgid ""
 "reveal them. An opponent chooses two of those cards. Shuffle the chosen "
 "cards into your library and put the rest into your hand."
 msgstr ""
+"Wyszukaj w twojej bibliotece co najwyżej cztery karty stworów o różnych "
+"siłach i ujawnij je. Przeciwnik wybiera dwie z owych kart. Wtasuj owe "
+"wybrane karty do twojej biblioteki i umieść pozostałe w twojej ręce."
 
 #: ../../DMU.rst:1176
 msgid ""
@@ -3763,12 +3766,16 @@ msgid ""
 "As Urborg Lhurgoyf enters the battlefield, mill three cards for each time it "
 "was kicked."
 msgstr ""
+"Przy wejściu tego bytu na pole bitwy, zmiel trzy karty za każde opłacenie "
+"jego podbicia."
 
 #: ../../DMU.rst:1175
 msgid ""
 "Urborg Lhurgoyf's power is equal to the number of creature cards in your "
 "graveyard and its toughness is equal to that number plus 1."
 msgstr ""
+"Siła tej karty jest równa liczbie kart stworów w twoim cmentarzu, a "
+"wytrzymałość jest równa tej wartości plus 1."
 
 #: ../../DMU.rst:1182
 msgid ""
@@ -3783,6 +3790,9 @@ msgid ""
 "the top three cards of your library. Put one of them into your hand and the "
 "rest on the bottom of your library in any order."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, jeśli został podbity, spójrz na trzy "
+"wierzchnie karty twojej biblioteki. Umieść jedną z nich w twojej ręce, a "
+"pozostałe dowolnie na spodzie twojej biblioteki."
 
 #: ../../DMU.rst:1192
 msgid ""
@@ -3796,6 +3806,8 @@ msgid ""
 "I — Search your library for a basic land card, put it onto the battlefield "
 "tapped, then shuffle."
 msgstr ""
+"I — Wyszukaj w twojej bibliotece kartę bazowego lądu, umieść ją przekręconą "
+"na polu bitwy, po czym przetasuj."
 
 #: ../../DMU.rst:1189
 msgid "II — Create a 1/1 green Saproling creature token."
@@ -3824,12 +3836,17 @@ msgid ""
 "Saga permanent card from among them and put it into your hand. Put the rest "
 "on the bottom of your library in a random order."
 msgstr ""
+"I, II — Spójrz na siedem wierzchnich kart twojej biblioteki. Możesz ujawnić "
+"spośród nich kartę bytu bez typu Saga i umieścić ją w twojej ręce. Umieść "
+"pozostałe losowo na spodzie twojej biblioteki."
 
 #: ../../DMU.rst:1199
 msgid ""
 "III — Put up to two non-Saga permanent cards from your hand onto the "
 "battlefield."
 msgstr ""
+"III — Umieść co najwyżej dwie karty bytów bez typu Saga z twojej ręki na "
+"polu bitwy."
 
 #: ../../DMU.rst:1208
 msgid ""
@@ -3865,6 +3882,9 @@ msgid ""
 "Compleated ({G/W/P} can be paid with |mana_g|, |mana_w|, or 2 life. If life "
 "was paid, this planeswalker enters with two fewer loyalty counters.)"
 msgstr ""
+"Dopełnienie (|mana_gwp| może być zapłacone z użyciem |mana_g|, |mana_w| lub "
+"2 żyć. Jeśli zapłacono życiem, ten wędrowiec wchodzi mając dwa mniej "
+"znaczniki lojalności.)"
 
 #: ../../DMU.rst:1217
 msgid ""
@@ -3872,6 +3892,9 @@ msgid ""
 "card, put it into your hand. Otherwise, you may put it on the bottom of your "
 "library."
 msgstr ""
+"+1: Ujawnij wierzchnią kartę twojej biblioteki. Jeśli to karta stwora lub "
+"wędrowca, umieść ją w twojej ręce. W przeciwnym razie możesz umieścić ją na "
+"spodzie twojej biblioteki."
 
 #: ../../DMU.rst:1219
 msgid ""
@@ -4813,6 +4836,8 @@ msgid ""
 "As long as Weatherlight Compleated has four or more phyresis counters on it, "
 "it's a Phyrexian creature in addition to its other types."
 msgstr ""
+"O ile niniejszy ma co najmniej cztery znaczniki phyrezy, jest dodatkowo "
+"stworem typu Phyrexian oprócz swoich innych typów."
 
 #: ../../DMU.rst:1545
 msgid ""
@@ -4820,6 +4845,9 @@ msgid ""
 "Compleated. Then draw a card if it has seven or more phyresis counters on "
 "it. If it doesn't, scry 1."
 msgstr ""
+"Ilekroć umrze stwór pod twoim władaniem, umieść znacznik phyrezy na "
+"niniejszym. Następnie dobierz kartę jeśli ma on co najmniej siedem "
+"znaczników phyrezy. Jeśli nie ma, wróż 1."
 
 #: ../../DMU.rst:1552
 msgid ""
@@ -5093,6 +5121,7 @@ msgstr ""
 #: ../../DMU.rst:1657
 msgid "Mana abilities of Thran Portal cost an additional 1 life to activate."
 msgstr ""
+"Aktywacja u niniejszego zdolności dających manę kosztuje o 1 życie więcej."
 
 #: ../../DMU.rst:1664
 msgid ""
