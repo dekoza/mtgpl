@@ -11,7 +11,7 @@ python-decouple = "^3.6"
 typer = {version = "^0.6.1", extras = ["all"]}
 lark-parser = "^0.12.0"
 trio = "^0.20.0"
-anyio = "^3.6.1"
+anyio = {version = "^3.6.1", extras = ["trio"]}
 httpx = "^0.23.0"
 rich = "^12.4.4"
 

@@ -217,6 +217,8 @@ symbols_map = {
     "{B/R}": "|mana_br|",
     "{G/W}": "|mana_gw|",
     "{G/U}": "|mana_gu|",
+    "{G/U/P}": "|mana_gup|",
+    "{G/W/P}": "|mana_gwp|",
     "\n": "\n\n   ",
     "||": "|\ |",
 }
