@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2022.8\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-08-29 05:51+0200\n"
+"POT-Creation-Date: 2022-08-31 20:42+0200\n"
 "PO-Revision-Date: 2022-08-29 04:47+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/hbg/pl/>\n"
@@ -318,7 +318,7 @@ msgstr ""
 #: ../../HBG.rst:38
 msgid ""
 ":mtgtip:`Klement, Life Acolyte<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/6/4/647a26b0-931c-4751-8bd1-1da6a18f42f0.jpg?1657241599|"
+"border_crop/front/6/4/647a26b0-931c-4751-8bd1-1da6a18f42f0.jpg?1661795468|"
 "https://scryfall.com/card/hbg/1w/klement-life-acolyte?utm_source=api>`"
 msgstr ""
 
@@ -328,9 +328,9 @@ msgstr "Więź życia"
 
 #: ../../HBG.rst:37
 msgid ""
-"When this creature specializes, you get a boon with \"When you cast you next "
-"creature spell, that creature enters the battlefield with a lifelink counter "
-"on it.\""
+"When this creature specializes, you get a boon with \"When you cast your "
+"next creature spell, that creature enters the battlefield with a lifelink "
+"counter on it.\""
 msgstr ""
 
 #: ../../HBG.rst:46
@@ -732,13 +732,13 @@ msgstr ""
 #: ../../HBG.rst:184
 msgid ""
 ":mtgtip:`Gale, Storm Conduit<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/a/5/a5af138b-5ca3-4427-b58d-e701b6894752.jpg?1657241328|"
+"border_crop/front/a/5/a5af138b-5ca3-4427-b58d-e701b6894752.jpg?1661795192|"
 "https://scryfall.com/card/hbg/6r/gale-storm-conduit?utm_source=api>`"
 msgstr ""
 
 #: ../../HBG.rst:183
 msgid ""
-"Whenever you cast an instant or sorcery spell, Gale, Strom Conduit "
+"Whenever you cast an instant or sorcery spell, Gale, Storm Conduit "
 "perpetually gains \"Creatures you control get +1/+0.\""
 msgstr ""
 
@@ -3686,7 +3686,8 @@ msgstr ""
 
 #: ../../HBG.rst:1267
 msgid "Rouse the Party — Creatures you control get +1/+1 until end of turn."
-msgstr "Obudź drużynę — Stwory pod twoim władaniem dostają do końca tury +1/+1."
+msgstr ""
+"Obudź drużynę — Stwory pod twoim władaniem dostają do końca tury +1/+1."
 
 #: ../../HBG.rst:1269
 msgid "Set Off Traps — This spell deals 5 damage to target attacking creature."
@@ -4497,7 +4498,8 @@ msgstr ""
 #: ../../HBG.rst:1583
 msgid ""
 "As an additional cost to cast this spell, sacrifice an artifact or creature."
-msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć artefakt lub stwora."
+msgstr ""
+"Jako dodatkowy koszt rzucenia tego czaru — poświęć artefakt lub stwora."
 
 #: ../../HBG.rst:1585
 msgid ""
@@ -4520,8 +4522,8 @@ msgid ""
 "mill a card, a player puts the top card of their library into their "
 "graveyard.)"
 msgstr ""
-"Wskazany przeciwnik odrzuca dwie karty, mieli dwie karty i traci 2 życia. ("
-"Mieląc kartę gracz umieszcza wierzchnią kartę swojej biblioteki w swoim "
+"Wskazany przeciwnik odrzuca dwie karty, mieli dwie karty i traci 2 życia. "
+"(Mieląc kartę gracz umieszcza wierzchnią kartę swojej biblioteki w swoim "
 "cmentarzu.)"
 
 #: ../../HBG.rst:1596
@@ -4671,7 +4673,8 @@ msgstr ""
 
 #: ../../HBG.rst:1641
 msgid "Tragic Backstory — Cast this spell only if a creature died this turn."
-msgstr "Tragiczna historia — Rzuć ten czar tylko jeśli w tej turze umarł stwór."
+msgstr ""
+"Tragiczna historia — Rzuć ten czar tylko jeśli w tej turze umarł stwór."
 
 #: ../../HBG.rst:1648
 msgid ""
@@ -5113,7 +5116,8 @@ msgstr ""
 msgid ""
 "Farideh's Fireball deals 5 damage to target creature or planeswalker. Roll a "
 "d20."
-msgstr "Ten czar zadaje 5 obrażeń wskazanemu stworowi lub wędrowcowi. Rzuć k20."
+msgstr ""
+"Ten czar zadaje 5 obrażeń wskazanemu stworowi lub wędrowcowi. Rzuć k20."
 
 #: ../../HBG.rst:1803
 msgid "1—9 | Farideh's Fireball deals 2 damage to each player."
@@ -6100,7 +6104,8 @@ msgstr ""
 
 #: ../../HBG.rst:2149
 msgid "Start a Brawl — Creatures you control get +2/+2 until end of turn."
-msgstr "Wywołaj bójkę — Stwory pod twoim władaniem dostają do końca tury +2/+2."
+msgstr ""
+"Wywołaj bójkę — Stwory pod twoim władaniem dostają do końca tury +2/+2."
 
 #: ../../HBG.rst:2154
 msgid ""
@@ -6547,8 +6552,8 @@ msgid ""
 "scry 1. (Look at the top card of your library. You may put that card on the "
 "bottom of your library.)"
 msgstr ""
-"Ilekroć zyskasz życia, umieść znacznik +1/+1 na tym stworze i wróż 1. ("
-"Spójrz na wierzchnią kartę twojej biblioteki. Możesz umieścić ową kartę na "
+"Ilekroć zyskasz życia, umieść znacznik +1/+1 na tym stworze i wróż 1. "
+"(Spójrz na wierzchnią kartę twojej biblioteki. Możesz umieścić ową kartę na "
 "spodzie twojej biblioteki.)"
 
 #: ../../HBG.rst:2314
@@ -7037,8 +7042,8 @@ msgid ""
 "Spells your opponents cast that target Pursued Whale cost |mana_3| more to "
 "cast."
 msgstr ""
-"Rzucanie czarów wskazujących tego stwora kosztuje twoich przeciwników o "
-"|mana_3| więcej."
+"Rzucanie czarów wskazujących tego stwora kosztuje twoich przeciwników o |"
+"mana_3| więcej."
 
 #: ../../HBG.rst:2478
 msgid ""
