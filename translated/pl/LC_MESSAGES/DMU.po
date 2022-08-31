@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2022.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-31 20:42+0200\n"
-"PO-Revision-Date: 2022-08-31 18:35+0000\n"
+"PO-Revision-Date: 2022-08-31 19:18+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dmu/pl/>\n"
 "Language: pl\n"
@@ -2933,6 +2933,9 @@ msgid ""
 "mana_r|. If you do, return Phoenix Chick from your graveyard to the "
 "battlefield tapped and attacking with a +1/+1 counter on it."
 msgstr ""
+"Ilekroć atakujesz co najmniej trzema stworami, możesz zapłacić |mana_r|\\ "
+"|mana_r|. Jeśli tak zrobisz, przywróć tę kartę z twojego cmentarza na pole "
+"bitwy ze znacznikiem +1/+1, przekręconą i atakującą."
 
 #: ../../DMU.rst:902
 msgid ""
@@ -3054,6 +3057,8 @@ msgid ""
 "Whenever Squee, Dubious Monarch attacks, create a 1/1 red Goblin creature "
 "token that's tapped and attacking."
 msgstr ""
+"Ilekroć niniejszy zaatakuje, stwórz przekręcony i atakujący żeton czerwonego "
+"stwora Goblin 1/1."
 
 #: ../../DMU.rst:939
 msgid ""
@@ -3061,6 +3066,9 @@ msgid ""
 "|mana_r| and exiling four other cards from your graveyard rather than paying "
 "its mana cost."
 msgstr ""
+"Możesz rzucić tę kartę z twojego cmentarza płacąc |mana_3|\\ |mana_r| i "
+"dając na wygnanie cztery inne karty z twojego cmentarza zamiast płacenia jej "
+"kosztu many."
 
 #: ../../DMU.rst:948
 msgid ""
@@ -3083,11 +3091,13 @@ msgid ""
 "Choose up to X creatures and/or planeswalkers you control, where X is the "
 "number of times this spell was kicked. Those permanents phase out."
 msgstr ""
+"Wybierz co najwyżej X stworów i/lub wędrowców pod twoim władaniem, gdzie X "
+"to liczba opłaconych podbić tego czaru. Owe byty wycofują się."
 
 #: ../../DMU.rst:947
 msgid ""
 "Temporal Firestorm deals 5 damage to each creature and each planeswalker."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi i każdemu wędrowcowi po 5 obrażeń."
 
 #: ../../DMU.rst:954
 msgid ""
@@ -3144,10 +3154,12 @@ msgid ""
 "If Viashino Branchrider was kicked, it enters the battlefield with two +1/+1 "
 "counters on it."
 msgstr ""
+"Jeśli ten byt został podbity, wchodzi na pole bitwy mając dwa znaczniki +1/"
+"+1."
 
 #: ../../DMU.rst:971
 msgid "|mana_2|\\ |mana_r|: Viashino Branchrider gets +2/+0 until end of turn."
-msgstr ""
+msgstr "|mana_2|\\ |mana_r|: Niniejszy do końca tury dostaje +2/+0."
 
 #: ../../DMU.rst:978
 msgid ""
@@ -3161,6 +3173,9 @@ msgid ""
 "Creatures you control get +2/+0 until end of turn. If this spell was kicked, "
 "whenever a creature you control dies this turn, draw a card."
 msgstr ""
+"Stwory pod twoim władaniem do końca tury dostają +2/+0. Jeśli ten czar "
+"został podbity, ilekroć w tej turze umrze stwór pod twoim władaniem, dobierz "
+"kartę."
 
 #: ../../DMU.rst:984
 msgid ""
@@ -3171,7 +3186,7 @@ msgstr ""
 
 #: ../../DMU.rst:983
 msgid "|mana_1|, Sacrifice Yavimaya Steelcrusher: Destroy target artifact."
-msgstr ""
+msgstr "|mana_1|, poświęć ten byt: Zniszcz wskazany artefakt."
 
 #: ../../DMU.rst:994
 msgid ""
@@ -3185,18 +3200,25 @@ msgid ""
 "I — Create a 0/2 colorless Thopter artifact creature token with flying named "
 "Ornithopter."
 msgstr ""
+"I — Stwórz żeton bezkolorowego artefaktowego stwora Kopter 0/2 z lataniem o "
+"nazwie Ornithopter."
 
 #: ../../DMU.rst:991
 msgid ""
 "II — Tap any number of untapped artifacts you control. When you do, Yotia "
 "Declares War deals that much damage to target creature or planeswalker."
 msgstr ""
+"II — Przekręć dowolną liczbę odkręconych artefaktów pod twoim władaniem. "
+"Kiedy to zrobisz, niniejszy zadaje tyle samo obrażeń wskazanemu stworowi lub "
+"wędrowcowi."
 
 #: ../../DMU.rst:993
 msgid ""
 "III — Up to one target artifact you control becomes an artifact creature "
 "with base power and toughness 4/4 until end of turn."
 msgstr ""
+"III — Co najwyżej jeden wskazany artefakt pod twoim władaniem do końca tury "
+"staje się artefaktowym stworem o bazowej sile i wytrzymałości 4/4."
 
 #: ../../DMU.rst:998
 msgid ""
@@ -3233,6 +3255,9 @@ msgid ""
 "control gain menace until end of turn. (A creature with menace can't be "
 "blocked except by two or more creatures.)"
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, jeśli został podbity, stwory pod twoim "
+"władaniem do końca tury zyskują złowrogość. (Stwór ze złowrogością nie może "
+"być blokowany, chyba że przez co najmniej dwa stwory.)"
 
 #: ../../DMU.rst:1012
 msgid ""
@@ -3258,6 +3283,8 @@ msgid ""
 "instead that creature gets +4/+4 and gains trample and haste until end of "
 "turn."
 msgstr ""
+"Wskazany stwór do końca tury dostaje +3/+3. Jeśli ten czar został podbity, "
+"zamiast tego ów stwór do końca tury dostaje +4/+4, tratowanie i pośpiech."
 
 #: ../../DMU.rst:1024
 msgid ""
@@ -3283,12 +3310,17 @@ msgid ""
 "Those spells cost |mana_g| less to cast if you paid life this way. This "
 "effect reduces only the amount of green mana you pay."
 msgstr ""
+"Jako dodatkowy koszt przy rzucaniu czarów zielonych bytów, możesz zapłacić 2 "
+"życia. Rzucenie owych czarów kosztuje o |mana_g| mniej jeśli zapłaciłeś "
+"życie w ten sposób. Ten efekt zmniejsza tylko ilość płaconej zielonej many."
 
 #: ../../DMU.rst:1031
 msgid ""
 "Whenever you cast a green permanent spell, put a +1/+1 counter on each "
 "creature you control."
 msgstr ""
+"Ilekroć rzucisz czar zielonego bytu, umieść znacznik +1/+1 na każdym stworze "
+"pod twoim władaniem."
 
 #: ../../DMU.rst:1036
 msgid ""
@@ -3414,7 +3446,7 @@ msgstr ""
 
 #: ../../DMU.rst:1075
 msgid "Linebreaker Baloth can't be blocked by creatures with power 2 or less."
-msgstr ""
+msgstr "Niniejszy nie może być blokowany przez stwory o sile 2 lub mniejszej."
 
 #: ../../DMU.rst:1082
 msgid ""
@@ -3451,6 +3483,8 @@ msgid ""
 "|tap|: Target land you control becomes a 3/3 Elemental creature with haste "
 "until end of turn. It's still a land. Activate only as a sorcery."
 msgstr ""
+"|tap|: Wskazany ląd pod twoim władaniem do końca tury staje się stworem "
+"Żywiołak 3/3 z pośpiechem. Nadal jest on lądem. Aktywuj tylko jako obrzęd."
 
 #: ../../DMU.rst:1092
 msgid ""
@@ -3519,6 +3553,9 @@ msgid ""
 "of target creatures you control, where X is the number of +1/+1 counters on "
 "Quirion Beastcaller."
 msgstr ""
+"Kiedy niniejszy umrze, rozmieść łącznie X znaczników +1/+1 pośród dowolną "
+"liczbę wskazanych stworów pod twoim władaniem, gdzie X jest liczbą "
+"znaczników +1/+1 na niniejszym."
 
 #: ../../DMU.rst:1120
 msgid ""
@@ -3541,6 +3578,9 @@ msgid ""
 "tapped, then shuffle. If this spell was kicked, create two 1/1 white Soldier "
 "creature tokens."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę bazowego lądu, umieść ją przekręconą na "
+"polu bitwy, po czym przetasuj. Jeśli ten czar został podbity, stwórz dwa "
+"żetony białego stwora Piechur 1/1."
 
 #: ../../DMU.rst:1130
 msgid ""
@@ -3624,6 +3664,9 @@ msgid ""
 "Target creature you control gets +2/+2 until end of turn. If this spell was "
 "kicked, put a +1/+1 counter on each creature you control."
 msgstr ""
+"Wskazany stwór pod twoim władaniem do końca tury dostaje +2/+2. Jeśli ten "
+"czar został podbity, umieść znacznik +1/+1 na każdym stworze pod twoim "
+"władaniem."
 
 #: ../../DMU.rst:1150
 msgid ""
@@ -3668,6 +3711,8 @@ msgid ""
 "Exile target artifact or enchantment. If this spell was kicked, exile target "
 "nonland permanent instead."
 msgstr ""
+"Wygnaj wskazany artefakt lub urok. Jeśli ten czar został podbity, zamiast "
+"tego wygnaj wskazany nielądowy byt."
 
 #: ../../DMU.rst:1164
 msgid ""
@@ -5211,11 +5256,6 @@ msgid ""
 msgstr ""
 
 #: ../../DMU.rst:1721
-#, fuzzy
-#| msgid ""
-#| "Domain — Whenever Briar Hydra deals combat damage to a player, put a X +1/"
-#| "+1 counters on target creature you control, where X is the number of "
-#| "basic land types among lands you control."
 msgid ""
 "Domain — Whenever Briar Hydra deals combat damage to a player, put X +1/+1 "
 "counters on target creature you control, where X is the number of basic land "
