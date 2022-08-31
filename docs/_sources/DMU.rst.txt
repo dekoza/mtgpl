@@ -1715,8 +1715,8 @@
    Whenever Ragefire Hellkite attacks, you may sacrifice another creature. If you do, Ragefire Hellkite gains double strike until end of turn.
 
 
-:mtgtip:`Briar Hydra<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/9/390fd5d1-3ce9-456e-b130-30ad0557f4cf.jpg?1661557729|https://scryfall.com/card/dmu/286/briar-hydra?utm_source=api>`
+:mtgtip:`Briar Hydra<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/9/390fd5d1-3ce9-456e-b130-30ad0557f4cf.jpg?1661925967|https://scryfall.com/card/dmu/286/briar-hydra?utm_source=api>`
    Trample
 
-   Domain — Whenever Briar Hydra deals combat damage to a player, put a X +1/+1 counters on target creature you control, where X is the number of basic land types among lands you control.
+   Domain — Whenever Briar Hydra deals combat damage to a player, put X +1/+1 counters on target creature you control, where X is the number of basic land types among lands you control.
 

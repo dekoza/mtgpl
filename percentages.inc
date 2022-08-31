@@ -427,7 +427,7 @@
 
 .. |DMC_percent| image:: images/pie75.png        
 
-.. |DMU_percent| image:: images/pie70.png        
+.. |DMU_percent| image:: images/pie80.png        
 
 .. |ARN_percent| image:: images/pie55.png        
 

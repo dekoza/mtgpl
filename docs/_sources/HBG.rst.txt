@@ -31,10 +31,10 @@
    When this creature specializes, seek three nonland permanent cards. Choose one of those cards and shuffle the rest into your library.
 
 
-:mtgtip:`Klement, Life Acolyte<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/4/647a26b0-931c-4751-8bd1-1da6a18f42f0.jpg?1657241599|https://scryfall.com/card/hbg/1w/klement-life-acolyte?utm_source=api>`
+:mtgtip:`Klement, Life Acolyte<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/4/647a26b0-931c-4751-8bd1-1da6a18f42f0.jpg?1661795468|https://scryfall.com/card/hbg/1w/klement-life-acolyte?utm_source=api>`
    Lifelink
 
-   When this creature specializes, you get a boon with "When you cast you next creature spell, that creature enters the battlefield with a lifelink counter on it."
+   When this creature specializes, you get a boon with "When you cast your next creature spell, that creature enters the battlefield with a lifelink counter on it."
 
 
 :mtgtip:`Lae'zel, Githyanki Warrior<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/6/e6a54aff-1282-4881-b10f-c1a811a20a00.jpg?1657662678|https://scryfall.com/card/hbg/2/laezel-githyanki-warrior?utm_source=api>`
@@ -179,8 +179,8 @@
    Whenever you cast an instant or sorcery spell, put two +1/+1 counters on target creature.
 
 
-:mtgtip:`Gale, Storm Conduit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/5/a5af138b-5ca3-4427-b58d-e701b6894752.jpg?1657241328|https://scryfall.com/card/hbg/6r/gale-storm-conduit?utm_source=api>`
-   Whenever you cast an instant or sorcery spell, Gale, Strom Conduit perpetually gains "Creatures you control get +1/+0."
+:mtgtip:`Gale, Storm Conduit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/5/a5af138b-5ca3-4427-b58d-e701b6894752.jpg?1661795192|https://scryfall.com/card/hbg/6r/gale-storm-conduit?utm_source=api>`
+   Whenever you cast an instant or sorcery spell, Gale, Storm Conduit perpetually gains "Creatures you control get +1/+0."
 
 
 :mtgtip:`Gale, Temporal Conduit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/1/c15ce9e3-133d-4001-9687-d699a3333f28.jpg?1657241330|https://scryfall.com/card/hbg/6u/gale-temporal-conduit?utm_source=api>`
