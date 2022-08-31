@@ -263,7 +263,7 @@
    Whenever another creature with defender enters the battlefield under your control, create a 1/1 white Bird creature token with flying.
 
 
-:mtgtip:`Academy Loremaster<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/f/9fca4c4f-a77b-483e-9da4-574ba2e3d179.jpg?1661528141|https://scryfall.com/card/dmu/40/academy-loremaster?utm_source=api>`
+:mtgtip:`Academy Loremaster<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/f/9fca4c4f-a77b-483e-9da4-574ba2e3d179.jpg?1661843959|https://scryfall.com/card/dmu/40/academy-loremaster?utm_source=api>`
    At the beginning of each player's draw step, that player may draw an additional card. If they do, spells they cast this turn cost |mana_2| more to cast.
 
 
@@ -371,7 +371,7 @@
    Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
 
 
-:mtgtip:`Impulse<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/a/5aec2b2c-0764-4869-814d-aad921122af9.jpg?1661528389|https://scryfall.com/card/dmu/55/impulse?utm_source=api>`
+:mtgtip:`Impulse<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/a/5aec2b2c-0764-4869-814d-aad921122af9.jpg?1661843993|https://scryfall.com/card/dmu/55/impulse?utm_source=api>`
    Look at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.
 
 
@@ -669,10 +669,10 @@
    |mana_3|\ |mana_b|, |tap|: Each opponent discards a card. Activate only as a sorcery.
 
 
-:mtgtip:`Sengir Connoisseur<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7c9231f0-7733-46d9-b9c6-c6c5b7fe65dd.jpg?1661378593|https://scryfall.com/card/dmu/104/sengir-connoisseur?utm_source=api>`
+:mtgtip:`Sengir Connoisseur<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7c9231f0-7733-46d9-b9c6-c6c5b7fe65dd.jpg?1661843905|https://scryfall.com/card/dmu/104/sengir-connoisseur?utm_source=api>`
    Flying
 
-   Whenever one or more other creatures die, put a +1/+1 counter on Sengir Connoisseur. This aility triggers only once each turn.
+   Whenever one or more other creatures die, put a +1/+1 counter on Sengir Connoisseur. This ability triggers only once each turn.
 
 
 :mtgtip:`Shadow Prophecy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/b/bb078448-9e9f-4994-8aff-7e7c4fb62efc.jpg?1661530693|https://scryfall.com/card/dmu/105/shadow-prophecy?utm_source=api>`
@@ -1571,7 +1571,7 @@
    |mana_1|, |tap|: Add one mana of any color.
 
 
-:mtgtip:`Geothermal Bog<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/e/1e62fe57-4fa4-4bfd-8e31-9f6db774d7e2.jpg?1661540102|https://scryfall.com/card/dmu/247/geothermal-bog?utm_source=api>`
+:mtgtip:`Geothermal Bog<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/e/1e62fe57-4fa4-4bfd-8e31-9f6db774d7e2.jpg?1661844014|https://scryfall.com/card/dmu/247/geothermal-bog?utm_source=api>`
    (|tap|: Add |mana_b| or |mana_r|.)
 
    Geothermal Bog enters the battlefield tapped.
@@ -1635,7 +1635,7 @@
    |tap|: Add |mana_b| or |mana_r|. Sulfurous Springs deals 1 damage to you.
 
 
-:mtgtip:`Sunlit Marsh<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/0/f0588fbf-3c05-452a-b3f7-67604c1f921d.jpg?1661540401|https://scryfall.com/card/dmu/257/sunlit-marsh?utm_source=api>`
+:mtgtip:`Sunlit Marsh<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/0/f0588fbf-3c05-452a-b3f7-67604c1f921d.jpg?1661843970|https://scryfall.com/card/dmu/257/sunlit-marsh?utm_source=api>`
    (|tap|: Add |mana_w| or |mana_b|.)
 
    Sunlit Marsh enters the battlefield tapped.

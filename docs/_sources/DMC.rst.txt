@@ -167,10 +167,10 @@
    Whenever you cast a Merfolk spell, you may pay |mana_1|. If you do, create a 1/1 blue Merfolk creature token.
 
 
-:mtgtip:`Activated Sleeper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/4/343d01cf-9806-4c2d-a993-ddc9ed248d7f.jpg?1661534361|https://scryfall.com/card/dmc/24/activated-sleeper?utm_source=api>`
+:mtgtip:`Activated Sleeper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/4/343d01cf-9806-4c2d-a993-ddc9ed248d7f.jpg?1661840250|https://scryfall.com/card/dmc/24b/activated-sleeper?utm_source=api>`
    Flash
 
-   You may have Activated Sleeper enter the battlefield as a copy of any creature card in a graveyard that was put there from the battelfield this turn, except it's a Phyrexian in addition to its other types.
+   You may have Activated Sleeper enter the battlefield as a copy of any creature card in a graveyard that was put there from the battlefield this turn, except it's a Phyrexian in addition to its other types.
 
 
 :mtgtip:`Rosnakht, Heir of Rohgahh<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/1/013e33d4-7d08-4773-a570-469ae3cf92f2.jpg?1661534478|https://scryfall.com/card/dmc/25/rosnakht-heir-of-rohgahh?utm_source=api>`
@@ -209,8 +209,8 @@
    |mana_1|, Sacrifice another creature: The Ever-Changing 'Dane becomes a copy of the sacrificed creature, except it has this ability.
 
 
-:mtgtip:`General Marhault Elsdragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bf2931bd-bedc-45e8-b3f0-e2a220dbac1b.jpg?1661032989|https://scryfall.com/card/dmc/31/general-marhault-elsdragon?utm_source=api>`
-   Whenever a creature you control becomes blocked, that creature gets +3/+3 until end of turn for each creature blocking it.
+:mtgtip:`General Marhault Elsdragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bf2931bd-bedc-45e8-b3f0-e2a220dbac1b.jpg?1661860091|https://scryfall.com/card/dmc/31/general-marhault-elsdragon?utm_source=api>`
+   Whenever a creature you control becomes blocked, it gets +3/+3 until end of turn for each creature blocking it.
 
 
 :mtgtip:`Hazezon, Shaper of Sand<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/5/25869cd0-63da-4dfb-8870-221cdba276e2.jpg?1660832172|https://scryfall.com/card/dmc/32/hazezon-shaper-of-sand?utm_source=api>`
