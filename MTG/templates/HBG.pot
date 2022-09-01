@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: MTG-pl 2022.8\n"
+"Project-Id-Version: MTG-pl 2022.9\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-08-31 20:42+0200\n"
+"POT-Creation-Date: 2022-09-01 18:04+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -462,18 +462,22 @@ msgid "{(g/u/p)}"
 msgstr ""
 
 #: ../../symbols.rst:101
-msgid "{S}"
+msgid "{(g/w/p)}"
 msgstr ""
 
 #: ../../symbols.rst:103
-msgid "{E}"
+msgid "{S}"
 msgstr ""
 
 #: ../../symbols.rst:105
-msgid "{CHAOS}"
+msgid "{E}"
 msgstr ""
 
 #: ../../symbols.rst:107
+msgid "{CHAOS}"
+msgstr ""
+
+#: ../../symbols.rst:109
 msgid "{PW}"
 msgstr ""
 
@@ -1037,11 +1041,11 @@ msgid "At the beginning of combat on your turn, target creature you control gain
 msgstr ""
 
 #: ../../HBG.rst:292
-msgid ":mtgtip:`Sarevok, Deceitful Usurper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/c/fc3c6c19-b384-4b37-9846-32a654e9bbdb.jpg?1657241948|https://scryfall.com/card/hbg/9u/sarevok-deceitful-usurper?utm_source=api>`"
+msgid ":mtgtip:`Sarevok, Deceitful Usurper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/c/fc3c6c19-b384-4b37-9846-32a654e9bbdb.jpg?1661960599|https://scryfall.com/card/hbg/9u/sarevok-deceitful-usurper?utm_source=api>`"
 msgstr ""
 
 #: ../../HBG.rst:291
-msgid "At the beginning of combat on your turn, target creature you control gets +X/+0 until end of turn, where X is the number of creature, instant and sorcery cards in your graveyard."
+msgid "At the beginning of combat on your turn, target creature you control gets +X/+0 until end of turn, where X is the number of creature, instant, and sorcery cards in your graveyard."
 msgstr ""
 
 #: ../../HBG.rst:298
@@ -1648,11 +1652,11 @@ msgid "|mana_1|\\ |mana_b|\\ |mana_g|, Exile Wilson, Fearsome Bear from your gra
 msgstr ""
 
 #: ../../HBG.rst:664
-msgid ":mtgtip:`Wilson, Majestic Bear<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/0/40611bda-6655-4903-a4af-35513bd2ae80.jpg?1657242235|https://scryfall.com/card/hbg/19g/wilson-majestic-bear?utm_source=api>`"
+msgid ":mtgtip:`Wilson, Majestic Bear<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/0/40611bda-6655-4903-a4af-35513bd2ae80.jpg?1661960751|https://scryfall.com/card/hbg/19g/wilson-majestic-bear?utm_source=api>`"
 msgstr ""
 
 #: ../../HBG.rst:663
-msgid "|mana_1|\\ |mana_g|\\ |mana_g|, Exile Wilson from your graveyard: Target creature you control perpetually gets +1/+1 and gains reach, trample and ward |mana_2|. Activate only as a sorcery."
+msgid "|mana_1|\\ |mana_g|\\ |mana_g|, Exile Wilson from your graveyard: Target creature you control perpetually gets +1/+1 and gains reach, trample, and ward |mana_2|. Activate only as a sorcery."
 msgstr ""
 
 #: ../../HBG.rst:672
@@ -1668,11 +1672,11 @@ msgid "|mana_1|\\ |mana_r|\\ |mana_g|, Exile Wilson, Ardent Bear from your grave
 msgstr ""
 
 #: ../../HBG.rst:682
-msgid ":mtgtip:`Wilson, Subtle Bear<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/b/3b882768-d93c-48a9-9923-0c3047f73513.jpg?1657242242|https://scryfall.com/card/hbg/19u/wilson-subtle-bear?utm_source=api>`"
+msgid ":mtgtip:`Wilson, Subtle Bear<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/b/3b882768-d93c-48a9-9923-0c3047f73513.jpg?1661968252|https://scryfall.com/card/hbg/19u/wilson-subtle-bear?utm_source=api>`"
 msgstr ""
 
 #: ../../HBG.rst:679
-msgid "Wilson, Subtle Bear can't be blocked"
+msgid "Wilson, Subtle Bear can't be blocked."
 msgstr ""
 
 #: ../../HBG.rst:681

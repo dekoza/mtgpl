@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: MTG-pl 2022.8\n"
+"Project-Id-Version: MTG-pl 2022.9\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-08-31 21:52+0200\n"
+"POT-Creation-Date: 2022-09-01 18:04+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -604,18 +604,23 @@ msgid "{(g/u/p)}"
 msgstr ""
 
 #: ../../symbols.rst:101
-msgid "{S}"
+#: ../../symbols.rst:101
+msgid "{(g/w/p)}"
 msgstr ""
 
 #: ../../symbols.rst:103
-msgid "{E}"
+msgid "{S}"
 msgstr ""
 
 #: ../../symbols.rst:105
-msgid "{CHAOS}"
+msgid "{E}"
 msgstr ""
 
 #: ../../symbols.rst:107
+msgid "{CHAOS}"
+msgstr ""
+
+#: ../../symbols.rst:109
 msgid "{PW}"
 msgstr ""
 
@@ -624,7 +629,7 @@ msgid ":mtgexp:`DMU` Dominaria United"
 msgstr ""
 
 #: ../../DMU.rst:14
-msgid ":mtgtip:`Karn, Living Legacy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/8/e83b1b87-01d5-4624-8a2b-4b771e13e59c.jpg?1661025516|https://scryfall.com/card/dmu/1/karn-living-legacy?utm_source=api>`"
+msgid ":mtgtip:`Karn, Living Legacy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/8/e83b1b87-01d5-4624-8a2b-4b771e13e59c.jpg?1661960562|https://scryfall.com/card/dmu/1/karn-living-legacy?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:9
@@ -632,7 +637,7 @@ msgid "+1: Create a tapped Powerstone token. (It's an artifact with \"|tap|: Add
 msgstr ""
 
 #: ../../DMU.rst:11
-msgid "−1: Pay any amount of mana. Look at that many cards from the top of your library, then put one of those cards into your hand and rest on the bottom of your library in a random order."
+msgid "−1: Pay any amount of mana. Look at that many cards from the top of your library, then put one of those cards into your hand and the rest on the bottom of your library in a random order."
 msgstr ""
 
 #: ../../DMU.rst:13
@@ -1218,11 +1223,11 @@ msgid "As long as enchanted creature is legendary, it gets +1/+1 and has ward |m
 msgstr ""
 
 #: ../../DMU.rst:306
-msgid ":mtgtip:`Coral Colony<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/c/9c0e3882-1f97-48eb-b9e3-2f9683ff5897.jpg?1661187208|https://scryfall.com/card/dmu/45/coral-colony?utm_source=api>`"
+msgid ":mtgtip:`Coral Colony<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/c/9c0e3882-1f97-48eb-b9e3-2f9683ff5897.jpg?1662015013|https://scryfall.com/card/dmu/45/coral-colony?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:305
-msgid "|mana_1|\\ |mana_u|, |tap|: Target player mills X cards, where X is the number of cards you control with defender. (To mill a card, a player puts the top card of their library into their graveyard.)"
+msgid "|mana_1|\\ |mana_u|, |tap|: Target player mills X cards, where X is the number of creatures you control with defender. (To mill a card, a player puts the top card of their library into their graveyard.)"
 msgstr ""
 
 #: ../../DMU.rst:314
@@ -1384,7 +1389,7 @@ msgid "III — Destroy all creatures. For each creature destroyed this way, its 
 msgstr ""
 
 #: ../../DMU.rst:404
-msgid ":mtgtip:`Phyrexian Espionage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/b/0b983366-385f-41a3-aa46-20151e68d140.jpg?1661419919|https://scryfall.com/card/dmu/60/phyrexian-espionage?utm_source=api>`"
+msgid ":mtgtip:`Phyrexian Espionage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/b/0b983366-385f-41a3-aa46-20151e68d140.jpg?1661973407|https://scryfall.com/card/dmu/60/phyrexian-espionage?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:403

@@ -535,7 +535,7 @@
    Whenever a nontoken artifact enters the battlefield under your control, you may pay |mana_1|\ |mana_u|. If you do, create a token that's a copy of that artifact.
 
 
-:mtgtip:`Saiba Trespassers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/3/c3dd7f1a-5d43-4218-a9d8-7cc4f6a18ecd.jpg?1661094142|https://scryfall.com/card/neo/77/saiba-trespassers?utm_source=api>`
+:mtgtip:`Saiba Trespassers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/3/c3dd7f1a-5d43-4218-a9d8-7cc4f6a18ecd.jpg?1662015031|https://scryfall.com/card/neo/77/saiba-trespassers?utm_source=api>`
    Channel — |mana_3|\ |mana_u|, Discard Saiba Trespassers: Tap up to two target creatures you don't control. Those creatures don't untap during their controller's next untap step.
 
 

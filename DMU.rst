@@ -5,10 +5,10 @@
 ===============================
 
 
-:mtgtip:`Karn, Living Legacy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/8/e83b1b87-01d5-4624-8a2b-4b771e13e59c.jpg?1661025516|https://scryfall.com/card/dmu/1/karn-living-legacy?utm_source=api>`
+:mtgtip:`Karn, Living Legacy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/8/e83b1b87-01d5-4624-8a2b-4b771e13e59c.jpg?1661960562|https://scryfall.com/card/dmu/1/karn-living-legacy?utm_source=api>`
    +1: Create a tapped Powerstone token. (It's an artifact with "|tap|: Add |colorless|. This mana can't be spent to cast a nonartifact spell.")
 
-   −1: Pay any amount of mana. Look at that many cards from the top of your library, then put one of those cards into your hand and rest on the bottom of your library in a random order.
+   −1: Pay any amount of mana. Look at that many cards from the top of your library, then put one of those cards into your hand and the rest on the bottom of your library in a random order.
 
    −7: You get an emblem with "Tap an untapped artifact you control: This emblem deals 1 damage to any target."
 
@@ -299,10 +299,10 @@
    As long as enchanted creature is legendary, it gets +1/+1 and has ward |mana_1|. (Whenever enchanted creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays |mana_1|.)
 
 
-:mtgtip:`Coral Colony<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/c/9c0e3882-1f97-48eb-b9e3-2f9683ff5897.jpg?1661187208|https://scryfall.com/card/dmu/45/coral-colony?utm_source=api>`
+:mtgtip:`Coral Colony<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/c/9c0e3882-1f97-48eb-b9e3-2f9683ff5897.jpg?1662015013|https://scryfall.com/card/dmu/45/coral-colony?utm_source=api>`
    Defender
 
-   |mana_1|\ |mana_u|, |tap|: Target player mills X cards, where X is the number of cards you control with defender. (To mill a card, a player puts the top card of their library into their graveyard.)
+   |mana_1|\ |mana_u|, |tap|: Target player mills X cards, where X is the number of creatures you control with defender. (To mill a card, a player puts the top card of their library into their graveyard.)
 
 
 :mtgtip:`Defiler of Dreams<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/8/881cc4a3-252b-4155-a34f-63d4b4f44442.jpg?1660843492|https://scryfall.com/card/dmu/46/defiler-of-dreams?utm_source=api>`
@@ -397,7 +397,7 @@
    III — Destroy all creatures. For each creature destroyed this way, its controller creates a 2/2 black Phyrexian creature token.
 
 
-:mtgtip:`Phyrexian Espionage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/b/0b983366-385f-41a3-aa46-20151e68d140.jpg?1661419919|https://scryfall.com/card/dmu/60/phyrexian-espionage?utm_source=api>`
+:mtgtip:`Phyrexian Espionage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/b/0b983366-385f-41a3-aa46-20151e68d140.jpg?1661973407|https://scryfall.com/card/dmu/60/phyrexian-espionage?utm_source=api>`
    Kicker |mana_1|\ |mana_b| (You may pay an additional |mana_1|\ |mana_b| as you cast this spell.)
 
    Draw two cards. If this spell was kicked, each opponent discards a card.

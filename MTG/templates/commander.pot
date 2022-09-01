@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: MTG-pl 2022.8\n"
+"Project-Id-Version: MTG-pl 2022.9\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-08-31 20:42+0200\n"
+"POT-Creation-Date: 2022-09-01 18:04+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -197,7 +197,8 @@ msgstr ""
 #: ../../percentages.inc:417
 #: ../../percentages.inc:422
 #: ../../percentages.inc:425
-#: ../../percentages.inc:436
+#: ../../percentages.inc:430
+#: ../../percentages.inc:437
 #: ../../progress.rst:20
 #: ../../percentages.inc:97
 #: ../../percentages.inc:322
@@ -479,19 +480,15 @@ msgstr ""
 msgid "DMC_percent"
 msgstr ""
 
-#: ../../percentages.inc:430
-msgid "DMU_percent"
-msgstr ""
-
-#: ../../percentages.inc:432
+#: ../../percentages.inc:433
 msgid "ARN_percent"
 msgstr ""
 
-#: ../../percentages.inc:434
+#: ../../percentages.inc:435
 msgid "PTK_percent"
 msgstr ""
 
-#: ../../percentages.inc:439
+#: ../../percentages.inc:440
 msgid "LEG_percent"
 msgstr ""
 
