@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-08-22 09:12+0200\n"
+"POT-Creation-Date: 2022-09-01 18:04+0200\n"
 "PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/m15/pl/>\n"
@@ -218,18 +218,24 @@ msgid "{(g/u/p)}"
 msgstr "{(g/u/p)}"
 
 #: ../../symbols.rst:101
+#, fuzzy
+#| msgid "{(g/u/p)}"
+msgid "{(g/w/p)}"
+msgstr "{(g/u/p)}"
+
+#: ../../symbols.rst:103
 msgid "{S}"
 msgstr "{S}"
 
-#: ../../symbols.rst:103
+#: ../../symbols.rst:105
 msgid "{E}"
 msgstr "{E}"
 
-#: ../../symbols.rst:105
+#: ../../symbols.rst:107
 msgid "{CHAOS}"
 msgstr "{CHAOS}"
 
-#: ../../symbols.rst:107
+#: ../../symbols.rst:109
 msgid "{PW}"
 msgstr "{PW}"
 
@@ -2524,8 +2530,8 @@ msgid ""
 "until end of turn.\""
 msgstr ""
 "Ilekroć Aura zostanie dołączona do tego stwora, stwórz żeton czerwonego "
-"stwora Smok 2/2 z lataniem oraz \"|mana_r|: Ten stwór do końca tury dostaje +"
-"1/+0.\""
+"stwora Smok 2/2 z lataniem oraz \"|mana_r|: Ten stwór do końca tury dostaje "
+"+1/+0.\""
 
 #: ../../M15.rst:698
 msgid ""
@@ -2951,8 +2957,8 @@ msgid ""
 "turn. (It can deal excess combat damage to the player or planeswalker it's "
 "attacking.)"
 msgstr ""
-"|mana_2|\\ |mana_r|: Ten stwór do końca tury dostaje +1/+0 i tratowanie. ("
-"Może zadać nadwyżkę obrażeń bojowych atakowanemu graczowi lub wędrowcowi.)"
+"|mana_2|\\ |mana_r|: Ten stwór do końca tury dostaje +1/+0 i tratowanie. "
+"(Może zadać nadwyżkę obrażeń bojowych atakowanemu graczowi lub wędrowcowi.)"
 
 #: ../../M15.rst:824
 msgid ""

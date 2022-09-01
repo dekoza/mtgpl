@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-08-25 14:27+0200\n"
+"POT-Creation-Date: 2022-09-01 18:04+0200\n"
 "PO-Revision-Date: 2022-08-31 21:32+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c21/pl/>\n"
@@ -215,18 +215,24 @@ msgid "{(g/u/p)}"
 msgstr "{(g/u/p)}"
 
 #: ../../symbols.rst:101
+#, fuzzy
+#| msgid "{(g/u/p)}"
+msgid "{(g/w/p)}"
+msgstr "{(g/u/p)}"
+
+#: ../../symbols.rst:103
 msgid "{S}"
 msgstr "{S}"
 
-#: ../../symbols.rst:103
+#: ../../symbols.rst:105
 msgid "{E}"
 msgstr "{E}"
 
-#: ../../symbols.rst:105
+#: ../../symbols.rst:107
 msgid "{CHAOS}"
 msgstr "{CHAOS}"
 
-#: ../../symbols.rst:107
+#: ../../symbols.rst:109
 msgid "{PW}"
 msgstr "{PW}"
 
@@ -3273,8 +3279,8 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, Charmbreaker Devils gets +4/"
 "+0 until end of turn."
 msgstr ""
-"Ilekroć rzucisz czar sztuczki lub obrzędu, ten stwór do końca tury dostaje +"
-"4/+0."
+"Ilekroć rzucisz czar sztuczki lub obrzędu, ten stwór do końca tury dostaje "
+"+4/+0."
 
 #: ../../C21.rst:924
 msgid ""
@@ -3355,8 +3361,8 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, Erratic Cyclops gets +X/+0 "
 "until end of turn, where X is that spell's mana value."
 msgstr ""
-"Ilekroć rzucisz czar sztuczki lub obrzędu, ten stwór do końca tury dostaje +"
-"X/+0, gdzie X jest skrótem many owego czaru."
+"Ilekroć rzucisz czar sztuczki lub obrzędu, ten stwór do końca tury dostaje "
+"+X/+0, gdzie X jest skrótem many owego czaru."
 
 #: ../../C21.rst:950
 msgid ""
