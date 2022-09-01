@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2022.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-30 22:37+0200\n"
-"PO-Revision-Date: 2022-09-01 18:42+0000\n"
+"PO-Revision-Date: 2022-09-01 21:13+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dmc/pl/>\n"
 "Language: pl\n"
@@ -261,10 +261,12 @@ msgid ""
 "−11: Gain control of all nonland permanents until end of turn. Untap them. "
 "They gain haste until end of turn."
 msgstr ""
+"–11: Do końca tury zyskaj władanie nad wszystkimi nielądowymi bytami. Odkręć "
+"je. Do końca tury zyskują one pośpiech."
 
 #: ../../DMC.rst:15
 msgid "Dihada, Binder of Wills can be your commander."
-msgstr ""
+msgstr "Ten wędrowiec może być twoim dowódcą."
 
 #: ../../DMC.rst:26
 msgid ""
@@ -291,7 +293,7 @@ msgstr ""
 
 #: ../../DMC.rst:25
 msgid "Jared Carthalion can be your commander."
-msgstr ""
+msgstr "Ten wędrowiec może być twoim dowódcą."
 
 #: ../../DMC.rst:32
 msgid ""
@@ -311,6 +313,7 @@ msgstr ""
 msgid ""
 "|mana_5|, |tap|: Add |mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|."
 msgstr ""
+"|mana_5|, |tap|: Weź |mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|."
 
 #: ../../DMC.rst:40
 msgid ""
@@ -326,7 +329,7 @@ msgstr "Złowrogość"
 
 #: ../../DMC.rst:37
 msgid "Other legendary creatures you control have menace."
-msgstr ""
+msgstr "Inne legendarne stwory pod twoim władaniem mają złowrogość."
 
 #: ../../DMC.rst:39
 msgid ""
@@ -465,7 +468,7 @@ msgstr ""
 
 #: ../../DMC.rst:83
 msgid "Destroy each creature that isn't all colors."
-msgstr ""
+msgstr "Zniszcz każdego stwora, który nie jest wszystkich kolorów."
 
 #: ../../DMC.rst:92
 msgid ""
@@ -482,7 +485,7 @@ msgstr ""
 
 #: ../../DMC.rst:89
 msgid "Vigilance, trample, lifelink"
-msgstr ""
+msgstr "Czujność, tratowanie, więź życia"
 
 #: ../../DMC.rst:91
 msgid ""
@@ -500,11 +503,11 @@ msgstr ""
 
 #: ../../DMC.rst:95
 msgid "Flying, menace, haste"
-msgstr ""
+msgstr "Latanie, złowrogość, pośpiech"
 
 #: ../../DMC.rst:97
 msgid "Whenever Two-Headed Hellkite attacks, draw two cards."
-msgstr ""
+msgstr "Ilekroć niniejszy zaatakuje, dobierz dwie karty."
 
 #: ../../DMC.rst:112
 msgid ""
@@ -515,11 +518,11 @@ msgstr ""
 
 #: ../../DMC.rst:101
 msgid "Choose five. You may choose the same mode more than once."
-msgstr ""
+msgstr "Wybierz pięć. Możesz wybrać ten sam tryb więcej niż raz."
 
 #: ../../DMC.rst:103
 msgid "Target permanent phases out."
-msgstr ""
+msgstr "Wskazany byt wycofuje się."
 
 #: ../../DMC.rst:105
 msgid "Target player draws a card."
@@ -531,7 +534,7 @@ msgstr "Wygnaj cmentarz wskazanego gracza."
 
 #: ../../DMC.rst:109
 msgid "Unite the Coalition deals 2 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi 2 obrażenia."
 
 #: ../../DMC.rst:111 ../../DMC.rst:737
 msgid "Destroy target artifact or enchantment."
@@ -591,7 +594,7 @@ msgstr ""
 
 #: ../../DMC.rst:129
 msgid "Obsidian Obelisk enters the battlefield tapped."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../DMC.rst:131 ../../DMC.rst:863 ../../DMC.rst:925 ../../DMC.rst:955
 #: ../../DMC.rst:977 ../../DMC.rst:1015 ../../DMC.rst:1035 ../../DMC.rst:1041
@@ -3558,6 +3561,8 @@ msgid ""
 "|mana_b|, |tap|: Target legendary creature gains fear until end of turn. (It "
 "can't be blocked except by artifact creatures and/or black creatures.)"
 msgstr ""
+"|mana_b|, |tap|: Wskazany legendarny stwór do końca tury zyskuje postrach. ("
+"Nie może być blokowany, chyba że przez stwory artefaktowe i/lub czarne.)"
 
 #: ../../DMC.rst:1152
 msgid ""
