@@ -287,8 +287,8 @@
    At the beginning of combat on your turn, target creature you control gains menace and gets +X/+0 until end of turn, where X is the number of creature cards in your graveyard.
 
 
-:mtgtip:`Sarevok, Deceitful Usurper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/c/fc3c6c19-b384-4b37-9846-32a654e9bbdb.jpg?1657241948|https://scryfall.com/card/hbg/9u/sarevok-deceitful-usurper?utm_source=api>`
-   At the beginning of combat on your turn, target creature you control gets +X/+0 until end of turn, where X is the number of creature, instant and sorcery cards in your graveyard.
+:mtgtip:`Sarevok, Deceitful Usurper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/c/fc3c6c19-b384-4b37-9846-32a654e9bbdb.jpg?1661960599|https://scryfall.com/card/hbg/9u/sarevok-deceitful-usurper?utm_source=api>`
+   At the beginning of combat on your turn, target creature you control gets +X/+0 until end of turn, where X is the number of creature, instant, and sorcery cards in your graveyard.
 
 
 :mtgtip:`Sarevok, Divine Usurper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/d/3d687863-5e33-4401-9da2-d573ada490aa.jpg?1657241951|https://scryfall.com/card/hbg/9w/sarevok-divine-usurper?utm_source=api>`
@@ -655,12 +655,12 @@
    |mana_1|\ |mana_b|\ |mana_g|, Exile Wilson, Fearsome Bear from your graveyard: Target creature you control perpetually gains menace. Activate only as a sorcery.
 
 
-:mtgtip:`Wilson, Majestic Bear<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/0/40611bda-6655-4903-a4af-35513bd2ae80.jpg?1657242235|https://scryfall.com/card/hbg/19g/wilson-majestic-bear?utm_source=api>`
+:mtgtip:`Wilson, Majestic Bear<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/0/40611bda-6655-4903-a4af-35513bd2ae80.jpg?1661960751|https://scryfall.com/card/hbg/19g/wilson-majestic-bear?utm_source=api>`
    Reach, trample
 
    Ward |mana_2|
 
-   |mana_1|\ |mana_g|\ |mana_g|, Exile Wilson from your graveyard: Target creature you control perpetually gets +1/+1 and gains reach, trample and ward |mana_2|. Activate only as a sorcery.
+   |mana_1|\ |mana_g|\ |mana_g|, Exile Wilson from your graveyard: Target creature you control perpetually gets +1/+1 and gains reach, trample, and ward |mana_2|. Activate only as a sorcery.
 
 
 :mtgtip:`Wilson, Ardent Bear<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/6/c67edbe9-ee9f-41a7-b479-943392fbfbc5.jpg?1657242238|https://scryfall.com/card/hbg/19r/wilson-ardent-bear?utm_source=api>`
@@ -671,12 +671,12 @@
    |mana_1|\ |mana_r|\ |mana_g|, Exile Wilson, Ardent Bear from your graveyard: Target creature you control perpetually gains double strike. Activate only as a sorcery.
 
 
-:mtgtip:`Wilson, Subtle Bear<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/b/3b882768-d93c-48a9-9923-0c3047f73513.jpg?1657242242|https://scryfall.com/card/hbg/19u/wilson-subtle-bear?utm_source=api>`
+:mtgtip:`Wilson, Subtle Bear<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/b/3b882768-d93c-48a9-9923-0c3047f73513.jpg?1661968252|https://scryfall.com/card/hbg/19u/wilson-subtle-bear?utm_source=api>`
    Reach, trample
 
    Ward |mana_2|
 
-   Wilson, Subtle Bear can't be blocked
+   Wilson, Subtle Bear can't be blocked.
 
    |mana_1|\ |mana_g|\ |mana_u|, Exile Wilson from your graveyard: Target creature you control perpetually gains "This creature can't be blocked." Activate only as a sorcery.
 
