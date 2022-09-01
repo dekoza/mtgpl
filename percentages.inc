@@ -105,7 +105,7 @@
 
 .. |SOK_percent| image:: images/pie40.png        
 
-.. |DST_percent| image:: images/pie50.png        
+.. |DST_percent| image:: images/pie55.png        
 
 .. |NEC_percent| image:: images/pie75.png        
 
@@ -425,7 +425,7 @@
 .. |SNC_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |DMC_percent| image:: images/pie75.png        
+.. |DMC_percent| image:: images/pie80.png        
 
 .. |DMU_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
