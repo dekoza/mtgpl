@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2022.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-30 22:37+0200\n"
-"PO-Revision-Date: 2022-09-01 21:13+0000\n"
+"PO-Revision-Date: 2022-09-02 06:44+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dmc/pl/>\n"
 "Language: pl\n"
@@ -255,6 +255,10 @@ msgid ""
 "cards from among them into your hand and the rest into your graveyard. "
 "Create a Treasure token for each card put into your graveyard this way."
 msgstr ""
+"–3: Ujawnij trzy wierzchnie karty twojej biblioteki. Umieść spośród nich "
+"dowolne legendarne karty w twojej ręce, a pozostałe w twoim cmentarzu. "
+"Stwórz żeton Skarbu za każdą kartę umieszczoną w ten sposób w twoim "
+"cmentarzu."
 
 #: ../../DMC.rst:13
 msgid ""
@@ -277,19 +281,24 @@ msgstr ""
 
 #: ../../DMC.rst:19
 msgid "+1: Create a 3/3 Kavu creature token with trample that's all colors."
-msgstr ""
+msgstr "+1: Stwórz żeton stwora Kavu 3/3 z tratowaniem mający wszystkie kolory."
 
 #: ../../DMC.rst:21
 msgid ""
 "−3: Choose up to two target creatures. For each of them, put a number of +1/"
 "+1 counters on it equal to the number of colors it is."
 msgstr ""
+"–3: Wybierz co najwyżej dwa wskazane stwory. U każdego z nich umieść na nim "
+"tyle znaczników +1/+1, ile ma on kolorów."
 
 #: ../../DMC.rst:23
 msgid ""
 "−6: Return target multicolored card from your graveyard to your hand. If "
 "that card was all colors, draw a card and create two Treasure tokens."
 msgstr ""
+"–6: Przywróć wskazaną wielokolorową kartę z twojego cmentarza do twojej "
+"ręki. Jeśli owa karta miała wszystkie kolory, dobierz kartę i stwórz dwa "
+"żetony Skarbu."
 
 #: ../../DMC.rst:25
 msgid "Jared Carthalion can be your commander."
@@ -308,6 +317,8 @@ msgid ""
 "Whenever you cast a multicolored spell, scry 1. If that spell was all "
 "colors, create a 4/4 white Angel creature token with flying and vigilance."
 msgstr ""
+"Ilekroć rzucisz wielokolorowy czar, wróż 1. Jeśli ów czar miał wszystkie "
+"kolory, stwórz żeton białego stwora Anioł 4/4 z lataniem i czujnością."
 
 #: ../../DMC.rst:31 ../../DMC.rst:979
 msgid ""
@@ -336,6 +347,8 @@ msgid ""
 "Whenever you play a legendary land or cast a legendary spell, you draw a "
 "card and you lose 1 life."
 msgstr ""
+"Ilekroć zagrasz legendarną kartę lub rzucisz legendarny czar, dobierz kartę "
+"i strać 1 życie."
 
 #: ../../DMC.rst:46
 msgid ""
@@ -354,6 +367,8 @@ msgid ""
 "Whenever a Griffin you control deals combat damage to a player, create a 2/2 "
 "white Griffin creature token with flying."
 msgstr ""
+"Ilekroć Gryf pod twoim władaniem zada graczowi obrażenia bojowe, stwórz "
+"żeton białego stwora Gryf 2/2 z lataniem."
 
 #: ../../DMC.rst:52
 msgid ""
@@ -368,6 +383,9 @@ msgid ""
 "battlefield target creature card in your graveyard that was put there from "
 "the battlefield this turn."
 msgstr ""
+"Ilekroć niniejszy zada graczowi obrażenia bojowe, przywróć na pole bitwy "
+"wskazaną kartę stwora z twojego cmentarza, która trafiła tam z pola bitwy w "
+"tej turze."
 
 #: ../../DMC.rst:56
 msgid ""
@@ -381,6 +399,8 @@ msgid ""
 "Whenever you cast a multicolored spell, Mana Cannons deals X damage to any "
 "target, where X is the number of colors that spell is."
 msgstr ""
+"Ilekroć rzucisz wielokolorowy czar, niniejszy zadaje wskazanemu celowi X "
+"obrażeń, gdzie X jest liczbą kolorów owego czaru."
 
 #: ../../DMC.rst:62
 msgid ""
@@ -395,6 +415,8 @@ msgid ""
 "deals combat damage to a player or planeswalker, create that many Treasure "
 "tokens.\""
 msgstr ""
+"Wyposażony stwór dostaje +1/+1, ma tratowanie oraz \"Ilekroć ten stwór zada "
+"graczowi lub wędrowcowi obrażenia bojowe, stwórz tyle samo żetonów Skarbu.\""
 
 #: ../../DMC.rst:61
 msgid "Equip |mana_3|"
@@ -418,6 +440,9 @@ msgid ""
 "planeswalker, for each creature card in your graveyard, create a 2/2 black "
 "Zombie Knight creature token with menace."
 msgstr ""
+"Ilekroć niniejszy zada graczowi lub wędrowcowi obrażenia bojowe, za każdą "
+"kartę stwora w twoim cmentarzu, stwórz żeton czarnego stwora Zombi Rycerz 2/"
+"2 ze złowrogością."
 
 #: ../../DMC.rst:74
 msgid ""
@@ -428,7 +453,7 @@ msgstr ""
 
 #: ../../DMC.rst:71
 msgid "The \"legend rule\" doesn't apply to tokens you control."
-msgstr ""
+msgstr "\"Zasada legend\" nie odnosi się do żetonów pod twoim władaniem."
 
 #: ../../DMC.rst:73
 msgid ""
@@ -437,6 +462,10 @@ msgid ""
 "of it. That token gains haste. Sacrifice it at the beginning of the next end "
 "step."
 msgstr ""
+"Ilekroć inny nieżetonowy legendarny byt wejdzie na pole bitwy pod twoim "
+"władaniem, możesz zapłacić |mana_1|. Jeśli tak zrobisz, stwórz żeton będący "
+"jego kopią. Ów żeton zyskuje pośpiech. Poświęć go na początku najbliższego "
+"kroku końcowego."
 
 #: ../../DMC.rst:80
 msgid ""
@@ -451,6 +480,8 @@ msgid ""
 "identity. (It can be in any deck whose commander's color identity includes "
 "green.)"
 msgstr ""
+"Ta karta ma wszystkie kolory. Ta zdolność nie wpływa na jej tożsamość. (Może "
+"być w dowolnej talii, której tożsamość dowódcy zawiera zielony.)"
 
 #: ../../DMC.rst:79
 msgid ""
