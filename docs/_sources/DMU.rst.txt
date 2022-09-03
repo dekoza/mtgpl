@@ -95,10 +95,10 @@
    Enlist (As this creature attacks, you may tap a nonattacking creature you control without summoning sickness. When you do, add its power to this creature's until end of turn.)
 
 
-:mtgtip:`Danitha, Benalia's Hope<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/4/845e5663-2959-44ae-b4c6-d6ea41f01d6e.jpg?1661301444|https://scryfall.com/card/dmu/15/danitha-benalias-hope?utm_source=api>`
+:mtgtip:`Danitha, Benalia's Hope<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/4/845e5663-2959-44ae-b4c6-d6ea41f01d6e.jpg?1662076191|https://scryfall.com/card/dmu/15/danitha-benalias-hope?utm_source=api>`
    First strike, vigilance, lifelink
 
-   When Danitha, Benalia's Hope enters the battlefield, you may put an Aura or Equipment card from your hand onto the battlefield attached to Danitha.
+   When Danitha, Benalia's Hope enters the battlefield, you may put an Aura or Equipment card from your hand or graveyard onto the battlefield attached to Danitha.
 
 
 :mtgtip:`Defiler of Faith<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/c/2cfe404d-1a27-4627-9284-56188d92d5d5.jpg?1661336513|https://scryfall.com/card/dmu/16/defiler-of-faith?utm_source=api>`
@@ -209,10 +209,10 @@
    Whenever Samite Herbalist becomes tapped, you gain 1 life and scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
 
 
-:mtgtip:`Serra Paragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/e/ce295f1e-fb31-4275-a5d3-8c6f29afff40.jpg?1661299811|https://scryfall.com/card/dmu/32/serra-paragon?utm_source=api>`
+:mtgtip:`Serra Paragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/e/ce295f1e-fb31-4275-a5d3-8c6f29afff40.jpg?1662148431|https://scryfall.com/card/dmu/32/serra-paragon?utm_source=api>`
    Flying
 
-   Once during each of your turns, you may play a land card from your graveyard or cast a permanent spell with mana value 3 or less from your graveyard. If you do, it gains "When this permanent is put into a graveyard from the battlefield, exile it and you gain 2 life."
+   Once during each of your turns, you may play a land from your graveyard or cast a permanent spell with mana value 3 or less from your graveyard. If you do, it gains "When this permanent is put into a graveyard from the battlefield, exile it and you gain 2 life."
 
 
 :mtgtip:`Shalai's Acolyte<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/9/39996722-e7f2-41e4-aa1e-2b6778d7b535.jpg?1660926966|https://scryfall.com/card/dmu/33/shalais-acolyte?utm_source=api>`

@@ -245,7 +245,7 @@
    Whenever an Archer you control deals damage to a creature, you may pay |mana_2|. If you do, draw a card.
 
 
-:mtgtip:`Orca, Siege Demon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/5/8511fc1e-cff2-4d6c-b9c3-0a7f70ac3528.jpg?1661032886|https://scryfall.com/card/dmc/37/orca-siege-demon?utm_source=api>`
+:mtgtip:`Orca, Siege Demon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/5/8511fc1e-cff2-4d6c-b9c3-0a7f70ac3528.jpg?1662107202|https://scryfall.com/card/dmc/37/orca-siege-demon?utm_source=api>`
    Trample
 
    Whenever another creature dies, put a +1/+1 counter on Orca, Siege Demon.
