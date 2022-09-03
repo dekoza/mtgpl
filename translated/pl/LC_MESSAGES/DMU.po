@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2022.7\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-08-31 21:52+0200\n"
+"POT-Creation-Date: 2022-09-03 23:10+0200\n"
 "PO-Revision-Date: 2022-08-31 21:38+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dmu/pl/>\n"
@@ -215,18 +215,24 @@ msgid "{(g/u/p)}"
 msgstr "{(g/u/p)}"
 
 #: ../../symbols.rst:101
+#, fuzzy
+#| msgid "{(g/u/p)}"
+msgid "{(g/w/p)}"
+msgstr "{(g/u/p)}"
+
+#: ../../symbols.rst:103
 msgid "{S}"
 msgstr "{S}"
 
-#: ../../symbols.rst:103
+#: ../../symbols.rst:105
 msgid "{E}"
 msgstr "{E}"
 
-#: ../../symbols.rst:105
+#: ../../symbols.rst:107
 msgid "{CHAOS}"
 msgstr "{CHAOS}"
 
-#: ../../symbols.rst:107
+#: ../../symbols.rst:109
 msgid "{PW}"
 msgstr "{PW}"
 
@@ -237,7 +243,7 @@ msgstr ""
 #: ../../DMU.rst:14
 msgid ""
 ":mtgtip:`Karn, Living Legacy<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/e/8/e83b1b87-01d5-4624-8a2b-4b771e13e59c.jpg?1661025516|"
+"border_crop/front/e/8/e83b1b87-01d5-4624-8a2b-4b771e13e59c.jpg?1661960562|"
 "https://scryfall.com/card/dmu/1/karn-living-legacy?utm_source=api>`"
 msgstr ""
 
@@ -250,10 +256,15 @@ msgstr ""
 "colorless|. Tej many nie można wydać na rzucenie nieartefaktowego czaru.\")"
 
 #: ../../DMU.rst:11
+#, fuzzy
+#| msgid ""
+#| "−1: Pay any amount of mana. Look at that many cards from the top of your "
+#| "library, then put one of those cards into your hand and rest on the "
+#| "bottom of your library in a random order."
 msgid ""
 "−1: Pay any amount of mana. Look at that many cards from the top of your "
-"library, then put one of those cards into your hand and rest on the bottom "
-"of your library in a random order."
+"library, then put one of those cards into your hand and the rest on the "
+"bottom of your library in a random order."
 msgstr ""
 "–1: Zapłać dowolną ilość many. Spójrz na tyle samo kart z wierzchu twojej "
 "biblioteki, po czym umieść jedną z owych kart w twojej ręce, a pozostałe "
@@ -524,7 +535,7 @@ msgstr ""
 #: ../../DMU.rst:102
 msgid ""
 ":mtgtip:`Danitha, Benalia's Hope<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/8/4/845e5663-2959-44ae-b4c6-d6ea41f01d6e.jpg?1661301444|"
+"border_crop/front/8/4/845e5663-2959-44ae-b4c6-d6ea41f01d6e.jpg?1662076191|"
 "https://scryfall.com/card/dmu/15/danitha-benalias-hope?utm_source=api>`"
 msgstr ""
 
@@ -533,9 +544,14 @@ msgid "First strike, vigilance, lifelink"
 msgstr "Pierwszy cios, czujność, więź życia"
 
 #: ../../DMU.rst:101
+#, fuzzy
+#| msgid ""
+#| "When Danitha, Benalia's Hope enters the battlefield, you may put an Aura "
+#| "or Equipment card from your hand onto the battlefield attached to Danitha."
 msgid ""
 "When Danitha, Benalia's Hope enters the battlefield, you may put an Aura or "
-"Equipment card from your hand onto the battlefield attached to Danitha."
+"Equipment card from your hand or graveyard onto the battlefield attached to "
+"Danitha."
 msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, możesz umieścić kartę Aury lub "
 "Wyposażenia z twojej ręki na polu bitwy dołączoną do niniejszego."
@@ -858,15 +874,21 @@ msgstr ""
 #: ../../DMU.rst:216
 msgid ""
 ":mtgtip:`Serra Paragon<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/c/e/ce295f1e-fb31-4275-a5d3-8c6f29afff40.jpg?1661299811|"
+"border_crop/front/c/e/ce295f1e-fb31-4275-a5d3-8c6f29afff40.jpg?1662148431|"
 "https://scryfall.com/card/dmu/32/serra-paragon?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:215
+#, fuzzy
+#| msgid ""
+#| "Once during each of your turns, you may play a land card from your "
+#| "graveyard or cast a permanent spell with mana value 3 or less from your "
+#| "graveyard. If you do, it gains \"When this permanent is put into a "
+#| "graveyard from the battlefield, exile it and you gain 2 life.\""
 msgid ""
-"Once during each of your turns, you may play a land card from your graveyard "
-"or cast a permanent spell with mana value 3 or less from your graveyard. If "
-"you do, it gains \"When this permanent is put into a graveyard from the "
+"Once during each of your turns, you may play a land from your graveyard or "
+"cast a permanent spell with mana value 3 or less from your graveyard. If you "
+"do, it gains \"When this permanent is put into a graveyard from the "
 "battlefield, exile it and you gain 2 life.\""
 msgstr ""
 "Raz w każdej twojej turze możesz zagrać kartę lądu z twojego cmentarza lub "
@@ -1131,22 +1153,27 @@ msgid ""
 "mana_1|. (Whenever enchanted creature becomes the target of a spell or "
 "ability an opponent controls, counter it unless that player pays |mana_1|.)"
 msgstr ""
-"O ile zauroczony stwór jest legendarny, dostaje +1/+1 i ma straż |mana_1| ("
-"Ilekroć zauroczony stwór zostanie wskazany przez czar lub zdolność pod "
+"O ile zauroczony stwór jest legendarny, dostaje +1/+1 i ma straż |mana_1| "
+"(Ilekroć zauroczony stwór zostanie wskazany przez czar lub zdolność pod "
 "władaniem przeciwnika, skontruj to, chyba że ów gracz zapłaci |mana_1|.)"
 
 #: ../../DMU.rst:306
 msgid ""
 ":mtgtip:`Coral Colony<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/9/c/9c0e3882-1f97-48eb-b9e3-2f9683ff5897.jpg?1661187208|"
+"border_crop/front/9/c/9c0e3882-1f97-48eb-b9e3-2f9683ff5897.jpg?1662015013|"
 "https://scryfall.com/card/dmu/45/coral-colony?utm_source=api>`"
 msgstr ""
 
 #: ../../DMU.rst:305
+#, fuzzy
+#| msgid ""
+#| "|mana_1|\\ |mana_u|, |tap|: Target player mills X cards, where X is the "
+#| "number of cards you control with defender. (To mill a card, a player puts "
+#| "the top card of their library into their graveyard.)"
 msgid ""
 "|mana_1|\\ |mana_u|, |tap|: Target player mills X cards, where X is the "
-"number of cards you control with defender. (To mill a card, a player puts "
-"the top card of their library into their graveyard.)"
+"number of creatures you control with defender. (To mill a card, a player "
+"puts the top card of their library into their graveyard.)"
 msgstr ""
 "|mana_1|\\ |mana_u|, |tap|: Wskazany gracz mieli X kart, gdzie X jest liczbą "
 "stworów pod twoim władaniem mających obronność. (Mieląc kartę gracz "
@@ -1425,7 +1452,7 @@ msgstr ""
 #: ../../DMU.rst:404
 msgid ""
 ":mtgtip:`Phyrexian Espionage<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/0/b/0b983366-385f-41a3-aa46-20151e68d140.jpg?1661419919|"
+"border_crop/front/0/b/0b983366-385f-41a3-aa46-20151e68d140.jpg?1661973407|"
 "https://scryfall.com/card/dmu/60/phyrexian-espionage?utm_source=api>`"
 msgstr ""
 
@@ -3719,8 +3746,8 @@ msgid ""
 msgstr ""
 "Wybierz wskazanego stwora pod twoim władaniem i wskazanego stwora poza twoim "
 "władaniem. Jeśli rzucasz ten czar w twojej fazie głównej, ów stwór pod twoim "
-"władaniem do końca tury dostaje +1/+1. Następnie owe stwory walczą ze sobą. ("
-"Każdy z nich zadaje drugiemu obrażenia równe swojej sile.)"
+"władaniem do końca tury dostaje +1/+1. Następnie owe stwory walczą ze sobą. "
+"(Każdy z nich zadaje drugiemu obrażenia równe swojej sile.)"
 
 #: ../../DMU.rst:1160
 msgid ""
@@ -4435,8 +4462,8 @@ msgid ""
 "Whenever you cast a Dragon creature spell from your graveyard, it gains "
 "\"When this creature dies, exile it.\""
 msgstr ""
-"Ilekroć rzucisz czar stwora typu Smok z twojego cmentarza, zyskuje on \"Kiedy"
-" ten stwór umrze, wygnaj go.\""
+"Ilekroć rzucisz czar stwora typu Smok z twojego cmentarza, zyskuje on "
+"\"Kiedy ten stwór umrze, wygnaj go.\""
 
 #: ../../DMU.rst:1378
 msgid ""
