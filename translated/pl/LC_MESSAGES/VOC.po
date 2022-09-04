@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-14 18:07+0200\n"
+"POT-Creation-Date: 2022-09-04 23:38+0200\n"
 "PO-Revision-Date: 2022-08-31 21:32+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/voc/pl/>\n"
@@ -215,18 +215,24 @@ msgid "{(g/u/p)}"
 msgstr "{(g/u/p)}"
 
 #: ../../symbols.rst:101
+#, fuzzy
+#| msgid "{(g/u/p)}"
+msgid "{(g/w/p)}"
+msgstr "{(g/u/p)}"
+
+#: ../../symbols.rst:103
 msgid "{S}"
 msgstr "{S}"
 
-#: ../../symbols.rst:103
+#: ../../symbols.rst:105
 msgid "{E}"
 msgstr "{E}"
 
-#: ../../symbols.rst:105
+#: ../../symbols.rst:107
 msgid "{CHAOS}"
 msgstr "{CHAOS}"
 
-#: ../../symbols.rst:107
+#: ../../symbols.rst:109
 msgid "{PW}"
 msgstr "{PW}"
 
@@ -465,9 +471,9 @@ msgstr ""
 #| "Sacrifice this artifact: Draw a card.\")"
 msgid ""
 "When Ethereal Investigator enters the battlefield, investigate X times, "
-"where X is the number of opponents you have. (To investigate, create a "
-"colorless Clue artifact token with \"|mana_2|, Sacrifice this artifact: Draw "
-"a card.\")"
+"where X is the number of opponents you have. (To investigate, create a Clue "
+"token. It's an artifact with \"|mana_2|, Sacrifice this artifact: Draw a "
+"card.\")"
 msgstr ""
 "Ilekroć rzucisz czar stwora o skrócie many 3 lub mniejszym, dociekaj. "
 "(Stwórz bezkolorowy artefakt Wskazówka mający \"|mana_2|, poświęć ten "
@@ -498,7 +504,7 @@ msgstr ""
 #: ../../VOC.rst:86
 msgid ""
 ":mtgtip:`Occult Epiphany<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/6/9/6920c895-bc98-4871-a53f-219fa27a74e5.jpg?1641600487|"
+"border_crop/front/6/9/6920c895-bc98-4871-a53f-219fa27a74e5.jpg?1657662504|"
 "https://scryfall.com/card/voc/14/occult-epiphany?utm_source=api>`"
 msgstr ""
 
@@ -788,12 +794,20 @@ msgid ""
 msgstr ""
 
 #: ../../VOC.rst:173
+#, fuzzy
+#| msgid ""
+#| "Whenever you cast a creature spell with mana value 3 or less, "
+#| "investigate. (Create a colorless Clue artifact token with \"|mana_2|, "
+#| "Sacrifice this artifact: Draw a card.\")"
 msgid ""
 "Exile X target creatures, then investigate X times. Return the exiled cards "
 "to the battlefield tapped under their owners' control at the beginning of "
-"the next end step. (To investigate, create a colorless Clue artifact token "
+"the next end step. (To investigate, create a Clue token. It's an artifact "
 "with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
+"Ilekroć rzucisz czar stwora o skrócie many 3 lub mniejszym, dociekaj. "
+"(Stwórz bezkolorowy artefakt Wskazówka mający \"|mana_2|, poświęć ten "
+"artefakt: Dobierz kartę.\")"
 
 #: ../../VOC.rst:178
 msgid ""
@@ -1025,9 +1039,14 @@ msgid ""
 msgstr ""
 
 #: ../../VOC.rst:253
+#, fuzzy
+#| msgid ""
+#| "Whenever you cast a creature spell with mana value 3 or less, "
+#| "investigate. (Create a colorless Clue artifact token with \"|mana_2|, "
+#| "Sacrifice this artifact: Draw a card.\")"
 msgid ""
 "Whenever you cast a creature spell with mana value 3 or less, investigate. "
-"(Create a colorless Clue artifact token with \"|mana_2|, Sacrifice this "
+"(Create a Clue token. It's an artifact with \"|mana_2|, Sacrifice this "
 "artifact: Draw a card.\")"
 msgstr ""
 "Ilekroć rzucisz czar stwora o skrócie many 3 lub mniejszym, dociekaj. "
@@ -2519,8 +2538,16 @@ msgid ""
 msgstr ""
 
 #: ../../VOC.rst:775
-msgid "Equipped creature has hexproof and haste."
-msgstr "Wyposażony stwór ma antyklątwę i pośpiech."
+#, fuzzy
+#| msgid ""
+#| "Hexproof (This creature can't be the target of spells or abilities your "
+#| "opponents control.)"
+msgid ""
+"Equipped creature has hexproof and haste. (It can't be the target of spells "
+"or abilities your opponents control.)"
+msgstr ""
+"Antyklątwa (Ten stwór nie może być wskazywany przez czary lub zdolności pod "
+"władaniem twoich przeciwników.)"
 
 #: ../../VOC.rst:777
 msgid "Equip |mana_1|"
@@ -2834,3 +2861,6 @@ msgid ""
 msgstr ""
 "|tap|: Weź jedną manę w dowolnym kolorze. Wydaj tę manę tylko na rzucenie "
 "czaru stwora owego wybranego typu."
+
+#~ msgid "Equipped creature has hexproof and haste."
+#~ msgstr "Wyposażony stwór ma antyklątwę i pośpiech."
