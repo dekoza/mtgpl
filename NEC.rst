@@ -21,7 +21,7 @@
    At the beginning of your end step, goad each creature your opponents control that's enchanted by an Aura you control. Put a +1/+1 counter on Kaima, the Fractured Calm for each creature goaded this way. (Until your next turn, the goaded creatures attack each combat if able and attack a player other than you if able.)
 
 
-:mtgtip:`Shorikai, Genesis Engine<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/6/969ac7dd-f3aa-4888-9ff0-d16a31b5e7a9.jpg?1651655157|https://scryfall.com/card/nec/4/shorikai-genesis-engine?utm_source=api>`
+:mtgtip:`Shorikai, Genesis Engine<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/6/969ac7dd-f3aa-4888-9ff0-d16a31b5e7a9.jpg?1653966849|https://scryfall.com/card/nec/4/shorikai-genesis-engine?utm_source=api>`
    |mana_1|, |tap|: Draw two cards, then discard a card. Create a 1/1 colorless Pilot creature token with "This creature crews Vehicles as though its power were 2 greater."
 
    Crew 8 (Tap any number of creatures you control with total power 8 or more: This Vehicle becomes an artifact creature until end of turn.)
@@ -710,7 +710,7 @@
 
 
 :mtgtip:`Swiftfoot Boots<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/e/ee23ba9f-3f5e-4fe4-95f8-3dd464db997b.jpg?1651656405|https://scryfall.com/card/nec/163/swiftfoot-boots?utm_source=api>`
-   Equipped creature has hexproof and haste.
+   Equipped creature has hexproof and haste. (It can't be the target of spells or abilities your opponents control.)
 
    Equip |mana_1|
 

@@ -1,7 +1,4 @@
 expansions = {
-    "BRO",
-    
-
     "10E",
     "2ED",
     "2X2",
@@ -32,6 +29,7 @@ expansions = {
     "BFZ",
     "BNG",
     "BOK",
+    "BRO",
     "C13",
     "C14",
     "C15",
@@ -117,6 +115,7 @@ expansions = {
     "MOR",
     "MRD",
     "NCC",
+    "NEC",
     "NEM",
     "NEO",
     "NPH",
@@ -151,6 +150,7 @@ expansions = {
     "UMA",
     "USG",
     "VIS",
+    "VOC",
     "VOW",
     "WAR",
     "WTH",

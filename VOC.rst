@@ -72,7 +72,7 @@
 :mtgtip:`Ethereal Investigator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/8/a81b1492-ef70-4d8d-9458-c25a084107a7.jpg?1641600432|https://scryfall.com/card/voc/12/ethereal-investigator?utm_source=api>`
    Flying
 
-   When Ethereal Investigator enters the battlefield, investigate X times, where X is the number of opponents you have. (To investigate, create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
+   When Ethereal Investigator enters the battlefield, investigate X times, where X is the number of opponents you have. (To investigate, create a Clue token. It's an artifact with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
    Whenever you draw your second card each turn, create a 1/1 white Spirit creature token with flying.
 
@@ -81,7 +81,7 @@
    Each player reveals the top card of their library. For each creature card revealed this way, create a token that's a copy of that card, except it's 1/1, it's a Spirit in addition to its other types, and it has flying. If no creature cards were revealed this way, return Haunting Imitation to its owner's hand.
 
 
-:mtgtip:`Occult Epiphany<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/9/6920c895-bc98-4871-a53f-219fa27a74e5.jpg?1641600487|https://scryfall.com/card/voc/14/occult-epiphany?utm_source=api>`
+:mtgtip:`Occult Epiphany<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/9/6920c895-bc98-4871-a53f-219fa27a74e5.jpg?1657662504|https://scryfall.com/card/voc/14/occult-epiphany?utm_source=api>`
    Draw X cards, then discard X cards. Create a 1/1 white Spirit creature token with flying for each card type among cards discarded this way.
 
 
@@ -170,7 +170,7 @@
 
 
 :mtgtip:`Disorder in the Court<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/7/576bee63-54d8-4d5c-ab30-6c9b2a72a501.jpg?1641600956|https://scryfall.com/card/voc/29/disorder-in-the-court?utm_source=api>`
-   Exile X target creatures, then investigate X times. Return the exiled cards to the battlefield tapped under their owners' control at the beginning of the next end step. (To investigate, create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
+   Exile X target creatures, then investigate X times. Return the exiled cards to the battlefield tapped under their owners' control at the beginning of the next end step. (To investigate, create a Clue token. It's an artifact with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
 
 :mtgtip:`Sinister Waltz<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/4/e44f81b2-768f-4874-99e3-2f87b73b0159.jpg?1641600983|https://scryfall.com/card/voc/30/sinister-waltz?utm_source=api>`
@@ -250,7 +250,7 @@
 :mtgtip:`Bygone Bishop<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/8/3883a621-b226-465f-bcc6-73adf2050514.jpg?1641601094|https://scryfall.com/card/voc/80/bygone-bishop?utm_source=api>`
    Flying
 
-   Whenever you cast a creature spell with mana value 3 or less, investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
+   Whenever you cast a creature spell with mana value 3 or less, investigate. (Create a Clue token. It's an artifact with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
 
 :mtgtip:`Crush Contraband<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/b/db041d7f-253f-4643-b635-24d0e79695af.jpg?1641601120|https://scryfall.com/card/voc/81/crush-contraband?utm_source=api>`
@@ -772,7 +772,7 @@
 
 
 :mtgtip:`Swiftfoot Boots<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/9/99d75dbd-6fd2-479d-a5c7-272b4be21d8b.jpg?1641603930|https://scryfall.com/card/voc/169/swiftfoot-boots?utm_source=api>`
-   Equipped creature has hexproof and haste.
+   Equipped creature has hexproof and haste. (It can't be the target of spells or abilities your opponents control.)
 
    Equip |mana_1|
 

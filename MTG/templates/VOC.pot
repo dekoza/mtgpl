@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2022.9\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-09-01 18:04+0200\n"
+"POT-Creation-Date: 2022-09-04 23:38+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -558,7 +558,7 @@ msgid ":mtgtip:`Ethereal Investigator<https://c1.scryfall.com/file/scryfall-card
 msgstr ""
 
 #: ../../VOC.rst:75
-msgid "When Ethereal Investigator enters the battlefield, investigate X times, where X is the number of opponents you have. (To investigate, create a colorless Clue artifact token with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
+msgid "When Ethereal Investigator enters the battlefield, investigate X times, where X is the number of opponents you have. (To investigate, create a Clue token. It's an artifact with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
 
 #: ../../VOC.rst:77
@@ -574,7 +574,7 @@ msgid "Each player reveals the top card of their library. For each creature card
 msgstr ""
 
 #: ../../VOC.rst:86
-msgid ":mtgtip:`Occult Epiphany<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/9/6920c895-bc98-4871-a53f-219fa27a74e5.jpg?1641600487|https://scryfall.com/card/voc/14/occult-epiphany?utm_source=api>`"
+msgid ":mtgtip:`Occult Epiphany<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/9/6920c895-bc98-4871-a53f-219fa27a74e5.jpg?1657662504|https://scryfall.com/card/voc/14/occult-epiphany?utm_source=api>`"
 msgstr ""
 
 #: ../../VOC.rst:85
@@ -750,7 +750,7 @@ msgid ":mtgtip:`Disorder in the Court<https://c1.scryfall.com/file/scryfall-card
 msgstr ""
 
 #: ../../VOC.rst:173
-msgid "Exile X target creatures, then investigate X times. Return the exiled cards to the battlefield tapped under their owners' control at the beginning of the next end step. (To investigate, create a colorless Clue artifact token with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
+msgid "Exile X target creatures, then investigate X times. Return the exiled cards to the battlefield tapped under their owners' control at the beginning of the next end step. (To investigate, create a Clue token. It's an artifact with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
 
 #: ../../VOC.rst:178
@@ -890,7 +890,7 @@ msgid ":mtgtip:`Bygone Bishop<https://c1.scryfall.com/file/scryfall-cards/border
 msgstr ""
 
 #: ../../VOC.rst:253
-msgid "Whenever you cast a creature spell with mana value 3 or less, investigate. (Create a colorless Clue artifact token with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
+msgid "Whenever you cast a creature spell with mana value 3 or less, investigate. (Create a Clue token. It's an artifact with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
 
 #: ../../VOC.rst:262
@@ -1803,7 +1803,7 @@ msgid ":mtgtip:`Swiftfoot Boots<https://c1.scryfall.com/file/scryfall-cards/bord
 msgstr ""
 
 #: ../../VOC.rst:775
-msgid "Equipped creature has hexproof and haste."
+msgid "Equipped creature has hexproof and haste. (It can't be the target of spells or abilities your opponents control.)"
 msgstr ""
 
 #: ../../VOC.rst:777
