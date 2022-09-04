@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2022.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-03 23:10+0200\n"
-"PO-Revision-Date: 2022-09-04 20:28+0000\n"
+"PO-Revision-Date: 2022-09-04 21:08+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dmc/pl/>\n"
 "Language: pl\n"
@@ -494,6 +494,10 @@ msgid ""
 "those spells. Each creature you tap while casting a multicolored spell pays "
 "for |mana_1| or one mana of a color that creature is.)"
 msgstr ""
+"Rzucane przez ciebie wielokolorowe czary mają współpracę. (Twoje stwory mogą "
+"pomóc rzucić owe czary. Każdy stwór przekręcony podczas rzucania "
+"wielokolorowego czaru płaci za |mana_1| lub jedną manę w kolorze owego "
+"stwora.)"
 
 #: ../../DMC.rst:84
 msgid ""
@@ -518,6 +522,8 @@ msgid ""
 "If Primeval Spawn would enter the battlefield and it wasn't cast or no mana "
 "was spent to cast it, exile it instead."
 msgstr ""
+"Jeśli niniejszy miałby wejść na pole bitwy a nie został rzucony lub na "
+"rzucenie go nie wydano many, zamiast tego wygnaj go."
 
 #: ../../DMC.rst:89
 msgid "Vigilance, trample, lifelink"
@@ -529,6 +535,9 @@ msgid ""
 "library. You may cast any number of spells with total mana value 10 or less "
 "from among them without paying their mana costs."
 msgstr ""
+"Kiedy ten byt opuści pole bitwy, wygnaj dziesięć wierzchnich kart twojej "
+"biblioteki. Możesz spośród nich rzucić dowolną liczbę czarów o sumie skrótów "
+"many 10 lub mniej bez płacenia ich kosztów many."
 
 #: ../../DMC.rst:98
 msgid ""
@@ -593,6 +602,9 @@ msgid ""
 "to activate it, you may pay that much life again. If you do, copy that "
 "ability. You may choose new targets for the copy."
 msgstr ""
+"Ilekroć aktywujesz zdolność nie dającą many, jeśli zapłacono życie do jej "
+"aktywacji, możesz ponownie zapłacić tyle samo żyć. Jeśli tak zrobisz, "
+"skopiuj ową zdolność. Możesz wskazać nowe cele dla owej kopii."
 
 #: ../../DMC.rst:126
 msgid ""
@@ -620,6 +632,9 @@ msgid ""
 "battlefield tapped all artifact, creature, enchantment, and land cards in "
 "your graveyard that were put there from the battlefield this turn."
 msgstr ""
+"|mana_4|, |tap|, wygnaj ten byt: Przywróć z twojego cmentarza na pole bitwy "
+"przekręcone wszystkie karty artefaktów, stworów, uroków i lądów, które "
+"trafiły tam z pola bitwy w tej turze."
 
 #: ../../DMC.rst:134
 msgid ""
@@ -663,6 +678,10 @@ msgid ""
 "another legendary source that's not a commander. You may choose new targets "
 "for the copy. (Mana abilities can't be targeted.)"
 msgstr ""
+"|mana_1|, |tap|: Skopiuj wskazaną aktywowaną lub wyzwalaną zdolność pod "
+"twoim władaniem z innego legendarnego źródła nie będącego dowódcą. Możesz "
+"wskazać nowe cele dla owej kopii. (Zdolności dających manę nie można "
+"wskazać.)"
 
 #: ../../DMC.rst:148
 msgid ""
@@ -676,14 +695,16 @@ msgid ""
 "Whenever a land enters the battlefield tapped and under your control, choose "
 "one —"
 msgstr ""
+"Ilekroć ląd wejdzie przekręcony na pole bitwy pod twoim władaniem, wybierz "
+"jedno —"
 
 #: ../../DMC.rst:145
 msgid "Untap that land."
-msgstr ""
+msgstr "Odkręć ów ląd."
 
 #: ../../DMC.rst:147
 msgid "Tap target nonland permanent an opponent controls."
-msgstr ""
+msgstr "Przekręć wskazany nielądowy byt pod władaniem przeciwnika."
 
 #: ../../DMC.rst:154
 msgid ""
@@ -724,6 +745,8 @@ msgid ""
 "Robaran Mercenaries has all activated abilties of all legendary creatures "
 "you control."
 msgstr ""
+"Ten byt ma wszystkie aktywowane zdolności wszystkich legendarnych stworów "
+"pod twoim władaniem."
 
 #: ../../DMC.rst:168
 msgid ""
@@ -739,7 +762,7 @@ msgstr ""
 
 #: ../../DMC.rst:165
 msgid "You may cast Merfolk spells from the top of your library."
-msgstr ""
+msgstr "Możesz rzucać czary typu Wodnik z wierzchu twojej biblioteki."
 
 #: ../../DMC.rst:167
 msgid ""
@@ -762,6 +785,9 @@ msgid ""
 "creature card in a graveyard that was put there from the battlefield this "
 "turn, except it's a Phyrexian in addition to its other types."
 msgstr ""
+"Możesz zdecydować, że niniejszy wejdzie na pole bitwy jako kopią dowolnej "
+"karty stwora w cmentarzu, która trafiła tam z pola bitwy w tej turze, ale "
+"jest on dodatkowo typu Phyrexian oprócz jego innych typów."
 
 #: ../../DMC.rst:180
 msgid ""
@@ -784,6 +810,8 @@ msgid ""
 "Heroic — Whenever you cast a spell that targets Rosnakht, Heir of Rohgahh, "
 "create a 0/1 red Kobold creature token named Kobolds of Kher Keep."
 msgstr ""
+"Heroizm — Ilekroć rzucisz czar wskazujący tylko niniejszego, stwórz żeton "
+"czerwonego stwora Kobold 0/1 o nazwie Koboldy z Kher Keep."
 
 #: ../../DMC.rst:186
 msgid ""
@@ -802,6 +830,9 @@ msgid ""
 "ability costs |mana_x| less to activate, where X is the greatest power among "
 "Wurms you control."
 msgstr ""
+"|mana_7|\\ |mana_g|, |tap|: Stwórz żeton zielonego stwora Żmij 4/4. "
+"Aktywacja tej zdolności kosztuje o |mana_x| mniej, gdzie X jest największą "
+"siłą pośród Żmijów pod twoim władaniem."
 
 #: ../../DMC.rst:194
 msgid ""
@@ -813,13 +844,15 @@ msgstr ""
 
 #: ../../DMC.rst:189
 msgid "Protection from planeswalkers and from Wizards"
-msgstr ""
+msgstr "Ochrona przed wędrowcami i przez Czarodziejami"
 
 #: ../../DMC.rst:191
 msgid ""
 "Greensleeves, Maro-Sorcerer's power and toughness are each equal to the "
 "number of lands you control."
 msgstr ""
+"Siła i wytrzymałość tej karty są obie równe liczbie lądów pod twoim "
+"władaniem."
 
 #: ../../DMC.rst:193
 msgid ""
@@ -870,12 +903,18 @@ msgid ""
 "or equal to Ayesha's power from among them onto the battlefield tapped. Put "
 "the rest on the bottom of your library in a random order."
 msgstr ""
+"Ilekroć niniejszy zaatakuje, spójrz na cztery wierzchnie karty twojej "
+"biblioteki. Możesz spośród nich umieścić dowolną liczbę kart artefaktów o "
+"skrócie many mniejszym lub równym siły niniejszego przekręcone na polu "
+"bitwy. Umieść pozostałe losowo na spodzie twojej biblioteki."
 
 #: ../../DMC.rst:205
 msgid ""
 "Ayesha can't be blocked as long as defending player controls three or more "
 "artifacts."
 msgstr ""
+"Niniejszy nie może być blokowany o ile broniący się gracz włada co najmniej "
+"trzema artefaktami."
 
 #: ../../DMC.rst:210
 msgid ""
@@ -889,6 +928,8 @@ msgid ""
 "|mana_1|, Sacrifice another creature: The Ever-Changing 'Dane becomes a copy "
 "of the sacrificed creature, except it has this ability."
 msgstr ""
+"|mana_1|, poświęć innego stwora: Niniejszy staję się kopią owego "
+"poświęconego stwora, ale ma tę zdolność."
 
 #: ../../DMC.rst:214
 msgid ""
@@ -918,10 +959,12 @@ msgid ""
 "Desertwalk (This creature can't be blocked as long as defending player "
 "controls a Desert.)"
 msgstr ""
+"Podbój pustyń (Ten stwór nie może być blokowany o ile broniący się gracz "
+"włada Pustynią.)"
 
 #: ../../DMC.rst:219
 msgid "You may play Desert lands from your graveyard."
-msgstr ""
+msgstr "Możesz grać Pustynie z twojego cmentarza."
 
 #: ../../DMC.rst:221
 msgid ""
@@ -942,12 +985,16 @@ msgid ""
 "|tap|: Add |mana_g|\\ |mana_w|. Spend this mana only to cast creature spells "
 "with no abilities."
 msgstr ""
+"|tap|: Weź |mana_g|\\ |mana_w|. Wydaj tę manę tylko na rzucenie czaru stwora "
+"bez zdolności."
 
 #: ../../DMC.rst:227
 msgid ""
 "Creatures you control with no abilities can't be blocked by creatures with "
 "abilities."
 msgstr ""
+"Stwory pod twoim władaniem nie mające zdolności nie mogą być blokowane przez "
+"stwory mające zdolności."
 
 #: ../../DMC.rst:232
 msgid ""
