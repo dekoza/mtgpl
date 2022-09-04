@@ -543,7 +543,7 @@
    (|tap|: Add |mana_b|.)
 
 
-:mtgtip:`Arcane Signet<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/a/eae6e393-315b-4f70-9da2-c58003e2813d.jpg?1661550969|https://scryfall.com/card/anb/117/arcane-signet?utm_source=api>`
+:mtgtip:`Arcane Signet<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/a/eae6e393-315b-4f70-9da2-c58003e2813d.jpg?1662251936|https://scryfall.com/card/anb/117/arcane-signet?utm_source=api>`
    |tap|: Add one mana of any color in your commander's color identity.
 
 
