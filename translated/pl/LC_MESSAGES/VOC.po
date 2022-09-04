@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.11\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-04 23:38+0200\n"
-"PO-Revision-Date: 2022-08-31 21:32+0000\n"
+"PO-Revision-Date: 2022-09-04 21:48+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/voc/pl/>\n"
 "Language: pl\n"
@@ -215,10 +215,8 @@ msgid "{(g/u/p)}"
 msgstr "{(g/u/p)}"
 
 #: ../../symbols.rst:101
-#, fuzzy
-#| msgid "{(g/u/p)}"
 msgid "{(g/w/p)}"
-msgstr "{(g/u/p)}"
+msgstr "{(g/w/p)}"
 
 #: ../../symbols.rst:103
 msgid "{S}"
@@ -464,20 +462,15 @@ msgid ""
 msgstr ""
 
 #: ../../VOC.rst:75
-#, fuzzy
-#| msgid ""
-#| "Whenever you cast a creature spell with mana value 3 or less, "
-#| "investigate. (Create a colorless Clue artifact token with \"|mana_2|, "
-#| "Sacrifice this artifact: Draw a card.\")"
 msgid ""
 "When Ethereal Investigator enters the battlefield, investigate X times, "
 "where X is the number of opponents you have. (To investigate, create a Clue "
 "token. It's an artifact with \"|mana_2|, Sacrifice this artifact: Draw a "
 "card.\")"
 msgstr ""
-"Ilekroć rzucisz czar stwora o skrócie many 3 lub mniejszym, dociekaj. "
-"(Stwórz bezkolorowy artefakt Wskazówka mający \"|mana_2|, poświęć ten "
-"artefakt: Dobierz kartę.\")"
+"Kiedy ten byt wejdzie na pole bitwy, dociekaj X razy, gdzie X jest liczbą "
+"twoich przeciwników. (Dociekając stwórz żeton Wskazówki. To artefakt mający "
+"\"|mana_2|, poświęć ten artefakt: Dobierz kartę.\")"
 
 #: ../../VOC.rst:77
 msgid ""
@@ -609,18 +602,13 @@ msgid "Lifelink"
 msgstr "Więź życia"
 
 #: ../../VOC.rst:121
-#, fuzzy
-#| msgid ""
-#| "Whenever you cast a creature spell with mana value 3 or less, "
-#| "investigate. (Create a colorless Clue artifact token with \"|mana_2|, "
-#| "Sacrifice this artifact: Draw a card.\")"
 msgid ""
 "Whenever a creature an opponent controls dies, you gain 1 life and create a "
 "Blood token. (It's an artifact with \"|mana_1|, |tap|, Discard a card, "
 "Sacrifice this artifact: Draw a card.\")"
 msgstr ""
-"Ilekroć rzucisz czar stwora o skrócie many 3 lub mniejszym, dociekaj. "
-"(Stwórz bezkolorowy artefakt Wskazówka mający \"|mana_2|, poświęć ten "
+"Ilekroć umrze stwór pod władaniem przeciwnika, zyskaj 1 życie i stwórz żeton "
+"Krwi. (To artefakt mający \"|mana_1|, |tap|, odrzuć kartę, poświęć ten "
 "artefakt: Dobierz kartę.\")"
 
 #: ../../VOC.rst:126
@@ -794,20 +782,16 @@ msgid ""
 msgstr ""
 
 #: ../../VOC.rst:173
-#, fuzzy
-#| msgid ""
-#| "Whenever you cast a creature spell with mana value 3 or less, "
-#| "investigate. (Create a colorless Clue artifact token with \"|mana_2|, "
-#| "Sacrifice this artifact: Draw a card.\")"
 msgid ""
 "Exile X target creatures, then investigate X times. Return the exiled cards "
 "to the battlefield tapped under their owners' control at the beginning of "
 "the next end step. (To investigate, create a Clue token. It's an artifact "
 "with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
-"Ilekroć rzucisz czar stwora o skrócie many 3 lub mniejszym, dociekaj. "
-"(Stwórz bezkolorowy artefakt Wskazówka mający \"|mana_2|, poświęć ten "
-"artefakt: Dobierz kartę.\")"
+"Wygnaj X wskazanych stworów, po czym dociekaj X razy. Przywróć owe wygnane "
+"karty na pole bitwy przekręcone pod władaniem ich właścicieli na początku "
+"najbliższego kroku końcowego. (Dociekając stwórz żeton Wskazówki. To "
+"artefakt mający \"|mana_2|, poświęć ten artefakt: Dobierz kartę.\")"
 
 #: ../../VOC.rst:178
 msgid ""
@@ -1039,19 +1023,14 @@ msgid ""
 msgstr ""
 
 #: ../../VOC.rst:253
-#, fuzzy
-#| msgid ""
-#| "Whenever you cast a creature spell with mana value 3 or less, "
-#| "investigate. (Create a colorless Clue artifact token with \"|mana_2|, "
-#| "Sacrifice this artifact: Draw a card.\")"
 msgid ""
 "Whenever you cast a creature spell with mana value 3 or less, investigate. "
 "(Create a Clue token. It's an artifact with \"|mana_2|, Sacrifice this "
 "artifact: Draw a card.\")"
 msgstr ""
-"Ilekroć rzucisz czar stwora o skrócie many 3 lub mniejszym, dociekaj. "
-"(Stwórz bezkolorowy artefakt Wskazówka mający \"|mana_2|, poświęć ten "
-"artefakt: Dobierz kartę.\")"
+"Ilekroć rzucisz czar stwora o skrócie many 3 lub mniejszym, dociekaj. ("
+"Stwórz żeton Wskazówki. To artefakt mający \"|mana_2|, poświęć ten artefakt: "
+"Dobierz kartę.\")"
 
 #: ../../VOC.rst:262
 msgid ""
@@ -2538,16 +2517,12 @@ msgid ""
 msgstr ""
 
 #: ../../VOC.rst:775
-#, fuzzy
-#| msgid ""
-#| "Hexproof (This creature can't be the target of spells or abilities your "
-#| "opponents control.)"
 msgid ""
 "Equipped creature has hexproof and haste. (It can't be the target of spells "
 "or abilities your opponents control.)"
 msgstr ""
-"Antyklątwa (Ten stwór nie może być wskazywany przez czary lub zdolności pod "
-"władaniem twoich przeciwników.)"
+"Wyposażony stwór ma pośpiech i antyklątwę. (Ten stwór nie może być "
+"wskazywany przez czary lub zdolności pod władaniem twoich przeciwników.)"
 
 #: ../../VOC.rst:777
 msgid "Equip |mana_1|"
