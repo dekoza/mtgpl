@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2022.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-03 23:10+0200\n"
-"PO-Revision-Date: 2022-09-04 21:08+0000\n"
+"PO-Revision-Date: 2022-09-04 21:21+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dmc/pl/>\n"
 "Language: pl\n"
@@ -971,6 +971,8 @@ msgid ""
 "Whenever a Desert enters the battlefield under your control, create two 1/1 "
 "red, green, and white Sand Warrior creature tokens."
 msgstr ""
+"Ilekroć Pustynia wejdzie na pole bitwy pod twoim władaniem, stwórz dwa "
+"żetony czerwono-zielono-białego stwora Piaskowy Wojownik."
 
 #: ../../DMC.rst:228
 msgid ""
@@ -1687,6 +1689,9 @@ msgid ""
 "counters from Ashling the Pilgrim, and it deals that much damage to each "
 "creature and each player."
 msgstr ""
+"|mana_1|\\ |mana_r|: Umieść znacznik +1/+1 na niniejszym. Jeśli ta zdolność "
+"jest rozpatrzona po raz trzeci w tej turze, usuń wszystkie znaczniki +1/+1 z "
+"niniejszego i zadaje on tyle obrażeń każdemu stworowi i graczowi."
 
 #: ../../DMC.rst:456
 msgid ""
@@ -2054,12 +2059,15 @@ msgid ""
 "As long as Archelos, Lagoon Mystic is tapped, other permanents enter the "
 "battlefield tapped."
 msgstr ""
+"O ile niniejszy jest przekręcony, inne byty wchodzą na pole bitwy "
+"przekręcone."
 
 #: ../../DMC.rst:565
 msgid ""
 "As long as Archelos is untapped, other permanents enter the battlefield "
 "untapped."
 msgstr ""
+"O ile niniejszy jest odkręcony, inne byty wchodzą na pole bitwy odkręcone."
 
 #: ../../DMC.rst:572
 msgid ""
@@ -2134,19 +2142,23 @@ msgstr ""
 
 #: ../../DMC.rst:591
 msgid "Note the mana value of each card as it's put into exile."
-msgstr ""
+msgstr "Notuj skrót many każdej karty umieszczanej na wygnaniu."
 
 #: ../../DMC.rst:593
 msgid ""
 "Bell Borca, Spectral Sergeant's power is equal to the greatest number noted "
 "for it this turn."
 msgstr ""
+"Siła tej karty jest równa najwyższej liczbie zanotowanej z jej powodu w tej "
+"turze."
 
 #: ../../DMC.rst:595
 msgid ""
 "At the beginning of your upkeep, exile the top card of your library. You may "
 "play that card this turn."
 msgstr ""
+"Na początku twojego kroku utrzymania, wygnaj wierzchnią kartę twojej "
+"biblioteki. Możesz zagrać ową kartę w tej turze."
 
 #: ../../DMC.rst:604
 msgid ""
@@ -2911,6 +2923,7 @@ msgstr ""
 msgid ""
 "Tap an untapped legendary permanent you control: Untap Honor-Worn Shaku."
 msgstr ""
+"Przekręć odkręcony legendarny byt pod twoim władaniem: Odkręć niniejszy."
 
 #: ../../DMC.rst:872
 msgid ""
@@ -2982,7 +2995,7 @@ msgstr ""
 
 #: ../../DMC.rst:891
 msgid "|tap|: Target legendary creature gets +2/+2 until end of turn."
-msgstr ""
+msgstr "|tap|: Wskazany legendarny stwór do końca tury dostaje +2/+2."
 
 #: ../../DMC.rst:898
 msgid ""
@@ -2996,6 +3009,8 @@ msgid ""
 "Equipped creature gets +1/+1. As long as it's legendary, it gets an "
 "additional +2/+2. As long as it's red, it has trample."
 msgstr ""
+"Wyposażony stwór dostaje +1/+1. O ile jest legendarny, dostaje dodatkowe +2/+"
+"2. O ile jest czerwony, ma tratowanie."
 
 #: ../../DMC.rst:897
 msgid ""
@@ -3064,7 +3079,7 @@ msgstr ""
 
 #: ../../DMC.rst:919
 msgid "Bad River enters the battlefield tapped."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../DMC.rst:921
 msgid ""
@@ -3630,6 +3645,8 @@ msgstr ""
 msgid ""
 "|mana_2|\\ |mana_r|, |tap|: Shivan Gorge deals 1 damage to each opponent."
 msgstr ""
+"|mana_2|\\ |mana_r|, |tap|: Niniejszy zadaje każdemu przeciwnikowi po 1 "
+"obrażeniu."
 
 #: ../../DMC.rst:1146
 msgid ""
