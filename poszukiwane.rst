@@ -187,8 +187,6 @@ Secret Lair Drop
    :target: https://scryfall.com/card/sld/466/island?utm_source=api
 .. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/7/5/75d5a81e-1efc-46f3-b169-0422cbc8cd5e.jpg?1649270120
    :target: https://scryfall.com/card/sld/476/forest?utm_source=api
-.. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/9/f/9ff9fe02-124c-4d5c-8526-a763272e05f4.jpg?1657120196
-   :target: https://scryfall.com/card/sld/488/forest?utm_source=api
 .. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/3/7/3733ca13-1398-4f8f-a885-4b0b2c498d2b.jpg?1655341221
    :target: https://scryfall.com/card/sld/540/plains?utm_source=api
 .. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/7/9/796f129d-912f-400b-8077-7b2873ec2040.jpg?1645635118

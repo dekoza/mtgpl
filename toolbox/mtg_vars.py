@@ -438,7 +438,6 @@ missing_cards = {
         "https://scryfall.com/card/sld/452/forest",
         "https://scryfall.com/card/sld/466/island",
         "https://scryfall.com/card/sld/476/forest",
-        "https://scryfall.com/card/sld/488/forest",
         "https://scryfall.com/card/sld/540/plains",
         "https://scryfall.com/card/sld/541/plains",
         "https://scryfall.com/card/sld/542/plains",
