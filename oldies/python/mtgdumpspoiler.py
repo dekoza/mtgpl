@@ -1,9 +1,10 @@
 #!/usr/bin/env python2
 # coding: utf-8
-from mtglib.gatherer_request import SearchRequest
-from mtglib.card_extractor import CardExtractor
-from django.utils.encoding import smart_str
 import re
+
+from django.utils.encoding import smart_str
+from mtglib.card_extractor import CardExtractor
+from mtglib.gatherer_request import SearchRequest
 
 
 def manarepl(match):

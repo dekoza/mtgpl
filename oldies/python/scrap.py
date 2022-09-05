@@ -1,6 +1,6 @@
 # coding: utf-8
 
-from scrapy.item import Item, Field
+from scrapy.item import Field, Item
 from scrapy.spider import BaseSpider
 
 

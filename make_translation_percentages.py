@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 
-import polib
 import os
 import pathlib
 
+import polib
 
 CURRENT_DIR = pathlib.Path(__file__).parent
 trans_dir = CURRENT_DIR / "translated/pl/LC_MESSAGES"

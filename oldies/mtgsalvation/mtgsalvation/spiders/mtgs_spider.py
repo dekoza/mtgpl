@@ -1,7 +1,7 @@
 # coding: utf-8
-from scrapy.spider import BaseSpider
-from scrapy.selector import HtmlXPathSelector
 from mtgsalvation.items import CardItem
+from scrapy.selector import HtmlXPathSelector
+from scrapy.spider import BaseSpider
 
 
 def normalize_mana_cost(text):

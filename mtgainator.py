@@ -1,19 +1,19 @@
 #!/usr/bin/env python3
-from typing import TypedDict, Mapping, Optional
-
-import typer
-from decouple import config
-from pathlib import Path
-import shutil
-import polib
-import json
 import hashlib
+import json
 import os
 import re
+import shutil
 import zipfile
 from datetime import date
+from pathlib import Path
+from typing import Mapping, Optional, TypedDict
 
-from toolbox.mtg_vars import mtga_rev_map, mtga_cost_map, cardtype_trans
+import polib
+import typer
+from decouple import config
+
+from toolbox.mtg_vars import cardtype_trans, mtga_cost_map, mtga_rev_map
 
 MTGA_DIR = config("MTGA_DIR")
 SUBSTITUTE_LANG = config("SUBSTITUTE_LANG", default="pt-BR")

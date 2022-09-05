@@ -1,8 +1,8 @@
 #!/usr/bin/env python2
 # coding: utf-8
-from mtglib.gatherer_request import SearchRequest
-from mtglib.card_extractor import CardExtractor
 from django.utils.encoding import smart_str
+from mtglib.card_extractor import CardExtractor
+from mtglib.gatherer_request import SearchRequest
 
 # ~ sets = [('Return to Ravnica', 'RTR'), ('Gatecrash', 'GTC'), ("Dragon's Maze", 'DGM'), ('Magic 2014 Core Set', 'M14')]
 # sets = [('Theros', 'THS'),]

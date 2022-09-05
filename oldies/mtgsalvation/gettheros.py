@@ -2,19 +2,20 @@
 # coding: utf-8
 # from mtglib.gatherer_request import SearchRequest
 # from mtglib.card_extractor import CardExtractor
-from django.utils.encoding import smart_str
-
 import os
+
+from django.utils.encoding import smart_str
 
 os.environ.setdefault(
     "SCRAPY_SETTINGS_MODULE", "mtgsalvation.settings"
 )  # Must be at the top before other imports
 
-from scrapy import log, signals, project
-from scrapy.xlib.pydispatch import dispatcher
+from multiprocessing import Process, Queue
+
+from scrapy import log, project, signals
 from scrapy.conf import settings
 from scrapy.crawler import CrawlerProcess
-from multiprocessing import Process, Queue
+from scrapy.xlib.pydispatch import dispatcher
 
 
 class CrawlerScript:

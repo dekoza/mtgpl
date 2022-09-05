@@ -3,21 +3,59 @@ import shutil
 import tempfile
 from collections import defaultdict
 from typing import Iterable
+
+import appdirs
 import httpx
+import pendulum
 import trio
-from anyio import open_file
-from toolbox.mtg_vars import card_template, symbols_map, missing_cards
+from anyio import Path, open_file
+
+from toolbox.mtg_vars import card_template, missing_cards, symbols_map
+
+data_save_path = Path(appdirs.user_data_dir("pl.mtgpopolsku.mtgd"))
+bulk_file_path = data_save_path / "bulk.json"
+check_file_path = data_save_path / "last_download.txt"
 
 
-class DumperProgress(trio.abc.Instrument):
-    pass
+async def get_bulk_data(client: httpx.AsyncClient, bulk_type: str):
+    url = "https://api.scryfall.com/bulk-data"
+    await data_save_path.mkdir(exist_ok=True)
+
+    last_download = pendulum.datetime(1970, 1, 1, 0, 0, 1)
+    if await check_file_path.exists():
+        async with await open_file(check_file_path, "r") as check_file:
+            last_download = pendulum.parse(await check_file.read())
+
+    fd, path = tempfile.mkstemp()
+    async with client, await open_file(fd, "bw") as output:
+        bulk_info = await client.get(url)
+        if bulk_info.status_code != 200:
+            raise httpx.ConnectError(
+                f"Error fetching bulk data! {bulk_info.status_code}"
+            )
+        bulk_map = {b["type"]: b for b in bulk_info.json()["data"]}
+        bulk_obj = bulk_map[bulk_type]
+        updated_at = pendulum.parse(bulk_obj["updated_at"])
+        if not await bulk_file_path.exists() or updated_at <= last_download:
+            print("Nothing changed")
+            return
+
+        bulk_url = bulk_obj["download_uri"]
+
+        async with client.stream("GET", bulk_url) as response:
+            async for chunk in response.aiter_bytes():
+                await output.write(chunk)
+    shutil.copy(path, bulk_file_path)
+    async with await open_file(check_file_path, "w") as check_file:
+        await check_file.write(str(pendulum.now("UTC")))
+    os.remove(path)
 
 
-async def get_collected():
+async def render_wanted(client: httpx.AsyncClient):
     url_template = "https://api.scryfall.com/cards/{expansion}/{number}"
-    output = await open_file("poszukiwane.rst", "w")
-    client = httpx.AsyncClient(timeout=15)
-    async with output, client:
+    fd, path = tempfile.mkstemp(text=True)
+
+    async with await open_file(fd, "w") as output, client:
         await output.write("Poszukiwane karty\n=================\n")
         for title, links in missing_cards.items():
             await output.write(f"\n{title}\n{len(title) * '-'}\n\n")
@@ -34,12 +72,14 @@ async def get_collected():
                         f".. image:: {c['image_uris']['small']}\n"
                         f"   :target: {c['scryfall_uri']}\n"
                     )
+    shutil.copy(path, f"poszukiwane.rst")
+    os.remove(path)
 
 
-async def queue_downloads(exp_list: Iterable):
+async def queue_downloads(exp_list: Iterable, client):
     async with trio.open_nursery() as nursery:
         for exp in exp_list:
-            nursery.start_soon(download_expansion, exp)
+            nursery.start_soon(download_expansion, exp, client)
 
 
 async def get_set_name(exp, client):
@@ -100,11 +140,10 @@ async def write_single_card(card, file):
         )
 
 
-async def download_expansion(exp: str):
+async def download_expansion(exp: str, client: httpx.AsyncClient):
     fd, path = tempfile.mkstemp(text=True)
-    output = await open_file(fd, "w")
-    client = httpx.AsyncClient(timeout=15)
-    async with output, client:
+
+    async with await open_file(fd, "w") as output:
         # TODO: use local caching and refresh it at max every 24h
         # TODO: get only existing sets
 
