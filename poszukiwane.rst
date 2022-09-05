@@ -648,26 +648,3 @@ Normal sets
    :target: https://scryfall.com/card/thb/253/mountain?utm_source=api
 .. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/3/2/32af9f41-89e2-4e7a-9fec-fffe79cae077.jpg?1641306082
    :target: https://scryfall.com/card/thb/254/forest?utm_source=api
-Powinienem mieć, a nie mam
---------------------------
-
-.. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/5/f/5fc26aa1-58b9-41b5-95b4-7e9bf2309b54.jpg?1654569094
-   :target: https://scryfall.com/card/neo/283/plains?utm_source=api
-.. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/4/d/4db21784-e56b-46bd-97a4-3770f2ef5caf.jpg?1654569104
-   :target: https://scryfall.com/card/neo/284/plains?utm_source=api
-.. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/0/f/0f66d573-5da4-4b3c-ab06-bb330cff2c9a.jpg?1654569118
-   :target: https://scryfall.com/card/neo/285/island?utm_source=api
-.. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/8/e/8eae091d-8bd3-44d0-a083-6b4078303bc3.jpg?1654569122
-   :target: https://scryfall.com/card/neo/286/island?utm_source=api
-.. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/4/8/48f7492c-67f2-4ba3-848b-7a6a8df7e88b.jpg?1654569139
-   :target: https://scryfall.com/card/neo/287/swamp?utm_source=api
-.. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/f/d/fdfebc79-5d84-4ce5-8bff-d09fe333f4a3.jpg?1654569141
-   :target: https://scryfall.com/card/neo/288/swamp?utm_source=api
-.. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/2/f/2fe601b0-0398-47f0-9e4f-9f841ad79b9b.jpg?1654569163
-   :target: https://scryfall.com/card/neo/289/mountain?utm_source=api
-.. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/4/b/4b8489c0-b01c-466e-b33b-239406d7ea69.jpg?1654569164
-   :target: https://scryfall.com/card/neo/290/mountain?utm_source=api
-.. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/a/e/aea5c36b-c107-4daf-bedb-507b4cd64724.jpg?1654569182
-   :target: https://scryfall.com/card/neo/291/forest?utm_source=api
-.. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/8/e/8e17db23-a8ca-416e-b978-1eae852c6690.jpg?1654569186
-   :target: https://scryfall.com/card/neo/292/forest?utm_source=api

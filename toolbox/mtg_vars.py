@@ -671,16 +671,4 @@ missing_cards = {
         "https://scryfall.com/card/thb/253/mountain",
         "https://scryfall.com/card/thb/254/forest",
     ],
-    "Powinienem mieć, a nie mam": [
-        "https://scryfall.com/card/neo/283/plains",
-        "https://scryfall.com/card/neo/284/plains",
-        "https://scryfall.com/card/neo/285/island",
-        "https://scryfall.com/card/neo/286/island",
-        "https://scryfall.com/card/neo/287/swamp",
-        "https://scryfall.com/card/neo/288/swamp",
-        "https://scryfall.com/card/neo/289/mountain",
-        "https://scryfall.com/card/neo/290/mountain",
-        "https://scryfall.com/card/neo/291/forest",
-        "https://scryfall.com/card/neo/292/forest",
-    ],
 }
