@@ -406,7 +406,6 @@ missing_cards = {
         "https://scryfall.com/card/por/214s/zhs/forest",
         "https://scryfall.com/card/por/215s/zhs/forest",
     ],
-
     "Secret Lair Drop": [
         "https://scryfall.com/card/sld/46/ja/plains",
         "https://scryfall.com/card/sld/47/ja/island",
@@ -462,7 +461,6 @@ missing_cards = {
         "https://scryfall.com/card/sld/579/forest",
         "https://scryfall.com/card/sld/690/forest",
     ],
-
     "Normal sets": [
         "https://scryfall.com/card/ice/371/snow-covered-island",
         "https://scryfall.com/card/csp/151/snow-covered-plains",
