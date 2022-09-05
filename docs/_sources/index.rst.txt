@@ -240,3 +240,4 @@ Legal notice
    glossary
    changelog
    full_toctree
+   poszukiwane
