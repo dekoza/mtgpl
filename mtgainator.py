@@ -74,7 +74,9 @@ def extract_data_pots(path: Path):
         full_data = json.load(infile)
         data = get_en_trans(full_data)
         annotated = annotate_data_loc(data)
-        with typer.progressbar(annotated.values(), label="Extracting Cards") as progress:
+        with typer.progressbar(
+            annotated.values(), label="Extracting Cards"
+        ) as progress:
             for obj in progress:
                 key = obj["id"]
                 text = convert_mana_costs(obj["text"])
@@ -118,7 +120,9 @@ def annotate_data_loc(data) -> Mapping[int, DataLoc]:
         annotated[card["cardTypeTextId"]]["flags"].add("card_type")
         if "subtypeTextId" in card:
             annotated[card["subtypeTextId"]]["flags"].add("card_subtype")
-        card_types = {f"type_{cardtype_trans[t]}" for t in card.get("types", [])} or {"not a card?"}
+        card_types = {f"type_{cardtype_trans[t]}" for t in card.get("types", [])} or {
+            "not a card?"
+        }
         for ability in card.get("abilities", []):
             annotated[ability["TextId"]]["flags"].update(card_types)
             annotated[ability["TextId"]]["flags"].add("printed_ability")
@@ -327,14 +331,14 @@ def build():
     date_part = dt.strftime("%Y.%m.%d")
     release = 1
     while (
-            filename := (dist_path / f"MTGA_Data-{date_part}.{release:02d}.zip")
+        filename := (dist_path / f"MTGA_Data-{date_part}.{release:02d}.zip")
     ).exists():
         release += 1
 
     add_tag_to_dat_files(path, version=f"{date_part}.{release:02d}")
 
     with zipfile.ZipFile(
-            filename, "w", compression=zipfile.ZIP_BZIP2, compresslevel=9
+        filename, "w", compression=zipfile.ZIP_BZIP2, compresslevel=9
     ) as archive:
         for filename in (i for i in os.listdir(data_path) if i.startswith("Data_loc_")):
             archive.write(
@@ -414,7 +418,7 @@ def do_the_trans(data, pofile, lang="en-US"):
     translation_objs = find_data_trans_obj(data, lang=lang)["keys"]
 
     with typer.progressbar(
-            translation_objs, label=f"Substituting cards for {lang}"
+        translation_objs, label=f"Substituting cards for {lang}"
     ) as progress:
         for obj in progress:
             obj_id = str(obj["id"])

@@ -4,15 +4,18 @@ from typing import Optional
 import typer
 import trio
 from rich.console import Console
-from toolbox.dumper import queue_downloads, DumperProgress
+from toolbox.dumper import queue_downloads, DumperProgress, get_collected
 from toolbox.mtg_vars import expansions
 
 
 def main(
-        exps_input: Optional[str] = typer.Argument(None),
-        all_exps: bool = typer.Option(False, "--all"),
+    exps_input: Optional[str] = typer.Argument(None),
+    all_exps: bool = typer.Option(False, "--all"),
+    collected: bool = typer.Option(False, "--collected"),
 ):
     selected_expansions = sorted(expansions)
+    if collected:
+        trio.run(get_collected)
     if exps_input:
         selected_expansions = sorted(exp.strip() for exp in exps_input.split(","))
     elif not all_exps:

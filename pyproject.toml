@@ -14,6 +14,7 @@ trio = "^0.20.0"
 anyio = {version = "^3.6.1", extras = ["trio"]}
 httpx = "^0.23.0"
 rich = "^12.4.4"
+aiofiles = "^22.1.0"
 
 [tool.poetry.group.dev.dependencies]
 ipython = "^8.4.0"

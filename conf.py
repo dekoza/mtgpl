@@ -45,8 +45,8 @@ source_suffix = ".rst"
 master_doc = "index"
 
 # General information about the project.
-project = u"MTG-pl"
-copyright = u"2013-2022, Dominik Kozaczko"
+project = "MTG-pl"
+copyright = "2013-2022, Dominik Kozaczko"
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -187,7 +187,7 @@ latex_elements = {
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-    ("index", "MTG-pl.tex", u"MTG-pl Documentation", u"Dominik Kozaczko", "manual"),
+    ("index", "MTG-pl.tex", "MTG-pl Documentation", "Dominik Kozaczko", "manual"),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -215,7 +215,7 @@ latex_documents = [
 
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
-man_pages = [("index", "mtg-pl", u"MTG-pl Documentation", [u"Dominik Kozaczko"], 1)]
+man_pages = [("index", "mtg-pl", "MTG-pl Documentation", ["Dominik Kozaczko"], 1)]
 
 # If true, show URL addresses after external links.
 # man_show_urls = False
@@ -230,8 +230,8 @@ texinfo_documents = [
     (
         "index",
         "MTG-pl",
-        u"MTG-pl Documentation",
-        u"Dominik Kozaczko",
+        "MTG-pl Documentation",
+        "Dominik Kozaczko",
         "MTG-pl",
         "One line description of project.",
         "Miscellaneous",
@@ -251,9 +251,9 @@ texinfo_documents = [
 # -- Options for Epub output ---------------------------------------------------
 
 # Bibliographic Dublin Core info.
-epub_title = u"MTG-pl"
-epub_author = u"Dominik Kozaczko"
-epub_publisher = u"Dominik Kozaczko"
+epub_title = "MTG-pl"
+epub_author = "Dominik Kozaczko"
+epub_publisher = "Dominik Kozaczko"
 epub_copyright = copyright
 
 # The language of the text. It defaults to the language option
