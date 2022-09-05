@@ -40,13 +40,14 @@ def dump(
         None, help="Space-separated list of expansion codes."
     ),
     all_exps: bool = typer.Option(False, "--all", help="Download ALL expansions."),
+    use_bulk: bool = typer.Option(False, "--bulk", help="Use saved bulk data."),
 ):
     """
     Dump selected (or ALL) expansions.
     """
     selected_expansions = expansions if all_exps else exps
 
-    trio.run(queue_downloads, selected_expansions, client)
+    trio.run(queue_downloads, selected_expansions, client, use_bulk)
 
 
 if __name__ == "__main__":

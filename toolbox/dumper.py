@@ -3,7 +3,7 @@ import shutil
 import tempfile
 from collections import defaultdict
 from typing import Iterable
-
+import orjson
 import appdirs
 import httpx
 import pendulum
@@ -76,10 +76,10 @@ async def render_wanted(client: httpx.AsyncClient):
     os.remove(path)
 
 
-async def queue_downloads(exp_list: Iterable, client):
+async def queue_downloads(exp_list: Iterable, client, use_bulk):
     async with trio.open_nursery() as nursery:
         for exp in exp_list:
-            nursery.start_soon(download_expansion, exp, client)
+            nursery.start_soon(download_expansion, exp, client, use_bulk)
 
 
 async def get_set_name(exp, client):
@@ -89,7 +89,20 @@ async def get_set_name(exp, client):
     return result.json()["name"]
 
 
-async def get_set_cards(exp, client):
+async def get_set_from_bulk(exp):
+    exp = exp.lower()
+    if not await bulk_file_path.exists():
+        raise AssertionError("Bulk not found!")
+    async with await open_file(bulk_file_path, "r") as data_file:
+        all_cards = orjson.loads(await data_file.read())
+    exp_cards = (c for c in all_cards if c["set"] == exp)
+    return sorted(exp_cards, key=lambda c: int(c["collector_number"]))
+
+
+async def get_set_cards(exp, client, use_bulk: bool = False):
+    if use_bulk:
+        return await get_set_from_bulk(exp)
+
     result = await client.get(
         f"https://api.scryfall.com/cards/search?order=set&q=e%3A{exp.lower()}&unique=prints",
     )
@@ -140,7 +153,7 @@ async def write_single_card(card, file):
         )
 
 
-async def download_expansion(exp: str, client: httpx.AsyncClient):
+async def download_expansion(exp: str, client: httpx.AsyncClient, use_bulk=False):
     fd, path = tempfile.mkstemp(text=True)
 
     async with await open_file(fd, "w") as output:
@@ -148,7 +161,7 @@ async def download_expansion(exp: str, client: httpx.AsyncClient):
         # TODO: get only existing sets
 
         name = await get_set_name(exp, client)
-        data = await get_set_cards(exp, client)
+        data = await get_set_cards(exp, client, use_bulk)
         await write_file_header(exp, name, output)
         await write_card_data(data, output)
 
