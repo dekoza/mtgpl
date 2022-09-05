@@ -1,11 +1,9 @@
 #!env python3
 from typing import Optional
 
-import appdirs
 import httpx
 import trio
 import typer
-from rich.console import Console
 
 from toolbox.dumper import get_bulk_data, queue_downloads, render_wanted
 from toolbox.mtg_vars import expansions
