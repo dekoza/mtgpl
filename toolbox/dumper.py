@@ -158,7 +158,6 @@ async def download_expansion(exp: str, client: httpx.AsyncClient, use_bulk=False
     fd, path = tempfile.mkstemp(text=True)
 
     async with await open_file(fd, "w") as output:
-        # TODO: use local caching and refresh it at max every 24h
         # TODO: get only existing sets
 
         name = await get_set_name(exp, client)

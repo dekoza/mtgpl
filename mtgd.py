@@ -17,6 +17,7 @@ client = httpx.AsyncClient(timeout=15, http2=True)
 
 
 @app.command()
+@app.command(name="r", hidden=True)
 def refresh():
     """
     Refresh cached data.
@@ -25,6 +26,7 @@ def refresh():
 
 
 @app.command()
+@app.command(name="w", hidden=True)
 def wanted():
     """
     Generate my wanted list.
@@ -33,6 +35,7 @@ def wanted():
 
 
 @app.command(no_args_is_help=True)
+@app.command(name="d", hidden=True, no_args_is_help=True)
 def dump(
     exps: Optional[list[str]] = typer.Argument(
         None, help="Space-separated list of expansion codes."
