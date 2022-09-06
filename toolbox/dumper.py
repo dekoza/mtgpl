@@ -52,7 +52,7 @@ async def get_bulk_data(client: httpx.AsyncClient, bulk_type: str):
     os.remove(path)
 
 
-async def render_wanted(client: httpx.AsyncClient):
+async def render_wanted(client: httpx.AsyncClient, use_bulk: bool = False):
     url_template = "https://api.scryfall.com/cards/{expansion}/{number}"
     fd, path = tempfile.mkstemp(text=True)
 

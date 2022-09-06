@@ -27,11 +27,13 @@ def refresh():
 
 @app.command()
 @app.command(name="w", hidden=True)
-def wanted():
+def wanted(
+    use_bulk: bool = typer.Option(False, "--bulk", help="Use saved bulk data."),
+):
     """
     Generate my wanted list.
     """
-    trio.run(render_wanted, client)
+    trio.run(render_wanted, client, use_bulk)
 
 
 @app.command(no_args_is_help=True)

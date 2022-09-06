@@ -345,9 +345,9 @@ missing_cards = {
     "Phil Foglio": [
         "https://scryfall.com/card/s99/7/bargain",
         "https://scryfall.com/card/2x2/359/chaos-warp",
-        "https://scryfall.com/card/me3/5/cleanse",
+        "https://scryfall.com/card/leg/5/cleanse",
         "https://scryfall.com/card/fem/54b/goblin-chirurgeon",
-        "https://scryfall.com/card/me1/159/mirror-universe",
+        "https://scryfall.com/card/leg/287/mirror-universe",
         "https://scryfall.com/card/atq/80a/mishras-factory",
         "https://scryfall.com/card/atq/80b/mishras-factory",
         "https://scryfall.com/card/atq/80c/mishras-factory",
@@ -355,7 +355,7 @@ missing_cards = {
         "https://scryfall.com/card/leg/31/presence-of-the-master",
         "https://scryfall.com/card/por/66/prosperity",
         "https://scryfall.com/card/ugl/26/psychic-network",
-        "https://scryfall.com/card/me3/168/ramirez-depietro",
+        "https://scryfall.com/card/leg/251/ramirez-depietro",
     ],
     "Guru Lands": [
         "https://scryfall.com/card/pgru/1/plains",
