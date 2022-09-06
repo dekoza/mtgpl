@@ -4,20 +4,8 @@ Poszukiwane karty
 Phil Foglio
 -----------
 
-.. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/4/4/44330e87-dcd7-428a-8981-ad7209e37f3d.jpg?1562874061
-   :target: https://scryfall.com/card/s99/7/bargain?utm_source=api
 .. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/9/4/94ba4278-c63e-49b4-bf60-16dfe5c70a0b.jpg?1655825912
    :target: https://scryfall.com/card/2x2/359/chaos-warp?utm_source=api
-.. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/2/f/2fbd611b-ac97-4516-bad7-cc9ee4ef74f7.jpg?1591836785
-   :target: https://scryfall.com/card/leg/5/cleanse?utm_source=api
-.. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/a/8/a8f05d5e-bb7d-4554-b880-f0c6b4688357.jpg?1562860630
-   :target: https://scryfall.com/card/leg/287/mirror-universe?utm_source=api
-.. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/1/c/1cb86b2f-116d-4952-b35a-1398341baaf5.jpg?1562857775
-   :target: https://scryfall.com/card/leg/31/presence-of-the-master?utm_source=api
-.. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/e/5/e5c66c61-aadf-433b-9958-fc9b44b327b9.jpg?1562861374
-   :target: https://scryfall.com/card/leg/251/ramirez-depietro?utm_source=api
-.. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/9/8/982115b2-e1e7-4b2f-8eb6-a1633477d4a8.jpg?1587910963
-   :target: https://scryfall.com/card/fem/54b/goblin-chirurgeon?utm_source=api
 .. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/a/6/a696c5b6-f216-454d-8029-74e84bbd1428.jpg?1562930097
    :target: https://scryfall.com/card/atq/80a/mishras-factory?utm_source=api
 .. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/4/0/4047df9c-335c-4c1a-968d-00f40e2e7386.jpg?1562908314
@@ -26,6 +14,18 @@ Phil Foglio
    :target: https://scryfall.com/card/atq/80c/mishras-factory?utm_source=api
 .. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/a/c/ac09a506-427f-4636-bcfd-b40f8d511905.jpg?1562931302
    :target: https://scryfall.com/card/atq/80d/mishras-factory?utm_source=api
+.. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/9/8/982115b2-e1e7-4b2f-8eb6-a1633477d4a8.jpg?1587910963
+   :target: https://scryfall.com/card/fem/54b/goblin-chirurgeon?utm_source=api
+.. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/e/5/e5c66c61-aadf-433b-9958-fc9b44b327b9.jpg?1562861374
+   :target: https://scryfall.com/card/leg/251/ramirez-depietro?utm_source=api
+.. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/a/8/a8f05d5e-bb7d-4554-b880-f0c6b4688357.jpg?1562860630
+   :target: https://scryfall.com/card/leg/287/mirror-universe?utm_source=api
+.. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/1/c/1cb86b2f-116d-4952-b35a-1398341baaf5.jpg?1562857775
+   :target: https://scryfall.com/card/leg/31/presence-of-the-master?utm_source=api
+.. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/2/f/2fbd611b-ac97-4516-bad7-cc9ee4ef74f7.jpg?1591836785
+   :target: https://scryfall.com/card/leg/5/cleanse?utm_source=api
+.. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/d/e/de7f3064-a378-4ca4-99f5-b46518ddc43d.jpg?1562947950
+   :target: https://scryfall.com/card/p02/14/bargain?utm_source=api
 .. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/2/6/269bb4fc-9d8f-42cc-8f71-6a658e41533c.jpg?1562446139
    :target: https://scryfall.com/card/por/66/prosperity?utm_source=api
 .. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/6/0/60dfba09-9e75-4fb9-a163-40e3149f7785.jpg?1562799103
