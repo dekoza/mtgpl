@@ -48,36 +48,36 @@ Guru Lands
 APAC/Euro Lands
 ---------------
 
-.. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/5/e/5e8b29d9-b20c-437f-96ec-1b0009719820.jpg?1654083471
-   :target: https://scryfall.com/card/palp/4/plains?utm_source=api
 .. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/2/b/2b42c421-da39-41e1-af2e-005aebb3a7c7.jpg?1654083528
    :target: https://scryfall.com/card/palp/10/swamp?utm_source=api
-.. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/9/1/913f761f-dd7b-4c91-b4e9-5903f86079f0.jpg?1654083523
-   :target: https://scryfall.com/card/palp/5/swamp?utm_source=api
-.. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/c/5/c5a93b1c-51aa-483c-b33b-76b5a74a067d.jpg?1654083411
-   :target: https://scryfall.com/card/palp/3/mountain?utm_source=api
-.. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/e/1/e1af2d09-908e-442e-a9d0-9c618a71a327.jpg?1654083415
-   :target: https://scryfall.com/card/palp/8/mountain?utm_source=api
-.. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/0/e/0ec326ea-771a-4cb4-8d4e-b3b189e8cd78.jpg?1654083322
-   :target: https://scryfall.com/card/palp/6/forest?utm_source=api
 .. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/9/3/93dc440e-53f8-45d7-bc3b-c9b9a67767de.jpg?1654083326
    :target: https://scryfall.com/card/palp/11/forest?utm_source=api
+.. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/c/5/c5a93b1c-51aa-483c-b33b-76b5a74a067d.jpg?1654083411
+   :target: https://scryfall.com/card/palp/3/mountain?utm_source=api
+.. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/5/e/5e8b29d9-b20c-437f-96ec-1b0009719820.jpg?1654083471
+   :target: https://scryfall.com/card/palp/4/plains?utm_source=api
+.. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/9/1/913f761f-dd7b-4c91-b4e9-5903f86079f0.jpg?1654083523
+   :target: https://scryfall.com/card/palp/5/swamp?utm_source=api
+.. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/0/e/0ec326ea-771a-4cb4-8d4e-b3b189e8cd78.jpg?1654083322
+   :target: https://scryfall.com/card/palp/6/forest?utm_source=api
+.. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/e/1/e1af2d09-908e-442e-a9d0-9c618a71a327.jpg?1654083415
+   :target: https://scryfall.com/card/palp/8/mountain?utm_source=api
 .. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/b/1/b1b2f459-8878-4008-9c40-46f706d6872a.jpg?1654083460
    :target: https://scryfall.com/card/pelp/4/plains?utm_source=api
 
 Arena League 2001-2003
 ----------------------
 
-.. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/7/9/793bfd55-e7ff-46cd-ad29-7997c9fd521a.jpg?1562636822
-   :target: https://scryfall.com/card/pal01/7/plains?utm_source=api
-.. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/c/2/c20fe46c-f358-4974-adfb-86193c4857c1.jpg?1562636888
-   :target: https://scryfall.com/card/pal01/3/island?utm_source=api
-.. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/1/1/115cfb4f-06d2-42c4-b94b-d0cbe44e2f8b.jpg?1562636736
-   :target: https://scryfall.com/card/pal01/9/swamp?utm_source=api
 .. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/d/f/df5d894f-ead3-4077-94a0-765b1159a34a.jpg?1562636928
    :target: https://scryfall.com/card/pal01/1/forest?utm_source=api
 .. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/a/6/a67a595c-50fb-42c8-a15e-6ee40239ca23.jpg?1562636867
    :target: https://scryfall.com/card/pal01/11/forest?utm_source=api
+.. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/c/2/c20fe46c-f358-4974-adfb-86193c4857c1.jpg?1562636888
+   :target: https://scryfall.com/card/pal01/3/island?utm_source=api
+.. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/7/9/793bfd55-e7ff-46cd-ad29-7997c9fd521a.jpg?1562636822
+   :target: https://scryfall.com/card/pal01/7/plains?utm_source=api
+.. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/1/1/115cfb4f-06d2-42c4-b94b-d0cbe44e2f8b.jpg?1562636736
+   :target: https://scryfall.com/card/pal01/9/swamp?utm_source=api
 .. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/d/c/dc3dd97a-7082-4059-9c27-f25929f819ac.jpg?1561758211
    :target: https://scryfall.com/card/pal02/1/island?utm_source=api
 .. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/4/b/4b1a2844-4398-4d6f-b8f0-ffb3d9eb05f1.jpg?1561757088
@@ -128,6 +128,20 @@ Portal
    :target: https://scryfall.com/card/por/214s/zhs/forest?utm_source=api
 .. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/6/2/620b6d41-562f-4225-bbfc-59655141c4d0.jpg?1616251697
    :target: https://scryfall.com/card/por/215s/zhs/forest?utm_source=api
+
+Magic Fest
+----------
+
+.. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/3/e/3e0ae7fe-7cb0-487a-9e1e-fc2a52b42b87.jpg?1585195241
+   :target: https://scryfall.com/card/pf20/2/plains?utm_source=api
+.. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/2/b/2b72bbd7-0b80-4e12-86d5-494d91319ec4.jpg?1585195243
+   :target: https://scryfall.com/card/pf20/3/island?utm_source=api
+.. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/4/e/4e0e3fed-c7b6-43f8-9ab5-b80bde709276.jpg?1585195244
+   :target: https://scryfall.com/card/pf20/4/swamp?utm_source=api
+.. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/b/5/b56f39a5-9c58-4c04-9285-18e3b4ce78d1.jpg?1585195246
+   :target: https://scryfall.com/card/pf20/5/mountain?utm_source=api
+.. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/0/7/076c5ceb-4236-46ef-ba8e-336088fcedd9.jpg?1585195247
+   :target: https://scryfall.com/card/pf20/6/forest?utm_source=api
 
 Secret Lair Drop
 ----------------
@@ -654,3 +668,41 @@ Normal sets
    :target: https://scryfall.com/card/thb/253/mountain?utm_source=api
 .. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/3/2/32af9f41-89e2-4e7a-9fec-fffe79cae077.jpg?1641306082
    :target: https://scryfall.com/card/thb/254/forest?utm_source=api
+.. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/e/8/e882099c-63cd-42f0-b160-35e6922106b1.jpg?1660721859
+   :target: https://scryfall.com/card/snc/272/plains?utm_source=api
+.. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/a/a/aa69cedc-49ce-48f3-88e1-94b9bc061bf4.jpg?1660721883
+   :target: https://scryfall.com/card/snc/273/plains?utm_source=api
+.. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/8/2/8221d15c-c993-4345-a6bb-6a7d215e3273.jpg?1660721911
+   :target: https://scryfall.com/card/snc/274/island?utm_source=api
+.. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/5/a/5aaba7cd-c1dc-49cf-8d63-8bb3594a6541.jpg?1660721932
+   :target: https://scryfall.com/card/snc/275/island?utm_source=api
+.. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/5/f/5f917d8d-7037-4f11-91f6-1ef96b3541bb.jpg?1660721955
+   :target: https://scryfall.com/card/snc/276/swamp?utm_source=api
+.. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/b/4/b4569823-af23-4eea-acc9-2a2c62bce3b0.jpg?1660721977
+   :target: https://scryfall.com/card/snc/277/swamp?utm_source=api
+.. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/2/e/2e97dadd-0849-4c18-9523-4775d09fca9a.jpg?1660722029
+   :target: https://scryfall.com/card/snc/279/mountain?utm_source=api
+.. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/c/7/c726424a-3336-4e15-9055-4a26371df361.jpg?1646347900
+   :target: https://scryfall.com/card/snc/280/forest?utm_source=api
+.. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/6/3/633eb269-916e-4d79-821e-1f304283416c.jpg?1650880410
+   :target: https://scryfall.com/card/snc/281/forest?utm_source=api
+.. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/c/4/c453d1ea-9a42-4ccb-9391-eec122025647.jpg?1638229916
+   :target: https://scryfall.com/card/unf/235/plains?utm_source=api
+.. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/1/d/1d018af9-dd14-46fa-8fd5-226defc9698f.jpg?1638217576
+   :target: https://scryfall.com/card/unf/236/island?utm_source=api
+.. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/4/6/46a6375e-9477-4871-8a15-02439f3f6f34.jpg?1638217580
+   :target: https://scryfall.com/card/unf/237/swamp?utm_source=api
+.. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/3/d/3d6da8eb-31b0-48c1-9ad9-552827967f91.jpg?1638217584
+   :target: https://scryfall.com/card/unf/238/mountain?utm_source=api
+.. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/5/d/5dda1113-352c-471a-a7e0-a9a3cb3f19c5.jpg?1638217588
+   :target: https://scryfall.com/card/unf/239/forest?utm_source=api
+.. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/8/2/82283c22-9b64-4f41-a5bb-aeb737eee5c9.jpg?1638217606
+   :target: https://scryfall.com/card/unf/240/plains?utm_source=api
+.. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/1/5/15303b22-ddf0-488d-b07e-a118f35ef00f.jpg?1638217601
+   :target: https://scryfall.com/card/unf/241/island?utm_source=api
+.. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/f/3/f3c850b9-d014-4cd1-8ffd-361ed4fe1e6d.jpg?1638217597
+   :target: https://scryfall.com/card/unf/242/swamp?utm_source=api
+.. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/9/e/9e1170a5-e5bb-4b86-8718-f75eec679b4e.jpg?1638217591
+   :target: https://scryfall.com/card/unf/243/mountain?utm_source=api
+.. image:: https://c1.scryfall.com/file/scryfall-cards/small/front/f/1/f1488e6b-f677-44c5-8ff3-6a2f9bdb28c2.jpg?1638217609
+   :target: https://scryfall.com/card/unf/244/forest?utm_source=api
