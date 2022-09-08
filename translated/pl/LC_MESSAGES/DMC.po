@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2022.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-03 23:10+0200\n"
-"PO-Revision-Date: 2022-09-04 21:21+0000\n"
+"PO-Revision-Date: 2022-09-08 14:00+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dmc/pl/>\n"
 "Language: pl\n"
@@ -1012,6 +1012,10 @@ msgid ""
 "2/2 green Cat Warrior creature token with forestwalk. (It can't be blocked "
 "as long as defending player controls a Forest.)"
 msgstr ""
+"Ilekroć niniejszy lub inny legendarny stwór wejdzie na pole bitwy pod twoim "
+"władaniem, możesz zapłacić |mana_g|. Jeśli tak zrobisz, stwórz żeton "
+"zielonego stwora Kot Wojownik 2/2 z podbojem lasów. (Nie może być on "
+"blokowany o ile broniący się gracz włada Lasem.)"
 
 #: ../../DMC.rst:238
 msgid ""
@@ -1025,6 +1029,8 @@ msgid ""
 "You may tap three untapped Dwarves you control rather than pay this spell's "
 "mana cost."
 msgstr ""
+"Możesz przekręcić trzech odkręconych Krasnoludów pod twoim władaniem zamiast "
+"płacić koszt many tego czaru."
 
 #: ../../DMC.rst:237
 msgid ""
@@ -1033,6 +1039,10 @@ msgid ""
 "your library. Put any number of Dwarf cards from among them into your hand "
 "and the rest on the bottom of your library in a random order."
 msgstr ""
+"Na początku każdego kroku końcowego, jeśli w tej turze ląd pod twoim "
+"władaniem został umieszczony w twoim cmentarzu z pola bitwy, ujawnij cztery "
+"wierzchnie karty twojej biblioteki. Umieść spośród nich dowolną liczbę kart "
+"Krasnoludów w twojej ręce, a pozostałe losowo na spodzie twojej biblioteki."
 
 #: ../../DMC.rst:246
 msgid ""
@@ -1048,12 +1058,16 @@ msgstr "Zasięg"
 #: ../../DMC.rst:243
 msgid "Untap all Archers you control during each other player's untap step."
 msgstr ""
+"Odkręć wszystkich Łuczników pod twoim władaniem podczas kroku odkręcania "
+"każdego innego gracza."
 
 #: ../../DMC.rst:245
 msgid ""
 "Whenever an Archer you control deals damage to a creature, you may pay |"
 "mana_2|. If you do, draw a card."
 msgstr ""
+"Ilekroć Łucznik pod twoim władaniem zada stworowi obrażenia, możesz zapłacić "
+"|mana_2|. Jeśli tak zrobisz, dobierz kartę."
 
 #: ../../DMC.rst:254
 msgid ""
@@ -1069,13 +1083,15 @@ msgstr "Tratowanie"
 #: ../../DMC.rst:251
 msgid ""
 "Whenever another creature dies, put a +1/+1 counter on Orca, Siege Demon."
-msgstr ""
+msgstr "Ilekroć umrze inny stwór, umieść znacznik +1/+1 na niniejszym."
 
 #: ../../DMC.rst:253
 msgid ""
 "When Orca dies, it deals damage equal to its power divided as you choose "
 "among any number of targets."
 msgstr ""
+"Kiedy niniejszy umrze, zadaje on obrażenia równe swojej sile rozdzielone jak "
+"wolisz pomiędzy dowolną liczbę wskazanych celów."
 
 #: ../../DMC.rst:260
 msgid ""
@@ -1090,6 +1106,8 @@ msgid ""
 "When Ramirez DePietro, Pillager enters the battlefield, you lose 2 life and "
 "create two Treasure tokens."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, strać 2 życia i stwórz dwa żetony "
+"Skarbu."
 
 #: ../../DMC.rst:259
 msgid ""
@@ -1097,6 +1115,9 @@ msgid ""
 "exile the top card of that player's library. You may cast that card for as "
 "long as it remains exiled."
 msgstr ""
+"Ilekroć jeden lub więcej Piratów pod twoim władaniem zada graczowi obrażenia "
+"bojowe, wygnaj wierzchnią kartę biblioteki owego gracza. Możesz rzucić ową "
+"kartę przez czas jej wygnania."
 
 #: ../../DMC.rst:268
 msgid ""
@@ -1111,13 +1132,15 @@ msgstr "Dotyk śmierci"
 
 #: ../../DMC.rst:265
 msgid "Other Assassins you control get +1/+1."
-msgstr ""
+msgstr "Inni Zabójcy pod twoim władaniem dostają +1/+1."
 
 #: ../../DMC.rst:267
 msgid ""
 "Whenever a player loses the game, if they were attacked this turn by an "
 "Assassin you controlled, you win the game."
 msgstr ""
+"Ilekroć gracz przegra grę, jeśli był on w tej turze zaatakowany przez "
+"Zabójcę pod twoim władaniem, wygrywasz grę."
 
 #: ../../DMC.rst:276
 msgid ""
@@ -1133,12 +1156,17 @@ msgid ""
 "on it for each opponent you have. Each opponent creates a 1/1 red Goblin "
 "creature token."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, umieść na nim tyle znaczników snu, ilu "
+"masz przeciwników. Każdy przeciwnik tworzy żeton czerwonego stwora Goblin 1/"
+"1."
 
 #: ../../DMC.rst:273
 msgid ""
 "|tap|, Remove one or more dream counters from Rasputin: Add that much |"
 "colorless|."
 msgstr ""
+"|tap|, usuń co najmniej jeden znacznik snu z niniejszego: Weź tyle samo "
+"|colorless|."
 
 #: ../../DMC.rst:275
 msgid ""
@@ -1158,19 +1186,23 @@ msgstr ""
 
 #: ../../DMC.rst:279
 msgid "Other Kobolds you control get +2/+2."
-msgstr ""
+msgstr "Inne Koboldy pod twoim władaniem dostają +2/+2."
 
 #: ../../DMC.rst:281
 msgid ""
 "Whenever you cast a Kobold spell, you may pay |mana_2|. If you do, create a "
 "4/4 red Dragon creature token with flying."
 msgstr ""
+"Ilekroć rzucisz czar typu Kobold, możesz zapłacić |mana_2|. Jeśli tak "
+"zrobisz, stwórz żeton czerwonego stwora Smok 4/4 z lataniem."
 
 #: ../../DMC.rst:283
 msgid ""
 "Whenever you cast a Dragon spell, create a 0/1 red Kobold creature token "
 "named Kobolds of Kher Keep."
 msgstr ""
+"Ilekroć rzucisz czar typu Smok, stwórz żeton czerwonego stwora Kobold 0/1 o "
+"nazwie Koboldy z Kher Keep."
 
 #: ../../DMC.rst:288
 msgid ""
@@ -1187,6 +1219,12 @@ msgid ""
 "token that's a copy of it attached to Stangg Twin. Sacrifice all tokens "
 "created this way at the beginning of the next end step."
 msgstr ""
+"Ilekroć niniejszy zaatakuje, stwórz żeton legendarnego czerwono-zielonego "
+"stwora Człowiek Wojownik 3/4 o nazwie Bliźniak Stangg. Wchodzi on na pole "
+"bitwy przekręcony i atakujący. Za każdą Aurę i wyposażenie dołączone do "
+"niniejszego, stwórz żeton będący owego kopią i dołącz go do Bliźniaka. "
+"Poświęć wszystkie żetony stworzone w ten sposób na początku najbliższego "
+"kroku końcowego."
 
 #: ../../DMC.rst:298
 msgid ""
@@ -1200,20 +1238,25 @@ msgid ""
 "+1: Until your next turn, creatures can't attack you or planeswalkers you "
 "control unless their controller pays 2 life for each of those creatures."
 msgstr ""
+"+1: Do twojej następnej tury stwory nie mogą atakować ciebie ani wędrowców "
+"pod twoim władaniem, chyba że ich władca zapłaci po 2 życia za każdego z "
+"owych stworów."
 
 #: ../../DMC.rst:293
 msgid ""
 "−3: Search your library for a Dragon card, reveal it, put it into your hand, "
 "then shuffle."
 msgstr ""
+"–3: Wyszukaj w twojej bibliotece kartę typu Smok, ujawnij ją, umieść ją w "
+"twojej ręce, po czym przetasuj."
 
 #: ../../DMC.rst:295
 msgid "−7: Destroy all non-Dragon creatures."
-msgstr ""
+msgstr "–7: Zniszcz wszystkie stwory bez typu Smok."
 
 #: ../../DMC.rst:297
 msgid "Sivitri, Dragon Master can be your commander."
-msgstr ""
+msgstr "Niniejszy może być twoim dowódcą."
 
 #: ../../DMC.rst:306
 msgid ""
@@ -1226,13 +1269,15 @@ msgstr ""
 #: ../../DMC.rst:301
 msgid ""
 "Whenever Tetsuo, Imperial Champion attacks, if it's equipped, choose one —"
-msgstr ""
+msgstr "Ilekroć niniejszy zaatakuje, jeśli jest wyposażony, wybierz jedno —"
 
 #: ../../DMC.rst:303
 msgid ""
 "Tetsuo deals damage equal to the highest mana value among Equipment attached "
 "to it to any target."
 msgstr ""
+"Niniejszy zadaje wskazanemu celowi obrażenia równe największemu skrótowi "
+"many pośród Wyposażeń dołączonych do niego."
 
 #: ../../DMC.rst:305
 msgid ""
@@ -1240,6 +1285,9 @@ msgid ""
 "than or equal to the highest mana value among Equipment attached to Tetsuo "
 "without paying its mana cost."
 msgstr ""
+"Możesz rzucić bez płacenia kosztu many czar sztuczki lub obrzędu z twojej "
+"ręki o skrócie many mniejszym lub równym największemu skrótowi many pośród "
+"Wyposażenia dołączonego do niniejszego."
 
 #: ../../DMC.rst:312
 msgid ""
@@ -1254,6 +1302,8 @@ msgid ""
 "When Tobias, Doomed Conqueror dies, create a 2/2 black Zombie creature token "
 "for each nontoken creature that died under your control this turn."
 msgstr ""
+"Kiedy niniejszy umrze, stwórz tyle żetonów czarnego stwora Zombi 2/2, ile "
+"nieżetonowych stworów pod twoim władaniem umarło w tej turze."
 
 #: ../../DMC.rst:320
 msgid ""
@@ -1271,12 +1321,17 @@ msgid ""
 "If another source you control would deal noncombat damage to a permanent or "
 "player, it deals that much damage plus 1 to that permanent or player instead."
 msgstr ""
+"Jeśli inne źródło pod twoim władaniem miałoby zadać niebojowe obrażenia "
+"bytowi lub graczowi, zamiast tego zadaje ono owemu bytowi lub graczowi tyle "
+"samo obrażeń plus 1."
 
 #: ../../DMC.rst:319
 msgid ""
 "Whenever you cast an instant or sorcery spell, Tor Wauki the Younger deals 2 "
 "damage to any target."
 msgstr ""
+"Ilekroć rzucisz czar sztuczki lub obrzędu, niniejszy zadaje wskazanemu "
+"celowi 2 obrażenia."
 
 #: ../../DMC.rst:326
 msgid ""
@@ -1293,10 +1348,14 @@ msgid ""
 "from among them into your hand and the rest on the bottom of your library in "
 "a random order."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, ujawnij siedem wierzchnich kart twojej "
+"biblioteki. Umieść spośród nich dowolną liczbę kart stworów i/lub lądów w "
+"twojej ręce, a pozostałe losowo na spodzie twojej biblioteki."
 
 #: ../../DMC.rst:325
 msgid "When Torsten dies, create seven 1/1 white Soldier creature tokens."
 msgstr ""
+"Kiedy niniejszy umrze, stwórz siedem żetonów białego stwora Piechur 1/1."
 
 #: ../../DMC.rst:332
 msgid ""
@@ -1312,6 +1371,9 @@ msgid ""
 "has an egg counter on it, draw a card and create a 1/1 black Insect creature "
 "token with flying."
 msgstr ""
+"Ilekroć niniejszy zaatakuje, umieść znacznik jaja na innym wskazanym stworze "
+"nie mającym znaczniku jaja. Kiedy ów stwór umrze, jeśli miał znacznik jaja, "
+"dobierz kartę i stwórz żeton czarnego stwora Owad 1/1 z lataniem."
 
 #: ../../DMC.rst:336
 msgid ""
