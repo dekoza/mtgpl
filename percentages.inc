@@ -276,6 +276,9 @@
 
 .. |PLS_percent| image:: images/pie45.png        
 
+.. |DMR_percent| image:: images/done.png        
+   :alt: Tłumaczenie zakończone
+
 .. |WWK_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
