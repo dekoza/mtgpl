@@ -51,6 +51,7 @@ expansions = {
     "DIS",
     "DKA",
     "DMC",
+    "DMR",
     "DMU",
     "DOM",
     "DRK",
