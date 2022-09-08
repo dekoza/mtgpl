@@ -425,7 +425,8 @@
 .. |SNC_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |DMC_percent| image:: images/pie90.png        
+.. |DMC_percent| image:: images/done.png        
+   :alt: Tłumaczenie zakończone
 
 .. |DMU_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone

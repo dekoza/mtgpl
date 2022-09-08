@@ -694,8 +694,5 @@ missing_cards = {
         "https://scryfall.com/card/unf/242/swamp",
         "https://scryfall.com/card/unf/243/mountain",
         "https://scryfall.com/card/unf/244/forest",
-
-
-
     ],
 }
