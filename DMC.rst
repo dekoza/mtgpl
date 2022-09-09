@@ -167,7 +167,7 @@
    Whenever you cast a Merfolk spell, you may pay |mana_1|. If you do, create a 1/1 blue Merfolk creature token.
 
 
-:mtgtip:`Activated Sleeper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/4/343d01cf-9806-4c2d-a993-ddc9ed248d7f.jpg?1661840250|https://scryfall.com/card/dmc/24b/activated-sleeper?utm_source=api>`
+:mtgtip:`Activated Sleeper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/4/343d01cf-9806-4c2d-a993-ddc9ed248d7f.jpg?1662553081|https://scryfall.com/card/dmc/24/activated-sleeper?utm_source=api>`
    Flash
 
    You may have Activated Sleeper enter the battlefield as a copy of any creature card in a graveyard that was put there from the battlefield this turn, except it's a Phyrexian in addition to its other types.
