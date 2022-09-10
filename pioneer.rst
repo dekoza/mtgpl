@@ -21,6 +21,10 @@ Standard jest ich podzbiorem.
 
 Dodatki poza Standardem
 -----------------------
+* :mtgexp:`AFR` :doc:`Adventures in the Forgotten Realms<AFR>` |AFR_percent|
+* :mtgexp:`STX` :doc:`Strixhaven: School of Mages<STX>` |STX_percent|
+* :mtgexp:`KHM` :doc:`Kaldheim<KHM>` |KHM_percent|
+* :mtgexp:`ZNR` :doc:`Zendikar Rising<ZNR>` |ZNR_percent|
 * :mtgexp:`M21` :doc:`Core Set 2021<M21>` |M21_percent|
 * :mtgexp:`IKO` :doc:`Ikoria: Lair of Behemots<IKO>` |IKO_percent|
 * :mtgexp:`THB` :doc:`Theros: Beyond Death<THB>` |THB_percent|

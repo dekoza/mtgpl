@@ -44,9 +44,6 @@ Nadchodzące
 * :mtgexp:`BRO` :doc:`Brother's War` Premiera: 2022-11-18
 * :mtgexp:`GN3` :doc:`Game Night Free-for-All<GN3>` Premiera: 2022-10-14
 * :mtgexp:`40K` :doc:`Warhammer 40,000 Commander<40K>` Premiera: 2022-10-07
-* :mtgexp:`DMU` :doc:`Dominaria United<DMU>` |DMU_percent| Premiera: 2022-09-09
-* :mtgexp:`DMC` :doc:`Dominaria United Commander<DMC>` |DMC_percent| Premiera: 2022-09-09
-
 
 Standard
 --------
@@ -54,20 +51,11 @@ Standard
 Format posiadający rotację - raz do roku część dodatków przestaje być legalna w tym formacie, by zrobić miejsce na kolejne. Dzięki temu pula kart ma przewidywalny rozmiar.
 Jest podzbiorem wszystkich innych formatów.
 
+* :mtgexp:`DMU` :doc:`Dominaria United<DMU>` |DMU_percent|
 * :mtgexp:`SNC` :doc:`Streets of New Capenna<SNC>` |SNC_percent|
 * :mtgexp:`NEO` :doc:`Kamigawa: Neon Dynasty<NEO>` |NEO_percent|
 * :mtgexp:`VOW` :doc:`Innistrad: Crimson Vow<VOW>` |VOW_percent|
 * :mtgexp:`MID` :doc:`Innistrad: Midnight Hunt<MID>` |MID_percent|
-
-Wkrótce rotują
-~~~~~~~~~~~~~~
-
-Poniższe dodatki są częścią Standardu do momentu wydania Dominaria United.
-
-* :mtgexp:`AFR` :doc:`Adventures in the Forgotten Realms<AFR>` |AFR_percent|
-* :mtgexp:`STX` :doc:`Strixhaven: School of Mages<STX>` |STX_percent|
-* :mtgexp:`KHM` :doc:`Kaldheim<KHM>` |KHM_percent|
-* :mtgexp:`ZNR` :doc:`Zendikar Rising<ZNR>` |ZNR_percent|
 
 Pionier
 -------
