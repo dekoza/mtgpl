@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.5\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-08-25 14:27+0200\n"
+"POT-Creation-Date: 2022-09-12 21:29+0200\n"
 "PO-Revision-Date: 2022-08-31 21:32+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mh2/pl/>\n"
@@ -215,18 +215,24 @@ msgid "{(g/u/p)}"
 msgstr "{(g/u/p)}"
 
 #: ../../symbols.rst:101
+#, fuzzy
+#| msgid "{(g/u/p)}"
+msgid "{(g/w/p)}"
+msgstr "{(g/u/p)}"
+
+#: ../../symbols.rst:103
 msgid "{S}"
 msgstr "{S}"
 
-#: ../../symbols.rst:103
+#: ../../symbols.rst:105
 msgid "{E}"
 msgstr "{E}"
 
-#: ../../symbols.rst:105
+#: ../../symbols.rst:107
 msgid "{CHAOS}"
 msgstr "{CHAOS}"
 
-#: ../../symbols.rst:107
+#: ../../symbols.rst:109
 msgid "{PW}"
 msgstr "{PW}"
 
@@ -1620,7 +1626,7 @@ msgstr ""
 #: ../../MH2.rst:448
 msgid ""
 ":mtgtip:`Sweep the Skies<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/e/2/e22dcb4e-ac39-4bee-b8d0-1b6ed038834e.jpg?1626095141|"
+"border_crop/front/e/2/e22dcb4e-ac39-4bee-b8d0-1b6ed038834e.jpg?1662841746|"
 "https://scryfall.com/card/mh2/70/sweep-the-skies?utm_source=api>`"
 msgstr ""
 
