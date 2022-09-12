@@ -443,7 +443,7 @@
    Other Merfolk you control have ward |mana_1|. (Whenever another Merfolk you control becomes the target of a spell or ability an opponent controls, counter it unless that player pays |mana_1|.)
 
 
-:mtgtip:`Sweep the Skies<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/2/e22dcb4e-ac39-4bee-b8d0-1b6ed038834e.jpg?1626095141|https://scryfall.com/card/mh2/70/sweep-the-skies?utm_source=api>`
+:mtgtip:`Sweep the Skies<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/2/e22dcb4e-ac39-4bee-b8d0-1b6ed038834e.jpg?1662841746|https://scryfall.com/card/mh2/70/sweep-the-skies?utm_source=api>`
    Converge — Create a 1/1 colorless Thopter artifact creature token with flying for each color of mana spent to cast this spell.
 
 

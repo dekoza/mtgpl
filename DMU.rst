@@ -1075,10 +1075,10 @@
    Linebreaker Baloth can't be blocked by creatures with power 2 or less.
 
 
-:mtgtip:`Llanowar Greenwidow<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/1/81f90e4d-f60f-4175-830f-c2ce04c5a945.jpg?1661384268|https://scryfall.com/card/dmu/169/llanowar-greenwidow?utm_source=api>`
+:mtgtip:`Llanowar Greenwidow<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/1/81f90e4d-f60f-4175-830f-c2ce04c5a945.jpg?1662967121|https://scryfall.com/card/dmu/169/llanowar-greenwidow?utm_source=api>`
    Reach, trample
 
-   Domain — |mana_7|\ |mana_g|: Return Llanowar Greenwidow from your graveyard to the battlefield tapped. It gains "If this permanent would leave the battlefield, exile it instead." This ability costs |mana_1| less to activate for each basic land type among lands you control.
+   Domain — |mana_7|\ |mana_g|: Return Llanowar Greenwidow from your graveyard to the battlefield tapped. It gains "If this permanent would leave the battlefield, exile it instead of putting it anywhere else." This ability costs |mana_1| less to activate for each basic land type among lands you control.
 
 
 :mtgtip:`Llanowar Loamspeaker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bd5611db-82dd-464d-8b03-70d7619dcefe.jpg?1659472105|https://scryfall.com/card/dmu/170/llanowar-loamspeaker?utm_source=api>`
@@ -1389,7 +1389,7 @@
    At the beginning of your end step, you may pay |mana_x|. If you do, draw X cards. X can't be greater than the amount of life you gained this turn.
 
 
-:mtgtip:`Sol'Kanar the Tainted<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/0/3027347d-5fd3-47cd-83d4-8c834e00794c.jpg?1660846004|https://scryfall.com/card/dmu/219/solkanar-the-tainted?utm_source=api>`
+:mtgtip:`Sol'Kanar the Tainted<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/0/3027347d-5fd3-47cd-83d4-8c834e00794c.jpg?1662841942|https://scryfall.com/card/dmu/219/solkanar-the-tainted?utm_source=api>`
    At the beginning of your end step, choose one that hasn't been chosen —
 
    • Draw a card.
