@@ -153,10 +153,10 @@
    Whenever the final chapter of a Saga you control triggers, create a 4/4 white Angel creature token with flying and vigilance.
 
 
-:mtgtip:`Robaran Mercenaries<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/2/32e9a83f-be4b-4116-8e0d-61c159286ae0.jpg?1661583376|https://scryfall.com/card/dmc/22/robaran-mercenaries?utm_source=api>`
+:mtgtip:`Robaran Mercenaries<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/2/32e9a83f-be4b-4116-8e0d-61c159286ae0.jpg?1662754009|https://scryfall.com/card/dmc/22/robaran-mercenaries?utm_source=api>`
    Vigilance
 
-   Robaran Mercenaries has all activated abilties of all legendary creatures you control.
+   Robaran Mercenaries has all activated abilities of all legendary creatures you control.
 
 
 :mtgtip:`Emperor Mihail II<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/1/715284eb-8384-4ad8-910c-8378e954a2b1.jpg?1661534268|https://scryfall.com/card/dmc/23/emperor-mihail-ii?utm_source=api>`
@@ -769,13 +769,13 @@
    Return a creature you control to its owner's hand, then destroy all creatures.
 
 
-:mtgtip:`Wear<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/8/f8e1bd2d-ff66-4e68-9ad0-0be9c134e6f5.jpg?1661391880|https://scryfall.com/card/dmc/174/wear-tear?utm_source=api>`
+:mtgtip:`Wear<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/8/f8e1bd2d-ff66-4e68-9ad0-0be9c134e6f5.jpg?1662842211|https://scryfall.com/card/dmc/174/wear-tear?utm_source=api>`
    Destroy target artifact.
 
    Fuse (You may cast one or both halves of this card from your hand.)
 
 
-:mtgtip:`Tear<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/8/f8e1bd2d-ff66-4e68-9ad0-0be9c134e6f5.jpg?1661391880|https://scryfall.com/card/dmc/174/wear-tear?utm_source=api>`
+:mtgtip:`Tear<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/8/f8e1bd2d-ff66-4e68-9ad0-0be9c134e6f5.jpg?1662842211|https://scryfall.com/card/dmc/174/wear-tear?utm_source=api>`
    Destroy target enchantment.
 
    Fuse (You may cast one or both halves of this card from your hand.)
