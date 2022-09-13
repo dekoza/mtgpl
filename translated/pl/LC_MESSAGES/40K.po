@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2022.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-13 11:24+0200\n"
-"PO-Revision-Date: 2022-09-12 19:48+0000\n"
+"PO-Revision-Date: 2022-09-13 09:57+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/40k/pl/>\n"
 "Language: pl\n"
@@ -256,6 +256,9 @@ msgid ""
 "cards. You may put an artifact creature card or Vehicle card from among the "
 "cards milled this way into your hand."
 msgstr ""
+"Niech Stanie się Ma Wola — Ilekroć niniejszy zaatakuje, zmiel trzy karty. "
+"Możesz spośród kart zmielonych w ten sposób umieścić kartę artefaktowego "
+"stwora lub Pojazdu w twojej ręce."
 
 #: ../../40K.rst:18
 msgid ""
@@ -274,6 +277,9 @@ msgid ""
 "hand with mana value X or less have cascade, where X is the total amount of "
 "life your opponents have lost this turn."
 msgstr ""
+"Znak Władcy Chaosu — W twojej turze czary rzucane z twojej ręki mające skrót "
+"many X lub mniejszy, gdzie X jest sumą żyć straconych przez twoich "
+"przeciwników w tej turze, mają kaskadę."
 
 #: ../../40K.rst:26
 msgid ""
@@ -284,13 +290,15 @@ msgstr ""
 
 #: ../../40K.rst:21
 msgid "Vigilance"
-msgstr ""
+msgstr "Czujność"
 
 #: ../../40K.rst:23
 msgid ""
 "Unquestioned Wisdom — Other creatures you control get +1/+0 and have "
 "vigilance."
 msgstr ""
+"Niekwestionowana Mądrość — Inne stwory pod twoim władaniem dostają +1/+0 i "
+"mają czujność."
 
 #: ../../40K.rst:25
 msgid ""
@@ -298,6 +306,9 @@ msgid ""
 "Investigate. (Create a Clue token. It's an artifact with \"|mana_2|, "
 "Sacrifice this artifact: Draw a card.\")"
 msgstr ""
+"Łowy na Herezję — |mana_1|, |tap|: Przekręć wskazanego stwora pod władaniem "
+"przeciwnika. Dociekaj. (Stwórz żeton Wskazówki. To artefakt mający \"|mana_2|"
+", poświęć ten artefakt: Dobierz kartę.\")"
 
 #: ../../40K.rst:32
 msgid ""
@@ -312,12 +323,17 @@ msgid ""
 "counters on it for each time you've cast your commander from the command "
 "zone this game."
 msgstr ""
+"Szybka Regeneracja — Ten byt wchodzi na pole bitwy mając po dwa znaczniki +1/"
+"+1 za każdy przypadek rzucenia przez ciebie twojego dowódcy ze strefy "
+"dowodzenia w tej grze."
 
 #: ../../40K.rst:31
 msgid ""
 "Xenos Cunning — Whenever a creature you control with a counter on it dies, "
 "draw a card."
 msgstr ""
+"Xenos Przebiegły — Ilekroć umrze stwór pod twoim władaniem mający znacznik, "
+"dobierz kartę."
 
 #: ../../40K.rst:38
 msgid ""
@@ -331,12 +347,16 @@ msgid ""
 "Phaeron — Whenever one or more artifact cards leave your graveyard, create "
 "two 2/2 black Necron Warrior artifact creature token."
 msgstr ""
+"Phaeron — Ilekroć jeden lub więcej kart artefaktów opuści twój cmentarz, "
+"stwórz dwa żetony czarnego artefaktowego stwora Necron Wojownik 2/2."
 
 #: ../../40K.rst:37
 msgid ""
 "Grand Strategist — At the beginning of combat on your turn, another target "
 "creature you control gets +2/+2 and gains menace until end of turn."
 msgstr ""
+"Wielki Strateg — Na początku potyczki w twojej turze, inny wskazany stwór "
+"pod twoim władaniem do końca tury dostaje +2/+2 i złowrogość."
 
 #: ../../40K.rst:46
 msgid ""
@@ -352,12 +372,16 @@ msgid ""
 "draw X cards and you lose X life, where X is the number of Demons you "
 "control."
 msgstr ""
+"Książę Chaosu — Kiedy ten byt wejdzie na pole bitwy, dobierz X kart i strać "
+"X żyć, gdzie X jest liczbą Demonów pod twoim władaniem."
 
 #: ../../40K.rst:45
 msgid ""
 "Lord of Torment — Whenever another Demon enters the battlefield under your "
 "control, it deals damage equal to its power to any target."
 msgstr ""
+"Pan Męki — Ilekroć inny Demon wejdzie na pole bitwy pod twoim władaniem, "
+"zadaje on wskazanemu celowi obrażenia równe swojej sile."
 
 #: ../../40K.rst:52
 msgid ""
@@ -371,6 +395,8 @@ msgid ""
 "Spiritual Leader — At the beginning if combat on your turn, put a +1/+1 "
 "counter on target creature."
 msgstr ""
+"Duchowy Przywódca — Na początku potyczki w twojej turze, umieść znacznik +1/+"
+"1 na wskazanym stworze."
 
 #: ../../40K.rst:51
 msgid ""
@@ -380,6 +406,11 @@ msgid ""
 "may choose new targets for the copy. (A copy of a permanent spell becomes a "
 "token.)"
 msgstr ""
+"Stymulanty Psychiczne — |tap|: Weź |colorless|\\ |colorless|. Kiedy w tej "
+"turze rzucisz najbliższy czar mający |mana_x| w koszcie lub aktywujesz "
+"zdolność mającą |mana_x| w koszcie aktywacji, skopiuj ów czar lub zdolność. "
+"Możesz wskazać nowe cele dla owej kopii. (Kopia czaru bytu staje się "
+"żetonem.)"
 
 #: ../../40K.rst:60
 msgid ""
@@ -390,19 +421,23 @@ msgstr ""
 
 #: ../../40K.rst:55
 msgid "Double strike"
-msgstr ""
+msgstr "Podwójny cios"
 
 #: ../../40K.rst:57
 msgid ""
 "Master Tactician — Whenever one or more tokens enter the battlefield under "
 "your control, draw a card."
 msgstr ""
+"Mistrz Taktyki — Ilekroć jeden lub więcej żetonów wejdzie na pole bitwy pod "
+"twoim władaniem, dobierz kartę."
 
 #: ../../40K.rst:59
 msgid ""
 "Chapter Master — |mana_6|: Create two 2/2 white Astartes Warrior creature "
 "tokens with vigilance."
 msgstr ""
+"Mistrz Rozdziału — |mana_6|: Stwórz dwa żetony białego stwora Wojownik "
+"Astartes 2/2 z czujnością."
 
 #: ../../40K.rst:68
 msgid ""
@@ -417,12 +452,17 @@ msgid ""
 "mana_2| any number of times. When this creature enters the battlefield, "
 "create that many tokens that are copies of it.)"
 msgstr ""
+"Oddział |mana_2| (Jako dodatkowy koszt rzucenia tego czaru, możesz zapłacić "
+"|mana_2| dowolną liczbę razy. Kiedy ten stwór wejdzie na pole bitwy, stwórz "
+"tyle samo żetonów będących jego kopią.)"
 
 #: ../../40K.rst:67
 msgid ""
 "Suppressing Fire — Whenever Vanguard Suppressor deals combat damage to a "
 "player, draw a card."
 msgstr ""
+"Ogień Zaporowy — Ilekroć niniejszy zada graczowi obrażenia bojowe, dobierz "
+"kartę."
 
 #: ../../40K.rst:74
 msgid ""
@@ -438,12 +478,18 @@ msgid ""
 "paying its mana cost. Put the exiled cards on the bottom of your library in "
 "a random order.)"
 msgstr ""
+"Kaskada (Kiedy rzucisz ten czar, wyganiaj karty z wierzchu twojej biblioteki "
+"aż wygnasz nie-lądową kartę o niższym koszcie. Możesz rzucić ową kartę bez "
+"płacenia jej kosztu many. Umieść wygnane karty losowo na spodzie twojej "
+"biblioteki.)"
 
 #: ../../40K.rst:73
 msgid ""
 "Sonic Blaster — When Noise Marine enters the battlefield, it deals damage "
 "equal to the number of spells you've cast this turn to any target."
 msgstr ""
+"Miotacz Soniczny — Kiedy ten byt wejdzie na pole bitwy, zadaje on wskazanemu "
+"celowi obrażenia równe liczbie czarów rzuconych przez ciebie w tej turze."
 
 #: ../../40K.rst:80
 msgid ""
@@ -457,12 +503,17 @@ msgid ""
 "Ravenous (This creature enters the battlefield with X +1/+1 counters on it. "
 "If X is 5 or more, draw a card when it enters.)"
 msgstr ""
+"Wygłodniały (Ten stwór wchodzi na pole bitwy mając X znaczników +1/+1. Jeśli "
+"X jest 5 lub więcej, dobierz kartę przy jego wejściu.)"
 
 #: ../../40K.rst:79
 msgid ""
 "Brood Telepathy — When Broodlord enters the battlefield, distribute X +1/+1 "
 "counters among any number of other target creatures you control."
 msgstr ""
+"Telepatia Potomstwa — Kiedy ten byt wejdzie na pole bitwy, rozmieść łącznie "
+"X znaczników +1/+1 między dowolną liczbę wskazanych stworów pod twoim "
+"władaniem."
 
 #: ../../40K.rst:90
 msgid ""
@@ -473,13 +524,15 @@ msgstr ""
 
 #: ../../40K.rst:85
 msgid "Other creatures you control have trample."
-msgstr ""
+msgstr "Inne stwory pod twoim władaniem mają tratowanie."
 
 #: ../../40K.rst:87
 msgid ""
 "When Old One Eye enters the battlefield, create a 5/5 green Tyranid creature "
 "token."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton zielonego stwora Tyranid 5/"
+"5."
 
 #: ../../40K.rst:89
 msgid ""
@@ -487,6 +540,9 @@ msgid ""
 "discard two cards. If you do, return Old One Eye from your graveyard to your "
 "hand."
 msgstr ""
+"Szybkie Leczenie — Na początku twojej fazy głównej przed potyczką, możesz "
+"odrzucić dwie karty. Jeśli tak zrobisz, przywróć tę kartę z twojego "
+"cmentarza do twojej ręki."
 
 #: ../../40K.rst:96
 msgid ""
@@ -521,17 +577,19 @@ msgstr ""
 
 #: ../../40K.rst:99
 msgid "Flash"
-msgstr ""
+msgstr "Błysk"
 
 #: ../../40K.rst:101
 msgid "Haste"
-msgstr ""
+msgstr "Pośpiech"
 
 #: ../../40K.rst:103
 msgid ""
 "Flesh Hooks — Creatures you control that entered the battlefield this turn "
 "have double strike."
 msgstr ""
+"Mięsne Haki — Stwory pod twoim władaniem, które weszły w tej turze na pole "
+"bitwy, mają podwójny cios."
 
 #: ../../40K.rst:112
 msgid ""
@@ -545,6 +603,8 @@ msgid ""
 "(As this Saga enters and after your draw step, add a lore counter. Sacrifice "
 "after III.)"
 msgstr ""
+"(Przy wejściu tej Sagi oraz po kroku dobierania, dodaj znacznik opowieści. "
+"Poświęć po III.)"
 
 #: ../../40K.rst:109
 msgid ""
@@ -552,12 +612,17 @@ msgid ""
 "mana cost contains |mana_x|, it enters the battlefield with a number of +1/"
 "+1 counters on it equal to the number of lands you control."
 msgstr ""
+"I — Możesz umieścić na polu bitwy kartę stwora z twojej ręki. Jeśli jego "
+"kosz many zawiera |mana_x|, wchodzi on na pole bitwy mając tyle znaczników +"
+"1/+1, iloma lądami władasz."
 
 #: ../../40K.rst:111
 msgid ""
 "II, III — Double the number of each kind of counter on target creature you "
 "control."
 msgstr ""
+"II, III — Podwój liczbę każdego rodzaju znaczników na wskazanym stworze pod "
+"twoim władaniem."
 
 #: ../../40K.rst:116
 msgid ""
@@ -588,6 +653,10 @@ msgid ""
 "kind. Put that card into your hand and put all other cards revealed this way "
 "on the bottom of your library in any order."
 msgstr ""
+"Jeśli miałbyś dobrać kartę, możesz zamiast tego wybrać ląd lub nie-ląd u "
+"ujawnić karty z wierzchu twojej biblioteki aż ujawnisz kartę wybranego "
+"rodzaju. Umieść ową kartę w twojej ręce i umieść pozostałe karty ujawnione w "
+"ten sposób dowolnie na spodzie twojej biblioteki."
 
 #: ../../40K.rst:124
 msgid ""
@@ -601,6 +670,8 @@ msgid ""
 "If one or more +1/+1 counters would be put on a creature you control, that "
 "many plus one +1/+1 counters are put on it instead."
 msgstr ""
+"Jeśli jeden lub więcej znaczników +1/+1 miałoby zostać umieszczonych na "
+"stworze pod twoim władaniem, zamiast tego umieść ich o jeden więcej."
 
 #: ../../40K.rst:128
 msgid ""
@@ -611,7 +682,7 @@ msgstr ""
 
 #: ../../40K.rst:127 ../../40K.rst:135
 msgid "|tap|: Add one mana of any color in your commander's color identity."
-msgstr ""
+msgstr "|tap|: Weź jedną manę w jednym z kolorów tożsamości twojego dowódcy."
 
 #: ../../40K.rst:132
 msgid ""
