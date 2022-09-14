@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-21 00:16+0200\n"
+"POT-Creation-Date: 2022-09-14 22:33+0200\n"
 "PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/5dn/pl/>\n"
@@ -218,18 +218,24 @@ msgid "{(g/u/p)}"
 msgstr "{(g/u/p)}"
 
 #: ../../symbols.rst:101
+#, fuzzy
+#| msgid "{(g/u/p)}"
+msgid "{(g/w/p)}"
+msgstr "{(g/u/p)}"
+
+#: ../../symbols.rst:103
 msgid "{S}"
 msgstr "{S}"
 
-#: ../../symbols.rst:103
+#: ../../symbols.rst:105
 msgid "{E}"
 msgstr "{E}"
 
-#: ../../symbols.rst:105
+#: ../../symbols.rst:107
 msgid "{CHAOS}"
 msgstr "{CHAOS}"
 
-#: ../../symbols.rst:107
+#: ../../symbols.rst:109
 msgid "{PW}"
 msgstr "{PW}"
 
@@ -1173,7 +1179,7 @@ msgstr ""
 #: ../../5DN.rst:348
 msgid ""
 ":mtgtip:`Granulate<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/e/1/e13798b8-689e-4f19-af10-b72d3fe19f3c.jpg?1562880300|https://"
+"front/e/1/e13798b8-689e-4f19-af10-b72d3fe19f3c.jpg?1657014395|https://"
 "scryfall.com/card/5dn/67/granulate?utm_source=api>`"
 msgstr ""
 

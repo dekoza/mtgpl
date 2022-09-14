@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-21 00:16+0200\n"
+"POT-Creation-Date: 2022-09-14 22:33+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -213,18 +213,22 @@ msgid "{(g/u/p)}"
 msgstr ""
 
 #: ../../symbols.rst:101
-msgid "{S}"
+msgid "{(g/w/p)}"
 msgstr ""
 
 #: ../../symbols.rst:103
-msgid "{E}"
+msgid "{S}"
 msgstr ""
 
 #: ../../symbols.rst:105
-msgid "{CHAOS}"
+msgid "{E}"
 msgstr ""
 
 #: ../../symbols.rst:107
+msgid "{CHAOS}"
+msgstr ""
+
+#: ../../symbols.rst:109
 msgid "{PW}"
 msgstr ""
 
@@ -1132,7 +1136,7 @@ msgstr ""
 #: ../../5DN.rst:348
 msgid ""
 ":mtgtip:`Granulate<https://c1.scryfall.com/file/scryfall-cards/border_crop/"
-"front/e/1/e13798b8-689e-4f19-af10-b72d3fe19f3c.jpg?1562880300|https://"
+"front/e/1/e13798b8-689e-4f19-af10-b72d3fe19f3c.jpg?1657014395|https://"
 "scryfall.com/card/5dn/67/granulate?utm_source=api>`"
 msgstr ""
 

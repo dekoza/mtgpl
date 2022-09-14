@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-08-22 09:12+0200\n"
+"POT-Creation-Date: 2022-09-14 22:33+0200\n"
 "PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/10e/pl/>\n"
@@ -218,18 +218,24 @@ msgid "{(g/u/p)}"
 msgstr "{(g/u/p)}"
 
 #: ../../symbols.rst:101
+#, fuzzy
+#| msgid "{(g/u/p)}"
+msgid "{(g/w/p)}"
+msgstr "{(g/u/p)}"
+
+#: ../../symbols.rst:103
 msgid "{S}"
 msgstr "{S}"
 
-#: ../../symbols.rst:103
+#: ../../symbols.rst:105
 msgid "{E}"
 msgstr "{E}"
 
-#: ../../symbols.rst:105
+#: ../../symbols.rst:107
 msgid "{CHAOS}"
 msgstr "{CHAOS}"
 
-#: ../../symbols.rst:107
+#: ../../symbols.rst:109
 msgid "{PW}"
 msgstr "{PW}"
 
@@ -1660,8 +1666,8 @@ msgid ""
 "|mana_2|: Target white or black creature gains flying until end of turn. (It "
 "can't be blocked except by creatures with flying or reach.)"
 msgstr ""
-"|mana_2|: Wskazany biały lub czarny stwór do końca tury zyskuje latanie. ("
-"Nie może być blokowany, chyba że przez stwory mające latanie lub zasięg.)"
+"|mana_2|: Wskazany biały lub czarny stwór do końca tury zyskuje latanie. "
+"(Nie może być blokowany, chyba że przez stwory mające latanie lub zasięg.)"
 
 #: ../../10E.rst:516
 msgid ""
@@ -3157,8 +3163,8 @@ msgid ""
 "|mana_2|: Target black or green creature gains haste until end of turn. (It "
 "can attack and |tap| this turn.)"
 msgstr ""
-"|mana_2|: Wskazany czarny lub zielony stwór do końca tury zyskuje pośpiech. ("
-"Może atakować i |tap| w tej turze.)"
+"|mana_2|: Wskazany czarny lub zielony stwór do końca tury zyskuje pośpiech. "
+"(Może atakować i |tap| w tej turze.)"
 
 #: ../../10E.rst:1028
 msgid ""

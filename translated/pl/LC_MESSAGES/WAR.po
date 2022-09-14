@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Polish (Dodatki)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-29 18:35+0200\n"
+"POT-Creation-Date: 2022-09-14 22:33+0200\n"
 "PO-Revision-Date: 2022-08-26 21:04+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/war/pl/>\n"
@@ -213,18 +213,24 @@ msgid "{(g/u/p)}"
 msgstr "{(g/u/p)}"
 
 #: ../../symbols.rst:101
+#, fuzzy
+#| msgid "{(g/u/p)}"
+msgid "{(g/w/p)}"
+msgstr "{(g/u/p)}"
+
+#: ../../symbols.rst:103
 msgid "{S}"
 msgstr "{S}"
 
-#: ../../symbols.rst:103
+#: ../../symbols.rst:105
 msgid "{E}"
 msgstr "{E}"
 
-#: ../../symbols.rst:105
+#: ../../symbols.rst:107
 msgid "{CHAOS}"
 msgstr "{CHAOS}"
 
-#: ../../symbols.rst:107
+#: ../../symbols.rst:109
 msgid "{PW}"
 msgstr "{PW}"
 
@@ -1570,8 +1576,8 @@ msgid ""
 "+1 counters on an Army you control. If you don't control one, create a 0/0 "
 "black Zombie Army creature token first.)"
 msgstr ""
-"Co najwyżej jeden wskazany stwór do końca tury dostaje -2/-2. Zgromadź 2. ("
-"Umieść 2 znaczniki +1/+1 na Armii pod twoim władaniem. Jeśli żadną nie "
+"Co najwyżej jeden wskazany stwór do końca tury dostaje -2/-2. Zgromadź 2. "
+"(Umieść 2 znaczniki +1/+1 na Armii pod twoim władaniem. Jeśli żadną nie "
 "władasz, stwórz najpierw żeton czarnego stwora Armia Zombi 0/0.)"
 
 #: ../../WAR.rst:422
@@ -2164,7 +2170,8 @@ msgstr "O ile jest twoja tura, ten stwór ma pierwszy cios."
 msgid ""
 "|mana_1|, Sacrifice another creature: Ahn-Crop Invader gets +2/+0 until end "
 "of turn."
-msgstr "|mana_1|, poświęć innego stwora: Ten stwór do końca tury dostaje +2/+0."
+msgstr ""
+"|mana_1|, poświęć innego stwora: Ten stwór do końca tury dostaje +2/+0."
 
 #: ../../WAR.rst:600
 msgid ""
@@ -2229,8 +2236,8 @@ msgid ""
 "Whenever you cast a noncreature spell, Burning Prophet gets +1/+0 until end "
 "of turn, then scry 1."
 msgstr ""
-"Ilekroć rzucisz nie-stworowy czar, niniejszy stwór do końca tury dostaje +1/+"
-"0, po czym wróż 1."
+"Ilekroć rzucisz nie-stworowy czar, niniejszy stwór do końca tury dostaje +1/"
+"+0, po czym wróż 1."
 
 #: ../../WAR.rst:618
 msgid ""
