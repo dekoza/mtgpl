@@ -1,14 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2013-2022, Dominik Kozaczko
-# This file is distributed under the same license as the MTG-pl package.
+# This file is distributed under the same license as the MTG po polsku package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: MTG-pl 2022.9\n"
+"Project-Id-Version: MTG po polsku 2022.9\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-09-14 11:53+0200\n"
+"POT-Creation-Date: 2022-09-14 21:25+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -92,7 +92,6 @@ msgstr ""
 msgid "p95"
 msgstr ""
 
-#: ../../progress.rst:20
 #: ../../percentages.inc:4
 #: ../../percentages.inc:7
 #: ../../percentages.inc:10
@@ -198,43 +197,6 @@ msgstr ""
 #: ../../percentages.inc:432
 #: ../../percentages.inc:435
 #: ../../percentages.inc:442
-#: ../../progress.rst:20
-#: ../../percentages.inc:435
-#: ../../percentages.inc:429
-#: ../../percentages.inc:364
-#: ../../percentages.inc:398
-#: ../../percentages.inc:25
-#: ../../percentages.inc:168
-#: ../../percentages.inc:112
-#: ../../percentages.inc:207
-#: ../../percentages.inc:246
-#: ../../percentages.inc:162
-#: ../../percentages.inc:310
-#: ../../percentages.inc:201
-#: ../../percentages.inc:148
-#: ../../percentages.inc:159
-#: ../../percentages.inc:100
-#: ../../percentages.inc:188
-#: ../../percentages.inc:135
-#: ../../percentages.inc:320
-#: ../../percentages.inc:442
-#: ../../percentages.inc:249
-#: ../../percentages.inc:252
-#: ../../percentages.inc:351
-#: ../../percentages.inc:297
-#: ../../percentages.inc:373
-#: ../../percentages.inc:232
-#: ../../progress.rst:20
-#: ../../progress.rst:20
-#: ../../progress.rst:20
-#: ../../percentages.inc:358
-#: ../../percentages.inc:408
-#: ../../percentages.inc:376
-#: ../../percentages.inc:291
-#: ../../percentages.inc:198
-#: ../../progress.rst:20
-#: ../../progress.rst:20
-#: ../../progress.rst:20
 #: ../../progress.rst:20
 msgid "Tłumaczenie zakończone"
 msgstr ""
@@ -483,7 +445,6 @@ msgstr ""
 msgid "ODY_percent"
 msgstr ""
 
-#: ../../percentages.inc:424
 #: ../../percentages.inc:424
 msgid "HBG_percent"
 msgstr ""

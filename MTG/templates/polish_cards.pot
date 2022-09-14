@@ -1,14 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2013-2022, Dominik Kozaczko
-# This file is distributed under the same license as the MTG-pl package.
+# This file is distributed under the same license as the MTG po polsku package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: MTG-pl 2022.9\n"
+"Project-Id-Version: MTG po polsku 2022.9\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-09-01 18:04+0200\n"
+"POT-Creation-Date: 2022-09-14 21:25+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -41,11 +41,9 @@ msgid "|image_forest_1| |image_forest_2|"
 msgstr ""
 
 #: ../../polish_cards.rst:30
-#: ../../polish_cards.rst:30
 msgid "image_forest_1"
 msgstr ""
 
-#: ../../polish_cards.rst:31
 #: ../../polish_cards.rst:31
 msgid "image_forest_2"
 msgstr ""
@@ -59,7 +57,6 @@ msgid "|image_island_1|"
 msgstr ""
 
 #: ../../polish_cards.rst:33
-#: ../../polish_cards.rst:33
 msgid "image_island_1"
 msgstr ""
 
@@ -72,11 +69,9 @@ msgid "|image_mountain_1| |image_mountain_2|"
 msgstr ""
 
 #: ../../polish_cards.rst:35
-#: ../../polish_cards.rst:35
 msgid "image_mountain_1"
 msgstr ""
 
-#: ../../polish_cards.rst:36
 #: ../../polish_cards.rst:36
 msgid "image_mountain_2"
 msgstr ""
@@ -90,16 +85,13 @@ msgid "|image_plains_1| |image_plains_2| |image_plains_3|"
 msgstr ""
 
 #: ../../polish_cards.rst:38
-#: ../../polish_cards.rst:38
 msgid "image_plains_1"
 msgstr ""
 
 #: ../../polish_cards.rst:39
-#: ../../polish_cards.rst:39
 msgid "image_plains_2"
 msgstr ""
 
-#: ../../polish_cards.rst:40
 #: ../../polish_cards.rst:40
 msgid "image_plains_3"
 msgstr ""
@@ -113,11 +105,9 @@ msgid "|image_swamp_1| |image_swamp_2|"
 msgstr ""
 
 #: ../../polish_cards.rst:42
-#: ../../polish_cards.rst:42
 msgid "image_swamp_1"
 msgstr ""
 
-#: ../../polish_cards.rst:43
 #: ../../polish_cards.rst:43
 msgid "image_swamp_2"
 msgstr ""
@@ -139,16 +129,13 @@ msgid "|image_beast_1| |image_beast_2| |image_beast_3|"
 msgstr ""
 
 #: ../../polish_cards.rst:108
-#: ../../polish_cards.rst:108
 msgid "image_beast_1"
 msgstr ""
 
 #: ../../polish_cards.rst:109
-#: ../../polish_cards.rst:109
 msgid "image_beast_2"
 msgstr ""
 
-#: ../../polish_cards.rst:110
 #: ../../polish_cards.rst:110
 msgid "image_beast_3"
 msgstr ""
@@ -167,7 +154,6 @@ msgid "|image_bird_1|"
 msgstr ""
 
 #: ../../polish_cards.rst:112
-#: ../../polish_cards.rst:112
 msgid "image_bird_1"
 msgstr ""
 
@@ -184,11 +170,9 @@ msgid "|image_bird_2| |image_bird_3|"
 msgstr ""
 
 #: ../../polish_cards.rst:113
-#: ../../polish_cards.rst:113
 msgid "image_bird_2"
 msgstr ""
 
-#: ../../polish_cards.rst:114
 #: ../../polish_cards.rst:114
 msgid "image_bird_3"
 msgstr ""
@@ -201,7 +185,6 @@ msgstr ""
 msgid "|image_boar_1|"
 msgstr ""
 
-#: ../../polish_cards.rst:129
 #: ../../polish_cards.rst:129
 msgid "image_boar_1"
 msgstr ""
@@ -219,21 +202,17 @@ msgid "|image_knight_1| |image_knight_2| |image_knight_3| |image_knight_4|"
 msgstr ""
 
 #: ../../polish_cards.rst:117
-#: ../../polish_cards.rst:117
 msgid "image_knight_1"
 msgstr ""
 
-#: ../../polish_cards.rst:118
 #: ../../polish_cards.rst:118
 msgid "image_knight_2"
 msgstr ""
 
 #: ../../polish_cards.rst:119
-#: ../../polish_cards.rst:119
 msgid "image_knight_3"
 msgstr ""
 
-#: ../../polish_cards.rst:120
 #: ../../polish_cards.rst:120
 msgid "image_knight_4"
 msgstr ""
@@ -251,7 +230,6 @@ msgid "|image_sliver_1|"
 msgstr ""
 
 #: ../../polish_cards.rst:106
-#: ../../polish_cards.rst:106
 msgid "image_sliver_1"
 msgstr ""
 
@@ -268,11 +246,9 @@ msgid "|image_soldier_2| |image_soldier_4|"
 msgstr ""
 
 #: ../../polish_cards.rst:123
-#: ../../polish_cards.rst:123
 msgid "image_soldier_2"
 msgstr ""
 
-#: ../../polish_cards.rst:125
 #: ../../polish_cards.rst:125
 msgid "image_soldier_4"
 msgstr ""
@@ -290,7 +266,6 @@ msgid "|image_soldier_3|"
 msgstr ""
 
 #: ../../polish_cards.rst:124
-#: ../../polish_cards.rst:124
 msgid "image_soldier_3"
 msgstr ""
 
@@ -307,7 +282,6 @@ msgid "|image_soldier_1|"
 msgstr ""
 
 #: ../../polish_cards.rst:122
-#: ../../polish_cards.rst:122
 msgid "image_soldier_1"
 msgstr ""
 
@@ -323,7 +297,6 @@ msgstr ""
 msgid "|image_wolf_1|"
 msgstr ""
 
-#: ../../polish_cards.rst:127
 #: ../../polish_cards.rst:127
 msgid "image_wolf_1"
 msgstr ""

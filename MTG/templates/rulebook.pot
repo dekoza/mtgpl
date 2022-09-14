@@ -1,14 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2013-2022, Dominik Kozaczko
-# This file is distributed under the same license as the MTG-pl package.
+# This file is distributed under the same license as the MTG po polsku package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: MTG-pl 2022.9\n"
+"Project-Id-Version: MTG po polsku 2022.9\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-09-01 18:04+0200\n"
+"POT-Creation-Date: 2022-09-14 22:33+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,10 +21,6 @@ msgid "{C}"
 msgstr ""
 
 #: ../../symbols.rst:5
-#: ../../symbols.rst:5
-#: ../../symbols.rst:5
-#: ../../symbols.rst:5
-#: ../../symbols.rst:5
 msgid "{T}"
 msgstr ""
 
@@ -33,33 +29,21 @@ msgid "{Q}"
 msgstr ""
 
 #: ../../symbols.rst:9
-#: ../../symbols.rst:9
-#: ../../symbols.rst:9
 msgid "{U}"
 msgstr ""
 
-#: ../../symbols.rst:11
-#: ../../symbols.rst:11
-#: ../../symbols.rst:11
-#: ../../symbols.rst:11
-#: ../../symbols.rst:11
-#: ../../symbols.rst:11
-#: ../../symbols.rst:11
 #: ../../symbols.rst:11
 msgid "{W}"
 msgstr ""
 
 #: ../../symbols.rst:13
-#: ../../symbols.rst:13
 msgid "{B}"
 msgstr ""
 
 #: ../../symbols.rst:15
-#: ../../symbols.rst:15
 msgid "{G}"
 msgstr ""
 
-#: ../../symbols.rst:17
 #: ../../symbols.rst:17
 msgid "{R}"
 msgstr ""
@@ -124,10 +108,6 @@ msgstr ""
 msgid "{2}"
 msgstr ""
 
-#: ../../symbols.rst:49
-#: ../../symbols.rst:49
-#: ../../symbols.rst:49
-#: ../../symbols.rst:49
 #: ../../symbols.rst:49
 msgid "{3}"
 msgstr ""
@@ -437,21 +417,17 @@ msgid "|image14|\\ |image15|\\ |image16|\\ |image17|"
 msgstr ""
 
 #: ../../rulebook.rst:626
-#: ../../rulebook.rst:626
 msgid "image14"
 msgstr ""
 
-#: ../../rulebook.rst:627
 #: ../../rulebook.rst:627
 msgid "image15"
 msgstr ""
 
 #: ../../rulebook.rst:628
-#: ../../rulebook.rst:628
 msgid "image16"
 msgstr ""
 
-#: ../../rulebook.rst:629
 #: ../../rulebook.rst:629
 msgid "image17"
 msgstr ""

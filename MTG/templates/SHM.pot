@@ -1,14 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2013-2022, Dominik Kozaczko
-# This file is distributed under the same license as the MTG-pl package.
+# This file is distributed under the same license as the MTG po polsku package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: MTG-pl 2022.9\n"
+"Project-Id-Version: MTG po polsku 2022.9\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-09-01 18:04+0200\n"
+"POT-Creation-Date: 2022-09-14 22:33+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,241 +17,53 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../symbols.rst:3
-#: ../../symbols.rst:3
-#: ../../symbols.rst:3
-#: ../../symbols.rst:3
-#: ../../symbols.rst:3
-#: ../../symbols.rst:3
-#: ../../symbols.rst:3
-#: ../../symbols.rst:3
-#: ../../symbols.rst:3
-#: ../../symbols.rst:3
 msgid "{C}"
 msgstr ""
 
-#: ../../symbols.rst:5
-#: ../../symbols.rst:5
-#: ../../symbols.rst:5
-#: ../../symbols.rst:5
-#: ../../symbols.rst:5
-#: ../../symbols.rst:5
-#: ../../symbols.rst:5
-#: ../../symbols.rst:5
-#: ../../symbols.rst:5
-#: ../../symbols.rst:5
-#: ../../symbols.rst:5
-#: ../../symbols.rst:5
-#: ../../symbols.rst:5
-#: ../../symbols.rst:5
-#: ../../symbols.rst:5
-#: ../../symbols.rst:5
-#: ../../symbols.rst:5
-#: ../../symbols.rst:5
-#: ../../symbols.rst:5
-#: ../../symbols.rst:5
-#: ../../symbols.rst:5
-#: ../../symbols.rst:5
-#: ../../symbols.rst:5
-#: ../../symbols.rst:5
-#: ../../symbols.rst:5
-#: ../../symbols.rst:5
-#: ../../symbols.rst:5
-#: ../../symbols.rst:5
-#: ../../symbols.rst:5
-#: ../../symbols.rst:5
-#: ../../symbols.rst:5
-#: ../../symbols.rst:5
-#: ../../symbols.rst:5
-#: ../../symbols.rst:5
-#: ../../symbols.rst:5
-#: ../../symbols.rst:5
-#: ../../symbols.rst:5
-#: ../../symbols.rst:5
-#: ../../symbols.rst:5
-#: ../../symbols.rst:5
-#: ../../symbols.rst:5
-#: ../../symbols.rst:5
-#: ../../symbols.rst:5
-#: ../../symbols.rst:5
-#: ../../symbols.rst:5
-#: ../../symbols.rst:5
-#: ../../symbols.rst:5
-#: ../../symbols.rst:5
-#: ../../symbols.rst:5
-#: ../../symbols.rst:5
-#: ../../symbols.rst:5
-#: ../../symbols.rst:5
 #: ../../symbols.rst:5
 msgid "{T}"
 msgstr ""
 
 #: ../../symbols.rst:7
-#: ../../symbols.rst:7
-#: ../../symbols.rst:7
-#: ../../symbols.rst:7
-#: ../../symbols.rst:7
-#: ../../symbols.rst:7
-#: ../../symbols.rst:7
-#: ../../symbols.rst:7
-#: ../../symbols.rst:7
-#: ../../symbols.rst:7
-#: ../../symbols.rst:7
-#: ../../symbols.rst:7
-#: ../../symbols.rst:7
-#: ../../symbols.rst:7
-#: ../../symbols.rst:7
-#: ../../symbols.rst:7
-#: ../../symbols.rst:7
-#: ../../symbols.rst:7
-#: ../../symbols.rst:7
-#: ../../symbols.rst:7
-#: ../../symbols.rst:7
-#: ../../symbols.rst:7
-#: ../../symbols.rst:7
 msgid "{Q}"
 msgstr ""
 
-#: ../../symbols.rst:9
-#: ../../symbols.rst:9
-#: ../../symbols.rst:9
-#: ../../symbols.rst:9
-#: ../../symbols.rst:9
-#: ../../symbols.rst:9
-#: ../../symbols.rst:9
-#: ../../symbols.rst:9
-#: ../../symbols.rst:9
-#: ../../symbols.rst:9
-#: ../../symbols.rst:9
-#: ../../symbols.rst:9
-#: ../../symbols.rst:9
-#: ../../symbols.rst:9
-#: ../../symbols.rst:9
-#: ../../symbols.rst:9
-#: ../../symbols.rst:9
-#: ../../symbols.rst:9
-#: ../../symbols.rst:9
 #: ../../symbols.rst:9
 msgid "{U}"
 msgstr ""
 
 #: ../../symbols.rst:11
-#: ../../symbols.rst:11
-#: ../../symbols.rst:11
-#: ../../symbols.rst:11
-#: ../../symbols.rst:11
-#: ../../symbols.rst:11
-#: ../../symbols.rst:11
-#: ../../symbols.rst:11
-#: ../../symbols.rst:11
-#: ../../symbols.rst:11
-#: ../../symbols.rst:11
-#: ../../symbols.rst:11
-#: ../../symbols.rst:11
-#: ../../symbols.rst:11
-#: ../../symbols.rst:11
-#: ../../symbols.rst:11
-#: ../../symbols.rst:11
-#: ../../symbols.rst:11
-#: ../../symbols.rst:11
-#: ../../symbols.rst:11
-#: ../../symbols.rst:11
-#: ../../symbols.rst:11
-#: ../../symbols.rst:11
-#: ../../symbols.rst:11
 msgid "{W}"
 msgstr ""
 
-#: ../../symbols.rst:13
-#: ../../symbols.rst:13
-#: ../../symbols.rst:13
-#: ../../symbols.rst:13
-#: ../../symbols.rst:13
-#: ../../symbols.rst:13
-#: ../../symbols.rst:13
-#: ../../symbols.rst:13
-#: ../../symbols.rst:13
-#: ../../symbols.rst:13
-#: ../../symbols.rst:13
-#: ../../symbols.rst:13
-#: ../../symbols.rst:13
-#: ../../symbols.rst:13
-#: ../../symbols.rst:13
-#: ../../symbols.rst:13
-#: ../../symbols.rst:13
-#: ../../symbols.rst:13
-#: ../../symbols.rst:13
 #: ../../symbols.rst:13
 msgid "{B}"
 msgstr ""
 
 #: ../../symbols.rst:15
-#: ../../symbols.rst:15
-#: ../../symbols.rst:15
-#: ../../symbols.rst:15
-#: ../../symbols.rst:15
-#: ../../symbols.rst:15
-#: ../../symbols.rst:15
-#: ../../symbols.rst:15
-#: ../../symbols.rst:15
-#: ../../symbols.rst:15
-#: ../../symbols.rst:15
-#: ../../symbols.rst:15
-#: ../../symbols.rst:15
-#: ../../symbols.rst:15
-#: ../../symbols.rst:15
-#: ../../symbols.rst:15
-#: ../../symbols.rst:15
-#: ../../symbols.rst:15
-#: ../../symbols.rst:15
-#: ../../symbols.rst:15
-#: ../../symbols.rst:15
 msgid "{G}"
 msgstr ""
 
-#: ../../symbols.rst:17
-#: ../../symbols.rst:17
-#: ../../symbols.rst:17
-#: ../../symbols.rst:17
-#: ../../symbols.rst:17
-#: ../../symbols.rst:17
-#: ../../symbols.rst:17
-#: ../../symbols.rst:17
-#: ../../symbols.rst:17
-#: ../../symbols.rst:17
-#: ../../symbols.rst:17
-#: ../../symbols.rst:17
-#: ../../symbols.rst:17
-#: ../../symbols.rst:17
-#: ../../symbols.rst:17
-#: ../../symbols.rst:17
-#: ../../symbols.rst:17
-#: ../../symbols.rst:17
-#: ../../symbols.rst:17
 #: ../../symbols.rst:17
 msgid "{R}"
 msgstr ""
 
 #: ../../symbols.rst:19
-#: ../../symbols.rst:19
 msgid "{2/U}"
 msgstr ""
 
-#: ../../symbols.rst:21
 #: ../../symbols.rst:21
 msgid "{2/W}"
 msgstr ""
 
 #: ../../symbols.rst:23
-#: ../../symbols.rst:23
 msgid "{2/B}"
 msgstr ""
 
 #: ../../symbols.rst:25
-#: ../../symbols.rst:25
 msgid "{2/G}"
 msgstr ""
 
-#: ../../symbols.rst:27
 #: ../../symbols.rst:27
 msgid "{2/R}"
 msgstr ""
@@ -277,10 +89,6 @@ msgid "{R/P}"
 msgstr ""
 
 #: ../../symbols.rst:39
-#: ../../symbols.rst:39
-#: ../../symbols.rst:39
-#: ../../symbols.rst:39
-#: ../../symbols.rst:39
 msgid "{X}"
 msgstr ""
 
@@ -289,57 +97,21 @@ msgid "{P}"
 msgstr ""
 
 #: ../../symbols.rst:43
-#: ../../symbols.rst:43
 msgid "{0}"
 msgstr ""
 
-#: ../../symbols.rst:45
-#: ../../symbols.rst:45
-#: ../../symbols.rst:45
-#: ../../symbols.rst:45
-#: ../../symbols.rst:45
-#: ../../symbols.rst:45
-#: ../../symbols.rst:45
-#: ../../symbols.rst:45
-#: ../../symbols.rst:45
-#: ../../symbols.rst:45
-#: ../../symbols.rst:45
-#: ../../symbols.rst:45
-#: ../../symbols.rst:45
-#: ../../symbols.rst:45
-#: ../../symbols.rst:45
-#: ../../symbols.rst:45
-#: ../../symbols.rst:45
-#: ../../symbols.rst:45
-#: ../../symbols.rst:45
-#: ../../symbols.rst:45
 #: ../../symbols.rst:45
 msgid "{1}"
 msgstr ""
 
 #: ../../symbols.rst:47
-#: ../../symbols.rst:47
-#: ../../symbols.rst:47
-#: ../../symbols.rst:47
-#: ../../symbols.rst:47
-#: ../../symbols.rst:47
-#: ../../symbols.rst:47
-#: ../../symbols.rst:47
-#: ../../symbols.rst:47
-#: ../../symbols.rst:47
-#: ../../symbols.rst:47
-#: ../../symbols.rst:47
 msgid "{2}"
 msgstr ""
 
 #: ../../symbols.rst:49
-#: ../../symbols.rst:49
-#: ../../symbols.rst:49
 msgid "{3}"
 msgstr ""
 
-#: ../../symbols.rst:51
-#: ../../symbols.rst:51
 #: ../../symbols.rst:51
 msgid "{4}"
 msgstr ""
@@ -397,12 +169,6 @@ msgid "{20}"
 msgstr ""
 
 #: ../../symbols.rst:79
-#: ../../symbols.rst:79
-#: ../../symbols.rst:79
-#: ../../symbols.rst:79
-#: ../../symbols.rst:79
-#: ../../symbols.rst:79
-#: ../../symbols.rst:79
 msgid "{(r/g)}"
 msgstr ""
 
@@ -410,10 +176,6 @@ msgstr ""
 msgid "{(r/w)}"
 msgstr ""
 
-#: ../../symbols.rst:83
-#: ../../symbols.rst:83
-#: ../../symbols.rst:83
-#: ../../symbols.rst:83
 #: ../../symbols.rst:83
 msgid "{(u/b)}"
 msgstr ""
@@ -427,10 +189,6 @@ msgid "{(w/b)}"
 msgstr ""
 
 #: ../../symbols.rst:89
-#: ../../symbols.rst:89
-#: ../../symbols.rst:89
-#: ../../symbols.rst:89
-#: ../../symbols.rst:89
 msgid "{(w/u)}"
 msgstr ""
 
@@ -439,18 +197,9 @@ msgid "{(b/g)}"
 msgstr ""
 
 #: ../../symbols.rst:93
-#: ../../symbols.rst:93
-#: ../../symbols.rst:93
 msgid "{(b/r)}"
 msgstr ""
 
-#: ../../symbols.rst:95
-#: ../../symbols.rst:95
-#: ../../symbols.rst:95
-#: ../../symbols.rst:95
-#: ../../symbols.rst:95
-#: ../../symbols.rst:95
-#: ../../symbols.rst:95
 #: ../../symbols.rst:95
 msgid "{(g/w)}"
 msgstr ""

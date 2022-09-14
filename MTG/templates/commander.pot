@@ -1,14 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2013-2022, Dominik Kozaczko
-# This file is distributed under the same license as the MTG-pl package.
+# This file is distributed under the same license as the MTG po polsku package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: MTG-pl 2022.9\n"
+"Project-Id-Version: MTG po polsku 2022.9\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-09-14 11:53+0200\n"
+"POT-Creation-Date: 2022-09-14 21:25+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -96,7 +96,6 @@ msgstr ""
 msgid "p95"
 msgstr ""
 
-#: ../../progress.rst:20
 #: ../../percentages.inc:4
 #: ../../percentages.inc:7
 #: ../../percentages.inc:10
@@ -203,16 +202,6 @@ msgstr ""
 #: ../../percentages.inc:435
 #: ../../percentages.inc:442
 #: ../../progress.rst:20
-#: ../../percentages.inc:432
-#: ../../percentages.inc:97
-#: ../../percentages.inc:326
-#: ../../percentages.inc:59
-#: ../../percentages.inc:91
-#: ../../percentages.inc:72
-#: ../../percentages.inc:261
-#: ../../percentages.inc:240
-#: ../../percentages.inc:288
-#: ../../percentages.inc:22
 msgid "Tłumaczenie zakończone"
 msgstr ""
 
@@ -245,17 +234,13 @@ msgid "CHK_percent"
 msgstr ""
 
 #: ../../percentages.inc:37
-#: ../../percentages.inc:37
 msgid "CMR_percent"
 msgstr ""
 
 #: ../../percentages.inc:39
-#: ../../percentages.inc:39
 msgid "CMD_percent"
 msgstr ""
 
-#: ../../percentages.inc:44
-#: ../../percentages.inc:44
 #: ../../percentages.inc:44
 msgid "NCC_percent"
 msgstr ""
@@ -269,7 +254,6 @@ msgid "EXO_percent"
 msgstr ""
 
 #: ../../percentages.inc:62
-#: ../../percentages.inc:62
 msgid "BBD_percent"
 msgstr ""
 
@@ -282,7 +266,6 @@ msgid "5DN_percent"
 msgstr ""
 
 #: ../../percentages.inc:86
-#: ../../percentages.inc:86
 msgid "AFC_percent"
 msgstr ""
 
@@ -294,7 +277,6 @@ msgstr ""
 msgid "DST_percent"
 msgstr ""
 
-#: ../../percentages.inc:110
 #: ../../percentages.inc:110
 msgid "NEC_percent"
 msgstr ""
@@ -319,7 +301,6 @@ msgstr ""
 msgid "POR_percent"
 msgstr ""
 
-#: ../../percentages.inc:146
 #: ../../percentages.inc:146
 msgid "MIC_percent"
 msgstr ""
@@ -377,7 +358,6 @@ msgid "PLS_percent"
 msgstr ""
 
 #: ../../percentages.inc:303
-#: ../../percentages.inc:303
 msgid "C14_percent"
 msgstr ""
 
@@ -426,7 +406,6 @@ msgid "FUT_percent"
 msgstr ""
 
 #: ../../percentages.inc:369
-#: ../../percentages.inc:369
 msgid "KHC_percent"
 msgstr ""
 
@@ -439,11 +418,9 @@ msgid "4ED_percent"
 msgstr ""
 
 #: ../../percentages.inc:384
-#: ../../percentages.inc:384
 msgid "VOC_percent"
 msgstr ""
 
-#: ../../percentages.inc:386
 #: ../../percentages.inc:386
 msgid "C13_percent"
 msgstr ""
