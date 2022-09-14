@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2022.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-14 11:53+0200\n"
-"PO-Revision-Date: 2022-09-14 10:52+0000\n"
+"PO-Revision-Date: 2022-09-14 19:23+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/40k/pl/>\n"
 "Language: pl\n"
@@ -694,6 +694,8 @@ msgid ""
 "Proclamator Hailer — Each creature you control gets +1/+1 for each +1/+1 "
 "counter on it."
 msgstr ""
+"Proklamator Zdobywca — Każdy stwór pod twoim władaniem dostaje +1/+1 za "
+"każdy znacznik +1/+1 na nim."
 
 #: ../../40K.rst:140
 msgid ""
@@ -707,6 +709,8 @@ msgid ""
 "Rapacious Hunger — Whenever another creature dies, put a +1/+1 counter on "
 "Haruspex."
 msgstr ""
+"Drapieżny Głód — Ilekroć umrze inny stwór, umieść znacznik +1/+1 na "
+"niniejszym."
 
 #: ../../40K.rst:139
 msgid ""
@@ -847,6 +851,9 @@ msgid ""
 "+1/+1 counter from it. If you do, search your library for a basic land card, "
 "put it onto the battlefield tapped, then shuffle."
 msgstr ""
+"Przodujący Gatunek — Ilekroć niniejszy zaatakuje, możesz usunąć z niego "
+"znacznik +1/+1. Jeśli tak zrobisz, wyszukaj w twojej bibliotece kartę "
+"bazowego lądu, umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../40K.rst:188
 msgid ""
@@ -865,6 +872,9 @@ msgid ""
 "for up to X basic land cards, put them onto the battlefield tapped, then "
 "shuffle."
 msgstr ""
+"Komin Zarodników — Kiedy ten byt wejdzie na pole bitwy, wyszukaj w twojej "
+"bibliotece co najwyżej X kart lądów, umieść je przekręcone na polu bitwy, po "
+"czym przetasuj."
 
 #: ../../40K.rst:194
 msgid ""
@@ -878,6 +888,8 @@ msgid ""
 "Death Frenzy — When Termagant Swarm dies, create a number of 1/1 green "
 "Tyranid creature tokens equal to Termagant Swarm's power."
 msgstr ""
+"Szał Śmierci — Kiedy niniejszy umrze, stwórz tyle żetonów zielonego stwora "
+"Tyranid 1/1, ile miał on siły."
 
 #: ../../40K.rst:202
 msgid ""
@@ -891,6 +903,8 @@ msgid ""
 "Spawn Termagant — Whenever Tervigon deals combat damage to a player, create "
 "that many 1/1 green Tyranid creature tokens."
 msgstr ""
+"Pomiot Termaganta — Ilekroć niniejszy zada graczowi obrażenia bojowe, stwórz "
+"tyle samo żetonów zielonego stwora Tyranid 1/1."
 
 #: ../../40K.rst:208
 msgid ""
@@ -908,6 +922,8 @@ msgid ""
 "Hypertoxic Miasma — All lands have \"|tap|: Add one mana of any color\" and "
 "lose all other abilities."
 msgstr ""
+"Hipertoksyczna Miazma — Wszystkie lądy mają \"|tap|: Weź jedną manę "
+"dowolnego koloru\" i tracą wszystkie inne zdolności."
 
 #: ../../40K.rst:212
 msgid ""
@@ -921,6 +937,8 @@ msgid ""
 "Create a number of 3/3 green Tyranid Warrior creature tokens with trample "
 "equal to the number of opponents you have."
 msgstr ""
+"Stwórz tyle żetonów zielonego stwora Tyranid Wojownik 3/3 z tratowaniem, ilu "
+"masz przeciwników."
 
 #: ../../40K.rst:218
 msgid ""
@@ -934,6 +952,8 @@ msgid ""
 "Shieldwall — Sacrifice Tyrant Guard: Creatures you control with counters on "
 "them gain hexproof and indestructible until end of turn."
 msgstr ""
+"Tarczościana — Poświęć ten byt: Stwory pod twoim władaniem mające znaczniki "
+"do końca tury zyskują antyklątwę i niezniszczalność."
 
 #: ../../40K.rst:224
 msgid ""
@@ -952,6 +972,9 @@ msgid ""
 "you may search your library for a basic land card, put it onto the "
 "battlefield tapped, then shuffle."
 msgstr ""
+"Wyszkolony Foryś — Ilekroć niniejszy zada graczowi obrażenia bojowe, możesz "
+"wyszukać w twojej bibliotece kartę bazowego lądu, umieść ją przekręconą na "
+"polu bitwy, po czym przetasuj."
 
 #: ../../40K.rst:230
 msgid ""
@@ -1042,6 +1065,9 @@ msgid ""
 "battlefield under your control this turn, create a 1/1 blue Tyranid Gargoyle "
 "creature token with flying."
 msgstr ""
+"Podniebny Rój — Na początku twojego kroku końcowego, jeśli w tej turze "
+"wszedł na pole bitwy stwór pod twoim władaniem, stwórz żeton niebieskiego "
+"stwora Tyranid Gargulec 1/1 z lataniem."
 
 #: ../../40K.rst:258
 msgid ""
@@ -1065,6 +1091,9 @@ msgid ""
 "to a permanent or player, Ghyrson Starn, Kelermorph deals 2 damage to that "
 "permanent or player."
 msgstr ""
+"Trzy Autostrzały — Ilekroć inne źródło pod twoim władaniem zada dokładnie 1 "
+"obrażenie bytowi lub graczowi, niniejszy zadaje owemu bytowi lub graczowi 2 "
+"obrażenia."
 
 #: ../../40K.rst:264
 msgid ""
@@ -1079,6 +1108,9 @@ msgid ""
 "player's graveyard. Put a +1/+1 counter on Malanthrope fro each creature "
 "card exiled this way."
 msgstr ""
+"Zbieranie Trupów — Kiedy ten byt wejdzie na pole bitwy, wygnaj cmentarz "
+"wskazanego gracza. Umieść na niniejszym znacznik +1/+1 za każdą kartę stwora "
+"wygnaną w ten sposób."
 
 #: ../../40K.rst:270
 msgid ""
@@ -1093,6 +1125,9 @@ msgid ""
 "one target creature an opponent controls. If that creature would die this "
 "turn, exile it instead."
 msgstr ""
+"Terror z Głębin — Kiedy ten byt wejdzie na pole bitwy, walczy on z co "
+"najwyżej jednym wskazanym stworem pod władaniem przeciwnika. Jeśli ów stwór "
+"umrze w tej turze, zamiast tego wygnaj go."
 
 #: ../../40K.rst:278
 msgid ""
@@ -1106,6 +1141,8 @@ msgid ""
 "Whenever Ravener enters the battlefield, target creature attacks target "
 "opponent this turn if able."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór atakuje w tej turze "
+"wskazanego przeciwnika jeśli może."
 
 #: ../../40K.rst:284
 msgid ""
@@ -1126,6 +1163,8 @@ msgid ""
 "Whenever an opponent casts their first noncreature spell each turn, Shadow "
 "in the Warp deals 2 damage to that player."
 msgstr ""
+"Ilekroć przeciwnik rzuci swój pierwszy czar w danej turze, niniejszy zadaje "
+"owemu graczowi 2 obrażenia."
 
 #: ../../40K.rst:288
 msgid ""
@@ -1140,6 +1179,9 @@ msgid ""
 "it and a +1/+1 counter on up to one other target attacking creature. That "
 "creature can't be blocked this turn."
 msgstr ""
+"Podziemny Atak — Ilekroć niniejszy zaatakuje, umieść na nim znacznik +1/+1 "
+"oraz znacznik +1/+1 na co najwyżej jednym innym wskazanym atakującym "
+"stworze. Ów stwór nie może być w tej turze blokowany."
 
 #: ../../40K.rst:294
 msgid ""
@@ -1150,7 +1192,7 @@ msgstr ""
 
 #: ../../40K.rst:291
 msgid "Flying, ward |mana_4|"
-msgstr ""
+msgstr "Latanie, straż |mana_4|"
 
 #: ../../40K.rst:293
 msgid ""
@@ -1158,6 +1200,9 @@ msgid ""
 "control deals combat damage to a player, create a 1/1 blue Tyranid Gargoyle "
 "creature token with flying."
 msgstr ""
+"Wrzeszczące Gargulce — Ilekroć niniejszy lub inny Tyranid pod twoim "
+"władaniem zada graczowi obrażenia bojowe, stwórz żeton niebieskiego stwora "
+"Tyranid Gargulec 1/1 z lataniem."
 
 #: ../../40K.rst:300
 msgid ""
@@ -1172,15 +1217,13 @@ msgid ""
 "that creature has greater power or toughness than this creature, put a +1/+1 "
 "counter on this creature.)"
 msgstr ""
-"Ewoluuje (Ilekroć stwór wejdzie na pole bitwy pod twoim władaniem, jeśli ów "
+"Ewolucja (Ilekroć stwór wejdzie na pole bitwy pod twoim władaniem, jeśli ów "
 "stwór ma większą siłę lub wytrzymałość niż ten stwór, umieść znacznik +1/+1 "
 "na niniejszym stworze.)"
 
 #: ../../40K.rst:299
-#, fuzzy
-#| msgid "Other creatures you control have trample."
 msgid "Synapse Creature — Other creatures you control have evolve."
-msgstr "Inne stwory pod twoim władaniem mają tratowanie."
+msgstr "Stwór Synapsowy — Inne stwory pod twoim władaniem mają ewolucję."
 
 #: ../../40K.rst:304
 msgid ""
@@ -1191,7 +1234,7 @@ msgstr ""
 
 #: ../../40K.rst:303
 msgid "Flying, deathtouch, hexproof"
-msgstr ""
+msgstr "Latanie, dotyk śmierci, antyklątwa"
 
 #: ../../40K.rst:310
 msgid ""
@@ -1205,16 +1248,12 @@ msgid "Flying, haste"
 msgstr "Latanie, pośpiech"
 
 #: ../../40K.rst:309
-#, fuzzy
-#| msgid ""
-#| "Xenos Cunning — Whenever a creature you control with a counter on it "
-#| "dies, draw a card."
 msgid ""
 "The Will of the Hive Mind — Other creatures you control with counters on "
 "them have flying and haste."
 msgstr ""
-"Przebiegłość Obcych — Ilekroć umrze stwór pod twoim władaniem mający "
-"znacznik, dobierz kartę."
+"Wola Roju — Inne stwory pod twoim władaniem mające znaczniki mają latanie i "
+"pośpiech."
 
 #: ../../40K.rst:318
 msgid ""
@@ -1228,16 +1267,12 @@ msgid "Flying, ward |mana_2|"
 msgstr "Latanie, straż |mana_2|"
 
 #: ../../40K.rst:317
-#, fuzzy
-#| msgid ""
-#| "Lord of Torment — Whenever another Demon enters the battlefield under "
-#| "your control, it deals damage equal to its power to any target."
 msgid ""
 "Warp Blast — When Zoanthrope enters the battlefield, it deals X damage to "
 "any target."
 msgstr ""
-"Pan Męki — Ilekroć inny Demon wejdzie na pole bitwy pod twoim władaniem, "
-"zadaje on wskazanemu celowi obrażenia równe swojej sile."
+"Miotacz Warpowy — Kiedy ten byt wejdzie na pole bitwy, zadaje on wskazanemu "
+"celowi X obrażeń."
 
 #: ../../40K.rst:324
 msgid ""
@@ -1251,6 +1286,8 @@ msgid ""
 "Stowage — Whenever Goliath Truck attacks, put two +1/+1 counters on another "
 "target attacking creature."
 msgstr ""
+"Schowek — Ilekroć niniejszy zaatakuje, umieść dwa znaczniki +1/+1 na innym "
+"wskazanym atakującym stworze."
 
 #: ../../40K.rst:323
 msgid ""
