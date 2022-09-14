@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-01 18:04+0200\n"
-"PO-Revision-Date: 2022-09-04 20:28+0000\n"
+"PO-Revision-Date: 2022-09-14 15:09+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/rulebook/"
 "pl/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.13.1\n"
+"X-Generator: Weblate 4.14\n"
 
 #: ../../symbols.rst:3
 msgid "{C}"
@@ -334,9 +334,9 @@ msgid ""
 "white mana to cast it."
 msgstr ""
 "Mana jest zasobem używanym do rzucania czarów. Wszystkie karty czarów mają "
-"koszt many w prawym górnym roku. Koszt |mana_3|\\ |mana_w|\\ |mana_w| karty "
-"Serra Angel oznacza, że musisz zapłacić trzy many dowolnego koloru plus dwie "
-"białe many, aby ją rzucić."
+"koszt many w prawym górnym rogu. Koszt |mana_3|\\ |mana_w|\\ |mana_w| karty "
+"Serra Angel oznacza, że aby ją rzucić, musisz zapłacić trzy many dowolnego "
+"koloru plus dwie białe."
 
 #: ../../rulebook.rst:65
 msgid "TYPE LINE"
@@ -354,7 +354,7 @@ msgstr ""
 
 #: ../../rulebook.rst:71
 msgid "**Lands**"
-msgstr "**Lądy** (Land)"
+msgstr "**Ląd** (Land)"
 
 #: ../../rulebook.rst:77
 msgid ""
@@ -377,12 +377,12 @@ msgid ""
 "from your hand onto the battlefield during either of the main phases of your "
 "turn."
 msgstr ""
-"Możesz  zagrywać jeden ląd w każdej z twoich tury. Aby zagrać ląd, umieść go "
-"na polu bitwy z twojej ręki podczas jednej z faz głównych w twojej turze."
+"Możesz zagrać jeden ląd w każdej z twoich tur. Aby zagrać ląd, umieść go na "
+"polu bitwy z twojej ręki podczas jednej z faz głównych w twojej turze."
 
 #: ../../rulebook.rst:83
 msgid "**Creatures**"
-msgstr "**Stwory** (Creature)"
+msgstr "**Stwór** (Creature)"
 
 #: ../../rulebook.rst:91
 msgid ""
@@ -401,11 +401,11 @@ msgstr ""
 "Stwory wchodzą na pole bitwy z \"chorobą przywołania\", tzn. nie mogą "
 "atakować (oraz używać zdolności mających |tap| w koszcie) dopóki nie zaczną "
 "twojej tury pod twoim władaniem. Możesz blokować stworem niezależnie od "
-"kiedy przebywa on na polu bitwy."
+"tego, kiedy wszedł na pole bitwy."
 
 #: ../../rulebook.rst:93
 msgid "**Artifacts**"
-msgstr "**Artefakty** (Artifact)"
+msgstr "**Artefakt** (Artifact)"
 
 #: ../../rulebook.rst:98
 msgid ""
@@ -423,7 +423,7 @@ msgstr ""
 
 #: ../../rulebook.rst:100
 msgid "**Enchantments**"
-msgstr "**Uroki** (Enchantment)"
+msgstr "**Urok** (Enchantment)"
 
 #: ../../rulebook.rst:105
 msgid ""
@@ -439,7 +439,7 @@ msgstr ""
 
 #: ../../rulebook.rst:107
 msgid "**Sorceries**"
-msgstr "**Obrzędy** (Sorcery)"
+msgstr "**Obrzęd** (Sorcery)"
 
 #: ../../rulebook.rst:110
 msgid ""
@@ -448,12 +448,12 @@ msgid ""
 "the card into your graveyard."
 msgstr ""
 "Obrzędy to czary, które możesz rzucać wyłącznie podczas fazy główniej w "
-"twojej turze. Mają one jednorazowy efekt. Wykonujesz instrukcję na karcie, a "
-"po czym umieszczasz kartę w swoim cmentarzu."
+"twojej turze. Mają one jednorazowy efekt. Wykonujesz instrukcję na karcie, "
+"po czym umieszczasz kartę w twoim cmentarzu."
 
 #: ../../rulebook.rst:112
 msgid "**Instants**"
-msgstr "**Sztuczki** (Instant)"
+msgstr "**Sztuczka** (Instant)"
 
 #: ../../rulebook.rst:115
 msgid ""
@@ -505,7 +505,7 @@ msgid ""
 "activate a static ability; it just does what it says."
 msgstr ""
 "Zdolność statyczna to tekst, który jest zawsze prawdziwy, gdy dana karta "
-"jest polu bitwy. Przykładowo, Favorable Winds jest urokiem ze zdolnością "
+"jest na polu bitwy. Przykładowo, Favorable Winds jest urokiem ze zdolnością "
 "statyczną \"Stwory pod twoim władaniem mające latanie dostają +1/+1.\" Nie "
 "musisz aktywować zdolności statycznej; po prostu dzieje się to, co jest w "
 "jej treści."
@@ -526,10 +526,10 @@ msgid ""
 msgstr ""
 "Zdolność wyzwalana (triggered ability) to zdolność, która jest uruchamiana, "
 "gdy wystąpi określone wydarzenie w grze. Przykładowo: Tattered Mummy jest "
-"stworem z taką oto zdolnością wyzwalaną: \"Kiedy ten stwór umrze, każdy "
+"stworem z następującą zdolnością wyzwalaną: \"Kiedy ten stwór umrze, każdy "
 "przeciwnik traci 2 życia.\". Każda zdolność wyzwalana zaczyna się słowem "
-"\"kiedy\" (when), \"ilekroć\" (whenever) lub zwrotem \"na początku/końcu"
-"\" (at). Zdolności wyzwalanych się nie aktywuje — są one automatycznie "
+"\"kiedy\" (when), \"ilekroć\" (whenever) lub zwrotem \"na początku/końcu\" "
+"(at). Zdolności wyzwalanych się nie aktywuje — są one automatycznie "
 "uruchamiane ilekroć warunki podane na początku zdolności zostaną spełnione."
 
 #: ../../rulebook.rst:147
@@ -548,14 +548,14 @@ msgid ""
 "activate this kind of ability if the permanent is already tapped or if it’s "
 "a creature with summoning sickness."
 msgstr ""
-"Zdolność aktywowana to zdolność, której można użyć w dowolnym momencie "
-"(zupełnie jak rzucenie sztuczki), o ile opłaci się jej koszt. Każda tego "
+"Zdolność aktywowana to zdolność, której można użyć w dowolnym momencie ("
+"zupełnie jak rzucenie sztuczki), o ile zapłaci się jej koszt. Każda tego "
 "typu zdolność ma ten sam format: \"Koszt: Efekt\". Przykładowo: Inspired "
 "Sphinx jest stworem ze zdolnością aktywowaną \"|mana_3|\\ |mana_u|: Stwórz "
 "żeton bezkolorowego artefaktycznego stwora Kopter 1/1 z lataniem.\" Niektóre "
-"aktywowane zdolności zawierają w swoim koszcie symbol |tap| (:ref:"
-"`przekręcenie<actions-tapping-untappings>`); oznacza to, że musisz :ref:"
-"`przekręcić<actions-tapping-untappings>` ową kartę, by aktywować jej "
+"aktywowane zdolności zawierają w swoim koszcie symbol |tap| "
+"(:ref:`przekręcenie<actions-tapping-untappings>`); oznacza to, że musisz "
+":ref:`przekręcić<actions-tapping-untappings>` ową kartę, by aktywować jej "
 "zdolność. Nie możesz aktywować tego typu zdolności jeśli :term:`byt` jest "
 "już przekręcony albo jeśli stwór ma :term:`chorobę przywołania<summoning "
 "sickness>`."
