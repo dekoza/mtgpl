@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2022.5\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-09-15 10:54+0200\n"
+"POT-Creation-Date: 2022-09-15 16:14+0200\n"
 "PO-Revision-Date: 2022-09-15 13:57+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/40k/pl/>\n"
@@ -399,8 +399,8 @@ msgid ""
 "Spiritual Leader — At the beginning of combat on your turn, put a +1/+1 "
 "counter on target creature."
 msgstr ""
-"Duchowy Przywódca — Na początku potyczki w twojej turze, umieść znacznik +1/+"
-"1 na wskazanym stworze."
+"Duchowy Przywódca — Na początku potyczki w twojej turze, umieść znacznik +1/"
+"+1 na wskazanym stworze."
 
 #: ../../40K.rst:51
 msgid ""
@@ -872,7 +872,7 @@ msgstr ""
 #: ../../40K.rst:194
 msgid ""
 ":mtgtip:`Herald of Slaanesh<https://c1.scryfall.com/file/scryfall-cards/"
-"border_crop/front/0/4/04a1852a-9b23-4834-852e-b018df88f497.jpg?1663210470|"
+"border_crop/front/0/4/04a1852a-9b23-4834-852e-b018df88f497.jpg?1663233453|"
 "https://scryfall.com/card/40k/77/herald-of-slaanesh?utm_source=api>`"
 msgstr ""
 
@@ -882,7 +882,9 @@ msgstr ""
 "Locus Slaanesha — Rzucanie czarów typu Demon kosztuje cię o |mana_2| mniej."
 
 #: ../../40K.rst:193
-msgid "Other demons you control have haste."
+#, fuzzy
+#| msgid "Other demons you control have haste."
+msgid "Other Demons you control have haste."
 msgstr "Inne Demony pod twoim władaniem mają pośpiech."
 
 #: ../../40K.rst:200
