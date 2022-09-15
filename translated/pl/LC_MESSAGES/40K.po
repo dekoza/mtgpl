@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2022.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-15 06:49+0200\n"
-"PO-Revision-Date: 2022-09-15 03:43+0000\n"
+"PO-Revision-Date: 2022-09-15 05:07+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/40k/pl/>\n"
 "Language: pl\n"
@@ -565,7 +565,7 @@ msgstr ""
 
 #: ../../40K.rst:93
 msgid "First strike, haste"
-msgstr ""
+msgstr "Pierwszy cios, pośpiech"
 
 #: ../../40K.rst:95
 msgid ""
@@ -573,6 +573,8 @@ msgid ""
 "hand, Keeper of Secrets deals damage equal to that spell's mana value to "
 "target opponent."
 msgstr ""
+"Symfonia Bólu — Ilekroć rzucisz czar skądkolwiek poza twoją ręką, niniejszy "
+"zadaje wskazanemu przeciwnikowi obrażenia równe skrótowi many owego czaru."
 
 #: ../../40K.rst:102
 msgid ""
@@ -598,6 +600,8 @@ msgid ""
 "Let the Galaxy Burn deals X damage plus 2 damage to each creature that "
 "didn't enter the battlefield this turn."
 msgstr ""
+"Ten czar zadaje każdemu stworowi, który nie wszedł w tej turze na pole bitwy "
+"po X+2 obrażeń."
 
 #: ../../40K.rst:108
 msgid ""
@@ -1134,24 +1138,20 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:273
-#, fuzzy
-#| msgid "Choose one —"
 msgid "Choose one or more —"
-msgstr "Wybierz jedno —"
+msgstr "Wybierz jedną lub więcej —"
 
 #: ../../40K.rst:275 ../../40K.rst:423
 msgid "Destroy target artifact."
 msgstr "Zniszcz wskazany artefakt."
 
 #: ../../40K.rst:277
-#, fuzzy
-#| msgid "Destroy target artifact."
 msgid "Destroy target creature."
-msgstr "Zniszcz wskazany artefakt."
+msgstr "Zniszcz wskazanego stwora."
 
 #: ../../40K.rst:279
 msgid "Kill! Maim! Burn! deals 3 damage to target player."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu graczowi 3 obrażenia."
 
 #: ../../40K.rst:286
 msgid ""
