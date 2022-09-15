@@ -332,7 +332,7 @@
 .. |M21_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |FEM_percent| image:: images/pie35.png        
+.. |FEM_percent| image:: images/pie40.png        
 
 .. |APC_percent| image:: images/pie50.png        
 
