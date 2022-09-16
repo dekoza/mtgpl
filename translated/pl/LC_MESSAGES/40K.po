@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2022.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-16 11:05+0200\n"
-"PO-Revision-Date: 2022-09-16 09:17+0000\n"
+"PO-Revision-Date: 2022-09-16 09:54+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/40k/pl/>\n"
 "Language: pl\n"
@@ -630,6 +630,10 @@ msgid ""
 "the next end step or if it would leave the battlefield. Unearth only as a "
 "sorcery.)"
 msgstr ""
+"Odkopanie |mana_2|\\ |mana_b| (|mana_2|\\ |mana_b|: Przywróć tę kartę z "
+"twojego cmentarza na pole bitwy. Zyskuje ona pośpiech. Wygnaj ją na początku "
+"najbliższego kroku końcowego lub gdyby miała opuścić pole bitwy. Aktywuj "
+"tylko jako obrzęd.)"
 
 #: ../../40K.rst:120
 msgid ""
@@ -972,6 +976,10 @@ msgid ""
 "the next end step or if it would leave the battlefield. Unearth only as a "
 "sorcery.)"
 msgstr ""
+"Odkopanie |mana_3|\\ |mana_b| (|mana_3|\\ |mana_b|: Przywróć tę kartę z "
+"twojego cmentarza na pole bitwy. Zyskuje ona pośpiech. Wygnaj ją na początku "
+"najbliższego kroku końcowego lub gdyby miała opuścić pole bitwy. Aktywuj "
+"tylko jako obrzęd.)"
 
 #: ../../40K.rst:224
 msgid ""
@@ -1132,10 +1140,8 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:269
-#, fuzzy
-#| msgid "Destroy target creature."
 msgid "Destroy all nonartifact creatures."
-msgstr "Zniszcz wskazanego stwora."
+msgstr "Zniszcz wszystkie nieartefaktowe stwory."
 
 #: ../../40K.rst:276
 msgid ""
@@ -1170,10 +1176,8 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:283
-#, fuzzy
-#| msgid "Add |mana_b|\\ |mana_b|\\ |mana_b|."
 msgid "Unearth |mana_6|\\ |mana_b|\\ |mana_b|"
-msgstr "Weź |mana_b|\\ |mana_b|\\ |mana_b|."
+msgstr "Odkopanie |mana_6|\\ |mana_b|\\ |mana_b|"
 
 #: ../../40K.rst:290
 msgid ""
@@ -1224,16 +1228,12 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:301
-#, fuzzy
-#| msgid ""
-#| "Spiritual Leader — At the beginning of combat on your turn, put a +1/+1 "
-#| "counter on target creature."
 msgid ""
 "Targeting Relay — At the beginning of combat on your turn, choose an "
 "opponent."
 msgstr ""
-"Duchowy Przywódca — Na początku potyczki w twojej turze, umieść znacznik +1/"
-"+1 na wskazanym stworze."
+"Przekaźnik Celowniczy — Na początku potyczki w twojej turze, wybierz "
+"przeciwnika."
 
 #: ../../40K.rst:303
 msgid "Creatures attacking the last chosen player have menace."
@@ -2493,19 +2493,14 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:721
-#, fuzzy
-#| msgid ""
-#| "Scavenge the Dead — When Malanthrope enters the battlefield, exile target "
-#| "player's graveyard. Put a +1/+1 counter on Malanthrope fro each creature "
-#| "card exiled this way."
 msgid ""
 "Feeder Mandibles — When Canoptek Scarab Swarm enters the battlefield, exile "
 "target player's graveyard. For each artifact or land card exiled this way, "
 "create a 1/1 colorless Insect artifact creature token with flying."
 msgstr ""
-"Zbieranie Trupów — Kiedy ten byt wejdzie na pole bitwy, wygnaj cmentarz "
-"wskazanego gracza. Umieść na niniejszym znacznik +1/+1 za każdą kartę stwora "
-"wygnaną w ten sposób."
+"Szczęki Karmiciela — Kiedy ten byt wejdzie na pole bitwy, wygnaj cmentarz "
+"wskazanego gracza. Za każdą kartę artefaktu lub lądy wygnaną w ten sposób, "
+"stwórz żeton bezkolorowego artefaktowego stwora Owad 1/1 z lataniem."
 
 #: ../../40K.rst:728
 msgid ""
@@ -2649,10 +2644,8 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:769
-#, fuzzy
-#| msgid "Flying, trample"
 msgid "Flying, indestructible"
-msgstr "Latanie, tratowanie"
+msgstr "Latanie, niezniszczalność"
 
 #: ../../40K.rst:771
 #, fuzzy
@@ -2668,16 +2661,12 @@ msgstr ""
 "stwórz dwa żetony czarnego artefaktowego stwora Necron Wojownik 2/2."
 
 #: ../../40K.rst:773
-#, fuzzy
-#| msgid ""
-#| "Crew 2 (Tap any number of creatures you control with total power 2 or "
-#| "more: This Vehicle becomes an artifact creature until end of turn.)"
 msgid ""
 "Crew 4 (Tap any number of creatures you control with total power 4 or more: "
 "This Vehicle becomes an artifact creature until end of turn.)"
 msgstr ""
-"Załoga 2 (Przekręć dowolną liczbę stworów pod twoim władaniem o łącznej sile "
-"co najmniej 2: Ten Pojazd staje się do końca tury artefaktowym stworem.)"
+"Załoga 4 (Przekręć dowolną liczbę stworów pod twoim władaniem o łącznej sile "
+"co najmniej 4: Ten Pojazd staje się do końca tury artefaktowym stworem.)"
 
 #: ../../40K.rst:782
 msgid ""
@@ -2707,7 +2696,7 @@ msgstr ""
 
 #: ../../40K.rst:785
 msgid "Equipped creature has lifelink."
-msgstr ""
+msgstr "Wyposażony stwór ma więź życia."
 
 #: ../../40K.rst:787
 #, fuzzy
@@ -2722,15 +2711,11 @@ msgstr ""
 "wskazanemu celowi obrażenia równe swojej sile."
 
 #: ../../40K.rst:789
-#, fuzzy
-#| msgid ""
-#| "Equip |mana_3| (|mana_3|: Attach to target creature you control. Equip "
-#| "only as a sorcery.)"
 msgid ""
 "Equip |mana_4| (|mana_4|: Attach to target creature you control. Equip only "
 "as a sorcery.)"
 msgstr ""
-"Wyposaż |mana_3| (|mana_3|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Wyposaż |mana_4| (|mana_4|: Dołącz do wskazanego stwora pod twoim władaniem. "
 "Aktywuj tylko jako obrzęd.)"
 
 #: ../../40K.rst:796
@@ -2858,6 +2843,7 @@ msgstr ""
 #: ../../40K.rst:827
 msgid "Prevent all combat damage that would be dealt this turn."
 msgstr ""
+"Zażegnaj wszystkie obrażenia bojowe, jakie mogłyby zostać zadane w tej turze."
 
 #: ../../40K.rst:836
 msgid ""
@@ -2896,11 +2882,11 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:839
-#, fuzzy
-#| msgid "All creatures get -3/-3 until end of turn."
 msgid ""
 "Target creature gets -1/-1 until end of turn for each Swamp you control."
-msgstr "Wszystkie stwory dostają do końca tury -3/-3."
+msgstr ""
+"Wskazany stwór do końca tury dostaje -1/-1 za każde Bagno pod twoim "
+"władaniem."
 
 #: ../../40K.rst:846
 msgid ""
@@ -2911,18 +2897,14 @@ msgstr ""
 
 #: ../../40K.rst:843
 msgid "Return target creature card from your graveyard to the battlefield."
-msgstr ""
+msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza na pole bitwy."
 
 #: ../../40K.rst:845
-#, fuzzy
-#| msgid ""
-#| "Flashback |mana_4|\\ |mana_r| (You may cast this card from your graveyard "
-#| "for its flashback cost. Then exile it.)"
 msgid ""
 "Flashback—Sacrifice three creatures. (You may cast this card from your "
 "graveyard for its flashback cost. Then exile it.)"
 msgstr ""
-"Wspomnienie |mana_4|\\ |mana_r| (Możesz rzucić tę kartę z twojego cmentarza "
+"Wspomnienie—Poświęć trzy stwory. (Możesz rzucić tę kartę z twojego cmentarza "
 "za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../40K.rst:850
@@ -2938,6 +2920,9 @@ msgid ""
 "all creatures they control, then puts all cards they exiled this way onto "
 "the battlefield."
 msgstr ""
+"Każdy gracz wygania wszystkie karty stworów ze swojego cmentarza, po czym "
+"poświęca wszystkie stwory pod swoim władaniem, po czym umieszcza wszystkie "
+"karty wygnane w ten sposób na polu bitwy."
 
 #: ../../40K.rst:854
 msgid ""
@@ -2947,10 +2932,10 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:853
-#, fuzzy
-#| msgid "All creatures get -3/-3 until end of turn."
 msgid "All creatures get -1/-1 until end of turn for each Swamp you control."
-msgstr "Wszystkie stwory dostają do końca tury -3/-3."
+msgstr ""
+"Wszystkie stwory dostają do końca tury -1/-1 za każde Bagno pod twoim "
+"władaniem."
 
 #: ../../40K.rst:860
 msgid ""
@@ -3339,22 +3324,20 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:979
-#, fuzzy
-#| msgid "As Herald's Horn enters the battlefield, choose a creature type."
 msgid "As Caged Sun enters the battlefield, choose a color."
-msgstr "Przy wejściu tego bytu na pole bitwy wybierz typ stwora."
+msgstr "Przy wejściu tego bytu na pole bitwy, wybierz kolor."
 
 #: ../../40K.rst:981
-#, fuzzy
-#| msgid "Creatures you control of the chosen type get +1/+1."
 msgid "Creatures you control of the chosen color get +1/+1."
-msgstr "Stwory wybranego typu pod twoim władaniem dostają +1/+1."
+msgstr "Stwory wybranego koloru pod twoim władaniem dostają +1/+1."
 
 #: ../../40K.rst:983
 msgid ""
 "Whenever a land's ability causes you to add one or more mana of the chosen "
 "color, add one additional mana of that color."
 msgstr ""
+"Ilekroć zdolność lądu sprawia, że bierzesz jedną lub więcej many wybranego "
+"koloru, weź jedną dodatkową manę owego koloru."
 
 #: ../../40K.rst:990
 msgid ""
@@ -3388,24 +3371,18 @@ msgstr ""
 
 #: ../../40K.rst:999
 msgid "Equipped creature gets +1/+0 for each artifact you control."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +1/+0 za każdy artefakt pod twoim władaniem."
 
 #: ../../40K.rst:1001
-#, fuzzy
-#| msgid ""
-#| "Equip |mana_3| (|mana_3|: Attach to target creature you control. Equip "
-#| "only as a sorcery.)"
 msgid ""
 "|mana_b|\\ |mana_b|: Attach Cranial Plating to target creature you control."
 msgstr ""
-"Wyposaż |mana_3| (|mana_3|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Aktywuj tylko jako obrzęd.)"
+"|mana_b|\\ |mana_b|: Dołącz ten artefakt do wskazanego stwora pod twoim "
+"władaniem."
 
 #: ../../40K.rst:1003
-#, fuzzy
-#| msgid "Equip |mana_3|"
 msgid "Equip |mana_1|"
-msgstr "Wyposaż |mana_3|"
+msgstr "Wyposaż |mana_1|"
 
 #: ../../40K.rst:1008
 msgid ""
@@ -3415,16 +3392,12 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:1007
-#, fuzzy
-#| msgid ""
-#| "|tap|: Add |colorless|\\ |colorless|. Activate only if you control five "
-#| "or more lands."
 msgid ""
 "|mana_2|, |tap|: Draw a card. Activate only if you control three or more "
 "lands with the same name."
 msgstr ""
-"|tap|: Weź |colorless|\\ |colorless|. Możesz aktywować tylko jeśli władasz "
-"co najmniej pięcioma lądami."
+"|mana_2|, |tap|: Dobierz kartę. Możesz aktywować tylko jeśli co najmniej "
+"trzema lądami o tej samej nazwie."
 
 #: ../../40K.rst:1012
 msgid ""
@@ -3434,10 +3407,8 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:1011
-#, fuzzy
-#| msgid "|tap|: Add one mana of any color."
 msgid "|tap|: Add three mana of any one color."
-msgstr "|tap|: Weź jedną manę dowolnego koloru."
+msgstr "|tap|: Weź trzy many w dowolnym jednym kolorze."
 
 #: ../../40K.rst:1020
 msgid ""
@@ -3503,10 +3474,8 @@ msgid "|tap|: Add |colorless|."
 msgstr "|tap|: Weź |colorless|."
 
 #: ../../40K.rst:1033
-#, fuzzy
-#| msgid "Sacrifice Commander's Sphere: Draw a card."
 msgid "|mana_1|, |tap|, Sacrifice Mind Stone: Draw a card."
-msgstr "Poświęć ten byt: Dobierz kartę."
+msgstr "|mana_1|, |tap|, poświęć ten artefakt: Dobierz kartę."
 
 #: ../../40K.rst:1042
 msgid ""
@@ -3518,16 +3487,19 @@ msgstr ""
 #: ../../40K.rst:1037
 msgid "You may look at the top card of your library any time."
 msgstr ""
+"Możesz patrzeć na wierzchnią kartę twojej biblioteki w dowolnym momencie."
 
 #: ../../40K.rst:1039
 msgid ""
 "You may cast artifact spells and colorless spells from the top of your "
 "library."
 msgstr ""
+"Możesz rzucać czary artefaktów oraz bezkolorowe czary z wierzchu twojej "
+"biblioteki."
 
 #: ../../40K.rst:1041
 msgid "|tap|, Pay 1 life: Exile the top card of your library."
-msgstr ""
+msgstr "|tap|, zapłać 1 życie: Wygnaj wierzchnią kartę twojej biblioteki."
 
 #: ../../40K.rst:1046
 msgid ""
@@ -3601,7 +3573,7 @@ msgstr ""
 
 #: ../../40K.rst:1073 ../../40K.rst:1183
 msgid "You have no maximum hand size."
-msgstr ""
+msgstr "Nie masz limitu kart na ręce."
 
 #: ../../40K.rst:1080
 msgid ""
