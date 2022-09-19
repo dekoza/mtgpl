@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-14 22:33+0200\n"
-"PO-Revision-Date: 2022-09-15 13:57+0000\n"
+"PO-Revision-Date: 2022-09-19 07:27+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mrd/pl/>\n"
 "Language: pl\n"
@@ -3270,6 +3270,8 @@ msgid ""
 "Whenever equipped creature deals combat damage to a player, you may draw two "
 "cards. If you do, discard a card."
 msgstr ""
+"Ilekroć wyposażony stwór zada graczowi obrażenia bojowe, możesz dobrać dwie "
+"karty. Jeśli tak zrobisz, odrzuć kartę."
 
 #: ../../MRD.rst:1066
 msgid ""
@@ -4058,7 +4060,7 @@ msgstr ""
 #: ../../MRD.rst:1343
 msgid ""
 "|tap|: Add |mana_w| or |mana_u|. Talisman of Progress deals 1 damage to you."
-msgstr ""
+msgstr "|tap|: Weź |mana_w| lub |mana_u|. Ten byt zadaje tobie 1 obrażenie."
 
 #: ../../MRD.rst:1350
 msgid ""

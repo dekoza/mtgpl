@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2022.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-19 08:58+0200\n"
-"PO-Revision-Date: 2022-09-16 09:54+0000\n"
+"PO-Revision-Date: 2022-09-19 07:26+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/40k/pl/>\n"
 "Language: pl\n"
@@ -477,10 +477,8 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:67
-#, fuzzy
-#| msgid "Flying, trample"
 msgid "Flying, lifelink"
-msgstr "Latanie, tratowanie"
+msgstr "Latanie, więź życia"
 
 #: ../../40K.rst:69
 #, fuzzy
@@ -602,10 +600,8 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:95
-#, fuzzy
-#| msgid "First strike, haste"
 msgid "First strike, vigilance"
-msgstr "Pierwszy cios, pośpiech"
+msgstr "Pierwszy cios, czujność"
 
 #: ../../40K.rst:97
 #, fuzzy
@@ -630,10 +626,8 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:101
-#, fuzzy
-#| msgid "First strike, haste"
 msgid "First strike"
-msgstr "Pierwszy cios, pośpiech"
+msgstr "Pierwszy cios"
 
 #: ../../40K.rst:103
 #, fuzzy
@@ -688,10 +682,8 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:117
-#, fuzzy
-#| msgid "Other creatures you control have trample."
 msgid "Other creatures you control get +1/+1."
-msgstr "Inne stwory pod twoim władaniem mają tratowanie."
+msgstr "Inne stwory pod twoim władaniem dostają +1/+1."
 
 #: ../../40K.rst:126
 msgid ""
@@ -714,10 +706,8 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:131
-#, fuzzy
-#| msgid "Flying, haste"
 msgid "Flying, vigilance"
-msgstr "Latanie, pośpiech"
+msgstr "Latanie, czujność"
 
 #: ../../40K.rst:140
 msgid ""
@@ -1248,10 +1238,8 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:305
-#, fuzzy
-#| msgid "When Dismal Backwater enters the battlefield, you gain 1 life."
 msgid "When Primaris Eliminator enters the battlefield, choose one —"
-msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wybierz jedno —"
 
 #: ../../40K.rst:307
 #, fuzzy
@@ -2273,10 +2261,8 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:639
-#, fuzzy
-#| msgid "First strike, haste"
 msgid "First strike, menace"
-msgstr "Pierwszy cios, pośpiech"
+msgstr "Pierwszy cios, złowrogość"
 
 #: ../../40K.rst:641
 msgid ""
@@ -2624,10 +2610,8 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:739
-#, fuzzy
-#| msgid "Destroy all nonartifact creatures."
 msgid "Destroy all nonland permanents."
-msgstr "Zniszcz wszystkie nieartefaktowe stwory."
+msgstr "Zniszcz wszystkie nielądowe byty."
 
 #: ../../40K.rst:748
 msgid ""
@@ -2971,16 +2955,12 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:849
-#, fuzzy
-#| msgid ""
-#| "Whenever a creature attacks one of your opponents, it gets +0/+1 until "
-#| "end of turn."
 msgid ""
 "Battle cry (Whenever this creature attacks, each other attacking creature "
 "gets +1/+0 until end of turn.)"
 msgstr ""
-"Ilekroć stwór zaatakuje jednego z twoich przeciwników, do końca tury dostaje "
-"on +0/+1."
+"Okrzyk bojowy (Ilekroć ten stwór zaatakuje, każdy inny atakujący stwór do "
+"końca tury dostaje +1/+0.)"
 
 #: ../../40K.rst:851
 #, fuzzy
@@ -3410,16 +3390,12 @@ msgstr ""
 "celowi X obrażeń."
 
 #: ../../40K.rst:989
-#, fuzzy
-#| msgid ""
-#| "Crew 2 (Tap any number of creatures you control with total power 2 or "
-#| "more: This Vehicle becomes an artifact creature until end of turn.)"
 msgid ""
 "Crew 1 (Tap any number of creatures you control with total power 1 or more: "
 "This Vehicle becomes an artifact creature until end of turn.)"
 msgstr ""
-"Załoga 2 (Przekręć dowolną liczbę stworów pod twoim władaniem o łącznej sile "
-"co najmniej 2: Ten Pojazd staje się do końca tury artefaktowym stworem.)"
+"Załoga 1 (Przekręć dowolną liczbę stworów pod twoim władaniem o łącznej sile "
+"co najmniej 1: Ten Pojazd staje się do końca tury artefaktowym stworem.)"
 
 #: ../../40K.rst:998
 msgid ""
@@ -3599,7 +3575,7 @@ msgstr ""
 
 #: ../../40K.rst:1045
 msgid "Crew 2"
-msgstr ""
+msgstr "Załoga 2"
 
 #: ../../40K.rst:1054
 msgid ""
@@ -3649,14 +3625,8 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:1061
-#, fuzzy
-#| msgid ""
-#| "Unquestionable Wisdom — Other creatures you control get +1/+0 and have "
-#| "vigilance."
 msgid "Commander creatures you control get +2/+2 and have indestructible."
-msgstr ""
-"Niekwestionowalna Mądrość — Inne stwory pod twoim władaniem dostają +1/+0 i "
-"mają czujność."
+msgstr "Dowódcy pod twoim władaniem dostają +2/+2 i mają niezniszczalność."
 
 #: ../../40K.rst:1074
 msgid ""
@@ -3670,12 +3640,12 @@ msgid ""
 "Escalate—Tap an untapped creature you control. (Pay this cost for each mode "
 "chosen beyond the first.)"
 msgstr ""
+"Eskalacja—Przekręć odkręconego stwora pod twoim władaniem. (Opłać ten koszt "
+"za każdy dodatkowo wybrany tryb.)"
 
 #: ../../40K.rst:1069
-#, fuzzy
-#| msgid "Destroy target creature."
 msgid "Destroy target creature with power 4 or greater."
-msgstr "Zniszcz wskazanego stwora."
+msgstr "Zniszcz wskazanego stwora o sile 4 lub większej."
 
 #: ../../40K.rst:1071 ../../40K.rst:1273
 msgid "Destroy target enchantment."
@@ -3684,6 +3654,7 @@ msgstr "Zniszcz wskazany urok."
 #: ../../40K.rst:1073
 msgid "Put a +1/+1 counter on each creature target player controls."
 msgstr ""
+"Umieść znacznik +1/+1 na każdym stworze pod władaniem wskazanego gracza."
 
 #: ../../40K.rst:1078
 msgid ""
@@ -3697,6 +3668,8 @@ msgid ""
 "Create X 1/1 white Soldier creature tokens, where X is the number of "
 "creatures on the battlefield."
 msgstr ""
+"Stwórz X żetonów białego stwora Piechur 1/1, gdzie X jest liczbą stworów na "
+"polu bitwy."
 
 #: ../../40K.rst:1082
 msgid ""
@@ -3710,6 +3683,8 @@ msgid ""
 "Target player sacrifices an attacking creature. You create X 1/1 white "
 "Soldier creature tokens, where X is that creature's toughness."
 msgstr ""
+"Wskazany gracz poświęca atakującego stwora. Stwórz X żetonów białego stwora "
+"Piechur 1/1, gdzie X jest wytrzymałością owego stwora."
 
 #: ../../40K.rst:1086
 msgid ""
@@ -3719,14 +3694,8 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:1085
-#, fuzzy
-#| msgid ""
-#| "Chose target creature you control. Destroy all creatures with power less "
-#| "than that creature's power."
 msgid "Destroy all creatures with power greater than target creature's power."
-msgstr ""
-"Zniszcz wszystkie stwory o sile mniejszej niż siła wskazanego stwora pod "
-"twoim władaniem."
+msgstr "Zniszcz wszystkie stwory z siłą większą niż siła wskazanego stwora."
 
 #: ../../40K.rst:1092
 msgid ""
@@ -3741,12 +3710,13 @@ msgid ""
 "while casting this spell pays for |mana_1| or one mana of that creature's "
 "color.)"
 msgstr ""
+"Współpraca (Twoje stwory mogą pomóc rzucić ten czar. Każdy stwór, którego "
+"przekręcisz podczas rzucania tego czaru płaci za |mana_1| lub jedną manę w "
+"swoim kolorze.)"
 
 #: ../../40K.rst:1091
-#, fuzzy
-#| msgid "Destroy all nonartifact creatures."
 msgid "Destroy all nontoken creatures."
-msgstr "Zniszcz wszystkie nieartefaktowe stwory."
+msgstr "Zniszcz wszystkie nieżetonowe stwory."
 
 #: ../../40K.rst:1098
 msgid ""
@@ -3756,16 +3726,12 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:1095
-#, fuzzy
-#| msgid ""
-#| "This spell costs |mana_1| less to cast for each creature on the "
-#| "battlefield."
 msgid ""
 "Strive — This spell costs |mana_1| more to cast for each target beyond the "
 "first."
 msgstr ""
-"Rzucenie tego czaru kosztuje o |mana_1| mniej za każdego stwora na polu "
-"bitwy."
+"Wysiłek — Rzucenie tego czaru kosztuje o |mana_1| więcej za wskazanie "
+"każdego celu poza pierwszym."
 
 #: ../../40K.rst:1097
 msgid ""
@@ -3773,6 +3739,9 @@ msgid ""
 "creature attacks, create a 1/1 white Soldier creature token that's tapped "
 "and attacking.\""
 msgstr ""
+"Do końca tury każdy z dowolnej liczby wskazanych stworów zyskuje \"Ilekroć "
+"ten stwór zaatakuje, stwórz przekręcony i atakujący żeton białego stwora "
+"Piechur 1/1.\""
 
 #: ../../40K.rst:1102
 msgid ""
@@ -3786,6 +3755,8 @@ msgid ""
 "Create X 1/1 white Soldier creature tokens. If X is 5 or more, destroy all "
 "other creatures."
 msgstr ""
+"Stwórz X żetonów białego stwora Piechur 1/1. Jeśli X jest co najmniej 5, "
+"zniszcz wszystkie inne stwory."
 
 #: ../../40K.rst:1106
 msgid ""
@@ -3796,7 +3767,7 @@ msgstr ""
 
 #: ../../40K.rst:1105
 msgid "Exile target creature. Its controller gains life equal to its power."
-msgstr ""
+msgstr "Wygnaj wskazanego stwora. Jego władca zyskuje życia równe jego sile."
 
 #: ../../40K.rst:1110
 msgid ""
@@ -3832,22 +3803,16 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:1117
-#, fuzzy
-#| msgid ""
-#| "Whenever a creature you control with a +1/+1 counter on it deals combat "
-#| "damage to a player, you may draw a card."
 msgid ""
 "Whenever a creature you control deals combat damage to a player, you may "
 "draw a card."
 msgstr ""
-"Ilekroć stwór pod twoim władaniem mający znacznik +1/+1 zada graczowi "
-"obrażenia bojowe, możesz dobrać kartę."
+"Ilekroć stwór pod twoim władaniem zada graczowi obrażenia bojowe, możesz "
+"dobrać kartę."
 
 #: ../../40K.rst:1119 ../../40K.rst:1597
-#, fuzzy
-#| msgid "Cycling |mana_3| (|mana_3|, Discard this card: Draw a card.)"
 msgid "Cycling |mana_2| (|mana_2|, Discard this card: Draw a card.)"
-msgstr "Recykling |mana_3| (|mana_3|, odrzuć tę kartę: Dobierz kartę.)"
+msgstr "Recykling |mana_2| (|mana_2|, odrzuć tę kartę: Dobierz kartę.)"
 
 #: ../../40K.rst:1124
 msgid ""
@@ -3857,16 +3822,12 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:1123
-#, fuzzy
-#| msgid ""
-#| "Put target creature card from an opponent's graveyard onto the "
-#| "battlefield tapped under your control, then exile that player's graveyard."
 msgid ""
 "Put target artifact or creature card from a graveyard onto the battlefield "
 "under your control. Shuffle Beacon of Unrest into its owner's library."
 msgstr ""
-"Umieść wskazaną kartę stwora z cmentarza przeciwnika na polu bitwy "
-"przekręconą pod twoim władaniem, po czym wygnaj cmentarz owego gracza."
+"Umieść wskazaną kartę artefaktu lub stwora z cmentarza na pole bitwy pod "
+"twoim władaniem. Wtasuj niniejszego stwora do biblioteki właściciela."
 
 #: ../../40K.rst:1128
 msgid ""
@@ -3976,10 +3937,8 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:1157
-#, fuzzy
-#| msgid "Destroy all nonartifact creatures."
 msgid "Destroy target nonartifact creature."
-msgstr "Zniszcz wszystkie nieartefaktowe stwory."
+msgstr "Zniszcz wskazanego nieartefaktowego stwora."
 
 #: ../../40K.rst:1162
 msgid ""
@@ -4355,10 +4314,8 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:1279
-#, fuzzy
-#| msgid "Destroy target enchantment."
 msgid "Destroy target creature or enchantment."
-msgstr "Zniszcz wskazany urok."
+msgstr "Zniszcz wskazanego stwora lub urok."
 
 #: ../../40K.rst:1284
 msgid ""
@@ -4369,7 +4326,7 @@ msgstr ""
 
 #: ../../40K.rst:1283
 msgid "Exile target nonland permanent."
-msgstr ""
+msgstr "Wygnaj wskazany nielądowy byt."
 
 #: ../../40K.rst:1288
 msgid ""
@@ -4505,24 +4462,20 @@ msgid ""
 "Multikicker |mana_2| (You may pay an additional |mana_2| any number of times "
 "as you cast this spell.)"
 msgstr ""
+"Wielopodbicie |mana_2| (Rzucając ten czar możesz zapłacić dodatkowo |mana_2| "
+"dowolną liczbę razy.)"
 
 #: ../../40K.rst:1333
-#, fuzzy
-#| msgid ""
-#| "Rapid Regeneration — The Swarmlord enters the battlefield with two +1/+1 "
-#| "counters on it for each time you've cast your commander from the command "
-#| "zone this game."
 msgid ""
 "Everflowing Chalice enters the battlefield with a charge counter on it for "
 "each time it was kicked."
 msgstr ""
-"Szybka Regeneracja — Ten byt wchodzi na pole bitwy mając po dwa znaczniki +1/"
-"+1 za każdy przypadek rzucenia przez ciebie twojego dowódcy ze strefy "
-"dowodzenia w tej grze."
+"Ten artefakt wchodzi na pole bitwy mając tyle znaczników ładunku, ile razy "
+"został podbity."
 
 #: ../../40K.rst:1335
 msgid "|tap|: Add |colorless| for each charge counter on Everflowing Chalice."
-msgstr ""
+msgstr "|tap|: Weź |colorless| za każdy znacznik ładunku na tym artefakcie."
 
 #: ../../40K.rst:1340
 msgid ""
@@ -4547,10 +4500,8 @@ msgid "|tap|: Add |colorless|\\ |colorless|."
 msgstr "|tap|: Weź |colorless|\\ |colorless|."
 
 #: ../../40K.rst:1345
-#, fuzzy
-#| msgid "|mana_1|, |tap|, Sacrifice Mind Stone: Draw a card."
 msgid "|mana_2|, |tap|, Sacrifice Hedron Archive: Draw two cards."
-msgstr "|mana_1|, |tap|, poświęć ten artefakt: Dobierz kartę."
+msgstr "|mana_2|, |tap|, poświęć ten artefakt: Dobierz dwie karty."
 
 #: ../../40K.rst:1354
 msgid ""
@@ -4610,27 +4561,19 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:1365
-#, fuzzy
-#| msgid ""
-#| "Whenever a creature you control with a +1/+1 counter on it deals combat "
-#| "damage to a player, you may draw a card."
 msgid ""
 "Whenever equipped creature deals combat damage to a player, you may draw two "
 "cards. If you do, discard a card."
 msgstr ""
-"Ilekroć stwór pod twoim władaniem mający znacznik +1/+1 zada graczowi "
-"obrażenia bojowe, możesz dobrać kartę."
+"Ilekroć wyposażony stwór zada graczowi obrażenia bojowe, możesz dobrać dwie "
+"karty. Jeśli tak zrobisz, odrzuć kartę."
 
 #: ../../40K.rst:1367
-#, fuzzy
-#| msgid ""
-#| "Equip |mana_3| (|mana_3|: Attach to target creature you control. Equip "
-#| "only as a sorcery.)"
 msgid ""
 "Equip |mana_1| (|mana_1|: Attach to target creature you control. Equip only "
 "as a sorcery.)"
 msgstr ""
-"Wyposaż |mana_3| (|mana_3|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Wyposaż |mana_1| (|mana_1|: Dołącz do wskazanego stwora pod twoim władaniem. "
 "Aktywuj tylko jako obrzęd.)"
 
 #: ../../40K.rst:1374
@@ -4687,6 +4630,8 @@ msgid ""
 "You may have Sculpting Steel enter the battlefield as a copy of any artifact "
 "on the battlefield."
 msgstr ""
+"Możesz sprawić, że ta karta wejdzie na pole bitwy jako kopia dowolnego "
+"artefaktu na polu bitwy."
 
 #: ../../40K.rst:1394
 msgid ""
@@ -4696,17 +4641,12 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:1389
-#, fuzzy
-#| msgid "Equipped creature has lifelink."
 msgid "Equipped creature gets +1/-1."
-msgstr "Wyposażony stwór ma więź życia."
+msgstr "Wyposażony stwór dostaje +1/-1."
 
 #: ../../40K.rst:1391
-#, fuzzy
-#| msgid "Whenever equipped creature attacks, put four +1/+1 counters on it."
 msgid "Whenever equipped creature dies, draw two cards."
-msgstr ""
-"Ilekroć wyposażony stwór zaatakuje, umieść na nim cztery znaczniki +1/+1."
+msgstr "Ilekroć wyposażony stwór umrze, dobierz dwie karty."
 
 #: ../../40K.rst:1398
 msgid ""
@@ -4775,14 +4715,9 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:1427
-#, fuzzy
-#| msgid ""
-#| "|tap|: Add |mana_w| or |mana_b|. Talisman of Hierarchy deals 1 damage to "
-#| "you."
 msgid ""
 "|tap|: Add |mana_w| or |mana_u|. Talisman of Progress deals 1 damage to you."
-msgstr ""
-"|tap|: Weź |mana_w| lub |mana_b|. Ten artefakt zadaje tobie 1 obrażenie."
+msgstr "|tap|: Weź |mana_w| lub |mana_u|. Ten byt zadaje tobie 1 obrażenie."
 
 #: ../../40K.rst:1434
 msgid ""
@@ -4803,10 +4738,8 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:1439
-#, fuzzy
-#| msgid "|mana_1|, |tap|, Sacrifice Mind Stone: Draw a card."
 msgid "|mana_7|, |tap|, Sacrifice Unstable Obelisk: Destroy target permanent."
-msgstr "|mana_1|, |tap|, poświęć ten artefakt: Dobierz kartę."
+msgstr "|mana_7|, |tap|, poświęć ten artefakt: Zniszcz wskazany byt."
 
 #: ../../40K.rst:1444
 msgid ""
@@ -4842,16 +4775,12 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:1453
-#, fuzzy
-#| msgid "Frontier Bivouac enters the battlefield tapped."
 msgid "Arcane Sanctum enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../40K.rst:1455
-#, fuzzy
-#| msgid "|tap|: Add |mana_g|, |mana_u|, or |mana_r|."
 msgid "|tap|: Add |mana_w|, |mana_u|, or |mana_b|."
-msgstr "|tap|: Weź |mana_g|, |mana_u|, or |mana_r|."
+msgstr "|tap|: Weź |mana_w|, |mana_u|, lub |mana_b|."
 
 #: ../../40K.rst:1462
 msgid ""
@@ -4861,16 +4790,13 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:1461
-#, fuzzy
-#| msgid ""
-#| "Search your library for an artifact card, reveal it, put it into your "
-#| "hand, then shuffle."
 msgid ""
 "Basic landcycling |mana_1| (|mana_1|, Discard this card: Search your library "
 "for a basic land card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
-"Wyszukaj w twojej bibliotece kartę artefaktu, ujawnij ją, umieść ją w twojej "
-"ręce, po czym przetasuj."
+"Lądocykling bazowych |mana_1| (|mana_1|, odrzuć tę kartę: Wyszukaj w twojej "
+"bibliotece kartę bazowego lądu, ujawnij ją, umieść w twojej ręce, po czym "
+"przetasuj.)"
 
 #: ../../40K.rst:1470
 msgid ""
@@ -4976,10 +4902,8 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:1503
-#, fuzzy
-#| msgid "|tap|: Add |mana_u| or |mana_b|."
 msgid "|mana_1|, |tap|: Add |mana_u|\\ |mana_b|."
-msgstr "|tap|: Weź |mana_u| lub |mana_b|."
+msgstr "|mana_1|, |tap|: Weź |mana_u|\\ |mana_b|."
 
 #: ../../40K.rst:1512
 msgid ""
@@ -4989,22 +4913,16 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:1507
-#, fuzzy
-#| msgid "Temple of Mystery enters the battlefield tapped."
 msgid "Desert of the Glorified enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../40K.rst:1511
-#, fuzzy
-#| msgid ""
-#| "Cycling |mana_3|\\ |mana_b|\\ |mana_b| (|mana_3|\\ |mana_b|\\ |mana_b|, "
-#| "Discard this card: Draw a card.)"
 msgid ""
 "Cycling |mana_1|\\ |mana_b| (|mana_1|\\ |mana_b|, Discard this card: Draw a "
 "card.)"
 msgstr ""
-"Recykling |mana_3|\\ |mana_b|\\ |mana_b| (|mana_3|\\ |mana_b|\\ |mana_b|, "
-"odrzuć tę kartę: Dobierz kartę.)"
+"Recykling |mana_1|\\ |mana_b| (|mana_1|\\ |mana_b|, odrzuć tę kartę: Dobierz "
+"kartę.)"
 
 #: ../../40K.rst:1520
 msgid ""
@@ -5059,24 +4977,18 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:1531
-#, fuzzy
-#| msgid ""
-#| "As Game Trail enters the battlefield, you may reveal a Mountain or Forest "
-#| "card from your hand. If you don't, Game Trail enters the battlefield "
-#| "tapped."
 msgid ""
 "As Foreboding Ruins enters the battlefield, you may reveal a Swamp or "
 "Mountain card from your hand. If you don't, Foreboding Ruins enters the "
 "battlefield tapped."
 msgstr ""
-"Przy wejściu tego bytu na pole bitwy możesz ujawnić z twojej ręki kartę Góry "
-"lub Lasu. Jeśli tak nie zrobisz, ten byt wchodzi przekręcony na pole bitwy."
+"Przy wejściu tego bytu na pole bitwy możesz ujawnić z twojej ręki kartę "
+"Bagna lub Góry. Jeśli tak nie zrobisz, ten byt wchodzi przekręcony na pole "
+"bitwy."
 
 #: ../../40K.rst:1533
-#, fuzzy
-#| msgid "|tap|: Add |mana_u| or |mana_r|."
 msgid "|tap|: Add |mana_b| or |mana_r|."
-msgstr "|tap|: Weź |mana_u| lub |mana_r|."
+msgstr "|tap|: Weź |mana_b| lub |mana_r|."
 
 #: ../../40K.rst:1542
 msgid ""
@@ -5139,22 +5051,20 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:1557
-#, fuzzy
-#| msgid "Temple of Mystery enters the battlefield tapped."
 msgid "Memorial to Glory enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../40K.rst:1559
-#, fuzzy
-#| msgid "|tap|: Add |mana_b|."
 msgid "|tap|: Add |mana_w|."
-msgstr "|tap|: Weź |mana_b|."
+msgstr "|tap|: Weź |mana_w|."
 
 #: ../../40K.rst:1561
 msgid ""
 "|mana_3|\\ |mana_w|, |tap|, Sacrifice Memorial to Glory: Create two 1/1 "
 "white Soldier creature tokens."
 msgstr ""
+"|mana_3|\\ |mana_w|, |tap|, poświęć ten ląd: Stwórz dwa żetony białego "
+"stwora Piechur 1/1."
 
 #: ../../40K.rst:1570
 msgid ""
@@ -5183,23 +5093,18 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:1573
-#, fuzzy
-#| msgid "Dismal Backwater enters the battlefield tapped."
 msgid "Myriad Landscape enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../40K.rst:1577
-#, fuzzy
-#| msgid ""
-#| "|mana_2|, |tap|, Sacrifice Wayfarer's Bauble: Search your library for a "
-#| "basic land card, put that card onto the battlefield tapped, then shuffle."
 msgid ""
 "|mana_2|, |tap|, Sacrifice Myriad Landscape: Search your library for up to "
 "two basic land cards that share a land type, put them onto the battlefield "
 "tapped, then shuffle."
 msgstr ""
-"|mana_2|, |tap|, poświęć ten artefakt: Wyszukaj w twojej bibliotece kartę "
-"bazowego lądu, umieść ją przekręconą na polu bitwy, po czym przetasuj."
+"|mana_2|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece co najwyżej "
+"dwie karty bazowych lądów mających wspólny typ lądu, umieść je przekręcone "
+"na polu bitwy, po czym przetasuj."
 
 #: ../../40K.rst:1584
 msgid ""
@@ -5251,10 +5156,8 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:1593
-#, fuzzy
-#| msgid "Barren Moor enters the battlefield tapped."
 msgid "Polluted Mire enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../40K.rst:1604
 msgid ""
@@ -5264,23 +5167,17 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:1601
-#, fuzzy
-#| msgid ""
-#| "As Game Trail enters the battlefield, you may reveal a Mountain or Forest "
-#| "card from your hand. If you don't, Game Trail enters the battlefield "
-#| "tapped."
 msgid ""
 "As Port Town enters the battlefield, you may reveal a Plains or Island card "
 "from your hand. If you don't, Port Town enters the battlefield tapped."
 msgstr ""
-"Przy wejściu tego bytu na pole bitwy możesz ujawnić z twojej ręki kartę Góry "
-"lub Lasu. Jeśli tak nie zrobisz, ten byt wchodzi przekręcony na pole bitwy."
+"Przy wejściu tego bytu na pole bitwy możesz ujawnić z twojej ręki kartę "
+"Równiny lub Wyspy. Jeśli tak nie zrobisz, ten byt wchodzi przekręcony na "
+"pole bitwy."
 
 #: ../../40K.rst:1603 ../../40K.rst:1697
-#, fuzzy
-#| msgid "|tap|: Add |mana_g| or |mana_u|."
 msgid "|tap|: Add |mana_w| or |mana_u|."
-msgstr "|tap|: Weź |mana_g| lub |mana_u|."
+msgstr "|tap|: Weź |mana_w| lub |mana_u|."
 
 #: ../../40K.rst:1610
 msgid ""
@@ -5290,16 +5187,10 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:1607
-#, fuzzy
-#| msgid "(|tap|: Add |mana_u| or |mana_b|.)"
 msgid "(|tap|: Add |mana_w| or |mana_u|.)"
-msgstr "(|tap|: Weź |mana_u| lub |mana_b|.)"
+msgstr "(|tap|: Weź |mana_w| lub |mana_u|.)"
 
 #: ../../40K.rst:1609
-#, fuzzy
-#| msgid ""
-#| "Cinder Glade enters the battlefield tapped unless you control two or more "
-#| "basic lands."
 msgid ""
 "Prairie Stream enters the battlefield tapped unless you control two or more "
 "basic lands."
@@ -5337,22 +5228,16 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:1627
-#, fuzzy
-#| msgid "Barren Moor enters the battlefield tapped."
 msgid "Scoured Barrens enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../40K.rst:1629
-#, fuzzy
-#| msgid "When Rugged Highlands enters the battlefield, you gain 1 life."
 msgid "When Scoured Barrens enters the battlefield, you gain 1 life."
 msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../40K.rst:1631
-#, fuzzy
-#| msgid "|tap|: Add |mana_u| or |mana_b|."
 msgid "|tap|: Add |mana_w| or |mana_b|."
-msgstr "|tap|: Weź |mana_u| lub |mana_b|."
+msgstr "|tap|: Weź |mana_w| lub |mana_b|."
 
 #: ../../40K.rst:1636
 msgid ""
@@ -5362,10 +5247,8 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:1635
-#, fuzzy
-#| msgid "|tap|: Add |mana_g| or |mana_u|."
 msgid "|mana_1|, |tap|: Add |mana_w|\\ |mana_u|."
-msgstr "|tap|: Weź |mana_g| lub |mana_u|."
+msgstr "|mana_1|, |tap|: Weź |mana_w|\\ |mana_u|."
 
 #: ../../40K.rst:1642
 msgid ""
@@ -5507,14 +5390,10 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:1693
-#, fuzzy
-#| msgid "Forgotten Cave enters the battlefield tapped."
 msgid "Tranquil Cove enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../40K.rst:1695
-#, fuzzy
-#| msgid "When Thornwood Falls enters the battlefield, you gain 1 life."
 msgid "When Tranquil Cove enters the battlefield, you gain 1 life."
 msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
@@ -5546,7 +5425,7 @@ msgstr ""
 
 #: ../../40K.rst:1709
 msgid "(Vault of Whispers isn't a spell.)"
-msgstr ""
+msgstr "(Ta karta nie jest czarem.)"
 
 #: ../../40K.rst:1716
 msgid ""
@@ -5556,10 +5435,8 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:1715
-#, fuzzy
-#| msgid "(|tap|: Add |mana_u|.)"
 msgid "(|tap|: Add |mana_w|.)"
-msgstr "(|tap|: Weź |mana_u|.)"
+msgstr "(|tap|: Weź |mana_w|.)"
 
 #: ../../40K.rst:1720
 msgid ""
