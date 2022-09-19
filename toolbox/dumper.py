@@ -54,6 +54,7 @@ async def get_bulk_data(client: httpx.AsyncClient, bulk_type: str):
 
 async def render_wanted(client: httpx.AsyncClient, use_bulk: bool = False):
     url_template = "https://api.scryfall.com/cards/{expansion}/{number}"
+    url_cleanse = "https://www.cardmarket.com/en/Magic/Products/Singles/Legends/Cleanse"
     fd, path = tempfile.mkstemp(text=True)
 
     async with await open_file(fd, "w") as output, client:
@@ -69,9 +70,10 @@ async def render_wanted(client: httpx.AsyncClient, use_bulk: bool = False):
                 for number in numbers:
                     card = await client.get(url_template.format(**locals()))
                     c = card.json()
+                    card_url = c.get("purchase_uris", {}).get("cardmarket") or url_cleanse
                     await output.write(
                         f".. image:: {c['image_uris']['small']}\n"
-                        f"   :target: {c['scryfall_uri']}\n"
+                        f"   :target: {card_url}\n"
                     )
     shutil.copy(path, f"poszukiwane.rst")
     os.remove(path)
