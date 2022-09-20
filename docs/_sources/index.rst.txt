@@ -43,7 +43,7 @@ Nadchodzące
 * :mtgexp:`DMR` :doc:`Dominaria Remastered<DMR>` 2023-01-13
 * :mtgexp:`BRO` :doc:`Brother's War` Premiera: 2022-11-18
 * :mtgexp:`GN3` :doc:`Game Night Free-for-All<GN3>` Premiera: 2022-10-14
-* :mtgexp:`40K` :doc:`Warhammer 40,000 Commander<40K>` Premiera: 2022-10-07
+* :mtgexp:`40K` :doc:`Warhammer 40,000 Commander<40K>` |DMU_percent| Premiera: 2022-10-07
 
 Standard
 --------
