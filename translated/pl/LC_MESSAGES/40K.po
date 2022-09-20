@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2022.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-20 12:10+0200\n"
-"PO-Revision-Date: 2022-09-19 07:26+0000\n"
+"PO-Revision-Date: 2022-09-20 16:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/40k/pl/>\n"
 "Language: pl\n"
@@ -358,16 +358,13 @@ msgstr ""
 "stwórz dwa żetony czarnego artefaktowego stwora Necron Wojownik 2/2."
 
 #: ../../40K.rst:37
-#, fuzzy
-#| msgid ""
-#| "Grand Strategist — At the beginning of combat on your turn, another "
-#| "target creature you control gets +2/+2 and gains menace until end of turn."
 msgid ""
 "Grand Strategist — At the beginning of combat on your turn, another target "
 "artifact creature you control gets +2/+2 and gains menace until end of turn."
 msgstr ""
-"Wielki Strateg — Na początku potyczki w twojej turze, inny wskazany stwór "
-"pod twoim władaniem do końca tury dostaje +2/+2 i złowrogość."
+"Wielki Strateg — Na początku potyczki w twojej turze, inny wskazany "
+"artefaktowy stwór pod twoim władaniem do końca tury dostaje +2/+2 i "
+"złowrogość."
 
 #: ../../40K.rst:46
 msgid ""
@@ -457,16 +454,12 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:63
-#, fuzzy
-#| msgid ""
-#| "Shieldwall — Sacrifice Tyrant Guard: Creatures you control with counters "
-#| "on them gain hexproof and indestructible until end of turn."
 msgid ""
 "Choose a creature type. Creatures you control of the chosen type get +1/+0 "
 "and gain indestructible until end of turn."
 msgstr ""
-"Tarczościana — Poświęć ten byt: Stwory pod twoim władaniem mające znaczniki "
-"do końca tury zyskują antyklątwę i niezniszczalność."
+"Wybierz typ stwora. Stwory owego typu pod twoim władaniem do końca tury "
+"dostaje +1/+0 i niezniszczalność."
 
 #: ../../40K.rst:70
 msgid ""
@@ -481,19 +474,14 @@ msgid "Flying, lifelink"
 msgstr "Latanie, więź życia"
 
 #: ../../40K.rst:69
-#, fuzzy
-#| msgid ""
-#| "Mark of the Chaos Ascendant — During your turn, spells you cast from your "
-#| "hand with mana value X or less have cascade, where X is the total amount "
-#| "of life your opponents have lost this turn."
 msgid ""
 "Healing Tears — At the beginning of your end step, return target creature "
 "card with mana value X or less from your graveyard to the battlefield, where "
 "X is the amount of life you gained this turn."
 msgstr ""
-"Znak Władcy Chaosu — W twojej turze czary rzucane z twojej ręki mające skrót "
-"many X lub mniejszy, gdzie X jest sumą żyć straconych przez twoich "
-"przeciwników w tej turze, mają kaskadę."
+"Lecznicze Łzy — Na początku twojego kroku końcowego, przywróć wskazaną kartę "
+"stwora o skrócie many X lub mniejszym z twojego cmentarza na pole bitwy, "
+"gdzie X jest liczbą żyć zyskanych przez ciebie w tej turze."
 
 #: ../../40K.rst:76
 msgid ""
@@ -503,16 +491,12 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:73
-#, fuzzy
-#| msgid ""
-#| "Chapter Master — |mana_6|: Create two 2/2 white Astartes Warrior creature "
-#| "tokens with vigilance."
 msgid ""
 "When Defenders of Humanity enters the battlefield, create X 2/2 white "
 "Astartes Warrior creature tokens with vigilance."
 msgstr ""
-"Mistrz Rozdziału — |mana_6|: Stwórz dwa żetony białego stwora Wojownik "
-"Astartes 2/2 z czujnością."
+"Kiedy ten byt wejdzie na pole bitwy, stwórz X żetonów białego stwora "
+"Wojownik Astartes 2/2 z czujnością."
 
 #: ../../40K.rst:75
 msgid ""
@@ -520,6 +504,9 @@ msgid ""
 "white Astartes Warrior creature tokens with vigilance. Activate only if you "
 "control no creatures and only during your turn."
 msgstr ""
+"|mana_x|\\ |mana_2|\\ |mana_w|, wygnaj ten byt: Stwórz X żetonów białego "
+"stwora Wojownik Astartes 2/2 z czujnością. Aktywuj tylko jeśli nie władasz "
+"żadnym stworem i tylko w twojej turze."
 
 #: ../../40K.rst:80
 msgid ""
@@ -533,6 +520,8 @@ msgid ""
 "Creatures you control get +2/+2 and gain vigilance and lifelink until end of "
 "turn."
 msgstr ""
+"Stwory pod twoim władaniem do końca tury dostają +2/+2, czujność i więź "
+"życia."
 
 #: ../../40K.rst:86
 msgid ""
@@ -548,19 +537,13 @@ msgid "Flash"
 msgstr "Błysk"
 
 #: ../../40K.rst:85
-#, fuzzy
-#| msgid ""
-#| "Terror from the Deep — When Mawloc enters the battlefield, it fights up "
-#| "to one target creature an opponent controls. If that creature would die "
-#| "this turn, exile it instead."
 msgid ""
 "Rites of Banishment — When Grey Knight Paragon enters the battlefield, "
 "destroy target attacking creature. If that creature is a Demon, exile it "
 "instead."
 msgstr ""
-"Terror z Głębin — Kiedy ten byt wejdzie na pole bitwy, walczy on z co "
-"najwyżej jednym wskazanym stworem pod władaniem przeciwnika. Jeśli ów stwór "
-"umrze w tej turze, zamiast tego wygnaj go."
+"Obrzędy Wygnania — Kiedy ten byt wejdzie na pole bitwy, zniszcz wskazanego "
+"atakującego stwora. Jeśli ów stwór jest Demonem, zamiast tego wygnaj go."
 
 #: ../../40K.rst:92
 msgid ""
@@ -581,16 +564,12 @@ msgstr ""
 "tyle samo żetonów będących jego kopią.)"
 
 #: ../../40K.rst:91
-#, fuzzy
-#| msgid ""
-#| "Echo of the First Murder — When Drach'Nyen enters the battlefield, exile "
-#| "up to one target creature."
 msgid ""
 "Grav-cannon — When Space Marine Devastator enters the battlefield, destroy "
 "up to one target artifact or enchantment."
 msgstr ""
-"Echo Pierwszego Mordu — Kiedy ten byt wejdzie na pole bitwy, wygnaj co "
-"najwyżej jednego wskazanego stwora."
+"Graw-armata — Kiedy ten byt wejdzie na pole bitwy, zniszcz co najwyżej jeden "
+"wskazany artefakt lub urok."
 
 #: ../../40K.rst:98
 msgid ""
@@ -604,19 +583,14 @@ msgid "First strike, vigilance"
 msgstr "Pierwszy cios, czujność"
 
 #: ../../40K.rst:97
-#, fuzzy
-#| msgid ""
-#| "Spore Chimney — When Sporocyst enters the battlefield, search your "
-#| "library for up to X basic land cards, put them onto the battlefield "
-#| "tapped, then shuffle."
 msgid ""
 "Concealed Position — When Space Marine Scout enters the battlefield, if an "
 "opponent controls more lands than you, you may search your library for a "
 "Plains card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
-"Komin Zarodników — Kiedy ten byt wejdzie na pole bitwy, wyszukaj w twojej "
-"bibliotece co najwyżej X kart lądów, umieść je przekręcone na polu bitwy, po "
-"czym przetasuj."
+"Ukryta Pozycja — Kiedy ten byt wejdzie na pole bitwy, jeśli przeciwnik ma we "
+"władaniu więcej lądów niż ty, możesz wyszukać w twojej bibliotece kartę "
+"Równiny, umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../40K.rst:104
 msgid ""
@@ -630,16 +604,12 @@ msgid "First strike"
 msgstr "Pierwszy cios"
 
 #: ../../40K.rst:103
-#, fuzzy
-#| msgid ""
-#| "Spawn Termagants — Whenever Tervigon deals combat damage to a player, "
-#| "create that many 1/1 green Tyranid creature tokens."
 msgid ""
 "Crushing Teeth — Whenever Thunderwolf Cavalry deals combat damage to a "
 "player, put a +1/+1 counter on each other creature you control."
 msgstr ""
-"Wyklucie Termagantów — Ilekroć niniejszy zada graczowi obrażenia bojowe, "
-"stwórz tyle samo żetonów zielonego stwora Tyranid 1/1."
+"Miażdżące Zęby — Ilekroć niniejszy zada graczowi obrażenia bojowe, umieść "
+"znacznik +1/+1 na każdym innym stworze pod twoim władaniem."
 
 #: ../../40K.rst:112
 msgid ""
@@ -660,18 +630,17 @@ msgid ""
 "the top six cards of your library in a face-down pile. If you do, shuffle "
 "that pile and put it back on top of your library."
 msgstr ""
+"Praesidium Protectiva — Kiedy niniejszy umrze, wygnaj go i sześć wierzchnich "
+"kart twojej biblioteki w zakrytym stosie. Jeśli tak zrobisz, przetasuj ów "
+"stos i umieść go z powrotem na wierzchu twojej biblioteki."
 
 #: ../../40K.rst:111 ../../40K.rst:133
-#, fuzzy
-#| msgid ""
-#| "Flashback |mana_4|\\ |mana_r| (You may cast this card from your graveyard "
-#| "for its flashback cost. Then exile it.)"
 msgid ""
 "Miracle |mana_1|\\ |mana_w| (You may cast this card for its miracle cost "
 "when you draw it if it's the first card you drew this turn.)"
 msgstr ""
-"Wspomnienie |mana_4|\\ |mana_r| (Możesz rzucić tę kartę z twojego cmentarza "
-"za koszt wspomnienia. Następnie wygnaj ją.)"
+"Cud |mana_1|\\ |mana_w| (Możesz rzucić tę kartę za koszt cudu w momencie jej "
+"dobrania, jeśli jest to pierwsza karta dobrana przez ciebie w tej turze.)"
 
 #: ../../40K.rst:118
 msgid ""
