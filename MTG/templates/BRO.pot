@@ -1,0 +1,389 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013-2022, Dominik Kozaczko
+# This file is distributed under the same license as the MTG po polsku package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MTG po polsku 2022.9\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-30 09:27+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../symbols.rst:3
+msgid "{C}"
+msgstr ""
+
+#: ../../symbols.rst:5
+msgid "{T}"
+msgstr ""
+
+#: ../../symbols.rst:7
+msgid "{Q}"
+msgstr ""
+
+#: ../../symbols.rst:9
+msgid "{U}"
+msgstr ""
+
+#: ../../symbols.rst:11
+msgid "{W}"
+msgstr ""
+
+#: ../../symbols.rst:13
+msgid "{B}"
+msgstr ""
+
+#: ../../symbols.rst:15
+msgid "{G}"
+msgstr ""
+
+#: ../../symbols.rst:17
+msgid "{R}"
+msgstr ""
+
+#: ../../symbols.rst:19
+msgid "{2/U}"
+msgstr ""
+
+#: ../../symbols.rst:21
+msgid "{2/W}"
+msgstr ""
+
+#: ../../symbols.rst:23
+msgid "{2/B}"
+msgstr ""
+
+#: ../../symbols.rst:25
+msgid "{2/G}"
+msgstr ""
+
+#: ../../symbols.rst:27
+msgid "{2/R}"
+msgstr ""
+
+#: ../../symbols.rst:29
+msgid "{U/P}"
+msgstr ""
+
+#: ../../symbols.rst:31
+msgid "{W/P}"
+msgstr ""
+
+#: ../../symbols.rst:33
+msgid "{B/P}"
+msgstr ""
+
+#: ../../symbols.rst:35
+msgid "{G/P}"
+msgstr ""
+
+#: ../../symbols.rst:37
+msgid "{R/P}"
+msgstr ""
+
+#: ../../symbols.rst:39
+msgid "{X}"
+msgstr ""
+
+#: ../../symbols.rst:41
+msgid "{P}"
+msgstr ""
+
+#: ../../symbols.rst:43
+msgid "{0}"
+msgstr ""
+
+#: ../../symbols.rst:45
+msgid "{1}"
+msgstr ""
+
+#: ../../symbols.rst:47
+msgid "{2}"
+msgstr ""
+
+#: ../../symbols.rst:49
+msgid "{3}"
+msgstr ""
+
+#: ../../symbols.rst:51
+msgid "{4}"
+msgstr ""
+
+#: ../../symbols.rst:53
+msgid "{5}"
+msgstr ""
+
+#: ../../symbols.rst:55
+msgid "{6}"
+msgstr ""
+
+#: ../../symbols.rst:57
+msgid "{7}"
+msgstr ""
+
+#: ../../symbols.rst:59
+msgid "{8}"
+msgstr ""
+
+#: ../../symbols.rst:61
+msgid "{9}"
+msgstr ""
+
+#: ../../symbols.rst:63
+msgid "{10}"
+msgstr ""
+
+#: ../../symbols.rst:65
+msgid "{11}"
+msgstr ""
+
+#: ../../symbols.rst:67
+msgid "{12}"
+msgstr ""
+
+#: ../../symbols.rst:69
+msgid "{13}"
+msgstr ""
+
+#: ../../symbols.rst:71
+msgid "{14}"
+msgstr ""
+
+#: ../../symbols.rst:73
+msgid "{15}"
+msgstr ""
+
+#: ../../symbols.rst:75
+msgid "{16}"
+msgstr ""
+
+#: ../../symbols.rst:77
+msgid "{20}"
+msgstr ""
+
+#: ../../symbols.rst:79
+msgid "{(r/g)}"
+msgstr ""
+
+#: ../../symbols.rst:81
+msgid "{(r/w)}"
+msgstr ""
+
+#: ../../symbols.rst:83
+msgid "{(u/b)}"
+msgstr ""
+
+#: ../../symbols.rst:85
+msgid "{(u/r)}"
+msgstr ""
+
+#: ../../symbols.rst:87
+msgid "{(w/b)}"
+msgstr ""
+
+#: ../../symbols.rst:89
+msgid "{(w/u)}"
+msgstr ""
+
+#: ../../symbols.rst:91
+msgid "{(b/g)}"
+msgstr ""
+
+#: ../../symbols.rst:93
+msgid "{(b/r)}"
+msgstr ""
+
+#: ../../symbols.rst:95
+msgid "{(g/w)}"
+msgstr ""
+
+#: ../../symbols.rst:97
+msgid "{(g/u)}"
+msgstr ""
+
+#: ../../symbols.rst:99
+msgid "{(g/u/p)}"
+msgstr ""
+
+#: ../../symbols.rst:101
+msgid "{(g/w/p)}"
+msgstr ""
+
+#: ../../symbols.rst:103
+msgid "{S}"
+msgstr ""
+
+#: ../../symbols.rst:105
+msgid "{E}"
+msgstr ""
+
+#: ../../symbols.rst:107
+msgid "{CHAOS}"
+msgstr ""
+
+#: ../../symbols.rst:109
+msgid "{PW}"
+msgstr ""
+
+#: ../../BRO.rst:5
+msgid ":mtgexp:`BRO` The Brothers' War"
+msgstr ""
+
+#: ../../BRO.rst:10
+msgid ":mtgtip:`Recruitment Officer<https://cards.scryfall.io/border_crop/front/c/2/c226656b-68d5-4df2-b313-a323a728c520.jpg?1664480384|https://scryfall.com/card/bro/23/recruitment-officer?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:9
+msgid "|mana_3|\\ |mana_w|: Look at the top four cards of your library. You may reveal a creature card with mana value 3 or less from among them and put it into your hand. Put the rest on the bottom of your library in a random order."
+msgstr ""
+
+#: ../../BRO.rst:20
+msgid ":mtgtip:`Surge Engine<https://cards.scryfall.io/border_crop/front/1/2/12b9c9c5-e992-4f1c-a779-124176c3aade.jpg?1664487370|https://scryfall.com/card/bro/81/surge-engine?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:13
+msgid "Defender"
+msgstr ""
+
+#: ../../BRO.rst:15
+msgid "|mana_u|: Surge Engine loses defender and gains \"This creature can't be blocked.\""
+msgstr ""
+
+#: ../../BRO.rst:17
+msgid "|mana_2|\\ |mana_u|: Surge Engine becomes blue and has base power and toughness 5/4. Activate only if Surge Engine doesn't have defender."
+msgstr ""
+
+#: ../../BRO.rst:19
+msgid "|mana_4|\\ |mana_u|\\ |mana_u|: Draw three cards. Activate only if Surge Engine is blue and only once."
+msgstr ""
+
+#: ../../BRO.rst:24
+msgid ":mtgtip:`Queen Kayla bin-Kroog<https://cards.scryfall.io/border_crop/front/6/8/685c9767-eaa7-4e16-b245-816181e2fc36.jpg?1664487218|https://scryfall.com/card/bro/218/queen-kayla-bin-kroog?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:23
+msgid "|mana_4|, |tap|: Discard all the cards in your hand, then draw that many cards. You may chose an artifact or creature card with mana value 1 you discarded this way, then do the same for artifact or creature cards with mana values 2 and 3. Return those cards to the battlefield. Activate only as a sorcery."
+msgstr ""
+
+#: ../../BRO.rst:30
+msgid ":mtgtip:`Urza, Lord Protector<https://cards.scryfall.io/border_crop/front/8/a/8aefe8bd-216a-4ec1-9362-3f9dbf7fd083.jpg?1664480799|https://scryfall.com/card/bro/225/urza-lord-protector?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:27
+msgid "Artifact, instant, and sorcery spells you cast cost |mana_1| less to cast."
+msgstr ""
+
+#: ../../BRO.rst:29
+msgid "|mana_7|: If you both own and control Urza, Lord Protector an artifact named The Mightstone and Weakstone, exile them, then meld them into Urza, Planeswalker. Activate only as a sorcery."
+msgstr ""
+
+#: ../../BRO.rst:40
+msgid ":mtgtip:`The Mightstone and Weakstone<https://cards.scryfall.io/border_crop/front/0/2/02aea379-b444-46a3-82f4-3038f698d4f4.jpg?1664481104|https://scryfall.com/card/bro/238a/the-mightstone-and-weakstone?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:33
+msgid "When The Mightstone and Weakstone enters the battlefield, choose one —"
+msgstr ""
+
+#: ../../BRO.rst:35
+msgid "Draw two cards."
+msgstr ""
+
+#: ../../BRO.rst:37
+msgid "Target creature gets -5/-5 until end of turn."
+msgstr ""
+
+#: ../../BRO.rst:39
+msgid "|tap|: Add |colorless|\\ |colorless|. This mana can't be spent to cast nonartifact spells."
+msgstr ""
+
+#: ../../BRO.rst:54
+msgid ":mtgtip:`Urza, Planeswalker<https://cards.scryfall.io/border_crop/front/4/0/40a01679-3224-427e-bd1d-b797b0ab68b7.jpg?1664481057|https://scryfall.com/card/bro/238b/urza-planeswalker?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:43
+msgid "You may activate the loyalty abilities of Urza, Planeswalker twice each turn rather than only once."
+msgstr ""
+
+#: ../../BRO.rst:45
+msgid "+2: Artifact, instant, and sorcery spells you cast this turn cost |mana_2| less to cast. You gain 2 life."
+msgstr ""
+
+#: ../../BRO.rst:47
+msgid "+1: Draw two cards, then discard a card."
+msgstr ""
+
+#: ../../BRO.rst:49
+msgid "0: Create two 1/1 colorless Soldier artifact creature tokens."
+msgstr ""
+
+#: ../../BRO.rst:51
+msgid "−3: Exile target nonland permanent."
+msgstr ""
+
+#: ../../BRO.rst:53
+msgid "−10: Artifacts and planeswalkers you control gain indestructible until end of turn. Destroy all nonland permanents."
+msgstr ""
+
+#: ../../BRO.rst:62
+msgid ":mtgtip:`Mishra's Foundry<https://cards.scryfall.io/border_crop/front/d/a/da7699b2-e1af-4bc0-8c5b-84ba3e868d7c.jpg?1664492760|https://scryfall.com/card/bro/265/mishras-foundry?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:57
+msgid "|tap|: Add |colorless|."
+msgstr ""
+
+#: ../../BRO.rst:59
+msgid "|mana_2|: Mishra's Foundry becomes a 2/2 Assembly-Worker artifact creature until end of turn. It's still a land."
+msgstr ""
+
+#: ../../BRO.rst:61
+msgid "|mana_1|, |tap|: Target attacking Assembly-Worker gets +2/+2 until end of turn."
+msgstr ""
+
+#: ../../BRO.rst:66
+msgid ":mtgtip:`Plains<https://cards.scryfall.io/border_crop/front/7/e/7e134268-9ce9-4192-b548-90bedbfe654e.jpg?1664487630|https://scryfall.com/card/bro/278/plains?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:65
+msgid "(|tap|: Add |mana_w|.)"
+msgstr ""
+
+#: ../../BRO.rst:70
+msgid ":mtgtip:`Island<https://cards.scryfall.io/border_crop/front/f/e/fe9d36d3-9373-407c-91fd-975d8ee9e4fe.jpg?1664487729|https://scryfall.com/card/bro/280/island?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:69
+msgid "(|tap|: Add |mana_u|.)"
+msgstr ""
+
+#: ../../BRO.rst:74
+msgid ":mtgtip:`Swamp<https://cards.scryfall.io/border_crop/front/c/a/cabe866d-01c3-4ec5-9d41-70305208c2b1.jpg?1664487762|https://scryfall.com/card/bro/282/swamp?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:73
+msgid "(|tap|: Add |mana_b|.)"
+msgstr ""
+
+#: ../../BRO.rst:78
+msgid ":mtgtip:`Mountain<https://cards.scryfall.io/border_crop/front/c/4/c464b81a-3d91-4d07-bc9d-6756780417e3.jpg?1664487788|https://scryfall.com/card/bro/284/mountain?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:77
+msgid "(|tap|: Add |mana_r|.)"
+msgstr ""
+
+#: ../../BRO.rst:81
+msgid ":mtgtip:`Forest<https://cards.scryfall.io/border_crop/front/1/a/1a1b7277-0c09-42ab-aa6b-542a1e402580.jpg?1664487823|https://scryfall.com/card/bro/286/forest?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:81
+msgid "(|tap|: Add |mana_g|.)"
+msgstr ""
