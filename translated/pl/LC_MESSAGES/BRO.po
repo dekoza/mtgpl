@@ -1,237 +1,238 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2013-2022, Dominik Kozaczko
 # This file is distributed under the same license as the MTG po polsku package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-#, fuzzy
+# Weblate Admin <weblate-admin@kozaczko.info>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG po polsku 2022.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-30 09:27+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2022-09-30 07:52+0000\n"
+"Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
+"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/bro/pl/>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.14\n"
 
 #: ../../symbols.rst:3
 msgid "{C}"
-msgstr ""
+msgstr "{C}"
 
 #: ../../symbols.rst:5
 msgid "{T}"
-msgstr ""
+msgstr "{T}"
 
 #: ../../symbols.rst:7
 msgid "{Q}"
-msgstr ""
+msgstr "{Q}"
 
 #: ../../symbols.rst:9
 msgid "{U}"
-msgstr ""
+msgstr "{U}"
 
 #: ../../symbols.rst:11
 msgid "{W}"
-msgstr ""
+msgstr "{W}"
 
 #: ../../symbols.rst:13
 msgid "{B}"
-msgstr ""
+msgstr "{B}"
 
 #: ../../symbols.rst:15
 msgid "{G}"
-msgstr ""
+msgstr "{G}"
 
 #: ../../symbols.rst:17
 msgid "{R}"
-msgstr ""
+msgstr "{R}"
 
 #: ../../symbols.rst:19
 msgid "{2/U}"
-msgstr ""
+msgstr "{2/U}"
 
 #: ../../symbols.rst:21
 msgid "{2/W}"
-msgstr ""
+msgstr "{2/W}"
 
 #: ../../symbols.rst:23
 msgid "{2/B}"
-msgstr ""
+msgstr "{2/B}"
 
 #: ../../symbols.rst:25
 msgid "{2/G}"
-msgstr ""
+msgstr "{2/G}"
 
 #: ../../symbols.rst:27
 msgid "{2/R}"
-msgstr ""
+msgstr "{2/R}"
 
 #: ../../symbols.rst:29
 msgid "{U/P}"
-msgstr ""
+msgstr "{U/P}"
 
 #: ../../symbols.rst:31
 msgid "{W/P}"
-msgstr ""
+msgstr "{W/P}"
 
 #: ../../symbols.rst:33
 msgid "{B/P}"
-msgstr ""
+msgstr "{B/P}"
 
 #: ../../symbols.rst:35
 msgid "{G/P}"
-msgstr ""
+msgstr "{G/P}"
 
 #: ../../symbols.rst:37
 msgid "{R/P}"
-msgstr ""
+msgstr "{R/P}"
 
 #: ../../symbols.rst:39
 msgid "{X}"
-msgstr ""
+msgstr "{X}"
 
 #: ../../symbols.rst:41
 msgid "{P}"
-msgstr ""
+msgstr "{P}"
 
 #: ../../symbols.rst:43
 msgid "{0}"
-msgstr ""
+msgstr "{0}"
 
 #: ../../symbols.rst:45
 msgid "{1}"
-msgstr ""
+msgstr "{1}"
 
 #: ../../symbols.rst:47
 msgid "{2}"
-msgstr ""
+msgstr "{2}"
 
 #: ../../symbols.rst:49
 msgid "{3}"
-msgstr ""
+msgstr "{3}"
 
 #: ../../symbols.rst:51
 msgid "{4}"
-msgstr ""
+msgstr "{4}"
 
 #: ../../symbols.rst:53
 msgid "{5}"
-msgstr ""
+msgstr "{5}"
 
 #: ../../symbols.rst:55
 msgid "{6}"
-msgstr ""
+msgstr "{6}"
 
 #: ../../symbols.rst:57
 msgid "{7}"
-msgstr ""
+msgstr "{7}"
 
 #: ../../symbols.rst:59
 msgid "{8}"
-msgstr ""
+msgstr "{8}"
 
 #: ../../symbols.rst:61
 msgid "{9}"
-msgstr ""
+msgstr "{9}"
 
 #: ../../symbols.rst:63
 msgid "{10}"
-msgstr ""
+msgstr "{10}"
 
 #: ../../symbols.rst:65
 msgid "{11}"
-msgstr ""
+msgstr "{11}"
 
 #: ../../symbols.rst:67
 msgid "{12}"
-msgstr ""
+msgstr "{12}"
 
 #: ../../symbols.rst:69
 msgid "{13}"
-msgstr ""
+msgstr "{13}"
 
 #: ../../symbols.rst:71
 msgid "{14}"
-msgstr ""
+msgstr "{14}"
 
 #: ../../symbols.rst:73
 msgid "{15}"
-msgstr ""
+msgstr "{15}"
 
 #: ../../symbols.rst:75
 msgid "{16}"
-msgstr ""
+msgstr "{16}"
 
 #: ../../symbols.rst:77
 msgid "{20}"
-msgstr ""
+msgstr "{20}"
 
 #: ../../symbols.rst:79
 msgid "{(r/g)}"
-msgstr ""
+msgstr "{(r/g)}"
 
 #: ../../symbols.rst:81
 msgid "{(r/w)}"
-msgstr ""
+msgstr "{(r/w)}"
 
 #: ../../symbols.rst:83
 msgid "{(u/b)}"
-msgstr ""
+msgstr "{(u/b)}"
 
 #: ../../symbols.rst:85
 msgid "{(u/r)}"
-msgstr ""
+msgstr "{(u/r)}"
 
 #: ../../symbols.rst:87
 msgid "{(w/b)}"
-msgstr ""
+msgstr "{(w/b)}"
 
 #: ../../symbols.rst:89
 msgid "{(w/u)}"
-msgstr ""
+msgstr "{(w/u)}"
 
 #: ../../symbols.rst:91
 msgid "{(b/g)}"
-msgstr ""
+msgstr "{(b/g)}"
 
 #: ../../symbols.rst:93
 msgid "{(b/r)}"
-msgstr ""
+msgstr "{(b/r)}"
 
 #: ../../symbols.rst:95
 msgid "{(g/w)}"
-msgstr ""
+msgstr "{(g/w)}"
 
 #: ../../symbols.rst:97
 msgid "{(g/u)}"
-msgstr ""
+msgstr "{(g/u)}"
 
 #: ../../symbols.rst:99
 msgid "{(g/u/p)}"
-msgstr ""
+msgstr "{(g/u/p)}"
 
 #: ../../symbols.rst:101
 msgid "{(g/w/p)}"
-msgstr ""
+msgstr "{(g/w/p)}"
 
 #: ../../symbols.rst:103
 msgid "{S}"
-msgstr ""
+msgstr "{S}"
 
 #: ../../symbols.rst:105
 msgid "{E}"
-msgstr ""
+msgstr "{E}"
 
 #: ../../symbols.rst:107
 msgid "{CHAOS}"
-msgstr ""
+msgstr "{CHAOS}"
 
 #: ../../symbols.rst:109
 msgid "{PW}"
-msgstr ""
+msgstr "{PW}"
 
 #: ../../BRO.rst:5
 msgid ":mtgexp:`BRO` The Brothers' War"
@@ -250,6 +251,10 @@ msgid ""
 "reveal a creature card with mana value 3 or less from among them and put it "
 "into your hand. Put the rest on the bottom of your library in a random order."
 msgstr ""
+"|mana_3|\\ |mana_w|: Spójrz na cztery wierzchnie karty twojej biblioteki. "
+"Możesz ujawnić spośród nich kartę stwora o skrócie many 3 lub mniejszym i "
+"umieścić ją w twojej ręce. Umieść pozostałe losowo na spodzie twojej "
+"biblioteki."
 
 #: ../../BRO.rst:20
 msgid ""
@@ -260,25 +265,31 @@ msgstr ""
 
 #: ../../BRO.rst:13
 msgid "Defender"
-msgstr ""
+msgstr "Obronność"
 
 #: ../../BRO.rst:15
 msgid ""
 "|mana_u|: Surge Engine loses defender and gains \"This creature can't be "
 "blocked.\""
 msgstr ""
+"|mana_u|: Ten stwór traci obronność i zyskuje \"Ten stwór nie może być "
+"blokowany.\""
 
 #: ../../BRO.rst:17
 msgid ""
 "|mana_2|\\ |mana_u|: Surge Engine becomes blue and has base power and "
 "toughness 5/4. Activate only if Surge Engine doesn't have defender."
 msgstr ""
+"|mana_2|\\ |mana_u|: Ten stwór staje się niebieski i ma bazową siłę i "
+"wytrzymałość 5/4. Aktywuj tylko jeśli ten stwór nie ma obronności."
 
 #: ../../BRO.rst:19
 msgid ""
 "|mana_4|\\ |mana_u|\\ |mana_u|: Draw three cards. Activate only if Surge "
 "Engine is blue and only once."
 msgstr ""
+"|mana_4|\\ |mana_u|\\ |mana_u|: Dobierz trzy karty. Aktywuj tylko jeśli ten "
+"stwór jest niebieski i tylko raz."
 
 #: ../../BRO.rst:24
 msgid ""
@@ -295,6 +306,11 @@ msgid ""
 "mana values 2 and 3. Return those cards to the battlefield. Activate only as "
 "a sorcery."
 msgstr ""
+"|mana_4|, |tap|: Odrzuć wszystkie karty z twojej ręki, po czym dobierz tyle "
+"samo kart. Możesz spośród odrzuconych w ten sposób kart wybrać kartę "
+"artefaktu lub stwora o skrócie many 1, po czym zrób to samo dla kart "
+"artefaktów lub stworów o skrócie many 2 lub 3. Przywróć owe karty na pole "
+"bitwy. Aktywuj tylko jako obrzęd."
 
 #: ../../BRO.rst:30
 msgid ""
@@ -307,6 +323,8 @@ msgstr ""
 msgid ""
 "Artifact, instant, and sorcery spells you cast cost |mana_1| less to cast."
 msgstr ""
+"Rzucanie czarów artefaktów, sztuczek i obrzędów kosztuje cię o |mana_1| "
+"mniej."
 
 #: ../../BRO.rst:29
 msgid ""
@@ -314,6 +332,9 @@ msgid ""
 "The Mightstone and Weakstone, exile them, then meld them into Urza, "
 "Planeswalker. Activate only as a sorcery."
 msgstr ""
+"|mana_7|: Jeśli jednocześnie masz w posiadaniu i władaniu ten byt oraz "
+"artefakt o nazwie The Mightstone and Weakstone, wygnaj je, po czym połącz je "
+"tworząc Urza, Planeswalker. Aktywuj tylko jako obrzęd."
 
 #: ../../BRO.rst:40
 msgid ""
@@ -324,21 +345,23 @@ msgstr ""
 
 #: ../../BRO.rst:33
 msgid "When The Mightstone and Weakstone enters the battlefield, choose one —"
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wybierz jedno —"
 
 #: ../../BRO.rst:35
 msgid "Draw two cards."
-msgstr ""
+msgstr "Dobierz dwie karty."
 
 #: ../../BRO.rst:37
 msgid "Target creature gets -5/-5 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór do końca tury dostaje -5/-5."
 
 #: ../../BRO.rst:39
 msgid ""
 "|tap|: Add |colorless|\\ |colorless|. This mana can't be spent to cast "
 "nonartifact spells."
 msgstr ""
+"|tap|: Weź |colorless|\\ |colorless|. Ta mana nie może być wydana na "
+"rzucenie nieartefaktowych czarów."
 
 #: ../../BRO.rst:54
 msgid ""
@@ -352,30 +375,36 @@ msgid ""
 "You may activate the loyalty abilities of Urza, Planeswalker twice each turn "
 "rather than only once."
 msgstr ""
+"Możesz aktywować zdolności lojalnościowe tego wędrowca dwukrotnie na turę "
+"zamiast tylko raz."
 
 #: ../../BRO.rst:45
 msgid ""
 "+2: Artifact, instant, and sorcery spells you cast this turn cost |mana_2| "
 "less to cast. You gain 2 life."
 msgstr ""
+"+2: Rzucanie czarów artefaktów, sztuczek i obrzędów kosztuje cię w tej turze "
+"o |mana_2| mniej. Zyskaj 2 życia."
 
 #: ../../BRO.rst:47
 msgid "+1: Draw two cards, then discard a card."
-msgstr ""
+msgstr "+1: Dobierz dwie karty, po czym odrzuć kartę."
 
 #: ../../BRO.rst:49
 msgid "0: Create two 1/1 colorless Soldier artifact creature tokens."
-msgstr ""
+msgstr "0: Stwórz dwa żetony bezkolorowego artefaktowego stwora Piechur 1/1."
 
 #: ../../BRO.rst:51
 msgid "−3: Exile target nonland permanent."
-msgstr ""
+msgstr "–3: Wygnaj wskazany nielądowy byt."
 
 #: ../../BRO.rst:53
 msgid ""
 "−10: Artifacts and planeswalkers you control gain indestructible until end "
 "of turn. Destroy all nonland permanents."
 msgstr ""
+"–10: Artefakty i wędrowcy pod twoim władaniem do końca tury zyskują "
+"niezniszczalność. Zniszcz wszystkie nielądowe byty."
 
 #: ../../BRO.rst:62
 msgid ""
@@ -386,19 +415,22 @@ msgstr ""
 
 #: ../../BRO.rst:57
 msgid "|tap|: Add |colorless|."
-msgstr ""
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../BRO.rst:59
 msgid ""
 "|mana_2|: Mishra's Foundry becomes a 2/2 Assembly-Worker artifact creature "
 "until end of turn. It's still a land."
 msgstr ""
+"|mana_2|: Ten byt do końca tury staje się artefaktowym stworem Składacz 2/2. "
+"Nadal jest lądem."
 
 #: ../../BRO.rst:61
 msgid ""
 "|mana_1|, |tap|: Target attacking Assembly-Worker gets +2/+2 until end of "
 "turn."
 msgstr ""
+"|mana_1|, |tap|: Wskazany atakujący Składacz do końca tury dostaje +2/+2."
 
 #: ../../BRO.rst:66
 msgid ""
@@ -409,7 +441,7 @@ msgstr ""
 
 #: ../../BRO.rst:65
 msgid "(|tap|: Add |mana_w|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_w|.)"
 
 #: ../../BRO.rst:70
 msgid ""
@@ -420,7 +452,7 @@ msgstr ""
 
 #: ../../BRO.rst:69
 msgid "(|tap|: Add |mana_u|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_u|.)"
 
 #: ../../BRO.rst:74
 msgid ""
@@ -431,7 +463,7 @@ msgstr ""
 
 #: ../../BRO.rst:73
 msgid "(|tap|: Add |mana_b|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_b|.)"
 
 #: ../../BRO.rst:78
 msgid ""
@@ -442,7 +474,7 @@ msgstr ""
 
 #: ../../BRO.rst:77
 msgid "(|tap|: Add |mana_r|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_r|.)"
 
 #: ../../BRO.rst:81
 msgid ""
@@ -453,4 +485,4 @@ msgstr ""
 
 #: ../../BRO.rst:81
 msgid "(|tap|: Add |mana_g|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_g|.)"
