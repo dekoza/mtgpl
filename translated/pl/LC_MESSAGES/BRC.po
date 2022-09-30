@@ -1,0 +1,325 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013-2022, Dominik Kozaczko
+# This file is distributed under the same license as the MTG po polsku package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MTG po polsku 2022.9\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-30 10:53+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../symbols.rst:3
+msgid "{C}"
+msgstr ""
+
+#: ../../symbols.rst:5
+msgid "{T}"
+msgstr ""
+
+#: ../../symbols.rst:7
+msgid "{Q}"
+msgstr ""
+
+#: ../../symbols.rst:9
+msgid "{U}"
+msgstr ""
+
+#: ../../symbols.rst:11
+msgid "{W}"
+msgstr ""
+
+#: ../../symbols.rst:13
+msgid "{B}"
+msgstr ""
+
+#: ../../symbols.rst:15
+msgid "{G}"
+msgstr ""
+
+#: ../../symbols.rst:17
+msgid "{R}"
+msgstr ""
+
+#: ../../symbols.rst:19
+msgid "{2/U}"
+msgstr ""
+
+#: ../../symbols.rst:21
+msgid "{2/W}"
+msgstr ""
+
+#: ../../symbols.rst:23
+msgid "{2/B}"
+msgstr ""
+
+#: ../../symbols.rst:25
+msgid "{2/G}"
+msgstr ""
+
+#: ../../symbols.rst:27
+msgid "{2/R}"
+msgstr ""
+
+#: ../../symbols.rst:29
+msgid "{U/P}"
+msgstr ""
+
+#: ../../symbols.rst:31
+msgid "{W/P}"
+msgstr ""
+
+#: ../../symbols.rst:33
+msgid "{B/P}"
+msgstr ""
+
+#: ../../symbols.rst:35
+msgid "{G/P}"
+msgstr ""
+
+#: ../../symbols.rst:37
+msgid "{R/P}"
+msgstr ""
+
+#: ../../symbols.rst:39
+msgid "{X}"
+msgstr ""
+
+#: ../../symbols.rst:41
+msgid "{P}"
+msgstr ""
+
+#: ../../symbols.rst:43
+msgid "{0}"
+msgstr ""
+
+#: ../../symbols.rst:45
+msgid "{1}"
+msgstr ""
+
+#: ../../symbols.rst:47
+msgid "{2}"
+msgstr ""
+
+#: ../../symbols.rst:49
+msgid "{3}"
+msgstr ""
+
+#: ../../symbols.rst:51
+msgid "{4}"
+msgstr ""
+
+#: ../../symbols.rst:53
+msgid "{5}"
+msgstr ""
+
+#: ../../symbols.rst:55
+msgid "{6}"
+msgstr ""
+
+#: ../../symbols.rst:57
+msgid "{7}"
+msgstr ""
+
+#: ../../symbols.rst:59
+msgid "{8}"
+msgstr ""
+
+#: ../../symbols.rst:61
+msgid "{9}"
+msgstr ""
+
+#: ../../symbols.rst:63
+msgid "{10}"
+msgstr ""
+
+#: ../../symbols.rst:65
+msgid "{11}"
+msgstr ""
+
+#: ../../symbols.rst:67
+msgid "{12}"
+msgstr ""
+
+#: ../../symbols.rst:69
+msgid "{13}"
+msgstr ""
+
+#: ../../symbols.rst:71
+msgid "{14}"
+msgstr ""
+
+#: ../../symbols.rst:73
+msgid "{15}"
+msgstr ""
+
+#: ../../symbols.rst:75
+msgid "{16}"
+msgstr ""
+
+#: ../../symbols.rst:77
+msgid "{20}"
+msgstr ""
+
+#: ../../symbols.rst:79
+msgid "{(r/g)}"
+msgstr ""
+
+#: ../../symbols.rst:81
+msgid "{(r/w)}"
+msgstr ""
+
+#: ../../symbols.rst:83
+msgid "{(u/b)}"
+msgstr ""
+
+#: ../../symbols.rst:85
+msgid "{(u/r)}"
+msgstr ""
+
+#: ../../symbols.rst:87
+msgid "{(w/b)}"
+msgstr ""
+
+#: ../../symbols.rst:89
+msgid "{(w/u)}"
+msgstr ""
+
+#: ../../symbols.rst:91
+msgid "{(b/g)}"
+msgstr ""
+
+#: ../../symbols.rst:93
+msgid "{(b/r)}"
+msgstr ""
+
+#: ../../symbols.rst:95
+msgid "{(g/w)}"
+msgstr ""
+
+#: ../../symbols.rst:97
+msgid "{(g/u)}"
+msgstr ""
+
+#: ../../symbols.rst:99
+msgid "{(g/u/p)}"
+msgstr ""
+
+#: ../../symbols.rst:101
+msgid "{(g/w/p)}"
+msgstr ""
+
+#: ../../symbols.rst:103
+msgid "{S}"
+msgstr ""
+
+#: ../../symbols.rst:105
+msgid "{E}"
+msgstr ""
+
+#: ../../symbols.rst:107
+msgid "{CHAOS}"
+msgstr ""
+
+#: ../../symbols.rst:109
+msgid "{PW}"
+msgstr ""
+
+#: ../../BRC.rst:5
+msgid ":mtgexp:`BRC` The Brothers' War Commander"
+msgstr ""
+
+#: ../../BRC.rst:10
+msgid ":mtgtip:`Mishra, Eminent One<https://cards.scryfall.io/border_crop/front/7/f/7f5b1daa-ec45-48de-9496-6ca5b491a0dc.jpg?1664497151|https://scryfall.com/card/brc/1/mishra-eminent-one?utm_source=api>`"
+msgstr ""
+
+#: ../../BRC.rst:9
+msgid "At the beginning of combat on your turn, create a token that's a copy of target noncreature artifact you control, except its name is Mishra's Warform and it's a 4/4 Construct artifact creature in addition to its other types. It gains haste until end of turn. Sacrifice it at the beginning of the next end step."
+msgstr ""
+
+#: ../../BRC.rst:18
+msgid ":mtgtip:`Urza, Chief Artificer<https://cards.scryfall.io/border_crop/front/e/a/ea409050-4296-4b76-a6cd-2896ce1b88e4.jpg?1664497251|https://scryfall.com/card/brc/2/urza-chief-artificer?utm_source=api>`"
+msgstr ""
+
+#: ../../BRC.rst:13
+msgid "Affinity for artifact creatures (This spell costs |mana_1| less to cast for each artifact creature you control.)"
+msgstr ""
+
+#: ../../BRC.rst:15
+msgid "Artifact creatures you control have menace."
+msgstr ""
+
+#: ../../BRC.rst:17
+msgid "At the beginning of your end step, create a 0/0 colorless Construct artifact creature token with \"This creature gets +1/+1 for each artifact you control.\""
+msgstr ""
+
+#: ../../BRC.rst:22
+msgid ":mtgtip:`Preordain<https://cards.scryfall.io/border_crop/front/f/a/fa6a22a2-2c97-4279-a7c8-4033698ac108.jpg?1664497236|https://scryfall.com/card/brc/92/preordain?utm_source=api>`"
+msgstr ""
+
+#: ../../BRC.rst:21
+msgid "Scry 2, then draw a card. (To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)"
+msgstr ""
+
+#: ../../BRC.rst:28
+msgid ":mtgtip:`Baleful Strix<https://cards.scryfall.io/border_crop/front/3/5/351b47f5-1c85-4e21-9ede-cb13ac96fbc4.jpg?1664497235|https://scryfall.com/card/brc/120/baleful-strix?utm_source=api>`"
+msgstr ""
+
+#: ../../BRC.rst:25
+msgid "Flying, deathtouch"
+msgstr ""
+
+#: ../../BRC.rst:27
+msgid "When Baleful Strix enters the battlefield, draw a card."
+msgstr ""
+
+#: ../../BRC.rst:36
+msgid ":mtgtip:`Skullclamp<https://cards.scryfall.io/border_crop/front/3/8/3865d44e-7207-4440-9db4-627531979852.jpg?1664496907|https://scryfall.com/card/brc/159/skullclamp?utm_source=api>`"
+msgstr ""
+
+#: ../../BRC.rst:31
+msgid "Equipped creature gets +1/-1."
+msgstr ""
+
+#: ../../BRC.rst:33
+msgid "Whenever equipped creature dies, draw two cards."
+msgstr ""
+
+#: ../../BRC.rst:35
+msgid "Equip |mana_1|"
+msgstr ""
+
+#: ../../BRC.rst:40
+msgid ":mtgtip:`Sol Ring<https://cards.scryfall.io/border_crop/front/7/7/772edef7-2f17-4244-b1bb-4e7a53c253e1.jpg?1664496951|https://scryfall.com/card/brc/160/sol-ring?utm_source=api>`"
+msgstr ""
+
+#: ../../BRC.rst:39
+msgid "|tap|: Add |colorless|\\ |colorless|."
+msgstr ""
+
+#: ../../BRC.rst:44
+msgid ":mtgtip:`Command Tower<https://cards.scryfall.io/border_crop/front/8/4/84b79453-bb88-4c23-8cdb-82ba57ea3bc5.jpg?1664496997|https://scryfall.com/card/brc/178/command-tower?utm_source=api>`"
+msgstr ""
+
+#: ../../BRC.rst:43
+msgid "|tap|: Add one mana of any color in your commander's color identity."
+msgstr ""
+
+#: ../../BRC.rst:49
+msgid ":mtgtip:`Reliquary Tower<https://cards.scryfall.io/border_crop/front/f/c/fcc31eb5-d0aa-4b4d-8908-cad1bba7348a.jpg?1664497046|https://scryfall.com/card/brc/196/reliquary-tower?utm_source=api>`"
+msgstr ""
+
+#: ../../BRC.rst:47
+msgid "You have no maximum hand size."
+msgstr ""
+
+#: ../../BRC.rst:49
+msgid "|tap|: Add |colorless|."
+msgstr ""
