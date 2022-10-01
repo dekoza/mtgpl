@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2022.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-28 19:32+0200\n"
-"PO-Revision-Date: 2022-09-29 21:29+0000\n"
+"PO-Revision-Date: 2022-10-01 15:50+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/40k/pl/>\n"
 "Language: pl\n"
@@ -666,6 +666,7 @@ msgid ""
 "Aegis of the Emperor — Commanders you control have protection from "
 "everything."
 msgstr ""
+"Egida Imperatora — Dowódcy pod twoim władaniem mają ochronę od wszystkiego."
 
 #: ../../40K.rst:134
 msgid ""
@@ -772,15 +773,12 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:165
-#, fuzzy
-#| msgid ""
-#| "Architect of Deception — When Lord of Change enters the battlefield, draw "
-#| "three cards."
 msgid ""
 "Benediction of the Omnissiah — When Sicarian Infiltrator enters the "
 "battlefield, draw a card."
 msgstr ""
-"Architekt Podstępu — Kiedy ten byt wejdzie na pole bitwy, dobierz trzy karty."
+"Błogosławieństwo Omnisiasza — Kiedy ten byt wejdzie na pole bitwy, dobierz "
+"kartę."
 
 #: ../../40K.rst:172
 msgid ""
@@ -794,6 +792,9 @@ msgid ""
 "Psychic Abomination — When Sister of Silence enters the battlefield, counter "
 "target instant spell, sorcery spell, activated ability, or triggered ability."
 msgstr ""
+"Psychiczna Abominacja — Kiedy ten byt wejdzie na pole bitwy, skontruj "
+"wskazany czar sztuczki, czar obrzędu, aktywowaną zdolność lub wyzwalaną "
+"zdolność."
 
 #: ../../40K.rst:180
 msgid ""
@@ -823,6 +824,9 @@ msgid ""
 "may cast an artifact spell from your hand or graveyard by paying life equal "
 "to its mana value rather than paying its mana cost."
 msgstr ""
+"Pan Pyrrhiańskich Legionów — Ilekroć ten byt zaatakuje, możesz rzucić z "
+"twojej ręki lub cmentarza czar artefaktu płacąc tyle żyć ile wynosi jego "
+"skrót many zamiast płacić jego koszt many."
 
 #: ../../40K.rst:192
 msgid ""
@@ -833,13 +837,14 @@ msgstr ""
 
 #: ../../40K.rst:189
 msgid "Arco-Flagellant can't block."
-msgstr ""
+msgstr "Ten stwór nie może blokować."
 
 #: ../../40K.rst:191
 msgid ""
 "Endurant — Pay 3 life: Arco-Flagellant gains indestructible until end of "
 "turn."
 msgstr ""
+"Wytrzymały — Zapłać 3 życia: Ten byt do końca tury zyskuje niezniszczalność."
 
 #: ../../40K.rst:198
 msgid ""
@@ -854,18 +859,17 @@ msgid ""
 "same is true for creature spells you control and creature cards you own that "
 "aren't on the battlefield."
 msgstr ""
+"Stwory pod twoim władaniem są dodatkowo artefaktami oprócz swoich innych "
+"typów. To samo jest prawdą dla czarów stworów pod twoim władaniem i twoich "
+"własnych kart nie będących na polu bitwy."
 
 #: ../../40K.rst:197
-#, fuzzy
-#| msgid ""
-#| "Phaeron — Whenever one or more artifact cards leave your graveyard, "
-#| "create two 2/2 black Necron Warrior artifact creature token."
 msgid ""
 "Whenever you cast an artifact spell, you lose 1 life and create a 2/2 black "
 "Necron Warrior artifact creature token."
 msgstr ""
-"Phaeron — Ilekroć jeden lub więcej kart artefaktów opuści twój cmentarz, "
-"stwórz dwa żetony czarnego artefaktowego stwora Necron Wojownik 2/2."
+"Ilekroć rzucisz czar artefaktu, strać 1 życie i stwórz żeton czarnego "
+"artefaktowego stwora Necron Wojownik 2/2."
 
 #: ../../40K.rst:204
 msgid ""
@@ -894,6 +898,7 @@ msgid ""
 "Atomic Transmutation — |mana_1|, |tap|, Sacrifice another artifact: Draw a "
 "card."
 msgstr ""
+"Atomowa Transmutacja — |mana_1|, |tap|, poświęć inny artefakt: Dobierz kartę."
 
 #: ../../40K.rst:211 ../../40K.rst:361
 msgid ""
@@ -920,6 +925,9 @@ msgid ""
 "control. When that creature dies this turn, return it to the battlefield "
 "tapped under your control."
 msgstr ""
+"|mana_1|\\ |mana_b|, |tap|: Wybierz innego wskazanego artefaktowego stwora "
+"pod twoim władaniem. Kiedy ów stwór umrze w tej turze, przywróć go "
+"przekręconego na pole bitwy pod twoim władaniem."
 
 #: ../../40K.rst:222
 msgid ""
@@ -929,14 +937,9 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:221
-#, fuzzy
-#| msgid ""
-#| "Architect of Deception — When Lord of Change enters the battlefield, draw "
-#| "three cards."
 msgid ""
 "Flesh Flayer — When Flayed One enters the battlefield, mill three cards."
-msgstr ""
-"Architekt Podstępu — Kiedy ten byt wejdzie na pole bitwy, dobierz trzy karty."
+msgstr "Łupieżca Mięsa — Kiedy ten byt wejdzie na pole bitwy, zmiel trzy karty."
 
 #: ../../40K.rst:226
 msgid ""
@@ -951,6 +954,10 @@ msgid ""
 "loses 2 life. Then for each opponent who has less life than you, create a "
 "1/3 black Demon creature token named Plaguebearer of Nurgle."
 msgstr ""
+"Rozbrzmiewające Wezwania — Na początku każdego kroku końcowego, każdy "
+"przeciwnik traci po 2 życia. Następnie za każdego przeciwnika mającego mniej "
+"żyć niż ty, stwórz żeton czarnego stwora Demon 1/3 o nazwie Nosiciel Zarazy "
+"z Nurgle."
 
 #: ../../40K.rst:232
 msgid ""
@@ -964,6 +971,8 @@ msgid ""
 "Multi-threat Eliminator — Hexmark Destroyer can't be blocked except by six "
 "or more creatures."
 msgstr ""
+"Eliminator Wielo-zagrożeń — Ten byt nie może być blokowany, chyba że przez "
+"co najmniej sześć stworów."
 
 #: ../../40K.rst:231
 msgid ""
@@ -972,6 +981,10 @@ msgid ""
 "Exile it at the beginning of the next end step or if it would leave the "
 "battlefield. Unearth only as a sorcery.)"
 msgstr ""
+"Odkopanie |mana_4|\\ |mana_b|\\ |mana_b| (|mana_4|\\ |mana_b|\\ |mana_b|: "
+"Przywróć tę kartę z twojego cmentarza na pole bitwy. Zyskuje ona pośpiech. "
+"Wygnaj ją na początku najbliższego kroku końcowego lub gdyby miała opuścić "
+"pole bitwy. Aktywuj tylko jako obrzęd.)"
 
 #: ../../40K.rst:236
 msgid ""
@@ -985,6 +998,8 @@ msgid ""
 "Secrets of the Soul — |tap|, Sacrifice another creature: Add an amount of |"
 "mana_b| equal to the sacrificed creature's mana value."
 msgstr ""
+"Tajemnice Duszy — |tap|, poświęć innego stwora: Weź tyle |mana_b|, ile "
+"wynosi skrót many poświęconego stwora."
 
 #: ../../40K.rst:244
 msgid ""
