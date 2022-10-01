@@ -5,7 +5,7 @@
 =======================================
 
 
-:mtgtip:`Adeline, Resplendent Cathar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/8/18092f68-b96e-4084-9eba-b240d2195d81.jpg?1634346539|https://scryfall.com/card/mid/1/adeline-resplendent-cathar?utm_source=api>`
+:mtgtip:`Adeline, Resplendent Cathar<https://cards.scryfall.io/border_crop/front/1/8/18092f68-b96e-4084-9eba-b240d2195d81.jpg?1634346539|https://scryfall.com/card/mid/1/adeline-resplendent-cathar?utm_source=api>`
    Vigilance
 
    Adeline, Resplendent Cathar's power is equal to the number of creatures you control.
@@ -13,49 +13,49 @@
    Whenever you attack, for each opponent, create a 1/1 white Human creature token that's tapped and attacking that player or a planeswalker they control.
 
 
-:mtgtip:`Ambitious Farmhand<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/4/54d4e7c3-294d-4900-8b70-faafda17cc33.jpg?1634346867|https://scryfall.com/card/mid/2/ambitious-farmhand-seasoned-cathar?utm_source=api>`
+:mtgtip:`Ambitious Farmhand<https://cards.scryfall.io/border_crop/front/5/4/54d4e7c3-294d-4900-8b70-faafda17cc33.jpg?1634346867|https://scryfall.com/card/mid/2/ambitious-farmhand-seasoned-cathar?utm_source=api>`
    When Ambitious Farmhand enters the battlefield, you may search your library for a basic Plains card, reveal it, put it into your hand, then shuffle.
 
    Coven — |mana_1|\ |mana_w|\ |mana_w|: Transform Ambitious Farmhand. Activate only if you control three or more creatures with different powers.
 
 
-:mtgtip:`Seasoned Cathar<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/5/4/54d4e7c3-294d-4900-8b70-faafda17cc33.jpg?1634346867|https://scryfall.com/card/mid/2/ambitious-farmhand-seasoned-cathar?utm_source=api>`
+:mtgtip:`Seasoned Cathar<https://cards.scryfall.io/border_crop/back/5/4/54d4e7c3-294d-4900-8b70-faafda17cc33.jpg?1634346867|https://scryfall.com/card/mid/2/ambitious-farmhand-seasoned-cathar?utm_source=api>`
    Lifelink
 
 
-:mtgtip:`Beloved Beggar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/1/6109b54e-56c5-4014-9f6d-d5f7a0fd725d.jpg?1634346918|https://scryfall.com/card/mid/3/beloved-beggar-generous-soul?utm_source=api>`
+:mtgtip:`Beloved Beggar<https://cards.scryfall.io/border_crop/front/6/1/6109b54e-56c5-4014-9f6d-d5f7a0fd725d.jpg?1634346918|https://scryfall.com/card/mid/3/beloved-beggar-generous-soul?utm_source=api>`
    Disturb |mana_4|\ |mana_w|\ |mana_w| (You may cast this card from your graveyard transformed for its disturb cost.)
 
 
-:mtgtip:`Generous Soul<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/6/1/6109b54e-56c5-4014-9f6d-d5f7a0fd725d.jpg?1634346918|https://scryfall.com/card/mid/3/beloved-beggar-generous-soul?utm_source=api>`
+:mtgtip:`Generous Soul<https://cards.scryfall.io/border_crop/back/6/1/6109b54e-56c5-4014-9f6d-d5f7a0fd725d.jpg?1634346918|https://scryfall.com/card/mid/3/beloved-beggar-generous-soul?utm_source=api>`
    Flying, vigilance
 
    If Generous Soul would be put into a graveyard from anywhere, exile it instead.
 
 
-:mtgtip:`Bereaved Survivor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/a/4adee830-62fd-4ab4-b1c6-a8bbe15331d1.jpg?1634346978|https://scryfall.com/card/mid/4/bereaved-survivor-dauntless-avenger?utm_source=api>`
+:mtgtip:`Bereaved Survivor<https://cards.scryfall.io/border_crop/front/4/a/4adee830-62fd-4ab4-b1c6-a8bbe15331d1.jpg?1634346978|https://scryfall.com/card/mid/4/bereaved-survivor-dauntless-avenger?utm_source=api>`
    When another creature you control dies, transform Bereaved Survivor.
 
 
-:mtgtip:`Dauntless Avenger<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/4/a/4adee830-62fd-4ab4-b1c6-a8bbe15331d1.jpg?1634346978|https://scryfall.com/card/mid/4/bereaved-survivor-dauntless-avenger?utm_source=api>`
+:mtgtip:`Dauntless Avenger<https://cards.scryfall.io/border_crop/back/4/a/4adee830-62fd-4ab4-b1c6-a8bbe15331d1.jpg?1634346978|https://scryfall.com/card/mid/4/bereaved-survivor-dauntless-avenger?utm_source=api>`
    Whenever Dauntless Avenger attacks, return target creature card with mana value 2 or less from your graveyard to the battlefield tapped and attacking.
 
 
-:mtgtip:`Blessed Defiance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/5/1555cdcb-3471-4ee7-99c3-d05311bf433c.jpg?1634346564|https://scryfall.com/card/mid/5/blessed-defiance?utm_source=api>`
+:mtgtip:`Blessed Defiance<https://cards.scryfall.io/border_crop/front/1/5/1555cdcb-3471-4ee7-99c3-d05311bf433c.jpg?1634346564|https://scryfall.com/card/mid/5/blessed-defiance?utm_source=api>`
    Target creature you control gets +2/+0 and gains lifelink until end of turn. When that creature dies this turn, create a 1/1 white Spirit creature token with flying.
 
 
-:mtgtip:`Borrowed Time<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/e/3eeef24b-b937-408e-a32e-1a546d3e7b0f.jpg?1634346590|https://scryfall.com/card/mid/6/borrowed-time?utm_source=api>`
+:mtgtip:`Borrowed Time<https://cards.scryfall.io/border_crop/front/3/e/3eeef24b-b937-408e-a32e-1a546d3e7b0f.jpg?1634346590|https://scryfall.com/card/mid/6/borrowed-time?utm_source=api>`
    When Borrowed Time enters the battlefield, exile target nonland permanent an opponent controls until Borrowed Time leaves the battlefield.
 
 
-:mtgtip:`Brutal Cathar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/d/0dbac7ce-a6fa-466e-b6ba-173cf2dec98e.jpg?1634347036|https://scryfall.com/card/mid/7/brutal-cathar-moonrage-brute?utm_source=api>`
+:mtgtip:`Brutal Cathar<https://cards.scryfall.io/border_crop/front/0/d/0dbac7ce-a6fa-466e-b6ba-173cf2dec98e.jpg?1634347036|https://scryfall.com/card/mid/7/brutal-cathar-moonrage-brute?utm_source=api>`
    When this creature enters the battlefield or transforms into Brutal Cathar, exile target creature an opponent controls until this creature leaves the battlefield.
 
    Daybound (If a player casts no spells during their own turn, it becomes night next turn.)
 
 
-:mtgtip:`Moonrage Brute<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/0/d/0dbac7ce-a6fa-466e-b6ba-173cf2dec98e.jpg?1634347036|https://scryfall.com/card/mid/7/brutal-cathar-moonrage-brute?utm_source=api>`
+:mtgtip:`Moonrage Brute<https://cards.scryfall.io/border_crop/back/0/d/0dbac7ce-a6fa-466e-b6ba-173cf2dec98e.jpg?1634347036|https://scryfall.com/card/mid/7/brutal-cathar-moonrage-brute?utm_source=api>`
    First strike
 
    Ward—Pay 3 life.
@@ -63,11 +63,11 @@
    Nightbound (If a player casts at least two spells during their own turn, it becomes day next turn.)
 
 
-:mtgtip:`Candlegrove Witch<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/e/dedfe6ea-cd43-4ec4-83a1-1f0f74e27f56.jpg?1634346614|https://scryfall.com/card/mid/8/candlegrove-witch?utm_source=api>`
+:mtgtip:`Candlegrove Witch<https://cards.scryfall.io/border_crop/front/d/e/dedfe6ea-cd43-4ec4-83a1-1f0f74e27f56.jpg?1634346614|https://scryfall.com/card/mid/8/candlegrove-witch?utm_source=api>`
    Coven — At the beginning of combat on your turn, if you control three or more creatures with different powers, Candlegrove Witch gains flying until end of turn.
 
 
-:mtgtip:`Candletrap<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/2/32869a36-f21e-4348-a787-871daa6151df.jpg?1634346639|https://scryfall.com/card/mid/9/candletrap?utm_source=api>`
+:mtgtip:`Candletrap<https://cards.scryfall.io/border_crop/front/3/2/32869a36-f21e-4348-a787-871daa6151df.jpg?1634346639|https://scryfall.com/card/mid/9/candletrap?utm_source=api>`
    Enchant creature
 
    Enchanted creature has defender.
@@ -77,25 +77,25 @@
    Coven — |mana_2|\ |mana_w|, Sacrifice Candletrap: Exile enchanted creature. Activate only if you control three or more creatures with different powers.
 
 
-:mtgtip:`Cathar Commando<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/8/98cbc1c2-b76e-4da3-aa43-00e10b2ce532.jpg?1634346664|https://scryfall.com/card/mid/10/cathar-commando?utm_source=api>`
+:mtgtip:`Cathar Commando<https://cards.scryfall.io/border_crop/front/9/8/98cbc1c2-b76e-4da3-aa43-00e10b2ce532.jpg?1634346664|https://scryfall.com/card/mid/10/cathar-commando?utm_source=api>`
    Flash
 
    |mana_1|, Sacrifice Cathar Commando: Destroy target artifact or enchantment.
 
 
-:mtgtip:`Cathar's Call<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/0/10d044a9-0149-4302-86e5-90623e54e36b.jpg?1634346694|https://scryfall.com/card/mid/11/cathars-call?utm_source=api>`
+:mtgtip:`Cathar's Call<https://cards.scryfall.io/border_crop/front/1/0/10d044a9-0149-4302-86e5-90623e54e36b.jpg?1634346694|https://scryfall.com/card/mid/11/cathars-call?utm_source=api>`
    Enchant creature
 
    Enchanted creature has vigilance and "At the beginning of your end step, create a 1/1 white Human creature token."
 
 
-:mtgtip:`Celestus Sanctifier<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/7/67547253-ab98-4d3a-bf95-3e109cf60a85.jpg?1634346717|https://scryfall.com/card/mid/12/celestus-sanctifier?utm_source=api>`
+:mtgtip:`Celestus Sanctifier<https://cards.scryfall.io/border_crop/front/6/7/67547253-ab98-4d3a-bf95-3e109cf60a85.jpg?1634346717|https://scryfall.com/card/mid/12/celestus-sanctifier?utm_source=api>`
    If it's neither day nor night, it becomes day as Celestus Sanctifier enters the battlefield.
 
    Whenever day becomes night or night becomes day, look at the top two cards of your library. Put one of them into your graveyard.
 
 
-:mtgtip:`Chaplain of Alms<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/0/20e94e17-2e4c-41cd-8cc5-39ab41037287.jpg?1634347082|https://scryfall.com/card/mid/13/chaplain-of-alms-chapel-shieldgeist?utm_source=api>`
+:mtgtip:`Chaplain of Alms<https://cards.scryfall.io/border_crop/front/2/0/20e94e17-2e4c-41cd-8cc5-39ab41037287.jpg?1634347082|https://scryfall.com/card/mid/13/chaplain-of-alms-chapel-shieldgeist?utm_source=api>`
    First strike
 
    Ward |mana_1| (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays |mana_1|.)
@@ -103,7 +103,7 @@
    Disturb |mana_3|\ |mana_w| (You may cast this card from your graveyard transformed for its disturb cost.)
 
 
-:mtgtip:`Chapel Shieldgeist<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/2/0/20e94e17-2e4c-41cd-8cc5-39ab41037287.jpg?1634347082|https://scryfall.com/card/mid/13/chaplain-of-alms-chapel-shieldgeist?utm_source=api>`
+:mtgtip:`Chapel Shieldgeist<https://cards.scryfall.io/border_crop/back/2/0/20e94e17-2e4c-41cd-8cc5-39ab41037287.jpg?1634347082|https://scryfall.com/card/mid/13/chaplain-of-alms-chapel-shieldgeist?utm_source=api>`
    Flying, first strike
 
    Each creature you control has ward |mana_1|. (Whenever it becomes the target of a spell or ability an opponent controls, counter it unless that player pays |mana_1|.)
@@ -111,11 +111,11 @@
    If Chapel Shieldgeist would be put into a graveyard from anywhere, exile it instead.
 
 
-:mtgtip:`Clarion Cathars<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/9/89f8ea28-7de1-4908-8e2d-b1aeff651015.jpg?1634346745|https://scryfall.com/card/mid/14/clarion-cathars?utm_source=api>`
+:mtgtip:`Clarion Cathars<https://cards.scryfall.io/border_crop/front/8/9/89f8ea28-7de1-4908-8e2d-b1aeff651015.jpg?1634346745|https://scryfall.com/card/mid/14/clarion-cathars?utm_source=api>`
    When Clarion Cathars enters the battlefield, create a 1/1 white Human creature token.
 
 
-:mtgtip:`Curse of Silence<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/e/9e7819d5-12a9-4719-91b2-8dd1ba6f3800.jpg?1634346769|https://scryfall.com/card/mid/15/curse-of-silence?utm_source=api>`
+:mtgtip:`Curse of Silence<https://cards.scryfall.io/border_crop/front/9/e/9e7819d5-12a9-4719-91b2-8dd1ba6f3800.jpg?1634346769|https://scryfall.com/card/mid/15/curse-of-silence?utm_source=api>`
    Enchant player
 
    As Curse of Silence enters the battlefield, choose a card name.
@@ -125,13 +125,13 @@
    Whenever enchanted player casts a spell with the chosen name, you may sacrifice Curse of Silence. If you do, draw a card.
 
 
-:mtgtip:`Duelcraft Trainer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/b/6b75855c-88dc-4491-8045-080debfeb7b5.jpg?1634346793|https://scryfall.com/card/mid/16/duelcraft-trainer?utm_source=api>`
+:mtgtip:`Duelcraft Trainer<https://cards.scryfall.io/border_crop/front/6/b/6b75855c-88dc-4491-8045-080debfeb7b5.jpg?1634346793|https://scryfall.com/card/mid/16/duelcraft-trainer?utm_source=api>`
    First strike
 
    Coven — At the beginning of combat on your turn, if you control three or more creatures with different powers, target creature you control gains double strike until end of turn.
 
 
-:mtgtip:`Enduring Angel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/2/a204c2a3-a899-4b70-8825-7e085b655ed0.jpg?1634347126|https://scryfall.com/card/mid/17/enduring-angel-angelic-enforcer?utm_source=api>`
+:mtgtip:`Enduring Angel<https://cards.scryfall.io/border_crop/front/a/2/a204c2a3-a899-4b70-8825-7e085b655ed0.jpg?1634347126|https://scryfall.com/card/mid/17/enduring-angel-angelic-enforcer?utm_source=api>`
    Flying, double strike
 
    You have hexproof.
@@ -139,7 +139,7 @@
    If your life total would be reduced to 0 or less, instead transform Enduring Angel and your life total becomes 3. Then if Enduring Angel didn't transform this way, you lose the game.
 
 
-:mtgtip:`Angelic Enforcer<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/a/2/a204c2a3-a899-4b70-8825-7e085b655ed0.jpg?1634347126|https://scryfall.com/card/mid/17/enduring-angel-angelic-enforcer?utm_source=api>`
+:mtgtip:`Angelic Enforcer<https://cards.scryfall.io/border_crop/back/a/2/a204c2a3-a899-4b70-8825-7e085b655ed0.jpg?1634347126|https://scryfall.com/card/mid/17/enduring-angel-angelic-enforcer?utm_source=api>`
    Flying
 
    You have hexproof.
@@ -149,15 +149,15 @@
    Whenever Angelic Enforcer attacks, double your life total.
 
 
-:mtgtip:`Fateful Absence<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/c/eca8d6f8-c6f1-437c-99e2-4281eae14a6f.jpg?1634346819|https://scryfall.com/card/mid/18/fateful-absence?utm_source=api>`
+:mtgtip:`Fateful Absence<https://cards.scryfall.io/border_crop/front/e/c/eca8d6f8-c6f1-437c-99e2-4281eae14a6f.jpg?1634346819|https://scryfall.com/card/mid/18/fateful-absence?utm_source=api>`
    Destroy target creature or planeswalker. Its controller investigates. (Create a Clue token. It's an artifact with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
 
-:mtgtip:`Flare of Faith<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/b/1b4354c6-ea21-46c0-93c4-744dbacbfcf4.jpg?1634346842|https://scryfall.com/card/mid/19/flare-of-faith?utm_source=api>`
+:mtgtip:`Flare of Faith<https://cards.scryfall.io/border_crop/front/1/b/1b4354c6-ea21-46c0-93c4-744dbacbfcf4.jpg?1634346842|https://scryfall.com/card/mid/19/flare-of-faith?utm_source=api>`
    Target creature gets +2/+2 until end of turn. If it's a Human, instead it gets +3/+3 and gains indestructible until end of turn.
 
 
-:mtgtip:`Gavony Dawnguard<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/8/58891dae-1c59-4f53-82ec-5b4c47133182.jpg?1634348150|https://scryfall.com/card/mid/20/gavony-dawnguard?utm_source=api>`
+:mtgtip:`Gavony Dawnguard<https://cards.scryfall.io/border_crop/front/5/8/58891dae-1c59-4f53-82ec-5b4c47133182.jpg?1634348150|https://scryfall.com/card/mid/20/gavony-dawnguard?utm_source=api>`
    Ward |mana_1|
 
    If it's neither day nor night, it becomes day as Gavony Dawnguard enters the battlefield.
@@ -165,15 +165,15 @@
    Whenever day becomes night or night becomes day, look at the top four cards of your library. You may reveal a creature card with mana value 3 or less from among them and put it into your hand. Put the rest on the bottom of your library in any order.
 
 
-:mtgtip:`Gavony Silversmith<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/c/2c53b007-96aa-4db6-8c3e-529d1e845b19.jpg?1634348173|https://scryfall.com/card/mid/21/gavony-silversmith?utm_source=api>`
+:mtgtip:`Gavony Silversmith<https://cards.scryfall.io/border_crop/front/2/c/2c53b007-96aa-4db6-8c3e-529d1e845b19.jpg?1634348173|https://scryfall.com/card/mid/21/gavony-silversmith?utm_source=api>`
    When Gavony Silversmith enters the battlefield, put a +1/+1 counter on each of up to two target creatures.
 
 
-:mtgtip:`Gavony Trapper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/a/5a1309ea-4411-4116-841f-5aef8611400c.jpg?1634348201|https://scryfall.com/card/mid/22/gavony-trapper?utm_source=api>`
+:mtgtip:`Gavony Trapper<https://cards.scryfall.io/border_crop/front/5/a/5a1309ea-4411-4116-841f-5aef8611400c.jpg?1634348201|https://scryfall.com/card/mid/22/gavony-trapper?utm_source=api>`
    |mana_2|, |tap|: Tap target creature.
 
 
-:mtgtip:`Hedgewitch's Mask<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/7/97321072-1f7f-413b-9246-e6b3ec7a8c30.jpg?1634348225|https://scryfall.com/card/mid/23/hedgewitchs-mask?utm_source=api>`
+:mtgtip:`Hedgewitch's Mask<https://cards.scryfall.io/border_crop/front/9/7/97321072-1f7f-413b-9246-e6b3ec7a8c30.jpg?1634348225|https://scryfall.com/card/mid/23/hedgewitchs-mask?utm_source=api>`
    Equipped creature gets +1/+1.
 
    Equipped creature can't be blocked by creatures with power 4 or greater.
@@ -181,13 +181,13 @@
    Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip only as a sorcery.)
 
 
-:mtgtip:`Homestead Courage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/3/73a9c49f-fcd3-4572-bac7-6eb06fdc0815.jpg?1634348250|https://scryfall.com/card/mid/24/homestead-courage?utm_source=api>`
+:mtgtip:`Homestead Courage<https://cards.scryfall.io/border_crop/front/7/3/73a9c49f-fcd3-4572-bac7-6eb06fdc0815.jpg?1634348250|https://scryfall.com/card/mid/24/homestead-courage?utm_source=api>`
    Put a +1/+1 counter on target creature you control. It gains vigilance until end of turn.
 
    Flashback |mana_w| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
-:mtgtip:`Intrepid Adversary<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/7/773199f9-c83b-4a77-8342-9f1552ecf595.jpg?1634348280|https://scryfall.com/card/mid/25/intrepid-adversary?utm_source=api>`
+:mtgtip:`Intrepid Adversary<https://cards.scryfall.io/border_crop/front/7/7/773199f9-c83b-4a77-8342-9f1552ecf595.jpg?1634348280|https://scryfall.com/card/mid/25/intrepid-adversary?utm_source=api>`
    Lifelink
 
    When Intrepid Adversary enters the battlefield, you may pay |mana_1|\ |mana_w| any number of times. When you pay this cost one or more times, put that many valor counters on Intrepid Adversary.
@@ -195,7 +195,7 @@
    Creatures you control get +1/+1 for each valor counter on Intrepid Adversary.
 
 
-:mtgtip:`Loyal Gryff<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/4/b4d41ac4-3273-4722-aaa6-ceeba66cf591.jpg?1634348302|https://scryfall.com/card/mid/26/loyal-gryff?utm_source=api>`
+:mtgtip:`Loyal Gryff<https://cards.scryfall.io/border_crop/front/b/4/b4d41ac4-3273-4722-aaa6-ceeba66cf591.jpg?1634348302|https://scryfall.com/card/mid/26/loyal-gryff?utm_source=api>`
    Flash
 
    Flying
@@ -203,13 +203,13 @@
    When Loyal Gryff enters the battlefield, you may return another creature you control to its owner's hand.
 
 
-:mtgtip:`Lunarch Veteran<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/2/d2704743-2e23-40b9-a367-c73d2db45afc.jpg?1634347175|https://scryfall.com/card/mid/27/lunarch-veteran-luminous-phantom?utm_source=api>`
+:mtgtip:`Lunarch Veteran<https://cards.scryfall.io/border_crop/front/d/2/d2704743-2e23-40b9-a367-c73d2db45afc.jpg?1634347175|https://scryfall.com/card/mid/27/lunarch-veteran-luminous-phantom?utm_source=api>`
    Whenever another creature enters the battlefield under your control, you gain 1 life.
 
    Disturb |mana_1|\ |mana_w| (You may cast this card from your graveyard transformed for its disturb cost.)
 
 
-:mtgtip:`Luminous Phantom<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/d/2/d2704743-2e23-40b9-a367-c73d2db45afc.jpg?1634347175|https://scryfall.com/card/mid/27/lunarch-veteran-luminous-phantom?utm_source=api>`
+:mtgtip:`Luminous Phantom<https://cards.scryfall.io/border_crop/back/d/2/d2704743-2e23-40b9-a367-c73d2db45afc.jpg?1634347175|https://scryfall.com/card/mid/27/lunarch-veteran-luminous-phantom?utm_source=api>`
    Flying
 
    Whenever another creature you control leaves the battlefield, you gain 1 life.
@@ -217,39 +217,39 @@
    If Luminous Phantom would be put into a graveyard from anywhere, exile it instead.
 
 
-:mtgtip:`Mourning Patrol<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/d/2d3687e2-09e0-4753-aa02-88a19bde3330.jpg?1634347239|https://scryfall.com/card/mid/28/mourning-patrol-morning-apparition?utm_source=api>`
+:mtgtip:`Mourning Patrol<https://cards.scryfall.io/border_crop/front/2/d/2d3687e2-09e0-4753-aa02-88a19bde3330.jpg?1634347239|https://scryfall.com/card/mid/28/mourning-patrol-morning-apparition?utm_source=api>`
    Vigilance
 
    Disturb |mana_3|\ |mana_w| (You may cast this card from your graveyard transformed for its disturb cost.)
 
 
-:mtgtip:`Morning Apparition<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/2/d/2d3687e2-09e0-4753-aa02-88a19bde3330.jpg?1634347239|https://scryfall.com/card/mid/28/mourning-patrol-morning-apparition?utm_source=api>`
+:mtgtip:`Morning Apparition<https://cards.scryfall.io/border_crop/back/2/d/2d3687e2-09e0-4753-aa02-88a19bde3330.jpg?1634347239|https://scryfall.com/card/mid/28/mourning-patrol-morning-apparition?utm_source=api>`
    Flying, vigilance
 
    If Morning Apparition would be put into a graveyard from anywhere, exile it instead.
 
 
-:mtgtip:`Odric's Outrider<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/0/9016f837-cc19-43f1-adb9-96bdd3195407.jpg?1634348336|https://scryfall.com/card/mid/29/odrics-outrider?utm_source=api>`
+:mtgtip:`Odric's Outrider<https://cards.scryfall.io/border_crop/front/9/0/9016f837-cc19-43f1-adb9-96bdd3195407.jpg?1634348336|https://scryfall.com/card/mid/29/odrics-outrider?utm_source=api>`
    Whenever Odric's Outrider or another creature you control dies, put a +1/+1 counter on target creature you control.
 
 
-:mtgtip:`Ritual Guardian<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/0/f077f07e-4660-4483-b6ea-16cca0956892.jpg?1634348360|https://scryfall.com/card/mid/30/ritual-guardian?utm_source=api>`
+:mtgtip:`Ritual Guardian<https://cards.scryfall.io/border_crop/front/f/0/f077f07e-4660-4483-b6ea-16cca0956892.jpg?1634348360|https://scryfall.com/card/mid/30/ritual-guardian?utm_source=api>`
    Coven — At the beginning of combat on your turn, if you control three or more creatures with different powers, Ritual Guardian gains lifelink until end of turn.
 
 
-:mtgtip:`Ritual of Hope<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/8/d8293903-4604-4516-866e-27a306b6fd7c.jpg?1634348383|https://scryfall.com/card/mid/31/ritual-of-hope?utm_source=api>`
+:mtgtip:`Ritual of Hope<https://cards.scryfall.io/border_crop/front/d/8/d8293903-4604-4516-866e-27a306b6fd7c.jpg?1634348383|https://scryfall.com/card/mid/31/ritual-of-hope?utm_source=api>`
    Creatures you control get +1/+1 until end of turn.
 
    Coven — If you control three or more creatures with different powers, creatures you control get +2/+1 until end of turn instead.
 
 
-:mtgtip:`Search Party Captain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/b/cb9006c1-2e6f-4bca-a1c4-3cf2a8b6e964.jpg?1634348412|https://scryfall.com/card/mid/32/search-party-captain?utm_source=api>`
+:mtgtip:`Search Party Captain<https://cards.scryfall.io/border_crop/front/c/b/cb9006c1-2e6f-4bca-a1c4-3cf2a8b6e964.jpg?1634348412|https://scryfall.com/card/mid/32/search-party-captain?utm_source=api>`
    This spell costs |mana_1| less to cast for each creature you attacked with this turn.
 
    When Search Party Captain enters the battlefield, draw a card.
 
 
-:mtgtip:`Sigarda's Splendor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/b/bb22626d-84ef-40d1-a4f2-771b45198eaa.jpg?1634348440|https://scryfall.com/card/mid/33/sigardas-splendor?utm_source=api>`
+:mtgtip:`Sigarda's Splendor<https://cards.scryfall.io/border_crop/front/b/b/bb22626d-84ef-40d1-a4f2-771b45198eaa.jpg?1634348440|https://scryfall.com/card/mid/33/sigardas-splendor?utm_source=api>`
    As Sigarda's Splendor enters the battlefield, note your life total.
 
    At the beginning of your upkeep, draw a card if your life total is greater than or equal to the last noted life total for Sigarda's Splendor. Then note your life total.
@@ -257,29 +257,29 @@
    Whenever you cast a white spell, you gain 1 life.
 
 
-:mtgtip:`Sigardian Savior<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/1/b1a2b41a-34b0-428e-80ec-3ffd601093a2.jpg?1634348463|https://scryfall.com/card/mid/34/sigardian-savior?utm_source=api>`
+:mtgtip:`Sigardian Savior<https://cards.scryfall.io/border_crop/front/b/1/b1a2b41a-34b0-428e-80ec-3ffd601093a2.jpg?1634348463|https://scryfall.com/card/mid/34/sigardian-savior?utm_source=api>`
    Flying
 
    When Sigardian Savior enters the battlefield, if you cast it, return up to two target creature cards with mana value 2 or less from your graveyard to the battlefield.
 
 
-:mtgtip:`Soul-Guide Gryff<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/e/be1031bb-af9f-4446-8b36-b0bb9aa5997a.jpg?1634348488|https://scryfall.com/card/mid/35/soul-guide-gryff?utm_source=api>`
+:mtgtip:`Soul-Guide Gryff<https://cards.scryfall.io/border_crop/front/b/e/be1031bb-af9f-4446-8b36-b0bb9aa5997a.jpg?1634348488|https://scryfall.com/card/mid/35/soul-guide-gryff?utm_source=api>`
    Flying
 
    When Soul-Guide Gryff enters the battlefield, exile up to one target card from a graveyard.
 
 
-:mtgtip:`Sungold Barrage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/e/ee507688-9890-47c4-bb04-43c51eb48e22.jpg?1634348527|https://scryfall.com/card/mid/36/sungold-barrage?utm_source=api>`
+:mtgtip:`Sungold Barrage<https://cards.scryfall.io/border_crop/front/e/e/ee507688-9890-47c4-bb04-43c51eb48e22.jpg?1634348527|https://scryfall.com/card/mid/36/sungold-barrage?utm_source=api>`
    Destroy target creature with toughness 4 or greater.
 
 
-:mtgtip:`Sungold Sentinel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/7/e7e1afd0-49d4-4657-ab75-98b0bfbfb245.jpg?1634348552|https://scryfall.com/card/mid/37/sungold-sentinel?utm_source=api>`
+:mtgtip:`Sungold Sentinel<https://cards.scryfall.io/border_crop/front/e/7/e7e1afd0-49d4-4657-ab75-98b0bfbfb245.jpg?1634348552|https://scryfall.com/card/mid/37/sungold-sentinel?utm_source=api>`
    Whenever Sungold Sentinel enters the battlefield or attacks, exile up to one target card from a graveyard.
 
    Coven — |mana_1|\ |mana_w|: Choose a color. Sungold Sentinel gains hexproof from that color until end of turn and can't be blocked by creatures of that color this turn. Activate only if you control three or more creatures with different powers.
 
 
-:mtgtip:`Sunset Revelry<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/1/61b39ef1-29d4-4c8d-aece-a3f1ce008e2d.jpg?1634348577|https://scryfall.com/card/mid/38/sunset-revelry?utm_source=api>`
+:mtgtip:`Sunset Revelry<https://cards.scryfall.io/border_crop/front/6/1/61b39ef1-29d4-4c8d-aece-a3f1ce008e2d.jpg?1634348577|https://scryfall.com/card/mid/38/sunset-revelry?utm_source=api>`
    If an opponent has more life than you, you gain 4 life.
 
    If an opponent controls more creatures than you, create two 1/1 white Human creature tokens.
@@ -287,49 +287,49 @@
    If an opponent has more cards in hand than you, draw a card.
 
 
-:mtgtip:`Thraben Exorcism<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/0/a0700298-30d2-45a6-bd64-4fd7fa4d7d30.jpg?1634348604|https://scryfall.com/card/mid/39/thraben-exorcism?utm_source=api>`
+:mtgtip:`Thraben Exorcism<https://cards.scryfall.io/border_crop/front/a/0/a0700298-30d2-45a6-bd64-4fd7fa4d7d30.jpg?1634348604|https://scryfall.com/card/mid/39/thraben-exorcism?utm_source=api>`
    Exile target Spirit, creature with disturb, or enchantment.
 
 
-:mtgtip:`Unruly Mob<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/f/5f48622a-abf3-407f-921f-77c29d59ba8e.jpg?1634348625|https://scryfall.com/card/mid/40/unruly-mob?utm_source=api>`
+:mtgtip:`Unruly Mob<https://cards.scryfall.io/border_crop/front/5/f/5f48622a-abf3-407f-921f-77c29d59ba8e.jpg?1634348625|https://scryfall.com/card/mid/40/unruly-mob?utm_source=api>`
    Whenever another creature you control dies, put a +1/+1 counter on Unruly Mob.
 
 
-:mtgtip:`Vanquish the Horde<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/2/e264615c-eb99-4cb3-844a-2b4a94ba5203.jpg?1634348651|https://scryfall.com/card/mid/41/vanquish-the-horde?utm_source=api>`
+:mtgtip:`Vanquish the Horde<https://cards.scryfall.io/border_crop/front/e/2/e264615c-eb99-4cb3-844a-2b4a94ba5203.jpg?1634348651|https://scryfall.com/card/mid/41/vanquish-the-horde?utm_source=api>`
    This spell costs |mana_1| less to cast for each creature on the battlefield.
 
    Destroy all creatures.
 
 
-:mtgtip:`Baithook Angler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/6/36e71d16-0964-489d-bea2-9cec7991fc99.jpg?1634347296|https://scryfall.com/card/mid/42/baithook-angler-hook-haunt-drifter?utm_source=api>`
+:mtgtip:`Baithook Angler<https://cards.scryfall.io/border_crop/front/3/6/36e71d16-0964-489d-bea2-9cec7991fc99.jpg?1634347296|https://scryfall.com/card/mid/42/baithook-angler-hook-haunt-drifter?utm_source=api>`
    Disturb |mana_1|\ |mana_u| (You may cast this card from your graveyard transformed for its disturb cost.)
 
 
-:mtgtip:`Hook-Haunt Drifter<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/3/6/36e71d16-0964-489d-bea2-9cec7991fc99.jpg?1634347296|https://scryfall.com/card/mid/42/baithook-angler-hook-haunt-drifter?utm_source=api>`
+:mtgtip:`Hook-Haunt Drifter<https://cards.scryfall.io/border_crop/back/3/6/36e71d16-0964-489d-bea2-9cec7991fc99.jpg?1634347296|https://scryfall.com/card/mid/42/baithook-angler-hook-haunt-drifter?utm_source=api>`
    Flying
 
    If Hook-Haunt Drifter would be put into a graveyard from anywhere, exile it instead.
 
 
-:mtgtip:`Component Collector<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/5/956b74fc-1355-4668-838b-e8927794608c.jpg?1634348673|https://scryfall.com/card/mid/43/component-collector?utm_source=api>`
+:mtgtip:`Component Collector<https://cards.scryfall.io/border_crop/front/9/5/956b74fc-1355-4668-838b-e8927794608c.jpg?1634348673|https://scryfall.com/card/mid/43/component-collector?utm_source=api>`
    If it's neither day nor night, it becomes day as Component Collector enters the battlefield.
 
    Whenever day becomes night or night becomes day, you may tap or untap target nonland permanent.
 
 
-:mtgtip:`Consider<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/2/a211d505-4d40-4914-a9da-220770d6ddbc.jpg?1634348697|https://scryfall.com/card/mid/44/consider?utm_source=api>`
+:mtgtip:`Consider<https://cards.scryfall.io/border_crop/front/a/2/a211d505-4d40-4914-a9da-220770d6ddbc.jpg?1634348697|https://scryfall.com/card/mid/44/consider?utm_source=api>`
    Look at the top card of your library. You may put that card into your graveyard.
 
    Draw a card.
 
 
-:mtgtip:`Covetous Castaway<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/3/03a3ea4b-d292-4602-985f-7a7971ca73ec.jpg?1634433828|https://scryfall.com/card/mid/45/covetous-castaway-ghostly-castigator?utm_source=api>`
+:mtgtip:`Covetous Castaway<https://cards.scryfall.io/border_crop/front/0/3/03a3ea4b-d292-4602-985f-7a7971ca73ec.jpg?1634433828|https://scryfall.com/card/mid/45/covetous-castaway-ghostly-castigator?utm_source=api>`
    When Covetous Castaway dies, mill three cards. (Put the top three cards of your library into your graveyard.)
 
    Disturb |mana_3|\ |mana_u|\ |mana_u| (You may cast this card from your graveyard transformed for its disturb cost.)
 
 
-:mtgtip:`Ghostly Castigator<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/0/3/03a3ea4b-d292-4602-985f-7a7971ca73ec.jpg?1634433828|https://scryfall.com/card/mid/45/covetous-castaway-ghostly-castigator?utm_source=api>`
+:mtgtip:`Ghostly Castigator<https://cards.scryfall.io/border_crop/back/0/3/03a3ea4b-d292-4602-985f-7a7971ca73ec.jpg?1634433828|https://scryfall.com/card/mid/45/covetous-castaway-ghostly-castigator?utm_source=api>`
    Flying
 
    When Ghostly Castigator enters the battlefield, you may shuffle up to three target cards from your graveyard into your library.
@@ -337,45 +337,45 @@
    If Ghostly Castigator would be put into a graveyard from anywhere, exile it instead.
 
 
-:mtgtip:`Curse of Surveillance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/6/d6a5b3b2-4f27-4c97-9d87-d7bdcc06d36a.jpg?1634348722|https://scryfall.com/card/mid/46/curse-of-surveillance?utm_source=api>`
+:mtgtip:`Curse of Surveillance<https://cards.scryfall.io/border_crop/front/d/6/d6a5b3b2-4f27-4c97-9d87-d7bdcc06d36a.jpg?1634348722|https://scryfall.com/card/mid/46/curse-of-surveillance?utm_source=api>`
    Enchant player
 
    At the beginning of enchanted player's upkeep, any number of target players other than that player each draw cards equal to the number of Curses attached to that player.
 
 
-:mtgtip:`Delver of Secrets<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/b/abff6c81-65a4-48fa-ba8f-580f87b0344a.jpg?1634347351|https://scryfall.com/card/mid/47/delver-of-secrets-insectile-aberration?utm_source=api>`
+:mtgtip:`Delver of Secrets<https://cards.scryfall.io/border_crop/front/a/b/abff6c81-65a4-48fa-ba8f-580f87b0344a.jpg?1634347351|https://scryfall.com/card/mid/47/delver-of-secrets-insectile-aberration?utm_source=api>`
    At the beginning of your upkeep, look at the top card of your library. You may reveal that card. If an instant or sorcery card is revealed this way, transform Delver of Secrets.
 
 
-:mtgtip:`Insectile Aberration<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/a/b/abff6c81-65a4-48fa-ba8f-580f87b0344a.jpg?1634347351|https://scryfall.com/card/mid/47/delver-of-secrets-insectile-aberration?utm_source=api>`
+:mtgtip:`Insectile Aberration<https://cards.scryfall.io/border_crop/back/a/b/abff6c81-65a4-48fa-ba8f-580f87b0344a.jpg?1634347351|https://scryfall.com/card/mid/47/delver-of-secrets-insectile-aberration?utm_source=api>`
    Flying
 
 
-:mtgtip:`Devious Cover-Up<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/4/648281fe-89fb-4d8d-b944-3af28fb044f6.jpg?1634348751|https://scryfall.com/card/mid/48/devious-cover-up?utm_source=api>`
+:mtgtip:`Devious Cover-Up<https://cards.scryfall.io/border_crop/front/6/4/648281fe-89fb-4d8d-b944-3af28fb044f6.jpg?1634348751|https://scryfall.com/card/mid/48/devious-cover-up?utm_source=api>`
    Counter target spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard. You may shuffle up to four target cards from your graveyard into your library.
 
 
-:mtgtip:`Dissipate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/6/4689b3f2-e4b7-448e-b3d4-ab33194aafb2.jpg?1634348774|https://scryfall.com/card/mid/49/dissipate?utm_source=api>`
+:mtgtip:`Dissipate<https://cards.scryfall.io/border_crop/front/4/6/4689b3f2-e4b7-448e-b3d4-ab33194aafb2.jpg?1634348774|https://scryfall.com/card/mid/49/dissipate?utm_source=api>`
    Counter target spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.
 
 
-:mtgtip:`Drownyard Amalgam<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/1/71b05d44-d987-45e1-bbd9-842dbe58c2b5.jpg?1634348796|https://scryfall.com/card/mid/50/drownyard-amalgam?utm_source=api>`
+:mtgtip:`Drownyard Amalgam<https://cards.scryfall.io/border_crop/front/7/1/71b05d44-d987-45e1-bbd9-842dbe58c2b5.jpg?1634348796|https://scryfall.com/card/mid/50/drownyard-amalgam?utm_source=api>`
    When Drownyard Amalgam enters the battlefield, target player mills three cards. (They put the top three cards of their library into their graveyard.)
 
    |mana_2|\ |mana_u|: Drownyard Amalgam can't be blocked this turn.
 
 
-:mtgtip:`Fading Hope<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/2/c2fb1fff-12be-4bd5-8dba-c36e84d49651.jpg?1634348819|https://scryfall.com/card/mid/51/fading-hope?utm_source=api>`
+:mtgtip:`Fading Hope<https://cards.scryfall.io/border_crop/front/c/2/c2fb1fff-12be-4bd5-8dba-c36e84d49651.jpg?1634348819|https://scryfall.com/card/mid/51/fading-hope?utm_source=api>`
    Return target creature to its owner's hand. If its mana value was 3 or less, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
 
 
-:mtgtip:`Falcon Abomination<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/0/f0668413-859d-4ec4-a4d8-17ec7f5b1b8b.jpg?1634348844|https://scryfall.com/card/mid/52/falcon-abomination?utm_source=api>`
+:mtgtip:`Falcon Abomination<https://cards.scryfall.io/border_crop/front/f/0/f0668413-859d-4ec4-a4d8-17ec7f5b1b8b.jpg?1634348844|https://scryfall.com/card/mid/52/falcon-abomination?utm_source=api>`
    Flying
 
    When Falcon Abomination enters the battlefield, create a 2/2 black Zombie creature token with decayed. (It can't block. When it attacks, sacrifice it at end of combat.)
 
 
-:mtgtip:`A-Falcon Abomination<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/0/004c1078-0dea-4885-97b5-497f3f15c8c3.jpg?1645740110|https://scryfall.com/card/mid/A-52/a-falcon-abomination?utm_source=api>`
+:mtgtip:`A-Falcon Abomination<https://cards.scryfall.io/border_crop/front/0/0/004c1078-0dea-4885-97b5-497f3f15c8c3.jpg?1645740110|https://scryfall.com/card/mid/A-52/a-falcon-abomination?utm_source=api>`
    Flash
 
    Flying
@@ -383,33 +383,33 @@
    When Falcon Abomination enters the battlefield, create a 2/2 black Zombie creature token with decayed. (It can't block. When it attacks, sacrifice it at end of combat.)
 
 
-:mtgtip:`Firmament Sage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9db186a1-3dc5-4ed2-8cd4-1e4f13094885.jpg?1634348872|https://scryfall.com/card/mid/53/firmament-sage?utm_source=api>`
+:mtgtip:`Firmament Sage<https://cards.scryfall.io/border_crop/front/9/d/9db186a1-3dc5-4ed2-8cd4-1e4f13094885.jpg?1634348872|https://scryfall.com/card/mid/53/firmament-sage?utm_source=api>`
    If it's neither day nor night, it becomes day as Firmament Sage enters the battlefield.
 
    Whenever day becomes night or night becomes day, draw a card.
 
 
-:mtgtip:`Flip the Switch<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/c/5cdbe4e3-f030-46fa-ae84-edf261b61706.jpg?1634348893|https://scryfall.com/card/mid/54/flip-the-switch?utm_source=api>`
+:mtgtip:`Flip the Switch<https://cards.scryfall.io/border_crop/front/5/c/5cdbe4e3-f030-46fa-ae84-edf261b61706.jpg?1634348893|https://scryfall.com/card/mid/54/flip-the-switch?utm_source=api>`
    Counter target spell unless its controller pays |mana_4|. Create a 2/2 black Zombie creature token with decayed. (It can't block. When it attacks, sacrifice it at end of combat.)
 
 
-:mtgtip:`Galedrifter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/b/eb34c472-c6ff-4d83-ac8b-a8f279593f98.jpg?1634347399|https://scryfall.com/card/mid/55/galedrifter-waildrifter?utm_source=api>`
+:mtgtip:`Galedrifter<https://cards.scryfall.io/border_crop/front/e/b/eb34c472-c6ff-4d83-ac8b-a8f279593f98.jpg?1634347399|https://scryfall.com/card/mid/55/galedrifter-waildrifter?utm_source=api>`
    Flying
 
    Disturb |mana_4|\ |mana_u| (You may cast this card from your graveyard transformed for its disturb cost.)
 
 
-:mtgtip:`Waildrifter<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/e/b/eb34c472-c6ff-4d83-ac8b-a8f279593f98.jpg?1634347399|https://scryfall.com/card/mid/55/galedrifter-waildrifter?utm_source=api>`
+:mtgtip:`Waildrifter<https://cards.scryfall.io/border_crop/back/e/b/eb34c472-c6ff-4d83-ac8b-a8f279593f98.jpg?1634347399|https://scryfall.com/card/mid/55/galedrifter-waildrifter?utm_source=api>`
    Flying
 
    If Waildrifter would be put into a graveyard from anywhere, exile it instead.
 
 
-:mtgtip:`Geistwave<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/0/f0e3d1ac-bec2-4bba-a6cf-a823996dde2d.jpg?1634348915|https://scryfall.com/card/mid/56/geistwave?utm_source=api>`
+:mtgtip:`Geistwave<https://cards.scryfall.io/border_crop/front/f/0/f0e3d1ac-bec2-4bba-a6cf-a823996dde2d.jpg?1634348915|https://scryfall.com/card/mid/56/geistwave?utm_source=api>`
    Return target nonland permanent to its owner's hand. If you controlled that permanent, draw a card.
 
 
-:mtgtip:`Grafted Identity<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/5/2559846b-03d6-4a2c-97e1-c71f107e9f24.jpg?1634348937|https://scryfall.com/card/mid/57/grafted-identity?utm_source=api>`
+:mtgtip:`Grafted Identity<https://cards.scryfall.io/border_crop/front/2/5/2559846b-03d6-4a2c-97e1-c71f107e9f24.jpg?1634348937|https://scryfall.com/card/mid/57/grafted-identity?utm_source=api>`
    As an additional cost to cast this spell, sacrifice a creature.
 
    Enchant creature
@@ -419,25 +419,25 @@
    Enchanted creature gets +1/+1.
 
 
-:mtgtip:`Larder Zombie<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/7/a7c0dcac-f3d4-4d6e-9c6e-9295bb1cd47f.jpg?1634348960|https://scryfall.com/card/mid/58/larder-zombie?utm_source=api>`
+:mtgtip:`Larder Zombie<https://cards.scryfall.io/border_crop/front/a/7/a7c0dcac-f3d4-4d6e-9c6e-9295bb1cd47f.jpg?1634348960|https://scryfall.com/card/mid/58/larder-zombie?utm_source=api>`
    Defender
 
    Tap three untapped creatures you control: Look at the top card of your library. You may put it into your graveyard.
 
 
-:mtgtip:`Lier, Disciple of the Drowned<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/8/78fb8900-d28d-4e33-96a7-66fcbc117adf.jpg?1634348984|https://scryfall.com/card/mid/59/lier-disciple-of-the-drowned?utm_source=api>`
+:mtgtip:`Lier, Disciple of the Drowned<https://cards.scryfall.io/border_crop/front/7/8/78fb8900-d28d-4e33-96a7-66fcbc117adf.jpg?1634348984|https://scryfall.com/card/mid/59/lier-disciple-of-the-drowned?utm_source=api>`
    Spells can't be countered.
 
    Each instant and sorcery card in your graveyard has flashback. The flashback cost is equal to that card's mana cost.
 
 
-:mtgtip:`A-Lier, Disciple of the Drowned<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/9/79a6bf25-4e94-4760-b4f5-69c78ac98fb5.jpg?1645415764|https://scryfall.com/card/mid/A-59/a-lier-disciple-of-the-drowned?utm_source=api>`
+:mtgtip:`A-Lier, Disciple of the Drowned<https://cards.scryfall.io/border_crop/front/7/9/79a6bf25-4e94-4760-b4f5-69c78ac98fb5.jpg?1645415764|https://scryfall.com/card/mid/A-59/a-lier-disciple-of-the-drowned?utm_source=api>`
    Spells can't be countered.
 
    As long as it's your turn, each instant and sorcery card in your graveyard has flashback. The flashback cost is equal to that card's mana cost.
 
 
-:mtgtip:`Locked in the Cemetery<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/8/68593c6d-8d1b-4c36-84a1-f1144669825e.jpg?1634349012|https://scryfall.com/card/mid/60/locked-in-the-cemetery?utm_source=api>`
+:mtgtip:`Locked in the Cemetery<https://cards.scryfall.io/border_crop/front/6/8/68593c6d-8d1b-4c36-84a1-f1144669825e.jpg?1634349012|https://scryfall.com/card/mid/60/locked-in-the-cemetery?utm_source=api>`
    Enchant creature
 
    When Locked in the Cemetery enters the battlefield, if there are five or more cards in your graveyard, tap enchanted creature.
@@ -445,13 +445,13 @@
    Enchanted creature doesn't untap during its controller's untap step.
 
 
-:mtgtip:`Malevolent Hermit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/7/e79269af-63eb-43d2-afee-c38fa14a0c5b.jpg?1634347444|https://scryfall.com/card/mid/61/malevolent-hermit-benevolent-geist?utm_source=api>`
+:mtgtip:`Malevolent Hermit<https://cards.scryfall.io/border_crop/front/e/7/e79269af-63eb-43d2-afee-c38fa14a0c5b.jpg?1634347444|https://scryfall.com/card/mid/61/malevolent-hermit-benevolent-geist?utm_source=api>`
    |mana_u|, Sacrifice Malevolent Hermit: Counter target noncreature spell unless its controller pays |mana_3|.
 
    Disturb |mana_2|\ |mana_u| (You may cast this card from your graveyard transformed for its disturb cost.)
 
 
-:mtgtip:`Benevolent Geist<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/e/7/e79269af-63eb-43d2-afee-c38fa14a0c5b.jpg?1634347444|https://scryfall.com/card/mid/61/malevolent-hermit-benevolent-geist?utm_source=api>`
+:mtgtip:`Benevolent Geist<https://cards.scryfall.io/border_crop/back/e/7/e79269af-63eb-43d2-afee-c38fa14a0c5b.jpg?1634347444|https://scryfall.com/card/mid/61/malevolent-hermit-benevolent-geist?utm_source=api>`
    Flying
 
    Noncreature spells you control can't be countered.
@@ -459,21 +459,21 @@
    If Benevolent Geist would be put into a graveyard from anywhere, exile it instead.
 
 
-:mtgtip:`Memory Deluge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/c/dc00fd1b-3dd9-492a-9ed4-0b6743074730.jpg?1634349038|https://scryfall.com/card/mid/62/memory-deluge?utm_source=api>`
+:mtgtip:`Memory Deluge<https://cards.scryfall.io/border_crop/front/d/c/dc00fd1b-3dd9-492a-9ed4-0b6743074730.jpg?1634349038|https://scryfall.com/card/mid/62/memory-deluge?utm_source=api>`
    Look at the top X cards of your library, where X is the amount of mana spent to cast this spell. Put two of them into your hand and the rest on the bottom of your library in a random order.
 
    Flashback |mana_5|\ |mana_u|\ |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
-:mtgtip:`Mysterious Tome<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/a/caa57b63-bb11-45e8-8795-de92ca61f4f1.jpg?1634347488|https://scryfall.com/card/mid/63/mysterious-tome-chilling-chronicle?utm_source=api>`
+:mtgtip:`Mysterious Tome<https://cards.scryfall.io/border_crop/front/c/a/caa57b63-bb11-45e8-8795-de92ca61f4f1.jpg?1634347488|https://scryfall.com/card/mid/63/mysterious-tome-chilling-chronicle?utm_source=api>`
    |mana_2|, |tap|: Draw a card. Transform Mysterious Tome.
 
 
-:mtgtip:`Chilling Chronicle<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/c/a/caa57b63-bb11-45e8-8795-de92ca61f4f1.jpg?1634347488|https://scryfall.com/card/mid/63/mysterious-tome-chilling-chronicle?utm_source=api>`
+:mtgtip:`Chilling Chronicle<https://cards.scryfall.io/border_crop/back/c/a/caa57b63-bb11-45e8-8795-de92ca61f4f1.jpg?1634347488|https://scryfall.com/card/mid/63/mysterious-tome-chilling-chronicle?utm_source=api>`
    |mana_1|, |tap|: Tap target nonland permanent. Transform Chilling Chronicle.
 
 
-:mtgtip:`Nebelgast Intruder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/c/6c801346-0052-4f4b-a497-1567a34679fb.jpg?1634349062|https://scryfall.com/card/mid/64/nebelgast-intruder?utm_source=api>`
+:mtgtip:`Nebelgast Intruder<https://cards.scryfall.io/border_crop/front/6/c/6c801346-0052-4f4b-a497-1567a34679fb.jpg?1634349062|https://scryfall.com/card/mid/64/nebelgast-intruder?utm_source=api>`
    Flash
 
    Flying
@@ -481,27 +481,27 @@
    When Nebelgast Intruder enters the battlefield, up to one target creature an opponent controls gets -2/-0 until end of turn.
 
 
-:mtgtip:`Ominous Roost<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/a/daf2b49a-56f9-4093-960f-9ec7af8983b5.jpg?1634349086|https://scryfall.com/card/mid/65/ominous-roost?utm_source=api>`
+:mtgtip:`Ominous Roost<https://cards.scryfall.io/border_crop/front/d/a/daf2b49a-56f9-4093-960f-9ec7af8983b5.jpg?1634349086|https://scryfall.com/card/mid/65/ominous-roost?utm_source=api>`
    When Ominous Roost enters the battlefield or whenever you cast a spell from your graveyard, create a 1/1 blue Bird creature token with flying and "This creature can block only creatures with flying."
 
 
-:mtgtip:`Organ Hoarder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/7/9716d384-88d1-415e-882f-7fed9be1adc6.jpg?1634349110|https://scryfall.com/card/mid/66/organ-hoarder?utm_source=api>`
+:mtgtip:`Organ Hoarder<https://cards.scryfall.io/border_crop/front/9/7/9716d384-88d1-415e-882f-7fed9be1adc6.jpg?1634349110|https://scryfall.com/card/mid/66/organ-hoarder?utm_source=api>`
    When Organ Hoarder enters the battlefield, look at the top three cards of your library, then put one of them into your hand and the rest into your graveyard.
 
 
-:mtgtip:`Otherworldly Gaze<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/c/9cebee20-869e-45ed-9ddc-843faf4032ad.jpg?1634349134|https://scryfall.com/card/mid/67/otherworldly-gaze?utm_source=api>`
+:mtgtip:`Otherworldly Gaze<https://cards.scryfall.io/border_crop/front/9/c/9cebee20-869e-45ed-9ddc-843faf4032ad.jpg?1634349134|https://scryfall.com/card/mid/67/otherworldly-gaze?utm_source=api>`
    Look at the top three cards of your library. Put any number of them into your graveyard and the rest back on top of your library in any order.
 
    Flashback |mana_1|\ |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
-:mtgtip:`Overwhelmed Archivist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/3/832288fd-8031-4c2b-ad3e-b1ec9f94d379.jpg?1634347543|https://scryfall.com/card/mid/68/overwhelmed-archivist-archive-haunt?utm_source=api>`
+:mtgtip:`Overwhelmed Archivist<https://cards.scryfall.io/border_crop/front/8/3/832288fd-8031-4c2b-ad3e-b1ec9f94d379.jpg?1634347543|https://scryfall.com/card/mid/68/overwhelmed-archivist-archive-haunt?utm_source=api>`
    When Overwhelmed Archivist enters the battlefield, draw a card, then discard a card.
 
    Disturb |mana_3|\ |mana_u| (You may cast this card from your graveyard transformed for its disturb cost.)
 
 
-:mtgtip:`Archive Haunt<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/8/3/832288fd-8031-4c2b-ad3e-b1ec9f94d379.jpg?1634347543|https://scryfall.com/card/mid/68/overwhelmed-archivist-archive-haunt?utm_source=api>`
+:mtgtip:`Archive Haunt<https://cards.scryfall.io/border_crop/back/8/3/832288fd-8031-4c2b-ad3e-b1ec9f94d379.jpg?1634347543|https://scryfall.com/card/mid/68/overwhelmed-archivist-archive-haunt?utm_source=api>`
    Flying
 
    Whenever Archive Haunt attacks, draw a card, then discard a card.
@@ -509,7 +509,7 @@
    If Archive Haunt would be put into a graveyard from anywhere, exile it instead.
 
 
-:mtgtip:`Patrician Geist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/e/de2b0c63-c929-42ec-aada-dddb2a26550c.jpg?1634349157|https://scryfall.com/card/mid/69/patrician-geist?utm_source=api>`
+:mtgtip:`Patrician Geist<https://cards.scryfall.io/border_crop/front/d/e/de2b0c63-c929-42ec-aada-dddb2a26550c.jpg?1634349157|https://scryfall.com/card/mid/69/patrician-geist?utm_source=api>`
    Flying
 
    Other Spirits you control get +1/+1.
@@ -517,51 +517,51 @@
    Spells you cast from your graveyard cost |mana_1| less to cast.
 
 
-:mtgtip:`Phantom Carriage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/9/1990ed41-3739-40f6-8797-359f88af05f9.jpg?1634349183|https://scryfall.com/card/mid/70/phantom-carriage?utm_source=api>`
+:mtgtip:`Phantom Carriage<https://cards.scryfall.io/border_crop/front/1/9/1990ed41-3739-40f6-8797-359f88af05f9.jpg?1634349183|https://scryfall.com/card/mid/70/phantom-carriage?utm_source=api>`
    Flying
 
    When Phantom Carriage enters the battlefield, you may search your library for a card with flashback or disturb, put it into your graveyard, then shuffle.
 
 
-:mtgtip:`Poppet Stitcher<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/9/999038b3-7d64-4554-b341-0675d4af8d8b.jpg?1634347589|https://scryfall.com/card/mid/71/poppet-stitcher-poppet-factory?utm_source=api>`
+:mtgtip:`Poppet Stitcher<https://cards.scryfall.io/border_crop/front/9/9/999038b3-7d64-4554-b341-0675d4af8d8b.jpg?1634347589|https://scryfall.com/card/mid/71/poppet-stitcher-poppet-factory?utm_source=api>`
    Whenever you cast an instant or sorcery spell, create a 2/2 black Zombie creature token with decayed. (It can't block. When it attacks, sacrifice it at end of combat.)
 
    At the beginning of your upkeep, if you control three or more creature tokens, you may transform Poppet Stitcher.
 
 
-:mtgtip:`Poppet Factory<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/9/9/999038b3-7d64-4554-b341-0675d4af8d8b.jpg?1634347589|https://scryfall.com/card/mid/71/poppet-stitcher-poppet-factory?utm_source=api>`
+:mtgtip:`Poppet Factory<https://cards.scryfall.io/border_crop/back/9/9/999038b3-7d64-4554-b341-0675d4af8d8b.jpg?1634347589|https://scryfall.com/card/mid/71/poppet-stitcher-poppet-factory?utm_source=api>`
    Creature tokens you control lose all abilities and have base power and toughness 3/3.
 
    At the beginning of your upkeep, you may transform Poppet Factory.
 
 
-:mtgtip:`Revenge of the Drowned<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/3/93be7d72-927a-40ce-8de4-04a3f21c134b.jpg?1634349205|https://scryfall.com/card/mid/72/revenge-of-the-drowned?utm_source=api>`
+:mtgtip:`Revenge of the Drowned<https://cards.scryfall.io/border_crop/front/9/3/93be7d72-927a-40ce-8de4-04a3f21c134b.jpg?1634349205|https://scryfall.com/card/mid/72/revenge-of-the-drowned?utm_source=api>`
    Target creature's owner puts it on the top or bottom of their library. You create a 2/2 black Zombie creature token with decayed. (It can't block. When it attacks, sacrifice it at end of combat.)
 
 
-:mtgtip:`Secrets of the Key<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/b/9b022ba8-07b6-4993-99c8-89c6dcb19e60.jpg?1634349228|https://scryfall.com/card/mid/73/secrets-of-the-key?utm_source=api>`
+:mtgtip:`Secrets of the Key<https://cards.scryfall.io/border_crop/front/9/b/9b022ba8-07b6-4993-99c8-89c6dcb19e60.jpg?1634349228|https://scryfall.com/card/mid/73/secrets-of-the-key?utm_source=api>`
    Investigate. If this spell was cast from a graveyard, investigate twice instead. (Create a Clue token. It's an artifact with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
    Flashback |mana_3|\ |mana_u|
 
 
-:mtgtip:`Shipwreck Sifters<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/f/8f295833-a83e-4b18-8007-c7f5d78e5624.jpg?1634349252|https://scryfall.com/card/mid/74/shipwreck-sifters?utm_source=api>`
+:mtgtip:`Shipwreck Sifters<https://cards.scryfall.io/border_crop/front/8/f/8f295833-a83e-4b18-8007-c7f5d78e5624.jpg?1634349252|https://scryfall.com/card/mid/74/shipwreck-sifters?utm_source=api>`
    When Shipwreck Sifters enters the battlefield, draw a card, then discard a card.
 
    Whenever you discard a Spirit card or a card with disturb, put a +1/+1 counter on Shipwreck Sifters.
 
 
-:mtgtip:`Skaab Wrangler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/7/9771d9e8-97d5-44af-8612-dc5c44d65ceb.jpg?1634349275|https://scryfall.com/card/mid/75/skaab-wrangler?utm_source=api>`
+:mtgtip:`Skaab Wrangler<https://cards.scryfall.io/border_crop/front/9/7/9771d9e8-97d5-44af-8612-dc5c44d65ceb.jpg?1634349275|https://scryfall.com/card/mid/75/skaab-wrangler?utm_source=api>`
    Tap three untapped creatures you control: Tap target creature.
 
 
-:mtgtip:`Sludge Monster<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/7/57fa9aa8-86d2-4f1e-ac65-ace7e73a853c.jpg?1634349299|https://scryfall.com/card/mid/76/sludge-monster?utm_source=api>`
+:mtgtip:`Sludge Monster<https://cards.scryfall.io/border_crop/front/5/7/57fa9aa8-86d2-4f1e-ac65-ace7e73a853c.jpg?1634349299|https://scryfall.com/card/mid/76/sludge-monster?utm_source=api>`
    Whenever Sludge Monster enters the battlefield or attacks, put a slime counter on up to one other target creature.
 
    Non-Horror creatures with slime counters on them lose all abilities and have base power and toughness 2/2.
 
 
-:mtgtip:`Spectral Adversary<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7c67fe04-814f-4051-bd13-7c8ee40a6c08.jpg?1634349324|https://scryfall.com/card/mid/77/spectral-adversary?utm_source=api>`
+:mtgtip:`Spectral Adversary<https://cards.scryfall.io/border_crop/front/7/c/7c67fe04-814f-4051-bd13-7c8ee40a6c08.jpg?1634349324|https://scryfall.com/card/mid/77/spectral-adversary?utm_source=api>`
    Flash
 
    Flying
@@ -569,19 +569,19 @@
    When Spectral Adversary enters the battlefield, you may pay |mana_1|\ |mana_u| any number of times. When you pay this cost one or more times, put that many +1/+1 counters on Spectral Adversary, then up to that many other target artifacts, creatures, and/or enchantments phase out.
 
 
-:mtgtip:`Startle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/5/35f68eb3-9b40-4967-a52e-f95aec6e3fbf.jpg?1634349347|https://scryfall.com/card/mid/78/startle?utm_source=api>`
+:mtgtip:`Startle<https://cards.scryfall.io/border_crop/front/3/5/35f68eb3-9b40-4967-a52e-f95aec6e3fbf.jpg?1634349347|https://scryfall.com/card/mid/78/startle?utm_source=api>`
    Target creature gets -2/-0 until end of turn. Create a 2/2 black Zombie creature token with decayed. (It can't block. When it attacks, sacrifice it at end of combat.)
 
    Draw a card.
 
 
-:mtgtip:`Stormrider Spirit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/1/81a95edb-9f5b-4e42-8b27-0b3d978dcefe.jpg?1634349372|https://scryfall.com/card/mid/79/stormrider-spirit?utm_source=api>`
+:mtgtip:`Stormrider Spirit<https://cards.scryfall.io/border_crop/front/8/1/81a95edb-9f5b-4e42-8b27-0b3d978dcefe.jpg?1634349372|https://scryfall.com/card/mid/79/stormrider-spirit?utm_source=api>`
    Flash
 
    Flying
 
 
-:mtgtip:`Suspicious Stowaway<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/b/ab17c8fa-4c06-4542-848a-e3f2f9f47c27.jpg?1634347650|https://scryfall.com/card/mid/80/suspicious-stowaway-seafaring-werewolf?utm_source=api>`
+:mtgtip:`Suspicious Stowaway<https://cards.scryfall.io/border_crop/front/a/b/ab17c8fa-4c06-4542-848a-e3f2f9f47c27.jpg?1634347650|https://scryfall.com/card/mid/80/suspicious-stowaway-seafaring-werewolf?utm_source=api>`
    Suspicious Stowaway can't be blocked.
 
    Whenever Suspicious Stowaway deals combat damage to a player, draw a card, then discard a card.
@@ -589,7 +589,7 @@
    Daybound (If a player casts no spells during their own turn, it becomes night next turn.)
 
 
-:mtgtip:`Seafaring Werewolf<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/a/b/ab17c8fa-4c06-4542-848a-e3f2f9f47c27.jpg?1634347650|https://scryfall.com/card/mid/80/suspicious-stowaway-seafaring-werewolf?utm_source=api>`
+:mtgtip:`Seafaring Werewolf<https://cards.scryfall.io/border_crop/back/a/b/ab17c8fa-4c06-4542-848a-e3f2f9f47c27.jpg?1634347650|https://scryfall.com/card/mid/80/suspicious-stowaway-seafaring-werewolf?utm_source=api>`
    Seafaring Werewolf can't be blocked.
 
    Whenever Seafaring Werewolf deals combat damage to a player, draw a card.
@@ -597,7 +597,7 @@
    Nightbound (If a player casts at least two spells during their own turn, it becomes day next turn.)
 
 
-:mtgtip:`Triskaidekaphile<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/7/6750e203-1215-4203-b5b8-3f1b18940839.jpg?1634349393|https://scryfall.com/card/mid/81/triskaidekaphile?utm_source=api>`
+:mtgtip:`Triskaidekaphile<https://cards.scryfall.io/border_crop/front/6/7/6750e203-1215-4203-b5b8-3f1b18940839.jpg?1634349393|https://scryfall.com/card/mid/81/triskaidekaphile?utm_source=api>`
    You have no maximum hand size.
 
    At the beginning of your upkeep, if you have exactly thirteen cards in your hand, you win the game.
@@ -605,27 +605,27 @@
    |mana_3|\ |mana_u|: Draw a card.
 
 
-:mtgtip:`Unblinking Observer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/1/8148063c-a509-43ac-a291-c9410c30c2f2.jpg?1634349416|https://scryfall.com/card/mid/82/unblinking-observer?utm_source=api>`
+:mtgtip:`Unblinking Observer<https://cards.scryfall.io/border_crop/front/8/1/8148063c-a509-43ac-a291-c9410c30c2f2.jpg?1634349416|https://scryfall.com/card/mid/82/unblinking-observer?utm_source=api>`
    |tap|: Add |mana_u|. Spend this mana only to pay a disturb cost or cast an instant or sorcery spell.
 
 
-:mtgtip:`Vivisection<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/1/91be6a06-9c36-45a3-a591-183cb5c0f800.jpg?1634349452|https://scryfall.com/card/mid/83/vivisection?utm_source=api>`
+:mtgtip:`Vivisection<https://cards.scryfall.io/border_crop/front/9/1/91be6a06-9c36-45a3-a591-183cb5c0f800.jpg?1634349452|https://scryfall.com/card/mid/83/vivisection?utm_source=api>`
    As an additional cost to cast this spell, sacrifice a creature.
 
    Draw three cards.
 
 
-:mtgtip:`Arrogant Outlaw<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/9/496a9d45-6197-44b6-b0fc-17aeae281b2f.jpg?1634349480|https://scryfall.com/card/mid/84/arrogant-outlaw?utm_source=api>`
+:mtgtip:`Arrogant Outlaw<https://cards.scryfall.io/border_crop/front/4/9/496a9d45-6197-44b6-b0fc-17aeae281b2f.jpg?1634349480|https://scryfall.com/card/mid/84/arrogant-outlaw?utm_source=api>`
    When Arrogant Outlaw enters the battlefield, if an opponent lost life this turn, each opponent loses 2 life and you gain 2 life.
 
 
-:mtgtip:`Baneblade Scoundrel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/b/7b63f2ae-5bfd-452f-b1f5-8459bcecd3bb.jpg?1634347699|https://scryfall.com/card/mid/85/baneblade-scoundrel-baneclaw-marauder?utm_source=api>`
+:mtgtip:`Baneblade Scoundrel<https://cards.scryfall.io/border_crop/front/7/b/7b63f2ae-5bfd-452f-b1f5-8459bcecd3bb.jpg?1634347699|https://scryfall.com/card/mid/85/baneblade-scoundrel-baneclaw-marauder?utm_source=api>`
    Whenever Baneblade Scoundrel becomes blocked, each creature blocking it gets -1/-1 until end of turn.
 
    Daybound (If a player casts no spells during their own turn, it becomes night next turn.)
 
 
-:mtgtip:`Baneclaw Marauder<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/7/b/7b63f2ae-5bfd-452f-b1f5-8459bcecd3bb.jpg?1634347699|https://scryfall.com/card/mid/85/baneblade-scoundrel-baneclaw-marauder?utm_source=api>`
+:mtgtip:`Baneclaw Marauder<https://cards.scryfall.io/border_crop/back/7/b/7b63f2ae-5bfd-452f-b1f5-8459bcecd3bb.jpg?1634347699|https://scryfall.com/card/mid/85/baneblade-scoundrel-baneclaw-marauder?utm_source=api>`
    Whenever Baneclaw Marauder becomes blocked, each creature blocking it gets -1/-1 until end of turn.
 
    Whenever a creature blocking Baneclaw Marauder dies, that creature's controller loses 1 life.
@@ -633,21 +633,21 @@
    Nightbound (If a player casts at least two spells during their own turn, it becomes day next turn.)
 
 
-:mtgtip:`Bat Whisperer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/4/4412c901-0ec8-437a-9d1e-ce318bbe2b03.jpg?1634349505|https://scryfall.com/card/mid/86/bat-whisperer?utm_source=api>`
+:mtgtip:`Bat Whisperer<https://cards.scryfall.io/border_crop/front/4/4/4412c901-0ec8-437a-9d1e-ce318bbe2b03.jpg?1634349505|https://scryfall.com/card/mid/86/bat-whisperer?utm_source=api>`
    When Bat Whisperer enters the battlefield, if an opponent lost life this turn, create a 1/1 black Bat creature token with flying.
 
 
-:mtgtip:`Bladebrand<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/4/64d4713d-321a-447f-a318-88b552ec5d0c.jpg?1634349528|https://scryfall.com/card/mid/87/bladebrand?utm_source=api>`
+:mtgtip:`Bladebrand<https://cards.scryfall.io/border_crop/front/6/4/64d4713d-321a-447f-a318-88b552ec5d0c.jpg?1634349528|https://scryfall.com/card/mid/87/bladebrand?utm_source=api>`
    Target creature gains deathtouch until end of turn.
 
    Draw a card.
 
 
-:mtgtip:`Blood Pact<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/0/607b1066-1ca0-45e1-a55c-30aed77cc8dc.jpg?1634349552|https://scryfall.com/card/mid/88/blood-pact?utm_source=api>`
+:mtgtip:`Blood Pact<https://cards.scryfall.io/border_crop/front/6/0/607b1066-1ca0-45e1-a55c-30aed77cc8dc.jpg?1634349552|https://scryfall.com/card/mid/88/blood-pact?utm_source=api>`
    Target player draws two cards and loses 2 life.
 
 
-:mtgtip:`Bloodline Culling<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/a/fac827f7-a587-4adf-8408-2d9ccd9c1343.jpg?1634349575|https://scryfall.com/card/mid/89/bloodline-culling?utm_source=api>`
+:mtgtip:`Bloodline Culling<https://cards.scryfall.io/border_crop/front/f/a/fac827f7-a587-4adf-8408-2d9ccd9c1343.jpg?1634349575|https://scryfall.com/card/mid/89/bloodline-culling?utm_source=api>`
    Choose one —
 
    • Target creature gets -5/-5 until end of turn.
@@ -655,35 +655,35 @@
    • Creature tokens get -2/-2 until end of turn.
 
 
-:mtgtip:`Bloodtithe Collector<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/7/57d5e536-7774-4949-8127-727ae4d8fc80.jpg?1634349600|https://scryfall.com/card/mid/90/bloodtithe-collector?utm_source=api>`
+:mtgtip:`Bloodtithe Collector<https://cards.scryfall.io/border_crop/front/5/7/57d5e536-7774-4949-8127-727ae4d8fc80.jpg?1634349600|https://scryfall.com/card/mid/90/bloodtithe-collector?utm_source=api>`
    Flying
 
    When Bloodtithe Collector enters the battlefield, if an opponent lost life this turn, each opponent discards a card.
 
 
-:mtgtip:`Champion of the Perished<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/d/8d8e6941-ad6e-4d2f-93c0-be79e75bdf06.jpg?1634349628|https://scryfall.com/card/mid/91/champion-of-the-perished?utm_source=api>`
+:mtgtip:`Champion of the Perished<https://cards.scryfall.io/border_crop/front/8/d/8d8e6941-ad6e-4d2f-93c0-be79e75bdf06.jpg?1634349628|https://scryfall.com/card/mid/91/champion-of-the-perished?utm_source=api>`
    Whenever another Zombie enters the battlefield under your control, put a +1/+1 counter on Champion of the Perished.
 
 
-:mtgtip:`Covert Cutpurse<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/d/5db99746-8aee-42b8-acb0-ed69933d0ff8.jpg?1634347752|https://scryfall.com/card/mid/92/covert-cutpurse-covetous-geist?utm_source=api>`
+:mtgtip:`Covert Cutpurse<https://cards.scryfall.io/border_crop/front/5/d/5db99746-8aee-42b8-acb0-ed69933d0ff8.jpg?1634347752|https://scryfall.com/card/mid/92/covert-cutpurse-covetous-geist?utm_source=api>`
    When Covert Cutpurse enters the battlefield, destroy target creature you don't control that was dealt damage this turn.
 
    Disturb |mana_4|\ |mana_b| (You may cast this card from your graveyard transformed for its disturb cost.)
 
 
-:mtgtip:`Covetous Geist<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/5/d/5db99746-8aee-42b8-acb0-ed69933d0ff8.jpg?1634347752|https://scryfall.com/card/mid/92/covert-cutpurse-covetous-geist?utm_source=api>`
+:mtgtip:`Covetous Geist<https://cards.scryfall.io/border_crop/back/5/d/5db99746-8aee-42b8-acb0-ed69933d0ff8.jpg?1634347752|https://scryfall.com/card/mid/92/covert-cutpurse-covetous-geist?utm_source=api>`
    Flying, deathtouch
 
    If Covetous Geist would be put into a graveyard from anywhere, exile it instead.
 
 
-:mtgtip:`Crawl from the Cellar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/d/ed6c8942-d43e-4456-ac98-3220cb954c65.jpg?1634349655|https://scryfall.com/card/mid/93/crawl-from-the-cellar?utm_source=api>`
+:mtgtip:`Crawl from the Cellar<https://cards.scryfall.io/border_crop/front/e/d/ed6c8942-d43e-4456-ac98-3220cb954c65.jpg?1634349655|https://scryfall.com/card/mid/93/crawl-from-the-cellar?utm_source=api>`
    Return target creature card from your graveyard to your hand. Put a +1/+1 counter on up to one target Zombie you control.
 
    Flashback |mana_3|\ |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
-:mtgtip:`Curse of Leeches<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/a/0a3c8532-92f5-41db-92b4-a871aa05e0c7.jpg?1634347802|https://scryfall.com/card/mid/94/curse-of-leeches-leeching-lurker?utm_source=api>`
+:mtgtip:`Curse of Leeches<https://cards.scryfall.io/border_crop/front/0/a/0a3c8532-92f5-41db-92b4-a871aa05e0c7.jpg?1634347802|https://scryfall.com/card/mid/94/curse-of-leeches-leeching-lurker?utm_source=api>`
    Enchant player
 
    As this permanent transforms into Curse of Leeches, attach it to a player.
@@ -693,59 +693,59 @@
    Daybound (If a player casts no spells during their own turn, it becomes night next turn.)
 
 
-:mtgtip:`Leeching Lurker<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/0/a/0a3c8532-92f5-41db-92b4-a871aa05e0c7.jpg?1634347802|https://scryfall.com/card/mid/94/curse-of-leeches-leeching-lurker?utm_source=api>`
+:mtgtip:`Leeching Lurker<https://cards.scryfall.io/border_crop/back/0/a/0a3c8532-92f5-41db-92b4-a871aa05e0c7.jpg?1634347802|https://scryfall.com/card/mid/94/curse-of-leeches-leeching-lurker?utm_source=api>`
    Lifelink
 
    Nightbound (If a player casts at least two spells during their own turn, it becomes day next turn.)
 
 
-:mtgtip:`Defenestrate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/f/df3abdcc-83a8-45c3-9bfd-23f929705018.jpg?1634349688|https://scryfall.com/card/mid/95/defenestrate?utm_source=api>`
+:mtgtip:`Defenestrate<https://cards.scryfall.io/border_crop/front/d/f/df3abdcc-83a8-45c3-9bfd-23f929705018.jpg?1634349688|https://scryfall.com/card/mid/95/defenestrate?utm_source=api>`
    Destroy target creature without flying.
 
 
-:mtgtip:`Diregraf Horde<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/5/153be768-ddad-44f2-bcdd-c40353c807d7.jpg?1634349717|https://scryfall.com/card/mid/96/diregraf-horde?utm_source=api>`
+:mtgtip:`Diregraf Horde<https://cards.scryfall.io/border_crop/front/1/5/153be768-ddad-44f2-bcdd-c40353c807d7.jpg?1634349717|https://scryfall.com/card/mid/96/diregraf-horde?utm_source=api>`
    When Diregraf Horde enters the battlefield, create two 2/2 black Zombie creature tokens with decayed. When you do, exile up to two target cards from graveyards. (A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)
 
 
-:mtgtip:`Dreadhound<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/7/27fd571b-8316-4c60-a042-8bcf4816b126.jpg?1634349745|https://scryfall.com/card/mid/97/dreadhound?utm_source=api>`
+:mtgtip:`Dreadhound<https://cards.scryfall.io/border_crop/front/2/7/27fd571b-8316-4c60-a042-8bcf4816b126.jpg?1634349745|https://scryfall.com/card/mid/97/dreadhound?utm_source=api>`
    When Dreadhound enters the battlefield, mill three cards. (Put the top three cards of your library into your graveyard.)
 
    Whenever a creature dies or a creature card is put into a graveyard from a library, each opponent loses 1 life.
 
 
-:mtgtip:`Duress<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/0/c0a72721-2a4a-4d48-a7b0-2370b90b8619.jpg?1634349768|https://scryfall.com/card/mid/98/duress?utm_source=api>`
+:mtgtip:`Duress<https://cards.scryfall.io/border_crop/front/c/0/c0a72721-2a4a-4d48-a7b0-2370b90b8619.jpg?1634349768|https://scryfall.com/card/mid/98/duress?utm_source=api>`
    Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.
 
 
-:mtgtip:`Eaten Alive<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/7/e7975a3c-570a-4bff-a60d-d274f758b93f.jpg?1634349790|https://scryfall.com/card/mid/99/eaten-alive?utm_source=api>`
+:mtgtip:`Eaten Alive<https://cards.scryfall.io/border_crop/front/e/7/e7975a3c-570a-4bff-a60d-d274f758b93f.jpg?1634349790|https://scryfall.com/card/mid/99/eaten-alive?utm_source=api>`
    As an additional cost to cast this spell, sacrifice a creature or pay |mana_3|\ |mana_b|.
 
    Exile target creature or planeswalker.
 
 
-:mtgtip:`Ecstatic Awakener<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/b/bbdad18e-e262-41f9-b252-1cbdcdd1b5f9.jpg?1646412434|https://scryfall.com/card/mid/100/ecstatic-awakener-awoken-demon?utm_source=api>`
+:mtgtip:`Ecstatic Awakener<https://cards.scryfall.io/border_crop/front/b/b/bbdad18e-e262-41f9-b252-1cbdcdd1b5f9.jpg?1646412434|https://scryfall.com/card/mid/100/ecstatic-awakener-awoken-demon?utm_source=api>`
    |mana_2|\ |mana_b|, Sacrifice another creature: Draw a card, then transform Ecstatic Awakener. Activate only once each turn.
 
 
-:mtgtip:`Awoken Demon<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/b/b/bbdad18e-e262-41f9-b252-1cbdcdd1b5f9.jpg?1646412434|https://scryfall.com/card/mid/100/ecstatic-awakener-awoken-demon?utm_source=api>`
+:mtgtip:`Awoken Demon<https://cards.scryfall.io/border_crop/back/b/b/bbdad18e-e262-41f9-b252-1cbdcdd1b5f9.jpg?1646412434|https://scryfall.com/card/mid/100/ecstatic-awakener-awoken-demon?utm_source=api>`
    
 
 
-:mtgtip:`Foul Play<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/7/87e4b75c-e993-4983-8933-977be314bba6.jpg?1634349812|https://scryfall.com/card/mid/101/foul-play?utm_source=api>`
+:mtgtip:`Foul Play<https://cards.scryfall.io/border_crop/front/8/7/87e4b75c-e993-4983-8933-977be314bba6.jpg?1634349812|https://scryfall.com/card/mid/101/foul-play?utm_source=api>`
    Destroy target creature with power 2 or less. Investigate. (Create a Clue token. It's an artifact with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
 
-:mtgtip:`Ghoulish Procession<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/6/363bd6a6-e8e4-4626-a43c-0b77339dd28b.jpg?1634349836|https://scryfall.com/card/mid/102/ghoulish-procession?utm_source=api>`
+:mtgtip:`Ghoulish Procession<https://cards.scryfall.io/border_crop/front/3/6/363bd6a6-e8e4-4626-a43c-0b77339dd28b.jpg?1634349836|https://scryfall.com/card/mid/102/ghoulish-procession?utm_source=api>`
    Whenever one or more nontoken creatures die, create a 2/2 black Zombie creature token with decayed. This ability triggers only once each turn. (A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)
 
 
-:mtgtip:`Gisa, Glorious Resurrector<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/3/63461076-a13d-488d-bd82-ceac441341c8.jpg?1634349861|https://scryfall.com/card/mid/103/gisa-glorious-resurrector?utm_source=api>`
+:mtgtip:`Gisa, Glorious Resurrector<https://cards.scryfall.io/border_crop/front/6/3/63461076-a13d-488d-bd82-ceac441341c8.jpg?1634349861|https://scryfall.com/card/mid/103/gisa-glorious-resurrector?utm_source=api>`
    If a creature an opponent controls would die, exile it instead.
 
    At the beginning of your upkeep, put all creature cards exiled with Gisa, Glorious Resurrector onto the battlefield under your control. They gain decayed. (A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)
 
 
-:mtgtip:`Graveyard Trespasser<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/a/daa2a273-488f-4285-a069-ad159ad2d393.jpg?1634347903|https://scryfall.com/card/mid/104/graveyard-trespasser-graveyard-glutton?utm_source=api>`
+:mtgtip:`Graveyard Trespasser<https://cards.scryfall.io/border_crop/front/d/a/daa2a273-488f-4285-a069-ad159ad2d393.jpg?1634347903|https://scryfall.com/card/mid/104/graveyard-trespasser-graveyard-glutton?utm_source=api>`
    Ward—Discard a card.
 
    Whenever Graveyard Trespasser enters the battlefield or attacks, exile up to one target card from a graveyard. If a creature card was exiled this way, each opponent loses 1 life and you gain 1 life.
@@ -753,7 +753,7 @@
    Daybound (If a player casts no spells during their own turn, it becomes night next turn.)
 
 
-:mtgtip:`Graveyard Glutton<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/d/a/daa2a273-488f-4285-a069-ad159ad2d393.jpg?1634347903|https://scryfall.com/card/mid/104/graveyard-trespasser-graveyard-glutton?utm_source=api>`
+:mtgtip:`Graveyard Glutton<https://cards.scryfall.io/border_crop/back/d/a/daa2a273-488f-4285-a069-ad159ad2d393.jpg?1634347903|https://scryfall.com/card/mid/104/graveyard-trespasser-graveyard-glutton?utm_source=api>`
    Ward—Discard a card.
 
    Whenever Graveyard Glutton enters the battlefield or attacks, exile up to two target cards from graveyards. For each creature card exiled this way, each opponent loses 1 life and you gain 1 life.
@@ -761,37 +761,37 @@
    Nightbound (If a player casts at least two spells during their own turn, it becomes day next turn.)
 
 
-:mtgtip:`Heirloom Mirror<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/6/e6dd05f0-a3c0-4bd6-a1d1-a74540623093.jpg?1634347950|https://scryfall.com/card/mid/105/heirloom-mirror-inherited-fiend?utm_source=api>`
+:mtgtip:`Heirloom Mirror<https://cards.scryfall.io/border_crop/front/e/6/e6dd05f0-a3c0-4bd6-a1d1-a74540623093.jpg?1634347950|https://scryfall.com/card/mid/105/heirloom-mirror-inherited-fiend?utm_source=api>`
    |mana_1|, |tap|, Pay 1 life, Discard a card: Draw a card, mill a card, then put a ritual counter on Heirloom Mirror. Then if it has three or more ritual counters on it, remove them and transform it. Activate only as a sorcery.
 
 
-:mtgtip:`Inherited Fiend<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/e/6/e6dd05f0-a3c0-4bd6-a1d1-a74540623093.jpg?1634347950|https://scryfall.com/card/mid/105/heirloom-mirror-inherited-fiend?utm_source=api>`
+:mtgtip:`Inherited Fiend<https://cards.scryfall.io/border_crop/back/e/6/e6dd05f0-a3c0-4bd6-a1d1-a74540623093.jpg?1634347950|https://scryfall.com/card/mid/105/heirloom-mirror-inherited-fiend?utm_source=api>`
    Flying
 
    |mana_2|\ |mana_b|: Exile target creature card from a graveyard. Put a +1/+1 counter on Inherited Fiend.
 
 
-:mtgtip:`Hobbling Zombie<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/8/68284193-a38e-40d2-8d15-92d223756751.jpg?1634349884|https://scryfall.com/card/mid/106/hobbling-zombie?utm_source=api>`
+:mtgtip:`Hobbling Zombie<https://cards.scryfall.io/border_crop/front/6/8/68284193-a38e-40d2-8d15-92d223756751.jpg?1634349884|https://scryfall.com/card/mid/106/hobbling-zombie?utm_source=api>`
    Deathtouch
 
    When Hobbling Zombie dies, create a 2/2 black Zombie creature token with decayed. (It can't block. When it attacks, sacrifice it at end of combat.)
 
 
-:mtgtip:`A-Hobbling Zombie<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/f/2fae7302-0439-4b96-88c8-4ecfae322e7b.jpg?1649850855|https://scryfall.com/card/mid/A-106/a-hobbling-zombie?utm_source=api>`
+:mtgtip:`A-Hobbling Zombie<https://cards.scryfall.io/border_crop/front/2/f/2fae7302-0439-4b96-88c8-4ecfae322e7b.jpg?1649850855|https://scryfall.com/card/mid/A-106/a-hobbling-zombie?utm_source=api>`
    Deathtouch
 
    When Hobbling Zombie dies, create a 2/2 black Zombie creature token with decayed. (It can't block. When it attacks, sacrifice it at end of combat.)
 
 
-:mtgtip:`Infernal Grasp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/7/17824929-f131-4b8d-addb-66c25323155e.jpg?1634349911|https://scryfall.com/card/mid/107/infernal-grasp?utm_source=api>`
+:mtgtip:`Infernal Grasp<https://cards.scryfall.io/border_crop/front/1/7/17824929-f131-4b8d-addb-66c25323155e.jpg?1634349911|https://scryfall.com/card/mid/107/infernal-grasp?utm_source=api>`
    Destroy target creature. You lose 2 life.
 
 
-:mtgtip:`Jadar, Ghoulcaller of Nephalia<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/f/ff971ba7-68b8-482a-9cb1-741f6893550c.jpg?1634349933|https://scryfall.com/card/mid/108/jadar-ghoulcaller-of-nephalia?utm_source=api>`
+:mtgtip:`Jadar, Ghoulcaller of Nephalia<https://cards.scryfall.io/border_crop/front/f/f/ff971ba7-68b8-482a-9cb1-741f6893550c.jpg?1634349933|https://scryfall.com/card/mid/108/jadar-ghoulcaller-of-nephalia?utm_source=api>`
    At the beginning of your end step, if you control no creatures with decayed, create a 2/2 black Zombie creature token with decayed. (It can't block. When it attacks, sacrifice it at end of combat.)
 
 
-:mtgtip:`Jerren, Corrupted Bishop<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/f/0f6e668d-2502-4e82-b4c2-ef34c9afa27e.jpg?1636207815|https://scryfall.com/card/mid/109/jerren-corrupted-bishop-ormendahl-the-corrupter?utm_source=api>`
+:mtgtip:`Jerren, Corrupted Bishop<https://cards.scryfall.io/border_crop/front/0/f/0f6e668d-2502-4e82-b4c2-ef34c9afa27e.jpg?1636207815|https://scryfall.com/card/mid/109/jerren-corrupted-bishop-ormendahl-the-corrupter?utm_source=api>`
    Whenever Jerren, Corrupted Bishop enters the battlefield or another nontoken Human you control dies, you lose 1 life and create a 1/1 white Human creature token.
 
    |mana_2|: Target Human you control gains lifelink until end of turn.
@@ -799,13 +799,13 @@
    At the beginning of your end step, if you have exactly 13 life, you may pay |mana_4|\ |mana_b|\ |mana_b|. If you do, transform Jerren.
 
 
-:mtgtip:`Ormendahl, the Corrupter<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/0/f/0f6e668d-2502-4e82-b4c2-ef34c9afa27e.jpg?1636207815|https://scryfall.com/card/mid/109/jerren-corrupted-bishop-ormendahl-the-corrupter?utm_source=api>`
+:mtgtip:`Ormendahl, the Corrupter<https://cards.scryfall.io/border_crop/back/0/f/0f6e668d-2502-4e82-b4c2-ef34c9afa27e.jpg?1636207815|https://scryfall.com/card/mid/109/jerren-corrupted-bishop-ormendahl-the-corrupter?utm_source=api>`
    Flying, trample, lifelink
 
    Sacrifice another creature: Draw a card.
 
 
-:mtgtip:`Lord of the Forsaken<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/5/d5a8846c-3950-4588-97e8-3aa70bcd2403.jpg?1634349964|https://scryfall.com/card/mid/110/lord-of-the-forsaken?utm_source=api>`
+:mtgtip:`Lord of the Forsaken<https://cards.scryfall.io/border_crop/front/d/5/d5a8846c-3950-4588-97e8-3aa70bcd2403.jpg?1634349964|https://scryfall.com/card/mid/110/lord-of-the-forsaken?utm_source=api>`
    Flying, trample
 
    |mana_b|, Sacrifice another creature: Target player mills three cards.
@@ -813,7 +813,7 @@
    Pay 1 life: Add |colorless|. Spend this mana only to cast a spell from your graveyard.
 
 
-:mtgtip:`Mask of Griselbrand<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/2/829786e2-260b-4bc6-935b-1868b37e2d33.jpg?1634349988|https://scryfall.com/card/mid/111/mask-of-griselbrand?utm_source=api>`
+:mtgtip:`Mask of Griselbrand<https://cards.scryfall.io/border_crop/front/8/2/829786e2-260b-4bc6-935b-1868b37e2d33.jpg?1634349988|https://scryfall.com/card/mid/111/mask-of-griselbrand?utm_source=api>`
    Equipped creature has flying and lifelink.
 
    Whenever equipped creature dies, you may pay X life, where X is its power. If you do, draw X cards.
@@ -821,7 +821,7 @@
    Equip |mana_3|
 
 
-:mtgtip:`The Meathook Massacre<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/8/08950015-eee5-4327-888c-82dfd13bb9ad.jpg?1634350016|https://scryfall.com/card/mid/112/the-meathook-massacre?utm_source=api>`
+:mtgtip:`The Meathook Massacre<https://cards.scryfall.io/border_crop/front/0/8/08950015-eee5-4327-888c-82dfd13bb9ad.jpg?1634350016|https://scryfall.com/card/mid/112/the-meathook-massacre?utm_source=api>`
    When The Meathook Massacre enters the battlefield, each creature gets -X/-X until end of turn.
 
    Whenever a creature you control dies, each opponent loses 1 life.
@@ -829,23 +829,23 @@
    Whenever a creature an opponent controls dies, you gain 1 life.
 
 
-:mtgtip:`A-The Meathook Massacre<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/5/353c37d7-1c20-43fe-b9d9-6336856c9ef4.jpg?1657064602|https://scryfall.com/card/mid/A-112/a-the-meathook-massacre?utm_source=api>`
+:mtgtip:`A-The Meathook Massacre<https://cards.scryfall.io/border_crop/front/3/5/353c37d7-1c20-43fe-b9d9-6336856c9ef4.jpg?1657064602|https://scryfall.com/card/mid/A-112/a-the-meathook-massacre?utm_source=api>`
    When The Meathook Massacre enters the battlefield, each creature gets -X/-X until end of turn.
 
    Whenever a creature you control dies, each opponent loses 1 life.
 
 
-:mtgtip:`Morbid Opportunist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/a/5a53982e-3d66-4808-bcb5-46ff40567872.jpg?1634350039|https://scryfall.com/card/mid/113/morbid-opportunist?utm_source=api>`
+:mtgtip:`Morbid Opportunist<https://cards.scryfall.io/border_crop/front/5/a/5a53982e-3d66-4808-bcb5-46ff40567872.jpg?1634350039|https://scryfall.com/card/mid/113/morbid-opportunist?utm_source=api>`
    Whenever one or more other creatures die, draw a card. This ability triggers only once each turn.
 
 
-:mtgtip:`Morkrut Behemoth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/1/318fe8a2-a68a-4c7e-9581-ae6800826164.jpg?1634350061|https://scryfall.com/card/mid/114/morkrut-behemoth?utm_source=api>`
+:mtgtip:`Morkrut Behemoth<https://cards.scryfall.io/border_crop/front/3/1/318fe8a2-a68a-4c7e-9581-ae6800826164.jpg?1634350061|https://scryfall.com/card/mid/114/morkrut-behemoth?utm_source=api>`
    As an additional cost to cast this spell, sacrifice a creature or pay |mana_1|\ |mana_b|.
 
    Menace (This creature can't be blocked except by two or more creatures.)
 
 
-:mtgtip:`Necrosynthesis<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/7/b75b89f1-e032-4d8c-b2b6-1b76e8644801.jpg?1634350085|https://scryfall.com/card/mid/115/necrosynthesis?utm_source=api>`
+:mtgtip:`Necrosynthesis<https://cards.scryfall.io/border_crop/front/b/7/b75b89f1-e032-4d8c-b2b6-1b76e8644801.jpg?1634350085|https://scryfall.com/card/mid/115/necrosynthesis?utm_source=api>`
    Enchant creature
 
    Enchanted creature has "Whenever another creature dies, put a +1/+1 counter on this creature."
@@ -853,91 +853,91 @@
    When enchanted creature dies, look at the top X cards of your library, where X is its power. Put one of those cards into your hand and the rest on the bottom of your library in a random order.
 
 
-:mtgtip:`No Way Out<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/9/d9ef6a68-60a4-4a20-8b57-8b7a7c5ed0c6.jpg?1634350113|https://scryfall.com/card/mid/116/no-way-out?utm_source=api>`
+:mtgtip:`No Way Out<https://cards.scryfall.io/border_crop/front/d/9/d9ef6a68-60a4-4a20-8b57-8b7a7c5ed0c6.jpg?1634350113|https://scryfall.com/card/mid/116/no-way-out?utm_source=api>`
    Target opponent discards two cards. You create a 2/2 black Zombie creature token with decayed. (It can't block. When it attacks, sacrifice it at end of combat.)
 
 
-:mtgtip:`Novice Occultist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/5/a541ac79-a969-42b4-b989-f6e37572ec90.jpg?1634350136|https://scryfall.com/card/mid/117/novice-occultist?utm_source=api>`
+:mtgtip:`Novice Occultist<https://cards.scryfall.io/border_crop/front/a/5/a541ac79-a969-42b4-b989-f6e37572ec90.jpg?1634350136|https://scryfall.com/card/mid/117/novice-occultist?utm_source=api>`
    When Novice Occultist dies, you draw a card and you lose 1 life.
 
 
-:mtgtip:`Olivia's Midnight Ambush<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/c/9c1adede-22ad-4c1c-9501-ad731fbe1742.jpg?1634350180|https://scryfall.com/card/mid/118/olivias-midnight-ambush?utm_source=api>`
+:mtgtip:`Olivia's Midnight Ambush<https://cards.scryfall.io/border_crop/front/9/c/9c1adede-22ad-4c1c-9501-ad731fbe1742.jpg?1634350180|https://scryfall.com/card/mid/118/olivias-midnight-ambush?utm_source=api>`
    Target creature gets -2/-2 until end of turn. If it's night, that creature gets -13/-13 until end of turn instead.
 
 
-:mtgtip:`Rotten Reunion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/7/97398ad2-675b-4a34-aab7-935dd6714f1c.jpg?1634350215|https://scryfall.com/card/mid/119/rotten-reunion?utm_source=api>`
+:mtgtip:`Rotten Reunion<https://cards.scryfall.io/border_crop/front/9/7/97398ad2-675b-4a34-aab7-935dd6714f1c.jpg?1634350215|https://scryfall.com/card/mid/119/rotten-reunion?utm_source=api>`
    Exile up to one target card from a graveyard. Create a 2/2 black Zombie creature token with decayed. (It can't block. When it attacks, sacrifice it at end of combat.)
 
    Flashback |mana_1|\ |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
-:mtgtip:`Shady Traveler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/5/55f0666a-5c3e-492b-b4ea-42fa7f24661b.jpg?1634348047|https://scryfall.com/card/mid/120/shady-traveler-stalking-predator?utm_source=api>`
+:mtgtip:`Shady Traveler<https://cards.scryfall.io/border_crop/front/5/5/55f0666a-5c3e-492b-b4ea-42fa7f24661b.jpg?1634348047|https://scryfall.com/card/mid/120/shady-traveler-stalking-predator?utm_source=api>`
    Menace (This creature can't be blocked except by two or more creatures.)
 
    Daybound (If a player casts no spells during their own turn, it becomes night next turn.)
 
 
-:mtgtip:`Stalking Predator<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/5/5/55f0666a-5c3e-492b-b4ea-42fa7f24661b.jpg?1634348047|https://scryfall.com/card/mid/120/shady-traveler-stalking-predator?utm_source=api>`
+:mtgtip:`Stalking Predator<https://cards.scryfall.io/border_crop/back/5/5/55f0666a-5c3e-492b-b4ea-42fa7f24661b.jpg?1634348047|https://scryfall.com/card/mid/120/shady-traveler-stalking-predator?utm_source=api>`
    Menace (This creature can't be blocked except by two or more creatures.)
 
    Nightbound (If a player casts at least two spells during their own turn, it becomes day next turn.)
 
 
-:mtgtip:`Siege Zombie<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/9/d94b5270-840b-4905-815a-057029d7352f.jpg?1634350240|https://scryfall.com/card/mid/121/siege-zombie?utm_source=api>`
+:mtgtip:`Siege Zombie<https://cards.scryfall.io/border_crop/front/d/9/d94b5270-840b-4905-815a-057029d7352f.jpg?1634350240|https://scryfall.com/card/mid/121/siege-zombie?utm_source=api>`
    Tap three untapped creatures you control: Each opponent loses 1 life.
 
 
-:mtgtip:`Slaughter Specialist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/b/cb83e33c-810e-4de3-800d-2038f38a1eda.jpg?1634350263|https://scryfall.com/card/mid/122/slaughter-specialist?utm_source=api>`
+:mtgtip:`Slaughter Specialist<https://cards.scryfall.io/border_crop/front/c/b/cb83e33c-810e-4de3-800d-2038f38a1eda.jpg?1634350263|https://scryfall.com/card/mid/122/slaughter-specialist?utm_source=api>`
    When Slaughter Specialist enters the battlefield, each opponent creates a 1/1 white Human creature token.
 
    Whenever a creature an opponent controls dies, put a +1/+1 counter on Slaughter Specialist.
 
 
-:mtgtip:`Stromkirk Bloodthief<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/a/fa819123-bf13-44ea-9a6e-06c8ab023e44.jpg?1634350285|https://scryfall.com/card/mid/123/stromkirk-bloodthief?utm_source=api>`
+:mtgtip:`Stromkirk Bloodthief<https://cards.scryfall.io/border_crop/front/f/a/fa819123-bf13-44ea-9a6e-06c8ab023e44.jpg?1634350285|https://scryfall.com/card/mid/123/stromkirk-bloodthief?utm_source=api>`
    At the beginning of your end step, if an opponent lost life this turn, put a +1/+1 counter on target Vampire you control.
 
 
-:mtgtip:`Tainted Adversary<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/6/e6b9b8fc-c30d-49e7-bb6c-219380d73a82.jpg?1634350309|https://scryfall.com/card/mid/124/tainted-adversary?utm_source=api>`
+:mtgtip:`Tainted Adversary<https://cards.scryfall.io/border_crop/front/e/6/e6b9b8fc-c30d-49e7-bb6c-219380d73a82.jpg?1634350309|https://scryfall.com/card/mid/124/tainted-adversary?utm_source=api>`
    Deathtouch
 
    When Tainted Adversary enters the battlefield, you may pay |mana_2|\ |mana_b| any number of times. When you pay this cost one or more times, put that many +1/+1 counters on Tainted Adversary, then create twice that many 2/2 black Zombie creature tokens with decayed. (A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)
 
 
-:mtgtip:`Vampire Interloper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/3/c3e2ea59-36f1-4e95-bfe8-7008b085194f.jpg?1634350330|https://scryfall.com/card/mid/125/vampire-interloper?utm_source=api>`
+:mtgtip:`Vampire Interloper<https://cards.scryfall.io/border_crop/front/c/3/c3e2ea59-36f1-4e95-bfe8-7008b085194f.jpg?1634350330|https://scryfall.com/card/mid/125/vampire-interloper?utm_source=api>`
    Flying
 
    Vampire Interloper can't block.
 
 
-:mtgtip:`Vengeful Strangler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/4/d4054ae6-0227-4d99-8cb5-72e8b5d0b726.jpg?1634348001|https://scryfall.com/card/mid/126/vengeful-strangler-strangling-grasp?utm_source=api>`
+:mtgtip:`Vengeful Strangler<https://cards.scryfall.io/border_crop/front/d/4/d4054ae6-0227-4d99-8cb5-72e8b5d0b726.jpg?1634348001|https://scryfall.com/card/mid/126/vengeful-strangler-strangling-grasp?utm_source=api>`
    Vengeful Strangler can't block.
 
    When Vengeful Strangler dies, return it to the battlefield transformed under your control attached to target creature or planeswalker an opponent controls.
 
 
-:mtgtip:`Strangling Grasp<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/d/4/d4054ae6-0227-4d99-8cb5-72e8b5d0b726.jpg?1634348001|https://scryfall.com/card/mid/126/vengeful-strangler-strangling-grasp?utm_source=api>`
+:mtgtip:`Strangling Grasp<https://cards.scryfall.io/border_crop/back/d/4/d4054ae6-0227-4d99-8cb5-72e8b5d0b726.jpg?1634348001|https://scryfall.com/card/mid/126/vengeful-strangler-strangling-grasp?utm_source=api>`
    Enchant creature or planeswalker an opponent controls
 
    At the beginning of your upkeep, enchanted permanent's controller sacrifices a nonland permanent, then that player loses 1 life.
 
 
-:mtgtip:`Abandon the Post<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/8/983da138-f0f5-46c4-90c2-d3c34cc37d1f.jpg?1634350355|https://scryfall.com/card/mid/127/abandon-the-post?utm_source=api>`
+:mtgtip:`Abandon the Post<https://cards.scryfall.io/border_crop/front/9/8/983da138-f0f5-46c4-90c2-d3c34cc37d1f.jpg?1634350355|https://scryfall.com/card/mid/127/abandon-the-post?utm_source=api>`
    Up to two target creatures can't block this turn.
 
    Flashback |mana_3|\ |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
-:mtgtip:`Ardent Elementalist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/5/f58592f7-1df5-428d-9dde-e6acd9a5d1d5.jpg?1634350379|https://scryfall.com/card/mid/128/ardent-elementalist?utm_source=api>`
+:mtgtip:`Ardent Elementalist<https://cards.scryfall.io/border_crop/front/f/5/f58592f7-1df5-428d-9dde-e6acd9a5d1d5.jpg?1634350379|https://scryfall.com/card/mid/128/ardent-elementalist?utm_source=api>`
    When Ardent Elementalist enters the battlefield, return target instant or sorcery card from your graveyard to your hand.
 
 
-:mtgtip:`Bloodthirsty Adversary<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/d/ed557e51-32bd-476f-99f8-d7b1738495c5.jpg?1634350410|https://scryfall.com/card/mid/129/bloodthirsty-adversary?utm_source=api>`
+:mtgtip:`Bloodthirsty Adversary<https://cards.scryfall.io/border_crop/front/e/d/ed557e51-32bd-476f-99f8-d7b1738495c5.jpg?1634350410|https://scryfall.com/card/mid/129/bloodthirsty-adversary?utm_source=api>`
    Haste
 
    When Bloodthirsty Adversary enters the battlefield, you may pay |mana_2|\ |mana_r| any number of times. When you pay this cost one or more times, put that many +1/+1 counters on Bloodthirsty Adversary, then exile up to that many target instant and/or sorcery cards with mana value 3 or less from your graveyard and copy them. You may cast any number of the copies without paying their mana costs.
 
 
-:mtgtip:`Brimstone Vandal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/0/10addf9a-daca-4b84-a9d3-f98f7b955af9.jpg?1634350435|https://scryfall.com/card/mid/130/brimstone-vandal?utm_source=api>`
+:mtgtip:`Brimstone Vandal<https://cards.scryfall.io/border_crop/front/1/0/10addf9a-daca-4b84-a9d3-f98f7b955af9.jpg?1634350435|https://scryfall.com/card/mid/130/brimstone-vandal?utm_source=api>`
    Menace (This creature can't be blocked except by two or more creatures.)
 
    If it's neither day nor night, it becomes day as Brimstone Vandal enters the battlefield.
@@ -945,7 +945,7 @@
    Whenever day becomes night or night becomes day, Brimstone Vandal deals 1 damage to each opponent.
 
 
-:mtgtip:`Burn Down the House<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/0/20ded7af-8086-465e-a980-3099217d324c.jpg?1634350460|https://scryfall.com/card/mid/131/burn-down-the-house?utm_source=api>`
+:mtgtip:`Burn Down the House<https://cards.scryfall.io/border_crop/front/2/0/20ded7af-8086-465e-a980-3099217d324c.jpg?1634350460|https://scryfall.com/card/mid/131/burn-down-the-house?utm_source=api>`
    Choose one —
 
    • Burn Down the House deals 5 damage to each creature and each planeswalker.
@@ -953,11 +953,11 @@
    • Create three 1/1 red Devil creature tokens with "When this creature dies, it deals 1 damage to any target." They gain haste until end of turn.
 
 
-:mtgtip:`Burn the Accursed<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/f/ff4d4e6b-564d-46da-8e32-09ed08c8ddc5.jpg?1634350484|https://scryfall.com/card/mid/132/burn-the-accursed?utm_source=api>`
+:mtgtip:`Burn the Accursed<https://cards.scryfall.io/border_crop/front/f/f/ff4d4e6b-564d-46da-8e32-09ed08c8ddc5.jpg?1634350484|https://scryfall.com/card/mid/132/burn-the-accursed?utm_source=api>`
    Burn the Accursed deals 5 damage to target creature and 2 damage to that creature's controller. If that creature would die this turn, exile it instead.
 
 
-:mtgtip:`Cathartic Pyre<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/0/b045c28a-39f9-4cd9-8f3a-a626b697f409.jpg?1636208222|https://scryfall.com/card/mid/133/cathartic-pyre?utm_source=api>`
+:mtgtip:`Cathartic Pyre<https://cards.scryfall.io/border_crop/front/b/0/b045c28a-39f9-4cd9-8f3a-a626b697f409.jpg?1636208222|https://scryfall.com/card/mid/133/cathartic-pyre?utm_source=api>`
    Choose one —
 
    • Cathartic Pyre deals 3 damage to target creature or planeswalker.
@@ -965,13 +965,13 @@
    • Discard up to two cards, then draw that many cards.
 
 
-:mtgtip:`Curse of Shaken Faith<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/7/371b7795-5cfc-4e2b-b26c-2def52c61dbf.jpg?1634350529|https://scryfall.com/card/mid/134/curse-of-shaken-faith?utm_source=api>`
+:mtgtip:`Curse of Shaken Faith<https://cards.scryfall.io/border_crop/front/3/7/371b7795-5cfc-4e2b-b26c-2def52c61dbf.jpg?1634350529|https://scryfall.com/card/mid/134/curse-of-shaken-faith?utm_source=api>`
    Enchant player
 
    Whenever enchanted player casts a spell other than the first spell they cast each turn or copies a spell, Curse of Shaken Faith deals 2 damage to them.
 
 
-:mtgtip:`Electric Revelation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/0/20ff3289-00fb-4e91-b34f-6255e9de8e9e.jpg?1634350551|https://scryfall.com/card/mid/135/electric-revelation?utm_source=api>`
+:mtgtip:`Electric Revelation<https://cards.scryfall.io/border_crop/front/2/0/20ff3289-00fb-4e91-b34f-6255e9de8e9e.jpg?1634350551|https://scryfall.com/card/mid/135/electric-revelation?utm_source=api>`
    As an additional cost to cast this spell, discard a card.
 
    Draw two cards.
@@ -979,27 +979,27 @@
    Flashback |mana_3|\ |mana_r| (You may cast this card from your graveyard for its flashback cost and any additional costs. Then exile it.)
 
 
-:mtgtip:`Falkenrath Perforator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/4/c40998e0-d7d0-4d79-a40a-9a381debd2cb.jpg?1634350581|https://scryfall.com/card/mid/136/falkenrath-perforator?utm_source=api>`
+:mtgtip:`Falkenrath Perforator<https://cards.scryfall.io/border_crop/front/c/4/c40998e0-d7d0-4d79-a40a-9a381debd2cb.jpg?1634350581|https://scryfall.com/card/mid/136/falkenrath-perforator?utm_source=api>`
    Whenever Falkenrath Perforator attacks, it deals 1 damage to defending player.
 
 
-:mtgtip:`Falkenrath Pit Fighter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/7/a743a3b6-3278-4644-a2d5-acf495c273ed.jpg?1634350603|https://scryfall.com/card/mid/137/falkenrath-pit-fighter?utm_source=api>`
+:mtgtip:`Falkenrath Pit Fighter<https://cards.scryfall.io/border_crop/front/a/7/a743a3b6-3278-4644-a2d5-acf495c273ed.jpg?1634350603|https://scryfall.com/card/mid/137/falkenrath-pit-fighter?utm_source=api>`
    |mana_1|\ |mana_r|, Discard a card, Sacrifice a Vampire: Draw two cards. Activate only if an opponent lost life this turn.
 
 
-:mtgtip:`Famished Foragers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/d/fdbe6937-ceda-4367-a101-562fd5e0e09d.jpg?1636222893|https://scryfall.com/card/mid/138/famished-foragers?utm_source=api>`
+:mtgtip:`Famished Foragers<https://cards.scryfall.io/border_crop/front/f/d/fdbe6937-ceda-4367-a101-562fd5e0e09d.jpg?1636222893|https://scryfall.com/card/mid/138/famished-foragers?utm_source=api>`
    When Famished Foragers enters the battlefield, if an opponent lost life this turn, add |mana_r|\ |mana_r|\ |mana_r|.
 
    |mana_2|\ |mana_r|, Discard a card: Draw a card.
 
 
-:mtgtip:`Fangblade Brigand<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/2/d2feb859-bfae-4bc4-8181-5737dd5c3b08.jpg?1636222947|https://scryfall.com/card/mid/139/fangblade-brigand-fangblade-eviscerator?utm_source=api>`
+:mtgtip:`Fangblade Brigand<https://cards.scryfall.io/border_crop/front/d/2/d2feb859-bfae-4bc4-8181-5737dd5c3b08.jpg?1636222947|https://scryfall.com/card/mid/139/fangblade-brigand-fangblade-eviscerator?utm_source=api>`
    |mana_1|\ |mana_r|: Fangblade Brigand gets +1/+0 and gains first strike until end of turn.
 
    Daybound (If a player casts no spells during their own turn, it becomes night next turn.)
 
 
-:mtgtip:`Fangblade Eviscerator<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/d/2/d2feb859-bfae-4bc4-8181-5737dd5c3b08.jpg?1636222947|https://scryfall.com/card/mid/139/fangblade-brigand-fangblade-eviscerator?utm_source=api>`
+:mtgtip:`Fangblade Eviscerator<https://cards.scryfall.io/border_crop/back/d/2/d2feb859-bfae-4bc4-8181-5737dd5c3b08.jpg?1636222947|https://scryfall.com/card/mid/139/fangblade-brigand-fangblade-eviscerator?utm_source=api>`
    |mana_1|\ |mana_r|: Fangblade Eviscerator gets +1/+0 and gains first strike until end of turn.
 
    |mana_4|\ |mana_r|: Creatures you control get +2/+0 until end of turn.
@@ -1007,21 +1007,21 @@
    Nightbound (If a player casts at least two spells during their own turn, it becomes day next turn.)
 
 
-:mtgtip:`Festival Crasher<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/2/626b0477-6165-443a-8a75-dfeac26ac9f9.jpg?1636222973|https://scryfall.com/card/mid/140/festival-crasher?utm_source=api>`
+:mtgtip:`Festival Crasher<https://cards.scryfall.io/border_crop/front/6/2/626b0477-6165-443a-8a75-dfeac26ac9f9.jpg?1636222973|https://scryfall.com/card/mid/140/festival-crasher?utm_source=api>`
    Whenever you cast an instant or sorcery spell, Festival Crasher gets +2/+0 until end of turn.
 
 
-:mtgtip:`Flame Channeler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/e/be91fcba-4599-4ecb-824d-55112096c34a.jpg?1636223023|https://scryfall.com/card/mid/141/flame-channeler-embodiment-of-flame?utm_source=api>`
+:mtgtip:`Flame Channeler<https://cards.scryfall.io/border_crop/front/b/e/be91fcba-4599-4ecb-824d-55112096c34a.jpg?1636223023|https://scryfall.com/card/mid/141/flame-channeler-embodiment-of-flame?utm_source=api>`
    When a spell you control deals damage, transform Flame Channeler.
 
 
-:mtgtip:`Embodiment of Flame<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/b/e/be91fcba-4599-4ecb-824d-55112096c34a.jpg?1636223023|https://scryfall.com/card/mid/141/flame-channeler-embodiment-of-flame?utm_source=api>`
+:mtgtip:`Embodiment of Flame<https://cards.scryfall.io/border_crop/back/b/e/be91fcba-4599-4ecb-824d-55112096c34a.jpg?1636223023|https://scryfall.com/card/mid/141/flame-channeler-embodiment-of-flame?utm_source=api>`
    Whenever a spell you control deals damage, put a flame counter on Embodiment of Flame.
 
    |mana_1|, Remove a flame counter from Embodiment of Flame: Exile the top card of your library. You may play that card this turn.
 
 
-:mtgtip:`Geistflame Reservoir<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/b/4b247ce7-9c58-404f-bed1-84abb37575ab.jpg?1636223046|https://scryfall.com/card/mid/142/geistflame-reservoir?utm_source=api>`
+:mtgtip:`Geistflame Reservoir<https://cards.scryfall.io/border_crop/front/4/b/4b247ce7-9c58-404f-bed1-84abb37575ab.jpg?1636223046|https://scryfall.com/card/mid/142/geistflame-reservoir?utm_source=api>`
    Whenever you cast an instant or sorcery spell, put a charge counter on Geistflame Reservoir.
 
    |mana_1|\ |mana_r|, |tap|, Remove any number of charge counters from Geistflame Reservoir: It deals that much damage to any target.
@@ -1029,45 +1029,45 @@
    |mana_1|\ |mana_r|, |tap|: Exile the top card of your library. You may play that card this turn.
 
 
-:mtgtip:`Harvesttide Infiltrator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/5/35fdb976-291c-4824-9518-dd8c9f93fcde.jpg?1644879429|https://scryfall.com/card/mid/143/harvesttide-infiltrator-harvesttide-assailant?utm_source=api>`
+:mtgtip:`Harvesttide Infiltrator<https://cards.scryfall.io/border_crop/front/3/5/35fdb976-291c-4824-9518-dd8c9f93fcde.jpg?1644879429|https://scryfall.com/card/mid/143/harvesttide-infiltrator-harvesttide-assailant?utm_source=api>`
    Trample
 
    Daybound (If a player casts no spells during their own turn, it becomes night next turn.)
 
 
-:mtgtip:`Harvesttide Assailant<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/3/5/35fdb976-291c-4824-9518-dd8c9f93fcde.jpg?1644879429|https://scryfall.com/card/mid/143/harvesttide-infiltrator-harvesttide-assailant?utm_source=api>`
+:mtgtip:`Harvesttide Assailant<https://cards.scryfall.io/border_crop/back/3/5/35fdb976-291c-4824-9518-dd8c9f93fcde.jpg?1644879429|https://scryfall.com/card/mid/143/harvesttide-infiltrator-harvesttide-assailant?utm_source=api>`
    Trample
 
    Nightbound (If a player casts at least two spells during their own turn, it becomes day next turn.)
 
 
-:mtgtip:`Immolation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/0/606b1148-4aa6-4d78-bedd-e31573282921.jpg?1636223098|https://scryfall.com/card/mid/144/immolation?utm_source=api>`
+:mtgtip:`Immolation<https://cards.scryfall.io/border_crop/front/6/0/606b1148-4aa6-4d78-bedd-e31573282921.jpg?1636223098|https://scryfall.com/card/mid/144/immolation?utm_source=api>`
    Enchant creature
 
    Enchanted creature gets +2/-2.
 
 
-:mtgtip:`Lambholt Harrier<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/2/e2a732ca-cd68-465f-8e44-783e1fe34e44.jpg?1636223126|https://scryfall.com/card/mid/145/lambholt-harrier?utm_source=api>`
+:mtgtip:`Lambholt Harrier<https://cards.scryfall.io/border_crop/front/e/2/e2a732ca-cd68-465f-8e44-783e1fe34e44.jpg?1636223126|https://scryfall.com/card/mid/145/lambholt-harrier?utm_source=api>`
    |mana_3|\ |mana_r|: Target creature can't block this turn.
 
 
-:mtgtip:`Light Up the Night<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/d/7de68154-3b82-4a94-98a6-cfc49d359e4e.jpg?1636223152|https://scryfall.com/card/mid/146/light-up-the-night?utm_source=api>`
+:mtgtip:`Light Up the Night<https://cards.scryfall.io/border_crop/front/7/d/7de68154-3b82-4a94-98a6-cfc49d359e4e.jpg?1636223152|https://scryfall.com/card/mid/146/light-up-the-night?utm_source=api>`
    Light Up the Night deals X damage to any target. It deals X plus 1 damage instead if that target is a creature or planeswalker.
 
    Flashback—|mana_3|\ |mana_r|, Remove X loyalty counters from among planeswalkers you control. If you cast this spell this way, X can't be 0. (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
-:mtgtip:`Lunar Frenzy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/5/b5fb18c4-1386-4ea0-97c1-4bdd1e7eb5a6.jpg?1636223174|https://scryfall.com/card/mid/147/lunar-frenzy?utm_source=api>`
+:mtgtip:`Lunar Frenzy<https://cards.scryfall.io/border_crop/front/b/5/b5fb18c4-1386-4ea0-97c1-4bdd1e7eb5a6.jpg?1636223174|https://scryfall.com/card/mid/147/lunar-frenzy?utm_source=api>`
    Target creature you control gets +X/+0 and gains first strike and trample until end of turn.
 
 
-:mtgtip:`Moonrager's Slash<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/b/eb4f266b-c41c-4047-ae6f-b2226c7459e8.jpg?1636223196|https://scryfall.com/card/mid/148/moonragers-slash?utm_source=api>`
+:mtgtip:`Moonrager's Slash<https://cards.scryfall.io/border_crop/front/e/b/eb4f266b-c41c-4047-ae6f-b2226c7459e8.jpg?1636223196|https://scryfall.com/card/mid/148/moonragers-slash?utm_source=api>`
    This spell costs |mana_2| less to cast if it's night.
 
    Moonrager's Slash deals 3 damage to any target.
 
 
-:mtgtip:`Moonveil Regent<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/9/f9fc55fd-161a-4d77-82f0-27075210e7e7.jpg?1636223224|https://scryfall.com/card/mid/149/moonveil-regent?utm_source=api>`
+:mtgtip:`Moonveil Regent<https://cards.scryfall.io/border_crop/front/f/9/f9fc55fd-161a-4d77-82f0-27075210e7e7.jpg?1636223224|https://scryfall.com/card/mid/149/moonveil-regent?utm_source=api>`
    Flying
 
    Whenever you cast a spell, you may discard your hand. If you do, draw a card for each of that spell's colors.
@@ -1075,39 +1075,39 @@
    When Moonveil Regent dies, it deals X damage to any target, where X is the number of colors among permanents you control.
 
 
-:mtgtip:`Mounted Dreadknight<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/1/d1814fc8-011f-4cd4-825b-f00ae6ec0fe0.jpg?1636223254|https://scryfall.com/card/mid/150/mounted-dreadknight?utm_source=api>`
+:mtgtip:`Mounted Dreadknight<https://cards.scryfall.io/border_crop/front/d/1/d1814fc8-011f-4cd4-825b-f00ae6ec0fe0.jpg?1636223254|https://scryfall.com/card/mid/150/mounted-dreadknight?utm_source=api>`
    Trample
 
    Mounted Dreadknight enters the battlefield with a +1/+1 counter on it if an opponent lost life this turn.
 
 
-:mtgtip:`Neonate's Rush<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/e/dee17e12-e08f-4449-9f49-05f20e0d1670.jpg?1636223275|https://scryfall.com/card/mid/151/neonates-rush?utm_source=api>`
+:mtgtip:`Neonate's Rush<https://cards.scryfall.io/border_crop/front/d/e/dee17e12-e08f-4449-9f49-05f20e0d1670.jpg?1636223275|https://scryfall.com/card/mid/151/neonates-rush?utm_source=api>`
    This spell costs |mana_1| less to cast if you control a Vampire.
 
    Neonate's Rush deals 1 damage to target creature and 1 damage to its controller. Draw a card.
 
 
-:mtgtip:`Obsessive Astronomer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/f/4f6e0cb6-283b-448e-89c6-8b6e8e21e38b.jpg?1636223311|https://scryfall.com/card/mid/152/obsessive-astronomer?utm_source=api>`
+:mtgtip:`Obsessive Astronomer<https://cards.scryfall.io/border_crop/front/4/f/4f6e0cb6-283b-448e-89c6-8b6e8e21e38b.jpg?1636223311|https://scryfall.com/card/mid/152/obsessive-astronomer?utm_source=api>`
    If it's neither day nor night, it becomes day as Obsessive Astronomer enters the battlefield.
 
    Whenever day becomes night or night becomes day, discard up to two cards, then draw that many cards.
 
 
-:mtgtip:`Pack's Betrayal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/e/7ebadb1e-32cd-41d6-b26e-49134973d05c.jpg?1636223337|https://scryfall.com/card/mid/153/packs-betrayal?utm_source=api>`
+:mtgtip:`Pack's Betrayal<https://cards.scryfall.io/border_crop/front/7/e/7ebadb1e-32cd-41d6-b26e-49134973d05c.jpg?1636223337|https://scryfall.com/card/mid/153/packs-betrayal?utm_source=api>`
    Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. If you control a Wolf or Werewolf, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)
 
 
-:mtgtip:`Play with Fire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/f/6f1a6c60-a8c4-44c2-b1ea-d3befbabdf43.jpg?1636223358|https://scryfall.com/card/mid/154/play-with-fire?utm_source=api>`
+:mtgtip:`Play with Fire<https://cards.scryfall.io/border_crop/front/6/f/6f1a6c60-a8c4-44c2-b1ea-d3befbabdf43.jpg?1636223358|https://scryfall.com/card/mid/154/play-with-fire?utm_source=api>`
    Play with Fire deals 2 damage to any target. If a player is dealt damage this way, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
 
 
-:mtgtip:`Purifying Dragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/9/f9db384e-9555-4ccc-a305-ee448252e685.jpg?1636223382|https://scryfall.com/card/mid/155/purifying-dragon?utm_source=api>`
+:mtgtip:`Purifying Dragon<https://cards.scryfall.io/border_crop/front/f/9/f9db384e-9555-4ccc-a305-ee448252e685.jpg?1636223382|https://scryfall.com/card/mid/155/purifying-dragon?utm_source=api>`
    Flying
 
    Whenever Purifying Dragon attacks, it deals 1 damage to target creature defending player controls. If that creature is a Zombie, Purifying Dragon deals 2 damage to it instead.
 
 
-:mtgtip:`Raze the Effigy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/0/e0dd378c-5050-48c9-9a16-6d91afa62d21.jpg?1636223415|https://scryfall.com/card/mid/156/raze-the-effigy?utm_source=api>`
+:mtgtip:`Raze the Effigy<https://cards.scryfall.io/border_crop/front/e/0/e0dd378c-5050-48c9-9a16-6d91afa62d21.jpg?1636223415|https://scryfall.com/card/mid/156/raze-the-effigy?utm_source=api>`
    Choose one —
 
    • Destroy target artifact.
@@ -1115,53 +1115,53 @@
    • Target attacking creature gets +2/+2 until end of turn.
 
 
-:mtgtip:`Reckless Stormseeker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/3/a33af331-0746-4adf-935a-bf61ff9d8d4b.jpg?1636223477|https://scryfall.com/card/mid/157/reckless-stormseeker-storm-charged-slasher?utm_source=api>`
+:mtgtip:`Reckless Stormseeker<https://cards.scryfall.io/border_crop/front/a/3/a33af331-0746-4adf-935a-bf61ff9d8d4b.jpg?1636223477|https://scryfall.com/card/mid/157/reckless-stormseeker-storm-charged-slasher?utm_source=api>`
    At the beginning of combat on your turn, target creature you control gets +1/+0 and gains haste until end of turn.
 
    Daybound (If a player casts no spells during their own turn, it becomes night next turn.)
 
 
-:mtgtip:`Storm-Charged Slasher<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/a/3/a33af331-0746-4adf-935a-bf61ff9d8d4b.jpg?1636223477|https://scryfall.com/card/mid/157/reckless-stormseeker-storm-charged-slasher?utm_source=api>`
+:mtgtip:`Storm-Charged Slasher<https://cards.scryfall.io/border_crop/back/a/3/a33af331-0746-4adf-935a-bf61ff9d8d4b.jpg?1636223477|https://scryfall.com/card/mid/157/reckless-stormseeker-storm-charged-slasher?utm_source=api>`
    At the beginning of combat on your turn, target creature you control gets +2/+0 and gains trample and haste until end of turn.
 
    Nightbound (If a player casts at least two spells during their own turn, it becomes day next turn.)
 
 
-:mtgtip:`Seize the Storm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/3/532e079f-55b7-4b92-b489-aed4d3becae7.jpg?1636223516|https://scryfall.com/card/mid/158/seize-the-storm?utm_source=api>`
+:mtgtip:`Seize the Storm<https://cards.scryfall.io/border_crop/front/5/3/532e079f-55b7-4b92-b489-aed4d3becae7.jpg?1636223516|https://scryfall.com/card/mid/158/seize-the-storm?utm_source=api>`
    Create a red Elemental creature token with trample and "This creature's power and toughness are each equal to the number of instant and sorcery cards in your graveyard plus the number of cards with flashback you own in exile."
 
    Flashback |mana_6|\ |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
-:mtgtip:`Smoldering Egg<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/1/41b6381f-4ff8-49e9-bf00-cfe32851318b.jpg?1636223567|https://scryfall.com/card/mid/159/smoldering-egg-ashmouth-dragon?utm_source=api>`
+:mtgtip:`Smoldering Egg<https://cards.scryfall.io/border_crop/front/4/1/41b6381f-4ff8-49e9-bf00-cfe32851318b.jpg?1636223567|https://scryfall.com/card/mid/159/smoldering-egg-ashmouth-dragon?utm_source=api>`
    Defender
 
    Whenever you cast an instant or sorcery spell, put a number of ember counters on Smoldering Egg equal to the amount of mana spent to cast that spell. Then if Smoldering Egg has seven or more ember counters on it, remove them and transform Smoldering Egg.
 
 
-:mtgtip:`Ashmouth Dragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/4/1/41b6381f-4ff8-49e9-bf00-cfe32851318b.jpg?1636223567|https://scryfall.com/card/mid/159/smoldering-egg-ashmouth-dragon?utm_source=api>`
+:mtgtip:`Ashmouth Dragon<https://cards.scryfall.io/border_crop/back/4/1/41b6381f-4ff8-49e9-bf00-cfe32851318b.jpg?1636223567|https://scryfall.com/card/mid/159/smoldering-egg-ashmouth-dragon?utm_source=api>`
    Flying
 
    Whenever you cast an instant or sorcery spell, Ashmouth Dragon deals 2 damage to any target.
 
 
-:mtgtip:`Spellrune Painter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/2/d2a5b43d-e21b-4294-9ea2-5bd0264e71d3.jpg?1636223615|https://scryfall.com/card/mid/160/spellrune-painter-spellrune-howler?utm_source=api>`
+:mtgtip:`Spellrune Painter<https://cards.scryfall.io/border_crop/front/d/2/d2a5b43d-e21b-4294-9ea2-5bd0264e71d3.jpg?1636223615|https://scryfall.com/card/mid/160/spellrune-painter-spellrune-howler?utm_source=api>`
    Whenever you cast an instant or sorcery spell, Spellrune Painter gets +1/+1 until end of turn.
 
    Daybound (If a player casts no spells during their own turn, it becomes night next turn.)
 
 
-:mtgtip:`Spellrune Howler<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/d/2/d2a5b43d-e21b-4294-9ea2-5bd0264e71d3.jpg?1636223615|https://scryfall.com/card/mid/160/spellrune-painter-spellrune-howler?utm_source=api>`
+:mtgtip:`Spellrune Howler<https://cards.scryfall.io/border_crop/back/d/2/d2a5b43d-e21b-4294-9ea2-5bd0264e71d3.jpg?1636223615|https://scryfall.com/card/mid/160/spellrune-painter-spellrune-howler?utm_source=api>`
    Whenever you cast an instant or sorcery spell, Spellrune Howler gets +2/+2 until end of turn.
 
    Nightbound (If a player casts at least two spells during their own turn, it becomes day next turn.)
 
 
-:mtgtip:`Stolen Vitality<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/5/d50df2dd-8d14-4d92-ab4e-bf9f9f147e91.jpg?1636223640|https://scryfall.com/card/mid/161/stolen-vitality?utm_source=api>`
+:mtgtip:`Stolen Vitality<https://cards.scryfall.io/border_crop/front/d/5/d50df2dd-8d14-4d92-ab4e-bf9f9f147e91.jpg?1636223640|https://scryfall.com/card/mid/161/stolen-vitality?utm_source=api>`
    Target creature gets +3/+1 until end of turn. If it's your turn, that creature gains trample until end of turn. Otherwise, it gains first strike until end of turn.
 
 
-:mtgtip:`Sunstreak Phoenix<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/7/97de6e92-e0e8-444e-baba-09c97510b1ab.jpg?1636223662|https://scryfall.com/card/mid/162/sunstreak-phoenix?utm_source=api>`
+:mtgtip:`Sunstreak Phoenix<https://cards.scryfall.io/border_crop/front/9/7/97de6e92-e0e8-444e-baba-09c97510b1ab.jpg?1636223662|https://scryfall.com/card/mid/162/sunstreak-phoenix?utm_source=api>`
    Flying
 
    If it's neither day nor night, it becomes day as Sunstreak Phoenix enters the battlefield.
@@ -1169,15 +1169,15 @@
    Whenever day becomes night or night becomes day, you may pay |mana_1|\ |mana_r|. If you do, return Sunstreak Phoenix from your graveyard to the battlefield tapped.
 
 
-:mtgtip:`Tavern Ruffian<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/d/1d7b2d05-ce5c-4b73-8fa6-d9b69619d58c.jpg?1636682934|https://scryfall.com/card/mid/163/tavern-ruffian-tavern-smasher?utm_source=api>`
+:mtgtip:`Tavern Ruffian<https://cards.scryfall.io/border_crop/front/1/d/1d7b2d05-ce5c-4b73-8fa6-d9b69619d58c.jpg?1636682934|https://scryfall.com/card/mid/163/tavern-ruffian-tavern-smasher?utm_source=api>`
    Daybound (If a player casts no spells during their own turn, it becomes night next turn.)
 
 
-:mtgtip:`Tavern Smasher<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/1/d/1d7b2d05-ce5c-4b73-8fa6-d9b69619d58c.jpg?1636682934|https://scryfall.com/card/mid/163/tavern-ruffian-tavern-smasher?utm_source=api>`
+:mtgtip:`Tavern Smasher<https://cards.scryfall.io/border_crop/back/1/d/1d7b2d05-ce5c-4b73-8fa6-d9b69619d58c.jpg?1636682934|https://scryfall.com/card/mid/163/tavern-ruffian-tavern-smasher?utm_source=api>`
    Nightbound (If a player casts at least two spells during their own turn, it becomes day next turn.)
 
 
-:mtgtip:`Thermo-Alchemist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/4/b4c68bad-c7ee-4dbc-ad06-8c4d9446884e.jpg?1636223711|https://scryfall.com/card/mid/164/thermo-alchemist?utm_source=api>`
+:mtgtip:`Thermo-Alchemist<https://cards.scryfall.io/border_crop/front/b/4/b4c68bad-c7ee-4dbc-ad06-8c4d9446884e.jpg?1636223711|https://scryfall.com/card/mid/164/thermo-alchemist?utm_source=api>`
    Defender
 
    |tap|: Thermo-Alchemist deals 1 damage to each opponent.
@@ -1185,29 +1185,29 @@
    Whenever you cast an instant or sorcery spell, untap Thermo-Alchemist.
 
 
-:mtgtip:`Village Watch<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/b/1bf48d2b-eb68-4f47-a80a-4751a4fa20a7.jpg?1636223757|https://scryfall.com/card/mid/165/village-watch-village-reavers?utm_source=api>`
+:mtgtip:`Village Watch<https://cards.scryfall.io/border_crop/front/1/b/1bf48d2b-eb68-4f47-a80a-4751a4fa20a7.jpg?1636223757|https://scryfall.com/card/mid/165/village-watch-village-reavers?utm_source=api>`
    Haste
 
    Daybound (If a player casts no spells during their own turn, it becomes night next turn.)
 
 
-:mtgtip:`Village Reavers<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/1/b/1bf48d2b-eb68-4f47-a80a-4751a4fa20a7.jpg?1636223757|https://scryfall.com/card/mid/165/village-watch-village-reavers?utm_source=api>`
+:mtgtip:`Village Reavers<https://cards.scryfall.io/border_crop/back/1/b/1bf48d2b-eb68-4f47-a80a-4751a4fa20a7.jpg?1636223757|https://scryfall.com/card/mid/165/village-watch-village-reavers?utm_source=api>`
    Wolves and Werewolves you control have haste.
 
    Nightbound (If a player casts at least two spells during their own turn, it becomes day next turn.)
 
 
-:mtgtip:`Voldaren Ambusher<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/c/cceb4303-5d02-45f2-86f8-7e8deb774d58.jpg?1636223780|https://scryfall.com/card/mid/166/voldaren-ambusher?utm_source=api>`
+:mtgtip:`Voldaren Ambusher<https://cards.scryfall.io/border_crop/front/c/c/cceb4303-5d02-45f2-86f8-7e8deb774d58.jpg?1636223780|https://scryfall.com/card/mid/166/voldaren-ambusher?utm_source=api>`
    When Voldaren Ambusher enters the battlefield, if an opponent lost life this turn, it deals X damage to up to one target creature or planeswalker, where X is the number of Vampires you control.
 
 
-:mtgtip:`Voldaren Stinger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/2/f27a7c78-3a64-42fc-8808-15b1f41976a1.jpg?1636223805|https://scryfall.com/card/mid/167/voldaren-stinger?utm_source=api>`
+:mtgtip:`Voldaren Stinger<https://cards.scryfall.io/border_crop/front/f/2/f27a7c78-3a64-42fc-8808-15b1f41976a1.jpg?1636223805|https://scryfall.com/card/mid/167/voldaren-stinger?utm_source=api>`
    Voldaren Stinger has first strike as long as it's attacking.
 
    |mana_2|\ |mana_r|: Voldaren Stinger gets +2/+0 until end of turn.
 
 
-:mtgtip:`Augur of Autumn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/a/6aa98767-ae27-4cf0-98ea-93e659f160f4.jpg?1636223832|https://scryfall.com/card/mid/168/augur-of-autumn?utm_source=api>`
+:mtgtip:`Augur of Autumn<https://cards.scryfall.io/border_crop/front/6/a/6aa98767-ae27-4cf0-98ea-93e659f160f4.jpg?1636223832|https://scryfall.com/card/mid/168/augur-of-autumn?utm_source=api>`
    You may look at the top card of your library any time.
 
    You may play lands from the top of your library.
@@ -1215,25 +1215,25 @@
    Coven — As long as you control three or more creatures with different powers, you may cast creature spells from the top of your library.
 
 
-:mtgtip:`Bird Admirer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/1/71ccc444-54c8-4f7c-a425-82bc3eea1eb0.jpg?1636223879|https://scryfall.com/card/mid/169/bird-admirer-wing-shredder?utm_source=api>`
+:mtgtip:`Bird Admirer<https://cards.scryfall.io/border_crop/front/7/1/71ccc444-54c8-4f7c-a425-82bc3eea1eb0.jpg?1664081363|https://scryfall.com/card/mid/169/bird-admirer-wing-shredder?utm_source=api>`
    Reach
 
    Daybound (If a player casts no spells during their own turn, it becomes night next turn.)
 
 
-:mtgtip:`Wing Shredder<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/7/1/71ccc444-54c8-4f7c-a425-82bc3eea1eb0.jpg?1636223879|https://scryfall.com/card/mid/169/bird-admirer-wing-shredder?utm_source=api>`
+:mtgtip:`Wing Shredder<https://cards.scryfall.io/border_crop/back/7/1/71ccc444-54c8-4f7c-a425-82bc3eea1eb0.jpg?1664081363|https://scryfall.com/card/mid/169/bird-admirer-wing-shredder?utm_source=api>`
    Reach
 
    Nightbound (If a player casts at least two spells during their own turn, it becomes day next turn.)
 
 
-:mtgtip:`Bounding Wolf<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/4/74e22ed6-9d39-4feb-8c64-64cdd8313816.jpg?1636223903|https://scryfall.com/card/mid/170/bounding-wolf?utm_source=api>`
+:mtgtip:`Bounding Wolf<https://cards.scryfall.io/border_crop/front/7/4/74e22ed6-9d39-4feb-8c64-64cdd8313816.jpg?1636223903|https://scryfall.com/card/mid/170/bounding-wolf?utm_source=api>`
    Flash
 
    Reach
 
 
-:mtgtip:`Bramble Armor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/2/621b58aa-c809-4baf-b2c8-3a46969598d7.jpg?1636223926|https://scryfall.com/card/mid/171/bramble-armor?utm_source=api>`
+:mtgtip:`Bramble Armor<https://cards.scryfall.io/border_crop/front/6/2/621b58aa-c809-4baf-b2c8-3a46969598d7.jpg?1636223926|https://scryfall.com/card/mid/171/bramble-armor?utm_source=api>`
    When Bramble Armor enters the battlefield, attach it to target creature you control.
 
    Equipped creature gets +2/+1.
@@ -1241,7 +1241,7 @@
    Equip |mana_4| (|mana_4|: Attach to target creature you control. Equip only as a sorcery.)
 
 
-:mtgtip:`Briarbridge Tracker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/2/e215a7bd-112f-4228-a99e-5a8cb4be5cee.jpg?1636223950|https://scryfall.com/card/mid/172/briarbridge-tracker?utm_source=api>`
+:mtgtip:`Briarbridge Tracker<https://cards.scryfall.io/border_crop/front/e/2/e215a7bd-112f-4228-a99e-5a8cb4be5cee.jpg?1636223950|https://scryfall.com/card/mid/172/briarbridge-tracker?utm_source=api>`
    Vigilance
 
    When Briarbridge Tracker enters the battlefield, investigate. (Create a Clue token. It's an artifact with "|mana_2|, Sacrifice this artifact: Draw a card.")
@@ -1249,87 +1249,87 @@
    As long as you control a token, Briarbridge Tracker gets +2/+0.
 
 
-:mtgtip:`Brood Weaver<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/2/e24e2f49-70f9-445f-af03-2ef43798004a.jpg?1636223973|https://scryfall.com/card/mid/173/brood-weaver?utm_source=api>`
+:mtgtip:`Brood Weaver<https://cards.scryfall.io/border_crop/front/e/2/e24e2f49-70f9-445f-af03-2ef43798004a.jpg?1636223973|https://scryfall.com/card/mid/173/brood-weaver?utm_source=api>`
    Reach
 
    When Brood Weaver dies, create a 1/2 green Spider creature token with reach.
 
 
-:mtgtip:`Burly Breaker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/8/3849ad37-f80d-4ffc-9240-25a63326b3dd.jpg?1636224015|https://scryfall.com/card/mid/174/burly-breaker-dire-strain-demolisher?utm_source=api>`
+:mtgtip:`Burly Breaker<https://cards.scryfall.io/border_crop/front/3/8/3849ad37-f80d-4ffc-9240-25a63326b3dd.jpg?1636224015|https://scryfall.com/card/mid/174/burly-breaker-dire-strain-demolisher?utm_source=api>`
    Ward |mana_1| (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays |mana_1|.)
 
    Daybound (If a player casts no spells during their own turn, it becomes night next turn.)
 
 
-:mtgtip:`Dire-Strain Demolisher<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/3/8/3849ad37-f80d-4ffc-9240-25a63326b3dd.jpg?1636224015|https://scryfall.com/card/mid/174/burly-breaker-dire-strain-demolisher?utm_source=api>`
+:mtgtip:`Dire-Strain Demolisher<https://cards.scryfall.io/border_crop/back/3/8/3849ad37-f80d-4ffc-9240-25a63326b3dd.jpg?1636224015|https://scryfall.com/card/mid/174/burly-breaker-dire-strain-demolisher?utm_source=api>`
    Ward |mana_3| (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays |mana_3|.)
 
    Nightbound (If a player casts at least two spells during their own turn, it becomes day next turn.)
 
 
-:mtgtip:`Candlelit Cavalry<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/4/a4c3bd60-1ff6-4136-9188-d0620fd299a7.jpg?1636224038|https://scryfall.com/card/mid/175/candlelit-cavalry?utm_source=api>`
+:mtgtip:`Candlelit Cavalry<https://cards.scryfall.io/border_crop/front/a/4/a4c3bd60-1ff6-4136-9188-d0620fd299a7.jpg?1636224038|https://scryfall.com/card/mid/175/candlelit-cavalry?utm_source=api>`
    Coven — At the beginning of combat on your turn, if you control three or more creatures with different powers, Candlelit Cavalry gains trample until end of turn.
 
 
-:mtgtip:`Clear Shot<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/7/27476d9c-006d-4227-a5f2-49c7234b84a1.jpg?1636224065|https://scryfall.com/card/mid/176/clear-shot?utm_source=api>`
+:mtgtip:`Clear Shot<https://cards.scryfall.io/border_crop/front/2/7/27476d9c-006d-4227-a5f2-49c7234b84a1.jpg?1636224065|https://scryfall.com/card/mid/176/clear-shot?utm_source=api>`
    Target creature you control gets +1/+1 until end of turn. It deals damage equal to its power to target creature you don't control.
 
 
-:mtgtip:`Consuming Blob<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/5/4540fa4b-93e8-4749-a839-9a6e816c1145.jpg?1636224089|https://scryfall.com/card/mid/177/consuming-blob?utm_source=api>`
+:mtgtip:`Consuming Blob<https://cards.scryfall.io/border_crop/front/4/5/4540fa4b-93e8-4749-a839-9a6e816c1145.jpg?1636224089|https://scryfall.com/card/mid/177/consuming-blob?utm_source=api>`
    Consuming Blob's power is equal to the number of card types among cards in your graveyard and its toughness is equal to that number plus 1.
 
    At the beginning of your end step, create a green Ooze creature token with "This creature's power is equal to the number of card types among cards in your graveyard and its toughness is equal to that number plus 1."
 
 
-:mtgtip:`Contortionist Troupe<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/8/c81da535-04e4-4dc8-9e12-7b417aba2f39.jpg?1636224116|https://scryfall.com/card/mid/178/contortionist-troupe?utm_source=api>`
+:mtgtip:`Contortionist Troupe<https://cards.scryfall.io/border_crop/front/c/8/c81da535-04e4-4dc8-9e12-7b417aba2f39.jpg?1636224116|https://scryfall.com/card/mid/178/contortionist-troupe?utm_source=api>`
    Contortionist Troupe enters the battlefield with X +1/+1 counters on it.
 
    Coven — At the beginning of your end step, if you control three or more creatures with different powers, put a +1/+1 counter on target creature you control.
 
 
-:mtgtip:`Dawnhart Mentor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/3/234a09dd-a202-4487-899f-348744143ba5.jpg?1636224143|https://scryfall.com/card/mid/179/dawnhart-mentor?utm_source=api>`
+:mtgtip:`Dawnhart Mentor<https://cards.scryfall.io/border_crop/front/2/3/234a09dd-a202-4487-899f-348744143ba5.jpg?1636224143|https://scryfall.com/card/mid/179/dawnhart-mentor?utm_source=api>`
    When Dawnhart Mentor enters the battlefield, create a 1/1 white Human creature token.
 
    Coven — |mana_5|\ |mana_g|: Target creature you control gets +3/+3 and gains trample until end of turn. Activate only if you control three or more creatures with different powers.
 
 
-:mtgtip:`Dawnhart Rejuvenator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/f/cf4b5ad9-3de6-4d53-93a0-3b8d2e484687.jpg?1636224166|https://scryfall.com/card/mid/180/dawnhart-rejuvenator?utm_source=api>`
+:mtgtip:`Dawnhart Rejuvenator<https://cards.scryfall.io/border_crop/front/c/f/cf4b5ad9-3de6-4d53-93a0-3b8d2e484687.jpg?1636224166|https://scryfall.com/card/mid/180/dawnhart-rejuvenator?utm_source=api>`
    When Dawnhart Rejuvenator enters the battlefield, you gain 3 life.
 
    |tap|: Add one mana of any color.
 
 
-:mtgtip:`Deathbonnet Sprout<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/2/a2cda10b-7cd5-4cf5-87bd-c3b8c6aa2b47.jpg?1636224226|https://scryfall.com/card/mid/181/deathbonnet-sprout-deathbonnet-hulk?utm_source=api>`
+:mtgtip:`Deathbonnet Sprout<https://cards.scryfall.io/border_crop/front/a/2/a2cda10b-7cd5-4cf5-87bd-c3b8c6aa2b47.jpg?1636224226|https://scryfall.com/card/mid/181/deathbonnet-sprout-deathbonnet-hulk?utm_source=api>`
    At the beginning of your upkeep, mill a card. Then if there are three or more creature cards in your graveyard, transform Deathbonnet Sprout. (To mill a card, put the top card of your library into your graveyard.)
 
 
-:mtgtip:`Deathbonnet Hulk<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/a/2/a2cda10b-7cd5-4cf5-87bd-c3b8c6aa2b47.jpg?1636224226|https://scryfall.com/card/mid/181/deathbonnet-sprout-deathbonnet-hulk?utm_source=api>`
+:mtgtip:`Deathbonnet Hulk<https://cards.scryfall.io/border_crop/back/a/2/a2cda10b-7cd5-4cf5-87bd-c3b8c6aa2b47.jpg?1636224226|https://scryfall.com/card/mid/181/deathbonnet-sprout-deathbonnet-hulk?utm_source=api>`
    At the beginning of your upkeep, you may exile a card from a graveyard. If a creature card was exiled this way, put a +1/+1 counter on Deathbonnet Hulk.
 
 
-:mtgtip:`Defend the Celestus<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/1/c11e4420-06f3-48e2-91d1-a9199483add2.jpg?1636224253|https://scryfall.com/card/mid/182/defend-the-celestus?utm_source=api>`
+:mtgtip:`Defend the Celestus<https://cards.scryfall.io/border_crop/front/c/1/c11e4420-06f3-48e2-91d1-a9199483add2.jpg?1636224253|https://scryfall.com/card/mid/182/defend-the-celestus?utm_source=api>`
    Distribute three +1/+1 counters among one, two, or three target creatures you control.
 
 
-:mtgtip:`Dryad's Revival<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/c/5c0aa3eb-0aa8-42da-b437-a3f336df585d.jpg?1636224278|https://scryfall.com/card/mid/183/dryads-revival?utm_source=api>`
+:mtgtip:`Dryad's Revival<https://cards.scryfall.io/border_crop/front/5/c/5c0aa3eb-0aa8-42da-b437-a3f336df585d.jpg?1636224278|https://scryfall.com/card/mid/183/dryads-revival?utm_source=api>`
    Return target card from your graveyard to your hand.
 
    Flashback |mana_4|\ |mana_g| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
-:mtgtip:`Duel for Dominance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/b/9bb0a0c8-158e-4a6f-976e-3de9f57c3463.jpg?1636224300|https://scryfall.com/card/mid/184/duel-for-dominance?utm_source=api>`
+:mtgtip:`Duel for Dominance<https://cards.scryfall.io/border_crop/front/9/b/9bb0a0c8-158e-4a6f-976e-3de9f57c3463.jpg?1636224300|https://scryfall.com/card/mid/184/duel-for-dominance?utm_source=api>`
    Coven — Choose target creature you control and target creature you don't control. If you control three or more creatures with different powers, put a +1/+1 counter on the chosen creature you control. Then the chosen creatures fight each other. (They each deal damage equal to their power to the other.)
 
 
-:mtgtip:`Eccentric Farmer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/5/b5339f6e-9ed7-4734-91c9-c2ed59ca1052.jpg?1636224326|https://scryfall.com/card/mid/185/eccentric-farmer?utm_source=api>`
+:mtgtip:`Eccentric Farmer<https://cards.scryfall.io/border_crop/front/b/5/b5339f6e-9ed7-4734-91c9-c2ed59ca1052.jpg?1636224326|https://scryfall.com/card/mid/185/eccentric-farmer?utm_source=api>`
    When Eccentric Farmer enters the battlefield, mill three cards, then you may return a land card from your graveyard to your hand. (To mill a card, put the top card of your library into your graveyard.)
 
 
-:mtgtip:`Harvesttide Sentry<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/5/9543cf53-8cf5-49d0-9c60-8b11e21da953.jpg?1636224350|https://scryfall.com/card/mid/186/harvesttide-sentry?utm_source=api>`
+:mtgtip:`Harvesttide Sentry<https://cards.scryfall.io/border_crop/front/9/5/9543cf53-8cf5-49d0-9c60-8b11e21da953.jpg?1636224350|https://scryfall.com/card/mid/186/harvesttide-sentry?utm_source=api>`
    Coven — At the beginning of combat on your turn, if you control three or more creatures with different powers, Harvesttide Sentry can't be blocked by creatures with power 2 or less this turn.
 
 
-:mtgtip:`Hound Tamer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/8/28e2119b-ed78-4b98-a956-f2b453d0b164.jpg?1636224412|https://scryfall.com/card/mid/187/hound-tamer-untamed-pup?utm_source=api>`
+:mtgtip:`Hound Tamer<https://cards.scryfall.io/border_crop/front/2/8/28e2119b-ed78-4b98-a956-f2b453d0b164.jpg?1636224412|https://scryfall.com/card/mid/187/hound-tamer-untamed-pup?utm_source=api>`
    Trample
 
    |mana_3|\ |mana_g|: Put a +1/+1 counter on target creature.
@@ -1337,7 +1337,7 @@
    Daybound (If a player casts no spells during their own turn, it becomes night next turn.)
 
 
-:mtgtip:`Untamed Pup<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/2/8/28e2119b-ed78-4b98-a956-f2b453d0b164.jpg?1636224412|https://scryfall.com/card/mid/187/hound-tamer-untamed-pup?utm_source=api>`
+:mtgtip:`Untamed Pup<https://cards.scryfall.io/border_crop/back/2/8/28e2119b-ed78-4b98-a956-f2b453d0b164.jpg?1636224412|https://scryfall.com/card/mid/187/hound-tamer-untamed-pup?utm_source=api>`
    Trample
 
    Other Wolves and Werewolves you control have trample.
@@ -1347,7 +1347,7 @@
    Nightbound (If a player casts at least two spells during their own turn, it becomes day next turn.)
 
 
-:mtgtip:`Howl of the Hunt<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/a/7a48a42e-5cc5-4f9a-8745-99936f4cae5f.jpg?1636224441|https://scryfall.com/card/mid/188/howl-of-the-hunt?utm_source=api>`
+:mtgtip:`Howl of the Hunt<https://cards.scryfall.io/border_crop/front/7/a/7a48a42e-5cc5-4f9a-8745-99936f4cae5f.jpg?1636224441|https://scryfall.com/card/mid/188/howl-of-the-hunt?utm_source=api>`
    Flash
 
    Enchant creature
@@ -1357,19 +1357,19 @@
    Enchanted creature gets +2/+2 and has vigilance.
 
 
-:mtgtip:`Might of the Old Ways<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/a/6a853679-e9dd-4c05-8688-248de8f12760.jpg?1636224469|https://scryfall.com/card/mid/189/might-of-the-old-ways?utm_source=api>`
+:mtgtip:`Might of the Old Ways<https://cards.scryfall.io/border_crop/front/6/a/6a853679-e9dd-4c05-8688-248de8f12760.jpg?1636224469|https://scryfall.com/card/mid/189/might-of-the-old-ways?utm_source=api>`
    Target creature gets +2/+2 until end of turn.
 
    Coven — Then if you control three or more creatures with different powers, draw a card.
 
 
-:mtgtip:`Outland Liberator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/0/60e53d61-fcc3-4def-8206-052b46f62deb.jpg?1636224528|https://scryfall.com/card/mid/190/outland-liberator-frenzied-trapbreaker?utm_source=api>`
+:mtgtip:`Outland Liberator<https://cards.scryfall.io/border_crop/front/6/0/60e53d61-fcc3-4def-8206-052b46f62deb.jpg?1636224528|https://scryfall.com/card/mid/190/outland-liberator-frenzied-trapbreaker?utm_source=api>`
    |mana_1|, Sacrifice Outland Liberator: Destroy target artifact or enchantment.
 
    Daybound (If a player casts no spells during their own turn, it becomes night next turn.)
 
 
-:mtgtip:`Frenzied Trapbreaker<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/6/0/60e53d61-fcc3-4def-8206-052b46f62deb.jpg?1636224528|https://scryfall.com/card/mid/190/outland-liberator-frenzied-trapbreaker?utm_source=api>`
+:mtgtip:`Frenzied Trapbreaker<https://cards.scryfall.io/border_crop/back/6/0/60e53d61-fcc3-4def-8206-052b46f62deb.jpg?1636224528|https://scryfall.com/card/mid/190/outland-liberator-frenzied-trapbreaker?utm_source=api>`
    |mana_1|, Sacrifice Frenzied Trapbreaker: Destroy target artifact or enchantment.
 
    Whenever Frenzied Trapbreaker attacks, destroy target artifact or enchantment defending player controls.
@@ -1377,27 +1377,27 @@
    Nightbound (If a player casts at least two spells during their own turn, it becomes day next turn.)
 
 
-:mtgtip:`Path to the Festival<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/5/153f545d-bdbf-42c7-837a-a7076bbe5027.jpg?1636224556|https://scryfall.com/card/mid/191/path-to-the-festival?utm_source=api>`
+:mtgtip:`Path to the Festival<https://cards.scryfall.io/border_crop/front/1/5/153f545d-bdbf-42c7-837a-a7076bbe5027.jpg?1636224556|https://scryfall.com/card/mid/191/path-to-the-festival?utm_source=api>`
    Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle. Then if there are three or more basic land types among lands you control, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
 
    Flashback |mana_4|\ |mana_g| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
-:mtgtip:`Pestilent Wolf<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/2/e2686431-8d9c-4b9c-998f-38b5ae113d4a.jpg?1636224583|https://scryfall.com/card/mid/192/pestilent-wolf?utm_source=api>`
+:mtgtip:`Pestilent Wolf<https://cards.scryfall.io/border_crop/front/e/2/e2686431-8d9c-4b9c-998f-38b5ae113d4a.jpg?1636224583|https://scryfall.com/card/mid/192/pestilent-wolf?utm_source=api>`
    |mana_2|\ |mana_g|: Pestilent Wolf gains deathtouch until end of turn.
 
 
-:mtgtip:`Plummet<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/4/5469e696-bbf1-43e3-9c25-fe089b36caed.jpg?1636224615|https://scryfall.com/card/mid/193/plummet?utm_source=api>`
+:mtgtip:`Plummet<https://cards.scryfall.io/border_crop/front/5/4/5469e696-bbf1-43e3-9c25-fe089b36caed.jpg?1636224615|https://scryfall.com/card/mid/193/plummet?utm_source=api>`
    Destroy target creature with flying.
 
 
-:mtgtip:`Primal Adversary<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bf3ce5c5-ea31-4f6d-84dd-430f52c49c4e.jpg?1636224640|https://scryfall.com/card/mid/194/primal-adversary?utm_source=api>`
+:mtgtip:`Primal Adversary<https://cards.scryfall.io/border_crop/front/b/f/bf3ce5c5-ea31-4f6d-84dd-430f52c49c4e.jpg?1636224640|https://scryfall.com/card/mid/194/primal-adversary?utm_source=api>`
    Trample
 
    When Primal Adversary enters the battlefield, you may pay |mana_1|\ |mana_g| any number of times. When you pay this cost one or more times, put that many +1/+1 counters on Primal Adversary, then up to that many target lands you control become 3/3 Wolf creatures with haste that are still lands.
 
 
-:mtgtip:`Return to Nature<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/e/6e25c252-4177-4193-914c-b6933d9c0d7d.jpg?1636224670|https://scryfall.com/card/mid/195/return-to-nature?utm_source=api>`
+:mtgtip:`Return to Nature<https://cards.scryfall.io/border_crop/front/6/e/6e25c252-4177-4193-914c-b6933d9c0d7d.jpg?1636224670|https://scryfall.com/card/mid/195/return-to-nature?utm_source=api>`
    Choose one —
 
    • Destroy target artifact.
@@ -1407,13 +1407,13 @@
    • Exile target card from a graveyard.
 
 
-:mtgtip:`Rise of the Ants<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/1/3143fadd-0162-4e0c-89fc-89dc3501d13c.jpg?1636224693|https://scryfall.com/card/mid/196/rise-of-the-ants?utm_source=api>`
+:mtgtip:`Rise of the Ants<https://cards.scryfall.io/border_crop/front/3/1/3143fadd-0162-4e0c-89fc-89dc3501d13c.jpg?1636224693|https://scryfall.com/card/mid/196/rise-of-the-ants?utm_source=api>`
    Create two 3/3 green Insect creature tokens. You gain 2 life.
 
    Flashback |mana_6|\ |mana_g|\ |mana_g| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
-:mtgtip:`Saryth, the Viper's Fang<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/c/bc8b3a09-75e8-428c-91f7-8fac62fadc98.jpg?1636224715|https://scryfall.com/card/mid/197/saryth-the-vipers-fang?utm_source=api>`
+:mtgtip:`Saryth, the Viper's Fang<https://cards.scryfall.io/border_crop/front/b/c/bc8b3a09-75e8-428c-91f7-8fac62fadc98.jpg?1636224715|https://scryfall.com/card/mid/197/saryth-the-vipers-fang?utm_source=api>`
    Other tapped creatures you control have deathtouch.
 
    Other untapped creatures you control have hexproof.
@@ -1421,51 +1421,51 @@
    |mana_1|, |tap|: Untap another target creature or land you control.
 
 
-:mtgtip:`Shadowbeast Sighting<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/b/1b12e978-4deb-4ccc-8ae6-462bc4598c90.jpg?1636224740|https://scryfall.com/card/mid/198/shadowbeast-sighting?utm_source=api>`
+:mtgtip:`Shadowbeast Sighting<https://cards.scryfall.io/border_crop/front/1/b/1b12e978-4deb-4ccc-8ae6-462bc4598c90.jpg?1636224740|https://scryfall.com/card/mid/198/shadowbeast-sighting?utm_source=api>`
    Create a 4/4 green Beast creature token.
 
    Flashback |mana_6|\ |mana_g| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
-:mtgtip:`Snarling Wolf<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/b/4b614b21-69ed-4788-97d7-ad502b634abb.jpg?1636224766|https://scryfall.com/card/mid/199/snarling-wolf?utm_source=api>`
+:mtgtip:`Snarling Wolf<https://cards.scryfall.io/border_crop/front/4/b/4b614b21-69ed-4788-97d7-ad502b634abb.jpg?1636224766|https://scryfall.com/card/mid/199/snarling-wolf?utm_source=api>`
    |mana_1|\ |mana_g|: Snarling Wolf gets +2/+2 until end of turn. Activate only once each turn.
 
 
-:mtgtip:`Storm the Festival<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/4/b4f1f69c-122d-472a-b82d-fed7c253a4cd.jpg?1636224793|https://scryfall.com/card/mid/200/storm-the-festival?utm_source=api>`
+:mtgtip:`Storm the Festival<https://cards.scryfall.io/border_crop/front/b/4/b4f1f69c-122d-472a-b82d-fed7c253a4cd.jpg?1636224793|https://scryfall.com/card/mid/200/storm-the-festival?utm_source=api>`
    Look at the top five cards of your library. You may put up to two permanent cards with mana value 5 or less from among them onto the battlefield. Put the rest on the bottom of your library in a random order.
 
    Flashback |mana_7|\ |mana_g|\ |mana_g|\ |mana_g| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
-:mtgtip:`Tapping at the Window<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/a/ba75dc52-7ab2-43ec-afac-0a9bcf24cde9.jpg?1636224817|https://scryfall.com/card/mid/201/tapping-at-the-window?utm_source=api>`
+:mtgtip:`Tapping at the Window<https://cards.scryfall.io/border_crop/front/b/a/ba75dc52-7ab2-43ec-afac-0a9bcf24cde9.jpg?1636224817|https://scryfall.com/card/mid/201/tapping-at-the-window?utm_source=api>`
    Look at the top three cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest into your graveyard.
 
    Flashback |mana_2|\ |mana_g| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
-:mtgtip:`Timberland Guide<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/b/6b215b6a-82e3-4ce8-b288-d7341761cad0.jpg?1636224841|https://scryfall.com/card/mid/202/timberland-guide?utm_source=api>`
+:mtgtip:`Timberland Guide<https://cards.scryfall.io/border_crop/front/6/b/6b215b6a-82e3-4ce8-b288-d7341761cad0.jpg?1636224841|https://scryfall.com/card/mid/202/timberland-guide?utm_source=api>`
    When Timberland Guide enters the battlefield, put a +1/+1 counter on target creature.
 
 
-:mtgtip:`Tireless Hauler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/e/3e96f9a6-c215-42b1-aa02-8e6143fe5bd7.jpg?1636224889|https://scryfall.com/card/mid/203/tireless-hauler-dire-strain-brawler?utm_source=api>`
+:mtgtip:`Tireless Hauler<https://cards.scryfall.io/border_crop/front/3/e/3e96f9a6-c215-42b1-aa02-8e6143fe5bd7.jpg?1636224889|https://scryfall.com/card/mid/203/tireless-hauler-dire-strain-brawler?utm_source=api>`
    Vigilance
 
    Daybound (If a player casts no spells during their own turn, it becomes night next turn.)
 
 
-:mtgtip:`Dire-Strain Brawler<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/3/e/3e96f9a6-c215-42b1-aa02-8e6143fe5bd7.jpg?1636224889|https://scryfall.com/card/mid/203/tireless-hauler-dire-strain-brawler?utm_source=api>`
+:mtgtip:`Dire-Strain Brawler<https://cards.scryfall.io/border_crop/back/3/e/3e96f9a6-c215-42b1-aa02-8e6143fe5bd7.jpg?1636224889|https://scryfall.com/card/mid/203/tireless-hauler-dire-strain-brawler?utm_source=api>`
    Vigilance
 
    Nightbound (If a player casts at least two spells during their own turn, it becomes day next turn.)
 
 
-:mtgtip:`Tovolar's Huntmaster<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/9/3983a304-5040-4b8d-945a-bf4ede3104a8.jpg?1636224948|https://scryfall.com/card/mid/204/tovolars-huntmaster-tovolars-packleader?utm_source=api>`
+:mtgtip:`Tovolar's Huntmaster<https://cards.scryfall.io/border_crop/front/3/9/3983a304-5040-4b8d-945a-bf4ede3104a8.jpg?1636224948|https://scryfall.com/card/mid/204/tovolars-huntmaster-tovolars-packleader?utm_source=api>`
    When Tovolar's Huntmaster enters the battlefield, create two 2/2 green Wolf creature tokens.
 
    Daybound (If a player casts no spells during their own turn, it becomes night next turn.)
 
 
-:mtgtip:`Tovolar's Packleader<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/3/9/3983a304-5040-4b8d-945a-bf4ede3104a8.jpg?1636224948|https://scryfall.com/card/mid/204/tovolars-huntmaster-tovolars-packleader?utm_source=api>`
+:mtgtip:`Tovolar's Packleader<https://cards.scryfall.io/border_crop/back/3/9/3983a304-5040-4b8d-945a-bf4ede3104a8.jpg?1636224948|https://scryfall.com/card/mid/204/tovolars-huntmaster-tovolars-packleader?utm_source=api>`
    Whenever Tovolar's Packleader enters the battlefield or attacks, create two 2/2 green Wolf creature tokens.
 
    |mana_2|\ |mana_g|\ |mana_g|: Another target Wolf or Werewolf you control fights target creature you don't control.
@@ -1473,17 +1473,17 @@
    Nightbound (If a player casts at least two spells during their own turn, it becomes day next turn.)
 
 
-:mtgtip:`Turn the Earth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/4/34076a93-9e8f-45d4-a1d7-31f40210a5b6.jpg?1636224971|https://scryfall.com/card/mid/205/turn-the-earth?utm_source=api>`
+:mtgtip:`Turn the Earth<https://cards.scryfall.io/border_crop/front/3/4/34076a93-9e8f-45d4-a1d7-31f40210a5b6.jpg?1636224971|https://scryfall.com/card/mid/205/turn-the-earth?utm_source=api>`
    Choose up to three target cards in graveyards. The owners of those cards shuffle them into their libraries. You gain 2 life.
 
    Flashback |mana_1|\ |mana_g| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
-:mtgtip:`Unnatural Growth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/7/6748a844-e185-4e3b-ac1d-8a735666d8ae.jpg?1636224994|https://scryfall.com/card/mid/206/unnatural-growth?utm_source=api>`
+:mtgtip:`Unnatural Growth<https://cards.scryfall.io/border_crop/front/6/7/6748a844-e185-4e3b-ac1d-8a735666d8ae.jpg?1636224994|https://scryfall.com/card/mid/206/unnatural-growth?utm_source=api>`
    At the beginning of each combat, double the power and toughness of each creature you control until end of turn.
 
 
-:mtgtip:`Willow Geist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/c/1c40c71c-4cdc-4a28-8ea3-4636c936f8aa.jpg?1636225018|https://scryfall.com/card/mid/207/willow-geist?utm_source=api>`
+:mtgtip:`Willow Geist<https://cards.scryfall.io/border_crop/front/1/c/1c40c71c-4cdc-4a28-8ea3-4636c936f8aa.jpg?1636225018|https://scryfall.com/card/mid/207/willow-geist?utm_source=api>`
    Trample
 
    Whenever one or more cards leave your graveyard, put a +1/+1 counter on Willow Geist.
@@ -1491,7 +1491,7 @@
    When Willow Geist dies, you gain life equal to its power.
 
 
-:mtgtip:`Wrenn and Seven<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/7/a7757e99-8d51-4b92-b346-6961845def24.jpg?1636225043|https://scryfall.com/card/mid/208/wrenn-and-seven?utm_source=api>`
+:mtgtip:`Wrenn and Seven<https://cards.scryfall.io/border_crop/front/a/7/a7757e99-8d51-4b92-b346-6961845def24.jpg?1636225043|https://scryfall.com/card/mid/208/wrenn-and-seven?utm_source=api>`
    +1: Reveal the top four cards of your library. Put all land cards revealed this way into your hand and the rest into your graveyard.
 
    0: Put any number of land cards from your hand onto the battlefield tapped.
@@ -1501,19 +1501,19 @@
    −8: Return all permanent cards from your graveyard to your hand. You get an emblem with "You have no maximum hand size."
 
 
-:mtgtip:`Angelfire Ignition<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/b/8ba4c7a2-6243-43ed-8c1c-e3edee43a583.jpg?1636225070|https://scryfall.com/card/mid/209/angelfire-ignition?utm_source=api>`
+:mtgtip:`Angelfire Ignition<https://cards.scryfall.io/border_crop/front/8/b/8ba4c7a2-6243-43ed-8c1c-e3edee43a583.jpg?1636225070|https://scryfall.com/card/mid/209/angelfire-ignition?utm_source=api>`
    Put two +1/+1 counters on target creature. It gains vigilance, trample, lifelink, indestructible, and haste until end of turn.
 
    Flashback |mana_2|\ |mana_r|\ |mana_w| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
-:mtgtip:`Arcane Infusion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/a/9ab520b7-ad87-4c8e-a454-5c022e378564.jpg?1636225112|https://scryfall.com/card/mid/210/arcane-infusion?utm_source=api>`
+:mtgtip:`Arcane Infusion<https://cards.scryfall.io/border_crop/front/9/a/9ab520b7-ad87-4c8e-a454-5c022e378564.jpg?1636225112|https://scryfall.com/card/mid/210/arcane-infusion?utm_source=api>`
    Look at the top four cards of your library. You may reveal an instant or sorcery card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
 
    Flashback |mana_3|\ |mana_u|\ |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
-:mtgtip:`Arlinn, the Pack's Hope<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/0/50d4b0df-a1d8-494f-a019-70ce34161320.jpg?1644855247|https://scryfall.com/card/mid/211/arlinn-the-packs-hope-arlinn-the-moons-fury?utm_source=api>`
+:mtgtip:`Arlinn, the Pack's Hope<https://cards.scryfall.io/border_crop/front/5/0/50d4b0df-a1d8-494f-a019-70ce34161320.jpg?1644855247|https://scryfall.com/card/mid/211/arlinn-the-packs-hope-arlinn-the-moons-fury?utm_source=api>`
    Daybound (If a player casts no spells during their own turn, it becomes night next turn.)
 
    +1: Until your next turn, you may cast creature spells as though they had flash, and each creature you control enters the battlefield with an additional +1/+1 counter on it.
@@ -1521,7 +1521,7 @@
    −3: Create two 2/2 green Wolf creature tokens.
 
 
-:mtgtip:`Arlinn, the Moon's Fury<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/5/0/50d4b0df-a1d8-494f-a019-70ce34161320.jpg?1644855247|https://scryfall.com/card/mid/211/arlinn-the-packs-hope-arlinn-the-moons-fury?utm_source=api>`
+:mtgtip:`Arlinn, the Moon's Fury<https://cards.scryfall.io/border_crop/back/5/0/50d4b0df-a1d8-494f-a019-70ce34161320.jpg?1644855247|https://scryfall.com/card/mid/211/arlinn-the-packs-hope-arlinn-the-moons-fury?utm_source=api>`
    Nightbound (If a player casts at least two spells during their own turn, it becomes day next turn.)
 
    +2: Add |mana_r|\ |mana_g|.
@@ -1529,17 +1529,17 @@
    0: Until end of turn, Arlinn, the Moon's Fury becomes a 5/5 Werewolf creature with trample, indestructible, and haste.
 
 
-:mtgtip:`Bladestitched Skaab<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/8/b8a73f77-aab5-47e3-bfc1-97f6374f40fc.jpg?1636683786|https://scryfall.com/card/mid/212/bladestitched-skaab?utm_source=api>`
+:mtgtip:`Bladestitched Skaab<https://cards.scryfall.io/border_crop/front/b/8/b8a73f77-aab5-47e3-bfc1-97f6374f40fc.jpg?1636683786|https://scryfall.com/card/mid/212/bladestitched-skaab?utm_source=api>`
    Other Zombies you control get +1/+0.
 
 
-:mtgtip:`Can't Stay Away<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/c/3ccfebf1-add1-4f62-bffa-9023dea5b7c4.jpg?1636683827|https://scryfall.com/card/mid/213/cant-stay-away?utm_source=api>`
+:mtgtip:`Can't Stay Away<https://cards.scryfall.io/border_crop/front/3/c/3ccfebf1-add1-4f62-bffa-9023dea5b7c4.jpg?1636683827|https://scryfall.com/card/mid/213/cant-stay-away?utm_source=api>`
    Return target creature card with mana value 3 or less from your graveyard to the battlefield. It gains "If this creature would die, exile it instead."
 
    Flashback |mana_3|\ |mana_w|\ |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
-:mtgtip:`Corpse Cobble<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/f/dfe4f48d-179a-47d7-aed6-9751dd2f7d8c.jpg?1636683863|https://scryfall.com/card/mid/214/corpse-cobble?utm_source=api>`
+:mtgtip:`Corpse Cobble<https://cards.scryfall.io/border_crop/front/d/f/dfe4f48d-179a-47d7-aed6-9751dd2f7d8c.jpg?1636683863|https://scryfall.com/card/mid/214/corpse-cobble?utm_source=api>`
    As an additional cost to cast this spell, sacrifice any number of creatures.
 
    Create an X/X blue and black Zombie creature token with menace, where X is the total power of the sacrificed creatures.
@@ -1547,19 +1547,19 @@
    Flashback |mana_3|\ |mana_u|\ |mana_b| (You may cast this card from your graveyard for its flashback cost and any additional costs. Then exile it.)
 
 
-:mtgtip:`Croaking Counterpart<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/8/9847b22f-6660-4654-91a9-e0adb8606bab.jpg?1636683905|https://scryfall.com/card/mid/215/croaking-counterpart?utm_source=api>`
+:mtgtip:`Croaking Counterpart<https://cards.scryfall.io/border_crop/front/9/8/9847b22f-6660-4654-91a9-e0adb8606bab.jpg?1636683905|https://scryfall.com/card/mid/215/croaking-counterpart?utm_source=api>`
    Create a token that's a copy of target non-Frog creature, except it's a 1/1 green Frog.
 
    Flashback |mana_3|\ |mana_g|\ |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
-:mtgtip:`Dawnhart Wardens<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/e/7eb2f0a7-f3a6-4487-b847-4ef26ad5ecad.jpg?1636683941|https://scryfall.com/card/mid/216/dawnhart-wardens?utm_source=api>`
+:mtgtip:`Dawnhart Wardens<https://cards.scryfall.io/border_crop/front/7/e/7eb2f0a7-f3a6-4487-b847-4ef26ad5ecad.jpg?1636683941|https://scryfall.com/card/mid/216/dawnhart-wardens?utm_source=api>`
    Vigilance
 
    Coven — At the beginning of combat on your turn, if you control three or more creatures with different powers, creatures you control get +1/+0 until end of turn.
 
 
-:mtgtip:`Dennick, Pious Apprentice<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/5/35cf2d72-931f-47b1-a1b4-916f0383551a.jpg?1636683976|https://scryfall.com/card/mid/217/dennick-pious-apprentice-dennick-pious-apparition?utm_source=api>`
+:mtgtip:`Dennick, Pious Apprentice<https://cards.scryfall.io/border_crop/front/3/5/35cf2d72-931f-47b1-a1b4-916f0383551a.jpg?1636683976|https://scryfall.com/card/mid/217/dennick-pious-apprentice-dennick-pious-apparition?utm_source=api>`
    Lifelink
 
    Cards in graveyards can't be the targets of spells or abilities.
@@ -1567,7 +1567,7 @@
    Disturb |mana_2|\ |mana_w|\ |mana_u| (You may cast this card from your graveyard transformed for its disturb cost.)
 
 
-:mtgtip:`Dennick, Pious Apparition<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/3/5/35cf2d72-931f-47b1-a1b4-916f0383551a.jpg?1636683976|https://scryfall.com/card/mid/217/dennick-pious-apprentice-dennick-pious-apparition?utm_source=api>`
+:mtgtip:`Dennick, Pious Apparition<https://cards.scryfall.io/border_crop/back/3/5/35cf2d72-931f-47b1-a1b4-916f0383551a.jpg?1636683976|https://scryfall.com/card/mid/217/dennick-pious-apprentice-dennick-pious-apparition?utm_source=api>`
    Flying
 
    Whenever one or more creature cards are put into graveyards from anywhere, investigate. This ability triggers only once each turn. (Create a Clue token. It's an artifact with "|mana_2|, Sacrifice this artifact: Draw a card.")
@@ -1575,7 +1575,7 @@
    If Dennick, Pious Apparition would be put into a graveyard from anywhere, exile it instead.
 
 
-:mtgtip:`Devoted Grafkeeper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/6/965e6bd5-dc32-406c-bc99-ceb15be4d3f2.jpg?1636684052|https://scryfall.com/card/mid/218/devoted-grafkeeper-departed-soulkeeper?utm_source=api>`
+:mtgtip:`Devoted Grafkeeper<https://cards.scryfall.io/border_crop/front/9/6/965e6bd5-dc32-406c-bc99-ceb15be4d3f2.jpg?1636684052|https://scryfall.com/card/mid/218/devoted-grafkeeper-departed-soulkeeper?utm_source=api>`
    When Devoted Grafkeeper enters the battlefield, mill two cards.
 
    Whenever you cast a spell from your graveyard, tap target creature you don't control.
@@ -1583,7 +1583,7 @@
    Disturb |mana_1|\ |mana_w|\ |mana_u| (You may cast this card from your graveyard transformed for its disturb cost.)
 
 
-:mtgtip:`Departed Soulkeeper<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/9/6/965e6bd5-dc32-406c-bc99-ceb15be4d3f2.jpg?1636684052|https://scryfall.com/card/mid/218/devoted-grafkeeper-departed-soulkeeper?utm_source=api>`
+:mtgtip:`Departed Soulkeeper<https://cards.scryfall.io/border_crop/back/9/6/965e6bd5-dc32-406c-bc99-ceb15be4d3f2.jpg?1636684052|https://scryfall.com/card/mid/218/devoted-grafkeeper-departed-soulkeeper?utm_source=api>`
    Flying
 
    Departed Soulkeeper can block only creatures with flying.
@@ -1591,13 +1591,13 @@
    If Departed Soulkeeper would be put into a graveyard from anywhere, exile it instead.
 
 
-:mtgtip:`Dire-Strain Rampage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/f/0f4a7c01-95ca-43bf-bc53-875cfb4bffa1.jpg?1636684088|https://scryfall.com/card/mid/219/dire-strain-rampage?utm_source=api>`
+:mtgtip:`Dire-Strain Rampage<https://cards.scryfall.io/border_crop/front/0/f/0f4a7c01-95ca-43bf-bc53-875cfb4bffa1.jpg?1636684088|https://scryfall.com/card/mid/219/dire-strain-rampage?utm_source=api>`
    Destroy target artifact, enchantment, or land. If a land was destroyed this way, its controller may search their library for up to two basic land cards, put them onto the battlefield tapped, then shuffle. Otherwise, its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
    Flashback |mana_3|\ |mana_r|\ |mana_g|
 
 
-:mtgtip:`Diregraf Rebirth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/5/b51ed1ea-661e-49c6-9751-1eb7bb651bb1.jpg?1636684125|https://scryfall.com/card/mid/220/diregraf-rebirth?utm_source=api>`
+:mtgtip:`Diregraf Rebirth<https://cards.scryfall.io/border_crop/front/b/5/b51ed1ea-661e-49c6-9751-1eb7bb651bb1.jpg?1636684125|https://scryfall.com/card/mid/220/diregraf-rebirth?utm_source=api>`
    This spell costs |mana_1| less to cast for each creature that died this turn.
 
    Return target creature card from your graveyard to the battlefield.
@@ -1605,61 +1605,61 @@
    Flashback |mana_5|\ |mana_b|\ |mana_g| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
-:mtgtip:`Faithful Mending<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/0/50752ca9-ea85-4c4b-9bf5-4f8759a7dcec.jpg?1636684159|https://scryfall.com/card/mid/221/faithful-mending?utm_source=api>`
+:mtgtip:`Faithful Mending<https://cards.scryfall.io/border_crop/front/5/0/50752ca9-ea85-4c4b-9bf5-4f8759a7dcec.jpg?1636684159|https://scryfall.com/card/mid/221/faithful-mending?utm_source=api>`
    You gain 2 life, draw two cards, then discard two cards.
 
    Flashback |mana_1|\ |mana_w|\ |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
-:mtgtip:`Fleshtaker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/e/2ed8c0ef-2b53-49b5-bc2f-428628cb3975.jpg?1636684197|https://scryfall.com/card/mid/222/fleshtaker?utm_source=api>`
+:mtgtip:`Fleshtaker<https://cards.scryfall.io/border_crop/front/2/e/2ed8c0ef-2b53-49b5-bc2f-428628cb3975.jpg?1636684197|https://scryfall.com/card/mid/222/fleshtaker?utm_source=api>`
    Whenever you sacrifice another creature, you gain 1 life and scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
 
    |mana_1|, Sacrifice another creature: Fleshtaker gets +2/+2 until end of turn.
 
 
-:mtgtip:`Florian, Voldaren Scion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/3/53289e69-74da-46d2-91c2-a11378ba76ef.jpg?1636684231|https://scryfall.com/card/mid/223/florian-voldaren-scion?utm_source=api>`
+:mtgtip:`Florian, Voldaren Scion<https://cards.scryfall.io/border_crop/front/5/3/53289e69-74da-46d2-91c2-a11378ba76ef.jpg?1636684231|https://scryfall.com/card/mid/223/florian-voldaren-scion?utm_source=api>`
    First strike
 
    At the beginning of your postcombat main phase, look at the top X cards of your library, where X is the total amount of life your opponents lost this turn. Exile one of those cards and put the rest on the bottom of your library in a random order. You may play the exiled card this turn.
 
 
-:mtgtip:`Galvanic Iteration<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/5/a5f8ee5b-e1f5-4bc8-8ca3-d8308d71f2b9.jpg?1636684270|https://scryfall.com/card/mid/224/galvanic-iteration?utm_source=api>`
+:mtgtip:`Galvanic Iteration<https://cards.scryfall.io/border_crop/front/a/5/a5f8ee5b-e1f5-4bc8-8ca3-d8308d71f2b9.jpg?1636684270|https://scryfall.com/card/mid/224/galvanic-iteration?utm_source=api>`
    When you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.
 
    Flashback |mana_1|\ |mana_u|\ |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
-:mtgtip:`Ghoulcaller's Harvest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/a/6a507ea6-d818-4443-b468-cf65c3e7031c.jpg?1636684311|https://scryfall.com/card/mid/225/ghoulcallers-harvest?utm_source=api>`
+:mtgtip:`Ghoulcaller's Harvest<https://cards.scryfall.io/border_crop/front/6/a/6a507ea6-d818-4443-b468-cf65c3e7031c.jpg?1636684311|https://scryfall.com/card/mid/225/ghoulcallers-harvest?utm_source=api>`
    Create X 2/2 black Zombie creature tokens with decayed, where X is half the number of creature cards in your graveyard, rounded up. (A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)
 
    Flashback |mana_3|\ |mana_b|\ |mana_g| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
-:mtgtip:`Grizzly Ghoul<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/e/eec421f1-4ee8-4816-ab5c-372e87aae231.jpg?1636684344|https://scryfall.com/card/mid/226/grizzly-ghoul?utm_source=api>`
+:mtgtip:`Grizzly Ghoul<https://cards.scryfall.io/border_crop/front/e/e/eec421f1-4ee8-4816-ab5c-372e87aae231.jpg?1636684344|https://scryfall.com/card/mid/226/grizzly-ghoul?utm_source=api>`
    Trample
 
    Grizzly Ghoul enters the battlefield with a +1/+1 counter on it for each creature that died this turn.
 
 
-:mtgtip:`Hallowed Respite<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/2/f2877523-6321-47e6-8be4-755ec21676c6.jpg?1636684393|https://scryfall.com/card/mid/227/hallowed-respite?utm_source=api>`
+:mtgtip:`Hallowed Respite<https://cards.scryfall.io/border_crop/front/f/2/f2877523-6321-47e6-8be4-755ec21676c6.jpg?1636684393|https://scryfall.com/card/mid/227/hallowed-respite?utm_source=api>`
    Exile target nonlegendary creature, then return it to the battlefield under its owner's control. If it entered under your control, put a +1/+1 counter on it. Otherwise, tap it.
 
    Flashback |mana_1|\ |mana_w|\ |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
-:mtgtip:`Hungry for More<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/e/ce09c0df-d022-4ebf-8f7f-8a913249e75f.jpg?1636684429|https://scryfall.com/card/mid/228/hungry-for-more?utm_source=api>`
+:mtgtip:`Hungry for More<https://cards.scryfall.io/border_crop/front/c/e/ce09c0df-d022-4ebf-8f7f-8a913249e75f.jpg?1636684429|https://scryfall.com/card/mid/228/hungry-for-more?utm_source=api>`
    Create a 3/1 black and red Vampire creature token with trample, lifelink, and haste. Sacrifice it at the beginning of the next end step.
 
    Flashback |mana_1|\ |mana_b|\ |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
-:mtgtip:`Join the Dance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/6/56b30a99-601b-40b9-b012-30fa4be5fd3c.jpg?1636684458|https://scryfall.com/card/mid/229/join-the-dance?utm_source=api>`
+:mtgtip:`Join the Dance<https://cards.scryfall.io/border_crop/front/5/6/56b30a99-601b-40b9-b012-30fa4be5fd3c.jpg?1636684458|https://scryfall.com/card/mid/229/join-the-dance?utm_source=api>`
    Create two 1/1 white Human creature tokens.
 
    Flashback |mana_3|\ |mana_g|\ |mana_w| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
-:mtgtip:`Katilda, Dawnhart Prime<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/7/673cd775-d417-4652-a91d-825ad5c89e8a.jpg?1636684486|https://scryfall.com/card/mid/230/katilda-dawnhart-prime?utm_source=api>`
+:mtgtip:`Katilda, Dawnhart Prime<https://cards.scryfall.io/border_crop/front/6/7/673cd775-d417-4652-a91d-825ad5c89e8a.jpg?1636684486|https://scryfall.com/card/mid/230/katilda-dawnhart-prime?utm_source=api>`
    Protection from Werewolves
 
    Human creatures you control have "|tap|: Add one mana of any of this creature's colors."
@@ -1667,13 +1667,13 @@
    |mana_4|\ |mana_g|\ |mana_w|, |tap|: Put a +1/+1 counter on each creature you control.
 
 
-:mtgtip:`Kessig Naturalist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/a/8ab5f2e6-0e0a-4f7d-a959-3d07948ff317.jpg?1636684556|https://scryfall.com/card/mid/231/kessig-naturalist-lord-of-the-ulvenwald?utm_source=api>`
+:mtgtip:`Kessig Naturalist<https://cards.scryfall.io/border_crop/front/8/a/8ab5f2e6-0e0a-4f7d-a959-3d07948ff317.jpg?1636684556|https://scryfall.com/card/mid/231/kessig-naturalist-lord-of-the-ulvenwald?utm_source=api>`
    Whenever Kessig Naturalist attacks, add |mana_r| or |mana_g|. Until end of turn, you don't lose this mana as steps and phases end.
 
    Daybound (If a player casts no spells during their own turn, it becomes night next turn.)
 
 
-:mtgtip:`Lord of the Ulvenwald<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/8/a/8ab5f2e6-0e0a-4f7d-a959-3d07948ff317.jpg?1636684556|https://scryfall.com/card/mid/231/kessig-naturalist-lord-of-the-ulvenwald?utm_source=api>`
+:mtgtip:`Lord of the Ulvenwald<https://cards.scryfall.io/border_crop/back/8/a/8ab5f2e6-0e0a-4f7d-a959-3d07948ff317.jpg?1636684556|https://scryfall.com/card/mid/231/kessig-naturalist-lord-of-the-ulvenwald?utm_source=api>`
    Other Wolves and Werewolves you control get +1/+1.
 
    Whenever Lord of the Ulvenwald attacks, add |mana_r| or |mana_g|. Until end of turn, you don't lose this mana as steps and phases end.
@@ -1681,7 +1681,7 @@
    Nightbound (If a player casts at least two spells during their own turn, it becomes day next turn.)
 
 
-:mtgtip:`Liesa, Forgotten Archangel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/3/532fca6b-f788-43f8-b29f-7273e7a48449.jpg?1636684609|https://scryfall.com/card/mid/232/liesa-forgotten-archangel?utm_source=api>`
+:mtgtip:`Liesa, Forgotten Archangel<https://cards.scryfall.io/border_crop/front/5/3/532fca6b-f788-43f8-b29f-7273e7a48449.jpg?1636684609|https://scryfall.com/card/mid/232/liesa-forgotten-archangel?utm_source=api>`
    Flying, lifelink
 
    Whenever another nontoken creature you control dies, return that card to its owner's hand at the beginning of the next end step.
@@ -1689,23 +1689,23 @@
    If a creature an opponent controls would die, exile it instead.
 
 
-:mtgtip:`Ludevic, Necrogenius<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/8/788288f6-7944-48f4-91b0-f452e209c9ce.jpg?1636684654|https://scryfall.com/card/mid/233/ludevic-necrogenius-olag-ludevics-hubris?utm_source=api>`
+:mtgtip:`Ludevic, Necrogenius<https://cards.scryfall.io/border_crop/front/7/8/788288f6-7944-48f4-91b0-f452e209c9ce.jpg?1636684654|https://scryfall.com/card/mid/233/ludevic-necrogenius-olag-ludevics-hubris?utm_source=api>`
    Whenever Ludevic, Necrogenius enters the battlefield or attacks, mill a card.
 
    |mana_x|\ |mana_u|\ |mana_u|\ |mana_b|\ |mana_b|, Exile X creature cards from your graveyard: Transform Ludevic. X can't be 0. Activate only as a sorcery.
 
 
-:mtgtip:`Olag, Ludevic's Hubris<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/7/8/788288f6-7944-48f4-91b0-f452e209c9ce.jpg?1636684654|https://scryfall.com/card/mid/233/ludevic-necrogenius-olag-ludevics-hubris?utm_source=api>`
+:mtgtip:`Olag, Ludevic's Hubris<https://cards.scryfall.io/border_crop/back/7/8/788288f6-7944-48f4-91b0-f452e209c9ce.jpg?1636684654|https://scryfall.com/card/mid/233/ludevic-necrogenius-olag-ludevics-hubris?utm_source=api>`
    As this creature transforms into Olag, Ludevic's Hubris, it becomes a copy of a creature card exiled with it, except its name is Olag, Ludevic's Hubris, it's 4/4, and it's a legendary blue and black Zombie in addition to its other colors and types. Put a number of +1/+1 counters on Olag equal to the number of creature cards exiled with it.
 
 
-:mtgtip:`Old Stickfingers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/2/b203be6f-c565-4d8f-b200-b537569a0292.jpg?1636684695|https://scryfall.com/card/mid/234/old-stickfingers?utm_source=api>`
+:mtgtip:`Old Stickfingers<https://cards.scryfall.io/border_crop/front/b/2/b203be6f-c565-4d8f-b200-b537569a0292.jpg?1636684695|https://scryfall.com/card/mid/234/old-stickfingers?utm_source=api>`
    When you cast this spell, reveal cards from the top of your library until you reveal X creature cards. Put all creature cards revealed this way into your graveyard, then put the rest on the bottom of your library in a random order.
 
    Old Stickfingers's power and toughness are each equal to the number of creature cards in your graveyard.
 
 
-:mtgtip:`Rem Karolus, Stalwart Slayer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/3/b31e307a-9689-4e11-8c5f-96b7a4b50bed.jpg?1636684729|https://scryfall.com/card/mid/235/rem-karolus-stalwart-slayer?utm_source=api>`
+:mtgtip:`Rem Karolus, Stalwart Slayer<https://cards.scryfall.io/border_crop/front/b/3/b31e307a-9689-4e11-8c5f-96b7a4b50bed.jpg?1636684729|https://scryfall.com/card/mid/235/rem-karolus-stalwart-slayer?utm_source=api>`
    Flying, haste
 
    If a spell would deal damage to you or another permanent you control, prevent that damage.
@@ -1713,13 +1713,13 @@
    If a spell would deal damage to an opponent or a permanent an opponent controls, it deals that much damage plus 1 instead.
 
 
-:mtgtip:`Rite of Harmony<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/b/eb1a16f9-13d4-4188-8e1e-0f2394349c7a.jpg?1636684763|https://scryfall.com/card/mid/236/rite-of-harmony?utm_source=api>`
+:mtgtip:`Rite of Harmony<https://cards.scryfall.io/border_crop/front/e/b/eb1a16f9-13d4-4188-8e1e-0f2394349c7a.jpg?1636684763|https://scryfall.com/card/mid/236/rite-of-harmony?utm_source=api>`
    Whenever a creature or enchantment enters the battlefield under your control this turn, draw a card.
 
    Flashback |mana_2|\ |mana_g|\ |mana_w| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
-:mtgtip:`Rite of Oblivion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/e/fe1f8d52-565e-4900-8357-fd29f2022dc1.jpg?1636684799|https://scryfall.com/card/mid/237/rite-of-oblivion?utm_source=api>`
+:mtgtip:`Rite of Oblivion<https://cards.scryfall.io/border_crop/front/f/e/fe1f8d52-565e-4900-8357-fd29f2022dc1.jpg?1636684799|https://scryfall.com/card/mid/237/rite-of-oblivion?utm_source=api>`
    As an additional cost to cast this spell, sacrifice a nonland permanent.
 
    Exile target nonland permanent.
@@ -1727,7 +1727,7 @@
    Flashback |mana_2|\ |mana_w|\ |mana_b| (You may cast this card from your graveyard for its flashback cost and any additional costs. Then exile it.)
 
 
-:mtgtip:`Rootcoil Creeper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/7/3743cf9c-226f-43a3-b385-375a25414792.jpg?1636684840|https://scryfall.com/card/mid/238/rootcoil-creeper?utm_source=api>`
+:mtgtip:`Rootcoil Creeper<https://cards.scryfall.io/border_crop/front/3/7/3743cf9c-226f-43a3-b385-375a25414792.jpg?1636684840|https://scryfall.com/card/mid/238/rootcoil-creeper?utm_source=api>`
    |tap|: Add one mana of any color.
 
    |tap|: Add two mana of any one color. Spend this mana only to cast spells from your graveyard.
@@ -1735,13 +1735,13 @@
    |mana_g|\ |mana_u|, |tap|, Exile Rootcoil Creeper: Return target card with flashback you own from exile to your hand.
 
 
-:mtgtip:`Sacred Fire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/0/c0b1dcd7-6dd9-4134-bc6c-9dc7754006a2.jpg?1636684880|https://scryfall.com/card/mid/239/sacred-fire?utm_source=api>`
+:mtgtip:`Sacred Fire<https://cards.scryfall.io/border_crop/front/c/0/c0b1dcd7-6dd9-4134-bc6c-9dc7754006a2.jpg?1636684880|https://scryfall.com/card/mid/239/sacred-fire?utm_source=api>`
    Sacred Fire deals 2 damage to any target and you gain 2 life.
 
    Flashback |mana_4|\ |mana_r|\ |mana_w| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
-:mtgtip:`Sigarda, Champion of Light<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/c/5c6cf357-c231-4512-aa9a-ab4a60007136.jpg?1636684917|https://scryfall.com/card/mid/240/sigarda-champion-of-light?utm_source=api>`
+:mtgtip:`Sigarda, Champion of Light<https://cards.scryfall.io/border_crop/front/5/c/5c6cf357-c231-4512-aa9a-ab4a60007136.jpg?1636684917|https://scryfall.com/card/mid/240/sigarda-champion-of-light?utm_source=api>`
    Flying, trample
 
    Humans you control get +1/+1.
@@ -1749,13 +1749,13 @@
    Coven — Whenever Sigarda attacks, if you control three or more creatures with different powers, look at the top five cards of your library. You may reveal a Human creature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
 
 
-:mtgtip:`Siphon Insight<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/3/d329e2d4-e483-4981-8a0b-6a9a717d50cd.jpg?1636684959|https://scryfall.com/card/mid/241/siphon-insight?utm_source=api>`
+:mtgtip:`Siphon Insight<https://cards.scryfall.io/border_crop/front/d/3/d329e2d4-e483-4981-8a0b-6a9a717d50cd.jpg?1636684959|https://scryfall.com/card/mid/241/siphon-insight?utm_source=api>`
    Look at the top two cards of target opponent's library. Exile one of them face down and put the other on the bottom of that library. You may look at and play the exiled card for as long as it remains exiled, and you may spend mana as though it were mana of any color to cast that spell.
 
    Flashback |mana_1|\ |mana_u|\ |mana_b|
 
 
-:mtgtip:`Slogurk, the Overslime<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/9/f94e888b-6eeb-4ef3-ab21-5ed2bf0036a3.jpg?1637114233|https://scryfall.com/card/mid/242/slogurk-the-overslime?utm_source=api>`
+:mtgtip:`Slogurk, the Overslime<https://cards.scryfall.io/border_crop/front/f/9/f94e888b-6eeb-4ef3-ab21-5ed2bf0036a3.jpg?1637114233|https://scryfall.com/card/mid/242/slogurk-the-overslime?utm_source=api>`
    Trample
 
    Whenever a land card is put into your graveyard from anywhere, put a +1/+1 counter on Slogurk, the Overslime.
@@ -1765,7 +1765,7 @@
    When Slogurk leaves the battlefield, return up to three target land cards from your graveyard to your hand.
 
 
-:mtgtip:`Storm Skreelix<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/c/6c49618f-2e9e-4674-9953-153ccc76cce2.jpg?1637114260|https://scryfall.com/card/mid/243/storm-skreelix?utm_source=api>`
+:mtgtip:`Storm Skreelix<https://cards.scryfall.io/border_crop/front/6/c/6c49618f-2e9e-4674-9953-153ccc76cce2.jpg?1637114260|https://scryfall.com/card/mid/243/storm-skreelix?utm_source=api>`
    Flying
 
    Instant and sorcery spells you cast cost |mana_1| less to cast.
@@ -1773,7 +1773,7 @@
    Whenever you cast an instant or sorcery spell, Storm Skreelix gets +2/+0 until end of turn.
 
 
-:mtgtip:`Sunrise Cavalier<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/d/3d0081b1-40fd-44ad-b154-efe2f27fed6b.jpg?1637114286|https://scryfall.com/card/mid/244/sunrise-cavalier?utm_source=api>`
+:mtgtip:`Sunrise Cavalier<https://cards.scryfall.io/border_crop/front/3/d/3d0081b1-40fd-44ad-b154-efe2f27fed6b.jpg?1637114286|https://scryfall.com/card/mid/244/sunrise-cavalier?utm_source=api>`
    Trample, haste
 
    If it's neither day nor night, it becomes day as Sunrise Cavalier enters the battlefield.
@@ -1781,7 +1781,7 @@
    Whenever day becomes night or night becomes day, put a +1/+1 counter on target creature you control.
 
 
-:mtgtip:`Teferi, Who Slows the Sunset<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/d/ad2e18d4-986c-4a44-8f26-1b8689339cfb.jpg?1637114314|https://scryfall.com/card/mid/245/teferi-who-slows-the-sunset?utm_source=api>`
+:mtgtip:`Teferi, Who Slows the Sunset<https://cards.scryfall.io/border_crop/front/a/d/ad2e18d4-986c-4a44-8f26-1b8689339cfb.jpg?1637114314|https://scryfall.com/card/mid/245/teferi-who-slows-the-sunset?utm_source=api>`
    +1: Choose up to one target artifact, up to one target creature, and up to one target land. Untap the chosen permanents you control. Tap the chosen permanents you don't control. You gain 2 life.
 
    −2: Look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.
@@ -1789,7 +1789,7 @@
    −7: You get an emblem with "Untap all permanents you control during each opponent's untap step" and "You draw a card during each opponent's draw step."
 
 
-:mtgtip:`Tovolar, Dire Overlord<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/9/f953fad3-0cd1-48aa-8ed9-d7d2e293e6e2.jpg?1637114341|https://scryfall.com/card/mid/246/tovolar-dire-overlord-tovolar-the-midnight-scourge?utm_source=api>`
+:mtgtip:`Tovolar, Dire Overlord<https://cards.scryfall.io/border_crop/front/f/9/f953fad3-0cd1-48aa-8ed9-d7d2e293e6e2.jpg?1637114341|https://scryfall.com/card/mid/246/tovolar-dire-overlord-tovolar-the-midnight-scourge?utm_source=api>`
    Whenever a Wolf or Werewolf you control deals combat damage to a player, draw a card.
 
    At the beginning of your upkeep, if you control three or more Wolves and/or Werewolves, it becomes night. Then transform any number of Human Werewolves you control.
@@ -1797,7 +1797,7 @@
    Daybound
 
 
-:mtgtip:`Tovolar, the Midnight Scourge<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/f/9/f953fad3-0cd1-48aa-8ed9-d7d2e293e6e2.jpg?1637114341|https://scryfall.com/card/mid/246/tovolar-dire-overlord-tovolar-the-midnight-scourge?utm_source=api>`
+:mtgtip:`Tovolar, the Midnight Scourge<https://cards.scryfall.io/border_crop/back/f/9/f953fad3-0cd1-48aa-8ed9-d7d2e293e6e2.jpg?1637114341|https://scryfall.com/card/mid/246/tovolar-dire-overlord-tovolar-the-midnight-scourge?utm_source=api>`
    Whenever a Wolf or Werewolf you control deals combat damage to a player, draw a card.
 
    |mana_x|\ |mana_r|\ |mana_g|: Target Wolf or Werewolf you control gets +X/+0 and gains trample until end of turn.
@@ -1805,13 +1805,13 @@
    Nightbound
 
 
-:mtgtip:`Unnatural Moonrise<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bfdd9df1-6a3b-4f03-8eca-00ed22c02566.jpg?1637114368|https://scryfall.com/card/mid/247/unnatural-moonrise?utm_source=api>`
+:mtgtip:`Unnatural Moonrise<https://cards.scryfall.io/border_crop/front/b/f/bfdd9df1-6a3b-4f03-8eca-00ed22c02566.jpg?1637114368|https://scryfall.com/card/mid/247/unnatural-moonrise?utm_source=api>`
    It becomes night. Until end of turn, target creature gets +1/+0 and gains trample and "Whenever this creature deals combat damage to a player, draw a card."
 
    Flashback |mana_2|\ |mana_r|\ |mana_g| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
-:mtgtip:`Vadrik, Astral Archmage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/5/454666bb-f81d-4845-84aa-d6f8f80ce86a.jpg?1637114399|https://scryfall.com/card/mid/248/vadrik-astral-archmage?utm_source=api>`
+:mtgtip:`Vadrik, Astral Archmage<https://cards.scryfall.io/border_crop/front/4/5/454666bb-f81d-4845-84aa-d6f8f80ce86a.jpg?1637114399|https://scryfall.com/card/mid/248/vadrik-astral-archmage?utm_source=api>`
    If it's neither day nor night, it becomes day as Vadrik, Astral Archmage enters the battlefield.
 
    Instant and sorcery spells you cast cost |mana_x| less to cast, where X is Vadrik's power.
@@ -1819,7 +1819,7 @@
    Whenever day becomes night or night becomes day, put a +1/+1 counter on Vadrik.
 
 
-:mtgtip:`Vampire Socialite<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/0/f07cbf04-2864-4407-800e-4d55c10d3426.jpg?1637114433|https://scryfall.com/card/mid/249/vampire-socialite?utm_source=api>`
+:mtgtip:`Vampire Socialite<https://cards.scryfall.io/border_crop/front/f/0/f07cbf04-2864-4407-800e-4d55c10d3426.jpg?1637114433|https://scryfall.com/card/mid/249/vampire-socialite?utm_source=api>`
    Menace (This creature can't be blocked except by two or more creatures.)
 
    When Vampire Socialite enters the battlefield, if an opponent lost life this turn, put a +1/+1 counter on each other Vampire you control.
@@ -1827,19 +1827,19 @@
    As long as an opponent lost life this turn, each other Vampire you control enters the battlefield with an additional +1/+1 counter on it.
 
 
-:mtgtip:`Wake to Slaughter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/f/7f02a544-716c-4f09-8ae9-dbfe7ef136d7.jpg?1637114457|https://scryfall.com/card/mid/250/wake-to-slaughter?utm_source=api>`
+:mtgtip:`Wake to Slaughter<https://cards.scryfall.io/border_crop/front/7/f/7f02a544-716c-4f09-8ae9-dbfe7ef136d7.jpg?1637114457|https://scryfall.com/card/mid/250/wake-to-slaughter?utm_source=api>`
    Choose up to two target creature cards in your graveyard. An opponent chooses one of them. Return that card to your hand. Return the other to the battlefield under your control. It gains haste. Exile it at the beginning of the next end step.
 
    Flashback |mana_4|\ |mana_b|\ |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
-:mtgtip:`Winterthorn Blessing<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/1/f1e9edd3-151d-4bf6-b491-03db9db32234.jpg?1637114483|https://scryfall.com/card/mid/251/winterthorn-blessing?utm_source=api>`
+:mtgtip:`Winterthorn Blessing<https://cards.scryfall.io/border_crop/front/f/1/f1e9edd3-151d-4bf6-b491-03db9db32234.jpg?1637114483|https://scryfall.com/card/mid/251/winterthorn-blessing?utm_source=api>`
    Put a +1/+1 counter on up to one target creature you control. Tap up to one target creature you don't control, and that creature doesn't untap during its controller's next untap step.
 
    Flashback |mana_1|\ |mana_g|\ |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
-:mtgtip:`The Celestus<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/9/39226a07-d44e-41a6-b9f1-685ef505d015.jpg?1637114509|https://scryfall.com/card/mid/252/the-celestus?utm_source=api>`
+:mtgtip:`The Celestus<https://cards.scryfall.io/border_crop/front/3/9/39226a07-d44e-41a6-b9f1-685ef505d015.jpg?1637114509|https://scryfall.com/card/mid/252/the-celestus?utm_source=api>`
    If it's neither day nor night, it becomes day as The Celestus enters the battlefield.
 
    |tap|: Add one mana of any color.
@@ -1849,114 +1849,114 @@
    Whenever day becomes night or night becomes day, you gain 1 life. You may draw a card. If you do, discard a card.
 
 
-:mtgtip:`Crossroads Candleguide<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/c/5cad1524-9e75-47e0-b817-47110634802a.jpg?1637114536|https://scryfall.com/card/mid/253/crossroads-candleguide?utm_source=api>`
+:mtgtip:`Crossroads Candleguide<https://cards.scryfall.io/border_crop/front/5/c/5cad1524-9e75-47e0-b817-47110634802a.jpg?1637114536|https://scryfall.com/card/mid/253/crossroads-candleguide?utm_source=api>`
    When Crossroads Candleguide enters the battlefield, exile up to one target card from a graveyard.
 
    |mana_2|: Add one mana of any color.
 
 
-:mtgtip:`Jack-o'-Lantern<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/1/21b589ab-45a0-480a-a891-581c34f8a9bf.jpg?1637114561|https://scryfall.com/card/mid/254/jack-o-lantern?utm_source=api>`
+:mtgtip:`Jack-o'-Lantern<https://cards.scryfall.io/border_crop/front/2/1/21b589ab-45a0-480a-a891-581c34f8a9bf.jpg?1637114561|https://scryfall.com/card/mid/254/jack-o-lantern?utm_source=api>`
    |mana_1|, |tap|, Sacrifice Jack-o'-Lantern: Exile up to one target card from a graveyard. Draw a card.
 
    |mana_1|, Exile Jack-o'-Lantern from your graveyard: Add one mana of any color.
 
 
-:mtgtip:`Moonsilver Key<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/7/87778e37-af92-402e-b037-5fbd6112b682.jpg?1637114586|https://scryfall.com/card/mid/255/moonsilver-key?utm_source=api>`
+:mtgtip:`Moonsilver Key<https://cards.scryfall.io/border_crop/front/8/7/87778e37-af92-402e-b037-5fbd6112b682.jpg?1637114586|https://scryfall.com/card/mid/255/moonsilver-key?utm_source=api>`
    |mana_1|, |tap|, Sacrifice Moonsilver Key: Search your library for an artifact card with a mana ability or a basic land card, reveal it, put it into your hand, then shuffle.
 
 
-:mtgtip:`Mystic Skull<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/1/115a9a44-131d-45f3-852a-40fd18e4afb6.jpg?1637114632|https://scryfall.com/card/mid/256/mystic-skull-mystic-monstrosity?utm_source=api>`
+:mtgtip:`Mystic Skull<https://cards.scryfall.io/border_crop/front/1/1/115a9a44-131d-45f3-852a-40fd18e4afb6.jpg?1637114632|https://scryfall.com/card/mid/256/mystic-skull-mystic-monstrosity?utm_source=api>`
    |mana_1|, |tap|: Add one mana of any color.
 
    |mana_5|, |tap|: Transform Mystic Skull.
 
 
-:mtgtip:`Mystic Monstrosity<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/1/1/115a9a44-131d-45f3-852a-40fd18e4afb6.jpg?1637114632|https://scryfall.com/card/mid/256/mystic-skull-mystic-monstrosity?utm_source=api>`
+:mtgtip:`Mystic Monstrosity<https://cards.scryfall.io/border_crop/back/1/1/115a9a44-131d-45f3-852a-40fd18e4afb6.jpg?1637114632|https://scryfall.com/card/mid/256/mystic-skull-mystic-monstrosity?utm_source=api>`
    Lands you control have "|tap|: Add one mana of any color."
 
 
-:mtgtip:`Pithing Needle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/5/556ec6ab-a19f-4caa-8bfa-145555402caf.jpg?1637114660|https://scryfall.com/card/mid/257/pithing-needle?utm_source=api>`
+:mtgtip:`Pithing Needle<https://cards.scryfall.io/border_crop/front/5/5/556ec6ab-a19f-4caa-8bfa-145555402caf.jpg?1637114660|https://scryfall.com/card/mid/257/pithing-needle?utm_source=api>`
    As Pithing Needle enters the battlefield, choose a card name.
 
    Activated abilities of sources with the chosen name can't be activated unless they're mana abilities.
 
 
-:mtgtip:`Silver Bolt<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/b/eb2c05a8-db56-4397-9b6c-5accb2d3f81f.jpg?1637114684|https://scryfall.com/card/mid/258/silver-bolt?utm_source=api>`
+:mtgtip:`Silver Bolt<https://cards.scryfall.io/border_crop/front/e/b/eb2c05a8-db56-4397-9b6c-5accb2d3f81f.jpg?1637114684|https://scryfall.com/card/mid/258/silver-bolt?utm_source=api>`
    |mana_3|, |tap|, Sacrifice Silver Bolt: It deals 3 damage to target creature. If a Werewolf is dealt damage this way, destroy it.
 
 
-:mtgtip:`Stuffed Bear<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/c/4cd40276-016b-475f-906f-74d31dceaf70.jpg?1637114713|https://scryfall.com/card/mid/259/stuffed-bear?utm_source=api>`
+:mtgtip:`Stuffed Bear<https://cards.scryfall.io/border_crop/front/4/c/4cd40276-016b-475f-906f-74d31dceaf70.jpg?1637114713|https://scryfall.com/card/mid/259/stuffed-bear?utm_source=api>`
    |mana_2|: Stuffed Bear becomes a 4/4 green Bear artifact creature until end of turn.
 
 
-:mtgtip:`Deserted Beach<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/8/38367ee5-154b-44cb-8974-422038d039df.jpg?1655879794|https://scryfall.com/card/mid/260/deserted-beach?utm_source=api>`
+:mtgtip:`Deserted Beach<https://cards.scryfall.io/border_crop/front/3/8/38367ee5-154b-44cb-8974-422038d039df.jpg?1655879794|https://scryfall.com/card/mid/260/deserted-beach?utm_source=api>`
    Deserted Beach enters the battlefield tapped unless you control two or more other lands.
 
    |tap|: Add |mana_w| or |mana_u|.
 
 
-:mtgtip:`Evolving Wilds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/b/cb471f90-46f2-4037-87fc-f523fc9d004f.jpg?1637114771|https://scryfall.com/card/mid/261/evolving-wilds?utm_source=api>`
+:mtgtip:`Evolving Wilds<https://cards.scryfall.io/border_crop/front/c/b/cb471f90-46f2-4037-87fc-f523fc9d004f.jpg?1637114771|https://scryfall.com/card/mid/261/evolving-wilds?utm_source=api>`
    |tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
 
-:mtgtip:`Field of Ruin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/5/d510eece-4f55-4198-83fe-5291a76ffdcc.jpg?1637114800|https://scryfall.com/card/mid/262/field-of-ruin?utm_source=api>`
+:mtgtip:`Field of Ruin<https://cards.scryfall.io/border_crop/front/d/5/d510eece-4f55-4198-83fe-5291a76ffdcc.jpg?1637114800|https://scryfall.com/card/mid/262/field-of-ruin?utm_source=api>`
    |tap|: Add |colorless|.
 
    |mana_2|, |tap|, Sacrifice Field of Ruin: Destroy target nonbasic land an opponent controls. Each player searches their library for a basic land card, puts it onto the battlefield, then shuffles.
 
 
-:mtgtip:`Haunted Ridge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/2/b200e822-be36-4e59-bd0e-9d0188a68df8.jpg?1655879799|https://scryfall.com/card/mid/263/haunted-ridge?utm_source=api>`
+:mtgtip:`Haunted Ridge<https://cards.scryfall.io/border_crop/front/b/2/b200e822-be36-4e59-bd0e-9d0188a68df8.jpg?1655879799|https://scryfall.com/card/mid/263/haunted-ridge?utm_source=api>`
    Haunted Ridge enters the battlefield tapped unless you control two or more other lands.
 
    |tap|: Add |mana_b| or |mana_r|.
 
 
-:mtgtip:`Hostile Hostel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/c/ac83c27f-55d6-4e5a-93a4-febb0c183289.jpg?1637114882|https://scryfall.com/card/mid/264/hostile-hostel-creeping-inn?utm_source=api>`
+:mtgtip:`Hostile Hostel<https://cards.scryfall.io/border_crop/front/a/c/ac83c27f-55d6-4e5a-93a4-febb0c183289.jpg?1637114882|https://scryfall.com/card/mid/264/hostile-hostel-creeping-inn?utm_source=api>`
    |tap|: Add |colorless|.
 
    |mana_1|, |tap|, Sacrifice a creature: Put a soul counter on Hostile Hostel. Then if there are three or more soul counters on it, remove those counters, transform it, then untap it. Activate only as a sorcery.
 
 
-:mtgtip:`Creeping Inn<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/a/c/ac83c27f-55d6-4e5a-93a4-febb0c183289.jpg?1637114882|https://scryfall.com/card/mid/264/hostile-hostel-creeping-inn?utm_source=api>`
+:mtgtip:`Creeping Inn<https://cards.scryfall.io/border_crop/back/a/c/ac83c27f-55d6-4e5a-93a4-febb0c183289.jpg?1637114882|https://scryfall.com/card/mid/264/hostile-hostel-creeping-inn?utm_source=api>`
    Whenever Creeping Inn attacks, you may exile a creature card from your graveyard. If you do, each opponent loses X life and you gain X life, where X is the number of creature cards exiled with Creeping Inn.
 
    |mana_4|: Creeping Inn phases out.
 
 
-:mtgtip:`Overgrown Farmland<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/4/84a76e0f-49fc-4087-8859-98f4a4deacdf.jpg?1655879808|https://scryfall.com/card/mid/265/overgrown-farmland?utm_source=api>`
+:mtgtip:`Overgrown Farmland<https://cards.scryfall.io/border_crop/front/8/4/84a76e0f-49fc-4087-8859-98f4a4deacdf.jpg?1655879808|https://scryfall.com/card/mid/265/overgrown-farmland?utm_source=api>`
    Overgrown Farmland enters the battlefield tapped unless you control two or more other lands.
 
    |tap|: Add |mana_g| or |mana_w|.
 
 
-:mtgtip:`Rockfall Vale<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/a/eaff0a1e-b65a-422f-8f9f-65fac037047d.jpg?1655879806|https://scryfall.com/card/mid/266/rockfall-vale?utm_source=api>`
+:mtgtip:`Rockfall Vale<https://cards.scryfall.io/border_crop/front/e/a/eaff0a1e-b65a-422f-8f9f-65fac037047d.jpg?1655879806|https://scryfall.com/card/mid/266/rockfall-vale?utm_source=api>`
    Rockfall Vale enters the battlefield tapped unless you control two or more other lands.
 
    |tap|: Add |mana_r| or |mana_g|.
 
 
-:mtgtip:`Shipwreck Marsh<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/5/7579824a-6e46-442b-95ff-03fea4adbba6.jpg?1655879802|https://scryfall.com/card/mid/267/shipwreck-marsh?utm_source=api>`
+:mtgtip:`Shipwreck Marsh<https://cards.scryfall.io/border_crop/front/7/5/7579824a-6e46-442b-95ff-03fea4adbba6.jpg?1655879802|https://scryfall.com/card/mid/267/shipwreck-marsh?utm_source=api>`
    Shipwreck Marsh enters the battlefield tapped unless you control two or more other lands.
 
    |tap|: Add |mana_u| or |mana_b|.
 
 
-:mtgtip:`Plains<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/e/6ed1902d-0b09-4bbe-9059-a0779450ee05.jpg?1637114983|https://scryfall.com/card/mid/268/plains?utm_source=api>`
+:mtgtip:`Plains<https://cards.scryfall.io/border_crop/front/6/e/6ed1902d-0b09-4bbe-9059-a0779450ee05.jpg?1637114983|https://scryfall.com/card/mid/268/plains?utm_source=api>`
    (|tap|: Add |mana_w|.)
 
 
-:mtgtip:`Island<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/d/8dc3bd34-4d12-4728-a53a-b5ae434d74b0.jpg?1637115033|https://scryfall.com/card/mid/270/island?utm_source=api>`
+:mtgtip:`Island<https://cards.scryfall.io/border_crop/front/8/d/8dc3bd34-4d12-4728-a53a-b5ae434d74b0.jpg?1637115033|https://scryfall.com/card/mid/270/island?utm_source=api>`
    (|tap|: Add |mana_u|.)
 
 
-:mtgtip:`Swamp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/7/77ba59d8-c13c-4966-845f-c090e9f061cb.jpg?1637115080|https://scryfall.com/card/mid/272/swamp?utm_source=api>`
+:mtgtip:`Swamp<https://cards.scryfall.io/border_crop/front/7/7/77ba59d8-c13c-4966-845f-c090e9f061cb.jpg?1637115080|https://scryfall.com/card/mid/272/swamp?utm_source=api>`
    (|tap|: Add |mana_b|.)
 
 
-:mtgtip:`Mountain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/b/3ba24a61-e529-4490-8536-6276ea77c511.jpg?1637115137|https://scryfall.com/card/mid/274/mountain?utm_source=api>`
+:mtgtip:`Mountain<https://cards.scryfall.io/border_crop/front/3/b/3ba24a61-e529-4490-8536-6276ea77c511.jpg?1637115137|https://scryfall.com/card/mid/274/mountain?utm_source=api>`
    (|tap|: Add |mana_r|.)
 
 
-:mtgtip:`Forest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/d/ad8ff40e-2d40-4557-8209-d2c84eb4ccf2.jpg?1637115191|https://scryfall.com/card/mid/276/forest?utm_source=api>`
+:mtgtip:`Forest<https://cards.scryfall.io/border_crop/front/a/d/ad8ff40e-2d40-4557-8209-d2c84eb4ccf2.jpg?1637115191|https://scryfall.com/card/mid/276/forest?utm_source=api>`
    (|tap|: Add |mana_g|.)
 

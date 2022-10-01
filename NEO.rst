@@ -5,7 +5,7 @@
 =====================================
 
 
-:mtgtip:`Ancestral Katana<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/9/d9b1ed43-ee6c-43a2-ba94-5bf71c63e070.jpg?1654566140|https://scryfall.com/card/neo/1/ancestral-katana?utm_source=api>`
+:mtgtip:`Ancestral Katana<https://cards.scryfall.io/border_crop/front/d/9/d9b1ed43-ee6c-43a2-ba94-5bf71c63e070.jpg?1654566140|https://scryfall.com/card/neo/1/ancestral-katana?utm_source=api>`
    Whenever a Samurai or Warrior you control attacks alone, you may pay |mana_1|. When you do, attach Ancestral Katana to it.
 
    Equipped creature gets +2/+1.
@@ -13,7 +13,7 @@
    Equip |mana_3| (|mana_3|: Attach to target creature you control. Equip only as a sorcery.)
 
 
-:mtgtip:`Ao, the Dawn Sky<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/d/8d2c4063-7322-4041-a870-b95598a03e29.jpg?1654566143|https://scryfall.com/card/neo/2/ao-the-dawn-sky?utm_source=api>`
+:mtgtip:`Ao, the Dawn Sky<https://cards.scryfall.io/border_crop/front/8/d/8d2c4063-7322-4041-a870-b95598a03e29.jpg?1654566143|https://scryfall.com/card/neo/2/ao-the-dawn-sky?utm_source=api>`
    Flying, vigilance
 
    When Ao, the Dawn Sky dies, choose one —
@@ -23,11 +23,11 @@
    • Put two +1/+1 counters on each permanent you control that's a creature or Vehicle.
 
 
-:mtgtip:`Banishing Slash<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/4/e4b8946b-6604-49ca-98db-18a540b1b4e5.jpg?1654566160|https://scryfall.com/card/neo/3/banishing-slash?utm_source=api>`
+:mtgtip:`Banishing Slash<https://cards.scryfall.io/border_crop/front/e/4/e4b8946b-6604-49ca-98db-18a540b1b4e5.jpg?1654566160|https://scryfall.com/card/neo/3/banishing-slash?utm_source=api>`
    Destroy up to one target artifact, enchantment, or tapped creature. Then if you control an artifact and an enchantment, create a 2/2 white Samurai creature token with vigilance.
 
 
-:mtgtip:`Befriending the Moths<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/a/8ad44884-ae0d-40ae-87a9-bad043d4e9ad.jpg?1656453019|https://scryfall.com/card/neo/4/befriending-the-moths-imperial-moth?utm_source=api>`
+:mtgtip:`Befriending the Moths<https://cards.scryfall.io/border_crop/front/8/a/8ad44884-ae0d-40ae-87a9-bad043d4e9ad.jpg?1656453019|https://scryfall.com/card/neo/4/befriending-the-moths-imperial-moth?utm_source=api>`
    (As this Saga enters and after your draw step, add a lore counter.)
 
    I, II — Target creature you control gets +1/+1 and gains flying until end of turn.
@@ -35,17 +35,17 @@
    III — Exile this Saga, then return it to the battlefield transformed under your control.
 
 
-:mtgtip:`Imperial Moth<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/8/a/8ad44884-ae0d-40ae-87a9-bad043d4e9ad.jpg?1656453019|https://scryfall.com/card/neo/4/befriending-the-moths-imperial-moth?utm_source=api>`
+:mtgtip:`Imperial Moth<https://cards.scryfall.io/border_crop/back/8/a/8ad44884-ae0d-40ae-87a9-bad043d4e9ad.jpg?1656453019|https://scryfall.com/card/neo/4/befriending-the-moths-imperial-moth?utm_source=api>`
    Flying
 
 
-:mtgtip:`Blade-Blizzard Kitsune<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/8/d8419d27-8c6e-4f38-98b4-60dd9a910c43.jpg?1654566180|https://scryfall.com/card/neo/5/blade-blizzard-kitsune?utm_source=api>`
+:mtgtip:`Blade-Blizzard Kitsune<https://cards.scryfall.io/border_crop/front/d/8/d8419d27-8c6e-4f38-98b4-60dd9a910c43.jpg?1654566180|https://scryfall.com/card/neo/5/blade-blizzard-kitsune?utm_source=api>`
    Ninjutsu |mana_3|\ |mana_w| (|mana_3|\ |mana_w|, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
 
    Double strike
 
 
-:mtgtip:`Born to Drive<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/f/ffdfad1f-d316-4023-9c79-8c24f1cd31d0.jpg?1654566182|https://scryfall.com/card/neo/6/born-to-drive?utm_source=api>`
+:mtgtip:`Born to Drive<https://cards.scryfall.io/border_crop/front/f/f/ffdfad1f-d316-4023-9c79-8c24f1cd31d0.jpg?1654566182|https://scryfall.com/card/neo/6/born-to-drive?utm_source=api>`
    Enchant artifact or creature
 
    As long as enchanted permanent is a creature, it gets +1/+1 for each creature and/or Vehicle you control.
@@ -53,11 +53,11 @@
    Channel — |mana_2|\ |mana_w|, Discard Born to Drive: Create two 1/1 colorless Pilot creature tokens with "This creature crews Vehicles as though its power were 2 greater."
 
 
-:mtgtip:`Brilliant Restoration<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/4/64f7a506-0aa1-4c2d-b322-e0e9179d05fb.jpg?1654566199|https://scryfall.com/card/neo/7/brilliant-restoration?utm_source=api>`
+:mtgtip:`Brilliant Restoration<https://cards.scryfall.io/border_crop/front/6/4/64f7a506-0aa1-4c2d-b322-e0e9179d05fb.jpg?1654566199|https://scryfall.com/card/neo/7/brilliant-restoration?utm_source=api>`
    Return all artifact and enchantment cards from your graveyard to the battlefield.
 
 
-:mtgtip:`Cloudsteel Kirin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/1/a13ddda7-da6e-415e-8886-295514f862d4.jpg?1654566199|https://scryfall.com/card/neo/8/cloudsteel-kirin?utm_source=api>`
+:mtgtip:`Cloudsteel Kirin<https://cards.scryfall.io/border_crop/front/a/1/a13ddda7-da6e-415e-8886-295514f862d4.jpg?1654566199|https://scryfall.com/card/neo/8/cloudsteel-kirin?utm_source=api>`
    Flying
 
    Equipped creature has flying and "You can't lose the game and your opponents can't win the game."
@@ -65,17 +65,17 @@
    Reconfigure |mana_5| (|mana_5|: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)
 
 
-:mtgtip:`Dragonfly Suit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/9/4900862f-90f4-450b-a775-219da4ce67ef.jpg?1654566219|https://scryfall.com/card/neo/9/dragonfly-suit?utm_source=api>`
+:mtgtip:`Dragonfly Suit<https://cards.scryfall.io/border_crop/front/4/9/4900862f-90f4-450b-a775-219da4ce67ef.jpg?1654566219|https://scryfall.com/card/neo/9/dragonfly-suit?utm_source=api>`
    Flying
 
    Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)
 
 
-:mtgtip:`Eiganjo Exemplar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/b/3b0a9cc0-bb6d-47f7-b0d5-3956c46a1b3a.jpg?1654566221|https://scryfall.com/card/neo/10/eiganjo-exemplar?utm_source=api>`
+:mtgtip:`Eiganjo Exemplar<https://cards.scryfall.io/border_crop/front/3/b/3b0a9cc0-bb6d-47f7-b0d5-3956c46a1b3a.jpg?1654566221|https://scryfall.com/card/neo/10/eiganjo-exemplar?utm_source=api>`
    Whenever a Samurai or Warrior you control attacks alone, it gets +1/+1 until end of turn.
 
 
-:mtgtip:`Era of Enlightenment<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/4/74f43827-2b9b-4fc9-a6e2-c682dfbf14f7.jpg?1656453037|https://scryfall.com/card/neo/11/era-of-enlightenment-hand-of-enlightenment?utm_source=api>`
+:mtgtip:`Era of Enlightenment<https://cards.scryfall.io/border_crop/front/7/4/74f43827-2b9b-4fc9-a6e2-c682dfbf14f7.jpg?1656453037|https://scryfall.com/card/neo/11/era-of-enlightenment-hand-of-enlightenment?utm_source=api>`
    (As this Saga enters and after your draw step, add a lore counter.)
 
    I — Scry 2.
@@ -85,11 +85,11 @@
    III — Exile this Saga, then return it to the battlefield transformed under your control.
 
 
-:mtgtip:`Hand of Enlightenment<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/7/4/74f43827-2b9b-4fc9-a6e2-c682dfbf14f7.jpg?1656453037|https://scryfall.com/card/neo/11/era-of-enlightenment-hand-of-enlightenment?utm_source=api>`
+:mtgtip:`Hand of Enlightenment<https://cards.scryfall.io/border_crop/back/7/4/74f43827-2b9b-4fc9-a6e2-c682dfbf14f7.jpg?1656453037|https://scryfall.com/card/neo/11/era-of-enlightenment-hand-of-enlightenment?utm_source=api>`
    First strike
 
 
-:mtgtip:`The Fall of Lord Konda<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4d784409-df6d-45d4-8f8b-6e3fd57a8fde.jpg?1656453058|https://scryfall.com/card/neo/12/the-fall-of-lord-konda-fragment-of-konda?utm_source=api>`
+:mtgtip:`The Fall of Lord Konda<https://cards.scryfall.io/border_crop/front/4/d/4d784409-df6d-45d4-8f8b-6e3fd57a8fde.jpg?1656453058|https://scryfall.com/card/neo/12/the-fall-of-lord-konda-fragment-of-konda?utm_source=api>`
    (As this Saga enters and after your draw step, add a lore counter.)
 
    I — Exile target creature an opponent controls with mana value 4 or greater.
@@ -99,13 +99,13 @@
    III — Exile this Saga, then return it to the battlefield transformed under your control.
 
 
-:mtgtip:`Fragment of Konda<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/4/d/4d784409-df6d-45d4-8f8b-6e3fd57a8fde.jpg?1656453058|https://scryfall.com/card/neo/12/the-fall-of-lord-konda-fragment-of-konda?utm_source=api>`
+:mtgtip:`Fragment of Konda<https://cards.scryfall.io/border_crop/back/4/d/4d784409-df6d-45d4-8f8b-6e3fd57a8fde.jpg?1656453058|https://scryfall.com/card/neo/12/the-fall-of-lord-konda-fragment-of-konda?utm_source=api>`
    Defender
 
    When Fragment of Konda dies, draw a card.
 
 
-:mtgtip:`Farewell<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/1/e1068723-d1ef-4007-97d9-b10dccdbade4.jpg?1654566260|https://scryfall.com/card/neo/13/farewell?utm_source=api>`
+:mtgtip:`Farewell<https://cards.scryfall.io/border_crop/front/e/1/e1068723-d1ef-4007-97d9-b10dccdbade4.jpg?1654566260|https://scryfall.com/card/neo/13/farewell?utm_source=api>`
    Choose one or more —
 
    • Exile all artifacts.
@@ -117,45 +117,45 @@
    • Exile all graveyards.
 
 
-:mtgtip:`Go-Shintai of Shared Purpose<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/a/0ab91962-ebad-46f6-9f90-7477c224d93d.jpg?1654566269|https://scryfall.com/card/neo/14/go-shintai-of-shared-purpose?utm_source=api>`
+:mtgtip:`Go-Shintai of Shared Purpose<https://cards.scryfall.io/border_crop/front/0/a/0ab91962-ebad-46f6-9f90-7477c224d93d.jpg?1654566269|https://scryfall.com/card/neo/14/go-shintai-of-shared-purpose?utm_source=api>`
    Vigilance
 
    At the beginning of your end step, you may pay |mana_1|. If you do, create a 1/1 colorless Spirit creature token for each Shrine you control.
 
 
-:mtgtip:`Golden-Tail Disciple<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/6/d631e7da-bd71-424a-a349-9bce0fd16b1f.jpg?1654566284|https://scryfall.com/card/neo/15/golden-tail-disciple?utm_source=api>`
+:mtgtip:`Golden-Tail Disciple<https://cards.scryfall.io/border_crop/front/d/6/d631e7da-bd71-424a-a349-9bce0fd16b1f.jpg?1654566284|https://scryfall.com/card/neo/15/golden-tail-disciple?utm_source=api>`
    Lifelink
 
 
-:mtgtip:`Hotshot Mechanic<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/a/5a70e8fa-b71d-441e-b049-dacb09a9a7af.jpg?1654566286|https://scryfall.com/card/neo/16/hotshot-mechanic?utm_source=api>`
+:mtgtip:`Hotshot Mechanic<https://cards.scryfall.io/border_crop/front/5/a/5a70e8fa-b71d-441e-b049-dacb09a9a7af.jpg?1654566286|https://scryfall.com/card/neo/16/hotshot-mechanic?utm_source=api>`
    Hotshot Mechanic crews Vehicles as though its power were 2 greater.
 
 
-:mtgtip:`Imperial Oath<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/d/3d6750dd-2303-493b-885d-1bfb5787b16c.jpg?1654566308|https://scryfall.com/card/neo/17/imperial-oath?utm_source=api>`
+:mtgtip:`Imperial Oath<https://cards.scryfall.io/border_crop/front/3/d/3d6750dd-2303-493b-885d-1bfb5787b16c.jpg?1654566308|https://scryfall.com/card/neo/17/imperial-oath?utm_source=api>`
    Create three 2/2 white Samurai creature tokens with vigilance. Scry 3.
 
 
-:mtgtip:`Imperial Recovery Unit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/c/ac9b2c7b-c93b-4b97-999e-86faed8a26ee.jpg?1654566315|https://scryfall.com/card/neo/18/imperial-recovery-unit?utm_source=api>`
+:mtgtip:`Imperial Recovery Unit<https://cards.scryfall.io/border_crop/front/a/c/ac9b2c7b-c93b-4b97-999e-86faed8a26ee.jpg?1654566315|https://scryfall.com/card/neo/18/imperial-recovery-unit?utm_source=api>`
    Whenever Imperial Recovery Unit attacks, return target creature or Vehicle card with mana value 2 or less from your graveyard to your hand.
 
    Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)
 
 
-:mtgtip:`Imperial Subduer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/3/13246172-7554-4edc-b6db-23dc91e4290a.jpg?1654566326|https://scryfall.com/card/neo/19/imperial-subduer?utm_source=api>`
+:mtgtip:`Imperial Subduer<https://cards.scryfall.io/border_crop/front/1/3/13246172-7554-4edc-b6db-23dc91e4290a.jpg?1654566326|https://scryfall.com/card/neo/19/imperial-subduer?utm_source=api>`
    Whenever a Samurai or Warrior you control attacks alone, tap target creature you don't control.
 
 
-:mtgtip:`Intercessor's Arrest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/8/e83f2148-bb5d-4236-8d12-150deed0577e.jpg?1654566334|https://scryfall.com/card/neo/20/intercessors-arrest?utm_source=api>`
+:mtgtip:`Intercessor's Arrest<https://cards.scryfall.io/border_crop/front/e/8/e83f2148-bb5d-4236-8d12-150deed0577e.jpg?1654566334|https://scryfall.com/card/neo/20/intercessors-arrest?utm_source=api>`
    Enchant permanent
 
    Enchanted permanent can't attack, block, or crew Vehicles. Its activated abilities can't be activated unless they're mana abilities.
 
 
-:mtgtip:`Invoke Justice<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/a/3a598ab6-3254-49fe-b69f-e7c759129599.jpg?1654566346|https://scryfall.com/card/neo/21/invoke-justice?utm_source=api>`
+:mtgtip:`Invoke Justice<https://cards.scryfall.io/border_crop/front/3/a/3a598ab6-3254-49fe-b69f-e7c759129599.jpg?1654566346|https://scryfall.com/card/neo/21/invoke-justice?utm_source=api>`
    Return target permanent card from your graveyard to the battlefield, then distribute four +1/+1 counters among any number of creatures and/or Vehicles target player controls.
 
 
-:mtgtip:`Kitsune Ace<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/f/ef1d446a-8607-45b8-a01f-dad17bab76e7.jpg?1654566352|https://scryfall.com/card/neo/22/kitsune-ace?utm_source=api>`
+:mtgtip:`Kitsune Ace<https://cards.scryfall.io/border_crop/front/e/f/ef1d446a-8607-45b8-a01f-dad17bab76e7.jpg?1654566352|https://scryfall.com/card/neo/22/kitsune-ace?utm_source=api>`
    Whenever a Vehicle you control attacks, choose one —
 
    • That Vehicle gains first strike until end of turn.
@@ -163,7 +163,7 @@
    • Untap Kitsune Ace.
 
 
-:mtgtip:`Kyodai, Soul of Kamigawa<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/b/cbbfd21e-96f1-4e5b-8546-73bb5a887b98.jpg?1654566369|https://scryfall.com/card/neo/23/kyodai-soul-of-kamigawa?utm_source=api>`
+:mtgtip:`Kyodai, Soul of Kamigawa<https://cards.scryfall.io/border_crop/front/c/b/cbbfd21e-96f1-4e5b-8546-73bb5a887b98.jpg?1654566369|https://scryfall.com/card/neo/23/kyodai-soul-of-kamigawa?utm_source=api>`
    Flash
 
    Flying
@@ -173,7 +173,7 @@
    |mana_w|\ |mana_u|\ |mana_b|\ |mana_r|\ |mana_g|: Kyodai gets +5/+5 until end of turn.
 
 
-:mtgtip:`Light the Way<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/a/3a2fd960-c4ec-4dfa-a61d-f8577b9d3519.jpg?1654566379|https://scryfall.com/card/neo/24/light-the-way?utm_source=api>`
+:mtgtip:`Light the Way<https://cards.scryfall.io/border_crop/front/3/a/3a2fd960-c4ec-4dfa-a61d-f8577b9d3519.jpg?1654566379|https://scryfall.com/card/neo/24/light-the-way?utm_source=api>`
    Choose one —
 
    • Put a +1/+1 counter on target creature or Vehicle. Untap it.
@@ -181,11 +181,11 @@
    • Return target permanent you control to its owner's hand.
 
 
-:mtgtip:`Light-Paws, Emperor's Voice<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/9/39555a72-a57b-45ee-9222-ce3b9e8de126.jpg?1654566391|https://scryfall.com/card/neo/25/light-paws-emperors-voice?utm_source=api>`
+:mtgtip:`Light-Paws, Emperor's Voice<https://cards.scryfall.io/border_crop/front/3/9/39555a72-a57b-45ee-9222-ce3b9e8de126.jpg?1654566391|https://scryfall.com/card/neo/25/light-paws-emperors-voice?utm_source=api>`
    Whenever an Aura enters the battlefield under your control, if you cast it, you may search your library for an Aura card with mana value less than or equal to that Aura and with a different name than each Aura you control, put that card onto the battlefield attached to Light-Paws, Emperor's Voice, then shuffle.
 
 
-:mtgtip:`Lion Sash<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/e/3e1766e9-2fa7-4446-a255-7beea1467ece.jpg?1654566400|https://scryfall.com/card/neo/26/lion-sash?utm_source=api>`
+:mtgtip:`Lion Sash<https://cards.scryfall.io/border_crop/front/3/e/3e1766e9-2fa7-4446-a255-7beea1467ece.jpg?1654566400|https://scryfall.com/card/neo/26/lion-sash?utm_source=api>`
    |mana_w|: Exile target card from a graveyard. If it was a permanent card, put a +1/+1 counter on Lion Sash.
 
    Equipped creature gets +1/+1 for each +1/+1 counter on Lion Sash.
@@ -193,17 +193,17 @@
    Reconfigure |mana_2| (|mana_2|: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)
 
 
-:mtgtip:`Lucky Offering<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/4/24bbdeb0-9165-4874-a853-d19c20c250ef.jpg?1654566411|https://scryfall.com/card/neo/27/lucky-offering?utm_source=api>`
+:mtgtip:`Lucky Offering<https://cards.scryfall.io/border_crop/front/2/4/24bbdeb0-9165-4874-a853-d19c20c250ef.jpg?1654566411|https://scryfall.com/card/neo/27/lucky-offering?utm_source=api>`
    Destroy target artifact with mana value 3 or less. You gain 3 life.
 
 
-:mtgtip:`March of Otherworldly Light<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/5/553fb946-2706-475b-89f9-e4355ec9ea2b.jpg?1654566420|https://scryfall.com/card/neo/28/march-of-otherworldly-light?utm_source=api>`
+:mtgtip:`March of Otherworldly Light<https://cards.scryfall.io/border_crop/front/5/5/553fb946-2706-475b-89f9-e4355ec9ea2b.jpg?1654566420|https://scryfall.com/card/neo/28/march-of-otherworldly-light?utm_source=api>`
    As an additional cost to cast this spell, you may exile any number of white cards from your hand. This spell costs |mana_2| less to cast for each card exiled this way.
 
    Exile target artifact, creature, or enchantment with mana value X or less.
 
 
-:mtgtip:`Michiko's Reign of Truth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/4/74f12c23-5c15-4ae6-8f4d-c5e6c1878817.jpg?1656453078|https://scryfall.com/card/neo/29/michikos-reign-of-truth-portrait-of-michiko?utm_source=api>`
+:mtgtip:`Michiko's Reign of Truth<https://cards.scryfall.io/border_crop/front/7/4/74f12c23-5c15-4ae6-8f4d-c5e6c1878817.jpg?1656453078|https://scryfall.com/card/neo/29/michikos-reign-of-truth-portrait-of-michiko?utm_source=api>`
    (As this Saga enters and after your draw step, add a lore counter.)
 
    I, II — Target creature gets +1/+1 until end of turn for each artifact and/or enchantment you control.
@@ -211,27 +211,27 @@
    III — Exile this Saga, then return it to the battlefield transformed under your control.
 
 
-:mtgtip:`Portrait of Michiko<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/7/4/74f12c23-5c15-4ae6-8f4d-c5e6c1878817.jpg?1656453078|https://scryfall.com/card/neo/29/michikos-reign-of-truth-portrait-of-michiko?utm_source=api>`
+:mtgtip:`Portrait of Michiko<https://cards.scryfall.io/border_crop/back/7/4/74f12c23-5c15-4ae6-8f4d-c5e6c1878817.jpg?1656453078|https://scryfall.com/card/neo/29/michikos-reign-of-truth-portrait-of-michiko?utm_source=api>`
    Portrait of Michiko gets +1/+1 for each artifact and/or enchantment you control.
 
 
-:mtgtip:`Mothrider Patrol<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/6/f657f2dc-adc8-4a66-b081-a71b3a127389.jpg?1654566443|https://scryfall.com/card/neo/30/mothrider-patrol?utm_source=api>`
+:mtgtip:`Mothrider Patrol<https://cards.scryfall.io/border_crop/front/f/6/f657f2dc-adc8-4a66-b081-a71b3a127389.jpg?1654566443|https://scryfall.com/card/neo/30/mothrider-patrol?utm_source=api>`
    Flying
 
    |mana_3|\ |mana_w|, |tap|: Tap target creature.
 
 
-:mtgtip:`Norika Yamazaki, the Poet<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/09cb553c-58c1-4cfd-b441-297b5f09b263.jpg?1654566451|https://scryfall.com/card/neo/31/norika-yamazaki-the-poet?utm_source=api>`
+:mtgtip:`Norika Yamazaki, the Poet<https://cards.scryfall.io/border_crop/front/0/9/09cb553c-58c1-4cfd-b441-297b5f09b263.jpg?1654566451|https://scryfall.com/card/neo/31/norika-yamazaki-the-poet?utm_source=api>`
    Vigilance
 
    Whenever a Samurai or Warrior you control attacks alone, you may cast target enchantment card from your graveyard this turn.
 
 
-:mtgtip:`Regent's Authority<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/9/79243e97-fe45-4988-b299-f59a7c53ad31.jpg?1654566461|https://scryfall.com/card/neo/32/regents-authority?utm_source=api>`
+:mtgtip:`Regent's Authority<https://cards.scryfall.io/border_crop/front/7/9/79243e97-fe45-4988-b299-f59a7c53ad31.jpg?1654566461|https://scryfall.com/card/neo/32/regents-authority?utm_source=api>`
    Target creature gets +2/+2 until end of turn. If it's an enchantment creature or legendary creature, instead put a +1/+1 counter on it and it gets +1/+1 until end of turn.
 
 
-:mtgtip:`Repel the Vile<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/a/9a37d5b4-af3a-48b0-895f-91b652108ef6.jpg?1654566470|https://scryfall.com/card/neo/33/repel-the-vile?utm_source=api>`
+:mtgtip:`Repel the Vile<https://cards.scryfall.io/border_crop/front/9/a/9a37d5b4-af3a-48b0-895f-91b652108ef6.jpg?1654566470|https://scryfall.com/card/neo/33/repel-the-vile?utm_source=api>`
    Choose one —
 
    • Exile target creature with power 4 or greater.
@@ -239,7 +239,7 @@
    • Exile target enchantment.
 
 
-:mtgtip:`The Restoration of Eiganjo<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/1/a11a33ae-e7fa-4bd4-8cd8-3a3239a29bcc.jpg?1656453098|https://scryfall.com/card/neo/34/the-restoration-of-eiganjo-architect-of-restoration?utm_source=api>`
+:mtgtip:`The Restoration of Eiganjo<https://cards.scryfall.io/border_crop/front/a/1/a11a33ae-e7fa-4bd4-8cd8-3a3239a29bcc.jpg?1656453098|https://scryfall.com/card/neo/34/the-restoration-of-eiganjo-architect-of-restoration?utm_source=api>`
    (As this Saga enters and after your draw step, add a lore counter.)
 
    I — Search your library for a basic Plains card, reveal it, put it into your hand, then shuffle.
@@ -249,49 +249,49 @@
    III — Exile this Saga, then return it to the battlefield transformed under your control.
 
 
-:mtgtip:`Architect of Restoration<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/a/1/a11a33ae-e7fa-4bd4-8cd8-3a3239a29bcc.jpg?1656453098|https://scryfall.com/card/neo/34/the-restoration-of-eiganjo-architect-of-restoration?utm_source=api>`
+:mtgtip:`Architect of Restoration<https://cards.scryfall.io/border_crop/back/a/1/a11a33ae-e7fa-4bd4-8cd8-3a3239a29bcc.jpg?1656453098|https://scryfall.com/card/neo/34/the-restoration-of-eiganjo-architect-of-restoration?utm_source=api>`
    Vigilance
 
    Whenever Architect of Restoration attacks or blocks, create a 1/1 colorless Spirit creature token.
 
 
-:mtgtip:`Selfless Samurai<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/76c27ec5-5a9b-4080-9a53-00630335a915.jpg?1654566492|https://scryfall.com/card/neo/35/selfless-samurai?utm_source=api>`
+:mtgtip:`Selfless Samurai<https://cards.scryfall.io/border_crop/front/7/6/76c27ec5-5a9b-4080-9a53-00630335a915.jpg?1654566492|https://scryfall.com/card/neo/35/selfless-samurai?utm_source=api>`
    Whenever a Samurai or Warrior you control attacks alone, it gains lifelink until end of turn.
 
    Sacrifice Selfless Samurai: Another target creature you control gains indestructible until end of turn. (Damage and effects that say "destroy" don't destroy it.)
 
 
-:mtgtip:`Seven-Tail Mentor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9d77d1e6-c804-46f7-ba00-6df6bca2ae08.jpg?1654566499|https://scryfall.com/card/neo/36/seven-tail-mentor?utm_source=api>`
+:mtgtip:`Seven-Tail Mentor<https://cards.scryfall.io/border_crop/front/9/d/9d77d1e6-c804-46f7-ba00-6df6bca2ae08.jpg?1654566499|https://scryfall.com/card/neo/36/seven-tail-mentor?utm_source=api>`
    When Seven-Tail Mentor enters the battlefield or dies, put a +1/+1 counter on target creature or Vehicle you control.
 
 
-:mtgtip:`Sky-Blessed Samurai<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/9/c9c7ba6f-c58e-4347-92e4-51ae8f2d5a88.jpg?1654566515|https://scryfall.com/card/neo/37/sky-blessed-samurai?utm_source=api>`
+:mtgtip:`Sky-Blessed Samurai<https://cards.scryfall.io/border_crop/front/c/9/c9c7ba6f-c58e-4347-92e4-51ae8f2d5a88.jpg?1654566515|https://scryfall.com/card/neo/37/sky-blessed-samurai?utm_source=api>`
    This spell costs |mana_1| less to cast for each enchantment you control.
 
    Flying
 
 
-:mtgtip:`Spirited Companion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/a/5aa91a9e-2fe2-43bc-aa9c-cfb8a71829ff.jpg?1654566520|https://scryfall.com/card/neo/38/spirited-companion?utm_source=api>`
+:mtgtip:`Spirited Companion<https://cards.scryfall.io/border_crop/front/5/a/5aa91a9e-2fe2-43bc-aa9c-cfb8a71829ff.jpg?1654566520|https://scryfall.com/card/neo/38/spirited-companion?utm_source=api>`
    When Spirited Companion enters the battlefield, draw a card.
 
 
-:mtgtip:`Sunblade Samurai<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/6/e6c577bb-5e21-4a3e-b0a7-713a4ff7dce6.jpg?1654566538|https://scryfall.com/card/neo/39/sunblade-samurai?utm_source=api>`
+:mtgtip:`Sunblade Samurai<https://cards.scryfall.io/border_crop/front/e/6/e6c577bb-5e21-4a3e-b0a7-713a4ff7dce6.jpg?1654566538|https://scryfall.com/card/neo/39/sunblade-samurai?utm_source=api>`
    Vigilance
 
    Channel — |mana_2|, Discard Sunblade Samurai: Search your library for a basic Plains card, reveal it, put it into your hand, then shuffle. You gain 2 life.
 
 
-:mtgtip:`Touch the Spirit Realm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/1/e16ab44e-4257-4c0c-b705-8ac1e9c1d835.jpg?1654566545|https://scryfall.com/card/neo/40/touch-the-spirit-realm?utm_source=api>`
+:mtgtip:`Touch the Spirit Realm<https://cards.scryfall.io/border_crop/front/e/1/e16ab44e-4257-4c0c-b705-8ac1e9c1d835.jpg?1654566545|https://scryfall.com/card/neo/40/touch-the-spirit-realm?utm_source=api>`
    When Touch the Spirit Realm enters the battlefield, exile up to one target artifact or creature until Touch the Spirit Realm leaves the battlefield.
 
    Channel — |mana_1|\ |mana_w|, Discard Touch the Spirit Realm: Exile target artifact or creature. Return it to the battlefield under its owner's control at the beginning of the next end step.
 
 
-:mtgtip:`Wanderer's Intervention<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/3/43708ec9-a85a-4244-86b4-67b30b41d854.jpg?1654566557|https://scryfall.com/card/neo/41/wanderers-intervention?utm_source=api>`
+:mtgtip:`Wanderer's Intervention<https://cards.scryfall.io/border_crop/front/4/3/43708ec9-a85a-4244-86b4-67b30b41d854.jpg?1654566557|https://scryfall.com/card/neo/41/wanderers-intervention?utm_source=api>`
    Wanderer's Intervention deals 4 damage to target attacking or blocking creature.
 
 
-:mtgtip:`The Wandering Emperor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/a/fab2d8a9-ab4c-4225-a570-22636293c17d.jpg?1654566563|https://scryfall.com/card/neo/42/the-wandering-emperor?utm_source=api>`
+:mtgtip:`The Wandering Emperor<https://cards.scryfall.io/border_crop/front/f/a/fab2d8a9-ab4c-4225-a570-22636293c17d.jpg?1654566563|https://scryfall.com/card/neo/42/the-wandering-emperor?utm_source=api>`
    Flash
 
    As long as The Wandering Emperor entered the battlefield this turn, you may activate her loyalty abilities any time you could cast an instant.
@@ -303,23 +303,23 @@
    −2: Exile target tapped creature. You gain 2 life.
 
 
-:mtgtip:`When We Were Young<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/d/6db14cb8-9ff8-41ee-a733-4f1130e73b29.jpg?1654566582|https://scryfall.com/card/neo/43/when-we-were-young?utm_source=api>`
+:mtgtip:`When We Were Young<https://cards.scryfall.io/border_crop/front/6/d/6db14cb8-9ff8-41ee-a733-4f1130e73b29.jpg?1654566582|https://scryfall.com/card/neo/43/when-we-were-young?utm_source=api>`
    Up to two target creatures each get +2/+2 until end of turn. If you control an artifact and an enchantment, those creatures also gain lifelink until end of turn.
 
 
-:mtgtip:`Acquisition Octopus<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/e/8e971a72-31db-4b7e-b9b9-9f45e8c3f87e.jpg?1654566583|https://scryfall.com/card/neo/44/acquisition-octopus?utm_source=api>`
+:mtgtip:`Acquisition Octopus<https://cards.scryfall.io/border_crop/front/8/e/8e971a72-31db-4b7e-b9b9-9f45e8c3f87e.jpg?1654566583|https://scryfall.com/card/neo/44/acquisition-octopus?utm_source=api>`
    Whenever Acquisition Octopus or equipped creature deals combat damage to a player, draw a card.
 
    Reconfigure |mana_2| (|mana_2|: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)
 
 
-:mtgtip:`Anchor to Reality<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/8/58141ad0-32ea-4e07-a133-ff7812d58c0e.jpg?1654566601|https://scryfall.com/card/neo/45/anchor-to-reality?utm_source=api>`
+:mtgtip:`Anchor to Reality<https://cards.scryfall.io/border_crop/front/5/8/58141ad0-32ea-4e07-a133-ff7812d58c0e.jpg?1654566601|https://scryfall.com/card/neo/45/anchor-to-reality?utm_source=api>`
    As an additional cost to cast this spell, sacrifice an artifact or creature.
 
    Search your library for an Equipment or Vehicle card, put that card onto the battlefield, then shuffle. If it has mana value less than the sacrificed permanent's mana value, scry 2.
 
 
-:mtgtip:`Armguard Familiar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/4/7497f147-146d-4a76-b670-bd84e07352b3.jpg?1654566610|https://scryfall.com/card/neo/46/armguard-familiar?utm_source=api>`
+:mtgtip:`Armguard Familiar<https://cards.scryfall.io/border_crop/front/7/4/7497f147-146d-4a76-b670-bd84e07352b3.jpg?1654566610|https://scryfall.com/card/neo/46/armguard-familiar?utm_source=api>`
    Ward |mana_2| (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays |mana_2|.)
 
    Equipped creature gets +2/+1 and has ward |mana_2|.
@@ -327,7 +327,7 @@
    Reconfigure |mana_4| (|mana_4|: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)
 
 
-:mtgtip:`Awakened Awareness<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/1/51378e10-2f17-445b-97e9-5c373234ba52.jpg?1654566626|https://scryfall.com/card/neo/47/awakened-awareness?utm_source=api>`
+:mtgtip:`Awakened Awareness<https://cards.scryfall.io/border_crop/front/5/1/51378e10-2f17-445b-97e9-5c373234ba52.jpg?1654566626|https://scryfall.com/card/neo/47/awakened-awareness?utm_source=api>`
    Enchant artifact or creature
 
    When Awakened Awareness enters the battlefield, put X +1/+1 counters on enchanted permanent.
@@ -335,7 +335,7 @@
    As long as enchanted permanent is a creature, it has base power and toughness 1/1.
 
 
-:mtgtip:`Behold the Unspeakable<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/4/e4d52701-e0dc-474e-b08f-88147200d210.jpg?1656453117|https://scryfall.com/card/neo/48/behold-the-unspeakable-vision-of-the-unspeakable?utm_source=api>`
+:mtgtip:`Behold the Unspeakable<https://cards.scryfall.io/border_crop/front/e/4/e4d52701-e0dc-474e-b08f-88147200d210.jpg?1656453117|https://scryfall.com/card/neo/48/behold-the-unspeakable-vision-of-the-unspeakable?utm_source=api>`
    (As this Saga enters and after your draw step, add a lore counter.)
 
    I — Creatures you don't control get -2/-0 until your next turn.
@@ -345,55 +345,55 @@
    III — Exile this Saga, then return it to the battlefield transformed under your control.
 
 
-:mtgtip:`Vision of the Unspeakable<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/e/4/e4d52701-e0dc-474e-b08f-88147200d210.jpg?1656453117|https://scryfall.com/card/neo/48/behold-the-unspeakable-vision-of-the-unspeakable?utm_source=api>`
+:mtgtip:`Vision of the Unspeakable<https://cards.scryfall.io/border_crop/back/e/4/e4d52701-e0dc-474e-b08f-88147200d210.jpg?1656453117|https://scryfall.com/card/neo/48/behold-the-unspeakable-vision-of-the-unspeakable?utm_source=api>`
    Flying, trample
 
    Vision of the Unspeakable gets +1/+1 for each card in your hand.
 
 
-:mtgtip:`Covert Technician<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/b/dbae9991-43a2-4afb-a882-fff6b0d89d12.jpg?1654566645|https://scryfall.com/card/neo/49/covert-technician?utm_source=api>`
+:mtgtip:`Covert Technician<https://cards.scryfall.io/border_crop/front/d/b/dbae9991-43a2-4afb-a882-fff6b0d89d12.jpg?1654566645|https://scryfall.com/card/neo/49/covert-technician?utm_source=api>`
    Ninjutsu |mana_1|\ |mana_u| (|mana_1|\ |mana_u|, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
 
    Whenever Covert Technician deals combat damage to a player, you may put an artifact card with mana value less than or equal to that damage from your hand onto the battlefield.
 
 
-:mtgtip:`Discover the Impossible<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/c/8c201117-9850-4e92-9ecc-e4d71a70a959.jpg?1654566653|https://scryfall.com/card/neo/50/discover-the-impossible?utm_source=api>`
+:mtgtip:`Discover the Impossible<https://cards.scryfall.io/border_crop/front/8/c/8c201117-9850-4e92-9ecc-e4d71a70a959.jpg?1654566653|https://scryfall.com/card/neo/50/discover-the-impossible?utm_source=api>`
    Look at the top five cards of your library. Exile one of them face down and put the rest on the bottom of your library in a random order. You may cast the exiled card without paying its mana cost if it's an instant spell with mana value 2 or less. If you don't, put that card into your hand.
 
 
-:mtgtip:`Disruption Protocol<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/5/053ab598-06a4-43ae-b9fd-c291bd05642c.jpg?1654566666|https://scryfall.com/card/neo/51/disruption-protocol?utm_source=api>`
+:mtgtip:`Disruption Protocol<https://cards.scryfall.io/border_crop/front/0/5/053ab598-06a4-43ae-b9fd-c291bd05642c.jpg?1654566666|https://scryfall.com/card/neo/51/disruption-protocol?utm_source=api>`
    As an additional cost to cast this spell, tap an untapped artifact you control or pay |mana_1|.
 
    Counter target spell.
 
 
-:mtgtip:`Essence Capture<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/3/f39bf1fa-b530-4353-a683-843466227109.jpg?1654566672|https://scryfall.com/card/neo/52/essence-capture?utm_source=api>`
+:mtgtip:`Essence Capture<https://cards.scryfall.io/border_crop/front/f/3/f39bf1fa-b530-4353-a683-843466227109.jpg?1654566672|https://scryfall.com/card/neo/52/essence-capture?utm_source=api>`
    Counter target creature spell. Put a +1/+1 counter on up to one target creature you control.
 
 
-:mtgtip:`Futurist Operative<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/5/c5858176-9f85-403c-8338-48eb55db5c3d.jpg?1654566683|https://scryfall.com/card/neo/53/futurist-operative?utm_source=api>`
+:mtgtip:`Futurist Operative<https://cards.scryfall.io/border_crop/front/c/5/c5858176-9f85-403c-8338-48eb55db5c3d.jpg?1654566683|https://scryfall.com/card/neo/53/futurist-operative?utm_source=api>`
    As long as Futurist Operative is tapped, it's a Human Citizen with base power and toughness 1/1 and can't be blocked.
 
    |mana_2|\ |mana_u|: Untap Futurist Operative.
 
 
-:mtgtip:`Futurist Sentinel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/6/8672f626-3e46-447b-841f-6a04cd380653.jpg?1654566691|https://scryfall.com/card/neo/54/futurist-sentinel?utm_source=api>`
+:mtgtip:`Futurist Sentinel<https://cards.scryfall.io/border_crop/front/8/6/8672f626-3e46-447b-841f-6a04cd380653.jpg?1654566691|https://scryfall.com/card/neo/54/futurist-sentinel?utm_source=api>`
    Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)
 
 
-:mtgtip:`Go-Shintai of Lost Wisdom<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/e/7ec1192c-25b8-4975-ae6c-86be28ac1840.jpg?1654566704|https://scryfall.com/card/neo/55/go-shintai-of-lost-wisdom?utm_source=api>`
+:mtgtip:`Go-Shintai of Lost Wisdom<https://cards.scryfall.io/border_crop/front/7/e/7ec1192c-25b8-4975-ae6c-86be28ac1840.jpg?1654566704|https://scryfall.com/card/neo/55/go-shintai-of-lost-wisdom?utm_source=api>`
    Flying
 
    At the beginning of your end step, you may pay |mana_1|. When you do, target player mills X cards, where X is the number of Shrines you control. (To mill a card, a player puts the top card of their library into their graveyard.)
 
 
-:mtgtip:`Guardians of Oboro<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/9/e9c44d4e-742f-4e4f-9bf4-921075bc427c.jpg?1654566709|https://scryfall.com/card/neo/56/guardians-of-oboro?utm_source=api>`
+:mtgtip:`Guardians of Oboro<https://cards.scryfall.io/border_crop/front/e/9/e9c44d4e-742f-4e4f-9bf4-921075bc427c.jpg?1654566709|https://scryfall.com/card/neo/56/guardians-of-oboro?utm_source=api>`
    Defender
 
    Modified creatures you control can attack as though they didn't have defender. (Equipment, Auras you control, and counters are modifications.)
 
 
-:mtgtip:`Inventive Iteration<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/a/ea6d3242-8059-4203-aa06-58a6a3925eda.jpg?1656615308|https://scryfall.com/card/neo/57/inventive-iteration-living-breakthrough?utm_source=api>`
+:mtgtip:`Inventive Iteration<https://cards.scryfall.io/border_crop/front/e/a/ea6d3242-8059-4203-aa06-58a6a3925eda.jpg?1656615308|https://scryfall.com/card/neo/57/inventive-iteration-living-breakthrough?utm_source=api>`
    (As this Saga enters and after your draw step, add a lore counter.)
 
    I — Return up to one target creature or planeswalker to its owner's hand.
@@ -403,23 +403,23 @@
    III — Exile this Saga, then return it to the battlefield transformed under your control.
 
 
-:mtgtip:`Living Breakthrough<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/e/a/ea6d3242-8059-4203-aa06-58a6a3925eda.jpg?1656615308|https://scryfall.com/card/neo/57/inventive-iteration-living-breakthrough?utm_source=api>`
+:mtgtip:`Living Breakthrough<https://cards.scryfall.io/border_crop/back/e/a/ea6d3242-8059-4203-aa06-58a6a3925eda.jpg?1656615308|https://scryfall.com/card/neo/57/inventive-iteration-living-breakthrough?utm_source=api>`
    Flying
 
    Whenever you cast a spell, your opponents can't cast spells with the same mana value as that spell until your next turn.
 
 
-:mtgtip:`Invoke the Winds<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/d/ad7b423a-bfd1-47aa-bd2c-64a169b96924.jpg?1654566747|https://scryfall.com/card/neo/58/invoke-the-winds?utm_source=api>`
+:mtgtip:`Invoke the Winds<https://cards.scryfall.io/border_crop/front/a/d/ad7b423a-bfd1-47aa-bd2c-64a169b96924.jpg?1654566747|https://scryfall.com/card/neo/58/invoke-the-winds?utm_source=api>`
    Gain control of target artifact or creature. Untap it.
 
 
-:mtgtip:`Jin-Gitaxias, Progress Tyrant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/5/c57b4876-5387-4f73-b8e2-8e7bdca8b0bc.jpg?1654566749|https://scryfall.com/card/neo/59/jin-gitaxias-progress-tyrant?utm_source=api>`
+:mtgtip:`Jin-Gitaxias, Progress Tyrant<https://cards.scryfall.io/border_crop/front/c/5/c57b4876-5387-4f73-b8e2-8e7bdca8b0bc.jpg?1654566749|https://scryfall.com/card/neo/59/jin-gitaxias-progress-tyrant?utm_source=api>`
    Whenever you cast an artifact, instant, or sorcery spell, copy that spell. You may choose new targets for the copy. This ability triggers only once each turn. (A copy of a permanent spell becomes a token.)
 
    Whenever an opponent casts an artifact, instant, or sorcery spell, counter that spell. This ability triggers only once each turn.
 
 
-:mtgtip:`Kairi, the Swirling Sky<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/f/af7979d8-21f3-40ba-8a2e-7ebad210e48b.jpg?1654566767|https://scryfall.com/card/neo/60/kairi-the-swirling-sky?utm_source=api>`
+:mtgtip:`Kairi, the Swirling Sky<https://cards.scryfall.io/border_crop/front/a/f/af7979d8-21f3-40ba-8a2e-7ebad210e48b.jpg?1654566767|https://scryfall.com/card/neo/60/kairi-the-swirling-sky?utm_source=api>`
    Flying, ward |mana_3|
 
    When Kairi, the Swirling Sky dies, choose one —
@@ -429,13 +429,13 @@
    • Mill six cards, then return up to two instant and/or sorcery cards from your graveyard to your hand.
 
 
-:mtgtip:`March of Swirling Mist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/0/100171d8-7436-44c8-b4cb-0101ffa05c25.jpg?1654566768|https://scryfall.com/card/neo/61/march-of-swirling-mist?utm_source=api>`
+:mtgtip:`March of Swirling Mist<https://cards.scryfall.io/border_crop/front/1/0/100171d8-7436-44c8-b4cb-0101ffa05c25.jpg?1654566768|https://scryfall.com/card/neo/61/march-of-swirling-mist?utm_source=api>`
    As an additional cost to cast this spell, you may exile any number of blue cards from your hand. This spell costs |mana_2| less to cast for each card exiled this way.
 
    Up to X target creatures phase out. (While they're phased out, they're treated as though they don't exist. Each one phases in before its controller untaps during their next untap step.)
 
 
-:mtgtip:`Mindlink Mech<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/8/28273a5b-57b3-4b7a-b017-5886c171c9c9.jpg?1654566784|https://scryfall.com/card/neo/62/mindlink-mech?utm_source=api>`
+:mtgtip:`Mindlink Mech<https://cards.scryfall.io/border_crop/front/2/8/28273a5b-57b3-4b7a-b017-5886c171c9c9.jpg?1654566784|https://scryfall.com/card/neo/62/mindlink-mech?utm_source=api>`
    Flying
 
    Whenever Mindlink Mech becomes crewed for the first time each turn, until end of turn, Mindlink Mech becomes a copy of target nonlegendary creature that crewed it this turn, except it's 4/3, it's a Vehicle artifact in addition to its other types, and it has flying.
@@ -443,19 +443,19 @@
    Crew 1
 
 
-:mtgtip:`Mirrorshell Crab<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/3/0394c8df-2e8a-4477-93b7-569934d7b936.jpg?1654566800|https://scryfall.com/card/neo/63/mirrorshell-crab?utm_source=api>`
+:mtgtip:`Mirrorshell Crab<https://cards.scryfall.io/border_crop/front/0/3/0394c8df-2e8a-4477-93b7-569934d7b936.jpg?1654566800|https://scryfall.com/card/neo/63/mirrorshell-crab?utm_source=api>`
    Ward |mana_3| (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays |mana_3|.)
 
    Channel — |mana_2|\ |mana_u|, Discard Mirrorshell Crab: Counter target spell or ability unless its controller pays |mana_3|.
 
 
-:mtgtip:`Mnemonic Sphere<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/a/1a15d8d9-0575-4add-ae8d-4576e8ed2cbe.jpg?1654566805|https://scryfall.com/card/neo/64/mnemonic-sphere?utm_source=api>`
+:mtgtip:`Mnemonic Sphere<https://cards.scryfall.io/border_crop/front/1/a/1a15d8d9-0575-4add-ae8d-4576e8ed2cbe.jpg?1654566805|https://scryfall.com/card/neo/64/mnemonic-sphere?utm_source=api>`
    |mana_1|\ |mana_u|, Sacrifice Mnemonic Sphere: Draw two cards.
 
    Channel — |mana_u|, Discard Mnemonic Sphere: Draw a card.
 
 
-:mtgtip:`Mobilizer Mech<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/f/cf4bb9de-ba7c-4916-b8ed-e2e644c06b58.jpg?1654566822|https://scryfall.com/card/neo/65/mobilizer-mech?utm_source=api>`
+:mtgtip:`Mobilizer Mech<https://cards.scryfall.io/border_crop/front/c/f/cf4bb9de-ba7c-4916-b8ed-e2e644c06b58.jpg?1654566822|https://scryfall.com/card/neo/65/mobilizer-mech?utm_source=api>`
    Flying
 
    Whenever Mobilizer Mech becomes crewed, up to one other target Vehicle you control becomes an artifact creature until end of turn.
@@ -463,7 +463,7 @@
    Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)
 
 
-:mtgtip:`The Modern Age<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/e/ee60a8e9-3201-4a7e-8aa4-2c5e1042c8a5.jpg?1656453137|https://scryfall.com/card/neo/66/the-modern-age-vector-glider?utm_source=api>`
+:mtgtip:`The Modern Age<https://cards.scryfall.io/border_crop/front/e/e/ee60a8e9-3201-4a7e-8aa4-2c5e1042c8a5.jpg?1656453137|https://scryfall.com/card/neo/66/the-modern-age-vector-glider?utm_source=api>`
    (As this Saga enters and after your draw step, add a lore counter.)
 
    I, II — Draw a card, then discard a card.
@@ -471,51 +471,51 @@
    III — Exile this Saga, then return it to the battlefield transformed under your control.
 
 
-:mtgtip:`Vector Glider<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/e/e/ee60a8e9-3201-4a7e-8aa4-2c5e1042c8a5.jpg?1656453137|https://scryfall.com/card/neo/66/the-modern-age-vector-glider?utm_source=api>`
+:mtgtip:`Vector Glider<https://cards.scryfall.io/border_crop/back/e/e/ee60a8e9-3201-4a7e-8aa4-2c5e1042c8a5.jpg?1656453137|https://scryfall.com/card/neo/66/the-modern-age-vector-glider?utm_source=api>`
    Flying
 
 
-:mtgtip:`Moon-Circuit Hacker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/6/c6e466d1-943d-41e6-a47d-c9d951ca4262.jpg?1654566841|https://scryfall.com/card/neo/67/moon-circuit-hacker?utm_source=api>`
+:mtgtip:`Moon-Circuit Hacker<https://cards.scryfall.io/border_crop/front/c/6/c6e466d1-943d-41e6-a47d-c9d951ca4262.jpg?1654566841|https://scryfall.com/card/neo/67/moon-circuit-hacker?utm_source=api>`
    Ninjutsu |mana_u| (|mana_u|, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
 
    Whenever Moon-Circuit Hacker deals combat damage to a player, you may draw a card. If you do, discard a card unless Moon-Circuit Hacker entered the battlefield this turn.
 
 
-:mtgtip:`Moonfolk Puzzlemaker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/9/c9fa6d4c-78dc-4b40-9ce8-a0e593d4001f.jpg?1654566846|https://scryfall.com/card/neo/68/moonfolk-puzzlemaker?utm_source=api>`
+:mtgtip:`Moonfolk Puzzlemaker<https://cards.scryfall.io/border_crop/front/c/9/c9fa6d4c-78dc-4b40-9ce8-a0e593d4001f.jpg?1654566846|https://scryfall.com/card/neo/68/moonfolk-puzzlemaker?utm_source=api>`
    Flying
 
    Whenever Moonfolk Puzzlemaker becomes tapped, scry 1.
 
 
-:mtgtip:`Moonsnare Prototype<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9d8bc0e9-a536-4bca-92a6-8dca85e1e984.jpg?1654566863|https://scryfall.com/card/neo/69/moonsnare-prototype?utm_source=api>`
+:mtgtip:`Moonsnare Prototype<https://cards.scryfall.io/border_crop/front/9/d/9d8bc0e9-a536-4bca-92a6-8dca85e1e984.jpg?1654566863|https://scryfall.com/card/neo/69/moonsnare-prototype?utm_source=api>`
    |tap|, Tap an untapped artifact or creature you control: Add |colorless|.
 
    Channel — |mana_4|\ |mana_u|, Discard Moonsnare Prototype: The owner of target nonland permanent puts it on the top or bottom of their library.
 
 
-:mtgtip:`Moonsnare Specialist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/e/1e8b209f-f577-45cc-9d18-03c1d67d391e.jpg?1654566866|https://scryfall.com/card/neo/70/moonsnare-specialist?utm_source=api>`
+:mtgtip:`Moonsnare Specialist<https://cards.scryfall.io/border_crop/front/1/e/1e8b209f-f577-45cc-9d18-03c1d67d391e.jpg?1654566866|https://scryfall.com/card/neo/70/moonsnare-specialist?utm_source=api>`
    Ninjutsu |mana_2|\ |mana_u| (|mana_2|\ |mana_u|, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
 
    When Moonsnare Specialist enters the battlefield, return up to one target creature to its owner's hand.
 
 
-:mtgtip:`Network Disruptor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/a/5a37719a-2a87-4870-8f25-12544ca2f2cf.jpg?1654566883|https://scryfall.com/card/neo/71/network-disruptor?utm_source=api>`
+:mtgtip:`Network Disruptor<https://cards.scryfall.io/border_crop/front/5/a/5a37719a-2a87-4870-8f25-12544ca2f2cf.jpg?1654566883|https://scryfall.com/card/neo/71/network-disruptor?utm_source=api>`
    Flying
 
    When Network Disruptor enters the battlefield, tap target permanent.
 
 
-:mtgtip:`Planar Incision<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/1/9163cb04-ee28-4127-b53a-89c546996d7d.jpg?1654566889|https://scryfall.com/card/neo/72/planar-incision?utm_source=api>`
+:mtgtip:`Planar Incision<https://cards.scryfall.io/border_crop/front/9/1/9163cb04-ee28-4127-b53a-89c546996d7d.jpg?1654566889|https://scryfall.com/card/neo/72/planar-incision?utm_source=api>`
    Exile target artifact or creature, then return it to the battlefield under its owner's control with a +1/+1 counter on it.
 
 
-:mtgtip:`Prosperous Thief<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/a/da3f683e-5a28-4ae7-b53b-851b957123ba.jpg?1654566901|https://scryfall.com/card/neo/73/prosperous-thief?utm_source=api>`
+:mtgtip:`Prosperous Thief<https://cards.scryfall.io/border_crop/front/d/a/da3f683e-5a28-4ae7-b53b-851b957123ba.jpg?1654566901|https://scryfall.com/card/neo/73/prosperous-thief?utm_source=api>`
    Ninjutsu |mana_1|\ |mana_u| (|mana_1|\ |mana_u|, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
 
    Whenever one or more Ninja or Rogue creatures you control deal combat damage to a player, create a Treasure token. (It's an artifact with "|tap|, Sacrifice this artifact: Add one mana of any color.")
 
 
-:mtgtip:`The Reality Chip<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/8/d859de3a-0be1-4e66-b438-1c3d4ee756cd.jpg?1654566909|https://scryfall.com/card/neo/74/the-reality-chip?utm_source=api>`
+:mtgtip:`The Reality Chip<https://cards.scryfall.io/border_crop/front/d/8/d859de3a-0be1-4e66-b438-1c3d4ee756cd.jpg?1654566909|https://scryfall.com/card/neo/74/the-reality-chip?utm_source=api>`
    You may look at the top card of your library any time.
 
    As long as The Reality Chip is attached to a creature, you may play lands and cast spells from the top of your library.
@@ -523,23 +523,23 @@
    Reconfigure |mana_2|\ |mana_u| (|mana_2|\ |mana_u|: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)
 
 
-:mtgtip:`Reality Heist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5bc954d7-322a-45b8-9e25-6e9a97fbde61.jpg?1654566923|https://scryfall.com/card/neo/75/reality-heist?utm_source=api>`
+:mtgtip:`Reality Heist<https://cards.scryfall.io/border_crop/front/5/b/5bc954d7-322a-45b8-9e25-6e9a97fbde61.jpg?1654566923|https://scryfall.com/card/neo/75/reality-heist?utm_source=api>`
    This spell costs |mana_1| less to cast for each artifact you control.
 
    Look at the top seven cards of your library. You may reveal up to two artifact cards from among them and put them into your hand. Put the rest on the bottom of your library in a random order.
 
 
-:mtgtip:`Replication Specialist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/7/475bb3b5-b648-460c-b0ea-89ecfe0ff226.jpg?1654566929|https://scryfall.com/card/neo/76/replication-specialist?utm_source=api>`
+:mtgtip:`Replication Specialist<https://cards.scryfall.io/border_crop/front/4/7/475bb3b5-b648-460c-b0ea-89ecfe0ff226.jpg?1654566929|https://scryfall.com/card/neo/76/replication-specialist?utm_source=api>`
    Flying
 
    Whenever a nontoken artifact enters the battlefield under your control, you may pay |mana_1|\ |mana_u|. If you do, create a token that's a copy of that artifact.
 
 
-:mtgtip:`Saiba Trespassers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/3/c3dd7f1a-5d43-4218-a9d8-7cc4f6a18ecd.jpg?1662015031|https://scryfall.com/card/neo/77/saiba-trespassers?utm_source=api>`
+:mtgtip:`Saiba Trespassers<https://cards.scryfall.io/border_crop/front/c/3/c3dd7f1a-5d43-4218-a9d8-7cc4f6a18ecd.jpg?1662015031|https://scryfall.com/card/neo/77/saiba-trespassers?utm_source=api>`
    Channel — |mana_3|\ |mana_u|, Discard Saiba Trespassers: Tap up to two target creatures you don't control. Those creatures don't untap during their controller's next untap step.
 
 
-:mtgtip:`Short Circuit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/4/74fe0fb5-e994-41b1-a73d-4e68f7afdf34.jpg?1654566946|https://scryfall.com/card/neo/78/short-circuit?utm_source=api>`
+:mtgtip:`Short Circuit<https://cards.scryfall.io/border_crop/front/7/4/74fe0fb5-e994-41b1-a73d-4e68f7afdf34.jpg?1654566946|https://scryfall.com/card/neo/78/short-circuit?utm_source=api>`
    Flash
 
    Enchant artifact or creature
@@ -547,29 +547,29 @@
    As long as enchanted permanent is a creature, it gets -3/-0 and loses flying.
 
 
-:mtgtip:`Skyswimmer Koi<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/b/db50259b-8ca8-4fbe-8ae3-6b0312d70980.jpg?1654566960|https://scryfall.com/card/neo/79/skyswimmer-koi?utm_source=api>`
+:mtgtip:`Skyswimmer Koi<https://cards.scryfall.io/border_crop/front/d/b/db50259b-8ca8-4fbe-8ae3-6b0312d70980.jpg?1654566960|https://scryfall.com/card/neo/79/skyswimmer-koi?utm_source=api>`
    Flying
 
    Whenever an artifact enters the battlefield under your control, you may draw a card. If you do, discard a card.
 
 
-:mtgtip:`Spell Pierce<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/e/beb42273-935b-4bda-849e-c163606cf89e.jpg?1654566963|https://scryfall.com/card/neo/80/spell-pierce?utm_source=api>`
+:mtgtip:`Spell Pierce<https://cards.scryfall.io/border_crop/front/b/e/beb42273-935b-4bda-849e-c163606cf89e.jpg?1654566963|https://scryfall.com/card/neo/80/spell-pierce?utm_source=api>`
    Counter target noncreature spell unless its controller pays |mana_2|.
 
 
-:mtgtip:`Suit Up<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/0/50870bfd-7779-4a1c-b18f-57fac7e193b1.jpg?1654566980|https://scryfall.com/card/neo/81/suit-up?utm_source=api>`
+:mtgtip:`Suit Up<https://cards.scryfall.io/border_crop/front/5/0/50870bfd-7779-4a1c-b18f-57fac7e193b1.jpg?1654566980|https://scryfall.com/card/neo/81/suit-up?utm_source=api>`
    Until end of turn, target creature or Vehicle becomes an artifact creature with base power and toughness 4/5.
 
    Draw a card.
 
 
-:mtgtip:`Tameshi, Reality Architect<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/6/26594b52-3e9c-4cde-88df-1f4e9e16676e.jpg?1654566985|https://scryfall.com/card/neo/82/tameshi-reality-architect?utm_source=api>`
+:mtgtip:`Tameshi, Reality Architect<https://cards.scryfall.io/border_crop/front/2/6/26594b52-3e9c-4cde-88df-1f4e9e16676e.jpg?1654566985|https://scryfall.com/card/neo/82/tameshi-reality-architect?utm_source=api>`
    Whenever one or more noncreature permanents are returned to hand, draw a card. This ability triggers only once each turn.
 
    |mana_x|\ |mana_w|, Return a land you control to its owner's hand: Return target artifact or enchantment card with mana value X or less from your graveyard to the battlefield. Activate only as a sorcery.
 
 
-:mtgtip:`Tamiyo's Compleation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/e/aee62e43-6a82-4749-972b-e21802642abf.jpg?1654567000|https://scryfall.com/card/neo/83/tamiyos-compleation?utm_source=api>`
+:mtgtip:`Tamiyo's Compleation<https://cards.scryfall.io/border_crop/front/a/e/aee62e43-6a82-4749-972b-e21802642abf.jpg?1654567000|https://scryfall.com/card/neo/83/tamiyos-compleation?utm_source=api>`
    Flash
 
    Enchant artifact, creature, or planeswalker
@@ -579,7 +579,7 @@
    Enchanted permanent loses all abilities and doesn't untap during its controller's untap step.
 
 
-:mtgtip:`Tezzeret, Betrayer of Flesh<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/1/2174d16e-4a78-4d27-b220-1086c40db83e.jpg?1654567012|https://scryfall.com/card/neo/84/tezzeret-betrayer-of-flesh?utm_source=api>`
+:mtgtip:`Tezzeret, Betrayer of Flesh<https://cards.scryfall.io/border_crop/front/2/1/2174d16e-4a78-4d27-b220-1086c40db83e.jpg?1654567012|https://scryfall.com/card/neo/84/tezzeret-betrayer-of-flesh?utm_source=api>`
    The first activated ability of an artifact you activate each turn costs |mana_2| less to activate.
 
    +1: Draw two cards. Then discard two cards unless you discard an artifact card.
@@ -589,11 +589,11 @@
    −6: You get an emblem with "Whenever an artifact you control becomes tapped, draw a card."
 
 
-:mtgtip:`Thirst for Knowledge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/b/6b927837-8252-4ea7-b2d0-ab624de65bd7.jpg?1654567024|https://scryfall.com/card/neo/85/thirst-for-knowledge?utm_source=api>`
+:mtgtip:`Thirst for Knowledge<https://cards.scryfall.io/border_crop/front/6/b/6b927837-8252-4ea7-b2d0-ab624de65bd7.jpg?1654567024|https://scryfall.com/card/neo/85/thirst-for-knowledge?utm_source=api>`
    Draw three cards. Then discard two cards unless you discard an artifact card.
 
 
-:mtgtip:`Thousand-Faced Shadow<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/9/89a698a5-f4ac-4b04-96dc-32e1eeef6ac7.jpg?1654567031|https://scryfall.com/card/neo/86/thousand-faced-shadow?utm_source=api>`
+:mtgtip:`Thousand-Faced Shadow<https://cards.scryfall.io/border_crop/front/8/9/89a698a5-f4ac-4b04-96dc-32e1eeef6ac7.jpg?1654567031|https://scryfall.com/card/neo/86/thousand-faced-shadow?utm_source=api>`
    Ninjutsu |mana_2|\ |mana_u|\ |mana_u| (|mana_2|\ |mana_u|\ |mana_u|, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
 
    Flying
@@ -601,13 +601,13 @@
    When Thousand-Faced Shadow enters the battlefield from your hand, if it's attacking, create a token that's a copy of another target attacking creature. The token enters the battlefield tapped and attacking.
 
 
-:mtgtip:`Assassin's Ink<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/a/5a926c10-029d-4e24-8c3f-1808025e30aa.jpg?1654567050|https://scryfall.com/card/neo/87/assassins-ink?utm_source=api>`
+:mtgtip:`Assassin's Ink<https://cards.scryfall.io/border_crop/front/5/a/5a926c10-029d-4e24-8c3f-1808025e30aa.jpg?1654567050|https://scryfall.com/card/neo/87/assassins-ink?utm_source=api>`
    This spell costs |mana_1| less to cast if you control an artifact and |mana_1| less to cast if you control an enchantment.
 
    Destroy target creature or planeswalker.
 
 
-:mtgtip:`Biting-Palm Ninja<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/0/3017df51-67ae-4c3d-8210-086f83bc2040.jpg?1654567052|https://scryfall.com/card/neo/88/biting-palm-ninja?utm_source=api>`
+:mtgtip:`Biting-Palm Ninja<https://cards.scryfall.io/border_crop/front/3/0/3017df51-67ae-4c3d-8210-086f83bc2040.jpg?1654567052|https://scryfall.com/card/neo/88/biting-palm-ninja?utm_source=api>`
    Ninjutsu |mana_2|\ |mana_b|
 
    Biting-Palm Ninja enters the battlefield with a menace counter on it.
@@ -615,7 +615,7 @@
    Whenever Biting-Palm Ninja deals combat damage to a player, you may remove a menace counter from it. When you do, that player reveals their hand and you choose a nonland card from it. Exile that card.
 
 
-:mtgtip:`Blade of the Oni<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/6/b6bc3f71-b4ce-4c05-be3c-7a0faad476c3.jpg?1654567069|https://scryfall.com/card/neo/89/blade-of-the-oni?utm_source=api>`
+:mtgtip:`Blade of the Oni<https://cards.scryfall.io/border_crop/front/b/6/b6bc3f71-b4ce-4c05-be3c-7a0faad476c3.jpg?1654567069|https://scryfall.com/card/neo/89/blade-of-the-oni?utm_source=api>`
    Menace
 
    Equipped creature has base power and toughness 5/5, has menace, and is a black Demon in addition to its other colors and types.
@@ -623,13 +623,13 @@
    Reconfigure |mana_2|\ |mana_b|\ |mana_b| (|mana_2|\ |mana_b|\ |mana_b|: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)
 
 
-:mtgtip:`Chainflail Centipede<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/4/24b8efe0-2f7b-4ada-a1b9-9c5f9e6a114d.jpg?1654567070|https://scryfall.com/card/neo/90/chainflail-centipede?utm_source=api>`
+:mtgtip:`Chainflail Centipede<https://cards.scryfall.io/border_crop/front/2/4/24b8efe0-2f7b-4ada-a1b9-9c5f9e6a114d.jpg?1654567070|https://scryfall.com/card/neo/90/chainflail-centipede?utm_source=api>`
    Whenever Chainflail Centipede or equipped creature attacks, it gets +2/+0 until end of turn.
 
    Reconfigure |mana_2| (|mana_2|: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)
 
 
-:mtgtip:`Clawing Torment<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/2/621fce96-5933-4e2b-98ec-2589940e24cb.jpg?1654567088|https://scryfall.com/card/neo/91/clawing-torment?utm_source=api>`
+:mtgtip:`Clawing Torment<https://cards.scryfall.io/border_crop/front/6/2/621fce96-5933-4e2b-98ec-2589940e24cb.jpg?1654567088|https://scryfall.com/card/neo/91/clawing-torment?utm_source=api>`
    Enchant artifact or creature
 
    As long as enchanted permanent is a creature, it gets -1/-1 and can't block.
@@ -637,7 +637,7 @@
    Enchanted permanent has "At the beginning of your upkeep, you lose 1 life."
 
 
-:mtgtip:`Debt to the Kami<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/1/c1a7e728-ba01-4e3d-b269-9e2dd85a1d1b.jpg?1654567093|https://scryfall.com/card/neo/92/debt-to-the-kami?utm_source=api>`
+:mtgtip:`Debt to the Kami<https://cards.scryfall.io/border_crop/front/c/1/c1a7e728-ba01-4e3d-b269-9e2dd85a1d1b.jpg?1654567093|https://scryfall.com/card/neo/92/debt-to-the-kami?utm_source=api>`
    Choose one —
 
    • Target opponent exiles a creature they control.
@@ -645,21 +645,21 @@
    • Target opponent exiles an enchantment they control.
 
 
-:mtgtip:`Dockside Chef<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/8/d80100c3-c81e-4084-8dfe-f8610637fd91.jpg?1654567106|https://scryfall.com/card/neo/93/dockside-chef?utm_source=api>`
+:mtgtip:`Dockside Chef<https://cards.scryfall.io/border_crop/front/d/8/d80100c3-c81e-4084-8dfe-f8610637fd91.jpg?1654567106|https://scryfall.com/card/neo/93/dockside-chef?utm_source=api>`
    |mana_1|\ |mana_b|, Sacrifice an artifact or creature: Draw a card.
 
 
-:mtgtip:`Dokuchi Shadow-Walker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/1/81496a81-c986-4749-a28c-45341764e28f.jpg?1654567113|https://scryfall.com/card/neo/94/dokuchi-shadow-walker?utm_source=api>`
+:mtgtip:`Dokuchi Shadow-Walker<https://cards.scryfall.io/border_crop/front/8/1/81496a81-c986-4749-a28c-45341764e28f.jpg?1654567113|https://scryfall.com/card/neo/94/dokuchi-shadow-walker?utm_source=api>`
    Ninjutsu |mana_3|\ |mana_b| (|mana_3|\ |mana_b|, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
 
 
-:mtgtip:`Dokuchi Silencer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/2/a24d5664-e214-466d-bb53-4e8f6f75a009.jpg?1654567127|https://scryfall.com/card/neo/95/dokuchi-silencer?utm_source=api>`
+:mtgtip:`Dokuchi Silencer<https://cards.scryfall.io/border_crop/front/a/2/a24d5664-e214-466d-bb53-4e8f6f75a009.jpg?1654567127|https://scryfall.com/card/neo/95/dokuchi-silencer?utm_source=api>`
    Ninjutsu |mana_1|\ |mana_b| (|mana_1|\ |mana_b|, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
 
    Whenever Dokuchi Silencer deals combat damage to a player, you may discard a creature card. When you do, destroy target creature or planeswalker that player controls.
 
 
-:mtgtip:`Enormous Energy Blade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/9/991370bd-a96a-4ed0-bdf9-f03b98191abf.jpg?1654567135|https://scryfall.com/card/neo/96/enormous-energy-blade?utm_source=api>`
+:mtgtip:`Enormous Energy Blade<https://cards.scryfall.io/border_crop/front/9/9/991370bd-a96a-4ed0-bdf9-f03b98191abf.jpg?1654567135|https://scryfall.com/card/neo/96/enormous-energy-blade?utm_source=api>`
    Equipped creature gets +4/+0.
 
    Whenever Enormous Energy Blade becomes attached to a creature, tap that creature.
@@ -667,35 +667,35 @@
    Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip only as a sorcery.)
 
 
-:mtgtip:`Go-Shintai of Hidden Cruelty<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/5/45e1ff1e-916b-4455-84cb-4125a79d76de.jpg?1656615700|https://scryfall.com/card/neo/97/go-shintai-of-hidden-cruelty?utm_source=api>`
+:mtgtip:`Go-Shintai of Hidden Cruelty<https://cards.scryfall.io/border_crop/front/4/5/45e1ff1e-916b-4455-84cb-4125a79d76de.jpg?1656615700|https://scryfall.com/card/neo/97/go-shintai-of-hidden-cruelty?utm_source=api>`
    Deathtouch
 
    At the beginning of your end step, you may pay |mana_1|. When you do, destroy target creature with toughness X or less, where X is the number of Shrines you control.
 
 
-:mtgtip:`Gravelighter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/3/532c5b14-75cf-4e4c-9b80-2d56a86e2844.jpg?1654567145|https://scryfall.com/card/neo/98/gravelighter?utm_source=api>`
+:mtgtip:`Gravelighter<https://cards.scryfall.io/border_crop/front/5/3/532c5b14-75cf-4e4c-9b80-2d56a86e2844.jpg?1654567145|https://scryfall.com/card/neo/98/gravelighter?utm_source=api>`
    Flying
 
    When Gravelighter enters the battlefield, draw a card if a creature died this turn. Otherwise, each player sacrifices a creature.
 
 
-:mtgtip:`Hidetsugu, Devouring Chaos<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/f/6f4142d3-f7ca-4613-a6e5-528cf1f22383.jpg?1654567158|https://scryfall.com/card/neo/99/hidetsugu-devouring-chaos?utm_source=api>`
+:mtgtip:`Hidetsugu, Devouring Chaos<https://cards.scryfall.io/border_crop/front/6/f/6f4142d3-f7ca-4613-a6e5-528cf1f22383.jpg?1654567158|https://scryfall.com/card/neo/99/hidetsugu-devouring-chaos?utm_source=api>`
    |mana_b|, Sacrifice a creature: Scry 2.
 
    |mana_2|\ |mana_r|, |tap|: Exile the top card of your library. You may play that card this turn. When you exile a nonland card this way, Hidetsugu, Devouring Chaos deals damage equal to the exiled card's mana value to any target.
 
 
-:mtgtip:`Inkrise Infiltrator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/b/cbb6e447-5f40-4039-8a17-257b4a55382c.jpg?1654567165|https://scryfall.com/card/neo/100/inkrise-infiltrator?utm_source=api>`
+:mtgtip:`Inkrise Infiltrator<https://cards.scryfall.io/border_crop/front/c/b/cbb6e447-5f40-4039-8a17-257b4a55382c.jpg?1654567165|https://scryfall.com/card/neo/100/inkrise-infiltrator?utm_source=api>`
    Flying
 
    |mana_3|\ |mana_b|: Inkrise Infiltrator gets +2/+2 until end of turn.
 
 
-:mtgtip:`Invoke Despair<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/5/35af9d5c-4449-4549-b549-c3ba4a67dee0.jpg?1654567184|https://scryfall.com/card/neo/101/invoke-despair?utm_source=api>`
+:mtgtip:`Invoke Despair<https://cards.scryfall.io/border_crop/front/3/5/35af9d5c-4449-4549-b549-c3ba4a67dee0.jpg?1654567184|https://scryfall.com/card/neo/101/invoke-despair?utm_source=api>`
    Target opponent sacrifices a creature. If they can't, they lose 2 life and you draw a card. Then repeat this process for an enchantment and a planeswalker.
 
 
-:mtgtip:`Junji, the Midnight Sky<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/0/9033cf27-d9e6-49b8-8ee1-c1f38c9680b9.jpg?1654567204|https://scryfall.com/card/neo/102/junji-the-midnight-sky?utm_source=api>`
+:mtgtip:`Junji, the Midnight Sky<https://cards.scryfall.io/border_crop/front/9/0/9033cf27-d9e6-49b8-8ee1-c1f38c9680b9.jpg?1654567204|https://scryfall.com/card/neo/102/junji-the-midnight-sky?utm_source=api>`
    Flying, menace
 
    When Junji, the Midnight Sky dies, choose one —
@@ -705,11 +705,11 @@
    • Put target non-Dragon creature card from a graveyard onto the battlefield under your control. You lose 2 life.
 
 
-:mtgtip:`Kaito's Pursuit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/d/dd73fa5a-be0f-49a4-a921-afefbc8fa9c5.jpg?1654567207|https://scryfall.com/card/neo/103/kaitos-pursuit?utm_source=api>`
+:mtgtip:`Kaito's Pursuit<https://cards.scryfall.io/border_crop/front/d/d/dd73fa5a-be0f-49a4-a921-afefbc8fa9c5.jpg?1654567207|https://scryfall.com/card/neo/103/kaitos-pursuit?utm_source=api>`
    Target player discards two cards. Ninjas and Rogues you control gain menace until end of turn. (They can't be blocked except by two or more creatures.)
 
 
-:mtgtip:`Kami of Restless Shadows<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/2/62d3be4a-ab4f-46ef-837c-0f7559a701fe.jpg?1654567226|https://scryfall.com/card/neo/104/kami-of-restless-shadows?utm_source=api>`
+:mtgtip:`Kami of Restless Shadows<https://cards.scryfall.io/border_crop/front/6/2/62d3be4a-ab4f-46ef-837c-0f7559a701fe.jpg?1654567226|https://scryfall.com/card/neo/104/kami-of-restless-shadows?utm_source=api>`
    When Kami of Restless Shadows enters the battlefield, choose one —
 
    • Return up to one target Ninja or Rogue creature card from your graveyard to your hand.
@@ -717,11 +717,11 @@
    • Put target creature card from your graveyard on top of your library.
 
 
-:mtgtip:`Kami of Terrible Secrets<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/8/58f15af6-eaf5-41b8-b93d-5a90ca219478.jpg?1654567228|https://scryfall.com/card/neo/105/kami-of-terrible-secrets?utm_source=api>`
+:mtgtip:`Kami of Terrible Secrets<https://cards.scryfall.io/border_crop/front/5/8/58f15af6-eaf5-41b8-b93d-5a90ca219478.jpg?1654567228|https://scryfall.com/card/neo/105/kami-of-terrible-secrets?utm_source=api>`
    When Kami of Terrible Secrets enters the battlefield, if you control an artifact and an enchantment, you draw a card and you gain 1 life.
 
 
-:mtgtip:`Leech Gauntlet<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/7/97986b67-5ae4-492f-a9e0-81f57a829d86.jpg?1654567250|https://scryfall.com/card/neo/106/leech-gauntlet?utm_source=api>`
+:mtgtip:`Leech Gauntlet<https://cards.scryfall.io/border_crop/front/9/7/97986b67-5ae4-492f-a9e0-81f57a829d86.jpg?1654567250|https://scryfall.com/card/neo/106/leech-gauntlet?utm_source=api>`
    Lifelink
 
    Equipped creature has lifelink.
@@ -729,11 +729,11 @@
    Reconfigure |mana_4| (|mana_4|: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)
 
 
-:mtgtip:`Lethal Exploit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/d/8d8edf8f-c2bd-4fd1-8abf-d3162e068b17.jpg?1654567255|https://scryfall.com/card/neo/107/lethal-exploit?utm_source=api>`
+:mtgtip:`Lethal Exploit<https://cards.scryfall.io/border_crop/front/8/d/8d8edf8f-c2bd-4fd1-8abf-d3162e068b17.jpg?1654567255|https://scryfall.com/card/neo/107/lethal-exploit?utm_source=api>`
    Target creature gets -2/-2 until end of turn. It gets an additional -1/-1 until end of turn for each modified creature you controlled as you cast this spell. (Equipment, Auras you control, and counters are modifications.)
 
 
-:mtgtip:`Life of Toshiro Umezawa<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/7/f7f4adf7-b871-417b-8904-7f024ca21486.jpg?1656453156|https://scryfall.com/card/neo/108/life-of-toshiro-umezawa-memory-of-toshiro?utm_source=api>`
+:mtgtip:`Life of Toshiro Umezawa<https://cards.scryfall.io/border_crop/front/f/7/f7f4adf7-b871-417b-8904-7f024ca21486.jpg?1656453156|https://scryfall.com/card/neo/108/life-of-toshiro-umezawa-memory-of-toshiro?utm_source=api>`
    (As this Saga enters and after your draw step, add a lore counter.)
 
    I, II — Choose one —
@@ -747,11 +747,11 @@
    III — Exile this Saga, then return it to the battlefield transformed under your control.
 
 
-:mtgtip:`Memory of Toshiro<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/f/7/f7f4adf7-b871-417b-8904-7f024ca21486.jpg?1656453156|https://scryfall.com/card/neo/108/life-of-toshiro-umezawa-memory-of-toshiro?utm_source=api>`
+:mtgtip:`Memory of Toshiro<https://cards.scryfall.io/border_crop/back/f/7/f7f4adf7-b871-417b-8904-7f024ca21486.jpg?1656453156|https://scryfall.com/card/neo/108/life-of-toshiro-umezawa-memory-of-toshiro?utm_source=api>`
    |tap|, Pay 1 life: Add |mana_b|. Spend this mana only to cast an instant or sorcery spell.
 
 
-:mtgtip:`The Long Reach of Night<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/e/4ec18bf7-bd80-408d-acc4-ffaaf7ef6b5b.jpg?1656453176|https://scryfall.com/card/neo/109/the-long-reach-of-night-animus-of-nights-reach?utm_source=api>`
+:mtgtip:`The Long Reach of Night<https://cards.scryfall.io/border_crop/front/4/e/4ec18bf7-bd80-408d-acc4-ffaaf7ef6b5b.jpg?1656453176|https://scryfall.com/card/neo/109/the-long-reach-of-night-animus-of-nights-reach?utm_source=api>`
    (As this Saga enters and after your draw step, add a lore counter.)
 
    I, II — Each opponent sacrifices a creature unless they discard a card.
@@ -759,53 +759,53 @@
    III — Exile this Saga, then return it to the battlefield transformed under your control.
 
 
-:mtgtip:`Animus of Night's Reach<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/4/e/4ec18bf7-bd80-408d-acc4-ffaaf7ef6b5b.jpg?1656453176|https://scryfall.com/card/neo/109/the-long-reach-of-night-animus-of-nights-reach?utm_source=api>`
+:mtgtip:`Animus of Night's Reach<https://cards.scryfall.io/border_crop/back/4/e/4ec18bf7-bd80-408d-acc4-ffaaf7ef6b5b.jpg?1656453176|https://scryfall.com/card/neo/109/the-long-reach-of-night-animus-of-nights-reach?utm_source=api>`
    Menace (This creature can't be blocked except by two or more creatures.)
 
    Whenever Animus of Night's Reach attacks, it gets +X/+0 until end of turn, where X is the number of creature cards in defending player's graveyard.
 
 
-:mtgtip:`Malicious Malfunction<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/6/56e7415f-f014-4ece-81db-d8271444d9e9.jpg?1654567289|https://scryfall.com/card/neo/110/malicious-malfunction?utm_source=api>`
+:mtgtip:`Malicious Malfunction<https://cards.scryfall.io/border_crop/front/5/6/56e7415f-f014-4ece-81db-d8271444d9e9.jpg?1654567289|https://scryfall.com/card/neo/110/malicious-malfunction?utm_source=api>`
    All creatures get -2/-2 until end of turn. If a creature would die this turn, exile it instead.
 
 
-:mtgtip:`March of Wretched Sorrow<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/5/050a604e-6146-4e2e-88a5-863ecb3dfa1f.jpg?1654567293|https://scryfall.com/card/neo/111/march-of-wretched-sorrow?utm_source=api>`
+:mtgtip:`March of Wretched Sorrow<https://cards.scryfall.io/border_crop/front/0/5/050a604e-6146-4e2e-88a5-863ecb3dfa1f.jpg?1654567293|https://scryfall.com/card/neo/111/march-of-wretched-sorrow?utm_source=api>`
    As an additional cost to cast this spell, you may exile any number of black cards from your hand. This spell costs |mana_2| less to cast for each card exiled this way.
 
    March of Wretched Sorrow deals X damage to target creature or planeswalker and you gain X life.
 
 
-:mtgtip:`Mukotai Ambusher<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/a/0adf3293-c1e0-447c-8231-26fa9476a262.jpg?1654567308|https://scryfall.com/card/neo/112/mukotai-ambusher?utm_source=api>`
+:mtgtip:`Mukotai Ambusher<https://cards.scryfall.io/border_crop/front/0/a/0adf3293-c1e0-447c-8231-26fa9476a262.jpg?1654567308|https://scryfall.com/card/neo/112/mukotai-ambusher?utm_source=api>`
    Ninjutsu |mana_1|\ |mana_b| (|mana_1|\ |mana_b|, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
 
    Lifelink
 
 
-:mtgtip:`Mukotai Soulripper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/6/166775be-c3b7-4a17-9376-aa4229b147f9.jpg?1654567314|https://scryfall.com/card/neo/113/mukotai-soulripper?utm_source=api>`
+:mtgtip:`Mukotai Soulripper<https://cards.scryfall.io/border_crop/front/1/6/166775be-c3b7-4a17-9376-aa4229b147f9.jpg?1654567314|https://scryfall.com/card/neo/113/mukotai-soulripper?utm_source=api>`
    Whenever Mukotai Soulripper attacks, you may sacrifice another artifact or creature. If you do, put a +1/+1 counter on Mukotai Soulripper and it gains menace until end of turn.
 
    Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)
 
 
-:mtgtip:`Nashi, Moon Sage's Scion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/8/2893b070-a610-4273-beb2-7609a2da0499.jpg?1654567331|https://scryfall.com/card/neo/114/nashi-moon-sages-scion?utm_source=api>`
+:mtgtip:`Nashi, Moon Sage's Scion<https://cards.scryfall.io/border_crop/front/2/8/2893b070-a610-4273-beb2-7609a2da0499.jpg?1654567331|https://scryfall.com/card/neo/114/nashi-moon-sages-scion?utm_source=api>`
    Ninjutsu |mana_3|\ |mana_b| (|mana_3|\ |mana_b|, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
 
    Whenever Nashi, Moon Sage's Scion deals combat damage to a player, exile the top card of each player's library. Until end of turn, you may play one of those cards. If you cast a spell this way, pay life equal to its mana value rather than paying its mana cost.
 
 
-:mtgtip:`Nezumi Bladeblesser<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/a/9a03d3f5-b32b-4814-b485-25f24e51609c.jpg?1654567333|https://scryfall.com/card/neo/115/nezumi-bladeblesser?utm_source=api>`
+:mtgtip:`Nezumi Bladeblesser<https://cards.scryfall.io/border_crop/front/9/a/9a03d3f5-b32b-4814-b485-25f24e51609c.jpg?1654567333|https://scryfall.com/card/neo/115/nezumi-bladeblesser?utm_source=api>`
    Nezumi Bladeblesser has deathtouch as long as you control an artifact.
 
    Nezumi Bladeblesser has menace as long as you control an enchantment. (It can't be blocked except by two or more creatures.)
 
 
-:mtgtip:`Nezumi Prowler<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/a/ca911e9a-bd04-4531-a81e-3485e9cbe89e.jpg?1654567351|https://scryfall.com/card/neo/116/nezumi-prowler?utm_source=api>`
+:mtgtip:`Nezumi Prowler<https://cards.scryfall.io/border_crop/front/c/a/ca911e9a-bd04-4531-a81e-3485e9cbe89e.jpg?1654567351|https://scryfall.com/card/neo/116/nezumi-prowler?utm_source=api>`
    Ninjutsu |mana_1|\ |mana_b| (|mana_1|\ |mana_b|, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
 
    When Nezumi Prowler enters the battlefield, target creature you control gains deathtouch and lifelink until end of turn.
 
 
-:mtgtip:`Okiba Reckoner Raid<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/f/4f0582b4-d951-4450-b158-4a34109e48cd.jpg?1656453196|https://scryfall.com/card/neo/117/okiba-reckoner-raid-nezumi-road-captain?utm_source=api>`
+:mtgtip:`Okiba Reckoner Raid<https://cards.scryfall.io/border_crop/front/4/f/4f0582b4-d951-4450-b158-4a34109e48cd.jpg?1656453196|https://scryfall.com/card/neo/117/okiba-reckoner-raid-nezumi-road-captain?utm_source=api>`
    (As this Saga enters and after your draw step, add a lore counter.)
 
    I, II — Each opponent loses 1 life and you gain 1 life.
@@ -813,31 +813,31 @@
    III — Exile this Saga, then return it to the battlefield transformed under your control.
 
 
-:mtgtip:`Nezumi Road Captain<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/4/f/4f0582b4-d951-4450-b158-4a34109e48cd.jpg?1656453196|https://scryfall.com/card/neo/117/okiba-reckoner-raid-nezumi-road-captain?utm_source=api>`
+:mtgtip:`Nezumi Road Captain<https://cards.scryfall.io/border_crop/back/4/f/4f0582b4-d951-4450-b158-4a34109e48cd.jpg?1656453196|https://scryfall.com/card/neo/117/okiba-reckoner-raid-nezumi-road-captain?utm_source=api>`
    Menace
 
    Vehicles you control have menace. (They can't be blocked except by two or more creatures.)
 
 
-:mtgtip:`Okiba Salvage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/9/d9e4485d-c208-46b4-9b5d-48e55e2ee182.jpg?1654567370|https://scryfall.com/card/neo/118/okiba-salvage?utm_source=api>`
+:mtgtip:`Okiba Salvage<https://cards.scryfall.io/border_crop/front/d/9/d9e4485d-c208-46b4-9b5d-48e55e2ee182.jpg?1654567370|https://scryfall.com/card/neo/118/okiba-salvage?utm_source=api>`
    Return target creature or Vehicle card from your graveyard to the battlefield. Then put two +1/+1 counters on that permanent if you control an artifact and an enchantment.
 
 
-:mtgtip:`Reckoner Shakedown<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/f/cf57666f-366b-43bf-95c7-39c1f7f061e2.jpg?1654567372|https://scryfall.com/card/neo/119/reckoner-shakedown?utm_source=api>`
+:mtgtip:`Reckoner Shakedown<https://cards.scryfall.io/border_crop/front/c/f/cf57666f-366b-43bf-95c7-39c1f7f061e2.jpg?1654567372|https://scryfall.com/card/neo/119/reckoner-shakedown?utm_source=api>`
    Target opponent reveals their hand. You may choose a nonland card from it. If you do, that player discards that card. If you don't, put two +1/+1 counters on a creature or Vehicle you control.
 
 
-:mtgtip:`Reckoner's Bargain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/3/6338942d-d650-4571-8ec6-4d658792c53e.jpg?1654567391|https://scryfall.com/card/neo/120/reckoners-bargain?utm_source=api>`
+:mtgtip:`Reckoner's Bargain<https://cards.scryfall.io/border_crop/front/6/3/6338942d-d650-4571-8ec6-4d658792c53e.jpg?1654567391|https://scryfall.com/card/neo/120/reckoners-bargain?utm_source=api>`
    As an additional cost to cast this spell, sacrifice an artifact or creature.
 
    You gain life equal to the sacrificed permanent's mana value. Draw two cards.
 
 
-:mtgtip:`Return to Action<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/4/342ec072-e581-490c-b5ae-a625bd35a153.jpg?1654567391|https://scryfall.com/card/neo/121/return-to-action?utm_source=api>`
+:mtgtip:`Return to Action<https://cards.scryfall.io/border_crop/front/3/4/342ec072-e581-490c-b5ae-a625bd35a153.jpg?1654567391|https://scryfall.com/card/neo/121/return-to-action?utm_source=api>`
    Until end of turn, target creature gets +1/+0 and gains lifelink and "When this creature dies, return it to the battlefield tapped under its owner's control."
 
 
-:mtgtip:`Soul Transfer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/e/1e5aba90-c8c7-4f06-b7b3-1b4758d2791a.jpg?1654567411|https://scryfall.com/card/neo/122/soul-transfer?utm_source=api>`
+:mtgtip:`Soul Transfer<https://cards.scryfall.io/border_crop/front/1/e/1e5aba90-c8c7-4f06-b7b3-1b4758d2791a.jpg?1654567411|https://scryfall.com/card/neo/122/soul-transfer?utm_source=api>`
    Choose one. If you control an artifact and an enchantment as you cast this spell, you may choose both.
 
    • Exile target creature or planeswalker.
@@ -845,13 +845,13 @@
    • Return target creature or planeswalker card from your graveyard to your hand.
 
 
-:mtgtip:`Tatsunari, Toad Rider<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/b/abf42833-43d0-4b05-b499-d13b2c577ee8.jpg?1654567411|https://scryfall.com/card/neo/123/tatsunari-toad-rider?utm_source=api>`
+:mtgtip:`Tatsunari, Toad Rider<https://cards.scryfall.io/border_crop/front/a/b/abf42833-43d0-4b05-b499-d13b2c577ee8.jpg?1654567411|https://scryfall.com/card/neo/123/tatsunari-toad-rider?utm_source=api>`
    Whenever you cast an enchantment spell, if you don't control a creature named Keimi, create Keimi, a legendary 3/3 black and green Frog creature token with "Whenever you cast an enchantment spell, each opponent loses 1 life and you gain 1 life."
 
    |mana_1|\ |mana_gu|: Tatsunari, Toad Rider and target Frog you control can't be blocked this turn except by creatures with flying or reach.
 
 
-:mtgtip:`Tribute to Horobi<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/4/54613f38-ca91-4764-b1fe-60cd83707fb4.jpg?1656453216|https://scryfall.com/card/neo/124/tribute-to-horobi-echo-of-deaths-wail?utm_source=api>`
+:mtgtip:`Tribute to Horobi<https://cards.scryfall.io/border_crop/front/5/4/54613f38-ca91-4764-b1fe-60cd83707fb4.jpg?1656453216|https://scryfall.com/card/neo/124/tribute-to-horobi-echo-of-deaths-wail?utm_source=api>`
    (As this Saga enters and after your draw step, add a lore counter.)
 
    I, II — Each opponent creates a 1/1 black Rat Rogue creature token.
@@ -859,7 +859,7 @@
    III — Exile this Saga, then return it to the battlefield transformed under your control.
 
 
-:mtgtip:`Echo of Death's Wail<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/5/4/54613f38-ca91-4764-b1fe-60cd83707fb4.jpg?1656453216|https://scryfall.com/card/neo/124/tribute-to-horobi-echo-of-deaths-wail?utm_source=api>`
+:mtgtip:`Echo of Death's Wail<https://cards.scryfall.io/border_crop/back/5/4/54613f38-ca91-4764-b1fe-60cd83707fb4.jpg?1656453216|https://scryfall.com/card/neo/124/tribute-to-horobi-echo-of-deaths-wail?utm_source=api>`
    Flying, haste
 
    When Echo of Death's Wail enters the battlefield, gain control of all Rat tokens.
@@ -867,7 +867,7 @@
    Whenever Echo of Death's Wail attacks, you may sacrifice another creature. If you do, draw a card.
 
 
-:mtgtip:`Twisted Embrace<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/4/e4c7919a-de62-46df-a937-593647473ef5.jpg?1654567436|https://scryfall.com/card/neo/125/twisted-embrace?utm_source=api>`
+:mtgtip:`Twisted Embrace<https://cards.scryfall.io/border_crop/front/e/4/e4c7919a-de62-46df-a937-593647473ef5.jpg?1654567436|https://scryfall.com/card/neo/125/twisted-embrace?utm_source=api>`
    Enchant artifact or creature you control
 
    When Twisted Embrace enters the battlefield, destroy target creature or planeswalker an opponent controls.
@@ -875,45 +875,45 @@
    As long as enchanted permanent is a creature, it gets +1/+1.
 
 
-:mtgtip:`Undercity Scrounger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/3/6319b84b-8a3d-4bc8-af48-8b500f124be1.jpg?1654567454|https://scryfall.com/card/neo/126/undercity-scrounger?utm_source=api>`
+:mtgtip:`Undercity Scrounger<https://cards.scryfall.io/border_crop/front/6/3/6319b84b-8a3d-4bc8-af48-8b500f124be1.jpg?1654567454|https://scryfall.com/card/neo/126/undercity-scrounger?utm_source=api>`
    |tap|: Create a Treasure token. Activate only if a creature died this turn. (It's an artifact with "|tap|, Sacrifice this artifact: Add one mana of any color.")
 
 
-:mtgtip:`Unforgiving One<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/f/cfb20c08-a84a-4773-a90c-fb007b94644b.jpg?1654567456|https://scryfall.com/card/neo/127/unforgiving-one?utm_source=api>`
+:mtgtip:`Unforgiving One<https://cards.scryfall.io/border_crop/front/c/f/cfb20c08-a84a-4773-a90c-fb007b94644b.jpg?1654567456|https://scryfall.com/card/neo/127/unforgiving-one?utm_source=api>`
    Menace (This creature can't be blocked except by two or more creatures.)
 
    Whenever Unforgiving One attacks, return target creature card with mana value X or less from your graveyard to the battlefield, where X is the number of modified creatures you control. (Equipment, Auras you control, and counters are modifications.)
 
 
-:mtgtip:`Virus Beetle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/8/488ee202-0d28-4cc0-8a7d-644d9878e952.jpg?1654567473|https://scryfall.com/card/neo/128/virus-beetle?utm_source=api>`
+:mtgtip:`Virus Beetle<https://cards.scryfall.io/border_crop/front/4/8/488ee202-0d28-4cc0-8a7d-644d9878e952.jpg?1654567473|https://scryfall.com/card/neo/128/virus-beetle?utm_source=api>`
    When Virus Beetle enters the battlefield, each opponent discards a card.
 
 
-:mtgtip:`You Are Already Dead<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/768727ce-4f84-4527-8d69-3c9b7877b748.jpg?1654567474|https://scryfall.com/card/neo/129/you-are-already-dead?utm_source=api>`
+:mtgtip:`You Are Already Dead<https://cards.scryfall.io/border_crop/front/7/6/768727ce-4f84-4527-8d69-3c9b7877b748.jpg?1654567474|https://scryfall.com/card/neo/129/you-are-already-dead?utm_source=api>`
    Destroy target creature that was dealt damage this turn.
 
    Draw a card.
 
 
-:mtgtip:`Akki Ember-Keeper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4d83e837-fcd1-4833-9117-e6f1bb53caad.jpg?1654567492|https://scryfall.com/card/neo/130/akki-ember-keeper?utm_source=api>`
+:mtgtip:`Akki Ember-Keeper<https://cards.scryfall.io/border_crop/front/4/d/4d83e837-fcd1-4833-9117-e6f1bb53caad.jpg?1654567492|https://scryfall.com/card/neo/130/akki-ember-keeper?utm_source=api>`
    Whenever a nontoken modified creature you control dies, create a 1/1 colorless Spirit creature token. (Equipment, Auras you control, and counters are modifications.)
 
 
-:mtgtip:`Akki Ronin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/6/96f15754-1ca6-45b0-a7de-2fe507df2a1a.jpg?1654567494|https://scryfall.com/card/neo/131/akki-ronin?utm_source=api>`
+:mtgtip:`Akki Ronin<https://cards.scryfall.io/border_crop/front/9/6/96f15754-1ca6-45b0-a7de-2fe507df2a1a.jpg?1654567494|https://scryfall.com/card/neo/131/akki-ronin?utm_source=api>`
    Whenever a Samurai or Warrior you control attacks alone, you may discard a card. If you do, draw a card.
 
 
-:mtgtip:`Akki War Paint<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/1/f110698e-a343-4eff-ba23-ed7ac5a3f87b.jpg?1654567513|https://scryfall.com/card/neo/132/akki-war-paint?utm_source=api>`
+:mtgtip:`Akki War Paint<https://cards.scryfall.io/border_crop/front/f/1/f110698e-a343-4eff-ba23-ed7ac5a3f87b.jpg?1654567513|https://scryfall.com/card/neo/132/akki-war-paint?utm_source=api>`
    Enchant artifact or creature
 
    As long as enchanted permanent is a creature, it gets +2/+1.
 
 
-:mtgtip:`Ambitious Assault<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/0/d00d618d-abad-475b-b938-e111282ea1c3.jpg?1654567513|https://scryfall.com/card/neo/133/ambitious-assault?utm_source=api>`
+:mtgtip:`Ambitious Assault<https://cards.scryfall.io/border_crop/front/d/0/d00d618d-abad-475b-b938-e111282ea1c3.jpg?1654567513|https://scryfall.com/card/neo/133/ambitious-assault?utm_source=api>`
    Creatures you control get +2/+0 until end of turn. If you control a modified creature, draw a card. (Equipment, Auras you control, and counters are modifications.)
 
 
-:mtgtip:`Atsushi, the Blazing Sky<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/3/73b64c17-8a52-4d9d-a28b-7e0e945be059.jpg?1654567533|https://scryfall.com/card/neo/134/atsushi-the-blazing-sky?utm_source=api>`
+:mtgtip:`Atsushi, the Blazing Sky<https://cards.scryfall.io/border_crop/front/7/3/73b64c17-8a52-4d9d-a28b-7e0e945be059.jpg?1654567533|https://scryfall.com/card/neo/134/atsushi-the-blazing-sky?utm_source=api>`
    Flying, trample
 
    When Atsushi, the Blazing Sky dies, choose one —
@@ -923,7 +923,7 @@
    • Create three Treasure tokens.
 
 
-:mtgtip:`Bronzeplate Boar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7c8f5da8-13a8-4b39-8ddc-7661892924af.jpg?1654567537|https://scryfall.com/card/neo/135/bronzeplate-boar?utm_source=api>`
+:mtgtip:`Bronzeplate Boar<https://cards.scryfall.io/border_crop/front/7/c/7c8f5da8-13a8-4b39-8ddc-7661892924af.jpg?1654567537|https://scryfall.com/card/neo/135/bronzeplate-boar?utm_source=api>`
    Trample
 
    Equipped creature gets +3/+2 and has trample.
@@ -931,7 +931,7 @@
    Reconfigure |mana_5| (|mana_5|: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)
 
 
-:mtgtip:`Crackling Emergence<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/f/6f77f987-ebb7-4105-a67c-0987f50fc676.jpg?1654567555|https://scryfall.com/card/neo/136/crackling-emergence?utm_source=api>`
+:mtgtip:`Crackling Emergence<https://cards.scryfall.io/border_crop/front/6/f/6f77f987-ebb7-4105-a67c-0987f50fc676.jpg?1654567555|https://scryfall.com/card/neo/136/crackling-emergence?utm_source=api>`
    Enchant land you control
 
    Enchanted land is a 3/3 red Spirit creature with haste. It's still a land.
@@ -939,29 +939,29 @@
    If enchanted land would be destroyed, instead sacrifice Crackling Emergence and that land gains indestructible until end of turn.
 
 
-:mtgtip:`Dragonspark Reactor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/c/5cf531dd-0a93-43e3-880b-f705fa5f533d.jpg?1654567558|https://scryfall.com/card/neo/137/dragonspark-reactor?utm_source=api>`
+:mtgtip:`Dragonspark Reactor<https://cards.scryfall.io/border_crop/front/5/c/5cf531dd-0a93-43e3-880b-f705fa5f533d.jpg?1654567558|https://scryfall.com/card/neo/137/dragonspark-reactor?utm_source=api>`
    Whenever Dragonspark Reactor or another artifact enters the battlefield under your control, put a charge counter on Dragonspark Reactor.
 
    |mana_4|, Sacrifice Dragonspark Reactor: It deals damage equal to the number of charge counters on it to target player and that much damage to up to one target creature.
 
 
-:mtgtip:`Experimental Synthesizer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/4/c47931c9-685d-4b83-8299-bc347224b4e8.jpg?1654567579|https://scryfall.com/card/neo/138/experimental-synthesizer?utm_source=api>`
+:mtgtip:`Experimental Synthesizer<https://cards.scryfall.io/border_crop/front/c/4/c47931c9-685d-4b83-8299-bc347224b4e8.jpg?1654567579|https://scryfall.com/card/neo/138/experimental-synthesizer?utm_source=api>`
    When Experimental Synthesizer enters or leaves the battlefield, exile the top card of your library. Until end of turn, you may play that card.
 
    |mana_2|\ |mana_r|, Sacrifice Experimental Synthesizer: Create a 2/2 white Samurai creature token with vigilance. Activate only as a sorcery.
 
 
-:mtgtip:`Explosive Entry<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/b/7ba639ff-fe82-4ac3-9fb4-eac168bef053.jpg?1654567599|https://scryfall.com/card/neo/139/explosive-entry?utm_source=api>`
+:mtgtip:`Explosive Entry<https://cards.scryfall.io/border_crop/front/7/b/7ba639ff-fe82-4ac3-9fb4-eac168bef053.jpg?1654567599|https://scryfall.com/card/neo/139/explosive-entry?utm_source=api>`
    Destroy up to one target artifact. Put a +1/+1 counter on up to one target creature.
 
 
-:mtgtip:`Explosive Singularity<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/6/e6cdd822-44a1-4d58-9de4-69fc56eae255.jpg?1654567601|https://scryfall.com/card/neo/140/explosive-singularity?utm_source=api>`
+:mtgtip:`Explosive Singularity<https://cards.scryfall.io/border_crop/front/e/6/e6cdd822-44a1-4d58-9de4-69fc56eae255.jpg?1654567601|https://scryfall.com/card/neo/140/explosive-singularity?utm_source=api>`
    As an additional cost to cast this spell, you may tap any number of untapped creatures you control. This spell costs |mana_1| less to cast for each creature tapped this way.
 
    Explosive Singularity deals 10 damage to any target.
 
 
-:mtgtip:`Fable of the Mirror-Breaker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/4/24c0d87b-0049-4beb-b9cb-6f813b7aa7dc.jpg?1656453233|https://scryfall.com/card/neo/141/fable-of-the-mirror-breaker-reflection-of-kiki-jiki?utm_source=api>`
+:mtgtip:`Fable of the Mirror-Breaker<https://cards.scryfall.io/border_crop/front/2/4/24c0d87b-0049-4beb-b9cb-6f813b7aa7dc.jpg?1656453233|https://scryfall.com/card/neo/141/fable-of-the-mirror-breaker-reflection-of-kiki-jiki?utm_source=api>`
    (As this Saga enters and after your draw step, add a lore counter.)
 
    I — Create a 2/2 red Goblin Shaman creature token with "Whenever this creature attacks, create a Treasure token."
@@ -971,15 +971,15 @@
    III — Exile this Saga, then return it to the battlefield transformed under your control.
 
 
-:mtgtip:`Reflection of Kiki-Jiki<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/2/4/24c0d87b-0049-4beb-b9cb-6f813b7aa7dc.jpg?1656453233|https://scryfall.com/card/neo/141/fable-of-the-mirror-breaker-reflection-of-kiki-jiki?utm_source=api>`
+:mtgtip:`Reflection of Kiki-Jiki<https://cards.scryfall.io/border_crop/back/2/4/24c0d87b-0049-4beb-b9cb-6f813b7aa7dc.jpg?1656453233|https://scryfall.com/card/neo/141/fable-of-the-mirror-breaker-reflection-of-kiki-jiki?utm_source=api>`
    |mana_1|, |tap|: Create a token that's a copy of another target nonlegendary creature you control, except it has haste. Sacrifice it at the beginning of the next end step.
 
 
-:mtgtip:`Flame Discharge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/b/0b44534f-d10c-4754-8585-5fe9db5fd4ea.jpg?1654567620|https://scryfall.com/card/neo/142/flame-discharge?utm_source=api>`
+:mtgtip:`Flame Discharge<https://cards.scryfall.io/border_crop/front/0/b/0b44534f-d10c-4754-8585-5fe9db5fd4ea.jpg?1654567620|https://scryfall.com/card/neo/142/flame-discharge?utm_source=api>`
    Flame Discharge deals X damage to target creature or planeswalker. If you controlled a modified creature as you cast this spell, it deals X plus 2 damage instead. (Equipment, Auras you control, and counters are modifications.)
 
 
-:mtgtip:`Gift of Wrath<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/c/3c33f6d9-be29-4698-96f9-d393a2c8ad68.jpg?1654567640|https://scryfall.com/card/neo/143/gift-of-wrath?utm_source=api>`
+:mtgtip:`Gift of Wrath<https://cards.scryfall.io/border_crop/front/3/c/3c33f6d9-be29-4698-96f9-d393a2c8ad68.jpg?1654567640|https://scryfall.com/card/neo/143/gift-of-wrath?utm_source=api>`
    Enchant artifact or creature
 
    As long as enchanted permanent is a creature, it gets +2/+2 and has menace. (It can't be blocked except by two or more creatures.)
@@ -987,47 +987,47 @@
    When Gift of Wrath leaves the battlefield, create a 2/2 red Spirit creature token with menace.
 
 
-:mtgtip:`Go-Shintai of Ancient Wars<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5b915e8d-b972-4ae1-a1c3-74d6623963c8.jpg?1654567651|https://scryfall.com/card/neo/144/go-shintai-of-ancient-wars?utm_source=api>`
+:mtgtip:`Go-Shintai of Ancient Wars<https://cards.scryfall.io/border_crop/front/5/b/5b915e8d-b972-4ae1-a1c3-74d6623963c8.jpg?1654567651|https://scryfall.com/card/neo/144/go-shintai-of-ancient-wars?utm_source=api>`
    First strike
 
    At the beginning of your end step, you may pay |mana_1|. When you do, Go-Shintai of Ancient Wars deals X damage to target player or planeswalker, where X is the number of Shrines you control.
 
 
-:mtgtip:`Goro-Goro, Disciple of Ryusei<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/c/1ca736c7-35a9-48c7-b5a9-69b2a6e33ad0.jpg?1654567661|https://scryfall.com/card/neo/145/goro-goro-disciple-of-ryusei?utm_source=api>`
+:mtgtip:`Goro-Goro, Disciple of Ryusei<https://cards.scryfall.io/border_crop/front/1/c/1ca736c7-35a9-48c7-b5a9-69b2a6e33ad0.jpg?1654567661|https://scryfall.com/card/neo/145/goro-goro-disciple-of-ryusei?utm_source=api>`
    |mana_r|: Creatures you control gain haste until end of turn.
 
    |mana_3|\ |mana_r|\ |mana_r|: Create a 5/5 red Dragon Spirit creature token with flying. Activate only if you control an attacking modified creature. (Equipment, Auras you control, and counters are modifications.)
 
 
-:mtgtip:`Heiko Yamazaki, the General<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/e/9ea5e61c-d903-410b-9acf-96a917ce05cc.jpg?1654567669|https://scryfall.com/card/neo/146/heiko-yamazaki-the-general?utm_source=api>`
+:mtgtip:`Heiko Yamazaki, the General<https://cards.scryfall.io/border_crop/front/9/e/9ea5e61c-d903-410b-9acf-96a917ce05cc.jpg?1654567669|https://scryfall.com/card/neo/146/heiko-yamazaki-the-general?utm_source=api>`
    Trample
 
    Whenever a Samurai or Warrior you control attacks alone, you may cast target artifact card from your graveyard this turn.
 
 
-:mtgtip:`Invoke Calamity<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/e/fe666c86-6734-4c47-9244-bcd26b54068d.jpg?1654567682|https://scryfall.com/card/neo/147/invoke-calamity?utm_source=api>`
+:mtgtip:`Invoke Calamity<https://cards.scryfall.io/border_crop/front/f/e/fe666c86-6734-4c47-9244-bcd26b54068d.jpg?1654567682|https://scryfall.com/card/neo/147/invoke-calamity?utm_source=api>`
    You may cast up to two instant and/or sorcery spells with total mana value 6 or less from your graveyard and/or hand without paying their mana costs. If those spells would be put into your graveyard, exile them instead. Exile Invoke Calamity.
 
 
-:mtgtip:`Ironhoof Boar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/3/73abe574-6fb8-4809-9c18-0cf989f986f5.jpg?1654567688|https://scryfall.com/card/neo/148/ironhoof-boar?utm_source=api>`
+:mtgtip:`Ironhoof Boar<https://cards.scryfall.io/border_crop/front/7/3/73abe574-6fb8-4809-9c18-0cf989f986f5.jpg?1654567688|https://scryfall.com/card/neo/148/ironhoof-boar?utm_source=api>`
    Trample, haste
 
    Channel — |mana_1|\ |mana_r|, Discard Ironhoof Boar: Target creature gets +3/+1 and gains trample until end of turn.
 
 
-:mtgtip:`Kami of Industry<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/3/d3d00e61-3007-43da-960b-823e9ead2acf.jpg?1654567702|https://scryfall.com/card/neo/149/kami-of-industry?utm_source=api>`
+:mtgtip:`Kami of Industry<https://cards.scryfall.io/border_crop/front/d/3/d3d00e61-3007-43da-960b-823e9ead2acf.jpg?1654567702|https://scryfall.com/card/neo/149/kami-of-industry?utm_source=api>`
    When Kami of Industry enters the battlefield, return target artifact card with mana value 3 or less from your graveyard to the battlefield. It gains haste. Sacrifice it at the beginning of the next end step.
 
 
-:mtgtip:`Kami's Flare<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/e/bef5d58e-b490-4682-9a44-12cd61a94c0f.jpg?1654567705|https://scryfall.com/card/neo/150/kamis-flare?utm_source=api>`
+:mtgtip:`Kami's Flare<https://cards.scryfall.io/border_crop/front/b/e/bef5d58e-b490-4682-9a44-12cd61a94c0f.jpg?1654567705|https://scryfall.com/card/neo/150/kamis-flare?utm_source=api>`
    Kami's Flare deals 3 damage to target creature or planeswalker. Kami's Flare also deals 2 damage to that permanent's controller if you control a modified creature. (Equipment, Auras you control, and counters are modifications.)
 
 
-:mtgtip:`Kindled Fury<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/8/58c8bdce-73a3-4266-b3d6-61dbf4534ea3.jpg?1654567722|https://scryfall.com/card/neo/151/kindled-fury?utm_source=api>`
+:mtgtip:`Kindled Fury<https://cards.scryfall.io/border_crop/front/5/8/58c8bdce-73a3-4266-b3d6-61dbf4534ea3.jpg?1654567722|https://scryfall.com/card/neo/151/kindled-fury?utm_source=api>`
    Target creature gets +1/+0 and gains first strike until end of turn.
 
 
-:mtgtip:`Kumano Faces Kakkazan<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/8/28d92cad-45b0-479d-97fc-c175f3a3f259.jpg?1660075559|https://scryfall.com/card/neo/152/kumano-faces-kakkazan-etching-of-kumano?utm_source=api>`
+:mtgtip:`Kumano Faces Kakkazan<https://cards.scryfall.io/border_crop/front/2/8/28d92cad-45b0-479d-97fc-c175f3a3f259.jpg?1660075559|https://scryfall.com/card/neo/152/kumano-faces-kakkazan-etching-of-kumano?utm_source=api>`
    (As this Saga enters and after your draw step, add a lore counter.)
 
    I — Kumano Faces Kakkazan deals 1 damage to each opponent and each planeswalker they control.
@@ -1037,13 +1037,13 @@
    III — Exile this Saga, then return it to the battlefield transformed under your control.
 
 
-:mtgtip:`Etching of Kumano<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/2/8/28d92cad-45b0-479d-97fc-c175f3a3f259.jpg?1660075559|https://scryfall.com/card/neo/152/kumano-faces-kakkazan-etching-of-kumano?utm_source=api>`
+:mtgtip:`Etching of Kumano<https://cards.scryfall.io/border_crop/back/2/8/28d92cad-45b0-479d-97fc-c175f3a3f259.jpg?1660075559|https://scryfall.com/card/neo/152/kumano-faces-kakkazan-etching-of-kumano?utm_source=api>`
    Haste
 
    If a creature dealt damage this turn by a source you controlled would die, exile it instead.
 
 
-:mtgtip:`Lizard Blades<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/7/a747e6cf-c687-4c4f-8e07-d51165d6cb62.jpg?1654567747|https://scryfall.com/card/neo/153/lizard-blades?utm_source=api>`
+:mtgtip:`Lizard Blades<https://cards.scryfall.io/border_crop/front/a/7/a747e6cf-c687-4c4f-8e07-d51165d6cb62.jpg?1654567747|https://scryfall.com/card/neo/153/lizard-blades?utm_source=api>`
    Double strike
 
    Equipped creature has double strike.
@@ -1051,13 +1051,13 @@
    Reconfigure |mana_2| (|mana_2|: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)
 
 
-:mtgtip:`March of Reckless Joy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/8/780e1bf1-e392-40f2-9e84-764dedc5fcd4.jpg?1654567748|https://scryfall.com/card/neo/154/march-of-reckless-joy?utm_source=api>`
+:mtgtip:`March of Reckless Joy<https://cards.scryfall.io/border_crop/front/7/8/780e1bf1-e392-40f2-9e84-764dedc5fcd4.jpg?1654567748|https://scryfall.com/card/neo/154/march-of-reckless-joy?utm_source=api>`
    As an additional cost to cast this spell, you may exile any number of red cards from your hand. This spell costs |mana_2| less to cast for each card exiled this way.
 
    Exile the top X cards of your library. You may play up to two of those cards until the end of your next turn.
 
 
-:mtgtip:`Ogre-Head Helm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/a/3a0d5f7d-4e8a-42ad-8875-610004bd9796.jpg?1654567765|https://scryfall.com/card/neo/155/ogre-head-helm?utm_source=api>`
+:mtgtip:`Ogre-Head Helm<https://cards.scryfall.io/border_crop/front/3/a/3a0d5f7d-4e8a-42ad-8875-610004bd9796.jpg?1654567765|https://scryfall.com/card/neo/155/ogre-head-helm?utm_source=api>`
    Equipped creature gets +2/+2.
 
    Whenever Ogre-Head Helm or equipped creature deals combat damage to a player, you may sacrifice it. If you do, discard your hand, then draw three cards.
@@ -1065,13 +1065,13 @@
    Reconfigure |mana_3| (|mana_3|: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)
 
 
-:mtgtip:`Peerless Samurai<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/5/e5b2176d-8925-4474-9d3e-1c97192715fb.jpg?1654567775|https://scryfall.com/card/neo/156/peerless-samurai?utm_source=api>`
+:mtgtip:`Peerless Samurai<https://cards.scryfall.io/border_crop/front/e/5/e5b2176d-8925-4474-9d3e-1c97192715fb.jpg?1654567775|https://scryfall.com/card/neo/156/peerless-samurai?utm_source=api>`
    Menace (This creature can't be blocked except by two or more creatures.)
 
    Whenever a Samurai or Warrior you control attacks alone, the next spell you cast this turn costs |mana_1| less to cast.
 
 
-:mtgtip:`Rabbit Battery<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/d/5d33a5b7-797b-4079-8d62-edd124c0fb5a.jpg?1654567784|https://scryfall.com/card/neo/157/rabbit-battery?utm_source=api>`
+:mtgtip:`Rabbit Battery<https://cards.scryfall.io/border_crop/front/5/d/5d33a5b7-797b-4079-8d62-edd124c0fb5a.jpg?1654567784|https://scryfall.com/card/neo/157/rabbit-battery?utm_source=api>`
    Haste
 
    Equipped creature gets +1/+1 and has haste.
@@ -1079,7 +1079,7 @@
    Reconfigure |mana_r| (|mana_r|: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)
 
 
-:mtgtip:`Reinforced Ronin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/9/89a18961-8f0b-4e98-9de4-aba97e91ad9a.jpg?1654567795|https://scryfall.com/card/neo/158/reinforced-ronin?utm_source=api>`
+:mtgtip:`Reinforced Ronin<https://cards.scryfall.io/border_crop/front/8/9/89a18961-8f0b-4e98-9de4-aba97e91ad9a.jpg?1654567795|https://scryfall.com/card/neo/158/reinforced-ronin?utm_source=api>`
    Haste
 
    At the beginning of your end step, return Reinforced Ronin to its owner's hand.
@@ -1087,19 +1087,19 @@
    Channel — |mana_1|\ |mana_r|, Discard Reinforced Ronin: Draw a card.
 
 
-:mtgtip:`Scrap Welder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/4/14057067-2325-4229-8580-d9a6397ae343.jpg?1654567802|https://scryfall.com/card/neo/159/scrap-welder?utm_source=api>`
+:mtgtip:`Scrap Welder<https://cards.scryfall.io/border_crop/front/1/4/14057067-2325-4229-8580-d9a6397ae343.jpg?1654567802|https://scryfall.com/card/neo/159/scrap-welder?utm_source=api>`
    |tap|, Sacrifice an artifact with mana value X: Return target artifact card with mana value less than X from your graveyard to the battlefield. It gains haste until end of turn.
 
 
-:mtgtip:`Scrapyard Steelbreaker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/7/5776e576-5562-45ea-a29b-185410317e17.jpg?1654567814|https://scryfall.com/card/neo/160/scrapyard-steelbreaker?utm_source=api>`
+:mtgtip:`Scrapyard Steelbreaker<https://cards.scryfall.io/border_crop/front/5/7/5776e576-5562-45ea-a29b-185410317e17.jpg?1654567814|https://scryfall.com/card/neo/160/scrapyard-steelbreaker?utm_source=api>`
    |mana_1|, Sacrifice another artifact: Scrapyard Steelbreaker gets +2/+1 until end of turn.
 
 
-:mtgtip:`Seismic Wave<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/5/e55b8ffb-c2e4-4676-9051-ff6c686cad0b.jpg?1654567822|https://scryfall.com/card/neo/161/seismic-wave?utm_source=api>`
+:mtgtip:`Seismic Wave<https://cards.scryfall.io/border_crop/front/e/5/e55b8ffb-c2e4-4676-9051-ff6c686cad0b.jpg?1654567822|https://scryfall.com/card/neo/161/seismic-wave?utm_source=api>`
    Seismic Wave deals 2 damage to any target and 1 damage to each nonartifact creature target opponent controls.
 
 
-:mtgtip:`The Shattered States Era<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/1/517392f6-d3fd-4c59-8317-2a3595ab7562.jpg?1656453268|https://scryfall.com/card/neo/162/the-shattered-states-era-nameless-conqueror?utm_source=api>`
+:mtgtip:`The Shattered States Era<https://cards.scryfall.io/border_crop/front/5/1/517392f6-d3fd-4c59-8317-2a3595ab7562.jpg?1656453268|https://scryfall.com/card/neo/162/the-shattered-states-era-nameless-conqueror?utm_source=api>`
    (As this Saga enters and after your draw step, add a lore counter.)
 
    I — Gain control of target creature until end of turn. Untap it. It gains haste until end of turn.
@@ -1109,11 +1109,11 @@
    III — Exile this Saga, then return it to the battlefield transformed under your control.
 
 
-:mtgtip:`Nameless Conqueror<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/5/1/517392f6-d3fd-4c59-8317-2a3595ab7562.jpg?1656453268|https://scryfall.com/card/neo/162/the-shattered-states-era-nameless-conqueror?utm_source=api>`
+:mtgtip:`Nameless Conqueror<https://cards.scryfall.io/border_crop/back/5/1/517392f6-d3fd-4c59-8317-2a3595ab7562.jpg?1656453268|https://scryfall.com/card/neo/162/the-shattered-states-era-nameless-conqueror?utm_source=api>`
    Trample, haste
 
 
-:mtgtip:`Simian Sling<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/7/37a00f95-d563-4d51-a5f2-af139261921a.jpg?1654567852|https://scryfall.com/card/neo/163/simian-sling?utm_source=api>`
+:mtgtip:`Simian Sling<https://cards.scryfall.io/border_crop/front/3/7/37a00f95-d563-4d51-a5f2-af139261921a.jpg?1654567852|https://scryfall.com/card/neo/163/simian-sling?utm_source=api>`
    Equipped creature gets +1/+1.
 
    Whenever Simian Sling or equipped creature becomes blocked, it deals 1 damage to defending player.
@@ -1121,25 +1121,25 @@
    Reconfigure |mana_2| (|mana_2|: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)
 
 
-:mtgtip:`Sokenzan Smelter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/5/758724f9-93c9-4178-ae40-3fefc75a010e.jpg?1654567872|https://scryfall.com/card/neo/164/sokenzan-smelter?utm_source=api>`
+:mtgtip:`Sokenzan Smelter<https://cards.scryfall.io/border_crop/front/7/5/758724f9-93c9-4178-ae40-3fefc75a010e.jpg?1654567872|https://scryfall.com/card/neo/164/sokenzan-smelter?utm_source=api>`
    At the beginning of combat on your turn, you may pay |mana_1| and sacrifice an artifact. If you do, create a 3/1 red Construct artifact creature token with haste.
 
 
-:mtgtip:`Tempered in Solitude<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/c/2cfd0693-6dba-4c0d-8c42-859d7bf38c40.jpg?1654567875|https://scryfall.com/card/neo/165/tempered-in-solitude?utm_source=api>`
+:mtgtip:`Tempered in Solitude<https://cards.scryfall.io/border_crop/front/2/c/2cfd0693-6dba-4c0d-8c42-859d7bf38c40.jpg?1654567875|https://scryfall.com/card/neo/165/tempered-in-solitude?utm_source=api>`
    Whenever a creature you control attacks alone, exile the top card of your library. You may play that card this turn.
 
 
-:mtgtip:`Thundering Raiju<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/c/ec1a2920-6d39-4276-921c-65cc16a45f17.jpg?1654567892|https://scryfall.com/card/neo/166/thundering-raiju?utm_source=api>`
+:mtgtip:`Thundering Raiju<https://cards.scryfall.io/border_crop/front/e/c/ec1a2920-6d39-4276-921c-65cc16a45f17.jpg?1654567892|https://scryfall.com/card/neo/166/thundering-raiju?utm_source=api>`
    Haste
 
    Whenever Thundering Raiju attacks, put a +1/+1 counter on target creature you control. Then Thundering Raiju deals X damage to each opponent, where X is the number of modified creatures you control other than Thundering Raiju. (Equipment, Auras you control, and counters are modifications.)
 
 
-:mtgtip:`Towashi Songshaper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/7/f7ff9be1-765f-4001-a0ac-39c8099924eb.jpg?1654567893|https://scryfall.com/card/neo/167/towashi-songshaper?utm_source=api>`
+:mtgtip:`Towashi Songshaper<https://cards.scryfall.io/border_crop/front/f/7/f7ff9be1-765f-4001-a0ac-39c8099924eb.jpg?1654567893|https://scryfall.com/card/neo/167/towashi-songshaper?utm_source=api>`
    Whenever another artifact enters the battlefield under your control, Towashi Songshaper gets +1/+0 until end of turn.
 
 
-:mtgtip:`Twinshot Sniper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/8/08a86009-4637-4b6c-9d36-367151583668.jpg?1654567912|https://scryfall.com/card/neo/168/twinshot-sniper?utm_source=api>`
+:mtgtip:`Twinshot Sniper<https://cards.scryfall.io/border_crop/front/0/8/08a86009-4637-4b6c-9d36-367151583668.jpg?1654567912|https://scryfall.com/card/neo/168/twinshot-sniper?utm_source=api>`
    Reach
 
    When Twinshot Sniper enters the battlefield, it deals 2 damage to any target.
@@ -1147,21 +1147,21 @@
    Channel — |mana_1|\ |mana_r|, Discard Twinshot Sniper: It deals 2 damage to any target.
 
 
-:mtgtip:`Unstoppable Ogre<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/1/719f20d9-2baa-49b3-8c6a-89f21a07d538.jpg?1654567922|https://scryfall.com/card/neo/169/unstoppable-ogre?utm_source=api>`
+:mtgtip:`Unstoppable Ogre<https://cards.scryfall.io/border_crop/front/7/1/719f20d9-2baa-49b3-8c6a-89f21a07d538.jpg?1654567922|https://scryfall.com/card/neo/169/unstoppable-ogre?utm_source=api>`
    When Unstoppable Ogre enters the battlefield, target creature can't block this turn.
 
 
-:mtgtip:`Upriser Renegade<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/2/62d878c2-a340-4751-adaa-e50b0bb85423.jpg?1654567929|https://scryfall.com/card/neo/170/upriser-renegade?utm_source=api>`
+:mtgtip:`Upriser Renegade<https://cards.scryfall.io/border_crop/front/6/2/62d878c2-a340-4751-adaa-e50b0bb85423.jpg?1654567929|https://scryfall.com/card/neo/170/upriser-renegade?utm_source=api>`
    Upriser Renegade gets +2/+0 for each other modified creature you control. (Equipment, Auras you control, and counters are modifications.)
 
 
-:mtgtip:`Voltage Surge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/a/5a9b7141-45b9-4629-a4e4-b50f93929717.jpg?1654567941|https://scryfall.com/card/neo/171/voltage-surge?utm_source=api>`
+:mtgtip:`Voltage Surge<https://cards.scryfall.io/border_crop/front/5/a/5a9b7141-45b9-4629-a4e4-b50f93929717.jpg?1654567941|https://scryfall.com/card/neo/171/voltage-surge?utm_source=api>`
    As an additional cost to cast this spell, you may sacrifice an artifact.
 
    Voltage Surge deals 2 damage to target creature or planeswalker. If this spell's additional cost was paid, Voltage Surge deals 4 damage instead.
 
 
-:mtgtip:`Azusa's Many Journeys<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/8/e8a51d2a-1582-4bad-995c-e7fe9f810149.jpg?1656453313|https://scryfall.com/card/neo/172/azusas-many-journeys-likeness-of-the-seeker?utm_source=api>`
+:mtgtip:`Azusa's Many Journeys<https://cards.scryfall.io/border_crop/front/e/8/e8a51d2a-1582-4bad-995c-e7fe9f810149.jpg?1656453313|https://scryfall.com/card/neo/172/azusas-many-journeys-likeness-of-the-seeker?utm_source=api>`
    (As this Saga enters and after your draw step, add a lore counter.)
 
    I — You may play an additional land this turn.
@@ -1171,31 +1171,31 @@
    III — Exile this Saga, then return it to the battlefield transformed under your control.
 
 
-:mtgtip:`Likeness of the Seeker<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/e/8/e8a51d2a-1582-4bad-995c-e7fe9f810149.jpg?1656453313|https://scryfall.com/card/neo/172/azusas-many-journeys-likeness-of-the-seeker?utm_source=api>`
+:mtgtip:`Likeness of the Seeker<https://cards.scryfall.io/border_crop/back/e/8/e8a51d2a-1582-4bad-995c-e7fe9f810149.jpg?1656453313|https://scryfall.com/card/neo/172/azusas-many-journeys-likeness-of-the-seeker?utm_source=api>`
    Whenever Likeness of the Seeker becomes blocked, untap up to three lands you control.
 
 
-:mtgtip:`Bamboo Grove Archer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/b/8b43bb9f-1b84-41cc-a4f9-5875ae6d207c.jpg?1654567968|https://scryfall.com/card/neo/173/bamboo-grove-archer?utm_source=api>`
+:mtgtip:`Bamboo Grove Archer<https://cards.scryfall.io/border_crop/front/8/b/8b43bb9f-1b84-41cc-a4f9-5875ae6d207c.jpg?1654567968|https://scryfall.com/card/neo/173/bamboo-grove-archer?utm_source=api>`
    Defender, reach
 
    Channel — |mana_4|\ |mana_g|, Discard Bamboo Grove Archer: Destroy target creature with flying.
 
 
-:mtgtip:`Bearer of Memory<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/4/540ba70a-bea8-4512-83ba-92dab6d25b52.jpg?1654567969|https://scryfall.com/card/neo/174/bearer-of-memory?utm_source=api>`
+:mtgtip:`Bearer of Memory<https://cards.scryfall.io/border_crop/front/5/4/540ba70a-bea8-4512-83ba-92dab6d25b52.jpg?1654567969|https://scryfall.com/card/neo/174/bearer-of-memory?utm_source=api>`
    |mana_5|\ |mana_g|: Put a +1/+1 counter on target enchantment creature. It gains trample until end of turn.
 
 
-:mtgtip:`Blossom Prancer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/2/d26abdf2-efd7-40e5-bfc6-d75fcadd26f8.jpg?1654567990|https://scryfall.com/card/neo/175/blossom-prancer?utm_source=api>`
+:mtgtip:`Blossom Prancer<https://cards.scryfall.io/border_crop/front/d/2/d26abdf2-efd7-40e5-bfc6-d75fcadd26f8.jpg?1654567990|https://scryfall.com/card/neo/175/blossom-prancer?utm_source=api>`
    Reach
 
    When Blossom Prancer enters the battlefield, look at the top five cards of your library. You may reveal a creature or enchantment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. If you didn't put a card into your hand this way, you gain 4 life.
 
 
-:mtgtip:`Boon of Boseiju<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/6/06771591-0480-4232-bc67-216b2e0fe738.jpg?1654567992|https://scryfall.com/card/neo/176/boon-of-boseiju?utm_source=api>`
+:mtgtip:`Boon of Boseiju<https://cards.scryfall.io/border_crop/front/0/6/06771591-0480-4232-bc67-216b2e0fe738.jpg?1654567992|https://scryfall.com/card/neo/176/boon-of-boseiju?utm_source=api>`
    Target creature gets +X/+X until end of turn, where X is the greatest mana value among permanents you control. Untap it.
 
 
-:mtgtip:`Boseiju Reaches Skyward<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/1/1144014b-f13b-4397-97ed-a8de46371a2c.jpg?1656453331|https://scryfall.com/card/neo/177/boseiju-reaches-skyward-branch-of-boseiju?utm_source=api>`
+:mtgtip:`Boseiju Reaches Skyward<https://cards.scryfall.io/border_crop/front/1/1/1144014b-f13b-4397-97ed-a8de46371a2c.jpg?1656453331|https://scryfall.com/card/neo/177/boseiju-reaches-skyward-branch-of-boseiju?utm_source=api>`
    (As this Saga enters and after your draw step, add a lore counter.)
 
    I — Search your library for up to two basic Forest cards, reveal them, put them into your hand, then shuffle.
@@ -1205,13 +1205,13 @@
    III — Exile this Saga, then return it to the battlefield transformed under your control.
 
 
-:mtgtip:`Branch of Boseiju<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/1/1/1144014b-f13b-4397-97ed-a8de46371a2c.jpg?1656453331|https://scryfall.com/card/neo/177/boseiju-reaches-skyward-branch-of-boseiju?utm_source=api>`
+:mtgtip:`Branch of Boseiju<https://cards.scryfall.io/border_crop/back/1/1/1144014b-f13b-4397-97ed-a8de46371a2c.jpg?1656453331|https://scryfall.com/card/neo/177/boseiju-reaches-skyward-branch-of-boseiju?utm_source=api>`
    Reach
 
    Branch of Boseiju gets +1/+1 for each land you control.
 
 
-:mtgtip:`Careful Cultivation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/e/9e2ebad5-0a56-4166-80af-7ebd20ae565a.jpg?1654568011|https://scryfall.com/card/neo/178/careful-cultivation?utm_source=api>`
+:mtgtip:`Careful Cultivation<https://cards.scryfall.io/border_crop/front/9/e/9e2ebad5-0a56-4166-80af-7ebd20ae565a.jpg?1654568011|https://scryfall.com/card/neo/178/careful-cultivation?utm_source=api>`
    Enchant artifact or creature
 
    As long as enchanted permanent is a creature, it gets +1/+3 and has reach and "|tap|: Add |mana_g|\ |mana_g|."
@@ -1219,17 +1219,17 @@
    Channel — |mana_1|\ |mana_g|, Discard Careful Cultivation: Create a 1/1 green Human Monk creature token with "|tap|: Add |mana_g|."
 
 
-:mtgtip:`Coiling Stalker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/e/6eba24f6-8a9c-4398-b2ab-3924b107c7b7.jpg?1654568030|https://scryfall.com/card/neo/179/coiling-stalker?utm_source=api>`
+:mtgtip:`Coiling Stalker<https://cards.scryfall.io/border_crop/front/6/e/6eba24f6-8a9c-4398-b2ab-3924b107c7b7.jpg?1654568030|https://scryfall.com/card/neo/179/coiling-stalker?utm_source=api>`
    Ninjutsu |mana_1|\ |mana_g| (|mana_1|\ |mana_g|, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
 
    Whenever Coiling Stalker deals combat damage to a player, put a +1/+1 counter on target creature you control that doesn't have a +1/+1 counter on it.
 
 
-:mtgtip:`Commune with Spirits<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/3/a35ff4dd-bad3-4496-82b3-8253f48af06d.jpg?1654568031|https://scryfall.com/card/neo/180/commune-with-spirits?utm_source=api>`
+:mtgtip:`Commune with Spirits<https://cards.scryfall.io/border_crop/front/a/3/a35ff4dd-bad3-4496-82b3-8253f48af06d.jpg?1654568031|https://scryfall.com/card/neo/180/commune-with-spirits?utm_source=api>`
    Look at the top four cards of your library. You may reveal an enchantment or land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
 
 
-:mtgtip:`The Dragon-Kami Reborn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/5/2534caaa-a793-415f-977f-1d0fac3642ab.jpg?1654626219|https://scryfall.com/card/neo/181/the-dragon-kami-reborn-dragon-kamis-egg?utm_source=api>`
+:mtgtip:`The Dragon-Kami Reborn<https://cards.scryfall.io/border_crop/front/2/5/2534caaa-a793-415f-977f-1d0fac3642ab.jpg?1654626219|https://scryfall.com/card/neo/181/the-dragon-kami-reborn-dragon-kamis-egg?utm_source=api>`
    (As this Saga enters and after your draw step, add a lore counter.)
 
    I, II — You gain 2 life. Look at the top three cards of your library. Exile one of them face down with a hatching counter on it, then put the rest on the bottom of your library in any order.
@@ -1237,19 +1237,19 @@
    III — Exile this Saga, then return it to the battlefield transformed under your control.
 
 
-:mtgtip:`Dragon-Kami's Egg<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/2/5/2534caaa-a793-415f-977f-1d0fac3642ab.jpg?1654626219|https://scryfall.com/card/neo/181/the-dragon-kami-reborn-dragon-kamis-egg?utm_source=api>`
+:mtgtip:`Dragon-Kami's Egg<https://cards.scryfall.io/border_crop/back/2/5/2534caaa-a793-415f-977f-1d0fac3642ab.jpg?1654626219|https://scryfall.com/card/neo/181/the-dragon-kami-reborn-dragon-kamis-egg?utm_source=api>`
    Whenever Dragon-Kami's Egg or a Dragon you control dies, you may cast a creature spell from among cards you own in exile with hatching counters on them without paying its mana cost.
 
 
-:mtgtip:`Fade into Antiquity<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/5/55174ab7-9f2e-42e5-a61b-57458cfd33f3.jpg?1654568069|https://scryfall.com/card/neo/182/fade-into-antiquity?utm_source=api>`
+:mtgtip:`Fade into Antiquity<https://cards.scryfall.io/border_crop/front/5/5/55174ab7-9f2e-42e5-a61b-57458cfd33f3.jpg?1654568069|https://scryfall.com/card/neo/182/fade-into-antiquity?utm_source=api>`
    Exile target artifact or enchantment.
 
 
-:mtgtip:`Fang of Shigeki<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/d/2dd0fef1-209f-4de5-a736-8f9bca2faa0a.jpg?1654568075|https://scryfall.com/card/neo/183/fang-of-shigeki?utm_source=api>`
+:mtgtip:`Fang of Shigeki<https://cards.scryfall.io/border_crop/front/2/d/2dd0fef1-209f-4de5-a736-8f9bca2faa0a.jpg?1654568075|https://scryfall.com/card/neo/183/fang-of-shigeki?utm_source=api>`
    Deathtouch
 
 
-:mtgtip:`Favor of Jukai<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/0/1013266a-81f4-4441-8dcf-2764d14afceb.jpg?1654568089|https://scryfall.com/card/neo/184/favor-of-jukai?utm_source=api>`
+:mtgtip:`Favor of Jukai<https://cards.scryfall.io/border_crop/front/1/0/1013266a-81f4-4441-8dcf-2764d14afceb.jpg?1654568089|https://scryfall.com/card/neo/184/favor-of-jukai?utm_source=api>`
    Enchant artifact or creature
 
    As long as enchanted permanent is a creature, it gets +3/+3 and has reach.
@@ -1257,21 +1257,21 @@
    Channel — |mana_1|\ |mana_g|, Discard Favor of Jukai: Target creature gets +3/+3 and gains reach until end of turn.
 
 
-:mtgtip:`Generous Visitor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/1/d1066ccd-a932-4d05-98da-11ae4675364e.jpg?1654568092|https://scryfall.com/card/neo/185/generous-visitor?utm_source=api>`
+:mtgtip:`Generous Visitor<https://cards.scryfall.io/border_crop/front/d/1/d1066ccd-a932-4d05-98da-11ae4675364e.jpg?1654568092|https://scryfall.com/card/neo/185/generous-visitor?utm_source=api>`
    Whenever you cast an enchantment spell, put a +1/+1 counter on target creature.
 
 
-:mtgtip:`Geothermal Kami<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/5/559d7162-39fc-4d99-8c5f-b40a765b883a.jpg?1654568107|https://scryfall.com/card/neo/186/geothermal-kami?utm_source=api>`
+:mtgtip:`Geothermal Kami<https://cards.scryfall.io/border_crop/front/5/5/559d7162-39fc-4d99-8c5f-b40a765b883a.jpg?1654568107|https://scryfall.com/card/neo/186/geothermal-kami?utm_source=api>`
    When Geothermal Kami enters the battlefield, you may return an enchantment you control to its owner's hand. If you do, you gain 3 life.
 
 
-:mtgtip:`Go-Shintai of Boundless Vigor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/9/691016a1-8630-423c-9a57-061593d170fd.jpg?1654568114|https://scryfall.com/card/neo/187/go-shintai-of-boundless-vigor?utm_source=api>`
+:mtgtip:`Go-Shintai of Boundless Vigor<https://cards.scryfall.io/border_crop/front/6/9/691016a1-8630-423c-9a57-061593d170fd.jpg?1654568114|https://scryfall.com/card/neo/187/go-shintai-of-boundless-vigor?utm_source=api>`
    Trample
 
    At the beginning of your end step, you may pay |mana_1|. When you do, put a +1/+1 counter on target Shrine for each Shrine you control.
 
 
-:mtgtip:`Grafted Growth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/7/e7a15010-1b70-4b4f-8b5d-cb2d764a1799.jpg?1654568125|https://scryfall.com/card/neo/188/grafted-growth?utm_source=api>`
+:mtgtip:`Grafted Growth<https://cards.scryfall.io/border_crop/front/e/7/e7a15010-1b70-4b4f-8b5d-cb2d764a1799.jpg?1654568125|https://scryfall.com/card/neo/188/grafted-growth?utm_source=api>`
    Enchant land
 
    When Grafted Growth enters the battlefield, put a +1/+1 counter on target creature or Vehicle you control.
@@ -1279,13 +1279,13 @@
    Enchanted land has "|tap|: Add two mana of any one color."
 
 
-:mtgtip:`Greater Tanuki<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/4/b4fbaee3-a10f-4b2d-b07e-d041a96a7e27.jpg?1654568132|https://scryfall.com/card/neo/189/greater-tanuki?utm_source=api>`
+:mtgtip:`Greater Tanuki<https://cards.scryfall.io/border_crop/front/b/4/b4fbaee3-a10f-4b2d-b07e-d041a96a7e27.jpg?1654568132|https://scryfall.com/card/neo/189/greater-tanuki?utm_source=api>`
    Trample
 
    Channel — |mana_2|\ |mana_g|, Discard Greater Tanuki: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
 
-:mtgtip:`Harmonious Emergence<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/9/c92ff968-b436-4313-8375-8a3bb41f9892.jpg?1654568143|https://scryfall.com/card/neo/190/harmonious-emergence?utm_source=api>`
+:mtgtip:`Harmonious Emergence<https://cards.scryfall.io/border_crop/front/c/9/c92ff968-b436-4313-8375-8a3bb41f9892.jpg?1654568143|https://scryfall.com/card/neo/190/harmonious-emergence?utm_source=api>`
    Enchant land you control
 
    Enchanted land is a 4/5 green Spirit creature with vigilance and haste. It's still a land.
@@ -1293,11 +1293,11 @@
    If enchanted land would be destroyed, instead sacrifice Harmonious Emergence and that land gains indestructible until end of turn.
 
 
-:mtgtip:`Heir of the Ancient Fang<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/4/d45daa56-6ad8-4df7-9d81-3193fd32e574.jpg?1654568149|https://scryfall.com/card/neo/191/heir-of-the-ancient-fang?utm_source=api>`
+:mtgtip:`Heir of the Ancient Fang<https://cards.scryfall.io/border_crop/front/d/4/d45daa56-6ad8-4df7-9d81-3193fd32e574.jpg?1654568149|https://scryfall.com/card/neo/191/heir-of-the-ancient-fang?utm_source=api>`
    Heir of the Ancient Fang enters the battlefield with a +1/+1 counter on it if you control a modified creature. (Equipment, Auras you control, and counters are modifications.)
 
 
-:mtgtip:`Historian's Wisdom<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/4/941f91bb-f5a3-4cca-85b5-b610502460bb.jpg?1654568164|https://scryfall.com/card/neo/192/historians-wisdom?utm_source=api>`
+:mtgtip:`Historian's Wisdom<https://cards.scryfall.io/border_crop/front/9/4/941f91bb-f5a3-4cca-85b5-b610502460bb.jpg?1654568164|https://scryfall.com/card/neo/192/historians-wisdom?utm_source=api>`
    Enchant artifact or creature
 
    When Historian's Wisdom enters the battlefield, if enchanted permanent is a creature with the greatest power among creatures on the battlefield, draw a card.
@@ -1305,11 +1305,11 @@
    As long as enchanted permanent is a creature, it gets +2/+1.
 
 
-:mtgtip:`Invoke the Ancients<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/5/b5c02102-3be7-462f-ab9c-ff404255002d.jpg?1654568175|https://scryfall.com/card/neo/193/invoke-the-ancients?utm_source=api>`
+:mtgtip:`Invoke the Ancients<https://cards.scryfall.io/border_crop/front/b/5/b5c02102-3be7-462f-ab9c-ff404255002d.jpg?1654568175|https://scryfall.com/card/neo/193/invoke-the-ancients?utm_source=api>`
    Create two 4/5 green Spirit creature tokens. For each of them, put your choice of a vigilance counter, a reach counter, or a trample counter on it.
 
 
-:mtgtip:`Jugan Defends the Temple<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/2/a22b5f27-f9e7-49e1-8e96-dc5d8e7fbe27.jpg?1656453354|https://scryfall.com/card/neo/194/jugan-defends-the-temple-remnant-of-the-rising-star?utm_source=api>`
+:mtgtip:`Jugan Defends the Temple<https://cards.scryfall.io/border_crop/front/a/2/a22b5f27-f9e7-49e1-8e96-dc5d8e7fbe27.jpg?1656453354|https://scryfall.com/card/neo/194/jugan-defends-the-temple-remnant-of-the-rising-star?utm_source=api>`
    (As this Saga enters and after your draw step, add a lore counter.)
 
    I — Create a 1/1 green Human Monk creature token with "|tap|: Add |mana_g|."
@@ -1319,7 +1319,7 @@
    III — Exile this Saga, then return it to the battlefield transformed under your control.
 
 
-:mtgtip:`Remnant of the Rising Star<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/a/2/a22b5f27-f9e7-49e1-8e96-dc5d8e7fbe27.jpg?1656453354|https://scryfall.com/card/neo/194/jugan-defends-the-temple-remnant-of-the-rising-star?utm_source=api>`
+:mtgtip:`Remnant of the Rising Star<https://cards.scryfall.io/border_crop/back/a/2/a22b5f27-f9e7-49e1-8e96-dc5d8e7fbe27.jpg?1656453354|https://scryfall.com/card/neo/194/jugan-defends-the-temple-remnant-of-the-rising-star?utm_source=api>`
    Flying
 
    Whenever another creature enters the battlefield under your control, you may pay |mana_x|. When you do, put X +1/+1 counters on that creature.
@@ -1327,17 +1327,17 @@
    As long as you control five or more modified creatures, Remnant of the Rising Star gets +5/+5 and has trample. (Equipment, Auras you control, and counters are modifications.)
 
 
-:mtgtip:`Jukai Preserver<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/6/e66120a5-95a3-4d15-873c-cfba221a2299.jpg?1654568198|https://scryfall.com/card/neo/195/jukai-preserver?utm_source=api>`
+:mtgtip:`Jukai Preserver<https://cards.scryfall.io/border_crop/front/e/6/e66120a5-95a3-4d15-873c-cfba221a2299.jpg?1654568198|https://scryfall.com/card/neo/195/jukai-preserver?utm_source=api>`
    When Jukai Preserver enters the battlefield, put a +1/+1 counter on target creature you control.
 
    Channel — |mana_2|\ |mana_g|, Discard Jukai Preserver: Put a +1/+1 counter on each of up to two target creatures you control.
 
 
-:mtgtip:`Jukai Trainee<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/b/8be526cd-1480-4661-a05b-e004d7b4656c.jpg?1654568201|https://scryfall.com/card/neo/196/jukai-trainee?utm_source=api>`
+:mtgtip:`Jukai Trainee<https://cards.scryfall.io/border_crop/front/8/b/8be526cd-1480-4661-a05b-e004d7b4656c.jpg?1654568201|https://scryfall.com/card/neo/196/jukai-trainee?utm_source=api>`
    Whenever Jukai Trainee blocks or becomes blocked, it gets +1/+1 until end of turn.
 
 
-:mtgtip:`Kami of Transience<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/d/7d038a59-e589-45f4-b5ef-6d2f9875d560.jpg?1654568218|https://scryfall.com/card/neo/197/kami-of-transience?utm_source=api>`
+:mtgtip:`Kami of Transience<https://cards.scryfall.io/border_crop/front/7/d/7d038a59-e589-45f4-b5ef-6d2f9875d560.jpg?1654568218|https://scryfall.com/card/neo/197/kami-of-transience?utm_source=api>`
    Trample
 
    Whenever you cast an enchantment spell, put a +1/+1 counter on Kami of Transience.
@@ -1345,7 +1345,7 @@
    At the beginning of each end step, if an enchantment was put into your graveyard from the battlefield this turn, you may return Kami of Transience from your graveyard to your hand.
 
 
-:mtgtip:`Kappa Tech-Wrecker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/3/d3a7bc69-4500-4e7e-94e4-67b85597bd82.jpg?1654568221|https://scryfall.com/card/neo/198/kappa-tech-wrecker?utm_source=api>`
+:mtgtip:`Kappa Tech-Wrecker<https://cards.scryfall.io/border_crop/front/d/3/d3a7bc69-4500-4e7e-94e4-67b85597bd82.jpg?1654568221|https://scryfall.com/card/neo/198/kappa-tech-wrecker?utm_source=api>`
    Ninjutsu |mana_1|\ |mana_g|
 
    Kappa Tech-Wrecker enters the battlefield with a deathtouch counter on it.
@@ -1353,7 +1353,7 @@
    Whenever Kappa Tech-Wrecker deals combat damage to a player, you may remove a deathtouch counter from it. When you do, exile target artifact or enchantment that player controls.
 
 
-:mtgtip:`Kodama of the West Tree<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/f/ef1e1dff-b559-441d-8df3-b6a418066aca.jpg?1654568238|https://scryfall.com/card/neo/199/kodama-of-the-west-tree?utm_source=api>`
+:mtgtip:`Kodama of the West Tree<https://cards.scryfall.io/border_crop/front/e/f/ef1e1dff-b559-441d-8df3-b6a418066aca.jpg?1654568238|https://scryfall.com/card/neo/199/kodama-of-the-west-tree?utm_source=api>`
    Reach
 
    Modified creatures you control have trample. (Equipment, Auras you control, and counters are modifications.)
@@ -1361,7 +1361,7 @@
    Whenever a modified creature you control deals combat damage to a player, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 
 
-:mtgtip:`Kura, the Boundless Sky<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/6/06b25752-26be-4189-bc8b-828db6f0e612.jpg?1654568249|https://scryfall.com/card/neo/200/kura-the-boundless-sky?utm_source=api>`
+:mtgtip:`Kura, the Boundless Sky<https://cards.scryfall.io/border_crop/front/0/6/06b25752-26be-4189-bc8b-828db6f0e612.jpg?1654568249|https://scryfall.com/card/neo/200/kura-the-boundless-sky?utm_source=api>`
    Flying, deathtouch
 
    When Kura, the Boundless Sky dies, choose one —
@@ -1371,29 +1371,29 @@
    • Create an X/X green Spirit creature token, where X is the number of lands you control.
 
 
-:mtgtip:`March of Burgeoning Life<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/e/0e223d99-408a-413d-abb1-cb2f11ae521d.jpg?1654568257|https://scryfall.com/card/neo/201/march-of-burgeoning-life?utm_source=api>`
+:mtgtip:`March of Burgeoning Life<https://cards.scryfall.io/border_crop/front/0/e/0e223d99-408a-413d-abb1-cb2f11ae521d.jpg?1654568257|https://scryfall.com/card/neo/201/march-of-burgeoning-life?utm_source=api>`
    As an additional cost to cast this spell, you may exile any number of green cards from your hand. This spell costs |mana_2| less to cast for each card exiled this way.
 
    Choose target creature with mana value less than X. Search your library for a creature card with the same name as that creature, put it onto the battlefield tapped, then shuffle.
 
 
-:mtgtip:`Master's Rebuke<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/d/7d42ca7c-5b36-45a9-b235-4f90e66f4377.jpg?1654568270|https://scryfall.com/card/neo/202/masters-rebuke?utm_source=api>`
+:mtgtip:`Master's Rebuke<https://cards.scryfall.io/border_crop/front/7/d/7d42ca7c-5b36-45a9-b235-4f90e66f4377.jpg?1654568270|https://scryfall.com/card/neo/202/masters-rebuke?utm_source=api>`
    Target creature you control deals damage equal to its power to target creature or planeswalker you don't control.
 
 
-:mtgtip:`Orochi Merge-Keeper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/3/736c3278-6ee2-47f9-aab0-1457e90137b1.jpg?1654568276|https://scryfall.com/card/neo/203/orochi-merge-keeper?utm_source=api>`
+:mtgtip:`Orochi Merge-Keeper<https://cards.scryfall.io/border_crop/front/7/3/736c3278-6ee2-47f9-aab0-1457e90137b1.jpg?1654568276|https://scryfall.com/card/neo/203/orochi-merge-keeper?utm_source=api>`
    |tap|: Add |mana_g|.
 
    As long as Orochi Merge-Keeper is modified, it has "|tap|: Add |mana_g|\ |mana_g|." (Equipment, Auras you control, and counters are modifications.)
 
 
-:mtgtip:`Roaring Earth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/c/8cbdd88e-c532-4fc0-a1fe-8aa0c26d1092.jpg?1654568291|https://scryfall.com/card/neo/204/roaring-earth?utm_source=api>`
+:mtgtip:`Roaring Earth<https://cards.scryfall.io/border_crop/front/8/c/8cbdd88e-c532-4fc0-a1fe-8aa0c26d1092.jpg?1654568291|https://scryfall.com/card/neo/204/roaring-earth?utm_source=api>`
    Whenever a land enters the battlefield under your control, put a +1/+1 counter on target creature or Vehicle you control.
 
    Channel — |mana_x|\ |mana_g|\ |mana_g|, Discard Roaring Earth: Put X +1/+1 counters on target land you control. It becomes a 0/0 green Spirit creature with haste. It's still a land.
 
 
-:mtgtip:`Season of Renewal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/4/841f0ec2-94c7-4cec-94bb-b365084ca45f.jpg?1654568303|https://scryfall.com/card/neo/205/season-of-renewal?utm_source=api>`
+:mtgtip:`Season of Renewal<https://cards.scryfall.io/border_crop/front/8/4/841f0ec2-94c7-4cec-94bb-b365084ca45f.jpg?1654568303|https://scryfall.com/card/neo/205/season-of-renewal?utm_source=api>`
    Choose one or both —
 
    • Return target creature card from your graveyard to your hand.
@@ -1401,23 +1401,23 @@
    • Return target enchantment card from your graveyard to your hand.
 
 
-:mtgtip:`Shigeki, Jukai Visionary<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/2/52a16623-7e6d-405b-95db-bf18aeea3f49.jpg?1654568313|https://scryfall.com/card/neo/206/shigeki-jukai-visionary?utm_source=api>`
+:mtgtip:`Shigeki, Jukai Visionary<https://cards.scryfall.io/border_crop/front/5/2/52a16623-7e6d-405b-95db-bf18aeea3f49.jpg?1654568313|https://scryfall.com/card/neo/206/shigeki-jukai-visionary?utm_source=api>`
    |mana_1|\ |mana_g|, |tap|, Return Shigeki, Jukai Visionary to its owner's hand: Reveal the top four cards of your library. You may put a land card from among them onto the battlefield tapped. Put the rest into your graveyard.
 
    Channel — |mana_x|\ |mana_x|\ |mana_g|\ |mana_g|, Discard Shigeki: Return X target nonlegendary cards from your graveyard to your hand.
 
 
-:mtgtip:`Spinning Wheel Kick<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/f/5f36ddd7-82c1-45ef-a966-ae2a34c540e1.jpg?1654568320|https://scryfall.com/card/neo/207/spinning-wheel-kick?utm_source=api>`
+:mtgtip:`Spinning Wheel Kick<https://cards.scryfall.io/border_crop/front/5/f/5f36ddd7-82c1-45ef-a966-ae2a34c540e1.jpg?1654568320|https://scryfall.com/card/neo/207/spinning-wheel-kick?utm_source=api>`
    Target creature you control deals damage equal to its power to each of X target creatures and/or planeswalkers.
 
 
-:mtgtip:`Spring-Leaf Avenger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/4/74b1ba9c-ee62-461f-8422-f791274e2f1c.jpg?1654568333|https://scryfall.com/card/neo/208/spring-leaf-avenger?utm_source=api>`
+:mtgtip:`Spring-Leaf Avenger<https://cards.scryfall.io/border_crop/front/7/4/74b1ba9c-ee62-461f-8422-f791274e2f1c.jpg?1654568333|https://scryfall.com/card/neo/208/spring-leaf-avenger?utm_source=api>`
    Ninjutsu |mana_3|\ |mana_g| (|mana_3|\ |mana_g|, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
 
    Whenever Spring-Leaf Avenger deals combat damage to a player, return target permanent card from your graveyard to your hand.
 
 
-:mtgtip:`Storyweave<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/0/50a77eed-aa03-43b7-b3c8-6aee4c96c648.jpg?1654568337|https://scryfall.com/card/neo/209/storyweave?utm_source=api>`
+:mtgtip:`Storyweave<https://cards.scryfall.io/border_crop/front/5/0/50a77eed-aa03-43b7-b3c8-6aee4c96c648.jpg?1654568337|https://scryfall.com/card/neo/209/storyweave?utm_source=api>`
    Choose one —
 
    • Put two +1/+1 counters on target creature you control.
@@ -1425,7 +1425,7 @@
    • Put two lore counters on target Saga you control. The next time one or more enchantment creatures enter the battlefield under your control this turn, each enters with two additional +1/+1 counters on it.
 
 
-:mtgtip:`Tales of Master Seshiro<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/1/512bc867-3a86-4da2-93f0-dd76d6a6f30d.jpg?1656453375|https://scryfall.com/card/neo/210/tales-of-master-seshiro-seshiros-living-legacy?utm_source=api>`
+:mtgtip:`Tales of Master Seshiro<https://cards.scryfall.io/border_crop/front/5/1/512bc867-3a86-4da2-93f0-dd76d6a6f30d.jpg?1656453375|https://scryfall.com/card/neo/210/tales-of-master-seshiro-seshiros-living-legacy?utm_source=api>`
    (As this Saga enters and after your draw step, add a lore counter.)
 
    I, II — Put a +1/+1 counter on target creature or Vehicle you control. It gains vigilance until end of turn.
@@ -1433,15 +1433,15 @@
    III — Exile this Saga, then return it to the battlefield transformed under your control.
 
 
-:mtgtip:`Seshiro's Living Legacy<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/5/1/512bc867-3a86-4da2-93f0-dd76d6a6f30d.jpg?1656453375|https://scryfall.com/card/neo/210/tales-of-master-seshiro-seshiros-living-legacy?utm_source=api>`
+:mtgtip:`Seshiro's Living Legacy<https://cards.scryfall.io/border_crop/back/5/1/512bc867-3a86-4da2-93f0-dd76d6a6f30d.jpg?1656453375|https://scryfall.com/card/neo/210/tales-of-master-seshiro-seshiros-living-legacy?utm_source=api>`
    Vigilance, haste
 
 
-:mtgtip:`Tamiyo's Safekeeping<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/d/fd4b7ee2-de65-4288-872d-486065a4f226.jpg?1654568357|https://scryfall.com/card/neo/211/tamiyos-safekeeping?utm_source=api>`
+:mtgtip:`Tamiyo's Safekeeping<https://cards.scryfall.io/border_crop/front/f/d/fd4b7ee2-de65-4288-872d-486065a4f226.jpg?1654568357|https://scryfall.com/card/neo/211/tamiyos-safekeeping?utm_source=api>`
    Target permanent you control gains hexproof and indestructible until end of turn. You gain 2 life. (A permanent with hexproof and indestructible can't be the target of spells or abilities your opponents control. Damage and effects that say "destroy" don't destroy it.)
 
 
-:mtgtip:`Teachings of the Kirin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/c/4c0c6c2a-4352-4c65-b41d-2a722bbef6c5.jpg?1656615983|https://scryfall.com/card/neo/212/teachings-of-the-kirin-kirin-touched-orochi?utm_source=api>`
+:mtgtip:`Teachings of the Kirin<https://cards.scryfall.io/border_crop/front/4/c/4c0c6c2a-4352-4c65-b41d-2a722bbef6c5.jpg?1656615983|https://scryfall.com/card/neo/212/teachings-of-the-kirin-kirin-touched-orochi?utm_source=api>`
    (As this Saga enters and after your draw step, add a lore counter.)
 
    I — Mill three cards. Create a 1/1 colorless Spirit creature token.
@@ -1451,7 +1451,7 @@
    III — Exile this Saga, then return it to the battlefield transformed under your control.
 
 
-:mtgtip:`Kirin-Touched Orochi<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/4/c/4c0c6c2a-4352-4c65-b41d-2a722bbef6c5.jpg?1656615983|https://scryfall.com/card/neo/212/teachings-of-the-kirin-kirin-touched-orochi?utm_source=api>`
+:mtgtip:`Kirin-Touched Orochi<https://cards.scryfall.io/border_crop/back/4/c/4c0c6c2a-4352-4c65-b41d-2a722bbef6c5.jpg?1656615983|https://scryfall.com/card/neo/212/teachings-of-the-kirin-kirin-touched-orochi?utm_source=api>`
    Whenever Kirin-Touched Orochi attacks, choose one —
 
    • Exile target creature card from a graveyard. When you do, create a 1/1 colorless Spirit creature token.
@@ -1459,13 +1459,13 @@
    • Exile target noncreature card from a graveyard. When you do, put a +1/+1 counter on target creature you control.
 
 
-:mtgtip:`Weaver of Harmony<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/1/d1682673-e947-44e2-b9c9-cbcb9a16892b.jpg?1654568377|https://scryfall.com/card/neo/213/weaver-of-harmony?utm_source=api>`
+:mtgtip:`Weaver of Harmony<https://cards.scryfall.io/border_crop/front/d/1/d1682673-e947-44e2-b9c9-cbcb9a16892b.jpg?1654568377|https://scryfall.com/card/neo/213/weaver-of-harmony?utm_source=api>`
    Other enchantment creatures you control get +1/+1.
 
    |mana_g|, |tap|: Copy target activated or triggered ability you control from an enchantment source. You may choose new targets for the copy. (Mana abilities can't be targeted.)
 
 
-:mtgtip:`Webspinner Cuff<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/7/e73cc6a7-0a18-488c-b52a-787da95a2e6b.jpg?1654568394|https://scryfall.com/card/neo/214/webspinner-cuff?utm_source=api>`
+:mtgtip:`Webspinner Cuff<https://cards.scryfall.io/border_crop/front/e/7/e73cc6a7-0a18-488c-b52a-787da95a2e6b.jpg?1654568394|https://scryfall.com/card/neo/214/webspinner-cuff?utm_source=api>`
    Reach
 
    Equipped creature gets +1/+4 and has reach.
@@ -1473,13 +1473,13 @@
    Reconfigure |mana_4| (|mana_4|: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)
 
 
-:mtgtip:`Asari Captain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/3/834b4e6a-1812-4399-8fe4-bb1686ba49ef.jpg?1654568396|https://scryfall.com/card/neo/215/asari-captain?utm_source=api>`
+:mtgtip:`Asari Captain<https://cards.scryfall.io/border_crop/front/8/3/834b4e6a-1812-4399-8fe4-bb1686ba49ef.jpg?1654568396|https://scryfall.com/card/neo/215/asari-captain?utm_source=api>`
    Haste
 
    Whenever a Samurai or Warrior you control attacks alone, it gets +1/+0 until end of turn for each Samurai or Warrior you control.
 
 
-:mtgtip:`Colossal Skyturtle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/4/f40bd797-4d12-4098-a1a8-d7e5b7b82ac9.jpg?1654568412|https://scryfall.com/card/neo/216/colossal-skyturtle?utm_source=api>`
+:mtgtip:`Colossal Skyturtle<https://cards.scryfall.io/border_crop/front/f/4/f40bd797-4d12-4098-a1a8-d7e5b7b82ac9.jpg?1654568412|https://scryfall.com/card/neo/216/colossal-skyturtle?utm_source=api>`
    Flying, ward |mana_2|
 
    Channel — |mana_2|\ |mana_g|, Discard Colossal Skyturtle: Return target card from your graveyard to your hand.
@@ -1487,19 +1487,19 @@
    Channel — |mana_1|\ |mana_u|, Discard Colossal Skyturtle: Return target creature to its owner's hand.
 
 
-:mtgtip:`Eiganjo Uprising<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/5/35203138-5237-49aa-a335-7a32829548a1.jpg?1654568415|https://scryfall.com/card/neo/217/eiganjo-uprising?utm_source=api>`
+:mtgtip:`Eiganjo Uprising<https://cards.scryfall.io/border_crop/front/3/5/35203138-5237-49aa-a335-7a32829548a1.jpg?1654568415|https://scryfall.com/card/neo/217/eiganjo-uprising?utm_source=api>`
    Create X 2/2 white Samurai creature tokens with vigilance. They gain menace and haste until end of turn.
 
    Each opponent creates X minus one 2/2 white Samurai creature tokens with vigilance.
 
 
-:mtgtip:`Enthusiastic Mechanaut<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/c/ac00521f-1b7d-478d-afe8-6761ea512d8d.jpg?1654568430|https://scryfall.com/card/neo/218/enthusiastic-mechanaut?utm_source=api>`
+:mtgtip:`Enthusiastic Mechanaut<https://cards.scryfall.io/border_crop/front/a/c/ac00521f-1b7d-478d-afe8-6761ea512d8d.jpg?1654568430|https://scryfall.com/card/neo/218/enthusiastic-mechanaut?utm_source=api>`
    Flying
 
    Artifact spells you cast cost |mana_1| less to cast.
 
 
-:mtgtip:`Gloomshrieker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/2/a2b50751-7f65-4321-86da-eef735bf8b67.jpg?1654568435|https://scryfall.com/card/neo/219/gloomshrieker?utm_source=api>`
+:mtgtip:`Gloomshrieker<https://cards.scryfall.io/border_crop/front/a/2/a2b50751-7f65-4321-86da-eef735bf8b67.jpg?1654568435|https://scryfall.com/card/neo/219/gloomshrieker?utm_source=api>`
    Menace (This creature can't be blocked except by two or more creatures.)
 
    When Gloomshrieker enters the battlefield, return target permanent card from your graveyard to your hand.
@@ -1507,11 +1507,11 @@
    If Gloomshrieker would die, exile it instead.
 
 
-:mtgtip:`Greasefang, Okiba Boss<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/6/56a0d43b-4d38-40a7-be6c-8324ab3bf773.jpg?1654568449|https://scryfall.com/card/neo/220/greasefang-okiba-boss?utm_source=api>`
+:mtgtip:`Greasefang, Okiba Boss<https://cards.scryfall.io/border_crop/front/5/6/56a0d43b-4d38-40a7-be6c-8324ab3bf773.jpg?1654568449|https://scryfall.com/card/neo/220/greasefang-okiba-boss?utm_source=api>`
    At the beginning of combat on your turn, return target Vehicle card from your graveyard to the battlefield. It gains haste. Return it to its owner's hand at the beginning of your next end step.
 
 
-:mtgtip:`Hidetsugu Consumes All<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/e/8e910464-329a-4de1-930a-be85b1956676.jpg?1656453394|https://scryfall.com/card/neo/221/hidetsugu-consumes-all-vessel-of-the-all-consuming?utm_source=api>`
+:mtgtip:`Hidetsugu Consumes All<https://cards.scryfall.io/border_crop/front/8/e/8e910464-329a-4de1-930a-be85b1956676.jpg?1656453394|https://scryfall.com/card/neo/221/hidetsugu-consumes-all-vessel-of-the-all-consuming?utm_source=api>`
    (As this Saga enters and after your draw step, add a lore counter.)
 
    I — Destroy each nonland permanent with mana value 1 or less.
@@ -1521,7 +1521,7 @@
    III — Exile this Saga, then return it to the battlefield transformed under your control.
 
 
-:mtgtip:`Vessel of the All-Consuming<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/8/e/8e910464-329a-4de1-930a-be85b1956676.jpg?1656453394|https://scryfall.com/card/neo/221/hidetsugu-consumes-all-vessel-of-the-all-consuming?utm_source=api>`
+:mtgtip:`Vessel of the All-Consuming<https://cards.scryfall.io/border_crop/back/8/e/8e910464-329a-4de1-930a-be85b1956676.jpg?1656453394|https://scryfall.com/card/neo/221/hidetsugu-consumes-all-vessel-of-the-all-consuming?utm_source=api>`
    Trample
 
    Whenever Vessel of the All-Consuming deals damage, put a +1/+1 counter on it.
@@ -1529,7 +1529,7 @@
    Whenever Vessel of the All-Consuming deals damage to a player, if it has dealt 10 or more damage to that player this turn, they lose the game.
 
 
-:mtgtip:`Hinata, Dawn-Crowned<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/2/f25aff90-56fd-4f70-bb3b-cabf2900c391.jpg?1654568472|https://scryfall.com/card/neo/222/hinata-dawn-crowned?utm_source=api>`
+:mtgtip:`Hinata, Dawn-Crowned<https://cards.scryfall.io/border_crop/front/f/2/f25aff90-56fd-4f70-bb3b-cabf2900c391.jpg?1654568472|https://scryfall.com/card/neo/222/hinata-dawn-crowned?utm_source=api>`
    Flying, trample
 
    Spells you cast cost |mana_1| less to cast for each target.
@@ -1537,7 +1537,7 @@
    Spells your opponents cast cost |mana_1| more to cast for each target.
 
 
-:mtgtip:`Invigorating Hot Spring<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/9/59a118d1-30b8-42c0-ac42-6fba0778200a.jpg?1654568472|https://scryfall.com/card/neo/223/invigorating-hot-spring?utm_source=api>`
+:mtgtip:`Invigorating Hot Spring<https://cards.scryfall.io/border_crop/front/5/9/59a118d1-30b8-42c0-ac42-6fba0778200a.jpg?1654568472|https://scryfall.com/card/neo/223/invigorating-hot-spring?utm_source=api>`
    Invigorating Hot Spring enters the battlefield with four +1/+1 counters on it.
 
    Modified creatures you control have haste. (Equipment, Auras you control, and counters are modifications.)
@@ -1545,17 +1545,17 @@
    Remove a +1/+1 counter from Invigorating Hot Spring: Put a +1/+1 counter on target creature you control. Activate only as a sorcery and only once each turn.
 
 
-:mtgtip:`Isshin, Two Heavens as One<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/0/a062a004-984e-4b62-960c-af7288f7a3e9.jpg?1654568489|https://scryfall.com/card/neo/224/isshin-two-heavens-as-one?utm_source=api>`
+:mtgtip:`Isshin, Two Heavens as One<https://cards.scryfall.io/border_crop/front/a/0/a062a004-984e-4b62-960c-af7288f7a3e9.jpg?1654568489|https://scryfall.com/card/neo/224/isshin-two-heavens-as-one?utm_source=api>`
    If a creature attacking causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
 
 
-:mtgtip:`Jukai Naturalist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/3/5366900b-2abf-4e5c-8507-f51aca9c7ce8.jpg?1654568491|https://scryfall.com/card/neo/225/jukai-naturalist?utm_source=api>`
+:mtgtip:`Jukai Naturalist<https://cards.scryfall.io/border_crop/front/5/3/5366900b-2abf-4e5c-8507-f51aca9c7ce8.jpg?1654568491|https://scryfall.com/card/neo/225/jukai-naturalist?utm_source=api>`
    Lifelink
 
    Enchantment spells you cast cost |mana_1| less to cast.
 
 
-:mtgtip:`Kaito Shizuki<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/d/2d35a710-3008-4e27-8afd-6e83329f9917.jpg?1654568510|https://scryfall.com/card/neo/226/kaito-shizuki?utm_source=api>`
+:mtgtip:`Kaito Shizuki<https://cards.scryfall.io/border_crop/front/2/d/2d35a710-3008-4e27-8afd-6e83329f9917.jpg?1654568510|https://scryfall.com/card/neo/226/kaito-shizuki?utm_source=api>`
    At the beginning of your end step, if Kaito Shizuki entered the battlefield this turn, he phases out.
 
    +1: Draw a card. Then discard a card unless you attacked this turn.
@@ -1565,7 +1565,7 @@
    −7: You get an emblem with "Whenever a creature you control deals combat damage to a player, search your library for a blue or black creature card, put it onto the battlefield, then shuffle."
 
 
-:mtgtip:`The Kami War<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/6/36052532-5028-43a8-9fc4-56221ec867fd.jpg?1656453412|https://scryfall.com/card/neo/227/the-kami-war-o-kagachi-made-manifest?utm_source=api>`
+:mtgtip:`The Kami War<https://cards.scryfall.io/border_crop/front/3/6/36052532-5028-43a8-9fc4-56221ec867fd.jpg?1656453412|https://scryfall.com/card/neo/227/the-kami-war-o-kagachi-made-manifest?utm_source=api>`
    (As this Saga enters and after your draw step, add a lore counter.)
 
    I — Exile target nonland permanent an opponent controls.
@@ -1575,7 +1575,7 @@
    III — Exile this Saga, then return it to the battlefield transformed under your control.
 
 
-:mtgtip:`O-Kagachi Made Manifest<https://c1.scryfall.com/file/scryfall-cards/border_crop/back/3/6/36052532-5028-43a8-9fc4-56221ec867fd.jpg?1656453412|https://scryfall.com/card/neo/227/the-kami-war-o-kagachi-made-manifest?utm_source=api>`
+:mtgtip:`O-Kagachi Made Manifest<https://cards.scryfall.io/border_crop/back/3/6/36052532-5028-43a8-9fc4-56221ec867fd.jpg?1656453412|https://scryfall.com/card/neo/227/the-kami-war-o-kagachi-made-manifest?utm_source=api>`
    O-Kagachi Made Manifest is all colors.
 
    Flying, trample
@@ -1583,33 +1583,33 @@
    Whenever O-Kagachi Made Manifest attacks, defending player chooses a nonland card in your graveyard. Return that card to your hand. O-Kagachi Made Manifest gets +X/+0 until end of turn, where X is the mana value of that card.
 
 
-:mtgtip:`Kotose, the Silent Spider<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/1/314e97b5-cd43-4f5e-acdd-a107208e061c.jpg?1654568534|https://scryfall.com/card/neo/228/kotose-the-silent-spider?utm_source=api>`
+:mtgtip:`Kotose, the Silent Spider<https://cards.scryfall.io/border_crop/front/3/1/314e97b5-cd43-4f5e-acdd-a107208e061c.jpg?1654568534|https://scryfall.com/card/neo/228/kotose-the-silent-spider?utm_source=api>`
    When Kotose, the Silent Spider enters the battlefield, exile target card other than a basic land card from an opponent's graveyard. Search that player's graveyard, hand, and library for any number of cards with the same name as that card and exile them. Then that player shuffles. For as long as you control Kotose, you may play one of the exiled cards, and you may spend mana as though it were mana of any color to cast it.
 
 
-:mtgtip:`Naomi, Pillar of Order<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/4/4400fd66-1a24-47fb-bc94-37e0aae0e610.jpg?1654568537|https://scryfall.com/card/neo/229/naomi-pillar-of-order?utm_source=api>`
+:mtgtip:`Naomi, Pillar of Order<https://cards.scryfall.io/border_crop/front/4/4/4400fd66-1a24-47fb-bc94-37e0aae0e610.jpg?1654568537|https://scryfall.com/card/neo/229/naomi-pillar-of-order?utm_source=api>`
    Whenever Naomi, Pillar of Order enters the battlefield or attacks, if you control an artifact and an enchantment, create a 2/2 white Samurai creature token with vigilance.
 
 
-:mtgtip:`Oni-Cult Anvil<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/8/c84db1e2-855c-4169-a9cc-a54c73c14e0c.jpg?1654568557|https://scryfall.com/card/neo/230/oni-cult-anvil?utm_source=api>`
+:mtgtip:`Oni-Cult Anvil<https://cards.scryfall.io/border_crop/front/c/8/c84db1e2-855c-4169-a9cc-a54c73c14e0c.jpg?1654568557|https://scryfall.com/card/neo/230/oni-cult-anvil?utm_source=api>`
    Whenever one or more artifacts you control leave the battlefield during your turn, create a 1/1 colorless Construct artifact creature token. This ability triggers only once each turn.
 
    |tap|, Sacrifice an artifact: Oni-Cult Anvil deals 1 damage to each opponent. You gain 1 life.
 
 
-:mtgtip:`Prodigy's Prototype<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/e/be046e0a-6509-450b-b34f-29d5a5e3472e.jpg?1654568557|https://scryfall.com/card/neo/231/prodigys-prototype?utm_source=api>`
+:mtgtip:`Prodigy's Prototype<https://cards.scryfall.io/border_crop/front/b/e/be046e0a-6509-450b-b34f-29d5a5e3472e.jpg?1654568557|https://scryfall.com/card/neo/231/prodigys-prototype?utm_source=api>`
    Whenever one or more Vehicles you control attack, create a 1/1 colorless Pilot creature token with "This creature crews Vehicles as though its power were 2 greater."
 
    Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)
 
 
-:mtgtip:`Raiyuu, Storm's Edge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/7/37748b74-0eda-4b20-a08f-faa418adb9ff.jpg?1654568575|https://scryfall.com/card/neo/232/raiyuu-storms-edge?utm_source=api>`
+:mtgtip:`Raiyuu, Storm's Edge<https://cards.scryfall.io/border_crop/front/3/7/37748b74-0eda-4b20-a08f-faa418adb9ff.jpg?1654568575|https://scryfall.com/card/neo/232/raiyuu-storms-edge?utm_source=api>`
    First strike
 
    Whenever a Samurai or Warrior you control attacks alone, untap it. If it's the first combat phase of the turn, there is an additional combat phase after this phase.
 
 
-:mtgtip:`Risona, Asari Commander<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/1/51d8f1fa-ca92-4e2e-91e8-195bdad82def.jpg?1654568577|https://scryfall.com/card/neo/233/risona-asari-commander?utm_source=api>`
+:mtgtip:`Risona, Asari Commander<https://cards.scryfall.io/border_crop/front/5/1/51d8f1fa-ca92-4e2e-91e8-195bdad82def.jpg?1654568577|https://scryfall.com/card/neo/233/risona-asari-commander?utm_source=api>`
    Haste
 
    Whenever Risona, Asari Commander deals combat damage to a player, if it doesn't have an indestructible counter on it, put an indestructible counter on it.
@@ -1617,13 +1617,13 @@
    Whenever combat damage is dealt to you, remove an indestructible counter from Risona.
 
 
-:mtgtip:`Satoru Umezawa<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/8/8887f26d-b097-4fbc-9c48-bdc656409a32.jpg?1654568594|https://scryfall.com/card/neo/234/satoru-umezawa?utm_source=api>`
+:mtgtip:`Satoru Umezawa<https://cards.scryfall.io/border_crop/front/8/8/8887f26d-b097-4fbc-9c48-bdc656409a32.jpg?1654568594|https://scryfall.com/card/neo/234/satoru-umezawa?utm_source=api>`
    Whenever you activate a ninjutsu ability, look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order. This ability triggers only once each turn.
 
    Each creature card in your hand has ninjutsu |mana_2|\ |mana_u|\ |mana_b|.
 
 
-:mtgtip:`Satsuki, the Living Lore<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/1/0152575b-31b0-4142-9cc2-b87a81bd51a8.jpg?1654568597|https://scryfall.com/card/neo/235/satsuki-the-living-lore?utm_source=api>`
+:mtgtip:`Satsuki, the Living Lore<https://cards.scryfall.io/border_crop/front/0/1/0152575b-31b0-4142-9cc2-b87a81bd51a8.jpg?1654568597|https://scryfall.com/card/neo/235/satsuki-the-living-lore?utm_source=api>`
    |tap|: Put a lore counter on each Saga you control. Activate only as a sorcery.
 
    When Satsuki, the Living Lore dies, choose up to one —
@@ -1633,7 +1633,7 @@
    • Return target Saga card from your graveyard to your hand.
 
 
-:mtgtip:`Silver-Fur Master<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/a/cacc36d9-4c4b-43b2-a8b4-d265deb1e6b2.jpg?1654568620|https://scryfall.com/card/neo/236/silver-fur-master?utm_source=api>`
+:mtgtip:`Silver-Fur Master<https://cards.scryfall.io/border_crop/front/c/a/cacc36d9-4c4b-43b2-a8b4-d265deb1e6b2.jpg?1654568620|https://scryfall.com/card/neo/236/silver-fur-master?utm_source=api>`
    Ninjutsu |mana_u|\ |mana_b| (|mana_u|\ |mana_b|, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
 
    Ninjutsu abilities you activate cost |mana_1| less to activate.
@@ -1641,11 +1641,11 @@
    Other Ninja and Rogue creatures you control get +1/+1.
 
 
-:mtgtip:`Spirit-Sister's Call<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/0/f094735f-5843-4f75-bc90-3e248a061a43.jpg?1654568621|https://scryfall.com/card/neo/237/spirit-sisters-call?utm_source=api>`
+:mtgtip:`Spirit-Sister's Call<https://cards.scryfall.io/border_crop/front/f/0/f094735f-5843-4f75-bc90-3e248a061a43.jpg?1654568621|https://scryfall.com/card/neo/237/spirit-sisters-call?utm_source=api>`
    At the beginning of your end step, choose target permanent card in your graveyard. You may sacrifice a permanent that shares a card type with the chosen card. If you do, return the chosen card from your graveyard to the battlefield and it gains "If this permanent would leave the battlefield, exile it instead of putting it anywhere else."
 
 
-:mtgtip:`Tamiyo, Compleated Sage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/2/222a736e-d819-452d-aeda-eb848c4b2302.jpg?1656616489|https://scryfall.com/card/neo/238/tamiyo-compleated-sage?utm_source=api>`
+:mtgtip:`Tamiyo, Compleated Sage<https://cards.scryfall.io/border_crop/front/2/2/222a736e-d819-452d-aeda-eb848c4b2302.jpg?1656616489|https://scryfall.com/card/neo/238/tamiyo-compleated-sage?utm_source=api>`
    Compleated (|mana_gup| can be paid with |mana_g|, |mana_u|, or 2 life. If life was paid, this planeswalker enters with two fewer loyalty counters.)
 
    +1: Tap up to one target artifact or creature. It doesn't untap during its controller's next untap step.
@@ -1655,37 +1655,37 @@
    −7: Create Tamiyo's Notebook, a legendary colorless artifact token with "Spells you cast cost |mana_2| less to cast" and "|tap|: Draw a card."
 
 
-:mtgtip:`Automated Artificer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/8/b8c30ffb-b4f5-40b0-87b8-800a42bded2b.jpg?1654568639|https://scryfall.com/card/neo/239/automated-artificer?utm_source=api>`
+:mtgtip:`Automated Artificer<https://cards.scryfall.io/border_crop/front/b/8/b8c30ffb-b4f5-40b0-87b8-800a42bded2b.jpg?1654568639|https://scryfall.com/card/neo/239/automated-artificer?utm_source=api>`
    |tap|: Add |colorless|. Spend this mana only to activate an ability or cast an artifact spell.
 
 
-:mtgtip:`Bronze Cudgels<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/5/45fa226c-cc31-4c22-a167-40985706557b.jpg?1654568640|https://scryfall.com/card/neo/240/bronze-cudgels?utm_source=api>`
+:mtgtip:`Bronze Cudgels<https://cards.scryfall.io/border_crop/front/4/5/45fa226c-cc31-4c22-a167-40985706557b.jpg?1654568640|https://scryfall.com/card/neo/240/bronze-cudgels?utm_source=api>`
    |mana_2|: Until end of turn, equipped creature gets +X/+0, where X is the number of times this ability has resolved this turn.
 
    Equip |mana_1| (|mana_1|: Attach to target creature you control. Equip only as a sorcery.)
 
 
-:mtgtip:`Brute Suit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/6/363cb43a-e358-4380-a42f-9b095ca522c6.jpg?1654568659|https://scryfall.com/card/neo/241/brute-suit?utm_source=api>`
+:mtgtip:`Brute Suit<https://cards.scryfall.io/border_crop/front/3/6/363cb43a-e358-4380-a42f-9b095ca522c6.jpg?1654568659|https://scryfall.com/card/neo/241/brute-suit?utm_source=api>`
    Vigilance
 
    Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)
 
 
-:mtgtip:`Circuit Mender<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/e/defaeb68-3f8a-4740-b13f-8c71c7e9c8b4.jpg?1654568662|https://scryfall.com/card/neo/242/circuit-mender?utm_source=api>`
+:mtgtip:`Circuit Mender<https://cards.scryfall.io/border_crop/front/d/e/defaeb68-3f8a-4740-b13f-8c71c7e9c8b4.jpg?1654568662|https://scryfall.com/card/neo/242/circuit-mender?utm_source=api>`
    When Circuit Mender enters the battlefield, you gain 2 life.
 
    When Circuit Mender leaves the battlefield, draw a card.
 
 
-:mtgtip:`Containment Construct<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/2/520e5505-429b-4da0-b25e-14b8d4e81ce3.jpg?1654568680|https://scryfall.com/card/neo/243/containment-construct?utm_source=api>`
+:mtgtip:`Containment Construct<https://cards.scryfall.io/border_crop/front/5/2/520e5505-429b-4da0-b25e-14b8d4e81ce3.jpg?1654568680|https://scryfall.com/card/neo/243/containment-construct?utm_source=api>`
    Whenever you discard a card, you may exile that card from your graveyard. If you do, you may play that card this turn.
 
 
-:mtgtip:`Dramatist's Puppet<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/4/b490e065-b54a-4015-9768-d0e62f0e2e84.jpg?1654568681|https://scryfall.com/card/neo/244/dramatists-puppet?utm_source=api>`
+:mtgtip:`Dramatist's Puppet<https://cards.scryfall.io/border_crop/front/b/4/b490e065-b54a-4015-9768-d0e62f0e2e84.jpg?1654568681|https://scryfall.com/card/neo/244/dramatists-puppet?utm_source=api>`
    When Dramatist's Puppet enters the battlefield, for each kind of counter on target permanent, put another counter of that kind on it or remove one from it.
 
 
-:mtgtip:`Eater of Virtue<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/4/34d92077-d7b2-4996-848f-fd4917e2fb42.jpg?1655144364|https://scryfall.com/card/neo/245/eater-of-virtue?utm_source=api>`
+:mtgtip:`Eater of Virtue<https://cards.scryfall.io/border_crop/front/3/4/34d92077-d7b2-4996-848f-fd4917e2fb42.jpg?1655144364|https://scryfall.com/card/neo/245/eater-of-virtue?utm_source=api>`
    Whenever equipped creature dies, exile it.
 
    Equipped creature gets +2/+0.
@@ -1695,13 +1695,13 @@
    Equip |mana_1|
 
 
-:mtgtip:`Ecologist's Terrarium<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/d/1d981026-b2df-4d8d-a9b4-296b011d9925.jpg?1654568706|https://scryfall.com/card/neo/246/ecologists-terrarium?utm_source=api>`
+:mtgtip:`Ecologist's Terrarium<https://cards.scryfall.io/border_crop/front/1/d/1d981026-b2df-4d8d-a9b4-296b011d9925.jpg?1654568706|https://scryfall.com/card/neo/246/ecologists-terrarium?utm_source=api>`
    When Ecologist's Terrarium enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 
    |mana_2|, |tap|, Sacrifice Ecologist's Terrarium: Put a +1/+1 counter on target creature. Activate only as a sorcery.
 
 
-:mtgtip:`High-Speed Hoverbike<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7c619116-1eae-439d-9b1f-639643458a23.jpg?1654568718|https://scryfall.com/card/neo/247/high-speed-hoverbike?utm_source=api>`
+:mtgtip:`High-Speed Hoverbike<https://cards.scryfall.io/border_crop/front/7/c/7c619116-1eae-439d-9b1f-639643458a23.jpg?1654568718|https://scryfall.com/card/neo/247/high-speed-hoverbike?utm_source=api>`
    Flash
 
    Flying
@@ -1711,19 +1711,19 @@
    Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)
 
 
-:mtgtip:`Iron Apprentice<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/3/13d6d9fc-509b-42db-8ac1-85066eb6e9c4.jpg?1654568727|https://scryfall.com/card/neo/248/iron-apprentice?utm_source=api>`
+:mtgtip:`Iron Apprentice<https://cards.scryfall.io/border_crop/front/1/3/13d6d9fc-509b-42db-8ac1-85066eb6e9c4.jpg?1654568727|https://scryfall.com/card/neo/248/iron-apprentice?utm_source=api>`
    Iron Apprentice enters the battlefield with a +1/+1 counter on it.
 
    When Iron Apprentice dies, if it had counters on it, put those counters on target creature you control.
 
 
-:mtgtip:`Mechtitan Core<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/a/ca286ba9-01a7-4dce-b388-177f5dcb95b1.jpg?1654568740|https://scryfall.com/card/neo/249/mechtitan-core?utm_source=api>`
+:mtgtip:`Mechtitan Core<https://cards.scryfall.io/border_crop/front/c/a/ca286ba9-01a7-4dce-b388-177f5dcb95b1.jpg?1654568740|https://scryfall.com/card/neo/249/mechtitan-core?utm_source=api>`
    |mana_5|, Exile Mechtitan Core and four other artifact creatures and/or Vehicles you control: Create Mechtitan, a legendary 10/10 Construct artifact creature token with flying, vigilance, trample, lifelink, and haste that's all colors. When that token leaves the battlefield, return all cards exiled with Mechtitan Core except Mechtitan Core to the battlefield tapped under their owners' control.
 
    Crew 2
 
 
-:mtgtip:`Mirror Box<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/5/d507daa3-3f16-4ab1-81ea-794e5bb488fc.jpg?1654568747|https://scryfall.com/card/neo/250/mirror-box?utm_source=api>`
+:mtgtip:`Mirror Box<https://cards.scryfall.io/border_crop/front/d/5/d507daa3-3f16-4ab1-81ea-794e5bb488fc.jpg?1654568747|https://scryfall.com/card/neo/250/mirror-box?utm_source=api>`
    The "legend rule" doesn't apply to permanents you control.
 
    Each legendary creature you control gets +1/+1.
@@ -1731,29 +1731,29 @@
    Each nontoken creature you control gets +1/+1 for each other creature you control with the same name as that creature.
 
 
-:mtgtip:`Network Terminal<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/6/d61e596f-97ef-4eb3-af42-ddfe50d07667.jpg?1654568760|https://scryfall.com/card/neo/251/network-terminal?utm_source=api>`
+:mtgtip:`Network Terminal<https://cards.scryfall.io/border_crop/front/d/6/d61e596f-97ef-4eb3-af42-ddfe50d07667.jpg?1654568760|https://scryfall.com/card/neo/251/network-terminal?utm_source=api>`
    |tap|: Add one mana of any color.
 
    |mana_1|, |tap|, Tap another untapped artifact you control: Draw a card, then discard a card.
 
 
-:mtgtip:`Ninja's Kunai<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/f/af6ae567-c77a-416a-b609-4df3d0dd2e18.jpg?1654568773|https://scryfall.com/card/neo/252/ninjas-kunai?utm_source=api>`
+:mtgtip:`Ninja's Kunai<https://cards.scryfall.io/border_crop/front/a/f/af6ae567-c77a-416a-b609-4df3d0dd2e18.jpg?1654568773|https://scryfall.com/card/neo/252/ninjas-kunai?utm_source=api>`
    Equipped creature has "|mana_1|, |tap|, Sacrifice Ninja's Kunai: Ninja's Kunai deals 3 damage to any target."
 
    Equip |mana_1| (|mana_1|: Attach to target creature you control. Equip only as a sorcery.)
 
 
-:mtgtip:`Papercraft Decoy<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/4/3453084c-42cc-4241-b244-c79e704f96c8.jpg?1654568778|https://scryfall.com/card/neo/253/papercraft-decoy?utm_source=api>`
+:mtgtip:`Papercraft Decoy<https://cards.scryfall.io/border_crop/front/3/4/3453084c-42cc-4241-b244-c79e704f96c8.jpg?1654568778|https://scryfall.com/card/neo/253/papercraft-decoy?utm_source=api>`
    When Papercraft Decoy leaves the battlefield, you may pay |mana_2|. If you do, draw a card.
 
 
-:mtgtip:`Patchwork Automaton<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/a/7a4e1580-dd26-4f4b-ac98-3e6fa7b879d5.jpg?1654568794|https://scryfall.com/card/neo/254/patchwork-automaton?utm_source=api>`
+:mtgtip:`Patchwork Automaton<https://cards.scryfall.io/border_crop/front/7/a/7a4e1580-dd26-4f4b-ac98-3e6fa7b879d5.jpg?1654568794|https://scryfall.com/card/neo/254/patchwork-automaton?utm_source=api>`
    Ward |mana_2| (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays |mana_2|.)
 
    Whenever you cast an artifact spell, put a +1/+1 counter on Patchwork Automaton.
 
 
-:mtgtip:`Reckoner Bankbuster<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/7/279acd17-6c17-427b-a69d-fc02442ff4a3.jpg?1654568798|https://scryfall.com/card/neo/255/reckoner-bankbuster?utm_source=api>`
+:mtgtip:`Reckoner Bankbuster<https://cards.scryfall.io/border_crop/front/2/7/279acd17-6c17-427b-a69d-fc02442ff4a3.jpg?1654568798|https://scryfall.com/card/neo/255/reckoner-bankbuster?utm_source=api>`
    Reckoner Bankbuster enters the battlefield with three charge counters on it.
 
    |mana_2|, |tap|, Remove a charge counter from Reckoner Bankbuster: Draw a card. Then if there are no charge counters on Reckoner Bankbuster, create a Treasure token and a 1/1 colorless Pilot creature token with "This creature crews Vehicles as though its power were 2 greater."
@@ -1761,7 +1761,7 @@
    Crew 3
 
 
-:mtgtip:`Reito Sentinel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/2/0218923a-b685-4492-8fdd-2d2d22ef532e.jpg?1654568814|https://scryfall.com/card/neo/256/reito-sentinel?utm_source=api>`
+:mtgtip:`Reito Sentinel<https://cards.scryfall.io/border_crop/front/0/2/0218923a-b685-4492-8fdd-2d2d22ef532e.jpg?1654568814|https://scryfall.com/card/neo/256/reito-sentinel?utm_source=api>`
    Defender
 
    When Reito Sentinel enters the battlefield, target player mills three cards. (They put the top three cards of their library into their graveyard.)
@@ -1769,23 +1769,23 @@
    |mana_3|: Put target card from a graveyard on the bottom of its owner's library.
 
 
-:mtgtip:`Runaway Trash-Bot<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/e/3eebf6a6-f1fd-40a1-ac27-367deafa6f2a.jpg?1654568815|https://scryfall.com/card/neo/257/runaway-trash-bot?utm_source=api>`
+:mtgtip:`Runaway Trash-Bot<https://cards.scryfall.io/border_crop/front/3/e/3eebf6a6-f1fd-40a1-ac27-367deafa6f2a.jpg?1654568815|https://scryfall.com/card/neo/257/runaway-trash-bot?utm_source=api>`
    Trample
 
    Runaway Trash-Bot gets +1/+0 for each artifact and/or enchantment card in your graveyard.
 
 
-:mtgtip:`Searchlight Companion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/b/0b79b30e-e7aa-490e-b130-de7533e6e13b.jpg?1654568834|https://scryfall.com/card/neo/258/searchlight-companion?utm_source=api>`
+:mtgtip:`Searchlight Companion<https://cards.scryfall.io/border_crop/front/0/b/0b79b30e-e7aa-490e-b130-de7533e6e13b.jpg?1654568834|https://scryfall.com/card/neo/258/searchlight-companion?utm_source=api>`
    Flying
 
    When Searchlight Companion enters the battlefield, create a 1/1 colorless Spirit creature token.
 
 
-:mtgtip:`Shrine Steward<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/5/75e8d71c-3a0b-4042-a0f7-e99e92a79dc2.jpg?1654568835|https://scryfall.com/card/neo/259/shrine-steward?utm_source=api>`
+:mtgtip:`Shrine Steward<https://cards.scryfall.io/border_crop/front/7/5/75e8d71c-3a0b-4042-a0f7-e99e92a79dc2.jpg?1654568835|https://scryfall.com/card/neo/259/shrine-steward?utm_source=api>`
    When Shrine Steward enters the battlefield, you may search your library for an Aura or Shrine card, reveal it, put it into your hand, then shuffle.
 
 
-:mtgtip:`Surgehacker Mech<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/c/3c4bf679-01cc-4786-a3bd-89c8ae70fdfa.jpg?1654568854|https://scryfall.com/card/neo/260/surgehacker-mech?utm_source=api>`
+:mtgtip:`Surgehacker Mech<https://cards.scryfall.io/border_crop/front/3/c/3c4bf679-01cc-4786-a3bd-89c8ae70fdfa.jpg?1654568854|https://scryfall.com/card/neo/260/surgehacker-mech?utm_source=api>`
    Menace
 
    When Surgehacker Mech enters the battlefield, it deals damage equal to twice the number of Vehicles you control to target creature or planeswalker an opponent controls.
@@ -1793,19 +1793,19 @@
    Crew 4
 
 
-:mtgtip:`Thundersteel Colossus<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/7/b7d49f9c-2dd3-4aed-9b78-e1bcad354a35.jpg?1654568856|https://scryfall.com/card/neo/261/thundersteel-colossus?utm_source=api>`
+:mtgtip:`Thundersteel Colossus<https://cards.scryfall.io/border_crop/front/b/7/b7d49f9c-2dd3-4aed-9b78-e1bcad354a35.jpg?1654568856|https://scryfall.com/card/neo/261/thundersteel-colossus?utm_source=api>`
    Trample, haste
 
    Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)
 
 
-:mtgtip:`Towashi Guide-Bot<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/a/da4ccf70-b661-46ea-bea9-4466a3a35562.jpg?1654568874|https://scryfall.com/card/neo/262/towashi-guide-bot?utm_source=api>`
+:mtgtip:`Towashi Guide-Bot<https://cards.scryfall.io/border_crop/front/d/a/da4ccf70-b661-46ea-bea9-4466a3a35562.jpg?1654568874|https://scryfall.com/card/neo/262/towashi-guide-bot?utm_source=api>`
    When Towashi Guide-Bot enters the battlefield, put a +1/+1 counter on target creature you control.
 
    |mana_4|, |tap|: Draw a card. This ability costs |mana_1| less to activate for each modified creature you control. (Equipment, Auras you control, and counters are modifications.)
 
 
-:mtgtip:`Walking Skyscraper<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/5/958af4ba-f29e-47ef-995e-3985982c75ad.jpg?1654568875|https://scryfall.com/card/neo/263/walking-skyscraper?utm_source=api>`
+:mtgtip:`Walking Skyscraper<https://cards.scryfall.io/border_crop/front/9/5/958af4ba-f29e-47ef-995e-3985982c75ad.jpg?1654568875|https://scryfall.com/card/neo/263/walking-skyscraper?utm_source=api>`
    This spell costs |mana_1| less to cast for each modified creature you control. (Equipment, Auras you control, and counters are modifications.)
 
    Trample
@@ -1813,7 +1813,7 @@
    Walking Skyscraper has hexproof as long as it's untapped. (It can't be the target of spells or abilities your opponents control.)
 
 
-:mtgtip:`Bloodfell Caves<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/a/ba06fcda-7ab8-48d4-8656-2a911e73dc44.jpg?1654568892|https://scryfall.com/card/neo/264/bloodfell-caves?utm_source=api>`
+:mtgtip:`Bloodfell Caves<https://cards.scryfall.io/border_crop/front/b/a/ba06fcda-7ab8-48d4-8656-2a911e73dc44.jpg?1654568892|https://scryfall.com/card/neo/264/bloodfell-caves?utm_source=api>`
    Bloodfell Caves enters the battlefield tapped.
 
    When Bloodfell Caves enters the battlefield, you gain 1 life.
@@ -1821,7 +1821,7 @@
    |tap|: Add |mana_b| or |mana_r|.
 
 
-:mtgtip:`Blossoming Sands<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/2/d290ec6b-15a6-49e8-abd2-b8c4d0f556eb.jpg?1654568893|https://scryfall.com/card/neo/265/blossoming-sands?utm_source=api>`
+:mtgtip:`Blossoming Sands<https://cards.scryfall.io/border_crop/front/d/2/d290ec6b-15a6-49e8-abd2-b8c4d0f556eb.jpg?1654568893|https://scryfall.com/card/neo/265/blossoming-sands?utm_source=api>`
    Blossoming Sands enters the battlefield tapped.
 
    When Blossoming Sands enters the battlefield, you gain 1 life.
@@ -1829,13 +1829,13 @@
    |tap|: Add |mana_g| or |mana_w|.
 
 
-:mtgtip:`Boseiju, Who Endures<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/1/2135ac5a-187b-4dc9-8f82-34e8d1603416.jpg?1654568912|https://scryfall.com/card/neo/266/boseiju-who-endures?utm_source=api>`
+:mtgtip:`Boseiju, Who Endures<https://cards.scryfall.io/border_crop/front/2/1/2135ac5a-187b-4dc9-8f82-34e8d1603416.jpg?1654568912|https://scryfall.com/card/neo/266/boseiju-who-endures?utm_source=api>`
    |tap|: Add |mana_g|.
 
    Channel — |mana_1|\ |mana_g|, Discard Boseiju, Who Endures: Destroy target artifact, enchantment, or nonbasic land an opponent controls. That player may search their library for a land card with a basic land type, put it onto the battlefield, then shuffle. This ability costs |mana_1| less to activate for each legendary creature you control.
 
 
-:mtgtip:`Dismal Backwater<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/a/fab0660b-81f8-40ca-8098-5f8d51219a40.jpg?1654568913|https://scryfall.com/card/neo/267/dismal-backwater?utm_source=api>`
+:mtgtip:`Dismal Backwater<https://cards.scryfall.io/border_crop/front/f/a/fab0660b-81f8-40ca-8098-5f8d51219a40.jpg?1654568913|https://scryfall.com/card/neo/267/dismal-backwater?utm_source=api>`
    Dismal Backwater enters the battlefield tapped.
 
    When Dismal Backwater enters the battlefield, you gain 1 life.
@@ -1843,13 +1843,13 @@
    |tap|: Add |mana_u| or |mana_b|.
 
 
-:mtgtip:`Eiganjo, Seat of the Empire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/3/c375a022-5b57-496d-a802-e4ea8376e9e4.jpg?1654568932|https://scryfall.com/card/neo/268/eiganjo-seat-of-the-empire?utm_source=api>`
+:mtgtip:`Eiganjo, Seat of the Empire<https://cards.scryfall.io/border_crop/front/c/3/c375a022-5b57-496d-a802-e4ea8376e9e4.jpg?1654568932|https://scryfall.com/card/neo/268/eiganjo-seat-of-the-empire?utm_source=api>`
    |tap|: Add |mana_w|.
 
    Channel — |mana_2|\ |mana_w|, Discard Eiganjo, Seat of the Empire: It deals 4 damage to target attacking or blocking creature. This ability costs |mana_1| less to activate for each legendary creature you control.
 
 
-:mtgtip:`Jungle Hollow<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/e/deadca61-0be9-4eeb-ba12-bc73a49bae74.jpg?1654568933|https://scryfall.com/card/neo/269/jungle-hollow?utm_source=api>`
+:mtgtip:`Jungle Hollow<https://cards.scryfall.io/border_crop/front/d/e/deadca61-0be9-4eeb-ba12-bc73a49bae74.jpg?1654568933|https://scryfall.com/card/neo/269/jungle-hollow?utm_source=api>`
    Jungle Hollow enters the battlefield tapped.
 
    When Jungle Hollow enters the battlefield, you gain 1 life.
@@ -1857,7 +1857,7 @@
    |tap|: Add |mana_b| or |mana_g|.
 
 
-:mtgtip:`Mech Hangar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/0/c093984d-38cd-4b49-b179-1e289ab442d1.jpg?1654568955|https://scryfall.com/card/neo/270/mech-hangar?utm_source=api>`
+:mtgtip:`Mech Hangar<https://cards.scryfall.io/border_crop/front/c/0/c093984d-38cd-4b49-b179-1e289ab442d1.jpg?1654568955|https://scryfall.com/card/neo/270/mech-hangar?utm_source=api>`
    |tap|: Add |colorless|.
 
    |tap|: Add one mana of any color. Spend this mana only to cast a Pilot or Vehicle spell.
@@ -1865,19 +1865,19 @@
    |mana_3|, |tap|: Target Vehicle becomes an artifact creature until end of turn.
 
 
-:mtgtip:`Otawara, Soaring City<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/8/486d7edc-d983-41f0-8b78-c99aecd72996.jpg?1654568960|https://scryfall.com/card/neo/271/otawara-soaring-city?utm_source=api>`
+:mtgtip:`Otawara, Soaring City<https://cards.scryfall.io/border_crop/front/4/8/486d7edc-d983-41f0-8b78-c99aecd72996.jpg?1654568960|https://scryfall.com/card/neo/271/otawara-soaring-city?utm_source=api>`
    |tap|: Add |mana_u|.
 
    Channel — |mana_3|\ |mana_u|, Discard Otawara, Soaring City: Return target artifact, creature, enchantment, or planeswalker to its owner's hand. This ability costs |mana_1| less to activate for each legendary creature you control.
 
 
-:mtgtip:`Roadside Reliquary<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/0/8002de90-93fb-48ea-a849-40fdad0aef5a.jpg?1654568978|https://scryfall.com/card/neo/272/roadside-reliquary?utm_source=api>`
+:mtgtip:`Roadside Reliquary<https://cards.scryfall.io/border_crop/front/8/0/8002de90-93fb-48ea-a849-40fdad0aef5a.jpg?1654568978|https://scryfall.com/card/neo/272/roadside-reliquary?utm_source=api>`
    |tap|: Add |colorless|.
 
    |mana_2|, |tap|, Sacrifice Roadside Reliquary: Draw a card if you control an artifact. Draw a card if you control an enchantment.
 
 
-:mtgtip:`Rugged Highlands<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/8/58d511be-60e0-4755-abec-18eebb530605.jpg?1654568980|https://scryfall.com/card/neo/273/rugged-highlands?utm_source=api>`
+:mtgtip:`Rugged Highlands<https://cards.scryfall.io/border_crop/front/5/8/58d511be-60e0-4755-abec-18eebb530605.jpg?1654568980|https://scryfall.com/card/neo/273/rugged-highlands?utm_source=api>`
    Rugged Highlands enters the battlefield tapped.
 
    When Rugged Highlands enters the battlefield, you gain 1 life.
@@ -1885,7 +1885,7 @@
    |tap|: Add |mana_r| or |mana_g|.
 
 
-:mtgtip:`Scoured Barrens<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/0/00538414-90f3-41da-b67e-d81cfa643de3.jpg?1654568996|https://scryfall.com/card/neo/274/scoured-barrens?utm_source=api>`
+:mtgtip:`Scoured Barrens<https://cards.scryfall.io/border_crop/front/0/0/00538414-90f3-41da-b67e-d81cfa643de3.jpg?1654568996|https://scryfall.com/card/neo/274/scoured-barrens?utm_source=api>`
    Scoured Barrens enters the battlefield tapped.
 
    When Scoured Barrens enters the battlefield, you gain 1 life.
@@ -1893,7 +1893,7 @@
    |tap|: Add |mana_w| or |mana_b|.
 
 
-:mtgtip:`Secluded Courtyard<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/5/0539b1a5-8704-476f-ba1f-2fe01190e157.jpg?1654568998|https://scryfall.com/card/neo/275/secluded-courtyard?utm_source=api>`
+:mtgtip:`Secluded Courtyard<https://cards.scryfall.io/border_crop/front/0/5/0539b1a5-8704-476f-ba1f-2fe01190e157.jpg?1654568998|https://scryfall.com/card/neo/275/secluded-courtyard?utm_source=api>`
    As Secluded Courtyard enters the battlefield, choose a creature type.
 
    |tap|: Add |colorless|.
@@ -1901,13 +1901,13 @@
    |tap|: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type or activate an ability of a creature or creature card of the chosen type.
 
 
-:mtgtip:`Sokenzan, Crucible of Defiance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/a/aa548dcd-c1dd-492d-a69f-c65dfeef0633.jpg?1654569016|https://scryfall.com/card/neo/276/sokenzan-crucible-of-defiance?utm_source=api>`
+:mtgtip:`Sokenzan, Crucible of Defiance<https://cards.scryfall.io/border_crop/front/a/a/aa548dcd-c1dd-492d-a69f-c65dfeef0633.jpg?1654569016|https://scryfall.com/card/neo/276/sokenzan-crucible-of-defiance?utm_source=api>`
    |tap|: Add |mana_r|.
 
    Channel — |mana_3|\ |mana_r|, Discard Sokenzan, Crucible of Defiance: Create two 1/1 colorless Spirit creature tokens. They gain haste until end of turn. This ability costs |mana_1| less to activate for each legendary creature you control.
 
 
-:mtgtip:`Swiftwater Cliffs<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/a/ea6c2670-e6fd-40d6-afe0-7d3c4db96a4d.jpg?1654569020|https://scryfall.com/card/neo/277/swiftwater-cliffs?utm_source=api>`
+:mtgtip:`Swiftwater Cliffs<https://cards.scryfall.io/border_crop/front/e/a/ea6c2670-e6fd-40d6-afe0-7d3c4db96a4d.jpg?1654569020|https://scryfall.com/card/neo/277/swiftwater-cliffs?utm_source=api>`
    Swiftwater Cliffs enters the battlefield tapped.
 
    When Swiftwater Cliffs enters the battlefield, you gain 1 life.
@@ -1915,13 +1915,13 @@
    |tap|: Add |mana_u| or |mana_r|.
 
 
-:mtgtip:`Takenuma, Abandoned Mire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/9/499037cc-a577-41cb-8ca2-5e117945634f.jpg?1654569039|https://scryfall.com/card/neo/278/takenuma-abandoned-mire?utm_source=api>`
+:mtgtip:`Takenuma, Abandoned Mire<https://cards.scryfall.io/border_crop/front/4/9/499037cc-a577-41cb-8ca2-5e117945634f.jpg?1654569039|https://scryfall.com/card/neo/278/takenuma-abandoned-mire?utm_source=api>`
    |tap|: Add |mana_b|.
 
    Channel — |mana_3|\ |mana_b|, Discard Takenuma, Abandoned Mire: Mill three cards, then return a creature or planeswalker card from your graveyard to your hand. This ability costs |mana_1| less to activate for each legendary creature you control.
 
 
-:mtgtip:`Thornwood Falls<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/5/d5af3569-3e66-4a50-aca0-c17c799dca28.jpg?1654569043|https://scryfall.com/card/neo/279/thornwood-falls?utm_source=api>`
+:mtgtip:`Thornwood Falls<https://cards.scryfall.io/border_crop/front/d/5/d5af3569-3e66-4a50-aca0-c17c799dca28.jpg?1654569043|https://scryfall.com/card/neo/279/thornwood-falls?utm_source=api>`
    Thornwood Falls enters the battlefield tapped.
 
    When Thornwood Falls enters the battlefield, you gain 1 life.
@@ -1929,7 +1929,7 @@
    |tap|: Add |mana_g| or |mana_u|.
 
 
-:mtgtip:`Tranquil Cove<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/8/68f822b7-efc5-42c8-93ea-7dd17b4c3e7a.jpg?1654569065|https://scryfall.com/card/neo/280/tranquil-cove?utm_source=api>`
+:mtgtip:`Tranquil Cove<https://cards.scryfall.io/border_crop/front/6/8/68f822b7-efc5-42c8-93ea-7dd17b4c3e7a.jpg?1654569065|https://scryfall.com/card/neo/280/tranquil-cove?utm_source=api>`
    Tranquil Cove enters the battlefield tapped.
 
    When Tranquil Cove enters the battlefield, you gain 1 life.
@@ -1937,7 +1937,7 @@
    |tap|: Add |mana_w| or |mana_u|.
 
 
-:mtgtip:`Uncharted Haven<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/d/1d4ad89a-3a00-4bf4-a357-4a8a089d4a82.jpg?1654569074|https://scryfall.com/card/neo/281/uncharted-haven?utm_source=api>`
+:mtgtip:`Uncharted Haven<https://cards.scryfall.io/border_crop/front/1/d/1d4ad89a-3a00-4bf4-a357-4a8a089d4a82.jpg?1654569074|https://scryfall.com/card/neo/281/uncharted-haven?utm_source=api>`
    Uncharted Haven enters the battlefield tapped.
 
    As Uncharted Haven enters the battlefield, choose a color.
@@ -1945,7 +1945,7 @@
    |tap|: Add one mana of the chosen color.
 
 
-:mtgtip:`Wind-Scarred Crag<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/f/cf9b1d47-11ef-4f06-94b2-94b6727de3bd.jpg?1654569085|https://scryfall.com/card/neo/282/wind-scarred-crag?utm_source=api>`
+:mtgtip:`Wind-Scarred Crag<https://cards.scryfall.io/border_crop/front/c/f/cf9b1d47-11ef-4f06-94b2-94b6727de3bd.jpg?1654569085|https://scryfall.com/card/neo/282/wind-scarred-crag?utm_source=api>`
    Wind-Scarred Crag enters the battlefield tapped.
 
    When Wind-Scarred Crag enters the battlefield, you gain 1 life.
@@ -1953,22 +1953,22 @@
    |tap|: Add |mana_r| or |mana_w|.
 
 
-:mtgtip:`Plains<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/f/5fc26aa1-58b9-41b5-95b4-7e9bf2309b54.jpg?1654569094|https://scryfall.com/card/neo/283/plains?utm_source=api>`
+:mtgtip:`Plains<https://cards.scryfall.io/border_crop/front/5/f/5fc26aa1-58b9-41b5-95b4-7e9bf2309b54.jpg?1654569094|https://scryfall.com/card/neo/283/plains?utm_source=api>`
    (|tap|: Add |mana_w|.)
 
 
-:mtgtip:`Island<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/f/0f66d573-5da4-4b3c-ab06-bb330cff2c9a.jpg?1654569118|https://scryfall.com/card/neo/285/island?utm_source=api>`
+:mtgtip:`Island<https://cards.scryfall.io/border_crop/front/0/f/0f66d573-5da4-4b3c-ab06-bb330cff2c9a.jpg?1654569118|https://scryfall.com/card/neo/285/island?utm_source=api>`
    (|tap|: Add |mana_u|.)
 
 
-:mtgtip:`Swamp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/8/48f7492c-67f2-4ba3-848b-7a6a8df7e88b.jpg?1654569139|https://scryfall.com/card/neo/287/swamp?utm_source=api>`
+:mtgtip:`Swamp<https://cards.scryfall.io/border_crop/front/4/8/48f7492c-67f2-4ba3-848b-7a6a8df7e88b.jpg?1654569139|https://scryfall.com/card/neo/287/swamp?utm_source=api>`
    (|tap|: Add |mana_b|.)
 
 
-:mtgtip:`Mountain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/f/2fe601b0-0398-47f0-9e4f-9f841ad79b9b.jpg?1654569163|https://scryfall.com/card/neo/289/mountain?utm_source=api>`
+:mtgtip:`Mountain<https://cards.scryfall.io/border_crop/front/2/f/2fe601b0-0398-47f0-9e4f-9f841ad79b9b.jpg?1654569163|https://scryfall.com/card/neo/289/mountain?utm_source=api>`
    (|tap|: Add |mana_r|.)
 
 
-:mtgtip:`Forest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/e/aea5c36b-c107-4daf-bedb-507b4cd64724.jpg?1654569182|https://scryfall.com/card/neo/291/forest?utm_source=api>`
+:mtgtip:`Forest<https://cards.scryfall.io/border_crop/front/a/e/aea5c36b-c107-4daf-bedb-507b4cd64724.jpg?1654569182|https://scryfall.com/card/neo/291/forest?utm_source=api>`
    (|tap|: Add |mana_g|.)
 
