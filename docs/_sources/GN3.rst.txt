@@ -5,17 +5,17 @@
 ==============================
 
 
-:mtgtip:`Zamriel, Seraph of Steel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/c/bc883e4e-e5f5-4823-ac2a-9ff8b7772926.jpg?1656912362|https://scryfall.com/card/gn3/1/zamriel-seraph-of-steel?utm_source=api>`
+:mtgtip:`Zamriel, Seraph of Steel<https://cards.scryfall.io/border_crop/front/b/c/bc883e4e-e5f5-4823-ac2a-9ff8b7772926.jpg?1664524458|https://scryfall.com/card/gn3/1/zamriel-seraph-of-steel?utm_source=api>`
    Flying
 
    As long as it's your turn, equipped creatures you control have indestructible.
 
 
-:mtgtip:`Maeve, Insidious Singer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/7/2743136b-3610-4c43-8ed7-a00b1f58a874.jpg?1656912345|https://scryfall.com/card/gn3/2/maeve-insidious-singer?utm_source=api>`
+:mtgtip:`Maeve, Insidious Singer<https://cards.scryfall.io/border_crop/front/2/7/2743136b-3610-4c43-8ed7-a00b1f58a874.jpg?1664524474|https://scryfall.com/card/gn3/2/maeve-insidious-singer?utm_source=api>`
    |mana_2|\ |mana_u|: Goad target creature. Whenever that creature attacks one of your opponents this turn, you draw a card. (A goaded creature attacks each combat if able and attacks a player other than you if able, until your next turn.)
 
 
-:mtgtip:`Vogar, Necropolis Tyrant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/2/42679318-e5c4-4aa4-8097-97552defc8bf.jpg?1656912329|https://scryfall.com/card/gn3/3/vogar-necropolis-tyrant?utm_source=api>`
+:mtgtip:`Vogar, Necropolis Tyrant<https://cards.scryfall.io/border_crop/front/4/2/42679318-e5c4-4aa4-8097-97552defc8bf.jpg?1664524484|https://scryfall.com/card/gn3/3/vogar-necropolis-tyrant?utm_source=api>`
    Menace
 
    Whenever another creature dies during your turn, put a +1/+1 counter on Vogar, Necropolis Tyrant.
@@ -23,13 +23,13 @@
    When Vogar dies, draw a card for each +1/+1 counter on it.
 
 
-:mtgtip:`Nogi, Draco-Zealot<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/e/6e1ca513-2151-4daa-b442-c52c7838a863.jpg?1656912309|https://scryfall.com/card/gn3/4/nogi-draco-zealot?utm_source=api>`
+:mtgtip:`Nogi, Draco-Zealot<https://cards.scryfall.io/border_crop/front/6/e/6e1ca513-2151-4daa-b442-c52c7838a863.jpg?1664524494|https://scryfall.com/card/gn3/4/nogi-draco-zealot?utm_source=api>`
    Dragon spells you cast cost |mana_1| less to cast.
 
    Whenever Nogi, Draco-Zealot attacks, if you control three or more Dragons, until end of turn, Nogi becomes a Dragon with base power and toughness 5/5 and gains flying.
 
 
-:mtgtip:`Imaryll, Elfhame Elite<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/2/c2c3e33c-8893-436e-ab3a-f8c2ae8b2527.jpg?1656910523|https://scryfall.com/card/gn3/6/imaryll-elfhame-elite?utm_source=api>`
+:mtgtip:`Imaryll, Elfhame Elite<https://cards.scryfall.io/border_crop/front/c/2/c2c3e33c-8893-436e-ab3a-f8c2ae8b2527.jpg?1664524505|https://scryfall.com/card/gn3/6/imaryll-elfhame-elite?utm_source=api>`
    Whenever Imaryll, Elfhame Elite attacks, it gets +X/+X until end of turn, where X is the number of other Elves you control.
 
    You may have Imaryll assign its combat damage as though it weren't blocked.

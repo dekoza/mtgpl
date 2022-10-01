@@ -5,7 +5,7 @@
 ======================
 
 
-:mtgtip:`Ageless Sentinels<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/c/ccaa4a19-8eba-4c43-8a9a-636e234df751.jpg?1562534734|https://scryfall.com/card/scg/1/ageless-sentinels?utm_source=api>`
+:mtgtip:`Ageless Sentinels<https://cards.scryfall.io/border_crop/front/c/c/ccaa4a19-8eba-4c43-8a9a-636e234df751.jpg?1562534734|https://scryfall.com/card/scg/1/ageless-sentinels?utm_source=api>`
    Defender (This creature can't attack.)
 
    Flying
@@ -13,19 +13,19 @@
    When Ageless Sentinels blocks, it becomes a Bird Giant, and it loses defender. (It's no longer a Wall. This effect lasts indefinitely.)
 
 
-:mtgtip:`Astral Steel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/4/64f836d3-52c8-4628-b18a-8c8fb67969c9.jpg?1562529748|https://scryfall.com/card/scg/2/astral-steel?utm_source=api>`
+:mtgtip:`Astral Steel<https://cards.scryfall.io/border_crop/front/6/4/64f836d3-52c8-4628-b18a-8c8fb67969c9.jpg?1562529748|https://scryfall.com/card/scg/2/astral-steel?utm_source=api>`
    Target creature gets +1/+2 until end of turn.
 
    Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)
 
 
-:mtgtip:`Aven Farseer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/7/47854e89-4d22-4eb6-a77d-6f04407bd2e5.jpg?1562528498|https://scryfall.com/card/scg/3/aven-farseer?utm_source=api>`
+:mtgtip:`Aven Farseer<https://cards.scryfall.io/border_crop/front/4/7/47854e89-4d22-4eb6-a77d-6f04407bd2e5.jpg?1562528498|https://scryfall.com/card/scg/3/aven-farseer?utm_source=api>`
    Flying
 
    Whenever a permanent is turned face up, put a +1/+1 counter on Aven Farseer.
 
 
-:mtgtip:`Aven Liberator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/2/b2804006-2a60-400c-be0b-8aa042469372.jpg?1562533361|https://scryfall.com/card/scg/4/aven-liberator?utm_source=api>`
+:mtgtip:`Aven Liberator<https://cards.scryfall.io/border_crop/front/b/2/b2804006-2a60-400c-be0b-8aa042469372.jpg?1562533361|https://scryfall.com/card/scg/4/aven-liberator?utm_source=api>`
    Flying
 
    Morph |mana_3|\ |mana_w| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
@@ -33,23 +33,23 @@
    When Aven Liberator is turned face up, target creature you control gains protection from the color of your choice until end of turn.
 
 
-:mtgtip:`Daru Spiritualist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/8/18f26b88-cffc-47ed-a70a-7d704a32c8bb.jpg?1562526069|https://scryfall.com/card/scg/5/daru-spiritualist?utm_source=api>`
+:mtgtip:`Daru Spiritualist<https://cards.scryfall.io/border_crop/front/1/8/18f26b88-cffc-47ed-a70a-7d704a32c8bb.jpg?1562526069|https://scryfall.com/card/scg/5/daru-spiritualist?utm_source=api>`
    Whenever a Cleric creature you control becomes the target of a spell or ability, it gets +0/+2 until end of turn.
 
 
-:mtgtip:`Daru Warchief<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/6/2630d3b5-8f3a-4aad-a45e-22a7979429f3.jpg?1562526606|https://scryfall.com/card/scg/6/daru-warchief?utm_source=api>`
+:mtgtip:`Daru Warchief<https://cards.scryfall.io/border_crop/front/2/6/2630d3b5-8f3a-4aad-a45e-22a7979429f3.jpg?1562526606|https://scryfall.com/card/scg/6/daru-warchief?utm_source=api>`
    Soldier spells you cast cost |mana_1| less to cast.
 
    Soldier creatures you control get +1/+2.
 
 
-:mtgtip:`Dawn Elemental<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/d/fd90a303-25fb-460b-bd55-6249f61c361c.jpg?1562537377|https://scryfall.com/card/scg/7/dawn-elemental?utm_source=api>`
+:mtgtip:`Dawn Elemental<https://cards.scryfall.io/border_crop/front/f/d/fd90a303-25fb-460b-bd55-6249f61c361c.jpg?1562537377|https://scryfall.com/card/scg/7/dawn-elemental?utm_source=api>`
    Flying
 
    Prevent all damage that would be dealt to Dawn Elemental.
 
 
-:mtgtip:`Decree of Justice<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/e/5e8a7e5c-f252-4de8-94d7-e7327210bf26.jpg?1562529682|https://scryfall.com/card/scg/8/decree-of-justice?utm_source=api>`
+:mtgtip:`Decree of Justice<https://cards.scryfall.io/border_crop/front/5/e/5e8a7e5c-f252-4de8-94d7-e7327210bf26.jpg?1562529682|https://scryfall.com/card/scg/8/decree-of-justice?utm_source=api>`
    Create X 4/4 white Angel creature tokens with flying.
 
    Cycling |mana_2|\ |mana_w| (|mana_2|\ |mana_w|, Discard this card: Draw a card.)
@@ -57,11 +57,11 @@
    When you cycle Decree of Justice, you may pay |mana_x|. If you do, create X 1/1 white Soldier creature tokens.
 
 
-:mtgtip:`Dimensional Breach<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/1/f18f2832-07c5-47be-8966-b250fb997f78.jpg?1562536853|https://scryfall.com/card/scg/9/dimensional-breach?utm_source=api>`
+:mtgtip:`Dimensional Breach<https://cards.scryfall.io/border_crop/front/f/1/f18f2832-07c5-47be-8966-b250fb997f78.jpg?1562536853|https://scryfall.com/card/scg/9/dimensional-breach?utm_source=api>`
    Exile all permanents. For as long as any of those cards remain exiled, at the beginning of each player's upkeep, that player returns one of the exiled cards they own to the battlefield.
 
 
-:mtgtip:`Dragon Scales<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/e/8e78b364-015d-4074-ad9e-55c973ce2f4b.jpg?1562532079|https://scryfall.com/card/scg/10/dragon-scales?utm_source=api>`
+:mtgtip:`Dragon Scales<https://cards.scryfall.io/border_crop/front/8/e/8e78b364-015d-4074-ad9e-55c973ce2f4b.jpg?1562532079|https://scryfall.com/card/scg/10/dragon-scales?utm_source=api>`
    Enchant creature
 
    Enchanted creature gets +1/+2 and has vigilance.
@@ -69,11 +69,11 @@
    When a creature with mana value 6 or greater enters the battlefield, you may return Dragon Scales from your graveyard to the battlefield attached to that creature.
 
 
-:mtgtip:`Dragonstalker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/8/58017ff1-74d2-4be2-976a-8dff53e16150.jpg?1562529448|https://scryfall.com/card/scg/11/dragonstalker?utm_source=api>`
+:mtgtip:`Dragonstalker<https://cards.scryfall.io/border_crop/front/5/8/58017ff1-74d2-4be2-976a-8dff53e16150.jpg?1562529448|https://scryfall.com/card/scg/11/dragonstalker?utm_source=api>`
    Flying, protection from Dragons
 
 
-:mtgtip:`Eternal Dragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/5/0596928c-2b20-4dbb-aa78-3ab6c3ce0d72.jpg?1562524969|https://scryfall.com/card/scg/12/eternal-dragon?utm_source=api>`
+:mtgtip:`Eternal Dragon<https://cards.scryfall.io/border_crop/front/0/5/0596928c-2b20-4dbb-aa78-3ab6c3ce0d72.jpg?1562524969|https://scryfall.com/card/scg/12/eternal-dragon?utm_source=api>`
    Flying
 
    |mana_3|\ |mana_w|\ |mana_w|: Return Eternal Dragon from your graveyard to your hand. Activate only during your upkeep.
@@ -81,11 +81,11 @@
    Plainscycling |mana_2| (|mana_2|, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)
 
 
-:mtgtip:`Exiled Doomsayer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/4/74aaf095-143a-43fc-a858-b1e82a4b906e.jpg?1562530656|https://scryfall.com/card/scg/13/exiled-doomsayer?utm_source=api>`
+:mtgtip:`Exiled Doomsayer<https://cards.scryfall.io/border_crop/front/7/4/74aaf095-143a-43fc-a858-b1e82a4b906e.jpg?1562530656|https://scryfall.com/card/scg/13/exiled-doomsayer?utm_source=api>`
    All morph costs cost |mana_2| more. (This doesn't affect the cost to cast creature spells face down.)
 
 
-:mtgtip:`Force Bubble<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/4/742ac116-86ed-4ce6-9805-76f47a41c4c4.jpg?1562530652|https://scryfall.com/card/scg/14/force-bubble?utm_source=api>`
+:mtgtip:`Force Bubble<https://cards.scryfall.io/border_crop/front/7/4/742ac116-86ed-4ce6-9805-76f47a41c4c4.jpg?1562530652|https://scryfall.com/card/scg/14/force-bubble?utm_source=api>`
    If damage would be dealt to you, put that many depletion counters on Force Bubble instead.
 
    When there are four or more depletion counters on Force Bubble, sacrifice it.
@@ -93,41 +93,41 @@
    At the beginning of each end step, remove all depletion counters from Force Bubble.
 
 
-:mtgtip:`Frontline Strategist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/c/1c43fac2-62fb-4924-848d-a8d739773d6e.jpg?1562526115|https://scryfall.com/card/scg/15/frontline-strategist?utm_source=api>`
+:mtgtip:`Frontline Strategist<https://cards.scryfall.io/border_crop/front/1/c/1c43fac2-62fb-4924-848d-a8d739773d6e.jpg?1562526115|https://scryfall.com/card/scg/15/frontline-strategist?utm_source=api>`
    Morph |mana_w| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
    When Frontline Strategist is turned face up, prevent all combat damage non-Soldier creatures would deal this turn.
 
 
-:mtgtip:`Gilded Light<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/1/01b92597-cb1e-4b8f-9ee9-07b48cf1a5c6.jpg?1562524890|https://scryfall.com/card/scg/16/gilded-light?utm_source=api>`
+:mtgtip:`Gilded Light<https://cards.scryfall.io/border_crop/front/0/1/01b92597-cb1e-4b8f-9ee9-07b48cf1a5c6.jpg?1562524890|https://scryfall.com/card/scg/16/gilded-light?utm_source=api>`
    You gain shroud until end of turn. (You can't be the target of spells or abilities.)
 
    Cycling |mana_2| (|mana_2|, Discard this card: Draw a card.)
 
 
-:mtgtip:`Guilty Conscience<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/7/67b8701c-0f03-4ad0-9097-3caf885abd59.jpg?1562529779|https://scryfall.com/card/scg/17/guilty-conscience?utm_source=api>`
+:mtgtip:`Guilty Conscience<https://cards.scryfall.io/border_crop/front/6/7/67b8701c-0f03-4ad0-9097-3caf885abd59.jpg?1562529779|https://scryfall.com/card/scg/17/guilty-conscience?utm_source=api>`
    Enchant creature
 
    Whenever enchanted creature deals damage, Guilty Conscience deals that much damage to that creature.
 
 
-:mtgtip:`Karona's Zealot<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/1/914a1200-b77c-4a2c-96c6-7cc624ee9a6a.jpg?1562532125|https://scryfall.com/card/scg/18/karonas-zealot?utm_source=api>`
+:mtgtip:`Karona's Zealot<https://cards.scryfall.io/border_crop/front/9/1/914a1200-b77c-4a2c-96c6-7cc624ee9a6a.jpg?1562532125|https://scryfall.com/card/scg/18/karonas-zealot?utm_source=api>`
    Morph |mana_3|\ |mana_w|\ |mana_w| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
    When Karona's Zealot is turned face up, all damage that would be dealt to it this turn is dealt to target creature instead.
 
 
-:mtgtip:`Noble Templar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/a/6a9ede92-e64f-44a5-afb6-c7495077fb0b.jpg?1562530174|https://scryfall.com/card/scg/19/noble-templar?utm_source=api>`
+:mtgtip:`Noble Templar<https://cards.scryfall.io/border_crop/front/6/a/6a9ede92-e64f-44a5-afb6-c7495077fb0b.jpg?1562530174|https://scryfall.com/card/scg/19/noble-templar?utm_source=api>`
    Vigilance
 
    Plainscycling |mana_2| (|mana_2|, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)
 
 
-:mtgtip:`Rain of Blades<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/1/418476cd-94da-47a5-ba77-6bb4771e9c89.jpg?1562528049|https://scryfall.com/card/scg/20/rain-of-blades?utm_source=api>`
+:mtgtip:`Rain of Blades<https://cards.scryfall.io/border_crop/front/4/1/418476cd-94da-47a5-ba77-6bb4771e9c89.jpg?1562528049|https://scryfall.com/card/scg/20/rain-of-blades?utm_source=api>`
    Rain of Blades deals 1 damage to each attacking creature.
 
 
-:mtgtip:`Recuperate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/5/a5945397-0906-48dd-80d1-c65bfa2b31a6.jpg?1562533088|https://scryfall.com/card/scg/21/recuperate?utm_source=api>`
+:mtgtip:`Recuperate<https://cards.scryfall.io/border_crop/front/a/5/a5945397-0906-48dd-80d1-c65bfa2b31a6.jpg?1562533088|https://scryfall.com/card/scg/21/recuperate?utm_source=api>`
    Choose one —
 
    • You gain 6 life.
@@ -135,57 +135,57 @@
    • Prevent the next 6 damage that would be dealt to target creature this turn.
 
 
-:mtgtip:`Reward the Faithful<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/f/df6e8844-3736-4fb1-bedb-6a6bfa6ccdc8.jpg?1562535753|https://scryfall.com/card/scg/22/reward-the-faithful?utm_source=api>`
+:mtgtip:`Reward the Faithful<https://cards.scryfall.io/border_crop/front/d/f/df6e8844-3736-4fb1-bedb-6a6bfa6ccdc8.jpg?1562535753|https://scryfall.com/card/scg/22/reward-the-faithful?utm_source=api>`
    Any number of target players each gain life equal to the highest mana value among permanents you control.
 
 
-:mtgtip:`Silver Knight<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/3/93f559da-08ad-402d-8c6b-3050bce5867b.jpg?1562532178|https://scryfall.com/card/scg/23/silver-knight?utm_source=api>`
+:mtgtip:`Silver Knight<https://cards.scryfall.io/border_crop/front/9/3/93f559da-08ad-402d-8c6b-3050bce5867b.jpg?1562532178|https://scryfall.com/card/scg/23/silver-knight?utm_source=api>`
    First strike, protection from red
 
 
-:mtgtip:`Trap Digger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/5/05cd76bf-db08-45f8-b3ae-501bcca6df3c.jpg?1562524971|https://scryfall.com/card/scg/24/trap-digger?utm_source=api>`
+:mtgtip:`Trap Digger<https://cards.scryfall.io/border_crop/front/0/5/05cd76bf-db08-45f8-b3ae-501bcca6df3c.jpg?1562524971|https://scryfall.com/card/scg/24/trap-digger?utm_source=api>`
    |mana_2|\ |mana_w|, |tap|: Put a trap counter on target land you control.
 
    Sacrifice a land with a trap counter on it: Trap Digger deals 3 damage to target attacking creature without flying.
 
 
-:mtgtip:`Wing Shards<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/5/65efa443-666a-45c1-8784-e98c510854b5.jpg?1562529751|https://scryfall.com/card/scg/25/wing-shards?utm_source=api>`
+:mtgtip:`Wing Shards<https://cards.scryfall.io/border_crop/front/6/5/65efa443-666a-45c1-8784-e98c510854b5.jpg?1562529751|https://scryfall.com/card/scg/25/wing-shards?utm_source=api>`
    Target player sacrifices an attacking creature.
 
    Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)
 
 
-:mtgtip:`Wipe Clean<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/f/cf7c14c9-cb5a-49f0-be2c-eb3166f02510.jpg?1562534791|https://scryfall.com/card/scg/26/wipe-clean?utm_source=api>`
+:mtgtip:`Wipe Clean<https://cards.scryfall.io/border_crop/front/c/f/cf7c14c9-cb5a-49f0-be2c-eb3166f02510.jpg?1562534791|https://scryfall.com/card/scg/26/wipe-clean?utm_source=api>`
    Exile target enchantment.
 
    Cycling |mana_3| (|mana_3|, Discard this card: Draw a card.)
 
 
-:mtgtip:`Zealous Inquisitor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/f/1fb821b6-4e73-4970-b1ac-b67c93990ec0.jpg?1562526171|https://scryfall.com/card/scg/27/zealous-inquisitor?utm_source=api>`
+:mtgtip:`Zealous Inquisitor<https://cards.scryfall.io/border_crop/front/1/f/1fb821b6-4e73-4970-b1ac-b67c93990ec0.jpg?1562526171|https://scryfall.com/card/scg/27/zealous-inquisitor?utm_source=api>`
    |mana_1|\ |mana_w|: The next 1 damage that would be dealt to Zealous Inquisitor this turn is dealt to target creature instead.
 
 
-:mtgtip:`Aphetto Runecaster<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7c5de028-91ce-48d8-8557-ae12542adea2.jpg?1562531185|https://scryfall.com/card/scg/28/aphetto-runecaster?utm_source=api>`
+:mtgtip:`Aphetto Runecaster<https://cards.scryfall.io/border_crop/front/7/c/7c5de028-91ce-48d8-8557-ae12542adea2.jpg?1562531185|https://scryfall.com/card/scg/28/aphetto-runecaster?utm_source=api>`
    Whenever a permanent is turned face up, you may draw a card.
 
 
-:mtgtip:`Brain Freeze<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/9/59a43ef5-08f0-44fc-802d-b6cfd56b7d1f.jpg?1562529493|https://scryfall.com/card/scg/29/brain-freeze?utm_source=api>`
+:mtgtip:`Brain Freeze<https://cards.scryfall.io/border_crop/front/5/9/59a43ef5-08f0-44fc-802d-b6cfd56b7d1f.jpg?1562529493|https://scryfall.com/card/scg/29/brain-freeze?utm_source=api>`
    Target player mills three cards.
 
    Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)
 
 
-:mtgtip:`Coast Watcher<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/b/6bbbc67d-99d0-4277-a8f2-64509e59ec00.jpg?1562530192|https://scryfall.com/card/scg/30/coast-watcher?utm_source=api>`
+:mtgtip:`Coast Watcher<https://cards.scryfall.io/border_crop/front/6/b/6bbbc67d-99d0-4277-a8f2-64509e59ec00.jpg?1562530192|https://scryfall.com/card/scg/30/coast-watcher?utm_source=api>`
    Flying, protection from green
 
 
-:mtgtip:`Day of the Dragons<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/6/366a934c-eb01-48c6-8393-c2fe0708ff91.jpg?1562527571|https://scryfall.com/card/scg/31/day-of-the-dragons?utm_source=api>`
+:mtgtip:`Day of the Dragons<https://cards.scryfall.io/border_crop/front/3/6/366a934c-eb01-48c6-8393-c2fe0708ff91.jpg?1562527571|https://scryfall.com/card/scg/31/day-of-the-dragons?utm_source=api>`
    When Day of the Dragons enters the battlefield, exile all creatures you control. Then create that many 5/5 red Dragon creature tokens with flying.
 
    When Day of the Dragons leaves the battlefield, sacrifice all Dragons you control. Then return the exiled cards to the battlefield under your control.
 
 
-:mtgtip:`Decree of Silence<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/2/f2fc46e2-5e19-4999-a4cd-1e84697066c1.jpg?1562536891|https://scryfall.com/card/scg/32/decree-of-silence?utm_source=api>`
+:mtgtip:`Decree of Silence<https://cards.scryfall.io/border_crop/front/f/2/f2fc46e2-5e19-4999-a4cd-1e84697066c1.jpg?1562536891|https://scryfall.com/card/scg/32/decree-of-silence?utm_source=api>`
    Whenever an opponent casts a spell, counter that spell and put a depletion counter on Decree of Silence. If there are three or more depletion counters on Decree of Silence, sacrifice it.
 
    Cycling |mana_4|\ |mana_u|\ |mana_u| (|mana_4|\ |mana_u|\ |mana_u|, Discard this card: Draw a card.)
@@ -193,11 +193,11 @@
    When you cycle Decree of Silence, you may counter target spell.
 
 
-:mtgtip:`Dispersal Shield<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/c/0c257df6-f275-40db-bfe3-a9291356cdf7.jpg?1562525399|https://scryfall.com/card/scg/33/dispersal-shield?utm_source=api>`
+:mtgtip:`Dispersal Shield<https://cards.scryfall.io/border_crop/front/0/c/0c257df6-f275-40db-bfe3-a9291356cdf7.jpg?1562525399|https://scryfall.com/card/scg/33/dispersal-shield?utm_source=api>`
    Counter target spell if its mana value is less than or equal to the highest mana value among permanents you control.
 
 
-:mtgtip:`Dragon Wings<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/7674ab4d-9bc0-45c3-88e1-3fd2c947cfaa.jpg?1562530706|https://scryfall.com/card/scg/34/dragon-wings?utm_source=api>`
+:mtgtip:`Dragon Wings<https://cards.scryfall.io/border_crop/front/7/6/7674ab4d-9bc0-45c3-88e1-3fd2c947cfaa.jpg?1562530706|https://scryfall.com/card/scg/34/dragon-wings?utm_source=api>`
    Enchant creature
 
    Enchanted creature has flying.
@@ -207,11 +207,11 @@
    When a creature with mana value 6 or greater enters the battlefield, you may return Dragon Wings from your graveyard to the battlefield attached to that creature.
 
 
-:mtgtip:`Faces of the Past<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/f/0f6dc35b-eb26-498f-ae35-0e860871446e.jpg?1562525440|https://scryfall.com/card/scg/35/faces-of-the-past?utm_source=api>`
+:mtgtip:`Faces of the Past<https://cards.scryfall.io/border_crop/front/0/f/0f6dc35b-eb26-498f-ae35-0e860871446e.jpg?1562525440|https://scryfall.com/card/scg/35/faces-of-the-past?utm_source=api>`
    Whenever a creature dies, tap all untapped creatures that share a creature type with it or untap all tapped creatures that share a creature type with it.
 
 
-:mtgtip:`Frozen Solid<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/b/9b89b98d-0245-4b64-b835-d101ce2bd3fa.jpg?1562532599|https://scryfall.com/card/scg/36/frozen-solid?utm_source=api>`
+:mtgtip:`Frozen Solid<https://cards.scryfall.io/border_crop/front/9/b/9b89b98d-0245-4b64-b835-d101ce2bd3fa.jpg?1562532599|https://scryfall.com/card/scg/36/frozen-solid?utm_source=api>`
    Enchant creature
 
    Enchanted creature doesn't untap during its controller's untap step.
@@ -219,33 +219,33 @@
    When enchanted creature is dealt damage, destroy it.
 
 
-:mtgtip:`Hindering Touch<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/b/db9735d9-4aac-4175-8ec8-fc9bfd8f2c5c.jpg?1562535667|https://scryfall.com/card/scg/37/hindering-touch?utm_source=api>`
+:mtgtip:`Hindering Touch<https://cards.scryfall.io/border_crop/front/d/b/db9735d9-4aac-4175-8ec8-fc9bfd8f2c5c.jpg?1562535667|https://scryfall.com/card/scg/37/hindering-touch?utm_source=api>`
    Counter target spell unless its controller pays |mana_2|.
 
    Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)
 
 
-:mtgtip:`Long-Term Plans<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/e/7e0422d9-9694-45b6-9c2b-2ca31198cebf.jpg?1562531196|https://scryfall.com/card/scg/38/long-term-plans?utm_source=api>`
+:mtgtip:`Long-Term Plans<https://cards.scryfall.io/border_crop/front/7/e/7e0422d9-9694-45b6-9c2b-2ca31198cebf.jpg?1562531196|https://scryfall.com/card/scg/38/long-term-plans?utm_source=api>`
    Search your library for a card, then shuffle and put that card third from the top.
 
 
-:mtgtip:`Mercurial Kite<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/6/a6bc8655-ae27-40be-8d61-e80a5924e955.jpg?1562533105|https://scryfall.com/card/scg/39/mercurial-kite?utm_source=api>`
+:mtgtip:`Mercurial Kite<https://cards.scryfall.io/border_crop/front/a/6/a6bc8655-ae27-40be-8d61-e80a5924e955.jpg?1562533105|https://scryfall.com/card/scg/39/mercurial-kite?utm_source=api>`
    Flying
 
    Whenever Mercurial Kite deals combat damage to a creature, tap that creature. That creature doesn't untap during its controller's next untap step.
 
 
-:mtgtip:`Metamorphose<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/0/a0f0c20c-184e-4d27-ae8b-933abb6fee0c.jpg?1562533013|https://scryfall.com/card/scg/40/metamorphose?utm_source=api>`
+:mtgtip:`Metamorphose<https://cards.scryfall.io/border_crop/front/a/0/a0f0c20c-184e-4d27-ae8b-933abb6fee0c.jpg?1562533013|https://scryfall.com/card/scg/40/metamorphose?utm_source=api>`
    Put target permanent an opponent controls on top of its owner's library. That opponent may put an artifact, creature, enchantment, or land card from their hand onto the battlefield.
 
 
-:mtgtip:`Mind's Desire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/c/3c7474e1-cfae-4867-a11a-d5cf9ff7ea5f.jpg?1562527625|https://scryfall.com/card/scg/41/minds-desire?utm_source=api>`
+:mtgtip:`Mind's Desire<https://cards.scryfall.io/border_crop/front/3/c/3c7474e1-cfae-4867-a11a-d5cf9ff7ea5f.jpg?1562527625|https://scryfall.com/card/scg/41/minds-desire?utm_source=api>`
    Shuffle your library. Then exile the top card of your library. Until end of turn, you may play that card without paying its mana cost.
 
    Storm (When you cast this spell, copy it for each spell cast before it this turn.)
 
 
-:mtgtip:`Mischievous Quanar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/c/dc48c2db-f5b4-4c24-a5fa-00750b7ff56f.jpg?1562535674|https://scryfall.com/card/scg/42/mischievous-quanar?utm_source=api>`
+:mtgtip:`Mischievous Quanar<https://cards.scryfall.io/border_crop/front/d/c/dc48c2db-f5b4-4c24-a5fa-00750b7ff56f.jpg?1562535674|https://scryfall.com/card/scg/42/mischievous-quanar?utm_source=api>`
    |mana_3|\ |mana_u|\ |mana_u|: Turn Mischievous Quanar face down.
 
    Morph |mana_1|\ |mana_u|\ |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
@@ -253,19 +253,19 @@
    When Mischievous Quanar is turned face up, copy target instant or sorcery spell. You may choose new targets for that copy.
 
 
-:mtgtip:`Mistform Warchief<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/6/a633d85b-4be1-44a2-8fd8-1ccec4a95ecb.jpg?1562533090|https://scryfall.com/card/scg/43/mistform-warchief?utm_source=api>`
+:mtgtip:`Mistform Warchief<https://cards.scryfall.io/border_crop/front/a/6/a633d85b-4be1-44a2-8fd8-1ccec4a95ecb.jpg?1562533090|https://scryfall.com/card/scg/43/mistform-warchief?utm_source=api>`
    Creature spells you cast that share a creature type with Mistform Warchief cost |mana_1| less to cast.
 
    |tap|: Mistform Warchief becomes the creature type of your choice until end of turn.
 
 
-:mtgtip:`Parallel Thoughts<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/9/d913c541-a8fb-4383-bbab-988be3e0f5d5.jpg?1562535276|https://scryfall.com/card/scg/44/parallel-thoughts?utm_source=api>`
+:mtgtip:`Parallel Thoughts<https://cards.scryfall.io/border_crop/front/d/9/d913c541-a8fb-4383-bbab-988be3e0f5d5.jpg?1562535276|https://scryfall.com/card/scg/44/parallel-thoughts?utm_source=api>`
    When Parallel Thoughts enters the battlefield, search your library for seven cards, exile them in a face-down pile, and shuffle that pile. Then shuffle your library.
 
    If you would draw a card, you may instead put the top card of the pile you exiled into your hand.
 
 
-:mtgtip:`Pemmin's Aura<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/f/9fb3e38b-086e-4fbc-b7b1-8564c18276d7.jpg?1562532667|https://scryfall.com/card/scg/45/pemmins-aura?utm_source=api>`
+:mtgtip:`Pemmin's Aura<https://cards.scryfall.io/border_crop/front/9/f/9fb3e38b-086e-4fbc-b7b1-8564c18276d7.jpg?1562532667|https://scryfall.com/card/scg/45/pemmins-aura?utm_source=api>`
    Enchant creature
 
    |mana_u|: Untap enchanted creature.
@@ -277,47 +277,47 @@
    |mana_1|: Enchanted creature gets +1/-1 or -1/+1 until end of turn.
 
 
-:mtgtip:`Raven Guild Initiate<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/1/c1e11f70-06c3-4dc5-aafe-82d65080085e.jpg?1562534262|https://scryfall.com/card/scg/46/raven-guild-initiate?utm_source=api>`
+:mtgtip:`Raven Guild Initiate<https://cards.scryfall.io/border_crop/front/c/1/c1e11f70-06c3-4dc5-aafe-82d65080085e.jpg?1562534262|https://scryfall.com/card/scg/46/raven-guild-initiate?utm_source=api>`
    Morph—Return a Bird you control to its owner's hand. (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
 
-:mtgtip:`Raven Guild Master<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/8/9843f847-6a8f-4042-86b6-f7fe5a47cc57.jpg?1562532562|https://scryfall.com/card/scg/47/raven-guild-master?utm_source=api>`
+:mtgtip:`Raven Guild Master<https://cards.scryfall.io/border_crop/front/9/8/9843f847-6a8f-4042-86b6-f7fe5a47cc57.jpg?1562532562|https://scryfall.com/card/scg/47/raven-guild-master?utm_source=api>`
    Whenever Raven Guild Master deals combat damage to a player, that player exiles the top ten cards of their library.
 
    Morph |mana_2|\ |mana_u|\ |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
 
-:mtgtip:`Riptide Survivor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/5/7515187f-4821-400d-b78f-cec173df6b84.jpg?1562530669|https://scryfall.com/card/scg/48/riptide-survivor?utm_source=api>`
+:mtgtip:`Riptide Survivor<https://cards.scryfall.io/border_crop/front/7/5/7515187f-4821-400d-b78f-cec173df6b84.jpg?1562530669|https://scryfall.com/card/scg/48/riptide-survivor?utm_source=api>`
    Morph |mana_1|\ |mana_u|\ |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
    When Riptide Survivor is turned face up, discard two cards, then draw three cards.
 
 
-:mtgtip:`Rush of Knowledge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/5/65b03b40-671f-4973-8d75-c3fa878ef603.jpg?1562529750|https://scryfall.com/card/scg/49/rush-of-knowledge?utm_source=api>`
+:mtgtip:`Rush of Knowledge<https://cards.scryfall.io/border_crop/front/6/5/65b03b40-671f-4973-8d75-c3fa878ef603.jpg?1562529750|https://scryfall.com/card/scg/49/rush-of-knowledge?utm_source=api>`
    Draw cards equal to the highest mana value among permanents you control.
 
 
-:mtgtip:`Scornful Egotist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/e/fec6b189-97e7-4627-9785-a9ce2f1ad89f.jpg?1562537398|https://scryfall.com/card/scg/50/scornful-egotist?utm_source=api>`
+:mtgtip:`Scornful Egotist<https://cards.scryfall.io/border_crop/front/f/e/fec6b189-97e7-4627-9785-a9ce2f1ad89f.jpg?1562537398|https://scryfall.com/card/scg/50/scornful-egotist?utm_source=api>`
    Morph |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
 
-:mtgtip:`Shoreline Ranger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/e/eed813c4-fff0-43f1-bc62-cbc3a126d600.jpg?1562536698|https://scryfall.com/card/scg/51/shoreline-ranger?utm_source=api>`
+:mtgtip:`Shoreline Ranger<https://cards.scryfall.io/border_crop/front/e/e/eed813c4-fff0-43f1-bc62-cbc3a126d600.jpg?1562536698|https://scryfall.com/card/scg/51/shoreline-ranger?utm_source=api>`
    Flying
 
    Islandcycling |mana_2| (|mana_2|, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)
 
 
-:mtgtip:`Stifle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/d/2d7643c0-b2db-478f-944e-b27b77bad3eb.jpg?1562527068|https://scryfall.com/card/scg/52/stifle?utm_source=api>`
+:mtgtip:`Stifle<https://cards.scryfall.io/border_crop/front/2/d/2d7643c0-b2db-478f-944e-b27b77bad3eb.jpg?1562527068|https://scryfall.com/card/scg/52/stifle?utm_source=api>`
    Counter target activated or triggered ability. (Mana abilities can't be targeted.)
 
 
-:mtgtip:`Temporal Fissure<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/7/97949c53-aef7-4c0c-b846-8d4003193ced.jpg?1562532561|https://scryfall.com/card/scg/53/temporal-fissure?utm_source=api>`
+:mtgtip:`Temporal Fissure<https://cards.scryfall.io/border_crop/front/9/7/97949c53-aef7-4c0c-b846-8d4003193ced.jpg?1562532561|https://scryfall.com/card/scg/53/temporal-fissure?utm_source=api>`
    Return target permanent to its owner's hand.
 
    Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)
 
 
-:mtgtip:`Thundercloud Elemental<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/9/597aea42-43e0-41ed-bfe7-fc92b6b8e680.jpg?1562529487|https://scryfall.com/card/scg/54/thundercloud-elemental?utm_source=api>`
+:mtgtip:`Thundercloud Elemental<https://cards.scryfall.io/border_crop/front/5/9/597aea42-43e0-41ed-bfe7-fc92b6b8e680.jpg?1562529487|https://scryfall.com/card/scg/54/thundercloud-elemental?utm_source=api>`
    Flying
 
    |mana_3|\ |mana_u|: Tap all creatures with toughness 2 or less.
@@ -325,55 +325,55 @@
    |mana_3|\ |mana_u|: All other creatures lose flying until end of turn.
 
 
-:mtgtip:`Bladewing's Thrall<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/0/f07e0d28-6383-4846-89d3-72910a7bbdcd.jpg?1562536719|https://scryfall.com/card/scg/55/bladewings-thrall?utm_source=api>`
+:mtgtip:`Bladewing's Thrall<https://cards.scryfall.io/border_crop/front/f/0/f07e0d28-6383-4846-89d3-72910a7bbdcd.jpg?1562536719|https://scryfall.com/card/scg/55/bladewings-thrall?utm_source=api>`
    Bladewing's Thrall has flying as long as you control a Dragon.
 
    When a Dragon enters the battlefield, you may return Bladewing's Thrall from your graveyard to the battlefield.
 
 
-:mtgtip:`Cabal Conditioning<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/b/eb81c6e6-fded-4cd3-a6fa-486419a5408a.jpg?1650357097|https://scryfall.com/card/scg/56/cabal-conditioning?utm_source=api>`
+:mtgtip:`Cabal Conditioning<https://cards.scryfall.io/border_crop/front/e/b/eb81c6e6-fded-4cd3-a6fa-486419a5408a.jpg?1650357097|https://scryfall.com/card/scg/56/cabal-conditioning?utm_source=api>`
    Any number of target players each discard a number of cards equal to the highest mana value among permanents you control.
 
 
-:mtgtip:`Cabal Interrogator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/5/256a7a37-6f47-47a3-b149-5692aee8b34a.jpg?1562526599|https://scryfall.com/card/scg/57/cabal-interrogator?utm_source=api>`
+:mtgtip:`Cabal Interrogator<https://cards.scryfall.io/border_crop/front/2/5/256a7a37-6f47-47a3-b149-5692aee8b34a.jpg?1562526599|https://scryfall.com/card/scg/57/cabal-interrogator?utm_source=api>`
    |mana_x|\ |mana_b|, |tap|: Target player reveals X cards from their hand and you choose one of them. That player discards that card. Activate only as a sorcery.
 
 
-:mtgtip:`Call to the Grave<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/a/2a346b4a-ac8a-4f99-9ed7-dd41102e56ce.jpg?1562527023|https://scryfall.com/card/scg/58/call-to-the-grave?utm_source=api>`
+:mtgtip:`Call to the Grave<https://cards.scryfall.io/border_crop/front/2/a/2a346b4a-ac8a-4f99-9ed7-dd41102e56ce.jpg?1562527023|https://scryfall.com/card/scg/58/call-to-the-grave?utm_source=api>`
    At the beginning of each player's upkeep, that player sacrifices a non-Zombie creature.
 
    At the beginning of the end step, if no creatures are on the battlefield, sacrifice Call to the Grave.
 
 
-:mtgtip:`Carrion Feeder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/8/88042031-64af-4f84-85d5-95992b43aa6c.jpg?1562531649|https://scryfall.com/card/scg/59/carrion-feeder?utm_source=api>`
+:mtgtip:`Carrion Feeder<https://cards.scryfall.io/border_crop/front/8/8/88042031-64af-4f84-85d5-95992b43aa6c.jpg?1562531649|https://scryfall.com/card/scg/59/carrion-feeder?utm_source=api>`
    Carrion Feeder can't block.
 
    Sacrifice a creature: Put a +1/+1 counter on Carrion Feeder.
 
 
-:mtgtip:`Chill Haunting<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/1/91035d03-2bf8-4e6b-945b-4dfbed0873ec.jpg?1562532116|https://scryfall.com/card/scg/60/chill-haunting?utm_source=api>`
+:mtgtip:`Chill Haunting<https://cards.scryfall.io/border_crop/front/9/1/91035d03-2bf8-4e6b-945b-4dfbed0873ec.jpg?1562532116|https://scryfall.com/card/scg/60/chill-haunting?utm_source=api>`
    As an additional cost to cast this spell, exile X creature cards from your graveyard.
 
    Target creature gets -X/-X until end of turn.
 
 
-:mtgtip:`Clutch of Undeath<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/3/7301fdec-ca17-47ae-9a0a-84ea8665ece1.jpg?1562530624|https://scryfall.com/card/scg/61/clutch-of-undeath?utm_source=api>`
+:mtgtip:`Clutch of Undeath<https://cards.scryfall.io/border_crop/front/7/3/7301fdec-ca17-47ae-9a0a-84ea8665ece1.jpg?1562530624|https://scryfall.com/card/scg/61/clutch-of-undeath?utm_source=api>`
    Enchant creature
 
    Enchanted creature gets +3/+3 as long as it's a Zombie. Otherwise, it gets -3/-3.
 
 
-:mtgtip:`Consumptive Goo<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/f/0f0f549f-6607-483a-9d89-2019ca9ef571.jpg?1562525434|https://scryfall.com/card/scg/62/consumptive-goo?utm_source=api>`
+:mtgtip:`Consumptive Goo<https://cards.scryfall.io/border_crop/front/0/f/0f0f549f-6607-483a-9d89-2019ca9ef571.jpg?1562525434|https://scryfall.com/card/scg/62/consumptive-goo?utm_source=api>`
    |mana_2|\ |mana_b|\ |mana_b|: Target creature gets -1/-1 until end of turn. Put a +1/+1 counter on Consumptive Goo.
 
 
-:mtgtip:`Death's-Head Buzzard<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/a/8a8d4fd9-1f9e-41f0-9114-d1a698506ad9.jpg?1562531685|https://scryfall.com/card/scg/63/deaths-head-buzzard?utm_source=api>`
+:mtgtip:`Death's-Head Buzzard<https://cards.scryfall.io/border_crop/front/8/a/8a8d4fd9-1f9e-41f0-9114-d1a698506ad9.jpg?1562531685|https://scryfall.com/card/scg/63/deaths-head-buzzard?utm_source=api>`
    Flying
 
    When Death's-Head Buzzard dies, all creatures get -1/-1 until end of turn.
 
 
-:mtgtip:`Decree of Pain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/1/e1958a07-fc75-41cd-ac45-d92d49587754.jpg?1562536145|https://scryfall.com/card/scg/64/decree-of-pain?utm_source=api>`
+:mtgtip:`Decree of Pain<https://cards.scryfall.io/border_crop/front/e/1/e1958a07-fc75-41cd-ac45-d92d49587754.jpg?1562536145|https://scryfall.com/card/scg/64/decree-of-pain?utm_source=api>`
    Destroy all creatures. They can't be regenerated. Draw a card for each creature destroyed this way.
 
    Cycling |mana_3|\ |mana_b|\ |mana_b| (|mana_3|\ |mana_b|\ |mana_b|, Discard this card: Draw a card.)
@@ -381,7 +381,7 @@
    When you cycle Decree of Pain, all creatures get -2/-2 until end of turn.
 
 
-:mtgtip:`Dragon Shadow<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/e/0ec35e03-022b-417c-9987-7379cf3956f9.jpg?1562525428|https://scryfall.com/card/scg/65/dragon-shadow?utm_source=api>`
+:mtgtip:`Dragon Shadow<https://cards.scryfall.io/border_crop/front/0/e/0ec35e03-022b-417c-9987-7379cf3956f9.jpg?1562525428|https://scryfall.com/card/scg/65/dragon-shadow?utm_source=api>`
    Enchant creature
 
    Enchanted creature gets +1/+0 and has fear. (It can't be blocked except by artifact creatures and/or black creatures.)
@@ -389,49 +389,49 @@
    When a creature with mana value 6 or greater enters the battlefield, you may return Dragon Shadow from your graveyard to the battlefield attached to that creature.
 
 
-:mtgtip:`Fatal Mutation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/7/57cf9f50-8858-44a6-8bd5-0ce1e281a584.jpg?1562529447|https://scryfall.com/card/scg/66/fatal-mutation?utm_source=api>`
+:mtgtip:`Fatal Mutation<https://cards.scryfall.io/border_crop/front/5/7/57cf9f50-8858-44a6-8bd5-0ce1e281a584.jpg?1562529447|https://scryfall.com/card/scg/66/fatal-mutation?utm_source=api>`
    Enchant creature
 
    When enchanted creature is turned face up, destroy it. It can't be regenerated.
 
 
-:mtgtip:`Final Punishment<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/097dbfae-1a18-4c10-8d1f-b2c20971c75e.jpg?1562525364|https://scryfall.com/card/scg/67/final-punishment?utm_source=api>`
+:mtgtip:`Final Punishment<https://cards.scryfall.io/border_crop/front/0/9/097dbfae-1a18-4c10-8d1f-b2c20971c75e.jpg?1562525364|https://scryfall.com/card/scg/67/final-punishment?utm_source=api>`
    Target player loses life equal to the damage already dealt to that player this turn.
 
 
-:mtgtip:`Lethal Vapors<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/9/f96acfea-009a-4ac9-8746-64f65199024f.jpg?1562536981|https://scryfall.com/card/scg/68/lethal-vapors?utm_source=api>`
+:mtgtip:`Lethal Vapors<https://cards.scryfall.io/border_crop/front/f/9/f96acfea-009a-4ac9-8746-64f65199024f.jpg?1562536981|https://scryfall.com/card/scg/68/lethal-vapors?utm_source=api>`
    Whenever a creature enters the battlefield, destroy it.
 
    |mana_0|: Destroy Lethal Vapors. You skip your next turn. Any player may activate this ability.
 
 
-:mtgtip:`Lingering Death<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/1/f174fd76-f28d-4272-8cb0-7f66cd60579e.jpg?1562536737|https://scryfall.com/card/scg/69/lingering-death?utm_source=api>`
+:mtgtip:`Lingering Death<https://cards.scryfall.io/border_crop/front/f/1/f174fd76-f28d-4272-8cb0-7f66cd60579e.jpg?1562536737|https://scryfall.com/card/scg/69/lingering-death?utm_source=api>`
    Enchant creature
 
    At the beginning of the end step of enchanted creature's controller, that player sacrifices that creature.
 
 
-:mtgtip:`Nefashu<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/0/7046acc2-e2fd-43e6-9d46-a729d48ba562.jpg?1562530235|https://scryfall.com/card/scg/70/nefashu?utm_source=api>`
+:mtgtip:`Nefashu<https://cards.scryfall.io/border_crop/front/7/0/7046acc2-e2fd-43e6-9d46-a729d48ba562.jpg?1562530235|https://scryfall.com/card/scg/70/nefashu?utm_source=api>`
    Whenever Nefashu attacks, up to five target creatures each get -1/-1 until end of turn.
 
 
-:mtgtip:`Putrid Raptor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/1/9127942b-d73d-42a9-9f97-6a39fa798a8b.jpg?1562532123|https://scryfall.com/card/scg/71/putrid-raptor?utm_source=api>`
+:mtgtip:`Putrid Raptor<https://cards.scryfall.io/border_crop/front/9/1/9127942b-d73d-42a9-9f97-6a39fa798a8b.jpg?1562532123|https://scryfall.com/card/scg/71/putrid-raptor?utm_source=api>`
    Morph—Discard a Zombie card. (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
 
-:mtgtip:`Reaping the Graves<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/760a66bd-2821-4710-8f02-3c30772dd884.jpg?1562530700|https://scryfall.com/card/scg/72/reaping-the-graves?utm_source=api>`
+:mtgtip:`Reaping the Graves<https://cards.scryfall.io/border_crop/front/7/6/760a66bd-2821-4710-8f02-3c30772dd884.jpg?1562530700|https://scryfall.com/card/scg/72/reaping-the-graves?utm_source=api>`
    Return target creature card from your graveyard to your hand.
 
    Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)
 
 
-:mtgtip:`Skulltap<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/8/48a90779-008e-401f-9877-be0a935d2ccd.jpg?1562528514|https://scryfall.com/card/scg/73/skulltap?utm_source=api>`
+:mtgtip:`Skulltap<https://cards.scryfall.io/border_crop/front/4/8/48a90779-008e-401f-9877-be0a935d2ccd.jpg?1562528514|https://scryfall.com/card/scg/73/skulltap?utm_source=api>`
    As an additional cost to cast this spell, sacrifice a creature.
 
    Draw two cards.
 
 
-:mtgtip:`Soul Collector<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/c/ec78c0e8-a354-46d2-95ad-012f120c3df8.jpg?1562536662|https://scryfall.com/card/scg/74/soul-collector?utm_source=api>`
+:mtgtip:`Soul Collector<https://cards.scryfall.io/border_crop/front/e/c/ec78c0e8-a354-46d2-95ad-012f120c3df8.jpg?1562536662|https://scryfall.com/card/scg/74/soul-collector?utm_source=api>`
    Flying
 
    Whenever a creature dealt damage by Soul Collector this turn dies, return that card to the battlefield under your control.
@@ -439,57 +439,57 @@
    Morph |mana_b|\ |mana_b|\ |mana_b| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
 
-:mtgtip:`Tendrils of Agony<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/5/0559352e-95c1-403b-bd8f-d0679717cfa2.jpg?1562524962|https://scryfall.com/card/scg/75/tendrils-of-agony?utm_source=api>`
+:mtgtip:`Tendrils of Agony<https://cards.scryfall.io/border_crop/front/0/5/0559352e-95c1-403b-bd8f-d0679717cfa2.jpg?1562524962|https://scryfall.com/card/scg/75/tendrils-of-agony?utm_source=api>`
    Target player loses 2 life and you gain 2 life.
 
    Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)
 
 
-:mtgtip:`Twisted Abomination<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/4/446e672f-87aa-4308-98bb-d00548c5bcef.jpg?1562528106|https://scryfall.com/card/scg/76/twisted-abomination?utm_source=api>`
+:mtgtip:`Twisted Abomination<https://cards.scryfall.io/border_crop/front/4/4/446e672f-87aa-4308-98bb-d00548c5bcef.jpg?1562528106|https://scryfall.com/card/scg/76/twisted-abomination?utm_source=api>`
    |mana_b|: Regenerate Twisted Abomination.
 
    Swampcycling |mana_2| (|mana_2|, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)
 
 
-:mtgtip:`Unburden<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bd5fc0e0-4ee5-40eb-a9f0-9b1fff2adefc.jpg?1562533810|https://scryfall.com/card/scg/77/unburden?utm_source=api>`
+:mtgtip:`Unburden<https://cards.scryfall.io/border_crop/front/b/d/bd5fc0e0-4ee5-40eb-a9f0-9b1fff2adefc.jpg?1562533810|https://scryfall.com/card/scg/77/unburden?utm_source=api>`
    Target player discards two cards.
 
    Cycling |mana_2| (|mana_2|, Discard this card: Draw a card.)
 
 
-:mtgtip:`Undead Warchief<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/6/e6b3bcfe-be82-458b-ba59-ecb84436d747.jpg?1562536237|https://scryfall.com/card/scg/78/undead-warchief?utm_source=api>`
+:mtgtip:`Undead Warchief<https://cards.scryfall.io/border_crop/front/e/6/e6b3bcfe-be82-458b-ba59-ecb84436d747.jpg?1562536237|https://scryfall.com/card/scg/78/undead-warchief?utm_source=api>`
    Zombie spells you cast cost |mana_1| less to cast.
 
    Zombie creatures you control get +2/+1.
 
 
-:mtgtip:`Unspeakable Symbol<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/c/2cc4601b-5f34-4733-8c32-9779de4c502c.jpg?1562527057|https://scryfall.com/card/scg/79/unspeakable-symbol?utm_source=api>`
+:mtgtip:`Unspeakable Symbol<https://cards.scryfall.io/border_crop/front/2/c/2cc4601b-5f34-4733-8c32-9779de4c502c.jpg?1562527057|https://scryfall.com/card/scg/79/unspeakable-symbol?utm_source=api>`
    Pay 3 life: Put a +1/+1 counter on target creature.
 
 
-:mtgtip:`Vengeful Dead<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7c11c11d-9809-4031-8cbc-21aef07d7f1f.jpg?1562531178|https://scryfall.com/card/scg/80/vengeful-dead?utm_source=api>`
+:mtgtip:`Vengeful Dead<https://cards.scryfall.io/border_crop/front/7/c/7c11c11d-9809-4031-8cbc-21aef07d7f1f.jpg?1562531178|https://scryfall.com/card/scg/80/vengeful-dead?utm_source=api>`
    Whenever Vengeful Dead or another Zombie dies, each opponent loses 1 life.
 
 
-:mtgtip:`Zombie Cutthroat<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/e/fe491cba-6ec7-4c44-ad1e-832d936986a0.jpg?1562537392|https://scryfall.com/card/scg/81/zombie-cutthroat?utm_source=api>`
+:mtgtip:`Zombie Cutthroat<https://cards.scryfall.io/border_crop/front/f/e/fe491cba-6ec7-4c44-ad1e-832d936986a0.jpg?1562537392|https://scryfall.com/card/scg/81/zombie-cutthroat?utm_source=api>`
    Morph—Pay 5 life. (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
 
-:mtgtip:`Bonethorn Valesk<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/9/297d7326-ad03-464d-97e2-443042d48f92.jpg?1562526649|https://scryfall.com/card/scg/82/bonethorn-valesk?utm_source=api>`
+:mtgtip:`Bonethorn Valesk<https://cards.scryfall.io/border_crop/front/2/9/297d7326-ad03-464d-97e2-443042d48f92.jpg?1562526649|https://scryfall.com/card/scg/82/bonethorn-valesk?utm_source=api>`
    Whenever a permanent is turned face up, Bonethorn Valesk deals 1 damage to any target.
 
 
-:mtgtip:`Carbonize<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/f/6f565fa1-a1a0-4dd0-b7f4-df65a807d156.jpg?1562530228|https://scryfall.com/card/scg/83/carbonize?utm_source=api>`
+:mtgtip:`Carbonize<https://cards.scryfall.io/border_crop/front/6/f/6f565fa1-a1a0-4dd0-b7f4-df65a807d156.jpg?1562530228|https://scryfall.com/card/scg/83/carbonize?utm_source=api>`
    Carbonize deals 3 damage to any target. If it's a creature, it can't be regenerated this turn, and if it would die this turn, exile it instead.
 
 
-:mtgtip:`Chartooth Cougar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/b/6b2c9c07-c3db-46ca-a204-b710c3a34ae9.jpg?1562530181|https://scryfall.com/card/scg/84/chartooth-cougar?utm_source=api>`
+:mtgtip:`Chartooth Cougar<https://cards.scryfall.io/border_crop/front/6/b/6b2c9c07-c3db-46ca-a204-b710c3a34ae9.jpg?1562530181|https://scryfall.com/card/scg/84/chartooth-cougar?utm_source=api>`
    |mana_r|: Chartooth Cougar gets +1/+0 until end of turn.
 
    Mountaincycling |mana_2| (|mana_2|, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)
 
 
-:mtgtip:`Decree of Annihilation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/3/73744717-518c-478e-9da9-201c49124f37.jpg?1562530626|https://scryfall.com/card/scg/85/decree-of-annihilation?utm_source=api>`
+:mtgtip:`Decree of Annihilation<https://cards.scryfall.io/border_crop/front/7/3/73744717-518c-478e-9da9-201c49124f37.jpg?1562530626|https://scryfall.com/card/scg/85/decree-of-annihilation?utm_source=api>`
    Exile all artifacts, creatures, and lands from the battlefield, all cards from all graveyards, and all cards from all hands.
 
    Cycling |mana_5|\ |mana_r|\ |mana_r| (|mana_5|\ |mana_r|\ |mana_r|, Discard this card: Draw a card.)
@@ -497,7 +497,7 @@
    When you cycle Decree of Annihilation, destroy all lands.
 
 
-:mtgtip:`Dragon Breath<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/8/1832aaed-e164-4f78-9bc9-ec6c015835f5.jpg?1562526058|https://scryfall.com/card/scg/86/dragon-breath?utm_source=api>`
+:mtgtip:`Dragon Breath<https://cards.scryfall.io/border_crop/front/1/8/1832aaed-e164-4f78-9bc9-ec6c015835f5.jpg?1562526058|https://scryfall.com/card/scg/86/dragon-breath?utm_source=api>`
    Enchant creature
 
    Enchanted creature has haste.
@@ -507,13 +507,13 @@
    When a creature with mana value 6 or greater enters the battlefield, you may return Dragon Breath from your graveyard to the battlefield attached to that creature.
 
 
-:mtgtip:`Dragon Mage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/7687a201-0ecc-4739-86e3-3b4090d345a8.jpg?1562530729|https://scryfall.com/card/scg/87/dragon-mage?utm_source=api>`
+:mtgtip:`Dragon Mage<https://cards.scryfall.io/border_crop/front/7/6/7687a201-0ecc-4739-86e3-3b4090d345a8.jpg?1562530729|https://scryfall.com/card/scg/87/dragon-mage?utm_source=api>`
    Flying
 
    Whenever Dragon Mage deals combat damage to a player, each player discards their hand, then draws seven cards.
 
 
-:mtgtip:`Dragon Tyrant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/4/04d1a29b-af80-4f9a-881b-ef7374ecbce1.jpg?1562524951|https://scryfall.com/card/scg/88/dragon-tyrant?utm_source=api>`
+:mtgtip:`Dragon Tyrant<https://cards.scryfall.io/border_crop/front/0/4/04d1a29b-af80-4f9a-881b-ef7374ecbce1.jpg?1562524951|https://scryfall.com/card/scg/88/dragon-tyrant?utm_source=api>`
    Flying, trample
 
    Double strike (This creature deals both first-strike and regular combat damage.)
@@ -523,27 +523,27 @@
    |mana_r|: Dragon Tyrant gets +1/+0 until end of turn.
 
 
-:mtgtip:`Dragonspeaker Shaman<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/9/49f5fa96-dcfb-4d29-bea9-7dd99e8c43d8.jpg?1562528528|https://scryfall.com/card/scg/89/dragonspeaker-shaman?utm_source=api>`
+:mtgtip:`Dragonspeaker Shaman<https://cards.scryfall.io/border_crop/front/4/9/49f5fa96-dcfb-4d29-bea9-7dd99e8c43d8.jpg?1562528528|https://scryfall.com/card/scg/89/dragonspeaker-shaman?utm_source=api>`
    Dragon spells you cast cost |mana_2| less to cast.
 
 
-:mtgtip:`Dragonstorm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/b/4b9aa594-39e6-4824-aed9-75d1a301ac51.jpg?1562528558|https://scryfall.com/card/scg/90/dragonstorm?utm_source=api>`
+:mtgtip:`Dragonstorm<https://cards.scryfall.io/border_crop/front/4/b/4b9aa594-39e6-4824-aed9-75d1a301ac51.jpg?1562528558|https://scryfall.com/card/scg/90/dragonstorm?utm_source=api>`
    Search your library for a Dragon permanent card, put it onto the battlefield, then shuffle.
 
    Storm (When you cast this spell, copy it for each spell cast before it this turn.)
 
 
-:mtgtip:`Enrage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/6/d6ed7866-9eef-49c3-9b9e-4247b6e71a6c.jpg?1562535239|https://scryfall.com/card/scg/91/enrage?utm_source=api>`
+:mtgtip:`Enrage<https://cards.scryfall.io/border_crop/front/d/6/d6ed7866-9eef-49c3-9b9e-4247b6e71a6c.jpg?1562535239|https://scryfall.com/card/scg/91/enrage?utm_source=api>`
    Target creature gets +X/+0 until end of turn.
 
 
-:mtgtip:`Extra Arms<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/8/28efa11c-6aeb-4c22-bbb3-b41f26d65c65.jpg?1562526643|https://scryfall.com/card/scg/92/extra-arms?utm_source=api>`
+:mtgtip:`Extra Arms<https://cards.scryfall.io/border_crop/front/2/8/28efa11c-6aeb-4c22-bbb3-b41f26d65c65.jpg?1562526643|https://scryfall.com/card/scg/92/extra-arms?utm_source=api>`
    Enchant creature
 
    Whenever enchanted creature attacks, it deals 2 damage to any target.
 
 
-:mtgtip:`Form of the Dragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/0/2058bcb4-50ac-4323-ab49-3b80a5891894.jpg?1562526178|https://scryfall.com/card/scg/93/form-of-the-dragon?utm_source=api>`
+:mtgtip:`Form of the Dragon<https://cards.scryfall.io/border_crop/front/2/0/2058bcb4-50ac-4323-ab49-3b80a5891894.jpg?1562526178|https://scryfall.com/card/scg/93/form-of-the-dragon?utm_source=api>`
    At the beginning of your upkeep, Form of the Dragon deals 5 damage to any target.
 
    At the beginning of each end step, your life total becomes 5.
@@ -551,115 +551,115 @@
    Creatures without flying can't attack you.
 
 
-:mtgtip:`Goblin Brigand<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/b/4b024afe-7a28-4e3b-afbd-b42f1c45f338.jpg?1562528541|https://scryfall.com/card/scg/94/goblin-brigand?utm_source=api>`
+:mtgtip:`Goblin Brigand<https://cards.scryfall.io/border_crop/front/4/b/4b024afe-7a28-4e3b-afbd-b42f1c45f338.jpg?1562528541|https://scryfall.com/card/scg/94/goblin-brigand?utm_source=api>`
    Goblin Brigand attacks each combat if able.
 
 
-:mtgtip:`Goblin Psychopath<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/2/52287036-00f1-4b6d-8cd8-b8cbc70c5135.jpg?1562529064|https://scryfall.com/card/scg/95/goblin-psychopath?utm_source=api>`
+:mtgtip:`Goblin Psychopath<https://cards.scryfall.io/border_crop/front/5/2/52287036-00f1-4b6d-8cd8-b8cbc70c5135.jpg?1562529064|https://scryfall.com/card/scg/95/goblin-psychopath?utm_source=api>`
    Whenever Goblin Psychopath attacks or blocks, flip a coin. If you lose the flip, the next time it would deal combat damage this turn, it deals that damage to you instead.
 
 
-:mtgtip:`Goblin War Strike<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/c/dce59945-37a2-4f09-8831-9d44b4a59ea7.jpg?1562535675|https://scryfall.com/card/scg/96/goblin-war-strike?utm_source=api>`
+:mtgtip:`Goblin War Strike<https://cards.scryfall.io/border_crop/front/d/c/dce59945-37a2-4f09-8831-9d44b4a59ea7.jpg?1562535675|https://scryfall.com/card/scg/96/goblin-war-strike?utm_source=api>`
    Goblin War Strike deals damage to target player or planeswalker equal to the number of Goblins you control.
 
 
-:mtgtip:`Goblin Warchief<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/6/66864a4b-8924-40ef-a337-15b12413a158.jpg?1562529753|https://scryfall.com/card/scg/97/goblin-warchief?utm_source=api>`
+:mtgtip:`Goblin Warchief<https://cards.scryfall.io/border_crop/front/6/6/66864a4b-8924-40ef-a337-15b12413a158.jpg?1562529753|https://scryfall.com/card/scg/97/goblin-warchief?utm_source=api>`
    Goblin spells you cast cost |mana_1| less to cast.
 
    Goblins you control have haste.
 
 
-:mtgtip:`Grip of Chaos<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/e/defbbd3a-0e7d-4af2-b25f-9003ddad0bf5.jpg?1562535751|https://scryfall.com/card/scg/98/grip-of-chaos?utm_source=api>`
+:mtgtip:`Grip of Chaos<https://cards.scryfall.io/border_crop/front/d/e/defbbd3a-0e7d-4af2-b25f-9003ddad0bf5.jpg?1562535751|https://scryfall.com/card/scg/98/grip-of-chaos?utm_source=api>`
    Whenever a spell or ability is put onto the stack, if it has a single target, reselect its target at random. (Select from among all legal targets.)
 
 
-:mtgtip:`Misguided Rage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/4/74b5e00a-fef0-4711-9112-2fd067321890.jpg?1562530657|https://scryfall.com/card/scg/99/misguided-rage?utm_source=api>`
+:mtgtip:`Misguided Rage<https://cards.scryfall.io/border_crop/front/7/4/74b5e00a-fef0-4711-9112-2fd067321890.jpg?1562530657|https://scryfall.com/card/scg/99/misguided-rage?utm_source=api>`
    Target player sacrifices a permanent.
 
 
-:mtgtip:`Pyrostatic Pillar<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/9/5973cd53-f6cd-4edc-b952-f6d3eef97988.jpg?1562529485|https://scryfall.com/card/scg/100/pyrostatic-pillar?utm_source=api>`
+:mtgtip:`Pyrostatic Pillar<https://cards.scryfall.io/border_crop/front/5/9/5973cd53-f6cd-4edc-b952-f6d3eef97988.jpg?1562529485|https://scryfall.com/card/scg/100/pyrostatic-pillar?utm_source=api>`
    Whenever a player casts a spell with mana value 3 or less, Pyrostatic Pillar deals 2 damage to that player.
 
 
-:mtgtip:`Rock Jockey<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/f/8f836e90-3255-48bd-a174-6a127528551e.jpg?1562532100|https://scryfall.com/card/scg/101/rock-jockey?utm_source=api>`
+:mtgtip:`Rock Jockey<https://cards.scryfall.io/border_crop/front/8/f/8f836e90-3255-48bd-a174-6a127528551e.jpg?1562532100|https://scryfall.com/card/scg/101/rock-jockey?utm_source=api>`
    You can't cast this spell if you've played a land this turn.
 
    You can't play lands if you've cast Rock Jockey this turn.
 
 
-:mtgtip:`Scattershot<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/f/cf22f3e7-1626-4bab-9f62-7d4774704395.jpg?1562534789|https://scryfall.com/card/scg/102/scattershot?utm_source=api>`
+:mtgtip:`Scattershot<https://cards.scryfall.io/border_crop/front/c/f/cf22f3e7-1626-4bab-9f62-7d4774704395.jpg?1562534789|https://scryfall.com/card/scg/102/scattershot?utm_source=api>`
    Scattershot deals 1 damage to target creature.
 
    Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)
 
 
-:mtgtip:`Siege-Gang Commander<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/2/92e78cec-aaf9-4fe8-887b-b7e356d63315.jpg?1562532154|https://scryfall.com/card/scg/103/siege-gang-commander?utm_source=api>`
+:mtgtip:`Siege-Gang Commander<https://cards.scryfall.io/border_crop/front/9/2/92e78cec-aaf9-4fe8-887b-b7e356d63315.jpg?1562532154|https://scryfall.com/card/scg/103/siege-gang-commander?utm_source=api>`
    When Siege-Gang Commander enters the battlefield, create three 1/1 red Goblin creature tokens.
 
    |mana_1|\ |mana_r|, Sacrifice a Goblin: Siege-Gang Commander deals 2 damage to any target.
 
 
-:mtgtip:`Skirk Volcanist<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/c/8cdfb7e3-e077-400a-868d-3f3811e7a35c.jpg?1562532053|https://scryfall.com/card/scg/104/skirk-volcanist?utm_source=api>`
+:mtgtip:`Skirk Volcanist<https://cards.scryfall.io/border_crop/front/8/c/8cdfb7e3-e077-400a-868d-3f3811e7a35c.jpg?1562532053|https://scryfall.com/card/scg/104/skirk-volcanist?utm_source=api>`
    Morph—Sacrifice two Mountains. (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
    When Skirk Volcanist is turned face up, it deals 3 damage divided as you choose among one, two, or three target creatures.
 
 
-:mtgtip:`Spark Spray<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/6/f60d8716-4297-484c-8e02-c30ce2773a65.jpg?1562536945|https://scryfall.com/card/scg/105/spark-spray?utm_source=api>`
+:mtgtip:`Spark Spray<https://cards.scryfall.io/border_crop/front/f/6/f60d8716-4297-484c-8e02-c30ce2773a65.jpg?1562536945|https://scryfall.com/card/scg/105/spark-spray?utm_source=api>`
    Spark Spray deals 1 damage to any target.
 
    Cycling |mana_r| (|mana_r|, Discard this card: Draw a card.)
 
 
-:mtgtip:`Sulfuric Vortex<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/9/79955e27-eef7-43bd-9895-e9209ed1537f.jpg?1562531138|https://scryfall.com/card/scg/106/sulfuric-vortex?utm_source=api>`
+:mtgtip:`Sulfuric Vortex<https://cards.scryfall.io/border_crop/front/7/9/79955e27-eef7-43bd-9895-e9209ed1537f.jpg?1562531138|https://scryfall.com/card/scg/106/sulfuric-vortex?utm_source=api>`
    At the beginning of each player's upkeep, Sulfuric Vortex deals 2 damage to that player.
 
    If a player would gain life, that player gains no life instead.
 
 
-:mtgtip:`Torrent of Fire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/e/feeee859-f64a-4cd8-be0b-ad60cff8812e.jpg?1562537400|https://scryfall.com/card/scg/107/torrent-of-fire?utm_source=api>`
+:mtgtip:`Torrent of Fire<https://cards.scryfall.io/border_crop/front/f/e/feeee859-f64a-4cd8-be0b-ad60cff8812e.jpg?1562537400|https://scryfall.com/card/scg/107/torrent-of-fire?utm_source=api>`
    Torrent of Fire deals damage to any target equal to the highest mana value among permanents you control.
 
 
-:mtgtip:`Uncontrolled Infestation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/9/d9ead6c3-a4e9-43e0-ae2a-6eb73033bc49.jpg?1562535298|https://scryfall.com/card/scg/108/uncontrolled-infestation?utm_source=api>`
+:mtgtip:`Uncontrolled Infestation<https://cards.scryfall.io/border_crop/front/d/9/d9ead6c3-a4e9-43e0-ae2a-6eb73033bc49.jpg?1562535298|https://scryfall.com/card/scg/108/uncontrolled-infestation?utm_source=api>`
    Enchant nonbasic land
 
    When enchanted land becomes tapped, destroy it.
 
 
-:mtgtip:`Accelerated Mutation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/8/282f808c-0b58-4b98-aeda-f606a10d1a4b.jpg?1562526627|https://scryfall.com/card/scg/109/accelerated-mutation?utm_source=api>`
+:mtgtip:`Accelerated Mutation<https://cards.scryfall.io/border_crop/front/2/8/282f808c-0b58-4b98-aeda-f606a10d1a4b.jpg?1562526627|https://scryfall.com/card/scg/109/accelerated-mutation?utm_source=api>`
    Target creature gets +X/+X until end of turn, where X is the highest mana value among permanents you control.
 
 
-:mtgtip:`Alpha Status<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/d/fd210c45-57f3-4d7d-93ba-81fe4298ade3.jpg?1562537375|https://scryfall.com/card/scg/110/alpha-status?utm_source=api>`
+:mtgtip:`Alpha Status<https://cards.scryfall.io/border_crop/front/f/d/fd210c45-57f3-4d7d-93ba-81fe4298ade3.jpg?1562537375|https://scryfall.com/card/scg/110/alpha-status?utm_source=api>`
    Enchant creature
 
    Enchanted creature gets +2/+2 for each other creature on the battlefield that shares a creature type with it.
 
 
-:mtgtip:`Ambush Commander<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/4/7485da91-a051-4680-8a25-c81fdaa77130.jpg?1562530654|https://scryfall.com/card/scg/111/ambush-commander?utm_source=api>`
+:mtgtip:`Ambush Commander<https://cards.scryfall.io/border_crop/front/7/4/7485da91-a051-4680-8a25-c81fdaa77130.jpg?1562530654|https://scryfall.com/card/scg/111/ambush-commander?utm_source=api>`
    Forests you control are 1/1 green Elf creatures that are still lands.
 
    |mana_1|\ |mana_g|, Sacrifice an Elf: Target creature gets +3/+3 until end of turn.
 
 
-:mtgtip:`Ancient Ooze<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/b/3b57b41c-f99c-4525-8541-f025b7e31974.jpg?1562527613|https://scryfall.com/card/scg/112/ancient-ooze?utm_source=api>`
+:mtgtip:`Ancient Ooze<https://cards.scryfall.io/border_crop/front/3/b/3b57b41c-f99c-4525-8541-f025b7e31974.jpg?1562527613|https://scryfall.com/card/scg/112/ancient-ooze?utm_source=api>`
    Ancient Ooze's power and toughness are each equal to the total mana value of other creatures you control.
 
 
-:mtgtip:`Break Asunder<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/b/fb989895-a5c7-4151-8620-ab277d826303.jpg?1562537374|https://scryfall.com/card/scg/113/break-asunder?utm_source=api>`
+:mtgtip:`Break Asunder<https://cards.scryfall.io/border_crop/front/f/b/fb989895-a5c7-4151-8620-ab277d826303.jpg?1562537374|https://scryfall.com/card/scg/113/break-asunder?utm_source=api>`
    Destroy target artifact or enchantment.
 
    Cycling |mana_2| (|mana_2|, Discard this card: Draw a card.)
 
 
-:mtgtip:`Claws of Wirewood<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/9/b94cd33f-40b6-4b11-97a4-8676ef27631e.jpg?1562533774|https://scryfall.com/card/scg/114/claws-of-wirewood?utm_source=api>`
+:mtgtip:`Claws of Wirewood<https://cards.scryfall.io/border_crop/front/b/9/b94cd33f-40b6-4b11-97a4-8676ef27631e.jpg?1562533774|https://scryfall.com/card/scg/114/claws-of-wirewood?utm_source=api>`
    Claws of Wirewood deals 3 damage to each creature with flying and each player.
 
    Cycling |mana_2| (|mana_2|, Discard this card: Draw a card.)
 
 
-:mtgtip:`Decree of Savagery<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/6/e643fbf1-74d5-412b-beba-ab3c712edb3b.jpg?1562536230|https://scryfall.com/card/scg/115/decree-of-savagery?utm_source=api>`
+:mtgtip:`Decree of Savagery<https://cards.scryfall.io/border_crop/front/e/6/e643fbf1-74d5-412b-beba-ab3c712edb3b.jpg?1562536230|https://scryfall.com/card/scg/115/decree-of-savagery?utm_source=api>`
    Put four +1/+1 counters on each creature you control.
 
    Cycling |mana_4|\ |mana_g|\ |mana_g| (|mana_4|\ |mana_g|\ |mana_g|, Discard this card: Draw a card.)
@@ -667,11 +667,11 @@
    When you cycle Decree of Savagery, you may put four +1/+1 counters on target creature.
 
 
-:mtgtip:`Divergent Growth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/e/0e609448-7868-4e28-b399-3750556a693c.jpg?1562525426|https://scryfall.com/card/scg/116/divergent-growth?utm_source=api>`
+:mtgtip:`Divergent Growth<https://cards.scryfall.io/border_crop/front/0/e/0e609448-7868-4e28-b399-3750556a693c.jpg?1562525426|https://scryfall.com/card/scg/116/divergent-growth?utm_source=api>`
    Until end of turn, lands you control gain "|tap|: Add one mana of any color."
 
 
-:mtgtip:`Dragon Fangs<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/7/9754f52f-8937-4402-8956-2c18b520898a.jpg?1562532554|https://scryfall.com/card/scg/117/dragon-fangs?utm_source=api>`
+:mtgtip:`Dragon Fangs<https://cards.scryfall.io/border_crop/front/9/7/9754f52f-8937-4402-8956-2c18b520898a.jpg?1562532554|https://scryfall.com/card/scg/117/dragon-fangs?utm_source=api>`
    Enchant creature
 
    Enchanted creature gets +1/+1 and has trample.
@@ -679,99 +679,99 @@
    When a creature with mana value 6 or greater enters the battlefield, you may return Dragon Fangs from your graveyard to the battlefield attached to that creature.
 
 
-:mtgtip:`Elvish Aberration<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/3/137d326f-83e1-449a-b934-71c7986c64e7.jpg?1562525888|https://scryfall.com/card/scg/118/elvish-aberration?utm_source=api>`
+:mtgtip:`Elvish Aberration<https://cards.scryfall.io/border_crop/front/1/3/137d326f-83e1-449a-b934-71c7986c64e7.jpg?1562525888|https://scryfall.com/card/scg/118/elvish-aberration?utm_source=api>`
    |tap|: Add |mana_g|\ |mana_g|\ |mana_g|.
 
    Forestcycling |mana_2| (|mana_2|, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)
 
 
-:mtgtip:`Fierce Empath<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/2/d237e169-f152-4ddf-a5a1-32ca46cfa16d.jpg?1562535173|https://scryfall.com/card/scg/119/fierce-empath?utm_source=api>`
+:mtgtip:`Fierce Empath<https://cards.scryfall.io/border_crop/front/d/2/d237e169-f152-4ddf-a5a1-32ca46cfa16d.jpg?1562535173|https://scryfall.com/card/scg/119/fierce-empath?utm_source=api>`
    When Fierce Empath enters the battlefield, you may search your library for a creature card with mana value 6 or greater, reveal it, put it into your hand, then shuffle.
 
 
-:mtgtip:`Forgotten Ancient<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/9/49d3b91d-2e4f-4574-89f8-7b804f1d21bf.jpg?1562528527|https://scryfall.com/card/scg/120/forgotten-ancient?utm_source=api>`
+:mtgtip:`Forgotten Ancient<https://cards.scryfall.io/border_crop/front/4/9/49d3b91d-2e4f-4574-89f8-7b804f1d21bf.jpg?1562528527|https://scryfall.com/card/scg/120/forgotten-ancient?utm_source=api>`
    Whenever a player casts a spell, you may put a +1/+1 counter on Forgotten Ancient.
 
    At the beginning of your upkeep, you may move any number of +1/+1 counters from Forgotten Ancient onto other creatures.
 
 
-:mtgtip:`Hunting Pack<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/b/8b0f5d29-5342-4591-bdc9-c2bc9289ed41.jpg?1562531696|https://scryfall.com/card/scg/121/hunting-pack?utm_source=api>`
+:mtgtip:`Hunting Pack<https://cards.scryfall.io/border_crop/front/8/b/8b0f5d29-5342-4591-bdc9-c2bc9289ed41.jpg?1562531696|https://scryfall.com/card/scg/121/hunting-pack?utm_source=api>`
    Create a 4/4 green Beast creature token.
 
    Storm (When you cast this spell, copy it for each spell cast before it this turn.)
 
 
-:mtgtip:`Krosan Drover<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/9/e92a7141-119f-4bf8-a82d-eb7c0c37185c.jpg?1562536633|https://scryfall.com/card/scg/122/krosan-drover?utm_source=api>`
+:mtgtip:`Krosan Drover<https://cards.scryfall.io/border_crop/front/e/9/e92a7141-119f-4bf8-a82d-eb7c0c37185c.jpg?1562536633|https://scryfall.com/card/scg/122/krosan-drover?utm_source=api>`
    Creature spells you cast with mana value 6 or greater cost |mana_2| less to cast.
 
 
-:mtgtip:`Krosan Warchief<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/3/435b700b-2072-47c0-9725-ad04414d2474.jpg?1562528085|https://scryfall.com/card/scg/123/krosan-warchief?utm_source=api>`
+:mtgtip:`Krosan Warchief<https://cards.scryfall.io/border_crop/front/4/3/435b700b-2072-47c0-9725-ad04414d2474.jpg?1562528085|https://scryfall.com/card/scg/123/krosan-warchief?utm_source=api>`
    Beast spells you cast cost |mana_1| less to cast.
 
    |mana_1|\ |mana_g|: Regenerate target Beast.
 
 
-:mtgtip:`Kurgadon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/2/52a1758c-849a-4de3-b674-857c3c9bf399.jpg?1562529070|https://scryfall.com/card/scg/124/kurgadon?utm_source=api>`
+:mtgtip:`Kurgadon<https://cards.scryfall.io/border_crop/front/5/2/52a1758c-849a-4de3-b674-857c3c9bf399.jpg?1562529070|https://scryfall.com/card/scg/124/kurgadon?utm_source=api>`
    Whenever you cast a creature spell with mana value 6 or greater, put three +1/+1 counters on Kurgadon.
 
 
-:mtgtip:`One with Nature<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/3/2321b01c-7eef-48cc-a86b-4074dfa5b86b.jpg?1562526569|https://scryfall.com/card/scg/125/one-with-nature?utm_source=api>`
+:mtgtip:`One with Nature<https://cards.scryfall.io/border_crop/front/2/3/2321b01c-7eef-48cc-a86b-4074dfa5b86b.jpg?1562526569|https://scryfall.com/card/scg/125/one-with-nature?utm_source=api>`
    Enchant creature
 
    Whenever enchanted creature deals combat damage to a player, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
 
 
-:mtgtip:`Primitive Etchings<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/a/eae26b8d-c3af-42d1-94f4-56950ceac1c7.jpg?1562536644|https://scryfall.com/card/scg/126/primitive-etchings?utm_source=api>`
+:mtgtip:`Primitive Etchings<https://cards.scryfall.io/border_crop/front/e/a/eae26b8d-c3af-42d1-94f4-56950ceac1c7.jpg?1562536644|https://scryfall.com/card/scg/126/primitive-etchings?utm_source=api>`
    Reveal the first card you draw each turn. Whenever you reveal a creature card this way, draw a card.
 
 
-:mtgtip:`Root Elemental<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/1/5161968e-b757-45b8-826f-98415291024d.jpg?1562529053|https://scryfall.com/card/scg/127/root-elemental?utm_source=api>`
+:mtgtip:`Root Elemental<https://cards.scryfall.io/border_crop/front/5/1/5161968e-b757-45b8-826f-98415291024d.jpg?1562529053|https://scryfall.com/card/scg/127/root-elemental?utm_source=api>`
    Morph |mana_5|\ |mana_g|\ |mana_g| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
    When Root Elemental is turned face up, you may put a creature card from your hand onto the battlefield.
 
 
-:mtgtip:`Sprouting Vines<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/a/3a3246a6-b604-4f9f-adb9-3692e0fa8638.jpg?1562527612|https://scryfall.com/card/scg/128/sprouting-vines?utm_source=api>`
+:mtgtip:`Sprouting Vines<https://cards.scryfall.io/border_crop/front/3/a/3a3246a6-b604-4f9f-adb9-3692e0fa8638.jpg?1562527612|https://scryfall.com/card/scg/128/sprouting-vines?utm_source=api>`
    Search your library for a basic land card, reveal that card, put it into your hand, then shuffle.
 
    Storm (When you cast this spell, copy it for each spell cast before it this turn.)
 
 
-:mtgtip:`Titanic Bulvox<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/f/3f42c4d7-b555-449c-a539-119c1ae62232.jpg?1562528017|https://scryfall.com/card/scg/129/titanic-bulvox?utm_source=api>`
+:mtgtip:`Titanic Bulvox<https://cards.scryfall.io/border_crop/front/3/f/3f42c4d7-b555-449c-a539-119c1ae62232.jpg?1562528017|https://scryfall.com/card/scg/129/titanic-bulvox?utm_source=api>`
    Trample
 
    Morph |mana_4|\ |mana_g|\ |mana_g|\ |mana_g| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
 
-:mtgtip:`Treetop Scout<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/f/2fa39646-a609-4b37-b8de-97893ae43c49.jpg?1562527114|https://scryfall.com/card/scg/130/treetop-scout?utm_source=api>`
+:mtgtip:`Treetop Scout<https://cards.scryfall.io/border_crop/front/2/f/2fa39646-a609-4b37-b8de-97893ae43c49.jpg?1562527114|https://scryfall.com/card/scg/130/treetop-scout?utm_source=api>`
    Treetop Scout can't be blocked except by creatures with flying.
 
 
-:mtgtip:`Upwelling<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/1/21ab4600-1f71-48fa-a291-f5c5628c7395.jpg?1562526538|https://scryfall.com/card/scg/131/upwelling?utm_source=api>`
+:mtgtip:`Upwelling<https://cards.scryfall.io/border_crop/front/2/1/21ab4600-1f71-48fa-a291-f5c5628c7395.jpg?1562526538|https://scryfall.com/card/scg/131/upwelling?utm_source=api>`
    Players don't lose unspent mana as steps and phases end.
 
 
-:mtgtip:`Wirewood Guardian<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/8/e8676b1f-e37c-4ae1-9dbe-d000369fa422.jpg?1562536268|https://scryfall.com/card/scg/132/wirewood-guardian?utm_source=api>`
+:mtgtip:`Wirewood Guardian<https://cards.scryfall.io/border_crop/front/e/8/e8676b1f-e37c-4ae1-9dbe-d000369fa422.jpg?1562536268|https://scryfall.com/card/scg/132/wirewood-guardian?utm_source=api>`
    Forestcycling |mana_2| (|mana_2|, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)
 
 
-:mtgtip:`Wirewood Symbiote<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/9/49488b76-abaf-4dba-b01f-7b418e4ff295.jpg?1562528525|https://scryfall.com/card/scg/133/wirewood-symbiote?utm_source=api>`
+:mtgtip:`Wirewood Symbiote<https://cards.scryfall.io/border_crop/front/4/9/49488b76-abaf-4dba-b01f-7b418e4ff295.jpg?1562528525|https://scryfall.com/card/scg/133/wirewood-symbiote?utm_source=api>`
    Return an Elf you control to its owner's hand: Untap target creature. Activate only once each turn.
 
 
-:mtgtip:`Woodcloaker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/a/4aa85e09-a1cd-473d-98cd-c6a7c7aff949.jpg?1562528540|https://scryfall.com/card/scg/134/woodcloaker?utm_source=api>`
+:mtgtip:`Woodcloaker<https://cards.scryfall.io/border_crop/front/4/a/4aa85e09-a1cd-473d-98cd-c6a7c7aff949.jpg?1562528540|https://scryfall.com/card/scg/134/woodcloaker?utm_source=api>`
    Morph |mana_2|\ |mana_g|\ |mana_g| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
    When Woodcloaker is turned face up, target creature gains trample until end of turn.
 
 
-:mtgtip:`Xantid Swarm<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/a/6a87911a-3931-46aa-9348-2728c4b73b96.jpg?1562530173|https://scryfall.com/card/scg/135/xantid-swarm?utm_source=api>`
+:mtgtip:`Xantid Swarm<https://cards.scryfall.io/border_crop/front/6/a/6a87911a-3931-46aa-9348-2728c4b73b96.jpg?1562530173|https://scryfall.com/card/scg/135/xantid-swarm?utm_source=api>`
    Flying
 
    Whenever Xantid Swarm attacks, defending player can't cast spells this turn.
 
 
-:mtgtip:`Bladewing the Risen<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/b/2bd3e13d-53f8-42bf-aa83-09a9ca94a9f0.jpg?1562527045|https://scryfall.com/card/scg/136/bladewing-the-risen?utm_source=api>`
+:mtgtip:`Bladewing the Risen<https://cards.scryfall.io/border_crop/front/2/b/2bd3e13d-53f8-42bf-aa83-09a9ca94a9f0.jpg?1562527045|https://scryfall.com/card/scg/136/bladewing-the-risen?utm_source=api>`
    Flying
 
    When Bladewing the Risen enters the battlefield, you may return target Dragon permanent card from your graveyard to the battlefield.
@@ -779,11 +779,11 @@
    |mana_b|\ |mana_r|: Dragon creatures get +1/+1 until end of turn.
 
 
-:mtgtip:`Edgewalker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/8/c8b477c2-2cd5-41f2-8754-d4d5000df58d.jpg?1562534693|https://scryfall.com/card/scg/137/edgewalker?utm_source=api>`
+:mtgtip:`Edgewalker<https://cards.scryfall.io/border_crop/front/c/8/c8b477c2-2cd5-41f2-8754-d4d5000df58d.jpg?1562534693|https://scryfall.com/card/scg/137/edgewalker?utm_source=api>`
    Cleric spells you cast cost |mana_w|\ |mana_b| less to cast. This effect reduces only the amount of colored mana you pay. (For example, if you cast a Cleric spell with mana cost |mana_1|\ |mana_w|, it costs |mana_1| to cast.)
 
 
-:mtgtip:`Karona, False God<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/e/de53d083-251e-42a4-9e2e-c2978c80615b.jpg?1562535715|https://scryfall.com/card/scg/138/karona-false-god?utm_source=api>`
+:mtgtip:`Karona, False God<https://cards.scryfall.io/border_crop/front/d/e/de53d083-251e-42a4-9e2e-c2978c80615b.jpg?1562535715|https://scryfall.com/card/scg/138/karona-false-god?utm_source=api>`
    Haste
 
    At the beginning of each player's upkeep, that player untaps Karona, False God and gains control of it.
@@ -791,26 +791,26 @@
    Whenever Karona attacks, creatures of the creature type of your choice get +3/+3 until end of turn.
 
 
-:mtgtip:`Sliver Overlord<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/c/3c16915b-c50d-4fb5-830f-9ca4597a9c0f.jpg?1562527622|https://scryfall.com/card/scg/139/sliver-overlord?utm_source=api>`
+:mtgtip:`Sliver Overlord<https://cards.scryfall.io/border_crop/front/3/c/3c16915b-c50d-4fb5-830f-9ca4597a9c0f.jpg?1562527622|https://scryfall.com/card/scg/139/sliver-overlord?utm_source=api>`
    |mana_3|: Search your library for a Sliver card, reveal that card, put it into your hand, then shuffle.
 
    |mana_3|: Gain control of target Sliver. (This effect lasts indefinitely.)
 
 
-:mtgtip:`Ark of Blight<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/3/f3b09956-cc34-4472-8b9f-ae355522bd5a.jpg?1562536903|https://scryfall.com/card/scg/140/ark-of-blight?utm_source=api>`
+:mtgtip:`Ark of Blight<https://cards.scryfall.io/border_crop/front/f/3/f3b09956-cc34-4472-8b9f-ae355522bd5a.jpg?1562536903|https://scryfall.com/card/scg/140/ark-of-blight?utm_source=api>`
    |mana_3|, |tap|, Sacrifice Ark of Blight: Destroy target land.
 
 
-:mtgtip:`Proteus Machine<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/1/d1c8cff1-b289-41a4-9fa3-cc5e7ba70802.jpg?1562534821|https://scryfall.com/card/scg/141/proteus-machine?utm_source=api>`
+:mtgtip:`Proteus Machine<https://cards.scryfall.io/border_crop/front/d/1/d1c8cff1-b289-41a4-9fa3-cc5e7ba70802.jpg?1562534821|https://scryfall.com/card/scg/141/proteus-machine?utm_source=api>`
    Morph |mana_0| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
    When Proteus Machine is turned face up, it becomes the creature type of your choice. (This effect lasts indefinitely.)
 
 
-:mtgtip:`Stabilizer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/7/b72dbe81-96d0-4b0d-97a7-c59345f081e8.jpg?1562533763|https://scryfall.com/card/scg/142/stabilizer?utm_source=api>`
+:mtgtip:`Stabilizer<https://cards.scryfall.io/border_crop/front/b/7/b72dbe81-96d0-4b0d-97a7-c59345f081e8.jpg?1562533763|https://scryfall.com/card/scg/142/stabilizer?utm_source=api>`
    Players can't cycle cards.
 
 
-:mtgtip:`Temple of the False God<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/7/d7036f51-10a6-4036-8650-9bc12d2a55cb.jpg?1562535240|https://scryfall.com/card/scg/143/temple-of-the-false-god?utm_source=api>`
+:mtgtip:`Temple of the False God<https://cards.scryfall.io/border_crop/front/d/7/d7036f51-10a6-4036-8650-9bc12d2a55cb.jpg?1562535240|https://scryfall.com/card/scg/143/temple-of-the-false-god?utm_source=api>`
    |tap|: Add |colorless|\ |colorless|. Activate only if you control five or more lands.
 

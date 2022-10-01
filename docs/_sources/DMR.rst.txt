@@ -5,12 +5,12 @@
 ===================================
 
 
-:mtgtip:`Force of Will<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/9/89f612d6-7c59-4a7b-a87d-45f789e88ba5.jpg?1660849295|https://scryfall.com/card/dmr/50/force-of-will?utm_source=api>`
+:mtgtip:`Force of Will<https://cards.scryfall.io/border_crop/front/8/9/89f612d6-7c59-4a7b-a87d-45f789e88ba5.jpg?1660849295|https://scryfall.com/card/dmr/50/force-of-will?utm_source=api>`
    You may pay 1 life and exile a blue card from your hand rather than pay this spell's mana cost.
 
    Counter target spell.
 
 
-:mtgtip:`Arboria<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/1/b18f4de2-adfe-4784-bd57-9e2ad9088825.jpg?1660849303|https://scryfall.com/card/dmr/149/arboria?utm_source=api>`
+:mtgtip:`Arboria<https://cards.scryfall.io/border_crop/front/b/1/b18f4de2-adfe-4784-bd57-9e2ad9088825.jpg?1660849303|https://scryfall.com/card/dmr/149/arboria?utm_source=api>`
    Creatures can't attack a player unless that player cast a spell or put a nontoken permanent onto the battlefield during their last turn.
 

@@ -5,7 +5,7 @@
 ===========================
 
 
-:mtgtip:`Karn Liberated<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/9/f9287151-95df-4f5a-b32a-4b0aea825452.jpg?1562882947|https://scryfall.com/card/nph/1/karn-liberated?utm_source=api>`
+:mtgtip:`Karn Liberated<https://cards.scryfall.io/border_crop/front/f/9/f9287151-95df-4f5a-b32a-4b0aea825452.jpg?1562882947|https://scryfall.com/card/nph/1/karn-liberated?utm_source=api>`
    +4: Target player exiles a card from their hand.
 
    −3: Exile target permanent.
@@ -13,23 +13,23 @@
    −14: Restart the game, leaving in exile all non-Aura permanent cards exiled with Karn Liberated. Then put those cards onto the battlefield under your control.
 
 
-:mtgtip:`Apostle's Blessing<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/f/9f7c3571-925d-486e-80dd-bac47aa48283.jpg?1562880233|https://scryfall.com/card/nph/2/apostles-blessing?utm_source=api>`
+:mtgtip:`Apostle's Blessing<https://cards.scryfall.io/border_crop/front/9/f/9f7c3571-925d-486e-80dd-bac47aa48283.jpg?1562880233|https://scryfall.com/card/nph/2/apostles-blessing?utm_source=api>`
    (|mana_wp| can be paid with either |mana_w| or 2 life.)
 
    Target artifact or creature you control gains protection from artifacts or from the color of your choice until end of turn.
 
 
-:mtgtip:`Auriok Survivors<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/e/deffb601-6a53-4d88-a6af-686ce97eb4f0.jpg?1562882106|https://scryfall.com/card/nph/3/auriok-survivors?utm_source=api>`
+:mtgtip:`Auriok Survivors<https://cards.scryfall.io/border_crop/front/d/e/deffb601-6a53-4d88-a6af-686ce97eb4f0.jpg?1562882106|https://scryfall.com/card/nph/3/auriok-survivors?utm_source=api>`
    When Auriok Survivors enters the battlefield, you may return target Equipment card from your graveyard to the battlefield. If you do, you may attach it to Auriok Survivors.
 
 
-:mtgtip:`Blade Splicer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/8/b8e56a28-713b-4a13-a601-1128cf117539.jpg?1562880986|https://scryfall.com/card/nph/4/blade-splicer?utm_source=api>`
+:mtgtip:`Blade Splicer<https://cards.scryfall.io/border_crop/front/b/8/b8e56a28-713b-4a13-a601-1128cf117539.jpg?1562880986|https://scryfall.com/card/nph/4/blade-splicer?utm_source=api>`
    When Blade Splicer enters the battlefield, create a 3/3 colorless Phyrexian Golem artifact creature token.
 
    Golems you control have first strike.
 
 
-:mtgtip:`Cathedral Membrane<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/7/07592731-68be-4218-bb2c-c2523c5a27f1.jpg?1562875353|https://scryfall.com/card/nph/5/cathedral-membrane?utm_source=api>`
+:mtgtip:`Cathedral Membrane<https://cards.scryfall.io/border_crop/front/0/7/07592731-68be-4218-bb2c-c2523c5a27f1.jpg?1562875353|https://scryfall.com/card/nph/5/cathedral-membrane?utm_source=api>`
    (|mana_wp| can be paid with either |mana_w| or 2 life.)
 
    Defender
@@ -37,7 +37,7 @@
    When Cathedral Membrane dies during combat, it deals 6 damage to each creature it blocked this combat.
 
 
-:mtgtip:`Chancellor of the Annex<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/e/be1b482a-badb-4b9a-ab63-2e7944826aa0.jpg?1562881152|https://scryfall.com/card/nph/6/chancellor-of-the-annex?utm_source=api>`
+:mtgtip:`Chancellor of the Annex<https://cards.scryfall.io/border_crop/front/b/e/be1b482a-badb-4b9a-ab63-2e7944826aa0.jpg?1562881152|https://scryfall.com/card/nph/6/chancellor-of-the-annex?utm_source=api>`
    You may reveal this card from your opening hand. If you do, when each opponent casts their first spell of the game, counter that spell unless that player pays |mana_1|.
 
    Flying
@@ -45,19 +45,19 @@
    Whenever an opponent casts a spell, counter it unless that player pays |mana_1|.
 
 
-:mtgtip:`Dispatch<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/9/496634f9-1271-4be7-bad5-364bb87a6962.jpg?1562877282|https://scryfall.com/card/nph/7/dispatch?utm_source=api>`
+:mtgtip:`Dispatch<https://cards.scryfall.io/border_crop/front/4/9/496634f9-1271-4be7-bad5-364bb87a6962.jpg?1562877282|https://scryfall.com/card/nph/7/dispatch?utm_source=api>`
    Tap target creature.
 
    Metalcraft — If you control three or more artifacts, exile that creature.
 
 
-:mtgtip:`Due Respect<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/7/a7159850-964b-4f12-957f-614eb0570544.jpg?1562880485|https://scryfall.com/card/nph/8/due-respect?utm_source=api>`
+:mtgtip:`Due Respect<https://cards.scryfall.io/border_crop/front/a/7/a7159850-964b-4f12-957f-614eb0570544.jpg?1562880485|https://scryfall.com/card/nph/8/due-respect?utm_source=api>`
    Permanents enter the battlefield tapped this turn.
 
    Draw a card.
 
 
-:mtgtip:`Elesh Norn, Grand Cenobite<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/6/b66390d6-1649-4bfa-92d3-77664650d552.jpg?1562880933|https://scryfall.com/card/nph/9/elesh-norn-grand-cenobite?utm_source=api>`
+:mtgtip:`Elesh Norn, Grand Cenobite<https://cards.scryfall.io/border_crop/front/b/6/b66390d6-1649-4bfa-92d3-77664650d552.jpg?1562880933|https://scryfall.com/card/nph/9/elesh-norn-grand-cenobite?utm_source=api>`
    Vigilance
 
    Other creatures you control get +2/+2.
@@ -65,13 +65,13 @@
    Creatures your opponents control get -2/-2.
 
 
-:mtgtip:`Exclusion Ritual<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/e/9e3b826a-7349-45ae-89bf-675fea7ce8e3.jpg?1562880207|https://scryfall.com/card/nph/10/exclusion-ritual?utm_source=api>`
+:mtgtip:`Exclusion Ritual<https://cards.scryfall.io/border_crop/front/9/e/9e3b826a-7349-45ae-89bf-675fea7ce8e3.jpg?1562880207|https://scryfall.com/card/nph/10/exclusion-ritual?utm_source=api>`
    Imprint — When Exclusion Ritual enters the battlefield, exile target nonland permanent.
 
    Players can't cast spells with the same name as the exiled card.
 
 
-:mtgtip:`Forced Worship<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/0/e050701d-4609-470d-85ff-4b7638893c6a.jpg?1562882126|https://scryfall.com/card/nph/11/forced-worship?utm_source=api>`
+:mtgtip:`Forced Worship<https://cards.scryfall.io/border_crop/front/e/0/e050701d-4609-470d-85ff-4b7638893c6a.jpg?1562882126|https://scryfall.com/card/nph/11/forced-worship?utm_source=api>`
    Enchant creature
 
    Enchanted creature can't attack.
@@ -79,7 +79,7 @@
    |mana_2|\ |mana_w|: Return Forced Worship to its owner's hand.
 
 
-:mtgtip:`Inquisitor Exarch<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/9/49e241a0-a027-494b-8187-6ecb006d1d33.jpg?1562877293|https://scryfall.com/card/nph/12/inquisitor-exarch?utm_source=api>`
+:mtgtip:`Inquisitor Exarch<https://cards.scryfall.io/border_crop/front/4/9/49e241a0-a027-494b-8187-6ecb006d1d33.jpg?1562877293|https://scryfall.com/card/nph/12/inquisitor-exarch?utm_source=api>`
    When Inquisitor Exarch enters the battlefield, choose one —
 
    • You gain 2 life.
@@ -87,51 +87,51 @@
    • Target opponent loses 2 life.
 
 
-:mtgtip:`Lost Leonin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/2/8209fa5d-2c0e-4827-813b-fff123533f16.jpg?1562879208|https://scryfall.com/card/nph/13/lost-leonin?utm_source=api>`
+:mtgtip:`Lost Leonin<https://cards.scryfall.io/border_crop/front/8/2/8209fa5d-2c0e-4827-813b-fff123533f16.jpg?1562879208|https://scryfall.com/card/nph/13/lost-leonin?utm_source=api>`
    Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
 
 
-:mtgtip:`Loxodon Convert<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/0/00c050c3-4f50-4bb6-8477-6737887ca10d.jpg?1562875113|https://scryfall.com/card/nph/14/loxodon-convert?utm_source=api>`
+:mtgtip:`Loxodon Convert<https://cards.scryfall.io/border_crop/front/0/0/00c050c3-4f50-4bb6-8477-6737887ca10d.jpg?1562875113|https://scryfall.com/card/nph/14/loxodon-convert?utm_source=api>`
    
 
 
-:mtgtip:`Marrow Shards<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/3/53ca60ee-e54b-4a28-b6a6-7bf3503c35b4.jpg?1562877625|https://scryfall.com/card/nph/15/marrow-shards?utm_source=api>`
+:mtgtip:`Marrow Shards<https://cards.scryfall.io/border_crop/front/5/3/53ca60ee-e54b-4a28-b6a6-7bf3503c35b4.jpg?1562877625|https://scryfall.com/card/nph/15/marrow-shards?utm_source=api>`
    (|mana_wp| can be paid with either |mana_w| or 2 life.)
 
    Marrow Shards deals 1 damage to each attacking creature.
 
 
-:mtgtip:`Master Splicer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/5/859d2b91-63af-4700-8ca5-b1756aa6639b.jpg?1562879309|https://scryfall.com/card/nph/16/master-splicer?utm_source=api>`
+:mtgtip:`Master Splicer<https://cards.scryfall.io/border_crop/front/8/5/859d2b91-63af-4700-8ca5-b1756aa6639b.jpg?1562879309|https://scryfall.com/card/nph/16/master-splicer?utm_source=api>`
    When Master Splicer enters the battlefield, create a 3/3 colorless Phyrexian Golem artifact creature token.
 
    Golems you control get +1/+1.
 
 
-:mtgtip:`Norn's Annex<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/6/a64073f2-99f5-4dc7-9403-e7cb94ce0e60.jpg?1562880453|https://scryfall.com/card/nph/17/norns-annex?utm_source=api>`
+:mtgtip:`Norn's Annex<https://cards.scryfall.io/border_crop/front/a/6/a64073f2-99f5-4dc7-9403-e7cb94ce0e60.jpg?1562880453|https://scryfall.com/card/nph/17/norns-annex?utm_source=api>`
    (|mana_wp| can be paid with either |mana_w| or 2 life.)
 
    Creatures can't attack you or planeswalkers you control unless their controller pays |mana_wp| for each of those creatures.
 
 
-:mtgtip:`Phyrexian Unlife<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/4/b4a1e16a-39f0-47ab-aba8-73e82ba9ab18.jpg?1562880895|https://scryfall.com/card/nph/18/phyrexian-unlife?utm_source=api>`
+:mtgtip:`Phyrexian Unlife<https://cards.scryfall.io/border_crop/front/b/4/b4a1e16a-39f0-47ab-aba8-73e82ba9ab18.jpg?1562880895|https://scryfall.com/card/nph/18/phyrexian-unlife?utm_source=api>`
    You don't lose the game for having 0 or less life.
 
    As long as you have 0 or less life, all damage is dealt to you as though its source had infect. (Damage is dealt to you in the form of poison counters.)
 
 
-:mtgtip:`Porcelain Legionnaire<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/6/2616aa0e-8413-4e63-877c-bffd5263f552.jpg?1562876105|https://scryfall.com/card/nph/19/porcelain-legionnaire?utm_source=api>`
+:mtgtip:`Porcelain Legionnaire<https://cards.scryfall.io/border_crop/front/2/6/2616aa0e-8413-4e63-877c-bffd5263f552.jpg?1562876105|https://scryfall.com/card/nph/19/porcelain-legionnaire?utm_source=api>`
    (|mana_wp| can be paid with either |mana_w| or 2 life.)
 
    First strike
 
 
-:mtgtip:`Puresteel Paladin<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/a/ca100248-fcd6-41ed-8d75-bcb473845edd.jpg?1562881502|https://scryfall.com/card/nph/20/puresteel-paladin?utm_source=api>`
+:mtgtip:`Puresteel Paladin<https://cards.scryfall.io/border_crop/front/c/a/ca100248-fcd6-41ed-8d75-bcb473845edd.jpg?1562881502|https://scryfall.com/card/nph/20/puresteel-paladin?utm_source=api>`
    Whenever an Equipment enters the battlefield under your control, you may draw a card.
 
    Metalcraft — Equipment you control have equip |mana_0| as long as you control three or more artifacts.
 
 
-:mtgtip:`Remember the Fallen<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/d/6d9b8325-2a28-4312-b778-40087f8ea778.jpg?1562878513|https://scryfall.com/card/nph/21/remember-the-fallen?utm_source=api>`
+:mtgtip:`Remember the Fallen<https://cards.scryfall.io/border_crop/front/6/d/6d9b8325-2a28-4312-b778-40087f8ea778.jpg?1562878513|https://scryfall.com/card/nph/21/remember-the-fallen?utm_source=api>`
    Choose one or both —
 
    • Return target creature card from your graveyard to your hand.
@@ -139,57 +139,57 @@
    • Return target artifact card from your graveyard to your hand.
 
 
-:mtgtip:`Sensor Splicer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/9/79076264-d71c-4b30-aac9-702a4d229933.jpg?1562878908|https://scryfall.com/card/nph/22/sensor-splicer?utm_source=api>`
+:mtgtip:`Sensor Splicer<https://cards.scryfall.io/border_crop/front/7/9/79076264-d71c-4b30-aac9-702a4d229933.jpg?1562878908|https://scryfall.com/card/nph/22/sensor-splicer?utm_source=api>`
    When Sensor Splicer enters the battlefield, create a 3/3 colorless Phyrexian Golem artifact creature token.
 
    Golem creatures you control have vigilance.
 
 
-:mtgtip:`Shattered Angel<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/1/012f94e9-91cd-48da-873f-2da2b03a4965.jpg?1562875115|https://scryfall.com/card/nph/23/shattered-angel?utm_source=api>`
+:mtgtip:`Shattered Angel<https://cards.scryfall.io/border_crop/front/0/1/012f94e9-91cd-48da-873f-2da2b03a4965.jpg?1562875115|https://scryfall.com/card/nph/23/shattered-angel?utm_source=api>`
    Flying
 
    Whenever a land enters the battlefield under an opponent's control, you may gain 3 life.
 
 
-:mtgtip:`Shriek Raptor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/3/73071a3b-9329-418e-9285-fa4765463d1f.jpg?1562878708|https://scryfall.com/card/nph/24/shriek-raptor?utm_source=api>`
+:mtgtip:`Shriek Raptor<https://cards.scryfall.io/border_crop/front/7/3/73071a3b-9329-418e-9285-fa4765463d1f.jpg?1562878708|https://scryfall.com/card/nph/24/shriek-raptor?utm_source=api>`
    Flying
 
    Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
 
 
-:mtgtip:`Suture Priest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/1/31432e98-86cd-42ea-ad37-eb4383dc6a81.jpg?1562876459|https://scryfall.com/card/nph/25/suture-priest?utm_source=api>`
+:mtgtip:`Suture Priest<https://cards.scryfall.io/border_crop/front/3/1/31432e98-86cd-42ea-ad37-eb4383dc6a81.jpg?1562876459|https://scryfall.com/card/nph/25/suture-priest?utm_source=api>`
    Whenever another creature enters the battlefield under your control, you may gain 1 life.
 
    Whenever a creature enters the battlefield under an opponent's control, you may have that player lose 1 life.
 
 
-:mtgtip:`War Report<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/d/6d837262-cd5d-4fc9-96dd-39ed04166883.jpg?1562878511|https://scryfall.com/card/nph/26/war-report?utm_source=api>`
+:mtgtip:`War Report<https://cards.scryfall.io/border_crop/front/6/d/6d837262-cd5d-4fc9-96dd-39ed04166883.jpg?1562878511|https://scryfall.com/card/nph/26/war-report?utm_source=api>`
    You gain life equal to the number of creatures on the battlefield plus the number of artifacts on the battlefield.
 
 
-:mtgtip:`Argent Mutation<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/0/507fa5fd-2aa5-4721-a059-2c8c3056a4ca.jpg?1572636966|https://scryfall.com/card/nph/27/argent-mutation?utm_source=api>`
+:mtgtip:`Argent Mutation<https://cards.scryfall.io/border_crop/front/5/0/507fa5fd-2aa5-4721-a059-2c8c3056a4ca.jpg?1572636966|https://scryfall.com/card/nph/27/argent-mutation?utm_source=api>`
    Target permanent becomes an artifact in addition to its other types until end of turn.
 
    Draw a card.
 
 
-:mtgtip:`Arm with Aether<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/0/a0878b20-315d-49fa-a4d7-232ba1ed6b0d.jpg?1562880261|https://scryfall.com/card/nph/28/arm-with-aether?utm_source=api>`
+:mtgtip:`Arm with Aether<https://cards.scryfall.io/border_crop/front/a/0/a0878b20-315d-49fa-a4d7-232ba1ed6b0d.jpg?1562880261|https://scryfall.com/card/nph/28/arm-with-aether?utm_source=api>`
    Until end of turn, creatures you control gain "Whenever this creature deals damage to an opponent, you may return target creature that player controls to its owner's hand."
 
 
-:mtgtip:`Blighted Agent<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/d/cddaebde-a060-4510-8c97-68432d931987.jpg?1562881631|https://scryfall.com/card/nph/29/blighted-agent?utm_source=api>`
+:mtgtip:`Blighted Agent<https://cards.scryfall.io/border_crop/front/c/d/cddaebde-a060-4510-8c97-68432d931987.jpg?1562881631|https://scryfall.com/card/nph/29/blighted-agent?utm_source=api>`
    Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
 
    Blighted Agent can't be blocked.
 
 
-:mtgtip:`Chained Throatseeker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/a/3a7bb447-c2b0-429e-bf82-02d6a966fe73.jpg?1562876738|https://scryfall.com/card/nph/30/chained-throatseeker?utm_source=api>`
+:mtgtip:`Chained Throatseeker<https://cards.scryfall.io/border_crop/front/3/a/3a7bb447-c2b0-429e-bf82-02d6a966fe73.jpg?1562876738|https://scryfall.com/card/nph/30/chained-throatseeker?utm_source=api>`
    Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
 
    Chained Throatseeker can't attack unless defending player is poisoned.
 
 
-:mtgtip:`Chancellor of the Spires<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/1/b1e06e16-96fa-4611-b4a9-512eeeeddd3c.jpg?1562880793|https://scryfall.com/card/nph/31/chancellor-of-the-spires?utm_source=api>`
+:mtgtip:`Chancellor of the Spires<https://cards.scryfall.io/border_crop/front/b/1/b1e06e16-96fa-4611-b4a9-512eeeeddd3c.jpg?1562880793|https://scryfall.com/card/nph/31/chancellor-of-the-spires?utm_source=api>`
    You may reveal this card from your opening hand. If you do, at the beginning of the first upkeep, each opponent mills seven cards.
 
    Flying
@@ -197,11 +197,11 @@
    When Chancellor of the Spires enters the battlefield, you may cast target instant or sorcery card from an opponent's graveyard without paying its mana cost.
 
 
-:mtgtip:`Corrupted Resolve<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/8/28432161-023b-4a98-b92a-55dc6d936cd1.jpg?1562876198|https://scryfall.com/card/nph/32/corrupted-resolve?utm_source=api>`
+:mtgtip:`Corrupted Resolve<https://cards.scryfall.io/border_crop/front/2/8/28432161-023b-4a98-b92a-55dc6d936cd1.jpg?1562876198|https://scryfall.com/card/nph/32/corrupted-resolve?utm_source=api>`
    Counter target spell if its controller is poisoned.
 
 
-:mtgtip:`Deceiver Exarch<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/f/1f123ad6-fe84-4fed-9c0f-6b41921e9c26.jpg?1623115965|https://scryfall.com/card/nph/33/deceiver-exarch?utm_source=api>`
+:mtgtip:`Deceiver Exarch<https://cards.scryfall.io/border_crop/front/1/f/1f123ad6-fe84-4fed-9c0f-6b41921e9c26.jpg?1623115965|https://scryfall.com/card/nph/33/deceiver-exarch?utm_source=api>`
    Flash (You may cast this spell any time you could cast an instant.)
 
    When Deceiver Exarch enters the battlefield, choose one —
@@ -211,13 +211,13 @@
    • Tap target permanent an opponent controls.
 
 
-:mtgtip:`Defensive Stance<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/0/d0670653-d4fe-4fac-b769-d19ca4698c97.jpg?1562881710|https://scryfall.com/card/nph/34/defensive-stance?utm_source=api>`
+:mtgtip:`Defensive Stance<https://cards.scryfall.io/border_crop/front/d/0/d0670653-d4fe-4fac-b769-d19ca4698c97.jpg?1562881710|https://scryfall.com/card/nph/34/defensive-stance?utm_source=api>`
    Enchant creature
 
    Enchanted creature gets -1/+1.
 
 
-:mtgtip:`Gitaxian Probe<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/9/995486ce-58bb-4753-a812-0ca73ef1a235.jpg?1562880052|https://scryfall.com/card/nph/35/gitaxian-probe?utm_source=api>`
+:mtgtip:`Gitaxian Probe<https://cards.scryfall.io/border_crop/front/9/9/995486ce-58bb-4753-a812-0ca73ef1a235.jpg?1562880052|https://scryfall.com/card/nph/35/gitaxian-probe?utm_source=api>`
    (|mana_up| can be paid with either |mana_u| or 2 life.)
 
    Look at target player's hand.
@@ -225,13 +225,13 @@
    Draw a card.
 
 
-:mtgtip:`Impaler Shrike<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/1/91e1f8b5-4792-457d-b3de-1d4874ddf72e.jpg?1562879789|https://scryfall.com/card/nph/36/impaler-shrike?utm_source=api>`
+:mtgtip:`Impaler Shrike<https://cards.scryfall.io/border_crop/front/9/1/91e1f8b5-4792-457d-b3de-1d4874ddf72e.jpg?1562879789|https://scryfall.com/card/nph/36/impaler-shrike?utm_source=api>`
    Flying
 
    Whenever Impaler Shrike deals combat damage to a player, you may sacrifice it. If you do, draw three cards.
 
 
-:mtgtip:`Jin-Gitaxias, Core Augur<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bd46fc9f-5b92-44d7-8940-2f39b0962b8f.jpg?1562881129|https://scryfall.com/card/nph/37/jin-gitaxias-core-augur?utm_source=api>`
+:mtgtip:`Jin-Gitaxias, Core Augur<https://cards.scryfall.io/border_crop/front/b/d/bd46fc9f-5b92-44d7-8940-2f39b0962b8f.jpg?1562881129|https://scryfall.com/card/nph/37/jin-gitaxias-core-augur?utm_source=api>`
    Flash
 
    At the beginning of your end step, draw seven cards.
@@ -239,17 +239,17 @@
    Each opponent's maximum hand size is reduced by seven.
 
 
-:mtgtip:`Mental Misstep<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/1/61e9c6df-1c84-4eab-9076-a4feb6347c10.jpg?1566819829|https://scryfall.com/card/nph/38/mental-misstep?utm_source=api>`
+:mtgtip:`Mental Misstep<https://cards.scryfall.io/border_crop/front/6/1/61e9c6df-1c84-4eab-9076-a4feb6347c10.jpg?1566819829|https://scryfall.com/card/nph/38/mental-misstep?utm_source=api>`
    (|mana_up| can be paid with either |mana_u| or 2 life.)
 
    Counter target spell with mana value 1.
 
 
-:mtgtip:`Mindculling<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/f/6faf4372-6fb5-48aa-9b94-b0e77c867116.jpg?1562878573|https://scryfall.com/card/nph/39/mindculling?utm_source=api>`
+:mtgtip:`Mindculling<https://cards.scryfall.io/border_crop/front/6/f/6faf4372-6fb5-48aa-9b94-b0e77c867116.jpg?1562878573|https://scryfall.com/card/nph/39/mindculling?utm_source=api>`
    You draw two cards and target opponent discards two cards.
 
 
-:mtgtip:`Numbing Dose<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/f/8f28a0f4-43e1-46df-8b6a-d588c5cceb88.jpg?1562879688|https://scryfall.com/card/nph/40/numbing-dose?utm_source=api>`
+:mtgtip:`Numbing Dose<https://cards.scryfall.io/border_crop/front/8/f/8f28a0f4-43e1-46df-8b6a-d588c5cceb88.jpg?1562879688|https://scryfall.com/card/nph/40/numbing-dose?utm_source=api>`
    Enchant artifact or creature
 
    Enchanted permanent doesn't untap during its controller's untap step.
@@ -257,49 +257,49 @@
    At the beginning of the upkeep of enchanted permanent's controller, that player loses 1 life.
 
 
-:mtgtip:`Phyrexian Ingester<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/7/376e9829-23eb-4b43-9ec7-246cb3156e95.jpg?1562876645|https://scryfall.com/card/nph/41/phyrexian-ingester?utm_source=api>`
+:mtgtip:`Phyrexian Ingester<https://cards.scryfall.io/border_crop/front/3/7/376e9829-23eb-4b43-9ec7-246cb3156e95.jpg?1562876645|https://scryfall.com/card/nph/41/phyrexian-ingester?utm_source=api>`
    Imprint — When Phyrexian Ingester enters the battlefield, you may exile target nontoken creature.
 
    Phyrexian Ingester gets +X/+Y, where X is the exiled creature card's power and Y is its toughness.
 
 
-:mtgtip:`Phyrexian Metamorph<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/2/d2e27911-87cb-49a0-a34f-6afe4bddd592.jpg?1562881786|https://scryfall.com/card/nph/42/phyrexian-metamorph?utm_source=api>`
+:mtgtip:`Phyrexian Metamorph<https://cards.scryfall.io/border_crop/front/d/2/d2e27911-87cb-49a0-a34f-6afe4bddd592.jpg?1562881786|https://scryfall.com/card/nph/42/phyrexian-metamorph?utm_source=api>`
    (|mana_up| can be paid with either |mana_u| or 2 life.)
 
    You may have Phyrexian Metamorph enter the battlefield as a copy of any artifact or creature on the battlefield, except it's an artifact in addition to its other types.
 
 
-:mtgtip:`Psychic Barrier<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/c/1cba7d67-5c6c-4738-8907-7cce503e3180.jpg?1562875859|https://scryfall.com/card/nph/43/psychic-barrier?utm_source=api>`
+:mtgtip:`Psychic Barrier<https://cards.scryfall.io/border_crop/front/1/c/1cba7d67-5c6c-4738-8907-7cce503e3180.jpg?1562875859|https://scryfall.com/card/nph/43/psychic-barrier?utm_source=api>`
    Counter target creature spell. Its controller loses 1 life.
 
 
-:mtgtip:`Psychic Surgery<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/1/51ea9a6d-d6ca-48cb-adac-958ad0e7440c.jpg?1562877562|https://scryfall.com/card/nph/44/psychic-surgery?utm_source=api>`
+:mtgtip:`Psychic Surgery<https://cards.scryfall.io/border_crop/front/5/1/51ea9a6d-d6ca-48cb-adac-958ad0e7440c.jpg?1562877562|https://scryfall.com/card/nph/44/psychic-surgery?utm_source=api>`
    Whenever an opponent shuffles their library, you may look at the top two cards of that library. You may exile one of those cards. Then put the rest on top of that library in any order.
 
 
-:mtgtip:`Spined Thopter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bd27f71a-cd22-4b5e-9536-3e160111875a.jpg?1562881127|https://scryfall.com/card/nph/45/spined-thopter?utm_source=api>`
+:mtgtip:`Spined Thopter<https://cards.scryfall.io/border_crop/front/b/d/bd27f71a-cd22-4b5e-9536-3e160111875a.jpg?1562881127|https://scryfall.com/card/nph/45/spined-thopter?utm_source=api>`
    (|mana_up| can be paid with either |mana_u| or 2 life.)
 
    Flying
 
 
-:mtgtip:`Spire Monitor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/8/189f83aa-264b-4d09-b45f-099597a789d4.jpg?1562875755|https://scryfall.com/card/nph/46/spire-monitor?utm_source=api>`
+:mtgtip:`Spire Monitor<https://cards.scryfall.io/border_crop/front/1/8/189f83aa-264b-4d09-b45f-099597a789d4.jpg?1562875755|https://scryfall.com/card/nph/46/spire-monitor?utm_source=api>`
    Flash (You may cast this spell any time you could cast an instant.)
 
    Flying
 
 
-:mtgtip:`Tezzeret's Gambit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/f/fff5a09e-9276-44b8-b374-4b84aebd47cc.jpg?1562883142|https://scryfall.com/card/nph/47/tezzerets-gambit?utm_source=api>`
+:mtgtip:`Tezzeret's Gambit<https://cards.scryfall.io/border_crop/front/f/f/fff5a09e-9276-44b8-b374-4b84aebd47cc.jpg?1562883142|https://scryfall.com/card/nph/47/tezzerets-gambit?utm_source=api>`
    (|mana_up| can be paid with either |mana_u| or 2 life.)
 
    Draw two cards, then proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
 
 
-:mtgtip:`Vapor Snag<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/0/70305148-23bd-41dd-9de5-13cf5ae591ae.jpg?1562878598|https://scryfall.com/card/nph/48/vapor-snag?utm_source=api>`
+:mtgtip:`Vapor Snag<https://cards.scryfall.io/border_crop/front/7/0/70305148-23bd-41dd-9de5-13cf5ae591ae.jpg?1562878598|https://scryfall.com/card/nph/48/vapor-snag?utm_source=api>`
    Return target creature to its owner's hand. Its controller loses 1 life.
 
 
-:mtgtip:`Viral Drake<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/8/d89b312b-cc90-4f08-ae2e-043a79e51156.jpg?1562881929|https://scryfall.com/card/nph/49/viral-drake?utm_source=api>`
+:mtgtip:`Viral Drake<https://cards.scryfall.io/border_crop/front/d/8/d89b312b-cc90-4f08-ae2e-043a79e51156.jpg?1562881929|https://scryfall.com/card/nph/49/viral-drake?utm_source=api>`
    Flying
 
    Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
@@ -307,51 +307,51 @@
    |mana_3|\ |mana_u|: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
 
 
-:mtgtip:`Wing Splicer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/2/e2dbfb1b-092c-44a3-932d-a8b27be0a72b.jpg?1562882216|https://scryfall.com/card/nph/50/wing-splicer?utm_source=api>`
+:mtgtip:`Wing Splicer<https://cards.scryfall.io/border_crop/front/e/2/e2dbfb1b-092c-44a3-932d-a8b27be0a72b.jpg?1562882216|https://scryfall.com/card/nph/50/wing-splicer?utm_source=api>`
    When Wing Splicer enters the battlefield, create a 3/3 colorless Phyrexian Golem artifact creature token.
 
    Golem creatures you control have flying.
 
 
-:mtgtip:`Xenograft<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/5/f52f08e1-b234-42e4-8f1f-485a4f6edb3b.jpg?1562882828|https://scryfall.com/card/nph/51/xenograft?utm_source=api>`
+:mtgtip:`Xenograft<https://cards.scryfall.io/border_crop/front/f/5/f52f08e1-b234-42e4-8f1f-485a4f6edb3b.jpg?1562882828|https://scryfall.com/card/nph/51/xenograft?utm_source=api>`
    As Xenograft enters the battlefield, choose a creature type.
 
    Each creature you control is the chosen type in addition to its other types.
 
 
-:mtgtip:`Blind Zealot<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/b/9bd04df1-5131-455d-b497-fcce4f9af552.jpg?1562880110|https://scryfall.com/card/nph/52/blind-zealot?utm_source=api>`
+:mtgtip:`Blind Zealot<https://cards.scryfall.io/border_crop/front/9/b/9bd04df1-5131-455d-b497-fcce4f9af552.jpg?1562880110|https://scryfall.com/card/nph/52/blind-zealot?utm_source=api>`
    Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)
 
    Whenever Blind Zealot deals combat damage to a player, you may sacrifice it. If you do, destroy target creature that player controls.
 
 
-:mtgtip:`Caress of Phyrexia<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/e/5ef987ad-a3dc-4ef5-90ec-9a8cfa95965b.jpg?1562878053|https://scryfall.com/card/nph/53/caress-of-phyrexia?utm_source=api>`
+:mtgtip:`Caress of Phyrexia<https://cards.scryfall.io/border_crop/front/5/e/5ef987ad-a3dc-4ef5-90ec-9a8cfa95965b.jpg?1562878053|https://scryfall.com/card/nph/53/caress-of-phyrexia?utm_source=api>`
    Target player draws three cards, loses 3 life, and gets three poison counters.
 
 
-:mtgtip:`Chancellor of the Dross<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/e/eec6d85e-6263-44b4-a91f-d51585c561c2.jpg?1562882613|https://scryfall.com/card/nph/54/chancellor-of-the-dross?utm_source=api>`
+:mtgtip:`Chancellor of the Dross<https://cards.scryfall.io/border_crop/front/e/e/eec6d85e-6263-44b4-a91f-d51585c561c2.jpg?1562882613|https://scryfall.com/card/nph/54/chancellor-of-the-dross?utm_source=api>`
    You may reveal this card from your opening hand. If you do, at the beginning of the first upkeep, each opponent loses 3 life, then you gain life equal to the life lost this way.
 
    Flying, lifelink
 
 
-:mtgtip:`Dementia Bat<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/72ae22c3-2dea-463e-894a-188657849909.jpg?1562878697|https://scryfall.com/card/nph/55/dementia-bat?utm_source=api>`
+:mtgtip:`Dementia Bat<https://cards.scryfall.io/border_crop/front/7/2/72ae22c3-2dea-463e-894a-188657849909.jpg?1562878697|https://scryfall.com/card/nph/55/dementia-bat?utm_source=api>`
    Flying
 
    |mana_4|\ |mana_b|, Sacrifice Dementia Bat: Target player discards two cards.
 
 
-:mtgtip:`Despise<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/e/ee7bfcd3-9f2b-41f5-93b4-8c1ee6ba4d88.jpg?1562882611|https://scryfall.com/card/nph/56/despise?utm_source=api>`
+:mtgtip:`Despise<https://cards.scryfall.io/border_crop/front/e/e/ee7bfcd3-9f2b-41f5-93b4-8c1ee6ba4d88.jpg?1562882611|https://scryfall.com/card/nph/56/despise?utm_source=api>`
    Target opponent reveals their hand. You choose a creature or planeswalker card from it. That player discards that card.
 
 
-:mtgtip:`Dismember<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/6/064dfdeb-485f-473e-9fa0-8fdb7638cdc6.jpg?1562875311|https://scryfall.com/card/nph/57/dismember?utm_source=api>`
+:mtgtip:`Dismember<https://cards.scryfall.io/border_crop/front/0/6/064dfdeb-485f-473e-9fa0-8fdb7638cdc6.jpg?1562875311|https://scryfall.com/card/nph/57/dismember?utm_source=api>`
    (|mana_bp| can be paid with either |mana_b| or 2 life.)
 
    Target creature gets -5/-5 until end of turn.
 
 
-:mtgtip:`Enslave<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/7/17c2f5f0-1f37-4f51-9c10-c02e2ef7d4ee.jpg?1562875738|https://scryfall.com/card/nph/58/enslave?utm_source=api>`
+:mtgtip:`Enslave<https://cards.scryfall.io/border_crop/front/1/7/17c2f5f0-1f37-4f51-9c10-c02e2ef7d4ee.jpg?1562875738|https://scryfall.com/card/nph/58/enslave?utm_source=api>`
    Enchant creature
 
    You control enchanted creature.
@@ -359,7 +359,7 @@
    At the beginning of your upkeep, enchanted creature deals 1 damage to its owner.
 
 
-:mtgtip:`Entomber Exarch<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/f/7f58020e-6d4d-474d-8d4b-cfb7d5a5e9a8.jpg?1562879110|https://scryfall.com/card/nph/59/entomber-exarch?utm_source=api>`
+:mtgtip:`Entomber Exarch<https://cards.scryfall.io/border_crop/front/7/f/7f58020e-6d4d-474d-8d4b-cfb7d5a5e9a8.jpg?1562879110|https://scryfall.com/card/nph/59/entomber-exarch?utm_source=api>`
    When Entomber Exarch enters the battlefield, choose one —
 
    • Return target creature card from your graveyard to your hand.
@@ -367,17 +367,17 @@
    • Target opponent reveals their hand. You choose a noncreature card from it. That player discards that card.
 
 
-:mtgtip:`Evil Presence<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4dd00bc5-234c-4ded-b0b7-1181bc16cb28.jpg?1562877415|https://scryfall.com/card/nph/60/evil-presence?utm_source=api>`
+:mtgtip:`Evil Presence<https://cards.scryfall.io/border_crop/front/4/d/4dd00bc5-234c-4ded-b0b7-1181bc16cb28.jpg?1562877415|https://scryfall.com/card/nph/60/evil-presence?utm_source=api>`
    Enchant land
 
    Enchanted land is a Swamp.
 
 
-:mtgtip:`Geth's Verdict<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/a/7a20b5a2-8613-49ed-b5cc-7cae9d0e0850.jpg?1562878949|https://scryfall.com/card/nph/61/geths-verdict?utm_source=api>`
+:mtgtip:`Geth's Verdict<https://cards.scryfall.io/border_crop/front/7/a/7a20b5a2-8613-49ed-b5cc-7cae9d0e0850.jpg?1562878949|https://scryfall.com/card/nph/61/geths-verdict?utm_source=api>`
    Target player sacrifices a creature and loses 1 life.
 
 
-:mtgtip:`Glistening Oil<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/8/483e99fd-7e48-400d-9817-451089089e0c.jpg?1562877253|https://scryfall.com/card/nph/62/glistening-oil?utm_source=api>`
+:mtgtip:`Glistening Oil<https://cards.scryfall.io/border_crop/front/4/8/483e99fd-7e48-400d-9817-451089089e0c.jpg?1562877253|https://scryfall.com/card/nph/62/glistening-oil?utm_source=api>`
    Enchant creature
 
    Enchanted creature has infect.
@@ -387,61 +387,61 @@
    When Glistening Oil is put into a graveyard from the battlefield, return Glistening Oil to its owner's hand.
 
 
-:mtgtip:`Grim Affliction<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9d5c8ba8-d9f4-440c-8e0b-93699df6343e.jpg?1562880180|https://scryfall.com/card/nph/63/grim-affliction?utm_source=api>`
+:mtgtip:`Grim Affliction<https://cards.scryfall.io/border_crop/front/9/d/9d5c8ba8-d9f4-440c-8e0b-93699df6343e.jpg?1562880180|https://scryfall.com/card/nph/63/grim-affliction?utm_source=api>`
    Put a -1/-1 counter on target creature, then proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
 
 
-:mtgtip:`Ichor Explosion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/b/0b207e2f-4604-43c5-bb35-a877e35ddd81.jpg?1562875473|https://scryfall.com/card/nph/64/ichor-explosion?utm_source=api>`
+:mtgtip:`Ichor Explosion<https://cards.scryfall.io/border_crop/front/0/b/0b207e2f-4604-43c5-bb35-a877e35ddd81.jpg?1562875473|https://scryfall.com/card/nph/64/ichor-explosion?utm_source=api>`
    As an additional cost to cast this spell, sacrifice a creature.
 
    All creatures get -X/-X until end of turn, where X is the sacrificed creature's power.
 
 
-:mtgtip:`Life's Finale<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/f/ffd3fbd2-87c7-4f08-baaa-91d61c1114da.jpg?1562883140|https://scryfall.com/card/nph/65/lifes-finale?utm_source=api>`
+:mtgtip:`Life's Finale<https://cards.scryfall.io/border_crop/front/f/f/ffd3fbd2-87c7-4f08-baaa-91d61c1114da.jpg?1562883140|https://scryfall.com/card/nph/65/lifes-finale?utm_source=api>`
    Destroy all creatures, then search target opponent's library for up to three creature cards and put them into their graveyard. Then that player shuffles.
 
 
-:mtgtip:`Mortis Dogs<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/c/3cae1f40-0e43-41d8-bc5c-aa9873f7d7d5.jpg?1562876816|https://scryfall.com/card/nph/66/mortis-dogs?utm_source=api>`
+:mtgtip:`Mortis Dogs<https://cards.scryfall.io/border_crop/front/3/c/3cae1f40-0e43-41d8-bc5c-aa9873f7d7d5.jpg?1562876816|https://scryfall.com/card/nph/66/mortis-dogs?utm_source=api>`
    Whenever Mortis Dogs attacks, it gets +2/+0 until end of turn.
 
    When Mortis Dogs dies, target player loses life equal to its power.
 
 
-:mtgtip:`Parasitic Implant<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/3/e34f1bf3-9f3a-47f0-9761-8b2356328a39.jpg?1562882234|https://scryfall.com/card/nph/67/parasitic-implant?utm_source=api>`
+:mtgtip:`Parasitic Implant<https://cards.scryfall.io/border_crop/front/e/3/e34f1bf3-9f3a-47f0-9761-8b2356328a39.jpg?1562882234|https://scryfall.com/card/nph/67/parasitic-implant?utm_source=api>`
    Enchant creature
 
    At the beginning of your upkeep, enchanted creature's controller sacrifices it and you create a 1/1 colorless Phyrexian Myr artifact creature token.
 
 
-:mtgtip:`Phyrexian Obliterator<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/4/44c4476d-58f9-420d-9545-f5d580c589de.jpg?1562877123|https://scryfall.com/card/nph/68/phyrexian-obliterator?utm_source=api>`
+:mtgtip:`Phyrexian Obliterator<https://cards.scryfall.io/border_crop/front/4/4/44c4476d-58f9-420d-9545-f5d580c589de.jpg?1562877123|https://scryfall.com/card/nph/68/phyrexian-obliterator?utm_source=api>`
    Trample
 
    Whenever a source deals damage to Phyrexian Obliterator, that source's controller sacrifices that many permanents.
 
 
-:mtgtip:`Pith Driller<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/8/28e960c6-6da0-4679-87eb-55bac890e0c6.jpg?1562876210|https://scryfall.com/card/nph/69/pith-driller?utm_source=api>`
+:mtgtip:`Pith Driller<https://cards.scryfall.io/border_crop/front/2/8/28e960c6-6da0-4679-87eb-55bac890e0c6.jpg?1562876210|https://scryfall.com/card/nph/69/pith-driller?utm_source=api>`
    (|mana_bp| can be paid with either |mana_b| or 2 life.)
 
    When Pith Driller enters the battlefield, put a -1/-1 counter on target creature.
 
 
-:mtgtip:`Postmortem Lunge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/5/d5f8b46e-1ad3-4c6e-aa63-376f2d222d46.jpg?1562881873|https://scryfall.com/card/nph/70/postmortem-lunge?utm_source=api>`
+:mtgtip:`Postmortem Lunge<https://cards.scryfall.io/border_crop/front/d/5/d5f8b46e-1ad3-4c6e-aa63-376f2d222d46.jpg?1562881873|https://scryfall.com/card/nph/70/postmortem-lunge?utm_source=api>`
    (|mana_bp| can be paid with either |mana_b| or 2 life.)
 
    Return target creature card with mana value X from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step.
 
 
-:mtgtip:`Praetor's Grasp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/5/9588be49-d9b5-4491-a5a0-10bcadc9f8b3.jpg?1562879913|https://scryfall.com/card/nph/71/praetors-grasp?utm_source=api>`
+:mtgtip:`Praetor's Grasp<https://cards.scryfall.io/border_crop/front/9/5/9588be49-d9b5-4491-a5a0-10bcadc9f8b3.jpg?1562879913|https://scryfall.com/card/nph/71/praetors-grasp?utm_source=api>`
    Search target opponent's library for a card and exile it face down. Then that player shuffles. You may look at and play that card for as long as it remains exiled.
 
 
-:mtgtip:`Reaper of Sheoldred<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/3/a300a645-aec6-4cda-8c11-1e8a6af056ff.jpg?1562880361|https://scryfall.com/card/nph/72/reaper-of-sheoldred?utm_source=api>`
+:mtgtip:`Reaper of Sheoldred<https://cards.scryfall.io/border_crop/front/a/3/a300a645-aec6-4cda-8c11-1e8a6af056ff.jpg?1562880361|https://scryfall.com/card/nph/72/reaper-of-sheoldred?utm_source=api>`
    Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
 
    Whenever a source deals damage to Reaper of Sheoldred, that source's controller gets a poison counter.
 
 
-:mtgtip:`Sheoldred, Whispering One<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/b/3bb8347b-8663-40b8-bdfb-411236d2efc8.jpg?1562876780|https://scryfall.com/card/nph/73/sheoldred-whispering-one?utm_source=api>`
+:mtgtip:`Sheoldred, Whispering One<https://cards.scryfall.io/border_crop/front/3/b/3bb8347b-8663-40b8-bdfb-411236d2efc8.jpg?1562876780|https://scryfall.com/card/nph/73/sheoldred-whispering-one?utm_source=api>`
    Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)
 
    At the beginning of your upkeep, return target creature card from your graveyard to the battlefield.
@@ -449,19 +449,19 @@
    At the beginning of each opponent's upkeep, that player sacrifices a creature.
 
 
-:mtgtip:`Surgical Extraction<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/c/dca7e072-edb5-4f7e-bdec-a3a393053c80.jpg?1562882025|https://scryfall.com/card/nph/74/surgical-extraction?utm_source=api>`
+:mtgtip:`Surgical Extraction<https://cards.scryfall.io/border_crop/front/d/c/dca7e072-edb5-4f7e-bdec-a3a393053c80.jpg?1562882025|https://scryfall.com/card/nph/74/surgical-extraction?utm_source=api>`
    (|mana_bp| can be paid with either |mana_b| or 2 life.)
 
    Choose target card in a graveyard other than a basic land card. Search its owner's graveyard, hand, and library for any number of cards with the same name as that card and exile them. Then that player shuffles.
 
 
-:mtgtip:`Toxic Nim<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/8/5823990c-8d40-4352-8d34-74332934adb2.jpg?1562877774|https://scryfall.com/card/nph/75/toxic-nim?utm_source=api>`
+:mtgtip:`Toxic Nim<https://cards.scryfall.io/border_crop/front/5/8/5823990c-8d40-4352-8d34-74332934adb2.jpg?1562877774|https://scryfall.com/card/nph/75/toxic-nim?utm_source=api>`
    Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
 
    |mana_b|: Regenerate Toxic Nim.
 
 
-:mtgtip:`Vault Skirge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/2/f254239c-c07a-4c41-98f7-8f4de539c73e.jpg?1562882710|https://scryfall.com/card/nph/76/vault-skirge?utm_source=api>`
+:mtgtip:`Vault Skirge<https://cards.scryfall.io/border_crop/front/f/2/f254239c-c07a-4c41-98f7-8f4de539c73e.jpg?1562882710|https://scryfall.com/card/nph/76/vault-skirge?utm_source=api>`
    (|mana_bp| can be paid with either |mana_b| or 2 life.)
 
    Flying
@@ -469,7 +469,7 @@
    Lifelink (Damage dealt by this creature also causes you to gain that much life.)
 
 
-:mtgtip:`Whispering Specter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/c/bcb1b486-e336-4e88-b635-b6ff18cb4841.jpg?1562881107|https://scryfall.com/card/nph/77/whispering-specter?utm_source=api>`
+:mtgtip:`Whispering Specter<https://cards.scryfall.io/border_crop/front/b/c/bcb1b486-e336-4e88-b635-b6ff18cb4841.jpg?1562881107|https://scryfall.com/card/nph/77/whispering-specter?utm_source=api>`
    Flying
 
    Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
@@ -477,59 +477,59 @@
    Whenever Whispering Specter deals combat damage to a player, you may sacrifice it. If you do, that player discards a card for each poison counter they have.
 
 
-:mtgtip:`Act of Aggression<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/1/61a9f30b-d154-49a4-ad6b-f05601992de3.jpg?1562878176|https://scryfall.com/card/nph/78/act-of-aggression?utm_source=api>`
+:mtgtip:`Act of Aggression<https://cards.scryfall.io/border_crop/front/6/1/61a9f30b-d154-49a4-ad6b-f05601992de3.jpg?1562878176|https://scryfall.com/card/nph/78/act-of-aggression?utm_source=api>`
    (|mana_rp| can be paid with either |mana_r| or 2 life.)
 
    Gain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn.
 
 
-:mtgtip:`Artillerize<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/3/034522ae-f531-44d9-b186-ada046ce0abc.jpg?1562875185|https://scryfall.com/card/nph/79/artillerize?utm_source=api>`
+:mtgtip:`Artillerize<https://cards.scryfall.io/border_crop/front/0/3/034522ae-f531-44d9-b186-ada046ce0abc.jpg?1562875185|https://scryfall.com/card/nph/79/artillerize?utm_source=api>`
    As an additional cost to cast this spell, sacrifice an artifact or creature.
 
    Artillerize deals 5 damage to any target.
 
 
-:mtgtip:`Bludgeon Brawl<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/3/a30fa96d-64d1-423e-a62e-d43453ea838d.jpg?1562880368|https://scryfall.com/card/nph/80/bludgeon-brawl?utm_source=api>`
+:mtgtip:`Bludgeon Brawl<https://cards.scryfall.io/border_crop/front/a/3/a30fa96d-64d1-423e-a62e-d43453ea838d.jpg?1562880368|https://scryfall.com/card/nph/80/bludgeon-brawl?utm_source=api>`
    Each noncreature, non-Equipment artifact is an Equipment with equip |mana_x| and "Equipped creature gets +X/+0," where X is that artifact's mana value.
 
 
-:mtgtip:`Chancellor of the Forge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/d/dd3520a7-a55f-4c00-b4f1-c1c154adfc8f.jpg?1627006822|https://scryfall.com/card/nph/81/chancellor-of-the-forge?utm_source=api>`
+:mtgtip:`Chancellor of the Forge<https://cards.scryfall.io/border_crop/front/d/d/dd3520a7-a55f-4c00-b4f1-c1c154adfc8f.jpg?1627006822|https://scryfall.com/card/nph/81/chancellor-of-the-forge?utm_source=api>`
    You may reveal this card from your opening hand. If you do, at the beginning of the first upkeep, create a 1/1 red Phyrexian Goblin creature token with haste.
 
    When Chancellor of the Forge enters the battlefield, create X 1/1 red Phyrexian Goblin creature tokens with haste, where X is the number of creatures you control.
 
 
-:mtgtip:`Fallen Ferromancer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/b/7b200986-f553-4156-8f5e-37678db09687.jpg?1562878979|https://scryfall.com/card/nph/82/fallen-ferromancer?utm_source=api>`
+:mtgtip:`Fallen Ferromancer<https://cards.scryfall.io/border_crop/front/7/b/7b200986-f553-4156-8f5e-37678db09687.jpg?1562878979|https://scryfall.com/card/nph/82/fallen-ferromancer?utm_source=api>`
    Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
 
    |mana_1|\ |mana_r|, |tap|: Fallen Ferromancer deals 1 damage to any target.
 
 
-:mtgtip:`Flameborn Viron<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/6/9601ea62-a609-4bc5-a2f0-f7615b4dd5fa.jpg?1562879922|https://scryfall.com/card/nph/83/flameborn-viron?utm_source=api>`
+:mtgtip:`Flameborn Viron<https://cards.scryfall.io/border_crop/front/9/6/9601ea62-a609-4bc5-a2f0-f7615b4dd5fa.jpg?1562879922|https://scryfall.com/card/nph/83/flameborn-viron?utm_source=api>`
    
 
 
-:mtgtip:`Furnace Scamp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/7/97538294-058c-47d4-b7a8-4db3753a6628.jpg?1562879991|https://scryfall.com/card/nph/84/furnace-scamp?utm_source=api>`
+:mtgtip:`Furnace Scamp<https://cards.scryfall.io/border_crop/front/9/7/97538294-058c-47d4-b7a8-4db3753a6628.jpg?1562879991|https://scryfall.com/card/nph/84/furnace-scamp?utm_source=api>`
    Whenever Furnace Scamp deals combat damage to a player, you may sacrifice it. If you do, Furnace Scamp deals 3 damage to that player.
 
 
-:mtgtip:`Geosurge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/1/118b7aa3-bb05-4691-978e-51486435bf05.jpg?1562875605|https://scryfall.com/card/nph/85/geosurge?utm_source=api>`
+:mtgtip:`Geosurge<https://cards.scryfall.io/border_crop/front/1/1/118b7aa3-bb05-4691-978e-51486435bf05.jpg?1562875605|https://scryfall.com/card/nph/85/geosurge?utm_source=api>`
    Add |mana_r|\ |mana_r|\ |mana_r|\ |mana_r|\ |mana_r|\ |mana_r|\ |mana_r|. Spend this mana only to cast artifact or creature spells.
 
 
-:mtgtip:`Gut Shot<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/5/a54a2a30-b96a-49c7-9151-1f4b0d4a4413.jpg?1562880417|https://scryfall.com/card/nph/86/gut-shot?utm_source=api>`
+:mtgtip:`Gut Shot<https://cards.scryfall.io/border_crop/front/a/5/a54a2a30-b96a-49c7-9151-1f4b0d4a4413.jpg?1562880417|https://scryfall.com/card/nph/86/gut-shot?utm_source=api>`
    (|mana_rp| can be paid with either |mana_r| or 2 life.)
 
    Gut Shot deals 1 damage to any target.
 
 
-:mtgtip:`Invader Parasite<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/9/89a8c53f-2cb0-41ea-8391-c32667f17c30.jpg?1562879440|https://scryfall.com/card/nph/87/invader-parasite?utm_source=api>`
+:mtgtip:`Invader Parasite<https://cards.scryfall.io/border_crop/front/8/9/89a8c53f-2cb0-41ea-8391-c32667f17c30.jpg?1562879440|https://scryfall.com/card/nph/87/invader-parasite?utm_source=api>`
    Imprint — When Invader Parasite enters the battlefield, exile target land.
 
    Whenever a land with the same name as the exiled card enters the battlefield under an opponent's control, Invader Parasite deals 2 damage to that player.
 
 
-:mtgtip:`Moltensteel Dragon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/3/13b78018-bfbe-43fa-809f-9b52a155e11c.jpg?1562875632|https://scryfall.com/card/nph/88/moltensteel-dragon?utm_source=api>`
+:mtgtip:`Moltensteel Dragon<https://cards.scryfall.io/border_crop/front/1/3/13b78018-bfbe-43fa-809f-9b52a155e11c.jpg?1562875632|https://scryfall.com/card/nph/88/moltensteel-dragon?utm_source=api>`
    (|mana_rp| can be paid with either |mana_r| or 2 life.)
 
    Flying
@@ -537,49 +537,49 @@
    |mana_rp|: Moltensteel Dragon gets +1/+0 until end of turn.
 
 
-:mtgtip:`Ogre Menial<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/2/6271c5c1-5f39-4908-b838-0f34c74e912e.jpg?1562878209|https://scryfall.com/card/nph/89/ogre-menial?utm_source=api>`
+:mtgtip:`Ogre Menial<https://cards.scryfall.io/border_crop/front/6/2/6271c5c1-5f39-4908-b838-0f34c74e912e.jpg?1562878209|https://scryfall.com/card/nph/89/ogre-menial?utm_source=api>`
    Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
 
    |mana_r|: Ogre Menial gets +1/+0 until end of turn.
 
 
-:mtgtip:`Priest of Urabrask<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/0/d0a9f49c-f15c-4b2d-b6a5-8efc3c430d87.jpg?1562881716|https://scryfall.com/card/nph/90/priest-of-urabrask?utm_source=api>`
+:mtgtip:`Priest of Urabrask<https://cards.scryfall.io/border_crop/front/d/0/d0a9f49c-f15c-4b2d-b6a5-8efc3c430d87.jpg?1562881716|https://scryfall.com/card/nph/90/priest-of-urabrask?utm_source=api>`
    When Priest of Urabrask enters the battlefield, add |mana_r|\ |mana_r|\ |mana_r|.
 
 
-:mtgtip:`Rage Extractor<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/8/d8cebc2c-a46b-4459-b62b-7fce1a744b11.jpg?1562881930|https://scryfall.com/card/nph/91/rage-extractor?utm_source=api>`
+:mtgtip:`Rage Extractor<https://cards.scryfall.io/border_crop/front/d/8/d8cebc2c-a46b-4459-b62b-7fce1a744b11.jpg?1562881930|https://scryfall.com/card/nph/91/rage-extractor?utm_source=api>`
    (|mana_rp| can be paid with either |mana_r| or 2 life.)
 
    Whenever you cast a spell with |mana_p| in its mana cost, Rage Extractor deals damage equal to that spell's mana value to any target.
 
 
-:mtgtip:`Razor Swine<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/f/2fb022a3-5f9e-491e-8340-087e33f927d6.jpg?1562876407|https://scryfall.com/card/nph/92/razor-swine?utm_source=api>`
+:mtgtip:`Razor Swine<https://cards.scryfall.io/border_crop/front/2/f/2fb022a3-5f9e-491e-8340-087e33f927d6.jpg?1562876407|https://scryfall.com/card/nph/92/razor-swine?utm_source=api>`
    First strike
 
    Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
 
 
-:mtgtip:`Ruthless Invasion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/c/bc2bbff9-af57-4858-9351-d148b8c4bc3a.jpg?1562881096|https://scryfall.com/card/nph/93/ruthless-invasion?utm_source=api>`
+:mtgtip:`Ruthless Invasion<https://cards.scryfall.io/border_crop/front/b/c/bc2bbff9-af57-4858-9351-d148b8c4bc3a.jpg?1562881096|https://scryfall.com/card/nph/93/ruthless-invasion?utm_source=api>`
    (|mana_rp| can be paid with either |mana_r| or 2 life.)
 
    Nonartifact creatures can't block this turn.
 
 
-:mtgtip:`Scrapyard Salvo<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/a/3a4874eb-635b-47f0-bbee-6bd8b26e2f10.jpg?1562876726|https://scryfall.com/card/nph/94/scrapyard-salvo?utm_source=api>`
+:mtgtip:`Scrapyard Salvo<https://cards.scryfall.io/border_crop/front/3/a/3a4874eb-635b-47f0-bbee-6bd8b26e2f10.jpg?1562876726|https://scryfall.com/card/nph/94/scrapyard-salvo?utm_source=api>`
    Scrapyard Salvo deals damage to target player or planeswalker equal to the number of artifact cards in your graveyard.
 
 
-:mtgtip:`Slag Fiend<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/0/c0d1ee33-e247-4ada-bb01-518611cd7d00.jpg?1562881259|https://scryfall.com/card/nph/95/slag-fiend?utm_source=api>`
+:mtgtip:`Slag Fiend<https://cards.scryfall.io/border_crop/front/c/0/c0d1ee33-e247-4ada-bb01-518611cd7d00.jpg?1562881259|https://scryfall.com/card/nph/95/slag-fiend?utm_source=api>`
    Slag Fiend's power and toughness are each equal to the number of artifact cards in all graveyards.
 
 
-:mtgtip:`Slash Panther<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/f/2f510946-34de-4c12-8998-f61887d1a0e1.jpg?1562876395|https://scryfall.com/card/nph/96/slash-panther?utm_source=api>`
+:mtgtip:`Slash Panther<https://cards.scryfall.io/border_crop/front/2/f/2f510946-34de-4c12-8998-f61887d1a0e1.jpg?1562876395|https://scryfall.com/card/nph/96/slash-panther?utm_source=api>`
    (|mana_rp| can be paid with either |mana_r| or 2 life.)
 
    Haste
 
 
-:mtgtip:`Tormentor Exarch<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/8/4886eb6a-0f6a-4ea7-8e85-4a27d1a6f03b.jpg?1562877259|https://scryfall.com/card/nph/97/tormentor-exarch?utm_source=api>`
+:mtgtip:`Tormentor Exarch<https://cards.scryfall.io/border_crop/front/4/8/4886eb6a-0f6a-4ea7-8e85-4a27d1a6f03b.jpg?1562877259|https://scryfall.com/card/nph/97/tormentor-exarch?utm_source=api>`
    When Tormentor Exarch enters the battlefield, choose one —
 
    • Target creature gets +2/+0 until end of turn.
@@ -587,39 +587,39 @@
    • Target creature gets -0/-2 until end of turn.
 
 
-:mtgtip:`Urabrask the Hidden<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/0/b06fcab2-891e-4fa3-8583-068ba56c2e27.jpg?1562880752|https://scryfall.com/card/nph/98/urabrask-the-hidden?utm_source=api>`
+:mtgtip:`Urabrask the Hidden<https://cards.scryfall.io/border_crop/front/b/0/b06fcab2-891e-4fa3-8583-068ba56c2e27.jpg?1562880752|https://scryfall.com/card/nph/98/urabrask-the-hidden?utm_source=api>`
    Creatures you control have haste.
 
    Creatures your opponents control enter the battlefield tapped.
 
 
-:mtgtip:`Victorious Destruction<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/b/7b81cb30-e9f8-41f3-a10b-26e0ba2503aa.jpg?1562879001|https://scryfall.com/card/nph/99/victorious-destruction?utm_source=api>`
+:mtgtip:`Victorious Destruction<https://cards.scryfall.io/border_crop/front/7/b/7b81cb30-e9f8-41f3-a10b-26e0ba2503aa.jpg?1562879001|https://scryfall.com/card/nph/99/victorious-destruction?utm_source=api>`
    Destroy target artifact or land. Its controller loses 1 life.
 
 
-:mtgtip:`Volt Charge<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/a/aa88011c-a19d-4faa-8da6-86b9980cd571.jpg?1562880613|https://scryfall.com/card/nph/100/volt-charge?utm_source=api>`
+:mtgtip:`Volt Charge<https://cards.scryfall.io/border_crop/front/a/a/aa88011c-a19d-4faa-8da6-86b9980cd571.jpg?1562880613|https://scryfall.com/card/nph/100/volt-charge?utm_source=api>`
    Volt Charge deals 3 damage to any target. Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
 
 
-:mtgtip:`Vulshok Refugee<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/b/0b1615ec-21b3-4575-8b02-fd2bccb930ba.jpg?1562875466|https://scryfall.com/card/nph/101/vulshok-refugee?utm_source=api>`
+:mtgtip:`Vulshok Refugee<https://cards.scryfall.io/border_crop/front/0/b/0b1615ec-21b3-4575-8b02-fd2bccb930ba.jpg?1562875466|https://scryfall.com/card/nph/101/vulshok-refugee?utm_source=api>`
    Protection from red
 
 
-:mtgtip:`Whipflare<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/a/5a7e6c10-d066-4967-932f-5b6c8d74568b.jpg?1562877860|https://scryfall.com/card/nph/102/whipflare?utm_source=api>`
+:mtgtip:`Whipflare<https://cards.scryfall.io/border_crop/front/5/a/5a7e6c10-d066-4967-932f-5b6c8d74568b.jpg?1562877860|https://scryfall.com/card/nph/102/whipflare?utm_source=api>`
    Whipflare deals 2 damage to each nonartifact creature.
 
 
-:mtgtip:`Beast Within<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/e/ce5b6d19-22e3-4f57-8f4d-a17e982286c7.jpg?1562881648|https://scryfall.com/card/nph/103/beast-within?utm_source=api>`
+:mtgtip:`Beast Within<https://cards.scryfall.io/border_crop/front/c/e/ce5b6d19-22e3-4f57-8f4d-a17e982286c7.jpg?1562881648|https://scryfall.com/card/nph/103/beast-within?utm_source=api>`
    Destroy target permanent. Its controller creates a 3/3 green Beast creature token.
 
 
-:mtgtip:`Birthing Pod<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/7/b768efa2-e56b-4a7e-ace8-d673f10e0714.jpg?1562880960|https://scryfall.com/card/nph/104/birthing-pod?utm_source=api>`
+:mtgtip:`Birthing Pod<https://cards.scryfall.io/border_crop/front/b/7/b768efa2-e56b-4a7e-ace8-d673f10e0714.jpg?1562880960|https://scryfall.com/card/nph/104/birthing-pod?utm_source=api>`
    (|mana_gp| can be paid with either |mana_g| or 2 life.)
 
    |mana_1|\ |mana_gp|, |tap|, Sacrifice a creature: Search your library for a creature card with mana value equal to 1 plus the sacrificed creature's mana value, put that card onto the battlefield, then shuffle. Activate only as a sorcery.
 
 
-:mtgtip:`Brutalizer Exarch<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9ddfa4ed-70fb-4e25-875d-df0f973f7294.jpg?1562880206|https://scryfall.com/card/nph/105/brutalizer-exarch?utm_source=api>`
+:mtgtip:`Brutalizer Exarch<https://cards.scryfall.io/border_crop/front/9/d/9ddfa4ed-70fb-4e25-875d-df0f973f7294.jpg?1562880206|https://scryfall.com/card/nph/105/brutalizer-exarch?utm_source=api>`
    When Brutalizer Exarch enters the battlefield, choose one —
 
    • Search your library for a creature card, reveal it, then shuffle and put that card on top.
@@ -627,51 +627,51 @@
    • Put target noncreature permanent on the bottom of its owner's library.
 
 
-:mtgtip:`Chancellor of the Tangle<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/d/6d129aa8-b637-451e-8123-5221e08cc2cc.jpg?1562878494|https://scryfall.com/card/nph/106/chancellor-of-the-tangle?utm_source=api>`
+:mtgtip:`Chancellor of the Tangle<https://cards.scryfall.io/border_crop/front/6/d/6d129aa8-b637-451e-8123-5221e08cc2cc.jpg?1562878494|https://scryfall.com/card/nph/106/chancellor-of-the-tangle?utm_source=api>`
    You may reveal this card from your opening hand. If you do, at the beginning of your first main phase, add |mana_g|.
 
    Vigilance, reach
 
 
-:mtgtip:`Corrosive Gale<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/4/04a13825-ab9b-4ffd-9b59-6198181891b9.jpg?1562875245|https://scryfall.com/card/nph/107/corrosive-gale?utm_source=api>`
+:mtgtip:`Corrosive Gale<https://cards.scryfall.io/border_crop/front/0/4/04a13825-ab9b-4ffd-9b59-6198181891b9.jpg?1562875245|https://scryfall.com/card/nph/107/corrosive-gale?utm_source=api>`
    (|mana_gp| can be paid with either |mana_g| or 2 life.)
 
    Corrosive Gale deals X damage to each creature with flying.
 
 
-:mtgtip:`Death-Hood Cobra<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/2/5279ac25-8175-44ad-ab7b-dfa17e359a10.jpg?1562877589|https://scryfall.com/card/nph/108/death-hood-cobra?utm_source=api>`
+:mtgtip:`Death-Hood Cobra<https://cards.scryfall.io/border_crop/front/5/2/5279ac25-8175-44ad-ab7b-dfa17e359a10.jpg?1562877589|https://scryfall.com/card/nph/108/death-hood-cobra?utm_source=api>`
    |mana_1|\ |mana_g|: Death-Hood Cobra gains reach until end of turn.
 
    |mana_1|\ |mana_g|: Death-Hood Cobra gains deathtouch until end of turn.
 
 
-:mtgtip:`Fresh Meat<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/0/000ce65b-5347-4a88-81af-be9053e4d3f3.jpg?1562875106|https://scryfall.com/card/nph/109/fresh-meat?utm_source=api>`
+:mtgtip:`Fresh Meat<https://cards.scryfall.io/border_crop/front/0/0/000ce65b-5347-4a88-81af-be9053e4d3f3.jpg?1562875106|https://scryfall.com/card/nph/109/fresh-meat?utm_source=api>`
    Create a 3/3 green Beast creature token for each creature put into your graveyard from the battlefield this turn.
 
 
-:mtgtip:`Glissa's Scorn<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/1/f11187c1-de35-4e85-87c3-656f978b2d7e.jpg?1562882673|https://scryfall.com/card/nph/110/glissas-scorn?utm_source=api>`
+:mtgtip:`Glissa's Scorn<https://cards.scryfall.io/border_crop/front/f/1/f11187c1-de35-4e85-87c3-656f978b2d7e.jpg?1562882673|https://scryfall.com/card/nph/110/glissas-scorn?utm_source=api>`
    Destroy target artifact. Its controller loses 1 life.
 
 
-:mtgtip:`Glistener Elf<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/b/8b94f4c6-b518-43b3-be52-e889d1f3ea38.jpg?1562879525|https://scryfall.com/card/nph/111/glistener-elf?utm_source=api>`
+:mtgtip:`Glistener Elf<https://cards.scryfall.io/border_crop/front/8/b/8b94f4c6-b518-43b3-be52-e889d1f3ea38.jpg?1562879525|https://scryfall.com/card/nph/111/glistener-elf?utm_source=api>`
    Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
 
 
-:mtgtip:`Greenhilt Trainee<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/7/370f8ef5-c809-43cc-903a-077fad33cd30.jpg?1562876639|https://scryfall.com/card/nph/112/greenhilt-trainee?utm_source=api>`
+:mtgtip:`Greenhilt Trainee<https://cards.scryfall.io/border_crop/front/3/7/370f8ef5-c809-43cc-903a-077fad33cd30.jpg?1562876639|https://scryfall.com/card/nph/112/greenhilt-trainee?utm_source=api>`
    |tap|: Target creature gets +4/+4 until end of turn. Activate only if Greenhilt Trainee's power is 4 or greater.
 
 
-:mtgtip:`Leeching Bite<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/c/1c3bdbeb-c376-42bd-af2a-251cd7ac704c.jpg?1562875848|https://scryfall.com/card/nph/113/leeching-bite?utm_source=api>`
+:mtgtip:`Leeching Bite<https://cards.scryfall.io/border_crop/front/1/c/1c3bdbeb-c376-42bd-af2a-251cd7ac704c.jpg?1562875848|https://scryfall.com/card/nph/113/leeching-bite?utm_source=api>`
    Target creature gets +1/+1 until end of turn. Another target creature gets -1/-1 until end of turn.
 
 
-:mtgtip:`Maul Splicer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/d/2d2c6a6d-5b59-47d7-b290-df3640d9555f.jpg?1562876329|https://scryfall.com/card/nph/114/maul-splicer?utm_source=api>`
+:mtgtip:`Maul Splicer<https://cards.scryfall.io/border_crop/front/2/d/2d2c6a6d-5b59-47d7-b290-df3640d9555f.jpg?1562876329|https://scryfall.com/card/nph/114/maul-splicer?utm_source=api>`
    When Maul Splicer enters the battlefield, create two 3/3 colorless Phyrexian Golem artifact creature tokens.
 
    Golem creatures you control have trample.
 
 
-:mtgtip:`Melira, Sylvok Outcast<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/8/e83851a1-e4e8-49ec-af5c-4efe86fa51ad.jpg?1562882406|https://scryfall.com/card/nph/115/melira-sylvok-outcast?utm_source=api>`
+:mtgtip:`Melira, Sylvok Outcast<https://cards.scryfall.io/border_crop/front/e/8/e83851a1-e4e8-49ec-af5c-4efe86fa51ad.jpg?1562882406|https://scryfall.com/card/nph/115/melira-sylvok-outcast?utm_source=api>`
    You can't get poison counters.
 
    Creatures you control can't have -1/-1 counters put on them.
@@ -679,65 +679,65 @@
    Creatures your opponents control lose infect.
 
 
-:mtgtip:`Mutagenic Growth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/f/af2d23da-70a1-49ba-91bf-c110cc4bbedc.jpg?1562880715|https://scryfall.com/card/nph/116/mutagenic-growth?utm_source=api>`
+:mtgtip:`Mutagenic Growth<https://cards.scryfall.io/border_crop/front/a/f/af2d23da-70a1-49ba-91bf-c110cc4bbedc.jpg?1562880715|https://scryfall.com/card/nph/116/mutagenic-growth?utm_source=api>`
    (|mana_gp| can be paid with either |mana_g| or 2 life.)
 
    Target creature gets +2/+2 until end of turn.
 
 
-:mtgtip:`Mycosynth Fiend<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bdcd1b8e-9f1f-48a3-b7a1-43a32cc03bb1.jpg?1562881141|https://scryfall.com/card/nph/117/mycosynth-fiend?utm_source=api>`
+:mtgtip:`Mycosynth Fiend<https://cards.scryfall.io/border_crop/front/b/d/bdcd1b8e-9f1f-48a3-b7a1-43a32cc03bb1.jpg?1562881141|https://scryfall.com/card/nph/117/mycosynth-fiend?utm_source=api>`
    Mycosynth Fiend gets +1/+1 for each poison counter your opponents have.
 
 
-:mtgtip:`Noxious Revival<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/b/1bdd1243-1d14-496a-9b7a-0c5b34461361.jpg?1562875840|https://scryfall.com/card/nph/118/noxious-revival?utm_source=api>`
+:mtgtip:`Noxious Revival<https://cards.scryfall.io/border_crop/front/1/b/1bdd1243-1d14-496a-9b7a-0c5b34461361.jpg?1562875840|https://scryfall.com/card/nph/118/noxious-revival?utm_source=api>`
    (|mana_gp| can be paid with either |mana_g| or 2 life.)
 
    Put target card from a graveyard on top of its owner's library.
 
 
-:mtgtip:`Phyrexian Swarmlord<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/a/8a91dea7-9792-4714-82b0-ba2c06cef304.jpg?1562879466|https://scryfall.com/card/nph/119/phyrexian-swarmlord?utm_source=api>`
+:mtgtip:`Phyrexian Swarmlord<https://cards.scryfall.io/border_crop/front/8/a/8a91dea7-9792-4714-82b0-ba2c06cef304.jpg?1562879466|https://scryfall.com/card/nph/119/phyrexian-swarmlord?utm_source=api>`
    Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
 
    At the beginning of your upkeep, create a 1/1 green Phyrexian Insect creature token with infect for each poison counter your opponents have.
 
 
-:mtgtip:`Rotted Hystrix<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/b/7bcae97d-468a-4e16-bfed-d2946f64784c.jpg?1562879013|https://scryfall.com/card/nph/120/rotted-hystrix?utm_source=api>`
+:mtgtip:`Rotted Hystrix<https://cards.scryfall.io/border_crop/front/7/b/7bcae97d-468a-4e16-bfed-d2946f64784c.jpg?1562879013|https://scryfall.com/card/nph/120/rotted-hystrix?utm_source=api>`
    
 
 
-:mtgtip:`Spinebiter<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/f/cfc79ac6-ffc6-4506-9dea-e20176f960ea.jpg?1562881679|https://scryfall.com/card/nph/121/spinebiter?utm_source=api>`
+:mtgtip:`Spinebiter<https://cards.scryfall.io/border_crop/front/c/f/cfc79ac6-ffc6-4506-9dea-e20176f960ea.jpg?1562881679|https://scryfall.com/card/nph/121/spinebiter?utm_source=api>`
    Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
 
    You may have Spinebiter assign its combat damage as though it weren't blocked.
 
 
-:mtgtip:`Thundering Tanadon<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/2/e2fab443-0f4b-45ea-8a6d-435b93803409.jpg?1562882228|https://scryfall.com/card/nph/122/thundering-tanadon?utm_source=api>`
+:mtgtip:`Thundering Tanadon<https://cards.scryfall.io/border_crop/front/e/2/e2fab443-0f4b-45ea-8a6d-435b93803409.jpg?1562882228|https://scryfall.com/card/nph/122/thundering-tanadon?utm_source=api>`
    (|mana_gp| can be paid with either |mana_g| or 2 life.)
 
    Trample
 
 
-:mtgtip:`Triumph of the Hordes<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/1/c16b90ff-d256-4ac6-b687-3430b8c80dd7.jpg?1562881289|https://scryfall.com/card/nph/123/triumph-of-the-hordes?utm_source=api>`
+:mtgtip:`Triumph of the Hordes<https://cards.scryfall.io/border_crop/front/c/1/c16b90ff-d256-4ac6-b687-3430b8c80dd7.jpg?1562881289|https://scryfall.com/card/nph/123/triumph-of-the-hordes?utm_source=api>`
    Until end of turn, creatures you control get +1/+1 and gain trample and infect. (Creatures with infect deal damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
 
 
-:mtgtip:`Viridian Betrayers<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/c/cc6ea52f-4b24-45ff-99e1-4d0e1bd42875.jpg?1562881572|https://scryfall.com/card/nph/124/viridian-betrayers?utm_source=api>`
+:mtgtip:`Viridian Betrayers<https://cards.scryfall.io/border_crop/front/c/c/cc6ea52f-4b24-45ff-99e1-4d0e1bd42875.jpg?1562881572|https://scryfall.com/card/nph/124/viridian-betrayers?utm_source=api>`
    Viridian Betrayers has infect as long as an opponent is poisoned. (It deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
 
 
-:mtgtip:`Viridian Harvest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/6/666eb9a5-b105-45c1-be3e-7ac5cc650338.jpg?1562878314|https://scryfall.com/card/nph/125/viridian-harvest?utm_source=api>`
+:mtgtip:`Viridian Harvest<https://cards.scryfall.io/border_crop/front/6/6/666eb9a5-b105-45c1-be3e-7ac5cc650338.jpg?1562878314|https://scryfall.com/card/nph/125/viridian-harvest?utm_source=api>`
    Enchant artifact
 
    When enchanted artifact is put into a graveyard, you gain 6 life.
 
 
-:mtgtip:`Vital Splicer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/7/273b982d-bca2-4418-8618-c711d28fc901.jpg?1562876146|https://scryfall.com/card/nph/126/vital-splicer?utm_source=api>`
+:mtgtip:`Vital Splicer<https://cards.scryfall.io/border_crop/front/2/7/273b982d-bca2-4418-8618-c711d28fc901.jpg?1562876146|https://scryfall.com/card/nph/126/vital-splicer?utm_source=api>`
    When Vital Splicer enters the battlefield, create a 3/3 colorless Phyrexian Golem artifact creature token.
 
    |mana_1|: Regenerate target Golem you control.
 
 
-:mtgtip:`Vorinclex, Voice of Hunger<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/8/0806adab-6a08-411b-b249-e1c58ade354b.jpg?1562875370|https://scryfall.com/card/nph/127/vorinclex-voice-of-hunger?utm_source=api>`
+:mtgtip:`Vorinclex, Voice of Hunger<https://cards.scryfall.io/border_crop/front/0/8/0806adab-6a08-411b-b249-e1c58ade354b.jpg?1562875370|https://scryfall.com/card/nph/127/vorinclex-voice-of-hunger?utm_source=api>`
    Trample
 
    Whenever you tap a land for mana, add one mana of any type that land produced.
@@ -745,17 +745,17 @@
    Whenever an opponent taps a land for mana, that land doesn't untap during its controller's next untap step.
 
 
-:mtgtip:`Jor Kadeen, the Prevailer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bfd8d7de-a2e1-4f83-85f9-7057eebf0c37.jpg?1562881224|https://scryfall.com/card/nph/128/jor-kadeen-the-prevailer?utm_source=api>`
+:mtgtip:`Jor Kadeen, the Prevailer<https://cards.scryfall.io/border_crop/front/b/f/bfd8d7de-a2e1-4f83-85f9-7057eebf0c37.jpg?1562881224|https://scryfall.com/card/nph/128/jor-kadeen-the-prevailer?utm_source=api>`
    First strike
 
    Metalcraft — Creatures you control get +3/+0 as long as you control three or more artifacts.
 
 
-:mtgtip:`Alloy Myr<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/b/abd3350b-89fb-40b4-a942-28e0c8c274aa.jpg?1562880645|https://scryfall.com/card/nph/129/alloy-myr?utm_source=api>`
+:mtgtip:`Alloy Myr<https://cards.scryfall.io/border_crop/front/a/b/abd3350b-89fb-40b4-a942-28e0c8c274aa.jpg?1562880645|https://scryfall.com/card/nph/129/alloy-myr?utm_source=api>`
    |tap|: Add one mana of any color.
 
 
-:mtgtip:`Batterskull<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/d/cd114ec3-d286-4c70-a122-3043bc53cc88.jpg?1562881615|https://scryfall.com/card/nph/130/batterskull?utm_source=api>`
+:mtgtip:`Batterskull<https://cards.scryfall.io/border_crop/front/c/d/cd114ec3-d286-4c70-a122-3043bc53cc88.jpg?1562881615|https://scryfall.com/card/nph/130/batterskull?utm_source=api>`
    Living weapon (When this Equipment enters the battlefield, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)
 
    Equipped creature gets +4/+4 and has vigilance and lifelink.
@@ -765,11 +765,11 @@
    Equip |mana_5|
 
 
-:mtgtip:`Blinding Souleater<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/2/2220e9dd-f1d8-4a69-9df9-1322e4a5cdc7.jpg?1562876039|https://scryfall.com/card/nph/131/blinding-souleater?utm_source=api>`
+:mtgtip:`Blinding Souleater<https://cards.scryfall.io/border_crop/front/2/2/2220e9dd-f1d8-4a69-9df9-1322e4a5cdc7.jpg?1562876039|https://scryfall.com/card/nph/131/blinding-souleater?utm_source=api>`
    |mana_wp|, |tap|: Tap target creature. (|mana_wp| can be paid with either |mana_w| or 2 life.)
 
 
-:mtgtip:`Caged Sun<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/0/506597cc-48f9-4098-a229-2b3b3c0de944.jpg?1562877490|https://scryfall.com/card/nph/132/caged-sun?utm_source=api>`
+:mtgtip:`Caged Sun<https://cards.scryfall.io/border_crop/front/5/0/506597cc-48f9-4098-a229-2b3b3c0de944.jpg?1562877490|https://scryfall.com/card/nph/132/caged-sun?utm_source=api>`
    As Caged Sun enters the battlefield, choose a color.
 
    Creatures you control of the chosen color get +1/+1.
@@ -777,53 +777,53 @@
    Whenever a land's ability causes you to add one or more mana of the chosen color, add one additional mana of that color.
 
 
-:mtgtip:`Conversion Chamber<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/4/14d5a8f3-05b6-4bb7-bbe1-e753e22cbb50.jpg?1562875648|https://scryfall.com/card/nph/133/conversion-chamber?utm_source=api>`
+:mtgtip:`Conversion Chamber<https://cards.scryfall.io/border_crop/front/1/4/14d5a8f3-05b6-4bb7-bbe1-e753e22cbb50.jpg?1562875648|https://scryfall.com/card/nph/133/conversion-chamber?utm_source=api>`
    |mana_2|, |tap|: Exile target artifact card from a graveyard. Put a charge counter on Conversion Chamber.
 
    |mana_2|, |tap|, Remove a charge counter from Conversion Chamber: Create a 3/3 colorless Phyrexian Golem artifact creature token.
 
 
-:mtgtip:`Darksteel Relic<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/f/0fd8c918-62d9-41be-a3e1-32ddac71b7e7.jpg?1562875578|https://scryfall.com/card/nph/134/darksteel-relic?utm_source=api>`
+:mtgtip:`Darksteel Relic<https://cards.scryfall.io/border_crop/front/0/f/0fd8c918-62d9-41be-a3e1-32ddac71b7e7.jpg?1562875578|https://scryfall.com/card/nph/134/darksteel-relic?utm_source=api>`
    Indestructible (Effects that say "destroy" don't destroy this artifact.)
 
 
-:mtgtip:`Etched Monstrosity<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/f/ff9c4451-dd17-4859-a31d-62ed2430c63c.jpg?1562883139|https://scryfall.com/card/nph/135/etched-monstrosity?utm_source=api>`
+:mtgtip:`Etched Monstrosity<https://cards.scryfall.io/border_crop/front/f/f/ff9c4451-dd17-4859-a31d-62ed2430c63c.jpg?1562883139|https://scryfall.com/card/nph/135/etched-monstrosity?utm_source=api>`
    Etched Monstrosity enters the battlefield with five -1/-1 counters on it.
 
    |mana_w|\ |mana_u|\ |mana_b|\ |mana_r|\ |mana_g|, Remove five -1/-1 counters from Etched Monstrosity: Target player draws three cards.
 
 
-:mtgtip:`Gremlin Mine<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/c/ccde7ebb-90de-4174-a1c5-75fc9384deaa.jpg?1562881598|https://scryfall.com/card/nph/136/gremlin-mine?utm_source=api>`
+:mtgtip:`Gremlin Mine<https://cards.scryfall.io/border_crop/front/c/c/ccde7ebb-90de-4174-a1c5-75fc9384deaa.jpg?1562881598|https://scryfall.com/card/nph/136/gremlin-mine?utm_source=api>`
    |mana_1|, |tap|, Sacrifice Gremlin Mine: It deals 4 damage to target artifact creature.
 
    |mana_1|, |tap|, Sacrifice Gremlin Mine: Remove up to four charge counters from target noncreature artifact.
 
 
-:mtgtip:`Hex Parasite<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/3/43502078-5349-4e29-8e7d-277654a9a71e.jpg?1562877073|https://scryfall.com/card/nph/137/hex-parasite?utm_source=api>`
+:mtgtip:`Hex Parasite<https://cards.scryfall.io/border_crop/front/4/3/43502078-5349-4e29-8e7d-277654a9a71e.jpg?1562877073|https://scryfall.com/card/nph/137/hex-parasite?utm_source=api>`
    |mana_x|\ |mana_bp|: Remove up to X counters from target permanent. For each counter removed this way, Hex Parasite gets +1/+0 until end of turn. (|mana_bp| can be paid with either |mana_b| or 2 life.)
 
 
-:mtgtip:`Hovermyr<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/5/95e4e445-8333-4cb4-b4fb-80957fae0b97.jpg?1562879915|https://scryfall.com/card/nph/138/hovermyr?utm_source=api>`
+:mtgtip:`Hovermyr<https://cards.scryfall.io/border_crop/front/9/5/95e4e445-8333-4cb4-b4fb-80957fae0b97.jpg?1562879915|https://scryfall.com/card/nph/138/hovermyr?utm_source=api>`
    Flying, vigilance
 
 
-:mtgtip:`Immolating Souleater<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/b/abbaf916-067d-4834-a55c-b400fe0d8c1f.jpg?1562880643|https://scryfall.com/card/nph/139/immolating-souleater?utm_source=api>`
+:mtgtip:`Immolating Souleater<https://cards.scryfall.io/border_crop/front/a/b/abbaf916-067d-4834-a55c-b400fe0d8c1f.jpg?1562880643|https://scryfall.com/card/nph/139/immolating-souleater?utm_source=api>`
    |mana_rp|: Immolating Souleater gets +1/+0 until end of turn. (|mana_rp| can be paid with either |mana_r| or 2 life.)
 
 
-:mtgtip:`Insatiable Souleater<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/7/171d5213-5bb4-4f5b-9ddd-e2a7ac092ec6.jpg?1562875704|https://scryfall.com/card/nph/140/insatiable-souleater?utm_source=api>`
+:mtgtip:`Insatiable Souleater<https://cards.scryfall.io/border_crop/front/1/7/171d5213-5bb4-4f5b-9ddd-e2a7ac092ec6.jpg?1562875704|https://scryfall.com/card/nph/140/insatiable-souleater?utm_source=api>`
    |mana_gp|: Insatiable Souleater gains trample until end of turn. (|mana_gp| can be paid with either |mana_g| or 2 life.)
 
 
-:mtgtip:`Isolation Cell<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/5/c5e72c64-cb0e-4a04-97d0-3537bb0420cd.jpg?1562881408|https://scryfall.com/card/nph/141/isolation-cell?utm_source=api>`
+:mtgtip:`Isolation Cell<https://cards.scryfall.io/border_crop/front/c/5/c5e72c64-cb0e-4a04-97d0-3537bb0420cd.jpg?1562881408|https://scryfall.com/card/nph/141/isolation-cell?utm_source=api>`
    Whenever an opponent casts a creature spell, that player loses 2 life unless they pay |mana_2|.
 
 
-:mtgtip:`Kiln Walker<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/1/91678632-ebe6-41b6-9250-cd3ffd63663b.jpg?1562879778|https://scryfall.com/card/nph/142/kiln-walker?utm_source=api>`
+:mtgtip:`Kiln Walker<https://cards.scryfall.io/border_crop/front/9/1/91678632-ebe6-41b6-9250-cd3ffd63663b.jpg?1562879778|https://scryfall.com/card/nph/142/kiln-walker?utm_source=api>`
    Whenever Kiln Walker attacks, it gets +3/+0 until end of turn.
 
 
-:mtgtip:`Lashwrithe<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/c/8c418159-b5d1-48e9-9a31-707f49d6733b.jpg?1562879552|https://scryfall.com/card/nph/143/lashwrithe?utm_source=api>`
+:mtgtip:`Lashwrithe<https://cards.scryfall.io/border_crop/front/8/c/8c418159-b5d1-48e9-9a31-707f49d6733b.jpg?1562879552|https://scryfall.com/card/nph/143/lashwrithe?utm_source=api>`
    Living weapon (When this Equipment enters the battlefield, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)
 
    Equipped creature gets +1/+1 for each Swamp you control.
@@ -831,19 +831,19 @@
    Equip |mana_bp|\ |mana_bp| (|mana_bp| can be paid with either |mana_b| or 2 life.)
 
 
-:mtgtip:`Mindcrank<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/1/d13a5ae0-d76a-4430-98c1-47a19e615e2c.jpg?1562881729|https://scryfall.com/card/nph/144/mindcrank?utm_source=api>`
+:mtgtip:`Mindcrank<https://cards.scryfall.io/border_crop/front/d/1/d13a5ae0-d76a-4430-98c1-47a19e615e2c.jpg?1562881729|https://scryfall.com/card/nph/144/mindcrank?utm_source=api>`
    Whenever an opponent loses life, that player mills that many cards. (Damage causes loss of life.)
 
 
-:mtgtip:`Mycosynth Wellspring<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/097f7ab8-01fa-4699-943a-32075aecebc2.jpg?1562875396|https://scryfall.com/card/nph/145/mycosynth-wellspring?utm_source=api>`
+:mtgtip:`Mycosynth Wellspring<https://cards.scryfall.io/border_crop/front/0/9/097f7ab8-01fa-4699-943a-32075aecebc2.jpg?1562875396|https://scryfall.com/card/nph/145/mycosynth-wellspring?utm_source=api>`
    When Mycosynth Wellspring enters the battlefield or is put into a graveyard from the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 
 
-:mtgtip:`Myr Superion<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/9/290c6036-02a3-43fa-b0d4-af3818794c3c.jpg?1566429927|https://scryfall.com/card/nph/146/myr-superion?utm_source=api>`
+:mtgtip:`Myr Superion<https://cards.scryfall.io/border_crop/front/2/9/290c6036-02a3-43fa-b0d4-af3818794c3c.jpg?1566429927|https://scryfall.com/card/nph/146/myr-superion?utm_source=api>`
    Spend only mana produced by creatures to cast this spell.
 
 
-:mtgtip:`Necropouncer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/e/4ed51dbc-bbec-4c78-a71e-26322a8d2439.jpg?1562877453|https://scryfall.com/card/nph/147/necropouncer?utm_source=api>`
+:mtgtip:`Necropouncer<https://cards.scryfall.io/border_crop/front/4/e/4ed51dbc-bbec-4c78-a71e-26322a8d2439.jpg?1562877453|https://scryfall.com/card/nph/147/necropouncer?utm_source=api>`
    Living weapon (When this Equipment enters the battlefield, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)
 
    Equipped creature gets +3/+1 and has haste.
@@ -851,55 +851,55 @@
    Equip |mana_2|
 
 
-:mtgtip:`Omen Machine<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/f/0ff4e35f-2a82-4d3c-86c5-ae05a5abc4d7.jpg?1562875579|https://scryfall.com/card/nph/148/omen-machine?utm_source=api>`
+:mtgtip:`Omen Machine<https://cards.scryfall.io/border_crop/front/0/f/0ff4e35f-2a82-4d3c-86c5-ae05a5abc4d7.jpg?1562875579|https://scryfall.com/card/nph/148/omen-machine?utm_source=api>`
    Players can't draw cards.
 
    At the beginning of each player's draw step, that player exiles the top card of their library. If it's a land card, the player puts it onto the battlefield. Otherwise, the player casts it without paying its mana cost if able.
 
 
-:mtgtip:`Pestilent Souleater<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/0/a069cc07-55eb-4ddb-a548-cbf463d078d3.jpg?1562880255|https://scryfall.com/card/nph/149/pestilent-souleater?utm_source=api>`
+:mtgtip:`Pestilent Souleater<https://cards.scryfall.io/border_crop/front/a/0/a069cc07-55eb-4ddb-a548-cbf463d078d3.jpg?1562880255|https://scryfall.com/card/nph/149/pestilent-souleater?utm_source=api>`
    |mana_bp|: Pestilent Souleater gains infect until end of turn. (|mana_bp| can be paid with either |mana_b| or 2 life. A creature with infect deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
 
 
-:mtgtip:`Phyrexian Hulk<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/6/1687b5a7-7013-409a-ba8d-9cd8b5bb08f3.jpg?1562875698|https://scryfall.com/card/nph/150/phyrexian-hulk?utm_source=api>`
+:mtgtip:`Phyrexian Hulk<https://cards.scryfall.io/border_crop/front/1/6/1687b5a7-7013-409a-ba8d-9cd8b5bb08f3.jpg?1562875698|https://scryfall.com/card/nph/150/phyrexian-hulk?utm_source=api>`
    
 
 
-:mtgtip:`Pristine Talisman<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/3/b31d96cf-7276-46c4-ad17-d6a5c85f1315.jpg?1562880830|https://scryfall.com/card/nph/151/pristine-talisman?utm_source=api>`
+:mtgtip:`Pristine Talisman<https://cards.scryfall.io/border_crop/front/b/3/b31d96cf-7276-46c4-ad17-d6a5c85f1315.jpg?1562880830|https://scryfall.com/card/nph/151/pristine-talisman?utm_source=api>`
    |tap|: Add |colorless|. You gain 1 life.
 
 
-:mtgtip:`Shrine of Boundless Growth<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/2/b2ec7b95-667f-43ed-b310-b657befd55a2.jpg?1562880824|https://scryfall.com/card/nph/152/shrine-of-boundless-growth?utm_source=api>`
+:mtgtip:`Shrine of Boundless Growth<https://cards.scryfall.io/border_crop/front/b/2/b2ec7b95-667f-43ed-b310-b657befd55a2.jpg?1562880824|https://scryfall.com/card/nph/152/shrine-of-boundless-growth?utm_source=api>`
    At the beginning of your upkeep or whenever you cast a green spell, put a charge counter on Shrine of Boundless Growth.
 
    |tap|, Sacrifice Shrine of Boundless Growth: Add |colorless| for each charge counter on Shrine of Boundless Growth.
 
 
-:mtgtip:`Shrine of Burning Rage<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/1/d1a8afef-fa50-4aeb-94de-a4d90b1e5631.jpg?1562881740|https://scryfall.com/card/nph/153/shrine-of-burning-rage?utm_source=api>`
+:mtgtip:`Shrine of Burning Rage<https://cards.scryfall.io/border_crop/front/d/1/d1a8afef-fa50-4aeb-94de-a4d90b1e5631.jpg?1562881740|https://scryfall.com/card/nph/153/shrine-of-burning-rage?utm_source=api>`
    At the beginning of your upkeep or whenever you cast a red spell, put a charge counter on Shrine of Burning Rage.
 
    |mana_3|, |tap|, Sacrifice Shrine of Burning Rage: It deals damage equal to the number of charge counters on it to any target.
 
 
-:mtgtip:`Shrine of Limitless Power<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/1/61873223-f378-4478-9cf3-f1326eb76834.jpg?1562878168|https://scryfall.com/card/nph/154/shrine-of-limitless-power?utm_source=api>`
+:mtgtip:`Shrine of Limitless Power<https://cards.scryfall.io/border_crop/front/6/1/61873223-f378-4478-9cf3-f1326eb76834.jpg?1562878168|https://scryfall.com/card/nph/154/shrine-of-limitless-power?utm_source=api>`
    At the beginning of your upkeep or whenever you cast a black spell, put a charge counter on Shrine of Limitless Power.
 
    |mana_4|, |tap|, Sacrifice Shrine of Limitless Power: Target player discards a card for each charge counter on Shrine of Limitless Power.
 
 
-:mtgtip:`Shrine of Loyal Legions<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/1/d13563c7-abe0-4760-9b4c-841de47dbc46.jpg?1562881728|https://scryfall.com/card/nph/155/shrine-of-loyal-legions?utm_source=api>`
+:mtgtip:`Shrine of Loyal Legions<https://cards.scryfall.io/border_crop/front/d/1/d13563c7-abe0-4760-9b4c-841de47dbc46.jpg?1562881728|https://scryfall.com/card/nph/155/shrine-of-loyal-legions?utm_source=api>`
    At the beginning of your upkeep or whenever you cast a white spell, put a charge counter on Shrine of Loyal Legions.
 
    |mana_3|, |tap|, Sacrifice Shrine of Loyal Legions: Create a 1/1 colorless Phyrexian Myr artifact creature token for each charge counter on Shrine of Loyal Legions.
 
 
-:mtgtip:`Shrine of Piercing Vision<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/b/9b150924-f83c-410e-aaab-ff2d06c9d356.jpg?1562880090|https://scryfall.com/card/nph/156/shrine-of-piercing-vision?utm_source=api>`
+:mtgtip:`Shrine of Piercing Vision<https://cards.scryfall.io/border_crop/front/9/b/9b150924-f83c-410e-aaab-ff2d06c9d356.jpg?1562880090|https://scryfall.com/card/nph/156/shrine-of-piercing-vision?utm_source=api>`
    At the beginning of your upkeep or whenever you cast a blue spell, put a charge counter on Shrine of Piercing Vision.
 
    |tap|, Sacrifice Shrine of Piercing Vision: Look at the top X cards of your library, where X is the number of charge counters on Shrine of Piercing Vision. Put one of those cards into your hand and the rest on the bottom of your library in any order.
 
 
-:mtgtip:`Sickleslicer<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/4/d44746d5-3d34-4480-b4cd-c66de72f0622.jpg?1562881832|https://scryfall.com/card/nph/157/sickleslicer?utm_source=api>`
+:mtgtip:`Sickleslicer<https://cards.scryfall.io/border_crop/front/d/4/d44746d5-3d34-4480-b4cd-c66de72f0622.jpg?1562881832|https://scryfall.com/card/nph/157/sickleslicer?utm_source=api>`
    Living weapon (When this Equipment enters the battlefield, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)
 
    Equipped creature gets +2/+2.
@@ -907,21 +907,21 @@
    Equip |mana_4|
 
 
-:mtgtip:`Soul Conduit<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/a/aa7e4989-cba7-4e0c-bb9d-140af6c006c3.jpg?1562880605|https://scryfall.com/card/nph/158/soul-conduit?utm_source=api>`
+:mtgtip:`Soul Conduit<https://cards.scryfall.io/border_crop/front/a/a/aa7e4989-cba7-4e0c-bb9d-140af6c006c3.jpg?1562880605|https://scryfall.com/card/nph/158/soul-conduit?utm_source=api>`
    |mana_6|, |tap|: Two target players exchange life totals.
 
 
-:mtgtip:`Spellskite<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/a/1a84bada-ed6a-4e97-8a0c-05b7cb32d66f.jpg?1562875794|https://scryfall.com/card/nph/159/spellskite?utm_source=api>`
+:mtgtip:`Spellskite<https://cards.scryfall.io/border_crop/front/1/a/1a84bada-ed6a-4e97-8a0c-05b7cb32d66f.jpg?1562875794|https://scryfall.com/card/nph/159/spellskite?utm_source=api>`
    |mana_up|: Change a target of target spell or ability to Spellskite. (|mana_up| can be paid with either |mana_u| or 2 life.)
 
 
-:mtgtip:`Surge Node<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/2/12414fc0-bb24-4244-baf4-adad0125376e.jpg?1562875612|https://scryfall.com/card/nph/160/surge-node?utm_source=api>`
+:mtgtip:`Surge Node<https://cards.scryfall.io/border_crop/front/1/2/12414fc0-bb24-4244-baf4-adad0125376e.jpg?1562875612|https://scryfall.com/card/nph/160/surge-node?utm_source=api>`
    Surge Node enters the battlefield with six charge counters on it.
 
    |mana_1|, |tap|, Remove a charge counter from Surge Node: Put a charge counter on target artifact.
 
 
-:mtgtip:`Sword of War and Peace<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/a/fab5bc6c-8943-4078-866a-5d02f9be0eef.jpg?1562883003|https://scryfall.com/card/nph/161/sword-of-war-and-peace?utm_source=api>`
+:mtgtip:`Sword of War and Peace<https://cards.scryfall.io/border_crop/front/f/a/fab5bc6c-8943-4078-866a-5d02f9be0eef.jpg?1562883003|https://scryfall.com/card/nph/161/sword-of-war-and-peace?utm_source=api>`
    Equipped creature gets +2/+2 and has protection from red and from white.
 
    Whenever equipped creature deals combat damage to a player, Sword of War and Peace deals damage to that player equal to the number of cards in their hand and you gain 1 life for each card in your hand.
@@ -929,40 +929,40 @@
    Equip |mana_2|
 
 
-:mtgtip:`Torpor Orb<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/5/953610f6-ea96-4e71-969f-50ecac09c091.jpg?1562879912|https://scryfall.com/card/nph/162/torpor-orb?utm_source=api>`
+:mtgtip:`Torpor Orb<https://cards.scryfall.io/border_crop/front/9/5/953610f6-ea96-4e71-969f-50ecac09c091.jpg?1562879912|https://scryfall.com/card/nph/162/torpor-orb?utm_source=api>`
    Creatures entering the battlefield don't cause abilities to trigger.
 
 
-:mtgtip:`Trespassing Souleater<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/5/b5263269-9f64-43de-9e82-408644dbc628.jpg?1562880897|https://scryfall.com/card/nph/163/trespassing-souleater?utm_source=api>`
+:mtgtip:`Trespassing Souleater<https://cards.scryfall.io/border_crop/front/b/5/b5263269-9f64-43de-9e82-408644dbc628.jpg?1562880897|https://scryfall.com/card/nph/163/trespassing-souleater?utm_source=api>`
    |mana_up|: Trespassing Souleater can't be blocked this turn. (|mana_up| can be paid with either |mana_u| or 2 life.)
 
 
-:mtgtip:`Unwinding Clock<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/9/495d520b-7560-4ecb-ae62-143eeec5682f.jpg?1562877280|https://scryfall.com/card/nph/164/unwinding-clock?utm_source=api>`
+:mtgtip:`Unwinding Clock<https://cards.scryfall.io/border_crop/front/4/9/495d520b-7560-4ecb-ae62-143eeec5682f.jpg?1562877280|https://scryfall.com/card/nph/164/unwinding-clock?utm_source=api>`
    Untap all artifacts you control during each other player's untap step.
 
 
-:mtgtip:`Phyrexia's Core<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/b/db36c8e7-0c13-4f0d-9947-68cb0e9ea239.jpg?1562881998|https://scryfall.com/card/nph/165/phyrexias-core?utm_source=api>`
+:mtgtip:`Phyrexia's Core<https://cards.scryfall.io/border_crop/front/d/b/db36c8e7-0c13-4f0d-9947-68cb0e9ea239.jpg?1562881998|https://scryfall.com/card/nph/165/phyrexias-core?utm_source=api>`
    |tap|: Add |colorless|.
 
    |mana_1|, |tap|, Sacrifice an artifact: You gain 1 life.
 
 
-:mtgtip:`Plains<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/b/db0c6f01-42be-40a1-becb-085f54750830.jpg?1562881997|https://scryfall.com/card/nph/166/plains?utm_source=api>`
+:mtgtip:`Plains<https://cards.scryfall.io/border_crop/front/d/b/db0c6f01-42be-40a1-becb-085f54750830.jpg?1562881997|https://scryfall.com/card/nph/166/plains?utm_source=api>`
    (|tap|: Add |mana_w|.)
 
 
-:mtgtip:`Island<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/1/61a25790-29ac-4fc6-afd8-9c4063f4284d.jpg?1562878170|https://scryfall.com/card/nph/168/island?utm_source=api>`
+:mtgtip:`Island<https://cards.scryfall.io/border_crop/front/6/1/61a25790-29ac-4fc6-afd8-9c4063f4284d.jpg?1562878170|https://scryfall.com/card/nph/168/island?utm_source=api>`
    (|tap|: Add |mana_u|.)
 
 
-:mtgtip:`Swamp<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/6/267d4321-4411-499c-a476-70c805abf02a.jpg?1562876116|https://scryfall.com/card/nph/170/swamp?utm_source=api>`
+:mtgtip:`Swamp<https://cards.scryfall.io/border_crop/front/2/6/267d4321-4411-499c-a476-70c805abf02a.jpg?1562876116|https://scryfall.com/card/nph/170/swamp?utm_source=api>`
    (|tap|: Add |mana_b|.)
 
 
-:mtgtip:`Mountain<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/a/9af1a73f-e2ab-4832-b9a0-5bd9643f4fd3.jpg?1562880088|https://scryfall.com/card/nph/172/mountain?utm_source=api>`
+:mtgtip:`Mountain<https://cards.scryfall.io/border_crop/front/9/a/9af1a73f-e2ab-4832-b9a0-5bd9643f4fd3.jpg?1562880088|https://scryfall.com/card/nph/172/mountain?utm_source=api>`
    (|tap|: Add |mana_r|.)
 
 
-:mtgtip:`Forest<https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/7/37a8d9ff-291a-4862-b2e8-3db520cc9ae4.jpg?1562876647|https://scryfall.com/card/nph/174/forest?utm_source=api>`
+:mtgtip:`Forest<https://cards.scryfall.io/border_crop/front/3/7/37a8d9ff-291a-4862-b2e8-3db520cc9ae4.jpg?1562876647|https://scryfall.com/card/nph/174/forest?utm_source=api>`
    (|tap|: Add |mana_g|.)
 
