@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2022.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-28 19:32+0200\n"
-"PO-Revision-Date: 2022-10-01 15:50+0000\n"
+"PO-Revision-Date: 2022-10-04 10:30+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/40k/pl/>\n"
 "Language: pl\n"
@@ -1009,16 +1009,12 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:241
-#, fuzzy
-#| msgid ""
-#| "Echo of the First Murder — When Drach'Nyen enters the battlefield, exile "
-#| "up to one target creature."
 msgid ""
 "Enmitic Exterminator — When Lokhust Heavy Destroyer enters the battlefield, "
 "each player sacrifices a creature."
 msgstr ""
-"Echo Pierwszego Mordu — Kiedy ten byt wejdzie na pole bitwy, wygnaj co "
-"najwyżej jednego wskazanego stwora."
+"Enmitycki Eksterminator — Kiedy ten byt wejdzie na pole bitwy, każdy gracz "
+"poświęca stwora."
 
 #: ../../40K.rst:243
 msgid ""
@@ -1027,6 +1023,10 @@ msgid ""
 "It gains haste. Exile it at the beginning of the next end step or if it "
 "would leave the battlefield. Unearth only as a sorcery.)"
 msgstr ""
+"Odkopanie |mana_5|\\ |mana_b|\\ |mana_b|\\ |mana_b| (|mana_5|\\ |mana_b|\\ "
+"|mana_b|\\ |mana_b|: Przywróć tę kartę z twojego cmentarza na pole bitwy. "
+"Zyskuje ona pośpiech. Wygnaj ją na początku najbliższego kroku końcowego lub "
+"gdyby miała opuścić pole bitwy. Aktywuj tylko jako obrzęd.)"
 
 #: ../../40K.rst:248
 msgid ""
@@ -1040,6 +1040,8 @@ msgid ""
 "Guardian Patrols — |mana_3|\\ |mana_b|, Sacrifice Lychguard: Return all "
 "legendary creature cards from your graveyard to your hand."
 msgstr ""
+"Strażnik Patroluje — |mana_3|\\ |mana_b|, poświeć ten byt: Przywróć "
+"wszystkie karty legendarnych stworów z twojego cmentarza do twojej ręki."
 
 #: ../../40K.rst:252
 msgid ""
@@ -1049,10 +1051,6 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:251
-#, fuzzy
-#| msgid ""
-#| "Chose target creature you control. Destroy all creatures with power less "
-#| "than that creature's power."
 msgid ""
 "Choose target creature you control. Destroy all creatures with power less "
 "than that creature's power."
@@ -1074,6 +1072,10 @@ msgid ""
 "|mana_x|. If you do, create X 2/2 black Astartes Warrior creature tokens "
 "with menace. X can't be greater than the amount of life you lost this turn."
 msgstr ""
+"Prymarcha Straży Śmierci — Na początku twojego kroku końcowego, możesz "
+"zapłacić |mana_x|. Jeśli tak zrobisz, stwór X żetonów czarnego stwora "
+"Wojownik Astartes 2/2 ze złowrogością. X nie może być większe niż liczba żyć "
+"straconych przez ciebie w tej turze."
 
 #: ../../40K.rst:264
 msgid ""
@@ -1087,6 +1089,8 @@ msgid ""
 "Synaptic Disintegrator — When Necron Deathmark enters the battlefield, "
 "destroy up to one target creature and target player mills three cards."
 msgstr ""
+"Synatypczny Dezintegrator — Kiedy ten byt wejdzie na pole bitwy, zniszcz co "
+"najwyżej jednego wskazanego stwora, a wskazany gracz mieli trzy karty."
 
 #: ../../40K.rst:268
 msgid ""
@@ -1100,6 +1104,8 @@ msgid ""
 "Relentless Mind — |mana_x|, |tap|, Tap X untapped artifacts you control: "
 "Target opponent loses X life."
 msgstr ""
+"Bezlitosny Umysł — |mana_x|, |tap|, przekręć X odkręconych artefaktów pod "
+"twoim władaniem: Wskazany przeciwnik traci X żyć."
 
 #: ../../40K.rst:272
 msgid ""
@@ -1147,6 +1153,8 @@ msgid ""
 "At the beginning of your upkeep, put two eon counters on Out of the Tombs, "
 "then mill cards equal to the number of eon counters on it."
 msgstr ""
+"Na początku twojego kroku utrzymania, umieść dwa znaczniki eonu na tym "
+"bycie, po czym zmiel tyle kart, ile jest na nim znaczników eonu."
 
 #: ../../40K.rst:283
 msgid ""
@@ -1154,6 +1162,9 @@ msgid ""
 "return a creature card from your graveyard to the battlefield. If you can't, "
 "you lose the game."
 msgstr ""
+"Jeśli miałbyś dobrać kartę gdy twoja biblioteka nie zawiera kart, zamiast "
+"tego przywróć kartę stwora z twojego cmentarza na pole bitwy. Jeśli nie "
+"możesz, przegrywasz grę."
 
 #: ../../40K.rst:290
 msgid ""
@@ -1163,10 +1174,6 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:289
-#, fuzzy
-#| msgid ""
-#| "Rot Fly — If an opponent would game life, that player loses that much "
-#| "life instead."
 msgid ""
 "Rot Fly — If an opponent would gain life, that player loses that much life "
 "instead."
@@ -1182,17 +1189,14 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:295
-#, fuzzy
-#| msgid ""
-#| "Search your library for an artifact card, reveal it, put it into your "
-#| "hand, then shuffle."
 msgid ""
 "Dynastic Advisor — When Plasmancer enters the battlefield, search your "
 "library for a basic Swamp card, reveal it, put it into your hand, then "
 "shuffle."
 msgstr ""
-"Wyszukaj w twojej bibliotece kartę artefaktu, ujawnij ją, umieść ją w twojej "
-"ręce, po czym przetasuj."
+"Doradca Dynastii — Kiedy ten byt wejdzie na pole bitwy, wyszukaj w twojej "
+"bibliotece kartę bazowego Bagna, ujawnij ją, umieść ją w twojej ręce, po "
+"czym przetasuj."
 
 #: ../../40K.rst:302
 msgid ""
@@ -1226,22 +1230,16 @@ msgid "When Primaris Eliminator enters the battlefield, choose one —"
 msgstr "Kiedy ten byt wejdzie na pole bitwy, wybierz jedno —"
 
 #: ../../40K.rst:307
-#, fuzzy
-#| msgid "Destroy target creature."
 msgid "Executioner Round — Destroy target creature."
-msgstr "Zniszcz wskazanego stwora."
+msgstr "Pocisk Egzekutora — Zniszcz wskazanego stwora."
 
 #: ../../40K.rst:309
-#, fuzzy
-#| msgid ""
-#| "Neurotraumal Rod — Whenever a creature attacks you, it gets -1/-0 until "
-#| "end of turn."
 msgid ""
 "Hyperfang Round — Creatures target player controls get -2/-2 until end of "
 "turn."
 msgstr ""
-"Pręt Neurotraumatyczny — Ilekroć stwór zaatakuje ciebie, do końca tury "
-"dostaje on -1/-0."
+"Pocisk Odłamkowy — Stwory pod władaniem wskazanego gracza do końca tury "
+"dostają -2/-2."
 
 #: ../../40K.rst:316
 msgid ""
@@ -1256,6 +1254,9 @@ msgid ""
 "you control is put into a graveyard from the battlefield or is put into "
 "exile from the battlefield, target opponent loses 1 life and you gain 1 life."
 msgstr ""
+"Zwiastun Rozpaczy — Ilekroć ten byt lub inny nieżetonowy artefakt pod twoim "
+"władaniem trafi z pola bitwy do cmentarza lub z pola bitwy na wygnanie, "
+"wskazany przeciwnik traci 1 życie, a ty zyskaj 1 życie."
 
 #: ../../40K.rst:322
 msgid ""
@@ -3591,6 +3592,9 @@ msgid ""
 "four cards, then return a creature card from your graveyard to the "
 "battlefield. Activate only as a sorcery."
 msgstr ""
+"|mana_2|\\ |mana_b|\\ |mana_b|\\ |mana_b|, |tap|, wygnaj ten byt: Zmiel "
+"cztery karty, po czym przywróć kartę stwora z twojego cmentarza na pole "
+"bitwy. Aktywuj tylko jako obrzęd."
 
 #: ../../40K.rst:1058
 msgid ""
