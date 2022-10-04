@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2022.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-28 19:32+0200\n"
-"PO-Revision-Date: 2022-10-04 10:30+0000\n"
+"PO-Revision-Date: 2022-10-04 22:11+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/40k/pl/>\n"
 "Language: pl\n"
@@ -1266,16 +1266,12 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:319
-#, fuzzy
-#| msgid ""
-#| "Phaeron — Whenever one or more artifact cards leave your graveyard, "
-#| "create two 2/2 black Necron Warrior artifact creature token."
 msgid ""
 "Phalanx Commander — When Royal Warden enters the battlefield, create two "
 "tapped 2/2 black Necron Warrior artifact creature tokens."
 msgstr ""
-"Phaeron — Ilekroć jeden lub więcej kart artefaktów opuści twój cmentarz, "
-"stwórz dwa żetony czarnego artefaktowego stwora Necron Wojownik 2/2."
+"Dowódca Falangi — Kiedy ten byt wejdzie na pole bitwy, stwórz dwa "
+"przekręcone żetony czarnego artefaktowego stwora Necron Wojownik 2/2."
 
 #: ../../40K.rst:321
 msgid ""
@@ -1297,16 +1293,12 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:327
-#, fuzzy
-#| msgid ""
-#| "Xenos Cunning — Whenever a creature you control with a counter on it "
-#| "dies, draw a card."
 msgid ""
 "Blood Chalice — Whenever another creature you control dies, Sanguinary "
 "Priest deals 1 damage to any target."
 msgstr ""
-"Przebiegłość Obcych — Ilekroć umrze stwór pod twoim władaniem mający "
-"znacznik, dobierz kartę."
+"Puchar Krwi — Ilekroć umrze inny stwór pod twoim władaniem, niniejszy zadaje "
+"wskazanemu celowi 1 obrażenie."
 
 #: ../../40K.rst:334
 msgid ""
@@ -1316,18 +1308,12 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:333
-#, fuzzy
-#| msgid ""
-#| "Rapid Regeneration — The Swarmlord enters the battlefield with two +1/+1 "
-#| "counters on it for each time you've cast your commander from the command "
-#| "zone this game."
 msgid ""
 "Elite Troops — Sautekh Immortal enters the battlefield with a +1/+1 counter "
 "on it for each creature that died this turn."
 msgstr ""
-"Szybka Regeneracja — Ten byt wchodzi na pole bitwy mając po dwa znaczniki +1/"
-"+1 za każdy przypadek rzucenia przez ciebie twojego dowódcy ze strefy "
-"dowodzenia w tej grze."
+"Elitarne Oddziały — Ten byt wchodzi na pole bitwy mając znacznik +1/+1 za "
+"każdego stwora, który umarł w tej turze."
 
 #: ../../40K.rst:340
 msgid ""
@@ -1343,6 +1329,9 @@ msgid ""
 "cast it, target opponent loses half their life, rounded up. You gain life "
 "equal to the life lost this way."
 msgstr ""
+"Odpływ Życia — Kiedy ten byt wejdzie na pole bitwy, jeśli go rzuciłeś, "
+"wskazany przeciwnik traci połowę swoich żyć, zaokrąglając w górę. Zyskaj "
+"życia równe życiom straconym w ten sposób."
 
 #: ../../40K.rst:348
 msgid ""
@@ -1357,6 +1346,8 @@ msgid ""
 "Sphere of the Void Dragon — Whenever Shard of the Void Dragon attacks, each "
 "opponent sacrifices a nonland permanent."
 msgstr ""
+"Sfera Smoka Próżni — Ilekroć ten byt zaatakuje, każdy przeciwnik poświęca "
+"nielądowy byt."
 
 #: ../../40K.rst:347
 msgid ""
@@ -1364,6 +1355,8 @@ msgid ""
 "battlefield or is put into exile from the battlefield, put two +1/+1 "
 "counters on Shard of the Void Dragon."
 msgstr ""
+"Wchłonięcie Materii — Ilekroć artefakt trafia z pola bitwy do cmentarza lub "
+"z pola bitwy na wygnanie, umieść dwa znaczniki +1/+1 na niniejszym."
 
 #: ../../40K.rst:354
 msgid ""
@@ -1396,16 +1389,12 @@ msgid "Menace"
 msgstr "Złowrogość"
 
 #: ../../40K.rst:359
-#, fuzzy
-#| msgid ""
-#| "Unquestionable Wisdom — Other creatures you control get +1/+0 and have "
-#| "vigilance."
 msgid ""
 "Command Protocols — Other artifact creatures you control get +1/+0 and have "
 "menace."
 msgstr ""
-"Niekwestionowalna Mądrość — Inne stwory pod twoim władaniem dostają +1/+0 i "
-"mają czujność."
+"Protokoły Dowodzenia — Inne artefaktowe stwory pod twoim władaniem dostają +"
+"1/+0 i mają złowrogość."
 
 #: ../../40K.rst:366
 msgid ""
@@ -1458,6 +1447,9 @@ msgid ""
 "number of artifact creature cards with total mana value 6 or less from your "
 "graveyard to the battlefield."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, zmiel trzy karty, po czym przywróć z "
+"twojego cmentarza na pole bitwy dowolną liczbę kart artefaktowych stworów o "
+"łącznym skrócie many 6 lub mniejszym."
 
 #: ../../40K.rst:380
 msgid ""
@@ -1483,10 +1475,13 @@ msgid ""
 "gain life equal to the number of artifacts you control. Exile Their Number "
 "Is Legion."
 msgstr ""
+"Stwórz X przekręconych żetonów czarnego artefaktowego stwora Necron Wojownik "
+"2/2, po czym zyskaj życia równe liczbie artefaktów pod twoim władaniem. "
+"Wygnaj ten czar."
 
 #: ../../40K.rst:385
 msgid "You may cast Their Number Is Legion from your graveyard."
-msgstr ""
+msgstr "Możesz rzucić tę kartę z twojego cmentarza."
 
 #: ../../40K.rst:394
 msgid ""
@@ -1501,6 +1496,8 @@ msgid ""
 "equal to the number of creatures they control unless they sacrifice a "
 "creature."
 msgstr ""
+"Ilekroć niniejszy zada graczowi obrażenia bojowe, ów gracz traci życia równe "
+"liczbie stworów pod jego władaniem, chyba że poświęci stwora."
 
 #: ../../40K.rst:393
 msgid "Unearth |mana_6|\\ |mana_b|\\ |mana_b|"
@@ -1518,6 +1515,8 @@ msgid ""
 "Prismatic Gallery — As long as Trazyn the Infinite is on the battlefield, it "
 "has all activated abilities of all artifact cards in your graveyard."
 msgstr ""
+"Pryzmatyczna Galeria — O ile ta karta jest na polu bitwy, ma wszystkie "
+"aktywowane zdolności wszystkich kart artefaktów w twoim cmentarzu."
 
 #: ../../40K.rst:408
 msgid ""
@@ -1527,17 +1526,12 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:405
-#, fuzzy
-#| msgid ""
-#| "Prince of Chaos — When Be'lakor, the Dark Master enters the battlefield, "
-#| "you draw X cards and you lose X life, where X is the number of Demons you "
-#| "control."
 msgid ""
 "Dynastic Codes — When Triarch Praetorian enters the battlefield from a "
 "graveyard, you draw two cards and you lose 2 life."
 msgstr ""
-"Książę Chaosu — Kiedy ten byt wejdzie na pole bitwy, dobierz X kart i strać "
-"X żyć, gdzie X jest liczbą Demonów pod twoim władaniem."
+"Kody Dynastyczne — Kiedy ten byt wejdzie na pole bitwy z cmentarza, dobierz "
+"dwie karty i strać 2 życia."
 
 #: ../../40K.rst:407
 msgid ""
@@ -1546,6 +1540,10 @@ msgid ""
 "the next end step or if it would leave the battlefield. Unearth only as a "
 "sorcery.)"
 msgstr ""
+"Odkopanie |mana_4|\\ |mana_b| (|mana_4|\\ |mana_b|: Przywróć tę kartę z "
+"twojego cmentarza na pole bitwy. Zyskuje ona pośpiech. Wygnaj ją na początku "
+"najbliższego kroku końcowego lub gdyby miała opuścić pole bitwy. Aktywuj "
+"tylko jako obrzęd.)"
 
 #: ../../40K.rst:414
 msgid ""
@@ -1564,7 +1562,7 @@ msgstr ""
 
 #: ../../40K.rst:413
 msgid "Creatures attacking the last chosen player have menace."
-msgstr ""
+msgstr "Stwory atakujące ostatnio wybranego gracza mają złowrogość."
 
 #: ../../40K.rst:420
 msgid ""
@@ -1598,11 +1596,11 @@ msgstr ""
 
 #: ../../40K.rst:425
 msgid "I — You draw three cards and you lose 3 life."
-msgstr ""
+msgstr "I — Dobierz trzy karty i strać 3 życia."
 
 #: ../../40K.rst:427
 msgid "II — Mill three cards."
-msgstr ""
+msgstr "II — Zmiel trzy karty."
 
 #: ../../40K.rst:429
 msgid ""
@@ -1611,6 +1609,10 @@ msgid ""
 "necrodermis counter on it. They're artifacts in addition to their other "
 "types."
 msgstr ""
+"III — Wybierz co najwyżej trzy wskazane karty stworów w twoim cmentarzu o "
+"łącznym skrócie many 8 lub mniej. Przywróć każdą z nich na pole bitwy ze "
+"znacznikiem nekrodermii. Są one dodatkowo artefaktami oprócz swoich innych "
+"typów."
 
 #: ../../40K.rst:434
 msgid ""
@@ -1644,6 +1646,11 @@ msgid ""
 "rest into your library. If that creature is a Demon, it deals damage equal "
 "to its power to each opponent."
 msgstr ""
+"Niszczycielskie Wstąpienie — Kiedy niniejszy zada graczowi obrażenia bojowe, "
+"poświęć go. Jeśli tak zrobisz, ujawniaj karty z wierzchu twojej biblioteki "
+"aż ujawnisz kartę stwora. Umieść ową kartę na polu bitwy, po czym przetasuj "
+"resztę twojej biblioteki. Jeśli ów stwór jest Demonem, zadaje on każdemu "
+"przeciwnikowi obrażenia równe swojej sile."
 
 #: ../../40K.rst:446
 msgid ""
@@ -2254,6 +2261,8 @@ msgid ""
 "Chainsword — Whenever a creature an opponent controls dies, that player "
 "loses 2 life."
 msgstr ""
+"Mieczołańcuch — Ilekroć umrze stwór pod władaniem przeciwnika, ów gracz "
+"traci 2 życia."
 
 #: ../../40K.rst:648
 msgid ""
@@ -2296,20 +2305,16 @@ msgstr ""
 "Astartes 2/2 z czujnością."
 
 #: ../../40K.rst:653
-#, fuzzy
-#| msgid ""
-#| "|mana_3|, |tap|: Look at the top three cards of your library. You may "
-#| "reveal a creature card of the chosen type from among them and put it into "
-#| "your hand. Put the rest on the bottom of your library in a random order."
 msgid ""
 "Master of Machines — |tap|, Tap X untapped creatures you control: Look at "
 "the top X cards of your library. You may reveal an artifact card from among "
 "them and put it into your hand. Put the rest on the bottom of your library "
 "in a random order."
 msgstr ""
-"|mana_3|, |tap|: Spójrz na trzy wierzchnie karty twojej biblioteki. Możesz "
-"ujawnić spośród nich kartę stwora wybranego typu i umieścić ją w twojej "
-"ręce. Umieść pozostałe losowo na spodzie twojej biblioteki."
+"Władca Maszyn — |tap|, przekręć X odkręconych stworów pod twoim władaniem: "
+"Spójrz na X wierzchnich kart twojej biblioteki. Możesz ujawnić spośród nich "
+"kartę artefaktu i umieścić ją w twojej ręce. Umieść pozostałe losowo na "
+"spodzie twojej biblioteki."
 
 #: ../../40K.rst:664
 msgid ""
@@ -2319,25 +2324,23 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:659
-#, fuzzy
-#| msgid ""
-#| "Chapter Master — |mana_6|: Create two 2/2 white Astartes Warrior creature "
-#| "tokens with vigilance."
 msgid ""
 "I — Create a 2/2 white Astartes Warrior creature token with vigilance for "
 "each opponent you have."
 msgstr ""
-"Mistrz Rozdziału — |mana_6|: Stwórz dwa żetony białego stwora Wojownik "
-"Astartes 2/2 z czujnością."
+"I — Stwórz tyle żetonów białego stwora Wojownik Astartes 2/2 z czujnością, "
+"ilu masz przeciwników."
 
 #: ../../40K.rst:661
 msgid "II — Each opponent sacrifices a creature."
-msgstr ""
+msgstr "II — Każdy przeciwnik poświęca stwora."
 
 #: ../../40K.rst:663
 msgid ""
 "III — Draw two cards for each opponent who controls fewer creatures than you."
 msgstr ""
+"III — Dobierz po dwie karty za każdego przeciwnika mającego we władaniu "
+"mniej stworów niż ty."
 
 #: ../../40K.rst:670
 msgid ""
@@ -2376,6 +2379,10 @@ msgid ""
 "creature enters the battlefield, destroy up to one other target creature "
 "with the same name as this creature.\""
 msgstr ""
+"Polimorfina — Możesz zdecydować, że ten byt wejdzie na pole bitwy jako kopia "
+"dowolnego stwora na polu bitwy, ale ma on \"Kiedy ten stwór wejdzie na pole "
+"bitwy, zniszcz co najwyżej jednego wskazanego stwora o tej samej nazwie co "
+"niniejszy.\""
 
 #: ../../40K.rst:682
 msgid ""
@@ -2390,6 +2397,9 @@ msgid ""
 "opponent, choose a nonland permanent that player controls. Destroy one of "
 "them chosen at random."
 msgstr ""
+"Armata Bitewna — Kiedy ten byt wejdzie na pole bitwy lub umrze, za każdego "
+"przeciwnika, wybierz nielądowy byt pod władaniem owego gracza. Zniszcz jeden "
+"z nich wybrany losowo."
 
 #: ../../40K.rst:686
 msgid ""
@@ -2399,12 +2409,6 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:685
-#, fuzzy
-#| msgid ""
-#| "If you would draw a card, you may instead choose land or nonland and "
-#| "reveal cards from the top of your library until you reveal a card of the "
-#| "chosen kind. Put that card into your hand and put all other cards "
-#| "revealed this way on the bottom of your library in any order."
 msgid ""
 "Exile any number of target creatures controlled by different players. For "
 "each creature exiled this way, its controller reveals cards from the top of "
@@ -2412,10 +2416,10 @@ msgid ""
 "battlefield, then puts the rest on the bottom of their library in a random "
 "order."
 msgstr ""
-"Jeśli miałbyś dobrać kartę, możesz zamiast tego wybrać ląd lub nie-ląd u "
-"ujawnić karty z wierzchu twojej biblioteki aż ujawnisz kartę wybranego "
-"rodzaju. Umieść ową kartę w twojej ręce i umieść pozostałe karty ujawnione w "
-"ten sposób dowolnie na spodzie twojej biblioteki."
+"Wygnaj dowolną liczbę wskazanych stworów władanych przez różnych graczy. Za "
+"każdego stwora wygnanego w ten sposób, jego władca ujawnia karty z wierzchu "
+"swojej biblioteki dopóki nie ujawni karty stwora, umieszcza ową kartę na "
+"polu bitwy, po czym umieszcza pozostałe losowo na spodzie swojej biblioteki."
 
 #: ../../40K.rst:692
 msgid ""
@@ -2430,12 +2434,16 @@ msgid ""
 "Leading from the Front — Whenever Commissar Severina Raine attacks, each "
 "opponent loses X life, where X is the number of other attacking creatures."
 msgstr ""
+"Dowódca na Przedzie — Ilekroć niniejszy zaatakuje, każdy przeciwnik traci po "
+"X żyć, gdzie X jest liczbą atakujących stworów."
 
 #: ../../40K.rst:691
 msgid ""
 "Summary Execution — |mana_2|, Sacrifice another creature: You gain 2 life "
 "and draw a card."
 msgstr ""
+"Łączna Egzekucja — |mana_2|, poświęć innego stwora: Zyskaj 2 życia i dobierz "
+"kartę."
 
 #: ../../40K.rst:698
 msgid ""
@@ -3576,10 +3584,8 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:1049
-#, fuzzy
-#| msgid "Worn Powerstone enters the battlefield tapped."
 msgid "Tomb Fortress enters the battlefield tapped."
-msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../40K.rst:1051 ../../40K.rst:1467 ../../40K.rst:1509 ../../40K.rst:1595
 #: ../../40K.rst:1711
