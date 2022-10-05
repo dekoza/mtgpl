@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2022.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-28 19:32+0200\n"
-"PO-Revision-Date: 2022-10-04 22:11+0000\n"
+"PO-Revision-Date: 2022-10-05 11:32+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/40k/pl/>\n"
 "Language: pl\n"
@@ -1366,16 +1366,12 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:353
-#, fuzzy
-#| msgid ""
-#| "Lord of Torment — Whenever another Demon enters the battlefield under "
-#| "your control, it deals damage equal to its power to any target."
 msgid ""
 "Hyperphase Threshers — Whenever an artifact enters the battlefield under "
 "your control, Skorpekh Destroyer gains first strike until end of turn."
 msgstr ""
-"Pan Męki — Ilekroć inny Demon wejdzie na pole bitwy pod twoim władaniem, "
-"zadaje on wskazanemu celowi obrażenia równe swojej sile."
+"Młocarnia Hiperfazowa — Ilekroć artefakt wejdzie na pole bitwy pod twoim "
+"władaniem, niniejszy do końca tury zyskuje pierwszy cios."
 
 #: ../../40K.rst:362
 msgid ""
@@ -1822,6 +1818,8 @@ msgid ""
 "Frenzied Rampage — At the beginning of combat on your turn, choose an "
 "opponent at random. Knight Rampager attacks that player this combat if able."
 msgstr ""
+"Zapamiętały Szał — Na początku potyczki w twojej turze, wybierz losowego "
+"przeciwnika. Niniejszy w tej potyczce atakuje owego przeciwnika jeśli może."
 
 #: ../../40K.rst:495
 msgid ""
@@ -1907,6 +1905,8 @@ msgid ""
 "Allure of Slaanesh — Each opponent must attack with at least one creature "
 "each combat if able."
 msgstr ""
+"Nęcenie Slaanesha — Każdy przeciwnik w każdej potyczce musi zaatakować "
+"przynajmniej jednym stworem jeśli może."
 
 #: ../../40K.rst:532
 msgid ""
@@ -2293,16 +2293,12 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:651
-#, fuzzy
-#| msgid ""
-#| "Chapter Master — |mana_6|: Create two 2/2 white Astartes Warrior creature "
-#| "tokens with vigilance."
 msgid ""
 "Ultima Founding — |tap|, Tap two untapped artifacts you control: Create a "
 "2/2 white Astartes Warrior creature token with vigilance."
 msgstr ""
-"Mistrz Rozdziału — |mana_6|: Stwórz dwa żetony białego stwora Wojownik "
-"Astartes 2/2 z czujnością."
+"Założenie Ultimy — |tap|, przekręć dwa odkręcone artefakty pod twoim "
+"władaniem: Stwórz żeton białego stwora Wojownik Astartes 2/2 z czujnością."
 
 #: ../../40K.rst:653
 msgid ""
@@ -2453,29 +2449,21 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:695
-#, fuzzy
-#| msgid ""
-#| "Create a number of 3/3 green Tyranid Warrior creature tokens with trample "
-#| "equal to the number of opponents you have."
 msgid ""
 "Command Section — When Company Commander enters the battlefield, create a "
 "number of 1/1 white Soldier creature tokens equal to the number of opponents "
 "you have."
 msgstr ""
-"Stwórz tyle żetonów zielonego stwora Tyranid Wojownik 3/3 z tratowaniem, ilu "
-"masz przeciwników."
+"Sekcja Dowodzenia — Kiedy ten byt wejdzie na pole bitwy, stwórz tyle żetonów "
+"białego stwora Piechur 1/1, ilu masz przeciwników."
 
 #: ../../40K.rst:697
-#, fuzzy
-#| msgid ""
-#| "Lord of Chaos — At the beginning of combat on your turn, another target "
-#| "creature you control gains double strike until end of turn."
 msgid ""
 "Bring it Down! — Whenever Company Commander attacks, creatures you control "
 "gain deathtouch until end of turn."
 msgstr ""
-"Pan Chaosu — Na początku potyczki w twojej turze, inny wskazany stwór pod "
-"twoim władaniem do końca tury zyskuje podwójny cios."
+"Do piachu z tym! — Ilekroć niniejszy zaatakuje, stwory pod twoim władaniem "
+"do końca tury zyskują dotyk śmierci."
 
 #: ../../40K.rst:704
 msgid ""
@@ -2486,7 +2474,7 @@ msgstr ""
 
 #: ../../40K.rst:701
 msgid "Protection from Robots"
-msgstr ""
+msgstr "Ochrona przed Robotami"
 
 #: ../../40K.rst:703
 msgid ""
@@ -2494,6 +2482,9 @@ msgid ""
 "target player creates a 4/4 colorless Robot artifact creature token with "
 "\"This creature can't block.\""
 msgstr ""
+"Programowanie Terenowe — |mana_u|, |tap|: Wskazany gracz dobiera kartę. Inny "
+"wskazany gracz tworzy żeton bezkolorowego artefaktowego stwora Robot 4/4 z "
+"\"Ten stwór nie może blokować.\""
 
 #: ../../40K.rst:712
 msgid ""
@@ -2523,6 +2514,8 @@ msgid ""
 "Counter target spell, activated ability, or triggered ability. Its "
 "controller loses life equal to the number of creatures you control."
 msgstr ""
+"Skontruj wskazany czar, aktywowaną zdolność lub wyzwalaną zdolność. Władca "
+"owego traci życia równe liczbie stworów pod twoim władaniem."
 
 #: ../../40K.rst:724
 msgid ""
@@ -2544,6 +2537,8 @@ msgid ""
 "Daemon Sword — Equipped creature has menace and gets +X/+0, where X is the "
 "exiled card's power."
 msgstr ""
+"Demoniczny Miecz — Wyposażony stwór ma złowrogość i dostaje +X/+0, gdzie X "
+"jest siłą wygnanej karty."
 
 #: ../../40K.rst:723
 msgid ""
@@ -2566,6 +2561,9 @@ msgid ""
 "with mana value X or less from your hand without paying its mana cost, where "
 "X is the number of attacking creatures."
 msgstr ""
+"Welon Czasu — Ilekroć niniejszy zaatakuje, możesz rzucić z twojej ręki czar "
+"o skrócie many X lub mniejszym bez płacenia jego kosztu many, gdzie X jest "
+"liczbą atakujących stworów."
 
 #: ../../40K.rst:734
 msgid ""
@@ -2588,6 +2586,8 @@ msgid ""
 "Fire of Tzeentch — Whenever you cast an instant or sorcery spell, Exalted "
 "Flamer of Tzeentch deals 1 damage to each opponent."
 msgstr ""
+"Ognie Tzeentcha — Ilekroć rzucisz czar sztuczki lub obrzędu, niniejszy "
+"zadaje każdemu przeciwnikowi po 1 obrażeniu."
 
 #: ../../40K.rst:740
 msgid ""
@@ -2601,6 +2601,8 @@ msgid ""
 "Nonland permanents your opponents control lose indestructible until end of "
 "turn."
 msgstr ""
+"Nielądowe byty pod władaniem twoich przeciwników do końca tury tracą "
+"niezniszczalność."
 
 #: ../../40K.rst:739
 msgid "Destroy all nonland permanents."
@@ -2639,34 +2641,24 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:751
-#, fuzzy
-#| msgid ""
-#| "When New Horizons enters the battlefield, put a +1/+1 counter on target "
-#| "creature you control."
 msgid ""
 "When The Flesh Is Weak enters the battlefield, put a +1/+1 counter on each "
 "creature you control."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, umieść znacznik +1/+1 na wskazanym "
-"stworze pod twoim władaniem."
+"Kiedy ten byt wejdzie na pole bitwy, umieść znacznik +1/+1 na każdym stworze "
+"pod twoim władaniem."
 
 #: ../../40K.rst:753
-#, fuzzy
-#| msgid ""
-#| "Draw a card for each creature you control with a +1/+1 counter on it. "
-#| "Those creatures gain indestructible until end of turn."
 msgid ""
 "Creatures you control with +1/+1 counters on them are artifacts in addition "
 "to their other types."
 msgstr ""
-"Dobierz kartę za każdego stwora pod twoim władaniem mającego znacznik +1/+1. "
-"Owe stwory zyskują niezniszczalność do końca tury."
+"Stwory pod twoim władaniem mające znaczniki +1/+1 są dodatkowo artefaktami "
+"oprócz swoich innych typów."
 
 #: ../../40K.rst:755
-#, fuzzy
-#| msgid "Destroy all nonartifact creatures."
 msgid "Nonartifact creatures get -1/-1."
-msgstr "Zniszcz wszystkie nieartefaktowe stwory."
+msgstr "Nieartefaktowe stwory dostają -1/-1."
 
 #: ../../40K.rst:762
 msgid ""
@@ -2723,6 +2715,8 @@ msgid ""
 "Sarcophagus — You may cast Helbrute from your graveyard by exiling another "
 "creature card from your graveyard in addition to paying its other costs."
 msgstr ""
+"Sarkofag — Możesz rzucić ten czar z twojego cmentarza poprzez wygnanie innej "
+"karty stwora z twojego cmentarza oprócz opłacenia jego innych kosztów."
 
 #: ../../40K.rst:784
 msgid ""
@@ -2737,16 +2731,23 @@ msgid ""
 "creature that player controls for as long as The Horus Heresy remains on the "
 "battlefield."
 msgstr ""
+"I — Za każdego przeciwnika, zyskaj władanie nad co najwyżej jednym wskazanym "
+"nielegendarnym stworem pod władaniem owego gracza na czas pozostawania "
+"niniejszego na polu bitwy."
 
 #: ../../40K.rst:781
 msgid "II — Draw a card for each creature you control but don't own."
 msgstr ""
+"II — Dobierz kartę za każdego stwora pod twoim władaniem nie będącego twoją "
+"własnością."
 
 #: ../../40K.rst:783
 msgid ""
 "III — Starting with you, each player chooses a creature. Destroy each "
 "creature chosen this way."
 msgstr ""
+"III — Zaczynając od ciebie, każdy gracz wybiera stwora. Zniszcz wszystkie "
+"stwory wybrane w ten sposób."
 
 #: ../../40K.rst:790
 msgid ""
@@ -2761,6 +2762,9 @@ msgid ""
 "you reveal an instant or sorcery card this way, create Cherubael, a "
 "legendary 4/4 black Demon creature token with flying."
 msgstr ""
+"Możesz ujawniać pierwszą kartę dobieraną przez ciebie w danej turze. Ilekroć "
+"w ten sposób ujawnisz kartę sztuczki lub obrzędu, stwórz żeton legendarnego "
+"czarnego stwora Demon 4/4 z lataniem o nazwie Cherubael."
 
 #: ../../40K.rst:789
 #, fuzzy
@@ -2773,9 +2777,9 @@ msgid ""
 "that many times. (Create a Clue token. It's an artifact with \"|mana_2|, "
 "Sacrifice this artifact: Draw a card.\")"
 msgstr ""
-"Łowy na Herezję — |mana_1|, |tap|: Przekręć wskazanego stwora pod władaniem "
-"przeciwnika. Dociekaj. (Stwórz żeton Wskazówki. To artefakt mający \"|"
-"mana_2|, poświęć ten artefakt: Dobierz kartę.\")"
+"Ilekroć niniejszy zada graczowi obrażenia bojowe, dociekaj tyle razy. ("
+"Stwórz żeton Wskazówki. To artefakt mający \"|mana_2|, poświęć ten artefakt: "
+"Dobierz kartę.\")"
 
 #: ../../40K.rst:800
 msgid ""
@@ -2827,6 +2831,10 @@ msgid ""
 "battlefield, return Lucius the Eternal from exile to the battlefield under "
 "its owner's control."
 msgstr ""
+"Zbroja Wrzeszczących Dusz — Kiedy niniejszy umrze, wygnaj go i wybierz "
+"wskazanego stwora pod władaniem przeciwnika. Kiedy ów stwór opuści pole "
+"bitwy, przywróć niniejszą kartę z wygnania na pole bitwy pod władaniem "
+"właściciela."
 
 #: ../../40K.rst:818
 msgid ""
@@ -2844,15 +2852,11 @@ msgstr ""
 "mniej za każdy żeton stwora pod twoim władaniem."
 
 #: ../../40K.rst:817
-#, fuzzy
-#| msgid ""
-#| "Blade of Magmus — Whenever Magnus the Red deals combat damage to a "
-#| "player, create a 3/3 red Spawn creature token."
 msgid ""
 "Blade of Magnus — Whenever Magnus the Red deals combat damage to a player, "
 "create a 3/3 red Spawn creature token."
 msgstr ""
-"Ostrze Magmusa — Ilekroć niniejszy zada graczowi obrażenia bojowe, stwórz "
+"Ostrze Magnusa — Ilekroć niniejszy zada graczowi obrażenia bojowe, stwórz "
 "żeton czerwonego stwora Pomiot 3/3."
 
 #: ../../40K.rst:824
@@ -2863,11 +2867,6 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:823
-#, fuzzy
-#| msgid ""
-#| "Scavenge the Dead — When Malanthrope enters the battlefield, exile target "
-#| "player's graveyard. Put a +1/+1 counter on Malanthrope fro each creature "
-#| "card exiled this way."
 msgid ""
 "Scavenge the Dead — When Malanthrope enters the battlefield, exile target "
 "player's graveyard. Put a +1/+1 counter on Malanthrope for each creature "
