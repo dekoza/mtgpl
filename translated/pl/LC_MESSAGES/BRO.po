@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG po polsku 2022.9\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-01 13:23+0200\n"
+"POT-Creation-Date: 2022-10-05 08:48+0200\n"
 "PO-Revision-Date: 2022-09-30 07:52+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/bro/pl/>\n"
@@ -291,14 +291,97 @@ msgstr ""
 "|mana_4|\\ |mana_u|\\ |mana_u|: Dobierz trzy karty. Aktywuj tylko jeśli ten "
 "stwór jest niebieski i tylko raz."
 
-#: ../../BRO.rst:24
+#: ../../BRO.rst:30
+msgid ""
+":mtgtip:`Phyrexian Dragon Engine<https://cards.scryfall.io/border_crop/front/"
+"e/2/e2b826be-4256-4fd6-ad4d-6c80933ee940.jpg?1664930077|https://scryfall.com/"
+"card/bro/163a/phyrexian-dragon-engine?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:23
+msgid "Double strike"
+msgstr ""
+
+#: ../../BRO.rst:25
+msgid ""
+"When Phyrexian Dragon Engine enters the battlefield from your graveyard, you "
+"may discard your hand. If you do, draw three cards."
+msgstr ""
+
+#: ../../BRO.rst:27
+msgid "Unearth |mana_3|\\ |mana_r|\\ |mana_r|"
+msgstr ""
+
+#: ../../BRO.rst:29
+msgid "(Melds with Mishra, Claimed by Gix.)"
+msgstr ""
+
+#: ../../BRO.rst:46
+msgid ""
+":mtgtip:`Mishra, Lost to Phyrexia<https://cards.scryfall.io/border_crop/"
+"front/0/2/0220c1e9-07bc-44f0-b39e-ca345ec4ea28.jpg?1664929956|https://"
+"scryfall.com/card/bro/163b/mishra-lost-to-phyrexia?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:33
+#, fuzzy
+#| msgid ""
+#| "When The Mightstone and Weakstone enters the battlefield, choose one —"
+msgid ""
+"Whenever Mishra, Lost to Phyrexia enters the battlefield or attacks, choose "
+"three —"
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wybierz jedno —"
+
+#: ../../BRO.rst:35
+msgid "Target opponent discards two cards."
+msgstr ""
+
+#: ../../BRO.rst:37
+msgid "Mishra deals 3 damage to any target."
+msgstr ""
+
+#: ../../BRO.rst:39
+msgid "Destroy target artifact or planeswalker."
+msgstr ""
+
+#: ../../BRO.rst:41
+msgid "Creatures you control gain menace and trample until end of turn."
+msgstr ""
+
+#: ../../BRO.rst:43
+#, fuzzy
+#| msgid "Target creature gets -5/-5 until end of turn."
+msgid "Creatures you don't control get -1/-1 until end of turn."
+msgstr "Wskazany stwór do końca tury dostaje -5/-5."
+
+#: ../../BRO.rst:45
+msgid "Create two tapped Powerstone tokens."
+msgstr ""
+
+#: ../../BRO.rst:50
+msgid ""
+":mtgtip:`Mishra, Claimed by Gix<https://cards.scryfall.io/border_crop/front/"
+"a/4/a469d7ec-42de-45de-9d8f-469bb979de58.jpg?1664930035|https://scryfall.com/"
+"card/bro/216/mishra-claimed-by-gix?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:49
+msgid ""
+"Whenever you attack, each opponent loses X life and you gain X life, where X "
+"is the number of attacking creatures. If Mishra, Claimed by Gix and a "
+"creature named Phyrexian Dragon Engine are attacking, and you both own and "
+"control them, exile them, then meld them into Mishra, Lost to Phyrexia. It "
+"enters the battlefield tapped and attacking."
+msgstr ""
+
+#: ../../BRO.rst:54
 msgid ""
 ":mtgtip:`Queen Kayla bin-Kroog<https://cards.scryfall.io/border_crop/"
 "front/6/8/685c9767-eaa7-4e16-b245-816181e2fc36.jpg?1664538013|https://"
 "scryfall.com/card/bro/218/queen-kayla-bin-kroog?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:23
+#: ../../BRO.rst:53
 #, fuzzy
 #| msgid ""
 #| "|mana_4|, |tap|: Discard all the cards in your hand, then draw that many "
@@ -319,21 +402,21 @@ msgstr ""
 "artefaktów lub stworów o skrócie many 2 lub 3. Przywróć owe karty na pole "
 "bitwy. Aktywuj tylko jako obrzęd."
 
-#: ../../BRO.rst:30
+#: ../../BRO.rst:60
 msgid ""
 ":mtgtip:`Urza, Lord Protector<https://cards.scryfall.io/border_crop/front/8/"
 "a/8aefe8bd-216a-4ec1-9362-3f9dbf7fd083.jpg?1664561527|https://scryfall.com/"
 "card/bro/225/urza-lord-protector?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:27
+#: ../../BRO.rst:57
 msgid ""
 "Artifact, instant, and sorcery spells you cast cost |mana_1| less to cast."
 msgstr ""
 "Rzucanie czarów artefaktów, sztuczek i obrzędów kosztuje cię o |mana_1| "
 "mniej."
 
-#: ../../BRO.rst:29
+#: ../../BRO.rst:59
 #, fuzzy
 #| msgid ""
 #| "|mana_7|: If you both own and control Urza, Lord Protector an artifact "
@@ -348,26 +431,26 @@ msgstr ""
 "artefakt o nazwie The Mightstone and Weakstone, wygnaj je, po czym połącz je "
 "tworząc Urza, Planeswalker. Aktywuj tylko jako obrzęd."
 
-#: ../../BRO.rst:42
+#: ../../BRO.rst:72
 msgid ""
 ":mtgtip:`The Mightstone and Weakstone<https://cards.scryfall.io/border_crop/"
 "front/0/2/02aea379-b444-46a3-82f4-3038f698d4f4.jpg?1664561565|https://"
 "scryfall.com/card/bro/238a/the-mightstone-and-weakstone?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:33
+#: ../../BRO.rst:63
 msgid "When The Mightstone and Weakstone enters the battlefield, choose one —"
 msgstr "Kiedy ten byt wejdzie na pole bitwy, wybierz jedno —"
 
-#: ../../BRO.rst:35
+#: ../../BRO.rst:65
 msgid "Draw two cards."
 msgstr "Dobierz dwie karty."
 
-#: ../../BRO.rst:37
+#: ../../BRO.rst:67
 msgid "Target creature gets -5/-5 until end of turn."
 msgstr "Wskazany stwór do końca tury dostaje -5/-5."
 
-#: ../../BRO.rst:39
+#: ../../BRO.rst:69
 msgid ""
 "|tap|: Add |colorless|\\ |colorless|. This mana can't be spent to cast "
 "nonartifact spells."
@@ -375,18 +458,18 @@ msgstr ""
 "|tap|: Weź |colorless|\\ |colorless|. Ta mana nie może być wydana na "
 "rzucenie nieartefaktowych czarów."
 
-#: ../../BRO.rst:41
+#: ../../BRO.rst:71
 msgid "(Melds with Urza, Lord Protector.)"
 msgstr ""
 
-#: ../../BRO.rst:56
+#: ../../BRO.rst:86
 msgid ""
 ":mtgtip:`Urza, Planeswalker<https://cards.scryfall.io/border_crop/"
 "front/4/0/40a01679-3224-427e-bd1d-b797b0ab68b7.jpg?1664533653|https://"
 "scryfall.com/card/bro/238b/urza-planeswalker?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:45
+#: ../../BRO.rst:75
 #, fuzzy
 #| msgid ""
 #| "You may activate the loyalty abilities of Urza, Planeswalker twice each "
@@ -398,7 +481,7 @@ msgstr ""
 "Możesz aktywować zdolności lojalnościowe tego wędrowca dwukrotnie na turę "
 "zamiast tylko raz."
 
-#: ../../BRO.rst:47
+#: ../../BRO.rst:77
 msgid ""
 "+2: Artifact, instant, and sorcery spells you cast this turn cost |mana_2| "
 "less to cast. You gain 2 life."
@@ -406,19 +489,19 @@ msgstr ""
 "+2: Rzucanie czarów artefaktów, sztuczek i obrzędów kosztuje cię w tej turze "
 "o |mana_2| mniej. Zyskaj 2 życia."
 
-#: ../../BRO.rst:49
+#: ../../BRO.rst:79
 msgid "+1: Draw two cards, then discard a card."
 msgstr "+1: Dobierz dwie karty, po czym odrzuć kartę."
 
-#: ../../BRO.rst:51
+#: ../../BRO.rst:81
 msgid "0: Create two 1/1 colorless Soldier artifact creature tokens."
 msgstr "0: Stwórz dwa żetony bezkolorowego artefaktowego stwora Piechur 1/1."
 
-#: ../../BRO.rst:53
+#: ../../BRO.rst:83
 msgid "−3: Exile target nonland permanent."
 msgstr "–3: Wygnaj wskazany nielądowy byt."
 
-#: ../../BRO.rst:55
+#: ../../BRO.rst:85
 msgid ""
 "−10: Artifacts and planeswalkers you control gain indestructible until end "
 "of turn. Destroy all nonland permanents."
@@ -426,18 +509,18 @@ msgstr ""
 "–10: Artefakty i wędrowcy pod twoim władaniem do końca tury zyskują "
 "niezniszczalność. Zniszcz wszystkie nielądowe byty."
 
-#: ../../BRO.rst:64
+#: ../../BRO.rst:94
 msgid ""
 ":mtgtip:`Mishra's Foundry<https://cards.scryfall.io/border_crop/front/d/a/"
 "da7699b2-e1af-4bc0-8c5b-84ba3e868d7c.jpg?1664492760|https://scryfall.com/"
 "card/bro/265/mishras-foundry?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:59
+#: ../../BRO.rst:89
 msgid "|tap|: Add |colorless|."
 msgstr "|tap|: Weź |colorless|."
 
-#: ../../BRO.rst:61
+#: ../../BRO.rst:91
 msgid ""
 "|mana_2|: Mishra's Foundry becomes a 2/2 Assembly-Worker artifact creature "
 "until end of turn. It's still a land."
@@ -445,64 +528,64 @@ msgstr ""
 "|mana_2|: Ten byt do końca tury staje się artefaktowym stworem Składacz 2/2. "
 "Nadal jest lądem."
 
-#: ../../BRO.rst:63
+#: ../../BRO.rst:93
 msgid ""
 "|mana_1|, |tap|: Target attacking Assembly-Worker gets +2/+2 until end of "
 "turn."
 msgstr ""
 "|mana_1|, |tap|: Wskazany atakujący Składacz do końca tury dostaje +2/+2."
 
-#: ../../BRO.rst:68
+#: ../../BRO.rst:98
 msgid ""
 ":mtgtip:`Plains<https://cards.scryfall.io/border_crop/front/7/"
 "e/7e134268-9ce9-4192-b548-90bedbfe654e.jpg?1664516043|https://scryfall.com/"
 "card/bro/278/plains?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:67
+#: ../../BRO.rst:97
 msgid "(|tap|: Add |mana_w|.)"
 msgstr "(|tap|: Weź |mana_w|.)"
 
-#: ../../BRO.rst:72
+#: ../../BRO.rst:102
 msgid ""
 ":mtgtip:`Island<https://cards.scryfall.io/border_crop/front/f/e/"
 "fe9d36d3-9373-407c-91fd-975d8ee9e4fe.jpg?1664516062|https://scryfall.com/"
 "card/bro/280/island?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:71
+#: ../../BRO.rst:101
 msgid "(|tap|: Add |mana_u|.)"
 msgstr "(|tap|: Weź |mana_u|.)"
 
-#: ../../BRO.rst:76
+#: ../../BRO.rst:106
 msgid ""
 ":mtgtip:`Swamp<https://cards.scryfall.io/border_crop/front/c/a/"
 "cabe866d-01c3-4ec5-9d41-70305208c2b1.jpg?1664516079|https://scryfall.com/"
 "card/bro/282/swamp?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:75
+#: ../../BRO.rst:105
 msgid "(|tap|: Add |mana_b|.)"
 msgstr "(|tap|: Weź |mana_b|.)"
 
-#: ../../BRO.rst:80
+#: ../../BRO.rst:110
 msgid ""
 ":mtgtip:`Mountain<https://cards.scryfall.io/border_crop/front/c/4/"
 "c464b81a-3d91-4d07-bc9d-6756780417e3.jpg?1664516099|https://scryfall.com/"
 "card/bro/284/mountain?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:79
+#: ../../BRO.rst:109
 msgid "(|tap|: Add |mana_r|.)"
 msgstr "(|tap|: Weź |mana_r|.)"
 
-#: ../../BRO.rst:83
+#: ../../BRO.rst:113
 msgid ""
 ":mtgtip:`Forest<https://cards.scryfall.io/border_crop/front/1/"
 "a/1a1b7277-0c09-42ab-aa6b-542a1e402580.jpg?1664516120|https://scryfall.com/"
 "card/bro/286/forest?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:83
+#: ../../BRO.rst:113
 msgid "(|tap|: Add |mana_g|.)"
 msgstr "(|tap|: Weź |mana_g|.)"
