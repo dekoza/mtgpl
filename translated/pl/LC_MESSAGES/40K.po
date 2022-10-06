@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2022.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-28 19:32+0200\n"
-"PO-Revision-Date: 2022-10-06 11:08+0000\n"
+"PO-Revision-Date: 2022-10-06 11:40+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/40k/pl/>\n"
 "Language: pl\n"
@@ -2767,19 +2767,14 @@ msgstr ""
 "czarnego stwora Demon 4/4 z lataniem o nazwie Cherubael."
 
 #: ../../40K.rst:789
-#, fuzzy
-#| msgid ""
-#| "Hunt for Heresy — |mana_1|, |tap|: Tap target creature an opponent "
-#| "controls. Investigate. (Create a Clue token. It's an artifact with \"|"
-#| "mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgid ""
 "Whenever Inquisitor Eisenhorn deals combat damage to a player, investigate "
 "that many times. (Create a Clue token. It's an artifact with \"|mana_2|, "
 "Sacrifice this artifact: Draw a card.\")"
 msgstr ""
-"Ilekroć niniejszy zada graczowi obrażenia bojowe, dociekaj tyle razy. ("
-"Stwórz żeton Wskazówki. To artefakt mający \"|mana_2|, poświęć ten artefakt: "
-"Dobierz kartę.\")"
+"Ilekroć niniejszy zada graczowi obrażenia bojowe, dociekaj w liczbie "
+"zadanych obrażeń. (Stwórz żeton Wskazówki. To artefakt mający \"|mana_2|, "
+"poświęć ten artefakt: Dobierz kartę.\")"
 
 #: ../../40K.rst:800
 msgid ""
@@ -2924,6 +2919,10 @@ msgid ""
 "to their hand. If you do, that player choses a permanent card in your "
 "graveyard, then you put it onto the battlefield under your control."
 msgstr ""
+"Oszukańczy Handlarz — Ilekroć niniejszy zada graczowi obrażenia bojowe, "
+"możesz zdecydować, czy ów gracz przywróci wskazaną kartę bytu ze swojego "
+"cmentarza do swojej ręki. Jeśli tak zrobisz, ów gracz wybiera kartę bytu z "
+"twojego cmentarza, po czym umieść ją na polu bitwy pod twoim władaniem."
 
 #: ../../40K.rst:846
 msgid ""
@@ -2946,6 +2945,9 @@ msgid ""
 "creature tokens named Blue Horror with \"Whenever you cast an instant or "
 "sorcery spell, this creature deals 1 damage to any target.\""
 msgstr ""
+"Podział — Kiedy niniejszy umrze, stwórz dwa żetony niebiesko-czerwonego "
+"stwora Demon Horror 2/2 o nazwie Niebieski Horror mający \"Ilekroć rzucisz "
+"czar sztuczki lub obrzędu, ten stwór zadaje wskazanemu celowi 1 obrażenie.\""
 
 #: ../../40K.rst:852
 msgid ""
@@ -2963,16 +2965,12 @@ msgstr ""
 "końca tury dostaje +1/+0.)"
 
 #: ../../40K.rst:851
-#, fuzzy
-#| msgid ""
-#| "Neurotraumal Rod — Whenever a creature attacks you, it gets -1/-0 until "
-#| "end of turn."
 msgid ""
 "Rosarius — Whenever Primaris Chaplain attacks, it gains indestructible until "
 "end of turn."
 msgstr ""
-"Pręt Neurotraumatyczny — Ilekroć stwór zaatakuje ciebie, do końca tury "
-"dostaje on -1/-0."
+"Różańcusz — Ilekroć niniejszy zaatakuje, do końca tury zyskuje on "
+"niezniszczalność."
 
 #: ../../40K.rst:860
 msgid ""
@@ -3003,6 +3001,11 @@ msgid ""
 "you may spend mana as though it were mana of any color to cast it. When you "
 "cast a spell this way, its owner loses life equal to its mana value."
 msgstr ""
+"Na początku twojego kroku utrzymania, wybierz losowego przeciwnika. Wygnaj "
+"wierzchnią kartę biblioteki owego gracza. Do końca tury możesz zagrać ową "
+"kartę, a do jej rzucenia możesz wydawać manę tak, jakby była maną dowolnego "
+"koloru. Jeśli rzucisz czar w ten sposób, jego właściciel traci życia równe "
+"jego skrótowi many."
 
 #: ../../40K.rst:870
 msgid ""
@@ -3039,6 +3042,9 @@ msgid ""
 "target creature card from your graveyard to the battlefield. You gain life "
 "equal to its mana value."
 msgstr ""
+"Medicus Ministorum — Kiedy ten byt wejdzie na pole bitwy, przywróć wskazaną "
+"kartę stwora z twojego cmentarza na pole bitwy. Zyskaj życia równe jego "
+"skrótowi many."
 
 #: ../../40K.rst:880
 msgid ""
@@ -3051,18 +3057,15 @@ msgstr ""
 msgid ""
 "Martyrdom — When Sister Repentia dies, you gain 2 life and draw two cards."
 msgstr ""
+"Męczeństwo — Kiedy niniejszy umrze, zyskaj 2 życia i dobierz dwie karty."
 
 #: ../../40K.rst:879
-#, fuzzy
-#| msgid ""
-#| "Flashback |mana_4|\\ |mana_r| (You may cast this card from your graveyard "
-#| "for its flashback cost. Then exile it.)"
 msgid ""
 "Miracle |mana_w|\\ |mana_b| (You may cast this card for its miracle cost "
 "when you draw it if it's the first card you drew this turn.)"
 msgstr ""
-"Wspomnienie |mana_4|\\ |mana_r| (Możesz rzucić tę kartę z twojego cmentarza "
-"za koszt wspomnienia. Następnie wygnaj ją.)"
+"Cud |mana_w|\\ |mana_b| (Możesz rzucić tę kartę za koszt cudu w momencie jej "
+"dobrania, jeśli jest to pierwsza karta dobrana przez ciebie w tej turze.)"
 
 #: ../../40K.rst:884
 msgid ""
@@ -3136,6 +3139,9 @@ msgid ""
 "copy the next instant or sorcery spell you cast this turn when you cast it. "
 "You may choose new targets for the copy."
 msgstr ""
+"Czarnoksięski Eliksir — Ilekroć niniejszy zada graczowi obrażenia bojowe, "
+"skopiuj najbliższy czar sztuczki lub obrzędu podczas rzucania go w tej "
+"turze. Możesz wskazać nowe cele dla kopii."
 
 #: ../../40K.rst:906
 msgid ""
@@ -3211,16 +3217,12 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:931
-#, fuzzy
-#| msgid ""
-#| "Master Tactician — Whenever one or more tokens enter the battlefield "
-#| "under your control, draw a card."
 msgid ""
 "Fabricator Claw Array — Whenever another nontoken artifact creature or "
 "Vehicle enters the battlefield under your control, draw a card."
 msgstr ""
-"Mistrz Taktyki — Ilekroć jeden lub więcej żetonów wejdzie na pole bitwy pod "
-"twoim władaniem, dobierz kartę."
+"Zestaw Twórczych Szponów — Ilekroć inny nieżetonowy artefaktowy stwór lub "
+"Pojazd wejdzie na pole bitwy pod twoim władaniem, dobierz kartę."
 
 #: ../../40K.rst:940
 msgid ""
@@ -3234,6 +3236,8 @@ msgid ""
 "Exile Cannon — When Canoptek Tomb Sentinel enters the battlefield from a "
 "graveyard, exile up to one target nonland permanent."
 msgstr ""
+"Armata Wygnania — Kiedy ten byt wejdzie na pole bitwy z cmentarza, wygnaj co "
+"najwyżej jeden wskazany nielądowy byt."
 
 #: ../../40K.rst:939
 msgid ""
@@ -3241,6 +3245,9 @@ msgid ""
 "battlefield. It gains haste. Exile it at the beginning of the next end step "
 "or if it would leave the battlefield. Unearth only as a sorcery.)"
 msgstr ""
+"Odkopanie |mana_7| (|mana_7|: Przywróć tę kartę z twojego cmentarza na pole "
+"bitwy. Zyskuje ona pośpiech. Wygnaj ją na początku najbliższego kroku "
+"końcowego lub gdyby miała opuścić pole bitwy. Aktywuj tylko jako obrzęd.)"
 
 #: ../../40K.rst:946
 msgid ""
@@ -3251,14 +3258,9 @@ msgstr ""
 
 #: ../../40K.rst:943
 msgid "Wraith Form — Canoptek Wraith can't be blocked."
-msgstr ""
+msgstr "Forma Upiora — Niniejszy nie może być blokowany."
 
 #: ../../40K.rst:945
-#, fuzzy
-#| msgid ""
-#| "Skilled Outrider — Whenever Atalan Jackal deals combat damage to a "
-#| "player, you may search your library for a basic land card, put it onto "
-#| "the battlefield tapped, then shuffle."
 msgid ""
 "Transdimensional Scout — When Canoptek Wraith deals combat damage to a "
 "player, you may pay |mana_3| and sacrifice it. If you do, choose a land you "
@@ -3266,9 +3268,11 @@ msgid ""
 "the same name as the chosen land, put them onto the battlefield tapped, then "
 "shuffle."
 msgstr ""
-"Wyszkolony Foryś — Ilekroć niniejszy zada graczowi obrażenia bojowe, możesz "
-"wyszukać w twojej bibliotece kartę bazowego lądu, umieść ją przekręconą na "
-"polu bitwy, po czym przetasuj."
+"Międzywymiarowy Zwiadowca — Kiedy niniejszy zada graczowi obrażenia bojowe, "
+"możesz zapłacić |mana_3| i poświęcić go. Jeśli tak zrobisz, wybierz ląd pod "
+"twoim władaniem. Następnie wyszukaj w twojej bibliotece co najwyżej dwóch "
+"kart bazowych lądów mających tę samą nazwę co wybrany ląd, umieść je "
+"przekręcone na polu bitwy, po czym przetasuj."
 
 #: ../../40K.rst:952
 msgid ""
@@ -3284,10 +3288,13 @@ msgid ""
 "effect can't reduce the mana in that ability's activation cost to less than "
 "one mana."
 msgstr ""
+"Dynastyczna Komórka Dowodzenia — O ile władasz swoim dowódcą, aktywacja "
+"aktywowanych zdolności kart w twoim cmentarzu kosztuje o |mana_2| mniej. Ten "
+"efekt nie może zmniejszyć kosztu many aktywacji do mniej niż jednej many."
 
 #: ../../40K.rst:951
 msgid "Translocation Protocols — |mana_3|, |tap|: Mill three cards."
-msgstr ""
+msgstr "Protokoły Translokacji — |mana_3|, |tap|: Zmiel trzy karty."
 
 #: ../../40K.rst:956
 msgid ""
@@ -3297,10 +3304,8 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:955
-#, fuzzy
-#| msgid "Synapse Creature — Other creatures you control have evolve."
 msgid "Protector — Other artifact creatures you control have hexproof."
-msgstr "Stwór Synapsowy — Inne stwory pod twoim władaniem mają ewolucję."
+msgstr "Obrońca — Inne artefaktowe stwory pod twoim władaniem mają antyklątwę."
 
 #: ../../40K.rst:964
 msgid ""
@@ -3314,6 +3319,9 @@ msgid ""
 "Repair Barge — Whenever Ghost Ark becomes crewed, each artifact creature "
 "card in your graveyard gains unearth |mana_3| until end of turn."
 msgstr ""
+"Barka Naprawcza — Ilekroć niniejszy zostanie załogowany, każda karta "
+"artefaktowego stwora w twoim cmentarzu do końca tury zyskuje odkopanie "
+"|mana_3|."
 
 #: ../../40K.rst:963 ../../40K.rst:975 ../../40K.rst:1005
 msgid ""
@@ -3335,12 +3343,16 @@ msgid ""
 "Arcane Life-support — If you would lose the game, instead exile The Golden "
 "Throne and your life total becomes 1."
 msgstr ""
+"Magiczne Podtrzymanie Życia — Jeśli miałbyś przegrać grę, zamiast tego "
+"wygnaj ten byt, a liczba twoich żyć ma wartość 1."
 
 #: ../../40K.rst:969
 msgid ""
 "A Thousand Souls Die Every Day — |tap|, Sacrifice a creature: Add three mana "
 "in any combination of colors."
 msgstr ""
+"Co Dzień Ginie Tysiąc Dusz — |tap|, poświęć stwora: Weź trzy many w dowolnej "
+"kombinacji kolorów."
 
 #: ../../40K.rst:976
 msgid ""
@@ -3370,6 +3382,9 @@ msgid ""
 "Astartes Warrior creature token with vigilance that's attacking. Then "
 "attacking creatures gain menace until end of turn."
 msgstr ""
+"Agenci Inkwizycji — Ilekroć wyposażony stwór zaatakuje, stwórz atakujący "
+"żeton białego stwora Wojownik Astartes 2/2 z czujnością. Następnie atakujące "
+"stwory do końca tury zyskują złowrogość."
 
 #: ../../40K.rst:990
 msgid ""
@@ -3379,16 +3394,12 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:987
-#, fuzzy
-#| msgid ""
-#| "Warp Blast — When Zoanthrope enters the battlefield, it deals X damage to "
-#| "any target."
 msgid ""
 "Rapid-fire Battle Cannon — When Knight Paladin enters the battlefield, it "
 "deals 4 damage to each opponent."
 msgstr ""
-"Miotacz Warpowy — Kiedy ten byt wejdzie na pole bitwy, zadaje on wskazanemu "
-"celowi X obrażeń."
+"Szybkostrzelna Armata Bojowa — Kiedy ten byt wejdzie na pole bitwy, zadaje "
+"on każdemu przeciwnikowi po 4 obrażenia."
 
 #: ../../40K.rst:989
 msgid ""
@@ -3410,17 +3421,14 @@ msgid "Flying, indestructible"
 msgstr "Latanie, niezniszczalność"
 
 #: ../../40K.rst:995
-#, fuzzy
-#| msgid ""
-#| "Phaeron — Whenever one or more artifact cards leave your graveyard, "
-#| "create two 2/2 black Necron Warrior artifact creature token."
 msgid ""
 "Eternity Gate — Whenever Necron Monolith attacks, mill three cards. For each "
 "creature card milled this way, create a 2/2 black Necron Warrior artifact "
 "creature token."
 msgstr ""
-"Phaeron — Ilekroć jeden lub więcej kart artefaktów opuści twój cmentarz, "
-"stwórz dwa żetony czarnego artefaktowego stwora Necron Wojownik 2/2."
+"Wrota Wieczności — Ilekroć niniejszy zaatakuje, zmiel trzy karty. Za każdą "
+"kartę zmieloną w ten sposób, stwórz żeton czarnego artefaktowego stwora "
+"Necron Wojownik 2/2."
 
 #: ../../40K.rst:997 ../../40K.rst:1013
 msgid ""
@@ -3438,16 +3446,12 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:1003
-#, fuzzy
-#| msgid ""
-#| "Phaeron — Whenever one or more artifact cards leave your graveyard, "
-#| "create two 2/2 black Necron Warrior artifact creature token."
 msgid ""
 "Invasion Beams — When Night Scythe enters the battlefield, create a 2/2 "
 "black Necron Warrior artifact creature token."
 msgstr ""
-"Phaeron — Ilekroć jeden lub więcej kart artefaktów opuści twój cmentarz, "
-"stwórz dwa żetony czarnego artefaktowego stwora Necron Wojownik 2/2."
+"Promienie Inwazji — Kiedy ten byt wejdzie na pole bitwy, stwórz żeton "
+"czarnego artefaktowego stwora Necrown Wojownik 2/2."
 
 #: ../../40K.rst:1014
 msgid ""
@@ -3458,19 +3462,15 @@ msgstr ""
 
 #: ../../40K.rst:1009
 msgid "Void Shields — Protection from mana value 3 or less."
-msgstr ""
+msgstr "Tarcze Nicości — Ochrona przez skrótem many 3 lub mniejszym."
 
 #: ../../40K.rst:1011
-#, fuzzy
-#| msgid ""
-#| "Warp Blast — When Zoanthrope enters the battlefield, it deals X damage to "
-#| "any target."
 msgid ""
 "Gatling Blaster — Whenever Reaver Titan attacks, it deals 5 damage to each "
 "opponent."
 msgstr ""
-"Miotacz Warpowy — Kiedy ten byt wejdzie na pole bitwy, zadaje on wskazanemu "
-"celowi X obrażeń."
+"Miotacz Gatlinga — Ilekroć niniejszy zaatakuje, zadaje on każdemu "
+"przeciwnikowi po 5 obrażeń."
 
 #: ../../40K.rst:1022
 msgid ""
@@ -3480,12 +3480,12 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:1017
-#, fuzzy
-#| msgid "As an additional cost to cast this spell, sacrifice a land."
 msgid ""
 "Fallen Warrior — As an additional cost to cast this spell, you may exile a "
 "creature card from your graveyard."
-msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć ląd."
+msgstr ""
+"Upadły Wojownik — Jako dodatkowy koszt rzucenia tego czaru — możesz wygnać "
+"kartę stwora z twojego cmentarza."
 
 #: ../../40K.rst:1021
 msgid ""
@@ -3493,6 +3493,8 @@ msgid ""
 "exiled with it, it gets +X/+X until end of turn, where X is the power of the "
 "exiled card."
 msgstr ""
+"Zapalnik Plazmowy — Ilekroć niniejszy zaatakuje, jeśli została nim wygnana "
+"karta, do końca tury dostaje on +X/+X, gdzie X jest siłą owej wygnanej karty."
 
 #: ../../40K.rst:1030
 msgid ""
@@ -3506,16 +3508,12 @@ msgid "Equipped creature has lifelink."
 msgstr "Wyposażony stwór ma więź życia."
 
 #: ../../40K.rst:1027
-#, fuzzy
-#| msgid ""
-#| "Whenever a creature enters the battlefield under your control, it deals "
-#| "damage equal to its power to any target."
 msgid ""
 "Whenever equipped creature dies, return that card to the battlefield under "
 "its owner's control at the beginning of the next end step."
 msgstr ""
-"Ilekroć stwór wejdzie na pole bitwy pod twoim władaniem, zadaje on "
-"wskazanemu celowi obrażenia równe swojej sile."
+"Ilekroć wyposażony stwór umrze, przywróć ową kartę na pole bitwy pod "
+"władaniem właściciela na początku najbliższego kroku końcowego."
 
 #: ../../40K.rst:1029
 msgid ""
@@ -3538,16 +3536,12 @@ msgid "|tap|: Add one mana of any color."
 msgstr "|tap|: Weź jedną manę dowolnego koloru."
 
 #: ../../40K.rst:1035
-#, fuzzy
-#| msgid ""
-#| "|tap|: Add |colorless|\\ |colorless|. Activate only if you control five "
-#| "or more lands."
 msgid ""
 "|tap|: Add three mana of any one color. Activate only if you control three "
 "or more lands with the same name."
 msgstr ""
-"|tap|: Weź |colorless|\\ |colorless|. Możesz aktywować tylko jeśli władasz "
-"co najmniej pięcioma lądami."
+"|tap|: Weź trzy many w dowolnym jednym kolorze. Możesz aktywować tylko jeśli "
+"władasz co najmniej trzema lądami o tej samej nazwie."
 
 #: ../../40K.rst:1046
 msgid ""
@@ -3557,16 +3551,12 @@ msgid ""
 msgstr ""
 
 #: ../../40K.rst:1041
-#, fuzzy
-#| msgid ""
-#| "Chapter Master — |mana_6|: Create two 2/2 white Astartes Warrior creature "
-#| "tokens with vigilance."
 msgid ""
 "When Thunderhawk Gunship enters the battlefield, create two 2/2 white "
 "Astartes Warrior creature tokens with vigilance."
 msgstr ""
-"Mistrz Rozdziału — |mana_6|: Stwórz dwa żetony białego stwora Wojownik "
-"Astartes 2/2 z czujnością."
+"Kiedy ten byt wejdzie na pole bitwy, stwórz dwa żetony białego stwora "
+"Wojownik Astartes 2/2 z czujnością."
 
 #: ../../40K.rst:1043
 msgid ""
