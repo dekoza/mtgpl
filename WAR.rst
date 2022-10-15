@@ -822,7 +822,7 @@
 
 
 :mtgtip:`Evolution Sage<https://cards.scryfall.io/border_crop/front/b/4/b4042db8-6032-49a2-bc96-ad15f55db6c3.jpg?1557576899|https://scryfall.com/card/war/159/evolution-sage?utm_source=api>`
-   Whenever a land enters the battlefield under your control, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
+   Landfall — Whenever a land enters the battlefield under your control, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
 
 
 :mtgtip:`Finale of Devastation<https://cards.scryfall.io/border_crop/front/9/8/985453e7-997e-4d77-a338-cc0290791ebe.jpg?1557576905|https://scryfall.com/card/war/160/finale-of-devastation?utm_source=api>`

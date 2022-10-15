@@ -2060,7 +2060,7 @@
 
    You may play lands from the top of your library.
 
-   Whenever a land enters the battlefield under your control, you gain 1 life.
+   Landfall — Whenever a land enters the battlefield under your control, you gain 1 life.
 
 
 :mtgtip:`Elvish Mystic<https://cards.scryfall.io/border_crop/front/4/d/4d50fa57-db11-419e-b73b-666a6b25f7de.jpg?1619402005|https://scryfall.com/card/tsr/360/elvish-mystic?utm_source=api>`

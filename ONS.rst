@@ -603,8 +603,8 @@
    |mana_2|\ |mana_u|\ |mana_u|, Sacrifice Riptide Shapeshifter: Choose a creature type. Reveal cards from the top of your library until you reveal a creature card of that type. Put that card onto the battlefield and shuffle the rest into your library.
 
 
-:mtgtip:`Rummaging Wizard<https://cards.scryfall.io/border_crop/front/a/d/ad96e158-bf2b-4f3e-9692-0f79efdd94f5.jpg?1562935988|https://scryfall.com/card/ons/110/rummaging-wizard?utm_source=api>`
-   |mana_2|\ |mana_u|: Look at the top card of your library. You may put that card into your graveyard.
+:mtgtip:`Rummaging Wizard<https://cards.scryfall.io/border_crop/front/a/d/ad96e158-bf2b-4f3e-9692-0f79efdd94f5.jpg?1665819753|https://scryfall.com/card/ons/110/rummaging-wizard?utm_source=api>`
+   |mana_2|\ |mana_u|: Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)
 
 
 :mtgtip:`Sage Aven<https://cards.scryfall.io/border_crop/front/4/c/4c03afc5-7ca3-4ac6-a06e-091e2cce13a0.jpg?1562912764|https://scryfall.com/card/ons/111/sage-aven?utm_source=api>`

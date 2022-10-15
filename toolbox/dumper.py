@@ -1,9 +1,11 @@
+import asyncio
 import os
 import shutil
 import tempfile
 from collections import defaultdict
 from typing import Iterable
 
+import anyio
 import appdirs
 import httpx
 import orjson
@@ -106,17 +108,33 @@ async def get_set_cards(exp, client, use_bulk: bool = False):
     if use_bulk:
         return await get_set_from_bulk(exp)
 
-    result = await client.get(
-        f"https://api.scryfall.com/cards/search?order=set&q=e%3A{exp.lower()}&unique=prints",
-    )
-    if result.status_code != 200:
-        raise httpx.ConnectError(
-            f"Got error getting {exp} card list: {result.status_code}"
-        )
+    while result := await client.get(
+            f"https://api.scryfall.com/cards/search?order=set&q=e%3A{exp.lower()}&unique=prints",
+    ):
+        if result.status_code != 200:
+            if result.status_code == 429:
+                print(f"waiting on {exp}")
+                await anyio.sleep(63)
+                continue
+            else:
+                raise httpx.ConnectError(
+                    f"Got error getting {exp} card list: {result.status_code}"
+                )
+        break
     data = result.json()
     cards: list = data["data"]
     while data["has_more"]:
-        result = await client.get(data["next_page"])
+        while result := await client.get(data["next_page"]):
+            if result.status_code != 200:
+                if result.status_code == 429:
+                    await anyio.sleep(63)
+                    print(f"waiting on {exp}, next page")
+                    continue
+                else:
+                    raise httpx.ConnectError(
+                        f"Got error getting {exp} card list: {result.status_code}"
+                    )
+            break
         data = result.json()
         cards.extend(data["data"])
     return cards

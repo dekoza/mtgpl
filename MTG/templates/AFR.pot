@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG po polsku 2022.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-01 13:29+0200\n"
+"POT-Creation-Date: 2022-10-15 23:10+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2005,7 +2005,7 @@ msgid "When you roll a natural 20, return Critical Hit from your graveyard to yo
 msgstr ""
 
 #: ../../AFR.rst:972
-msgid ":mtgtip:`Delina, Wild Mage<https://cards.scryfall.io/border_crop/front/e/8/e87459aa-af8f-4bd2-a310-151353083a2e.jpg?1664162532|https://scryfall.com/card/afr/138/delina-wild-mage?utm_source=api>`"
+msgid ":mtgtip:`Delina, Wild Mage<https://cards.scryfall.io/border_crop/front/e/8/e87459aa-af8f-4bd2-a310-151353083a2e.jpg?1665157404|https://scryfall.com/card/afr/138/delina-wild-mage?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:967
@@ -2489,12 +2489,11 @@ msgid "|mana_1|\\ |mana_g|: Dire Wolf Prowler gets +2/+2 and gains haste until e
 msgstr ""
 
 #: ../../AFR.rst:1240
-msgid ":mtgtip:`Druid Class<https://cards.scryfall.io/border_crop/front/0/9/09278e95-eaae-4cd4-a0d8-a2d15b0abb58.jpg?1639436614|https://scryfall.com/card/afr/180/druid-class?utm_source=api>`"
+msgid ":mtgtip:`Druid Class<https://cards.scryfall.io/border_crop/front/0/9/09278e95-eaae-4cd4-a0d8-a2d15b0abb58.jpg?1665822447|https://scryfall.com/card/afr/180/druid-class?utm_source=api>`"
 msgstr ""
 
 #: ../../AFR.rst:1231
-#: ../../AFR.rst:1245
-msgid "Whenever a land enters the battlefield under your control, you gain 1 life."
+msgid "Landfall — Whenever a land enters the battlefield under your control, you gain 1 life."
 msgstr ""
 
 #: ../../AFR.rst:1233
@@ -2518,6 +2517,10 @@ msgstr ""
 
 #: ../../AFR.rst:1254
 msgid ":mtgtip:`A-Druid Class<https://cards.scryfall.io/border_crop/front/8/c/8cbd3554-0096-470d-ba9d-011f5c8212c4.jpg?1645415423|https://scryfall.com/card/afr/A-180/a-druid-class?utm_source=api>`"
+msgstr ""
+
+#: ../../AFR.rst:1245
+msgid "Whenever a land enters the battlefield under your control, you gain 1 life."
 msgstr ""
 
 #: ../../AFR.rst:1251

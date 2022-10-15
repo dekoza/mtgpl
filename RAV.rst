@@ -935,8 +935,8 @@
    Trample
 
 
-:mtgtip:`Stone-Seeder Hierophant<https://cards.scryfall.io/border_crop/front/f/4/f4e1b9f9-e58c-4474-9a31-8e5d9f96492e.jpg?1598916614|https://scryfall.com/card/rav/184/stone-seeder-hierophant?utm_source=api>`
-   Whenever a land enters the battlefield under your control, untap Stone-Seeder Hierophant.
+:mtgtip:`Stone-Seeder Hierophant<https://cards.scryfall.io/border_crop/front/f/4/f4e1b9f9-e58c-4474-9a31-8e5d9f96492e.jpg?1665822986|https://scryfall.com/card/rav/184/stone-seeder-hierophant?utm_source=api>`
+   Landfall — Whenever a land enters the battlefield under your control, untap Stone-Seeder Hierophant.
 
    |tap|: Untap target land.
 
@@ -962,7 +962,7 @@
 
 
 :mtgtip:`Vinelasher Kudzu<https://cards.scryfall.io/border_crop/front/3/4/34955f52-521f-466c-9025-c117f6162e97.jpg?1598916696|https://scryfall.com/card/rav/189/vinelasher-kudzu?utm_source=api>`
-   Whenever a land enters the battlefield under your control, put a +1/+1 counter on Vinelasher Kudzu.
+   Landfall — Whenever a land enters the battlefield under your control, put a +1/+1 counter on Vinelasher Kudzu.
 
 
 :mtgtip:`Agrus Kos, Wojek Veteran<https://cards.scryfall.io/border_crop/front/c/2/c2521942-0ecd-45a9-bac6-04267a2c29ed.jpg?1598916720|https://scryfall.com/card/rav/190/agrus-kos-wojek-veteran?utm_source=api>`

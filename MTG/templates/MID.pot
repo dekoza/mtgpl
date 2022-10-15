@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG po polsku 2022.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-01 13:29+0200\n"
+"POT-Creation-Date: 2022-10-15 23:10+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -902,11 +902,11 @@ msgid "Whenever day becomes night or night becomes day, you may tap or untap tar
 msgstr ""
 
 #: ../../MID.rst:324
-msgid ":mtgtip:`Consider<https://cards.scryfall.io/border_crop/front/a/2/a211d505-4d40-4914-a9da-220770d6ddbc.jpg?1634348697|https://scryfall.com/card/mid/44/consider?utm_source=api>`"
+msgid ":mtgtip:`Consider<https://cards.scryfall.io/border_crop/front/a/2/a211d505-4d40-4914-a9da-220770d6ddbc.jpg?1665819309|https://scryfall.com/card/mid/44/consider?utm_source=api>`"
 msgstr ""
 
 #: ../../MID.rst:321
-msgid "Look at the top card of your library. You may put that card into your graveyard."
+msgid "Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)"
 msgstr ""
 
 #: ../../MID.rst:323
@@ -1070,7 +1070,7 @@ msgid "Enchanted creature gets +1/+1."
 msgstr ""
 
 #: ../../MID.rst:426
-msgid ":mtgtip:`Larder Zombie<https://cards.scryfall.io/border_crop/front/a/7/a7c0dcac-f3d4-4d6e-9c6e-9295bb1cd47f.jpg?1634348960|https://scryfall.com/card/mid/58/larder-zombie?utm_source=api>`"
+msgid ":mtgtip:`Larder Zombie<https://cards.scryfall.io/border_crop/front/a/7/a7c0dcac-f3d4-4d6e-9c6e-9295bb1cd47f.jpg?1665819571|https://scryfall.com/card/mid/58/larder-zombie?utm_source=api>`"
 msgstr ""
 
 #: ../../MID.rst:423
@@ -1080,7 +1080,7 @@ msgid "Defender"
 msgstr ""
 
 #: ../../MID.rst:425
-msgid "Tap three untapped creatures you control: Look at the top card of your library. You may put it into your graveyard."
+msgid "Tap three untapped creatures you control: Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)"
 msgstr ""
 
 #: ../../MID.rst:432
@@ -1193,11 +1193,11 @@ msgid "When Organ Hoarder enters the battlefield, look at the top three cards of
 msgstr ""
 
 #: ../../MID.rst:496
-msgid ":mtgtip:`Otherworldly Gaze<https://cards.scryfall.io/border_crop/front/9/c/9cebee20-869e-45ed-9ddc-843faf4032ad.jpg?1634349134|https://scryfall.com/card/mid/67/otherworldly-gaze?utm_source=api>`"
+msgid ":mtgtip:`Otherworldly Gaze<https://cards.scryfall.io/border_crop/front/9/c/9cebee20-869e-45ed-9ddc-843faf4032ad.jpg?1665819722|https://scryfall.com/card/mid/67/otherworldly-gaze?utm_source=api>`"
 msgstr ""
 
 #: ../../MID.rst:493
-msgid "Look at the top three cards of your library. Put any number of them into your graveyard and the rest back on top of your library in any order."
+msgid "Surveil 3. (Look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)"
 msgstr ""
 
 #: ../../MID.rst:495
@@ -1763,7 +1763,7 @@ msgid "Equip |mana_3|"
 msgstr ""
 
 #: ../../MID.rst:830
-msgid ":mtgtip:`The Meathook Massacre<https://cards.scryfall.io/border_crop/front/0/8/08950015-eee5-4327-888c-82dfd13bb9ad.jpg?1634350016|https://scryfall.com/card/mid/112/the-meathook-massacre?utm_source=api>`"
+msgid ":mtgtip:`The Meathook Massacre<https://cards.scryfall.io/border_crop/front/0/8/08950015-eee5-4327-888c-82dfd13bb9ad.jpg?1665402503|https://scryfall.com/card/mid/112/the-meathook-massacre?utm_source=api>`"
 msgstr ""
 
 #: ../../MID.rst:825

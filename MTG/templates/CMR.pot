@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG po polsku 2022.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-01 13:29+0200\n"
+"POT-Creation-Date: 2022-10-15 23:10+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2381,11 +2381,11 @@ msgid "Stonefury deals damage to target creature equal to the number of lands yo
 msgstr ""
 
 #: ../../CMR.rst:1164
-msgid ":mtgtip:`Toggo, Goblin Weaponsmith<https://cards.scryfall.io/border_crop/front/1/a/1a05b3e2-259e-4fce-92ee-c00660e22ae7.jpg?1608910436|https://scryfall.com/card/cmr/204/toggo-goblin-weaponsmith?utm_source=api>`"
+msgid ":mtgtip:`Toggo, Goblin Weaponsmith<https://cards.scryfall.io/border_crop/front/1/a/1a05b3e2-259e-4fce-92ee-c00660e22ae7.jpg?1665822993|https://scryfall.com/card/cmr/204/toggo-goblin-weaponsmith?utm_source=api>`"
 msgstr ""
 
 #: ../../CMR.rst:1161
-msgid "Whenever a land enters the battlefield under your control, create a colorless Equipment artifact token named Rock with \"Equipped creature has '|mana_1|, |tap|, Sacrifice Rock: This creature deals 2 damage to any target'\" and equip |mana_1|."
+msgid "Landfall — Whenever a land enters the battlefield under your control, create a colorless Equipment artifact token named Rock with \"Equipped creature has '|mana_1|, |tap|, Sacrifice Rock: This creature deals 2 damage to any target'\" and equip |mana_1|."
 msgstr ""
 
 #: ../../CMR.rst:1172
@@ -3997,7 +3997,7 @@ msgid "Whenever equipped creature is dealt damage, it deals that much damage to 
 msgstr ""
 
 #: ../../CMR.rst:2082
-msgid ":mtgtip:`Aesi, Tyrant of Gyre Strait<https://cards.scryfall.io/border_crop/front/d/6/d607b003-6b48-429c-a7fd-45b8dd1bb4f9.jpg?1610072986|https://scryfall.com/card/cmr/365/aesi-tyrant-of-gyre-strait?utm_source=api>`"
+msgid ":mtgtip:`Aesi, Tyrant of Gyre Strait<https://cards.scryfall.io/border_crop/front/d/6/d607b003-6b48-429c-a7fd-45b8dd1bb4f9.jpg?1665822343|https://scryfall.com/card/cmr/365/aesi-tyrant-of-gyre-strait?utm_source=api>`"
 msgstr ""
 
 #: ../../CMR.rst:2079
@@ -4005,11 +4005,11 @@ msgid "You may play an additional land on each of your turns."
 msgstr ""
 
 #: ../../CMR.rst:2081
-msgid "Whenever a land enters the battlefield under your control, you may draw a card."
+msgid "Landfall — Whenever a land enters the battlefield under your control, you may draw a card."
 msgstr ""
 
 #: ../../CMR.rst:2088
-msgid ":mtgtip:`Trench Behemoth<https://cards.scryfall.io/border_crop/front/9/0/909dc123-8234-4e81-bb7b-77404d94a87c.jpg?1610074909|https://scryfall.com/card/cmr/366/trench-behemoth?utm_source=api>`"
+msgid ":mtgtip:`Trench Behemoth<https://cards.scryfall.io/border_crop/front/9/0/909dc123-8234-4e81-bb7b-77404d94a87c.jpg?1665823653|https://scryfall.com/card/cmr/366/trench-behemoth?utm_source=api>`"
 msgstr ""
 
 #: ../../CMR.rst:2085
@@ -4017,7 +4017,7 @@ msgid "Return a land you control to its owner's hand: Untap Trench Behemoth. It 
 msgstr ""
 
 #: ../../CMR.rst:2087
-msgid "Whenever a land enters the battlefield under your control, target creature an opponent controls attacks during its controller's next combat phase if able."
+msgid "Landfall — Whenever a land enters the battlefield under your control, target creature an opponent controls attacks during its controller's next combat phase if able."
 msgstr ""
 
 #: ../../CMR.rst:2092

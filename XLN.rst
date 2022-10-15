@@ -367,11 +367,11 @@
    When Sailor of Means enters the battlefield, create a Treasure token. (It's an artifact with "|tap|, Sacrifice this artifact: Add one mana of any color.")
 
 
-:mtgtip:`Search for Azcanta<https://cards.scryfall.io/border_crop/front/1/a/1a7e242e-bb48-4134-a1c2-6033713d658f.jpg?1562551479|https://scryfall.com/card/xln/74/search-for-azcanta-azcanta-the-sunken-ruin?utm_source=api>`
-   At the beginning of your upkeep, look at the top card of your library. You may put it into your graveyard. Then if you have seven or more cards in your graveyard, you may transform Search for Azcanta.
+:mtgtip:`Search for Azcanta<https://cards.scryfall.io/border_crop/front/1/a/1a7e242e-bb48-4134-a1c2-6033713d658f.jpg?1665819797|https://scryfall.com/card/xln/74/search-for-azcanta-azcanta-the-sunken-ruin?utm_source=api>`
+   At the beginning of your upkeep, surveil 1. Then if you have seven or more cards in your graveyard, you may transform Search for Azcanta. (Look at the top card of your library. You may put that card into your graveyard.)
 
 
-:mtgtip:`Azcanta, the Sunken Ruin<https://cards.scryfall.io/border_crop/back/1/a/1a7e242e-bb48-4134-a1c2-6033713d658f.jpg?1562551479|https://scryfall.com/card/xln/74/search-for-azcanta-azcanta-the-sunken-ruin?utm_source=api>`
+:mtgtip:`Azcanta, the Sunken Ruin<https://cards.scryfall.io/border_crop/back/1/a/1a7e242e-bb48-4134-a1c2-6033713d658f.jpg?1665819797|https://scryfall.com/card/xln/74/search-for-azcanta-azcanta-the-sunken-ruin?utm_source=api>`
    (Transforms from Search for Azcanta.)
 
    |tap|: Add |mana_u|.
@@ -1111,7 +1111,7 @@
    Whenever Gishath, Sun's Avatar deals combat damage to a player, reveal that many cards from the top of your library. Put any number of Dinosaur creature cards from among them onto the battlefield and the rest on the bottom of your library in a random order.
 
 
-:mtgtip:`Hostage Taker<https://cards.scryfall.io/border_crop/front/e/8/e8dc67a0-05d9-463e-9794-30a7e951c240.jpg?1562565924|https://scryfall.com/card/xln/223/hostage-taker?utm_source=api>`
+:mtgtip:`Hostage Taker<https://cards.scryfall.io/border_crop/front/e/8/e8dc67a0-05d9-463e-9794-30a7e951c240.jpg?1665156357|https://scryfall.com/card/xln/223/hostage-taker?utm_source=api>`
    When Hostage Taker enters the battlefield, exile another target creature or artifact until Hostage Taker leaves the battlefield. You may cast that card for as long as it remains exiled, and you may spend mana as though it were mana of any type to cast that spell.
 
 

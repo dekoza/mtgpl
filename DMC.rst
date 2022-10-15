@@ -185,12 +185,12 @@
    |mana_7|\ |mana_g|, |tap|: Create a 4/4 green Wurm creature token. This ability costs |mana_x| less to activate, where X is the greatest power among Wurms you control.
 
 
-:mtgtip:`Greensleeves, Maro-Sorcerer<https://cards.scryfall.io/border_crop/front/0/9/0969d7f3-cec5-4118-adb1-ff957eedf6ab.jpg?1664359562|https://scryfall.com/card/dmc/27/greensleeves-maro-sorcerer?utm_source=api>`
+:mtgtip:`Greensleeves, Maro-Sorcerer<https://cards.scryfall.io/border_crop/front/0/9/0969d7f3-cec5-4118-adb1-ff957eedf6ab.jpg?1665822494|https://scryfall.com/card/dmc/27/greensleeves-maro-sorcerer?utm_source=api>`
    Protection from planeswalkers and from Wizards
 
    Greensleeves, Maro-Sorcerer's power and toughness are each equal to the number of lands you control.
 
-   Whenever a land enters the battlefield under your control, create a 3/3 green Badger creature token.
+   Landfall — Whenever a land enters the battlefield under your control, create a 3/3 green Badger creature token.
 
 
 :mtgtip:`The Mana Rig<https://cards.scryfall.io/border_crop/front/c/0/c0a6edbf-eabe-44d3-b098-562f3758c005.jpg?1664359581|https://scryfall.com/card/dmc/28/the-mana-rig?utm_source=api>`
@@ -231,10 +231,10 @@
    Whenever Jedit Ojanen, Mercenary or another legendary creature enters the battlefield under your control, you may pay |mana_g|. If you do, create a 2/2 green Cat Warrior creature token with forestwalk. (It can't be blocked as long as defending player controls a Forest.)
 
 
-:mtgtip:`The Lady of Otaria<https://cards.scryfall.io/border_crop/front/d/9/d96a5a00-22a7-4a7b-a7e2-5c055a8384ba.jpg?1661391146|https://scryfall.com/card/dmc/35/the-lady-of-otaria?utm_source=api>`
+:mtgtip:`The Lady of Otaria<https://cards.scryfall.io/border_crop/front/d/9/d96a5a00-22a7-4a7b-a7e2-5c055a8384ba.jpg?1665528753|https://scryfall.com/card/dmc/35/the-lady-of-otaria?utm_source=api>`
    You may tap three untapped Dwarves you control rather than pay this spell's mana cost.
 
-   At the beginning of each end step, if a land you controlled was put into your graveyard from the battlefield this turn, reveal the top four cards of your library. Put any number of Dwarf cards from among them into your hand and the rest on the bottom of your library in a random order.
+   At the beginning of each end step, if a land you controlled was put into your graveyard from the battlefield this turn, reveal the top four cards of your library. Put any number of Dwarf cards from among them into your hand. Put the rest on the bottom of your library in a random order.
 
 
 :mtgtip:`Ohabi Caleria<https://cards.scryfall.io/border_crop/front/8/2/82003d72-5138-4341-a53a-62b794f2bce1.jpg?1661064630|https://scryfall.com/card/dmc/36/ohabi-caleria?utm_source=api>`

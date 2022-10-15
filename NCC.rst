@@ -679,7 +679,7 @@
    Creature tokens you control get +1/+1 and have vigilance.
 
 
-:mtgtip:`Luminarch Aspirant<https://cards.scryfall.io/border_crop/front/d/c/dcd27fa3-f6b6-4137-9b6c-4cba7187664c.jpg?1650408014|https://scryfall.com/card/ncc/205/luminarch-aspirant?utm_source=api>`
+:mtgtip:`Luminarch Aspirant<https://cards.scryfall.io/border_crop/front/d/c/dcd27fa3-f6b6-4137-9b6c-4cba7187664c.jpg?1665343478|https://scryfall.com/card/ncc/205/luminarch-aspirant?utm_source=api>`
    At the beginning of combat on your turn, put a +1/+1 counter on target creature you control.
 
 
@@ -1133,8 +1133,8 @@
    Put a -1/-1 counter on Devoted Druid: Untap Devoted Druid.
 
 
-:mtgtip:`Evolution Sage<https://cards.scryfall.io/border_crop/front/2/4/245cb567-5d71-49ca-8670-46197ccdac8a.jpg?1650418854|https://scryfall.com/card/ncc/287/evolution-sage?utm_source=api>`
-   Whenever a land enters the battlefield under your control, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
+:mtgtip:`Evolution Sage<https://cards.scryfall.io/border_crop/front/2/4/245cb567-5d71-49ca-8670-46197ccdac8a.jpg?1665822462|https://scryfall.com/card/ncc/287/evolution-sage?utm_source=api>`
+   Landfall — Whenever a land enters the battlefield under your control, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
 
 
 :mtgtip:`Evolutionary Leap<https://cards.scryfall.io/border_crop/front/4/d/4d007d3c-3356-4394-9bcd-2b2c1031c20b.jpg?1650418875|https://scryfall.com/card/ncc/288/evolutionary-leap?utm_source=api>`

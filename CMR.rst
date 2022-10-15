@@ -1157,8 +1157,8 @@
    Stonefury deals damage to target creature equal to the number of lands you control.
 
 
-:mtgtip:`Toggo, Goblin Weaponsmith<https://cards.scryfall.io/border_crop/front/1/a/1a05b3e2-259e-4fce-92ee-c00660e22ae7.jpg?1608910436|https://scryfall.com/card/cmr/204/toggo-goblin-weaponsmith?utm_source=api>`
-   Whenever a land enters the battlefield under your control, create a colorless Equipment artifact token named Rock with "Equipped creature has '|mana_1|, |tap|, Sacrifice Rock: This creature deals 2 damage to any target'" and equip |mana_1|.
+:mtgtip:`Toggo, Goblin Weaponsmith<https://cards.scryfall.io/border_crop/front/1/a/1a05b3e2-259e-4fce-92ee-c00660e22ae7.jpg?1665822993|https://scryfall.com/card/cmr/204/toggo-goblin-weaponsmith?utm_source=api>`
+   Landfall — Whenever a land enters the battlefield under your control, create a colorless Equipment artifact token named Rock with "Equipped creature has '|mana_1|, |tap|, Sacrifice Rock: This creature deals 2 damage to any target'" and equip |mana_1|.
 
    Partner (You can have two commanders if both have partner.)
 
@@ -2075,16 +2075,16 @@
    Equip |mana_4|
 
 
-:mtgtip:`Aesi, Tyrant of Gyre Strait<https://cards.scryfall.io/border_crop/front/d/6/d607b003-6b48-429c-a7fd-45b8dd1bb4f9.jpg?1610072986|https://scryfall.com/card/cmr/365/aesi-tyrant-of-gyre-strait?utm_source=api>`
+:mtgtip:`Aesi, Tyrant of Gyre Strait<https://cards.scryfall.io/border_crop/front/d/6/d607b003-6b48-429c-a7fd-45b8dd1bb4f9.jpg?1665822343|https://scryfall.com/card/cmr/365/aesi-tyrant-of-gyre-strait?utm_source=api>`
    You may play an additional land on each of your turns.
 
-   Whenever a land enters the battlefield under your control, you may draw a card.
+   Landfall — Whenever a land enters the battlefield under your control, you may draw a card.
 
 
-:mtgtip:`Trench Behemoth<https://cards.scryfall.io/border_crop/front/9/0/909dc123-8234-4e81-bb7b-77404d94a87c.jpg?1610074909|https://scryfall.com/card/cmr/366/trench-behemoth?utm_source=api>`
+:mtgtip:`Trench Behemoth<https://cards.scryfall.io/border_crop/front/9/0/909dc123-8234-4e81-bb7b-77404d94a87c.jpg?1665823653|https://scryfall.com/card/cmr/366/trench-behemoth?utm_source=api>`
    Return a land you control to its owner's hand: Untap Trench Behemoth. It gains hexproof until end of turn.
 
-   Whenever a land enters the battlefield under your control, target creature an opponent controls attacks during its controller's next combat phase if able.
+   Landfall — Whenever a land enters the battlefield under your control, target creature an opponent controls attacks during its controller's next combat phase if able.
 
 
 :mtgtip:`Stumpsquall Hydra<https://cards.scryfall.io/border_crop/front/8/f/8fe8096b-332a-4832-b957-7a35bb350e4e.jpg?1610074924|https://scryfall.com/card/cmr/367/stumpsquall-hydra?utm_source=api>`

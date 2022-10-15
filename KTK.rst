@@ -309,8 +309,8 @@
    Ferocious — If you control a creature with power 4 or greater, counter that spell instead.
 
 
-:mtgtip:`Taigam's Scheming<https://cards.scryfall.io/border_crop/front/8/7/87f4b533-7113-4b36-9c7a-e4cf798c88a9.jpg?1562789814|https://scryfall.com/card/ktk/57/taigams-scheming?utm_source=api>`
-   Look at the top five cards of your library. Put any number of them into your graveyard and the rest back on top of your library in any order.
+:mtgtip:`Taigam's Scheming<https://cards.scryfall.io/border_crop/front/8/7/87f4b533-7113-4b36-9c7a-e4cf798c88a9.jpg?1665819837|https://scryfall.com/card/ktk/57/taigams-scheming?utm_source=api>`
+   Surveil 5. (Look at the top five cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
 
 
 :mtgtip:`Thousand Winds<https://cards.scryfall.io/border_crop/front/2/4/249b453c-0d5b-4af9-aaec-ebd2f19c5d23.jpg?1562783727|https://scryfall.com/card/ktk/58/thousand-winds?utm_source=api>`
@@ -1095,8 +1095,8 @@
    −6: You get an emblem with "At the beginning of each opponent's upkeep, that player sacrifices a creature."
 
 
-:mtgtip:`Sultai Ascendancy<https://cards.scryfall.io/border_crop/front/3/3/3314d77a-039f-43e4-a457-6ceba20c0ffe.jpg?1562784612|https://scryfall.com/card/ktk/203/sultai-ascendancy?utm_source=api>`
-   At the beginning of your upkeep, look at the top two cards of your library. Put any number of them into your graveyard and the rest back on top of your library in any order.
+:mtgtip:`Sultai Ascendancy<https://cards.scryfall.io/border_crop/front/3/3/3314d77a-039f-43e4-a457-6ceba20c0ffe.jpg?1665819808|https://scryfall.com/card/ktk/203/sultai-ascendancy?utm_source=api>`
+   At the beginning of your upkeep, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
 
 
 :mtgtip:`Sultai Charm<https://cards.scryfall.io/border_crop/front/9/9/993c9028-9b1b-4903-81b2-3cf4f37b7229.jpg?1562790829|https://scryfall.com/card/ktk/204/sultai-charm?utm_source=api>`

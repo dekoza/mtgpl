@@ -691,7 +691,7 @@
    Whenever Warteye Witch or another creature you control dies, scry 1.
 
 
-:mtgtip:`Yawgmoth, Thran Physician<https://cards.scryfall.io/border_crop/front/8/6/8690cbcc-f8fd-41f7-9e28-e61c12b04014.jpg?1562201785|https://scryfall.com/card/mh1/116/yawgmoth-thran-physician?utm_source=api>`
+:mtgtip:`Yawgmoth, Thran Physician<https://cards.scryfall.io/border_crop/front/8/6/8690cbcc-f8fd-41f7-9e28-e61c12b04014.jpg?1665611812|https://scryfall.com/card/mh1/116/yawgmoth-thran-physician?utm_source=api>`
    Protection from Humans
 
    Pay 1 life, Sacrifice another creature: Put a -1/-1 counter on up to one target creature and draw a card.

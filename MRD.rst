@@ -621,7 +621,7 @@
    Trample
 
 
-:mtgtip:`Glissa Sunseeker<https://cards.scryfall.io/border_crop/front/6/7/670c3106-71fc-464e-8c94-81bf7fafc3e6.jpg?1562146413|https://scryfall.com/card/mrd/120/glissa-sunseeker?utm_source=api>`
+:mtgtip:`Glissa Sunseeker<https://cards.scryfall.io/border_crop/front/6/7/670c3106-71fc-464e-8c94-81bf7fafc3e6.jpg?1665504346|https://scryfall.com/card/mrd/120/glissa-sunseeker?utm_source=api>`
    First strike
 
    |tap|: Destroy target artifact if its mana value is equal to the amount of unspent mana you have.

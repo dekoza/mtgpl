@@ -485,7 +485,7 @@
    Cycling |mana_2| (|mana_2|, Discard this card: Draw a card.)
 
 
-:mtgtip:`Show and Tell<https://cards.scryfall.io/border_crop/front/4/b/4b851c17-55ed-4671-b471-dc7b34944432.jpg?1562910835|https://scryfall.com/card/usg/96/show-and-tell?utm_source=api>`
+:mtgtip:`Show and Tell<https://cards.scryfall.io/border_crop/front/4/b/4b851c17-55ed-4671-b471-dc7b34944432.jpg?1664777488|https://scryfall.com/card/usg/96/show-and-tell?utm_source=api>`
    Each player may put an artifact, creature, enchantment, or land card from their hand onto the battlefield.
 
 

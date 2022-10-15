@@ -417,7 +417,7 @@
    Draw a card.
 
 
-:mtgtip:`Dungeon Delver<https://cards.scryfall.io/border_crop/front/c/b/cba131bb-b8b3-4577-9f41-4700d9985134.jpg?1660723707|https://scryfall.com/card/clb/67/dungeon-delver?utm_source=api>`
+:mtgtip:`Dungeon Delver<https://cards.scryfall.io/border_crop/front/c/b/cba131bb-b8b3-4577-9f41-4700d9985134.jpg?1665439697|https://scryfall.com/card/clb/67/dungeon-delver?utm_source=api>`
    Commander creatures you own have "Room abilities of dungeons you own trigger an additional time."
 
 
@@ -717,7 +717,7 @@
    Each player secretly chooses a creature they control and a creature they don't control. Then those choices are revealed. Destroy each creature chosen this way.
 
 
-:mtgtip:`Cast Down<https://cards.scryfall.io/border_crop/front/a/b/aba79021-39af-4e74-beb5-f2f508c865b2.jpg?1660724970|https://scryfall.com/card/clb/119/cast-down?utm_source=api>`
+:mtgtip:`Cast Down<https://cards.scryfall.io/border_crop/front/a/b/aba79021-39af-4e74-beb5-f2f508c865b2.jpg?1665439686|https://scryfall.com/card/clb/119/cast-down?utm_source=api>`
    Destroy target nonlegendary creature.
 
 
@@ -3385,12 +3385,12 @@
    Destroy target artifact or enchantment.
 
 
-:mtgtip:`Primeval Bounty<https://cards.scryfall.io/border_crop/front/0/3/03b9e943-9650-434c-a540-35ca7c96365b.jpg?1654117974|https://scryfall.com/card/clb/830/primeval-bounty?utm_source=api>`
+:mtgtip:`Primeval Bounty<https://cards.scryfall.io/border_crop/front/0/3/03b9e943-9650-434c-a540-35ca7c96365b.jpg?1665822563|https://scryfall.com/card/clb/830/primeval-bounty?utm_source=api>`
    Whenever you cast a creature spell, create a 3/3 green Beast creature token.
 
    Whenever you cast a noncreature spell, put three +1/+1 counters on target creature you control.
 
-   Whenever a land enters the battlefield under your control, you gain 3 life.
+   Landfall — Whenever a land enters the battlefield under your control, you gain 3 life.
 
 
 :mtgtip:`Return of the Wildspeaker<https://cards.scryfall.io/border_crop/front/8/6/863e0861-7934-4141-9ef5-120339ac83a5.jpg?1654117989|https://scryfall.com/card/clb/831/return-of-the-wildspeaker?utm_source=api>`

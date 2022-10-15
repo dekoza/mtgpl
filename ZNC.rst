@@ -360,7 +360,7 @@
 
 
 :mtgtip:`Evolution Sage<https://cards.scryfall.io/border_crop/front/9/6/969bf351-c7df-4eb0-8065-9b8d5233f8f3.jpg?1604193936|https://scryfall.com/card/znc/65/evolution-sage?utm_source=api>`
-   Whenever a land enters the battlefield under your control, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
+   Landfall — Whenever a land enters the battlefield under your control, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
 
 
 :mtgtip:`Far Wanderings<https://cards.scryfall.io/border_crop/front/d/b/db67c59e-a9fb-4580-a8cc-ac5ef6c07440.jpg?1604193960|https://scryfall.com/card/znc/66/far-wanderings?utm_source=api>`

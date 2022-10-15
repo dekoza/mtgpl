@@ -247,13 +247,13 @@
    Target creature gets +1/+3 and gains flying until end of turn. Untap it.
 
 
-:mtgtip:`Alrund, God of the Cosmos<https://cards.scryfall.io/border_crop/front/5/d/5d131784-c1a3-463e-a37b-b720af67ab62.jpg?1631046568|https://scryfall.com/card/khm/40/alrund-god-of-the-cosmos-hakka-whispering-raven?utm_source=api>`
+:mtgtip:`Alrund, God of the Cosmos<https://cards.scryfall.io/border_crop/front/5/d/5d131784-c1a3-463e-a37b-b720af67ab62.jpg?1665157358|https://scryfall.com/card/khm/40/alrund-god-of-the-cosmos-hakka-whispering-raven?utm_source=api>`
    Alrund gets +1/+1 for each card in your hand and each foretold card you own in exile.
 
    At the beginning of your end step, choose a card type, then reveal the top two cards of your library. Put all cards of the chosen type revealed this way into your hand and the rest on the bottom of your library in any order.
 
 
-:mtgtip:`Hakka, Whispering Raven<https://cards.scryfall.io/border_crop/back/5/d/5d131784-c1a3-463e-a37b-b720af67ab62.jpg?1631046568|https://scryfall.com/card/khm/40/alrund-god-of-the-cosmos-hakka-whispering-raven?utm_source=api>`
+:mtgtip:`Hakka, Whispering Raven<https://cards.scryfall.io/border_crop/back/5/d/5d131784-c1a3-463e-a37b-b720af67ab62.jpg?1665157358|https://scryfall.com/card/khm/40/alrund-god-of-the-cosmos-hakka-whispering-raven?utm_source=api>`
    Flying
 
    Whenever Hakka, Whispering Raven deals combat damage to a player, return it to its owner's hand, then scry 2.
@@ -889,18 +889,10 @@
    Frost Bite deals 2 damage to target creature or planeswalker. If you control three or more snow permanents, it deals 3 damage instead.
 
 
-:mtgtip:`Goldspan Dragon<https://cards.scryfall.io/border_crop/front/9/d/9d914868-9000-4df2-a818-0ef8a7f636ae.jpg?1639436640|https://scryfall.com/card/khm/139/goldspan-dragon?utm_source=api>`
+:mtgtip:`Goldspan Dragon<https://cards.scryfall.io/border_crop/front/9/d/9d914868-9000-4df2-a818-0ef8a7f636ae.jpg?1665343456|https://scryfall.com/card/khm/139/goldspan-dragon?utm_source=api>`
    Flying, haste
 
    Whenever Goldspan Dragon attacks or becomes the target of a spell, create a Treasure token.
-
-   Treasures you control have "|tap|, Sacrifice this artifact: Add two mana of any one color."
-
-
-:mtgtip:`A-Goldspan Dragon<https://cards.scryfall.io/border_crop/front/2/d/2dc90624-2914-4d1f-91a6-3079586f27c7.jpg?1647770466|https://scryfall.com/card/khm/A-139/a-goldspan-dragon?utm_source=api>`
-   Flying, haste
-
-   Whenever A-Goldspan Dragon attacks, create a Treasure token.
 
    Treasures you control have "|tap|, Sacrifice this artifact: Add two mana of any one color."
 
@@ -1089,20 +1081,12 @@
    At the beginning of your upkeep, reveal cards from the top of your library until you reveal a creature or planeswalker card. Put that card onto the battlefield and the rest on the bottom of your library in a random order.
 
 
-:mtgtip:`Esika's Chariot<https://cards.scryfall.io/border_crop/front/a/8/a87606cc-fbf0-4e2c-9798-f1c935d0573d.jpg?1639436653|https://scryfall.com/card/khm/169/esikas-chariot?utm_source=api>`
+:mtgtip:`Esika's Chariot<https://cards.scryfall.io/border_crop/front/a/8/a87606cc-fbf0-4e2c-9798-f1c935d0573d.jpg?1665343333|https://scryfall.com/card/khm/169/esikas-chariot?utm_source=api>`
    When Esika's Chariot enters the battlefield, create two 2/2 green Cat creature tokens.
 
    Whenever Esika's Chariot attacks, create a token that's a copy of target token you control.
 
    Crew 4
-
-
-:mtgtip:`A-Esika's Chariot<https://cards.scryfall.io/border_crop/front/4/4/44e09a40-3b9d-4b41-a6b9-c20373572341.jpg?1645415546|https://scryfall.com/card/khm/A-169/a-esikas-chariot?utm_source=api>`
-   When Esika's Chariot enters the battlefield, create a 2/2 green Cat creature token.
-
-   Whenever Esika's Chariot attacks, create a token that's a copy of target token you control.
-
-   Crew 2
 
 
 :mtgtip:`Fynn, the Fangbearer<https://cards.scryfall.io/border_crop/front/7/d/7d7a8a90-13c1-4b0c-ab2e-fc8d91ccefd9.jpg?1631050242|https://scryfall.com/card/khm/170/fynn-the-fangbearer?utm_source=api>`
@@ -1513,10 +1497,10 @@
    • Koma, Cosmos Serpent gains indestructible until end of turn.
 
 
-:mtgtip:`Maja, Bretagard Protector<https://cards.scryfall.io/border_crop/front/c/c/cc3707f1-ed9d-412e-a7be-b6d8b554bd6c.jpg?1631051693|https://scryfall.com/card/khm/222/maja-bretagard-protector?utm_source=api>`
+:mtgtip:`Maja, Bretagard Protector<https://cards.scryfall.io/border_crop/front/c/c/cc3707f1-ed9d-412e-a7be-b6d8b554bd6c.jpg?1665822506|https://scryfall.com/card/khm/222/maja-bretagard-protector?utm_source=api>`
    Other creatures you control get +1/+1.
 
-   Whenever a land enters the battlefield under your control, create a 1/1 white Human Warrior creature token.
+   Landfall — Whenever a land enters the battlefield under your control, create a 1/1 white Human Warrior creature token.
 
 
 :mtgtip:`Moritte of the Frost<https://cards.scryfall.io/border_crop/front/2/2/22fdbe71-abca-4e48-99b2-1cb6b35d930b.jpg?1631051717|https://scryfall.com/card/khm/223/moritte-of-the-frost?utm_source=api>`
@@ -1773,16 +1757,10 @@
    |tap|: Add |mana_g|.
 
 
-:mtgtip:`Faceless Haven<https://cards.scryfall.io/border_crop/front/e/3/e3cd82e5-6072-4334-a493-01ca4ad6b4eb.jpg?1644607571|https://scryfall.com/card/khm/255/faceless-haven?utm_source=api>`
+:mtgtip:`Faceless Haven<https://cards.scryfall.io/border_crop/front/e/3/e3cd82e5-6072-4334-a493-01ca4ad6b4eb.jpg?1665343347|https://scryfall.com/card/khm/255/faceless-haven?utm_source=api>`
    |tap|: Add |colorless|.
 
    |mana_s|\ |mana_s|\ |mana_s|: Faceless Haven becomes a 4/3 creature with vigilance and all creature types until end of turn. It's still a land. (|mana_s| can be paid with one mana from a snow source.)
-
-
-:mtgtip:`A-Faceless Haven<https://cards.scryfall.io/border_crop/front/7/2/728d7bd8-251f-4f94-8487-64bf88baaabc.jpg?1645415743|https://scryfall.com/card/khm/A-255/a-faceless-haven?utm_source=api>`
-   |tap|: Add |colorless|.
-
-   |mana_s|\ |mana_s|\ |mana_s|: Faceless Haven becomes a 3/3 creature with vigilance and all creature types until end of turn. It's still a land. (|mana_s| can be paid with one mana from a snow source.)
 
 
 :mtgtip:`Gates of Istfell<https://cards.scryfall.io/border_crop/front/2/6/2627acb7-57d9-4429-9bc5-e7dd444d8d48.jpg?1631052735|https://scryfall.com/card/khm/256/gates-of-istfell?utm_source=api>`

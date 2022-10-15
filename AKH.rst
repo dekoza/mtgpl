@@ -353,8 +353,8 @@
    Cycling |mana_2| (|mana_2|, Discard this card: Draw a card.)
 
 
-:mtgtip:`Naga Oracle<https://cards.scryfall.io/border_crop/front/9/0/9060b7b5-3ef1-443e-8f8a-450cc42c43a6.jpg?1543675055|https://scryfall.com/card/akh/62/naga-oracle?utm_source=api>`
-   When Naga Oracle enters the battlefield, look at the top three cards of your library. Put any number of them into your graveyard and the rest back on top of your library in any order.
+:mtgtip:`Naga Oracle<https://cards.scryfall.io/border_crop/front/9/0/9060b7b5-3ef1-443e-8f8a-450cc42c43a6.jpg?1665819622|https://scryfall.com/card/akh/62/naga-oracle?utm_source=api>`
+   When Naga Oracle enters the battlefield, surveil 3. (Look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
 
 
 :mtgtip:`New Perspectives<https://cards.scryfall.io/border_crop/front/c/5/c56b5290-997d-44de-ac83-4bc9a9911858.jpg?1543675066|https://scryfall.com/card/akh/63/new-perspectives?utm_source=api>`

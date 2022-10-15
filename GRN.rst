@@ -1251,11 +1251,11 @@
    Intervention deals 3 damage to any target and you gain 3 life.
 
 
-:mtgtip:`Invert<https://cards.scryfall.io/border_crop/front/0/5/054a4e4f-8baa-41cf-b24c-d068e8b9a070.jpg?1572894007|https://scryfall.com/card/grn/228/invert-invent?utm_source=api>`
+:mtgtip:`Invert<https://cards.scryfall.io/border_crop/front/0/5/054a4e4f-8baa-41cf-b24c-d068e8b9a070.jpg?1665155918|https://scryfall.com/card/grn/228/invert-invent?utm_source=api>`
    Switch the power and toughness of each of up to two target creatures until end of turn.
 
 
-:mtgtip:`Invent<https://cards.scryfall.io/border_crop/front/0/5/054a4e4f-8baa-41cf-b24c-d068e8b9a070.jpg?1572894007|https://scryfall.com/card/grn/228/invert-invent?utm_source=api>`
+:mtgtip:`Invent<https://cards.scryfall.io/border_crop/front/0/5/054a4e4f-8baa-41cf-b24c-d068e8b9a070.jpg?1665155918|https://scryfall.com/card/grn/228/invert-invent?utm_source=api>`
    Search your library for an instant card and/or a sorcery card, reveal them, put them into your hand, then shuffle.
 
 

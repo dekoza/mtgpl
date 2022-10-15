@@ -641,7 +641,7 @@
    
 
 
-:mtgtip:`Yawgmoth's Vile Offering<https://cards.scryfall.io/border_crop/front/b/f/bf9794a7-caf5-40b9-8046-67823ff64a2c.jpg?1562742187|https://scryfall.com/card/dom/114/yawgmoths-vile-offering?utm_source=api>`
+:mtgtip:`Yawgmoth's Vile Offering<https://cards.scryfall.io/border_crop/front/b/f/bf9794a7-caf5-40b9-8046-67823ff64a2c.jpg?1665611825|https://scryfall.com/card/dom/114/yawgmoths-vile-offering?utm_source=api>`
    (You may cast a legendary sorcery only if you control a legendary creature or planeswalker.)
 
    Put up to one target creature or planeswalker card from a graveyard onto the battlefield under your control. Destroy up to one target creature or planeswalker. Exile Yawgmoth's Vile Offering.
@@ -1155,8 +1155,8 @@
    |mana_4|: Create a 1/1 green Saproling creature token.
 
 
-:mtgtip:`Tatyova, Benthic Druid<https://cards.scryfall.io/border_crop/front/9/3/93657aaa-7a0f-49ad-b026-6f79b3bd6768.jpg?1591104748|https://scryfall.com/card/dom/206/tatyova-benthic-druid?utm_source=api>`
-   Whenever a land enters the battlefield under your control, you gain 1 life and draw a card.
+:mtgtip:`Tatyova, Benthic Druid<https://cards.scryfall.io/border_crop/front/9/3/93657aaa-7a0f-49ad-b026-6f79b3bd6768.jpg?1665822988|https://scryfall.com/card/dom/206/tatyova-benthic-druid?utm_source=api>`
+   Landfall — Whenever a land enters the battlefield under your control, you gain 1 life and draw a card.
 
 
 :mtgtip:`Teferi, Hero of Dominaria<https://cards.scryfall.io/border_crop/front/5/d/5d10b752-d9cb-419d-a5c4-d4ee1acb655e.jpg?1562736365|https://scryfall.com/card/dom/207/teferi-hero-of-dominaria?utm_source=api>`

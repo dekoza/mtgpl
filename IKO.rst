@@ -1209,8 +1209,8 @@
    Whenever you cast a noncreature spell, put a +1/+1 counter on Sprite Dragon.
 
 
-:mtgtip:`Titans' Nest<https://cards.scryfall.io/border_crop/front/7/5/75d4e6f3-73cb-4799-bcb9-c1f5bc234a02.jpg?1612809764|https://scryfall.com/card/iko/212/titans-nest?utm_source=api>`
-   At the beginning of your upkeep, look at the top card of your library. You may put that card into your graveyard.
+:mtgtip:`Titans' Nest<https://cards.scryfall.io/border_crop/front/7/5/75d4e6f3-73cb-4799-bcb9-c1f5bc234a02.jpg?1665819895|https://scryfall.com/card/iko/212/titans-nest?utm_source=api>`
+   At the beginning of your upkeep, surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)
 
    Exile a card from your graveyard: Add |colorless|. Spend this mana only to cast a spell that's one or more colors without |mana_x| in its mana cost.
 
@@ -1337,7 +1337,7 @@
    Spells you cast of the chosen type cost |mana_1| less to cast.
 
 
-:mtgtip:`Yorion, Sky Nomad<https://cards.scryfall.io/border_crop/front/2/7/275426c4-c14e-47d0-a9d4-24da7f6f6911.jpg?1616182288|https://scryfall.com/card/iko/232/yorion-sky-nomad?utm_source=api>`
+:mtgtip:`Yorion, Sky Nomad<https://cards.scryfall.io/border_crop/front/2/7/275426c4-c14e-47d0-a9d4-24da7f6f6911.jpg?1665402560|https://scryfall.com/card/iko/232/yorion-sky-nomad?utm_source=api>`
    Companion — Your starting deck contains at least twenty cards more than the minimum deck size. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| any time you could cast a sorcery.)
 
    Flying

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG po polsku 2022.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-01 13:29+0200\n"
+"POT-Creation-Date: 2022-10-15 23:10+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -616,7 +616,7 @@ msgid "|mana_7|\\ |mana_g|, |tap|: Create a 4/4 green Wurm creature token. This 
 msgstr ""
 
 #: ../../DMC.rst:194
-msgid ":mtgtip:`Greensleeves, Maro-Sorcerer<https://cards.scryfall.io/border_crop/front/0/9/0969d7f3-cec5-4118-adb1-ff957eedf6ab.jpg?1664359562|https://scryfall.com/card/dmc/27/greensleeves-maro-sorcerer?utm_source=api>`"
+msgid ":mtgtip:`Greensleeves, Maro-Sorcerer<https://cards.scryfall.io/border_crop/front/0/9/0969d7f3-cec5-4118-adb1-ff957eedf6ab.jpg?1665822494|https://scryfall.com/card/dmc/27/greensleeves-maro-sorcerer?utm_source=api>`"
 msgstr ""
 
 #: ../../DMC.rst:189
@@ -628,7 +628,7 @@ msgid "Greensleeves, Maro-Sorcerer's power and toughness are each equal to the n
 msgstr ""
 
 #: ../../DMC.rst:193
-msgid "Whenever a land enters the battlefield under your control, create a 3/3 green Badger creature token."
+msgid "Landfall — Whenever a land enters the battlefield under your control, create a 3/3 green Badger creature token."
 msgstr ""
 
 #: ../../DMC.rst:200
@@ -708,7 +708,7 @@ msgid "Whenever Jedit Ojanen, Mercenary or another legendary creature enters the
 msgstr ""
 
 #: ../../DMC.rst:238
-msgid ":mtgtip:`The Lady of Otaria<https://cards.scryfall.io/border_crop/front/d/9/d96a5a00-22a7-4a7b-a7e2-5c055a8384ba.jpg?1661391146|https://scryfall.com/card/dmc/35/the-lady-of-otaria?utm_source=api>`"
+msgid ":mtgtip:`The Lady of Otaria<https://cards.scryfall.io/border_crop/front/d/9/d96a5a00-22a7-4a7b-a7e2-5c055a8384ba.jpg?1665528753|https://scryfall.com/card/dmc/35/the-lady-of-otaria?utm_source=api>`"
 msgstr ""
 
 #: ../../DMC.rst:235
@@ -716,7 +716,7 @@ msgid "You may tap three untapped Dwarves you control rather than pay this spell
 msgstr ""
 
 #: ../../DMC.rst:237
-msgid "At the beginning of each end step, if a land you controlled was put into your graveyard from the battlefield this turn, reveal the top four cards of your library. Put any number of Dwarf cards from among them into your hand and the rest on the bottom of your library in a random order."
+msgid "At the beginning of each end step, if a land you controlled was put into your graveyard from the battlefield this turn, reveal the top four cards of your library. Put any number of Dwarf cards from among them into your hand. Put the rest on the bottom of your library in a random order."
 msgstr ""
 
 #: ../../DMC.rst:246
