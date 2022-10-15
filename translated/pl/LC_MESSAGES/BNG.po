@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-01 13:29+0200\n"
+"POT-Creation-Date: 2022-10-15 23:10+0200\n"
 "PO-Revision-Date: 2022-09-15 03:42+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/bng/pl/>\n"
@@ -2651,8 +2651,13 @@ msgstr "Możesz zagrywać lądy z wierzchu twojej biblioteki."
 # cbc5f67b6ecb44ddb24bba23c13d6ccd
 # 6e27e26cfbb0469bad937045dc7c9c4b
 #: ../../BNG.rst:641
+#, fuzzy
+#| msgid ""
+#| "Whenever a land enters the battlefield under your control, you gain 1 "
+#| "life."
 msgid ""
-"Whenever a land enters the battlefield under your control, you gain 1 life."
+"Landfall — Whenever a land enters the battlefield under your control, you "
+"gain 1 life."
 msgstr "Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, zyskaj 1 życie."
 
 #: ../../BNG.rst:646
