@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2022.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-10-15 23:10+0200\n"
-"PO-Revision-Date: 2022-09-15 03:43+0000\n"
+"PO-Revision-Date: 2022-10-16 08:54+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/snc/pl/>\n"
 "Language: pl\n"
@@ -873,16 +873,12 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:195
-#, fuzzy
-#| msgid ""
-#| "When Speakeasy Server enters the battlefield, you gain 1 life for each "
-#| "other creature you control."
 msgid ""
 "When Speakeasy Server enters the battlefield, you gain 1 life for each "
 "creature you control."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, zyskaj po 1 życiu za każdego innego "
-"stwora pod twoim władaniem."
+"Kiedy ten byt wejdzie na pole bitwy, zyskaj po 1 życiu za każdego stwora pod "
+"twoim władaniem."
 
 #: ../../SNC.rst:204
 msgid ""
@@ -988,11 +984,9 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:229
-#, fuzzy
-#| msgid "Draw two cards, then look at the top card of each player's library."
 msgid "Draw three cards, then look at the top card of each player's library."
 msgstr ""
-"Dobierz dwie karty, po czym spójrz na wierzchnią kartę biblioteki każdego "
+"Dobierz trzy karty, po czym spójrz na wierzchnią kartę biblioteki każdego "
 "gracza."
 
 #: ../../SNC.rst:236
@@ -1324,10 +1318,8 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:349
-#, fuzzy
-#| msgid "When enchanted creature dies, draw a card."
 msgid "When enchanted creature dies, draw two cards."
-msgstr "Kiedy zauroczony stwór umrze, dobierz kartę."
+msgstr "Kiedy zauroczony stwór umrze, dobierz dwie karty."
 
 #: ../../SNC.rst:356
 msgid ""
@@ -1679,17 +1671,12 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:463
-#, fuzzy
-#| msgid ""
-#| "Target creature gets -3/-3 until end of turn. Target player mills three "
-#| "cards. (They put the top three cards of their library into their "
-#| "graveyard.)"
 msgid ""
 "Target creature gets -3/-3 until end of turn. Target player mills three "
 "cards. You gain 3 life."
 msgstr ""
 "Wskazany stwór do końca tury dostaje -3/-3. Wskazany gracz mieli trzy karty. "
-"(Umieszcza trzy wierzchnie karty swojej biblioteki w swoim cmentarzu.)"
+"Zyskaj 3 życia."
 
 #: ../../SNC.rst:468
 msgid ""
@@ -1710,16 +1697,12 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:471
-#, fuzzy
-#| msgid ""
-#| "Look at the top five cards of your library. Put one of those cards into "
-#| "your hand and the rest into your graveyard."
 msgid ""
 "Look at the top four cards of your library. Put two of them into your hand "
 "and the rest into your graveyard. You lose 2 life."
 msgstr ""
-"Spójrz na pięć wierzchnich kart twojej biblioteki. Umieść jedną z nich w "
-"twojej ręce, a pozostałe w twoim cmentarzu."
+"Spójrz na cztery wierzchnie karty twojej biblioteki. Umieść dwie z nich w "
+"twojej ręce, a pozostałe w twoim cmentarzu. Strać 2 życia."
 
 #: ../../SNC.rst:478
 msgid ""
@@ -1854,12 +1837,12 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:513
-#, fuzzy
-#| msgid "Return target creature card from your graveyard to the battlefield."
 msgid ""
 "Return target creature card from your graveyard to the battlefield with an "
 "additional +1/+1 counter on it."
-msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza na pole bitwy."
+msgstr ""
+"Przywróć wskazaną kartę stwora z twojego cmentarza na pole bitwy z "
+"dodatkowym znacznikiem +1/+1."
 
 #: ../../SNC.rst:520
 msgid ""
@@ -2085,16 +2068,12 @@ msgid "Menace, lifelink"
 msgstr "Złowrogość, więź życia"
 
 #: ../../SNC.rst:589
-#, fuzzy
-#| msgid ""
-#| "|mana_1|, Sacrifice another creature: Look at the top card of your "
-#| "library. You may put that card into your graveyard."
 msgid ""
 "|mana_1|, Sacrifice another creature: Surveil 1. (Look at the top card of "
 "your library. You may put that card into your graveyard.)"
 msgstr ""
-"|mana_1|, poświęć innego stwora: Spójrz na wierzchnią kartę twojej "
-"biblioteki. Możesz umieścić ową kartę w twoim cmentarzu."
+"|mana_1|, poświęć innego stwora: Szpieguj 1. (Spójrz na wierzchnią kartę "
+"twojej biblioteki. Możesz umieścić ową kartę w twoim cmentarzu.)"
 
 #: ../../SNC.rst:591
 msgid ""
@@ -2345,10 +2324,8 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:677
-#, fuzzy
-#| msgid "|tap|: Create a Treasure token."
 msgid "Create a Treasure token."
-msgstr "|tap|: Stwórz żeton Skarbu."
+msgstr "Stwórz żeton Skarbu."
 
 #: ../../SNC.rst:684
 msgid ""
@@ -2615,12 +2592,12 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:777
-#, fuzzy
-#| msgid "Ready to Rumble deals 5 damage to target creature or planeswalker."
 msgid ""
 "Damage can't be prevented this turn. Ready to Rumble deals 5 damage to "
 "target creature or planeswalker."
-msgstr "Ten czar zadaje wskazanemu stworowi lub wędrowcowi 5 obrażeń."
+msgstr ""
+"Obrażenia nie mogą być zażegnane w tej turze. Ten czar zadaje wskazanemu "
+"stworowi lub wędrowcowi 5 obrażeń."
 
 #: ../../SNC.rst:784
 msgid ""
@@ -2642,12 +2619,8 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:787
-#, fuzzy
-#| msgid ""
-#| "|mana_1|\\ |mana_bg|: Riveteers Initiate gains deathtouch until end of "
-#| "turn."
 msgid "|mana_bg|: Riveteers Initiate gains deathtouch until end of turn."
-msgstr "|mana_1|\\ |mana_bg|: Ten stwór do końca tury zyskuje dotyk śmierci."
+msgstr "|mana_bg|: Ten stwór do końca tury zyskuje dotyk śmierci."
 
 #: ../../SNC.rst:794
 msgid ""
@@ -3204,16 +3177,12 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:973
-#, fuzzy
-#| msgid ""
-#| "Whenever High-Rise Sawjack blocks a creature with flying, High-Rise "
-#| "Sawjack gets +2/+0 until end of turn."
 msgid ""
 "Whenever High-Rise Sawjack blocks a creature with flying, High-Rise Sawjack "
 "gets +3/+0 until end of turn."
 msgstr ""
 "Ilekroć ten stwór zablokuje stwora z lataniem, niniejszy do końca tury "
-"dostaje +2/+0."
+"dostaje +3/+0."
 
 #: ../../SNC.rst:980
 msgid ""
@@ -3272,10 +3241,8 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:1001
-#, fuzzy
-#| msgid "Enchanted creature gets +2/+1."
 msgid "Enchanted creature gets +2/+2."
-msgstr "Zauroczony stwór dostaje +2/+1."
+msgstr "Zauroczony stwór dostaje +2/+2."
 
 #: ../../SNC.rst:1010
 msgid ""
@@ -3510,12 +3477,6 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:1081
-#, fuzzy
-#| msgid ""
-#| "Look at the top five cards of your library. You may reveal a creature "
-#| "card from among them and put it into your hand. Put the rest on the "
-#| "bottom of your library in a random order. Create a 1/1 green and white "
-#| "Citizen creature token."
 msgid ""
 "Look at the top five cards of your library. You may reveal a creature card "
 "from among them and put it into your hand. Put the rest on the bottom of "
@@ -3524,8 +3485,8 @@ msgid ""
 msgstr ""
 "Spójrz na pięć wierzchnich kart twojej biblioteki. Możesz spośród nich "
 "ujawnić kartę stwora i umieścić ją w twojej ręce. Umieść pozostałe losowo na "
-"spodzie twojej biblioteki. Stwórz żeton zielono-białego stwora Mieszczanin "
-"1/1."
+"spodzie twojej biblioteki. Stwórz dwa żetony zielono-białego stwora "
+"Mieszczanin 1/1."
 
 #: ../../SNC.rst:1092
 msgid ""
@@ -3716,16 +3677,12 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:1151
-#, fuzzy
-#| msgid ""
-#| "Cabaretti Charm deals damage equal to the number of creatures you control "
-#| "to target creature or planeswalker."
 msgid ""
 "Cabaretti Charm deals damage equal to twice the number of creatures you "
 "control to target creature or planeswalker."
 msgstr ""
-"Ten czar zadaje wskazanemu stworowi lub wędrowcowi obrażenia równe liczbie "
-"stworów pod twoim władaniem."
+"Ten czar zadaje wskazanemu stworowi lub wędrowcowi obrażenia równe "
+"dwukrotności liczby stworów pod twoim władaniem."
 
 #: ../../SNC.rst:1162
 msgid ""
@@ -3799,11 +3756,6 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:1183
-#, fuzzy
-#| msgid ""
-#| "Whenever Civil Servant attacks, you may tap another untapped Citizen you "
-#| "control. If you do, Civil Servant gets +1/+0 and gains lifelink until end "
-#| "of turn."
 msgid ""
 "Whenever Civil Servant attacks, you may tap another untapped Citizen you "
 "control. If you do, Civil Servant gets +1/+0 and gains trample until end of "
@@ -3811,7 +3763,7 @@ msgid ""
 msgstr ""
 "Ilekroć ten stwór zaatakuje, możesz przekręcić innego odkręconego "
 "Mieszczanina pod twoim władaniem. Jeśli tak zrobisz, niniejszy do końca tury "
-"dostaje +1/+0 i więź życia."
+"dostaje +1/+0 i tratowanie."
 
 #: ../../SNC.rst:1192
 msgid ""
@@ -4027,15 +3979,11 @@ msgid ""
 msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć nielądowy byt."
 
 #: ../../SNC.rst:1251
-#, fuzzy
-#| msgid ""
-#| "Each opponent chooses a permanent they control that shares a type with "
-#| "the sacrificed permanent and sacrifices it."
 msgid ""
 "Each opponent chooses a permanent they control that shares a card type with "
 "the sacrificed permanent and sacrifices it."
 msgstr ""
-"Każdy przeciwnik wybiera byt pod swoim władaniem współdzielący typ z "
+"Każdy przeciwnik wybiera byt pod swoim władaniem współdzielący typ karty z "
 "poświęconym bytem i poświęca go."
 
 #: ../../SNC.rst:1258
@@ -4104,31 +4052,21 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:1275
-#, fuzzy
-#| msgid ""
-#| "When Glamorous Outlaw enters the battlefield, it deals 2 damage to each "
-#| "opponent and you scry 2."
 msgid ""
 "When Glamorous Outlaw enters the battlefield, it deals 2 damage to each "
 "opponent and you gain 2 life. Scry 2."
 msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, zadaje on każdemu przeciwnikowi po 2 "
-"obrażenia, a ty wróż 2."
+"obrażenia, a ty zyskaj 2 życia. Wróż 2."
 
 #: ../../SNC.rst:1277
-#, fuzzy
-#| msgid ""
-#| "|mana_2|, Exile Glamorous Outlaw from your hand: Target land gains \"|"
-#| "tap|: Add |mana_u|, |mana_b|, or |mana_r|\" until Glamorous Outlaw is "
-#| "cast from exile. You may cast Glamorous Outlaw for as long as it remains "
-#| "exiled."
 msgid ""
 "|mana_1|, Exile Glamorous Outlaw from your hand: Target land gains \"|tap|: "
 "Add |mana_u|, |mana_b|, or |mana_r|\" until Glamorous Outlaw is cast from "
 "exile. You may cast Glamorous Outlaw for as long as it remains exiled."
 msgstr ""
-"|mana_2|, wygnaj tę kartę z twojej ręki: Wskazany ląd dostaje \"|tap|: Weź |"
-"mana_u|, |mana_b|, lub |mana_r|\" do czasu rzucenia tej karty z wygnania. "
+"|mana_1|, wygnaj tę kartę z twojej ręki: Wskazany ląd dostaje \"|tap|: Weź "
+"|mana_u|, |mana_b|, lub |mana_r|\" do czasu rzucenia tej karty z wygnania. "
 "Możesz rzucić tę kartę przez czas jej wygnania."
 
 #: ../../SNC.rst:1282
@@ -4362,18 +4300,13 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:1349
-#, fuzzy
-#| msgid ""
-#| "|mana_2|, Exile Masked Bandits from your hand: Target land gains \"|tap|: "
-#| "Add |mana_b|, |mana_r|, or |mana_g|\" until Masked Bandits is cast from "
-#| "exile. You may cast Masked Bandits for as long as it remains exiled."
 msgid ""
 "|mana_1|, Exile Masked Bandits from your hand: Target land gains \"|tap|: "
 "Add |mana_b|, |mana_r|, or |mana_g|\" until Masked Bandits is cast from "
 "exile. You may cast Masked Bandits for as long as it remains exiled."
 msgstr ""
-"|mana_2|, wygnaj tę kartę z twojej ręki: Wskazany ląd dostaje \"|tap|: Weź |"
-"mana_b|, |mana_r|, lub |mana_g|\" do czasu rzucenia tej karty z wygnania. "
+"|mana_1|, wygnaj tę kartę z twojej ręki: Wskazany ląd dostaje \"|tap|: Weź "
+"|mana_b|, |mana_r|, lub |mana_g|\" do czasu rzucenia tej karty z wygnania. "
 "Możesz rzucić tę kartę przez czas jej wygnania."
 
 #: ../../SNC.rst:1354
@@ -4662,18 +4595,13 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:1451
-#, fuzzy
-#| msgid ""
-#| "|mana_2|, Exile Rakish Revelers from your hand: Target land gains \"|"
-#| "tap|: Add |mana_r|, |mana_g|, or |mana_w|\" until Rakish Revelers is cast "
-#| "from exile. You may cast Rakish Revelers for as long as it remains exiled."
 msgid ""
 "|mana_1|, Exile Rakish Revelers from your hand: Target land gains \"|tap|: "
 "Add |mana_r|, |mana_g|, or |mana_w|\" until Rakish Revelers is cast from "
 "exile. You may cast Rakish Revelers for as long as it remains exiled."
 msgstr ""
-"|mana_2|, wygnaj tę kartę z twojej ręki: Wskazany ląd dostaje \"|tap|: Weź |"
-"mana_r|, |mana_g|, lub |mana_w|\" do czasu rzucenia tej karty z wygnania. "
+"|mana_1|, wygnaj tę kartę z twojej ręki: Wskazany ląd dostaje \"|tap|: Weź "
+"|mana_r|, |mana_g|, lub |mana_w|\" do czasu rzucenia tej karty z wygnania. "
 "Możesz rzucić tę kartę przez czas jej wygnania."
 
 #: ../../SNC.rst:1458
@@ -4838,19 +4766,13 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:1507
-#, fuzzy
-#| msgid ""
-#| "|mana_2|, Exile Shattered Seraph from your hand: Target land gains \"|"
-#| "tap|: Add |mana_w|, |mana_u|, or |mana_b|\" until Shattered Seraph is "
-#| "cast from exile. You may cast Shattered Seraph for as long as it remains "
-#| "exiled."
 msgid ""
 "|mana_1|, Exile Shattered Seraph from your hand: Target land gains \"|tap|: "
 "Add |mana_w|, |mana_u|, or |mana_b|\" until Shattered Seraph is cast from "
 "exile. You may cast Shattered Seraph for as long as it remains exiled."
 msgstr ""
-"|mana_2|, wygnaj tę kartę z twojej ręki: Wskazany ląd dostaje \"|tap|: Weź |"
-"mana_w|, |mana_u|, lub |mana_b|\" do czasu rzucenia tej karty z wygnania. "
+"|mana_1|, wygnaj tę kartę z twojej ręki: Wskazany ląd dostaje \"|tap|: Weź "
+"|mana_w|, |mana_u|, lub |mana_b|\" do czasu rzucenia tej karty z wygnania. "
 "Możesz rzucić tę kartę przez czas jej wygnania."
 
 #: ../../SNC.rst:1514
@@ -4927,20 +4849,14 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:1529
-#, fuzzy
-#| msgid ""
-#| "|mana_2|, Exile Spara's Adjudicators from your hand: Target land gains \"|"
-#| "tap|: Add |mana_g|, |mana_w|, or |mana_u|\" until Spara's Adjudicators is "
-#| "cast from exile. You may cast Spara's Adjudicators for as long as it "
-#| "remains exiled."
 msgid ""
 "|mana_1|, Exile Spara's Adjudicators from your hand: Target land gains \"|"
 "tap|: Add |mana_g|, |mana_w|, or |mana_u|\" until Spara's Adjudicators is "
 "cast from exile. You may cast Spara's Adjudicators for as long as it remains "
 "exiled."
 msgstr ""
-"|mana_2|, wygnaj tę kartę z twojej ręki: Wskazany ląd dostaje \"|tap|: Weź |"
-"mana_g|, |mana_w|, lub |mana_u|\" do czasu rzucenia tej karty z wygnania. "
+"|mana_1|, wygnaj tę kartę z twojej ręki: Wskazany ląd dostaje \"|tap|: Weź "
+"|mana_g|, |mana_w|, lub |mana_u|\" do czasu rzucenia tej karty z wygnania. "
 "Możesz rzucić tę kartę przez czas jej wygnania."
 
 #: ../../SNC.rst:1536
@@ -4972,13 +4888,11 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:1541
-#, fuzzy
-#| msgid ""
-#| "Sacrifice a Treasure: Create a 1/1 green and white Citizen creature token."
 msgid ""
 "Sacrifice a Treasure: Create a 1/1 green and white Citizen creature token. "
 "Scry 1."
-msgstr "Poświęć Skarb: Stwórz żeton zielono-białego stwora Mieszczanin 1/1."
+msgstr ""
+"Poświęć Skarb: Stwórz żeton zielono-białego stwora Mieszczanin 1/1. Wróż 1."
 
 #: ../../SNC.rst:1548
 msgid ""
@@ -5003,10 +4917,8 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:1551
-#, fuzzy
-#| msgid "Flying, ward |mana_1|"
 msgid "Flying, ward |mana_2|"
-msgstr "Latanie, straż |mana_1|"
+msgstr "Latanie, straż |mana_2|"
 
 #: ../../SNC.rst:1558
 msgid ""
@@ -5307,15 +5219,11 @@ msgid ""
 msgstr ""
 
 #: ../../SNC.rst:1655
-#, fuzzy
-#| msgid ""
-#| "|mana_2|, |tap|, Sacrifice Ominous Parcel: Search your library for a "
-#| "basic land card, reveal it, put it into your hand, then shuffle."
 msgid ""
 "|mana_1|, |tap|, Sacrifice Ominous Parcel: Search your library for a basic "
 "land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
-"|mana_2|, |tap|, poświęć ten byt: Wyszukaj w twojej bibliotece kartę "
+"|mana_1|, |tap|, poświęć ten byt: Wyszukaj w twojej bibliotece kartę "
 "bazowego lądu, ujawnij ją, umieść ją w twojej ręce, po czym przetasuj."
 
 #: ../../SNC.rst:1664

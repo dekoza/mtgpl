@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2020.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-10-15 23:10+0200\n"
-"PO-Revision-Date: 2022-09-15 03:42+0000\n"
+"PO-Revision-Date: 2022-10-16 08:54+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/khm/pl/>\n"
 "Language: pl\n"
@@ -415,7 +415,7 @@ msgstr ""
 
 #: ../../KHM.rst:57
 msgid "Giant Ox crews Vehicles using its toughness rather than its power."
-msgstr "Ten stwór załoguje Pojazdy używając wytrzymałości zamiast siły."
+msgstr "Ten stwór załoguje Pojazdy używając swojej wytrzymałości zamiast siły."
 
 #: ../../KHM.rst:68
 msgid ""
@@ -630,7 +630,7 @@ msgid ""
 "If a source an opponent controls would deal damage to you or a permanent you "
 "control, prevent 1 of that damage."
 msgstr ""
-"Jeśli źródło pod władaniem przeciwnika miałoby zadać obrażenia tobie lub "
+"Jeśli źródło pod władaniem przeciwnik miałoby zadać obrażenia tobie lub "
 "bytowi pod twoim władaniem, zażegnaj 1 z owych obrażeń."
 
 #: ../../KHM.rst:131
@@ -1990,9 +1990,9 @@ msgid ""
 "If you do, create a 2/2 black Zombie Berserker creature token, then attach "
 "Draugr's Helm to it."
 msgstr ""
-"Kiedy ten artefalt wejdzie na pole bitwy, możesz zapłacić |mana_2|\\ |"
-"mana_b|. Jeśli tak zrobisz, stwórz żeton czarnego stwora Zombi Berserk 2/2, "
-"po czym dołącz do niego ten artefakt."
+"Kiedy ten byt wejdzie na pole bitwy, możesz zapłacić |mana_2|\\ |mana_b|. "
+"Jeśli tak zrobisz, stwórz żeton czarnego stwora Zombi Berserk 2/2, po czym "
+"dołącz do niego ten artefakt."
 
 #: ../../KHM.rst:571
 msgid ""
@@ -2592,11 +2592,11 @@ msgid ""
 msgstr ""
 "Przy wejściu tego bytu na pole bitwy otrzymujesz emblemat o treści \"Możesz "
 "zagrywać karty wygnane z pomocą Tibalt, Cosmic Impostor i możesz wydawać "
-"manę tak, jakby była maną dowolnego koloru.\""
+"manę na rzucenie owych czarów tak, jakby była maną dowolnego koloru.\""
 
 #: ../../KHM.rst:749
 msgid "+2: Exile the top card of each player's library."
-msgstr "+2: Wygnaj wierzchnią kartę biblioteki każdego z graczy."
+msgstr "+2: Wygnaj wierzchnią kartę biblioteki każdego gracza."
 
 #: ../../KHM.rst:751
 msgid "−3: Exile target artifact or creature."
@@ -3050,7 +3050,7 @@ msgid ""
 "Whenever Goldspan Dragon attacks or becomes the target of a spell, create a "
 "Treasure token."
 msgstr ""
-"Ilekroć ten stwór zaatakuje lub zostaniee wskazany przez czar, stwórz żeton "
+"Ilekroć ten stwór zaatakuje lub zostanie wskazany przez czar, stwórz żeton "
 "Skarbu."
 
 #: ../../KHM.rst:897
@@ -4911,16 +4911,12 @@ msgid "Other creatures you control get +1/+1."
 msgstr "Inne stwory pod twoim władaniem dostają +1/+1."
 
 #: ../../KHM.rst:1503
-#, fuzzy
-#| msgid ""
-#| "Whenever a land enters the battlefield under your control, create a 1/1 "
-#| "white Human Warrior creature token."
 msgid ""
 "Landfall — Whenever a land enters the battlefield under your control, create "
 "a 1/1 white Human Warrior creature token."
 msgstr ""
-"Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, stwórz żeton białego "
-"stwora Człowiek Wojownik 1/1."
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, stwórz "
+"żeton białego stwora Człowiek Wojownik 1/1."
 
 #: ../../KHM.rst:1510
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-10-15 23:10+0200\n"
-"PO-Revision-Date: 2022-09-15 03:42+0000\n"
+"PO-Revision-Date: 2022-10-16 08:54+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ktk/pl/>\n"
 "Language: pl\n"
@@ -1258,18 +1258,14 @@ msgstr ""
 
 # 6fec5bd3bba14590b8e8264b832ff377
 #: ../../KTK.rst:313
-#, fuzzy
-#| msgid ""
-#| "Look at the top five cards of your library. Put any number of them into "
-#| "your graveyard and the rest back on top of your library in any order."
 msgid ""
 "Surveil 5. (Look at the top five cards of your library, then put any number "
 "of them into your graveyard and the rest on top of your library in any "
 "order.)"
 msgstr ""
-"Spójrz na pięć wierzchnich kart twojej biblioteki. Umieść dowolne z nich w "
-"twoim cmentarzu, a pozostałe z powrotem na wierzchu twojej biblioteki w "
-"dowolnej kolejności."
+"Szpieguj 5. (Spójrz na pięć wierzchnich kart twojej biblioteki, po czym "
+"umieść dowolne z nich w twoim cmentarzu, a pozostałe dowolnie na wierzchu "
+"twojej biblioteki.)"
 
 #: ../../KTK.rst:322
 msgid ""
@@ -3849,19 +3845,14 @@ msgstr ""
 
 # eaa331ef495b436e9a0fb947fa1d6781
 #: ../../KTK.rst:1099
-#, fuzzy
-#| msgid ""
-#| "At the beginning of your upkeep, look at the top two cards of your "
-#| "library. Put any number of them into your graveyard and the rest back on "
-#| "top of your library in any order."
 msgid ""
 "At the beginning of your upkeep, surveil 2. (Look at the top two cards of "
 "your library, then put any number of them into your graveyard and the rest "
 "on top of your library in any order.)"
 msgstr ""
-"Na początku twojego kroku utrzymania, spójrz na dwie wierzchnie karty twojej "
-"biblioteki. Umieść dowolne z nich w twoim cmentarzu, a pozostałe z powrotem "
-"na wierzchu twojej biblioteki w dowolnej kolejności."
+"Na początku twojego kroku utrzymania, szpieguj 2. (Spójrz na dwie wierzchnie "
+"karty twojej biblioteki, po czym umieść dowolne z nich w twoim cmentarzu, a "
+"pozostałe dowolnie na wierzchu twojej biblioteki.)"
 
 #: ../../KTK.rst:1110
 msgid ""

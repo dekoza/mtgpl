@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2022.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-10-15 23:10+0200\n"
-"PO-Revision-Date: 2022-09-15 03:43+0000\n"
+"PO-Revision-Date: 2022-10-16 08:54+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dmr/pl/>\n"
 "Language: pl\n"
@@ -247,7 +247,7 @@ msgstr ""
 
 #: ../../DMR.rst:9
 msgid "Exile target creature. Its controller gains life equal to its power."
-msgstr ""
+msgstr "Wygnaj wskazanego stwora. Jego władca zyskuje życia równe jego sile."
 
 #: ../../DMR.rst:16
 msgid ""
@@ -277,7 +277,7 @@ msgstr ""
 
 #: ../../DMR.rst:19
 msgid "Target player takes two extra turns after this one."
-msgstr ""
+msgstr "Wskazany gracz bierze dwie dodatkowe tury po niniejszej."
 
 #: ../../DMR.rst:24
 msgid ""
@@ -292,6 +292,8 @@ msgid ""
 "That creature gains haste. Sacrifice the creature at the beginning of the "
 "next end step."
 msgstr ""
+"|mana_r|: Możesz umieścić kartę stwora z twojej ręki na polu bitwy. Ów stwór "
+"zyskuje pośpiech. Poświęć go na początku najbliższego kroku końcowego."
 
 #: ../../DMR.rst:28
 msgid ""
@@ -317,11 +319,11 @@ msgstr ""
 
 #: ../../DMR.rst:31
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 #: ../../DMR.rst:33
 msgid "|tap|: Add one mana of any color."
-msgstr ""
+msgstr "|tap|: Weź jedną manę dowolnego koloru."
 
 #: ../../DMR.rst:38
 msgid ""
@@ -335,6 +337,8 @@ msgid ""
 "|mana_2|, |tap|, Sacrifice Jester's Cap: Search target player's library for "
 "three cards and exile them. Then that player shuffles."
 msgstr ""
+"|mana_2|, |tap|, poświęć ten artefakt: Wyszukaj w bibliotece wskazanego "
+"gracza trzy karty i wygnaj je. Następnie ów gracz tasuje."
 
 #: ../../DMR.rst:42
 msgid ""
@@ -348,6 +352,8 @@ msgid ""
 "Landfall — Whenever a land enters the battlefield under your control, you "
 "gain 1 life and draw a card."
 msgstr ""
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, zyskaj 1 "
+"życie i dobierz kartę."
 
 #: ../../DMR.rst:45
 msgid ""

@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2022.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-10-15 23:10+0200\n"
-"PO-Revision-Date: 2022-09-15 03:43+0000\n"
+"PO-Revision-Date: 2022-10-16 08:54+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dmc/pl/>\n"
 "Language: pl\n"
@@ -719,10 +719,6 @@ msgstr ""
 "władaniem, stwórz żeton białego stwora Piechur 1/1."
 
 #: ../../DMC.rst:153
-#, fuzzy
-#| msgid ""
-#| "Whenever the final chapter of a Saga you control triggers, create a 4/4 "
-#| "white Angel creature token with flying and vigilance."
 msgid ""
 "Whenever the final chapter ability of a Saga you control triggers, create a "
 "4/4 white Angel creature token with flying and vigilance."
@@ -854,16 +850,12 @@ msgstr ""
 "władaniem."
 
 #: ../../DMC.rst:193
-#, fuzzy
-#| msgid ""
-#| "Whenever a land enters the battlefield under your control, create a 3/3 "
-#| "green Badger creature token."
 msgid ""
 "Landfall — Whenever a land enters the battlefield under your control, create "
 "a 3/3 green Badger creature token."
 msgstr ""
-"Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, stwórz żeton "
-"zielonego stwora Borsuk 3/3."
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, stwórz "
+"żeton zielonego stwora Borsuk 3/3."
 
 #: ../../DMC.rst:200
 msgid ""
@@ -873,18 +865,13 @@ msgid ""
 msgstr ""
 
 #: ../../DMC.rst:197
-#, fuzzy
-#| msgid ""
-#| "Whenever you cast a multicolored spell, create a tapped Powerstone token. "
-#| "(It's an artifact with \"|tap|, Add |colorless|. This mana can't be spent "
-#| "to cast a nonartifact spell.\")"
 msgid ""
 "Whenever you cast a multicolored spell, create a tapped Powerstone token. "
 "(It's an artifact with \"|tap|: Add |colorless|. This mana can't be spent to "
 "cast a nonartifact spell.\")"
 msgstr ""
-"Ilekroć rzucisz wielokolorowy czar, stwórz przekręcony żeton Kamień Mocy. "
-"(To artefakt z \"|tap|: Weź |coloroless|. Ta mana nie może być wydana na "
+"Ilekroć rzucisz wielokolorowy czar, stwórz przekręcony żeton Kamień Mocy. ("
+"To artefakt z \"|tap|: Weź |coloroless|. Ta mana nie może być wydana na "
 "rzucenie nieartefaktowego czaru.\")"
 
 #: ../../DMC.rst:199
@@ -1039,12 +1026,6 @@ msgstr ""
 "płacić koszt many tego czaru."
 
 #: ../../DMC.rst:237
-#, fuzzy
-#| msgid ""
-#| "At the beginning of each end step, if a land you controlled was put into "
-#| "your graveyard from the battlefield this turn, reveal the top four cards "
-#| "of your library. Put any number of Dwarf cards from among them into your "
-#| "hand and the rest on the bottom of your library in a random order."
 msgid ""
 "At the beginning of each end step, if a land you controlled was put into "
 "your graveyard from the battlefield this turn, reveal the top four cards of "

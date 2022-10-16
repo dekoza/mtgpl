@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-10-15 23:10+0200\n"
-"PO-Revision-Date: 2022-09-15 03:42+0000\n"
+"PO-Revision-Date: 2022-10-16 08:53+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/emn/pl/>\n"
 "Language: pl\n"
@@ -1269,18 +1269,14 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:329
-#, fuzzy
-#| msgid ""
-#| "Look at the top five cards of your library. Put any number of them into "
-#| "your graveyard and the rest back on top of your library in any order."
 msgid ""
 "Surveil 5. (Look at the top five cards of your library, then put any number "
 "of them into your graveyard and the rest on top of your library in any "
 "order.)"
 msgstr ""
-"Spójrz na pięć wierzchnich kart twojej biblioteki. Umieść dowolne z nich w "
-"twoim cmentarzu, a pozostałe z powrotem na wierzchu twojej biblioteki w "
-"dowolnej kolejności."
+"Szpieguj 5. (Spójrz na pięć wierzchnich kart twojej biblioteki, po czym "
+"umieść dowolne z nich w twoim cmentarzu, a pozostałe dowolnie na wierzchu "
+"twojej biblioteki.)"
 
 #: ../../EMN.rst:334
 msgid ""
@@ -3614,19 +3610,14 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:1125
-#, fuzzy
-#| msgid ""
-#| "Whenever Grim Flayer deals combat damage to a player, look at the top "
-#| "three cards of your library. Put any number of them into your graveyard "
-#| "and the rest back on top of your library in any order."
 msgid ""
 "Whenever Grim Flayer deals combat damage to a player, surveil 3. (Look at "
 "the top three cards of your library, then put any number of them into your "
 "graveyard and the rest on top of your library in any order.)"
 msgstr ""
-"Ilekroć ten stwór zada graczowi obrażenia bojowe, spójrz na trzy wierzchnie "
-"karty twojej biblioteki. Umieść dowolne z nich w twoim cmentarzu, a "
-"pozostałe z powrotem na wierzchu twojej biblioteki w dowolnej kolejności."
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, szpieguj 3. (Spójrz na "
+"trzy wierzchnie karty twojej biblioteki, po czym umieść dowolne z nich w "
+"twoim cmentarzu, a pozostałe dowolnie na wierzchu twojej biblioteki.)"
 
 #: ../../EMN.rst:1127
 msgid ""

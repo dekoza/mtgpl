@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-10-15 23:10+0200\n"
-"PO-Revision-Date: 2022-09-15 03:42+0000\n"
+"PO-Revision-Date: 2022-10-16 08:54+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mid/pl/>\n"
 "Language: pl\n"
@@ -1231,8 +1231,8 @@ msgid ""
 "If it's neither day nor night, it becomes day as Component Collector enters "
 "the battlefield."
 msgstr ""
-"Jeśli jest nie jest dzień ani noc, nastaje dzień z wejściem tego stwora na "
-"pole bitwy."
+"Jeśli jest nie jest dzień ani noc, nastaje dzień gdy ten byt wejdzie na pole "
+"bitwy."
 
 #: ../../MID.rst:317
 msgid ""
@@ -1250,16 +1250,12 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:321
-#, fuzzy
-#| msgid ""
-#| "Look at the top card of your library. You may put that card into your "
-#| "graveyard."
 msgid ""
 "Surveil 1. (Look at the top card of your library. You may put that card into "
 "your graveyard.)"
 msgstr ""
-"Spójrz na wierzchnią kartę twojej biblioteki. Możesz umieścić ową kartę w "
-"twoim cmentarzu."
+"Szpieguj 1. (Spójrz na wierzchnią kartę twojej biblioteki. Możesz umieścić "
+"ją w twoim cmentarzu.)"
 
 #: ../../MID.rst:323 ../../MID.rst:575 ../../MID.rst:643
 msgid "Draw a card."
@@ -1557,16 +1553,12 @@ msgid "Defender"
 msgstr "Obronność"
 
 #: ../../MID.rst:425
-#, fuzzy
-#| msgid ""
-#| "Tap three untapped creatures you control: Look at the top card of your "
-#| "library. You may put it into your graveyard."
 msgid ""
 "Tap three untapped creatures you control: Surveil 1. (Look at the top card "
 "of your library. You may put that card into your graveyard.)"
 msgstr ""
-"Przekręć trzy odkręcone stwory pod twoim władaniem: Spójrz na wierzchnią "
-"kartę twojej biblioteki. Możesz umieścić ją w twoim cmentarzu."
+"Przekręć trzy odkręcone stwory pod twoim władaniem: Szpieguj 1. (Spójrz na "
+"wierzchnią kartę twojej biblioteki. Możesz umieścić ją w twoim cmentarzu.)"
 
 #: ../../MID.rst:432
 msgid ""
@@ -1770,17 +1762,14 @@ msgid ""
 msgstr ""
 
 #: ../../MID.rst:493
-#, fuzzy
-#| msgid ""
-#| "Look at the top three cards of your library. Put any number of them into "
-#| "your graveyard and the rest back on top of your library in any order."
 msgid ""
 "Surveil 3. (Look at the top three cards of your library, then put any number "
 "of them into your graveyard and the rest on top of your library in any "
 "order.)"
 msgstr ""
-"Spójrz na trzy wierzchnie karty twojej biblioteki. Umieść dowolne z nich w "
-"twoim cmentarzu a pozostałe dowolnie na wierzchu twojej biblioteki."
+"Szpieguj 3. (Spójrz na trzy wierzchnie karty twojej biblioteki, po czym "
+"umieść dowolne z nich w twoim cmentarzu a pozostałe dowolnie na wierzchu "
+"twojej biblioteki.)"
 
 #: ../../MID.rst:495
 msgid ""
@@ -3122,8 +3111,8 @@ msgid ""
 "If it's neither day nor night, it becomes day as Brimstone Vandal enters the "
 "battlefield."
 msgstr ""
-"Jeśli jest nie jest dzień ani noc, nastaje dzień z wejściem tego stwora na "
-"pole bitwy."
+"Jeśli jest nie jest dzień ani noc, nastaje dzień gdy ten byt wejdzie na pole "
+"bitwy."
 
 #: ../../MID.rst:945
 msgid ""
@@ -6113,7 +6102,7 @@ msgstr ""
 
 #: ../../MID.rst:1923
 msgid "|mana_4|: Creeping Inn phases out."
-msgstr "|mana_4|: Ten stwór wycofuje się."
+msgstr "|mana_4|: Ten ląd wycofuje się."
 
 #: ../../MID.rst:1930
 msgid ""

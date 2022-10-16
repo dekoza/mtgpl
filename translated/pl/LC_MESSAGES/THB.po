@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-10-15 23:10+0200\n"
-"PO-Revision-Date: 2022-09-15 03:42+0000\n"
+"PO-Revision-Date: 2022-10-16 08:54+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/thb/pl/>\n"
 "Language: pl\n"
@@ -216,10 +216,8 @@ msgid "{(g/u/p)}"
 msgstr "{(g/u/p)}"
 
 #: ../../symbols.rst:101
-#, fuzzy
-#| msgid "{(g/u/p)}"
 msgid "{(g/w/p)}"
-msgstr "{(g/u/p)}"
+msgstr "{(g/w/p)}"
 
 #: ../../symbols.rst:103
 msgid "{S}"
@@ -1805,16 +1803,12 @@ msgid ""
 msgstr ""
 
 #: ../../THB.rst:519
-#, fuzzy
-#| msgid ""
-#| "Exile target creature or planeswalker. Look at the top card of your "
-#| "library. You may put that card into your graveyard."
 msgid ""
 "Exile target creature or planeswalker. Surveil 1. (Look at the top card of "
 "your library. You may put that card into your graveyard.)"
 msgstr ""
-"Wygnaj wskazanego stwora lub wędrowca. Spójrz na wierzchnią kartę twojej "
-"biblioteki. Możesz umieścić ją w twoim cmentarzu."
+"Wygnaj wskazanego stwora lub wędrowca. Szpieguj 1. (Spójrz na wierzchnią "
+"kartę twojej biblioteki. Możesz umieścić ją w twoim cmentarzu.)"
 
 #: ../../THB.rst:530
 msgid ""
@@ -4457,8 +4451,8 @@ msgid ""
 "|tap|: Add one mana of any color. If you control a God, a Demigod, or a "
 "legendary enchantment, you gain 1 life."
 msgstr ""
-"|tap|: Weź jedną manę dowolnego koloru. Jeśli władasz Bogiem, Półbogiem lub "
-"legendarnym urokiem, zyskaj 1 życie."
+"|tap|: Weź jedną manę dowolnego koloru. Jeśli władasz Bóstwem, Półbóstwem "
+"lub legendarnym urokiem, zyskaj 1 życie."
 
 #: ../../THB.rst:1408
 msgid ""
@@ -5084,7 +5078,7 @@ msgid ""
 "When Sphinx Mindbreaker enters the battlefield, each opponent mills ten "
 "cards."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, każdy przeciwnik mieli dziesięć kart."
+"Kiedy ten byt wejdzie na pole bitwy, każdy przeciwnik mieli po dziesięć kart."
 
 #: ../../THB.rst:1622
 msgid ""
