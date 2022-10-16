@@ -963,7 +963,7 @@
    When you roll a natural 20, return Critical Hit from your graveyard to your hand. (A natural 20 is a roll that displays 20 on the die.)
 
 
-:mtgtip:`Delina, Wild Mage<https://cards.scryfall.io/border_crop/front/e/8/e87459aa-af8f-4bd2-a310-151353083a2e.jpg?1664162532|https://scryfall.com/card/afr/138/delina-wild-mage?utm_source=api>`
+:mtgtip:`Delina, Wild Mage<https://cards.scryfall.io/border_crop/front/e/8/e87459aa-af8f-4bd2-a310-151353083a2e.jpg?1665157404|https://scryfall.com/card/afr/138/delina-wild-mage?utm_source=api>`
    Whenever Delina, Wild Mage attacks, choose target creature you control, then roll a d20.
 
    1—14 | Create a tapped and attacking token that's a copy of that creature, except it's not legendary and it has "At end of combat, exile this creature."
@@ -1225,10 +1225,10 @@
    |mana_1|\ |mana_g|: Dire Wolf Prowler gets +2/+2 and gains haste until end of turn. Activate only once each turn.
 
 
-:mtgtip:`Druid Class<https://cards.scryfall.io/border_crop/front/0/9/09278e95-eaae-4cd4-a0d8-a2d15b0abb58.jpg?1639436614|https://scryfall.com/card/afr/180/druid-class?utm_source=api>`
+:mtgtip:`Druid Class<https://cards.scryfall.io/border_crop/front/0/9/09278e95-eaae-4cd4-a0d8-a2d15b0abb58.jpg?1665822447|https://scryfall.com/card/afr/180/druid-class?utm_source=api>`
    (Gain the next level as a sorcery to add its ability.)
 
-   Whenever a land enters the battlefield under your control, you gain 1 life.
+   Landfall — Whenever a land enters the battlefield under your control, you gain 1 life.
 
    |mana_2|\ |mana_g|: Level 2
 

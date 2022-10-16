@@ -901,14 +901,8 @@
    |mana_r|: Return Craving of Yeenoghu from your graveyard to the battlefield attached to target creature you control. Craving of Yeenoghu perpetually gains "Enchanted creature gets -1/-1." Activate only as a sorcery.
 
 
-:mtgtip:`Dragonborn Immolator<https://cards.scryfall.io/border_crop/front/8/d/8d6b11b3-d1fc-44f4-864f-1972c243f88c.jpg?1658281810|https://scryfall.com/card/hbg/51/dragonborn-immolator?utm_source=api>`
+:mtgtip:`Dragonborn Immolator<https://cards.scryfall.io/border_crop/front/8/d/8d6b11b3-d1fc-44f4-864f-1972c243f88c.jpg?1665199609|https://scryfall.com/card/hbg/51/dragonborn-immolator?utm_source=api>`
    |mana_1|\ |mana_r|: Dragonborn Immolator gets +1/+0 until end of turn.
-
-   Gift of Tiamat — When Dragonborn Immolator dies, note its power. You get a boon with "When you cast your next creature spell, it perpetually gets +X/+0, where X is the noted number."
-
-
-:mtgtip:`A-Dragonborn Immolator<https://cards.scryfall.io/border_crop/front/3/a/3acd2683-b1c2-404b-99a7-c66508565637.jpg?1660688280|https://scryfall.com/card/hbg/A-51/a-dragonborn-immolator?utm_source=api>`
-   |mana_2|\ |mana_r|: Dragonborn Immolator gets +2/+0 until end of turn.
 
    Gift of Tiamat — When Dragonborn Immolator dies, note its power. You get a boon with "When you cast your next creature spell, it perpetually gets +X/+0, where X is the noted number."
 
@@ -1107,10 +1101,6 @@
    Whenever Ancient Gold Dragon deals combat damage to a player, roll a d20. You create a number of 1/1 blue Faerie Dragon creature tokens with flying equal to the result.
 
 
-:mtgtip:`A-Lapis Orb of Dragonkind<https://cards.scryfall.io/border_crop/front/c/e/cea79097-b56a-4cbf-9c80-2dfe0c67368b.jpg?1660688458|https://scryfall.com/card/hbg/A-82/a-lapis-orb-of-dragonkind?utm_source=api>`
-   |tap|: Add one mana of any color. When you spend this mana to cast a Dragon creature spell, scry 2.
-
-
 :mtgtip:`Archivist of Oghma<https://cards.scryfall.io/border_crop/front/3/c/3c9a86b4-0bb3-4b87-8240-b6937ad8be27.jpg?1656556586|https://scryfall.com/card/hbg/83/archivist-of-oghma?utm_source=api>`
    Flash
 
@@ -1269,14 +1259,6 @@
    • Set Off Traps — This spell deals 5 damage to target attacking creature.
 
 
-:mtgtip:`A-Young Blue Dragon<https://cards.scryfall.io/border_crop/front/0/8/087c13b7-1641-4902-b595-f730068e33cc.jpg?1660687704|https://scryfall.com/card/hbg/A-106/a-young-blue-dragon-a-sand-augury?utm_source=api>`
-   Flying
-
-
-:mtgtip:`A-Sand Augury<https://cards.scryfall.io/border_crop/front/0/8/087c13b7-1641-4902-b595-f730068e33cc.jpg?1660687704|https://scryfall.com/card/hbg/A-106/a-young-blue-dragon-a-sand-augury?utm_source=api>`
-   Scry 1, then draw a card. (Then exile this card. You may cast the creature later from exile.)
-
-
 :mtgtip:`You're Ambushed on the Road<https://cards.scryfall.io/border_crop/front/7/a/7a6e9e51-06be-4a85-975b-794ccb22c630.jpg?1656560151|https://scryfall.com/card/hbg/107/youre-ambushed-on-the-road?utm_source=api>`
    Choose one —
 
@@ -1419,6 +1401,10 @@
    |tap|: Add |mana_u|. When you spend this mana to cast a Dragon creature spell, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)
 
 
+:mtgtip:`A-Lapis Orb of Dragonkind<https://cards.scryfall.io/border_crop/front/c/e/cea79097-b56a-4cbf-9c80-2dfe0c67368b.jpg?1665273701|https://scryfall.com/card/hbg/A-127/a-lapis-orb-of-dragonkind?utm_source=api>`
+   |tap|: Add one mana of any color. When you spend this mana to cast a Dragon creature spell, scry 2.
+
+
 :mtgtip:`Pseudodragon Familiar<https://cards.scryfall.io/border_crop/front/c/d/cdbfb127-62b5-4547-be19-987201161c51.jpg?1656559325|https://scryfall.com/card/hbg/128/pseudodragon-familiar?utm_source=api>`
    Flying
 
@@ -1506,6 +1492,14 @@
 
 
 :mtgtip:`Sand Augury<https://cards.scryfall.io/border_crop/front/d/c/dc3fbd5a-5949-4663-9e8d-76c2a27b5358.jpg?1656560188|https://scryfall.com/card/hbg/138/young-blue-dragon-sand-augury?utm_source=api>`
+   Scry 1, then draw a card. (Then exile this card. You may cast the creature later from exile.)
+
+
+:mtgtip:`A-Young Blue Dragon<https://cards.scryfall.io/border_crop/front/0/8/087c13b7-1641-4902-b595-f730068e33cc.jpg?1665273714|https://scryfall.com/card/hbg/A-138/a-young-blue-dragon-a-sand-augury?utm_source=api>`
+   Flying
+
+
+:mtgtip:`A-Sand Augury<https://cards.scryfall.io/border_crop/front/0/8/087c13b7-1641-4902-b595-f730068e33cc.jpg?1665273714|https://scryfall.com/card/hbg/A-138/a-young-blue-dragon-a-sand-augury?utm_source=api>`
    Scry 1, then draw a card. (Then exile this card. You may cast the creature later from exile.)
 
 

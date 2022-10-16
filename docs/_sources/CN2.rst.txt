@@ -707,7 +707,7 @@
    Draw a card. Scry 2.
 
 
-:mtgtip:`Show and Tell<https://cards.scryfall.io/border_crop/front/f/a/fa7b7897-36e0-415a-8bb7-602886164852.jpg?1576382523|https://scryfall.com/card/cn2/121/show-and-tell?utm_source=api>`
+:mtgtip:`Show and Tell<https://cards.scryfall.io/border_crop/front/f/a/fa7b7897-36e0-415a-8bb7-602886164852.jpg?1664776671|https://scryfall.com/card/cn2/121/show-and-tell?utm_source=api>`
    Each player may put an artifact, creature, enchantment, or land card from their hand onto the battlefield.
 
 

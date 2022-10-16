@@ -638,7 +638,7 @@
 
    You may play lands from the top of your library.
 
-   Whenever a land enters the battlefield under your control, you gain 1 life.
+   Landfall — Whenever a land enters the battlefield under your control, you gain 1 life.
 
 
 :mtgtip:`Culling Mark<https://cards.scryfall.io/border_crop/front/d/4/d4c45eda-9f00-4b40-b91d-0ed00151923c.jpg?1593092447|https://scryfall.com/card/bng/120/culling-mark?utm_source=api>`

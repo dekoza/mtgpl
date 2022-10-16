@@ -684,7 +684,7 @@
 
 
 :mtgtip:`Vinelasher Kudzu<https://cards.scryfall.io/border_crop/front/f/2/f22dec73-6931-49cf-8c2e-33707c6b5ff5.jpg?1551119720|https://scryfall.com/card/gk2/114/vinelasher-kudzu?utm_source=api>`
-   Whenever a land enters the battlefield under your control, put a +1/+1 counter on Vinelasher Kudzu.
+   Landfall — Whenever a land enters the battlefield under your control, put a +1/+1 counter on Vinelasher Kudzu.
 
 
 :mtgtip:`Coiling Oracle<https://cards.scryfall.io/border_crop/front/6/b/6b60332c-d390-49aa-8e07-0a0a2eddf201.jpg?1551119724|https://scryfall.com/card/gk2/115/coiling-oracle?utm_source=api>`

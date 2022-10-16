@@ -523,8 +523,8 @@
    Counter target spell unless its controller pays |mana_x|. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.
 
 
-:mtgtip:`Think Tank<https://cards.scryfall.io/border_crop/front/8/c/8c1c9d34-ea4c-4e89-a7ed-06c4469c1aca.jpg?1562921035|https://scryfall.com/card/ody/104/think-tank?utm_source=api>`
-   At the beginning of your upkeep, look at the top card of your library. You may put that card into your graveyard.
+:mtgtip:`Think Tank<https://cards.scryfall.io/border_crop/front/8/c/8c1c9d34-ea4c-4e89-a7ed-06c4469c1aca.jpg?1665819883|https://scryfall.com/card/ody/104/think-tank?utm_source=api>`
+   At the beginning of your upkeep, surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)
 
 
 :mtgtip:`Thought Devourer<https://cards.scryfall.io/border_crop/front/b/a/ba7a96ee-e2d1-4d76-a09e-d6868ddd9282.jpg?1562929803|https://scryfall.com/card/ody/105/thought-devourer?utm_source=api>`

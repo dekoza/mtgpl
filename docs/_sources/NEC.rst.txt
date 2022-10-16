@@ -201,7 +201,7 @@
    Remove an indestructible counter from Myojin of Blooming Dawn: Create a 1/1 colorless Spirit creature token for each permanent you control.
 
 
-:mtgtip:`Yoshimaru, Ever Faithful<https://cards.scryfall.io/border_crop/front/a/a/aa409269-3698-42a2-8c51-75557b27a6f6.jpg?1651655476|https://scryfall.com/card/nec/32/yoshimaru-ever-faithful?utm_source=api>`
+:mtgtip:`Yoshimaru, Ever Faithful<https://cards.scryfall.io/border_crop/front/a/a/aa409269-3698-42a2-8c51-75557b27a6f6.jpg?1664653410|https://scryfall.com/card/nec/32/yoshimaru-ever-faithful?utm_source=api>`
    Whenever another legendary permanent enters the battlefield under your control, put a +1/+1 counter on Yoshimaru, Ever Faithful.
 
    Partner (You can have two commanders if both have partner.)

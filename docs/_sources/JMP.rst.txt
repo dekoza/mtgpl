@@ -1982,7 +1982,7 @@
 
    Whenever you cast a noncreature spell, put three +1/+1 counters on target creature you control.
 
-   Whenever a land enters the battlefield under your control, you gain 3 life.
+   Landfall — Whenever a land enters the battlefield under your control, you gain 3 life.
 
 
 :mtgtip:`Primordial Sage<https://cards.scryfall.io/border_crop/front/4/b/4b0d8dec-e139-4565-9259-3c24c54c1d45.jpg?1601079960|https://scryfall.com/card/jmp/422/primordial-sage?utm_source=api>`

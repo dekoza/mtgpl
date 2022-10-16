@@ -145,10 +145,6 @@
    At the beginning of combat on your turn, put a +1/+1 counter on target creature you control.
 
 
-:mtgtip:`A-Luminarch Aspirant<https://cards.scryfall.io/border_crop/front/6/c/6c36abc6-4ba6-4fa8-a8c0-cf5a4d2f98d8.jpg?1645415383|https://scryfall.com/card/znr/A-24/a-luminarch-aspirant?utm_source=api>`
-   At the beginning of your end step, put a +1/+1 counter on target creature you control.
-
-
 :mtgtip:`Makindi Ox<https://cards.scryfall.io/border_crop/front/f/d/fd0d164a-bce2-4474-abe0-b735eb6c9442.jpg?1604192569|https://scryfall.com/card/znr/25/makindi-ox?utm_source=api>`
    Landfall — Whenever a land enters the battlefield under your control, tap target creature an opponent controls.
 

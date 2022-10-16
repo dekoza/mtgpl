@@ -317,8 +317,8 @@
    Whenever day becomes night or night becomes day, you may tap or untap target nonland permanent.
 
 
-:mtgtip:`Consider<https://cards.scryfall.io/border_crop/front/a/2/a211d505-4d40-4914-a9da-220770d6ddbc.jpg?1634348697|https://scryfall.com/card/mid/44/consider?utm_source=api>`
-   Look at the top card of your library. You may put that card into your graveyard.
+:mtgtip:`Consider<https://cards.scryfall.io/border_crop/front/a/2/a211d505-4d40-4914-a9da-220770d6ddbc.jpg?1665819309|https://scryfall.com/card/mid/44/consider?utm_source=api>`
+   Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)
 
    Draw a card.
 
@@ -419,10 +419,10 @@
    Enchanted creature gets +1/+1.
 
 
-:mtgtip:`Larder Zombie<https://cards.scryfall.io/border_crop/front/a/7/a7c0dcac-f3d4-4d6e-9c6e-9295bb1cd47f.jpg?1634348960|https://scryfall.com/card/mid/58/larder-zombie?utm_source=api>`
+:mtgtip:`Larder Zombie<https://cards.scryfall.io/border_crop/front/a/7/a7c0dcac-f3d4-4d6e-9c6e-9295bb1cd47f.jpg?1665819571|https://scryfall.com/card/mid/58/larder-zombie?utm_source=api>`
    Defender
 
-   Tap three untapped creatures you control: Look at the top card of your library. You may put it into your graveyard.
+   Tap three untapped creatures you control: Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)
 
 
 :mtgtip:`Lier, Disciple of the Drowned<https://cards.scryfall.io/border_crop/front/7/8/78fb8900-d28d-4e33-96a7-66fcbc117adf.jpg?1634348984|https://scryfall.com/card/mid/59/lier-disciple-of-the-drowned?utm_source=api>`
@@ -489,8 +489,8 @@
    When Organ Hoarder enters the battlefield, look at the top three cards of your library, then put one of them into your hand and the rest into your graveyard.
 
 
-:mtgtip:`Otherworldly Gaze<https://cards.scryfall.io/border_crop/front/9/c/9cebee20-869e-45ed-9ddc-843faf4032ad.jpg?1634349134|https://scryfall.com/card/mid/67/otherworldly-gaze?utm_source=api>`
-   Look at the top three cards of your library. Put any number of them into your graveyard and the rest back on top of your library in any order.
+:mtgtip:`Otherworldly Gaze<https://cards.scryfall.io/border_crop/front/9/c/9cebee20-869e-45ed-9ddc-843faf4032ad.jpg?1665819722|https://scryfall.com/card/mid/67/otherworldly-gaze?utm_source=api>`
+   Surveil 3. (Look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
 
    Flashback |mana_1|\ |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
@@ -821,7 +821,7 @@
    Equip |mana_3|
 
 
-:mtgtip:`The Meathook Massacre<https://cards.scryfall.io/border_crop/front/0/8/08950015-eee5-4327-888c-82dfd13bb9ad.jpg?1634350016|https://scryfall.com/card/mid/112/the-meathook-massacre?utm_source=api>`
+:mtgtip:`The Meathook Massacre<https://cards.scryfall.io/border_crop/front/0/8/08950015-eee5-4327-888c-82dfd13bb9ad.jpg?1665402503|https://scryfall.com/card/mid/112/the-meathook-massacre?utm_source=api>`
    When The Meathook Massacre enters the battlefield, each creature gets -X/-X until end of turn.
 
    Whenever a creature you control dies, each opponent loses 1 life.

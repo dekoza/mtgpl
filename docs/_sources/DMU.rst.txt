@@ -179,7 +179,7 @@
    When Mesa Cavalier enters the battlefield, you gain 2 life.
 
 
-:mtgtip:`Phyrexian Missionary<https://cards.scryfall.io/border_crop/front/7/f/7f22fcfa-a5f0-4fae-b578-cdfd7d46a4c8.jpg?1663047369|https://scryfall.com/card/dmu/27/phyrexian-missionary?utm_source=api>`
+:mtgtip:`Phyrexian Missionary<https://cards.scryfall.io/border_crop/front/7/f/7f22fcfa-a5f0-4fae-b578-cdfd7d46a4c8.jpg?1665439725|https://scryfall.com/card/dmu/27/phyrexian-missionary?utm_source=api>`
    Kicker |mana_1|\ |mana_b| (You may pay an additional |mana_1|\ |mana_b| as you cast this spell.)
 
    Lifelink
@@ -1221,7 +1221,7 @@
    −6: You get an emblem with "Whenever you cast a creature or planeswalker spell, target opponent gets two poison counters."
 
 
-:mtgtip:`Aron, Benalia's Ruin<https://cards.scryfall.io/border_crop/front/f/1/f1f8bf98-8911-4c86-978a-427377700544.jpg?1663050940|https://scryfall.com/card/dmu/193/aron-benalias-ruin?utm_source=api>`
+:mtgtip:`Aron, Benalia's Ruin<https://cards.scryfall.io/border_crop/front/f/1/f1f8bf98-8911-4c86-978a-427377700544.jpg?1665439729|https://scryfall.com/card/dmu/193/aron-benalias-ruin?utm_source=api>`
    Menace (This creature can't be blocked except by two or more creatures.)
 
    |mana_w|\ |mana_b|, |tap|, Sacrifice another creature: Put a +1/+1 counter on each creature you control.
@@ -1437,10 +1437,10 @@
    Whenever you cast an instant or sorcery spell, create a 1/1 white Soldier creature token.
 
 
-:mtgtip:`Uurg, Spawn of Turg<https://cards.scryfall.io/border_crop/front/d/d/dd3fc36c-682b-4352-a66f-eddd2baf0bf6.jpg?1663051606|https://scryfall.com/card/dmu/225/uurg-spawn-of-turg?utm_source=api>`
+:mtgtip:`Uurg, Spawn of Turg<https://cards.scryfall.io/border_crop/front/d/d/dd3fc36c-682b-4352-a66f-eddd2baf0bf6.jpg?1665819868|https://scryfall.com/card/dmu/225/uurg-spawn-of-turg?utm_source=api>`
    Uurg, Spawn of Turg's power is equal to the number of land cards in your graveyard.
 
-   At the beginning of your upkeep, look at the top card of your library. You may put that card into your graveyard.
+   At the beginning of your upkeep, surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)
 
    |mana_b|\ |mana_g|, Sacrifice a land: You gain 2 life.
 
@@ -1473,7 +1473,7 @@
    Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)
 
 
-:mtgtip:`Hero's Heirloom<https://cards.scryfall.io/border_crop/front/5/b/5b7c0d2d-7107-4599-8d49-c7c57d21e467.jpg?1663051719|https://scryfall.com/card/dmu/231/heros-heirloom?utm_source=api>`
+:mtgtip:`Hero's Heirloom<https://cards.scryfall.io/border_crop/front/5/b/5b7c0d2d-7107-4599-8d49-c7c57d21e467.jpg?1665439737|https://scryfall.com/card/dmu/231/heros-heirloom?utm_source=api>`
    Equipped creature gets +2/+1.
 
    As long as equipped creature is legendary, it has trample and haste.
@@ -1509,7 +1509,7 @@
    Tap an untapped legendary creature you control: Add one mana of any color.
 
 
-:mtgtip:`Salvaged Manaworker<https://cards.scryfall.io/border_crop/front/5/f/5fc22ecb-5d87-464e-8c7d-5d40a52e1e4f.jpg?1663051834|https://scryfall.com/card/dmu/237/salvaged-manaworker?utm_source=api>`
+:mtgtip:`Salvaged Manaworker<https://cards.scryfall.io/border_crop/front/5/f/5fc22ecb-5d87-464e-8c7d-5d40a52e1e4f.jpg?1665439742|https://scryfall.com/card/dmu/237/salvaged-manaworker?utm_source=api>`
    |mana_1|: Add one mana of any color. Activate only once each turn.
 
 

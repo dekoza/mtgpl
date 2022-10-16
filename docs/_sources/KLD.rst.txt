@@ -759,8 +759,8 @@
    When Arborback Stomper enters the battlefield, you gain 5 life.
 
 
-:mtgtip:`Architect of the Untamed<https://cards.scryfall.io/border_crop/front/7/b/7bc540f5-96a1-44d8-910d-914b9e61b2a5.jpg?1576382350|https://scryfall.com/card/kld/143/architect-of-the-untamed?utm_source=api>`
-   Whenever a land enters the battlefield under your control, you get |energy| (an energy counter).
+:mtgtip:`Architect of the Untamed<https://cards.scryfall.io/border_crop/front/7/b/7bc540f5-96a1-44d8-910d-914b9e61b2a5.jpg?1665822386|https://scryfall.com/card/kld/143/architect-of-the-untamed?utm_source=api>`
+   Landfall — Whenever a land enters the battlefield under your control, you get |energy| (an energy counter).
 
    Pay |energy|\ |energy|\ |energy|\ |energy|\ |energy|\ |energy|\ |energy|\ |energy|: Create a 6/6 colorless Beast artifact creature token.
 

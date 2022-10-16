@@ -221,8 +221,8 @@
    Put target creature into its owner's library second from the top.
 
 
-:mtgtip:`Curate<https://cards.scryfall.io/border_crop/front/f/2/f2a0e716-22b7-4a5e-9b7a-d4a806ee7427.jpg?1624590066|https://scryfall.com/card/stx/40/curate?utm_source=api>`
-   Look at the top two cards of your library. Put any number of them into your graveyard and the rest back on top of your library in any order.
+:mtgtip:`Curate<https://cards.scryfall.io/border_crop/front/f/2/f2a0e716-22b7-4a5e-9b7a-d4a806ee7427.jpg?1665819389|https://scryfall.com/card/stx/40/curate?utm_source=api>`
+   Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
 
    Draw a card.
 
@@ -231,10 +231,6 @@
    Return target spell or permanent with mana value 1 or greater to its owner's hand.
 
    Learn. (You may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)
-
-
-:mtgtip:`A-Divide by Zero<https://cards.scryfall.io/border_crop/front/e/5/e550b066-1dc3-47a9-a89b-fcaee5706825.jpg?1647770421|https://scryfall.com/card/stx/A-41/a-divide-by-zero?utm_source=api>`
-   Return target spell or permanent with mana value 1 or greater to its owner's hand. If its mana value was 4 or less, learn.
 
 
 :mtgtip:`Dream Strix<https://cards.scryfall.io/border_crop/front/3/1/31d82f7a-64f1-463f-bb6b-936c3e49bf2b.jpg?1624590117|https://scryfall.com/card/stx/42/dream-strix?utm_source=api>`

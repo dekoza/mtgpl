@@ -1373,8 +1373,8 @@
    
 
 
-:mtgtip:`Tireless Tracker<https://cards.scryfall.io/border_crop/front/e/e/ee8e9928-d9b2-4570-adb8-44b34115decd.jpg?1576385266|https://scryfall.com/card/soi/233/tireless-tracker?utm_source=api>`
-   Whenever a land enters the battlefield under your control, investigate. (Create a Clue token. It's an artifact with "|mana_2|, Sacrifice this artifact: Draw a card.")
+:mtgtip:`Tireless Tracker<https://cards.scryfall.io/border_crop/front/e/e/ee8e9928-d9b2-4570-adb8-44b34115decd.jpg?1665822990|https://scryfall.com/card/soi/233/tireless-tracker?utm_source=api>`
+   Landfall — Whenever a land enters the battlefield under your control, investigate. (Create a Clue token. It's an artifact with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
    Whenever you sacrifice a Clue, put a +1/+1 counter on Tireless Tracker.
 

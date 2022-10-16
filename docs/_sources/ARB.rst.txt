@@ -573,12 +573,12 @@
    Cycling |mana_2|\ |mana_u| (|mana_2|\ |mana_u|, Discard this card: Draw a card.)
 
 
-:mtgtip:`Etherwrought Page<https://cards.scryfall.io/border_crop/front/5/6/568785f1-47c7-4011-926f-44693f7e0233.jpg?1562641376|https://scryfall.com/card/arb/108/etherwrought-page?utm_source=api>`
+:mtgtip:`Etherwrought Page<https://cards.scryfall.io/border_crop/front/5/6/568785f1-47c7-4011-926f-44693f7e0233.jpg?1665819482|https://scryfall.com/card/arb/108/etherwrought-page?utm_source=api>`
    At the beginning of your upkeep, choose one —
 
    • You gain 2 life.
 
-   • Look at the top card of your library. You may put that card into your graveyard.
+   • Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)
 
    • Each opponent loses 1 life.
 

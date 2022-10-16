@@ -421,10 +421,10 @@
    Enchanted creature gets +1/+1.
 
 
-:mtgtip:`Cruel Witness<https://cards.scryfall.io/border_crop/front/5/b/5bf2c686-efb0-46c7-b34e-c77987914b96.jpg?1643587709|https://scryfall.com/card/vow/55/cruel-witness?utm_source=api>`
+:mtgtip:`Cruel Witness<https://cards.scryfall.io/border_crop/front/5/b/5bf2c686-efb0-46c7-b34e-c77987914b96.jpg?1665819360|https://scryfall.com/card/vow/55/cruel-witness?utm_source=api>`
    Flying
 
-   Whenever you cast a noncreature spell, look at the top card of your library. You may put that card into your graveyard.
+   Whenever you cast a noncreature spell, surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)
 
 
 :mtgtip:`Diver Skaab<https://cards.scryfall.io/border_crop/front/3/8/38b5fdf4-3884-436f-8066-bc7593e72b02.jpg?1643587735|https://scryfall.com/card/vow/56/diver-skaab?utm_source=api>`
@@ -745,7 +745,7 @@
    |mana_1|\ |mana_b|, Discard a card: Bloodsworn Knight gains indestructible until end of turn. Tap it. (Damage and effects that say "destroy" don't destroy it.)
 
 
-:mtgtip:`Bloodvial Purveyor<https://cards.scryfall.io/border_crop/front/4/8/4889c58b-8b84-42af-a56c-e886655aa997.jpg?1643589240|https://scryfall.com/card/vow/98/bloodvial-purveyor?utm_source=api>`
+:mtgtip:`Bloodvial Purveyor<https://cards.scryfall.io/border_crop/front/4/8/4889c58b-8b84-42af-a56c-e886655aa997.jpg?1665157285|https://scryfall.com/card/vow/98/bloodvial-purveyor?utm_source=api>`
    Flying, trample
 
    Whenever an opponent casts a spell, that player creates a Blood token. (It's an artifact with "|mana_1|, |tap|, Discard a card, Sacrifice this artifact: Draw a card.")

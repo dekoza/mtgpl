@@ -515,8 +515,8 @@
    Destroy target creature.
 
 
-:mtgtip:`Eat to Extinction<https://cards.scryfall.io/border_crop/front/a/0/a0fae55a-6edd-42ea-b909-ccc39a64a0ed.jpg?1581479739|https://scryfall.com/card/thb/90/eat-to-extinction?utm_source=api>`
-   Exile target creature or planeswalker. Look at the top card of your library. You may put that card into your graveyard.
+:mtgtip:`Eat to Extinction<https://cards.scryfall.io/border_crop/front/a/0/a0fae55a-6edd-42ea-b909-ccc39a64a0ed.jpg?1665819457|https://scryfall.com/card/thb/90/eat-to-extinction?utm_source=api>`
+   Exile target creature or planeswalker. Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)
 
 
 :mtgtip:`Elspeth's Nightmare<https://cards.scryfall.io/border_crop/front/3/7/37ccd974-d2bc-4fcf-94a7-0a868a04cb98.jpg?1586801044|https://scryfall.com/card/thb/91/elspeths-nightmare?utm_source=api>`

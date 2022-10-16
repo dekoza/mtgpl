@@ -1387,8 +1387,8 @@
    As long as Orochi Merge-Keeper is modified, it has "|tap|: Add |mana_g|\ |mana_g|." (Equipment, Auras you control, and counters are modifications.)
 
 
-:mtgtip:`Roaring Earth<https://cards.scryfall.io/border_crop/front/8/c/8cbdd88e-c532-4fc0-a1fe-8aa0c26d1092.jpg?1654568291|https://scryfall.com/card/neo/204/roaring-earth?utm_source=api>`
-   Whenever a land enters the battlefield under your control, put a +1/+1 counter on target creature or Vehicle you control.
+:mtgtip:`Roaring Earth<https://cards.scryfall.io/border_crop/front/8/c/8cbdd88e-c532-4fc0-a1fe-8aa0c26d1092.jpg?1665822582|https://scryfall.com/card/neo/204/roaring-earth?utm_source=api>`
+   Landfall — Whenever a land enters the battlefield under your control, put a +1/+1 counter on target creature or Vehicle you control.
 
    Channel — |mana_x|\ |mana_g|\ |mana_g|, Discard Roaring Earth: Put X +1/+1 counters on target land you control. It becomes a 0/0 green Spirit creature with haste. It's still a land.
 

@@ -117,7 +117,7 @@
    (Melds with Gisela, the Broken Blade.)
 
 
-:mtgtip:`Brisela, Voice of Nightmares<https://cards.scryfall.io/border_crop/front/5/a/5a7a212e-e0b6-4f12-a95c-173cae023f93.jpg?1625771723|https://scryfall.com/card/emn/15b/brisela-voice-of-nightmares?utm_source=api>`
+:mtgtip:`Brisela, Voice of Nightmares<https://cards.scryfall.io/border_crop/front/5/a/5a7a212e-e0b6-4f12-a95c-173cae023f93.jpg?1664998568|https://scryfall.com/card/emn/15b/brisela-voice-of-nightmares?utm_source=api>`
    Flying, first strike, vigilance, lifelink
 
    Your opponents can't cast spells with mana value 3 or less.
@@ -325,8 +325,8 @@
    You may reveal an Eldrazi card you own from outside the game or choose a face-up Eldrazi card you own in exile. Put that card into your hand.
 
 
-:mtgtip:`Contingency Plan<https://cards.scryfall.io/border_crop/front/9/e/9edb76bd-db4b-4279-8eaa-dfdf5952eafc.jpg?1576384047|https://scryfall.com/card/emn/52/contingency-plan?utm_source=api>`
-   Look at the top five cards of your library. Put any number of them into your graveyard and the rest back on top of your library in any order.
+:mtgtip:`Contingency Plan<https://cards.scryfall.io/border_crop/front/9/e/9edb76bd-db4b-4279-8eaa-dfdf5952eafc.jpg?1665819345|https://scryfall.com/card/emn/52/contingency-plan?utm_source=api>`
+   Surveil 5. (Look at the top five cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
 
 
 :mtgtip:`Convolute<https://cards.scryfall.io/border_crop/front/e/1/e17cf756-ec41-4934-8906-4276277c1470.jpg?1576384056|https://scryfall.com/card/emn/53/convolute?utm_source=api>`
@@ -797,7 +797,7 @@
    (Melds with Hanweir Battlements.)
 
 
-:mtgtip:`Hanweir, the Writhing Township<https://cards.scryfall.io/border_crop/front/6/7/671fe14d-0070-4bc7-8983-707b570f4492.jpg?1625771778|https://scryfall.com/card/emn/130b/hanweir-the-writhing-township?utm_source=api>`
+:mtgtip:`Hanweir, the Writhing Township<https://cards.scryfall.io/border_crop/front/6/7/671fe14d-0070-4bc7-8983-707b570f4492.jpg?1664998584|https://scryfall.com/card/emn/130b/hanweir-the-writhing-township?utm_source=api>`
    Trample, haste
 
    Whenever Hanweir, the Writhing Township attacks, create two 3/2 colorless Eldrazi Horror creature tokens that are tapped and attacking.
@@ -1122,7 +1122,7 @@
 :mtgtip:`Grim Flayer<https://cards.scryfall.io/border_crop/front/0/2/025af99f-a029-4f99-9c76-676b68821520.jpg?1576384990|https://scryfall.com/card/emn/184/grim-flayer?utm_source=api>`
    Trample
 
-   Whenever Grim Flayer deals combat damage to a player, look at the top three cards of your library. Put any number of them into your graveyard and the rest back on top of your library in any order.
+   Whenever Grim Flayer deals combat damage to a player, surveil 3. (Look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
 
    Delirium — Grim Flayer gets +2/+2 as long as there are four or more card types among cards in your graveyard.
 
