@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG po polsku 2022.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-10-15 23:10+0200\n"
-"PO-Revision-Date: 2022-10-06 11:40+0000\n"
+"PO-Revision-Date: 2022-10-19 15:15+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/bro/pl/>\n"
 "Language: pl\n"
@@ -307,14 +307,16 @@ msgid ""
 "When Phyrexian Dragon Engine enters the battlefield from your graveyard, you "
 "may discard your hand. If you do, draw three cards."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy z twojego cmentarza, możesz odrzucić "
+"twoją rękę. Jeśli tak zrobisz, dobierz trzy karty."
 
 #: ../../BRO.rst:27
 msgid "Unearth |mana_3|\\ |mana_r|\\ |mana_r|"
-msgstr ""
+msgstr "Odkopanie |mana_3|\\ |mana_r|\\ |mana_r|"
 
 #: ../../BRO.rst:29
 msgid "(Melds with Mishra, Claimed by Gix.)"
-msgstr ""
+msgstr "(Łączy się z Mishra, Claimed by Gix.)"
 
 #: ../../BRO.rst:46
 msgid ""
@@ -324,13 +326,10 @@ msgid ""
 msgstr ""
 
 #: ../../BRO.rst:33
-#, fuzzy
-#| msgid ""
-#| "When The Mightstone and Weakstone enters the battlefield, choose one —"
 msgid ""
 "Whenever Mishra, Lost to Phyrexia enters the battlefield or attacks, choose "
 "three —"
-msgstr "Kiedy ten byt wejdzie na pole bitwy, wybierz jedno —"
+msgstr "Ilekroć ten byt wejdzie na pole bitwy lub zaatakuje, wybierz trzy —"
 
 #: ../../BRO.rst:35
 msgid "Target opponent discards two cards."
@@ -338,15 +337,16 @@ msgstr "Wskazany przeciwnik odrzuca dwie karty."
 
 #: ../../BRO.rst:37
 msgid "Mishra deals 3 damage to any target."
-msgstr ""
+msgstr "Ten byt zadaje wskazanemu celowi 3 obrażenia."
 
 #: ../../BRO.rst:39
 msgid "Destroy target artifact or planeswalker."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub wędrowca."
 
 #: ../../BRO.rst:41
 msgid "Creatures you control gain menace and trample until end of turn."
 msgstr ""
+"Stwory pod twoim władaniem do końca tury zyskują złowrogość i tratowanie."
 
 #: ../../BRO.rst:43
 msgid "Creatures you don't control get -1/-1 until end of turn."
@@ -354,7 +354,7 @@ msgstr "Stwory poza twoim władaniem dostają do końca tury -1/-1."
 
 #: ../../BRO.rst:45
 msgid "Create two tapped Powerstone tokens."
-msgstr ""
+msgstr "Stwórz dwa przekręcone żetony Kamienia Mocy."
 
 #: ../../BRO.rst:50
 msgid ""
@@ -371,6 +371,11 @@ msgid ""
 "control them, exile them, then meld them into Mishra, Lost to Phyrexia. It "
 "enters the battlefield tapped and attacking."
 msgstr ""
+"Ilekroć zaatakujesz, każdy przeciwnik traci X żyć, a ty zyskaj X żyć, gdzie "
+"X jest liczbą atakujących stworów. Jeśli niniejszy oraz stwór o nazwie "
+"Phyrexian Dragon Engine atakują i jednocześnie masz je w posiadaniu i "
+"władaniu, wygnaj je, następnie połącz je tworząc Mishra, Lost to Phyrexia. "
+"Wchodzi on na pole bitwy przekręcony i atakujący."
 
 #: ../../BRO.rst:54
 msgid ""
@@ -380,13 +385,6 @@ msgid ""
 msgstr ""
 
 #: ../../BRO.rst:53
-#, fuzzy
-#| msgid ""
-#| "|mana_4|, |tap|: Discard all the cards in your hand, then draw that many "
-#| "cards. You may chose an artifact or creature card with mana value 1 you "
-#| "discarded this way, then do the same for artifact or creature cards with "
-#| "mana values 2 and 3. Return those cards to the battlefield. Activate only "
-#| "as a sorcery."
 msgid ""
 "|mana_4|, |tap|: Discard all the cards in your hand, then draw that many "
 "cards. You may choose an artifact or creature card with mana value 1 you "
@@ -415,11 +413,6 @@ msgstr ""
 "mniej."
 
 #: ../../BRO.rst:59
-#, fuzzy
-#| msgid ""
-#| "|mana_7|: If you both own and control Urza, Lord Protector an artifact "
-#| "named The Mightstone and Weakstone, exile them, then meld them into Urza, "
-#| "Planeswalker. Activate only as a sorcery."
 msgid ""
 "|mana_7|: If you both own and control Urza, Lord Protector and an artifact "
 "named The Mightstone and Weakstone, exile them, then meld them into Urza, "
@@ -458,7 +451,7 @@ msgstr ""
 
 #: ../../BRO.rst:71
 msgid "(Melds with Urza, Lord Protector.)"
-msgstr ""
+msgstr "(Łączy się z Urza, Lord Protector.)"
 
 #: ../../BRO.rst:86
 msgid ""
@@ -468,16 +461,12 @@ msgid ""
 msgstr ""
 
 #: ../../BRO.rst:75
-#, fuzzy
-#| msgid ""
-#| "You may activate the loyalty abilities of Urza, Planeswalker twice each "
-#| "turn rather than only once."
 msgid ""
 "Once during each of your turns, you may activate an additional loyalty "
 "ability of Urza, Planeswalker. (You may activate the same ability twice.)"
 msgstr ""
-"Możesz aktywować zdolności lojalnościowe tego wędrowca dwukrotnie na turę "
-"zamiast tylko raz."
+"Raz podczas każdej z twoich tur możesz aktywować dodatkowy raz zdolność "
+"lojalnościową niniejszego. (Możesz aktywować tę samą zdolność dwukrotnie.)"
 
 #: ../../BRO.rst:77
 msgid ""
