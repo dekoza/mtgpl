@@ -19,7 +19,7 @@
    |mana_4|\ |mana_u|\ |mana_u|: Draw three cards. Activate only if Surge Engine is blue and only once.
 
 
-:mtgtip:`Phyrexian Dragon Engine<https://cards.scryfall.io/border_crop/front/e/2/e2b826be-4256-4fd6-ad4d-6c80933ee940.jpg?1664972488|https://scryfall.com/card/bro/163a/phyrexian-dragon-engine?utm_source=api>`
+:mtgtip:`Phyrexian Dragon Engine<https://cards.scryfall.io/border_crop/front/e/2/e2b826be-4256-4fd6-ad4d-6c80933ee940.jpg?1666217493|https://scryfall.com/card/bro/163a/phyrexian-dragon-engine?utm_source=api>`
    Double strike
 
    When Phyrexian Dragon Engine enters the battlefield from your graveyard, you may discard your hand. If you do, draw three cards.
@@ -29,7 +29,7 @@
    (Melds with Mishra, Claimed by Gix.)
 
 
-:mtgtip:`Mishra, Lost to Phyrexia<https://cards.scryfall.io/border_crop/front/0/2/0220c1e9-07bc-44f0-b39e-ca345ec4ea28.jpg?1665004469|https://scryfall.com/card/bro/163b/mishra-lost-to-phyrexia?utm_source=api>`
+:mtgtip:`Mishra, Lost to Phyrexia<https://cards.scryfall.io/border_crop/front/0/2/0220c1e9-07bc-44f0-b39e-ca345ec4ea28.jpg?1666313555|https://scryfall.com/card/bro/163b/mishra-lost-to-phyrexia?utm_source=api>`
    Whenever Mishra, Lost to Phyrexia enters the battlefield or attacks, choose three —
 
    • Target opponent discards two cards.
@@ -45,11 +45,11 @@
    • Create two tapped Powerstone tokens.
 
 
-:mtgtip:`Mishra, Claimed by Gix<https://cards.scryfall.io/border_crop/front/a/4/a469d7ec-42de-45de-9d8f-469bb979de58.jpg?1664968237|https://scryfall.com/card/bro/216/mishra-claimed-by-gix?utm_source=api>`
+:mtgtip:`Mishra, Claimed by Gix<https://cards.scryfall.io/border_crop/front/a/4/a469d7ec-42de-45de-9d8f-469bb979de58.jpg?1666217429|https://scryfall.com/card/bro/216/mishra-claimed-by-gix?utm_source=api>`
    Whenever you attack, each opponent loses X life and you gain X life, where X is the number of attacking creatures. If Mishra, Claimed by Gix and a creature named Phyrexian Dragon Engine are attacking, and you both own and control them, exile them, then meld them into Mishra, Lost to Phyrexia. It enters the battlefield tapped and attacking.
 
 
-:mtgtip:`Queen Kayla bin-Kroog<https://cards.scryfall.io/border_crop/front/6/8/685c9767-eaa7-4e16-b245-816181e2fc36.jpg?1664538013|https://scryfall.com/card/bro/218/queen-kayla-bin-kroog?utm_source=api>`
+:mtgtip:`Queen Kayla bin-Kroog<https://cards.scryfall.io/border_crop/front/6/8/685c9767-eaa7-4e16-b245-816181e2fc36.jpg?1665157514|https://scryfall.com/card/bro/218/queen-kayla-bin-kroog?utm_source=api>`
    |mana_4|, |tap|: Discard all the cards in your hand, then draw that many cards. You may choose an artifact or creature card with mana value 1 you discarded this way, then do the same for artifact or creature cards with mana values 2 and 3. Return those cards to the battlefield. Activate only as a sorcery.
 
 
