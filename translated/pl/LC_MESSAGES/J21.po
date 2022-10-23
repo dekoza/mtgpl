@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-10-23 20:22+0200\n"
-"PO-Revision-Date: 2022-09-15 03:42+0000\n"
+"PO-Revision-Date: 2022-10-23 20:54+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/j21/pl/>\n"
 "Language: pl\n"
@@ -506,16 +506,12 @@ msgid ""
 msgstr ""
 
 #: ../../J21.rst:81
-#, fuzzy
-#| msgid ""
-#| "When Boneyard Aberration dies, exile it. If you do, conjure three "
-#| "Reassembling Skeleton cards into your graveyard."
 msgid ""
 "When Boneyard Aberration dies, exile it. If you do, conjure three cards "
 "named Reassembling Skeleton into your graveyard."
 msgstr ""
-"Kiedy ten stwór umrze, wygnaj go. Jeśli tak zrobisz, wyczaruj trzy karty "
-"Reassembling Skeleton w twoim cmentarzu."
+"Kiedy ten stwór umrze, wygnaj go. Jeśli tak zrobisz, wyczaruj trzy karty o "
+"nazwie Reassembling Skeleton w twoim cmentarzu."
 
 #: ../../J21.rst:90
 msgid ""
@@ -541,10 +537,8 @@ msgstr ""
 "–2: Przyjmij jedną z ofert Davriela, po czym przyjmij jeden z jego warunków."
 
 #: ../../J21.rst:89
-#, fuzzy
-#| msgid "−3: Target creature perpetually gets -3/-3."
 msgid "−3: Target creature an opponent controls perpetually gets -3/-3."
-msgstr "–3: Wskazany stwór trwale dostaje -3/-3."
+msgstr "–3: Wskazany stwór pod władaniem przeciwnika trwale dostaje -3/-3."
 
 #: ../../J21.rst:94
 msgid ""
@@ -554,10 +548,8 @@ msgid ""
 msgstr ""
 
 #: ../../J21.rst:93
-#, fuzzy
-#| msgid "Target creature perpetually gets -1/-2."
 msgid "Target creature an opponent controls perpetually gets -1/-2."
-msgstr "Wskazany stwór trwale dostaje -1/-2."
+msgstr "Wskazany stwór pod władaniem przeciwnika trwale dostaje -1/-2."
 
 #: ../../J21.rst:98
 msgid ""
@@ -605,26 +597,17 @@ msgid "|mana_2|, Pay 2 life: Choose one. Activate only once."
 msgstr "|mana_2|, zapłać 2 życia: Wybierz jedno. Aktywuj tylko raz."
 
 #: ../../J21.rst:109
-#, fuzzy
-#| msgid ""
-#| "Subversive Acolyte becomes a Human Cleric. It gets +1/+2 and gains "
-#| "lifelink."
 msgid ""
 "Subversive Acolyte becomes a Human Cleric. It gets +1/+1 and gains lifelink."
 msgstr ""
-"Ten stwór staje się typu Człowiek Kleryk. Dostaje +1/+2 i zyskuje więź życia."
+"Ten stwór staje się typu Człowiek Kleryk. Dostaje +1/+1 i zyskuje więź życia."
 
 #: ../../J21.rst:111
-#, fuzzy
-#| msgid ""
-#| "Subversive Acolyte becomes a Phyrexian. It gets +3/+3 and gains trample "
-#| "and \"Whenever this creature is dealt damage, sacrifice that many "
-#| "permanents.\""
 msgid ""
 "Subversive Acolyte becomes a Phyrexian. It gets +3/+2 and gains trample and "
 "\"Whenever this creature is dealt damage, sacrifice that many permanents.\""
 msgstr ""
-"Ten stwór staje się typu Phyrexian. Dostaje +3/+3 i zyskuje tratowanie oraz "
+"Ten stwór staje się typu Phyrexian. Dostaje +3/+2 i zyskuje tratowanie oraz "
 "\"Ilekroć ten stwór otrzyma obrażenia, poświęć tyle samo bytów.\""
 
 #: ../../J21.rst:120
@@ -687,10 +670,8 @@ msgstr ""
 "tego czaru, gdzie X jest jego skrótem many.\""
 
 #: ../../J21.rst:131
-#, fuzzy
-#| msgid "0: Conjure a Shivan Dragon card into your hand."
 msgid "+1: Conjure a Shivan Dragon card into your hand."
-msgstr "0: Wyczaruj kartę Shivan Dragon w twojej ręce."
+msgstr "+1: Wyczaruj kartę Shivan Dragon w twojej ręce."
 
 #: ../../J21.rst:133
 msgid "−2: Sarkhan, Wanderer to Shiv deals 3 damage to target creature."
@@ -731,7 +712,7 @@ msgstr ""
 
 #: ../../J21.rst:147
 msgid "Starting intensity 3"
-msgstr ""
+msgstr "Startowa intensywność: 3"
 
 #: ../../J21.rst:149
 msgid ""
@@ -739,6 +720,9 @@ msgid ""
 "perpetually increase the intensity of all cards you own named Static "
 "Discharge by 1."
 msgstr ""
+"Ten czar zadaje wskazanemu celowi obrażenia równe swojej intensywności, "
+"następnie trwale zwiększ intensywność wszystkich twoich własnych kart o "
+"niniejszej nazwie o 1."
 
 #: ../../J21.rst:158
 msgid ""
@@ -2077,16 +2061,12 @@ msgid ""
 msgstr ""
 
 #: ../../J21.rst:613
-#, fuzzy
-#| msgid ""
-#| "|mana_3|, |tap|: Investigate. (Create a colorless Clue artifact token "
-#| "with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgid ""
 "|mana_3|, |tap|: Investigate. (Create a Clue token. It's an artifact with \"|"
 "mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
-"|mana_3|, |tap|: Dociekaj. (Stwórz żeton bezkolorowego artefaktu Wskazówka "
-"mający \"|mana_2|, poświęć ten artefakt: Dobierz kartę.\")"
+"|mana_3|, |tap|: Dociekaj. (Stwórz żeton Wskazówki. To artefakt mający \""
+"|mana_2|, poświęć ten artefakt: Dobierz kartę.\")"
 
 #: ../../J21.rst:622
 msgid ""
@@ -2144,15 +2124,11 @@ msgid "Create a 0/3 blue Crab creature token."
 msgstr "Stwórz żeton niebieskiego stwora Krab 0/3."
 
 #: ../../J21.rst:635
-#, fuzzy
-#| msgid ""
-#| "Investigate. (Create a colorless Clue artifact token with \"|mana_2|, "
-#| "Sacrifice this artifact: Draw a card.\")"
 msgid ""
 "Investigate. (Create a Clue token. It's an artifact with \"|mana_2|, "
 "Sacrifice this artifact: Draw a card.\")"
 msgstr ""
-"Dociekaj. (Stwórz bezkolorowy artefakt Wskazówka mający \"|mana_2|, poświęć "
+"Dociekaj. (Stwórz żeton Wskazówki. To artefakt mający \"|mana_2|, poświęć "
 "ten artefakt: Dobierz kartę.\")"
 
 #: ../../J21.rst:642
@@ -4143,12 +4119,6 @@ msgid ""
 msgstr ""
 
 #: ../../J21.rst:1255
-#, fuzzy
-#| msgid ""
-#| "When Goblin Dark-Dwellers enters the battlefield, you may cast target "
-#| "instant or sorcery card with mana value 3 or less from your graveyard "
-#| "without paying its mana cost. If that spell would be put into your "
-#| "graveyard this turn, exile it instead."
 msgid ""
 "When Goblin Dark-Dwellers enters the battlefield, you may cast target "
 "instant or sorcery card with mana value 3 or less from your graveyard "
@@ -4157,8 +4127,8 @@ msgid ""
 msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, możesz rzucić wskazaną kartę sztuczki "
 "lub obrzędu o skrócie many 3 lub mniejszym z twojego cmentarza bez płacenia "
-"kosztu many. Jeśli ów czar miałby zostać umieszczony w cmentarzu w tej "
-"turze, zamiast tego wygnaj go."
+"kosztu many. Jeśli ów czar miałby zostać umieszczony w cmentarzu, zamiast "
+"tego wygnaj go."
 
 #: ../../J21.rst:1262
 msgid ""
@@ -5072,19 +5042,14 @@ msgid ""
 msgstr ""
 
 #: ../../J21.rst:1563
-#, fuzzy
-#| msgid ""
-#| "Morbid — When Funnel-Web Recluse enters the battlefield, if a creature "
-#| "died this turn, investigate. (Create a colorless Clue artifact token with "
-#| "\"|mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgid ""
 "Morbid — When Funnel-Web Recluse enters the battlefield, if a creature died "
 "this turn, investigate. (Create a Clue token. It's an artifact with \"|"
 "mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
 "Okropność — Kiedy ten byt wejdzie na pole bitwy, jeśli w tej turze umarł "
-"stwór, dociekaj. (Stwórz żeton bezkolorowego artefaktu Wskazówka mający \"|"
-"mana_2|, poświęć ten artefakt: Dobierz kartę.\")"
+"stwór, dociekaj. (Stwórz żeton Wskazówki. To artefakt mający \"|mana_2|, "
+"poświęć ten artefakt: Dobierz kartę.\")"
 
 #: ../../J21.rst:1568
 msgid ""
@@ -5638,19 +5603,14 @@ msgid ""
 msgstr ""
 
 #: ../../J21.rst:1741
-#, fuzzy
-#| msgid ""
-#| "Whenever a nontoken creature you control dies, investigate. (Create a "
-#| "colorless Clue artifact token with \"|mana_2|, Sacrifice this artifact: "
-#| "Draw a card.\")"
 msgid ""
 "Whenever a nontoken creature you control dies, investigate. (Create a Clue "
 "token. It's an artifact with \"|mana_2|, Sacrifice this artifact: Draw a "
 "card.\")"
 msgstr ""
 "Ilekroć umrze nieżetonowy stwór pod twoim władaniem, dociekaj. (Stwórz żeton "
-"bezkolorowego artefaktu Wskazówka mający \"|mana_2|, poświęć ten artefakt: "
-"Dobierz kartę.\")"
+"Wskazówki. To artefakt mający \"|mana_2|, poświęć ten artefakt: Dobierz "
+"kartę.\")"
 
 #: ../../J21.rst:1743
 msgid ""
@@ -6415,19 +6375,14 @@ msgid ""
 msgstr ""
 
 #: ../../J21.rst:2001
-#, fuzzy
-#| msgid ""
-#| "When Wavesifter enters the battlefield, investigate twice. (To "
-#| "investigate, create a colorless Clue artifact token with \"|mana_2|, "
-#| "Sacrifice this artifact: Draw a card.\")"
 msgid ""
 "When Wavesifter enters the battlefield, investigate twice. (To investigate, "
 "create a Clue token. It's an artifact with \"|mana_2|, Sacrifice this "
 "artifact: Draw a card.\")"
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, dociekaj dwukrotnie. (Dociekając stwórz "
-"żeton bezkolorowego artefaktu Wskazówka mający \"|mana_2|, poświęć ten "
-"artefakt: Dobierz kartę.\")"
+"Kiedy ten byt wejdzie na pole bitwy, dociekaj dwukrotnie. (Stwórz żeton "
+"Wskazówki. To artefakt mający \"|mana_2|, poświęć ten artefakt: Dobierz "
+"kartę.\")"
 
 #: ../../J21.rst:2003
 msgid ""
@@ -6825,10 +6780,8 @@ msgid ""
 msgstr ""
 
 #: ../../J21.rst:2141
-#, fuzzy
-#| msgid "Target creature deals damage to itself equal to its power."
 msgid "Exile target creature. Its controller gains life equal to its power."
-msgstr "Wskazany stwór zadaje sam sobie obrażenia równe swojej sile."
+msgstr "Wygnaj wskazanego stwora. Jego władca zyskuje życia równe jego sile."
 
 #: ../../J21.rst:2146
 msgid ""
@@ -6871,10 +6824,8 @@ msgid ""
 msgstr ""
 
 #: ../../J21.rst:2159
-#, fuzzy
-#| msgid "|tap|: Add |mana_g|\\ |mana_g|\\ |mana_g|."
 msgid "Add |mana_b|\\ |mana_b|\\ |mana_b|."
-msgstr "|tap|: Weź |mana_g|\\ |mana_g|\\ |mana_g|."
+msgstr "Weź |mana_b|\\ |mana_b|\\ |mana_b|."
 
 #: ../../J21.rst:2164
 msgid ""
@@ -6884,16 +6835,12 @@ msgid ""
 msgstr ""
 
 #: ../../J21.rst:2163
-#, fuzzy
-#| msgid ""
-#| "Target opponent reveals their hand. You choose a card from it with mana "
-#| "value 3 or greater. That player discards that card."
 msgid ""
 "Target opponent reveals their hand. You choose a noncreature, nonland card "
 "from it. That player discards that card."
 msgstr ""
-"Wskazany gracz ujawnia swoją rękę. Wybierz z niej kartę o skrócie many 3 lub "
-"większym. Ów gracz odrzuca ową kartę."
+"Wskazany przeciwnik ujawnia swoją rękę. Wybierz z niej kartę nie będącą "
+"stworem ani lądem. Ów gracz odrzuca ową kartę."
 
 #: ../../J21.rst:2168
 msgid ""
@@ -6903,16 +6850,12 @@ msgid ""
 msgstr ""
 
 #: ../../J21.rst:2167
-#, fuzzy
-#| msgid ""
-#| "|mana_1|\\ |mana_b|, Discard two cards: Return Haunted Dead from your "
-#| "graveyard to the battlefield tapped."
 msgid ""
 "|mana_1|\\ |mana_b|: Return Reassembling Skeleton from your graveyard to the "
 "battlefield tapped."
 msgstr ""
-"|mana_1|\\ |mana_b|, odrzuć dwie karty: Przywróć niniejszą kartę z twojego "
-"cmentarza przekręconą na pole bitwy."
+"|mana_1|\\ |mana_b|: Przywróć tę kartę z twojego cmentarza na pole bitwy, "
+"przekręconą."
 
 #: ../../J21.rst:2172
 msgid ""
@@ -6922,15 +6865,11 @@ msgid ""
 msgstr ""
 
 #: ../../J21.rst:2171
-#, fuzzy
-#| msgid ""
-#| "Sliver creatures you control have double strike. (They deal both first-"
-#| "strike and regular combat damage.)"
 msgid ""
 "Target creature gains double strike until end of turn. (It deals both first-"
 "strike and regular combat damage.)"
 msgstr ""
-"Drzazgacze pod twoim władaniem mają podwójny cios. (Zadają obrażenia bojowe "
+"Wskazany stwór zyskuje podwójny cios do końca tury. (Zadaje obrażenia bojowe "
 "zarówno jako pierwszy cios oraz normalnie.)"
 
 #: ../../J21.rst:2176
@@ -6941,10 +6880,8 @@ msgid ""
 msgstr ""
 
 #: ../../J21.rst:2175
-#, fuzzy
-#| msgid "Shock deals 2 damage to any target."
 msgid "Lightning Bolt deals 3 damage to any target."
-msgstr "Ten czar zadaje wskazanemu celowi 2 obrażenia."
+msgstr "Ten czar zadaje wskazanemu celowi 3 obrażenia."
 
 #: ../../J21.rst:2182
 msgid ""
@@ -6962,8 +6899,6 @@ msgstr ""
 "lub zasięgiem.)"
 
 #: ../../J21.rst:2181
-#, fuzzy
-#| msgid "|mana_r|: Dragon Hatchling gets +1/+0 until end of turn."
 msgid "|mana_r|: Shivan Dragon gets +1/+0 until end of turn."
 msgstr "|mana_r|: Ten stwór do końca tury dostaje +1/+0."
 
@@ -6977,6 +6912,7 @@ msgstr ""
 #: ../../J21.rst:2185
 msgid "Prevent all combat damage that would be dealt this turn."
 msgstr ""
+"Zażegnaj wszystkie obrażenia bojowe, jakie mogłyby zostać zadane w tej turze."
 
 #: ../../J21.rst:2190
 msgid ""
@@ -6997,16 +6933,12 @@ msgid ""
 msgstr ""
 
 #: ../../J21.rst:2193
-#, fuzzy
-#| msgid ""
-#| "When Rage Forger enters the battlefield, put a +1/+1 counter on each "
-#| "other Shaman creature you control."
 msgid ""
 "When Regal Force enters the battlefield, draw a card for each green creature "
 "you control."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, umieść znacznik +1/+1 na każdym "
-"Szamanie pod twoim władaniem."
+"Kiedy ten byt wejdzie na pole bitwy, dobierz tyle kart, ile masz zielonych "
+"stworów pod władaniem."
 
 #: ../../J21.rst:2197
 msgid ""

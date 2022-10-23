@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2022.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-10-23 20:26+0200\n"
-"PO-Revision-Date: 2022-09-15 03:43+0000\n"
+"PO-Revision-Date: 2022-10-23 20:54+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/gn3/pl/>\n"
 "Language: pl\n"
@@ -215,10 +215,8 @@ msgid "{(g/u/p)}"
 msgstr "{(g/u/p)}"
 
 #: ../../symbols.rst:101
-#, fuzzy
-#| msgid "{(g/u/p)}"
 msgid "{(g/w/p)}"
-msgstr "{(g/u/p)}"
+msgstr "{(g/w/p)}"
 
 #: ../../symbols.rst:103
 msgid "{S}"
@@ -319,6 +317,9 @@ msgid ""
 "until end of turn, Nogi becomes a Dragon with base power and toughness 5/5 "
 "and gains flying."
 msgstr ""
+"Ilekroć niniejszy zaatakuje, jeśli władasz co najmniej trzema Smokami, do "
+"końca tury niniejszy staje się Smokiem o bazowej sile i wytrzymałości 5/5 i "
+"zyskuje latanie."
 
 #: ../../GN3.rst:36
 msgid ""
@@ -332,11 +333,15 @@ msgid ""
 "Whenever Imaryll, Elfhame Elite attacks, it gets +X/+X until end of turn, "
 "where X is the number of other Elves you control."
 msgstr ""
+"Ilekroć niniejszy zaatakuje, do końca tury dostaje on +X/+X, gdzie X jest "
+"liczbą innych Elfów pod twoim władaniem."
 
 #: ../../GN3.rst:35
 msgid ""
 "You may have Imaryll assign its combat damage as though it weren't blocked."
 msgstr ""
+"Możesz zdecydować, że niniejszy zada obrażenia bojowe tak, jakby nie został "
+"zablokowany."
 
 #: ../../GN3.rst:44
 msgid ""
@@ -350,16 +355,20 @@ msgid ""
 "When Ancestral Blade enters the battlefield, create a 1/1 white Soldier "
 "creature token, then attach Ancestral Blade to it."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton białego stwora Piechur 1/"
+"1, po czym dołącz ten artefakt do niego."
 
 #: ../../GN3.rst:41
 msgid "Equipped creature gets +1/+1."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +1/+1."
 
 #: ../../GN3.rst:43 ../../GN3.rst:615
 msgid ""
 "Equip |mana_1| (|mana_1|: Attach to target creature you control. Equip only "
 "as a sorcery.)"
 msgstr ""
+"Wyposaż |mana_1| (|mana_1|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Aktywuj tylko jako obrzęd.)"
 
 #: ../../GN3.rst:48
 msgid ""
@@ -374,6 +383,9 @@ msgid ""
 "opponent controls until Banisher Priest leaves the battlefield. (That "
 "creature returns under its owner's control.)"
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, wygnaj wskazanego stwora pod władaniem "
+"przeciwnika dopóki niniejszy stwór nie opuści pola bitwy. (Ów stwór wraca "
+"pod władanie swojego właściciela.)"
 
 #: ../../GN3.rst:56
 msgid ""
@@ -384,17 +396,19 @@ msgstr ""
 
 #: ../../GN3.rst:51
 msgid "Vigilance (Attacking doesn't cause this creature to tap.)"
-msgstr ""
+msgstr "Czujność (Atakowanie nie powoduje przekręcenia tego stwora.)"
 
 #: ../../GN3.rst:53
 msgid "Other Soldier creatures you control get +1/+1 and have vigilance."
-msgstr ""
+msgstr "Inni Piechurzy pod twoim władaniem dostają +1/+1 i mają czujność."
 
 #: ../../GN3.rst:55
 msgid ""
 "When Captain of the Watch enters the battlefield, create three 1/1 white "
 "Soldier creature tokens."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, stwórz trzy żetony białego stwora "
+"Piechur 1/1."
 
 #: ../../GN3.rst:62
 msgid ""
@@ -405,13 +419,11 @@ msgstr ""
 
 #: ../../GN3.rst:59
 msgid "First strike, vigilance, lifelink"
-msgstr ""
+msgstr "Pierwszy cios, czujność, więź życia"
 
 #: ../../GN3.rst:61
-#, fuzzy
-#| msgid "Dragon spells you cast cost |mana_1| less to cast."
 msgid "Aura and Equipment spells you cast cost |mana_1| less to cast."
-msgstr "Rzucanie czarów Smoków kosztuje cię o |mana_1| mniej."
+msgstr "Rzucanie czarów Aur i Wyposażeń kosztuje cię o |mana_1| mniej."
 
 #: ../../GN3.rst:66
 msgid ""
@@ -426,6 +438,9 @@ msgid ""
 "creatures can't attack you or planeswalkers you control unless their "
 "controller pays |mana_2| for each of those creatures."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, do twojej następnej tury stwory nie "
+"mogą atakować ciebie ani wędrowców pod twoim władaniem, chyba że ich władca "
+"zapłaci |mana_2| za każdego z owych stworów."
 
 #: ../../GN3.rst:74
 msgid ""
@@ -436,19 +451,23 @@ msgstr ""
 
 #: ../../GN3.rst:69
 msgid "Flying, double strike"
-msgstr ""
+msgstr "Latanie, podwójny cios"
 
 #: ../../GN3.rst:71
 msgid ""
 "When Heavenly Blademaster enters the battlefield, you may attach any number "
 "of Auras and Equipment you control to it."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, możesz dołączyć do niego dowolną liczbę "
+"Aur i Wyposażeń pod twoim władaniem."
 
 #: ../../GN3.rst:73
 msgid ""
 "Other creatures you control get +1/+1 for each Aura and Equipment attached "
 "to Heavenly Blademaster."
 msgstr ""
+"Inne stwory pod twoim władaniem dostają +1/+1 za każdą Aurę i Wyposażenie "
+"dołączone do tego stwora."
 
 #: ../../GN3.rst:78
 msgid ""
@@ -460,7 +479,7 @@ msgstr ""
 #: ../../GN3.rst:77
 msgid ""
 "As long as Kitesail Apprentice is equipped, it gets +1/+1 and has flying."
-msgstr ""
+msgstr "O ile ten stwór jest wyposażony, dostaje on +1/+1 i ma latanie."
 
 #: ../../GN3.rst:82
 msgid ""
@@ -474,6 +493,8 @@ msgid ""
 "As long as Kor Duelist is equipped, it has double strike. (It deals both "
 "first-strike and regular combat damage.)"
 msgstr ""
+"O ile ten stwór jest wyposażony, ma podwójny cios. (Zadaje obrażenia bojowe "
+"zarówno w pierwszym ciosie i normalnie.)"
 
 #: ../../GN3.rst:86
 msgid ""
@@ -487,6 +508,8 @@ msgid ""
 "When Kor Outfitter enters the battlefield, you may attach target Equipment "
 "you control to target creature you control."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, możesz dołączyć wskazane Wyposażenie "
+"pod twoim władaniem do wskazanego stwora pod twoim władaniem."
 
 #: ../../GN3.rst:90
 msgid ""
@@ -500,6 +523,9 @@ msgid ""
 "Exile target creature. Its controller may search their library for a basic "
 "land card, put that card onto the battlefield tapped, then shuffle."
 msgstr ""
+"Wygnaj wskazanego stwora. Jego władca możesz wyszukać w swojej bibliotece "
+"kartę bazowego lądu, umieścić ją przekręconą na polu bitwy, po czym "
+"przetasować."
 
 #: ../../GN3.rst:96
 msgid ""
@@ -513,10 +539,13 @@ msgid ""
 "When Pilgrim of the Ages enters the battlefield, you may search your library "
 "for a basic Plains card, reveal it, put it into your hand, then shuffle."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"kartę bazowej Równiny, ujawnij ją, umieść ją w twojej ręce, po czym "
+"przetasuj."
 
 #: ../../GN3.rst:95
 msgid "|mana_6|: Return Pilgrim of the Ages from your graveyard to your hand."
-msgstr ""
+msgstr "|mana_6|: Przywróć tę kartę z twojego cmentarza do twojej ręki."
 
 #: ../../GN3.rst:100
 msgid ""
@@ -527,7 +556,7 @@ msgstr ""
 
 #: ../../GN3.rst:99
 msgid "Flying, vigilance"
-msgstr ""
+msgstr "Latanie, czujność"
 
 #: ../../GN3.rst:104
 msgid ""
@@ -541,6 +570,8 @@ msgid ""
 "Target creature gets +2/+2 until end of turn. If you control an Equipment, "
 "create a 1/1 white Human Soldier creature token."
 msgstr ""
+"Wskazany stwór do końca tury dostaje +2/+2. Jeśli władasz Wyposażeniem, "
+"stwórz żeton białego stwora Człowiek Piechur 1/1."
 
 #: ../../GN3.rst:108
 msgid ""
@@ -551,7 +582,7 @@ msgstr ""
 
 #: ../../GN3.rst:107
 msgid "Exile target creature. Its controller gains life equal to its power."
-msgstr ""
+msgstr "Wygnaj wskazanego stwora. Jego władca zyskuje życia równe jego sile."
 
 #: ../../GN3.rst:116
 msgid ""
@@ -562,17 +593,19 @@ msgstr ""
 
 #: ../../GN3.rst:111 ../../GN3.rst:213 ../../GN3.rst:347
 msgid "Choose one —"
-msgstr ""
+msgstr "Wybierz jedno —"
 
 #: ../../GN3.rst:113
 msgid ""
 "Target creature gains indestructible until end of turn. (Damage and effects "
 "that say \"destroy\" don't destroy it.)"
 msgstr ""
+"Wskazany stwór do końca tury zyskuje niezniszczalność. (Obrażenia i efekty "
+"mówiące \"zniszcz\" nie niszczą go.)"
 
 #: ../../GN3.rst:115
 msgid "Destroy target creature with toughness 4 or greater."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora o wytrzymałości 4 lub większej."
 
 #: ../../GN3.rst:122
 msgid ""
@@ -584,13 +617,15 @@ msgstr ""
 #: ../../GN3.rst:119 ../../GN3.rst:225 ../../GN3.rst:245 ../../GN3.rst:341
 #: ../../GN3.rst:459 ../../GN3.rst:563
 msgid "Enchant creature"
-msgstr ""
+msgstr "Zaurocz stwora"
 
 #: ../../GN3.rst:121
 msgid ""
 "Enchanted creature gets +2/+2, has vigilance, and can't attack you or "
 "planeswalkers you control."
 msgstr ""
+"Zauroczony stwór dostaje +2/+2, ma czujność i nie może atakować ciebie lub "
+"wędrowców pod twoim władaniem."
 
 #: ../../GN3.rst:128
 msgid ""
@@ -604,6 +639,8 @@ msgid ""
 "When Angler Drake enters the battlefield, you may return target creature to "
 "its owner's hand."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, możesz przywrócić wskazanego stwora do "
+"ręki właściciela."
 
 #: ../../GN3.rst:134
 msgid ""
@@ -614,11 +651,13 @@ msgstr ""
 
 #: ../../GN3.rst:131
 msgid "Hexproof"
-msgstr ""
+msgstr "Antyklątwa"
 
 #: ../../GN3.rst:133
 msgid "Creatures your opponents control attack each combat if able."
 msgstr ""
+"Stwory pod władaniem twoich przeciwników atakują w każdej potyczce jeśli "
+"mogą."
 
 #: ../../GN3.rst:140
 msgid ""
@@ -629,18 +668,15 @@ msgstr ""
 
 #: ../../GN3.rst:137 ../../GN3.rst:163
 msgid "Flash (You may cast this spell any time you could cast an instant.)"
-msgstr ""
+msgstr "Błysk (Możesz rzucić ten czar jako sztuczkę.)"
 
 #: ../../GN3.rst:139
-#, fuzzy
-#| msgid ""
-#| "Whenever another creature dies during your turn, put a +1/+1 counter on "
-#| "Vogar, Necropolis Tyrant."
 msgid ""
 "Whenever you cast a spell during an opponent's turn, put a +1/+1 counter on "
 "Brineborn Cutthroat."
 msgstr ""
-"Ilekroć inny stwór umrze w twojej turze, umieść znacznik +1/+1 na niniejszym."
+"Ilekroć rzucisz czar w turze przeciwnika, umieść znacznik +1/+1 na tym "
+"stworze."
 
 #: ../../GN3.rst:144
 msgid ""
@@ -651,7 +687,7 @@ msgstr ""
 
 #: ../../GN3.rst:143
 msgid "Counter target spell."
-msgstr ""
+msgstr "Skontruj wskazany czar."
 
 #: ../../GN3.rst:150
 msgid ""
@@ -667,6 +703,10 @@ msgid ""
 "without paying its mana cost. If a spell cast this way would be put into a "
 "graveyard, exile it instead."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, za każdego przeciwnika możesz rzucić co "
+"najwyżej jedną kartę sztuczki lub obrzędu z cmentarza owego gracza bez "
+"płacenia jej kosztu many. Jeśli czar rzucony w ten sposób miałby trafić do "
+"cmentarza, zamiast tego wygnaj go."
 
 #: ../../GN3.rst:154
 msgid ""
@@ -681,6 +721,9 @@ msgid ""
 "into two piles. Put one pile into your hand and the other into your "
 "graveyard."
 msgstr ""
+"Ujawnij pięć wierzchnich kart twojej biblioteki. Przeciwnik rozdziela owe "
+"karty na dwa stosy. Umieść jeden stos w twojej ręce, a pozostały w twoim "
+"cmentarzu."
 
 #: ../../GN3.rst:160
 msgid ""
@@ -691,11 +734,13 @@ msgstr ""
 
 #: ../../GN3.rst:157
 msgid "Defender, flying"
-msgstr ""
+msgstr "Obronność, latanie"
 
 #: ../../GN3.rst:159
 msgid "Prevent all combat damage that would be dealt to and dealt by Fog Bank."
 msgstr ""
+"Zażegnaj wszystkie obrażenia bojowe, jakie mogłyby zostać zadane temu "
+"stworowi i przez tego stwora."
 
 #: ../../GN3.rst:166
 msgid ""
@@ -706,7 +751,7 @@ msgstr ""
 
 #: ../../GN3.rst:165
 msgid "Whenever Illusory Ambusher is dealt damage, draw that many cards."
-msgstr ""
+msgstr "Ilekroć ten stwór otrzymuje obrażenia, dobierz tyle samo kart."
 
 #: ../../GN3.rst:170
 msgid ""
@@ -720,6 +765,8 @@ msgid ""
 "Look at the top four cards of your library. Put one of them into your hand "
 "and the rest on the bottom of your library in any order."
 msgstr ""
+"Spójrz na cztery wierzchnie karty twojej biblioteki. Umieść jedną z nich w "
+"twojej ręce, a pozostałe losowo na spodzie twojej biblioteki."
 
 #: ../../GN3.rst:174
 msgid ""
@@ -729,20 +776,13 @@ msgid ""
 msgstr ""
 
 #: ../../GN3.rst:173
-#, fuzzy
-#| msgid ""
-#| "|mana_2|\\ |mana_u|: Goad target creature. Whenever that creature attacks "
-#| "one of your opponents this turn, you draw a card. (A goaded creature "
-#| "attacks each combat if able and attacks a player other than you if able, "
-#| "until your next turn.)"
 msgid ""
 "When Jeering Homunculus enters the battlefield, you may goad target "
 "creature. (Until your next turn, that creature attacks each combat if able "
 "and attacks a player other than you if able.)"
 msgstr ""
-"|mana_2|\\ |mana_u|: Ponaglij wskazanego stwora. Ilekroć ów stwór w tej "
-"turze zaatakuje jednego z twoich przeciwników, dobierz kartę. (Ponaglony "
-"stwór do twojej najbliższej tury atakuje w każdej potyczce jeśli może i "
+"Kiedy ten byt wejdzie na pole bitwy, możesz ponaglić wskazanego stwora. (Do "
+"twojej najbliższej tury, ów gracz atakuje w każdej potyczce jeśli może i "
 "atakuje gracza innego niż ty jeśli może.)"
 
 #: ../../GN3.rst:178
@@ -757,6 +797,8 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, create a 1/1 blue Bird "
 "Illusion creature token with flying."
 msgstr ""
+"Ilekroć rzucisz czar obrzędu, stwórz żeton niebieskiego stwora Ptak 1/1 z "
+"lataniem."
 
 #: ../../GN3.rst:182
 msgid ""
@@ -771,6 +813,9 @@ msgid ""
 "knowledge. If time gets more votes, take an extra turn after this one. If "
 "knowledge gets more votes or the vote is tied, draw three cards."
 msgstr ""
+"Wola rady — Zaczynając od ciebie każdy gracz głosuje na czas lub wiedzę. "
+"Jeśli czas dostanie więcej głosów, weź dodatkową turę po obecnej. Jeśli "
+"wiedza dostanie więcej głosów lub głosy będą po równo, dobierz trzy karty."
 
 #: ../../GN3.rst:188
 msgid ""
@@ -781,13 +826,15 @@ msgstr ""
 
 #: ../../GN3.rst:185
 msgid "Draw three cards."
-msgstr ""
+msgstr "Dobierz trzy karty."
 
 #: ../../GN3.rst:187
 msgid ""
 "Addendum — If you cast this spell during your main phase, instead scry 3, "
 "then draw three cards."
 msgstr ""
+"Dopisek — Jeśli rzucisz ten czar w twojej fazie głównej, zamiast tego wróż "
+"3, po czym dobierz trzy karty."
 
 #: ../../GN3.rst:192
 msgid ""
@@ -798,7 +845,7 @@ msgstr ""
 
 #: ../../GN3.rst:191
 msgid "Draw X cards, then discard a card."
-msgstr ""
+msgstr "Dobierz X kart, po czym odrzuć kartę."
 
 #: ../../GN3.rst:198
 msgid ""
@@ -809,11 +856,11 @@ msgstr ""
 
 #: ../../GN3.rst:195
 msgid "Return target creature to its owner's hand."
-msgstr ""
+msgstr "Przywróć wskazanego stwora do ręki właściciela."
 
 #: ../../GN3.rst:197
 msgid "Draw a card."
-msgstr ""
+msgstr "Dobierz kartę."
 
 #: ../../GN3.rst:202
 msgid ""
@@ -827,6 +874,8 @@ msgid ""
 "Choose two target creatures controlled by different players. Return those "
 "creatures to their owners' hands."
 msgstr ""
+"Wskaż dwa stwory pod władaniem różnych graczy. Przywróć owe stwory do rąk "
+"właścicieli."
 
 #: ../../GN3.rst:206
 msgid ""
@@ -841,6 +890,9 @@ msgid ""
 "your library. Put one of them into your hand and the other on the bottom of "
 "your library."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, spójrz na dwie wierzchnie karty twojej "
+"biblioteki. Umieść jedną z nich w twojej ręce, a pozostałą na spodzie twojej "
+"biblioteki."
 
 #: ../../GN3.rst:210
 msgid ""
@@ -856,6 +908,10 @@ msgid ""
 "counter the spell. If duplication gets more votes or the vote is tied, copy "
 "the spell. You may choose new targets for the copy."
 msgstr ""
+"Wola rady — Wybierz wskazany czar sztuczki lub obrzędu. Zaczynając od ciebie "
+"każdy gracz głosuje na odmową lub podwojenie. Jeśli odmowa dostanie więcej "
+"głosów, skontruj ów czar. Jeśli podwojenie dostanie więcej lub głosy będą po "
+"równo, skopiuj ów czar. Możesz wskazać nowe cele dla kopii."
 
 #: ../../GN3.rst:218
 msgid ""
@@ -866,7 +922,7 @@ msgstr ""
 
 #: ../../GN3.rst:215
 msgid "Counter target spell unless its controller pays |mana_3|."
-msgstr ""
+msgstr "Skontruj wskazany czar, chyba że jego władca zapłaci |mana_3|."
 
 #: ../../GN3.rst:222
 msgid ""
@@ -877,7 +933,7 @@ msgstr ""
 
 #: ../../GN3.rst:221
 msgid "Create two 2/2 blue Drake creature tokens with flying."
-msgstr ""
+msgstr "Stwórz dwa żetony niebieskiego stwora Drak 2/2 z lataniem."
 
 #: ../../GN3.rst:228
 msgid ""
@@ -891,6 +947,8 @@ msgid ""
 "Enchanted creature gets +2/+2, has flying, and can't attack you or "
 "planeswalkers you control."
 msgstr ""
+"Zauroczony stwór dostaje +2/+2, ma latanie i nie może atakować ciebie oraz "
+"wędrowców pod twoim władaniem."
 
 #: ../../GN3.rst:232
 msgid ""
@@ -904,6 +962,8 @@ msgid ""
 "|tap|, Pay 2 life, Discard a card, Sacrifice a creature: Create a 5/5 black "
 "Demon creature token with flying. Activate only as a sorcery."
 msgstr ""
+"|tap|, zapłać 2 życia, odrzuć kartę, poświęć stwora: Stwórz żeton czarnego "
+"stwora Demon 5/5 z lataniem. Aktywuj tylko jako obrzęd."
 
 #: ../../GN3.rst:236
 msgid ""
@@ -917,6 +977,8 @@ msgid ""
 "|mana_1|, |tap|, Sacrifice another creature: You gain life equal to the "
 "sacrificed creature's toughness. Draw a card."
 msgstr ""
+"|mana_1|, |tap|, poświęć innego stwora: Zyskaj tyle żyć, ile wynosiła "
+"wytrzymałość poświęconego stwora. Dobierz kartę."
 
 #: ../../GN3.rst:242
 msgid ""
@@ -927,13 +989,14 @@ msgstr ""
 
 #: ../../GN3.rst:239
 msgid "Flying, trample"
-msgstr ""
+msgstr "Latanie, tratowanie"
 
 #: ../../GN3.rst:241
 msgid ""
 "Whenever Demon of Loathing deals combat damage to a player, that player "
 "sacrifices a creature."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, ów gracz poświęca stwora."
 
 #: ../../GN3.rst:250
 msgid ""
@@ -947,12 +1010,16 @@ msgid ""
 "Enchanted creature gets +3/+1, has flying, and is a Demon in addition to its "
 "other types."
 msgstr ""
+"Zauroczony stwór dostaje +3/+1, ma latanie i jest Demonem oprócz swoich "
+"pozostałych typów."
 
 #: ../../GN3.rst:249
 msgid ""
 "You may cast Demonic Embrace from your graveyard by paying 3 life and "
 "discarding a card in addition to paying its other costs."
 msgstr ""
+"Możesz rzucić tę kartę z twojego cmentarza płacąc 3 życia i odrzucając kartę "
+"oprócz opłacenia jej innych kosztów."
 
 #: ../../GN3.rst:254
 msgid ""
@@ -963,7 +1030,7 @@ msgstr ""
 
 #: ../../GN3.rst:253
 msgid "Destroy target nonblack creature."
-msgstr ""
+msgstr "Zniszcz wskazanego nieczarnego stwora."
 
 #: ../../GN3.rst:258
 msgid ""
@@ -974,7 +1041,7 @@ msgstr ""
 
 #: ../../GN3.rst:257
 msgid "When Doomed Dissenter dies, create a 2/2 black Zombie creature token."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, stwórz żeton czarnego stwora Zombi 2/2."
 
 #: ../../GN3.rst:262
 msgid ""
@@ -987,7 +1054,7 @@ msgstr ""
 msgid ""
 "When Dusk Legion Zealot enters the battlefield, you draw a card and you lose "
 "1 life."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę i strać 1 życie."
 
 #: ../../GN3.rst:266
 msgid ""
@@ -1000,7 +1067,7 @@ msgstr ""
 msgid ""
 "When Fleshbag Marauder enters the battlefield, each player sacrifices a "
 "creature."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, każdy gracz poświęca stwora."
 
 #: ../../GN3.rst:270
 msgid ""
@@ -1010,15 +1077,12 @@ msgid ""
 msgstr ""
 
 #: ../../GN3.rst:269
-#, fuzzy
-#| msgid ""
-#| "Whenever another creature dies during your turn, put a +1/+1 counter on "
-#| "Vogar, Necropolis Tyrant."
 msgid ""
 "Whenever another creature you control dies, put a +1/+1 counter on Gavony "
 "Unhallowed."
 msgstr ""
-"Ilekroć inny stwór umrze w twojej turze, umieść znacznik +1/+1 na niniejszym."
+"Ilekroć umrze inny stwór pod twoim władaniem, umieść znacznik +1/+1 na "
+"niniejszym stworze."
 
 #: ../../GN3.rst:274
 msgid ""
@@ -1029,7 +1093,7 @@ msgstr ""
 
 #: ../../GN3.rst:273
 msgid "Deathtouch, lifelink"
-msgstr ""
+msgstr "Dotyk śmierci, więź życia"
 
 #: ../../GN3.rst:280
 msgid ""
@@ -1043,12 +1107,16 @@ msgid ""
 "Flying (This creature can't be blocked except by creatures with flying or "
 "reach.)"
 msgstr ""
+"Latanie (Ten stwór nie może być blokowany, chyba że przez stwory z lataniem "
+"lub zasięgiem.)"
 
 #: ../../GN3.rst:279
 msgid ""
 "|mana_5|\\ |mana_b|\\ |mana_b|: Return target creature card from your "
 "graveyard to the battlefield tapped."
 msgstr ""
+"|mana_5|\\ |mana_b|\\ |mana_b|: Przywróć wskazaną kartę stwora z twojego "
+"cmentarza przekręconą na pole bitwy."
 
 #: ../../GN3.rst:286
 msgid ""
@@ -1059,13 +1127,15 @@ msgstr ""
 
 #: ../../GN3.rst:283
 msgid "Zombies you control get +1/+1."
-msgstr ""
+msgstr "Zombi pod twoim władaniem dostają +1/+1."
 
 #: ../../GN3.rst:285
 msgid ""
 "When Liliana's Mastery enters the battlefield, create two 2/2 black Zombie "
 "creature tokens."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, stwórz dwa żetony czarnego stwora Zombi "
+"2/2."
 
 #: ../../GN3.rst:292
 msgid ""
@@ -1076,11 +1146,12 @@ msgstr ""
 
 #: ../../GN3.rst:289
 msgid "Other Zombies you control get +1/+1."
-msgstr ""
+msgstr "Inne Zombi pod twoim władaniem mają +1/+1."
 
 #: ../../GN3.rst:291
 msgid "|mana_1|\\ |mana_b|, |tap|: All Zombies gain menace until end of turn."
 msgstr ""
+"|mana_1|\\ |mana_b|, |tap|: Wszystkie Zombi zyskują złowrogość do końca tury."
 
 #: ../../GN3.rst:296
 msgid ""
@@ -1091,7 +1162,7 @@ msgstr ""
 
 #: ../../GN3.rst:295
 msgid "When Maalfeld Twins dies, create two 2/2 black Zombie creature tokens."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, stwórz dwa żetony czarnego stwora Zombi 2/2."
 
 #: ../../GN3.rst:302
 msgid ""
@@ -1102,13 +1173,15 @@ msgstr ""
 
 #: ../../GN3.rst:299
 msgid "Create two 2/2 black Zombie creature tokens."
-msgstr ""
+msgstr "Stwórz dwa żetony czarnego stwora Zombi 2/2."
 
 #: ../../GN3.rst:301
 msgid ""
 "Flashback |mana_5|\\ |mana_b|\\ |mana_b| (You may cast this card from your "
 "graveyard for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_5|\\ |mana_b|\\ |mana_b| (Możesz rzucić tę kartę z twojego "
+"cmentarza za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../GN3.rst:308
 msgid ""
@@ -1122,10 +1195,12 @@ msgid ""
 "When Priest of the Blood Rite enters the battlefield, create a 5/5 black "
 "Demon creature token with flying."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton czarnego stwora Demon 5/5 "
+"z lataniem."
 
 #: ../../GN3.rst:307
 msgid "At the beginning of your upkeep, you lose 2 life."
-msgstr ""
+msgstr "Na początku twojego kroku utrzymania, strać 2 życia."
 
 #: ../../GN3.rst:312
 msgid ""
@@ -1139,6 +1214,8 @@ msgid ""
 "When Ravenous Chupacabra enters the battlefield, destroy target creature an "
 "opponent controls."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, zniszcz wskazanego stwora pod władaniem "
+"przeciwnika."
 
 #: ../../GN3.rst:316
 msgid ""
@@ -1152,6 +1229,8 @@ msgid ""
 "|mana_1|\\ |mana_b|: Return Reassembling Skeleton from your graveyard to the "
 "battlefield tapped."
 msgstr ""
+"|mana_1|\\ |mana_b|: Przywróć tę kartę z twojego cmentarza na pole bitwy, "
+"przekręconą."
 
 #: ../../GN3.rst:320
 msgid ""
@@ -1162,7 +1241,7 @@ msgstr ""
 
 #: ../../GN3.rst:319
 msgid "Target player draws two cards and loses 2 life."
-msgstr ""
+msgstr "Wskazany gracz dobiera dwie karty i traci 2 życia."
 
 #: ../../GN3.rst:324
 msgid ""
@@ -1176,6 +1255,8 @@ msgid ""
 "Until end of turn, target creature gets +2/+0 and gains \"When this creature "
 "dies, return it to the battlefield tapped under its owner's control.\""
 msgstr ""
+"Do końca tury wskazany stwór dostaje +2/+0 oraz \"Kiedy ten stwór umrze, "
+"przywróć go przekręconego na pole bitwy pod władaniem właściciela.\""
 
 #: ../../GN3.rst:332
 msgid ""
@@ -1186,12 +1267,14 @@ msgstr ""
 
 #: ../../GN3.rst:329
 msgid "|mana_b|, Pay 2 life: Target creature gets -1/-1 until end of turn."
-msgstr ""
+msgstr "|mana_b|, zapłać 2 życia: Wskazany stwór do końca tury dostaje -1/-1."
 
 #: ../../GN3.rst:331
 msgid ""
 "Whenever you lose life, draw that many cards. (Damage causes loss of life.)"
 msgstr ""
+"Ilekroć stracisz życia, dobierz tyle samo kart. (Obrażenia sprawiają utratę "
+"żyć.)"
 
 #: ../../GN3.rst:338
 msgid ""
@@ -1202,11 +1285,11 @@ msgstr ""
 
 #: ../../GN3.rst:335
 msgid "As an additional cost to cast this spell, sacrifice a creature."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć stwora."
 
 #: ../../GN3.rst:337
 msgid "Draw two cards."
-msgstr ""
+msgstr "Dobierz dwie karty."
 
 #: ../../GN3.rst:344
 msgid ""
@@ -1221,6 +1304,9 @@ msgid ""
 "planeswalkers you control. (It can't be blocked except by two or more "
 "creatures.)"
 msgstr ""
+"Zauroczony stwór dostaje +2/+2, ma złowrogość i nie może atakować ciebie lub "
+"wędrowców pod twoim władaniem. (Nie może być blokowany, chyba że przez co "
+"najmniej dwa stwory.)"
 
 #: ../../GN3.rst:352
 msgid ""
@@ -1231,11 +1317,11 @@ msgstr ""
 
 #: ../../GN3.rst:349
 msgid "Abrade deals 3 damage to target creature."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu stworowi 3 obrażenia."
 
 #: ../../GN3.rst:351
 msgid "Destroy target artifact."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt."
 
 #: ../../GN3.rst:358
 msgid ""
@@ -1249,6 +1335,8 @@ msgid ""
 "|mana_r|: Ancient Hellkite deals 1 damage to target creature defending "
 "player controls. Activate only if Ancient Hellkite is attacking."
 msgstr ""
+"|mana_r|: Ten stwór zadaje wskazanemu stworowi pod władaniem broniącego się "
+"gracza 1 obrażenia. Możesz aktywować tylko gdy niniejszy stwór atakuje."
 
 #: ../../GN3.rst:362
 msgid ""
@@ -1259,7 +1347,7 @@ msgstr ""
 
 #: ../../GN3.rst:361
 msgid "Blaze deals X damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi X obrażeń."
 
 #: ../../GN3.rst:366
 msgid ""
@@ -1270,7 +1358,7 @@ msgstr ""
 
 #: ../../GN3.rst:365
 msgid "Dragon creatures you control get +3/+3."
-msgstr ""
+msgstr "Smoki pod twoim władaniem dostają +3/+3."
 
 #: ../../GN3.rst:372
 msgid ""
@@ -1281,13 +1369,15 @@ msgstr ""
 
 #: ../../GN3.rst:369
 msgid "Defender"
-msgstr ""
+msgstr "Obronność"
 
 #: ../../GN3.rst:371
 msgid ""
 "When Dragon Egg dies, create a 2/2 red Dragon creature token with flying and "
 "\"|mana_r|: This creature gets +1/+0 until end of turn.\""
 msgstr ""
+"Kiedy ten stwór umrze, stwórz żeton czerwonego stwora Smok 2/2 z lataniem "
+"mającego \"|mana_r|: Ten stwór do końca tury dostaje +1/+0.\""
 
 #: ../../GN3.rst:378
 msgid ""
@@ -1298,7 +1388,7 @@ msgstr ""
 
 #: ../../GN3.rst:377
 msgid "|mana_r|: Dragon Hatchling gets +1/+0 until end of turn."
-msgstr ""
+msgstr "|mana_r|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../GN3.rst:384
 msgid ""
@@ -1312,6 +1402,8 @@ msgid ""
 "Whenever Dragon Mage deals combat damage to a player, each player discards "
 "their hand, then draws seven cards."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, każdy gracz odrzuca swoją "
+"rękę, po czym dobiera siedem kart."
 
 #: ../../GN3.rst:390
 msgid ""
@@ -1325,12 +1417,16 @@ msgid ""
 "Whenever a creature with flying enters the battlefield under your control, "
 "it gains haste until end of turn."
 msgstr ""
+"Ilekroć stwór z lataniem wejdzie na pole bitwy pod twoim władaniem, zyskuje "
+"on pośpiech do końca tury."
 
 #: ../../GN3.rst:389
 msgid ""
 "Whenever a Dragon enters the battlefield under your control, it deals X "
 "damage to any target, where X is the number of Dragons you control."
 msgstr ""
+"Ilekroć Smok wejdzie na pole bitwy pod twoim władaniem, zadaje on wskazanemu "
+"celowi X obrażeń, gdzie X jest liczbą smoków pod twoim władaniem."
 
 #: ../../GN3.rst:394
 msgid ""
@@ -1340,10 +1436,8 @@ msgid ""
 msgstr ""
 
 #: ../../GN3.rst:393
-#, fuzzy
-#| msgid "Dragon spells you cast cost |mana_1| less to cast."
 msgid "Dragon spells you cast cost |mana_2| less to cast."
-msgstr "Rzucanie czarów Smoków kosztuje cię o |mana_1| mniej."
+msgstr "Rzucanie czarów Smoków kosztuje cię o |mana_2| mniej."
 
 #: ../../GN3.rst:400
 msgid ""
@@ -1357,6 +1451,8 @@ msgid ""
 "Whenever Drakuseth, Maw of Flames attacks, it deals 4 damage to any target "
 "and 3 damage to each of up to two other targets."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, zadaje wskazanemu celowi 4 obrażenia oraz po 3 "
+"obrażenia każdemu z co najwyżej dwóch innych wskazanych celów."
 
 #: ../../GN3.rst:406
 msgid ""
@@ -1370,6 +1466,8 @@ msgid ""
 "Whenever Flameblast Dragon attacks, you may pay |mana_x|\\ |mana_r|. If you "
 "do, Flameblast Dragon deals X damage to any target."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, możesz zapłacić |mana_x|\\ |mana_r|. Jeśli tak "
+"zrobisz, ten stwór zadaje wskazanemu celowi X obrażeń."
 
 #: ../../GN3.rst:410
 msgid ""
@@ -1383,6 +1481,8 @@ msgid ""
 "When Flametongue Kavu enters the battlefield, it deals 4 damage to target "
 "creature."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, zadaje on wskazanemu stworowi 4 "
+"obrażenia."
 
 #: ../../GN3.rst:416
 msgid ""
@@ -1393,7 +1493,7 @@ msgstr ""
 
 #: ../../GN3.rst:415
 msgid "|mana_r|: Furnace Whelp gets +1/+0 until end of turn."
-msgstr ""
+msgstr "|mana_r|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../GN3.rst:420
 msgid ""
@@ -1407,6 +1507,8 @@ msgid ""
 "|tap|: Target creature gains haste until end of turn. (It can attack and |"
 "tap| this turn.)"
 msgstr ""
+"|tap|: Wskazany stwór zyskuje pośpiech do końca tury. (Może atakować i |tap| "
+"w tej turze.)"
 
 #: ../../GN3.rst:424
 msgid ""
@@ -1420,6 +1522,8 @@ msgid ""
 "As long as you control a Dragon, Kargan Dragonrider has flying. (It can't be "
 "blocked except by creatures with flying or reach.)"
 msgstr ""
+"O ile władasz Smokiem, ten stwór ma latanie. (Może być blokowany tylko przez "
+"stwory z lataniem i zasięgiem.)"
 
 #: ../../GN3.rst:430
 msgid ""
@@ -1433,6 +1537,8 @@ msgid ""
 "When Knollspine Dragon enters the battlefield, you may discard your hand and "
 "draw cards equal to the damage dealt to target opponent this turn."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, możesz odrzucić twoją rękę i dobrać "
+"tyle kart, ile obrażeń w tej turze otrzymał wskazany przeciwnik."
 
 #: ../../GN3.rst:434
 msgid ""
@@ -1443,7 +1549,7 @@ msgstr ""
 
 #: ../../GN3.rst:433
 msgid "Lightning Bolt deals 3 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi 3 obrażenia."
 
 #: ../../GN3.rst:438
 msgid ""
@@ -1455,6 +1561,7 @@ msgstr ""
 #: ../../GN3.rst:437
 msgid "Add |mana_r| for each tapped land your opponents control."
 msgstr ""
+"Weź |mana_r| za każdy przekręcony ląd pod władaniem twoich przeciwników."
 
 #: ../../GN3.rst:444
 msgid ""
@@ -1469,6 +1576,9 @@ msgid ""
 "(They're artifacts with \"|tap|, Sacrifice this artifact: Add one mana of "
 "any color.\")"
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, stwórz dwa żetony Skarbu. (Są "
+"artefaktami ze zdolnością \"|tap|, poświęć ten artefakt: Weź jedną manę "
+"dowolnego koloru.\")"
 
 #: ../../GN3.rst:450
 msgid ""
@@ -1479,13 +1589,15 @@ msgstr ""
 
 #: ../../GN3.rst:447
 msgid "As an additional cost to cast this spell, discard a card."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — odrzuć kartę."
 
 #: ../../GN3.rst:449
 msgid ""
 "Draw two cards and create a Treasure token. (It's an artifact with \"|tap|, "
 "Sacrifice this artifact: Add one mana of any color.\")"
 msgstr ""
+"Dobierz dwie karty i stwórz żeton Skarbu. (To artefakt mający \"|tap|, "
+"poświęć ten artefakt: Weź jedną manę dowolnego koloru.\")"
 
 #: ../../GN3.rst:456
 msgid ""
@@ -1496,7 +1608,7 @@ msgstr ""
 
 #: ../../GN3.rst:455
 msgid "|mana_r|: Shivan Dragon gets +1/+0 until end of turn."
-msgstr ""
+msgstr "|mana_r|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../GN3.rst:462
 msgid ""
@@ -1510,6 +1622,8 @@ msgid ""
 "Enchanted creature gets +2/+2, has first strike, and can't attack you or "
 "planeswalkers you control."
 msgstr ""
+"Zauroczony stwór dostaje +2/+2, ma pierwszy cios i nie może atakować ciebie "
+"ani wędrowców pod twoim władaniem."
 
 #: ../../GN3.rst:466
 msgid ""
@@ -1520,7 +1634,7 @@ msgstr ""
 
 #: ../../GN3.rst:465
 msgid "Whenever you cast a creature spell, draw a card."
-msgstr ""
+msgstr "Ilekroć rzucisz czar stwora, dobierz kartę."
 
 #: ../../GN3.rst:470
 msgid ""
@@ -1531,7 +1645,7 @@ msgstr ""
 
 #: ../../GN3.rst:469
 msgid "Destroy target artifact, enchantment, or creature with flying."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt, urok lub stwora z lataniem."
 
 #: ../../GN3.rst:474
 msgid ""
@@ -1545,6 +1659,8 @@ msgid ""
 "When Dwynen's Elite enters the battlefield, if you control another Elf, "
 "create a 1/1 green Elf Warrior creature token."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, jeśli władasz innym Elfem, stwórz żeton "
+"zielonego stwora Elf 1/1."
 
 #: ../../GN3.rst:478
 msgid ""
@@ -1556,6 +1672,8 @@ msgstr ""
 #: ../../GN3.rst:477
 msgid "Create a 1/1 green Elf Warrior creature token for each Elf you control."
 msgstr ""
+"Stwórz żeton zielonego stwora Elf Wojownik 1/1 za każdego Elfa pod twoim "
+"władaniem."
 
 #: ../../GN3.rst:484
 msgid ""
@@ -1566,11 +1684,11 @@ msgstr ""
 
 #: ../../GN3.rst:481
 msgid "Other Elf creatures you control get +1/+1."
-msgstr ""
+msgstr "Inne Elfy pod twoim władaniem dostają +1/+1."
 
 #: ../../GN3.rst:483
 msgid "|tap|: Add |mana_g| for each Elf you control."
-msgstr ""
+msgstr "|tap|: Weź |mana_g| za każdego Elfa pod twoim władaniem."
 
 #: ../../GN3.rst:488
 msgid ""
@@ -1586,6 +1704,9 @@ msgid ""
 "battlefield tapped. Put the rest on the bottom of your library in a random "
 "order."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, spójrz na pięć wierzchnich kart twojej "
+"biblioteki. Możesz umieścić kartę lądu spośród nich na polu bitwy, "
+"przekręconą. Umieść pozostałe losowo na spodzie twojej biblioteki."
 
 #: ../../GN3.rst:492
 msgid ""
@@ -1599,6 +1720,7 @@ msgid ""
 "|mana_4|\\ |mana_g|, Sacrifice a creature: Destroy target creature with "
 "flying."
 msgstr ""
+"|mana_4|\\ |mana_g|, poświęć stwora: Zniszcz wskazanego stwora z lataniem."
 
 #: ../../GN3.rst:496
 msgid ""
@@ -1609,7 +1731,7 @@ msgstr ""
 
 #: ../../GN3.rst:495
 msgid "When Elvish Visionary enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../GN3.rst:502
 msgid ""
@@ -1620,13 +1742,15 @@ msgstr ""
 
 #: ../../GN3.rst:499
 msgid "Vigilance, trample, haste"
-msgstr ""
+msgstr "Czujność, tratowanie, pośpiech"
 
 #: ../../GN3.rst:501
 msgid ""
 "When End-Raze Forerunners enters the battlefield, other creatures you "
 "control get +2/+2 and gain vigilance and trample until end of turn."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, inne stwory pod twoim władaniem dostają "
+"do końca tury +2/+2 oraz czujność i tratowanie."
 
 #: ../../GN3.rst:506
 msgid ""
@@ -1638,6 +1762,8 @@ msgstr ""
 #: ../../GN3.rst:505
 msgid "|tap|: Put a +1/+1 counter on target creature for each Elf you control."
 msgstr ""
+"|tap|: Umieść znacznik +1/+1 na wskazanym stworze za każdego Elfa pod twoim "
+"władaniem."
 
 #: ../../GN3.rst:512
 msgid ""
@@ -1651,10 +1777,12 @@ msgid ""
 "If you control a Forest, rather than pay this spell's mana cost, you may "
 "have an opponent gain 3 life."
 msgstr ""
+"Jeśli władasz Lasem, możesz sprawić, że przeciwnik zyska 3 życia zamiast "
+"płacić koszt many tego czaru."
 
 #: ../../GN3.rst:511
 msgid "Target creature gets +4/+4 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór do końca tury dostaje +4/+4."
 
 #: ../../GN3.rst:516
 msgid ""
@@ -1665,7 +1793,7 @@ msgstr ""
 
 #: ../../GN3.rst:515
 msgid "When Joraga Visionary enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../GN3.rst:520
 msgid ""
@@ -1676,7 +1804,7 @@ msgstr ""
 
 #: ../../GN3.rst:519
 msgid "|tap|: Add |mana_g|."
-msgstr ""
+msgstr "|tap|: Weź |mana_g|."
 
 #: ../../GN3.rst:524
 msgid ""
@@ -1687,7 +1815,7 @@ msgstr ""
 
 #: ../../GN3.rst:523
 msgid "|tap|: Add |mana_g|\\ |mana_g|\\ |mana_g|."
-msgstr ""
+msgstr "|tap|: Weź |mana_g|\\ |mana_g|\\ |mana_g|."
 
 #: ../../GN3.rst:528
 msgid ""
@@ -1698,7 +1826,7 @@ msgstr ""
 
 #: ../../GN3.rst:527
 msgid "Creatures you control get +3/+3 and gain trample until end of turn."
-msgstr ""
+msgstr "Stwory pod twoim władaniem dostają do końca tury +3/+3 i tratowanie."
 
 #: ../../GN3.rst:532
 msgid ""
@@ -1712,6 +1840,8 @@ msgid ""
 "Target creature you control deals damage equal to its power to target "
 "creature you don't control."
 msgstr ""
+"Wskazany stwór pod twoim władaniem zadaje obrażenia równe swojej sile "
+"wskazanemu stworowi poza twoim władaniem."
 
 #: ../../GN3.rst:536
 msgid ""
@@ -1726,6 +1856,9 @@ msgid ""
 "creature you don't control. If the creature you control has trample, excess "
 "damage is dealt to that creature's controller instead."
 msgstr ""
+"Wskazany stwór pod twoim władaniem zadaje wskazanemu stworowi poza twoim "
+"władaniem obrażenia równe swojej sile. Jeśli ów stwór pod twoim władaniem ma "
+"tratowanie, nadwyżka obrażeń jest zamiast tego zadana władcy drugiego stwora."
 
 #: ../../GN3.rst:540
 msgid ""
@@ -1736,7 +1869,7 @@ msgstr ""
 
 #: ../../GN3.rst:539
 msgid "Return target card from your graveyard to your hand."
-msgstr ""
+msgstr "Przywróć wskazaną kartę z twojego cmentarza do twojej ręki."
 
 #: ../../GN3.rst:546
 msgid ""
@@ -1750,6 +1883,8 @@ msgid ""
 "Trample (This creature can deal excess combat damage to the player or "
 "planeswalker it's attacking.)"
 msgstr ""
+"Tratowanie (Ten stwór może zadać nadwyżkę obrażeń bojowych atakowanemu "
+"graczowi lub wędrowcowi.)"
 
 #: ../../GN3.rst:545
 msgid ""
@@ -1757,6 +1892,9 @@ msgid ""
 "your library. Put all Elf cards revealed this way into your hand and the "
 "rest on the bottom of your library in any order."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, ujawnij cztery wierzchnie karty twojej "
+"biblioteki. Umieść wszystkie karty typu Elf ujawnione w ten sposób w twojej "
+"ręce, a pozostałe na spodzie twojej biblioteki w dowolnej kolejności."
 
 #: ../../GN3.rst:550
 msgid ""
@@ -1767,7 +1905,7 @@ msgstr ""
 
 #: ../../GN3.rst:549
 msgid "All creatures able to block Taunting Elf do so."
-msgstr ""
+msgstr "Wszystkie stwory mogące blokować niniejszego, robią to."
 
 #: ../../GN3.rst:556
 msgid ""
@@ -1781,10 +1919,12 @@ msgid ""
 "Whenever Thorn Lieutenant becomes the target of a spell or ability an "
 "opponent controls, create a 1/1 green Elf Warrior creature token."
 msgstr ""
+"Ilekroć ten stwór zostanie wskazany przez czar lub zdolność pod władaniem "
+"przeciwnika, stwórz żeton zielonego stwora Elf Wojownik 1/1."
 
 #: ../../GN3.rst:555
 msgid "|mana_5|\\ |mana_g|: Thorn Lieutenant gets +4/+4 until end of turn."
-msgstr ""
+msgstr "|mana_5|\\ |mana_g|: Ten stwór do końca tury dostaje +4/+4."
 
 #: ../../GN3.rst:560
 msgid ""
@@ -1795,7 +1935,7 @@ msgstr ""
 
 #: ../../GN3.rst:559
 msgid "Reach, deathtouch"
-msgstr ""
+msgstr "Zasięg, dotyk śmierci"
 
 #: ../../GN3.rst:566
 msgid ""
@@ -1809,6 +1949,8 @@ msgid ""
 "Enchanted creature gets +3/+3, has trample, and can't attack you or "
 "planeswalkers you control."
 msgstr ""
+"Zauroczony stwór dostaje +3/+3, ma tratowanie i nie może atakować ciebie ani "
+"wędrowców pod twoim władaniem."
 
 #: ../../GN3.rst:570
 msgid ""
@@ -1822,6 +1964,8 @@ msgid ""
 "Target creature gets +X/+X until end of turn, where X is the number of Elves "
 "on the battlefield."
 msgstr ""
+"Wskazany stwór do końca tury dostaje +X/+X, gdzie X jest liczbą Elfów na "
+"polu bitwy."
 
 #: ../../GN3.rst:578
 msgid ""
@@ -1832,15 +1976,15 @@ msgstr ""
 
 #: ../../GN3.rst:573
 msgid "Equipped creature gets +6/+6."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +6/+6."
 
 #: ../../GN3.rst:575
 msgid "Whenever equipped creature attacks, destroy target permanent."
-msgstr ""
+msgstr "Ilekroć wyposażony stwór zaatakuje, zniszcz wskazany byt."
 
 #: ../../GN3.rst:577
 msgid "Equip |mana_6|"
-msgstr ""
+msgstr "Wyposaż |mana_6|"
 
 #: ../../GN3.rst:584
 msgid ""
@@ -1854,12 +1998,16 @@ msgid ""
 "Equipped creature gets +2/+0 and is goaded. (It attacks each combat if able "
 "and attacks a player other than you if able.)"
 msgstr ""
+"Wyposażony stwór dostaje +2/+0 i jest ponaglony. (Atakuje w każdej potyczce "
+"jeśli może i atakuje innego gracza niż ty jeśli może.)"
 
 #: ../../GN3.rst:583
 msgid ""
 "|mana_1|: Attach Bloodthirsty Blade to target creature an opponent controls. "
 "Activate only as a sorcery."
 msgstr ""
+"|mana_1|: Dołącz ten byt do wskazanego stwora pod władaniem przeciwnika. "
+"Aktywuj tylko jako obrzęd."
 
 #: ../../GN3.rst:590
 msgid ""
@@ -1870,13 +2018,15 @@ msgstr ""
 
 #: ../../GN3.rst:587
 msgid "Equipped creature gets +10/+10 and loses flying."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +10/+10 i traci latanie."
 
 #: ../../GN3.rst:589
 msgid ""
 "Equip |mana_8| (|mana_8|: Attach to target creature you control. Equip only "
 "as a sorcery.)"
 msgstr ""
+"Wyposaż |mana_8| (|mana_8|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Wyposaż tylko jako obrzęd.)"
 
 #: ../../GN3.rst:596
 msgid ""
@@ -1887,13 +2037,15 @@ msgstr ""
 
 #: ../../GN3.rst:593
 msgid "Equipped creature gets +3/+0."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +3/+0."
 
 #: ../../GN3.rst:595
 msgid ""
 "Equip |mana_3| (|mana_3|: Attach to target creature you control. Equip only "
 "as a sorcery.)"
 msgstr ""
+"Wyposaż |mana_3| (|mana_3|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Aktywuj tylko jako obrzęd.)"
 
 #: ../../GN3.rst:600
 msgid ""
@@ -1904,7 +2056,7 @@ msgstr ""
 
 #: ../../GN3.rst:599
 msgid "Whenever Howling Golem attacks or blocks, each player draws a card."
-msgstr ""
+msgstr "Ilekroć ten stwór zaatakuje lub zablokuje, każdy gracz dobiera kartę."
 
 #: ../../GN3.rst:608
 msgid ""
@@ -1915,17 +2067,19 @@ msgstr ""
 
 #: ../../GN3.rst:603
 msgid "Equipped creature has first strike."
-msgstr ""
+msgstr "Wyposażony stwór ma pierwszy cios."
 
 #: ../../GN3.rst:605
 msgid ""
 "Whenever equipped creature attacks, create a 4/4 white Angel creature token "
 "with flying."
 msgstr ""
+"Ilekroć wyposażony stwór zaatakuje, stwórz żeton białego stwora Anioł 4/4 z "
+"lataniem."
 
 #: ../../GN3.rst:607
 msgid "Equip |mana_4|"
-msgstr ""
+msgstr "Wyposaż |mana_4|"
 
 #: ../../GN3.rst:616
 msgid ""
@@ -1936,13 +2090,15 @@ msgstr ""
 
 #: ../../GN3.rst:611
 msgid "Equipped creature has vigilance. (Attacking doesn't cause it to tap.)"
-msgstr ""
+msgstr "Wyposażony stwór ma czujność. (Atakowanie nie przekręca go.)"
 
 #: ../../GN3.rst:613
 msgid ""
 "At the beginning of your upkeep, put a +1/+1 counter on equipped creature if "
 "it's white."
 msgstr ""
+"Na początku twojego kroku utrzymania, umieść znacznik +1/+1 na wyposażonym "
+"stworze jeśli jest biały."
 
 #: ../../GN3.rst:622
 msgid ""
@@ -1956,10 +2112,12 @@ msgid ""
 "Equipped creature gets +2/+0 and has first strike, vigilance, trample, and "
 "haste."
 msgstr ""
+"Wyposażony stwór dostaje +2/+0 i ma pierwszy cios, czujność, tratowanie i "
+"pośpiech."
 
 #: ../../GN3.rst:621
 msgid "Equip |mana_3|"
-msgstr ""
+msgstr "Wyposaż |mana_3|"
 
 #: ../../GN3.rst:628
 msgid ""
@@ -1970,11 +2128,11 @@ msgstr ""
 
 #: ../../GN3.rst:625
 msgid "Equipped creature gets +2/+1."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +2/+1."
 
 #: ../../GN3.rst:627
 msgid "Equip |mana_2|"
-msgstr ""
+msgstr "Wyposaż |mana_2|"
 
 #: ../../GN3.rst:632
 msgid ""
@@ -1985,7 +2143,7 @@ msgstr ""
 
 #: ../../GN3.rst:631
 msgid "(|tap|: Add |mana_w|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_w|.)"
 
 #: ../../GN3.rst:636
 msgid ""
@@ -1996,7 +2154,7 @@ msgstr ""
 
 #: ../../GN3.rst:635
 msgid "(|tap|: Add |mana_u|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_u|.)"
 
 #: ../../GN3.rst:640
 msgid ""
@@ -2007,7 +2165,7 @@ msgstr ""
 
 #: ../../GN3.rst:639
 msgid "(|tap|: Add |mana_b|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_b|.)"
 
 #: ../../GN3.rst:644
 msgid ""
@@ -2018,7 +2176,7 @@ msgstr ""
 
 #: ../../GN3.rst:643
 msgid "(|tap|: Add |mana_r|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_r|.)"
 
 #: ../../GN3.rst:647
 msgid ""
@@ -2029,4 +2187,4 @@ msgstr ""
 
 #: ../../GN3.rst:647
 msgid "(|tap|: Add |mana_g|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_g|.)"
