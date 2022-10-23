@@ -40,11 +40,10 @@ Tłumaczenie dodatków
 Nadchodzące
 -----------
 
-* :mtgexp:`DMR` :doc:`Dominaria Remastered<DMR>` 2023-01-13
+* :mtgexp:`DMR` :doc:`Dominaria Remastered<DMR>` Premiera: 2023-01-13
+* :mtgexp:`J22` :doc:`Jumpstart 2022<J22>` Premiera: 2022-12-02
 * :mtgexp:`BRC` :doc:`Brother's War Commander<BRC>` Premiera: 2022-11-18
 * :mtgexp:`BRO` :doc:`Brother's War<BRO>` Premiera: 2022-11-18
-* :mtgexp:`GN3` :doc:`Game Night Free-for-All<GN3>` Premiera: 2022-10-14
-* :mtgexp:`40K` :doc:`Warhammer 40,000 Commander<40K>` |40K_percent| Premiera: 2022-10-07
 
 Standard
 --------
@@ -152,6 +151,7 @@ Conspiracy
 Produkty pokrewne
 =================
 
+* :mtgexp:`GN3` :doc:`Game Night Free-for-All<GN3>` |GN3_percent|
 * :mtgexp:`GN2` :doc:`Game Night 2019<GN2>` |GN2_percent|
 * :mtgexp:`GNT` :doc:`Game Night<GNT>` |GNT_percent|
 * :mtgexp:`E02` :doc:`Explorers of Ixalan<E02>` |E02_percent|

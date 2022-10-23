@@ -122,6 +122,8 @@
 
 .. |P02_percent| image:: images/pie75.png        
 
+.. |J22_percent| image:: images/pie90.png        
+
 .. |ATQ_percent| image:: images/pie60.png        
 
 .. |M15_percent| image:: images/done.png        

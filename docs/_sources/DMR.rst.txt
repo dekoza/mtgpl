@@ -37,7 +37,7 @@
    |mana_2|, |tap|, Sacrifice Jester's Cap: Search target player's library for three cards and exile them. Then that player shuffles.
 
 
-:mtgtip:`Tatyova, Benthic Druid<https://cards.scryfall.io/border_crop/front/f/3/f32efed1-73ed-49bc-a1e1-53520ddd5d43.jpg?1664930750|https://scryfall.com/card/dmr/371/tatyova-benthic-druid?utm_source=api>`
+:mtgtip:`Tatyova, Benthic Druid<https://cards.scryfall.io/border_crop/front/f/3/f32efed1-73ed-49bc-a1e1-53520ddd5d43.jpg?1666059690|https://scryfall.com/card/dmr/371/tatyova-benthic-druid?utm_source=api>`
    Landfall — Whenever a land enters the battlefield under your control, you gain 1 life and draw a card.
 
 
