@@ -1,0 +1,294 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013-2022, Dominik Kozaczko
+# This file is distributed under the same license as the MTG po polsku package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MTG po polsku 2022.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-10-21 11:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../symbols.rst:3
+msgid "{C}"
+msgstr ""
+
+#: ../../symbols.rst:5
+msgid "{T}"
+msgstr ""
+
+#: ../../symbols.rst:7
+msgid "{Q}"
+msgstr ""
+
+#: ../../symbols.rst:9
+msgid "{U}"
+msgstr ""
+
+#: ../../symbols.rst:11
+msgid "{W}"
+msgstr ""
+
+#: ../../symbols.rst:13
+msgid "{B}"
+msgstr ""
+
+#: ../../symbols.rst:15
+msgid "{G}"
+msgstr ""
+
+#: ../../symbols.rst:17
+msgid "{R}"
+msgstr ""
+
+#: ../../symbols.rst:19
+msgid "{2/U}"
+msgstr ""
+
+#: ../../symbols.rst:21
+msgid "{2/W}"
+msgstr ""
+
+#: ../../symbols.rst:23
+msgid "{2/B}"
+msgstr ""
+
+#: ../../symbols.rst:25
+msgid "{2/G}"
+msgstr ""
+
+#: ../../symbols.rst:27
+msgid "{2/R}"
+msgstr ""
+
+#: ../../symbols.rst:29
+msgid "{U/P}"
+msgstr ""
+
+#: ../../symbols.rst:31
+msgid "{W/P}"
+msgstr ""
+
+#: ../../symbols.rst:33
+msgid "{B/P}"
+msgstr ""
+
+#: ../../symbols.rst:35
+msgid "{G/P}"
+msgstr ""
+
+#: ../../symbols.rst:37
+msgid "{R/P}"
+msgstr ""
+
+#: ../../symbols.rst:39
+msgid "{X}"
+msgstr ""
+
+#: ../../symbols.rst:41
+msgid "{P}"
+msgstr ""
+
+#: ../../symbols.rst:43
+msgid "{0}"
+msgstr ""
+
+#: ../../symbols.rst:45
+msgid "{1}"
+msgstr ""
+
+#: ../../symbols.rst:47
+msgid "{2}"
+msgstr ""
+
+#: ../../symbols.rst:49
+msgid "{3}"
+msgstr ""
+
+#: ../../symbols.rst:51
+msgid "{4}"
+msgstr ""
+
+#: ../../symbols.rst:53
+msgid "{5}"
+msgstr ""
+
+#: ../../symbols.rst:55
+msgid "{6}"
+msgstr ""
+
+#: ../../symbols.rst:57
+msgid "{7}"
+msgstr ""
+
+#: ../../symbols.rst:59
+msgid "{8}"
+msgstr ""
+
+#: ../../symbols.rst:61
+msgid "{9}"
+msgstr ""
+
+#: ../../symbols.rst:63
+msgid "{10}"
+msgstr ""
+
+#: ../../symbols.rst:65
+msgid "{11}"
+msgstr ""
+
+#: ../../symbols.rst:67
+msgid "{12}"
+msgstr ""
+
+#: ../../symbols.rst:69
+msgid "{13}"
+msgstr ""
+
+#: ../../symbols.rst:71
+msgid "{14}"
+msgstr ""
+
+#: ../../symbols.rst:73
+msgid "{15}"
+msgstr ""
+
+#: ../../symbols.rst:75
+msgid "{16}"
+msgstr ""
+
+#: ../../symbols.rst:77
+msgid "{20}"
+msgstr ""
+
+#: ../../symbols.rst:79
+msgid "{(r/g)}"
+msgstr ""
+
+#: ../../symbols.rst:81
+msgid "{(r/w)}"
+msgstr ""
+
+#: ../../symbols.rst:83
+msgid "{(u/b)}"
+msgstr ""
+
+#: ../../symbols.rst:85
+msgid "{(u/r)}"
+msgstr ""
+
+#: ../../symbols.rst:87
+msgid "{(w/b)}"
+msgstr ""
+
+#: ../../symbols.rst:89
+msgid "{(w/u)}"
+msgstr ""
+
+#: ../../symbols.rst:91
+msgid "{(b/g)}"
+msgstr ""
+
+#: ../../symbols.rst:93
+msgid "{(b/r)}"
+msgstr ""
+
+#: ../../symbols.rst:95
+msgid "{(g/w)}"
+msgstr ""
+
+#: ../../symbols.rst:97
+msgid "{(g/u)}"
+msgstr ""
+
+#: ../../symbols.rst:99
+msgid "{(g/u/p)}"
+msgstr ""
+
+#: ../../symbols.rst:101
+msgid "{(g/w/p)}"
+msgstr ""
+
+#: ../../symbols.rst:103
+msgid "{S}"
+msgstr ""
+
+#: ../../symbols.rst:105
+msgid "{E}"
+msgstr ""
+
+#: ../../symbols.rst:107
+msgid "{CHAOS}"
+msgstr ""
+
+#: ../../symbols.rst:109
+msgid "{PW}"
+msgstr ""
+
+#: ../../J22.rst:5
+msgid ":mtgexp:`J22` Jump Start 2022"
+msgstr ""
+
+#: ../../J22.rst:14
+msgid ":mtgtip:`Isu the Abominable<https://cards.scryfall.io/border_crop/front/1/e/1e1d50c3-3219-49cb-8f63-c1faff93215c.jpg?1666303712|https://scryfall.com/card/j22/12/isu-the-abominable?utm_source=api>`"
+msgstr ""
+
+#: ../../J22.rst:9
+msgid "You may look at the top card of your library any time."
+msgstr ""
+
+#: ../../J22.rst:11
+msgid "You may play snow lands and cast snow spells from the top of your library."
+msgstr ""
+
+#: ../../J22.rst:13
+msgid "Whenever another snow permanent enters the battlefield under your control, you may pay |mana_g|, |mana_w|, or |mana_u|. If you do, put a +1/+1 counter on Isu the Abominable."
+msgstr ""
+
+#: ../../J22.rst:22
+msgid ":mtgtip:`Ardoz, Cobbler of Wars<https://cards.scryfall.io/border_crop/front/2/a/2a012f05-0009-42cf-8a69-07140b2a2aef.jpg?1666303279|https://scryfall.com/card/j22/29/ardoz-cobbler-of-wars?utm_source=api>`"
+msgstr ""
+
+#: ../../J22.rst:17
+#: ../../J22.rst:25
+msgid "Haste"
+msgstr ""
+
+#: ../../J22.rst:19
+msgid "Whenever Ardoz, Cobbler of Wars or another creature enters the battlefield under your control, that creature gets +2/+0 until end of turn."
+msgstr ""
+
+#: ../../J22.rst:21
+msgid "|mana_3|\\ |mana_r|: Create a 1/1 red Goblin creature token with haste. Activate only as sorcery."
+msgstr ""
+
+#: ../../J22.rst:28
+msgid ":mtgtip:`Kiki-Jiki, Mirror Breaker<https://cards.scryfall.io/border_crop/front/0/e/0e6fc996-17ba-4090-bf82-0c2eba93a81e.jpg?1666303373|https://scryfall.com/card/j22/79/kiki-jiki-mirror-breaker?utm_source=api>`"
+msgstr ""
+
+#: ../../J22.rst:27
+msgid "|tap|: Create a token that's a copy of target nonlegendary creature you control, except it has haste. Sacrifice it at the beginning of the next end step."
+msgstr ""
+
+#: ../../J22.rst:35
+msgid ":mtgtip:`Coldsteel Heart<https://cards.scryfall.io/border_crop/front/2/5/2599b027-1ff8-48b8-8a90-8ac1fac7ed63.jpg?1666303532|https://scryfall.com/card/j22/94/coldsteel-heart?utm_source=api>`"
+msgstr ""
+
+#: ../../J22.rst:31
+msgid "Coldsteel Heart enters the battlefield tapped."
+msgstr ""
+
+#: ../../J22.rst:33
+msgid "As Coldsteel Heart enters the battlefield, choose a color."
+msgstr ""
+
+#: ../../J22.rst:35
+msgid "|tap|: Add one mana of the chosen color."
+msgstr ""
