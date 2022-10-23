@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG po polsku 2022.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-10-21 11:20+0200\n"
-"PO-Revision-Date: 2022-10-23 18:26+0000\n"
+"PO-Revision-Date: 2022-10-23 20:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/j22/pl/>\n"
 "Language: pl\n"
@@ -254,6 +254,7 @@ msgstr ""
 msgid ""
 "You may play snow lands and cast snow spells from the top of your library."
 msgstr ""
+"Możesz grać śnieżne lądy i rzucać śnieżne czary z wierzchu twojej biblioteki."
 
 #: ../../J22.rst:13
 msgid ""
@@ -261,6 +262,9 @@ msgid ""
 "you may pay |mana_g|, |mana_w|, or |mana_u|. If you do, put a +1/+1 counter "
 "on Isu the Abominable."
 msgstr ""
+"Ilekroć inny śnieżny byt wejdzie na pole bitwy pod twoim władaniem, możesz "
+"zapłacić |mana_g|, |mana_w| lub |mana_u|. Jeśli tak zrobisz, umieść znacznik "
+"+1/+1 na niniejszym."
 
 #: ../../J22.rst:22
 msgid ""
@@ -278,12 +282,16 @@ msgid ""
 "Whenever Ardoz, Cobbler of Wars or another creature enters the battlefield "
 "under your control, that creature gets +2/+0 until end of turn."
 msgstr ""
+"Ilekroć niniejszy lub inny stwór wejdzie na pole bitwy pod twoim władaniem, "
+"ów stwór do końca tury dostaje +2/+0."
 
 #: ../../J22.rst:21
 msgid ""
 "|mana_3|\\ |mana_r|: Create a 1/1 red Goblin creature token with haste. "
 "Activate only as sorcery."
 msgstr ""
+"|mana_3|\\ |mana_r|: Stwórz żeton czerwonego stwora Goblin 2/2 z pośpiechem. "
+"Aktywuj tylko jako obrzęd."
 
 #: ../../J22.rst:28
 msgid ""
