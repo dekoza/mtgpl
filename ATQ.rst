@@ -247,7 +247,7 @@
    |tap|, Exile Feldon's Cane: Shuffle your graveyard into your library.
 
 
-:mtgtip:`Golgothian Sylex<https://cards.scryfall.io/border_crop/front/8/5/856be1dd-a20b-49c2-be9d-7db76c7efd8b.jpg?1615260016|https://scryfall.com/card/atq/51/golgothian-sylex?utm_source=api>`
+:mtgtip:`Golgothian Sylex<https://cards.scryfall.io/border_crop/front/8/5/856be1dd-a20b-49c2-be9d-7db76c7efd8b.jpg?1666943891|https://scryfall.com/card/atq/51/golgothian-sylex?utm_source=api>`
    |mana_1|, |tap|: Each nontoken permanent with a name originally printed in the Antiquities expansion is sacrificed by its controller.
 
 

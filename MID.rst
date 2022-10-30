@@ -821,7 +821,7 @@
    Equip |mana_3|
 
 
-:mtgtip:`The Meathook Massacre<https://cards.scryfall.io/border_crop/front/0/8/08950015-eee5-4327-888c-82dfd13bb9ad.jpg?1665402503|https://scryfall.com/card/mid/112/the-meathook-massacre?utm_source=api>`
+:mtgtip:`The Meathook Massacre<https://cards.scryfall.io/border_crop/front/0/8/08950015-eee5-4327-888c-82dfd13bb9ad.jpg?1666689367|https://scryfall.com/card/mid/112/the-meathook-massacre?utm_source=api>`
    When The Meathook Massacre enters the battlefield, each creature gets -X/-X until end of turn.
 
    Whenever a creature you control dies, each opponent loses 1 life.

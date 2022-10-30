@@ -1476,8 +1476,6 @@
 
 
 :mtgtip:`Seat of the Synod<https://cards.scryfall.io/border_crop/front/5/d/5da5587d-6b6c-4645-8cc9-2866d1e6911b.jpg?1562145028|https://scryfall.com/card/mrd/283/seat-of-the-synod?utm_source=api>`
-   (Seat of the Synod isn't a spell.)
-
    |tap|: Add |mana_u|.
 
 
@@ -1488,14 +1486,10 @@
 
 
 :mtgtip:`Tree of Tales<https://cards.scryfall.io/border_crop/front/9/4/94db07aa-43d3-41b5-924e-60f1756b9c69.jpg?1562151494|https://scryfall.com/card/mrd/285/tree-of-tales?utm_source=api>`
-   (Tree of Tales isn't a spell.)
-
    |tap|: Add |mana_g|.
 
 
 :mtgtip:`Vault of Whispers<https://cards.scryfall.io/border_crop/front/7/3/73866487-33f4-4f64-b100-2c4ddadcd74e.jpg?1562147867|https://scryfall.com/card/mrd/286/vault-of-whispers?utm_source=api>`
-   (Vault of Whispers isn't a spell.)
-
    |tap|: Add |mana_b|.
 
 

@@ -575,11 +575,11 @@
    Untap target creature you don't control and gain control of it. It gains haste until end of turn. At the beginning of the next end step, sacrifice it. If you do, you gain life equal to its toughness.
 
 
-:mtgtip:`Struggle<https://cards.scryfall.io/border_crop/front/9/2/92f0a448-fc11-4a1e-ab87-5a02b72a481c.jpg?1604195316|https://scryfall.com/card/znc/102/struggle-survive?utm_source=api>`
+:mtgtip:`Struggle<https://cards.scryfall.io/border_crop/front/9/2/92f0a448-fc11-4a1e-ab87-5a02b72a481c.jpg?1666003190|https://scryfall.com/card/znc/102/struggle-survive?utm_source=api>`
    Struggle deals damage to target creature equal to the number of lands you control.
 
 
-:mtgtip:`Survive<https://cards.scryfall.io/border_crop/front/9/2/92f0a448-fc11-4a1e-ab87-5a02b72a481c.jpg?1604195316|https://scryfall.com/card/znc/102/struggle-survive?utm_source=api>`
+:mtgtip:`Survive<https://cards.scryfall.io/border_crop/front/9/2/92f0a448-fc11-4a1e-ab87-5a02b72a481c.jpg?1666003190|https://scryfall.com/card/znc/102/struggle-survive?utm_source=api>`
    Aftermath (Cast this spell only from your graveyard. Then exile it.)
 
    Each player shuffles their graveyard into their library.

@@ -921,11 +921,11 @@
    All Sliver creatures get +2/+0.
 
 
-:mtgtip:`Boom<https://cards.scryfall.io/border_crop/front/8/f/8ffdee1b-bb5d-44e6-a90d-6f9e9266d4fd.jpg?1661551536|https://scryfall.com/card/tsr/156/boom-bust?utm_source=api>`
+:mtgtip:`Boom<https://cards.scryfall.io/border_crop/front/8/f/8ffdee1b-bb5d-44e6-a90d-6f9e9266d4fd.jpg?1666020608|https://scryfall.com/card/tsr/156/boom-bust?utm_source=api>`
    Destroy target land you control and target land you don't control.
 
 
-:mtgtip:`Bust<https://cards.scryfall.io/border_crop/front/8/f/8ffdee1b-bb5d-44e6-a90d-6f9e9266d4fd.jpg?1661551536|https://scryfall.com/card/tsr/156/boom-bust?utm_source=api>`
+:mtgtip:`Bust<https://cards.scryfall.io/border_crop/front/8/f/8ffdee1b-bb5d-44e6-a90d-6f9e9266d4fd.jpg?1666020608|https://scryfall.com/card/tsr/156/boom-bust?utm_source=api>`
    Destroy all lands.
 
 
@@ -949,11 +949,11 @@
    Flashback—|mana_r|\ |mana_r|, Discard X cards. (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
-:mtgtip:`Dead<https://cards.scryfall.io/border_crop/front/4/5/45b090c7-f1ba-4656-8b51-915fc1876922.jpg?1619396904|https://scryfall.com/card/tsr/161/dead-gone?utm_source=api>`
+:mtgtip:`Dead<https://cards.scryfall.io/border_crop/front/4/5/45b090c7-f1ba-4656-8b51-915fc1876922.jpg?1666020618|https://scryfall.com/card/tsr/161/dead-gone?utm_source=api>`
    Dead deals 2 damage to target creature.
 
 
-:mtgtip:`Gone<https://cards.scryfall.io/border_crop/front/4/5/45b090c7-f1ba-4656-8b51-915fc1876922.jpg?1619396904|https://scryfall.com/card/tsr/161/dead-gone?utm_source=api>`
+:mtgtip:`Gone<https://cards.scryfall.io/border_crop/front/4/5/45b090c7-f1ba-4656-8b51-915fc1876922.jpg?1666020618|https://scryfall.com/card/tsr/161/dead-gone?utm_source=api>`
    Return target creature you don't control to its owner's hand.
 
 
@@ -1095,11 +1095,11 @@
    |mana_1|\ |mana_r|, Remove a time counter from a permanent you control or suspended card you own: Rift Elemental gets +2/+0 until end of turn.
 
 
-:mtgtip:`Rough<https://cards.scryfall.io/border_crop/front/e/a/ea0cdb87-030a-4696-a16f-c971cdced3ca.jpg?1619397518|https://scryfall.com/card/tsr/186/rough-tumble?utm_source=api>`
+:mtgtip:`Rough<https://cards.scryfall.io/border_crop/front/e/a/ea0cdb87-030a-4696-a16f-c971cdced3ca.jpg?1666020635|https://scryfall.com/card/tsr/186/rough-tumble?utm_source=api>`
    Rough deals 2 damage to each creature without flying.
 
 
-:mtgtip:`Tumble<https://cards.scryfall.io/border_crop/front/e/a/ea0cdb87-030a-4696-a16f-c971cdced3ca.jpg?1619397518|https://scryfall.com/card/tsr/186/rough-tumble?utm_source=api>`
+:mtgtip:`Tumble<https://cards.scryfall.io/border_crop/front/e/a/ea0cdb87-030a-4696-a16f-c971cdced3ca.jpg?1666020635|https://scryfall.com/card/tsr/186/rough-tumble?utm_source=api>`
    Tumble deals 6 damage to each creature with flying.
 
 

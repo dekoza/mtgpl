@@ -789,7 +789,7 @@
    Target creature you control gets +1/+2 until end of turn. Then it fights target creature you don't control. (Each deals damage equal to its power to the other.)
 
 
-:mtgtip:`Master Symmetrist<https://cards.scryfall.io/border_crop/front/2/5/255cdc39-6ad8-4831-9718-6712cb17654c.jpg?1624592985|https://scryfall.com/card/stx/138/master-symmetrist?utm_source=api>`
+:mtgtip:`Master Symmetrist<https://cards.scryfall.io/border_crop/front/2/5/255cdc39-6ad8-4831-9718-6712cb17654c.jpg?1666629845|https://scryfall.com/card/stx/138/master-symmetrist?utm_source=api>`
    Reach
 
    Whenever a creature you control with power equal to its toughness attacks, it gains trample until end of turn.
@@ -839,14 +839,14 @@
    Search your library for up to four basic land cards and reveal them. Put one of them onto the battlefield tapped under an opponent's control if the |mana_3|\ |mana_g| cost was paid. Put two of them onto the battlefield tapped under your control and the rest into your hand. Then shuffle.
 
 
-:mtgtip:`Augmenter Pugilist<https://cards.scryfall.io/border_crop/front/d/9/d9131fc3-018a-4975-8795-47be3956160d.jpg?1640088167|https://scryfall.com/card/stx/147/augmenter-pugilist-echoing-equation?utm_source=api>`
+:mtgtip:`Augmenter Pugilist<https://cards.scryfall.io/border_crop/front/d/9/d9131fc3-018a-4975-8795-47be3956160d.jpg?1666094681|https://scryfall.com/card/stx/147/augmenter-pugilist-echoing-equation?utm_source=api>`
    Trample
 
    As long as you control eight or more lands, Augmenter Pugilist gets +5/+5.
 
 
-:mtgtip:`Echoing Equation<https://cards.scryfall.io/border_crop/back/d/9/d9131fc3-018a-4975-8795-47be3956160d.jpg?1640088167|https://scryfall.com/card/stx/147/augmenter-pugilist-echoing-equation?utm_source=api>`
-   Choose target creature you control. Each other creature you control becomes a copy of it until end of turn, except those creatures aren't legendary if the chosen creature is legendary.
+:mtgtip:`Echoing Equation<https://cards.scryfall.io/border_crop/back/d/9/d9131fc3-018a-4975-8795-47be3956160d.jpg?1666094681|https://scryfall.com/card/stx/147/augmenter-pugilist-echoing-equation?utm_source=api>`
+   Choose target creature you control. Each other creature you control becomes a copy of it until end of turn, except those creatures aren't legendary.
 
 
 :mtgtip:`Blex, Vexing Pest<https://cards.scryfall.io/border_crop/front/c/2/c204b7ca-0904-40fa-b20c-92400fae20b8.jpg?1634060511|https://scryfall.com/card/stx/148/blex-vexing-pest-search-for-blex?utm_source=api>`

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG po polsku 2022.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-01 13:29+0200\n"
+"POT-Creation-Date: 2022-10-30 16:38+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -890,7 +890,7 @@ msgstr ""
 #: ../../C16.rst:1791
 #: ../../C16.rst:1809
 #: ../../C16.rst:1839
-#: ../../C16.rst:1961
+#: ../../C16.rst:1959
 msgid "|tap|: Add |colorless|."
 msgstr ""
 
@@ -2849,7 +2849,7 @@ msgstr ""
 #: ../../C16.rst:1431
 #: ../../C16.rst:1693
 #: ../../C16.rst:1861
-#: ../../C16.rst:1957
+#: ../../C16.rst:1955
 msgid "|tap|: Add one mana of any color."
 msgstr ""
 
@@ -3053,7 +3053,7 @@ msgid ":mtgtip:`Rakdos Signet<https://cards.scryfall.io/border_crop/front/0/c/0c
 msgstr ""
 
 #: ../../C16.rst:1521
-#: ../../C16.rst:1897
+#: ../../C16.rst:1895
 msgid "|mana_1|, |tap|: Add |mana_b|\\ |mana_r|."
 msgstr ""
 
@@ -3483,8 +3483,8 @@ msgid ":mtgtip:`Mosswort Bridge<https://cards.scryfall.io/border_crop/front/d/8/
 msgstr ""
 
 #: ../../C16.rst:1771
-#: ../../C16.rst:1909
-#: ../../C16.rst:1967
+#: ../../C16.rst:1907
+#: ../../C16.rst:1965
 msgid "Hideaway 4 (When this land enters the battlefield, look at the top four cards of your library, exile one face down, then put the rest on the bottom in a random order.)"
 msgstr ""
 
@@ -3501,7 +3501,7 @@ msgid ":mtgtip:`Murmuring Bosk<https://cards.scryfall.io/border_crop/front/d/0/d
 msgstr ""
 
 #: ../../C16.rst:1781
-#: ../../C16.rst:1993
+#: ../../C16.rst:1991
 msgid "(|tap|: Add |mana_g|.)"
 msgstr ""
 
@@ -3678,206 +3678,202 @@ msgstr ""
 msgid "|tap|: Add |mana_g|, |mana_w|, or |mana_u|."
 msgstr ""
 
-#: ../../C16.rst:1886
+#: ../../C16.rst:1884
 msgid ":mtgtip:`Seat of the Synod<https://cards.scryfall.io/border_crop/front/c/c/ccd300af-057e-4ea2-8132-7e33c8f34e08.jpg?1562420016|https://scryfall.com/card/c16/323/seat-of-the-synod?utm_source=api>`"
 msgstr ""
 
 #: ../../C16.rst:1883
-msgid "(Seat of the Synod isn't a spell.)"
-msgstr ""
-
-#: ../../C16.rst:1885
 msgid "|tap|: Add |mana_u|."
 msgstr ""
 
-#: ../../C16.rst:1894
+#: ../../C16.rst:1892
 msgid ":mtgtip:`Selesnya Sanctuary<https://cards.scryfall.io/border_crop/front/0/2/02c63879-d0e2-4bb3-b0fe-52be077030df.jpg?1562386211|https://scryfall.com/card/c16/324/selesnya-sanctuary?utm_source=api>`"
 msgstr ""
 
-#: ../../C16.rst:1889
+#: ../../C16.rst:1887
 msgid "Selesnya Sanctuary enters the battlefield tapped."
 msgstr ""
 
-#: ../../C16.rst:1891
+#: ../../C16.rst:1889
 msgid "When Selesnya Sanctuary enters the battlefield, return a land you control to its owner's hand."
 msgstr ""
 
-#: ../../C16.rst:1893
+#: ../../C16.rst:1891
 msgid "|tap|: Add |mana_g|\\ |mana_w|."
 msgstr ""
 
-#: ../../C16.rst:1898
+#: ../../C16.rst:1896
 msgid ":mtgtip:`Shadowblood Ridge<https://cards.scryfall.io/border_crop/front/a/7/a7d4dbc3-bfbd-4b82-892e-d6314b68c793.jpg?1562414310|https://scryfall.com/card/c16/325/shadowblood-ridge?utm_source=api>`"
 msgstr ""
 
-#: ../../C16.rst:1906
+#: ../../C16.rst:1904
 msgid ":mtgtip:`Simic Growth Chamber<https://cards.scryfall.io/border_crop/front/1/a/1a8657d9-7623-45d7-9189-7c0edd972205.jpg?1562390254|https://scryfall.com/card/c16/326/simic-growth-chamber?utm_source=api>`"
 msgstr ""
 
-#: ../../C16.rst:1901
+#: ../../C16.rst:1899
 msgid "Simic Growth Chamber enters the battlefield tapped."
 msgstr ""
 
-#: ../../C16.rst:1903
+#: ../../C16.rst:1901
 msgid "When Simic Growth Chamber enters the battlefield, return a land you control to its owner's hand."
 msgstr ""
 
-#: ../../C16.rst:1905
+#: ../../C16.rst:1903
 msgid "|tap|: Add |mana_g|\\ |mana_u|."
 msgstr ""
 
-#: ../../C16.rst:1916
+#: ../../C16.rst:1914
 msgid ":mtgtip:`Spinerock Knoll<https://cards.scryfall.io/border_crop/front/4/c/4c38757c-8707-4834-afd0-169afec1e235.jpg?1562398945|https://scryfall.com/card/c16/327/spinerock-knoll?utm_source=api>`"
 msgstr ""
 
-#: ../../C16.rst:1911
+#: ../../C16.rst:1909
 msgid "Spinerock Knoll enters the battlefield tapped."
 msgstr ""
 
-#: ../../C16.rst:1913
+#: ../../C16.rst:1911
 msgid "|tap|: Add |mana_r|."
 msgstr ""
 
-#: ../../C16.rst:1915
+#: ../../C16.rst:1913
 msgid "|mana_r|, |tap|: You may play the exiled card without paying its mana cost if an opponent was dealt 7 or more damage this turn."
 msgstr ""
 
-#: ../../C16.rst:1920
+#: ../../C16.rst:1918
 msgid ":mtgtip:`Sungrass Prairie<https://cards.scryfall.io/border_crop/front/8/7/872d5bdb-1c1d-40dd-9162-d5d216f2656b.jpg?1562408738|https://scryfall.com/card/c16/328/sungrass-prairie?utm_source=api>`"
 msgstr ""
 
-#: ../../C16.rst:1919
+#: ../../C16.rst:1917
 msgid "|mana_1|, |tap|: Add |mana_g|\\ |mana_w|."
 msgstr ""
 
-#: ../../C16.rst:1926
+#: ../../C16.rst:1924
 msgid ":mtgtip:`Sunpetal Grove<https://cards.scryfall.io/border_crop/front/e/e/ee06bee0-912f-49ae-98ca-a30246de1a5a.jpg?1562425093|https://scryfall.com/card/c16/329/sunpetal-grove?utm_source=api>`"
 msgstr ""
 
-#: ../../C16.rst:1923
+#: ../../C16.rst:1921
 msgid "Sunpetal Grove enters the battlefield tapped unless you control a Forest or a Plains."
 msgstr ""
 
-#: ../../C16.rst:1925
+#: ../../C16.rst:1923
 msgid "|tap|: Add |mana_g| or |mana_w|."
 msgstr ""
 
-#: ../../C16.rst:1934
+#: ../../C16.rst:1932
 msgid ":mtgtip:`Swiftwater Cliffs<https://cards.scryfall.io/border_crop/front/a/a/aaea6938-6a9d-48f2-9fe6-e4649062e53a.jpg?1562414530|https://scryfall.com/card/c16/330/swiftwater-cliffs?utm_source=api>`"
 msgstr ""
 
-#: ../../C16.rst:1929
+#: ../../C16.rst:1927
 msgid "Swiftwater Cliffs enters the battlefield tapped."
 msgstr ""
 
-#: ../../C16.rst:1931
+#: ../../C16.rst:1929
 msgid "When Swiftwater Cliffs enters the battlefield, you gain 1 life."
 msgstr ""
 
-#: ../../C16.rst:1933
+#: ../../C16.rst:1931
 msgid "|tap|: Add |mana_u| or |mana_r|."
 msgstr ""
 
-#: ../../C16.rst:1938
+#: ../../C16.rst:1936
 msgid ":mtgtip:`Temple of the False God<https://cards.scryfall.io/border_crop/front/1/2/12c24992-5042-4d98-b326-909832b41f68.jpg?1562389095|https://scryfall.com/card/c16/331/temple-of-the-false-god?utm_source=api>`"
 msgstr ""
 
-#: ../../C16.rst:1937
+#: ../../C16.rst:1935
 msgid "|tap|: Add |colorless|\\ |colorless|. Activate only if you control five or more lands."
 msgstr ""
 
-#: ../../C16.rst:1942
+#: ../../C16.rst:1940
 msgid ":mtgtip:`Terramorphic Expanse<https://cards.scryfall.io/border_crop/front/9/b/9b8d7221-b8a8-438e-9ba1-5aa94eeefb84.jpg?1562411872|https://scryfall.com/card/c16/332/terramorphic-expanse?utm_source=api>`"
 msgstr ""
 
-#: ../../C16.rst:1941
+#: ../../C16.rst:1939
 msgid "|tap|, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
-#: ../../C16.rst:1950
+#: ../../C16.rst:1948
 msgid ":mtgtip:`Thornwood Falls<https://cards.scryfall.io/border_crop/front/2/2/22e41485-89af-4a6b-9254-1e3c1397321f.jpg?1562391713|https://scryfall.com/card/c16/333/thornwood-falls?utm_source=api>`"
 msgstr ""
 
-#: ../../C16.rst:1945
+#: ../../C16.rst:1943
 msgid "Thornwood Falls enters the battlefield tapped."
 msgstr ""
 
-#: ../../C16.rst:1947
+#: ../../C16.rst:1945
 msgid "When Thornwood Falls enters the battlefield, you gain 1 life."
 msgstr ""
 
-#: ../../C16.rst:1949
+#: ../../C16.rst:1947
 msgid "|tap|: Add |mana_g| or |mana_u|."
 msgstr ""
 
-#: ../../C16.rst:1958
+#: ../../C16.rst:1956
 msgid ":mtgtip:`Transguild Promenade<https://cards.scryfall.io/border_crop/front/0/6/06dfd214-a1be-4fb0-9f55-4f38fdd29f43.jpg?1562386703|https://scryfall.com/card/c16/334/transguild-promenade?utm_source=api>`"
 msgstr ""
 
-#: ../../C16.rst:1953
+#: ../../C16.rst:1951
 msgid "Transguild Promenade enters the battlefield tapped."
 msgstr ""
 
-#: ../../C16.rst:1955
+#: ../../C16.rst:1953
 msgid "When Transguild Promenade enters the battlefield, sacrifice it unless you pay |mana_1|."
 msgstr ""
 
-#: ../../C16.rst:1964
+#: ../../C16.rst:1962
 msgid ":mtgtip:`Underground River<https://cards.scryfall.io/border_crop/front/3/5/351bc970-edd0-49b6-bd5d-3109b96f51d6.jpg?1562395253|https://scryfall.com/card/c16/335/underground-river?utm_source=api>`"
 msgstr ""
 
-#: ../../C16.rst:1963
+#: ../../C16.rst:1961
 msgid "|tap|: Add |mana_u| or |mana_b|. Underground River deals 1 damage to you."
 msgstr ""
 
-#: ../../C16.rst:1974
+#: ../../C16.rst:1972
 msgid ":mtgtip:`Windbrisk Heights<https://cards.scryfall.io/border_crop/front/c/c/cc8e7dac-f537-4acf-9854-ca3b5faa67e3.jpg?1562420004|https://scryfall.com/card/c16/336/windbrisk-heights?utm_source=api>`"
 msgstr ""
 
-#: ../../C16.rst:1969
+#: ../../C16.rst:1967
 msgid "Windbrisk Heights enters the battlefield tapped."
 msgstr ""
 
-#: ../../C16.rst:1971
+#: ../../C16.rst:1969
 msgid "|tap|: Add |mana_w|."
 msgstr ""
 
-#: ../../C16.rst:1973
+#: ../../C16.rst:1971
 msgid "|mana_w|, |tap|: You may play the exiled card without paying its mana cost if you attacked with three or more creatures this turn."
 msgstr ""
 
-#: ../../C16.rst:1978
+#: ../../C16.rst:1976
 msgid ":mtgtip:`Plains<https://cards.scryfall.io/border_crop/front/3/1/315bc0a3-3d1a-4c2e-b12c-e81486a02311.jpg?1562394375|https://scryfall.com/card/c16/337/plains?utm_source=api>`"
 msgstr ""
 
-#: ../../C16.rst:1977
+#: ../../C16.rst:1975
 msgid "(|tap|: Add |mana_w|.)"
 msgstr ""
 
-#: ../../C16.rst:1982
+#: ../../C16.rst:1980
 msgid ":mtgtip:`Island<https://cards.scryfall.io/border_crop/front/5/8/58651bbd-b3df-4b9c-b515-28d778cc2f7f.jpg?1562401065|https://scryfall.com/card/c16/340/island?utm_source=api>`"
 msgstr ""
 
-#: ../../C16.rst:1981
+#: ../../C16.rst:1979
 msgid "(|tap|: Add |mana_u|.)"
 msgstr ""
 
-#: ../../C16.rst:1986
+#: ../../C16.rst:1984
 msgid ":mtgtip:`Swamp<https://cards.scryfall.io/border_crop/front/8/3/8394a4fc-809b-4586-88a4-1d3c2c3c84ef.jpg?1562408242|https://scryfall.com/card/c16/343/swamp?utm_source=api>`"
 msgstr ""
 
-#: ../../C16.rst:1985
+#: ../../C16.rst:1983
 msgid "(|tap|: Add |mana_b|.)"
 msgstr ""
 
-#: ../../C16.rst:1990
+#: ../../C16.rst:1988
 msgid ":mtgtip:`Mountain<https://cards.scryfall.io/border_crop/front/e/5/e5a66092-6748-430e-877c-0ddc94c948c2.jpg?1562423636|https://scryfall.com/card/c16/346/mountain?utm_source=api>`"
 msgstr ""
 
-#: ../../C16.rst:1989
+#: ../../C16.rst:1987
 msgid "(|tap|: Add |mana_r|.)"
 msgstr ""
 
-#: ../../C16.rst:1993
+#: ../../C16.rst:1991
 msgid ":mtgtip:`Forest<https://cards.scryfall.io/border_crop/front/e/4/e4508384-7c5b-4189-80e6-1fc8a0fd4692.jpg?1562423219|https://scryfall.com/card/c16/349/forest?utm_source=api>`"
 msgstr ""

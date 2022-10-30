@@ -769,13 +769,13 @@
    Return a creature you control to its owner's hand, then destroy all creatures.
 
 
-:mtgtip:`Wear<https://cards.scryfall.io/border_crop/front/f/8/f8e1bd2d-ff66-4e68-9ad0-0be9c134e6f5.jpg?1664361699|https://scryfall.com/card/dmc/174/wear-tear?utm_source=api>`
+:mtgtip:`Wear<https://cards.scryfall.io/border_crop/front/f/8/f8e1bd2d-ff66-4e68-9ad0-0be9c134e6f5.jpg?1666021010|https://scryfall.com/card/dmc/174/wear-tear?utm_source=api>`
    Destroy target artifact.
 
    Fuse (You may cast one or both halves of this card from your hand.)
 
 
-:mtgtip:`Tear<https://cards.scryfall.io/border_crop/front/f/8/f8e1bd2d-ff66-4e68-9ad0-0be9c134e6f5.jpg?1664361699|https://scryfall.com/card/dmc/174/wear-tear?utm_source=api>`
+:mtgtip:`Tear<https://cards.scryfall.io/border_crop/front/f/8/f8e1bd2d-ff66-4e68-9ad0-0be9c134e6f5.jpg?1666021010|https://scryfall.com/card/dmc/174/wear-tear?utm_source=api>`
    Destroy target enchantment.
 
    Fuse (You may cast one or both halves of this card from your hand.)

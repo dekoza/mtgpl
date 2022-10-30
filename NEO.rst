@@ -751,7 +751,7 @@
    |tap|, Pay 1 life: Add |mana_b|. Spend this mana only to cast an instant or sorcery spell.
 
 
-:mtgtip:`The Long Reach of Night<https://cards.scryfall.io/border_crop/front/4/e/4ec18bf7-bd80-408d-acc4-ffaaf7ef6b5b.jpg?1656453176|https://scryfall.com/card/neo/109/the-long-reach-of-night-animus-of-nights-reach?utm_source=api>`
+:mtgtip:`The Long Reach of Night<https://cards.scryfall.io/border_crop/front/4/e/4ec18bf7-bd80-408d-acc4-ffaaf7ef6b5b.jpg?1666345528|https://scryfall.com/card/neo/109/the-long-reach-of-night-animus-of-nights-reach?utm_source=api>`
    (As this Saga enters and after your draw step, add a lore counter.)
 
    I, II — Each opponent sacrifices a creature unless they discard a card.
@@ -759,7 +759,7 @@
    III — Exile this Saga, then return it to the battlefield transformed under your control.
 
 
-:mtgtip:`Animus of Night's Reach<https://cards.scryfall.io/border_crop/back/4/e/4ec18bf7-bd80-408d-acc4-ffaaf7ef6b5b.jpg?1656453176|https://scryfall.com/card/neo/109/the-long-reach-of-night-animus-of-nights-reach?utm_source=api>`
+:mtgtip:`Animus of Night's Reach<https://cards.scryfall.io/border_crop/back/4/e/4ec18bf7-bd80-408d-acc4-ffaaf7ef6b5b.jpg?1666345528|https://scryfall.com/card/neo/109/the-long-reach-of-night-animus-of-nights-reach?utm_source=api>`
    Menace (This creature can't be blocked except by two or more creatures.)
 
    Whenever Animus of Night's Reach attacks, it gets +X/+0 until end of turn, where X is the number of creature cards in defending player's graveyard.
@@ -1309,7 +1309,7 @@
    Create two 4/5 green Spirit creature tokens. For each of them, put your choice of a vigilance counter, a reach counter, or a trample counter on it.
 
 
-:mtgtip:`Jugan Defends the Temple<https://cards.scryfall.io/border_crop/front/a/2/a22b5f27-f9e7-49e1-8e96-dc5d8e7fbe27.jpg?1656453354|https://scryfall.com/card/neo/194/jugan-defends-the-temple-remnant-of-the-rising-star?utm_source=api>`
+:mtgtip:`Jugan Defends the Temple<https://cards.scryfall.io/border_crop/front/a/2/a22b5f27-f9e7-49e1-8e96-dc5d8e7fbe27.jpg?1666345531|https://scryfall.com/card/neo/194/jugan-defends-the-temple-remnant-of-the-rising-star?utm_source=api>`
    (As this Saga enters and after your draw step, add a lore counter.)
 
    I — Create a 1/1 green Human Monk creature token with "|tap|: Add |mana_g|."
@@ -1319,7 +1319,7 @@
    III — Exile this Saga, then return it to the battlefield transformed under your control.
 
 
-:mtgtip:`Remnant of the Rising Star<https://cards.scryfall.io/border_crop/back/a/2/a22b5f27-f9e7-49e1-8e96-dc5d8e7fbe27.jpg?1656453354|https://scryfall.com/card/neo/194/jugan-defends-the-temple-remnant-of-the-rising-star?utm_source=api>`
+:mtgtip:`Remnant of the Rising Star<https://cards.scryfall.io/border_crop/back/a/2/a22b5f27-f9e7-49e1-8e96-dc5d8e7fbe27.jpg?1666345531|https://scryfall.com/card/neo/194/jugan-defends-the-temple-remnant-of-the-rising-star?utm_source=api>`
    Flying
 
    Whenever another creature enters the battlefield under your control, you may pay |mana_x|. When you do, put X +1/+1 counters on that creature.

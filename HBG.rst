@@ -1374,7 +1374,7 @@
 
 
 :mtgtip:`Irenicus's Vile Duplication<https://cards.scryfall.io/border_crop/front/0/3/038b38f0-2068-48cb-99a6-0a02e4eabae2.jpg?1656392081|https://scryfall.com/card/hbg/123/irenicuss-vile-duplication?utm_source=api>`
-   Create a token that's a copy of target creature you control, except the token has flying and it isn't legendary if that creature is legendary.
+   Create a token that's a copy of target creature you control, except the token has flying and it isn't legendary.
 
 
 :mtgtip:`Juvenile Mist Dragon<https://cards.scryfall.io/border_crop/front/f/1/f1779397-f67b-462b-8a87-ff8cd26261d9.jpg?1656558606|https://scryfall.com/card/hbg/124/juvenile-mist-dragon?utm_source=api>`
@@ -2226,7 +2226,7 @@
 :mtgtip:`Miirym, Sentinel Wyrm<https://cards.scryfall.io/border_crop/front/3/a/3a855c5e-f272-4597-bac5-a42ddc493140.jpg?1656558928|https://scryfall.com/card/hbg/242/miirym-sentinel-wyrm?utm_source=api>`
    Flying, ward |mana_2|
 
-   Whenever another nontoken Dragon enters the battlefield under your control, create a token that's a copy of it, except the token isn't legendary if that Dragon is legendary.
+   Whenever another nontoken Dragon enters the battlefield under your control, create a token that's a copy of it, except the token isn't legendary.
 
 
 :mtgtip:`Minsc & Boo, Timeless Heroes<https://cards.scryfall.io/border_crop/front/0/5/057c66a8-9424-4c88-9707-5d8ef9170119.jpg?1656685159|https://scryfall.com/card/hbg/243/minsc-&-boo-timeless-heroes?utm_source=api>`

@@ -1219,8 +1219,8 @@
    When Guardians of Koilos enters the battlefield, you may return another target historic permanent you control to its owner's hand. (Artifacts, legendaries, and Sagas are historic.)
 
 
-:mtgtip:`Helm of the Host<https://cards.scryfall.io/border_crop/front/1/d/1d65d20c-09e5-4139-838b-7e0e48eb2b2b.jpg?1562732269|https://scryfall.com/card/dom/217/helm-of-the-host?utm_source=api>`
-   At the beginning of combat on your turn, create a token that's a copy of equipped creature, except the token isn't legendary if equipped creature is legendary. That token gains haste.
+:mtgtip:`Helm of the Host<https://cards.scryfall.io/border_crop/front/1/d/1d65d20c-09e5-4139-838b-7e0e48eb2b2b.jpg?1666094567|https://scryfall.com/card/dom/217/helm-of-the-host?utm_source=api>`
+   At the beginning of combat on your turn, create a token that's a copy of equipped creature, except the token isn't legendary. That token gains haste.
 
    Equip |mana_5|
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG po polsku 2022.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-01 13:29+0200\n"
+"POT-Creation-Date: 2022-10-30 16:38+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -717,7 +717,7 @@ msgid "Whenever you cast a spell, you may remove a slumber counter from Arixmeth
 msgstr ""
 
 #: ../../C18.rst:239
-#: ../../C18.rst:1719
+#: ../../C18.rst:1717
 msgid "|tap|: Add |mana_g|\\ |mana_u|."
 msgstr ""
 
@@ -1008,7 +1008,7 @@ msgstr ""
 #: ../../C18.rst:1537
 #: ../../C18.rst:1577
 #: ../../C18.rst:1623
-#: ../../C18.rst:1775
+#: ../../C18.rst:1773
 msgid "|tap|: Add |colorless|."
 msgstr ""
 
@@ -2789,8 +2789,8 @@ msgstr ""
 
 #: ../../C18.rst:1381
 #: ../../C18.rst:1593
-#: ../../C18.rst:1703
-#: ../../C18.rst:1757
+#: ../../C18.rst:1701
+#: ../../C18.rst:1755
 msgid "|tap|: Add |mana_w| or |mana_u|."
 msgstr ""
 
@@ -2833,7 +2833,7 @@ msgid "When Blossoming Sands enters the battlefield, you gain 1 life."
 msgstr ""
 
 #: ../../C18.rst:1403
-#: ../../C18.rst:1763
+#: ../../C18.rst:1761
 msgid "|tap|: Add |mana_g| or |mana_w|."
 msgstr ""
 
@@ -2892,7 +2892,7 @@ msgstr ""
 #: ../../C18.rst:1441
 #: ../../C18.rst:1449
 #: ../../C18.rst:1555
-#: ../../C18.rst:1725
+#: ../../C18.rst:1723
 msgid "|tap|: Add |mana_u| or |mana_b|."
 msgstr ""
 
@@ -3013,7 +3013,7 @@ msgstr ""
 
 #: ../../C18.rst:1507
 #: ../../C18.rst:1585
-#: ../../C18.rst:1687
+#: ../../C18.rst:1685
 msgid "|tap|: Add |mana_u|."
 msgstr ""
 
@@ -3035,7 +3035,7 @@ msgstr ""
 
 #: ../../C18.rst:1519
 #: ../../C18.rst:1533
-#: ../../C18.rst:1733
+#: ../../C18.rst:1731
 msgid "|tap|: Add |mana_u| or |mana_r|."
 msgstr ""
 
@@ -3129,7 +3129,7 @@ msgstr ""
 
 #: ../../C18.rst:1571
 #: ../../C18.rst:1609
-#: ../../C18.rst:1769
+#: ../../C18.rst:1767
 msgid "|tap|: Add |mana_g|."
 msgstr ""
 
@@ -3230,7 +3230,7 @@ msgid "When New Benalia enters the battlefield, scry 1. (Look at the top card of
 msgstr ""
 
 #: ../../C18.rst:1633
-#: ../../C18.rst:1693
+#: ../../C18.rst:1691
 msgid "|tap|: Add |mana_w|."
 msgstr ""
 
@@ -3322,203 +3322,199 @@ msgstr ""
 msgid "|tap|: Add |mana_g|, |mana_w|, or |mana_u|."
 msgstr ""
 
-#: ../../C18.rst:1688
-msgid ":mtgtip:`Seat of the Synod<https://cards.scryfall.io/border_crop/front/1/f/1fedc183-2d95-471c-ba78-2169e4df13f8.jpg?1592711674|https://scryfall.com/card/c18/278/seat-of-the-synod?utm_source=api>`"
+#: ../../C18.rst:1686
+msgid ":mtgtip:`Seat of the Synod<https://cards.scryfall.io/border_crop/front/1/f/1fedc183-2d95-471c-ba78-2169e4df13f8.jpg?1667005055|https://scryfall.com/card/c18/278/seat-of-the-synod?utm_source=api>`"
 msgstr ""
 
-#: ../../C18.rst:1685
-msgid "(Seat of the Synod isn't a spell.)"
-msgstr ""
-
-#: ../../C18.rst:1696
+#: ../../C18.rst:1694
 msgid ":mtgtip:`Secluded Steppe<https://cards.scryfall.io/border_crop/front/b/a/ba8926ac-6c7b-4914-ac8a-05336f5e7b9f.jpg?1592711680|https://scryfall.com/card/c18/279/secluded-steppe?utm_source=api>`"
 msgstr ""
 
-#: ../../C18.rst:1691
+#: ../../C18.rst:1689
 msgid "Secluded Steppe enters the battlefield tapped."
 msgstr ""
 
-#: ../../C18.rst:1695
+#: ../../C18.rst:1693
 msgid "Cycling |mana_w| (|mana_w|, Discard this card: Draw a card.)"
 msgstr ""
 
-#: ../../C18.rst:1704
+#: ../../C18.rst:1702
 msgid ":mtgtip:`Sejiri Refuge<https://cards.scryfall.io/border_crop/front/2/d/2d08b239-cd23-4215-8e02-4156a187e96d.jpg?1592711686|https://scryfall.com/card/c18/280/sejiri-refuge?utm_source=api>`"
 msgstr ""
 
-#: ../../C18.rst:1699
+#: ../../C18.rst:1697
 msgid "Sejiri Refuge enters the battlefield tapped."
 msgstr ""
 
-#: ../../C18.rst:1701
+#: ../../C18.rst:1699
 msgid "When Sejiri Refuge enters the battlefield, you gain 1 life."
 msgstr ""
 
-#: ../../C18.rst:1712
+#: ../../C18.rst:1710
 msgid ":mtgtip:`Selesnya Sanctuary<https://cards.scryfall.io/border_crop/front/4/2/42c324a1-f4d9-4bf8-a813-b303aaf02fa7.jpg?1592711693|https://scryfall.com/card/c18/281/selesnya-sanctuary?utm_source=api>`"
 msgstr ""
 
-#: ../../C18.rst:1707
+#: ../../C18.rst:1705
 msgid "Selesnya Sanctuary enters the battlefield tapped."
 msgstr ""
 
-#: ../../C18.rst:1709
+#: ../../C18.rst:1707
 msgid "When Selesnya Sanctuary enters the battlefield, return a land you control to its owner's hand."
 msgstr ""
 
-#: ../../C18.rst:1711
+#: ../../C18.rst:1709
 msgid "|tap|: Add |mana_g|\\ |mana_w|."
 msgstr ""
 
-#: ../../C18.rst:1720
+#: ../../C18.rst:1718
 msgid ":mtgtip:`Simic Growth Chamber<https://cards.scryfall.io/border_crop/front/1/0/10919cb8-8307-44fc-a2fa-4aefc53d11b6.jpg?1592711699|https://scryfall.com/card/c18/282/simic-growth-chamber?utm_source=api>`"
 msgstr ""
 
-#: ../../C18.rst:1715
+#: ../../C18.rst:1713
 msgid "Simic Growth Chamber enters the battlefield tapped."
 msgstr ""
 
-#: ../../C18.rst:1717
+#: ../../C18.rst:1715
 msgid "When Simic Growth Chamber enters the battlefield, return a land you control to its owner's hand."
 msgstr ""
 
-#: ../../C18.rst:1726
+#: ../../C18.rst:1724
 msgid ":mtgtip:`Submerged Boneyard<https://cards.scryfall.io/border_crop/front/4/4/4490b5fe-6a69-4d76-91f2-1b8dc016e2b5.jpg?1592711706|https://scryfall.com/card/c18/283/submerged-boneyard?utm_source=api>`"
 msgstr ""
 
-#: ../../C18.rst:1723
+#: ../../C18.rst:1721
 msgid "Submerged Boneyard enters the battlefield tapped."
 msgstr ""
 
-#: ../../C18.rst:1734
+#: ../../C18.rst:1732
 msgid ":mtgtip:`Swiftwater Cliffs<https://cards.scryfall.io/border_crop/front/f/0/f040df34-f613-43f2-aaec-522d83b1ddb0.jpg?1592711712|https://scryfall.com/card/c18/284/swiftwater-cliffs?utm_source=api>`"
 msgstr ""
 
-#: ../../C18.rst:1729
+#: ../../C18.rst:1727
 msgid "Swiftwater Cliffs enters the battlefield tapped."
 msgstr ""
 
-#: ../../C18.rst:1731
+#: ../../C18.rst:1729
 msgid "When Swiftwater Cliffs enters the battlefield, you gain 1 life."
 msgstr ""
 
-#: ../../C18.rst:1738
+#: ../../C18.rst:1736
 msgid ":mtgtip:`Temple of the False God<https://cards.scryfall.io/border_crop/front/1/f/1f799c15-8f84-4ca2-a55f-ed7784d09a9a.jpg?1592711718|https://scryfall.com/card/c18/285/temple-of-the-false-god?utm_source=api>`"
 msgstr ""
 
-#: ../../C18.rst:1737
+#: ../../C18.rst:1735
 msgid "|tap|: Add |colorless|\\ |colorless|. Activate only if you control five or more lands."
 msgstr ""
 
-#: ../../C18.rst:1742
+#: ../../C18.rst:1740
 msgid ":mtgtip:`Terramorphic Expanse<https://cards.scryfall.io/border_crop/front/f/c/fc282cec-c74a-4431-bbbc-e8febe71adf2.jpg?1592711723|https://scryfall.com/card/c18/286/terramorphic-expanse?utm_source=api>`"
 msgstr ""
 
-#: ../../C18.rst:1741
+#: ../../C18.rst:1739
 msgid "|tap|, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
-#: ../../C18.rst:1750
+#: ../../C18.rst:1748
 msgid ":mtgtip:`Thornwood Falls<https://cards.scryfall.io/border_crop/front/f/c/fc81cc34-f78a-411e-8dbd-b13b3d62e587.jpg?1592711729|https://scryfall.com/card/c18/287/thornwood-falls?utm_source=api>`"
 msgstr ""
 
-#: ../../C18.rst:1745
+#: ../../C18.rst:1743
 msgid "Thornwood Falls enters the battlefield tapped."
 msgstr ""
 
-#: ../../C18.rst:1747
+#: ../../C18.rst:1745
 msgid "When Thornwood Falls enters the battlefield, you gain 1 life."
 msgstr ""
 
-#: ../../C18.rst:1749
-#: ../../C18.rst:1783
+#: ../../C18.rst:1747
+#: ../../C18.rst:1781
 msgid "|tap|: Add |mana_g| or |mana_u|."
 msgstr ""
 
-#: ../../C18.rst:1758
+#: ../../C18.rst:1756
 msgid ":mtgtip:`Tranquil Cove<https://cards.scryfall.io/border_crop/front/a/5/a52d8ef5-725a-4dbd-b209-3d55c3adfc7a.jpg?1592711736|https://scryfall.com/card/c18/288/tranquil-cove?utm_source=api>`"
 msgstr ""
 
-#: ../../C18.rst:1753
+#: ../../C18.rst:1751
 msgid "Tranquil Cove enters the battlefield tapped."
 msgstr ""
 
-#: ../../C18.rst:1755
+#: ../../C18.rst:1753
 msgid "When Tranquil Cove enters the battlefield, you gain 1 life."
 msgstr ""
 
-#: ../../C18.rst:1764
+#: ../../C18.rst:1762
 msgid ":mtgtip:`Tranquil Expanse<https://cards.scryfall.io/border_crop/front/1/2/123cd67f-7226-4e69-8637-382380fb213e.jpg?1592711742|https://scryfall.com/card/c18/289/tranquil-expanse?utm_source=api>`"
 msgstr ""
 
-#: ../../C18.rst:1761
+#: ../../C18.rst:1759
 msgid "Tranquil Expanse enters the battlefield tapped."
 msgstr ""
 
-#: ../../C18.rst:1772
+#: ../../C18.rst:1770
 msgid ":mtgtip:`Tranquil Thicket<https://cards.scryfall.io/border_crop/front/6/3/63c97e9f-e5da-4f77-be51-ef99093ca29c.jpg?1592711748|https://scryfall.com/card/c18/290/tranquil-thicket?utm_source=api>`"
 msgstr ""
 
-#: ../../C18.rst:1767
+#: ../../C18.rst:1765
 msgid "Tranquil Thicket enters the battlefield tapped."
 msgstr ""
 
-#: ../../C18.rst:1771
+#: ../../C18.rst:1769
 msgid "Cycling |mana_g| (|mana_g|, Discard this card: Draw a card.)"
 msgstr ""
 
-#: ../../C18.rst:1778
+#: ../../C18.rst:1776
 msgid ":mtgtip:`Warped Landscape<https://cards.scryfall.io/border_crop/front/3/d/3d313741-af67-47fd-9beb-8abc7d554715.jpg?1592711754|https://scryfall.com/card/c18/291/warped-landscape?utm_source=api>`"
 msgstr ""
 
-#: ../../C18.rst:1777
+#: ../../C18.rst:1775
 msgid "|mana_2|, |tap|, Sacrifice Warped Landscape: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
-#: ../../C18.rst:1784
+#: ../../C18.rst:1782
 msgid ":mtgtip:`Woodland Stream<https://cards.scryfall.io/border_crop/front/c/4/c4fa0dff-ae39-4a08-af6c-63c974b1b11b.jpg?1592711760|https://scryfall.com/card/c18/292/woodland-stream?utm_source=api>`"
 msgstr ""
 
-#: ../../C18.rst:1781
+#: ../../C18.rst:1779
 msgid "Woodland Stream enters the battlefield tapped."
 msgstr ""
 
-#: ../../C18.rst:1788
+#: ../../C18.rst:1786
 msgid ":mtgtip:`Plains<https://cards.scryfall.io/border_crop/front/8/3/83fbc748-fe45-4b06-b2ec-71087f7225ec.jpg?1592711766|https://scryfall.com/card/c18/293/plains?utm_source=api>`"
 msgstr ""
 
-#: ../../C18.rst:1787
+#: ../../C18.rst:1785
 msgid "(|tap|: Add |mana_w|.)"
 msgstr ""
 
-#: ../../C18.rst:1792
+#: ../../C18.rst:1790
 msgid ":mtgtip:`Island<https://cards.scryfall.io/border_crop/front/2/8/28347f33-bfd5-48fd-ab10-228dfad1669d.jpg?1592711784|https://scryfall.com/card/c18/296/island?utm_source=api>`"
 msgstr ""
 
-#: ../../C18.rst:1791
+#: ../../C18.rst:1789
 msgid "(|tap|: Add |mana_u|.)"
 msgstr ""
 
-#: ../../C18.rst:1796
+#: ../../C18.rst:1794
 msgid ":mtgtip:`Swamp<https://cards.scryfall.io/border_crop/front/7/6/76beef17-2beb-44a0-99a3-a8c4f4dd3d50.jpg?1592711804|https://scryfall.com/card/c18/299/swamp?utm_source=api>`"
 msgstr ""
 
-#: ../../C18.rst:1795
+#: ../../C18.rst:1793
 msgid "(|tap|: Add |mana_b|.)"
 msgstr ""
 
-#: ../../C18.rst:1800
+#: ../../C18.rst:1798
 msgid ":mtgtip:`Mountain<https://cards.scryfall.io/border_crop/front/9/3/937f96ed-dbf1-4ff2-bc55-6b0cd3795ccb.jpg?1592711821|https://scryfall.com/card/c18/302/mountain?utm_source=api>`"
 msgstr ""
 
-#: ../../C18.rst:1799
+#: ../../C18.rst:1797
 msgid "(|tap|: Add |mana_r|.)"
 msgstr ""
 
-#: ../../C18.rst:1803
+#: ../../C18.rst:1801
 msgid ":mtgtip:`Forest<https://cards.scryfall.io/border_crop/front/3/d/3d365b22-2304-4f20-86f9-9560f59546f1.jpg?1592711838|https://scryfall.com/card/c18/305/forest?utm_source=api>`"
 msgstr ""
 
-#: ../../C18.rst:1803
+#: ../../C18.rst:1801
 msgid "(|tap|: Add |mana_g|.)"
 msgstr ""

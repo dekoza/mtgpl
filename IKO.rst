@@ -1289,7 +1289,7 @@
    Each other creature you control that's a Cat, Elemental, Nightmare, Dinosaur, or Beast gets +1/+1 and has vigilance.
 
 
-:mtgtip:`Keruga, the Macrosage<https://cards.scryfall.io/border_crop/front/a/9/a90ee952-de7a-420f-993c-a38db89bc8ac.jpg?1591228418|https://scryfall.com/card/iko/225/keruga-the-macrosage?utm_source=api>`
+:mtgtip:`Keruga, the Macrosage<https://cards.scryfall.io/border_crop/front/a/9/a90ee952-de7a-420f-993c-a38db89bc8ac.jpg?1666782800|https://scryfall.com/card/iko/225/keruga-the-macrosage?utm_source=api>`
    Companion — Your starting deck contains only cards with mana value 3 or greater and land cards. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| any time you could cast a sorcery.)
 
    When Keruga, the Macrosage enters the battlefield, draw a card for each other permanent you control with mana value 3 or greater.
