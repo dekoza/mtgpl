@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-10-30 16:38+0100\n"
-"PO-Revision-Date: 2022-10-16 08:54+0000\n"
+"PO-Revision-Date: 2022-10-30 16:37+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/stx/pl/>\n"
 "Language: pl\n"
@@ -2846,18 +2846,13 @@ msgid ""
 msgstr ""
 
 #: ../../STX.rst:849
-#, fuzzy
-#| msgid ""
-#| "Choose target creature you control. Each other creature you control "
-#| "becomes a copy of it until end of turn, except those creatures aren't "
-#| "legendary if the chosen creature is legendary."
 msgid ""
 "Choose target creature you control. Each other creature you control becomes "
 "a copy of it until end of turn, except those creatures aren't legendary."
 msgstr ""
 "Wybierz wskazanego stwora pod twoim władaniem. Każdy inny stwór pod twoim "
 "władaniem staje się do końca tury jego kopią, ale owe stwory nie są "
-"legendarne jeśli wskazany stwór jest legendarny."
+"legendarne."
 
 #: ../../STX.rst:856
 msgid ""

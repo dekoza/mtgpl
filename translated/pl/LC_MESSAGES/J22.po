@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG po polsku 2022.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-10-30 16:38+0100\n"
-"PO-Revision-Date: 2022-10-23 20:45+0000\n"
+"PO-Revision-Date: 2022-10-30 16:37+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/j22/pl/>\n"
 "Language: pl\n"
@@ -278,11 +278,6 @@ msgid "Haste"
 msgstr "Pośpiech"
 
 #: ../../J22.rst:19
-#, fuzzy
-#| msgid ""
-#| "Whenever Ardoz, Cobbler of Wars or another creature enters the "
-#| "battlefield under your control, that creature gets +2/+0 until end of "
-#| "turn."
 msgid ""
 "Whenever Ardoz, Cobbler of War or another creature enters the battlefield "
 "under your control, that creature gets +2/+0 until end of turn."
@@ -291,10 +286,6 @@ msgstr ""
 "ów stwór do końca tury dostaje +2/+0."
 
 #: ../../J22.rst:21
-#, fuzzy
-#| msgid ""
-#| "|mana_3|\\ |mana_r|: Create a 1/1 red Goblin creature token with haste. "
-#| "Activate only as sorcery."
 msgid ""
 "|mana_3|\\ |mana_r|: Create a 1/1 red Goblin creature token with haste. "
 "Activate only as a sorcery."

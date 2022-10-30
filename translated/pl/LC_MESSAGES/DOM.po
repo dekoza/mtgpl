@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-10-30 16:38+0100\n"
-"PO-Revision-Date: 2022-10-16 08:54+0000\n"
+"PO-Revision-Date: 2022-10-30 16:37+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dom/pl/>\n"
 "Language: pl\n"
@@ -3889,18 +3889,12 @@ msgid ""
 msgstr ""
 
 #: ../../DOM.rst:1223
-#, fuzzy
-#| msgid ""
-#| "At the beginning of combat on your turn, create a token that's a copy of "
-#| "equipped creature, except the token isn't legendary if equipped creature "
-#| "is legendary. That token gains haste."
 msgid ""
 "At the beginning of combat on your turn, create a token that's a copy of "
 "equipped creature, except the token isn't legendary. That token gains haste."
 msgstr ""
 "Na początku potyczki w twojej turze stwórz żeton będący kopią wyposażonego "
-"stwora, tylko że ów żeton nie jest legendarny jeśli wyposażony stwór jest "
-"legendarny. Ów żeton zyskuje pośpiech."
+"stwora, tylko że ów żeton nie jest legendarny. Ów żeton zyskuje pośpiech."
 
 #: ../../DOM.rst:1225
 msgid "Equip |mana_5|"
