@@ -481,8 +481,8 @@
    Choose a Background (You can have a Background as a second commander.)
 
 
-:mtgtip:`Irenicus's Vile Duplication<https://cards.scryfall.io/border_crop/front/4/0/40a791df-2483-406d-90b0-a8d402d615d6.jpg?1660723972|https://scryfall.com/card/clb/78/irenicuss-vile-duplication?utm_source=api>`
-   Create a token that's a copy of target creature you control, except the token has flying and it isn't legendary if that creature is legendary.
+:mtgtip:`Irenicus's Vile Duplication<https://cards.scryfall.io/border_crop/front/4/0/40a791df-2483-406d-90b0-a8d402d615d6.jpg?1666094581|https://scryfall.com/card/clb/78/irenicuss-vile-duplication?utm_source=api>`
+   Create a token that's a copy of target creature you control, except the token has flying and it isn't legendary.
 
 
 :mtgtip:`Juvenile Mist Dragon<https://cards.scryfall.io/border_crop/front/d/c/dcc26897-4644-4af5-ac37-099e641c27d1.jpg?1660723993|https://scryfall.com/card/clb/79/juvenile-mist-dragon?utm_source=api>`
@@ -1721,10 +1721,10 @@
    Whenever an Aura you control is put into your graveyard from the battlefield, exile it. Until the end of your next turn, you may cast that card.
 
 
-:mtgtip:`Miirym, Sentinel Wyrm<https://cards.scryfall.io/border_crop/front/a/9/a934590b-5c70-4f07-af67-fbe817a99531.jpg?1660729148|https://scryfall.com/card/clb/284/miirym-sentinel-wyrm?utm_source=api>`
+:mtgtip:`Miirym, Sentinel Wyrm<https://cards.scryfall.io/border_crop/front/a/9/a934590b-5c70-4f07-af67-fbe817a99531.jpg?1666094592|https://scryfall.com/card/clb/284/miirym-sentinel-wyrm?utm_source=api>`
    Flying, ward |mana_2|
 
-   Whenever another nontoken Dragon enters the battlefield under your control, create a token that's a copy of it, except the token isn't legendary if that Dragon is legendary.
+   Whenever another nontoken Dragon enters the battlefield under your control, create a token that's a copy of it, except the token isn't legendary.
 
 
 :mtgtip:`Minsc & Boo, Timeless Heroes<https://cards.scryfall.io/border_crop/front/9/2/928036c9-11b8-493e-b9f2-8fbd3487cd19.jpg?1660729177|https://scryfall.com/card/clb/285/minsc-&-boo-timeless-heroes?utm_source=api>`

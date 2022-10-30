@@ -361,8 +361,8 @@
    Whenever you cast a noncreature spell, Sky Theater Strix gets +1/+0 until end of turn.
 
 
-:mtgtip:`Spark Double<https://cards.scryfall.io/border_crop/front/b/b/bb8a103c-b776-4501-9441-a45b90391045.jpg?1557576317|https://scryfall.com/card/war/68/spark-double?utm_source=api>`
-   You may have Spark Double enter the battlefield as a copy of a creature or planeswalker you control, except it enters with an additional +1/+1 counter on it if it's a creature, it enters with an additional loyalty counter on it if it's a planeswalker, and it isn't legendary if that permanent is legendary.
+:mtgtip:`Spark Double<https://cards.scryfall.io/border_crop/front/b/b/bb8a103c-b776-4501-9441-a45b90391045.jpg?1666094645|https://scryfall.com/card/war/68/spark-double?utm_source=api>`
+   You may have Spark Double enter the battlefield as a copy of a creature or planeswalker you control, except it enters with an additional +1/+1 counter on it if it's a creature, it enters with an additional loyalty counter on it if it's a planeswalker, and it isn't legendary.
 
 
 :mtgtip:`Spellkeeper Weird<https://cards.scryfall.io/border_crop/front/7/4/74e42dad-5958-443f-a196-12b3f3e44213.jpg?1557576323|https://scryfall.com/card/war/69/spellkeeper-weird?utm_source=api>`
