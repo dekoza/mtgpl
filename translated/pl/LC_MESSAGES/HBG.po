@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2022.8\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-15 23:10+0200\n"
+"POT-Creation-Date: 2022-10-30 16:38+0100\n"
 "PO-Revision-Date: 2022-09-15 03:43+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/hbg/pl/>\n"
@@ -3917,7 +3917,7 @@ msgstr ""
 #: ../../HBG.rst:1377
 msgid ""
 "Create a token that's a copy of target creature you control, except the "
-"token has flying and it isn't legendary if that creature is legendary."
+"token has flying and it isn't legendary."
 msgstr ""
 
 #: ../../HBG.rst:1384
@@ -6235,11 +6235,15 @@ msgid ""
 msgstr ""
 
 #: ../../HBG.rst:2229
+#, fuzzy
+#| msgid ""
+#| "Whenever another creature enters the battlefield under your control, you "
+#| "gain 1 life."
 msgid ""
 "Whenever another nontoken Dragon enters the battlefield under your control, "
-"create a token that's a copy of it, except the token isn't legendary if that "
-"Dragon is legendary."
+"create a token that's a copy of it, except the token isn't legendary."
 msgstr ""
+"Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, zyskaj 1 życie."
 
 #: ../../HBG.rst:2240
 msgid ""
