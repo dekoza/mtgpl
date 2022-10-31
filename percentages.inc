@@ -389,8 +389,7 @@
 
 .. |VOC_percent| image:: images/pie80.png        
 
-.. |BRC_percent| image:: images/done.png        
-   :alt: Tłumaczenie zakończone
+.. |BRC_percent| image:: images/pie90.png        
 
 .. |C13_percent| image:: images/pie85.png        
 

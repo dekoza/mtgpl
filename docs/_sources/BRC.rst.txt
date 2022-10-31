@@ -17,14 +17,664 @@
    At the beginning of your end step, create a 0/0 colorless Construct artifact creature token with "This creature gets +1/+1 for each artifact you control."
 
 
+:mtgtip:`Tawnos, Solemn Survivor<https://cards.scryfall.io/border_crop/front/b/d/bdf67de0-f468-4f04-99ab-a442347bb16b.jpg?1667126559|https://scryfall.com/card/brc/3/tawnos-solemn-survivor?utm_source=api>`
+   |mana_2|, |tap|: Create a token that's a copy of up to one target artifact token you control. Mill two cards.
+
+   |mana_1|\ |mana_w|\ |mana_u|\ |mana_b|, |tap|: Sacrifice two artifact tokens, Exile an artifact or creature card from your graveyard: Create a token that's a copy of the exiled card, except it's an artifact in addition to its other types. Activate only as a sorcery.
+
+
+:mtgtip:`Ashnod the Uncaring<https://cards.scryfall.io/border_crop/front/a/7/a76e8ab8-33bf-4a5a-b6a2-7046301b6c31.jpg?1667001470|https://scryfall.com/card/brc/4/ashnod-the-uncaring?utm_source=api>`
+   Deathtouch
+
+   Whenever you activate an ability of an artifact or creature that isn't a mana ability, if one or more permanents were sacrificed to activate it, you may copy that ability. You may choose new targets for the copy. (Sacrificing an artifact for mana to activate an ability doesn't count.)
+
+
+:mtgtip:`Sanwell, Avenger Ace<https://cards.scryfall.io/border_crop/front/7/0/70cb4359-8e57-4d1a-bf1f-c188555376ce.jpg?1666998119|https://scryfall.com/card/brc/5/sanwell-avenger-ace?utm_source=api>`
+   As long as an artifact creature you control is attacking, prevent all damage that would be dealt to Sanwell, Avenger Ace.
+
+   Whenever Sanwell becomes tapped, exile the top six cards of your library. You may cast a Vehicle or artifact creature spell from among them. Then put the rest on the bottom of your library in a random order.
+
+
+:mtgtip:`Scholar of New Horizons<https://cards.scryfall.io/border_crop/front/e/8/e83e50d0-7851-4608-8cfd-63c54d1a7544.jpg?1666998222|https://scryfall.com/card/brc/6/scholar-of-new-horizons?utm_source=api>`
+   Scholar of New Horizons enters the battlefield with a +1/+1 counter on it.
+
+   |tap|, Remove a counter from a permanent you control: Search your library for a Plains card and reveal it. If an opponent controls more lands than you, you may put that card onto the battlefield tapped. If you don't put the card onto the battlefield, put it into your hand. Then shuffle.
+
+
+:mtgtip:`Glint Raker<https://cards.scryfall.io/border_crop/front/7/5/7520ee10-3ed1-40eb-86a0-3e463a5fba76.jpg?1666998693|https://scryfall.com/card/brc/7/glint-raker?utm_source=api>`
+   Flying
+
+   Glint Raker gets +X/+0, where X is the highest mana value among artifacts you control.
+
+   Whenever Glint Raker deals combat damage to a player, you may reveal that many cards from the top of your library. Put an artifact card revealed this way into your hand and the rest into your graveyard.
+
+
+:mtgtip:`March of Progress<https://cards.scryfall.io/border_crop/front/a/c/ac2da0e8-cdc5-4ffc-8a5e-893c34b7dd45.jpg?1667000318|https://scryfall.com/card/brc/8/march-of-progress?utm_source=api>`
+   Choose target artifact creature you control. For each creature chosen this way, create a token that's a copy of it.
+
+   Overload |mana_6|\ |mana_u| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of "target" with "each.")
+
+
+:mtgtip:`Terisiare's Devastation<https://cards.scryfall.io/border_crop/front/4/9/494a9b67-cfd8-44cd-adbb-8e8a9eeca0d4.jpg?1667000790|https://scryfall.com/card/brc/9/terisiares-devastation?utm_source=api>`
+   You lose X life and create X tapped Powerstone tokens. Then all creatures get -1/-1 until end of turn for each artifact you control. (The tokens are artifacts with "|tap|: Add |colorless|. This mana can't be spent to cast a nonartifact spell.")
+
+
+:mtgtip:`Wire Surgeons<https://cards.scryfall.io/border_crop/front/6/5/6590bb3c-7613-457f-a028-d7cda3cd6eb4.jpg?1667000863|https://scryfall.com/card/brc/10/wire-surgeons?utm_source=api>`
+   Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+
+   Each artifact creature card in your graveyard has encore. Its encore cost is equal to its mana cost. (Exile it and pay its mana cost: For each opponent, create a token copy that attacks that opponent this turn if able. They gain haste. Sacrifice them at the beginning of the next end step. Activate only as a sorcery.)
+
+
+:mtgtip:`Wreck Hunter<https://cards.scryfall.io/border_crop/front/b/9/b9a21809-84cb-45f4-8314-80055983450d.jpg?1667000925|https://scryfall.com/card/brc/11/wreck-hunter?utm_source=api>`
+   Flash
+
+   When Wreck Hunter enters the battlefield, choose target player. You create a tapped Powerstone token for each nonland card in that player's graveyard that was put there from the battlefield this turn. (It's an artifact with "|tap|: Add |colorless|. This mana can't be spent to cast a nonartifact spell.")
+
+
+:mtgtip:`Blast-Furnace Hellkite<https://cards.scryfall.io/border_crop/front/0/4/04c349f2-69b1-48dd-a547-f2b55f542700.jpg?1667134586|https://scryfall.com/card/brc/12/blast-furnace-hellkite?utm_source=api>`
+   Artifact offering (You may cast this spell as though it had flash by sacrificing an artifact and paying the difference in mana costs between this and the sacrificed artifact. Mana cost includes color.)
+
+   Flying, double strike
+
+   Creatures attacking your opponents have double strike.
+
+
+:mtgtip:`Farid, Enterprising Salvager<https://cards.scryfall.io/border_crop/front/0/0/003367c7-6cb8-4451-8349-76ce5d21e367.jpg?1667129042|https://scryfall.com/card/brc/13/farid-enterprising-salvager?utm_source=api>`
+   Whenever a nontoken artifact you control is put into a graveyard from the battlefield, create a colorless artifact token named Scrap.
+
+   |mana_1|\ |mana_r|, Sacrifice an artifact: Choose one —
+
+   • Put a +1/+1 counter on Farid. It gains menace until end of turn.
+
+   • Goad target creature.
+
+   • Discard a card, then draw a card.
+
+
+:mtgtip:`Hexavus<https://cards.scryfall.io/border_crop/front/b/5/b599064e-1c44-4df0-ac7d-d2eb0ba44b16.jpg?1667045637|https://scryfall.com/card/brc/14/hexavus?utm_source=api>`
+   Flying
+
+   Hexavus enters the battlefield with six +1/+1 counters on it.
+
+   |mana_1|, Remove a +1/+1 counter from Hexavus: Put a flying counter on another target creature.
+
+   |mana_1|, Remove a counter from another creature you control: Put a +1/+1 counter on Hexavus.
+
+
+:mtgtip:`Kayla's Music Box<https://cards.scryfall.io/border_crop/front/c/0/c0e9819f-6bda-4fd3-8d61-3746e1e67418.jpg?1667001964|https://scryfall.com/card/brc/15/kaylas-music-box?utm_source=api>`
+   |mana_w|, |tap|: Look at the top card of your library, then exile it face down. (You may look at it any time.)
+
+   |tap|: Until end of turn, you may play cards you own exiled with Kayla's Music Box.
+
+
+:mtgtip:`Machine God's Effigy<https://cards.scryfall.io/border_crop/front/6/3/637f69c2-ba24-42d1-9345-8ebdb04b6904.jpg?1667002107|https://scryfall.com/card/brc/16/machine-gods-effigy?utm_source=api>`
+   You may have Machine God's Effigy enter the battlefield as a copy of any creature on the battlefield, except it's an artifact and it has "|tap|: Add |mana_u|." (It's not a creature.)
+
+   |tap|: Add |mana_u|.
+
+
+:mtgtip:`Scavenged Brawler<https://cards.scryfall.io/border_crop/front/a/f/afd0ba67-cbb7-49fe-83a0-02e85a37d9d6.jpg?1667038270|https://scryfall.com/card/brc/17/scavenged-brawler?utm_source=api>`
+   Flying, vigilance, trample, lifelink
+
+   |mana_5|, Exile Scavenged Brawler from your graveyard: Choose target creature. Put four +1/+1 counters, a flying counter, a vigilance counter, a trample counter, and a lifelink counter on that creature. Activate only as a sorcery.
+
+
+:mtgtip:`Smelting Vat<https://cards.scryfall.io/border_crop/front/e/5/e5b82177-3795-470a-abff-a4a936b27430.jpg?1667129119|https://scryfall.com/card/brc/18/smelting-vat?utm_source=api>`
+   |mana_1|, |tap|, Sacrifice another artifact: Reveal the top eight cards of your library. Put up to two noncreature artifact cards with total mana value less than or equal to the sacrificed artifact's mana value from among them onto the battlefield and the rest on the bottom of your library in a random order.
+
+
+:mtgtip:`Thopter Shop<https://cards.scryfall.io/border_crop/front/e/7/e72a798b-8dab-41f4-9c2d-1d461e1b46c5.jpg?1667002386|https://scryfall.com/card/brc/19/thopter-shop?utm_source=api>`
+   Whenever one or more artifact creatures you control die, draw a card. This ability triggers only once each turn.
+
+   |mana_2|\ |mana_w|, |tap|: Create a 1/1 colorless Thopter artifact creature token with flying.
+
+
+:mtgtip:`Wondrous Crucible<https://cards.scryfall.io/border_crop/front/f/4/f4cb4a2b-c48f-4d30-8e0d-f76579be1747.jpg?1667002459|https://scryfall.com/card/brc/20/wondrous-crucible?utm_source=api>`
+   Permanents you control have ward |mana_2|.
+
+   At the beginning of your end step, mill two cards, then exile a nonland card at random from your graveyard. Copy it. You may cast the copy without paying its mana cost. (A copy of a permanent spell becomes a token.)
+
+
+:mtgtip:`The Brothers' War<https://cards.scryfall.io/border_crop/front/5/6/5615a50b-3b8b-4d31-b351-1725b730ef0b.jpg?1667140186|https://scryfall.com/card/brc/22/the-brothers-war?utm_source=api>`
+   (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+
+   I — Create two tapped Powerstone tokens.
+
+   II — Choose two target players. Until your next turn, each creature they control attacks the other chosen player each combat if able.
+
+   III — The Brothers' War deals X damage to any target and X damage to any other target, where X is the number of artifacts you control.
+
+
+:mtgtip:`Plains<https://cards.scryfall.io/border_crop/front/c/2/c23864ff-e83c-4899-99e0-4ca5167bd4e1.jpg?1667004137|https://scryfall.com/card/brc/29/plains?utm_source=api>`
+   (|tap|: Add |mana_w|.)
+
+
+:mtgtip:`Island<https://cards.scryfall.io/border_crop/front/f/c/fc8c4d2d-416c-4b8b-b46d-0e11f0e8245d.jpg?1667004180|https://scryfall.com/card/brc/31/island?utm_source=api>`
+   (|tap|: Add |mana_u|.)
+
+
+:mtgtip:`Swamp<https://cards.scryfall.io/border_crop/front/5/2/5205f782-e6af-4152-a15f-080935017e4b.jpg?1667004194|https://scryfall.com/card/brc/33/swamp?utm_source=api>`
+   (|tap|: Add |mana_b|.)
+
+
+:mtgtip:`Mountain<https://cards.scryfall.io/border_crop/front/7/b/7ba2d0d9-9b48-4edf-b1bb-e7f385ae97c8.jpg?1667004237|https://scryfall.com/card/brc/35/mountain?utm_source=api>`
+   (|tap|: Add |mana_r|.)
+
+
+:mtgtip:`Angel of the Ruins<https://cards.scryfall.io/border_crop/front/f/9/f95bbb9b-aeae-4c3d-9106-3bb4cd8140c2.jpg?1666998244|https://scryfall.com/card/brc/68/angel-of-the-ruins?utm_source=api>`
+   Flying
+
+   When Angel of the Ruins enters the battlefield, exile up to two target artifacts and/or enchantments.
+
+   Plainscycling |mana_2| (|mana_2|, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)
+
+
+:mtgtip:`Austere Command<https://cards.scryfall.io/border_crop/front/c/8/c800e39d-753b-4e0a-8a00-54dd20825103.jpg?1666998262|https://scryfall.com/card/brc/69/austere-command?utm_source=api>`
+   Choose two —
+
+   • Destroy all artifacts.
+
+   • Destroy all enchantments.
+
+   • Destroy all creatures with mana value 3 or less.
+
+   • Destroy all creatures with mana value 4 or greater.
+
+
+:mtgtip:`Bronze Guardian<https://cards.scryfall.io/border_crop/front/f/8/f8b4a39f-d428-47c4-ab4c-452327607aab.jpg?1666998280|https://scryfall.com/card/brc/70/bronze-guardian?utm_source=api>`
+   Double strike
+
+   Ward |mana_2| (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays |mana_2|.)
+
+   Other artifacts you control have ward |mana_2|.
+
+   Bronze Guardian's power is equal to the number of artifacts you control.
+
+
+:mtgtip:`Digsite Engineer<https://cards.scryfall.io/border_crop/front/5/2/5270882b-2382-450e-bb0c-7804be4f19ea.jpg?1666998287|https://scryfall.com/card/brc/71/digsite-engineer?utm_source=api>`
+   Whenever you cast an artifact spell, you may pay |mana_2|. If you do, create a 0/0 colorless Construct artifact creature token with "This creature gets +1/+1 for each artifact you control."
+
+
+:mtgtip:`Indomitable Archangel<https://cards.scryfall.io/border_crop/front/e/2/e2d7a901-238c-4ea3-a6cb-6c9b4cea2ad6.jpg?1666998300|https://scryfall.com/card/brc/72/indomitable-archangel?utm_source=api>`
+   Flying
+
+   Metalcraft — Artifacts you control have shroud as long as you control three or more artifacts. (An artifact with shroud can't be the target of spells or abilities.)
+
+
+:mtgtip:`Losheel, Clockwork Scholar<https://cards.scryfall.io/border_crop/front/9/2/92bc35a8-1337-43da-a002-71f5a85e8853.jpg?1666998318|https://scryfall.com/card/brc/73/losheel-clockwork-scholar?utm_source=api>`
+   Prevent all combat damage that would be dealt to attacking artifact creatures you control.
+
+   Whenever one or more artifact creatures enter the battlefield under your control, draw a card. This ability triggers only once each turn.
+
+
+:mtgtip:`Phyrexian Rebirth<https://cards.scryfall.io/border_crop/front/7/f/7f2aa3b8-b41c-432b-9927-c7eae1d6e78e.jpg?1666998345|https://scryfall.com/card/brc/74/phyrexian-rebirth?utm_source=api>`
+   Destroy all creatures, then create an X/X colorless Phyrexian Horror artifact creature token, where X is the number of creatures destroyed this way.
+
+
+:mtgtip:`Swords to Plowshares<https://cards.scryfall.io/border_crop/front/0/f/0f34ecf6-460c-4451-b26c-a1fced340c92.jpg?1666998379|https://scryfall.com/card/brc/75/swords-to-plowshares?utm_source=api>`
+   Exile target creature. Its controller gains life equal to its power.
+
+
+:mtgtip:`Tempered Steel<https://cards.scryfall.io/border_crop/front/1/4/143cf473-681c-41b3-8719-55b878382368.jpg?1666998396|https://scryfall.com/card/brc/76/tempered-steel?utm_source=api>`
+   Artifact creatures you control get +2/+2.
+
+
+:mtgtip:`Teshar, Ancestor's Apostle<https://cards.scryfall.io/border_crop/front/3/1/31b96ec5-065e-41a8-9383-2b86888f4405.jpg?1666998413|https://scryfall.com/card/brc/77/teshar-ancestors-apostle?utm_source=api>`
+   Flying
+
+   Whenever you cast a historic spell, return target creature card with mana value 3 or less from your graveyard to the battlefield. (Artifacts, legendaries, and Sagas are historic.)
+
+
+:mtgtip:`Unbreakable Formation<https://cards.scryfall.io/border_crop/front/d/8/d83a7b27-eb3e-4bd5-8463-9a901ed31710.jpg?1666998430|https://scryfall.com/card/brc/78/unbreakable-formation?utm_source=api>`
+   Creatures you control gain indestructible until end of turn.
+
+   Addendum — If you cast this spell during your main phase, put a +1/+1 counter on each of those creatures and they gain vigilance until end of turn.
+
+
+:mtgtip:`Urza's Ruinous Blast<https://cards.scryfall.io/border_crop/front/3/b/3baeeb19-c4f4-4e4f-97e0-52b2e512b26b.jpg?1666998477|https://scryfall.com/card/brc/79/urzas-ruinous-blast?utm_source=api>`
+   (You may cast a legendary sorcery only if you control a legendary creature or planeswalker.)
+
+   Exile all nonland permanents that aren't legendary.
+
+
+:mtgtip:`Bident of Thassa<https://cards.scryfall.io/border_crop/front/1/e/1e2df1d6-af98-4d6a-bae9-f5df8f21b6cf.jpg?1667000381|https://scryfall.com/card/brc/80/bident-of-thassa?utm_source=api>`
+   Whenever a creature you control deals combat damage to a player, you may draw a card.
+
+   |mana_1|\ |mana_u|, |tap|: Creatures your opponents control attack this turn if able.
+
+
+:mtgtip:`Emry, Lurker of the Loch<https://cards.scryfall.io/border_crop/front/a/a/aa6592b0-c809-4711-bb39-4c9a9e55657e.jpg?1667000393|https://scryfall.com/card/brc/81/emry-lurker-of-the-loch?utm_source=api>`
+   This spell costs |mana_1| less to cast for each artifact you control.
+
+   When Emry, Lurker of the Loch enters the battlefield, mill four cards.
+
+   |tap|: Choose target artifact card in your graveyard. You may cast that card this turn. (You still pay its costs. Timing rules still apply.)
+
+
+:mtgtip:`Etherium Sculptor<https://cards.scryfall.io/border_crop/front/8/5/852e521b-a833-4af0-93f9-6732d382224c.jpg?1667000410|https://scryfall.com/card/brc/82/etherium-sculptor?utm_source=api>`
+   Artifact spells you cast cost |mana_1| less to cast.
+
+
+:mtgtip:`Ethersworn Adjudicator<https://cards.scryfall.io/border_crop/front/9/4/9442f53b-0588-48f9-b7df-7e9d9ae6aa82.jpg?1667000422|https://scryfall.com/card/brc/83/ethersworn-adjudicator?utm_source=api>`
+   Flying
+
+   |mana_1|\ |mana_w|\ |mana_b|, |tap|: Destroy target creature or enchantment.
+
+   |mana_2|\ |mana_u|: Untap Ethersworn Adjudicator.
+
+
+:mtgtip:`Fact or Fiction<https://cards.scryfall.io/border_crop/front/9/c/9cad13ca-5d81-456e-9294-e2d510b79392.jpg?1667000444|https://scryfall.com/card/brc/84/fact-or-fiction?utm_source=api>`
+   Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.
+
+
+:mtgtip:`Filigree Attendant<https://cards.scryfall.io/border_crop/front/4/1/411590fe-221e-4f6a-aad5-e156a95ac63b.jpg?1667000456|https://scryfall.com/card/brc/85/filigree-attendant?utm_source=api>`
+   Flying
+
+   Filigree Attendant's power is equal to the number of artifacts you control.
+
+
+:mtgtip:`Master of Etherium<https://cards.scryfall.io/border_crop/front/9/0/90f52cb2-3c34-4935-91b0-9ef51e6f5817.jpg?1667000479|https://scryfall.com/card/brc/86/master-of-etherium?utm_source=api>`
+   Master of Etherium's power and toughness are each equal to the number of artifacts you control.
+
+   Other artifact creatures you control get +1/+1.
+
+
+:mtgtip:`Master Transmuter<https://cards.scryfall.io/border_crop/front/3/4/3437cd27-2bd4-4b4a-ad8b-7586d22f6c78.jpg?1667000492|https://scryfall.com/card/brc/87/master-transmuter?utm_source=api>`
+   |mana_u|, |tap|, Return an artifact you control to its owner's hand: You may put an artifact card from your hand onto the battlefield.
+
+
+:mtgtip:`Mnemonic Sphere<https://cards.scryfall.io/border_crop/front/6/d/6dd6a9d8-6ac3-49be-a87e-4d91fa8d96a3.jpg?1667000509|https://scryfall.com/card/brc/88/mnemonic-sphere?utm_source=api>`
+   |mana_1|\ |mana_u|, Sacrifice Mnemonic Sphere: Draw two cards.
+
+   Channel — |mana_u|, Discard Mnemonic Sphere: Draw a card.
+
+
+:mtgtip:`Muzzio, Visionary Architect<https://cards.scryfall.io/border_crop/front/f/6/f6726c12-d484-4ab7-9d5d-2a1561602d3b.jpg?1667000522|https://scryfall.com/card/brc/89/muzzio-visionary-architect?utm_source=api>`
+   |mana_3|\ |mana_u|, |tap|: Look at the top X cards of your library, where X is the highest mana value among artifacts you control. You may put an artifact card from among them onto the battlefield. Put the rest on the bottom of your library in any order.
+
+
+:mtgtip:`One with the Machine<https://cards.scryfall.io/border_crop/front/d/8/d835976e-cab4-4155-b1dd-eca9cb60830e.jpg?1667000535|https://scryfall.com/card/brc/90/one-with-the-machine?utm_source=api>`
+   Draw cards equal to the highest mana value among artifacts you control.
+
+
+:mtgtip:`Padeem, Consul of Innovation<https://cards.scryfall.io/border_crop/front/0/c/0cb2569f-d4ea-47f8-b9ba-5436400c7e2e.jpg?1667000553|https://scryfall.com/card/brc/91/padeem-consul-of-innovation?utm_source=api>`
+   Artifacts you control have hexproof.
+
+   At the beginning of your upkeep, if you control the artifact with the highest mana value or tied for the highest mana value, draw a card.
+
+
 :mtgtip:`Preordain<https://cards.scryfall.io/border_crop/front/f/a/fa6a22a2-2c97-4279-a7c8-4033698ac108.jpg?1664497236|https://scryfall.com/card/brc/92/preordain?utm_source=api>`
    Scry 2, then draw a card. (To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)
+
+
+:mtgtip:`Sai, Master Thopterist<https://cards.scryfall.io/border_crop/front/8/d/8d8e0685-ee2f-4b27-a1b3-6e6183bdf229.jpg?1667000585|https://scryfall.com/card/brc/93/sai-master-thopterist?utm_source=api>`
+   Whenever you cast an artifact spell, create a 1/1 colorless Thopter artifact creature token with flying.
+
+   |mana_1|\ |mana_u|, Sacrifice two artifacts: Draw a card.
+
+
+:mtgtip:`Sharding Sphinx<https://cards.scryfall.io/border_crop/front/9/d/9d1968e0-c77b-4b16-8270-3de90e084927.jpg?1667000598|https://scryfall.com/card/brc/94/sharding-sphinx?utm_source=api>`
+   Flying
+
+   Whenever an artifact creature you control deals combat damage to a player, you may create a 1/1 blue Thopter artifact creature token with flying.
+
+
+:mtgtip:`Shimmer Dragon<https://cards.scryfall.io/border_crop/front/9/5/9532d03d-a4c2-44c4-ae14-3f8e0bce79a5.jpg?1667000611|https://scryfall.com/card/brc/95/shimmer-dragon?utm_source=api>`
+   Flying
+
+   As long as you control four or more artifacts, Shimmer Dragon has hexproof.
+
+   Tap two untapped artifacts you control: Draw a card.
+
+
+:mtgtip:`Thirst for Knowledge<https://cards.scryfall.io/border_crop/front/6/1/61e9ce52-b065-462d-a8b0-db79dfb4a1c8.jpg?1667000625|https://scryfall.com/card/brc/96/thirst-for-knowledge?utm_source=api>`
+   Draw three cards. Then discard two cards unless you discard an artifact card.
+
+
+:mtgtip:`Thopter Spy Network<https://cards.scryfall.io/border_crop/front/d/8/d85d7885-8c2b-44e9-aa78-40471de15f71.jpg?1667000638|https://scryfall.com/card/brc/97/thopter-spy-network?utm_source=api>`
+   At the beginning of your upkeep, if you control an artifact, create a 1/1 colorless Thopter artifact creature token with flying.
+
+   Whenever one or more artifact creatures you control deal combat damage to a player, draw a card.
+
+
+:mtgtip:`Thought Monitor<https://cards.scryfall.io/border_crop/front/0/1/01179c70-a87a-46aa-a95d-3269889e87ff.jpg?1667000650|https://scryfall.com/card/brc/98/thought-monitor?utm_source=api>`
+   Affinity for artifacts
+
+   Flying
+
+   When Thought Monitor enters the battlefield, draw two cards.
+
+
+:mtgtip:`Thoughtcast<https://cards.scryfall.io/border_crop/front/e/0/e0aa9869-a05e-4a8b-8aa9-0224863a5fc5.jpg?1667000668|https://scryfall.com/card/brc/99/thoughtcast?utm_source=api>`
+   Affinity for artifacts (This spell costs |mana_1| less to cast for each artifact you control.)
+
+   Draw two cards.
+
+
+:mtgtip:`Vedalken Humiliator<https://cards.scryfall.io/border_crop/front/4/e/4eb38644-a65b-4a88-a9f0-20f0805573dc.jpg?1667000686|https://scryfall.com/card/brc/100/vedalken-humiliator?utm_source=api>`
+   Metalcraft — Whenever Vedalken Humiliator attacks, if you control three or more artifacts, creatures your opponents control lose all abilities and have base power and toughness 1/1 until end of turn.
+
+
+:mtgtip:`Whirler Rogue<https://cards.scryfall.io/border_crop/front/c/4/c4c846c7-b12a-4465-af5e-36adf2b6cdd0.jpg?1667000695|https://scryfall.com/card/brc/101/whirler-rogue?utm_source=api>`
+   When Whirler Rogue enters the battlefield, create two 1/1 colorless Thopter artifact creature tokens with flying.
+
+   Tap two untapped artifacts you control: Target creature can't be blocked this turn.
+
+
+:mtgtip:`Workshop Elders<https://cards.scryfall.io/border_crop/front/6/9/6912e6bd-6dc8-4e34-b2ab-edbc8f9c9943.jpg?1667000712|https://scryfall.com/card/brc/102/workshop-elders?utm_source=api>`
+   Artifact creatures you control have flying.
+
+   At the beginning of combat on your turn, you may have target noncreature artifact you control become a 0/0 artifact creature. If you do, put four +1/+1 counters on it.
+
+
+:mtgtip:`Armix, Filigree Thrasher<https://cards.scryfall.io/border_crop/front/f/e/fe688c90-2dcf-48b9-a8b5-bea3500bb0a5.jpg?1667000943|https://scryfall.com/card/brc/103/armix-filigree-thrasher?utm_source=api>`
+   Whenever Armix, Filigree Thrasher attacks, you may discard a card. When you do, target creature defending player controls gets -X/-X until end of turn, where X is the number of artifacts you control plus the number of artifact cards in your graveyard.
+
+   Partner (You can have two commanders if both have partner.)
+
+
+:mtgtip:`Executioner's Capsule<https://cards.scryfall.io/border_crop/front/7/3/73a54823-a5fd-4055-a435-a6bdbd6bedff.jpg?1667000955|https://scryfall.com/card/brc/104/executioners-capsule?utm_source=api>`
+   |mana_1|\ |mana_b|, |tap|, Sacrifice Executioner's Capsule: Destroy target nonblack creature.
+
+
+:mtgtip:`Fain, the Broker<https://cards.scryfall.io/border_crop/front/4/1/41775788-2432-495a-8abd-6c8beaad3d27.jpg?1667000968|https://scryfall.com/card/brc/105/fain-the-broker?utm_source=api>`
+   |tap|, Sacrifice a creature: Put two +1/+1 counters on target creature.
+
+   |tap|, Remove a counter from a creature you control: Create a Treasure token.
+
+   |tap|, Sacrifice an artifact: Create a 2/1 white and black Inkling creature token with flying.
+
+   |mana_3|\ |mana_b|: Untap Fain, the Broker.
+
+
+:mtgtip:`Feed the Swarm<https://cards.scryfall.io/border_crop/front/7/d/7d95a0e0-d609-451b-b045-85990eede219.jpg?1667001000|https://scryfall.com/card/brc/106/feed-the-swarm?utm_source=api>`
+   Destroy target creature or enchantment an opponent controls. You lose life equal to that permanent's mana value.
+
+
+:mtgtip:`Geth, Lord of the Vault<https://cards.scryfall.io/border_crop/front/8/2/82f6a6c6-2755-4a6b-a9f9-06cae30be4e0.jpg?1667001009|https://scryfall.com/card/brc/107/geth-lord-of-the-vault?utm_source=api>`
+   Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)
+
+   |mana_x|\ |mana_b|: Put target artifact or creature card with mana value X from an opponent's graveyard onto the battlefield under your control tapped. Then that player mills X cards.
+
+
+:mtgtip:`Herald of Anguish<https://cards.scryfall.io/border_crop/front/f/e/fec860f2-6ef0-4b74-9672-72b4de2b55ca.jpg?1667001032|https://scryfall.com/card/brc/108/herald-of-anguish?utm_source=api>`
+   Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for |mana_1|.)
+
+   Flying
+
+   At the beginning of your end step, each opponent discards a card.
+
+   |mana_1|\ |mana_b|, Sacrifice an artifact: Target creature gets -2/-2 until end of turn.
+
+
+:mtgtip:`Marionette Master<https://cards.scryfall.io/border_crop/front/2/3/236c3425-17a2-404e-8630-8dbeb9c3981d.jpg?1667001044|https://scryfall.com/card/brc/109/marionette-master?utm_source=api>`
+   Fabricate 3 (When this creature enters the battlefield, put three +1/+1 counters on it or create three 1/1 colorless Servo artifact creature tokens.)
+
+   Whenever an artifact you control is put into a graveyard from the battlefield, target opponent loses life equal to Marionette Master's power.
+
+
+:mtgtip:`Noxious Gearhulk<https://cards.scryfall.io/border_crop/front/9/6/96886e7f-66b2-4f67-a5c6-c65500bcfdef.jpg?1667001057|https://scryfall.com/card/brc/110/noxious-gearhulk?utm_source=api>`
+   Menace
+
+   When Noxious Gearhulk enters the battlefield, you may destroy another target creature. If a creature is destroyed this way, you gain life equal to its toughness.
+
+
+:mtgtip:`Abrade<https://cards.scryfall.io/border_crop/front/c/c/cccbc616-5592-4051-a066-a325209f349e.jpg?1667001234|https://scryfall.com/card/brc/111/abrade?utm_source=api>`
+   Choose one —
+
+   • Abrade deals 3 damage to target creature.
+
+   • Destroy target artifact.
+
+
+:mtgtip:`Audacious Reshapers<https://cards.scryfall.io/border_crop/front/8/1/8100d73c-3ee4-4f26-96ec-97872dcad9eb.jpg?1667001242|https://scryfall.com/card/brc/112/audacious-reshapers?utm_source=api>`
+   |tap|, Sacrifice an artifact: Reveal cards from the top of your library until you reveal an artifact card. Put that card onto the battlefield and the rest on the bottom of your library in a random order. Audacious Reshapers deals damage to you equal to the number of cards revealed this way.
+
+
+:mtgtip:`Blasphemous Act<https://cards.scryfall.io/border_crop/front/3/1/310abe1d-153e-44c7-974c-441a2fbc19bf.jpg?1667001254|https://scryfall.com/card/brc/113/blasphemous-act?utm_source=api>`
+   This spell costs |mana_1| less to cast for each creature on the battlefield.
+
+   Blasphemous Act deals 13 damage to each creature.
+
+
+:mtgtip:`Chaos Warp<https://cards.scryfall.io/border_crop/front/8/4/84b7ef85-5751-4dd1-9cde-1cbb8097bbba.jpg?1667001266|https://scryfall.com/card/brc/114/chaos-warp?utm_source=api>`
+   The owner of target permanent shuffles it into their library, then reveals the top card of their library. If it's a permanent card, they put it onto the battlefield.
+
+
+:mtgtip:`Cursed Mirror<https://cards.scryfall.io/border_crop/front/a/2/a29473ee-1a11-42b8-8d14-34051208f35b.jpg?1667001273|https://scryfall.com/card/brc/115/cursed-mirror?utm_source=api>`
+   |tap|: Add |mana_r|.
+
+   As Cursed Mirror enters the battlefield, you may have it become a copy of any creature on the battlefield until end of turn, except it has haste.
+
+
+:mtgtip:`Faithless Looting<https://cards.scryfall.io/border_crop/front/b/7/b78f314a-a7c2-4441-9d46-67521ad570ba.jpg?1667001291|https://scryfall.com/card/brc/116/faithless-looting?utm_source=api>`
+   Draw two cards, then discard two cards.
+
+   Flashback |mana_2|\ |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+
+
+:mtgtip:`Hellkite Igniter<https://cards.scryfall.io/border_crop/front/4/b/4bcb4383-8c72-4491-8f55-213ce8a2abbb.jpg?1667001303|https://scryfall.com/card/brc/117/hellkite-igniter?utm_source=api>`
+   Flying, haste
+
+   |mana_1|\ |mana_r|: Hellkite Igniter gets +X/+0 until end of turn, where X is the number of artifacts you control.
+
+
+:mtgtip:`Slobad, Goblin Tinkerer<https://cards.scryfall.io/border_crop/front/0/d/0dce1a0c-66e9-469b-9d74-7b58fdde8ded.jpg?1667001311|https://scryfall.com/card/brc/118/slobad-goblin-tinkerer?utm_source=api>`
+   Sacrifice an artifact: Target artifact gains indestructible until end of turn.
+
+
+:mtgtip:`Alela, Artful Provocateur<https://cards.scryfall.io/border_crop/front/4/3/43d28c05-0ba1-4afa-a784-b71741375507.jpg?1667001482|https://scryfall.com/card/brc/119/alela-artful-provocateur?utm_source=api>`
+   Flying, deathtouch, lifelink
+
+   Other creatures you control with flying get +1/+0.
+
+   Whenever you cast an artifact or enchantment spell, create a 1/1 blue Faerie creature token with flying.
 
 
 :mtgtip:`Baleful Strix<https://cards.scryfall.io/border_crop/front/3/5/351b47f5-1c85-4e21-9ede-cb13ac96fbc4.jpg?1664497235|https://scryfall.com/card/brc/120/baleful-strix?utm_source=api>`
    Flying, deathtouch
 
    When Baleful Strix enters the battlefield, draw a card.
+
+
+:mtgtip:`Bedevil<https://cards.scryfall.io/border_crop/front/3/2/3291c839-d26a-47f8-a134-43f8758f082c.jpg?1667001494|https://scryfall.com/card/brc/121/bedevil?utm_source=api>`
+   Destroy target artifact, creature, or planeswalker.
+
+
+:mtgtip:`Brudiclad, Telchor Engineer<https://cards.scryfall.io/border_crop/front/b/2/b2068926-0a67-4cdf-8c80-103ec32564e9.jpg?1667001507|https://scryfall.com/card/brc/122/brudiclad-telchor-engineer?utm_source=api>`
+   Creature tokens you control have haste.
+
+   At the beginning of combat on your turn, create a 2/1 blue Phyrexian Myr artifact creature token. Then you may choose a token you control. If you do, each other token you control becomes a copy of that token.
+
+
+:mtgtip:`Chrome Courier<https://cards.scryfall.io/border_crop/front/4/7/47a40b66-a700-4308-99f3-f3d40db30375.jpg?1667001514|https://scryfall.com/card/brc/123/chrome-courier?utm_source=api>`
+   Flying
+
+   When Chrome Courier enters the battlefield, reveal the top two cards of your library. Put one of them into your hand and the other into your graveyard. If you put an artifact card into your hand this way, you gain 3 life.
+
+
+:mtgtip:`Despark<https://cards.scryfall.io/border_crop/front/3/7/37648ada-7912-4c98-b9eb-585d22cead7e.jpg?1667001532|https://scryfall.com/card/brc/124/despark?utm_source=api>`
+   Exile target permanent with mana value 4 or greater.
+
+
+:mtgtip:`Expressive Iteration<https://cards.scryfall.io/border_crop/front/c/8/c836e9ff-7e55-44b5-8e81-1e97b5de46cd.jpg?1667001539|https://scryfall.com/card/brc/125/expressive-iteration?utm_source=api>`
+   Look at the top three cards of your library. Put one of them into your hand, put one of them on the bottom of your library, and exile one of them. You may play the exiled card this turn.
+
+
+:mtgtip:`Jhoira, Weatherlight Captain<https://cards.scryfall.io/border_crop/front/d/d/dd968f54-03d3-4005-87cb-0bdc3318d71a.jpg?1667001556|https://scryfall.com/card/brc/126/jhoira-weatherlight-captain?utm_source=api>`
+   Whenever you cast a historic spell, draw a card. (Artifacts, legendaries, and Sagas are historic.)
+
+
+:mtgtip:`Oni-Cult Anvil<https://cards.scryfall.io/border_crop/front/c/2/c275470f-83d2-4341-9757-a570ec19a181.jpg?1667001563|https://scryfall.com/card/brc/127/oni-cult-anvil?utm_source=api>`
+   Whenever one or more artifacts you control leave the battlefield during your turn, create a 1/1 colorless Construct artifact creature token. This ability triggers only once each turn.
+
+   |tap|, Sacrifice an artifact: Oni-Cult Anvil deals 1 damage to each opponent. You gain 1 life.
+
+
+:mtgtip:`Sharuum the Hegemon<https://cards.scryfall.io/border_crop/front/2/d/2d7373e7-385f-4887-b1c7-af6d422dd70a.jpg?1667001604|https://scryfall.com/card/brc/128/sharuum-the-hegemon?utm_source=api>`
+   Flying
+
+   When Sharuum the Hegemon enters the battlefield, you may return target artifact card from your graveyard to the battlefield.
+
+
+:mtgtip:`Silas Renn, Seeker Adept<https://cards.scryfall.io/border_crop/front/7/9/79b50fc8-9658-4837-ade8-2f34d12d3cc7.jpg?1667001607|https://scryfall.com/card/brc/129/silas-renn-seeker-adept?utm_source=api>`
+   Deathtouch
+
+   Whenever Silas Renn, Seeker Adept deals combat damage to a player, choose target artifact card in your graveyard. You may cast that card this turn.
+
+   Partner (You can have two commanders if both have partner.)
+
+
+:mtgtip:`Sphinx's Revelation<https://cards.scryfall.io/border_crop/front/1/6/16813d4f-4555-4c70-89d6-7b96719f9749.jpg?1667001685|https://scryfall.com/card/brc/130/sphinxs-revelation?utm_source=api>`
+   You gain X life and draw X cards.
+
+
+:mtgtip:`Vindicate<https://cards.scryfall.io/border_crop/front/e/3/e311f87d-a0ed-473a-9bab-282c13e63ea9.jpg?1667001743|https://scryfall.com/card/brc/131/vindicate?utm_source=api>`
+   Destroy target permanent.
+
+
+:mtgtip:`Arcane Signet<https://cards.scryfall.io/border_crop/front/d/5/d5a30a51-3afb-45e9-aab6-40fec44ec55a.jpg?1667002561|https://scryfall.com/card/brc/132/arcane-signet?utm_source=api>`
+   |tap|: Add one mana of any color in your commander's color identity.
+
+
+:mtgtip:`Azorius Signet<https://cards.scryfall.io/border_crop/front/6/4/64ce2373-6b2c-4248-a053-a7fc49f7c480.jpg?1667002574|https://scryfall.com/card/brc/133/azorius-signet?utm_source=api>`
+   |mana_1|, |tap|: Add |mana_w|\ |mana_u|.
+
+
+:mtgtip:`Chief of the Foundry<https://cards.scryfall.io/border_crop/front/8/2/82a00649-080b-4297-80f2-c1e8f18c2ade.jpg?1667002587|https://scryfall.com/card/brc/134/chief-of-the-foundry?utm_source=api>`
+   Other artifact creatures you control get +1/+1.
+
+
+:mtgtip:`Commander's Sphere<https://cards.scryfall.io/border_crop/front/8/3/83191924-6c47-4f05-b774-84f84ccdc50d.jpg?1667002600|https://scryfall.com/card/brc/135/commanders-sphere?utm_source=api>`
+   |tap|: Add one mana of any color in your commander's color identity.
+
+   Sacrifice Commander's Sphere: Draw a card.
+
+
+:mtgtip:`Cranial Plating<https://cards.scryfall.io/border_crop/front/4/b/4b2253d5-f58c-4618-be1e-16e1808806fb.jpg?1667002608|https://scryfall.com/card/brc/136/cranial-plating?utm_source=api>`
+   Equipped creature gets +1/+0 for each artifact you control.
+
+   |mana_b|\ |mana_b|: Attach Cranial Plating to target creature you control.
+
+   Equip |mana_1|
+
+
+:mtgtip:`Darksteel Juggernaut<https://cards.scryfall.io/border_crop/front/a/0/a0e4cce2-9c30-4ca9-a069-cc86d4ac57e5.jpg?1667002626|https://scryfall.com/card/brc/137/darksteel-juggernaut?utm_source=api>`
+   Indestructible
+
+   Darksteel Juggernaut's power and toughness are each equal to the number of artifacts you control.
+
+   Darksteel Juggernaut attacks each combat if able.
+
+
+:mtgtip:`Dimir Signet<https://cards.scryfall.io/border_crop/front/1/f/1f03430e-2c3d-4317-b4bd-06c2059b7e34.jpg?1667002639|https://scryfall.com/card/brc/138/dimir-signet?utm_source=api>`
+   |mana_1|, |tap|: Add |mana_u|\ |mana_b|.
+
+
+:mtgtip:`Dreamstone Hedron<https://cards.scryfall.io/border_crop/front/2/7/27d2b870-eed5-46c1-a1a4-70169ddb2fb8.jpg?1667002646|https://scryfall.com/card/brc/139/dreamstone-hedron?utm_source=api>`
+   |tap|: Add |colorless|\ |colorless|\ |colorless|.
+
+   |mana_3|, |tap|, Sacrifice Dreamstone Hedron: Draw three cards.
+
+
+:mtgtip:`Etched Champion<https://cards.scryfall.io/border_crop/front/e/8/e87347d9-fa02-42b9-8ae2-60374a70ece5.jpg?1667002659|https://scryfall.com/card/brc/140/etched-champion?utm_source=api>`
+   Metalcraft — Etched Champion has protection from all colors as long as you control three or more artifacts.
+
+
+:mtgtip:`Fellwar Stone<https://cards.scryfall.io/border_crop/front/1/1/111e4a04-931f-45a1-ab3f-bf5cb22a98fc.jpg?1667002671|https://scryfall.com/card/brc/141/fellwar-stone?utm_source=api>`
+   |tap|: Add one mana of any color that a land an opponent controls could produce.
+
+
+:mtgtip:`Hedron Archive<https://cards.scryfall.io/border_crop/front/6/7/677bf9ff-4e4b-495d-b56a-ed0f26c469ca.jpg?1667002679|https://scryfall.com/card/brc/142/hedron-archive?utm_source=api>`
+   |tap|: Add |colorless|\ |colorless|.
+
+   |mana_2|, |tap|, Sacrifice Hedron Archive: Draw two cards.
+
+
+:mtgtip:`Ichor Wellspring<https://cards.scryfall.io/border_crop/front/1/a/1a5313e8-b7d1-49c7-81de-4da99ba9733f.jpg?1667002705|https://scryfall.com/card/brc/143/ichor-wellspring?utm_source=api>`
+   When Ichor Wellspring enters the battlefield or is put into a graveyard from the battlefield, draw a card.
+
+
+:mtgtip:`Idol of Oblivion<https://cards.scryfall.io/border_crop/front/4/6/465f803f-0e4a-41b4-9160-10f76c05188e.jpg?1667002746|https://scryfall.com/card/brc/144/idol-of-oblivion?utm_source=api>`
+   |tap|: Draw a card. Activate only if you created a token this turn.
+
+   |mana_8|, |tap|, Sacrifice Idol of Oblivion: Create a 10/10 colorless Eldrazi creature token.
+
+
+:mtgtip:`Liquimetal Torque<https://cards.scryfall.io/border_crop/front/c/a/ca37bdbb-cd35-4d04-a28b-d5eb1f9c2dc3.jpg?1667002769|https://scryfall.com/card/brc/145/liquimetal-torque?utm_source=api>`
+   |tap|: Add |colorless|.
+
+   |tap|: Target nonland permanent becomes an artifact in addition to its other types until end of turn.
+
+
+:mtgtip:`Lithoform Engine<https://cards.scryfall.io/border_crop/front/c/5/c579956f-900a-4574-a68b-3c1d92ea67b6.jpg?1667002781|https://scryfall.com/card/brc/146/lithoform-engine?utm_source=api>`
+   |mana_2|, |tap|: Copy target activated or triggered ability you control. You may choose new targets for the copy.
+
+   |mana_3|, |tap|: Copy target instant or sorcery spell you control. You may choose new targets for the copy.
+
+   |mana_4|, |tap|: Copy target permanent spell you control. (The copy becomes a token.)
+
+
+:mtgtip:`Metalwork Colossus<https://cards.scryfall.io/border_crop/front/d/f/df3e046e-ff1b-4bee-8611-229d0088f5a1.jpg?1667002798|https://scryfall.com/card/brc/147/metalwork-colossus?utm_source=api>`
+   This spell costs |mana_x| less to cast, where X is the total mana value of noncreature artifacts you control.
+
+   Sacrifice two artifacts: Return Metalwork Colossus from your graveyard to your hand.
+
+
+:mtgtip:`Mind Stone<https://cards.scryfall.io/border_crop/front/6/f/6ff5cc3e-0179-442e-a0b0-48063dd59fb3.jpg?1667002838|https://scryfall.com/card/brc/148/mind-stone?utm_source=api>`
+   |tap|: Add |colorless|.
+
+   |mana_1|, |tap|, Sacrifice Mind Stone: Draw a card.
+
+
+:mtgtip:`Mirrorworks<https://cards.scryfall.io/border_crop/front/a/7/a762e84d-db04-4ede-bc0b-ddcfff9549af.jpg?1667002840|https://scryfall.com/card/brc/149/mirrorworks?utm_source=api>`
+   Whenever another nontoken artifact enters the battlefield under your control, you may pay |mana_2|. If you do, create a token that's a copy of that artifact.
+
+
+:mtgtip:`Mycosynth Wellspring<https://cards.scryfall.io/border_crop/front/e/1/e11c8aa0-ea14-43a4-a341-29f01affe64a.jpg?1667002858|https://scryfall.com/card/brc/150/mycosynth-wellspring?utm_source=api>`
+   When Mycosynth Wellspring enters the battlefield or is put into a graveyard from the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+
+
+:mtgtip:`Myr Battlesphere<https://cards.scryfall.io/border_crop/front/e/2/e225aa6b-bcf0-4672-8c95-b18e39e0b826.jpg?1667002871|https://scryfall.com/card/brc/151/myr-battlesphere?utm_source=api>`
+   When Myr Battlesphere enters the battlefield, create four 1/1 colorless Myr artifact creature tokens.
+
+   Whenever Myr Battlesphere attacks, you may tap X untapped Myr you control. If you do, Myr Battlesphere gets +X/+0 until end of turn and deals X damage to the player or planeswalker it's attacking.
+
+
+:mtgtip:`Nihil Spellbomb<https://cards.scryfall.io/border_crop/front/4/b/4b148de1-6a85-4add-8b62-8b1172d2fe31.jpg?1667002879|https://scryfall.com/card/brc/152/nihil-spellbomb?utm_source=api>`
+   |tap|, Sacrifice Nihil Spellbomb: Exile target player's graveyard.
+
+   When Nihil Spellbomb is put into a graveyard from the battlefield, you may pay |mana_b|. If you do, draw a card.
+
+
+:mtgtip:`Oblivion Stone<https://cards.scryfall.io/border_crop/front/e/8/e8b06a3d-897e-423e-bae6-9bf21beb2aa5.jpg?1667002886|https://scryfall.com/card/brc/153/oblivion-stone?utm_source=api>`
+   |mana_4|, |tap|: Put a fate counter on target permanent.
+
+   |mana_5|, |tap|, Sacrifice Oblivion Stone: Destroy each nonland permanent without a fate counter on it, then remove all fate counters from all permanents.
+
+
+:mtgtip:`Orzhov Signet<https://cards.scryfall.io/border_crop/front/b/9/b99cac18-281d-437f-ae34-87a10b92c6e9.jpg?1667002910|https://scryfall.com/card/brc/154/orzhov-signet?utm_source=api>`
+   |mana_1|, |tap|: Add |mana_w|\ |mana_b|.
+
+
+:mtgtip:`Prophetic Prism<https://cards.scryfall.io/border_crop/front/9/0/90419b9e-f3f0-4d41-b8a3-e8264609780d.jpg?1667002923|https://scryfall.com/card/brc/155/prophetic-prism?utm_source=api>`
+   When Prophetic Prism enters the battlefield, draw a card.
+
+   |mana_1|, |tap|: Add one mana of any color.
+
+
+:mtgtip:`Rakdos Signet<https://cards.scryfall.io/border_crop/front/9/2/929fc40a-6d21-4907-8ab9-d68dcc1a0bc2.jpg?1667002936|https://scryfall.com/card/brc/156/rakdos-signet?utm_source=api>`
+   |mana_1|, |tap|: Add |mana_b|\ |mana_r|.
+
+
+:mtgtip:`Relic of Progenitus<https://cards.scryfall.io/border_crop/front/5/1/51ab3b6e-c7f2-48a1-bfa3-e7708b539bd6.jpg?1667002953|https://scryfall.com/card/brc/157/relic-of-progenitus?utm_source=api>`
+   |tap|: Target player exiles a card from their graveyard.
+
+   |mana_1|, Exile Relic of Progenitus: Exile all graveyards. Draw a card.
+
+
+:mtgtip:`Servo Schematic<https://cards.scryfall.io/border_crop/front/7/2/723b5b4d-120c-4396-8e7c-ed62302f463d.jpg?1667002961|https://scryfall.com/card/brc/158/servo-schematic?utm_source=api>`
+   When Servo Schematic enters the battlefield or is put into a graveyard from the battlefield, create a 1/1 colorless Servo artifact creature token.
 
 
 :mtgtip:`Skullclamp<https://cards.scryfall.io/border_crop/front/3/8/3865d44e-7207-4440-9db4-627531979852.jpg?1664496907|https://scryfall.com/card/brc/159/skullclamp?utm_source=api>`
@@ -39,12 +689,312 @@
    |tap|: Add |colorless|\ |colorless|.
 
 
+:mtgtip:`Solemn Simulacrum<https://cards.scryfall.io/border_crop/front/a/a/aa1afaaa-70d5-434a-994d-cc341c8b8e29.jpg?1667003005|https://scryfall.com/card/brc/161/solemn-simulacrum?utm_source=api>`
+   When Solemn Simulacrum enters the battlefield, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+
+   When Solemn Simulacrum dies, you may draw a card.
+
+
+:mtgtip:`Spine of Ish Sah<https://cards.scryfall.io/border_crop/front/9/a/9ac31f11-17ec-4d6f-9425-38c511566590.jpg?1667003013|https://scryfall.com/card/brc/162/spine-of-ish-sah?utm_source=api>`
+   When Spine of Ish Sah enters the battlefield, destroy target permanent.
+
+   When Spine of Ish Sah is put into a graveyard from the battlefield, return Spine of Ish Sah to its owner's hand.
+
+
+:mtgtip:`Steel Hellkite<https://cards.scryfall.io/border_crop/front/c/b/cbc13ed2-8f89-493d-89ee-fe73a333e59c.jpg?1667003025|https://scryfall.com/card/brc/163/steel-hellkite?utm_source=api>`
+   Flying
+
+   |mana_2|: Steel Hellkite gets +1/+0 until end of turn.
+
+   |mana_x|: Destroy each nonland permanent with mana value X whose controller was dealt combat damage by Steel Hellkite this turn. Activate only once each turn.
+
+
+:mtgtip:`Steel Overseer<https://cards.scryfall.io/border_crop/front/3/f/3fb27f1e-21fb-4017-8ef2-37c3206003e3.jpg?1667003032|https://scryfall.com/card/brc/164/steel-overseer?utm_source=api>`
+   |tap|: Put a +1/+1 counter on each artifact creature you control.
+
+
+:mtgtip:`Strionic Resonator<https://cards.scryfall.io/border_crop/front/5/6/56d770bf-a8ad-4817-8342-b0dde94c538a.jpg?1667003080|https://scryfall.com/card/brc/165/strionic-resonator?utm_source=api>`
+   |mana_2|, |tap|: Copy target triggered ability you control. You may choose new targets for the copy. (A triggered ability uses the words "when," "whenever," or "at.")
+
+
+:mtgtip:`Swiftfoot Boots<https://cards.scryfall.io/border_crop/front/5/3/53a91058-f98a-48dd-94da-354710a27019.jpg?1667003097|https://scryfall.com/card/brc/166/swiftfoot-boots?utm_source=api>`
+   Equipped creature has hexproof and haste. (It can't be the target of spells or abilities your opponents control.)
+
+   Equip |mana_1|
+
+
+:mtgtip:`Thought Vessel<https://cards.scryfall.io/border_crop/front/c/1/c1968fb1-4c78-40b7-929c-271569ea0cc9.jpg?1667003110|https://scryfall.com/card/brc/167/thought-vessel?utm_source=api>`
+   You have no maximum hand size.
+
+   |tap|: Add |colorless|.
+
+
+:mtgtip:`Thran Dynamo<https://cards.scryfall.io/border_crop/front/9/1/91437edc-21bb-4900-a7c2-4e9f303b0053.jpg?1667003133|https://scryfall.com/card/brc/168/thran-dynamo?utm_source=api>`
+   |tap|: Add |colorless|\ |colorless|\ |colorless|.
+
+
+:mtgtip:`Trading Post<https://cards.scryfall.io/border_crop/front/f/0/f01fae0b-1042-4cd6-bccb-37e30dae9a28.jpg?1667003146|https://scryfall.com/card/brc/169/trading-post?utm_source=api>`
+   |mana_1|, |tap|, Discard a card: You gain 4 life.
+
+   |mana_1|, |tap|, Pay 1 life: Create a 0/1 white Goat creature token.
+
+   |mana_1|, |tap|, Sacrifice a creature: Return target artifact card from your graveyard to your hand.
+
+   |mana_1|, |tap|, Sacrifice an artifact: Draw a card.
+
+
+:mtgtip:`Traxos, Scourge of Kroog<https://cards.scryfall.io/border_crop/front/5/1/513fd010-db79-4aa4-8186-776fc3e27750.jpg?1667003153|https://scryfall.com/card/brc/170/traxos-scourge-of-kroog?utm_source=api>`
+   Trample
+
+   Traxos, Scourge of Kroog enters the battlefield tapped and doesn't untap during your untap step.
+
+   Whenever you cast a historic spell, untap Traxos. (Artifacts, legendaries, and Sagas are historic.)
+
+
+:mtgtip:`Wayfarer's Bauble<https://cards.scryfall.io/border_crop/front/f/3/f3af7c4d-5a2f-4cc6-907e-4b8104ad4aa1.jpg?1667003175|https://scryfall.com/card/brc/171/wayfarers-bauble?utm_source=api>`
+   |mana_2|, |tap|, Sacrifice Wayfarer's Bauble: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+
+
+:mtgtip:`Ancient Den<https://cards.scryfall.io/border_crop/front/b/c/bc74f956-3bef-46bc-a180-6b1773ee4ca6.jpg?1667004336|https://scryfall.com/card/brc/172/ancient-den?utm_source=api>`
+   |tap|: Add |mana_w|.
+
+
+:mtgtip:`Arcane Sanctum<https://cards.scryfall.io/border_crop/front/b/d/bdf3948c-2c20-46d8-a25d-650b989d0760.jpg?1667004348|https://scryfall.com/card/brc/173/arcane-sanctum?utm_source=api>`
+   Arcane Sanctum enters the battlefield tapped.
+
+   |tap|: Add |mana_w|, |mana_u|, or |mana_b|.
+
+
+:mtgtip:`Ash Barrens<https://cards.scryfall.io/border_crop/front/e/6/e688045d-e26a-4063-bae4-89723d70c129.jpg?1667004361|https://scryfall.com/card/brc/174/ash-barrens?utm_source=api>`
+   |tap|: Add |colorless|.
+
+   Basic landcycling |mana_1| (|mana_1|, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)
+
+
+:mtgtip:`Azorius Chancery<https://cards.scryfall.io/border_crop/front/d/7/d70df0a7-8a09-4715-9a31-8016511c3feb.jpg?1667004372|https://scryfall.com/card/brc/175/azorius-chancery?utm_source=api>`
+   Azorius Chancery enters the battlefield tapped.
+
+   When Azorius Chancery enters the battlefield, return a land you control to its owner's hand.
+
+   |tap|: Add |mana_w|\ |mana_u|.
+
+
+:mtgtip:`Bojuka Bog<https://cards.scryfall.io/border_crop/front/a/c/ac21a3cc-f3d7-4ac8-9df0-a126738ab54c.jpg?1667004384|https://scryfall.com/card/brc/176/bojuka-bog?utm_source=api>`
+   Bojuka Bog enters the battlefield tapped.
+
+   When Bojuka Bog enters the battlefield, exile target player's graveyard.
+
+   |tap|: Add |mana_b|.
+
+
+:mtgtip:`Buried Ruin<https://cards.scryfall.io/border_crop/front/3/4/34e53bc3-f8af-4547-a694-d01c18bf56c1.jpg?1667004401|https://scryfall.com/card/brc/177/buried-ruin?utm_source=api>`
+   |tap|: Add |colorless|.
+
+   |mana_2|, |tap|, Sacrifice Buried Ruin: Return target artifact card from your graveyard to your hand.
+
+
 :mtgtip:`Command Tower<https://cards.scryfall.io/border_crop/front/8/4/84b79453-bb88-4c23-8cdb-82ba57ea3bc5.jpg?1664496997|https://scryfall.com/card/brc/178/command-tower?utm_source=api>`
    |tap|: Add one mana of any color in your commander's color identity.
+
+
+:mtgtip:`Crumbling Necropolis<https://cards.scryfall.io/border_crop/front/8/e/8eb526c9-706c-4845-b92a-880e6293f1ef.jpg?1667004429|https://scryfall.com/card/brc/179/crumbling-necropolis?utm_source=api>`
+   Crumbling Necropolis enters the battlefield tapped.
+
+   |tap|: Add |mana_u|, |mana_b|, or |mana_r|.
+
+
+:mtgtip:`Darksteel Citadel<https://cards.scryfall.io/border_crop/front/d/f/df29d8e6-f195-46db-9307-41687b5f0f20.jpg?1667004440|https://scryfall.com/card/brc/180/darksteel-citadel?utm_source=api>`
+   Indestructible
+
+   |tap|: Add |colorless|.
+
+
+:mtgtip:`Darkwater Catacombs<https://cards.scryfall.io/border_crop/front/f/4/f42ef8fb-53ce-49bd-a464-b09a94801edd.jpg?1667004457|https://scryfall.com/card/brc/181/darkwater-catacombs?utm_source=api>`
+   |mana_1|, |tap|: Add |mana_u|\ |mana_b|.
+
+
+:mtgtip:`Dimir Aqueduct<https://cards.scryfall.io/border_crop/front/0/1/012b9371-45e0-4e06-ad7a-4c52d1d38262.jpg?1667004469|https://scryfall.com/card/brc/182/dimir-aqueduct?utm_source=api>`
+   Dimir Aqueduct enters the battlefield tapped.
+
+   When Dimir Aqueduct enters the battlefield, return a land you control to its owner's hand.
+
+   |tap|: Add |mana_u|\ |mana_b|.
+
+
+:mtgtip:`Drossforge Bridge<https://cards.scryfall.io/border_crop/front/7/0/707bc538-cdc1-49ca-9c36-3d6d5245d962.jpg?1667004482|https://scryfall.com/card/brc/183/drossforge-bridge?utm_source=api>`
+   Drossforge Bridge enters the battlefield tapped.
+
+   Indestructible
+
+   |tap|: Add |mana_b| or |mana_r|.
+
+
+:mtgtip:`Evolving Wilds<https://cards.scryfall.io/border_crop/front/1/3/1334e6ac-1edb-4945-935c-0e0ccdde134d.jpg?1667004534|https://scryfall.com/card/brc/184/evolving-wilds?utm_source=api>`
+   |tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+
+
+:mtgtip:`Exotic Orchard<https://cards.scryfall.io/border_crop/front/9/5/95d63eac-469f-454f-a575-7f19abb554cf.jpg?1667004541|https://scryfall.com/card/brc/185/exotic-orchard?utm_source=api>`
+   |tap|: Add one mana of any color that a land an opponent controls could produce.
+
+
+:mtgtip:`Goldmire Bridge<https://cards.scryfall.io/border_crop/front/3/f/3f529a4f-e2c6-48dc-9001-ed0009b58152.jpg?1667004558|https://scryfall.com/card/brc/186/goldmire-bridge?utm_source=api>`
+   Goldmire Bridge enters the battlefield tapped.
+
+   Indestructible
+
+   |tap|: Add |mana_w| or |mana_b|.
+
+
+:mtgtip:`Great Furnace<https://cards.scryfall.io/border_crop/front/3/f/3fde36b4-95e0-4592-b67c-05548bbb1679.jpg?1667004611|https://scryfall.com/card/brc/187/great-furnace?utm_source=api>`
+   |tap|: Add |mana_r|.
+
+
+:mtgtip:`Izzet Boilerworks<https://cards.scryfall.io/border_crop/front/8/3/83b58eef-869d-487d-a765-bfb1891d7317.jpg?1667004628|https://scryfall.com/card/brc/188/izzet-boilerworks?utm_source=api>`
+   Izzet Boilerworks enters the battlefield tapped.
+
+   When Izzet Boilerworks enters the battlefield, return a land you control to its owner's hand.
+
+   |tap|: Add |mana_u|\ |mana_r|.
+
+
+:mtgtip:`Mistvault Bridge<https://cards.scryfall.io/border_crop/front/7/a/7ad684fb-cfb0-48b2-802f-bda96afafdc3.jpg?1667004640|https://scryfall.com/card/brc/189/mistvault-bridge?utm_source=api>`
+   Mistvault Bridge enters the battlefield tapped.
+
+   Indestructible
+
+   |tap|: Add |mana_u| or |mana_b|.
+
+
+:mtgtip:`Orzhov Basilica<https://cards.scryfall.io/border_crop/front/6/d/6d31f89f-1758-4f6f-8de8-d270983866fd.jpg?1667004669|https://scryfall.com/card/brc/191/orzhov-basilica?utm_source=api>`
+   Orzhov Basilica enters the battlefield tapped.
+
+   When Orzhov Basilica enters the battlefield, return a land you control to its owner's hand.
+
+   |tap|: Add |mana_w|\ |mana_b|.
+
+
+:mtgtip:`Myriad Landscape<https://cards.scryfall.io/border_crop/front/0/9/09ae899f-e5ac-4b67-abf2-d55ad9ae58f3.jpg?1667004662|https://scryfall.com/card/brc/192/myriad-landscape?utm_source=api>`
+   Myriad Landscape enters the battlefield tapped.
+
+   |tap|: Add |colorless|.
+
+   |mana_2|, |tap|, Sacrifice Myriad Landscape: Search your library for up to two basic land cards that share a land type, put them onto the battlefield tapped, then shuffle.
+
+
+:mtgtip:`Prairie Stream<https://cards.scryfall.io/border_crop/front/1/8/18baf8cd-ed0f-41fd-9295-3affee8a5bbc.jpg?1667004700|https://scryfall.com/card/brc/193/prairie-stream?utm_source=api>`
+   (|tap|: Add |mana_w| or |mana_u|.)
+
+   Prairie Stream enters the battlefield tapped unless you control two or more basic lands.
+
+
+:mtgtip:`Rakdos Carnarium<https://cards.scryfall.io/border_crop/front/7/a/7af7868a-3bdd-42d6-a7db-fef5f9ff317c.jpg?1667004713|https://scryfall.com/card/brc/194/rakdos-carnarium?utm_source=api>`
+   Rakdos Carnarium enters the battlefield tapped.
+
+   When Rakdos Carnarium enters the battlefield, return a land you control to its owner's hand.
+
+   |tap|: Add |mana_b|\ |mana_r|.
+
+
+:mtgtip:`Razortide Bridge<https://cards.scryfall.io/border_crop/front/3/9/390d2c8e-d53f-4590-9a9c-9faad5824ea3.jpg?1667004720|https://scryfall.com/card/brc/195/razortide-bridge?utm_source=api>`
+   Razortide Bridge enters the battlefield tapped.
+
+   Indestructible
+
+   |tap|: Add |mana_w| or |mana_u|.
 
 
 :mtgtip:`Reliquary Tower<https://cards.scryfall.io/border_crop/front/f/c/fcc31eb5-d0aa-4b4d-8908-cad1bba7348a.jpg?1664497046|https://scryfall.com/card/brc/196/reliquary-tower?utm_source=api>`
    You have no maximum hand size.
 
    |tap|: Add |colorless|.
+
+
+:mtgtip:`River of Tears<https://cards.scryfall.io/border_crop/front/a/e/ae7cfcdf-d654-45c3-bf79-ccba120b5e68.jpg?1667004748|https://scryfall.com/card/brc/197/river-of-tears?utm_source=api>`
+   |tap|: Add |mana_u|. If you played a land this turn, add |mana_b| instead.
+
+
+:mtgtip:`Seat of the Synod<https://cards.scryfall.io/border_crop/front/4/2/4277ebca-1c8d-4066-969a-28adf6445b3e.jpg?1667004795|https://scryfall.com/card/brc/198/seat-of-the-synod?utm_source=api>`
+   |tap|: Add |mana_u|.
+
+
+:mtgtip:`Shadowblood Ridge<https://cards.scryfall.io/border_crop/front/9/b/9b4a6fb2-f6f4-437d-8ac4-797425cc294c.jpg?1667004823|https://scryfall.com/card/brc/199/shadowblood-ridge?utm_source=api>`
+   |mana_1|, |tap|: Add |mana_b|\ |mana_r|.
+
+
+:mtgtip:`Silverbluff Bridge<https://cards.scryfall.io/border_crop/front/7/5/75942d08-29f5-4e07-ae26-c94e0af57220.jpg?1667004835|https://scryfall.com/card/brc/200/silverbluff-bridge?utm_source=api>`
+   Silverbluff Bridge enters the battlefield tapped.
+
+   Indestructible
+
+   |tap|: Add |mana_u| or |mana_r|.
+
+
+:mtgtip:`Skycloud Expanse<https://cards.scryfall.io/border_crop/front/c/f/cf76b175-0523-48c9-afc3-dced07999710.jpg?1667004847|https://scryfall.com/card/brc/201/skycloud-expanse?utm_source=api>`
+   |mana_1|, |tap|: Add |mana_w|\ |mana_u|.
+
+
+:mtgtip:`Smoldering Marsh<https://cards.scryfall.io/border_crop/front/d/6/d6882120-e807-4695-af88-ddfec92f6127.jpg?1667004865|https://scryfall.com/card/brc/202/smoldering-marsh?utm_source=api>`
+   (|tap|: Add |mana_b| or |mana_r|.)
+
+   Smoldering Marsh enters the battlefield tapped unless you control two or more basic lands.
+
+
+:mtgtip:`Spire of Industry<https://cards.scryfall.io/border_crop/front/1/0/10b8e3a0-2a3e-401a-80a1-a3c8744f0c28.jpg?1667004873|https://scryfall.com/card/brc/203/spire-of-industry?utm_source=api>`
+   |tap|: Add |colorless|.
+
+   |tap|, Pay 1 life: Add one mana of any color. Activate only if you control an artifact.
+
+
+:mtgtip:`Sunken Hollow<https://cards.scryfall.io/border_crop/front/e/b/ebafcb7f-e66c-4f7d-a7d9-ca4b4c0eee9d.jpg?1667004890|https://scryfall.com/card/brc/204/sunken-hollow?utm_source=api>`
+   (|tap|: Add |mana_u| or |mana_b|.)
+
+   Sunken Hollow enters the battlefield tapped unless you control two or more basic lands.
+
+
+:mtgtip:`Temple of Deceit<https://cards.scryfall.io/border_crop/front/1/f/1f604a40-dbe4-464f-98da-69c8125614f0.jpg?1667004902|https://scryfall.com/card/brc/205/temple-of-deceit?utm_source=api>`
+   Temple of Deceit enters the battlefield tapped.
+
+   When Temple of Deceit enters the battlefield, scry 1.
+
+   |tap|: Add |mana_u| or |mana_b|.
+
+
+:mtgtip:`Temple of Enlightenment<https://cards.scryfall.io/border_crop/front/0/2/029a10c0-f589-4f56-8704-1de1bd2cb163.jpg?1667004910|https://scryfall.com/card/brc/206/temple-of-enlightenment?utm_source=api>`
+   Temple of Enlightenment enters the battlefield tapped.
+
+   When Temple of Enlightenment enters the battlefield, scry 1.
+
+   |tap|: Add |mana_w| or |mana_u|.
+
+
+:mtgtip:`Temple of Epiphany<https://cards.scryfall.io/border_crop/front/b/b/bb3bed3f-2efc-44b5-81d4-10c3c9c39276.jpg?1667004923|https://scryfall.com/card/brc/207/temple-of-epiphany?utm_source=api>`
+   Temple of Epiphany enters the battlefield tapped.
+
+   When Temple of Epiphany enters the battlefield, scry 1.
+
+   |tap|: Add |mana_u| or |mana_r|.
+
+
+:mtgtip:`Temple of Malice<https://cards.scryfall.io/border_crop/front/7/3/7306c101-399b-4306-89b5-6c43cb582597.jpg?1667004931|https://scryfall.com/card/brc/208/temple-of-malice?utm_source=api>`
+   Temple of Malice enters the battlefield tapped.
+
+   When Temple of Malice enters the battlefield, scry 1.
+
+   |tap|: Add |mana_b| or |mana_r|.
+
+
+:mtgtip:`Temple of Silence<https://cards.scryfall.io/border_crop/front/3/6/36ffb731-b0b4-455e-b296-1ad46a82ab18.jpg?1667004943|https://scryfall.com/card/brc/209/temple-of-silence?utm_source=api>`
+   Temple of Silence enters the battlefield tapped.
+
+   When Temple of Silence enters the battlefield, scry 1.
+
+   |tap|: Add |mana_w| or |mana_b|.
+
+
+:mtgtip:`Terramorphic Expanse<https://cards.scryfall.io/border_crop/front/6/c/6c156c30-d681-4b3b-bcf9-3a1e85a8c7a1.jpg?1667004961|https://scryfall.com/card/brc/210/terramorphic-expanse?utm_source=api>`
+   |tap|, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+
+
+:mtgtip:`Vault of Whispers<https://cards.scryfall.io/border_crop/front/f/4/f482fe5c-1ff5-46f8-befa-b84deaa29f45.jpg?1667005009|https://scryfall.com/card/brc/211/vault-of-whispers?utm_source=api>`
+   |tap|: Add |mana_b|.
 
