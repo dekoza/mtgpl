@@ -105,10 +105,10 @@
    • Scry 1, then draw a card.
 
 
-:mtgtip:`Arcane Proxy<https://cards.scryfall.io/border_crop/front/d/6/d6d74d2e-7382-4fe3-ac3e-6906203ffcc7.jpg?1667139946|https://scryfall.com/card/bro/75/arcane-proxy?utm_source=api>`
+:mtgtip:`Arcane Proxy<https://cards.scryfall.io/border_crop/front/d/6/d6d74d2e-7382-4fe3-ac3e-6906203ffcc7.jpg?1667208629|https://scryfall.com/card/bro/75/arcane-proxy?utm_source=api>`
    Prototype |mana_1|\ |mana_u|\ |mana_u| — 2/1 (You may cast this spell with different mana cost, color, and size. It keeps its abilities and types.)
 
-   When Arcane Proxy etners the battlefield, if you cast it, exile target instant or sorcery card with mana value less than or equal to Arcane Proxy's power from your graveyard. Copy that card. You may cast the copy without paying its mana cost.
+   When Arcane Proxy enters the battlefield, if you cast it, exile target instant or sorcery card with mana value less than or equal to Arcane Proxy's power from your graveyard. Copy that card. You may cast the copy without paying its mana cost.
 
 
 :mtgtip:`Depth Charge Colossus<https://cards.scryfall.io/border_crop/front/3/4/34e09173-a92d-4cc3-9d02-bf18ab0850ec.jpg?1667139811|https://scryfall.com/card/bro/78/depth-charge-colossus?utm_source=api>`
@@ -173,7 +173,7 @@
    Ward—Pay life equal to Phyrexian Fleshgorger's power.
 
 
-:mtgtip:`Transmogrant's Crown<https://cards.scryfall.io/border_crop/front/d/c/dc913ed6-3032-4b45-a6c1-6a4208a7e00a.jpg?1667088725|https://scryfall.com/card/bro/125/transmogrants-crown?utm_source=api>`
+:mtgtip:`Transmogrant's Crown<https://cards.scryfall.io/border_crop/front/d/c/dc913ed6-3032-4b45-a6c1-6a4208a7e00a.jpg?1667218953|https://scryfall.com/card/bro/125/transmogrants-crown?utm_source=api>`
    Equipped creature gets +2/+0.
 
    Whenever equipped creature dies, draw a card.
@@ -297,8 +297,8 @@
    Reach, trample
 
 
-:mtgtip:`Hajar, Loyal Bodyguard<https://cards.scryfall.io/border_crop/front/5/a/5a0a2f82-57d3-45d8-b1c8-357883c62728.jpg?1667196495|https://scryfall.com/card/bro/211/hajar-loyal-bodyguard?utm_source=api>`
-   Sacrifice Hajar, Loyal Bodyguard: Legendaryc reatures you control get +1/+0 and gain indestructible until end of turn.
+:mtgtip:`Hajar, Loyal Bodyguard<https://cards.scryfall.io/border_crop/front/5/a/5a0a2f82-57d3-45d8-b1c8-357883c62728.jpg?1667207707|https://scryfall.com/card/bro/211/hajar-loyal-bodyguard?utm_source=api>`
+   Sacrifice Hajar, Loyal Bodyguard: Legendary creatures you control get +1/+0 and gain indestructible until end of turn.
 
 
 :mtgtip:`Harbin, Vanguard Aviator<https://cards.scryfall.io/border_crop/front/4/b/4b88be69-3201-4345-a193-cc21bd066d15.jpg?1667139307|https://scryfall.com/card/bro/212/harbin-vanguard-aviator?utm_source=api>`
