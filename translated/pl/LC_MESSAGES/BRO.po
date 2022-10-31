@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG po polsku 2022.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-10-31 13:14+0100\n"
-"PO-Revision-Date: 2022-10-30 22:54+0000\n"
+"PO-Revision-Date: 2022-10-31 12:27+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/bro/pl/>\n"
 "Language: pl\n"
@@ -285,11 +285,6 @@ msgid ""
 msgstr ""
 
 #: ../../BRO.rst:19
-#, fuzzy
-#| msgid ""
-#| "Exile target nonland permanent. For as long as that card remains exiled, "
-#| "it's owner may play it. A spell cast by an opponent this way costs |"
-#| "mana_2| more to cast."
 msgid ""
 "Exile target nonland permanent. For as long as that card remains exiled, its "
 "owner may play it. A spell cast by an opponent this way costs |mana_2| more "
@@ -385,17 +380,14 @@ msgid ""
 msgstr ""
 
 #: ../../BRO.rst:43
-#, fuzzy
-#| msgid ""
-#| "|mana_2|\\ |mana_g|\\ |mana_g|, |tap|: Create a 2/2 green Bear creature "
-#| "token, then mill three cards. Activate only as a sorcery."
 msgid ""
 "|mana_2|\\ |mana_w|\\ |mana_w|, |tap|, Exile Urza's Sylex: Each player "
 "chooses six lands they control. Destroy all other permanents. Activate only "
 "as a sorcery."
 msgstr ""
-"|mana_2|\\ |mana_g|\\ |mana_g|, |tap|: Stwórz dwa żetony zielonego stwora "
-"Niedźwiedź 2/2, po czym zmiel trzy karty. Aktywuj tylko jako obrzęd."
+"|mana_2|\\ |mana_w|\\ |mana_w|, |tap|, wygnaj ten byt: Każdy gracz wybiera "
+"sześć lądów pod swoim władaniem. Zniszcz wszystkie inne byty. Aktywuj tylko "
+"jako obrzęd."
 
 #: ../../BRO.rst:45
 msgid ""
@@ -535,11 +527,6 @@ msgstr ""
 "dobierzesz kartę, umieść znacznik +1/+1 na tym stworze.\""
 
 #: ../../BRO.rst:81
-#, fuzzy
-#| msgid ""
-#| "−12: Target opponent chooses a permanent they control and returns it to "
-#| "its owner's had. Then they shuffle each nonland permanent they control "
-#| "into its owner's library."
 msgid ""
 "−12: Target opponent chooses a permanent they control and returns it to its "
 "owner's hand. Then they shuffle each nonland permanent they control into its "
@@ -1170,7 +1157,7 @@ msgstr ""
 
 #: ../../BRO.rst:297
 msgid "Reach, trample"
-msgstr ""
+msgstr "Zasięg, tratowanie"
 
 #: ../../BRO.rst:302
 msgid ""
@@ -1180,16 +1167,12 @@ msgid ""
 msgstr ""
 
 #: ../../BRO.rst:301
-#, fuzzy
-#| msgid ""
-#| "|mana_1|, Sacrifice Bitter Reunion: Creatures you control gain haste "
-#| "until end of turn."
 msgid ""
 "Sacrifice Hajar, Loyal Bodyguard: Legendaryc reatures you control get +1/+0 "
 "and gain indestructible until end of turn."
 msgstr ""
-"|mana_1|, poświęć ten byt: Stwory pod twoim władaniem do końca tury zyskują "
-"pośpiech."
+"Poświęć ten byt: Legendarne stwory pod twoim władaniem do końca tury dostają "
+"+1/+0 i niezniszczalność."
 
 #: ../../BRO.rst:308
 msgid ""
@@ -1200,19 +1183,15 @@ msgstr ""
 
 #: ../../BRO.rst:305
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 #: ../../BRO.rst:307
-#, fuzzy
-#| msgid ""
-#| "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 "
-#| "until end of turn.)"
 msgid ""
 "Whenever you attack with five or more Soldiers, creatures you control get +1/"
 "+1 and gain flying until end of turn."
 msgstr ""
-"Waleczność (Ilekroć rzucisz nie-stworowy czar, ten stwór do końca tury "
-"dostaje +1/+1.)"
+"Ilekroć zaatakujesz co najmniej pięcioma Piechurami, stwory pod twoim "
+"władaniem do końca tury dostają +1/+1 i latanie."
 
 #: ../../BRO.rst:312
 msgid ""
@@ -1578,25 +1557,18 @@ msgid ""
 msgstr ""
 
 #: ../../BRO.rst:427
-#, fuzzy
-#| msgid "|mana_1|, |tap|: Draw a card, then discard a card."
 msgid "|mana_1|, |tap|: Add one mana of any color."
-msgstr "|mana_1|, |tap|: Dobierz kartę, po czym odrzuć kartę."
+msgstr "|mana_1|, |tap|: Weź jedną manę dowolnego koloru."
 
 #: ../../BRO.rst:429
-#, fuzzy
-#| msgid ""
-#| "Draw two cards, then discard a card. Create a tapped Powerstone token. "
-#| "(It's an artifact with \"|tap|: Add |colorless|. This mana can't be spent "
-#| "to cast a nonartifact spell.\")"
 msgid ""
 "|mana_4|, |tap|: Create a tapped Powerstone token. (It's an artifact with \"|"
 "tap|: Add |colorless|. This mana can't be spent to cast a nonartifact spell."
 "\")"
 msgstr ""
-"Dobierz dwie karty, po czym odrzuć kartę. Stwórz przekręcony żeton Kamień "
-"Mocy. (To artefakt z \"|tap|: Weź |colorless|. Ta mana nie może być wydana "
-"na rzucenie nieartefaktowego czaru.\")"
+"|mana_4|, |tap|: Stwórz przekręcony żeton Kamień Mocy. (To artefakt z \""
+"|tap|: Weź |colorless|. Ta mana nie może być wydana na rzucenie "
+"nieartefaktowego czaru.\")"
 
 #: ../../BRO.rst:436
 msgid ""
