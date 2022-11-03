@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-11-01 22:07+0100\n"
-"PO-Revision-Date: 2022-09-15 03:42+0000\n"
+"PO-Revision-Date: 2022-11-03 21:28+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/ima/pl/>\n"
 "Language: pl\n"
@@ -2243,10 +2243,8 @@ msgstr ""
 "turze."
 
 #: ../../IMA.rst:731
-#, fuzzy
-#| msgid "Enchanted creature has defender."
 msgid "Enchanted creature gets +1/+1 and has haste."
-msgstr "Zauroczony stwór ma obronność."
+msgstr "Zauroczony stwór dostaje +1/+1 i ma pośpiech."
 
 #: ../../IMA.rst:736
 msgid ""

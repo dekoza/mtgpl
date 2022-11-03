@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-11-01 22:07+0100\n"
-"PO-Revision-Date: 2022-09-15 03:42+0000\n"
+"PO-Revision-Date: 2022-11-03 21:28+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/m15/pl/>\n"
 "Language: pl\n"
@@ -2785,10 +2785,8 @@ msgstr ""
 
 # 43038d48ea374041be0bc7d6c50d2847
 #: ../../M15.rst:767
-#, fuzzy
-#| msgid "Enchanted creature gets +1/+1."
 msgid "Enchanted creature gets +1/+1 and has haste."
-msgstr "Zauroczony stwór dostaje +1/+1."
+msgstr "Zauroczony stwór dostaje +1/+1 i ma pośpiech."
 
 #: ../../M15.rst:772
 msgid ""
