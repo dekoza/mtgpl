@@ -1651,7 +1651,7 @@
    |tap|: Add |mana_g| or |mana_w|.
 
 
-:mtgtip:`Urza's Saga<https://cards.scryfall.io/border_crop/front/c/1/c1e0f201-42cb-46a1-901a-65bb4fc18f6c.jpg?1626099958|https://scryfall.com/card/mh2/259/urzas-saga?utm_source=api>`
+:mtgtip:`Urza's Saga<https://cards.scryfall.io/border_crop/front/c/1/c1e0f201-42cb-46a1-901a-65bb4fc18f6c.jpg?1667318301|https://scryfall.com/card/mh2/259/urzas-saga?utm_source=api>`
    (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 
    I — Urza's Saga gains "|tap|: Add |colorless|."
