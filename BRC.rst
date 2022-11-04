@@ -101,7 +101,7 @@
    |mana_1|, Remove a counter from another creature you control: Put a +1/+1 counter on Hexavus.
 
 
-:mtgtip:`Kayla's Music Box<https://cards.scryfall.io/border_crop/front/c/0/c0e9819f-6bda-4fd3-8d61-3746e1e67418.jpg?1667001964|https://scryfall.com/card/brc/15/kaylas-music-box?utm_source=api>`
+:mtgtip:`Kayla's Music Box<https://cards.scryfall.io/border_crop/front/c/0/c0e9819f-6bda-4fd3-8d61-3746e1e67418.jpg?1667433660|https://scryfall.com/card/brc/15/kaylas-music-box?utm_source=api>`
    |mana_w|, |tap|: Look at the top card of your library, then exile it face down. (You may look at it any time.)
 
    |tap|: Until end of turn, you may play cards you own exiled with Kayla's Music Box.
@@ -135,6 +135,12 @@
    At the beginning of your end step, mill two cards, then exile a nonland card at random from your graveyard. Copy it. You may cast the copy without paying its mana cost. (A copy of a permanent spell becomes a token.)
 
 
+:mtgtip:`Disciple of Caelus Nin<https://cards.scryfall.io/border_crop/front/f/6/f60b6143-ffc4-47d4-9e30-edf1f576b6ef.jpg?1667523268|https://scryfall.com/card/brc/21/disciple-of-caelus-nin?utm_source=api>`
+   When Disciple of Caelus Nin enters the battlefield, starting with you, each player chooses up to five permanents they control. All permanents other than Disciple of Caelus Nin that weren't chosen this way phase out.
+
+   Permanents can't phase in.
+
+
 :mtgtip:`The Brothers' War<https://cards.scryfall.io/border_crop/front/5/6/5615a50b-3b8b-4d31-b351-1725b730ef0b.jpg?1667140186|https://scryfall.com/card/brc/22/the-brothers-war?utm_source=api>`
    (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 
@@ -145,8 +151,44 @@
    III — The Brothers' War deals X damage to any target and X damage to any other target, where X is the number of artifacts you control.
 
 
+:mtgtip:`Sardian Avenger<https://cards.scryfall.io/border_crop/front/5/9/593b4a4f-5644-44be-9bfe-752732ffe59e.jpg?1667523169|https://scryfall.com/card/brc/23/sardian-avenger?utm_source=api>`
+   First strike, trample
+
+   Whenever Sardian Avenger attacks, it gets +X/+0 until end of turn, where X is the number of artifacts your opponents control.
+
+   Whenever an artifact an opponent controls is put into a graveyard from the battlefield, Sardian Avenger deals 1 damage to that player.
+
+
 :mtgtip:`Rootpath Purifier<https://cards.scryfall.io/border_crop/front/c/9/c9249743-d49e-4450-8fa6-52ed0ff6e5bb.jpg?1667290389|https://scryfall.com/card/brc/24/rootpath-purifier?utm_source=api>`
    Lands you control and land cards in your library are basic.
+
+
+:mtgtip:`Titania, Nature's Force<https://cards.scryfall.io/border_crop/front/0/0/0073096e-cc3b-499a-87d6-d1692fffe7a9.jpg?1667523081|https://scryfall.com/card/brc/25/titania-natures-force?utm_source=api>`
+   You may play Forests from your graveyard.
+
+   Whenever a Forest enters the battlefield under your control, create a 5/3 green Elemental creature token.
+
+   Whenever an Elemental you control dies, you may mill three cards.
+
+
+:mtgtip:`The Archimandrite<https://cards.scryfall.io/border_crop/front/5/4/54fb3f4c-44fb-4afe-9fab-204ef98995c3.jpg?1667522943|https://scryfall.com/card/brc/26/the-archimandrite?utm_source=api>`
+   At the beginning of your upkeep, you gain X life, where X is the number of cards in your hand minus 4.
+
+   Whenever you gain life, each Advisor, Artificer, and Monk you control gains vigilance and gets +X/+0 until end of turn, where X is the amount of life you gained.
+
+   Tap three untapped Advisors, Artificers, and/or Monks you control: Draw a card.
+
+
+:mtgtip:`Staff of Titania<https://cards.scryfall.io/border_crop/front/a/5/a5b765f3-e59e-4af1-bac5-e50797f8629f.jpg?1667523028|https://scryfall.com/card/brc/27/staff-of-titania?utm_source=api>`
+   Equipped creature gets +X/+X, where X is the number of Forests you control. Whenever equipped creature attacks, create a 1/1 green Forest Dryad land creature token. (It's affected by summoning sickness.)
+
+   Equip |mana_3|
+
+
+:mtgtip:`Urza's Workshop<https://cards.scryfall.io/border_crop/front/3/7/37c9b9d7-2fa7-4710-94bb-c55ee7bf598c.jpg?1667375096|https://scryfall.com/card/brc/28/urzas-workshop?utm_source=api>`
+   |tap|: Add |colorless|.
+
+   Metalcraft — |tap|: Add |colorless| for each Urza's land you control. Activate only if you control three or more artifacts.
 
 
 :mtgtip:`Plains<https://cards.scryfall.io/border_crop/front/c/2/c23864ff-e83c-4899-99e0-4ca5167bd4e1.jpg?1667004137|https://scryfall.com/card/brc/29/plains?utm_source=api>`
@@ -869,6 +911,14 @@
    |tap|: Add |mana_u| or |mana_b|.
 
 
+:mtgtip:`Myriad Landscape<https://cards.scryfall.io/border_crop/front/0/9/09ae899f-e5ac-4b67-abf2-d55ad9ae58f3.jpg?1667541178|https://scryfall.com/card/brc/190/myriad-landscape?utm_source=api>`
+   Myriad Landscape enters the battlefield tapped.
+
+   |tap|: Add |colorless|.
+
+   |mana_2|, |tap|, Sacrifice Myriad Landscape: Search your library for up to two basic land cards that share a land type, put them onto the battlefield tapped, then shuffle.
+
+
 :mtgtip:`Orzhov Basilica<https://cards.scryfall.io/border_crop/front/6/d/6d31f89f-1758-4f6f-8de8-d270983866fd.jpg?1667004669|https://scryfall.com/card/brc/191/orzhov-basilica?utm_source=api>`
    Orzhov Basilica enters the battlefield tapped.
 
@@ -877,12 +927,10 @@
    |tap|: Add |mana_w|\ |mana_b|.
 
 
-:mtgtip:`Myriad Landscape<https://cards.scryfall.io/border_crop/front/0/9/09ae899f-e5ac-4b67-abf2-d55ad9ae58f3.jpg?1667004662|https://scryfall.com/card/brc/192/myriad-landscape?utm_source=api>`
-   Myriad Landscape enters the battlefield tapped.
+:mtgtip:`Path of Ancestry<https://cards.scryfall.io/border_crop/front/9/5/95c1557e-68dd-46be-9b1e-0a65e04fe739.jpg?1667541184|https://scryfall.com/card/brc/192/path-of-ancestry?utm_source=api>`
+   Path of Ancestry enters the battlefield tapped.
 
-   |tap|: Add |colorless|.
-
-   |mana_2|, |tap|, Sacrifice Myriad Landscape: Search your library for up to two basic land cards that share a land type, put them onto the battlefield tapped, then shuffle.
+   |tap|: Add one mana of any color in your commander's color identity. When that mana is spent to cast a creature spell that shares a creature type with your commander, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
 
 
 :mtgtip:`Prairie Stream<https://cards.scryfall.io/border_crop/front/1/8/18baf8cd-ed0f-41fd-9295-3affee8a5bbc.jpg?1667004700|https://scryfall.com/card/brc/193/prairie-stream?utm_source=api>`
