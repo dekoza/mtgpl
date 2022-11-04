@@ -145,6 +145,10 @@
    III — The Brothers' War deals X damage to any target and X damage to any other target, where X is the number of artifacts you control.
 
 
+:mtgtip:`Rootpath Purifier<https://cards.scryfall.io/border_crop/front/c/9/c9249743-d49e-4450-8fa6-52ed0ff6e5bb.jpg?1667290389|https://scryfall.com/card/brc/24/rootpath-purifier?utm_source=api>`
+   Lands you control and land cards in your library are basic.
+
+
 :mtgtip:`Plains<https://cards.scryfall.io/border_crop/front/c/2/c23864ff-e83c-4899-99e0-4ca5167bd4e1.jpg?1667004137|https://scryfall.com/card/brc/29/plains?utm_source=api>`
    (|tap|: Add |mana_w|.)
 
