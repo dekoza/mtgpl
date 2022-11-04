@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG po polsku 2022.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-11-04 23:22+0100\n"
-"PO-Revision-Date: 2022-11-04 22:28+0000\n"
+"PO-Revision-Date: 2022-11-04 22:36+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/bro/pl/>\n"
 "Language: pl\n"
@@ -1347,10 +1347,8 @@ msgid ""
 msgstr ""
 
 #: ../../BRO.rst:339
-#, fuzzy
-#| msgid "|mana_5|: Creatures you control get +1/+1 until end of turn."
 msgid "|mana_2|: Retrieval Agent gets +1/-1 until end of turn."
-msgstr "|mana_5|: Stwory pod twoim władaniem do końca tury dostają +1/+1."
+msgstr "|mana_2|: Niniejszy do końca tury dostaje +1/-1."
 
 #: ../../BRO.rst:344
 msgid ""
@@ -1662,16 +1660,12 @@ msgid "Coastal Bulwark gets +2/+0 as long as you control an Island."
 msgstr ""
 
 #: ../../BRO.rst:451
-#, fuzzy
-#| msgid ""
-#| "At the beginning of your upkeep, exile the top card of your library. You "
-#| "may play that card this turn."
 msgid ""
 "|mana_2|, |tap|: Surveil 1. (Look at the top card of your library. You may "
 "put that card into your graveyard.)"
 msgstr ""
-"Na początku twojego kroku utrzymania, wygnaj wierzchnią kartę twojej "
-"biblioteki. Możesz zagrać ową kartę w tej turze."
+"|mana_2|, |tap|: Szpieguj 1. (Spójrz na wierzchnią kartę twojej biblioteki. "
+"Możesz umieścić ową kartę w twoim cmentarzu.)"
 
 #: ../../BRO.rst:458
 msgid ""
@@ -2468,16 +2462,12 @@ msgstr ""
 "twoją rękę. Jeśli tak zrobisz, dobierz trzy karty."
 
 #: ../../BRO.rst:697
-#, fuzzy
-#| msgid ""
-#| "Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip "
-#| "only as a sorcery.)"
 msgid ""
 "Equip |mana_1|\\ |mana_b| (|mana_1|\\ |mana_b|: Attach to target creature "
 "you control. Equip only as a sorcery.)"
 msgstr ""
-"Wyposaż |mana_2| (|mana_2|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Aktywuj tylko jako obrzęd.)"
+"Wyposaż |mana_1|\\ |mana_b| (|mana_1|\\ |mana_b|: Dołącz do wskazanego "
+"stwora pod twoim władaniem. Aktywuj tylko jako obrzęd.)"
 
 #: ../../BRO.rst:704
 msgid ""
@@ -2954,6 +2944,10 @@ msgid ""
 "revealed that way onto the battlefield, and puts the rest into their "
 "graveyard."
 msgstr ""
+"Każdy gracz ujawnia z wierzchu swojej biblioteki tyle kart, ile wynosi "
+"liczba nielądowych bytów pod swoim władaniem, umieszcza wszystkie karty "
+"bytów ujawnione w ten sposób na polu bitwy, a pozostałe umieszcza w swoim "
+"cmentarzu."
 
 #: ../../BRO.rst:868
 msgid ""
@@ -5511,10 +5505,9 @@ msgid ""
 msgstr ""
 
 #: ../../BRO.rst:1657
-#, fuzzy
-#| msgid "|mana_5|: Creatures you control get +1/+1 until end of turn."
 msgid "|mana_r|: Artificer's Dragon you control get +1/+0 until end of turn."
-msgstr "|mana_5|: Stwory pod twoim władaniem do końca tury dostają +1/+1."
+msgstr ""
+"|mana_r|: Artefaktowe stwory pod twoim władaniem do końca tury dostają +1/+0."
 
 #: ../../BRO.rst:1659
 #, fuzzy
