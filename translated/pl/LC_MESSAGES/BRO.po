@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG po polsku 2022.9\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-03 16:22+0100\n"
-"PO-Revision-Date: 2022-11-04 10:57+0000\n"
+"POT-Creation-Date: 2022-11-04 23:22+0100\n"
+"PO-Revision-Date: 2022-11-04 22:28+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/bro/pl/>\n"
 "Language: pl\n"
@@ -238,35 +238,73 @@ msgstr "{PW}"
 msgid ":mtgexp:`BRO` The Brothers' War"
 msgstr ""
 
-#: ../../BRO.rst:14
+#: ../../BRO.rst:12
+msgid ""
+":mtgtip:`Aeronaut Cavalry<https://cards.scryfall.io/border_crop/"
+"front/3/8/38a62bb2-bc33-44d4-9a7e-92c9ea7d3c2c.jpg?1667523667|https://"
+"scryfall.com/card/bro/1/aeronaut-cavalry?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:9 ../../BRO.rst:15 ../../BRO.rst:23 ../../BRO.rst:215
+#: ../../BRO.rst:307 ../../BRO.rst:347 ../../BRO.rst:427 ../../BRO.rst:435
+#: ../../BRO.rst:477 ../../BRO.rst:523 ../../BRO.rst:615 ../../BRO.rst:899
+#: ../../BRO.rst:929 ../../BRO.rst:1245 ../../BRO.rst:1381 ../../BRO.rst:1391
+#: ../../BRO.rst:1439 ../../BRO.rst:1655
+msgid "Flying"
+msgstr "Latanie"
+
+#: ../../BRO.rst:11
+#, fuzzy
+#| msgid ""
+#| "When Scrapwork Cohort enters the battlefield, create a 1/1 colorless "
+#| "Soldier artifact creature token."
+msgid ""
+"When Aeronaut Cavalry enters the battlefield, put a +1/+1 counter on another "
+"target Soldier you control."
+msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton bezkolorowego "
+"artefaktowego stwora Piechur 1/1."
+
+#: ../../BRO.rst:18
+msgid ""
+":mtgtip:`Airlift Chaplain<https://cards.scryfall.io/border_crop/front/7/"
+"a/7ad55575-6053-43b1-9496-bcb1ea25e2a1.jpg?1667523604|https://scryfall.com/"
+"card/bro/2/airlift-chaplain?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:17
+msgid ""
+"When Airlift Chaplain enters the battlefield, mill three cards. You may put "
+"a Plains card or a creature card with mana value 3 or less from among the "
+"cards milled this way into your hand. If you don't, put a +1/+1 counter on "
+"Airlift Chaplain. (To mill a card, put the top card of your library into "
+"your graveyard.)"
+msgstr ""
+
+#: ../../BRO.rst:26
 msgid ""
 ":mtgtip:`Ambush Paratrooper<https://cards.scryfall.io/border_crop/front/c/f/"
 "cfa00c0e-163d-4f59-b8b9-3ee9143d27bb.jpg?1667375501|https://scryfall.com/"
 "card/bro/3/ambush-paratrooper?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:9 ../../BRO.rst:313 ../../BRO.rst:1015 ../../BRO.rst:1029
+#: ../../BRO.rst:21 ../../BRO.rst:95 ../../BRO.rst:305 ../../BRO.rst:433
+#: ../../BRO.rst:1375 ../../BRO.rst:1389 ../../BRO.rst:1481 ../../BRO.rst:1633
 msgid "Flash"
 msgstr "Błysk"
 
-#: ../../BRO.rst:11 ../../BRO.rst:159 ../../BRO.rst:241 ../../BRO.rst:315
-#: ../../BRO.rst:449 ../../BRO.rst:649 ../../BRO.rst:665 ../../BRO.rst:905
-#: ../../BRO.rst:1021 ../../BRO.rst:1031 ../../BRO.rst:1079
-msgid "Flying"
-msgstr "Latanie"
-
-#: ../../BRO.rst:13
+#: ../../BRO.rst:25
 msgid "|mana_5|: Creatures you control get +1/+1 until end of turn."
 msgstr "|mana_5|: Stwory pod twoim władaniem do końca tury dostają +1/+1."
 
-#: ../../BRO.rst:18
+#: ../../BRO.rst:30
 msgid ""
 ":mtgtip:`Calamity's Wake<https://cards.scryfall.io/border_crop/"
 "front/0/1/013bed2b-25db-4dfc-9283-e80c9ac6c841.jpg?1667373852|https://"
 "scryfall.com/card/bro/4/calamitys-wake?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:17
+#: ../../BRO.rst:29
 msgid ""
 "Exile all graveyards. Players can't cast noncreature spells this turn. Exile "
 "Calamity's Wake."
@@ -274,25 +312,39 @@ msgstr ""
 "Wygnaj wszystkie cmentarze. W tej turze gracze nie mogą rzucać niestworowych "
 "czarów. Wygnaj ten czar."
 
-#: ../../BRO.rst:22
+#: ../../BRO.rst:34
+msgid ""
+":mtgtip:`Deadly Riposte<https://cards.scryfall.io/border_crop/"
+"front/3/8/38eca0ae-d400-4afb-9a45-7100f4cd7149.jpg?1667561439|https://"
+"scryfall.com/card/bro/5/deadly-riposte?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:33
+#, fuzzy
+#| msgid "This spell deals X damage to target creature."
+msgid ""
+"Deadly Riposte deals 3 damage to target tapped creature and you gain 2 life."
+msgstr "Ten czar zadaje wskazanemu stworowi X obrażeń."
+
+#: ../../BRO.rst:38
 msgid ""
 ":mtgtip:`Disenchant<https://cards.scryfall.io/border_crop/front/6/5/658c5caa-"
 "d739-4d30-a512-43ac4de900cb.jpg?1667260704|https://scryfall.com/card/bro/6/"
 "disenchant?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:21
+#: ../../BRO.rst:37
 msgid "Destroy target artifact or enchantment."
 msgstr "Zniszcz wskazany artefakt lub urok."
 
-#: ../../BRO.rst:26
+#: ../../BRO.rst:42
 msgid ""
 ":mtgtip:`Great Desert Prospector<https://cards.scryfall.io/border_crop/front/"
 "d/c/dc83d586-bf46-437f-a5a3-996bd62d5866.jpg?1667419367|https://scryfall.com/"
 "card/bro/7/great-desert-prospector?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:25
+#: ../../BRO.rst:41
 msgid ""
 "When Great Desert Prospector enters the battlefield, create a tapped "
 "Powerstone token for each other creature you control. (The tokens are "
@@ -300,22 +352,22 @@ msgid ""
 "nonartifact spell.\")"
 msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, stwórz przekręcony żeton Kamień Mocy za "
-"każdego innego stwora pod twoim władaniem. (Owe żetony to artefakty z \""
-"|tap|: Weź |colorless|. Ta mana nie może być wydana na rzucenie "
+"każdego innego stwora pod twoim władaniem. (Owe żetony to artefakty z \"|"
+"tap|: Weź |colorless|. Ta mana nie może być wydana na rzucenie "
 "nieartefaktowego czaru.\")"
 
-#: ../../BRO.rst:32
+#: ../../BRO.rst:48
 msgid ""
 ":mtgtip:`In the Trenches<https://cards.scryfall.io/border_crop/"
 "front/7/1/71ff86e9-1ce6-43cc-8135-f2adb1b6c5a7.jpg?1666996165|https://"
 "scryfall.com/card/bro/8/in-the-trenches?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:29
+#: ../../BRO.rst:45
 msgid "Creatures you control get +1/+1."
 msgstr "Stwory pod twoim władaniem dostają +1/+1."
 
-#: ../../BRO.rst:31
+#: ../../BRO.rst:47
 msgid ""
 "|mana_5|\\ |mana_w|: Exile target nonland permanent you don't control until "
 "In the Trenches leaves the battlefield. Activate only as a sorcery and only "
@@ -325,22 +377,23 @@ msgstr ""
 "dopóki niniejszy nie opuści pola bitwy. Aktywuj tylko jako obrzęd i tylko "
 "raz."
 
-#: ../../BRO.rst:44
+#: ../../BRO.rst:60
 msgid ""
 ":mtgtip:`Kayla's Command<https://cards.scryfall.io/border_crop/"
 "front/0/7/0737dbec-1646-41a0-adbf-706c9bd4fc7a.jpg?1667373866|https://"
 "scryfall.com/card/bro/9/kaylas-command?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:35 ../../BRO.rst:293 ../../BRO.rst:413 ../../BRO.rst:593
+#: ../../BRO.rst:51 ../../BRO.rst:399 ../../BRO.rst:571 ../../BRO.rst:827
+#: ../../BRO.rst:1135
 msgid "Choose two —"
 msgstr "Wybierz dwie —"
 
-#: ../../BRO.rst:37
+#: ../../BRO.rst:53
 msgid "Create a 2/2 colorless Construct artifact creature token."
 msgstr "Stwórz żeton bezkolorowego artefaktowego stwora Konstrukt 2/2."
 
-#: ../../BRO.rst:39
+#: ../../BRO.rst:55
 msgid ""
 "Put a +1/+1 counter on a creature you control. It gains double strike until "
 "end of turn."
@@ -348,7 +401,7 @@ msgstr ""
 "Umieść znacznik +1/+1 na stworze pod twoim władaniem. Do końca tury zyskuje "
 "on podwójny cios."
 
-#: ../../BRO.rst:41
+#: ../../BRO.rst:57
 msgid ""
 "Search your library for a basic Plains card, reveal it, put it into your "
 "hand, then shuffle."
@@ -356,18 +409,18 @@ msgstr ""
 "Wyszukaj w twojej bibliotece kartę bazowej Równiny, ujawnij ją, umieść ją w "
 "twojej ręce, po czym przetasuj."
 
-#: ../../BRO.rst:43
+#: ../../BRO.rst:59
 msgid "You gain 2 life and scry 2."
 msgstr "Zyskaj 2 życia i wróż 2."
 
-#: ../../BRO.rst:48
+#: ../../BRO.rst:64
 msgid ""
 ":mtgtip:`Kayla's Reconstruction<https://cards.scryfall.io/border_crop/"
 "front/2/b/2bb84e72-0231-461a-a230-d8afa6e54289.jpg?1667373882|https://"
 "scryfall.com/card/bro/10/kaylas-reconstruction?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:47
+#: ../../BRO.rst:63
 msgid ""
 "Look at the top seven cards of your library. Put up to X artifact and/or "
 "creature cards with mana value 3 or less from among them onto the "
@@ -377,31 +430,32 @@ msgstr ""
 "najwyżej X kart artefaktów i/lub stworów o skrótach many 3 lub mniej na polu "
 "bitwy. Umieść pozostałe losowo na spodzie twojej biblioteki."
 
-#: ../../BRO.rst:52
+#: ../../BRO.rst:68
 msgid ""
 ":mtgtip:`Lay Down Arms<https://cards.scryfall.io/border_crop/"
 "front/5/6/5649ee5a-4485-40a2-96d1-2e061905a71e.jpg?1667289088|https://"
 "scryfall.com/card/bro/11/lay-down-arms?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:51
+#: ../../BRO.rst:67
 msgid ""
 "Exile target creature with mana value less than or equal to the number of "
 "Plains you control. Its controller gains 3 life."
 msgstr ""
 
-#: ../../BRO.rst:60
+#: ../../BRO.rst:76
 msgid ""
 ":mtgtip:`Loran of the Third Path<https://cards.scryfall.io/border_crop/"
 "front/5/9/59faa45d-868b-4bc7-934c-0e077642e129.jpg?1667262021|https://"
 "scryfall.com/card/bro/12/loran-of-the-third-path?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:55 ../../BRO.rst:129 ../../BRO.rst:285 ../../BRO.rst:1099
+#: ../../BRO.rst:71 ../../BRO.rst:111 ../../BRO.rst:185 ../../BRO.rst:391
+#: ../../BRO.rst:1473
 msgid "Vigilance"
 msgstr "Czujność"
 
-#: ../../BRO.rst:57
+#: ../../BRO.rst:73
 msgid ""
 "When Loran of the Third Path enters the battlefield, destroy up to one "
 "target artifact or enchantment."
@@ -409,43 +463,100 @@ msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, zniszcz co najwyżej jeden wskazany "
 "artefakt lub urok."
 
-#: ../../BRO.rst:59
+#: ../../BRO.rst:75
 msgid "|tap|: You and target opponent each draw a card."
 msgstr ""
 
-#: ../../BRO.rst:64
+#: ../../BRO.rst:80
 msgid ""
 ":mtgtip:`Loran, Disciple of History<https://cards.scryfall.io/border_crop/"
 "front/9/9/9998f898-1f08-481b-8505-b890f0fec5e0.jpg?1667469300|https://"
 "scryfall.com/card/bro/13/loran-disciple-of-history?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:63
+#: ../../BRO.rst:79
 msgid ""
 "Whenever Loran, Disciple of History or another legendary creature enters the "
 "battlefield under your control, return target artifact card from your "
 "graveyard to your hand."
 msgstr ""
 
-#: ../../BRO.rst:68
+#: ../../BRO.rst:84
+msgid ""
+":mtgtip:`Loran's Escape<https://cards.scryfall.io/border_crop/"
+"front/3/7/3765610d-a0c1-4de9-a81b-ffa3eb06454b.jpg?1667561619|https://"
+"scryfall.com/card/bro/14/lorans-escape?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:83
+#, fuzzy
+#| msgid "Target creature gets +X/+0 and gains haste until end of turn."
+msgid ""
+"Target artifact or creature gains hexproof and indestructible until end of "
+"turn. Scry 1."
+msgstr "Wskazany stwór do końca tury dostaje +X/+0 i pośpiech."
+
+#: ../../BRO.rst:88
 msgid ""
 ":mtgtip:`Mass Production<https://cards.scryfall.io/border_crop/"
 "front/6/4/640a08b7-dd30-446e-a8a7-2e084bbb9586.jpg?1667377042|https://"
 "scryfall.com/card/bro/15/mass-production?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:67
+#: ../../BRO.rst:87
 msgid "Create four 1/1 colorless Soldier artifact creature tokens."
 msgstr "Stwórz cztery żetony bezkolorowego artefaktowego stwora Piechur 1/1."
 
-#: ../../BRO.rst:74
+#: ../../BRO.rst:92
+msgid ""
+":mtgtip:`Meticulous Excavation<https://cards.scryfall.io/border_crop/front/"
+"e/8/e811461a-6a90-416f-940c-c9579659ae0c.jpg?1667539149|https://scryfall.com/"
+"card/bro/16/meticulous-excavation?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:91
+msgid ""
+"|mana_2|\\ |mana_w|: Return target permanent you control to its owner's "
+"hand. If it has unearth, instead exile it, then return that card to its "
+"owner's hand. Activate only during your turn."
+msgstr ""
+
+#: ../../BRO.rst:102
+msgid ""
+":mtgtip:`Military Discipline<https://cards.scryfall.io/border_crop/"
+"front/9/4/94778e17-87c4-4765-b2f0-40455069f2c4.jpg?1667561678|https://"
+"scryfall.com/card/bro/17/military-discipline?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:97 ../../BRO.rst:121 ../../BRO.rst:365 ../../BRO.rst:763
+#: ../../BRO.rst:839 ../../BRO.rst:1011 ../../BRO.rst:1023
+msgid "Enchant creature"
+msgstr "Zaurocz stwora"
+
+#: ../../BRO.rst:99
+#, fuzzy
+#| msgid ""
+#| "Whenever an artifact enters the battlefield under your control, target "
+#| "creature gains flying until end of turn."
+msgid ""
+"When Military Discipline enters the battlefield, enchanted creature gains "
+"first strike until end of turn."
+msgstr ""
+"Ilekroć artefakt wejdzie na pole bitwy pod twoim władaniem, wskazany stwór "
+"do końca tury zyskuje latanie."
+
+#: ../../BRO.rst:101
+msgid "Enchanted creature gets +1/+0."
+msgstr "Zauroczony stwór dostaje +1/+0."
+
+#: ../../BRO.rst:108
 msgid ""
 ":mtgtip:`Myrel, Shield of Argive<https://cards.scryfall.io/border_crop/front/"
 "e/6/e632ed57-bb00-4493-adef-7b4805edd7ea.jpg?1667393022|https://scryfall.com/"
 "card/bro/18/myrel-shield-of-argive?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:71
+#: ../../BRO.rst:105
 msgid ""
 "During your turn, your opponents can't cast spells or activate abilities of "
 "artifacts, creatures, or enchantments."
@@ -453,20 +564,39 @@ msgstr ""
 "Podczas twojej tury twoi przeciwnicy nie mogą rzucać czarów ani aktywować "
 "zdolności artefaktów, stworów lub uroków."
 
-#: ../../BRO.rst:73
+#: ../../BRO.rst:107
 msgid ""
 "Whenever Myrel, Shield of Argive attacks, create X 1/1 colorless Soldier "
 "artifact creature tokens, where X is the number of Soldiers you control."
 msgstr ""
 
-#: ../../BRO.rst:78
+#: ../../BRO.rst:114
+msgid ""
+":mtgtip:`Phalanx Vanguard<https://cards.scryfall.io/border_crop/front/2/"
+"a/2abe2af7-deba-4569-822a-2d9309aeaadd.jpg?1667523527|https://scryfall.com/"
+"card/bro/19/phalanx-vanguard?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:113
+#, fuzzy
+#| msgid ""
+#| "Whenever an artifact enters the battlefield under your control, target "
+#| "creature gains flying until end of turn."
+msgid ""
+"Whenever an artifact enters the battlefield under your control, Phalanx "
+"Vanguard gets +1/+0 until end of turn."
+msgstr ""
+"Ilekroć artefakt wejdzie na pole bitwy pod twoim władaniem, wskazany stwór "
+"do końca tury zyskuje latanie."
+
+#: ../../BRO.rst:118
 msgid ""
 ":mtgtip:`Powerstone Engineer<https://cards.scryfall.io/border_crop/"
 "front/2/9/2901c5f6-5d83-437d-b434-d9beb115dd82.jpg?1667467116|https://"
 "scryfall.com/card/bro/20/powerstone-engineer?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:77
+#: ../../BRO.rst:117
 msgid ""
 "When Powerstone Engineer dies, create a tapped Powerstone token. (It's an "
 "artifact with \"|tap|: Add |colorless|. This mana can't be spent to cast a "
@@ -476,14 +606,49 @@ msgstr ""
 "\"|tap|: Weź |colorless|. Ta mana nie może być wydana na rzucenie "
 "nieartefaktowego czaru.\")"
 
-#: ../../BRO.rst:82
+#: ../../BRO.rst:126
+msgid ""
+":mtgtip:`Prison Sentence<https://cards.scryfall.io/border_crop/"
+"front/7/6/76832ca8-95b2-4bc8-a191-9e2f50b77626.jpg?1667561922|https://"
+"scryfall.com/card/bro/21/prison-sentence?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:123
+#, fuzzy
+#| msgid "When Mightstone's Animation enters the battlefield, draw a card."
+msgid "When Prison Sentence enters the battlefield, scry 2."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+
+#: ../../BRO.rst:125
+msgid ""
+"Enchanted creature can't attack or block, and its activated abilities can't "
+"be activated."
+msgstr ""
+"Zauroczony stwór nie może atakować ani blokować, a jego aktywowane zdolności "
+"nie mogą być aktywowane."
+
+#: ../../BRO.rst:130
+msgid ""
+":mtgtip:`Recommission<https://cards.scryfall.io/border_crop/front/2/"
+"a/2a64e330-1257-4ec3-9a75-889cdcac3ade.jpg?1667523464|https://scryfall.com/"
+"card/bro/22/recommission?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:129
+msgid ""
+"Return target artifact or creature card with mana value 3 or less from your "
+"graveyard to the battlefield. If a creature enters the battlefield this way, "
+"it enters with an additional +1/+1 counter on it."
+msgstr ""
+
+#: ../../BRO.rst:134
 msgid ""
 ":mtgtip:`Recruitment Officer<https://cards.scryfall.io/border_crop/front/c/2/"
 "c226656b-68d5-4df2-b313-a323a728c520.jpg?1664534215|https://scryfall.com/"
 "card/bro/23/recruitment-officer?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:81
+#: ../../BRO.rst:133
 msgid ""
 "|mana_3|\\ |mana_w|: Look at the top four cards of your library. You may "
 "reveal a creature card with mana value 3 or less from among them and put it "
@@ -494,14 +659,14 @@ msgstr ""
 "umieścić ją w twojej ręce. Umieść pozostałe losowo na spodzie twojej "
 "biblioteki."
 
-#: ../../BRO.rst:86
+#: ../../BRO.rst:138
 msgid ""
 ":mtgtip:`Repair and Recharge<https://cards.scryfall.io/border_crop/"
 "front/0/4/04ff4a4b-4e86-41d1-a6b6-312aac0d3e1a.jpg?1667301202|https://"
 "scryfall.com/card/bro/24/repair-and-recharge?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:85
+#: ../../BRO.rst:137
 msgid ""
 "Return target artifact, enchantment, or planeswalker card from your "
 "graveyard to the battlefield. Create a tapped Powerstone token. (It's an "
@@ -513,14 +678,14 @@ msgstr ""
 "Weź |colorless|. Ta mana nie może być wydana na rzucenie nieartefaktowego "
 "czaru.\")"
 
-#: ../../BRO.rst:92
+#: ../../BRO.rst:144
 msgid ""
 ":mtgtip:`Siege Veteran<https://cards.scryfall.io/border_crop/front/f/5/"
 "f57e2a32-6e52-4f6e-96ec-55f5b7ba77e0.jpg?1667433630|https://scryfall.com/"
 "card/bro/25/siege-veteran?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:89
+#: ../../BRO.rst:141
 msgid ""
 "At the beginning of combat on your turn, put a +1/+1 counter on target "
 "creature you control."
@@ -528,7 +693,7 @@ msgstr ""
 "Na początku potyczki w twojej turze, umieść znacznik +1/+1 na wskazanym "
 "stworze pod twoim władaniem."
 
-#: ../../BRO.rst:91
+#: ../../BRO.rst:143
 msgid ""
 "Whenever another nontoken Soldier you control dies, create a 1/1 colorless "
 "Soldier artifact creature token."
@@ -536,14 +701,14 @@ msgstr ""
 "Ilekroć umrze inny nieżetonowych Piechur pod twoim władaniem, stwórz żeton "
 "bezkolorowego artefaktowego stwora Piechur 1/1."
 
-#: ../../BRO.rst:96
+#: ../../BRO.rst:148
 msgid ""
 ":mtgtip:`Soul Partition<https://cards.scryfall.io/border_crop/"
 "front/2/8/28bb8ec0-9729-4aa1-8ce4-a3a5598b0d70.jpg?1667199310|https://"
 "scryfall.com/card/bro/26/soul-partition?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:95
+#: ../../BRO.rst:147
 msgid ""
 "Exile target nonland permanent. For as long as that card remains exiled, its "
 "owner may play it. A spell cast by an opponent this way costs |mana_2| more "
@@ -553,20 +718,20 @@ msgstr ""
 "go zagrać. Czar rzucony przez przeciwnika w ten sposób kosztuje o |mana_2| "
 "więcej."
 
-#: ../../BRO.rst:102
+#: ../../BRO.rst:154
 msgid ""
 ":mtgtip:`Static Net<https://cards.scryfall.io/border_crop/front/5/"
 "a/5ab5cb30-3ced-4450-a3c4-b519f3762620.jpg?1667419536|https://scryfall.com/"
 "card/bro/27/static-net?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:99
+#: ../../BRO.rst:151
 msgid ""
 "When Static Net enters the battlefield, exile target nonland permanent an "
 "opponent controls until Static Net leaves the battlefield."
 msgstr ""
 
-#: ../../BRO.rst:101
+#: ../../BRO.rst:153
 msgid ""
 "When Static Net enters the battlefield, you gain 2 life and create a tapped "
 "Powerstone token. (It's an artifact with \"|tap|: Add |colorless|. This mana "
@@ -576,30 +741,30 @@ msgstr ""
 "żeton Kamień Mocy. (To artefakt z \"|tap|: Weź |colorless|. Ta mana nie może "
 "być wydana na rzucenie nieartefaktowego czaru.\")"
 
-#: ../../BRO.rst:108
+#: ../../BRO.rst:160
 msgid ""
 ":mtgtip:`Survivor of Korlis<https://cards.scryfall.io/border_crop/"
 "front/8/1/817bcc8d-a5b7-448c-a3eb-825dc65944ec.jpg?1667301210|https://"
 "scryfall.com/card/bro/28/survivor-of-korlis?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:105 ../../BRO.rst:895
+#: ../../BRO.rst:157 ../../BRO.rst:1235
 msgid "First strike"
 msgstr "Pierwszy cios"
 
-#: ../../BRO.rst:107
+#: ../../BRO.rst:159
 msgid ""
 "|mana_1|\\ |mana_w|, Exile Survivor of Korlis from your graveyard: Scry 2."
 msgstr ""
 
-#: ../../BRO.rst:112
+#: ../../BRO.rst:164
 msgid ""
 ":mtgtip:`Thopter Architect<https://cards.scryfall.io/border_crop/"
 "front/6/1/61017325-cec0-46ac-aa32-5855e5904888.jpg?1667376509|https://"
 "scryfall.com/card/bro/29/thopter-architect?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:111
+#: ../../BRO.rst:163
 msgid ""
 "Whenever an artifact enters the battlefield under your control, target "
 "creature gains flying until end of turn."
@@ -607,14 +772,14 @@ msgstr ""
 "Ilekroć artefakt wejdzie na pole bitwy pod twoim władaniem, wskazany stwór "
 "do końca tury zyskuje latanie."
 
-#: ../../BRO.rst:116
+#: ../../BRO.rst:168
 msgid ""
 ":mtgtip:`Tocasia's Welcome<https://cards.scryfall.io/border_crop/"
 "front/5/6/56cd89f1-f9f4-4cb5-a573-79809d0b6dfd.jpg?1667089066|https://"
 "scryfall.com/card/bro/30/tocasias-welcome?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:115
+#: ../../BRO.rst:167
 msgid ""
 "Whenever one or more creatures with mana value 3 or less enter the "
 "battlefield under your control, draw a card. This ability triggers only once "
@@ -624,102 +789,120 @@ msgstr ""
 "pole bitwy pod twoim władaniem, dobierz kartę. Ta zdolność wyzwala się tylko "
 "raz na turę."
 
-#: ../../BRO.rst:120
+#: ../../BRO.rst:172
 msgid ""
 ":mtgtip:`Union of the Third Path<https://cards.scryfall.io/border_crop/"
 "front/4/8/486a0745-7360-4cc9-9cc2-30c0eda6e00c.jpg?1667373122|https://"
 "scryfall.com/card/bro/31/union-of-the-third-path?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:119
+#: ../../BRO.rst:171
 msgid ""
 "Draw a card, then you gain life equal to the number of cards in your hand."
 msgstr "Dobierz kartę, po czym zyskaj życia równe liczbie kart w twojej ręce."
 
-#: ../../BRO.rst:124
+#: ../../BRO.rst:176
+msgid ""
+":mtgtip:`Warlord's Elite<https://cards.scryfall.io/border_crop/"
+"front/1/8/1873cc9e-30b6-498e-b008-9d11a8bbf9b9.jpg?1667572595|https://"
+"scryfall.com/card/bro/32/warlords-elite?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:175
+#, fuzzy
+#| msgid ""
+#| "As an additional cost to cast this spell, sacrifice an artifact or "
+#| "creature."
+msgid ""
+"As an additional cost to cast this spell, tap two untapped artifacts, "
+"creatures, and/or lands you control."
+msgstr ""
+"Jako dodatkowy koszt rzucenia tego czaru — poświęć artefakt lub stwora."
+
+#: ../../BRO.rst:180
 msgid ""
 ":mtgtip:`Yotian Medic<https://cards.scryfall.io/border_crop/front/f/2/"
 "f21b9c48-6eca-4677-961b-614f5ec594ce.jpg?1667143642|https://scryfall.com/"
 "card/bro/33/yotian-medic?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:123
+#: ../../BRO.rst:179
 msgid "Lifelink"
 msgstr "Więź życia"
 
-#: ../../BRO.rst:132
+#: ../../BRO.rst:188
 msgid ""
 ":mtgtip:`Autonomous Assembler<https://cards.scryfall.io/border_crop/front/"
 "d/5/d5dee863-e6ef-4061-a877-ddd3c4dbe87e.jpg?1667400301|https://scryfall.com/"
 "card/bro/34/autonomous-assembler?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:127
+#: ../../BRO.rst:183
 msgid ""
 "Prototype |mana_1|\\ |mana_w| — 2/2 (You may cast this spell with different "
 "mana cost, color, and size. It keeps its abilities and types.)"
 msgstr ""
 
-#: ../../BRO.rst:131
+#: ../../BRO.rst:187
 msgid ""
 "|mana_1|, |tap|: Put a +1/+1 counter on target Assembly-Worker you control."
 msgstr ""
 "|mana_1|, |tap|: Umieść znacznik +1/+1 na wskazanym Składaczu pod twoim "
 "władaniem."
 
-#: ../../BRO.rst:140
+#: ../../BRO.rst:196
 msgid ""
 ":mtgtip:`Combat Thresher<https://cards.scryfall.io/border_crop/"
 "front/7/4/74dfabfd-e13b-4512-a733-abe514be6404.jpg?1667288625|https://"
 "scryfall.com/card/bro/35/combat-thresher?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:135
+#: ../../BRO.rst:191
 msgid ""
 "Prototype |mana_2|\\ |mana_w| — 1/1 (You may cast this spell with different "
 "mana cost, color, and size. It keeps its abilities and types.)"
 msgstr ""
 
-#: ../../BRO.rst:137 ../../BRO.rst:693
+#: ../../BRO.rst:193 ../../BRO.rst:957
 msgid "Double strike"
 msgstr "Podwójny cios"
 
-#: ../../BRO.rst:139
+#: ../../BRO.rst:195
 msgid "When Combat Thresher enters the battlefield, draw a card."
 msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
-#: ../../BRO.rst:148
+#: ../../BRO.rst:204
 msgid ""
 ":mtgtip:`Platoon Dispenser<https://cards.scryfall.io/border_crop/front/6/"
-"c/6c4825e3-c549-4bcb-84b5-2d0782c5c4e5.jpg?1667430859|https://scryfall.com/"
+"c/6c4825e3-c549-4bcb-84b5-2d0782c5c4e5.jpg?1667480120|https://scryfall.com/"
 "card/bro/36/platoon-dispenser?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:143
+#: ../../BRO.rst:199
 msgid ""
 "At the beginning of your end step, if you control two or more other "
 "creatures, draw a card."
 msgstr ""
 
-#: ../../BRO.rst:145
+#: ../../BRO.rst:201
 msgid ""
 "|mana_3|\\ |mana_w|: Create a 1/1 colorless Soldier artifact creature token."
 msgstr ""
 "|mana_3|\\ |mana_w|: Stwórz żeton bezkolorowego artefaktowego stwora Piechur "
 "1/1."
 
-#: ../../BRO.rst:147
+#: ../../BRO.rst:203
 msgid "Unearth |mana_2|\\ |mana_w|\\ |mana_w|"
 msgstr "Odkopanie |mana_2|\\ |mana_w|\\ |mana_w|"
 
-#: ../../BRO.rst:154
+#: ../../BRO.rst:210
 msgid ""
 ":mtgtip:`Scrapwork Cohort<https://cards.scryfall.io/border_crop/"
 "front/9/1/91b0f17e-603a-4840-b2c3-381ec6f102f3.jpg?1666927557|https://"
 "scryfall.com/card/bro/37/scrapwork-cohort?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:151
+#: ../../BRO.rst:207
 msgid ""
 "When Scrapwork Cohort enters the battlefield, create a 1/1 colorless Soldier "
 "artifact creature token."
@@ -727,7 +910,7 @@ msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, stwórz żeton bezkolorowego "
 "artefaktowego stwora Piechur 1/1."
 
-#: ../../BRO.rst:153
+#: ../../BRO.rst:209
 msgid ""
 "Unearth |mana_2|\\ |mana_w| (|mana_2|\\ |mana_w|: Return this card from your "
 "graveyard to the battlefield. It gains haste. Exile it at the beginning of "
@@ -739,37 +922,37 @@ msgstr ""
 "najbliższego kroku końcowego lub gdyby miała opuścić pole bitwy. Aktywuj "
 "tylko jako obrzęd.)"
 
-#: ../../BRO.rst:162
+#: ../../BRO.rst:218
 msgid ""
 ":mtgtip:`Steel Seraph<https://cards.scryfall.io/border_crop/front/1/"
 "b/1b6ef5f5-4058-4f89-a573-9e2da87a9f2e.jpg?1667430684|https://scryfall.com/"
 "card/bro/38/steel-seraph?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:157
+#: ../../BRO.rst:213
 msgid ""
 "Prototype |mana_1|\\ |mana_w|\\ |mana_w| — 3/3 (You may cast this spell with "
 "different mana cost, color, and size. It keeps its abilities and types.)"
 msgstr ""
 
-#: ../../BRO.rst:161
+#: ../../BRO.rst:217
 msgid ""
 "At the beginning of combat on your turn, target creature you control gains "
 "your choice of flying, vigilance, or lifelink until end of turn."
 msgstr ""
 
-#: ../../BRO.rst:168
+#: ../../BRO.rst:224
 msgid ""
 ":mtgtip:`Tocasia's Onulet<https://cards.scryfall.io/border_crop/front/e/4/"
 "e4abf2fb-f78a-4e75-b46f-524d3d7405db.jpg?1667309952|https://scryfall.com/"
 "card/bro/39/tocasias-onulet?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:165
+#: ../../BRO.rst:221
 msgid "When Tocasia's Onulet leaves the battlefield, you gain 2 life."
 msgstr "Kiedy ten byt opuści pole bitwy, zyskaj 2 życia."
 
-#: ../../BRO.rst:167
+#: ../../BRO.rst:223
 msgid ""
 "Unearth |mana_3|\\ |mana_w| (|mana_3|\\ |mana_w|: Return this card from your "
 "graveyard to the battlefield. It gains haste. Exile it at the beginning of "
@@ -781,14 +964,14 @@ msgstr ""
 "najbliższego kroku końcowego lub gdyby miała opuścić pole bitwy. Aktywuj "
 "tylko jako obrzęd.)"
 
-#: ../../BRO.rst:174
+#: ../../BRO.rst:230
 msgid ""
 ":mtgtip:`Urza's Sylex<https://cards.scryfall.io/border_crop/"
 "front/3/0/3000d1c6-dbb3-4e65-b428-dbf167bb8797.jpg?1667140926|https://"
 "scryfall.com/card/bro/40/urzas-sylex?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:171
+#: ../../BRO.rst:227
 msgid ""
 "|mana_2|\\ |mana_w|\\ |mana_w|, |tap|, Exile Urza's Sylex: Each player "
 "chooses six lands they control. Destroy all other permanents. Activate only "
@@ -798,21 +981,44 @@ msgstr ""
 "sześć lądów pod swoim władaniem. Zniszcz wszystkie inne byty. Aktywuj tylko "
 "jako obrzęd."
 
-#: ../../BRO.rst:173
+#: ../../BRO.rst:229
 msgid ""
 "When Urza's Sylex is put into exile from the battlefield, you may pay |"
 "mana_2|. If you do, search your library for a planeswalker card, reveal it, "
 "put it into your hand, then shuffle."
 msgstr ""
 
-#: ../../BRO.rst:180
+#: ../../BRO.rst:238
+msgid ""
+":mtgtip:`Veteran's Powerblade<https://cards.scryfall.io/border_crop/"
+"front/6/4/64d823e1-a7d6-4296-94c8-b8ba9b4daa38.jpg?1667523372|https://"
+"scryfall.com/card/bro/41/veterans-powerblade?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:233 ../../BRO.rst:733
+msgid "Equipped creature gets +2/+0."
+msgstr "Wyposażony stwór dostaje +2/+0."
+
+#: ../../BRO.rst:235
+msgid "Equip Soldier |mana_w|"
+msgstr ""
+
+#: ../../BRO.rst:237 ../../BRO.rst:1353 ../../BRO.rst:1501
+msgid ""
+"Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip only "
+"as a sorcery.)"
+msgstr ""
+"Wyposaż |mana_2| (|mana_2|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Aktywuj tylko jako obrzęd.)"
+
+#: ../../BRO.rst:244
 msgid ""
 ":mtgtip:`Yotian Frontliner<https://cards.scryfall.io/border_crop/front/b/f/"
 "bfa05d1e-6728-4e77-bfb2-da0b9598e44b.jpg?1667328178|https://scryfall.com/"
 "card/bro/42/yotian-frontliner?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:177
+#: ../../BRO.rst:241
 msgid ""
 "Whenever Yotian Frontliner attacks, another target creature you control gets "
 "+1/+1 until end of turn."
@@ -820,7 +1026,7 @@ msgstr ""
 "Ilekroć niniejszy zaatakuje, inny wskazany stwór pod twoim władaniem do "
 "końca tury dostaje +1/+1."
 
-#: ../../BRO.rst:179
+#: ../../BRO.rst:243
 msgid ""
 "Unearth |mana_w| (|mana_w|: Return this card from your graveyard to the "
 "battlefield. It gains haste. Exile it at the beginning of the next end step "
@@ -830,21 +1036,90 @@ msgstr ""
 "bitwy. Zyskuje ona pośpiech. Wygnaj ją na początku najbliższego kroku "
 "końcowego lub gdyby miała opuścić pole bitwy. Aktywuj tylko jako obrzęd.)"
 
-#: ../../BRO.rst:186
+#: ../../BRO.rst:248
+msgid ""
+":mtgtip:`Air Marshal<https://cards.scryfall.io/border_crop/"
+"front/9/9/991e1a6c-914b-45c8-9170-c09e72696117.jpg?1667562076|https://"
+"scryfall.com/card/bro/43/air-marshal?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:247
+#, fuzzy
+#| msgid "|mana_r|: Tyrant of Kher Ridges gets +1/+0 until end of turn."
+msgid "|mana_3|: Target Soldier gains flying until end of turn."
+msgstr "|mana_r|: Ten stwór do końca tury dostaje +1/+0."
+
+#: ../../BRO.rst:254
+msgid ""
+":mtgtip:`Curate<https://cards.scryfall.io/border_crop/front/f/e/fe8c3fc8-"
+"c1cc-4dfc-94cb-1538bff9d09a.jpg?1667562124|https://scryfall.com/card/bro/44/"
+"curate?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:251
+msgid ""
+"Surveil 2. (Look at the top two cards of your library, then put any number "
+"of them into your graveyard and the rest on top of your library in any "
+"order.)"
+msgstr ""
+"Szpieguj 2. (Spójrz na dwie wierzchnie karty twojej biblioteki, po czym "
+"umieść dowolne z nich w twoim cmentarzu, a pozostałe dowolnie na wierzchu "
+"twojej biblioteki.)"
+
+#: ../../BRO.rst:253 ../../BRO.rst:639
+msgid "Draw a card."
+msgstr "Dobierz kartę."
+
+#: ../../BRO.rst:262
+msgid ""
+":mtgtip:`Defabricate<https://cards.scryfall.io/border_crop/front/7/"
+"d/7dd32168-0b9c-4633-adec-d41cf125cc35.jpg?1667485145|https://scryfall.com/"
+"card/bro/45/defabricate?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:257 ../../BRO.rst:411 ../../BRO.rst:607 ../../BRO.rst:751
+#: ../../BRO.rst:845 ../../BRO.rst:1037
+msgid "Choose one —"
+msgstr "Wybierz jedno —"
+
+#: ../../BRO.rst:259
+msgid ""
+"Counter target artifact or enchantment spell. If a spell is countered this "
+"way, exile it instead of putting it into its owner's graveyard."
+msgstr ""
+
+#: ../../BRO.rst:261
+msgid "Counter target activated or triggered ability."
+msgstr "Skontruj wskazaną aktywowaną lub wyzwalaną zdolność."
+
+#: ../../BRO.rst:266
+msgid ""
+":mtgtip:`Desynchronize<https://cards.scryfall.io/border_crop/"
+"front/4/6/46e101e5-2b20-48dd-aac4-15a3c32a7441.jpg?1667562192|https://"
+"scryfall.com/card/bro/46/desynchronize?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:265
+msgid ""
+"Target nonland permanent's owner puts it on the top or bottom of their "
+"library. Scry 2."
+msgstr ""
+
+#: ../../BRO.rst:272
 msgid ""
 ":mtgtip:`Drafna, Founder of Lat-Nam<https://cards.scryfall.io/border_crop/"
 "front/f/7/f7355905-2b3b-4191-a89c-a0fc1494928b.jpg?1667109534|https://"
 "scryfall.com/card/bro/47/drafna-founder-of-lat-nam?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:183
+#: ../../BRO.rst:269
 msgid ""
 "|mana_1|\\ |mana_u|: Return target artifact you control to its owner's hand."
 msgstr ""
 "|mana_1|\\ |mana_u|: Przywróć wskazany artefakt pod twoim władaniem do ręki "
 "właściciela."
 
-#: ../../BRO.rst:185
+#: ../../BRO.rst:271
 msgid ""
 "|mana_3|, |tap|: Copy target artifact spell you control. (The copy becomes a "
 "token.)"
@@ -852,14 +1127,14 @@ msgstr ""
 "|mana_3|, |tap|: Skopiuj wskazany czar artefaktu pod twoim władaniem. (Kopia "
 "staje się żetonem.)"
 
-#: ../../BRO.rst:190
+#: ../../BRO.rst:276
 msgid ""
 ":mtgtip:`Fallaji Archaeologist<https://cards.scryfall.io/border_crop/front/"
 "b/0/b0eab397-25a6-4377-8e12-e8acef9675cf.jpg?1667328259|https://scryfall.com/"
 "card/bro/48/fallaji-archaeologist?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:189
+#: ../../BRO.rst:275
 msgid ""
 "When Fallaji Archaeologist enters the battlefield, mill three cards. You may "
 "put a noncreature, nonland card from among the cards milled this way into "
@@ -867,26 +1142,26 @@ msgid ""
 "mill a card, put the top card of your library into your graveyard.)"
 msgstr ""
 
-#: ../../BRO.rst:194
+#: ../../BRO.rst:280
 msgid ""
 ":mtgtip:`Flow of Knowledge<https://cards.scryfall.io/border_crop/front/5/"
 "e/5ea316f3-4a68-4cd4-a388-da9d0455d0a9.jpg?1667289240|https://scryfall.com/"
 "card/bro/49/flow-of-knowledge?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:193
+#: ../../BRO.rst:279
 msgid "Draw a card for each Island you control, then discard two cards."
 msgstr ""
 "Dobierz kartę za każdą Wyspę pod twoim władaniem, po czym odrzuć dwie karty."
 
-#: ../../BRO.rst:198
+#: ../../BRO.rst:284
 msgid ""
 ":mtgtip:`Forging the Anchor<https://cards.scryfall.io/border_crop/"
 "front/0/5/057f6add-1f1d-4cce-9c9d-5e59fb74d78e.jpg?1667433364|https://"
 "scryfall.com/card/bro/50/forging-the-anchor?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:197
+#: ../../BRO.rst:283
 msgid ""
 "Look at the top five cards of your library. You may reveal any number of "
 "artifact cards from among them and put the revealed cards into your hand. "
@@ -896,14 +1171,14 @@ msgstr ""
 "ujawnić dowolną liczbę kart artefaktów i umieścić owe ujawnione karty w "
 "twojej ręce. Umieść pozostałe losowo na spodzie twojej biblioteki."
 
-#: ../../BRO.rst:202
+#: ../../BRO.rst:288
 msgid ""
 ":mtgtip:`Hurkyl, Master Wizard<https://cards.scryfall.io/border_crop/front/5/"
 "f/5fcee066-425f-4341-bde5-13a5bdf06f2a.jpg?1666929501|https://scryfall.com/"
 "card/bro/51/hurkyl-master-wizard?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:201
+#: ../../BRO.rst:287
 msgid ""
 "At the beginning of your end step, if you've cast a noncreature spell this "
 "turn, reveal the top five cards of your library. For each card type among "
@@ -917,19 +1192,19 @@ msgstr ""
 "umieścić kartę owego typu spośród ujawnionych kart w twojej ręce. Umieść "
 "pozostałe losowo na spodzie twojej biblioteki."
 
-#: ../../BRO.rst:208
+#: ../../BRO.rst:294
 msgid ""
 ":mtgtip:`Hurkyl's Final Meditation<https://cards.scryfall.io/border_crop/"
 "front/5/5/5577f345-9577-42f8-b244-089b9a7c2e56.jpg?1667373835|https://"
 "scryfall.com/card/bro/52/hurkyls-final-meditation?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:205
+#: ../../BRO.rst:291
 msgid "As long as it's not your turn, this spell costs |mana_3| more to cast."
 msgstr ""
 "O ile nie jest twoja tura, rzucenie tego czaru kosztuje o |mana_3| więcej."
 
-#: ../../BRO.rst:207
+#: ../../BRO.rst:293
 msgid ""
 "Return all nonland permanents to their owner's hands. End the turn. (Exile "
 "all spells and abilities from the stack, including this card. The player "
@@ -941,101 +1216,163 @@ msgstr ""
 "Gracz, którego jest tura, odrzuca karty do swojego limitu kart na ręce. "
 "Obrażenia znikają, a efekty \"w tej turze\" i \"do końca tury\" kończą się.)"
 
-#: ../../BRO.rst:212
+#: ../../BRO.rst:298
+msgid ""
+":mtgtip:`Involuntary Cooldown<https://cards.scryfall.io/border_crop/front/"
+"d/4/d4fcaf6d-6491-4459-98b0-b3c7d43df59e.jpg?1667562346|https://scryfall.com/"
+"card/bro/53/involuntary-cooldown?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:297
+msgid ""
+"Tap up to two target artifacts and/or creatures. Put two stun counters on "
+"each of them. (If a permanent with a stun counter would become untapped, "
+"remove one from it instead.)"
+msgstr ""
+
+#: ../../BRO.rst:302
 msgid ""
 ":mtgtip:`Keeper of the Cadence<https://cards.scryfall.io/border_crop/"
 "front/0/9/09200388-47c9-4472-ac9e-98f57653e084.jpg?1667430613|https://"
 "scryfall.com/card/bro/54/keeper-of-the-cadence?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:211
+#: ../../BRO.rst:301
 msgid ""
 "|mana_3|: Put target artifact, instant, or sorcery card from a graveyard on "
 "the bottom of its owner's library."
 msgstr ""
 
-#: ../../BRO.rst:216
+#: ../../BRO.rst:310
+msgid ""
+":mtgtip:`Koilos Roc<https://cards.scryfall.io/border_crop/front/e/b/ebdbcb87-"
+"c6ea-477f-a560-c175d99e21b8.jpg?1667523810|https://scryfall.com/card/bro/55/"
+"koilos-roc?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:309
+#, fuzzy
+#| msgid ""
+#| "Draw two cards, then discard a card. Create a tapped Powerstone token. "
+#| "(It's an artifact with \"|tap|: Add |colorless|. This mana can't be spent "
+#| "to cast a nonartifact spell.\")"
+msgid ""
+"When Koilos Roc enters the battlefield, create a tapped Powerstone token. "
+"(It's an artifact with \"|tap|: Add |colorless|. This mana can't be spent to "
+"cast a nonartifact spell.\")"
+msgstr ""
+"Dobierz dwie karty, po czym odrzuć kartę. Stwórz przekręcony żeton Kamień "
+"Mocy. (To artefakt z \"|tap|: Weź |colorless|. Ta mana nie może być wydana "
+"na rzucenie nieartefaktowego czaru.\")"
+
+#: ../../BRO.rst:314
 msgid ""
 ":mtgtip:`Lat-Nam Adept<https://cards.scryfall.io/border_crop/front/a/1/"
 "a1e088de-e99f-4706-89e0-a7efdaf9403a.jpg?1667374032|https://scryfall.com/"
 "card/bro/56/lat-nam-adept?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:215
+#: ../../BRO.rst:313
 msgid ""
 "Whenever you draw your second card each turn, put a +1/+1 counter on Lat-Nam "
 "Adept."
 msgstr ""
 
-#: ../../BRO.rst:222
+#: ../../BRO.rst:320
 msgid ""
 ":mtgtip:`Machine Over Matter<https://cards.scryfall.io/border_crop/front/d/0/"
 "d08eadf5-a86d-4e8d-b65d-79b4f88477b9.jpg?1667372178|https://scryfall.com/"
 "card/bro/57/machine-over-matter?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:219
+#: ../../BRO.rst:317
 msgid ""
 "This spell costs |mana_1| less to cast if you control an artifact creature."
 msgstr ""
 "Rzucenie tego czaru kosztuje o |mana_1| mniej jeśli władasz artefaktowym "
 "stworem."
 
-#: ../../BRO.rst:221
+#: ../../BRO.rst:319
 msgid "Return target nonland permanent to its owner's hand."
 msgstr "Przywróć wskazany nie-lądowy byt do ręki właściciela."
 
-#: ../../BRO.rst:230
+#: ../../BRO.rst:328
 msgid ""
 ":mtgtip:`Mightstone's Animation<https://cards.scryfall.io/border_crop/"
 "front/8/c/8c540e42-22e2-4127-bbd9-2e9200023fec.jpg?1667328460|https://"
 "scryfall.com/card/bro/58/mightstones-animation?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:225
+#: ../../BRO.rst:323
 msgid "Enchant artifact"
 msgstr "Zaurocz artefakt"
 
-#: ../../BRO.rst:227
+#: ../../BRO.rst:325
 msgid "When Mightstone's Animation enters the battlefield, draw a card."
 msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
-#: ../../BRO.rst:229
+#: ../../BRO.rst:327
 msgid ""
 "Enchanted artifact is a creature with base power and toughness 4/4 in "
 "addition to its other types."
 msgstr ""
 
-#: ../../BRO.rst:238
+#: ../../BRO.rst:336
 msgid ""
 ":mtgtip:`One with the Multiverse<https://cards.scryfall.io/border_crop/"
 "front/7/8/7868529f-8abb-4b1d-9c04-e628f81e08d2.jpg?1667373976|https://"
 "scryfall.com/card/bro/59/one-with-the-multiverse?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:233
+#: ../../BRO.rst:331
 msgid "You may look at the top card of your library any time."
 msgstr ""
 "Możesz patrzeć na wierzchnią kartę twojej biblioteki w dowolnym momencie."
 
-#: ../../BRO.rst:235
+#: ../../BRO.rst:333
 msgid "You may play lands and cast spells from the top of your library."
 msgstr "Możesz zagrywać lądy i rzucać czary z wierzchu twojej biblioteki."
 
-#: ../../BRO.rst:237
+#: ../../BRO.rst:335
 msgid ""
 "Once during each of your turns, you may cast a spell from your hand or the "
 "top of your library without paying its mana cost."
 msgstr ""
 
-#: ../../BRO.rst:246
+#: ../../BRO.rst:340
+msgid ""
+":mtgtip:`Retrieval Agent<https://cards.scryfall.io/border_crop/front/f/3/"
+"f333a7b1-936e-42f3-ba22-2c76dd2f1c9a.jpg?1667562414|https://scryfall.com/"
+"card/bro/60/retrieval-agent?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:339
+#, fuzzy
+#| msgid "|mana_5|: Creatures you control get +1/+1 until end of turn."
+msgid "|mana_2|: Retrieval Agent gets +1/-1 until end of turn."
+msgstr "|mana_5|: Stwory pod twoim władaniem do końca tury dostają +1/+1."
+
+#: ../../BRO.rst:344
+msgid ""
+":mtgtip:`Scatter Ray<https://cards.scryfall.io/border_crop/front/1/"
+"c/1c2852c9-d566-4824-836a-2f4c7a5148a1.jpg?1667562531|https://scryfall.com/"
+"card/bro/61/scatter-ray?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:343
+msgid ""
+"COunter target artifact or creature spell unless its controller pays |"
+"mana_4|."
+msgstr ""
+
+#: ../../BRO.rst:352
 msgid ""
 ":mtgtip:`Skystrike Officer<https://cards.scryfall.io/border_crop/"
 "front/9/2/925fa343-d9c3-4ed9-bd1f-aaa31c0badd7.jpg?1667430831|https://"
 "scryfall.com/card/bro/62/skystrike-officer?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:243
+#: ../../BRO.rst:349
 msgid ""
 "Whenever Skystrike Officer attacks, create a 1/1 colorless Soldier artifact "
 "creature token."
@@ -1043,22 +1380,22 @@ msgstr ""
 "Kiedy niniejszy zaatakuje, stwórz żeton bezkolorowego artefaktowego stwora "
 "Piechur 1/1."
 
-#: ../../BRO.rst:245
+#: ../../BRO.rst:351
 msgid "Tap three untapped Soldiers you control: Draw a card."
 msgstr ""
 
-#: ../../BRO.rst:252
+#: ../../BRO.rst:358
 msgid ""
 ":mtgtip:`Splitting the Powerstone<https://cards.scryfall.io/border_crop/"
 "front/5/6/569dab90-a0d8-4c0a-8e32-b2cb3aec39a6.jpg?1666927787|https://"
 "scryfall.com/card/bro/63/splitting-the-powerstone?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:249
+#: ../../BRO.rst:355
 msgid "As an additional cost to cast this spell, sacrifice an artifact."
 msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć artefakt."
 
-#: ../../BRO.rst:251
+#: ../../BRO.rst:357
 msgid ""
 "Create two tapped Powerstone tokens. If the sacrificed artifact was "
 "legendary, draw a card. (The tokens are artifacts with \"|tap|: Add |"
@@ -1069,14 +1406,14 @@ msgstr ""
 "colorless|. Ta mana nie może być wydana na rzucenie nieartefaktowego czaru."
 "\")"
 
-#: ../../BRO.rst:256
+#: ../../BRO.rst:362
 msgid ""
 ":mtgtip:`Stern Lesson<https://cards.scryfall.io/border_crop/"
 "front/3/1/3151caa2-10ed-4f30-83eb-cd1bd3f642ce.jpg?1667089703|https://"
 "scryfall.com/card/bro/64/stern-lesson?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:255
+#: ../../BRO.rst:361
 msgid ""
 "Draw two cards, then discard a card. Create a tapped Powerstone token. (It's "
 "an artifact with \"|tap|: Add |colorless|. This mana can't be spent to cast "
@@ -1086,41 +1423,36 @@ msgstr ""
 "Mocy. (To artefakt z \"|tap|: Weź |colorless|. Ta mana nie może być wydana "
 "na rzucenie nieartefaktowego czaru.\")"
 
-#: ../../BRO.rst:262
+#: ../../BRO.rst:368
 msgid ""
 ":mtgtip:`Take Flight<https://cards.scryfall.io/border_crop/"
 "front/4/6/46a2108e-e45e-4b21-a03b-5f644b6043be.jpg?1667430766|https://"
 "scryfall.com/card/bro/65/take-flight?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:259 ../../BRO.rst:547 ../../BRO.rst:605 ../../BRO.rst:741
-#: ../../BRO.rst:753
-msgid "Enchant creature"
-msgstr "Zaurocz stwora"
-
-#: ../../BRO.rst:261
+#: ../../BRO.rst:367
 msgid ""
 "Enchanted creature gets +1/+0 and has flying and \"Whenever this creature "
 "attacks, draw a card.\""
 msgstr ""
 
-#: ../../BRO.rst:272
+#: ../../BRO.rst:378
 msgid ""
 ":mtgtip:`Teferi, Temporal Pilgrim<https://cards.scryfall.io/border_crop/"
 "front/2/3/23a4f1ec-eadf-4f1e-8821-f22293ad2580.jpg?1667199338|https://"
 "scryfall.com/card/bro/66/teferi-temporal-pilgrim?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:265
+#: ../../BRO.rst:371
 msgid ""
 "Whenever you draw a card, put a loyalty counter on Teferi, Temporal Pilgrim."
 msgstr "Ilekroć dobierzesz kartę, umieść znacznik lojalności na tym wędrowcu."
 
-#: ../../BRO.rst:267
+#: ../../BRO.rst:373
 msgid "0: Draw a card."
 msgstr "0: Dobierz kartę."
 
-#: ../../BRO.rst:269
+#: ../../BRO.rst:375
 msgid ""
 "−2: Create a 2/2 blue Spirit creature token with vigilance and \"Whenever "
 "you draw a card, put a +1/+1 counter on this creature.\""
@@ -1128,7 +1460,7 @@ msgstr ""
 "–2: Stwórz żeton niebieskiego stwora Duch 2/2 z czujnością i \"Ilekroć "
 "dobierzesz kartę, umieść znacznik +1/+1 na tym stworze.\""
 
-#: ../../BRO.rst:271
+#: ../../BRO.rst:377
 msgid ""
 "−12: Target opponent chooses a permanent they control and returns it to its "
 "owner's hand. Then they shuffle each nonland permanent they control into its "
@@ -1138,25 +1470,25 @@ msgstr ""
 "swojej ręki. Następnie wtasowuje każdy nielądowy byt pod swoim władaniem do "
 "biblioteki właściciela."
 
-#: ../../BRO.rst:276
+#: ../../BRO.rst:382
 msgid ""
 ":mtgtip:`Third Path Savant<https://cards.scryfall.io/border_crop/"
 "front/7/9/793a51ab-59fb-424f-a315-3f63e8990322.jpg?1667089830|https://"
 "scryfall.com/card/bro/67/third-path-savant?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:275
+#: ../../BRO.rst:381
 msgid "|mana_7|: Draw two cards."
 msgstr "|mana_7|: Dobierz dwie karty."
 
-#: ../../BRO.rst:282
+#: ../../BRO.rst:388
 msgid ""
 ":mtgtip:`Thopter Mechanic<https://cards.scryfall.io/border_crop/"
 "front/7/5/7577b5c7-91ed-4201-bdfd-0919142124eb.jpg?1667374013|https://"
 "scryfall.com/card/bro/68/thopter-mechanic?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:279
+#: ../../BRO.rst:385
 msgid ""
 "Whenever you draw your second card each turn, put a +1/+1 counter on Thopter "
 "Mechanic."
@@ -1164,7 +1496,7 @@ msgstr ""
 "Ilekroć dobierzesz swoją drugą kartę w danej turze, umieść znacznik +1/+1 na "
 "niniejszym."
 
-#: ../../BRO.rst:281
+#: ../../BRO.rst:387
 msgid ""
 "When Thopter Mechanic dies, create a 1/1 colorless Thopter artifact creature "
 "token with flying."
@@ -1172,18 +1504,18 @@ msgstr ""
 "Kiedy niniejszy umrze, stwórz żeton bezkolorowego artefaktowego stwora "
 "Kopter 1/1 z lataniem."
 
-#: ../../BRO.rst:290
+#: ../../BRO.rst:396
 msgid ""
 ":mtgtip:`Urza, Powerstone Prodigy<https://cards.scryfall.io/border_crop/"
 "front/4/4/445f897e-a059-4cd5-bfd2-302dc7a4c8e2.jpg?1666929703|https://"
 "scryfall.com/card/bro/69/urza-powerstone-prodigy?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:287
+#: ../../BRO.rst:393
 msgid "|mana_1|, |tap|: Draw a card, then discard a card."
 msgstr "|mana_1|, |tap|: Dobierz kartę, po czym odrzuć kartę."
 
-#: ../../BRO.rst:289
+#: ../../BRO.rst:395
 msgid ""
 "Whenever you discard one or more artifact cards, create a tapped Powerstone "
 "token. This ability triggers only once each turn. (The token is an artifact "
@@ -1195,22 +1527,22 @@ msgstr ""
 "\"|tap|: Weź |colorless|. Ta mana nie może być wydana na rzucenie "
 "nieartefaktowego czaru.\")"
 
-#: ../../BRO.rst:302
+#: ../../BRO.rst:408
 msgid ""
 ":mtgtip:`Urza's Command<https://cards.scryfall.io/border_crop/front/b/9/"
 "b9b4a02c-e57f-4287-943e-6bc859ac149e.jpg?1667108777|https://scryfall.com/"
 "card/bro/70/urzas-command?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:295
+#: ../../BRO.rst:401
 msgid "Creatures you don't control get -2/-0 until end of turn."
 msgstr "Stwory poza twoim władaniem dostają do końca tury -2/-0."
 
-#: ../../BRO.rst:297
+#: ../../BRO.rst:403
 msgid "Create a tapped Powerstone token."
 msgstr "Stwórz przekręcony żeton Kamień Mocy."
 
-#: ../../BRO.rst:299
+#: ../../BRO.rst:405
 msgid ""
 "Create a tapped 0/0 colorless Construct artifact creature token with \"This "
 "creature gets +1/+1 for each artifact you control.\""
@@ -1218,58 +1550,95 @@ msgstr ""
 "Stwórz przekręcony bezkolorowy żeton artefaktowego stwora Konstrukt 0/0 z "
 "\"Ten stwór dostaje +1/+1 za każdy artefakt pod twoim władaniem.\""
 
-#: ../../BRO.rst:301
+#: ../../BRO.rst:407
 msgid "Scry 1, then draw a card."
 msgstr "Wróż 1, po czym dobierz kartę."
 
-#: ../../BRO.rst:310
+#: ../../BRO.rst:416
 msgid ""
 ":mtgtip:`Urza's Rebuff<https://cards.scryfall.io/border_crop/front/8/"
 "a/8a6f90b3-450c-490a-b6d0-2393c4646c85.jpg?1667328528|https://scryfall.com/"
 "card/bro/71/urzas-rebuff?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:305 ../../BRO.rst:441 ../../BRO.rst:539 ../../BRO.rst:611
-#: ../../BRO.rst:759
-msgid "Choose one —"
-msgstr "Wybierz jedno —"
-
-#: ../../BRO.rst:307
+#: ../../BRO.rst:413
 msgid "Counter target spell."
 msgstr "Skontruj wskazany czar."
 
-#: ../../BRO.rst:309
+#: ../../BRO.rst:415
 msgid "Tap up to two target creatures."
 msgstr "Przekręć co najwyżej dwa wskazane stwory."
 
-#: ../../BRO.rst:318
+#: ../../BRO.rst:424
+msgid ""
+":mtgtip:`Weakstone's Subjugation<https://cards.scryfall.io/border_crop/front/"
+"e/f/ef93ac79-8575-40f8-a222-63c2ffb30f60.jpg?1667523772|https://scryfall.com/"
+"card/bro/72/weakstones-subjugation?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:419
+msgid "Enchant artifact or creature"
+msgstr "Zaurocz artefakt lub stwora"
+
+#: ../../BRO.rst:421
+#, fuzzy
+#| msgid ""
+#| "When Bitter Reunion enters the battlefield, you may discard a card. If "
+#| "you do, draw two cards."
+msgid ""
+"When Weakstone's Subjugation's enters the battlefield, you may put |mana_3|. "
+"If you do, tap enchanted permanent."
+msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, możesz odrzucić kartę. Jeśli tak "
+"zrobisz, dobierz dwie karty."
+
+#: ../../BRO.rst:423
+msgid "Enchanted permanent doesn't untap during its controller's untap step."
+msgstr "Zauroczony byt nie odkręca się w kroku odkręcania swojego władcy."
+
+#: ../../BRO.rst:430
+msgid ""
+":mtgtip:`Wing Commando<https://cards.scryfall.io/border_crop/"
+"front/4/3/43e640c3-02bb-453c-a609-05d8214e2e2e.jpg?1667562621|https://"
+"scryfall.com/card/bro/73/wing-commando?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:429 ../../BRO.rst:773 ../../BRO.rst:855
+msgid ""
+"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 "
+"until end of turn.)"
+msgstr ""
+"Waleczność (Ilekroć rzucisz nie-stworowy czar, ten stwór do końca tury "
+"dostaje +1/+1.)"
+
+#: ../../BRO.rst:438
 msgid ""
 ":mtgtip:`Zephyr Sentinel<https://cards.scryfall.io/border_crop/front/f/9/"
-"f935adbb-d2e3-48d0-b38c-41f3b583fecb.jpg?1667373256|https://scryfall.com/"
+"f935adbb-d2e3-48d0-b38c-41f3b583fecb.jpg?1667562571|https://scryfall.com/"
 "card/bro/74/zephyr-sentinel?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:317
+#: ../../BRO.rst:437
 msgid ""
 "When Zephyr Sentinel enters the battlefield, return up to one other target "
 "creature you control to its owner's hand. If it was a Soldier, put a +1/+1 "
 "counter on Zephyr Sentinel."
 msgstr ""
 
-#: ../../BRO.rst:324
+#: ../../BRO.rst:444
 msgid ""
 ":mtgtip:`Arcane Proxy<https://cards.scryfall.io/border_crop/front/d/6/"
 "d6d74d2e-7382-4fe3-ac3e-6906203ffcc7.jpg?1667208629|https://scryfall.com/"
 "card/bro/75/arcane-proxy?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:321
+#: ../../BRO.rst:441
 msgid ""
 "Prototype |mana_1|\\ |mana_u|\\ |mana_u| — 2/1 (You may cast this spell with "
 "different mana cost, color, and size. It keeps its abilities and types.)"
 msgstr ""
 
-#: ../../BRO.rst:323
+#: ../../BRO.rst:443
 msgid ""
 "When Arcane Proxy enters the battlefield, if you cast it, exile target "
 "instant or sorcery card with mana value less than or equal to Arcane Proxy's "
@@ -1277,39 +1646,124 @@ msgid ""
 "paying its mana cost."
 msgstr ""
 
-#: ../../BRO.rst:332
+#: ../../BRO.rst:452
+msgid ""
+":mtgtip:`Coastal Bulwark<https://cards.scryfall.io/border_crop/front/e/2/"
+"e24567f8-d195-4547-bba4-7a8131dc7889.jpg?1667562690|https://scryfall.com/"
+"card/bro/76/coastal-bulwark?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:447 ../../BRO.rst:483
+msgid "Defender"
+msgstr "Obronność"
+
+#: ../../BRO.rst:449
+msgid "Coastal Bulwark gets +2/+0 as long as you control an Island."
+msgstr ""
+
+#: ../../BRO.rst:451
+#, fuzzy
+#| msgid ""
+#| "At the beginning of your upkeep, exile the top card of your library. You "
+#| "may play that card this turn."
+msgid ""
+"|mana_2|, |tap|: Surveil 1. (Look at the top card of your library. You may "
+"put that card into your graveyard.)"
+msgstr ""
+"Na początku twojego kroku utrzymania, wygnaj wierzchnią kartę twojej "
+"biblioteki. Możesz zagrać ową kartę w tej turze."
+
+#: ../../BRO.rst:458
+msgid ""
+":mtgtip:`Combat Courier<https://cards.scryfall.io/border_crop/"
+"front/1/7/171edf80-ffc1-4894-9be5-c3e93a96f734.jpg?1667523715|https://"
+"scryfall.com/card/bro/77/combat-courier?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:455
+msgid "|mana_2|, Sacrifice Combat Courier: Draw a card."
+msgstr ""
+
+#: ../../BRO.rst:457
+msgid ""
+"Unearth |mana_u| (|mana_u|: Return this card from your graveyard to the "
+"battlefield. It gains haste. Exile it at the beginning of the next end step "
+"or if it would leave the battlefield. Unearth only as a sorcery.)"
+msgstr ""
+"Odkopanie |mana_u| (|mana_u|: Przywróć tę kartę z twojego cmentarza na pole "
+"bitwy. Zyskuje ona pośpiech. Wygnaj ją na początku najbliższego kroku "
+"końcowego lub gdyby miała opuścić pole bitwy. Aktywuj tylko jako obrzęd.)"
+
+#: ../../BRO.rst:466
 msgid ""
 ":mtgtip:`Depth Charge Colossus<https://cards.scryfall.io/border_crop/"
 "front/3/4/34e09173-a92d-4cc3-9d02-bf18ab0850ec.jpg?1667139811|https://"
 "scryfall.com/card/bro/78/depth-charge-colossus?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:327
+#: ../../BRO.rst:461
 msgid ""
 "Prototype |mana_4|\\ |mana_u|\\ |mana_u| — 6/6 (You may cast this spell with "
 "different mana cost, color, and size. It keeps its abilities and types.)"
 msgstr ""
 
-#: ../../BRO.rst:329
+#: ../../BRO.rst:463
 msgid "Depth Charge Colossus doesn't untap during your untap step."
 msgstr ""
 
-#: ../../BRO.rst:331
+#: ../../BRO.rst:465
 msgid "|mana_3|: Untap Depth Charge Colossus."
 msgstr ""
 
-#: ../../BRO.rst:342
+#: ../../BRO.rst:472
+msgid ""
+":mtgtip:`Hulking Metamorph<https://cards.scryfall.io/border_crop/"
+"front/4/2/420f0b81-8b87-4854-9dc4-6da84cc38623.jpg?1667521868|https://"
+"scryfall.com/card/bro/79/hulking-metamorph?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:469
+msgid ""
+"Prototype |mana_2|\\ |mana_u|\\ |mana_u| — 3/3 (You may cast this spell with "
+"different mana cost, color, and size. It keeps its abilities and types.)"
+msgstr ""
+
+#: ../../BRO.rst:471
+msgid ""
+"You may have Hulking Metamorph enter the battlefield as a copy of an "
+"artifact or creature you control, except it's an artifact creature in "
+"addition to its other types, and its power and toughness are equal to "
+"Hulking Metamorph's power and toughness."
+msgstr ""
+
+#: ../../BRO.rst:480
+msgid ""
+":mtgtip:`Spotter Thopter<https://cards.scryfall.io/border_crop/front/d/9/"
+"d90175ae-4109-4845-b3ff-1531fb67a0e1.jpg?1667521589|https://scryfall.com/"
+"card/bro/80/spotter-thopter?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:475
+msgid ""
+"Prototype |mana_3|\\ |mana_u| — 2/3 (You may cast this spell with different "
+"mana cost, color, and size. It keeps its abilities and types.)"
+msgstr ""
+
+#: ../../BRO.rst:479
+#, fuzzy
+#| msgid "When Combat Thresher enters the battlefield, draw a card."
+msgid ""
+"When Spotter Thopter enters the battlefield, scry X, where X is its power."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+
+#: ../../BRO.rst:490
 msgid ""
 ":mtgtip:`Surge Engine<https://cards.scryfall.io/border_crop/"
 "front/1/2/12b9c9c5-e992-4f1c-a779-124176c3aade.jpg?1664487370|https://"
 "scryfall.com/card/bro/81/surge-engine?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:335
-msgid "Defender"
-msgstr "Obronność"
-
-#: ../../BRO.rst:337
+#: ../../BRO.rst:485
 msgid ""
 "|mana_u|: Surge Engine loses defender and gains \"This creature can't be "
 "blocked.\""
@@ -1317,7 +1771,7 @@ msgstr ""
 "|mana_u|: Ten stwór traci obronność i zyskuje \"Ten stwór nie może być "
 "blokowany.\""
 
-#: ../../BRO.rst:339
+#: ../../BRO.rst:487
 msgid ""
 "|mana_2|\\ |mana_u|: Surge Engine becomes blue and has base power and "
 "toughness 5/4. Activate only if Surge Engine doesn't have defender."
@@ -1325,7 +1779,7 @@ msgstr ""
 "|mana_2|\\ |mana_u|: Ten stwór staje się niebieski i ma bazową siłę i "
 "wytrzymałość 5/4. Aktywuj tylko jeśli ten stwór nie ma obronności."
 
-#: ../../BRO.rst:341
+#: ../../BRO.rst:489
 msgid ""
 "|mana_4|\\ |mana_u|\\ |mana_u|: Draw three cards. Activate only if Surge "
 "Engine is blue and only once."
@@ -1333,97 +1787,97 @@ msgstr ""
 "|mana_4|\\ |mana_u|\\ |mana_u|: Dobierz trzy karty. Aktywuj tylko jeśli ten "
 "stwór jest niebieski i tylko raz."
 
-#: ../../BRO.rst:350
+#: ../../BRO.rst:498
 msgid ""
 ":mtgtip:`The Temporal Anchor<https://cards.scryfall.io/border_crop/front/1/"
 "a/1a212d59-b72e-4939-a757-c131ca4323ce.jpg?1667139879|https://scryfall.com/"
 "card/bro/82/the-temporal-anchor?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:345
+#: ../../BRO.rst:493
 msgid "At the beginning of your upkeep, scry 2."
 msgstr ""
 
-#: ../../BRO.rst:347
+#: ../../BRO.rst:495
 msgid ""
 "Whenever you choose to put one or more cards on the bottom of your library "
 "while scrying, exile that many cards from the bottom of your library."
 msgstr ""
 
-#: ../../BRO.rst:349
+#: ../../BRO.rst:497
 msgid "During your turn, you may play cards exiled with The Temporal Anchor."
 msgstr ""
 
-#: ../../BRO.rst:356
+#: ../../BRO.rst:504
 msgid ""
 ":mtgtip:`Terisian Mindbreaker<https://cards.scryfall.io/border_crop/front/6/"
 "b/6bd86daf-7cee-454c-8d4d-97f59fe36958.jpg?1667288672|https://scryfall.com/"
 "card/bro/83/terisian-mindbreaker?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:353
+#: ../../BRO.rst:501
 msgid ""
 "Whenever Terisian Mindbreaker attacks, defending player mills half their "
 "library, rounded up."
 msgstr ""
 
-#: ../../BRO.rst:355
+#: ../../BRO.rst:503
 msgid ""
 "Unearth |mana_1|\\ |mana_u|\\ |mana_u|\\ |mana_u| (|mana_1|\\ |mana_u|\\ |"
 "mana_u|\\ |mana_u|: Return this card from your graveyard to the battlefield. "
 "It gains haste. Exile it at the beginning of the next end step or if it "
 "would leave the battlefield. Unearth only as a sorcery.)"
 msgstr ""
-"Odkopanie |mana_1|\\ |mana_u|\\ |mana_u|\\ |mana_u| (|mana_1|\\ |mana_u|\\ "
-"|mana_u|\\ |mana_u|: Przywróć tę kartę z twojego cmentarza na pole bitwy. "
+"Odkopanie |mana_1|\\ |mana_u|\\ |mana_u|\\ |mana_u| (|mana_1|\\ |mana_u|\\ |"
+"mana_u|\\ |mana_u|: Przywróć tę kartę z twojego cmentarza na pole bitwy. "
 "Zyskuje ona pośpiech. Wygnaj ją na początku najbliższego kroku końcowego lub "
 "gdyby miała opuścić pole bitwy. Aktywuj tylko jako obrzęd.)"
 
-#: ../../BRO.rst:364
+#: ../../BRO.rst:512
 msgid ""
 ":mtgtip:`Ashnod, Flesh Mechanist<https://cards.scryfall.io/border_crop/"
 "front/5/e/5eb43c15-50a9-488f-b0be-84a5e0a6d10b.jpg?1667328743|https://"
 "scryfall.com/card/bro/84/ashnod-flesh-mechanist?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:359
+#: ../../BRO.rst:507 ../../BRO.rst:703
 msgid "Deathtouch"
 msgstr "Dotyk śmierci"
 
-#: ../../BRO.rst:361
+#: ../../BRO.rst:509
 msgid ""
 "Whenever Ashnod, Flesh Mechanist attacks, you may sacrifice another "
 "creature. If you do, create a tapped Powerstone token."
 msgstr ""
 
-#: ../../BRO.rst:363
+#: ../../BRO.rst:511
 msgid ""
 "|mana_5|, Exile a creature card from your graveyard: Create a tapped 3/3 "
 "colorless Zombie artifact creature token."
 msgstr ""
 
-#: ../../BRO.rst:368
+#: ../../BRO.rst:516
 msgid ""
 ":mtgtip:`Ashnod's Intervention<https://cards.scryfall.io/border_crop/front/b/"
 "c/bcf491db-d12b-4c58-9c05-085cac34a73e.jpg?1667433379|https://scryfall.com/"
 "card/bro/85/ashnods-intervention?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:367
+#: ../../BRO.rst:515
 msgid ""
 "Until end of turn, target creature gets +2/+0 and gains \"When this creature "
 "dies or is put into exile from the battlefield, return it to its owner's "
 "hand.\""
 msgstr ""
 
-#: ../../BRO.rst:372
+#: ../../BRO.rst:520
 msgid ""
 ":mtgtip:`Battlefield Butcher<https://cards.scryfall.io/border_crop/"
 "front/9/0/90c47e31-d4f6-46f3-94b7-1726c4a4a8eb.jpg?1667373989|https://"
 "scryfall.com/card/bro/86/battlefield-butcher?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:371
+#: ../../BRO.rst:519
 #, fuzzy
 #| msgid ""
 #| "This spell costs |mana_1| less to cast for each creature card in your "
@@ -1435,14 +1889,27 @@ msgstr ""
 "Rzucenie tego czaru kosztuje o |mana_1| mniej za każdego stwora w twoim "
 "cmentarzu."
 
-#: ../../BRO.rst:376
+#: ../../BRO.rst:526
+msgid ""
+":mtgtip:`Carrion Locust<https://cards.scryfall.io/border_crop/"
+"front/6/7/6759acb8-82c0-479f-86f3-f22ca7a2006c.jpg?1667570938|https://"
+"scryfall.com/card/bro/87/carrion-locust?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:525
+msgid ""
+"When Carrion Locust enters the battlefield, exile target card from an "
+"opponent's graveyard. If it was a creature card, that player loses 1 life."
+msgstr ""
+
+#: ../../BRO.rst:530
 msgid ""
 ":mtgtip:`Corrupt<https://cards.scryfall.io/border_crop/front/c/9/"
 "c92ea561-80da-4fe1-ad87-ce47d9eb80bc.jpg?1667289325|https://scryfall.com/"
 "card/bro/88/corrupt?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:375
+#: ../../BRO.rst:529
 msgid ""
 "Corrupt deals damage to any target equal to the number of Swamps you "
 "control. You gain life equal to the damage dealt this way."
@@ -1450,83 +1917,102 @@ msgstr ""
 "Ten czar zadaje wskazanemu celowi obrażenia równe liczbie Bagien pod twoim "
 "władaniem. Zyskaj tyle żyć, ile obrażeń zadano w ten sposób."
 
-#: ../../BRO.rst:382
+#: ../../BRO.rst:536
 msgid ""
 ":mtgtip:`Diabolic Intent<https://cards.scryfall.io/border_crop/front/d/7/"
 "d72ab698-de67-4ca8-8e42-b05346bf52fa.jpg?1667373682|https://scryfall.com/"
 "card/bro/89/diabolic-intent?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:379 ../../BRO.rst:629
+#: ../../BRO.rst:533 ../../BRO.rst:871
 msgid "As an additional cost to cast this spell, sacrifice a creature."
 msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć stwora."
 
-#: ../../BRO.rst:381
+#: ../../BRO.rst:535
 msgid ""
 "Search your library for a card, put that card into your hand, then shuffle."
 msgstr ""
 "Wyszukaj kartę w twojej bibliotece, umieść ją w twojej ręce, po czym "
 "przetasuj."
 
-#: ../../BRO.rst:386
+#: ../../BRO.rst:540
 msgid ""
 ":mtgtip:`Disciples of Gix<https://cards.scryfall.io/border_crop/front/7/"
 "d/7d356456-865d-4c92-8923-ce7384e29a79.jpg?1667329083|https://scryfall.com/"
 "card/bro/90/disciples-of-gix?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:385
+#: ../../BRO.rst:539
 msgid ""
 "When Disciples of Gix enters the battlefield, search your library for up to "
 "three artifact cards, put them into your graveyard, then shuffle."
 msgstr ""
 
-#: ../../BRO.rst:390
+#: ../../BRO.rst:544
 msgid ""
 ":mtgtip:`Disfigure<https://cards.scryfall.io/border_crop/front/a/a/"
 "aaa9c6f1-3938-448b-bdc3-22420c5984d3.jpg?1667288721|https://scryfall.com/"
 "card/bro/91/disfigure?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:389
+#: ../../BRO.rst:543
 msgid "Target creature gets -2/-2 until end of turn."
 msgstr "Wskazany stwór do końca tury dostaje -2/-2."
 
-#: ../../BRO.rst:394
+#: ../../BRO.rst:548
 msgid ""
 ":mtgtip:`Dreams of Steel and Oil<https://cards.scryfall.io/border_crop/"
 "front/2/6/261ac92e-c61a-4c11-aa6a-9ae1cb703e5c.jpg?1667329125|https://"
 "scryfall.com/card/bro/92/dreams-of-steel-and-oil?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:393
+#: ../../BRO.rst:547
 msgid ""
 "Target opponent reveals their hand. You choose an artifact or creature card "
 "from it, then choose an artifact or creature card from their graveyard. "
 "Exile the chosen cards."
 msgstr ""
 
-#: ../../BRO.rst:398
+#: ../../BRO.rst:552
 msgid ""
-":mtgtip:`\"Yard Sale\"<https://cards.scryfall.io/border_crop/front/0/"
-"b/0bbed8f9-3615-428b-8d0d-18291c5a99be.jpg?1667376849|https://scryfall.com/"
-"card/bro/94/yard-sale?utm_source=api>`"
+":mtgtip:`Emergency Weld<https://cards.scryfall.io/border_crop/front/e/c/"
+"ec94d440-3922-4588-bf7b-d8670f81ef4e.jpg?1667571007|https://scryfall.com/"
+"card/bro/93/emergency-weld?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:397
+#: ../../BRO.rst:551
+#, fuzzy
+#| msgid ""
+#| "When Scrapwork Cohort enters the battlefield, create a 1/1 colorless "
+#| "Soldier artifact creature token."
 msgid ""
-"Choose target artifact or creature you control. You draw cards equal to its "
-"mana value. An opponent gains control of that permanent."
+"Return target artifact or creature card from your graveyard to your hand. "
+"Create a 1/1 colorless Soldier artifact creature token."
+msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton bezkolorowego "
+"artefaktowego stwora Piechur 1/1."
+
+#: ../../BRO.rst:556
+msgid ""
+":mtgtip:`Fateful Handoff<https://cards.scryfall.io/border_crop/front/0/"
+"b/0bbed8f9-3615-428b-8d0d-18291c5a99be.jpg?1667571077|https://scryfall.com/"
+"card/bro/94/fateful-handoff?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:404
+#: ../../BRO.rst:555
+msgid ""
+"Draw cards equal to the mana value of target artifact or creature you "
+"control. An opponent gains control of that permanent."
+msgstr ""
+
+#: ../../BRO.rst:562
 msgid ""
 ":mtgtip:`Gix, Yawgmoth Praetor<https://cards.scryfall.io/border_crop/front/2/"
 "c/2c76f7e0-37e7-4e87-93a3-a25ba0674645.jpg?1666927948|https://scryfall.com/"
 "card/bro/95/gix-yawgmoth-praetor?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:401
+#: ../../BRO.rst:559
 msgid ""
 "Whenever a creature deals combat damage to one of your opponents, its "
 "controller may pay 1 life. If they do, they draw a card."
@@ -1534,7 +2020,7 @@ msgstr ""
 "Ilekroć stwór zada obrażenia twojemu przeciwnikowi, jego władca może "
 "zapłacić 1 życie. Jeśli tak zrobi, dobiera kartę."
 
-#: ../../BRO.rst:403
+#: ../../BRO.rst:561
 msgid ""
 "|mana_4|\\ |mana_b|\\ |mana_b|\\ |mana_b|, Discard X cards: Exile the top X "
 "cards of target opponent's library. You may play land cards and cast spells "
@@ -1545,14 +2031,14 @@ msgstr ""
 "lądów i rzucać czary spośród kart wygnanych w ten sposób bez płacenia ich "
 "kosztów many."
 
-#: ../../BRO.rst:410
+#: ../../BRO.rst:568
 msgid ""
 ":mtgtip:`Gix's Caress<https://cards.scryfall.io/border_crop/front/f/1/"
 "f1140cb9-6c48-4054-966e-5cc02aa7d5a4.jpg?1667329235|https://scryfall.com/"
 "card/bro/96/gixs-caress?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:407
+#: ../../BRO.rst:565
 msgid ""
 "Target opponent reveals their hand. You choose a nonland card from it. That "
 "player discards that card."
@@ -1560,55 +2046,73 @@ msgstr ""
 "Wskazany przeciwnik ujawnia swoją rękę. Wybierz z niej nie-lądowę kartę. Ów "
 "gracz odrzuca ową kartę."
 
-#: ../../BRO.rst:409 ../../BRO.rst:881
+#: ../../BRO.rst:567 ../../BRO.rst:1215
 msgid ""
 "Create a tapped Powerstone token. (It's an artifact with \"|tap|: Add |"
 "colorless|. This mana can't be spent to cast a nonartifact spell.\")"
 msgstr ""
-"Stwórz przekręcony żeton Kamień Mocy. (To artefakt z \"|tap|: Weź |colorless|"
-". Ta mana nie może być wydana na rzucenie nieartefaktowego czaru.\")"
+"Stwórz przekręcony żeton Kamień Mocy. (To artefakt z \"|tap|: Weź |"
+"colorless|. Ta mana nie może być wydana na rzucenie nieartefaktowego czaru."
+"\")"
 
-#: ../../BRO.rst:422
+#: ../../BRO.rst:580
 msgid ""
 ":mtgtip:`Gix's Command<https://cards.scryfall.io/border_crop/"
 "front/9/6/9606de75-c25f-411b-a271-258ac5a60987.jpg?1667374042|https://"
 "scryfall.com/card/bro/97/gixs-command?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:415
+#: ../../BRO.rst:573
 msgid ""
 "Put two +1/+1 counter on up to one creature. It gains lifelink until end of "
 "turn."
 msgstr ""
 
-#: ../../BRO.rst:417
+#: ../../BRO.rst:575
 msgid "Destroy each creature with power 2 or less."
 msgstr ""
 
-#: ../../BRO.rst:419
+#: ../../BRO.rst:577
 msgid "Return up to two creature cards from your graveyard to your hand."
 msgstr ""
 
-#: ../../BRO.rst:421
+#: ../../BRO.rst:579
 msgid ""
 "Each opponent sacrifices a creature with the highest power among creatures "
 "they control."
 msgstr ""
 
-#: ../../BRO.rst:428
+#: ../../BRO.rst:584
+msgid ""
+":mtgtip:`Gixian Infiltrator<https://cards.scryfall.io/border_crop/front/c/9/"
+"c94a3317-7d1f-4f29-8353-180f1ab48d18.jpg?1667571142|https://scryfall.com/"
+"card/bro/98/gixian-infiltrator?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:583
+#, fuzzy
+#| msgid ""
+#| "Whenever you cast a noncreature spell, put a +1/+1 counter on Levitating "
+#| "Statue."
+msgid ""
+"Whenever you sacrifice another permanent, put a +1/+1 counter on Gixian "
+"Infiltrator."
+msgstr "Ilekroć rzucisz niestworowy czar, umieść znacznik +1/+1 na niniejszym."
+
+#: ../../BRO.rst:590
 msgid ""
 ":mtgtip:`Gixian Puppeteer<https://cards.scryfall.io/border_crop/front/2/"
 "c/2cc86e18-ffbc-4c5f-a694-922332b146cc.jpg?1667430696|https://scryfall.com/"
 "card/bro/99/gixian-puppeteer?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:425
+#: ../../BRO.rst:587
 msgid ""
 "Whenever you draw your second card each turn, each opponent loses 2 life and "
 "you gain 2 life."
 msgstr ""
 
-#: ../../BRO.rst:427
+#: ../../BRO.rst:589
 #, fuzzy
 #| msgid ""
 #| "When Titania, Gaea Incarnate enters the battlefield, return all land "
@@ -1620,14 +2124,27 @@ msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, przywróć wszystkie karty lądów z "
 "twojego cmentarza przekręcone na pole bitwy."
 
-#: ../../BRO.rst:434
+#: ../../BRO.rst:594
+msgid ""
+":mtgtip:`Gixian Skullflayer<https://cards.scryfall.io/border_crop/front/e/b/"
+"ebdcf02b-1876-44d7-8a22-679ea1272856.jpg?1667538871|https://scryfall.com/"
+"card/bro/100/gixian-skullflayer?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:593
+msgid ""
+"At the beginning of your upkeep, if there are three or more creature cards "
+"in your graveyard, put a +1/+1 counter on Gixian Skullflayer."
+msgstr ""
+
+#: ../../BRO.rst:600
 msgid ""
 ":mtgtip:`Gnawing Vermin<https://cards.scryfall.io/border_crop/front/2/"
 "f/2fa2fa48-ddb7-45f0-b183-4186df98f7cc.jpg?1667413900|https://scryfall.com/"
 "card/bro/101/gnawing-vermin?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:431
+#: ../../BRO.rst:597
 #, fuzzy
 #| msgid ""
 #| "When Bitter Reunion enters the battlefield, you may discard a card. If "
@@ -1638,7 +2155,7 @@ msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, możesz odrzucić kartę. Jeśli tak "
 "zrobisz, dobierz dwie karty."
 
-#: ../../BRO.rst:433
+#: ../../BRO.rst:599
 msgid ""
 "When Gnawing Vermin dies, target creature you don't control gets -1/-1 until "
 "end of turn."
@@ -1646,40 +2163,40 @@ msgstr ""
 "Kiedy niniejszy umrze, wskazany stwór poza twoim władaniem do końca tury "
 "dostaje -1/-1."
 
-#: ../../BRO.rst:438
+#: ../../BRO.rst:604
 msgid ""
 ":mtgtip:`Go for the Throat<https://cards.scryfall.io/border_crop/"
 "front/9/4/94117b09-d852-4f2e-be8e-68ee0ee3c3d8.jpg?1667089409|https://"
 "scryfall.com/card/bro/102/go-for-the-throat?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:437
+#: ../../BRO.rst:603
 msgid "Destroy target nonartifact creature."
 msgstr "Zniszcz wskazanego nieartefaktowego stwora."
 
-#: ../../BRO.rst:446
+#: ../../BRO.rst:612
 msgid ""
 ":mtgtip:`Gruesome Realization<https://cards.scryfall.io/border_crop/"
 "front/2/1/21cd0ece-a267-42ab-b95a-6e7931bd837a.jpg?1667397984|https://"
 "scryfall.com/card/bro/103/gruesome-realization?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:443
+#: ../../BRO.rst:609
 msgid "You draw two cards and you lose 2 life."
 msgstr "Dobierz dwie karty i strać 2 życia."
 
-#: ../../BRO.rst:445
+#: ../../BRO.rst:611
 msgid "Creatures your opponents control get -1/-1 until end of turn."
 msgstr "Stwory pod władaniem twoich przeciwników dostają do końca tury -1/-1."
 
-#: ../../BRO.rst:454
+#: ../../BRO.rst:620
 msgid ""
 ":mtgtip:`Gurgling Anointer<https://cards.scryfall.io/border_crop/front/9/"
 "c/9ce0d139-2bea-48df-a007-cee7c8ce07bd.jpg?1667430147|https://scryfall.com/"
 "card/bro/104/gurgling-anointer?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:451
+#: ../../BRO.rst:617
 #, fuzzy
 #| msgid ""
 #| "Whenever you draw a card, put a loyalty counter on Teferi, Temporal "
@@ -1689,37 +2206,79 @@ msgid ""
 "Gurgling Anointer."
 msgstr "Ilekroć dobierzesz kartę, umieść znacznik lojalności na tym wędrowcu."
 
-#: ../../BRO.rst:453
+#: ../../BRO.rst:619
 msgid ""
 "When Gurgling Anointer dies, return another target creature card with mana "
 "value less than or equal to Gurgling Anointer's power from your graveyard to "
 "the battlefield."
 msgstr ""
 
-#: ../../BRO.rst:460
+#: ../../BRO.rst:624
+msgid ""
+":mtgtip:`Hostile Negotiations<https://cards.scryfall.io/border_crop/front/"
+"f/8/f827a9a0-7b72-49e2-85fa-adcce1e8fdda.jpg?1667571170|https://scryfall.com/"
+"card/bro/105/hostile-negotiations?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:623
+msgid ""
+"Exile the top three cards of your library in a face-down pile, then exile "
+"the next top three cards of your library in another face-down pile. Look at "
+"the cards in each pile, then turn a pile of your choice face up. An opponent "
+"chooses one of those piles. Put all cards in the chosen pile into your hand "
+"and the rest into your graveyard. You lose 3 life."
+msgstr ""
+
+#: ../../BRO.rst:628
+msgid ""
+":mtgtip:`Kill-Zone Acrobat<https://cards.scryfall.io/border_crop/"
+"front/4/8/48f97974-bb65-46b0-a710-12fa4b9343ac.jpg?1667539045|https://"
+"scryfall.com/card/bro/106/kill-zone-acrobat?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:627
+msgid ""
+"Whenever Kill-Zone Acrobat attacks, you may sacrifice another creature or "
+"artifact. If you do, Kill-Zone Acrobat gains flying until end of turn."
+msgstr ""
+
+#: ../../BRO.rst:634
 msgid ""
 ":mtgtip:`Misery's Shadow<https://cards.scryfall.io/border_crop/"
 "front/5/1/514c5e77-9ecc-41c9-b104-76343601fafb.jpg?1667430646|https://"
 "scryfall.com/card/bro/107/miserys-shadow?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:457
+#: ../../BRO.rst:631
 msgid "If a creature an opponent controls would die, exile it instead."
 msgstr ""
 "Jeśli stwór pod władaniem przeciwnika miałby umrzeć, zamiast tego wygnaj go."
 
-#: ../../BRO.rst:459
+#: ../../BRO.rst:633
 msgid "|mana_1|: Misery's Shadow gets +1/+1 until end of turn."
 msgstr "|mana_1|, |tap|: Niniejszy do końca tury dostaje +1/+1."
 
-#: ../../BRO.rst:466
+#: ../../BRO.rst:640
+msgid ""
+":mtgtip:`Moment of Defiance<https://cards.scryfall.io/border_crop/front/0/"
+"e/0e99fb27-a1e9-491f-ab2a-3ccb493168cb.jpg?1667571260|https://scryfall.com/"
+"card/bro/108/moment-of-defiance?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:637
+#, fuzzy
+#| msgid "Target creature gets +X/+0 and gains haste until end of turn."
+msgid "Target creature gets +2/+1 and gains lifelink until end of turn."
+msgstr "Wskazany stwór do końca tury dostaje +X/+0 i pośpiech."
+
+#: ../../BRO.rst:646
 msgid ""
 ":mtgtip:`No One Left Behind<https://cards.scryfall.io/border_crop/front/4/"
 "a/4a7e030c-98d1-452c-8020-cd92a3ef02c3.jpg?1667329348|https://scryfall.com/"
 "card/bro/109/no-one-left-behind?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:463
+#: ../../BRO.rst:643
 #, fuzzy
 #| msgid ""
 #| "This spell costs |mana_1| less to cast for each creature card in your "
@@ -1731,18 +2290,18 @@ msgstr ""
 "Rzucenie tego czaru kosztuje o |mana_1| mniej za każdego stwora w twoim "
 "cmentarzu."
 
-#: ../../BRO.rst:465
+#: ../../BRO.rst:645
 msgid "Return target creature card from your graveyard to the battlefield."
 msgstr "Przywróć wskazaną kartę stwora z twojego cmentarza na pole bitwy."
 
-#: ../../BRO.rst:472
+#: ../../BRO.rst:652
 msgid ""
 ":mtgtip:`Overwhelming Remorse<https://cards.scryfall.io/border_crop/"
 "front/2/0/202cbfa4-3b3d-47fd-84a6-892692c906d6.jpg?1667199257|https://"
 "scryfall.com/card/bro/110/overwhelming-remorse?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:469
+#: ../../BRO.rst:649
 msgid ""
 "This spell costs |mana_1| less to cast for each creature card in your "
 "graveyard."
@@ -1750,66 +2309,112 @@ msgstr ""
 "Rzucenie tego czaru kosztuje o |mana_1| mniej za każdego stwora w twoim "
 "cmentarzu."
 
-#: ../../BRO.rst:471
+#: ../../BRO.rst:651
 msgid "Exile target creature or planeswalker."
 msgstr "Wygnaj wskazanego stwora lub wędrowca."
 
-#: ../../BRO.rst:476
+#: ../../BRO.rst:656
 msgid ""
 ":mtgtip:`Painful Quandary<https://cards.scryfall.io/border_crop/front/b/e/"
 "bed5e030-874f-4a00-8544-78ba04033f53.jpg?1667329387|https://scryfall.com/"
 "card/bro/111/painful-quandary?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:475
+#: ../../BRO.rst:655
 msgid ""
 "Whenever an opponent casts a spell, that player loses 5 life unless they "
 "discard a card."
 msgstr ""
 "Ilekroć przeciwnik rzuci czar, ów gracz traci 5 żyć, chyba że odrzuci kartę."
 
-#: ../../BRO.rst:482
+#: ../../BRO.rst:662
 msgid ""
 ":mtgtip:`Powerstone Fracture<https://cards.scryfall.io/border_crop/"
 "front/2/3/2323301f-565a-4c0f-bffd-18386ccd1f7a.jpg?1667329441|https://"
 "scryfall.com/card/bro/112/powerstone-fracture?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:479
+#: ../../BRO.rst:659
 msgid ""
 "As an additional cost to cast this spell, sacrifice an artifact or creature."
-msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć artefakt lub stwora."
+msgstr ""
+"Jako dodatkowy koszt rzucenia tego czaru — poświęć artefakt lub stwora."
 
-#: ../../BRO.rst:481
+#: ../../BRO.rst:661
 msgid "Destroy target creature or planeswalker."
 msgstr "Zniszcz wskazanego stwora lub wędrowca."
 
-#: ../../BRO.rst:486
+#: ../../BRO.rst:666
+msgid ""
+":mtgtip:`Ravenous Gigamole<https://cards.scryfall.io/border_crop/front/2/"
+"f/2fee3328-75c2-4d13-86e1-bf3a40fbf538.jpg?1667539002|https://scryfall.com/"
+"card/bro/113/ravenous-gigamole?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:665
+msgid ""
+"When Ravenous Gigamole enters the battlefield, mill three cards. You may put "
+"a creature card from among the cards milled this way into your hand. If you "
+"don't, put a +1/+1 counter on Ravenous Gigamole. (To mill a card, a player "
+"puts the top card of their library into their graveyard.)"
+msgstr ""
+
+#: ../../BRO.rst:670
 msgid ""
 ":mtgtip:`Thran Vigil<https://cards.scryfall.io/border_crop/front/3/"
 "f/3faed400-0712-4fc1-b710-144db40a5e11.jpg?1667329490|https://scryfall.com/"
 "card/bro/114/thran-vigil?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:485
+#: ../../BRO.rst:669
 msgid ""
 "Whenever one or more artifact and/or creature cards leave your graveyard "
 "during your turn, put a +1/+1 counter on target creature you control."
 msgstr ""
 
-#: ../../BRO.rst:492
+#: ../../BRO.rst:674
+msgid ""
+":mtgtip:`Thraxodemon<https://cards.scryfall.io/border_crop/front/f/c/"
+"fc59ca3b-d417-4cf2-99a3-89816bf2bd09.jpg?1667538929|https://scryfall.com/"
+"card/bro/115/thraxodemon?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:673
+#, fuzzy
+#| msgid ""
+#| "|mana_2|\\ |mana_g|\\ |mana_g|, |tap|: Create a 2/2 green Bear creature "
+#| "token, then mill three cards. Activate only as a sorcery."
+msgid "|mana_3|, |tap|, Sacrifice a creature or artifact: Draw a card."
+msgstr ""
+"|mana_2|\\ |mana_g|\\ |mana_g|, |tap|: Stwórz dwa żetony zielonego stwora "
+"Niedźwiedź 2/2, po czym zmiel trzy karty. Aktywuj tylko jako obrzęd."
+
+#: ../../BRO.rst:678
+msgid ""
+":mtgtip:`Trench Stalker<https://cards.scryfall.io/border_crop/front/a/a/"
+"aa1b987a-a3b9-4cd1-85b0-e58df4130934.jpg?1667571324|https://scryfall.com/"
+"card/bro/116/trench-stalker?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:677
+msgid ""
+"As long as you've drawn two or more cards this turn, Trench Stalker has "
+"deathtouch and lifelink."
+msgstr ""
+
+#: ../../BRO.rst:684
 msgid ""
 ":mtgtip:`Ashnod's Harvester<https://cards.scryfall.io/border_crop/"
 "front/5/8/58baa977-16c1-4983-8343-dbd65e98ddb7.jpg?1666927695|https://"
 "scryfall.com/card/bro/117/ashnods-harvester?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:489
+#: ../../BRO.rst:681
 msgid ""
 "Whenever Ashnod's Harvester attacks, exile target card from a graveyard."
 msgstr "Ilekroć niniejszy zaatakuje, wygnaj wskazaną kartę z cmentarza."
 
-#: ../../BRO.rst:491
+#: ../../BRO.rst:683
 msgid ""
 "Unearth |mana_1|\\ |mana_b| (|mana_1|\\ |mana_b|: Return this card from your "
 "graveyard to the battlefield. It gains haste. Exile it at the beginning of "
@@ -1821,75 +2426,152 @@ msgstr ""
 "najbliższego kroku końcowego lub gdyby miała opuścić pole bitwy. Aktywuj "
 "tylko jako obrzęd.)"
 
-#: ../../BRO.rst:498
+#: ../../BRO.rst:690
 msgid ""
 ":mtgtip:`Clay Revenant<https://cards.scryfall.io/border_crop/front/f/c/"
 "fc295bac-5031-46c8-8d9a-368656bcf6d3.jpg?1667089979|https://scryfall.com/"
 "card/bro/118/clay-revenant?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:495
+#: ../../BRO.rst:687
 msgid "Clay Revenant enters the battlefield tapped."
 msgstr "Ten byt wchodzi na pole bitwy przekręcony."
 
-#: ../../BRO.rst:497
+#: ../../BRO.rst:689
 msgid ""
 "|mana_2|\\ |mana_b|: Return Clay Revenant from your graveyard to your hand."
 msgstr ""
 
-#: ../../BRO.rst:506
+#: ../../BRO.rst:698
+msgid ""
+":mtgtip:`Dredging Claw<https://cards.scryfall.io/border_crop/front/c/8/"
+"c8e133a2-631f-43f6-9fdd-e542d4d15e10.jpg?1667538802|https://scryfall.com/"
+"card/bro/119/dredging-claw?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:693
+msgid ""
+"Equipped creature gets +1/+0 and has menace. (It's can't be blocked except "
+"by two or more creatures.)"
+msgstr ""
+
+#: ../../BRO.rst:695
+#, fuzzy
+#| msgid ""
+#| "When Phyrexian Dragon Engine enters the battlefield from your graveyard, "
+#| "you may discard your hand. If you do, draw three cards."
+msgid ""
+"Whenever a creature enters the battlefield from your graveyard, you may "
+"attach Dredging Claw to it."
+msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy z twojego cmentarza, możesz odrzucić "
+"twoją rękę. Jeśli tak zrobisz, dobierz trzy karty."
+
+#: ../../BRO.rst:697
+#, fuzzy
+#| msgid ""
+#| "Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip "
+#| "only as a sorcery.)"
+msgid ""
+"Equip |mana_1|\\ |mana_b| (|mana_1|\\ |mana_b|: Attach to target creature "
+"you control. Equip only as a sorcery.)"
+msgstr ""
+"Wyposaż |mana_2| (|mana_2|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Aktywuj tylko jako obrzęd.)"
+
+#: ../../BRO.rst:704
+msgid ""
+":mtgtip:`Goring Warplow<https://cards.scryfall.io/border_crop/front/9/"
+"d/9d927dfd-ae66-4235-a61b-39c85d0c1222.jpg?1667580592|https://scryfall.com/"
+"card/bro/120/goring-warplow?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:701
+msgid ""
+"Prototype |mana_1|\\ |mana_b| — 1/1 (You may cast this spell with different "
+"mana cost, color, and size. It keeps its abilities and types.)"
+msgstr ""
+
+#: ../../BRO.rst:712
 msgid ""
 ":mtgtip:`Phyrexian Fleshgorger<https://cards.scryfall.io/border_crop/"
 "front/6/2/62d37423-3445-412a-9abd-0480da404637.jpg?1666927372|https://"
 "scryfall.com/card/bro/121/phyrexian-fleshgorger?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:501
+#: ../../BRO.rst:707
 msgid ""
 "Prototype |mana_1|\\ |mana_b|\\ |mana_b| — 3/3 (You may cast this spell with "
 "different mana cost, color, and size. It keeps its abilities and types.)"
 msgstr ""
 
-#: ../../BRO.rst:503
+#: ../../BRO.rst:709
 msgid "Menace, lifelink"
 msgstr "Złowrogość, więź życia"
 
-#: ../../BRO.rst:505
+#: ../../BRO.rst:711
 msgid "Ward—Pay life equal to Phyrexian Fleshgorger's power."
 msgstr ""
 
-#: ../../BRO.rst:512
+#: ../../BRO.rst:718
 msgid ""
 ":mtgtip:`Razorlash Transmogrant<https://cards.scryfall.io/border_crop/front/"
 "e/d/edfaf8cc-7819-4ec2-8d79-e3b0c1814590.jpg?1667419720|https://scryfall.com/"
 "card/bro/122/razorlash-transmogrant?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:509
+#: ../../BRO.rst:715
 msgid "Razorlash Transmogrant can't block."
 msgstr ""
 
-#: ../../BRO.rst:511
+#: ../../BRO.rst:717
 msgid ""
 "|mana_4|\\ |mana_b|\\ |mana_b|: Return Razorlash Transmogrant from your "
 "graveyard to the battlefield with a +1/+1 counter on it. This ability costs |"
 "mana_4| less to activate if an opponent controls four or more nonbasic lands."
 msgstr ""
 
-#: ../../BRO.rst:518
+#: ../../BRO.rst:724
+msgid ""
+":mtgtip:`Scrapwork Rager<https://cards.scryfall.io/border_crop/front/e/2/"
+"e28de770-7975-4aa9-b656-e7dbe6bff290.jpg?1667538747|https://scryfall.com/"
+"card/bro/123/scrapwork-rager?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:721
+#, fuzzy
+#| msgid "When Combat Thresher enters the battlefield, draw a card."
+msgid ""
+"When Scrapwork Rager enters the battlefield, you draw a card and you lose 1 "
+"life."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+
+#: ../../BRO.rst:723
+msgid ""
+"Unearth |mana_3|\\ |mana_b| (|mana_3|\\ |mana_b|: Return this card from your "
+"graveyard to the battlefield. It gains haste. Exile it at the beginning of "
+"the next end step or if it would leave the battlefield. Unearth only as a "
+"sorcery.)"
+msgstr ""
+"Odkopanie |mana_3|\\ |mana_b| (|mana_3|\\ |mana_b|: Przywróć tę kartę z "
+"twojego cmentarza na pole bitwy. Zyskuje ona pośpiech. Wygnaj ją na początku "
+"najbliższego kroku końcowego lub gdyby miała opuścić pole bitwy. Aktywuj "
+"tylko jako obrzęd.)"
+
+#: ../../BRO.rst:730
 msgid ""
 ":mtgtip:`Transmogrant Altar<https://cards.scryfall.io/border_crop/front/c/a/"
-"ca28d210-a35d-491e-beda-76b95d09dc2d.jpg?1667376336|https://scryfall.com/"
+"ca28d210-a35d-491e-beda-76b95d09dc2d.jpg?1667571450|https://scryfall.com/"
 "card/bro/124/transmogrant-altar?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:515
+#: ../../BRO.rst:727
 msgid ""
 "|mana_b|, |tap|, Sacrifice a creature: Add |colorless|\\ |colorless|\\ |"
 "colorless|."
 msgstr ""
 
-#: ../../BRO.rst:517
+#: ../../BRO.rst:729
 #, fuzzy
 #| msgid ""
 #| "|mana_2|\\ |mana_g|\\ |mana_g|, |tap|: Create a 2/2 green Bear creature "
@@ -1901,33 +2583,29 @@ msgstr ""
 "|mana_2|\\ |mana_g|\\ |mana_g|, |tap|: Stwórz dwa żetony zielonego stwora "
 "Niedźwiedź 2/2, po czym zmiel trzy karty. Aktywuj tylko jako obrzęd."
 
-#: ../../BRO.rst:526
+#: ../../BRO.rst:738
 msgid ""
 ":mtgtip:`Transmogrant's Crown<https://cards.scryfall.io/border_crop/front/d/"
 "c/dc913ed6-3032-4b45-a6c1-6a4208a7e00a.jpg?1667218953|https://scryfall.com/"
 "card/bro/125/transmogrants-crown?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:521
-msgid "Equipped creature gets +2/+0."
-msgstr "Wyposażony stwór dostaje +2/+0."
-
-#: ../../BRO.rst:523
+#: ../../BRO.rst:735
 msgid "Whenever equipped creature dies, draw a card."
 msgstr ""
 
-#: ../../BRO.rst:525
+#: ../../BRO.rst:737
 msgid "Equip |mana_2| or |mana_b|"
 msgstr ""
 
-#: ../../BRO.rst:530
+#: ../../BRO.rst:742
 msgid ""
 ":mtgtip:`\"Rapid Assembly\"<https://cards.scryfall.io/border_crop/front/c/d/"
-"cd83b2c3-bb06-42db-83bf-8903a126512c.jpg?1667377215|https://scryfall.com/"
+"cd83b2c3-bb06-42db-83bf-8903a126512c.jpg?1667571478|https://scryfall.com/"
 "card/bro/126/rapid-assembly?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:529
+#: ../../BRO.rst:741
 msgid ""
 "|mana_3|\\ |mana_r|: You may put an artifact card from your hand onto the "
 "battlefield. It gains haste. Sacrifice it at the beginning of the next end "
@@ -1937,14 +2615,14 @@ msgstr ""
 "bitwy. Zyskuje ona pośpiech. Poświęć ją na początku najbliższego kroku "
 "końcowego."
 
-#: ../../BRO.rst:536
+#: ../../BRO.rst:748
 msgid ""
 ":mtgtip:`Bitter Reunion<https://cards.scryfall.io/border_crop/"
 "front/3/4/345a1c80-41d6-43b1-83ab-1aa56dd06b1b.jpg?1667140347|https://"
 "scryfall.com/card/bro/127/bitter-reunion?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:533
+#: ../../BRO.rst:745
 msgid ""
 "When Bitter Reunion enters the battlefield, you may discard a card. If you "
 "do, draw two cards."
@@ -1952,7 +2630,7 @@ msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, możesz odrzucić kartę. Jeśli tak "
 "zrobisz, dobierz dwie karty."
 
-#: ../../BRO.rst:535
+#: ../../BRO.rst:747
 msgid ""
 "|mana_1|, Sacrifice Bitter Reunion: Creatures you control gain haste until "
 "end of turn."
@@ -1960,281 +2638,399 @@ msgstr ""
 "|mana_1|, poświęć ten byt: Stwory pod twoim władaniem do końca tury zyskują "
 "pośpiech."
 
-#: ../../BRO.rst:544
+#: ../../BRO.rst:756
 msgid ""
 ":mtgtip:`Brotherhood's End<https://cards.scryfall.io/border_crop/"
 "front/5/0/50f7666d-0d60-4fe5-b144-286d4e47b704.jpg?1667289745|https://"
 "scryfall.com/card/bro/128/brotherhoods-end?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:541
+#: ../../BRO.rst:753
 #, fuzzy
 #| msgid "This spell deals X damage to target planeswalker."
 msgid ""
 "Brotherhood's End deals 3 damage to each creature and each planeswalker."
 msgstr "Ten czar zadaje wskazanemu wędrowcowi X obrażeń."
 
-#: ../../BRO.rst:543
+#: ../../BRO.rst:755
 msgid "Destroy all artifacts with mana value 3 or less."
 msgstr "Zniszcz wszystkie artefakty o skrótach many 3 lub mniej."
 
-#: ../../BRO.rst:552
+#: ../../BRO.rst:760
+msgid ""
+":mtgtip:`Conscripted Infantry<https://cards.scryfall.io/border_crop/front/"
+"f/5/f50b0449-8ff7-4549-893b-aeca93720c64.jpg?1667571554|https://scryfall.com/"
+"card/bro/129/conscripted-infantry?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:759
+#, fuzzy
+#| msgid ""
+#| "Whenever Skystrike Officer attacks, create a 1/1 colorless Soldier "
+#| "artifact creature token."
+msgid ""
+"When Conscripted Infantry dies, create a 1/1 colorless Soldier artifact "
+"creature token."
+msgstr ""
+"Kiedy niniejszy zaatakuje, stwórz żeton bezkolorowego artefaktowego stwora "
+"Piechur 1/1."
+
+#: ../../BRO.rst:768
 msgid ""
 ":mtgtip:`Draconic Destiny<https://cards.scryfall.io/border_crop/front/f/7/"
 "f71240ad-1daf-419a-aaeb-5f9d5079c3dd.jpg?1667397952|https://scryfall.com/"
 "card/bro/130/draconic-destiny?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:549
+#: ../../BRO.rst:765
 msgid ""
 "Enchanted creature gets +1/+1 and has flying, haste, and \"|mana_1|: This "
 "creature gets +1/+0 until end of turn.\" It's a Dragon in addition to its "
 "other types."
 msgstr ""
 
-#: ../../BRO.rst:551
+#: ../../BRO.rst:767
 msgid ""
 "When enchanted creature dies, return Draconic Destiny to its owner's hand."
 msgstr ""
 
-#: ../../BRO.rst:556
+#: ../../BRO.rst:774
+msgid ""
+":mtgtip:`Dwarven Forge-Chanter<https://cards.scryfall.io/border_crop/front/b/"
+"b/bbd6a95a-11b9-43aa-b293-20a3102bae71.jpg?1667571648|https://scryfall.com/"
+"card/bro/131/dwarven-forge-chanter?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:771
+msgid ""
+"Ward—Pay 2 life. (Whenever this creature becomes the target of a spell or "
+"ability an opponent controls, counter it unless that player pays 2 life.)"
+msgstr ""
+
+#: ../../BRO.rst:778
+msgid ""
+":mtgtip:`Excavation Explosion<https://cards.scryfall.io/border_crop/front/"
+"a/1/a169612e-f5de-4653-bc31-9ede8c5bdc75.jpg?1667538612|https://scryfall.com/"
+"card/bro/132/excavation-explosion?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:777
+#, fuzzy
+#| msgid ""
+#| "Draw two cards, then discard a card. Create a tapped Powerstone token. "
+#| "(It's an artifact with \"|tap|: Add |colorless|. This mana can't be spent "
+#| "to cast a nonartifact spell.\")"
+msgid ""
+"Excavation Explosion deals 3 damage to any target. Create a tapped "
+"Powerstone token. (It's an artifact with \"|tap|: Add |colorless|. This mana "
+"can't be spent to cast a nonartifact spell.\")"
+msgstr ""
+"Dobierz dwie karty, po czym odrzuć kartę. Stwórz przekręcony żeton Kamień "
+"Mocy. (To artefakt z \"|tap|: Weź |colorless|. Ta mana nie może być wydana "
+"na rzucenie nieartefaktowego czaru.\")"
+
+#: ../../BRO.rst:782
 msgid ""
 ":mtgtip:`The Fall of Kroog<https://cards.scryfall.io/border_crop/front/f/4/"
 "f454583d-d227-4fc8-842e-128e025880e4.jpg?1667139347|https://scryfall.com/"
 "card/bro/133/the-fall-of-kroog?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:555
+#: ../../BRO.rst:781
 msgid ""
 "Choose target opponent. Destroy target land that player controls. The Fall "
 "of Kroog deals 3 damage to that player and 1 damage to each creature they "
 "control."
 msgstr ""
 
-#: ../../BRO.rst:560
+#: ../../BRO.rst:786
 msgid ""
 ":mtgtip:`Fallaji Chaindancer<https://cards.scryfall.io/border_crop/front/4/"
 "d/4dc2da75-160d-47f9-b978-e153262ec1fc.jpg?1667329614|https://scryfall.com/"
 "card/bro/134/fallaji-chaindancer?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:559
+#: ../../BRO.rst:785
 msgid "|mana_2|: Fallaji Chaindancer gains double strike until end of turn."
 msgstr ""
 
-#: ../../BRO.rst:568
+#: ../../BRO.rst:794
 msgid ""
 ":mtgtip:`Feldon, Ronom Excavator<https://cards.scryfall.io/border_crop/"
 "front/5/c/5ca4cb0e-63ad-4275-a27f-da476260b467.jpg?1666996405|https://"
 "scryfall.com/card/bro/135/feldon-ronom-excavator?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:563 ../../BRO.rst:585 ../../BRO.rst:619
+#: ../../BRO.rst:789 ../../BRO.rst:819 ../../BRO.rst:853 ../../BRO.rst:923
 msgid "Haste"
 msgstr "Pośpiech"
 
-#: ../../BRO.rst:565
+#: ../../BRO.rst:791
 msgid "Feldon, Ronom Excavator can't block."
 msgstr ""
 
-#: ../../BRO.rst:567
+#: ../../BRO.rst:793
 msgid ""
 "Whenever Feldon is dealt damage, exile that many cards from the top of your "
 "library. Choose one of them. Until the end of your next turn, you may play "
 "that card."
 msgstr ""
 
-#: ../../BRO.rst:574
+#: ../../BRO.rst:800
 msgid ""
 ":mtgtip:`\"Slag Belcher\"<https://cards.scryfall.io/border_crop/"
-"front/1/3/1349465f-d29f-4d4b-a653-f4388574c336.jpg?1667392803|https://"
+"front/1/3/1349465f-d29f-4d4b-a653-f4388574c336.jpg?1667571699|https://"
 "scryfall.com/card/bro/136/slag-belcher?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:571 ../../BRO.rst:679 ../../BRO.rst:945 ../../BRO.rst:1007
-#: ../../BRO.rst:1089
+#: ../../BRO.rst:797 ../../BRO.rst:943 ../../BRO.rst:1081 ../../BRO.rst:1289
+#: ../../BRO.rst:1361 ../../BRO.rst:1459
 msgid "Trample"
 msgstr "Tratowanie"
 
-#: ../../BRO.rst:573
+#: ../../BRO.rst:799
 msgid "Players can't gain life."
 msgstr "Gracze nie mogą zyskiwać życia."
 
-#: ../../BRO.rst:578
+#: ../../BRO.rst:804
 msgid ""
 ":mtgtip:`Goblin Blast-Runner<https://cards.scryfall.io/border_crop/front/b/d/"
 "bd77c575-93a4-44ec-8940-adcbfc6e7a84.jpg?1667379219|https://scryfall.com/"
 "card/bro/137/goblin-blast-runner?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:577
+#: ../../BRO.rst:803
 msgid ""
 "Goblin Blast-Runner gets +2/+0 and has menace as long as you sacrificed a "
 "permanent this turn."
 msgstr ""
 
-#: ../../BRO.rst:582
+#: ../../BRO.rst:812
+msgid ""
+":mtgtip:`Horned Stoneseeker<https://cards.scryfall.io/border_crop/front/5/"
+"c/5cd965a9-caa2-42a3-b2f9-e4f57341ac27.jpg?1667571782|https://scryfall.com/"
+"card/bro/138/horned-stoneseeker?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:807 ../../BRO.rst:935 ../../BRO.rst:1647
+msgid "Menace"
+msgstr "Złowrogość"
+
+#: ../../BRO.rst:809
+#, fuzzy
+#| msgid ""
+#| "Draw two cards, then discard a card. Create a tapped Powerstone token. "
+#| "(It's an artifact with \"|tap|: Add |colorless|. This mana can't be spent "
+#| "to cast a nonartifact spell.\")"
+msgid ""
+"When Horned Stoneseeker enters the battlefield, create a tapped Powerstone "
+"token. (It's an artifact with \"|tap|: Add |colorless|. This mana can't be "
+"spent to cast a nonartifact spell.\")"
+msgstr ""
+"Dobierz dwie karty, po czym odrzuć kartę. Stwórz przekręcony żeton Kamień "
+"Mocy. (To artefakt z \"|tap|: Weź |colorless|. Ta mana nie może być wydana "
+"na rzucenie nieartefaktowego czaru.\")"
+
+#: ../../BRO.rst:811
+#, fuzzy
+#| msgid "When Combat Thresher enters the battlefield, draw a card."
+msgid "When Horned Stoneseeker leaves the battlefield, sacrifice a Powerstone."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+
+#: ../../BRO.rst:816
 msgid ""
 ":mtgtip:`Mechanized Warfare<https://cards.scryfall.io/border_crop/front/b/a/"
 "ba2d026f-bdca-4376-9d70-c81c707598e8.jpg?1667419829|https://scryfall.com/"
 "card/bro/139/mechanized-warfare?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:581
+#: ../../BRO.rst:815
 msgid ""
 "If a red or artifact source you control would deal damage to an opponent or "
 "a permanent an opponent controls, it deals that much damage plus 1 instead."
 msgstr ""
 
-#: ../../BRO.rst:590
+#: ../../BRO.rst:824
 msgid ""
 ":mtgtip:`Mishra, Excavation Prodigy<https://cards.scryfall.io/border_crop/"
 "front/f/5/f5d02416-8578-40a5-bf31-d1ef9b8764f1.jpg?1666929409|https://"
 "scryfall.com/card/bro/140/mishra-excavation-prodigy?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:587
+#: ../../BRO.rst:821
 msgid "|mana_1|, |tap|, Discard a card: Draw a card."
 msgstr ""
 
-#: ../../BRO.rst:589
+#: ../../BRO.rst:823
 msgid ""
 "Whenever you discard one or more artifact cards, add |mana_r|\\ |mana_r|. "
 "This ability triggers only once each turn."
 msgstr ""
 
-#: ../../BRO.rst:602
+#: ../../BRO.rst:836
 msgid ""
 ":mtgtip:`Mishra's Command<https://cards.scryfall.io/border_crop/front/f/4/"
 "f4d2e518-30c6-480c-aaf4-b7596c9479e4.jpg?1667090442|https://scryfall.com/"
 "card/bro/141/mishras-command?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:595
+#: ../../BRO.rst:829
 msgid ""
 "Choose target player. They may discard up to X cards. Then they draw a card "
 "for each card discarded this way."
 msgstr ""
 
-#: ../../BRO.rst:597
+#: ../../BRO.rst:831
 msgid "This spell deals X damage to target creature."
 msgstr "Ten czar zadaje wskazanemu stworowi X obrażeń."
 
-#: ../../BRO.rst:599
+#: ../../BRO.rst:833
 msgid "This spell deals X damage to target planeswalker."
 msgstr "Ten czar zadaje wskazanemu wędrowcowi X obrażeń."
 
-#: ../../BRO.rst:601
+#: ../../BRO.rst:835
 msgid "Target creature gets +X/+0 and gains haste until end of turn."
 msgstr "Wskazany stwór do końca tury dostaje +X/+0 i pośpiech."
 
-#: ../../BRO.rst:608
+#: ../../BRO.rst:842
 msgid ""
 ":mtgtip:`Mishra's Domination<https://cards.scryfall.io/border_crop/"
 "front/8/7/87c71fb1-a30b-4e0e-a6d6-4656cfff2da1.jpg?1667374051|https://"
 "scryfall.com/card/bro/142/mishras-domination?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:607
+#: ../../BRO.rst:841
 msgid ""
 "As long as you control enchanted creature, it gets +2/+2. Otherwise, it "
 "can't block."
 msgstr ""
 
-#: ../../BRO.rst:616
+#: ../../BRO.rst:850
 msgid ""
 ":mtgtip:`Mishra's Onslaught<https://cards.scryfall.io/border_crop/front/e/d/"
 "eda82e38-c1d4-4019-8f79-f91602d941b0.jpg?1667329728|https://scryfall.com/"
 "card/bro/143/mishras-onslaught?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:613
+#: ../../BRO.rst:847
 msgid "Create two 1/1 colorless Soldier artifact creature tokens."
 msgstr "Stwórz dwa żetony bezkolorowego artefaktowego stwora Piechur 1/1."
 
-#: ../../BRO.rst:615
+#: ../../BRO.rst:849
 msgid "Creatures you control get +2/+0 until end of turn."
 msgstr "Stwory pod twoim władaniem dostają do końca tury +2/+0."
 
-#: ../../BRO.rst:622
+#: ../../BRO.rst:856
 msgid ""
 ":mtgtip:`Monastery Swiftspear<https://cards.scryfall.io/border_crop/front/"
 "d/6/d6bfa227-4309-40ed-952c-279595eab17e.jpg?1666996266|https://scryfall.com/"
 "card/bro/144/monastery-swiftspear?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:621
-msgid ""
-"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 "
-"until end of turn.)"
-msgstr ""
-"Waleczność (Ilekroć rzucisz nie-stworowy czar, ten stwór do końca tury "
-"dostaje +1/+1.)"
-
-#: ../../BRO.rst:626
+#: ../../BRO.rst:860
 msgid ""
 ":mtgtip:`Obliterating Bolt<https://cards.scryfall.io/border_crop/front/7/"
 "f/7f886411-8216-4fb7-9172-a408c39043ee.jpg?1667374065|https://scryfall.com/"
 "card/bro/145/obliterating-bolt?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:625
+#: ../../BRO.rst:859
 msgid ""
 "Obliterating Bolt deals 4 damage to target creature or planeswalker. If that "
 "creature or planeswalker would die this turn, exile it instead."
 msgstr ""
 
-#: ../../BRO.rst:632
+#: ../../BRO.rst:864
+msgid ""
+":mtgtip:`Over the Top<https://cards.scryfall.io/border_crop/"
+"front/0/1/01eb9702-55c5-41b2-8bef-63d33dafa599.jpg?1667571836|https://"
+"scryfall.com/card/bro/146/over-the-top?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:863
+msgid ""
+"Each player reveals a number of cards from the top of their library equal to "
+"the number of nonland permanent they control, puts all permanent cards "
+"revealed that way onto the battlefield, and puts the rest into their "
+"graveyard."
+msgstr ""
+
+#: ../../BRO.rst:868
+msgid ""
+":mtgtip:`Penregon Strongbull<https://cards.scryfall.io/border_crop/front/1/"
+"c/1c2deb43-7134-4f9c-b02d-78407a8986b1.jpg?1667571894|https://scryfall.com/"
+"card/bro/147/penregon-strongbull?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:867
+msgid ""
+"|mana_1|, Sacrifice an artifact: Penregon Strongbull gets +1/+1 until end of "
+"turn and deals 1 damage to each opponent."
+msgstr ""
+
+#: ../../BRO.rst:874
 msgid ""
 ":mtgtip:`Pyrrhic Blast<https://cards.scryfall.io/border_crop/front/a/5/"
 "a523d5a7-58b1-45a3-81a7-078da02fda16.jpg?1667330207|https://scryfall.com/"
 "card/bro/148/pyrrhic-blast?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:631
+#: ../../BRO.rst:873
 msgid ""
 "Pyrrhic Blast deals damage equal to the sacrificed creature's power to any "
 "target. Draw a card."
 msgstr ""
 
-#: ../../BRO.rst:638
+#: ../../BRO.rst:880
 msgid ""
 ":mtgtip:`Raze to the Ground<https://cards.scryfall.io/border_crop/"
 "front/8/3/838b25d2-7615-4375-a5e6-3d762c9072a5.jpg?1667330153|https://"
 "scryfall.com/card/bro/149/raze-to-the-ground?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:635
+#: ../../BRO.rst:877
 msgid "This spell can't be countered."
 msgstr "Ten czar nie może być skontrowany."
 
-#: ../../BRO.rst:637
+#: ../../BRO.rst:879
 msgid "Destroy target artifact. If its mana value was 1 or less, draw a card."
 msgstr ""
 "Zniszcz wskazany artefakt. Jeśli miał on skrót many 1 lub mniejszy, dobierz "
 "kartę."
 
-#: ../../BRO.rst:642
+#: ../../BRO.rst:884
+msgid ""
+":mtgtip:`Roc Hunter<https://cards.scryfall.io/border_crop/front/5/"
+"c/5c8b2f2b-6f19-47f7-bb65-00665989bc30.jpg?1667571973|https://scryfall.com/"
+"card/bro/150/roc-hunter?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:883 ../../BRO.rst:1127 ../../BRO.rst:1295 ../../BRO.rst:1505
+#: ../../BRO.rst:1513
+msgid "Reach"
+msgstr "Zasięg"
+
+#: ../../BRO.rst:888
 msgid ""
 ":mtgtip:`Sardian Cliffstomper<https://cards.scryfall.io/border_crop/front/"
 "c/1/c1c42d56-5b0e-4624-8831-77280f8d56cf.jpg?1667289458|https://scryfall.com/"
 "card/bro/151/sardian-cliffstomper?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:641
+#: ../../BRO.rst:887
 msgid ""
 "As long as it's your turn and you control four or more Mountains, Sardian "
 "Cliffstomper gets +X/+0, where X is the number of Mountains you control."
 msgstr ""
 
-#: ../../BRO.rst:646
+#: ../../BRO.rst:892
 msgid ""
 ":mtgtip:`Sibling Rivalry<https://cards.scryfall.io/border_crop/front/c/4/"
 "c44b24de-60b4-4855-9111-f1237f71bc4d.jpg?1667330224|https://scryfall.com/"
 "card/bro/152/sibling-rivalry?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:645
+#: ../../BRO.rst:891
 #, fuzzy
 #| msgid ""
 #| "Draw two cards, then discard a card. Create a tapped Powerstone token. "
@@ -2250,32 +3046,60 @@ msgstr ""
 "Mocy. (To artefakt z \"|tap|: Weź |colorless|. Ta mana nie może być wydana "
 "na rzucenie nieartefaktowego czaru.\")"
 
-#: ../../BRO.rst:654
+#: ../../BRO.rst:896
+msgid ""
+":mtgtip:`Tomakul Sparksmith<https://cards.scryfall.io/border_crop/front/d/4/"
+"d462d30c-9060-46d6-b5b3-cac476ee2ce1.jpg?1667572052|https://scryfall.com/"
+"card/bro/153/tomakul-sparksmith?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:895
+msgid ""
+"When Tomakul Sparksmith enters the battlefield, mill three cards. You may "
+"put an artifact card from among the cards milled this way into your hand. If "
+"you don't, put a +1/+1 counter on Tomakul Scrapsmith. (To mill a card, put "
+"the top card of your library into your graveyard.)"
+msgstr ""
+
+#: ../../BRO.rst:904
 msgid ""
 ":mtgtip:`Tyrant of Kher Ridges<https://cards.scryfall.io/border_crop/"
 "front/7/2/72a271b1-b757-4373-8e6d-e9698ae96bed.jpg?1667288925|https://"
 "scryfall.com/card/bro/154/tyrant-of-kher-ridges?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:651
+#: ../../BRO.rst:901
 msgid ""
 "When Tyrant of Kher Ridges enters the battlefield, it deals 4 damage to any "
 "target."
 msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, zadaje on wskazanemu celowi 4 obrażenia."
 
-#: ../../BRO.rst:653
+#: ../../BRO.rst:903
 msgid "|mana_r|: Tyrant of Kher Ridges gets +1/+0 until end of turn."
 msgstr "|mana_r|: Ten stwór do końca tury dostaje +1/+0."
 
-#: ../../BRO.rst:660
+#: ../../BRO.rst:908
+msgid ""
+":mtgtip:`Unleash Shell<https://cards.scryfall.io/border_crop/front/1/"
+"b/1be13abf-b717-4122-ab2b-7e597a251d52.jpg?1667538573|https://scryfall.com/"
+"card/bro/155/unleash-shell?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:907
+msgid ""
+"Unleash Shell deals 5 damage to target creature or planeswalker and 2 damage "
+"to that permanent's controller."
+msgstr ""
+
+#: ../../BRO.rst:914
 msgid ""
 ":mtgtip:`Visions of Phyrexia<https://cards.scryfall.io/border_crop/front/e/9/"
 "e922ef35-b62a-4cf8-9282-319f6de150b0.jpg?1667330304|https://scryfall.com/"
 "card/bro/156/visions-of-phyrexia?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:657
+#: ../../BRO.rst:911
 msgid ""
 "At the beginning of your upkeep, exile the top card of your library. You may "
 "play that card this turn."
@@ -2283,7 +3107,7 @@ msgstr ""
 "Na początku twojego kroku utrzymania, wygnaj wierzchnią kartę twojej "
 "biblioteki. Możesz zagrać ową kartę w tej turze."
 
-#: ../../BRO.rst:659
+#: ../../BRO.rst:913
 #, fuzzy
 #| msgid ""
 #| "Draw two cards, then discard a card. Create a tapped Powerstone token. "
@@ -2298,41 +3122,65 @@ msgstr ""
 "Mocy. (To artefakt z \"|tap|: Weź |colorless|. Ta mana nie może być wydana "
 "na rzucenie nieartefaktowego czaru.\")"
 
-#: ../../BRO.rst:668
+#: ../../BRO.rst:918
+msgid ""
+":mtgtip:`Whirling Strike<https://cards.scryfall.io/border_crop/front/b/1/"
+"b17950ae-43aa-4d03-a41e-726ca96eb1ba.jpg?1667538708|https://scryfall.com/"
+"card/bro/157/whirling-strike?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:917
+#, fuzzy
+#| msgid "Target creature gets +X/+0 and gains haste until end of turn."
+msgid ""
+"Target creature gets +2/+0 and gains first strike and trample until end of "
+"turn."
+msgstr "Wskazany stwór do końca tury dostaje +X/+0 i pośpiech."
+
+#: ../../BRO.rst:924
+msgid ""
+":mtgtip:`Blitz Automaton<https://cards.scryfall.io/border_crop/front/e/4/"
+"e4e5529a-848b-486c-97fb-1def35df7837.jpg?1667572136|https://scryfall.com/"
+"card/bro/158/blitz-automaton?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:921
+msgid ""
+"Prototype |mana_2|\\ |mana_r| - 3/2 (You may cast this spell with different "
+"mana cost, color, and size. It keeps its abilities and types.)"
+msgstr ""
+
+#: ../../BRO.rst:932
 msgid ""
 ":mtgtip:`Fallaji Dragon Engine<https://cards.scryfall.io/border_crop/front/"
 "f/7/f7761ed0-a784-4dfb-ab6c-0f4b9a411cf3.jpg?1667290055|https://scryfall.com/"
 "card/bro/159/fallaji-dragon-engine?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:663
+#: ../../BRO.rst:927
 msgid ""
 "Prototype |mana_2|\\ |mana_r| — 1/3 (You may cast this spell with different "
 "mana cost, color, and size. It keeps its abilities and types.)"
 msgstr ""
 
-#: ../../BRO.rst:667
+#: ../../BRO.rst:931
 msgid "|mana_2|: Fallaji Dragon Engine gets +1/+0 until end of turn."
 msgstr "|mana_2|: Ten stwór do końca tury dostaje +1/+0."
 
-#: ../../BRO.rst:676
+#: ../../BRO.rst:940
 msgid ""
 ":mtgtip:`Heavyweight Demolisher<https://cards.scryfall.io/border_crop/front/"
 "f/7/f72de800-b28e-42c4-a3ca-5ec3a765d807.jpg?1667288515|https://scryfall.com/"
 "card/bro/160/heavyweight-demolisher?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:671
-msgid "Menace"
-msgstr "Złowrogość"
-
-#: ../../BRO.rst:673
+#: ../../BRO.rst:937
 msgid ""
 "At the beginning of your upkeep, tap Heavyweight Demolisher unless you pay |"
 "mana_3|."
 msgstr ""
 
-#: ../../BRO.rst:675
+#: ../../BRO.rst:939
 #, fuzzy
 #| msgid ""
 #| "Unearth |mana_2|\\ |mana_w| (|mana_2|\\ |mana_w|: Return this card from "
@@ -2350,18 +3198,18 @@ msgstr ""
 "najbliższego kroku końcowego lub gdyby miała opuścić pole bitwy. Aktywuj "
 "tylko jako obrzęd.)"
 
-#: ../../BRO.rst:684
+#: ../../BRO.rst:948
 msgid ""
 ":mtgtip:`Mishra's Juggernaut<https://cards.scryfall.io/border_crop/front/b/3/"
 "b30457c3-57df-4720-8b45-962f16316d17.jpg?1667142122|https://scryfall.com/"
 "card/bro/161/mishras-juggernaut?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:681
+#: ../../BRO.rst:945
 msgid "Mishra's Juggernaut attacks each combat if able."
 msgstr ""
 
-#: ../../BRO.rst:683
+#: ../../BRO.rst:947
 msgid ""
 "Unearth |mana_5|\\ |mana_r| (|mana_5|\\ |mana_r|: Return this card from your "
 "graveyard to the battlefield. It gains haste. Exile it at the beginning of "
@@ -2369,21 +3217,21 @@ msgid ""
 "sorcery.)"
 msgstr ""
 
-#: ../../BRO.rst:690
+#: ../../BRO.rst:954
 msgid ""
 ":mtgtip:`Mishra's Research Desk<https://cards.scryfall.io/border_crop/front/"
 "b/b/bb142d99-b210-47c8-897c-be62f90d2192.jpg?1667400327|https://scryfall.com/"
 "card/bro/162/mishras-research-desk?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:687
+#: ../../BRO.rst:951
 msgid ""
 "|mana_1|, |tap|, Sacrifice Mishra's Research Desk: Exile the top two cards "
 "of your library. Choose one of them. Until the end of your next turn, you "
 "may play that card."
 msgstr ""
 
-#: ../../BRO.rst:689
+#: ../../BRO.rst:953 ../../BRO.rst:985
 msgid ""
 "Unearth |mana_1|\\ |mana_r| (|mana_1|\\ |mana_r|: Return this card from your "
 "graveyard to the battlefield. It gains haste. Exile it at the beginning of "
@@ -2395,14 +3243,14 @@ msgstr ""
 "najbliższego kroku końcowego lub gdyby miała opuścić pole bitwy. Aktywuj "
 "tylko jako obrzęd.)"
 
-#: ../../BRO.rst:700
+#: ../../BRO.rst:964
 msgid ""
 ":mtgtip:`Phyrexian Dragon Engine<https://cards.scryfall.io/border_crop/front/"
 "e/2/e2b826be-4256-4fd6-ad4d-6c80933ee940.jpg?1666899818|https://scryfall.com/"
 "card/bro/163a/phyrexian-dragon-engine?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:695
+#: ../../BRO.rst:959
 msgid ""
 "When Phyrexian Dragon Engine enters the battlefield from your graveyard, you "
 "may discard your hand. If you do, draw three cards."
@@ -2410,83 +3258,102 @@ msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy z twojego cmentarza, możesz odrzucić "
 "twoją rękę. Jeśli tak zrobisz, dobierz trzy karty."
 
-#: ../../BRO.rst:697
+#: ../../BRO.rst:961
 msgid "Unearth |mana_3|\\ |mana_r|\\ |mana_r|"
 msgstr "Odkopanie |mana_3|\\ |mana_r|\\ |mana_r|"
 
-#: ../../BRO.rst:699
+#: ../../BRO.rst:963
 msgid "(Melds with Mishra, Claimed by Gix.)"
 msgstr "(Łączy się z Mishra, Claimed by Gix.)"
 
-#: ../../BRO.rst:716
+#: ../../BRO.rst:980
 msgid ""
 ":mtgtip:`Mishra, Lost to Phyrexia<https://cards.scryfall.io/border_crop/"
 "front/0/2/0220c1e9-07bc-44f0-b39e-ca345ec4ea28.jpg?1666313555|https://"
 "scryfall.com/card/bro/163b/mishra-lost-to-phyrexia?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:703
+#: ../../BRO.rst:967
 msgid ""
 "Whenever Mishra, Lost to Phyrexia enters the battlefield or attacks, choose "
 "three —"
 msgstr "Ilekroć ten byt wejdzie na pole bitwy lub zaatakuje, wybierz trzy —"
 
-#: ../../BRO.rst:705
+#: ../../BRO.rst:969
 msgid "Target opponent discards two cards."
 msgstr "Wskazany przeciwnik odrzuca dwie karty."
 
-#: ../../BRO.rst:707
+#: ../../BRO.rst:971
 msgid "Mishra deals 3 damage to any target."
 msgstr "Ten byt zadaje wskazanemu celowi 3 obrażenia."
 
-#: ../../BRO.rst:709
+#: ../../BRO.rst:973
 msgid "Destroy target artifact or planeswalker."
 msgstr "Zniszcz wskazany artefakt lub wędrowca."
 
-#: ../../BRO.rst:711
+#: ../../BRO.rst:975
 msgid "Creatures you control gain menace and trample until end of turn."
 msgstr ""
 "Stwory pod twoim władaniem do końca tury zyskują złowrogość i tratowanie."
 
-#: ../../BRO.rst:713
+#: ../../BRO.rst:977
 msgid "Creatures you don't control get -1/-1 until end of turn."
 msgstr "Stwory poza twoim władaniem dostają do końca tury -1/-1."
 
-#: ../../BRO.rst:715
+#: ../../BRO.rst:979
 msgid "Create two tapped Powerstone tokens."
 msgstr "Stwórz dwa przekręcone żetony Kamienia Mocy."
 
-#: ../../BRO.rst:724
+#: ../../BRO.rst:986
+msgid ""
+":mtgtip:`Scrapwork Mutt<https://cards.scryfall.io/border_crop/"
+"front/4/7/4742800a-4872-4c2d-b884-01e0ba16950c.jpg?1667563292|https://"
+"scryfall.com/card/bro/164/scrapwork-mutt?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:983
+#, fuzzy
+#| msgid ""
+#| "When Bitter Reunion enters the battlefield, you may discard a card. If "
+#| "you do, draw two cards."
+msgid ""
+"When Scrapwork Mutt enters the battlefield, you may discard a card. If you "
+"do, draw a card."
+msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, możesz odrzucić kartę. Jeśli tak "
+"zrobisz, dobierz dwie karty."
+
+#: ../../BRO.rst:994
 msgid ""
 ":mtgtip:`Skitterbeam Battalion<https://cards.scryfall.io/border_crop/"
 "front/3/8/38fc1715-4ddb-4404-83c6-0b8a61922578.jpg?1667089183|https://"
 "scryfall.com/card/bro/165/skitterbeam-battalion?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:719
+#: ../../BRO.rst:989
 msgid ""
 "Prototype |mana_3|\\ |mana_r|\\ |mana_r| — 2/2 (You may cast this spell with "
 "different mana cost, color, and size. It keeps its abilities and types.)"
 msgstr ""
 
-#: ../../BRO.rst:721
+#: ../../BRO.rst:991
 msgid "Trample, haste"
 msgstr "Tratowanie, pośpiech"
 
-#: ../../BRO.rst:723
+#: ../../BRO.rst:993
 msgid ""
 "When Skitterbeam Battalion enters the battlefield, if you cast it, create "
 "two tokens that are copies of it."
 msgstr ""
 
-#: ../../BRO.rst:728
+#: ../../BRO.rst:998
 msgid ""
 ":mtgtip:`Alloy Animist<https://cards.scryfall.io/border_crop/"
 "front/7/1/71a49b18-a339-401c-ab77-fcd04772cf69.jpg?1667372087|https://"
 "scryfall.com/card/bro/166/alloy-animist?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:727
+#: ../../BRO.rst:997
 #, fuzzy
 #| msgid ""
 #| "|mana_1|\\ |mana_u|: Return target artifact you control to its owner's "
@@ -2498,83 +3365,111 @@ msgstr ""
 "|mana_1|\\ |mana_u|: Przywróć wskazany artefakt pod twoim władaniem do ręki "
 "właściciela."
 
-#: ../../BRO.rst:732
+#: ../../BRO.rst:1002
 msgid ""
 ":mtgtip:`Argothian Opportunist<https://cards.scryfall.io/border_crop/front/"
 "b/2/b22586ce-efcc-4b20-83f9-c23b8eeaa88c.jpg?1667090033|https://scryfall.com/"
 "card/bro/167/argothian-opportunist?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:731
+#: ../../BRO.rst:1001
 msgid ""
 "When Argothian Opportunist enters the battlefield, create a tapped "
 "Powerstone token. (It's an artifact with \"|tap|: Add |colorless|. This mana "
 "can't be spent to cast a nonartifact spell.\")"
 msgstr ""
 
-#: ../../BRO.rst:738
+#: ../../BRO.rst:1008
 msgid ""
 ":mtgtip:`Argothian Sprite<https://cards.scryfall.io/border_crop/front/b/5/"
 "b5dbc383-7e08-4701-8d4a-6b99b74fe358.jpg?1667430070|https://scryfall.com/"
 "card/bro/168/argothian-sprite?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:735
+#: ../../BRO.rst:1005
 msgid "Argothian Sprite can't be blocked by artifact creatures."
 msgstr ""
 
-#: ../../BRO.rst:737
+#: ../../BRO.rst:1007
 msgid "|mana_7|: Put two +1/+1 counters on Argothian Sprite."
 msgstr ""
 
-#: ../../BRO.rst:746
+#: ../../BRO.rst:1016
 msgid ""
 ":mtgtip:`Audacity<https://cards.scryfall.io/border_crop/"
 "front/4/0/40b0813a-38cf-4a07-81d6-91d24af8b549.jpg?1667290119|https://"
 "scryfall.com/card/bro/169/audacity?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:743
+#: ../../BRO.rst:1013
 msgid "Enchanted creature gets +2/+0 and has trample."
 msgstr "Zauroczony stwór dostaje +2/+0 i ma tratowanie."
 
-#: ../../BRO.rst:745
+#: ../../BRO.rst:1015
 msgid ""
 "When Audacity is put into a graveyard from the battlefield, draw a card."
 msgstr ""
 
-#: ../../BRO.rst:750
+#: ../../BRO.rst:1020
 msgid ""
 ":mtgtip:`Awaken the Woods<https://cards.scryfall.io/border_crop/front/1/"
 "c/1c95f8b8-faba-4412-8d8f-093e2ec903f0.jpg?1667430717|https://scryfall.com/"
 "card/bro/170/awaken-the-woods?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:749
+#: ../../BRO.rst:1019
 msgid ""
 "Create X 1/1 green Forest Dryad land creature tokens. (They're affected by "
 "summoning sickness.)"
 msgstr ""
 
-#: ../../BRO.rst:756
+#: ../../BRO.rst:1026
 msgid ""
 ":mtgtip:`Blanchwood Armor<https://cards.scryfall.io/border_crop/front/e/4/"
 "e41c0a68-53be-4905-8ed3-79b4782dfd6e.jpg?1667289649|https://scryfall.com/"
 "card/bro/171/blanchwood-armor?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:755
+#: ../../BRO.rst:1025
 msgid "Enchanted creature gets +1/+1 for each Forest you control."
 msgstr "Zauroczony stwór dostaje +1/+1 za każdy Las pod twoim władaniem."
 
-#: ../../BRO.rst:764
+#: ../../BRO.rst:1030
 msgid ""
-":mtgtip:`\"Tiller Thriller\"<https://cards.scryfall.io/border_crop/"
-"front/7/1/712a0640-d9c8-46fc-b38b-bf20a40fa902.jpg?1667430555|https://"
-"scryfall.com/card/bro/174/tiller-thriller?utm_source=api>`"
+":mtgtip:`Blanchwood Prowler<https://cards.scryfall.io/border_crop/front/9/"
+"c/9c6988b6-ade0-4cd5-b27c-146e5e7ae91f.jpg?1667538505|https://scryfall.com/"
+"card/bro/172/blanchwood-prowler?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:761
+#: ../../BRO.rst:1029
+msgid ""
+"When Blanchwood Prowler enters the battlefield, mill three cards. You may "
+"put a land card from among the cards milled this way into your hand. If you "
+"don't, put a +1/+1 counter on Blanchwood Prowler. (To mill a card, put the "
+"top card of your library into your graveyard.)"
+msgstr ""
+
+#: ../../BRO.rst:1034
+msgid ""
+":mtgtip:`Burrowing Razormaw<https://cards.scryfall.io/border_crop/front/a/7/"
+"a7c8c73c-ee2e-4aa9-aa6c-42cf9d58d9cc.jpg?1667572231|https://scryfall.com/"
+"card/bro/173/burrowing-razormaw?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:1033
+msgid ""
+"When Burrowing Razormaw dies, mill four cards. (Put the top four cards of "
+"your library into your graveyard.)"
+msgstr ""
+
+#: ../../BRO.rst:1042
+msgid ""
+":mtgtip:`Bushwhack<https://cards.scryfall.io/border_crop/front/7/1/712a0640-"
+"d9c8-46fc-b38b-bf20a40fa902.jpg?1667540437|https://scryfall.com/card/bro/174/"
+"bushwhack?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:1039
 msgid ""
 "Search your library for a basic land card, reveal it, put it into your hand, "
 "then shuffle."
@@ -2582,20 +3477,35 @@ msgstr ""
 "Wyszukaj w twojej bibliotece kartę bazowego lądu, ujawnij ją i umieść w "
 "twojej ręce, po czym przetasuj."
 
-#: ../../BRO.rst:763
-msgid "Target creature you control fights target creature you don't control."
+#: ../../BRO.rst:1041
+msgid ""
+"Target creature you control fights target creature you don't control. (Each "
+"deals damage equal to its power to the other.)"
 msgstr ""
 "Wskazany stwór pod twoim władaniem walczy ze wskazanym stworem poza twoim "
-"władaniem."
+"władaniem. (Każdy zadaje drugiemu obrażenia równe swojej sile.)"
 
-#: ../../BRO.rst:768
+#: ../../BRO.rst:1046
+msgid ""
+":mtgtip:`Citanul Stalwart<https://cards.scryfall.io/border_crop/front/a/8/"
+"a842a945-21d9-432c-b970-6da65b16f309.jpg?1667572306|https://scryfall.com/"
+"card/bro/175/citanul-stalwart?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:1045
+msgid ""
+"|tap|, Tap an untapped artifact or creature you control: Add one mana of any "
+"color."
+msgstr ""
+
+#: ../../BRO.rst:1050
 msgid ""
 ":mtgtip:`Epic Confrontation<https://cards.scryfall.io/border_crop/"
 "front/3/5/35ba6c05-a4c2-422b-a4cb-852b3aef77a5.jpg?1667330455|https://"
 "scryfall.com/card/bro/176/epic-confrontation?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:767
+#: ../../BRO.rst:1049
 msgid ""
 "Target creature you control gets +1/+2 until end of turn. It fights target "
 "creature you don't control. (Each deals damage equal to its power to the "
@@ -2605,27 +3515,27 @@ msgstr ""
 "wskazanym stworem poza twoim władaniem. (Każdy zadaje drugiemu obrażenia "
 "równe swojej sile.)"
 
-#: ../../BRO.rst:772
+#: ../../BRO.rst:1054
 msgid ""
 ":mtgtip:`Fade from History<https://cards.scryfall.io/border_crop/"
 "front/7/1/71f13f67-e852-4a6a-8f32-b16195e53ec3.jpg?1667131294|https://"
 "scryfall.com/card/bro/177/fade-from-history?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:771
+#: ../../BRO.rst:1053
 msgid ""
 "Each player who controls an artifact or enchantment creates a 2/2 green Bear "
 "creature token. Then destroy all artifacts and enchantments."
 msgstr ""
 
-#: ../../BRO.rst:776
+#: ../../BRO.rst:1058
 msgid ""
 ":mtgtip:`Fallaji Excavation<https://cards.scryfall.io/border_crop/front/a/c/"
 "ac75c41f-82dc-4b06-a233-9b74ea177a3d.jpg?1667330583|https://scryfall.com/"
 "card/bro/178/fallaji-excavation?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:775
+#: ../../BRO.rst:1057
 #, fuzzy
 #| msgid ""
 #| "Create two tapped Powerstone tokens. If the sacrificed artifact was "
@@ -2641,14 +3551,14 @@ msgstr ""
 "colorless|. Ta mana nie może być wydana na rzucenie nieartefaktowego czaru."
 "\")"
 
-#: ../../BRO.rst:780
+#: ../../BRO.rst:1062
 msgid ""
 ":mtgtip:`Fauna Shaman<https://cards.scryfall.io/border_crop/front/b/8/"
 "b8b906eb-3223-474c-9b74-eda2c280f9c5.jpg?1667397998|https://scryfall.com/"
 "card/bro/179/fauna-shaman?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:779
+#: ../../BRO.rst:1061
 msgid ""
 "|mana_g|, |tap|, Discard a creature card: Search your library for a creature "
 "card, reveal it, put it into your hand, then shuffle."
@@ -2656,40 +3566,40 @@ msgstr ""
 "|mana_g|, |tap|, odrzuć kartę stwora: Wyszukaj w twojej bibliotece kartę "
 "stwora, ujawnij ją, umieść w twojej ręce, po czym przetasuj."
 
-#: ../../BRO.rst:784
+#: ../../BRO.rst:1066
 msgid ""
 ":mtgtip:`Fog of War<https://cards.scryfall.io/border_crop/"
 "front/3/7/37096c19-32c9-448a-94e9-f5fe2d74e3a3.jpg?1667330608|https://"
 "scryfall.com/card/bro/180/fog-of-war?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:783
+#: ../../BRO.rst:1065
 msgid ""
 "You gain 1 life for each creature on the battlefield. Prevent all combat "
 "damage that would be dealt this turn by creatures with power 3 or less."
 msgstr ""
 
-#: ../../BRO.rst:788
+#: ../../BRO.rst:1070
 msgid ""
 ":mtgtip:`Gaea's Courser<https://cards.scryfall.io/border_crop/front/1/"
 "a/1a0b94e5-d270-4820-83b9-1d346d378ff8.jpg?1667089927|https://scryfall.com/"
 "card/bro/181/gaeas-courser?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:787
+#: ../../BRO.rst:1069
 msgid ""
 "Whenever Gaea's Courser attacks, if there are three or more creature cards "
 "in your graveyard, draw a card."
 msgstr ""
 
-#: ../../BRO.rst:792
+#: ../../BRO.rst:1074
 msgid ""
 ":mtgtip:`Gaea's Gift<https://cards.scryfall.io/border_crop/"
 "front/5/5/5503186a-46fe-4956-8ae3-5ab3343f8a93.jpg?1667330677|https://"
 "scryfall.com/card/bro/182/gaeas-gift?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:791
+#: ../../BRO.rst:1073
 msgid ""
 "Put a +1/+1 counter on target creature you control. It gains reach, trample, "
 "hexproof, and indestructible until end of turn. (It can't be the target of "
@@ -2697,31 +3607,44 @@ msgid ""
 "\"destroy\" don't destroy it.)"
 msgstr ""
 
-#: ../../BRO.rst:796
+#: ../../BRO.rst:1078
 msgid ""
 ":mtgtip:`Giant Growth<https://cards.scryfall.io/border_crop/front/a/e/"
 "aeece336-e5e8-4455-a297-c3739198d011.jpg?1667302153|https://scryfall.com/"
 "card/bro/183/giant-growth?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:795
+#: ../../BRO.rst:1077
 msgid "Target creature gets +3/+3 until end of turn."
 msgstr "Wskazany stwór do końca tury dostaje +3/+3."
 
-#: ../../BRO.rst:802
+#: ../../BRO.rst:1084
+msgid ""
+":mtgtip:`Gnarlroot Pallbearer<https://cards.scryfall.io/border_crop/front/"
+"b/7/b7382154-ac8f-40ca-94e4-2f0533c0cf20.jpg?1667572374|https://scryfall.com/"
+"card/bro/184/gnarlroot-pallbearer?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:1083
+msgid ""
+"When Gnarlroot Pallbearer enters the battlefield, target creature gets +X/+X "
+"until end of turn, where X is the number of creature cards in your graveyard."
+msgstr ""
+
+#: ../../BRO.rst:1090
 msgid ""
 ":mtgtip:`Gwenna, Eyes of Gaea<https://cards.scryfall.io/border_crop/front/7/"
 "e/7ee387b7-18e4-41b7-aefe-f2b5954e3051.jpg?1667462363|https://scryfall.com/"
 "card/bro/185/gwenna-eyes-of-gaea?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:799
+#: ../../BRO.rst:1087
 msgid ""
 "|tap|: Add two mana in any combination of colors. Spend this mana only to "
 "cast creature spells or activate abilities of a creature or creature card."
 msgstr ""
 
-#: ../../BRO.rst:801
+#: ../../BRO.rst:1089
 msgid ""
 "Whenever you cast a creature spell with power 5 or greater, put a +1/+1 "
 "counter on Gwenna, Eyes of Gaea and untap it."
@@ -2729,18 +3652,35 @@ msgstr ""
 "Ilekroć rzucisz czar stwora o sile 5 lub większej, umieść znacznik +1/+1 na "
 "niniejszym i odkręć go."
 
-#: ../../BRO.rst:808
+#: ../../BRO.rst:1096
+msgid ""
+":mtgtip:`Hoarding Recluse<https://cards.scryfall.io/border_crop/"
+"front/6/5/6559afec-6bb8-4501-8805-4eb108443048.jpg?1667572429|https://"
+"scryfall.com/card/bro/186/hoarding-recluse?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:1093
+msgid "Reach, deathtouch"
+msgstr "Zasięg, dotyk śmierci"
+
+#: ../../BRO.rst:1095
+msgid ""
+"When Hoarding Recluse dies, put up to one other target card from a graveyard "
+"on the bottom of its owner's library."
+msgstr ""
+
+#: ../../BRO.rst:1102
 msgid ""
 ":mtgtip:`Obstinate Baloth<https://cards.scryfall.io/border_crop/front/e/1/"
 "e1b7809f-f3a3-439e-8bae-c083842de1bf.jpg?1667330702|https://scryfall.com/"
 "card/bro/187/obstinate-baloth?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:805
+#: ../../BRO.rst:1099
 msgid "When Obstinate Baloth enters the battlefield, you gain 4 life."
 msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 4 życia."
 
-#: ../../BRO.rst:807
+#: ../../BRO.rst:1101
 msgid ""
 "If a spell or ability an opponent controls causes you to discard Obstinate "
 "Baloth, put it onto the battlefield instead of putting it into your "
@@ -2749,58 +3689,101 @@ msgstr ""
 "Jeśli czar lub zdolność pod władaniem przeciwnika powoduje, że odrzucasz tę "
 "kartę, umieść ją na polu bitwy zamiast w twoim cmentarzu."
 
-#: ../../BRO.rst:812
+#: ../../BRO.rst:1106
+msgid ""
+":mtgtip:`Perimeter Patrol<https://cards.scryfall.io/border_crop/front/d/4/"
+"d4719bc1-4c27-45d8-89f7-8c76ccf946d2.jpg?1667538450|https://scryfall.com/"
+"card/bro/188/perimeter-patrol?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:1105
+#, fuzzy
+#| msgid ""
+#| "Whenever an artifact enters the battlefield under your control, target "
+#| "creature gains flying until end of turn."
+msgid ""
+"Whenever an artifact enters the battlefield under your control, Perimeter "
+"Patrol gets +1/+0 until end of turn."
+msgstr ""
+"Ilekroć artefakt wejdzie na pole bitwy pod twoim władaniem, wskazany stwór "
+"do końca tury zyskuje latanie."
+
+#: ../../BRO.rst:1110
+msgid ""
+":mtgtip:`Sarinth Steelseeker<https://cards.scryfall.io/border_crop/front/d/9/"
+"d96761b2-eb9c-4963-a496-ba53a01f4b17.jpg?1667521780|https://scryfall.com/"
+"card/bro/189/sarinth-steelseeker?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:1109
+msgid ""
+"Whenever an artifact enters the battlefield under your control, look at the "
+"top card of your library. If it's a land card, you may reveal it and put it "
+"into your hand. If you don't put the card into your hand, you may put it "
+"into your graveyard."
+msgstr ""
+
+#: ../../BRO.rst:1114
+msgid ""
+":mtgtip:`Shoot Down<https://cards.scryfall.io/border_crop/"
+"front/2/0/20014a1c-197c-4e04-94b2-874886183e2f.jpg?1667538377|https://"
+"scryfall.com/card/bro/190/shoot-down?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:1113
+#, fuzzy
+#| msgid "Destroy target artifact or enchantment."
+msgid "Exile target artifact, enchantment, or creature with flying."
+msgstr "Zniszcz wskazany artefakt lub urok."
+
+#: ../../BRO.rst:1118
 msgid ""
 ":mtgtip:`Tawnos's Tinkering<https://cards.scryfall.io/border_crop/front/a/c/"
 "acbd975d-52f8-4fba-bf97-b8837413edd8.jpg?1667330751|https://scryfall.com/"
 "card/bro/191/tawnoss-tinkering?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:811
+#: ../../BRO.rst:1117
 msgid ""
 "Put two +1/+1 counters on target artifact, creature, or land you control. "
 "Untap that permanent. If it isn't a creature, it becomes a 0/0 creature in "
 "addition to its other types."
 msgstr ""
 
-#: ../../BRO.rst:818
+#: ../../BRO.rst:1124
 msgid ""
 ":mtgtip:`Teething Wurmlet<https://cards.scryfall.io/border_crop/"
-"front/2/3/2350027a-f3a4-4cba-9dfc-27e33bddb3be.jpg?1667432880|https://"
+"front/2/3/2350027a-f3a4-4cba-9dfc-27e33bddb3be.jpg?1667572448|https://"
 "scryfall.com/card/bro/192/teething-wurmlet?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:815
+#: ../../BRO.rst:1121
 msgid ""
 "Teething Wurmlet has deathtouch as long as you control three or more "
 "artifacts."
 msgstr ""
 
-#: ../../BRO.rst:817
+#: ../../BRO.rst:1123
 msgid ""
 "Whenever an artifact enters the battlefield under your control, you gain 1 "
 "life. If this is the first time this ability has resolved this turn, put a "
 "+1/+1 counter on Teething Wurmlet."
 msgstr ""
 
-#: ../../BRO.rst:826
+#: ../../BRO.rst:1132
 msgid ""
 ":mtgtip:`Titania, Voice of Gaea<https://cards.scryfall.io/border_crop/front/"
 "d/e/deeb6a21-23b0-44f1-b70e-5899bb9d4a84.jpg?1667428875|https://scryfall.com/"
 "card/bro/193/titania-voice-of-gaea?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:821 ../../BRO.rst:951 ../../BRO.rst:1117
-msgid "Reach"
-msgstr "Zasięg"
-
-#: ../../BRO.rst:823
+#: ../../BRO.rst:1129
 msgid ""
 "Whenever one or more land cards are put into your graveyard from anywhere, "
 "you gain 2 life."
 msgstr ""
 
-#: ../../BRO.rst:825
+#: ../../BRO.rst:1131
 msgid ""
 "At the beginning of your upkeep, if there are four or more land cards in "
 "your graveyard and you both own and control Titania, Voice of Gaea and a "
@@ -2808,66 +3791,154 @@ msgid ""
 "Titania, Gaea Incarnate."
 msgstr ""
 
-#: ../../BRO.rst:830
+#: ../../BRO.rst:1144
+msgid ""
+":mtgtip:`Titania's Command<https://cards.scryfall.io/border_crop/"
+"front/7/5/753567c7-c484-4c0d-8128-7710e23c428f.jpg?1667522192|https://"
+"scryfall.com/card/bro/194/titanias-command?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:1137
+msgid ""
+"Exile target player's graveyard. You gain 1 life for each card exiled this "
+"way."
+msgstr ""
+
+#: ../../BRO.rst:1139
+#, fuzzy
+#| msgid ""
+#| "Search your library for a card, put that card into your hand, then "
+#| "shuffle."
+msgid ""
+"Search your library for up to two land cards, put them onto the battlefield "
+"tapped, then shuffle."
+msgstr ""
+"Wyszukaj kartę w twojej bibliotece, umieść ją w twojej ręce, po czym "
+"przetasuj."
+
+#: ../../BRO.rst:1141
+#, fuzzy
+#| msgid "Create two 1/1 colorless Soldier artifact creature tokens."
+msgid "Create two 2/2 green Bear creature token."
+msgstr "Stwórz dwa żetony bezkolorowego artefaktowego stwora Piechur 1/1."
+
+#: ../../BRO.rst:1143
+msgid "Put two +1/+1 counters on each creature you control."
+msgstr "Umieść po dwa znaczniki +1/+1 na każdym stworze pod twoim władaniem."
+
+#: ../../BRO.rst:1148
+msgid ""
+":mtgtip:`Tomakul Honor Guard<https://cards.scryfall.io/border_crop/front/c/7/"
+"c7745439-f40b-4647-8bff-53751d511bbd.jpg?1667572518|https://scryfall.com/"
+"card/bro/195/tomakul-honor-guard?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:1147
+msgid ""
+"Ward |mana_2| (Whenever this creature becomes the target of a spell or "
+"ability an opponent controls, counter it unless that player pays |mana_2|.)"
+msgstr ""
+"Straż |mana_2| (Ilekroć ten stwór zostanie wskazany przez czar lub zdolność "
+"pod władaniem przeciwnika, skontruj to, chyba że ów gracz zapłaci |mana_2|.)"
+
+#: ../../BRO.rst:1152
 msgid ""
 ":mtgtip:`Wasteful Harvest<https://cards.scryfall.io/border_crop/"
 "front/0/0/00a0c819-36d1-442b-bec5-e6df58a122c0.jpg?1667430797|https://"
 "scryfall.com/card/bro/196/wasteful-harvest?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:829
+#: ../../BRO.rst:1151
 msgid ""
 "Mill five cards. You may put a permanent card from among the cards milled "
 "this way into your hand. (To mill a card, put the top card of your library "
 "into your graveyard.)"
 msgstr ""
 
-#: ../../BRO.rst:836
+#: ../../BRO.rst:1158
+msgid ""
+":mtgtip:`Boulderbranch Golem<https://cards.scryfall.io/border_crop/front/6/"
+"e/6e6e5338-9b95-4ac7-a57c-5efaa6423531.jpg?1667572587|https://scryfall.com/"
+"card/bro/197/boulderbranch-golem?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:1155
+#, fuzzy
+#| msgid "Unearth |mana_3|\\ |mana_r|\\ |mana_r|"
+msgid "Prototype |mana_3|\\ |mana_g| - 3/3"
+msgstr "Odkopanie |mana_3|\\ |mana_r|\\ |mana_r|"
+
+#: ../../BRO.rst:1157
+#, fuzzy
+#| msgid "When Obstinate Baloth enters the battlefield, you gain 4 life."
+msgid ""
+"When Boulderbranch Golem enters the battlefield, you gain life equal to its "
+"power."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 4 życia."
+
+#: ../../BRO.rst:1164
+msgid ""
+":mtgtip:`Cradle Clearcutter<https://cards.scryfall.io/border_crop/"
+"front/5/0/50cc9b90-792e-4cf7-ab8c-cb616d94092a.jpg?1667572662|https://"
+"scryfall.com/card/bro/198/cradle-clearcutter?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:1161
+msgid ""
+"Prototype |mana_2|\\ |mana_g| - 1/3 (You may cast this spell with different "
+"mana cost, color, and size. It keeps its abilities and types.)"
+msgstr ""
+
+#: ../../BRO.rst:1163
+msgid "|tap|: Add an amount of |mana_g| equal to Cradle Clearcutter's power."
+msgstr ""
+
+#: ../../BRO.rst:1170
 msgid ""
 ":mtgtip:`Haywire Mite<https://cards.scryfall.io/border_crop/"
 "front/8/4/847a175e-ead1-4596-baf3-5f7f57859e0b.jpg?1667437014|https://"
 "scryfall.com/card/bro/199/haywire-mite?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:833
+#: ../../BRO.rst:1167
 #, fuzzy
 #| msgid "When Tocasia's Onulet leaves the battlefield, you gain 2 life."
 msgid "When Haywire Mite dies, you gain 2 life."
 msgstr "Kiedy ten byt opuści pole bitwy, zyskaj 2 życia."
 
-#: ../../BRO.rst:835
+#: ../../BRO.rst:1169
 msgid ""
 "|mana_g|, Sacrifice Haywire Mite: Exile target noncreature artifact or "
 "noncreature enchantment."
 msgstr ""
 
-#: ../../BRO.rst:842
+#: ../../BRO.rst:1176
 msgid ""
 ":mtgtip:`Iron-Craw Crusher<https://cards.scryfall.io/border_crop/"
 "front/6/4/64e2ec10-f45f-46ef-a076-52425bf3fe3b.jpg?1667430813|https://"
 "scryfall.com/card/bro/200/iron-craw-crusher?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:839
+#: ../../BRO.rst:1173
 msgid ""
 "Prototype |mana_2|\\ |mana_g|\\ |mana_g| — 2/5 (You may cast this spell with "
 "different mana cost, color, and size. It keeps its abilities and types.)"
 msgstr ""
 
-#: ../../BRO.rst:841
+#: ../../BRO.rst:1175
 msgid ""
 "Whenever Iron-Craw Crusher attacks, target attacking creature gets +X/+0 "
 "until end of turn, where X is Iron-Craw Crusher's power."
 msgstr ""
 
-#: ../../BRO.rst:848
+#: ../../BRO.rst:1182
 msgid ""
 ":mtgtip:`Mask of the Jadecrafter<https://cards.scryfall.io/border_crop/"
-"front/5/d/5db83275-bfd2-42c2-8d0f-e8a9b4f60e78.jpg?1667460941|https://"
+"front/5/d/5db83275-bfd2-42c2-8d0f-e8a9b4f60e78.jpg?1667481521|https://"
 "scryfall.com/card/bro/201/mask-of-the-jadecrafter?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:845
+#: ../../BRO.rst:1179
 #, fuzzy
 #| msgid ""
 #| "|mana_2|\\ |mana_g|\\ |mana_g|, |tap|: Create a 2/2 green Bear creature "
@@ -2879,7 +3950,7 @@ msgstr ""
 "|mana_2|\\ |mana_g|\\ |mana_g|, |tap|: Stwórz dwa żetony zielonego stwora "
 "Niedźwiedź 2/2, po czym zmiel trzy karty. Aktywuj tylko jako obrzęd."
 
-#: ../../BRO.rst:847
+#: ../../BRO.rst:1181
 #, fuzzy
 #| msgid ""
 #| "Unearth |mana_2|\\ |mana_w| (|mana_2|\\ |mana_w|: Return this card from "
@@ -2896,18 +3967,18 @@ msgstr ""
 "najbliższego kroku końcowego lub gdyby miała opuścić pole bitwy. Aktywuj "
 "tylko jako obrzęd.)"
 
-#: ../../BRO.rst:854
+#: ../../BRO.rst:1188
 msgid ""
 ":mtgtip:`Perennial Behemoth<https://cards.scryfall.io/border_crop/front/6/"
 "c/6cb74e91-f7e5-49dd-8aa8-83a679f88a21.jpg?1667430872|https://scryfall.com/"
 "card/bro/202/perennial-behemoth?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:851
+#: ../../BRO.rst:1185
 msgid "You may play lands from your graveyard."
 msgstr "Możesz zagrywać lądy z twojego cmentarza."
 
-#: ../../BRO.rst:853
+#: ../../BRO.rst:1187
 #, fuzzy
 #| msgid ""
 #| "Unearth |mana_2|\\ |mana_w| (|mana_2|\\ |mana_w|: Return this card from "
@@ -2925,20 +3996,20 @@ msgstr ""
 "najbliższego kroku końcowego lub gdyby miała opuścić pole bitwy. Aktywuj "
 "tylko jako obrzęd.)"
 
-#: ../../BRO.rst:860
+#: ../../BRO.rst:1194
 msgid ""
 ":mtgtip:`Rootwire Amalgam<https://cards.scryfall.io/border_crop/"
 "front/2/4/2498b591-4a80-459f-a639-fe4cf8880be2.jpg?1667430231|https://"
 "scryfall.com/card/bro/203/rootwire-amalgam?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:857
+#: ../../BRO.rst:1191
 msgid ""
 "Prototype |mana_1|\\ |mana_g| — 2/3 (You may cast this spell with different "
 "mana cost, color, and size. It keeps its abilities and types.)"
 msgstr ""
 
-#: ../../BRO.rst:859
+#: ../../BRO.rst:1193
 #, fuzzy
 #| msgid ""
 #| "|mana_2|\\ |mana_g|\\ |mana_g|, |tap|: Create a 2/2 green Bear creature "
@@ -2952,31 +4023,31 @@ msgstr ""
 "|mana_2|\\ |mana_g|\\ |mana_g|, |tap|: Stwórz dwa żetony zielonego stwora "
 "Niedźwiedź 2/2, po czym zmiel trzy karty. Aktywuj tylko jako obrzęd."
 
-#: ../../BRO.rst:866
+#: ../../BRO.rst:1200
 msgid ""
 ":mtgtip:`Rust Goliath<https://cards.scryfall.io/border_crop/"
 "front/8/3/8348f73d-4226-4296-9d51-a2c497ee8270.jpg?1667139732|https://"
 "scryfall.com/card/bro/204/rust-goliath?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:863
+#: ../../BRO.rst:1197
 msgid ""
 "Prototype |mana_3|\\ |mana_g|\\ |mana_g| — 3/5 (You may cast this spell with "
 "different mana cost, color, and size. It keeps its abilities and types.)"
 msgstr ""
 
-#: ../../BRO.rst:865
+#: ../../BRO.rst:1199
 msgid "Reach, trample"
 msgstr "Zasięg, tratowanie"
 
-#: ../../BRO.rst:872
+#: ../../BRO.rst:1206
 msgid ""
 ":mtgtip:`Simian Simulacrum<https://cards.scryfall.io/border_crop/front/c/8/"
-"c85e2a35-cb55-434c-bbd7-54c3438345c1.jpg?1667373752|https://scryfall.com/"
+"c85e2a35-cb55-434c-bbd7-54c3438345c1.jpg?1667572706|https://scryfall.com/"
 "card/bro/205/simian-simulacrum?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:869
+#: ../../BRO.rst:1203
 #, fuzzy
 #| msgid ""
 #| "When Scrapwork Cohort enters the battlefield, create a 1/1 colorless "
@@ -2988,7 +4059,7 @@ msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, stwórz żeton bezkolorowego "
 "artefaktowego stwora Piechur 1/1."
 
-#: ../../BRO.rst:871
+#: ../../BRO.rst:1205
 #, fuzzy
 #| msgid ""
 #| "Unearth |mana_2|\\ |mana_w| (|mana_2|\\ |mana_w|: Return this card from "
@@ -3006,27 +4077,27 @@ msgstr ""
 "najbliższego kroku końcowego lub gdyby miała opuścić pole bitwy. Aktywuj "
 "tylko jako obrzęd.)"
 
-#: ../../BRO.rst:882
+#: ../../BRO.rst:1216
 msgid ""
 ":mtgtip:`Arbalest Engineers<https://cards.scryfall.io/border_crop/front/d/f/"
 "df343bf9-f535-42c7-a2d0-8adfd068b354.jpg?1667373955|https://scryfall.com/"
 "card/bro/206/arbalest-engineers?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:875
+#: ../../BRO.rst:1209
 #, fuzzy
 #| msgid ""
 #| "When The Mightstone and Weakstone enters the battlefield, choose one —"
 msgid "When Arbalest Engineers enters the battlefield, choose one —"
 msgstr "Kiedy ten byt wejdzie na pole bitwy, wybierz jedno —"
 
-#: ../../BRO.rst:877
+#: ../../BRO.rst:1211
 #, fuzzy
 #| msgid "Mishra deals 3 damage to any target."
 msgid "Arbalest Engineers deals 1 damage to any target."
 msgstr "Ten byt zadaje wskazanemu celowi 3 obrażenia."
 
-#: ../../BRO.rst:879
+#: ../../BRO.rst:1213
 #, fuzzy
 #| msgid "Target creature gets +X/+0 and gains haste until end of turn."
 msgid ""
@@ -3034,27 +4105,58 @@ msgid ""
 "of turn."
 msgstr "Wskazany stwór do końca tury dostaje +X/+0 i pośpiech."
 
-#: ../../BRO.rst:886
+#: ../../BRO.rst:1222
+msgid ""
+":mtgtip:`Battery Bearer<https://cards.scryfall.io/border_crop/front/b/b/"
+"bb5306d6-0f08-429a-8590-1b8136f953a9.jpg?1667521656|https://scryfall.com/"
+"card/bro/207/battery-bearer?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:1219
+#, fuzzy
+#| msgid ""
+#| "Create a tapped Powerstone token. (It's an artifact with \"|tap|: Add |"
+#| "colorless|. This mana can't be spent to cast a nonartifact spell.\")"
+msgid ""
+"Creatures you control have \"|tap|: add |colorless|. This mana can't be "
+"spent to cast a nonartifact spell.\""
+msgstr ""
+"Stwórz przekręcony żeton Kamień Mocy. (To artefakt z \"|tap|: Weź |"
+"colorless|. Ta mana nie może być wydana na rzucenie nieartefaktowego czaru."
+"\")"
+
+#: ../../BRO.rst:1221
+#, fuzzy
+#| msgid ""
+#| "Destroy target artifact. If its mana value was 1 or less, draw a card."
+msgid ""
+"Whenever you cast an artifact spell with mana value 6 or greater, draw a "
+"card."
+msgstr ""
+"Zniszcz wskazany artefakt. Jeśli miał on skrót many 1 lub mniejszy, dobierz "
+"kartę."
+
+#: ../../BRO.rst:1226
 msgid ""
 ":mtgtip:`Deathbloom Ritualist<https://cards.scryfall.io/border_crop/"
 "front/4/5/45ff816d-1eb7-4985-90ec-f44802a696fc.jpg?1667330831|https://"
 "scryfall.com/card/bro/208/deathbloom-ritualist?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:885
+#: ../../BRO.rst:1225
 msgid ""
 "|tap|: Add X mana of any one color, where X is the number of creature cards "
 "in your graveyard."
 msgstr ""
 
-#: ../../BRO.rst:892
+#: ../../BRO.rst:1232
 msgid ""
 ":mtgtip:`Evangel of Synthesis<https://cards.scryfall.io/border_crop/front/"
 "e/8/e8b60003-a987-49b0-a0f8-bb825c97da4d.jpg?1667414306|https://scryfall.com/"
 "card/bro/209/evangel-of-synthesis?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:889
+#: ../../BRO.rst:1229
 #, fuzzy
 #| msgid ""
 #| "When Bitter Reunion enters the battlefield, you may discard a card. If "
@@ -3066,20 +4168,20 @@ msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, możesz odrzucić kartę. Jeśli tak "
 "zrobisz, dobierz dwie karty."
 
-#: ../../BRO.rst:891
+#: ../../BRO.rst:1231
 msgid ""
 "As long as you've drawn two or more cards this turn, Evangel of Synthesis "
 "gets +1/+0 and has menace."
 msgstr ""
 
-#: ../../BRO.rst:898
+#: ../../BRO.rst:1238
 msgid ""
 ":mtgtip:`Fallaji Vanguard<https://cards.scryfall.io/border_crop/front/f/f/"
 "ffe9ee1c-5eb3-4d63-a641-0ec5adf7b058.jpg?1667330884|https://scryfall.com/"
 "card/bro/210/fallaji-vanguard?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:897
+#: ../../BRO.rst:1237
 #, fuzzy
 #| msgid ""
 #| "Whenever one or more creatures with mana value 3 or less enter the "
@@ -3093,14 +4195,14 @@ msgstr ""
 "pole bitwy pod twoim władaniem, dobierz kartę. Ta zdolność wyzwala się tylko "
 "raz na turę."
 
-#: ../../BRO.rst:902
+#: ../../BRO.rst:1242
 msgid ""
 ":mtgtip:`Hajar, Loyal Bodyguard<https://cards.scryfall.io/border_crop/"
 "front/5/a/5a0a2f82-57d3-45d8-b1c8-357883c62728.jpg?1667207707|https://"
 "scryfall.com/card/bro/211/hajar-loyal-bodyguard?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:901
+#: ../../BRO.rst:1241
 msgid ""
 "Sacrifice Hajar, Loyal Bodyguard: Legendary creatures you control get +1/+0 "
 "and gain indestructible until end of turn."
@@ -3108,14 +4210,14 @@ msgstr ""
 "Poświęć ten byt: Legendarne stwory pod twoim władaniem do końca tury dostają "
 "+1/+0 i niezniszczalność."
 
-#: ../../BRO.rst:908
+#: ../../BRO.rst:1248
 msgid ""
 ":mtgtip:`Harbin, Vanguard Aviator<https://cards.scryfall.io/border_crop/"
 "front/4/b/4b88be69-3201-4345-a193-cc21bd066d15.jpg?1667139307|https://"
 "scryfall.com/card/bro/212/harbin-vanguard-aviator?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:907
+#: ../../BRO.rst:1247
 msgid ""
 "Whenever you attack with five or more Soldiers, creatures you control get +1/"
 "+1 and gain flying until end of turn."
@@ -3123,14 +4225,14 @@ msgstr ""
 "Ilekroć zaatakujesz co najmniej pięcioma Piechurami, stwory pod twoim "
 "władaniem do końca tury dostają +1/+1 i latanie."
 
-#: ../../BRO.rst:914
+#: ../../BRO.rst:1254
 msgid ""
 ":mtgtip:`Hero of the Dunes<https://cards.scryfall.io/border_crop/front/9/"
 "c/9c6c72d5-f08e-4e46-a5cb-26d1fc0a71c8.jpg?1667376055|https://scryfall.com/"
 "card/bro/213/hero-of-the-dunes?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:911
+#: ../../BRO.rst:1251
 #, fuzzy
 #| msgid ""
 #| "When Titania, Gaea Incarnate enters the battlefield, return all land "
@@ -3143,18 +4245,18 @@ msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, przywróć wszystkie karty lądów z "
 "twojego cmentarza przekręcone na pole bitwy."
 
-#: ../../BRO.rst:913
+#: ../../BRO.rst:1253
 msgid "Creatures you control with mana value 3 or less get +1/+0."
 msgstr "Stwory pod twoim władaniem o skrótach many 3 lub mniej dostają +1/+0."
 
-#: ../../BRO.rst:920
+#: ../../BRO.rst:1260
 msgid ""
 ":mtgtip:`Junkyard Genius<https://cards.scryfall.io/border_crop/front/a/1/"
 "a15b0676-b698-4160-8d2f-a22a1011bac0.jpg?1667330954|https://scryfall.com/"
 "card/bro/214/junkyard-genius?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:917
+#: ../../BRO.rst:1257
 #, fuzzy
 #| msgid ""
 #| "Draw two cards, then discard a card. Create a tapped Powerstone token. "
@@ -3169,21 +4271,34 @@ msgstr ""
 "Mocy. (To artefakt z \"|tap|: Weź |colorless|. Ta mana nie może być wydana "
 "na rzucenie nieartefaktowego czaru.\")"
 
-#: ../../BRO.rst:919
+#: ../../BRO.rst:1259
 msgid ""
 "|mana_1|\\ |mana_b|\\ |mana_r|, Sacrifice another creature or artifact: "
 "Until end of turn, other creatures you control get +1/+0 and gain menace and "
 "haste."
 msgstr ""
 
-#: ../../BRO.rst:924
+#: ../../BRO.rst:1264
+msgid ""
+":mtgtip:`Legions to Ashes<https://cards.scryfall.io/border_crop/"
+"front/9/4/94faea39-4540-4adc-b9bd-78fefd09ecdf.jpg?1667522299|https://"
+"scryfall.com/card/bro/215/legions-to-ashes?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:1263
+msgid ""
+"Exile target nonland permanent an opponent controls and all tokens that "
+"player controls with the same name as that permanent."
+msgstr ""
+
+#: ../../BRO.rst:1268
 msgid ""
 ":mtgtip:`Mishra, Claimed by Gix<https://cards.scryfall.io/border_crop/front/"
 "a/4/a469d7ec-42de-45de-9d8f-469bb979de58.jpg?1666217429|https://scryfall.com/"
 "card/bro/216/mishra-claimed-by-gix?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:923
+#: ../../BRO.rst:1267
 msgid ""
 "Whenever you attack, each opponent loses X life and you gain X life, where X "
 "is the number of attacking creatures. If Mishra, Claimed by Gix and a "
@@ -3197,18 +4312,18 @@ msgstr ""
 "władaniu, wygnaj je, następnie połącz je tworząc Mishra, Lost to Phyrexia. "
 "Wchodzi on na pole bitwy przekręcony i atakujący."
 
-#: ../../BRO.rst:930
+#: ../../BRO.rst:1274
 msgid ""
 ":mtgtip:`Mishra, Tamer of Mak Fawa<https://cards.scryfall.io/border_crop/"
 "front/5/8/585a753d-a692-474a-bc28-48dd93b73ace.jpg?1667373810|https://"
 "scryfall.com/card/bro/217/mishra-tamer-of-mak-fawa?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:927
+#: ../../BRO.rst:1271
 msgid "Permanents you control have \"Ward—Sacrifice a permanent.\""
 msgstr ""
 
-#: ../../BRO.rst:929
+#: ../../BRO.rst:1273
 #, fuzzy
 #| msgid ""
 #| "Unearth |mana_1|\\ |mana_b| (|mana_1|\\ |mana_b|: Return this card from "
@@ -3227,14 +4342,14 @@ msgstr ""
 "najbliższego kroku końcowego lub gdyby miała opuścić pole bitwy. Aktywuj "
 "tylko jako obrzęd.)"
 
-#: ../../BRO.rst:934
+#: ../../BRO.rst:1278
 msgid ""
 ":mtgtip:`Queen Kayla bin-Kroog<https://cards.scryfall.io/border_crop/"
 "front/6/8/685c9767-eaa7-4e16-b245-816181e2fc36.jpg?1665157514|https://"
 "scryfall.com/card/bro/218/queen-kayla-bin-kroog?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:933
+#: ../../BRO.rst:1277
 msgid ""
 "|mana_4|, |tap|: Discard all the cards in your hand, then draw that many "
 "cards. You may choose an artifact or creature card with mana value 1 you "
@@ -3248,20 +4363,20 @@ msgstr ""
 "artefaktów lub stworów o skrócie many 2 lub 3. Przywróć owe karty na pole "
 "bitwy. Aktywuj tylko jako obrzęd."
 
-#: ../../BRO.rst:942
+#: ../../BRO.rst:1286
 msgid ""
 ":mtgtip:`Saheeli, Filigree Master<https://cards.scryfall.io/border_crop/"
 "front/a/3/a3657562-323c-40d0-a261-d029ed549695.jpg?1667430884|https://"
 "scryfall.com/card/bro/219/saheeli-filigree-master?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:937
+#: ../../BRO.rst:1281
 msgid ""
 "+1: Scry 1. You may tap an untapped artifact you control. If you do, draw a "
 "card."
 msgstr ""
 
-#: ../../BRO.rst:939
+#: ../../BRO.rst:1283
 #, fuzzy
 #| msgid "0: Create two 1/1 colorless Soldier artifact creature tokens."
 msgid ""
@@ -3269,7 +4384,7 @@ msgid ""
 "They gain haste until end of turn."
 msgstr "0: Stwórz dwa żetony bezkolorowego artefaktowego stwora Piechur 1/1."
 
-#: ../../BRO.rst:941
+#: ../../BRO.rst:1285
 msgid ""
 "−4: You get an emblem with \"Artifact creatures you control get +1/+1\" and "
 "\"Artifact spells you cast cost |mana_1| less to cast.\""
@@ -3277,14 +4392,14 @@ msgstr ""
 "–4: Dostajesz emblemat z \"Artefaktowe stwory pod twoim władaniem dostają +1/"
 "+1\" oraz \"Rzucanie czarów artefaktów kosztuje cię o |mana_1| mniej.\""
 
-#: ../../BRO.rst:948
+#: ../../BRO.rst:1292
 msgid ""
-":mtgtip:`\"Wharrgarbl Wurm\"<https://cards.scryfall.io/border_crop/front/e/a/"
-"eaee6fcb-23de-4347-84b6-1e9849a537fc.jpg?1667437148|https://scryfall.com/"
-"card/bro/220/wharrgarbl-wurm?utm_source=api>`"
+":mtgtip:`Sarinth Greatwurm<https://cards.scryfall.io/border_crop/front/e/a/"
+"eaee6fcb-23de-4347-84b6-1e9849a537fc.jpg?1667559265|https://scryfall.com/"
+"card/bro/220/sarinth-greatwurm?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:947
+#: ../../BRO.rst:1291
 #, fuzzy
 #| msgid ""
 #| "Draw two cards, then discard a card. Create a tapped Powerstone token. "
@@ -3299,14 +4414,14 @@ msgstr ""
 "Mocy. (To artefakt z \"|tap|: Weź |colorless|. Ta mana nie może być wydana "
 "na rzucenie nieartefaktowego czaru.\")"
 
-#: ../../BRO.rst:956
+#: ../../BRO.rst:1300
 msgid ""
 ":mtgtip:`Skyfisher Spider<https://cards.scryfall.io/border_crop/"
 "front/8/7/87300ac8-8b6f-4c37-8058-beb59eaa66be.jpg?1667421021|https://"
 "scryfall.com/card/bro/221/skyfisher-spider?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:953
+#: ../../BRO.rst:1297
 #, fuzzy
 #| msgid ""
 #| "When Bitter Reunion enters the battlefield, you may discard a card. If "
@@ -3318,34 +4433,34 @@ msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, możesz odrzucić kartę. Jeśli tak "
 "zrobisz, dobierz dwie karty."
 
-#: ../../BRO.rst:955
+#: ../../BRO.rst:1299
 msgid ""
 "When Skyfisher Spider dies, you may gain 1 life for each creature card in "
 "your graveyard. If you do, exile Skyfisher Spider from your graveyard."
 msgstr ""
 
-#: ../../BRO.rst:960
+#: ../../BRO.rst:1304
 msgid ""
 ":mtgtip:`Tawnos, the Toymaker<https://cards.scryfall.io/border_crop/front/1/"
 "f/1f855a7e-3a97-4b62-a2a7-06ff1fbb2c4c.jpg?1667247000|https://scryfall.com/"
 "card/bro/222/tawnos-the-toymaker?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:959
+#: ../../BRO.rst:1303
 msgid ""
 "Whenever you cast a Beast or Bird creature spell, you may copy it, except "
 "the copy is an artifact in addition to its other types. (The copy becomes a "
 "token.)"
 msgstr ""
 
-#: ../../BRO.rst:964
+#: ../../BRO.rst:1308
 msgid ""
 ":mtgtip:`Third Path Iconoclast<https://cards.scryfall.io/border_crop/front/"
 "f/1/f1a21287-e244-4960-84fb-c4f6e5c346d9.jpg?1667331034|https://scryfall.com/"
 "card/bro/223/third-path-iconoclast?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:963
+#: ../../BRO.rst:1307
 #, fuzzy
 #| msgid ""
 #| "When Scrapwork Cohort enters the battlefield, create a 1/1 colorless "
@@ -3357,21 +4472,21 @@ msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, stwórz żeton bezkolorowego "
 "artefaktowego stwora Piechur 1/1."
 
-#: ../../BRO.rst:970
+#: ../../BRO.rst:1314
 msgid ""
 ":mtgtip:`Tocasia, Dig Site Mentor<https://cards.scryfall.io/border_crop/"
 "front/9/1/919a32a6-b66d-4a75-a02f-fa1c4c87b738.jpg?1667331121|https://"
 "scryfall.com/card/bro/224/tocasia-dig-site-mentor?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:967
+#: ../../BRO.rst:1311
 msgid ""
 "Creatures you control have vigilance and \"|tap|: Surveil 1.\" (To surveil "
 "1, look at the top card of your library. You may put that card into your "
 "graveyard.)"
 msgstr ""
 
-#: ../../BRO.rst:969
+#: ../../BRO.rst:1313
 msgid ""
 "|mana_2|\\ |mana_g|\\ |mana_g|\\ |mana_w|\\ |mana_w|\\ |mana_u|\\ |mana_u|, "
 "Exile Tocasia, Dig Site Mentor from your graveyard: Return any number of "
@@ -3379,21 +4494,21 @@ msgid ""
 "to the battlefield. Activate only as a sorcery."
 msgstr ""
 
-#: ../../BRO.rst:976
+#: ../../BRO.rst:1320
 msgid ""
 ":mtgtip:`Urza, Lord Protector<https://cards.scryfall.io/border_crop/front/8/"
 "a/8aefe8bd-216a-4ec1-9362-3f9dbf7fd083.jpg?1664561527|https://scryfall.com/"
 "card/bro/225/urza-lord-protector?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:973
+#: ../../BRO.rst:1317
 msgid ""
 "Artifact, instant, and sorcery spells you cast cost |mana_1| less to cast."
 msgstr ""
 "Rzucanie czarów artefaktów, sztuczek i obrzędów kosztuje cię o |mana_1| "
 "mniej."
 
-#: ../../BRO.rst:975
+#: ../../BRO.rst:1319
 msgid ""
 "|mana_7|: If you both own and control Urza, Lord Protector and an artifact "
 "named The Mightstone and Weakstone, exile them, then meld them into Urza, "
@@ -3403,44 +4518,55 @@ msgstr ""
 "artefakt o nazwie The Mightstone and Weakstone, wygnaj je, po czym połącz je "
 "tworząc Urza, Planeswalker. Aktywuj tylko jako obrzęd."
 
-#: ../../BRO.rst:982
+#: ../../BRO.rst:1326
 msgid ""
 ":mtgtip:`Urza, Prince of Kroog<https://cards.scryfall.io/border_crop/front/5/"
 "a/5a7329cd-95af-4d71-984f-f5f28982520c.jpg?1666929623|https://scryfall.com/"
 "card/bro/226/urza-prince-of-kroog?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:979
+#: ../../BRO.rst:1323
 msgid "Artifact creatures you control get +2/+2."
 msgstr "Artefaktowe stwory pod twoim władaniem dostają +2/+2."
 
-#: ../../BRO.rst:981
+#: ../../BRO.rst:1325
 msgid ""
 "|mana_6|: Create a token that's a copy of target artifact you control, "
 "except it's a 1/1 Soldier creature in addition to its other types."
 msgstr ""
 
-#: ../../BRO.rst:986
+#: ../../BRO.rst:1330
 msgid ""
 ":mtgtip:`Yotian Dissident<https://cards.scryfall.io/border_crop/front/1/"
 "e/1eb02f00-c188-4193-a049-d26f7643e5da.jpg?1667089759|https://scryfall.com/"
 "card/bro/227/yotian-dissident?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:985
+#: ../../BRO.rst:1329
 msgid ""
 "Whenever an artifact enters the battlefield under your control, put +1/+1 "
 "counter on target creature you control."
 msgstr ""
 
-#: ../../BRO.rst:994
+#: ../../BRO.rst:1334
+msgid ""
+":mtgtip:`Yotian Tactician<https://cards.scryfall.io/border_crop/"
+"front/7/6/760c0369-c2e4-4bd7-a301-9f707f5f48a8.jpg?1667539222|https://"
+"scryfall.com/card/bro/228/yotian-tactician?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:1333
+msgid "Other Soldiers you control get +1/+1."
+msgstr "Inni Piechurzy pod twoim władaniem dostają +1/+1."
+
+#: ../../BRO.rst:1342
 msgid ""
 ":mtgtip:`Bladecoil Serpent<https://cards.scryfall.io/border_crop/"
 "front/0/8/08c5a528-d16d-4cb9-b532-b85648c8395a.jpg?1667425935|https://"
 "scryfall.com/card/bro/229/bladecoil-serpent?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:989
+#: ../../BRO.rst:1337
 #, fuzzy
 #| msgid ""
 #| "When Bitter Reunion enters the battlefield, you may discard a card. If "
@@ -3452,95 +4578,123 @@ msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, możesz odrzucić kartę. Jeśli tak "
 "zrobisz, dobierz dwie karty."
 
-#: ../../BRO.rst:991
+#: ../../BRO.rst:1339
 msgid ""
 "When Bladecoil Serpent enters the battlefield, for each |mana_b|\\ |mana_b| "
 "spent to cast it, each opponent discards a card."
 msgstr ""
 
-#: ../../BRO.rst:993
+#: ../../BRO.rst:1341
 msgid ""
 "When Bladecoil Serpent enters the battlefield, for each |mana_r|\\ |mana_r| "
 "spent to cast it, it gets +1/+0 and gains trample and haste until end of "
 "turn."
 msgstr ""
 
-#: ../../BRO.rst:1000
+#: ../../BRO.rst:1348
 msgid ""
 ":mtgtip:`Clay Champion<https://cards.scryfall.io/border_crop/"
 "front/6/2/625f3b20-4b9a-4f61-8afe-31a761711b43.jpg?1667430898|https://"
 "scryfall.com/card/bro/230/clay-champion?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:997
+#: ../../BRO.rst:1345
 msgid ""
 "Clay Champion enters the battlefield with three +1/+1 counters on it for "
 "each |mana_g|\\ |mana_g| spent to cast it."
 msgstr ""
 
-#: ../../BRO.rst:999
+#: ../../BRO.rst:1347
 msgid ""
 "When Clay Champion enters the battlefield, choose up to two other target "
 "creatures you control. For each |mana_w|\\ |mana_w| spent to cast Clay "
 "Champion, put a +1/+1 counter on each of them."
 msgstr ""
 
-#: ../../BRO.rst:1004
+#: ../../BRO.rst:1354
+msgid ""
+":mtgtip:`Aeronaut's Wings<https://cards.scryfall.io/border_crop/front/f/c/"
+"fcc65821-e4e7-471c-941c-9d3e25ae8bb9.jpg?1667572850|https://scryfall.com/"
+"card/bro/231/aeronauts-wings?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:1351
+msgid "Equipped creature gets +1/+0 and has flying."
+msgstr "Wyposażony stwór dostaje +1/+0 i ma latanie."
+
+#: ../../BRO.rst:1358
 msgid ""
 ":mtgtip:`Argivian Avenger<https://cards.scryfall.io/border_crop/"
 "front/2/8/28e3bf5a-0a90-46d3-bcfe-9a47df41b72b.jpg?1667376148|https://"
 "scryfall.com/card/bro/232/argivian-avenger?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:1003
+#: ../../BRO.rst:1357
 msgid ""
 "|mana_1|: Until end of turn, Argivian Avenger gets -1/-1 and gains your "
 "choice of flying, vigilance, deathtouch, or haste."
 msgstr ""
 
-#: ../../BRO.rst:1012
+#: ../../BRO.rst:1366
 msgid ""
 ":mtgtip:`Cityscape Leveler<https://cards.scryfall.io/border_crop/"
 "front/6/7/67a87278-4c82-4056-8354-253d86b0ef3d.jpg?1667430841|https://"
 "scryfall.com/card/bro/233/cityscape-leveler?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:1009
+#: ../../BRO.rst:1363
 msgid ""
 "When you cast this spell and whenever Cityscape Leveler attacks, destroy up "
 "to one target nonland permanent. Its controller creates a tapped Powerstone "
 "token."
 msgstr ""
 
-#: ../../BRO.rst:1011
+#: ../../BRO.rst:1365
 msgid "Unearth |mana_8|"
 msgstr ""
 
-#: ../../BRO.rst:1018
+#: ../../BRO.rst:1372
+msgid ""
+":mtgtip:`Energy Refractor<https://cards.scryfall.io/border_crop/front/c/c/"
+"cc2a81fb-5045-4b7b-8cfb-b90c4f4a1f51.jpg?1667572901|https://scryfall.com/"
+"card/bro/234/energy-refractor?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:1369
+#, fuzzy
+#| msgid "When Mightstone's Animation enters the battlefield, draw a card."
+msgid "When Energy Refractor enters the battlefield, draw a card."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+
+#: ../../BRO.rst:1371
+msgid "|mana_2|: Add one mana of any color."
+msgstr "|mana_2|: Weź jedną manę dowolnego koloru."
+
+#: ../../BRO.rst:1378
 msgid ""
 ":mtgtip:`Goblin Firebomb<https://cards.scryfall.io/border_crop/front/0/"
 "b/0ba00d0f-0ea5-417c-a792-06b3b9d1c8f1.jpg?1667331794|https://scryfall.com/"
 "card/bro/235/goblin-firebomb?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:1017
+#: ../../BRO.rst:1377
 msgid "|mana_7|, |tap|, Sacrifice Goblin Firebomb: Destroy target permanent."
 msgstr ""
 
-#: ../../BRO.rst:1026
+#: ../../BRO.rst:1386
 msgid ""
 ":mtgtip:`Levitating Statue<https://cards.scryfall.io/border_crop/front/9/"
 "c/9c0a17e2-e019-4686-9795-651da2d2955c.jpg?1667430793|https://scryfall.com/"
 "card/bro/236/levitating-statue?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:1023
+#: ../../BRO.rst:1383
 msgid ""
 "Whenever you cast a noncreature spell, put a +1/+1 counter on Levitating "
 "Statue."
 msgstr "Ilekroć rzucisz niestworowy czar, umieść znacznik +1/+1 na niniejszym."
 
-#: ../../BRO.rst:1025
+#: ../../BRO.rst:1385
 #, fuzzy
 #| msgid ""
 #| "|mana_2|: Mishra's Foundry becomes a 2/2 Assembly-Worker artifact "
@@ -3552,7 +4706,7 @@ msgstr ""
 "|mana_2|: Ten byt do końca tury staje się artefaktowym stworem Składacz 2/2. "
 "Nadal jest lądem."
 
-#: ../../BRO.rst:1036
+#: ../../BRO.rst:1396
 msgid ""
 ":mtgtip:`Liberator, Urza's Battlethopter<https://cards.scryfall.io/"
 "border_crop/front/c/3/c31e6768-bcab-43c4-bfc1-76e961689ae9.jpg?1667331842|"
@@ -3560,38 +4714,38 @@ msgid ""
 "utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:1033
+#: ../../BRO.rst:1393
 msgid ""
 "You may cast colorless spells and artifact spells as though they had flash."
 msgstr ""
 
-#: ../../BRO.rst:1035
+#: ../../BRO.rst:1395
 msgid ""
 "Whenever you cast a spell, if the amount of mana spent to cast that spell is "
 "greater than Liberator, Urza's Battlethopter's power, put a +1/+1 counter on "
 "Liberator."
 msgstr ""
 
-#: ../../BRO.rst:1048
+#: ../../BRO.rst:1408
 msgid ""
 ":mtgtip:`The Mightstone and Weakstone<https://cards.scryfall.io/border_crop/"
 "front/0/2/02aea379-b444-46a3-82f4-3038f698d4f4.jpg?1664561565|https://"
 "scryfall.com/card/bro/238a/the-mightstone-and-weakstone?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:1039
+#: ../../BRO.rst:1399
 msgid "When The Mightstone and Weakstone enters the battlefield, choose one —"
 msgstr "Kiedy ten byt wejdzie na pole bitwy, wybierz jedno —"
 
-#: ../../BRO.rst:1041
+#: ../../BRO.rst:1401
 msgid "Draw two cards."
 msgstr "Dobierz dwie karty."
 
-#: ../../BRO.rst:1043
+#: ../../BRO.rst:1403
 msgid "Target creature gets -5/-5 until end of turn."
 msgstr "Wskazany stwór do końca tury dostaje -5/-5."
 
-#: ../../BRO.rst:1045
+#: ../../BRO.rst:1405
 msgid ""
 "|tap|: Add |colorless|\\ |colorless|. This mana can't be spent to cast "
 "nonartifact spells."
@@ -3599,18 +4753,18 @@ msgstr ""
 "|tap|: Weź |colorless|\\ |colorless|. Ta mana nie może być wydana na "
 "rzucenie nieartefaktowych czarów."
 
-#: ../../BRO.rst:1047
+#: ../../BRO.rst:1407
 msgid "(Melds with Urza, Lord Protector.)"
 msgstr "(Łączy się z Urza, Lord Protector.)"
 
-#: ../../BRO.rst:1062
+#: ../../BRO.rst:1422
 msgid ""
 ":mtgtip:`Urza, Planeswalker<https://cards.scryfall.io/border_crop/"
 "front/4/0/40a01679-3224-427e-bd1d-b797b0ab68b7.jpg?1667141104|https://"
 "scryfall.com/card/bro/238b/urza-planeswalker?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:1051
+#: ../../BRO.rst:1411
 msgid ""
 "Once during each of your turns, you may activate an additional loyalty "
 "ability of Urza, Planeswalker. (You may activate the same ability twice.)"
@@ -3618,7 +4772,7 @@ msgstr ""
 "Raz podczas każdej z twoich tur możesz aktywować dodatkowy raz zdolność "
 "lojalnościową niniejszego. (Możesz aktywować tę samą zdolność dwukrotnie.)"
 
-#: ../../BRO.rst:1053
+#: ../../BRO.rst:1413
 msgid ""
 "+2: Artifact, instant, and sorcery spells you cast this turn cost |mana_2| "
 "less to cast. You gain 2 life."
@@ -3626,19 +4780,19 @@ msgstr ""
 "+2: Rzucanie czarów artefaktów, sztuczek i obrzędów kosztuje cię w tej turze "
 "o |mana_2| mniej. Zyskaj 2 życia."
 
-#: ../../BRO.rst:1055
+#: ../../BRO.rst:1415
 msgid "+1: Draw two cards, then discard a card."
 msgstr "+1: Dobierz dwie karty, po czym odrzuć kartę."
 
-#: ../../BRO.rst:1057
+#: ../../BRO.rst:1417
 msgid "0: Create two 1/1 colorless Soldier artifact creature tokens."
 msgstr "0: Stwórz dwa żetony bezkolorowego artefaktowego stwora Piechur 1/1."
 
-#: ../../BRO.rst:1059
+#: ../../BRO.rst:1419
 msgid "−3: Exile target nonland permanent."
 msgstr "–3: Wygnaj wskazany nielądowy byt."
 
-#: ../../BRO.rst:1061
+#: ../../BRO.rst:1421
 msgid ""
 "−10: Artifacts and planeswalkers you control gain indestructible until end "
 "of turn. Destroy all nonland permanents."
@@ -3646,62 +4800,62 @@ msgstr ""
 "–10: Artefakty i wędrowcy pod twoim władaniem do końca tury zyskują "
 "niezniszczalność. Zniszcz wszystkie nielądowe byty."
 
-#: ../../BRO.rst:1066
+#: ../../BRO.rst:1426
 msgid ""
 ":mtgtip:`Mine Worker<https://cards.scryfall.io/border_crop/front/5/"
 "a/5aa63321-aa28-449d-a31f-869a98c5a6be.jpg?1667464339|https://scryfall.com/"
 "card/bro/239/mine-worker?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:1065
+#: ../../BRO.rst:1425
 msgid ""
 "|tap|: You gain 1 life. If you control creatures named Power Plant Worker "
 "and Tower Worker, you gain 3 life instead."
 msgstr ""
 
-#: ../../BRO.rst:1072
+#: ../../BRO.rst:1432
 msgid ""
 ":mtgtip:`Portal to Phyrexia<https://cards.scryfall.io/border_crop/front/5/"
 "f/5f608efc-0dbc-4cc3-aadd-ed473bfc29ab.jpg?1667331911|https://scryfall.com/"
 "card/bro/240/portal-to-phyrexia?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:1069
+#: ../../BRO.rst:1429
 msgid ""
 "When Portal to Phyrexia enters the battlefield, each opponent sacrifices "
 "three creatures."
 msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, każdy przeciwnik poświęca trzy stwory."
 
-#: ../../BRO.rst:1071
+#: ../../BRO.rst:1431
 msgid ""
 "At the beginning of your upkeep, put target creature card from a graveyard "
 "onto the battlefield under your control. It's a Phyrexian in addition to its "
 "other types."
 msgstr ""
 
-#: ../../BRO.rst:1076
+#: ../../BRO.rst:1436
 msgid ""
 ":mtgtip:`Power Plant Worker<https://cards.scryfall.io/border_crop/"
 "front/9/9/99965310-e4bd-40d9-80f5-3fd1754c61c5.jpg?1667376913|https://"
 "scryfall.com/card/bro/241/power-plant-worker?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:1075
+#: ../../BRO.rst:1435
 msgid ""
 "|mana_3|: Power Plant Worker gets +2/+2 until end of turn. If you control "
 "creatures named Mine Worker and Tower Worker, put two +1/+1 counters on "
 "Power Plant Worker instead. Activate only once each turn."
 msgstr ""
 
-#: ../../BRO.rst:1082
+#: ../../BRO.rst:1442
 msgid ""
 ":mtgtip:`Reconstructed Thopter<https://cards.scryfall.io/border_crop/front/b/"
-"c/bcc8a8d8-6d8e-44b3-a29b-5fa4a851a25b.jpg?1667373997|https://scryfall.com/"
+"c/bcc8a8d8-6d8e-44b3-a29b-5fa4a851a25b.jpg?1667475792|https://scryfall.com/"
 "card/bro/242/reconstructed-thopter?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:1081
+#: ../../BRO.rst:1441
 msgid ""
 "Unearth |mana_2| (|mana_2|: Return this card from your graveyard to the "
 "battlefield. It gains haste. Exile it at the beginning of the next end step "
@@ -3711,40 +4865,89 @@ msgstr ""
 "bitwy. Zyskuje pośpiech. Wygnaj ją na początku najbliższego kroku końcowego "
 "lub gdyby miała opuścić pole bitwy. Aktywuj tylko jako obrzęd.)"
 
-#: ../../BRO.rst:1086
+#: ../../BRO.rst:1446
+msgid ""
+":mtgtip:`Slagstone Refinery<https://cards.scryfall.io/border_crop/front/d/7/"
+"d7dbfa72-2025-455c-8cc4-afbf6c8e141a.jpg?1667572981|https://scryfall.com/"
+"card/bro/243/slagstone-refinery?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:1445
+#, fuzzy
+#| msgid ""
+#| "When Static Net enters the battlefield, you gain 2 life and create a "
+#| "tapped Powerstone token. (It's an artifact with \"|tap|: Add |colorless|. "
+#| "This mana can't be spent to cast a nonartifact spell.\")"
+msgid ""
+"Whenever Slagstone Refinery or another nontoken artifact you control is put "
+"into a graveyard from the battlefield or is put into exile from the "
+"battlefield, create a tapped Powerstone token. (It's an artifact with \"|"
+"tap|: Add |colorless|. This mana can't be spent to cast a nonartifact spell."
+"\")"
+msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, zyskaj 2 życia i stwórz przekręcony "
+"żeton Kamień Mocy. (To artefakt z \"|tap|: Weź |colorless|. Ta mana nie może "
+"być wydana na rzucenie nieartefaktowego czaru.\")"
+
+#: ../../BRO.rst:1452
+msgid ""
+":mtgtip:`Spectrum Sentinel<https://cards.scryfall.io/border_crop/"
+"front/9/3/936cbe05-7b36-4569-94f3-671c28c7468a.jpg?1667573826|https://"
+"scryfall.com/card/bro/244/spectrum-sentinel?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:1449
+msgid ""
+"Protection from multicolored (This creature can't be blocked, targeted, "
+"dealt damage, enchanted, or equipped by anything multicolored.)"
+msgstr ""
+
+#: ../../BRO.rst:1451
+#, fuzzy
+#| msgid ""
+#| "Whenever an artifact enters the battlefield under your control, target "
+#| "creature gains flying until end of turn."
+msgid ""
+"Whenever a nonbasic land enters the battlefield under an opponent's control, "
+"you gain 1 life."
+msgstr ""
+"Ilekroć artefakt wejdzie na pole bitwy pod twoim władaniem, wskazany stwór "
+"do końca tury zyskuje latanie."
+
+#: ../../BRO.rst:1456
 msgid ""
 ":mtgtip:`The Stasis Coffin<https://cards.scryfall.io/border_crop/"
 "front/4/5/45537ac3-fc61-4253-a782-7f3e436b2aa6.jpg?1667331967|https://"
 "scryfall.com/card/bro/245/the-stasis-coffin?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:1085
+#: ../../BRO.rst:1455
 msgid ""
 "|mana_2|, |tap|, Exile The Stasis Coffin: You gain protection from "
 "everything until your next turn."
 msgstr ""
 
-#: ../../BRO.rst:1092
+#: ../../BRO.rst:1462
 msgid ""
 ":mtgtip:`Steel Exemplar<https://cards.scryfall.io/border_crop/"
 "front/3/8/386c139a-13fc-49ca-923d-45faca4f9a2f.jpg?1667466992|https://"
 "scryfall.com/card/bro/246/steel-exemplar?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:1091
+#: ../../BRO.rst:1461
 msgid ""
 "Steel Exemplar enters the battlefield with two +1/+1 counters on it unless "
 "two or more colors of mana were spent to cast it."
 msgstr ""
 
-#: ../../BRO.rst:1096
+#: ../../BRO.rst:1466
 msgid ""
 ":mtgtip:`The Stone Brain<https://cards.scryfall.io/border_crop/"
 "front/3/5/3570ebf2-a94c-4621-8808-b06e6e830c06.jpg?1667200704|https://"
 "scryfall.com/card/bro/247/the-stone-brain?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:1095
+#: ../../BRO.rst:1465
 msgid ""
 "|mana_2|, |tap|, Exile The Stone Brain: Choose a card name. Search target "
 "opponent's graveyard, hand, and library for up to four cards with that name "
@@ -3752,33 +4955,101 @@ msgid ""
 "from their hand this way. Activate only as a sorcery."
 msgstr ""
 
-#: ../../BRO.rst:1104
+#: ../../BRO.rst:1470
+msgid ""
+":mtgtip:`Stone Retrieval Unit<https://cards.scryfall.io/border_crop/front/"
+"e/8/e8a36d1f-f6cc-4962-9ad6-589f7b3e5f95.jpg?1667573116|https://scryfall.com/"
+"card/bro/248/stone-retrieval-unit?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:1469
+#, fuzzy
+#| msgid ""
+#| "Draw two cards, then discard a card. Create a tapped Powerstone token. "
+#| "(It's an artifact with \"|tap|: Add |colorless|. This mana can't be spent "
+#| "to cast a nonartifact spell.\")"
+msgid ""
+"When Stone Retrieval Unit enters the battlefield, create a tapped Powerstone "
+"token. (It's an artifact with \"|tap|: Add |colorless|. This mana can't be "
+"spent to cast a nonartifact spell.)"
+msgstr ""
+"Dobierz dwie karty, po czym odrzuć kartę. Stwórz przekręcony żeton Kamień "
+"Mocy. (To artefakt z \"|tap|: Weź |colorless|. Ta mana nie może być wydana "
+"na rzucenie nieartefaktowego czaru.\")"
+
+#: ../../BRO.rst:1478
 msgid ""
 ":mtgtip:`Su-Chi Cave Guard<https://cards.scryfall.io/border_crop/front/b/b/"
 "bb04dad2-4561-4cef-9cee-80d6f1a44bee.jpg?1667332027|https://scryfall.com/"
 "card/bro/249/su-chi-cave-guard?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:1101
+#: ../../BRO.rst:1475
 msgid ""
 "Ward |mana_4| (Whenever this creature becomes the target of a spell or "
 "ability an opponent controls, counter it unless that player pays |mana_4|.)"
 msgstr ""
 
-#: ../../BRO.rst:1103
+#: ../../BRO.rst:1477
 msgid ""
 "When Su-Chi Cave Guard dies, add eight |colorless|. Until end of turn, you "
 "don't lose this mana as steps and phases end."
 msgstr ""
 
-#: ../../BRO.rst:1108
+#: ../../BRO.rst:1486
+msgid ""
+":mtgtip:`Supply Drop<https://cards.scryfall.io/border_crop/"
+"front/8/2/82a5d3e9-bada-448b-894d-9d4e7e0463c7.jpg?1667573170|https://"
+"scryfall.com/card/bro/250/supply-drop?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:1483
+#, fuzzy
+#| msgid ""
+#| "Whenever Yotian Frontliner attacks, another target creature you control "
+#| "gets +1/+1 until end of turn."
+msgid ""
+"When Supply Drop enters the battlefield, target creature you control gets +2/"
+"+2 until end of turn."
+msgstr ""
+"Ilekroć niniejszy zaatakuje, inny wskazany stwór pod twoim władaniem do "
+"końca tury dostaje +1/+1."
+
+#: ../../BRO.rst:1485
+msgid "|mana_4|, |tap|, Sacrifice Supply Drop: Draw a card."
+msgstr ""
+
+#: ../../BRO.rst:1492
+msgid ""
+":mtgtip:`Swiftgear Drake<https://cards.scryfall.io/border_crop/front/d/5/"
+"d5ae38a2-2f95-4750-9b59-53eb1771e5ab.jpg?1667573238|https://scryfall.com/"
+"card/bro/251/swiftgear-drake?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:1489
+msgid "Flying, haste"
+msgstr "Latanie, pośpiech"
+
+#: ../../BRO.rst:1491
+#, fuzzy
+#| msgid ""
+#| "When Titania, Gaea Incarnate enters the battlefield, return all land "
+#| "cards from your graveyard to the battlefield tapped."
+msgid ""
+"When Swiftgear Drake enters the battlefield, put up to one target card from "
+"a graveyard on the bottom of its owner's library."
+msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, przywróć wszystkie karty lądów z "
+"twojego cmentarza przekręcone na pole bitwy."
+
+#: ../../BRO.rst:1496
 msgid ""
 ":mtgtip:`Symmetry Matrix<https://cards.scryfall.io/border_crop/"
 "front/7/8/786bce65-1c04-45fc-b81b-e7590afbd117.jpg?1667462396|https://"
 "scryfall.com/card/bro/252/symmetry-matrix?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:1107
+#: ../../BRO.rst:1495
 #, fuzzy
 #| msgid ""
 #| "When Phyrexian Dragon Engine enters the battlefield from your graveyard, "
@@ -3790,14 +5061,14 @@ msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy z twojego cmentarza, możesz odrzucić "
 "twoją rękę. Jeśli tak zrobisz, dobierz trzy karty."
 
-#: ../../BRO.rst:1114
+#: ../../BRO.rst:1502
 msgid ""
 ":mtgtip:`Thran Power Suit<https://cards.scryfall.io/border_crop/"
 "front/1/7/17bfb8c5-9105-41e4-a58f-9c9eee32b18a.jpg?1667332102|https://"
 "scryfall.com/card/bro/253/thran-power-suit?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:1111
+#: ../../BRO.rst:1499
 msgid ""
 "Equipped creature gets +1/+1 for each Aura and Equipment attached to it and "
 "has ward |mana_2|. (Whenever equipped creature becomes the target of a spell "
@@ -3805,28 +5076,20 @@ msgid ""
 "mana_2|.)"
 msgstr ""
 
-#: ../../BRO.rst:1113
-msgid ""
-"Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip only "
-"as a sorcery.)"
-msgstr ""
-"Wyposaż |mana_2| (|mana_2|: Dołącz do wskazanego stwora pod twoim władaniem. "
-"Aktywuj tylko jako obrzęd.)"
-
-#: ../../BRO.rst:1122
+#: ../../BRO.rst:1510
 msgid ""
 ":mtgtip:`Thran Spider<https://cards.scryfall.io/border_crop/front/e/7/"
 "e72e0ddb-3dd4-4db3-aa05-dec8691432a0.jpg?1667332037|https://scryfall.com/"
 "card/bro/254/thran-spider?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:1119
+#: ../../BRO.rst:1507
 msgid ""
 "When Thran Spider enters the battlefield, you and target opponent each "
 "create a tapped Powerstone token."
 msgstr ""
 
-#: ../../BRO.rst:1121
+#: ../../BRO.rst:1509
 msgid ""
 "|mana_7|: Look at the top four cards of your library. You may reveal an "
 "artifact card from among them and put it into your hand. Put the rest on the "
@@ -3836,24 +5099,37 @@ msgstr ""
 "ujawnić spośród nich kartę artefaktu i umieścić ją w twojej ręce. Umieść "
 "pozostałe losowo na spodzie twojej biblioteki."
 
-#: ../../BRO.rst:1132
+#: ../../BRO.rst:1516
+msgid ""
+":mtgtip:`Tower Worker<https://cards.scryfall.io/border_crop/front/f/3/"
+"f31bd134-22c8-4031-8f85-ac0855914d11.jpg?1667573344|https://scryfall.com/"
+"card/bro/255/tower-worker?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:1515
+msgid ""
+"|tap|: Add |colorless|. If you control creatures named Mine Worker and Power "
+"Plant Worker, add |colorless|\\ |colorless|\\ |colorless| instead."
+msgstr ""
+
+#: ../../BRO.rst:1526
 msgid ""
 ":mtgtip:`Argoth, Sanctum of Nature<https://cards.scryfall.io/border_crop/"
 "front/b/2/b29c9e4f-7b98-4610-a681-ae6297e8fc72.jpg?1667428872|https://"
 "scryfall.com/card/bro/256a/argoth-sanctum-of-nature?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:1125
+#: ../../BRO.rst:1519
 msgid ""
 "Argoth, Sanctum of Nature enters the battlefield tapped unless you control a "
 "legendary green creature."
 msgstr ""
 
-#: ../../BRO.rst:1127
+#: ../../BRO.rst:1521
 msgid "|tap|: Add |mana_g|."
 msgstr "|tap|: Weź |mana_g|."
 
-#: ../../BRO.rst:1129
+#: ../../BRO.rst:1523
 msgid ""
 "|mana_2|\\ |mana_g|\\ |mana_g|, |tap|: Create a 2/2 green Bear creature "
 "token, then mill three cards. Activate only as a sorcery."
@@ -3861,22 +5137,22 @@ msgstr ""
 "|mana_2|\\ |mana_g|\\ |mana_g|, |tap|: Stwórz dwa żetony zielonego stwora "
 "Niedźwiedź 2/2, po czym zmiel trzy karty. Aktywuj tylko jako obrzęd."
 
-#: ../../BRO.rst:1131
+#: ../../BRO.rst:1525
 msgid "(Melds with Titania, Voice of Gaea.)"
 msgstr "(Łączy się z Titania, Voice of Gaea.)"
 
-#: ../../BRO.rst:1142
+#: ../../BRO.rst:1536
 msgid ""
 ":mtgtip:`Titania, Gaea Incarnate<https://cards.scryfall.io/border_crop/"
 "front/4/1/414b9230-9d25-4bdf-8b1e-b4fa2035b6a4.jpg?1667428858|https://"
 "scryfall.com/card/bro/256b/titania-gaea-incarnate?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:1135
+#: ../../BRO.rst:1529
 msgid "Vigilance, reach, trample, haste"
 msgstr "Czujność, zasięg, tratowanie, pośpiech"
 
-#: ../../BRO.rst:1137
+#: ../../BRO.rst:1531
 msgid ""
 "Titania, Gaea Incarnate's power and toughness are each equal to the number "
 "of lands you control."
@@ -3884,7 +5160,7 @@ msgstr ""
 "Siła i wytrzymałość tej karty są obie równe liczbie lądów pod twoim "
 "władaniem."
 
-#: ../../BRO.rst:1139
+#: ../../BRO.rst:1533
 #, fuzzy
 #| msgid ""
 #| "When Titania, Gaea Incarnate enters the battlefield, return all land "
@@ -3896,7 +5172,7 @@ msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, przywróć wszystkie karty lądów z "
 "twojego cmentarza przekręcone na pole bitwy."
 
-#: ../../BRO.rst:1141
+#: ../../BRO.rst:1535
 msgid ""
 "|mana_3|\\ |mana_g|: Put four +1/+1 counters on target land you control. It "
 "becomes a 0/0 Elemental creature with haste. It's still a land."
@@ -3905,40 +5181,40 @@ msgstr ""
 "twoim władaniem. Staje się on stworem Żywiołak 0/0 z pośpiechem. Nadal jest "
 "lądem."
 
-#: ../../BRO.rst:1148
+#: ../../BRO.rst:1542
 msgid ""
 ":mtgtip:`Battlefield Forge<https://cards.scryfall.io/border_crop/"
 "front/6/4/642584bb-7586-4796-9b94-f01ec5bd9e9f.jpg?1666928981|https://"
 "scryfall.com/card/bro/257/battlefield-forge?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:1145 ../../BRO.rst:1153 ../../BRO.rst:1161 ../../BRO.rst:1167
-#: ../../BRO.rst:1181 ../../BRO.rst:1189 ../../BRO.rst:1195 ../../BRO.rst:1203
-#: ../../BRO.rst:1209
+#: ../../BRO.rst:1539 ../../BRO.rst:1547 ../../BRO.rst:1555 ../../BRO.rst:1561
+#: ../../BRO.rst:1579 ../../BRO.rst:1587 ../../BRO.rst:1593 ../../BRO.rst:1601
+#: ../../BRO.rst:1607
 msgid "|tap|: Add |colorless|."
 msgstr "|tap|: Weź |colorless|."
 
-#: ../../BRO.rst:1147
+#: ../../BRO.rst:1541
 msgid ""
 "|tap|: Add |mana_r| or |mana_w|. Battlefield Forge deals 1 damage to you."
 msgstr "|tap|: Weź |mana_r| lub |mana_w|. Ten ląd zadaje tobie 1 obrażenie."
 
-#: ../../BRO.rst:1158
+#: ../../BRO.rst:1552
 msgid ""
 ":mtgtip:`Blast Zone<https://cards.scryfall.io/border_crop/front/c/5/"
 "c5e911be-8166-4263-8c57-e86358b8ceb8.jpg?1666996303|https://scryfall.com/"
 "card/bro/258/blast-zone?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:1151
+#: ../../BRO.rst:1545
 msgid "Blast Zone enters the battlefield with a charge counter on it."
 msgstr "Ten ląd wchodzi na pole bitwy mając znacznik ładunku."
 
-#: ../../BRO.rst:1155
+#: ../../BRO.rst:1549
 msgid "|mana_x|\\ |mana_x|, |tap|: Put X charge counters on Blast Zone."
 msgstr "|mana_x|\\ |mana_x|, |tap|: Umieść X znaczników ładunku na tym lądzie."
 
-#: ../../BRO.rst:1157
+#: ../../BRO.rst:1551
 msgid ""
 "|mana_3|, |tap|, Sacrifice Blast Zone: Destroy each nonland permanent with "
 "mana value equal to the number of charge counters on Blast Zone."
@@ -3946,25 +5222,25 @@ msgstr ""
 "|mana_3|, |tap|, poświęć ten ląd: Zniszcz każdy nie-lądowy byt o skrócie "
 "many równym liczbie znaczników ładunku na tym lądzie."
 
-#: ../../BRO.rst:1164
+#: ../../BRO.rst:1558
 msgid ""
 ":mtgtip:`Brushland<https://cards.scryfall.io/border_crop/"
 "front/1/8/18d236ce-3b78-403a-b5f9-4fb44123d85b.jpg?1666929209|https://"
 "scryfall.com/card/bro/259/brushland?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:1163
+#: ../../BRO.rst:1557
 msgid "|tap|: Add |mana_g| or |mana_w|. Brushland deals 1 damage to you."
 msgstr "|tap|: Weź |mana_g| lub |mana_w|. Ten ląd zadaje tobie 1 obrażenie."
 
-#: ../../BRO.rst:1170
+#: ../../BRO.rst:1564
 msgid ""
 ":mtgtip:`Demolition Field<https://cards.scryfall.io/border_crop/front/d/9/"
 "d9c88546-13c9-4d7e-a618-cb2ccd1dbc0f.jpg?1667373966|https://scryfall.com/"
 "card/bro/260/demolition-field?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:1169
+#: ../../BRO.rst:1563
 msgid ""
 "|mana_2|, |tap|, Sacrifice Demolition Field: Destroy target nonbasic land an "
 "opponent controls. That land's controller may search their library for a "
@@ -3973,41 +5249,56 @@ msgid ""
 "shuffle."
 msgstr ""
 
-#: ../../BRO.rst:1178
+#: ../../BRO.rst:1568
+msgid ""
+":mtgtip:`Evolving Wilds<https://cards.scryfall.io/border_crop/"
+"front/2/3/238de888-b1bd-4cce-9aa2-d0dd69ae7f0d.jpg?1667573403|https://"
+"scryfall.com/card/bro/261/evolving-wilds?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:1567
+msgid ""
+"|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, "
+"put it onto the battlefield tapped, then shuffle."
+msgstr ""
+"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
+"umieść ją przekręconą na polu bitwy, po czym przetasuj."
+
+#: ../../BRO.rst:1576
 msgid ""
 ":mtgtip:`Fortified Beachhead<https://cards.scryfall.io/border_crop/front/e/2/"
 "e248204c-865d-42d9-b745-8ff73225b4a1.jpg?1667289854|https://scryfall.com/"
 "card/bro/262/fortified-beachhead?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:1173
+#: ../../BRO.rst:1571
 msgid ""
 "As Fortified Beachhead enters the battlefield, you may reveal a Soldier card "
 "from your hand. Fortified Beachhead enters the battlefield tapped unless you "
 "revealed a Soldier card this way or you control a Soldier."
 msgstr ""
 
-#: ../../BRO.rst:1175
+#: ../../BRO.rst:1573
 msgid "|tap|: Add |mana_w| or |mana_u|."
 msgstr "|tap|: Weź |mana_w| lub |mana_u|."
 
-#: ../../BRO.rst:1177
+#: ../../BRO.rst:1575
 msgid "|mana_5|, |tap|: Soldiers you control get +1/+1 until end of turn."
 msgstr ""
 "|mana_5|, |tap|: Piechurzy pod twoim władaniem do końca tury dostają +1/+1."
 
-#: ../../BRO.rst:1186
+#: ../../BRO.rst:1584
 msgid ""
 ":mtgtip:`Hall of Tagsin<https://cards.scryfall.io/border_crop/front/a/8/"
 "a8007012-39c5-4247-ba77-1cfcaade37fa.jpg?1667142777|https://scryfall.com/"
 "card/bro/263/hall-of-tagsin?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:1183
+#: ../../BRO.rst:1581
 msgid "|mana_1|, |tap|: Add one mana of any color."
 msgstr "|mana_1|, |tap|: Weź jedną manę dowolnego koloru."
 
-#: ../../BRO.rst:1185
+#: ../../BRO.rst:1583
 msgid ""
 "|mana_4|, |tap|: Create a tapped Powerstone token. (It's an artifact with \"|"
 "tap|: Add |colorless|. This mana can't be spent to cast a nonartifact spell."
@@ -4017,25 +5308,25 @@ msgstr ""
 "tap|: Weź |colorless|. Ta mana nie może być wydana na rzucenie "
 "nieartefaktowego czaru.\")"
 
-#: ../../BRO.rst:1192
+#: ../../BRO.rst:1590
 msgid ""
 ":mtgtip:`Llanowar Wastes<https://cards.scryfall.io/border_crop/"
 "front/1/0/10716909-1254-4b2b-997e-23a18994a98d.jpg?1666929072|https://"
 "scryfall.com/card/bro/264/llanowar-wastes?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:1191
+#: ../../BRO.rst:1589
 msgid "|tap|: Add |mana_b| or |mana_g|. Llanowar Wastes deals 1 damage to you."
 msgstr "|tap|: Weź |mana_b| lub |mana_g|. Ten ląd zadaje tobie 1 obrażenie."
 
-#: ../../BRO.rst:1200
+#: ../../BRO.rst:1598
 msgid ""
 ":mtgtip:`Mishra's Foundry<https://cards.scryfall.io/border_crop/front/d/a/"
 "da7699b2-e1af-4bc0-8c5b-84ba3e868d7c.jpg?1664492760|https://scryfall.com/"
 "card/bro/265/mishras-foundry?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:1197
+#: ../../BRO.rst:1595
 msgid ""
 "|mana_2|: Mishra's Foundry becomes a 2/2 Assembly-Worker artifact creature "
 "until end of turn. It's still a land."
@@ -4043,104 +5334,229 @@ msgstr ""
 "|mana_2|: Ten byt do końca tury staje się artefaktowym stworem Składacz 2/2. "
 "Nadal jest lądem."
 
-#: ../../BRO.rst:1199
+#: ../../BRO.rst:1597
 msgid ""
 "|mana_1|, |tap|: Target attacking Assembly-Worker gets +2/+2 until end of "
 "turn."
 msgstr ""
 "|mana_1|, |tap|: Wskazany atakujący Składacz do końca tury dostaje +2/+2."
 
-#: ../../BRO.rst:1206
+#: ../../BRO.rst:1604
 msgid ""
 ":mtgtip:`Tocasia's Dig Site<https://cards.scryfall.io/border_crop/"
 "front/2/3/23d4b90c-95b1-4828-bc08-7067da0d5364.jpg?1667332272|https://"
 "scryfall.com/card/bro/266/tocasias-dig-site?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:1205
+#: ../../BRO.rst:1603
 msgid ""
 "|mana_3|, |tap|: Surveil 1. (Look at the top card of your library. You may "
 "put that card into your graveyard.)"
 msgstr ""
 
-#: ../../BRO.rst:1212
+#: ../../BRO.rst:1610
 msgid ""
 ":mtgtip:`Underground River<https://cards.scryfall.io/border_crop/front/e/b/"
 "eb52820c-8660-4c4a-bb64-5b2fc580b6a3.jpg?1666929133|https://scryfall.com/"
 "card/bro/267/underground-river?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:1211
+#: ../../BRO.rst:1609
 msgid ""
 "|tap|: Add |mana_u| or |mana_b|. Underground River deals 1 damage to you."
 msgstr "|tap|: Weź |mana_u| lub |mana_b|. Ten ląd zadaje tobie 1 obrażenie."
 
-#: ../../BRO.rst:1216
+#: ../../BRO.rst:1614
 msgid ""
 ":mtgtip:`Plains<https://cards.scryfall.io/border_crop/front/2/2/22de1edc-"
 "ec67-4694-ab88-2a679c8a450f.jpg?1667420086|https://scryfall.com/card/bro/268/"
 "plains?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:1215
+#: ../../BRO.rst:1613
 msgid "(|tap|: Add |mana_w|.)"
 msgstr "(|tap|: Weź |mana_w|.)"
 
-#: ../../BRO.rst:1220
+#: ../../BRO.rst:1618
 msgid ""
 ":mtgtip:`Island<https://cards.scryfall.io/border_crop/front/e/e/"
 "eee75629-86b4-40b0-884a-22646ebf6e27.jpg?1667420130|https://scryfall.com/"
 "card/bro/270/island?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:1219
+#: ../../BRO.rst:1617
 msgid "(|tap|: Add |mana_u|.)"
 msgstr "(|tap|: Weź |mana_u|.)"
 
-#: ../../BRO.rst:1224
+#: ../../BRO.rst:1622
 msgid ""
 ":mtgtip:`Swamp<https://cards.scryfall.io/border_crop/front/1/"
 "c/1c90f777-2f98-4010-80a3-5fe395747e5f.jpg?1667420209|https://scryfall.com/"
 "card/bro/272/swamp?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:1223
+#: ../../BRO.rst:1621
 msgid "(|tap|: Add |mana_b|.)"
 msgstr "(|tap|: Weź |mana_b|.)"
 
-#: ../../BRO.rst:1228
+#: ../../BRO.rst:1626
 msgid ""
 ":mtgtip:`Mountain<https://cards.scryfall.io/border_crop/front/9/5/95083e1d-"
 "faf5-40e4-9be5-909cd01cc2b5.jpg?1667420264|https://scryfall.com/card/bro/274/"
 "mountain?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:1227
+#: ../../BRO.rst:1625
 msgid "(|tap|: Add |mana_r|.)"
 msgstr "(|tap|: Weź |mana_r|.)"
 
-#: ../../BRO.rst:1232
+#: ../../BRO.rst:1630
 msgid ""
 ":mtgtip:`Forest<https://cards.scryfall.io/border_crop/front/a/6/"
 "a63eab07-46e5-4b75-954f-b5a9f1f451cd.jpg?1667420304|https://scryfall.com/"
 "card/bro/276/forest?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:1231
+#: ../../BRO.rst:1629
 msgid "(|tap|: Add |mana_g|.)"
 msgstr "(|tap|: Weź |mana_g|.)"
 
-#: ../../BRO.rst:1235
+#: ../../BRO.rst:1638
 msgid ""
-":mtgtip:`Over the Top<https://cards.scryfall.io/border_crop/front/a/9/"
-"a913dba9-70ca-4ba3-a7b8-876843b1b1df.jpg?1667392883|https://scryfall.com/"
-"card/bro/340/over-the-top?utm_source=api>`"
+":mtgtip:`Rescue Retriever<https://cards.scryfall.io/border_crop/"
+"front/5/9/598def2c-003c-4aa4-ac7c-44ffd9639fdc.jpg?1667522373|https://"
+"scryfall.com/card/bro/288/rescue-retriever?utm_source=api>`"
 msgstr ""
 
-#: ../../BRO.rst:1235
+#: ../../BRO.rst:1635
+#, fuzzy
+#| msgid ""
+#| "When Scrapwork Cohort enters the battlefield, create a 1/1 colorless "
+#| "Soldier artifact creature token."
 msgid ""
-"Each player reveals a number of cards from the top of their library equal to "
-"the number of nonland permanent they control, puts all permanent cards "
-"revealed that way onto the battlefield, and puts the rest into their "
-"graveyard."
+"When Rescue Retriever enters the battlefield, put a +1/+1 counter on each "
+"other Soldier you control."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton bezkolorowego "
+"artefaktowego stwora Piechur 1/1."
+
+#: ../../BRO.rst:1637
+msgid ""
+"Prevent all damage that would be dealt to other attacking Soldiers you "
+"control."
+msgstr ""
+
+#: ../../BRO.rst:1644
+msgid ""
+":mtgtip:`Geology Enthusiast<https://cards.scryfall.io/border_crop/front/d/b/"
+"dbb1f21c-60fa-4fcc-844b-25bf5b47fd1f.jpg?1667522434|https://scryfall.com/"
+"card/bro/289/geology-enthusiast?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:1641
+#, fuzzy
+#| msgid ""
+#| "When Powerstone Engineer dies, create a tapped Powerstone token. (It's an "
+#| "artifact with \"|tap|: Add |colorless|. This mana can't be spent to cast "
+#| "a nonartifact spell.\")"
+msgid ""
+"At the beginning of your end step, create a tapped Powerstone token. (It's "
+"an artifact with \"|tap|: Add |colorless|. This mana can't be spent to cast "
+"a nonartifact spell.\")"
+msgstr ""
+"Kiedy niniejszy umrze, stwórz przekręcony żeton Kamień Mocy. (To artefakt z "
+"\"|tap|: Weź |colorless|. Ta mana nie może być wydana na rzucenie "
+"nieartefaktowego czaru.\")"
+
+#: ../../BRO.rst:1643
+msgid "|mana_6|: Draw a card and put a +1/+1 counter on Geology Enthusiast."
+msgstr ""
+
+#: ../../BRO.rst:1652
+msgid ""
+":mtgtip:`Terror Ballista<https://cards.scryfall.io/border_crop/"
+"front/3/1/31215674-0bcd-46f1-b8a1-5415f8b674d1.jpg?1667522790|https://"
+"scryfall.com/card/bro/290/terror-ballista?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:1649
+#, fuzzy
+#| msgid ""
+#| "When Bitter Reunion enters the battlefield, you may discard a card. If "
+#| "you do, draw two cards."
+msgid ""
+"When Terror Ballista attacks, you may sacrifice another creature. When you "
+"do, destroy target creature an opponent controls."
+msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, możesz odrzucić kartę. Jeśli tak "
+"zrobisz, dobierz dwie karty."
+
+#: ../../BRO.rst:1651
+msgid ""
+"Unearth |mana_3|\\ |mana_b|\\ |mana_b| (|mana_3|\\ |mana_b|\\ |mana_b|: "
+"Return this card from your graveyard to the battlefield. It gains haste. "
+"Exile it at the beginning of the next end step or if it would leave the "
+"battlefield. Unearth only as a sorcery.)"
+msgstr ""
+"Odkopanie |mana_3|\\ |mana_b|\\ |mana_b| (|mana_3|\\ |mana_b|\\ |mana_b|: "
+"Przywróć tę kartę z twojego cmentarza na pole bitwy. Zyskuje ona pośpiech. "
+"Wygnaj ją na początku najbliższego kroku końcowego lub gdyby miała opuścić "
+"pole bitwy. Aktywuj tylko jako obrzęd.)"
+
+#: ../../BRO.rst:1660
+msgid ""
+":mtgtip:`Artificer's Dragon<https://cards.scryfall.io/border_crop/front/c/c/"
+"ccd88d6c-7d3a-45b1-85b4-b390d60cae14.jpg?1667522596|https://scryfall.com/"
+"card/bro/291/artificers-dragon?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:1657
+#, fuzzy
+#| msgid "|mana_5|: Creatures you control get +1/+1 until end of turn."
+msgid "|mana_r|: Artificer's Dragon you control get +1/+0 until end of turn."
+msgstr "|mana_5|: Stwory pod twoim władaniem do końca tury dostają +1/+1."
+
+#: ../../BRO.rst:1659
+#, fuzzy
+#| msgid ""
+#| "Unearth |mana_2|\\ |mana_w| (|mana_2|\\ |mana_w|: Return this card from "
+#| "your graveyard to the battlefield. It gains haste. Exile it at the "
+#| "beginning of the next end step or if it would leave the battlefield. "
+#| "Unearth only as a sorcery.)"
+msgid ""
+"Unearth |mana_3|\\ |mana_r|\\ |mana_r| (|mana_3|\\ |mana_r|\\ |mana_r|: "
+"Return this card from your graveyard to the battlefield. It gains haste. "
+"Exile it at the beginning of the next end step or if it would leave the "
+"battlefield. Unearth only as a sorcery.)"
+msgstr ""
+"Odkopanie |mana_2|\\ |mana_w| (|mana_2|\\ |mana_w|: Przywróć tę kartę z "
+"twojego cmentarza na pole bitwy. Zyskuje ona pośpiech. Wygnaj ją na początku "
+"najbliższego kroku końcowego lub gdyby miała opuścić pole bitwy. Aktywuj "
+"tylko jako obrzęd.)"
+
+#: ../../BRO.rst:1665
+msgid ""
+":mtgtip:`Woodcaller Automaton<https://cards.scryfall.io/border_crop/front/"
+"a/0/a0418156-bcba-4edc-8ea5-ce9ca9b979bd.jpg?1667522534|https://scryfall.com/"
+"card/bro/292/woodcaller-automaton?utm_source=api>`"
+msgstr ""
+
+#: ../../BRO.rst:1663
+msgid ""
+"Prototype |mana_2|\\ |mana_g|\\ |mana_g| — 3/3 (You may cast this spell with "
+"different mana cost, color, and size. It keeps its abilities and types.)"
+msgstr ""
+
+#: ../../BRO.rst:1665
+msgid ""
+"When Woodcaller Automaton enters the battlefield, if you cast it, untap "
+"target land you control. It becomes a Treefolk creature with haste and base "
+"power and toughness equal to Woodcaller Automaton's power and toughness. "
+"It's still a land."
+msgstr ""
+
+#~ msgid ""
+#~ "Target creature you control fights target creature you don't control."
+#~ msgstr ""
+#~ "Wskazany stwór pod twoim władaniem walczy ze wskazanym stworem poza twoim "
+#~ "władaniem."
