@@ -17,10 +17,10 @@
    At the beginning of your end step, create a 0/0 colorless Construct artifact creature token with "This creature gets +1/+1 for each artifact you control."
 
 
-:mtgtip:`Tawnos, Solemn Survivor<https://cards.scryfall.io/border_crop/front/b/d/bdf67de0-f468-4f04-99ab-a442347bb16b.jpg?1667126559|https://scryfall.com/card/brc/3/tawnos-solemn-survivor?utm_source=api>`
+:mtgtip:`Tawnos, Solemn Survivor<https://cards.scryfall.io/border_crop/front/b/d/bdf67de0-f468-4f04-99ab-a442347bb16b.jpg?1667737437|https://scryfall.com/card/brc/3/tawnos-solemn-survivor?utm_source=api>`
    |mana_2|, |tap|: Create a token that's a copy of up to one target artifact token you control. Mill two cards.
 
-   |mana_1|\ |mana_w|\ |mana_u|\ |mana_b|, |tap|: Sacrifice two artifact tokens, Exile an artifact or creature card from your graveyard: Create a token that's a copy of the exiled card, except it's an artifact in addition to its other types. Activate only as a sorcery.
+   |mana_1|\ |mana_w|\ |mana_u|\ |mana_b|, |tap|, Sacrifice two artifact tokens, Exile an artifact or creature card from your graveyard: Create a token that's a copy of the exiled card, except it's an artifact in addition to its other types. Activate only as a sorcery.
 
 
 :mtgtip:`Ashnod the Uncaring<https://cards.scryfall.io/border_crop/front/a/7/a76e8ab8-33bf-4a5a-b6a2-7046301b6c31.jpg?1667001470|https://scryfall.com/card/brc/4/ashnod-the-uncaring?utm_source=api>`
@@ -179,8 +179,10 @@
    Tap three untapped Advisors, Artificers, and/or Monks you control: Draw a card.
 
 
-:mtgtip:`Staff of Titania<https://cards.scryfall.io/border_crop/front/a/5/a5b765f3-e59e-4af1-bac5-e50797f8629f.jpg?1667523028|https://scryfall.com/card/brc/27/staff-of-titania?utm_source=api>`
-   Equipped creature gets +X/+X, where X is the number of Forests you control. Whenever equipped creature attacks, create a 1/1 green Forest Dryad land creature token. (It's affected by summoning sickness.)
+:mtgtip:`Staff of Titania<https://cards.scryfall.io/border_crop/front/a/5/a5b765f3-e59e-4af1-bac5-e50797f8629f.jpg?1667637624|https://scryfall.com/card/brc/27/staff-of-titania?utm_source=api>`
+   Equipped creature gets +X/+X, where X is the number of Forests you control.
+
+   Whenever equipped creature attacks, create a 1/1 green Forest Dryad land creature token. (It's affected by summoning sickness.)
 
    Equip |mana_3|
 
