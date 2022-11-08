@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-11-01 22:07+0100\n"
-"PO-Revision-Date: 2022-10-16 08:54+0000\n"
+"PO-Revision-Date: 2022-11-08 09:30+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mid/pl/>\n"
 "Language: pl\n"
@@ -2009,7 +2009,7 @@ msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, możesz zapłacić |mana_1|\\ |mana_u| "
 "dowolną liczbę razy. Kiedy zapłacisz ten koszt co najmniej raz, umieść tyle "
 "samo znaczników +1/+1 na tym stworze, po czym co najwyżej tyle innych "
-"wskazanych artefaktów, stworów i/lub uroków wycofuje się."
+"wskazanych artefaktów, stworów i/lub uroków znika."
 
 #: ../../MID.rst:576
 msgid ""
@@ -6102,7 +6102,7 @@ msgstr ""
 
 #: ../../MID.rst:1923
 msgid "|mana_4|: Creeping Inn phases out."
-msgstr "|mana_4|: Ten ląd wycofuje się."
+msgstr "|mana_4|: Ten ląd znika."
 
 #: ../../MID.rst:1930
 msgid ""

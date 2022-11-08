@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG po polsku 2022.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-11-07 00:57+0100\n"
-"PO-Revision-Date: 2022-11-04 22:39+0000\n"
+"PO-Revision-Date: 2022-11-08 09:30+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/bro/pl/>\n"
 "Language: pl\n"
@@ -5512,10 +5512,9 @@ msgid ""
 msgstr ""
 
 #: ../../BRO.rst:1657
-#, fuzzy
-#| msgid "|mana_5|: Creatures you control get +1/+1 until end of turn."
 msgid "|mana_r|: Artifact creatures you control get +1/+0 until end of turn."
-msgstr "|mana_5|: Stwory pod twoim władaniem do końca tury dostają +1/+1."
+msgstr ""
+"|mana_r|: Artefaktowe stwory pod twoim władaniem do końca tury dostają +1/+0."
 
 #: ../../BRO.rst:1659
 #, fuzzy
