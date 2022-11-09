@@ -953,7 +953,7 @@
    Unearth |mana_1|\ |mana_r| (|mana_1|\ |mana_r|: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)
 
 
-:mtgtip:`Phyrexian Dragon Engine<https://cards.scryfall.io/border_crop/front/e/2/e2b826be-4256-4fd6-ad4d-6c80933ee940.jpg?1666899818|https://scryfall.com/card/bro/163a/phyrexian-dragon-engine?utm_source=api>`
+:mtgtip:`Phyrexian Dragon Engine<https://cards.scryfall.io/border_crop/front/e/2/e2b826be-4256-4fd6-ad4d-6c80933ee940.jpg?1667858185|https://scryfall.com/card/bro/163a/phyrexian-dragon-engine?utm_source=api>`
    Double strike
 
    When Phyrexian Dragon Engine enters the battlefield from your graveyard, you may discard your hand. If you do, draw three cards.
@@ -1253,8 +1253,8 @@
    Creatures you control with mana value 3 or less get +1/+0.
 
 
-:mtgtip:`Junkyard Genius<https://cards.scryfall.io/border_crop/front/a/1/a15b0676-b698-4160-8d2f-a22a1011bac0.jpg?1667330954|https://scryfall.com/card/bro/214/junkyard-genius?utm_source=api>`
-   When Junkyard Genius etners the battlefield, create a tapped Powerstone token. (It's an artifact with "|tap|: Add |colorless|. This mana can't be spent to cast a nonartifact spell.")
+:mtgtip:`Junkyard Genius<https://cards.scryfall.io/border_crop/front/a/1/a15b0676-b698-4160-8d2f-a22a1011bac0.jpg?1667932787|https://scryfall.com/card/bro/214/junkyard-genius?utm_source=api>`
+   When Junkyard Genius enters the battlefield, create a tapped Powerstone token. (It's an artifact with "|tap|: Add |colorless|. This mana can't be spent to cast a nonartifact spell.")
 
    |mana_1|\ |mana_b|\ |mana_r|, Sacrifice another creature or artifact: Until end of turn, other creatures you control get +1/+0 and gain menace and haste.
 
@@ -1325,8 +1325,8 @@
    |mana_6|: Create a token that's a copy of target artifact you control, except it's a 1/1 Soldier creature in addition to its other types.
 
 
-:mtgtip:`Yotian Dissident<https://cards.scryfall.io/border_crop/front/1/e/1eb02f00-c188-4193-a049-d26f7643e5da.jpg?1667089759|https://scryfall.com/card/bro/227/yotian-dissident?utm_source=api>`
-   Whenever an artifact enters the battlefield under your control, put +1/+1 counter on target creature you control.
+:mtgtip:`Yotian Dissident<https://cards.scryfall.io/border_crop/front/1/e/1eb02f00-c188-4193-a049-d26f7643e5da.jpg?1667932776|https://scryfall.com/card/bro/227/yotian-dissident?utm_source=api>`
+   Whenever an artifact enters the battlefield under your control, put a +1/+1 counter on target creature you control.
 
 
 :mtgtip:`Yotian Tactician<https://cards.scryfall.io/border_crop/front/7/6/760c0369-c2e4-4bd7-a301-9f707f5f48a8.jpg?1667637613|https://scryfall.com/card/bro/228/yotian-tactician?utm_source=api>`
@@ -1395,7 +1395,7 @@
    Whenever you cast a spell, if the amount of mana spent to cast that spell is greater than Liberator, Urza's Battlethopter's power, put a +1/+1 counter on Liberator.
 
 
-:mtgtip:`The Mightstone and Weakstone<https://cards.scryfall.io/border_crop/front/0/2/02aea379-b444-46a3-82f4-3038f698d4f4.jpg?1664561565|https://scryfall.com/card/bro/238a/the-mightstone-and-weakstone?utm_source=api>`
+:mtgtip:`The Mightstone and Weakstone<https://cards.scryfall.io/border_crop/front/0/2/02aea379-b444-46a3-82f4-3038f698d4f4.jpg?1667858104|https://scryfall.com/card/bro/238a/the-mightstone-and-weakstone?utm_source=api>`
    When The Mightstone and Weakstone enters the battlefield, choose one —
 
    • Draw two cards.
@@ -1431,7 +1431,7 @@
    At the beginning of your upkeep, put target creature card from a graveyard onto the battlefield under your control. It's a Phyrexian in addition to its other types.
 
 
-:mtgtip:`Power Plant Worker<https://cards.scryfall.io/border_crop/front/9/9/99965310-e4bd-40d9-80f5-3fd1754c61c5.jpg?1667376913|https://scryfall.com/card/bro/241/power-plant-worker?utm_source=api>`
+:mtgtip:`Power Plant Worker<https://cards.scryfall.io/border_crop/front/9/9/99965310-e4bd-40d9-80f5-3fd1754c61c5.jpg?1667920837|https://scryfall.com/card/bro/241/power-plant-worker?utm_source=api>`
    |mana_3|: Power Plant Worker gets +2/+2 until end of turn. If you control creatures named Mine Worker and Tower Worker, put two +1/+1 counters on Power Plant Worker instead. Activate only once each turn.
 
 
@@ -1643,10 +1643,10 @@
    |mana_6|: Draw a card and put a +1/+1 counter on Geology Enthusiast.
 
 
-:mtgtip:`Terror Ballista<https://cards.scryfall.io/border_crop/front/3/1/31215674-0bcd-46f1-b8a1-5415f8b674d1.jpg?1667588477|https://scryfall.com/card/bro/290/terror-ballista?utm_source=api>`
+:mtgtip:`Terror Ballista<https://cards.scryfall.io/border_crop/front/3/1/31215674-0bcd-46f1-b8a1-5415f8b674d1.jpg?1667932284|https://scryfall.com/card/bro/290/terror-ballista?utm_source=api>`
    Menace
 
-   When Terror Ballista attacks, you may sacrifice another creature. When you do, destroy target creature an opponent controls.
+   Whenever Terror Ballista attacks, you may sacrifice another creature. When you do, destroy target creature an opponent controls.
 
    Unearth |mana_3|\ |mana_b|\ |mana_b| (|mana_3|\ |mana_b|\ |mana_b|: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)
 
