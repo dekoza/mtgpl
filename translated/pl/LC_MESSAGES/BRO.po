@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG po polsku 2022.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-11-09 19:06+0100\n"
-"PO-Revision-Date: 2022-11-09 18:05+0000\n"
+"PO-Revision-Date: 2022-11-09 18:22+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/bro/pl/>\n"
 "Language: pl\n"
@@ -4069,18 +4069,13 @@ msgid ""
 msgstr ""
 
 #: ../../BRO.rst:1257
-#, fuzzy
-#| msgid ""
-#| "When Junkyard Genius etners the battlefield, create a tapped Powerstone "
-#| "token. (It's an artifact with \"|tap|: Add |colorless|. This mana can't "
-#| "be spent to cast a nonartifact spell.\")"
 msgid ""
 "When Junkyard Genius enters the battlefield, create a tapped Powerstone "
 "token. (It's an artifact with \"|tap|: Add |colorless|. This mana can't be "
 "spent to cast a nonartifact spell.\")"
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, stwórz przekręcony żeton Kamień Mocy. "
-"(To artefakt z \"|tap|: Weź |colorless|. Ta mana nie może być wydana na "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz przekręcony żeton Kamień Mocy. ("
+"To artefakt z \"|tap|: Weź |colorless|. Ta mana nie może być wydana na "
 "rzucenie nieartefaktowego czaru.\")"
 
 #: ../../BRO.rst:1259
@@ -4337,16 +4332,12 @@ msgid ""
 msgstr ""
 
 #: ../../BRO.rst:1329
-#, fuzzy
-#| msgid ""
-#| "When Simian Simulacrum enters the battlefield, put two +1/+1 counters on "
-#| "target creature you control."
 msgid ""
 "Whenever an artifact enters the battlefield under your control, put a +1/+1 "
 "counter on target creature you control."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, umieść dwa znaczniki +1/+1 na wskazanym "
-"stworze pod twoim władaniem."
+"Ilekroć artefakt wejdzie na pole bitwy pod twoim władaniem, umieść znacznik +"
+"1/+1 na wskazanym stworze pod twoim władaniem."
 
 #: ../../BRO.rst:1334
 msgid ""
@@ -5231,15 +5222,11 @@ msgid ""
 msgstr ""
 
 #: ../../BRO.rst:1649
-#, fuzzy
-#| msgid ""
-#| "When Terror Ballista attacks, you may sacrifice another creature. When "
-#| "you do, destroy target creature an opponent controls."
 msgid ""
 "Whenever Terror Ballista attacks, you may sacrifice another creature. When "
 "you do, destroy target creature an opponent controls."
 msgstr ""
-"Kiedy niniejszy zaatakuje, możesz poświęcić innego stwora. Kiedy tak "
+"Ilekroć niniejszy zaatakuje, możesz poświęcić innego stwora. Kiedy tak "
 "zrobisz, zniszcz wskazanego stwora pod władaniem przeciwnika."
 
 #: ../../BRO.rst:1651

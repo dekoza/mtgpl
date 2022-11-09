@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG po polsku 2022.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-11-09 19:06+0100\n"
-"PO-Revision-Date: 2022-11-08 09:30+0000\n"
+"PO-Revision-Date: 2022-11-09 18:22+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/brc/pl/>\n"
 "Language: pl\n"
@@ -731,17 +731,12 @@ msgstr ""
 "liczbą artefaktów pod władaniem twoich przeciwników."
 
 #: ../../BRC.rst:159
-#, fuzzy
-#| msgid ""
-#| "Whenever an artifact you control is put into a graveyard from the "
-#| "battlefield, target opponent loses life equal to Marionette Master's "
-#| "power."
 msgid ""
 "Whenever an artifact an opponent controls is put into a graveyard from the "
 "battlefield, Sardian Avenger deals 1 damage to that player."
 msgstr ""
-"Ilekroć artefakt pod twoim władaniem zostanie umieszczony w cmentarzu z pola "
-"bitwy, wskazany przeciwnik traci tyle żyć, ile siły ma niniejszy stwór."
+"Ilekroć artefakt pod władaniem przeciwnika trafi do cmentarza z pola bitwy, "
+"niniejszy zadaje owemu graczowi 1 obrażenie."
 
 #: ../../BRC.rst:164
 msgid ""
@@ -766,22 +761,16 @@ msgid "You may play Forests from your graveyard."
 msgstr ""
 
 #: ../../BRC.rst:169
-#, fuzzy
-#| msgid ""
-#| "When Myr Battlesphere enters the battlefield, create four 1/1 colorless "
-#| "Myr artifact creature tokens."
 msgid ""
 "Whenever a Forest enters the battlefield under your control, create a 5/3 "
 "green Elemental creature token."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, stwórz cztery żetony bezkolorowego "
-"artefaktowego stwora Myr 1/1."
+"Ilekroć Las wejdzie na pole bitwy pod twoim władaniem, stwórz żeton "
+"zielonego stwora Żywiołak 5/3."
 
 #: ../../BRC.rst:171
-#, fuzzy
-#| msgid "When Solemn Simulacrum dies, you may draw a card."
 msgid "Whenever an Elemental you control dies, you may mill three cards."
-msgstr "Kiedy ten stwór umrze, możesz dobrać kartę."
+msgstr "Ilekroć umrze Żywiołak pod twoim władaniem, możesz zmielić trzy karty."
 
 #: ../../BRC.rst:180
 msgid ""
@@ -804,12 +793,12 @@ msgid ""
 msgstr ""
 
 #: ../../BRC.rst:179
-#, fuzzy
-#| msgid "Tap two untapped artifacts you control: Draw a card."
 msgid ""
 "Tap three untapped Advisors, Artificers, and/or Monks you control: Draw a "
 "card."
-msgstr "Przekręć dwa odkręcone artefakty pod twoim władaniem: Dobierz kartę."
+msgstr ""
+"Przekręć trzy odkręcone stwory typu Doradca, Wynalazca i/lub Mnich pod twoim "
+"władaniem: Dobierz kartę."
 
 #: ../../BRC.rst:188
 msgid ""
@@ -819,11 +808,11 @@ msgid ""
 msgstr ""
 
 #: ../../BRC.rst:183
-#, fuzzy
-#| msgid "Equipped creature gets +1/+0 for each artifact you control."
 msgid ""
 "Equipped creature gets +X/+X, where X is the number of Forests you control."
-msgstr "Wyposażony stwór dostaje +1/+0 za każdy artefakt pod twoim władaniem."
+msgstr ""
+"Wyposażony stwór dostaje +X/+X, gdzie X jest liczbą Lasów pod twoim "
+"władaniem."
 
 #: ../../BRC.rst:185
 msgid ""
@@ -849,16 +838,12 @@ msgid "|tap|: Add |colorless|."
 msgstr "|tap|: Weź |colorless|."
 
 #: ../../BRC.rst:193
-#, fuzzy
-#| msgid ""
-#| "Metalcraft — Etched Champion has protection from all colors as long as "
-#| "you control three or more artifacts."
 msgid ""
 "Metalcraft — |tap|: Add |colorless| for each Urza's land you control. "
 "Activate only if you control three or more artifacts."
 msgstr ""
-"Metalurgia — Ten stwór ma ochronę przed wszystkimi kolorami o ile władasz co "
-"najmniej trzema artefaktami."
+"Metalurgia — |tap|: Weź |colorless| za każdy ląd Urzy pod twoim władaniem. "
+"Aktywuj tylko jeśli władasz co najmniej trzema artefaktami."
 
 #: ../../BRC.rst:198
 msgid ""
