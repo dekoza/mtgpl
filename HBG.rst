@@ -721,8 +721,10 @@
    Warlocks you control have menace.
 
 
-:mtgtip:`Mace of Disruption<https://cards.scryfall.io/border_crop/front/9/3/93bbb378-cbb9-4cce-a413-3a2fcc85a7be.jpg?1656390972|https://scryfall.com/card/hbg/23/mace-of-disruption?utm_source=api>`
-   Equipped creature gets +0/+2 and has protection from Demons and from Devils. Whenever equipped creature attacks, it perpetually gets +1/+0 if it has the same name as another creature you control or a creature card in your graveyard.
+:mtgtip:`Mace of Disruption<https://cards.scryfall.io/border_crop/front/9/3/93bbb378-cbb9-4cce-a413-3a2fcc85a7be.jpg?1667433766|https://scryfall.com/card/hbg/23/mace-of-disruption?utm_source=api>`
+   Equipped creature gets +0/+2 and has protection from Demons and from Devils.
+
+   Whenever equipped creature attacks, it perpetually gets +1/+0 if it has the same name as another creature you control or a creature card in your graveyard.
 
    Equip |mana_1|
 
@@ -755,12 +757,12 @@
    Double team
 
 
-:mtgtip:`Seatower Imprisonment<https://cards.scryfall.io/border_crop/front/6/f/6fb4744e-c3f3-4d8e-9f13-356841fa6aa6.jpg?1656478845|https://scryfall.com/card/hbg/27/seatower-imprisonment?utm_source=api>`
+:mtgtip:`Seatower Imprisonment<https://cards.scryfall.io/border_crop/front/6/f/6fb4744e-c3f3-4d8e-9f13-356841fa6aa6.jpg?1667433739|https://scryfall.com/card/hbg/27/seatower-imprisonment?utm_source=api>`
    Enchant creature or planeswalker you don't control
 
    When Seatower Imprisonment enters the battlefield, conjure a card named Soldiers of the Watch onto the battlefield.
 
-   Enchanted permanent can't attack or block and its activated abilities can't be activated.
+   Enchanted permanent can't attack or block, and its activated abilities can't be activated.
 
 
 :mtgtip:`Soldiers of the Watch<https://cards.scryfall.io/border_crop/front/e/2/e228fc29-fb05-46a3-83dd-5046f2cf3357.jpg?1656391078|https://scryfall.com/card/hbg/28/soldiers-of-the-watch?utm_source=api>`
@@ -797,10 +799,8 @@
    Rejuvenation — |mana_2|\ |mana_w|: Return Vladimir and Godfrey from your graveyard to the battlefield tapped. It perpetually gets +1/+1. Activate only if you control a 1/1 creature.
 
 
-:mtgtip:`Calim, Djinn Emperor<https://cards.scryfall.io/border_crop/front/6/6/669ffaf7-8b6d-46b4-a790-1715918e6e29.jpg?1656391945|https://scryfall.com/card/hbg/33/calim-djinn-emperor?utm_source=api>`
-   Flying
-
-   Ward |mana_2|
+:mtgtip:`Calim, Djinn Emperor<https://cards.scryfall.io/border_crop/front/6/6/669ffaf7-8b6d-46b4-a790-1715918e6e29.jpg?1667637514|https://scryfall.com/card/hbg/33/calim-djinn-emperor?utm_source=api>`
+   Flying, ward |mana_2|
 
    Calim's Breath — |mana_1|\ |mana_u|, Discard Calim: Tap up to one target nonland permanent. Draw a card. Then you may exile two other cards named Calim, Djinn Emperor from your graveyard. When you do, return Calim, Djinn Emperor from your graveyard to the battlefield tapped.
 
@@ -873,8 +873,8 @@
    Target opponent reveals each noncreature, nonland card in their hand. You choose a card revealed this way. That player discards that card. You lose 2 life. If they didn't reveal a card this way, you draw a card.
 
 
-:mtgtip:`Sewer Plague<https://cards.scryfall.io/border_crop/front/d/b/dbfc8eb5-b7a7-4e35-be1d-6dd0d46f4666.jpg?1656478915|https://scryfall.com/card/hbg/47/sewer-plague?utm_source=api>`
-   Target creature an opponent controls perpetually gets -2/-2 and gains "at the beginning of each upkeep, this creature perpetually gets -1/-1."
+:mtgtip:`Sewer Plague<https://cards.scryfall.io/border_crop/front/d/b/dbfc8eb5-b7a7-4e35-be1d-6dd0d46f4666.jpg?1667433722|https://scryfall.com/card/hbg/47/sewer-plague?utm_source=api>`
+   Target creature an opponent controls perpetually gets -2/-2 and gains "At the beginning of each upkeep, this creature perpetually gets -1/-1."
 
 
 :mtgtip:`Stroke of Luck<https://cards.scryfall.io/border_crop/front/f/9/f9d4c08d-a6c6-4ece-9a37-e74eecd08eb3.jpg?1656479029|https://scryfall.com/card/hbg/48/stroke-of-luck?utm_source=api>`
@@ -911,10 +911,10 @@
    Destroy up to three target artifacts. Conjure a duplicate of each nontoken artifact destroyed this way into your hand. The duplicates perpetually gain "You may pay |mana_r| rather than pay this spell's mana cost" and "at the beginning of your end step, sacrifice this artifact."
 
 
-:mtgtip:`Genasi Rabble-Rouser<https://cards.scryfall.io/border_crop/front/6/7/67121610-cf44-404b-a367-6dd36b8c7f7d.jpg?1656395273|https://scryfall.com/card/hbg/53/genasi-rabble-rouser?utm_source=api>`
+:mtgtip:`Genasi Rabble-Rouser<https://cards.scryfall.io/border_crop/front/6/7/67121610-cf44-404b-a367-6dd36b8c7f7d.jpg?1667435299|https://scryfall.com/card/hbg/53/genasi-rabble-rouser?utm_source=api>`
    Double team
 
-   |mana_1|\ |mana_r|: Creatures you control named Genasi Rabble-Rouser gets +1/+0 until end of turn.
+   |mana_1|\ |mana_r|: Creatures you control named Genasi Rabble-Rouser get +1/+0 until end of turn.
 
 
 :mtgtip:`Giant Fire Beetles<https://cards.scryfall.io/border_crop/front/f/d/fdf75d9d-b8eb-4a10-8d83-c60c0d595236.jpg?1656395310|https://scryfall.com/card/hbg/54/giant-fire-beetles?utm_source=api>`
@@ -2161,7 +2161,7 @@
    |tap|, Sacrifice up to three permanents: If there were three or more card types among the sacrificed permanents, each opponent loses 3 life, you gain 3 life, and you draw three cards.
 
 
-:mtgtip:`A-Baba Lysaga, Night Witch<https://cards.scryfall.io/border_crop/front/3/f/3ffce8af-df0c-413e-b697-3e91347364d6.jpg?1657240965|https://scryfall.com/card/hbg/A-232/a-baba-lysaga-night-witch?utm_source=api>`
+:mtgtip:`A-Baba Lysaga, Night Witch<https://cards.scryfall.io/border_crop/front/3/f/3ffce8af-df0c-413e-b697-3e91347364d6.jpg?1667974188|https://scryfall.com/card/hbg/A-232/a-baba-lysaga-night-witch?utm_source=api>`
    |tap|, Sacrifice up to three permanents: If there were three or more card types among the sacrificed permanents, each opponent loses 3 life, you gain 3 life, and you draw three cards.
 
 

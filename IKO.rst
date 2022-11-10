@@ -1209,7 +1209,7 @@
    Whenever you cast a noncreature spell, put a +1/+1 counter on Sprite Dragon.
 
 
-:mtgtip:`Titans' Nest<https://cards.scryfall.io/border_crop/front/7/5/75d4e6f3-73cb-4799-bcb9-c1f5bc234a02.jpg?1665819895|https://scryfall.com/card/iko/212/titans-nest?utm_source=api>`
+:mtgtip:`Titans' Nest<https://cards.scryfall.io/border_crop/front/7/5/75d4e6f3-73cb-4799-bcb9-c1f5bc234a02.jpg?1667595701|https://scryfall.com/card/iko/212/titans-nest?utm_source=api>`
    At the beginning of your upkeep, surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)
 
    Exile a card from your graveyard: Add |colorless|. Spend this mana only to cast a spell that's one or more colors without |mana_x| in its mana cost.
