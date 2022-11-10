@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2022.8\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-30 16:38+0100\n"
+"POT-Creation-Date: 2022-11-10 20:04+0100\n"
 "PO-Revision-Date: 2022-11-10 14:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/hbg/pl/>\n"
@@ -430,14 +430,14 @@ msgstr ""
 
 #: ../../HBG.rst:79 ../../HBG.rst:87 ../../HBG.rst:93 ../../HBG.rst:99
 #: ../../HBG.rst:105 ../../HBG.rst:111 ../../HBG.rst:627 ../../HBG.rst:705
-#: ../../HBG.rst:753 ../../HBG.rst:801 ../../HBG.rst:885 ../../HBG.rst:1099
-#: ../../HBG.rst:1115 ../../HBG.rst:1125 ../../HBG.rst:1205 ../../HBG.rst:1233
-#: ../../HBG.rst:1279 ../../HBG.rst:1285 ../../HBG.rst:1381 ../../HBG.rst:1409
-#: ../../HBG.rst:1415 ../../HBG.rst:1491 ../../HBG.rst:1499 ../../HBG.rst:1519
-#: ../../HBG.rst:1545 ../../HBG.rst:1663 ../../HBG.rst:1671 ../../HBG.rst:1677
-#: ../../HBG.rst:1745 ../../HBG.rst:1823 ../../HBG.rst:1833 ../../HBG.rst:1869
-#: ../../HBG.rst:1891 ../../HBG.rst:1901 ../../HBG.rst:1913 ../../HBG.rst:2215
-#: ../../HBG.rst:2285 ../../HBG.rst:2323 ../../HBG.rst:2373
+#: ../../HBG.rst:755 ../../HBG.rst:885 ../../HBG.rst:1099 ../../HBG.rst:1115
+#: ../../HBG.rst:1125 ../../HBG.rst:1205 ../../HBG.rst:1233 ../../HBG.rst:1279
+#: ../../HBG.rst:1285 ../../HBG.rst:1381 ../../HBG.rst:1409 ../../HBG.rst:1415
+#: ../../HBG.rst:1491 ../../HBG.rst:1499 ../../HBG.rst:1519 ../../HBG.rst:1545
+#: ../../HBG.rst:1663 ../../HBG.rst:1671 ../../HBG.rst:1677 ../../HBG.rst:1745
+#: ../../HBG.rst:1823 ../../HBG.rst:1833 ../../HBG.rst:1869 ../../HBG.rst:1891
+#: ../../HBG.rst:1901 ../../HBG.rst:1913 ../../HBG.rst:2215 ../../HBG.rst:2285
+#: ../../HBG.rst:2323 ../../HBG.rst:2373
 msgid "Flying"
 msgstr "Latanie"
 
@@ -1927,7 +1927,7 @@ msgid "Reach, trample"
 msgstr "Zasięg, tratowanie"
 
 #: ../../HBG.rst:645 ../../HBG.rst:653 ../../HBG.rst:661 ../../HBG.rst:669
-#: ../../HBG.rst:677 ../../HBG.rst:687 ../../HBG.rst:803
+#: ../../HBG.rst:677 ../../HBG.rst:687
 msgid "Ward |mana_2|"
 msgstr "Straż |mana_2|"
 
@@ -2063,7 +2063,7 @@ msgid ""
 "scryfall.com/card/hbg/21/champions-of-tyr?utm_source=api>`"
 msgstr ""
 
-#: ../../HBG.rst:707 ../../HBG.rst:735 ../../HBG.rst:755 ../../HBG.rst:767
+#: ../../HBG.rst:707 ../../HBG.rst:737 ../../HBG.rst:757 ../../HBG.rst:769
 #: ../../HBG.rst:817 ../../HBG.rst:837 ../../HBG.rst:915 ../../HBG.rst:923
 #: ../../HBG.rst:929 ../../HBG.rst:959 ../../HBG.rst:977
 msgid "Double team"
@@ -2112,200 +2112,206 @@ msgstr ""
 msgid "Warlocks you control have menace."
 msgstr ""
 
-#: ../../HBG.rst:728
+#: ../../HBG.rst:730
 msgid ""
 ":mtgtip:`Mace of Disruption<https://cards.scryfall.io/border_crop/"
-"front/9/3/93bbb378-cbb9-4cce-a413-3a2fcc85a7be.jpg?1656390972|https://"
+"front/9/3/93bbb378-cbb9-4cce-a413-3a2fcc85a7be.jpg?1667433766|https://"
 "scryfall.com/card/hbg/23/mace-of-disruption?utm_source=api>`"
 msgstr ""
 
 #: ../../HBG.rst:725
+#, fuzzy
+#| msgid "Equipped creature gets +1/+1 for each creature you control."
 msgid ""
-"Equipped creature gets +0/+2 and has protection from Demons and from Devils. "
+"Equipped creature gets +0/+2 and has protection from Demons and from Devils."
+msgstr "Wyposażony stwór dostaje +1/+1 za każdego stwora pod twoim władaniem."
+
+#: ../../HBG.rst:727
+msgid ""
 "Whenever equipped creature attacks, it perpetually gets +1/+0 if it has the "
 "same name as another creature you control or a creature card in your "
 "graveyard."
 msgstr ""
 
-#: ../../HBG.rst:727 ../../HBG.rst:1607
+#: ../../HBG.rst:729 ../../HBG.rst:1607
 msgid "Equip |mana_1|"
 msgstr "Wyposaż |mana_1|"
 
-#: ../../HBG.rst:732
+#: ../../HBG.rst:734
 msgid ""
 ":mtgtip:`Hag of Scoured Thoughts<https://cards.scryfall.io/border_crop/"
 "front/8/4/840adce7-db06-4647-8f7a-a37d6ffdf3c7.jpg?1658866778|https://"
 "scryfall.com/card/hbg/H23/hag-of-scoured-thoughts?utm_source=api>`"
 msgstr ""
 
-#: ../../HBG.rst:731
+#: ../../HBG.rst:733
 msgid ""
 "At the beginning of your upkeep, each opponent mills five cards. Then exile "
 "each opponent's graveyard."
 msgstr ""
 
-#: ../../HBG.rst:738
+#: ../../HBG.rst:740
 msgid ""
 ":mtgtip:`Moradin's Disciples<https://cards.scryfall.io/border_crop/front/c/a/"
 "ca2b7022-4168-43c8-ba01-9ec89b249f53.jpg?1656391017|https://scryfall.com/"
 "card/hbg/24/moradins-disciples?utm_source=api>`"
 msgstr ""
 
-#: ../../HBG.rst:737
+#: ../../HBG.rst:739
 msgid ""
 "Whenever Moradin's Disciples attacks, tap target creature defending player "
 "controls."
 msgstr ""
 
-#: ../../HBG.rst:742
+#: ../../HBG.rst:744
 msgid ""
 ":mtgtip:`Hag of Syphoned Breath<https://cards.scryfall.io/border_crop/"
 "front/8/c/8ce4b91a-ed06-4eeb-b225-7d87d798cddc.jpg?1657241462|https://"
 "scryfall.com/card/hbg/H24/hag-of-syphoned-breath?utm_source=api>`"
 msgstr ""
 
-#: ../../HBG.rst:741
+#: ../../HBG.rst:743
 msgid ""
 "At the beginning of your upkeep, each opponent loses 2 life and you gain 2 "
 "life."
 msgstr ""
 
-#: ../../HBG.rst:746
+#: ../../HBG.rst:748
 msgid ""
 ":mtgtip:`Patriar's Humiliation<https://cards.scryfall.io/border_crop/front/b/"
 "c/bcaac85a-6ba5-4e7c-bbb6-5711afd4b5b5.jpg?1656478781|https://scryfall.com/"
 "card/hbg/25/patriars-humiliation?utm_source=api>`"
 msgstr ""
 
-#: ../../HBG.rst:745
+#: ../../HBG.rst:747
 msgid ""
 "Target creature perpetually loses all abilities, then Patriar's Humiliation "
 "deals damage to it equal to the number of creatures you control."
 msgstr ""
 
-#: ../../HBG.rst:750
+#: ../../HBG.rst:752
 msgid ""
 ":mtgtip:`Hag of Twisted Visions<https://cards.scryfall.io/border_crop/front/"
 "c/c/cc6b624f-50ba-4d8f-a518-8ec940cdea40.jpg?1657241449|https://scryfall.com/"
 "card/hbg/H25/hag-of-twisted-visions?utm_source=api>`"
 msgstr ""
 
-#: ../../HBG.rst:749
+#: ../../HBG.rst:751
 msgid "At the beginning of your upkeep, scry 2."
 msgstr "Na początku twojego kroku utrzymania, wróż 2."
 
-#: ../../HBG.rst:756
+#: ../../HBG.rst:758
 msgid ""
 ":mtgtip:`Ranger Squadron<https://cards.scryfall.io/border_crop/front/a/f/"
 "afcd3f5e-34cd-4612-a8a6-1e2e4db04ba3.jpg?1656391049|https://scryfall.com/"
 "card/hbg/26/ranger-squadron?utm_source=api>`"
 msgstr ""
 
-#: ../../HBG.rst:764
+#: ../../HBG.rst:766
 msgid ""
 ":mtgtip:`Seatower Imprisonment<https://cards.scryfall.io/border_crop/front/6/"
-"f/6fb4744e-c3f3-4d8e-9f13-356841fa6aa6.jpg?1656478845|https://scryfall.com/"
+"f/6fb4744e-c3f3-4d8e-9f13-356841fa6aa6.jpg?1667433739|https://scryfall.com/"
 "card/hbg/27/seatower-imprisonment?utm_source=api>`"
 msgstr ""
 
-#: ../../HBG.rst:759
+#: ../../HBG.rst:761
 msgid "Enchant creature or planeswalker you don't control"
 msgstr ""
 
-#: ../../HBG.rst:761
+#: ../../HBG.rst:763
 msgid ""
 "When Seatower Imprisonment enters the battlefield, conjure a card named "
 "Soldiers of the Watch onto the battlefield."
 msgstr ""
 
-#: ../../HBG.rst:763
+#: ../../HBG.rst:765
 msgid ""
-"Enchanted permanent can't attack or block and its activated abilities can't "
+"Enchanted permanent can't attack or block, and its activated abilities can't "
 "be activated."
 msgstr ""
 
-#: ../../HBG.rst:768
+#: ../../HBG.rst:770
 msgid ""
 ":mtgtip:`Soldiers of the Watch<https://cards.scryfall.io/border_crop/front/"
 "e/2/e228fc29-fb05-46a3-83dd-5046f2cf3357.jpg?1656391078|https://scryfall.com/"
 "card/hbg/28/soldiers-of-the-watch?utm_source=api>`"
 msgstr ""
 
-#: ../../HBG.rst:782
+#: ../../HBG.rst:784
 msgid ""
 ":mtgtip:`Sune's Intervention<https://cards.scryfall.io/border_crop/front/2/"
 "e/2e9034db-d167-4a5b-884c-df4ad661dc99.jpg?1658281799|https://scryfall.com/"
 "card/hbg/29/sunes-intervention?utm_source=api>`"
 msgstr ""
 
-#: ../../HBG.rst:771
+#: ../../HBG.rst:773
 msgid "Choose one or more —"
 msgstr "Wybierz jedną lub więcej —"
 
-#: ../../HBG.rst:773
+#: ../../HBG.rst:775
 msgid "Create two 2/2 white Knight creature tokens."
 msgstr ""
 
-#: ../../HBG.rst:775
+#: ../../HBG.rst:777
 msgid "Seek a nonland permanent card with mana value 3 or less."
 msgstr ""
 
-#: ../../HBG.rst:777
+#: ../../HBG.rst:779
 msgid "Destroy target artifact."
 msgstr "Zniszcz wskazany artefakt."
 
-#: ../../HBG.rst:779
+#: ../../HBG.rst:781
 msgid "Destroy target enchantment."
 msgstr "Zniszcz wskazany urok."
 
-#: ../../HBG.rst:781
+#: ../../HBG.rst:783
 msgid "Target player gains 3 life."
 msgstr "Wskazany gracz zyskuje 3 życia."
 
-#: ../../HBG.rst:788
+#: ../../HBG.rst:790
 msgid ""
 ":mtgtip:`Sworn to the Legion<https://cards.scryfall.io/border_crop/front/5/"
 "d/5d8dca69-d61e-46bb-9fb5-049b497e5f39.jpg?1656605605|https://scryfall.com/"
 "card/hbg/30/sworn-to-the-legion?utm_source=api>`"
 msgstr ""
 
-#: ../../HBG.rst:785
+#: ../../HBG.rst:787
 msgid ""
 "When Sworn to the Legion enters the battlefield, nontoken creatures you "
 "control perpetually gain double team."
 msgstr ""
 
-#: ../../HBG.rst:787
+#: ../../HBG.rst:789
 msgid "Whenever you cast a creature spell, it perpetually gains double team."
 msgstr ""
 
-#: ../../HBG.rst:794
+#: ../../HBG.rst:796
 msgid ""
 ":mtgtip:`Valiant Farewell<https://cards.scryfall.io/border_crop/"
 "front/4/0/40debf14-ff15-48c4-bbfc-d8981e6f98a2.jpg?1656391261|https://"
 "scryfall.com/card/hbg/31/valiant-farewell?utm_source=api>`"
 msgstr ""
 
-#: ../../HBG.rst:791
+#: ../../HBG.rst:793
 msgid ""
 "Target creature you control gets +2/+0 until end of turn. When that creature "
 "leaves the battlefield this turn, you get a boon with \"When you cast your "
 "next creature spell, it perpetually gets +2/+0.\""
 msgstr ""
 
-#: ../../HBG.rst:793 ../../HBG.rst:1293 ../../HBG.rst:1339 ../../HBG.rst:1447
+#: ../../HBG.rst:795 ../../HBG.rst:1293 ../../HBG.rst:1339 ../../HBG.rst:1447
 #: ../../HBG.rst:2081
 msgid "Draw a card."
 msgstr "Dobierz kartę."
 
-#: ../../HBG.rst:798
+#: ../../HBG.rst:800
 msgid ""
 ":mtgtip:`Vladimir and Godfrey<https://cards.scryfall.io/border_crop/front/"
 "b/8/b84d1c57-f7b9-4d98-a155-6c3ad7fe9b9d.jpg?1656479231|https://scryfall.com/"
 "card/hbg/32/vladimir-and-godfrey?utm_source=api>`"
 msgstr ""
 
-#: ../../HBG.rst:797
+#: ../../HBG.rst:799
 msgid ""
 "Rejuvenation — |mana_2|\\ |mana_w|: Return Vladimir and Godfrey from your "
 "graveyard to the battlefield tapped. It perpetually gets +1/+1. Activate "
@@ -2315,9 +2321,13 @@ msgstr ""
 #: ../../HBG.rst:808
 msgid ""
 ":mtgtip:`Calim, Djinn Emperor<https://cards.scryfall.io/border_crop/"
-"front/6/6/669ffaf7-8b6d-46b4-a790-1715918e6e29.jpg?1656391945|https://"
+"front/6/6/669ffaf7-8b6d-46b4-a790-1715918e6e29.jpg?1667637514|https://"
 "scryfall.com/card/hbg/33/calim-djinn-emperor?utm_source=api>`"
 msgstr ""
+
+#: ../../HBG.rst:803 ../../HBG.rst:2007 ../../HBG.rst:2227
+msgid "Flying, ward |mana_2|"
+msgstr "Latanie, straż |mana_2|"
 
 #: ../../HBG.rst:805
 msgid ""
@@ -2532,13 +2542,13 @@ msgstr ""
 #: ../../HBG.rst:878
 msgid ""
 ":mtgtip:`Sewer Plague<https://cards.scryfall.io/border_crop/front/d/b/"
-"dbfc8eb5-b7a7-4e35-be1d-6dd0d46f4666.jpg?1656478915|https://scryfall.com/"
+"dbfc8eb5-b7a7-4e35-be1d-6dd0d46f4666.jpg?1667433722|https://scryfall.com/"
 "card/hbg/47/sewer-plague?utm_source=api>`"
 msgstr ""
 
 #: ../../HBG.rst:877
 msgid ""
-"Target creature an opponent controls perpetually gets -2/-2 and gains \"at "
+"Target creature an opponent controls perpetually gets -2/-2 and gains \"At "
 "the beginning of each upkeep, this creature perpetually gets -1/-1.\""
 msgstr ""
 
@@ -2647,15 +2657,21 @@ msgstr ""
 #: ../../HBG.rst:918
 msgid ""
 ":mtgtip:`Genasi Rabble-Rouser<https://cards.scryfall.io/border_crop/"
-"front/6/7/67121610-cf44-404b-a367-6dd36b8c7f7d.jpg?1656395273|https://"
+"front/6/7/67121610-cf44-404b-a367-6dd36b8c7f7d.jpg?1667435299|https://"
 "scryfall.com/card/hbg/53/genasi-rabble-rouser?utm_source=api>`"
 msgstr ""
 
 #: ../../HBG.rst:917
+#, fuzzy
+#| msgid ""
+#| "|mana_1|\\ |mana_r|: Goblins you control get +1/+0 and gain haste until "
+#| "end of turn."
 msgid ""
-"|mana_1|\\ |mana_r|: Creatures you control named Genasi Rabble-Rouser gets "
-"+1/+0 until end of turn."
+"|mana_1|\\ |mana_r|: Creatures you control named Genasi Rabble-Rouser get +1/"
+"+0 until end of turn."
 msgstr ""
+"|mana_1|\\ |mana_r|: Gobliny pod twoim władaniem dostają do końca tury +1/+0 "
+"i pośpiech."
 
 #: ../../HBG.rst:924
 msgid ""
@@ -5614,10 +5630,6 @@ msgid ""
 "card/hbg/A-210/a-emerald-dragon-a-dissonant-wave?utm_source=api>`"
 msgstr ""
 
-#: ../../HBG.rst:2007 ../../HBG.rst:2227
-msgid "Flying, ward |mana_2|"
-msgstr "Latanie, straż |mana_2|"
-
 #: ../../HBG.rst:2012
 msgid ""
 ":mtgtip:`A-Dissonant Wave<https://cards.scryfall.io/border_crop/front/f/7/"
@@ -6049,7 +6061,7 @@ msgstr ""
 #: ../../HBG.rst:2166
 msgid ""
 ":mtgtip:`A-Baba Lysaga, Night Witch<https://cards.scryfall.io/border_crop/"
-"front/3/f/3ffce8af-df0c-413e-b697-3e91347364d6.jpg?1657240965|https://"
+"front/3/f/3ffce8af-df0c-413e-b697-3e91347364d6.jpg?1667974188|https://"
 "scryfall.com/card/hbg/A-232/a-baba-lysaga-night-witch?utm_source=api>`"
 msgstr ""
 
