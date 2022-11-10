@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG po polsku 2022.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-11-09 19:06+0100\n"
-"PO-Revision-Date: 2022-11-09 18:22+0000\n"
+"PO-Revision-Date: 2022-11-10 14:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/bro/pl/>\n"
 "Language: pl\n"
@@ -276,9 +276,9 @@ msgid ""
 "Airlift Chaplain. (To mill a card, put the top card of your library into "
 "your graveyard.)"
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, zmiel trzy karty. Możesz umieścić w "
-"twojej ręce kartę Równiny lub kartę stwora o skrócie many 3 lub niższym "
-"spośród kart zmielonych w ten sposób. Jeśli tego nie zrobisz, umieść "
+"Kiedy ten byt wejdzie na pole bitwy, zmiel trzy karty. Spośród kart "
+"zmielonych w ten sposób możesz umieścić w twojej ręce kartę Równiny lub "
+"kartę stwora o skrócie many 3 lub niższym. Jeśli tego nie zrobisz, umieść "
 "znacznik +1/+1 na niniejszym. (Mieląc kartę gracz umieszcza wierzchnią kartę "
 "swojej biblioteki w swoim cmentarzu.)"
 
@@ -427,9 +427,9 @@ msgid ""
 "creature cards with mana value 3 or less from among them onto the "
 "battlefield. Put the rest on the bottom of your library in a random order."
 msgstr ""
-"Spójrz na siedem wierzchnich kart twojej biblioteki. Umieść spośród nich co "
-"najwyżej X kart artefaktów i/lub stworów o skrótach many 3 lub mniej na polu "
-"bitwy. Umieść pozostałe losowo na spodzie twojej biblioteki."
+"Spójrz na siedem wierzchnich kart twojej biblioteki. Umieść spośród nich na "
+"polu bitwy co najwyżej X kart artefaktów i/lub stworów o skrótach many 3 lub "
+"mniejszych. Umieść pozostałe losowo na spodzie twojej biblioteki."
 
 #: ../../BRO.rst:68
 msgid ""
@@ -641,6 +641,9 @@ msgid ""
 "graveyard to the battlefield. If a creature enters the battlefield this way, "
 "it enters with an additional +1/+1 counter on it."
 msgstr ""
+"Przywróć wskazaną kartę artefaktu lub stwora o skrócie many 3 lub mniejszym "
+"z twojego cmentarza na pole bitwy. Jeśli stwór wejdzie na pole bitwy w ten "
+"sposób, ma on dodatkowy znacznik +1/+1."
 
 #: ../../BRO.rst:134
 msgid ""
@@ -656,9 +659,8 @@ msgid ""
 "into your hand. Put the rest on the bottom of your library in a random order."
 msgstr ""
 "|mana_3|\\ |mana_w|: Spójrz na cztery wierzchnie karty twojej biblioteki. "
-"Możesz ujawnić spośród nich kartę stwora o skrócie many 3 lub mniejszym i "
-"umieścić ją w twojej ręce. Umieść pozostałe losowo na spodzie twojej "
-"biblioteki."
+"Spośród nich możesz ujawnić i umieścić w twojej ręce kartę stwora o skrócie "
+"many 3 lub mniejszym. Umieść pozostałe losowo na spodzie twojej biblioteki."
 
 #: ../../BRO.rst:138
 msgid ""
@@ -731,6 +733,8 @@ msgid ""
 "When Static Net enters the battlefield, exile target nonland permanent an "
 "opponent controls until Static Net leaves the battlefield."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, wygnaj wskazany nielądowy byt pod "
+"władaniem przeciwnika do czasu opuszczenia pola bitwy przez niniejszy."
 
 #: ../../BRO.rst:153
 msgid ""
@@ -756,7 +760,7 @@ msgstr "Pierwszy cios"
 #: ../../BRO.rst:159
 msgid ""
 "|mana_1|\\ |mana_w|, Exile Survivor of Korlis from your graveyard: Scry 2."
-msgstr ""
+msgstr "|mana_1|\\ |mana_w|,wygnaj tę kartę z twojego cmentarza: Wróż 2."
 
 #: ../../BRO.rst:164
 msgid ""
@@ -840,6 +844,8 @@ msgid ""
 "Prototype |mana_1|\\ |mana_w| — 2/2 (You may cast this spell with different "
 "mana cost, color, and size. It keeps its abilities and types.)"
 msgstr ""
+"Prototyp |mana_1|\\ |mana_w| — 2/2 (Możesz rzucić ten czar za różne koszty "
+"many, kolor i rozmiar. Zachowuje swoje zdolności i typy.)"
 
 #: ../../BRO.rst:187
 msgid ""
@@ -860,6 +866,8 @@ msgid ""
 "Prototype |mana_2|\\ |mana_w| — 1/1 (You may cast this spell with different "
 "mana cost, color, and size. It keeps its abilities and types.)"
 msgstr ""
+"Prototyp |mana_2|\\ |mana_w| — 1/1 (Możesz rzucić ten czar za różne koszty "
+"many, kolor i rozmiar. Zachowuje swoje zdolności i typy.)"
 
 #: ../../BRO.rst:193 ../../BRO.rst:957
 msgid "Double strike"
@@ -881,6 +889,8 @@ msgid ""
 "At the beginning of your end step, if you control two or more other "
 "creatures, draw a card."
 msgstr ""
+"Na początku twojego kroku końcowego, jeśli władasz co najmniej dwoma "
+"stworami, dobierz kartę."
 
 #: ../../BRO.rst:201
 msgid ""
@@ -932,12 +942,16 @@ msgid ""
 "Prototype |mana_1|\\ |mana_w|\\ |mana_w| — 3/3 (You may cast this spell with "
 "different mana cost, color, and size. It keeps its abilities and types.)"
 msgstr ""
+"Prototyp |mana_1|\\ |mana_w|\\ |mana_w| — 3/3 (Możesz rzucić ten czar za "
+"różne koszty many, kolor i rozmiar. Zachowuje swoje zdolności i typy.)"
 
 #: ../../BRO.rst:217
 msgid ""
 "At the beginning of combat on your turn, target creature you control gains "
 "your choice of flying, vigilance, or lifelink until end of turn."
 msgstr ""
+"Na początku potyczki w twojej turze, wskazany stwór pod twoim władaniem do "
+"końca tury zyskuje dowolny spośród latania, czujności lub więzi życia."
 
 #: ../../BRO.rst:224
 msgid ""
@@ -985,6 +999,9 @@ msgid ""
 "mana_2|. If you do, search your library for a planeswalker card, reveal it, "
 "put it into your hand, then shuffle."
 msgstr ""
+"Kiedy ten byt zostanie wygnany z pola bitwy, możesz zapłacić |mana_2|. Jeśli "
+"tak zrobisz, wyszukaj w twojej bibliotece kartę wędrowca, ujawnij ją, umieść "
+"ją w twojej ręce, po czym przetasuj."
 
 #: ../../BRO.rst:238
 msgid ""
@@ -999,7 +1016,7 @@ msgstr "Wyposażony stwór dostaje +2/+0."
 
 #: ../../BRO.rst:235
 msgid "Equip Soldier |mana_w|"
-msgstr ""
+msgstr "Wyposaż Piechura |mana_w|"
 
 #: ../../BRO.rst:237 ../../BRO.rst:1353 ../../BRO.rst:1501
 msgid ""
@@ -1083,6 +1100,8 @@ msgid ""
 "Counter target artifact or enchantment spell. If a spell is countered this "
 "way, exile it instead of putting it into its owner's graveyard."
 msgstr ""
+"Skontruj wskazany czar artefaktu lub uroku. Jeśli czar zostanie skontrowany "
+"w ten sposób, wygnaj go zamiast umieszczać go w cmentarzu właściciela."
 
 #: ../../BRO.rst:261
 msgid "Counter target activated or triggered ability."
@@ -1100,6 +1119,8 @@ msgid ""
 "Target nonland permanent's owner puts it on the top or bottom of their "
 "library. Scry 2."
 msgstr ""
+"Właściciel wskazanego nielądowego bytu umieszcza go na wierzchu lub spodzie "
+"swojej biblioteki. Wróż 2."
 
 #: ../../BRO.rst:272
 msgid ""
@@ -1137,6 +1158,11 @@ msgid ""
 "your hand. If you don't, put a +1/+1 counter on Fallaji Archaeologist. (To "
 "mill a card, put the top card of your library into your graveyard.)"
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, zmiel trzy karty. Spośród kart "
+"zmielonych w ten sposób możesz umieścić w twojej ręce kartę inną niż stwór "
+"lub ląd. Jeśli tego nie zrobisz, umieść znacznik +1/+1 na niniejszym. ("
+"Mieląc kartę gracz umieszcza wierzchnią kartę swojej biblioteki w swoim "
+"cmentarzu.)"
 
 #: ../../BRO.rst:280
 msgid ""
@@ -1163,9 +1189,9 @@ msgid ""
 "artifact cards from among them and put the revealed cards into your hand. "
 "Put the rest on the bottom of your library in a random order."
 msgstr ""
-"Spójrz na pięć wierzchnich kart twojej biblioteki. Możesz spośród nich "
-"ujawnić dowolną liczbę kart artefaktów i umieścić owe ujawnione karty w "
-"twojej ręce. Umieść pozostałe losowo na spodzie twojej biblioteki."
+"Spójrz na pięć wierzchnich kart twojej biblioteki. Spośród nich możesz "
+"ujawnić i umieścić w twojej ręce dowolną liczbę kart artefaktów. Umieść "
+"pozostałe losowo na spodzie twojej biblioteki."
 
 #: ../../BRO.rst:288
 msgid ""
@@ -1185,7 +1211,7 @@ msgstr ""
 "Na początku twojego kroku końcowego, jeśli w tej turze rzuciłeś niestworowy "
 "czar, ujawnij pięć wierzchnich kart twojej biblioteki. Za każdy typ karty "
 "pośród niestworowych czarów rzuconych przez ciebie w tej turze, możesz "
-"umieścić kartę owego typu spośród ujawnionych kart w twojej ręce. Umieść "
+"spośród ujawnionych kart umieścić w twojej ręce kartę owego typu. Umieść "
 "pozostałe losowo na spodzie twojej biblioteki."
 
 #: ../../BRO.rst:294
@@ -1225,6 +1251,9 @@ msgid ""
 "each of them. (If a permanent with a stun counter would become untapped, "
 "remove one from it instead.)"
 msgstr ""
+"Przekręć co najwyżej dwa wskazane artefakty i/lub stwory. Umieść znacznik "
+"ogłuszenia na każdym z nich. (Jeśli byt mający znacznik ogłuszenia miałby "
+"zostać odkręcony, zamiast tego usuń z niego jeden taki znacznik.)"
 
 #: ../../BRO.rst:302
 msgid ""
@@ -1238,6 +1267,8 @@ msgid ""
 "|mana_3|: Put target artifact, instant, or sorcery card from a graveyard on "
 "the bottom of its owner's library."
 msgstr ""
+"|mana_3|: Umieść na spodzie biblioteki właściciela wskazaną kartę artefaktu, "
+"sztuczki lub obrzędu w cmentarzu."
 
 #: ../../BRO.rst:310
 msgid ""
@@ -1268,6 +1299,8 @@ msgid ""
 "Whenever you draw your second card each turn, put a +1/+1 counter on Lat-Nam "
 "Adept."
 msgstr ""
+"Ilekroć dobierzesz swoją drugą kartę w danej turze, umieść znacznik +1/+1 na "
+"niniejszym."
 
 #: ../../BRO.rst:320
 msgid ""
@@ -1307,6 +1340,8 @@ msgid ""
 "Enchanted artifact is a creature with base power and toughness 4/4 in "
 "addition to its other types."
 msgstr ""
+"Zauroczony artefakt jest dodatkowo stworem o bazowej sile i wytrzymałości 4/"
+"4 oprócz swoich innych typów."
 
 #: ../../BRO.rst:336
 msgid ""
@@ -1329,6 +1364,8 @@ msgid ""
 "Once during each of your turns, you may cast a spell from your hand or the "
 "top of your library without paying its mana cost."
 msgstr ""
+"Raz na każdą z twoich tur możesz rzucić czar z twojej ręki lub z wierzchu "
+"twojej biblioteki bez płacenia jego kosztu many."
 
 #: ../../BRO.rst:340
 msgid ""
@@ -1353,6 +1390,8 @@ msgid ""
 "Counter target artifact or creature spell unless its controller pays |"
 "mana_4|."
 msgstr ""
+"Skontruj wskazany czar artefaktu lub stwora, chyba że jego władca zapłaci "
+"|mana_4|."
 
 #: ../../BRO.rst:352
 msgid ""
@@ -1372,6 +1411,7 @@ msgstr ""
 #: ../../BRO.rst:351
 msgid "Tap three untapped Soldiers you control: Draw a card."
 msgstr ""
+"Przekręć trzech odkręconych Piechurów pod twoim władaniem: Dobierz kartę."
 
 #: ../../BRO.rst:358
 msgid ""
@@ -1424,6 +1464,8 @@ msgid ""
 "Enchanted creature gets +1/+0 and has flying and \"Whenever this creature "
 "attacks, draw a card.\""
 msgstr ""
+"Zauroczony stwór dostaje +1/+0 i ma latanie oraz \"Ilekroć ten stwór "
+"zaatakuje, dobierz kartę.\""
 
 #: ../../BRO.rst:378
 msgid ""
@@ -1609,6 +1651,9 @@ msgid ""
 "creature you control to its owner's hand. If it was a Soldier, put a +1/+1 "
 "counter on Zephyr Sentinel."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, przywróć co najwyżej jednego innego "
+"wskazanego stwora pod twoim władaniem do ręki właściciela. Jeśli był on "
+"Piechurem, umieść znacznik +1/+1 na niniejszym."
 
 #: ../../BRO.rst:444
 msgid ""
@@ -1622,6 +1667,8 @@ msgid ""
 "Prototype |mana_1|\\ |mana_u|\\ |mana_u| — 2/1 (You may cast this spell with "
 "different mana cost, color, and size. It keeps its abilities and types.)"
 msgstr ""
+"Prototyp |mana_1|\\ |mana_u|\\ |mana_u| — 2/1 (Możesz rzucić ten czar za "
+"różne koszty many, kolor i rozmiar. Zachowuje swoje zdolności i typy.)"
 
 #: ../../BRO.rst:443
 msgid ""
@@ -1630,6 +1677,10 @@ msgid ""
 "power from your graveyard. Copy that card. You may cast the copy without "
 "paying its mana cost."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, jeśli rzuciłeś go, wygnaj z twojego "
+"cmentarza wskazaną kartę sztuczki lub obrzędu o skrócie many mniejszym lub "
+"równym sile niniejszego. Skopiuj ową kartę. Możesz rzucić ową kopię bez "
+"płacenia jej kosztu many."
 
 #: ../../BRO.rst:452
 msgid ""
@@ -1644,7 +1695,7 @@ msgstr "Obronność"
 
 #: ../../BRO.rst:449
 msgid "Coastal Bulwark gets +2/+0 as long as you control an Island."
-msgstr ""
+msgstr "Niniejszy dostaje +2/+0 o ile władasz Wyspą."
 
 #: ../../BRO.rst:451
 msgid ""
@@ -1663,7 +1714,7 @@ msgstr ""
 
 #: ../../BRO.rst:455
 msgid "|mana_2|, Sacrifice Combat Courier: Draw a card."
-msgstr ""
+msgstr "|mana_2|, poświęć ten byt: Dobierz kartę."
 
 #: ../../BRO.rst:457
 msgid ""
@@ -1687,14 +1738,16 @@ msgid ""
 "Prototype |mana_4|\\ |mana_u|\\ |mana_u| — 6/6 (You may cast this spell with "
 "different mana cost, color, and size. It keeps its abilities and types.)"
 msgstr ""
+"Prototyp |mana_4|\\ |mana_u|\\ |mana_u| — 6/6 (Możesz rzucić ten czar za "
+"różne koszty many, kolor i rozmiar. Zachowuje swoje zdolności i typy.)"
 
 #: ../../BRO.rst:463
 msgid "Depth Charge Colossus doesn't untap during your untap step."
-msgstr ""
+msgstr "Ten byt nie odkręca się w twoim kroku odkręcania."
 
 #: ../../BRO.rst:465
 msgid "|mana_3|: Untap Depth Charge Colossus."
-msgstr ""
+msgstr "|mana_3|: Odkręć ten byt."
 
 #: ../../BRO.rst:472
 msgid ""
@@ -1708,6 +1761,8 @@ msgid ""
 "Prototype |mana_2|\\ |mana_u|\\ |mana_u| — 3/3 (You may cast this spell with "
 "different mana cost, color, and size. It keeps its abilities and types.)"
 msgstr ""
+"Prototyp |mana_2|\\ |mana_u|\\ |mana_u| — 3/3 (Możesz rzucić ten czar za "
+"różne koszty many, kolor i rozmiar. Zachowuje swoje zdolności i typy.)"
 
 #: ../../BRO.rst:471
 msgid ""
@@ -1716,6 +1771,10 @@ msgid ""
 "addition to its other types, and its power and toughness are equal to "
 "Hulking Metamorph's power and toughness."
 msgstr ""
+"Możesz zdecydować, że ten byt wejdzie na pole bitwy jako kopia artefaktu lub "
+"stwora pod twoim władaniem, ale jest on dodatkowo artefaktowym stworem "
+"oprócz swoich innych typów, a jego siła i wytrzymałość są równe sile i "
+"wytrzymałości niniejszego."
 
 #: ../../BRO.rst:480
 msgid ""
@@ -1729,6 +1788,8 @@ msgid ""
 "Prototype |mana_3|\\ |mana_u| — 2/3 (You may cast this spell with different "
 "mana cost, color, and size. It keeps its abilities and types.)"
 msgstr ""
+"Prototyp |mana_3|\\ |mana_u| — 2/3 (Możesz rzucić ten czar za różne koszty "
+"many, kolor i rozmiar. Zachowuje swoje zdolności i typy.)"
 
 #: ../../BRO.rst:479
 msgid ""
@@ -1775,17 +1836,20 @@ msgstr ""
 
 #: ../../BRO.rst:493
 msgid "At the beginning of your upkeep, scry 2."
-msgstr ""
+msgstr "Na początku twojego kroku utrzymania, wróż 2."
 
 #: ../../BRO.rst:495
 msgid ""
 "Whenever you choose to put one or more cards on the bottom of your library "
 "while scrying, exile that many cards from the bottom of your library."
 msgstr ""
+"Ilekroć zdecydujesz się umieścić co najmniej jedną kartę na spodzie twojej "
+"biblioteki podczas wróżenia, wygnaj tyle samo kart ze spodu twojej "
+"biblioteki."
 
 #: ../../BRO.rst:497
 msgid "During your turn, you may play cards exiled with The Temporal Anchor."
-msgstr ""
+msgstr "Podczas twojej tury możesz zagrywać karty wygnane niniejszym."
 
 #: ../../BRO.rst:504
 msgid ""
@@ -1799,6 +1863,8 @@ msgid ""
 "Whenever Terisian Mindbreaker attacks, defending player mills half their "
 "library, rounded up."
 msgstr ""
+"Ilekroć niniejszy zaatakuje, broniący się gracz mieli połowę swojej "
+"biblioteki, zaokrąglając w górę."
 
 #: ../../BRO.rst:503
 msgid ""
@@ -1828,12 +1894,16 @@ msgid ""
 "Whenever Ashnod, Flesh Mechanist attacks, you may sacrifice another "
 "creature. If you do, create a tapped Powerstone token."
 msgstr ""
+"Ilekroć niniejszy zaatakuje, możesz poświęcić innego stwora. Jeśli tak "
+"zrobisz, stwórz przekręcony żeton Kamień Mocy."
 
 #: ../../BRO.rst:511
 msgid ""
 "|mana_5|, Exile a creature card from your graveyard: Create a tapped 3/3 "
 "colorless Zombie artifact creature token."
 msgstr ""
+"|mana_5|, wygnaj kartę stwora z twojego cmentarza: Stwórz przekręcony żeton "
+"bezkolorowego artefaktowego stwora Zombi 3/3."
 
 #: ../../BRO.rst:516
 msgid ""
@@ -1848,6 +1918,8 @@ msgid ""
 "dies or is put into exile from the battlefield, return it to its owner's "
 "hand.\""
 msgstr ""
+"Do końca tury wskazany stwór dostaje +2/+0 i zyskuje \"Kiedy ten stwór umrze "
+"lub zostanie wygnany z pola bitwy, przywróć go do ręki właściciela.\""
 
 #: ../../BRO.rst:520
 msgid ""
@@ -1876,6 +1948,8 @@ msgid ""
 "When Carrion Locust enters the battlefield, exile target card from an "
 "opponent's graveyard. If it was a creature card, that player loses 1 life."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, wygnaj wskazaną kartę z cmentarza "
+"przeciwnika. Jeśli była to karta stwora, ów gracz traci 1 życie."
 
 #: ../../BRO.rst:530
 msgid ""
@@ -1922,6 +1996,9 @@ msgid ""
 "When Disciples of Gix enters the battlefield, search your library for up to "
 "three artifact cards, put them into your graveyard, then shuffle."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, wyszukaj w twojej bibliotece co "
+"najwyżej trzy karty artefaktów, umieść je w twoim cmentarzu, po czym "
+"przetasuj."
 
 #: ../../BRO.rst:544
 msgid ""
@@ -1947,6 +2024,9 @@ msgid ""
 "from it, then choose an artifact or creature card from their graveyard. "
 "Exile the chosen cards."
 msgstr ""
+"Wskazany przeciwnik ujawnia swoją rękę. Ty wybierz z niej kartę artefaktu "
+"lub stwora, następnie wybierz kartę artefaktu lub stwora z jego cmentarza. "
+"Wygnaj owe wybrane karty."
 
 #: ../../BRO.rst:552
 msgid ""
@@ -1975,6 +2055,8 @@ msgid ""
 "Draw cards equal to the mana value of target artifact or creature you "
 "control. An opponent gains control of that permanent."
 msgstr ""
+"Dobierz tyle kart, ile wynosi skrót many wskazanego artefaktu lub stwora pod "
+"twoim władaniem. Przeciwnik zyskuje władanie nad owym bytem."
 
 #: ../../BRO.rst:562
 msgid ""
@@ -1998,8 +2080,8 @@ msgid ""
 "from among cards exiled this way without paying their mana costs."
 msgstr ""
 "|mana_4|\\ |mana_b|\\ |mana_b|\\ |mana_b|, odrzuć X kart: Wygnaj X "
-"wierzchnich kart z biblioteki wskazanego przeciwnika. Możesz zagrać karty "
-"lądów i rzucać czary spośród kart wygnanych w ten sposób bez płacenia ich "
+"wierzchnich kart z biblioteki wskazanego przeciwnika. Spośród kart wygnanych "
+"w ten sposób możesz zagrać karty lądów i rzucać czary bez płacenia ich "
 "kosztów many."
 
 #: ../../BRO.rst:568
@@ -2038,20 +2120,25 @@ msgid ""
 "Put two +1/+1 counter on up to one creature. It gains lifelink until end of "
 "turn."
 msgstr ""
+"Umieść dwa znaczniki +1/+1 na co najwyżej jednym stworze. Do końca tury "
+"zyskuje on więź życia."
 
 #: ../../BRO.rst:575
 msgid "Destroy each creature with power 2 or less."
-msgstr ""
+msgstr "Zniszcz każdego stwora o sile 2 lub mniejszej."
 
 #: ../../BRO.rst:577
 msgid "Return up to two creature cards from your graveyard to your hand."
 msgstr ""
+"Przywróć co najwyżej dwie karty stworów z twojego cmentarza do twojej ręki."
 
 #: ../../BRO.rst:579
 msgid ""
 "Each opponent sacrifices a creature with the highest power among creatures "
 "they control."
 msgstr ""
+"Każdy przeciwnik poświęca spośród stworów pod swoim władaniem stwora o "
+"największej sile."
 
 #: ../../BRO.rst:584
 msgid ""
@@ -2078,6 +2165,8 @@ msgid ""
 "Whenever you draw your second card each turn, each opponent loses 2 life and "
 "you gain 2 life."
 msgstr ""
+"Ilekroć dobierzesz swoją drugą kartę w danej turze, każdy przeciwnik traci "
+"po 2 życia, a ty zyskaj 2 życia."
 
 #: ../../BRO.rst:589
 msgid ""
@@ -2099,6 +2188,8 @@ msgid ""
 "At the beginning of your upkeep, if there are three or more creature cards "
 "in your graveyard, put a +1/+1 counter on Gixian Skullflayer."
 msgstr ""
+"Na początku twojego kroku utrzymania, jeśli w twoim cmentarzu są co najmniej "
+"trzy karty stworów, umieść znacznik +1/+1 na niniejszym."
 
 #: ../../BRO.rst:600
 msgid ""
@@ -2167,6 +2258,8 @@ msgid ""
 "value less than or equal to Gurgling Anointer's power from your graveyard to "
 "the battlefield."
 msgstr ""
+"Kiedy niniejszy umrze, przywróć z twojego cmentarza na pole bitwy inną "
+"wskazaną kartę stwora o skrócie many mniejszym lub równym sile niniejszego."
 
 #: ../../BRO.rst:624
 msgid ""
@@ -2183,6 +2276,12 @@ msgid ""
 "chooses one of those piles. Put all cards in the chosen pile into your hand "
 "and the rest into your graveyard. You lose 3 life."
 msgstr ""
+"Wygnaj trzy wierzchnie karty twojej biblioteki jako zakryty stos, po czym "
+"wygnaj kolejne trzy karty z wierzchu twojej biblioteki jako inny zakryty "
+"stos. Spójrz na karty w każdym ze stosów, po czym odkryj wybrany przez "
+"siebie stos. Przeciwnik wybiera jeden z owych stosów. Umieść wszystkie karty "
+"z wybranego stosu w twojej ręce, a pozostałe w twoim cmentarzu. Strać 3 "
+"życia."
 
 #: ../../BRO.rst:628
 msgid ""
@@ -2196,6 +2295,8 @@ msgid ""
 "Whenever Kill-Zone Acrobat attacks, you may sacrifice another creature or "
 "artifact. If you do, Kill-Zone Acrobat gains flying until end of turn."
 msgstr ""
+"Ilekroć niniejszy zaatakuje, możesz poświęcić innego stwora lub artefakt. "
+"Jeśli tak zrobisz, niniejszy do końca tury zyskuje latanie."
 
 #: ../../BRO.rst:634
 msgid ""
@@ -2307,6 +2408,10 @@ msgid ""
 "don't, put a +1/+1 counter on Ravenous Gigamole. (To mill a card, player put "
 "the top card of your library into your graveyard.)"
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, zmiel trzy karty. Spośród kart "
+"zmielonych w ten sposób możesz umieścić w twojej ręce kartę stwora. Jeśli "
+"tego nie zrobisz, umieść znacznik +1/+1 na niniejszym. (Mieląc kartę gracz "
+"umieszcza wierzchnią kartę swojej biblioteki w swoim cmentarzu.)"
 
 #: ../../BRO.rst:670
 msgid ""
@@ -2320,6 +2425,9 @@ msgid ""
 "Whenever one or more artifact and/or creature cards leave your graveyard "
 "during your turn, put a +1/+1 counter on target creature you control."
 msgstr ""
+"Ilekroć jeden lub więcej kart artefaktów i/lub stworów opuści twój cmentarza "
+"w ciągu twojej tury, umieść znacznik +1/+1 na wskazanym stworze pod twoim "
+"władaniem."
 
 #: ../../BRO.rst:674
 msgid ""
@@ -2344,6 +2452,8 @@ msgid ""
 "As long as you've drawn two or more cards this turn, Trench Stalker has "
 "deathtouch and lifelink."
 msgstr ""
+"O ile dobrałeś co najmniej dwie karty w tej turze, niniejszy ma dotyk "
+"śmierci i więź życia."
 
 #: ../../BRO.rst:684
 msgid ""
@@ -2384,6 +2494,7 @@ msgstr "Ten byt wchodzi na pole bitwy przekręcony."
 msgid ""
 "|mana_2|\\ |mana_b|: Return Clay Revenant from your graveyard to your hand."
 msgstr ""
+"|mana_2|\\ |mana_b|: Przywróć tę kartę z twojego cmentarza do twojej ręki."
 
 #: ../../BRO.rst:698
 msgid ""
@@ -2397,6 +2508,8 @@ msgid ""
 "Equipped creature gets +1/+0 and has menace. (It's can't be blocked except "
 "by two or more creatures.)"
 msgstr ""
+"Wyposażony stwór dostaje +1/+0 i ma złowrogość. (Nie może być blokowany, "
+"chyba że przez co najmniej dwa stwory.)"
 
 #: ../../BRO.rst:695
 msgid ""
@@ -2426,6 +2539,8 @@ msgid ""
 "Prototype |mana_1|\\ |mana_b| — 1/1 (You may cast this spell with different "
 "mana cost, color, and size. It keeps its abilities and types.)"
 msgstr ""
+"Prototyp |mana_1|\\ |mana_b| — 1/1 (Możesz rzucić ten czar za różne koszty "
+"many, kolor i rozmiar. Zachowuje swoje zdolności i typy.)"
 
 #: ../../BRO.rst:712
 msgid ""
@@ -2439,6 +2554,8 @@ msgid ""
 "Prototype |mana_1|\\ |mana_b|\\ |mana_b| — 3/3 (You may cast this spell with "
 "different mana cost, color, and size. It keeps its abilities and types.)"
 msgstr ""
+"Prototyp |mana_1|\\ |mana_b|\\ |mana_b| — 3/3 (Możesz rzucić ten czar za "
+"różne koszty many, kolor i rozmiar. Zachowuje swoje zdolności i typy.)"
 
 #: ../../BRO.rst:709
 msgid "Menace, lifelink"
@@ -2446,7 +2563,7 @@ msgstr "Złowrogość, więź życia"
 
 #: ../../BRO.rst:711
 msgid "Ward—Pay life equal to Phyrexian Fleshgorger's power."
-msgstr ""
+msgstr "Straż—Zapłać życia równe sile niniejszego."
 
 #: ../../BRO.rst:718
 msgid ""
@@ -2457,7 +2574,7 @@ msgstr ""
 
 #: ../../BRO.rst:715
 msgid "Razorlash Transmogrant can't block."
-msgstr ""
+msgstr "Niniejszy nie może blokować."
 
 #: ../../BRO.rst:717
 msgid ""
@@ -2465,6 +2582,9 @@ msgid ""
 "graveyard to the battlefield with a +1/+1 counter on it. This ability costs |"
 "mana_4| less to activate if an opponent controls four or more nonbasic lands."
 msgstr ""
+"|mana_4|\\ |mana_b|\\ |mana_b|: Przywróć tę kartę z twojego cmentarza na "
+"pole bitwy ze znacznikiem +1/+1. Aktywacja tej zdolności kosztuje o |mana_4| "
+"mniej jeśli przeciwnik włada co najmniej czterema niebazowymi lądami."
 
 #: ../../BRO.rst:724
 msgid ""
@@ -2503,6 +2623,7 @@ msgid ""
 "|mana_b|, |tap|, Sacrifice a creature: Add |colorless|\\ |colorless|\\ |"
 "colorless|."
 msgstr ""
+"|mana_b|, |tap|, poświęć stwora: Weź |colorless|\\ |colorless|\\ |colorless|."
 
 #: ../../BRO.rst:729
 msgid ""
@@ -2521,11 +2642,11 @@ msgstr ""
 
 #: ../../BRO.rst:735
 msgid "Whenever equipped creature dies, draw a card."
-msgstr ""
+msgstr "Ilekroć wyposażony stwór umrze, dobierz kartę."
 
 #: ../../BRO.rst:737
 msgid "Equip |mana_2| or |mana_b|"
-msgstr ""
+msgstr "Wyposaż |mana_2| lub |mana_b|"
 
 #: ../../BRO.rst:742
 msgid ""
@@ -2611,11 +2732,14 @@ msgid ""
 "creature gets +1/+0 until end of turn.\" It's a Dragon in addition to its "
 "other types."
 msgstr ""
+"Zauroczony stwór dostaje +1/+1 i ma latanie, pośpiech oraz \"|mana_1|: Ten "
+"stwór do końca tury dostaje +1/+0.\" Jest dodatkowo Smokiem oprócz swoich "
+"innych typów."
 
 #: ../../BRO.rst:767
 msgid ""
 "When enchanted creature dies, return Draconic Destiny to its owner's hand."
-msgstr ""
+msgstr "Kiedy zauroczony stwór umrze, przywróć niniejszy do ręki właściciela."
 
 #: ../../BRO.rst:774
 msgid ""
@@ -2629,6 +2753,9 @@ msgid ""
 "Ward—Pay 2 life. (Whenever this creature becomes the target of a spell or "
 "ability an opponent controls, counter it unless that player pays 2 life.)"
 msgstr ""
+"Straż—Zapłać 2 życia. (Ilekroć ten stwór zostanie wskazany przez czar lub "
+"zdolność pod władaniem przeciwnika, skontruj to, chyba że ów gracz zapłaci 2 "
+"życia.)"
 
 #: ../../BRO.rst:778
 msgid ""
@@ -2660,6 +2787,9 @@ msgid ""
 "of Kroog deals 3 damage to that player and 1 damage to each creature they "
 "control."
 msgstr ""
+"Wybierz wskazanego przeciwnika. Zniszcz wskazany ląd pod władaniem owego "
+"gracza. Ten czar zadaje owemu graczowi 3 obrażenia oraz po 1 obrażeniu "
+"każdemu stworowi pod jego władaniem."
 
 #: ../../BRO.rst:786
 msgid ""
@@ -2670,7 +2800,7 @@ msgstr ""
 
 #: ../../BRO.rst:785
 msgid "|mana_2|: Fallaji Chaindancer gains double strike until end of turn."
-msgstr ""
+msgstr "|mana_2|: Niniejszy do końca tury zyskuje podwójny cios."
 
 #: ../../BRO.rst:794
 msgid ""
@@ -2685,7 +2815,7 @@ msgstr "Pośpiech"
 
 #: ../../BRO.rst:791
 msgid "Feldon, Ronom Excavator can't block."
-msgstr ""
+msgstr "Niniejszy nie może blokować."
 
 #: ../../BRO.rst:793
 msgid ""
@@ -2693,6 +2823,9 @@ msgid ""
 "library. Choose one of them. Until the end of your next turn, you may play "
 "that card."
 msgstr ""
+"Ilekroć niniejszy otrzyma obrażenia, wygnaj tyle samo kart z wierzchu twojej "
+"biblioteki. Wybierz jedną z nich. Do końca twojej następnej tury możesz "
+"zagrać ową kartę."
 
 #: ../../BRO.rst:800
 msgid ""
@@ -2722,6 +2855,7 @@ msgid ""
 "Goblin Blast-Runner gets +2/+0 and has menace as long as you sacrificed a "
 "permanent this turn."
 msgstr ""
+"Niniejszy dostaje +2/+0 i ma złowrogość o ile poświęciłeś w tej turze byt."
 
 #: ../../BRO.rst:812
 msgid ""
@@ -2760,6 +2894,9 @@ msgid ""
 "If a red or artifact source you control would deal damage to an opponent or "
 "a permanent an opponent controls, it deals that much damage plus 1 instead."
 msgstr ""
+"Jeśli czerwone lub artefaktowe źródło pod twoim władaniem miałoby zadać "
+"obrażenia przeciwnikowi lub bytowi pod władaniem przeciwnika, zamiast tego "
+"zadaje o 1 obrażenie więcej."
 
 #: ../../BRO.rst:824
 msgid ""
@@ -2770,13 +2907,15 @@ msgstr ""
 
 #: ../../BRO.rst:821
 msgid "|mana_1|, |tap|, Discard a card: Draw a card."
-msgstr ""
+msgstr "|mana_1|, |tap|, odrzuć kartę: Dobierz kartę."
 
 #: ../../BRO.rst:823
 msgid ""
 "Whenever you discard one or more artifact cards, add |mana_r|\\ |mana_r|. "
 "This ability triggers only once each turn."
 msgstr ""
+"Ilekroć odrzucisz co najmniej jedną kartę artefaktu, weź |mana_r|\\ |mana_r|"
+". Ta zdolność wyzwala się tylko raz na turę."
 
 #: ../../BRO.rst:836
 msgid ""
@@ -2790,6 +2929,8 @@ msgid ""
 "Choose target player. They may discard up to X cards. Then they draw a card "
 "for each card discarded this way."
 msgstr ""
+"Wybierz wskazanego gracza. Może on odrzucić co najwyżej X kart. Następnie "
+"dobiera kartę za każdą kartę odrzuconą w ten sposób."
 
 #: ../../BRO.rst:831
 msgid "This spell deals X damage to target creature."
@@ -2815,6 +2956,8 @@ msgid ""
 "As long as you control enchanted creature, it gets +2/+2. Otherwise, it "
 "can't block."
 msgstr ""
+"O ile władasz zauroczonym stworem, dostaje on +2/+2. W przeciwnym razie nie "
+"może on blokować."
 
 #: ../../BRO.rst:850
 msgid ""
@@ -2850,6 +2993,8 @@ msgid ""
 "Obliterating Bolt deals 4 damage to target creature or planeswalker. If that "
 "creature or planeswalker would die this turn, exile it instead."
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi lub wędrowcowi 4 obrażenia. Jeśli ów "
+"stwór lub wędrowiec miałby umrzeć w tej turze, zamiast tego wygnaj go."
 
 #: ../../BRO.rst:864
 msgid ""
@@ -2882,6 +3027,8 @@ msgid ""
 "|mana_1|, Sacrifice an artifact: Penregon Strongbull gets +1/+1 until end of "
 "turn and deals 1 damage to each opponent."
 msgstr ""
+"|mana_1|, poświęć artefakt: Niniejszy do końca tury dostaje +1/+1 i zadaje "
+"każdemu przeciwnikowi po 1 obrażeniu."
 
 #: ../../BRO.rst:874
 msgid ""
@@ -2895,6 +3042,8 @@ msgid ""
 "Pyrrhic Blast deals damage equal to the sacrificed creature's power to any "
 "target. Draw a card."
 msgstr ""
+"Ten czar zadaje wskazanemu celowi obrażenia równe sile poświęconego stwora. "
+"Dobierz kartę."
 
 #: ../../BRO.rst:880
 msgid ""
@@ -2937,6 +3086,8 @@ msgid ""
 "As long as it's your turn and you control four or more Mountains, Sardian "
 "Cliffstomper gets +X/+0, where X is the number of Mountains you control."
 msgstr ""
+"O ile jest twoje tura i władasz co najmniej czterema Górami, niniejszy "
+"dostaje +X/+0, gdzie X jest liczbą Gór pod twoim władaniem."
 
 #: ../../BRO.rst:892
 msgid ""
@@ -2971,6 +3122,10 @@ msgid ""
 "you don't, put a +1/+1 counter on Tomakul Scrapsmith. (To mill a card, put "
 "the top card of your library into your graveyard.)"
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, zmiel trzy karty. Spośród kart "
+"zmielonych w ten sposób możesz umieścić w twojej ręce kartę artefaktu. Jeśli "
+"tego nie zrobisz, umieść znacznik +1/+1 na niniejszym. (Mieląc kartę gracz "
+"umieszcza wierzchnią kartę swojej biblioteki w swoim cmentarzu.)"
 
 #: ../../BRO.rst:904
 msgid ""
@@ -3002,6 +3157,8 @@ msgid ""
 "Unleash Shell deals 5 damage to target creature or planeswalker and 2 damage "
 "to that permanent's controller."
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi lub wędrowcowi 5 obrażeń oraz 2 "
+"obrażenia władcy owego bytu."
 
 #: ../../BRO.rst:914
 msgid ""
@@ -3055,6 +3212,8 @@ msgid ""
 "Prototype |mana_2|\\ |mana_r| - 3/2 (You may cast this spell with different "
 "mana cost, color, and size. It keeps its abilities and types.)"
 msgstr ""
+"Prototyp |mana_2|\\ |mana_r| — 3/2 (Możesz rzucić ten czar za różne koszty "
+"many, kolor i rozmiar. Zachowuje swoje zdolności i typy.)"
 
 #: ../../BRO.rst:932
 msgid ""
@@ -3068,6 +3227,8 @@ msgid ""
 "Prototype |mana_2|\\ |mana_r| — 1/3 (You may cast this spell with different "
 "mana cost, color, and size. It keeps its abilities and types.)"
 msgstr ""
+"Prototyp |mana_2|\\ |mana_r| — 1/3 (Możesz rzucić ten czar za różne koszty "
+"many, kolor i rozmiar. Zachowuje swoje zdolności i typy.)"
 
 #: ../../BRO.rst:931
 msgid "|mana_2|: Fallaji Dragon Engine gets +1/+0 until end of turn."
@@ -3085,6 +3246,8 @@ msgid ""
 "At the beginning of your upkeep, tap Heavyweight Demolisher unless you pay |"
 "mana_3|."
 msgstr ""
+"Na początku twojego kroku utrzymania, przekręć niniejszego, chyba że "
+"zapłacisz |mana_3|."
 
 #: ../../BRO.rst:939
 msgid ""
@@ -3107,7 +3270,7 @@ msgstr ""
 
 #: ../../BRO.rst:945
 msgid "Mishra's Juggernaut attacks each combat if able."
-msgstr ""
+msgstr "Niniejszy atakuje w każdej potyczce jeśli może."
 
 #: ../../BRO.rst:947
 msgid ""
@@ -3116,6 +3279,10 @@ msgid ""
 "the next end step or if it would leave the battlefield. Unearth only as a "
 "sorcery.)"
 msgstr ""
+"Odkopanie |mana_5|\\ |mana_r| (|mana_5|\\ |mana_r|: Przywróć tę kartę z "
+"twojego cmentarza na pole bitwy. Zyskuje ona pośpiech. Wygnaj ją na początku "
+"najbliższego kroku końcowego lub gdyby miała opuścić pole bitwy. Aktywuj "
+"tylko jako obrzęd.)"
 
 #: ../../BRO.rst:954
 msgid ""
@@ -3130,6 +3297,9 @@ msgid ""
 "of your library. Choose one of them. Until the end of your next turn, you "
 "may play that card."
 msgstr ""
+"|mana_1|, |tap|, poświęć ten byt: Wygnaj dwie wierzchnie karty twojej "
+"biblioteki. Wybierz jedną z nich. Możesz zagrać ową kartę do końca twojej "
+"następnej tury."
 
 #: ../../BRO.rst:953 ../../BRO.rst:985
 msgid ""
@@ -3231,6 +3401,8 @@ msgid ""
 "Prototype |mana_3|\\ |mana_r|\\ |mana_r| — 2/2 (You may cast this spell with "
 "different mana cost, color, and size. It keeps its abilities and types.)"
 msgstr ""
+"Prototyp |mana_3|\\ |mana_r|\\ |mana_r| — 2/2 (Możesz rzucić ten czar za "
+"różne koszty many, kolor i rozmiar. Zachowuje swoje zdolności i typy.)"
 
 #: ../../BRO.rst:991
 msgid "Trample, haste"
@@ -3241,6 +3413,8 @@ msgid ""
 "When Skitterbeam Battalion enters the battlefield, if you cast it, create "
 "two tokens that are copies of it."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, jeśli rzuciłeś go, stwórz dwa żetony "
+"będące jego kopią."
 
 #: ../../BRO.rst:998
 msgid ""
@@ -3270,6 +3444,9 @@ msgid ""
 "Powerstone token. (It's an artifact with \"|tap|: Add |colorless|. This mana "
 "can't be spent to cast a nonartifact spell.\")"
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, stwórz przekręcony żeton Kamień Mocy. ("
+"To artefakt z \"|tap|: Weź |colorless|. Ta mana nie może być wydana na "
+"rzucenie nieartefaktowego czaru.\")"
 
 #: ../../BRO.rst:1008
 msgid ""
@@ -3280,11 +3457,11 @@ msgstr ""
 
 #: ../../BRO.rst:1005
 msgid "Argothian Sprite can't be blocked by artifact creatures."
-msgstr ""
+msgstr "Niniejszy nie może być blokowany przez artefaktowe stwory."
 
 #: ../../BRO.rst:1007
 msgid "|mana_7|: Put two +1/+1 counters on Argothian Sprite."
-msgstr ""
+msgstr "|mana_7|: Umieść dwa znaczniki +1/+1 na niniejszym."
 
 #: ../../BRO.rst:1016
 msgid ""
@@ -3300,7 +3477,7 @@ msgstr "Zauroczony stwór dostaje +2/+0 i ma tratowanie."
 #: ../../BRO.rst:1015
 msgid ""
 "When Audacity is put into a graveyard from the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten byt trafi do cmentarza z pola bitwy, dobierz kartę."
 
 #: ../../BRO.rst:1020
 msgid ""
@@ -3314,6 +3491,8 @@ msgid ""
 "Create X 1/1 green Forest Dryad land creature tokens. (They're affected by "
 "summoning sickness.)"
 msgstr ""
+"Stwórz X żetonów zielonego stwora-lądu Las Driada 1/1. (Dotyczy ich choroba "
+"przywołania.)"
 
 #: ../../BRO.rst:1026
 msgid ""
@@ -3340,6 +3519,10 @@ msgid ""
 "don't, put a +1/+1 counter on Blanchwood Prowler. (To mill a card, put the "
 "top card of your library into your graveyard.)"
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, zmiel trzy karty. Spośród kart "
+"zmielonych w ten sposób możesz umieścić w twojej ręce kartę lądu. Jeśli tego "
+"nie zrobisz, umieść znacznik +1/+1 na niniejszym. (Mieląc kartę gracz "
+"umieszcza wierzchnią kartę swojej biblioteki w swoim cmentarzu.)"
 
 #: ../../BRO.rst:1034
 msgid ""
@@ -3353,6 +3536,8 @@ msgid ""
 "When Burrowing Razormaw dies, mill four cards. (Put the top four cards of "
 "your library into your graveyard.)"
 msgstr ""
+"Kiedy niniejszy umrze, zmiel cztery karty. (Umieść cztery karty z wierzchu "
+"twojej biblioteki w twoim cmentarzu.)"
 
 #: ../../BRO.rst:1042
 msgid ""
@@ -3389,6 +3574,8 @@ msgid ""
 "|tap|, Tap an untapped artifact or creature you control: Add one mana of any "
 "color."
 msgstr ""
+"|tap|, Przekręć odkręcony artefakt lub stwora pod twoim władaniem: Weź jedną "
+"manę dowolnego koloru."
 
 #: ../../BRO.rst:1050
 msgid ""
@@ -3419,6 +3606,8 @@ msgid ""
 "Each player who controls an artifact or enchantment creates a 2/2 green Bear "
 "creature token. Then destroy all artifacts and enchantments."
 msgstr ""
+"Każdy gracz mający we władaniu artefakt lub urok tworzy żeton zielonego "
+"stwora Niedźwiedź 2/2. Następnie zniszcz wszystkie artefakty i uroki."
 
 #: ../../BRO.rst:1058
 msgid ""
@@ -3464,6 +3653,8 @@ msgid ""
 "You gain 1 life for each creature on the battlefield. Prevent all combat "
 "damage that would be dealt this turn by creatures with power 3 or less."
 msgstr ""
+"Zyskaj 1 życie za każdego stwora na polu bitwy. Zażegnaj wszystkie obrażenia "
+"jakie mogłyby zostać zadane w tej turze przez stwory o sile 3 lub mniejszej."
 
 #: ../../BRO.rst:1070
 msgid ""
@@ -3477,6 +3668,8 @@ msgid ""
 "Whenever Gaea's Courser attacks, if there are three or more creature cards "
 "in your graveyard, draw a card."
 msgstr ""
+"Ilekroć niniejszy zaatakuje, jeśli w twoim cmentarzu są co najmniej trzy "
+"karty stworów, dobierz kartę."
 
 #: ../../BRO.rst:1074
 msgid ""
@@ -3492,6 +3685,10 @@ msgid ""
 "spells or abilities your opponents control. Damage and effects that say "
 "\"destroy\" don't destroy it.)"
 msgstr ""
+"Umieść znacznik +1/+1 na wskazanym stworze pod twoim władaniem. Do końca "
+"tury zyskuje on zasięg, tratowanie, antyklątwię i niezniszczalność. (Nie "
+"może być on wskazywany przez czary lub zdolności pod władaniem twoich "
+"przeciwników. Obrażenia i efekty mówiące \"zniszcz\" nie niszczą go.)"
 
 #: ../../BRO.rst:1078
 msgid ""
@@ -3516,6 +3713,8 @@ msgid ""
 "When Gnarlroot Pallbearer enters the battlefield, target creature gets +X/+X "
 "until end of turn, where X is the number of creature cards in your graveyard."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór do końca tury dostaje +X/"
+"+X, gdzie X jest liczbą kart stworów w twoim cmentarzu."
 
 #: ../../BRO.rst:1090
 msgid ""
@@ -3529,6 +3728,8 @@ msgid ""
 "|tap|: Add two mana in any combination of colors. Spend this mana only to "
 "cast creature spells or activate abilities of a creature or creature card."
 msgstr ""
+"|tap|L Weź dwie many w dowolnej kombinacji kolorów. Wydaj tę manę tylko na "
+"rzucanie czarów stworów lub aktywację zdolności stworów lub karty stwora."
 
 #: ../../BRO.rst:1089
 msgid ""
@@ -3554,6 +3755,8 @@ msgid ""
 "When Hoarding Recluse dies, put up to one other target card from a graveyard "
 "on the bottom of its owner's library."
 msgstr ""
+"Kiedy niniejszy umrze, umieść co najwyżej jedną wskazaną kartę z cmentarza "
+"na wierzchu biblioteki właściciela."
 
 #: ../../BRO.rst:1102
 msgid ""
@@ -3604,6 +3807,10 @@ msgid ""
 "into your hand. If you don't put the card into your hand, you may put it "
 "into your graveyard."
 msgstr ""
+"Ilekroć artefakt wejdzie na pole bitwy pod twoim władaniem, spójrz na "
+"wierzchnią kartę twojej biblioteki. Jeśli to karta lądu, możesz ujawnić ją i "
+"umieścić w twojej ręce. Jeśli nie umieścisz owej karty w twojej ręce, możesz "
+"umieścić ją w twoim cmentarzu."
 
 #: ../../BRO.rst:1114
 msgid ""
@@ -3629,6 +3836,9 @@ msgid ""
 "Untap that permanent. If it isn't a creature, it becomes a 0/0 creature in "
 "addition to its other types."
 msgstr ""
+"Umieść dwa znaczniki +1/+1 na wskazanym artefakcie, stworze lub lądzie pod "
+"twoim władaniem. Odkręć ów byt. Jeśli nie jest on stworem, staje się "
+"dodatkowo stworem 0/0 oprócz swoich innych typów."
 
 #: ../../BRO.rst:1124
 msgid ""
@@ -3642,6 +3852,7 @@ msgid ""
 "Teething Wurmlet has deathtouch as long as you control three or more "
 "artifacts."
 msgstr ""
+"Niniejszy ma dotyk śmierci o ile władasz co najmniej trzema artefaktami."
 
 #: ../../BRO.rst:1123
 msgid ""
@@ -3649,6 +3860,9 @@ msgid ""
 "life. If this is the first time this ability has resolved this turn, put a "
 "+1/+1 counter on Teething Wurmlet."
 msgstr ""
+"Ilekroć artefakt wejdzie na pole bitwy pod twoim władaniem, zyskaj 1 życie. "
+"Jeśli to pierwszy raz, gdy ta zdolność jest rozpatrywana w tej turze, umieść "
+"znacznik +1/+1 na niniejszym."
 
 #: ../../BRO.rst:1132
 msgid ""
@@ -3662,6 +3876,8 @@ msgid ""
 "Whenever one or more land cards are put into your graveyard from anywhere, "
 "you gain 2 life."
 msgstr ""
+"Ilekroć jedna lub więcej kart lądów trafi skądkolwiek do twojego cmentarza, "
+"zyskaj 2 życia."
 
 #: ../../BRO.rst:1131
 msgid ""
@@ -3670,6 +3886,10 @@ msgid ""
 "land named Argoth, Sanctum of Nature, exile them, then meld them into "
 "Titania, Gaea Incarnate."
 msgstr ""
+"Na początku twojego kroku utrzymania, jeśli w twoim cmentarzu są co najmniej "
+"cztery karty lądów oraz jednocześnie masz w posiadaniu i władaniu "
+"niniejszego oraz ląd o nazwie Argoth, Sanctum of Nature, wygnaj je, po czym "
+"połącz je tworząc Titania, Gaea Incarnate."
 
 #: ../../BRO.rst:1144
 msgid ""
@@ -3683,6 +3903,8 @@ msgid ""
 "Exile target player's graveyard. You gain 1 life for each card exiled this "
 "way."
 msgstr ""
+"Wygnaj cmentarz wskazanego gracza. Zyskaj po 1 życiu za każdą kartę wygnaną "
+"w ten sposób."
 
 #: ../../BRO.rst:1139
 msgid ""
@@ -3728,6 +3950,9 @@ msgid ""
 "this way into your hand. (To mill a card, put the top card of your library "
 "into your graveyard.)"
 msgstr ""
+"Zmiel pięć kart. Spośród kart zmielonych w ten sposób możesz umieścić w "
+"twojej ręce kartę bytu. (Mieląc kartę umieść wierzchnią kartę twojej "
+"biblioteki w twoim cmentarzu.)"
 
 #: ../../BRO.rst:1158
 msgid ""
@@ -3741,6 +3966,8 @@ msgid ""
 "Prototype |mana_3|\\ |mana_g| — 3/3 (You may cast this spell with different "
 "mana cost, color, and size. It keeps its abilities and types.)"
 msgstr ""
+"Prototyp |mana_3|\\ |mana_g| — 3/3 (Możesz rzucić ten czar za różne koszty "
+"many, kolor i rozmiar. Zachowuje swoje zdolności i typy.)"
 
 #: ../../BRO.rst:1157
 msgid ""
@@ -3760,10 +3987,12 @@ msgid ""
 "Prototype |mana_2|\\ |mana_g| - 1/3 (You may cast this spell with different "
 "mana cost, color, and size. It keeps its abilities and types.)"
 msgstr ""
+"Prototyp |mana_2|\\ |mana_g| — 1/3 (Możesz rzucić ten czar za różne koszty "
+"many, kolor i rozmiar. Zachowuje swoje zdolności i typy.)"
 
 #: ../../BRO.rst:1163
 msgid "|tap|: Add an amount of |mana_g| equal to Cradle Clearcutter's power."
-msgstr ""
+msgstr "|tap|: Weź tyle |mana_g|, ile wynosi siła niniejszego."
 
 #: ../../BRO.rst:1170
 msgid ""
@@ -3781,6 +4010,8 @@ msgid ""
 "|mana_g|, Sacrifice Haywire Mite: Exile target noncreature artifact or "
 "noncreature enchantment."
 msgstr ""
+"|mana_g|, poświęć ten byt: Wygnaj wskazany niestworowy artefakt lub "
+"niestworowy urok."
 
 #: ../../BRO.rst:1176
 msgid ""
@@ -3794,12 +4025,16 @@ msgid ""
 "Prototype |mana_2|\\ |mana_g|\\ |mana_g| — 2/5 (You may cast this spell with "
 "different mana cost, color, and size. It keeps its abilities and types.)"
 msgstr ""
+"Prototyp |mana_2|\\ |mana_g|\\ |mana_g| — 2/5 (Możesz rzucić ten czar za "
+"różne koszty many, kolor i rozmiar. Zachowuje swoje zdolności i typy.)"
 
 #: ../../BRO.rst:1175
 msgid ""
 "Whenever Iron-Craw Crusher attacks, target attacking creature gets +X/+0 "
 "until end of turn, where X is Iron-Craw Crusher's power."
 msgstr ""
+"Ilekroć niniejszy zaatakuje, wskazany atakujący stwór do końca tury dostaje +"
+"X/+0, gdzie X jest siłą niniejszego."
 
 #: ../../BRO.rst:1182
 msgid ""
@@ -3862,6 +4097,8 @@ msgid ""
 "Prototype |mana_1|\\ |mana_g| — 2/3 (You may cast this spell with different "
 "mana cost, color, and size. It keeps its abilities and types.)"
 msgstr ""
+"Prototyp |mana_1|\\ |mana_g| — 2/3 (Możesz rzucić ten czar za różne koszty "
+"many, kolor i rozmiar. Zachowuje swoje zdolności i typy.)"
 
 #: ../../BRO.rst:1193
 msgid ""
@@ -3886,6 +4123,8 @@ msgid ""
 "Prototype |mana_3|\\ |mana_g|\\ |mana_g| — 3/5 (You may cast this spell with "
 "different mana cost, color, and size. It keeps its abilities and types.)"
 msgstr ""
+"Prototyp |mana_3|\\ |mana_g|\\ |mana_g| — 3/5 (Możesz rzucić ten czar za "
+"różne koszty many, kolor i rozmiar. Zachowuje swoje zdolności i typy.)"
 
 #: ../../BRO.rst:1199
 msgid "Reach, trample"
@@ -3975,6 +4214,8 @@ msgid ""
 "|tap|: Add X mana of any one color, where X is the number of creature cards "
 "in your graveyard."
 msgstr ""
+"|tap|: Weź X many w dowolnym jednym kolorze, gdzie X jest liczbą kart "
+"stworów w twoim cmentarzu."
 
 #: ../../BRO.rst:1232
 msgid ""
@@ -3995,6 +4236,8 @@ msgid ""
 "As long as you've drawn two or more cards this turn, Evangel of Synthesis "
 "gets +1/+0 and has menace."
 msgstr ""
+"O ile dobrałeś swoją drugą kartę w tej turze, niniejszy dostaje +1/+0 i ma "
+"złowrogość."
 
 #: ../../BRO.rst:1238
 msgid ""
@@ -4084,6 +4327,8 @@ msgid ""
 "Until end of turn, other creatures you control get +1/+0 and gain menace and "
 "haste."
 msgstr ""
+"|mana_1|\\ |mana_b|\\ |mana_r|, poświęć innego stwora lub artefakt: Do końca "
+"tury inne stwory pod twoim władaniem dostają +1/+0, złowrogość i pośpiech."
 
 #: ../../BRO.rst:1264
 msgid ""
@@ -4097,6 +4342,8 @@ msgid ""
 "Exile target nonland permanent an opponent controls and all tokens that "
 "player controls with the same name as that permanent."
 msgstr ""
+"Wygnaj wskazany nielądowy byt pod władaniem przeciwnika oraz wszystkie "
+"żetony pod władaniem owego gracza mające tę samą nazwę co ów byt."
 
 #: ../../BRO.rst:1268
 msgid ""
@@ -4128,7 +4375,7 @@ msgstr ""
 
 #: ../../BRO.rst:1271
 msgid "Permanents you control have \"Ward—Sacrifice a permanent.\""
-msgstr ""
+msgstr "Byty pod twoim władaniem mają \"Straż—Poświęć byt.\""
 
 #: ../../BRO.rst:1273
 msgid ""
@@ -4177,6 +4424,8 @@ msgid ""
 "+1: Scry 1. You may tap an untapped artifact you control. If you do, draw a "
 "card."
 msgstr ""
+"+1: Wróż 1. Możesz przekręcić odkręcony artefakt pod twoim władaniem. Jeśli "
+"tak zrobisz, dobierz kartę."
 
 #: ../../BRO.rst:1283
 msgid ""
@@ -4231,6 +4480,8 @@ msgid ""
 "When Skyfisher Spider dies, you may gain 1 life for each creature card in "
 "your graveyard. If you do, exile Skyfisher Spider from your graveyard."
 msgstr ""
+"Kiedy niniejszy umrze, możesz zyskać 1 życie za każdą kartę stwora w twoim "
+"cmentarzu. Jeśli tak zrobisz, wygnaj niniejszego z twojego cmentarza."
 
 #: ../../BRO.rst:1304
 msgid ""
@@ -4245,6 +4496,9 @@ msgid ""
 "the copy is an artifact in addition to its other types. (The copy becomes a "
 "token.)"
 msgstr ""
+"Ilekroć rzucisz czar typu Bestia lub Ptak, możesz go skopiować, ale owa "
+"kopia jest dodatkowo artefaktem oprócz swoich innych typów. (Owa kopia staje "
+"się żetonem.)"
 
 #: ../../BRO.rst:1308
 msgid ""
@@ -4274,6 +4528,9 @@ msgid ""
 "1, look at the top card of your library. You may put that card into your "
 "graveyard.)"
 msgstr ""
+"Stwory pod twoim władaniem mają czujność oraz \"|tap|: Szpieguj 1.\" ("
+"Szpiegując 1 spójrz na wierzchnią kartę twojej biblioteki. Możesz umieścić "
+"ową kartę w twoim cmentarzu.)"
 
 #: ../../BRO.rst:1313
 msgid ""
@@ -4282,6 +4539,10 @@ msgid ""
 "target artifact cards with total mana value 10 or less from your graveyard "
 "to the battlefield. Activate only as a sorcery."
 msgstr ""
+"|mana_2|\\ |mana_g|\\ |mana_g|\\ |mana_w|\\ |mana_w|\\ |mana_u|\\ |mana_u|, "
+"wygnaj tę kartę z twojego cmentarza: Przywróć z twojego cmentarza na pole "
+"bitwy dowolną liczbę wskazanych kart artefaktów o sumie skrótów many 10 lub "
+"mniejszej. Aktywuj tylko jako obrzęd."
 
 #: ../../BRO.rst:1320
 msgid ""
@@ -4323,6 +4584,8 @@ msgid ""
 "|mana_6|: Create a token that's a copy of target artifact you control, "
 "except it's a 1/1 Soldier creature in addition to its other types."
 msgstr ""
+"|mana_6|: Stwórz żeton będący kopią wskazanego artefaktu pod twoim "
+"władaniem, ale jest on dodatkowo Piechurem 1/1 oprócz swoich innych typów."
 
 #: ../../BRO.rst:1330
 msgid ""
@@ -4370,6 +4633,8 @@ msgid ""
 "When Bladecoil Serpent enters the battlefield, for each |mana_b|\\ |mana_b| "
 "spent to cast it, each opponent discards a card."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, za każde |mana_b|\\ |mana_b| wydane na "
+"jego rzucenie, każde przeciwnik odrzuca kartę."
 
 #: ../../BRO.rst:1341
 msgid ""
@@ -4377,6 +4642,8 @@ msgid ""
 "spent to cast it, it gets +1/+0 and gains trample and haste until end of "
 "turn."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, za każde |mana_r|\\ |mana_r| wydane na "
+"jego rzucenie, do końca tury dostaje on +1/+0, tratowanie oraz pośpiech."
 
 #: ../../BRO.rst:1348
 msgid ""
@@ -4390,6 +4657,8 @@ msgid ""
 "Clay Champion enters the battlefield with three +1/+1 counters on it for "
 "each |mana_g|\\ |mana_g| spent to cast it."
 msgstr ""
+"Ten byt wchodzi na pole bitwy mając po trzy znaczniki +1/+1 za każde |mana_g|"
+"\\ |mana_g| wydane na jego rzucenie."
 
 #: ../../BRO.rst:1347
 msgid ""
@@ -4397,6 +4666,9 @@ msgid ""
 "creatures you control. For each |mana_w|\\ |mana_w| spent to cast Clay "
 "Champion, put a +1/+1 counter on each of them."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, wybierz co najwyżej dwa wskazane stwory "
+"pod twoim władaniem. Umieść na każdym z nich po znaczniku +1/+1 za każde "
+"|mana_w|\\ |mana_w| wydane na rzucenie niniejszego."
 
 #: ../../BRO.rst:1354
 msgid ""
@@ -4421,6 +4693,8 @@ msgid ""
 "|mana_1|: Until end of turn, Argivian Avenger gets -1/-1 and gains your "
 "choice of flying, vigilance, deathtouch, or haste."
 msgstr ""
+"|mana_1|: Do końca tury niniejszy dostaje -1/-1 i zyskuje dowolny spośród "
+"latania, czujności, dotyku śmierci lub pośpiechu."
 
 #: ../../BRO.rst:1366
 msgid ""
@@ -4435,10 +4709,13 @@ msgid ""
 "to one target nonland permanent. Its controller creates a tapped Powerstone "
 "token."
 msgstr ""
+"Kiedy rzucisz ten czar oraz ilekroć niniejszy zaatakuje, zniszcz co najwyżej "
+"jeden wskazany nielądowy byt. Jego władca tworzy przekręcony żeton Kamień "
+"Mocy."
 
 #: ../../BRO.rst:1365
 msgid "Unearth |mana_8|"
-msgstr ""
+msgstr "Odkopanie |mana_8|"
 
 #: ../../BRO.rst:1372
 msgid ""
@@ -4464,7 +4741,7 @@ msgstr ""
 
 #: ../../BRO.rst:1377
 msgid "|mana_7|, |tap|, Sacrifice Goblin Firebomb: Destroy target permanent."
-msgstr ""
+msgstr "|mana_7|, |tap|, poświęć ten byt: Zniszcz wskazany byt."
 
 #: ../../BRO.rst:1386
 msgid ""
@@ -4498,6 +4775,7 @@ msgstr ""
 msgid ""
 "You may cast colorless spells and artifact spells as though they had flash."
 msgstr ""
+"Możesz rzucać bezkolorowe czary oraz czary artefaktów jakby miały błysk."
 
 #: ../../BRO.rst:1395
 msgid ""
@@ -4505,6 +4783,8 @@ msgid ""
 "greater than Liberator, Urza's Battlethopter's power, put a +1/+1 counter on "
 "Liberator."
 msgstr ""
+"Ilekroć rzucisz czar, jeśli ilość many wydanej na jego rzucenie jest większa "
+"niż siła niniejszego, umieść znacznik +1/+1 na niniejszym."
 
 #: ../../BRO.rst:1408
 msgid ""
@@ -4592,6 +4872,8 @@ msgid ""
 "|tap|: You gain 1 life. If you control creatures named Power Plant Worker "
 "and Tower Worker, you gain 3 life instead."
 msgstr ""
+"|tap|: Zyskaj 1 życie. Jeśli władasz stworami o nazwach Pracownik Elektrowni "
+"oraz Pracownik Wieży, zamiast tego zyskaj 3 życia."
 
 #: ../../BRO.rst:1432
 msgid ""
@@ -4613,6 +4895,8 @@ msgid ""
 "onto the battlefield under your control. It's a Phyrexian in addition to its "
 "other types."
 msgstr ""
+"Na początku twojego kroku utrzymania, umieść na polu bitwy wskazaną kartę "
+"stwora z cmentarza. Ma dodatkowo typ Phyrexian oprócz swoich innych typów."
 
 #: ../../BRO.rst:1436
 msgid ""
@@ -4627,6 +4911,9 @@ msgid ""
 "creatures named Mine Worker and Tower Worker, put two +1/+1 counters on "
 "Power Plant Worker instead. Activate only once each turn."
 msgstr ""
+"|mana_3|: Niniejszy do końca tury dostaje +2/+2. Jeśli władasz stworami o "
+"nazwach Pracownik Kopalni oraz Pracownik Wieży, zamiast tego umieść dwa "
+"znaczniki +1/+1 na niniejszym. Aktywuj tylko raz na turę."
 
 #: ../../BRO.rst:1442
 msgid ""
@@ -4677,6 +4964,8 @@ msgid ""
 "Protection from multicolored (This creature can't be blocked, targeted, "
 "dealt damage, enchanted, or equipped by anything multicolored.)"
 msgstr ""
+"Ochrona przed wielokolorowym (Nic wielokolorowego nie może zablokować, "
+"wskazywać, zadać obrażeń, zauroczyć ani wyposażyć tego stwora.)"
 
 #: ../../BRO.rst:1451
 msgid ""
@@ -4698,6 +4987,8 @@ msgid ""
 "|mana_2|, |tap|, Exile The Stasis Coffin: You gain protection from "
 "everything until your next turn."
 msgstr ""
+"|mana_2|, |tap|, wygnaj ten byt: Do końca twojej następnej tury zyskujesz "
+"ochronę przed wszystkim."
 
 #: ../../BRO.rst:1462
 msgid ""
@@ -4711,6 +5002,8 @@ msgid ""
 "Steel Exemplar enters the battlefield with two +1/+1 counters on it unless "
 "two or more colors of mana were spent to cast it."
 msgstr ""
+"Ten byt wchodzi na pole bitwy mając dwa znaczniki +1/+1, chyba że do jego "
+"rzucenia wydano co najmniej dwa kolory many."
 
 #: ../../BRO.rst:1466
 msgid ""
@@ -4726,6 +5019,10 @@ msgid ""
 "and exile them. That player shuffles, then draws a card for each card exiled "
 "from their hand this way. Activate only as a sorcery."
 msgstr ""
+"|mana_2|, |tap|, wygnaj ten byt: Nazwij kartę. Wyszukaj w cmentarzu, ręce i "
+"bibliotece wskazanego przeciwnika co najwyżej cztery karty o owej nazwie i "
+"wygnaj je. Ów gracz tasuje, po czym dobiera kartę za każdą kartę wygnaną ze "
+"swojej ręki w ten sposób. Aktywuj tylko jako obrzęd."
 
 #: ../../BRO.rst:1470
 msgid ""
@@ -4756,12 +5053,16 @@ msgid ""
 "Ward |mana_4| (Whenever this creature becomes the target of a spell or "
 "ability an opponent controls, counter it unless that player pays |mana_4|.)"
 msgstr ""
+"Straż |mana_4| (Ilekroć ten stwór zostanie wskazany przez czar lub zdolność "
+"pod władaniem przeciwnika, skontruj to, chyba że ów gracz zapłaci |mana_4|.)"
 
 #: ../../BRO.rst:1477
 msgid ""
 "When Su-Chi Cave Guard dies, add eight |colorless|. Until end of turn, you "
 "don't lose this mana as steps and phases end."
 msgstr ""
+"Kiedy niniejszy umrze, weź osiem |colorless|. Do końca tury nie tracisz owej "
+"many podczas końców kroków i faz."
 
 #: ../../BRO.rst:1486
 msgid ""
@@ -4780,7 +5081,7 @@ msgstr ""
 
 #: ../../BRO.rst:1485
 msgid "|mana_4|, |tap|, Sacrifice Supply Drop: Draw a card."
-msgstr ""
+msgstr "|mana_4|, |tap|, poświęć ten byt: Dobierz kartę."
 
 #: ../../BRO.rst:1492
 msgid ""
@@ -4830,6 +5131,10 @@ msgid ""
 "or ability an opponent controls, counter it unless that player pays |"
 "mana_2|.)"
 msgstr ""
+"Wyposażony stwór dostaje +1/+1 za każdą Aurę i Wyposażenie dołączone do "
+"niego oraz ma straż |mana_2|. (Ilekroć wyposażony stwór zostanie wskazany "
+"przez czar lub zdolność pod władaniem przeciwnika, skontruj to, chyba że ów "
+"gracz zapłaci |mana_2|.)"
 
 #: ../../BRO.rst:1510
 msgid ""
@@ -4843,6 +5148,8 @@ msgid ""
 "When Thran Spider enters the battlefield, you and target opponent each "
 "create a tapped Powerstone token."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, ty i wskazany przeciwnik tworzycie po "
+"przekręconym żetonie Kamień Mocy."
 
 #: ../../BRO.rst:1509
 msgid ""
@@ -4850,9 +5157,9 @@ msgid ""
 "artifact card from among them and put it into your hand. Put the rest on the "
 "bottom of your library in a random order."
 msgstr ""
-"|mana_7|: Spójrz na cztery wierzchnie karty twojej biblioteki. Możesz "
-"ujawnić spośród nich kartę artefaktu i umieścić ją w twojej ręce. Umieść "
-"pozostałe losowo na spodzie twojej biblioteki."
+"|mana_7|: Spójrz na cztery wierzchnie karty twojej biblioteki. Spośród nich "
+"możesz ujawnić i umieścić w twojej ręce kartę artefaktu. Umieść pozostałe "
+"losowo na spodzie twojej biblioteki."
 
 #: ../../BRO.rst:1516
 msgid ""
@@ -4866,6 +5173,9 @@ msgid ""
 "|tap|: Add |colorless|. If you control creatures named Mine Worker and Power "
 "Plant Worker, add |colorless|\\ |colorless|\\ |colorless| instead."
 msgstr ""
+"|tap|: Weź |colorless|. Jeśli władasz stworami o nazwie Pracownik Kopalni "
+"oraz Pracownik Elektrowni, zamiast tego weź |colorless|\\ |colorless|\\ "
+"|colorless|."
 
 #: ../../BRO.rst:1526
 msgid ""
@@ -4879,6 +5189,8 @@ msgid ""
 "Argoth, Sanctum of Nature enters the battlefield tapped unless you control a "
 "legendary green creature."
 msgstr ""
+"Ten byt wchodzi na pole bitwy przekręcony, chyba że władasz legendarnym "
+"zielonym stworem."
 
 #: ../../BRO.rst:1521
 msgid "|tap|: Add |mana_g|."
@@ -4999,6 +5311,11 @@ msgid ""
 "your library for a basic land card, put it onto the battlefield, then "
 "shuffle."
 msgstr ""
+"|mana_2|, |tap|, poświęć ten byt: Zniszcz wskazany niebazowy ląd pod "
+"władaniem przeciwnika. Władca owego lądu możesz wyszukać w swojej bibliotece "
+"kartę bazowego lądu, umieścić ją polu bitwy, po czym przetasować. Możesz "
+"wyszukać w twojej bibliotece kartę bazowego lądu, umieść ją na polu bitwy, "
+"po czym przetasuj."
 
 #: ../../BRO.rst:1568
 msgid ""
@@ -5028,6 +5345,9 @@ msgid ""
 "from your hand. Fortified Beachhead enters the battlefield tapped unless you "
 "revealed a Soldier card this way or you control a Soldier."
 msgstr ""
+"Umieszczając ten byt na polu bitwy możesz ujawnić z twojej ręki kartę "
+"Piechura. Ten byt wchodzi na pole bitwy przekręcony, chyba że ujawniłeś "
+"kartę Piechura lub władasz Piechurem."
 
 #: ../../BRO.rst:1573
 msgid "|tap|: Add |mana_w| or |mana_u|."
@@ -5104,6 +5424,8 @@ msgid ""
 "|mana_3|, |tap|: Surveil 1. (Look at the top card of your library. You may "
 "put that card into your graveyard.)"
 msgstr ""
+"|mana_3|, |tap|: Szpieguj 1. (Spójrz na wierzchnią kartę twojej biblioteki. "
+"Możesz umieścić ową kartę w twoim cmentarzu.)"
 
 #: ../../BRO.rst:1610
 msgid ""
@@ -5192,6 +5514,8 @@ msgid ""
 "Prevent all damage that would be dealt to other attacking Soldiers you "
 "control."
 msgstr ""
+"Zażegnaj wszystkie obrażenia, jakie mogłyby zostać zadane innym atakującym "
+"Piechurom pod twoim władaniem."
 
 #: ../../BRO.rst:1644
 msgid ""
@@ -5212,7 +5536,7 @@ msgstr ""
 
 #: ../../BRO.rst:1643
 msgid "|mana_6|: Draw a card and put a +1/+1 counter on Geology Enthusiast."
-msgstr ""
+msgstr "|mana_6|: Dobierz kartę i umieść znacznik +1/+1 na niniejszym."
 
 #: ../../BRO.rst:1652
 msgid ""
@@ -5277,6 +5601,8 @@ msgid ""
 "Prototype |mana_2|\\ |mana_g|\\ |mana_g| — 3/3 (You may cast this spell with "
 "different mana cost, color, and size. It keeps its abilities and types.)"
 msgstr ""
+"Prototyp |mana_2|\\ |mana_g|\\ |mana_g| — 3/3 (Możesz rzucić ten czar za "
+"różne koszty many, kolor i rozmiar. Zachowuje swoje zdolności i typy.)"
 
 #: ../../BRO.rst:1665
 msgid ""
