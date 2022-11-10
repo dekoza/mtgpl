@@ -319,7 +319,7 @@
    Whenever you cast an instant or sorcery spell, Tor Wauki the Younger deals 2 damage to any target.
 
 
-:mtgtip:`Torsten, Founder of Benalia<https://cards.scryfall.io/border_crop/front/0/7/0783b426-a527-42c1-9271-be28b229e1c6.jpg?1660931745|https://scryfall.com/card/dmc/47/torsten-founder-of-benalia?utm_source=api>`
+:mtgtip:`Torsten, Founder of Benalia<https://cards.scryfall.io/border_crop/front/0/7/0783b426-a527-42c1-9271-be28b229e1c6.jpg?1667726311|https://scryfall.com/card/dmc/47/torsten-founder-of-benalia?utm_source=api>`
    When Torsten, Founder of Benalia enters the battlefield, reveal the top seven cards of your library. Put any number of creature and/or land cards from among them into your hand and the rest on the bottom of your library in a random order.
 
    When Torsten dies, create seven 1/1 white Soldier creature tokens.
@@ -711,7 +711,7 @@
    Whenever O-Kagachi, Vengeful Kami deals combat damage to a player, if that player attacked you during their last turn, exile target nonland permanent that player controls.
 
 
-:mtgtip:`Primevals' Glorious Rebirth<https://cards.scryfall.io/border_crop/front/e/1/e11471f9-6bf4-4b31-8eb6-f5f9e8abd797.jpg?1664361516|https://scryfall.com/card/dmc/165/primevals-glorious-rebirth?utm_source=api>`
+:mtgtip:`Primevals' Glorious Rebirth<https://cards.scryfall.io/border_crop/front/e/1/e11471f9-6bf4-4b31-8eb6-f5f9e8abd797.jpg?1667767720|https://scryfall.com/card/dmc/165/primevals-glorious-rebirth?utm_source=api>`
    (You may cast a legendary sorcery only if you control a legendary creature or planeswalker.)
 
    Return all legendary permanent cards from your graveyard to the battlefield.

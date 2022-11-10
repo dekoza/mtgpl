@@ -737,8 +737,8 @@
    Equip |mana_2| or |mana_b|
 
 
-:mtgtip:`Arms Race<https://cards.scryfall.io/border_crop/front/c/d/cd83b2c3-bb06-42db-83bf-8903a126512c.jpg?1667637398|https://scryfall.com/card/bro/126/arms-race?utm_source=api>`
-   |mana_3|\ |mana_r|: You may put an artifact card from your hand onto the battlefield. It gains haste. Sacrifice it at the beginning of the next end step.
+:mtgtip:`Arms Race<https://cards.scryfall.io/border_crop/front/c/d/cd83b2c3-bb06-42db-83bf-8903a126512c.jpg?1668078311|https://scryfall.com/card/bro/126/arms-race?utm_source=api>`
+   |mana_3|\ |mana_r|: You may put an artifact card from your hand onto the battlefield. That artifact gains haste. Sacrifice it at the beginning of the next end step.
 
 
 :mtgtip:`Bitter Reunion<https://cards.scryfall.io/border_crop/front/3/4/345a1c80-41d6-43b1-83ab-1aa56dd06b1b.jpg?1667140347|https://scryfall.com/card/bro/127/bitter-reunion?utm_source=api>`
@@ -1057,7 +1057,7 @@
    Create three tapped Powerstone tokens. You gain 3 life. (The tokens are artifacts with "|tap|: Add |colorless|. This mana can't be spent to cast a nonartifact spell.")
 
 
-:mtgtip:`Fauna Shaman<https://cards.scryfall.io/border_crop/front/b/8/b8b906eb-3223-474c-9b74-eda2c280f9c5.jpg?1667397998|https://scryfall.com/card/bro/179/fauna-shaman?utm_source=api>`
+:mtgtip:`Fauna Shaman<https://cards.scryfall.io/border_crop/front/b/8/b8b906eb-3223-474c-9b74-eda2c280f9c5.jpg?1668021662|https://scryfall.com/card/bro/179/fauna-shaman?utm_source=api>`
    |mana_g|, |tap|, Discard a creature card: Search your library for a creature card, reveal it, put it into your hand, then shuffle.
 
 
@@ -1175,7 +1175,7 @@
    Whenever Iron-Craw Crusher attacks, target attacking creature gets +X/+0 until end of turn, where X is Iron-Craw Crusher's power.
 
 
-:mtgtip:`Mask of the Jadecrafter<https://cards.scryfall.io/border_crop/front/5/d/5db83275-bfd2-42c2-8d0f-e8a9b4f60e78.jpg?1667481521|https://scryfall.com/card/bro/201/mask-of-the-jadecrafter?utm_source=api>`
+:mtgtip:`Mask of the Jadecrafter<https://cards.scryfall.io/border_crop/front/5/d/5db83275-bfd2-42c2-8d0f-e8a9b4f60e78.jpg?1668062810|https://scryfall.com/card/bro/201/mask-of-the-jadecrafter?utm_source=api>`
    |mana_x|, |tap|, Sacrifice Mask of the Jadecrafter: Create an X/X colorless Golem artifact creature token. Activate only as a sorcery.
 
    Unearth |mana_2|\ |mana_g| (|mana_2|\ |mana_g|: Return this card from your graveyard to the battlefield. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)
@@ -1237,11 +1237,11 @@
    Whenever Fallaji Vanguard or another creature enters the battlefield under your control, target creature gets +2/+0 until end of turn.
 
 
-:mtgtip:`Hajar, Loyal Bodyguard<https://cards.scryfall.io/border_crop/front/5/a/5a0a2f82-57d3-45d8-b1c8-357883c62728.jpg?1667207707|https://scryfall.com/card/bro/211/hajar-loyal-bodyguard?utm_source=api>`
+:mtgtip:`Hajar, Loyal Bodyguard<https://cards.scryfall.io/border_crop/front/5/a/5a0a2f82-57d3-45d8-b1c8-357883c62728.jpg?1668021651|https://scryfall.com/card/bro/211/hajar-loyal-bodyguard?utm_source=api>`
    Sacrifice Hajar, Loyal Bodyguard: Legendary creatures you control get +1/+0 and gain indestructible until end of turn.
 
 
-:mtgtip:`Harbin, Vanguard Aviator<https://cards.scryfall.io/border_crop/front/4/b/4b88be69-3201-4345-a193-cc21bd066d15.jpg?1667139307|https://scryfall.com/card/bro/212/harbin-vanguard-aviator?utm_source=api>`
+:mtgtip:`Harbin, Vanguard Aviator<https://cards.scryfall.io/border_crop/front/4/b/4b88be69-3201-4345-a193-cc21bd066d15.jpg?1668021672|https://scryfall.com/card/bro/212/harbin-vanguard-aviator?utm_source=api>`
    Flying
 
    Whenever you attack with five or more Soldiers, creatures you control get +1/+1 and gain flying until end of turn.
