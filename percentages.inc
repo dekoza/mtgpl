@@ -103,7 +103,8 @@
 .. |XLN_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |BRO_percent| image:: images/pie95.png        
+.. |BRO_percent| image:: images/done.png        
+   :alt: Tłumaczenie zakończone
 
 .. |SOK_percent| image:: images/pie40.png        
 
@@ -252,6 +253,9 @@
    :alt: Tłumaczenie zakończone
 
 .. |A25_percent| image:: images/done.png        
+   :alt: Tłumaczenie zakończone
+
+.. |BRR_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
 .. |IMA_percent| image:: images/done.png        

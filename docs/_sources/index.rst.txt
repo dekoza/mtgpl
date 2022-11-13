@@ -44,6 +44,7 @@ Nadchodzące
 * :mtgexp:`J22` :doc:`Jumpstart 2022<J22>` Premiera: 2022-12-02
 * :mtgexp:`BRC` :doc:`Brother's War Commander<BRC>` |BRC_percent| Premiera: 2022-11-18
 * :mtgexp:`BRO` :doc:`Brother's War<BRO>` |BRO_percent| Premiera: 2022-11-18
+* :mtgexp:`BRR` :doc:`Brother's War Retro Artifacts<BRR>` |BRR_percent| Premiera: 2022-11-18
 
 Standard
 --------
