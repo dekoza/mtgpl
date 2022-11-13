@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-01 18:04+0200\n"
-"PO-Revision-Date: 2022-10-23 20:54+0000\n"
+"PO-Revision-Date: 2022-11-13 22:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/shm/pl/>\n"
 "Language: pl\n"
@@ -3761,13 +3761,15 @@ msgstr ""
 
 #: ../../SHM.rst:1301
 msgid "When Elsewhere Flask enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../SHM.rst:1303
 msgid ""
 "Sacrifice Elsewhere Flask: Choose a basic land type. Each land you control "
 "becomes that type until end of turn."
 msgstr ""
+"Poświęć ten byt: Wybierz bazowy typ lądu. Do końca tury każdy ląd pod twoim "
+"władaniem staje się owego typu."
 
 #: ../../SHM.rst:1308
 msgid ""
