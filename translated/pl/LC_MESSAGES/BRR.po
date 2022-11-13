@@ -1,237 +1,238 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2013-2022, Dominik Kozaczko
 # This file is distributed under the same license as the MTG po polsku package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-#, fuzzy
+# Weblate Admin <weblate-admin@kozaczko.info>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG po polsku 2022.11\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-11-13 22:49+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2022-11-13 22:40+0000\n"
+"Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
+"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/brr/pl/>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.14\n"
 
 #: ../../symbols.rst:3
 msgid "{C}"
-msgstr ""
+msgstr "{C}"
 
 #: ../../symbols.rst:5
 msgid "{T}"
-msgstr ""
+msgstr "{T}"
 
 #: ../../symbols.rst:7
 msgid "{Q}"
-msgstr ""
+msgstr "{Q}"
 
 #: ../../symbols.rst:9
 msgid "{U}"
-msgstr ""
+msgstr "{U}"
 
 #: ../../symbols.rst:11
 msgid "{W}"
-msgstr ""
+msgstr "{W}"
 
 #: ../../symbols.rst:13
 msgid "{B}"
-msgstr ""
+msgstr "{B}"
 
 #: ../../symbols.rst:15
 msgid "{G}"
-msgstr ""
+msgstr "{G}"
 
 #: ../../symbols.rst:17
 msgid "{R}"
-msgstr ""
+msgstr "{R}"
 
 #: ../../symbols.rst:19
 msgid "{2/U}"
-msgstr ""
+msgstr "{2/U}"
 
 #: ../../symbols.rst:21
 msgid "{2/W}"
-msgstr ""
+msgstr "{2/W}"
 
 #: ../../symbols.rst:23
 msgid "{2/B}"
-msgstr ""
+msgstr "{2/B}"
 
 #: ../../symbols.rst:25
 msgid "{2/G}"
-msgstr ""
+msgstr "{2/G}"
 
 #: ../../symbols.rst:27
 msgid "{2/R}"
-msgstr ""
+msgstr "{2/R}"
 
 #: ../../symbols.rst:29
 msgid "{U/P}"
-msgstr ""
+msgstr "{U/P}"
 
 #: ../../symbols.rst:31
 msgid "{W/P}"
-msgstr ""
+msgstr "{W/P}"
 
 #: ../../symbols.rst:33
 msgid "{B/P}"
-msgstr ""
+msgstr "{B/P}"
 
 #: ../../symbols.rst:35
 msgid "{G/P}"
-msgstr ""
+msgstr "{G/P}"
 
 #: ../../symbols.rst:37
 msgid "{R/P}"
-msgstr ""
+msgstr "{R/P}"
 
 #: ../../symbols.rst:39
 msgid "{X}"
-msgstr ""
+msgstr "{X}"
 
 #: ../../symbols.rst:41
 msgid "{P}"
-msgstr ""
+msgstr "{P}"
 
 #: ../../symbols.rst:43
 msgid "{0}"
-msgstr ""
+msgstr "{0}"
 
 #: ../../symbols.rst:45
 msgid "{1}"
-msgstr ""
+msgstr "{1}"
 
 #: ../../symbols.rst:47
 msgid "{2}"
-msgstr ""
+msgstr "{2}"
 
 #: ../../symbols.rst:49
 msgid "{3}"
-msgstr ""
+msgstr "{3}"
 
 #: ../../symbols.rst:51
 msgid "{4}"
-msgstr ""
+msgstr "{4}"
 
 #: ../../symbols.rst:53
 msgid "{5}"
-msgstr ""
+msgstr "{5}"
 
 #: ../../symbols.rst:55
 msgid "{6}"
-msgstr ""
+msgstr "{6}"
 
 #: ../../symbols.rst:57
 msgid "{7}"
-msgstr ""
+msgstr "{7}"
 
 #: ../../symbols.rst:59
 msgid "{8}"
-msgstr ""
+msgstr "{8}"
 
 #: ../../symbols.rst:61
 msgid "{9}"
-msgstr ""
+msgstr "{9}"
 
 #: ../../symbols.rst:63
 msgid "{10}"
-msgstr ""
+msgstr "{10}"
 
 #: ../../symbols.rst:65
 msgid "{11}"
-msgstr ""
+msgstr "{11}"
 
 #: ../../symbols.rst:67
 msgid "{12}"
-msgstr ""
+msgstr "{12}"
 
 #: ../../symbols.rst:69
 msgid "{13}"
-msgstr ""
+msgstr "{13}"
 
 #: ../../symbols.rst:71
 msgid "{14}"
-msgstr ""
+msgstr "{14}"
 
 #: ../../symbols.rst:73
 msgid "{15}"
-msgstr ""
+msgstr "{15}"
 
 #: ../../symbols.rst:75
 msgid "{16}"
-msgstr ""
+msgstr "{16}"
 
 #: ../../symbols.rst:77
 msgid "{20}"
-msgstr ""
+msgstr "{20}"
 
 #: ../../symbols.rst:79
 msgid "{(r/g)}"
-msgstr ""
+msgstr "{(r/g)}"
 
 #: ../../symbols.rst:81
 msgid "{(r/w)}"
-msgstr ""
+msgstr "{(r/w)}"
 
 #: ../../symbols.rst:83
 msgid "{(u/b)}"
-msgstr ""
+msgstr "{(u/b)}"
 
 #: ../../symbols.rst:85
 msgid "{(u/r)}"
-msgstr ""
+msgstr "{(u/r)}"
 
 #: ../../symbols.rst:87
 msgid "{(w/b)}"
-msgstr ""
+msgstr "{(w/b)}"
 
 #: ../../symbols.rst:89
 msgid "{(w/u)}"
-msgstr ""
+msgstr "{(w/u)}"
 
 #: ../../symbols.rst:91
 msgid "{(b/g)}"
-msgstr ""
+msgstr "{(b/g)}"
 
 #: ../../symbols.rst:93
 msgid "{(b/r)}"
-msgstr ""
+msgstr "{(b/r)}"
 
 #: ../../symbols.rst:95
 msgid "{(g/w)}"
-msgstr ""
+msgstr "{(g/w)}"
 
 #: ../../symbols.rst:97
 msgid "{(g/u)}"
-msgstr ""
+msgstr "{(g/u)}"
 
 #: ../../symbols.rst:99
 msgid "{(g/u/p)}"
-msgstr ""
+msgstr "{(g/u/p)}"
 
 #: ../../symbols.rst:101
 msgid "{(g/w/p)}"
-msgstr ""
+msgstr "{(g/w/p)}"
 
 #: ../../symbols.rst:103
 msgid "{S}"
-msgstr ""
+msgstr "{S}"
 
 #: ../../symbols.rst:105
 msgid "{E}"
-msgstr ""
+msgstr "{E}"
 
 #: ../../symbols.rst:107
 msgid "{CHAOS}"
-msgstr ""
+msgstr "{CHAOS}"
 
 #: ../../symbols.rst:109
 msgid "{PW}"
-msgstr ""
+msgstr "{PW}"
 
 #: ../../BRR.rst:5
 msgid ":mtgexp:`BRR` The Brothers' War Retro Artifacts"
@@ -246,15 +247,15 @@ msgstr ""
 
 #: ../../BRR.rst:9
 msgid "As Adaptive Automaton enters the battlefield, choose a creature type."
-msgstr ""
+msgstr "Przy wejściu tego bytu na pole bitwy wybierz typ stwora."
 
 #: ../../BRR.rst:11
 msgid "Adaptive Automaton is the chosen type in addition to its other types."
-msgstr ""
+msgstr "Ten stwór ma dodatkowo wybrany typ oprócz swoich innych typów."
 
 #: ../../BRR.rst:13
 msgid "Other creatures you control of the chosen type get +1/+1."
-msgstr ""
+msgstr "Inne stwory pod twoim władaniem będące wybranego typu dostają +1/+1."
 
 #: ../../BRR.rst:20
 msgid ""
@@ -268,10 +269,11 @@ msgid ""
 "Whenever you cast a spell, you gain 1 life for each spell you've cast this "
 "turn."
 msgstr ""
+"Ilekroć rzucisz czar, zyskaj po 1 życiu za każdy czar rzucony w tej turze."
 
 #: ../../BRR.rst:19
 msgid "Pay 50 life: Aetherflux Reservoir deals 50 damage to any target."
-msgstr ""
+msgstr "Zapłać 50 żyć: Ten artefakt zadaje wskazanemu celowi 50 obrażeń."
 
 #: ../../BRR.rst:24
 msgid ""
@@ -285,6 +287,8 @@ msgid ""
 "Sacrifice a creature: Target player mills cards equal to the sacrificed "
 "creature's power."
 msgstr ""
+"Poświęć stwora: Wskazany gracz mieli tyle kart, ile wynosiła siła "
+"poświęconego stwora."
 
 #: ../../BRR.rst:28
 msgid ""
@@ -295,7 +299,7 @@ msgstr ""
 
 #: ../../BRR.rst:27
 msgid "Sacrifice a creature: Add |colorless|\\ |colorless|."
-msgstr ""
+msgstr "Poświęć stwora: Weź |colorless|\\ |colorless|."
 
 #: ../../BRR.rst:34
 msgid ""
@@ -306,13 +310,15 @@ msgstr ""
 
 #: ../../BRR.rst:31
 msgid "Astral Cornucopia enters the battlefield with X charge counters on it."
-msgstr ""
+msgstr "Ten artefakt wchodzi na pole bitwy mając X znaczników ładunku."
 
 #: ../../BRR.rst:33
 msgid ""
 "|tap|: Choose a color. Add one mana of that color for each charge counter on "
 "Astral Cornucopia."
 msgstr ""
+"|tap|: Wybierz kolor. Weź jedną manę wybranego koloru za każdy znacznik "
+"ładunku na tym artefakcie."
 
 #: ../../BRR.rst:42
 msgid ""
@@ -323,15 +329,15 @@ msgstr ""
 
 #: ../../BRR.rst:37
 msgid "Equipped creature gets +1/+1 for each land you control."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +1/+1 za każdy ląd pod twoim władaniem."
 
 #: ../../BRR.rst:39
 msgid "Equip legendary creature |mana_3|"
-msgstr ""
+msgstr "Wyposaż legendarnego stwora |mana_3|"
 
 #: ../../BRR.rst:41
 msgid "Equip |mana_7|"
-msgstr ""
+msgstr "Wyposaż |mana_7|"
 
 #: ../../BRR.rst:48
 msgid ""
@@ -342,13 +348,15 @@ msgstr ""
 
 #: ../../BRR.rst:45
 msgid "Equipped creature gets +1/+0."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +1/+0."
 
 #: ../../BRR.rst:47 ../../BRR.rst:281
 msgid ""
 "Equip |mana_1| (|mana_1|: Attach to target creature you control. Equip only "
 "as a sorcery.)"
 msgstr ""
+"Wyposaż |mana_1| (|mana_1|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Aktywuj tylko jako obrzęd.)"
 
 #: ../../BRR.rst:52
 msgid ""
@@ -362,6 +370,8 @@ msgid ""
 "|mana_3|, Sacrifice Burnished Hart: Search your library for up to two basic "
 "land cards, put them onto the battlefield tapped, then shuffle."
 msgstr ""
+"|mana_3|, poświęć tego stwora: Wyszukaj w twojej bibliotece co najwyżej dwie "
+"karty bazowych lądów, umieść je przekręcone na polu bitwy, po czym przetasuj."
 
 #: ../../BRR.rst:60
 msgid ""
@@ -372,17 +382,19 @@ msgstr ""
 
 #: ../../BRR.rst:55
 msgid "As Caged Sun enters the battlefield, choose a color."
-msgstr ""
+msgstr "Przy wejściu tego bytu na pole bitwy, wybierz kolor."
 
 #: ../../BRR.rst:57
 msgid "Creatures you control of the chosen color get +1/+1."
-msgstr ""
+msgstr "Stwory wybranego koloru pod twoim władaniem dostają +1/+1."
 
 #: ../../BRR.rst:59
 msgid ""
 "Whenever a land's ability causes you to add one or more mana of the chosen "
 "color, add one additional mana of that color."
 msgstr ""
+"Ilekroć zdolność lądu sprawia, że bierzesz jedną lub więcej many wybranego "
+"koloru, weź jedną dodatkową manę owego koloru."
 
 #: ../../BRR.rst:66
 msgid ""
@@ -394,10 +406,11 @@ msgstr ""
 #: ../../BRR.rst:63
 msgid "Lands you control have \"|tap|: Add one mana of any color.\""
 msgstr ""
+"Lądy pod twoim władaniem mają \"|tap|: Weź jedną manę dowolnego koloru.\""
 
 #: ../../BRR.rst:65
 msgid "|tap|: Add one mana of any color."
-msgstr ""
+msgstr "|tap|: Weź jedną manę dowolnego koloru."
 
 #: ../../BRR.rst:72
 msgid ""
@@ -408,13 +421,13 @@ msgstr ""
 
 #: ../../BRR.rst:69
 msgid "|mana_1|, |tap|, Sacrifice Chromatic Star: Add one mana of any color."
-msgstr ""
+msgstr "|mana_1|, |tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru."
 
 #: ../../BRR.rst:71
 msgid ""
 "When Chromatic Star is put into a graveyard from the battlefield, draw a "
 "card."
-msgstr ""
+msgstr "Kiedy ten artefakt trafi do cmentarza z pola bitwy, dobierz kartę."
 
 #: ../../BRR.rst:78
 msgid ""
@@ -428,10 +441,12 @@ msgid ""
 "As Cloud Key enters the battlefield, choose artifact, creature, enchantment, "
 "instant, or sorcery."
 msgstr ""
+"Przy wejściu tego bytu na pole bitwy wybierz artefakt, stwór, urok, sztuczka "
+"lub obrzęd."
 
 #: ../../BRR.rst:77
 msgid "Spells you cast of the chosen type cost |mana_1| less to cast."
-msgstr ""
+msgstr "Rzucane przez ciebie czary wybranego typu kosztują o |mana_1| mniej."
 
 #: ../../BRR.rst:82
 msgid ""
@@ -444,6 +459,8 @@ msgstr ""
 msgid ""
 "Each spell costs |mana_3| more to cast except during its controller's turn."
 msgstr ""
+"Rzucenie każdego czaru kosztuje o |mana_3| więcej, chyba że podczas tury "
+"rzucającego."
 
 #: ../../BRR.rst:88
 msgid ""
@@ -454,7 +471,7 @@ msgstr ""
 
 #: ../../BRR.rst:85
 msgid "Door to Nothingness enters the battlefield tapped."
-msgstr ""
+msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
 
 #: ../../BRR.rst:87
 msgid ""
@@ -462,6 +479,9 @@ msgid ""
 "|mana_r|\\ |mana_g|\\ |mana_g|, |tap|, Sacrifice Door to Nothingness: Target "
 "player loses the game."
 msgstr ""
+"|mana_w|\\ |mana_w|\\ |mana_u|\\ |mana_u|\\ |mana_b|\\ |mana_b|\\ |mana_r|\\ "
+"|mana_r|\\ |mana_g|\\ |mana_g|, |tap|, poświęć ten artefakt: Wskazany gracz "
+"przegrywa grę."
 
 #: ../../BRR.rst:94
 msgid ""
@@ -472,13 +492,15 @@ msgstr ""
 
 #: ../../BRR.rst:91
 msgid "When Elsewhere Flask enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../BRR.rst:93
 msgid ""
 "Sacrifice Elsewhere Flask: Choose a basic land type. Each land you control "
 "becomes that type until end of turn."
 msgstr ""
+"Poświęć ten byt: Wybierz bazowy typ lądu. Do końca tury każdy ląd pod twoim "
+"władaniem staje się owego typu."
 
 #: ../../BRR.rst:98
 msgid ""
@@ -489,7 +511,7 @@ msgstr ""
 
 #: ../../BRR.rst:97
 msgid "Artifact spells you cast cost |mana_1| less to cast."
-msgstr ""
+msgstr "Rzucanie czarów artefaktów kosztuje cię o |mana_1| mniej."
 
 #: ../../BRR.rst:102
 msgid ""
@@ -500,7 +522,7 @@ msgstr ""
 
 #: ../../BRR.rst:101
 msgid "|tap|: Add three mana of any one color."
-msgstr ""
+msgstr "|tap|: Weź trzy many w dowolnym jednym kolorze."
 
 #: ../../BRR.rst:106
 msgid ""
@@ -517,6 +539,11 @@ msgid ""
 "Mountain, Goblin Charbelcher deals double that damage instead. Put the "
 "revealed cards on the bottom of your library in any order."
 msgstr ""
+"|mana_3|, |tap|: Ujawnij karty z wierzchu twojej biblioteki aż ujawnisz "
+"kartę lądu. Ten stwór zadaje wskazanemu celowi tyle obrażeń, ile ujawniono w "
+"ten sposób nielądowych kart. Jeśli ujawniona karta jest Górą, ten stwór "
+"zamiast tego zadaje dwukrotność owych obrażeń. Umieść ujawnione karty "
+"dowolnie na spodzie twojej biblioteki."
 
 #: ../../BRR.rst:112
 msgid ""
@@ -530,10 +557,12 @@ msgid ""
 "At the beginning of combat on your turn, create a token that's a copy of "
 "equipped creature, except the token isn't legendary. That token gains haste."
 msgstr ""
+"Na początku potyczki w twojej turze stwórz żeton będący kopią wyposażonego "
+"stwora, tylko że ów żeton nie jest legendarny. Ów żeton zyskuje pośpiech."
 
 #: ../../BRR.rst:111
 msgid "Equip |mana_5|"
-msgstr ""
+msgstr "Wyposaż |mana_5|"
 
 #: ../../BRR.rst:116
 msgid ""
@@ -547,6 +576,8 @@ msgid ""
 "At the beginning of each player's draw step, if Howling Mine is untapped, "
 "that player draws an additional card."
 msgstr ""
+"Na początku kroku dobierania każdego z graczy, jeśli ten artefakt jest "
+"odkręcony, ów gracz dobiera dodatkową kartę."
 
 #: ../../BRR.rst:120
 msgid ""
@@ -560,6 +591,8 @@ msgid ""
 "When Ichor Wellspring enters the battlefield or is put into a graveyard from "
 "the battlefield, draw a card."
 msgstr ""
+"Kiedy ten artefakt wejdzie na pole bitwy lub trafia z pola bitwy do "
+"cmentarza, dobierz kartę."
 
 #: ../../BRR.rst:124
 msgid ""
@@ -574,6 +607,9 @@ msgid ""
 "those spells. Each artifact you tap after you're done activating mana "
 "abilities pays for |mana_1|.)"
 msgstr ""
+"Rzucane przez ciebie nieartefaktowe czary mają improwizację. (Twoje "
+"artefakty mogą pomóc w rzucaniu owych czarów. Każdy artefakt, który "
+"przekręcisz po aktywacji zdolności dających manę, opłaca |mana_1|.)"
 
 #: ../../BRR.rst:128
 msgid ""
@@ -587,6 +623,8 @@ msgid ""
 "At the beginning of your upkeep, you gain X life, where X is the number of "
 "cards in your hand minus 4."
 msgstr ""
+"Na początku twojego kroku utrzymania, zyskaj X żyć, gdzie X jest liczbą kart "
+"w twojej ręce minus 4."
 
 #: ../../BRR.rst:132
 msgid ""
@@ -597,7 +635,7 @@ msgstr ""
 
 #: ../../BRR.rst:131
 msgid "|mana_2|, |tap|: Draw a card, then discard a card."
-msgstr ""
+msgstr "|mana_2|, |tap|: Dobierz kartę, po czym odrzuć kartę."
 
 #: ../../BRR.rst:136
 msgid ""
@@ -611,6 +649,8 @@ msgid ""
 "|mana_3|, |tap|: Search your library for a basic land card, reveal it, put "
 "it into your hand, then shuffle."
 msgstr ""
+"|mana_3|, |tap|: Wyszukaj w twojej bibliotece kartę bazowego lądu, ujawnij "
+"ją, umieść w twojej ręce, po czym przetasuj."
 
 #: ../../BRR.rst:140
 msgid ""
@@ -624,6 +664,8 @@ msgid ""
 "|mana_5|, |tap|: Target player mills X cards, where X is the number of cards "
 "in that player's graveyard."
 msgstr ""
+"|mana_5|, |tap|: Wskazany gracz mieli X kart, gdzie X jest liczbą kart w "
+"cmentarzu owego gracza."
 
 #: ../../BRR.rst:146
 msgid ""
@@ -636,12 +678,16 @@ msgstr ""
 msgid ""
 "|tap|, Discard a card: Up to one target creature can't be blocked this turn."
 msgstr ""
+"|tap|, odrzuć kartę: Co najwyżej jeden wskazany stwór nie może być blokowany "
+"w tej turze."
 
 #: ../../BRR.rst:145
 msgid ""
 "Whenever Key to the City becomes untapped, you may pay |mana_2|. If you do, "
 "draw a card."
 msgstr ""
+"Ilekroć ten artefakt zostanie odkręcony, możesz zapłacić |mana_2|. Jeśli tak "
+"zrobisz, dobierz kartę."
 
 #: ../../BRR.rst:150
 msgid ""
@@ -655,6 +701,8 @@ msgid ""
 "|tap|: Target permanent becomes an artifact in addition to its other types "
 "until end of turn."
 msgstr ""
+"|tap|: Wskazany byt staje się dodatkowo artefaktem oprócz swoich pozostałych "
+"typów."
 
 #: ../../BRR.rst:154
 msgid ""
@@ -665,7 +713,7 @@ msgstr ""
 
 #: ../../BRR.rst:153
 msgid "Nonartifact spells cost |mana_1| more to cast."
-msgstr ""
+msgstr "Rzucanie nieartefaktowych czarów kosztuje o |mana_1| więcej."
 
 #: ../../BRR.rst:162
 msgid ""
@@ -676,17 +724,20 @@ msgstr ""
 
 #: ../../BRR.rst:157
 msgid "|tap|, Put a page counter on Mazemind Tome: Scry 1."
-msgstr ""
+msgstr "|tap|, umieść znacznik strony na tym artefakcie: Wróż 1."
 
 #: ../../BRR.rst:159
 msgid "|mana_2|, |tap|, Put a page counter on Mazemind Tome: Draw a card."
 msgstr ""
+"|mana_2|, |tap|, umieść znacznik strony na tym artefakcie: Dobierz kartę."
 
 #: ../../BRR.rst:161
 msgid ""
 "When there are four or more page counters on Mazemind Tome, exile it. If you "
 "do, you gain 4 life."
 msgstr ""
+"Kiedy na tym artefakcie są co najmniej cztery znaczniki strony, wygnaj go. "
+"Jeśli tak zrobisz, zyskaj 4 życia."
 
 #: ../../BRR.rst:166
 msgid ""
@@ -699,7 +750,7 @@ msgstr ""
 msgid ""
 "Whenever a permanent becomes untapped, that permanent's controller mills a "
 "card."
-msgstr ""
+msgstr "Ilekroć byt zostanie odkręcony, jego władca mieli kartę."
 
 #: ../../BRR.rst:170
 msgid ""
@@ -710,7 +761,7 @@ msgstr ""
 
 #: ../../BRR.rst:169
 msgid "|mana_2|, |tap|: Target player mills two cards."
-msgstr ""
+msgstr "|mana_2|, |tap|: Wskazany gracz mieli dwie karty."
 
 #: ../../BRR.rst:174
 msgid ""
@@ -724,6 +775,8 @@ msgid ""
 "Whenever an opponent draws a card, you may pay |mana_1|. If you do, draw a "
 "card."
 msgstr ""
+"Ilekroć przeciwnik dobiera kartę, możesz zapłacić |mana_1|. Jeśli tak "
+"zrobisz, dobierz kartę."
 
 #: ../../BRR.rst:178
 msgid ""
@@ -737,6 +790,8 @@ msgid ""
 "|tap|, Sacrifice Mishra's Bauble: Look at the top card of target player's "
 "library. Draw a card at the beginning of the next turn's upkeep."
 msgstr ""
+"|tap|, poświęć ten artefakt: Spójrz na wierzchnią kartę biblioteki "
+"wskazanego gracza. Dobierz kartę na początku kroku utrzymania następnej tury."
 
 #: ../../BRR.rst:182
 msgid ""
@@ -750,6 +805,8 @@ msgid ""
 "|tap|: Add one mana of any color among legendary creatures and planeswalkers "
 "you control."
 msgstr ""
+"|tap|: Weź jedną manę w kolorze występującym pośród będących pod twoim "
+"władaniem legendarnych stworów i wędrowców."
 
 #: ../../BRR.rst:190
 msgid ""
@@ -761,16 +818,19 @@ msgstr ""
 #: ../../BRR.rst:185
 msgid "You may look at the top card of your library any time."
 msgstr ""
+"Możesz patrzeć na wierzchnią kartę twojej biblioteki w dowolnym momencie."
 
 #: ../../BRR.rst:187
 msgid ""
 "You may cast artifact spells and colorless spells from the top of your "
 "library."
 msgstr ""
+"Możesz rzucać czary artefaktów oraz bezkolorowe czary z wierzchu twojej "
+"biblioteki."
 
 #: ../../BRR.rst:189
 msgid "|tap|, Pay 1 life: Exile the top card of your library."
-msgstr ""
+msgstr "|tap|, zapłać 1 życie: Wygnaj wierzchnią kartę twojej biblioteki."
 
 #: ../../BRR.rst:194
 msgid ""
@@ -781,7 +841,7 @@ msgstr ""
 
 #: ../../BRR.rst:193 ../../BRR.rst:213 ../../BRR.rst:247
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 #: ../../BRR.rst:198
 msgid ""
@@ -792,7 +852,7 @@ msgstr ""
 
 #: ../../BRR.rst:197
 msgid "|mana_5|, |tap|, Exile Perilous Vault: Exile all nonland permanents."
-msgstr ""
+msgstr "|mana_5|, |tap|. wygnaj ten artefakt: Wygnaj wszystkie nie-lądowe byty."
 
 #: ../../BRR.rst:204
 msgid ""
@@ -803,13 +863,15 @@ msgstr ""
 
 #: ../../BRR.rst:201
 msgid "As Phyrexian Processor enters the battlefield, pay any amount of life."
-msgstr ""
+msgstr "Przy wejściu tego bytu na pole bitwy, zapłać dowolną liczbę żyć."
 
 #: ../../BRR.rst:203
 msgid ""
 "|mana_4|, |tap|: Create an X/X black Phyrexian Minion creature token, where "
 "X is the life paid as Phyrexian Processor entered the battlefield."
 msgstr ""
+"|mana_4|, |tap|: Stwórz żeton czarnego stwora Phyrexian Sługus X/X, gdzie X "
+"jest liczbą żyć wydanych przy wejściu niniejszego na pole bitwy."
 
 #: ../../BRR.rst:210
 msgid ""
@@ -821,11 +883,11 @@ msgstr ""
 #: ../../BRR.rst:207
 msgid ""
 "As Phyrexian Revoker enters the battlefield, choose a nonland card name."
-msgstr ""
+msgstr "Przy wejściu tego bytu na pole bitwy nazwij nie-lądową kartę."
 
 #: ../../BRR.rst:209
 msgid "Activated abilities of sources with the chosen name can't be activated."
-msgstr ""
+msgstr "Aktywowane zdolności źródła o wybranej nazwie nie mogą być aktywowane."
 
 #: ../../BRR.rst:216
 msgid ""
@@ -836,7 +898,7 @@ msgstr ""
 
 #: ../../BRR.rst:215
 msgid "You can't lose the game and your opponents can't win the game."
-msgstr ""
+msgstr "Nie możesz przegrać gry, a twoi przeciwnicy nie mogą wygrać gry."
 
 #: ../../BRR.rst:222
 msgid ""
@@ -850,6 +912,8 @@ msgid ""
 "When Precursor Golem enters the battlefield, create two 3/3 colorless Golem "
 "artifact creature tokens."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, stwórz dwa żetony bezkolorowego "
+"artefaktowego stwora Golem 3/3."
 
 #: ../../BRR.rst:221
 msgid ""
@@ -857,6 +921,9 @@ msgid ""
 "single Golem, that player copies that spell for each other Golem that spell "
 "could target. Each copy targets a different one of those Golems."
 msgstr ""
+"Ilekroć gracz rzuci czar sztuczki lub obrzędu wskazujący tylko jednego "
+"Golema, ów gracz kopiuje ów czar za każdego innego Golema, którego ów czar "
+"mógłby wskazywać. Każda kopia wskazuje innego z owych Golemów."
 
 #: ../../BRR.rst:226
 msgid ""
@@ -867,7 +934,7 @@ msgstr ""
 
 #: ../../BRR.rst:225
 msgid "|tap|: Add |colorless|. You gain 1 life."
-msgstr ""
+msgstr "|tap|: Weź |colorless|. Zyskaj 1 życie."
 
 #: ../../BRR.rst:232
 msgid ""
@@ -880,11 +947,11 @@ msgstr ""
 msgid ""
 "Psychosis Crawler's power and toughness are each equal to the number of "
 "cards in your hand."
-msgstr ""
+msgstr "Siła i wytrzymałość tej karty są obie równe liczbie kart w twojej ręce."
 
 #: ../../BRR.rst:231
 msgid "Whenever you draw a card, each opponent loses 1 life."
-msgstr ""
+msgstr "Ilekroć dobierzesz kartę, każdy przeciwnik traci po 1 życiu."
 
 #: ../../BRR.rst:236
 msgid ""
@@ -898,6 +965,7 @@ msgid ""
 "|mana_4|, |tap|: You may put a creature card from your hand onto the "
 "battlefield."
 msgstr ""
+"|mana_4|, |tap|: Możesz umieścić kartę stwora z twojej ręki na polu bitwy."
 
 #: ../../BRR.rst:244
 msgid ""
@@ -908,17 +976,19 @@ msgstr ""
 
 #: ../../BRR.rst:239
 msgid "Equipped creature has deathtouch."
-msgstr ""
+msgstr "Wyposażony stwór ma dotyk śmierci."
 
 #: ../../BRR.rst:241
 msgid ""
 "Whenever equipped creature deals combat damage to a player, that player "
 "loses half their life, rounded up."
 msgstr ""
+"Ilekroć wyposażony stwór zada graczowi obrażenia bojowe, ów gracz traci "
+"połowę swoich żyć, zaokrąglając w górę."
 
 #: ../../BRR.rst:243
 msgid "Equip |mana_3|"
-msgstr ""
+msgstr "Wyposaż |mana_3|"
 
 #: ../../BRR.rst:252
 msgid ""
@@ -932,6 +1002,8 @@ msgid ""
 "Whenever you cast a spell, put a +1/+1 counter on Ramos, Dragon Engine for "
 "each of that spell's colors."
 msgstr ""
+"Ilekroć rzucisz czar, umieść znacznik +1/+1 na tym stworze za każdy z "
+"kolorów owego czaru."
 
 #: ../../BRR.rst:251
 msgid ""
@@ -939,6 +1011,9 @@ msgid ""
 "mana_u|\\ |mana_b|\\ |mana_b|\\ |mana_r|\\ |mana_r|\\ |mana_g|\\ |mana_g|. "
 "Activate only once each turn."
 msgstr ""
+"Usuń pięć znaczników +1/+1 z tego stwora: Weź |mana_w|\\ |mana_w|\\ |mana_u|"
+"\\ |mana_u|\\ |mana_b|\\ |mana_b|\\ |mana_r|\\ |mana_r|\\ |mana_g|\\ |mana_g|"
+". Aktywuj tylko raz na turę."
 
 #: ../../BRR.rst:258
 msgid ""
@@ -952,10 +1027,12 @@ msgid ""
 "Equipped creature has first strike and gets +X/+0, where X is the number of "
 "instant and sorcery cards in your graveyard."
 msgstr ""
+"Wyposażony stwór ma pierwszy cios i dostaje +X/+0, gdzie X jest liczbą kart "
+"sztuczek i obrzędów w twoim cmentarzu."
 
 #: ../../BRR.rst:257 ../../BRR.rst:321
 msgid "Equip |mana_2|"
-msgstr ""
+msgstr "Wyposaż |mana_2|"
 
 #: ../../BRR.rst:262
 msgid ""
@@ -970,6 +1047,9 @@ msgid ""
 "graveyard from the battlefield, return to your hand target artifact card in "
 "your graveyard with lesser mana value."
 msgstr ""
+"Ilekroć ten stwór lub inny artefakt pod twoim władaniem zostanie umieszczony "
+"w cmentarzu z pola bitwy, przywróć z twojego cmentarza do twojej ręki "
+"wskazaną kartę artefaktu o mniejszym skrócie many."
 
 #: ../../BRR.rst:266
 msgid ""
@@ -983,6 +1063,8 @@ msgid ""
 "You may have Sculpting Steel enter the battlefield as a copy of any artifact "
 "on the battlefield."
 msgstr ""
+"Możesz sprawić, że ta karta wejdzie na pole bitwy jako kopia dowolnego "
+"artefaktu na polu bitwy."
 
 #: ../../BRR.rst:270
 msgid ""
@@ -997,6 +1079,9 @@ msgid ""
 "an Assembly-Worker creature card, reveal it, put it into your hand, then "
 "shuffle."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"kartę stwora typu Składacz, ujawnij ją, umieść ją w twojej ręce, po czym "
+"przetasuj."
 
 #: ../../BRR.rst:276
 msgid ""
@@ -1010,12 +1095,16 @@ msgid ""
 "Imprint — When Semblance Anvil enters the battlefield, you may exile a "
 "nonland card from your hand."
 msgstr ""
+"Odlew — Kiedy ten byt wejdzie na pole bitwy, możesz wygnać nielądową kartę z "
+"twojej ręki."
 
 #: ../../BRR.rst:275
 msgid ""
 "Spells you cast that share a card type with the exiled card cost |mana_2| "
 "less to cast."
 msgstr ""
+"Rzucanie czarów mających z wygnaną kartą wspólny typ karty kosztuje cię o "
+"|mana_2| mniej."
 
 #: ../../BRR.rst:282
 msgid ""
@@ -1029,6 +1118,8 @@ msgid ""
 "Whenever equipped creature attacks alone, it gets +1/+1 until end of turn "
 "for each other creature you control."
 msgstr ""
+"Ilekroć wyposażony stwór atakuje samotnie, do końca tury dostaje +1/+1 za "
+"każdego innego stwora pod twoim władaniem."
 
 #: ../../BRR.rst:290
 msgid ""
@@ -1041,15 +1132,15 @@ msgstr ""
 msgid ""
 "When Soul-Guide Lantern enters the battlefield, exile target card from a "
 "graveyard."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wygnaj wskazaną kartę z cmentarza."
 
 #: ../../BRR.rst:287
 msgid "|tap|, Sacrifice Soul-Guide Lantern: Exile each opponent's graveyard."
-msgstr ""
+msgstr "|tap|, poświęć ten artefakt: Wygnaj cmentarz każdego przeciwnika."
 
 #: ../../BRR.rst:289
 msgid "|mana_1|, |tap|, Sacrifice Soul-Guide Lantern: Draw a card."
-msgstr ""
+msgstr "|mana_1|, |tap|, poświęć ten artefakt: Dobierz kartę."
 
 #: ../../BRR.rst:294
 msgid ""
@@ -1061,6 +1152,8 @@ msgstr ""
 #: ../../BRR.rst:293
 msgid "|tap|, Tap an untapped creature you control: Add one mana of any color."
 msgstr ""
+"|tap|, przekręć odkręconego stwora pod twoim władaniem: Weź jedną manę "
+"dowolnego koloru."
 
 #: ../../BRR.rst:306
 msgid ""
@@ -1071,23 +1164,23 @@ msgstr ""
 
 #: ../../BRR.rst:297
 msgid "|mana_1|: Untap Staff of Domination."
-msgstr ""
+msgstr "|mana_1|: Odkręć ten byt."
 
 #: ../../BRR.rst:299
 msgid "|mana_2|, |tap|: You gain 1 life."
-msgstr ""
+msgstr "|mana_2|, |tap|: Zyskaj 1 życie."
 
 #: ../../BRR.rst:301
 msgid "|mana_3|, |tap|: Untap target creature."
-msgstr ""
+msgstr "|mana_3|, |tap|: Odkręć wskazanego stwora."
 
 #: ../../BRR.rst:303
 msgid "|mana_4|, |tap|: Tap target creature."
-msgstr ""
+msgstr "|mana_4|, |tap|: Przekręć wskazanego stwora."
 
 #: ../../BRR.rst:305
 msgid "|mana_5|, |tap|: Draw a card."
-msgstr ""
+msgstr "|mana_5|, |tap|: Dobierz kartę."
 
 #: ../../BRR.rst:310
 msgid ""
@@ -1101,6 +1194,8 @@ msgid ""
 "When Sundering Titan enters or leaves the battlefield, choose a land of each "
 "basic land type, then destroy those lands."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy lub je opuści, wybierz po jednym lądzie "
+"każdego bazowego typu, po czym zniszcz owe lądy."
 
 #: ../../BRR.rst:316
 msgid ""
@@ -1114,10 +1209,12 @@ msgid ""
 "Equipped creature has hexproof and haste. (It can't be the target of spells "
 "or abilities your opponents control.)"
 msgstr ""
+"Wyposażony stwór ma pośpiech i antyklątwę. (Ten stwór nie może być "
+"wskazywany przez czary lub zdolności pod władaniem twoich przeciwników.)"
 
 #: ../../BRR.rst:315
 msgid "Equip |mana_1|"
-msgstr ""
+msgstr "Wyposaż |mana_1|"
 
 #: ../../BRR.rst:324
 msgid ""
@@ -1128,7 +1225,7 @@ msgstr ""
 
 #: ../../BRR.rst:319
 msgid "Equipped creature gets +1/+2."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +1/+2."
 
 #: ../../BRR.rst:323
 msgid ""
@@ -1136,6 +1233,9 @@ msgid ""
 "return Sword of the Meek from your graveyard to the battlefield, then attach "
 "it to that creature."
 msgstr ""
+"Ilekroć na pole bitwy pod twoim władaniem wejdzie stwór 1/1, możesz "
+"przywrócić tę kartę z twojego cmentarza na pole bitwy, po czym dołączyć ją "
+"do owego stwora."
 
 #: ../../BRR.rst:328
 msgid ""
@@ -1146,7 +1246,7 @@ msgstr ""
 
 #: ../../BRR.rst:327
 msgid "Noncreature spells cost |mana_1| more to cast."
-msgstr ""
+msgstr "Rzucanie nie-stworowych czarów kosztuje o |mana_1| więcej."
 
 #: ../../BRR.rst:332
 msgid ""
@@ -1158,6 +1258,8 @@ msgstr ""
 #: ../../BRR.rst:331
 msgid "Untap all artifacts you control during each other player's untap step."
 msgstr ""
+"Odkręć wszystkie artefakty pod twoim władaniem podczas kroku odkręcania "
+"każdego innego gracza."
 
 #: ../../BRR.rst:336
 msgid ""
@@ -1171,6 +1273,8 @@ msgid ""
 "Whenever you gain life, you may pay |mana_x|, where X is less than or equal "
 "to the amount of life you gained. If you do, draw X cards."
 msgstr ""
+"Ilekroć zyskasz życia, możesz zapłacić |mana_x|, gdzie X jest mniejsze lub "
+"równe zyskanej liczbie żyć. Jeśli tak zrobisz, dobierz X kart."
 
 #: ../../BRR.rst:341
 msgid ""
@@ -1181,7 +1285,7 @@ msgstr ""
 
 #: ../../BRR.rst:339
 msgid "Deathtouch, lifelink"
-msgstr ""
+msgstr "Dotyk śmierci, więź życia"
 
 #: ../../BRR.rst:341
 msgid ""
@@ -1189,3 +1293,6 @@ msgid ""
 "creature token with deathtouch and a 3/3 colorless Phyrexian Wurm artifact "
 "creature token with lifelink."
 msgstr ""
+"Kiedy ten stwór umrze, stwórz żeton bezkolorowego artefaktowego stwora "
+"Phyrexiański Żmij 3/3 z dotykiem śmierci oraz żeton bezkolorowego "
+"artefaktowego stwora Phyrexiański Żmij 3/3 z więzią życia."
