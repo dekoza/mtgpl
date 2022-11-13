@@ -1,0 +1,897 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013-2022, Dominik Kozaczko
+# This file is distributed under the same license as the MTG po polsku package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MTG po polsku 2022.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-13 22:49+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../symbols.rst:3
+msgid "{C}"
+msgstr ""
+
+#: ../../symbols.rst:5
+msgid "{T}"
+msgstr ""
+
+#: ../../symbols.rst:7
+msgid "{Q}"
+msgstr ""
+
+#: ../../symbols.rst:9
+msgid "{U}"
+msgstr ""
+
+#: ../../symbols.rst:11
+msgid "{W}"
+msgstr ""
+
+#: ../../symbols.rst:13
+msgid "{B}"
+msgstr ""
+
+#: ../../symbols.rst:15
+msgid "{G}"
+msgstr ""
+
+#: ../../symbols.rst:17
+msgid "{R}"
+msgstr ""
+
+#: ../../symbols.rst:19
+msgid "{2/U}"
+msgstr ""
+
+#: ../../symbols.rst:21
+msgid "{2/W}"
+msgstr ""
+
+#: ../../symbols.rst:23
+msgid "{2/B}"
+msgstr ""
+
+#: ../../symbols.rst:25
+msgid "{2/G}"
+msgstr ""
+
+#: ../../symbols.rst:27
+msgid "{2/R}"
+msgstr ""
+
+#: ../../symbols.rst:29
+msgid "{U/P}"
+msgstr ""
+
+#: ../../symbols.rst:31
+msgid "{W/P}"
+msgstr ""
+
+#: ../../symbols.rst:33
+msgid "{B/P}"
+msgstr ""
+
+#: ../../symbols.rst:35
+msgid "{G/P}"
+msgstr ""
+
+#: ../../symbols.rst:37
+msgid "{R/P}"
+msgstr ""
+
+#: ../../symbols.rst:39
+msgid "{X}"
+msgstr ""
+
+#: ../../symbols.rst:41
+msgid "{P}"
+msgstr ""
+
+#: ../../symbols.rst:43
+msgid "{0}"
+msgstr ""
+
+#: ../../symbols.rst:45
+msgid "{1}"
+msgstr ""
+
+#: ../../symbols.rst:47
+msgid "{2}"
+msgstr ""
+
+#: ../../symbols.rst:49
+msgid "{3}"
+msgstr ""
+
+#: ../../symbols.rst:51
+msgid "{4}"
+msgstr ""
+
+#: ../../symbols.rst:53
+msgid "{5}"
+msgstr ""
+
+#: ../../symbols.rst:55
+msgid "{6}"
+msgstr ""
+
+#: ../../symbols.rst:57
+msgid "{7}"
+msgstr ""
+
+#: ../../symbols.rst:59
+msgid "{8}"
+msgstr ""
+
+#: ../../symbols.rst:61
+msgid "{9}"
+msgstr ""
+
+#: ../../symbols.rst:63
+msgid "{10}"
+msgstr ""
+
+#: ../../symbols.rst:65
+msgid "{11}"
+msgstr ""
+
+#: ../../symbols.rst:67
+msgid "{12}"
+msgstr ""
+
+#: ../../symbols.rst:69
+msgid "{13}"
+msgstr ""
+
+#: ../../symbols.rst:71
+msgid "{14}"
+msgstr ""
+
+#: ../../symbols.rst:73
+msgid "{15}"
+msgstr ""
+
+#: ../../symbols.rst:75
+msgid "{16}"
+msgstr ""
+
+#: ../../symbols.rst:77
+msgid "{20}"
+msgstr ""
+
+#: ../../symbols.rst:79
+msgid "{(r/g)}"
+msgstr ""
+
+#: ../../symbols.rst:81
+msgid "{(r/w)}"
+msgstr ""
+
+#: ../../symbols.rst:83
+msgid "{(u/b)}"
+msgstr ""
+
+#: ../../symbols.rst:85
+msgid "{(u/r)}"
+msgstr ""
+
+#: ../../symbols.rst:87
+msgid "{(w/b)}"
+msgstr ""
+
+#: ../../symbols.rst:89
+msgid "{(w/u)}"
+msgstr ""
+
+#: ../../symbols.rst:91
+msgid "{(b/g)}"
+msgstr ""
+
+#: ../../symbols.rst:93
+msgid "{(b/r)}"
+msgstr ""
+
+#: ../../symbols.rst:95
+msgid "{(g/w)}"
+msgstr ""
+
+#: ../../symbols.rst:97
+msgid "{(g/u)}"
+msgstr ""
+
+#: ../../symbols.rst:99
+msgid "{(g/u/p)}"
+msgstr ""
+
+#: ../../symbols.rst:101
+msgid "{(g/w/p)}"
+msgstr ""
+
+#: ../../symbols.rst:103
+msgid "{S}"
+msgstr ""
+
+#: ../../symbols.rst:105
+msgid "{E}"
+msgstr ""
+
+#: ../../symbols.rst:107
+msgid "{CHAOS}"
+msgstr ""
+
+#: ../../symbols.rst:109
+msgid "{PW}"
+msgstr ""
+
+#: ../../BRR.rst:5
+msgid ":mtgexp:`BRR` The Brothers' War Retro Artifacts"
+msgstr ""
+
+#: ../../BRR.rst:14
+msgid ":mtgtip:`Adaptive Automaton<https://cards.scryfall.io/border_crop/front/b/0/b0724f3e-a29b-49f1-badc-da7dec5c697c.jpg?1667428906|https://scryfall.com/card/brr/1/adaptive-automaton?utm_source=api>`"
+msgstr ""
+
+#: ../../BRR.rst:9
+msgid "As Adaptive Automaton enters the battlefield, choose a creature type."
+msgstr ""
+
+#: ../../BRR.rst:11
+msgid "Adaptive Automaton is the chosen type in addition to its other types."
+msgstr ""
+
+#: ../../BRR.rst:13
+msgid "Other creatures you control of the chosen type get +1/+1."
+msgstr ""
+
+#: ../../BRR.rst:20
+msgid ":mtgtip:`Aetherflux Reservoir<https://cards.scryfall.io/border_crop/front/7/f/7f5342d5-b8a6-46ee-afd7-b333bb836a7c.jpg?1667474429|https://scryfall.com/card/brr/2/aetherflux-reservoir?utm_source=api>`"
+msgstr ""
+
+#: ../../BRR.rst:17
+msgid "Whenever you cast a spell, you gain 1 life for each spell you've cast this turn."
+msgstr ""
+
+#: ../../BRR.rst:19
+msgid "Pay 50 life: Aetherflux Reservoir deals 50 damage to any target."
+msgstr ""
+
+#: ../../BRR.rst:24
+msgid ":mtgtip:`Altar of Dementia<https://cards.scryfall.io/border_crop/front/8/b/8bab577a-4d2b-4b52-a861-1a43fdaa3f97.jpg?1667216342|https://scryfall.com/card/brr/3/altar-of-dementia?utm_source=api>`"
+msgstr ""
+
+#: ../../BRR.rst:23
+msgid "Sacrifice a creature: Target player mills cards equal to the sacrificed creature's power."
+msgstr ""
+
+#: ../../BRR.rst:28
+msgid ":mtgtip:`Ashnod's Altar<https://cards.scryfall.io/border_crop/front/0/f/0f2d0ee5-3173-4a03-be45-2fe9ea49cdc3.jpg?1666997356|https://scryfall.com/card/brr/4/ashnods-altar?utm_source=api>`"
+msgstr ""
+
+#: ../../BRR.rst:27
+msgid "Sacrifice a creature: Add |colorless|\\ |colorless|."
+msgstr ""
+
+#: ../../BRR.rst:34
+msgid ":mtgtip:`Astral Cornucopia<https://cards.scryfall.io/border_crop/front/4/e/4ea24f0f-7bda-459c-a962-bde22065d7cf.jpg?1667435563|https://scryfall.com/card/brr/5/astral-cornucopia?utm_source=api>`"
+msgstr ""
+
+#: ../../BRR.rst:31
+msgid "Astral Cornucopia enters the battlefield with X charge counters on it."
+msgstr ""
+
+#: ../../BRR.rst:33
+msgid "|tap|: Choose a color. Add one mana of that color for each charge counter on Astral Cornucopia."
+msgstr ""
+
+#: ../../BRR.rst:42
+msgid ":mtgtip:`Blackblade Reforged<https://cards.scryfall.io/border_crop/front/2/c/2cde7ae2-87b9-43d0-87cf-38c8706dd95e.jpg?1667435596|https://scryfall.com/card/brr/6/blackblade-reforged?utm_source=api>`"
+msgstr ""
+
+#: ../../BRR.rst:37
+msgid "Equipped creature gets +1/+1 for each land you control."
+msgstr ""
+
+#: ../../BRR.rst:39
+msgid "Equip legendary creature |mana_3|"
+msgstr ""
+
+#: ../../BRR.rst:41
+msgid "Equip |mana_7|"
+msgstr ""
+
+#: ../../BRR.rst:48
+msgid ":mtgtip:`Bone Saw<https://cards.scryfall.io/border_crop/front/5/d/5d74a0f3-3db4-444c-a879-f3f3db2e27a0.jpg?1667474432|https://scryfall.com/card/brr/7/bone-saw?utm_source=api>`"
+msgstr ""
+
+#: ../../BRR.rst:45
+msgid "Equipped creature gets +1/+0."
+msgstr ""
+
+#: ../../BRR.rst:47
+#: ../../BRR.rst:281
+msgid "Equip |mana_1| (|mana_1|: Attach to target creature you control. Equip only as a sorcery.)"
+msgstr ""
+
+#: ../../BRR.rst:52
+msgid ":mtgtip:`Burnished Hart<https://cards.scryfall.io/border_crop/front/6/4/64f949db-07bd-4842-bc01-438158e640a8.jpg?1667435641|https://scryfall.com/card/brr/8/burnished-hart?utm_source=api>`"
+msgstr ""
+
+#: ../../BRR.rst:51
+msgid "|mana_3|, Sacrifice Burnished Hart: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle."
+msgstr ""
+
+#: ../../BRR.rst:60
+msgid ":mtgtip:`Caged Sun<https://cards.scryfall.io/border_crop/front/b/e/be8e7286-4166-4d79-8fd6-4232826dc8d8.jpg?1667474426|https://scryfall.com/card/brr/9/caged-sun?utm_source=api>`"
+msgstr ""
+
+#: ../../BRR.rst:55
+msgid "As Caged Sun enters the battlefield, choose a color."
+msgstr ""
+
+#: ../../BRR.rst:57
+msgid "Creatures you control of the chosen color get +1/+1."
+msgstr ""
+
+#: ../../BRR.rst:59
+msgid "Whenever a land's ability causes you to add one or more mana of the chosen color, add one additional mana of that color."
+msgstr ""
+
+#: ../../BRR.rst:66
+msgid ":mtgtip:`Chromatic Lantern<https://cards.scryfall.io/border_crop/front/1/5/15a0977c-e3cd-4963-935b-29cf3cbd28ff.jpg?1667435685|https://scryfall.com/card/brr/10/chromatic-lantern?utm_source=api>`"
+msgstr ""
+
+#: ../../BRR.rst:63
+msgid "Lands you control have \"|tap|: Add one mana of any color.\""
+msgstr ""
+
+#: ../../BRR.rst:65
+msgid "|tap|: Add one mana of any color."
+msgstr ""
+
+#: ../../BRR.rst:72
+msgid ":mtgtip:`Chromatic Star<https://cards.scryfall.io/border_crop/front/6/6/669f7205-af98-4e9b-a5d1-2901507c511d.jpg?1667435707|https://scryfall.com/card/brr/11/chromatic-star?utm_source=api>`"
+msgstr ""
+
+#: ../../BRR.rst:69
+msgid "|mana_1|, |tap|, Sacrifice Chromatic Star: Add one mana of any color."
+msgstr ""
+
+#: ../../BRR.rst:71
+msgid "When Chromatic Star is put into a graveyard from the battlefield, draw a card."
+msgstr ""
+
+#: ../../BRR.rst:78
+msgid ":mtgtip:`Cloud Key<https://cards.scryfall.io/border_crop/front/1/b/1b6c0ff0-9dfe-450d-aec4-37b89ecceda8.jpg?1667435730|https://scryfall.com/card/brr/12/cloud-key?utm_source=api>`"
+msgstr ""
+
+#: ../../BRR.rst:75
+msgid "As Cloud Key enters the battlefield, choose artifact, creature, enchantment, instant, or sorcery."
+msgstr ""
+
+#: ../../BRR.rst:77
+msgid "Spells you cast of the chosen type cost |mana_1| less to cast."
+msgstr ""
+
+#: ../../BRR.rst:82
+msgid ":mtgtip:`Defense Grid<https://cards.scryfall.io/border_crop/front/f/8/f875a0ff-7ed8-46a7-b346-e378d5e7d512.jpg?1667435758|https://scryfall.com/card/brr/13/defense-grid?utm_source=api>`"
+msgstr ""
+
+#: ../../BRR.rst:81
+msgid "Each spell costs |mana_3| more to cast except during its controller's turn."
+msgstr ""
+
+#: ../../BRR.rst:88
+msgid ":mtgtip:`Door to Nothingness<https://cards.scryfall.io/border_crop/front/c/a/caec3c43-1224-4530-90ed-10c81699fb7d.jpg?1667435780|https://scryfall.com/card/brr/14/door-to-nothingness?utm_source=api>`"
+msgstr ""
+
+#: ../../BRR.rst:85
+msgid "Door to Nothingness enters the battlefield tapped."
+msgstr ""
+
+#: ../../BRR.rst:87
+msgid "|mana_w|\\ |mana_w|\\ |mana_u|\\ |mana_u|\\ |mana_b|\\ |mana_b|\\ |mana_r|\\ |mana_r|\\ |mana_g|\\ |mana_g|, |tap|, Sacrifice Door to Nothingness: Target player loses the game."
+msgstr ""
+
+#: ../../BRR.rst:94
+msgid ":mtgtip:`Elsewhere Flask<https://cards.scryfall.io/border_crop/front/c/0/c0a482d1-3ed3-4782-90b4-69474862ec0c.jpg?1667435797|https://scryfall.com/card/brr/15/elsewhere-flask?utm_source=api>`"
+msgstr ""
+
+#: ../../BRR.rst:91
+msgid "When Elsewhere Flask enters the battlefield, draw a card."
+msgstr ""
+
+#: ../../BRR.rst:93
+msgid "Sacrifice Elsewhere Flask: Choose a basic land type. Each land you control becomes that type until end of turn."
+msgstr ""
+
+#: ../../BRR.rst:98
+msgid ":mtgtip:`Foundry Inspector<https://cards.scryfall.io/border_crop/front/9/a/9a0bd043-ae62-41fe-a33b-989acd89b175.jpg?1667474435|https://scryfall.com/card/brr/16/foundry-inspector?utm_source=api>`"
+msgstr ""
+
+#: ../../BRR.rst:97
+msgid "Artifact spells you cast cost |mana_1| less to cast."
+msgstr ""
+
+#: ../../BRR.rst:102
+msgid ":mtgtip:`Gilded Lotus<https://cards.scryfall.io/border_crop/front/6/0/608a4869-a5ee-41ad-a08e-74a9a85c7906.jpg?1667435844|https://scryfall.com/card/brr/17/gilded-lotus?utm_source=api>`"
+msgstr ""
+
+#: ../../BRR.rst:101
+msgid "|tap|: Add three mana of any one color."
+msgstr ""
+
+#: ../../BRR.rst:106
+msgid ":mtgtip:`Goblin Charbelcher<https://cards.scryfall.io/border_crop/front/7/a/7aa8567a-c7bb-4bb4-a9dc-e0eb898812e4.jpg?1666996840|https://scryfall.com/card/brr/18/goblin-charbelcher?utm_source=api>`"
+msgstr ""
+
+#: ../../BRR.rst:105
+msgid "|mana_3|, |tap|: Reveal cards from the top of your library until you reveal a land card. Goblin Charbelcher deals damage equal to the number of nonland cards revealed this way to any target. If the revealed land card was a Mountain, Goblin Charbelcher deals double that damage instead. Put the revealed cards on the bottom of your library in any order."
+msgstr ""
+
+#: ../../BRR.rst:112
+msgid ":mtgtip:`Helm of the Host<https://cards.scryfall.io/border_crop/front/c/1/c1c86b0c-a8a9-4cd4-bec9-3c1680c52cac.jpg?1667474423|https://scryfall.com/card/brr/19/helm-of-the-host?utm_source=api>`"
+msgstr ""
+
+#: ../../BRR.rst:109
+msgid "At the beginning of combat on your turn, create a token that's a copy of equipped creature, except the token isn't legendary. That token gains haste."
+msgstr ""
+
+#: ../../BRR.rst:111
+msgid "Equip |mana_5|"
+msgstr ""
+
+#: ../../BRR.rst:116
+msgid ":mtgtip:`Howling Mine<https://cards.scryfall.io/border_crop/front/f/e/feab8356-58dc-4e01-8c5f-4699e6feef52.jpg?1664643297|https://scryfall.com/card/brr/20/howling-mine?utm_source=api>`"
+msgstr ""
+
+#: ../../BRR.rst:115
+msgid "At the beginning of each player's draw step, if Howling Mine is untapped, that player draws an additional card."
+msgstr ""
+
+#: ../../BRR.rst:120
+msgid ":mtgtip:`Ichor Wellspring<https://cards.scryfall.io/border_crop/front/1/2/12402dc0-8eae-46e7-a09e-d06ea1670179.jpg?1667436139|https://scryfall.com/card/brr/21/ichor-wellspring?utm_source=api>`"
+msgstr ""
+
+#: ../../BRR.rst:119
+msgid "When Ichor Wellspring enters the battlefield or is put into a graveyard from the battlefield, draw a card."
+msgstr ""
+
+#: ../../BRR.rst:124
+msgid ":mtgtip:`Inspiring Statuary<https://cards.scryfall.io/border_crop/front/f/a/fadc49d8-bc17-4ddc-8f94-071437ff8045.jpg?1667436162|https://scryfall.com/card/brr/22/inspiring-statuary?utm_source=api>`"
+msgstr ""
+
+#: ../../BRR.rst:123
+msgid "Nonartifact spells you cast have improvise. (Your artifacts can help cast those spells. Each artifact you tap after you're done activating mana abilities pays for |mana_1|.)"
+msgstr ""
+
+#: ../../BRR.rst:128
+msgid ":mtgtip:`Ivory Tower<https://cards.scryfall.io/border_crop/front/f/a/fa623782-9a18-4d6c-9634-2f4890e44943.jpg?1667216373|https://scryfall.com/card/brr/23/ivory-tower?utm_source=api>`"
+msgstr ""
+
+#: ../../BRR.rst:127
+msgid "At the beginning of your upkeep, you gain X life, where X is the number of cards in your hand minus 4."
+msgstr ""
+
+#: ../../BRR.rst:132
+msgid ":mtgtip:`Jalum Tome<https://cards.scryfall.io/border_crop/front/4/4/4424870a-1192-41a0-be00-86e24b7f7a06.jpg?1667216375|https://scryfall.com/card/brr/24/jalum-tome?utm_source=api>`"
+msgstr ""
+
+#: ../../BRR.rst:131
+msgid "|mana_2|, |tap|: Draw a card, then discard a card."
+msgstr ""
+
+#: ../../BRR.rst:136
+msgid ":mtgtip:`Journeyer's Kite<https://cards.scryfall.io/border_crop/front/5/3/5304ad0c-47ab-45da-a44f-0a80d1e2ea28.jpg?1667436192|https://scryfall.com/card/brr/25/journeyers-kite?utm_source=api>`"
+msgstr ""
+
+#: ../../BRR.rst:135
+msgid "|mana_3|, |tap|: Search your library for a basic land card, reveal it, put it into your hand, then shuffle."
+msgstr ""
+
+#: ../../BRR.rst:140
+msgid ":mtgtip:`Keening Stone<https://cards.scryfall.io/border_crop/front/8/3/839349f4-a347-4b1f-91dc-6e9a0a5de24e.jpg?1667436209|https://scryfall.com/card/brr/26/keening-stone?utm_source=api>`"
+msgstr ""
+
+#: ../../BRR.rst:139
+msgid "|mana_5|, |tap|: Target player mills X cards, where X is the number of cards in that player's graveyard."
+msgstr ""
+
+#: ../../BRR.rst:146
+msgid ":mtgtip:`Key to the City<https://cards.scryfall.io/border_crop/front/c/c/cc81bef4-2967-4861-8dcf-ee962d3b3f70.jpg?1667436232|https://scryfall.com/card/brr/27/key-to-the-city?utm_source=api>`"
+msgstr ""
+
+#: ../../BRR.rst:143
+msgid "|tap|, Discard a card: Up to one target creature can't be blocked this turn."
+msgstr ""
+
+#: ../../BRR.rst:145
+msgid "Whenever Key to the City becomes untapped, you may pay |mana_2|. If you do, draw a card."
+msgstr ""
+
+#: ../../BRR.rst:150
+msgid ":mtgtip:`Liquimetal Coating<https://cards.scryfall.io/border_crop/front/a/8/a8fc80eb-f158-479f-8626-c9665e2f8248.jpg?1667436254|https://scryfall.com/card/brr/28/liquimetal-coating?utm_source=api>`"
+msgstr ""
+
+#: ../../BRR.rst:149
+msgid "|tap|: Target permanent becomes an artifact in addition to its other types until end of turn."
+msgstr ""
+
+#: ../../BRR.rst:154
+msgid ":mtgtip:`Lodestone Golem<https://cards.scryfall.io/border_crop/front/0/3/03bf39c3-9e25-42dc-8538-f903eceb0a74.jpg?1667216375|https://scryfall.com/card/brr/29/lodestone-golem?utm_source=api>`"
+msgstr ""
+
+#: ../../BRR.rst:153
+msgid "Nonartifact spells cost |mana_1| more to cast."
+msgstr ""
+
+#: ../../BRR.rst:162
+msgid ":mtgtip:`Mazemind Tome<https://cards.scryfall.io/border_crop/front/3/3/33dc5dff-390d-499d-aa28-fb75b92ba1c5.jpg?1667436272|https://scryfall.com/card/brr/30/mazemind-tome?utm_source=api>`"
+msgstr ""
+
+#: ../../BRR.rst:157
+msgid "|tap|, Put a page counter on Mazemind Tome: Scry 1."
+msgstr ""
+
+#: ../../BRR.rst:159
+msgid "|mana_2|, |tap|, Put a page counter on Mazemind Tome: Draw a card."
+msgstr ""
+
+#: ../../BRR.rst:161
+msgid "When there are four or more page counters on Mazemind Tome, exile it. If you do, you gain 4 life."
+msgstr ""
+
+#: ../../BRR.rst:166
+msgid ":mtgtip:`Mesmeric Orb<https://cards.scryfall.io/border_crop/front/6/7/671cb8c4-4019-4d40-9e3d-691aad555356.jpg?1667474420|https://scryfall.com/card/brr/31/mesmeric-orb?utm_source=api>`"
+msgstr ""
+
+#: ../../BRR.rst:165
+msgid "Whenever a permanent becomes untapped, that permanent's controller mills a card."
+msgstr ""
+
+#: ../../BRR.rst:170
+msgid ":mtgtip:`Millstone<https://cards.scryfall.io/border_crop/front/4/6/46097ab2-bfa7-4f36-a523-2522810da3ab.jpg?1667436316|https://scryfall.com/card/brr/32/millstone?utm_source=api>`"
+msgstr ""
+
+#: ../../BRR.rst:169
+msgid "|mana_2|, |tap|: Target player mills two cards."
+msgstr ""
+
+#: ../../BRR.rst:174
+msgid ":mtgtip:`Mind's Eye<https://cards.scryfall.io/border_crop/front/1/a/1a563a5d-2619-445c-b72e-d588e82e0900.jpg?1666996531|https://scryfall.com/card/brr/33/minds-eye?utm_source=api>`"
+msgstr ""
+
+#: ../../BRR.rst:173
+msgid "Whenever an opponent draws a card, you may pay |mana_1|. If you do, draw a card."
+msgstr ""
+
+#: ../../BRR.rst:178
+msgid ":mtgtip:`Mishra's Bauble<https://cards.scryfall.io/border_crop/front/b/0/b02452bb-a049-4e86-ba2c-135803caa03d.jpg?1667216378|https://scryfall.com/card/brr/34/mishras-bauble?utm_source=api>`"
+msgstr ""
+
+#: ../../BRR.rst:177
+msgid "|tap|, Sacrifice Mishra's Bauble: Look at the top card of target player's library. Draw a card at the beginning of the next turn's upkeep."
+msgstr ""
+
+#: ../../BRR.rst:182
+msgid ":mtgtip:`Mox Amber<https://cards.scryfall.io/border_crop/front/6/e/6ea9852b-78fa-4732-8801-4ce632270558.jpg?1667436349|https://scryfall.com/card/brr/35/mox-amber?utm_source=api>`"
+msgstr ""
+
+#: ../../BRR.rst:181
+msgid "|tap|: Add one mana of any color among legendary creatures and planeswalkers you control."
+msgstr ""
+
+#: ../../BRR.rst:190
+msgid ":mtgtip:`Mystic Forge<https://cards.scryfall.io/border_crop/front/a/9/a9a842eb-3583-4ce7-afab-e81adafd66eb.jpg?1667474412|https://scryfall.com/card/brr/36/mystic-forge?utm_source=api>`"
+msgstr ""
+
+#: ../../BRR.rst:185
+msgid "You may look at the top card of your library any time."
+msgstr ""
+
+#: ../../BRR.rst:187
+msgid "You may cast artifact spells and colorless spells from the top of your library."
+msgstr ""
+
+#: ../../BRR.rst:189
+msgid "|tap|, Pay 1 life: Exile the top card of your library."
+msgstr ""
+
+#: ../../BRR.rst:194
+msgid ":mtgtip:`Ornithopter<https://cards.scryfall.io/border_crop/front/1/f/1f6fa35a-fd81-4fa5-aac6-c397db53e5d1.jpg?1667216380|https://scryfall.com/card/brr/37/ornithopter?utm_source=api>`"
+msgstr ""
+
+#: ../../BRR.rst:193
+#: ../../BRR.rst:213
+#: ../../BRR.rst:247
+msgid "Flying"
+msgstr ""
+
+#: ../../BRR.rst:198
+msgid ":mtgtip:`Perilous Vault<https://cards.scryfall.io/border_crop/front/b/9/b9df7b8c-f034-4085-9633-d1a8f16a02ce.jpg?1667291198|https://scryfall.com/card/brr/38/perilous-vault?utm_source=api>`"
+msgstr ""
+
+#: ../../BRR.rst:197
+msgid "|mana_5|, |tap|, Exile Perilous Vault: Exile all nonland permanents."
+msgstr ""
+
+#: ../../BRR.rst:204
+msgid ":mtgtip:`Phyrexian Processor<https://cards.scryfall.io/border_crop/front/6/b/6bbb83f8-09bf-4c61-b871-e48917e61073.jpg?1667670643|https://scryfall.com/card/brr/39/phyrexian-processor?utm_source=api>`"
+msgstr ""
+
+#: ../../BRR.rst:201
+msgid "As Phyrexian Processor enters the battlefield, pay any amount of life."
+msgstr ""
+
+#: ../../BRR.rst:203
+msgid "|mana_4|, |tap|: Create an X/X black Phyrexian Minion creature token, where X is the life paid as Phyrexian Processor entered the battlefield."
+msgstr ""
+
+#: ../../BRR.rst:210
+msgid ":mtgtip:`Phyrexian Revoker<https://cards.scryfall.io/border_crop/front/7/7/77772c4e-0c93-4bb5-85b5-08b4a6cb0e4f.jpg?1667216381|https://scryfall.com/card/brr/40/phyrexian-revoker?utm_source=api>`"
+msgstr ""
+
+#: ../../BRR.rst:207
+msgid "As Phyrexian Revoker enters the battlefield, choose a nonland card name."
+msgstr ""
+
+#: ../../BRR.rst:209
+msgid "Activated abilities of sources with the chosen name can't be activated."
+msgstr ""
+
+#: ../../BRR.rst:216
+msgid ":mtgtip:`Platinum Angel<https://cards.scryfall.io/border_crop/front/8/3/83018b9f-fecd-42cc-ae7b-3e5b8d632802.jpg?1667436420|https://scryfall.com/card/brr/41/platinum-angel?utm_source=api>`"
+msgstr ""
+
+#: ../../BRR.rst:215
+msgid "You can't lose the game and your opponents can't win the game."
+msgstr ""
+
+#: ../../BRR.rst:222
+msgid ":mtgtip:`Precursor Golem<https://cards.scryfall.io/border_crop/front/1/8/182c80d0-3ce2-42cd-8dd7-e28b10e2a9a1.jpg?1667436440|https://scryfall.com/card/brr/42/precursor-golem?utm_source=api>`"
+msgstr ""
+
+#: ../../BRR.rst:219
+msgid "When Precursor Golem enters the battlefield, create two 3/3 colorless Golem artifact creature tokens."
+msgstr ""
+
+#: ../../BRR.rst:221
+msgid "Whenever a player casts an instant or sorcery spell that targets only a single Golem, that player copies that spell for each other Golem that spell could target. Each copy targets a different one of those Golems."
+msgstr ""
+
+#: ../../BRR.rst:226
+msgid ":mtgtip:`Pristine Talisman<https://cards.scryfall.io/border_crop/front/7/8/78117d34-0325-4e80-8bcd-2b2be557c81c.jpg?1667436502|https://scryfall.com/card/brr/43/pristine-talisman?utm_source=api>`"
+msgstr ""
+
+#: ../../BRR.rst:225
+msgid "|tap|: Add |colorless|. You gain 1 life."
+msgstr ""
+
+#: ../../BRR.rst:232
+msgid ":mtgtip:`Psychosis Crawler<https://cards.scryfall.io/border_crop/front/5/f/5f3f6838-9a93-4d92-b782-c28b66fc3441.jpg?1667436524|https://scryfall.com/card/brr/44/psychosis-crawler?utm_source=api>`"
+msgstr ""
+
+#: ../../BRR.rst:229
+msgid "Psychosis Crawler's power and toughness are each equal to the number of cards in your hand."
+msgstr ""
+
+#: ../../BRR.rst:231
+msgid "Whenever you draw a card, each opponent loses 1 life."
+msgstr ""
+
+#: ../../BRR.rst:236
+msgid ":mtgtip:`Quicksilver Amulet<https://cards.scryfall.io/border_crop/front/8/d/8ddb3e7b-06ae-4b2e-8342-0bc7a3bfa8e6.jpg?1667216383|https://scryfall.com/card/brr/45/quicksilver-amulet?utm_source=api>`"
+msgstr ""
+
+#: ../../BRR.rst:235
+msgid "|mana_4|, |tap|: You may put a creature card from your hand onto the battlefield."
+msgstr ""
+
+#: ../../BRR.rst:244
+msgid ":mtgtip:`Quietus Spike<https://cards.scryfall.io/border_crop/front/3/1/31c776aa-7f7e-4cd7-a188-bbe655f785d2.jpg?1667436546|https://scryfall.com/card/brr/46/quietus-spike?utm_source=api>`"
+msgstr ""
+
+#: ../../BRR.rst:239
+msgid "Equipped creature has deathtouch."
+msgstr ""
+
+#: ../../BRR.rst:241
+msgid "Whenever equipped creature deals combat damage to a player, that player loses half their life, rounded up."
+msgstr ""
+
+#: ../../BRR.rst:243
+msgid "Equip |mana_3|"
+msgstr ""
+
+#: ../../BRR.rst:252
+msgid ":mtgtip:`Ramos, Dragon Engine<https://cards.scryfall.io/border_crop/front/7/3/734e496b-4d15-4ee0-8d81-4ebe4791d997.jpg?1667216387|https://scryfall.com/card/brr/47/ramos-dragon-engine?utm_source=api>`"
+msgstr ""
+
+#: ../../BRR.rst:249
+msgid "Whenever you cast a spell, put a +1/+1 counter on Ramos, Dragon Engine for each of that spell's colors."
+msgstr ""
+
+#: ../../BRR.rst:251
+msgid "Remove five +1/+1 counters from Ramos: Add |mana_w|\\ |mana_w|\\ |mana_u|\\ |mana_u|\\ |mana_b|\\ |mana_b|\\ |mana_r|\\ |mana_r|\\ |mana_g|\\ |mana_g|. Activate only once each turn."
+msgstr ""
+
+#: ../../BRR.rst:258
+msgid ":mtgtip:`Runechanter's Pike<https://cards.scryfall.io/border_crop/front/7/6/76252996-5b22-48ab-afa4-0cc2fe6a6878.jpg?1667436568|https://scryfall.com/card/brr/48/runechanters-pike?utm_source=api>`"
+msgstr ""
+
+#: ../../BRR.rst:255
+msgid "Equipped creature has first strike and gets +X/+0, where X is the number of instant and sorcery cards in your graveyard."
+msgstr ""
+
+#: ../../BRR.rst:257
+#: ../../BRR.rst:321
+msgid "Equip |mana_2|"
+msgstr ""
+
+#: ../../BRR.rst:262
+msgid ":mtgtip:`Scrap Trawler<https://cards.scryfall.io/border_crop/front/3/8/38bc3e3d-f07b-4ee9-8bb6-060ac82f07eb.jpg?1667436590|https://scryfall.com/card/brr/49/scrap-trawler?utm_source=api>`"
+msgstr ""
+
+#: ../../BRR.rst:261
+msgid "Whenever Scrap Trawler or another artifact you control is put into a graveyard from the battlefield, return to your hand target artifact card in your graveyard with lesser mana value."
+msgstr ""
+
+#: ../../BRR.rst:266
+msgid ":mtgtip:`Sculpting Steel<https://cards.scryfall.io/border_crop/front/e/5/e5813b15-6adb-4ed8-b08d-5dee70ecb45a.jpg?1667436607|https://scryfall.com/card/brr/50/sculpting-steel?utm_source=api>`"
+msgstr ""
+
+#: ../../BRR.rst:265
+msgid "You may have Sculpting Steel enter the battlefield as a copy of any artifact on the battlefield."
+msgstr ""
+
+#: ../../BRR.rst:270
+msgid ":mtgtip:`Self-Assembler<https://cards.scryfall.io/border_crop/front/8/d/8dddb553-7c29-48df-9aeb-c9dd0efc3563.jpg?1667436645|https://scryfall.com/card/brr/51/self-assembler?utm_source=api>`"
+msgstr ""
+
+#: ../../BRR.rst:269
+msgid "When Self-Assembler enters the battlefield, you may search your library for an Assembly-Worker creature card, reveal it, put it into your hand, then shuffle."
+msgstr ""
+
+#: ../../BRR.rst:276
+msgid ":mtgtip:`Semblance Anvil<https://cards.scryfall.io/border_crop/front/5/2/52f4f1fa-43b8-411c-a151-c90b776fe985.jpg?1667436668|https://scryfall.com/card/brr/52/semblance-anvil?utm_source=api>`"
+msgstr ""
+
+#: ../../BRR.rst:273
+msgid "Imprint — When Semblance Anvil enters the battlefield, you may exile a nonland card from your hand."
+msgstr ""
+
+#: ../../BRR.rst:275
+msgid "Spells you cast that share a card type with the exiled card cost |mana_2| less to cast."
+msgstr ""
+
+#: ../../BRR.rst:282
+msgid ":mtgtip:`Sigil of Valor<https://cards.scryfall.io/border_crop/front/c/c/cceb512c-9244-41ea-b1bb-3029cbc648dc.jpg?1667436690|https://scryfall.com/card/brr/53/sigil-of-valor?utm_source=api>`"
+msgstr ""
+
+#: ../../BRR.rst:279
+msgid "Whenever equipped creature attacks alone, it gets +1/+1 until end of turn for each other creature you control."
+msgstr ""
+
+#: ../../BRR.rst:290
+msgid ":mtgtip:`Soul-Guide Lantern<https://cards.scryfall.io/border_crop/front/d/7/d742e2c1-ca8c-454b-bd5d-765f60ed3de9.jpg?1667436709|https://scryfall.com/card/brr/54/soul-guide-lantern?utm_source=api>`"
+msgstr ""
+
+#: ../../BRR.rst:285
+msgid "When Soul-Guide Lantern enters the battlefield, exile target card from a graveyard."
+msgstr ""
+
+#: ../../BRR.rst:287
+msgid "|tap|, Sacrifice Soul-Guide Lantern: Exile each opponent's graveyard."
+msgstr ""
+
+#: ../../BRR.rst:289
+msgid "|mana_1|, |tap|, Sacrifice Soul-Guide Lantern: Draw a card."
+msgstr ""
+
+#: ../../BRR.rst:294
+msgid ":mtgtip:`Springleaf Drum<https://cards.scryfall.io/border_crop/front/b/5/b52af7e0-cd75-4e8e-82ed-65f8a3d0380a.jpg?1667436726|https://scryfall.com/card/brr/55/springleaf-drum?utm_source=api>`"
+msgstr ""
+
+#: ../../BRR.rst:293
+msgid "|tap|, Tap an untapped creature you control: Add one mana of any color."
+msgstr ""
+
+#: ../../BRR.rst:306
+msgid ":mtgtip:`Staff of Domination<https://cards.scryfall.io/border_crop/front/2/0/20fba37f-d374-4069-ade4-e925f59522c7.jpg?1667474409|https://scryfall.com/card/brr/56/staff-of-domination?utm_source=api>`"
+msgstr ""
+
+#: ../../BRR.rst:297
+msgid "|mana_1|: Untap Staff of Domination."
+msgstr ""
+
+#: ../../BRR.rst:299
+msgid "|mana_2|, |tap|: You gain 1 life."
+msgstr ""
+
+#: ../../BRR.rst:301
+msgid "|mana_3|, |tap|: Untap target creature."
+msgstr ""
+
+#: ../../BRR.rst:303
+msgid "|mana_4|, |tap|: Tap target creature."
+msgstr ""
+
+#: ../../BRR.rst:305
+msgid "|mana_5|, |tap|: Draw a card."
+msgstr ""
+
+#: ../../BRR.rst:310
+msgid ":mtgtip:`Sundering Titan<https://cards.scryfall.io/border_crop/front/6/d/6ddbecb3-5a7e-467a-8c06-85f8d8910b44.jpg?1667436781|https://scryfall.com/card/brr/57/sundering-titan?utm_source=api>`"
+msgstr ""
+
+#: ../../BRR.rst:309
+msgid "When Sundering Titan enters or leaves the battlefield, choose a land of each basic land type, then destroy those lands."
+msgstr ""
+
+#: ../../BRR.rst:316
+msgid ":mtgtip:`Swiftfoot Boots<https://cards.scryfall.io/border_crop/front/9/6/96c69011-35bd-49f0-bae5-4a8367d32237.jpg?1667436813|https://scryfall.com/card/brr/58/swiftfoot-boots?utm_source=api>`"
+msgstr ""
+
+#: ../../BRR.rst:313
+msgid "Equipped creature has hexproof and haste. (It can't be the target of spells or abilities your opponents control.)"
+msgstr ""
+
+#: ../../BRR.rst:315
+msgid "Equip |mana_1|"
+msgstr ""
+
+#: ../../BRR.rst:324
+msgid ":mtgtip:`Sword of the Meek<https://cards.scryfall.io/border_crop/front/7/6/7668aaf3-194b-49f4-9f79-e51e89e8f2f8.jpg?1667436836|https://scryfall.com/card/brr/59/sword-of-the-meek?utm_source=api>`"
+msgstr ""
+
+#: ../../BRR.rst:319
+msgid "Equipped creature gets +1/+2."
+msgstr ""
+
+#: ../../BRR.rst:323
+msgid "Whenever a 1/1 creature enters the battlefield under your control, you may return Sword of the Meek from your graveyard to the battlefield, then attach it to that creature."
+msgstr ""
+
+#: ../../BRR.rst:328
+msgid ":mtgtip:`Thorn of Amethyst<https://cards.scryfall.io/border_crop/front/d/e/ded2a5ad-c12a-4442-bd67-cfdc648978c9.jpg?1667216382|https://scryfall.com/card/brr/60/thorn-of-amethyst?utm_source=api>`"
+msgstr ""
+
+#: ../../BRR.rst:327
+msgid "Noncreature spells cost |mana_1| more to cast."
+msgstr ""
+
+#: ../../BRR.rst:332
+msgid ":mtgtip:`Unwinding Clock<https://cards.scryfall.io/border_crop/front/2/c/2cb86d65-15c3-4169-9716-c8394ede4f65.jpg?1667436878|https://scryfall.com/card/brr/61/unwinding-clock?utm_source=api>`"
+msgstr ""
+
+#: ../../BRR.rst:331
+msgid "Untap all artifacts you control during each other player's untap step."
+msgstr ""
+
+#: ../../BRR.rst:336
+msgid ":mtgtip:`Well of Lost Dreams<https://cards.scryfall.io/border_crop/front/0/e/0e06b825-b8e4-4ea0-9046-39ee15991118.jpg?1667436901|https://scryfall.com/card/brr/62/well-of-lost-dreams?utm_source=api>`"
+msgstr ""
+
+#: ../../BRR.rst:335
+msgid "Whenever you gain life, you may pay |mana_x|, where X is less than or equal to the amount of life you gained. If you do, draw X cards."
+msgstr ""
+
+#: ../../BRR.rst:341
+msgid ":mtgtip:`Wurmcoil Engine<https://cards.scryfall.io/border_crop/front/2/1/219f1f03-e882-40ca-8854-1e466e37b8cd.jpg?1667216389|https://scryfall.com/card/brr/63/wurmcoil-engine?utm_source=api>`"
+msgstr ""
+
+#: ../../BRR.rst:339
+msgid "Deathtouch, lifelink"
+msgstr ""
+
+#: ../../BRR.rst:341
+msgid "When Wurmcoil Engine dies, create a 3/3 colorless Phyrexian Wurm artifact creature token with deathtouch and a 3/3 colorless Phyrexian Wurm artifact creature token with lifelink."
+msgstr ""
