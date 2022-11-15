@@ -386,7 +386,7 @@
 :mtgtip:`Meloku the Clouded Mirror<https://cards.scryfall.io/border_crop/front/1/c/1caaa733-6d4c-4e18-a64e-f95851c7063b.jpg?1562757974|https://scryfall.com/card/chk/74/meloku-the-clouded-mirror?utm_source=api>`
    Flying
 
-   |mana_1|, Return a land you control to its owner's hand: Create a 1/1 blue Illusion creature token with flying.
+   |mana_1|, Return a land you control to its owner's hand: Create a 2/2 blue Illusion creature token with flying.
 
 
 :mtgtip:`Myojin of Seeing Winds<https://cards.scryfall.io/border_crop/front/8/f/8f5f8d3a-95e7-4dd9-8510-43517eb02693.jpg?1562762504|https://scryfall.com/card/chk/75/myojin-of-seeing-winds?utm_source=api>`
