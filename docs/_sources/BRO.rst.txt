@@ -1007,7 +1007,7 @@
    |mana_7|: Put two +1/+1 counters on Argothian Sprite.
 
 
-:mtgtip:`Audacity<https://cards.scryfall.io/border_crop/front/4/0/40b0813a-38cf-4a07-81d6-91d24af8b549.jpg?1667290119|https://scryfall.com/card/bro/169/audacity?utm_source=api>`
+:mtgtip:`Audacity<https://cards.scryfall.io/border_crop/front/4/0/40b0813a-38cf-4a07-81d6-91d24af8b549.jpg?1668324683|https://scryfall.com/card/bro/169/audacity?utm_source=api>`
    Enchant creature
 
    Enchanted creature gets +2/+0 and has trample.

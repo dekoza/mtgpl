@@ -1005,8 +1005,8 @@
    Scorching Ray — |mana_8|: Bhaal's Invoker deals 4 damage to each opponent.
 
 
-:mtgtip:`Bloodboil Sorcerer<https://cards.scryfall.io/border_crop/front/0/b/0bdf1222-2fc5-4dae-a7a5-6ba774b02843.jpg?1660726092|https://scryfall.com/card/clb/164/bloodboil-sorcerer?utm_source=api>`
-   Whenever Bloodboil Sorcerer enters the battlefield, you take the initiative.
+:mtgtip:`Bloodboil Sorcerer<https://cards.scryfall.io/border_crop/front/0/b/0bdf1222-2fc5-4dae-a7a5-6ba774b02843.jpg?1668311985|https://scryfall.com/card/clb/164/bloodboil-sorcerer?utm_source=api>`
+   When Bloodboil Sorcerer enters the battlefield, you take the initiative.
 
    Crown of Madness — |mana_1|\ |mana_r|, Sacrifice an artifact or creature: Goad target creature. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)
 

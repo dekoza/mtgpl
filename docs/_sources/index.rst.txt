@@ -218,6 +218,12 @@ Legal notice
 .. toctree::
    :hidden:
 
+   BRO
+   DMU
+   SNC
+   NEO
+   VOW
+   MID
    rulebook
    pioneer
    modern
@@ -232,3 +238,4 @@ Legal notice
    changelog
    full_toctree
    poszukiwane
+   BRR

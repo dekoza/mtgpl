@@ -1027,8 +1027,8 @@
    At the beginning of your end step, draw a card if your library has more cards in it than target opponent's library. Otherwise, each opponent mills five cards.
 
 
-:mtgtip:`Liara of the Flaming Fist<https://cards.scryfall.io/border_crop/front/9/8/98209130-a72f-4946-a1d4-3a437cd9a0b2.jpg?1656397704|https://scryfall.com/card/hbg/73/liara-of-the-flaming-fist?utm_source=api>`
-   At the beginning of each combat, each creature you control get +1/+1 until end of turn if it has the same name as another creature you control or a creature card in your graveyard.
+:mtgtip:`Liara of the Flaming Fist<https://cards.scryfall.io/border_crop/front/9/8/98209130-a72f-4946-a1d4-3a437cd9a0b2.jpg?1668373876|https://scryfall.com/card/hbg/73/liara-of-the-flaming-fist?utm_source=api>`
+   At the beginning of each combat, each creature you control gets +1/+1 until end of turn if it has the same name as another creature you control or a creature card in your graveyard.
 
    |mana_1|\ |mana_r|\ |mana_w|: Another target nontoken creature you control gains first strike and double team until end of turn. Activate only as a sorcery and only once.
 
