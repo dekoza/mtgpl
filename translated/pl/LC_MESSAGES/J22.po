@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG po polsku 2022.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-11-15 14:16+0100\n"
-"PO-Revision-Date: 2022-10-30 16:37+0000\n"
+"PO-Revision-Date: 2022-11-15 13:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/j22/pl/>\n"
 "Language: pl\n"
@@ -305,6 +305,8 @@ msgid ""
 "|tap|: Each player creates a colorless artifact token named Banana with \"|"
 "tap|, Sacrifice this artifact: Add |mana_r| or |mana_g|. You gain 2 life.\""
 msgstr ""
+"|tap|: Każdy gracz tworzy żeton bezkolorowego artefaktu o nazwie Banan "
+"mający \"|tap|, poświęć ten byt: Weź |mana_r| lub |mana_g|. Zyskaj 2 życia.\""
 
 #: ../../J22.rst:27
 msgid ""
@@ -312,10 +314,13 @@ msgid ""
 "battlefield, put a +1/+1 counter on each creature you control that's an Ape "
 "or Monkey."
 msgstr ""
+"Ilekroć artefakt pod władaniem przeciwnika trafi z pola bitwy do cmentarza, "
+"umieść znacznik +1/+1 na każdym stworze pod twoim władaniu będącym Małpą lub "
+"Małpką."
 
 #: ../../J22.rst:29
 msgid "Whenever Kibo attacks, defending player sacrifices an artifact."
-msgstr ""
+msgstr "Ilekroć niniejszy zaatakuje, broniący się gracz poświęca artefakt."
 
 #: ../../J22.rst:38
 msgid ""
@@ -326,17 +331,21 @@ msgstr ""
 
 #: ../../J22.rst:33
 msgid "First strike"
-msgstr ""
+msgstr "Pierwszy cios"
 
 #: ../../J22.rst:35
 msgid ""
 "Balan, Wandering Knight has double strike as long as two or more Equipment "
 "are attached to it."
 msgstr ""
+"Ten stwór ma podwójny cios o ile co najmniej dwa Wyposażenia są do niego "
+"dołączone."
 
 #: ../../J22.rst:37
 msgid "|mana_1|\\ |mana_w|: Attach all Equipment you control to Balan."
 msgstr ""
+"|mana_1|\\ |mana_w|: Dołącz wszystkie Wyposażenia pod twoim władaniem do "
+"tego stwora."
 
 #: ../../J22.rst:46
 msgid ""
@@ -347,15 +356,15 @@ msgstr ""
 
 #: ../../J22.rst:41
 msgid "Flash (You may cast this spell any time you could cast an instant.)"
-msgstr ""
+msgstr "Błysk (Możesz rzucić ten czar jako sztuczkę.)"
 
 #: ../../J22.rst:43
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 #: ../../J22.rst:45
 msgid "|mana_3|\\ |mana_u|: Draw a card."
-msgstr ""
+msgstr "|mana_3|\\ |mana_u|: Dobierz kartę."
 
 #: ../../J22.rst:52
 msgid ""
@@ -402,11 +411,11 @@ msgstr ""
 
 #: ../../J22.rst:63
 msgid "+4: Target player exiles a card from their hand."
-msgstr ""
+msgstr "+4: Wskazany gracz wygania kartę ze swojej ręki."
 
 #: ../../J22.rst:65
 msgid "−3: Exile target permanent."
-msgstr ""
+msgstr "–3: Wygnaj wskazany byt."
 
 #: ../../J22.rst:67
 msgid ""
@@ -414,3 +423,6 @@ msgid ""
 "with Karn Liberated. Then put those cards onto the battlefield under your "
 "control."
 msgstr ""
+"–14: Zacznij grę od nowa, pozostawiając na wygnaniu wszystkie byty nie "
+"będące Aurami wygnane przy użyciu niniejszej karty. Następnie umieść owe "
+"karty na polu bitwy pod twoim władaniem."
