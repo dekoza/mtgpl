@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG po polsku 2022.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-01 22:07+0100\n"
+"POT-Creation-Date: 2022-11-15 14:16+0100\n"
 "PO-Revision-Date: 2022-10-30 16:37+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/j22/pl/>\n"
@@ -273,7 +273,7 @@ msgid ""
 "card/j22/29/ardoz-cobbler-of-war?utm_source=api>`"
 msgstr ""
 
-#: ../../J22.rst:17 ../../J22.rst:25
+#: ../../J22.rst:17 ../../J22.rst:49
 msgid "Haste"
 msgstr "Pośpiech"
 
@@ -293,14 +293,78 @@ msgstr ""
 "|mana_3|\\ |mana_r|: Stwórz żeton czerwonego stwora Goblin 2/2 z pośpiechem. "
 "Aktywuj tylko jako obrzęd."
 
-#: ../../J22.rst:28
+#: ../../J22.rst:30
+msgid ""
+":mtgtip:`Kibo, Uktabi Prince<https://cards.scryfall.io/border_crop/front/8/"
+"b/8b71345a-c3e8-4b35-beb7-6347e41d7626.jpg?1668312416|https://scryfall.com/"
+"card/j22/40/kibo-uktabi-prince?utm_source=api>`"
+msgstr ""
+
+#: ../../J22.rst:25
+msgid ""
+"|tap|: Each player creates a colorless artifact token named Banana with \"|"
+"tap|, Sacrifice this artifact: Add |mana_r| or |mana_g|. You gain 2 life.\""
+msgstr ""
+
+#: ../../J22.rst:27
+msgid ""
+"Whenever an artifact an opponent controls is put into a graveyard from the "
+"battlefield, put a +1/+1 counter on each creature you control that's an Ape "
+"or Monkey."
+msgstr ""
+
+#: ../../J22.rst:29
+msgid "Whenever Kibo attacks, defending player sacrifices an artifact."
+msgstr ""
+
+#: ../../J22.rst:38
+msgid ""
+":mtgtip:`Balan, Wandering Knight<https://cards.scryfall.io/border_crop/front/"
+"d/7/d7f6da2e-3759-4550-999f-2c0fa6c76c73.jpg?1668376569|https://scryfall.com/"
+"card/j22/53/ja/balan-wandering-knight?utm_source=api>`"
+msgstr ""
+
+#: ../../J22.rst:33
+msgid "First strike"
+msgstr ""
+
+#: ../../J22.rst:35
+msgid ""
+"Balan, Wandering Knight has double strike as long as two or more Equipment "
+"are attached to it."
+msgstr ""
+
+#: ../../J22.rst:37
+msgid "|mana_1|\\ |mana_w|: Attach all Equipment you control to Balan."
+msgstr ""
+
+#: ../../J22.rst:46
+msgid ""
+":mtgtip:`Spectral Sailor<https://cards.scryfall.io/border_crop/"
+"front/7/7/7743b587-e498-4761-9173-e803c9eed86b.jpg?1668376564|https://"
+"scryfall.com/card/j22/64/ja/spectral-sailor?utm_source=api>`"
+msgstr ""
+
+#: ../../J22.rst:41
+msgid "Flash (You may cast this spell any time you could cast an instant.)"
+msgstr ""
+
+#: ../../J22.rst:43
+msgid "Flying"
+msgstr ""
+
+#: ../../J22.rst:45
+msgid "|mana_3|\\ |mana_u|: Draw a card."
+msgstr ""
+
+#: ../../J22.rst:52
 msgid ""
 ":mtgtip:`Kiki-Jiki, Mirror Breaker<https://cards.scryfall.io/border_crop/"
 "front/0/e/0e6fc996-17ba-4090-bf82-0c2eba93a81e.jpg?1666303373|https://"
 "scryfall.com/card/j22/79/kiki-jiki-mirror-breaker?utm_source=api>`"
 msgstr ""
 
-#: ../../J22.rst:27
+#: ../../J22.rst:51
 msgid ""
 "|tap|: Create a token that's a copy of target nonlegendary creature you "
 "control, except it has haste. Sacrifice it at the beginning of the next end "
@@ -310,21 +374,43 @@ msgstr ""
 "władaniem, ale ma on pośpiech. Poświęć go na początku najbliższego kroku "
 "końcowego."
 
-#: ../../J22.rst:35
+#: ../../J22.rst:60
 msgid ""
 ":mtgtip:`Coldsteel Heart<https://cards.scryfall.io/border_crop/"
 "front/2/5/2599b027-1ff8-48b8-8a90-8ac1fac7ed63.jpg?1666303532|https://"
 "scryfall.com/card/j22/94/coldsteel-heart?utm_source=api>`"
 msgstr ""
 
-#: ../../J22.rst:31
+#: ../../J22.rst:55
 msgid "Coldsteel Heart enters the battlefield tapped."
 msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
-#: ../../J22.rst:33
+#: ../../J22.rst:57
 msgid "As Coldsteel Heart enters the battlefield, choose a color."
 msgstr "Przy wejściu tego bytu na pole bitwy wybierz kolor."
 
-#: ../../J22.rst:35
+#: ../../J22.rst:59
 msgid "|tap|: Add one mana of the chosen color."
 msgstr "|tap|: Weź jedną manę wybranego koloru."
+
+#: ../../J22.rst:67
+msgid ""
+":mtgtip:`Karn Liberated<https://cards.scryfall.io/border_crop/"
+"front/7/4/740dbebf-9e0b-4918-850b-8c1aa0b06c18.jpg?1668256484|https://"
+"scryfall.com/card/j22/97/karn-liberated?utm_source=api>`"
+msgstr ""
+
+#: ../../J22.rst:63
+msgid "+4: Target player exiles a card from their hand."
+msgstr ""
+
+#: ../../J22.rst:65
+msgid "−3: Exile target permanent."
+msgstr ""
+
+#: ../../J22.rst:67
+msgid ""
+"−14: Restart the game, leaving in exile all non-Aura permanent cards exiled "
+"with Karn Liberated. Then put those cards onto the battlefield under your "
+"control."
+msgstr ""
