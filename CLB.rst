@@ -2241,7 +2241,7 @@
    Whenever Harper Recruiter attacks, look at the top four cards of your library. You may reveal a Cleric card, a Rogue card, a Warrior card, and/or a Wizard card from among them and put those cards into your hand. Put the rest on the bottom of your library in a random order.
 
 
-:mtgtip:`Seasoned Dungeoneer<https://cards.scryfall.io/border_crop/front/6/4/648d9da3-5790-4d64-8b52-83141d2faf36.jpg?1655088288|https://scryfall.com/card/clb/610/seasoned-dungeoneer?utm_source=api>`
+:mtgtip:`Seasoned Dungeoneer<https://cards.scryfall.io/border_crop/front/6/4/648d9da3-5790-4d64-8b52-83141d2faf36.jpg?1669009765|https://scryfall.com/card/clb/610/seasoned-dungeoneer?utm_source=api>`
    When Seasoned Dungeoneer enters the battlefield, you take the initiative.
 
    Whenever you attack, target attacking Cleric, Rogue, Warrior, or Wizard gains protection from creatures until end of turn. It explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on the creature, then put the card back or put it into your graveyard.)
@@ -3615,7 +3615,7 @@
    |mana_1|, |tap|: Add |mana_w|\ |mana_b|.
 
 
-:mtgtip:`Phyrexian Revoker<https://cards.scryfall.io/border_crop/front/d/5/d5ef9f3b-d6f8-4795-ba96-2f92b8792360.jpg?1654118772|https://scryfall.com/card/clb/868/phyrexian-revoker?utm_source=api>`
+:mtgtip:`Phyrexian Revoker<https://cards.scryfall.io/border_crop/front/d/5/d5ef9f3b-d6f8-4795-ba96-2f92b8792360.jpg?1668813471|https://scryfall.com/card/clb/868/phyrexian-revoker?utm_source=api>`
    As Phyrexian Revoker enters the battlefield, choose a nonland card name.
 
    Activated abilities of sources with the chosen name can't be activated.
