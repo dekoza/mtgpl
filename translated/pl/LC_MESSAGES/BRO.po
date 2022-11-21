@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG po polsku 2022.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-11-21 15:31+0100\n"
-"PO-Revision-Date: 2022-11-10 19:18+0000\n"
+"PO-Revision-Date: 2022-11-21 14:51+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/bro/pl/>\n"
 "Language: pl\n"
@@ -2116,10 +2116,6 @@ msgid ""
 msgstr ""
 
 #: ../../BRO.rst:573
-#, fuzzy
-#| msgid ""
-#| "Put two +1/+1 counter on up to one creature. It gains lifelink until end "
-#| "of turn."
 msgid ""
 "Put two +1/+1 counters on up to one creature. It gains lifelink until end of "
 "turn."
@@ -2406,12 +2402,6 @@ msgid ""
 msgstr ""
 
 #: ../../BRO.rst:665
-#, fuzzy
-#| msgid ""
-#| "When Ravenous Gigamole enters the battlefield, mill three cards. You may "
-#| "put a creature card from among the cards milled this way into your hand. "
-#| "If you don't, put a +1/+1 counter on Ravenous Gigamole. (To mill a card, "
-#| "player put the top card of your library into your graveyard.)"
 msgid ""
 "When Ravenous Gigamole enters the battlefield, mill three cards. You may put "
 "a creature card from among the cards milled this way into your hand. If you "
@@ -2420,8 +2410,8 @@ msgid ""
 msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, zmiel trzy karty. Spośród kart "
 "zmielonych w ten sposób możesz umieścić w twojej ręce kartę stwora. Jeśli "
-"tego nie zrobisz, umieść znacznik +1/+1 na niniejszym. (Mieląc kartę gracz "
-"umieszcza wierzchnią kartę swojej biblioteki w swoim cmentarzu.)"
+"tego nie zrobisz, umieść znacznik +1/+1 na niniejszym. (Mieląc kartę umieść "
+"wierzchnią kartę twojej biblioteki w twoim cmentarzu.)"
 
 #: ../../BRO.rst:670
 msgid ""
@@ -5042,18 +5032,13 @@ msgid ""
 msgstr ""
 
 #: ../../BRO.rst:1469
-#, fuzzy
-#| msgid ""
-#| "When Stone Retrieval Unit enters the battlefield, create a tapped "
-#| "Powerstone token. (It's an artifact with \"|tap|: Add |colorless|. This "
-#| "mana can't be spent to cast a nonartifact spell.)"
 msgid ""
 "When Stone Retrieval Unit enters the battlefield, create a tapped Powerstone "
 "token. (It's an artifact with \"|tap|: Add |colorless|. This mana can't be "
 "spent to cast a nonartifact spell.\")"
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, stwórz przekręcony żeton Kamień Mocy. "
-"(To artefakt z \"|tap|: Weź |colorless|. Ta mana nie może być wydana na "
+"Kiedy ten byt wejdzie na pole bitwy, stwórz przekręcony żeton Kamień Mocy. ("
+"To artefakt z \"|tap|: Weź |colorless|. Ta mana nie może być wydana na "
 "rzucenie nieartefaktowego czaru.\")"
 
 #: ../../BRO.rst:1478
