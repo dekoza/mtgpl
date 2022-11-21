@@ -907,8 +907,8 @@
    Gift of Tiamat — When Dragonborn Immolator dies, note its power. You get a boon with "When you cast your next creature spell, it perpetually gets +X/+0, where X is the noted number."
 
 
-:mtgtip:`Flames of Moradin<https://cards.scryfall.io/border_crop/front/7/f/7f0a2b80-5988-4298-b393-bd96726be00f.jpg?1656478462|https://scryfall.com/card/hbg/52/flames-of-moradin?utm_source=api>`
-   Destroy up to three target artifacts. Conjure a duplicate of each nontoken artifact destroyed this way into your hand. The duplicates perpetually gain "You may pay |mana_r| rather than pay this spell's mana cost" and "at the beginning of your end step, sacrifice this artifact."
+:mtgtip:`Flames of Moradin<https://cards.scryfall.io/border_crop/front/7/f/7f0a2b80-5988-4298-b393-bd96726be00f.jpg?1668752697|https://scryfall.com/card/hbg/52/flames-of-moradin?utm_source=api>`
+   Destroy up to three target artifacts. Conjure a duplicate of each nontoken artifact destroyed this way into your hand. The duplicates perpetually gain "You may pay |mana_r| rather than pay this spell's mana cost" and "At the beginning of your end step, sacrifice this artifact."
 
 
 :mtgtip:`Genasi Rabble-Rouser<https://cards.scryfall.io/border_crop/front/6/7/67121610-cf44-404b-a367-6dd36b8c7f7d.jpg?1667435299|https://scryfall.com/card/hbg/53/genasi-rabble-rouser?utm_source=api>`

@@ -294,7 +294,7 @@
 :mtgtip:`Meloku the Clouded Mirror<https://cards.scryfall.io/border_crop/front/a/1/a19601ac-48a7-40c2-9159-af15af8520ca.jpg?1561968062|https://scryfall.com/card/mma/52/meloku-the-clouded-mirror?utm_source=api>`
    Flying
 
-   |mana_1|, Return a land you control to its owner's hand: Create a 2/2 blue Illusion creature token with flying.
+   |mana_1|, Return a land you control to its owner's hand: Create a 1/1 blue Illusion creature token with flying.
 
 
 :mtgtip:`Mothdust Changeling<https://cards.scryfall.io/border_crop/front/1/8/18acffb1-c1e8-4729-a350-64823b2f9d29.jpg?1561966398|https://scryfall.com/card/mma/53/mothdust-changeling?utm_source=api>`

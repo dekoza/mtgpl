@@ -1475,7 +1475,7 @@
    |mana_2|\ |mana_b|, Sacrifice Metalspinner's Puzzleknot: You draw a card and you lose 1 life.
 
 
-:mtgtip:`Mishra's Bauble<https://cards.scryfall.io/border_crop/front/4/5/45bbbf9b-8fee-4c32-a513-02dac6ac8a39.jpg?1599709584|https://scryfall.com/card/2xm/274/mishras-bauble?utm_source=api>`
+:mtgtip:`Mishra's Bauble<https://cards.scryfall.io/border_crop/front/4/5/45bbbf9b-8fee-4c32-a513-02dac6ac8a39.jpg?1668753576|https://scryfall.com/card/2xm/274/mishras-bauble?utm_source=api>`
    |tap|, Sacrifice Mishra's Bauble: Look at the top card of target player's library. Draw a card at the beginning of the next turn's upkeep.
 
 

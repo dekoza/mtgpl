@@ -873,7 +873,7 @@
    Partner
 
 
-:mtgtip:`Thorn of the Black Rose<https://cards.scryfall.io/border_crop/front/2/b/2b7538ad-cc41-4229-8a39-c1db21f2899a.jpg?1608909988|https://scryfall.com/card/cmr/154/thorn-of-the-black-rose?utm_source=api>`
+:mtgtip:`Thorn of the Black Rose<https://cards.scryfall.io/border_crop/front/2/b/2b7538ad-cc41-4229-8a39-c1db21f2899a.jpg?1669010258|https://scryfall.com/card/cmr/154/thorn-of-the-black-rose?utm_source=api>`
    Deathtouch
 
    When Thorn of the Black Rose enters the battlefield, you become the monarch.
@@ -2249,10 +2249,10 @@
    Remove three quest counters from Ior Ruin Expedition and sacrifice it: Draw two cards.
 
 
-:mtgtip:`Meloku the Clouded Mirror<https://cards.scryfall.io/border_crop/front/6/0/60b9db96-a6ab-454b-99a7-910ef77560d7.jpg?1608912121|https://scryfall.com/card/cmr/399/meloku-the-clouded-mirror?utm_source=api>`
+:mtgtip:`Meloku the Clouded Mirror<https://cards.scryfall.io/border_crop/front/6/0/60b9db96-a6ab-454b-99a7-910ef77560d7.jpg?1668725069|https://scryfall.com/card/cmr/399/meloku-the-clouded-mirror?utm_source=api>`
    Flying
 
-   |mana_1|, Return a land you control to its owner's hand: Create a 2/2 blue Illusion creature token with flying.
+   |mana_1|, Return a land you control to its owner's hand: Create a 1/1 blue Illusion creature token with flying.
 
 
 :mtgtip:`Mulldrifter<https://cards.scryfall.io/border_crop/front/8/e/8e06fc13-6a58-40f8-a3e6-5558a7a0d18f.jpg?1641578972|https://scryfall.com/card/cmr/400/mulldrifter?utm_source=api>`
