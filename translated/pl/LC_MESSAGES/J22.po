@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG po polsku 2022.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-11-22 17:59+0100\n"
-"PO-Revision-Date: 2022-11-15 13:33+0000\n"
+"PO-Revision-Date: 2022-11-22 17:10+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/j22/pl/>\n"
 "Language: pl\n"
@@ -246,16 +246,11 @@ msgid ""
 msgstr ""
 
 #: ../../J22.rst:9
-#, fuzzy
-#| msgid ""
-#| "Whenever Ardoz, Cobbler of War or another creature enters the battlefield "
-#| "under your control, that creature gets +2/+0 until end of turn."
 msgid ""
 "Whenever another creature enters the battlefield under your control, you "
 "gain 1 life."
 msgstr ""
-"Ilekroć niniejszy lub inny stwór wejdzie na pole bitwy pod twoim władaniem, "
-"ów stwór do końca tury dostaje +2/+0."
+"Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, zyskaj 1 życie."
 
 #: ../../J22.rst:11
 msgid ""
@@ -286,7 +281,7 @@ msgstr ""
 
 #: ../../J22.rst:19 ../../J22.rst:363
 msgid "Vigilance"
-msgstr ""
+msgstr "Czujność"
 
 #: ../../J22.rst:21
 msgid ""
@@ -358,7 +353,7 @@ msgstr ""
 
 #: ../../J22.rst:39
 msgid "Enchant creature or planeswalker"
-msgstr ""
+msgstr "Zaurocz stwora lub wędrowca"
 
 #: ../../J22.rst:41
 msgid ""
@@ -443,15 +438,15 @@ msgstr ""
 
 #: ../../J22.rst:65
 msgid "Choose one —"
-msgstr ""
+msgstr "Wybierz jedno —"
 
 #: ../../J22.rst:67
 msgid "Counter target spell unless its controller pays |mana_4|."
-msgstr ""
+msgstr "Skontruj wskazany czar, chyba że jego władca zapłaci |mana_4|."
 
 #: ../../J22.rst:69
 msgid "Draw two cards."
-msgstr ""
+msgstr "Dobierz dwie karty."
 
 #: ../../J22.rst:76
 msgid ""
@@ -540,7 +535,7 @@ msgstr ""
 
 #: ../../J22.rst:99 ../../J22.rst:395
 msgid "You draw a card and you lose 1 life."
-msgstr ""
+msgstr "Dobierz kartę i strać 1 życie."
 
 #: ../../J22.rst:101
 msgid "Exile target opponent's graveyard. That player loses 1 life."
@@ -555,7 +550,7 @@ msgstr ""
 
 #: ../../J22.rst:105
 msgid "Flying, deathtouch, lifelink"
-msgstr ""
+msgstr "Latanie, dotyk śmierci, więź życia"
 
 #: ../../J22.rst:107
 msgid ""
@@ -673,7 +668,7 @@ msgstr ""
 
 #: ../../J22.rst:139
 msgid "Trample"
-msgstr ""
+msgstr "Tratowanie"
 
 #: ../../J22.rst:141
 msgid ""
@@ -703,7 +698,7 @@ msgstr ""
 
 #: ../../J22.rst:149
 msgid "|tap|: Add |mana_g|."
-msgstr ""
+msgstr "|tap|: Weź |mana_g|."
 
 #: ../../J22.rst:154
 msgid ""
@@ -727,7 +722,7 @@ msgstr ""
 
 #: ../../J22.rst:157
 msgid "Reach"
-msgstr ""
+msgstr "Zasięg"
 
 #: ../../J22.rst:159
 msgid ""
@@ -758,7 +753,7 @@ msgstr ""
 
 #: ../../J22.rst:167
 msgid "|tap|: Add |mana_b|."
-msgstr ""
+msgstr "|tap|: Weź |mana_b|."
 
 #: ../../J22.rst:169
 msgid ""
@@ -775,7 +770,7 @@ msgstr ""
 
 #: ../../J22.rst:173 ../../J22.rst:221
 msgid "Flash"
-msgstr ""
+msgstr "Błysk"
 
 #: ../../J22.rst:175
 #, fuzzy
@@ -785,7 +780,7 @@ msgstr "Przy wejściu tego bytu na pole bitwy wybierz kolor."
 
 #: ../../J22.rst:177
 msgid "Creatures you control of the chosen type get +1/+1."
-msgstr ""
+msgstr "Stwory wybranego typu pod twoim władaniem dostają +1/+1."
 
 #: ../../J22.rst:184
 msgid ""
@@ -817,13 +812,15 @@ msgstr ""
 
 #: ../../J22.rst:187
 msgid "Enchant creature"
-msgstr ""
+msgstr "Zaurocz stwora"
 
 #: ../../J22.rst:189
 msgid ""
 "Enchanted creature can't attack or block, and its activated abilities can't "
 "be activated."
 msgstr ""
+"Zauroczony stwór nie może atakować ani blokować, a jego aktywowane zdolności "
+"nie mogą być aktywowane."
 
 #: ../../J22.rst:198
 msgid ""
@@ -862,6 +859,8 @@ msgid ""
 "Exile target creature or enchantment, then return it to the battlefield "
 "under its owner's control."
 msgstr ""
+"Wygnaj wskazanego stwora lub urok, po czym przywróć go na pole bitwy pod "
+"władaniem właściciela."
 
 #: ../../J22.rst:206
 msgid ""
@@ -872,7 +871,7 @@ msgstr ""
 
 #: ../../J22.rst:205
 msgid "Other Cats you control get +2/+1."
-msgstr ""
+msgstr "Inne Koty pod twoim władaniem dostają +2/+1."
 
 #: ../../J22.rst:210
 msgid ""
@@ -886,6 +885,8 @@ msgid ""
 "You may have Mirror Image enter the battlefield as a copy of a creature you "
 "control."
 msgstr ""
+"Możesz zdecydować, że ten byt wejdzie na pole bitwy jako kopia stwora pod "
+"twoim władaniem."
 
 #: ../../J22.rst:218
 msgid ""
@@ -918,6 +919,8 @@ msgid ""
 "When Spellstutter Sprite enters the battlefield, counter target spell with "
 "mana value X or less, where X is the number of Faeries you control."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, skontruj wskazany czar o skrócie many X "
+"lub mniejszym, gdzie X jest liczbą Wróżek pod twoim władaniem."
 
 #: ../../J22.rst:232
 msgid ""
@@ -931,12 +934,16 @@ msgid ""
 "When Whirler Rogue enters the battlefield, create two 1/1 colorless Thopter "
 "artifact creature tokens with flying."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, stwórz dwa żetony bezkolorowego "
+"artefaktowego stwora Kopter 1/1 z lataniem."
 
 #: ../../J22.rst:231
 msgid ""
 "Tap two untapped artifacts you control: Target creature can't be blocked "
 "this turn."
 msgstr ""
+"Przekręć dwa odkręcone artefakty pod twoim władaniem: Wskazany stwór nie "
+"może być blokowany w tej turze."
 
 #: ../../J22.rst:236
 msgid ""
@@ -947,7 +954,7 @@ msgstr ""
 
 #: ../../J22.rst:235
 msgid "Target player sacrifices a creature."
-msgstr ""
+msgstr "Wskazany gracz poświęca stwora."
 
 #: ../../J22.rst:240
 msgid ""
@@ -961,6 +968,9 @@ msgid ""
 "At the beginning of each upkeep, if an opponent lost life last turn, put a "
 "+1/+1 counter on target creature you control."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli przeciwnik stracił życia w "
+"poprzedniej turze, umieść znacznik +1/+1 na wskazanym stworze pod twoim "
+"władaniem."
 
 #: ../../J22.rst:246
 msgid ""
@@ -970,16 +980,16 @@ msgid ""
 msgstr ""
 
 #: ../../J22.rst:243
-#, fuzzy
-#| msgid "Coldsteel Heart enters the battlefield tapped."
 msgid "Oathsworn Vampire enters the battlefield tapped."
-msgstr "Ten byt wchodzi przekręcony na pole bitwy."
+msgstr "Ten stwór wchodzi przekręcony na pole bitwy."
 
 #: ../../J22.rst:245
 msgid ""
 "You may cast Oathsworn Vampire from your graveyard if you gained life this "
 "turn."
 msgstr ""
+"Możesz rzucić tego stwora z twojego cmentarza jeśli zyskałeś życie w tej "
+"turze."
 
 #: ../../J22.rst:252
 msgid ""
@@ -993,10 +1003,12 @@ msgid ""
 "Whenever another nontoken creature dies, you may create a 1/1 black Rat "
 "creature token."
 msgstr ""
+"Ilekroć umrze inny nieżetonowy stwór, możesz stworzyć żeton czarnego stwora "
+"Szczur 1/1."
 
 #: ../../J22.rst:251
 msgid "Rats you control have deathtouch."
-msgstr ""
+msgstr "Szczury pod twoim władaniem mają dotyk śmierci."
 
 #: ../../J22.rst:258
 msgid ""
@@ -1027,10 +1039,12 @@ msgid ""
 "Each creature you control that's a Wolf or a Werewolf enters the battlefield "
 "with an additional +1/+1 counter on it."
 msgstr ""
+"Każdy stwór pod twoim władaniem mający typ Wilk lub Wilkołak wchodzi na pole "
+"bitwy mając dodatkowy znacznik +1/+1."
 
 #: ../../J22.rst:263
 msgid "−2: Create a 2/2 green Wolf creature token."
-msgstr ""
+msgstr "–2: Stwórz żeton zielonego stwora Wilk 2/2."
 
 #: ../../J22.rst:268
 msgid ""
@@ -1046,6 +1060,9 @@ msgid ""
 "battlefield tapped. Put the rest on the bottom of your library in a random "
 "order."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, spójrz na pięć wierzchnich kart twojej "
+"biblioteki. Możesz umieścić kartę lądu spośród nich na polu bitwy, "
+"przekręconą. Umieść pozostałe losowo na spodzie twojej biblioteki."
 
 #: ../../J22.rst:272
 msgid ""
@@ -1058,7 +1075,7 @@ msgstr ""
 msgid ""
 "|mana_1|, Sacrifice Thrashing Brontodon: Destroy target artifact or "
 "enchantment."
-msgstr ""
+msgstr "|mana_1|, poświęć tego stwora: Zniszcz wskazany artefakt lub urok."
 
 #: ../../J22.rst:280
 msgid ""
@@ -1069,7 +1086,7 @@ msgstr ""
 
 #: ../../J22.rst:275
 msgid "Coldsteel Heart enters the battlefield tapped."
-msgstr "Ten byt wchodzi przekręcony na pole bitwy."
+msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
 
 #: ../../J22.rst:277
 msgid "As Coldsteel Heart enters the battlefield, choose a color."
@@ -1088,13 +1105,15 @@ msgstr ""
 
 #: ../../J22.rst:283
 msgid "|tap|: Add |colorless|."
-msgstr ""
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../J22.rst:285
 msgid ""
 "|mana_4|, |tap|: Investigate. (Create a Clue token. It's an artifact with \"|"
 "mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
+"|mana_4|, |tap|: Dociekaj. (Stwórz żeton Wskazówki. Jest to artefakt mający "
+"\"|mana_2|, poświęć ten artefakt: Dobierz kartę.\")"
 
 #: ../../J22.rst:292
 msgid ""
@@ -1108,12 +1127,16 @@ msgid ""
 "|mana_1|\\ |mana_w|: Another target Vehicle you control becomes an artifact "
 "creature until end of turn."
 msgstr ""
+"|mana_1|\\ |mana_w|: Inny wskazany Pojazd pod twoim władaniem staje się do "
+"końca tury artefaktowym stworem."
 
 #: ../../J22.rst:291
 msgid ""
 "Crew 4 (Tap any number of creatures you control with total power 4 or more: "
 "This Vehicle becomes an artifact creature until end of turn.)"
 msgstr ""
+"Załoga 4 (Przekręć dowolną liczbę stworów pod twoim władaniem o łącznej sile "
+"co najmniej 4: Ten Pojazd staje się do końca tury artefaktowym stworem.)"
 
 #: ../../J22.rst:300
 msgid ""
@@ -1152,6 +1175,8 @@ msgid ""
 "Whenever Blood Artist or another creature dies, target player loses 1 life "
 "and you gain 1 life."
 msgstr ""
+"Ilekroć umrze ten lub inny stwór, wskazany gracz traci 1 życie, a ty zyskaj "
+"1 życie."
 
 #: ../../J22.rst:310
 msgid ""
@@ -1162,11 +1187,11 @@ msgstr ""
 
 #: ../../J22.rst:307
 msgid "Cast this spell only if you control two or more Vampires."
-msgstr ""
+msgstr "Możesz rzucić ten czar tylko jeśli władasz co najmniej dwoma Wampirami."
 
 #: ../../J22.rst:309
 msgid "Destroy target creature. You gain 4 life."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora. Zyskaj 4 życia."
 
 #: ../../J22.rst:316
 msgid ""
@@ -1203,7 +1228,7 @@ msgstr ""
 
 #: ../../J22.rst:323
 msgid "When Uktabi Orangutan enters the battlefield, destroy target artifact."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zniszcz wskazany artefakt."
 
 #: ../../J22.rst:330
 msgid ""
@@ -1217,12 +1242,16 @@ msgid ""
 "When Wicked Wolf enters the battlefield, it fights up to one target creature "
 "you don't control."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, walczy z co najwyżej jednym wskazanym "
+"stworem poza twoim władaniem."
 
 #: ../../J22.rst:329
 msgid ""
 "Sacrifice a Food: Put a +1/+1 counter on Wicked Wolf. It gains "
 "indestructible until end of turn. Tap it."
 msgstr ""
+"Poświęć Jadło: Umieść znacznik +1/+1 na tym stworze. Zyskuje on "
+"niezniszczalność do końca tury. Przekręć go."
 
 #: ../../J22.rst:338
 msgid ""
@@ -1236,12 +1265,15 @@ msgid ""
 "+1: You gain life equal to the number of creatures you control plus the "
 "number of planeswalkers you control."
 msgstr ""
+"+1: Zyskaj życia równe sumie liczb stworów i wędrowców pod twoim władaniem."
 
 #: ../../J22.rst:335
 msgid ""
 "−2: Create a 2/2 white Cat Soldier creature token named Ajani's Pridemate "
 "with \"Whenever you gain life, put a +1/+1 counter on Ajani's Pridemate.\""
 msgstr ""
+"–2: Stwórz żeton białego stwora Kot Piechur 2/2 o nazwie Ajani's Pridemate "
+"mający \"Ilekroć zyskasz życia, umieść znacznik +1/+1 na tym stworze.\""
 
 #: ../../J22.rst:337
 msgid ""
@@ -1249,6 +1281,8 @@ msgid ""
 "Ajani, Strength of the Pride and each artifact and creature your opponents "
 "control."
 msgstr ""
+"0: Jeśli masz co najmniej o 15 żyć więcej niż twoje startowe życia, wygnaj "
+"tego wędrowca oraz każdy artefakt i stwora pod władaniem przeciwników."
 
 #: ../../J22.rst:342
 msgid ""
@@ -1259,7 +1293,7 @@ msgstr ""
 
 #: ../../J22.rst:341
 msgid "Whenever you gain life, put a +1/+1 counter on Ajani's Pridemate."
-msgstr ""
+msgstr "Ilekroć zyskasz życia, umieść znacznik +1/+1 na tym stworze."
 
 #: ../../J22.rst:350
 msgid ""
@@ -1273,16 +1307,20 @@ msgid ""
 "Landfall — Whenever a land enters the battlefield under your control, choose "
 "one —"
 msgstr ""
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, wybierz "
+"jedną —"
 
 #: ../../J22.rst:347
 msgid "Create a 2/2 white Cat Beast creature token."
-msgstr ""
+msgstr "Stwórz żeton białego stwora Kot Bestia 2/2."
 
 #: ../../J22.rst:349
 msgid ""
 "Put a +1/+1 counter on each creature you control. Those creatures gain "
 "vigilance until end of turn."
 msgstr ""
+"Umieść znacznik +1/+1 na każdym stworze pod twoim władaniem. Owe stwory "
+"zyskują do końca tury czujność."
 
 #: ../../J22.rst:354
 msgid ""
@@ -1296,6 +1334,8 @@ msgid ""
 "Whenever Leonin Warleader attacks, create two 1/1 white Cat creature tokens "
 "with lifelink that are tapped and attacking."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, stwórz dwa przekręcone i atakujące żetony "
+"białego stwora Kot 1/1 z więzią życia."
 
 #: ../../J22.rst:360
 msgid ""
@@ -1306,13 +1346,15 @@ msgstr ""
 
 #: ../../J22.rst:357
 msgid "Other Cats you control get +1/+1 and have lifelink."
-msgstr ""
+msgstr "Inne Koty pod twoim władaniem dostają +1/+1 i mają więź życia."
 
 #: ../../J22.rst:359
 msgid ""
 "When Regal Caracal enters the battlefield, create two 1/1 white Cat creature "
 "tokens with lifelink."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, stwórz dwa żetony białego stwora Kot 1/"
+"1 z więzią życia."
 
 #: ../../J22.rst:368
 msgid ""
@@ -1326,12 +1368,16 @@ msgid ""
 "Landfall — Whenever a land enters the battlefield under your control, exile "
 "target permanent card with mana value 3 or less from your graveyard."
 msgstr ""
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, wygnaj z "
+"twojego cmentarza wskazaną kartę bytu o skrócie many 3 lub mniejszym."
 
 #: ../../J22.rst:367
 msgid ""
 "When Trove Warden dies, put each permanent card exiled with it onto the "
 "battlefield under the control of that card's owner."
 msgstr ""
+"Kiedy ten stwór umrze, umieść na polu bitwy każdą kartę bytu wygnaną z jego "
+"użyciem pod władaniem właściciela owej karty."
 
 #: ../../J22.rst:372
 msgid ""
@@ -1360,10 +1406,8 @@ msgid ""
 msgstr ""
 
 #: ../../J22.rst:375
-#, fuzzy
-#| msgid "As Coldsteel Heart enters the battlefield, choose a color."
 msgid "When Burglar Rat enters the battlefield, each opponent discards a card."
-msgstr "Przy wejściu tego bytu na pole bitwy wybierz kolor."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, każdy przeciwnik odrzuca kartę."
 
 #: ../../J22.rst:380
 msgid ""
@@ -1390,6 +1434,8 @@ msgid ""
 "|mana_x|: Crypt Rats deals X damage to each creature and each player. Spend "
 "only black mana on X."
 msgstr ""
+"|mana_x|: Ten stwór zadaje X obrażeń każdemu stworowi i graczowi. Na X "
+"wydawaj tylko czarną manę."
 
 #: ../../J22.rst:390
 msgid ""
@@ -1400,11 +1446,11 @@ msgstr ""
 
 #: ../../J22.rst:387
 msgid "As an additional cost to cast this spell, sacrifice a creature."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć stwora."
 
 #: ../../J22.rst:389
 msgid "Flying, trample"
-msgstr ""
+msgstr "Latanie, tratowanie"
 
 #: ../../J22.rst:398
 msgid ""
@@ -1417,10 +1463,11 @@ msgstr ""
 msgid ""
 "Whenever a Swamp enters the battlefield under your control, choose one —"
 msgstr ""
+"Ilekroć Bagno wejdzie na pole bitwy pod twoim władaniem, wybierz jedno —"
 
 #: ../../J22.rst:397
 msgid "Dread Presence deals 2 damage to any target and you gain 2 life."
-msgstr ""
+msgstr "Ten stwór zadaje wskazanemu celowi 2 obrażenia, zyskaj 2 życia."
 
 #: ../../J22.rst:402
 msgid ""
@@ -1431,7 +1478,7 @@ msgstr ""
 
 #: ../../J22.rst:401
 msgid "Destroy target creature."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora."
 
 #: ../../J22.rst:408
 msgid ""
@@ -1441,18 +1488,12 @@ msgid ""
 msgstr ""
 
 #: ../../J22.rst:407
-#, fuzzy
-#| msgid ""
-#| "Whenever an artifact an opponent controls is put into a graveyard from "
-#| "the battlefield, put a +1/+1 counter on each creature you control that's "
-#| "an Ape or Monkey."
 msgid ""
 "Whenever a permanent owned by another player is put into a graveyard from "
 "the battlefield, you draw a card and you lose 1 life."
 msgstr ""
-"Ilekroć artefakt pod władaniem przeciwnika trafi z pola bitwy do cmentarza, "
-"umieść znacznik +1/+1 na każdym stworze pod twoim władaniu będącym Małpą lub "
-"Małpką."
+"Ilekroć byt pod władaniem innego gracza zostanie umieszczony w cmentarzu z "
+"pola bitwy, dobierz kartę i strać 1 życie."
 
 #: ../../J22.rst:412
 msgid ""
@@ -1479,12 +1520,16 @@ msgid ""
 "|mana_3|\\ |mana_b|\\ |mana_b|: Monstrosity 3. (If this creature isn't "
 "monstrous, put three +1/+1 counters on it and it becomes monstrous.)"
 msgstr ""
+"|mana_3|\\ |mana_b|: Monstrualność 3. (Jeśli ten stwór nie jest monstrualny, "
+"umieść na nim trzy znaczniki +1/+1 i staje się on monstrualny.)"
 
 #: ../../J22.rst:417
 msgid ""
 "As long as Sinuous Vermin is monstrous, it has menace. (It can't be blocked "
 "except by two or more creatures.)"
 msgstr ""
+"O ile ten stwór jest monstrualny, ma złowrogość. (Nie może być blokowany, "
+"chyba że przez co najmniej dwa stwory.)"
 
 #: ../../J22.rst:422
 msgid ""
@@ -1498,6 +1543,8 @@ msgid ""
 "Deathtouch (Any amount of damage this deals to a creature is enough to "
 "destroy it.)"
 msgstr ""
+"Dotyk śmierci. (Stwór otrzymujący od niniejszego jakiekolwiek obrażenia "
+"zostaje zniszczony.)"
 
 #: ../../J22.rst:426
 msgid ""
@@ -1508,7 +1555,7 @@ msgstr ""
 
 #: ../../J22.rst:425
 msgid "Target creature gets -3/-3 until end of turn. You lose 3 life."
-msgstr ""
+msgstr "Wskazany stwór do końca tury dostaje -3/-3. Strać 3 życia."
 
 #: ../../J22.rst:433
 msgid ""
@@ -1519,14 +1566,15 @@ msgstr ""
 
 #: ../../J22.rst:429
 msgid "Walking Ballista enters the battlefield with X +1/+1 counters on it."
-msgstr ""
+msgstr "Ten stwór wchodzi na pole bitwy mając X znaczników +1/+1."
 
 #: ../../J22.rst:431
 msgid "|mana_4|: Put a +1/+1 counter on Walking Ballista."
-msgstr ""
+msgstr "|mana_4|: Umieść znacznik +1/+1 na tym stworze."
 
 #: ../../J22.rst:433
 msgid ""
 "Remove a +1/+1 counter from Walking Ballista: It deals 1 damage to any "
 "target."
 msgstr ""
+"Usuń znacznik +1/+1 z tego stwora: Zadaje on wskazanemu celowi 1 obrażenie."
