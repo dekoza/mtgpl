@@ -5,12 +5,114 @@
 =============================
 
 
+:mtgtip:`Distinguished Conjurer<https://cards.scryfall.io/border_crop/front/d/0/d0eaeec2-d1d4-4494-9c5d-cebfd7f088de.jpg?1669090657|https://scryfall.com/card/j22/4/distinguished-conjurer?utm_source=api>`
+   Whenever another creature enters the battlefield under your control, you gain 1 life.
+
+   |mana_4|\ |mana_w|, |tap|: Exile another target creature you control, then return it to the battlefield under its owner's control.
+
+
+:mtgtip:`Ingenious Leonin<https://cards.scryfall.io/border_crop/front/4/c/4c6fd0bf-3f02-46f3-9c9a-931eab190584.jpg?1669088960|https://scryfall.com/card/j22/5/ingenious-leonin?utm_source=api>`
+   |mana_3|\ |mana_w|: Put a +1/+1 counter on another target attacking creature you control. If that creature is a Cat, it gains first strike until end of turn.
+
+
+:mtgtip:`Lita, Mechanical Engineer<https://cards.scryfall.io/border_crop/front/f/3/f3a5a044-d474-43f4-95a9-e67808908e6c.jpg?1669089278|https://scryfall.com/card/j22/6/lita-mechanical-engineer?utm_source=api>`
+   Vigilance
+
+   At the beginning of your end step, untap each other artifact creature you control.
+
+   |mana_3|\ |mana_w|, |tap|: Create a 5/5 colorless Vehicle artifact token named Zeppelin with flying and crew 3. (It has "Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.")
+
+
+:mtgtip:`Magnanimous Magistrate<https://cards.scryfall.io/border_crop/front/a/6/a6649e6c-bbd8-43db-9f3f-a24b32aed4e4.jpg?1669090191|https://scryfall.com/card/j22/7/magnanimous-magistrate?utm_source=api>`
+   Magnanimous Magistrate enters the battlefield with five reprieve counters on it.
+
+   Whenever another nontoken creature you control dies, if its mana value was 1 or greater, you may remove that many reprieve counters from Magnanimous Magistrate. If you do, return that card to the battlefield under its owner's control.
+
+
+:mtgtip:`Preston, the Vanisher<https://cards.scryfall.io/border_crop/front/9/5/952cb0b3-a6b7-4279-8833-3d8890b2d005.jpg?1669099956|https://scryfall.com/card/j22/8/preston-the-vanisher?utm_source=api>`
+   Whenever another nontoken creature enters the battlefield under your control, if it wasn't cast, create a token that's a copy of that creature, except it's a 0/1 white Illusion.
+
+   |mana_1|\ |mana_w|, Sacrifice five Illusions: Exile target nonland permanent.
+
+
+:mtgtip:`Hold for Questioning<https://cards.scryfall.io/border_crop/front/7/4/74004b11-53dc-475c-8d29-cf52403456cf.jpg?1669090030|https://scryfall.com/card/j22/11/hold-for-questioning?utm_source=api>`
+   Enchant creature or planeswalker
+
+   When Hold for Questioning enters the battlefield, tap enchanted permanent and investigate. (Create a Clue token. It's an artifact with "|mana_2|, Sacrifice this artifact: Draw a card.")
+
+   Enchanted permanent doesn't untap during its controller's untap step and its activate abilities can't be activated.
+
+
 :mtgtip:`Isu the Abominable<https://cards.scryfall.io/border_crop/front/1/e/1e1d50c3-3219-49cb-8f63-c1faff93215c.jpg?1666303712|https://scryfall.com/card/j22/12/isu-the-abominable?utm_source=api>`
    You may look at the top card of your library any time.
 
    You may play snow lands and cast snow spells from the top of your library.
 
    Whenever another snow permanent enters the battlefield under your control, you may pay |mana_g|, |mana_w|, or |mana_u|. If you do, put a +1/+1 counter on Isu the Abominable.
+
+
+:mtgtip:`Merfolk Pupil<https://cards.scryfall.io/border_crop/front/4/2/42aacf99-39d1-4299-8557-6cc10ce9e35f.jpg?1669094991|https://scryfall.com/card/j22/15/merfolk-pupil?utm_source=api>`
+   When Merfolk Pupil enters the battlefield, draw a card, then discard a card.
+
+   |mana_1|\ |mana_u|, Exile Merfolk Pupil from your graveyard: Draw a card, then discard a card.
+
+
+:mtgtip:`Pirated Copy<https://cards.scryfall.io/border_crop/front/8/a/8a0567fb-2b4f-4fa9-8dfe-df4e665a4c5c.jpg?1669090451|https://scryfall.com/card/j22/16/pirated-copy?utm_source=api>`
+   When may have Pirated copy enter the battlefield as a copy of any creature on the battlefield, except it's a Pirate in addition to its other types and it has "Whenever this creature or another creature with the same name deals combat damage to a player, you may draw a card."
+
+
+:mtgtip:`"See the Soul"<https://cards.scryfall.io/border_crop/front/2/c/2cebbfa1-e709-45bb-9b86-c6b09e7866b2.jpg?1669091337|https://scryfall.com/card/j22/17/see-the-soul?utm_source=api>`
+   Choose one —
+
+   • Counter target spell unless its controller pays |mana_4|.
+
+   • Draw two cards.
+
+
+:mtgtip:`"Synchronous Dismissal"<https://cards.scryfall.io/border_crop/front/6/8/68f10249-8cd0-4366-bd9a-755f8e1c3592.jpg?1669091256|https://scryfall.com/card/j22/18/synchronous-dismissal?utm_source=api>`
+   This spell costs |mana_2| less to cast if you control two or more creatures that share a creature type.
+
+   Put target nonland permanent into its owner's library second from the top.
+
+
+:mtgtip:`Ashcoat of the Shadow Swarm<https://cards.scryfall.io/border_crop/front/2/f/2fce5989-a2a0-4825-b90a-a1f78659b6e0.jpg?1669099951|https://scryfall.com/card/j22/19/ashcoat-of-the-shadow-swarm?utm_source=api>`
+   Whenever Ashcoat of the Shadow Swarm attacks or blocks, other Rats you control get +X/+X until end of turn, where X is the number of Rats you control.
+
+   At the beginning of your end step, you may mill four cards. If you do, return up to two Rat creature cards from your graveyard to your hand. (To mill a card, put the top card of your library into your graveyard.)
+
+
+:mtgtip:`Conductor of Cacophony<https://cards.scryfall.io/border_crop/front/3/7/37d4f19b-3c4e-4aa0-90f5-6cf397a5ad6d.jpg?1669088598|https://scryfall.com/card/j22/20/conductor-of-cacophony?utm_source=api>`
+   Conductor of Cacophony enters the battlefield with two +1/+1 counters on it.
+
+   |mana_b|, Remove a +1/+1 counter from Conductor of Cacophony: It deals 1 damage to each other creature and each player.
+
+
+:mtgtip:`Creeping Bloodsucker<https://cards.scryfall.io/border_crop/front/e/5/e5e3a9e1-fafe-4859-a550-7ae09804aced.jpg?1669088333|https://scryfall.com/card/j22/21/creeping-bloodsucker?utm_source=api>`
+   At the beginning of your upkeep, Creeping Bloodsucker deals 1 damage to each opponent. You gain life equal to the damage dealt this way.
+
+
+:mtgtip:`Disciple of Perdition<https://cards.scryfall.io/border_crop/front/5/e/5e9abb9b-5d52-401f-aa6b-189aad72bfc2.jpg?1669088735|https://scryfall.com/card/j22/23/disciple-of-perdition?utm_source=api>`
+   When Disciple of Perdition dies, choose
+
+   one. If you have exactly 13 life, you may choose both.
+
+   • You draw a card and you lose 1 life.
+
+   • Exile target opponent's graveyard. That player loses 1 life.
+
+
+:mtgtip:`Rodolf Duskbringer<https://cards.scryfall.io/border_crop/front/d/9/d9afd47b-ff94-4fdd-bb04-bdf9b8b61a6d.jpg?1669088091|https://scryfall.com/card/j22/25/rodolf-duskbringer?utm_source=api>`
+   Flying, deathtouch, lifelink
+
+   Whenever you gain life, Rodolf Duskbringer gains indestructible until end of turn.
+
+   At the beginning of your end step, you may pay |mana_1|\ |mana_wb|. When you do, return target creature with mana value X or less from your graveyard to the battlefield, where X is the amount of life you gained this turn.
+
+
+:mtgtip:`Termination Facilitator<https://cards.scryfall.io/border_crop/front/5/d/5db59164-f0b1-4b5a-b821-ad0b2e1612d1.jpg?1669089355|https://scryfall.com/card/j22/28/termination-facilitator?utm_source=api>`
+   |tap|: Put a bounty counter on target creature or planeswalker. Activate only as a sorcery.
+
+   Whenever a creature or planeswalker an opponent controls with a bounty counter on it is dealt damage, destroy it.
 
 
 :mtgtip:`Ardoz, Cobbler of War<https://cards.scryfall.io/border_crop/front/2/a/2a012f05-0009-42cf-8a69-07140b2a2aef.jpg?1666346902|https://scryfall.com/card/j22/29/ardoz-cobbler-of-war?utm_source=api>`
@@ -29,12 +131,82 @@
    Whenever Kibo attacks, defending player sacrifices an artifact.
 
 
+:mtgtip:`Mild-Mannered Librarian<https://cards.scryfall.io/border_crop/front/3/e/3eee6f29-ef06-47f6-99af-fb0ff88f09d0.jpg?1669087710|https://scryfall.com/card/j22/41/mild-mannered-librarian?utm_source=api>`
+   |mana_3|\ |mana_g|: Mild-Mannered Librarian becomes a werewolf. Put two +1/+1 counters on it and you draw a card. Activate only once.
+
+
+:mtgtip:`Primeval Herald<https://cards.scryfall.io/border_crop/front/f/b/fbb0a91b-246b-4c1f-9b98-2ad6ff1ba124.jpg?1669088380|https://scryfall.com/card/j22/42/primeval-herald?utm_source=api>`
+   Trample
+
+   Whenever Primeval Herald enters the battlefield or attacks, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+
+
+:mtgtip:`Runadi, Behemoth Caller<https://cards.scryfall.io/border_crop/front/f/4/f4f5500f-e82c-44f3-8be8-cee4c86824b1.jpg?1669087946|https://scryfall.com/card/j22/44/runadi-behemoth-caller?utm_source=api>`
+   Whenever you cast a creature spell with mana value 5 or greater, that creature enters the battlefield with X additional +1/+1 counters on it, where X is its mana value minus 4.
+
+   Creature you control with three or more +1/+1 counters on them have haste.
+
+   |tap|: Add |mana_g|.
+
+
+:mtgtip:`Spectral Hunt-Caller<https://cards.scryfall.io/border_crop/front/3/5/358fc99b-b2e5-4967-ba5a-ab2caee1751c.jpg?1669087790|https://scryfall.com/card/j22/45/spectral-hunt-caller?utm_source=api>`
+   |mana_5|\ |mana_g|: Creatures you control get +1/+1 and gain trample until end of turn.
+
+
+:mtgtip:`Towering Gibbon<https://cards.scryfall.io/border_crop/front/b/1/b14a22aa-0f79-4497-a7ff-08d92d14bc0f.jpg?1669089573|https://scryfall.com/card/j22/46/towering-gibbon?utm_source=api>`
+   Reach
+
+   Towering Gibbon's power is equal to the greatest mana value among creatures you control.
+
+
+:mtgtip:`Dutiful Replicator<https://cards.scryfall.io/border_crop/front/0/d/0de6fc60-89ad-4c6f-a734-5344e5b954fa.jpg?1669089685|https://scryfall.com/card/j22/48/dutiful-replicator?utm_source=api>`
+   When Dutiful Replicator enters the battlefield, you may pay |mana_1|. When you do, create a token that's a copy of target token you control not named Dutiful Replicator.
+
+
+:mtgtip:`Infernal Idol<https://cards.scryfall.io/border_crop/front/9/d/9d986229-c8d5-462c-bf74-ae94326a5aa0.jpg?1669088853|https://scryfall.com/card/j22/49/infernal-idol?utm_source=api>`
+   |tap|: Add |mana_b|.
+
+   |mana_1|\ |mana_b|\ |mana_b|, |tap|, Sacrifice Infernal Idol: You draw two cards and you lose 2 life.
+
+
+:mtgtip:`Instruments of War<https://cards.scryfall.io/border_crop/front/9/5/9526bea2-8d47-4a82-a617-6c57c7abc69a.jpg?1669091000|https://scryfall.com/card/j22/50/instruments-of-war?utm_source=api>`
+   Flash
+
+   As Instruments of War enters the battlefield, choose a creature type.
+
+   Creatures you control of the chosen type get +1/+1.
+
+
+:mtgtip:`Planar Atlas<https://cards.scryfall.io/border_crop/front/9/0/909b15e4-c6c8-44bf-a993-13a97de40e36.jpg?1669094432|https://scryfall.com/card/j22/51/planar-atlas?utm_source=api>`
+   Planar Atlas enters the battlefield tapped.
+
+   When Planar Atlas enters the battlefield, you may look at the top four cards of your library. If you do, reveal up to one land card from among them, then put that card on top of your library and rest on the bottom of your library in a random order.
+
+
+:mtgtip:`Arrest<https://cards.scryfall.io/border_crop/front/2/f/2f6b9897-a473-4c47-994a-a6d7e9e81ef2.jpg?1669090063|https://scryfall.com/card/j22/52/arrest?utm_source=api>`
+   Enchant creature
+
+   Enchanted creature can't attack or block, and its activated abilities can't be activated.
+
+
 :mtgtip:`Balan, Wandering Knight<https://cards.scryfall.io/border_crop/front/d/7/d7f6da2e-3759-4550-999f-2c0fa6c76c73.jpg?1668376569|https://scryfall.com/card/j22/53/ja/balan-wandering-knight?utm_source=api>`
    First strike
 
    Balan, Wandering Knight has double strike as long as two or more Equipment are attached to it.
 
    |mana_1|\ |mana_w|: Attach all Equipment you control to Balan.
+
+
+:mtgtip:`Flicker of Fate<https://cards.scryfall.io/border_crop/front/6/4/6417e616-0490-4d89-a8ab-9b92fcc62a29.jpg?1669090579|https://scryfall.com/card/j22/56/flicker-of-fate?utm_source=api>`
+   Exile target creature or enchantment, then return it to the battlefield under its owner's control.
+
+
+:mtgtip:`King of the Pride<https://cards.scryfall.io/border_crop/front/5/6/56b8343f-0554-42b1-9e32-431dcc4b0346.jpg?1669089099|https://scryfall.com/card/j22/57/king-of-the-pride?utm_source=api>`
+   Other Cats you control get +2/+1.
+
+
+:mtgtip:`Mirror Image<https://cards.scryfall.io/border_crop/front/b/d/bd9b7f07-cffb-4797-94a6-3279714b1c88.jpg?1669090526|https://scryfall.com/card/j22/62/mirror-image?utm_source=api>`
+   You may have Mirror Image enter the battlefield as a copy of a creature you control.
 
 
 :mtgtip:`Spectral Sailor<https://cards.scryfall.io/border_crop/front/7/7/7743b587-e498-4761-9173-e803c9eed86b.jpg?1668376564|https://scryfall.com/card/j22/64/ja/spectral-sailor?utm_source=api>`
@@ -45,10 +217,58 @@
    |mana_3|\ |mana_u|: Draw a card.
 
 
+:mtgtip:`Spellstutter Sprite<https://cards.scryfall.io/border_crop/front/a/0/a0e262a3-0e69-4d61-8143-b9d137c31496.jpg?1669091048|https://scryfall.com/card/j22/65/spellstutter-sprite?utm_source=api>`
+   Flash
+
+   Flying
+
+   When Spellstutter Sprite enters the battlefield, counter target spell with mana value X or less, where X is the number of Faeries you control.
+
+
+:mtgtip:`Whirler Rogue<https://cards.scryfall.io/border_crop/front/c/6/c62a27a8-271c-4ac8-97a5-2efb192e3a15.jpg?1669095015|https://scryfall.com/card/j22/66/whirler-rogue?utm_source=api>`
+   When Whirler Rogue enters the battlefield, create two 1/1 colorless Thopter artifact creature tokens with flying.
+
+   Tap two untapped artifacts you control: Target creature can't be blocked this turn.
+
+
+:mtgtip:`Diabolic Edict<https://cards.scryfall.io/border_crop/front/d/2/d2abd138-b840-4222-88ad-7b0ed64a927b.jpg?1669088683|https://scryfall.com/card/j22/67/diabolic-edict?utm_source=api>`
+   Target player sacrifices a creature.
+
+
+:mtgtip:`Feast on the Fallen<https://cards.scryfall.io/border_crop/front/d/1/d1d0f98c-264e-4d82-893a-5f84fc890705.jpg?1669089393|https://scryfall.com/card/j22/68/feast-on-the-fallen?utm_source=api>`
+   At the beginning of each upkeep, if an opponent lost life last turn, put a +1/+1 counter on target creature you control.
+
+
+:mtgtip:`Oathsworn Vampire<https://cards.scryfall.io/border_crop/front/0/4/04099735-bc73-40ae-bc28-0ad5c96feb12.jpg?1669088193|https://scryfall.com/card/j22/70/oathsworn-vampire?utm_source=api>`
+   Oathsworn Vampire enters the battlefield tapped.
+
+   You may cast Oathsworn Vampire from your graveyard if you gained life this turn.
+
+
+:mtgtip:`Ogre Slumlord<https://cards.scryfall.io/border_crop/front/b/1/b1f176f9-d353-479e-a808-54dc5e8ff746.jpg?1669091608|https://scryfall.com/card/j22/71/ogre-slumlord?utm_source=api>`
+   Whenever another nontoken creature dies, you may create a 1/1 black Rat creature token.
+
+   Rats you control have deathtouch.
+
+
 :mtgtip:`Kiki-Jiki, Mirror Breaker<https://cards.scryfall.io/border_crop/front/0/e/0e6fc996-17ba-4090-bf82-0c2eba93a81e.jpg?1666303373|https://scryfall.com/card/j22/79/kiki-jiki-mirror-breaker?utm_source=api>`
    Haste
 
    |tap|: Create a token that's a copy of target nonlegendary creature you control, except it has haste. Sacrifice it at the beginning of the next end step.
+
+
+:mtgtip:`Arlinn, Voice of the Pack<https://cards.scryfall.io/border_crop/front/9/8/98bee15d-6868-4dfc-9dd9-b437c5f3d6db.jpg?1669087643|https://scryfall.com/card/j22/85/arlinn-voice-of-the-pack?utm_source=api>`
+   Each creature you control that's a Wolf or a Werewolf enters the battlefield with an additional +1/+1 counter on it.
+
+   −2: Create a 2/2 green Wolf creature token.
+
+
+:mtgtip:`Elvish Rejuvenator<https://cards.scryfall.io/border_crop/front/2/d/2d657f45-ee7f-4114-a570-314688138b4f.jpg?1669088420|https://scryfall.com/card/j22/88/elvish-rejuvenator?utm_source=api>`
+   When Elvish Rejuvenator enters the battlefield, look at the top five cards of your library. You may put a land card from among them onto the battlefield tapped. Put the rest on the bottom of your library in a random order.
+
+
+:mtgtip:`Thrashing Brontodon<https://cards.scryfall.io/border_crop/front/d/5/d5a65e7c-3f2e-44d1-8f85-4acf5f147c17.jpg?1669087877|https://scryfall.com/card/j22/92/thrashing-brontodon?utm_source=api>`
+   |mana_1|, Sacrifice Thrashing Brontodon: Destroy target artifact or enchantment.
 
 
 :mtgtip:`Coldsteel Heart<https://cards.scryfall.io/border_crop/front/2/5/2599b027-1ff8-48b8-8a90-8ac1fac7ed63.jpg?1666303532|https://scryfall.com/card/j22/94/coldsteel-heart?utm_source=api>`
@@ -59,10 +279,156 @@
    |tap|: Add one mana of the chosen color.
 
 
+:mtgtip:`Magnifying Glass<https://cards.scryfall.io/border_crop/front/5/d/5db997a7-d54c-4821-9e9f-56292f9e7e5a.jpg?1669089601|https://scryfall.com/card/j22/95/magnifying-glass?utm_source=api>`
+   |tap|: Add |colorless|.
+
+   |mana_4|, |tap|: Investigate. (Create a Clue token. It's an artifact with "|mana_2|, Sacrifice this artifact: Draw a card.")
+
+
+:mtgtip:`Peacewalker Colossus<https://cards.scryfall.io/border_crop/front/a/e/ae799ee8-f1cf-4259-9e78-def9fc13b63a.jpg?1669089181|https://scryfall.com/card/j22/96/peacewalker-colossus?utm_source=api>`
+   |mana_1|\ |mana_w|: Another target Vehicle you control becomes an artifact creature until end of turn.
+
+   Crew 4 (Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)
+
+
 :mtgtip:`Karn Liberated<https://cards.scryfall.io/border_crop/front/7/4/740dbebf-9e0b-4918-850b-8c1aa0b06c18.jpg?1668256484|https://scryfall.com/card/j22/97/karn-liberated?utm_source=api>`
    +4: Target player exiles a card from their hand.
 
    −3: Exile target permanent.
 
    −14: Restart the game, leaving in exile all non-Aura permanent cards exiled with Karn Liberated. Then put those cards onto the battlefield under your control.
+
+
+:mtgtip:`Blood Artist<https://cards.scryfall.io/border_crop/front/c/4/c4c1641d-c4ea-4657-a0ae-db09bba83a0f.jpg?1669088231|https://scryfall.com/card/j22/117/blood-artist?utm_source=api>`
+   Whenever Blood Artist or another creature dies, target player loses 1 life and you gain 1 life.
+
+
+:mtgtip:`Feast of Blood<https://cards.scryfall.io/border_crop/front/f/5/f576f3b6-59c5-4710-b238-7fb2bbcf563e.jpg?1669088141|https://scryfall.com/card/j22/118/feast-of-blood?utm_source=api>`
+   Cast this spell only if you control two or more Vampires.
+
+   Destroy target creature. You gain 4 life.
+
+
+:mtgtip:`Festering Evil<https://cards.scryfall.io/border_crop/front/b/c/bc58d8cd-f1f8-4a3e-9052-12e319802cb5.jpg?1669089430|https://scryfall.com/card/j22/119/festering-evil?utm_source=api>`
+   At the beginning of your upkeep, Festering Evil deals 1 damage to each creature and each player.
+
+   |mana_b|\ |mana_b|, Sacrifice Festering Evil: It deals 3 damage to each creature and each player.
+
+
+:mtgtip:`Renegade Demon<https://cards.scryfall.io/border_crop/front/2/c/2cee747f-4a9e-4752-815a-dc7ebabccd6b.jpg?1669089148|https://scryfall.com/card/j22/126/renegade-demon?utm_source=api>`
+   
+
+
+:mtgtip:`Uktabi Orangutan<https://cards.scryfall.io/border_crop/front/3/4/347cff91-9f18-4ebc-8deb-3d4bf617fdb9.jpg?1669089495|https://scryfall.com/card/j22/133/uktabi-orangutan?utm_source=api>`
+   When Uktabi Orangutan enters the battlefield, destroy target artifact.
+
+
+:mtgtip:`Wicked Wolf<https://cards.scryfall.io/border_crop/front/e/c/ecca4c21-a076-4ddf-b61c-c1164eba5513.jpg?1669087727|https://scryfall.com/card/j22/134/wicked-wolf?utm_source=api>`
+   When Wicked Wolf enters the battlefield, it fights up to one target creature you don't control.
+
+   Sacrifice a Food: Put a +1/+1 counter on Wicked Wolf. It gains indestructible until end of turn. Tap it.
+
+
+:mtgtip:`Ajani, Strength of the Pride<https://cards.scryfall.io/border_crop/front/a/5/a58deb8a-1c4b-4e3d-9c00-63f615f358c0.jpg?1669088452|https://scryfall.com/card/j22/141/ajani-strength-of-the-pride?utm_source=api>`
+   +1: You gain life equal to the number of creatures you control plus the number of planeswalkers you control.
+
+   −2: Create a 2/2 white Cat Soldier creature token named Ajani's Pridemate with "Whenever you gain life, put a +1/+1 counter on Ajani's Pridemate."
+
+   0: If you have at least 15 life more than your starting life total, exile Ajani, Strength of the Pride and each artifact and creature your opponents control.
+
+
+:mtgtip:`Ajani's Pridemate<https://cards.scryfall.io/border_crop/front/6/b/6bc35481-1f63-4c04-aee9-b3fe8eb89916.jpg?1669088440|https://scryfall.com/card/j22/142/ajanis-pridemate?utm_source=api>`
+   Whenever you gain life, put a +1/+1 counter on Ajani's Pridemate.
+
+
+:mtgtip:`Felidar Retreat<https://cards.scryfall.io/border_crop/front/3/4/34b3b925-743d-4f88-97d6-d0847c0d7d6a.jpg?1669088533|https://scryfall.com/card/j22/184/felidar-retreat?utm_source=api>`
+   Landfall — Whenever a land enters the battlefield under your control, choose one —
+
+   • Create a 2/2 white Cat Beast creature token.
+
+   • Put a +1/+1 counter on each creature you control. Those creatures gain vigilance until end of turn.
+
+
+:mtgtip:`Leonin Warleader<https://cards.scryfall.io/border_crop/front/b/2/b24820fa-7cef-4396-920c-810dd06e3887.jpg?1669088464|https://scryfall.com/card/j22/208/leonin-warleader?utm_source=api>`
+   Whenever Leonin Warleader attacks, create two 1/1 white Cat creature tokens with lifelink that are tapped and attacking.
+
+
+:mtgtip:`Regal Caracal<https://cards.scryfall.io/border_crop/front/8/5/8511fb74-dd0c-492d-87f6-7d27d39d101a.jpg?1669088484|https://scryfall.com/card/j22/232/regal-caracal?utm_source=api>`
+   Other Cats you control get +1/+1 and have lifelink.
+
+   When Regal Caracal enters the battlefield, create two 1/1 white Cat creature tokens with lifelink.
+
+
+:mtgtip:`Trove Warden<https://cards.scryfall.io/border_crop/front/6/e/6e05f939-f5bb-4813-b2fe-ed79df1818ec.jpg?1669088477|https://scryfall.com/card/j22/259/trove-warden?utm_source=api>`
+   Vigilance
+
+   Landfall — Whenever a land enters the battlefield under your control, exile target permanent card with mana value 3 or less from your graveyard.
+
+   When Trove Warden dies, put each permanent card exiled with it onto the battlefield under the control of that card's owner.
+
+
+:mtgtip:`Nezumi Bone-Reader<https://cards.scryfall.io/border_crop/front/a/3/a397551c-5609-4353-aa43-504af1b27f5a.jpg?1669091526|https://scryfall.com/card/j22/323/nezumi-bone-reader?utm_source=api>`
+   |mana_b|, Sacrifice a creature: Target player discards a card. Activate only as a sorcery.
+
+
+:mtgtip:`Burglar Rat<https://cards.scryfall.io/border_crop/front/8/e/8e8bb46d-acc2-4631-89c7-b92f927a5940.jpg?1669091360|https://scryfall.com/card/j22/384/burglar-rat?utm_source=api>`
+   When Burglar Rat enters the battlefield, each opponent discards a card.
+
+
+:mtgtip:`Chittering Rats<https://cards.scryfall.io/border_crop/front/1/b/1b9993c2-eaf7-4163-bd19-8161025cad56.jpg?1669091426|https://scryfall.com/card/j22/387/chittering-rats?utm_source=api>`
+   When Chittering Rats enters the battlefield, target opponent puts a card from their hand on top of their library.
+
+
+:mtgtip:`Crypt Rats<https://cards.scryfall.io/border_crop/front/6/d/6dccdaba-7504-4df6-a079-d7fe450934ab.jpg?1669091376|https://scryfall.com/card/j22/392/crypt-rats?utm_source=api>`
+   |mana_x|: Crypt Rats deals X damage to each creature and each player. Spend only black mana on X.
+
+
+:mtgtip:`Demon of Catastrophes<https://cards.scryfall.io/border_crop/front/8/6/861100dd-376a-4a8b-862a-76ad4edda725.jpg?1669088518|https://scryfall.com/card/j22/397/demon-of-catastrophes?utm_source=api>`
+   As an additional cost to cast this spell, sacrifice a creature.
+
+   Flying, trample
+
+
+:mtgtip:`Dread Presence<https://cards.scryfall.io/border_crop/front/b/9/b98f8d65-e326-42a1-97e3-630416595eeb.jpg?1669089453|https://scryfall.com/card/j22/403/dread-presence?utm_source=api>`
+   Whenever a Swamp enters the battlefield under your control, choose one —
+
+   • You draw a card and you lose 1 life.
+
+   • Dread Presence deals 2 damage to any target and you gain 2 life.
+
+
+:mtgtip:`Eviscerate<https://cards.scryfall.io/border_crop/front/6/e/6e215786-5c2a-4f08-afab-78342ad8fa17.jpg?1669091465|https://scryfall.com/card/j22/412/eviscerate?utm_source=api>`
+   Destroy target creature.
+
+
+:mtgtip:`Kothophed, Soul Hoarder<https://cards.scryfall.io/border_crop/front/e/0/e0f3414d-3c79-4771-a6ba-812608855922.jpg?1669088510|https://scryfall.com/card/j22/431/kothophed-soul-hoarder?utm_source=api>`
+   Flying
+
+   Whenever a permanent owned by another player is put into a graveyard from the battlefield, you draw a card and you lose 1 life.
+
+
+:mtgtip:`Seizan, Perverter of Truth<https://cards.scryfall.io/border_crop/front/6/9/690c472e-98a9-464a-84de-78dda6d111c8.jpg?1669088497|https://scryfall.com/card/j22/463/seizan-perverter-of-truth?utm_source=api>`
+   At the beginning of each player's upkeep, that player loses 2 life and draws two cards.
+
+
+:mtgtip:`Sinuous Vermin<https://cards.scryfall.io/border_crop/front/1/2/1258c7d4-cc4f-47c2-b346-27274bfee151.jpg?1669091448|https://scryfall.com/card/j22/465/sinuous-vermin?utm_source=api>`
+   |mana_3|\ |mana_b|\ |mana_b|: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)
+
+   As long as Sinuous Vermin is monstrous, it has menace. (It can't be blocked except by two or more creatures.)
+
+
+:mtgtip:`Typhoid Rats<https://cards.scryfall.io/border_crop/front/e/b/eb107063-d6fc-4572-914d-3f0382134ac5.jpg?1669091415|https://scryfall.com/card/j22/468/typhoid-rats?utm_source=api>`
+   Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+
+
+:mtgtip:`Ulcerate<https://cards.scryfall.io/border_crop/front/f/6/f6b01b24-67a7-44a5-80ab-b058d8b0f593.jpg?1669091453|https://scryfall.com/card/j22/481/ulcerate?utm_source=api>`
+   Target creature gets -3/-3 until end of turn. You lose 3 life.
+
+
+:mtgtip:`Walking Ballista<https://cards.scryfall.io/border_crop/front/c/3/c353a09f-8a5a-41ce-97dc-60e7350460c0.jpg?1669090270|https://scryfall.com/card/j22/806/walking-ballista?utm_source=api>`
+   Walking Ballista enters the battlefield with X +1/+1 counters on it.
+
+   |mana_4|: Put a +1/+1 counter on Walking Ballista.
+
+   Remove a +1/+1 counter from Walking Ballista: It deals 1 damage to any target.
 
