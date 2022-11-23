@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG po polsku 2022.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-11-23 14:25+0100\n"
-"PO-Revision-Date: 2022-11-22 17:10+0000\n"
+"PO-Revision-Date: 2022-11-23 14:58+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/j22/pl/>\n"
 "Language: pl\n"
@@ -881,15 +881,14 @@ msgid ""
 msgstr ""
 
 #: ../../J22.rst:209
-#, fuzzy
-#| msgid "Other Cats you control get +2/+1."
 msgid "Other Merfolk creatures you control get +1/+1."
-msgstr "Inne Koty pod twoim władaniem dostają +2/+1."
+msgstr "Inne Wodniki pod twoim władaniem dostają +1/+1."
 
 #: ../../J22.rst:211
 msgid ""
 "Whenever you cast a Merfolk spell, you may tap or untap target permanent."
 msgstr ""
+"Ilekroć rzucisz czar Wodnika, możesz przekręcić lub odkręcić wskazany byt."
 
 #: ../../J22.rst:216
 msgid ""
@@ -1104,7 +1103,7 @@ msgstr ""
 
 #: ../../J22.rst:281
 msgid "Coldsteel Heart enters the battlefield tapped."
-msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../J22.rst:283
 msgid "As Coldsteel Heart enters the battlefield, choose a color."
@@ -1406,16 +1405,12 @@ msgid ""
 msgstr ""
 
 #: ../../J22.rst:377
-#, fuzzy
-#| msgid ""
-#| "|mana_3|\\ |mana_r|: Create a 1/1 red Goblin creature token with haste. "
-#| "Activate only as a sorcery."
 msgid ""
 "|mana_b|, Sacrifice a creature: Target player discards a card. Activate only "
 "as a sorcery."
 msgstr ""
-"|mana_3|\\ |mana_r|: Stwórz żeton czerwonego stwora Goblin 2/2 z pośpiechem. "
-"Aktywuj tylko jako obrzęd."
+"|mana_b|, poświęć stwora: Wskazany gracz odrzuca kartę. Aktywuj tylko jako "
+"obrzęd."
 
 #: ../../J22.rst:382
 msgid ""
