@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG po polsku 2022.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-22 17:59+0100\n"
+"POT-Creation-Date: 2022-11-23 14:25+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -261,7 +261,7 @@ msgid ":mtgtip:`Lita, Mechanical Engineer<https://cards.scryfall.io/border_crop/
 msgstr ""
 
 #: ../../J22.rst:19
-#: ../../J22.rst:363
+#: ../../J22.rst:369
 msgid "Vigilance"
 msgstr ""
 
@@ -422,7 +422,7 @@ msgid "one. If you have exactly 13 life, you may choose both."
 msgstr ""
 
 #: ../../J22.rst:99
-#: ../../J22.rst:395
+#: ../../J22.rst:401
 msgid "You draw a card and you lose 1 life."
 msgstr ""
 
@@ -463,7 +463,7 @@ msgid ":mtgtip:`Ardoz, Cobbler of War<https://cards.scryfall.io/border_crop/fron
 msgstr ""
 
 #: ../../J22.rst:119
-#: ../../J22.rst:255
+#: ../../J22.rst:261
 msgid "Haste"
 msgstr ""
 
@@ -572,7 +572,7 @@ msgid ":mtgtip:`Instruments of War<https://cards.scryfall.io/border_crop/front/9
 msgstr ""
 
 #: ../../J22.rst:173
-#: ../../J22.rst:221
+#: ../../J22.rst:227
 msgid "Flash"
 msgstr ""
 
@@ -640,432 +640,444 @@ msgstr ""
 msgid "Other Cats you control get +2/+1."
 msgstr ""
 
-#: ../../J22.rst:210
-msgid ":mtgtip:`Mirror Image<https://cards.scryfall.io/border_crop/front/b/d/bd9b7f07-cffb-4797-94a6-3279714b1c88.jpg?1669090526|https://scryfall.com/card/j22/62/mirror-image?utm_source=api>`"
+#: ../../J22.rst:212
+msgid ":mtgtip:`Merrow Reejerey<https://cards.scryfall.io/border_crop/front/6/4/6487eeae-95c9-4aa6-b1a9-1af8e405f0df.jpg?1669159853|https://scryfall.com/card/j22/61/merrow-reejerey?utm_source=api>`"
 msgstr ""
 
 #: ../../J22.rst:209
-msgid "You may have Mirror Image enter the battlefield as a copy of a creature you control."
+msgid "Other Merfolk creatures you control get +1/+1."
 msgstr ""
 
-#: ../../J22.rst:218
-msgid ":mtgtip:`Spectral Sailor<https://cards.scryfall.io/border_crop/front/7/7/7743b587-e498-4761-9173-e803c9eed86b.jpg?1668376564|https://scryfall.com/card/j22/64/ja/spectral-sailor?utm_source=api>`"
+#: ../../J22.rst:211
+msgid "Whenever you cast a Merfolk spell, you may tap or untap target permanent."
 msgstr ""
 
-#: ../../J22.rst:213
-msgid "Flash (You may cast this spell any time you could cast an instant.)"
+#: ../../J22.rst:216
+msgid ":mtgtip:`Mirror Image<https://cards.scryfall.io/border_crop/front/b/d/bd9b7f07-cffb-4797-94a6-3279714b1c88.jpg?1669090526|https://scryfall.com/card/j22/62/mirror-image?utm_source=api>`"
 msgstr ""
 
 #: ../../J22.rst:215
-#: ../../J22.rst:223
-#: ../../J22.rst:405
+msgid "You may have Mirror Image enter the battlefield as a copy of a creature you control."
+msgstr ""
+
+#: ../../J22.rst:224
+msgid ":mtgtip:`Spectral Sailor<https://cards.scryfall.io/border_crop/front/7/7/7743b587-e498-4761-9173-e803c9eed86b.jpg?1668376564|https://scryfall.com/card/j22/64/ja/spectral-sailor?utm_source=api>`"
+msgstr ""
+
+#: ../../J22.rst:219
+msgid "Flash (You may cast this spell any time you could cast an instant.)"
+msgstr ""
+
+#: ../../J22.rst:221
+#: ../../J22.rst:229
+#: ../../J22.rst:411
 msgid "Flying"
 msgstr ""
 
-#: ../../J22.rst:217
+#: ../../J22.rst:223
 msgid "|mana_3|\\ |mana_u|: Draw a card."
 msgstr ""
 
-#: ../../J22.rst:226
+#: ../../J22.rst:232
 msgid ":mtgtip:`Spellstutter Sprite<https://cards.scryfall.io/border_crop/front/a/0/a0e262a3-0e69-4d61-8143-b9d137c31496.jpg?1669091048|https://scryfall.com/card/j22/65/spellstutter-sprite?utm_source=api>`"
 msgstr ""
 
-#: ../../J22.rst:225
+#: ../../J22.rst:231
 msgid "When Spellstutter Sprite enters the battlefield, counter target spell with mana value X or less, where X is the number of Faeries you control."
 msgstr ""
 
-#: ../../J22.rst:232
+#: ../../J22.rst:238
 msgid ":mtgtip:`Whirler Rogue<https://cards.scryfall.io/border_crop/front/c/6/c62a27a8-271c-4ac8-97a5-2efb192e3a15.jpg?1669095015|https://scryfall.com/card/j22/66/whirler-rogue?utm_source=api>`"
 msgstr ""
 
-#: ../../J22.rst:229
+#: ../../J22.rst:235
 msgid "When Whirler Rogue enters the battlefield, create two 1/1 colorless Thopter artifact creature tokens with flying."
 msgstr ""
 
-#: ../../J22.rst:231
+#: ../../J22.rst:237
 msgid "Tap two untapped artifacts you control: Target creature can't be blocked this turn."
 msgstr ""
 
-#: ../../J22.rst:236
+#: ../../J22.rst:242
 msgid ":mtgtip:`Diabolic Edict<https://cards.scryfall.io/border_crop/front/d/2/d2abd138-b840-4222-88ad-7b0ed64a927b.jpg?1669088683|https://scryfall.com/card/j22/67/diabolic-edict?utm_source=api>`"
 msgstr ""
 
-#: ../../J22.rst:235
+#: ../../J22.rst:241
 msgid "Target player sacrifices a creature."
 msgstr ""
 
-#: ../../J22.rst:240
+#: ../../J22.rst:246
 msgid ":mtgtip:`Feast on the Fallen<https://cards.scryfall.io/border_crop/front/d/1/d1d0f98c-264e-4d82-893a-5f84fc890705.jpg?1669089393|https://scryfall.com/card/j22/68/feast-on-the-fallen?utm_source=api>`"
 msgstr ""
 
-#: ../../J22.rst:239
+#: ../../J22.rst:245
 msgid "At the beginning of each upkeep, if an opponent lost life last turn, put a +1/+1 counter on target creature you control."
 msgstr ""
 
-#: ../../J22.rst:246
+#: ../../J22.rst:252
 msgid ":mtgtip:`Oathsworn Vampire<https://cards.scryfall.io/border_crop/front/0/4/04099735-bc73-40ae-bc28-0ad5c96feb12.jpg?1669088193|https://scryfall.com/card/j22/70/oathsworn-vampire?utm_source=api>`"
 msgstr ""
 
-#: ../../J22.rst:243
+#: ../../J22.rst:249
 msgid "Oathsworn Vampire enters the battlefield tapped."
 msgstr ""
 
-#: ../../J22.rst:245
+#: ../../J22.rst:251
 msgid "You may cast Oathsworn Vampire from your graveyard if you gained life this turn."
 msgstr ""
 
-#: ../../J22.rst:252
+#: ../../J22.rst:258
 msgid ":mtgtip:`Ogre Slumlord<https://cards.scryfall.io/border_crop/front/b/1/b1f176f9-d353-479e-a808-54dc5e8ff746.jpg?1669091608|https://scryfall.com/card/j22/71/ogre-slumlord?utm_source=api>`"
 msgstr ""
 
-#: ../../J22.rst:249
+#: ../../J22.rst:255
 msgid "Whenever another nontoken creature dies, you may create a 1/1 black Rat creature token."
 msgstr ""
 
-#: ../../J22.rst:251
+#: ../../J22.rst:257
 msgid "Rats you control have deathtouch."
 msgstr ""
 
-#: ../../J22.rst:258
+#: ../../J22.rst:264
 msgid ":mtgtip:`Kiki-Jiki, Mirror Breaker<https://cards.scryfall.io/border_crop/front/0/e/0e6fc996-17ba-4090-bf82-0c2eba93a81e.jpg?1666303373|https://scryfall.com/card/j22/79/kiki-jiki-mirror-breaker?utm_source=api>`"
 msgstr ""
 
-#: ../../J22.rst:257
+#: ../../J22.rst:263
 msgid "|tap|: Create a token that's a copy of target nonlegendary creature you control, except it has haste. Sacrifice it at the beginning of the next end step."
 msgstr ""
 
-#: ../../J22.rst:264
+#: ../../J22.rst:270
 msgid ":mtgtip:`Arlinn, Voice of the Pack<https://cards.scryfall.io/border_crop/front/9/8/98bee15d-6868-4dfc-9dd9-b437c5f3d6db.jpg?1669087643|https://scryfall.com/card/j22/85/arlinn-voice-of-the-pack?utm_source=api>`"
 msgstr ""
 
-#: ../../J22.rst:261
+#: ../../J22.rst:267
 msgid "Each creature you control that's a Wolf or a Werewolf enters the battlefield with an additional +1/+1 counter on it."
 msgstr ""
 
-#: ../../J22.rst:263
+#: ../../J22.rst:269
 msgid "−2: Create a 2/2 green Wolf creature token."
 msgstr ""
 
-#: ../../J22.rst:268
+#: ../../J22.rst:274
 msgid ":mtgtip:`Elvish Rejuvenator<https://cards.scryfall.io/border_crop/front/2/d/2d657f45-ee7f-4114-a570-314688138b4f.jpg?1669088420|https://scryfall.com/card/j22/88/elvish-rejuvenator?utm_source=api>`"
 msgstr ""
 
-#: ../../J22.rst:267
+#: ../../J22.rst:273
 msgid "When Elvish Rejuvenator enters the battlefield, look at the top five cards of your library. You may put a land card from among them onto the battlefield tapped. Put the rest on the bottom of your library in a random order."
 msgstr ""
 
-#: ../../J22.rst:272
+#: ../../J22.rst:278
 msgid ":mtgtip:`Thrashing Brontodon<https://cards.scryfall.io/border_crop/front/d/5/d5a65e7c-3f2e-44d1-8f85-4acf5f147c17.jpg?1669087877|https://scryfall.com/card/j22/92/thrashing-brontodon?utm_source=api>`"
 msgstr ""
 
-#: ../../J22.rst:271
+#: ../../J22.rst:277
 msgid "|mana_1|, Sacrifice Thrashing Brontodon: Destroy target artifact or enchantment."
 msgstr ""
 
-#: ../../J22.rst:280
+#: ../../J22.rst:286
 msgid ":mtgtip:`Coldsteel Heart<https://cards.scryfall.io/border_crop/front/2/5/2599b027-1ff8-48b8-8a90-8ac1fac7ed63.jpg?1666303532|https://scryfall.com/card/j22/94/coldsteel-heart?utm_source=api>`"
 msgstr ""
 
-#: ../../J22.rst:275
+#: ../../J22.rst:281
 msgid "Coldsteel Heart enters the battlefield tapped."
 msgstr ""
 
-#: ../../J22.rst:277
+#: ../../J22.rst:283
 msgid "As Coldsteel Heart enters the battlefield, choose a color."
 msgstr ""
 
-#: ../../J22.rst:279
+#: ../../J22.rst:285
 msgid "|tap|: Add one mana of the chosen color."
 msgstr ""
 
-#: ../../J22.rst:286
+#: ../../J22.rst:292
 msgid ":mtgtip:`Magnifying Glass<https://cards.scryfall.io/border_crop/front/5/d/5db997a7-d54c-4821-9e9f-56292f9e7e5a.jpg?1669089601|https://scryfall.com/card/j22/95/magnifying-glass?utm_source=api>`"
 msgstr ""
 
-#: ../../J22.rst:283
+#: ../../J22.rst:289
 msgid "|tap|: Add |colorless|."
 msgstr ""
 
-#: ../../J22.rst:285
+#: ../../J22.rst:291
 msgid "|mana_4|, |tap|: Investigate. (Create a Clue token. It's an artifact with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
 
-#: ../../J22.rst:292
+#: ../../J22.rst:298
 msgid ":mtgtip:`Peacewalker Colossus<https://cards.scryfall.io/border_crop/front/a/e/ae799ee8-f1cf-4259-9e78-def9fc13b63a.jpg?1669089181|https://scryfall.com/card/j22/96/peacewalker-colossus?utm_source=api>`"
 msgstr ""
 
-#: ../../J22.rst:289
+#: ../../J22.rst:295
 msgid "|mana_1|\\ |mana_w|: Another target Vehicle you control becomes an artifact creature until end of turn."
 msgstr ""
 
-#: ../../J22.rst:291
+#: ../../J22.rst:297
 msgid "Crew 4 (Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)"
 msgstr ""
 
-#: ../../J22.rst:300
+#: ../../J22.rst:306
 msgid ":mtgtip:`Karn Liberated<https://cards.scryfall.io/border_crop/front/7/4/740dbebf-9e0b-4918-850b-8c1aa0b06c18.jpg?1668256484|https://scryfall.com/card/j22/97/karn-liberated?utm_source=api>`"
 msgstr ""
 
-#: ../../J22.rst:295
+#: ../../J22.rst:301
 msgid "+4: Target player exiles a card from their hand."
 msgstr ""
 
-#: ../../J22.rst:297
+#: ../../J22.rst:303
 msgid "−3: Exile target permanent."
 msgstr ""
 
-#: ../../J22.rst:299
+#: ../../J22.rst:305
 msgid "−14: Restart the game, leaving in exile all non-Aura permanent cards exiled with Karn Liberated. Then put those cards onto the battlefield under your control."
 msgstr ""
 
-#: ../../J22.rst:304
+#: ../../J22.rst:310
 msgid ":mtgtip:`Blood Artist<https://cards.scryfall.io/border_crop/front/c/4/c4c1641d-c4ea-4657-a0ae-db09bba83a0f.jpg?1669088231|https://scryfall.com/card/j22/117/blood-artist?utm_source=api>`"
 msgstr ""
 
-#: ../../J22.rst:303
+#: ../../J22.rst:309
 msgid "Whenever Blood Artist or another creature dies, target player loses 1 life and you gain 1 life."
 msgstr ""
 
-#: ../../J22.rst:310
+#: ../../J22.rst:316
 msgid ":mtgtip:`Feast of Blood<https://cards.scryfall.io/border_crop/front/f/5/f576f3b6-59c5-4710-b238-7fb2bbcf563e.jpg?1669088141|https://scryfall.com/card/j22/118/feast-of-blood?utm_source=api>`"
 msgstr ""
 
-#: ../../J22.rst:307
+#: ../../J22.rst:313
 msgid "Cast this spell only if you control two or more Vampires."
 msgstr ""
 
-#: ../../J22.rst:309
+#: ../../J22.rst:315
 msgid "Destroy target creature. You gain 4 life."
 msgstr ""
 
-#: ../../J22.rst:316
+#: ../../J22.rst:322
 msgid ":mtgtip:`Festering Evil<https://cards.scryfall.io/border_crop/front/b/c/bc58d8cd-f1f8-4a3e-9052-12e319802cb5.jpg?1669089430|https://scryfall.com/card/j22/119/festering-evil?utm_source=api>`"
 msgstr ""
 
-#: ../../J22.rst:313
+#: ../../J22.rst:319
 msgid "At the beginning of your upkeep, Festering Evil deals 1 damage to each creature and each player."
 msgstr ""
 
-#: ../../J22.rst:315
+#: ../../J22.rst:321
 msgid "|mana_b|\\ |mana_b|, Sacrifice Festering Evil: It deals 3 damage to each creature and each player."
 msgstr ""
 
-#: ../../J22.rst:318
+#: ../../J22.rst:324
 msgid ":mtgtip:`Renegade Demon<https://cards.scryfall.io/border_crop/front/2/c/2cee747f-4a9e-4752-815a-dc7ebabccd6b.jpg?1669089148|https://scryfall.com/card/j22/126/renegade-demon?utm_source=api>`"
 msgstr ""
 
-#: ../../J22.rst:324
+#: ../../J22.rst:330
 msgid ":mtgtip:`Uktabi Orangutan<https://cards.scryfall.io/border_crop/front/3/4/347cff91-9f18-4ebc-8deb-3d4bf617fdb9.jpg?1669089495|https://scryfall.com/card/j22/133/uktabi-orangutan?utm_source=api>`"
 msgstr ""
 
-#: ../../J22.rst:323
+#: ../../J22.rst:329
 msgid "When Uktabi Orangutan enters the battlefield, destroy target artifact."
 msgstr ""
 
-#: ../../J22.rst:330
+#: ../../J22.rst:336
 msgid ":mtgtip:`Wicked Wolf<https://cards.scryfall.io/border_crop/front/e/c/ecca4c21-a076-4ddf-b61c-c1164eba5513.jpg?1669087727|https://scryfall.com/card/j22/134/wicked-wolf?utm_source=api>`"
 msgstr ""
 
-#: ../../J22.rst:327
+#: ../../J22.rst:333
 msgid "When Wicked Wolf enters the battlefield, it fights up to one target creature you don't control."
 msgstr ""
 
-#: ../../J22.rst:329
+#: ../../J22.rst:335
 msgid "Sacrifice a Food: Put a +1/+1 counter on Wicked Wolf. It gains indestructible until end of turn. Tap it."
 msgstr ""
 
-#: ../../J22.rst:338
+#: ../../J22.rst:344
 msgid ":mtgtip:`Ajani, Strength of the Pride<https://cards.scryfall.io/border_crop/front/a/5/a58deb8a-1c4b-4e3d-9c00-63f615f358c0.jpg?1669088452|https://scryfall.com/card/j22/141/ajani-strength-of-the-pride?utm_source=api>`"
 msgstr ""
 
-#: ../../J22.rst:333
+#: ../../J22.rst:339
 msgid "+1: You gain life equal to the number of creatures you control plus the number of planeswalkers you control."
 msgstr ""
 
-#: ../../J22.rst:335
+#: ../../J22.rst:341
 msgid "−2: Create a 2/2 white Cat Soldier creature token named Ajani's Pridemate with \"Whenever you gain life, put a +1/+1 counter on Ajani's Pridemate.\""
 msgstr ""
 
-#: ../../J22.rst:337
+#: ../../J22.rst:343
 msgid "0: If you have at least 15 life more than your starting life total, exile Ajani, Strength of the Pride and each artifact and creature your opponents control."
 msgstr ""
 
-#: ../../J22.rst:342
+#: ../../J22.rst:348
 msgid ":mtgtip:`Ajani's Pridemate<https://cards.scryfall.io/border_crop/front/6/b/6bc35481-1f63-4c04-aee9-b3fe8eb89916.jpg?1669088440|https://scryfall.com/card/j22/142/ajanis-pridemate?utm_source=api>`"
 msgstr ""
 
-#: ../../J22.rst:341
+#: ../../J22.rst:347
 msgid "Whenever you gain life, put a +1/+1 counter on Ajani's Pridemate."
 msgstr ""
 
-#: ../../J22.rst:350
+#: ../../J22.rst:356
 msgid ":mtgtip:`Felidar Retreat<https://cards.scryfall.io/border_crop/front/3/4/34b3b925-743d-4f88-97d6-d0847c0d7d6a.jpg?1669088533|https://scryfall.com/card/j22/184/felidar-retreat?utm_source=api>`"
 msgstr ""
 
-#: ../../J22.rst:345
+#: ../../J22.rst:351
 msgid "Landfall — Whenever a land enters the battlefield under your control, choose one —"
 msgstr ""
 
-#: ../../J22.rst:347
+#: ../../J22.rst:353
 msgid "Create a 2/2 white Cat Beast creature token."
 msgstr ""
 
-#: ../../J22.rst:349
+#: ../../J22.rst:355
 msgid "Put a +1/+1 counter on each creature you control. Those creatures gain vigilance until end of turn."
 msgstr ""
 
-#: ../../J22.rst:354
+#: ../../J22.rst:360
 msgid ":mtgtip:`Leonin Warleader<https://cards.scryfall.io/border_crop/front/b/2/b24820fa-7cef-4396-920c-810dd06e3887.jpg?1669088464|https://scryfall.com/card/j22/208/leonin-warleader?utm_source=api>`"
 msgstr ""
 
-#: ../../J22.rst:353
+#: ../../J22.rst:359
 msgid "Whenever Leonin Warleader attacks, create two 1/1 white Cat creature tokens with lifelink that are tapped and attacking."
 msgstr ""
 
-#: ../../J22.rst:360
+#: ../../J22.rst:366
 msgid ":mtgtip:`Regal Caracal<https://cards.scryfall.io/border_crop/front/8/5/8511fb74-dd0c-492d-87f6-7d27d39d101a.jpg?1669088484|https://scryfall.com/card/j22/232/regal-caracal?utm_source=api>`"
 msgstr ""
 
-#: ../../J22.rst:357
+#: ../../J22.rst:363
 msgid "Other Cats you control get +1/+1 and have lifelink."
 msgstr ""
 
-#: ../../J22.rst:359
+#: ../../J22.rst:365
 msgid "When Regal Caracal enters the battlefield, create two 1/1 white Cat creature tokens with lifelink."
 msgstr ""
 
-#: ../../J22.rst:368
+#: ../../J22.rst:374
 msgid ":mtgtip:`Trove Warden<https://cards.scryfall.io/border_crop/front/6/e/6e05f939-f5bb-4813-b2fe-ed79df1818ec.jpg?1669088477|https://scryfall.com/card/j22/259/trove-warden?utm_source=api>`"
 msgstr ""
 
-#: ../../J22.rst:365
+#: ../../J22.rst:371
 msgid "Landfall — Whenever a land enters the battlefield under your control, exile target permanent card with mana value 3 or less from your graveyard."
 msgstr ""
 
-#: ../../J22.rst:367
+#: ../../J22.rst:373
 msgid "When Trove Warden dies, put each permanent card exiled with it onto the battlefield under the control of that card's owner."
 msgstr ""
 
-#: ../../J22.rst:372
+#: ../../J22.rst:378
 msgid ":mtgtip:`Nezumi Bone-Reader<https://cards.scryfall.io/border_crop/front/a/3/a397551c-5609-4353-aa43-504af1b27f5a.jpg?1669091526|https://scryfall.com/card/j22/323/nezumi-bone-reader?utm_source=api>`"
 msgstr ""
 
-#: ../../J22.rst:371
+#: ../../J22.rst:377
 msgid "|mana_b|, Sacrifice a creature: Target player discards a card. Activate only as a sorcery."
 msgstr ""
 
-#: ../../J22.rst:376
+#: ../../J22.rst:382
 msgid ":mtgtip:`Burglar Rat<https://cards.scryfall.io/border_crop/front/8/e/8e8bb46d-acc2-4631-89c7-b92f927a5940.jpg?1669091360|https://scryfall.com/card/j22/384/burglar-rat?utm_source=api>`"
 msgstr ""
 
-#: ../../J22.rst:375
+#: ../../J22.rst:381
 msgid "When Burglar Rat enters the battlefield, each opponent discards a card."
 msgstr ""
 
-#: ../../J22.rst:380
+#: ../../J22.rst:386
 msgid ":mtgtip:`Chittering Rats<https://cards.scryfall.io/border_crop/front/1/b/1b9993c2-eaf7-4163-bd19-8161025cad56.jpg?1669091426|https://scryfall.com/card/j22/387/chittering-rats?utm_source=api>`"
 msgstr ""
 
-#: ../../J22.rst:379
+#: ../../J22.rst:385
 msgid "When Chittering Rats enters the battlefield, target opponent puts a card from their hand on top of their library."
 msgstr ""
 
-#: ../../J22.rst:384
+#: ../../J22.rst:390
 msgid ":mtgtip:`Crypt Rats<https://cards.scryfall.io/border_crop/front/6/d/6dccdaba-7504-4df6-a079-d7fe450934ab.jpg?1669091376|https://scryfall.com/card/j22/392/crypt-rats?utm_source=api>`"
 msgstr ""
 
-#: ../../J22.rst:383
+#: ../../J22.rst:389
 msgid "|mana_x|: Crypt Rats deals X damage to each creature and each player. Spend only black mana on X."
 msgstr ""
 
-#: ../../J22.rst:390
+#: ../../J22.rst:396
 msgid ":mtgtip:`Demon of Catastrophes<https://cards.scryfall.io/border_crop/front/8/6/861100dd-376a-4a8b-862a-76ad4edda725.jpg?1669088518|https://scryfall.com/card/j22/397/demon-of-catastrophes?utm_source=api>`"
 msgstr ""
 
-#: ../../J22.rst:387
+#: ../../J22.rst:393
 msgid "As an additional cost to cast this spell, sacrifice a creature."
 msgstr ""
 
-#: ../../J22.rst:389
+#: ../../J22.rst:395
 msgid "Flying, trample"
 msgstr ""
 
-#: ../../J22.rst:398
+#: ../../J22.rst:404
 msgid ":mtgtip:`Dread Presence<https://cards.scryfall.io/border_crop/front/b/9/b98f8d65-e326-42a1-97e3-630416595eeb.jpg?1669089453|https://scryfall.com/card/j22/403/dread-presence?utm_source=api>`"
 msgstr ""
 
-#: ../../J22.rst:393
+#: ../../J22.rst:399
 msgid "Whenever a Swamp enters the battlefield under your control, choose one —"
 msgstr ""
 
-#: ../../J22.rst:397
+#: ../../J22.rst:403
 msgid "Dread Presence deals 2 damage to any target and you gain 2 life."
 msgstr ""
 
-#: ../../J22.rst:402
+#: ../../J22.rst:408
 msgid ":mtgtip:`Eviscerate<https://cards.scryfall.io/border_crop/front/6/e/6e215786-5c2a-4f08-afab-78342ad8fa17.jpg?1669091465|https://scryfall.com/card/j22/412/eviscerate?utm_source=api>`"
 msgstr ""
 
-#: ../../J22.rst:401
+#: ../../J22.rst:407
 msgid "Destroy target creature."
 msgstr ""
 
-#: ../../J22.rst:408
+#: ../../J22.rst:414
 msgid ":mtgtip:`Kothophed, Soul Hoarder<https://cards.scryfall.io/border_crop/front/e/0/e0f3414d-3c79-4771-a6ba-812608855922.jpg?1669088510|https://scryfall.com/card/j22/431/kothophed-soul-hoarder?utm_source=api>`"
 msgstr ""
 
-#: ../../J22.rst:407
+#: ../../J22.rst:413
 msgid "Whenever a permanent owned by another player is put into a graveyard from the battlefield, you draw a card and you lose 1 life."
 msgstr ""
 
-#: ../../J22.rst:412
+#: ../../J22.rst:418
 msgid ":mtgtip:`Seizan, Perverter of Truth<https://cards.scryfall.io/border_crop/front/6/9/690c472e-98a9-464a-84de-78dda6d111c8.jpg?1669088497|https://scryfall.com/card/j22/463/seizan-perverter-of-truth?utm_source=api>`"
 msgstr ""
 
-#: ../../J22.rst:411
+#: ../../J22.rst:417
 msgid "At the beginning of each player's upkeep, that player loses 2 life and draws two cards."
 msgstr ""
 
-#: ../../J22.rst:418
+#: ../../J22.rst:424
 msgid ":mtgtip:`Sinuous Vermin<https://cards.scryfall.io/border_crop/front/1/2/1258c7d4-cc4f-47c2-b346-27274bfee151.jpg?1669091448|https://scryfall.com/card/j22/465/sinuous-vermin?utm_source=api>`"
 msgstr ""
 
-#: ../../J22.rst:415
+#: ../../J22.rst:421
 msgid "|mana_3|\\ |mana_b|\\ |mana_b|: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)"
 msgstr ""
 
-#: ../../J22.rst:417
+#: ../../J22.rst:423
 msgid "As long as Sinuous Vermin is monstrous, it has menace. (It can't be blocked except by two or more creatures.)"
 msgstr ""
 
-#: ../../J22.rst:422
+#: ../../J22.rst:428
 msgid ":mtgtip:`Typhoid Rats<https://cards.scryfall.io/border_crop/front/e/b/eb107063-d6fc-4572-914d-3f0382134ac5.jpg?1669091415|https://scryfall.com/card/j22/468/typhoid-rats?utm_source=api>`"
 msgstr ""
 
-#: ../../J22.rst:421
+#: ../../J22.rst:427
 msgid "Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)"
 msgstr ""
 
-#: ../../J22.rst:426
+#: ../../J22.rst:432
 msgid ":mtgtip:`Ulcerate<https://cards.scryfall.io/border_crop/front/f/6/f6b01b24-67a7-44a5-80ab-b058d8b0f593.jpg?1669091453|https://scryfall.com/card/j22/481/ulcerate?utm_source=api>`"
 msgstr ""
 
-#: ../../J22.rst:425
+#: ../../J22.rst:431
 msgid "Target creature gets -3/-3 until end of turn. You lose 3 life."
 msgstr ""
 
-#: ../../J22.rst:433
+#: ../../J22.rst:439
 msgid ":mtgtip:`Walking Ballista<https://cards.scryfall.io/border_crop/front/c/3/c353a09f-8a5a-41ce-97dc-60e7350460c0.jpg?1669090270|https://scryfall.com/card/j22/806/walking-ballista?utm_source=api>`"
 msgstr ""
 
-#: ../../J22.rst:429
+#: ../../J22.rst:435
 msgid "Walking Ballista enters the battlefield with X +1/+1 counters on it."
 msgstr ""
 
-#: ../../J22.rst:431
+#: ../../J22.rst:437
 msgid "|mana_4|: Put a +1/+1 counter on Walking Ballista."
 msgstr ""
 
-#: ../../J22.rst:433
+#: ../../J22.rst:439
 msgid "Remove a +1/+1 counter from Walking Ballista: It deals 1 damage to any target."
 msgstr ""
