@@ -42,9 +42,6 @@ Nadchodzące
 
 * :mtgexp:`DMR` :doc:`Dominaria Remastered<DMR>` Premiera: 2023-01-13
 * :mtgexp:`J22` :doc:`Jumpstart 2022<J22>` Premiera: 2022-12-02
-* :mtgexp:`BRC` :doc:`Brother's War Commander<BRC>` |BRC_percent| Premiera: 2022-11-18
-* :mtgexp:`BRO` :doc:`Brother's War<BRO>` |BRO_percent| Premiera: 2022-11-18
-* :mtgexp:`BRR` :doc:`Brother's War Retro Artifacts<BRR>` |BRR_percent| Premiera: 2022-11-18
 
 Standard
 --------
@@ -52,6 +49,7 @@ Standard
 Format posiadający rotację - raz do roku część dodatków przestaje być legalna w tym formacie, by zrobić miejsce na kolejne. Dzięki temu pula kart ma przewidywalny rozmiar.
 Jest podzbiorem wszystkich innych formatów.
 
+* :mtgexp:`BRO` :doc:`Brother's War<BRO>` |BRO_percent| (dodatkowo okraszone specjalnymi :doc:`Arefaktami<BRR>` z symbolem :mtgexp:`BRR` - w większości spoza Standardu)
 * :mtgexp:`DMU` :doc:`Dominaria United<DMU>` |DMU_percent|
 * :mtgexp:`SNC` :doc:`Streets of New Capenna<SNC>` |SNC_percent|
 * :mtgexp:`NEO` :doc:`Kamigawa: Neon Dynasty<NEO>` |NEO_percent|
