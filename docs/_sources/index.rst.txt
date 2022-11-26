@@ -41,7 +41,7 @@ Nadchodzące
 -----------
 
 * :mtgexp:`DMR` :doc:`Dominaria Remastered<DMR>` Premiera: 2023-01-13
-* :mtgexp:`J22` :doc:`Jumpstart 2022<J22>` Premiera: 2022-12-02
+* :mtgexp:`J22` :doc:`Jumpstart 2022<J22>` |J22_percent| Premiera: 2022-12-02
 
 Standard
 --------

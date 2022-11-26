@@ -122,7 +122,8 @@
 
 .. |P02_percent| image:: images/pie75.png        
 
-.. |J22_percent| image:: images/pie90.png        
+.. |J22_percent| image:: images/done.png        
+   :alt: Tłumaczenie zakończone
 
 .. |ATQ_percent| image:: images/pie60.png        
 
