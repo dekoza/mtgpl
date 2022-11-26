@@ -49,7 +49,7 @@
 .. |6ED_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |LRW_percent| image:: images/pie55.png        
+.. |LRW_percent| image:: images/pie60.png        
 
 .. |EXO_percent| image:: images/pie60.png        
 
@@ -122,7 +122,7 @@
 
 .. |P02_percent| image:: images/pie75.png        
 
-.. |J22_percent| image:: images/pie70.png        
+.. |J22_percent| image:: images/pie90.png        
 
 .. |ATQ_percent| image:: images/pie60.png        
 
