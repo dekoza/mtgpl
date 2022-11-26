@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG po polsku 2022.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-11-26 21:29+0100\n"
-"PO-Revision-Date: 2022-11-26 20:45+0000\n"
+"PO-Revision-Date: 2022-11-26 21:03+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/j22/pl/>\n"
 "Language: pl\n"
@@ -557,6 +557,10 @@ msgid ""
 "the battlefield. If you don't put the card onto the battlefield, you may put "
 "it on the bottom of your library."
 msgstr ""
+"|mana_3|\\ |mana_gu|: Spójrz na wierzchnią kartę twojej biblioteki. Jeśli to "
+"karta stwora typu Kraken, Lewiatan, Ośmiornica lub Wężownik, możesz umieścić "
+"ją na polu bitwy. Jeśli nie umieścisz owej karty na polu bitwy, możesz "
+"umieścić ją na spodzie twojej biblioteki."
 
 #: ../../J22.rst:94
 msgid ""
@@ -584,12 +588,15 @@ msgstr ""
 msgid ""
 "When Merfolk Pupil enters the battlefield, draw a card, then discard a card."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, dobierz kartę, po czym odrzuć kartę."
 
 #: ../../J22.rst:99
 msgid ""
 "|mana_1|\\ |mana_u|, Exile Merfolk Pupil from your graveyard: Draw a card, "
 "then discard a card."
 msgstr ""
+"|mana_1|\\ |mana_u|, wygnaj tę kartę z twojego cmentarza: Dobierz kartę, po "
+"czym odrzuć kartę."
 
 #: ../../J22.rst:104
 msgid ""
@@ -639,11 +646,14 @@ msgid ""
 "This spell costs |mana_2| less to cast if you control two or more creatures "
 "that share a creature type."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_2| mniej jeśli władasz co najmniej "
+"dwoma stworami mającymi wspólny typ stwora."
 
 #: ../../J22.rst:117
 msgid ""
 "Put target nonland permanent into its owner's library second from the top."
 msgstr ""
+"Umieść wskazany nielądowy byt w bibliotece właściciela jako drugi z wierzchu."
 
 #: ../../J22.rst:124
 msgid ""
@@ -658,6 +668,9 @@ msgid ""
 "control get +X/+X until end of turn, where X is the number of Rats you "
 "control."
 msgstr ""
+"Ilekroć niniejszy zaatakuje lub zablokuje, inne Szczury pod twoim władaniem "
+"do końca tury dostają +X/+X, gdzie X jest liczbą Szczurów pod twoim "
+"władaniem."
 
 #: ../../J22.rst:123
 msgid ""
@@ -665,6 +678,10 @@ msgid ""
 "return up to two Rat creature cards from your graveyard to your hand. (To "
 "mill a card, put the top card of your library into your graveyard.)"
 msgstr ""
+"Na początku twojego kroku końcowego, możesz zmielić cztery karty. Jeśli tak "
+"zrobisz, przywróć co najwyżej dwie karty stwora typu Szczur z twojego "
+"cmentarza do twojej ręki. (By zmielić kartę, umieść wierzchnią kartę twojej "
+"biblioteki w twoim cmentarzu.)"
 
 #: ../../J22.rst:130
 msgid ""
@@ -676,13 +693,15 @@ msgstr ""
 #: ../../J22.rst:127
 msgid ""
 "Conductor of Cacophony enters the battlefield with two +1/+1 counters on it."
-msgstr ""
+msgstr "Ten byt wchodzi na pole bitwy mając dwa znaczniki +1/+1."
 
 #: ../../J22.rst:129
 msgid ""
 "|mana_b|, Remove a +1/+1 counter from Conductor of Cacophony: It deals 1 "
 "damage to each other creature and each player."
 msgstr ""
+"|mana_b|, usuń znacznik +1/+1 z tego bytu: Zadaje on każdemu innemu stworowi "
+"i każdemu graczowi po 1 obrażeniu."
 
 #: ../../J22.rst:134
 msgid ""
@@ -696,6 +715,8 @@ msgid ""
 "At the beginning of your upkeep, Creeping Bloodsucker deals 1 damage to each "
 "opponent. You gain life equal to the damage dealt this way."
 msgstr ""
+"Na początku twojego kroku utrzymania, ten byt zadaje każdemu przeciwnikowi "
+"po 1 obrażeniu. Zyskaj życia równe obrażeniom zadanym w ten sposób."
 
 #: ../../J22.rst:142
 msgid ""
@@ -713,6 +734,8 @@ msgid ""
 "Return target Zombie creature card from your graveyard to the battlefield "
 "tapped."
 msgstr ""
+"Przywróć wskazaną kartę stwora typu Zombi z twojego cmentarza przekręconą na "
+"pole bitwy."
 
 #: ../../J22.rst:152
 msgid ""
@@ -724,10 +747,14 @@ msgstr ""
 #: ../../J22.rst:145
 msgid "When Disciple of Perdition dies, choose"
 msgstr ""
+"Kiedy niniejszy umrze, wybierz jedno. Jeśli masz dokładnie 13 żyć, możesz "
+"wybrać oba."
 
 #: ../../J22.rst:147
 msgid "one. If you have exactly 13 life, you may choose both."
 msgstr ""
+"Kiedy niniejszy umrze, wybierz jedno. Jeśli masz dokładnie 13 żyć, możesz "
+"wybrać oba."
 
 #: ../../J22.rst:149 ../../J22.rst:2159
 msgid "You draw a card and you lose 1 life."
@@ -735,7 +762,7 @@ msgstr "Dobierz kartę i strać 1 życie."
 
 #: ../../J22.rst:151
 msgid "Exile target opponent's graveyard. That player loses 1 life."
-msgstr ""
+msgstr "Wygnaj cmentarz wskazanego przeciwnika. Ów gracz traci 1 życie."
 
 #: ../../J22.rst:156
 msgid ""
@@ -770,6 +797,7 @@ msgid ""
 "Whenever you gain life, Rodolf Duskbringer gains indestructible until end of "
 "turn."
 msgstr ""
+"Ilekroć zyskasz życia, niniejszy do końca tury zyskuje niezniszczalność."
 
 #: ../../J22.rst:163
 msgid ""
@@ -777,6 +805,10 @@ msgid ""
 "you do, return target creature with mana value X or less from your graveyard "
 "to the battlefield, where X is the amount of life you gained this turn."
 msgstr ""
+"Na początku twojego kroku końcowego, możesz zapłacić |mana_1|\\ |mana_wb|. "
+"Kiedy tak zrobisz, przywróć wskazaną kartę stwora o skrócie many X lub "
+"mniejszym z twojego cmentarza na pole bitwy, gdzie X jest liczbą żyć "
+"zyskanych przez ciebie w tej turze."
 
 #: ../../J22.rst:168
 msgid ""
@@ -791,6 +823,9 @@ msgid ""
 "card. For each opponent who can't, put two +1/+1 counters on Skullslither "
 "Worm."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, każdy przeciwnik odrzuca kartę. Za "
+"każdego przeciwnika nie mogącego tego zrobić, umieść dwa znaczniki +1/+1 na "
+"niniejszym."
 
 #: ../../J22.rst:172
 msgid ""
@@ -828,6 +863,8 @@ msgid ""
 "Whenever a creature or planeswalker an opponent controls with a bounty "
 "counter on it is dealt damage, destroy it."
 msgstr ""
+"Ilekroć mający znacznik nagrody stwór lub wędrowiec pod władaniem "
+"przeciwnika otrzyma obrażenia, zniszcz go."
 
 #: ../../J22.rst:186
 msgid ""
@@ -892,6 +929,8 @@ msgid ""
 "Whenever a source you control deals damage to you, put that many +1/+1 "
 "counters on Auntie Blyte, Bad Influence."
 msgstr ""
+"Ilekroć źródło pod twoim władaniem zada tobie obrażenia, umieść tyle samo "
+"znaczników +1/+1 na niniejszym."
 
 #: ../../J22.rst:193
 msgid ""
@@ -913,6 +952,8 @@ msgid ""
 "Whenever an attacking creature you control dies, Brazen Cannonade deals 2 "
 "damage to each opponent."
 msgstr ""
+"Ilekroć umrze atakujący stwór pod twoim władaniem, niniejszy zadaje każdemu "
+"przeciwnikowi po 2 obrażenia."
 
 #: ../../J22.rst:199
 msgid ""
@@ -920,6 +961,9 @@ msgid ""
 "a creature this turn, exile the top card of your library. Until end of "
 "combat on your next turn, you may play that card."
 msgstr ""
+"Najazd — Na początku twojej fazy głównej po potyczce, jeśli w tej turze "
+"zaatakowałeś stworem, wygnaj wierzchnią kartę twojej biblioteki. Możesz "
+"zagrać ową kartę do końca potyczki w twojej następnej turze."
 
 #: ../../J22.rst:204
 msgid ""
@@ -933,6 +977,8 @@ msgid ""
 "|mana_2|\\ |mana_r|: Coalborn Entity deals 1 damage to target creature "
 "token, player, or planeswalker."
 msgstr ""
+"|mana_2|\\ |mana_r|: Niniejszy zadaje 1 obrażenie wskazanemu żetonowi "
+"stwora, graczowi lub wędrowcowi."
 
 #: ../../J22.rst:208
 msgid ""
@@ -964,6 +1010,9 @@ msgid ""
 "library. During any turn you attacked with Goblin Researcher, you may play "
 "that card."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, wygnaj wierzchnią kartę twojej "
+"biblioteki. Możesz zagrać ową kartę podczas dowolnej tury, w której "
+"niniejszy atakował."
 
 #: ../../J22.rst:218
 msgid ""
