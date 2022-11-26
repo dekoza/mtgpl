@@ -41,6 +41,6 @@
    Landfall — Whenever a land enters the battlefield under your control, you gain 1 life and draw a card.
 
 
-:mtgtip:`Counterspell<https://cards.scryfall.io/border_crop/front/1/b/1b73577a-8ca1-41d7-9b2b-7300286fde43.jpg?1664930376|https://scryfall.com/card/dmr/457/counterspell?utm_source=api>`
+:mtgtip:`Counterspell<https://cards.scryfall.io/border_crop/front/1/b/1b73577a-8ca1-41d7-9b2b-7300286fde43.jpg?1669199765|https://scryfall.com/card/dmr/457/counterspell?utm_source=api>`
    Counter target spell.
 
