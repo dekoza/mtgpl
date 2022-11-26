@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-10-15 23:10+0200\n"
-"PO-Revision-Date: 2022-10-30 17:43+0000\n"
+"PO-Revision-Date: 2022-11-26 12:31+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/c13/pl/>\n"
 "Language: pl\n"
@@ -1828,6 +1828,8 @@ msgid ""
 "At the beginning of each upkeep, if you control no Snakes, create a 1/1 "
 "black Snake creature token with deathtouch."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli nie władasz Wężem, stwórz żeton "
+"czarnego stwora Wąż 1/1 z dotykiem śmierci."
 
 #: ../../C13.rst:494
 msgid ""
@@ -3218,7 +3220,7 @@ msgstr ""
 # 5a5bebec206f48e6af1c2ac5e874492d
 #: ../../C13.rst:893
 msgid "Phantom Nantuko enters the battlefield with two +1/+1 counters on it."
-msgstr ""
+msgstr "Ten stwór wchodzi na pole bitwy mając dwa znaczniki +1/+1."
 
 # 5def37c33a044cdd92b7e6ea96b6f534
 #: ../../C13.rst:895
@@ -3230,7 +3232,7 @@ msgstr ""
 # e826c822a3d04e4482d1265121b306ec
 #: ../../C13.rst:897
 msgid "|tap|: Put a +1/+1 counter on Phantom Nantuko."
-msgstr ""
+msgstr "|tap|: Umieść znacznik +1/+1 na niniejszym."
 
 #: ../../C13.rst:904
 msgid ""
