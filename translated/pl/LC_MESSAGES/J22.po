@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG po polsku 2022.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-11-26 21:29+0100\n"
-"PO-Revision-Date: 2022-11-26 21:04+0000\n"
+"PO-Revision-Date: 2022-11-26 21:27+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/j22/pl/>\n"
 "Language: pl\n"
@@ -612,6 +612,10 @@ msgid ""
 "it has \"Whenever this creature or another creature with the same name deals "
 "combat damage to a player, you may draw a card.\""
 msgstr ""
+"Możesz zdecydować, że ten byt wejdzie na pole bitwy jako kopia dowolnego "
+"stwora na polu bitwy, ale jest on dodatkowo Piratem oprócz swoich innych "
+"typów i ma \"Ilekroć niniejszy lub inny stwór o tej samej nazwie zada "
+"graczowi obrażenia bojowe, możesz dobrać kartę.\""
 
 #: ../../J22.rst:112
 msgid ""
@@ -1029,6 +1033,11 @@ msgid ""
 "\"At the beginning of your end step, sacrifice this permanent.\" (A copy of "
 "a permanent spell becomes a token.)"
 msgstr ""
+"Ilekroć zagrasz czar skądkolwiek poza twoją ręką, możesz zapłacić |mana_1|\\ "
+"|mana_ur|. Jeśli tak zrobisz, skopiuj ów czar i możesz wskazać nowe cele dla "
+"owej kopii. Jeśli kopia jest czarem bytu, zyskuje pośpiech oraz \"Na "
+"początku twojego kroku końcowego, poświęć ten byt.\" (Kopia czaru bytu staje "
+"się żetonem.)"
 
 #: ../../J22.rst:224
 msgid ""
@@ -1050,6 +1059,11 @@ msgid ""
 "When you cast that spell, Ogre Battlecaster gets +X/+0 until end of turn, "
 "where X is that spell's mana value."
 msgstr ""
+"Ilekroć niniejszy zaatakuje, możesz rzucić wskazaną kartę sztuczki lub "
+"obrzędu z twojego cmentarza płacąc dodatkowo |mana_r|\\ |mana_r| oprócz "
+"innych jej kosztów. Jeśli ów czar miałby trafić do cmentarza, zamiast tego "
+"wygnaj go. Kiedy rzucisz ów czar, niniejszy do końca tury dostaje +X/+0, "
+"gdzie X jest skrótem many owego czaru."
 
 #: ../../J22.rst:230
 msgid ""
@@ -1082,6 +1096,9 @@ msgid ""
 "If one or more +1/+1 counters would be put on another creature you control, "
 "that many plus one +1/+1 countersa re put on it instead."
 msgstr ""
+"Jeśli jeden lub więcej znaczników +1/+1 miałoby zostać umieszczonych na "
+"stworze pod twoim władaniem, zamiast tego umieszczanych jest ich o jeden "
+"więcej."
 
 #: ../../J22.rst:237
 msgid ""
@@ -1108,6 +1125,9 @@ msgid ""
 "When Giant Ladybug enters the battlefield, you may search your library for a "
 "basic land card, reveal it, then shuffle and put that card on top."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"kartę bazowego lądu, ujawnij ją, po czym przetasuj i umieść ową kartę na "
+"wierzchu."
 
 #: ../../J22.rst:252
 msgid ""
@@ -1150,6 +1170,8 @@ msgid ""
 "|mana_3|\\ |mana_g|: Mild-Mannered Librarian becomes a werewolf. Put two +1/"
 "+1 counters on it and you draw a card. Activate only once."
 msgstr ""
+"|mana_3|\\ |mana_g|: Niniejszy staje się Wilkołakiem. Umieść na nim dwa "
+"znaczniki +1/+1 i dobierz kartę. Aktywuj tylko raz."
 
 #: ../../J22.rst:262
 msgid ""
@@ -1169,6 +1191,9 @@ msgid ""
 "your library for a basic land card, put it onto the battlefield tapped, then "
 "shuffle."
 msgstr ""
+"Ilekroć niniejszy wejdzie na pole bitwy lub zaatakuje, możesz wyszukać w "
+"twojej bibliotece kartę bazowego lądu, umieść ją przekręconą na polu bitwy, "
+"po czym przetasuj."
 
 #: ../../J22.rst:266
 msgid ""
@@ -1183,6 +1208,9 @@ msgid ""
 "shuffle. Until end of turn, that land becomes a 4/3 Insect creature with "
 "reach and haste. It's still a land."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę bazowego lądu, umieść ją na polu bitwy, "
+"po czym przetasuj. Do końca tury ów ląd staje się stworem Owad 4/3 z "
+"zasięgiem i pośpiechem. Nadal jest lądem."
 
 #: ../../J22.rst:274
 msgid ""
@@ -1197,11 +1225,16 @@ msgid ""
 "creature enters the battlefield with X additional +1/+1 counters on it, "
 "where X is its mana value minus 4."
 msgstr ""
+"Ilekroć rzucisz czar stwora o skrócie many 5 lub większym, ów stwór wchodzi "
+"na pole bitwy mając X dodatkowych znaczników +1/+1, gdzie X jest jego "
+"skrótem many minus 4."
 
 #: ../../J22.rst:271
 msgid ""
 "Creature you control with three or more +1/+1 counters on them have haste."
 msgstr ""
+"Stwory pod twoim władaniem mające co najmniej trzy znaczniki +1/+1, mają "
+"pośpiech."
 
 #: ../../J22.rst:273 ../../J22.rst:4385
 msgid "|tap|: Add |mana_g|."
@@ -1219,6 +1252,8 @@ msgid ""
 "|mana_5|\\ |mana_g|: Creatures you control get +1/+1 and gain trample until "
 "end of turn."
 msgstr ""
+"|mana_5|\\ |mana_g|: Stwory pod twoim władaniem do końca tury dostają +1/+1 "
+"i tratowanie."
 
 #: ../../J22.rst:284
 msgid ""
@@ -1232,6 +1267,8 @@ msgid ""
 "Towering Gibbon's power is equal to the greatest mana value among creatures "
 "you control."
 msgstr ""
+"Siła tej karty jest równa największemu skrótowi many pośród stworów pod "
+"twoim władaniem."
 
 #: ../../J22.rst:292
 msgid ""
@@ -1250,12 +1287,17 @@ msgid ""
 "owner's library, then mill two cards. (Put the top two cards of your library "
 "into your graveyard.)"
 msgstr ""
+"Ilekroć umrze inny Owad pod twoim władaniem, umieść go na spodzie biblioteki "
+"właściciela, po czym zmiel dwie karty. (Umieść dwie karty z wierzchu twojej "
+"biblioteki w twoim cmentarzu.)"
 
 #: ../../J22.rst:291
 msgid ""
 "|mana_1|\\ |mana_bg|: Target Insect gets +1/+0 and gains deathtouch until "
 "end of turn. (|mana_bg| can be paid with either |mana_b| or |mana_g|.)"
 msgstr ""
+"|mana_1|\\ |mana_bg|: Wskazany owad do końca tury dostaje +1/+0 i dotyk "
+"śmierci. (|mana_bg| można opłacić używając |mana_b| lub |mana_g|.)"
 
 #: ../../J22.rst:296
 msgid ""
@@ -1270,6 +1312,9 @@ msgid ""
 "you do, create a token that's a copy of target token you control not named "
 "Dutiful Replicator."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, możesz zapłacić |mana_1|. Kiedy tak "
+"zrobisz, stwórz żeton będący kopią wskazanego żetonu pod twoim władaniem nie "
+"mającego nazwy niniejszego."
 
 #: ../../J22.rst:302
 msgid ""
@@ -1287,6 +1332,8 @@ msgid ""
 "|mana_1|\\ |mana_b|\\ |mana_b|, |tap|, Sacrifice Infernal Idol: You draw two "
 "cards and you lose 2 life."
 msgstr ""
+"|mana_1|\\ |mana_b|\\ |mana_b|, |tap|, poświęć ten byt: Dobierz dwie karty i "
+"strać 2 życia."
 
 #: ../../J22.rst:310
 msgid ""
@@ -1328,6 +1375,10 @@ msgid ""
 "put that card on top of your library and rest on the bottom of your library "
 "in a random order."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, możesz spojrzeć na cztery wierzchnie "
+"karty twojej biblioteki. Jeśli tak zrobisz, ujawnij spośród nich co najwyżej "
+"jedną kartę lądu, po czym umieść ową kartę na wierzchu twojej biblioteki, a "
+"pozostałe losowo na spodzie twojej biblioteki."
 
 #: ../../J22.rst:317 ../../J22.rst:569 ../../J22.rst:4135 ../../J22.rst:4253
 #: ../../J22.rst:4259 ../../J22.rst:4265 ../../J22.rst:4299 ../../J22.rst:4391
@@ -2238,6 +2289,8 @@ msgid ""
 "|tap|: Return Wizard Mentor and target creature you control to their owner's "
 "hand."
 msgstr ""
+"|tap|: Przywróć ten byt i wskazanego stwora pod twoim władaniem do ręki "
+"właściciela."
 
 #: ../../J22.rst:626
 msgid ""
@@ -2282,12 +2335,16 @@ msgid ""
 "At the beginning of your upkeep, Festering Evil deals 1 damage to each "
 "creature and each player."
 msgstr ""
+"Na początku twojego kroku utrzymania, ten byt zadaje każdemu stworowi i "
+"każdemu graczowi po 1 obrażeniu."
 
 #: ../../J22.rst:637
 msgid ""
 "|mana_b|\\ |mana_b|, Sacrifice Festering Evil: It deals 3 damage to each "
 "creature and each player."
 msgstr ""
+"|mana_b|\\ |mana_b|, poświęć ten byt: Zadaje on każdemu stworowi i każdemu "
+"graczowi po 3 obrażenia."
 
 #: ../../J22.rst:642
 msgid ""
@@ -2548,7 +2605,7 @@ msgstr ""
 
 #: ../../J22.rst:721
 msgid "Sacrifice a creature: Put a charge counter on Spawning Pit."
-msgstr ""
+msgstr "Poświęć stwora: Umieść znacznik ładunku na niniejszym."
 
 #: ../../J22.rst:723
 msgid ""
@@ -3817,6 +3874,8 @@ msgid ""
 "Whenever a source an opponent controls deals damage to you, that player "
 "sacrifices a permanent."
 msgstr ""
+"Ilekroć źródło pod władaniem przeciwnika zada tobie obrażenia, ów gracz "
+"poświęca byt."
 
 #: ../../J22.rst:1162
 msgid ""
@@ -3923,6 +3982,8 @@ msgid ""
 "Whenever Order of the Golden Cricket attacks, you may pay |mana_w|. If you "
 "do, it gains flying until end of turn."
 msgstr ""
+"Ilekroć niniejszy zaatakuje, możesz zapłacić |mana_w|. Jeśli tak zrobisz, do "
+"końca tury zyskuje on latanie."
 
 #: ../../J22.rst:1196
 msgid ""
@@ -4632,7 +4693,7 @@ msgstr "|tap|: Wskazany stwór do końca tury zyskuje wszystkie typy stwora."
 
 #: ../../J22.rst:1443
 msgid "|tap|: Target creature loses all creature types until end of turn."
-msgstr ""
+msgstr "|tap|: Wskazany stwór do końca tury traci wszystkie typy stwora."
 
 #: ../../J22.rst:1448
 msgid ""
@@ -5069,7 +5130,7 @@ msgstr ""
 
 #: ../../J22.rst:1597
 msgid "Whenever Fallowsage becomes tapped, you may draw a card."
-msgstr ""
+msgstr "Ilekroć niniejszy zostanie przekręcony, możesz dobrać kartę."
 
 #: ../../J22.rst:1604
 msgid ""
@@ -5181,6 +5242,8 @@ msgid ""
 "Whenever you cast a spell during an opponent's turn, you may return target "
 "creature you control to its owner's hand."
 msgstr ""
+"Ilekroć rzucisz czar podczas tury przeciwnika, możesz przywrócić wskazanego "
+"stwora pod twoim władaniem do ręki właściciela."
 
 #: ../../J22.rst:1644
 msgid ""
@@ -5730,6 +5793,7 @@ msgid ""
 "Whenever Saltwater Stalwart deals damage to an opponent, target player draws "
 "a card."
 msgstr ""
+"Ilekroć niniejszy zada obrażenia przeciwnikowi, wskazany gracz dobiera kartę."
 
 #: ../../J22.rst:1848
 msgid ""
@@ -5893,6 +5957,7 @@ msgstr ""
 #: ../../J22.rst:1905
 msgid "|mana_1|\\ |mana_u|, |tap|: You may tap or untap target creature."
 msgstr ""
+"|mana_1|\\ |mana_u|, |tap|: Możesz przekręcić lub odkręcić wskazanego stwora."
 
 #: ../../J22.rst:1912
 msgid ""
@@ -6424,6 +6489,8 @@ msgid ""
 "When Chittering Rats enters the battlefield, target opponent puts a card "
 "from their hand on top of their library."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, wskazany przeciwnik umieszcza kartę ze "
+"swojej ręki na wierzchu swojej biblioteki."
 
 #: ../../J22.rst:2086
 msgid ""
@@ -7048,6 +7115,8 @@ msgid ""
 "Enchanted creature gets +2/+2, has flying, and is a Demon in addition to its "
 "other types."
 msgstr ""
+"Zauroczony stwór dostaje +2/+2, ma latanie i jest dodatkowo Demonem oprócz "
+"swoich innych typów."
 
 #: ../../J22.rst:2287
 msgid ""
@@ -7429,6 +7498,9 @@ msgid ""
 "your graveyard, you may return target creature card from your graveyard to "
 "your hand."
 msgstr ""
+"Na początku twojego kroku utrzymania, jeśli masz co najmniej cztery karty "
+"stworów w twoim cmentarzu, możesz przywrócić wskazaną kartę stwora z twojego "
+"cmentarza do twojej ręki."
 
 #: ../../J22.rst:2414
 msgid ""
@@ -7473,6 +7545,8 @@ msgid ""
 "At the beginning of your upkeep, Plague Spitter deals 1 damage to each "
 "creature and each player."
 msgstr ""
+"Na początku twojego kroku utrzymania, niniejszy zadaje każdemu stworowi i "
+"każdemu graczowi po 1 obrażeniu."
 
 #: ../../J22.rst:2423
 msgid ""
@@ -7746,6 +7820,8 @@ msgid ""
 "Whenever Takenuma Bleeder attacks or blocks, you lose 1 life if you don't "
 "control a Demon."
 msgstr ""
+"Ilekroć niniejszy zaatakuje lub zablokuje, strać 1 życie jeśli nie władasz "
+"Demonem."
 
 #: ../../J22.rst:2516
 msgid ""
@@ -8335,6 +8411,8 @@ msgid ""
 "Whenever Coalhauler Swine is dealt damage, it deals that much damage to each "
 "player."
 msgstr ""
+"Ilekroć niniejszy otrzyma obrażenia, zadaje po tyle samo obrażeń każdemu "
+"graczowi."
 
 #: ../../J22.rst:2708
 msgid ""
@@ -8736,6 +8814,9 @@ msgid ""
 "flip, the next time it would deal combat damage this turn, it deals that "
 "damage to you instead."
 msgstr ""
+"Ilekroć niniejszy zaatakuje lub zablokuje, rzuć monetą. Jeśli przegrasz "
+"rzut, kiedy najbliższym razem miałby on zadać obrażenia bojowe w tej turze, "
+"zamiast tego zadaje je on tobie."
 
 #: ../../J22.rst:2860
 msgid ""
@@ -11349,6 +11430,8 @@ msgid ""
 "If damage would be dealt to Phantom Nantuko, prevent that damage. Remove a "
 "+1/+1 counter from Phantom Nantuko."
 msgstr ""
+"Jeśli obrażenia miałyby zostać zadane niniejszemu, zażegnaj je. Usuń "
+"znacznik +1/+1 z niniejszego."
 
 #: ../../J22.rst:3677
 msgid "|tap|: Put a +1/+1 counter on Phantom Nantuko."
@@ -11744,7 +11827,7 @@ msgstr ""
 
 #: ../../J22.rst:3805
 msgid "Discard a land card: Simian Brawler gets +1/+1 until end of turn."
-msgstr ""
+msgstr "Odrzuć kartę lądu: Niniejszy do końca tury dostaje +1/+1."
 
 #: ../../J22.rst:3810
 msgid ""
@@ -12698,6 +12781,8 @@ msgid ""
 "When a creature enters the battlefield, sacrifice Monkey Cage and create X "
 "2/2 green Monkey creature tokens, where X is that creature's mana value."
 msgstr ""
+"Kiedy stwór wejdzie na pole bitwy, poświęć niniejszy byt i stwórz X żetonów "
+"zielonego stwora Małpka 2/2, gdzie X jest skrótem many owego stwora."
 
 #: ../../J22.rst:4148
 msgid ""
@@ -12724,13 +12809,15 @@ msgstr ""
 
 #: ../../J22.rst:4151
 msgid "Phyrexian Ironfoot doesn't untap during your untap step."
-msgstr ""
+msgstr "Ten byt nie odkręca się podczas twojego kroku odkręcania."
 
 #: ../../J22.rst:4153
 msgid ""
 "|mana_1|\\ |mana_s|: Untap Phyrexian Ironfoot. (|mana_s| can be paid with "
 "one mana from a snow source.)"
 msgstr ""
+"|mana_1|\\ |mana_s|: Odkręć ten byt. (|mana_s| można opłacić jedną maną ze "
+"śnieżnego źródła.)"
 
 #: ../../J22.rst:4158
 msgid ""
