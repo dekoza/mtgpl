@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG po polsku 2022.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-11-26 21:29+0100\n"
-"PO-Revision-Date: 2022-11-26 12:28+0000\n"
+"PO-Revision-Date: 2022-11-26 20:45+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/j22/pl/>\n"
 "Language: pl\n"
@@ -258,6 +258,11 @@ msgid ""
 "copy targets a different one of those creatures. (|mana_rw| can be paid with "
 "either |mana_r| or |mana_w|.)"
 msgstr ""
+"Ilekroć ten byt zostanie jedynym wskazanym przez czar lub zdolność, możesz "
+"zapłacić |mana_1|\\ |mana_rw|. Jeśli tak zrobisz, skopiuj ową zdolność za "
+"każdego innego stwora pod twoim władaniem, który mógłby być przez nią "
+"wskazany. Każda kopia wskazuje innego z owych stworów. (|mana_rw| można "
+"opłacić używając |mana_r| lub |mana_w|.)"
 
 #: ../../J22.rst:18
 msgid ""
@@ -328,6 +333,8 @@ msgid ""
 "|mana_4|\\ |mana_w|, |tap|: Exile another target creature you control, then "
 "return it to the battlefield under its owner's control."
 msgstr ""
+"|mana_4|\\ |mana_w|, |tap|: Wygnaj innego wskazanego stwora pod twoim "
+"władaniem, po czym przywróć go na pole bitwy pod władaniem właściciela."
 
 #: ../../J22.rst:36
 msgid ""
@@ -342,6 +349,9 @@ msgid ""
 "creature you control. If that creature is a Cat, it gains first strike until "
 "end of turn."
 msgstr ""
+"|mana_3|\\ |mana_w|: Umieść znacznik +1/+1 na innym wskazanym atakującym "
+"stworze pod twoim władaniem. Jeśli ów stwór jest Kotem, do końca tury "
+"zyskuje on pierwszy cios."
 
 #: ../../J22.rst:44
 msgid ""
@@ -355,6 +365,8 @@ msgid ""
 "At the beginning of your end step, untap each other artifact creature you "
 "control."
 msgstr ""
+"Na początku twojego kroku końcowego, odkręć każdego innego artefaktowego "
+"stwora pod twoim władaniem."
 
 #: ../../J22.rst:43
 msgid ""
@@ -363,6 +375,10 @@ msgid ""
 "you control with total power 3 or more: This Vehicle becomes an artifact "
 "creature until end of turn.\")"
 msgstr ""
+"|mana_3|\\ |mana_w|, |tap|: Stwórz żeton bezkolorowego artefaktu Pojazd 5/5 "
+"o nazwie Sterowiec z lataniem i załogą 3. (Ma on \"Przekręć dowolną liczbę "
+"stworów pod twoim władaniem o łącznej sile co najmniej 3: Ten Pojazd staje "
+"się do końca tury artefaktowym stworem.\")"
 
 #: ../../J22.rst:50
 msgid ""
@@ -375,7 +391,7 @@ msgstr ""
 msgid ""
 "Magnanimous Magistrate enters the battlefield with five reprieve counters on "
 "it."
-msgstr ""
+msgstr "Ten byt wchodzi na pole bitwy mając pięć znaczników ulgi."
 
 #: ../../J22.rst:49
 msgid ""
@@ -384,6 +400,10 @@ msgid ""
 "Magistrate. If you do, return that card to the battlefield under its owner's "
 "control."
 msgstr ""
+"Ilekroć umrze inny nieżetonowy stwór pod twoim władaniem, jeśli jego skrót "
+"many wynosił co najmniej 1, możesz usunąć tyle samo znaczników ulgi z "
+"niniejszego. Jeśli tak zrobisz, przywróć ową kartę na pole bitwy pod "
+"władaniem jej właściciela."
 
 #: ../../J22.rst:56
 msgid ""
@@ -407,6 +427,7 @@ msgid ""
 "|mana_1|\\ |mana_w|, Sacrifice five Illusions: Exile target nonland "
 "permanent."
 msgstr ""
+"|mana_1|\\ |mana_w|, poświęć pięć Iluzji: Wygnaj wskazany nielądowy byt."
 
 #: ../../J22.rst:62
 msgid ""
@@ -429,6 +450,9 @@ msgid ""
 "you control each get +X/+X until end of turn, where X is the number of cards "
 "in your hand."
 msgstr ""
+"Ilekroć dobierzesz swoją piątą kartę w danej turze, niniejszy oraz Draki pod "
+"twoim władaniem do końca tury dostają +X/+X każdy, gdzie X jest liczbą kart "
+"w twojej ręce."
 
 #: ../../J22.rst:68
 msgid ""
@@ -453,6 +477,9 @@ msgid ""
 "control to its owner's hand. If you do, Biblioplex Kraken can't be blocked "
 "this turn."
 msgstr ""
+"Ilekroć niniejszy zaatakuje, możesz przywrócić innego stwora pod twoim "
+"władaniem do ręki właściciela. Jeśli tak zrobisz, niniejszy nie może być "
+"blokowany w tej turze."
 
 #: ../../J22.rst:76
 msgid ""
@@ -471,18 +498,17 @@ msgid ""
 "and investigate. (Create a Clue token. It's an artifact with \"|mana_2|, "
 "Sacrifice this artifact: Draw a card.\")"
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, przekręć zauroczony byt i dociekaj. ("
+"Stwórz żeton Wskazówki. To artefakt mający \"|mana_2|, poświęć ten artefakt: "
+"Dobierz kartę.\")"
 
 #: ../../J22.rst:75
-#, fuzzy
-#| msgid ""
-#| "Enchanted creature can't attack or block, and its activated abilities "
-#| "can't be activated."
 msgid ""
 "Enchanted permanent doesn't untap during its controller's untap step and its "
 "activated abilities can't be activated."
 msgstr ""
-"Zauroczony stwór nie może atakować ani blokować, a jego aktywowane zdolności "
-"nie mogą być aktywowane."
+"Zauroczony byt nie odkręca się w kroku odkręcania jego władcy, a jego "
+"aktywowane zdolności nie mogą być aktywowane."
 
 #: ../../J22.rst:84
 msgid ""
@@ -522,7 +548,7 @@ msgstr ""
 #: ../../J22.rst:87
 msgid ""
 "If you would scry a number of cards, scry that many cards plus one instead."
-msgstr ""
+msgstr "Jeśli miałbyś wróżyć ileś kart, zamiast tego wróż tyle samo plus jedną."
 
 #: ../../J22.rst:89
 msgid ""
@@ -7508,6 +7534,8 @@ msgid ""
 "At the beginning of each player's upkeep, that player loses 2 life and draws "
 "two cards."
 msgstr ""
+"Na początku kroku utrzymania każdego z graczy, ów gracz traci 2 życia i "
+"dobiera dwie karty."
 
 #: ../../J22.rst:2468
 msgid ""
@@ -7579,14 +7607,8 @@ msgid ""
 msgstr ""
 
 #: ../../J22.rst:2481
-#, fuzzy
-#| msgid ""
-#| "|mana_u|, |tap|, Discard a card: Return target permanent you control to "
-#| "its owner's hand."
 msgid "|mana_b|, |tap|, Discard a card: Each player loses 2 life."
-msgstr ""
-"|mana_u|, |tap|, odrzuć kartę: Przywróć wskazany byt pod twoim władaniem do "
-"ręki właściciela."
+msgstr "|mana_b|, |tap|, odrzuć kartę: Każdy gracz traci po 2 życia."
 
 #: ../../J22.rst:2488
 msgid ""
