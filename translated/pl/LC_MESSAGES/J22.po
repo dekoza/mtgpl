@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG po polsku 2022.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-11-30 19:34+0100\n"
-"PO-Revision-Date: 2022-11-26 21:36+0000\n"
+"PO-Revision-Date: 2022-12-01 23:01+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/j22/pl/>\n"
 "Language: pl\n"
@@ -305,19 +305,14 @@ msgstr ""
 "władaniem przeciwnika do czasu opuszczenia pola bitwy przez niniejszy."
 
 #: ../../J22.rst:25
-#, fuzzy
-#| msgid ""
-#| "Enchanted creature has ward |mana_2|. Ward |mana_2| (Whenever this "
-#| "creature becomes the target of a spell or ability an opponent controls, "
-#| "counter it unless that player pays |mana_2|.)"
 msgid ""
 "Enchanted creature has ward |mana_2|. (Whenever this creature becomes the "
 "target of a spell or ability an opponent controls, counter it unless that "
 "player pays |mana_2|.)"
 msgstr ""
-"Zauroczony stwór ma straż |mana_2|. Straż |mana_2|. (Ilekroć ten stwór "
-"zostanie wskazany przez czar lub zdolność pod władaniem przeciwnika, "
-"skontruj to, chyba że ów gracz zapłaci |mana_2|.)"
+"Zauroczony stwór ma straż |mana_2|. (Ilekroć ten stwór zostanie wskazany "
+"przez czar lub zdolność pod władaniem przeciwnika, skontruj to, chyba że ów "
+"gracz zapłaci |mana_2|.)"
 
 #: ../../J22.rst:32
 msgid ""
@@ -612,12 +607,6 @@ msgid ""
 msgstr ""
 
 #: ../../J22.rst:103
-#, fuzzy
-#| msgid ""
-#| "When may have Pirated copy enter the battlefield as a copy of any "
-#| "creature on the battlefield, except it's a Pirate in addition to its "
-#| "other types and it has \"Whenever this creature or another creature with "
-#| "the same name deals combat damage to a player, you may draw a card.\""
 msgid ""
 "You may have Pirated Copy enter the battlefield as a copy of any creature on "
 "the battlefield, except it's a Pirate in addition to its other types and it "
@@ -658,10 +647,6 @@ msgid ""
 msgstr ""
 
 #: ../../J22.rst:115
-#, fuzzy
-#| msgid ""
-#| "This spell costs |mana_2| less to cast if you control two or more "
-#| "creatures that share a creature type."
 msgid ""
 "This spell costs |mana_2| less to cast if you control at least two creatures "
 "that share a creature type."
@@ -834,11 +819,6 @@ msgid ""
 msgstr ""
 
 #: ../../J22.rst:165
-#, fuzzy
-#| msgid ""
-#| "When Skullslither Worm enters the battelfield, each opponent discards a "
-#| "card. For each opponent who can't, put two +1/+1 counters on Skullslither "
-#| "Worm."
 msgid ""
 "When Skullslither Worm enters the battlefield, each opponent discards a "
 "card. For each opponent who can't, put two +1/+1 counters on Skullslither "
@@ -1109,10 +1089,6 @@ msgid "Benevolent Hydra enters the battlefield with X +1/+1 counters on it."
 msgstr "Ten byt wchodzi na pole bitwy mając X znaczników +1/+1."
 
 #: ../../J22.rst:233
-#, fuzzy
-#| msgid ""
-#| "If one or more +1/+1 counters would be put on another creature you "
-#| "control, that many plus one +1/+1 countersa re put on it instead."
 msgid ""
 "If one or more +1/+1 counters would be put on another creature you control, "
 "that many plus one +1/+1 counters are put on it instead."
@@ -1187,10 +1163,6 @@ msgid ""
 msgstr ""
 
 #: ../../J22.rst:253
-#, fuzzy
-#| msgid ""
-#| "|mana_3|\\ |mana_g|: Mild-Mannered Librarian becomes a werewolf. Put two "
-#| "+1/+1 counters on it and you draw a card. Activate only once."
 msgid ""
 "|mana_3|\\ |mana_g|: Mild-Mannered Librarian becomes a Werewolf. Put two +1/"
 "+1 counters on it and you draw a card. Activate only once."
@@ -1394,12 +1366,6 @@ msgid "Planar Atlas enters the battlefield tapped."
 msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../J22.rst:313
-#, fuzzy
-#| msgid ""
-#| "When Planar Atlas enters the battlefield, you may look at the top four "
-#| "cards of your library. If you do, reveal up to one land card from among "
-#| "them, then put that card on top of your library and rest on the bottom of "
-#| "your library in a random order."
 msgid ""
 "When Planar Atlas enters the battlefield, you may look at the top four cards "
 "of your library. If you do, reveal up to one land card from among them, then "
@@ -1409,7 +1375,7 @@ msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, możesz spojrzeć na cztery wierzchnie "
 "karty twojej biblioteki. Jeśli tak zrobisz, ujawnij spośród nich co najwyżej "
 "jedną kartę lądu, po czym umieść ową kartę na wierzchu twojej biblioteki, a "
-"pozostałe losowo na spodzie twojej biblioteki."
+"pozostałe losowo na spodzie."
 
 #: ../../J22.rst:315 ../../J22.rst:567 ../../J22.rst:4145 ../../J22.rst:4263
 #: ../../J22.rst:4269 ../../J22.rst:4275 ../../J22.rst:4309 ../../J22.rst:4401
@@ -5559,10 +5525,8 @@ msgid ""
 msgstr ""
 
 #: ../../J22.rst:1743
-#, fuzzy
-#| msgid "|mana_2|\\ |mana_r|: Lavastep Raider gets +2/+0 until end of turn."
 msgid "|mana_1|\\ |mana_u|: Mistwalker gets +1/-1 until end of turn."
-msgstr "|mana_2|\\ |mana_r|: Ten stwór do końca tury dostaje +2/+0."
+msgstr "|mana_1|\\ |mana_u|: Niniejszy do końca tury dostaje +1/-1."
 
 #: ../../J22.rst:1750
 msgid ""
@@ -7736,10 +7700,8 @@ msgid ""
 msgstr ""
 
 #: ../../J22.rst:2477
-#, fuzzy
-#| msgid "Thriving Grove enters the battlefield tapped."
 msgid "Shambling Ghoul enters the battlefield tapped."
-msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../J22.rst:2484
 msgid ""
