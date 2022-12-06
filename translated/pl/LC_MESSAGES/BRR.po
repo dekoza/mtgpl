@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG po polsku 2022.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-13 22:49+0100\n"
+"POT-Creation-Date: 2022-12-05 16:47+0100\n"
 "PO-Revision-Date: 2022-11-13 22:40+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/brr/pl/>\n"
@@ -421,7 +421,8 @@ msgstr ""
 
 #: ../../BRR.rst:69
 msgid "|mana_1|, |tap|, Sacrifice Chromatic Star: Add one mana of any color."
-msgstr "|mana_1|, |tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru."
+msgstr ""
+"|mana_1|, |tap|, poświęć ten artefakt: Weź jedną manę dowolnego koloru."
 
 #: ../../BRR.rst:71
 msgid ""
@@ -852,7 +853,8 @@ msgstr ""
 
 #: ../../BRR.rst:197
 msgid "|mana_5|, |tap|, Exile Perilous Vault: Exile all nonland permanents."
-msgstr "|mana_5|, |tap|. wygnaj ten artefakt: Wygnaj wszystkie nie-lądowe byty."
+msgstr ""
+"|mana_5|, |tap|. wygnaj ten artefakt: Wygnaj wszystkie nie-lądowe byty."
 
 #: ../../BRR.rst:204
 msgid ""
@@ -947,7 +949,8 @@ msgstr ""
 msgid ""
 "Psychosis Crawler's power and toughness are each equal to the number of "
 "cards in your hand."
-msgstr "Siła i wytrzymałość tej karty są obie równe liczbie kart w twojej ręce."
+msgstr ""
+"Siła i wytrzymałość tej karty są obie równe liczbie kart w twojej ręce."
 
 #: ../../BRR.rst:231
 msgid "Whenever you draw a card, each opponent loses 1 life."
@@ -1012,8 +1015,8 @@ msgid ""
 "Activate only once each turn."
 msgstr ""
 "Usuń pięć znaczników +1/+1 z tego stwora: Weź |mana_w|\\ |mana_w|\\ |mana_u|"
-"\\ |mana_u|\\ |mana_b|\\ |mana_b|\\ |mana_r|\\ |mana_r|\\ |mana_g|\\ |mana_g|"
-". Aktywuj tylko raz na turę."
+"\\ |mana_u|\\ |mana_b|\\ |mana_b|\\ |mana_r|\\ |mana_r|\\ |mana_g|\\ |"
+"mana_g|. Aktywuj tylko raz na turę."
 
 #: ../../BRR.rst:258
 msgid ""
@@ -1103,8 +1106,8 @@ msgid ""
 "Spells you cast that share a card type with the exiled card cost |mana_2| "
 "less to cast."
 msgstr ""
-"Rzucanie czarów mających z wygnaną kartą wspólny typ karty kosztuje cię o "
-"|mana_2| mniej."
+"Rzucanie czarów mających z wygnaną kartą wspólny typ karty kosztuje cię o |"
+"mana_2| mniej."
 
 #: ../../BRR.rst:282
 msgid ""
@@ -1132,7 +1135,8 @@ msgstr ""
 msgid ""
 "When Soul-Guide Lantern enters the battlefield, exile target card from a "
 "graveyard."
-msgstr "Kiedy ten byt wejdzie na pole bitwy, wygnaj wskazaną kartę z cmentarza."
+msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, wygnaj wskazaną kartę z cmentarza."
 
 #: ../../BRR.rst:287
 msgid "|tap|, Sacrifice Soul-Guide Lantern: Exile each opponent's graveyard."
