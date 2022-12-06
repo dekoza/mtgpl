@@ -186,6 +186,9 @@
 .. |TSP_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
+.. |EA1_percent| image:: images/done.png        
+   :alt: Tłumaczenie zakończone
+
 .. |10E_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
