@@ -41,7 +41,8 @@ Nadchodzące
 -----------
 
 * :mtgexp:`DMR` :doc:`Dominaria Remastered<DMR>` Premiera: 2023-01-13
-* :mtgexp:`J22` :doc:`Jumpstart 2022<J22>` |J22_percent| Premiera: 2022-12-02
+* :mtgexp:`A23` :doc:`Alchemy: The Brothers' War<YBRO>` (tylko Arena) Premiera 2022-12-13
+* :mtgexp:`EA1` :doc:`Explorer Anthology<EA1>` (tylko Arena) - część 2; Premiera 2022-12-13
 
 Standard
 --------
@@ -94,6 +95,8 @@ Na komputery wyszło kilka gier pozwalających grać w MTG, ale najpopularniejsz
 Otrzymały one specjalne dodatki, które nie miały swoich bezpośrednich papierowych odpowiedników, ale zawierały
 karty z innych dodatków dobrane w taki sposób, by zapewnić odpowiedni balans zarówno w Constructed jak i Limited.
 
+* :mtgexp:`EA1` :doc:`Explorer Anthology<EA1>` (tylko Arena) |EA1_percent|
+* :mtgexp:`A23` :doc:`Alchemy: Dominaria<YDMU>` (tylko Arena) |YDMU_percent|
 * :mtgexp:`HBG` :doc:`Alchemy Horizons: Baldur's Gate<HBG>` (tylko Arena) |HBG_percent|
 * :mtgexp:`ANB` :doc:`Arena Beginner Set<ANB>` (tylko Arena) |ANB_percent|
 * :mtgexp:`AKR` :doc:`Amonkhet Remastered<AKR>` (tylko Arena) |AKR_percent|
@@ -105,6 +108,7 @@ Jumpstart
 
 Jumpstart jest ciekawym sposobem na szybką grę w MTG. Dodatek zwiera niemal 500 przedruków z innych dodatków. Oprócz tego zawiera 37 nowych kart legalnych tylko w formatach Eternal (Legacy, Vintage, Commander). Karty z symbolem :mtgexp:`M21` są legalne w Standardzie 2021.
 
+* :mtgexp:`J22` :doc:`Jumpstart 2022<J22>` |J22_percent|
 * :mtgexp:`J21` :doc:`Jumpstart: Historic Horizons<J21>` |J21_percent| tylko cyfrowo
 * :mtgexp:`JMP` :doc:`Jumpstart<JMP>` |JMP_percent|
 
