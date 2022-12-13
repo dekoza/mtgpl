@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG po polsku 2022.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-06 09:10+0100\n"
+"POT-Creation-Date: 2022-12-13 21:40+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -136,21 +136,21 @@ msgstr ""
 #: ../../percentages.inc:177
 #: ../../percentages.inc:186
 #: ../../percentages.inc:189
-#: ../../percentages.inc:194
+#: ../../percentages.inc:192
 #: ../../percentages.inc:197
-#: ../../percentages.inc:204
+#: ../../percentages.inc:200
 #: ../../percentages.inc:207
 #: ../../percentages.inc:210
 #: ../../percentages.inc:213
 #: ../../percentages.inc:216
 #: ../../percentages.inc:219
 #: ../../percentages.inc:222
-#: ../../percentages.inc:229
+#: ../../percentages.inc:225
 #: ../../percentages.inc:232
 #: ../../percentages.inc:235
 #: ../../percentages.inc:238
 #: ../../percentages.inc:241
-#: ../../percentages.inc:246
+#: ../../percentages.inc:244
 #: ../../percentages.inc:249
 #: ../../percentages.inc:252
 #: ../../percentages.inc:255
@@ -159,10 +159,10 @@ msgstr ""
 #: ../../percentages.inc:264
 #: ../../percentages.inc:267
 #: ../../percentages.inc:270
-#: ../../percentages.inc:275
+#: ../../percentages.inc:273
 #: ../../percentages.inc:278
-#: ../../percentages.inc:283
-#: ../../percentages.inc:288
+#: ../../percentages.inc:281
+#: ../../percentages.inc:286
 #: ../../percentages.inc:291
 #: ../../percentages.inc:294
 #: ../../percentages.inc:297
@@ -170,37 +170,38 @@ msgstr ""
 #: ../../percentages.inc:303
 #: ../../percentages.inc:306
 #: ../../percentages.inc:309
-#: ../../percentages.inc:316
+#: ../../percentages.inc:312
 #: ../../percentages.inc:319
-#: ../../percentages.inc:326
+#: ../../percentages.inc:322
 #: ../../percentages.inc:329
 #: ../../percentages.inc:332
 #: ../../percentages.inc:335
 #: ../../percentages.inc:338
 #: ../../percentages.inc:341
-#: ../../percentages.inc:348
-#: ../../percentages.inc:353
+#: ../../percentages.inc:344
+#: ../../percentages.inc:351
 #: ../../percentages.inc:356
-#: ../../percentages.inc:361
-#: ../../percentages.inc:368
+#: ../../percentages.inc:359
+#: ../../percentages.inc:364
 #: ../../percentages.inc:371
 #: ../../percentages.inc:374
-#: ../../percentages.inc:383
+#: ../../percentages.inc:377
 #: ../../percentages.inc:386
-#: ../../percentages.inc:391
-#: ../../percentages.inc:400
-#: ../../percentages.inc:405
-#: ../../percentages.inc:410
+#: ../../percentages.inc:389
+#: ../../percentages.inc:394
+#: ../../percentages.inc:403
+#: ../../percentages.inc:408
 #: ../../percentages.inc:413
-#: ../../percentages.inc:420
-#: ../../percentages.inc:427
+#: ../../percentages.inc:416
+#: ../../percentages.inc:423
 #: ../../percentages.inc:430
 #: ../../percentages.inc:433
-#: ../../percentages.inc:438
+#: ../../percentages.inc:436
 #: ../../percentages.inc:441
 #: ../../percentages.inc:444
 #: ../../percentages.inc:447
-#: ../../percentages.inc:454
+#: ../../percentages.inc:450
+#: ../../percentages.inc:457
 #: ../../progress.rst:20
 msgid "Tłumaczenie zakończone"
 msgstr ""
@@ -321,147 +322,147 @@ msgstr ""
 msgid "SCG_percent"
 msgstr ""
 
-#: ../../percentages.inc:192
+#: ../../percentages.inc:195
 msgid "3ED_percent"
 msgstr ""
 
-#: ../../percentages.inc:200
+#: ../../percentages.inc:203
 msgid "BOK_percent"
 msgstr ""
 
-#: ../../percentages.inc:202
+#: ../../percentages.inc:205
 msgid "HML_percent"
 msgstr ""
 
-#: ../../percentages.inc:225
+#: ../../percentages.inc:228
 msgid "STH_percent"
 msgstr ""
 
-#: ../../percentages.inc:227
+#: ../../percentages.inc:230
 msgid "UDS_percent"
 msgstr ""
 
-#: ../../percentages.inc:244
+#: ../../percentages.inc:247
 msgid "CSP_percent"
 msgstr ""
 
-#: ../../percentages.inc:273
+#: ../../percentages.inc:276
 msgid "LEB_percent"
 msgstr ""
 
-#: ../../percentages.inc:281
+#: ../../percentages.inc:284
 msgid "JUD_percent"
 msgstr ""
 
-#: ../../percentages.inc:286
+#: ../../percentages.inc:289
 msgid "PLS_percent"
 msgstr ""
 
-#: ../../percentages.inc:312
+#: ../../percentages.inc:315
 msgid "C14_percent"
 msgstr ""
 
-#: ../../percentages.inc:314
+#: ../../percentages.inc:317
 msgid "LEA_percent"
 msgstr ""
 
-#: ../../percentages.inc:322
+#: ../../percentages.inc:325
 msgid "LGN_percent"
 msgstr ""
 
-#: ../../percentages.inc:324
+#: ../../percentages.inc:327
 msgid "5ED_percent"
 msgstr ""
 
-#: ../../percentages.inc:344
+#: ../../percentages.inc:347
 msgid "FEM_percent"
 msgstr ""
 
-#: ../../percentages.inc:346
+#: ../../percentages.inc:349
 msgid "APC_percent"
 msgstr ""
 
-#: ../../percentages.inc:351
+#: ../../percentages.inc:354
 msgid "EVE_percent"
 msgstr ""
 
-#: ../../percentages.inc:359
+#: ../../percentages.inc:362
 msgid "MMQ_percent"
 msgstr ""
 
-#: ../../percentages.inc:364
+#: ../../percentages.inc:367
 msgid "VIS_percent"
 msgstr ""
 
-#: ../../percentages.inc:366
+#: ../../percentages.inc:369
 msgid "TMP_percent"
 msgstr ""
 
-#: ../../percentages.inc:377
+#: ../../percentages.inc:380
 msgid "FUT_percent"
 msgstr ""
 
-#: ../../percentages.inc:379
+#: ../../percentages.inc:382
 msgid "KHC_percent"
 msgstr ""
 
-#: ../../percentages.inc:381
+#: ../../percentages.inc:384
 msgid "ONS_percent"
 msgstr ""
 
-#: ../../percentages.inc:389
+#: ../../percentages.inc:392
 msgid "4ED_percent"
 msgstr ""
 
-#: ../../percentages.inc:394
+#: ../../percentages.inc:397
 msgid "VOC_percent"
 msgstr ""
 
-#: ../../percentages.inc:396
+#: ../../percentages.inc:399
 msgid "BRC_percent"
 msgstr ""
 
-#: ../../percentages.inc:398
+#: ../../percentages.inc:401
 msgid "C13_percent"
 msgstr ""
 
-#: ../../percentages.inc:403
+#: ../../percentages.inc:406
 msgid "RAV_percent"
 msgstr ""
 
-#: ../../percentages.inc:408
+#: ../../percentages.inc:411
 msgid "DRK_percent"
 msgstr ""
 
-#: ../../percentages.inc:416
+#: ../../percentages.inc:419
 msgid "ICE_percent"
 msgstr ""
 
-#: ../../percentages.inc:418
+#: ../../percentages.inc:421
 msgid "NEM_percent"
 msgstr ""
 
-#: ../../percentages.inc:423
+#: ../../percentages.inc:426
 msgid "ULG_percent"
 msgstr ""
 
-#: ../../percentages.inc:425
+#: ../../percentages.inc:428
 msgid "ODY_percent"
 msgstr ""
 
-#: ../../percentages.inc:436
+#: ../../percentages.inc:439
 msgid "HBG_percent"
 msgstr ""
 
-#: ../../percentages.inc:450
+#: ../../percentages.inc:453
 msgid "ARN_percent"
 msgstr ""
 
-#: ../../percentages.inc:452
+#: ../../percentages.inc:455
 msgid "PTK_percent"
 msgstr ""
 
-#: ../../percentages.inc:457
+#: ../../percentages.inc:460
 msgid "LEG_percent"
 msgstr ""
 
