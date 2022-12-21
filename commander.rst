@@ -9,6 +9,7 @@ Commander
 
 Poniżej znajduje się lista dodatków do formatu Commander oraz produkty pokrewne (np. :mtgexp:`BBD` :doc:`Battlebond<BBD>`):
 
+* :mtgexp:`SCD` :doc:`Starter Commander Decks<SCD>` |SCD_percent|
 * :mtgexp:`BRC` :doc:`Brother's War Commander<BRC>` |BRC_percent|
 * :mtgexp:`40K` :doc:`Warhammer 40,000 Commander<40K>` |40K_percent|
 * :mtgexp:`DMC` :doc:`Dominaria United Commander<DMC>` |DMC_percent|
