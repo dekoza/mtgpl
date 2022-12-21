@@ -112,6 +112,8 @@
 
 .. |NEC_percent| image:: images/pie75.png        
 
+.. |SCD_percent| image:: images/pie95.png        
+
 .. |MH1_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
@@ -380,6 +382,8 @@
 .. |FUT_percent| image:: images/pie70.png        
 
 .. |KHC_percent| image:: images/pie80.png        
+
+.. |ONE_percent| image:: images/pie05.png        
 
 .. |ONS_percent| image:: images/pie45.png        
 
