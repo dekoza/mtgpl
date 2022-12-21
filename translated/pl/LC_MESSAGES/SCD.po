@@ -1,237 +1,238 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2013-2022, Dominik Kozaczko
 # This file is distributed under the same license as the MTG po polsku package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-#, fuzzy
+# Weblate Admin <weblate-admin@kozaczko.info>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG po polsku 2022.12\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-12-21 10:32+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2022-12-21 09:55+0000\n"
+"Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
+"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/scd/pl/>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.14\n"
 
 #: ../../symbols.rst:3
 msgid "{C}"
-msgstr ""
+msgstr "{C}"
 
 #: ../../symbols.rst:5
 msgid "{T}"
-msgstr ""
+msgstr "{T}"
 
 #: ../../symbols.rst:7
 msgid "{Q}"
-msgstr ""
+msgstr "{Q}"
 
 #: ../../symbols.rst:9
 msgid "{U}"
-msgstr ""
+msgstr "{U}"
 
 #: ../../symbols.rst:11
 msgid "{W}"
-msgstr ""
+msgstr "{W}"
 
 #: ../../symbols.rst:13
 msgid "{B}"
-msgstr ""
+msgstr "{B}"
 
 #: ../../symbols.rst:15
 msgid "{G}"
-msgstr ""
+msgstr "{G}"
 
 #: ../../symbols.rst:17
 msgid "{R}"
-msgstr ""
+msgstr "{R}"
 
 #: ../../symbols.rst:19
 msgid "{2/U}"
-msgstr ""
+msgstr "{2/U}"
 
 #: ../../symbols.rst:21
 msgid "{2/W}"
-msgstr ""
+msgstr "{2/W}"
 
 #: ../../symbols.rst:23
 msgid "{2/B}"
-msgstr ""
+msgstr "{2/B}"
 
 #: ../../symbols.rst:25
 msgid "{2/G}"
-msgstr ""
+msgstr "{2/G}"
 
 #: ../../symbols.rst:27
 msgid "{2/R}"
-msgstr ""
+msgstr "{2/R}"
 
 #: ../../symbols.rst:29
 msgid "{U/P}"
-msgstr ""
+msgstr "{U/P}"
 
 #: ../../symbols.rst:31
 msgid "{W/P}"
-msgstr ""
+msgstr "{W/P}"
 
 #: ../../symbols.rst:33
 msgid "{B/P}"
-msgstr ""
+msgstr "{B/P}"
 
 #: ../../symbols.rst:35
 msgid "{G/P}"
-msgstr ""
+msgstr "{G/P}"
 
 #: ../../symbols.rst:37
 msgid "{R/P}"
-msgstr ""
+msgstr "{R/P}"
 
 #: ../../symbols.rst:39
 msgid "{X}"
-msgstr ""
+msgstr "{X}"
 
 #: ../../symbols.rst:41
 msgid "{P}"
-msgstr ""
+msgstr "{P}"
 
 #: ../../symbols.rst:43
 msgid "{0}"
-msgstr ""
+msgstr "{0}"
 
 #: ../../symbols.rst:45
 msgid "{1}"
-msgstr ""
+msgstr "{1}"
 
 #: ../../symbols.rst:47
 msgid "{2}"
-msgstr ""
+msgstr "{2}"
 
 #: ../../symbols.rst:49
 msgid "{3}"
-msgstr ""
+msgstr "{3}"
 
 #: ../../symbols.rst:51
 msgid "{4}"
-msgstr ""
+msgstr "{4}"
 
 #: ../../symbols.rst:53
 msgid "{5}"
-msgstr ""
+msgstr "{5}"
 
 #: ../../symbols.rst:55
 msgid "{6}"
-msgstr ""
+msgstr "{6}"
 
 #: ../../symbols.rst:57
 msgid "{7}"
-msgstr ""
+msgstr "{7}"
 
 #: ../../symbols.rst:59
 msgid "{8}"
-msgstr ""
+msgstr "{8}"
 
 #: ../../symbols.rst:61
 msgid "{9}"
-msgstr ""
+msgstr "{9}"
 
 #: ../../symbols.rst:63
 msgid "{10}"
-msgstr ""
+msgstr "{10}"
 
 #: ../../symbols.rst:65
 msgid "{11}"
-msgstr ""
+msgstr "{11}"
 
 #: ../../symbols.rst:67
 msgid "{12}"
-msgstr ""
+msgstr "{12}"
 
 #: ../../symbols.rst:69
 msgid "{13}"
-msgstr ""
+msgstr "{13}"
 
 #: ../../symbols.rst:71
 msgid "{14}"
-msgstr ""
+msgstr "{14}"
 
 #: ../../symbols.rst:73
 msgid "{15}"
-msgstr ""
+msgstr "{15}"
 
 #: ../../symbols.rst:75
 msgid "{16}"
-msgstr ""
+msgstr "{16}"
 
 #: ../../symbols.rst:77
 msgid "{20}"
-msgstr ""
+msgstr "{20}"
 
 #: ../../symbols.rst:79
 msgid "{(r/g)}"
-msgstr ""
+msgstr "{(r/g)}"
 
 #: ../../symbols.rst:81
 msgid "{(r/w)}"
-msgstr ""
+msgstr "{(r/w)}"
 
 #: ../../symbols.rst:83
 msgid "{(u/b)}"
-msgstr ""
+msgstr "{(u/b)}"
 
 #: ../../symbols.rst:85
 msgid "{(u/r)}"
-msgstr ""
+msgstr "{(u/r)}"
 
 #: ../../symbols.rst:87
 msgid "{(w/b)}"
-msgstr ""
+msgstr "{(w/b)}"
 
 #: ../../symbols.rst:89
 msgid "{(w/u)}"
-msgstr ""
+msgstr "{(w/u)}"
 
 #: ../../symbols.rst:91
 msgid "{(b/g)}"
-msgstr ""
+msgstr "{(b/g)}"
 
 #: ../../symbols.rst:93
 msgid "{(b/r)}"
-msgstr ""
+msgstr "{(b/r)}"
 
 #: ../../symbols.rst:95
 msgid "{(g/w)}"
-msgstr ""
+msgstr "{(g/w)}"
 
 #: ../../symbols.rst:97
 msgid "{(g/u)}"
-msgstr ""
+msgstr "{(g/u)}"
 
 #: ../../symbols.rst:99
 msgid "{(g/u/p)}"
-msgstr ""
+msgstr "{(g/u/p)}"
 
 #: ../../symbols.rst:101
 msgid "{(g/w/p)}"
-msgstr ""
+msgstr "{(g/w/p)}"
 
 #: ../../symbols.rst:103
 msgid "{S}"
-msgstr ""
+msgstr "{S}"
 
 #: ../../symbols.rst:105
 msgid "{E}"
-msgstr ""
+msgstr "{E}"
 
 #: ../../symbols.rst:107
 msgid "{CHAOS}"
-msgstr ""
+msgstr "{CHAOS}"
 
 #: ../../symbols.rst:109
 msgid "{PW}"
-msgstr ""
+msgstr "{PW}"
 
 #: ../../SCD.rst:5
 msgid ":mtgexp:`SCD` Starter Commander Decks"
@@ -246,13 +247,15 @@ msgstr ""
 
 #: ../../SCD.rst:9
 msgid "Flying, trample"
-msgstr ""
+msgstr "Latanie, tratowanie"
 
 #: ../../SCD.rst:11
 msgid ""
 "Whenever a Dragon you control attacks, it gains double strike until end of "
 "turn."
 msgstr ""
+"Ilekroć Smok pod twoim władaniem zaatakuje, zyskuje on do końca tury "
+"podwójny cios."
 
 #: ../../SCD.rst:16
 msgid ""
@@ -266,6 +269,8 @@ msgid ""
 "Whenever Emmara, Soul of the Accord becomes tapped, create a 1/1 white "
 "Soldier creature token with lifelink."
 msgstr ""
+"Ilekroć ten stwór zostanie przekręcony, stwórz żeton białego stwora Piechur "
+"1/1 z więzią życia."
 
 #: ../../SCD.rst:22
 msgid ""
@@ -276,13 +281,15 @@ msgstr ""
 
 #: ../../SCD.rst:19
 msgid "When Gisa and Geralf enters the battlefield, mill four cards."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zmiel cztery karty."
 
 #: ../../SCD.rst:21
 msgid ""
 "During each of your turns, you may cast a Zombie creature spell from your "
 "graveyard."
 msgstr ""
+"W każdej z twoich tur możesz rzucić jeden czar stwora typu Zombi z twojego "
+"cmentarza."
 
 #: ../../SCD.rst:28
 msgid ""
@@ -305,13 +312,15 @@ msgstr ""
 #: ../../SCD.rst:1263 ../../SCD.rst:1313 ../../SCD.rst:1329 ../../SCD.rst:1379
 #: ../../SCD.rst:1495 ../../SCD.rst:1511 ../../SCD.rst:1531
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 #: ../../SCD.rst:27
 msgid ""
 "Whenever a creature attacks you or a planeswalker you control, you may draw "
 "a card."
 msgstr ""
+"Ilekroć stwór zaatakuje ciebie lub wędrowca pod twoim władaniem, możesz "
+"dobrać kartę."
 
 #: ../../SCD.rst:34
 msgid ""
@@ -326,12 +335,17 @@ msgid ""
 "creatures your opponents control attack each combat if able and attack a "
 "player other than you if able."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, do twojej następnej tury stwory pod "
+"władaniem twoich przeciwników atakują w każdej bitwie jeśli mogą i atakują "
+"gracza innego niż ty jeśli to możliwe."
 
 #: ../../SCD.rst:33
 msgid ""
 "Whenever an attacking creature dies, each opponent loses 1 life and you gain "
 "1 life."
 msgstr ""
+"Ilekroć umrze atakujący stwór, każdy przeciwnik traci po 1 życiu, a ty "
+"zyskaj 1 życie."
 
 #: ../../SCD.rst:42
 msgid ""
@@ -342,15 +356,16 @@ msgstr ""
 
 #: ../../SCD.rst:37
 msgid "+1: Put a +1/+1 counter on up to one target creature."
-msgstr ""
+msgstr "+1: Umieść znacznik +1/+1 na co najwyżej jednym wskazanym stworze."
 
 #: ../../SCD.rst:39
 msgid "−3: Target creature gains flying and double strike until end of turn."
-msgstr ""
+msgstr "–3: Wskazany stwór do końca tury zyskuje latanie oraz podwójny cios."
 
 #: ../../SCD.rst:41
 msgid "−8: Create X 2/2 white Cat creature tokens, where X is your life total."
 msgstr ""
+"–8: Stwórz X żetonów białego stwora Kot 2/2, gdzie X jest liczbą twoich żyć."
 
 #: ../../SCD.rst:48
 msgid ""
@@ -365,6 +380,8 @@ msgid ""
 "battlefield under your control, you may gain life equal to that creature's "
 "power."
 msgstr ""
+"Ilekroć ten lub inny stwór mający latanie wejdzie na pole bitwy pod twoim "
+"władaniem, możesz zyskać życia równe sile owego stwora."
 
 #: ../../SCD.rst:54
 msgid ""
@@ -378,6 +395,8 @@ msgid ""
 "When Aven Gagglemaster enters the battlefield, you gain 2 life for each "
 "creature you control with flying."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, zyskaj po 2 życia za każdego stwora pod "
+"twoim władaniem mającego latanie."
 
 #: ../../SCD.rst:58
 msgid ""
@@ -391,6 +410,8 @@ msgid ""
 "When Banishing Light enters the battlefield, exile target nonland permanent "
 "an opponent controls until Banishing Light leaves the battlefield."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, wygnaj wskazany nie-lądowy byt pod "
+"władaniem przeciwnika dopóki niniejszy urok nie opuści pola bitwy."
 
 #: ../../SCD.rst:64
 msgid ""
@@ -406,6 +427,10 @@ msgid ""
 "your library for a Plains card, put it onto the battlefield tapped, then "
 "shuffle."
 msgstr ""
+"Kiedy ten stwór zada obrażenia bojowe graczowi mającemu we władaniu więcej "
+"lądów niż ty, przywróć go do ręki właściciela. Jeśli tak zrobisz, możesz "
+"wyszukać w twojej bibliotece kartę Równiny, umieścić ją przekręconą na polu "
+"bitwy, po czym przetasować."
 
 #: ../../SCD.rst:68
 msgid ""
@@ -416,7 +441,7 @@ msgstr ""
 
 #: ../../SCD.rst:67
 msgid "Destroy all creatures with toughness 4 or greater."
-msgstr ""
+msgstr "Zniszcz wszystkie stwory z wytrzymałością 4 lub większą."
 
 #: ../../SCD.rst:76
 msgid ""
@@ -427,15 +452,15 @@ msgstr ""
 
 #: ../../SCD.rst:71 ../../SCD.rst:659 ../../SCD.rst:1121 ../../SCD.rst:1303
 msgid "Choose one —"
-msgstr ""
+msgstr "Wybierz jedno —"
 
 #: ../../SCD.rst:73
 msgid "Destroy all creatures."
-msgstr ""
+msgstr "Zniszcz wszystkie stwory."
 
 #: ../../SCD.rst:75
 msgid "Destroy all artifacts and enchantments."
-msgstr ""
+msgstr "Zniszcz wszystkie artefakty i uroki."
 
 #: ../../SCD.rst:80
 msgid ""
@@ -449,6 +474,8 @@ msgid ""
 "Creatures you control get +1/+1 for each time you've cast your commander "
 "from the command zone this game."
 msgstr ""
+"Stwory pod twoim władaniem dostają +1/+1 za każdorazowe rzucenie przez "
+"ciebie twojego dowódcy ze strefy dowodzenia w tej grze."
 
 #: ../../SCD.rst:86
 msgid ""
@@ -464,6 +491,9 @@ msgid ""
 "while casting this spell pays for |mana_1| or one mana of that creature's "
 "color.)"
 msgstr ""
+"Współpraca (Twoje stwory mogą pomóc rzucić ten czar. Każdy stwór, którego "
+"przekręcisz podczas rzucania tego czaru płaci za |mana_1| lub jedną manę w "
+"swoim kolorze.)"
 
 #: ../../SCD.rst:85
 msgid ""
@@ -471,6 +501,8 @@ msgid ""
 "permanent an opponent controls until Conclave Tribunal leaves the "
 "battlefield."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, wygnaj wskazany nie-lądowy byt dopóki "
+"ten urok nie opuści pola bitwy."
 
 #: ../../SCD.rst:90
 msgid ""
@@ -484,6 +516,8 @@ msgid ""
 "Put target attacking creature on the bottom of its owner's library. Its "
 "controller gains life equal to its toughness."
 msgstr ""
+"Umieść wskazanego atakującego stwora na spodzie biblioteki właściciela. Jego "
+"władca zyskuje tyle żyć, ile miał wytrzymałości."
 
 #: ../../SCD.rst:98
 msgid ""
@@ -494,15 +528,15 @@ msgstr ""
 
 #: ../../SCD.rst:93
 msgid "Choose one or both —"
-msgstr ""
+msgstr "Wybierz jedną lub obie —"
 
 #: ../../SCD.rst:95
 msgid "Exile target artifact."
-msgstr ""
+msgstr "Wygnaj wskazany artefakt."
 
 #: ../../SCD.rst:97
 msgid "Exile target enchantment."
-msgstr ""
+msgstr "Wygnaj wskazany urok."
 
 #: ../../SCD.rst:104
 msgid ""
@@ -514,11 +548,14 @@ msgstr ""
 #: ../../SCD.rst:101
 msgid "Whenever you gain life, you may pay |mana_2|. If you do, draw a card."
 msgstr ""
+"Ilekroć zyskasz życia, możesz zapłacić |mana_2|. Jeśli tak zrobisz, dobierz "
+"kartę."
 
 #: ../../SCD.rst:103
 msgid ""
 "|mana_3|\\ |mana_w|: Create a 1/1 white Soldier creature token with lifelink."
 msgstr ""
+"|mana_3|\\ |mana_w|: Stwórz żeton białego stwora Piechur 1/1 z więzią życia."
 
 #: ../../SCD.rst:110
 msgid ""
@@ -529,7 +566,7 @@ msgstr ""
 
 #: ../../SCD.rst:109
 msgid "Exile target attacking or blocking creature."
-msgstr ""
+msgstr "Wygnaj wskazanego atakującego lub blokującego stwora."
 
 #: ../../SCD.rst:116
 msgid ""
@@ -540,11 +577,11 @@ msgstr ""
 
 #: ../../SCD.rst:113 ../../SCD.rst:477 ../../SCD.rst:711
 msgid "Flash"
-msgstr ""
+msgstr "Błysk"
 
 #: ../../SCD.rst:115
 msgid "Creatures you control get +2/+2."
-msgstr ""
+msgstr "Stwory pod twoim władaniem dostają +2/+2."
 
 #: ../../SCD.rst:120
 msgid ""
@@ -555,7 +592,7 @@ msgstr ""
 
 #: ../../SCD.rst:119
 msgid "Destroy target artifact or enchantment."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub urok."
 
 #: ../../SCD.rst:126
 msgid ""
@@ -569,6 +606,8 @@ msgid ""
 "Landfall — Whenever a land enters the battlefield under your control, you "
 "may create a 1/1 white Bird creature token with flying."
 msgstr ""
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, możesz "
+"stworzyć żeton białego stwora Ptak 1/1 z lataniem."
 
 #: ../../SCD.rst:134
 msgid ""
@@ -582,16 +621,20 @@ msgid ""
 "Landfall — Whenever a land enters the battlefield under your control, choose "
 "one —"
 msgstr ""
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, wybierz "
+"jedną —"
 
 #: ../../SCD.rst:131
 msgid "Create a 2/2 white Cat Beast creature token."
-msgstr ""
+msgstr "Stwórz żeton białego stwora Kot Bestia 2/2."
 
 #: ../../SCD.rst:133
 msgid ""
 "Put a +1/+1 counter on each creature you control. Those creatures gain "
 "vigilance until end of turn."
 msgstr ""
+"Umieść znacznik +1/+1 na każdym stworze pod twoim władaniem. Owe stwory "
+"zyskują do końca tury czujność."
 
 #: ../../SCD.rst:138
 msgid ""
@@ -605,6 +648,7 @@ msgid ""
 "Destroy target permanent. Its controller creates a 3/3 green Elephant "
 "creature token."
 msgstr ""
+"Zniszcz wskazany byt. Jego władca tworzy żeton zielonego stwora Słoń 3/3."
 
 #: ../../SCD.rst:146
 msgid ""
@@ -618,10 +662,12 @@ msgid ""
 "+2: During target opponent's next turn, creatures that player controls "
 "attack Gideon Jura if able."
 msgstr ""
+"+2: Podczas najbliższej tury wskazanego przeciwnika, stwory pod władaniem "
+"owego gracza atakują niniejszego wędrowca jeśli mogą."
 
 #: ../../SCD.rst:143
 msgid "−2: Destroy target tapped creature."
-msgstr ""
+msgstr "–2: Zniszcz wskazanego przekręconego stwora."
 
 #: ../../SCD.rst:145
 msgid ""
@@ -629,6 +675,9 @@ msgid ""
 "that's still a planeswalker. Prevent all damage that would be dealt to him "
 "this turn."
 msgstr ""
+"0: Do końca tury ten wędrowiec staje się stworem Człowiek Piechur 6/6 nadal "
+"pozostając wędrowcem. Zażegnaj wszystkie obrażenia, jakie mogłyby mu zostać "
+"zadane w tej turze."
 
 #: ../../SCD.rst:154
 msgid ""
@@ -642,10 +691,12 @@ msgid ""
 "When Hanged Executioner enters the battlefield, create a 1/1 white Spirit "
 "creature token with flying."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton białego stwora Duch 1/1 z "
+"lataniem."
 
 #: ../../SCD.rst:153
 msgid "|mana_3|\\ |mana_w|, Exile Hanged Executioner: Exile target creature."
-msgstr ""
+msgstr "|mana_3|\\ |mana_w|, wygnaj tego stwora: Wygnaj wskazanego stwora."
 
 #: ../../SCD.rst:160
 msgid ""
@@ -656,7 +707,7 @@ msgstr ""
 
 #: ../../SCD.rst:159
 msgid "Destroy all nontoken creatures."
-msgstr ""
+msgstr "Zniszcz wszystkie nieżetonowe stwory."
 
 #: ../../SCD.rst:168
 msgid ""
@@ -691,6 +742,8 @@ msgid ""
 "Whenever another creature with power 2 or less enters the battlefield under "
 "your control, you may pay |mana_1|. If you do, draw a card."
 msgstr ""
+"Ilekroć inny stwór o sile 2 lub mniejszej wejdzie na pole bitwy pod twoim "
+"władaniem, możesz zapłacić |mana_1|. Jeśli tak zrobisz, dobierz kartę."
 
 #: ../../SCD.rst:176
 msgid ""
@@ -704,6 +757,9 @@ msgid ""
 "Exile target creature. Its controller may search their library for a basic "
 "land card, put that card onto the battlefield tapped, then shuffle."
 msgstr ""
+"Wygnaj wskazanego stwora. Jego władca możesz wyszukać w swojej bibliotece "
+"kartę bazowego lądu, umieścić ją przekręconą na polu bitwy, po czym "
+"przetasować."
 
 #: ../../SCD.rst:180
 msgid ""
@@ -717,6 +773,8 @@ msgid ""
 "Untap all creatures you control. Creatures you control with flying get +2/+2 "
 "until end of turn."
 msgstr ""
+"Odkręć wszystkie stwory pod twoim władaniem. Stwory z lataniem pod twoim "
+"władaniem dostają do końca tury +2/+2."
 
 #: ../../SCD.rst:186
 msgid ""
@@ -727,7 +785,7 @@ msgstr ""
 
 #: ../../SCD.rst:185
 msgid "Sacrifice Remorseful Cleric: Exile target player's graveyard."
-msgstr ""
+msgstr "Poświęć tego stwora: Wygnaj cmentarz wskazanego gracza."
 
 #: ../../SCD.rst:190
 msgid ""
@@ -741,6 +799,8 @@ msgid ""
 "Populate. Creatures you control gain indestructible until end of turn. (To "
 "populate, create a token that's a copy of a creature token you control.)"
 msgstr ""
+"Zaludnij. Stwory pod twoim władaniem zyskują do końca tury niezniszczalność. "
+"(By zaludnić, stwórz żeton będący kopią żetonu stwora pod twoim władaniem.)"
 
 #: ../../SCD.rst:198
 msgid ""
@@ -754,16 +814,20 @@ msgid ""
 "You may pay |mana_w| and tap four untapped creatures you control with flying "
 "rather than pay this spell's mana cost."
 msgstr ""
+"Zamiast płacenia kosztu many tego czaru możesz zapłacić |mana_w| oraz "
+"przekręcić cztery odkręcone stwory z lataniem pod twoim władaniem."
 
 #: ../../SCD.rst:195
 msgid "Flying, lifelink"
-msgstr ""
+msgstr "Latanie, więź życia"
 
 #: ../../SCD.rst:197
 msgid ""
 "Other creatures you control with flying have indestructible. (Damage and "
 "effects that say \"destroy\" don't destroy them.)"
 msgstr ""
+"Inne stwory z lataniem pod twoim władaniem mają niezniszczalność. (Obrażenia "
+"i efekty mówiące \"zniszcz\" nie niszczą ich.)"
 
 #: ../../SCD.rst:202
 msgid ""
@@ -777,6 +841,8 @@ msgid ""
 "|mana_w|, Sacrifice Soul Snare: Exile target creature that's attacking you "
 "or a planeswalker you control."
 msgstr ""
+"|mana_w|, poświęć ten urok: Wygnaj wskazanego stwora atakującego ciebie lub "
+"wędrowca pod twoim władaniem."
 
 #: ../../SCD.rst:208
 msgid ""
@@ -790,6 +856,8 @@ msgid ""
 "Whenever Steel-Plume Marshal attacks, other attacking creatures you control "
 "with flying get +2/+2 until end of turn."
 msgstr ""
+"Ilekroć ten stwór atakuje, inne atakujące stwory pod twoim władaniem mające "
+"latanie dostają do końca tury +2/+2."
 
 #: ../../SCD.rst:212
 msgid ""
@@ -803,6 +871,8 @@ msgid ""
 "Create X 1/1 white Pegasus creature tokens with flying, where X is your life "
 "total."
 msgstr ""
+"Stwórz X żetonów białego stwora Pegaz 1/1 z lataniem, gdzie X jest liczbą "
+"twoich żyć."
 
 #: ../../SCD.rst:216
 msgid ""
@@ -813,7 +883,7 @@ msgstr ""
 
 #: ../../SCD.rst:215
 msgid "Exile target creature. Its controller gains life equal to its power."
-msgstr ""
+msgstr "Wygnaj wskazanego stwora. Jego władca zyskuje życia równe jego sile."
 
 #: ../../SCD.rst:220
 msgid ""
@@ -824,7 +894,7 @@ msgstr ""
 
 #: ../../SCD.rst:219
 msgid "Creatures you control have double strike and lifelink."
-msgstr ""
+msgstr "Stwory pod twoim władaniem mają podwójny cios i wieź życia."
 
 #: ../../SCD.rst:224
 msgid ""
@@ -838,6 +908,8 @@ msgid ""
 "Whenever a creature enters the battlefield under your control, creatures you "
 "control get +1/+1 until end of turn."
 msgstr ""
+"Ilekroć stwór wejdzie na pole bitwy pod twoim władaniem, stwory pod twoim "
+"władaniem dostają do końca tury +1/+1."
 
 #: ../../SCD.rst:230
 msgid ""
@@ -848,13 +920,15 @@ msgstr ""
 
 #: ../../SCD.rst:227 ../../SCD.rst:1067 ../../SCD.rst:1107 ../../SCD.rst:1347
 msgid "Enchant creature"
-msgstr ""
+msgstr "Zaurocz stwora"
 
 #: ../../SCD.rst:229
 msgid ""
 "Enchanted creature gets +2/+2, has vigilance, and can't attack you or "
 "planeswalkers you control."
 msgstr ""
+"Zauroczony stwór dostaje +2/+2, ma czujność i nie może atakować ciebie lub "
+"wędrowców pod twoim władaniem."
 
 #: ../../SCD.rst:234
 msgid ""
@@ -868,6 +942,8 @@ msgid ""
 "Create X 2/2 white Cat creature tokens. Shuffle White Sun's Zenith into its "
 "owner's library."
 msgstr ""
+"Stwórz X żetonów białego stwora Kot 2/2. Wtasuj ten czar do biblioteki "
+"właściciela."
 
 #: ../../SCD.rst:238
 msgid ""
@@ -878,7 +954,7 @@ msgstr ""
 
 #: ../../SCD.rst:237
 msgid "Return all attacking creatures to their owner's hand."
-msgstr ""
+msgstr "Zwróć wszystkie atakujące stwory do rąk ich właścicieli."
 
 #: ../../SCD.rst:244
 msgid ""
@@ -889,11 +965,13 @@ msgstr ""
 
 #: ../../SCD.rst:241
 msgid "Hexproof"
-msgstr ""
+msgstr "Antyklątwa"
 
 #: ../../SCD.rst:243
 msgid "Creatures your opponents control attack each combat if able."
 msgstr ""
+"Stwory pod władaniem twoich przeciwników atakują w każdej potyczce jeśli "
+"mogą."
 
 #: ../../SCD.rst:250
 msgid ""
@@ -907,12 +985,16 @@ msgid ""
 "Whenever a creature you control deals combat damage to a player, you may "
 "draw a card."
 msgstr ""
+"Ilekroć stwór pod twoim władaniem zada graczowi obrażenia bojowe, możesz "
+"dobrać kartę."
 
 #: ../../SCD.rst:249
 msgid ""
 "|mana_1|\\ |mana_u|, |tap|: Creatures your opponents control attack this "
 "turn if able."
 msgstr ""
+"|mana_1|\\ |mana_u|, |tap|: Stwory pod władaniem twoich przeciwników atakują "
+"w tej turze, jeśli mogą."
 
 #: ../../SCD.rst:254
 msgid ""
@@ -923,7 +1005,7 @@ msgstr ""
 
 #: ../../SCD.rst:253 ../../SCD.rst:333
 msgid "Counter target spell."
-msgstr ""
+msgstr "Skontruj wskazany czar."
 
 #: ../../SCD.rst:260
 msgid ""
@@ -934,13 +1016,15 @@ msgstr ""
 
 #: ../../SCD.rst:257
 msgid "Target player draws two cards."
-msgstr ""
+msgstr "Wskazany gracz dobiera dwie karty."
 
 #: ../../SCD.rst:259
 msgid ""
 "Flashback—|mana_1|\\ |mana_u|, Pay 3 life. (You may cast this card from your "
 "graveyard for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie—|mana_1|\\ |mana_u|, zapłać 3 życia. (Możesz rzucić tę kartę z "
+"cmentarza za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../SCD.rst:266
 msgid ""
@@ -956,6 +1040,10 @@ msgid ""
 "without paying its mana cost. If a spell cast this way would be put into a "
 "graveyard, exile it instead."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, za każdego przeciwnika możesz rzucić co "
+"najwyżej jedną kartę sztuczki lub obrzędu z cmentarza owego gracza bez "
+"płacenia jej kosztu many. Jeśli czar rzucony w ten sposób miałby trafić do "
+"cmentarza, zamiast tego wygnaj go."
 
 #: ../../SCD.rst:270
 msgid ""
@@ -969,6 +1057,8 @@ msgid ""
 "Choose a creature type. Draw a card for each permanent you control of that "
 "type."
 msgstr ""
+"Wybierz typ stwora. Dobierz kartę za każdy byt pod twoim władaniem mający ów "
+"typ."
 
 #: ../../SCD.rst:276
 msgid ""
@@ -983,10 +1073,13 @@ msgid ""
 "counters on an Army you control. If you don't control one, create a 0/0 "
 "black Zombie Army creature token first.)"
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, zgromadź 2. (Umieść dwa znaczniki +1/+1 "
+"na Armii pod twoim władaniem. Jeśli żadną nie władasz, stwórz najpierw żeton "
+"czarnego stwora Armia Zombi 0/0.)"
 
 #: ../../SCD.rst:275
 msgid "Zombie tokens you control have flying."
-msgstr ""
+msgstr "Żetony Zombi pod twoim władaniem mają latanie."
 
 #: ../../SCD.rst:280
 msgid ""
@@ -1000,6 +1093,8 @@ msgid ""
 "Whenever an opponent attacks, if they attacked you and/or a planeswalker you "
 "control, draw a card."
 msgstr ""
+"Ilekroć przeciwnik atauje, jeśli atakuje ciebie lub wędrowca pod twoim "
+"władaniem, dobierz kartę."
 
 #: ../../SCD.rst:286
 msgid ""
@@ -1013,6 +1108,8 @@ msgid ""
 "|mana_3|\\ |mana_u|: Create a 1/1 blue Faerie creature token with flying. "
 "Draw a card."
 msgstr ""
+"|mana_3|\\ |mana_u|: Stwórz żeton niebieskiego stwora Wróżka 1/1 z lataniem. "
+"Dobierz kartę."
 
 #: ../../SCD.rst:290
 msgid ""
@@ -1023,7 +1120,7 @@ msgstr ""
 
 #: ../../SCD.rst:289
 msgid "Creatures you control with flying get +1/+1."
-msgstr ""
+msgstr "Stwory pod twoim władaniem mające latanie dostają +1/+1."
 
 #: ../../SCD.rst:296
 msgid ""
@@ -1036,13 +1133,15 @@ msgstr ""
 msgid ""
 "When Geralf's Mindcrusher enters the battlefield, target player mills five "
 "cards."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wskazany gracz mieli pięć kart."
 
 #: ../../SCD.rst:295
 msgid ""
 "Undying (When this creature dies, if it had no +1/+1 counters on it, return "
 "it to the battlefield under its owner's control with a +1/+1 counter on it.)"
 msgstr ""
+"Bezśmierć (Kiedy ten stwór umrze, jeśli nie miał znaczników +1/+1, przywróć "
+"go na pole bitwy ze znacznikiem +1/+1 pod władaniem właściciela.)"
 
 #: ../../SCD.rst:302
 msgid ""
@@ -1053,11 +1152,11 @@ msgstr ""
 
 #: ../../SCD.rst:299
 msgid "Creatures with flying get +2/+0."
-msgstr ""
+msgstr "Stwory z lataniem dostają +2/+0."
 
 #: ../../SCD.rst:301
 msgid "Creatures without flying get -2/-0."
-msgstr ""
+msgstr "Stwory bez latania dostają -2/-0."
 
 #: ../../SCD.rst:310
 msgid ""
@@ -1071,12 +1170,16 @@ msgid ""
 "When Inspired Sphinx enters the battlefield, draw cards equal to the number "
 "of opponents you have."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, dobierz tyle kart, ilu masz "
+"przeciwników."
 
 #: ../../SCD.rst:309
 msgid ""
 "|mana_3|\\ |mana_u|: Create a 1/1 colorless Thopter artifact creature token "
 "with flying."
 msgstr ""
+"|mana_3|\\ |mana_u|: Stwórz żeton bezkolorowego artefaktowego stwora Kopter "
+"1/1 z lataniem."
 
 #: ../../SCD.rst:314
 msgid ""
@@ -1103,12 +1206,17 @@ msgid ""
 "Amass 1. (Put a +1/+1 counter on an Army you control. If you don't control "
 "one, create a 0/0 black Zombie Army creature token first.)"
 msgstr ""
+"Zgromadź 1. (Umieść znacznik +1/+1 na Armii pod twoim władaniem. Jeśli żadną "
+"nie władasz, stwórz najpierw żeton czarnego stwora Armia Zombi 0/0.)"
 
 #: ../../SCD.rst:319
 msgid ""
 "You and permanents you control gain hexproof until end of turn. (You and "
 "they can't be the targets of spells or abilities your opponents control.)"
 msgstr ""
+"Ty oraz byty pod twoim władaniem zyskujecie antyklątwę do końca tury. (Ty "
+"ani one nie możecie być wskazywane przez czary i zdolności pod władaniem "
+"twoich przeciwników.)"
 
 #: ../../SCD.rst:324
 msgid ""
@@ -1119,7 +1227,7 @@ msgstr ""
 
 #: ../../SCD.rst:323
 msgid "Counter target noncreature spell."
-msgstr ""
+msgstr "Skontruj wskazany nie-stworowy czar."
 
 #: ../../SCD.rst:330
 msgid ""
@@ -1133,6 +1241,9 @@ msgid ""
 "Whenever an artifact creature you control deals combat damage to a player, "
 "you may create a 1/1 blue Thopter artifact creature token with flying."
 msgstr ""
+"Ilekroć artefaktowy stwór pod twoim władaniem zada graczowi obrażenia "
+"bojowe, możesz stworzyć żeton niebieskiego artefaktowego stwora Kopter 1/1 z "
+"lataniem."
 
 #: ../../SCD.rst:336
 msgid ""
@@ -1146,6 +1257,8 @@ msgid ""
 "Surveil 1. (Look at the top card of your library. You may put that card into "
 "your graveyard.)"
 msgstr ""
+"Szpieguj 1. (Spójrz na wierzchnią kartę twojej biblioteki. Możesz umieścić "
+"ową kartę w twoim cmentarzu.)"
 
 #: ../../SCD.rst:342
 msgid ""
@@ -1159,6 +1272,8 @@ msgid ""
 "When Sphinx of Enlightenment enters the battlefield, target opponent draws a "
 "card and you draw three cards."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, wskazany przeciwnik dobiera kartę, a ty "
+"dobierz trzy karty."
 
 #: ../../SCD.rst:348
 msgid ""
@@ -1171,6 +1286,7 @@ msgstr ""
 msgid ""
 "Whenever you attack with two or more creatures with flying, draw a card."
 msgstr ""
+"Ilekroć atakujesz co najmniej dwoma stworami mającymi latanie, dobierz kartę."
 
 #: ../../SCD.rst:354
 msgid ""
@@ -1181,7 +1297,7 @@ msgstr ""
 
 #: ../../SCD.rst:353
 msgid "Creature spells with flying you cast cost |mana_1| less to cast."
-msgstr ""
+msgstr "Rzucanie czarów stworów mających latanie kosztuje cię o |mana_1| mniej."
 
 #: ../../SCD.rst:360
 msgid ""
@@ -1192,7 +1308,7 @@ msgstr ""
 
 #: ../../SCD.rst:359
 msgid "Whenever a creature with flying attacks, you may draw a card."
-msgstr ""
+msgstr "Ilekroć stwór z lataniem zaatakuje, możesz dobrać kartę."
 
 #: ../../SCD.rst:366
 msgid ""
@@ -1205,10 +1321,12 @@ msgstr ""
 msgid ""
 "This spell costs |mana_1| less to cast if you control a creature with flying."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_1| mniej jeśli władasz stworem z "
+"lataniem."
 
 #: ../../SCD.rst:365
 msgid "Draw two cards."
-msgstr ""
+msgstr "Dobierz dwie karty."
 
 #: ../../SCD.rst:370
 msgid ""
@@ -1219,7 +1337,7 @@ msgstr ""
 
 #: ../../SCD.rst:369
 msgid "You draw three cards and you lose 3 life."
-msgstr ""
+msgstr "Dobierz trzy karty i strać 3 życia."
 
 #: ../../SCD.rst:376
 msgid ""
@@ -1233,6 +1351,8 @@ msgid ""
 "At the beginning of each opponent's end step, that player chooses up to two "
 "creatures they control, then sacrifices the rest."
 msgstr ""
+"Na początku kroku końcowego każdego z przeciwników, ów gracz wybiera co "
+"najwyżej dwa stwory pod swoim władaniem, po czym poświęca pozostałe."
 
 #: ../../SCD.rst:382
 msgid ""
@@ -1243,13 +1363,15 @@ msgstr ""
 
 #: ../../SCD.rst:379
 msgid "Create thirteen tapped 2/2 black Zombie creature tokens."
-msgstr ""
+msgstr "Stwórz trzynaście przekręconych żetonów czarnego stwora Zombi 2/2."
 
 #: ../../SCD.rst:381
 msgid ""
 "Flashback |mana_7|\\ |mana_b|\\ |mana_b|\\ |mana_b| (You may cast this card "
 "from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_7|\\ |mana_b|\\ |mana_b|\\ |mana_b| (Możesz rzucić tę "
+"kartę z twojego cmentarza za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../SCD.rst:388
 msgid ""
@@ -1262,6 +1384,8 @@ msgstr ""
 msgid ""
 "At the beginning of your upkeep, target player draws a card and loses 1 life."
 msgstr ""
+"Na początku twojego kroku utrzymania, wskazany gracz dobiera kartę i traci 1 "
+"życie."
 
 #: ../../SCD.rst:394
 msgid ""
@@ -1272,13 +1396,15 @@ msgstr ""
 
 #: ../../SCD.rst:391 ../../SCD.rst:1217
 msgid "Other Zombie creatures you control get +1/+1."
-msgstr ""
+msgstr "Inne Zombi pod twoim władaniem dostają +1/+1."
 
 #: ../../SCD.rst:393
 msgid ""
 "|mana_2|\\ |mana_b|, |tap|: Exile target creature card from a graveyard. "
 "Create a 2/2 black Zombie creature token."
 msgstr ""
+"|mana_2|\\ |mana_b|, |tap|: Wygnaj wskazaną kartę stwora z cmentarza. Stwórz "
+"żeton czarnego stwora Zombi 2/2."
 
 #: ../../SCD.rst:398
 msgid ""
@@ -1292,6 +1418,8 @@ msgid ""
 "Whenever another Zombie enters the battlefield under your control, put a +1/"
 "+1 counter on Champion of the Perished."
 msgstr ""
+"Ilekroć inny Zombi wejdzie na pole bitwy pod twoim władaniem, umieść "
+"znacznik +1/+1 na niniejszym stworze."
 
 #: ../../SCD.rst:402
 msgid ""
@@ -1305,6 +1433,8 @@ msgid ""
 "Choose a creature type. Creatures that aren't of the chosen type get -3/-3 "
 "until end of turn."
 msgstr ""
+"Wybierz typ stwora. Stwory nie będące wybranego typu dostają do końca tury "
+"-3/-3."
 
 #: ../../SCD.rst:406
 msgid ""
@@ -1318,6 +1448,9 @@ msgid ""
 "Destroy target non-Zombie creature. It can't be regenerated. Return up to "
 "one target Zombie card from your graveyard to your hand."
 msgstr ""
+"Zniszcz wskazanego stwora bez typu Zombi. Nie może być zregenerowany. "
+"Przywróć co najwyżej jedną wskazaną kartę Zombi z twojego cmentarza do "
+"twojej ręki."
 
 #: ../../SCD.rst:412
 msgid ""
@@ -1328,13 +1461,15 @@ msgstr ""
 
 #: ../../SCD.rst:409 ../../SCD.rst:971
 msgid "Enchant player"
-msgstr ""
+msgstr "Zaurocz gracza"
 
 #: ../../SCD.rst:411
 msgid ""
 "Whenever enchanted player is attacked, create a 2/2 black Zombie creature "
 "token. Each opponent attacking that player does the same."
 msgstr ""
+"Ilekroć zauroczony gracz jest zaatakowany, stwórz żeton czarnego stwora "
+"Zombi 2/2. Każdy przeciwnik atakujący owego gracza robi to samo."
 
 #: ../../SCD.rst:416
 msgid ""
@@ -1348,6 +1483,8 @@ msgid ""
 "Destroy all creatures. Each player loses life equal to the number of "
 "creatures they controlled that were destroyed this way."
 msgstr ""
+"Zniszcz wszystkie stwory. Każdy gracz traci życia równe liczbie stworów pod "
+"swoim władaniem zniszczonych w ten sposób."
 
 #: ../../SCD.rst:420
 msgid ""
@@ -1361,6 +1498,8 @@ msgid ""
 "Each opponent chooses a creature card in their graveyard. Put those cards "
 "onto the battlefield under your control."
 msgstr ""
+"Każdy przeciwnik wybiera kartę stwora w swoim cmentarza. Umieść owe karty na "
+"polu bitwy pod twoim władaniem."
 
 #: ../../SCD.rst:424
 msgid ""
@@ -1374,6 +1513,8 @@ msgid ""
 "Destroy target creature or enchantment an opponent controls. You lose life "
 "equal to that permanent's mana value."
 msgstr ""
+"Zniszcz wskazanego stwora lub urok pod władaniem przeciwnika. Strać tyle "
+"żyć, ile wynosił skrót many owego bytu."
 
 #: ../../SCD.rst:428
 msgid ""
@@ -1386,7 +1527,7 @@ msgstr ""
 msgid ""
 "When Fleshbag Marauder enters the battlefield, each player sacrifices a "
 "creature."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, każdy gracz poświęca stwora."
 
 #: ../../SCD.rst:432
 msgid ""
@@ -1415,6 +1556,10 @@ msgid ""
 "lost this way. (Each |mana_b| in the mana costs of permanents you control "
 "counts toward your devotion to black.)"
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, każdy przeciwnik traci po X żyć, gdzie "
+"X jest twoim kultem czarnego. Zyskaj tyle żyć, ile stracono w ten sposób. ("
+"Każdy symbol |mana_b| w kosztach bytów pod twoim władaniem wlicza się do "
+"twojego kultu czarnego.)"
 
 #: ../../SCD.rst:442
 msgid ""
@@ -1428,6 +1573,8 @@ msgid ""
 "At the beginning of your upkeep, draw a card unless target opponent "
 "sacrifices a creature or pays 3 life."
 msgstr ""
+"Na początku twojego kroku utrzymania dobierz kartę, chyba że wskazany "
+"przeciwnik poświęci stwora lub zapłaci 3 życia."
 
 #: ../../SCD.rst:450
 msgid ""
@@ -1441,16 +1588,20 @@ msgid ""
 "Kicker |mana_5|\\ |mana_b| (You may pay an additional |mana_5|\\ |mana_b| as "
 "you cast this spell.)"
 msgstr ""
+"Podbicie |mana_5|\\ |mana_b| (Rzucając ten czar możesz dodatkowo zapłacić "
+"|mana_5|\\ |mana_b|.)"
 
 #: ../../SCD.rst:447 ../../SCD.rst:493 ../../SCD.rst:1353
 msgid "Menace"
-msgstr ""
+msgstr "Złowrogość"
 
 #: ../../SCD.rst:449
 msgid ""
 "When Josu Vess, Lich Knight enters the battlefield, if it was kicked, create "
 "eight 2/2 black Zombie Knight creature tokens with menace."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, jeśli został podbity, stwórz osiem "
+"żetonów czarnego stwora Rycerz Zombi 2/2 ze złowrogością."
 
 #: ../../SCD.rst:454
 msgid ""
@@ -1465,6 +1616,9 @@ msgid ""
 "an Army you control. If you don't control one, create a 0/0 black Zombie "
 "Army creature token first.)"
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, zgromadź 1. (Umieść znacznik +1/+1 na "
+"Armii pod twoim władaniem. Jeśli żadną nie władasz, stwórz najpierw żeton "
+"czarnego stwora Armia Zombi 0/0.)"
 
 #: ../../SCD.rst:462
 msgid ""
@@ -1478,16 +1632,20 @@ msgid ""
 "+1: Mill three cards. If at least one Zombie card is milled this way, each "
 "opponent loses 2 life and you gain 2 life."
 msgstr ""
+"+1: Zmiel trzy karty. Jeśli co najmniej jedna z nich jest kartą Zombi, każdy "
+"przeciwnik traci po 2 życia, a ty zyskaj 2 życia."
 
 #: ../../SCD.rst:459
 msgid ""
 "−2: Target creature gets -X/-X until end of turn, where X is the number of "
 "Zombies you control."
 msgstr ""
+"–2: Wskazany stwór dostaje -X/-X do końca tury, gdzie X jest liczbą Zombi "
+"pod twoim władaniem."
 
 #: ../../SCD.rst:461
 msgid "−3: You may cast Zombie spells from your graveyard this turn."
-msgstr ""
+msgstr "–3: W tej turze możesz rzucać czary Zombi z twojego cmentarza."
 
 #: ../../SCD.rst:468
 msgid ""
@@ -1498,13 +1656,16 @@ msgstr ""
 
 #: ../../SCD.rst:465
 msgid "Zombies you control get +1/+0."
-msgstr ""
+msgstr "Zombi pod twoim władaniem dostają +1/+0."
 
 #: ../../SCD.rst:467
 msgid ""
 "At the beginning of your end step, if a creature died this turn, you may pay "
 "|mana_1|\\ |mana_b|. If you do, create a 2/2 black Zombie creature token."
 msgstr ""
+"Na początku twojego kroku końcowego, jeśli w tej turze umarł stwór, możesz "
+"zapłacić |mana_1|\\ |mana_b|. Jeśli tak zrobisz, stwórz żeton czarnego "
+"stwora Zombi 2/2."
 
 #: ../../SCD.rst:474
 msgid ""
@@ -1515,13 +1676,15 @@ msgstr ""
 
 #: ../../SCD.rst:471
 msgid "Zombies you control get +1/+1."
-msgstr ""
+msgstr "Zombi pod twoim władaniem dostają +1/+1."
 
 #: ../../SCD.rst:473
 msgid ""
 "When Liliana's Mastery enters the battlefield, create two 2/2 black Zombie "
 "creature tokens."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, stwórz dwa żetony czarnego stwora Zombi "
+"2/2."
 
 #: ../../SCD.rst:480
 msgid ""
@@ -1535,6 +1698,8 @@ msgid ""
 "When Liliana's Standard Bearer enters the battlefield, draw X cards, where X "
 "is the number of creatures that died under your control this turn."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, dobierz X kart, gdzie X jest liczbą "
+"stworów, które umarły pod twoim władaniem w tej turze."
 
 #: ../../SCD.rst:486
 msgid ""
@@ -1545,11 +1710,12 @@ msgstr ""
 
 #: ../../SCD.rst:483
 msgid "Other Zombies you control get +1/+1."
-msgstr ""
+msgstr "Inne Zombi pod twoim władaniem mają +1/+1."
 
 #: ../../SCD.rst:485
 msgid "|mana_1|\\ |mana_b|, |tap|: All Zombies gain menace until end of turn."
 msgstr ""
+"|mana_1|\\ |mana_b|, |tap|: Wszystkie Zombi zyskują złowrogość do końca tury."
 
 #: ../../SCD.rst:490
 msgid ""
@@ -1563,6 +1729,8 @@ msgid ""
 "Undergrowth — When Lotleth Giant enters the battlefield, it deals 1 damage "
 "to target opponent for each creature card in your graveyard."
 msgstr ""
+"Ściółka — Kiedy ten byt wejdzie na pole bitwy, zadaje on wskazanemu "
+"przeciwnikowi po 1 obrażeniu za każdą kartę stwora w twoim cmentarzu."
 
 #: ../../SCD.rst:496
 msgid ""
@@ -1576,6 +1744,8 @@ msgid ""
 "Lieutenant — At the beginning of combat on your turn, if you control your "
 "commander, each opponent loses 3 life."
 msgstr ""
+"Porucznik — Na początku potyczki w twojej turze, jeśli władasz twoim "
+"dowódcą, każdy przeciwnik traci po 3 życia."
 
 #: ../../SCD.rst:500
 msgid ""
@@ -1589,6 +1759,8 @@ msgid ""
 "Whenever a nontoken creature you control dies, Midnight Reaper deals 1 "
 "damage to you and you draw a card."
 msgstr ""
+"Ilekroć umrze nieżetonowy stwór, niniejszy stwór zadaje tobie 1 obrażenie, "
+"dobierz kartę."
 
 #: ../../SCD.rst:506
 msgid ""
@@ -1599,12 +1771,12 @@ msgstr ""
 
 #: ../../SCD.rst:503 ../../SCD.rst:1215
 msgid "Deathtouch"
-msgstr ""
+msgstr "Dotyk śmierci"
 
 #: ../../SCD.rst:505
 msgid ""
 "When Mire Triton enters the battlefield, mill two cards and you gain 2 life."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zmiel dwie karty i zyskaj 2 życia."
 
 #: ../../SCD.rst:510
 msgid ""
@@ -1615,7 +1787,7 @@ msgstr ""
 
 #: ../../SCD.rst:509
 msgid "Destroy target creature."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora."
 
 #: ../../SCD.rst:514
 msgid ""
@@ -1630,6 +1802,9 @@ msgid ""
 "way to the battlefield under your control. It's a black Zombie in addition "
 "to its other colors and types. Exile Necromantic Selection."
 msgstr ""
+"Zniszcz wszystkie stwory, po czym przywróć na pole bitwy pod twoim władaniem "
+"kartę stwora umieszczoną w ten sposób w cmentarzu. Jest ona dodatkowo Zombi "
+"oprócz swoich innych typów. Wygnaj ten czar."
 
 #: ../../SCD.rst:518
 msgid ""
@@ -1653,17 +1828,19 @@ msgstr ""
 
 #: ../../SCD.rst:521
 msgid "+1: You draw a card and you lose 1 life."
-msgstr ""
+msgstr "+1: Dobierz kartę i strać 1 życie."
 
 #: ../../SCD.rst:523
 msgid "−3: Destroy target creature."
-msgstr ""
+msgstr "–3: Zniszcz wskazanego stwora."
 
 #: ../../SCD.rst:525
 msgid ""
 "−8: Target opponent gets an emblem with \"Whenever a player draws a card, "
 "you lose 2 life.\""
 msgstr ""
+"–8: Wskazany przeciwnik dostaje emblemat mający \"Ilekroć gracz dobierze "
+"kartę, strać 2 życia.\""
 
 #: ../../SCD.rst:530
 msgid ""
@@ -1677,6 +1854,8 @@ msgid ""
 "Whenever a nontoken creature you control dies, create a 2/2 black Zombie "
 "creature token."
 msgstr ""
+"Ilekroć nie-żetonowy stwór pod twoim władaniem umrze, stwórz żeton czarnego "
+"stwora Zombi 2/2."
 
 #: ../../SCD.rst:538
 msgid ""
@@ -1690,12 +1869,15 @@ msgid ""
 "When Overseer of the Damned enters the battlefield, you may destroy target "
 "creature."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, możesz zniszczyć wskazanego stwora."
 
 #: ../../SCD.rst:537
 msgid ""
 "Whenever a nontoken creature an opponent controls dies, create a tapped 2/2 "
 "black Zombie creature token."
 msgstr ""
+"Ilekroć umrze nieżetonowy stwór pod władaniem przeciwnika, stwórz "
+"przekręcony żeton czarnego stwora Zombi 2/2."
 
 #: ../../SCD.rst:550
 msgid ""
@@ -1706,27 +1888,31 @@ msgstr ""
 
 #: ../../SCD.rst:541
 msgid "Choose two —"
-msgstr ""
+msgstr "Wybierz dwie —"
 
 #: ../../SCD.rst:543
 msgid "Target player loses X life."
-msgstr ""
+msgstr "Wskazany gracz traci X żyć."
 
 #: ../../SCD.rst:545
 msgid ""
 "Return target creature card with mana value X or less from your graveyard to "
 "the battlefield."
 msgstr ""
+"Przywróć wskazaną kartę stwora o skrócie many X lub mniejszym z twojego "
+"cmentarza na pole bitwy."
 
 #: ../../SCD.rst:547
 msgid "Target creature gets -X/-X until end of turn."
-msgstr ""
+msgstr "Wskazany stwór do końca tury dostaje -X/-X."
 
 #: ../../SCD.rst:549
 msgid ""
 "Up to X target creatures gain fear until end of turn. (They can't be blocked "
 "except by artifact creatures and/or black creatures.)"
 msgstr ""
+"Co najwyżej X wskazanych stworów do końca tury zyskuje postrach. (Nie mogą "
+"być blokowane, chyba że przez stwory artefaktowe lub czarne.)"
 
 #: ../../SCD.rst:556
 msgid ""
@@ -1758,7 +1944,7 @@ msgstr ""
 
 #: ../../SCD.rst:559
 msgid "Scry 2, then draw two cards. You lose 2 life."
-msgstr ""
+msgstr "Wróż 2, po czym dobierz dwie karty. Strać 2 życia."
 
 #: ../../SCD.rst:564
 msgid ""
@@ -1772,6 +1958,8 @@ msgid ""
 "Each player sacrifices a creature. Create an X/X black Demon creature token "
 "with flying, where X is the total power of the creatures sacrificed this way."
 msgstr ""
+"Każdy gracz poświęca stwora. Stwórz żeton czarnego stwora Demon X/X z "
+"lataniem, gdzie X jest łączną siłą stworów poświęconych w ten sposób."
 
 #: ../../SCD.rst:572
 msgid ""
@@ -1782,11 +1970,11 @@ msgstr ""
 
 #: ../../SCD.rst:569
 msgid "Whenever a creature an opponent controls dies, you may gain 3 life."
-msgstr ""
+msgstr "Ilekroć umrze stwór pod władaniem przeciwnika, możesz zyskać 3 życia."
 
 #: ../../SCD.rst:571
 msgid "Whenever an opponent discards a card, you may gain 3 life."
-msgstr ""
+msgstr "Ilekroć przeciwnik odrzuca kartę, możesz zyskać 3 życia."
 
 #: ../../SCD.rst:578
 msgid ""
@@ -1800,6 +1988,8 @@ msgid ""
 "You may cast Scourge of Nel Toth from your graveyard by paying |mana_b|\\ |"
 "mana_b| and sacrificing two creatures rather than paying its mana cost."
 msgstr ""
+"Możesz rzucić tę kartę z twojego cmentarza płacąc |mana_b|\\ |mana_b| i "
+"poświęcając stwora zamiast płacić jej koszt many."
 
 #: ../../SCD.rst:584
 msgid ""
@@ -1827,6 +2017,8 @@ msgid ""
 "Intimidate (This creature can't be blocked except by artifact creatures and/"
 "or creatures that share a color with it.)"
 msgstr ""
+"Zastraszenie (Ten stwór nie może być blokowany, chyba że przez stwory "
+"artefaktowe lub współdzielące z nim kolor.)"
 
 #: ../../SCD.rst:589
 msgid ""
@@ -1834,6 +2026,9 @@ msgid ""
 "may put up to one target creature card from that player's graveyard onto the "
 "battlefield under your control."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, za każdego z przeciwników możesz "
+"umieścić na polu bitwy pod twoim władaniem co najwyżej jedną wskazaną kartę "
+"stwora z cmentarza owego gracza."
 
 #: ../../SCD.rst:594
 msgid ""
@@ -1844,7 +2039,7 @@ msgstr ""
 
 #: ../../SCD.rst:593
 msgid "Target player draws two cards and loses 2 life."
-msgstr ""
+msgstr "Wskazany gracz dobiera dwie karty i traci 2 życia."
 
 #: ../../SCD.rst:598
 msgid ""
@@ -1858,6 +2053,8 @@ msgid ""
 "Each opponent sacrifices a creature or planeswalker with the highest mana "
 "value among creatures and planeswalkers they control."
 msgstr ""
+"Każdy przeciwnik poświęca stwora lub wędrowca o największym skrócie many "
+"spośród stworów i wędrowców pod swoim władaniem."
 
 #: ../../SCD.rst:602
 msgid ""
@@ -1870,7 +2067,7 @@ msgstr ""
 msgid ""
 "|mana_3|, Sacrifice a creature or planeswalker: You gain 1 life and draw a "
 "card."
-msgstr ""
+msgstr "|mana_3|, poświęć stwora lub wędrowca: Zyskaj 1 życie i dobierz kartę."
 
 #: ../../SCD.rst:606
 msgid ""
@@ -1884,6 +2081,8 @@ msgid ""
 "Each other player sacrifices a creature. You create a 2/2 black Zombie "
 "creature token for each creature sacrificed this way."
 msgstr ""
+"Każdy inny gracz poświęca stwora. Stwórz żeton czarnego stwora Zombi 2/2 za "
+"każdego stwora poświęconego w ten sposób."
 
 #: ../../SCD.rst:610
 msgid ""
@@ -1897,6 +2096,8 @@ msgid ""
 "Each other player discards a card. You draw a card for each card discarded "
 "this way."
 msgstr ""
+"Każdy inny gracz odrzuca kartę. Dobierz kartę za każdą kartę odrzuconą w ten "
+"sposób."
 
 #: ../../SCD.rst:616
 msgid ""
@@ -1910,10 +2111,12 @@ msgid ""
 "At the beginning of each player's end step, if no creatures died this turn, "
 "Titan Hunter deals 4 damage to that player."
 msgstr ""
+"Na początku kroku końcowego każdego gracza, jeśli żaden stwór nie umarł w "
+"tej turze, niniejszy zadaje owemu graczowi 4 obrażenia."
 
 #: ../../SCD.rst:615
 msgid "|mana_1|\\ |mana_b|, Sacrifice a creature: You gain 4 life."
-msgstr ""
+msgstr "|mana_1|\\ |mana_b|, poświęć stwora: Zyskaj 4 życia."
 
 #: ../../SCD.rst:622
 msgid ""
@@ -1927,12 +2130,16 @@ msgid ""
 "Unbreathing Horde enters the battlefield with a +1/+1 counter on it for each "
 "other Zombie you control and each Zombie card in your graveyard."
 msgstr ""
+"Ten stwór wchodzi na pole bitwy mając znacznik +1/+1 za każdego innego Zombi "
+"pod twoim władaniem oraz każdą kartę Zombi w twoim cmentarzu."
 
 #: ../../SCD.rst:621
 msgid ""
 "If Unbreathing Horde would be dealt damage, prevent that damage and remove a "
 "+1/+1 counter from it."
 msgstr ""
+"Jeśli ten stwór miałby otrzymać obrażenia, zażegnaj je i usuń z niego "
+"znacznik +1/+1."
 
 #: ../../SCD.rst:626
 msgid ""
@@ -1946,6 +2153,8 @@ msgid ""
 "Whenever Undead Augur or another Zombie you control dies, you draw a card "
 "and you lose 1 life."
 msgstr ""
+"Ilekroć umrze ten stwór lub inny Zombi pod twoim władaniem, dobierz kartę i "
+"strać 1 życie."
 
 #: ../../SCD.rst:630
 msgid ""
@@ -1956,7 +2165,7 @@ msgstr ""
 
 #: ../../SCD.rst:629
 msgid "Flying, deathtouch, lifelink"
-msgstr ""
+msgstr "Latanie, dotyk śmierci, więź życia"
 
 #: ../../SCD.rst:634
 msgid ""
@@ -1968,7 +2177,7 @@ msgstr ""
 #: ../../SCD.rst:633
 msgid ""
 "|mana_1|\\ |mana_b|, Sacrifice a creature: You gain 1 life and draw a card."
-msgstr ""
+msgstr "|mana_1|\\ |mana_b|, poświęć stwora: Zyskaj 1 życie i dobierz kartę."
 
 #: ../../SCD.rst:638
 msgid ""
@@ -1994,6 +2203,8 @@ msgid ""
 "Choose two target creature cards in your graveyard. Sacrifice a creature. If "
 "you do, return the chosen cards to the battlefield tapped."
 msgstr ""
+"Wskaż dwie karty stworów w twoim cmentarzu. Poświęć stwora. Jeśli tak "
+"zrobisz, przywróć wybrane karty przekręcone na pole bitwy."
 
 #: ../../SCD.rst:648
 msgid ""
@@ -2008,10 +2219,13 @@ msgid ""
 "counter on an Army you control. If you don't control one, create a 0/0 black "
 "Zombie Army creature token first.)"
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, zgromadź 1. (Umieść znacznik +1/+1 na "
+"Armii pod twoim władaniem. Jeśli żadną nie władasz, stwórz najpierw żeton "
+"czarnego stwora Armia Zombi 0/0.)"
 
 #: ../../SCD.rst:647
 msgid "Zombie tokens you control have deathtouch."
-msgstr ""
+msgstr "Żetony Zombi pod twoim władaniem mają dotyk śmierci."
 
 #: ../../SCD.rst:652
 msgid ""
@@ -2036,6 +2250,8 @@ msgid ""
 "Return all Zombie creature cards from your graveyard to the battlefield "
 "tapped, then destroy all Humans."
 msgstr ""
+"Przywróć wszystkie karty Zombi z twojego cmentarza przekręcone na pole "
+"bitwy, po czym zniszcz wszystkie stwory typu Człowiek."
 
 #: ../../SCD.rst:664
 msgid ""
@@ -2046,11 +2262,11 @@ msgstr ""
 
 #: ../../SCD.rst:661
 msgid "Abrade deals 3 damage to target creature."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu stworowi 3 obrażenia."
 
 #: ../../SCD.rst:663 ../../SCD.rst:771 ../../SCD.rst:1123 ../../SCD.rst:1307
 msgid "Destroy target artifact."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt."
 
 #: ../../SCD.rst:670
 msgid ""
@@ -2065,6 +2281,9 @@ msgid ""
 "Hellkite deals 1 damage to any target. If that land is a Mountain, Akoum "
 "Hellkite deals 2 damage instead."
 msgstr ""
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, ten stwór "
+"zadaje wskazanemu celowi 1 obrażenie. Jeśli ów ląd jest Górą, zamiast tego "
+"ten stwór zadaje 2 obrażenia."
 
 #: ../../SCD.rst:676
 msgid ""
@@ -2077,10 +2296,12 @@ msgstr ""
 msgid ""
 "This spell costs |mana_1| less to cast for each creature on the battlefield."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_1| mniej za każdego stwora na polu "
+"bitwy."
 
 #: ../../SCD.rst:675
 msgid "Blasphemous Act deals 13 damage to each creature."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi po 13 obrażeń."
 
 #: ../../SCD.rst:684
 msgid ""
@@ -2091,18 +2312,20 @@ msgstr ""
 
 #: ../../SCD.rst:679
 msgid "Indestructible"
-msgstr ""
+msgstr "Niezniszczalność"
 
 #: ../../SCD.rst:681
 msgid ""
 "Whenever Brash Taunter is dealt damage, it deals that much damage to target "
 "opponent."
 msgstr ""
+"Ilekroć ten stwór otrzyma obrażenia, zadaje on tyle samo obrażeń wskazanemu "
+"przeciwnikowi."
 
 #: ../../SCD.rst:683
 msgid ""
 "|mana_2|\\ |mana_r|, |tap|: Brash Taunter fights another target creature."
-msgstr ""
+msgstr "|mana_2|\\ |mana_r|, |tap|: Ten stwór walczy z innym wskazanym stworem."
 
 #: ../../SCD.rst:688
 msgid ""
@@ -2116,6 +2339,8 @@ msgid ""
 "Chain Reaction deals X damage to each creature, where X is the number of "
 "creatures on the battlefield."
 msgstr ""
+"Ten czar zadaje każdemu stworowi po X obrażeń, gdzie X jest liczbą stworów "
+"na polu bitwy."
 
 #: ../../SCD.rst:692
 msgid ""
@@ -2130,6 +2355,9 @@ msgid ""
 "the top card of their library. If it's a permanent card, they put it onto "
 "the battlefield."
 msgstr ""
+"Właściciel wskazanego bytu wtasowuje go do swojej biblioteki, po czym "
+"ujawnia wierzchnią kartę swojej biblioteki. Jeśli to karta bytu, umieszcza "
+"ją na polu bitwy."
 
 #: ../../SCD.rst:698
 msgid ""
@@ -2140,7 +2368,7 @@ msgstr ""
 
 #: ../../SCD.rst:695 ../../SCD.rst:729 ../../SCD.rst:787
 msgid "First strike"
-msgstr ""
+msgstr "Pierwszy cios"
 
 #: ../../SCD.rst:697
 msgid ""
@@ -2149,6 +2377,10 @@ msgid ""
 "Combustible Gearhulk deals damage to that player equal to the total mana "
 "value of those cards."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, wskazany przeciwnik może sprawić, że "
+"dobierzesz trzy karty. Jeśli ów gracz tak nie zrobi, zmiel trzy karty, po "
+"czym ten stwór zadaje owemu graczowi tyle obrażeń, ile wynosi suma skrótów "
+"many owych kart."
 
 #: ../../SCD.rst:702
 msgid ""
@@ -2159,7 +2391,7 @@ msgstr ""
 
 #: ../../SCD.rst:701
 msgid "Dragon creatures you control get +3/+3."
-msgstr ""
+msgstr "Smoki pod twoim władaniem dostają +3/+3."
 
 #: ../../SCD.rst:708
 msgid ""
@@ -2173,6 +2405,8 @@ msgid ""
 "When Demanding Dragon enters the battlefield, it deals 5 damage to target "
 "opponent unless that player sacrifices a creature."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, zadaje on wskazanemu przeciwnikowi 5 "
+"obrażeń, chyba że ów gracz poświęci stwora."
 
 #: ../../SCD.rst:714
 msgid ""
@@ -2186,6 +2420,8 @@ msgid ""
 "If a source would deal damage to a permanent or player, it deals double that "
 "damage to that permanent or player instead."
 msgstr ""
+"Jeśli jakieś źródło miałoby zadać obrażenia bytowi lub graczowi, zamiast "
+"tego zadaje w ów cel dwukrotność tych obrażeń."
 
 #: ../../SCD.rst:720
 msgid ""
@@ -2199,6 +2435,8 @@ msgid ""
 "Whenever Dragon Mage deals combat damage to a player, each player discards "
 "their hand, then draws seven cards."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, każdy gracz odrzuca swoją "
+"rękę, po czym dobiera siedem kart."
 
 #: ../../SCD.rst:726
 msgid ""
@@ -2212,12 +2450,16 @@ msgid ""
 "Whenever a creature with flying enters the battlefield under your control, "
 "it gains haste until end of turn."
 msgstr ""
+"Ilekroć stwór z lataniem wejdzie na pole bitwy pod twoim władaniem, zyskuje "
+"on pośpiech do końca tury."
 
 #: ../../SCD.rst:725
 msgid ""
 "Whenever a Dragon enters the battlefield under your control, it deals X "
 "damage to any target, where X is the number of Dragons you control."
 msgstr ""
+"Ilekroć Smok wejdzie na pole bitwy pod twoim władaniem, zadaje on wskazanemu "
+"celowi X obrażeń, gdzie X jest liczbą smoków pod twoim władaniem."
 
 #: ../../SCD.rst:734
 msgid ""
@@ -2231,6 +2473,8 @@ msgid ""
 "Boast abilities you activate cost |mana_1| less to activate for each Dragon "
 "you control."
 msgstr ""
+"Aktywacja przechwałek kosztuje cię o |mana_1| mniej za każdego Smoka pod "
+"twoim władaniem."
 
 #: ../../SCD.rst:733
 msgid ""
@@ -2238,6 +2482,9 @@ msgid ""
 "flying. (Activate only if this creature attacked this turn and only once "
 "each turn.)"
 msgstr ""
+"Przechwałka — |mana_4|\\ |mana_r|: Stwórz żeton czerwonego stwora Smok 5/5 z "
+"lataniem. (Możesz aktywować tylko jeśli ten stwór atakował w tej turze i "
+"tylko raz na turę.)"
 
 #: ../../SCD.rst:738
 msgid ""
@@ -2248,7 +2495,7 @@ msgstr ""
 
 #: ../../SCD.rst:737
 msgid "Dragon spells you cast cost |mana_1| less to cast."
-msgstr ""
+msgstr "Rzucanie czarów Smoków kosztuje cię o |mana_1| mniej."
 
 #: ../../SCD.rst:742
 msgid ""
@@ -2262,6 +2509,8 @@ msgid ""
 "At the beginning of your upkeep, if you control six or more lands, create a "
 "5/5 red Dragon creature token with flying."
 msgstr ""
+"Na początku twojego kroku utrzymania, jeśli władasz co najmniej sześcioma "
+"lądami, stwórz żeton czerwonego stwora Smok 5/5 z lataniem."
 
 #: ../../SCD.rst:746
 msgid ""
@@ -2272,7 +2521,7 @@ msgstr ""
 
 #: ../../SCD.rst:745
 msgid "Dragon spells you cast cost |mana_2| less to cast."
-msgstr ""
+msgstr "Rzucanie czarów Smoków kosztuje cię o |mana_2| mniej."
 
 #: ../../SCD.rst:752
 msgid ""
@@ -2286,6 +2535,8 @@ msgid ""
 "Whenever Drakuseth, Maw of Flames attacks, it deals 4 damage to any target "
 "and 3 damage to each of up to two other targets."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, zadaje wskazanemu celowi 4 obrażenia oraz po 3 "
+"obrażenia każdemu z co najwyżej dwóch innych wskazanych celów."
 
 #: ../../SCD.rst:758
 msgid ""
@@ -2300,6 +2551,9 @@ msgid ""
 "cards from the top of your library. Until end of turn, you may cast spells "
 "from among those exiled cards."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, wygnaj tyle samo kart z "
+"wierzchu twojej biblioteki. Do końca tury możesz rzucać czary spośród owych "
+"wygnanych kart."
 
 #: ../../SCD.rst:762
 msgid ""
@@ -2324,15 +2578,15 @@ msgstr ""
 
 #: ../../SCD.rst:765
 msgid "Choose three. You may choose the same mode more than once."
-msgstr ""
+msgstr "Wybierz trzy. Możesz wybrać ten sam tryb więcej niż raz."
 
 #: ../../SCD.rst:767
 msgid "Fiery Confluence deals 1 damage to each creature."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi po 1 obrażeniu."
 
 #: ../../SCD.rst:769
 msgid "Fiery Confluence deals 2 damage to each opponent."
-msgstr ""
+msgstr "Ten czar zadaje każdemu przeciwnikowi po 2 obrażenia."
 
 #: ../../SCD.rst:778
 msgid ""
@@ -2346,6 +2600,8 @@ msgid ""
 "Whenever Flameblast Dragon attacks, you may pay |mana_x|\\ |mana_r|. If you "
 "do, Flameblast Dragon deals X damage to any target."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, możesz zapłacić |mana_x|\\ |mana_r|. Jeśli tak "
+"zrobisz, ten stwór zadaje wskazanemu celowi X obrażeń."
 
 #: ../../SCD.rst:784
 msgid ""
@@ -2356,7 +2612,7 @@ msgstr ""
 
 #: ../../SCD.rst:783
 msgid "|mana_r|: Furnace Whelp gets +1/+0 until end of turn."
-msgstr ""
+msgstr "|mana_r|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../SCD.rst:790
 msgid ""
@@ -2371,6 +2627,10 @@ msgid ""
 "each creature target player controls. (Until your next turn, those creatures "
 "attack each combat if able and attack a player other than you if able.)"
 msgstr ""
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, ponaglij "
+"każdego stwora pod władaniem owego gracza. (Do twojej następnej tury, owe "
+"stwory atakują w każdej potyczce jeśli mogą i atakują gracza innego niż ty "
+"jeśli mogą.)"
 
 #: ../../SCD.rst:794
 msgid ""
@@ -2384,6 +2644,8 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, Guttersnipe deals 2 damage to "
 "each opponent."
 msgstr ""
+"Ilekroć rzucisz czar sztuczki lub obrzędu, ten stwór zadaje każdemu "
+"przeciwnikowi po 2 obrażenia."
 
 #: ../../SCD.rst:798
 msgid ""
@@ -2398,6 +2660,9 @@ msgid ""
 "creatures, create a token that's a copy of that creature. Those tokens gain "
 "haste. Exile them at the beginning of the next end step."
 msgstr ""
+"Wybierz co najwyżej dwa wskazane stwory poza twoim władaniem. Dla każdego z "
+"owych stworów, stwórz żeton będący kopią owego stwora. Owe żetony zyskują "
+"pośpiech. Wygnaj je na początku najbliższego kroku końcowego."
 
 #: ../../SCD.rst:804
 msgid ""
@@ -2411,6 +2676,8 @@ msgid ""
 "|mana_3|\\ |mana_r|: Destroy target artifact. Hoard-Smelter Dragon gets +X/"
 "+0 until end of turn, where X is that artifact's mana value."
 msgstr ""
+"|mana_3|\\ |mana_r|: Zniszcz wskazany artefakt. Ten stwór do końca tury "
+"dostaje +X/+0, gdzie X jest skrótem many owego artefaktu."
 
 #: ../../SCD.rst:808
 msgid ""
@@ -2425,6 +2692,9 @@ msgid ""
 "player, create a 3/3 red Ogre creature token unless that creature's "
 "controller pays |mana_3|."
 msgstr ""
+"Ilekroć zaatakuje stwór pod władaniem przeciwnika, jeśli jesteś broniącym "
+"się graczem, stwórz żeton czerwonego stwora Ogr 3/3 chyba że władca owego "
+"stwora zapłaci |mana_3|."
 
 #: ../../SCD.rst:812
 msgid ""
@@ -2438,6 +2708,8 @@ msgid ""
 "Magmaquake deals X damage to each creature without flying and each "
 "planeswalker."
 msgstr ""
+"Ten czar zadaje każdemu stworowi bez latania oraz każdemu wędrowcowi po X "
+"obrażeń."
 
 #: ../../SCD.rst:816
 msgid ""
@@ -2450,6 +2722,8 @@ msgstr ""
 msgid ""
 "At the beginning of each upkeep, Magmatic Force deals 3 damage to any target."
 msgstr ""
+"Na początku każdego kroku utrzymania, ten stwór zadaje wskazanemu celowi 3 "
+"obrażenia."
 
 #: ../../SCD.rst:820
 msgid ""
@@ -2461,6 +2735,7 @@ msgstr ""
 #: ../../SCD.rst:819
 msgid "Add |mana_r| for each tapped land your opponents control."
 msgstr ""
+"Weź |mana_r| za każdy przekręcony ląd pod władaniem twoich przeciwników."
 
 #: ../../SCD.rst:828
 msgid ""
@@ -2471,13 +2746,15 @@ msgstr ""
 
 #: ../../SCD.rst:825
 msgid "|mana_1|\\ |mana_r|: Mordant Dragon gets +1/+0 until end of turn."
-msgstr ""
+msgstr "|mana_1|\\ |mana_r|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../SCD.rst:827
 msgid ""
 "Whenever Mordant Dragon deals combat damage to a player, you may have it "
 "deal that much damage to target creature that player controls."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, możesz zdecydować, że zada "
+"on wskazanemu stworowi pod władaniem owego gracza tyle samo obrażeń."
 
 #: ../../SCD.rst:832
 msgid ""
@@ -2491,6 +2768,8 @@ msgid ""
 "Provoke the Trolls deals 3 damage to any target. If a creature is dealt "
 "damage this way, it gets +5/+0 until end of turn."
 msgstr ""
+"Ten czar zadaje wskazanemu celowi 3 obrażenia. Jeśli stwór otrzymał "
+"obrażenia w ten sposób, do końca tury dostaje +5/+0."
 
 #: ../../SCD.rst:838
 msgid ""
@@ -2505,6 +2784,9 @@ msgid ""
 "(They're artifacts with \"|tap|, Sacrifice this artifact: Add one mana of "
 "any color.\")"
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, stwórz dwa żetony Skarbu. (Są "
+"artefaktami ze zdolnością \"|tap|, poświęć ten artefakt: Weź jedną manę "
+"dowolnego koloru.\")"
 
 #: ../../SCD.rst:844
 msgid ""
@@ -2518,6 +2800,8 @@ msgid ""
 "|mana_5|\\ |mana_r|, Exile Runehorn Hellkite from your graveyard: Each "
 "player discards their hand, then draws seven cards."
 msgstr ""
+"|mana_5|\\ |mana_r|, wygnaj tę kartę z twojego cmentarza: Każdy gracz "
+"odrzuca swoją rękę, po czym dobiera siedem kart."
 
 #: ../../SCD.rst:852
 msgid ""
@@ -2532,10 +2816,13 @@ msgid ""
 "red Dragon creature with flying, indestructible, and haste. (He doesn't lose "
 "loyalty while he's not a planeswalker.)"
 msgstr ""
+"+1: Do końca tury ten wędrowiec staje się legendarnym stworem Smok 4/4 z "
+"lataniem, niezniszczalnością i pośpiechem. (Nie traci lojalności, gdy nie "
+"jest wędrowcem.)"
 
 #: ../../SCD.rst:849
 msgid "−3: Sarkhan, the Dragonspeaker deals 4 damage to target creature."
-msgstr ""
+msgstr "–3: Ten wędrowiec zadaje wskazanemu stworowi 4 obrażenia."
 
 #: ../../SCD.rst:851
 msgid ""
@@ -2543,6 +2830,9 @@ msgid ""
 "additional cards\" and \"At the beginning of your end step, discard your "
 "hand.\""
 msgstr ""
+"–6: Dostajesz emblemat mający \"Na początku twojego kroku dobierania, "
+"dobierze dwie dodatkowe karty\" oraz \"Na początku twojego kroku końcowego "
+"odrzuć twoją rękę.\""
 
 #: ../../SCD.rst:860
 msgid ""
@@ -2557,10 +2847,13 @@ msgid ""
 "your control, it deals X damage to any target, where X is the number of "
 "Dragons you control."
 msgstr ""
+"Ilekroć ten stwór lub inny Smok wejdzie na pole bitwy pod twoim władaniem, "
+"zadaje on wskazanemu celowi X obrażeń, gdzie X jest liczbą Smoków pod twoim "
+"władaniem."
 
 #: ../../SCD.rst:859
 msgid "|mana_r|: Scourge of Valkas gets +1/+0 until end of turn."
-msgstr ""
+msgstr "|mana_r|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../SCD.rst:866
 msgid ""
@@ -2571,13 +2864,16 @@ msgstr ""
 
 #: ../../SCD.rst:863
 msgid "Spit Flame deals 4 damage to target creature."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu stworowi 4 obrażenia."
 
 #: ../../SCD.rst:865
 msgid ""
 "Whenever a Dragon enters the battlefield under your control, you may pay |"
 "mana_r|. If you do, return Spit Flame from your graveyard to your hand."
 msgstr ""
+"Ilekroć Smok wejdzie na pole bitwy pod twoim władaniem, możesz zapłacić "
+"|mana_r|. Jeśli tak zrobisz, przywróć tę kartę z twojego cmentarza do twojej "
+"ręki."
 
 #: ../../SCD.rst:870
 msgid ""
@@ -2593,6 +2889,10 @@ msgid ""
 "value X or less from among cards revealed this way without paying its mana "
 "cost. Put the rest on the bottom of your library in a random order."
 msgstr ""
+"Ilekroć rzucisz czar z twojej ręki, ujawnij X wierzchnich kart twojej "
+"biblioteki, gdzie X jest skrótem many owego czaru. Możesz rzucić ujawniony w "
+"ten sposób czar o wartości many X lub mniejszej bez płacenia jego kosztu "
+"many. Umieść pozostałe losowo na spodzie twojej biblioteki."
 
 #: ../../SCD.rst:876
 msgid ""
@@ -2603,11 +2903,11 @@ msgstr ""
 
 #: ../../SCD.rst:873
 msgid "Sweltering Suns deals 3 damage to each creature."
-msgstr ""
+msgstr "Ten czar zadaje każdemu stworowi 3 obrażenia."
 
 #: ../../SCD.rst:875
 msgid "Cycling |mana_3| (|mana_3|, Discard this card: Draw a card.)"
-msgstr ""
+msgstr "Recykling |mana_3| (|mana_3|, odrzuć tę kartę: Dobierz kartę.)"
 
 #: ../../SCD.rst:884
 msgid ""
@@ -2621,16 +2921,20 @@ msgid ""
 "Whenever Tectonic Giant attacks or becomes the target of a spell an opponent "
 "controls, choose one —"
 msgstr ""
+"Ilekroć ten stwór zaatakuje lub zostanie wskazany przez czar pod władaniem "
+"przeciwnika, wybierz jedno —"
 
 #: ../../SCD.rst:881
 msgid "Tectonic Giant deals 3 damage to each opponent."
-msgstr ""
+msgstr "Ten stwór zadaje każdemu przeciwnikowi po 3 obrażenia."
 
 #: ../../SCD.rst:883
 msgid ""
 "Exile the top two cards of your library. Choose one of them. Until the end "
 "of your next turn, you may play that card."
 msgstr ""
+"Wygnaj dwie wierzchnie karty twojej biblioteki. Wybierz jedną z nich. Możesz "
+"zagrać ową kartę do końca twojej następnej tury."
 
 #: ../../SCD.rst:892
 msgid ""
@@ -2641,15 +2945,15 @@ msgstr ""
 
 #: ../../SCD.rst:887
 msgid "Defender"
-msgstr ""
+msgstr "Obronność"
 
 #: ../../SCD.rst:889
 msgid "|tap|: Thermo-Alchemist deals 1 damage to each opponent."
-msgstr ""
+msgstr "|tap|: Ten stwór zadaje każdemu przeciwnikowi po 1 obrażeniu."
 
 #: ../../SCD.rst:891
 msgid "Whenever you cast an instant or sorcery spell, untap Thermo-Alchemist."
-msgstr ""
+msgstr "Ilekroć rzucisz czar sztuczki lub obrzędu, odkręć tego stwora."
 
 #: ../../SCD.rst:898
 msgid ""
@@ -2663,6 +2967,8 @@ msgid ""
 "Whenever a Dragon you control becomes the target of a spell or ability an "
 "opponent controls, Thunderbreak Regent deals 3 damage to that player."
 msgstr ""
+"Ilekroć Smok pod twoim władaniem zostanie wskazany przez czar lub zdolność "
+"pod władaniem przeciwnika, ten stwór zadaje owemu graczowi 3 obrażenia."
 
 #: ../../SCD.rst:906
 msgid ""
@@ -2676,12 +2982,16 @@ msgid ""
 "Haste (This creature can attack and |tap| as soon as it comes under your "
 "control.)"
 msgstr ""
+"Pośpiech (Ten stwór może atakować i |tap| od razu po wejściu pod twoje "
+"władanie.)"
 
 #: ../../SCD.rst:905
 msgid ""
 "When Thundermaw Hellkite enters the battlefield, it deals 1 damage to each "
 "creature with flying your opponents control. Tap those creatures."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, zadaje każdemu stworowi z lataniem pod "
+"władaniem twoich przeciwników po 1 obrażeniu. Przekręć owe stwory."
 
 #: ../../SCD.rst:912
 msgid ""
@@ -2692,7 +3002,7 @@ msgstr ""
 
 #: ../../SCD.rst:909
 msgid "Flying, haste"
-msgstr ""
+msgstr "Latanie, pośpiech"
 
 #: ../../SCD.rst:911
 msgid ""
@@ -2700,6 +3010,9 @@ msgid ""
 "+2/+2 and has \"Whenever Tyrant's Familiar attacks, it deals 7 damage to "
 "target creature defending player controls.\""
 msgstr ""
+"Porucznik — O ile władasz swoim dowódcą, ten stwór dostaje +2/+2 i ma "
+"\"Ilekroć ten stwór zaatakuje, zadaje on wskazanemu stworowi pod władaniem "
+"broniącego się gracza 7 obrażeń.\""
 
 #: ../../SCD.rst:916
 msgid ""
@@ -2710,7 +3023,7 @@ msgstr ""
 
 #: ../../SCD.rst:915
 msgid "Double the power of target creature until end of turn."
-msgstr ""
+msgstr "Do końca tury podwój siłę wskazanego stwora."
 
 #: ../../SCD.rst:922
 msgid ""
@@ -2721,7 +3034,7 @@ msgstr ""
 
 #: ../../SCD.rst:919
 msgid "Destroy target artifact you don't control."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt poza twoim władaniem."
 
 #: ../../SCD.rst:921
 msgid ""
@@ -2729,6 +3042,9 @@ msgid ""
 "If you do, change its text by replacing all instances of \"target\" with "
 "\"each.\")"
 msgstr ""
+"Przeciążenie |mana_4|\\ |mana_r| (Możesz rzucić ten czar za jego koszt "
+"przeciążenia. Jeśli tak zrobisz, zmień jego tekst zastępując wszystkie "
+"wystąpienia słowa \"wskazany\" słowem \"każdy\".)"
 
 #: ../../SCD.rst:930
 msgid ""
@@ -2741,12 +3057,15 @@ msgstr ""
 msgid ""
 "Kicker |mana_3| (You may pay an additional |mana_3| as you cast this spell.)"
 msgstr ""
+"Podbicie |mana_3| (Rzucając ten czar możesz dodatkowo zapłacić |mana_3|.)"
 
 #: ../../SCD.rst:929
 msgid ""
 "When Verix Bladewing enters the battlefield, if it was kicked, create Karox "
 "Bladewing, a legendary 4/4 red Dragon creature token with flying."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, jeśli został podbity, stwórz żeton "
+"legendarnego czerwonego stwora Smok 4/4 z lataniem o nazwie Karox Bladewing."
 
 #: ../../SCD.rst:934
 msgid ""
@@ -2760,6 +3079,8 @@ msgid ""
 "You may choose new targets for target instant or sorcery spell. Then copy "
 "that spell. You may choose new targets for the copy."
 msgstr ""
+"Możesz wskazać nowe cele wskazanego czaru sztuczki lub obrzędu. Następnie "
+"skopiuj ów czar. Możesz wskazać nowe cele dla kopii."
 
 #: ../../SCD.rst:938
 msgid ""
@@ -2775,6 +3096,10 @@ msgid ""
 "card from their graveyard. Copy that card. You may cast the copy without "
 "paying its mana cost."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy oraz na początku twojego kroku "
+"utrzymania, wybierz losowego gracza. Ów gracz wygania kartę sztuczki lub "
+"obrzędu ze swojego cmentarza. Skopiuj ową kartę. Możesz rzucić ową kopię bez "
+"płacenia jej kosztu many."
 
 #: ../../SCD.rst:942
 msgid ""
@@ -2785,7 +3110,7 @@ msgstr ""
 
 #: ../../SCD.rst:941
 msgid "|tap|: Add |mana_w|."
-msgstr ""
+msgstr "|tap|: Weź |mana_w|."
 
 #: ../../SCD.rst:946
 msgid ""
@@ -2799,6 +3124,7 @@ msgid ""
 "Destroy target permanent. Its controller creates a 3/3 green Beast creature "
 "token."
 msgstr ""
+"Zniszcz wskazany byt. Jego władca tworzy żeton zielonego stwora Bestia 3/3."
 
 #: ../../SCD.rst:950
 msgid ""
@@ -2811,6 +3137,7 @@ msgstr ""
 msgid ""
 "Target creature you control gets +2/+2 and gains hexproof until end of turn."
 msgstr ""
+"Wskazany stwór pod twoim władaniem do końca tury dostaje +2/+2 i antyklątwę."
 
 #: ../../SCD.rst:956
 msgid ""
@@ -2824,12 +3151,16 @@ msgid ""
 "Creatures with power less than Champion of Lambholt's power can't block "
 "creatures you control."
 msgstr ""
+"Stwory o sile mniejszej niż siła niniejszego stwora nie mogą blokować "
+"stworów pod twoim władaniem."
 
 #: ../../SCD.rst:955
 msgid ""
 "Whenever another creature enters the battlefield under your control, put a "
 "+1/+1 counter on Champion of Lambholt."
 msgstr ""
+"Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, umieść "
+"znacznik +1/+1 na niniejszym stworze."
 
 #: ../../SCD.rst:960
 msgid ""
@@ -2851,7 +3182,7 @@ msgstr ""
 
 #: ../../SCD.rst:963 ../../SCD.rst:1151
 msgid "Draw a card for each creature you control."
-msgstr ""
+msgstr "Dobierz kartę za każdego stwora pod twoim władaniem."
 
 #: ../../SCD.rst:968
 msgid ""
@@ -2865,6 +3196,8 @@ msgid ""
 "Search your library for up to two basic land cards, reveal those cards, put "
 "one onto the battlefield tapped and the other into your hand, then shuffle."
 msgstr ""
+"Wyszukaj w twojej bibliotece dwie karty bazowych lądów, ujawnij je i umieść "
+"jedną przekręconą na polu bitwy, a drugą w twojej ręce, po czym przetasuj."
 
 #: ../../SCD.rst:974
 msgid ""
@@ -2879,6 +3212,9 @@ msgid ""
 "control. Each opponent attacking that player untaps all nonland permanents "
 "they control."
 msgstr ""
+"Ilekroć zauroczony stwór jest zaatakowany, odkręć wszystkie nielądowe byty "
+"pod twoim władaniem. Każdy przeciwnik atakujący owego gracza odkręca "
+"wszystkie nielądowe byty pod swoim władaniem."
 
 #: ../../SCD.rst:980
 msgid ""
@@ -2892,13 +3228,15 @@ msgid ""
 "At the beginning of your end step, if you control a creature with power 5 or "
 "greater, you may draw a card."
 msgstr ""
+"Na początku twojego kroku końcowego, jeśli władasz stworem o sile 5 lub "
+"większej, możesz dobrać kartę."
 
 #: ../../SCD.rst:979 ../../SCD.rst:1545 ../../SCD.rst:1551 ../../SCD.rst:1557
 #: ../../SCD.rst:1563 ../../SCD.rst:1569 ../../SCD.rst:1577 ../../SCD.rst:1581
 #: ../../SCD.rst:1695 ../../SCD.rst:1731 ../../SCD.rst:1739 ../../SCD.rst:1747
 #: ../../SCD.rst:1805 ../../SCD.rst:1889
 msgid "|tap|: Add |colorless|."
-msgstr ""
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../SCD.rst:984
 msgid ""
@@ -2912,6 +3250,8 @@ msgid ""
 "Whenever a creature with power 3 or greater enters the battlefield under "
 "your control, draw a card."
 msgstr ""
+"Ilekroć stwór o sile 3 lub większej wejdzie na pole bitwy pod twoim "
+"władaniem, dobierz kartę."
 
 #: ../../SCD.rst:988
 msgid ""
@@ -2925,6 +3265,8 @@ msgid ""
 "When Eternal Witness enters the battlefield, you may return target card from "
 "your graveyard to your hand."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, możesz przywrócić wskazaną kartę z "
+"twojego cmentarza do twojej ręki."
 
 #: ../../SCD.rst:992
 msgid ""
@@ -2938,6 +3280,9 @@ msgid ""
 "When Farhaven Elf enters the battlefield, you may search your library for a "
 "basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"kartę bazowego lądu i umieścić ją przekręconą na polu bitwy, po czym "
+"przetasuj."
 
 #: ../../SCD.rst:1000
 msgid ""
@@ -2951,12 +3296,16 @@ msgid ""
 "When Foe-Razer Regent enters the battlefield, you may have it fight target "
 "creature you don't control."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, możesz sprawić, że będzie walczył ze "
+"wskazanym stworem poza twoim władaniem."
 
 #: ../../SCD.rst:999
 msgid ""
 "Whenever a creature you control fights, put two +1/+1 counters on it at the "
 "beginning of the next end step."
 msgstr ""
+"Ilekroć stwór pod twoim władaniem wlaczy, umieść na nim dwa znaczniki +1/+1 "
+"na początku najbliższego kroku końcowego."
 
 #: ../../SCD.rst:1008
 msgid ""
@@ -2967,19 +3316,23 @@ msgstr ""
 
 #: ../../SCD.rst:1003
 msgid "As Frontier Siege enters the battlefield, choose Khans or Dragons."
-msgstr ""
+msgstr "Przy wejściu tego bytu na pole bitwy wybierz Chanów lub Smoki."
 
 #: ../../SCD.rst:1005
 msgid ""
 "Khans — At the beginning of each of your main phases, add |mana_g|\\ |"
 "mana_g|."
 msgstr ""
+"Chanowie — Z początkiem każdej z twoich faz głównych dodaj |mana_g|\\ "
+"|mana_g| do twojej puli many."
 
 #: ../../SCD.rst:1007
 msgid ""
 "Dragons — Whenever a creature with flying enters the battlefield under your "
 "control, you may have it fight target creature you don't control."
 msgstr ""
+"Smoki — Ilekroć stwór z lataniem wejdzie na pole bitwy pod twoim władaniem, "
+"możesz sprawić, by walczył ze wskazanym stworem poza twoim władaniem."
 
 #: ../../SCD.rst:1016
 msgid ""
@@ -2993,18 +3346,24 @@ msgid ""
 "When Garruk's Uprising enters the battlefield, if you control a creature "
 "with power 4 or greater, draw a card."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, jeśli władasz stworem o sile 4 lub "
+"większej, dobierz kartę."
 
 #: ../../SCD.rst:1013
 msgid ""
 "Creatures you control have trample. (They can deal excess combat damage to "
 "the player or planeswalker they're attacking.)"
 msgstr ""
+"Stwory pod twoim władaniem mają tratowanie. (Mogą zadać nadmiar obrażeń "
+"bojowych atakowanemu graczowi lub wędrowcowi.)"
 
 #: ../../SCD.rst:1015
 msgid ""
 "Whenever a creature with power 4 or greater enters the battlefield under "
 "your control, draw a card."
 msgstr ""
+"Ilekroć stwór o sile 4 lub większej wejdzie na pole bitwy pod twoim "
+"władaniem, dobierz kartę."
 
 #: ../../SCD.rst:1024
 msgid ""
@@ -3015,17 +3374,19 @@ msgstr ""
 
 #: ../../SCD.rst:1019 ../../SCD.rst:1377
 msgid "Flash (You may cast this spell any time you could cast an instant.)"
-msgstr ""
+msgstr "Błysk (Możesz rzucić ten czar jako sztuczkę.)"
 
 #: ../../SCD.rst:1021 ../../SCD.rst:1061
 msgid "Reach"
-msgstr ""
+msgstr "Zasięg"
 
 #: ../../SCD.rst:1023
 msgid ""
 "When Great Oak Guardian enters the battlefield, creatures target player "
 "controls get +2/+2 until end of turn. Untap them."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, stwory pod władaniem wskazanego gracza "
+"dostają do końca tury +2/+2. Odkręć je."
 
 #: ../../SCD.rst:1028
 msgid ""
@@ -3036,7 +3397,7 @@ msgstr ""
 
 #: ../../SCD.rst:1027
 msgid "Draw three cards."
-msgstr ""
+msgstr "Dobierz trzy karty."
 
 #: ../../SCD.rst:1032
 msgid ""
@@ -3051,6 +3412,9 @@ msgid ""
 "tapped creatures you control, put those cards onto the battlefield tapped, "
 "then shuffle."
 msgstr ""
+"Wyszukaj w twojej bibliotece co najwyżej X kart bazowych lądów, gdzie X jest "
+"liczbą przekręconych stworów pod twoim władaniem, umieść owe karty "
+"przekręcone na polu bitwy, po czym przetasuj."
 
 #: ../../SCD.rst:1038
 msgid ""
@@ -3061,7 +3425,7 @@ msgstr ""
 
 #: ../../SCD.rst:1035
 msgid "Defender (This creature can't attack.)"
-msgstr ""
+msgstr "Obronność (Ten stwór nie może atakować.)"
 
 #: ../../SCD.rst:1037
 msgid ""
@@ -3069,6 +3433,9 @@ msgid ""
 "creature tokens with flying and deathtouch. (Any amount of damage a creature "
 "with deathtouch deals to a creature is enough to destroy it.)"
 msgstr ""
+"Ilekroć ten stwór otrzyma obrażenia, stwórz tyle samo żetonów zielonego "
+"stwora Owad 1/1 z lataniem i dotykiem śmierci. (Stwór otrzymujący od niego "
+"jakiekolwiek obrażenia zostaje zniszczony.)"
 
 #: ../../SCD.rst:1046
 msgid ""
@@ -3082,12 +3449,16 @@ msgid ""
 "Deathtouch (Any amount of damage this deals to a creature is enough to "
 "destroy it.)"
 msgstr ""
+"Dotyk śmierci. (Stwór otrzymujący od niniejszego jakiekolwiek obrażenia "
+"zostaje zniszczony.)"
 
 #: ../../SCD.rst:1045
 msgid ""
 "When Hornet Queen enters the battlefield, create four 1/1 green Insect "
 "creature tokens with flying and deathtouch."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, stwórz cztery żetony stwora Owad 1/1 z "
+"lataniem i dotykiem śmierci."
 
 #: ../../SCD.rst:1050
 msgid ""
@@ -3101,6 +3472,8 @@ msgid ""
 "Choose target creature you control. Whenever that creature deals combat "
 "damage to a player or planeswalker this turn, draw that many cards."
 msgstr ""
+"Wybierz wskazanego stwora pod twoim władaniem. Ilekroć w tej turze ów stwór "
+"zada graczowi lub wędrowcowi obrażenia bojowe, dobierz tyle samo kart."
 
 #: ../../SCD.rst:1054
 msgid ""
@@ -3115,6 +3488,8 @@ msgid ""
 "\"Whenever this creature deals combat damage to a player, draw that many "
 "cards.\""
 msgstr ""
+"Do końca tury wskazany stwór dostaje +3/+3, tratowanie oraz \"Ilekroć ten "
+"stwór zada graczowi obrażenia bojowe, dobierz tyle samo kart.\""
 
 #: ../../SCD.rst:1058
 msgid ""
@@ -3125,7 +3500,7 @@ msgstr ""
 
 #: ../../SCD.rst:1057
 msgid "|mana_2|\\ |mana_g|: Create a 1/1 green Saproling creature token."
-msgstr ""
+msgstr "|mana_2|\\ |mana_g|: Stwórz żeton zielonego stwora Sadzonka 1/1."
 
 #: ../../SCD.rst:1064
 msgid ""
@@ -3137,6 +3512,8 @@ msgstr ""
 #: ../../SCD.rst:1063 ../../SCD.rst:1705
 msgid "|tap|, Tap an untapped creature you control: Add one mana of any color."
 msgstr ""
+"|tap|, przekręć odkręconego stwora pod twoim władaniem: Weź jedną manę "
+"dowolnego koloru."
 
 #: ../../SCD.rst:1072
 msgid ""
@@ -3147,11 +3524,11 @@ msgstr ""
 
 #: ../../SCD.rst:1069
 msgid "When Karametra's Favor enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../SCD.rst:1071
 msgid "Enchanted creature has \"|tap|: Add one mana of any color.\""
-msgstr ""
+msgstr "Zauroczony stwór ma \"|tap|: Weź jedną manę dowolnego koloru.\""
 
 #: ../../SCD.rst:1076
 msgid ""
@@ -3165,6 +3542,8 @@ msgid ""
 "|tap|: Add |mana_g|. If you control four or more creatures, add |mana_g|\\ |"
 "mana_g| instead."
 msgstr ""
+"|tap|: Weź |mana_g|. Jeśli władasz co najmniej czterema stworami, zamiast "
+"tego weź |mana_g|\\ |mana_g|."
 
 #: ../../SCD.rst:1080
 msgid ""
@@ -3178,6 +3557,8 @@ msgid ""
 "When Loaming Shaman enters the battlefield, target player shuffles any "
 "number of target cards from their graveyard into their library."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, wskazany gracz wtasowuje dowolną liczbę "
+"wskazanych kart ze swojego cmentarza do swojej biblioteki."
 
 #: ../../SCD.rst:1086
 msgid ""
@@ -3188,13 +3569,15 @@ msgstr ""
 
 #: ../../SCD.rst:1083 ../../SCD.rst:1161
 msgid "Trample"
-msgstr ""
+msgstr "Tratowanie"
 
 #: ../../SCD.rst:1085
 msgid ""
 "Lieutenant — At the beginning of combat on your turn, if you control your "
 "commander, put a +1/+1 counter on each creature you control."
 msgstr ""
+"Porucznik — Na początku potyczki w twojej turze, jeśli władasz swoim "
+"dowódcą, umieść znacznik +1/+1 na każdym stworze pod twoim władaniem."
 
 #: ../../SCD.rst:1092
 msgid ""
@@ -3208,6 +3591,8 @@ msgid ""
 "Search your library for up to two basic land cards, put them onto the "
 "battlefield tapped, then shuffle."
 msgstr ""
+"Wyszukaj w twojej bibliotece co najwyżej dwie karty bazowych lądów, umieść "
+"je przekręcone na polu bitwy, po czym przetasuj."
 
 #: ../../SCD.rst:1096
 msgid ""
@@ -3231,7 +3616,7 @@ msgstr ""
 
 #: ../../SCD.rst:1099
 msgid "Creatures you control get +3/+3 and gain trample until end of turn."
-msgstr ""
+msgstr "Stwory pod twoim władaniem dostają do końca tury +3/+3 i tratowanie."
 
 #: ../../SCD.rst:1104
 msgid ""
@@ -3256,6 +3641,8 @@ msgid ""
 "Enchanted creature has \"|tap|: Create a 1/1 green Elf Warrior creature "
 "token.\""
 msgstr ""
+"Zauroczony stwór ma \"|tap|: Stwórz żeton zielonego stwora Elf Wojownik 1/1."
+"\""
 
 #: ../../SCD.rst:1114
 msgid ""
@@ -3269,6 +3656,8 @@ msgid ""
 "Target creature you control gets +X/+X until end of turn. Then it fights up "
 "to one target creature you don't control."
 msgstr ""
+"Wskazany stwór pod twoim władaniem do końca tury dostaje +X/+X. Następnie "
+"walczy z co najwyżej jednym wskazanym stworem poza twoim władaniem."
 
 #: ../../SCD.rst:1118
 msgid ""
@@ -3282,6 +3671,8 @@ msgid ""
 "When Reclamation Sage enters the battlefield, you may destroy target "
 "artifact or enchantment."
 msgstr ""
+"Kiedy ta karta wejdzie na pole bitwy, możesz zniszczyć wskazany artefakt lub "
+"urok."
 
 #: ../../SCD.rst:1128
 msgid ""
@@ -3292,11 +3683,11 @@ msgstr ""
 
 #: ../../SCD.rst:1125
 msgid "Destroy target enchantment."
-msgstr ""
+msgstr "Zniszcz wskazany urok."
 
 #: ../../SCD.rst:1127
 msgid "Exile target card from a graveyard."
-msgstr ""
+msgstr "Wygnaj wskazaną kartę z cmentarza."
 
 #: ../../SCD.rst:1134
 msgid ""
@@ -3310,11 +3701,15 @@ msgid ""
 "When Rishkar, Peema Renegade enters the battlefield, put a +1/+1 counter on "
 "each of up to two target creatures."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, umieść znacznik +1/+1 na każdym z co "
+"najwyżej dwóch wskazanych stworów."
 
 #: ../../SCD.rst:1133
 msgid ""
 "Each creature you control with a counter on it has \"|tap|: Add |mana_g|.\""
 msgstr ""
+"Każdy stwór pod twoim władaniem mający jakiś znacznik ma \"|tap|: Weź "
+"|mana_g|.\""
 
 #: ../../SCD.rst:1138
 msgid ""
@@ -3328,6 +3723,8 @@ msgid ""
 "Sacrifice Sakura-Tribe Elder: Search your library for a basic land card, put "
 "that card onto the battlefield tapped, then shuffle."
 msgstr ""
+"Poświęć tego stwora: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
+"umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../SCD.rst:1144
 msgid ""
@@ -3338,7 +3735,7 @@ msgstr ""
 
 #: ../../SCD.rst:1143
 msgid "Create three 1/1 green Saproling creature tokens."
-msgstr ""
+msgstr "Stwórz trzy żetony zielonego stwora Sadzonka 1/1."
 
 #: ../../SCD.rst:1148
 msgid ""
@@ -3352,6 +3749,8 @@ msgid ""
 "|mana_g|: Exile target card from a graveyard. If it was a creature card, put "
 "a +1/+1 counter on Scavenging Ooze and you gain 1 life."
 msgstr ""
+"|mana_g|: Wygnaj wskazaną kartę z cmentarza. Jeśli była to karta stwora, "
+"umieść znacznik +1/+1 na tym stworze i zyskaj 1 życie."
 
 #: ../../SCD.rst:1154
 msgid ""
@@ -3365,6 +3764,8 @@ msgid ""
 "Ferocious — You gain 4 life for each creature you control with power 4 or "
 "greater."
 msgstr ""
+"Zaciekłość — Zyskaj 4 życia za każdego stwora o sile 4 lub większej pod "
+"twoim władaniem."
 
 #: ../../SCD.rst:1158
 msgid ""
@@ -3378,6 +3779,8 @@ msgid ""
 "Landfall — Whenever a land enters the battlefield under your control, create "
 "a 1/1 green Saproling creature token."
 msgstr ""
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, stwórz "
+"żeton zielonego stwora Sadzonka 1/1."
 
 #: ../../SCD.rst:1164
 msgid ""
@@ -3391,6 +3794,8 @@ msgid ""
 "Lieutenant — As long as you control your commander, Thunderfoot Baloth gets "
 "+2/+2 and other creatures you control get +2/+2 and have trample."
 msgstr ""
+"Porucznik — O ile władasz swoim dowódcą, ten stwór dostaje +2/+2 i wszystkie "
+"inne stwory pod twoim władaniem dostają +2/+2 i mają tratowanie."
 
 #: ../../SCD.rst:1168
 msgid ""
@@ -3403,6 +3808,8 @@ msgstr ""
 msgid ""
 "At the beginning of each upkeep, create a 1/1 green Saproling creature token."
 msgstr ""
+"Na początku każdego kroku utrzymania, stwórz żeton zielonego stwora Sadzonka "
+"1/1."
 
 #: ../../SCD.rst:1172
 msgid ""
@@ -3416,6 +3823,8 @@ msgid ""
 "When Voice of Many enters the battlefield, draw a card for each opponent who "
 "controls fewer creatures than you."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, dobierz kartę za każdego przeciwnika, "
+"który ma we władaniu mniej stworów niż ty."
 
 #: ../../SCD.rst:1176
 msgid ""
@@ -3426,7 +3835,7 @@ msgstr ""
 
 #: ../../SCD.rst:1175
 msgid "Counter target spell. You gain 3 life."
-msgstr ""
+msgstr "Skontruj wskazany czar. Zyskaj 3 życia."
 
 #: ../../SCD.rst:1180
 msgid ""
@@ -3440,6 +3849,8 @@ msgid ""
 "Destroy target enchantment. Create X 1/1 green Saproling creature tokens, "
 "where X is that enchantment's mana value."
 msgstr ""
+"Zniszcz wskazany urok. Stwórz X żetonów zielonego stwora Sadzonka 1/1, gdzie "
+"X jest skrótem many owego uroku."
 
 #: ../../SCD.rst:1184
 msgid ""
@@ -3450,7 +3861,7 @@ msgstr ""
 
 #: ../../SCD.rst:1183
 msgid "Breath of Malfegor deals 5 damage to each opponent."
-msgstr ""
+msgstr "Ten czar zadaje każdemu przeciwnikowi po 5 obrażeń."
 
 #: ../../SCD.rst:1188
 msgid ""
@@ -3464,6 +3875,8 @@ msgid ""
 "You gain X life and draw X cards, where X is the number of creatures you "
 "control. Creatures you control get +1/+1 until end of turn."
 msgstr ""
+"Zyskaj X żyć i dobierz X kart, gdzie X jest liczbą stworów pod twoim "
+"władaniem. Stwory pod twoim władaniem dostają do końca tury +1/+1."
 
 #: ../../SCD.rst:1198
 msgid ""
@@ -3474,19 +3887,19 @@ msgstr ""
 
 #: ../../SCD.rst:1191
 msgid "Choose one or more —"
-msgstr ""
+msgstr "Wybierz jedną lub więcej —"
 
 #: ../../SCD.rst:1193
 msgid "Clan Defiance deals X damage to target creature with flying."
-msgstr ""
+msgstr "Ten czar zadaje X obrażeń wskazanemu stworowi z lataniem."
 
 #: ../../SCD.rst:1195
 msgid "Clan Defiance deals X damage to target creature without flying."
-msgstr ""
+msgstr "Ten czar zadaje X obrażeń wskazanemu stworowi bez latania."
 
 #: ../../SCD.rst:1197
 msgid "Clan Defiance deals X damage to target player or planeswalker."
-msgstr ""
+msgstr "Ten czar zadaje X obrażeń wskazanemu graczowi lub wędrowcowi."
 
 #: ../../SCD.rst:1204
 msgid ""
@@ -3499,6 +3912,7 @@ msgstr ""
 msgid ""
 "When Cloudblazer enters the battlefield, you gain 2 life and draw two cards."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, zyskaj 2 życia i dobierz dwie karty."
 
 #: ../../SCD.rst:1208
 msgid ""
@@ -3509,7 +3923,7 @@ msgstr ""
 
 #: ../../SCD.rst:1207
 msgid "Creatures you control get +3/+3."
-msgstr ""
+msgstr "Stwory pod twoim władaniem dostają +3/+3."
 
 #: ../../SCD.rst:1212
 msgid ""
@@ -3523,6 +3937,8 @@ msgid ""
 "Sacrifice Dauntless Escort: Creatures you control gain indestructible until "
 "end of turn."
 msgstr ""
+"Poświęć ten byt: Stwory pod twoim władaniem zyskują do końca tury "
+"niezniszczalność."
 
 #: ../../SCD.rst:1220
 msgid ""
@@ -3534,6 +3950,8 @@ msgstr ""
 #: ../../SCD.rst:1219
 msgid "Whenever another Zombie you control dies, target opponent loses 1 life."
 msgstr ""
+"Ilekroć umrze inne Zombi pod twoim władaniem, wskazany przeciwnik traci 1 "
+"życie."
 
 #: ../../SCD.rst:1226
 msgid ""
@@ -3544,13 +3962,15 @@ msgstr ""
 
 #: ../../SCD.rst:1223 ../../SCD.rst:1453
 msgid "|tap|: Add one mana of any color."
-msgstr ""
+msgstr "|tap|: Weź jedną manę dowolnego koloru."
 
 #: ../../SCD.rst:1225
 msgid ""
 "|mana_7|, |tap|, Sacrifice Draconic Disciple: Create a 5/5 red Dragon "
 "creature token with flying."
 msgstr ""
+"|mana_7|, |tap|, poświęć tego stwora: Stwórz żeton czerwonego stwora Smok 5/"
+"5 z lataniem."
 
 #: ../../SCD.rst:1232
 msgid ""
@@ -3561,7 +3981,7 @@ msgstr ""
 
 #: ../../SCD.rst:1231 ../../SCD.rst:1381
 msgid "Other creatures you control with flying get +1/+1."
-msgstr ""
+msgstr "Inne stwory pod twoim władaniem mające latanie dostają +1/+1."
 
 #: ../../SCD.rst:1236
 msgid ""
@@ -3577,6 +3997,10 @@ msgid ""
 "(Put four +1/+1 counters on an Army you control. If you don't control one, "
 "create a 0/0 black Zombie Army creature token first.)"
 msgstr ""
+"Ten czar zadaje 4 obrażenia wskazanemu stworowi, a ty zyskaj życia równe "
+"obrażeniom zadanym w ten sposób. Wskazany gracz mieli cztery karty. Zgromadź "
+"4. (Umieść 4 znaczniki +1/+1 na Armii pod twoim władaniem. Jeśli żadną nie "
+"władasz, stwórz najpierw żeton czarnego stwora Armia Zombi 0/0.)"
 
 #: ../../SCD.rst:1242
 msgid ""
@@ -3587,12 +4011,12 @@ msgstr ""
 
 #: ../../SCD.rst:1239
 msgid "Creatures you control have haste."
-msgstr ""
+msgstr "Stwory pod twoim władaniem mają pośpiech."
 
 #: ../../SCD.rst:1241
 msgid ""
 "Sacrifice Fires of Yavimaya: Target creature gets +2/+2 until end of turn."
-msgstr ""
+msgstr "Poświęć ten byt: Wskazany stwór do końca tury dostaje +2/+2."
 
 #: ../../SCD.rst:1248
 msgid ""
@@ -3607,10 +4031,13 @@ msgid ""
 "on an Army you control. If you don't control one, create a 0/0 black Zombie "
 "Army creature token first.)"
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, zgromadź 1. (Umieść znacznik +1/+1 na "
+"Armii pod twoim władaniem. Jeśli żadną nie władasz, stwórz najpierw żeton "
+"czarnego stwora Armia Zombi 0/0.)"
 
 #: ../../SCD.rst:1247
 msgid "Zombie tokens you control have hexproof and menace."
-msgstr ""
+msgstr "Żetony Zombi pod twoim władaniem mają antyklątwę i złowrogość."
 
 #: ../../SCD.rst:1256
 msgid ""
@@ -3624,12 +4051,16 @@ msgid ""
 "|mana_2|\\ |mana_r|: Harbinger of the Hunt deals 1 damage to each creature "
 "without flying."
 msgstr ""
+"|mana_2|\\ |mana_r|: Ten stwór zadaje każdemu stworowi bez latania po 1 "
+"obrażeniu."
 
 #: ../../SCD.rst:1255
 msgid ""
 "|mana_2|\\ |mana_g|: Harbinger of the Hunt deals 1 damage to each other "
 "creature with flying."
 msgstr ""
+"|mana_2|\\ |mana_g|: Ten stwór zadaje każdemu stworowi z lataniem po 1 "
+"obrażeniu."
 
 #: ../../SCD.rst:1260
 msgid ""
@@ -3644,6 +4075,9 @@ msgid ""
 "you cast it this turn, Havengul Lich gains all activated abilities of that "
 "card until end of turn."
 msgstr ""
+"|mana_1|: Możesz w tej turze rzucić wskazaną kartę stwora z twojego "
+"cmentarza. Kiedy go rzucisz w tej turze, niniejszy stwór do końca tury "
+"zyskuje wszystkie aktywowane zdolności owej karty."
 
 #: ../../SCD.rst:1266
 msgid ""
@@ -3657,6 +4091,8 @@ msgid ""
 "Creatures you control with flying have \"Spells your opponents cast that "
 "target this creature cost |mana_2| more to cast.\""
 msgstr ""
+"Stwory pod twoim władaniem mające latanie mają \"Rzucanie czarów "
+"wskazujących tego stwora kosztuje twoich przeciwników o |mana_2| więcej.\""
 
 #: ../../SCD.rst:1270
 msgid ""
@@ -3670,6 +4106,8 @@ msgid ""
 "Whenever an opponent casts a spell, Kaervek the Merciless deals damage equal "
 "to that spell's mana value to any target."
 msgstr ""
+"Ilekroć przeciwnik rzuci czar, ten stwór zadaje wskazanemu celowi obrażenia "
+"równe skrótowi many owego czaru."
 
 #: ../../SCD.rst:1278
 msgid ""
@@ -3680,7 +4118,7 @@ msgstr ""
 
 #: ../../SCD.rst:1273
 msgid "Flying, vigilance"
-msgstr ""
+msgstr "Latanie, czujność"
 
 #: ../../SCD.rst:1275
 msgid ""
@@ -3703,13 +4141,15 @@ msgstr ""
 
 #: ../../SCD.rst:1281 ../../SCD.rst:1389
 msgid "Other creatures you control get +1/+1."
-msgstr ""
+msgstr "Inne stwory pod twoim władaniem dostają +1/+1."
 
 #: ../../SCD.rst:1283
 msgid ""
 "Landfall — Whenever a land enters the battlefield under your control, create "
 "a 1/1 white Human Warrior creature token."
 msgstr ""
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, stwórz "
+"żeton białego stwora Człowiek Wojownik 1/1."
 
 #: ../../SCD.rst:1290
 msgid ""
@@ -3720,7 +4160,7 @@ msgstr ""
 
 #: ../../SCD.rst:1289
 msgid "Create X 1/1 white Soldier creature tokens with lifelink."
-msgstr ""
+msgstr "Stwórz X żetonów białego stwora Piechur 1/1 z więzią życia."
 
 #: ../../SCD.rst:1296
 msgid ""
@@ -3731,13 +4171,16 @@ msgstr ""
 
 #: ../../SCD.rst:1293
 msgid "Create four 1/1 white Bird creature tokens with flying."
-msgstr ""
+msgstr "Stwórz cztery żetony białego stwora Ptak 1/1 z lataniem."
 
 #: ../../SCD.rst:1295 ../../SCD.rst:1361
 msgid ""
 "Basic landcycling |mana_2| (|mana_2|, Discard this card: Search your library "
 "for a basic land card, reveal it, put it into your hand, then shuffle.)"
 msgstr ""
+"Lądocykling bazowych |mana_2| (|mana_2|, odrzuć tę kartę: Wyszukaj w twojej "
+"bibliotece kartę bazowego lądu, ujawnij ją, umieść ją w twojej ręce, po czym "
+"przetasuj.)"
 
 #: ../../SCD.rst:1300
 msgid ""
@@ -3748,7 +4191,7 @@ msgstr ""
 
 #: ../../SCD.rst:1299
 msgid "Target player mills two cards. Draw two cards."
-msgstr ""
+msgstr "Wskazany gracz mieli dwie karty. Dobierz dwie karty."
 
 #: ../../SCD.rst:1310
 msgid ""
@@ -3759,11 +4202,11 @@ msgstr ""
 
 #: ../../SCD.rst:1305
 msgid "Exile target player's graveyard."
-msgstr ""
+msgstr "Wygnaj cmentarz wskazanego gracza."
 
 #: ../../SCD.rst:1309
 msgid "Each creature deals 1 damage to its controller."
-msgstr ""
+msgstr "Każdy stwór zadaje swojemu władcy po 1 obrażeniu."
 
 #: ../../SCD.rst:1316
 msgid ""
@@ -3778,6 +4221,9 @@ msgid ""
 "mana_g|\\ |mana_g|\\ |mana_g|. Until end of turn, you don't lose this mana "
 "as steps and phases end."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, weź |mana_r|\\ |mana_r|\\ |mana_r|\\ |mana_g|\\ "
+"|mana_g|\\ |mana_g|. Do końca tury nie tracisz owej many podczas końców "
+"kroków i faz."
 
 #: ../../SCD.rst:1320
 msgid ""
@@ -3791,6 +4237,8 @@ msgid ""
 "|mana_1|, |tap|, Tap an untapped creature you control: Create a 1/1 green "
 "Saproling creature token."
 msgstr ""
+"|mana_1|, |tap|, przekręć odkręconego stwora pod twoim władaniem: Stwórz "
+"żeton zielonego stwora Saproling 1/1."
 
 #: ../../SCD.rst:1326
 msgid ""
@@ -3801,11 +4249,12 @@ msgstr ""
 
 #: ../../SCD.rst:1323
 msgid "|mana_3|\\ |mana_g|: Create a 1/1 green Saproling creature token."
-msgstr ""
+msgstr "|mana_3|\\ |mana_g|: Stwórz żeton zielonego stwora Sadzonka 1/1."
 
 #: ../../SCD.rst:1325
 msgid "|mana_3|\\ |mana_w|: Creatures you control get +1/+1 until end of turn."
 msgstr ""
+"|mana_3|\\ |mana_w|: Stwory pod twoim władaniem dostają +1/+1 do końca tury."
 
 #: ../../SCD.rst:1334
 msgid ""
@@ -3818,12 +4267,16 @@ msgstr ""
 msgid ""
 "Skycat Sovereign gets +1/+1 for each other creature you control with flying."
 msgstr ""
+"Ten stwór dostaje +1/+1 za każdego innego stwora pod twoim władaniem "
+"mającego latanie."
 
 #: ../../SCD.rst:1333
 msgid ""
 "|mana_2|\\ |mana_w|\\ |mana_u|: Create a 1/1 white Cat Bird creature token "
 "with flying."
 msgstr ""
+"|mana_2|\\ |mana_w|\\ |mana_u|: Stwórz żeton białego stwora Kot Ptak 1/1 z "
+"lataniem."
 
 #: ../../SCD.rst:1338
 msgid ""
@@ -3834,7 +4287,7 @@ msgstr ""
 
 #: ../../SCD.rst:1337
 msgid "You gain X life and draw X cards."
-msgstr ""
+msgstr "Zyskaj X żyć i dobierz X kart."
 
 #: ../../SCD.rst:1344
 msgid ""
@@ -3848,6 +4301,8 @@ msgid ""
 "At the beginning of each player's draw step, that player draws an additional "
 "card."
 msgstr ""
+"Na początku kroku dobierania każdego z graczy, ów gracz dobiera dodatkową "
+"kartę."
 
 #: ../../SCD.rst:1343
 msgid ""
@@ -3867,6 +4322,8 @@ msgid ""
 "Enchanted creature gets +1/+1 and has lifelink and \"Whenever this creature "
 "deals combat damage to a player, draw a card.\""
 msgstr ""
+"Zauroczony stwór dostaje +1/+1 i ma więź życia oraz \"Ilekroć ten stwór zada "
+"graczowi obrażenia bojowe, dobierz kartę.\""
 
 #: ../../SCD.rst:1356
 msgid ""
@@ -3879,6 +4336,8 @@ msgstr ""
 msgid ""
 "At the beginning of your upkeep, each player draws a card and loses 1 life."
 msgstr ""
+"Na początku twojego kroku utrzymania, każdy gracz dobiera kartę i traci po 1 "
+"życiu."
 
 #: ../../SCD.rst:1362
 msgid ""
@@ -3889,7 +4348,7 @@ msgstr ""
 
 #: ../../SCD.rst:1359
 msgid "Exile up to two target artifacts and/or enchantments."
-msgstr ""
+msgstr "Wygnaj co najwyżej dwa wskazane artefakty i/lub uroki."
 
 #: ../../SCD.rst:1366
 msgid ""
@@ -3900,7 +4359,7 @@ msgstr ""
 
 #: ../../SCD.rst:1365
 msgid "Destroy target creature. It can't be regenerated."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora. Nie może być zregenerowany."
 
 #: ../../SCD.rst:1374
 msgid ""
@@ -3912,18 +4371,24 @@ msgstr ""
 #: ../../SCD.rst:1369
 msgid "At the beginning of your upkeep, exile the top card of your library."
 msgstr ""
+"Na początku twojego kroku utrzymania, wygnaj wierzchnią kartę twojej "
+"biblioteki."
 
 #: ../../SCD.rst:1371
 msgid ""
 "During your turn, if an opponent lost life this turn, you may play lands and "
 "cast spells from among cards exiled with Theater of Horrors."
 msgstr ""
+"W trakcie twojej tury, jeśli przeciwnik stracił życie w tej turze, możesz "
+"zagrywać lądy i rzucać czary wygnane przy użyciu tego uroku."
 
 #: ../../SCD.rst:1373
 msgid ""
 "|mana_3|\\ |mana_r|: Theater of Horrors deals 1 damage to target opponent or "
 "planeswalker."
 msgstr ""
+"|mana_3|\\ |mana_r|: Ten urok zadaje wskazanemu przeciwnikowi lub wędrowcowi "
+"1 obrażenie."
 
 #: ../../SCD.rst:1382
 msgid ""
@@ -3944,6 +4409,8 @@ msgid ""
 "Return a creature you control to its owner's hand, then destroy all "
 "creatures."
 msgstr ""
+"Przywróć stwora pod twoim władaniem do ręki jego właściciela, po czym "
+"zniszcz wszystkie stwory."
 
 #: ../../SCD.rst:1394
 msgid ""
@@ -3957,12 +4424,16 @@ msgid ""
 "When Trostani Discordant enters the battlefield, create two 1/1 white "
 "Soldier creature tokens with lifelink."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, stwórz dwa żetony białego stwora "
+"Piechur 1/1 z więzią życia."
 
 #: ../../SCD.rst:1393
 msgid ""
 "At the beginning of your end step, each player gains control of all "
 "creatures they own."
 msgstr ""
+"Na początku twojego kroku końcowego, każdy gracz zyskuje władanie nad "
+"wszystkimi własnymi stworami."
 
 #: ../../SCD.rst:1398
 msgid ""
@@ -3987,6 +4458,8 @@ msgid ""
 "Destroy target creature. If you control an artifact, Unlicensed "
 "Disintegration deals 3 damage to that creature's controller."
 msgstr ""
+"Zniszcz wskazanego stwora. Jeśli władasz artefaktem, ten czar zadaje władcy "
+"owego stwora 3 obrażenia."
 
 #: ../../SCD.rst:1410
 msgid ""
@@ -3997,13 +4470,15 @@ msgstr ""
 
 #: ../../SCD.rst:1407
 msgid "Other creatures you control have intimidate."
-msgstr ""
+msgstr "Inne stwory pod twoim władaniem mają zastraszanie."
 
 #: ../../SCD.rst:1409
 msgid ""
 "Whenever Vela the Night-Clad or another creature you control leaves the "
 "battlefield, each opponent loses 1 life."
 msgstr ""
+"Ilekroć ten lub inny stwór pod twoim władaniem opuści pole bitwy, każdy "
+"przeciwnik traci po 1 życiu."
 
 #: ../../SCD.rst:1414
 msgid ""
@@ -4014,7 +4489,7 @@ msgstr ""
 
 #: ../../SCD.rst:1413 ../../SCD.rst:1431 ../../SCD.rst:1651
 msgid "|tap|: Add one mana of any color in your commander's color identity."
-msgstr ""
+msgstr "|tap|: Weź jedną manę w jednym z kolorów tożsamości twojego dowódcy."
 
 #: ../../SCD.rst:1420
 msgid ""
@@ -4026,13 +4501,15 @@ msgstr ""
 #: ../../SCD.rst:1417 ../../SCD.rst:1683 ../../SCD.rst:1721 ../../SCD.rst:1775
 #: ../../SCD.rst:1795 ../../SCD.rst:1827 ../../SCD.rst:1865
 msgid "|tap|: Add |mana_r| or |mana_g|."
-msgstr ""
+msgstr "|tap|: Weź |mana_r| lub |mana_g|."
 
 #: ../../SCD.rst:1419
 msgid ""
 "|mana_4|\\ |mana_r|\\ |mana_g|: Atarka Monument becomes a 4/4 red and green "
 "Dragon artifact creature with flying until end of turn."
 msgstr ""
+"|mana_4|\\ |mana_r|\\ |mana_g|: Ten artefakt do końca tury staje się "
+"czerwono-zielonym artefaktowym stworem Smok 4/4 z lataniem."
 
 #: ../../SCD.rst:1424
 msgid ""
@@ -4043,7 +4520,7 @@ msgstr ""
 
 #: ../../SCD.rst:1423
 msgid "|mana_1|, |tap|: Add |mana_w|\\ |mana_u|."
-msgstr ""
+msgstr "|mana_1|, |tap|: Weź |mana_w|\\ |mana_u|."
 
 #: ../../SCD.rst:1428
 msgid ""
@@ -4057,6 +4534,8 @@ msgid ""
 "|mana_3|, Sacrifice Burnished Hart: Search your library for up to two basic "
 "land cards, put them onto the battlefield tapped, then shuffle."
 msgstr ""
+"|mana_3|, poświęć tego stwora: Wyszukaj w twojej bibliotece co najwyżej dwie "
+"karty bazowych lądów, umieść je przekręcone na polu bitwy, po czym przetasuj."
 
 #: ../../SCD.rst:1434
 msgid ""
@@ -4067,7 +4546,7 @@ msgstr ""
 
 #: ../../SCD.rst:1433
 msgid "Sacrifice Commander's Sphere: Draw a card."
-msgstr ""
+msgstr "Poświęć ten byt: Dobierz kartę."
 
 #: ../../SCD.rst:1442
 msgid ""
@@ -4078,11 +4557,11 @@ msgstr ""
 
 #: ../../SCD.rst:1437
 msgid "When Coveted Jewel enters the battlefield, draw three cards."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz trzy karty."
 
 #: ../../SCD.rst:1439
 msgid "|tap|: Add three mana of any one color."
-msgstr ""
+msgstr "|tap|: Weź trzy many w dowolnym jednym kolorze."
 
 #: ../../SCD.rst:1441
 msgid ""
@@ -4090,6 +4569,9 @@ msgid ""
 "blocked, that player draws three cards and gains control of Coveted Jewel. "
 "Untap it."
 msgstr ""
+"Ilekroć co najmniej jeden stwór pod władaniem przeciwnika atakuje cię i nie "
+"jest blokowany, ów gracz dobiera trzy karty i zyskuje władanie nad tym "
+"bytem. Odkręć go."
 
 #: ../../SCD.rst:1446
 msgid ""
@@ -4100,7 +4582,7 @@ msgstr ""
 
 #: ../../SCD.rst:1445
 msgid "|mana_1|, |tap|: Add |mana_u|\\ |mana_b|."
-msgstr ""
+msgstr "|mana_1|, |tap|: Weź |mana_u|\\ |mana_b|."
 
 #: ../../SCD.rst:1454
 msgid ""
@@ -4114,10 +4596,12 @@ msgid ""
 "Whenever a Dragon enters the battlefield under your control, put a gold "
 "counter on Dragon's Hoard."
 msgstr ""
+"Ilekroć Smok wejdzie na pole bitwy pod twoim władaniem, umieść znacznik "
+"złota na tym artefakcie."
 
 #: ../../SCD.rst:1451
 msgid "|tap|, Remove a gold counter from Dragon's Hoard: Draw a card."
-msgstr ""
+msgstr "|tap|, usuń znacznik złota z tego artefaktu: Dobierz kartę."
 
 #: ../../SCD.rst:1460
 msgid ""
@@ -4130,6 +4614,7 @@ msgstr ""
 msgid ""
 "|mana_1|, |tap|, Discard a card: Put a study counter on Grimoire of the Dead."
 msgstr ""
+"|mana_1|, |tap|, odrzuć kartę: Umieść znacznik studium na tym artefakcie."
 
 #: ../../SCD.rst:1459
 msgid ""
@@ -4138,6 +4623,9 @@ msgid ""
 "your control. They're black Zombies in addition to their other colors and "
 "types."
 msgstr ""
+"|tap|, usuń trzy znaczniki studium z tego artefaktu i poświęć go: Umieść "
+"wszystkie karty stworów ze wszystkich cmentarzy na polu bitwy pod twoim "
+"władaniem. Są one czarnymi Zombi oprócz swoich innych kolorów i typów."
 
 #: ../../SCD.rst:1466
 msgid ""
@@ -4148,11 +4636,11 @@ msgstr ""
 
 #: ../../SCD.rst:1463 ../../SCD.rst:1521 ../../SCD.rst:1593
 msgid "|tap|: Add |colorless|\\ |colorless|."
-msgstr ""
+msgstr "|tap|: Weź |colorless|\\ |colorless|."
 
 #: ../../SCD.rst:1465
 msgid "|mana_2|, |tap|, Sacrifice Hedron Archive: Draw two cards."
-msgstr ""
+msgstr "|mana_2|, |tap|, poświęć ten artefakt: Dobierz dwie karty."
 
 #: ../../SCD.rst:1474
 msgid ""
@@ -4163,15 +4651,15 @@ msgstr ""
 
 #: ../../SCD.rst:1469
 msgid "As Heraldic Banner enters the battlefield, choose a color."
-msgstr ""
+msgstr "Przy wejściu tego bytu na pole bitwy wybierz kolor."
 
 #: ../../SCD.rst:1471
 msgid "Creatures you control of the chosen color get +1/+0."
-msgstr ""
+msgstr "Stwory wybranego koloru pod twoim władaniem dostają +1/+0."
 
 #: ../../SCD.rst:1473
 msgid "|tap|: Add one mana of the chosen color."
-msgstr ""
+msgstr "|tap|: Weź jedną manę wybranego koloru."
 
 #: ../../SCD.rst:1480
 msgid ""
@@ -4182,13 +4670,15 @@ msgstr ""
 
 #: ../../SCD.rst:1477
 msgid "|tap|: Draw a card. Activate only if you created a token this turn."
-msgstr ""
+msgstr "|tap|: Dobierz kartę. Aktywuj tylko jeśli stworzyłeś żeton w tej turze."
 
 #: ../../SCD.rst:1479
 msgid ""
 "|mana_8|, |tap|, Sacrifice Idol of Oblivion: Create a 10/10 colorless "
 "Eldrazi creature token."
 msgstr ""
+"|mana_8|, |tap|, poświęć ten byt: Stwórz żeton bezkolorowego stwora Eldrazi "
+"10/10."
 
 #: ../../SCD.rst:1486
 msgid ""
@@ -4202,10 +4692,12 @@ msgid ""
 "Equipped creature has haste and shroud. (It can't be the target of spells or "
 "abilities.)"
 msgstr ""
+"Wyposażony stwór ma pośpiech i antymagię. (Nie może być wskazywany przez "
+"czary lub zdolności.)"
 
 #: ../../SCD.rst:1485
 msgid "Equip |mana_0|"
-msgstr ""
+msgstr "Wyposaż |mana_0|"
 
 #: ../../SCD.rst:1492
 msgid ""
@@ -4216,13 +4708,15 @@ msgstr ""
 
 #: ../../SCD.rst:1489
 msgid "|tap|, Sacrifice Nihil Spellbomb: Exile target player's graveyard."
-msgstr ""
+msgstr "|tap|, poświęć ten byt: Wygnaj cmentarz wskazanego gracza."
 
 #: ../../SCD.rst:1491
 msgid ""
 "When Nihil Spellbomb is put into a graveyard from the battlefield, you may "
 "pay |mana_b|. If you do, draw a card."
 msgstr ""
+"Kiedy ten artefakt trafi do cmentarza z pola bitwy, możesz zapłacić |mana_b|"
+". Jeśli tak zrobisz, dobierz kartę."
 
 #: ../../SCD.rst:1498
 msgid ""
@@ -4236,6 +4730,8 @@ msgid ""
 "When Pilgrim's Eye enters the battlefield, you may search your library for a "
 "basic land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"kartę bazowego lądu, ujawnij ją, umieść w twojej ręce, po czym przetasuj."
 
 #: ../../SCD.rst:1502
 msgid ""
@@ -4246,7 +4742,7 @@ msgstr ""
 
 #: ../../SCD.rst:1501
 msgid "|mana_1|, |tap|: Add |mana_b|\\ |mana_r|."
-msgstr ""
+msgstr "|mana_1|, |tap|: Weź |mana_b|\\ |mana_r|."
 
 #: ../../SCD.rst:1508
 msgid ""
@@ -4257,11 +4753,11 @@ msgstr ""
 
 #: ../../SCD.rst:1505
 msgid "Sky Diamond enters the battlefield tapped."
-msgstr ""
+msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
 
 #: ../../SCD.rst:1507
 msgid "|tap|: Add |mana_u|."
-msgstr ""
+msgstr "|tap|: Weź |mana_u|."
 
 #: ../../SCD.rst:1514
 msgid ""
@@ -4272,7 +4768,7 @@ msgstr ""
 
 #: ../../SCD.rst:1513
 msgid "When Skyscanner enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../SCD.rst:1518
 msgid ""
@@ -4286,6 +4782,8 @@ msgid ""
 "|mana_4|, |tap|, Discard your hand: Draw a card for each creature you "
 "control."
 msgstr ""
+"|mana_4|, |tap|, odrzuć swoją rękę: Dobierz kartę za każdego stwora pod "
+"twoim władaniem."
 
 #: ../../SCD.rst:1522
 msgid ""
@@ -4307,10 +4805,12 @@ msgid ""
 "for a basic land card, put that card onto the battlefield tapped, then "
 "shuffle."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"kartę bazowego lądu, umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../SCD.rst:1527
 msgid "When Solemn Simulacrum dies, you may draw a card."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, możesz dobrać kartę."
 
 #: ../../SCD.rst:1536
 msgid ""
@@ -4321,7 +4821,7 @@ msgstr ""
 
 #: ../../SCD.rst:1533
 msgid "|mana_2|: Steel Hellkite gets +1/+0 until end of turn."
-msgstr ""
+msgstr "|mana_2|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../SCD.rst:1535
 msgid ""
@@ -4329,6 +4829,9 @@ msgid ""
 "was dealt combat damage by Steel Hellkite this turn. Activate only once each "
 "turn."
 msgstr ""
+"|mana_x|: Zniszcz każdy nielądowy byt o skrócie many X, którego władca "
+"otrzymał w tej turze obrażenia bojowe od niniejszego stwora. Możesz "
+"aktywować tylko raz na turę."
 
 #: ../../SCD.rst:1542
 msgid ""
@@ -4342,10 +4845,12 @@ msgid ""
 "Equipped creature has hexproof and haste. (It can't be the target of spells "
 "or abilities your opponents control.)"
 msgstr ""
+"Wyposażony stwór ma pośpiech i antyklątwę. (Ten stwór nie może być "
+"wskazywany przez czary lub zdolności pod władaniem twoich przeciwników.)"
 
 #: ../../SCD.rst:1541
 msgid "Equip |mana_1|"
-msgstr ""
+msgstr "Wyposaż |mana_1|"
 
 #: ../../SCD.rst:1548
 msgid ""
@@ -4357,7 +4862,7 @@ msgstr ""
 #: ../../SCD.rst:1547
 msgid ""
 "|tap|: Add |mana_u| or |mana_b|. Talisman of Dominance deals 1 damage to you."
-msgstr ""
+msgstr "|tap|: Weź |mana_u| lub |mana_b|. Ten byt zadaje tobie 1 obrażenie."
 
 #: ../../SCD.rst:1554
 msgid ""
@@ -4382,7 +4887,7 @@ msgstr ""
 msgid ""
 "|tap|: Add |mana_b| or |mana_r|. Talisman of Indulgence deals 1 damage to "
 "you."
-msgstr ""
+msgstr "|tap|: Weź |mana_b| lub |mana_r|. Ten byt zadaje tobie 1 obrażenie."
 
 #: ../../SCD.rst:1566
 msgid ""
@@ -4394,7 +4899,7 @@ msgstr ""
 #: ../../SCD.rst:1565
 msgid ""
 "|tap|: Add |mana_w| or |mana_u|. Talisman of Progress deals 1 damage to you."
-msgstr ""
+msgstr "|tap|: Weź |mana_w| lub |mana_u|. Ten byt zadaje tobie 1 obrażenie."
 
 #: ../../SCD.rst:1572
 msgid ""
@@ -4417,7 +4922,7 @@ msgstr ""
 
 #: ../../SCD.rst:1575
 msgid "You have no maximum hand size."
-msgstr ""
+msgstr "Nie masz limitu kart na ręce."
 
 #: ../../SCD.rst:1584
 msgid ""
@@ -4428,7 +4933,7 @@ msgstr ""
 
 #: ../../SCD.rst:1583
 msgid "|mana_7|, |tap|, Sacrifice Unstable Obelisk: Destroy target permanent."
-msgstr ""
+msgstr "|mana_7|, |tap|, poświęć ten artefakt: Zniszcz wskazany byt."
 
 #: ../../SCD.rst:1588
 msgid ""
@@ -4442,6 +4947,8 @@ msgid ""
 "|mana_2|, |tap|, Sacrifice Wayfarer's Bauble: Search your library for a "
 "basic land card, put that card onto the battlefield tapped, then shuffle."
 msgstr ""
+"|mana_2|, |tap|, poświęć ten artefakt: Wyszukaj w twojej bibliotece kartę "
+"bazowego lądu, umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../SCD.rst:1594
 msgid ""
@@ -4452,7 +4959,7 @@ msgstr ""
 
 #: ../../SCD.rst:1591
 msgid "Worn Powerstone enters the battlefield tapped."
-msgstr ""
+msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
 
 #: ../../SCD.rst:1602
 msgid ""
@@ -4463,16 +4970,16 @@ msgstr ""
 
 #: ../../SCD.rst:1597
 msgid "Akoum Refuge enters the battlefield tapped."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../SCD.rst:1599
 msgid "When Akoum Refuge enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../SCD.rst:1601 ../../SCD.rst:1609 ../../SCD.rst:1635 ../../SCD.rst:1671
 #: ../../SCD.rst:1851 ../../SCD.rst:1885
 msgid "|tap|: Add |mana_b| or |mana_r|."
-msgstr ""
+msgstr "|tap|: Weź |mana_b| lub |mana_r|."
 
 #: ../../SCD.rst:1610
 msgid ""
@@ -4483,11 +4990,11 @@ msgstr ""
 
 #: ../../SCD.rst:1605
 msgid "Bloodfell Caves enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../SCD.rst:1607
 msgid "When Bloodfell Caves enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../SCD.rst:1618
 msgid ""
@@ -4498,16 +5005,16 @@ msgstr ""
 
 #: ../../SCD.rst:1613
 msgid "Blossoming Sands enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../SCD.rst:1615
 msgid "When Blossoming Sands enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../SCD.rst:1617 ../../SCD.rst:1665 ../../SCD.rst:1677 ../../SCD.rst:1691
 #: ../../SCD.rst:1859 ../../SCD.rst:1879
 msgid "|tap|: Add |mana_g| or |mana_w|."
-msgstr ""
+msgstr "|tap|: Weź |mana_g| lub |mana_w|."
 
 #: ../../SCD.rst:1624
 msgid ""
@@ -4518,13 +5025,15 @@ msgstr ""
 
 #: ../../SCD.rst:1621
 msgid "(|tap|: Add |mana_g| or |mana_w|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_g| lub |mana_w|.)"
 
 #: ../../SCD.rst:1623
 msgid ""
 "Canopy Vista enters the battlefield tapped unless you control two or more "
 "basic lands."
 msgstr ""
+"Ten ląd wchodzi przekręcony na pole bitwy, chyba że władasz co najmniej "
+"dwoma bazowymi lądami."
 
 #: ../../SCD.rst:1630
 msgid ""
@@ -4539,11 +5048,14 @@ msgid ""
 "card from your hand. If you don't, Choked Estuary enters the battlefield "
 "tapped."
 msgstr ""
+"Przy wejściu tego bytu na pole bitwy możesz ujawnić z twojej ręki kartę "
+"Wyspy lub Bagna. Jeśli tak nie zrobisz, ten byt wchodzi przekręcony na pole "
+"bitwy."
 
 #: ../../SCD.rst:1629 ../../SCD.rst:1659 ../../SCD.rst:1713 ../../SCD.rst:1781
 #: ../../SCD.rst:1813 ../../SCD.rst:1835
 msgid "|tap|: Add |mana_u| or |mana_b|."
-msgstr ""
+msgstr "|tap|: Weź |mana_u| lub |mana_b|."
 
 #: ../../SCD.rst:1636
 msgid ""
@@ -4554,7 +5066,7 @@ msgstr ""
 
 #: ../../SCD.rst:1633
 msgid "Cinder Barrens enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../SCD.rst:1642
 msgid ""
@@ -4565,13 +5077,15 @@ msgstr ""
 
 #: ../../SCD.rst:1639
 msgid "(|tap|: Add |mana_r| or |mana_g|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_r| lub |mana_g|.)"
 
 #: ../../SCD.rst:1641
 msgid ""
 "Cinder Glade enters the battlefield tapped unless you control two or more "
 "basic lands."
 msgstr ""
+"Ten ląd wchodzi przekręcony na pole bitwy, chyba że władasz co najmniej "
+"dwoma bazowymi lądami."
 
 #: ../../SCD.rst:1648
 msgid ""
@@ -4582,12 +5096,12 @@ msgstr ""
 
 #: ../../SCD.rst:1645
 msgid "Coastal Tower enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../SCD.rst:1647 ../../SCD.rst:1727 ../../SCD.rst:1761 ../../SCD.rst:1789
 #: ../../SCD.rst:1843 ../../SCD.rst:1873
 msgid "|tap|: Add |mana_w| or |mana_u|."
-msgstr ""
+msgstr "|tap|: Weź |mana_w| lub |mana_u|."
 
 #: ../../SCD.rst:1652
 msgid ""
@@ -4605,11 +5119,11 @@ msgstr ""
 
 #: ../../SCD.rst:1655
 msgid "Dismal Backwater enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../SCD.rst:1657
 msgid "When Dismal Backwater enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../SCD.rst:1666
 msgid ""
@@ -4620,7 +5134,7 @@ msgstr ""
 
 #: ../../SCD.rst:1663
 msgid "Elfhame Palace enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../SCD.rst:1672
 msgid ""
@@ -4635,6 +5149,9 @@ msgid ""
 "Mountain card from your hand. If you don't, Foreboding Ruins enters the "
 "battlefield tapped."
 msgstr ""
+"Przy wejściu tego bytu na pole bitwy możesz ujawnić z twojej ręki kartę "
+"Bagna lub Góry. Jeśli tak nie zrobisz, ten byt wchodzi przekręcony na pole "
+"bitwy."
 
 #: ../../SCD.rst:1678
 msgid ""
@@ -4649,6 +5166,9 @@ msgid ""
 "Plains card from your hand. If you don't, Fortified Village enters the "
 "battlefield tapped."
 msgstr ""
+"Przy wejściu tego bytu na pole bitwy możesz ujawnić z twojej ręki kartę Lasu "
+"lub Równiny. Jeśli tak nie zrobisz, ten byt wchodzi przekręcony na pole "
+"bitwy."
 
 #: ../../SCD.rst:1684
 msgid ""
@@ -4662,6 +5182,8 @@ msgid ""
 "As Game Trail enters the battlefield, you may reveal a Mountain or Forest "
 "card from your hand. If you don't, Game Trail enters the battlefield tapped."
 msgstr ""
+"Przy wejściu tego bytu na pole bitwy możesz ujawnić z twojej ręki kartę Góry "
+"lub Lasu. Jeśli tak nie zrobisz, ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../SCD.rst:1692
 msgid ""
@@ -4672,11 +5194,11 @@ msgstr ""
 
 #: ../../SCD.rst:1687
 msgid "Graypelt Refuge enters the battlefield tapped."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../SCD.rst:1689
 msgid "When Graypelt Refuge enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../SCD.rst:1700
 msgid ""
@@ -4690,12 +5212,16 @@ msgid ""
 "|tap|: Add one mana of any color. Spend this mana only to cast a Dragon "
 "creature spell."
 msgstr ""
+"|tap|: Weź jedną manę dowolnego koloru. Wydaj tę manę tylko na rzucenie "
+"czaru stwora typu Smok."
 
 #: ../../SCD.rst:1699
 msgid ""
 "|mana_2|, |tap|, Sacrifice Haven of the Spirit Dragon: Return target Dragon "
 "creature card or Ugin planeswalker card from your graveyard to your hand."
 msgstr ""
+"|mana_2|, |tap|, poświęć ten ląd: Przywróć wskazaną kartę stwora typu Smok "
+"lub kartę wędrowca typu Ugin z twojego cmentarza do twojej ręki."
 
 #: ../../SCD.rst:1706
 msgid ""
@@ -4706,7 +5232,7 @@ msgstr ""
 
 #: ../../SCD.rst:1703
 msgid "|tap|: Add |colorless|. (|colorless| represents colorless mana.)"
-msgstr ""
+msgstr "|tap|: Weź |colorless|. (|colorless| oznacza bezkolorową manę.)"
 
 #: ../../SCD.rst:1714
 msgid ""
@@ -4717,11 +5243,11 @@ msgstr ""
 
 #: ../../SCD.rst:1709
 msgid "Jwar Isle Refuge enters the battlefield tapped."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../SCD.rst:1711
 msgid "When Jwar Isle Refuge enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kidy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../SCD.rst:1722
 msgid ""
@@ -4732,11 +5258,11 @@ msgstr ""
 
 #: ../../SCD.rst:1717
 msgid "Kazandu Refuge enters the battlefield tapped."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../SCD.rst:1719
 msgid "When Kazandu Refuge enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../SCD.rst:1728
 msgid ""
@@ -4747,7 +5273,7 @@ msgstr ""
 
 #: ../../SCD.rst:1725
 msgid "Meandering River enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../SCD.rst:1736
 msgid ""
@@ -4758,13 +5284,15 @@ msgstr ""
 
 #: ../../SCD.rst:1733
 msgid "|mana_1|, |tap|: Put a storage counter on Molten Slagheap."
-msgstr ""
+msgstr "|mana_1|, |tap|: Umieść znacznik magazynu na tym lądzie."
 
 #: ../../SCD.rst:1735
 msgid ""
 "|mana_1|, Remove X storage counters from Molten Slagheap: Add X mana in any "
 "combination of |mana_b| and/or |mana_r|."
 msgstr ""
+"|mana_1|, usuń X znaczników magazynu z tego lądu: Weź X many w dowolnej "
+"kombinacji |mana_b| i/lub |mana_r|."
 
 #: ../../SCD.rst:1742
 msgid ""
@@ -4778,6 +5306,8 @@ msgid ""
 "|mana_w|\\ |mana_u|, |tap|, Exile a creature card from your graveyard: "
 "Create a 1/1 white Spirit creature token with flying."
 msgstr ""
+"|mana_w|\\ |mana_u|, |tap|, wygnaj kartę stwora z twojego cmentarza: Stwórz "
+"żeton białego stwora Duch 1/1 z lataniem."
 
 #: ../../SCD.rst:1750
 msgid ""
@@ -4788,7 +5318,7 @@ msgstr ""
 
 #: ../../SCD.rst:1745
 msgid "Myriad Landscape enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../SCD.rst:1749
 msgid ""
@@ -4796,6 +5326,9 @@ msgid ""
 "two basic land cards that share a land type, put them onto the battlefield "
 "tapped, then shuffle."
 msgstr ""
+"|mana_2|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece co najwyżej "
+"dwie karty bazowych lądów mających wspólny typ lądu, umieść je przekręcone "
+"na polu bitwy, po czym przetasuj."
 
 #: ../../SCD.rst:1756
 msgid ""
@@ -4806,7 +5339,7 @@ msgstr ""
 
 #: ../../SCD.rst:1753
 msgid "Path of Ancestry enters the battlefield tapped."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../SCD.rst:1755
 msgid ""
@@ -4815,6 +5348,10 @@ msgid ""
 "your commander, scry 1. (Look at the top card of your library. You may put "
 "that card on the bottom of your library.)"
 msgstr ""
+"|tap|: Weź jedną maną w jednym z kolorów tożsamości twojego dowódcy. Kiedy "
+"owa mana zostanie wydana na rzucenie czaru stwora współdzielącego typ stwora "
+"z twoim dowódcą, wróż 1. (Spójrz na wierzchnią kartę twojej biblioteki. "
+"Możesz umieścić ową kartę na spodzie twojej biblioteki.)"
 
 #: ../../SCD.rst:1762
 msgid ""
@@ -4828,6 +5365,9 @@ msgid ""
 "As Port Town enters the battlefield, you may reveal a Plains or Island card "
 "from your hand. If you don't, Port Town enters the battlefield tapped."
 msgstr ""
+"Przy wejściu tego bytu na pole bitwy możesz ujawnić z twojej ręki kartę "
+"Równiny lub Wyspy. Jeśli tak nie zrobisz, ten byt wchodzi przekręcony na "
+"pole bitwy."
 
 #: ../../SCD.rst:1768
 msgid ""
@@ -4838,13 +5378,15 @@ msgstr ""
 
 #: ../../SCD.rst:1765
 msgid "(|tap|: Add |mana_w| or |mana_u|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_w| lub |mana_u|.)"
 
 #: ../../SCD.rst:1767
 msgid ""
 "Prairie Stream enters the battlefield tapped unless you control two or more "
 "basic lands."
 msgstr ""
+"Ten ląd wchodzi przekręcony na pole bitwy, chyba że władasz co najmniej "
+"dwoma bazowymi lądami."
 
 #: ../../SCD.rst:1776
 msgid ""
@@ -4855,11 +5397,11 @@ msgstr ""
 
 #: ../../SCD.rst:1771
 msgid "Rugged Highlands enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../SCD.rst:1773
 msgid "When Rugged Highlands enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../SCD.rst:1782
 msgid ""
@@ -4870,7 +5412,7 @@ msgstr ""
 
 #: ../../SCD.rst:1779
 msgid "Salt Marsh enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../SCD.rst:1790
 msgid ""
@@ -4881,11 +5423,11 @@ msgstr ""
 
 #: ../../SCD.rst:1785
 msgid "Sejiri Refuge enters the battlefield tapped."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../SCD.rst:1787
 msgid "When Sejiri Refuge enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../SCD.rst:1796
 msgid ""
@@ -4896,7 +5438,7 @@ msgstr ""
 
 #: ../../SCD.rst:1793
 msgid "Shivan Oasis enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../SCD.rst:1802
 msgid ""
@@ -4907,13 +5449,15 @@ msgstr ""
 
 #: ../../SCD.rst:1799
 msgid "(|tap|: Add |mana_b| or |mana_r|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_b| lub |mana_r|.)"
 
 #: ../../SCD.rst:1801
 msgid ""
 "Smoldering Marsh enters the battlefield tapped unless you control two or "
 "more basic lands."
 msgstr ""
+"Ten ląd wchodzi przekręcony na pole bitwy, chyba że władasz co najmniej "
+"dwoma bazowymi lądami."
 
 #: ../../SCD.rst:1808
 msgid ""
@@ -4927,6 +5471,8 @@ msgid ""
 "|mana_3|\\ |mana_b|\\ |mana_r|, |tap|: Stensia Bloodhall deals 2 damage to "
 "target player or planeswalker."
 msgstr ""
+"|mana_3|\\ |mana_b|\\ |mana_r|, |tap|: Ten ląd zadaje wskazanemu graczowi "
+"lub wędrowcowi 2 obrażenia."
 
 #: ../../SCD.rst:1814
 msgid ""
@@ -4937,7 +5483,7 @@ msgstr ""
 
 #: ../../SCD.rst:1811
 msgid "Submerged Boneyard enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../SCD.rst:1820
 msgid ""
@@ -4948,13 +5494,15 @@ msgstr ""
 
 #: ../../SCD.rst:1817
 msgid "(|tap|: Add |mana_u| or |mana_b|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_u| lub |mana_b|.)"
 
 #: ../../SCD.rst:1819
 msgid ""
 "Sunken Hollow enters the battlefield tapped unless you control two or more "
 "basic lands."
 msgstr ""
+"Ten ląd wchodzi przekręcony na pole bitwy, chyba że władasz co najmniej "
+"dwoma bazowymi lądami."
 
 #: ../../SCD.rst:1828
 msgid ""
@@ -4965,11 +5513,11 @@ msgstr ""
 
 #: ../../SCD.rst:1823
 msgid "Temple of Abandon enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../SCD.rst:1825
 msgid "When Temple of Abandon enters the battlefield, scry 1."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wróż 1."
 
 #: ../../SCD.rst:1836
 msgid ""
@@ -4980,11 +5528,11 @@ msgstr ""
 
 #: ../../SCD.rst:1831
 msgid "Temple of Deceit enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../SCD.rst:1833
 msgid "When Temple of Deceit enters the battlefield, scry 1."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wróż 1."
 
 #: ../../SCD.rst:1844
 msgid ""
@@ -4995,11 +5543,11 @@ msgstr ""
 
 #: ../../SCD.rst:1839
 msgid "Temple of Enlightenment enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../SCD.rst:1841
 msgid "When Temple of Enlightenment enters the battlefield, scry 1."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wróż 1."
 
 #: ../../SCD.rst:1852
 msgid ""
@@ -5010,11 +5558,11 @@ msgstr ""
 
 #: ../../SCD.rst:1847
 msgid "Temple of Malice enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../SCD.rst:1849
 msgid "When Temple of Malice enters the battlefield, scry 1."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wróż 1."
 
 #: ../../SCD.rst:1860
 msgid ""
@@ -5025,11 +5573,11 @@ msgstr ""
 
 #: ../../SCD.rst:1855
 msgid "Temple of Plenty enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../SCD.rst:1857
 msgid "When Temple of Plenty enters the battlefield, scry 1."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wróż 1."
 
 #: ../../SCD.rst:1866
 msgid ""
@@ -5040,7 +5588,7 @@ msgstr ""
 
 #: ../../SCD.rst:1863
 msgid "Timber Gorge enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../SCD.rst:1874
 msgid ""
@@ -5051,11 +5599,11 @@ msgstr ""
 
 #: ../../SCD.rst:1869
 msgid "Tranquil Cove enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../SCD.rst:1871
 msgid "When Tranquil Cove enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../SCD.rst:1880
 msgid ""
@@ -5066,7 +5614,7 @@ msgstr ""
 
 #: ../../SCD.rst:1877
 msgid "Tranquil Expanse enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../SCD.rst:1886
 msgid ""
@@ -5077,7 +5625,7 @@ msgstr ""
 
 #: ../../SCD.rst:1883
 msgid "Urborg Volcano enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../SCD.rst:1892
 msgid ""
@@ -5091,6 +5639,8 @@ msgid ""
 "|mana_2|\\ |mana_g|\\ |mana_w|, |tap|: Create a 1/1 green Saproling creature "
 "token."
 msgstr ""
+"|mana_2|\\ |mana_g|\\ |mana_w|, |tap|: Stwórz żeton zielonego stwora "
+"Sadzonka 1/1."
 
 #: ../../SCD.rst:1896
 msgid ""
@@ -5101,7 +5651,7 @@ msgstr ""
 
 #: ../../SCD.rst:1895
 msgid "(|tap|: Add |mana_w|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_w|.)"
 
 #: ../../SCD.rst:1900
 msgid ""
@@ -5112,7 +5662,7 @@ msgstr ""
 
 #: ../../SCD.rst:1899
 msgid "(|tap|: Add |mana_u|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_u|.)"
 
 #: ../../SCD.rst:1904
 msgid ""
@@ -5123,7 +5673,7 @@ msgstr ""
 
 #: ../../SCD.rst:1903
 msgid "(|tap|: Add |mana_b|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_b|.)"
 
 #: ../../SCD.rst:1908
 msgid ""
@@ -5134,7 +5684,7 @@ msgstr ""
 
 #: ../../SCD.rst:1907
 msgid "(|tap|: Add |mana_r|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_r|.)"
 
 #: ../../SCD.rst:1911
 msgid ""
@@ -5145,4 +5695,4 @@ msgstr ""
 
 #: ../../SCD.rst:1911
 msgid "(|tap|: Add |mana_g|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_g|.)"
