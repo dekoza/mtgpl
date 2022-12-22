@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-11-21 15:31+0100\n"
-"PO-Revision-Date: 2022-12-06 08:16+0000\n"
+"PO-Revision-Date: 2022-12-22 13:30+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/cmr/pl/>\n"
 "Language: pl\n"
@@ -714,6 +714,8 @@ msgid ""
 "Whenever Kangee's Lieutenant attacks, attacking creatures with flying get +1/"
 "+1 until end of turn."
 msgstr ""
+"Ilekroć niniejszy zaatakuje, atakujące stwory mające latanie do końca tury "
+"dostają +1/+1."
 
 #: ../../CMR.rst:171
 msgid ""
@@ -1563,6 +1565,8 @@ msgid ""
 "At the beginning of each end step, draw a card if you've cast a spell from a "
 "graveyard or activated an ability of a card in a graveyard this turn."
 msgstr ""
+"Na początku każdego korku końcowego, dobierz kartę jeśli w tej turze "
+"rzuciłeś czar z cmentarza lub aktywowałeś zdolność karty w cmentarzu."
 
 #: ../../CMR.rst:480
 msgid ""
@@ -2456,6 +2460,8 @@ msgid ""
 "Each player sacrifices six creatures. You create six tapped 2/2 black Zombie "
 "creature tokens."
 msgstr ""
+"Każdy gracz poświęca sześć stworów. Stwórz sześć przekręconych żetonów "
+"czarnego stwora Zombi 2/2."
 
 #: ../../CMR.rst:782
 msgid ""
@@ -2587,6 +2593,8 @@ msgid ""
 "Whenever Rakshasa Debaser attacks, put target creature card from defending "
 "player's graveyard onto the battlefield under your control."
 msgstr ""
+"Ilekroć niniejszy zaatakuje, umieść na polu bitwy pod twoim władaniem "
+"wskazaną kartę stwora z cmentarza broniącego się gracza."
 
 #: ../../CMR.rst:823
 msgid ""
@@ -3082,6 +3090,9 @@ msgid ""
 "drawn this way, Explosion of Riches deals 5 damage to target opponent chosen "
 "at random from among your opponents."
 msgstr ""
+"Dobierz kartę, po czym każdy inny gracz może dobrać kartę. Ilekroć karta "
+"zostanie dobrana w ten sposób, niniejszy zadaje 5 obrażeń wskazanemu "
+"przeciwnikowi wybranemu losowo spośród twoich przeciwników."
 
 #: ../../CMR.rst:1018
 msgid ""
@@ -4723,12 +4734,16 @@ msgid ""
 "Whenever Kangee, Sky Warden attacks, attacking creatures with flying get +2/"
 "+0 until end of turn."
 msgstr ""
+"Ilekroć niniejszy zaatakuje, atakujące stwory mające latanie do końca tury "
+"dostają +2/+0."
 
 #: ../../CMR.rst:1605
 msgid ""
 "Whenever Kangee blocks, blocking creatures with flying get +0/+2 until end "
 "of turn."
 msgstr ""
+"Ilekroć niniejszy zablokuje, blokujące stwory mające latanie do końca tury "
+"dostają +0/+2."
 
 #: ../../CMR.rst:1610
 msgid ""
