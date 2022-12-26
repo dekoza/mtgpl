@@ -151,7 +151,7 @@
 
 .. |POR_percent| image:: images/pie70.png        
 
-.. |MIC_percent| image:: images/pie80.png        
+.. |MIC_percent| image:: images/pie85.png        
 
 .. |JMP_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
@@ -381,7 +381,7 @@
 
 .. |FUT_percent| image:: images/pie70.png        
 
-.. |KHC_percent| image:: images/pie80.png        
+.. |KHC_percent| image:: images/pie85.png        
 
 .. |ONE_percent| image:: images/pie05.png        
 
