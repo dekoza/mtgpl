@@ -134,6 +134,7 @@ expansions = {
     "RNA",
     "ROE",
     "RTR",
+    "SCD",
     "SCG",
     "SHM",
     "SNC",

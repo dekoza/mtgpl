@@ -23,7 +23,13 @@
    Exile target creature. It gains "At the beginning of your upkeep, if this card is exiled, it perpetually gets +1/+1, then you may put it onto the battlefield."
 
 
-:mtgtip:`Piece It Together<https://cards.scryfall.io/border_crop/front/7/2/7292b7cd-78bf-4566-aeb1-3d36b37dfe19.jpg?1670258239|https://scryfall.com/card/ybro/4/piece-it-together?utm_source=api>`
+:mtgtip:`Hurkyl's Prodigy<https://cards.scryfall.io/border_crop/front/1/9/199e7789-1e6d-46ed-af8b-11b4bd29ed52.jpg?1670714854|https://scryfall.com/card/ybro/4/hurkyls-prodigy?utm_source=api>`
+   When Hurkyl's Prodigy enters the battlefield, create a tapped Powerstone token.
+
+   Whenever Hurkyl's Prodigy attacks, you may pay |mana_3|. If you do, Hurkyl's Prodigy can't be blocked this turn and it perpetually gets +2/+0.
+
+
+:mtgtip:`Piece It Together<https://cards.scryfall.io/border_crop/front/7/2/7292b7cd-78bf-4566-aeb1-3d36b37dfe19.jpg?1670258239|https://scryfall.com/card/ybro/5/piece-it-together?utm_source=api>`
    Starting intensity 1
 
    Draw a card. If Piece It Together's intensity is 4, instead take an extra turn after this one.
@@ -31,25 +37,7 @@
    Perpetually increase Piece It Together's intensity and the intensity of cards named Piece It Together in your graveyard, hand, and library by 1.
 
 
-:mtgtip:`Warzone Duplicator<https://cards.scryfall.io/border_crop/front/d/4/d40bfed4-7f86-486e-a903-0165cd40e77b.jpg?1670258357|https://scryfall.com/card/ybro/5/warzone-duplicator?utm_source=api>`
-   Prototype |mana_3|\ |mana_u| — 3/3
-
-   When Warzone Duplicator enters the battlefield, return target creature an opponent controls with power less than Warzone Duplicator's power to its owner's hand. If that creature wasn't a token, conjure a duplicate of it into your hand. It perpetually gains "You may spend this mana as though it were many of any color to cast this card we wish we could read the end of, but it got previewed with a scrollbar on the text which is very cool."
-
-
-:mtgtip:`Forgefire Automaton<https://cards.scryfall.io/border_crop/front/e/2/e2f1a70c-25c4-4f03-8b04-92b34ce4fe1b.jpg?1670258478|https://scryfall.com/card/ybro/6/forgefire-automaton?utm_source=api>`
-   Prototype |mana_2|\ |mana_b| — 3/2
-
-   At the beginning of your upkeep, return target creature card with power less than Forgefire Automaton's power from your graveyard to the battlefield. Its bas power perpetually becomes equal to Forgefire Automaton's power.
-
-
-:mtgtip:`Gixian Recycler<https://cards.scryfall.io/border_crop/front/6/0/6059eebe-7be0-4231-80ae-f4857f8db61f.jpg?1670258576|https://scryfall.com/card/ybro/7/gixian-recycler?utm_source=api>`
-   When Gixian Recycler dies or is put into your graveyard from your hand or library, conjure a card named Gixian Recycler into your graveyard.
-
-   Unearth |mana_1|\ |mana_b|
-
-
-:mtgtip:`Lonely End<https://cards.scryfall.io/border_crop/front/d/7/d7807884-bad2-4eb9-8ad6-62fb09f9ae8e.jpg?1670258649|https://scryfall.com/card/ybro/8/lonely-end?utm_source=api>`
+:mtgtip:`Lonely End<https://cards.scryfall.io/border_crop/front/d/7/d7807884-bad2-4eb9-8ad6-62fb09f9ae8e.jpg?1670258649|https://scryfall.com/card/ybro/6/lonely-end?utm_source=api>`
    Choose one —
 
    • Target creature get -3/-3 until end of turn.
@@ -59,42 +47,50 @@
    If you weren't the starting player, you gain 2 life.
 
 
-:mtgtip:`Penregon Besieged<https://cards.scryfall.io/border_crop/front/4/b/4b529581-75f0-431a-a829-ffe072a84a4d.jpg?1670258707|https://scryfall.com/card/ybro/9/penregon-besieged?utm_source=api>`
+:mtgtip:`Penregon Besieged<https://cards.scryfall.io/border_crop/front/4/b/4b529581-75f0-431a-a829-ffe072a84a4d.jpg?1670704209|https://scryfall.com/card/ybro/7/penregon-besieged?utm_source=api>`
    At the beginning of your end step, choose a creature with the least toughness among creatures your opponents control. It perpetually gets -1/-1.
 
-   Whenever your opponents control no creatures, sacrifice Penregon Besieged.
+   When your opponents control no creatures, sacrifice Penregon Besieged.
 
 
-:mtgtip:`Fallaji Antiquarian<https://cards.scryfall.io/border_crop/front/6/f/6f281fb5-ea7a-4539-984e-86d2edbfb996.jpg?1670258778|https://scryfall.com/card/ybro/10/fallaji-antiquarian?utm_source=api>`
+:mtgtip:`Fallaji Antiquarian<https://cards.scryfall.io/border_crop/front/6/f/6f281fb5-ea7a-4539-984e-86d2edbfb996.jpg?1670704226|https://scryfall.com/card/ybro/8/fallaji-antiquarian?utm_source=api>`
    Haste
 
-   When Fallaji Antiquarian enters the battlefield, conjure a duplicate of another target nontoken creature or artifact you control into your graveyard. The duplicate perpetually gains |mana_1|\ |mana_r|.
+   When Fallaji Antiquarian enters the battlefield, conjure a duplicate of another target nontoken creature or artifact you control into your graveyard. The duplicate perpetually gains unearth |mana_1|\ |mana_r|.
 
 
-:mtgtip:`Kayla's Kindling<https://cards.scryfall.io/border_crop/front/9/1/918e9597-3678-4e03-ae1e-9314291848d8.jpg?1670259707|https://scryfall.com/card/ybro/11/kaylas-kindling?utm_source=api>`
+:mtgtip:`Kayla's Kindling<https://cards.scryfall.io/border_crop/front/9/1/918e9597-3678-4e03-ae1e-9314291848d8.jpg?1670670262|https://scryfall.com/card/ybro/9/kaylas-kindling?utm_source=api>`
    When Kayla's Kindling enters the battlefield, it deals 2 damage to any target.
 
    At the beginning of your upkeep, draft a card from Kayla's Kindling's spellbook and exile it. Until end of turn, you may cast that card.
 
 
-:mtgtip:`Tomakul Phoenix<https://cards.scryfall.io/border_crop/front/a/1/a1a52738-fc3f-425e-9ab6-6d5244035cf4.jpg?1670259097|https://scryfall.com/card/ybro/12/tomakul-phoenix?utm_source=api>`
+:mtgtip:`Melt Through<https://cards.scryfall.io/border_crop/front/5/5/55f1d408-d08a-44be-8a75-d9ded9ef4684.jpg?1670715005|https://scryfall.com/card/ybro/10/melt-through?utm_source=api>`
+   Melt Through deals 2 damage to any target. If it's a creature, it perpetually gains "As long as this creature is on the battlefield, damage isn't removed form it during cleanup steps."
+
+
+:mtgtip:`Tomakul Phoenix<https://cards.scryfall.io/border_crop/front/a/1/a1a52738-fc3f-425e-9ab6-6d5244035cf4.jpg?1670704267|https://scryfall.com/card/ybro/11/tomakul-phoenix?utm_source=api>`
    Flying, haste
 
    When Tomakul Phoenix dies, it perpetually gets +2/+2
 
-   At the beginning |mana_x|\ |mana_r|, where X is Tomakul Phoenix's power. If you do, return it from your graveyard to the battlefield.
+   At the beginning of combat on your turn, you may pay |mana_x|\ |mana_r|, where X is Tomakul Phoenix's power. If you do, return it from your graveyard to the battlefield.
 
 
-:mtgtip:`Argothian Uprooting<https://cards.scryfall.io/border_crop/front/3/f/3fb97eb7-92c7-49ad-879b-e080f0a62987.jpg?1670258965|https://scryfall.com/card/ybro/13/argothian-uprooting?utm_source=api>`
-   Put two +1/+1 counters on each of up to X target lands you control. They each become 0/0 Elemental creatures with reach, haste, and "When this creature leaves the battlefield, conjure a card named Forest onto the battlefield tapped." They're still lands.
+:mtgtip:`Argothian Uprooting<https://cards.scryfall.io/border_crop/front/3/f/3fb97eb7-92c7-49ad-879b-e080f0a62987.jpg?1670704245|https://scryfall.com/card/ybro/12/argothian-uprooting?utm_source=api>`
+   Put two +1/+1 counters on each of X target lands you control. They each become 0/0 Elemental creatures with reach, haste, and "When this creature leaves the battlefield, conjure a card named Forest onto the battlefield tapped." They're still lands.
 
 
-:mtgtip:`Foundry Groundbreaker<https://cards.scryfall.io/border_crop/front/3/a/3ab80fcb-be75-40e2-9b25-761492fbe0c1.jpg?1670259018|https://scryfall.com/card/ybro/14/foundry-groundbreaker?utm_source=api>`
-   When Foundry Groundbreaker enters the battlefield, sacrifice a land. Then conjure two cards named Foundry Groundbreaker's onto the battlefield tapped.
+:mtgtip:`Foundry Groundbreaker<https://cards.scryfall.io/border_crop/front/3/a/3ab80fcb-be75-40e2-9b25-761492fbe0c1.jpg?1670375752|https://scryfall.com/card/ybro/13/foundry-groundbreaker?utm_source=api>`
+   When Foundry Groundbreaker enters the battlefield, sacrifice a land. Then conjure two cards named Mishra's Foundry onto the battlefield tapped.
 
 
-:mtgtip:`Sylvan Smite<https://cards.scryfall.io/border_crop/front/c/9/c9f14063-be4d-45cb-a9ab-04b29958603d.jpg?1670259070|https://scryfall.com/card/ybro/15/sylvan-smite?utm_source=api>`
-   Put a +1/+1 counter on target creature you control if you weren't the starting player. Then that player deals damage equal to its power to target creature you don't control.
+:mtgtip:`Legion of Clay<https://cards.scryfall.io/border_crop/front/0/3/030263e7-e881-40eb-8881-a8d90b5ab337.jpg?1670715067|https://scryfall.com/card/ybro/14/legion-of-clay?utm_source=api>`
+   Creatures you control have trample. Whenever one or more nontoken artifacts enter the battlefield under your control, creatures you control get +1/+1.
+
+
+:mtgtip:`Sylvan Smite<https://cards.scryfall.io/border_crop/front/c/9/c9f14063-be4d-45cb-a9ab-04b29958603d.jpg?1670375711|https://scryfall.com/card/ybro/15/sylvan-smite?utm_source=api>`
+   Put a +1/+1 counter on target creature you control if you weren't the starting player. Then that creature deals damage equal to its power to target creature you don't control.
 
 
 :mtgtip:`Argivian Welcome<https://cards.scryfall.io/border_crop/front/4/0/401e4f50-e602-4aec-b7f3-d5ea55134a03.jpg?1670259436|https://scryfall.com/card/ybro/16/argivian-welcome?utm_source=api>`
@@ -103,43 +99,51 @@
    Choose a nonland card in your hand. It perpetually gains flash.
 
 
-:mtgtip:`Crucias, Titan of the Waves<https://cards.scryfall.io/border_crop/front/1/7/17aece62-a208-496b-ab63-70babb89e87f.jpg?1670259513|https://scryfall.com/card/ybro/17/crucias-titan-of-the-waves?utm_source=api>`
-   At the beginning of your end step, you may discard a card. If you do, create a Treasure token and choose ambitious or expedient. If you chose ambitious, seek a card with greater mana value than the discarded card. If you chose expedient, seek a card with elsser mana value than the discarded card.
+:mtgtip:`Assemble the Team<https://cards.scryfall.io/border_crop/front/8/a/8a28c1e8-1969-40bc-a6fb-5494b88eb9ac.jpg?1670715137|https://scryfall.com/card/ybro/17/assemble-the-team?utm_source=api>`
+   Search the top third of your library, rounded up, for a card. Put that card into your hand, then shuffle.
 
 
-:mtgtip:`Great Desert Hellion<https://cards.scryfall.io/border_crop/front/b/6/b6cda4ae-f7c8-493b-8564-ea27e9dff8dc.jpg?1670259585|https://scryfall.com/card/ybro/18/great-desert-hellion?utm_source=api>`
+:mtgtip:`Crucias, Titan of the Waves<https://cards.scryfall.io/border_crop/front/1/7/17aece62-a208-496b-ab63-70babb89e87f.jpg?1670647964|https://scryfall.com/card/ybro/18/crucias-titan-of-the-waves?utm_source=api>`
+   At the beginning of your end step, you may discard a card. If you do, create a Treasure token and choose ambitious or expedient. If you chose ambitious, seek a card with greater mana value than the discarded card. If you chose expedient, seek a card with lesser mana value than the discarded card.
+
+
+:mtgtip:`Great Desert Hellion<https://cards.scryfall.io/border_crop/front/b/6/b6cda4ae-f7c8-493b-8564-ea27e9dff8dc.jpg?1670704284|https://scryfall.com/card/ybro/19/great-desert-hellion?utm_source=api>`
    Starting intensity 1
 
    Menace
 
-   At the beginning of your upkeep, sacrifice Great Desert Hellion unless you discard a card. If you discard a card this weay, perpetually increase Great Desert Hellion's intensity by 1.
+   At the beginning of your upkeep, sacrifice Great Desert Hellion unless you discard a card. If you discard a card this way, perpetually increase Great Desert Hellion's intensity by 1.
 
    When Great Desert Hellion leaves the battlefield, you may discard your hand. If you do, draw cards equal to Great Desert Hellion's intensity.
 
 
-:mtgtip:`Jarsyl, Dark Age Scion<https://cards.scryfall.io/border_crop/front/c/4/c4b3bdc0-2826-44d1-b39b-104aff3b9a8c.jpg?1670259642|https://scryfall.com/card/ybro/19/jarsyl-dark-age-scion?utm_source=api>`
+:mtgtip:`Jarsyl, Dark Age Scion<https://cards.scryfall.io/border_crop/front/c/4/c4b3bdc0-2826-44d1-b39b-104aff3b9a8c.jpg?1670704297|https://scryfall.com/card/ybro/20/jarsyl-dark-age-scion?utm_source=api>`
    Starting intensity 1
 
-   At the beginning of combat on your turn, you may cast a spell with mana value equal to Jarsyl, Dark Age Scion's intensity from your graveyard without paying its mana cost. If you do, perpetually increase Jarsyl's dintensity by 1.
+   At the beginning of combat on your turn, you may cast a spell with mana value equal to Jarsyl, Dark Age Scion's intensity from your graveyard without paying its mana cost. If you do, perpetually increase Jarsyl's intensity by 1.
 
 
-:mtgtip:`Raddic, Tal Zealot<https://cards.scryfall.io/border_crop/front/0/6/06aac933-a8e4-4cfb-aac2-fe9c23baec61.jpg?1670259928|https://scryfall.com/card/ybro/20/raddic-tal-zealot?utm_source=api>`
-   Hexproof from white, hexproof from black
+:mtgtip:`Perilous Iteration<https://cards.scryfall.io/border_crop/front/5/0/503d76d1-12c3-4df0-b7c5-83f3fca544e5.jpg?1670715202|https://scryfall.com/card/ybro/21/perilous-iteration?utm_source=api>`
+   Seek a card with mana value 2 or less and a card with mana value 3 or greater. Discard those cards at the beginning of your next turn's end step.
+
+
+:mtgtip:`Raddic, Tal Zealot<https://cards.scryfall.io/border_crop/front/0/6/06aac933-a8e4-4cfb-aac2-fe9c23baec61.jpg?1670704967|https://scryfall.com/card/ybro/22/raddic-tal-zealot?utm_source=api>`
+   Hexproof from white and from black
 
    Whenever one or more Knights you control attack, draft a card from Raddic, Tal Zealot's spellbook.
 
 
-:mtgtip:`Richlau, Headmaster<https://cards.scryfall.io/border_crop/front/e/d/ed33af8b-d1e9-4298-852c-c9ba7f50e2e7.jpg?1670259817|https://scryfall.com/card/ybro/21/richlau-headmaster?utm_source=api>`
-   At the beginning of your end step, you may pay |mana_1|. When you do, target artifact card in your graveyard perpetually gains "This creature spell costs |mana_1| less to cast." If it's a creature or Vehicle card, it perpetually gets +2/+2. Put it into your library second from the top.
+:mtgtip:`Richlau, Headmaster<https://cards.scryfall.io/border_crop/front/e/d/ed33af8b-d1e9-4298-852c-c9ba7f50e2e7.jpg?1670704473|https://scryfall.com/card/ybro/23/richlau-headmaster?utm_source=api>`
+   At the beginning of your end step, you may pay |mana_1|. When you do, target artifact card in your graveyard perpetually gains "This spell costs |mana_1| less to cast." If it's a creature or Vehicle card, it perpetually gets +2/+2. Put it into your library second from the top.
 
 
-:mtgtip:`Rusko, Clockmaker<https://cards.scryfall.io/border_crop/front/0/1/01b4c54e-7950-4183-a69d-39a777f424bc.jpg?1670259940|https://scryfall.com/card/ybro/22/rusko-clockmaker?utm_source=api>`
+:mtgtip:`Rusko, Clockmaker<https://cards.scryfall.io/border_crop/front/0/1/01b4c54e-7950-4183-a69d-39a777f424bc.jpg?1670259940|https://scryfall.com/card/ybro/24/rusko-clockmaker?utm_source=api>`
    When Rusko, Clockmaker enters the battlefield, conjure a card named Midnight Clock onto the battlefield.
 
    Whenever you cast a noncreature spell, put an hour counter on each permanent you control named Midnight Clock. Each opponent loses 1 life and you gain 1 life.
 
 
-:mtgtip:`Yotian Courier<https://cards.scryfall.io/border_crop/front/8/4/84600a75-a2f1-408c-830d-44074cd78ac2.jpg?1670259915|https://scryfall.com/card/ybro/23/yotian-courier?utm_source=api>`
+:mtgtip:`Yotian Courier<https://cards.scryfall.io/border_crop/front/8/4/84600a75-a2f1-408c-830d-44074cd78ac2.jpg?1670259915|https://scryfall.com/card/ybro/25/yotian-courier?utm_source=api>`
    Flying
 
    Whenever Yotian Courier attacks, choose one that wasn't chosen during your last combat —
@@ -147,4 +151,34 @@
    • Create a tapped Powerstone token.
 
    • Seek an artifact card with mana value equal to the number of Powerstones you control.
+
+
+:mtgtip:`Forgefire Automaton<https://cards.scryfall.io/border_crop/front/e/2/e2f1a70c-25c4-4f03-8b04-92b34ce4fe1b.jpg?1670375774|https://scryfall.com/card/ybro/26/forgefire-automaton?utm_source=api>`
+   Prototype |mana_2|\ |mana_b| — 3/2
+
+   At the beginning of your upkeep, return target creature card with power less than Forgefire Automaton's power from your graveyard to the battlefield. Its base power perpetually becomes equal to Forgefire Automaton's power.
+
+
+:mtgtip:`Gixian Recycler<https://cards.scryfall.io/border_crop/front/6/0/6059eebe-7be0-4231-80ae-f4857f8db61f.jpg?1670258576|https://scryfall.com/card/ybro/27/gixian-recycler?utm_source=api>`
+   When Gixian Recycler dies or is put into your graveyard from your hand or library, conjure a card named Gixian Recycler into your graveyard.
+
+   Unearth |mana_1|\ |mana_b|
+
+
+:mtgtip:`Patchplate Resolute<https://cards.scryfall.io/border_crop/front/0/5/05bbcbef-c466-4e4c-b87c-f8ab3eec2737.jpg?1671083951|https://scryfall.com/card/ybro/28/patchplate-resolute?utm_source=api>`
+   When Patchplate Resolute enters or leaves the battlefield, you get a boon with "When you cast your next creature spell, that creature enters the battlefield with an additional +1/+1 counter on it."
+
+   Unearth |mana_1|\ |mana_w|
+
+
+:mtgtip:`Urza's Construction Drone<https://cards.scryfall.io/border_crop/front/b/f/bfa6bfa2-0aee-4623-a17e-a77898deb16d.jpg?1670715271|https://scryfall.com/card/ybro/29/urzas-construction-drone?utm_source=api>`
+   When Urza's Construction Drone enters the battlefield, conjure cards named Urza's Mine, Urza's Power Plant, and Urza's Tower into your library, then shuffle.
+
+   Whenever Urza's Construction Drone attacks or dies, seek an Urza's land card.
+
+
+:mtgtip:`Warzone Duplicator<https://cards.scryfall.io/border_crop/front/d/4/d40bfed4-7f86-486e-a903-0165cd40e77b.jpg?1670704486|https://scryfall.com/card/ybro/30/warzone-duplicator?utm_source=api>`
+   Prototype |mana_3|\ |mana_u| — 3/3
+
+   When Warzone Duplicator enters the battlefield, return target creature an opponent controls with power less than Warzone Duplicator's power to its owner's hand. If that creature wasn't a token, conjure a duplicate of it into your hand. It perpetually gains "You may spend this mana as though it were mana of any color to cast this card we wish we could read the end of, but it got previewed with a scrollbar on the text which is very cool."
 

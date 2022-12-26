@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG po polsku 2022.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-21 10:32+0100\n"
+"POT-Creation-Date: 2022-12-27 00:43+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -305,42 +305,62 @@ msgstr ""
 msgid "Whenever Jor Kadeen, First Goldwarden attacks, it gets +X/+X until end of turn, where X is the number of equipped creatures you control. Then if Jor Kadeen's power is 4 or greater, draw a card."
 msgstr ""
 
-#: ../../ONE.rst:46
-msgid ":mtgtip:`Plains<https://cards.scryfall.io/border_crop/front/5/0/50958c6e-9555-42ad-9bb3-2da9faa5cb52.jpg?1670946538|https://scryfall.com/card/one/262/plains?utm_source=api>`"
+#: ../../ONE.rst:52
+msgid ":mtgtip:`Kaito, Dancing Shadow<https://cards.scryfall.io/border_crop/front/0/d/0d97f59a-07b8-47ef-aa88-d94f8c3feae4.jpg?1671884676|https://scryfall.com/card/one/204/kaito-dancing-shadow?utm_source=api>`"
 msgstr ""
 
 #: ../../ONE.rst:45
-msgid "(|tap|: Add |mana_w|.)"
+msgid "Whenever one or more creatures you control deal combat damage to a player, you may return one of them to its owner's hand. If you do, you may activate loyalty abilities of Kaito twice this turn rather than only once."
 msgstr ""
 
-#: ../../ONE.rst:50
-msgid ":mtgtip:`Island<https://cards.scryfall.io/border_crop/front/5/c/5c6322d4-52bf-471a-a5b2-8329ef4be39a.jpg?1670946547|https://scryfall.com/card/one/263/island?utm_source=api>`"
+#: ../../ONE.rst:47
+msgid "+1: Up to one target creature can't attack or block until your next turn."
 msgstr ""
 
 #: ../../ONE.rst:49
+msgid "0: Draw a card."
+msgstr ""
+
+#: ../../ONE.rst:51
+msgid "−2: Create a 2/2 colorless Drone artifact creature token with deathtouch and \"When this creature leaves the battlefield, each opponent loses 2 life and you gain 2 life.\""
+msgstr ""
+
+#: ../../ONE.rst:56
+msgid ":mtgtip:`Plains<https://cards.scryfall.io/border_crop/front/5/0/50958c6e-9555-42ad-9bb3-2da9faa5cb52.jpg?1670946538|https://scryfall.com/card/one/262/plains?utm_source=api>`"
+msgstr ""
+
+#: ../../ONE.rst:55
+msgid "(|tap|: Add |mana_w|.)"
+msgstr ""
+
+#: ../../ONE.rst:60
+msgid ":mtgtip:`Island<https://cards.scryfall.io/border_crop/front/5/c/5c6322d4-52bf-471a-a5b2-8329ef4be39a.jpg?1670946547|https://scryfall.com/card/one/263/island?utm_source=api>`"
+msgstr ""
+
+#: ../../ONE.rst:59
 msgid "(|tap|: Add |mana_u|.)"
 msgstr ""
 
-#: ../../ONE.rst:54
+#: ../../ONE.rst:64
 msgid ":mtgtip:`Swamp<https://cards.scryfall.io/border_crop/front/7/3/736a0484-e091-4178-92c5-c517b0e92f3d.jpg?1670946523|https://scryfall.com/card/one/264/swamp?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:53
+#: ../../ONE.rst:63
 msgid "(|tap|: Add |mana_b|.)"
 msgstr ""
 
-#: ../../ONE.rst:58
+#: ../../ONE.rst:68
 msgid ":mtgtip:`Mountain<https://cards.scryfall.io/border_crop/front/6/d/6d9e44c1-7b51-47cb-b564-608deb46cc44.jpg?1670946504|https://scryfall.com/card/one/265/mountain?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:57
+#: ../../ONE.rst:67
 msgid "(|tap|: Add |mana_r|.)"
 msgstr ""
 
-#: ../../ONE.rst:61
+#: ../../ONE.rst:71
 msgid ":mtgtip:`Forest<https://cards.scryfall.io/border_crop/front/4/f/4fce7045-4572-4e9e-8853-2a5dcfc989ac.jpg?1670946494|https://scryfall.com/card/one/266/forest?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:61
+#: ../../ONE.rst:71
 msgid "(|tap|: Add |mana_g|.)"
 msgstr ""

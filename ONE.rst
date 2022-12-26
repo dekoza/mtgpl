@@ -41,6 +41,16 @@
    Whenever Jor Kadeen, First Goldwarden attacks, it gets +X/+X until end of turn, where X is the number of equipped creatures you control. Then if Jor Kadeen's power is 4 or greater, draw a card.
 
 
+:mtgtip:`Kaito, Dancing Shadow<https://cards.scryfall.io/border_crop/front/0/d/0d97f59a-07b8-47ef-aa88-d94f8c3feae4.jpg?1671884676|https://scryfall.com/card/one/204/kaito-dancing-shadow?utm_source=api>`
+   Whenever one or more creatures you control deal combat damage to a player, you may return one of them to its owner's hand. If you do, you may activate loyalty abilities of Kaito twice this turn rather than only once.
+
+   +1: Up to one target creature can't attack or block until your next turn.
+
+   0: Draw a card.
+
+   −2: Create a 2/2 colorless Drone artifact creature token with deathtouch and "When this creature leaves the battlefield, each opponent loses 2 life and you gain 2 life."
+
+
 :mtgtip:`Plains<https://cards.scryfall.io/border_crop/front/5/0/50958c6e-9555-42ad-9bb3-2da9faa5cb52.jpg?1670946538|https://scryfall.com/card/one/262/plains?utm_source=api>`
    (|tap|: Add |mana_w|.)
 
