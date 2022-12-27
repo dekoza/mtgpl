@@ -71,7 +71,7 @@
    When Wreck Hunter enters the battlefield, choose target player. You create a tapped Powerstone token for each nonland card in that player's graveyard that was put there from the battlefield this turn. (It's an artifact with "|tap|: Add |colorless|. This mana can't be spent to cast a nonartifact spell.")
 
 
-:mtgtip:`Blast-Furnace Hellkite<https://cards.scryfall.io/border_crop/front/0/4/04c349f2-69b1-48dd-a547-f2b55f542700.jpg?1669100393|https://scryfall.com/card/brc/12/blast-furnace-hellkite?utm_source=api>`
+:mtgtip:`Blast-Furnace Hellkite<https://cards.scryfall.io/border_crop/front/0/4/04c349f2-69b1-48dd-a547-f2b55f542700.jpg?1670648031|https://scryfall.com/card/brc/12/blast-furnace-hellkite?utm_source=api>`
    Artifact offering (You may cast this spell as though it had flash by sacrificing an artifact and paying the difference in mana costs between this and the sacrificed artifact. Mana cost includes color.)
 
    Flying, double strike
@@ -141,7 +141,7 @@
    Permanents can't phase in.
 
 
-:mtgtip:`The Brothers' War<https://cards.scryfall.io/border_crop/front/5/6/5615a50b-3b8b-4d31-b351-1725b730ef0b.jpg?1669100527|https://scryfall.com/card/brc/22/the-brothers-war?utm_source=api>`
+:mtgtip:`The Brothers' War<https://cards.scryfall.io/border_crop/front/5/6/5615a50b-3b8b-4d31-b351-1725b730ef0b.jpg?1670567948|https://scryfall.com/card/brc/22/the-brothers-war?utm_source=api>`
    (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 
    I — Create two tapped Powerstone tokens.
@@ -159,7 +159,7 @@
    Whenever an artifact an opponent controls is put into a graveyard from the battlefield, Sardian Avenger deals 1 damage to that player.
 
 
-:mtgtip:`Rootpath Purifier<https://cards.scryfall.io/border_crop/front/c/9/c9249743-d49e-4450-8fa6-52ed0ff6e5bb.jpg?1669100549|https://scryfall.com/card/brc/24/rootpath-purifier?utm_source=api>`
+:mtgtip:`Rootpath Purifier<https://cards.scryfall.io/border_crop/front/c/9/c9249743-d49e-4450-8fa6-52ed0ff6e5bb.jpg?1670574531|https://scryfall.com/card/brc/24/rootpath-purifier?utm_source=api>`
    Lands you control and land cards in your library are basic.
 
 
@@ -187,7 +187,7 @@
    Equip |mana_3|
 
 
-:mtgtip:`Urza's Workshop<https://cards.scryfall.io/border_crop/front/3/7/37c9b9d7-2fa7-4710-94bb-c55ee7bf598c.jpg?1669100593|https://scryfall.com/card/brc/28/urzas-workshop?utm_source=api>`
+:mtgtip:`Urza's Workshop<https://cards.scryfall.io/border_crop/front/3/7/37c9b9d7-2fa7-4710-94bb-c55ee7bf598c.jpg?1670871614|https://scryfall.com/card/brc/28/urzas-workshop?utm_source=api>`
    |tap|: Add |colorless|.
 
    Metalcraft — |tap|: Add |colorless| for each Urza's land you control. Activate only if you control three or more artifacts.
@@ -285,7 +285,7 @@
    Exile all nonland permanents that aren't legendary.
 
 
-:mtgtip:`Bident of Thassa<https://cards.scryfall.io/border_crop/front/1/e/1e2df1d6-af98-4d6a-bae9-f5df8f21b6cf.jpg?1669101159|https://scryfall.com/card/brc/80/bident-of-thassa?utm_source=api>`
+:mtgtip:`Bident of Thassa<https://cards.scryfall.io/border_crop/front/1/e/1e2df1d6-af98-4d6a-bae9-f5df8f21b6cf.jpg?1670574481|https://scryfall.com/card/brc/80/bident-of-thassa?utm_source=api>`
    Whenever a creature you control deals combat damage to a player, you may draw a card.
 
    |mana_1|\ |mana_u|, |tap|: Creatures your opponents control attack this turn if able.
@@ -585,7 +585,7 @@
    |tap|: Add one mana of any color in your commander's color identity.
 
 
-:mtgtip:`Azorius Signet<https://cards.scryfall.io/border_crop/front/6/4/64ce2373-6b2c-4248-a053-a7fc49f7c480.jpg?1669101736|https://scryfall.com/card/brc/133/azorius-signet?utm_source=api>`
+:mtgtip:`Azorius Signet<https://cards.scryfall.io/border_crop/front/6/4/64ce2373-6b2c-4248-a053-a7fc49f7c480.jpg?1670032369|https://scryfall.com/card/brc/133/azorius-signet?utm_source=api>`
    |mana_1|, |tap|: Add |mana_w|\ |mana_u|.
 
 
@@ -669,7 +669,7 @@
    Sacrifice two artifacts: Return Metalwork Colossus from your graveyard to your hand.
 
 
-:mtgtip:`Mind Stone<https://cards.scryfall.io/border_crop/front/6/f/6ff5cc3e-0179-442e-a0b0-48063dd59fb3.jpg?1669101900|https://scryfall.com/card/brc/148/mind-stone?utm_source=api>`
+:mtgtip:`Mind Stone<https://cards.scryfall.io/border_crop/front/6/f/6ff5cc3e-0179-442e-a0b0-48063dd59fb3.jpg?1670032344|https://scryfall.com/card/brc/148/mind-stone?utm_source=api>`
    |tap|: Add |colorless|.
 
    |mana_1|, |tap|, Sacrifice Mind Stone: Draw a card.
@@ -711,7 +711,7 @@
    |mana_1|, |tap|: Add one mana of any color.
 
 
-:mtgtip:`Rakdos Signet<https://cards.scryfall.io/border_crop/front/9/2/929fc40a-6d21-4907-8ab9-d68dcc1a0bc2.jpg?1669101991|https://scryfall.com/card/brc/156/rakdos-signet?utm_source=api>`
+:mtgtip:`Rakdos Signet<https://cards.scryfall.io/border_crop/front/9/2/929fc40a-6d21-4907-8ab9-d68dcc1a0bc2.jpg?1670032356|https://scryfall.com/card/brc/156/rakdos-signet?utm_source=api>`
    |mana_1|, |tap|: Add |mana_b|\ |mana_r|.
 
 
