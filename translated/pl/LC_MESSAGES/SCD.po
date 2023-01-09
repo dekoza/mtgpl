@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG po polsku 2022.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-21 10:32+0100\n"
+"POT-Creation-Date: 2023-01-09 02:50+0100\n"
 "PO-Revision-Date: 2022-12-22 13:30+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/scd/pl/>\n"
@@ -1301,7 +1301,8 @@ msgstr ""
 
 #: ../../SCD.rst:353
 msgid "Creature spells with flying you cast cost |mana_1| less to cast."
-msgstr "Rzucanie czarów stworów mających latanie kosztuje cię o |mana_1| mniej."
+msgstr ""
+"Rzucanie czarów stworów mających latanie kosztuje cię o |mana_1| mniej."
 
 #: ../../SCD.rst:360
 msgid ""
@@ -1563,8 +1564,8 @@ msgid ""
 "counts toward your devotion to black.)"
 msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, każdy przeciwnik traci po X żyć, gdzie "
-"X jest twoim kultem czarnego. Zyskaj tyle żyć, ile stracono w ten sposób. ("
-"Każdy symbol |mana_b| w kosztach bytów pod twoim władaniem wlicza się do "
+"X jest twoim kultem czarnego. Zyskaj tyle żyć, ile stracono w ten sposób. "
+"(Każdy symbol |mana_b| w kosztach bytów pod twoim władaniem wlicza się do "
 "twojego kultu czarnego.)"
 
 #: ../../SCD.rst:442
@@ -1594,8 +1595,8 @@ msgid ""
 "Kicker |mana_5|\\ |mana_b| (You may pay an additional |mana_5|\\ |mana_b| as "
 "you cast this spell.)"
 msgstr ""
-"Podbicie |mana_5|\\ |mana_b| (Rzucając ten czar możesz dodatkowo zapłacić "
-"|mana_5|\\ |mana_b|.)"
+"Podbicie |mana_5|\\ |mana_b| (Rzucając ten czar możesz dodatkowo zapłacić |"
+"mana_5|\\ |mana_b|.)"
 
 #: ../../SCD.rst:447 ../../SCD.rst:493 ../../SCD.rst:1353
 msgid "Menace"
@@ -1782,7 +1783,8 @@ msgstr "Dotyk śmierci"
 #: ../../SCD.rst:505
 msgid ""
 "When Mire Triton enters the battlefield, mill two cards and you gain 2 life."
-msgstr "Kiedy ten byt wejdzie na pole bitwy, zmiel dwie karty i zyskaj 2 życia."
+msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, zmiel dwie karty i zyskaj 2 życia."
 
 #: ../../SCD.rst:510
 msgid ""
@@ -2339,7 +2341,8 @@ msgstr ""
 #: ../../SCD.rst:683
 msgid ""
 "|mana_2|\\ |mana_r|, |tap|: Brash Taunter fights another target creature."
-msgstr "|mana_2|\\ |mana_r|, |tap|: Ten stwór walczy z innym wskazanym stworem."
+msgstr ""
+"|mana_2|\\ |mana_r|, |tap|: Ten stwór walczy z innym wskazanym stworem."
 
 #: ../../SCD.rst:688
 msgid ""
@@ -2888,8 +2891,8 @@ msgid ""
 "Whenever a Dragon enters the battlefield under your control, you may pay |"
 "mana_r|. If you do, return Spit Flame from your graveyard to your hand."
 msgstr ""
-"Ilekroć Smok wejdzie na pole bitwy pod twoim władaniem, możesz zapłacić "
-"|mana_r|. Jeśli tak zrobisz, przywróć tę kartę z twojego cmentarza do twojej "
+"Ilekroć Smok wejdzie na pole bitwy pod twoim władaniem, możesz zapłacić |"
+"mana_r|. Jeśli tak zrobisz, przywróć tę kartę z twojego cmentarza do twojej "
 "ręki."
 
 #: ../../SCD.rst:870
@@ -3340,8 +3343,8 @@ msgid ""
 "Khans — At the beginning of each of your main phases, add |mana_g|\\ |"
 "mana_g|."
 msgstr ""
-"Chanowie — Z początkiem każdej z twoich faz głównych dodaj |mana_g|\\ "
-"|mana_g| do twojej puli many."
+"Chanowie — Z początkiem każdej z twoich faz głównych dodaj |mana_g|\\ |"
+"mana_g| do twojej puli many."
 
 #: ../../SCD.rst:1007
 msgid ""
@@ -3727,8 +3730,8 @@ msgstr ""
 msgid ""
 "Each creature you control with a counter on it has \"|tap|: Add |mana_g|.\""
 msgstr ""
-"Każdy stwór pod twoim władaniem mający jakiś znacznik ma \"|tap|: Weź "
-"|mana_g|.\""
+"Każdy stwór pod twoim władaniem mający jakiś znacznik ma \"|tap|: Weź |"
+"mana_g|.\""
 
 #: ../../SCD.rst:1138
 msgid ""
@@ -3988,8 +3991,8 @@ msgid ""
 "|mana_7|, |tap|, Sacrifice Draconic Disciple: Create a 5/5 red Dragon "
 "creature token with flying."
 msgstr ""
-"|mana_7|, |tap|, poświęć tego stwora: Stwórz żeton czerwonego stwora Smok 5/"
-"5 z lataniem."
+"|mana_7|, |tap|, poświęć tego stwora: Stwórz żeton czerwonego stwora Smok "
+"5/5 z lataniem."
 
 #: ../../SCD.rst:1232
 msgid ""
@@ -4694,7 +4697,8 @@ msgstr ""
 
 #: ../../SCD.rst:1477
 msgid "|tap|: Draw a card. Activate only if you created a token this turn."
-msgstr "|tap|: Dobierz kartę. Aktywuj tylko jeśli stworzyłeś żeton w tej turze."
+msgstr ""
+"|tap|: Dobierz kartę. Aktywuj tylko jeśli stworzyłeś żeton w tej turze."
 
 #: ../../SCD.rst:1479
 msgid ""
@@ -4739,8 +4743,8 @@ msgid ""
 "When Nihil Spellbomb is put into a graveyard from the battlefield, you may "
 "pay |mana_b|. If you do, draw a card."
 msgstr ""
-"Kiedy ten artefakt trafi do cmentarza z pola bitwy, możesz zapłacić |mana_b|"
-". Jeśli tak zrobisz, dobierz kartę."
+"Kiedy ten artefakt trafi do cmentarza z pola bitwy, możesz zapłacić |"
+"mana_b|. Jeśli tak zrobisz, dobierz kartę."
 
 #: ../../SCD.rst:1498
 msgid ""
