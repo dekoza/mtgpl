@@ -1,237 +1,238 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2013-2022, Dominik Kozaczko
 # This file is distributed under the same license as the MTG po polsku package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-#, fuzzy
+# Weblate Admin <weblate-admin@kozaczko.info>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG po polsku 2022.12\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-22 22:01+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2023-01-22 22:21+0000\n"
+"Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
+"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/one/pl/>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.14\n"
 
 #: ../../symbols.rst:3
 msgid "{C}"
-msgstr ""
+msgstr "{C}"
 
 #: ../../symbols.rst:5
 msgid "{T}"
-msgstr ""
+msgstr "{T}"
 
 #: ../../symbols.rst:7
 msgid "{Q}"
-msgstr ""
+msgstr "{Q}"
 
 #: ../../symbols.rst:9
 msgid "{U}"
-msgstr ""
+msgstr "{U}"
 
 #: ../../symbols.rst:11
 msgid "{W}"
-msgstr ""
+msgstr "{W}"
 
 #: ../../symbols.rst:13
 msgid "{B}"
-msgstr ""
+msgstr "{B}"
 
 #: ../../symbols.rst:15
 msgid "{G}"
-msgstr ""
+msgstr "{G}"
 
 #: ../../symbols.rst:17
 msgid "{R}"
-msgstr ""
+msgstr "{R}"
 
 #: ../../symbols.rst:19
 msgid "{2/U}"
-msgstr ""
+msgstr "{2/U}"
 
 #: ../../symbols.rst:21
 msgid "{2/W}"
-msgstr ""
+msgstr "{2/W}"
 
 #: ../../symbols.rst:23
 msgid "{2/B}"
-msgstr ""
+msgstr "{2/B}"
 
 #: ../../symbols.rst:25
 msgid "{2/G}"
-msgstr ""
+msgstr "{2/G}"
 
 #: ../../symbols.rst:27
 msgid "{2/R}"
-msgstr ""
+msgstr "{2/R}"
 
 #: ../../symbols.rst:29
 msgid "{U/P}"
-msgstr ""
+msgstr "{U/P}"
 
 #: ../../symbols.rst:31
 msgid "{W/P}"
-msgstr ""
+msgstr "{W/P}"
 
 #: ../../symbols.rst:33
 msgid "{B/P}"
-msgstr ""
+msgstr "{B/P}"
 
 #: ../../symbols.rst:35
 msgid "{G/P}"
-msgstr ""
+msgstr "{G/P}"
 
 #: ../../symbols.rst:37
 msgid "{R/P}"
-msgstr ""
+msgstr "{R/P}"
 
 #: ../../symbols.rst:39
 msgid "{X}"
-msgstr ""
+msgstr "{X}"
 
 #: ../../symbols.rst:41
 msgid "{P}"
-msgstr ""
+msgstr "{P}"
 
 #: ../../symbols.rst:43
 msgid "{0}"
-msgstr ""
+msgstr "{0}"
 
 #: ../../symbols.rst:45
 msgid "{1}"
-msgstr ""
+msgstr "{1}"
 
 #: ../../symbols.rst:47
 msgid "{2}"
-msgstr ""
+msgstr "{2}"
 
 #: ../../symbols.rst:49
 msgid "{3}"
-msgstr ""
+msgstr "{3}"
 
 #: ../../symbols.rst:51
 msgid "{4}"
-msgstr ""
+msgstr "{4}"
 
 #: ../../symbols.rst:53
 msgid "{5}"
-msgstr ""
+msgstr "{5}"
 
 #: ../../symbols.rst:55
 msgid "{6}"
-msgstr ""
+msgstr "{6}"
 
 #: ../../symbols.rst:57
 msgid "{7}"
-msgstr ""
+msgstr "{7}"
 
 #: ../../symbols.rst:59
 msgid "{8}"
-msgstr ""
+msgstr "{8}"
 
 #: ../../symbols.rst:61
 msgid "{9}"
-msgstr ""
+msgstr "{9}"
 
 #: ../../symbols.rst:63
 msgid "{10}"
-msgstr ""
+msgstr "{10}"
 
 #: ../../symbols.rst:65
 msgid "{11}"
-msgstr ""
+msgstr "{11}"
 
 #: ../../symbols.rst:67
 msgid "{12}"
-msgstr ""
+msgstr "{12}"
 
 #: ../../symbols.rst:69
 msgid "{13}"
-msgstr ""
+msgstr "{13}"
 
 #: ../../symbols.rst:71
 msgid "{14}"
-msgstr ""
+msgstr "{14}"
 
 #: ../../symbols.rst:73
 msgid "{15}"
-msgstr ""
+msgstr "{15}"
 
 #: ../../symbols.rst:75
 msgid "{16}"
-msgstr ""
+msgstr "{16}"
 
 #: ../../symbols.rst:77
 msgid "{20}"
-msgstr ""
+msgstr "{20}"
 
 #: ../../symbols.rst:79
 msgid "{(r/g)}"
-msgstr ""
+msgstr "{(r/g)}"
 
 #: ../../symbols.rst:81
 msgid "{(r/w)}"
-msgstr ""
+msgstr "{(r/w)}"
 
 #: ../../symbols.rst:83
 msgid "{(u/b)}"
-msgstr ""
+msgstr "{(u/b)}"
 
 #: ../../symbols.rst:85
 msgid "{(u/r)}"
-msgstr ""
+msgstr "{(u/r)}"
 
 #: ../../symbols.rst:87
 msgid "{(w/b)}"
-msgstr ""
+msgstr "{(w/b)}"
 
 #: ../../symbols.rst:89
 msgid "{(w/u)}"
-msgstr ""
+msgstr "{(w/u)}"
 
 #: ../../symbols.rst:91
 msgid "{(b/g)}"
-msgstr ""
+msgstr "{(b/g)}"
 
 #: ../../symbols.rst:93
 msgid "{(b/r)}"
-msgstr ""
+msgstr "{(b/r)}"
 
 #: ../../symbols.rst:95
 msgid "{(g/w)}"
-msgstr ""
+msgstr "{(g/w)}"
 
 #: ../../symbols.rst:97
 msgid "{(g/u)}"
-msgstr ""
+msgstr "{(g/u)}"
 
 #: ../../symbols.rst:99
 msgid "{(g/u/p)}"
-msgstr ""
+msgstr "{(g/u/p)}"
 
 #: ../../symbols.rst:101
 msgid "{(g/w/p)}"
-msgstr ""
+msgstr "{(g/w/p)}"
 
 #: ../../symbols.rst:103
 msgid "{S}"
-msgstr ""
+msgstr "{S}"
 
 #: ../../symbols.rst:105
 msgid "{E}"
-msgstr ""
+msgstr "{E}"
 
 #: ../../symbols.rst:107
 msgid "{CHAOS}"
-msgstr ""
+msgstr "{CHAOS}"
 
 #: ../../symbols.rst:109
 msgid "{PW}"
-msgstr ""
+msgstr "{PW}"
 
 #: ../../ONE.rst:5
 msgid ":mtgexp:`ONE` Phyrexia: All Will Be One"
@@ -251,6 +252,8 @@ msgid ""
 "Toxic 1 (Players dealt combat damage by this creature also get a poison "
 "counter.)"
 msgstr ""
+"Toksyny 1 (Gracz otrzymujący od niniejszego obrażenia dostaje także znacznik "
+"zatrucia.)"
 
 #: ../../ONE.rst:11
 msgid ""
@@ -269,13 +272,15 @@ msgstr ""
 #: ../../ONE.rst:15 ../../ONE.rst:43 ../../ONE.rst:223 ../../ONE.rst:249
 #: ../../ONE.rst:343 ../../ONE.rst:655 ../../ONE.rst:901 ../../ONE.rst:909
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 #: ../../ONE.rst:17
 msgid ""
 "Corrupted — As long as an opponent has three or more poison counters, "
 "Apostle of Invasion has double strike."
 msgstr ""
+"Zbrukanie — O ile przeciwnik ma co najmniej trzy znaczniki zatrucia, "
+"niniejszy ma podwójny cios."
 
 #: ../../ONE.rst:22
 msgid ""
@@ -288,6 +293,8 @@ msgstr ""
 msgid ""
 "Target creature gets +2/+2 until end of turn. If it has toxic, draw a card."
 msgstr ""
+"Wskazany stwór do końca tury dostaje +2/+2. Jeśli ma on toksyczność, dobierz "
+"kartę."
 
 #: ../../ONE.rst:30
 msgid ""
@@ -299,13 +306,15 @@ msgstr ""
 
 #: ../../ONE.rst:25
 msgid "Vigilance"
-msgstr ""
+msgstr "Czujność"
 
 #: ../../ONE.rst:27
 msgid ""
 "If a permanent entering the battlefield causes a triggered ability of a "
 "permanent you control to trigger, that ability triggers an additional time."
 msgstr ""
+"Jeśli byt wchodzący na pole bitwy powoduje wyzwolenie zdolności bytu pod "
+"twoim władaniem, owa zdolność wyzwalana jest dodatkowy raz."
 
 #: ../../ONE.rst:29
 msgid ""
@@ -363,7 +372,7 @@ msgstr ""
 
 #: ../../ONE.rst:49 ../../ONE.rst:435
 msgid "Equipped creature gets +2/+0."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +2/+0."
 
 #: ../../ONE.rst:51
 msgid ""
@@ -385,7 +394,7 @@ msgstr ""
 
 #: ../../ONE.rst:57
 msgid "Double strike"
-msgstr ""
+msgstr "Podwójny cios"
 
 #: ../../ONE.rst:68
 msgid ""
@@ -402,7 +411,7 @@ msgstr ""
 
 #: ../../ONE.rst:65
 msgid "Equipped creatures you control get +1/+1."
-msgstr ""
+msgstr "Wyposażone stwory pod twoim władaniem dostają +1/+1."
 
 #: ../../ONE.rst:67
 msgid "|mana_3|\\ |mana_w|\\ |mana_w|: Create a 2/2 white Cat creature token."
@@ -420,6 +429,8 @@ msgid ""
 "If one or more tokens would be created under your control, twice that many "
 "of those tokens are created instead."
 msgstr ""
+"Jeśli jeden lub więcej żetonów miałoby zostać stworzonych pod twoim "
+"władaniem, zamiast tego tworzonych ich jest dwukrotnie tyle."
 
 #: ../../ONE.rst:73
 msgid ""
@@ -472,13 +483,15 @@ msgstr ""
 
 #: ../../ONE.rst:89
 msgid "Enchant artifact, creature, or planeswalker"
-msgstr ""
+msgstr "Zaurocz artefakt, stwora lub wędrowca"
 
 #: ../../ONE.rst:91
 msgid ""
 "Enchanted permanent can't attack or block, and its activated abilities can't "
 "be activated."
 msgstr ""
+"Zauroczony byt nie może atakować ani blokować, a jego aktywowane zdolności "
+"nie mogą być aktywowane."
 
 #: ../../ONE.rst:98
 msgid ""
@@ -489,7 +502,7 @@ msgstr ""
 
 #: ../../ONE.rst:95
 msgid "Target creature gets +2/+2 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór do końca tury dostaje +2/+2."
 
 #: ../../ONE.rst:97
 msgid "Equipped creatures you control gain indestructible until end of turn."
@@ -504,7 +517,7 @@ msgstr ""
 
 #: ../../ONE.rst:101
 msgid "|mana_3|\\ |mana_w|, |tap|: Tap target creature."
-msgstr ""
+msgstr "|mana_3|\\ |mana_w|, |tap|: Przekręć wskazanego stwora."
 
 #: ../../ONE.rst:103
 msgid ""
@@ -560,7 +573,7 @@ msgstr ""
 
 #: ../../ONE.rst:121
 msgid "Flying, vigilance"
-msgstr ""
+msgstr "Latanie, czujność"
 
 #: ../../ONE.rst:128
 msgid ""
@@ -575,7 +588,7 @@ msgstr ""
 
 #: ../../ONE.rst:127
 msgid "Exile target nonland permanent."
-msgstr ""
+msgstr "Wygnaj wskazany nielądowy byt."
 
 #: ../../ONE.rst:132
 msgid ""
@@ -629,7 +642,7 @@ msgstr ""
 
 #: ../../ONE.rst:143 ../../ONE.rst:795
 msgid "Equip |mana_2|"
-msgstr ""
+msgstr "Wyposaż |mana_2|"
 
 #: ../../ONE.rst:148
 msgid ""
@@ -734,7 +747,7 @@ msgstr ""
 
 #: ../../ONE.rst:177
 msgid "Enchant creature"
-msgstr ""
+msgstr "Zaurocz stwora"
 
 #: ../../ONE.rst:179
 msgid ""
@@ -745,7 +758,7 @@ msgstr ""
 
 #: ../../ONE.rst:181
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr ""
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania swojego władcy."
 
 #: ../../ONE.rst:190
 msgid ""
@@ -756,7 +769,7 @@ msgstr ""
 
 #: ../../ONE.rst:185
 msgid "Flash"
-msgstr ""
+msgstr "Błysk"
 
 #: ../../ONE.rst:187
 msgid ""
@@ -814,6 +827,8 @@ msgstr ""
 msgid ""
 "|mana_2|: Put target card from your graveyard on the bottom of your library."
 msgstr ""
+"|mana_2|: Umieść wskazaną kartę z twojego cmentarza na spodzie twojej "
+"biblioteki."
 
 #: ../../ONE.rst:214
 msgid ""
@@ -830,7 +845,7 @@ msgstr ""
 
 #: ../../ONE.rst:211
 msgid "Other artifact creatures you control get +1/+1."
-msgstr ""
+msgstr "Inne artefaktowe stwory pod twoim władaniem dostają +1/+1."
 
 #: ../../ONE.rst:213
 msgid ""
@@ -888,7 +903,7 @@ msgstr ""
 
 #: ../../ONE.rst:233
 msgid "Deathtouch"
-msgstr ""
+msgstr "Dotyk śmierci"
 
 #: ../../ONE.rst:240
 msgid ""
@@ -952,7 +967,7 @@ msgstr ""
 
 #: ../../ONE.rst:259
 msgid "You draw three cards and you lose 3 life."
-msgstr ""
+msgstr "Dobierz trzy karty i strać 3 życia."
 
 #: ../../ONE.rst:261
 msgid ""
@@ -1006,7 +1021,7 @@ msgstr ""
 
 #: ../../ONE.rst:279
 msgid "Enchant creature you control"
-msgstr ""
+msgstr "Zaurocz stwora pod twoim władaniem"
 
 #: ../../ONE.rst:281
 msgid ""
@@ -1019,6 +1034,8 @@ msgid ""
 "When enchanted creature dies, return that card to the battlefield under your "
 "control."
 msgstr ""
+"Kiedy zauroczony stwór umrze, przywróć ową kartę na pole bitwy pod twoim "
+"władaniem."
 
 #: ../../ONE.rst:290
 msgid ""
@@ -1048,7 +1065,7 @@ msgstr ""
 
 #: ../../ONE.rst:293
 msgid "At the beginning of your upkeep, you draw a card and you lose 1 life."
-msgstr ""
+msgstr "Na początku twojego kroku utrzymania, dobierz kartę i strać 1 życie."
 
 #: ../../ONE.rst:300
 msgid ""
@@ -1060,13 +1077,15 @@ msgstr ""
 #: ../../ONE.rst:297 ../../ONE.rst:391 ../../ONE.rst:441 ../../ONE.rst:505
 #: ../../ONE.rst:575
 msgid "Trample"
-msgstr ""
+msgstr "Tratowanie"
 
 #: ../../ONE.rst:299
 msgid ""
 "Whenever a source deals damage to Phyrexian Obliterator, that source's "
 "controller sacrifices that many permanents."
 msgstr ""
+"Ilekroć jakieś źródło zada obrażenia temu stworowi, władca owego źródła "
+"poświęca tyle samo bytów."
 
 #: ../../ONE.rst:304
 msgid ""
@@ -1241,7 +1260,7 @@ msgstr ""
 
 #: ../../ONE.rst:365
 msgid "Equip |mana_2|\\ |mana_r|"
-msgstr ""
+msgstr "Wyposaż |mana_2|\\ |mana_r|"
 
 #: ../../ONE.rst:370
 msgid ""
@@ -1290,7 +1309,7 @@ msgstr ""
 
 #: ../../ONE.rst:381 ../../ONE.rst:403
 msgid "Haste"
-msgstr ""
+msgstr "Pośpiech"
 
 #: ../../ONE.rst:383
 msgid ""
@@ -1436,6 +1455,9 @@ msgid ""
 "permanents and/or players, then give each another counter of each kind "
 "already there.)"
 msgstr ""
+"Ten czar zadaje wskazanemu celowi 3 obrażenia. Rozpleń. (Wybierz dowolną "
+"liczbę bytów i/lub graczy, po czym daj im kolejny znacznik każdego z już "
+"obecnych tam rodzajów.)"
 
 #: ../../ONE.rst:438
 msgid ""
@@ -1449,6 +1471,8 @@ msgid ""
 "Equip |mana_2|\\ |mana_r| (|mana_2|\\ |mana_r|: Attach to target creature "
 "you control. Equip only as a sorcery.)"
 msgstr ""
+"Wyposaż |mana_2|\\ |mana_r| (|mana_2|\\ |mana_r|: Dołącz do wskazanego "
+"stwora pod twoim władaniem. Wyposaż tylko jako obrzęd.)"
 
 #: ../../ONE.rst:446
 msgid ""
@@ -1488,7 +1512,7 @@ msgstr ""
 
 #: ../../ONE.rst:453
 msgid "You may play lands from your graveyard."
-msgstr ""
+msgstr "Możesz zagrywać lądy z twojego cmentarza."
 
 #: ../../ONE.rst:455
 msgid ""
@@ -1644,7 +1668,7 @@ msgstr ""
 
 #: ../../ONE.rst:503 ../../ONE.rst:513
 msgid "This spell can't be countered."
-msgstr ""
+msgstr "Ten czar nie może być skontrowany."
 
 #: ../../ONE.rst:507
 msgid ""
@@ -1745,7 +1769,7 @@ msgstr ""
 
 #: ../../ONE.rst:541
 msgid "Flying, vigilance, deathtouch, lifelink"
-msgstr ""
+msgstr "Latanie, czujność, dotyk śmierci, więź życia"
 
 #: ../../ONE.rst:543
 msgid ""
@@ -1771,7 +1795,7 @@ msgstr ""
 
 #: ../../ONE.rst:551
 msgid "Equipped creature has double strike."
-msgstr ""
+msgstr "Wyposażony stwór ma podwójny cios."
 
 #: ../../ONE.rst:553
 msgid "Equip |mana_3|\\ |mana_r|\\ |mana_w|"
@@ -1803,7 +1827,7 @@ msgstr ""
 
 #: ../../ONE.rst:563
 msgid "First strike, deathtouch"
-msgstr ""
+msgstr "Pierwszy cios, dotyk śmierci"
 
 #: ../../ONE.rst:565
 msgid "Whenever Glissa Sunslayer deals combat damage to a player, choose one —"
@@ -1811,11 +1835,11 @@ msgstr ""
 
 #: ../../ONE.rst:567
 msgid "You draw a card and you lose 1 life."
-msgstr ""
+msgstr "Dobierz kartę i strać 1 życie."
 
 #: ../../ONE.rst:569
 msgid "Destroy target enchantment."
-msgstr ""
+msgstr "Zniszcz wskazany urok."
 
 #: ../../ONE.rst:571
 msgid "Remove up to three counters from target permanent."
@@ -1856,7 +1880,7 @@ msgstr ""
 
 #: ../../ONE.rst:585
 msgid "0: Draw a card."
-msgstr ""
+msgstr "0: Dobierz kartę."
 
 #: ../../ONE.rst:587
 msgid ""
@@ -1874,7 +1898,7 @@ msgstr ""
 
 #: ../../ONE.rst:591
 msgid "Hexproof"
-msgstr ""
+msgstr "Antyklątwa"
 
 #: ../../ONE.rst:593
 msgid "+2: Each opponent loses 3 life and you gain 3 life."
@@ -2086,6 +2110,8 @@ msgid ""
 "Battle cry (Whenever this creature attacks, each other attacking creature "
 "gets +1/+0 until end of turn.)"
 msgstr ""
+"Okrzyk bojowy (Ilekroć ten stwór zaatakuje, każdy inny atakujący stwór do "
+"końca tury dostaje +1/+0.)"
 
 #: ../../ONE.rst:665
 msgid ""
@@ -2120,6 +2146,8 @@ msgid ""
 "You may activate abilities of creatures you control as though those "
 "creatures had haste."
 msgstr ""
+"Możesz aktywować zdolności stworów pod twoim władaniem jakby owe stwory "
+"miały pośpiech."
 
 #: ../../ONE.rst:677
 msgid "+1: Untap up to one target creature."
@@ -2369,7 +2397,7 @@ msgstr ""
 
 #: ../../ONE.rst:763
 msgid "Equip |mana_1|"
-msgstr ""
+msgstr "Wyposaż |mana_1|"
 
 #: ../../ONE.rst:770
 msgid ""
@@ -2493,10 +2521,12 @@ msgid ""
 "Blackcleave Cliffs enters the battlefield tapped unless you control two or "
 "fewer other lands."
 msgstr ""
+"Ten ląd wchodzi przekręcony na pole bitwy, chyba że władasz co najwyżej "
+"dwoma innymi lądami."
 
 #: ../../ONE.rst:813
 msgid "|tap|: Add |mana_b| or |mana_r|."
-msgstr ""
+msgstr "|tap|: Weź |mana_b| lub |mana_r|."
 
 #: ../../ONE.rst:820
 msgid ""
@@ -2510,10 +2540,12 @@ msgid ""
 "Copperline Gorge enters the battlefield tapped unless you control two or "
 "fewer other lands."
 msgstr ""
+"Ten ląd wchodzi przerkęcony na pole bitwy, chyba że władasz co najwyżej "
+"dwoma innymi lądami."
 
 #: ../../ONE.rst:819
 msgid "|tap|: Add |mana_r| or |mana_g|."
-msgstr ""
+msgstr "|tap|: Weź |mana_r| lub |mana_g|."
 
 #: ../../ONE.rst:828
 msgid ""
@@ -2524,7 +2556,7 @@ msgstr ""
 
 #: ../../ONE.rst:823 ../../ONE.rst:833 ../../ONE.rst:839 ../../ONE.rst:859
 msgid "|tap|: Add |colorless|."
-msgstr ""
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../ONE.rst:825
 msgid ""
@@ -2566,7 +2598,7 @@ msgstr ""
 
 #: ../../ONE.rst:841
 msgid "|mana_1|, |tap|: Add one mana of any color."
-msgstr ""
+msgstr "|mana_1|, |tap|: Weź jedną manę dowolnego koloru."
 
 #: ../../ONE.rst:843
 msgid ""
@@ -2586,10 +2618,12 @@ msgid ""
 "Razorverge Thicket enters the battlefield tapped unless you control two or "
 "fewer other lands."
 msgstr ""
+"Ten ląd wchodzi przerkęcony na pole bitwy, chyba że władasz co najwyżej "
+"dwoma innymi lądami."
 
 #: ../../ONE.rst:849
 msgid "|tap|: Add |mana_g| or |mana_w|."
-msgstr ""
+msgstr "|tap|: Weź |mana_g| lub |mana_w|."
 
 #: ../../ONE.rst:856
 msgid ""
@@ -2603,10 +2637,12 @@ msgid ""
 "Seachrome Coast enters the battlefield tapped unless you control two or "
 "fewer other lands."
 msgstr ""
+"Ten ląd wchodzi przerkęcony na pole bitwy, chyba że władasz co najwyżej "
+"dwoma innymi lądami."
 
 #: ../../ONE.rst:855
 msgid "|tap|: Add |mana_w| or |mana_u|."
-msgstr ""
+msgstr "|tap|: Weź |mana_w| lub |mana_u|."
 
 #: ../../ONE.rst:864
 msgid ""
@@ -2636,7 +2672,7 @@ msgstr ""
 
 #: ../../ONE.rst:867
 msgid "(|tap|: Add |mana_w|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_w|.)"
 
 #: ../../ONE.rst:872
 msgid ""
@@ -2647,7 +2683,7 @@ msgstr ""
 
 #: ../../ONE.rst:871
 msgid "(|tap|: Add |mana_u|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_u|.)"
 
 #: ../../ONE.rst:876
 msgid ""
@@ -2658,7 +2694,7 @@ msgstr ""
 
 #: ../../ONE.rst:875
 msgid "(|tap|: Add |mana_b|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_b|.)"
 
 #: ../../ONE.rst:880
 msgid ""
@@ -2669,7 +2705,7 @@ msgstr ""
 
 #: ../../ONE.rst:879
 msgid "(|tap|: Add |mana_r|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_r|.)"
 
 #: ../../ONE.rst:884
 msgid ""
@@ -2680,7 +2716,7 @@ msgstr ""
 
 #: ../../ONE.rst:883
 msgid "(|tap|: Add |mana_g|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_g|.)"
 
 #: ../../ONE.rst:890
 msgid ""
@@ -2694,10 +2730,12 @@ msgid ""
 "Darkslick Shores enters the battlefield tapped unless you control two or "
 "fewer other lands."
 msgstr ""
+"Ten ląd wchodzi przekręcony na pole bitwy, chyba że władasz co najwyżej "
+"dwoma innymi lądami."
 
 #: ../../ONE.rst:889
 msgid "|tap|: Add |mana_u| or |mana_b|."
-msgstr ""
+msgstr "|tap|: Weź |mana_u| lub |mana_b|."
 
 #: ../../ONE.rst:898
 msgid ""
@@ -2708,7 +2746,7 @@ msgstr ""
 
 #: ../../ONE.rst:893
 msgid "First strike"
-msgstr ""
+msgstr "Pierwszy cios"
 
 #: ../../ONE.rst:895
 msgid ""
@@ -2766,7 +2804,7 @@ msgstr ""
 
 #: ../../ONE.rst:915
 msgid "Trample, haste"
-msgstr ""
+msgstr "Tratowanie, pośpiech"
 
 #: ../../ONE.rst:917
 msgid ""
