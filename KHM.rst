@@ -1717,19 +1717,19 @@
    |mana_1|\ |mana_r|\ |mana_r|\ |mana_w|, |tap|, Sacrifice Axgard Armory: Search your library for an Aura card and/or an Equipment card, reveal them, put them into your hand, then shuffle.
 
 
-:mtgtip:`Barkchannel Pathway<https://cards.scryfall.io/border_crop/front/b/6/b6de14ae-0132-4261-af00-630bf15918cd.jpg?1636773926|https://scryfall.com/card/khm/251/barkchannel-pathway-tidechannel-pathway?utm_source=api>`
+:mtgtip:`Barkchannel Pathway<https://cards.scryfall.io/border_crop/front/b/6/b6de14ae-0132-4261-af00-630bf15918cd.jpg?1669839374|https://scryfall.com/card/khm/251/barkchannel-pathway-tidechannel-pathway?utm_source=api>`
    |tap|: Add |mana_g|.
 
 
-:mtgtip:`Tidechannel Pathway<https://cards.scryfall.io/border_crop/back/b/6/b6de14ae-0132-4261-af00-630bf15918cd.jpg?1636773926|https://scryfall.com/card/khm/251/barkchannel-pathway-tidechannel-pathway?utm_source=api>`
+:mtgtip:`Tidechannel Pathway<https://cards.scryfall.io/border_crop/back/b/6/b6de14ae-0132-4261-af00-630bf15918cd.jpg?1669839374|https://scryfall.com/card/khm/251/barkchannel-pathway-tidechannel-pathway?utm_source=api>`
    |tap|: Add |mana_u|.
 
 
-:mtgtip:`Blightstep Pathway<https://cards.scryfall.io/border_crop/front/0/c/0ce39a19-f51d-4a35-ae80-5b82eb15fcff.jpg?1636057723|https://scryfall.com/card/khm/252/blightstep-pathway-searstep-pathway?utm_source=api>`
+:mtgtip:`Blightstep Pathway<https://cards.scryfall.io/border_crop/front/0/c/0ce39a19-f51d-4a35-ae80-5b82eb15fcff.jpg?1669839373|https://scryfall.com/card/khm/252/blightstep-pathway-searstep-pathway?utm_source=api>`
    |tap|: Add |mana_b|.
 
 
-:mtgtip:`Searstep Pathway<https://cards.scryfall.io/border_crop/back/0/c/0ce39a19-f51d-4a35-ae80-5b82eb15fcff.jpg?1636057723|https://scryfall.com/card/khm/252/blightstep-pathway-searstep-pathway?utm_source=api>`
+:mtgtip:`Searstep Pathway<https://cards.scryfall.io/border_crop/back/0/c/0ce39a19-f51d-4a35-ae80-5b82eb15fcff.jpg?1669839373|https://scryfall.com/card/khm/252/blightstep-pathway-searstep-pathway?utm_source=api>`
    |tap|: Add |mana_r|.
 
 
@@ -1749,11 +1749,11 @@
    |mana_g|\ |mana_w|\ |mana_w|, |tap|, Sacrifice Bretagard Stronghold: Distribute two +1/+1 counters among one or two target creatures you control. They gain vigilance and lifelink until end of turn. Activate only as a sorcery.
 
 
-:mtgtip:`Darkbore Pathway<https://cards.scryfall.io/border_crop/front/8/7/87a4e5fe-161f-42da-9ca2-67c8e8970e94.jpg?1636057741|https://scryfall.com/card/khm/254/darkbore-pathway-slitherbore-pathway?utm_source=api>`
+:mtgtip:`Darkbore Pathway<https://cards.scryfall.io/border_crop/front/8/7/87a4e5fe-161f-42da-9ca2-67c8e8970e94.jpg?1669839402|https://scryfall.com/card/khm/254/darkbore-pathway-slitherbore-pathway?utm_source=api>`
    |tap|: Add |mana_b|.
 
 
-:mtgtip:`Slitherbore Pathway<https://cards.scryfall.io/border_crop/back/8/7/87a4e5fe-161f-42da-9ca2-67c8e8970e94.jpg?1636057741|https://scryfall.com/card/khm/254/darkbore-pathway-slitherbore-pathway?utm_source=api>`
+:mtgtip:`Slitherbore Pathway<https://cards.scryfall.io/border_crop/back/8/7/87a4e5fe-161f-42da-9ca2-67c8e8970e94.jpg?1669839402|https://scryfall.com/card/khm/254/darkbore-pathway-slitherbore-pathway?utm_source=api>`
    |tap|: Add |mana_g|.
 
 
@@ -1793,11 +1793,11 @@
    |mana_w|\ |mana_w|\ |mana_b|, |tap|, Sacrifice Great Hall of Starnheim and a creature you control: Create a 4/4 white Angel Warrior creature token with flying and vigilance. Activate only as a sorcery.
 
 
-:mtgtip:`Hengegate Pathway<https://cards.scryfall.io/border_crop/front/7/e/7ef37cb3-d803-47d7-8a01-9c803aa2eadc.jpg?1636057744|https://scryfall.com/card/khm/260/hengegate-pathway-mistgate-pathway?utm_source=api>`
+:mtgtip:`Hengegate Pathway<https://cards.scryfall.io/border_crop/front/7/e/7ef37cb3-d803-47d7-8a01-9c803aa2eadc.jpg?1669839407|https://scryfall.com/card/khm/260/hengegate-pathway-mistgate-pathway?utm_source=api>`
    |tap|: Add |mana_w|.
 
 
-:mtgtip:`Mistgate Pathway<https://cards.scryfall.io/border_crop/back/7/e/7ef37cb3-d803-47d7-8a01-9c803aa2eadc.jpg?1636057744|https://scryfall.com/card/khm/260/hengegate-pathway-mistgate-pathway?utm_source=api>`
+:mtgtip:`Mistgate Pathway<https://cards.scryfall.io/border_crop/back/7/e/7ef37cb3-d803-47d7-8a01-9c803aa2eadc.jpg?1669839407|https://scryfall.com/card/khm/260/hengegate-pathway-mistgate-pathway?utm_source=api>`
    |tap|: Add |mana_u|.
 
 

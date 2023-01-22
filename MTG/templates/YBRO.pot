@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG po polsku 2023.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-09 02:50+0100\n"
+"POT-Creation-Date: 2023-01-22 22:11+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -359,11 +359,11 @@ msgid "At the beginning of your upkeep, draft a card from Kayla's Kindling's spe
 msgstr ""
 
 #: ../../YBRO.rst:70
-msgid ":mtgtip:`Melt Through<https://cards.scryfall.io/border_crop/front/5/5/55f1d408-d08a-44be-8a75-d9ded9ef4684.jpg?1670715005|https://scryfall.com/card/ybro/10/melt-through?utm_source=api>`"
+msgid ":mtgtip:`Melt Through<https://cards.scryfall.io/border_crop/front/5/5/55f1d408-d08a-44be-8a75-d9ded9ef4684.jpg?1673293834|https://scryfall.com/card/ybro/10/melt-through?utm_source=api>`"
 msgstr ""
 
 #: ../../YBRO.rst:69
-msgid "Melt Through deals 2 damage to any target. If it's a creature, it perpetually gains \"As long as this creature is on the battlefield, damage isn't removed form it during cleanup steps.\""
+msgid "Melt Through deals 2 damage to any target. If it's a creature, it perpetually gains \"As long as this creature is on the battlefield, damage isn't removed from it during cleanup steps.\""
 msgstr ""
 
 #: ../../YBRO.rst:78
@@ -399,11 +399,11 @@ msgid "When Foundry Groundbreaker enters the battlefield, sacrifice a land. Then
 msgstr ""
 
 #: ../../YBRO.rst:90
-msgid ":mtgtip:`Legion of Clay<https://cards.scryfall.io/border_crop/front/0/3/030263e7-e881-40eb-8881-a8d90b5ab337.jpg?1670715067|https://scryfall.com/card/ybro/14/legion-of-clay?utm_source=api>`"
+msgid ":mtgtip:`Legion of Clay<https://cards.scryfall.io/border_crop/front/0/3/030263e7-e881-40eb-8881-a8d90b5ab337.jpg?1673293931|https://scryfall.com/card/ybro/14/legion-of-clay?utm_source=api>`"
 msgstr ""
 
 #: ../../YBRO.rst:89
-msgid "Creatures you control have trample. Whenever one or more nontoken artifacts enter the battlefield under your control, creatures you control get +1/+1."
+msgid "Creatures you control have trample. Whenever one or more nontoken artifacts enter the battlefield under your control, creatures you control perpetually get +1/+1."
 msgstr ""
 
 #: ../../YBRO.rst:94
@@ -527,7 +527,7 @@ msgid "Seek an artifact card with mana value equal to the number of Powerstones 
 msgstr ""
 
 #: ../../YBRO.rst:160
-msgid ":mtgtip:`Forgefire Automaton<https://cards.scryfall.io/border_crop/front/e/2/e2f1a70c-25c4-4f03-8b04-92b34ce4fe1b.jpg?1670375774|https://scryfall.com/card/ybro/26/forgefire-automaton?utm_source=api>`"
+msgid ":mtgtip:`Forgefire Automaton<https://cards.scryfall.io/border_crop/front/e/2/e2f1a70c-25c4-4f03-8b04-92b34ce4fe1b.jpg?1674379616|https://scryfall.com/card/ybro/26/forgefire-automaton?utm_source=api>`"
 msgstr ""
 
 #: ../../YBRO.rst:157
@@ -539,7 +539,7 @@ msgid "At the beginning of your upkeep, return target creature card with power l
 msgstr ""
 
 #: ../../YBRO.rst:166
-msgid ":mtgtip:`Gixian Recycler<https://cards.scryfall.io/border_crop/front/6/0/6059eebe-7be0-4231-80ae-f4857f8db61f.jpg?1670258576|https://scryfall.com/card/ybro/27/gixian-recycler?utm_source=api>`"
+msgid ":mtgtip:`Gixian Recycler<https://cards.scryfall.io/border_crop/front/6/0/6059eebe-7be0-4231-80ae-f4857f8db61f.jpg?1674379627|https://scryfall.com/card/ybro/27/gixian-recycler?utm_source=api>`"
 msgstr ""
 
 #: ../../YBRO.rst:163
@@ -575,7 +575,7 @@ msgid "Whenever Urza's Construction Drone attacks or dies, seek an Urza's land c
 msgstr ""
 
 #: ../../YBRO.rst:183
-msgid ":mtgtip:`Warzone Duplicator<https://cards.scryfall.io/border_crop/front/d/4/d40bfed4-7f86-486e-a903-0165cd40e77b.jpg?1670704486|https://scryfall.com/card/ybro/30/warzone-duplicator?utm_source=api>`"
+msgid ":mtgtip:`Warzone Duplicator<https://cards.scryfall.io/border_crop/front/d/4/d40bfed4-7f86-486e-a903-0165cd40e77b.jpg?1674285420|https://scryfall.com/card/ybro/30/warzone-duplicator?utm_source=api>`"
 msgstr ""
 
 #: ../../YBRO.rst:181
@@ -583,5 +583,5 @@ msgid "Prototype |mana_3|\\ |mana_u| — 3/3"
 msgstr ""
 
 #: ../../YBRO.rst:183
-msgid "When Warzone Duplicator enters the battlefield, return target creature an opponent controls with power less than Warzone Duplicator's power to its owner's hand. If that creature wasn't a token, conjure a duplicate of it into your hand. It perpetually gains \"You may spend this mana as though it were mana of any color to cast this card we wish we could read the end of, but it got previewed with a scrollbar on the text which is very cool.\""
+msgid "When Warzone Duplicator enters the battlefield, return target creature an opponent controls with power less than Warzone Duplicator's power to its owner's hand. If that creature wasn't a token, conjure a duplicate of it into your hand. It perpetually gains \"You may spend this mana as though it were mana of any color to cast this spell.\""
 msgstr ""

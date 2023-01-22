@@ -1205,11 +1205,11 @@
    Draw a card.
 
 
-:mtgtip:`Life<https://cards.scryfall.io/border_crop/front/e/1/e16d52ca-f8de-4852-9bff-9d208e5f678f.jpg?1670480397|https://scryfall.com/card/dmr/216/life-death?utm_source=api>`
+:mtgtip:`Life<https://cards.scryfall.io/border_crop/front/e/1/e16d52ca-f8de-4852-9bff-9d208e5f678f.jpg?1673591569|https://scryfall.com/card/dmr/216/life-death?utm_source=api>`
    All lands you control become 1/1 creatures until end of turn. They're still lands.
 
 
-:mtgtip:`Death<https://cards.scryfall.io/border_crop/front/e/1/e16d52ca-f8de-4852-9bff-9d208e5f678f.jpg?1670480397|https://scryfall.com/card/dmr/216/life-death?utm_source=api>`
+:mtgtip:`Death<https://cards.scryfall.io/border_crop/front/e/1/e16d52ca-f8de-4852-9bff-9d208e5f678f.jpg?1673591569|https://scryfall.com/card/dmr/216/life-death?utm_source=api>`
    Return target creature card from your graveyard to the battlefield. You lose life equal to its mana value.
 
 

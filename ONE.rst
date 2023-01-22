@@ -5,7 +5,23 @@
 ========================================
 
 
-:mtgtip:`Elesh Norn, Mother of Machines<https://cards.scryfall.io/border_crop/front/4/4/44dcab01-1d13-4dfc-ae2f-fbaa3dd35087.jpg?1670937315|https://scryfall.com/card/one/10/elesh-norn-mother-of-machines?utm_source=api>`
+:mtgtip:`Annex Sentry<https://cards.scryfall.io/border_crop/front/0/4/04baad61-1b51-4602-9e33-0de4a9f34793.jpg?1674258285|https://scryfall.com/card/one/2/annex-sentry?utm_source=api>`
+   Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)
+
+   When Annex Sentry enters the battlefield, exile target artifact or creature an opponent controls with mana value 3 or less until Annex Sentry leaves the battlefield.
+
+
+:mtgtip:`Apostle of Invasion<https://cards.scryfall.io/border_crop/front/8/a/8a973487-5def-4771-bb77-5748cbd2f469.jpg?1674258293|https://scryfall.com/card/one/3/apostle-of-invasion?utm_source=api>`
+   Flying
+
+   Corrupted — As long as an opponent has three or more poison counters, Apostle of Invasion has double strike.
+
+
+:mtgtip:`Compleat Devotion<https://cards.scryfall.io/border_crop/front/2/b/2bb29a69-3e42-4268-8026-f01072d7b56c.jpg?1674266031|https://scryfall.com/card/one/7/compleat-devotion?utm_source=api>`
+   Target creature gets +2/+2 until end of turn. If it has toxic, draw a card.
+
+
+:mtgtip:`Elesh Norn, Mother of Machines<https://cards.scryfall.io/border_crop/front/4/4/44dcab01-1d13-4dfc-ae2f-fbaa3dd35087.jpg?1674258301|https://scryfall.com/card/one/10/elesh-norn-mother-of-machines?utm_source=api>`
    Vigilance
 
    If a permanent entering the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
@@ -13,17 +29,347 @@
    Permanents entering the battlefield don't cause abilities of permanents your opponents control to trigger.
 
 
-:mtgtip:`Blue Sun's Twilight<https://cards.scryfall.io/border_crop/front/3/a/3a836e6b-6854-4f6f-bc78-2da1fd4dd224.jpg?1670937393|https://scryfall.com/card/one/43/blue-suns-twilight?utm_source=api>`
+:mtgtip:`The Eternal Wanderer<https://cards.scryfall.io/border_crop/front/9/0/905f0dd4-0197-45f8-8e7f-396d6dcef600.jpg?1674258310|https://scryfall.com/card/one/11/the-eternal-wanderer?utm_source=api>`
+   No more than one creature can attack The Eternal Wanderer each combat.
+
+   +1: Exile up to one target artifact or creature. Return that card to the battlefield under its owner's control at the beginning of that player's next end step.
+
+   0: Create a 2/2 white Samurai creature token with double strike.
+
+   −4: For each player, choose a creature that player controls. Each player sacrifices all creatures they control not chosen this way.
+
+
+:mtgtip:`Incisor Glider<https://cards.scryfall.io/border_crop/front/b/3/b3cf4c4f-bda6-454c-991d-429c0dca0e85.jpg?1674258317|https://scryfall.com/card/one/15/incisor-glider?utm_source=api>`
+   Flying
+
+   Corrupted — Whenever Incisor Glider attacks, if an opponent has three or more poison counters, creatures you control get +1/+1 until end of turn.
+
+
+:mtgtip:`Infested Fleshcutter<https://cards.scryfall.io/border_crop/front/9/f/9f03d6bf-cbba-4ad7-8cec-065a47f03dbe.jpg?1674258325|https://scryfall.com/card/one/17/infested-fleshcutter?utm_source=api>`
+   Equipped creature gets +2/+0.
+
+   Whenever equipped creature attacks, create a 1/1 colorless Phyrexian Mite artifact creature token with toxic 1 and "This creature can't block." (Players dealt combat damage by it also get a poison counter.)
+
+   Equip |mana_2|\ |mana_w|
+
+
+:mtgtip:`Jawbone Duelist<https://cards.scryfall.io/border_crop/front/b/0/b00ea7bb-705b-4669-bb2a-560bed04b14a.jpg?1674258343|https://scryfall.com/card/one/18/jawbone-duelist?utm_source=api>`
+   Double strike
+
+   Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)
+
+
+:mtgtip:`Kemba, Kha Enduring<https://cards.scryfall.io/border_crop/front/9/4/945d283d-4592-485f-808a-6e5a721f3cf7.jpg?1674022420|https://scryfall.com/card/one/19/kemba-kha-enduring?utm_source=api>`
+   Whenever Kemba, Kha Enduring or another Cat enters the battlefield under your control, attach up to one target Equipment you control to that creature.
+
+   Equipped creatures you control get +1/+1.
+
+   |mana_3|\ |mana_w|\ |mana_w|: Create a 2/2 white Cat creature token.
+
+
+:mtgtip:`Mondrak, Glory Dominus<https://cards.scryfall.io/border_crop/front/8/2/8296a455-21d5-498e-9029-2bdf0da855a8.jpg?1674076060|https://scryfall.com/card/one/23/mondrak-glory-dominus?utm_source=api>`
+   If one or more tokens would be created under your control, twice that many of those tokens are created instead.
+
+   |mana_1|\ |mana_wp|\ |mana_wp|, Sacrifice two other artifacts and/or creatures: Put an indestructible counter on Mondrak, Glory Dominus. (|mana_wp| can be paid with either |mana_w| or 2 life.)
+
+
+:mtgtip:`Norn's Wellspring<https://cards.scryfall.io/border_crop/front/e/e/eeebc0ab-89fb-47d5-a20f-8f1fe5e3c149.jpg?1674099756|https://scryfall.com/card/one/24/norns-wellspring?utm_source=api>`
+   Whenever a creature you control dies, scry 1 and put an oil counter on Norn's Wellspring.
+
+   |mana_1|, |tap|, Remove two oil counters from Norn's Wellspring: Draw a card.
+
+
+:mtgtip:`Ossification<https://cards.scryfall.io/border_crop/front/0/d/0da03224-c1af-438f-96c2-b0e41e1070b7.jpg?1674258362|https://scryfall.com/card/one/26/ossification?utm_source=api>`
+   Enchant basic land you control
+
+   When Ossification enters the battlefield, exile target creature or planeswalker an opponent controls until Ossification leaves the battlefield.
+
+
+:mtgtip:`Planar Disruption<https://cards.scryfall.io/border_crop/front/8/e/8ee69a1f-aeed-4eb4-8987-fa720fc99715.jpg?1674263925|https://scryfall.com/card/one/28/planar-disruption?utm_source=api>`
+   Enchant artifact, creature, or planeswalker
+
+   Enchanted permanent can't attack or block, and its activated abilities can't be activated.
+
+
+:mtgtip:`Resistance Reunited<https://cards.scryfall.io/border_crop/front/b/b/bbc4b5ca-557e-4465-9725-9e7a15590258.jpg?1674258405|https://scryfall.com/card/one/31/resistance-reunited?utm_source=api>`
+   Target creature gets +2/+2 until end of turn.
+
+   Equipped creatures you control gain indestructible until end of turn.
+
+
+:mtgtip:`Sinew Dancer<https://cards.scryfall.io/border_crop/front/e/b/ebad4fcc-4f78-48dc-b236-c78c22edc1e9.jpg?1674258438|https://scryfall.com/card/one/32/sinew-dancer?utm_source=api>`
+   |mana_3|\ |mana_w|, |tap|: Tap target creature.
+
+   Corrupted — |mana_w|, |tap|: Tap target creature. Activate only if an opponent has three or more poison counters.
+
+
+:mtgtip:`Skrelv, Defector Mite<https://cards.scryfall.io/border_crop/front/6/0/60b565da-a49b-479c-b0c4-8ff3dd20cc0b.jpg?1674022438|https://scryfall.com/card/one/33/skrelv-defector-mite?utm_source=api>`
+   Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)
+
+   Skrelv, Defector Mite can't block.
+
+   |mana_wp|, |tap|: Choose a color. Another target creature you control gains toxic 1 and hexproof from that color until end of turn. It can't be blocked by creatures of that color this turn. (|mana_wp| can be paid with either |mana_w| or |mana_2| life.)
+
+
+:mtgtip:`Skrelv's Hive<https://cards.scryfall.io/border_crop/front/f/f/ffbd77ec-fc81-41d5-934f-c3dd844cb053.jpg?1674022447|https://scryfall.com/card/one/34/skrelvs-hive?utm_source=api>`
+   At the beginning of your upkeep, you lose 1 life and create a 1/1 colorless Phyrexian Mite artifact creature token with toxic 1 and "This creature can't block."
+
+   Corrupted — As long as an opponent has three or more poison counters, creatures you control with toxic have lifelink.
+
+
+:mtgtip:`Swooping Lookout<https://cards.scryfall.io/border_crop/front/b/6/b62c740d-260d-4dfa-b6b3-9a1527538f89.jpg?1674258467|https://scryfall.com/card/one/35/swooping-lookout?utm_source=api>`
+   Flying, vigilance
+
+
+:mtgtip:`Vanish into Eternity<https://cards.scryfall.io/border_crop/front/8/f/8f0b3308-9c0b-4461-9094-38deec20e1bc.jpg?1674258479|https://scryfall.com/card/one/36/vanish-into-eternity?utm_source=api>`
+   This spell costs |mana_3| more to cast if it targets a creature.
+
+   Exile target nonland permanent.
+
+
+:mtgtip:`"Kafei's Mask"<https://cards.scryfall.io/border_crop/front/1/f/1f9d8d87-e32f-4ad9-8d72-d1b88cd14510.jpg?1674181144|https://scryfall.com/card/one/37/kafeis-mask?utm_source=api>`
+   Whenever "Kafei's Mask" or another artifact enters the battlefield under your control, target creature you control gets +1/+1 and gains vigilance until end of turn.
+
+
+:mtgtip:`White Sun's Twilight<https://cards.scryfall.io/border_crop/front/f/f/fff13d77-8133-4328-b91e-efce229bc331.jpg?1674022458|https://scryfall.com/card/one/38/white-suns-twilight?utm_source=api>`
+   You gain X life. Create X 1/1 colorless Phyrexian Mite artifact creature tokens with toxic 1 and "This creature can't block." If X is 5 or more, destroy all other creatures. (Players dealt combat damage by a creature with toxic 1 also get a poison counter.)
+
+
+:mtgtip:`Blade of Shared Souls<https://cards.scryfall.io/border_crop/front/2/7/277aeb73-4c7c-4132-b9f9-55181d57e75d.jpg?1674022467|https://scryfall.com/card/one/42/blade-of-shared-souls?utm_source=api>`
+   For Mirrodin! (When this Equipment enters the battlefield, create a 2/2 red Rebel creature token, then attach this to it.)
+
+   Whenever Blade of Shared Souls becomes attached to a creature, for as long as Blade of Shared Souls remains attached to it, you may have that creature become a copy of another target creature you control.
+
+   Equip |mana_2|
+
+
+:mtgtip:`Blue Sun's Twilight<https://cards.scryfall.io/border_crop/front/3/a/3a836e6b-6854-4f6f-bc78-2da1fd4dd224.jpg?1674022476|https://scryfall.com/card/one/43/blue-suns-twilight?utm_source=api>`
    Gain control of target creature with mana value X or less. If X is 5 or more, create a token that's a copy of that creature.
 
 
-:mtgtip:`Phyrexian Obliterator<https://cards.scryfall.io/border_crop/front/6/7/67a9c38b-6b3a-4056-a87c-fc48446f854f.jpg?1670937618|https://scryfall.com/card/one/105/phyrexian-obliterator?utm_source=api>`
+:mtgtip:`Encroaching Mycosynth<https://cards.scryfall.io/border_crop/front/6/5/65a2fcc9-2317-48a1-a5eb-234fb3300364.jpg?1674258527|https://scryfall.com/card/one/47/encroaching-mycosynth?utm_source=api>`
+   Nonland permanents you control are artifacts in addition to their other types. The same is true for permanent spells you control and nonland permament cards you own that aren't on the battlefield.
+
+
+:mtgtip:`Experimental Augury<https://cards.scryfall.io/border_crop/front/e/5/e508ae5d-ffb5-4480-be90-a4394954b559.jpg?1674258540|https://scryfall.com/card/one/49/experimental-augury?utm_source=api>`
+   Look at the top three cards of your library. Put one of them into your hand and rest on the bottom of your library in any order. Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
+
+
+:mtgtip:`Jace, the Perfected Mind<https://cards.scryfall.io/border_crop/front/6/4/64e6a8d1-ae75-45bd-af62-9a622620cb5c.jpg?1674022484|https://scryfall.com/card/one/57/jace-the-perfected-mind?utm_source=api>`
+   Compleated (|mana_up| can be paid with |mana_u| or 2 life. If life was paid, this planeswalker enters with two fewer loyalty counters.)
+
+   +1: Until your next turn, up to one target creature gets -3/-0.
+
+   −2: Target player mills three cards. Then if a graveyard has twenty or more cards in it, you draw three cards. Otherwise, you draw a card.
+
+   −X: Target player mills three times X cards.
+
+
+:mtgtip:`Mercurial Spelldancer<https://cards.scryfall.io/border_crop/front/c/f/cf28c75d-1fb3-44cc-b651-5b2830e22add.jpg?1674258554|https://scryfall.com/card/one/61/mercurial-spelldancer?utm_source=api>`
+   Mercurial Spelldancer can't be blocked.
+
+   Whenever you cast a noncreature spell, put an oil counter on Mercurial Spelldancer.
+
+   Whenever Mercurial Spelldancer deals combat damage to a player, you may remove two oil counters from it. If you do, when you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.
+
+
+:mtgtip:`Mesmerizing Dose<https://cards.scryfall.io/border_crop/front/d/a/dac28e27-78aa-48b1-96fa-edca1fbcfb77.jpg?1674258572|https://scryfall.com/card/one/62/mesmerizing-dose?utm_source=api>`
+   Enchant creature
+
+   When Mesmerizing Dose enters the battlefield, tap enchanted creature, then proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
+
+   Enchanted creature doesn't untap during its controller's untap step.
+
+
+:mtgtip:`Mindsplice Apparatus<https://cards.scryfall.io/border_crop/front/7/f/7f4ad1cb-4bbb-4485-b322-0b003f06d034.jpg?1674264860|https://scryfall.com/card/one/63/mindsplice-apparatus?utm_source=api>`
+   Flash
+
+   At the beginning of your upkeep, put an oil counter on Mindsplice Apparatus.
+
+   Instant and sorcery spells you cast cost |mana_1| less to cast for each oil counter on Mindsplice Apparatus.
+
+
+:mtgtip:`Minor Misstep<https://cards.scryfall.io/border_crop/front/3/6/360ca37b-5bbd-4923-a493-7674786a36af.jpg?1674067305|https://scryfall.com/card/one/64/minor-misstep?utm_source=api>`
+   Counter target spell with mana value 1 or less.
+
+
+:mtgtip:`Tamiyo's Immobilizer<https://cards.scryfall.io/border_crop/front/d/a/daa20112-2955-439d-8802-3a228ba0832e.jpg?1674258597|https://scryfall.com/card/one/69/tamiyos-immobilizer?utm_source=api>`
+   Tamiyo's Immobilizer enters the battlefield with four oil counters.
+
+   |tap|, Remove an oil counter from Tamiyo's Immobilizer: Tap target artifact or creature.
+
+
+:mtgtip:`Transplant Theorist<https://cards.scryfall.io/border_crop/front/f/9/f912c4ec-08e9-4524-a2ba-98f6dfabdc18.jpg?1674258676|https://scryfall.com/card/one/73/transplant-theorist?utm_source=api>`
+   Whenever Transplant Theorist or another artifact enters the battlefield under your control, you may draw a card. If you do, discard a card.
+
+   |mana_2|: Put target card from your graveyard on the bottom of your library.
+
+
+:mtgtip:`Unctus, Grand Metatect<https://cards.scryfall.io/border_crop/front/1/6/164b07e6-48ba-4789-bd8f-7cada1fec8a9.jpg?1674097018|https://scryfall.com/card/one/75/unctus-grand-metatect?utm_source=api>`
+   Other blue creatures you control have "Whenever this creature becomes tapped, draw a card, then discard a card."
+
+   Other artifact creatures you control get +1/+1.
+
+   |mana_up|: Until end of turn, target creature you control becomes a blue artifact in addition to its other colors and types. Activate only as a sorcery. (|mana_up| can be paid with either |mana_u| or |mana_2| life.)
+
+
+:mtgtip:`Anoint with Affliction<https://cards.scryfall.io/border_crop/front/f/7/f7dc55a8-290f-4666-90ce-aa632e87c5e7.jpg?1674258711|https://scryfall.com/card/one/81/anoint-with-affliction?utm_source=api>`
+   Exile target creature if it has mana value 3 or less.
+
+   Corrupted — Exile that creature instead if its controller has three or more poison counters.
+
+
+:mtgtip:`Archfiend of the Dross<https://cards.scryfall.io/border_crop/front/8/6/86b0edaf-8cfd-4508-9554-6f0fddc2dfc4.jpg?1674258724|https://scryfall.com/card/one/82/archfiend-of-the-dross?utm_source=api>`
+   Flying
+
+   Archfiend of the Dross enters the battlefield with four oil counters on it.
+
+   At the beginning of your upkeep, remove an oil counter from Archfiend of the Dross. Then if it has no oil counters on it, you lose the game.
+
+   Whenever a creature an opponent controls dies, its controller loses 2 life.
+
+
+:mtgtip:`Bilious Skulldweller<https://cards.scryfall.io/border_crop/front/d/f/dfb81cb1-ac56-4803-a962-359854a447df.jpg?1674258754|https://scryfall.com/card/one/83/bilious-skulldweller?utm_source=api>`
+   Deathtouch
+
+   Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)
+
+
+:mtgtip:`Black Sun's Twilight<https://cards.scryfall.io/border_crop/front/e/5/e5bb4def-c67c-44c2-b3b2-8c53a077432d.jpg?1674022495|https://scryfall.com/card/one/84/black-suns-twilight?utm_source=api>`
+   Up to one target creature gets -X/-X until end of turn. If X is 5 or more, return a creature card with mana value X or less from your graveyard to the battlefield tapped.
+
+
+:mtgtip:`Blightbelly Rat<https://cards.scryfall.io/border_crop/front/9/2/9255cd01-a611-4fec-b9ec-b271687740ba.jpg?1674198852|https://scryfall.com/card/one/85/blightbelly-rat?utm_source=api>`
+   Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)
+
+   When Blightbelly Rat dies, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
+
+
+:mtgtip:`Bonepicker Skirge<https://cards.scryfall.io/border_crop/front/b/8/b83f4e41-a5f5-4929-9816-06dc1c228474.jpg?1674185050|https://scryfall.com/card/one/86/bonepicker-skirge?utm_source=api>`
+   Flying
+
+   Corrupted — As long as an opponent has three or more poison counters, Bonepicker Skirge has deathtouch and lifelink.
+
+
+:mtgtip:`Chittering Skitterling<https://cards.scryfall.io/border_crop/front/e/0/e0328d43-ae9b-462a-a1e5-8ed408eea1a7.jpg?1674267831|https://scryfall.com/card/one/87/chittering-skitterling?utm_source=api>`
+   Corrupted — Sacrifice an artifact or creature: Draw a card. Activate only if an opponent has three or more poison counters and only once each turn.
+
+
+:mtgtip:`Feed the Infection<https://cards.scryfall.io/border_crop/front/9/f/9f013a1a-d4b9-4380-9802-c299ee6c4492.jpg?1674306869|https://scryfall.com/card/one/93/feed-the-infection?utm_source=api>`
+   You draw three cards and you lose 3 life.
+
+   Corrupted — Each opponent who has three or more poison counters loses 3 life.
+
+
+:mtgtip:`Geth, Thane of Contracts<https://cards.scryfall.io/border_crop/front/c/2/c26e18be-81a1-4645-866a-fae5c2fdf7c9.jpg?1674097033|https://scryfall.com/card/one/95/geth-thane-of-contracts?utm_source=api>`
+   Other creatures you control get -1/-1.
+
+   |mana_1|\ |mana_b|\ |mana_b|, |tap|: Return target creature card from your graveyard to the battlefield. It gains "If this creature would leave the battlefield, exile it instead of putting it anywhere else." Activate only as a sorcery.
+
+
+:mtgtip:`Karumonix, the Rat King<https://cards.scryfall.io/border_crop/front/f/1/f16e282d-8941-46c7-a974-c05b6f73c964.jpg?1674382489|https://scryfall.com/card/one/98/karumonix-the-rat-king?utm_source=api>`
+   Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)
+
+   Other Rats you control have toxic 1.
+
+   When Karumonix enters the battlefield, look at the top five cards of your library. You may reveal any number of Rat cards from among them and put the revealed cards into your hand. Put the rest on the bottom of your library in a random order.
+
+
+:mtgtip:`Necrogen Communion<https://cards.scryfall.io/border_crop/front/6/a/6ac8cd7c-992f-4953-b5bf-42e5a9ff09ad.jpg?1674196792|https://scryfall.com/card/one/99/necrogen-communion?utm_source=api>`
+   Enchant creature you control
+
+   Enchanted creature has toxic 2. (Players dealt combat damage by it also get two poison counters.)
+
+   When enchanted creature dies, return that card to the battlefield under your control.
+
+
+:mtgtip:`Nimraiser Paladin<https://cards.scryfall.io/border_crop/front/a/9/a99fe9a8-d9e7-4286-81a1-adfb753e4741.jpg?1674057921|https://scryfall.com/card/one/101/nimraiser-paladin?utm_source=api>`
+   Toxic 2 (Players dealt combat damage by this creature also get two poison counters.)
+
+   When Nimraiser Paladin enters the battlefield, return target creature with mana value 3 or less from your graveyard to your hand.
+
+
+:mtgtip:`Phyrexian Arena<https://cards.scryfall.io/border_crop/front/5/4/54f69d43-de01-46a8-b102-b47e23e0e947.jpg?1674258844|https://scryfall.com/card/one/104/phyrexian-arena?utm_source=api>`
+   At the beginning of your upkeep, you draw a card and you lose 1 life.
+
+
+:mtgtip:`Phyrexian Obliterator<https://cards.scryfall.io/border_crop/front/6/7/67a9c38b-6b3a-4056-a87c-fc48446f854f.jpg?1674022516|https://scryfall.com/card/one/105/phyrexian-obliterator?utm_source=api>`
    Trample
 
    Whenever a source deals damage to Phyrexian Obliterator, that source's controller sacrifices that many permanents.
 
 
-:mtgtip:`Koth, Fire of Resistance<https://cards.scryfall.io/border_crop/front/6/5/6528e012-4091-4722-b706-c51772676167.jpg?1670937884|https://scryfall.com/card/one/138/koth-fire-of-resistance?utm_source=api>`
+:mtgtip:`Scheming Aspirant<https://cards.scryfall.io/border_crop/front/8/d/8de80f71-82b5-499c-afc0-6bbae6b896ad.jpg?1674266351|https://scryfall.com/card/one/107/scheming-aspirant?utm_source=api>`
+   Whenever you proliferate, each opponent loses 2 life and you gain 2 life.
+
+
+:mtgtip:`Sheoldred's Edict<https://cards.scryfall.io/border_crop/front/a/9/a9225cc3-90f0-448f-a8d9-7c6c2796d077.jpg?1674258858|https://scryfall.com/card/one/108/sheoldreds-edict?utm_source=api>`
+   Choose one
+
+   • Each opponent sacrifices a nontoken creature.
+
+   • Each opponent sacrifices a creature token.
+
+   • Each opponent sacrifices a planeswalker.
+
+
+:mtgtip:`Vraan, Executioner Thane<https://cards.scryfall.io/border_crop/front/4/c/4c4a3119-c70a-46ff-8ede-6356f2b7bc13.jpg?1674320965|https://scryfall.com/card/one/114/vraan-executioner-thane?utm_source=api>`
+   Whenever one or more other creatures you control die, each opponent loses 2 life and you gain 2 life. This ability triggers only once each turn.
+
+
+:mtgtip:`Vraska, Betrayal's Sting<https://cards.scryfall.io/border_crop/front/f/5/f59f2b07-47ad-4efd-ae8c-1c04b9265024.jpg?1674022526|https://scryfall.com/card/one/115/vraska-betrayals-sting?utm_source=api>`
+   Compleated (|mana_bp| can be paid with |mana_b| or 2 life. If life was paid, this planeswalker enters with two fewer loyalty counters.)
+
+   0: You draw a card and you lose 1 life. Proliferate.
+
+   −2: Target creature becomes a Treasure artifact with "|tap|, Sacrifice this artifact: Add one mana of any color" and loses all other card types and abilities.
+
+   −9: If target player has fewer than nine poison counters, they get a number of poison counters equal to the difference.
+
+
+:mtgtip:`Awaken the Sleeper<https://cards.scryfall.io/border_crop/front/3/b/3b92f866-2522-4f2a-a5ca-7d01ad79b927.jpg?1674258932|https://scryfall.com/card/one/119/awaken-the-sleeper?utm_source=api>`
+   Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. If it's equipped, you may destroy all Equipment attached to that creature.
+
+
+:mtgtip:`Cacophony Scamp<https://cards.scryfall.io/border_crop/front/3/5/3553dcef-7b99-49d5-b071-06b894696952.jpg?1674258942|https://scryfall.com/card/one/124/cacophony-scamp?utm_source=api>`
+   Whenever Cacophony Scamp deals combat damage to a player, you may sacrifice it. If you do, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
+
+   When Cacophony Scamp dies, it deals damage equal to its power to any target.
+
+
+:mtgtip:`Capricious Hellraiser<https://cards.scryfall.io/border_crop/front/2/3/23afca1a-62a8-497f-994f-ceb479d020ba.jpg?1674258956|https://scryfall.com/card/one/125/capricious-hellraiser?utm_source=api>`
+   This spell costs |mana_3| less to cast if you have nine or more cards in your graveyard.
+
+   Flying
+
+   When Capricious Hellraiser enters the battlefield, exile three cards at random from your graveyard. Choose a noncreature, nonland card from among them and copy it. You may cast the copy without paying its mana cost.
+
+
+:mtgtip:`Dragonwing Glider<https://cards.scryfall.io/border_crop/front/5/4/5456b036-231e-4a64-b060-0709f5254664.jpg?1673610031|https://scryfall.com/card/one/126/dragonwing-glider?utm_source=api>`
+   For Mirrodin! (When this Equipment enters the battlefield, create a 2/2 red Rebel creature token, then attach this to it.)
+
+   Equipped creature gets +2/+2 and has flying and haste.
+
+   Equip |mana_3|\ |mana_r|\ |mana_r|
+
+
+:mtgtip:`Gleeful Demolition<https://cards.scryfall.io/border_crop/front/a/3/a3e4efa6-5783-4a51-99c6-116d1a8f01cf.jpg?1674258976|https://scryfall.com/card/one/134/gleeful-demolition?utm_source=api>`
+   Destroy target artifact. If you controlled that artifact, creature three 1/1 red Phyrexian Goblin creature tokens.
+
+
+:mtgtip:`Hexgold Halberd<https://cards.scryfall.io/border_crop/front/f/2/f22108ec-28f0-44d3-ba6b-3075f5f6bc65.jpg?1674258994|https://scryfall.com/card/one/136/hexgold-halberd?utm_source=api>`
+   For Mirrodin! (When this Equipment enters the battlefield, create a 2/2 red Rebel creature token, then attach this to it.)
+
+   As long as it's your turn, equipped creature has first strike and trample.
+
+   Equip |mana_2|\ |mana_r|
+
+
+:mtgtip:`Hexgold Slash<https://cards.scryfall.io/border_crop/front/0/e/0ec44465-68d4-4dca-a313-7f2ab0ce2e63.jpg?1674259033|https://scryfall.com/card/one/137/hexgold-slash?utm_source=api>`
+   Hexgold Slash deals 2 damage to target creature. If that creature has toxic, Hexgold Slash deals 4 damage to that creature instead.
+
+
+:mtgtip:`Koth, Fire of Resistance<https://cards.scryfall.io/border_crop/front/6/5/6528e012-4091-4722-b706-c51772676167.jpg?1674022535|https://scryfall.com/card/one/138/koth-fire-of-resistance?utm_source=api>`
    +2: Search your library for a basic Mountain card, reveal it, put it into your hand, then shuffle.
 
    −3: Koth, Fire of Resistance deals damage to target creature equal to the number of Mountains you control.
@@ -31,17 +377,207 @@
    −7: You get an emblem with "Whenever a Mountain enters the battlefield under your control, this emblem deals 4 damage to any target."
 
 
-:mtgtip:`Slobad, Iron Goblin<https://cards.scryfall.io/border_crop/front/2/b/2b7dadf0-7323-403e-b353-33c121bdb0db.jpg?1670937595|https://scryfall.com/card/one/149/slobad-iron-goblin?utm_source=api>`
+:mtgtip:`Magmatic Sprinter<https://cards.scryfall.io/border_crop/front/2/e/2e6af42f-35ec-432f-9879-2a0fb938a9f6.jpg?1674341642|https://scryfall.com/card/one/140/magmatic-sprinter?utm_source=api>`
+   Haste
+
+   When Magmatic Sprinter enters the battlefield, put two oil counters on target artifact or creature you control.
+
+   At the beginning of your ned step, return Magmatic Sprinter to its owner's hand unless you remove two oil counters from it.
+
+
+:mtgtip:`Oxidda Finisher<https://cards.scryfall.io/border_crop/front/7/1/7177431e-5cc4-4ecd-8848-f51903289072.jpg?1674394329|https://scryfall.com/card/one/143/oxidda-finisher?utm_source=api>`
+   Affinity for Equipment (This spell costs |mana_1| less to cast for each Equipment you control.)
+
+   Trample
+
+
+:mtgtip:`Red Sun's Twilight<https://cards.scryfall.io/border_crop/front/7/c/7cac1827-69af-469d-b88c-fb9f2f33866a.jpg?1673610069|https://scryfall.com/card/one/145/red-suns-twilight?utm_source=api>`
+   Destroy up to X target artifacts. If X is 5 or more, for each artifact destroyed this way, create a token that's a copy of it. Those tokens gain haste. Exile them at the beginning of the next end step.
+
+
+:mtgtip:`Resistance Skywarden<https://cards.scryfall.io/border_crop/front/6/2/6249aabe-8f21-4257-9e04-ceffd44d42a5.jpg?1674259056|https://scryfall.com/card/one/146/resistance-skywarden?utm_source=api>`
+   Menace, reach
+
+
+:mtgtip:`Sawblade Scamp<https://cards.scryfall.io/border_crop/front/7/f/7f04c2e5-9100-439a-9aa4-28d388518e4a.jpg?1674259070|https://scryfall.com/card/one/147/sawblade-scamp?utm_source=api>`
+   Haste
+
+   Whenever you cast a noncreature spell, put an oil counter on Sawblade Scamp.
+
+   |tap|, Remove an oil counter from Sawblade Scamp: It deals 1 damage to each opponent.
+
+
+:mtgtip:`Slobad, Iron Goblin<https://cards.scryfall.io/border_crop/front/2/b/2b7dadf0-7323-403e-b353-33c121bdb0db.jpg?1674022546|https://scryfall.com/card/one/149/slobad-iron-goblin?utm_source=api>`
    |tap|, Sacrifice an artifact: Add an amount of |mana_r| equal to the sacrificed artifact's mana value. Spend this mana only to cast artifact spells or activate abilities of artifacts.
 
 
-:mtgtip:`Jor Kadeen, First Goldwarden<https://cards.scryfall.io/border_crop/front/e/7/e7e4d8f7-874d-4b2a-ad23-afab479784ea.jpg?1670937752|https://scryfall.com/card/one/203/jor-kadeen-first-goldwarden?utm_source=api>`
+:mtgtip:`Urabrask's Anointer<https://cards.scryfall.io/border_crop/front/b/3/b3ef034f-37e5-4baa-a7a9-5fd0de792535.jpg?1674259109|https://scryfall.com/card/one/152/urabrasks-anointer?utm_source=api>`
+   When Urabrask's Anointer enters the battlefield, it deals X damage to any target, where X is the number of permanents you control with oil counters on them.
+
+
+:mtgtip:`Urabrask's Forge<https://cards.scryfall.io/border_crop/front/6/8/68f9f9d8-9ea0-4608-a79c-a09a87918186.jpg?1674022557|https://scryfall.com/card/one/153/urabrasks-forge?utm_source=api>`
+   At the beginning of combat on your turn, put an oil counter on Urabrask's Forge, then create an X/1 red Phyrexian Horror creature token with trample and haste, where X is the number of oil counters on Urabrask's Forge. Sacrifice that token at the beginning of the next end step.
+
+
+:mtgtip:`Vindictive Flamestoker<https://cards.scryfall.io/border_crop/front/f/6/f67e7a16-ff30-4fb9-9fcb-6561eec50caf.jpg?1674259123|https://scryfall.com/card/one/154/vindictive-flamestoker?utm_source=api>`
+   Whenever you cast a noncreature spell, put an oil counter on Vindictive Flamestoker.
+
+   |mana_6|\ |mana_r|, Sacrifice Vindictive Flamestoker: Discard your hand, then draw four cards. This ability costs |mana_1| less to activate for each oil counter on Vindictive Flamestoker.
+
+
+:mtgtip:`Volt Charge<https://cards.scryfall.io/border_crop/front/7/3/73d74045-cc9b-4b01-bc5f-0f2eb4b01580.jpg?1674259132|https://scryfall.com/card/one/155/volt-charge?utm_source=api>`
+   Volt Charge deals 3 damage to any target. Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
+
+
+:mtgtip:`Vulshok Splitter<https://cards.scryfall.io/border_crop/front/f/0/f05078dd-b928-4b3f-9636-f299ebac180b.jpg?1674019723|https://scryfall.com/card/one/156/vulshok-splitter?utm_source=api>`
+   For Mirrodin! (When this Equipment enters the battlefield, create a 2/2 red Rebel creature token, then attach this to it.)
+
+   Equipped creature gets +2/+0.
+
+   Equip |mana_2|\ |mana_r| (|mana_2|\ |mana_r|: Attach to target creature you control. Equip only as a sorcery.)
+
+
+:mtgtip:`Bloated Contaminator<https://cards.scryfall.io/border_crop/front/4/1/411bda96-6c65-475d-9850-0a9b3eefa553.jpg?1674259166|https://scryfall.com/card/one/159/bloated-contaminator?utm_source=api>`
+   Trample
+
+   Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)
+
+   Whenever Bloated Contaminator deals combat damage to a player, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
+
+
+:mtgtip:`Carnivorous Canopy<https://cards.scryfall.io/border_crop/front/7/b/7b43ba43-f7ae-4e00-b797-2360c3ccd839.jpg?1674259175|https://scryfall.com/card/one/162/carnivorous-canopy?utm_source=api>`
+   Destroy target artifact, enchantment, or creature with flying. If that permanent's mana value was 3 or less, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
+
+
+:mtgtip:`Conduit of Worlds<https://cards.scryfall.io/border_crop/front/6/3/635146da-d415-4107-a7f9-2c46189e5c52.jpg?1674259184|https://scryfall.com/card/one/163/conduit-of-worlds?utm_source=api>`
+   You may play lands from your graveyard.
+
+   |tap|: Choose target nonland permanent card in your graveyard. If you haven't cast a spell this turn, you may cast that card. If you do, you can't cast additional spells this turn. Activate only as a sorcery.
+
+
+:mtgtip:`Evolved Spinoderm<https://cards.scryfall.io/border_crop/front/d/d/dd4bcb42-f5cf-410d-8f20-1006b0f92abe.jpg?1674259198|https://scryfall.com/card/one/166/evolved-spinoderm?utm_source=api>`
+   Evolved Spinoderm enters the battlefield with four oil counters on it.
+
+   Evolved Spinoderm has trample as long as it was two or fewer oil counters on it, Otherwise, it has hexproof.
+
+   At the beginning of your upkeep, remove an oil counter from Evolved Spinoderm. Then if it has no oil counters on it, sacrifice it.
+
+
+:mtgtip:`Expand the Sphere<https://cards.scryfall.io/border_crop/front/5/7/572e174e-99f7-4b5e-8506-1833adddbf07.jpg?1674259207|https://scryfall.com/card/one/168/expand-the-sphere?utm_source=api>`
+   Look at the top six cards of your library. Put up to two land cards from among them onto the battlefield tapped and the rest on the bottom of your library in a random order. If you put fewer than two lands onto the battlefield this way, proliferate a number of times equal to the difference. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
+
+
+:mtgtip:`Green Sun's Twilight<https://cards.scryfall.io/border_crop/front/1/8/184c985d-cb70-41a7-9f66-3506708b7e26.jpg?1674259223|https://scryfall.com/card/one/169/green-suns-twilight?utm_source=api>`
+   Reveal the top X plus one cards of your library. Choose a creature card and/or a land card from among them. Put those cards into your hand and the rest on the bottom of your library in a random order. If X is 5 or more, instead put the chosen cards onto the battlefield or into your hand and the rest on the bottom of your library in a random order.
+
+
+:mtgtip:`"Hands You An Egg"<https://cards.scryfall.io/border_crop/front/a/6/a6b36e23-a414-400c-a3a5-e23883e866d3.jpg?1674265973|https://scryfall.com/card/one/171/hands-you-an-egg?utm_source=api>`
+   "Hands You An Egg" enters the battlefield with three oil counters on it.
+
+   |mana_4|, |tap|, Remove an oil counter from "Hands You An Egg": Create a 3/3 colorless Phyrexian Golem artifact creature token. Activate only as a sorcery.
+
+
+:mtgtip:`Nissa, Ascended Animist<https://cards.scryfall.io/border_crop/front/1/d/1dd64b1d-bcef-476c-bf0b-3ac7df7cbed3.jpg?1674022567|https://scryfall.com/card/one/175/nissa-ascended-animist?utm_source=api>`
+   Compleated (|mana_gp| can be paid with |mana_g| or 2 life. For each |mana_gp| paid with life, this planeswalker enters with two fewer loyalty counters.)
+
+   +1: Create an X/X green Phyrexian Horror creature token, where X is Nissa, Ascended Animist's loyalty.
+
+   −1: Destroy target artifact or enchantment.
+
+   −7: Until end of turn, creatures you control get +1/+1 for each Forest you control and gain trample.
+
+
+:mtgtip:`Noxious Assault<https://cards.scryfall.io/border_crop/front/9/6/9649de6c-a9f7-4f0a-8bf7-cacaea60ed54.jpg?1674259243|https://scryfall.com/card/one/176/noxious-assault?utm_source=api>`
+   Creatures you control get +2/+2 until end of turn. Whenever a creature blocks this turn, its controller gets a poison counter.
+
+
+:mtgtip:`Paladin of Predation<https://cards.scryfall.io/border_crop/front/7/5/758dbe61-6dc7-4b08-bdd6-7262257955fc.jpg?1674022576|https://scryfall.com/card/one/178/paladin-of-predation?utm_source=api>`
+   Toxic 6 (Plavers dealt combat damage by
+
+   this creature also get six poison counters.)
+
+   Paladin of Predation can't be blocked by creatures with power 2 or less.
+
+
+:mtgtip:`Thrun, Breaker of Silence<https://cards.scryfall.io/border_crop/front/6/d/6d9f51dd-0393-4b3c-bea5-8f74634ab0e5.jpg?1673610035|https://scryfall.com/card/one/186/thrun-breaker-of-silence?utm_source=api>`
+   This spell can't be countered.
+
+   Trample
+
+   Thrun, Breaker of Silence can't be the target of nongreen spells your opponents control or abilities from nongreen sources your opponents control.
+
+   As long as it's your turn, Thrun has indestructible.
+
+
+:mtgtip:`Tyrranax Rex<https://cards.scryfall.io/border_crop/front/0/f/0fb52b44-da5f-4f7a-a6c2-7924b855e051.jpg?1674259278|https://scryfall.com/card/one/189/tyrranax-rex?utm_source=api>`
+   This spell can't be countered.
+
+   Trample, ward |mana_4|, haste
+
+   Toxic 4 (Players dealt combat damage by this creature also get four poison counters.)
+
+
+:mtgtip:`Tyvar's Stand<https://cards.scryfall.io/border_crop/front/c/7/c7b362a5-382a-4016-b4f2-aa7b683354c4.jpg?1674262527|https://scryfall.com/card/one/190/tyvars-stand?utm_source=api>`
+   Target creature you control gets +X/+X and gains hexproof and indestructible until end of turn. (A creature with hexproof and indestructible can't be the target of spells or abilities your opponents control. Damage and effects that say "destroy" don't destroy it.)
+
+
+:mtgtip:`Unnatural Restoration<https://cards.scryfall.io/border_crop/front/4/d/4d4e6a91-59cc-4f7f-af25-16acabdafb1a.jpg?1674259295|https://scryfall.com/card/one/191/unnatural-restoration?utm_source=api>`
+   Return target permanent card from your graveyard to your hand. Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
+
+
+:mtgtip:`Venerated Rotpriest<https://cards.scryfall.io/border_crop/front/d/1/d1b032e3-14e3-48ba-ab8a-d2b4f8d31a7d.jpg?1674259309|https://scryfall.com/card/one/192/venerated-rotpriest?utm_source=api>`
+   Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)
+
+   Whenever a creature you control becomes the target of a spell, target opponent gets a poison counter.
+
+
+:mtgtip:`Viral Spawning<https://cards.scryfall.io/border_crop/front/8/5/85ad30a1-3ecc-42ca-afe8-85df5bad9196.jpg?1674306683|https://scryfall.com/card/one/194/viral-spawning?utm_source=api>`
+   Create a 3/3 green Phyrexian Beast creature token with toxic 1. (Players dealt combat damage by this creature also get a poison counter.)
+
+   Corrupted — As long as an opponent has three or more poison counters and Viral Spawning is in your graveyard, it has flashback |mana_2|\ |mana_g|. (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+
+
+:mtgtip:`Atraxa, Grand Unifier<https://cards.scryfall.io/border_crop/front/4/a/4a1f905f-1d55-4d02-9d24-e58070793d3f.jpg?1674259338|https://scryfall.com/card/one/196/atraxa-grand-unifier?utm_source=api>`
+   Flying, vigilance, deathtouch, lifelink
+
+   When Atraxa, Grand Unifier enters the battlefield, reveal the top ten cards of your library. For each card type, you may put a card of that type from among the revealed cards into your hand. Put the rest on the bottom of your library in a random order. (Artifact, battle, creature, enchantment, instant, land, planeswalker, and sorcery are card types.)
+
+
+:mtgtip:`Bladehold War-Whip<https://cards.scryfall.io/border_crop/front/5/6/563e9ba5-e0ec-4fb3-8301-689aa145cc19.jpg?1674259347|https://scryfall.com/card/one/197/bladehold-war-whip?utm_source=api>`
+   For Mirrodin! (When this Equipment enters the battlefield, create a 2/2 red Rebel creature token, then attach this to it.)
+
+   Equip abilities you activate of other Equipment cost |mana_1| less to activate.
+
+   Equipped creature has double strike.
+
+   Equip |mana_3|\ |mana_r|\ |mana_w|
+
+
+:mtgtip:`Ezuri, Stalker of Spheres<https://cards.scryfall.io/border_crop/front/d/3/d38961ce-0257-412f-acec-c5c9886061f8.jpg?1674022585|https://scryfall.com/card/one/201/ezuri-stalker-of-spheres?utm_source=api>`
+   When Ezuri, Stalker of Spheres enters the battlefield, you may pay |mana_3|. If you do, proliferate twice.
+
+   Whenever you proliferate, draw a card.
+
+
+:mtgtip:`Glissa Sunslayer<https://cards.scryfall.io/border_crop/front/b/2/b2bf633e-0470-4b87-99ed-5ad1683b0954.jpg?1674022594|https://scryfall.com/card/one/202/glissa-sunslayer?utm_source=api>`
+   First strike, deathtouch
+
+   Whenever Glissa Sunslayer deals combat damage to a player, choose one —
+
+   • You draw a card and you lose 1 life.
+
+   • Destroy target enchantment.
+
+   • Remove up to three counters from target permanent.
+
+
+:mtgtip:`Jor Kadeen, First Goldwarden<https://cards.scryfall.io/border_crop/front/e/7/e7e4d8f7-874d-4b2a-ad23-afab479784ea.jpg?1674022603|https://scryfall.com/card/one/203/jor-kadeen-first-goldwarden?utm_source=api>`
    Trample
 
    Whenever Jor Kadeen, First Goldwarden attacks, it gets +X/+X until end of turn, where X is the number of equipped creatures you control. Then if Jor Kadeen's power is 4 or greater, draw a card.
 
 
-:mtgtip:`Kaito, Dancing Shadow<https://cards.scryfall.io/border_crop/front/0/d/0d97f59a-07b8-47ef-aa88-d94f8c3feae4.jpg?1671884676|https://scryfall.com/card/one/204/kaito-dancing-shadow?utm_source=api>`
+:mtgtip:`Kaito, Dancing Shadow<https://cards.scryfall.io/border_crop/front/0/d/0d97f59a-07b8-47ef-aa88-d94f8c3feae4.jpg?1674022612|https://scryfall.com/card/one/204/kaito-dancing-shadow?utm_source=api>`
    Whenever one or more creatures you control deal combat damage to a player, you may return one of them to its owner's hand. If you do, you may activate loyalty abilities of Kaito twice this turn rather than only once.
 
    +1: Up to one target creature can't attack or block until your next turn.
@@ -51,22 +587,338 @@
    −2: Create a 2/2 colorless Drone artifact creature token with deathtouch and "When this creature leaves the battlefield, each opponent loses 2 life and you gain 2 life."
 
 
-:mtgtip:`Plains<https://cards.scryfall.io/border_crop/front/5/0/50958c6e-9555-42ad-9bb3-2da9faa5cb52.jpg?1670946538|https://scryfall.com/card/one/262/plains?utm_source=api>`
+:mtgtip:`Kaya, Intangible Slayer<https://cards.scryfall.io/border_crop/front/6/8/6865b8c7-b260-48e8-a905-64cbf06b7e57.jpg?1674022620|https://scryfall.com/card/one/205/kaya-intangible-slayer?utm_source=api>`
+   Hexproof
+
+   +2: Each opponent loses 3 life and you gain 3 life.
+
+   0: You draw two cards. Then each opponent may scry 1.
+
+   −3: Exile target creature or enchantment. If it wasn't an Aura, create a token that's a copy of it, except it's a 1/1 white Spirit creature with flying in addition to its other types.
+
+
+:mtgtip:`Kethek, Crucible Goliath<https://cards.scryfall.io/border_crop/front/4/1/4152a5a8-e5a1-46b0-8f75-b9ac341da474.jpg?1674259386|https://scryfall.com/card/one/206/kethek-crucible-goliath?utm_source=api>`
+   At the beginning of your end step, you may sacrifice another creature. If you do, reveal cards from the top of your library until you reveal a nonlegendary creature card with lesser mana value, put it onto the battlefield, then put the rest on the bottom of your library in a random order.
+
+
+:mtgtip:`Lukka, Bound to Ruin<https://cards.scryfall.io/border_crop/front/6/d/6df77017-c4a7-4b79-a16b-26463bd6a96a.jpg?1674022628|https://scryfall.com/card/one/207/lukka-bound-to-ruin?utm_source=api>`
+   Compleated ({R/G/P} can be paid with |mana_r|, |mana_g|, or 2 life. If life was paid, this planeswalker enters with two fewer loyalty counters.)
+
+   +1: Add |mana_r|\ |mana_g|. Spend this mana only to cast creature spells or activate abilities of creatures.
+
+   −1: Create a 3/3 green Phyrexian Beast creature token with toxic 1.
+
+   −4: Lukka deals X damage divided as you choose among any number of target creatures and/or planeswalkers, where X is the greatest power among creatures you controlled as you activated this ability.
+
+
+:mtgtip:`Malcator, Purity Overseer<https://cards.scryfall.io/border_crop/front/3/6/36bda977-e5d1-4813-a5f5-265023965142.jpg?1674259400|https://scryfall.com/card/one/208/malcator-purity-overseer?utm_source=api>`
+   When Malcator, Purity Overseer enters the battlefield, create a 3/3 colorless Phyrexian Golem artifact creature token.
+
+   At the beginning of your end step, if three or more artifacts entered the battlefield under your control this turn, create a 3/3 colorless Phyrexian Golem artifact creature token.
+
+
+:mtgtip:`Melira, the Living Cure<https://cards.scryfall.io/border_crop/front/e/1/e1329ad9-5989-4920-b17b-943b9b4a0cd9.jpg?1674022636|https://scryfall.com/card/one/209/melira-the-living-cure?utm_source=api>`
+   If you would get one or more poison counters, instead you get one poison counter and you can't get additional poison counters this turn.
+
+   Exile Melira, the Living Cure: Choose another target creature or artifact. When it's put into a graveyard this turn, return that card to the battlefield under its owner's control.
+
+
+:mtgtip:`Migloz, Maze Crusher<https://cards.scryfall.io/border_crop/front/c/1/c1171899-07d8-4e60-a79b-f162f59dc3ce.jpg?1673609974|https://scryfall.com/card/one/210/migloz-maze-crusher?utm_source=api>`
+   Migloz, Maze Crusher enters the battlefield with five oil counters on it.
+
+   |mana_1|, Remove an oil counter from Migloz: It gains vigilance and menace until end of turn.
+
+   |mana_2|, Remove two oil counters from Migloz: It gets +2/+2 until end of turn.
+
+   |mana_3|, Remove three oil counters from Migloz: Destroy target artifact or enchantment.
+
+
+:mtgtip:`Nahiri, the Unforgiving<https://cards.scryfall.io/border_crop/front/5/7/578e35b9-7252-4767-a1f3-aecd71256515.jpg?1674022644|https://scryfall.com/card/one/211/nahiri-the-unforgiving?utm_source=api>`
+   Compleated ({R/W/P} can be paid with |mana_r|, |mana_w|, or 2 life. If life was paid, this planeswalker enters with two fewer loyalty counters.)
+
+   +1: Until your next turn, up to one target creature attacks a player each combat if able.
+
+   +1: Discard a card, then draw a card.
+
+   0: Exile target creature or Equipment card with mana value less than Nahiri's loyalty from your graveyard. Create a token that's a copy of it. That token gains haste. Exile it at the beginning of the next end step.
+
+
+:mtgtip:`Necrogen Rotpriest<https://cards.scryfall.io/border_crop/front/8/7/87519b36-1d95-4020-a61d-6afb75555e3e.jpg?1674259450|https://scryfall.com/card/one/212/necrogen-rotpriest?utm_source=api>`
+   Toxic 2 (Players dealt combat damage by this creature also get two poison counters.)
+
+   Whenever a creature you control with toxic deals combat damage to a player, that player gets an additional poison counter.
+
+   |mana_1|\ |mana_b|\ |mana_g|: Target creature you control with toxic gains deathtouch until end of turn.
+
+
+:mtgtip:`Ovika, Enigma Goliath<https://cards.scryfall.io/border_crop/front/b/2/b298cf34-7aa5-4f97-a86c-7f28d2113b87.jpg?1674055514|https://scryfall.com/card/one/213/ovika-enigma-goliath?utm_source=api>`
+   Flying
+
+   Ward—|mana_3|, Pay 3 life.
+
+   Whenever you cast a noncreature spell, create X 1/1 red Phyrexian Goblin creature tokens, where X is the mana value of that spell. They gain haste until end of turn.
+
+
+:mtgtip:`Ria Ivor, Bane of Bladehold<https://cards.scryfall.io/border_crop/front/f/7/f7531ed3-235f-4368-98a8-e4e1947c53fb.jpg?1673610022|https://scryfall.com/card/one/214/ria-ivor-bane-of-bladehold?utm_source=api>`
+   Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)
+
+   At the beginning of combat on your turn, the next time target creature would deal combat damage to one or more players this combat, prevent that damage. If damage is prevented this way, create that many 1/1 colorless Phyrexian Mite artifact creature tokens with toxic 1 and "This creature can't block."
+
+
+:mtgtip:`Slaughter Singer<https://cards.scryfall.io/border_crop/front/4/a/4a37aa46-bcf3-48a5-9f74-05e4878ad96f.jpg?1674259466|https://scryfall.com/card/one/216/slaughter-singer?utm_source=api>`
+   Toxic 2 (Players dealt combat damage by this creature also get two poison counters.)
+
+   Whenever another creature you control with toxic attacks, it gets +1/+1 until end of turn.
+
+
+:mtgtip:`Tyvar, Jubilant Brawler<https://cards.scryfall.io/border_crop/front/6/6/66605fe1-9a20-4c95-b53e-1249cedb978b.jpg?1674055522|https://scryfall.com/card/one/218/tyvar-jubilant-brawler?utm_source=api>`
+   You may activate abilities of creatures you control as though those creatures had haste.
+
+   +1: Untap up to one target creature.
+
+   −2: Mill three cards, then you may return a creature card with mana value 2 or less from your graveyard to the battlefield.
+
+
+:mtgtip:`Venser, Corpse Puppet<https://cards.scryfall.io/border_crop/front/1/b/1b5b94b8-0420-40f2-b989-39cb43cff916.jpg?1674259475|https://scryfall.com/card/one/219/venser-corpse-puppet?utm_source=api>`
+   Lifelink, toxic 1
+
+   Whenever you proliferate, choose one —
+
+   • If you don't control a creature named The Hollow Sentinel, create The Hollow Sentinel, a legendary 3/3 colorless Phyrexian Golem artifact creature token.
+
+   • Target artifact creature you control gains flying and lifelink until end of turn.
+
+
+:mtgtip:`Argentum Masticore<https://cards.scryfall.io/border_crop/front/9/7/9746e3ab-c0a6-46c1-a418-275b419962e4.jpg?1673609964|https://scryfall.com/card/one/222/argentum-masticore?utm_source=api>`
+   First strike, protection from multicolored
+
+   At the beginning of your upkeep, sacrifice Argentum Masticore unless you discard a card. When you discard a card this way, destroy target nonland permanent an opponent controls with mana value less than or equal to the mana value of the discarded card.
+
+
+:mtgtip:`Basilica Skullbomb<https://cards.scryfall.io/border_crop/front/8/e/8e2f0ae2-db68-4338-93f9-9d9268cec41e.jpg?1674283915|https://scryfall.com/card/one/224/basilica-skullbomb?utm_source=api>`
+   |mana_1|, Sacrifice Basilica Skullbomb: Draw a card.
+
+   |mana_2|\ |mana_w|, Sacrifice Basilica Skullbomb: Target creature you control gets +2/+2 and gains flying until end of turn. Draw a card. Activate only as a sorcery.
+
+
+:mtgtip:`Dross Skullbomb<https://cards.scryfall.io/border_crop/front/6/6/66270dd2-9139-4329-9621-852962836688.jpg?1674265860|https://scryfall.com/card/one/225/dross-skullbomb?utm_source=api>`
+   |mana_1|, Sacrifice Dross Skullbomb: Draw a card.
+
+   |mana_2|\ |mana_b|, Sacrifice Dross Skullbomb: Return target creature card from your graveyard to your hand. Draw a card. Activate only as a sorcery.
+
+
+:mtgtip:`The Filigree Sylex<https://cards.scryfall.io/border_crop/front/6/e/6e0958a1-1bac-48be-888d-f7573f409a9b.jpg?1674259504|https://scryfall.com/card/one/227/the-filigree-sylex?utm_source=api>`
+   |tap|: Put an oil counter on The Filigree Sylex.
+
+   |tap|, Sacrifice The Filigree Sylex: Destroy each nonland permanent with mana value equal to the number of oil counters on The Filigree Sylex.
+
+   |tap|, Remove ten oil counters from among permanents you control and sacrifice The Filigree Sylex: It deals 10 damage to any target.
+
+
+:mtgtip:`Furnace Skullbomb<https://cards.scryfall.io/border_crop/front/c/b/cb530f9d-cf35-48a7-8711-f74b3d9a35a7.jpg?1674306781|https://scryfall.com/card/one/228/furnace-skullbomb?utm_source=api>`
+   |mana_1|, Sacrifice Furnace Skullbomb: Draw a card.
+
+   |mana_1|\ |mana_r|, Sacrifice Furnace Skullbomb: Put two oil counters on target artifact or creature you control. Draw a card. Activate only as a sorcery.
+
+
+:mtgtip:`Graaz, Unstoppable Juggernaut<https://cards.scryfall.io/border_crop/front/e/0/e0e73b63-17cc-4dca-abd6-728b74bc37a8.jpg?1674259515|https://scryfall.com/card/one/229/graaz-unstoppable-juggernaut?utm_source=api>`
+   Juggernauts you control attack each combat if able.
+
+   Juggernauts you control can't be blocked by Walls.
+
+   Other creatures you control have base power and toughness 5/3 and are Juggernauts in addition to their other creature types.
+
+
+:mtgtip:`Ichorplate Golem<https://cards.scryfall.io/border_crop/front/e/5/e555abb1-ffd4-4143-9be8-ec8a758f5c2a.jpg?1674265204|https://scryfall.com/card/one/230/ichorplate-golem?utm_source=api>`
+   Whenever a creature enters the battlefield under your control, if it has one or more oil counters on it, put an oil counter on it.
+
+   Creatures you control with oil counters on them get +1/+1.
+
+
+:mtgtip:`Maze Skullbomb<https://cards.scryfall.io/border_crop/front/1/0/1073aee2-aea6-473d-97c6-248778d79d80.jpg?1674394355|https://scryfall.com/card/one/231/maze-skullbomb?utm_source=api>`
+   |mana_1|, Sacrifice Maze Skullbomb: Draw a card.
+
+   |mana_2|\ |mana_g|, Sacrifice Maze Skullbomb: Target creature you control gets +3/+3 and gains trample until end of turn. Draw a card. Activate only as a sorcery.
+
+
+:mtgtip:`Mirran Safehouse<https://cards.scryfall.io/border_crop/front/d/7/d76fe2f2-ce2c-49e4-9f00-89c82f2fae8d.jpg?1674259530|https://scryfall.com/card/one/232/mirran-safehouse?utm_source=api>`
+   As long as Mirran Safehouse is on the battlefield, it has all activated abilites of all land cards in all graveyards.
+
+
+:mtgtip:`Monument to Perfection<https://cards.scryfall.io/border_crop/front/a/b/ab892e7b-6797-4ede-ab5d-d9d0fa488c80.jpg?1674259545|https://scryfall.com/card/one/233/monument-to-perfection?utm_source=api>`
+   |mana_3|, |tap|: Search your library for a basic, Sphere, or Locus land card, reveal it, put it into your hand, then shuffle.
+
+   |mana_3|: Monument to Perfection becomes a 9/9 Phyrexian Construct artifact creature, loses all abilities, and gains indestructible and toxic 9. Activate only if there are nine or more lands with different names among the basic, Sphere, and Locus lands you control.
+
+
+:mtgtip:`Myr Convert<https://cards.scryfall.io/border_crop/front/9/d/9df0adcf-7ad0-4d70-8dcd-28f69471495b.jpg?1674259553|https://scryfall.com/card/one/234/myr-convert?utm_source=api>`
+   Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)
+
+   |tap|, Pay 2 life: Add one mana of any color.
+
+
+:mtgtip:`Prosthetic Injector<https://cards.scryfall.io/border_crop/front/7/5/75a1beec-bafe-4243-b91e-040a88fb0e95.jpg?1674259563|https://scryfall.com/card/one/239/prosthetic-injector?utm_source=api>`
+   Equipped creature gets +0/+2 and has toxic 1. (Players dealt damage by equipped creature also get a poison counter.)
+
+   Equip |mana_1|
+
+
+:mtgtip:`Soulless Jailer<https://cards.scryfall.io/border_crop/front/b/f/bf9991fd-ea6a-4ed7-b5f1-46a95f8d0634.jpg?1673609874|https://scryfall.com/card/one/241/soulless-jailer?utm_source=api>`
+   Permanent cards in graveyards can't enter the battlefield.
+
+   Players can't cast noncreature spells from graveyards or exile.
+
+
+:mtgtip:`Staff of Compleation<https://cards.scryfall.io/border_crop/front/d/2/d2934af5-aa4f-4c88-adbd-dcd847ef43a2.jpg?1674259583|https://scryfall.com/card/one/242/staff-of-compleation?utm_source=api>`
+   |tap|, Pay 1 life: Destroy target permanent you own.
+
+   |tap|, Pay 2 life: Add one mana of any color.
+
+   |tap|, Pay 3 life: Proliferate.
+
+   |tap|, Pay 4 life: Draw a card.
+
+   |mana_5|: Untap Staff of Compleation.
+
+
+:mtgtip:`Surgical Skullbomb<https://cards.scryfall.io/border_crop/front/9/8/98c2b2af-739f-413c-8c36-da6f78df0acb.jpg?1674265871|https://scryfall.com/card/one/243/surgical-skullbomb?utm_source=api>`
+   |mana_1|, Sacrifice Surgical Skullbomb: Draw a card.
+
+   |mana_2|\ |mana_u|, Sacrifice Surgical Skullbomb: Return target creature to its owner's hand. Draw a card. Activate only as a sorcery.
+
+
+:mtgtip:`Sword of Forge and Frontier<https://cards.scryfall.io/border_crop/front/2/d/2daa3621-8a2c-4b4b-87ac-f981192a0567.jpg?1674259592|https://scryfall.com/card/one/244/sword-of-forge-and-frontier?utm_source=api>`
+   Equipped creature gets +2/+2 and has protection from red and from green.
+
+   Whenever equipped creature deals combat damage to a player, exile the top two cards of your library. You may play those cards this turn. You may play an additional land this turn.
+
+   Equip |mana_2|
+
+
+:mtgtip:`Tablet of Compleation<https://cards.scryfall.io/border_crop/front/9/7/9747e4b0-fcf9-4f1d-b990-2a3e461adfee.jpg?1674262791|https://scryfall.com/card/one/245/tablet-of-compleation?utm_source=api>`
+   |tap|: Put an oil counter on Tablet of Compleation.
+
+   |tap|: Add |colorless|. Activate only if Tablet of Compleation has two or more oil counters on it.
+
+   |mana_1|, |tap|: Draw a card. Activate only if Tablet of Compleation has five or more oil counters on it.
+
+
+:mtgtip:`Zenith Chronicler<https://cards.scryfall.io/border_crop/front/1/4/1431fe83-7dc7-4c40-8d66-6525560e4323.jpg?1674040340|https://scryfall.com/card/one/246/zenith-chronicler?utm_source=api>`
+   Whenever a player casts their first multicolored spell each turn, each other player draws a card.
+
+
+:mtgtip:`Blackcleave Cliffs<https://cards.scryfall.io/border_crop/front/1/4/1441fba4-fe06-4b5f-a103-aa6cf59a3859.jpg?1674022662|https://scryfall.com/card/one/248/blackcleave-cliffs?utm_source=api>`
+   Blackcleave Cliffs enters the battlefield tapped unless you control two or fewer other lands.
+
+   |tap|: Add |mana_b| or |mana_r|.
+
+
+:mtgtip:`Copperline Gorge<https://cards.scryfall.io/border_crop/front/7/8/78b0f36b-7d8c-4e77-adc2-a4dad93a81d5.jpg?1674022670|https://scryfall.com/card/one/249/copperline-gorge?utm_source=api>`
+   Copperline Gorge enters the battlefield tapped unless you control two or fewer other lands.
+
+   |tap|: Add |mana_r| or |mana_g|.
+
+
+:mtgtip:`Mirrex<https://cards.scryfall.io/border_crop/front/5/4/54a702cd-ca49-4570-b47e-8b090452a3c3.jpg?1674306910|https://scryfall.com/card/one/254/mirrex?utm_source=api>`
+   |tap|: Add |colorless|.
+
+   |tap|: Add one mana of any color. Activate only if Mirrex entered the battlefield this turn.
+
+   |mana_3|, |tap|: Create a 1/1 colorless Phyrexian Mite artifact creature token with toxic 1 and "This creature can't block." (Players dealt combat damage by it also get a poison counter.)
+
+
+:mtgtip:`The Monumental Facade<https://cards.scryfall.io/border_crop/front/d/6/d6785057-0d06-4f91-b45f-c05f7c4e2b19.jpg?1674259628|https://scryfall.com/card/one/255/the-monumental-facade?utm_source=api>`
+   The Monumental Facade enters the battlefield with two oil counters on it.
+
+   |tap|: Add |colorless|.
+
+   |tap|, Remove an oil counter from The Monumental Facade: Put an oil counter on target artifact or creature you control. Activate only as a sorcery.
+
+
+:mtgtip:`The Mycosynth Gardens<https://cards.scryfall.io/border_crop/front/5/a/5a931463-25f6-4e31-95b4-bb4a9388009b.jpg?1674342136|https://scryfall.com/card/one/256/the-mycosynth-gardens?utm_source=api>`
+   |tap|: Add |colorless|.
+
+   |mana_1|, |tap|: Add one mana of any color.
+
+   |mana_x|, |tap|: The Mycosynth Gardens becomes a copy of target nontoken artifact you control with mana value X.
+
+
+:mtgtip:`Razorverge Thicket<https://cards.scryfall.io/border_crop/front/6/5/65b26f68-3a25-4c4e-bc76-a199ab479a50.jpg?1674022679|https://scryfall.com/card/one/257/razorverge-thicket?utm_source=api>`
+   Razorverge Thicket enters the battlefield tapped unless you control two or fewer other lands.
+
+   |tap|: Add |mana_g| or |mana_w|.
+
+
+:mtgtip:`Seachrome Coast<https://cards.scryfall.io/border_crop/front/9/e/9ed7441f-f624-49c8-8611-d9bba0e441ac.jpg?1674022687|https://scryfall.com/card/one/258/seachrome-coast?utm_source=api>`
+   Seachrome Coast enters the battlefield tapped unless you control two or fewer other lands.
+
+   |tap|: Add |mana_w| or |mana_u|.
+
+
+:mtgtip:`The Seedcore<https://cards.scryfall.io/border_crop/front/2/9/29c91aad-bf33-448e-b122-65940fb2e33b.jpg?1674022696|https://scryfall.com/card/one/259/the-seedcore?utm_source=api>`
+   |tap|: Add |colorless|.
+
+   |tap|: Add one mana of any color. Spend this mana only to cast Phyrexian creature spells.
+
+   Corrupted — |tap|: Target 1/1 creature gets +2/+1 until end of turn. Activate only if an opponent has three or more poison counters.
+
+
+:mtgtip:`Plains<https://cards.scryfall.io/border_crop/front/5/0/50958c6e-9555-42ad-9bb3-2da9faa5cb52.jpg?1674022706|https://scryfall.com/card/one/262/plains?utm_source=api>`
    (|tap|: Add |mana_w|.)
 
 
-:mtgtip:`Island<https://cards.scryfall.io/border_crop/front/5/c/5c6322d4-52bf-471a-a5b2-8329ef4be39a.jpg?1670946547|https://scryfall.com/card/one/263/island?utm_source=api>`
+:mtgtip:`Island<https://cards.scryfall.io/border_crop/front/5/c/5c6322d4-52bf-471a-a5b2-8329ef4be39a.jpg?1674022714|https://scryfall.com/card/one/263/island?utm_source=api>`
    (|tap|: Add |mana_u|.)
 
 
-:mtgtip:`Swamp<https://cards.scryfall.io/border_crop/front/7/3/736a0484-e091-4178-92c5-c517b0e92f3d.jpg?1670946523|https://scryfall.com/card/one/264/swamp?utm_source=api>`
+:mtgtip:`Swamp<https://cards.scryfall.io/border_crop/front/7/3/736a0484-e091-4178-92c5-c517b0e92f3d.jpg?1674022723|https://scryfall.com/card/one/264/swamp?utm_source=api>`
    (|tap|: Add |mana_b|.)
 
 
-:mtgtip:`Mountain<https://cards.scryfall.io/border_crop/front/6/d/6d9e44c1-7b51-47cb-b564-608deb46cc44.jpg?1670946504|https://scryfall.com/card/one/265/mountain?utm_source=api>`
+:mtgtip:`Mountain<https://cards.scryfall.io/border_crop/front/6/d/6d9e44c1-7b51-47cb-b564-608deb46cc44.jpg?1674022733|https://scryfall.com/card/one/265/mountain?utm_source=api>`
    (|tap|: Add |mana_r|.)
 
 
-:mtgtip:`Forest<https://cards.scryfall.io/border_crop/front/4/f/4fce7045-4572-4e9e-8853-2a5dcfc989ac.jpg?1670946494|https://scryfall.com/card/one/266/forest?utm_source=api>`
+:mtgtip:`Forest<https://cards.scryfall.io/border_crop/front/4/f/4fce7045-4572-4e9e-8853-2a5dcfc989ac.jpg?1674260144|https://scryfall.com/card/one/266/forest?utm_source=api>`
    (|tap|: Add |mana_g|.)
+
+
+:mtgtip:`Darkslick Shores<https://cards.scryfall.io/border_crop/front/2/b/2b95c400-8fa0-489d-b401-5e2ec4241942.jpg?1674260696|https://scryfall.com/card/one/372/darkslick-shores?utm_source=api>`
+   Darkslick Shores enters the battlefield tapped unless you control two or fewer other lands.
+
+   |tap|: Add |mana_u| or |mana_b|.
+
+
+:mtgtip:`Mite Overseer<https://cards.scryfall.io/border_crop/front/a/5/a55a5edb-edf3-4f6c-90b8-1780b1e73997.jpg?1674259826|https://scryfall.com/card/one/404/mite-overseer?utm_source=api>`
+   First strike
+
+   As long as it's your turn, creature tokens you control get +1/+0 and have first strike.
+
+   |mana_3|\ |mana_wp|: Create a 1/1 colorless Phyrexian Mite artifact creature token with toxic 1 and "This creature can't block." (Players dealt combat damage biy it also get a poison counter. |mana_wp| can be paid with either |mana_w| or 2 life.)
+
+
+:mtgtip:`Serum Sovereign<https://cards.scryfall.io/border_crop/front/7/0/70d562aa-8b49-40a3-a5c1-3af8afa98edc.jpg?1674259848|https://scryfall.com/card/one/405/serum-sovereign?utm_source=api>`
+   Flying
+
+   Whenever you cast a noncreature spell, put an oil counter on Serum Sovereign.
+
+   |mana_u|, Remove an oil counter from Serum Sovereign: Draw a card, then scry 2.
+
+
+:mtgtip:`Kinzu of the Bleak Coven<https://cards.scryfall.io/border_crop/front/2/8/28934cf3-c1e0-49c9-93ce-fd60b1881884.jpg?1674259873|https://scryfall.com/card/one/406/kinzu-of-the-bleak-coven?utm_source=api>`
+   Flying
+
+   Whenever another nontoken creature you control dies, you may pay 2 life and exile it. If you do, create a token that's a copy of that creature, except it's 1/1 and has toxic 1. (Players dealt combat damage by it also get a poison counter.)
+
+
+:mtgtip:`Rhuk, Hexgold Nabber<https://cards.scryfall.io/border_crop/front/d/7/d7c25806-1da6-4789-a17e-d2440184ec40.jpg?1674259884|https://scryfall.com/card/one/407/rhuk-hexgold-nabber?utm_source=api>`
+   Trample, haste
+
+   Whenever an equipped creature you control other than Rhuk, Hexgold Nabber attacks or dies, you may attached all Equipment attached to that creature to Rhuk.
+
+
+:mtgtip:`Goliath Hatchery<https://cards.scryfall.io/border_crop/front/0/e/0e1141ca-78c0-46e5-99f8-28069d69f23a.jpg?1674259911|https://scryfall.com/card/one/408/goliath-hatchery?utm_source=api>`
+   When Goliath Hatchery enters the battlefield, create two 3/3 green Phyrexian Beast creature tokens with toxic 1. (Players dealt combat damage by them also get a poison counter.)
+
+   Corrupted — At the beginning of your upkeep, if an opponent has three or more poison counters, choose a creature you control, then draw cards equal to its total toxic value.
 

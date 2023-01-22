@@ -983,7 +983,7 @@
    When you cycle Titanoth Rex, put a trample counter on target creature you control.
 
 
-:mtgtip:`Vivien, Monsters' Advocate<https://cards.scryfall.io/border_crop/front/5/0/504ebb84-7e7b-4119-a128-a9c183c5d9de.jpg?1600970284|https://scryfall.com/card/iko/175/vivien-monsters-advocate?utm_source=api>`
+:mtgtip:`Vivien, Monsters' Advocate<https://cards.scryfall.io/border_crop/front/5/0/504ebb84-7e7b-4119-a128-a9c183c5d9de.jpg?1673946629|https://scryfall.com/card/iko/175/vivien-monsters-advocate?utm_source=api>`
    You may look at the top card of your library any time.
 
    You may cast creature spells from the top of your library.

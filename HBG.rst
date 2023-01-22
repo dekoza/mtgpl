@@ -931,8 +931,8 @@
    As long as it's your turn, Gnoll Hunting Party has first strike.
 
 
-:mtgtip:`Goblin Trapfinder<https://cards.scryfall.io/border_crop/front/8/9/8967f552-f74a-4a13-bbd9-f7b5ddfe9fe4.jpg?1656557651|https://scryfall.com/card/hbg/56/goblin-trapfinder?utm_source=api>`
-   When Goblin Trapfinder dies, seek a creature card with mana value 3 or less. That card perpetually gains haste, "This spell costs |mana_2| less to cast," and "At the beginning of your end step, sacrifice this creature."
+:mtgtip:`Goblin Trapfinder<https://cards.scryfall.io/border_crop/front/8/9/8967f552-f74a-4a13-bbd9-f7b5ddfe9fe4.jpg?1674008512|https://scryfall.com/card/hbg/56/goblin-trapfinder?utm_source=api>`
+   When Goblin Trapfinder dies, seek a creature card with mana value 3 or less. That card perpetually gains haste, "This spell costs |mana_1| less to cast," and "At the beginning of your end step, sacrifice this creature."
 
 
 :mtgtip:`Incessant Provocation<https://cards.scryfall.io/border_crop/front/c/a/ca633f0a-1dad-45b6-bc2a-17e7f80f2903.jpg?1656478597|https://scryfall.com/card/hbg/57/incessant-provocation?utm_source=api>`
@@ -2471,7 +2471,7 @@
    Defender
 
 
-:mtgtip:`Ruin Crab<https://cards.scryfall.io/border_crop/front/c/d/cd2e8fab-3633-4eea-9f09-a6160692da05.jpg?1657404707|https://scryfall.com/card/hbg/911/ruin-crab?utm_source=api>`
+:mtgtip:`Ruin Crab<https://cards.scryfall.io/border_crop/front/c/d/cd2e8fab-3633-4eea-9f09-a6160692da05.jpg?1670596755|https://scryfall.com/card/hbg/911/ruin-crab?utm_source=api>`
    Landfall — Whenever a land enters the battlefield under your control, each opponent mills three cards. (To mill a card, a player puts the top card of their library into their graveyard.)
 
 

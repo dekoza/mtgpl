@@ -1349,7 +1349,7 @@
    |mana_1|, Exile Masked Bandits from your hand: Target land gains "|tap|: Add |mana_b|, |mana_r|, or |mana_g|" until Masked Bandits is cast from exile. You may cast Masked Bandits for as long as it remains exiled.
 
 
-:mtgtip:`Meeting of the Five<https://cards.scryfall.io/border_crop/front/d/6/d6c3c08f-ae9d-4932-ba0e-65652b8b318b.jpg?1664413335|https://scryfall.com/card/snc/202/meeting-of-the-five?utm_source=api>`
+:mtgtip:`Meeting of the Five<https://cards.scryfall.io/border_crop/front/d/6/d6c3c08f-ae9d-4932-ba0e-65652b8b318b.jpg?1674125027|https://scryfall.com/card/snc/202/meeting-of-the-five?utm_source=api>`
    Exile the top ten cards of your library. You may cast spells with exactly three colors from among them this turn. Add |mana_w|\ |mana_w|\ |mana_u|\ |mana_u|\ |mana_b|\ |mana_b|\ |mana_r|\ |mana_r|\ |mana_g|\ |mana_g|. Spend this mana only to cast spells with exactly three colors.
 
 

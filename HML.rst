@@ -287,7 +287,7 @@
    Creatures can't attack you unless their controller pays |mana_2| for each creature they control that's attacking you.
 
 
-:mtgtip:`Sengir Autocrat<https://cards.scryfall.io/border_crop/front/0/d/0d16e024-7865-43d0-8cd8-8933ef741d05.jpg?1629338108|https://scryfall.com/card/hml/56/sengir-autocrat?utm_source=api>`
+:mtgtip:`Sengir Autocrat<https://cards.scryfall.io/border_crop/front/0/d/0d16e024-7865-43d0-8cd8-8933ef741d05.jpg?1670457421|https://scryfall.com/card/hml/56/sengir-autocrat?utm_source=api>`
    When Sengir Autocrat enters the battlefield, create three 0/1 black Serf creature tokens.
 
    When Sengir Autocrat leaves the battlefield, exile all Serf tokens.

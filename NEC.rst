@@ -565,7 +565,7 @@
    Destroy target artifact, target creature, target enchantment, and target land.
 
 
-:mtgtip:`Grumgully, the Generous<https://cards.scryfall.io/border_crop/front/b/a/ba580628-60d1-4281-8705-dbc7823afd8d.jpg?1644344792|https://scryfall.com/card/nec/138/grumgully-the-generous?utm_source=api>`
+:mtgtip:`Grumgully, the Generous<https://cards.scryfall.io/border_crop/front/b/a/ba580628-60d1-4281-8705-dbc7823afd8d.jpg?1674173818|https://scryfall.com/card/nec/138/grumgully-the-generous?utm_source=api>`
    Each other non-Human creature you control enters the battlefield with an additional +1/+1 counter on it.
 
 
@@ -579,7 +579,7 @@
    Equip |mana_3|
 
 
-:mtgtip:`Raff Capashen, Ship's Mage<https://cards.scryfall.io/border_crop/front/9/2/9250189d-357d-41cb-8dcf-45bed6599b40.jpg?1644344852|https://scryfall.com/card/nec/141/raff-capashen-ships-mage?utm_source=api>`
+:mtgtip:`Raff Capashen, Ship's Mage<https://cards.scryfall.io/border_crop/front/9/2/9250189d-357d-41cb-8dcf-45bed6599b40.jpg?1674173824|https://scryfall.com/card/nec/141/raff-capashen-ships-mage?utm_source=api>`
    Flash
 
    Flying

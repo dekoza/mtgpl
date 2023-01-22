@@ -124,6 +124,7 @@ expansions = {
     "NPH",
     "ODY",
     "OGW",
+    "ONE",
     "ONS",
     "ORI",
     "PCY",
@@ -163,6 +164,8 @@ expansions = {
     "ZEN",
     "ZNC",
     "ZNR",
+    "YBRO",
+    "YDMU",
 }
 
 card_template = """
