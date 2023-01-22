@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2022.9\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-09 02:50+0100\n"
+"POT-Creation-Date: 2023-01-22 22:01+0100\n"
 "PO-Revision-Date: 2023-01-09 08:48+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dmr/pl/>\n"
@@ -269,8 +269,8 @@ msgid ""
 "Flashback—Tap three untapped white creatures you control. (You may cast this "
 "card from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
-"Wspomnienie—Przekręć trzy odkręcone białe stwory pod twoim władaniem. ("
-"Możesz rzucić tę kartę z twojego cmentarza za jej koszt wspomnienia. "
+"Wspomnienie—Przekręć trzy odkręcone białe stwory pod twoim władaniem. "
+"(Możesz rzucić tę kartę z twojego cmentarza za jej koszt wspomnienia. "
 "Następnie wygnaj ją.)"
 
 #: ../../DMR.rst:20
@@ -1762,7 +1762,8 @@ msgstr ""
 msgid ""
 "|tap|, Sacrifice Phyrexian Debaser: Target creature gets -2/-2 until end of "
 "turn."
-msgstr "|tap|, poświęć tego stwora: Wskazany stwór do końca tury dostaje -2/-2."
+msgstr ""
+"|tap|, poświęć tego stwora: Wskazany stwór do końca tury dostaje -2/-2."
 
 #: ../../DMR.rst:536
 msgid ""
@@ -2033,8 +2034,8 @@ msgid ""
 "When Coal Stoker enters the battlefield, if you cast it from your hand, add |"
 "mana_r|\\ |mana_r|\\ |mana_r|."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, jeśli rzuciłeś go z ręki, weź |mana_r|\\"
-" |mana_r|\\ |mana_r|."
+"Kiedy ten byt wejdzie na pole bitwy, jeśli rzuciłeś go z ręki, weź |mana_r|"
+"\\ |mana_r|\\ |mana_r|."
 
 #: ../../DMR.rst:622
 msgid ""
@@ -2534,7 +2535,8 @@ msgstr ""
 
 #: ../../DMR.rst:777
 msgid "If a player would gain life, that player gains no life instead."
-msgstr "Jeśli gracz miałby zyskać życia, ów gracz zamiast tego nie zyskuje żyć."
+msgstr ""
+"Jeśli gracz miałby zyskać życia, ów gracz zamiast tego nie zyskuje żyć."
 
 #: ../../DMR.rst:784
 msgid ""
@@ -3107,7 +3109,8 @@ msgstr "Zaurocz ląd"
 #: ../../DMR.rst:965
 msgid ""
 "Enchanted land has \"|tap|: Create a 1/1 green Squirrel creature token.\""
-msgstr "Zauroczony ląd ma \"|tap|: Stwórz żeton zielonego stwora Wiewiór 1/1.\""
+msgstr ""
+"Zauroczony ląd ma \"|tap|: Stwórz żeton zielonego stwora Wiewiór 1/1.\""
 
 #: ../../DMR.rst:970
 msgid ""
@@ -3776,7 +3779,7 @@ msgstr "Przekręć wskazany byt."
 #: ../../DMR.rst:1210
 msgid ""
 ":mtgtip:`Life<https://cards.scryfall.io/border_crop/front/e/1/e16d52ca-"
-"f8de-4852-9bff-9d208e5f678f.jpg?1670480397|https://scryfall.com/card/dmr/216/"
+"f8de-4852-9bff-9d208e5f678f.jpg?1673591569|https://scryfall.com/card/dmr/216/"
 "life-death?utm_source=api>`"
 msgstr ""
 
@@ -3789,7 +3792,7 @@ msgstr ""
 #: ../../DMR.rst:1214
 msgid ""
 ":mtgtip:`Death<https://cards.scryfall.io/border_crop/front/e/1/e16d52ca-"
-"f8de-4852-9bff-9d208e5f678f.jpg?1670480397|https://scryfall.com/card/dmr/216/"
+"f8de-4852-9bff-9d208e5f678f.jpg?1673591569|https://scryfall.com/card/dmr/216/"
 "life-death?utm_source=api>`"
 msgstr ""
 
@@ -3845,8 +3848,8 @@ msgid ""
 "If a land is tapped for two or more mana, it produces |colorless| instead of "
 "any other type and amount."
 msgstr ""
-"Jeśli ląd zostanie przekręcony po dwie lub więcej many, produkuje on "
-"|colorless| zamiast wszelkich innych typów i ilości."
+"Jeśli ląd zostanie przekręcony po dwie lub więcej many, produkuje on |"
+"colorless| zamiast wszelkich innych typów i ilości."
 
 #: ../../DMR.rst:1227
 msgid ""
