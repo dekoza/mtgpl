@@ -427,7 +427,7 @@
    Target creature gets -2/-2 until end of turn. You gain 2 life.
 
 
-:mtgtip:`Oathsworn Vampire<https://cards.scryfall.io/border_crop/front/4/0/405f82d6-2991-4958-a563-572f0d298346.jpg?1555040278|https://scryfall.com/card/rix/80/oathsworn-vampire?utm_source=api>`
+:mtgtip:`Oathsworn Vampire<https://cards.scryfall.io/border_crop/front/4/0/405f82d6-2991-4958-a563-572f0d298346.jpg?1669088153|https://scryfall.com/card/rix/80/oathsworn-vampire?utm_source=api>`
    Oathsworn Vampire enters the battlefield tapped.
 
    You may cast Oathsworn Vampire from your graveyard if you gained life this turn.

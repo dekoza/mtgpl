@@ -225,7 +225,7 @@
    Exile target artifact or enchantment. If you cast this spell during your main phase, you may exile up to one other target artifact or enchantment.
 
 
-:mtgtip:`Riftmarked Knight<https://cards.scryfall.io/border_crop/front/2/0/20c4cb76-c895-4862-8099-d306b1bb06e9.jpg?1619393402|https://scryfall.com/card/tsr/38/riftmarked-knight?utm_source=api>`
+:mtgtip:`Riftmarked Knight<https://cards.scryfall.io/border_crop/front/2/0/20c4cb76-c895-4862-8099-d306b1bb06e9.jpg?1669487087|https://scryfall.com/card/tsr/38/riftmarked-knight?utm_source=api>`
    Protection from black; flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)
 
    Suspend 3—|mana_1|\ |mana_w|\ |mana_w|

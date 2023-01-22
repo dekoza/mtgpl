@@ -925,7 +925,7 @@
    Blasphemous Act deals 13 damage to each creature.
 
 
-:mtgtip:`Boarding Party<https://cards.scryfall.io/border_crop/front/1/8/186adacf-434b-475b-9b85-749615ae002b.jpg?1608910069|https://scryfall.com/card/cmr/163/boarding-party?utm_source=api>`
+:mtgtip:`Boarding Party<https://cards.scryfall.io/border_crop/front/1/8/186adacf-434b-475b-9b85-749615ae002b.jpg?1669408493|https://scryfall.com/card/cmr/163/boarding-party?utm_source=api>`
    Haste
 
    Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom of your library in a random order.)

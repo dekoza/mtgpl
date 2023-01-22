@@ -297,7 +297,7 @@
    Enchanted creature loses all abilities and is a blue Fish with base power and toughness 0/1.
 
 
-:mtgtip:`Kiora Bests the Sea God<https://cards.scryfall.io/border_crop/front/2/b/2b604451-4f6c-4cfa-8d3a-01f18d01d88f.jpg?1581479381|https://scryfall.com/card/thb/52/kiora-bests-the-sea-god?utm_source=api>`
+:mtgtip:`Kiora Bests the Sea God<https://cards.scryfall.io/border_crop/front/2/b/2b604451-4f6c-4cfa-8d3a-01f18d01d88f.jpg?1669836948|https://scryfall.com/card/thb/52/kiora-bests-the-sea-god?utm_source=api>`
    (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 
    I — Create an 8/8 blue Kraken creature token with hexproof.

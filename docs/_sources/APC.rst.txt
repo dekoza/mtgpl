@@ -709,11 +709,11 @@
    Creatures target player controls get +1/+1 until end of turn.
 
 
-:mtgtip:`Order<https://cards.scryfall.io/border_crop/front/1/4/14e4f5a4-b1ea-4816-b2d7-cf148468a388.jpg?1562900024|https://scryfall.com/card/apc/132/order-chaos?utm_source=api>`
+:mtgtip:`Order<https://cards.scryfall.io/border_crop/front/1/4/14e4f5a4-b1ea-4816-b2d7-cf148468a388.jpg?1670480463|https://scryfall.com/card/apc/132/order-chaos?utm_source=api>`
    Exile target attacking creature.
 
 
-:mtgtip:`Chaos<https://cards.scryfall.io/border_crop/front/1/4/14e4f5a4-b1ea-4816-b2d7-cf148468a388.jpg?1562900024|https://scryfall.com/card/apc/132/order-chaos?utm_source=api>`
+:mtgtip:`Chaos<https://cards.scryfall.io/border_crop/front/1/4/14e4f5a4-b1ea-4816-b2d7-cf148468a388.jpg?1670480463|https://scryfall.com/card/apc/132/order-chaos?utm_source=api>`
    Creatures can't block this turn.
 
 

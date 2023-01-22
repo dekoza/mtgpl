@@ -1235,7 +1235,7 @@
    At the beginning of your end step, create a 1/1 green Insect creature token for each +1/+1 counter you've put on creatures under your control this turn.
 
 
-:mtgtip:`A-Iridescent Hornbeetle<https://cards.scryfall.io/border_crop/front/5/3/538103da-aa42-436b-8d1a-8f774d005c9a.jpg?1657065056|https://scryfall.com/card/znr/A-187/a-iridescent-hornbeetle?utm_source=api>`
+:mtgtip:`A-Iridescent Hornbeetle<https://cards.scryfall.io/border_crop/front/5/3/538103da-aa42-436b-8d1a-8f774d005c9a.jpg?1672950724|https://scryfall.com/card/znr/A-187/a-iridescent-hornbeetle?utm_source=api>`
    At the beginning of your end step, create a 1/1 green Insect creature token for each +1/+1 counter you've put on creatures under your control this turn.
 
 
@@ -1765,35 +1765,35 @@
    |tap|: Add one mana of any color. Spend this mana only to cast a Cleric, Rogue, Warrior, or Wizard spell or to activate an ability of a Cleric, Rogue, Warrior, or Wizard.
 
 
-:mtgtip:`Branchloft Pathway<https://cards.scryfall.io/border_crop/front/0/5/0511e232-2a72-40f5-a400-4f7ebc442d17.jpg?1637022382|https://scryfall.com/card/znr/258/branchloft-pathway-boulderloft-pathway?utm_source=api>`
+:mtgtip:`Branchloft Pathway<https://cards.scryfall.io/border_crop/front/0/5/0511e232-2a72-40f5-a400-4f7ebc442d17.jpg?1669839380|https://scryfall.com/card/znr/258/branchloft-pathway-boulderloft-pathway?utm_source=api>`
    |tap|: Add |mana_g|.
 
 
-:mtgtip:`Boulderloft Pathway<https://cards.scryfall.io/border_crop/back/0/5/0511e232-2a72-40f5-a400-4f7ebc442d17.jpg?1637022382|https://scryfall.com/card/znr/258/branchloft-pathway-boulderloft-pathway?utm_source=api>`
+:mtgtip:`Boulderloft Pathway<https://cards.scryfall.io/border_crop/back/0/5/0511e232-2a72-40f5-a400-4f7ebc442d17.jpg?1669839380|https://scryfall.com/card/znr/258/branchloft-pathway-boulderloft-pathway?utm_source=api>`
    |tap|: Add |mana_w|.
 
 
-:mtgtip:`Brightclimb Pathway<https://cards.scryfall.io/border_crop/front/d/2/d24c3d51-795d-4c01-a34a-3280fccd2d78.jpg?1637022391|https://scryfall.com/card/znr/259/brightclimb-pathway-grimclimb-pathway?utm_source=api>`
+:mtgtip:`Brightclimb Pathway<https://cards.scryfall.io/border_crop/front/d/2/d24c3d51-795d-4c01-a34a-3280fccd2d78.jpg?1669839386|https://scryfall.com/card/znr/259/brightclimb-pathway-grimclimb-pathway?utm_source=api>`
    |tap|: Add |mana_w|.
 
 
-:mtgtip:`Grimclimb Pathway<https://cards.scryfall.io/border_crop/back/d/2/d24c3d51-795d-4c01-a34a-3280fccd2d78.jpg?1637022391|https://scryfall.com/card/znr/259/brightclimb-pathway-grimclimb-pathway?utm_source=api>`
+:mtgtip:`Grimclimb Pathway<https://cards.scryfall.io/border_crop/back/d/2/d24c3d51-795d-4c01-a34a-3280fccd2d78.jpg?1669839386|https://scryfall.com/card/znr/259/brightclimb-pathway-grimclimb-pathway?utm_source=api>`
    |tap|: Add |mana_b|.
 
 
-:mtgtip:`Clearwater Pathway<https://cards.scryfall.io/border_crop/front/b/4/b4b99ebb-0d54-4fe5-a495-979aaa564aa8.jpg?1637022400|https://scryfall.com/card/znr/260/clearwater-pathway-murkwater-pathway?utm_source=api>`
+:mtgtip:`Clearwater Pathway<https://cards.scryfall.io/border_crop/front/b/4/b4b99ebb-0d54-4fe5-a495-979aaa564aa8.jpg?1669839436|https://scryfall.com/card/znr/260/clearwater-pathway-murkwater-pathway?utm_source=api>`
    |tap|: Add |mana_u|.
 
 
-:mtgtip:`Murkwater Pathway<https://cards.scryfall.io/border_crop/back/b/4/b4b99ebb-0d54-4fe5-a495-979aaa564aa8.jpg?1637022400|https://scryfall.com/card/znr/260/clearwater-pathway-murkwater-pathway?utm_source=api>`
+:mtgtip:`Murkwater Pathway<https://cards.scryfall.io/border_crop/back/b/4/b4b99ebb-0d54-4fe5-a495-979aaa564aa8.jpg?1669839436|https://scryfall.com/card/znr/260/clearwater-pathway-murkwater-pathway?utm_source=api>`
    |tap|: Add |mana_b|.
 
 
-:mtgtip:`Cragcrown Pathway<https://cards.scryfall.io/border_crop/front/d/a/da57eb54-5199-4a56-95f7-f6ac432876b1.jpg?1637022407|https://scryfall.com/card/znr/261/cragcrown-pathway-timbercrown-pathway?utm_source=api>`
+:mtgtip:`Cragcrown Pathway<https://cards.scryfall.io/border_crop/front/d/a/da57eb54-5199-4a56-95f7-f6ac432876b1.jpg?1669839398|https://scryfall.com/card/znr/261/cragcrown-pathway-timbercrown-pathway?utm_source=api>`
    |tap|: Add |mana_r|.
 
 
-:mtgtip:`Timbercrown Pathway<https://cards.scryfall.io/border_crop/back/d/a/da57eb54-5199-4a56-95f7-f6ac432876b1.jpg?1637022407|https://scryfall.com/card/znr/261/cragcrown-pathway-timbercrown-pathway?utm_source=api>`
+:mtgtip:`Timbercrown Pathway<https://cards.scryfall.io/border_crop/back/d/a/da57eb54-5199-4a56-95f7-f6ac432876b1.jpg?1669839398|https://scryfall.com/card/znr/261/cragcrown-pathway-timbercrown-pathway?utm_source=api>`
    |tap|: Add |mana_g|.
 
 
@@ -1803,19 +1803,19 @@
    |mana_4|: Put two +1/+1 counters on Crawling Barrens. Then you may have it become a 0/0 Elemental creature until end of turn. It's still a land.
 
 
-:mtgtip:`Needleverge Pathway<https://cards.scryfall.io/border_crop/front/6/5/6559047e-6ede-4815-a3a0-389062094f9d.jpg?1637022419|https://scryfall.com/card/znr/263/needleverge-pathway-pillarverge-pathway?utm_source=api>`
+:mtgtip:`Needleverge Pathway<https://cards.scryfall.io/border_crop/front/6/5/6559047e-6ede-4815-a3a0-389062094f9d.jpg?1669839412|https://scryfall.com/card/znr/263/needleverge-pathway-pillarverge-pathway?utm_source=api>`
    |tap|: Add |mana_r|.
 
 
-:mtgtip:`Pillarverge Pathway<https://cards.scryfall.io/border_crop/back/6/5/6559047e-6ede-4815-a3a0-389062094f9d.jpg?1637022419|https://scryfall.com/card/znr/263/needleverge-pathway-pillarverge-pathway?utm_source=api>`
+:mtgtip:`Pillarverge Pathway<https://cards.scryfall.io/border_crop/back/6/5/6559047e-6ede-4815-a3a0-389062094f9d.jpg?1669839412|https://scryfall.com/card/znr/263/needleverge-pathway-pillarverge-pathway?utm_source=api>`
    |tap|: Add |mana_w|.
 
 
-:mtgtip:`Riverglide Pathway<https://cards.scryfall.io/border_crop/front/2/6/2668ac91-6cda-4f81-a08d-4fc5f9cb35b2.jpg?1637022427|https://scryfall.com/card/znr/264/riverglide-pathway-lavaglide-pathway?utm_source=api>`
+:mtgtip:`Riverglide Pathway<https://cards.scryfall.io/border_crop/front/2/6/2668ac91-6cda-4f81-a08d-4fc5f9cb35b2.jpg?1669839416|https://scryfall.com/card/znr/264/riverglide-pathway-lavaglide-pathway?utm_source=api>`
    |tap|: Add |mana_u|.
 
 
-:mtgtip:`Lavaglide Pathway<https://cards.scryfall.io/border_crop/back/2/6/2668ac91-6cda-4f81-a08d-4fc5f9cb35b2.jpg?1637022427|https://scryfall.com/card/znr/264/riverglide-pathway-lavaglide-pathway?utm_source=api>`
+:mtgtip:`Lavaglide Pathway<https://cards.scryfall.io/border_crop/back/2/6/2668ac91-6cda-4f81-a08d-4fc5f9cb35b2.jpg?1669839416|https://scryfall.com/card/znr/264/riverglide-pathway-lavaglide-pathway?utm_source=api>`
    |tap|: Add |mana_r|.
 
 

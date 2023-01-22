@@ -11,7 +11,7 @@
    Whenever a nontoken creature enters the battlefield under your control, create a 2/2 white Unicorn creature token.
 
 
-:mtgtip:`Brightmare<https://cards.scryfall.io/border_crop/front/0/f/0fc18921-59f5-413f-a221-dc47d31b2ec8.jpg?1632261683|https://scryfall.com/card/jmp/2/brightmare?utm_source=api>`
+:mtgtip:`Brightmare<https://cards.scryfall.io/border_crop/front/0/f/0fc18921-59f5-413f-a221-dc47d31b2ec8.jpg?1669447517|https://scryfall.com/card/jmp/2/brightmare?utm_source=api>`
    When Brightmare enters the battlefield, tap up to one target creature. You gain life equal to that creature's power.
 
 

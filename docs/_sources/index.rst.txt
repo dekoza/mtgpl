@@ -40,9 +40,7 @@ Tłumaczenie dodatków
 Nadchodzące
 -----------
 
-* :mtgexp:`DMR` :doc:`Dominaria Remastered<DMR>` Premiera: 2023-01-13
-* :mtgexp:`A23` :doc:`Alchemy: The Brothers' War<YBRO>` (tylko Arena) Premiera 2022-12-13
-* :mtgexp:`EA1` :doc:`Explorer Anthology<EA1>` (tylko Arena) - część 2; Premiera 2022-12-13
+* :mtgexp:`ONE` :doc:`Phyrexia: All Will Be One<ONE>` - Premiera 2023-02-10
 
 Standard
 --------
@@ -95,6 +93,7 @@ Na komputery wyszło kilka gier pozwalających grać w MTG, ale najpopularniejsz
 Otrzymały one specjalne dodatki, które nie miały swoich bezpośrednich papierowych odpowiedników, ale zawierały
 karty z innych dodatków dobrane w taki sposób, by zapewnić odpowiedni balans zarówno w Constructed jak i Limited.
 
+* :mtgexp:`A23` :doc:`Alchemy: The Brothers' War<YBRO>` (tylko Arena) |A23_percent|
 * :mtgexp:`EA1` :doc:`Explorer Anthology<EA1>` (tylko Arena) |EA1_percent|
 * :mtgexp:`A23` :doc:`Alchemy: Dominaria<YDMU>` (tylko Arena) |YDMU_percent|
 * :mtgexp:`HBG` :doc:`Alchemy Horizons: Baldur's Gate<HBG>` (tylko Arena) |HBG_percent|
@@ -122,6 +121,7 @@ Zestawy gildyjne
 Seria 'Masters'
 ---------------
 
+* :mtgexp:`DMR` :doc:`Dominaria Remastered<DMR>` |DMR_percent|
 * :mtgexp:`2X2` :doc:`Double Masters 2022<2X2>` |2X2_percent|
 * :mtgexp:`TSR` :doc:`Time Spiral Remastered<TSR>` |TSR_percent|
 * :mtgexp:`2XM` :doc:`Double Masters<2XM>` |2XM_percent|

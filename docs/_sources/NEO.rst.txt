@@ -75,7 +75,7 @@
    Whenever a Samurai or Warrior you control attacks alone, it gets +1/+1 until end of turn.
 
 
-:mtgtip:`Era of Enlightenment<https://cards.scryfall.io/border_crop/front/7/4/74f43827-2b9b-4fc9-a6e2-c682dfbf14f7.jpg?1656453037|https://scryfall.com/card/neo/11/era-of-enlightenment-hand-of-enlightenment?utm_source=api>`
+:mtgtip:`Era of Enlightenment<https://cards.scryfall.io/border_crop/front/7/4/74f43827-2b9b-4fc9-a6e2-c682dfbf14f7.jpg?1669724056|https://scryfall.com/card/neo/11/era-of-enlightenment-hand-of-enlightenment?utm_source=api>`
    (As this Saga enters and after your draw step, add a lore counter.)
 
    I — Scry 2.
@@ -85,7 +85,7 @@
    III — Exile this Saga, then return it to the battlefield transformed under your control.
 
 
-:mtgtip:`Hand of Enlightenment<https://cards.scryfall.io/border_crop/back/7/4/74f43827-2b9b-4fc9-a6e2-c682dfbf14f7.jpg?1656453037|https://scryfall.com/card/neo/11/era-of-enlightenment-hand-of-enlightenment?utm_source=api>`
+:mtgtip:`Hand of Enlightenment<https://cards.scryfall.io/border_crop/back/7/4/74f43827-2b9b-4fc9-a6e2-c682dfbf14f7.jpg?1669724056|https://scryfall.com/card/neo/11/era-of-enlightenment-hand-of-enlightenment?utm_source=api>`
    First strike
 
 
@@ -535,7 +535,7 @@
    Whenever a nontoken artifact enters the battlefield under your control, you may pay |mana_1|\ |mana_u|. If you do, create a token that's a copy of that artifact.
 
 
-:mtgtip:`Saiba Trespassers<https://cards.scryfall.io/border_crop/front/c/3/c3dd7f1a-5d43-4218-a9d8-7cc4f6a18ecd.jpg?1662015031|https://scryfall.com/card/neo/77/saiba-trespassers?utm_source=api>`
+:mtgtip:`Saiba Trespassers<https://cards.scryfall.io/border_crop/front/c/3/c3dd7f1a-5d43-4218-a9d8-7cc4f6a18ecd.jpg?1673687356|https://scryfall.com/card/neo/77/saiba-trespassers?utm_source=api>`
    Channel — |mana_3|\ |mana_u|, Discard Saiba Trespassers: Tap up to two target creatures you don't control. Those creatures don't untap during their controller's next untap step.
 
 

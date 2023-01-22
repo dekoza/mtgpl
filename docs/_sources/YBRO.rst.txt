@@ -65,8 +65,8 @@
    At the beginning of your upkeep, draft a card from Kayla's Kindling's spellbook and exile it. Until end of turn, you may cast that card.
 
 
-:mtgtip:`Melt Through<https://cards.scryfall.io/border_crop/front/5/5/55f1d408-d08a-44be-8a75-d9ded9ef4684.jpg?1670715005|https://scryfall.com/card/ybro/10/melt-through?utm_source=api>`
-   Melt Through deals 2 damage to any target. If it's a creature, it perpetually gains "As long as this creature is on the battlefield, damage isn't removed form it during cleanup steps."
+:mtgtip:`Melt Through<https://cards.scryfall.io/border_crop/front/5/5/55f1d408-d08a-44be-8a75-d9ded9ef4684.jpg?1673293834|https://scryfall.com/card/ybro/10/melt-through?utm_source=api>`
+   Melt Through deals 2 damage to any target. If it's a creature, it perpetually gains "As long as this creature is on the battlefield, damage isn't removed from it during cleanup steps."
 
 
 :mtgtip:`Tomakul Phoenix<https://cards.scryfall.io/border_crop/front/a/1/a1a52738-fc3f-425e-9ab6-6d5244035cf4.jpg?1670704267|https://scryfall.com/card/ybro/11/tomakul-phoenix?utm_source=api>`
@@ -85,8 +85,8 @@
    When Foundry Groundbreaker enters the battlefield, sacrifice a land. Then conjure two cards named Mishra's Foundry onto the battlefield tapped.
 
 
-:mtgtip:`Legion of Clay<https://cards.scryfall.io/border_crop/front/0/3/030263e7-e881-40eb-8881-a8d90b5ab337.jpg?1670715067|https://scryfall.com/card/ybro/14/legion-of-clay?utm_source=api>`
-   Creatures you control have trample. Whenever one or more nontoken artifacts enter the battlefield under your control, creatures you control get +1/+1.
+:mtgtip:`Legion of Clay<https://cards.scryfall.io/border_crop/front/0/3/030263e7-e881-40eb-8881-a8d90b5ab337.jpg?1673293931|https://scryfall.com/card/ybro/14/legion-of-clay?utm_source=api>`
+   Creatures you control have trample. Whenever one or more nontoken artifacts enter the battlefield under your control, creatures you control perpetually get +1/+1.
 
 
 :mtgtip:`Sylvan Smite<https://cards.scryfall.io/border_crop/front/c/9/c9f14063-be4d-45cb-a9ab-04b29958603d.jpg?1670375711|https://scryfall.com/card/ybro/15/sylvan-smite?utm_source=api>`
@@ -153,13 +153,13 @@
    • Seek an artifact card with mana value equal to the number of Powerstones you control.
 
 
-:mtgtip:`Forgefire Automaton<https://cards.scryfall.io/border_crop/front/e/2/e2f1a70c-25c4-4f03-8b04-92b34ce4fe1b.jpg?1670375774|https://scryfall.com/card/ybro/26/forgefire-automaton?utm_source=api>`
+:mtgtip:`Forgefire Automaton<https://cards.scryfall.io/border_crop/front/e/2/e2f1a70c-25c4-4f03-8b04-92b34ce4fe1b.jpg?1674379616|https://scryfall.com/card/ybro/26/forgefire-automaton?utm_source=api>`
    Prototype |mana_2|\ |mana_b| — 3/2
 
    At the beginning of your upkeep, return target creature card with power less than Forgefire Automaton's power from your graveyard to the battlefield. Its base power perpetually becomes equal to Forgefire Automaton's power.
 
 
-:mtgtip:`Gixian Recycler<https://cards.scryfall.io/border_crop/front/6/0/6059eebe-7be0-4231-80ae-f4857f8db61f.jpg?1670258576|https://scryfall.com/card/ybro/27/gixian-recycler?utm_source=api>`
+:mtgtip:`Gixian Recycler<https://cards.scryfall.io/border_crop/front/6/0/6059eebe-7be0-4231-80ae-f4857f8db61f.jpg?1674379627|https://scryfall.com/card/ybro/27/gixian-recycler?utm_source=api>`
    When Gixian Recycler dies or is put into your graveyard from your hand or library, conjure a card named Gixian Recycler into your graveyard.
 
    Unearth |mana_1|\ |mana_b|
@@ -177,8 +177,8 @@
    Whenever Urza's Construction Drone attacks or dies, seek an Urza's land card.
 
 
-:mtgtip:`Warzone Duplicator<https://cards.scryfall.io/border_crop/front/d/4/d40bfed4-7f86-486e-a903-0165cd40e77b.jpg?1670704486|https://scryfall.com/card/ybro/30/warzone-duplicator?utm_source=api>`
+:mtgtip:`Warzone Duplicator<https://cards.scryfall.io/border_crop/front/d/4/d40bfed4-7f86-486e-a903-0165cd40e77b.jpg?1674285420|https://scryfall.com/card/ybro/30/warzone-duplicator?utm_source=api>`
    Prototype |mana_3|\ |mana_u| — 3/3
 
-   When Warzone Duplicator enters the battlefield, return target creature an opponent controls with power less than Warzone Duplicator's power to its owner's hand. If that creature wasn't a token, conjure a duplicate of it into your hand. It perpetually gains "You may spend this mana as though it were mana of any color to cast this card we wish we could read the end of, but it got previewed with a scrollbar on the text which is very cool."
+   When Warzone Duplicator enters the battlefield, return target creature an opponent controls with power less than Warzone Duplicator's power to its owner's hand. If that creature wasn't a token, conjure a duplicate of it into your hand. It perpetually gains "You may spend this mana as though it were mana of any color to cast this spell."
 
