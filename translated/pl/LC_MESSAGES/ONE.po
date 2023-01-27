@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG po polsku 2022.12\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-27 09:29+0100\n"
-"PO-Revision-Date: 2023-01-22 22:21+0000\n"
+"PO-Revision-Date: 2023-01-27 12:26+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/one/pl/>\n"
 "Language: pl\n"
@@ -247,7 +247,7 @@ msgstr ""
 
 #: ../../ONE.rst:9
 msgid "Choose one or both —"
-msgstr ""
+msgstr "Wybierz jedną lub obie —"
 
 #: ../../ONE.rst:11
 #, fuzzy
@@ -520,10 +520,8 @@ msgid ""
 msgstr ""
 
 #: ../../ONE.rst:101
-#, fuzzy
-#| msgid "Equipped creature has double strike."
 msgid "Equipped creature has flying."
-msgstr "Wyposażony stwór ma podwójny cios."
+msgstr "Wyposażony stwór ma latanie."
 
 #: ../../ONE.rst:103
 #, fuzzy
@@ -625,6 +623,8 @@ msgid ""
 "Ward |mana_2| (Whenever this creature becomes the target of a spell or "
 "ability an opponent controls, counter it unless that player pays |mana_2|.)"
 msgstr ""
+"Straż |mana_2| (Ilekroć ten stwór zostanie wskazany przez czar lub zdolność "
+"pod władaniem przeciwnika, skontruj to, chyba że ów gracz zapłaci |mana_2|.)"
 
 #: ../../ONE.rst:145
 msgid "As long as Leonin Lightbringer is equipped, it gets +1/+1."
@@ -639,7 +639,7 @@ msgstr ""
 
 #: ../../ONE.rst:149
 msgid "Lifelink"
-msgstr ""
+msgstr "Więź życia"
 
 #: ../../ONE.rst:151
 msgid ""
@@ -786,12 +786,12 @@ msgid ""
 "Affinity for artifacts (This spell costs |mana_1| less to cast for each "
 "artifact you control.)"
 msgstr ""
+"Koligacja z artefaktami (Rzucenie tego czaru kosztuje o |mana_1| za każdy "
+"artefakt pod twoim władaniem.)"
 
 #: ../../ONE.rst:201
-#, fuzzy
-#| msgid "Target creature gets +2/+2 until end of turn."
 msgid "Creatures you control get +2/+1 until end of turn."
-msgstr "Wskazany stwór do końca tury dostaje +2/+2."
+msgstr "Stwory pod twoim władaniem dostają do końca tury +2/+1."
 
 #: ../../ONE.rst:206
 msgid ""
@@ -949,10 +949,8 @@ msgid "Enchant creature"
 msgstr "Zaurocz stwora"
 
 #: ../../ONE.rst:257
-#, fuzzy
-#| msgid "Equipped creature gets +2/+0."
 msgid "Enchanted creature gets +1/+1."
-msgstr "Wyposażony stwór dostaje +2/+0."
+msgstr "Zauroczony stwór dostaje +1/+1."
 
 #: ../../ONE.rst:259
 #, fuzzy
@@ -1044,7 +1042,7 @@ msgstr ""
 
 #: ../../ONE.rst:285
 msgid "Counter target spell unless its controller pays |mana_2|."
-msgstr ""
+msgstr "Skontruj wskazany czar, chyba że jego władca zapłaci |mana_2|."
 
 #: ../../ONE.rst:287
 msgid ""
@@ -1085,10 +1083,8 @@ msgstr ""
 "niniejszy ma podwójny cios."
 
 #: ../../ONE.rst:299 ../../ONE.rst:919
-#, fuzzy
-#| msgid "0: Draw a card."
 msgid "Draw two cards."
-msgstr "0: Dobierz kartę."
+msgstr "Dobierz dwie karty."
 
 #: ../../ONE.rst:304
 msgid ""
@@ -1336,6 +1332,8 @@ msgid ""
 "Crew 3 (Tap any number of creatures you control with total power 3 or more: "
 "This Vehicle becomes an artifact creature until end of turn.)"
 msgstr ""
+"Załoga 3 (Przekręć dowolną liczbę stworów pod twoim władaniem o łącznej sile "
+"co najmniej 3: Ten Pojazd staje się do końca tury artefaktowym stworem.)"
 
 #: ../../ONE.rst:392
 msgid ""
@@ -1421,10 +1419,8 @@ msgid "Each opponent gets a poison counter."
 msgstr ""
 
 #: ../../ONE.rst:417
-#, fuzzy
-#| msgid "0: Draw a card."
 msgid "Draw a card."
-msgstr "0: Dobierz kartę."
+msgstr "Dobierz kartę."
 
 #: ../../ONE.rst:424
 msgid ""
@@ -1540,17 +1536,12 @@ msgid ""
 msgstr ""
 
 #: ../../ONE.rst:455
-#, fuzzy
-#| msgid ""
-#| "Volt Charge deals 3 damage to any target. Proliferate. (Choose any number "
-#| "of permanents and/or players, then give each another counter of each kind "
-#| "already there.)"
 msgid ""
 "Whenever Thrummingbird deals combat damage to a player, proliferate. (Choose "
 "any number of permanents and/or players, then give each another counter of "
 "each kind already there.)"
 msgstr ""
-"Ten czar zadaje wskazanemu celowi 3 obrażenia. Rozpleń. (Wybierz dowolną "
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, rozpleń. (Wybierz dowolną "
 "liczbę bytów i/lub graczy, po czym daj im kolejny znacznik każdego z już "
 "obecnych tam rodzajów.)"
 
@@ -1697,10 +1688,8 @@ msgid ""
 msgstr ""
 
 #: ../../ONE.rst:507
-#, fuzzy
-#| msgid "Enchant artifact, creature, or planeswalker"
 msgid "Destroy target creature or planeswalker."
-msgstr "Zaurocz artefakt, stwora lub wędrowca"
+msgstr "Zniszcz wskazanego stwora lub wędrowca."
 
 #: ../../ONE.rst:514
 msgid ""
@@ -1840,17 +1829,12 @@ msgid ""
 msgstr ""
 
 #: ../../ONE.rst:563
-#, fuzzy
-#| msgid ""
-#| "If a permanent entering the battlefield causes a triggered ability of a "
-#| "permanent you control to trigger, that ability triggers an additional "
-#| "time."
 msgid ""
 "If a creature dying causes a triggered ability of a permanent you control to "
 "trigger, that ability triggers an additional time."
 msgstr ""
-"Jeśli byt wchodzący na pole bitwy powoduje wyzwolenie zdolności bytu pod "
-"twoim władaniem, owa zdolność wyzwalana jest dodatkowy raz."
+"Jeśli śmierć stwora powoduje wyzwolenie zdolności bytu pod twoim władaniem, "
+"owa zdolność wyzwalana jest dodatkowy raz."
 
 #: ../../ONE.rst:565
 msgid ""
@@ -1893,6 +1877,8 @@ msgid ""
 "Target opponent reveals their hand. You choose a noncreature, nonland card "
 "from it. That player discards that card."
 msgstr ""
+"Wskazany przeciwnik ujawnia swoją rękę. Wybierz z niej kartę nie będącą "
+"stworem ani lądem. Ów gracz odrzuca ową kartę."
 
 #: ../../ONE.rst:580
 msgid ""
@@ -2075,6 +2061,8 @@ msgid ""
 "Target creature gains deathtouch and indestructible until end of turn. "
 "(Damage and effects that say \"destroy\" don't destroy it.)"
 msgstr ""
+"Wskazany stwór do końca tury zyskuje dotyk śmierci i niezniszczalność. ("
+"Obrażenia i efekty mówiące \"zniszcz\" nie niszczą go.)"
 
 #: ../../ONE.rst:640
 msgid ""
@@ -2171,7 +2159,7 @@ msgstr ""
 
 #: ../../ONE.rst:671 ../../ONE.rst:741 ../../ONE.rst:807
 msgid "Menace"
-msgstr ""
+msgstr "Złowrogość"
 
 #: ../../ONE.rst:673
 #, fuzzy
@@ -2384,22 +2372,16 @@ msgid ""
 msgstr ""
 
 #: ../../ONE.rst:735
-#, fuzzy
-#| msgid "Equipped creature gets +2/+0."
 msgid "Equipped creature gets +1/-1."
-msgstr "Wyposażony stwór dostaje +2/+0."
+msgstr "Wyposażony stwór dostaje +1/-1."
 
 #: ../../ONE.rst:737
-#, fuzzy
-#| msgid ""
-#| "Equip |mana_2|\\ |mana_r| (|mana_2|\\ |mana_r|: Attach to target creature "
-#| "you control. Equip only as a sorcery.)"
 msgid ""
 "Equip |mana_1| (|mana_1|: Attach to target creature you control. Equip only "
 "as a sorcery.)"
 msgstr ""
-"Wyposaż |mana_2|\\ |mana_r| (|mana_2|\\ |mana_r|: Dołącz do wskazanego "
-"stwora pod twoim władaniem. Wyposaż tylko jako obrzęd.)"
+"Wyposaż |mana_1| (|mana_1|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Aktywuj tylko jako obrzęd.)"
 
 #: ../../ONE.rst:746
 msgid ""
@@ -2436,6 +2418,8 @@ msgid ""
 "Exile the top card of your library. Until the end of your next turn, you may "
 "play that card."
 msgstr ""
+"Wygnaj wierzchnią kartę twojej biblioteki. Możesz zagrać ową kartę do końca "
+"twojej następnej tury."
 
 #: ../../ONE.rst:758
 msgid ""
@@ -2886,7 +2870,7 @@ msgstr ""
 
 #: ../../ONE.rst:917
 msgid "As an additional cost to cast this spell, discard a card."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — odrzuć kartę."
 
 #: ../../ONE.rst:924
 msgid ""
@@ -2987,18 +2971,12 @@ msgid "Target creature gets +2/+2 and gains vigilance until end of turn."
 msgstr "Wskazany stwór do końca tury dostaje +2/+2."
 
 #: ../../ONE.rst:955 ../../ONE.rst:985 ../../ONE.rst:1131
-#, fuzzy
-#| msgid ""
-#| "Volt Charge deals 3 damage to any target. Proliferate. (Choose any number "
-#| "of permanents and/or players, then give each another counter of each kind "
-#| "already there.)"
 msgid ""
 "Proliferate. (Choose any number of permanents and/or players, then give each "
 "another counter of each kind already there.)"
 msgstr ""
-"Ten czar zadaje wskazanemu celowi 3 obrażenia. Rozpleń. (Wybierz dowolną "
-"liczbę bytów i/lub graczy, po czym daj im kolejny znacznik każdego z już "
-"obecnych tam rodzajów.)"
+"Rozpleń. (Wybierz dowolną liczbę bytów i/lub graczy, po czym daj każdemu z "
+"nich kolejny znacznik każdego z już obecnych tam rodzajów.)"
 
 #: ../../ONE.rst:964
 msgid ""
@@ -3014,10 +2992,8 @@ msgid ""
 msgstr ""
 
 #: ../../ONE.rst:961 ../../ONE.rst:1489
-#, fuzzy
-#| msgid "|mana_1|, |tap|: Add one mana of any color."
 msgid "|tap|: Add one mana of any color."
-msgstr "|mana_1|, |tap|: Weź jedną manę dowolnego koloru."
+msgstr "|tap|: Weź jedną manę dowolnego koloru."
 
 #: ../../ONE.rst:963
 msgid ""
@@ -3058,10 +3034,8 @@ msgid "|mana_1|, Sacrifice Cankerbloom: Choose one —"
 msgstr ""
 
 #: ../../ONE.rst:981
-#, fuzzy
-#| msgid "Destroy target enchantment."
 msgid "Destroy target artifact."
-msgstr "Zniszcz wskazany urok."
+msgstr "Zniszcz wskazany artefakt."
 
 #: ../../ONE.rst:983 ../../ONE.rst:1247
 msgid "Destroy target enchantment."
@@ -3126,7 +3100,7 @@ msgstr ""
 
 #: ../../ONE.rst:1003 ../../ONE.rst:1189
 msgid "Reach"
-msgstr ""
+msgstr "Zasięg"
 
 #: ../../ONE.rst:1005
 #, fuzzy
@@ -3291,10 +3265,8 @@ msgid ""
 msgstr ""
 
 #: ../../ONE.rst:1061
-#, fuzzy
-#| msgid "Equipped creature gets +2/+0."
 msgid "Enchanted creature gets +2/+2."
-msgstr "Wyposażony stwór dostaje +2/+0."
+msgstr "Zauroczony stwór dostaje +2/+2."
 
 #: ../../ONE.rst:1072
 msgid ""
@@ -3437,6 +3409,9 @@ msgid ""
 "creature you don't control. (Each deals damage equal to its power to the "
 "other.)"
 msgstr ""
+"Wskazany stwór pod twoim władaniem do końca tury dostaje +1/+2. Walczy ze "
+"wskazanym stworem poza twoim władaniem. (Każdy zadaje drugiemu obrażenia "
+"równe swojej sile.)"
 
 #: ../../ONE.rst:1116
 msgid ""
@@ -3447,7 +3422,7 @@ msgstr ""
 
 #: ../../ONE.rst:1113
 msgid "Reach, trample"
-msgstr ""
+msgstr "Zasięg, tratowanie"
 
 #: ../../ONE.rst:1115
 msgid "Skyscythe Engulfer can't be blocked by creatures with flying."
@@ -3484,6 +3459,8 @@ msgid ""
 "Search your library for a basic land card, reveal it, put it into your hand, "
 "then shuffle."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę bazowego lądu, ujawnij ją i umieść w "
+"twojej ręce, po czym przetasuj."
 
 #: ../../ONE.rst:1142
 msgid ""
@@ -3514,10 +3491,8 @@ msgid ""
 msgstr ""
 
 #: ../../ONE.rst:1145
-#, fuzzy
-#| msgid "Target creature gets +2/+2 until end of turn."
 msgid "Target creature gets +4/+4 until end of turn."
-msgstr "Wskazany stwór do końca tury dostaje +2/+2."
+msgstr "Wskazany stwór do końca tury dostaje +4/+4."
 
 #: ../../ONE.rst:1152
 msgid ""
@@ -3652,6 +3627,8 @@ msgid ""
 "At the beginning of each combat, double the power and toughness of each "
 "creature you control until end of turn."
 msgstr ""
+"Na początku każdej potyczki, podwój do końca tury siłę i wytrzymałość "
+"każdego stwora pod twoim władaniem."
 
 #: ../../ONE.rst:1193
 msgid ""
@@ -4491,7 +4468,7 @@ msgstr ""
 
 #: ../../ONE.rst:1495
 msgid "When Prophetic Prism enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../ONE.rst:1497 ../../ONE.rst:1627
 msgid "|mana_1|, |tap|: Add one mana of any color."
@@ -4659,10 +4636,8 @@ msgid "The Autonomous Furnace enters the battlefield tapped."
 msgstr ""
 
 #: ../../ONE.rst:1561
-#, fuzzy
-#| msgid "(|tap|: Add |mana_r|.)"
 msgid "|tap|: Add |mana_r|."
-msgstr "(|tap|: Weź |mana_r|.)"
+msgstr "|tap|: Weź |mana_r|."
 
 #: ../../ONE.rst:1563
 msgid ""
@@ -4738,10 +4713,8 @@ msgid "The Dross Pits enters the battlefield tapped."
 msgstr ""
 
 #: ../../ONE.rst:1587
-#, fuzzy
-#| msgid "(|tap|: Add |mana_b|.)"
 msgid "|tap|: Add |mana_b|."
-msgstr "(|tap|: Weź |mana_b|.)"
+msgstr "|tap|: Weź |mana_b|."
 
 #: ../../ONE.rst:1589
 msgid "|mana_1|\\ |mana_b|, |tap|, Sacrifice The Dross Pits: Draw a card."
@@ -4759,10 +4732,8 @@ msgid "The Fair Basilica enters the battlefield tapped."
 msgstr ""
 
 #: ../../ONE.rst:1595
-#, fuzzy
-#| msgid "(|tap|: Add |mana_w|.)"
 msgid "|tap|: Add |mana_w|."
-msgstr "(|tap|: Weź |mana_w|.)"
+msgstr "|tap|: Weź |mana_w|."
 
 #: ../../ONE.rst:1597
 #, fuzzy
@@ -4782,10 +4753,8 @@ msgid "The Hunter Maze enters the battlefield tapped."
 msgstr ""
 
 #: ../../ONE.rst:1603
-#, fuzzy
-#| msgid "(|tap|: Add |mana_g|.)"
 msgid "|tap|: Add |mana_g|."
-msgstr "(|tap|: Weź |mana_g|.)"
+msgstr "|tap|: Weź |mana_g|."
 
 #: ../../ONE.rst:1605
 #, fuzzy
@@ -4917,10 +4886,8 @@ msgid "The Surgical Bay enters the battlefield tapped."
 msgstr ""
 
 #: ../../ONE.rst:1655
-#, fuzzy
-#| msgid "(|tap|: Add |mana_u|.)"
 msgid "|tap|: Add |mana_u|."
-msgstr "(|tap|: Weź |mana_u|.)"
+msgstr "|tap|: Weź |mana_u|."
 
 #: ../../ONE.rst:1657
 msgid "|mana_1|\\ |mana_u|, |tap|, Sacrifice The Surgical Bay: Draw a card."
@@ -4938,6 +4905,8 @@ msgid ""
 "|tap|, Sacrifice Terramorphic Expanse: Search your library for a basic land "
 "card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
+"|tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę bazowego lądu, "
+"umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../ONE.rst:1666
 msgid ""

@@ -1,237 +1,238 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2013-2022, Dominik Kozaczko
 # This file is distributed under the same license as the MTG po polsku package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-#, fuzzy
+# Weblate Admin <weblate-admin@kozaczko.info>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG po polsku 2023.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-22 22:32+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2023-01-27 12:26+0000\n"
+"Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
+"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/onc/pl/>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.14\n"
 
 #: ../../symbols.rst:3
 msgid "{C}"
-msgstr ""
+msgstr "{C}"
 
 #: ../../symbols.rst:5
 msgid "{T}"
-msgstr ""
+msgstr "{T}"
 
 #: ../../symbols.rst:7
 msgid "{Q}"
-msgstr ""
+msgstr "{Q}"
 
 #: ../../symbols.rst:9
 msgid "{U}"
-msgstr ""
+msgstr "{U}"
 
 #: ../../symbols.rst:11
 msgid "{W}"
-msgstr ""
+msgstr "{W}"
 
 #: ../../symbols.rst:13
 msgid "{B}"
-msgstr ""
+msgstr "{B}"
 
 #: ../../symbols.rst:15
 msgid "{G}"
-msgstr ""
+msgstr "{G}"
 
 #: ../../symbols.rst:17
 msgid "{R}"
-msgstr ""
+msgstr "{R}"
 
 #: ../../symbols.rst:19
 msgid "{2/U}"
-msgstr ""
+msgstr "{2/U}"
 
 #: ../../symbols.rst:21
 msgid "{2/W}"
-msgstr ""
+msgstr "{2/W}"
 
 #: ../../symbols.rst:23
 msgid "{2/B}"
-msgstr ""
+msgstr "{2/B}"
 
 #: ../../symbols.rst:25
 msgid "{2/G}"
-msgstr ""
+msgstr "{2/G}"
 
 #: ../../symbols.rst:27
 msgid "{2/R}"
-msgstr ""
+msgstr "{2/R}"
 
 #: ../../symbols.rst:29
 msgid "{U/P}"
-msgstr ""
+msgstr "{U/P}"
 
 #: ../../symbols.rst:31
 msgid "{W/P}"
-msgstr ""
+msgstr "{W/P}"
 
 #: ../../symbols.rst:33
 msgid "{B/P}"
-msgstr ""
+msgstr "{B/P}"
 
 #: ../../symbols.rst:35
 msgid "{G/P}"
-msgstr ""
+msgstr "{G/P}"
 
 #: ../../symbols.rst:37
 msgid "{R/P}"
-msgstr ""
+msgstr "{R/P}"
 
 #: ../../symbols.rst:39
 msgid "{X}"
-msgstr ""
+msgstr "{X}"
 
 #: ../../symbols.rst:41
 msgid "{P}"
-msgstr ""
+msgstr "{P}"
 
 #: ../../symbols.rst:43
 msgid "{0}"
-msgstr ""
+msgstr "{0}"
 
 #: ../../symbols.rst:45
 msgid "{1}"
-msgstr ""
+msgstr "{1}"
 
 #: ../../symbols.rst:47
 msgid "{2}"
-msgstr ""
+msgstr "{2}"
 
 #: ../../symbols.rst:49
 msgid "{3}"
-msgstr ""
+msgstr "{3}"
 
 #: ../../symbols.rst:51
 msgid "{4}"
-msgstr ""
+msgstr "{4}"
 
 #: ../../symbols.rst:53
 msgid "{5}"
-msgstr ""
+msgstr "{5}"
 
 #: ../../symbols.rst:55
 msgid "{6}"
-msgstr ""
+msgstr "{6}"
 
 #: ../../symbols.rst:57
 msgid "{7}"
-msgstr ""
+msgstr "{7}"
 
 #: ../../symbols.rst:59
 msgid "{8}"
-msgstr ""
+msgstr "{8}"
 
 #: ../../symbols.rst:61
 msgid "{9}"
-msgstr ""
+msgstr "{9}"
 
 #: ../../symbols.rst:63
 msgid "{10}"
-msgstr ""
+msgstr "{10}"
 
 #: ../../symbols.rst:65
 msgid "{11}"
-msgstr ""
+msgstr "{11}"
 
 #: ../../symbols.rst:67
 msgid "{12}"
-msgstr ""
+msgstr "{12}"
 
 #: ../../symbols.rst:69
 msgid "{13}"
-msgstr ""
+msgstr "{13}"
 
 #: ../../symbols.rst:71
 msgid "{14}"
-msgstr ""
+msgstr "{14}"
 
 #: ../../symbols.rst:73
 msgid "{15}"
-msgstr ""
+msgstr "{15}"
 
 #: ../../symbols.rst:75
 msgid "{16}"
-msgstr ""
+msgstr "{16}"
 
 #: ../../symbols.rst:77
 msgid "{20}"
-msgstr ""
+msgstr "{20}"
 
 #: ../../symbols.rst:79
 msgid "{(r/g)}"
-msgstr ""
+msgstr "{(r/g)}"
 
 #: ../../symbols.rst:81
 msgid "{(r/w)}"
-msgstr ""
+msgstr "{(r/w)}"
 
 #: ../../symbols.rst:83
 msgid "{(u/b)}"
-msgstr ""
+msgstr "{(u/b)}"
 
 #: ../../symbols.rst:85
 msgid "{(u/r)}"
-msgstr ""
+msgstr "{(u/r)}"
 
 #: ../../symbols.rst:87
 msgid "{(w/b)}"
-msgstr ""
+msgstr "{(w/b)}"
 
 #: ../../symbols.rst:89
 msgid "{(w/u)}"
-msgstr ""
+msgstr "{(w/u)}"
 
 #: ../../symbols.rst:91
 msgid "{(b/g)}"
-msgstr ""
+msgstr "{(b/g)}"
 
 #: ../../symbols.rst:93
 msgid "{(b/r)}"
-msgstr ""
+msgstr "{(b/r)}"
 
 #: ../../symbols.rst:95
 msgid "{(g/w)}"
-msgstr ""
+msgstr "{(g/w)}"
 
 #: ../../symbols.rst:97
 msgid "{(g/u)}"
-msgstr ""
+msgstr "{(g/u)}"
 
 #: ../../symbols.rst:99
 msgid "{(g/u/p)}"
-msgstr ""
+msgstr "{(g/u/p)}"
 
 #: ../../symbols.rst:101
 msgid "{(g/w/p)}"
-msgstr ""
+msgstr "{(g/w/p)}"
 
 #: ../../symbols.rst:103
 msgid "{S}"
-msgstr ""
+msgstr "{S}"
 
 #: ../../symbols.rst:105
 msgid "{E}"
-msgstr ""
+msgstr "{E}"
 
 #: ../../symbols.rst:107
 msgid "{CHAOS}"
-msgstr ""
+msgstr "{CHAOS}"
 
 #: ../../symbols.rst:109
 msgid "{PW}"
-msgstr ""
+msgstr "{PW}"
 
 #: ../../ONC.rst:5
 msgid ":mtgexp:`ONC` Phyrexia: All Will Be One Commander"
@@ -283,7 +284,7 @@ msgstr ""
 
 #: ../../ONC.rst:21
 msgid "Flying, lifelink, haste"
-msgstr ""
+msgstr "Latanie, więź życia, pośpiech"
 
 #: ../../ONC.rst:23
 msgid ""
@@ -335,6 +336,9 @@ msgid ""
 "while casting this spell pays for |mana_1| or one mana of that creature's "
 "color.)"
 msgstr ""
+"Współpraca (Twoje stwory mogą pomóc rzucić ten czar. Każdy stwór, którego "
+"przekręcisz podczas rzucania tego czaru płaci za |mana_1| lub jedną manę w "
+"swoim kolorze.)"
 
 #: ../../ONC.rst:39
 msgid ""
@@ -364,7 +368,7 @@ msgstr ""
 
 #: ../../ONC.rst:47
 msgid "Equip |mana_1|\\ |mana_w|"
-msgstr ""
+msgstr "Wyposaż |mana_1|\\ |mana_w|"
 
 #: ../../ONC.rst:56
 msgid ""
@@ -390,7 +394,7 @@ msgstr ""
 
 #: ../../ONC.rst:59
 msgid "Flying, first strike"
-msgstr ""
+msgstr "Latanie, pierwszy cios"
 
 #: ../../ONC.rst:61
 msgid ""
@@ -504,7 +508,7 @@ msgstr ""
 
 #: ../../ONC.rst:97
 msgid "Equipped creature gets +2/+2."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +2/+2."
 
 #: ../../ONC.rst:99
 msgid ""
@@ -526,7 +530,7 @@ msgstr ""
 
 #: ../../ONC.rst:105
 msgid "Creature tokens you control have haste."
-msgstr ""
+msgstr "Żetony stworów pod twoim władaniem mają pośpiech."
 
 #: ../../ONC.rst:107
 msgid ""
@@ -639,7 +643,7 @@ msgstr ""
 
 #: ../../ONC.rst:143 ../../ONC.rst:519
 msgid "|tap|: Add one mana of any color."
-msgstr ""
+msgstr "|tap|: Weź jedną manę dowolnego koloru."
 
 #: ../../ONC.rst:145
 msgid ""
@@ -656,13 +660,16 @@ msgstr ""
 
 #: ../../ONC.rst:149
 msgid "Create two 1/1 white Bird creature tokens with flying."
-msgstr ""
+msgstr "Stwórz dwa żetony białego stwora Ptak 1/1 z lataniem."
 
 #: ../../ONC.rst:151
 msgid ""
 "Flashback—Tap three untapped white creatures you control. (You may cast this "
 "card from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie—Przekręć trzy odkręcone białe stwory pod twoim władaniem. ("
+"Możesz rzucić tę kartę z twojego cmentarza za jej koszt wspomnienia. "
+"Następnie wygnaj ją.)"
 
 #: ../../ONC.rst:158
 msgid ""
@@ -676,12 +683,17 @@ msgid ""
 "Strive — This spell costs |mana_1|\\ |mana_w| more to cast for each target "
 "beyond the first."
 msgstr ""
+"Wysiłek — Rzucenie tego czaru kosztuje o |mana_1|\\ |mana_w| więcej za "
+"wskazanie każdego celu poza pierwszym."
 
 #: ../../ONC.rst:157
 msgid ""
 "Choose any number of target opponents. Create X 1/1 white Human Soldier "
 "creature tokens, where X is the number of creatures those opponents control."
 msgstr ""
+"Wybierz dowolną liczbę wskazanych przeciwników. Stwórz X żetonów białego "
+"stwora Człowiek Piechur 1/1, gdzie X jest liczbą stworów pod władaniem owych "
+"przeciwników."
 
 #: ../../ONC.rst:170
 msgid ""
@@ -695,22 +707,25 @@ msgid ""
 "Escalate—Tap an untapped creature you control. (Pay this cost for each mode "
 "chosen beyond the first.)"
 msgstr ""
+"Eskalacja—Przekręć odkręconego stwora pod twoim władaniem. (Opłać ten koszt "
+"za każdy dodatkowo wybrany tryb.)"
 
 #: ../../ONC.rst:163
 msgid "Choose one or more —"
-msgstr ""
+msgstr "Wybierz jedną lub więcej —"
 
 #: ../../ONC.rst:165
 msgid "Destroy target creature with power 4 or greater."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora o sile 4 lub większej."
 
 #: ../../ONC.rst:167
 msgid "Destroy target enchantment."
-msgstr ""
+msgstr "Zniszcz wskazany urok."
 
 #: ../../ONC.rst:169
 msgid "Put a +1/+1 counter on each creature target player controls."
 msgstr ""
+"Umieść znacznik +1/+1 na każdym stworze pod władaniem wskazanego gracza."
 
 #: ../../ONC.rst:176
 msgid ""
@@ -752,15 +767,15 @@ msgstr ""
 
 #: ../../ONC.rst:183
 msgid "+2: You gain 1 life for each creature you control."
-msgstr ""
+msgstr "+2: Zyskaj po 1 życiu za każdego stwora pod twoim władaniem."
 
 #: ../../ONC.rst:185
 msgid "−2: Create three 1/1 white Soldier creature tokens."
-msgstr ""
+msgstr "–2: Stwórz trzy żetony białego stwora Piechur 1/1."
 
 #: ../../ONC.rst:187
 msgid "−5: Destroy all other permanents except for lands and tokens."
-msgstr ""
+msgstr "–5: Zniszcz wszystkie inne byty oprócz lądów i żetonów."
 
 #: ../../ONC.rst:194
 msgid ""
@@ -772,13 +787,15 @@ msgstr ""
 #: ../../ONC.rst:191 ../../ONC.rst:231 ../../ONC.rst:237 ../../ONC.rst:331
 #: ../../ONC.rst:355
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 #: ../../ONC.rst:193
 msgid ""
 "Landfall — Whenever a land enters the battlefield under your control, you "
 "may create a 1/1 white Bird creature token with flying."
 msgstr ""
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, możesz "
+"stworzyć żeton białego stwora Ptak 1/1 z lataniem."
 
 #: ../../ONC.rst:202
 msgid ""
@@ -792,16 +809,20 @@ msgid ""
 "Landfall — Whenever a land enters the battlefield under your control, choose "
 "one —"
 msgstr ""
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, wybierz "
+"jedną —"
 
 #: ../../ONC.rst:199
 msgid "Create a 2/2 white Cat Beast creature token."
-msgstr ""
+msgstr "Stwórz żeton białego stwora Kot Bestia 2/2."
 
 #: ../../ONC.rst:201
 msgid ""
 "Put a +1/+1 counter on each creature you control. Those creatures gain "
 "vigilance until end of turn."
 msgstr ""
+"Umieść znacznik +1/+1 na każdym stworze pod twoim władaniem. Owe stwory "
+"zyskują do końca tury czujność."
 
 #: ../../ONC.rst:206
 msgid ""
@@ -816,6 +837,9 @@ msgid ""
 "more, also create X 4/4 white Angel creature tokens with flying and "
 "vigilance."
 msgstr ""
+"Stwórz X żetonów białego stwora Piechur 2/2 z czujnością. Jeśli X wynosi 10 "
+"lub więcej, stwórz także X żetonów białego stwora Anioł 4/4 z lataniem i "
+"czujnością."
 
 #: ../../ONC.rst:212
 msgid ""
@@ -829,10 +853,11 @@ msgid ""
 "If you control a commander, you may cast this spell without paying its mana "
 "cost."
 msgstr ""
+"Jeśli władasz dowódcą, możesz rzucić ten czar bez płacenia jego kosztu many."
 
 #: ../../ONC.rst:211
 msgid "Creatures you control gain indestructible until end of turn."
-msgstr ""
+msgstr "Stwory pod twoim władaniem zyskują niezniszczalność do końca tury."
 
 #: ../../ONC.rst:216
 msgid ""
@@ -845,6 +870,8 @@ msgstr ""
 msgid ""
 "Destroy all creatures. You gain 1 life for each creature destroyed this way."
 msgstr ""
+"Zniszcz wszystkie stwory. Zyskaj po 1 życiu za każdego stwora zniszczonego w "
+"ten sposób."
 
 #: ../../ONC.rst:220
 msgid ""
@@ -858,6 +885,7 @@ msgid ""
 "Destroy target permanent. Its controller creates a 3/3 green Elephant "
 "creature token."
 msgstr ""
+"Zniszcz wskazany byt. Jego władca tworzy żeton zielonego stwora Słoń 3/3."
 
 #: ../../ONC.rst:224
 msgid ""
@@ -871,6 +899,8 @@ msgid ""
 "Creatures can't attack you unless their controller pays |mana_2| for each "
 "creature they control that's attacking you."
 msgstr ""
+"Stwory nie mogą cię atakować, chyba że ich władca zapłaci po |mana_2| za "
+"każdego stwora pod swoim władaniem atakującego ciebie."
 
 #: ../../ONC.rst:228
 msgid ""
@@ -884,6 +914,8 @@ msgid ""
 "Whenever another creature enters the battlefield under your control, "
 "creatures you control get +1/+1 until end of turn."
 msgstr ""
+"Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, stwory pod "
+"twoim władaniem dostają +1/+1 do końca tury."
 
 #: ../../ONC.rst:234
 msgid ""
@@ -898,6 +930,9 @@ msgid ""
 "planeswalker, proliferate. (Choose any number of permanents and/or players, "
 "then give each another counter of each kind already there.)"
 msgstr ""
+"Ilekroć ten stwór zada graczowi lub wędrowcowi obrażenia bojowe, rozpleń. ("
+"Wybierz dowolną liczbę bytów i/lub graczy, po czym daj każdemu z nich "
+"kolejny znacznik każdego z już obecnych tam rodzajów.)"
 
 #: ../../ONC.rst:242
 msgid ""
@@ -908,13 +943,15 @@ msgstr ""
 
 #: ../../ONC.rst:239
 msgid "Non-Archon creatures have base power and toughness 3/3."
-msgstr ""
+msgstr "Stwory bez typu Archon mają bazowe siłę i wytrzymałość 3/3."
 
 #: ../../ONC.rst:241
 msgid ""
 "When Harmonious Archon enters the battlefield, create two 1/1 white Human "
 "creature tokens."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, stwórz dwa żetony białego stwora "
+"Człowiek 1/1."
 
 #: ../../ONC.rst:248
 msgid ""
@@ -925,7 +962,7 @@ msgstr ""
 
 #: ../../ONC.rst:247
 msgid "Destroy all nontoken creatures."
-msgstr ""
+msgstr "Zniszcz wszystkie nieżetonowe stwory."
 
 #: ../../ONC.rst:254
 msgid ""
@@ -939,12 +976,16 @@ msgid ""
 "Create five 1/1 white Human creature tokens. If this spell was cast from a "
 "graveyard, create ten of those tokens instead."
 msgstr ""
+"Stwórz pięć żetonów białego stwora Człowiek 1/1. Jeśli ten czar został "
+"rzucony z cmentarza, zamiast tego stwórz dziesięć owych żetonów."
 
 #: ../../ONC.rst:253
 msgid ""
 "Flashback |mana_7|\\ |mana_w|\\ |mana_w| (You may cast this card from your "
 "graveyard for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_7|\\ |mana_w|\\ |mana_w| (Możesz rzucić tę kartę z twojego "
+"cmentarza za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../ONC.rst:258
 msgid ""
@@ -955,7 +996,7 @@ msgstr ""
 
 #: ../../ONC.rst:257
 msgid "Creature tokens you control get +1/+1 and have vigilance."
-msgstr ""
+msgstr "Żetony stworów pod twoim władaniem dostają +1/+1 i mają czujność."
 
 #: ../../ONC.rst:266
 msgid ""
@@ -969,16 +1010,20 @@ msgid ""
 "Equipped creature gets +1/+1 for each charge counter on Mace of the Valiant "
 "and has vigilance."
 msgstr ""
+"Wyposażony stwór dostaje +1/+1 za każdy znacznik ładunku na tym artefakcie "
+"oraz ma czujność."
 
 #: ../../ONC.rst:263
 msgid ""
 "Whenever a creature enters the battlefield under your control, put a charge "
 "counter on Mace of the Valiant."
 msgstr ""
+"Ilekroć stwór wejdzie na pole bitwy pod twoim władaniem, umieść znacznik "
+"ładunku na tym artefakcie."
 
 #: ../../ONC.rst:265 ../../ONC.rst:565
 msgid "Equip |mana_3|"
-msgstr ""
+msgstr "Wyposaż |mana_3|"
 
 #: ../../ONC.rst:270
 msgid ""
@@ -992,6 +1037,8 @@ msgid ""
 "Create X 1/1 white Soldier creature tokens. If X is 5 or more, destroy all "
 "other creatures."
 msgstr ""
+"Stwórz X żetonów białego stwora Piechur 1/1. Jeśli X jest co najmniej 5, "
+"zniszcz wszystkie inne stwory."
 
 #: ../../ONC.rst:278
 msgid ""
@@ -1005,14 +1052,16 @@ msgid ""
 "When Maul of the Skyclaves enters the battlefield, attach it to target "
 "creature you control."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, dołącz go do wskazanego stwora pod "
+"twoim władaniem."
 
 #: ../../ONC.rst:275
 msgid "Equipped creature gets +2/+2 and has flying and first strike."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +2/+2 i ma latanie oraz pierwszy cios."
 
 #: ../../ONC.rst:277
 msgid "Equip |mana_2|\\ |mana_w|\\ |mana_w|"
-msgstr ""
+msgstr "Wyposaż |mana_2|\\ |mana_w|\\ |mana_w|"
 
 #: ../../ONC.rst:282
 msgid ""
@@ -1026,6 +1075,8 @@ msgid ""
 "Whenever another creature with power 2 or less enters the battlefield under "
 "your control, you may pay |mana_1|. If you do, draw a card."
 msgstr ""
+"Ilekroć inny stwór o sile 2 lub mniejszej wejdzie na pole bitwy pod twoim "
+"władaniem, możesz zapłacić |mana_1|. Jeśli tak zrobisz, dobierz kartę."
 
 #: ../../ONC.rst:286
 msgid ""
@@ -1036,7 +1087,7 @@ msgstr ""
 
 #: ../../ONC.rst:285
 msgid "Create two 1/1 white Spirit creature tokens with flying."
-msgstr ""
+msgstr "Stwórz dwa żetony białego stwora Duch 1/1 z lataniem."
 
 #: ../../ONC.rst:292
 msgid ""
@@ -1047,13 +1098,15 @@ msgstr ""
 
 #: ../../ONC.rst:289
 msgid "(|mana_wp| can be paid with either |mana_w| or 2 life.)"
-msgstr ""
+msgstr "(|mana_wp| może być opłacone przez |mana_w| lub 2 życia.)"
 
 #: ../../ONC.rst:291
 msgid ""
 "Creatures can't attack you or planeswalkers you control unless their "
 "controller pays |mana_wp| for each of those creatures."
 msgstr ""
+"Stwory nie mogą zaatakować ciebie lub wędrowców pod twoim władaniem, chyba "
+"że ich władca zapłaci |mana_wp| za każdego z owych stworów."
 
 #: ../../ONC.rst:296
 msgid ""
@@ -1067,6 +1120,9 @@ msgid ""
 "Exile target creature. Its controller may search their library for a basic "
 "land card, put that card onto the battlefield tapped, then shuffle."
 msgstr ""
+"Wygnaj wskazanego stwora. Jego władca możesz wyszukać w swojej bibliotece "
+"kartę bazowego lądu, umieścić ją przekręconą na polu bitwy, po czym "
+"przetasować."
 
 #: ../../ONC.rst:300
 msgid ""
@@ -1077,7 +1133,7 @@ msgstr ""
 
 #: ../../ONC.rst:299
 msgid "Creature tokens you control get +1/+1."
-msgstr ""
+msgstr "Żetony stworów pod twoim władaniem dostają +1/+1."
 
 #: ../../ONC.rst:304
 msgid ""
@@ -1092,6 +1148,9 @@ msgid ""
 "artifact creature token, where X is the number of creatures destroyed this "
 "way."
 msgstr ""
+"Zniszcz wszystkie stwory, po czym stwórz żeton bezkolorowego stwora "
+"Phyrexiański Horror X/X, gdzie X jest liczbą stworów zniszczonych w ten "
+"sposób."
 
 #: ../../ONC.rst:312
 msgid ""
@@ -1110,7 +1169,7 @@ msgstr ""
 
 #: ../../ONC.rst:311
 msgid "Partner (You can have two commanders if both have partner.)"
-msgstr ""
+msgstr "Partnerstwo (Możesz mieć dwóch dowódców jeśli obaj mają partnerstwo.)"
 
 #: ../../ONC.rst:320
 msgid ""
@@ -1121,19 +1180,23 @@ msgstr ""
 
 #: ../../ONC.rst:315
 msgid "Flying, vigilance"
-msgstr ""
+msgstr "Latanie, czujność"
 
 #: ../../ONC.rst:317
 msgid ""
 "Silverwing Squadron's power and toughness are each equal to the number of "
 "creatures you control."
 msgstr ""
+"Siła i wytrzymałość tej karty są obie równe liczbie stworów pod twoim "
+"władaniem."
 
 #: ../../ONC.rst:319
 msgid ""
 "Whenever Silverwing Squadron attacks, create a number of 2/2 white Knight "
 "creature tokens with vigilance equal to the number of opponents you have."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, stwórz tyle żetonów białego stwora Rycerz 2/2 z "
+"czujnością, ilu masz przeciwników."
 
 #: ../../ONC.rst:324
 msgid ""
@@ -1144,7 +1207,7 @@ msgstr ""
 
 #: ../../ONC.rst:323
 msgid "Exile target creature. Its controller gains life equal to its power."
-msgstr ""
+msgstr "Wygnaj wskazanego stwora. Jego władca zyskuje życia równe jego sile."
 
 #: ../../ONC.rst:328
 msgid ""
@@ -1158,6 +1221,8 @@ msgid ""
 "Create X 2/2 white Cat creature tokens. Shuffle White Sun's Zenith into its "
 "owner's library."
 msgstr ""
+"Stwórz X żetonów białego stwora Kot 2/2. Wtasuj ten czar do biblioteki "
+"właściciela."
 
 #: ../../ONC.rst:334
 msgid ""
@@ -1178,6 +1243,8 @@ msgid ""
 "Target player draws three cards, loses 3 life, and gets three poison "
 "counters."
 msgstr ""
+"Wskazany gracz dobiera trzy karty, traci 3 życia i dostaje trzy znaczniki "
+"zatrucia."
 
 #: ../../ONC.rst:344
 msgid ""
@@ -1192,11 +1259,15 @@ msgid ""
 "Infect (This creature deals damage to creatures in the form of -1/-1 "
 "counters and to players in the form of poison counters.)"
 msgstr ""
+"Infekcja (Ten stwór zadaje obrażenia stworom w postaci znaczników -1/-1, a "
+"graczom w postaci znaczników zatrucia.)"
 
 #: ../../ONC.rst:343
 msgid ""
 "When Ichor Rats enters the battlefield, each player gets a poison counter."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, każdy gracz dostaje po znaczniku "
+"zatrucia."
 
 #: ../../ONC.rst:348
 msgid ""
@@ -1207,7 +1278,7 @@ msgstr ""
 
 #: ../../ONC.rst:347
 msgid "You draw two cards and you lose 2 life."
-msgstr ""
+msgstr "Dobierz dwie karty i strać 2 życia."
 
 #: ../../ONC.rst:352
 msgid ""
@@ -1221,6 +1292,8 @@ msgid ""
 "Converge — You draw X cards and you lose X life, where X is the number of "
 "colors of mana spent to cast this spell."
 msgstr ""
+"Komasowanie — Dobierz X kart i strać X żyć, gdzie X jest liczbą kolorów many "
+"użytych do rzucenia tego czaru."
 
 #: ../../ONC.rst:358
 msgid ""
@@ -1241,6 +1314,8 @@ msgid ""
 "Chain Reaction deals X damage to each creature, where X is the number of "
 "creatures on the battlefield."
 msgstr ""
+"Ten czar zadaje każdemu stworowi po X obrażeń, gdzie X jest liczbą stworów "
+"na polu bitwy."
 
 #: ../../ONC.rst:366
 msgid ""
@@ -1254,6 +1329,8 @@ msgid ""
 "At the beginning of your upkeep, if you control six or more lands, create a "
 "5/5 red Dragon creature token with flying."
 msgstr ""
+"Na początku twojego kroku utrzymania, jeśli władasz co najmniej sześcioma "
+"lądami, stwórz żeton czerwonego stwora Smok 5/5 z lataniem."
 
 #: ../../ONC.rst:370
 msgid ""
@@ -1268,6 +1345,9 @@ msgid ""
 "creatures, create a token that's a copy of that creature. Those tokens gain "
 "haste. Exile them at the beginning of the next end step."
 msgstr ""
+"Wybierz co najwyżej dwa wskazane stwory poza twoim władaniem. Dla każdego z "
+"owych stworów, stwórz żeton będący kopią owego stwora. Owe żetony zyskują "
+"pośpiech. Wygnaj je na początku najbliższego kroku końcowego."
 
 #: ../../ONC.rst:374
 msgid ""
@@ -1278,7 +1358,7 @@ msgstr ""
 
 #: ../../ONC.rst:373
 msgid "Create three 1/1 red Goblin creature tokens."
-msgstr ""
+msgstr "Stwórz trzy żetony czerwonego stwora Gobiln 1/1."
 
 #: ../../ONC.rst:380
 msgid ""
@@ -1292,6 +1372,8 @@ msgid ""
 "Mentor (Whenever this creature attacks, put a +1/+1 counter on target "
 "attacking creature with lesser power.)"
 msgstr ""
+"Mentor (Ilekroć ten stwór zaatakuje, umieść znacznik +1/+1 na wskazanym "
+"atakującym stworze o mniejszej sile.)"
 
 #: ../../ONC.rst:379
 msgid ""
@@ -1299,6 +1381,9 @@ msgid ""
 "token. That token gains haste until end of turn and attacks this combat if "
 "able."
 msgstr ""
+"Na początku potyczki w twojej turze, stwórz żeton czerwonego stwora Goblin 1/"
+"1. Ów żeton zyskuje pośpiech do końca tury i atakuje w tej potyczce jeśli "
+"może."
 
 #: ../../ONC.rst:386
 msgid ""
@@ -1309,7 +1394,7 @@ msgstr ""
 
 #: ../../ONC.rst:383
 msgid "Haste"
-msgstr ""
+msgstr "Pośpiech"
 
 #: ../../ONC.rst:385
 msgid ""
@@ -1317,6 +1402,9 @@ msgid ""
 "commander, create a 1/1 colorless Thopter artifact creature token with "
 "flying. That token gains haste until end of turn."
 msgstr ""
+"Porucznik — Na początku potyczki w twojej turze, jeśli władasz swoim "
+"dowódcą, stwórz żeton bezkolorowego artefaktowego stwora Kopter 1/1 z "
+"lataniem. Ów żeton do końca tury zyskuje pośpiech."
 
 #: ../../ONC.rst:392
 msgid ""
@@ -1330,12 +1418,16 @@ msgid ""
 "When Siege-Gang Commander enters the battlefield, create three 1/1 red "
 "Goblin creature tokens."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, stwórz trzy żetony czerwonego stwora "
+"Goblin 1/1."
 
 #: ../../ONC.rst:391
 msgid ""
 "|mana_1|\\ |mana_r|, Sacrifice a Goblin: Siege-Gang Commander deals 2 damage "
 "to any target."
 msgstr ""
+"|mana_1|\\ |mana_r|, poświęć Goblina: Ten stwór zadaje wskazanemu celowi 2 "
+"obrażenia."
 
 #: ../../ONC.rst:396
 msgid ""
@@ -1349,6 +1441,7 @@ msgid ""
 "Destroy target permanent. Its controller creates a 3/3 green Beast creature "
 "token."
 msgstr ""
+"Zniszcz wskazany byt. Jego władca tworzy żeton zielonego stwora Bestia 3/3."
 
 #: ../../ONC.rst:402
 msgid ""
@@ -1359,7 +1452,7 @@ msgstr ""
 
 #: ../../ONC.rst:401
 msgid "|mana_1|\\ |mana_g|: Regenerate Blight Mamba."
-msgstr ""
+msgstr "|mana_1|\\ |mana_g|: Zregeneruj tego stwora."
 
 #: ../../ONC.rst:406
 msgid ""
@@ -1374,6 +1467,9 @@ msgid ""
 "deal damage to creatures in the form of -1/-1 counters and to players in the "
 "form of poison counters.)"
 msgstr ""
+"Stwórz dwa żetony zielonego stwora Phyrexiański Owad 1/1 z infekcją. (Zadają "
+"obrażenia stworom w postaci znaczników -1/-1, a graczom w postaci znaczników "
+"zatrucia.)"
 
 #: ../../ONC.rst:410
 msgid ""
@@ -1387,6 +1483,8 @@ msgid ""
 "Search your library for up to two basic land cards, reveal those cards, put "
 "one onto the battlefield tapped and the other into your hand, then shuffle."
 msgstr ""
+"Wyszukaj w twojej bibliotece dwie karty bazowych lądów, ujawnij je i umieść "
+"jedną przekręconą na polu bitwy, a drugą w twojej ręce, po czym przetasuj."
 
 #: ../../ONC.rst:414
 msgid ""
@@ -1401,6 +1499,9 @@ msgid ""
 "proliferate. (Choose any number of permanents and/or players, then give each "
 "another counter of each kind already there.)"
 msgstr ""
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, rozpleń. ("
+"Wybierz dowolną liczbę bytów i/lub graczy, po czym daj każdemu z nich "
+"kolejny znacznik każdego z już obecnych tam rodzajów.)"
 
 #: ../../ONC.rst:418
 msgid ""
@@ -1412,6 +1513,7 @@ msgstr ""
 #: ../../ONC.rst:417
 msgid "Mycosynth Fiend gets +1/+1 for each poison counter your opponents have."
 msgstr ""
+"Ten stwór dostaje +1/+1 za każdy znacznik zatrucia u twoich przeciwników."
 
 #: ../../ONC.rst:424
 msgid ""
@@ -1422,11 +1524,11 @@ msgstr ""
 
 #: ../../ONC.rst:421
 msgid "(|mana_gp| can be paid with either |mana_g| or 2 life.)"
-msgstr ""
+msgstr "(|mana_gp| można opłacić |mana_g| lub 2 życiami.)"
 
 #: ../../ONC.rst:423
 msgid "Put target card from a graveyard on top of its owner's library."
-msgstr ""
+msgstr "Umieść wskazaną kartę z cmentarza na wierzchu biblioteki właściciela."
 
 #: ../../ONC.rst:430
 msgid ""
@@ -1440,6 +1542,9 @@ msgid ""
 "At the beginning of your upkeep, create a 1/1 green Phyrexian Insect "
 "creature token with infect for each poison counter your opponents have."
 msgstr ""
+"Na początku twojego utrzymania, stwórz tyle żetonów zielonego stwora "
+"Phyrexiański Owad 1/1 z infekcją, ile łącznie żetonów zatrucia mają twoi "
+"przeciwnicy."
 
 #: ../../ONC.rst:434
 msgid ""
@@ -1453,6 +1558,8 @@ msgid ""
 "|mana_g|: Exile target card from a graveyard. If it was a creature card, put "
 "a +1/+1 counter on Scavenging Ooze and you gain 1 life."
 msgstr ""
+"|mana_g|: Wygnaj wskazaną kartę z cmentarza. Jeśli była to karta stwora, "
+"umieść znacznik +1/+1 na tym stworze i zyskaj 1 życie."
 
 #: ../../ONC.rst:440
 msgid ""
@@ -1464,7 +1571,7 @@ msgstr ""
 #: ../../ONC.rst:439
 msgid ""
 "When Viridian Corrupter enters the battlefield, destroy target artifact."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zniszcz wskazany artefakt."
 
 #: ../../ONC.rst:446
 msgid ""
@@ -1478,12 +1585,16 @@ msgid ""
 "Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for "
 "each opponent you attacked this combat.)"
 msgstr ""
+"Bijatyka (Ilekroć ten stwór atakuje, do końca tury dostaje +1/+1 za każdego "
+"przeciwnika zaatakowanego przez ciebie w tej potyczce.)"
 
 #: ../../ONC.rst:445
 msgid ""
 "Other creatures you control have melee. (If a creature has multiple "
 "instances of melee, each triggers separately.)"
 msgstr ""
+"Inne stwory pod twoim władaniem mają bijatykę. (Jeśli stwór ma kilka "
+"instancji bijatyki, każda wyzwalana jest oddzielnie.)"
 
 #: ../../ONC.rst:450
 msgid ""
@@ -1498,6 +1609,9 @@ msgid ""
 "Legion. Then create a 1/1 red and white Soldier creature token with haste "
 "for each muster counter on Assemble the Legion."
 msgstr ""
+"Na początku twojego kroku utrzymania umieść znacznik musztry na tym uroku. "
+"Następnie stwórz czerwono-biały żeton stwora Piechur 1/1 z pośpiechem za "
+"każdy znacznik musztry na tym uroku."
 
 #: ../../ONC.rst:460
 msgid ""
@@ -1508,19 +1622,19 @@ msgstr ""
 
 #: ../../ONC.rst:453 ../../ONC.rst:477 ../../ONC.rst:501
 msgid "Choose one —"
-msgstr ""
+msgstr "Wybierz jedno —"
 
 #: ../../ONC.rst:455
 msgid "Boros Charm deals 4 damage to target player or planeswalker."
-msgstr ""
+msgstr "Ten czar zadaje 4 obrażenia wskazanemu graczowi lub wędrowcowi."
 
 #: ../../ONC.rst:457
 msgid "Permanents you control gain indestructible until end of turn."
-msgstr ""
+msgstr "Permanenty pod twoim władaniem zyskują do końca tury niezniszczalność."
 
 #: ../../ONC.rst:459
 msgid "Target creature gains double strike until end of turn."
-msgstr ""
+msgstr "Wskazany stwór do końca tury zyskuje podwójny cios."
 
 #: ../../ONC.rst:464
 msgid ""
@@ -1534,6 +1648,8 @@ msgid ""
 "Destroy each nonland permanent with mana value 2 or less. Add |mana_b| or |"
 "mana_g| for each permanent destroyed this way."
 msgstr ""
+"Zniszcz każdy nielądowy byt o skrócie many 2 lub mniejszym. Weź |mana_b| lub "
+"|mana_g| za każdy byt zniszczony w ten sposób."
 
 #: ../../ONC.rst:468
 msgid ""
@@ -1547,6 +1663,8 @@ msgid ""
 "Create two 1/1 white Soldier creature tokens. Until end of turn, creatures "
 "you control get +1/+1 and gain haste. (They can attack and |tap| this turn.)"
 msgstr ""
+"Stwórz dwa żetony białego stwora Piechur 1/1. Do końca tury stwory pod twoim "
+"władaniem dostają +1/+1 oraz pośpiech. (Mogą atakować i |tap| w tej turze.)"
 
 #: ../../ONC.rst:474
 msgid ""
@@ -1557,13 +1675,15 @@ msgstr ""
 
 #: ../../ONC.rst:471
 msgid "First strike"
-msgstr ""
+msgstr "Pierwszy cios"
 
 #: ../../ONC.rst:473
 msgid ""
 "Metalcraft — Creatures you control get +3/+0 as long as you control three or "
 "more artifacts."
 msgstr ""
+"Metalurgia — Stwory pod twoim władaniem dostają +3/+0 o ile władasz co "
+"najmniej trzema artefaktami."
 
 #: ../../ONC.rst:486
 msgid ""
@@ -1574,19 +1694,19 @@ msgstr ""
 
 #: ../../ONC.rst:479
 msgid "Exile all artifacts."
-msgstr ""
+msgstr "Wygnaj wszystkie artefakty."
 
 #: ../../ONC.rst:481
 msgid "Exile all creatures."
-msgstr ""
+msgstr "Wygnaj wszystkie stwory."
 
 #: ../../ONC.rst:483
 msgid "Exile all enchantments."
-msgstr ""
+msgstr "Wygnaj wszystkie uroki."
 
 #: ../../ONC.rst:485
 msgid "Exile all planeswalkers."
-msgstr ""
+msgstr "Wygnaj wszystkich wędrowców."
 
 #: ../../ONC.rst:490
 msgid ""
@@ -1598,6 +1718,7 @@ msgstr ""
 #: ../../ONC.rst:489
 msgid "Whenever a creature you control dies, you gain 1 life and draw a card."
 msgstr ""
+"Ilekroć umrze stwór pod twoim władaniem, zyskaj 1 życie i dobierz kartę."
 
 #: ../../ONC.rst:494
 msgid ""
@@ -1608,7 +1729,7 @@ msgstr ""
 
 #: ../../ONC.rst:493
 msgid "Destroy target creature or enchantment."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora lub urok."
 
 #: ../../ONC.rst:498
 msgid ""
@@ -1619,7 +1740,7 @@ msgstr ""
 
 #: ../../ONC.rst:497
 msgid "Destroy target artifact or creature. It can't be regenerated."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub stwora. Nie może on zostać zregenerowany."
 
 #: ../../ONC.rst:506
 msgid ""
@@ -1630,11 +1751,11 @@ msgstr ""
 
 #: ../../ONC.rst:503
 msgid "Rip Apart deals 3 damage to target creature or planeswalker."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu stworowi lub wędrowcowi 3 obrażenia."
 
 #: ../../ONC.rst:505
 msgid "Destroy target artifact or enchantment."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub urok."
 
 #: ../../ONC.rst:510
 msgid ""
@@ -1645,7 +1766,7 @@ msgstr ""
 
 #: ../../ONC.rst:509 ../../ONC.rst:523 ../../ONC.rst:667
 msgid "|tap|: Add one mana of any color in your commander's color identity."
-msgstr ""
+msgstr "|tap|: Weź jedną manę w jednym z kolorów tożsamości twojego dowódcy."
 
 #: ../../ONC.rst:514
 msgid ""
@@ -1656,7 +1777,7 @@ msgstr ""
 
 #: ../../ONC.rst:513
 msgid "|mana_1|, |tap|: Add |mana_r|\\ |mana_w|."
-msgstr ""
+msgstr "|mana_1|, |tap|: Weź |mana_r|\\ |mana_w|."
 
 #: ../../ONC.rst:520
 msgid ""
@@ -1668,6 +1789,7 @@ msgstr ""
 #: ../../ONC.rst:517
 msgid "Lands you control have \"|tap|: Add one mana of any color.\""
 msgstr ""
+"Lądy pod twoim władaniem mają \"|tap|: Weź jedną manę dowolnego koloru.\""
 
 #: ../../ONC.rst:526
 msgid ""
@@ -1678,7 +1800,7 @@ msgstr ""
 
 #: ../../ONC.rst:525
 msgid "Sacrifice Commander's Sphere: Draw a card."
-msgstr ""
+msgstr "Poświęć ten byt: Dobierz kartę."
 
 #: ../../ONC.rst:532
 msgid ""
@@ -1692,12 +1814,17 @@ msgid ""
 "When Contagion Clasp enters the battlefield, put a -1/-1 counter on target "
 "creature."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, umieść znacznik -1/-1 na wskazanym "
+"stworze."
 
 #: ../../ONC.rst:531 ../../ONC.rst:697
 msgid ""
 "|mana_4|, |tap|: Proliferate. (Choose any number of permanents and/or "
 "players, then give each another counter of each kind already there.)"
 msgstr ""
+"|mana_4|, |tap|: Rozpleń. (Wybierz dowolną liczbę bytów i/lub graczy, po "
+"czym daj każdemu z nich kolejny znacznik każdego z już obecnych tam "
+"rodzajów.)"
 
 #: ../../ONC.rst:536
 msgid ""
@@ -1711,6 +1838,8 @@ msgid ""
 "|tap|: Add one mana of any color that a land an opponent controls could "
 "produce."
 msgstr ""
+"|tap|: Weź jedną manę w jednym z kolorów możliwych do wydania przez ląd pod "
+"władaniem przeciwnika."
 
 #: ../../ONC.rst:540
 msgid ""
@@ -1721,7 +1850,7 @@ msgstr ""
 
 #: ../../ONC.rst:539
 msgid "|mana_1|, |tap|: Add |mana_b|\\ |mana_g|."
-msgstr ""
+msgstr "|mana_1|, |tap|: Weź |mana_b|\\ |mana_g|."
 
 #: ../../ONC.rst:548
 msgid ""
@@ -1735,16 +1864,18 @@ msgid ""
 "Equipped creature gets +2/+2 and has infect. (It deals damage to creatures "
 "in the form of -1/-1 counters and to players in the form of poison counters.)"
 msgstr ""
+"Wyposażony stwór dostaje +2/+2 i ma infekcję. (Zadaje obrażenia stworom w "
+"postaci znaczników -1/-1, a graczom w postaci znaczników zatrucia.)"
 
 #: ../../ONC.rst:545
 msgid ""
 "Whenever Grafted Exoskeleton becomes unattached from a permanent, sacrifice "
 "that permanent."
-msgstr ""
+msgstr "Ilekroć ten artefakt zostanie odłączony od bytu, poświęć ów byt."
 
 #: ../../ONC.rst:547 ../../ONC.rst:619
 msgid "Equip |mana_2|"
-msgstr ""
+msgstr "Wyposaż |mana_2|"
 
 #: ../../ONC.rst:554
 msgid ""
@@ -1756,7 +1887,7 @@ msgstr ""
 #: ../../ONC.rst:553
 msgid ""
 "Whenever Ichorclaw Myr becomes blocked, it gets +2/+2 until end of turn."
-msgstr ""
+msgstr "Ilekroć ten stwór zostanie zablokowany, dostaje on do końca tury +2/+2."
 
 #: ../../ONC.rst:560
 msgid ""
@@ -1767,13 +1898,15 @@ msgstr ""
 
 #: ../../ONC.rst:557
 msgid "|tap|: Draw a card. Activate only if you created a token this turn."
-msgstr ""
+msgstr "|tap|: Dobierz kartę. Aktywuj tylko jeśli stworzyłeś żeton w tej turze."
 
 #: ../../ONC.rst:559
 msgid ""
 "|mana_8|, |tap|, Sacrifice Idol of Oblivion: Create a 10/10 colorless "
 "Eldrazi creature token."
 msgstr ""
+"|mana_8|, |tap|, poświęć ten byt: Stwórz żeton bezkolorowego stwora Eldrazi "
+"10/10."
 
 #: ../../ONC.rst:566
 msgid ""
@@ -1784,7 +1917,7 @@ msgstr ""
 
 #: ../../ONC.rst:563
 msgid "Equipped creature gets +3/+0 and has trample and lifelink."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +3/+0 i ma tratowanie oraz więź życia."
 
 #: ../../ONC.rst:572
 msgid ""
@@ -1798,12 +1931,16 @@ msgid ""
 "Whenever equipped creature deals combat damage to a player, you may draw two "
 "cards. If you do, discard a card."
 msgstr ""
+"Ilekroć wyposażony stwór zada graczowi obrażenia bojowe, możesz dobrać dwie "
+"karty. Jeśli tak zrobisz, odrzuć kartę."
 
 #: ../../ONC.rst:571
 msgid ""
 "Equip |mana_1| (|mana_1|: Attach to target creature you control. Equip only "
 "as a sorcery.)"
 msgstr ""
+"Wyposaż |mana_1| (|mana_1|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Aktywuj tylko jako obrzęd.)"
 
 #: ../../ONC.rst:578
 msgid ""
@@ -1816,11 +1953,11 @@ msgstr ""
 #: ../../ONC.rst:695 ../../ONC.rst:701 ../../ONC.rst:709 ../../ONC.rst:717
 #: ../../ONC.rst:755 ../../ONC.rst:765 ../../ONC.rst:771
 msgid "|tap|: Add |colorless|."
-msgstr ""
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../ONC.rst:577
 msgid "|mana_1|, |tap|, Sacrifice Mind Stone: Draw a card."
-msgstr ""
+msgstr "|mana_1|, |tap|, poświęć ten artefakt: Dobierz kartę."
 
 #: ../../ONC.rst:584
 msgid ""
@@ -1834,6 +1971,8 @@ msgid ""
 "When Myr Battlesphere enters the battlefield, create four 1/1 colorless Myr "
 "artifact creature tokens."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, stwórz cztery żetony bezkolorowego "
+"artefaktowego stwora Myr 1/1."
 
 #: ../../ONC.rst:583
 msgid ""
@@ -1841,6 +1980,9 @@ msgid ""
 "If you do, Myr Battlesphere gets +X/+0 until end of turn and deals X damage "
 "to the player or planeswalker it's attacking."
 msgstr ""
+"Ilekroć ten stwór atakuje, możesz przekręcić X odkręconych Myrów pod twoim "
+"władaniem. Jeśli tak zrobisz, ten stwór do końca tury dostaje +X/+0 i zadaje "
+"atakowanemu graczowi lub wędrowcowi X obrażeń."
 
 #: ../../ONC.rst:590
 msgid ""
@@ -1858,7 +2000,7 @@ msgstr ""
 
 #: ../../ONC.rst:593
 msgid "|tap|: Add |colorless|\\ |colorless|."
-msgstr ""
+msgstr "|tap|: Weź |colorless|\\ |colorless|."
 
 #: ../../ONC.rst:600
 msgid ""
@@ -1873,10 +2015,12 @@ msgid ""
 "for a basic land card, put that card onto the battlefield tapped, then "
 "shuffle."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"kartę bazowego lądu, umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../ONC.rst:599
 msgid "When Solemn Simulacrum dies, you may draw a card."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, możesz dobrać kartę."
 
 #: ../../ONC.rst:608
 msgid ""
@@ -1889,15 +2033,15 @@ msgstr ""
 msgid ""
 "When Soul-Guide Lantern enters the battlefield, exile target card from a "
 "graveyard."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wygnaj wskazaną kartę z cmentarza."
 
 #: ../../ONC.rst:605
 msgid "|tap|, Sacrifice Soul-Guide Lantern: Exile each opponent's graveyard."
-msgstr ""
+msgstr "|tap|, poświęć ten artefakt: Wygnaj cmentarz każdego przeciwnika."
 
 #: ../../ONC.rst:607
 msgid "|mana_1|, |tap|, Sacrifice Soul-Guide Lantern: Draw a card."
-msgstr ""
+msgstr "|mana_1|, |tap|, poświęć ten artefakt: Dobierz kartę."
 
 #: ../../ONC.rst:614
 msgid ""
@@ -1911,6 +2055,7 @@ msgid ""
 "|tap|: Add |mana_r| or |mana_w|. Talisman of Conviction deals 1 damage to "
 "you."
 msgstr ""
+"|tap|: Weź |mana_r| lub |mana_w|. Ten artefakt zadaje tobie 1 obrażenie."
 
 #: ../../ONC.rst:620
 msgid ""
@@ -1924,6 +2069,8 @@ msgid ""
 "Equipped creature has nonbasic landwalk. (It can't be blocked as long as "
 "defending player controls a nonbasic land.)"
 msgstr ""
+"Wyposażony stwór ma podbój niebazowych lądów. (Nie może być blokowany o ile "
+"broniący się gracz włada niebazowym lądem.)"
 
 #: ../../ONC.rst:628
 msgid ""
@@ -1934,16 +2081,16 @@ msgstr ""
 
 #: ../../ONC.rst:623
 msgid "Bojuka Bog enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../ONC.rst:625
 msgid ""
 "When Bojuka Bog enters the battlefield, exile target player's graveyard."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wygnaj cmentarz wskazanego gracza."
 
 #: ../../ONC.rst:627
 msgid "|tap|: Add |mana_b|."
-msgstr ""
+msgstr "|tap|: Weź |mana_b|."
 
 #: ../../ONC.rst:636
 msgid ""
@@ -1954,17 +2101,19 @@ msgstr ""
 
 #: ../../ONC.rst:631
 msgid "Boros Garrison enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../ONC.rst:633
 msgid ""
 "When Boros Garrison enters the battlefield, return a land you control to its "
 "owner's hand."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
+"ręki właściciela."
 
 #: ../../ONC.rst:635
 msgid "|tap|: Add |mana_r|\\ |mana_w|."
-msgstr ""
+msgstr "|tap|: Weź |mana_r|\\ |mana_w|."
 
 #: ../../ONC.rst:642
 msgid ""
@@ -1978,6 +2127,8 @@ msgid ""
 "|mana_2|, |tap|, Sacrifice Buried Ruin: Return target artifact card from "
 "your graveyard to your hand."
 msgstr ""
+"|mana_2|, |tap|, poświęć ten ląd: Przywróć wskazaną kartę artefaktu z "
+"twojego cmentarza do twojej ręki."
 
 #: ../../ONC.rst:648
 msgid ""
@@ -1988,13 +2139,15 @@ msgstr ""
 
 #: ../../ONC.rst:645
 msgid "(|tap|: Add |mana_g| or |mana_w|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_g| lub |mana_w|.)"
 
 #: ../../ONC.rst:647
 msgid ""
 "Canopy Vista enters the battlefield tapped unless you control two or more "
 "basic lands."
 msgstr ""
+"Ten ląd wchodzi przekręcony na pole bitwy, chyba że władasz co najmniej "
+"dwoma bazowymi lądami."
 
 #: ../../ONC.rst:656
 msgid ""
@@ -2006,17 +2159,19 @@ msgstr ""
 #: ../../ONC.rst:651
 msgid ""
 "Castle Ardenvale enters the battlefield tapped unless you control a Plains."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole bitwy przekręcony, chyba że władasz Równiną."
 
 #: ../../ONC.rst:653 ../../ONC.rst:743 ../../ONC.rst:817
 msgid "|tap|: Add |mana_w|."
-msgstr ""
+msgstr "|tap|: Weź |mana_w|."
 
 #: ../../ONC.rst:655
 msgid ""
 "|mana_2|\\ |mana_w|\\ |mana_w|, |tap|: Create a 1/1 white Human creature "
 "token."
 msgstr ""
+"|mana_2|\\ |mana_w|\\ |mana_w|, |tap|: Stwórz żeton białego stwora Człowiek "
+"1/1."
 
 #: ../../ONC.rst:664
 msgid ""
@@ -2028,17 +2183,19 @@ msgstr ""
 #: ../../ONC.rst:659
 msgid ""
 "Castle Embereth enters the battlefield tapped unless you control a Mountain."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole bitwy przekręcony, chyba że władasz Górą."
 
 #: ../../ONC.rst:661 ../../ONC.rst:677
 msgid "|tap|: Add |mana_r|."
-msgstr ""
+msgstr "|tap|: Weź |mana_r|."
 
 #: ../../ONC.rst:663
 msgid ""
 "|mana_1|\\ |mana_r|\\ |mana_r|, |tap|: Creatures you control get +1/+0 until "
 "end of turn."
 msgstr ""
+"|mana_1|\\ |mana_r|\\ |mana_r|, |tap|: Stwory pod twoim władaniem dostają do "
+"końca tury +1/+0."
 
 #: ../../ONC.rst:668
 msgid ""
@@ -2063,11 +2220,11 @@ msgstr ""
 
 #: ../../ONC.rst:675
 msgid "Forgotten Cave enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../ONC.rst:679
 msgid "Cycling |mana_r| (|mana_r|, Discard this card: Draw a card.)"
-msgstr ""
+msgstr "Recykling |mana_r| (|mana_r|, odrzuć tę kartę: Dobierz kartę.)"
 
 #: ../../ONC.rst:686
 msgid ""
@@ -2082,10 +2239,13 @@ msgid ""
 "Plains card from your hand. If you don't, Fortified Village enters the "
 "battlefield tapped."
 msgstr ""
+"Przy wejściu tego bytu na pole bitwy możesz ujawnić z twojej ręki kartę Lasu "
+"lub Równiny. Jeśli tak nie zrobisz, ten byt wchodzi przekręcony na pole "
+"bitwy."
 
 #: ../../ONC.rst:685 ../../ONC.rst:789
 msgid "|tap|: Add |mana_g| or |mana_w|."
-msgstr ""
+msgstr "|tap|: Weź |mana_g| lub |mana_w|."
 
 #: ../../ONC.rst:692
 msgid ""
@@ -2100,10 +2260,12 @@ msgid ""
 "Plains card from your hand. If you don't, Furycalm Snarl enters the "
 "battlefield tapped."
 msgstr ""
+"Przy wejściu tego bytu na pole bitwy możesz ujawnić z ręki kartę Góry lub "
+"Równiny. Jeśli tego nie zrobisz, wchodzi on przekręcony na pole bitwy."
 
 #: ../../ONC.rst:691 ../../ONC.rst:809
 msgid "|tap|: Add |mana_r| or |mana_w|."
-msgstr ""
+msgstr "|tap|: Weź |mana_r| lub |mana_w|."
 
 #: ../../ONC.rst:698
 msgid ""
@@ -2124,6 +2286,8 @@ msgid ""
 "|mana_1|\\ |mana_r|, |tap|: Create a 0/1 red Kobold creature token named "
 "Kobolds of Kher Keep."
 msgstr ""
+"|mana_1|\\ |mana_r|, |tap|: Stwórz żeton czerwonego stwora Kobold 0/1 o "
+"nazwie Kobolds of Kher Keep."
 
 #: ../../ONC.rst:712
 msgid ""
@@ -2134,13 +2298,15 @@ msgstr ""
 
 #: ../../ONC.rst:707
 msgid "Krosan Verge enters the battlefield tapped."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../ONC.rst:711
 msgid ""
 "|mana_2|, |tap|, Sacrifice Krosan Verge: Search your library for a Forest "
 "card and a Plains card, put them onto the battlefield tapped, then shuffle."
 msgstr ""
+"|mana_2|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę Lasu i "
+"kartę Równiny, umieść je przekręcone na polu bitwy, po czym przetasuj."
 
 #: ../../ONC.rst:720
 msgid ""
@@ -2151,7 +2317,7 @@ msgstr ""
 
 #: ../../ONC.rst:715
 msgid "Myriad Landscape enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../ONC.rst:719
 msgid ""
@@ -2159,6 +2325,9 @@ msgid ""
 "two basic land cards that share a land type, put them onto the battlefield "
 "tapped, then shuffle."
 msgstr ""
+"|mana_2|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece co najwyżej "
+"dwie karty bazowych lądów mających wspólny typ lądu, umieść je przekręcone "
+"na polu bitwy, po czym przetasuj."
 
 #: ../../ONC.rst:726
 msgid ""
@@ -2173,10 +2342,12 @@ msgid ""
 "Forest card from your hand. If you don't, Necroblossom Snarl enters the "
 "battlefield tapped."
 msgstr ""
+"Przy wejściu tego bytu na pole bitwy możesz ujawnić z ręki kartę Bagna lub "
+"Lasu. Jeśli tego nie zrobisz, wchodzi on przekręcony na pole bitwy."
 
 #: ../../ONC.rst:725 ../../ONC.rst:781
 msgid "|tap|: Add |mana_b| or |mana_g|."
-msgstr ""
+msgstr "|tap|: Weź |mana_b| lub |mana_g|."
 
 #: ../../ONC.rst:732
 msgid ""
@@ -2187,7 +2358,7 @@ msgstr ""
 
 #: ../../ONC.rst:729
 msgid "Path of Ancestry enters the battlefield tapped."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../ONC.rst:731
 msgid ""
@@ -2196,6 +2367,10 @@ msgid ""
 "your commander, scry 1. (Look at the top card of your library. You may put "
 "that card on the bottom of your library.)"
 msgstr ""
+"|tap|: Weź jedną maną w jednym z kolorów tożsamości twojego dowódcy. Kiedy "
+"owa mana zostanie wydana na rzucenie czaru stwora współdzielącego typ stwora "
+"z twoim dowódcą, wróż 1. (Spójrz na wierzchnią kartę twojej biblioteki. "
+"Możesz umieścić ową kartę na spodzie twojej biblioteki.)"
 
 #: ../../ONC.rst:738
 msgid ""
@@ -2206,11 +2381,11 @@ msgstr ""
 
 #: ../../ONC.rst:735
 msgid "Sandsteppe Citadel enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../ONC.rst:737
 msgid "|tap|: Add |mana_w|, |mana_b|, or |mana_g|."
-msgstr ""
+msgstr "|tap|: Weź |mana_w|, |mana_b|, lub |mana_g|."
 
 #: ../../ONC.rst:746
 msgid ""
@@ -2221,11 +2396,11 @@ msgstr ""
 
 #: ../../ONC.rst:741
 msgid "Secluded Steppe enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../ONC.rst:745
 msgid "Cycling |mana_w| (|mana_w|, Discard this card: Draw a card.)"
-msgstr ""
+msgstr "Recykling |mana_w| (|mana_w|, odrzuć tę kartę: Dobierz kartę.)"
 
 #: ../../ONC.rst:752
 msgid ""
@@ -2240,10 +2415,12 @@ msgid ""
 "Swamp card from your hand. If you don't, Shineshadow Snarl enters the "
 "battlefield tapped."
 msgstr ""
+"Przy wejściu tego bytu na pole bitwy możesz ujawnić z ręki kartę Równiny lub "
+"Bagna. Jeśli tego nie zrobisz, wchodzi on przekręcony na pole bitwy."
 
 #: ../../ONC.rst:751 ../../ONC.rst:797
 msgid "|tap|: Add |mana_w| or |mana_b|."
-msgstr ""
+msgstr "|tap|: Weź |mana_w| lub |mana_b|."
 
 #: ../../ONC.rst:758
 msgid ""
@@ -2257,6 +2434,8 @@ msgid ""
 "|mana_r|\\ |mana_w|, |tap|: Target creature gets +2/+0 and gains vigilance "
 "and haste until end of turn."
 msgstr ""
+"|mana_r|\\ |mana_w|, |tap|: Wskazany stwór do końca tury dostaje +2/+0, "
+"czujność i pośpiech."
 
 #: ../../ONC.rst:762
 msgid ""
@@ -2267,7 +2446,7 @@ msgstr ""
 
 #: ../../ONC.rst:761
 msgid "|mana_1|, |tap|: Add |mana_g|\\ |mana_w|."
-msgstr ""
+msgstr "|mana_1|, |tap|: Weź |mana_g|\\ |mana_w|."
 
 #: ../../ONC.rst:768
 msgid ""
@@ -2279,6 +2458,8 @@ msgstr ""
 #: ../../ONC.rst:767
 msgid "|tap|: Add |mana_w| or |mana_b|. Activate only if you control a Swamp."
 msgstr ""
+"|tap|: Weź |mana_w| lub |mana_b|. Możesz aktywować tylko jeśli władasz "
+"Bagnem."
 
 #: ../../ONC.rst:774
 msgid ""
@@ -2290,6 +2471,8 @@ msgstr ""
 #: ../../ONC.rst:773
 msgid "|tap|: Add |mana_b| or |mana_g|. Activate only if you control a Swamp."
 msgstr ""
+"|tap|: Weź |mana_b| lub |mana_g|. Możesz aktywować tylko jeśli władasz "
+"Bagnem."
 
 #: ../../ONC.rst:782
 msgid ""
@@ -2300,11 +2483,11 @@ msgstr ""
 
 #: ../../ONC.rst:777
 msgid "Temple of Malady enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../ONC.rst:779
 msgid "When Temple of Malady enters the battlefield, scry 1."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wróż 1."
 
 #: ../../ONC.rst:790
 msgid ""
@@ -2315,11 +2498,11 @@ msgstr ""
 
 #: ../../ONC.rst:785
 msgid "Temple of Plenty enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../ONC.rst:787
 msgid "When Temple of Plenty enters the battlefield, scry 1."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wróż 1."
 
 #: ../../ONC.rst:798
 msgid ""
@@ -2330,11 +2513,11 @@ msgstr ""
 
 #: ../../ONC.rst:793
 msgid "Temple of Silence enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../ONC.rst:795
 msgid "When Temple of Silence enters the battlefield, scry 1."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wróż 1."
 
 #: ../../ONC.rst:802
 msgid ""
@@ -2348,6 +2531,8 @@ msgid ""
 "|tap|: Add |colorless|\\ |colorless|. Activate only if you control five or "
 "more lands."
 msgstr ""
+"|tap|: Weź |colorless|\\ |colorless|. Możesz aktywować tylko jeśli władasz "
+"co najmniej pięcioma lądami."
 
 #: ../../ONC.rst:810
 msgid ""
@@ -2358,11 +2543,11 @@ msgstr ""
 
 #: ../../ONC.rst:805
 msgid "Temple of Triumph enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../ONC.rst:807
 msgid "When Temple of Triumph enters the battlefield, scry 1."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wróż 1."
 
 #: ../../ONC.rst:819
 msgid ""
@@ -2377,13 +2562,18 @@ msgid ""
 "cards of your library, exile one face down, then put the rest on the bottom "
 "in a random order.)"
 msgstr ""
+"Kryjówka 4 (Kiedy ten byt wejdzie na pole bitwy, spójrz na cztery wierzchnie "
+"karty twojej biblioteki, wygnaj jedną zakrytą, po czym umieść pozostałe "
+"losowo na spodzie.)"
 
 #: ../../ONC.rst:815
 msgid "Windbrisk Heights enters the battlefield tapped."
-msgstr ""
+msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../ONC.rst:819
 msgid ""
 "|mana_w|, |tap|: You may play the exiled card without paying its mana cost "
 "if you attacked with three or more creatures this turn."
 msgstr ""
+"|mana_w|, |tap|: Możesz zagrać wygnaną kartę bez płacenia jej kosztu many "
+"jeśli w tej turze zaatakowałeś co najmniej trzema stworami."
