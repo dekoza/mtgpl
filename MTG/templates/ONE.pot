@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG po polsku 2023.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-27 09:29+0100\n"
+"POT-Creation-Date: 2023-01-27 22:24+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -355,11 +355,11 @@ msgid "Create two 1/1 colorless Phyrexian Mite artifact creature tokens with tox
 msgstr ""
 
 #: ../../ONE.rst:50
-msgid ":mtgtip:`Compleat Devotion<https://cards.scryfall.io/border_crop/front/2/b/2bb29a69-3e42-4268-8026-f01072d7b56c.jpg?1674772688|https://scryfall.com/card/one/7/compleat-devotion?utm_source=api>`"
+msgid ":mtgtip:`Compleat Devotion<https://cards.scryfall.io/border_crop/front/2/b/2bb29a69-3e42-4268-8026-f01072d7b56c.jpg?1674810985|https://scryfall.com/card/one/7/compleat-devotion?utm_source=api>`"
 msgstr ""
 
 #: ../../ONE.rst:49
-msgid "Target creature gets +2/+2 until end of turn. If it has toxic, draw a card."
+msgid "Target creature gets +2/+2 until end of turn. If that creature has toxic, draw a card."
 msgstr ""
 
 #: ../../ONE.rst:56
@@ -371,7 +371,7 @@ msgid "When Crawling Chorus dies, create a 1/1 colorless Phyreixan Mite artifact
 msgstr ""
 
 #: ../../ONE.rst:62
-msgid ":mtgtip:`Duelist of Deep Faith<https://cards.scryfall.io/border_crop/front/5/6/56444440-a9e6-4583-a289-9f0571a98093.jpg?1674772692|https://scryfall.com/card/one/9/duelist-of-deep-faith?utm_source=api>`"
+msgid ":mtgtip:`Duelist of Deep Faith<https://cards.scryfall.io/border_crop/front/5/6/56444440-a9e6-4583-a289-9f0571a98093.jpg?1674809832|https://scryfall.com/card/one/9/duelist-of-deep-faith?utm_source=api>`"
 msgstr ""
 
 #: ../../ONE.rst:61
@@ -611,7 +611,7 @@ msgid "If damage would be dealt to Phyrexian Vindicator, prevent that damage. Wh
 msgstr ""
 
 #: ../../ONE.rst:196
-msgid ":mtgtip:`Planar Disruption<https://cards.scryfall.io/border_crop/front/8/e/8ee69a1f-aeed-4eb4-8987-fa720fc99715.jpg?1674772722|https://scryfall.com/card/one/28/planar-disruption?utm_source=api>`"
+msgid ":mtgtip:`Planar Disruption<https://cards.scryfall.io/border_crop/front/8/e/8ee69a1f-aeed-4eb4-8987-fa720fc99715.jpg?1674810974|https://scryfall.com/card/one/28/planar-disruption?utm_source=api>`"
 msgstr ""
 
 #: ../../ONE.rst:193
@@ -643,7 +643,7 @@ msgid "At the beginning of combat on your turn, target creature you control gets
 msgstr ""
 
 #: ../../ONE.rst:212
-msgid ":mtgtip:`Resistance Reunited<https://cards.scryfall.io/border_crop/front/b/b/bbc4b5ca-557e-4465-9725-9e7a15590258.jpg?1674772728|https://scryfall.com/card/one/31/resistance-reunited?utm_source=api>`"
+msgid ":mtgtip:`Resistance Reunited<https://cards.scryfall.io/border_crop/front/b/b/bbc4b5ca-557e-4465-9725-9e7a15590258.jpg?1674810986|https://scryfall.com/card/one/31/resistance-reunited?utm_source=api>`"
 msgstr ""
 
 #: ../../ONE.rst:209
@@ -700,7 +700,7 @@ msgid "Flying, vigilance"
 msgstr ""
 
 #: ../../ONE.rst:242
-msgid ":mtgtip:`Vanish into Eternity<https://cards.scryfall.io/border_crop/front/8/f/8f0b3308-9c0b-4461-9094-38deec20e1bc.jpg?1674772737|https://scryfall.com/card/one/36/vanish-into-eternity?utm_source=api>`"
+msgid ":mtgtip:`Vanish into Eternity<https://cards.scryfall.io/border_crop/front/8/f/8f0b3308-9c0b-4461-9094-38deec20e1bc.jpg?1674810989|https://scryfall.com/card/one/36/vanish-into-eternity?utm_source=api>`"
 msgstr ""
 
 #: ../../ONE.rst:239
@@ -794,7 +794,7 @@ msgid "Gain control of target creature with mana value X or less. If X is 5 or m
 msgstr ""
 
 #: ../../ONE.rst:288
-msgid ":mtgtip:`Bring the Ending<https://cards.scryfall.io/border_crop/front/b/a/ba9d9d26-0c76-4a09-aa25-b32854e70c0b.jpg?1674772749|https://scryfall.com/card/one/44/bring-the-ending?utm_source=api>`"
+msgid ":mtgtip:`Bring the Ending<https://cards.scryfall.io/border_crop/front/b/a/ba9d9d26-0c76-4a09-aa25-b32854e70c0b.jpg?1674810983|https://scryfall.com/card/one/44/bring-the-ending?utm_source=api>`"
 msgstr ""
 
 #: ../../ONE.rst:285
@@ -802,7 +802,7 @@ msgid "Counter target spell unless its controller pays |mana_2|."
 msgstr ""
 
 #: ../../ONE.rst:287
-msgid "Corrupted — Counter that spell instead of its controller has three or more poison counter."
+msgid "Corrupted — Counter that spell instead if its controller has three or more poison counters."
 msgstr ""
 
 #: ../../ONE.rst:294
@@ -1152,11 +1152,11 @@ msgid "|mana_up|: Until end of turn, target creature you control becomes a blue 
 msgstr ""
 
 #: ../../ONE.rst:486
-msgid ":mtgtip:`Unctus's Retrofitter<https://cards.scryfall.io/border_crop/front/3/0/30225e40-4bde-4e2e-b0f0-48ed16aebafd.jpg?1674772806|https://scryfall.com/card/one/76/unctuss-retrofitter?utm_source=api>`"
+msgid ":mtgtip:`Unctus's Retrofitter<https://cards.scryfall.io/border_crop/front/3/0/30225e40-4bde-4e2e-b0f0-48ed16aebafd.jpg?1674819625|https://scryfall.com/card/one/76/unctuss-retrofitter?utm_source=api>`"
 msgstr ""
 
 #: ../../ONE.rst:485
-msgid "When Unctus's Retrofitter enters the battlefield, up to one target artifact creature you control becomes an artifact creature with base power and toughness 4/4 for as long as Unctus's Retrofitter remains on the battlefield."
+msgid "When Unctus's Retrofitter enters the battlefield, up to one target artifact you control becomes an artifact creature with base power and toughness 4/4 for as long as Unctus's Retrofitter remains on the battlefield."
 msgstr ""
 
 #: ../../ONE.rst:490
@@ -1433,7 +1433,7 @@ msgid ":mtgtip:`Pestilent Syphoner<https://cards.scryfall.io/border_crop/front/9
 msgstr ""
 
 #: ../../ONE.rst:644
-msgid ":mtgtip:`Phyrexian Arena<https://cards.scryfall.io/border_crop/front/5/4/54f69d43-de01-46a8-b102-b47e23e0e947.jpg?1674772856|https://scryfall.com/card/one/104/phyrexian-arena?utm_source=api>`"
+msgid ":mtgtip:`Phyrexian Arena<https://cards.scryfall.io/border_crop/front/5/4/54f69d43-de01-46a8-b102-b47e23e0e947.jpg?1674810976|https://scryfall.com/card/one/104/phyrexian-arena?utm_source=api>`"
 msgstr ""
 
 #: ../../ONE.rst:643
@@ -1589,7 +1589,7 @@ msgid "Target creature gets -1/-1 until end of turn. Proliferate. (Choose any nu
 msgstr ""
 
 #: ../../ONE.rst:720
-msgid ":mtgtip:`All Will Be One<https://cards.scryfall.io/border_crop/front/6/d/6d75e1f4-bd63-428e-8e6e-131594b3ba44.jpg?1674772881|https://scryfall.com/card/one/118/all-will-be-one?utm_source=api>`"
+msgid ":mtgtip:`All Will Be One<https://cards.scryfall.io/border_crop/front/6/d/6d75e1f4-bd63-428e-8e6e-131594b3ba44.jpg?1674810979|https://scryfall.com/card/one/118/all-will-be-one?utm_source=api>`"
 msgstr ""
 
 #: ../../ONE.rst:719
@@ -1856,7 +1856,7 @@ msgid "Destroy target Equipment."
 msgstr ""
 
 #: ../../ONE.rst:872
-msgid ":mtgtip:`Nahiri's Sacrifice<https://cards.scryfall.io/border_crop/front/9/8/98395039-1353-4fa8-b51d-c4e1cadf9263.jpg?1674772927|https://scryfall.com/card/one/142/nahiris-sacrifice?utm_source=api>`"
+msgid ":mtgtip:`Nahiri's Sacrifice<https://cards.scryfall.io/border_crop/front/9/8/98395039-1353-4fa8-b51d-c4e1cadf9263.jpg?1674810991|https://scryfall.com/card/one/142/nahiris-sacrifice?utm_source=api>`"
 msgstr ""
 
 #: ../../ONE.rst:869
@@ -1957,7 +1957,7 @@ msgid "When Urabrask's Anointer enters the battlefield, it deals X damage to any
 msgstr ""
 
 #: ../../ONE.rst:928
-msgid ":mtgtip:`Urabrask's Forge<https://cards.scryfall.io/border_crop/front/6/8/68f9f9d8-9ea0-4608-a79c-a09a87918186.jpg?1674772946|https://scryfall.com/card/one/153/urabrasks-forge?utm_source=api>`"
+msgid ":mtgtip:`Urabrask's Forge<https://cards.scryfall.io/border_crop/front/6/8/68f9f9d8-9ea0-4608-a79c-a09a87918186.jpg?1674810972|https://scryfall.com/card/one/153/urabrasks-forge?utm_source=api>`"
 msgstr ""
 
 #: ../../ONE.rst:927
@@ -2246,7 +2246,7 @@ msgid "Paladin of Predation can't be blocked by creatures with power 2 or less."
 msgstr ""
 
 #: ../../ONE.rst:1094
-msgid ":mtgtip:`Plague Nurse<https://cards.scryfall.io/border_crop/front/5/e/5e7eef9e-68ae-4743-ad89-64f6fafbe365.jpg?1674772996|https://scryfall.com/card/one/179/plague-nurse?utm_source=api>`"
+msgid ":mtgtip:`Plague Nurse<https://cards.scryfall.io/border_crop/front/5/e/5e7eef9e-68ae-4743-ad89-64f6fafbe365.jpg?1674831123|https://scryfall.com/card/one/179/plague-nurse?utm_source=api>`"
 msgstr ""
 
 #: ../../ONE.rst:1091
@@ -2254,7 +2254,7 @@ msgid "Toxic 2"
 msgstr ""
 
 #: ../../ONE.rst:1093
-msgid "|mana_2|\\ |mana_g|: Each other creature you control with toxic gains toxic 1 until end of turn. Activate only once each turn. (Players dealt combat damage by a creature with toxic also gets poison counters equal to that creature's total toxic value.)"
+msgid "|mana_2|\\ |mana_g|: Each other creature you control with toxic gains toxic 1 until end of turn. Activate only once each turn. (A player dealt combat damage by a creature with toxic also gets poison counters equal to that creature's total toxic value.)"
 msgstr ""
 
 #: ../../ONE.rst:1100
@@ -2368,7 +2368,7 @@ msgid "Toxic 4 (Players dealt combat damage by this creature also get four poiso
 msgstr ""
 
 #: ../../ONE.rst:1164
-msgid ":mtgtip:`Tyvar's Stand<https://cards.scryfall.io/border_crop/front/c/7/c7b362a5-382a-4016-b4f2-aa7b683354c4.jpg?1674773017|https://scryfall.com/card/one/190/tyvars-stand?utm_source=api>`"
+msgid ":mtgtip:`Tyvar's Stand<https://cards.scryfall.io/border_crop/front/c/7/c7b362a5-382a-4016-b4f2-aa7b683354c4.jpg?1674810981|https://scryfall.com/card/one/190/tyvars-stand?utm_source=api>`"
 msgstr ""
 
 #: ../../ONE.rst:1163
