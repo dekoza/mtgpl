@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG po polsku 2023.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-27 13:27+0100\n"
-"PO-Revision-Date: 2023-01-27 12:36+0000\n"
+"PO-Revision-Date: 2023-01-27 21:36+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/onc/pl/>\n"
 "Language: pl\n"
@@ -378,14 +378,8 @@ msgid ""
 msgstr ""
 
 #: ../../ONC.rst:53
-#, fuzzy
-#| msgid ""
-#| "Equipped creature gets +1/+1 for each charge counter on Mace of the "
-#| "Valiant and has vigilance."
 msgid "Equipped creature gets +1/+1 for each creature you control."
-msgstr ""
-"Wyposażony stwór dostaje +1/+1 za każdy znacznik ładunku na tym artefakcie "
-"oraz ma czujność."
+msgstr "Wyposażony stwór dostaje +1/+1 za każdego stwora pod twoim władaniem."
 
 #: ../../ONC.rst:55
 msgid "Equip |mana_2|\\ |mana_w|"
@@ -715,10 +709,8 @@ msgid ""
 msgstr ""
 
 #: ../../ONC.rst:167
-#, fuzzy
-#| msgid "(|mana_wp| can be paid with either |mana_w| or 2 life.)"
 msgid "(|mana_up| can be paid with either |mana_u| or 2 life.)"
-msgstr "(|mana_wp| może być opłacone przez |mana_w| lub 2 życia.)"
+msgstr "(|mana_up| można zapłacić |mana_u| lub 2 życiami.)"
 
 #: ../../ONC.rst:169
 msgid ""
@@ -764,10 +756,8 @@ msgstr ""
 "artefakt pod twoim władaniem.)"
 
 #: ../../ONC.rst:179
-#, fuzzy
-#| msgid "Flying, lifelink, haste"
 msgid "Flying, haste"
-msgstr "Latanie, więź życia, pośpiech"
+msgstr "Latanie, pośpiech"
 
 #: ../../ONC.rst:181
 msgid ""
@@ -788,6 +778,8 @@ msgid ""
 "Living weapon (When this Equipment enters the battlefield, create a 0/0 "
 "black Phyrexian Germ creature token, then attach this to it.)"
 msgstr ""
+"Żywy oręż (Kiedy to Wyposażenie wejdzie na pole bitwy, stwórz żeton czarnego "
+"stwora Phyrexiański Bakcyl 0/0 i dołącz to do niego.)"
 
 #: ../../ONC.rst:187
 msgid ""
@@ -796,10 +788,8 @@ msgid ""
 msgstr ""
 
 #: ../../ONC.rst:189
-#, fuzzy
-#| msgid "Equip |mana_3|"
 msgid "Equip |mana_4|"
-msgstr "Wyposaż |mana_3|"
+msgstr "Wyposaż |mana_4|"
 
 #: ../../ONC.rst:196
 msgid ""
