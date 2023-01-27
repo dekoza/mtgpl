@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG po polsku 2022.12\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-27 09:29+0100\n"
-"PO-Revision-Date: 2023-01-27 12:26+0000\n"
+"PO-Revision-Date: 2023-01-27 12:36+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/one/pl/>\n"
 "Language: pl\n"
@@ -524,10 +524,8 @@ msgid "Equipped creature has flying."
 msgstr "Wyposażony stwór ma latanie."
 
 #: ../../ONE.rst:103
-#, fuzzy
-#| msgid "Equipped creatures you control get +1/+1."
 msgid "Creatures you control that are equipped get +1/+0."
-msgstr "Wyposażone stwory pod twoim władaniem dostają +1/+1."
+msgstr "Stwory pod twoim władaniem mające wyposażenie dostają +1/+0."
 
 #: ../../ONE.rst:105 ../../ONE.rst:125
 msgid "Equip |mana_2|\\ |mana_w|"
@@ -2408,10 +2406,8 @@ msgid ""
 msgstr ""
 
 #: ../../ONE.rst:749
-#, fuzzy
-#| msgid "Target creature gets +2/+2 until end of turn."
 msgid "Target creature gets +3/+1 until end of turn."
-msgstr "Wskazany stwór do końca tury dostaje +2/+2."
+msgstr "Wskazany stwór do końca tury dostaje +3/+1."
 
 #: ../../ONE.rst:751
 msgid ""

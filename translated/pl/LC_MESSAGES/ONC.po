@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG po polsku 2023.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-27 13:27+0100\n"
-"PO-Revision-Date: 2023-01-27 12:26+0000\n"
+"PO-Revision-Date: 2023-01-27 12:36+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/onc/pl/>\n"
 "Language: pl\n"
@@ -756,16 +756,12 @@ msgid ""
 msgstr ""
 
 #: ../../ONC.rst:177
-#, fuzzy
-#| msgid ""
-#| "Strive — This spell costs |mana_1|\\ |mana_w| more to cast for each "
-#| "target beyond the first."
 msgid ""
 "Affinity for artifacts (This spell costs |mana_1| less to cast for each "
 "artifact you control.)"
 msgstr ""
-"Wysiłek — Rzucenie tego czaru kosztuje o |mana_1|\\ |mana_w| więcej za "
-"wskazanie każdego celu poza pierwszym."
+"Koligacja z artefaktami (Rzucenie tego czaru kosztuje o |mana_1| za każdy "
+"artefakt pod twoim władaniem.)"
 
 #: ../../ONC.rst:179
 #, fuzzy
