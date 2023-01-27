@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG po polsku 2022.12\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-27 09:29+0100\n"
-"PO-Revision-Date: 2023-01-27 12:36+0000\n"
+"PO-Revision-Date: 2023-01-27 12:50+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/one/pl/>\n"
 "Language: pl\n"
@@ -250,16 +250,12 @@ msgid "Choose one or both —"
 msgstr "Wybierz jedną lub obie —"
 
 #: ../../ONE.rst:11
-#, fuzzy
-#| msgid ""
-#| "When enchanted creature dies, return that card to the battlefield under "
-#| "your control."
 msgid ""
 "Exile target artifact or creature you control, then return it to the "
 "battlefield under its owner's control."
 msgstr ""
-"Kiedy zauroczony stwór umrze, przywróć ową kartę na pole bitwy pod twoim "
-"władaniem."
+"Wygnaj wskazany artefakt lub stwora pod twoim władanie, po czym przywróć go "
+"na pole bitwy pod władaniem właściciela."
 
 #: ../../ONE.rst:13
 msgid ""
@@ -495,21 +491,15 @@ msgid ""
 msgstr ""
 
 #: ../../ONE.rst:93
-#, fuzzy
-#| msgid "Equipped creature gets +2/+0."
 msgid "Equipped creature gets +0/+1."
-msgstr "Wyposażony stwór dostaje +2/+0."
+msgstr "Wyposażony stwór dostaje +0/+1."
 
 #: ../../ONE.rst:95
-#, fuzzy
-#| msgid ""
-#| "Equip |mana_2|\\ |mana_r| (|mana_2|\\ |mana_r|: Attach to target creature "
-#| "you control. Equip only as a sorcery.)"
 msgid ""
 "Equip |mana_1|\\ |mana_w| (|mana_1|\\ |mana_w|: Attach to target creature "
 "you control. Equip only as a sorcery.)"
 msgstr ""
-"Wyposaż |mana_2|\\ |mana_r| (|mana_2|\\ |mana_r|: Dołącz do wskazanego "
+"Wyposaż |mana_1|\\ |mana_w| (|mana_1|\\ |mana_w|: Dołącz do wskazanego "
 "stwora pod twoim władaniem. Wyposaż tylko jako obrzęd.)"
 
 #: ../../ONE.rst:106
@@ -653,21 +643,15 @@ msgid ""
 msgstr ""
 
 #: ../../ONE.rst:157
-#, fuzzy
-#| msgid "Equipped creature gets +2/+0."
 msgid "Equipped creature gets +2/+1 and has vigilance."
-msgstr "Wyposażony stwór dostaje +2/+0."
+msgstr "Wyposażony stwór dostaje +2/+1 i ma czujność."
 
 #: ../../ONE.rst:159
-#, fuzzy
-#| msgid ""
-#| "Equip |mana_2|\\ |mana_r| (|mana_2|\\ |mana_r|: Attach to target creature "
-#| "you control. Equip only as a sorcery.)"
 msgid ""
 "Equip |mana_3|\\ |mana_w| (|mana_3|\\ |mana_w|: Attach to target creature "
 "you control. Equip only as a sorcery.)"
 msgstr ""
-"Wyposaż |mana_2|\\ |mana_r| (|mana_2|\\ |mana_r|: Dołącz do wskazanego "
+"Wyposaż |mana_3|\\ |mana_w| (|mana_3|\\ |mana_w|: Dołącz do wskazanego "
 "stwora pod twoim władaniem. Wyposaż tylko jako obrzęd.)"
 
 #: ../../ONE.rst:166
@@ -951,16 +935,12 @@ msgid "Enchanted creature gets +1/+1."
 msgstr "Zauroczony stwór dostaje +1/+1."
 
 #: ../../ONE.rst:259
-#, fuzzy
-#| msgid ""
-#| "Corrupted — As long as an opponent has three or more poison counters, "
-#| "Apostle of Invasion has double strike."
 msgid ""
 "Corrupted — As long as an opponent has three or more poison counters, "
 "enchanted creature gets an additional +1/+0 and has first strike."
 msgstr ""
 "Zbrukanie — O ile przeciwnik ma co najmniej trzy znaczniki zatrucia, "
-"niniejszy ma podwójny cios."
+"zauroczony stwór dostaje dodatkowe +1/+0 i ma pierwszy cios."
 
 #: ../../ONE.rst:264
 msgid ""
@@ -970,16 +950,12 @@ msgid ""
 msgstr ""
 
 #: ../../ONE.rst:263
-#, fuzzy
-#| msgid ""
-#| "Toxic 1 (Players dealt combat damage by this creature also get a poison "
-#| "counter.)"
 msgid ""
 "Until end of turn, target creature gets +1/+3 and gains flying and toxic 1. "
 "(Players dealt combat damage by that creature also get a poison counter.)"
 msgstr ""
-"Toksyny 1 (Gracz otrzymujący od niniejszego obrażenia dostaje także znacznik "
-"zatrucia.)"
+"Do końca tury wskazany stwór dostaje +1/+3, latanie oraz toksyczność 1 ("
+"Gracz otrzymujący od owego stwora obrażenia dostaje także znacznik zatrucia.)"
 
 #: ../../ONE.rst:270
 msgid ""
@@ -1069,16 +1045,12 @@ msgid ""
 msgstr ""
 
 #: ../../ONE.rst:297
-#, fuzzy
-#| msgid ""
-#| "Corrupted — As long as an opponent has three or more poison counters, "
-#| "Apostle of Invasion has double strike."
 msgid ""
 "Corrupted — This spell costs |mana_2| less to cast if an opponent has three "
 "or more poison counters."
 msgstr ""
-"Zbrukanie — O ile przeciwnik ma co najmniej trzy znaczniki zatrucia, "
-"niniejszy ma podwójny cios."
+"Zbrukanie — Rzucenie tego czaru kosztuje o |mana_2| mniej jeśli przeciwnik "
+"ma co najmniej trzy znaczniki zatrucia."
 
 #: ../../ONE.rst:299 ../../ONE.rst:919
 msgid "Draw two cards."
@@ -1171,19 +1143,14 @@ msgid ""
 msgstr ""
 
 #: ../../ONE.rst:327
-#, fuzzy
-#| msgid ""
-#| "Volt Charge deals 3 damage to any target. Proliferate. (Choose any number "
-#| "of permanents and/or players, then give each another counter of each kind "
-#| "already there.)"
 msgid ""
 "When Gitaxian Anatomist enters the battlefield, you may tap it. If you do, "
 "proliferate. (Choose any number of permanents and/or players, then give each "
 "another counter of each kind already there.)"
 msgstr ""
-"Ten czar zadaje wskazanemu celowi 3 obrażenia. Rozpleń. (Wybierz dowolną "
-"liczbę bytów i/lub graczy, po czym daj im kolejny znacznik każdego z już "
-"obecnych tam rodzajów.)"
+"Kiedy ten byt wejdzie na pole bitwy, możesz go przekręcić. Jeśli tak "
+"zrobisz, rozpleń. (Wybierz dowolną liczbę bytów i/lub graczy, po czym daj im "
+"kolejny znacznik każdego z już obecnych tam rodzajów.)"
 
 #: ../../ONE.rst:336
 msgid ""
@@ -1441,19 +1408,14 @@ msgid ""
 msgstr ""
 
 #: ../../ONE.rst:427
-#, fuzzy
-#| msgid ""
-#| "Volt Charge deals 3 damage to any target. Proliferate. (Choose any number "
-#| "of permanents and/or players, then give each another counter of each kind "
-#| "already there.)"
 msgid ""
 "Counter target spell. If that spell's mana value was 3 or less, proliferate. "
 "(Choose any number of permanents and/or players, then give each another "
 "counter of each kind already there.)"
 msgstr ""
-"Ten czar zadaje wskazanemu celowi 3 obrażenia. Rozpleń. (Wybierz dowolną "
-"liczbę bytów i/lub graczy, po czym daj im kolejny znacznik każdego z już "
-"obecnych tam rodzajów.)"
+"Skontruj wskazany czar. Jeśli skrót many owego czaru wynosił 3 lub mniej, "
+"rozpleń. (Wybierz dowolną liczbę bytów i/lub graczy, po czym daj im kolejny "
+"znacznik każdego z już obecnych tam rodzajów.)"
 
 #: ../../ONE.rst:432
 msgid ""
@@ -1463,19 +1425,14 @@ msgid ""
 msgstr ""
 
 #: ../../ONE.rst:431
-#, fuzzy
-#| msgid ""
-#| "Volt Charge deals 3 damage to any target. Proliferate. (Choose any number "
-#| "of permanents and/or players, then give each another counter of each kind "
-#| "already there.)"
 msgid ""
 "Return target nonland permanent to its owner's hand. If that permanent had "
 "mana value 3 or less, proliferate. (Choose any number of permanents and/or "
 "players, then give each another counter of each kind already there.)"
 msgstr ""
-"Ten czar zadaje wskazanemu celowi 3 obrażenia. Rozpleń. (Wybierz dowolną "
-"liczbę bytów i/lub graczy, po czym daj im kolejny znacznik każdego z już "
-"obecnych tam rodzajów.)"
+"Przywróć wskazany nielądowy byt do ręki właściciela. Jeśli skrót many owego "
+"bytu wynosił 3 lub mniej, rozpleń. (Wybierz dowolną liczbę bytów i/lub "
+"graczy, po czym daj im kolejny znacznik każdego z już obecnych tam rodzajów.)"
 
 #: ../../ONE.rst:438
 msgid ""
@@ -1629,18 +1586,12 @@ msgid ""
 msgstr ""
 
 #: ../../ONE.rst:489
-#, fuzzy
-#| msgid ""
-#| "Volt Charge deals 3 damage to any target. Proliferate. (Choose any number "
-#| "of permanents and/or players, then give each another counter of each kind "
-#| "already there.)"
 msgid ""
 "Draw three cards. Proliferate. (Choose any number of permanents and/or "
 "players, then give each another counter of each kind already there.)"
 msgstr ""
-"Ten czar zadaje wskazanemu celowi 3 obrażenia. Rozpleń. (Wybierz dowolną "
-"liczbę bytów i/lub graczy, po czym daj im kolejny znacznik każdego z już "
-"obecnych tam rodzajów.)"
+"Dobierz trzy karty. Rozpleń. (Wybierz dowolną liczbę bytów i/lub graczy, po "
+"czym daj im kolejny znacznik każdego z już obecnych tam rodzajów.)"
 
 #: ../../ONE.rst:498
 msgid ""
@@ -1849,19 +1800,14 @@ msgid ""
 msgstr ""
 
 #: ../../ONE.rst:569
-#, fuzzy
-#| msgid ""
-#| "Volt Charge deals 3 damage to any target. Proliferate. (Choose any number "
-#| "of permanents and/or players, then give each another counter of each kind "
-#| "already there.)"
 msgid ""
 "Target creature gets -4/-4 until end of turn. Proliferate. (Choose any "
 "number of permanents and/or players, then give each another counter of each "
 "kind already there.)"
 msgstr ""
-"Ten czar zadaje wskazanemu celowi 3 obrażenia. Rozpleń. (Wybierz dowolną "
-"liczbę bytów i/lub graczy, po czym daj im kolejny znacznik każdego z już "
-"obecnych tam rodzajów.)"
+"Wskazany stwór do końca tury dostaje -4/-4. Rozpleń. (Wybierz dowolną liczbę "
+"bytów i/lub graczy, po czym daj im kolejny znacznik każdego z już obecnych "
+"tam rodzajów.)"
 
 #: ../../ONE.rst:574
 msgid ""
@@ -1935,19 +1881,14 @@ msgid ""
 msgstr ""
 
 #: ../../ONE.rst:593
-#, fuzzy
-#| msgid ""
-#| "Volt Charge deals 3 damage to any target. Proliferate. (Choose any number "
-#| "of permanents and/or players, then give each another counter of each kind "
-#| "already there.)"
 msgid ""
 "When Gulping Scraptrap enters the battlefield or dies, proliferate. (Choose "
 "any number of permanents and/or players, then give each another counter of "
 "each kind already there.)"
 msgstr ""
-"Ten czar zadaje wskazanemu celowi 3 obrażenia. Rozpleń. (Wybierz dowolną "
-"liczbę bytów i/lub graczy, po czym daj im kolejny znacznik każdego z już "
-"obecnych tam rodzajów.)"
+"Kiedy ten byt wejdzie na pole bitwy, rozpleń. (Wybierz dowolną liczbę bytów "
+"i/lub graczy, po czym daj im kolejny znacznik każdego z już obecnych tam "
+"rodzajów.)"
 
 #: ../../ONE.rst:598
 msgid ""
@@ -1957,11 +1898,11 @@ msgid ""
 msgstr ""
 
 #: ../../ONE.rst:597
-#, fuzzy
-#| msgid "You draw three cards and you lose 3 life."
 msgid ""
 "You draw two cards and you lose 2 life. Each opponent gets a poison counter."
-msgstr "Dobierz trzy karty i strać 3 życia."
+msgstr ""
+"Dobierz dwie karty i strać 2 życia. Każdy przeciwnik dostaje znacznik "
+"zatrucia."
 
 #: ../../ONE.rst:606
 msgid ""
@@ -2160,16 +2101,12 @@ msgid "Menace"
 msgstr "Złowrogość"
 
 #: ../../ONE.rst:673
-#, fuzzy
-#| msgid ""
-#| "Toxic 1 (Players dealt combat damage by this creature also get a poison "
-#| "counter.)"
 msgid ""
 "Toxic 2 (Players dealt combat damage by this creature also gets two poison "
 "counter.)"
 msgstr ""
-"Toksyny 1 (Gracz otrzymujący od niniejszego obrażenia dostaje także znacznik "
-"zatrucia.)"
+"Toksyczność 2 (Gracz otrzymujący od niniejszego obrażenia dostaje także dwa "
+"znaczniki zatrucia.)"
 
 #: ../../ONE.rst:680
 msgid ""
@@ -2205,19 +2142,14 @@ msgid ""
 msgstr ""
 
 #: ../../ONE.rst:687
-#, fuzzy
-#| msgid ""
-#| "Volt Charge deals 3 damage to any target. Proliferate. (Choose any number "
-#| "of permanents and/or players, then give each another counter of each kind "
-#| "already there.)"
 msgid ""
 "Put target creature card from a graveyard onto the battlefield under your "
 "control. Proliferate. (Choose any number of permanents and/or players, then "
 "give each another counter of each kind already there.)"
 msgstr ""
-"Ten czar zadaje wskazanemu celowi 3 obrażenia. Rozpleń. (Wybierz dowolną "
-"liczbę bytów i/lub graczy, po czym daj im kolejny znacznik każdego z już "
-"obecnych tam rodzajów.)"
+"Umieść wskazaną kartę stwora z cmentarza na polu bitwy pod twoim władaniem. "
+"Rozpleń. (Wybierz dowolną liczbę bytów i/lub graczy, po czym daj im kolejny "
+"znacznik każdego z już obecnych tam rodzajów.)"
 
 #: ../../ONE.rst:694
 msgid ""
@@ -2303,19 +2235,14 @@ msgid ""
 msgstr ""
 
 #: ../../ONE.rst:715
-#, fuzzy
-#| msgid ""
-#| "Volt Charge deals 3 damage to any target. Proliferate. (Choose any number "
-#| "of permanents and/or players, then give each another counter of each kind "
-#| "already there.)"
 msgid ""
 "Target creature gets -1/-1 until end of turn. Proliferate. (Choose any "
 "number of permanents and/or players, then give each another counter of each "
 "kind already there.)"
 msgstr ""
-"Ten czar zadaje wskazanemu celowi 3 obrażenia. Rozpleń. (Wybierz dowolną "
-"liczbę bytów i/lub graczy, po czym daj im kolejny znacznik każdego z już "
-"obecnych tam rodzajów.)"
+"Wskazany stwór do końca tury dostaje -1/-1. Rozpleń. (Wybierz dowolną liczbę "
+"bytów i/lub graczy, po czym daj im kolejny znacznik każdego z już obecnych "
+"tam rodzajów.)"
 
 #: ../../ONE.rst:720
 msgid ""
@@ -2553,11 +2480,11 @@ msgid ""
 msgstr ""
 
 #: ../../ONE.rst:803
-#, fuzzy
-#| msgid "Target creature gets +2/+2 until end of turn."
 msgid ""
 "Target creature gets +2/+2 until end of turn. Put two oil counters on it."
-msgstr "Wskazany stwór do końca tury dostaje +2/+2."
+msgstr ""
+"Wskazany stwór do końca tury dostaje +2/+2. Umieść na nim dwa znaczniki "
+"oleju."
 
 #: ../../ONE.rst:810
 msgid ""
@@ -2717,10 +2644,8 @@ msgid "Molten Rebuke deals 5 damage to target creature or planeswalker."
 msgstr ""
 
 #: ../../ONE.rst:865
-#, fuzzy
-#| msgid "Destroy target enchantment."
 msgid "Destroy target Equipment."
-msgstr "Zniszcz wskazany urok."
+msgstr "Zniszcz wskazane Wyposażenie."
 
 #: ../../ONE.rst:872
 msgid ""
@@ -2961,10 +2886,8 @@ msgid "When Adaptive Sporesinger enters the battlefield, choose one—"
 msgstr ""
 
 #: ../../ONE.rst:953
-#, fuzzy
-#| msgid "Target creature gets +2/+2 until end of turn."
 msgid "Target creature gets +2/+2 and gains vigilance until end of turn."
-msgstr "Wskazany stwór do końca tury dostaje +2/+2."
+msgstr "Wskazany stwór do końca tury dostaje +2/+2 i czujność."
 
 #: ../../ONE.rst:955 ../../ONE.rst:985 ../../ONE.rst:1131
 msgid ""
@@ -3099,19 +3022,14 @@ msgid "Reach"
 msgstr "Zasięg"
 
 #: ../../ONE.rst:1005
-#, fuzzy
-#| msgid ""
-#| "Volt Charge deals 3 damage to any target. Proliferate. (Choose any number "
-#| "of permanents and/or players, then give each another counter of each kind "
-#| "already there.)"
 msgid ""
 "|mana_1|\\ |mana_g|, Sacrifice Copper Longlegs: Proliferate. (Choose any "
 "number of permanents and/or players, then give each another counter of each "
 "kind already there.)"
 msgstr ""
-"Ten czar zadaje wskazanemu celowi 3 obrażenia. Rozpleń. (Wybierz dowolną "
-"liczbę bytów i/lub graczy, po czym daj im kolejny znacznik każdego z już "
-"obecnych tam rodzajów.)"
+"|mana_1|\\ |mana_g|, poświęć ten byt: Rozpleń. (Wybierz dowolną liczbę bytów "
+"i/lub graczy, po czym daj im kolejny znacznik każdego z już obecnych tam "
+"rodzajów.)"
 
 #: ../../ONE.rst:1014
 msgid ""
@@ -3432,16 +3350,12 @@ msgid ""
 msgstr ""
 
 #: ../../ONE.rst:1121
-#, fuzzy
-#| msgid "Equipped creature gets +2/+0."
 msgid "Equipped creature gets +4/+4 and has trample."
-msgstr "Wyposażony stwór dostaje +2/+0."
+msgstr "Wyposażony stwór dostaje +4/+4 i ma tratowanie."
 
 #: ../../ONE.rst:1123
-#, fuzzy
-#| msgid "Equip |mana_2|\\ |mana_r|"
 msgid "Equip |mana_5|\\ |mana_g|\\ |mana_g|"
-msgstr "Wyposaż |mana_2|\\ |mana_r|"
+msgstr "Wyposaż |mana_5|\\ |mana_g|\\ |mana_g|"
 
 #: ../../ONE.rst:1132
 msgid ""
@@ -3498,16 +3412,12 @@ msgid ""
 msgstr ""
 
 #: ../../ONE.rst:1151 ../../ONE.rst:1177
-#, fuzzy
-#| msgid ""
-#| "Toxic 1 (Players dealt combat damage by this creature also get a poison "
-#| "counter.)"
 msgid ""
 "Toxic 3 (Players dealt combat damage by this creature also get three poison "
 "counters.)"
 msgstr ""
-"Toksyny 1 (Gracz otrzymujący od niniejszego obrażenia dostaje także znacznik "
-"zatrucia.)"
+"Toksyność 3 (Gracz otrzymujący od niniejszego obrażenia dostaje także trzy "
+"znaczniki zatrucia.)"
 
 #: ../../ONE.rst:1160
 msgid ""
@@ -3576,19 +3486,14 @@ msgid ""
 msgstr ""
 
 #: ../../ONE.rst:1179
-#, fuzzy
-#| msgid ""
-#| "Volt Charge deals 3 damage to any target. Proliferate. (Choose any number "
-#| "of permanents and/or players, then give each another counter of each kind "
-#| "already there.)"
 msgid ""
 "When Venomous Brutalizer enters the battlefield, you may pay |mana_1|\\ |"
 "mana_g|. If you do, proliferate. (Choose any number of permanents and/or "
 "players, then give each another counter of each kind already there.)"
 msgstr ""
-"Ten czar zadaje wskazanemu celowi 3 obrażenia. Rozpleń. (Wybierz dowolną "
-"liczbę bytów i/lub graczy, po czym daj im kolejny znacznik każdego z już "
-"obecnych tam rodzajów.)"
+"Kiedy ten byt wejdzie na pole bitwy, możesz zapłacić |mana_1|\\ |mana_g|. "
+"Jeśli tak zrobisz, rozpleń. (Wybierz dowolną liczbę bytów i/lub graczy, po "
+"czym daj im kolejny znacznik każdego z już obecnych tam rodzajów.)"
 
 #: ../../ONE.rst:1186
 msgid ""
@@ -4088,19 +3993,14 @@ msgid ""
 msgstr ""
 
 #: ../../ONE.rst:1365
-#, fuzzy
-#| msgid ""
-#| "Volt Charge deals 3 damage to any target. Proliferate. (Choose any number "
-#| "of permanents and/or players, then give each another counter of each kind "
-#| "already there.)"
 msgid ""
 "Whenever another creature enters the battlefield under your control, you may "
 "pay |mana_2|. If you do, proliferate. (Choose any number of permanents and/"
 "or players, then give each another counter of each kind already there.)"
 msgstr ""
-"Ten czar zadaje wskazanemu celowi 3 obrażenia. Rozpleń. (Wybierz dowolną "
-"liczbę bytów i/lub graczy, po czym daj im kolejny znacznik każdego z już "
-"obecnych tam rodzajów.)"
+"Ilekroć inny stwór wejdzie na pole bitwy pod twoim władanie, możesz zapłacić "
+"|mana_2|. Jeśli tak zrobisz, rozpleń. (Wybierz dowolną liczbę bytów i/lub "
+"graczy, po czym daj im kolejny znacznik każdego z już obecnych tam rodzajów.)"
 
 #: ../../ONE.rst:1374
 msgid ""
@@ -4444,16 +4344,12 @@ msgid ""
 msgstr ""
 
 #: ../../ONE.rst:1491
-#, fuzzy
-#| msgid ""
-#| "Corrupted — As long as an opponent has three or more poison counters, "
-#| "Apostle of Invasion has double strike."
 msgid ""
 "Corrupted — Whenever Phyrexian Atlas becomes tapped, each opponent with "
 "three or more poison counters loses 1 life."
 msgstr ""
-"Zbrukanie — O ile przeciwnik ma co najmniej trzy znaczniki zatrucia, "
-"niniejszy ma podwójny cios."
+"Zbrukanie — Ilekroć niniejszy zostanie przekręcony, każdy przeciwnik mający "
+"co najmniej trzy znaczniki zatrucia, traci 1 życie."
 
 #: ../../ONE.rst:1498
 msgid ""
@@ -4495,16 +4391,12 @@ msgid ""
 msgstr ""
 
 #: ../../ONE.rst:1507
-#, fuzzy
-#| msgid ""
-#| "Toxic 1 (Players dealt combat damage by this creature also get a poison "
-#| "counter.)"
 msgid ""
 "Toxic 2 (Players dealt combat damage by this permanent also get two poison "
 "counters.)"
 msgstr ""
-"Toksyny 1 (Gracz otrzymujący od niniejszego obrażenia dostaje także znacznik "
-"zatrucia.)"
+"Toksyność 2 (Gracz otrzymujący od niniejszego obrażenia dostaje także dwa "
+"znaczniki zatrucia.)"
 
 #: ../../ONE.rst:1509
 msgid "When Ribskiff enters the battlefield, draw a card."
@@ -4732,10 +4624,8 @@ msgid "|tap|: Add |mana_w|."
 msgstr "|tap|: Weź |mana_w|."
 
 #: ../../ONE.rst:1597
-#, fuzzy
-#| msgid "|mana_3|\\ |mana_w|, |tap|: Tap target creature."
 msgid "|mana_1|\\ |mana_w|, |tap|, Sacrifice The Fair Basilica: Draw a card."
-msgstr "|mana_3|\\ |mana_w|, |tap|: Przekręć wskazanego stwora."
+msgstr "|mana_1|\\ |mana_w|, |tap|, poświęć ten byt: Dobierz kartę."
 
 #: ../../ONE.rst:1606
 msgid ""
@@ -4753,10 +4643,8 @@ msgid "|tap|: Add |mana_g|."
 msgstr "|tap|: Weź |mana_g|."
 
 #: ../../ONE.rst:1605
-#, fuzzy
-#| msgid "|mana_3|\\ |mana_w|, |tap|: Tap target creature."
 msgid "|mana_1|\\ |mana_g|, |tap|, Sacrifice The Hunter Maze: Draw a card."
-msgstr "|mana_3|\\ |mana_w|, |tap|: Przekręć wskazanego stwora."
+msgstr "|mana_1|\\ |mana_g|, |tap|, poświęć ten byt: Dobierz kartę."
 
 #: ../../ONE.rst:1614
 msgid ""
