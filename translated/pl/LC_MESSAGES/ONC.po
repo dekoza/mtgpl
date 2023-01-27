@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG po polsku 2023.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-22 22:32+0100\n"
+"POT-Creation-Date: 2023-01-27 13:27+0100\n"
 "PO-Revision-Date: 2023-01-27 12:26+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/onc/pl/>\n"
@@ -241,7 +241,7 @@ msgstr ""
 #: ../../ONC.rst:12
 msgid ""
 ":mtgtip:`Ixhel, Scion of Atraxa<https://cards.scryfall.io/border_crop/front/"
-"a/b/ab866ec4-dcb4-47ef-8de1-a369986609c0.jpg?1674283310|https://scryfall.com/"
+"a/b/ab866ec4-dcb4-47ef-8de1-a369986609c0.jpg?1674779331|https://scryfall.com/"
 "card/onc/1/ixhel-scion-of-atraxa?utm_source=api>`"
 msgstr ""
 
@@ -260,7 +260,7 @@ msgstr ""
 #: ../../ONC.rst:18
 msgid ""
 ":mtgtip:`Neyali, Suns' Vanguard<https://cards.scryfall.io/border_crop/"
-"front/2/b/2b5df03d-2463-468b-b444-d946eeb1c96d.jpg?1674283319|https://"
+"front/2/b/2b5df03d-2463-468b-b444-d946eeb1c96d.jpg?1674779336|https://"
 "scryfall.com/card/onc/2/neyali-suns-vanguard?utm_source=api>`"
 msgstr ""
 
@@ -278,7 +278,7 @@ msgstr ""
 #: ../../ONC.rst:26
 msgid ""
 ":mtgtip:`Otharri, Suns' Glory<https://cards.scryfall.io/border_crop/"
-"front/8/0/80c72839-0fa6-4b5f-83b7-6553ebf09bef.jpg?1674283329|https://"
+"front/8/0/80c72839-0fa6-4b5f-83b7-6553ebf09bef.jpg?1674779338|https://"
 "scryfall.com/card/onc/3/otharri-suns-glory?utm_source=api>`"
 msgstr ""
 
@@ -302,7 +302,7 @@ msgstr ""
 #: ../../ONC.rst:34
 msgid ""
 ":mtgtip:`Vishgraz, the Doomhive<https://cards.scryfall.io/border_crop/front/"
-"f/b/fb1d33b2-9082-4043-8e52-a5c2f3a174ba.jpg?1674283339|https://scryfall.com/"
+"f/b/fb1d33b2-9082-4043-8e52-a5c2f3a174ba.jpg?1674779343|https://scryfall.com/"
 "card/onc/4/vishgraz-the-doomhive?utm_source=api>`"
 msgstr ""
 
@@ -326,11 +326,11 @@ msgstr ""
 #: ../../ONC.rst:40
 msgid ""
 ":mtgtip:`Clever Concealment<https://cards.scryfall.io/border_crop/front/5/"
-"d/5d84cc58-0965-4c7f-a408-7630f23fb8f3.jpg?1674283347|https://scryfall.com/"
+"d/5d84cc58-0965-4c7f-a408-7630f23fb8f3.jpg?1674771494|https://scryfall.com/"
 "card/onc/5/clever-concealment?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:37 ../../ONC.rst:245
+#: ../../ONC.rst:37 ../../ONC.rst:303
 msgid ""
 "Convoke (Your creatures can help cast this spell. Each creature you tap "
 "while casting this spell pays for |mana_1| or one mana of that creature's "
@@ -350,7 +350,7 @@ msgstr ""
 #: ../../ONC.rst:48
 msgid ""
 ":mtgtip:`Glimmer Lens<https://cards.scryfall.io/border_crop/front/c/9/"
-"c9262000-e6f3-4da1-ad1c-038f65d3bef6.jpg?1674283356|https://scryfall.com/"
+"c9262000-e6f3-4da1-ad1c-038f65d3bef6.jpg?1674771504|https://scryfall.com/"
 "card/onc/6/glimmer-lens?utm_source=api>`"
 msgstr ""
 
@@ -373,13 +373,19 @@ msgstr "Wyposaż |mana_1|\\ |mana_w|"
 #: ../../ONC.rst:56
 msgid ""
 ":mtgtip:`Kemba's Banner<https://cards.scryfall.io/border_crop/front/5/"
-"e/5e50c148-9f30-4131-8ec1-85e9ba8cafbb.jpg?1674283364|https://scryfall.com/"
+"e/5e50c148-9f30-4131-8ec1-85e9ba8cafbb.jpg?1674771516|https://scryfall.com/"
 "card/onc/7/kembas-banner?utm_source=api>`"
 msgstr ""
 
 #: ../../ONC.rst:53
-msgid "Equpped creature gets +1/+1 for each creature you control."
+#, fuzzy
+#| msgid ""
+#| "Equipped creature gets +1/+1 for each charge counter on Mace of the "
+#| "Valiant and has vigilance."
+msgid "Equipped creature gets +1/+1 for each creature you control."
 msgstr ""
+"Wyposażony stwór dostaje +1/+1 za każdy znacznik ładunku na tym artefakcie "
+"oraz ma czujność."
 
 #: ../../ONC.rst:55
 msgid "Equip |mana_2|\\ |mana_w|"
@@ -388,7 +394,7 @@ msgstr ""
 #: ../../ONC.rst:62
 msgid ""
 ":mtgtip:`Norn's Choirmaster<https://cards.scryfall.io/border_crop/front/1/"
-"d/1da10c9f-4c9f-4eee-8480-665c453215d4.jpg?1674283372|https://scryfall.com/"
+"d/1da10c9f-4c9f-4eee-8480-665c453215d4.jpg?1674771527|https://scryfall.com/"
 "card/onc/8/norns-choirmaster?utm_source=api>`"
 msgstr ""
 
@@ -406,7 +412,7 @@ msgstr ""
 #: ../../ONC.rst:68
 msgid ""
 ":mtgtip:`Norn's Decree<https://cards.scryfall.io/border_crop/"
-"front/7/6/76f28aa2-1c18-4d58-a3f9-6cd5b49280d8.jpg?1674283380|https://"
+"front/7/6/76f28aa2-1c18-4d58-a3f9-6cd5b49280d8.jpg?1674771539|https://"
 "scryfall.com/card/onc/9/norns-decree?utm_source=api>`"
 msgstr ""
 
@@ -425,7 +431,7 @@ msgstr ""
 #: ../../ONC.rst:76
 msgid ""
 ":mtgtip:`Staff of the Storyteller<https://cards.scryfall.io/border_crop/"
-"front/a/b/ab1d1461-1625-4163-aacd-a939f4871fad.jpg?1674283389|https://"
+"front/a/b/ab1d1461-1625-4163-aacd-a939f4871fad.jpg?1674771549|https://"
 "scryfall.com/card/onc/10/staff-of-the-storyteller?utm_source=api>`"
 msgstr ""
 
@@ -450,7 +456,7 @@ msgstr ""
 #: ../../ONC.rst:82
 msgid ""
 ":mtgtip:`Geth's Summons<https://cards.scryfall.io/border_crop/front/9/"
-"c/9cdab166-c0d2-45c4-8326-f4670cd7efd4.jpg?1674283398|https://scryfall.com/"
+"c/9cdab166-c0d2-45c4-8326-f4670cd7efd4.jpg?1674771560|https://scryfall.com/"
 "card/onc/11/geths-summons?utm_source=api>`"
 msgstr ""
 
@@ -482,7 +488,7 @@ msgstr ""
 #: ../../ONC.rst:92
 msgid ""
 ":mtgtip:`Goldwardens' Gambit<https://cards.scryfall.io/border_crop/front/0/"
-"c/0cb7f413-f9b9-4b1c-898a-c49c571613f0.jpg?1674283415|https://scryfall.com/"
+"c/0cb7f413-f9b9-4b1c-898a-c49c571613f0.jpg?1674771571|https://scryfall.com/"
 "card/onc/13/goldwardens-gambit?utm_source=api>`"
 msgstr ""
 
@@ -502,7 +508,7 @@ msgstr ""
 #: ../../ONC.rst:102
 msgid ""
 ":mtgtip:`Hexplate Wallbreaker<https://cards.scryfall.io/border_crop/front/"
-"f/7/f75e6145-79a4-4400-8e0a-c334e4a780fb.jpg?1674283423|https://scryfall.com/"
+"f/7/f75e6145-79a4-4400-8e0a-c334e4a780fb.jpg?1674771583|https://scryfall.com/"
 "card/onc/14/hexplate-wallbreaker?utm_source=api>`"
 msgstr ""
 
@@ -512,7 +518,7 @@ msgstr "Wyposażony stwór dostaje +2/+2."
 
 #: ../../ONC.rst:99
 msgid ""
-"Whenver equipped creature attacks, if it's the first combat phase of the "
+"Whenever equipped creature attacks, if it's the first combat phase of the "
 "turn, untap each attacking creature. After this phase, there is an "
 "additional combat phase."
 msgstr ""
@@ -524,7 +530,7 @@ msgstr ""
 #: ../../ONC.rst:108
 msgid ""
 ":mtgtip:`Roar of Resistance<https://cards.scryfall.io/border_crop/front/f/5/"
-"f5eb9570-6203-4a03-9a3e-e5c679df5903.jpg?1674283431|https://scryfall.com/"
+"f5eb9570-6203-4a03-9a3e-e5c679df5903.jpg?1674771594|https://scryfall.com/"
 "card/onc/15/roar-of-resistance?utm_source=api>`"
 msgstr ""
 
@@ -542,7 +548,7 @@ msgstr ""
 #: ../../ONC.rst:114
 msgid ""
 ":mtgtip:`Vulshok Factory<https://cards.scryfall.io/border_crop/front/b/1/"
-"b1c40dd7-6839-49ae-9901-443fd5748877.jpg?1674283440|https://scryfall.com/"
+"b1c40dd7-6839-49ae-9901-443fd5748877.jpg?1674771606|https://scryfall.com/"
 "card/onc/16/vulshok-factory?utm_source=api>`"
 msgstr ""
 
@@ -560,7 +566,7 @@ msgstr ""
 #: ../../ONC.rst:122
 msgid ""
 ":mtgtip:`Contaminant Grafter<https://cards.scryfall.io/border_crop/front/0/"
-"e/0ef2f776-ff35-464b-bfcf-075c9ae4baa7.jpg?1674283449|https://scryfall.com/"
+"e/0ef2f776-ff35-464b-bfcf-075c9ae4baa7.jpg?1674771616|https://scryfall.com/"
 "card/onc/17/contaminant-grafter?utm_source=api>`"
 msgstr ""
 
@@ -584,7 +590,7 @@ msgstr ""
 #: ../../ONC.rst:130
 msgid ""
 ":mtgtip:`Glissa's Retriever<https://cards.scryfall.io/border_crop/"
-"front/8/1/81836d7f-ba8d-4c52-8b1f-c86b422e23b5.jpg?1674283458|https://"
+"front/8/1/81836d7f-ba8d-4c52-8b1f-c86b422e23b5.jpg?1674771627|https://"
 "scryfall.com/card/onc/18/glissas-retriever?utm_source=api>`"
 msgstr ""
 
@@ -608,7 +614,7 @@ msgstr ""
 #: ../../ONC.rst:136
 msgid ""
 ":mtgtip:`Wurmquake<https://cards.scryfall.io/border_crop/"
-"front/9/4/94f0a15e-9437-4aa9-86c5-482008124617.jpg?1674283467|https://"
+"front/9/4/94f0a15e-9437-4aa9-86c5-482008124617.jpg?1674771638|https://"
 "scryfall.com/card/onc/19/wurmquake?utm_source=api>`"
 msgstr ""
 
@@ -629,7 +635,7 @@ msgstr ""
 #: ../../ONC.rst:146
 msgid ""
 ":mtgtip:`Glistening Sphere<https://cards.scryfall.io/border_crop/front/b/8/"
-"b825db05-7e95-400b-944b-526cfa6addc0.jpg?1674283475|https://scryfall.com/"
+"b825db05-7e95-400b-944b-526cfa6addc0.jpg?1674771648|https://scryfall.com/"
 "card/onc/20/glistening-sphere?utm_source=api>`"
 msgstr ""
 
@@ -641,7 +647,7 @@ msgstr ""
 msgid "When Glistening Sphere enters the battlefield, proliferate."
 msgstr ""
 
-#: ../../ONC.rst:143 ../../ONC.rst:519
+#: ../../ONC.rst:143 ../../ONC.rst:577
 msgid "|tap|: Add one mana of any color."
 msgstr "|tap|: Weź jedną manę dowolnego koloru."
 
@@ -651,34 +657,232 @@ msgid ""
 "opponent has three or more poison counters."
 msgstr ""
 
-#: ../../ONC.rst:152
+#: ../../ONC.rst:154
+msgid ""
+":mtgtip:`Skyhunter Strike Force<https://cards.scryfall.io/border_crop/front/"
+"b/e/beddac9b-e39c-4c7e-8ae7-0c3152178934.jpg?1674771659|https://scryfall.com/"
+"card/onc/21/skyhunter-strike-force?utm_source=api>`"
+msgstr ""
+
+#: ../../ONC.rst:149 ../../ONC.rst:249 ../../ONC.rst:289 ../../ONC.rst:295
+#: ../../ONC.rst:389 ../../ONC.rst:413
+msgid "Flying"
+msgstr "Latanie"
+
+#: ../../ONC.rst:151 ../../ONC.rst:501
+msgid ""
+"Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for "
+"each opponent you attacked this combat.)"
+msgstr ""
+"Bijatyka (Ilekroć ten stwór atakuje, do końca tury dostaje +1/+1 za każdego "
+"przeciwnika zaatakowanego przez ciebie w tej potyczce.)"
+
+#: ../../ONC.rst:153
+msgid ""
+"Lieutenant — As long as you control your commander, other creatures you "
+"control have melee."
+msgstr ""
+
+#: ../../ONC.rst:164
+msgid ""
+":mtgtip:`Mirage Mockery<https://cards.scryfall.io/border_crop/"
+"front/6/7/67cead78-26fa-4cae-ba0e-925e28c26d53.jpg?1674771669|https://"
+"scryfall.com/card/onc/22/mirage-mockery?utm_source=api>`"
+msgstr ""
+
+#: ../../ONC.rst:157 ../../ONC.rst:511 ../../ONC.rst:535 ../../ONC.rst:559
+msgid "Choose one —"
+msgstr "Wybierz jedno —"
+
+#: ../../ONC.rst:159
+msgid "Create a token that's a copy of target artifact creature you control."
+msgstr ""
+
+#: ../../ONC.rst:161
+msgid ""
+"Create a token that's a copy of target nonartifact creature you control."
+msgstr ""
+
+#: ../../ONC.rst:163
+msgid "Entwine |mana_2|\\ |mana_u| (Choose both if you pay the entwine cost.)"
+msgstr ""
+
+#: ../../ONC.rst:170
+msgid ""
+":mtgtip:`Synthesis Pod<https://cards.scryfall.io/border_crop/front/e/0/"
+"e06d72d0-909d-4e38-85e6-52c658836c18.jpg?1674771679|https://scryfall.com/"
+"card/onc/23/synthesis-pod?utm_source=api>`"
+msgstr ""
+
+#: ../../ONC.rst:167
+#, fuzzy
+#| msgid "(|mana_wp| can be paid with either |mana_w| or 2 life.)"
+msgid "(|mana_up| can be paid with either |mana_u| or 2 life.)"
+msgstr "(|mana_wp| może być opłacone przez |mana_w| lub 2 życia.)"
+
+#: ../../ONC.rst:169
+msgid ""
+"|mana_1|\\ |mana_up|, |tap|, Exile a spell you control: Target opponent "
+"reveals cards from the top of their library until they reveal a card with "
+"mana value equal to 1 plus the exiled spell's mana value. Exile that card, "
+"then that player shuffles. You may cast that exiled card without paying its "
+"mana cost."
+msgstr ""
+
+#: ../../ONC.rst:174
+msgid ""
+":mtgtip:`Monumental Corruption<https://cards.scryfall.io/border_crop/front/2/"
+"d/2da97319-de80-4d71-82fc-715109cf8e2c.jpg?1674771688|https://scryfall.com/"
+"card/onc/24/monumental-corruption?utm_source=api>`"
+msgstr ""
+
+#: ../../ONC.rst:173
+#, fuzzy
+#| msgid ""
+#| "Target player draws three cards, loses 3 life, and gets three poison "
+#| "counters."
+msgid ""
+"Target player draws X cards an loses X life, where X is the number of "
+"artifacts you control."
+msgstr ""
+"Wskazany gracz dobiera trzy karty, traci 3 życia i dostaje trzy znaczniki "
+"zatrucia."
+
+#: ../../ONC.rst:182
+msgid ""
+":mtgtip:`Chiss-Goria, Forge Tyrant<https://cards.scryfall.io/border_crop/"
+"front/9/2/923eb713-c955-4e12-8a8f-df3b4b361487.jpg?1674771698|https://"
+"scryfall.com/card/onc/25/chiss-goria-forge-tyrant?utm_source=api>`"
+msgstr ""
+
+#: ../../ONC.rst:177
+#, fuzzy
+#| msgid ""
+#| "Strive — This spell costs |mana_1|\\ |mana_w| more to cast for each "
+#| "target beyond the first."
+msgid ""
+"Affinity for artifacts (This spell costs |mana_1| less to cast for each "
+"artifact you control.)"
+msgstr ""
+"Wysiłek — Rzucenie tego czaru kosztuje o |mana_1|\\ |mana_w| więcej za "
+"wskazanie każdego celu poza pierwszym."
+
+#: ../../ONC.rst:179
+#, fuzzy
+#| msgid "Flying, lifelink, haste"
+msgid "Flying, haste"
+msgstr "Latanie, więź życia, pośpiech"
+
+#: ../../ONC.rst:181
+msgid ""
+"Whenever Chiss-Goria, Forge Tyrant attacks, exile the top five cards of your "
+"library. You may cast an artifact spell from among them this turn. If you "
+"do, it has affinity for artifacts."
+msgstr ""
+
+#: ../../ONC.rst:190
+msgid ""
+":mtgtip:`Tangleweave Armor<https://cards.scryfall.io/border_crop/"
+"front/6/7/67e766ee-b5e9-469b-81ad-65b5970723fb.jpg?1674771708|https://"
+"scryfall.com/card/onc/26/tangleweave-armor?utm_source=api>`"
+msgstr ""
+
+#: ../../ONC.rst:185
+msgid ""
+"Living weapon (When this Equipment enters the battlefield, create a 0/0 "
+"black Phyrexian Germ creature token, then attach this to it.)"
+msgstr ""
+
+#: ../../ONC.rst:187
+msgid ""
+"Equipped creature gets +X/+X, where X is the greatest mana value among your "
+"commanders."
+msgstr ""
+
+#: ../../ONC.rst:189
+#, fuzzy
+#| msgid "Equip |mana_3|"
+msgid "Equip |mana_4|"
+msgstr "Wyposaż |mana_3|"
+
+#: ../../ONC.rst:196
+msgid ""
+":mtgtip:`Lux Artillery<https://cards.scryfall.io/border_crop/front/a/3/"
+"a3c9579b-e3e7-4dc7-a775-b7c8d2758f24.jpg?1674771717|https://scryfall.com/"
+"card/onc/27/lux-artillery?utm_source=api>`"
+msgstr ""
+
+#: ../../ONC.rst:193
+msgid ""
+"Whenever you cast an artifact creature spell, it gains sunburst. (It enters "
+"the battlefield with a +1/+1 counter on it for each color of mana spent to "
+"cast it.)"
+msgstr ""
+
+#: ../../ONC.rst:195
+msgid ""
+"At the beginning of your end step, if there are thirty or more counters "
+"among artifacts and creatures you control, Lux Artillery deals 10 damage to "
+"each opponent."
+msgstr ""
+
+#: ../../ONC.rst:204
+msgid ""
+":mtgtip:`Urtet, Remnant of Memnarch<https://cards.scryfall.io/border_crop/"
+"front/7/a/7aa01ab4-26b0-49dc-8514-b3850d355a21.jpg?1674771726|https://"
+"scryfall.com/card/onc/28/urtet-remnant-of-memnarch?utm_source=api>`"
+msgstr ""
+
+#: ../../ONC.rst:199
+#, fuzzy
+#| msgid ""
+#| "When Myr Battlesphere enters the battlefield, create four 1/1 colorless "
+#| "Myr artifact creature tokens."
+msgid ""
+"Whenever you cast a Myr spell, create a 1/1 colorless Myr artifact creature "
+"token."
+msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, stwórz cztery żetony bezkolorowego "
+"artefaktowego stwora Myr 1/1."
+
+#: ../../ONC.rst:201
+msgid "At the beginning of combat on your turn, untap each Myr you control."
+msgstr ""
+
+#: ../../ONC.rst:203
+msgid ""
+"|mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|, |tap|: Put three +1/+1 "
+"counters on each Myr you control. Activate only during your turn."
+msgstr ""
+
+#: ../../ONC.rst:210
 msgid ""
 ":mtgtip:`Battle Screech<https://cards.scryfall.io/border_crop/"
-"front/8/5/8577272c-d493-48c3-9a3e-5a6e896da71e.jpg?1674283679|https://"
+"front/8/5/8577272c-d493-48c3-9a3e-5a6e896da71e.jpg?1674772013|https://"
 "scryfall.com/card/onc/59/battle-screech?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:149
+#: ../../ONC.rst:207
 msgid "Create two 1/1 white Bird creature tokens with flying."
 msgstr "Stwórz dwa żetony białego stwora Ptak 1/1 z lataniem."
 
-#: ../../ONC.rst:151
+#: ../../ONC.rst:209
 msgid ""
 "Flashback—Tap three untapped white creatures you control. (You may cast this "
 "card from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
-"Wspomnienie—Przekręć trzy odkręcone białe stwory pod twoim władaniem. ("
-"Możesz rzucić tę kartę z twojego cmentarza za jej koszt wspomnienia. "
+"Wspomnienie—Przekręć trzy odkręcone białe stwory pod twoim władaniem. "
+"(Możesz rzucić tę kartę z twojego cmentarza za jej koszt wspomnienia. "
 "Następnie wygnaj ją.)"
 
-#: ../../ONC.rst:158
+#: ../../ONC.rst:216
 msgid ""
 ":mtgtip:`Call the Coppercoats<https://cards.scryfall.io/border_crop/"
-"front/1/7/17844223-f9fb-4cd8-ba8e-d1db07e5ba55.jpg?1674283689|https://"
+"front/1/7/17844223-f9fb-4cd8-ba8e-d1db07e5ba55.jpg?1674772023|https://"
 "scryfall.com/card/onc/60/call-the-coppercoats?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:155
+#: ../../ONC.rst:213
 msgid ""
 "Strive — This spell costs |mana_1|\\ |mana_w| more to cast for each target "
 "beyond the first."
@@ -686,7 +890,7 @@ msgstr ""
 "Wysiłek — Rzucenie tego czaru kosztuje o |mana_1|\\ |mana_w| więcej za "
 "wskazanie każdego celu poza pierwszym."
 
-#: ../../ONC.rst:157
+#: ../../ONC.rst:215
 msgid ""
 "Choose any number of target opponents. Create X 1/1 white Human Soldier "
 "creature tokens, where X is the number of creatures those opponents control."
@@ -695,14 +899,14 @@ msgstr ""
 "stwora Człowiek Piechur 1/1, gdzie X jest liczbą stworów pod władaniem owych "
 "przeciwników."
 
-#: ../../ONC.rst:170
+#: ../../ONC.rst:228
 msgid ""
 ":mtgtip:`Collective Effort<https://cards.scryfall.io/border_crop/"
-"front/3/6/368eb49a-24b6-4608-9016-f17127827b60.jpg?1674283699|https://"
+"front/3/6/368eb49a-24b6-4608-9016-f17127827b60.jpg?1674772033|https://"
 "scryfall.com/card/onc/61/collective-effort?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:161
+#: ../../ONC.rst:219
 msgid ""
 "Escalate—Tap an untapped creature you control. (Pay this cost for each mode "
 "chosen beyond the first.)"
@@ -710,86 +914,81 @@ msgstr ""
 "Eskalacja—Przekręć odkręconego stwora pod twoim władaniem. (Opłać ten koszt "
 "za każdy dodatkowo wybrany tryb.)"
 
-#: ../../ONC.rst:163
+#: ../../ONC.rst:221
 msgid "Choose one or more —"
 msgstr "Wybierz jedną lub więcej —"
 
-#: ../../ONC.rst:165
+#: ../../ONC.rst:223
 msgid "Destroy target creature with power 4 or greater."
 msgstr "Zniszcz wskazanego stwora o sile 4 lub większej."
 
-#: ../../ONC.rst:167
+#: ../../ONC.rst:225
 msgid "Destroy target enchantment."
 msgstr "Zniszcz wskazany urok."
 
-#: ../../ONC.rst:169
+#: ../../ONC.rst:227
 msgid "Put a +1/+1 counter on each creature target player controls."
 msgstr ""
 "Umieść znacznik +1/+1 na każdym stworze pod władaniem wskazanego gracza."
 
-#: ../../ONC.rst:176
+#: ../../ONC.rst:234
 msgid ""
 ":mtgtip:`Court of Grace<https://cards.scryfall.io/border_crop/front/e/4/"
-"e4e3e867-95e7-47bc-95c4-77c686ddf82a.jpg?1674283709|https://scryfall.com/"
+"e4e3e867-95e7-47bc-95c4-77c686ddf82a.jpg?1674772043|https://scryfall.com/"
 "card/onc/62/court-of-grace?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:173
+#: ../../ONC.rst:231
 msgid "When Court of Grace enters the battlefield, you become the monarch."
 msgstr ""
 
-#: ../../ONC.rst:175
+#: ../../ONC.rst:233
 msgid ""
 "At the beginning of your upkeep, create a 1/1 white Spirit creature token "
 "with flying. If you're the monarch, create a 4/4 white Angel creature token "
 "with flying instead."
 msgstr ""
 
-#: ../../ONC.rst:180
+#: ../../ONC.rst:238
 msgid ""
 ":mtgtip:`Cut a Deal<https://cards.scryfall.io/border_crop/front/c/d/"
-"cdfbf95a-44c7-4a3d-9bd9-00330d82fc36.jpg?1674283719|https://scryfall.com/"
+"cdfbf95a-44c7-4a3d-9bd9-00330d82fc36.jpg?1674772052|https://scryfall.com/"
 "card/onc/63/cut-a-deal?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:179
+#: ../../ONC.rst:237
 msgid ""
 "Each opponent draws a card, then you draw a card for each opponent who drew "
 "a card this way."
 msgstr ""
 
-#: ../../ONC.rst:188
+#: ../../ONC.rst:246
 msgid ""
 ":mtgtip:`Elspeth Tirel<https://cards.scryfall.io/border_crop/"
-"front/5/9/59dedcb3-6c03-4484-a493-e6f808a33ead.jpg?1674283728|https://"
+"front/5/9/59dedcb3-6c03-4484-a493-e6f808a33ead.jpg?1674772061|https://"
 "scryfall.com/card/onc/64/elspeth-tirel?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:183
+#: ../../ONC.rst:241
 msgid "+2: You gain 1 life for each creature you control."
 msgstr "+2: Zyskaj po 1 życiu za każdego stwora pod twoim władaniem."
 
-#: ../../ONC.rst:185
+#: ../../ONC.rst:243
 msgid "−2: Create three 1/1 white Soldier creature tokens."
 msgstr "–2: Stwórz trzy żetony białego stwora Piechur 1/1."
 
-#: ../../ONC.rst:187
+#: ../../ONC.rst:245
 msgid "−5: Destroy all other permanents except for lands and tokens."
 msgstr "–5: Zniszcz wszystkie inne byty oprócz lądów i żetonów."
 
-#: ../../ONC.rst:194
+#: ../../ONC.rst:252
 msgid ""
 ":mtgtip:`Emeria Angel<https://cards.scryfall.io/border_crop/front/b/2/"
-"b2c4b875-b4fd-4a5d-bdcc-3e02ffcc46de.jpg?1674283737|https://scryfall.com/"
+"b2c4b875-b4fd-4a5d-bdcc-3e02ffcc46de.jpg?1674772070|https://scryfall.com/"
 "card/onc/65/emeria-angel?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:191 ../../ONC.rst:231 ../../ONC.rst:237 ../../ONC.rst:331
-#: ../../ONC.rst:355
-msgid "Flying"
-msgstr "Latanie"
-
-#: ../../ONC.rst:193
+#: ../../ONC.rst:251
 msgid ""
 "Landfall — Whenever a land enters the battlefield under your control, you "
 "may create a 1/1 white Bird creature token with flying."
@@ -797,14 +996,14 @@ msgstr ""
 "Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, możesz "
 "stworzyć żeton białego stwora Ptak 1/1 z lataniem."
 
-#: ../../ONC.rst:202
+#: ../../ONC.rst:260
 msgid ""
 ":mtgtip:`Felidar Retreat<https://cards.scryfall.io/border_crop/"
-"front/9/5/95acdbfc-ec40-4ecd-bd0b-0908ed5d31bc.jpg?1674283746|https://"
+"front/9/5/95acdbfc-ec40-4ecd-bd0b-0908ed5d31bc.jpg?1674772080|https://"
 "scryfall.com/card/onc/66/felidar-retreat?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:197
+#: ../../ONC.rst:255
 msgid ""
 "Landfall — Whenever a land enters the battlefield under your control, choose "
 "one —"
@@ -812,11 +1011,11 @@ msgstr ""
 "Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, wybierz "
 "jedną —"
 
-#: ../../ONC.rst:199
+#: ../../ONC.rst:257
 msgid "Create a 2/2 white Cat Beast creature token."
 msgstr "Stwórz żeton białego stwora Kot Bestia 2/2."
 
-#: ../../ONC.rst:201
+#: ../../ONC.rst:259
 msgid ""
 "Put a +1/+1 counter on each creature you control. Those creatures gain "
 "vigilance until end of turn."
@@ -824,14 +1023,14 @@ msgstr ""
 "Umieść znacznik +1/+1 na każdym stworze pod twoim władaniem. Owe stwory "
 "zyskują do końca tury czujność."
 
-#: ../../ONC.rst:206
+#: ../../ONC.rst:264
 msgid ""
 ":mtgtip:`Finale of Glory<https://cards.scryfall.io/border_crop/front/9/"
-"b/9b6b5cb7-26aa-43d6-ae97-24e5efd3c636.jpg?1674283755|https://scryfall.com/"
+"b/9b6b5cb7-26aa-43d6-ae97-24e5efd3c636.jpg?1674772090|https://scryfall.com/"
 "card/onc/67/finale-of-glory?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:205
+#: ../../ONC.rst:263
 msgid ""
 "Create X 2/2 white Soldier creature tokens with vigilance. If X is 10 or "
 "more, also create X 4/4 white Angel creature tokens with flying and "
@@ -841,60 +1040,60 @@ msgstr ""
 "lub więcej, stwórz także X żetonów białego stwora Anioł 4/4 z lataniem i "
 "czujnością."
 
-#: ../../ONC.rst:212
+#: ../../ONC.rst:270
 msgid ""
 ":mtgtip:`Flawless Maneuver<https://cards.scryfall.io/border_crop/front/3/"
-"d/3d572269-3984-48d2-9705-8fe8afb4a2f6.jpg?1674283763|https://scryfall.com/"
+"d/3d572269-3984-48d2-9705-8fe8afb4a2f6.jpg?1674772100|https://scryfall.com/"
 "card/onc/68/flawless-maneuver?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:209
+#: ../../ONC.rst:267
 msgid ""
 "If you control a commander, you may cast this spell without paying its mana "
 "cost."
 msgstr ""
 "Jeśli władasz dowódcą, możesz rzucić ten czar bez płacenia jego kosztu many."
 
-#: ../../ONC.rst:211
+#: ../../ONC.rst:269
 msgid "Creatures you control gain indestructible until end of turn."
 msgstr "Stwory pod twoim władaniem zyskują niezniszczalność do końca tury."
 
-#: ../../ONC.rst:216
+#: ../../ONC.rst:274
 msgid ""
 ":mtgtip:`Fumigate<https://cards.scryfall.io/border_crop/"
-"front/4/6/46356861-5519-4970-87bf-006100ab9a7f.jpg?1674283773|https://"
+"front/4/6/46356861-5519-4970-87bf-006100ab9a7f.jpg?1674772110|https://"
 "scryfall.com/card/onc/69/fumigate?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:215
+#: ../../ONC.rst:273
 msgid ""
 "Destroy all creatures. You gain 1 life for each creature destroyed this way."
 msgstr ""
 "Zniszcz wszystkie stwory. Zyskaj po 1 życiu za każdego stwora zniszczonego w "
 "ten sposób."
 
-#: ../../ONC.rst:220
+#: ../../ONC.rst:278
 msgid ""
 ":mtgtip:`Generous Gift<https://cards.scryfall.io/border_crop/front/a/c/"
-"ac9f5e80-2034-407b-a9ac-1c9d5880799d.jpg?1674283781|https://scryfall.com/"
+"ac9f5e80-2034-407b-a9ac-1c9d5880799d.jpg?1674772120|https://scryfall.com/"
 "card/onc/70/generous-gift?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:219
+#: ../../ONC.rst:277
 msgid ""
 "Destroy target permanent. Its controller creates a 3/3 green Elephant "
 "creature token."
 msgstr ""
 "Zniszcz wskazany byt. Jego władca tworzy żeton zielonego stwora Słoń 3/3."
 
-#: ../../ONC.rst:224
+#: ../../ONC.rst:282
 msgid ""
 ":mtgtip:`Ghostly Prison<https://cards.scryfall.io/border_crop/"
-"front/0/0/00e7e279-c11b-4978-b75e-9912d08590d2.jpg?1674283790|https://"
+"front/0/0/00e7e279-c11b-4978-b75e-9912d08590d2.jpg?1674772129|https://"
 "scryfall.com/card/onc/71/ghostly-prison?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:223 ../../ONC.rst:333
+#: ../../ONC.rst:281 ../../ONC.rst:391
 msgid ""
 "Creatures can't attack you unless their controller pays |mana_2| for each "
 "creature they control that's attacking you."
@@ -902,14 +1101,14 @@ msgstr ""
 "Stwory nie mogą cię atakować, chyba że ich władca zapłaci po |mana_2| za "
 "każdego stwora pod swoim władaniem atakującego ciebie."
 
-#: ../../ONC.rst:228
+#: ../../ONC.rst:286
 msgid ""
 ":mtgtip:`Goldnight Commander<https://cards.scryfall.io/border_crop/"
-"front/8/1/81b35a17-e208-4fe6-980f-3f85b44612d7.jpg?1674283798|https://"
+"front/8/1/81b35a17-e208-4fe6-980f-3f85b44612d7.jpg?1674772138|https://"
 "scryfall.com/card/onc/72/goldnight-commander?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:227
+#: ../../ONC.rst:285
 msgid ""
 "Whenever another creature enters the battlefield under your control, "
 "creatures you control get +1/+1 until end of turn."
@@ -917,35 +1116,35 @@ msgstr ""
 "Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, stwory pod "
 "twoim władaniem dostają +1/+1 do końca tury."
 
-#: ../../ONC.rst:234
+#: ../../ONC.rst:292
 msgid ""
 ":mtgtip:`Grateful Apparition<https://cards.scryfall.io/border_crop/front/f/c/"
-"fc207ec0-549b-4587-8a88-d6f4431bf44d.jpg?1674283808|https://scryfall.com/"
+"fc207ec0-549b-4587-8a88-d6f4431bf44d.jpg?1674772148|https://scryfall.com/"
 "card/onc/73/grateful-apparition?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:233
+#: ../../ONC.rst:291
 msgid ""
 "Whenever Grateful Apparition deals combat damage to a player or "
 "planeswalker, proliferate. (Choose any number of permanents and/or players, "
 "then give each another counter of each kind already there.)"
 msgstr ""
-"Ilekroć ten stwór zada graczowi lub wędrowcowi obrażenia bojowe, rozpleń. ("
-"Wybierz dowolną liczbę bytów i/lub graczy, po czym daj każdemu z nich "
+"Ilekroć ten stwór zada graczowi lub wędrowcowi obrażenia bojowe, rozpleń. "
+"(Wybierz dowolną liczbę bytów i/lub graczy, po czym daj każdemu z nich "
 "kolejny znacznik każdego z już obecnych tam rodzajów.)"
 
-#: ../../ONC.rst:242
+#: ../../ONC.rst:300
 msgid ""
 ":mtgtip:`Harmonious Archon<https://cards.scryfall.io/border_crop/"
-"front/2/1/21a2bac8-451f-4af8-a82d-aeae5e28a8be.jpg?1674283818|https://"
+"front/2/1/21a2bac8-451f-4af8-a82d-aeae5e28a8be.jpg?1674772159|https://"
 "scryfall.com/card/onc/74/harmonious-archon?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:239
+#: ../../ONC.rst:297
 msgid "Non-Archon creatures have base power and toughness 3/3."
 msgstr "Stwory bez typu Archon mają bazowe siłę i wytrzymałość 3/3."
 
-#: ../../ONC.rst:241
+#: ../../ONC.rst:299
 msgid ""
 "When Harmonious Archon enters the battlefield, create two 1/1 white Human "
 "creature tokens."
@@ -953,25 +1152,25 @@ msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, stwórz dwa żetony białego stwora "
 "Człowiek 1/1."
 
-#: ../../ONC.rst:248
+#: ../../ONC.rst:306
 msgid ""
 ":mtgtip:`Hour of Reckoning<https://cards.scryfall.io/border_crop/front/f/5/"
-"f5f9e200-2eea-4d7d-be77-ead0ad4182e3.jpg?1674283826|https://scryfall.com/"
+"f5f9e200-2eea-4d7d-be77-ead0ad4182e3.jpg?1674772168|https://scryfall.com/"
 "card/onc/75/hour-of-reckoning?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:247
+#: ../../ONC.rst:305
 msgid "Destroy all nontoken creatures."
 msgstr "Zniszcz wszystkie nieżetonowe stwory."
 
-#: ../../ONC.rst:254
+#: ../../ONC.rst:312
 msgid ""
 ":mtgtip:`Increasing Devotion<https://cards.scryfall.io/border_crop/"
-"front/4/0/400bbab4-4ecf-4875-b356-1164d3a29092.jpg?1674283836|https://"
+"front/4/0/400bbab4-4ecf-4875-b356-1164d3a29092.jpg?1674772178|https://"
 "scryfall.com/card/onc/76/increasing-devotion?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:251
+#: ../../ONC.rst:309
 msgid ""
 "Create five 1/1 white Human creature tokens. If this spell was cast from a "
 "graveyard, create ten of those tokens instead."
@@ -979,7 +1178,7 @@ msgstr ""
 "Stwórz pięć żetonów białego stwora Człowiek 1/1. Jeśli ten czar został "
 "rzucony z cmentarza, zamiast tego stwórz dziesięć owych żetonów."
 
-#: ../../ONC.rst:253
+#: ../../ONC.rst:311
 msgid ""
 "Flashback |mana_7|\\ |mana_w|\\ |mana_w| (You may cast this card from your "
 "graveyard for its flashback cost. Then exile it.)"
@@ -987,25 +1186,25 @@ msgstr ""
 "Wspomnienie |mana_7|\\ |mana_w|\\ |mana_w| (Możesz rzucić tę kartę z twojego "
 "cmentarza za koszt wspomnienia. Następnie wygnaj ją.)"
 
-#: ../../ONC.rst:258
+#: ../../ONC.rst:316
 msgid ""
 ":mtgtip:`Intangible Virtue<https://cards.scryfall.io/border_crop/front/a/6/"
-"a6fb8bdc-5de0-4d08-9bf4-05028b7bddca.jpg?1674283850|https://scryfall.com/"
+"a6fb8bdc-5de0-4d08-9bf4-05028b7bddca.jpg?1674772187|https://scryfall.com/"
 "card/onc/77/intangible-virtue?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:257
+#: ../../ONC.rst:315
 msgid "Creature tokens you control get +1/+1 and have vigilance."
 msgstr "Żetony stworów pod twoim władaniem dostają +1/+1 i mają czujność."
 
-#: ../../ONC.rst:266
+#: ../../ONC.rst:324
 msgid ""
 ":mtgtip:`Mace of the Valiant<https://cards.scryfall.io/border_crop/front/a/0/"
-"a03b88a1-d65b-404d-b41c-90b915023b89.jpg?1674283865|https://scryfall.com/"
+"a03b88a1-d65b-404d-b41c-90b915023b89.jpg?1674772197|https://scryfall.com/"
 "card/onc/78/mace-of-the-valiant?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:261
+#: ../../ONC.rst:319
 msgid ""
 "Equipped creature gets +1/+1 for each charge counter on Mace of the Valiant "
 "and has vigilance."
@@ -1013,7 +1212,7 @@ msgstr ""
 "Wyposażony stwór dostaje +1/+1 za każdy znacznik ładunku na tym artefakcie "
 "oraz ma czujność."
 
-#: ../../ONC.rst:263
+#: ../../ONC.rst:321
 msgid ""
 "Whenever a creature enters the battlefield under your control, put a charge "
 "counter on Mace of the Valiant."
@@ -1021,18 +1220,18 @@ msgstr ""
 "Ilekroć stwór wejdzie na pole bitwy pod twoim władaniem, umieść znacznik "
 "ładunku na tym artefakcie."
 
-#: ../../ONC.rst:265 ../../ONC.rst:565
+#: ../../ONC.rst:323 ../../ONC.rst:623
 msgid "Equip |mana_3|"
 msgstr "Wyposaż |mana_3|"
 
-#: ../../ONC.rst:270
+#: ../../ONC.rst:328
 msgid ""
 ":mtgtip:`Martial Coup<https://cards.scryfall.io/border_crop/"
-"front/7/5/75f95e28-8841-4986-b183-d113beacbafa.jpg?1674283875|https://"
+"front/7/5/75f95e28-8841-4986-b183-d113beacbafa.jpg?1674772207|https://"
 "scryfall.com/card/onc/79/martial-coup?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:269
+#: ../../ONC.rst:327
 msgid ""
 "Create X 1/1 white Soldier creature tokens. If X is 5 or more, destroy all "
 "other creatures."
@@ -1040,14 +1239,14 @@ msgstr ""
 "Stwórz X żetonów białego stwora Piechur 1/1. Jeśli X jest co najmniej 5, "
 "zniszcz wszystkie inne stwory."
 
-#: ../../ONC.rst:278
+#: ../../ONC.rst:336
 msgid ""
 ":mtgtip:`Maul of the Skyclaves<https://cards.scryfall.io/border_crop/front/d/"
-"b/db3cafd4-04af-4e96-aad9-5ca280bd4ef9.jpg?1674283884|https://scryfall.com/"
+"b/db3cafd4-04af-4e96-aad9-5ca280bd4ef9.jpg?1674772218|https://scryfall.com/"
 "card/onc/80/maul-of-the-skyclaves?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:273
+#: ../../ONC.rst:331
 msgid ""
 "When Maul of the Skyclaves enters the battlefield, attach it to target "
 "creature you control."
@@ -1055,22 +1254,22 @@ msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, dołącz go do wskazanego stwora pod "
 "twoim władaniem."
 
-#: ../../ONC.rst:275
+#: ../../ONC.rst:333
 msgid "Equipped creature gets +2/+2 and has flying and first strike."
 msgstr "Wyposażony stwór dostaje +2/+2 i ma latanie oraz pierwszy cios."
 
-#: ../../ONC.rst:277
+#: ../../ONC.rst:335
 msgid "Equip |mana_2|\\ |mana_w|\\ |mana_w|"
 msgstr "Wyposaż |mana_2|\\ |mana_w|\\ |mana_w|"
 
-#: ../../ONC.rst:282
+#: ../../ONC.rst:340
 msgid ""
 ":mtgtip:`Mentor of the Meek<https://cards.scryfall.io/border_crop/"
-"front/2/9/2943fa5a-459b-4ceb-a479-c7d550809456.jpg?1674283893|https://"
+"front/2/9/2943fa5a-459b-4ceb-a479-c7d550809456.jpg?1674772230|https://"
 "scryfall.com/card/onc/81/mentor-of-the-meek?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:281
+#: ../../ONC.rst:339
 msgid ""
 "Whenever another creature with power 2 or less enters the battlefield under "
 "your control, you may pay |mana_1|. If you do, draw a card."
@@ -1078,29 +1277,29 @@ msgstr ""
 "Ilekroć inny stwór o sile 2 lub mniejszej wejdzie na pole bitwy pod twoim "
 "władaniem, możesz zapłacić |mana_1|. Jeśli tak zrobisz, dobierz kartę."
 
-#: ../../ONC.rst:286
+#: ../../ONC.rst:344
 msgid ""
 ":mtgtip:`Midnight Haunting<https://cards.scryfall.io/border_crop/front/e/d/"
-"eddc09d1-63de-4791-b654-31b354032c54.jpg?1674283902|https://scryfall.com/"
+"eddc09d1-63de-4791-b654-31b354032c54.jpg?1674772241|https://scryfall.com/"
 "card/onc/82/midnight-haunting?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:285
+#: ../../ONC.rst:343
 msgid "Create two 1/1 white Spirit creature tokens with flying."
 msgstr "Stwórz dwa żetony białego stwora Duch 1/1 z lataniem."
 
-#: ../../ONC.rst:292
+#: ../../ONC.rst:350
 msgid ""
 ":mtgtip:`Norn's Annex<https://cards.scryfall.io/border_crop/"
-"front/9/8/98ed8e2e-5519-4872-ba5a-7e2f91d8d619.jpg?1674283910|https://"
+"front/9/8/98ed8e2e-5519-4872-ba5a-7e2f91d8d619.jpg?1674772252|https://"
 "scryfall.com/card/onc/83/norns-annex?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:289
+#: ../../ONC.rst:347
 msgid "(|mana_wp| can be paid with either |mana_w| or 2 life.)"
 msgstr "(|mana_wp| może być opłacone przez |mana_w| lub 2 życia.)"
 
-#: ../../ONC.rst:291
+#: ../../ONC.rst:349
 msgid ""
 "Creatures can't attack you or planeswalkers you control unless their "
 "controller pays |mana_wp| for each of those creatures."
@@ -1108,14 +1307,14 @@ msgstr ""
 "Stwory nie mogą zaatakować ciebie lub wędrowców pod twoim władaniem, chyba "
 "że ich władca zapłaci |mana_wp| za każdego z owych stworów."
 
-#: ../../ONC.rst:296
+#: ../../ONC.rst:354
 msgid ""
 ":mtgtip:`Path to Exile<https://cards.scryfall.io/border_crop/front/f/f/"
-"ff586d1e-9122-4c1e-9cc5-17c13caff2ba.jpg?1674283919|https://scryfall.com/"
+"ff586d1e-9122-4c1e-9cc5-17c13caff2ba.jpg?1674772262|https://scryfall.com/"
 "card/onc/84/path-to-exile?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:295
+#: ../../ONC.rst:353
 msgid ""
 "Exile target creature. Its controller may search their library for a basic "
 "land card, put that card onto the battlefield tapped, then shuffle."
@@ -1124,25 +1323,25 @@ msgstr ""
 "kartę bazowego lądu, umieścić ją przekręconą na polu bitwy, po czym "
 "przetasować."
 
-#: ../../ONC.rst:300
+#: ../../ONC.rst:358
 msgid ""
 ":mtgtip:`Phantom General<https://cards.scryfall.io/border_crop/front/e/f/"
-"eff5d3da-81d0-4776-9200-928af1b0cf18.jpg?1674283929|https://scryfall.com/"
+"eff5d3da-81d0-4776-9200-928af1b0cf18.jpg?1674772274|https://scryfall.com/"
 "card/onc/85/phantom-general?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:299
+#: ../../ONC.rst:357
 msgid "Creature tokens you control get +1/+1."
 msgstr "Żetony stworów pod twoim władaniem dostają +1/+1."
 
-#: ../../ONC.rst:304
+#: ../../ONC.rst:362
 msgid ""
 ":mtgtip:`Phyrexian Rebirth<https://cards.scryfall.io/border_crop/"
-"front/9/8/9813dc43-ec08-48b8-9a78-aea4c6a26dea.jpg?1674283937|https://"
+"front/9/8/9813dc43-ec08-48b8-9a78-aea4c6a26dea.jpg?1674772284|https://"
 "scryfall.com/card/onc/86/phyrexian-rebirth?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:303
+#: ../../ONC.rst:361
 msgid ""
 "Destroy all creatures, then create an X/X colorless Phyrexian Horror "
 "artifact creature token, where X is the number of creatures destroyed this "
@@ -1152,37 +1351,37 @@ msgstr ""
 "Phyrexiański Horror X/X, gdzie X jest liczbą stworów zniszczonych w ten "
 "sposób."
 
-#: ../../ONC.rst:312
+#: ../../ONC.rst:370
 msgid ""
 ":mtgtip:`Prava of the Steel Legion<https://cards.scryfall.io/border_crop/"
-"front/2/d/2d27adb4-939d-46ba-b1e8-00282694c362.jpg?1674283945|https://"
+"front/2/d/2d27adb4-939d-46ba-b1e8-00282694c362.jpg?1674772295|https://"
 "scryfall.com/card/onc/87/prava-of-the-steel-legion?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:307
+#: ../../ONC.rst:365
 msgid "As long as it's your turn, creature tokens you control get +1/+4."
 msgstr ""
 
-#: ../../ONC.rst:309
+#: ../../ONC.rst:367
 msgid "|mana_3|\\ |mana_w|: Create a 1/1 white Soldier creature token."
 msgstr ""
 
-#: ../../ONC.rst:311
+#: ../../ONC.rst:369
 msgid "Partner (You can have two commanders if both have partner.)"
 msgstr "Partnerstwo (Możesz mieć dwóch dowódców jeśli obaj mają partnerstwo.)"
 
-#: ../../ONC.rst:320
+#: ../../ONC.rst:378
 msgid ""
 ":mtgtip:`Silverwing Squadron<https://cards.scryfall.io/border_crop/front/a/e/"
-"aef2a2aa-32d3-49a5-9595-98f904131f90.jpg?1674283954|https://scryfall.com/"
+"aef2a2aa-32d3-49a5-9595-98f904131f90.jpg?1674772306|https://scryfall.com/"
 "card/onc/88/silverwing-squadron?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:315
+#: ../../ONC.rst:373
 msgid "Flying, vigilance"
 msgstr "Latanie, czujność"
 
-#: ../../ONC.rst:317
+#: ../../ONC.rst:375
 msgid ""
 "Silverwing Squadron's power and toughness are each equal to the number of "
 "creatures you control."
@@ -1190,7 +1389,7 @@ msgstr ""
 "Siła i wytrzymałość tej karty są obie równe liczbie stworów pod twoim "
 "władaniem."
 
-#: ../../ONC.rst:319
+#: ../../ONC.rst:377
 msgid ""
 "Whenever Silverwing Squadron attacks, create a number of 2/2 white Knight "
 "creature tokens with vigilance equal to the number of opponents you have."
@@ -1198,25 +1397,25 @@ msgstr ""
 "Ilekroć ten stwór zaatakuje, stwórz tyle żetonów białego stwora Rycerz 2/2 z "
 "czujnością, ilu masz przeciwników."
 
-#: ../../ONC.rst:324
+#: ../../ONC.rst:382
 msgid ""
 ":mtgtip:`Swords to Plowshares<https://cards.scryfall.io/border_crop/front/9/"
-"f/9f083ec7-e589-4415-8c30-1c60cde2ce04.jpg?1674283962|https://scryfall.com/"
+"f/9f083ec7-e589-4415-8c30-1c60cde2ce04.jpg?1674772316|https://scryfall.com/"
 "card/onc/89/swords-to-plowshares?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:323
+#: ../../ONC.rst:381
 msgid "Exile target creature. Its controller gains life equal to its power."
 msgstr "Wygnaj wskazanego stwora. Jego władca zyskuje życia równe jego sile."
 
-#: ../../ONC.rst:328
+#: ../../ONC.rst:386
 msgid ""
 ":mtgtip:`White Sun's Zenith<https://cards.scryfall.io/border_crop/front/d/f/"
-"df11cf8d-ca63-4c3e-a567-b6a403a81aa7.jpg?1674283971|https://scryfall.com/"
+"df11cf8d-ca63-4c3e-a567-b6a403a81aa7.jpg?1674772326|https://scryfall.com/"
 "card/onc/90/white-suns-zenith?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:327
+#: ../../ONC.rst:385
 msgid ""
 "Create X 2/2 white Cat creature tokens. Shuffle White Sun's Zenith into its "
 "owner's library."
@@ -1224,21 +1423,21 @@ msgstr ""
 "Stwórz X żetonów białego stwora Kot 2/2. Wtasuj ten czar do biblioteki "
 "właściciela."
 
-#: ../../ONC.rst:334
+#: ../../ONC.rst:392
 msgid ""
 ":mtgtip:`Windborn Muse<https://cards.scryfall.io/border_crop/front/b/3/"
-"b36755d0-0c5d-437e-ab74-9dd4acdfdee9.jpg?1674283979|https://scryfall.com/"
+"b36755d0-0c5d-437e-ab74-9dd4acdfdee9.jpg?1674772338|https://scryfall.com/"
 "card/onc/91/windborn-muse?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:338
+#: ../../ONC.rst:396
 msgid ""
 ":mtgtip:`Caress of Phyrexia<https://cards.scryfall.io/border_crop/front/0/"
-"e/0eef764a-a84f-4d2d-a0ee-2af73643c76f.jpg?1674283989|https://scryfall.com/"
+"e/0eef764a-a84f-4d2d-a0ee-2af73643c76f.jpg?1674772348|https://scryfall.com/"
 "card/onc/92/caress-of-phyrexia?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:337
+#: ../../ONC.rst:395
 msgid ""
 "Target player draws three cards, loses 3 life, and gets three poison "
 "counters."
@@ -1246,15 +1445,15 @@ msgstr ""
 "Wskazany gracz dobiera trzy karty, traci 3 życia i dostaje trzy znaczniki "
 "zatrucia."
 
-#: ../../ONC.rst:344
+#: ../../ONC.rst:402
 msgid ""
 ":mtgtip:`Ichor Rats<https://cards.scryfall.io/border_crop/"
-"front/3/8/387e4be7-7e3d-4623-afe6-229f8a9bacd4.jpg?1674283998|https://"
+"front/3/8/387e4be7-7e3d-4623-afe6-229f8a9bacd4.jpg?1674772358|https://"
 "scryfall.com/card/onc/93/ichor-rats?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:341 ../../ONC.rst:357 ../../ONC.rst:399 ../../ONC.rst:427
-#: ../../ONC.rst:437 ../../ONC.rst:551 ../../ONC.rst:587
+#: ../../ONC.rst:399 ../../ONC.rst:415 ../../ONC.rst:457 ../../ONC.rst:485
+#: ../../ONC.rst:495 ../../ONC.rst:609 ../../ONC.rst:645
 msgid ""
 "Infect (This creature deals damage to creatures in the form of -1/-1 "
 "counters and to players in the form of poison counters.)"
@@ -1262,32 +1461,32 @@ msgstr ""
 "Infekcja (Ten stwór zadaje obrażenia stworom w postaci znaczników -1/-1, a "
 "graczom w postaci znaczników zatrucia.)"
 
-#: ../../ONC.rst:343
+#: ../../ONC.rst:401
 msgid ""
 "When Ichor Rats enters the battlefield, each player gets a poison counter."
 msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, każdy gracz dostaje po znaczniku "
 "zatrucia."
 
-#: ../../ONC.rst:348
+#: ../../ONC.rst:406
 msgid ""
 ":mtgtip:`Night's Whisper<https://cards.scryfall.io/border_crop/"
-"front/3/7/37f8b953-731f-4fb8-ad54-f1292779f187.jpg?1674284006|https://"
+"front/3/7/37f8b953-731f-4fb8-ad54-f1292779f187.jpg?1674772368|https://"
 "scryfall.com/card/onc/94/nights-whisper?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:347
+#: ../../ONC.rst:405
 msgid "You draw two cards and you lose 2 life."
 msgstr "Dobierz dwie karty i strać 2 życia."
 
-#: ../../ONC.rst:352
+#: ../../ONC.rst:410
 msgid ""
 ":mtgtip:`Painful Truths<https://cards.scryfall.io/border_crop/front/d/b/"
-"db05f30f-e06c-4f9d-bf0e-930fbfeab2e7.jpg?1674284015|https://scryfall.com/"
+"db05f30f-e06c-4f9d-bf0e-930fbfeab2e7.jpg?1674772377|https://scryfall.com/"
 "card/onc/95/painful-truths?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:351
+#: ../../ONC.rst:409
 msgid ""
 "Converge — You draw X cards and you lose X life, where X is the number of "
 "colors of mana spent to cast this spell."
@@ -1295,21 +1494,21 @@ msgstr ""
 "Komasowanie — Dobierz X kart i strać X żyć, gdzie X jest liczbą kolorów many "
 "użytych do rzucenia tego czaru."
 
-#: ../../ONC.rst:358
+#: ../../ONC.rst:416
 msgid ""
 ":mtgtip:`Plague Stinger<https://cards.scryfall.io/border_crop/"
-"front/3/2/325a8b1b-fa0c-4140-b9e3-a93705b06aa0.jpg?1674284023|https://"
+"front/3/2/325a8b1b-fa0c-4140-b9e3-a93705b06aa0.jpg?1674772387|https://"
 "scryfall.com/card/onc/96/plague-stinger?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:362
+#: ../../ONC.rst:420
 msgid ""
 ":mtgtip:`Chain Reaction<https://cards.scryfall.io/border_crop/"
-"front/8/6/86ac292c-070e-439f-9c25-f4037cf1edd5.jpg?1674284031|https://"
+"front/8/6/86ac292c-070e-439f-9c25-f4037cf1edd5.jpg?1674772397|https://"
 "scryfall.com/card/onc/97/chain-reaction?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:361
+#: ../../ONC.rst:419
 msgid ""
 "Chain Reaction deals X damage to each creature, where X is the number of "
 "creatures on the battlefield."
@@ -1317,14 +1516,14 @@ msgstr ""
 "Ten czar zadaje każdemu stworowi po X obrażeń, gdzie X jest liczbą stworów "
 "na polu bitwy."
 
-#: ../../ONC.rst:366
+#: ../../ONC.rst:424
 msgid ""
 ":mtgtip:`Dragonmaster Outcast<https://cards.scryfall.io/border_crop/"
-"front/5/8/58027a26-5beb-4fc1-8866-61dfa1093cc1.jpg?1674284040|https://"
+"front/5/8/58027a26-5beb-4fc1-8866-61dfa1093cc1.jpg?1674772406|https://"
 "scryfall.com/card/onc/98/dragonmaster-outcast?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:365
+#: ../../ONC.rst:423
 msgid ""
 "At the beginning of your upkeep, if you control six or more lands, create a "
 "5/5 red Dragon creature token with flying."
@@ -1332,14 +1531,14 @@ msgstr ""
 "Na początku twojego kroku utrzymania, jeśli władasz co najmniej sześcioma "
 "lądami, stwórz żeton czerwonego stwora Smok 5/5 z lataniem."
 
-#: ../../ONC.rst:370
+#: ../../ONC.rst:428
 msgid ""
 ":mtgtip:`Hate Mirage<https://cards.scryfall.io/border_crop/"
-"front/8/0/80e9aebe-5311-4bc6-bc0f-b8084f805db3.jpg?1674284049|https://"
+"front/8/0/80e9aebe-5311-4bc6-bc0f-b8084f805db3.jpg?1674772416|https://"
 "scryfall.com/card/onc/99/hate-mirage?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:369
+#: ../../ONC.rst:427
 msgid ""
 "Choose up to two target creatures you don't control. For each of those "
 "creatures, create a token that's a copy of that creature. Those tokens gain "
@@ -1349,25 +1548,25 @@ msgstr ""
 "owych stworów, stwórz żeton będący kopią owego stwora. Owe żetony zyskują "
 "pośpiech. Wygnaj je na początku najbliższego kroku końcowego."
 
-#: ../../ONC.rst:374
+#: ../../ONC.rst:432
 msgid ""
 ":mtgtip:`Hordeling Outburst<https://cards.scryfall.io/border_crop/front/c/8/"
-"c80c53a3-a2de-4e54-a50a-2eabb2ceb67c.jpg?1674284058|https://scryfall.com/"
+"c80c53a3-a2de-4e54-a50a-2eabb2ceb67c.jpg?1674772425|https://scryfall.com/"
 "card/onc/100/hordeling-outburst?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:373
+#: ../../ONC.rst:431
 msgid "Create three 1/1 red Goblin creature tokens."
 msgstr "Stwórz trzy żetony czerwonego stwora Gobiln 1/1."
 
-#: ../../ONC.rst:380
+#: ../../ONC.rst:438
 msgid ""
 ":mtgtip:`Legion Warboss<https://cards.scryfall.io/border_crop/front/c/3/"
-"c3de647e-3ef5-4f44-a103-b0df756bf9eb.jpg?1674284066|https://scryfall.com/"
+"c3de647e-3ef5-4f44-a103-b0df756bf9eb.jpg?1674772434|https://scryfall.com/"
 "card/onc/101/legion-warboss?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:377
+#: ../../ONC.rst:435
 msgid ""
 "Mentor (Whenever this creature attacks, put a +1/+1 counter on target "
 "attacking creature with lesser power.)"
@@ -1375,28 +1574,28 @@ msgstr ""
 "Mentor (Ilekroć ten stwór zaatakuje, umieść znacznik +1/+1 na wskazanym "
 "atakującym stworze o mniejszej sile.)"
 
-#: ../../ONC.rst:379
+#: ../../ONC.rst:437
 msgid ""
 "At the beginning of combat on your turn, create a 1/1 red Goblin creature "
 "token. That token gains haste until end of turn and attacks this combat if "
 "able."
 msgstr ""
-"Na początku potyczki w twojej turze, stwórz żeton czerwonego stwora Goblin 1/"
-"1. Ów żeton zyskuje pośpiech do końca tury i atakuje w tej potyczce jeśli "
+"Na początku potyczki w twojej turze, stwórz żeton czerwonego stwora Goblin "
+"1/1. Ów żeton zyskuje pośpiech do końca tury i atakuje w tej potyczce jeśli "
 "może."
 
-#: ../../ONC.rst:386
+#: ../../ONC.rst:444
 msgid ""
 ":mtgtip:`Loyal Apprentice<https://cards.scryfall.io/border_crop/front/b/d/"
-"bd8ca251-c297-4a1a-961d-381d2af71a8f.jpg?1674284074|https://scryfall.com/"
+"bd8ca251-c297-4a1a-961d-381d2af71a8f.jpg?1674772444|https://scryfall.com/"
 "card/onc/102/loyal-apprentice?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:383
+#: ../../ONC.rst:441
 msgid "Haste"
 msgstr "Pośpiech"
 
-#: ../../ONC.rst:385
+#: ../../ONC.rst:443
 msgid ""
 "Lieutenant — At the beginning of combat on your turn, if you control your "
 "commander, create a 1/1 colorless Thopter artifact creature token with "
@@ -1406,14 +1605,14 @@ msgstr ""
 "dowódcą, stwórz żeton bezkolorowego artefaktowego stwora Kopter 1/1 z "
 "lataniem. Ów żeton do końca tury zyskuje pośpiech."
 
-#: ../../ONC.rst:392
+#: ../../ONC.rst:450
 msgid ""
 ":mtgtip:`Siege-Gang Commander<https://cards.scryfall.io/border_crop/front/7/"
-"c/7cc10c19-6ea0-4491-b118-5c5cb9f7b036.jpg?1674284083|https://scryfall.com/"
+"c/7cc10c19-6ea0-4491-b118-5c5cb9f7b036.jpg?1674772454|https://scryfall.com/"
 "card/onc/103/siege-gang-commander?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:389
+#: ../../ONC.rst:447
 msgid ""
 "When Siege-Gang Commander enters the battlefield, create three 1/1 red "
 "Goblin creature tokens."
@@ -1421,7 +1620,7 @@ msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, stwórz trzy żetony czerwonego stwora "
 "Goblin 1/1."
 
-#: ../../ONC.rst:391
+#: ../../ONC.rst:449
 msgid ""
 "|mana_1|\\ |mana_r|, Sacrifice a Goblin: Siege-Gang Commander deals 2 damage "
 "to any target."
@@ -1429,39 +1628,39 @@ msgstr ""
 "|mana_1|\\ |mana_r|, poświęć Goblina: Ten stwór zadaje wskazanemu celowi 2 "
 "obrażenia."
 
-#: ../../ONC.rst:396
+#: ../../ONC.rst:454
 msgid ""
 ":mtgtip:`Beast Within<https://cards.scryfall.io/border_crop/front/c/6/"
-"c6a30538-8a7b-425e-a9ae-562e527151ec.jpg?1674284091|https://scryfall.com/"
+"c6a30538-8a7b-425e-a9ae-562e527151ec.jpg?1674772460|https://scryfall.com/"
 "card/onc/104/beast-within?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:395
+#: ../../ONC.rst:453
 msgid ""
 "Destroy target permanent. Its controller creates a 3/3 green Beast creature "
 "token."
 msgstr ""
 "Zniszcz wskazany byt. Jego władca tworzy żeton zielonego stwora Bestia 3/3."
 
-#: ../../ONC.rst:402
+#: ../../ONC.rst:460
 msgid ""
 ":mtgtip:`Blight Mamba<https://cards.scryfall.io/border_crop/"
-"front/1/1/11803603-eb22-4ec9-b308-5d73d17a6770.jpg?1674284099|https://"
+"front/1/1/11803603-eb22-4ec9-b308-5d73d17a6770.jpg?1674772463|https://"
 "scryfall.com/card/onc/105/blight-mamba?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:401
+#: ../../ONC.rst:459
 msgid "|mana_1|\\ |mana_g|: Regenerate Blight Mamba."
 msgstr "|mana_1|\\ |mana_g|: Zregeneruj tego stwora."
 
-#: ../../ONC.rst:406
+#: ../../ONC.rst:464
 msgid ""
 ":mtgtip:`Carrion Call<https://cards.scryfall.io/border_crop/"
-"front/2/2/225ff048-fb4b-4801-8db6-b1136a1935a7.jpg?1674284108|https://"
+"front/2/2/225ff048-fb4b-4801-8db6-b1136a1935a7.jpg?1674772469|https://"
 "scryfall.com/card/onc/106/carrion-call?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:405
+#: ../../ONC.rst:463
 msgid ""
 "Create two 1/1 green Phyrexian Insect creature tokens with infect. (They "
 "deal damage to creatures in the form of -1/-1 counters and to players in the "
@@ -1471,14 +1670,14 @@ msgstr ""
 "obrażenia stworom w postaci znaczników -1/-1, a graczom w postaci znaczników "
 "zatrucia.)"
 
-#: ../../ONC.rst:410
+#: ../../ONC.rst:468
 msgid ""
 ":mtgtip:`Cultivate<https://cards.scryfall.io/border_crop/front/f/6/f6eecb56-"
-"d5a3-4c2b-a479-dbec61da9fb4.jpg?1674284117|https://scryfall.com/card/onc/107/"
+"d5a3-4c2b-a479-dbec61da9fb4.jpg?1674772473|https://scryfall.com/card/onc/107/"
 "cultivate?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:409
+#: ../../ONC.rst:467
 msgid ""
 "Search your library for up to two basic land cards, reveal those cards, put "
 "one onto the battlefield tapped and the other into your hand, then shuffle."
@@ -1486,58 +1685,58 @@ msgstr ""
 "Wyszukaj w twojej bibliotece dwie karty bazowych lądów, ujawnij je i umieść "
 "jedną przekręconą na polu bitwy, a drugą w twojej ręce, po czym przetasuj."
 
-#: ../../ONC.rst:414
+#: ../../ONC.rst:472
 msgid ""
 ":mtgtip:`Evolution Sage<https://cards.scryfall.io/border_crop/front/f/a/"
-"faee8f20-87e8-49f5-8559-8e6032e63965.jpg?1674284126|https://scryfall.com/"
+"faee8f20-87e8-49f5-8559-8e6032e63965.jpg?1674772478|https://scryfall.com/"
 "card/onc/108/evolution-sage?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:413
+#: ../../ONC.rst:471
 msgid ""
 "Landfall — Whenever a land enters the battlefield under your control, "
 "proliferate. (Choose any number of permanents and/or players, then give each "
 "another counter of each kind already there.)"
 msgstr ""
-"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, rozpleń. ("
-"Wybierz dowolną liczbę bytów i/lub graczy, po czym daj każdemu z nich "
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, rozpleń. "
+"(Wybierz dowolną liczbę bytów i/lub graczy, po czym daj każdemu z nich "
 "kolejny znacznik każdego z już obecnych tam rodzajów.)"
 
-#: ../../ONC.rst:418
+#: ../../ONC.rst:476
 msgid ""
 ":mtgtip:`Mycosynth Fiend<https://cards.scryfall.io/border_crop/front/9/"
-"e/9e60dd79-cc2f-4f53-afe3-cd8ab91005cd.jpg?1674284135|https://scryfall.com/"
+"e/9e60dd79-cc2f-4f53-afe3-cd8ab91005cd.jpg?1674772483|https://scryfall.com/"
 "card/onc/109/mycosynth-fiend?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:417
+#: ../../ONC.rst:475
 msgid "Mycosynth Fiend gets +1/+1 for each poison counter your opponents have."
 msgstr ""
 "Ten stwór dostaje +1/+1 za każdy znacznik zatrucia u twoich przeciwników."
 
-#: ../../ONC.rst:424
+#: ../../ONC.rst:482
 msgid ""
 ":mtgtip:`Noxious Revival<https://cards.scryfall.io/border_crop/front/4/"
-"d/4db5b4cd-3809-4dfe-8b9a-2a25b02e814c.jpg?1674284143|https://scryfall.com/"
+"d/4db5b4cd-3809-4dfe-8b9a-2a25b02e814c.jpg?1674772488|https://scryfall.com/"
 "card/onc/110/noxious-revival?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:421
+#: ../../ONC.rst:479
 msgid "(|mana_gp| can be paid with either |mana_g| or 2 life.)"
 msgstr "(|mana_gp| można opłacić |mana_g| lub 2 życiami.)"
 
-#: ../../ONC.rst:423
+#: ../../ONC.rst:481
 msgid "Put target card from a graveyard on top of its owner's library."
 msgstr "Umieść wskazaną kartę z cmentarza na wierzchu biblioteki właściciela."
 
-#: ../../ONC.rst:430
+#: ../../ONC.rst:488
 msgid ""
 ":mtgtip:`Phyrexian Swarmlord<https://cards.scryfall.io/border_crop/"
-"front/7/1/715565be-0c97-4f06-8e89-2ea44c6007c9.jpg?1674284152|https://"
+"front/7/1/715565be-0c97-4f06-8e89-2ea44c6007c9.jpg?1674772493|https://"
 "scryfall.com/card/onc/111/phyrexian-swarmlord?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:429
+#: ../../ONC.rst:487
 msgid ""
 "At the beginning of your upkeep, create a 1/1 green Phyrexian Insect "
 "creature token with infect for each poison counter your opponents have."
@@ -1546,14 +1745,14 @@ msgstr ""
 "Phyrexiański Owad 1/1 z infekcją, ile łącznie żetonów zatrucia mają twoi "
 "przeciwnicy."
 
-#: ../../ONC.rst:434
+#: ../../ONC.rst:492
 msgid ""
 ":mtgtip:`Scavenging Ooze<https://cards.scryfall.io/border_crop/"
-"front/2/1/216b0731-c858-406e-803c-e46f5b66baa6.jpg?1674284160|https://"
+"front/2/1/216b0731-c858-406e-803c-e46f5b66baa6.jpg?1674772497|https://"
 "scryfall.com/card/onc/112/scavenging-ooze?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:433
+#: ../../ONC.rst:491
 msgid ""
 "|mana_g|: Exile target card from a graveyard. If it was a creature card, put "
 "a +1/+1 counter on Scavenging Ooze and you gain 1 life."
@@ -1561,34 +1760,26 @@ msgstr ""
 "|mana_g|: Wygnaj wskazaną kartę z cmentarza. Jeśli była to karta stwora, "
 "umieść znacznik +1/+1 na tym stworze i zyskaj 1 życie."
 
-#: ../../ONC.rst:440
+#: ../../ONC.rst:498
 msgid ""
 ":mtgtip:`Viridian Corrupter<https://cards.scryfall.io/border_crop/"
-"front/9/4/94a1eddc-e5e6-4a4a-a950-13c4bc301c54.jpg?1674284170|https://"
+"front/9/4/94a1eddc-e5e6-4a4a-a950-13c4bc301c54.jpg?1674772502|https://"
 "scryfall.com/card/onc/113/viridian-corrupter?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:439
+#: ../../ONC.rst:497
 msgid ""
 "When Viridian Corrupter enters the battlefield, destroy target artifact."
 msgstr "Kiedy ten byt wejdzie na pole bitwy, zniszcz wskazany artefakt."
 
-#: ../../ONC.rst:446
+#: ../../ONC.rst:504
 msgid ""
 ":mtgtip:`Adriana, Captain of the Guard<https://cards.scryfall.io/border_crop/"
-"front/1/a/1aa1e7ff-d0b9-441f-bcbb-4f0f89cab038.jpg?1674284179|https://"
+"front/1/a/1aa1e7ff-d0b9-441f-bcbb-4f0f89cab038.jpg?1674772508|https://"
 "scryfall.com/card/onc/114/adriana-captain-of-the-guard?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:443
-msgid ""
-"Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for "
-"each opponent you attacked this combat.)"
-msgstr ""
-"Bijatyka (Ilekroć ten stwór atakuje, do końca tury dostaje +1/+1 za każdego "
-"przeciwnika zaatakowanego przez ciebie w tej potyczce.)"
-
-#: ../../ONC.rst:445
+#: ../../ONC.rst:503
 msgid ""
 "Other creatures you control have melee. (If a creature has multiple "
 "instances of melee, each triggers separately.)"
@@ -1596,14 +1787,14 @@ msgstr ""
 "Inne stwory pod twoim władaniem mają bijatykę. (Jeśli stwór ma kilka "
 "instancji bijatyki, każda wyzwalana jest oddzielnie.)"
 
-#: ../../ONC.rst:450
+#: ../../ONC.rst:508
 msgid ""
 ":mtgtip:`Assemble the Legion<https://cards.scryfall.io/border_crop/"
-"front/6/1/61eb1823-429d-4219-9fc3-62a35f58ae31.jpg?1674284188|https://"
+"front/6/1/61eb1823-429d-4219-9fc3-62a35f58ae31.jpg?1674772511|https://"
 "scryfall.com/card/onc/115/assemble-the-legion?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:449
+#: ../../ONC.rst:507
 msgid ""
 "At the beginning of your upkeep, put a muster counter on Assemble the "
 "Legion. Then create a 1/1 red and white Soldier creature token with haste "
@@ -1613,37 +1804,33 @@ msgstr ""
 "Następnie stwórz czerwono-biały żeton stwora Piechur 1/1 z pośpiechem za "
 "każdy znacznik musztry na tym uroku."
 
-#: ../../ONC.rst:460
+#: ../../ONC.rst:518
 msgid ""
 ":mtgtip:`Boros Charm<https://cards.scryfall.io/border_crop/"
-"front/1/5/152458a4-bd3c-43d2-b74a-d2d5341325ba.jpg?1674284197|https://"
+"front/1/5/152458a4-bd3c-43d2-b74a-d2d5341325ba.jpg?1674772519|https://"
 "scryfall.com/card/onc/116/boros-charm?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:453 ../../ONC.rst:477 ../../ONC.rst:501
-msgid "Choose one —"
-msgstr "Wybierz jedno —"
-
-#: ../../ONC.rst:455
+#: ../../ONC.rst:513
 msgid "Boros Charm deals 4 damage to target player or planeswalker."
 msgstr "Ten czar zadaje 4 obrażenia wskazanemu graczowi lub wędrowcowi."
 
-#: ../../ONC.rst:457
+#: ../../ONC.rst:515
 msgid "Permanents you control gain indestructible until end of turn."
 msgstr "Permanenty pod twoim władaniem zyskują do końca tury niezniszczalność."
 
-#: ../../ONC.rst:459
+#: ../../ONC.rst:517
 msgid "Target creature gains double strike until end of turn."
 msgstr "Wskazany stwór do końca tury zyskuje podwójny cios."
 
-#: ../../ONC.rst:464
+#: ../../ONC.rst:522
 msgid ""
 ":mtgtip:`Culling Ritual<https://cards.scryfall.io/border_crop/"
-"front/1/7/171424dc-1aad-4bab-9507-f7dd19cb80ae.jpg?1674284206|https://"
+"front/1/7/171424dc-1aad-4bab-9507-f7dd19cb80ae.jpg?1674772520|https://"
 "scryfall.com/card/onc/117/culling-ritual?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:463
+#: ../../ONC.rst:521
 msgid ""
 "Destroy each nonland permanent with mana value 2 or less. Add |mana_b| or |"
 "mana_g| for each permanent destroyed this way."
@@ -1651,14 +1838,14 @@ msgstr ""
 "Zniszcz każdy nielądowy byt o skrócie many 2 lub mniejszym. Weź |mana_b| lub "
 "|mana_g| za każdy byt zniszczony w ten sposób."
 
-#: ../../ONC.rst:468
+#: ../../ONC.rst:526
 msgid ""
 ":mtgtip:`Heroic Reinforcements<https://cards.scryfall.io/border_crop/"
-"front/1/7/17eae975-b2f1-45e7-8128-da63054f1310.jpg?1674284214|https://"
+"front/1/7/17eae975-b2f1-45e7-8128-da63054f1310.jpg?1674772529|https://"
 "scryfall.com/card/onc/118/heroic-reinforcements?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:467
+#: ../../ONC.rst:525
 msgid ""
 "Create two 1/1 white Soldier creature tokens. Until end of turn, creatures "
 "you control get +1/+1 and gain haste. (They can attack and |tap| this turn.)"
@@ -1666,18 +1853,18 @@ msgstr ""
 "Stwórz dwa żetony białego stwora Piechur 1/1. Do końca tury stwory pod twoim "
 "władaniem dostają +1/+1 oraz pośpiech. (Mogą atakować i |tap| w tej turze.)"
 
-#: ../../ONC.rst:474
+#: ../../ONC.rst:532
 msgid ""
 ":mtgtip:`Jor Kadeen, the Prevailer<https://cards.scryfall.io/border_crop/"
-"front/b/8/b849e6a2-bb0b-48c9-8118-51d304275d59.jpg?1674284224|https://"
+"front/b/8/b849e6a2-bb0b-48c9-8118-51d304275d59.jpg?1674772531|https://"
 "scryfall.com/card/onc/119/jor-kadeen-the-prevailer?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:471
+#: ../../ONC.rst:529
 msgid "First strike"
 msgstr "Pierwszy cios"
 
-#: ../../ONC.rst:473
+#: ../../ONC.rst:531
 msgid ""
 "Metalcraft — Creatures you control get +3/+0 as long as you control three or "
 "more artifacts."
@@ -1685,131 +1872,132 @@ msgstr ""
 "Metalurgia — Stwory pod twoim władaniem dostają +3/+0 o ile władasz co "
 "najmniej trzema artefaktami."
 
-#: ../../ONC.rst:486
+#: ../../ONC.rst:544
 msgid ""
 ":mtgtip:`Merciless Eviction<https://cards.scryfall.io/border_crop/"
-"front/8/8/886542b7-55dc-4718-b4d9-fbde26260aad.jpg?1674284234|https://"
+"front/8/8/886542b7-55dc-4718-b4d9-fbde26260aad.jpg?1674772540|https://"
 "scryfall.com/card/onc/120/merciless-eviction?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:479
+#: ../../ONC.rst:537
 msgid "Exile all artifacts."
 msgstr "Wygnaj wszystkie artefakty."
 
-#: ../../ONC.rst:481
+#: ../../ONC.rst:539
 msgid "Exile all creatures."
 msgstr "Wygnaj wszystkie stwory."
 
-#: ../../ONC.rst:483
+#: ../../ONC.rst:541
 msgid "Exile all enchantments."
 msgstr "Wygnaj wszystkie uroki."
 
-#: ../../ONC.rst:485
+#: ../../ONC.rst:543
 msgid "Exile all planeswalkers."
 msgstr "Wygnaj wszystkich wędrowców."
 
-#: ../../ONC.rst:490
+#: ../../ONC.rst:548
 msgid ""
 ":mtgtip:`Moldervine Reclamation<https://cards.scryfall.io/border_crop/"
-"front/1/4/14e0b306-0973-49bc-907d-2f0f2c53b57f.jpg?1674284242|https://"
+"front/1/4/14e0b306-0973-49bc-907d-2f0f2c53b57f.jpg?1674772541|https://"
 "scryfall.com/card/onc/121/moldervine-reclamation?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:489
+#: ../../ONC.rst:547
 msgid "Whenever a creature you control dies, you gain 1 life and draw a card."
 msgstr ""
 "Ilekroć umrze stwór pod twoim władaniem, zyskaj 1 życie i dobierz kartę."
 
-#: ../../ONC.rst:494
+#: ../../ONC.rst:552
 msgid ""
 ":mtgtip:`Mortify<https://cards.scryfall.io/border_crop/front/b/e/"
-"be590aa9-4ea0-41c3-85b0-59c7b594235e.jpg?1674284250|https://scryfall.com/"
+"be590aa9-4ea0-41c3-85b0-59c7b594235e.jpg?1674772549|https://scryfall.com/"
 "card/onc/122/mortify?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:493
+#: ../../ONC.rst:551
 msgid "Destroy target creature or enchantment."
 msgstr "Zniszcz wskazanego stwora lub urok."
 
-#: ../../ONC.rst:498
+#: ../../ONC.rst:556
 msgid ""
 ":mtgtip:`Putrefy<https://cards.scryfall.io/border_crop/front/c/6/"
-"c69d4230-7ee6-4401-ba32-73c361a4bd87.jpg?1674284259|https://scryfall.com/"
+"c69d4230-7ee6-4401-ba32-73c361a4bd87.jpg?1674772551|https://scryfall.com/"
 "card/onc/123/putrefy?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:497
+#: ../../ONC.rst:555
 msgid "Destroy target artifact or creature. It can't be regenerated."
-msgstr "Zniszcz wskazany artefakt lub stwora. Nie może on zostać zregenerowany."
+msgstr ""
+"Zniszcz wskazany artefakt lub stwora. Nie może on zostać zregenerowany."
 
-#: ../../ONC.rst:506
+#: ../../ONC.rst:564
 msgid ""
 ":mtgtip:`Rip Apart<https://cards.scryfall.io/border_crop/front/e/d/ed3ae559-"
-"e7d8-42af-85e6-d8a937700e2b.jpg?1674284267|https://scryfall.com/card/onc/124/"
+"e7d8-42af-85e6-d8a937700e2b.jpg?1674772560|https://scryfall.com/card/onc/124/"
 "rip-apart?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:503
+#: ../../ONC.rst:561
 msgid "Rip Apart deals 3 damage to target creature or planeswalker."
 msgstr "Ten czar zadaje wskazanemu stworowi lub wędrowcowi 3 obrażenia."
 
-#: ../../ONC.rst:505
+#: ../../ONC.rst:563
 msgid "Destroy target artifact or enchantment."
 msgstr "Zniszcz wskazany artefakt lub urok."
 
-#: ../../ONC.rst:510
+#: ../../ONC.rst:568
 msgid ""
 ":mtgtip:`Arcane Signet<https://cards.scryfall.io/border_crop/front/e/c/"
-"ecedbcca-4d71-46ac-a8e5-a1cf8109f4b7.jpg?1674284276|https://scryfall.com/"
+"ecedbcca-4d71-46ac-a8e5-a1cf8109f4b7.jpg?1674772560|https://scryfall.com/"
 "card/onc/125/arcane-signet?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:509 ../../ONC.rst:523 ../../ONC.rst:667
+#: ../../ONC.rst:567 ../../ONC.rst:581 ../../ONC.rst:725
 msgid "|tap|: Add one mana of any color in your commander's color identity."
 msgstr "|tap|: Weź jedną manę w jednym z kolorów tożsamości twojego dowódcy."
 
-#: ../../ONC.rst:514
+#: ../../ONC.rst:572
 msgid ""
 ":mtgtip:`Boros Signet<https://cards.scryfall.io/border_crop/front/2/"
-"c/2c03c4c5-ee57-46a2-abdd-07d7dfe74fad.jpg?1674284285|https://scryfall.com/"
+"c/2c03c4c5-ee57-46a2-abdd-07d7dfe74fad.jpg?1674772570|https://scryfall.com/"
 "card/onc/126/boros-signet?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:513
+#: ../../ONC.rst:571
 msgid "|mana_1|, |tap|: Add |mana_r|\\ |mana_w|."
 msgstr "|mana_1|, |tap|: Weź |mana_r|\\ |mana_w|."
 
-#: ../../ONC.rst:520
+#: ../../ONC.rst:578
 msgid ""
 ":mtgtip:`Chromatic Lantern<https://cards.scryfall.io/border_crop/front/5/"
-"d/5df8ba21-7522-4163-a801-0e967c0ccf99.jpg?1674284294|https://scryfall.com/"
+"d/5df8ba21-7522-4163-a801-0e967c0ccf99.jpg?1674772573|https://scryfall.com/"
 "card/onc/127/chromatic-lantern?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:517
+#: ../../ONC.rst:575
 msgid "Lands you control have \"|tap|: Add one mana of any color.\""
 msgstr ""
 "Lądy pod twoim władaniem mają \"|tap|: Weź jedną manę dowolnego koloru.\""
 
-#: ../../ONC.rst:526
+#: ../../ONC.rst:584
 msgid ""
 ":mtgtip:`Commander's Sphere<https://cards.scryfall.io/border_crop/front/e/c/"
-"ec5fd106-30c2-4845-9678-e0bed7e35ced.jpg?1674284302|https://scryfall.com/"
+"ec5fd106-30c2-4845-9678-e0bed7e35ced.jpg?1674772580|https://scryfall.com/"
 "card/onc/128/commanders-sphere?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:525
+#: ../../ONC.rst:583
 msgid "Sacrifice Commander's Sphere: Draw a card."
 msgstr "Poświęć ten byt: Dobierz kartę."
 
-#: ../../ONC.rst:532
+#: ../../ONC.rst:590
 msgid ""
 ":mtgtip:`Contagion Clasp<https://cards.scryfall.io/border_crop/front/1/"
-"f/1f963550-22b8-412f-9f53-195815328961.jpg?1674284310|https://scryfall.com/"
+"f/1f963550-22b8-412f-9f53-195815328961.jpg?1674772584|https://scryfall.com/"
 "card/onc/129/contagion-clasp?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:529
+#: ../../ONC.rst:587
 msgid ""
 "When Contagion Clasp enters the battlefield, put a -1/-1 counter on target "
 "creature."
@@ -1817,7 +2005,7 @@ msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, umieść znacznik -1/-1 na wskazanym "
 "stworze."
 
-#: ../../ONC.rst:531 ../../ONC.rst:697
+#: ../../ONC.rst:589 ../../ONC.rst:755
 msgid ""
 "|mana_4|, |tap|: Proliferate. (Choose any number of permanents and/or "
 "players, then give each another counter of each kind already there.)"
@@ -1826,14 +2014,14 @@ msgstr ""
 "czym daj każdemu z nich kolejny znacznik każdego z już obecnych tam "
 "rodzajów.)"
 
-#: ../../ONC.rst:536
+#: ../../ONC.rst:594
 msgid ""
 ":mtgtip:`Fellwar Stone<https://cards.scryfall.io/border_crop/front/b/1/"
-"b1914459-b29f-45c3-8def-39d1790a31c3.jpg?1674284319|https://scryfall.com/"
+"b1914459-b29f-45c3-8def-39d1790a31c3.jpg?1674772590|https://scryfall.com/"
 "card/onc/130/fellwar-stone?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:535 ../../ONC.rst:671
+#: ../../ONC.rst:593 ../../ONC.rst:729
 msgid ""
 "|tap|: Add one mana of any color that a land an opponent controls could "
 "produce."
@@ -1841,25 +2029,25 @@ msgstr ""
 "|tap|: Weź jedną manę w jednym z kolorów możliwych do wydania przez ląd pod "
 "władaniem przeciwnika."
 
-#: ../../ONC.rst:540
+#: ../../ONC.rst:598
 msgid ""
 ":mtgtip:`Golgari Signet<https://cards.scryfall.io/border_crop/front/a/3/"
-"a31a1626-73b5-472e-a3ca-45b40b4378cd.jpg?1674284327|https://scryfall.com/"
+"a31a1626-73b5-472e-a3ca-45b40b4378cd.jpg?1674772595|https://scryfall.com/"
 "card/onc/131/golgari-signet?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:539
+#: ../../ONC.rst:597
 msgid "|mana_1|, |tap|: Add |mana_b|\\ |mana_g|."
 msgstr "|mana_1|, |tap|: Weź |mana_b|\\ |mana_g|."
 
-#: ../../ONC.rst:548
+#: ../../ONC.rst:606
 msgid ""
 ":mtgtip:`Grafted Exoskeleton<https://cards.scryfall.io/border_crop/front/d/9/"
-"d9218955-6604-49de-9153-6301d216e3bb.jpg?1674284336|https://scryfall.com/"
+"d9218955-6604-49de-9153-6301d216e3bb.jpg?1674772600|https://scryfall.com/"
 "card/onc/132/grafted-exoskeleton?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:543
+#: ../../ONC.rst:601
 msgid ""
 "Equipped creature gets +2/+2 and has infect. (It deals damage to creatures "
 "in the form of -1/-1 counters and to players in the form of poison counters.)"
@@ -1867,40 +2055,42 @@ msgstr ""
 "Wyposażony stwór dostaje +2/+2 i ma infekcję. (Zadaje obrażenia stworom w "
 "postaci znaczników -1/-1, a graczom w postaci znaczników zatrucia.)"
 
-#: ../../ONC.rst:545
+#: ../../ONC.rst:603
 msgid ""
 "Whenever Grafted Exoskeleton becomes unattached from a permanent, sacrifice "
 "that permanent."
 msgstr "Ilekroć ten artefakt zostanie odłączony od bytu, poświęć ów byt."
 
-#: ../../ONC.rst:547 ../../ONC.rst:619
+#: ../../ONC.rst:605 ../../ONC.rst:677
 msgid "Equip |mana_2|"
 msgstr "Wyposaż |mana_2|"
 
-#: ../../ONC.rst:554
+#: ../../ONC.rst:612
 msgid ""
 ":mtgtip:`Ichorclaw Myr<https://cards.scryfall.io/border_crop/"
-"front/0/6/06ad4974-d806-4417-883a-2e622e909a7b.jpg?1674284344|https://"
+"front/0/6/06ad4974-d806-4417-883a-2e622e909a7b.jpg?1674772604|https://"
 "scryfall.com/card/onc/133/ichorclaw-myr?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:553
+#: ../../ONC.rst:611
 msgid ""
 "Whenever Ichorclaw Myr becomes blocked, it gets +2/+2 until end of turn."
-msgstr "Ilekroć ten stwór zostanie zablokowany, dostaje on do końca tury +2/+2."
+msgstr ""
+"Ilekroć ten stwór zostanie zablokowany, dostaje on do końca tury +2/+2."
 
-#: ../../ONC.rst:560
+#: ../../ONC.rst:618
 msgid ""
 ":mtgtip:`Idol of Oblivion<https://cards.scryfall.io/border_crop/front/c/2/"
-"c29cbd42-cfad-4b8c-a70f-00c4225d2753.jpg?1674284353|https://scryfall.com/"
+"c29cbd42-cfad-4b8c-a70f-00c4225d2753.jpg?1674772609|https://scryfall.com/"
 "card/onc/134/idol-of-oblivion?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:557
+#: ../../ONC.rst:615
 msgid "|tap|: Draw a card. Activate only if you created a token this turn."
-msgstr "|tap|: Dobierz kartę. Aktywuj tylko jeśli stworzyłeś żeton w tej turze."
+msgstr ""
+"|tap|: Dobierz kartę. Aktywuj tylko jeśli stworzyłeś żeton w tej turze."
 
-#: ../../ONC.rst:559
+#: ../../ONC.rst:617
 msgid ""
 "|mana_8|, |tap|, Sacrifice Idol of Oblivion: Create a 10/10 colorless "
 "Eldrazi creature token."
@@ -1908,25 +2098,25 @@ msgstr ""
 "|mana_8|, |tap|, poświęć ten byt: Stwórz żeton bezkolorowego stwora Eldrazi "
 "10/10."
 
-#: ../../ONC.rst:566
+#: ../../ONC.rst:624
 msgid ""
 ":mtgtip:`Loxodon Warhammer<https://cards.scryfall.io/border_crop/"
-"front/7/2/728952a5-5f50-4ee6-a1ce-38d7e97023cb.jpg?1674284362|https://"
+"front/7/2/728952a5-5f50-4ee6-a1ce-38d7e97023cb.jpg?1674772614|https://"
 "scryfall.com/card/onc/135/loxodon-warhammer?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:563
+#: ../../ONC.rst:621
 msgid "Equipped creature gets +3/+0 and has trample and lifelink."
 msgstr "Wyposażony stwór dostaje +3/+0 i ma tratowanie oraz więź życia."
 
-#: ../../ONC.rst:572
+#: ../../ONC.rst:630
 msgid ""
 ":mtgtip:`Mask of Memory<https://cards.scryfall.io/border_crop/front/c/6/"
-"c6c4dffd-0ae9-493d-afa4-d1eb8bdba582.jpg?1674284371|https://scryfall.com/"
+"c6c4dffd-0ae9-493d-afa4-d1eb8bdba582.jpg?1674772614|https://scryfall.com/"
 "card/onc/136/mask-of-memory?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:569
+#: ../../ONC.rst:627
 msgid ""
 "Whenever equipped creature deals combat damage to a player, you may draw two "
 "cards. If you do, discard a card."
@@ -1934,7 +2124,7 @@ msgstr ""
 "Ilekroć wyposażony stwór zada graczowi obrażenia bojowe, możesz dobrać dwie "
 "karty. Jeśli tak zrobisz, odrzuć kartę."
 
-#: ../../ONC.rst:571
+#: ../../ONC.rst:629
 msgid ""
 "Equip |mana_1| (|mana_1|: Attach to target creature you control. Equip only "
 "as a sorcery.)"
@@ -1942,31 +2132,31 @@ msgstr ""
 "Wyposaż |mana_1| (|mana_1|: Dołącz do wskazanego stwora pod twoim władaniem. "
 "Aktywuj tylko jako obrzęd.)"
 
-#: ../../ONC.rst:578
+#: ../../ONC.rst:636
 msgid ""
 ":mtgtip:`Mind Stone<https://cards.scryfall.io/border_crop/front/c/b/cb3b2998-"
-"a7c6-4e6a-b467-71106feb6974.jpg?1674284379|https://scryfall.com/card/onc/137/"
+"a7c6-4e6a-b467-71106feb6974.jpg?1674772615|https://scryfall.com/card/onc/137/"
 "mind-stone?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:575 ../../ONC.rst:589 ../../ONC.rst:611 ../../ONC.rst:639
-#: ../../ONC.rst:695 ../../ONC.rst:701 ../../ONC.rst:709 ../../ONC.rst:717
-#: ../../ONC.rst:755 ../../ONC.rst:765 ../../ONC.rst:771
+#: ../../ONC.rst:633 ../../ONC.rst:647 ../../ONC.rst:669 ../../ONC.rst:697
+#: ../../ONC.rst:753 ../../ONC.rst:759 ../../ONC.rst:767 ../../ONC.rst:775
+#: ../../ONC.rst:813 ../../ONC.rst:823 ../../ONC.rst:829
 msgid "|tap|: Add |colorless|."
 msgstr "|tap|: Weź |colorless|."
 
-#: ../../ONC.rst:577
+#: ../../ONC.rst:635
 msgid "|mana_1|, |tap|, Sacrifice Mind Stone: Draw a card."
 msgstr "|mana_1|, |tap|, poświęć ten artefakt: Dobierz kartę."
 
-#: ../../ONC.rst:584
+#: ../../ONC.rst:642
 msgid ""
 ":mtgtip:`Myr Battlesphere<https://cards.scryfall.io/border_crop/front/b/c/"
-"bc47978f-de61-446b-a41b-aa101c6bd292.jpg?1674284387|https://scryfall.com/"
+"bc47978f-de61-446b-a41b-aa101c6bd292.jpg?1674772615|https://scryfall.com/"
 "card/onc/138/myr-battlesphere?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:581
+#: ../../ONC.rst:639
 msgid ""
 "When Myr Battlesphere enters the battlefield, create four 1/1 colorless Myr "
 "artifact creature tokens."
@@ -1974,7 +2164,7 @@ msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, stwórz cztery żetony bezkolorowego "
 "artefaktowego stwora Myr 1/1."
 
-#: ../../ONC.rst:583
+#: ../../ONC.rst:641
 msgid ""
 "Whenever Myr Battlesphere attacks, you may tap X untapped Myr you control. "
 "If you do, Myr Battlesphere gets +X/+0 until end of turn and deals X damage "
@@ -1984,32 +2174,32 @@ msgstr ""
 "władaniem. Jeśli tak zrobisz, ten stwór do końca tury dostaje +X/+0 i zadaje "
 "atakowanemu graczowi lub wędrowcowi X obrażeń."
 
-#: ../../ONC.rst:590
+#: ../../ONC.rst:648
 msgid ""
 ":mtgtip:`Plague Myr<https://cards.scryfall.io/border_crop/front/e/7/e74be86a-"
-"f52e-4537-8f88-ba52618428ee.jpg?1674284396|https://scryfall.com/card/onc/139/"
+"f52e-4537-8f88-ba52618428ee.jpg?1674772616|https://scryfall.com/card/onc/139/"
 "plague-myr?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:594
+#: ../../ONC.rst:652
 msgid ""
 ":mtgtip:`Sol Ring<https://cards.scryfall.io/border_crop/front/c/6/"
-"c6721419-70aa-4137-98d5-98ef17720c8e.jpg?1674284406|https://scryfall.com/"
+"c6721419-70aa-4137-98d5-98ef17720c8e.jpg?1674772619|https://scryfall.com/"
 "card/onc/140/sol-ring?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:593
+#: ../../ONC.rst:651
 msgid "|tap|: Add |colorless|\\ |colorless|."
 msgstr "|tap|: Weź |colorless|\\ |colorless|."
 
-#: ../../ONC.rst:600
+#: ../../ONC.rst:658
 msgid ""
 ":mtgtip:`Solemn Simulacrum<https://cards.scryfall.io/border_crop/"
-"front/3/0/30f89aaf-5d39-47e6-8a8e-b1338761580c.jpg?1674284415|https://"
+"front/3/0/30f89aaf-5d39-47e6-8a8e-b1338761580c.jpg?1674772624|https://"
 "scryfall.com/card/onc/141/solemn-simulacrum?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:597
+#: ../../ONC.rst:655
 msgid ""
 "When Solemn Simulacrum enters the battlefield, you may search your library "
 "for a basic land card, put that card onto the battlefield tapped, then "
@@ -2018,53 +2208,54 @@ msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
 "kartę bazowego lądu, umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
-#: ../../ONC.rst:599
+#: ../../ONC.rst:657
 msgid "When Solemn Simulacrum dies, you may draw a card."
 msgstr "Kiedy ten stwór umrze, możesz dobrać kartę."
 
-#: ../../ONC.rst:608
+#: ../../ONC.rst:666
 msgid ""
 ":mtgtip:`Soul-Guide Lantern<https://cards.scryfall.io/border_crop/front/b/9/"
-"b9b96782-5216-4914-bc39-7e9ac9a97a60.jpg?1674284429|https://scryfall.com/"
+"b9b96782-5216-4914-bc39-7e9ac9a97a60.jpg?1674772624|https://scryfall.com/"
 "card/onc/142/soul-guide-lantern?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:603
+#: ../../ONC.rst:661
 msgid ""
 "When Soul-Guide Lantern enters the battlefield, exile target card from a "
 "graveyard."
-msgstr "Kiedy ten byt wejdzie na pole bitwy, wygnaj wskazaną kartę z cmentarza."
+msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, wygnaj wskazaną kartę z cmentarza."
 
-#: ../../ONC.rst:605
+#: ../../ONC.rst:663
 msgid "|tap|, Sacrifice Soul-Guide Lantern: Exile each opponent's graveyard."
 msgstr "|tap|, poświęć ten artefakt: Wygnaj cmentarz każdego przeciwnika."
 
-#: ../../ONC.rst:607
+#: ../../ONC.rst:665
 msgid "|mana_1|, |tap|, Sacrifice Soul-Guide Lantern: Draw a card."
 msgstr "|mana_1|, |tap|, poświęć ten artefakt: Dobierz kartę."
 
-#: ../../ONC.rst:614
+#: ../../ONC.rst:672
 msgid ""
 ":mtgtip:`Talisman of Conviction<https://cards.scryfall.io/border_crop/"
-"front/1/d/1dbce82d-1bc0-43c4-b4f7-7d1166d664e0.jpg?1674284440|https://"
+"front/1/d/1dbce82d-1bc0-43c4-b4f7-7d1166d664e0.jpg?1674772624|https://"
 "scryfall.com/card/onc/143/talisman-of-conviction?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:613
+#: ../../ONC.rst:671
 msgid ""
 "|tap|: Add |mana_r| or |mana_w|. Talisman of Conviction deals 1 damage to "
 "you."
 msgstr ""
 "|tap|: Weź |mana_r| lub |mana_w|. Ten artefakt zadaje tobie 1 obrażenie."
 
-#: ../../ONC.rst:620
+#: ../../ONC.rst:678
 msgid ""
 ":mtgtip:`Trailblazer's Boots<https://cards.scryfall.io/border_crop/"
-"front/7/0/70e3ce5d-cfb1-4fe9-99b7-9e4f58f892ec.jpg?1674284450|https://"
+"front/7/0/70e3ce5d-cfb1-4fe9-99b7-9e4f58f892ec.jpg?1674772626|https://"
 "scryfall.com/card/onc/144/trailblazers-boots?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:617
+#: ../../ONC.rst:675
 msgid ""
 "Equipped creature has nonbasic landwalk. (It can't be blocked as long as "
 "defending player controls a nonbasic land.)"
@@ -2072,38 +2263,39 @@ msgstr ""
 "Wyposażony stwór ma podbój niebazowych lądów. (Nie może być blokowany o ile "
 "broniący się gracz włada niebazowym lądem.)"
 
-#: ../../ONC.rst:628
+#: ../../ONC.rst:686
 msgid ""
 ":mtgtip:`Bojuka Bog<https://cards.scryfall.io/border_crop/front/e/9/e91d3f87-"
-"be99-4f79-a493-52a7cac2d57b.jpg?1674284459|https://scryfall.com/card/onc/145/"
+"be99-4f79-a493-52a7cac2d57b.jpg?1674772627|https://scryfall.com/card/onc/145/"
 "bojuka-bog?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:623
+#: ../../ONC.rst:681
 msgid "Bojuka Bog enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
-#: ../../ONC.rst:625
+#: ../../ONC.rst:683
 msgid ""
 "When Bojuka Bog enters the battlefield, exile target player's graveyard."
-msgstr "Kiedy ten byt wejdzie na pole bitwy, wygnaj cmentarz wskazanego gracza."
+msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, wygnaj cmentarz wskazanego gracza."
 
-#: ../../ONC.rst:627
+#: ../../ONC.rst:685
 msgid "|tap|: Add |mana_b|."
 msgstr "|tap|: Weź |mana_b|."
 
-#: ../../ONC.rst:636
+#: ../../ONC.rst:694
 msgid ""
 ":mtgtip:`Boros Garrison<https://cards.scryfall.io/border_crop/"
-"front/8/4/84c32ed7-9bcb-41f4-b39e-9b21b295ac35.jpg?1674284469|https://"
+"front/8/4/84c32ed7-9bcb-41f4-b39e-9b21b295ac35.jpg?1674772629|https://"
 "scryfall.com/card/onc/146/boros-garrison?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:631
+#: ../../ONC.rst:689
 msgid "Boros Garrison enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
-#: ../../ONC.rst:633
+#: ../../ONC.rst:691
 msgid ""
 "When Boros Garrison enters the battlefield, return a land you control to its "
 "owner's hand."
@@ -2111,18 +2303,18 @@ msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, przywróć ląd pod twoim władaniem do "
 "ręki właściciela."
 
-#: ../../ONC.rst:635
+#: ../../ONC.rst:693
 msgid "|tap|: Add |mana_r|\\ |mana_w|."
 msgstr "|tap|: Weź |mana_r|\\ |mana_w|."
 
-#: ../../ONC.rst:642
+#: ../../ONC.rst:700
 msgid ""
 ":mtgtip:`Buried Ruin<https://cards.scryfall.io/border_crop/front/d/d/"
-"dd138d22-6381-495e-bc69-91b643708d38.jpg?1674284478|https://scryfall.com/"
+"dd138d22-6381-495e-bc69-91b643708d38.jpg?1674772633|https://scryfall.com/"
 "card/onc/147/buried-ruin?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:641
+#: ../../ONC.rst:699
 msgid ""
 "|mana_2|, |tap|, Sacrifice Buried Ruin: Return target artifact card from "
 "your graveyard to your hand."
@@ -2130,18 +2322,18 @@ msgstr ""
 "|mana_2|, |tap|, poświęć ten ląd: Przywróć wskazaną kartę artefaktu z "
 "twojego cmentarza do twojej ręki."
 
-#: ../../ONC.rst:648
+#: ../../ONC.rst:706
 msgid ""
 ":mtgtip:`Canopy Vista<https://cards.scryfall.io/border_crop/front/c/a/"
-"ca0a8be8-5d1b-43f6-aeb8-4c7715fa0ad3.jpg?1674284488|https://scryfall.com/"
+"ca0a8be8-5d1b-43f6-aeb8-4c7715fa0ad3.jpg?1674772635|https://scryfall.com/"
 "card/onc/148/canopy-vista?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:645
+#: ../../ONC.rst:703
 msgid "(|tap|: Add |mana_g| or |mana_w|.)"
 msgstr "(|tap|: Weź |mana_g| lub |mana_w|.)"
 
-#: ../../ONC.rst:647
+#: ../../ONC.rst:705
 msgid ""
 "Canopy Vista enters the battlefield tapped unless you control two or more "
 "basic lands."
@@ -2149,23 +2341,23 @@ msgstr ""
 "Ten ląd wchodzi przekręcony na pole bitwy, chyba że władasz co najmniej "
 "dwoma bazowymi lądami."
 
-#: ../../ONC.rst:656
+#: ../../ONC.rst:714
 msgid ""
 ":mtgtip:`Castle Ardenvale<https://cards.scryfall.io/border_crop/front/c/b/"
-"cbfea260-697d-46e7-800d-12b26558eb13.jpg?1674284498|https://scryfall.com/"
+"cbfea260-697d-46e7-800d-12b26558eb13.jpg?1674772636|https://scryfall.com/"
 "card/onc/149/castle-ardenvale?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:651
+#: ../../ONC.rst:709
 msgid ""
 "Castle Ardenvale enters the battlefield tapped unless you control a Plains."
 msgstr "Ten ląd wchodzi na pole bitwy przekręcony, chyba że władasz Równiną."
 
-#: ../../ONC.rst:653 ../../ONC.rst:743 ../../ONC.rst:817
+#: ../../ONC.rst:711 ../../ONC.rst:801 ../../ONC.rst:875
 msgid "|tap|: Add |mana_w|."
 msgstr "|tap|: Weź |mana_w|."
 
-#: ../../ONC.rst:655
+#: ../../ONC.rst:713
 msgid ""
 "|mana_2|\\ |mana_w|\\ |mana_w|, |tap|: Create a 1/1 white Human creature "
 "token."
@@ -2173,23 +2365,23 @@ msgstr ""
 "|mana_2|\\ |mana_w|\\ |mana_w|, |tap|: Stwórz żeton białego stwora Człowiek "
 "1/1."
 
-#: ../../ONC.rst:664
+#: ../../ONC.rst:722
 msgid ""
 ":mtgtip:`Castle Embereth<https://cards.scryfall.io/border_crop/front/b/a/"
-"ba88da8e-6405-4c02-9c98-a4db6e6194f5.jpg?1674284508|https://scryfall.com/"
+"ba88da8e-6405-4c02-9c98-a4db6e6194f5.jpg?1674772637|https://scryfall.com/"
 "card/onc/150/castle-embereth?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:659
+#: ../../ONC.rst:717
 msgid ""
 "Castle Embereth enters the battlefield tapped unless you control a Mountain."
 msgstr "Ten ląd wchodzi na pole bitwy przekręcony, chyba że władasz Górą."
 
-#: ../../ONC.rst:661 ../../ONC.rst:677
+#: ../../ONC.rst:719 ../../ONC.rst:735
 msgid "|tap|: Add |mana_r|."
 msgstr "|tap|: Weź |mana_r|."
 
-#: ../../ONC.rst:663
+#: ../../ONC.rst:721
 msgid ""
 "|mana_1|\\ |mana_r|\\ |mana_r|, |tap|: Creatures you control get +1/+0 until "
 "end of turn."
@@ -2197,43 +2389,43 @@ msgstr ""
 "|mana_1|\\ |mana_r|\\ |mana_r|, |tap|: Stwory pod twoim władaniem dostają do "
 "końca tury +1/+0."
 
-#: ../../ONC.rst:668
+#: ../../ONC.rst:726
 msgid ""
 ":mtgtip:`Command Tower<https://cards.scryfall.io/border_crop/"
-"front/5/8/58109bb0-c8cc-4043-993e-d166581fb316.jpg?1674284517|https://"
+"front/5/8/58109bb0-c8cc-4043-993e-d166581fb316.jpg?1674772638|https://"
 "scryfall.com/card/onc/151/command-tower?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:672
+#: ../../ONC.rst:730
 msgid ""
 ":mtgtip:`Exotic Orchard<https://cards.scryfall.io/border_crop/front/5/"
-"a/5ac74c39-c623-4801-b552-e5f6a64dbf2f.jpg?1674284528|https://scryfall.com/"
+"a/5ac74c39-c623-4801-b552-e5f6a64dbf2f.jpg?1674772639|https://scryfall.com/"
 "card/onc/152/exotic-orchard?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:680
+#: ../../ONC.rst:738
 msgid ""
 ":mtgtip:`Forgotten Cave<https://cards.scryfall.io/border_crop/front/e/5/"
-"e5e94c0a-44b3-47b4-a6d5-a7aeac381f0b.jpg?1674284538|https://scryfall.com/"
+"e5e94c0a-44b3-47b4-a6d5-a7aeac381f0b.jpg?1674772643|https://scryfall.com/"
 "card/onc/153/forgotten-cave?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:675
+#: ../../ONC.rst:733
 msgid "Forgotten Cave enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
-#: ../../ONC.rst:679
+#: ../../ONC.rst:737
 msgid "Cycling |mana_r| (|mana_r|, Discard this card: Draw a card.)"
 msgstr "Recykling |mana_r| (|mana_r|, odrzuć tę kartę: Dobierz kartę.)"
 
-#: ../../ONC.rst:686
+#: ../../ONC.rst:744
 msgid ""
 ":mtgtip:`Fortified Village<https://cards.scryfall.io/border_crop/front/a/c/"
-"ac54bda0-0ad4-4e21-b766-45c1a70bbe52.jpg?1674284549|https://scryfall.com/"
+"ac54bda0-0ad4-4e21-b766-45c1a70bbe52.jpg?1674772644|https://scryfall.com/"
 "card/onc/154/fortified-village?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:683
+#: ../../ONC.rst:741
 msgid ""
 "As Fortified Village enters the battlefield, you may reveal a Forest or "
 "Plains card from your hand. If you don't, Fortified Village enters the "
@@ -2243,18 +2435,18 @@ msgstr ""
 "lub Równiny. Jeśli tak nie zrobisz, ten byt wchodzi przekręcony na pole "
 "bitwy."
 
-#: ../../ONC.rst:685 ../../ONC.rst:789
+#: ../../ONC.rst:743 ../../ONC.rst:847
 msgid "|tap|: Add |mana_g| or |mana_w|."
 msgstr "|tap|: Weź |mana_g| lub |mana_w|."
 
-#: ../../ONC.rst:692
+#: ../../ONC.rst:750
 msgid ""
 ":mtgtip:`Furycalm Snarl<https://cards.scryfall.io/border_crop/"
-"front/6/3/6371dec1-5c44-4ba7-a29e-222b758d4709.jpg?1674284559|https://"
+"front/6/3/6371dec1-5c44-4ba7-a29e-222b758d4709.jpg?1674772646|https://"
 "scryfall.com/card/onc/155/furycalm-snarl?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:689
+#: ../../ONC.rst:747
 msgid ""
 "As Furycalm Snarl enters the battlefield, you may reveal a Mountain or "
 "Plains card from your hand. If you don't, Furycalm Snarl enters the "
@@ -2263,25 +2455,25 @@ msgstr ""
 "Przy wejściu tego bytu na pole bitwy możesz ujawnić z ręki kartę Góry lub "
 "Równiny. Jeśli tego nie zrobisz, wchodzi on przekręcony na pole bitwy."
 
-#: ../../ONC.rst:691 ../../ONC.rst:809
+#: ../../ONC.rst:749 ../../ONC.rst:867
 msgid "|tap|: Add |mana_r| or |mana_w|."
 msgstr "|tap|: Weź |mana_r| lub |mana_w|."
 
-#: ../../ONC.rst:698
+#: ../../ONC.rst:756
 msgid ""
 ":mtgtip:`Karn's Bastion<https://cards.scryfall.io/border_crop/"
-"front/7/6/760db1b6-bd2c-4aec-a033-95313c25c962.jpg?1674284568|https://"
+"front/7/6/760db1b6-bd2c-4aec-a033-95313c25c962.jpg?1674772647|https://"
 "scryfall.com/card/onc/156/karns-bastion?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:704
+#: ../../ONC.rst:762
 msgid ""
 ":mtgtip:`Kher Keep<https://cards.scryfall.io/border_crop/front/e/1/"
-"e1e671e7-0e21-472e-9040-e52309c0c760.jpg?1674284577|https://scryfall.com/"
+"e1e671e7-0e21-472e-9040-e52309c0c760.jpg?1674772648|https://scryfall.com/"
 "card/onc/157/kher-keep?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:703
+#: ../../ONC.rst:761
 msgid ""
 "|mana_1|\\ |mana_r|, |tap|: Create a 0/1 red Kobold creature token named "
 "Kobolds of Kher Keep."
@@ -2289,18 +2481,18 @@ msgstr ""
 "|mana_1|\\ |mana_r|, |tap|: Stwórz żeton czerwonego stwora Kobold 0/1 o "
 "nazwie Kobolds of Kher Keep."
 
-#: ../../ONC.rst:712
+#: ../../ONC.rst:770
 msgid ""
 ":mtgtip:`Krosan Verge<https://cards.scryfall.io/border_crop/"
-"front/0/8/083fd5cb-0a26-4549-b054-3148d92e0ce9.jpg?1674284586|https://"
+"front/0/8/083fd5cb-0a26-4549-b054-3148d92e0ce9.jpg?1674772649|https://"
 "scryfall.com/card/onc/158/krosan-verge?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:707
+#: ../../ONC.rst:765
 msgid "Krosan Verge enters the battlefield tapped."
 msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
-#: ../../ONC.rst:711
+#: ../../ONC.rst:769
 msgid ""
 "|mana_2|, |tap|, Sacrifice Krosan Verge: Search your library for a Forest "
 "card and a Plains card, put them onto the battlefield tapped, then shuffle."
@@ -2308,18 +2500,18 @@ msgstr ""
 "|mana_2|, |tap|, poświęć ten ląd: Wyszukaj w twojej bibliotece kartę Lasu i "
 "kartę Równiny, umieść je przekręcone na polu bitwy, po czym przetasuj."
 
-#: ../../ONC.rst:720
+#: ../../ONC.rst:778
 msgid ""
 ":mtgtip:`Myriad Landscape<https://cards.scryfall.io/border_crop/"
-"front/2/3/23d33c50-2f61-4183-b64c-25d76121d795.jpg?1674284596|https://"
+"front/2/3/23d33c50-2f61-4183-b64c-25d76121d795.jpg?1674772653|https://"
 "scryfall.com/card/onc/159/myriad-landscape?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:715
+#: ../../ONC.rst:773
 msgid "Myriad Landscape enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
-#: ../../ONC.rst:719
+#: ../../ONC.rst:777
 msgid ""
 "|mana_2|, |tap|, Sacrifice Myriad Landscape: Search your library for up to "
 "two basic land cards that share a land type, put them onto the battlefield "
@@ -2329,14 +2521,14 @@ msgstr ""
 "dwie karty bazowych lądów mających wspólny typ lądu, umieść je przekręcone "
 "na polu bitwy, po czym przetasuj."
 
-#: ../../ONC.rst:726
+#: ../../ONC.rst:784
 msgid ""
 ":mtgtip:`Necroblossom Snarl<https://cards.scryfall.io/border_crop/front/a/c/"
-"accbaeaf-f6c4-4588-8099-ef91e69a5555.jpg?1674284605|https://scryfall.com/"
+"accbaeaf-f6c4-4588-8099-ef91e69a5555.jpg?1674772653|https://scryfall.com/"
 "card/onc/160/necroblossom-snarl?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:723
+#: ../../ONC.rst:781
 msgid ""
 "As Necroblossom Snarl enters the battlefield, you may reveal a Swamp or "
 "Forest card from your hand. If you don't, Necroblossom Snarl enters the "
@@ -2345,22 +2537,22 @@ msgstr ""
 "Przy wejściu tego bytu na pole bitwy możesz ujawnić z ręki kartę Bagna lub "
 "Lasu. Jeśli tego nie zrobisz, wchodzi on przekręcony na pole bitwy."
 
-#: ../../ONC.rst:725 ../../ONC.rst:781
+#: ../../ONC.rst:783 ../../ONC.rst:839
 msgid "|tap|: Add |mana_b| or |mana_g|."
 msgstr "|tap|: Weź |mana_b| lub |mana_g|."
 
-#: ../../ONC.rst:732
+#: ../../ONC.rst:790
 msgid ""
 ":mtgtip:`Path of Ancestry<https://cards.scryfall.io/border_crop/front/a/d/"
-"ad715137-97d0-4fb3-8fa6-09c6d6a72a7d.jpg?1674284614|https://scryfall.com/"
+"ad715137-97d0-4fb3-8fa6-09c6d6a72a7d.jpg?1674772657|https://scryfall.com/"
 "card/onc/161/path-of-ancestry?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:729
+#: ../../ONC.rst:787
 msgid "Path of Ancestry enters the battlefield tapped."
 msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
-#: ../../ONC.rst:731
+#: ../../ONC.rst:789
 msgid ""
 "|tap|: Add one mana of any color in your commander's color identity. When "
 "that mana is spent to cast a creature spell that shares a creature type with "
@@ -2372,44 +2564,44 @@ msgstr ""
 "z twoim dowódcą, wróż 1. (Spójrz na wierzchnią kartę twojej biblioteki. "
 "Możesz umieścić ową kartę na spodzie twojej biblioteki.)"
 
-#: ../../ONC.rst:738
+#: ../../ONC.rst:796
 msgid ""
 ":mtgtip:`Sandsteppe Citadel<https://cards.scryfall.io/border_crop/front/f/f/"
-"ff18cccb-863f-41ad-94b9-2cf643cfe2af.jpg?1674284623|https://scryfall.com/"
+"ff18cccb-863f-41ad-94b9-2cf643cfe2af.jpg?1674772657|https://scryfall.com/"
 "card/onc/162/sandsteppe-citadel?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:735
+#: ../../ONC.rst:793
 msgid "Sandsteppe Citadel enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
-#: ../../ONC.rst:737
+#: ../../ONC.rst:795
 msgid "|tap|: Add |mana_w|, |mana_b|, or |mana_g|."
 msgstr "|tap|: Weź |mana_w|, |mana_b|, lub |mana_g|."
 
-#: ../../ONC.rst:746
+#: ../../ONC.rst:804
 msgid ""
 ":mtgtip:`Secluded Steppe<https://cards.scryfall.io/border_crop/"
-"front/9/8/98713e25-80c0-40c7-bb70-df7cd0fd0687.jpg?1674284633|https://"
+"front/9/8/98713e25-80c0-40c7-bb70-df7cd0fd0687.jpg?1674772658|https://"
 "scryfall.com/card/onc/163/secluded-steppe?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:741
+#: ../../ONC.rst:799
 msgid "Secluded Steppe enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
-#: ../../ONC.rst:745
+#: ../../ONC.rst:803
 msgid "Cycling |mana_w| (|mana_w|, Discard this card: Draw a card.)"
 msgstr "Recykling |mana_w| (|mana_w|, odrzuć tę kartę: Dobierz kartę.)"
 
-#: ../../ONC.rst:752
+#: ../../ONC.rst:810
 msgid ""
 ":mtgtip:`Shineshadow Snarl<https://cards.scryfall.io/border_crop/front/d/6/"
-"d661c65d-eab3-47d7-8ca7-a9ddda2f6406.jpg?1674284643|https://scryfall.com/"
+"d661c65d-eab3-47d7-8ca7-a9ddda2f6406.jpg?1674772659|https://scryfall.com/"
 "card/onc/164/shineshadow-snarl?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:749
+#: ../../ONC.rst:807
 msgid ""
 "As Shineshadow Snarl enters the battlefield, you may reveal a Plains or "
 "Swamp card from your hand. If you don't, Shineshadow Snarl enters the "
@@ -2418,18 +2610,18 @@ msgstr ""
 "Przy wejściu tego bytu na pole bitwy możesz ujawnić z ręki kartę Równiny lub "
 "Bagna. Jeśli tego nie zrobisz, wchodzi on przekręcony na pole bitwy."
 
-#: ../../ONC.rst:751 ../../ONC.rst:797
+#: ../../ONC.rst:809 ../../ONC.rst:855
 msgid "|tap|: Add |mana_w| or |mana_b|."
 msgstr "|tap|: Weź |mana_w| lub |mana_b|."
 
-#: ../../ONC.rst:758
+#: ../../ONC.rst:816
 msgid ""
 ":mtgtip:`Slayers' Stronghold<https://cards.scryfall.io/border_crop/front/f/a/"
-"faef61e1-9abe-4e80-9c65-2a29ba0db5ab.jpg?1674284652|https://scryfall.com/"
+"faef61e1-9abe-4e80-9c65-2a29ba0db5ab.jpg?1674772662|https://scryfall.com/"
 "card/onc/165/slayers-stronghold?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:757
+#: ../../ONC.rst:815
 msgid ""
 "|mana_r|\\ |mana_w|, |tap|: Target creature gets +2/+0 and gains vigilance "
 "and haste until end of turn."
@@ -2437,96 +2629,96 @@ msgstr ""
 "|mana_r|\\ |mana_w|, |tap|: Wskazany stwór do końca tury dostaje +2/+0, "
 "czujność i pośpiech."
 
-#: ../../ONC.rst:762
+#: ../../ONC.rst:820
 msgid ""
 ":mtgtip:`Sungrass Prairie<https://cards.scryfall.io/border_crop/"
-"front/5/2/5241517e-164a-4e34-98a9-c3a9851b5e5b.jpg?1674341235|https://"
+"front/5/2/5241517e-164a-4e34-98a9-c3a9851b5e5b.jpg?1674772663|https://"
 "scryfall.com/card/onc/166/sungrass-prairie?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:761
+#: ../../ONC.rst:819
 msgid "|mana_1|, |tap|: Add |mana_g|\\ |mana_w|."
 msgstr "|mana_1|, |tap|: Weź |mana_g|\\ |mana_w|."
 
-#: ../../ONC.rst:768
+#: ../../ONC.rst:826
 msgid ""
 ":mtgtip:`Tainted Field<https://cards.scryfall.io/border_crop/front/f/7/"
-"f7217ee0-622b-49b2-8539-135a8389141e.jpg?1674284671|https://scryfall.com/"
+"f7217ee0-622b-49b2-8539-135a8389141e.jpg?1674772667|https://scryfall.com/"
 "card/onc/167/tainted-field?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:767
+#: ../../ONC.rst:825
 msgid "|tap|: Add |mana_w| or |mana_b|. Activate only if you control a Swamp."
 msgstr ""
 "|tap|: Weź |mana_w| lub |mana_b|. Możesz aktywować tylko jeśli władasz "
 "Bagnem."
 
-#: ../../ONC.rst:774
+#: ../../ONC.rst:832
 msgid ""
 ":mtgtip:`Tainted Wood<https://cards.scryfall.io/border_crop/"
-"front/3/7/3723ae52-dfc2-4547-bc32-d9f88bcf4846.jpg?1674284679|https://"
+"front/3/7/3723ae52-dfc2-4547-bc32-d9f88bcf4846.jpg?1674772667|https://"
 "scryfall.com/card/onc/168/tainted-wood?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:773
+#: ../../ONC.rst:831
 msgid "|tap|: Add |mana_b| or |mana_g|. Activate only if you control a Swamp."
 msgstr ""
 "|tap|: Weź |mana_b| lub |mana_g|. Możesz aktywować tylko jeśli władasz "
 "Bagnem."
 
-#: ../../ONC.rst:782
+#: ../../ONC.rst:840
 msgid ""
 ":mtgtip:`Temple of Malady<https://cards.scryfall.io/border_crop/front/6/"
-"c/6c8172a8-6d79-456c-9245-327e2370b2cd.jpg?1674284690|https://scryfall.com/"
+"c/6c8172a8-6d79-456c-9245-327e2370b2cd.jpg?1674772668|https://scryfall.com/"
 "card/onc/169/temple-of-malady?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:777
+#: ../../ONC.rst:835
 msgid "Temple of Malady enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
-#: ../../ONC.rst:779
+#: ../../ONC.rst:837
 msgid "When Temple of Malady enters the battlefield, scry 1."
 msgstr "Kiedy ten byt wejdzie na pole bitwy, wróż 1."
 
-#: ../../ONC.rst:790
+#: ../../ONC.rst:848
 msgid ""
 ":mtgtip:`Temple of Plenty<https://cards.scryfall.io/border_crop/"
-"front/7/9/791ebd6e-54e6-4b1d-b9a0-b1918b968b80.jpg?1674284699|https://"
+"front/7/9/791ebd6e-54e6-4b1d-b9a0-b1918b968b80.jpg?1674772671|https://"
 "scryfall.com/card/onc/170/temple-of-plenty?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:785
+#: ../../ONC.rst:843
 msgid "Temple of Plenty enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
-#: ../../ONC.rst:787
+#: ../../ONC.rst:845
 msgid "When Temple of Plenty enters the battlefield, scry 1."
 msgstr "Kiedy ten byt wejdzie na pole bitwy, wróż 1."
 
-#: ../../ONC.rst:798
+#: ../../ONC.rst:856
 msgid ""
 ":mtgtip:`Temple of Silence<https://cards.scryfall.io/border_crop/front/f/b/"
-"fbf1b2c3-88ee-4b9b-b589-aa9cd9236117.jpg?1674284709|https://scryfall.com/"
+"fbf1b2c3-88ee-4b9b-b589-aa9cd9236117.jpg?1674772673|https://scryfall.com/"
 "card/onc/171/temple-of-silence?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:793
+#: ../../ONC.rst:851
 msgid "Temple of Silence enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
-#: ../../ONC.rst:795
+#: ../../ONC.rst:853
 msgid "When Temple of Silence enters the battlefield, scry 1."
 msgstr "Kiedy ten byt wejdzie na pole bitwy, wróż 1."
 
-#: ../../ONC.rst:802
+#: ../../ONC.rst:860
 msgid ""
 ":mtgtip:`Temple of the False God<https://cards.scryfall.io/border_crop/"
-"front/2/2/22065361-26c5-4c5f-8b79-638d9116493a.jpg?1674284719|https://"
+"front/2/2/22065361-26c5-4c5f-8b79-638d9116493a.jpg?1674772673|https://"
 "scryfall.com/card/onc/172/temple-of-the-false-god?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:801
+#: ../../ONC.rst:859
 msgid ""
 "|tap|: Add |colorless|\\ |colorless|. Activate only if you control five or "
 "more lands."
@@ -2534,29 +2726,29 @@ msgstr ""
 "|tap|: Weź |colorless|\\ |colorless|. Możesz aktywować tylko jeśli władasz "
 "co najmniej pięcioma lądami."
 
-#: ../../ONC.rst:810
+#: ../../ONC.rst:868
 msgid ""
 ":mtgtip:`Temple of Triumph<https://cards.scryfall.io/border_crop/front/f/3/"
-"f39ed855-ec59-422e-931c-0562a8f9a28b.jpg?1674284729|https://scryfall.com/"
+"f39ed855-ec59-422e-931c-0562a8f9a28b.jpg?1674772677|https://scryfall.com/"
 "card/onc/173/temple-of-triumph?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:805
+#: ../../ONC.rst:863
 msgid "Temple of Triumph enters the battlefield tapped."
 msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
-#: ../../ONC.rst:807
+#: ../../ONC.rst:865
 msgid "When Temple of Triumph enters the battlefield, scry 1."
 msgstr "Kiedy ten byt wejdzie na pole bitwy, wróż 1."
 
-#: ../../ONC.rst:819
+#: ../../ONC.rst:877
 msgid ""
 ":mtgtip:`Windbrisk Heights<https://cards.scryfall.io/border_crop/"
-"front/8/4/845ea0c2-c115-4fe5-a945-6ae5e0f7d722.jpg?1674284738|https://"
+"front/8/4/845ea0c2-c115-4fe5-a945-6ae5e0f7d722.jpg?1674772677|https://"
 "scryfall.com/card/onc/174/windbrisk-heights?utm_source=api>`"
 msgstr ""
 
-#: ../../ONC.rst:813
+#: ../../ONC.rst:871
 msgid ""
 "Hideaway 4 (When this land enters the battlefield, look at the top four "
 "cards of your library, exile one face down, then put the rest on the bottom "
@@ -2566,11 +2758,11 @@ msgstr ""
 "karty twojej biblioteki, wygnaj jedną zakrytą, po czym umieść pozostałe "
 "losowo na spodzie.)"
 
-#: ../../ONC.rst:815
+#: ../../ONC.rst:873
 msgid "Windbrisk Heights enters the battlefield tapped."
 msgstr "Ten byt wchodzi przekręcony na pole bitwy."
 
-#: ../../ONC.rst:819
+#: ../../ONC.rst:877
 msgid ""
 "|mana_w|, |tap|: You may play the exiled card without paying its mana cost "
 "if you attacked with three or more creatures this turn."
