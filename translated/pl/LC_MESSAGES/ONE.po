@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG po polsku 2022.12\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-27 09:29+0100\n"
-"PO-Revision-Date: 2023-01-27 12:50+0000\n"
+"PO-Revision-Date: 2023-01-27 21:28+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/one/pl/>\n"
 "Language: pl\n"
@@ -533,6 +533,9 @@ msgid ""
 "Corrupted — Whenever Incisor Glider attacks, if an opponent has three or "
 "more poison counters, creatures you control get +1/+1 until end of turn."
 msgstr ""
+"Zbrukanie — Ilekroć niniejszy zaatakuje, jeśli przeciwnik ma co najmniej "
+"trzy znaczniki zatrucia, stwory pod twoim władaniem do końca tury dostają +1/"
+"+1."
 
 #: ../../ONE.rst:118
 msgid ""
@@ -590,6 +593,9 @@ msgid ""
 "Whenever Kemba, Kha Enduring or another Cat enters the battlefield under "
 "your control, attach up to one target Equipment you control to that creature."
 msgstr ""
+"Ilekroć ten byt lub inny Kot wejdzie na pole bitwy pod twoim władaniem, "
+"dołącz co najwyżej jedno wskazane Wyposażenie pod twoim władaniem do owego "
+"stwora."
 
 #: ../../ONE.rst:137
 msgid "Equipped creatures you control get +1/+1."
@@ -597,7 +603,7 @@ msgstr "Wyposażone stwory pod twoim władaniem dostają +1/+1."
 
 #: ../../ONE.rst:139
 msgid "|mana_3|\\ |mana_w|\\ |mana_w|: Create a 2/2 white Cat creature token."
-msgstr ""
+msgstr "|mana_3|\\ |mana_w|\\ |mana_w|: Stwórz żeton białego stwora Kot 2/2."
 
 #: ../../ONE.rst:146
 msgid ""
@@ -616,7 +622,7 @@ msgstr ""
 
 #: ../../ONE.rst:145
 msgid "As long as Leonin Lightbringer is equipped, it gets +1/+1."
-msgstr ""
+msgstr "O ile niniejszy jest wyposażony, dostaje +1/+1."
 
 #: ../../ONE.rst:152
 msgid ""
@@ -634,6 +640,8 @@ msgid ""
 "Whenever another artifact enters the battlefield under your control, "
 "Mandible Justiciar gets +1/+1 until end of turn."
 msgstr ""
+"Ilekroć inny artefakt wejdzie na pole bitwy pod twoim władaniem, niniejszy "
+"do końca tury dostaje +1/+1."
 
 #: ../../ONE.rst:160
 msgid ""
