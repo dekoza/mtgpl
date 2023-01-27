@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG po polsku 2022.12\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-27 22:24+0100\n"
-"PO-Revision-Date: 2023-01-27 21:28+0000\n"
+"PO-Revision-Date: 2023-01-27 21:58+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/one/pl/>\n"
 "Language: pl\n"
@@ -288,6 +288,9 @@ msgid ""
 "an opponent controls with mana value 3 or less until Annex Sentry leaves the "
 "battlefield."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, wygnaj wskazany artefakt lub stwora pod "
+"władaniem przeciwnika o skrócie many 3 lub mniejszym do czasu opuszczenia "
+"pola bitwy przez niniejszy."
 
 #: ../../ONE.rst:26
 msgid ""
@@ -377,10 +380,6 @@ msgid ""
 msgstr ""
 
 #: ../../ONE.rst:49
-#, fuzzy
-#| msgid ""
-#| "Target creature gets +2/+2 until end of turn. If it has toxic, draw a "
-#| "card."
 msgid ""
 "Target creature gets +2/+2 until end of turn. If that creature has toxic, "
 "draw a card."
@@ -438,6 +437,8 @@ msgid ""
 "Permanents entering the battlefield don't cause abilities of permanents your "
 "opponents control to trigger."
 msgstr ""
+"Byty wchodzące na pole bitwy nie powodują wyzwalania zdolności bytów pod "
+"władaniem twoich przeciwników."
 
 #: ../../ONE.rst:80
 msgid ""
@@ -449,6 +450,7 @@ msgstr ""
 #: ../../ONE.rst:73
 msgid "No more than one creature can attack The Eternal Wanderer each combat."
 msgstr ""
+"Nie więcej niż jeden stwór może zaatakować tego wędrowca w danej potyczce."
 
 #: ../../ONE.rst:75
 msgid ""
@@ -456,10 +458,13 @@ msgid ""
 "battlefield under its owner's control at the beginning of that player's next "
 "end step."
 msgstr ""
+"+1: Wygnaj co najwyżej jeden wskazany artefakt lub stwora. Przywróć ową "
+"kartę na pole bitwy pod władaniem właściciela a początku najbliższego kroku "
+"końcowego owego gracza."
 
 #: ../../ONE.rst:77
 msgid "0: Create a 2/2 white Samurai creature token with double strike."
-msgstr ""
+msgstr "0: Stwórz żeton białego stwora Samuraj 2/2 z podwójnym ciosem."
 
 #: ../../ONE.rst:79
 msgid ""
@@ -524,7 +529,7 @@ msgstr "Stwory pod twoim władaniem mające wyposażenie dostają +1/+0."
 
 #: ../../ONE.rst:105 ../../ONE.rst:125
 msgid "Equip |mana_2|\\ |mana_w|"
-msgstr ""
+msgstr "Wyposaż |mana_2|\\ |mana_w|"
 
 #: ../../ONE.rst:112
 msgid ""
@@ -1033,16 +1038,12 @@ msgid "Counter target spell unless its controller pays |mana_2|."
 msgstr "Skontruj wskazany czar, chyba że jego władca zapłaci |mana_2|."
 
 #: ../../ONE.rst:287
-#, fuzzy
-#| msgid ""
-#| "Corrupted — This spell costs |mana_2| less to cast if an opponent has "
-#| "three or more poison counters."
 msgid ""
 "Corrupted — Counter that spell instead if its controller has three or more "
 "poison counters."
 msgstr ""
-"Zbrukanie — Rzucenie tego czaru kosztuje o |mana_2| mniej jeśli przeciwnik "
-"ma co najmniej trzy znaczniki zatrucia."
+"Zbrukanie — Zamiast tego skontruj ów czar jeśli przeciwnik ma co najmniej "
+"trzy znaczniki zatrucia."
 
 #: ../../ONE.rst:294
 msgid ""
@@ -4963,3 +4964,6 @@ msgid ""
 "more poison counters, choose a creature you control, then draw cards equal "
 "to its total toxic value."
 msgstr ""
+"Zbrukanie — Na początku twojego kroku utrzymania, jeśli przeciwnik ma co "
+"najmniej trzy znaczniki zatrucia, wybierz stwora pod twoim władaniem, po "
+"czym dobierz tyle kart, ile wynosi jego toksyczność."
