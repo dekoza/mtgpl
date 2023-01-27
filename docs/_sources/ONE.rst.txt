@@ -45,8 +45,8 @@
    • Create two 1/1 colorless Phyrexian Mite artifact creature tokens with toxic 1 and "This creature can't block." (Players dealt combat damage by them also get a poison counter.)
 
 
-:mtgtip:`Compleat Devotion<https://cards.scryfall.io/border_crop/front/2/b/2bb29a69-3e42-4268-8026-f01072d7b56c.jpg?1674772688|https://scryfall.com/card/one/7/compleat-devotion?utm_source=api>`
-   Target creature gets +2/+2 until end of turn. If it has toxic, draw a card.
+:mtgtip:`Compleat Devotion<https://cards.scryfall.io/border_crop/front/2/b/2bb29a69-3e42-4268-8026-f01072d7b56c.jpg?1674810985|https://scryfall.com/card/one/7/compleat-devotion?utm_source=api>`
+   Target creature gets +2/+2 until end of turn. If that creature has toxic, draw a card.
 
 
 :mtgtip:`Crawling Chorus<https://cards.scryfall.io/border_crop/front/a/a/aace4c44-7250-414b-aac4-df042a1e2e1d.jpg?1674772692|https://scryfall.com/card/one/8/crawling-chorus?utm_source=api>`
@@ -55,7 +55,7 @@
    When Crawling Chorus dies, create a 1/1 colorless Phyreixan Mite artifact creature token with toxic 1 and "This creature can't block."
 
 
-:mtgtip:`Duelist of Deep Faith<https://cards.scryfall.io/border_crop/front/5/6/56444440-a9e6-4583-a289-9f0571a98093.jpg?1674772692|https://scryfall.com/card/one/9/duelist-of-deep-faith?utm_source=api>`
+:mtgtip:`Duelist of Deep Faith<https://cards.scryfall.io/border_crop/front/5/6/56444440-a9e6-4583-a289-9f0571a98093.jpg?1674809832|https://scryfall.com/card/one/9/duelist-of-deep-faith?utm_source=api>`
    Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)
 
    As long as it's your turn, Duelist of Deep Faith has first strike.
@@ -189,7 +189,7 @@
    If damage would be dealt to Phyrexian Vindicator, prevent that damage. When damage is prevented this way, Phyrexian Vindicator deals that much damage to any other target.
 
 
-:mtgtip:`Planar Disruption<https://cards.scryfall.io/border_crop/front/8/e/8ee69a1f-aeed-4eb4-8987-fa720fc99715.jpg?1674772722|https://scryfall.com/card/one/28/planar-disruption?utm_source=api>`
+:mtgtip:`Planar Disruption<https://cards.scryfall.io/border_crop/front/8/e/8ee69a1f-aeed-4eb4-8987-fa720fc99715.jpg?1674810974|https://scryfall.com/card/one/28/planar-disruption?utm_source=api>`
    Enchant artifact, creature, or planeswalker
 
    Enchanted permanent can't attack or block, and its activated abilities can't be activated.
@@ -205,7 +205,7 @@
    At the beginning of combat on your turn, target creature you control gets +1/+1 until end of turn. If that creature has toxic, instead it gets +2/+2 until end of turn.
 
 
-:mtgtip:`Resistance Reunited<https://cards.scryfall.io/border_crop/front/b/b/bbc4b5ca-557e-4465-9725-9e7a15590258.jpg?1674772728|https://scryfall.com/card/one/31/resistance-reunited?utm_source=api>`
+:mtgtip:`Resistance Reunited<https://cards.scryfall.io/border_crop/front/b/b/bbc4b5ca-557e-4465-9725-9e7a15590258.jpg?1674810986|https://scryfall.com/card/one/31/resistance-reunited?utm_source=api>`
    Target creature gets +2/+2 until end of turn.
 
    Equipped creatures you control gain indestructible until end of turn.
@@ -235,7 +235,7 @@
    Flying, vigilance
 
 
-:mtgtip:`Vanish into Eternity<https://cards.scryfall.io/border_crop/front/8/f/8f0b3308-9c0b-4461-9094-38deec20e1bc.jpg?1674772737|https://scryfall.com/card/one/36/vanish-into-eternity?utm_source=api>`
+:mtgtip:`Vanish into Eternity<https://cards.scryfall.io/border_crop/front/8/f/8f0b3308-9c0b-4461-9094-38deec20e1bc.jpg?1674810989|https://scryfall.com/card/one/36/vanish-into-eternity?utm_source=api>`
    This spell costs |mana_3| more to cast if it targets a creature.
 
    Exile target nonland permanent.
@@ -281,10 +281,10 @@
    Gain control of target creature with mana value X or less. If X is 5 or more, create a token that's a copy of that creature.
 
 
-:mtgtip:`Bring the Ending<https://cards.scryfall.io/border_crop/front/b/a/ba9d9d26-0c76-4a09-aa25-b32854e70c0b.jpg?1674772749|https://scryfall.com/card/one/44/bring-the-ending?utm_source=api>`
+:mtgtip:`Bring the Ending<https://cards.scryfall.io/border_crop/front/b/a/ba9d9d26-0c76-4a09-aa25-b32854e70c0b.jpg?1674810983|https://scryfall.com/card/one/44/bring-the-ending?utm_source=api>`
    Counter target spell unless its controller pays |mana_2|.
 
-   Corrupted — Counter that spell instead of its controller has three or more poison counter.
+   Corrupted — Counter that spell instead if its controller has three or more poison counters.
 
 
 :mtgtip:`Chrome Prowler<https://cards.scryfall.io/border_crop/front/a/9/a94378a2-cbde-4adf-b889-43e90fc6ba28.jpg?1674772750|https://scryfall.com/card/one/45/chrome-prowler?utm_source=api>`
@@ -479,10 +479,10 @@
    |mana_up|: Until end of turn, target creature you control becomes a blue artifact in addition to its other colors and types. Activate only as a sorcery. (|mana_up| can be paid with either |mana_u| or |mana_2| life.)
 
 
-:mtgtip:`Unctus's Retrofitter<https://cards.scryfall.io/border_crop/front/3/0/30225e40-4bde-4e2e-b0f0-48ed16aebafd.jpg?1674772806|https://scryfall.com/card/one/76/unctuss-retrofitter?utm_source=api>`
+:mtgtip:`Unctus's Retrofitter<https://cards.scryfall.io/border_crop/front/3/0/30225e40-4bde-4e2e-b0f0-48ed16aebafd.jpg?1674819625|https://scryfall.com/card/one/76/unctuss-retrofitter?utm_source=api>`
    Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)
 
-   When Unctus's Retrofitter enters the battlefield, up to one target artifact creature you control becomes an artifact creature with base power and toughness 4/4 for as long as Unctus's Retrofitter remains on the battlefield.
+   When Unctus's Retrofitter enters the battlefield, up to one target artifact you control becomes an artifact creature with base power and toughness 4/4 for as long as Unctus's Retrofitter remains on the battlefield.
 
 
 :mtgtip:`Vivisurgeon's Insight<https://cards.scryfall.io/border_crop/front/c/d/cd244359-781e-4e1d-946d-243664f40c7c.jpg?1674772807|https://scryfall.com/card/one/77/vivisurgeons-insight?utm_source=api>`
@@ -639,7 +639,7 @@
    Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)
 
 
-:mtgtip:`Phyrexian Arena<https://cards.scryfall.io/border_crop/front/5/4/54f69d43-de01-46a8-b102-b47e23e0e947.jpg?1674772856|https://scryfall.com/card/one/104/phyrexian-arena?utm_source=api>`
+:mtgtip:`Phyrexian Arena<https://cards.scryfall.io/border_crop/front/5/4/54f69d43-de01-46a8-b102-b47e23e0e947.jpg?1674810976|https://scryfall.com/card/one/104/phyrexian-arena?utm_source=api>`
    At the beginning of your upkeep, you draw a card and you lose 1 life.
 
 
@@ -715,7 +715,7 @@
    Target creature gets -1/-1 until end of turn. Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
 
 
-:mtgtip:`All Will Be One<https://cards.scryfall.io/border_crop/front/6/d/6d75e1f4-bd63-428e-8e6e-131594b3ba44.jpg?1674772881|https://scryfall.com/card/one/118/all-will-be-one?utm_source=api>`
+:mtgtip:`All Will Be One<https://cards.scryfall.io/border_crop/front/6/d/6d75e1f4-bd63-428e-8e6e-131594b3ba44.jpg?1674810979|https://scryfall.com/card/one/118/all-will-be-one?utm_source=api>`
    Whenever you put one or more counters on a permanent or player, All Will Be One deals that much damage to target opponent, creature an opponent controls, or planeswalker an opponent controls.
 
 
@@ -865,7 +865,7 @@
    • Destroy target Equipment.
 
 
-:mtgtip:`Nahiri's Sacrifice<https://cards.scryfall.io/border_crop/front/9/8/98395039-1353-4fa8-b51d-c4e1cadf9263.jpg?1674772927|https://scryfall.com/card/one/142/nahiris-sacrifice?utm_source=api>`
+:mtgtip:`Nahiri's Sacrifice<https://cards.scryfall.io/border_crop/front/9/8/98395039-1353-4fa8-b51d-c4e1cadf9263.jpg?1674810991|https://scryfall.com/card/one/142/nahiris-sacrifice?utm_source=api>`
    As an additional cost to cast this spell, sacrifice an artifact or creature with mana value X.
 
    Nahiri's Sacrifice deals X damage divided as you choose among any number of target creatures.
@@ -923,7 +923,7 @@
    When Urabrask's Anointer enters the battlefield, it deals X damage to any target, where X is the number of permanents you control with oil counters on them.
 
 
-:mtgtip:`Urabrask's Forge<https://cards.scryfall.io/border_crop/front/6/8/68f9f9d8-9ea0-4608-a79c-a09a87918186.jpg?1674772946|https://scryfall.com/card/one/153/urabrasks-forge?utm_source=api>`
+:mtgtip:`Urabrask's Forge<https://cards.scryfall.io/border_crop/front/6/8/68f9f9d8-9ea0-4608-a79c-a09a87918186.jpg?1674810972|https://scryfall.com/card/one/153/urabrasks-forge?utm_source=api>`
    At the beginning of combat on your turn, put an oil counter on Urabrask's Forge, then create an X/1 red Phyrexian Horror creature token with trample and haste, where X is the number of oil counters on Urabrask's Forge. Sacrifice that token at the beginning of the next end step.
 
 
@@ -1087,10 +1087,10 @@
    Paladin of Predation can't be blocked by creatures with power 2 or less.
 
 
-:mtgtip:`Plague Nurse<https://cards.scryfall.io/border_crop/front/5/e/5e7eef9e-68ae-4743-ad89-64f6fafbe365.jpg?1674772996|https://scryfall.com/card/one/179/plague-nurse?utm_source=api>`
+:mtgtip:`Plague Nurse<https://cards.scryfall.io/border_crop/front/5/e/5e7eef9e-68ae-4743-ad89-64f6fafbe365.jpg?1674831123|https://scryfall.com/card/one/179/plague-nurse?utm_source=api>`
    Toxic 2
 
-   |mana_2|\ |mana_g|: Each other creature you control with toxic gains toxic 1 until end of turn. Activate only once each turn. (Players dealt combat damage by a creature with toxic also gets poison counters equal to that creature's total toxic value.)
+   |mana_2|\ |mana_g|: Each other creature you control with toxic gains toxic 1 until end of turn. Activate only once each turn. (A player dealt combat damage by a creature with toxic also gets poison counters equal to that creature's total toxic value.)
 
 
 :mtgtip:`Predation Steward<https://cards.scryfall.io/border_crop/front/4/1/419fab07-f921-4eff-91e2-1974ae121077.jpg?1674772997|https://scryfall.com/card/one/180/predation-steward?utm_source=api>`
@@ -1159,7 +1159,7 @@
    Toxic 4 (Players dealt combat damage by this creature also get four poison counters.)
 
 
-:mtgtip:`Tyvar's Stand<https://cards.scryfall.io/border_crop/front/c/7/c7b362a5-382a-4016-b4f2-aa7b683354c4.jpg?1674773017|https://scryfall.com/card/one/190/tyvars-stand?utm_source=api>`
+:mtgtip:`Tyvar's Stand<https://cards.scryfall.io/border_crop/front/c/7/c7b362a5-382a-4016-b4f2-aa7b683354c4.jpg?1674810981|https://scryfall.com/card/one/190/tyvars-stand?utm_source=api>`
    Target creature you control gets +X/+X and gains hexproof and indestructible until end of turn. (A creature with hexproof and indestructible can't be the target of spells or abilities your opponents control. Damage and effects that say "destroy" don't destroy it.)
 
 

@@ -175,7 +175,7 @@
    When Tiana, Angelic Mechanic or another legendary creature you control crews a Vehicle, that Vehicle perpetually gets +1/+0.
 
 
-:mtgtip:`Vodalian Tide Mage<https://cards.scryfall.io/border_crop/front/0/9/09ae01dc-18c0-4f66-9b05-549382ffb6a9.jpg?1665273741|https://scryfall.com/card/ydmu/29/vodalian-tide-mage?utm_source=api>`
+:mtgtip:`Vodalian Tide Mage<https://cards.scryfall.io/border_crop/front/0/9/09ae01dc-18c0-4f66-9b05-549382ffb6a9.jpg?1674780112|https://scryfall.com/card/ydmu/29/vodalian-tide-mage?utm_source=api>`
    Whenever one or more other nontoken creatures you control deal combat damage to a player, choose one of those creatures. Conjure a duplicate of the chosen creature into your hand.
 
 

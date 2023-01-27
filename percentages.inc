@@ -280,7 +280,7 @@
 .. |ELD_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
-.. |ONC_percent| image:: images/pie75.png        
+.. |ONC_percent| image:: images/pie80.png        
 
 .. |FRF_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
@@ -383,7 +383,7 @@
 
 .. |KHC_percent| image:: images/pie85.png        
 
-.. |ONE_percent| image:: images/pie30.png        
+.. |ONE_percent| image:: images/pie35.png        
 
 .. |ONS_percent| image:: images/pie45.png        
 

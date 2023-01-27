@@ -1187,10 +1187,10 @@
    When Captured by Lagacs enters the battlefield, support 2. (Put a +1/+1 counter on each of up to two target creatures.)
 
 
-:mtgtip:`Carth the Lion<https://cards.scryfall.io/border_crop/front/e/0/e09e9b65-ff0e-4efe-b96a-ede69c96e2ea.jpg?1635612022|https://scryfall.com/card/mh2/189/carth-the-lion?utm_source=api>`
+:mtgtip:`Carth the Lion<https://cards.scryfall.io/border_crop/front/e/0/e09e9b65-ff0e-4efe-b96a-ede69c96e2ea.jpg?1674524490|https://scryfall.com/card/mh2/189/carth-the-lion?utm_source=api>`
    Whenever Carth the Lion enters the battlefield or a planeswalker you control dies, look at the top seven cards of your library. You may reveal a planeswalker card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
 
-   Planeswalkers' loyalty abilities you activate cost an additional +1 to activate.
+   Planeswalkers' loyalty abilities you activate cost an additional [+1] to activate.
 
 
 :mtgtip:`Chrome Courier<https://cards.scryfall.io/border_crop/front/a/1/a11d8da1-a183-470a-b4ed-2e35ac5ab9a9.jpg?1626098185|https://scryfall.com/card/mh2/190/chrome-courier?utm_source=api>`
