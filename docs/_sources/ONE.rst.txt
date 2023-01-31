@@ -45,14 +45,14 @@
    • Create two 1/1 colorless Phyrexian Mite artifact creature tokens with toxic 1 and "This creature can't block." (Players dealt combat damage by them also get a poison counter.)
 
 
-:mtgtip:`Compleat Devotion<https://cards.scryfall.io/border_crop/front/2/b/2bb29a69-3e42-4268-8026-f01072d7b56c.jpg?1674810985|https://scryfall.com/card/one/7/compleat-devotion?utm_source=api>`
-   Target creature gets +2/+2 until end of turn. If that creature has toxic, draw a card.
+:mtgtip:`Compleat Devotion<https://cards.scryfall.io/border_crop/front/2/b/2bb29a69-3e42-4268-8026-f01072d7b56c.jpg?1674814772|https://scryfall.com/card/one/7/compleat-devotion?utm_source=api>`
+   Target creature you control gets +2/+2 until end of turn. If that creature has toxic, draw a card.
 
 
-:mtgtip:`Crawling Chorus<https://cards.scryfall.io/border_crop/front/a/a/aace4c44-7250-414b-aac4-df042a1e2e1d.jpg?1674772692|https://scryfall.com/card/one/8/crawling-chorus?utm_source=api>`
+:mtgtip:`Crawling Chorus<https://cards.scryfall.io/border_crop/front/a/a/aace4c44-7250-414b-aac4-df042a1e2e1d.jpg?1674918664|https://scryfall.com/card/one/8/crawling-chorus?utm_source=api>`
    Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)
 
-   When Crawling Chorus dies, create a 1/1 colorless Phyreixan Mite artifact creature token with toxic 1 and "This creature can't block."
+   When Crawling Chorus dies, create a 1/1 colorless Phyrexian Mite artifact creature token with toxic 1 and "This creature can't block."
 
 
 :mtgtip:`Duelist of Deep Faith<https://cards.scryfall.io/border_crop/front/5/6/56444440-a9e6-4583-a289-9f0571a98093.jpg?1674809832|https://scryfall.com/card/one/9/duelist-of-deep-faith?utm_source=api>`
@@ -293,7 +293,7 @@
    When Chrome Prowler enters the battlefield, tap target creature an opponent controls.
 
 
-:mtgtip:`Distorted Curiosity<https://cards.scryfall.io/border_crop/front/f/9/f932ddd3-beb4-4dc8-8c15-e1c9c2276986.jpg?1674772756|https://scryfall.com/card/one/46/distorted-curiosity?utm_source=api>`
+:mtgtip:`Distorted Curiosity<https://cards.scryfall.io/border_crop/front/f/9/f932ddd3-beb4-4dc8-8c15-e1c9c2276986.jpg?1674814791|https://scryfall.com/card/one/46/distorted-curiosity?utm_source=api>`
    Corrupted — This spell costs |mana_2| less to cast if an opponent has three or more poison counters.
 
    Draw two cards.
@@ -489,10 +489,10 @@
    Draw three cards. Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
 
 
-:mtgtip:`Watchful Blisterzoa<https://cards.scryfall.io/border_crop/front/a/8/a895f63f-3c59-4249-9346-55ef489944fc.jpg?1674772809|https://scryfall.com/card/one/78/watchful-blisterzoa?utm_source=api>`
+:mtgtip:`Watchful Blisterzoa<https://cards.scryfall.io/border_crop/front/a/8/a895f63f-3c59-4249-9346-55ef489944fc.jpg?1675008068|https://scryfall.com/card/one/78/watchful-blisterzoa?utm_source=api>`
    Flying
 
-    Watchful Blisterzoa enters the battlefield with an oil counter on it.
+   Watchful Blisterzoa enters the battlefield with an oil counter on it.
 
    When Watchful Blisterzoa dies, draw cards equal to the number of oil counters on it.
 
@@ -579,7 +579,7 @@
    Corrupted — Each opponent who has three or more poison counters loses 3 life.
 
 
-:mtgtip:`Fleshless Gladiator<https://cards.scryfall.io/border_crop/front/0/b/0b2a32c9-f0ae-4ae4-a5c5-72bea05018fb.jpg?1674772839|https://scryfall.com/card/one/94/fleshless-gladiator?utm_source=api>`
+:mtgtip:`Fleshless Gladiator<https://cards.scryfall.io/border_crop/front/0/b/0b2a32c9-f0ae-4ae4-a5c5-72bea05018fb.jpg?1674814817|https://scryfall.com/card/one/94/fleshless-gladiator?utm_source=api>`
    Corrupted — |mana_2|\ |mana_b|: Return Fleshless Gladiator from your graveyard to the battlefield tapped. You lose 1 life. Activate only if an opponent has three or more poison counters.
 
 
@@ -623,10 +623,10 @@
    Whenever another creature or artifact you control is put into a graveyard from the battlefield, put an oil counter on Necrosquito.
 
 
-:mtgtip:`Nimraiser Paladin<https://cards.scryfall.io/border_crop/front/a/9/a99fe9a8-d9e7-4286-81a1-adfb753e4741.jpg?1674772851|https://scryfall.com/card/one/101/nimraiser-paladin?utm_source=api>`
+:mtgtip:`Nimraiser Paladin<https://cards.scryfall.io/border_crop/front/a/9/a99fe9a8-d9e7-4286-81a1-adfb753e4741.jpg?1674814839|https://scryfall.com/card/one/101/nimraiser-paladin?utm_source=api>`
    Toxic 2 (Players dealt combat damage by this creature also get two poison counters.)
 
-   When Nimraiser Paladin enters the battlefield, return target creature with mana value 3 or less from your graveyard to your hand.
+   When Nimraiser Paladin enters the battlefield, return target creature card with mana value 3 or less from your graveyard to your hand.
 
 
 :mtgtip:`Offer Immortality<https://cards.scryfall.io/border_crop/front/b/0/b0aac10a-6d47-4a6c-8a10-2b7c06f3ff32.jpg?1674772855|https://scryfall.com/card/one/102/offer-immortality?utm_source=api>`
@@ -673,10 +673,10 @@
    Toxic 2 (Players dealt combat damage by this creature also gets two poison counter.)
 
 
-:mtgtip:`Stinghive Master<https://cards.scryfall.io/border_crop/front/c/d/cdbbcbe1-5317-455e-8d71-a4e2ad0addfc.jpg?1674772866|https://scryfall.com/card/one/110/stinghive-master?utm_source=api>`
+:mtgtip:`Stinging Hivemaster<https://cards.scryfall.io/border_crop/front/c/d/cdbbcbe1-5317-455e-8d71-a4e2ad0addfc.jpg?1674814888|https://scryfall.com/card/one/110/stinging-hivemaster?utm_source=api>`
    Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)
 
-   When Stinghive Master dies, create a 1/1 colorless Phyrexian Mite artifact creature token with toxic 1 and "This creature can't block."
+   When Stinging Hivemaster dies, create a 1/1 colorless Phyrexian Mite artifact creature token with toxic 1 and "This creature can't block."
 
 
 :mtgtip:`Testament Bearer<https://cards.scryfall.io/border_crop/front/a/5/a5424859-628a-4c19-acd0-0c63c21c8338.jpg?1674772869|https://scryfall.com/card/one/111/testament-bearer?utm_source=api>`
@@ -785,10 +785,10 @@
    Equip |mana_3|\ |mana_r|\ |mana_r|
 
 
-:mtgtip:`Exuberant Fuseling<https://cards.scryfall.io/border_crop/front/a/6/a6e8d7b9-ff5e-48ae-9e38-d2b6a45b119b.jpg?1674772901|https://scryfall.com/card/one/129/exuberant-fuseling?utm_source=api>`
+:mtgtip:`Exuberant Fuseling<https://cards.scryfall.io/border_crop/front/a/6/a6e8d7b9-ff5e-48ae-9e38-d2b6a45b119b.jpg?1675120091|https://scryfall.com/card/one/129/exuberant-fuseling?utm_source=api>`
    Trample
 
-   Exuberant Fuseling gets +1/+0 for each oil counter.
+   Exuberant Fuseling gets +1/+0 for each oil counter on it.
 
    When Exuberant Fuseling enters the battlefield and whenever another creature or artifact you control is put into a graveyard from the battlefield, put an oil counter on Exuberant Fuseling.
 
@@ -849,12 +849,12 @@
    Whenever Kuldotha Cackler attacks, it gets +X/+0 until end of turn, where X is the number of permanents you control with oil counters on them.
 
 
-:mtgtip:`Magmatic Sprinter<https://cards.scryfall.io/border_crop/front/2/e/2e6af42f-35ec-432f-9879-2a0fb938a9f6.jpg?1674772921|https://scryfall.com/card/one/140/magmatic-sprinter?utm_source=api>`
+:mtgtip:`Magmatic Sprinter<https://cards.scryfall.io/border_crop/front/2/e/2e6af42f-35ec-432f-9879-2a0fb938a9f6.jpg?1675005328|https://scryfall.com/card/one/140/magmatic-sprinter?utm_source=api>`
    Haste
 
    When Magmatic Sprinter enters the battlefield, put two oil counters on target artifact or creature you control.
 
-   At the beginning of your ned step, return Magmatic Sprinter to its owner's hand unless you remove two oil counters from it.
+   At the beginning of your end step, return Magmatic Sprinter to its owner's hand unless you remove two oil counters from it.
 
 
 :mtgtip:`Molten Rebuke<https://cards.scryfall.io/border_crop/front/d/2/d2e3291b-de5c-4a10-9915-2cd2d84a815c.jpg?1674772923|https://scryfall.com/card/one/141/molten-rebuke?utm_source=api>`
@@ -907,10 +907,10 @@
    |tap|, Sacrifice an artifact: Add an amount of |mana_r| equal to the sacrificed artifact's mana value. Spend this mana only to cast artifact spells or activate abilities of artifacts.
 
 
-:mtgtip:`Solphim, Mayhem Dominus<https://cards.scryfall.io/border_crop/front/c/3/c3a0c7f3-7fb9-43de-a9af-96532c31e5ed.jpg?1674772942|https://scryfall.com/card/one/150/solphim-mayhem-dominus?utm_source=api>`
+:mtgtip:`Solphim, Mayhem Dominus<https://cards.scryfall.io/border_crop/front/c/3/c3a0c7f3-7fb9-43de-a9af-96532c31e5ed.jpg?1674815017|https://scryfall.com/card/one/150/solphim-mayhem-dominus?utm_source=api>`
    If a source you control would deal noncombat damage to an opponent or a permanent an opponent controls, it deals double that damage to that player or permanent instead.
 
-   |mana_1|\ |mana_rp|\ |mana_rp|, Discard two cards: Put an indestructible counter on Solphim, Mayhem Dominus.
+   |mana_1|\ |mana_rp|\ |mana_rp|, Discard two cards: Put an indestructible counter on Solphim, Mayhem Dominus. (|mana_rp| can be paid with either |mana_r| or 2 life.)
 
 
 :mtgtip:`Thrill of Possibility<https://cards.scryfall.io/border_crop/front/1/e/1efd4ae5-0076-46a0-a113-58cfff53144f.jpg?1674772944|https://scryfall.com/card/one/151/thrill-of-possibility?utm_source=api>`
@@ -995,8 +995,8 @@
    |tap|: Choose target nonland permanent card in your graveyard. If you haven't cast a spell this turn, you may cast that card. If you do, you can't cast additional spells this turn. Activate only as a sorcery.
 
 
-:mtgtip:`Contagious Vorrac<https://cards.scryfall.io/border_crop/front/1/8/18af2c85-e58f-4043-99d3-e90121348aca.jpg?1674772967|https://scryfall.com/card/one/164/contagious-vorrac?utm_source=api>`
-   When Contagious Vorrac enters the battlefield, look at the top four cards of your library. You may reveal a land card from among them and put it in your hand. Put the rest on the bottom of your library in a random order. If you didn't put a card into your hand this way, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
+:mtgtip:`Contagious Vorrac<https://cards.scryfall.io/border_crop/front/1/8/18af2c85-e58f-4043-99d3-e90121348aca.jpg?1674815063|https://scryfall.com/card/one/164/contagious-vorrac?utm_source=api>`
+   When Contagious Vorrac enters the battlefield, look at the top four cards of your library. You may reveal a land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. If you didn't put a card into your hand this way, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
 
 
 :mtgtip:`Copper Longlegs<https://cards.scryfall.io/border_crop/front/f/8/f8855fbf-4f1e-4c44-9653-bbbfc3f2fafd.jpg?1674772969|https://scryfall.com/card/one/165/copper-longlegs?utm_source=api>`
@@ -1179,8 +1179,8 @@
    When Venomous Brutalizer enters the battlefield, you may pay |mana_1|\ |mana_g|. If you do, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
 
 
-:mtgtip:`Viral Spawning<https://cards.scryfall.io/border_crop/front/8/5/85ad30a1-3ecc-42ca-afe8-85df5bad9196.jpg?1674773024|https://scryfall.com/card/one/194/viral-spawning?utm_source=api>`
-   Create a 3/3 green Phyrexian Beast creature token with toxic 1. (Players dealt combat damage by this creature also get a poison counter.)
+:mtgtip:`Viral Spawning<https://cards.scryfall.io/border_crop/front/8/5/85ad30a1-3ecc-42ca-afe8-85df5bad9196.jpg?1674815108|https://scryfall.com/card/one/194/viral-spawning?utm_source=api>`
+   Create a 3/3 green Phyrexian Beast creature token with toxic 1. (Players dealt combat damage by it also get a poison counter.)
 
    Corrupted — As long as an opponent has three or more poison counters and Viral Spawning is in your graveyard, it has flashback |mana_2|\ |mana_g|. (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
@@ -1409,13 +1409,13 @@
    At the beginning of combat on your turn, you may remove an oil counter from Atraxa's Skitterfang. When you do, target creature you control gains your choice of flying, vigilance, deathtouch, or lifelink until end of turn.
 
 
-:mtgtip:`Basilica Skullbomb<https://cards.scryfall.io/border_crop/front/8/e/8e2f0ae2-db68-4338-93f9-9d9268cec41e.jpg?1674773082|https://scryfall.com/card/one/224/basilica-skullbomb?utm_source=api>`
+:mtgtip:`Basilica Skullbomb<https://cards.scryfall.io/border_crop/front/8/e/8e2f0ae2-db68-4338-93f9-9d9268cec41e.jpg?1674815142|https://scryfall.com/card/one/224/basilica-skullbomb?utm_source=api>`
    |mana_1|, Sacrifice Basilica Skullbomb: Draw a card.
 
    |mana_2|\ |mana_w|, Sacrifice Basilica Skullbomb: Target creature you control gets +2/+2 and gains flying until end of turn. Draw a card. Activate only as a sorcery.
 
 
-:mtgtip:`Dross Skullbomb<https://cards.scryfall.io/border_crop/front/6/6/66270dd2-9139-4329-9621-852962836688.jpg?1674773083|https://scryfall.com/card/one/225/dross-skullbomb?utm_source=api>`
+:mtgtip:`Dross Skullbomb<https://cards.scryfall.io/border_crop/front/6/6/66270dd2-9139-4329-9621-852962836688.jpg?1674815169|https://scryfall.com/card/one/225/dross-skullbomb?utm_source=api>`
    |mana_1|, Sacrifice Dross Skullbomb: Draw a card.
 
    |mana_2|\ |mana_b|, Sacrifice Dross Skullbomb: Return target creature card from your graveyard to your hand. Draw a card. Activate only as a sorcery.
@@ -1435,7 +1435,7 @@
    |tap|, Remove ten oil counters from among permanents you control and sacrifice The Filigree Sylex: It deals 10 damage to any target.
 
 
-:mtgtip:`Furnace Skullbomb<https://cards.scryfall.io/border_crop/front/c/b/cb530f9d-cf35-48a7-8711-f74b3d9a35a7.jpg?1674773087|https://scryfall.com/card/one/228/furnace-skullbomb?utm_source=api>`
+:mtgtip:`Furnace Skullbomb<https://cards.scryfall.io/border_crop/front/c/b/cb530f9d-cf35-48a7-8711-f74b3d9a35a7.jpg?1674815188|https://scryfall.com/card/one/228/furnace-skullbomb?utm_source=api>`
    |mana_1|, Sacrifice Furnace Skullbomb: Draw a card.
 
    |mana_1|\ |mana_r|, Sacrifice Furnace Skullbomb: Put two oil counters on target artifact or creature you control. Draw a card. Activate only as a sorcery.
@@ -1455,7 +1455,7 @@
    Creatures you control with oil counters on them get +1/+1.
 
 
-:mtgtip:`Maze Skullbomb<https://cards.scryfall.io/border_crop/front/1/0/1073aee2-aea6-473d-97c6-248778d79d80.jpg?1674773095|https://scryfall.com/card/one/231/maze-skullbomb?utm_source=api>`
+:mtgtip:`Maze Skullbomb<https://cards.scryfall.io/border_crop/front/1/0/1073aee2-aea6-473d-97c6-248778d79d80.jpg?1674815205|https://scryfall.com/card/one/231/maze-skullbomb?utm_source=api>`
    |mana_1|, Sacrifice Maze Skullbomb: Draw a card.
 
    |mana_2|\ |mana_g|, Sacrifice Maze Skullbomb: Target creature you control gets +3/+3 and gains trample until end of turn. Draw a card. Activate only as a sorcery.
@@ -1529,7 +1529,7 @@
    |mana_5|: Untap Staff of Compleation.
 
 
-:mtgtip:`Surgical Skullbomb<https://cards.scryfall.io/border_crop/front/9/8/98c2b2af-739f-413c-8c36-da6f78df0acb.jpg?1674773117|https://scryfall.com/card/one/243/surgical-skullbomb?utm_source=api>`
+:mtgtip:`Surgical Skullbomb<https://cards.scryfall.io/border_crop/front/9/8/98c2b2af-739f-413c-8c36-da6f78df0acb.jpg?1674815222|https://scryfall.com/card/one/243/surgical-skullbomb?utm_source=api>`
    |mana_1|, Sacrifice Surgical Skullbomb: Draw a card.
 
    |mana_2|\ |mana_u|, Sacrifice Surgical Skullbomb: Return target creature to its owner's hand. Draw a card. Activate only as a sorcery.
@@ -1581,7 +1581,7 @@
    |tap|: Add |mana_u| or |mana_b|.
 
 
-:mtgtip:`The Dross Pits<https://cards.scryfall.io/border_crop/front/1/9/19d469f1-2219-4466-9f8a-769ee43e28db.jpg?1674773128|https://scryfall.com/card/one/251/the-dross-pits?utm_source=api>`
+:mtgtip:`The Dross Pits<https://cards.scryfall.io/border_crop/front/1/9/19d469f1-2219-4466-9f8a-769ee43e28db.jpg?1674815238|https://scryfall.com/card/one/251/the-dross-pits?utm_source=api>`
    The Dross Pits enters the battlefield tapped.
 
    |tap|: Add |mana_b|.
@@ -1703,10 +1703,10 @@
    Whenever another nontoken creature you control dies, you may pay 2 life and exile it. If you do, create a token that's a copy of that creature, except it's 1/1 and has toxic 1. (Players dealt combat damage by it also get a poison counter.)
 
 
-:mtgtip:`Rhuk, Hexgold Nabber<https://cards.scryfall.io/border_crop/front/d/7/d7c25806-1da6-4789-a17e-d2440184ec40.jpg?1674773354|https://scryfall.com/card/one/407/rhuk-hexgold-nabber?utm_source=api>`
+:mtgtip:`Rhuk, Hexgold Nabber<https://cards.scryfall.io/border_crop/front/d/7/d7c25806-1da6-4789-a17e-d2440184ec40.jpg?1675023283|https://scryfall.com/card/one/407/rhuk-hexgold-nabber?utm_source=api>`
    Trample, haste
 
-   Whenever an equipped creature you control other than Rhuk, Hexgold Nabber attacks or dies, you may attached all Equipment attached to that creature to Rhuk.
+   Whenever an equipped creature you control other than Rhuk, Hexgold Nabber attacks or dies, you may attach all Equipment attached to that creature to Rhuk.
 
 
 :mtgtip:`Goliath Hatchery<https://cards.scryfall.io/border_crop/front/0/e/0e1141ca-78c0-46e5-99f8-28069d69f23a.jpg?1674773355|https://scryfall.com/card/one/408/goliath-hatchery?utm_source=api>`

@@ -39,7 +39,7 @@
    Any number of target nonland permanents you control phase out. (Treat them and anything attached to them as though they don't exist until your next turn.)
 
 
-:mtgtip:`Glimmer Lens<https://cards.scryfall.io/border_crop/front/c/9/c9262000-e6f3-4da1-ad1c-038f65d3bef6.jpg?1674771504|https://scryfall.com/card/onc/6/glimmer-lens?utm_source=api>`
+:mtgtip:`Glimmer Lens<https://cards.scryfall.io/border_crop/front/c/9/c9262000-e6f3-4da1-ad1c-038f65d3bef6.jpg?1674844106|https://scryfall.com/card/onc/6/glimmer-lens?utm_source=api>`
    For Mirrodin! (When this Equipment enters the battlefield, create a 2/2 red Rebel creature token, then attach this to it.)
 
    Whenever equipped creature and at least one other creature attack, draw a card.
@@ -81,11 +81,11 @@
    Corrupted — For each opponent who has three or more poison counters as you cast this spell, put up to one target creature card from that player's graveyard onto the battlefield under your control.
 
 
-:mtgtip:`Phyresis Outbreak<https://cards.scryfall.io/border_crop/front/8/1/812498c8-974c-460c-b782-506f5f735346.jpg?1674283406|https://scryfall.com/card/onc/12/phyresis-outbreak?utm_source=api>`
-   Each opponent gets a poison counter. Then each creature your opponents control get -1/-1 for each poison counter its controller has.
+:mtgtip:`Phyresis Outbreak<https://cards.scryfall.io/border_crop/front/8/1/812498c8-974c-460c-b782-506f5f735346.jpg?1675023312|https://scryfall.com/card/onc/12/phyresis-outbreak?utm_source=api>`
+   Each opponent gets a poison counter. Then each creature your opponents control gets -1/-1 until end of turn for each poison counter its controller has.
 
 
-:mtgtip:`Goldwardens' Gambit<https://cards.scryfall.io/border_crop/front/0/c/0cb7f413-f9b9-4b1c-898a-c49c571613f0.jpg?1674771571|https://scryfall.com/card/onc/13/goldwardens-gambit?utm_source=api>`
+:mtgtip:`Goldwardens' Gambit<https://cards.scryfall.io/border_crop/front/0/c/0cb7f413-f9b9-4b1c-898a-c49c571613f0.jpg?1674933609|https://scryfall.com/card/onc/13/goldwardens-gambit?utm_source=api>`
    Affinity for Equipment (This spell costs |mana_1| less to cast for each Equipment you control.)
 
    Create five 2/2 red Rebel creature tokens. They gain haste until end of turn. For each of those tokens, you may attach an Equipment you control to it.
@@ -169,8 +169,8 @@
    |mana_1|\ |mana_up|, |tap|, Exile a spell you control: Target opponent reveals cards from the top of their library until they reveal a card with mana value equal to 1 plus the exiled spell's mana value. Exile that card, then that player shuffles. You may cast that exiled card without paying its mana cost.
 
 
-:mtgtip:`Monumental Corruption<https://cards.scryfall.io/border_crop/front/2/d/2da97319-de80-4d71-82fc-715109cf8e2c.jpg?1674771688|https://scryfall.com/card/onc/24/monumental-corruption?utm_source=api>`
-   Target player draws X cards an loses X life, where X is the number of artifacts you control.
+:mtgtip:`Monumental Corruption<https://cards.scryfall.io/border_crop/front/2/d/2da97319-de80-4d71-82fc-715109cf8e2c.jpg?1675074401|https://scryfall.com/card/onc/24/monumental-corruption?utm_source=api>`
+   Target player draws X cards and loses X life, where X is the number of artifacts you control.
 
 
 :mtgtip:`Chiss-Goria, Forge Tyrant<https://cards.scryfall.io/border_crop/front/9/2/923eb713-c955-4e12-8a8f-df3b4b361487.jpg?1674771698|https://scryfall.com/card/onc/25/chiss-goria-forge-tyrant?utm_source=api>`
