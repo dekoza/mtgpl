@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG po polsku 2022.12\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-27 22:24+0100\n"
-"PO-Revision-Date: 2023-01-27 21:58+0000\n"
+"PO-Revision-Date: 2023-01-31 11:39+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/one/pl/>\n"
 "Language: pl\n"
@@ -262,6 +262,8 @@ msgid ""
 "Return target artifact or creature card with mana value 3 or less from your "
 "graveyard to the battlefield."
 msgstr ""
+"Przywróć z cmentarza na pole bitwy wskazaną kartę artefaktu lub stwora o "
+"skrócie many 3 lub mniejszym."
 
 #: ../../ONE.rst:20
 msgid ""
@@ -340,13 +342,15 @@ msgstr ""
 
 #: ../../ONE.rst:35
 msgid "Bladed Ambassador enters the battlefield with an oil counter on it."
-msgstr ""
+msgstr "Ten byt wchodzi na pole bitwy mając znacznik oleju."
 
 #: ../../ONE.rst:37
 msgid ""
 "|mana_1|, Remove an oil counter from Bladed Ambassador: Bladed Ambassador "
 "gains indestructible until end of turn."
 msgstr ""
+"|mana_1|, usuń znacznik oleju z tego bytu: Niniejszy do końca tury zyskuje "
+"niezniszczalność."
 
 #: ../../ONE.rst:46
 msgid ""
@@ -357,13 +361,15 @@ msgstr ""
 
 #: ../../ONE.rst:41 ../../ONE.rst:1127
 msgid "Choose one—"
-msgstr ""
+msgstr "Wybierz jedno —"
 
 #: ../../ONE.rst:43
 msgid ""
 "Charge of the Mites deals damage equal to the number of creatures you "
 "control to target creature or planeswalker."
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi lub wędrowcowi obrażenia równe liczbie "
+"stworów pod twoim władaniem."
 
 #: ../../ONE.rst:45
 msgid ""
@@ -409,7 +415,7 @@ msgstr ""
 
 #: ../../ONE.rst:61
 msgid "As long as it's your turn, Duelist of Deep Faith has first strike."
-msgstr ""
+msgstr "O ile jest twoja tura, niniejszy ma pierwszy cios."
 
 #: ../../ONE.rst:70
 msgid ""
@@ -484,6 +490,8 @@ msgid ""
 "When Flensing Raptor enters the battlefield, another target creature you "
 "control with toxic gets +1/+1 and gains flying until end of turn."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, inny wskazany stwór pod twoim władaniem "
+"do końca tury dostaje +1/+1 oraz latanie."
 
 #: ../../ONE.rst:96
 msgid ""
@@ -499,6 +507,8 @@ msgid ""
 "For Mirrodin! (When this Equipment enters the battlefield, create a 2/2 red "
 "Rebel creature token, then attach this to it.)"
 msgstr ""
+"Za Mirrodin! (Kiedy ten byt wejdzie na pole bitwy, stwórz żeton czerwonego "
+"stwora Rebeliant 2/2, po czym dołącz niniejszy do niego.)"
 
 #: ../../ONE.rst:93
 msgid "Equipped creature gets +0/+1."
@@ -693,6 +703,9 @@ msgid ""
 "creatures: Put an indestructible counter on Mondrak, Glory Dominus. (|"
 "mana_wp| can be paid with either |mana_w| or 2 life.)"
 msgstr ""
+"|mana_1|\\ |mana_wp|\\ |mana_wp|, poświęć dwa inne artefakty i/lub stwory: "
+"Umieść na niniejszym znacznik niezniszczalności. (|mana_wp| można opłacić "
+"używając |mana_w| lub 2 żyć.)"
 
 #: ../../ONE.rst:172
 msgid ""
@@ -706,11 +719,13 @@ msgid ""
 "Whenever a creature you control dies, scry 1 and put an oil counter on "
 "Norn's Wellspring."
 msgstr ""
+"Ilekroć umrze stwór pod twoim władaniem, wróż 1 i umieść znacznik oleju na "
+"niniejszym."
 
 #: ../../ONE.rst:171
 msgid ""
 "|mana_1|, |tap|, Remove two oil counters from Norn's Wellspring: Draw a card."
-msgstr ""
+msgstr "|mana_1|, |tap|, usuń dwa znaczniki oleju z tego bytu: Dobierz kartę."
 
 #: ../../ONE.rst:178
 msgid ""
@@ -722,7 +737,7 @@ msgstr ""
 #: ../../ONE.rst:177
 msgid ""
 "Orthodoxy Enforcer gets +2/+0 as long as you control two or more artifacts."
-msgstr ""
+msgstr "Niniejszy dostaje +2/+0 o ile władasz co najmniej dwoma artefaktami."
 
 #: ../../ONE.rst:184
 msgid ""
@@ -733,13 +748,15 @@ msgstr ""
 
 #: ../../ONE.rst:181
 msgid "Enchant basic land you control"
-msgstr ""
+msgstr "Zaurocz bazowy ląd pod twoim władaniem"
 
 #: ../../ONE.rst:183
 msgid ""
 "When Ossification enters the battlefield, exile target creature or "
 "planeswalker an opponent controls until Ossification leaves the battlefield."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, wygnaj wskazanego stwora lub wędrowca "
+"pod władaniem przeciwnika do czasu aż niniejszy opuści pole bitwy."
 
 #: ../../ONE.rst:190
 msgid ""
@@ -754,6 +771,9 @@ msgid ""
 "damage is prevented this way, Phyrexian Vindicator deals that much damage to "
 "any other target."
 msgstr ""
+"Jeśli obrażenia miałyby zostać zadane niniejszemu, zażegnaj je. Kiedy "
+"obrażenia zostaną zażegnane w ten sposób, niniejszy zadaje innemu wskazanemu "
+"celowi tyle samo obrażeń."
 
 #: ../../ONE.rst:196
 msgid ""
@@ -806,6 +826,9 @@ msgid ""
 "+1 until end of turn. If that creature has toxic, instead it gets +2/+2 "
 "until end of turn."
 msgstr ""
+"Na początku potyczki w twojej turze, wskazany stwór pod twoim władaniem do "
+"końca tury dostaje +1/+1. Jeśli ów stwór ma toksyczność, zamiast tego do "
+"końca tury dostaje on +2/+2."
 
 #: ../../ONE.rst:212
 msgid ""
@@ -821,6 +844,7 @@ msgstr "Wskazany stwór do końca tury dostaje +2/+2."
 #: ../../ONE.rst:211
 msgid "Equipped creatures you control gain indestructible until end of turn."
 msgstr ""
+"Wyposażone stwory pod twoim władaniem do końca tury zyskują niezniszczalność."
 
 #: ../../ONE.rst:218
 msgid ""
