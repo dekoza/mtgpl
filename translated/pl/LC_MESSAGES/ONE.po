@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG po polsku 2022.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-27 22:24+0100\n"
+"POT-Creation-Date: 2023-01-31 12:31+0100\n"
 "PO-Revision-Date: 2023-01-31 11:39+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/one/pl/>\n"
@@ -381,14 +381,18 @@ msgstr ""
 #: ../../ONE.rst:50
 msgid ""
 ":mtgtip:`Compleat Devotion<https://cards.scryfall.io/border_crop/front/2/"
-"b/2bb29a69-3e42-4268-8026-f01072d7b56c.jpg?1674810985|https://scryfall.com/"
+"b/2bb29a69-3e42-4268-8026-f01072d7b56c.jpg?1674814772|https://scryfall.com/"
 "card/one/7/compleat-devotion?utm_source=api>`"
 msgstr ""
 
 #: ../../ONE.rst:49
+#, fuzzy
+#| msgid ""
+#| "Target creature gets +2/+2 until end of turn. If that creature has toxic, "
+#| "draw a card."
 msgid ""
-"Target creature gets +2/+2 until end of turn. If that creature has toxic, "
-"draw a card."
+"Target creature you control gets +2/+2 until end of turn. If that creature "
+"has toxic, draw a card."
 msgstr ""
 "Wskazany stwór do końca tury dostaje +2/+2. Jeśli ma on toksyczność, dobierz "
 "kartę."
@@ -396,13 +400,13 @@ msgstr ""
 #: ../../ONE.rst:56
 msgid ""
 ":mtgtip:`Crawling Chorus<https://cards.scryfall.io/border_crop/front/a/a/"
-"aace4c44-7250-414b-aac4-df042a1e2e1d.jpg?1674772692|https://scryfall.com/"
+"aace4c44-7250-414b-aac4-df042a1e2e1d.jpg?1674918664|https://scryfall.com/"
 "card/one/8/crawling-chorus?utm_source=api>`"
 msgstr ""
 
 #: ../../ONE.rst:55
 msgid ""
-"When Crawling Chorus dies, create a 1/1 colorless Phyreixan Mite artifact "
+"When Crawling Chorus dies, create a 1/1 colorless Phyrexian Mite artifact "
 "creature token with toxic 1 and \"This creature can't block.\""
 msgstr ""
 
@@ -1085,7 +1089,7 @@ msgstr ""
 #: ../../ONE.rst:300
 msgid ""
 ":mtgtip:`Distorted Curiosity<https://cards.scryfall.io/border_crop/front/f/9/"
-"f932ddd3-beb4-4dc8-8c15-e1c9c2276986.jpg?1674772756|https://scryfall.com/"
+"f932ddd3-beb4-4dc8-8c15-e1c9c2276986.jpg?1674814791|https://scryfall.com/"
 "card/one/46/distorted-curiosity?utm_source=api>`"
 msgstr ""
 
@@ -1641,7 +1645,7 @@ msgstr ""
 #: ../../ONE.rst:498
 msgid ""
 ":mtgtip:`Watchful Blisterzoa<https://cards.scryfall.io/border_crop/front/a/8/"
-"a895f63f-3c59-4249-9346-55ef489944fc.jpg?1674772809|https://scryfall.com/"
+"a895f63f-3c59-4249-9346-55ef489944fc.jpg?1675008068|https://scryfall.com/"
 "card/one/78/watchful-blisterzoa?utm_source=api>`"
 msgstr ""
 
@@ -1888,7 +1892,7 @@ msgstr ""
 #: ../../ONE.rst:584
 msgid ""
 ":mtgtip:`Fleshless Gladiator<https://cards.scryfall.io/border_crop/front/0/"
-"b/0b2a32c9-f0ae-4ae4-a5c5-72bea05018fb.jpg?1674772839|https://scryfall.com/"
+"b/0b2a32c9-f0ae-4ae4-a5c5-72bea05018fb.jpg?1674814817|https://scryfall.com/"
 "card/one/94/fleshless-gladiator?utm_source=api>`"
 msgstr ""
 
@@ -2017,7 +2021,7 @@ msgstr ""
 #: ../../ONE.rst:630
 msgid ""
 ":mtgtip:`Nimraiser Paladin<https://cards.scryfall.io/border_crop/front/a/9/"
-"a99fe9a8-d9e7-4286-81a1-adfb753e4741.jpg?1674772851|https://scryfall.com/"
+"a99fe9a8-d9e7-4286-81a1-adfb753e4741.jpg?1674814839|https://scryfall.com/"
 "card/one/101/nimraiser-paladin?utm_source=api>`"
 msgstr ""
 
@@ -2028,10 +2032,16 @@ msgid ""
 msgstr ""
 
 #: ../../ONE.rst:629
+#, fuzzy
+#| msgid ""
+#| "Return target artifact or creature card with mana value 3 or less from "
+#| "your graveyard to the battlefield."
 msgid ""
-"When Nimraiser Paladin enters the battlefield, return target creature with "
-"mana value 3 or less from your graveyard to your hand."
+"When Nimraiser Paladin enters the battlefield, return target creature card "
+"with mana value 3 or less from your graveyard to your hand."
 msgstr ""
+"Przywróć z cmentarza na pole bitwy wskazaną kartę artefaktu lub stwora o "
+"skrócie many 3 lub mniejszym."
 
 #: ../../ONE.rst:634
 msgid ""
@@ -2155,15 +2165,15 @@ msgstr ""
 
 #: ../../ONE.rst:680
 msgid ""
-":mtgtip:`Stinghive Master<https://cards.scryfall.io/border_crop/front/c/d/"
-"cdbbcbe1-5317-455e-8d71-a4e2ad0addfc.jpg?1674772866|https://scryfall.com/"
-"card/one/110/stinghive-master?utm_source=api>`"
+":mtgtip:`Stinging Hivemaster<https://cards.scryfall.io/border_crop/front/c/d/"
+"cdbbcbe1-5317-455e-8d71-a4e2ad0addfc.jpg?1674814888|https://scryfall.com/"
+"card/one/110/stinging-hivemaster?utm_source=api>`"
 msgstr ""
 
 #: ../../ONE.rst:679
 msgid ""
-"When Stinghive Master dies, create a 1/1 colorless Phyrexian Mite artifact "
-"creature token with toxic 1 and \"This creature can't block.\""
+"When Stinging Hivemaster dies, create a 1/1 colorless Phyrexian Mite "
+"artifact creature token with toxic 1 and \"This creature can't block.\""
 msgstr ""
 
 #: ../../ONE.rst:684
@@ -2483,12 +2493,12 @@ msgstr ""
 #: ../../ONE.rst:794
 msgid ""
 ":mtgtip:`Exuberant Fuseling<https://cards.scryfall.io/border_crop/front/a/6/"
-"a6e8d7b9-ff5e-48ae-9e38-d2b6a45b119b.jpg?1674772901|https://scryfall.com/"
+"a6e8d7b9-ff5e-48ae-9e38-d2b6a45b119b.jpg?1675120091|https://scryfall.com/"
 "card/one/129/exuberant-fuseling?utm_source=api>`"
 msgstr ""
 
 #: ../../ONE.rst:791
-msgid "Exuberant Fuseling gets +1/+0 for each oil counter."
+msgid "Exuberant Fuseling gets +1/+0 for each oil counter on it."
 msgstr ""
 
 #: ../../ONE.rst:793
@@ -2657,7 +2667,7 @@ msgstr ""
 #: ../../ONE.rst:858
 msgid ""
 ":mtgtip:`Magmatic Sprinter<https://cards.scryfall.io/border_crop/front/2/"
-"e/2e6af42f-35ec-432f-9879-2a0fb938a9f6.jpg?1674772921|https://scryfall.com/"
+"e/2e6af42f-35ec-432f-9879-2a0fb938a9f6.jpg?1675005328|https://scryfall.com/"
 "card/one/140/magmatic-sprinter?utm_source=api>`"
 msgstr ""
 
@@ -2669,7 +2679,7 @@ msgstr ""
 
 #: ../../ONE.rst:857
 msgid ""
-"At the beginning of your ned step, return Magmatic Sprinter to its owner's "
+"At the beginning of your end step, return Magmatic Sprinter to its owner's "
 "hand unless you remove two oil counters from it."
 msgstr ""
 
@@ -2810,7 +2820,7 @@ msgstr ""
 #: ../../ONE.rst:914
 msgid ""
 ":mtgtip:`Solphim, Mayhem Dominus<https://cards.scryfall.io/border_crop/front/"
-"c/3/c3a0c7f3-7fb9-43de-a9af-96532c31e5ed.jpg?1674772942|https://scryfall.com/"
+"c/3/c3a0c7f3-7fb9-43de-a9af-96532c31e5ed.jpg?1674815017|https://scryfall.com/"
 "card/one/150/solphim-mayhem-dominus?utm_source=api>`"
 msgstr ""
 
@@ -2822,10 +2832,19 @@ msgid ""
 msgstr ""
 
 #: ../../ONE.rst:913
+#, fuzzy
+#| msgid ""
+#| "|mana_1|\\ |mana_wp|\\ |mana_wp|, Sacrifice two other artifacts and/or "
+#| "creatures: Put an indestructible counter on Mondrak, Glory Dominus. (|"
+#| "mana_wp| can be paid with either |mana_w| or 2 life.)"
 msgid ""
 "|mana_1|\\ |mana_rp|\\ |mana_rp|, Discard two cards: Put an indestructible "
-"counter on Solphim, Mayhem Dominus."
+"counter on Solphim, Mayhem Dominus. (|mana_rp| can be paid with either |"
+"mana_r| or 2 life.)"
 msgstr ""
+"|mana_1|\\ |mana_wp|\\ |mana_wp|, poświęć dwa inne artefakty i/lub stwory: "
+"Umieść na niniejszym znacznik niezniszczalności. (|mana_wp| można opłacić "
+"używając |mana_w| lub 2 żyć.)"
 
 #: ../../ONE.rst:920
 msgid ""
@@ -3041,19 +3060,28 @@ msgstr ""
 #: ../../ONE.rst:1000
 msgid ""
 ":mtgtip:`Contagious Vorrac<https://cards.scryfall.io/border_crop/"
-"front/1/8/18af2c85-e58f-4043-99d3-e90121348aca.jpg?1674772967|https://"
+"front/1/8/18af2c85-e58f-4043-99d3-e90121348aca.jpg?1674815063|https://"
 "scryfall.com/card/one/164/contagious-vorrac?utm_source=api>`"
 msgstr ""
 
 #: ../../ONE.rst:999
+#, fuzzy
+#| msgid ""
+#| "Whenever another creature enters the battlefield under your control, you "
+#| "may pay |mana_2|. If you do, proliferate. (Choose any number of "
+#| "permanents and/or players, then give each another counter of each kind "
+#| "already there.)"
 msgid ""
 "When Contagious Vorrac enters the battlefield, look at the top four cards of "
-"your library. You may reveal a land card from among them and put it in your "
-"hand. Put the rest on the bottom of your library in a random order. If you "
-"didn't put a card into your hand this way, proliferate. (Choose any number "
-"of permanents and/or players, then give each another counter of each kind "
-"already there.)"
+"your library. You may reveal a land card from among them and put it into "
+"your hand. Put the rest on the bottom of your library in a random order. If "
+"you didn't put a card into your hand this way, proliferate. (Choose any "
+"number of permanents and/or players, then give each another counter of each "
+"kind already there.)"
 msgstr ""
+"Ilekroć inny stwór wejdzie na pole bitwy pod twoim władanie, możesz zapłacić "
+"|mana_2|. Jeśli tak zrobisz, rozpleń. (Wybierz dowolną liczbę bytów i/lub "
+"graczy, po czym daj im kolejny znacznik każdego z już obecnych tam rodzajów.)"
 
 #: ../../ONE.rst:1006
 msgid ""
@@ -3543,15 +3571,23 @@ msgstr ""
 #: ../../ONE.rst:1186
 msgid ""
 ":mtgtip:`Viral Spawning<https://cards.scryfall.io/border_crop/"
-"front/8/5/85ad30a1-3ecc-42ca-afe8-85df5bad9196.jpg?1674773024|https://"
+"front/8/5/85ad30a1-3ecc-42ca-afe8-85df5bad9196.jpg?1674815108|https://"
 "scryfall.com/card/one/194/viral-spawning?utm_source=api>`"
 msgstr ""
 
 #: ../../ONE.rst:1183
+#, fuzzy
+#| msgid ""
+#| "Until end of turn, target creature gets +1/+3 and gains flying and toxic "
+#| "1. (Players dealt combat damage by that creature also get a poison "
+#| "counter.)"
 msgid ""
 "Create a 3/3 green Phyrexian Beast creature token with toxic 1. (Players "
-"dealt combat damage by this creature also get a poison counter.)"
+"dealt combat damage by it also get a poison counter.)"
 msgstr ""
+"Do końca tury wskazany stwór dostaje +1/+3, latanie oraz toksyczność 1 "
+"(Gracz otrzymujący od owego stwora obrażenia dostaje także znacznik "
+"zatrucia.)"
 
 #: ../../ONE.rst:1185
 msgid ""
@@ -4167,7 +4203,7 @@ msgstr ""
 #: ../../ONE.rst:1416
 msgid ""
 ":mtgtip:`Basilica Skullbomb<https://cards.scryfall.io/border_crop/front/8/"
-"e/8e2f0ae2-db68-4338-93f9-9d9268cec41e.jpg?1674773082|https://scryfall.com/"
+"e/8e2f0ae2-db68-4338-93f9-9d9268cec41e.jpg?1674815142|https://scryfall.com/"
 "card/one/224/basilica-skullbomb?utm_source=api>`"
 msgstr ""
 
@@ -4185,7 +4221,7 @@ msgstr ""
 #: ../../ONE.rst:1422
 msgid ""
 ":mtgtip:`Dross Skullbomb<https://cards.scryfall.io/border_crop/"
-"front/6/6/66270dd2-9139-4329-9621-852962836688.jpg?1674773083|https://"
+"front/6/6/66270dd2-9139-4329-9621-852962836688.jpg?1674815169|https://"
 "scryfall.com/card/one/225/dross-skullbomb?utm_source=api>`"
 msgstr ""
 
@@ -4238,7 +4274,7 @@ msgstr ""
 #: ../../ONE.rst:1442
 msgid ""
 ":mtgtip:`Furnace Skullbomb<https://cards.scryfall.io/border_crop/front/c/b/"
-"cb530f9d-cf35-48a7-8711-f74b3d9a35a7.jpg?1674773087|https://scryfall.com/"
+"cb530f9d-cf35-48a7-8711-f74b3d9a35a7.jpg?1674815188|https://scryfall.com/"
 "card/one/228/furnace-skullbomb?utm_source=api>`"
 msgstr ""
 
@@ -4294,7 +4330,7 @@ msgstr ""
 #: ../../ONE.rst:1462
 msgid ""
 ":mtgtip:`Maze Skullbomb<https://cards.scryfall.io/border_crop/"
-"front/1/0/1073aee2-aea6-473d-97c6-248778d79d80.jpg?1674773095|https://"
+"front/1/0/1073aee2-aea6-473d-97c6-248778d79d80.jpg?1674815205|https://"
 "scryfall.com/card/one/231/maze-skullbomb?utm_source=api>`"
 msgstr ""
 
@@ -4488,7 +4524,7 @@ msgstr ""
 #: ../../ONE.rst:1536
 msgid ""
 ":mtgtip:`Surgical Skullbomb<https://cards.scryfall.io/border_crop/"
-"front/9/8/98c2b2af-739f-413c-8c36-da6f78df0acb.jpg?1674773117|https://"
+"front/9/8/98c2b2af-739f-413c-8c36-da6f78df0acb.jpg?1674815222|https://"
 "scryfall.com/card/one/243/surgical-skullbomb?utm_source=api>`"
 msgstr ""
 
@@ -4637,7 +4673,7 @@ msgstr "|tap|: Weź |mana_u| lub |mana_b|."
 #: ../../ONE.rst:1590
 msgid ""
 ":mtgtip:`The Dross Pits<https://cards.scryfall.io/border_crop/"
-"front/1/9/19d469f1-2219-4466-9f8a-769ee43e28db.jpg?1674773128|https://"
+"front/1/9/19d469f1-2219-4466-9f8a-769ee43e28db.jpg?1674815238|https://"
 "scryfall.com/card/one/251/the-dross-pits?utm_source=api>`"
 msgstr ""
 
@@ -4953,7 +4989,7 @@ msgstr ""
 #: ../../ONE.rst:1710
 msgid ""
 ":mtgtip:`Rhuk, Hexgold Nabber<https://cards.scryfall.io/border_crop/front/"
-"d/7/d7c25806-1da6-4789-a17e-d2440184ec40.jpg?1674773354|https://scryfall.com/"
+"d/7/d7c25806-1da6-4789-a17e-d2440184ec40.jpg?1675023283|https://scryfall.com/"
 "card/one/407/rhuk-hexgold-nabber?utm_source=api>`"
 msgstr ""
 
@@ -4964,7 +5000,7 @@ msgstr "Tratowanie, pośpiech"
 #: ../../ONE.rst:1709
 msgid ""
 "Whenever an equipped creature you control other than Rhuk, Hexgold Nabber "
-"attacks or dies, you may attached all Equipment attached to that creature to "
+"attacks or dies, you may attach all Equipment attached to that creature to "
 "Rhuk."
 msgstr ""
 
