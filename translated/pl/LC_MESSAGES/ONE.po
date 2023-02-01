@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG po polsku 2022.12\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-31 12:31+0100\n"
-"PO-Revision-Date: 2023-01-31 11:39+0000\n"
+"PO-Revision-Date: 2023-02-01 12:30+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/one/pl/>\n"
 "Language: pl\n"
@@ -386,16 +386,12 @@ msgid ""
 msgstr ""
 
 #: ../../ONE.rst:49
-#, fuzzy
-#| msgid ""
-#| "Target creature gets +2/+2 until end of turn. If that creature has toxic, "
-#| "draw a card."
 msgid ""
 "Target creature you control gets +2/+2 until end of turn. If that creature "
 "has toxic, draw a card."
 msgstr ""
-"Wskazany stwór do końca tury dostaje +2/+2. Jeśli ma on toksyczność, dobierz "
-"kartę."
+"Wskazany stwór pod twoim władaniem do końca tury dostaje +2/+2. Jeśli ma on "
+"toksyczność, dobierz kartę."
 
 #: ../../ONE.rst:56
 msgid ""
@@ -481,6 +477,8 @@ msgid ""
 "−4: For each player, choose a creature that player controls. Each player "
 "sacrifices all creatures they control not chosen this way."
 msgstr ""
+"–4: U każdego gracza wybierz stwora pod władaniem owego gracza. Każdy gracz "
+"poświęca wszystkie stwory pod swoim władaniem nie wybrane w ten sposób."
 
 #: ../../ONE.rst:88
 msgid ""
@@ -866,6 +864,8 @@ msgid ""
 "Corrupted — |mana_w|, |tap|: Tap target creature. Activate only if an "
 "opponent has three or more poison counters."
 msgstr ""
+"Zbrukanie — |mana_w|, |tap|: Przekręć wskazanego stwora. Aktywuj tylko jeśli "
+"przeciwnik ma co najmniej trzy znaczniki zatrucia."
 
 #: ../../ONE.rst:226
 msgid ""
@@ -876,7 +876,7 @@ msgstr ""
 
 #: ../../ONE.rst:223
 msgid "Skrelv, Defector Mite can't block."
-msgstr ""
+msgstr "Niniejszy nie może blokować."
 
 #: ../../ONE.rst:225
 msgid ""
@@ -5017,6 +5017,9 @@ msgid ""
 "Beast creature tokens with toxic 1. (Players dealt combat damage by them "
 "also get a poison counter.)"
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, stwórz dwa żetony zielonego stwora "
+"Phyreksiańska Bestia 3/3 z toksycznością 1. (Gracze otrzymujący od nich "
+"obrażenia dostają także znacznik zatrucia.)"
 
 #: ../../ONE.rst:1715
 msgid ""
