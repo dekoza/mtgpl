@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2022.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-02-03 01:07+0100\n"
-"PO-Revision-Date: 2023-01-09 08:48+0000\n"
+"PO-Revision-Date: 2023-02-03 11:00+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dmr/pl/>\n"
 "Language: pl\n"
@@ -2103,14 +2103,8 @@ msgid ""
 msgstr ""
 
 #: ../../DMR.rst:641
-#, fuzzy
-#| msgid ""
-#| "You may pay 1 life and exile a blue card from your hand rather than pay "
-#| "this spell's mana cost."
 msgid "You may sacrifice two Mountains rather than pay this spell's mana cost."
-msgstr ""
-"Możesz zapłacić 1 życie i wygnać niebieską kartę z twojej ręki zamiast "
-"płacić koszt many tego czaru."
+msgstr "Możesz poświęcić dwie Góry zamiast płacić koszt many tego czaru."
 
 #: ../../DMR.rst:643
 msgid "Fireblast deals 4 damage to any target."
@@ -3823,18 +3817,14 @@ msgid ""
 msgstr ""
 
 #: ../../DMR.rst:1221
-#, fuzzy
-#| msgid ""
-#| "|mana_r|: You may put a creature card from your hand onto the "
-#| "battlefield. That creature gains haste. Sacrifice the creature at the "
-#| "beginning of the next end step."
 msgid ""
 "Tap two untapped creatures you control: You may put a creature card from "
 "your hand that shares a creature type with each creature tapped this way "
 "onto the battlefield."
 msgstr ""
-"|mana_r|: Możesz umieścić kartę stwora z twojej ręki na polu bitwy. Ów stwór "
-"zyskuje pośpiech. Poświęć go na początku najbliższego kroku końcowego."
+"Przekręć dwa odkręcone stwory pod twoim władaniem: Możesz umieścić na polu "
+"bitwy kartę stwora z twojej ręki mającą wspólny typ stwora z każdym stworem "
+"przekręconym w ten sposób."
 
 #: ../../DMR.rst:1228
 msgid ""
@@ -4471,16 +4461,12 @@ msgid ""
 msgstr ""
 
 #: ../../DMR.rst:1457
-#, fuzzy
-#| msgid ""
-#| "|mana_2|, |tap|, Sacrifice Jester's Cap: Search target player's library "
-#| "for three cards and exile them. Then that player shuffles."
 msgid ""
 "|mana_2|, |tap|, Sacrifice Terminal Moraine: Search your library for a basic "
 "land card, put that card onto the battlefield tapped, then shuffle."
 msgstr ""
-"|mana_2|, |tap|, poświęć ten artefakt: Wyszukaj w bibliotece wskazanego "
-"gracza trzy karty i wygnaj je. Następnie ów gracz tasuje."
+"|mana_2|, |tap|, poświęć ten byt: Wyszukaj w twojej bibliotece kartę "
+"bazowego lądu, umieść ową kartę przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../DMR.rst:1464
 msgid ""
