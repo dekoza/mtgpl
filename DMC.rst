@@ -455,7 +455,7 @@
    Whenever you sacrifice a Treasure, Captain Lannery Storm gets +1/+0 until end of turn.
 
 
-:mtgtip:`Etali, Primal Storm<https://cards.scryfall.io/border_crop/front/a/0/a03fb3a7-3ef6-4162-aad2-82610492aa72.jpg?1673344519|https://scryfall.com/card/dmc/121/etali-primal-storm?utm_source=api>`
+:mtgtip:`Etali, Primal Storm<https://cards.scryfall.io/border_crop/front/a/0/a03fb3a7-3ef6-4162-aad2-82610492aa72.jpg?1675182771|https://scryfall.com/card/dmc/121/etali-primal-storm?utm_source=api>`
    Whenever Etali, Primal Storm attacks, exile the top card of each player's library, then you may cast any number of spells from among those cards without paying their mana costs.
 
 

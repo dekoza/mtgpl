@@ -449,7 +449,7 @@
    |mana_1|\ |mana_r|, Sacrifice a Goblin: Siege-Gang Commander deals 2 damage to any target.
 
 
-:mtgtip:`Beast Within<https://cards.scryfall.io/border_crop/front/c/6/c6a30538-8a7b-425e-a9ae-562e527151ec.jpg?1674772460|https://scryfall.com/card/onc/104/beast-within?utm_source=api>`
+:mtgtip:`Beast Within<https://cards.scryfall.io/border_crop/front/c/6/c6a30538-8a7b-425e-a9ae-562e527151ec.jpg?1675358314|https://scryfall.com/card/onc/104/beast-within?utm_source=api>`
    Destroy target permanent. Its controller creates a 3/3 green Beast creature token.
 
 

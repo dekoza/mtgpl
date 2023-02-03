@@ -1119,7 +1119,7 @@
    Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. If this spell was kicked, create two 1/1 white Soldier creature tokens.
 
 
-:mtgtip:`Silverback Elder<https://cards.scryfall.io/border_crop/front/b/9/b987664f-0b74-4c0a-b306-14767a55559a.jpg?1673307782|https://scryfall.com/card/dmu/177/silverback-elder?utm_source=api>`
+:mtgtip:`Silverback Elder<https://cards.scryfall.io/border_crop/front/b/9/b987664f-0b74-4c0a-b306-14767a55559a.jpg?1675182563|https://scryfall.com/card/dmu/177/silverback-elder?utm_source=api>`
    Whenever you cast a creature spell, choose one —
 
    • Destroy target artifact or enchantment.
