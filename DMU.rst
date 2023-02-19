@@ -843,7 +843,7 @@
    Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. If this spell was kicked, sacrifice that creature at the beginning of the next end step.
 
 
-:mtgtip:`Jaya, Fiery Negotiator<https://cards.scryfall.io/border_crop/front/3/b/3b9f54f0-4368-4d28-aa21-3f1e7be1b23a.jpg?1673307415|https://scryfall.com/card/dmu/133/jaya-fiery-negotiator?utm_source=api>`
+:mtgtip:`Jaya, Fiery Negotiator<https://cards.scryfall.io/border_crop/front/3/b/3b9f54f0-4368-4d28-aa21-3f1e7be1b23a.jpg?1675522607|https://scryfall.com/card/dmu/133/jaya-fiery-negotiator?utm_source=api>`
    +1: Create a 1/1 red Monk creature token with prowess.
 
    −1: Exile the top two cards of your library. Choose one of them. You may play that card this turn.
@@ -1181,7 +1181,7 @@
    When Vineshaper Prodigy enters the battlefield, if it was kicked, look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.
 
 
-:mtgtip:`The Weatherseed Treaty<https://cards.scryfall.io/border_crop/front/e/2/e2a54461-1f75-4304-b6d7-635171419456.jpg?1673307861|https://scryfall.com/card/dmu/188/the-weatherseed-treaty?utm_source=api>`
+:mtgtip:`The Weatherseed Treaty<https://cards.scryfall.io/border_crop/front/e/2/e2a54461-1f75-4304-b6d7-635171419456.jpg?1675812018|https://scryfall.com/card/dmu/188/the-weatherseed-treaty?utm_source=api>`
    Read ahead (Choose a chapter and start with that many lore counters. Add one after your draw step. Skipped chapters don't trigger. Sacrifice after III.)
 
    I — Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
@@ -1211,7 +1211,7 @@
    Domain — This spell costs |mana_1| less to cast for each basic land type among lands you control.
 
 
-:mtgtip:`Ajani, Sleeper Agent<https://cards.scryfall.io/border_crop/front/7/6/7641f4d9-4614-41c8-87f5-4845bd78e9b3.jpg?1673307891|https://scryfall.com/card/dmu/192/ajani-sleeper-agent?utm_source=api>`
+:mtgtip:`Ajani, Sleeper Agent<https://cards.scryfall.io/border_crop/front/7/6/7641f4d9-4614-41c8-87f5-4845bd78e9b3.jpg?1675522413|https://scryfall.com/card/dmu/192/ajani-sleeper-agent?utm_source=api>`
    Compleated (|mana_gwp| can be paid with |mana_g|, |mana_w|, or 2 life. If life was paid, this planeswalker enters with two fewer loyalty counters.)
 
    +1: Reveal the top card of your library. If it's a creature or planeswalker card, put it into your hand. Otherwise, you may put it on the bottom of your library.

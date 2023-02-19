@@ -565,7 +565,7 @@
    As long as Archelos is untapped, other permanents enter the battlefield untapped.
 
 
-:mtgtip:`Arvad the Cursed<https://cards.scryfall.io/border_crop/front/3/b/3b85ed69-bb0b-477b-8600-b2e7f3c95ce4.jpg?1673305442|https://scryfall.com/card/dmc/141/arvad-the-cursed?utm_source=api>`
+:mtgtip:`Arvad the Cursed<https://cards.scryfall.io/border_crop/front/3/b/3b85ed69-bb0b-477b-8600-b2e7f3c95ce4.jpg?1676317473|https://scryfall.com/card/dmc/141/arvad-the-cursed?utm_source=api>`
    Deathtouch, lifelink
 
    Other legendary creatures you control get +2/+2.
@@ -809,7 +809,7 @@
    Equip |mana_7|
 
 
-:mtgtip:`Bontu's Monument<https://cards.scryfall.io/border_crop/front/1/7/171a9a3f-6278-4921-9848-2b8459869d6c.jpg?1673305754|https://scryfall.com/card/dmc/179/bontus-monument?utm_source=api>`
+:mtgtip:`Bontu's Monument<https://cards.scryfall.io/border_crop/front/1/7/171a9a3f-6278-4921-9848-2b8459869d6c.jpg?1676318123|https://scryfall.com/card/dmc/179/bontus-monument?utm_source=api>`
    Black creature spells you cast cost |mana_1| less to cast.
 
    Whenever you cast a creature spell, each opponent loses 1 life and you gain 1 life.
@@ -833,7 +833,7 @@
    |tap|: Add one mana of any color that a land an opponent controls could produce.
 
 
-:mtgtip:`Hazoret's Monument<https://cards.scryfall.io/border_crop/front/3/c/3c862fc4-e2fe-4fad-8bc1-a53f1fecc4de.jpg?1673305790|https://scryfall.com/card/dmc/183/hazorets-monument?utm_source=api>`
+:mtgtip:`Hazoret's Monument<https://cards.scryfall.io/border_crop/front/3/c/3c862fc4-e2fe-4fad-8bc1-a53f1fecc4de.jpg?1676318135|https://scryfall.com/card/dmc/183/hazorets-monument?utm_source=api>`
    Red creature spells you cast cost |mana_1| less to cast.
 
    Whenever you cast a creature spell, you may discard a card. If you do, draw a card.
@@ -865,7 +865,7 @@
    Tap an untapped legendary permanent you control: Untap Honor-Worn Shaku.
 
 
-:mtgtip:`Oketra's Monument<https://cards.scryfall.io/border_crop/front/a/7/a7f1d5a6-bdf2-4b12-b11e-70f58b59dd80.jpg?1673305836|https://scryfall.com/card/dmc/188/oketras-monument?utm_source=api>`
+:mtgtip:`Oketra's Monument<https://cards.scryfall.io/border_crop/front/a/7/a7f1d5a6-bdf2-4b12-b11e-70f58b59dd80.jpg?1676318142|https://scryfall.com/card/dmc/188/oketras-monument?utm_source=api>`
    White creature spells you cast cost |mana_1| less to cast.
 
    Whenever you cast a creature spell, create a 1/1 white Warrior creature token with vigilance.
@@ -891,7 +891,7 @@
    |tap|: Target legendary creature gets +2/+2 until end of turn.
 
 
-:mtgtip:`Tenza, Godo's Maul<https://cards.scryfall.io/border_crop/front/3/f/3f918d2a-5769-43ce-a8e8-41db6c8f251d.jpg?1673305882|https://scryfall.com/card/dmc/193/tenza-godos-maul?utm_source=api>`
+:mtgtip:`Tenza, Godo's Maul<https://cards.scryfall.io/border_crop/front/3/f/3f918d2a-5769-43ce-a8e8-41db6c8f251d.jpg?1676318255|https://scryfall.com/card/dmc/193/tenza-godos-maul?utm_source=api>`
    Equipped creature gets +1/+1. As long as it's legendary, it gets an additional +2/+2. As long as it's red, it has trample.
 
    Equip |mana_1| (|mana_1|: Attach to target creature you control. Equip only as a sorcery.)

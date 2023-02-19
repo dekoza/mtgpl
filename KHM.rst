@@ -413,7 +413,7 @@
    |mana_s|, |tap|: Tap target artifact or creature. (|mana_s| can be paid with one mana from a snow source.)
 
 
-:mtgtip:`Icebreaker Kraken<https://cards.scryfall.io/border_crop/front/f/1/f1fdb9bb-09a2-4ff7-bcd4-35ea33c1b752.jpg?1631047246|https://scryfall.com/card/khm/63/icebreaker-kraken?utm_source=api>`
+:mtgtip:`Icebreaker Kraken<https://cards.scryfall.io/border_crop/front/f/1/f1fdb9bb-09a2-4ff7-bcd4-35ea33c1b752.jpg?1676452620|https://scryfall.com/card/khm/63/icebreaker-kraken?utm_source=api>`
    This spell costs |mana_1| less to cast for each snow land you control.
 
    When Icebreaker Kraken enters the battlefield, artifacts and creatures target opponent controls don't untap during that player's next untap step.
@@ -1515,7 +1515,7 @@
    |mana_s|\ |mana_s|\ |mana_s|: Return Narfi, Betrayer King from your graveyard to the battlefield tapped. (|mana_s| can be paid with one mana from a snow source.)
 
 
-:mtgtip:`A-Narfi, Betrayer King<https://cards.scryfall.io/border_crop/front/2/d/2d689fc6-c7b5-46f8-9ec2-2bc4b4af87c0.jpg?1649850853|https://scryfall.com/card/khm/A-224/a-narfi-betrayer-king?utm_source=api>`
+:mtgtip:`A-Narfi, Betrayer King<https://cards.scryfall.io/border_crop/front/2/d/2d689fc6-c7b5-46f8-9ec2-2bc4b4af87c0.jpg?1676453198|https://scryfall.com/card/khm/A-224/a-narfi-betrayer-king?utm_source=api>`
    Other snow and Zombie creatures you control get +1/+1.
 
    |mana_s|\ |mana_s|\ |mana_s|: Return Narfi, Betrayer King from your graveyard to the battlefield tapped. (|mana_s| can be paid with one mana from a snow source.)

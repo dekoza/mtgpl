@@ -3797,7 +3797,7 @@
    |tap|: Add |mana_r|\ |mana_g|.
 
 
-:mtgtip:`Highland Forest<https://cards.scryfall.io/border_crop/front/5/9/59f64a32-c364-4750-94ed-d4d71c1a3511.jpg?1674142927|https://scryfall.com/card/clb/896/highland-forest?utm_source=api>`
+:mtgtip:`Highland Forest<https://cards.scryfall.io/border_crop/front/5/9/59f64a32-c364-4750-94ed-d4d71c1a3511.jpg?1676452616|https://scryfall.com/card/clb/896/highland-forest?utm_source=api>`
    (|tap|: Add |mana_r| or |mana_g|.)
 
    Highland Forest enters the battlefield tapped.
@@ -3927,7 +3927,7 @@
    |mana_1|\ |mana_w|\ |mana_b|: Shambling Vent becomes a 2/3 white and black Elemental creature with lifelink until end of turn. It's still a land.
 
 
-:mtgtip:`Snowfield Sinkhole<https://cards.scryfall.io/border_crop/front/3/c/3c6e17f2-b1e4-4189-a02f-92fa4b13a1ed.jpg?1674143081|https://scryfall.com/card/clb/915/snowfield-sinkhole?utm_source=api>`
+:mtgtip:`Snowfield Sinkhole<https://cards.scryfall.io/border_crop/front/3/c/3c6e17f2-b1e4-4189-a02f-92fa4b13a1ed.jpg?1676453152|https://scryfall.com/card/clb/915/snowfield-sinkhole?utm_source=api>`
    (|tap|: Add |mana_w| or |mana_b|.)
 
    Snowfield Sinkhole enters the battlefield tapped.

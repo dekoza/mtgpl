@@ -25,7 +25,7 @@
    |mana_5|: Creatures you control get +1/+1 until end of turn.
 
 
-:mtgtip:`Calamity's Wake<https://cards.scryfall.io/border_crop/front/0/1/013bed2b-25db-4dfc-9283-e80c9ac6c841.jpg?1674420146|https://scryfall.com/card/bro/4/calamitys-wake?utm_source=api>`
+:mtgtip:`Calamity's Wake<https://cards.scryfall.io/border_crop/front/0/1/013bed2b-25db-4dfc-9283-e80c9ac6c841.jpg?1675567420|https://scryfall.com/card/bro/4/calamitys-wake?utm_source=api>`
    Exile all graveyards. Players can't cast noncreature spells this turn. Exile Calamity's Wake.
 
 
@@ -287,10 +287,10 @@
    At the beginning of your end step, if you've cast a noncreature spell this turn, reveal the top five cards of your library. For each card type among noncreature spells you've cast this turn, you may put a card of that type from among the revealed cards into your hand. Put the rest on the bottom of your library in a random order.
 
 
-:mtgtip:`Hurkyl's Final Meditation<https://cards.scryfall.io/border_crop/front/5/5/5577f345-9577-42f8-b244-089b9a7c2e56.jpg?1674420522|https://scryfall.com/card/bro/52/hurkyls-final-meditation?utm_source=api>`
+:mtgtip:`Hurkyl's Final Meditation<https://cards.scryfall.io/border_crop/front/5/5/5577f345-9577-42f8-b244-089b9a7c2e56.jpg?1675567442|https://scryfall.com/card/bro/52/hurkyls-final-meditation?utm_source=api>`
    As long as it's not your turn, this spell costs |mana_3| more to cast.
 
-   Return all nonland permanents to their owner's hands. End the turn. (Exile all spells and abilities from the stack, including this card. The player whose turn it is discards down to their maximum hand size. Damage wears off, and "this turn" and "until end of turn" effects end.)
+   Return all nonland permanents to their owners' hands. End the turn. (Exile all spells and abilities from the stack, including this card. The player whose turn it is discards down to their maximum hand size. Damage wears off, and "this turn" and "until end of turn" effects end.)
 
 
 :mtgtip:`Involuntary Cooldown<https://cards.scryfall.io/border_crop/front/d/4/d4fcaf6d-6491-4459-98b0-b3c7d43df59e.jpg?1674420529|https://scryfall.com/card/bro/53/involuntary-cooldown?utm_source=api>`
@@ -555,10 +555,10 @@
    Draw cards equal to the mana value of target artifact or creature you control. An opponent gains control of that permanent.
 
 
-:mtgtip:`Gix, Yawgmoth Praetor<https://cards.scryfall.io/border_crop/front/2/c/2c76f7e0-37e7-4e87-93a3-a25ba0674645.jpg?1674420849|https://scryfall.com/card/bro/95/gix-yawgmoth-praetor?utm_source=api>`
+:mtgtip:`Gix, Yawgmoth Praetor<https://cards.scryfall.io/border_crop/front/2/c/2c76f7e0-37e7-4e87-93a3-a25ba0674645.jpg?1675567458|https://scryfall.com/card/bro/95/gix-yawgmoth-praetor?utm_source=api>`
    Whenever a creature deals combat damage to one of your opponents, its controller may pay 1 life. If they do, they draw a card.
 
-   |mana_4|\ |mana_b|\ |mana_b|\ |mana_b|, Discard X cards: Exile the top X cards of target opponent's library. You may play land cards and cast spells from among cards exiled this way without paying their mana costs.
+   |mana_4|\ |mana_b|\ |mana_b|\ |mana_b|, Discard X cards: Exile the top X cards of target opponent's library. You may play lands and cast spells from among cards exiled this way without paying their mana costs.
 
 
 :mtgtip:`Gix's Caress<https://cards.scryfall.io/border_crop/front/f/1/f1140cb9-6c48-4054-966e-5cc02aa7d5a4.jpg?1674420856|https://scryfall.com/card/bro/96/gixs-caress?utm_source=api>`
@@ -717,7 +717,7 @@
    |mana_4|\ |mana_b|\ |mana_b|: Return Razorlash Transmogrant from your graveyard to the battlefield with a +1/+1 counter on it. This ability costs |mana_4| less to activate if an opponent controls four or more nonbasic lands.
 
 
-:mtgtip:`Scrapwork Rager<https://cards.scryfall.io/border_crop/front/e/2/e28de770-7975-4aa9-b656-e7dbe6bff290.jpg?1674421051|https://scryfall.com/card/bro/123/scrapwork-rager?utm_source=api>`
+:mtgtip:`Scrapwork Rager<https://cards.scryfall.io/border_crop/front/e/2/e28de770-7975-4aa9-b656-e7dbe6bff290.jpg?1676318800|https://scryfall.com/card/bro/123/scrapwork-rager?utm_source=api>`
    When Scrapwork Rager enters the battlefield, you draw a card and you lose 1 life.
 
    Unearth |mana_3|\ |mana_b| (|mana_3|\ |mana_b|: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)
@@ -755,7 +755,7 @@
    • Destroy all artifacts with mana value 3 or less.
 
 
-:mtgtip:`Conscripted Infantry<https://cards.scryfall.io/border_crop/front/f/5/f50b0449-8ff7-4549-893b-aeca93720c64.jpg?1674421096|https://scryfall.com/card/bro/129/conscripted-infantry?utm_source=api>`
+:mtgtip:`Conscripted Infantry<https://cards.scryfall.io/border_crop/front/f/5/f50b0449-8ff7-4549-893b-aeca93720c64.jpg?1676318391|https://scryfall.com/card/bro/129/conscripted-infantry?utm_source=api>`
    When Conscripted Infantry dies, create a 1/1 colorless Soldier artifact creature token.
 
 
@@ -1057,7 +1057,7 @@
    Create three tapped Powerstone tokens. You gain 3 life. (The tokens are artifacts with "|tap|: Add |colorless|. This mana can't be spent to cast a nonartifact spell.")
 
 
-:mtgtip:`Fauna Shaman<https://cards.scryfall.io/border_crop/front/b/8/b8b906eb-3223-474c-9b74-eda2c280f9c5.jpg?1674421545|https://scryfall.com/card/bro/179/fauna-shaman?utm_source=api>`
+:mtgtip:`Fauna Shaman<https://cards.scryfall.io/border_crop/front/b/8/b8b906eb-3223-474c-9b74-eda2c280f9c5.jpg?1675567470|https://scryfall.com/card/bro/179/fauna-shaman?utm_source=api>`
    |mana_g|, |tap|, Discard a creature card: Search your library for a creature card, reveal it, put it into your hand, then shuffle.
 
 

@@ -343,7 +343,7 @@
    Madness |mana_u| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
 
 
-:mtgtip:`Opposition<https://cards.scryfall.io/border_crop/front/a/e/ae14acde-8a5c-4f0e-8e68-b799a363b9f7.jpg?1675199392|https://scryfall.com/card/dmr/62/opposition?utm_source=api>`
+:mtgtip:`Opposition<https://cards.scryfall.io/border_crop/front/a/e/ae14acde-8a5c-4f0e-8e68-b799a363b9f7.jpg?1675977485|https://scryfall.com/card/dmr/62/opposition?utm_source=api>`
    Tap an untapped creature you control: Tap target artifact, creature, or land.
 
 
@@ -1349,7 +1349,7 @@
    |tap|: Add |mana_b|, |mana_r|, or |mana_g|.
 
 
-:mtgtip:`Dark Depths<https://cards.scryfall.io/border_crop/front/3/a/3a8b11ad-d077-40b6-988c-0462e118fe3d.jpg?1675201183|https://scryfall.com/card/dmr/244/dark-depths?utm_source=api>`
+:mtgtip:`Dark Depths<https://cards.scryfall.io/border_crop/front/3/a/3a8b11ad-d077-40b6-988c-0462e118fe3d.jpg?1676452514|https://scryfall.com/card/dmr/244/dark-depths?utm_source=api>`
    Dark Depths enters the battlefield with ten ice counters on it.
 
    |mana_3|: Remove an ice counter from Dark Depths.

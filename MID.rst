@@ -517,7 +517,21 @@
    Spells you cast from your graveyard cost |mana_1| less to cast.
 
 
+:mtgtip:`A-Patrician Geist<https://cards.scryfall.io/border_crop/front/a/1/a17c4ab2-f455-4195-86d2-b8d039fb27dd.jpg?1676762034|https://scryfall.com/card/mid/A-69/a-patrician-geist?utm_source=api>`
+   Flying
+
+   Other Spirits you control get +1/+1.
+
+   Spells you cast from your graveyard cost |mana_u| less to cast.
+
+
 :mtgtip:`Phantom Carriage<https://cards.scryfall.io/border_crop/front/1/9/1990ed41-3739-40f6-8797-359f88af05f9.jpg?1634349183|https://scryfall.com/card/mid/70/phantom-carriage?utm_source=api>`
+   Flying
+
+   When Phantom Carriage enters the battlefield, you may search your library for a card with flashback or disturb, put it into your graveyard, then shuffle.
+
+
+:mtgtip:`A-Phantom Carriage<https://cards.scryfall.io/border_crop/front/b/9/b99a920c-5bd9-4aee-863a-26b4bfd4bf08.jpg?1676762147|https://scryfall.com/card/mid/A-70/a-phantom-carriage?utm_source=api>`
    Flying
 
    When Phantom Carriage enters the battlefield, you may search your library for a card with flashback or disturb, put it into your graveyard, then shuffle.
@@ -551,6 +565,12 @@
    Whenever you discard a Spirit card or a card with disturb, put a +1/+1 counter on Shipwreck Sifters.
 
 
+:mtgtip:`A-Shipwreck Sifters<https://cards.scryfall.io/border_crop/front/5/9/59feb0fa-3d5f-4712-899c-272f3976ff0d.jpg?1676762210|https://scryfall.com/card/mid/A-74/a-shipwreck-sifters?utm_source=api>`
+   When Shipwreck Sifters enters the battlefield, draw a card, then discard a card.
+
+   Whenever a Spirit card or a card with disturb is put into your graveyard from anywhere, put a +1/+1 counter on Shipwreck Sifters.
+
+
 :mtgtip:`Skaab Wrangler<https://cards.scryfall.io/border_crop/front/9/7/9771d9e8-97d5-44af-8612-dc5c44d65ceb.jpg?1634349275|https://scryfall.com/card/mid/75/skaab-wrangler?utm_source=api>`
    Tap three untapped creatures you control: Tap target creature.
 
@@ -575,7 +595,7 @@
    Draw a card.
 
 
-:mtgtip:`Stormrider Spirit<https://cards.scryfall.io/border_crop/front/8/1/81a95edb-9f5b-4e42-8b27-0b3d978dcefe.jpg?1634349372|https://scryfall.com/card/mid/79/stormrider-spirit?utm_source=api>`
+:mtgtip:`Stormrider Spirit<https://cards.scryfall.io/border_crop/front/8/1/81a95edb-9f5b-4e42-8b27-0b3d978dcefe.jpg?1675567504|https://scryfall.com/card/mid/79/stormrider-spirit?utm_source=api>`
    Flash
 
    Flying
@@ -865,7 +885,7 @@
    Target creature gets -2/-2 until end of turn. If it's night, that creature gets -13/-13 until end of turn instead.
 
 
-:mtgtip:`Rotten Reunion<https://cards.scryfall.io/border_crop/front/9/7/97398ad2-675b-4a34-aab7-935dd6714f1c.jpg?1634350215|https://scryfall.com/card/mid/119/rotten-reunion?utm_source=api>`
+:mtgtip:`Rotten Reunion<https://cards.scryfall.io/border_crop/front/9/7/97398ad2-675b-4a34-aab7-935dd6714f1c.jpg?1675567516|https://scryfall.com/card/mid/119/rotten-reunion?utm_source=api>`
    Exile up to one target card from a graveyard. Create a 2/2 black Zombie creature token with decayed. (It can't block. When it attacks, sacrifice it at end of combat.)
 
    Flashback |mana_1|\ |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
@@ -957,7 +977,7 @@
    Burn the Accursed deals 5 damage to target creature and 2 damage to that creature's controller. If that creature would die this turn, exile it instead.
 
 
-:mtgtip:`Cathartic Pyre<https://cards.scryfall.io/border_crop/front/b/0/b045c28a-39f9-4cd9-8f3a-a626b697f409.jpg?1636208222|https://scryfall.com/card/mid/133/cathartic-pyre?utm_source=api>`
+:mtgtip:`Cathartic Pyre<https://cards.scryfall.io/border_crop/front/b/0/b045c28a-39f9-4cd9-8f3a-a626b697f409.jpg?1675567527|https://scryfall.com/card/mid/133/cathartic-pyre?utm_source=api>`
    Choose one —
 
    • Cathartic Pyre deals 3 damage to target creature or planeswalker.
@@ -1587,6 +1607,20 @@
    Flying
 
    Departed Soulkeeper can block only creatures with flying.
+
+   If Departed Soulkeeper would be put into a graveyard from anywhere, exile it instead.
+
+
+:mtgtip:`A-Devoted Grafkeeper<https://cards.scryfall.io/border_crop/front/5/1/5132a045-fe39-4e45-8abd-d0c1069caee7.jpg?1676762237|https://scryfall.com/card/mid/A-218/a-devoted-grafkeeper-a-departed-soulkeeper?utm_source=api>`
+   When Devoted Grafkeeper enters the battlefield, mill four cards
+
+   Whenever you cast a spell from your graveyard, tap target creature you don't control.
+
+   Disturb |mana_1|\ |mana_w|\ |mana_u| (You may cast this card from your graveyard transformed for its disturb cost.)
+
+
+:mtgtip:`A-Departed Soulkeeper<https://cards.scryfall.io/border_crop/back/5/1/5132a045-fe39-4e45-8abd-d0c1069caee7.jpg?1676762237|https://scryfall.com/card/mid/A-218/a-devoted-grafkeeper-a-departed-soulkeeper?utm_source=api>`
+   Flying
 
    If Departed Soulkeeper would be put into a graveyard from anywhere, exile it instead.
 

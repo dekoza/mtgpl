@@ -29,7 +29,7 @@
    |mana_4|\ |mana_gu|: Brokers Initiate has base power and toughness 5/5 until end of turn.
 
 
-:mtgtip:`Buy Your Silence<https://cards.scryfall.io/border_crop/front/8/c/8c9ac05f-f47c-4569-a06e-793d28cbb936.jpg?1664409515|https://scryfall.com/card/snc/6/buy-your-silence?utm_source=api>`
+:mtgtip:`Buy Your Silence<https://cards.scryfall.io/border_crop/front/8/c/8c9ac05f-f47c-4569-a06e-793d28cbb936.jpg?1675567484|https://scryfall.com/card/snc/6/buy-your-silence?utm_source=api>`
    Exile target nonland permanent. Its controller creates a Treasure token. (It's an artifact with "|tap|, Sacrifice this artifact: Add one mana of any color.")
 
 
