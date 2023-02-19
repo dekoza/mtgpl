@@ -12,6 +12,7 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -237,19 +238,31 @@ msgid ":mtgexp:`MUL` Multiverse Legends"
 msgstr ""
 
 #: ../../MUL.rst:12
-msgid ":mtgtip:`Ragavan, Nimble Pilferer<https://cards.scryfall.io/border_crop/front/f/c/fc898fec-4cc6-4587-b556-c5a8d38ccbd0.jpg?1676822144|https://scryfall.com/card/mul/21/ragavan-nimble-pilferer?utm_source=api>`"
+msgid ""
+":mtgtip:`Ragavan, Nimble Pilferer<https://cards.scryfall.io/border_crop/"
+"front/f/c/fc898fec-4cc6-4587-b556-c5a8d38ccbd0.jpg?1676822144|https://"
+"scryfall.com/card/mul/21/ragavan-nimble-pilferer?utm_source=api>`"
 msgstr ""
 
 #: ../../MUL.rst:9
-msgid "Whenever Ragavan, Nimble Pilferer deals combat damage to a player, create a Treasure token and exile the top card of that player's library. Until end of turn, you may cast that card."
+msgid ""
+"Whenever Ragavan, Nimble Pilferer deals combat damage to a player, create a "
+"Treasure token and exile the top card of that player's library. Until end of "
+"turn, you may cast that card."
 msgstr ""
 
 #: ../../MUL.rst:11
-msgid "Dash |mana_1|\\ |mana_r| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)"
+msgid ""
+"Dash |mana_1|\\ |mana_r| (You may cast this spell for its dash cost. If you "
+"do, it gains haste, and it's returned from the battlefield to its owner's "
+"hand at the beginning of the next end step.)"
 msgstr ""
 
 #: ../../MUL.rst:17
-msgid ":mtgtip:`Atraxa, Praetors' Voice<https://cards.scryfall.io/border_crop/front/b/d/bd0d5a0c-5dec-439c-b037-9d17dda5ead3.jpg?1676822153|https://scryfall.com/card/mul/33/atraxa-praetors-voice?utm_source=api>`"
+msgid ""
+":mtgtip:`Atraxa, Praetors' Voice<https://cards.scryfall.io/border_crop/front/"
+"b/d/bd0d5a0c-5dec-439c-b037-9d17dda5ead3.jpg?1676822153|https://scryfall.com/"
+"card/mul/33/atraxa-praetors-voice?utm_source=api>`"
 msgstr ""
 
 #: ../../MUL.rst:15
@@ -257,5 +270,8 @@ msgid "Flying, vigilance, deathtouch, lifelink"
 msgstr ""
 
 #: ../../MUL.rst:17
-msgid "At the beginning of your end step, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
+msgid ""
+"At the beginning of your end step, proliferate. (Choose any number of "
+"permanents and/or players, then give each another counter of each kind "
+"already there.)"
 msgstr ""
