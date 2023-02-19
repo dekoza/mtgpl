@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG po polsku 2022.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-02-19 15:10+0100\n"
-"PO-Revision-Date: 2023-01-09 08:48+0000\n"
+"PO-Revision-Date: 2023-02-19 14:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/bro/pl/>\n"
 "Language: pl\n"
@@ -1227,20 +1227,14 @@ msgstr ""
 "O ile nie jest twoja tura, rzucenie tego czaru kosztuje o |mana_3| więcej."
 
 #: ../../BRO.rst:293
-#, fuzzy
-#| msgid ""
-#| "Return all nonland permanents to their owner's hands. End the turn. "
-#| "(Exile all spells and abilities from the stack, including this card. The "
-#| "player whose turn it is discards down to their maximum hand size. Damage "
-#| "wears off, and \"this turn\" and \"until end of turn\" effects end.)"
 msgid ""
 "Return all nonland permanents to their owners' hands. End the turn. (Exile "
 "all spells and abilities from the stack, including this card. The player "
 "whose turn it is discards down to their maximum hand size. Damage wears off, "
 "and \"this turn\" and \"until end of turn\" effects end.)"
 msgstr ""
-"Przywróć wszystkie nielądowe byty do rąk ich właścicieli. Zakończ turę. "
-"(Wygnaj wszystkie czary i zdolności ze stosu, włącznie z niniejszą kartą. "
+"Przywróć wszystkie nielądowe byty do rąk ich właścicieli. Zakończ turę. ("
+"Wygnaj wszystkie czary i zdolności ze stosu, włącznie z niniejszą kartą. "
 "Gracz, którego jest tura, odrzuca karty do swojego limitu kart na ręce. "
 "Obrażenia znikają, a efekty \"w tej turze\" i \"do końca tury\" kończą się.)"
 
@@ -1363,7 +1357,7 @@ msgstr ""
 
 #: ../../BRO.rst:333
 msgid "You may play lands and cast spells from the top of your library."
-msgstr "Możesz zagrywać lądy i rzucać czaru z wierzchu twojej biblioteki."
+msgstr "Możesz zagrywać lądy i rzucać czary z wierzchu twojej biblioteki."
 
 #: ../../BRO.rst:335
 msgid ""
@@ -2080,11 +2074,6 @@ msgstr ""
 "zapłacić 1 życie. Jeśli tak zrobi, dobiera kartę."
 
 #: ../../BRO.rst:561
-#, fuzzy
-#| msgid ""
-#| "|mana_4|\\ |mana_b|\\ |mana_b|\\ |mana_b|, Discard X cards: Exile the top "
-#| "X cards of target opponent's library. You may play land cards and cast "
-#| "spells from among cards exiled this way without paying their mana costs."
 msgid ""
 "|mana_4|\\ |mana_b|\\ |mana_b|\\ |mana_b|, Discard X cards: Exile the top X "
 "cards of target opponent's library. You may play lands and cast spells from "
@@ -2092,8 +2081,8 @@ msgid ""
 msgstr ""
 "|mana_4|\\ |mana_b|\\ |mana_b|\\ |mana_b|, odrzuć X kart: Wygnaj X "
 "wierzchnich kart z biblioteki wskazanego przeciwnika. Spośród kart wygnanych "
-"w ten sposób możesz zagrać karty lądów i rzucać czary bez płacenia ich "
-"kosztów many."
+"w ten sposób możesz zagrywać lądy i rzucać czary bez płacenia ich kosztów "
+"many."
 
 #: ../../BRO.rst:568
 msgid ""

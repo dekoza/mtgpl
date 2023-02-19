@@ -1,13 +1,13 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2013-2021, Dominik Kozaczko
 # This file is distributed under the same license as the MTG-pl package.
-# Weblate Admin <weblate-admin@kozaczko.info>, 2021, 2022.
+# Weblate Admin <weblate-admin@kozaczko.info>, 2021, 2022, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-02-19 15:10+0100\n"
-"PO-Revision-Date: 2022-12-06 08:16+0000\n"
+"PO-Revision-Date: 2023-02-19 14:33+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/vow/pl/>\n"
 "Language: pl\n"
@@ -1362,28 +1362,20 @@ msgid ""
 msgstr ""
 
 #: ../../VOW.rst:369
-#, fuzzy
-#| msgid ""
-#| "Whenever Binding Geist attacks, target creature an opponent controls gets "
-#| "-2/-0 until end of turn."
 msgid ""
 "Whenever Binding Geist attacks, target creature an opponent controls gets "
 "-2/-0 until your next turn."
 msgstr ""
 "Ilekroć ten stwór zaatakuje, wskazany stwór pod władaniem przeciwnika do "
-"końca tury dostaje -2/-0."
+"twojej następnej tury dostaje -2/-0."
 
 #: ../../VOW.rst:371
-#, fuzzy
-#| msgid ""
-#| "Disturb |mana_1|\\ |mana_u| (You may cast this card from your graveyard "
-#| "transformed for its disturb cost.)"
 msgid ""
 "Disturb |mana_u| (You may cast this card from your graveyard transformed for "
 "its disturb cost.)"
 msgstr ""
-"Niepokojenie |mana_1|\\ |mana_u| (Możesz rzucić tę kartę transformowaną z "
-"twojego cmentarza za koszt niepokojenia.)"
+"Niepokojenie |mana_u| (Możesz rzucić tę kartę transformowaną z twojego "
+"cmentarza za koszt niepokojenia.)"
 
 #: ../../VOW.rst:380
 msgid ""
@@ -1759,10 +1751,8 @@ msgid ""
 msgstr ""
 
 #: ../../VOW.rst:519
-#, fuzzy
-#| msgid "Enchanted creature gets +2/+2."
 msgid "Enchanted creature gets +3/+0."
-msgstr "Zauroczony stwór dostaje +2/+2."
+msgstr "Zauroczony stwór dostaje +3/+0."
 
 #: ../../VOW.rst:536
 msgid ""
