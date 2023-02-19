@@ -365,6 +365,20 @@
    If Spectral Binding would be put into a graveyard from anywhere, exile it instead.
 
 
+:mtgtip:`A-Binding Geist<https://cards.scryfall.io/border_crop/front/6/e/6e40e8f7-38f9-454a-9127-164b39737cb8.jpg?1676761640|https://scryfall.com/card/vow/A-48/a-binding-geist-a-spectral-binding?utm_source=api>`
+   Whenever Binding Geist attacks, target creature an opponent controls gets -2/-0 until your next turn.
+
+   Disturb |mana_u| (You may cast this card from your graveyard transformed for its disturb cost.)
+
+
+:mtgtip:`A-Spectral Binding<https://cards.scryfall.io/border_crop/back/6/e/6e40e8f7-38f9-454a-9127-164b39737cb8.jpg?1676761640|https://scryfall.com/card/vow/A-48/a-binding-geist-a-spectral-binding?utm_source=api>`
+   Enchant creature
+
+   Enchanted creature gets -2/-0.
+
+   If Spectral Binding would be put into a graveyard from anywhere, exile it instead.
+
+
 :mtgtip:`Biolume Egg<https://cards.scryfall.io/border_crop/front/5/7/57039230-bf5a-4489-9dc1-37e27b17bd84.jpg?1643587547|https://scryfall.com/card/vow/49/biolume-egg-biolume-serpent?utm_source=api>`
    Defender
 
@@ -449,6 +463,16 @@
    • Target creature doesn't untap during its controller's next untap step.
 
 
+:mtgtip:`A-Dreamshackle Geist<https://cards.scryfall.io/border_crop/front/6/3/63cb3ee1-54f6-4523-9bec-435fade6332f.jpg?1676761734|https://scryfall.com/card/vow/A-58/a-dreamshackle-geist?utm_source=api>`
+   Flying
+
+   At the beginning of combat on your turn, choose up to one —
+
+   • Tap target creature.
+
+   • Target creature doesn't untap during its controller's next untap step.
+
+
 :mtgtip:`Fear of Death<https://cards.scryfall.io/border_crop/front/b/8/b81704d2-d555-4894-b36c-6b65d1ebe681.jpg?1643587816|https://scryfall.com/card/vow/59/fear-of-death?utm_source=api>`
    Enchant creature
 
@@ -477,6 +501,22 @@
 
 :mtgtip:`Gutter Shortcut<https://cards.scryfall.io/border_crop/back/c/e/ceb84515-7b8f-444d-b6a9-61231621f9b7.jpg?1643587934|https://scryfall.com/card/vow/62/gutter-skulker-gutter-shortcut?utm_source=api>`
    Enchant creature
+
+   Enchanted creature can't be blocked as long as it's attacking alone.
+
+   If Gutter Shortcut would be put into a graveyard from anywhere, exile it instead.
+
+
+:mtgtip:`A-Gutter Skulker<https://cards.scryfall.io/border_crop/front/f/7/f7c3cf39-c49f-4055-87e6-c82a224b273c.jpg?1676761891|https://scryfall.com/card/vow/A-62/a-gutter-skulker-a-gutter-shortcut?utm_source=api>`
+   Gutter Skulker can't be blocked as long as it's attacking alone.
+
+   Disturb |mana_2|\ |mana_u| (You may cast this card from your graveyard transformed for its disturb cost.)
+
+
+:mtgtip:`A-Gutter Shortcut<https://cards.scryfall.io/border_crop/back/f/7/f7c3cf39-c49f-4055-87e6-c82a224b273c.jpg?1676761891|https://scryfall.com/card/vow/A-62/a-gutter-skulker-a-gutter-shortcut?utm_source=api>`
+   Enchant creature
+
+   Enchanted creature gets +3/+0.
 
    Enchanted creature can't be blocked as long as it's attacking alone.
 
@@ -535,6 +575,20 @@
    If Lanterns' Lift would be put into a graveyard from anywhere, exile it instead.
 
 
+:mtgtip:`A-Lantern Bearer<https://cards.scryfall.io/border_crop/front/9/4/942d9122-f380-4bc0-8bf1-2ba6f49fd3ee.jpg?1676761920|https://scryfall.com/card/vow/A-66/a-lantern-bearer-a-lanterns-lift?utm_source=api>`
+   Flying
+
+   Disturb |mana_1|\ |mana_u| (You may cast this card from your graveyard transformed for its disturb cost.)
+
+
+:mtgtip:`A-Lanterns' Lift<https://cards.scryfall.io/border_crop/back/9/4/942d9122-f380-4bc0-8bf1-2ba6f49fd3ee.jpg?1676761920|https://scryfall.com/card/vow/A-66/a-lantern-bearer-a-lanterns-lift?utm_source=api>`
+   Enchant creature
+
+   Enchanted creature gets +1/+1 and has flying.
+
+   If Lanterns' Lift would be put into a graveyard from anywhere, exile it instead.
+
+
 :mtgtip:`Lunar Rejection<https://cards.scryfall.io/border_crop/front/0/f/0f66511c-355f-4e8a-96fc-3afc7a315231.jpg?1643588123|https://scryfall.com/card/vow/67/lunar-rejection?utm_source=api>`
    Cleave |mana_3|\ |mana_u| (You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)
 
@@ -565,6 +619,22 @@
 
 :mtgtip:`Catlike Curiosity<https://cards.scryfall.io/border_crop/back/a/3/a3ff628a-ef8e-45c4-84e7-a33ec28f025a.jpg?1643588230|https://scryfall.com/card/vow/69/mischievous-catgeist-catlike-curiosity?utm_source=api>`
    Enchant creature
+
+   Enchanted creature has "Whenever this creature deals combat damage to a player, draw a card."
+
+   If Catlike Curiosity would be put into a graveyard from anywhere, exile it instead.
+
+
+:mtgtip:`A-Mischievous Catgeist<https://cards.scryfall.io/border_crop/front/4/d/4dd4f872-1af1-4bb7-81e7-409861c45b20.jpg?1676761958|https://scryfall.com/card/vow/A-69/a-mischievous-catgeist-a-catlike-curiosity?utm_source=api>`
+   Whenever Mischievous Catgeist deals combat damage to a player, draw a card.
+
+   Disturb |mana_1|\ |mana_u| (You may cast this card from your graveyard transformed for its disturb cost.)
+
+
+:mtgtip:`A-Catlike Curiosity<https://cards.scryfall.io/border_crop/back/4/d/4dd4f872-1af1-4bb7-81e7-409861c45b20.jpg?1676761958|https://scryfall.com/card/vow/A-69/a-mischievous-catgeist-a-catlike-curiosity?utm_source=api>`
+   Enchant creature
+
+   Enchanted creature gets +1/+1.
 
    Enchanted creature has "Whenever this creature deals combat damage to a player, draw a card."
 
@@ -1691,6 +1761,20 @@
    If Brinebound Gift would be put into a graveyard from anywhere, exile it instead.
 
 
+:mtgtip:`A-Brine Comber<https://cards.scryfall.io/border_crop/front/d/0/d0e03cdb-1082-448b-ae5c-501fb8bc3f3b.jpg?1676761546|https://scryfall.com/card/vow/A-233/a-brine-comber-a-brinebound-gift?utm_source=api>`
+   Whenever Brine Comber enters the battlefield or becomes the target of an Aura spell, create a 1/1 white Spirit creature token with flying.
+
+   Disturb |mana_w|\ |mana_u| (You may cast this card from your graveyard transformed for its disturb cost.)
+
+
+:mtgtip:`A-Brinebound Gift<https://cards.scryfall.io/border_crop/back/d/0/d0e03cdb-1082-448b-ae5c-501fb8bc3f3b.jpg?1676761546|https://scryfall.com/card/vow/A-233/a-brine-comber-a-brinebound-gift?utm_source=api>`
+   Enchant creature
+
+   Whenever Brinebound Gift enters the battlefield or enchanted creature becomes the target of an Aura spell, create a 1/1 white Spirit creature token with flying.
+
+   If Brinebound Gift would be put into a graveyard from anywhere, exile it instead.
+
+
 :mtgtip:`Child of the Pack<https://cards.scryfall.io/border_crop/front/c/b/cb168e3c-2c78-4e70-a39b-06aa6a47998c.jpg?1643593935|https://scryfall.com/card/vow/234/child-of-the-pack-savage-packmate?utm_source=api>`
    |mana_2|\ |mana_r|\ |mana_g|: Create a 2/2 green Wolf creature token.
 
@@ -1714,6 +1798,22 @@
 
 
 :mtgtip:`Dorothea's Retribution<https://cards.scryfall.io/border_crop/back/8/c/8c927707-abb5-4a9d-ac53-25df182d6e9b.jpg?1643594012|https://scryfall.com/card/vow/235/dorothea-vengeful-victim-dorotheas-retribution?utm_source=api>`
+   Enchant creature
+
+   Enchanted creature has "Whenever this creature attacks, create a 4/4 white Spirit creature token with flying that's tapped and attacking. Sacrifice that token at end of combat."
+
+   If Dorothea's Retribution would be put into a graveyard from anywhere, exile it instead.
+
+
+:mtgtip:`A-Dorothea, Vengeful Victim<https://cards.scryfall.io/border_crop/front/9/b/9b21d350-9b89-41d0-8def-00ef5189449c.jpg?1676761706|https://scryfall.com/card/vow/A-235/a-dorothea-vengeful-victim-a-dorotheas-retribution?utm_source=api>`
+   Flying
+
+   When Dorothea, Vengeful Victim attacks or blocks, sacrifice it at end of combat.
+
+   Disturb |mana_w|\ |mana_u| (You may cast this card from your graveyard transformed for its disturb cost.)
+
+
+:mtgtip:`A-Dorothea's Retribution<https://cards.scryfall.io/border_crop/back/9/b/9b21d350-9b89-41d0-8def-00ef5189449c.jpg?1676761706|https://scryfall.com/card/vow/A-235/a-dorothea-vengeful-victim-a-dorotheas-retribution?utm_source=api>`
    Enchant creature
 
    Enchanted creature has "Whenever this creature attacks, create a 4/4 white Spirit creature token with flying that's tapped and attacking. Sacrifice that token at end of combat."

@@ -261,11 +261,11 @@
    At the beginning of combat on your turn, populate. The token created this way gains haste. Sacrifice it at the beginning of the next end step. (To populate, create a token that's a copy of a creature token you control.)
 
 
-:mtgtip:`Indulge<https://cards.scryfall.io/border_crop/front/d/6/d653b755-1e09-45c4-8d44-8a950151ca51.jpg?1673482096|https://scryfall.com/card/ncc/46/indulge-excess?utm_source=api>`
+:mtgtip:`Indulge<https://cards.scryfall.io/border_crop/front/d/6/d653b755-1e09-45c4-8d44-8a950151ca51.jpg?1675491814|https://scryfall.com/card/ncc/46/indulge-excess?utm_source=api>`
    Whenever a creature you control attacks this turn, create a 1/1 green and white Citizen creature token that's tapped and attacking.
 
 
-:mtgtip:`Excess<https://cards.scryfall.io/border_crop/front/d/6/d653b755-1e09-45c4-8d44-8a950151ca51.jpg?1673482096|https://scryfall.com/card/ncc/46/indulge-excess?utm_source=api>`
+:mtgtip:`Excess<https://cards.scryfall.io/border_crop/front/d/6/d653b755-1e09-45c4-8d44-8a950151ca51.jpg?1675491814|https://scryfall.com/card/ncc/46/indulge-excess?utm_source=api>`
    Aftermath (Cast this spell only from your graveyard. Then exile it.)
 
    Create a Treasure token for each creature you controlled that dealt combat damage to a player this turn.
@@ -1165,7 +1165,7 @@
    Whenever a creature with power 4 or greater enters the battlefield under your control, draw a card.
 
 
-:mtgtip:`Giant Adephage<https://cards.scryfall.io/border_crop/front/b/8/b8705797-6d1f-4cec-b748-74ba402e606c.jpg?1673484598|https://scryfall.com/card/ncc/293/giant-adephage?utm_source=api>`
+:mtgtip:`Giant Adephage<https://cards.scryfall.io/border_crop/front/b/8/b8705797-6d1f-4cec-b748-74ba402e606c.jpg?1675985473|https://scryfall.com/card/ncc/293/giant-adephage?utm_source=api>`
    Trample
 
    Whenever Giant Adephage deals combat damage to a player, create a token that's a copy of Giant Adephage.

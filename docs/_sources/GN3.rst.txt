@@ -55,7 +55,7 @@
    When Captain of the Watch enters the battlefield, create three 1/1 white Soldier creature tokens.
 
 
-:mtgtip:`Danitha Capashen, Paragon<https://cards.scryfall.io/border_crop/front/c/d/cd8eca21-218c-408d-bfd5-e1f776a51278.jpg?1673301293|https://scryfall.com/card/gn3/9/danitha-capashen-paragon?utm_source=api>`
+:mtgtip:`Danitha Capashen, Paragon<https://cards.scryfall.io/border_crop/front/c/d/cd8eca21-218c-408d-bfd5-e1f776a51278.jpg?1676317057|https://scryfall.com/card/gn3/9/danitha-capashen-paragon?utm_source=api>`
    First strike, vigilance, lifelink
 
    Aura and Equipment spells you cast cost |mana_1| less to cast.

@@ -1471,7 +1471,7 @@
    • Find a Crossing — Target creature gets +1/+0 until end of turn and can't be blocked this turn.
 
 
-:mtgtip:`A-You Come to a River<https://cards.scryfall.io/border_crop/front/d/1/d162b232-ae71-42f5-a5da-cc7e74515db4.jpg?1660687747|https://scryfall.com/card/hbg/A-136/a-you-come-to-a-river?utm_source=api>`
+:mtgtip:`A-You Come to a River<https://cards.scryfall.io/border_crop/front/d/1/d162b232-ae71-42f5-a5da-cc7e74515db4.jpg?1675400607|https://scryfall.com/card/hbg/A-136/a-you-come-to-a-river?utm_source=api>`
    Choose one —
 
    • Fight the Current — The owner of target nonland permanent puts it on the top or bottom of their library.

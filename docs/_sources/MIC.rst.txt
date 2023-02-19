@@ -5,11 +5,11 @@
 ======================================
 
 
-:mtgtip:`Leinore, Autumn Sovereign<https://cards.scryfall.io/border_crop/front/b/d/bd7e1645-ea8f-41c4-b3ee-58f44fc5c574.jpg?1637627718|https://scryfall.com/card/mic/1/leinore-autumn-sovereign?utm_source=api>`
+:mtgtip:`Leinore, Autumn Sovereign<https://cards.scryfall.io/border_crop/front/b/d/bd7e1645-ea8f-41c4-b3ee-58f44fc5c574.jpg?1675456147|https://scryfall.com/card/mic/1/leinore-autumn-sovereign?utm_source=api>`
    Coven — At the beginning of combat on your turn, put a +1/+1 counter on up to one target creature you control. Then if you control three or more creatures with different powers, draw a card.
 
 
-:mtgtip:`Wilhelt, the Rotcleaver<https://cards.scryfall.io/border_crop/front/2/5/2501a911-d072-436d-ae3b-a5164e3b30aa.jpg?1637627743|https://scryfall.com/card/mic/2/wilhelt-the-rotcleaver?utm_source=api>`
+:mtgtip:`Wilhelt, the Rotcleaver<https://cards.scryfall.io/border_crop/front/2/5/2501a911-d072-436d-ae3b-a5164e3b30aa.jpg?1675456154|https://scryfall.com/card/mic/2/wilhelt-the-rotcleaver?utm_source=api>`
    Whenever another Zombie you control dies, if it didn't have decayed, create a 2/2 black Zombie creature token with decayed. (It can't block. When it attacks, sacrifice it at end of combat.)
 
    At the beginning of your end step, you may sacrifice a Zombie. If you do, draw a card.

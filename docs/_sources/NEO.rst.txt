@@ -13,6 +13,14 @@
    Equip |mana_3| (|mana_3|: Attach to target creature you control. Equip only as a sorcery.)
 
 
+:mtgtip:`A-Ancestral Katana<https://cards.scryfall.io/border_crop/front/0/3/0321b706-87b0-4bea-89d3-ec2e7252dc7c.jpg?1676762411|https://scryfall.com/card/neo/A-1/a-ancestral-katana?utm_source=api>`
+   Whenever a Samurai or Warrior you control attacks alone, you may pay |mana_1|. When you do, attach Ancestral Katana to it.
+
+   Equipped creature gets +2/+2 and has "This creature has first strike as long as it's attacking."
+
+   Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip only as a sorcery.)
+
+
 :mtgtip:`Ao, the Dawn Sky<https://cards.scryfall.io/border_crop/front/8/d/8d2c4063-7322-4041-a870-b95598a03e29.jpg?1654566143|https://scryfall.com/card/neo/2/ao-the-dawn-sky?utm_source=api>`
    Flying, vigilance
 
@@ -72,6 +80,10 @@
 
 
 :mtgtip:`Eiganjo Exemplar<https://cards.scryfall.io/border_crop/front/3/b/3b0a9cc0-bb6d-47f7-b0d5-3956c46a1b3a.jpg?1654566221|https://scryfall.com/card/neo/10/eiganjo-exemplar?utm_source=api>`
+   Whenever a Samurai or Warrior you control attacks alone, it gets +1/+1 until end of turn.
+
+
+:mtgtip:`A-Eiganjo Exemplar<https://cards.scryfall.io/border_crop/front/e/2/e2a8f60f-7cca-4528-b153-a8804e93626e.jpg?1676762491|https://scryfall.com/card/neo/A-10/a-eiganjo-exemplar?utm_source=api>`
    Whenever a Samurai or Warrior you control attacks alone, it gets +1/+1 until end of turn.
 
 
@@ -142,6 +154,10 @@
 
 
 :mtgtip:`Imperial Subduer<https://cards.scryfall.io/border_crop/front/1/3/13246172-7554-4edc-b6db-23dc91e4290a.jpg?1654566326|https://scryfall.com/card/neo/19/imperial-subduer?utm_source=api>`
+   Whenever a Samurai or Warrior you control attacks alone, tap target creature you don't control.
+
+
+:mtgtip:`A-Imperial Subduer<https://cards.scryfall.io/border_crop/front/d/6/d6c23437-244f-4e6b-93b7-ce0321be154b.jpg?1676762544|https://scryfall.com/card/neo/A-19/a-imperial-subduer?utm_source=api>`
    Whenever a Samurai or Warrior you control attacks alone, tap target creature you don't control.
 
 
@@ -903,6 +919,10 @@
    Whenever a Samurai or Warrior you control attacks alone, you may discard a card. If you do, draw a card.
 
 
+:mtgtip:`A-Akki Ronin<https://cards.scryfall.io/border_crop/front/0/c/0c780e37-91b1-4fe1-85c9-7007d91209d5.jpg?1676762453|https://scryfall.com/card/neo/A-131/a-akki-ronin?utm_source=api>`
+   Whenever a Samurai or Warrior you control attacks alone, you may put a card from your hand on the bottom of your library. If you do, draw a card.
+
+
 :mtgtip:`Akki War Paint<https://cards.scryfall.io/border_crop/front/f/1/f110698e-a343-4eff-ba23-ed7ac5a3f87b.jpg?1654567513|https://scryfall.com/card/neo/132/akki-war-paint?utm_source=api>`
    Enchant artifact or creature
 
@@ -1066,6 +1086,12 @@
 
 
 :mtgtip:`Peerless Samurai<https://cards.scryfall.io/border_crop/front/e/5/e5b2176d-8925-4474-9d3e-1c97192715fb.jpg?1654567775|https://scryfall.com/card/neo/156/peerless-samurai?utm_source=api>`
+   Menace (This creature can't be blocked except by two or more creatures.)
+
+   Whenever a Samurai or Warrior you control attacks alone, the next spell you cast this turn costs |mana_1| less to cast.
+
+
+:mtgtip:`A-Peerless Samurai<https://cards.scryfall.io/border_crop/front/6/f/6f6c21b4-a143-4fe5-a505-963e98f2fe2f.jpg?1676762582|https://scryfall.com/card/neo/A-156/a-peerless-samurai?utm_source=api>`
    Menace (This creature can't be blocked except by two or more creatures.)
 
    Whenever a Samurai or Warrior you control attacks alone, the next spell you cast this turn costs |mana_1| less to cast.
@@ -1479,6 +1505,12 @@
    Whenever a Samurai or Warrior you control attacks alone, it gets +1/+0 until end of turn for each Samurai or Warrior you control.
 
 
+:mtgtip:`A-Asari Captain<https://cards.scryfall.io/border_crop/front/e/a/ea1d684e-c4dd-481b-856e-8331d4f64be2.jpg?1676762373|https://scryfall.com/card/neo/A-215/a-asari-captain?utm_source=api>`
+   Trample, haste
+
+   Whenever a Samurai or Warrior you control attacks alone, it gets +1/+0 until end of turn for each Samurai or Warrior you control.
+
+
 :mtgtip:`Colossal Skyturtle<https://cards.scryfall.io/border_crop/front/f/4/f40bd797-4d12-4098-a1a8-d7e5b7b82ac9.jpg?1654568412|https://scryfall.com/card/neo/216/colossal-skyturtle?utm_source=api>`
    Flying, ward |mana_2|
 
@@ -1604,6 +1636,12 @@
 
 
 :mtgtip:`Raiyuu, Storm's Edge<https://cards.scryfall.io/border_crop/front/3/7/37748b74-0eda-4b20-a08f-faa418adb9ff.jpg?1654568575|https://scryfall.com/card/neo/232/raiyuu-storms-edge?utm_source=api>`
+   First strike
+
+   Whenever a Samurai or Warrior you control attacks alone, untap it. If it's the first combat phase of the turn, there is an additional combat phase after this phase.
+
+
+:mtgtip:`A-Raiyuu, Storm's Edge<https://cards.scryfall.io/border_crop/front/0/6/06f5ab0d-3280-42d3-bc7e-abb109bbe3c4.jpg?1676762609|https://scryfall.com/card/neo/A-232/a-raiyuu-storms-edge?utm_source=api>`
    First strike
 
    Whenever a Samurai or Warrior you control attacks alone, untap it. If it's the first combat phase of the turn, there is an additional combat phase after this phase.
