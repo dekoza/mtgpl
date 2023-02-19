@@ -1,0 +1,585 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013-2022, Dominik Kozaczko
+# This file is distributed under the same license as the MTG po polsku package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MTG po polsku 2023.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-02-19 21:48+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../symbols.rst:3
+msgid "{C}"
+msgstr ""
+
+#: ../../symbols.rst:5
+msgid "{T}"
+msgstr ""
+
+#: ../../symbols.rst:7
+msgid "{Q}"
+msgstr ""
+
+#: ../../symbols.rst:9
+msgid "{U}"
+msgstr ""
+
+#: ../../symbols.rst:11
+msgid "{W}"
+msgstr ""
+
+#: ../../symbols.rst:13
+msgid "{B}"
+msgstr ""
+
+#: ../../symbols.rst:15
+msgid "{G}"
+msgstr ""
+
+#: ../../symbols.rst:17
+msgid "{R}"
+msgstr ""
+
+#: ../../symbols.rst:19
+msgid "{2/U}"
+msgstr ""
+
+#: ../../symbols.rst:21
+msgid "{2/W}"
+msgstr ""
+
+#: ../../symbols.rst:23
+msgid "{2/B}"
+msgstr ""
+
+#: ../../symbols.rst:25
+msgid "{2/G}"
+msgstr ""
+
+#: ../../symbols.rst:27
+msgid "{2/R}"
+msgstr ""
+
+#: ../../symbols.rst:29
+msgid "{U/P}"
+msgstr ""
+
+#: ../../symbols.rst:31
+msgid "{W/P}"
+msgstr ""
+
+#: ../../symbols.rst:33
+msgid "{B/P}"
+msgstr ""
+
+#: ../../symbols.rst:35
+msgid "{G/P}"
+msgstr ""
+
+#: ../../symbols.rst:37
+msgid "{R/P}"
+msgstr ""
+
+#: ../../symbols.rst:39
+msgid "{X}"
+msgstr ""
+
+#: ../../symbols.rst:41
+msgid "{P}"
+msgstr ""
+
+#: ../../symbols.rst:43
+msgid "{0}"
+msgstr ""
+
+#: ../../symbols.rst:45
+msgid "{1}"
+msgstr ""
+
+#: ../../symbols.rst:47
+msgid "{2}"
+msgstr ""
+
+#: ../../symbols.rst:49
+msgid "{3}"
+msgstr ""
+
+#: ../../symbols.rst:51
+msgid "{4}"
+msgstr ""
+
+#: ../../symbols.rst:53
+msgid "{5}"
+msgstr ""
+
+#: ../../symbols.rst:55
+msgid "{6}"
+msgstr ""
+
+#: ../../symbols.rst:57
+msgid "{7}"
+msgstr ""
+
+#: ../../symbols.rst:59
+msgid "{8}"
+msgstr ""
+
+#: ../../symbols.rst:61
+msgid "{9}"
+msgstr ""
+
+#: ../../symbols.rst:63
+msgid "{10}"
+msgstr ""
+
+#: ../../symbols.rst:65
+msgid "{11}"
+msgstr ""
+
+#: ../../symbols.rst:67
+msgid "{12}"
+msgstr ""
+
+#: ../../symbols.rst:69
+msgid "{13}"
+msgstr ""
+
+#: ../../symbols.rst:71
+msgid "{14}"
+msgstr ""
+
+#: ../../symbols.rst:73
+msgid "{15}"
+msgstr ""
+
+#: ../../symbols.rst:75
+msgid "{16}"
+msgstr ""
+
+#: ../../symbols.rst:77
+msgid "{20}"
+msgstr ""
+
+#: ../../symbols.rst:79
+msgid "{(r/g)}"
+msgstr ""
+
+#: ../../symbols.rst:81
+msgid "{(r/w)}"
+msgstr ""
+
+#: ../../symbols.rst:83
+msgid "{(u/b)}"
+msgstr ""
+
+#: ../../symbols.rst:85
+msgid "{(u/r)}"
+msgstr ""
+
+#: ../../symbols.rst:87
+msgid "{(w/b)}"
+msgstr ""
+
+#: ../../symbols.rst:89
+msgid "{(w/u)}"
+msgstr ""
+
+#: ../../symbols.rst:91
+msgid "{(b/g)}"
+msgstr ""
+
+#: ../../symbols.rst:93
+msgid "{(b/r)}"
+msgstr ""
+
+#: ../../symbols.rst:95
+msgid "{(g/w)}"
+msgstr ""
+
+#: ../../symbols.rst:97
+msgid "{(g/u)}"
+msgstr ""
+
+#: ../../symbols.rst:99
+msgid "{(g/u/p)}"
+msgstr ""
+
+#: ../../symbols.rst:101
+msgid "{(g/w/p)}"
+msgstr ""
+
+#: ../../symbols.rst:103
+msgid "{S}"
+msgstr ""
+
+#: ../../symbols.rst:105
+msgid "{E}"
+msgstr ""
+
+#: ../../symbols.rst:107
+msgid "{CHAOS}"
+msgstr ""
+
+#: ../../symbols.rst:109
+msgid "{PW}"
+msgstr ""
+
+#: ../../MOM.rst:5
+msgid ":mtgexp:`MOM` March of the Machine"
+msgstr ""
+
+#: ../../MOM.rst:12
+msgid ":mtgtip:`Heliod, the Radiant Dawn<https://cards.scryfall.io/border_crop/front/a/7/a7113c93-6c6d-410f-aeec-abc5ee121cdf.jpg?1676819567|https://scryfall.com/card/mom/17/heliod-the-radiant-dawn-heliod-the-warped-eclipse?utm_source=api>`"
+msgstr ""
+
+#: ../../MOM.rst:9
+msgid "When Heliod, the Radiant Dawn enters the battlefield, return target enchantment card that isn't a God from your graveyard to your hand."
+msgstr ""
+
+#: ../../MOM.rst:11
+msgid "|mana_3|\\ |mana_up|: Transform Heliod, the Radiant Dawn. Activate only as a sorcery. (|mana_up| can be paid with either |mana_u| or 2 life.)"
+msgstr ""
+
+#: ../../MOM.rst:18
+msgid ":mtgtip:`Heliod, the Warped Eclipse<https://cards.scryfall.io/border_crop/back/a/7/a7113c93-6c6d-410f-aeec-abc5ee121cdf.jpg?1676819567|https://scryfall.com/card/mom/17/heliod-the-radiant-dawn-heliod-the-warped-eclipse?utm_source=api>`"
+msgstr ""
+
+#: ../../MOM.rst:15
+msgid "You may cast spells as though they had flash."
+msgstr ""
+
+#: ../../MOM.rst:17
+msgid "Spells you cast cost |mana_1| less to cast for each card your opponents have drawn this turn."
+msgstr ""
+
+#: ../../MOM.rst:28
+msgid ":mtgtip:`Faerie Mastermind<https://cards.scryfall.io/border_crop/front/5/2/52d3005f-a1c7-4ef5-911f-ccc0752f4181.jpg?1676820278|https://scryfall.com/card/mom/58/faerie-mastermind?utm_source=api>`"
+msgstr ""
+
+#: ../../MOM.rst:21
+msgid "Flash"
+msgstr ""
+
+#: ../../MOM.rst:23
+msgid "Flying"
+msgstr ""
+
+#: ../../MOM.rst:25
+msgid "Whenever an opponent draws their second card each turn, you draw a card."
+msgstr ""
+
+#: ../../MOM.rst:27
+msgid "|mana_3|\\ |mana_u|: Each player draws a card."
+msgstr ""
+
+#: ../../MOM.rst:36
+msgid ":mtgtip:`Jin-Gitaxias<https://cards.scryfall.io/border_crop/front/4/1/41c83142-b948-4ee5-a486-41306d2bb411.jpg?1676821248|https://scryfall.com/card/mom/65/jin-gitaxias-the-great-synthesis?utm_source=api>`"
+msgstr ""
+
+#: ../../MOM.rst:31
+msgid "Ward |mana_2|"
+msgstr ""
+
+#: ../../MOM.rst:33
+msgid "Whenever you cast a noncreature spell with mana value 3 or greater, draw a card."
+msgstr ""
+
+#: ../../MOM.rst:35
+msgid "|mana_3|\\ |mana_u|: Exile Jin-Gitaxias, then return it to the battlefield transformed under its owner's control. Activate only as a sorcery and only if you have seven or more cards in hand."
+msgstr ""
+
+#: ../../MOM.rst:46
+msgid ":mtgtip:`The Great Synthesis<https://cards.scryfall.io/border_crop/back/4/1/41c83142-b948-4ee5-a486-41306d2bb411.jpg?1676821248|https://scryfall.com/card/mom/65/jin-gitaxias-the-great-synthesis?utm_source=api>`"
+msgstr ""
+
+#: ../../MOM.rst:39
+msgid "(As this saga enters and after your draw step, add a lore counter.)"
+msgstr ""
+
+#: ../../MOM.rst:41
+msgid "I — Draw cards equal to the number of cards in your hand. You have no maximum hand size for as long as you control The Great Synthesis."
+msgstr ""
+
+#: ../../MOM.rst:43
+msgid "II — Return all non-Phyrexian creatures to their owners' hands."
+msgstr ""
+
+#: ../../MOM.rst:45
+msgid "III — You may cast any number of spells from your hand without paying their mana cost. Exile The Great Synthesis, then return it to the battlefield (front face up)."
+msgstr ""
+
+#: ../../MOM.rst:50
+msgid ":mtgtip:`Moment of Truth<https://cards.scryfall.io/border_crop/front/0/e/0e758594-a48c-4508-b400-9028aec07f63.jpg?1676816006|https://scryfall.com/card/mom/67/moment-of-truth?utm_source=api>`"
+msgstr ""
+
+#: ../../MOM.rst:49
+msgid "Look at the top three cards of your library. Put one of those cards into your hand, one into your graveyard, and one on the bottom of your library."
+msgstr ""
+
+#: ../../MOM.rst:54
+msgid ":mtgtip:`Breach the Multiverse<https://cards.scryfall.io/border_crop/front/d/a/daf51a76-7a57-4462-ae18-a19e817e49e5.jpg?1676821269|https://scryfall.com/card/mom/94/breach-the-multiverse?utm_source=api>`"
+msgstr ""
+
+#: ../../MOM.rst:53
+msgid "Each player mills ten cards. For each player, choose a creature or palneswalker card in that player's graveyard. Put those cards onto the battlefield under your control. Then each creature you control becomes a Phyrexian in addition to its other types."
+msgstr ""
+
+#: ../../MOM.rst:64
+msgid ":mtgtip:`Chandra, Hope's Beacon<https://cards.scryfall.io/border_crop/front/a/1/a146ea07-ec1c-448d-b67a-dd9f9e27c2e0.jpg?1676821293|https://scryfall.com/card/mom/134/chandra-hopes-beacon?utm_source=api>`"
+msgstr ""
+
+#: ../../MOM.rst:57
+msgid "Whenever you cast an instant or sorcery spell, copy it. You may choose new targets for the copy. This ability triggers only once each turn."
+msgstr ""
+
+#: ../../MOM.rst:59
+msgid "+2: Add two mana in any combination of colors."
+msgstr ""
+
+#: ../../MOM.rst:61
+msgid "+1: Exile the top five cards of your library. Until the end of your next turn, you may cast an instant or sorcery spell from among those exiled cards."
+msgstr ""
+
+#: ../../MOM.rst:63
+msgid "−X: Chandra, Hope's Beacon deals X damage to each of up to two targets."
+msgstr ""
+
+#: ../../MOM.rst:72
+msgid ":mtgtip:`Drana and Linvala<https://cards.scryfall.io/border_crop/front/b/b/bbda000f-3cf7-48b6-96ff-c23a3a64eab5.jpg?1676816732|https://scryfall.com/card/mom/222/drana-and-linvala?utm_source=api>`"
+msgstr ""
+
+#: ../../MOM.rst:67
+msgid "Flying, vigilance"
+msgstr ""
+
+#: ../../MOM.rst:69
+msgid "Activated abilities of creatures your opponents control can't be activated."
+msgstr ""
+
+#: ../../MOM.rst:71
+msgid "Drana and Linvala has alla ctivated abilities of all creatures your opponents control. You may spend mana as though it were mana of any colo to activate those abilities."
+msgstr ""
+
+#: ../../MOM.rst:82
+msgid ":mtgtip:`Ghalta and Mavren<https://cards.scryfall.io/border_crop/front/a/9/a9ec900f-1e31-4440-a75a-20b256734d5b.jpg?1676821305|https://scryfall.com/card/mom/225/ghalta-and-mavren?utm_source=api>`"
+msgstr ""
+
+#: ../../MOM.rst:75
+msgid "Trample"
+msgstr ""
+
+#: ../../MOM.rst:77
+msgid "Whenever you attack, choose one —"
+msgstr ""
+
+#: ../../MOM.rst:79
+msgid "Create a tapped and attacking X/X green Dniosaur creature token with trample, where X is the greatest power among other attacking creatures."
+msgstr ""
+
+#: ../../MOM.rst:81
+msgid "Create X 1/1 white Vampire creature tokens with lifelink, where X is the number of other attacking creatures."
+msgstr ""
+
+#: ../../MOM.rst:88
+msgid ":mtgtip:`Omnath, Locus of All<https://cards.scryfall.io/border_crop/front/3/3/33d94ecf-758b-4f68-a7be-6bf3ff1047f4.jpg?1676817702|https://scryfall.com/card/mom/249/omnath-locus-of-all?utm_source=api>`"
+msgstr ""
+
+#: ../../MOM.rst:85
+msgid "If you would lose unspent mana, that mana becomes black instead."
+msgstr ""
+
+#: ../../MOM.rst:87
+msgid "At the beginning of your precombat main phase, look at the top card of your library. You may reveal that card if it has three or more colored mana symbols in its mana cost. If you do, add three mana in any combination of colors and put it into your hand. If you don't reveal it, put it into your hand."
+msgstr ""
+
+#: ../../MOM.rst:98
+msgid ":mtgtip:`Thalia and The Gitrog Monster<https://cards.scryfall.io/border_crop/front/8/d/8d7ff937-de92-445f-976c-726fef5c91cc.jpg?1676816564|https://scryfall.com/card/mom/255/thalia-and-the-gitrog-monster?utm_source=api>`"
+msgstr ""
+
+#: ../../MOM.rst:91
+msgid "First strike, deathtouch"
+msgstr ""
+
+#: ../../MOM.rst:93
+msgid "You may play an additional land on each of your turns."
+msgstr ""
+
+#: ../../MOM.rst:95
+msgid "Creatures and nonbasic lands your opponents control enter the battlefield tapped."
+msgstr ""
+
+#: ../../MOM.rst:97
+msgid "Wheenver Thalia and The Gitrog Monster attacks, sacrifice a creature or land, then draw a card."
+msgstr ""
+
+#: ../../MOM.rst:100
+msgid ":mtgtip:`Yargle and Multani<https://cards.scryfall.io/border_crop/front/9/c/9c15e244-14cc-46a5-abd4-66a58d1c0dd0.jpg?1676821303|https://scryfall.com/card/mom/256/yargle-and-multani?utm_source=api>`"
+msgstr ""
+
+#: ../../MOM.rst:110
+msgid ":mtgtip:`Bloodfell Caves<https://cards.scryfall.io/border_crop/front/8/5/85930f68-6f53-4921-9556-2887ac3abfd2.jpg?1676817909|https://scryfall.com/card/mom/267/bloodfell-caves?utm_source=api>`"
+msgstr ""
+
+#: ../../MOM.rst:105
+msgid "Bloodfell Caves enters the battlefield tapped."
+msgstr ""
+
+#: ../../MOM.rst:107
+msgid "When Bloodfell Caves enters the battlefield, you gain 1 life."
+msgstr ""
+
+#: ../../MOM.rst:109
+msgid "|tap|: Add |mana_b| or |mana_r|."
+msgstr ""
+
+#: ../../MOM.rst:118
+msgid ":mtgtip:`Blossoming Sands<https://cards.scryfall.io/border_crop/front/e/3/e34684d6-2935-4776-9a86-b603ad8cf624.jpg?1676817943|https://scryfall.com/card/mom/268/blossoming-sands?utm_source=api>`"
+msgstr ""
+
+#: ../../MOM.rst:113
+msgid "Blossoming Sands enters the battlefield tapped."
+msgstr ""
+
+#: ../../MOM.rst:115
+msgid "When Blossoming Sands enters the battlefield, you gain 1 life."
+msgstr ""
+
+#: ../../MOM.rst:117
+msgid "|tap|: Add |mana_g| or |mana_w|."
+msgstr ""
+
+#: ../../MOM.rst:126
+msgid ":mtgtip:`Dismal Backwater<https://cards.scryfall.io/border_crop/front/3/3/33cd4f63-3484-4cee-8603-1f89cabee6c3.jpg?1676817975|https://scryfall.com/card/mom/269/dismal-backwater?utm_source=api>`"
+msgstr ""
+
+#: ../../MOM.rst:121
+msgid "Dismal Backwater enters the battlefield tapped."
+msgstr ""
+
+#: ../../MOM.rst:123
+msgid "When Dismal Backwater enters the battlefield, you gain 1 life."
+msgstr ""
+
+#: ../../MOM.rst:125
+msgid "|tap|: Add |mana_u| or |mana_b|."
+msgstr ""
+
+#: ../../MOM.rst:134
+msgid ":mtgtip:`Jungle Hollow<https://cards.scryfall.io/border_crop/front/b/6/b6ed20a4-bc8a-44b1-b9b7-c82518c287b8.jpg?1676818003|https://scryfall.com/card/mom/270/jungle-hollow?utm_source=api>`"
+msgstr ""
+
+#: ../../MOM.rst:129
+msgid "Jungle Hollow enters the battlefield tapped."
+msgstr ""
+
+#: ../../MOM.rst:131
+msgid "When Jungle Hollow enters the battlefield, you gain 1 life."
+msgstr ""
+
+#: ../../MOM.rst:133
+msgid "|tap|: Add |mana_b| or |mana_g|."
+msgstr ""
+
+#: ../../MOM.rst:142
+msgid ":mtgtip:`Rugged Highlands<https://cards.scryfall.io/border_crop/front/3/a/3aeef1b1-a351-47ce-a686-a0eb0a35a894.jpg?1676818026|https://scryfall.com/card/mom/271/rugged-highlands?utm_source=api>`"
+msgstr ""
+
+#: ../../MOM.rst:137
+msgid "Rugged Highlands enters the battlefield tapped."
+msgstr ""
+
+#: ../../MOM.rst:139
+msgid "When Rugged Highlands enters the battlefield, you gain 1 life."
+msgstr ""
+
+#: ../../MOM.rst:141
+msgid "|tap|: Add |mana_r| or |mana_g|."
+msgstr ""
+
+#: ../../MOM.rst:150
+msgid ":mtgtip:`Scoured Barrens<https://cards.scryfall.io/border_crop/front/6/6/66aefbfc-3f67-443d-8ec4-cc9beafb64ee.jpg?1676818054|https://scryfall.com/card/mom/272/scoured-barrens?utm_source=api>`"
+msgstr ""
+
+#: ../../MOM.rst:145
+msgid "Scoured Barrens enters the battlefield tapped."
+msgstr ""
+
+#: ../../MOM.rst:147
+msgid "When Scoured Barrens enters the battlefield, you gain 1 life."
+msgstr ""
+
+#: ../../MOM.rst:149
+msgid "|tap|: Add |mana_w| or |mana_b|."
+msgstr ""
+
+#: ../../MOM.rst:158
+msgid ":mtgtip:`Swiftwater Cliffs<https://cards.scryfall.io/border_crop/front/9/5/957efc4e-c2a9-46a2-b9e3-20dc419ffd05.jpg?1676818086|https://scryfall.com/card/mom/273/swiftwater-cliffs?utm_source=api>`"
+msgstr ""
+
+#: ../../MOM.rst:153
+msgid "Swiftwater Cliffs enters the battlefield tapped."
+msgstr ""
+
+#: ../../MOM.rst:155
+msgid "When Swiftwater Cliffs enters the battlefield, you gain 1 life."
+msgstr ""
+
+#: ../../MOM.rst:157
+msgid "|tap|: Add |mana_u| or |mana_r|."
+msgstr ""
+
+#: ../../MOM.rst:166
+msgid ":mtgtip:`Thornwood Falls<https://cards.scryfall.io/border_crop/front/f/1/f1b753e2-6e53-4ed1-9be4-66f8eb005a11.jpg?1676818110|https://scryfall.com/card/mom/274/thornwood-falls?utm_source=api>`"
+msgstr ""
+
+#: ../../MOM.rst:161
+msgid "Thornwood Falls enters the battlefield tapped."
+msgstr ""
+
+#: ../../MOM.rst:163
+msgid "When Thornwood Falls enters the battlefield, you gain 1 life."
+msgstr ""
+
+#: ../../MOM.rst:165
+msgid "|tap|: Add |mana_g| or |mana_u|."
+msgstr ""
+
+#: ../../MOM.rst:174
+msgid ":mtgtip:`Tranquil Cove<https://cards.scryfall.io/border_crop/front/3/7/3799dcb2-7cd7-4d28-b9af-249e3ebe3d3b.jpg?1676818152|https://scryfall.com/card/mom/275/tranquil-cove?utm_source=api>`"
+msgstr ""
+
+#: ../../MOM.rst:169
+msgid "Tranquil Cove enters the battlefield tapped."
+msgstr ""
+
+#: ../../MOM.rst:171
+msgid "When Tranquil Cove enters the battlefield, you gain 1 life."
+msgstr ""
+
+#: ../../MOM.rst:173
+msgid "|tap|: Add |mana_w| or |mana_u|."
+msgstr ""
+
+#: ../../MOM.rst:181
+msgid ":mtgtip:`Wind-Scarred Crag<https://cards.scryfall.io/border_crop/front/7/f/7f2642cd-e3cc-4aab-8c00-4987284509b3.jpg?1676818175|https://scryfall.com/card/mom/276/wind-scarred-crag?utm_source=api>`"
+msgstr ""
+
+#: ../../MOM.rst:177
+msgid "Wind-Scarred Crag enters the battlefield tapped."
+msgstr ""
+
+#: ../../MOM.rst:179
+msgid "When Wind-Scarred Crag enters the battlefield, you gain 1 life."
+msgstr ""
+
+#: ../../MOM.rst:181
+msgid "|tap|: Add |mana_r| or |mana_w|."
+msgstr ""
