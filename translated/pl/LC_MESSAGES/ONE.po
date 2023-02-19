@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG po polsku 2022.12\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-02-19 15:10+0100\n"
-"PO-Revision-Date: 2023-02-01 12:30+0000\n"
+"PO-Revision-Date: 2023-02-19 15:27+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/one/pl/>\n"
 "Language: pl\n"
@@ -360,8 +360,6 @@ msgid ""
 msgstr ""
 
 #: ../../ONE.rst:41 ../../ONE.rst:661 ../../ONE.rst:1127
-#, fuzzy
-#| msgid "Choose one—"
 msgid "Choose one —"
 msgstr "Wybierz jedno —"
 
@@ -887,6 +885,10 @@ msgid ""
 "by creatures of that color this turn. (|mana_wp| can be paid with either |"
 "mana_w| or 2 life.)"
 msgstr ""
+"|mana_wp|, |tap|: Wybierz kolor. Inny wskazany stwór pod twoim władaniem do "
+"końca tury zyskuje toksyczność 1 i antyklątwę przed owym kolorem. W tej "
+"turze nie może on być blokowany przez stwory owego koloru. (|mana_wp| można "
+"opłacić używając |mana_w| lub 2 żyć.)"
 
 #: ../../ONE.rst:232
 msgid ""
@@ -907,6 +909,8 @@ msgid ""
 "Corrupted — As long as an opponent has three or more poison counters, "
 "creatures you control with toxic have lifelink."
 msgstr ""
+"Zbrukanie — O ile przeciwnik ma co najmniej trzy znaczniki zatrucia, stwory "
+"pod twoim władaniem mające toksyczność mają więź życia."
 
 #: ../../ONE.rst:236
 msgid ""
@@ -928,7 +932,7 @@ msgstr ""
 
 #: ../../ONE.rst:239
 msgid "This spell costs |mana_3| more to cast if it targets a creature."
-msgstr ""
+msgstr "Rzucenie tego czaru kosztuje o |mana_3| więcej jeśli wskazuje stwora."
 
 #: ../../ONE.rst:241
 msgid "Exile target nonland permanent."
@@ -947,6 +951,9 @@ msgid ""
 "under your control, target creature you control gets +1/+1 and gains "
 "vigilance until end of turn."
 msgstr ""
+"Ilekroć niniejszy lub inny artefakt wejdzie na pole bitwy pod twoim "
+"władaniem, wskazany stwór pod twoim władaniem do końca tury dostaje +1/+1 i "
+"czujność."
 
 #: ../../ONE.rst:250
 msgid ""
@@ -1017,13 +1024,15 @@ msgstr ""
 msgid ""
 "Whenever you cast a noncreature spell, put an oil counter on Atmosphere "
 "Surgeon."
-msgstr ""
+msgstr "Ilekroć rzucisz niestworowy czar, umieść znacznik oleju na niniejszym."
 
 #: ../../ONE.rst:269
 msgid ""
 "Remove an oil counter from Atmosphere Surgeon: Target creature gains flying "
 "until end of turn. Activate only as a sorcery."
 msgstr ""
+"Usuń znacznik oleju z niniejszego: Wskazany stwór do końca tury zyskuje "
+"latanie. Aktywuj tylko jako obrzęd."
 
 #: ../../ONE.rst:278
 msgid ""
@@ -1055,6 +1064,8 @@ msgid ""
 "Gain control of target creature with mana value X or less. If X is 5 or "
 "more, create a token that's a copy of that creature."
 msgstr ""
+"Zyskaj władanie nad wskazanym stworem o skrócie many X lub mniejszym. Jeśli "
+"X to 5 lub więcej, stwórz żeton będący kopią owego stwora."
 
 #: ../../ONE.rst:288
 msgid ""
@@ -1087,6 +1098,8 @@ msgid ""
 "When Chrome Prowler enters the battlefield, tap target creature an opponent "
 "controls."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, przekręć wskazanego stwora pod "
+"władaniem przeciwnika."
 
 #: ../../ONE.rst:300
 msgid ""
@@ -1142,21 +1155,16 @@ msgid ""
 msgstr ""
 
 #: ../../ONE.rst:311
-#, fuzzy
-#| msgid ""
-#| "Whenever another creature enters the battlefield under your control, you "
-#| "may pay |mana_2|. If you do, proliferate. (Choose any number of "
-#| "permanents and/or players, then give each another counter of each kind "
-#| "already there.)"
 msgid ""
 "Look at the top three cards of your library. Put one of them into your hand "
 "and the rest on the bottom of your library in any order. Proliferate. "
 "(Choose any number of permanents and/or players, then give each another "
 "counter of each kind already there.)"
 msgstr ""
-"Ilekroć inny stwór wejdzie na pole bitwy pod twoim władanie, możesz zapłacić "
-"|mana_2|. Jeśli tak zrobisz, rozpleń. (Wybierz dowolną liczbę bytów i/lub "
-"graczy, po czym daj im kolejny znacznik każdego z już obecnych tam rodzajów.)"
+"Spójrz na trzy wierzchnie karty twojej biblioteki. Umieść jedną z nich w "
+"twojej ręce, a pozostałe dowolnie na spodzie twojej biblioteki. Rozpleń. ("
+"Wybierz dowolną liczbę bytów i/lub graczy, po czym daj im kolejny znacznik "
+"każdego z już obecnych tam rodzajów.)"
 
 #: ../../ONE.rst:318
 msgid ""
@@ -1502,11 +1510,9 @@ msgid ""
 msgstr ""
 
 #: ../../ONE.rst:435
-#, fuzzy
-#| msgid "Bladed Ambassador enters the battlefield with an oil counter on it."
 msgid ""
 "Tamiyo's Immobilizer enters the battlefield with four oil counters on it."
-msgstr "Ten byt wchodzi na pole bitwy mając znacznik oleju."
+msgstr "Ten byt wchodzi na pole bitwy mając cztery znaczniki oleju."
 
 #: ../../ONE.rst:437
 msgid ""
@@ -2046,16 +2052,12 @@ msgid ""
 msgstr ""
 
 #: ../../ONE.rst:629
-#, fuzzy
-#| msgid ""
-#| "Return target artifact or creature card with mana value 3 or less from "
-#| "your graveyard to the battlefield."
 msgid ""
 "When Nimraiser Paladin enters the battlefield, return target creature card "
 "with mana value 3 or less from your graveyard to your hand."
 msgstr ""
-"Przywróć z cmentarza na pole bitwy wskazaną kartę artefaktu lub stwora o "
-"skrócie many 3 lub mniejszym."
+"Kiedy ten byt wejdzie na pole bitwy, przywróć z twojego cmentarza do twojej "
+"ręki wskazaną kartę stwora o skrócie many 3 lub mniejszym."
 
 #: ../../ONE.rst:634
 msgid ""
@@ -2838,19 +2840,14 @@ msgid ""
 msgstr ""
 
 #: ../../ONE.rst:913
-#, fuzzy
-#| msgid ""
-#| "|mana_1|\\ |mana_wp|\\ |mana_wp|, Sacrifice two other artifacts and/or "
-#| "creatures: Put an indestructible counter on Mondrak, Glory Dominus. (|"
-#| "mana_wp| can be paid with either |mana_w| or 2 life.)"
 msgid ""
 "|mana_1|\\ |mana_rp|\\ |mana_rp|, Discard two cards: Put an indestructible "
 "counter on Solphim, Mayhem Dominus. (|mana_rp| can be paid with either |"
 "mana_r| or 2 life.)"
 msgstr ""
-"|mana_1|\\ |mana_wp|\\ |mana_wp|, poświęć dwa inne artefakty i/lub stwory: "
-"Umieść na niniejszym znacznik niezniszczalności. (|mana_wp| można opłacić "
-"używając |mana_w| lub 2 żyć.)"
+"|mana_1|\\ |mana_rp|\\ |mana_rp|, odrzuć dwie karty: Umieść na niniejszym "
+"znacznik niezniszczalności. (|mana_rp| można opłacić używając |mana_r| lub 2 "
+"żyć.)"
 
 #: ../../ONE.rst:920
 msgid ""
@@ -2952,10 +2949,8 @@ msgid ""
 msgstr ""
 
 #: ../../ONE.rst:951
-#, fuzzy
-#| msgid "When Prophetic Prism enters the battlefield, draw a card."
 msgid "When Adaptive Sporesinger enters the battlefield, choose one —"
-msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, wybierz jedno —"
 
 #: ../../ONE.rst:953
 msgid "Target creature gets +2/+2 and gains vigilance until end of turn."
@@ -3073,12 +3068,6 @@ msgid ""
 msgstr ""
 
 #: ../../ONE.rst:999
-#, fuzzy
-#| msgid ""
-#| "Whenever another creature enters the battlefield under your control, you "
-#| "may pay |mana_2|. If you do, proliferate. (Choose any number of "
-#| "permanents and/or players, then give each another counter of each kind "
-#| "already there.)"
 msgid ""
 "When Contagious Vorrac enters the battlefield, look at the top four cards of "
 "your library. You may reveal a land card from among them and put it into "
@@ -3087,9 +3076,12 @@ msgid ""
 "number of permanents and/or players, then give each another counter of each "
 "kind already there.)"
 msgstr ""
-"Ilekroć inny stwór wejdzie na pole bitwy pod twoim władanie, możesz zapłacić "
-"|mana_2|. Jeśli tak zrobisz, rozpleń. (Wybierz dowolną liczbę bytów i/lub "
-"graczy, po czym daj im kolejny znacznik każdego z już obecnych tam rodzajów.)"
+"Kiedy ten byt wejdzie na pole bitwy, spójrz na cztery wierzchnie karty "
+"twojej biblioteki. Możesz spośród nich ujawnić kartę lądu i umieścić ją w "
+"twojej ręce. Umieść pozostałe losowo na spodzie twojej biblioteki. Jeśli nie "
+"umieścisz w ten sposób karty w twojej ręce, rozpleń (Wybierz dowolną liczbę "
+"bytów i/lub graczy, po czym daj im kolejny znacznik każdego z już obecnych "
+"tam rodzajów.)"
 
 #: ../../ONE.rst:1006
 msgid ""
@@ -3327,14 +3319,10 @@ msgid ""
 msgstr ""
 
 #: ../../ONE.rst:1083
-#, fuzzy
-#| msgid ""
-#| "Toxic 1 (Players dealt combat damage by this creature also get a poison "
-#| "counter.)"
 msgid "Toxic 6 (Players dealt combat damage by"
 msgstr ""
-"Toksyny 1 (Gracz otrzymujący od niniejszego obrażenia dostaje także znacznik "
-"zatrucia.)"
+"Toksyczność 6 (Gracz otrzymujący od niniejszego obrażenia dostaje także "
+"sześć znaczników zatrucia.)"
 
 #: ../../ONE.rst:1085
 msgid "this creature also get six poison counters.)"
@@ -3590,18 +3578,12 @@ msgid ""
 msgstr ""
 
 #: ../../ONE.rst:1183
-#, fuzzy
-#| msgid ""
-#| "Until end of turn, target creature gets +1/+3 and gains flying and toxic "
-#| "1. (Players dealt combat damage by that creature also get a poison "
-#| "counter.)"
 msgid ""
 "Create a 3/3 green Phyrexian Beast creature token with toxic 1. (Players "
 "dealt combat damage by it also get a poison counter.)"
 msgstr ""
-"Do końca tury wskazany stwór dostaje +1/+3, latanie oraz toksyczność 1 "
-"(Gracz otrzymujący od owego stwora obrażenia dostaje także znacznik "
-"zatrucia.)"
+"Stwórz żeton zielonego stwora Phyreksiańska Bestia 3/3 mający toksyczność 1 ("
+"Gracz otrzymujący od owego stwora obrażenia dostaje także znacznik zatrucia.)"
 
 #: ../../ONE.rst:1185
 msgid ""
@@ -4439,10 +4421,6 @@ msgid ""
 msgstr ""
 
 #: ../../ONE.rst:1491
-#, fuzzy
-#| msgid ""
-#| "Corrupted — Whenever Phyrexian Atlas becomes tapped, each opponent with "
-#| "three or more poison counters loses 1 life."
 msgid ""
 "Corrupted — Whenever Phyrexian Atlas becomes tapped, each opponent who has "
 "three or more poison counters loses 1 life."
