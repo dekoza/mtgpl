@@ -164,6 +164,8 @@
 .. |AFR_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
+.. |YDMU_percent| image:: images/pie60.png        
+
 .. |GK2_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
@@ -391,6 +393,8 @@
 
 .. |MM2_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
+
+.. |YBRO_percent| image:: images/pie55.png        
 
 .. |GN2_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
