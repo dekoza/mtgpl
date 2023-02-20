@@ -40,7 +40,8 @@ Tłumaczenie dodatków
 Nadchodzące
 -----------
 
-* :mtgexp:`ONE` :doc:`Phyrexia: All Will Be One<ONE>` - Premiera 2023-02-10
+* :mtgexp:`MOM` :doc:`March of the Machine<MOM>` Premiera: 2023-04-21
+   * :mtgexp:`MUL` :doc:`Multiverse Legends<MUL>` (suplement)
 
 Standard
 --------
@@ -48,6 +49,7 @@ Standard
 Format posiadający rotację - raz do roku część dodatków przestaje być legalna w tym formacie, by zrobić miejsce na kolejne. Dzięki temu pula kart ma przewidywalny rozmiar.
 Jest podzbiorem wszystkich innych formatów.
 
+* :mtgexp:`ONE` :doc:`Phyrexia: All Will Be One<ONE>` |ONE_percent|
 * :mtgexp:`BRO` :doc:`Brother's War<BRO>` |BRO_percent| (dodatkowo okraszone specjalnymi :doc:`Arefaktami<BRR>` z symbolem :mtgexp:`BRR` - w większości spoza Standardu)
 * :mtgexp:`DMU` :doc:`Dominaria United<DMU>` |DMU_percent|
 * :mtgexp:`SNC` :doc:`Streets of New Capenna<SNC>` |SNC_percent|
