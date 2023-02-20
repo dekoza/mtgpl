@@ -294,6 +294,8 @@
 
 .. |DMR_percent| image:: images/pie75.png        
 
+.. |MOM_percent| image:: images/pie95.png        
+
 .. |WWK_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
@@ -455,6 +457,9 @@
    :alt: Tłumaczenie zakończone
 
 .. |ARN_percent| image:: images/pie55.png        
+
+.. |MUL_percent| image:: images/done.png        
+   :alt: Tłumaczenie zakończone
 
 .. |PTK_percent| image:: images/pie55.png        
 
