@@ -1,237 +1,238 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2013-2022, Dominik Kozaczko
 # This file is distributed under the same license as the MTG po polsku package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-#, fuzzy
+# Weblate Admin <weblate-admin@kozaczko.info>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG po polsku 2023.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-02-19 21:48+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2023-02-20 09:21+0000\n"
+"Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
+"Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mom/pl/>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.14\n"
 
 #: ../../symbols.rst:3
 msgid "{C}"
-msgstr ""
+msgstr "{C}"
 
 #: ../../symbols.rst:5
 msgid "{T}"
-msgstr ""
+msgstr "{T}"
 
 #: ../../symbols.rst:7
 msgid "{Q}"
-msgstr ""
+msgstr "{Q}"
 
 #: ../../symbols.rst:9
 msgid "{U}"
-msgstr ""
+msgstr "{U}"
 
 #: ../../symbols.rst:11
 msgid "{W}"
-msgstr ""
+msgstr "{W}"
 
 #: ../../symbols.rst:13
 msgid "{B}"
-msgstr ""
+msgstr "{B}"
 
 #: ../../symbols.rst:15
 msgid "{G}"
-msgstr ""
+msgstr "{G}"
 
 #: ../../symbols.rst:17
 msgid "{R}"
-msgstr ""
+msgstr "{R}"
 
 #: ../../symbols.rst:19
 msgid "{2/U}"
-msgstr ""
+msgstr "{2/U}"
 
 #: ../../symbols.rst:21
 msgid "{2/W}"
-msgstr ""
+msgstr "{2/W}"
 
 #: ../../symbols.rst:23
 msgid "{2/B}"
-msgstr ""
+msgstr "{2/B}"
 
 #: ../../symbols.rst:25
 msgid "{2/G}"
-msgstr ""
+msgstr "{2/G}"
 
 #: ../../symbols.rst:27
 msgid "{2/R}"
-msgstr ""
+msgstr "{2/R}"
 
 #: ../../symbols.rst:29
 msgid "{U/P}"
-msgstr ""
+msgstr "{U/P}"
 
 #: ../../symbols.rst:31
 msgid "{W/P}"
-msgstr ""
+msgstr "{W/P}"
 
 #: ../../symbols.rst:33
 msgid "{B/P}"
-msgstr ""
+msgstr "{B/P}"
 
 #: ../../symbols.rst:35
 msgid "{G/P}"
-msgstr ""
+msgstr "{G/P}"
 
 #: ../../symbols.rst:37
 msgid "{R/P}"
-msgstr ""
+msgstr "{R/P}"
 
 #: ../../symbols.rst:39
 msgid "{X}"
-msgstr ""
+msgstr "{X}"
 
 #: ../../symbols.rst:41
 msgid "{P}"
-msgstr ""
+msgstr "{P}"
 
 #: ../../symbols.rst:43
 msgid "{0}"
-msgstr ""
+msgstr "{0}"
 
 #: ../../symbols.rst:45
 msgid "{1}"
-msgstr ""
+msgstr "{1}"
 
 #: ../../symbols.rst:47
 msgid "{2}"
-msgstr ""
+msgstr "{2}"
 
 #: ../../symbols.rst:49
 msgid "{3}"
-msgstr ""
+msgstr "{3}"
 
 #: ../../symbols.rst:51
 msgid "{4}"
-msgstr ""
+msgstr "{4}"
 
 #: ../../symbols.rst:53
 msgid "{5}"
-msgstr ""
+msgstr "{5}"
 
 #: ../../symbols.rst:55
 msgid "{6}"
-msgstr ""
+msgstr "{6}"
 
 #: ../../symbols.rst:57
 msgid "{7}"
-msgstr ""
+msgstr "{7}"
 
 #: ../../symbols.rst:59
 msgid "{8}"
-msgstr ""
+msgstr "{8}"
 
 #: ../../symbols.rst:61
 msgid "{9}"
-msgstr ""
+msgstr "{9}"
 
 #: ../../symbols.rst:63
 msgid "{10}"
-msgstr ""
+msgstr "{10}"
 
 #: ../../symbols.rst:65
 msgid "{11}"
-msgstr ""
+msgstr "{11}"
 
 #: ../../symbols.rst:67
 msgid "{12}"
-msgstr ""
+msgstr "{12}"
 
 #: ../../symbols.rst:69
 msgid "{13}"
-msgstr ""
+msgstr "{13}"
 
 #: ../../symbols.rst:71
 msgid "{14}"
-msgstr ""
+msgstr "{14}"
 
 #: ../../symbols.rst:73
 msgid "{15}"
-msgstr ""
+msgstr "{15}"
 
 #: ../../symbols.rst:75
 msgid "{16}"
-msgstr ""
+msgstr "{16}"
 
 #: ../../symbols.rst:77
 msgid "{20}"
-msgstr ""
+msgstr "{20}"
 
 #: ../../symbols.rst:79
 msgid "{(r/g)}"
-msgstr ""
+msgstr "{(r/g)}"
 
 #: ../../symbols.rst:81
 msgid "{(r/w)}"
-msgstr ""
+msgstr "{(r/w)}"
 
 #: ../../symbols.rst:83
 msgid "{(u/b)}"
-msgstr ""
+msgstr "{(u/b)}"
 
 #: ../../symbols.rst:85
 msgid "{(u/r)}"
-msgstr ""
+msgstr "{(u/r)}"
 
 #: ../../symbols.rst:87
 msgid "{(w/b)}"
-msgstr ""
+msgstr "{(w/b)}"
 
 #: ../../symbols.rst:89
 msgid "{(w/u)}"
-msgstr ""
+msgstr "{(w/u)}"
 
 #: ../../symbols.rst:91
 msgid "{(b/g)}"
-msgstr ""
+msgstr "{(b/g)}"
 
 #: ../../symbols.rst:93
 msgid "{(b/r)}"
-msgstr ""
+msgstr "{(b/r)}"
 
 #: ../../symbols.rst:95
 msgid "{(g/w)}"
-msgstr ""
+msgstr "{(g/w)}"
 
 #: ../../symbols.rst:97
 msgid "{(g/u)}"
-msgstr ""
+msgstr "{(g/u)}"
 
 #: ../../symbols.rst:99
 msgid "{(g/u/p)}"
-msgstr ""
+msgstr "{(g/u/p)}"
 
 #: ../../symbols.rst:101
 msgid "{(g/w/p)}"
-msgstr ""
+msgstr "{(g/w/p)}"
 
 #: ../../symbols.rst:103
 msgid "{S}"
-msgstr ""
+msgstr "{S}"
 
 #: ../../symbols.rst:105
 msgid "{E}"
-msgstr ""
+msgstr "{E}"
 
 #: ../../symbols.rst:107
 msgid "{CHAOS}"
-msgstr ""
+msgstr "{CHAOS}"
 
 #: ../../symbols.rst:109
 msgid "{PW}"
-msgstr ""
+msgstr "{PW}"
 
 #: ../../MOM.rst:5
 msgid ":mtgexp:`MOM` March of the Machine"
@@ -267,13 +268,15 @@ msgstr ""
 
 #: ../../MOM.rst:15
 msgid "You may cast spells as though they had flash."
-msgstr ""
+msgstr "Możesz rzucać czary tak, jakby miały błysk."
 
 #: ../../MOM.rst:17
 msgid ""
 "Spells you cast cost |mana_1| less to cast for each card your opponents have "
 "drawn this turn."
 msgstr ""
+"Rzucanie czarów kosztuje cię o |mana_1| mniej za każdą kartę dobraną w tej "
+"turze przez twoich przeciwników."
 
 #: ../../MOM.rst:28
 msgid ""
@@ -284,20 +287,21 @@ msgstr ""
 
 #: ../../MOM.rst:21
 msgid "Flash"
-msgstr ""
+msgstr "Błysk"
 
 #: ../../MOM.rst:23
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 #: ../../MOM.rst:25
 msgid ""
 "Whenever an opponent draws their second card each turn, you draw a card."
 msgstr ""
+"Ilekroć przeciwnik dobierze swoją drugą kartę w danej turze, dobierz kartę."
 
 #: ../../MOM.rst:27
 msgid "|mana_3|\\ |mana_u|: Each player draws a card."
-msgstr ""
+msgstr "|mana_3|\\ |mana_u|: Każdy gracz dobiera kartę."
 
 #: ../../MOM.rst:36
 msgid ""
@@ -308,13 +312,15 @@ msgstr ""
 
 #: ../../MOM.rst:31
 msgid "Ward |mana_2|"
-msgstr ""
+msgstr "Straż |mana_2|"
 
 #: ../../MOM.rst:33
 msgid ""
 "Whenever you cast a noncreature spell with mana value 3 or greater, draw a "
 "card."
 msgstr ""
+"Ilekroć rzucisz niestworowy czar o skrócie many 3 lub większym, dobierz "
+"kartę."
 
 #: ../../MOM.rst:35
 msgid ""
@@ -391,10 +397,12 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, copy it. You may choose new "
 "targets for the copy. This ability triggers only once each turn."
 msgstr ""
+"Ilekroć rzucisz czar sztuczki lub obrzędu, skopiuj go. Możesz wskazać nowe "
+"cele dla kopii. Ta zdolność wyzwala się tylko raz na turę."
 
 #: ../../MOM.rst:59
 msgid "+2: Add two mana in any combination of colors."
-msgstr ""
+msgstr "+2: Weź dwie many w dowolnej kombinacji kolorów."
 
 #: ../../MOM.rst:61
 msgid ""
@@ -405,6 +413,8 @@ msgstr ""
 #: ../../MOM.rst:63
 msgid "−X: Chandra, Hope's Beacon deals X damage to each of up to two targets."
 msgstr ""
+"–X: Ten wędrowiec zadaje po X obrażeń każdemu z co najwyżej dwóch wskazanych "
+"celów."
 
 #: ../../MOM.rst:72
 msgid ""
@@ -415,12 +425,14 @@ msgstr ""
 
 #: ../../MOM.rst:67
 msgid "Flying, vigilance"
-msgstr ""
+msgstr "Latanie, czujność"
 
 #: ../../MOM.rst:69
 msgid ""
 "Activated abilities of creatures your opponents control can't be activated."
 msgstr ""
+"Aktywowane zdolności stworów pod władaniem twoich przeciwników nie mogą być "
+"aktywowane."
 
 #: ../../MOM.rst:71
 msgid ""
@@ -438,11 +450,11 @@ msgstr ""
 
 #: ../../MOM.rst:75
 msgid "Trample"
-msgstr ""
+msgstr "Tratowanie"
 
 #: ../../MOM.rst:77
 msgid "Whenever you attack, choose one —"
-msgstr ""
+msgstr "Ilekroć zaatakujesz, wybierz jedno —"
 
 #: ../../MOM.rst:79
 msgid ""
@@ -466,6 +478,7 @@ msgstr ""
 #: ../../MOM.rst:85
 msgid "If you would lose unspent mana, that mana becomes black instead."
 msgstr ""
+"Jeśli miałbyś stracić niewydaną manę, zamiast tego owa mana staje się czarna."
 
 #: ../../MOM.rst:87
 msgid ""
@@ -485,23 +498,26 @@ msgstr ""
 
 #: ../../MOM.rst:91
 msgid "First strike, deathtouch"
-msgstr ""
+msgstr "Pierwszy cios, dotyk śmierci"
 
 #: ../../MOM.rst:93
 msgid "You may play an additional land on each of your turns."
-msgstr ""
+msgstr "Możesz zagrać dodatkowy ląd w każdej twojej turze."
 
 #: ../../MOM.rst:95
 msgid ""
 "Creatures and nonbasic lands your opponents control enter the battlefield "
 "tapped."
 msgstr ""
+"Stwory i niebazowe lądy pod władaniem twoich przeciwników wchodzą "
+"przekręcone na pole bitwy."
 
 #: ../../MOM.rst:97
 msgid ""
 "Wheenver Thalia and The Gitrog Monster attacks, sacrifice a creature or "
 "land, then draw a card."
 msgstr ""
+"Ilekroć niniejszy zaatakuje, poświęć stwora lub ląd, po czym dobierz kartę."
 
 #: ../../MOM.rst:100
 msgid ""
@@ -519,15 +535,15 @@ msgstr ""
 
 #: ../../MOM.rst:105
 msgid "Bloodfell Caves enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../MOM.rst:107
 msgid "When Bloodfell Caves enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../MOM.rst:109
 msgid "|tap|: Add |mana_b| or |mana_r|."
-msgstr ""
+msgstr "|tap|: Weź |mana_b| lub |mana_r|."
 
 #: ../../MOM.rst:118
 msgid ""
@@ -538,15 +554,15 @@ msgstr ""
 
 #: ../../MOM.rst:113
 msgid "Blossoming Sands enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../MOM.rst:115
 msgid "When Blossoming Sands enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../MOM.rst:117
 msgid "|tap|: Add |mana_g| or |mana_w|."
-msgstr ""
+msgstr "|tap|: Weź |mana_g| lub |mana_w|."
 
 #: ../../MOM.rst:126
 msgid ""
@@ -557,15 +573,15 @@ msgstr ""
 
 #: ../../MOM.rst:121
 msgid "Dismal Backwater enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../MOM.rst:123
 msgid "When Dismal Backwater enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../MOM.rst:125
 msgid "|tap|: Add |mana_u| or |mana_b|."
-msgstr ""
+msgstr "|tap|: Weź |mana_u| lub |mana_b|."
 
 #: ../../MOM.rst:134
 msgid ""
@@ -576,15 +592,15 @@ msgstr ""
 
 #: ../../MOM.rst:129
 msgid "Jungle Hollow enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../MOM.rst:131
 msgid "When Jungle Hollow enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../MOM.rst:133
 msgid "|tap|: Add |mana_b| or |mana_g|."
-msgstr ""
+msgstr "|tap|: Weź |mana_b| lub |mana_g|."
 
 #: ../../MOM.rst:142
 msgid ""
@@ -595,15 +611,15 @@ msgstr ""
 
 #: ../../MOM.rst:137
 msgid "Rugged Highlands enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../MOM.rst:139
 msgid "When Rugged Highlands enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../MOM.rst:141
 msgid "|tap|: Add |mana_r| or |mana_g|."
-msgstr ""
+msgstr "|tap|: Weź |mana_r| lub |mana_g|."
 
 #: ../../MOM.rst:150
 msgid ""
@@ -614,15 +630,15 @@ msgstr ""
 
 #: ../../MOM.rst:145
 msgid "Scoured Barrens enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../MOM.rst:147
 msgid "When Scoured Barrens enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../MOM.rst:149
 msgid "|tap|: Add |mana_w| or |mana_b|."
-msgstr ""
+msgstr "|tap|: Weź |mana_w| lub |mana_b|."
 
 #: ../../MOM.rst:158
 msgid ""
@@ -633,15 +649,15 @@ msgstr ""
 
 #: ../../MOM.rst:153
 msgid "Swiftwater Cliffs enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../MOM.rst:155
 msgid "When Swiftwater Cliffs enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../MOM.rst:157
 msgid "|tap|: Add |mana_u| or |mana_r|."
-msgstr ""
+msgstr "|tap|: Weź |mana_u| lub |mana_r|."
 
 #: ../../MOM.rst:166
 msgid ""
@@ -652,15 +668,15 @@ msgstr ""
 
 #: ../../MOM.rst:161
 msgid "Thornwood Falls enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../MOM.rst:163
 msgid "When Thornwood Falls enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../MOM.rst:165
 msgid "|tap|: Add |mana_g| or |mana_u|."
-msgstr ""
+msgstr "|tap|: Weź |mana_g| lub |mana_u|."
 
 #: ../../MOM.rst:174
 msgid ""
@@ -671,15 +687,15 @@ msgstr ""
 
 #: ../../MOM.rst:169
 msgid "Tranquil Cove enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../MOM.rst:171
 msgid "When Tranquil Cove enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../MOM.rst:173
 msgid "|tap|: Add |mana_w| or |mana_u|."
-msgstr ""
+msgstr "|tap|: Weź |mana_w| lub |mana_u|."
 
 #: ../../MOM.rst:181
 msgid ""
@@ -690,12 +706,12 @@ msgstr ""
 
 #: ../../MOM.rst:177
 msgid "Wind-Scarred Crag enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../MOM.rst:179
 msgid "When Wind-Scarred Crag enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 1 życie."
 
 #: ../../MOM.rst:181
 msgid "|tap|: Add |mana_r| or |mana_w|."
-msgstr ""
+msgstr "|tap|: Weź |mana_r| lub |mana_w|."
