@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG po polsku 2023.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-02-19 21:48+0100\n"
-"PO-Revision-Date: 2023-02-20 09:21+0000\n"
+"PO-Revision-Date: 2023-02-20 10:44+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mom/pl/>\n"
 "Language: pl\n"
@@ -251,12 +251,16 @@ msgid ""
 "When Heliod, the Radiant Dawn enters the battlefield, return target "
 "enchantment card that isn't a God from your graveyard to your hand."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, przywróć do twojej ręki wskazaną kartę "
+"uroku nie będącą Bogiem z twojego cmentarza."
 
 #: ../../MOM.rst:11
 msgid ""
 "|mana_3|\\ |mana_up|: Transform Heliod, the Radiant Dawn. Activate only as a "
 "sorcery. (|mana_up| can be paid with either |mana_u| or 2 life.)"
 msgstr ""
+"|mana_3|\\ |mana_up|: Transformuj ten byt. Aktywuj tylko jako obrzęd. "
+"(|mana_up| można opłacić używając |mana_u| lub 2 żyć.)"
 
 #: ../../MOM.rst:18
 msgid ""
@@ -328,6 +332,9 @@ msgid ""
 "transformed under its owner's control. Activate only as a sorcery and only "
 "if you have seven or more cards in hand."
 msgstr ""
+"|mana_3|\\ |mana_u|: Wygnaj ten byt, po czym przywróć go transformowany na "
+"pole bitwy pod władaniem właściciela. Aktywuj tylko jako obrzęd i tylko "
+"jeśli masz co najmniej siedem kart w ręce."
 
 #: ../../MOM.rst:46
 msgid ""
@@ -339,16 +346,21 @@ msgstr ""
 #: ../../MOM.rst:39
 msgid "(As this saga enters and after your draw step, add a lore counter.)"
 msgstr ""
+"(Przy wejściu tej sagi oraz po twoim kroku dobierania, dodaj znacznik "
+"opowieści.)"
 
 #: ../../MOM.rst:41
 msgid ""
 "I — Draw cards equal to the number of cards in your hand. You have no "
 "maximum hand size for as long as you control The Great Synthesis."
 msgstr ""
+"I — Dobierz karty w liczbie równej liczbie kart w twojej ręce. Nie masz "
+"limitu kart na ręce przez czas władania tym bytem."
 
 #: ../../MOM.rst:43
 msgid "II — Return all non-Phyrexian creatures to their owners' hands."
 msgstr ""
+"II — Przywróć wszystkie stwory bez typu Phyreksiański do rąk ich właścicieli."
 
 #: ../../MOM.rst:45
 msgid ""
@@ -356,6 +368,9 @@ msgid ""
 "mana cost. Exile The Great Synthesis, then return it to the battlefield "
 "(front face up)."
 msgstr ""
+"III — Możesz rzucić dowolną liczbę czarów z twojej ręki bez płacenia ich "
+"kosztów many. Wygnaj ten byt, po czym przywróć go na pole bitwy (na "
+"przedniej stronie)."
 
 #: ../../MOM.rst:50
 msgid ""
@@ -369,6 +384,8 @@ msgid ""
 "Look at the top three cards of your library. Put one of those cards into "
 "your hand, one into your graveyard, and one on the bottom of your library."
 msgstr ""
+"Spójrz na trzy wierzchnie karty twojej biblioteki. Umieść jedną z owych kart "
+"w twojej ręce, jedną w twoim cmentarzu, a jedną na spodzie twojej biblioteki."
 
 #: ../../MOM.rst:54
 msgid ""
@@ -409,6 +426,9 @@ msgid ""
 "+1: Exile the top five cards of your library. Until the end of your next "
 "turn, you may cast an instant or sorcery spell from among those exiled cards."
 msgstr ""
+"+1: Wygnaj pięć wierzchnich kart twojej biblioteki. Do końca twojej "
+"następnej tury możesz rzucić czar sztuczki lub obrzędu spośród owych "
+"wygnanych kart."
 
 #: ../../MOM.rst:63
 msgid "−X: Chandra, Hope's Beacon deals X damage to each of up to two targets."
@@ -440,6 +460,9 @@ msgid ""
 "opponents control. You may spend mana as though it were mana of any colo to "
 "activate those abilities."
 msgstr ""
+"Ten byt ma wszystkie aktywowane zdolności wszystkich stworów pod władaniem "
+"twoich przeciwników. Do ich aktywacji możesz wydawać manę tak, jakby była "
+"maną dowolnego koloru."
 
 #: ../../MOM.rst:82
 msgid ""
@@ -461,12 +484,16 @@ msgid ""
 "Create a tapped and attacking X/X green Dniosaur creature token with "
 "trample, where X is the greatest power among other attacking creatures."
 msgstr ""
+"Stwórz przekręcony i atakujący żeton zielonego stwora Dinozaur X/X z "
+"tratowaniem, gdzie X jest największą siłą pośród innych atakujących stworów."
 
 #: ../../MOM.rst:81
 msgid ""
 "Create X 1/1 white Vampire creature tokens with lifelink, where X is the "
 "number of other attacking creatures."
 msgstr ""
+"Stwórz X żetonów białego stwora Wampir 1/1 z więzią życia, gdzie X jest "
+"liczbą innych atakujących stworów."
 
 #: ../../MOM.rst:88
 msgid ""
@@ -488,6 +515,11 @@ msgid ""
 "colors and put it into your hand. If you don't reveal it, put it into your "
 "hand."
 msgstr ""
+"Na początku twojej fazy głównej przed potyczką, spójrz na wierzchnią kartę "
+"twojej biblioteki. Możesz ujawnić ową kartę jeśli ma ona co najmniej trzy "
+"symbole kolorowej many w jej koszcie. Jeśli tak zrobisz, weź trzy many w "
+"dowolnej kombinacji kolorów i umieść ją w twojej ręce. Jeśli jej nie "
+"ujawnisz, umieść ją w twojej ręce."
 
 #: ../../MOM.rst:98
 msgid ""
