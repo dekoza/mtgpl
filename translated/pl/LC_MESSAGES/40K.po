@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2022.5\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-02-03 01:07+0100\n"
+"POT-Creation-Date: 2023-03-02 12:41+0100\n"
 "PO-Revision-Date: 2023-01-22 22:21+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/40k/pl/>\n"
@@ -1030,13 +1030,17 @@ msgstr ""
 #: ../../40K.rst:248
 msgid ""
 ":mtgtip:`Lychguard<https://cards.scryfall.io/border_crop/front/6/7/6737a276-"
-"b5e9-4c55-b995-ada96eca4e6e.jpg?1673308689|https://scryfall.com/card/40k/39/"
+"b5e9-4c55-b995-ada96eca4e6e.jpg?1677541606|https://scryfall.com/card/40k/39/"
 "lychguard?utm_source=api>`"
 msgstr ""
 
 #: ../../40K.rst:247
+#, fuzzy
+#| msgid ""
+#| "Guardian Patrols — |mana_3|\\ |mana_b|, Sacrifice Lychguard: Return all "
+#| "legendary creature cards from your graveyard to your hand."
 msgid ""
-"Guardian Patrols — |mana_3|\\ |mana_b|, Sacrifice Lychguard: Return all "
+"Guardian Protocols — |mana_3|\\ |mana_b|, Sacrifice Lychguard: Return all "
 "legendary creature cards from your graveyard to your hand."
 msgstr ""
 "Strażnik Patroluje — |mana_3|\\ |mana_b|, poświeć ten byt: Przywróć "
@@ -1219,7 +1223,7 @@ msgstr ""
 #: ../../40K.rst:310
 msgid ""
 ":mtgtip:`Primaris Eliminator<https://cards.scryfall.io/border_crop/front/d/b/"
-"db7ab081-d6cd-4323-98bf-536e4df95115.jpg?1673308770|https://scryfall.com/"
+"db7ab081-d6cd-4323-98bf-536e4df95115.jpg?1677541618|https://scryfall.com/"
 "card/40k/50/primaris-eliminator?utm_source=api>`"
 msgstr ""
 
@@ -1232,8 +1236,12 @@ msgid "Executioner Round — Destroy target creature."
 msgstr "Pocisk Egzekutora — Zniszcz wskazanego stwora."
 
 #: ../../40K.rst:309
+#, fuzzy
+#| msgid ""
+#| "Hyperfang Round — Creatures target player controls get -2/-2 until end of "
+#| "turn."
 msgid ""
-"Hyperfang Round — Creatures target player controls get -2/-2 until end of "
+"Hyperfrag Round — Creatures target player controls get -2/-2 until end of "
 "turn."
 msgstr ""
 "Pocisk Odłamkowy — Stwory pod władaniem wskazanego gracza do końca tury "
@@ -1301,7 +1309,7 @@ msgstr ""
 #: ../../40K.rst:334
 msgid ""
 ":mtgtip:`Sautekh Immortal<https://cards.scryfall.io/border_crop/front/c/5/"
-"c57778d7-fbd7-482f-b895-c033592f7af6.jpg?1673308806|https://scryfall.com/"
+"c57778d7-fbd7-482f-b895-c033592f7af6.jpg?1677541640|https://scryfall.com/"
 "card/40k/54/sautekh-immortal?utm_source=api>`"
 msgstr ""
 
@@ -2793,7 +2801,7 @@ msgstr "Ten czar zadaje wskazanemu graczowi 3 obrażenia."
 #: ../../40K.rst:804
 msgid ""
 ":mtgtip:`The Lost and the Damned<https://cards.scryfall.io/border_crop/"
-"front/9/a/9a53cf96-b47f-48f0-b9cc-3330ae546a87.jpg?1673309434|https://"
+"front/9/a/9a53cf96-b47f-48f0-b9cc-3330ae546a87.jpg?1677541655|https://"
 "scryfall.com/card/40k/129/the-lost-and-the-damned?utm_source=api>`"
 msgstr ""
 
@@ -2815,14 +2823,20 @@ msgstr ""
 #: ../../40K.rst:810
 msgid ""
 ":mtgtip:`Lucius the Eternal<https://cards.scryfall.io/border_crop/front/6/"
-"b/6b86f229-0cbd-4d32-a1dc-ea4b24f835f2.jpg?1673309442|https://scryfall.com/"
+"b/6b86f229-0cbd-4d32-a1dc-ea4b24f835f2.jpg?1677541673|https://scryfall.com/"
 "card/40k/130/lucius-the-eternal?utm_source=api>`"
 msgstr ""
 
 #: ../../40K.rst:809
+#, fuzzy
+#| msgid ""
+#| "Armor of Shrieking Souls — When Lucius the Eternal dies, exile it and "
+#| "choose target creature an opponent controls. When that creature leaves "
+#| "the battlefield, return Lucius the Eternal from exile to the battlefield "
+#| "under its owner's control."
 msgid ""
-"Armor of Shrieking Souls — When Lucius the Eternal dies, exile it and choose "
-"target creature an opponent controls. When that creature leaves the "
+"Armour of Shrieking Souls — When Lucius the Eternal dies, exile it and "
+"choose target creature an opponent controls. When that creature leaves the "
 "battlefield, return Lucius the Eternal from exile to the battlefield under "
 "its owner's control."
 msgstr ""
@@ -3056,7 +3070,7 @@ msgstr ""
 #: ../../40K.rst:880
 msgid ""
 ":mtgtip:`Sister Repentia<https://cards.scryfall.io/border_crop/"
-"front/7/4/743c5111-9e94-4f08-9c01-92411e8a2317.jpg?1673309542|https://"
+"front/7/4/743c5111-9e94-4f08-9c01-92411e8a2317.jpg?1677541701|https://"
 "scryfall.com/card/40k/142/sister-repentia?utm_source=api>`"
 msgstr ""
 
@@ -3661,7 +3675,7 @@ msgstr ""
 #: ../../40K.rst:1078
 msgid ""
 ":mtgtip:`Deploy to the Front<https://cards.scryfall.io/border_crop/front/a/a/"
-"aa5f9580-4ee8-49bc-9524-44072d6b3a8b.jpg?1673309848|https://scryfall.com/"
+"aa5f9580-4ee8-49bc-9524-44072d6b3a8b.jpg?1677541710|https://scryfall.com/"
 "card/40k/184/deploy-to-the-front?utm_source=api>`"
 msgstr ""
 
@@ -3763,7 +3777,7 @@ msgstr ""
 #: ../../40K.rst:1106
 msgid ""
 ":mtgtip:`Swords to Plowshares<https://cards.scryfall.io/border_crop/"
-"front/9/9/99263917-25ca-4d54-b1f9-d6d316747088.jpg?1673309896|https://"
+"front/9/9/99263917-25ca-4d54-b1f9-d6d316747088.jpg?1677541721|https://"
 "scryfall.com/card/40k/190/swords-to-plowshares?utm_source=api>`"
 msgstr ""
 
@@ -3819,7 +3833,7 @@ msgstr "Recykling |mana_2| (|mana_2|, odrzuć tę kartę: Dobierz kartę.)"
 #: ../../40K.rst:1124
 msgid ""
 ":mtgtip:`Beacon of Unrest<https://cards.scryfall.io/border_crop/front/e/3/"
-"e313ae8b-f77b-47a4-9202-305bf6deb3dc.jpg?1673309928|https://scryfall.com/"
+"e313ae8b-f77b-47a4-9202-305bf6deb3dc.jpg?1677541737|https://scryfall.com/"
 "card/40k/194/beacon-of-unrest?utm_source=api>`"
 msgstr ""
 
@@ -3834,7 +3848,7 @@ msgstr ""
 #: ../../40K.rst:1128
 msgid ""
 ":mtgtip:`Bile Blight<https://cards.scryfall.io/border_crop/front/4/"
-"c/4c271a22-b659-4b22-9de6-738a5229d092.jpg?1673309936|https://scryfall.com/"
+"c/4c271a22-b659-4b22-9de6-738a5229d092.jpg?1677541749|https://scryfall.com/"
 "card/40k/195/bile-blight?utm_source=api>`"
 msgstr ""
 
@@ -3860,7 +3874,7 @@ msgstr "Weź |mana_b|\\ |mana_b|\\ |mana_b|."
 #: ../../40K.rst:1136
 msgid ""
 ":mtgtip:`Darkness<https://cards.scryfall.io/border_crop/front/e/d/"
-"ed94c73e-25d3-43bb-bdaa-b05f9b972216.jpg?1673309950|https://scryfall.com/"
+"ed94c73e-25d3-43bb-bdaa-b05f9b972216.jpg?1677541760|https://scryfall.com/"
 "card/40k/197/darkness?utm_source=api>`"
 msgstr ""
 
@@ -3934,7 +3948,7 @@ msgstr ""
 #: ../../40K.rst:1158
 msgid ""
 ":mtgtip:`Go for the Throat<https://cards.scryfall.io/border_crop/front/e/9/"
-"e915e66d-4531-41f0-bc4f-ad9cd8851a05.jpg?1675182594|https://scryfall.com/"
+"e915e66d-4531-41f0-bc4f-ad9cd8851a05.jpg?1677541773|https://scryfall.com/"
 "card/40k/201/go-for-the-throat?utm_source=api>`"
 msgstr ""
 
@@ -4048,7 +4062,7 @@ msgstr ""
 #: ../../40K.rst:1192
 msgid ""
 ":mtgtip:`Starstorm<https://cards.scryfall.io/border_crop/front/b/4/"
-"b45264cb-67d0-4dfb-9229-61c4e90c760a.jpg?1673310031|https://scryfall.com/"
+"b45264cb-67d0-4dfb-9229-61c4e90c760a.jpg?1677541785|https://scryfall.com/"
 "card/40k/208/starstorm?utm_source=api>`"
 msgstr ""
 
@@ -4127,7 +4141,7 @@ msgstr ""
 #: ../../40K.rst:1214
 msgid ""
 ":mtgtip:`Explore<https://cards.scryfall.io/border_crop/front/b/6/"
-"b6838782-079a-47d0-bdab-cdcc975feab4.jpg?1673310072|https://scryfall.com/"
+"b6838782-079a-47d0-bdab-cdcc975feab4.jpg?1677541794|https://scryfall.com/"
 "card/40k/213/explore?utm_source=api>`"
 msgstr ""
 
@@ -4244,7 +4258,7 @@ msgstr ""
 #: ../../40K.rst:1250
 msgid ""
 ":mtgtip:`Rampant Growth<https://cards.scryfall.io/border_crop/front/b/a/"
-"ba3026d2-334d-41bd-8c6b-7de7d78e54e0.jpg?1673310126|https://scryfall.com/"
+"ba3026d2-334d-41bd-8c6b-7de7d78e54e0.jpg?1677541810|https://scryfall.com/"
 "card/40k/220/rampant-growth?utm_source=api>`"
 msgstr ""
 
@@ -4322,7 +4336,7 @@ msgstr "Zniszcz wskazanego stwora lub urok."
 #: ../../40K.rst:1284
 msgid ""
 ":mtgtip:`Utter End<https://cards.scryfall.io/border_crop/"
-"front/7/0/70504cce-2525-472b-b189-2cca86157ab3.jpg?1673310173|https://"
+"front/7/0/70504cce-2525-472b-b189-2cca86157ab3.jpg?1677541823|https://"
 "scryfall.com/card/40k/226/utter-end?utm_source=api>`"
 msgstr ""
 
@@ -4395,7 +4409,7 @@ msgstr ""
 #: ../../40K.rst:1310
 msgid ""
 ":mtgtip:`Chromatic Lantern<https://cards.scryfall.io/border_crop/front/e/0/"
-"e068501e-59d6-4c64-99f4-f3c2aacd5d4d.jpg?1673310213|https://scryfall.com/"
+"e068501e-59d6-4c64-99f4-f3c2aacd5d4d.jpg?1677541838|https://scryfall.com/"
 "card/40k/232/chromatic-lantern?utm_source=api>`"
 msgstr ""
 
@@ -4581,7 +4595,7 @@ msgstr ""
 #: ../../40K.rst:1374
 msgid ""
 ":mtgtip:`Mind Stone<https://cards.scryfall.io/border_crop/front/c/7/"
-"c729606e-5b13-4699-b7c8-feca69c91f62.jpg?1673310305|https://scryfall.com/"
+"c729606e-5b13-4699-b7c8-feca69c91f62.jpg?1677541861|https://scryfall.com/"
 "card/40k/244/mind-stone?utm_source=api>`"
 msgstr ""
 
@@ -4674,7 +4688,7 @@ msgstr ""
 #: ../../40K.rst:1410
 msgid ""
 ":mtgtip:`Talisman of Dominance<https://cards.scryfall.io/border_crop/front/f/"
-"e/fea79e31-97f9-4131-8101-99f7265758dd.jpg?1673310385|https://scryfall.com/"
+"e/fea79e31-97f9-4131-8101-99f7265758dd.jpg?1677541873|https://scryfall.com/"
 "card/40k/254/talisman-of-dominance?utm_source=api>`"
 msgstr ""
 
@@ -4910,7 +4924,7 @@ msgstr "|mana_1|, |tap|: Weź |mana_u|\\ |mana_b|."
 #: ../../40K.rst:1512
 msgid ""
 ":mtgtip:`Desert of the Glorified<https://cards.scryfall.io/border_crop/front/"
-"f/9/f9161bb7-07db-468f-b944-37a90fa0e4d9.jpg?1673310550|https://scryfall.com/"
+"f/9/f9161bb7-07db-468f-b944-37a90fa0e4d9.jpg?1677541909|https://scryfall.com/"
 "card/40k/275/desert-of-the-glorified?utm_source=api>`"
 msgstr ""
 
@@ -4974,7 +4988,7 @@ msgstr ""
 #: ../../40K.rst:1534
 msgid ""
 ":mtgtip:`Foreboding Ruins<https://cards.scryfall.io/border_crop/"
-"front/3/1/31e1c45c-eb7b-4ae6-9dd2-e65d9ef00686.jpg?1673310579|https://"
+"front/3/1/31e1c45c-eb7b-4ae6-9dd2-e65d9ef00686.jpg?1677541923|https://"
 "scryfall.com/card/40k/279/foreboding-ruins?utm_source=api>`"
 msgstr ""
 
@@ -4995,7 +5009,7 @@ msgstr "|tap|: Weź |mana_b| lub |mana_r|."
 #: ../../40K.rst:1542
 msgid ""
 ":mtgtip:`Forgotten Cave<https://cards.scryfall.io/border_crop/"
-"front/0/2/02c07a1b-1669-42f3-930a-8a4957e6a97b.jpg?1673310585|https://"
+"front/0/2/02c07a1b-1669-42f3-930a-8a4957e6a97b.jpg?1677541932|https://"
 "scryfall.com/card/40k/280/forgotten-cave?utm_source=api>`"
 msgstr ""
 
@@ -5210,7 +5224,7 @@ msgstr ""
 #: ../../40K.rst:1624
 msgid ""
 ":mtgtip:`Rugged Highlands<https://cards.scryfall.io/border_crop/"
-"front/4/2/420cb35b-1d76-4e86-9e88-47a8ec9e13bd.jpg?1673310684|https://"
+"front/4/2/420cb35b-1d76-4e86-9e88-47a8ec9e13bd.jpg?1677541942|https://"
 "scryfall.com/card/40k/292/rugged-highlands?utm_source=api>`"
 msgstr ""
 
@@ -5244,7 +5258,7 @@ msgstr "|tap|: Weź |mana_w| lub |mana_b|."
 #: ../../40K.rst:1636
 msgid ""
 ":mtgtip:`Skycloud Expanse<https://cards.scryfall.io/border_crop/front/2/"
-"f/2f829053-b1db-4e64-b243-5be6c93f8af7.jpg?1673310699|https://scryfall.com/"
+"f/2f829053-b1db-4e64-b243-5be6c93f8af7.jpg?1677541957|https://scryfall.com/"
 "card/40k/294/skycloud-expanse?utm_source=api>`"
 msgstr ""
 
@@ -5342,7 +5356,7 @@ msgstr "|tap|: Weź |mana_g| lub |mana_u|."
 #: ../../40K.rst:1678
 msgid ""
 ":mtgtip:`Temple of the False God<https://cards.scryfall.io/border_crop/front/"
-"f/8/f824b459-7720-4277-8a70-b1f5f4c8324c.jpg?1673310747|https://scryfall.com/"
+"f/8/f824b459-7720-4277-8a70-b1f5f4c8324c.jpg?1677541971|https://scryfall.com/"
 "card/40k/300/temple-of-the-false-god?utm_source=api>`"
 msgstr ""
 
@@ -5421,7 +5435,7 @@ msgstr ""
 #: ../../40K.rst:1710
 msgid ""
 ":mtgtip:`Vault of Whispers<https://cards.scryfall.io/border_crop/front/4/"
-"d/4dca7b45-164d-4181-9585-5d0f3b6a6927.jpg?1673310786|https://scryfall.com/"
+"d/4dca7b45-164d-4181-9585-5d0f3b6a6927.jpg?1677541985|https://scryfall.com/"
 "card/40k/305/vault-of-whispers?utm_source=api>`"
 msgstr ""
 
