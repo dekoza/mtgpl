@@ -1975,22 +1975,22 @@
    |tap|: Add |mana_u| or |mana_b|.
 
 
-:mtgtip:`Plains<https://cards.scryfall.io/border_crop/front/6/e/6ed1902d-0b09-4bbe-9059-a0779450ee05.jpg?1637114983|https://scryfall.com/card/mid/268/plains?utm_source=api>`
+:mtgtip:`Plains<https://cards.scryfall.io/border_crop/front/6/e/6ed1902d-0b09-4bbe-9059-a0779450ee05.jpg?1677493891|https://scryfall.com/card/mid/268/plains?utm_source=api>`
    (|tap|: Add |mana_w|.)
 
 
-:mtgtip:`Island<https://cards.scryfall.io/border_crop/front/8/d/8dc3bd34-4d12-4728-a53a-b5ae434d74b0.jpg?1637115033|https://scryfall.com/card/mid/270/island?utm_source=api>`
+:mtgtip:`Island<https://cards.scryfall.io/border_crop/front/8/d/8dc3bd34-4d12-4728-a53a-b5ae434d74b0.jpg?1677493886|https://scryfall.com/card/mid/270/island?utm_source=api>`
    (|tap|: Add |mana_u|.)
 
 
-:mtgtip:`Swamp<https://cards.scryfall.io/border_crop/front/7/7/77ba59d8-c13c-4966-845f-c090e9f061cb.jpg?1637115080|https://scryfall.com/card/mid/272/swamp?utm_source=api>`
+:mtgtip:`Swamp<https://cards.scryfall.io/border_crop/front/7/7/77ba59d8-c13c-4966-845f-c090e9f061cb.jpg?1677493893|https://scryfall.com/card/mid/272/swamp?utm_source=api>`
    (|tap|: Add |mana_b|.)
 
 
-:mtgtip:`Mountain<https://cards.scryfall.io/border_crop/front/3/b/3ba24a61-e529-4490-8536-6276ea77c511.jpg?1637115137|https://scryfall.com/card/mid/274/mountain?utm_source=api>`
+:mtgtip:`Mountain<https://cards.scryfall.io/border_crop/front/3/b/3ba24a61-e529-4490-8536-6276ea77c511.jpg?1677493888|https://scryfall.com/card/mid/274/mountain?utm_source=api>`
    (|tap|: Add |mana_r|.)
 
 
-:mtgtip:`Forest<https://cards.scryfall.io/border_crop/front/a/d/ad8ff40e-2d40-4557-8209-d2c84eb4ccf2.jpg?1637115191|https://scryfall.com/card/mid/276/forest?utm_source=api>`
+:mtgtip:`Forest<https://cards.scryfall.io/border_crop/front/a/d/ad8ff40e-2d40-4557-8209-d2c84eb4ccf2.jpg?1677493883|https://scryfall.com/card/mid/276/forest?utm_source=api>`
    (|tap|: Add |mana_g|.)
 

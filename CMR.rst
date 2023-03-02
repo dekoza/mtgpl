@@ -637,7 +637,7 @@
    Look at the top four cards of your library. Put two of them into your hand and the rest into your graveyard. You lose 2 life.
 
 
-:mtgtip:`Bladebrand<https://cards.scryfall.io/border_crop/front/8/9/89fb59ce-7d40-4784-b96d-2d5a25a8e531.jpg?1608909585|https://scryfall.com/card/cmr/110/bladebrand?utm_source=api>`
+:mtgtip:`Bladebrand<https://cards.scryfall.io/border_crop/front/8/9/89fb59ce-7d40-4784-b96d-2d5a25a8e531.jpg?1677542018|https://scryfall.com/card/cmr/110/bladebrand?utm_source=api>`
    Target creature gains deathtouch until end of turn.
 
    Draw a card.
@@ -2539,7 +2539,7 @@
    Whenever one or more +1/+1 counters are put on Sharktocrab, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step.
 
 
-:mtgtip:`Simic Charm<https://cards.scryfall.io/border_crop/front/3/3/3384ee4e-738f-4442-bccd-4f96022b7219.jpg?1608917694|https://scryfall.com/card/cmr/451/simic-charm?utm_source=api>`
+:mtgtip:`Simic Charm<https://cards.scryfall.io/border_crop/front/3/3/3384ee4e-738f-4442-bccd-4f96022b7219.jpg?1677541995|https://scryfall.com/card/cmr/451/simic-charm?utm_source=api>`
    Choose one —
 
    • Target creature gets +3/+3 until end of turn.

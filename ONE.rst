@@ -177,7 +177,7 @@
    Orthodoxy Enforcer gets +2/+0 as long as you control two or more artifacts.
 
 
-:mtgtip:`Ossification<https://cards.scryfall.io/border_crop/front/0/d/0da03224-c1af-438f-96c2-b0e41e1070b7.jpg?1675956925|https://scryfall.com/card/one/26/ossification?utm_source=api>`
+:mtgtip:`Ossification<https://cards.scryfall.io/border_crop/front/0/d/0da03224-c1af-438f-96c2-b0e41e1070b7.jpg?1677285311|https://scryfall.com/card/one/26/ossification?utm_source=api>`
    Enchant basic land you control
 
    When Ossification enters the battlefield, exile target creature or planeswalker an opponent controls until Ossification leaves the battlefield.
@@ -887,7 +887,7 @@
    Destroy up to X target artifacts. If X is 5 or more, for each artifact destroyed this way, create a token that's a copy of it. Those tokens gain haste. Exile them at the beginning of the next end step.
 
 
-:mtgtip:`Resistance Skywarden<https://cards.scryfall.io/border_crop/front/6/2/6249aabe-8f21-4257-9e04-ceffd44d42a5.jpg?1675957107|https://scryfall.com/card/one/146/resistance-skywarden?utm_source=api>`
+:mtgtip:`Resistance Skywarden<https://cards.scryfall.io/border_crop/front/6/2/6249aabe-8f21-4257-9e04-ceffd44d42a5.jpg?1677085614|https://scryfall.com/card/one/146/resistance-skywarden?utm_source=api>`
    Menace, reach
 
 

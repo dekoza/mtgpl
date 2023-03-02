@@ -1269,7 +1269,7 @@
    When Gyruda enters the battlefield, each player mills four cards. Put a creature card with an even mana value from among the milled cards onto the battlefield under your control.
 
 
-:mtgtip:`Jegantha, the Wellspring<https://cards.scryfall.io/border_crop/front/1/d/1d52e527-3835-4350-8c01-0f2d5d623b9c.jpg?1600967546|https://scryfall.com/card/iko/222/jegantha-the-wellspring?utm_source=api>`
+:mtgtip:`Jegantha, the Wellspring<https://cards.scryfall.io/border_crop/front/1/d/1d52e527-3835-4350-8c01-0f2d5d623b9c.jpg?1676913289|https://scryfall.com/card/iko/222/jegantha-the-wellspring?utm_source=api>`
    Companion — No card in your starting deck has more than one of the same mana symbol in its mana cost. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| any time you could cast a sorcery.)
 
    |tap|: Add |mana_w|\ |mana_u|\ |mana_b|\ |mana_r|\ |mana_g|. This mana can't be spent to pay generic mana costs.

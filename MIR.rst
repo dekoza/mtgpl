@@ -1501,7 +1501,7 @@
    Whenever Rock Basilisk blocks or becomes blocked by a non-Wall creature, destroy that creature at end of combat.
 
 
-:mtgtip:`Savage Twister<https://cards.scryfall.io/border_crop/front/e/b/eb73313b-d39a-46ab-abfc-76f94a75dfca.jpg?1593014734|https://scryfall.com/card/mir/280/savage-twister?utm_source=api>`
+:mtgtip:`Savage Twister<https://cards.scryfall.io/border_crop/front/e/b/eb73313b-d39a-46ab-abfc-76f94a75dfca.jpg?1677281659|https://scryfall.com/card/mir/280/savage-twister?utm_source=api>`
    Savage Twister deals X damage to each creature.
 
 

@@ -1543,7 +1543,7 @@
    (|tap|: Add |mana_g|.)
 
 
-:mtgtip:`Athreos, Shroud-Veiled<https://cards.scryfall.io/border_crop/front/8/7/871c19fc-7d99-4022-9e13-d679a9e3547e.jpg?1581901443|https://scryfall.com/card/thb/269/athreos-shroud-veiled?utm_source=api>`
+:mtgtip:`Athreos, Shroud-Veiled<https://cards.scryfall.io/border_crop/front/8/7/871c19fc-7d99-4022-9e13-d679a9e3547e.jpg?1677541540|https://scryfall.com/card/thb/269/athreos-shroud-veiled?utm_source=api>`
    Indestructible
 
    As long as your devotion to white and black is less than seven, Athreos isn't a creature.

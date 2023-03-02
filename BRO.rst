@@ -759,7 +759,7 @@
    When Conscripted Infantry dies, create a 1/1 colorless Soldier artifact creature token.
 
 
-:mtgtip:`Draconic Destiny<https://cards.scryfall.io/border_crop/front/f/7/f71240ad-1daf-419a-aaeb-5f9d5079c3dd.jpg?1674421103|https://scryfall.com/card/bro/130/draconic-destiny?utm_source=api>`
+:mtgtip:`Draconic Destiny<https://cards.scryfall.io/border_crop/front/f/7/f71240ad-1daf-419a-aaeb-5f9d5079c3dd.jpg?1677073497|https://scryfall.com/card/bro/130/draconic-destiny?utm_source=api>`
    Enchant creature
 
    Enchanted creature gets +1/+1 and has flying, haste, and "|mana_1|: This creature gets +1/+0 until end of turn." It's a Dragon in addition to its other types.

@@ -447,7 +447,7 @@
    Tap two untapped Spirits you control: Tap target creature you don't control.
 
 
-:mtgtip:`Sire of the Storm<https://cards.scryfall.io/border_crop/front/b/e/bea64c04-6cd0-49e9-b4ba-1b50aab0a490.jpg?1641602124|https://scryfall.com/card/voc/113/sire-of-the-storm?utm_source=api>`
+:mtgtip:`Sire of the Storm<https://cards.scryfall.io/border_crop/front/b/e/bea64c04-6cd0-49e9-b4ba-1b50aab0a490.jpg?1677542230|https://scryfall.com/card/voc/113/sire-of-the-storm?utm_source=api>`
    Flying
 
    Whenever you cast a Spirit or Arcane spell, you may draw a card.

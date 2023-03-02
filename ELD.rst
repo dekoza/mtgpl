@@ -921,11 +921,11 @@
    |mana_1|\ |mana_r|: Weaselback Redcap gets +2/+0 until end of turn.
 
 
-:mtgtip:`Beanstalk Giant<https://cards.scryfall.io/border_crop/front/a/6/a66f5ea7-ddbb-4b89-b812-77bd17972cf9.jpg?1572490506|https://scryfall.com/card/eld/149/beanstalk-giant-fertile-footsteps?utm_source=api>`
+:mtgtip:`Beanstalk Giant<https://cards.scryfall.io/border_crop/front/a/6/a66f5ea7-ddbb-4b89-b812-77bd17972cf9.jpg?1677015123|https://scryfall.com/card/eld/149/beanstalk-giant-fertile-footsteps?utm_source=api>`
    Beanstalk Giant's power and toughness are each equal to the number of lands you control.
 
 
-:mtgtip:`Fertile Footsteps<https://cards.scryfall.io/border_crop/front/a/6/a66f5ea7-ddbb-4b89-b812-77bd17972cf9.jpg?1572490506|https://scryfall.com/card/eld/149/beanstalk-giant-fertile-footsteps?utm_source=api>`
+:mtgtip:`Fertile Footsteps<https://cards.scryfall.io/border_crop/front/a/6/a66f5ea7-ddbb-4b89-b812-77bd17972cf9.jpg?1677015123|https://scryfall.com/card/eld/149/beanstalk-giant-fertile-footsteps?utm_source=api>`
    Search your library for a basic land card, put it onto the battlefield, then shuffle. (Then exile this card. You may cast the creature later from exile.)
 
 
