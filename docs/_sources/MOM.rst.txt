@@ -5,19 +5,19 @@
 ===================================
 
 
-:mtgtip:`Heliod, the Radiant Dawn<https://cards.scryfall.io/border_crop/front/a/7/a7113c93-6c6d-410f-aeec-abc5ee121cdf.jpg?1676819567|https://scryfall.com/card/mom/17/heliod-the-radiant-dawn-heliod-the-warped-eclipse?utm_source=api>`
+:mtgtip:`Heliod, the Radiant Dawn<https://cards.scryfall.io/border_crop/front/a/7/a7113c93-6c6d-410f-aeec-abc5ee121cdf.jpg?1676821487|https://scryfall.com/card/mom/17/heliod-the-radiant-dawn-heliod-the-warped-eclipse?utm_source=api>`
    When Heliod, the Radiant Dawn enters the battlefield, return target enchantment card that isn't a God from your graveyard to your hand.
 
    |mana_3|\ |mana_up|: Transform Heliod, the Radiant Dawn. Activate only as a sorcery. (|mana_up| can be paid with either |mana_u| or 2 life.)
 
 
-:mtgtip:`Heliod, the Warped Eclipse<https://cards.scryfall.io/border_crop/back/a/7/a7113c93-6c6d-410f-aeec-abc5ee121cdf.jpg?1676819567|https://scryfall.com/card/mom/17/heliod-the-radiant-dawn-heliod-the-warped-eclipse?utm_source=api>`
+:mtgtip:`Heliod, the Warped Eclipse<https://cards.scryfall.io/border_crop/back/a/7/a7113c93-6c6d-410f-aeec-abc5ee121cdf.jpg?1676821487|https://scryfall.com/card/mom/17/heliod-the-radiant-dawn-heliod-the-warped-eclipse?utm_source=api>`
    You may cast spells as though they had flash.
 
    Spells you cast cost |mana_1| less to cast for each card your opponents have drawn this turn.
 
 
-:mtgtip:`Faerie Mastermind<https://cards.scryfall.io/border_crop/front/5/2/52d3005f-a1c7-4ef5-911f-ccc0752f4181.jpg?1676820278|https://scryfall.com/card/mom/58/faerie-mastermind?utm_source=api>`
+:mtgtip:`Faerie Mastermind<https://cards.scryfall.io/border_crop/front/5/2/52d3005f-a1c7-4ef5-911f-ccc0752f4181.jpg?1677455694|https://scryfall.com/card/mom/58/faerie-mastermind?utm_source=api>`
    Flash
 
    Flying
@@ -27,7 +27,7 @@
    |mana_3|\ |mana_u|: Each player draws a card.
 
 
-:mtgtip:`Jin-Gitaxias<https://cards.scryfall.io/border_crop/front/4/1/41c83142-b948-4ee5-a486-41306d2bb411.jpg?1676821248|https://scryfall.com/card/mom/65/jin-gitaxias-the-great-synthesis?utm_source=api>`
+:mtgtip:`Jin-Gitaxias<https://cards.scryfall.io/border_crop/front/4/1/41c83142-b948-4ee5-a486-41306d2bb411.jpg?1676992096|https://scryfall.com/card/mom/65/jin-gitaxias-the-great-synthesis?utm_source=api>`
    Ward |mana_2|
 
    Whenever you cast a noncreature spell with mana value 3 or greater, draw a card.
@@ -35,22 +35,22 @@
    |mana_3|\ |mana_u|: Exile Jin-Gitaxias, then return it to the battlefield transformed under its owner's control. Activate only as a sorcery and only if you have seven or more cards in hand.
 
 
-:mtgtip:`The Great Synthesis<https://cards.scryfall.io/border_crop/back/4/1/41c83142-b948-4ee5-a486-41306d2bb411.jpg?1676821248|https://scryfall.com/card/mom/65/jin-gitaxias-the-great-synthesis?utm_source=api>`
+:mtgtip:`The Great Synthesis<https://cards.scryfall.io/border_crop/back/4/1/41c83142-b948-4ee5-a486-41306d2bb411.jpg?1676992096|https://scryfall.com/card/mom/65/jin-gitaxias-the-great-synthesis?utm_source=api>`
    (As this saga enters and after your draw step, add a lore counter.)
 
    I — Draw cards equal to the number of cards in your hand. You have no maximum hand size for as long as you control The Great Synthesis.
 
    II — Return all non-Phyrexian creatures to their owners' hands.
 
-   III — You may cast any number of spells from your hand without paying their mana cost. Exile The Great Synthesis, then return it to the battlefield (front face up).
+   III — You may cast any number of spells from your hand without paying their mana costs. Exile The Great Synthesis, then return it to the battlefield (front face up).
 
 
-:mtgtip:`Moment of Truth<https://cards.scryfall.io/border_crop/front/0/e/0e758594-a48c-4508-b400-9028aec07f63.jpg?1676816006|https://scryfall.com/card/mom/67/moment-of-truth?utm_source=api>`
+:mtgtip:`Moment of Truth<https://cards.scryfall.io/border_crop/front/0/e/0e758594-a48c-4508-b400-9028aec07f63.jpg?1676994618|https://scryfall.com/card/mom/67/moment-of-truth?utm_source=api>`
    Look at the top three cards of your library. Put one of those cards into your hand, one into your graveyard, and one on the bottom of your library.
 
 
-:mtgtip:`Breach the Multiverse<https://cards.scryfall.io/border_crop/front/d/a/daf51a76-7a57-4462-ae18-a19e817e49e5.jpg?1676821269|https://scryfall.com/card/mom/94/breach-the-multiverse?utm_source=api>`
-   Each player mills ten cards. For each player, choose a creature or palneswalker card in that player's graveyard. Put those cards onto the battlefield under your control. Then each creature you control becomes a Phyrexian in addition to its other types.
+:mtgtip:`Breach the Multiverse<https://cards.scryfall.io/border_crop/front/d/a/daf51a76-7a57-4462-ae18-a19e817e49e5.jpg?1676846444|https://scryfall.com/card/mom/94/breach-the-multiverse?utm_source=api>`
+   Each player mills ten cards. For each player, choose a creature or planeswalker card in that player's graveyard. Put those cards onto the battlefield under your control. Then each creature you control becomes a Phyrexian in addition to its other types.
 
 
 :mtgtip:`Chandra, Hope's Beacon<https://cards.scryfall.io/border_crop/front/a/1/a146ea07-ec1c-448d-b67a-dd9f9e27c2e0.jpg?1676821293|https://scryfall.com/card/mom/134/chandra-hopes-beacon?utm_source=api>`
@@ -63,45 +63,45 @@
    −X: Chandra, Hope's Beacon deals X damage to each of up to two targets.
 
 
-:mtgtip:`Drana and Linvala<https://cards.scryfall.io/border_crop/front/b/b/bbda000f-3cf7-48b6-96ff-c23a3a64eab5.jpg?1676816732|https://scryfall.com/card/mom/222/drana-and-linvala?utm_source=api>`
+:mtgtip:`Drana and Linvala<https://cards.scryfall.io/border_crop/front/b/b/bbda000f-3cf7-48b6-96ff-c23a3a64eab5.jpg?1676906292|https://scryfall.com/card/mom/222/drana-and-linvala?utm_source=api>`
    Flying, vigilance
 
    Activated abilities of creatures your opponents control can't be activated.
 
-   Drana and Linvala has alla ctivated abilities of all creatures your opponents control. You may spend mana as though it were mana of any colo to activate those abilities.
+   Drana and Linvala has all activated abilities of all creatures your opponents control. You may spend mana as though it were mana of any color to activate those abilities.
 
 
-:mtgtip:`Ghalta and Mavren<https://cards.scryfall.io/border_crop/front/a/9/a9ec900f-1e31-4440-a75a-20b256734d5b.jpg?1676821305|https://scryfall.com/card/mom/225/ghalta-and-mavren?utm_source=api>`
+:mtgtip:`Ghalta and Mavren<https://cards.scryfall.io/border_crop/front/a/9/a9ec900f-1e31-4440-a75a-20b256734d5b.jpg?1676837156|https://scryfall.com/card/mom/225/ghalta-and-mavren?utm_source=api>`
    Trample
 
    Whenever you attack, choose one —
 
-   • Create a tapped and attacking X/X green Dniosaur creature token with trample, where X is the greatest power among other attacking creatures.
+   • Create a tapped and attacking X/X green Dinosaur creature token with trample, where X is the greatest power among other attacking creatures.
 
    • Create X 1/1 white Vampire creature tokens with lifelink, where X is the number of other attacking creatures.
 
 
-:mtgtip:`Omnath, Locus of All<https://cards.scryfall.io/border_crop/front/3/3/33d94ecf-758b-4f68-a7be-6bf3ff1047f4.jpg?1676817702|https://scryfall.com/card/mom/249/omnath-locus-of-all?utm_source=api>`
+:mtgtip:`Omnath, Locus of All<https://cards.scryfall.io/border_crop/front/3/3/33d94ecf-758b-4f68-a7be-6bf3ff1047f4.jpg?1677056890|https://scryfall.com/card/mom/249/omnath-locus-of-all?utm_source=api>`
    If you would lose unspent mana, that mana becomes black instead.
 
-   At the beginning of your precombat main phase, look at the top card of your library. You may reveal that card if it has three or more colored mana symbols in its mana cost. If you do, add three mana in any combination of colors and put it into your hand. If you don't reveal it, put it into your hand.
+   At the beginning of your precombat main phase, look at the top card of your library. You may reveal that card if it has three or more colored mana symbols in its mana cost. If you do, add three mana in any combination of its colors and put it into your hand. If you don't reveal it, put it into your hand.
 
 
-:mtgtip:`Thalia and The Gitrog Monster<https://cards.scryfall.io/border_crop/front/8/d/8d7ff937-de92-445f-976c-726fef5c91cc.jpg?1676816564|https://scryfall.com/card/mom/255/thalia-and-the-gitrog-monster?utm_source=api>`
+:mtgtip:`Thalia and The Gitrog Monster<https://cards.scryfall.io/border_crop/front/8/d/8d7ff937-de92-445f-976c-726fef5c91cc.jpg?1676847463|https://scryfall.com/card/mom/255/thalia-and-the-gitrog-monster?utm_source=api>`
    First strike, deathtouch
 
    You may play an additional land on each of your turns.
 
    Creatures and nonbasic lands your opponents control enter the battlefield tapped.
 
-   Wheenver Thalia and The Gitrog Monster attacks, sacrifice a creature or land, then draw a card.
+   Whenever Thalia and The Gitrog Monster attacks, sacrifice a creature or land, then draw a card.
 
 
-:mtgtip:`Yargle and Multani<https://cards.scryfall.io/border_crop/front/9/c/9c15e244-14cc-46a5-abd4-66a58d1c0dd0.jpg?1676821303|https://scryfall.com/card/mom/256/yargle-and-multani?utm_source=api>`
+:mtgtip:`Yargle and Multani<https://cards.scryfall.io/border_crop/front/9/c/9c15e244-14cc-46a5-abd4-66a58d1c0dd0.jpg?1676852450|https://scryfall.com/card/mom/256/yargle-and-multani?utm_source=api>`
    
 
 
-:mtgtip:`Bloodfell Caves<https://cards.scryfall.io/border_crop/front/8/5/85930f68-6f53-4921-9556-2887ac3abfd2.jpg?1676817909|https://scryfall.com/card/mom/267/bloodfell-caves?utm_source=api>`
+:mtgtip:`Bloodfell Caves<https://cards.scryfall.io/border_crop/front/8/5/85930f68-6f53-4921-9556-2887ac3abfd2.jpg?1676821452|https://scryfall.com/card/mom/267/bloodfell-caves?utm_source=api>`
    Bloodfell Caves enters the battlefield tapped.
 
    When Bloodfell Caves enters the battlefield, you gain 1 life.
@@ -109,7 +109,7 @@
    |tap|: Add |mana_b| or |mana_r|.
 
 
-:mtgtip:`Blossoming Sands<https://cards.scryfall.io/border_crop/front/e/3/e34684d6-2935-4776-9a86-b603ad8cf624.jpg?1676817943|https://scryfall.com/card/mom/268/blossoming-sands?utm_source=api>`
+:mtgtip:`Blossoming Sands<https://cards.scryfall.io/border_crop/front/e/3/e34684d6-2935-4776-9a86-b603ad8cf624.jpg?1676821444|https://scryfall.com/card/mom/268/blossoming-sands?utm_source=api>`
    Blossoming Sands enters the battlefield tapped.
 
    When Blossoming Sands enters the battlefield, you gain 1 life.
@@ -117,7 +117,7 @@
    |tap|: Add |mana_g| or |mana_w|.
 
 
-:mtgtip:`Dismal Backwater<https://cards.scryfall.io/border_crop/front/3/3/33cd4f63-3484-4cee-8603-1f89cabee6c3.jpg?1676817975|https://scryfall.com/card/mom/269/dismal-backwater?utm_source=api>`
+:mtgtip:`Dismal Backwater<https://cards.scryfall.io/border_crop/front/3/3/33cd4f63-3484-4cee-8603-1f89cabee6c3.jpg?1676950251|https://scryfall.com/card/mom/269/dismal-backwater?utm_source=api>`
    Dismal Backwater enters the battlefield tapped.
 
    When Dismal Backwater enters the battlefield, you gain 1 life.
@@ -125,7 +125,7 @@
    |tap|: Add |mana_u| or |mana_b|.
 
 
-:mtgtip:`Jungle Hollow<https://cards.scryfall.io/border_crop/front/b/6/b6ed20a4-bc8a-44b1-b9b7-c82518c287b8.jpg?1676818003|https://scryfall.com/card/mom/270/jungle-hollow?utm_source=api>`
+:mtgtip:`Jungle Hollow<https://cards.scryfall.io/border_crop/front/b/6/b6ed20a4-bc8a-44b1-b9b7-c82518c287b8.jpg?1676821427|https://scryfall.com/card/mom/270/jungle-hollow?utm_source=api>`
    Jungle Hollow enters the battlefield tapped.
 
    When Jungle Hollow enters the battlefield, you gain 1 life.
@@ -133,7 +133,7 @@
    |tap|: Add |mana_b| or |mana_g|.
 
 
-:mtgtip:`Rugged Highlands<https://cards.scryfall.io/border_crop/front/3/a/3aeef1b1-a351-47ce-a686-a0eb0a35a894.jpg?1676818026|https://scryfall.com/card/mom/271/rugged-highlands?utm_source=api>`
+:mtgtip:`Rugged Highlands<https://cards.scryfall.io/border_crop/front/3/a/3aeef1b1-a351-47ce-a686-a0eb0a35a894.jpg?1676821435|https://scryfall.com/card/mom/271/rugged-highlands?utm_source=api>`
    Rugged Highlands enters the battlefield tapped.
 
    When Rugged Highlands enters the battlefield, you gain 1 life.
@@ -141,7 +141,7 @@
    |tap|: Add |mana_r| or |mana_g|.
 
 
-:mtgtip:`Scoured Barrens<https://cards.scryfall.io/border_crop/front/6/6/66aefbfc-3f67-443d-8ec4-cc9beafb64ee.jpg?1676818054|https://scryfall.com/card/mom/272/scoured-barrens?utm_source=api>`
+:mtgtip:`Scoured Barrens<https://cards.scryfall.io/border_crop/front/6/6/66aefbfc-3f67-443d-8ec4-cc9beafb64ee.jpg?1676821408|https://scryfall.com/card/mom/272/scoured-barrens?utm_source=api>`
    Scoured Barrens enters the battlefield tapped.
 
    When Scoured Barrens enters the battlefield, you gain 1 life.
@@ -149,7 +149,7 @@
    |tap|: Add |mana_w| or |mana_b|.
 
 
-:mtgtip:`Swiftwater Cliffs<https://cards.scryfall.io/border_crop/front/9/5/957efc4e-c2a9-46a2-b9e3-20dc419ffd05.jpg?1676818086|https://scryfall.com/card/mom/273/swiftwater-cliffs?utm_source=api>`
+:mtgtip:`Swiftwater Cliffs<https://cards.scryfall.io/border_crop/front/9/5/957efc4e-c2a9-46a2-b9e3-20dc419ffd05.jpg?1676844453|https://scryfall.com/card/mom/273/swiftwater-cliffs?utm_source=api>`
    Swiftwater Cliffs enters the battlefield tapped.
 
    When Swiftwater Cliffs enters the battlefield, you gain 1 life.
@@ -157,7 +157,7 @@
    |tap|: Add |mana_u| or |mana_r|.
 
 
-:mtgtip:`Thornwood Falls<https://cards.scryfall.io/border_crop/front/f/1/f1b753e2-6e53-4ed1-9be4-66f8eb005a11.jpg?1676818110|https://scryfall.com/card/mom/274/thornwood-falls?utm_source=api>`
+:mtgtip:`Thornwood Falls<https://cards.scryfall.io/border_crop/front/f/1/f1b753e2-6e53-4ed1-9be4-66f8eb005a11.jpg?1676821392|https://scryfall.com/card/mom/274/thornwood-falls?utm_source=api>`
    Thornwood Falls enters the battlefield tapped.
 
    When Thornwood Falls enters the battlefield, you gain 1 life.
@@ -165,7 +165,7 @@
    |tap|: Add |mana_g| or |mana_u|.
 
 
-:mtgtip:`Tranquil Cove<https://cards.scryfall.io/border_crop/front/3/7/3799dcb2-7cd7-4d28-b9af-249e3ebe3d3b.jpg?1676818152|https://scryfall.com/card/mom/275/tranquil-cove?utm_source=api>`
+:mtgtip:`Tranquil Cove<https://cards.scryfall.io/border_crop/front/3/7/3799dcb2-7cd7-4d28-b9af-249e3ebe3d3b.jpg?1676821400|https://scryfall.com/card/mom/275/tranquil-cove?utm_source=api>`
    Tranquil Cove enters the battlefield tapped.
 
    When Tranquil Cove enters the battlefield, you gain 1 life.
@@ -173,7 +173,7 @@
    |tap|: Add |mana_w| or |mana_u|.
 
 
-:mtgtip:`Wind-Scarred Crag<https://cards.scryfall.io/border_crop/front/7/f/7f2642cd-e3cc-4aab-8c00-4987284509b3.jpg?1676818175|https://scryfall.com/card/mom/276/wind-scarred-crag?utm_source=api>`
+:mtgtip:`Wind-Scarred Crag<https://cards.scryfall.io/border_crop/front/7/f/7f2642cd-e3cc-4aab-8c00-4987284509b3.jpg?1676821384|https://scryfall.com/card/mom/276/wind-scarred-crag?utm_source=api>`
    Wind-Scarred Crag enters the battlefield tapped.
 
    When Wind-Scarred Crag enters the battlefield, you gain 1 life.
