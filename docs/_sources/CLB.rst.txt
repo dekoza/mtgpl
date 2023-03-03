@@ -2225,7 +2225,7 @@
    (|tap|: Add |mana_g|.)
 
 
-:mtgtip:`Deep Gnome Terramancer<https://cards.scryfall.io/border_crop/front/a/c/ac23a376-4b3a-4316-b3e2-2e25ca2b5e76.jpg?1674140307|https://scryfall.com/card/clb/607/deep-gnome-terramancer?utm_source=api>`
+:mtgtip:`Deep Gnome Terramancer<https://cards.scryfall.io/border_crop/front/a/c/ac23a376-4b3a-4316-b3e2-2e25ca2b5e76.jpg?1677390558|https://scryfall.com/card/clb/607/deep-gnome-terramancer?utm_source=api>`
    Flash
 
    Mold Earth — Whenever one or more lands enter the battlefield under an opponent's control without being played, you may search your library for a Plains card, put it onto the battlefield tapped, then shuffle. Do this only once each turn.
@@ -3321,11 +3321,11 @@
    Foretell |mana_2|\ |mana_g|\ |mana_g| (During your turn, you may pay |mana_2| and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)
 
 
-:mtgtip:`Beanstalk Giant<https://cards.scryfall.io/border_crop/front/4/7/47ceeea0-dd47-4c5c-a713-f100571107b9.jpg?1674142221|https://scryfall.com/card/clb/819/beanstalk-giant-fertile-footsteps?utm_source=api>`
+:mtgtip:`Beanstalk Giant<https://cards.scryfall.io/border_crop/front/4/7/47ceeea0-dd47-4c5c-a713-f100571107b9.jpg?1677014556|https://scryfall.com/card/clb/819/beanstalk-giant-fertile-footsteps?utm_source=api>`
    Beanstalk Giant's power and toughness are each equal to the number of lands you control.
 
 
-:mtgtip:`Fertile Footsteps<https://cards.scryfall.io/border_crop/front/4/7/47ceeea0-dd47-4c5c-a713-f100571107b9.jpg?1674142221|https://scryfall.com/card/clb/819/beanstalk-giant-fertile-footsteps?utm_source=api>`
+:mtgtip:`Fertile Footsteps<https://cards.scryfall.io/border_crop/front/4/7/47ceeea0-dd47-4c5c-a713-f100571107b9.jpg?1677014556|https://scryfall.com/card/clb/819/beanstalk-giant-fertile-footsteps?utm_source=api>`
    Search your library for a basic land card, put it onto the battlefield, then shuffle. (Then exile this card. You may cast the creature later from exile.)
 
 

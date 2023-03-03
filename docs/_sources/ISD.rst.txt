@@ -263,7 +263,7 @@
    Whenever enchanted creature deals damage to an opponent, you may draw a card.
 
 
-:mtgtip:`Curse of the Bloody Tome<https://cards.scryfall.io/border_crop/front/c/7/c7865e11-263b-4d61-af54-907c1acbb54f.jpg?1562836859|https://scryfall.com/card/isd/50/curse-of-the-bloody-tome?utm_source=api>`
+:mtgtip:`Curse of the Bloody Tome<https://cards.scryfall.io/border_crop/front/c/7/c7865e11-263b-4d61-af54-907c1acbb54f.jpg?1677073534|https://scryfall.com/card/isd/50/curse-of-the-bloody-tome?utm_source=api>`
    Enchant player
 
    At the beginning of enchanted player's upkeep, that player mills two cards.
@@ -717,7 +717,7 @@
    Blasphemous Act deals 13 damage to each creature.
 
 
-:mtgtip:`Bloodcrazed Neonate<https://cards.scryfall.io/border_crop/front/6/8/68d2452e-309d-44ae-9360-9d6e22a15e2b.jpg?1562831527|https://scryfall.com/card/isd/131/bloodcrazed-neonate?utm_source=api>`
+:mtgtip:`Bloodcrazed Neonate<https://cards.scryfall.io/border_crop/front/6/8/68d2452e-309d-44ae-9360-9d6e22a15e2b.jpg?1677073525|https://scryfall.com/card/isd/131/bloodcrazed-neonate?utm_source=api>`
    Bloodcrazed Neonate attacks each combat if able.
 
    Whenever Bloodcrazed Neonate deals combat damage to a player, put a +1/+1 counter on it.
@@ -959,7 +959,7 @@
    |tap|: Add |mana_w|.
 
 
-:mtgtip:`Boneyard Wurm<https://cards.scryfall.io/border_crop/front/7/5/75f3d9eb-462c-41b5-ad1a-baab7dc5eac3.jpg?1562832292|https://scryfall.com/card/isd/171/boneyard-wurm?utm_source=api>`
+:mtgtip:`Boneyard Wurm<https://cards.scryfall.io/border_crop/front/7/5/75f3d9eb-462c-41b5-ad1a-baab7dc5eac3.jpg?1677073528|https://scryfall.com/card/isd/171/boneyard-wurm?utm_source=api>`
    Boneyard Wurm's power and toughness are each equal to the number of creature cards in your graveyard.
 
 

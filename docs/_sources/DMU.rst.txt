@@ -1035,7 +1035,7 @@
    Vigilance, trample
 
 
-:mtgtip:`Elvish Hydromancer<https://cards.scryfall.io/border_crop/front/9/0/90dc4122-4f7a-4d9f-8427-de36e3e8a913.jpg?1673307672|https://scryfall.com/card/dmu/162/elvish-hydromancer?utm_source=api>`
+:mtgtip:`Elvish Hydromancer<https://cards.scryfall.io/border_crop/front/9/0/90dc4122-4f7a-4d9f-8427-de36e3e8a913.jpg?1677542066|https://scryfall.com/card/dmu/162/elvish-hydromancer?utm_source=api>`
    Kicker |mana_3|\ |mana_u| (You may pay an additional |mana_3|\ |mana_u| as you cast this spell.)
 
    When Elvish Hydromancer enters the battlefield, if it was kicked, create a token that's a copy of target creature you control.
@@ -1497,7 +1497,7 @@
    |mana_x|, |tap|, Exile Karn's Sylex: Destroy each nonland permanent with mana value X or less. Activate only as a sorcery.
 
 
-:mtgtip:`Meteorite<https://cards.scryfall.io/border_crop/front/3/3/33eb2032-50af-4fd6-bdc7-7cae2211956c.jpg?1673308211|https://scryfall.com/card/dmu/235/meteorite?utm_source=api>`
+:mtgtip:`Meteorite<https://cards.scryfall.io/border_crop/front/3/3/33eb2032-50af-4fd6-bdc7-7cae2211956c.jpg?1677542216|https://scryfall.com/card/dmu/235/meteorite?utm_source=api>`
    When Meteorite enters the battlefield, it deals 2 damage to any target.
 
    |tap|: Add one mana of any color.
@@ -1583,7 +1583,7 @@
    Haunted Mire enters the battlefield tapped.
 
 
-:mtgtip:`Idyllic Beachfront<https://cards.scryfall.io/border_crop/front/c/5/c50ec22c-decb-419f-ae52-78ea1706eb11.jpg?1673308321|https://scryfall.com/card/dmu/249/idyllic-beachfront?utm_source=api>`
+:mtgtip:`Idyllic Beachfront<https://cards.scryfall.io/border_crop/front/c/5/c50ec22c-decb-419f-ae52-78ea1706eb11.jpg?1677292234|https://scryfall.com/card/dmu/249/idyllic-beachfront?utm_source=api>`
    (|tap|: Add |mana_w| or |mana_u|.)
 
    Idyllic Beachfront enters the battlefield tapped.

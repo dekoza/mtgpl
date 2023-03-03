@@ -2055,6 +2055,6 @@
    (|tap|: Add |mana_r|.)
 
 
-:mtgtip:`Forest<https://cards.scryfall.io/border_crop/front/e/4/e4c83b60-3d49-4fdc-a6b7-06d1a0c4a126.jpg?1643595289|https://scryfall.com/card/vow/276/forest?utm_source=api>`
+:mtgtip:`Forest<https://cards.scryfall.io/border_crop/front/e/4/e4c83b60-3d49-4fdc-a6b7-06d1a0c4a126.jpg?1677498062|https://scryfall.com/card/vow/276/forest?utm_source=api>`
    (|tap|: Add |mana_g|.)
 

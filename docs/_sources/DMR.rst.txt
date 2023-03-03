@@ -5,7 +5,7 @@
 ===================================
 
 
-:mtgtip:`Auramancer<https://cards.scryfall.io/border_crop/front/f/f/ffe359e9-2ac8-48ae-9a43-e2f12fd4a785.jpg?1675198755|https://scryfall.com/card/dmr/1/auramancer?utm_source=api>`
+:mtgtip:`Auramancer<https://cards.scryfall.io/border_crop/front/f/f/ffe359e9-2ac8-48ae-9a43-e2f12fd4a785.jpg?1677122964|https://scryfall.com/card/dmr/1/auramancer?utm_source=api>`
    When Auramancer enters the battlefield, you may return target enchantment card from your graveyard to your hand.
 
 
@@ -1131,85 +1131,85 @@
    Whenever Zur the Enchanter attacks, you may search your library for an enchantment card with mana value 3 or less, put it onto the battlefield, then shuffle.
 
 
-:mtgtip:`Stand<https://cards.scryfall.io/border_crop/front/6/c/6c9c00a1-8c24-4f35-aac9-00304687ee2b.jpg?1675200820|https://scryfall.com/card/dmr/207/stand-deliver?utm_source=api>`
+:mtgtip:`Stand<https://cards.scryfall.io/border_crop/front/6/c/6c9c00a1-8c24-4f35-aac9-00304687ee2b.jpg?1677123688|https://scryfall.com/card/dmr/207/stand-deliver?utm_source=api>`
    Prevent the next 2 damage that would be dealt to target creature this turn.
 
 
-:mtgtip:`Deliver<https://cards.scryfall.io/border_crop/front/6/c/6c9c00a1-8c24-4f35-aac9-00304687ee2b.jpg?1675200820|https://scryfall.com/card/dmr/207/stand-deliver?utm_source=api>`
+:mtgtip:`Deliver<https://cards.scryfall.io/border_crop/front/6/c/6c9c00a1-8c24-4f35-aac9-00304687ee2b.jpg?1677123688|https://scryfall.com/card/dmr/207/stand-deliver?utm_source=api>`
    Return target permanent to its owner's hand.
 
 
-:mtgtip:`Spite<https://cards.scryfall.io/border_crop/front/1/a/1a83658a-8820-4b71-838f-fe1c2ef822d0.jpg?1675200829|https://scryfall.com/card/dmr/208/spite-malice?utm_source=api>`
+:mtgtip:`Spite<https://cards.scryfall.io/border_crop/front/1/a/1a83658a-8820-4b71-838f-fe1c2ef822d0.jpg?1677123663|https://scryfall.com/card/dmr/208/spite-malice?utm_source=api>`
    Counter target noncreature spell.
 
 
-:mtgtip:`Malice<https://cards.scryfall.io/border_crop/front/1/a/1a83658a-8820-4b71-838f-fe1c2ef822d0.jpg?1675200829|https://scryfall.com/card/dmr/208/spite-malice?utm_source=api>`
+:mtgtip:`Malice<https://cards.scryfall.io/border_crop/front/1/a/1a83658a-8820-4b71-838f-fe1c2ef822d0.jpg?1677123663|https://scryfall.com/card/dmr/208/spite-malice?utm_source=api>`
    Destroy target nonblack creature. It can't be regenerated.
 
 
-:mtgtip:`Pain<https://cards.scryfall.io/border_crop/front/3/d/3d11164c-f27b-4cad-8620-d97ed384f0e6.jpg?1675200843|https://scryfall.com/card/dmr/209/pain-suffering?utm_source=api>`
+:mtgtip:`Pain<https://cards.scryfall.io/border_crop/front/3/d/3d11164c-f27b-4cad-8620-d97ed384f0e6.jpg?1677123641|https://scryfall.com/card/dmr/209/pain-suffering?utm_source=api>`
    Target player discards a card.
 
 
-:mtgtip:`Suffering<https://cards.scryfall.io/border_crop/front/3/d/3d11164c-f27b-4cad-8620-d97ed384f0e6.jpg?1675200843|https://scryfall.com/card/dmr/209/pain-suffering?utm_source=api>`
+:mtgtip:`Suffering<https://cards.scryfall.io/border_crop/front/3/d/3d11164c-f27b-4cad-8620-d97ed384f0e6.jpg?1677123641|https://scryfall.com/card/dmr/209/pain-suffering?utm_source=api>`
    Destroy target land.
 
 
-:mtgtip:`Assault<https://cards.scryfall.io/border_crop/front/9/b/9b2ca0a2-0a18-4d9e-b953-52018af3c65b.jpg?1675200852|https://scryfall.com/card/dmr/210/assault-battery?utm_source=api>`
+:mtgtip:`Assault<https://cards.scryfall.io/border_crop/front/9/b/9b2ca0a2-0a18-4d9e-b953-52018af3c65b.jpg?1677123652|https://scryfall.com/card/dmr/210/assault-battery?utm_source=api>`
    Assault deals 2 damage to any target.
 
 
-:mtgtip:`Battery<https://cards.scryfall.io/border_crop/front/9/b/9b2ca0a2-0a18-4d9e-b953-52018af3c65b.jpg?1675200852|https://scryfall.com/card/dmr/210/assault-battery?utm_source=api>`
+:mtgtip:`Battery<https://cards.scryfall.io/border_crop/front/9/b/9b2ca0a2-0a18-4d9e-b953-52018af3c65b.jpg?1677123652|https://scryfall.com/card/dmr/210/assault-battery?utm_source=api>`
    Create a 3/3 green Elephant creature token.
 
 
-:mtgtip:`Wax<https://cards.scryfall.io/border_crop/front/f/9/f93b22de-93f3-4f05-8960-fa6a539ea882.jpg?1675200860|https://scryfall.com/card/dmr/211/wax-wane?utm_source=api>`
+:mtgtip:`Wax<https://cards.scryfall.io/border_crop/front/f/9/f93b22de-93f3-4f05-8960-fa6a539ea882.jpg?1677123612|https://scryfall.com/card/dmr/211/wax-wane?utm_source=api>`
    Target creature gets +2/+2 until end of turn.
 
 
-:mtgtip:`Wane<https://cards.scryfall.io/border_crop/front/f/9/f93b22de-93f3-4f05-8960-fa6a539ea882.jpg?1675200860|https://scryfall.com/card/dmr/211/wax-wane?utm_source=api>`
+:mtgtip:`Wane<https://cards.scryfall.io/border_crop/front/f/9/f93b22de-93f3-4f05-8960-fa6a539ea882.jpg?1677123612|https://scryfall.com/card/dmr/211/wax-wane?utm_source=api>`
    Destroy target enchantment.
 
 
-:mtgtip:`Order<https://cards.scryfall.io/border_crop/front/8/e/8e4f2486-1a6f-414f-9122-134390fe3b0d.jpg?1675200870|https://scryfall.com/card/dmr/212/order-chaos?utm_source=api>`
+:mtgtip:`Order<https://cards.scryfall.io/border_crop/front/8/e/8e4f2486-1a6f-414f-9122-134390fe3b0d.jpg?1677123597|https://scryfall.com/card/dmr/212/order-chaos?utm_source=api>`
    Exile target attacking creature.
 
 
-:mtgtip:`Chaos<https://cards.scryfall.io/border_crop/front/8/e/8e4f2486-1a6f-414f-9122-134390fe3b0d.jpg?1675200870|https://scryfall.com/card/dmr/212/order-chaos?utm_source=api>`
+:mtgtip:`Chaos<https://cards.scryfall.io/border_crop/front/8/e/8e4f2486-1a6f-414f-9122-134390fe3b0d.jpg?1677123597|https://scryfall.com/card/dmr/212/order-chaos?utm_source=api>`
    Creatures can't block this turn.
 
 
-:mtgtip:`Illusion<https://cards.scryfall.io/border_crop/front/b/a/ba6ea373-65ea-45a8-8fed-31c482ba8387.jpg?1675200880|https://scryfall.com/card/dmr/213/illusion-reality?utm_source=api>`
+:mtgtip:`Illusion<https://cards.scryfall.io/border_crop/front/b/a/ba6ea373-65ea-45a8-8fed-31c482ba8387.jpg?1677123587|https://scryfall.com/card/dmr/213/illusion-reality?utm_source=api>`
    Target spell or permanent becomes the color of your choice until end of turn.
 
 
-:mtgtip:`Reality<https://cards.scryfall.io/border_crop/front/b/a/ba6ea373-65ea-45a8-8fed-31c482ba8387.jpg?1675200880|https://scryfall.com/card/dmr/213/illusion-reality?utm_source=api>`
+:mtgtip:`Reality<https://cards.scryfall.io/border_crop/front/b/a/ba6ea373-65ea-45a8-8fed-31c482ba8387.jpg?1677123587|https://scryfall.com/card/dmr/213/illusion-reality?utm_source=api>`
    Destroy target artifact.
 
 
-:mtgtip:`Night<https://cards.scryfall.io/border_crop/front/e/c/eccff9be-a18d-4fad-b23a-7f66ae9dbfed.jpg?1675200889|https://scryfall.com/card/dmr/214/night-day?utm_source=api>`
+:mtgtip:`Night<https://cards.scryfall.io/border_crop/front/e/c/eccff9be-a18d-4fad-b23a-7f66ae9dbfed.jpg?1677291178|https://scryfall.com/card/dmr/214/night-day?utm_source=api>`
    Target creature gets -1/-1 until end of turn.
 
 
-:mtgtip:`Day<https://cards.scryfall.io/border_crop/front/e/c/eccff9be-a18d-4fad-b23a-7f66ae9dbfed.jpg?1675200889|https://scryfall.com/card/dmr/214/night-day?utm_source=api>`
+:mtgtip:`Day<https://cards.scryfall.io/border_crop/front/e/c/eccff9be-a18d-4fad-b23a-7f66ae9dbfed.jpg?1677291178|https://scryfall.com/card/dmr/214/night-day?utm_source=api>`
    Creatures target player controls get +1/+1 until end of turn.
 
 
-:mtgtip:`Fire<https://cards.scryfall.io/border_crop/front/1/8/18303862-4726-4136-814f-157aa7006579.jpg?1675200901|https://scryfall.com/card/dmr/215/fire-ice?utm_source=api>`
+:mtgtip:`Fire<https://cards.scryfall.io/border_crop/front/1/8/18303862-4726-4136-814f-157aa7006579.jpg?1677286441|https://scryfall.com/card/dmr/215/fire-ice?utm_source=api>`
    Fire deals 2 damage divided as you choose among one or two targets.
 
 
-:mtgtip:`Ice<https://cards.scryfall.io/border_crop/front/1/8/18303862-4726-4136-814f-157aa7006579.jpg?1675200901|https://scryfall.com/card/dmr/215/fire-ice?utm_source=api>`
+:mtgtip:`Ice<https://cards.scryfall.io/border_crop/front/1/8/18303862-4726-4136-814f-157aa7006579.jpg?1677286441|https://scryfall.com/card/dmr/215/fire-ice?utm_source=api>`
    Tap target permanent.
 
    Draw a card.
 
 
-:mtgtip:`Life<https://cards.scryfall.io/border_crop/front/e/1/e16d52ca-f8de-4852-9bff-9d208e5f678f.jpg?1675200910|https://scryfall.com/card/dmr/216/life-death?utm_source=api>`
+:mtgtip:`Life<https://cards.scryfall.io/border_crop/front/e/1/e16d52ca-f8de-4852-9bff-9d208e5f678f.jpg?1677291168|https://scryfall.com/card/dmr/216/life-death?utm_source=api>`
    All lands you control become 1/1 creatures until end of turn. They're still lands.
 
 
-:mtgtip:`Death<https://cards.scryfall.io/border_crop/front/e/1/e16d52ca-f8de-4852-9bff-9d208e5f678f.jpg?1675200910|https://scryfall.com/card/dmr/216/life-death?utm_source=api>`
+:mtgtip:`Death<https://cards.scryfall.io/border_crop/front/e/1/e16d52ca-f8de-4852-9bff-9d208e5f678f.jpg?1677291168|https://scryfall.com/card/dmr/216/life-death?utm_source=api>`
    Return target creature card from your graveyard to the battlefield. You lose life equal to its mana value.
 
 

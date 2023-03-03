@@ -255,7 +255,7 @@
    Elder Spawn can't be blocked by red creatures.
 
 
-:mtgtip:`Enchantment Alteration<https://cards.scryfall.io/border_crop/front/b/f/bf52f8a0-d027-47f1-bb91-508ef1a74409.jpg?1562860868|https://scryfall.com/card/leg/53/enchantment-alteration?utm_source=api>`
+:mtgtip:`Enchantment Alteration<https://cards.scryfall.io/border_crop/front/b/f/bf52f8a0-d027-47f1-bb91-508ef1a74409.jpg?1677285293|https://scryfall.com/card/leg/53/enchantment-alteration?utm_source=api>`
    Attach target Aura attached to a creature or land to another permanent of that type.
 
 
@@ -301,7 +301,7 @@
    Whenever an opponent casts a creature spell that doesn't share a color with a creature you control, counter that spell unless that player pays |mana_x|, where X is its mana value.
 
 
-:mtgtip:`Juxtapose<https://cards.scryfall.io/border_crop/front/c/4/c48d78db-d982-4c28-9308-2d57dc2b947e.jpg?1562860874|https://scryfall.com/card/leg/63/juxtapose?utm_source=api>`
+:mtgtip:`Juxtapose<https://cards.scryfall.io/border_crop/front/c/4/c48d78db-d982-4c28-9308-2d57dc2b947e.jpg?1677278299|https://scryfall.com/card/leg/63/juxtapose?utm_source=api>`
    You and target player exchange control of the creature you each control with the highest mana value. Then exchange control of artifacts the same way. If two or more permanents a player controls are tied for highest, their controller chooses one of them.
 
 
@@ -347,7 +347,7 @@
    • Target player gains 1 life.
 
 
-:mtgtip:`Remove Soul<https://cards.scryfall.io/border_crop/front/6/3/63de147c-2e62-41b9-8ada-93406387f08b.jpg?1562859196|https://scryfall.com/card/leg/72/remove-soul?utm_source=api>`
+:mtgtip:`Remove Soul<https://cards.scryfall.io/border_crop/front/6/3/63de147c-2e62-41b9-8ada-93406387f08b.jpg?1677285291|https://scryfall.com/card/leg/72/remove-soul?utm_source=api>`
    Counter target creature spell.
 
 
@@ -595,7 +595,7 @@
    One or more target creatures become black until end of turn.
 
 
-:mtgtip:`Transmutation<https://cards.scryfall.io/border_crop/front/3/2/329f7eb2-eadf-46ec-aed4-63152051f3c1.jpg?1562858256|https://scryfall.com/card/leg/123/transmutation?utm_source=api>`
+:mtgtip:`Transmutation<https://cards.scryfall.io/border_crop/front/3/2/329f7eb2-eadf-46ec-aed4-63152051f3c1.jpg?1677285290|https://scryfall.com/card/leg/123/transmutation?utm_source=api>`
    Switch target creature's power and toughness until end of turn.
 
 
@@ -727,7 +727,7 @@
    Rampage 2 (Whenever this creature becomes blocked, it gets +2/+2 until end of turn for each creature blocking it beyond the first.)
 
 
-:mtgtip:`Giant Strength<https://cards.scryfall.io/border_crop/front/a/8/a86190bb-1f41-4128-b9fb-dfb1d178359d.jpg?1562860627|https://scryfall.com/card/leg/149/giant-strength?utm_source=api>`
+:mtgtip:`Giant Strength<https://cards.scryfall.io/border_crop/front/a/8/a86190bb-1f41-4128-b9fb-dfb1d178359d.jpg?1677285289|https://scryfall.com/card/leg/149/giant-strength?utm_source=api>`
    Enchant creature
 
    Enchanted creature gets +2/+2.
@@ -793,7 +793,7 @@
    |tap|: If target Plains is tapped for mana, it produces colorless mana instead of white mana. (This effect lasts indefinitely.)
 
 
-:mtgtip:`Raging Bull<https://cards.scryfall.io/border_crop/front/e/c/ec10a51c-d2c3-4d14-9a71-9e59155bf980.jpg?1587910608|https://scryfall.com/card/leg/163/raging-bull?utm_source=api>`
+:mtgtip:`Raging Bull<https://cards.scryfall.io/border_crop/front/e/c/ec10a51c-d2c3-4d14-9a71-9e59155bf980.jpg?1677285287|https://scryfall.com/card/leg/163/raging-bull?utm_source=api>`
    
 
 
@@ -829,7 +829,7 @@
    Defender (This creature can't attack.)
 
 
-:mtgtip:`Wall of Heat<https://cards.scryfall.io/border_crop/front/a/3/a38059a8-be69-4cc1-969b-951c610f2f11.jpg?1562860180|https://scryfall.com/card/leg/170/wall-of-heat?utm_source=api>`
+:mtgtip:`Wall of Heat<https://cards.scryfall.io/border_crop/front/a/3/a38059a8-be69-4cc1-969b-951c610f2f11.jpg?1677285286|https://scryfall.com/card/leg/170/wall-of-heat?utm_source=api>`
    Defender (This creature can't attack.)
 
 
