@@ -296,7 +296,7 @@
 
 .. |DMR_percent| image:: images/pie75.png        
 
-.. |MOM_percent| image:: images/pie95.png        
+.. |MOM_percent| image:: images/pie90.png        
 
 .. |WWK_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
