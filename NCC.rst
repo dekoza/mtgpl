@@ -1513,7 +1513,7 @@
    Whenever Thief of Sanity deals combat damage to a player, look at the top three cards of that player's library, exile one of them face down, then put the rest into their graveyard. You may look at and cast that card for as long as it remains exiled, and you may spend mana as though it were mana of any type to cast that spell.
 
 
-:mtgtip:`Urban Evolution<https://cards.scryfall.io/border_crop/front/8/5/85df7b1b-7cd6-499d-aa9d-5599a79a3512.jpg?1673485215|https://scryfall.com/card/ncc/355/urban-evolution?utm_source=api>`
+:mtgtip:`Urban Evolution<https://cards.scryfall.io/border_crop/front/8/5/85df7b1b-7cd6-499d-aa9d-5599a79a3512.jpg?1678029724|https://scryfall.com/card/ncc/355/urban-evolution?utm_source=api>`
    Draw three cards. You may play an additional land this turn.
 
 
