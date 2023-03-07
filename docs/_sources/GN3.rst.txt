@@ -377,7 +377,7 @@
    |mana_r|: Dragon Hatchling gets +1/+0 until end of turn.
 
 
-:mtgtip:`Dragon Mage<https://cards.scryfall.io/border_crop/front/4/a/4a062cb2-47a9-400d-bb8d-b2bee0ac6bf0.jpg?1673301855|https://scryfall.com/card/gn3/73/dragon-mage?utm_source=api>`
+:mtgtip:`Dragon Mage<https://cards.scryfall.io/border_crop/front/4/a/4a062cb2-47a9-400d-bb8d-b2bee0ac6bf0.jpg?1677991274|https://scryfall.com/card/gn3/73/dragon-mage?utm_source=api>`
    Flying
 
    Whenever Dragon Mage deals combat damage to a player, each player discards their hand, then draws seven cards.

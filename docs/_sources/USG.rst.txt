@@ -625,7 +625,7 @@
    When Dark Hatchling enters the battlefield, destroy target nonblack creature. It can't be regenerated.
 
 
-:mtgtip:`Dark Ritual<https://cards.scryfall.io/border_crop/front/3/f/3f0e9d0d-e1a3-4e0a-bf39-e9aaf4d36d67.jpg?1562908086|https://scryfall.com/card/usg/127/dark-ritual?utm_source=api>`
+:mtgtip:`Dark Ritual<https://cards.scryfall.io/border_crop/front/3/f/3f0e9d0d-e1a3-4e0a-bf39-e9aaf4d36d67.jpg?1677913385|https://scryfall.com/card/usg/127/dark-ritual?utm_source=api>`
    Add |mana_b|\ |mana_b|\ |mana_b|.
 
 

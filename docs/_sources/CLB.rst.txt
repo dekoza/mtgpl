@@ -307,7 +307,7 @@
    Commander creatures you own have "Whenever this creature attacks a player, if no opponent has more life than that player, for each opponent, create a 1/1 white Soldier creature token that's tapped and attacking that opponent."
 
 
-:mtgtip:`White Plume Adventurer<https://cards.scryfall.io/border_crop/front/b/2/b256ddc8-8b12-434c-a610-1a872e948f2f.jpg?1674135331|https://scryfall.com/card/clb/49/white-plume-adventurer?utm_source=api>`
+:mtgtip:`White Plume Adventurer<https://cards.scryfall.io/border_crop/front/b/2/b256ddc8-8b12-434c-a610-1a872e948f2f.jpg?1678110703|https://scryfall.com/card/clb/49/white-plume-adventurer?utm_source=api>`
    When White Plume Adventurer enters the battlefield, you take the initiative.
 
    At the beginning of each opponent's upkeep, untap a creature you control. If you've completed a dungeon, untap all creatures you control instead.

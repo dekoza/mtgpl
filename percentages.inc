@@ -387,7 +387,7 @@
 
 .. |KHC_percent| image:: images/pie85.png        
 
-.. |ONE_percent| image:: images/pie45.png        
+.. |ONE_percent| image:: images/pie50.png        
 
 .. |ONS_percent| image:: images/pie45.png        
 
