@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG po polsku 2022.12\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-03-02 12:41+0100\n"
-"PO-Revision-Date: 2023-03-03 08:34+0000\n"
+"PO-Revision-Date: 2023-03-07 12:17+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/one/pl/>\n"
 "Language: pl\n"
@@ -1229,13 +1229,13 @@ msgstr ""
 
 #: ../../ONE.rst:333
 msgid "Gitaxian Raptor enters the battlefield with three oil counters on it."
-msgstr ""
+msgstr "Ten byt wchodzi na pole bitwy mając trzy znaczniki oleju."
 
 #: ../../ONE.rst:335
 msgid ""
 "Remove an oil counter from Gitaxian Raptor: Gitaxian Raptor gets +1/-1 until "
 "end of turn."
-msgstr ""
+msgstr "Usuń znacznik oleju z tego bytu: Niniejszy do końca tury dostaje +1/-1."
 
 #: ../../ONE.rst:342
 msgid ""
@@ -1246,13 +1246,15 @@ msgstr ""
 
 #: ../../ONE.rst:339
 msgid "Glistener Seer enters the battlefield with three oil counters on it."
-msgstr ""
+msgstr "Ten byt wchodzi na pole bitwy mając trzy znaczniki oleju."
 
 #: ../../ONE.rst:341
 msgid ""
 "|tap|, Remove an oil counter from Glistener Seer: Scry 1. (Look at the top "
 "card of your library. You may put that card on the bottom.)"
 msgstr ""
+"|tap|, usuń znacznik oleju z tego bytu: Wróż 1. (Spójrz na wierzchnią kartę "
+"twojej biblioteki. Możesz umieścić ową kartę na jej spodzie.)"
 
 #: ../../ONE.rst:348
 msgid ""
@@ -1265,7 +1267,7 @@ msgstr ""
 msgid ""
 "Whenever you cast a noncreature spell, put an oil counter on Ichor "
 "Synthesizer."
-msgstr ""
+msgstr "Ilekroć rzucisz niestworowy czar, umieść znacznik oleju na tym bycie."
 
 #: ../../ONE.rst:347
 msgid ""
@@ -1613,6 +1615,8 @@ msgid ""
 "Whenever Transplant Theorist or another artifact enters the battlefield "
 "under your control, you may draw a card. If you do, discard a card."
 msgstr ""
+"Ilekroć ten byt lub inny artefakt wejdzie na pole bitwy pod twoim władaniem, "
+"możesz dobrać kartę. Jeśli tak zrobisz, odrzuć kartę."
 
 #: ../../ONE.rst:461
 msgid ""
@@ -1630,16 +1634,16 @@ msgstr ""
 
 #: ../../ONE.rst:467
 msgid "Trawler Drake enters the battlefield with an oil counter on it."
-msgstr ""
+msgstr "Ten byt wchodzi na pole bitwy mając znacznik oleju."
 
 #: ../../ONE.rst:469
 msgid "Trawler Drake gets +1/+1 for each oil counter on it."
-msgstr ""
+msgstr "Niniejszy dostaje +1/+1 za każdy znacznik oleju na nim."
 
 #: ../../ONE.rst:471
 msgid ""
 "Whenever you cast a noncreature spell, put an oil counter on Trawler Drake."
-msgstr ""
+msgstr "Ilekroć rzucisz niestworowy czar, umieść znacznik oleju na tym bycie."
 
 #: ../../ONE.rst:480
 msgid ""
@@ -1653,6 +1657,8 @@ msgid ""
 "Other blue creatures you control have \"Whenever this creature becomes "
 "tapped, draw a card, then discard a card.\""
 msgstr ""
+"Inne niebieskie stwory pod twoim władaniem mają \"Ilekroć ten stwór zostanie "
+"przekręcony, dobierz kartę, po czym odrzuć kartę.\""
 
 #: ../../ONE.rst:477
 msgid "Other artifact creatures you control get +1/+1."
@@ -1703,13 +1709,14 @@ msgstr ""
 
 #: ../../ONE.rst:495
 msgid "Watchful Blisterzoa enters the battlefield with an oil counter on it."
-msgstr ""
+msgstr "Ten byt wchodzi na pole bitwy mają znacznik oleju."
 
 #: ../../ONE.rst:497
 msgid ""
 "When Watchful Blisterzoa dies, draw cards equal to the number of oil "
 "counters on it."
 msgstr ""
+"Kiedy niniejszy umrze, dobierz tyle kart, ile miał na sobie znaczników oleju."
 
 #: ../../ONE.rst:502
 msgid ""
@@ -4999,6 +5006,7 @@ msgid ""
 "|mana_u|, Remove an oil counter from Serum Sovereign: Draw a card, then scry "
 "2."
 msgstr ""
+"|mana_u|, usuń znacznik oleju z tego bytu: Dobierz kartę, po czym wróż 2."
 
 #: ../../ONE.rst:1704
 msgid ""
