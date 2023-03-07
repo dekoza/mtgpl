@@ -1151,7 +1151,7 @@
    Put two +1/+1 counters on target creature you control. Other creatures you control get +1/+1 until end of turn.
 
 
-:mtgtip:`Expressive Iteration<https://cards.scryfall.io/border_crop/front/3/1/31b770cc-09e7-4c0b-b2a4-462ab4f7200d.jpg?1654630697|https://scryfall.com/card/stx/186/expressive-iteration?utm_source=api>`
+:mtgtip:`Expressive Iteration<https://cards.scryfall.io/border_crop/front/3/1/31b770cc-09e7-4c0b-b2a4-462ab4f7200d.jpg?1678110681|https://scryfall.com/card/stx/186/expressive-iteration?utm_source=api>`
    Look at the top three cards of your library. Put one of them into your hand, put one of them on the bottom of your library, and exile one of them. You may play the exiled card this turn.
 
 
