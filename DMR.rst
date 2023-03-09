@@ -425,8 +425,8 @@
    When Cackling Fiend enters the battlefield, each opponent discards a card.
 
 
-:mtgtip:`Chainer, Dementia Master<https://cards.scryfall.io/border_crop/front/c/2/c294695b-a096-441a-9034-91ca74763903.jpg?1675199545|https://scryfall.com/card/dmr/77/chainer-dementia-master?utm_source=api>`
-   Nightmare creatures get +1/+1.
+:mtgtip:`Chainer, Dementia Master<https://cards.scryfall.io/border_crop/front/c/2/c294695b-a096-441a-9034-91ca74763903.jpg?1678265461|https://scryfall.com/card/dmr/77/chainer-dementia-master?utm_source=api>`
+   All Nightmares get +1/+1.
 
    |mana_b|\ |mana_b|\ |mana_b|, Pay 3 life: Put target creature card from a graveyard onto the battlefield under your control. That creature is black and is a Nightmare in addition to its other creature types.
 

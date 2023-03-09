@@ -1,0 +1,301 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013-2022, Dominik Kozaczko
+# This file is distributed under the same license as the MTG po polsku package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MTG po polsku 2023.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-09 13:56+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../symbols.rst:3
+msgid "{C}"
+msgstr ""
+
+#: ../../symbols.rst:5
+msgid "{T}"
+msgstr ""
+
+#: ../../symbols.rst:7
+msgid "{Q}"
+msgstr ""
+
+#: ../../symbols.rst:9
+msgid "{U}"
+msgstr ""
+
+#: ../../symbols.rst:11
+msgid "{W}"
+msgstr ""
+
+#: ../../symbols.rst:13
+msgid "{B}"
+msgstr ""
+
+#: ../../symbols.rst:15
+msgid "{G}"
+msgstr ""
+
+#: ../../symbols.rst:17
+msgid "{R}"
+msgstr ""
+
+#: ../../symbols.rst:19
+msgid "{2/U}"
+msgstr ""
+
+#: ../../symbols.rst:21
+msgid "{2/W}"
+msgstr ""
+
+#: ../../symbols.rst:23
+msgid "{2/B}"
+msgstr ""
+
+#: ../../symbols.rst:25
+msgid "{2/G}"
+msgstr ""
+
+#: ../../symbols.rst:27
+msgid "{2/R}"
+msgstr ""
+
+#: ../../symbols.rst:29
+msgid "{U/P}"
+msgstr ""
+
+#: ../../symbols.rst:31
+msgid "{W/P}"
+msgstr ""
+
+#: ../../symbols.rst:33
+msgid "{B/P}"
+msgstr ""
+
+#: ../../symbols.rst:35
+msgid "{G/P}"
+msgstr ""
+
+#: ../../symbols.rst:37
+msgid "{R/P}"
+msgstr ""
+
+#: ../../symbols.rst:39
+msgid "{X}"
+msgstr ""
+
+#: ../../symbols.rst:41
+msgid "{P}"
+msgstr ""
+
+#: ../../symbols.rst:43
+msgid "{0}"
+msgstr ""
+
+#: ../../symbols.rst:45
+msgid "{1}"
+msgstr ""
+
+#: ../../symbols.rst:47
+msgid "{2}"
+msgstr ""
+
+#: ../../symbols.rst:49
+msgid "{3}"
+msgstr ""
+
+#: ../../symbols.rst:51
+msgid "{4}"
+msgstr ""
+
+#: ../../symbols.rst:53
+msgid "{5}"
+msgstr ""
+
+#: ../../symbols.rst:55
+msgid "{6}"
+msgstr ""
+
+#: ../../symbols.rst:57
+msgid "{7}"
+msgstr ""
+
+#: ../../symbols.rst:59
+msgid "{8}"
+msgstr ""
+
+#: ../../symbols.rst:61
+msgid "{9}"
+msgstr ""
+
+#: ../../symbols.rst:63
+msgid "{10}"
+msgstr ""
+
+#: ../../symbols.rst:65
+msgid "{11}"
+msgstr ""
+
+#: ../../symbols.rst:67
+msgid "{12}"
+msgstr ""
+
+#: ../../symbols.rst:69
+msgid "{13}"
+msgstr ""
+
+#: ../../symbols.rst:71
+msgid "{14}"
+msgstr ""
+
+#: ../../symbols.rst:73
+msgid "{15}"
+msgstr ""
+
+#: ../../symbols.rst:75
+msgid "{16}"
+msgstr ""
+
+#: ../../symbols.rst:77
+msgid "{20}"
+msgstr ""
+
+#: ../../symbols.rst:79
+msgid "{(r/g)}"
+msgstr ""
+
+#: ../../symbols.rst:81
+msgid "{(r/w)}"
+msgstr ""
+
+#: ../../symbols.rst:83
+msgid "{(u/b)}"
+msgstr ""
+
+#: ../../symbols.rst:85
+msgid "{(u/r)}"
+msgstr ""
+
+#: ../../symbols.rst:87
+msgid "{(w/b)}"
+msgstr ""
+
+#: ../../symbols.rst:89
+msgid "{(w/u)}"
+msgstr ""
+
+#: ../../symbols.rst:91
+msgid "{(b/g)}"
+msgstr ""
+
+#: ../../symbols.rst:93
+msgid "{(b/r)}"
+msgstr ""
+
+#: ../../symbols.rst:95
+msgid "{(g/w)}"
+msgstr ""
+
+#: ../../symbols.rst:97
+msgid "{(g/u)}"
+msgstr ""
+
+#: ../../symbols.rst:99
+msgid "{(g/u/p)}"
+msgstr ""
+
+#: ../../symbols.rst:101
+msgid "{(g/w/p)}"
+msgstr ""
+
+#: ../../symbols.rst:103
+msgid "{S}"
+msgstr ""
+
+#: ../../symbols.rst:105
+msgid "{E}"
+msgstr ""
+
+#: ../../symbols.rst:107
+msgid "{CHAOS}"
+msgstr ""
+
+#: ../../symbols.rst:109
+msgid "{PW}"
+msgstr ""
+
+#: ../../MOC.rst:5
+msgid ":mtgexp:`MOC` March of the Machine Commander"
+msgstr ""
+
+#: ../../MOC.rst:12
+msgid ":mtgtip:`Towashi<https://cards.scryfall.io/border_crop/front/6/d/6d37cf73-e128-4367-b030-313d987fda7a.jpg?1676822068|https://scryfall.com/card/moc/67/towashi?utm_source=api>`"
+msgstr ""
+
+#: ../../MOC.rst:9
+msgid "Modified creatures you control have trample and \"Whenever this creature deals combat damage to a player or planeswalker, draw a card.\" (Equipment, Auras you control,a nd counters are modifications.)"
+msgstr ""
+
+#: ../../MOC.rst:11
+msgid "Whenever Chaos ensues, distribute three +1/+1 counters among one, two, or three target creatures you control."
+msgstr ""
+
+#: ../../MOC.rst:18
+msgid ":mtgtip:`Isle of Vesuva<https://cards.scryfall.io/border_crop/front/5/f/5fa27faa-f72c-4925-8ad5-c984113245bf.jpg?1676822083|https://scryfall.com/card/moc/147/isle-of-vesuva?utm_source=api>`"
+msgstr ""
+
+#: ../../MOC.rst:15
+msgid "Whenever a nontoken creature enters the battlefield, its controller creates a token that's a copy of that creature."
+msgstr ""
+
+#: ../../MOC.rst:17
+msgid "Whenever you roll {CHAOS}, destroy target creature and all other creatures with the same name as that creature."
+msgstr ""
+
+#: ../../MOC.rst:22
+msgid ":mtgtip:`Spatial Merging<https://cards.scryfall.io/border_crop/front/a/c/ac3d5e6a-64e6-4888-915f-874109e7830a.jpg?1676822099|https://scryfall.com/card/moc/158/spatial-merging?utm_source=api>`"
+msgstr ""
+
+#: ../../MOC.rst:21
+msgid "When you encounter Spatial Merging, reveal cards from the top of your planar deck until you reveal two plane cards. Simultaneously planeswalk to both of them. Put all other cards revealed this way on the bottom of your planar deck in any order."
+msgstr ""
+
+#: ../../MOC.rst:28
+msgid ":mtgtip:`Goro-Goro and Satoru<https://cards.scryfall.io/border_crop/front/5/b/5b661b53-2e58-4dcc-9100-fc00e0fdb606.jpg?1676887784|https://scryfall.com/card/moc/445/goro-goro-and-satoru?utm_source=api>`"
+msgstr ""
+
+#: ../../MOC.rst:25
+msgid "Whenever one or more creatures you control that entered the battlefield this turn deal combat damage to a player, create a 5/5 red Dragon Spirit creature token with flying."
+msgstr ""
+
+#: ../../MOC.rst:27
+msgid "|mana_1|\\ |mana_r|: Creatures you control gain haste until end of turn."
+msgstr ""
+
+#: ../../MOC.rst:32
+msgid ":mtgtip:`Katilda and Lier<https://cards.scryfall.io/border_crop/front/3/a/3a30ee96-00a0-4da9-a2e3-f87dedf2698f.jpg?1676887779|https://scryfall.com/card/moc/446/katilda-and-lier?utm_source=api>`"
+msgstr ""
+
+#: ../../MOC.rst:31
+msgid "Whenever you cast a Human spell, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. (You may cast that card from your graveyard for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../MOC.rst:37
+msgid ":mtgtip:`Slimefoot and Squee<https://cards.scryfall.io/border_crop/front/9/e/9e449e38-6f03-4316-8ebc-d0faf79d6bc7.jpg?1676887790|https://scryfall.com/card/moc/447/slimefoot-and-squee?utm_source=api>`"
+msgstr ""
+
+#: ../../MOC.rst:35
+msgid "Whenever Slimefoot and Squee enters the battlefield or attacks, create a 1/1 green Saproling creature token."
+msgstr ""
+
+#: ../../MOC.rst:37
+msgid "|mana_1|\\ |mana_b|\\ |mana_r|\\ |mana_g|, Sacrifice a Saproling: Return Slimefoot and Squee and up to one other target creature card from your graveyard to the battlefield. Activate only as a sorcery."
+msgstr ""

@@ -1,0 +1,289 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013-2022, Dominik Kozaczko
+# This file is distributed under the same license as the MTG po polsku package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MTG po polsku 2023.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-09 13:56+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../symbols.rst:3
+msgid "{C}"
+msgstr ""
+
+#: ../../symbols.rst:5
+msgid "{T}"
+msgstr ""
+
+#: ../../symbols.rst:7
+msgid "{Q}"
+msgstr ""
+
+#: ../../symbols.rst:9
+msgid "{U}"
+msgstr ""
+
+#: ../../symbols.rst:11
+msgid "{W}"
+msgstr ""
+
+#: ../../symbols.rst:13
+msgid "{B}"
+msgstr ""
+
+#: ../../symbols.rst:15
+msgid "{G}"
+msgstr ""
+
+#: ../../symbols.rst:17
+msgid "{R}"
+msgstr ""
+
+#: ../../symbols.rst:19
+msgid "{2/U}"
+msgstr ""
+
+#: ../../symbols.rst:21
+msgid "{2/W}"
+msgstr ""
+
+#: ../../symbols.rst:23
+msgid "{2/B}"
+msgstr ""
+
+#: ../../symbols.rst:25
+msgid "{2/G}"
+msgstr ""
+
+#: ../../symbols.rst:27
+msgid "{2/R}"
+msgstr ""
+
+#: ../../symbols.rst:29
+msgid "{U/P}"
+msgstr ""
+
+#: ../../symbols.rst:31
+msgid "{W/P}"
+msgstr ""
+
+#: ../../symbols.rst:33
+msgid "{B/P}"
+msgstr ""
+
+#: ../../symbols.rst:35
+msgid "{G/P}"
+msgstr ""
+
+#: ../../symbols.rst:37
+msgid "{R/P}"
+msgstr ""
+
+#: ../../symbols.rst:39
+msgid "{X}"
+msgstr ""
+
+#: ../../symbols.rst:41
+msgid "{P}"
+msgstr ""
+
+#: ../../symbols.rst:43
+msgid "{0}"
+msgstr ""
+
+#: ../../symbols.rst:45
+msgid "{1}"
+msgstr ""
+
+#: ../../symbols.rst:47
+msgid "{2}"
+msgstr ""
+
+#: ../../symbols.rst:49
+msgid "{3}"
+msgstr ""
+
+#: ../../symbols.rst:51
+msgid "{4}"
+msgstr ""
+
+#: ../../symbols.rst:53
+msgid "{5}"
+msgstr ""
+
+#: ../../symbols.rst:55
+msgid "{6}"
+msgstr ""
+
+#: ../../symbols.rst:57
+msgid "{7}"
+msgstr ""
+
+#: ../../symbols.rst:59
+msgid "{8}"
+msgstr ""
+
+#: ../../symbols.rst:61
+msgid "{9}"
+msgstr ""
+
+#: ../../symbols.rst:63
+msgid "{10}"
+msgstr ""
+
+#: ../../symbols.rst:65
+msgid "{11}"
+msgstr ""
+
+#: ../../symbols.rst:67
+msgid "{12}"
+msgstr ""
+
+#: ../../symbols.rst:69
+msgid "{13}"
+msgstr ""
+
+#: ../../symbols.rst:71
+msgid "{14}"
+msgstr ""
+
+#: ../../symbols.rst:73
+msgid "{15}"
+msgstr ""
+
+#: ../../symbols.rst:75
+msgid "{16}"
+msgstr ""
+
+#: ../../symbols.rst:77
+msgid "{20}"
+msgstr ""
+
+#: ../../symbols.rst:79
+msgid "{(r/g)}"
+msgstr ""
+
+#: ../../symbols.rst:81
+msgid "{(r/w)}"
+msgstr ""
+
+#: ../../symbols.rst:83
+msgid "{(u/b)}"
+msgstr ""
+
+#: ../../symbols.rst:85
+msgid "{(u/r)}"
+msgstr ""
+
+#: ../../symbols.rst:87
+msgid "{(w/b)}"
+msgstr ""
+
+#: ../../symbols.rst:89
+msgid "{(w/u)}"
+msgstr ""
+
+#: ../../symbols.rst:91
+msgid "{(b/g)}"
+msgstr ""
+
+#: ../../symbols.rst:93
+msgid "{(b/r)}"
+msgstr ""
+
+#: ../../symbols.rst:95
+msgid "{(g/w)}"
+msgstr ""
+
+#: ../../symbols.rst:97
+msgid "{(g/u)}"
+msgstr ""
+
+#: ../../symbols.rst:99
+msgid "{(g/u/p)}"
+msgstr ""
+
+#: ../../symbols.rst:101
+msgid "{(g/w/p)}"
+msgstr ""
+
+#: ../../symbols.rst:103
+msgid "{S}"
+msgstr ""
+
+#: ../../symbols.rst:105
+msgid "{E}"
+msgstr ""
+
+#: ../../symbols.rst:107
+msgid "{CHAOS}"
+msgstr ""
+
+#: ../../symbols.rst:109
+msgid "{PW}"
+msgstr ""
+
+#: ../../SIR.rst:5
+msgid ":mtgexp:`SIR` Shadows Over Innistrad Remastered"
+msgstr ""
+
+#: ../../SIR.rst:14
+msgid ":mtgtip:`Relentless Dead<https://cards.scryfall.io/border_crop/front/8/8/88e969be-4a3c-422d-bcf7-a563848d8fe5.jpg?1677003003|https://scryfall.com/card/sir/ZRELENT/relentless-dead?utm_source=api>`"
+msgstr ""
+
+#: ../../SIR.rst:9
+msgid "Menace (This creature can't be blocked except by two or more creatures.)"
+msgstr ""
+
+#: ../../SIR.rst:11
+msgid "When Relentless Dead dies, you may pay |mana_b|. If you do, return it to its owner's hand."
+msgstr ""
+
+#: ../../SIR.rst:13
+msgid "When Relentless Dead dies, you may pay |mana_x|. If you do, return another target Zombie creature card with mana value X from your graveyard to the battlefield."
+msgstr ""
+
+#: ../../SIR.rst:20
+msgid ":mtgtip:`Sigarda's Aid<https://cards.scryfall.io/border_crop/front/8/3/83b07e61-e638-459e-8a51-d9d7ee3c578a.jpg?1677003056|https://scryfall.com/card/sir/ZSIGAID/sigardas-aid?utm_source=api>`"
+msgstr ""
+
+#: ../../SIR.rst:17
+msgid "You may cast Aura and Equipment spells as though they had flash."
+msgstr ""
+
+#: ../../SIR.rst:19
+msgid "Whenever an Equipment enters the battlefield under your control, you may attach it to target creature you control."
+msgstr ""
+
+#: ../../SIR.rst:28
+msgid ":mtgtip:`Thing in the Ice<https://cards.scryfall.io/border_crop/front/6/b/6be29d0a-2ad2-4e7f-afca-1a9c45fdee52.jpg?1677003031|https://scryfall.com/card/sir/ZTHING/thing-in-the-ice-awoken-horror?utm_source=api>`"
+msgstr ""
+
+#: ../../SIR.rst:23
+msgid "Defender"
+msgstr ""
+
+#: ../../SIR.rst:25
+msgid "Thing in the Ice enters the battlefield with four ice counters on it."
+msgstr ""
+
+#: ../../SIR.rst:27
+msgid "Whenever you cast an instant or sorcery spell, remove an ice counter from Thing in the Ice. Then if it has no ice counters on it, transform it."
+msgstr ""
+
+#: ../../SIR.rst:31
+msgid ":mtgtip:`Awoken Horror<https://cards.scryfall.io/border_crop/back/6/b/6be29d0a-2ad2-4e7f-afca-1a9c45fdee52.jpg?1677003031|https://scryfall.com/card/sir/ZTHING/thing-in-the-ice-awoken-horror?utm_source=api>`"
+msgstr ""
+
+#: ../../SIR.rst:31
+msgid "When this creature transforms into Awoken Horror, return all non-Horror creatures to their owners' hands."
+msgstr ""
