@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2022.9\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-02 12:41+0100\n"
+"POT-Creation-Date: 2023-03-09 13:56+0100\n"
 "PO-Revision-Date: 2023-03-03 08:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dmr/pl/>\n"
@@ -1450,13 +1450,15 @@ msgstr ""
 #: ../../DMR.rst:434
 msgid ""
 ":mtgtip:`Chainer, Dementia Master<https://cards.scryfall.io/border_crop/"
-"front/c/2/c294695b-a096-441a-9034-91ca74763903.jpg?1675199545|https://"
+"front/c/2/c294695b-a096-441a-9034-91ca74763903.jpg?1678265461|https://"
 "scryfall.com/card/dmr/77/chainer-dementia-master?utm_source=api>`"
 msgstr ""
 
 #: ../../DMR.rst:429
-msgid "Nightmare creatures get +1/+1."
-msgstr ""
+#, fuzzy
+#| msgid "White creatures get +1/+1."
+msgid "All Nightmares get +1/+1."
+msgstr "Białe stwory dostają +1/+1."
 
 #: ../../DMR.rst:431
 msgid ""
