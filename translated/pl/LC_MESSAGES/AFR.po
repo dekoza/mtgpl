@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-28 11:10+0200\n"
-"PO-Revision-Date: 2023-03-03 08:34+0000\n"
+"PO-Revision-Date: 2023-05-28 11:11+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/afr/pl/>\n"
 "Language: pl\n"
@@ -4933,14 +4933,8 @@ msgid ""
 msgstr ""
 
 #: ../../AFR.rst:1613
-#, fuzzy
-#| msgid ""
-#| "Whenever you attack, you may pay |mana_2|. If you do, target creature "
-#| "can't be blocked this turn."
 msgid "Whenever you attack, target creature can't be blocked this turn."
-msgstr ""
-"Ilekroć zaatakujesz, możesz zapłacić |mana_2|. Jeśli tak zrobisz, wskazany "
-"stwór nie może być blokowany w tej turze."
+msgstr "Ilekroć zaatakujesz, wskazany stwór nie może być blokowany w tej turze."
 
 #: ../../AFR.rst:1620
 msgid ""

@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG po polsku 2023.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-28 11:31+0200\n"
-"PO-Revision-Date: 2023-03-09 13:40+0000\n"
+"PO-Revision-Date: 2023-05-28 11:11+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mat/pl/>\n"
 "Language: pl\n"
@@ -283,7 +283,7 @@ msgstr ""
 
 #: ../../MAT.rst:21
 msgid "Vigilance"
-msgstr ""
+msgstr "Czujność"
 
 #: ../../MAT.rst:23
 msgid ""
@@ -300,11 +300,11 @@ msgstr ""
 
 #: ../../MAT.rst:27
 msgid "Flying, vigilance"
-msgstr ""
+msgstr "Latanie, czujność"
 
 #: ../../MAT.rst:29
 msgid "You have hexproof."
-msgstr ""
+msgstr "Masz antyklątwę."
 
 #: ../../MAT.rst:31
 msgid "Whenever Metropolis Reformer is dealt damage, you gain that much life."
@@ -393,6 +393,9 @@ msgid ""
 "activate. This effect can't reduce the mana in that cost to less than one "
 "mana."
 msgstr ""
+"Aktywowanie zdolności stworów pod twoim władaniem kosztuje o |mana_2| mniej. "
+"Ten efekt nie może zmniejszyć kosztu many w owym koszcie do mniej niż jednej "
+"many."
 
 #: ../../MAT.rst:66
 msgid ""
@@ -403,11 +406,12 @@ msgstr ""
 
 #: ../../MAT.rst:61 ../../MAT.rst:277
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 #: ../../MAT.rst:63 ../../MAT.rst:281
 msgid "You may look at the top card of your library any time."
 msgstr ""
+"Możesz patrzeć na wierzchnią kartę twojej biblioteki w dowolnym momencie."
 
 #: ../../MAT.rst:65
 msgid ""
@@ -425,7 +429,7 @@ msgstr ""
 
 #: ../../MAT.rst:69
 msgid "Menace"
-msgstr ""
+msgstr "Złowrogość"
 
 #: ../../MAT.rst:71
 msgid ""
@@ -457,7 +461,7 @@ msgstr ""
 
 #: ../../MAT.rst:79
 msgid "Flash"
-msgstr ""
+msgstr "Błysk"
 
 #: ../../MAT.rst:81
 msgid ""
@@ -483,14 +487,17 @@ msgid ""
 "while casting this spell pays for |mana_1| or one mana of that creature's "
 "color.)"
 msgstr ""
+"Współpraca (Twoje stwory mogą pomóc rzucić ten czar. Każdy stwór, którego "
+"przekręcisz podczas rzucania tego czaru płaci za |mana_1| lub jedną manę w "
+"swoim kolorze.)"
 
 #: ../../MAT.rst:89
 msgid "Lifelink"
-msgstr ""
+msgstr "Więź życia"
 
 #: ../../MAT.rst:91
 msgid "Other Vampires you control get +1/+1."
-msgstr ""
+msgstr "Inne Wampiry pod twoim władaniem dostają +1/+1."
 
 #: ../../MAT.rst:93
 msgid ""
@@ -498,6 +505,9 @@ msgid ""
 "exile. When you do, cast it for its madness cost or put it into your "
 "graveyard.)"
 msgstr ""
+"Szaleństwo |mana_2|\\ |mana_b| (Odrzucając tę kartę odrzuć ją na wygnanie. "
+"Jeśli tak zrobisz, rzuć ją za jej koszt szaleństwa albo umieść ją w twoim "
+"cmentarzu.)"
 
 #: ../../MAT.rst:100
 msgid ""
@@ -543,7 +553,7 @@ msgstr ""
 
 #: ../../MAT.rst:107
 msgid "Haste"
-msgstr ""
+msgstr "Pośpiech"
 
 #: ../../MAT.rst:109
 msgid ""
@@ -667,15 +677,15 @@ msgstr ""
 
 #: ../../MAT.rst:145
 msgid "Destroy target artifact or enchantment."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub urok."
 
 #: ../../MAT.rst:147
 msgid "Exile target player's graveyard."
-msgstr ""
+msgstr "Wygnaj cmentarz wskazanego gracza."
 
 #: ../../MAT.rst:149
 msgid "You gain 4 life."
-msgstr ""
+msgstr "Zyskaj 4 życia."
 
 #: ../../MAT.rst:154
 msgid ""
@@ -742,7 +752,7 @@ msgstr ""
 
 #: ../../MAT.rst:169
 msgid "You gain 3 life."
-msgstr ""
+msgstr "Zyskaj 3 życia."
 
 #: ../../MAT.rst:176
 msgid ""
@@ -753,7 +763,7 @@ msgstr ""
 
 #: ../../MAT.rst:173
 msgid "Vigilance, trample, lifelink"
-msgstr ""
+msgstr "Czujność, tratowanie, więź życia"
 
 #: ../../MAT.rst:175
 msgid ""
@@ -784,7 +794,7 @@ msgstr ""
 
 #: ../../MAT.rst:183
 msgid "Flying, lifelink"
-msgstr ""
+msgstr "Latanie, więź życia"
 
 #: ../../MAT.rst:185
 msgid ""
@@ -974,7 +984,7 @@ msgstr ""
 
 #: ../../MAT.rst:243
 msgid "Flying, trample"
-msgstr ""
+msgstr "Latanie, tratowanie"
 
 #: ../../MAT.rst:245
 msgid ""
@@ -1061,7 +1071,7 @@ msgstr ""
 
 #: ../../MAT.rst:271
 msgid "Dragon spells you cast cost |mana_1| less to cast."
-msgstr ""
+msgstr "Rzucanie czarów Smoków kosztuje cię o |mana_1| mniej."
 
 #: ../../MAT.rst:273
 msgid ""
@@ -1079,7 +1089,7 @@ msgstr ""
 
 #: ../../MAT.rst:279
 msgid "Other permanents you control have hexproof."
-msgstr ""
+msgstr "Inne byty pod twoim władaniem mają antyklątwę."
 
 #: ../../MAT.rst:283
 msgid ""
@@ -1135,7 +1145,7 @@ msgstr ""
 
 #: ../../MAT.rst:299
 msgid "|tap|: Add |colorless|."
-msgstr ""
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../MAT.rst:301
 msgid ""

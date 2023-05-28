@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG po polsku 2022.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-28 11:10+0200\n"
-"PO-Revision-Date: 2023-03-03 08:34+0000\n"
+"PO-Revision-Date: 2023-05-28 11:11+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/j22/pl/>\n"
 "Language: pl\n"
@@ -305,19 +305,14 @@ msgstr ""
 "władaniem przeciwnika do czasu opuszczenia pola bitwy przez niniejszy."
 
 #: ../../J22.rst:25
-#, fuzzy
-#| msgid ""
-#| "Enchanted creature has ward |mana_2|. (Whenever this creature becomes the "
-#| "target of a spell or ability an opponent controls, counter it unless that "
-#| "player pays |mana_2|.)"
 msgid ""
 "Enchanted creature has ward |mana_2|. (Whenever it becomes the target of a "
 "spell or ability an opponent controls, counter it unless that player pays |"
 "mana_2|.)"
 msgstr ""
-"Zauroczony stwór ma straż |mana_2|. (Ilekroć ten stwór zostanie wskazany "
-"przez czar lub zdolność pod władaniem przeciwnika, skontruj to, chyba że ów "
-"gracz zapłaci |mana_2|.)"
+"Zauroczony stwór ma straż |mana_2|. (Ilekroć zostanie on wskazany przez czar "
+"lub zdolność pod władaniem przeciwnika, skontruj to, chyba że ów gracz "
+"zapłaci |mana_2|.)"
 
 #: ../../J22.rst:32
 msgid ""
@@ -806,12 +801,6 @@ msgstr ""
 "Ilekroć zyskasz życia, niniejszy do końca tury zyskuje niezniszczalność."
 
 #: ../../J22.rst:161
-#, fuzzy
-#| msgid ""
-#| "At the beginning of your end step, you may pay |mana_1|\\ |mana_wb|. When "
-#| "you do, return target creature with mana value X or less from your "
-#| "graveyard to the battlefield, where X is the amount of life you gained "
-#| "this turn."
 msgid ""
 "At the beginning of your end step, you may pay |mana_1|\\ |mana_wb|. When "
 "you do, return target creature card with mana value X or less from your "
@@ -1001,11 +990,6 @@ msgid ""
 msgstr ""
 
 #: ../../J22.rst:205
-#, fuzzy
-#| msgid ""
-#| "At the beginning of your combat on your turn, create a 1/1 red Pirate "
-#| "creature token with menace and haste. Exile it at the beginning of the "
-#| "next end step."
 msgid ""
 "At the beginning of combat on your turn, create a 1/1 red Pirate creature "
 "token with menace and haste. Exile it at the beginning of the next end step."
@@ -2117,7 +2101,7 @@ msgstr ""
 
 #: ../../J22.rst:559
 msgid "Coldsteel Heart enters the battlefield tapped."
-msgstr "Ten byt wchodzi przekręcony na pole bitwy."
+msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
 
 #: ../../J22.rst:561
 msgid "As Coldsteel Heart enters the battlefield, choose a color."
@@ -5487,8 +5471,9 @@ msgid ""
 "20/20 black Avatar creature token with flying and indestructible."
 msgstr ""
 "Na początku twojego kroku utrzymania, jeśli władasz co najmniej dziesięcioma "
-"śnieżnymi bytami, poświęć ten urok. Jeśli tak zrobisz, stwórz żeton czarnego "
-"legendarnego stwora Awatar 20/20 z lataniem i niezniszczalnością."
+"śnieżnymi bytami, poświęć ten urok. Jeśli tak zrobisz, stwórz legendarny "
+"żeton czarnego stwora Awatar 20/20 z lataniem i niezniszczalnością o nazwie "
+"Marit Lage."
 
 #: ../../J22.rst:1726
 msgid ""

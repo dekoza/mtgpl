@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.11\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-28 11:10+0200\n"
-"PO-Revision-Date: 2023-03-03 08:34+0000\n"
+"PO-Revision-Date: 2023-05-28 11:11+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/neo/pl/>\n"
 "Language: pl\n"
@@ -1735,19 +1735,13 @@ msgid ""
 msgstr ""
 
 #: ../../NEO.rst:509
-#, fuzzy
-#| msgid ""
-#| "Whenever Moon-Circuit Hacker deals combat damage to a player, you may "
-#| "draw a card. If you do, discard a card unless Moon-Circuit Hacker entered "
-#| "the battlefield this turn."
 msgid ""
 "Whenever Moon-Circuit Hacker deals combat damage to a player, scry 2, then "
 "draw a card. Discard a card unless Moon-Circuit Hacker entered the "
 "battlefield this turn."
 msgstr ""
-"Ilekroć ten stwór zada graczowi obrażenia bojowe, możesz dobrać kartę. Jeśli "
-"tak zrobisz, odrzuć kartę, chyba że ten stwór wszedł na pole bitwy w tej "
-"turze."
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, wróż 2, po czym dobierz "
+"kartę. Odrzuć kartę, chyba że ten stwór wszedł na pole bitwy w tej turze."
 
 #: ../../NEO.rst:516
 msgid ""
@@ -2326,19 +2320,14 @@ msgid ""
 msgstr ""
 
 #: ../../NEO.rst:707
-#, fuzzy
-#| msgid ""
-#| "Whenever Dokuchi Silencer deals combat damage to a player, you may "
-#| "discard a creature card. When you do, destroy target creature or "
-#| "planeswalker that player controls."
 msgid ""
 "Whenever Dokuchi Silencer deals combat damage to a player, you may discard a "
 "card. When you do, destroy target creature or planeswalker that player "
 "controls."
 msgstr ""
-"Ilekroć ten stwór zada graczowi obrażenia bojowe, możesz odrzucić kartę "
-"stwora. Kiedy tak zrobisz, zniszcz wskazanego stwora lub wędrowca pod "
-"władaniem owego gracza."
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, możesz odrzucić kartę. "
+"Kiedy tak zrobisz, zniszcz wskazanego stwora lub wędrowca pod władaniem "
+"owego gracza."
 
 #: ../../NEO.rst:716
 msgid ""
@@ -2721,17 +2710,12 @@ msgid ""
 msgstr ""
 
 #: ../../NEO.rst:845
-#, fuzzy
-#| msgid ""
-#| "Ninjutsu |mana_2|\\ |mana_u| (|mana_2|\\ |mana_u|, Return an unblocked "
-#| "attacker you control to hand: Put this card onto the battlefield from "
-#| "your hand tapped and attacking.)"
 msgid ""
 "Ninjutsu |mana_2|\\ |mana_b| (|mana_2|\\ |mana_b|, Return an unblocked "
 "attacker you control to hand: Put this card onto the battlefield from your "
 "hand tapped and attacking.)"
 msgstr ""
-"Ninjutsu |mana_2|\\ |mana_u| (|mana_2|\\ |mana_u|, przywróć niezablokowanego "
+"Ninjutsu |mana_2|\\ |mana_b| (|mana_2|\\ |mana_b|, przywróć niezablokowanego "
 "atakującego pod twoim władaniem do ręki: Umieść tę kartę na polu bitwy z "
 "twojej ręki przekręconą i atakującą.)"
 
@@ -2777,16 +2761,12 @@ msgid ""
 msgstr ""
 
 #: ../../NEO.rst:865
-#, fuzzy
-#| msgid ""
-#| "When Jukai Preserver enters the battlefield, put a +1/+1 counter on "
-#| "target creature you control."
 msgid ""
 "When Nezumi Prowler enters the battlefield, put a deathtouch counter and a "
 "lifelink counter on target creature you control."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy, umieść znacznik +1/+1 na wskazanym "
-"stworze pod twoim władaniem."
+"Kiedy ten byt wejdzie na pole bitwy, umieść znacznik dotyku śmierci oraz "
+"znacznik więzi życia na wskazanym stworze pod twoim władaniem."
 
 #: ../../NEO.rst:874
 msgid ""
@@ -5317,14 +5297,10 @@ msgid ""
 msgstr ""
 
 #: ../../NEO.rst:1711
-#, fuzzy
-#| msgid ""
-#| "Each creature card in your hand has ninjutsu |mana_2|\\ |mana_u|\\ |"
-#| "mana_b|."
 msgid ""
 "Each creature card in your hand has ninjutsu |mana_1|\\ |mana_u|\\ |mana_b|."
 msgstr ""
-"Każda karta stwora w twojej ręce ma ninjutsu |mana_2|\\ |mana_u|\\ |mana_b|."
+"Każda karta stwora w twojej ręce ma ninjutsu |mana_1|\\ |mana_u|\\ |mana_b|."
 
 #: ../../NEO.rst:1722
 msgid ""
@@ -5389,19 +5365,14 @@ msgid ""
 msgstr ""
 
 #: ../../NEO.rst:1733
-#, fuzzy
-#| msgid ""
-#| "Ninjutsu |mana_u| (|mana_u|, Return an unblocked attacker you control to "
-#| "hand: Put this card onto the battlefield from your hand tapped and "
-#| "attacking.)"
 msgid ""
 "Ninjutsu |mana_ub| (|mana_ub|, Return an unblocked attacker you control to "
 "hand: Put this card onto the battlefield from your hand tapped and "
 "attacking.)"
 msgstr ""
-"Ninjutsu |mana_u| (|mana_u|, przywróć niezablokowanego atakującego pod twoim "
-"władaniem do ręki: Umieść tę kartę z twojej ręki na polu bitwy przekręconą i "
-"atakującą.)"
+"Ninjutsu |mana_ub| (|mana_ub|, przywróć niezablokowanego atakującego pod "
+"twoim władaniem do ręki: Umieść tę kartę z twojej ręki na polu bitwy "
+"przekręconą i atakującą.)"
 
 #: ../../NEO.rst:1742
 msgid ""
@@ -5533,10 +5504,8 @@ msgid ""
 msgstr ""
 
 #: ../../NEO.rst:1777
-#, fuzzy
-#| msgid "When Circuit Mender enters the battlefield, you gain 2 life."
 msgid "When Circuit Mender enters the battlefield, you gain 3 life."
-msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 2 życia."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zyskaj 3 życia."
 
 #: ../../NEO.rst:1784
 msgid ""

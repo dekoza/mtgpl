@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG po polsku 2023.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-28 11:31+0200\n"
-"PO-Revision-Date: 2023-03-09 13:40+0000\n"
+"PO-Revision-Date: 2023-05-28 11:11+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/sir/pl/>\n"
 "Language: pl\n"
@@ -250,11 +250,15 @@ msgid ""
 "Emerge |mana_6|\\ |mana_b| (You may cast this spell by sacrificing a "
 "creature and paying the emerge cost reduced by that creature's mana value.)"
 msgstr ""
+"Wyłonienie |mana_6|\\ |mana_b| (Możesz rzucić ten czar poświęcając stwora i "
+"opłacając koszt wyłonienia pomniejszony o skrót many owego stwora.)"
 
 #: ../../SIR.rst:11
 msgid ""
 "When you cast this spell, target opponent loses 3 life and you gain 3 life."
 msgstr ""
+"Kiedy rzucisz ten czar, wskazany przeciwnik traci 3 życia, a ty zyskaj 3 "
+"życia."
 
 #: ../../SIR.rst:20
 msgid ""
@@ -269,16 +273,21 @@ msgid ""
 "sacrificing a creature and paying the emerge cost reduced by that creature's "
 "mana value.)"
 msgstr ""
+"Wyłonienie |mana_6|\\ |mana_g|\\ |mana_g|\\ |mana_g| (Możesz rzucić ten czar "
+"poświęcając stwora i opłacając koszt wyłonienia pomniejszony o skrót many "
+"owego stwora.)"
 
 #: ../../SIR.rst:17
 msgid ""
 "When you cast this spell, creatures you control get +2/+2 and gain trample "
 "until end of turn."
 msgstr ""
+"Kiedy rzucisz ten czar, stwory pod twoim władaniem dostają do końca tury +2/+"
+"2 i tratowanie."
 
 #: ../../SIR.rst:19 ../../SIR.rst:1051
 msgid "Trample, haste"
-msgstr ""
+msgstr "Tratowanie, pośpiech"
 
 #: ../../SIR.rst:26
 msgid ""
@@ -293,6 +302,9 @@ msgid ""
 "sacrificing a creature and paying the emerge cost reduced by that creature's "
 "mana value.)"
 msgstr ""
+"Wyłonienie |mana_5|\\ |mana_b|\\ |mana_b| (Możesz rzucić ten czar "
+"poświęcając stwora i opłacając koszt wyłonienia pomniejszony o skrót many "
+"owego stwora.)"
 
 #: ../../SIR.rst:25
 msgid ""
@@ -300,6 +312,9 @@ msgid ""
 "from it a nonland card with mana value 3 or less and a card with mana value "
 "4 or greater. That player discards those cards."
 msgstr ""
+"Kiedy rzucisz ten czar, wskazany przeciwnik ujawnia swoją rękę. Wybierz z "
+"niej nie-lądową kartę nie o skrócie many 3 lub mniejszym oraz kartę o "
+"skrócie many 4 lub większym. Ów gracz odrzuca owe karty."
 
 #: ../../SIR.rst:34
 msgid ""
@@ -311,19 +326,21 @@ msgstr ""
 #: ../../SIR.rst:29 ../../SIR.rst:193 ../../SIR.rst:537 ../../SIR.rst:1283
 #: ../../SIR.rst:1319 ../../SIR.rst:1379
 msgid "Flash (You may cast this spell any time you could cast an instant.)"
-msgstr ""
+msgstr "Błysk (Możesz rzucić ten czar jako sztuczkę.)"
 
 #: ../../SIR.rst:31
 msgid ""
 "Emerge |mana_7|\\ |mana_u| (You may cast this spell by sacrificing a "
 "creature and paying the emerge cost reduced by that creature's mana value.)"
 msgstr ""
+"Wyłonienie |mana_7|\\ |mana_u| (Możesz rzucić ten czar poświęcając stwora i "
+"opłacając koszt wyłonienia pomniejszony o skrót many owego stwora.)"
 
 #: ../../SIR.rst:33
 msgid ""
 "Drownyard Behemoth has hexproof as long as it entered the battlefield this "
 "turn."
-msgstr ""
+msgstr "Ten stwór ma antyklątwę o ile wszedł na pole bitwy w tej turze."
 
 #: ../../SIR.rst:42
 msgid ""
@@ -335,7 +352,7 @@ msgstr ""
 #: ../../SIR.rst:37 ../../SIR.rst:89 ../../SIR.rst:559 ../../SIR.rst:573
 #: ../../SIR.rst:593 ../../SIR.rst:1369 ../../SIR.rst:1499 ../../SIR.rst:1557
 msgid "Flash"
-msgstr ""
+msgstr "Błysk"
 
 #: ../../SIR.rst:39
 msgid ""
@@ -343,10 +360,13 @@ msgid ""
 "sacrificing a creature and paying the emerge cost reduced by that creature's "
 "mana value.)"
 msgstr ""
+"Wyłonienie |mana_5|\\ |mana_u|\\ |mana_u| (Możesz rzucić ten czar "
+"poświęcając stwora i opłacając koszt wyłonienia pomniejszony o skrót many "
+"owego stwora.)"
 
 #: ../../SIR.rst:41
 msgid "When you cast this spell, tap up to four target permanents."
-msgstr ""
+msgstr "Kiedy rzucisz ten czar, przekręć co najwyżej cztery wskazane byty."
 
 #: ../../SIR.rst:50
 msgid ""
@@ -360,16 +380,20 @@ msgid ""
 "This spell costs |mana_1| less to cast for each card type among cards in "
 "your graveyard."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_1| mniej za każdy typ karty spośród "
+"kart w twoim cmentarzu."
 
 #: ../../SIR.rst:47
 msgid ""
 "When you cast this spell, you gain control of target opponent during that "
 "player's next turn. After that turn, that player takes an extra turn."
 msgstr ""
+"Kiedy rzucisz ten czar, zyskaj władanie nad wskazanym przeciwnikiem w czasie "
+"najbliższej tury owego gracza. Po owej turze ów grasz bierze dodatkową turę."
 
 #: ../../SIR.rst:49
 msgid "Flying, trample, protection from instants"
-msgstr ""
+msgstr "Latanie, tratowanie, ochrona przed sztuczkami"
 
 #: ../../SIR.rst:56
 msgid ""
@@ -380,13 +404,15 @@ msgstr ""
 
 #: ../../SIR.rst:53
 msgid "You may cast Eternal Scourge from exile."
-msgstr ""
+msgstr "Możesz rzucić tę kartę z wygnania."
 
 #: ../../SIR.rst:55
 msgid ""
 "When Eternal Scourge becomes the target of a spell or ability an opponent "
 "controls, exile Eternal Scourge."
 msgstr ""
+"Kiedy ten stwór zostanie wskazany przez czar lub zdolność pod władaniem "
+"przeciwnika, wygnaj tego stwora."
 
 #: ../../SIR.rst:62
 msgid ""
@@ -400,11 +426,13 @@ msgid ""
 "Emerge |mana_7|\\ |mana_g| (You may cast this spell by sacrificing a "
 "creature and paying the emerge cost reduced by that creature's mana value.)"
 msgstr ""
+"Wyłonienie |mana_7|\\ |mana_g| (Możesz rzucić ten czar poświęcając stwora i "
+"opłacając koszt wyłonienia pomniejszony o skrót many owego stwora.)"
 
 #: ../../SIR.rst:61
 msgid ""
 "When you cast this spell, you may destroy target artifact or enchantment."
-msgstr ""
+msgstr "Kiedy rzucisz ten czar, możesz zniszczyć wskazany artefakt lub urok."
 
 #: ../../SIR.rst:70
 msgid ""
@@ -418,10 +446,12 @@ msgid ""
 "Emerge |mana_5|\\ |mana_u| (You may cast this spell by sacrificing a "
 "creature and paying the emerge cost reduced by that creature's mana value.)"
 msgstr ""
+"Wyłonienie |mana_5|\\ |mana_u| (Możesz rzucić ten czar poświęcając stwora i "
+"opłacając koszt wyłonienia pomniejszony o skrót many owego stwora.)"
 
 #: ../../SIR.rst:67
 msgid "When you cast this spell, draw a card."
-msgstr ""
+msgstr "Kiedy rzucisz ten czar, dobierz kartę."
 
 #: ../../SIR.rst:69 ../../SIR.rst:83 ../../SIR.rst:99 ../../SIR.rst:149
 #: ../../SIR.rst:175 ../../SIR.rst:281 ../../SIR.rst:287 ../../SIR.rst:303
@@ -432,7 +462,7 @@ msgstr ""
 #: ../../SIR.rst:895 ../../SIR.rst:999 ../../SIR.rst:1097 ../../SIR.rst:1507
 #: ../../SIR.rst:1527 ../../SIR.rst:1541 ../../SIR.rst:1559
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 #: ../../SIR.rst:74
 msgid ""
@@ -443,7 +473,7 @@ msgstr ""
 
 #: ../../SIR.rst:73
 msgid "Nontoken creatures you control get +1/+1 and have vigilance."
-msgstr ""
+msgstr "Nieżetonowe stwory pod twoim władaniem dostają +1/+1 i mają czujność."
 
 #: ../../SIR.rst:80
 msgid ""
@@ -454,11 +484,11 @@ msgstr ""
 
 #: ../../SIR.rst:77
 msgid "As an additional cost to cast this spell, sacrifice a permanent."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć byt."
 
 #: ../../SIR.rst:79
 msgid "Exile target artifact, creature, or enchantment."
-msgstr ""
+msgstr "Wygnaj wskazany artefakt, stwora lub urok."
 
 #: ../../SIR.rst:86
 msgid ""
@@ -468,13 +498,12 @@ msgid ""
 msgstr ""
 
 #: ../../SIR.rst:85
-#, fuzzy
-#| msgid ""
-#| "Thing in the Ice enters the battlefield with four ice counters on it."
 msgid ""
 "When Apothecary Geist enters the battlefield, if you control another Spirit, "
 "you gain 3 life."
-msgstr "Ten stwór wchodzi na pole bitwy mając cztery znaczniki lodu."
+msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, jeśli władasz innym Duchem, zyskaj 3 "
+"życia."
 
 #: ../../SIR.rst:96
 msgid ""
@@ -486,19 +515,23 @@ msgstr ""
 
 #: ../../SIR.rst:91 ../../SIR.rst:137
 msgid "Flying, vigilance"
-msgstr ""
+msgstr "Latanie, czujność"
 
 #: ../../SIR.rst:93
 msgid ""
 "When Archangel Avacyn enters the battlefield, creatures you control gain "
 "indestructible until end of turn."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, stwory pod twoim władaniem zyskują "
+"niezniszczalność do końca tury."
 
 #: ../../SIR.rst:95
 msgid ""
 "When a non-Angel creature you control dies, transform Archangel Avacyn at "
 "the beginning of the next upkeep."
 msgstr ""
+"Kiedy umrze nie będący Aniołem stwór pod twoim władaniem, transformuj "
+"niniejszego stwora na początku najbliższego kroku utrzymania."
 
 #: ../../SIR.rst:102
 msgid ""
@@ -509,16 +542,12 @@ msgid ""
 msgstr ""
 
 #: ../../SIR.rst:101
-#, fuzzy
-#| msgid ""
-#| "When this creature transforms into Awoken Horror, return all non-Horror "
-#| "creatures to their owners' hands."
 msgid ""
 "When this creature transforms into Avacyn, the Purifier, it deals 3 damage "
 "to each other creature and each opponent."
 msgstr ""
-"Kiedy ten stwór transformuje w tę formę, przywróć wszystkie stwory bez typu "
-"Horror do rąk ich właścicieli."
+"Kiedy ten stwór transformuje w tę formę, zadaje on każdemu innemu stworowi i "
+"każdemu przeciwnikowi po 3 obrażenia."
 
 #: ../../SIR.rst:114
 msgid ""
@@ -530,23 +559,23 @@ msgstr ""
 #: ../../SIR.rst:105 ../../SIR.rst:659
 msgid ""
 "Escalate |mana_2| (Pay this cost for each mode chosen beyond the first.)"
-msgstr ""
+msgstr "Eskalacja |mana_2| (Opłać ten koszt za każdy dodatkowo wybrany tryb.)"
 
 #: ../../SIR.rst:107 ../../SIR.rst:157 ../../SIR.rst:679 ../../SIR.rst:955
 msgid "Choose one or more —"
-msgstr ""
+msgstr "Wybierz jedną lub więcej —"
 
 #: ../../SIR.rst:109
 msgid "Target player gains 4 life."
-msgstr ""
+msgstr "Wskazany gracz zyskuje 4 życia."
 
 #: ../../SIR.rst:111
 msgid "Untap up to two target creatures."
-msgstr ""
+msgstr "Odkręć co najwyżej dwa wskazane stwory."
 
 #: ../../SIR.rst:113
 msgid "Target opponent sacrifices an attacking creature."
-msgstr ""
+msgstr "Wskazany przeciwnik poświęca atakującego stwora."
 
 #: ../../SIR.rst:124
 msgid ""
@@ -560,18 +589,20 @@ msgid ""
 "Escalate |mana_1|\\ |mana_w| (Pay this cost for each mode chosen beyond the "
 "first.)"
 msgstr ""
+"Eskalacja |mana_1|\\ |mana_w| (Opłać ten koszt za każdy dodatkowo wybrany "
+"tryb.)"
 
 #: ../../SIR.rst:119 ../../SIR.rst:661 ../../SIR.rst:941
 msgid "Choose one or both —"
-msgstr ""
+msgstr "Wybierz jedną lub obie —"
 
 #: ../../SIR.rst:121
 msgid "Creatures you control get +2/+0 until end of turn."
-msgstr ""
+msgstr "Stwory pod twoim władaniem dostają do końca tury +2/+0."
 
 #: ../../SIR.rst:123
 msgid "Creatures you control get +0/+2 until end of turn."
-msgstr ""
+msgstr "Stwory pod twoim władaniem dostają do końca tury +0/+2."
 
 #: ../../SIR.rst:132
 msgid ""
@@ -583,17 +614,19 @@ msgstr ""
 #: ../../SIR.rst:127 ../../SIR.rst:221 ../../SIR.rst:233 ../../SIR.rst:261
 #: ../../SIR.rst:575 ../../SIR.rst:699 ../../SIR.rst:1443
 msgid "Enchant creature"
-msgstr ""
+msgstr "Zaurocz stwora"
 
 #: ../../SIR.rst:129
 msgid "Enchanted creature can't attack, block, or transform."
-msgstr ""
+msgstr "Zauroczony stwór nie może atakować, blokować ani transformować."
 
 #: ../../SIR.rst:131
 msgid ""
 "Sacrifice another permanent: Attach Bound by Moonsilver to target creature. "
 "Activate only as a sorcery and only once each turn."
 msgstr ""
+"Poświęć inny byt: Dołącz ten urok do wskazanego stwora. Aktywuj tylko jako "
+"obrzęd i co najwyżej raz na turę."
 
 #: ../../SIR.rst:140
 msgid ""
@@ -603,21 +636,16 @@ msgid ""
 msgstr ""
 
 #: ../../SIR.rst:135
-#, fuzzy
-#| msgid ""
-#| "When Relentless Dead dies, you may pay |mana_x|. If you do, return "
-#| "another target Zombie creature card with mana value X from your graveyard "
-#| "to the battlefield."
 msgid ""
 "When you cast this spell, you may return target Angel or Human creature card "
 "from your graveyard to the battlefield."
 msgstr ""
-"Kiedy ten stwór umrze, możesz zapłacić |mana_x|. Jeśli tak zrobisz, przywróć "
-"inną wskazaną kartę Zombi o skrócie many X z twojego cmentarza na pole bitwy."
+"Kiedy rzucisz ten czar, możesz przywrócić wskazaną kartę Anioła lub "
+"Człowieka z twojego cmentarza na pole bitwy."
 
 #: ../../SIR.rst:139
 msgid "(Melds with Gisela, the Broken Blade.)"
-msgstr ""
+msgstr "(Łączy się z Gisela, the Broken Blade.)"
 
 #: ../../SIR.rst:146
 msgid ""
@@ -628,11 +656,12 @@ msgstr ""
 
 #: ../../SIR.rst:143
 msgid "Flying, first strike, vigilance, lifelink"
-msgstr ""
+msgstr "Latanie, pierwszy cios, czujność, więź życia"
 
 #: ../../SIR.rst:145
 msgid "Your opponents can't cast spells with mana value 3 or less."
 msgstr ""
+"Twoi przeciwnicy nie mogą rzucać czarów o skrótach many 3 lub mniejszych."
 
 #: ../../SIR.rst:152
 msgid ""
@@ -647,6 +676,9 @@ msgid ""
 "(Create a Clue token. It's an artifact with \"|mana_2|, Sacrifice this "
 "artifact: Draw a card.\")"
 msgstr ""
+"Ilekroć rzucisz czar stwora o skrócie many 3 lub mniejszym, dociekaj. ("
+"Stwórz żeton Wskazówki. To artefakt mający \"|mana_2|, poświęć ten artefakt: "
+"Dobierz kartę.\")"
 
 #: ../../SIR.rst:164
 msgid ""
@@ -660,18 +692,21 @@ msgid ""
 "Escalate—Tap an untapped creature you control. (Pay this cost for each mode "
 "chosen beyond the first.)"
 msgstr ""
+"Eskalacja—Przekręć odkręconego stwora pod twoim władaniem. (Opłać ten koszt "
+"za każdy dodatkowo wybrany tryb.)"
 
 #: ../../SIR.rst:159 ../../SIR.rst:241
 msgid "Destroy target creature with power 4 or greater."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora o sile 4 lub większej."
 
 #: ../../SIR.rst:161
 msgid "Destroy target enchantment."
-msgstr ""
+msgstr "Zniszcz wskazany urok."
 
 #: ../../SIR.rst:163
 msgid "Put a +1/+1 counter on each creature target player controls."
 msgstr ""
+"Umieść znacznik +1/+1 na każdym stworze pod władaniem wskazanego gracza."
 
 #: ../../SIR.rst:168
 msgid ""
@@ -686,6 +721,10 @@ msgid ""
 "of your library. You may reveal a Human card from among them and put it into "
 "your hand. Put the rest on the bottom of your library in any order."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, spójrz na cztery wierzchnie karty "
+"twojej biblioteki. Możesz ujawnić spośród nich kartę Człowieka i umieścić ją "
+"w twojej ręce. Umieść pozostałe na spodzie twojej biblioteki w dowolnej "
+"kolejności."
 
 #: ../../SIR.rst:172
 msgid ""
@@ -699,6 +738,8 @@ msgid ""
 "|mana_1|\\ |mana_w|, Exile Dauntless Cathar from your graveyard: Create a "
 "1/1 white Spirit creature token with flying. Activate only as a sorcery."
 msgstr ""
+"|mana_1|\\ |mana_w|, wygnaj tę kartę z twojego cmentarza: Stwórz żeton "
+"białego stwora Duch 1/1 z lataniem. Aktywuj tylko jako obrzęd."
 
 #: ../../SIR.rst:176
 msgid ""
@@ -720,6 +761,9 @@ msgid ""
 "the same name as that creature. That player investigates for each nontoken "
 "creature exiled this way."
 msgstr ""
+"Wygnaj wskazanego stwora i wszystkie inne stwory pod władaniem jego władcy o "
+"takiej samej nazwie jak ów stwór. Ów gracz docieka za każdego nieżetonowego "
+"stwora wygnanego w ten sposób."
 
 #: ../../SIR.rst:186
 msgid ""
@@ -730,13 +774,15 @@ msgstr ""
 
 #: ../../SIR.rst:183
 msgid "Exile all creatures."
-msgstr ""
+msgstr "Wygnaj wszystkie stwory."
 
 #: ../../SIR.rst:185
 msgid ""
 "Delirium — Create a 4/4 white Angel creature token with flying if there are "
 "four or more card types among cards in your graveyard."
 msgstr ""
+"Delirium — Stwórz żeton białego stwora Anioł 4/4 z lataniem jeżeli w twoim "
+"cmentarzu są karty należące do przynajmniej czterech typów kart."
 
 #: ../../SIR.rst:188
 msgid ""
@@ -757,6 +803,8 @@ msgid ""
 "When Drogskol Shieldmate enters the battlefield, other creatures you control "
 "get +0/+1 until end of turn."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, inne stwory pod twoim władaniem dostają "
+"do końca tury +0/+1."
 
 #: ../../SIR.rst:204
 msgid ""
@@ -767,17 +815,19 @@ msgstr ""
 
 #: ../../SIR.rst:199
 msgid "Enchant creature you control"
-msgstr ""
+msgstr "Zaurocz stwora pod twoim władaniem"
 
 #: ../../SIR.rst:201
 msgid ""
 "When Faith Unbroken enters the battlefield, exile target creature an "
 "opponent controls until Faith Unbroken leaves the battlefield."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, wygnaj wskazanego stwora pod władaniem "
+"przeciwnika dopóki niniejszy urok nie opuści pola bitwy."
 
 #: ../../SIR.rst:203 ../../SIR.rst:1447
 msgid "Enchanted creature gets +2/+2."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +2/+2."
 
 #: ../../SIR.rst:208
 msgid ""
@@ -791,6 +841,8 @@ msgid ""
 "Lifelink (Damage dealt by this creature also causes you to gain that much "
 "life.)"
 msgstr ""
+"Więź życia (Obrażania zadane przez tego stwora powodują, że zyskujesz tyle "
+"samo żyć.)"
 
 #: ../../SIR.rst:212
 msgid ""
@@ -803,6 +855,8 @@ msgstr ""
 msgid ""
 "Whenever Fiend Binder attacks, tap target creature defending player controls."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, przekręć wskazanego stwora pod władaniem "
+"broniącego się gracza."
 
 #: ../../SIR.rst:218
 msgid ""
@@ -813,7 +867,7 @@ msgstr ""
 
 #: ../../SIR.rst:215
 msgid "Flying, first strike, lifelink"
-msgstr ""
+msgstr "Latanie, pierwszy cios, więź życia"
 
 #: ../../SIR.rst:217
 msgid ""
@@ -821,6 +875,9 @@ msgid ""
 "Broken Blade and a creature named Bruna, the Fading Light, exile them, then "
 "meld them into Brisela, Voice of Nightmares."
 msgstr ""
+"Na początku twojego kroku końcowego, jeśli jednocześnie masz w posiadaniu i "
+"władaniu tego stwora oraz stwora o nazwie Bruna, the Fading Light, wygnaj "
+"je, po czym połącz je tworząc Brisela, Voice of Nightmares."
 
 #: ../../SIR.rst:226
 msgid ""
@@ -831,13 +888,15 @@ msgstr ""
 
 #: ../../SIR.rst:223
 msgid "Enchanted creature gets +1/+0 and has flying."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +1/+0 i ma latanie."
 
 #: ../../SIR.rst:225
 msgid ""
 "|mana_3|\\ |mana_w|: Return Gryff's Boon from your graveyard to the "
 "battlefield attached to target creature. Activate only as a sorcery."
 msgstr ""
+"|mana_3|\\ |mana_w|: Przywróć tę kartę z twojego cmentarza na pole bitwy "
+"dołączoną do wskazanego stwora. Aktywuj tylko jako obrzęd."
 
 #: ../../SIR.rst:230
 msgid ""
@@ -851,6 +910,8 @@ msgid ""
 "When Guardian of Pilgrims enters the battlefield, target creature gets +1/+1 "
 "until end of turn."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór do końca tury dostaje +1/"
+"+1."
 
 #: ../../SIR.rst:238
 msgid ""
@@ -861,11 +922,11 @@ msgstr ""
 
 #: ../../SIR.rst:235
 msgid "Enchanted creature gets +1/+1 for each creature you control."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +1/+1 za każdego stwora pod twoim władaniem."
 
 #: ../../SIR.rst:237
 msgid "As long as enchanted creature is a Human, it has first strike."
-msgstr ""
+msgstr "O ile zauroczony stwór jest Człowiekiem, ma pierwszy cios."
 
 #: ../../SIR.rst:244
 msgid ""
@@ -879,6 +940,8 @@ msgid ""
 "Investigate. (Create a Clue token. It's an artifact with \"|mana_2|, "
 "Sacrifice this artifact: Draw a card.\")"
 msgstr ""
+"Dociekaj. (Stwórz żeton Wskazówki. To artefakt mający \"|mana_2|, poświęć "
+"ten artefakt: Dobierz kartę.\")"
 
 #: ../../SIR.rst:248
 msgid ""
@@ -892,6 +955,8 @@ msgid ""
 "When Ironclad Slayer enters the battlefield, you may return target Aura or "
 "Equipment card from your graveyard to your hand."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, możesz przywrócić wskazaną kartę Aury "
+"lub Wyposażenia z twojego cmentarza do twojej ręki."
 
 #: ../../SIR.rst:254
 msgid ""
@@ -902,13 +967,15 @@ msgstr ""
 
 #: ../../SIR.rst:251
 msgid "First strike, lifelink"
-msgstr ""
+msgstr "Pierwszy cios, więź życia"
 
 #: ../../SIR.rst:253
 msgid ""
 "At the beginning of the end step, if you gained 3 or more life this turn, "
 "transform Lone Rider."
 msgstr ""
+"Na początku kroku końcowego, jeśli zyskałeś co najmniej 3 życia w tej turze, "
+"transformuj tego stwora."
 
 #: ../../SIR.rst:258
 msgid ""
@@ -919,7 +986,7 @@ msgstr ""
 
 #: ../../SIR.rst:257
 msgid "First strike, trample, lifelink"
-msgstr ""
+msgstr "Pierwszy cios, tratowanie, więź życia"
 
 #: ../../SIR.rst:264
 msgid ""
@@ -933,6 +1000,8 @@ msgid ""
 "Enchanted creature gets +2/+2 and has \"|mana_1|, Sacrifice a permanent: "
 "This creature gains flying until end of turn.\""
 msgstr ""
+"Zauroczony stwór dostaje +2/+2 i ma '|mana_1|, poświęć byt: Ten stwór do "
+"końca tury zyskuje latanie.\""
 
 #: ../../SIR.rst:270
 msgid ""
@@ -943,13 +1012,15 @@ msgstr ""
 
 #: ../../SIR.rst:267 ../../SIR.rst:771 ../../SIR.rst:1501
 msgid "Lifelink"
-msgstr ""
+msgstr "Więź życia"
 
 #: ../../SIR.rst:269
 msgid ""
 "|mana_2|\\ |mana_w|, Exile Nearheath Chaplain from your graveyard: Create "
 "two 1/1 white Spirit creature tokens with flying. Activate only as a sorcery."
 msgstr ""
+"|mana_2|\\ |mana_w|, wygnaj tę kartę z twojego cmentarza: Stwórz dwa żetony "
+"białego stwora Duch 1/1 z lataniem. Aktywuj tylko jako obrzęd."
 
 #: ../../SIR.rst:274
 msgid ""
@@ -965,6 +1036,11 @@ msgid ""
 "true for flying, deathtouch, double strike, haste, hexproof, indestructible, "
 "lifelink, menace, reach, skulk, trample, and vigilance."
 msgstr ""
+"Na początku każdej potyczki, stwory pod twoim władaniem zyskują pierwszy "
+"cios jeśli stwór pod twoim władaniem ma pierwszy cios. To samo jest prawdą "
+"dla latania, dotyku śmierci, podwójnego ciosu, pośpiechu, antyklątwy "
+"niezniszczalności, więzi życia, złowrogości, zasięgu, przyczajenia, "
+"tratowania i czujności."
 
 #: ../../SIR.rst:278
 msgid ""
@@ -976,6 +1052,7 @@ msgstr ""
 #: ../../SIR.rst:277
 msgid "Destroy target attacking or blocking creature with power 3 or less."
 msgstr ""
+"Zniszcz wskazanego atakującego lub blokującego stwora o sile 3 lub mniejszej."
 
 #: ../../SIR.rst:284
 msgid ""
@@ -990,6 +1067,9 @@ msgid ""
 "+1 until end of turn. Activate only if there are four or more card types "
 "among cards in your graveyard."
 msgstr ""
+"Delirium — Poświęć innego stwora: Ten stwór do końca tury dostaje +2/+1. "
+"Możesz aktywować tylko jeżeli w twoim cmentarzu są karty należące do "
+"przynajmniej czterech typów kart."
 
 #: ../../SIR.rst:290
 msgid ""
@@ -1003,6 +1083,8 @@ msgid ""
 "Sacrifice Selfless Spirit: Creatures you control gain indestructible until "
 "end of turn."
 msgstr ""
+"Poświęć tego stwora: Stwory pod twoim władaniem zyskują niezniszczalność do "
+"końca tury."
 
 #: ../../SIR.rst:296
 msgid ""
@@ -1032,7 +1114,7 @@ msgstr ""
 
 #: ../../SIR.rst:299
 msgid "|mana_1|, |tap|: Tap target non-Human creature."
-msgstr ""
+msgstr "|mana_1|, |tap|: Przekręć wskazanego stwora bez typu Człowiek."
 
 #: ../../SIR.rst:306
 msgid ""
@@ -1045,6 +1127,8 @@ msgstr ""
 msgid ""
 "|mana_1|\\ |mana_u|: Return target Spirit you control to its owner's hand."
 msgstr ""
+"|mana_1|\\ |mana_u|: Przywróć wskazanego Ducha pod twoim władaniem do ręki "
+"właściciela."
 
 #: ../../SIR.rst:310
 msgid ""
@@ -1055,7 +1139,7 @@ msgstr ""
 
 #: ../../SIR.rst:309
 msgid "Whenever Steadfast Cathar attacks, it gets +0/+2 until end of turn."
-msgstr ""
+msgstr "Ilekroć ten stwór zaatakuje, do końca tury dostaje +0/+2."
 
 #: ../../SIR.rst:314
 msgid ""
@@ -1069,6 +1153,8 @@ msgid ""
 "Target creature gets +2/+2 until end of turn. If you control an Equipment, "
 "create a 1/1 white Human Soldier creature token."
 msgstr ""
+"Wskazany stwór do końca tury dostaje +2/+2. Jeśli władasz Wyposażeniem, "
+"stwórz żeton białego stwora Człowiek Piechur 1/1."
 
 #: ../../SIR.rst:320
 msgid ""
@@ -1082,6 +1168,8 @@ msgid ""
 "When Subjugator Angel enters the battlefield, tap all creatures your "
 "opponents control."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, przekręć wszystkie stwory pod władaniem "
+"twoich przeciwników."
 
 #: ../../SIR.rst:326
 msgid ""
@@ -1092,13 +1180,15 @@ msgstr ""
 
 #: ../../SIR.rst:323 ../../SIR.rst:329 ../../SIR.rst:1123
 msgid "First strike"
-msgstr ""
+msgstr "Pierwszy cios"
 
 #: ../../SIR.rst:325
 msgid ""
 "Creatures and nonbasic lands your opponents control enter the battlefield "
 "tapped."
 msgstr ""
+"Stwory i niebazowe lądy pod władaniem twoich przeciwników wchodzą "
+"przekręcone na pole bitwy."
 
 #: ../../SIR.rst:332
 msgid ""
@@ -1112,6 +1202,8 @@ msgid ""
 "When Thalia's Lancers enters the battlefield, you may search your library "
 "for a legendary card, reveal it, put it into your hand, then shuffle."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"legendarną kartę, ujawnij ją, umieść w twojej ręce, po czym przetasuj."
 
 #: ../../SIR.rst:336
 msgid ""
@@ -1126,6 +1218,8 @@ msgid ""
 "token. It's an artifact with \"|mana_2|, Sacrifice this artifact: Draw a "
 "card.\")"
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, dociekaj. (Stwórz żeton Wskazówki. To "
+"artefakt mający \"|mana_2|, poświęć ten artefakt: Dobierz kartę.\")"
 
 #: ../../SIR.rst:344
 msgid ""
@@ -1135,16 +1229,12 @@ msgid ""
 msgstr ""
 
 #: ../../SIR.rst:341
-#, fuzzy
-#| msgid ""
-#| "Whenever an Equipment enters the battlefield under your control, you may "
-#| "attach it to target creature you control."
 msgid ""
 "When Topplegeist enters the battlefield, tap target creature an opponent "
 "controls."
 msgstr ""
-"Ilekroć Wyposażenie wejdzie na pole bitwy pod twoim władaniem, możesz "
-"dołączyć je do wskazanego stwora pod twoim władaniem."
+"Kiedy ten byt wejdzie na pole bitwy, przekręć wskazanego stwora pod "
+"władaniem przeciwnika."
 
 #: ../../SIR.rst:343
 msgid ""
@@ -1152,6 +1242,9 @@ msgid ""
 "more card types among cards in your graveyard, tap target creature that "
 "player controls."
 msgstr ""
+"Delirium — Na początku kroku utrzymania każdego przeciwnika, jeżeli w twoim "
+"cmentarzu są karty należące do co najmniej czterech typów kart, przekręć "
+"wskazanego stwora pod władaniem owego gracza."
 
 #: ../../SIR.rst:348
 msgid ""
@@ -1164,6 +1257,8 @@ msgstr ""
 msgid ""
 "|tap|, Tap an untapped creature you control: Transform Town Gossipmonger."
 msgstr ""
+"|tap|, przekręć odkręconego stwora pod twoim władaniem: Transformuj tego "
+"stwora."
 
 #: ../../SIR.rst:354
 msgid ""
@@ -1174,11 +1269,11 @@ msgstr ""
 
 #: ../../SIR.rst:351
 msgid "Incited Rabble attacks each combat if able."
-msgstr ""
+msgstr "Ten stwór atakuje w każdej potyczce, jeśli może."
 
 #: ../../SIR.rst:353
 msgid "|mana_2|: Incited Rabble gets +1/+0 until end of turn."
-msgstr ""
+msgstr "|mana_2|: Ten stwór do końca tury dostaje +1/+0."
 
 #: ../../SIR.rst:360
 msgid ""
@@ -1192,6 +1287,8 @@ msgid ""
 "|mana_2|\\ |mana_u|, Discard two cards: Return Advanced Stitchwing from your "
 "graveyard to the battlefield tapped."
 msgstr ""
+"|mana_2|\\ |mana_u|, odrzuć dwie karty: Przywróć tę kartę z twojego "
+"cmentarza przekręconą na pole bitwy."
 
 #: ../../SIR.rst:364
 msgid ""
@@ -1205,6 +1302,8 @@ msgid ""
 "Return target nonland permanent to its owner's hand. Then that player "
 "discards a card if you control a Zombie."
 msgstr ""
+"Przywróć wskazany nie-lądowy byt do ręki właściciela. Następnie ów gracz "
+"odrzuca kartę jeśli władasz Zombi."
 
 #: ../../SIR.rst:370
 msgid ""
@@ -1215,13 +1314,15 @@ msgstr ""
 
 #: ../../SIR.rst:367
 msgid "Counter target spell."
-msgstr ""
+msgstr "Skontruj wskazany czar."
 
 #: ../../SIR.rst:369
 msgid ""
 "Investigate three times. (To investigate, create a Clue token. It's an "
 "artifact with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
+"Dociekaj trzykrotnie. (By dociekać, stwórz żeton Wskazówki. To artefakt "
+"mający \"|mana_2|, poświęć ten artefakt: Dobierz kartę.\")"
 
 #: ../../SIR.rst:374
 msgid ""
@@ -1232,7 +1333,7 @@ msgstr ""
 
 #: ../../SIR.rst:373
 msgid "Counter target spell unless its controller pays |mana_4|."
-msgstr ""
+msgstr "Skontruj wskazany czar, chyba że jego władca zapłaci |mana_4|."
 
 #: ../../SIR.rst:380
 msgid ""
@@ -1246,12 +1347,16 @@ msgid ""
 "|tap|: Add |colorless|. Spend this mana only to cast an instant or sorcery "
 "spell."
 msgstr ""
+"|tap|: Weź |colorless|. Wydaj tę manę tylko na rzucenie czaru sztuczki lub "
+"obrzędu."
 
 #: ../../SIR.rst:379
 msgid ""
 "At the beginning of your upkeep, if there are three or more instant and/or "
 "sorcery cards in your graveyard, transform Curious Homunculus."
 msgstr ""
+"Na początku twojego kroku utrzymania, jeśli w twoim cmentarzu są co najmniej "
+"trzy karty sztuczki i/lub obrzędu, transformuj tego stwora."
 
 #: ../../SIR.rst:386
 msgid ""
@@ -1265,10 +1370,12 @@ msgid ""
 "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 "
 "until end of turn.)"
 msgstr ""
+"Waleczność (Ilekroć rzucisz nie-stworowy czar, ten stwór do końca tury "
+"dostaje +1/+1.)"
 
 #: ../../SIR.rst:385
 msgid "Instant and sorcery spells you cast cost |mana_1| less to cast."
-msgstr ""
+msgstr "Rzucanie czarów sztuczek i obrzędów kosztuje cię o |mana_1| mniej."
 
 #: ../../SIR.rst:390
 msgid ""
@@ -1279,7 +1386,7 @@ msgstr ""
 
 #: ../../SIR.rst:389
 msgid "When you sacrifice a Clue, transform Daring Sleuth."
-msgstr ""
+msgstr "Kiedy poświęcisz Wskazówkę, transformuj tego stwora."
 
 #: ../../SIR.rst:396
 msgid ""
@@ -1295,6 +1402,9 @@ msgid ""
 "investigate. (Create a Clue token. It's an artifact with \"|mana_2|, "
 "Sacrifice this artifact: Draw a card.\")"
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, dociekaj. (Stwórz żeton "
+"Wskazówki. To artefakt mający \"|mana_2|, poświęć ten artefakt: Dobierz "
+"kartę.\")"
 
 #: ../../SIR.rst:400
 msgid ""
@@ -1308,6 +1418,8 @@ msgid ""
 "Counter target creature spell. If that spell is countered this way, exile it "
 "instead of putting it into its owner's graveyard."
 msgstr ""
+"Skontruj wskazany czar stwora. Jeśli ów czar jest skontrowany w ten sposób, "
+"wygnaj go zamiast umieszczać go w cmentarzu właściciela."
 
 #: ../../SIR.rst:406
 msgid ""
@@ -1317,17 +1429,14 @@ msgid ""
 msgstr ""
 
 #: ../../SIR.rst:405
-#, fuzzy
-#| msgid ""
-#| "Whenever you cast an instant or sorcery spell, remove an ice counter from "
-#| "Thing in the Ice. Then if it has no ice counters on it, transform it."
 msgid ""
 "Whenever you cast an instant or sorcery spell, create a 1/1 blue Human "
 "Wizard creature token. Then if you control three or more Wizards, transform "
 "Docent of Perfection."
 msgstr ""
-"Ilekroć rzucisz czar sztuczki lub obrzędu, usuń znacznik lodu z tego stwora. "
-"Następnie jeśli nie ma on znaczników lodu, transformuj go."
+"Ilekroć rzucisz czar sztuczki lub obrzędu, stwórz żeton niebieskiego stwora "
+"Człowiek Czarodziej 1/1. Następnie jeśli władasz co najmniej trzema "
+"Czarodziejami, transformuj tego stwora."
 
 #: ../../SIR.rst:414
 msgid ""
@@ -1338,19 +1447,15 @@ msgstr ""
 
 #: ../../SIR.rst:411
 msgid "Wizards you control get +2/+1 and have flying."
-msgstr ""
+msgstr "Czarodzieje pod twoim władaniem dostają +2/+1 i mają latanie."
 
 #: ../../SIR.rst:413
-#, fuzzy
-#| msgid ""
-#| "Whenever you cast an instant or sorcery spell, remove an ice counter from "
-#| "Thing in the Ice. Then if it has no ice counters on it, transform it."
 msgid ""
 "Whenever you cast an instant or sorcery spell, create a 1/1 blue Human "
 "Wizard creature token."
 msgstr ""
-"Ilekroć rzucisz czar sztuczki lub obrzędu, usuń znacznik lodu z tego stwora. "
-"Następnie jeśli nie ma on znaczników lodu, transformuj go."
+"Ilekroć rzucisz czar sztuczki lub obrzędu, stwórz żeton niebieskiego stwora "
+"Człowiek Czarodziej 1/1."
 
 #: ../../SIR.rst:420
 msgid ""
@@ -1361,11 +1466,11 @@ msgstr ""
 
 #: ../../SIR.rst:417
 msgid "Return target creature to its owner's hand."
-msgstr ""
+msgstr "Przywróć wskazanego stwora do ręki właściciela."
 
 #: ../../SIR.rst:419
 msgid "Draw a card."
-msgstr ""
+msgstr "Dobierz kartę."
 
 #: ../../SIR.rst:424
 msgid ""
@@ -1380,6 +1485,8 @@ msgid ""
 "token. It's an artifact with \"|mana_2|, Sacrifice this artifact: Draw a "
 "card.\")"
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, dociekaj. (Stwórz żeton Wskazówki. To "
+"artefakt mający \"|mana_2|, poświęć ten artefakt: Dobierz kartę.\")"
 
 #: ../../SIR.rst:430
 msgid ""
@@ -1393,10 +1500,12 @@ msgid ""
 "When Drunau Corpse Trawler enters the battlefield, create a 2/2 black Zombie "
 "creature token."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton czarnego stwora Zombi 2/2."
 
 #: ../../SIR.rst:429
 msgid "|mana_2|\\ |mana_b|: Target Zombie gains deathtouch until end of turn."
 msgstr ""
+"|mana_2|\\ |mana_b|: Wskazany Zombi zyskuje dotyk śmierci do końca tury."
 
 #: ../../SIR.rst:434
 msgid ""
@@ -1411,6 +1520,9 @@ msgid ""
 "piles. An opponent chooses one of those piles. Put that pile into your hand "
 "and the other into your graveyard."
 msgstr ""
+"Ujawnij X plus jeden wierzchnich kart twojej biblioteki i rozdziel je na dwa "
+"stosy. Przeciwnik wybiera jeden z owych stosów. Umieść ów stos w twojej "
+"ręce, a pozostały w twoim cmentarzu."
 
 #: ../../SIR.rst:440
 msgid ""
@@ -1424,6 +1536,7 @@ msgid ""
 "Whenever you investigate for the first time each turn, investigate an "
 "additional time."
 msgstr ""
+"Ilekroć dociekasz po raz pierwszy w danej turze, dociekaj dodatkowy raz."
 
 #: ../../SIR.rst:444
 msgid ""
@@ -1437,6 +1550,9 @@ msgid ""
 "Exile target creature you control, then return that card to the battlefield "
 "under its owner's control. If it's a Spirit, put a +1/+1 counter on it."
 msgstr ""
+"Wygnaj wskazanego stwora pod twoim władaniem, po czym przywróć ową kartę na "
+"pole bitwy pod władaniem właściciela. Jeśli to Duch, umieść na nim znacznik +"
+"1/+1."
 
 #: ../../SIR.rst:448
 msgid ""
@@ -1447,7 +1563,7 @@ msgstr ""
 
 #: ../../SIR.rst:447
 msgid "When Exultant Cultist dies, draw a card."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, dobierz kartę."
 
 #: ../../SIR.rst:454
 msgid ""
@@ -1462,10 +1578,12 @@ msgid ""
 "token. It's an artifact with \"|mana_2|, Sacrifice this artifact: Draw a "
 "card.\")"
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, dociekaj. (Stwórz żeton Wskazówki. To "
+"artefakt mający \"|mana_2|, poświęć ten artefakt: Dobierz kartę.\")"
 
 #: ../../SIR.rst:453
 msgid "Whenever you sacrifice a Clue, target player mills three cards."
-msgstr ""
+msgstr "Ilekroć poświęcisz Wskazówkę, wskazany gracz mieli trzy karty."
 
 #: ../../SIR.rst:460
 msgid ""
@@ -1475,19 +1593,18 @@ msgid ""
 msgstr ""
 
 #: ../../SIR.rst:457 ../../SIR.rst:463 ../../SIR.rst:587 ../../SIR.rst:625
-#, fuzzy
-#| msgid ""
-#| "Menace (This creature can't be blocked except by two or more creatures.)"
 msgid "Skulk (This creature can't be blocked by creatures with greater power.)"
 msgstr ""
-"Złowrogość (Ten stwór nie może być blokowany, chyba że przez co najmniej dwa "
-"stwory.)"
+"Przyczajenie (Ten stwór nie może być blokowany przez stwory z większą siłą.)"
 
 #: ../../SIR.rst:459
 msgid ""
 "When Fogwalker enters the battlefield, target creature an opponent controls "
 "doesn't untap during its controller's next untap step."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, wskazany stwór pod władaniem "
+"przeciwnika nie odkręci się podczas następnego kroku odkręcania swojego "
+"władcy."
 
 #: ../../SIR.rst:466
 msgid ""
@@ -1501,6 +1618,8 @@ msgid ""
 "At the beginning of your upkeep, you may discard all the cards in your hand. "
 "If you do, draw that many cards."
 msgstr ""
+"Na początku twojego kroku utrzymania, możesz odrzucić wszystkie karty z "
+"twojej ręki. Jeśli tak zrobisz, dobierz tyle samo kart."
 
 #: ../../SIR.rst:472
 msgid ""
@@ -1519,6 +1638,8 @@ msgid ""
 "At the beginning of your upkeep, scry 1. (Look at the top card of your "
 "library. You may put that card on the bottom of your library.)"
 msgstr ""
+"Na początku twojego kroku utrzymania, wróż 1. (Spójrz na wierzchnią kartę "
+"twojej biblioteki. Możesz umieścić ją na spodzie twojej biblioteki.)"
 
 #: ../../SIR.rst:480
 msgid ""
@@ -1529,13 +1650,15 @@ msgstr ""
 
 #: ../../SIR.rst:477
 msgid "Geralf's Masterpiece gets -1/-1 for each card in your hand."
-msgstr ""
+msgstr "Ten stwór dostaje -1/-1 za każdą z kart w twojej ręce."
 
 #: ../../SIR.rst:479
 msgid ""
 "|mana_3|\\ |mana_u|, Discard three cards: Return Geralf's Masterpiece from "
 "your graveyard to the battlefield tapped."
 msgstr ""
+"|mana_3|\\ |mana_u|, odrzuć trzy karty: Przywróć tę kartę z twojego "
+"cmentarza przekręconą na pole bitwy."
 
 #: ../../SIR.rst:486
 msgid ""
@@ -1546,13 +1669,15 @@ msgstr ""
 
 #: ../../SIR.rst:483
 msgid "Enchant creature, land, or planeswalker"
-msgstr ""
+msgstr "Zaurocz stwora, ląd lub wędrowca"
 
 #: ../../SIR.rst:485
 msgid ""
 "Enchanted permanent is a colorless land with \"|tap|: Add |colorless|\" and "
 "loses all other card types and abilities."
 msgstr ""
+"Zauroczony byt jest bezkolorowym lądem mającym \"|tap|: Weź |colorless|\" i "
+"traci wszystkie inne typy karty oraz zdolności."
 
 #: ../../SIR.rst:492
 msgid ""
@@ -1563,7 +1688,7 @@ msgstr ""
 
 #: ../../SIR.rst:491
 msgid "|mana_u|: Ingenious Skaab gets +1/-1 until end of turn."
-msgstr ""
+msgstr "|mana_u|: Ten stwór do końca tury dostaje +1/-1."
 
 #: ../../SIR.rst:498
 msgid ""
@@ -1574,7 +1699,7 @@ msgstr ""
 
 #: ../../SIR.rst:495
 msgid "Counter target sorcery spell."
-msgstr ""
+msgstr "Skontruj wskazany czar obrzędu."
 
 #: ../../SIR.rst:497
 msgid ""
@@ -1583,6 +1708,10 @@ msgid ""
 "controller for any number of cards with the same name as that spell, exile "
 "those cards, then that player shuffles."
 msgstr ""
+"Delirium — Jeżeli w twoim cmentarzu są karty należące do co najmniej "
+"czterech typów kart, wyszukaj w cmentarzu, ręce oraz bibliotece władcy owego "
+"czaru dowolną liczbę kart o tej samej nazwie jak ów czar, wygnaj owe karty, "
+"po czym ów gracz tasuje."
 
 #: ../../SIR.rst:506
 msgid ""
@@ -1593,17 +1722,19 @@ msgstr ""
 
 #: ../../SIR.rst:501
 msgid "+1: Scry 1, then draw a card."
-msgstr ""
+msgstr "+1: Wróż 1, po czym dobierz kartę."
 
 #: ../../SIR.rst:503
 msgid "−2: Return target creature to its owner's hand."
-msgstr ""
+msgstr "–2: Przywróć wskazanego stwora do ręki właściciela."
 
 #: ../../SIR.rst:505
 msgid ""
 "−8: You get an emblem with \"Whenever an opponent casts their first spell "
 "each turn, counter that spell.\""
 msgstr ""
+"–8: Dostajesz emblemat mający \"Ilekroć przeciwnik rzuci swój pierwszy czar "
+"w danej turze, skontruj ów czar.\""
 
 #: ../../SIR.rst:512
 msgid ""
@@ -1614,7 +1745,7 @@ msgstr ""
 
 #: ../../SIR.rst:509
 msgid "Target creature gets -4/-0 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór do końca tury dostaje -4/-0."
 
 #: ../../SIR.rst:516
 msgid ""
@@ -1624,11 +1755,8 @@ msgid ""
 msgstr ""
 
 #: ../../SIR.rst:515
-#, fuzzy
-#| msgid ""
-#| "Thing in the Ice enters the battlefield with four ice counters on it."
 msgid "When Laboratory Brute enters the battlefield, mill four cards."
-msgstr "Ten stwór wchodzi na pole bitwy mając cztery znaczniki lodu."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zmiel cztery karty."
 
 #: ../../SIR.rst:522
 msgid ""
@@ -1641,12 +1769,16 @@ msgstr ""
 msgid ""
 "When Manic Scribe enters the battlefield, each opponent mills three cards."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, każdy przeciwnik mieli po trzy karty."
 
 #: ../../SIR.rst:521
 msgid ""
 "Delirium — At the beginning of each opponent's upkeep, if there are four or "
 "more card types among cards in your graveyard, that player mills three cards."
 msgstr ""
+"Delirium — Na początku kroku utrzymania każdego przeciwnika, jeżeli w twoim "
+"cmentarzu są karty należące do co najmniej czterech typów kart, ów gracz "
+"mieli trzy karty."
 
 #: ../../SIR.rst:530
 msgid ""
@@ -1656,22 +1788,20 @@ msgid ""
 msgstr ""
 
 #: ../../SIR.rst:527
-#, fuzzy
-#| msgid ""
-#| "Whenever an Equipment enters the battlefield under your control, you may "
-#| "attach it to target creature you control."
 msgid ""
 "Whenever another Spirit enters the battlefield under your control, Mausoleum "
 "Wanderer gets +1/+1 until end of turn."
 msgstr ""
-"Ilekroć Wyposażenie wejdzie na pole bitwy pod twoim władaniem, możesz "
-"dołączyć je do wskazanego stwora pod twoim władaniem."
+"Ilekroć inny Duch wejdzie na pole bitwy pod twoim władaniem, niniejszy stwór "
+"do końca tury dostaje +1/+1."
 
 #: ../../SIR.rst:529
 msgid ""
 "Sacrifice Mausoleum Wanderer: Counter target instant or sorcery spell unless "
 "its controller pays |mana_x|, where X is Mausoleum Wanderer's power."
 msgstr ""
+"Poświęć tego stwora: Skontruj wskazany czar sztuczki lub obrzędu, chyba że "
+"jego władca zapłaci |mana_x|, gdzie X jest siłą tego stwora."
 
 #: ../../SIR.rst:534
 msgid ""
@@ -1686,6 +1816,9 @@ msgid ""
 "the top card of their library. If it's a nonland card, you may cast it "
 "without paying its mana cost."
 msgstr ""
+"Ilekroć przeciwnik rzuci swój pierwszy czar w danej turze, ów gracz wygania "
+"wierzchnią kartę swojej biblioteki. Jeśli nie jest to karta lądu, możesz ją "
+"rzucić bez płacenia jej kosztu many."
 
 #: ../../SIR.rst:542
 msgid ""
@@ -1695,16 +1828,12 @@ msgid ""
 msgstr ""
 
 #: ../../SIR.rst:541
-#, fuzzy
-#| msgid ""
-#| "Whenever an Equipment enters the battlefield under your control, you may "
-#| "attach it to target creature you control."
 msgid ""
 "Whenever Nebelgast Herald or another Spirit enters the battlefield under "
 "your control, tap target creature an opponent controls."
 msgstr ""
-"Ilekroć Wyposażenie wejdzie na pole bitwy pod twoim władaniem, możesz "
-"dołączyć je do wskazanego stwora pod twoim władaniem."
+"Ilekroć ten stwór lub inny Duch wejdzie na pole bitwy pod twoim władaniem, "
+"przekręć wskazanego stwora pod władaniem przeciwnika."
 
 #: ../../SIR.rst:548
 msgid ""
@@ -1719,12 +1848,17 @@ msgid ""
 "investigate. (Create a Clue token. It's an artifact with \"|mana_2|, "
 "Sacrifice this artifact: Draw a card.\")"
 msgstr ""
+"Ilekroć jeden lub więcej stworów pod twoim władaniem zada graczowi obrażenia "
+"bojowe, dociekaj. (Stwórz żeton Wskazówki. To artefakt mający \"|mana_2|, "
+"poświęć ten artefakt: Dobierz kartę.\")"
 
 #: ../../SIR.rst:547
 msgid ""
 "|mana_1|\\ |mana_g|, Exile a creature card from your graveyard: Investigate. "
 "You gain 2 life."
 msgstr ""
+"|mana_1|\\ |mana_g|, wygnaj kartę stwora z twojego cmentarza: Dociekaj. "
+"Zyskaj 2 życia."
 
 #: ../../SIR.rst:552
 msgid ""
@@ -1739,6 +1873,9 @@ msgid ""
 "sorcery cards from among them into your hand and the rest into your "
 "graveyard."
 msgstr ""
+"Ujawnij pięć wierzchnich kart twojej biblioteki. Umieść spośród nich co "
+"najwyżej dwie karty sztuczki i/lub obrzędu w twojej ręce, a pozostałe w "
+"twoim cmentarzu."
 
 #: ../../SIR.rst:556
 msgid ""
@@ -1749,7 +1886,7 @@ msgstr ""
 
 #: ../../SIR.rst:555
 msgid "Draw three cards, untap up to two lands, then discard a card."
-msgstr ""
+msgstr "Dobierz trzy karty, odkręć co najwyżej dwa lądy, po czym odrzuć kartę."
 
 #: ../../SIR.rst:566
 msgid ""
@@ -1763,12 +1900,12 @@ msgid ""
 "When Rattlechains enters the battlefield, target Spirit gains hexproof until "
 "end of turn."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, wskazany Duch zyskuje antyklątwę do "
+"końca tury."
 
 #: ../../SIR.rst:565
-#, fuzzy
-#| msgid "You may cast Aura and Equipment spells as though they had flash."
 msgid "You may cast Spirit spells as though they had flash."
-msgstr "Możesz rzucać czary Aur i Wyposażeń jakby miały błysk."
+msgstr "Możesz rzucać czary Duchów tak, jakby miały błysk."
 
 #: ../../SIR.rst:570
 msgid ""
@@ -1782,6 +1919,8 @@ msgid ""
 "Create a tapped 2/2 black Zombie creature token for each instant and sorcery "
 "card in your graveyard."
 msgstr ""
+"Stwórz przekręcony żeton czarnego stwora Zombi 2/2 za każdą kartę sztuczki i "
+"obrzędu w twoim cmentarzu."
 
 #: ../../SIR.rst:578
 msgid ""
@@ -1795,6 +1934,7 @@ msgid ""
 "Enchanted creature gets -X/-0, where X is the number of cards in your "
 "graveyard."
 msgstr ""
+"Zauroczony stwór dostaje -X/-0, gdzie X jest liczbą kart w twoim cmentarzu."
 
 #: ../../SIR.rst:584
 msgid ""
@@ -1805,13 +1945,15 @@ msgstr ""
 
 #: ../../SIR.rst:581
 msgid "Target opponent mills thirteen cards."
-msgstr ""
+msgstr "Wskazany przeciwnik mieli trzynaście kart."
 
 #: ../../SIR.rst:583
 msgid ""
 "|mana_3|\\ |mana_u|\\ |mana_u|: Put Startled Awake from your graveyard onto "
 "the battlefield transformed. Activate only as a sorcery."
 msgstr ""
+"|mana_3|\\ |mana_u|\\ |mana_u|: Umieść tę kartę z twojego cmentarza "
+"transformowaną na polu bitwy. Aktywuj tylko jako obrzęd."
 
 #: ../../SIR.rst:590
 msgid ""
@@ -1821,16 +1963,12 @@ msgid ""
 msgstr ""
 
 #: ../../SIR.rst:589
-#, fuzzy
-#| msgid ""
-#| "When Relentless Dead dies, you may pay |mana_b|. If you do, return it to "
-#| "its owner's hand."
 msgid ""
 "When Persistent Nightmare deals combat damage to a player, return it to its "
 "owner's hand."
 msgstr ""
-"Kiedy ten stwór umrze, możesz zapłacić |mana_b|. Jeśli tak zrobisz, przywróć "
-"go do ręki właściciela."
+"Kiedy ten stwór zada graczowi obrażenia bojowe, przywróć go do ręki "
+"właściciela."
 
 #: ../../SIR.rst:596
 msgid ""
@@ -1848,7 +1986,7 @@ msgstr ""
 
 #: ../../SIR.rst:599
 msgid "Exile all other spells and counter all abilities."
-msgstr ""
+msgstr "Wygnaj wszystkie inne czary i skontruj wszystkie zdolności."
 
 #: ../../SIR.rst:604
 msgid ""
@@ -1862,6 +2000,8 @@ msgid ""
 "Draw a card, then draw cards equal to the number of cards named Take "
 "Inventory in your graveyard."
 msgstr ""
+"Dobierz kartę, po czym dobierz tyle kart, ile jest kart o nazwie Take "
+"Inventory w twoim cmentarzu."
 
 #: ../../SIR.rst:610
 msgid ""
@@ -1872,7 +2012,7 @@ msgstr ""
 
 #: ../../SIR.rst:609
 msgid "Tattered Haunter can block only creatures with flying."
-msgstr ""
+msgstr "Ten stwór może blokować tylko stwory z lataniem."
 
 #: ../../SIR.rst:618
 msgid ""
@@ -1920,12 +2060,16 @@ msgid ""
 "Whenever Wharf Infiltrator deals combat damage to a player, you may draw a "
 "card. If you do, discard a card."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, możesz dobrać kartę. Jeśli "
+"tak zrobisz, odrzuć kartę."
 
 #: ../../SIR.rst:629
 msgid ""
 "Whenever you discard a creature card, you may pay |mana_2|. If you do, "
 "create a 3/2 colorless Eldrazi Horror creature token."
 msgstr ""
+"Ilekroć odrzucisz kartę stwora, możesz zapłacić |mana_2|. Jeśli tak zrobisz, "
+"stwórz żeton bezkolorowego stwora Eldrazi Horror 3/2."
 
 #: ../../SIR.rst:636
 msgid ""
@@ -1939,18 +2083,16 @@ msgid ""
 "Spells your opponents cast that target Accursed Witch cost |mana_1| less to "
 "cast."
 msgstr ""
+"Rzucanie czarów wskazujących tego stwora kosztuje twoich przeciwników o "
+"|mana_1| mniej."
 
 #: ../../SIR.rst:635
-#, fuzzy
-#| msgid ""
-#| "Whenever an Equipment enters the battlefield under your control, you may "
-#| "attach it to target creature you control."
 msgid ""
 "When Accursed Witch dies, return it to the battlefield transformed under "
 "your control attached to target opponent."
 msgstr ""
-"Ilekroć Wyposażenie wejdzie na pole bitwy pod twoim władaniem, możesz "
-"dołączyć je do wskazanego stwora pod twoim władaniem."
+"Kiedy ten stwór umrze, przywróć go transformowanego na pole bitwy pod twoim "
+"władaniem dołączonego do wskazanego przeciwnika."
 
 #: ../../SIR.rst:644
 msgid ""
@@ -1961,18 +2103,22 @@ msgstr ""
 
 #: ../../SIR.rst:639
 msgid "Enchant player"
-msgstr ""
+msgstr "Zaurocz gracza"
 
 #: ../../SIR.rst:641
 msgid ""
 "Spells you cast that target enchanted player cost |mana_1| less to cast."
 msgstr ""
+"Rzucanie czarów wskazujących zauroczonego gracza kosztuje cię o |mana_1| "
+"mniej."
 
 #: ../../SIR.rst:643
 msgid ""
 "At the beginning of enchanted player's upkeep, that player loses 1 life and "
 "you gain 1 life."
 msgstr ""
+"Na początku kroku utrzymania zauroczonego gracza, ów gracz traci 1 życie, a "
+"ty zyskaj 1 życie."
 
 #: ../../SIR.rst:650
 msgid ""
@@ -1983,13 +2129,15 @@ msgstr ""
 
 #: ../../SIR.rst:647
 msgid "Target opponent loses 3 life and you gain 3 life."
-msgstr ""
+msgstr "Wskazany przeciwnik traci 3 życia, a ty zyskaj 3 życia."
 
 #: ../../SIR.rst:649
 msgid ""
 "Madness |mana_b| (If you discard this card, discard it into exile. When you "
 "do, cast it for its madness cost or put it into your graveyard.)"
 msgstr ""
+"Szaleństwo |mana_b| (Odrzucając tę kartę odrzuć ją na wygnanie. Jeśli tak "
+"zrobisz, rzuć ją za jej koszt szaleństwa albo umieść ją w twoim cmentarzu.)"
 
 #: ../../SIR.rst:656
 msgid ""
@@ -2000,7 +2148,7 @@ msgstr ""
 
 #: ../../SIR.rst:653
 msgid "All creatures get -2/-2 until end of turn."
-msgstr ""
+msgstr "Wszystkie stwory dostają do końca tury -2/-2."
 
 #: ../../SIR.rst:655 ../../SIR.rst:739 ../../SIR.rst:901
 msgid ""
@@ -2008,6 +2156,9 @@ msgid ""
 "exile. When you do, cast it for its madness cost or put it into your "
 "graveyard.)"
 msgstr ""
+"Szaleństwo |mana_2|\\ |mana_b| (Odrzucając tę kartę odrzuć ją na wygnanie. "
+"Jeśli tak zrobisz, rzuć ją za jej koszt szaleństwa albo umieść ją w twoim "
+"cmentarzu.)"
 
 #: ../../SIR.rst:666
 msgid ""
@@ -2018,11 +2169,11 @@ msgstr ""
 
 #: ../../SIR.rst:663
 msgid "Target creature gets +1/+1 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór do końca tury dostaje +1/+1."
 
 #: ../../SIR.rst:665
 msgid "Target creature gets -1/-1 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór do końca tury dostaje -1/-1."
 
 #: ../../SIR.rst:670
 msgid ""
@@ -2036,6 +2187,8 @@ msgid ""
 "|mana_1|, Discard a card: Create a 1/1 black Vampire Knight creature token "
 "with lifelink. Activate only once each turn."
 msgstr ""
+"|mana_1|, odrzuć kartę: Stwórz żeton czarnego stwora Wampir Rycerz 1/1 z "
+"więzią życia. Możesz aktywować tylko raz na turę."
 
 #: ../../SIR.rst:674
 msgid ""
@@ -2048,6 +2201,7 @@ msgstr ""
 msgid ""
 "Destroy target creature. Its controller loses 2 life and you gain 2 life."
 msgstr ""
+"Zniszcz wskazanego stwora. Jego władca traci 2 życia, a ty zyskaj 2 życia."
 
 #: ../../SIR.rst:686
 msgid ""
@@ -2061,20 +2215,23 @@ msgid ""
 "Escalate—Discard a card. (Pay this cost for each mode chosen beyond the "
 "first.)"
 msgstr ""
+"Eskalacja—Odrzuć kartę. (Opłać ten koszt za każdy dodatkowo wybrany tryb.)"
 
 #: ../../SIR.rst:681
 msgid ""
 "Target opponent reveals their hand. You choose an instant or sorcery card "
 "from it. That player discards that card."
 msgstr ""
+"Wskazany przeciwnik ujawnia swoją rękę. Wybierz z niej kartę sztuczki lub "
+"obrzędu. Ów gracz odrzuca ową kartę."
 
 #: ../../SIR.rst:683
 msgid "Target creature gets -2/-2 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór do końca tury dostaje -2/-2."
 
 #: ../../SIR.rst:685
 msgid "Target opponent loses 2 life and you gain 2 life."
-msgstr ""
+msgstr "Wskazany przeciwnik traci 2 życia, a ty zyskaj 2 życia."
 
 #: ../../SIR.rst:692
 msgid ""
@@ -2088,6 +2245,8 @@ msgid ""
 "When Crow of Dark Tidings enters the battlefield or dies, mill two cards. "
 "(Put the top two cards of your library into your graveyard.)"
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy lub umrze, zmiel dwie karty. (Umieść "
+"dwie wierzchnie karty twojej biblioteki w twoim cmentarzu.)"
 
 #: ../../SIR.rst:696
 msgid ""
@@ -2102,6 +2261,9 @@ msgid ""
 "target creature gets -1/-1 until end of turn for each Zombie that player "
 "controls."
 msgstr ""
+"Wskazany gracz tworzy X żetonów czarnego stwora Zombi 2/2, po czym co "
+"najwyżej jeden wskazany stwór do końca tury dostaje -1/-1 za każdego Zombi "
+"pod władaniem owego gracza."
 
 #: ../../SIR.rst:702
 msgid ""
@@ -2112,7 +2274,7 @@ msgstr ""
 
 #: ../../SIR.rst:701
 msgid "Enchanted creature gets -2/-2."
-msgstr ""
+msgstr "Zauroczony stwór dostaje -2/-2."
 
 #: ../../SIR.rst:706
 msgid ""
@@ -2127,6 +2289,9 @@ msgid ""
 "Delirium — |mana_2|\\ |mana_b|: Transform Kindly Stranger. Activate only if "
 "there are four or more card types among cards in your graveyard."
 msgstr ""
+"Delirium — |mana_2|\\ |mana_b|: Transformuj tego stwora. Możesz aktywować "
+"tylko jeśli w twoim cmentarzu są karty należące do co najmniej czterech "
+"typów kart."
 
 #: ../../SIR.rst:710
 msgid ""
@@ -2141,6 +2306,7 @@ msgid ""
 "When this creature transforms into Demon-Possessed Witch, you may destroy "
 "target creature."
 msgstr ""
+"Kiedy ten stwór transformuje w tę formę, możesz zniszczyć wskazanego stwora."
 
 #: ../../SIR.rst:716
 msgid ""
@@ -2154,12 +2320,16 @@ msgid ""
 "Diregraf Colossus enters the battlefield with a +1/+1 counter on it for each "
 "Zombie card in your graveyard."
 msgstr ""
+"Ten stwór wchodzi na pole bitwy mając tyle znaczników +1/+1, ile kart Zombi "
+"jest w twoim cmentarzu."
 
 #: ../../SIR.rst:715
 msgid ""
 "Whenever you cast a Zombie spell, create a tapped 2/2 black Zombie creature "
 "token."
 msgstr ""
+"Ilekroć rzucisz czar Zombi, stwórz przekręcony żeton czarnego stwora Zombi 2/"
+"2."
 
 #: ../../SIR.rst:722
 msgid ""
@@ -2173,6 +2343,8 @@ msgid ""
 "Delirium — This spell costs |mana_2| less to cast if there are four or more "
 "card types among cards in your graveyard."
 msgstr ""
+"Delirium — Rzucenie tego czaru kosztuje o |mana_2| mniej jeśli w twoim "
+"cmentarzu są karty należące do przynajmniej czterech typów kart."
 
 #: ../../SIR.rst:726
 msgid ""
@@ -2187,6 +2359,10 @@ msgid ""
 "battlefield. Each of those creatures is a black Zombie in addition to its "
 "other colors and types. Put Ever After on the bottom of its owner's library."
 msgstr ""
+"Przywróć co najwyżej dwie wskazane karty stworów z twojego cmentarza na pole "
+"bitwy. Każdy z owych stworów jest dodatkowo czarnym Zombi oprócz swoich "
+"pozostałych kolorów i typów. Umieść niniejszą kartę na spodzie biblioteki "
+"właściciela."
 
 #: ../../SIR.rst:730
 msgid ""
@@ -2200,6 +2376,8 @@ msgid ""
 "Whenever another creature you control dies, put a +1/+1 counter on Gavony "
 "Unhallowed."
 msgstr ""
+"Ilekroć umrze inny stwór pod twoim władaniem, umieść znacznik +1/+1 na "
+"niniejszym stworze."
 
 #: ../../SIR.rst:734
 msgid ""
@@ -2213,6 +2391,8 @@ msgid ""
 "|mana_3|\\ |mana_b|, Exile Ghoulcaller's Accomplice from your graveyard: "
 "Create a 2/2 black Zombie creature token. Activate only as a sorcery."
 msgstr ""
+"|mana_3|\\ |mana_b|, wygnaj tę kartę z twojego cmentarza: Stwórz żeton "
+"czarnego stwora Zombi 2/2. Aktywuj tylko jako obrzęd."
 
 #: ../../SIR.rst:740
 msgid ""
@@ -2223,7 +2403,7 @@ msgstr ""
 
 #: ../../SIR.rst:737
 msgid "Create two 2/2 black Zombie creature tokens."
-msgstr ""
+msgstr "Stwórz dwa żetony czarnego stwora Zombi 2/2."
 
 #: ../../SIR.rst:746
 msgid ""
@@ -2233,21 +2413,20 @@ msgid ""
 msgstr ""
 
 #: ../../SIR.rst:743
-#, fuzzy
-#| msgid ""
-#| "Menace (This creature can't be blocked except by two or more creatures.)"
 msgid ""
 "Zombies you control have menace. (They can't be blocked except by two or "
 "more creatures.)"
 msgstr ""
-"Złowrogość (Ten stwór nie może być blokowany, chyba że przez co najmniej dwa "
-"stwory.)"
+"Zombi pod twoim władaniem mają złowrogość. (Nie mogą być blokowane, chyba że "
+"przez co najmniej dwa stwory.)"
 
 #: ../../SIR.rst:745
 msgid ""
 "|mana_3|\\ |mana_b|, Exile a creature card from your graveyard: Create a 2/2 "
 "black Zombie creature token."
 msgstr ""
+"|mana_3|\\ |mana_b|, wygnaj kartę stwora z twojego cmentarza: Stwórz żeton "
+"czarnego stwora Zombi 2/2."
 
 #: ../../SIR.rst:750
 msgid ""
@@ -2262,6 +2441,9 @@ msgid ""
 "Rats and a creature named Midnight Scavengers, exile them, then meld them "
 "into Chittering Host."
 msgstr ""
+"Na początku potyczki w twojej turze, jeśli jednocześnie masz w posiadaniu i "
+"władaniu tego stwora oraz stwora o nazwie Midnight Scavengers, wygnaj je, po "
+"czym połącz je tworząc Chittering Host."
 
 #: ../../SIR.rst:758
 msgid ""
@@ -2273,7 +2455,7 @@ msgstr ""
 #: ../../SIR.rst:753 ../../SIR.rst:983 ../../SIR.rst:1025 ../../SIR.rst:1083
 #: ../../SIR.rst:1179 ../../SIR.rst:1513
 msgid "Haste"
-msgstr ""
+msgstr "Pośpiech"
 
 #: ../../SIR.rst:755 ../../SIR.rst:813 ../../SIR.rst:843 ../../SIR.rst:975
 #: ../../SIR.rst:1019 ../../SIR.rst:1071 ../../SIR.rst:1185
@@ -2288,6 +2470,8 @@ msgid ""
 "When Chittering Host enters the battlefield, other creatures you control get "
 "+1/+0 and gain menace until end of turn."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, inne stwory pod twoim władaniem dostają "
+"do końca tury +1/+0 oraz złowrogość."
 
 #: ../../SIR.rst:762
 msgid ""
@@ -2301,6 +2485,8 @@ msgid ""
 "Target creature gets +3/+1 and gains lifelink until end of turn. (Damage "
 "dealt by the creature also causes its controller to gain that much life.)"
 msgstr ""
+"Wskazany stwór do końca tury dostaje +3/+1 oraz więź życia. (Obrażania "
+"zadane przez owego stwora powodują, że jego władca zyskuje tyle samo żyć.)"
 
 #: ../../SIR.rst:768
 msgid ""
@@ -2314,12 +2500,16 @@ msgid ""
 "When Haunted Dead enters the battlefield, create a 1/1 white Spirit creature "
 "token with flying."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton białego stwora Duch 1/1 z "
+"lataniem."
 
 #: ../../SIR.rst:767
 msgid ""
 "|mana_1|\\ |mana_b|, Discard two cards: Return Haunted Dead from your "
 "graveyard to the battlefield tapped."
 msgstr ""
+"|mana_1|\\ |mana_b|, odrzuć dwie karty: Przywróć niniejszą kartę z twojego "
+"cmentarza przekręconą na pole bitwy."
 
 #: ../../SIR.rst:774
 msgid ""
@@ -2333,6 +2523,8 @@ msgid ""
 "|mana_2|, Sacrifice a creature: Put a +1/+1 counter on each Vampire you "
 "control."
 msgstr ""
+"|mana_2|, poświęć stwora: Umieść znacznik +1/+1 na każdym Wampirze pod twoim "
+"władaniem."
 
 #: ../../SIR.rst:782
 msgid ""
@@ -2344,12 +2536,15 @@ msgstr ""
 #: ../../SIR.rst:777
 msgid "+1: Up to one target creature gets -2/-1 until your next turn."
 msgstr ""
+"+1: Co najwyżej jeden wskazany stwór dostaje do twojej następnej tury -2/-1."
 
 #: ../../SIR.rst:779
 msgid ""
 "−2: Mill two cards, then you may return a creature card from your graveyard "
 "to your hand."
 msgstr ""
+"–2: Zmiel dwie karty, po czym możesz przywrócić kartę stwora z twojego "
+"cmentarza do twojej ręki."
 
 #: ../../SIR.rst:781
 msgid ""
@@ -2357,6 +2552,9 @@ msgid ""
 "black Zombie creature tokens, where X is two plus the number of Zombies you "
 "control.\""
 msgstr ""
+"–7: Dostajesz emblemat mający \"Na początku twojego kroku końcowego stwórz X "
+"żetonów czarnego stwora Zombi 2/2, gdzie X to liczba Zombi pod twoim "
+"władaniem plus dwa.\""
 
 #: ../../SIR.rst:786
 msgid ""
@@ -2367,7 +2565,7 @@ msgstr ""
 
 #: ../../SIR.rst:785
 msgid "Liliana's Elite gets +1/+1 for each creature card in your graveyard."
-msgstr ""
+msgstr "Ten stwór dostaje +1/+1 za każdą kartę stwora w twoim cmentarzu."
 
 #: ../../SIR.rst:790
 msgid ""
@@ -2381,6 +2579,8 @@ msgid ""
 "Return up to two target creature cards from your graveyard to your hand, "
 "then discard a card."
 msgstr ""
+"Przywróć co najwyżej dwie wskazane karty stworów z twojego cmentarza do "
+"twojej ręki, po czym odrzuć kartę."
 
 #: ../../SIR.rst:796
 msgid ""
@@ -2391,11 +2591,11 @@ msgstr ""
 
 #: ../../SIR.rst:793
 msgid "As an additional cost to cast this spell, sacrifice a creature or land."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć stwora lub ląd."
 
 #: ../../SIR.rst:795 ../../SIR.rst:1165
 msgid "Draw two cards."
-msgstr ""
+msgstr "Dobierz dwie karty."
 
 #: ../../SIR.rst:802
 msgid ""
@@ -2405,21 +2605,16 @@ msgid ""
 msgstr ""
 
 #: ../../SIR.rst:799
-#, fuzzy
-#| msgid ""
-#| "When Relentless Dead dies, you may pay |mana_x|. If you do, return "
-#| "another target Zombie creature card with mana value X from your graveyard "
-#| "to the battlefield."
 msgid ""
 "When Midnight Scavengers enters the battlefield, you may return target "
 "creature card with mana value 3 or less from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór umrze, możesz zapłacić |mana_x|. Jeśli tak zrobisz, przywróć "
-"inną wskazaną kartę Zombi o skrócie many X z twojego cmentarza na pole bitwy."
+"Kiedy ten byt wejdzie na pole bitwy, możesz przywrócić wskazaną kartę stwora "
+"o skrócie many 3 lub mniejszym z twojego cmentarza do twojej ręki."
 
 #: ../../SIR.rst:801
 msgid "(Melds with Graf Rats.)"
-msgstr ""
+msgstr "(Łączy się z Graf Rats.)"
 
 #: ../../SIR.rst:810
 msgid ""
@@ -2430,20 +2625,19 @@ msgstr ""
 
 #: ../../SIR.rst:805
 msgid "Flying, trample"
-msgstr ""
+msgstr "Latanie, tratowanie"
 
 #: ../../SIR.rst:807
-#, fuzzy
-#| msgid ""
-#| "Thing in the Ice enters the battlefield with four ice counters on it."
 msgid "When Mindwrack Demon enters the battlefield, mill four cards."
-msgstr "Ten stwór wchodzi na pole bitwy mając cztery znaczniki lodu."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zmiel cztery karty."
 
 #: ../../SIR.rst:809
 msgid ""
 "Delirium — At the beginning of your upkeep, you lose 4 life unless there are "
 "four or more card types among cards in your graveyard."
 msgstr ""
+"Delirium — Na początku twojego kroku utrzymania, strać 4 życia, chyba że w "
+"twoim cmentarzu są karty należące do co najmniej czterech typów kart."
 
 #: ../../SIR.rst:816
 msgid ""
@@ -2457,6 +2651,7 @@ msgid ""
 "Whenever Morkrut Necropod attacks or blocks, sacrifice another creature or "
 "land."
 msgstr ""
+"Ilekroć ten stwór zaatakuje lub zablokuje, poświęć innego stwora lub ląd."
 
 #: ../../SIR.rst:822
 msgid ""
@@ -2466,17 +2661,16 @@ msgid ""
 msgstr ""
 
 #: ../../SIR.rst:819
-#, fuzzy
-#| msgid ""
-#| "Thing in the Ice enters the battlefield with four ice counters on it."
 msgid "Noosegraf Mob enters the battlefield with five +1/+1 counters on it."
-msgstr "Ten stwór wchodzi na pole bitwy mając cztery znaczniki lodu."
+msgstr "Ten stwór wchodzi na pole bitwy mając pięć znaczników +1/+1."
 
 #: ../../SIR.rst:821
 msgid ""
 "Whenever a player casts a spell, remove a +1/+1 counter from Noosegraf Mob. "
 "If you do, create a 2/2 black Zombie creature token."
 msgstr ""
+"Ilekroć gracz rzuci czar, usuń znacznik +1/+1 z tego stwora. Jeśli tak "
+"zrobisz, stwórz żeton czarnego stwora Zombi 2/2."
 
 #: ../../SIR.rst:830
 msgid ""
@@ -2487,11 +2681,11 @@ msgstr ""
 
 #: ../../SIR.rst:827
 msgid "Olivia's Bloodsworn can't block."
-msgstr ""
+msgstr "Ten stwór nie może blokować."
 
 #: ../../SIR.rst:829
 msgid "|mana_r|: Target Vampire gains haste until end of turn."
-msgstr ""
+msgstr "|mana_r|: Wskazany Wampir zyskuje pośpiech do końca tury."
 
 #: ../../SIR.rst:834
 msgid ""
@@ -2502,7 +2696,7 @@ msgstr ""
 
 #: ../../SIR.rst:833
 msgid "Discard a card: Olivia's Dragoon gains flying until end of turn."
-msgstr ""
+msgstr "Odrzuć kartę: Ten stwór do końca tury zyskuje latanie."
 
 #: ../../SIR.rst:840
 msgid ""
@@ -2516,6 +2710,8 @@ msgid ""
 "Target opponent reveals their hand. You choose a nonland card from it and "
 "exile that card."
 msgstr ""
+"Wskazany przeciwnik ujawnia swoją rękę. Wygnaj z niej wybraną nie-lądową "
+"kartę."
 
 #: ../../SIR.rst:839
 msgid ""
@@ -2524,6 +2720,10 @@ msgid ""
 "of cards with the same name as the exiled card, exile those cards, then that "
 "player shuffles."
 msgstr ""
+"Delirium — Jeśli w twoim cmentarzu są karty należące do co najmniej czterech "
+"typów kart, wyszukaj w cmentarzu ręce i bibliotece owego gracza dowolną "
+"liczbę kart o tej samej nazwie co owa wygnana karta, wygnaj owe karty, po "
+"czym ów gracz tasuje."
 
 #: ../../SIR.rst:848
 msgid ""
@@ -2562,6 +2762,9 @@ msgid ""
 "control. That creature is a black Zombie in addition to its other colors and "
 "types."
 msgstr ""
+"Umieść wskazaną kartę stwora z dowolnego cmentarza na polu bitwy pod twoim "
+"władaniem. Ów stwór jest dodatkowo czarnym Zombi oprócz swoich pozostałych "
+"kolorów i typów."
 
 #: ../../SIR.rst:858
 msgid ""
@@ -2575,10 +2778,11 @@ msgid ""
 "As an additional cost to cast this spell, discard a card and sacrifice a "
 "creature."
 msgstr ""
+"Jako dodatkowy koszt rzucenia tego czaru — odrzuć kartę i poświęć stwora."
 
 #: ../../SIR.rst:857
 msgid "Two target creatures each get -13/-13 until end of turn."
-msgstr ""
+msgstr "Każdy z dwóch wskazanych stworów do końca tury dostaje -13/-13."
 
 #: ../../SIR.rst:862
 msgid ""
@@ -2592,6 +2796,7 @@ msgid ""
 "|mana_2|\\ |mana_b|: Return Sanitarium Skeleton from your graveyard to your "
 "hand."
 msgstr ""
+"|mana_2|\\ |mana_b|: Przywróć tę kartę z twojego cmentarza do twojej ręki."
 
 #: ../../SIR.rst:866
 msgid ""
@@ -2605,6 +2810,8 @@ msgid ""
 "Discard a card: Vampires you control get +1/+1 until end of turn. Activate "
 "only once each turn."
 msgstr ""
+"Odrzuć kartę: Wampiry pod twoim władaniem dostają do końca tury +1/+1. "
+"Możesz aktywować tylko raz na turę."
 
 #: ../../SIR.rst:870
 msgid ""
@@ -2619,6 +2826,9 @@ msgid ""
 "four or more card types among cards in your graveyard. (A creature with "
 "menace can't be blocked except by two or more creatures.)"
 msgstr ""
+"Delirium — Ten stwór dostaje +1/+1 i ma złowrogość o ile w twoim cmentarzu "
+"są karty należące do przynajmniej czterech typów kart. (Stwór ze "
+"złowrogością nie może być blokowany, chyba że przez co najmniej dwa stwory.)"
 
 #: ../../SIR.rst:876
 msgid ""
@@ -2632,6 +2842,7 @@ msgid ""
 "|tap|: Exchange target opponent's life total with Tree of Perdition's "
 "toughness."
 msgstr ""
+"|tap|: Zamień liczbę żyć wskazanego przeciwnika z wytrzymałością tego stwora."
 
 #: ../../SIR.rst:884
 msgid ""
@@ -2642,19 +2853,23 @@ msgstr ""
 
 #: ../../SIR.rst:879
 msgid "At the beginning of your upkeep, choose one —"
-msgstr ""
+msgstr "Na początku twojego kroku utrzymania, wybierz jedną —"
 
 #: ../../SIR.rst:881
 msgid ""
 "Each player with exactly 13 life loses the game, then each player gains 1 "
 "life."
 msgstr ""
+"Każdy gracz mający dokładnie 13 żyć, przegrywa grę, po czym każdy gracz "
+"zyskuje po 1 życiu."
 
 #: ../../SIR.rst:883
 msgid ""
 "Each player with exactly 13 life loses the game, then each player loses 1 "
 "life."
 msgstr ""
+"Każdy gracz mający dokładnie 13 żyć, przegrywa grę, po czym każdy gracz "
+"traci po 1 życiu."
 
 #: ../../SIR.rst:892
 msgid ""
@@ -2665,7 +2880,7 @@ msgstr ""
 
 #: ../../SIR.rst:889
 msgid "Sacrifice three other creatures: Transform Voldaren Pariah."
-msgstr ""
+msgstr "Poświęć trzy inne stwory: Transformuj tego stwora."
 
 #: ../../SIR.rst:891
 msgid ""
@@ -2673,6 +2888,9 @@ msgid ""
 "into exile. When you do, cast it for its madness cost or put it into your "
 "graveyard.)"
 msgstr ""
+"Szaleństwo |mana_b|\\ |mana_b|\\ |mana_b| (Odrzucając tę kartę odrzuć ją na "
+"wygnanie. Jeśli tak zrobisz, zagraj ją za jej koszt szaleństwa albo umieść "
+"ją w twoim cmentarzu.)"
 
 #: ../../SIR.rst:898
 msgid ""
@@ -2683,16 +2901,12 @@ msgid ""
 msgstr ""
 
 #: ../../SIR.rst:897
-#, fuzzy
-#| msgid ""
-#| "When this creature transforms into Awoken Horror, return all non-Horror "
-#| "creatures to their owners' hands."
 msgid ""
 "When this creature transforms into Abolisher of Bloodlines, target opponent "
 "sacrifices three creatures."
 msgstr ""
-"Kiedy ten stwór transformuje w tę formę, przywróć wszystkie stwory bez typu "
-"Horror do rąk ich właścicieli."
+"Kiedy ten stwór transformuje w tę formę, wskazany przeciwnik poświęca trzy "
+"stwory."
 
 #: ../../SIR.rst:902
 msgid ""
@@ -2710,7 +2924,7 @@ msgstr ""
 
 #: ../../SIR.rst:905
 msgid "Alchemist's Greeting deals 4 damage to target creature."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu stworowi 4 obrażenia."
 
 #: ../../SIR.rst:907 ../../SIR.rst:935 ../../SIR.rst:1151
 msgid ""
@@ -2718,6 +2932,9 @@ msgid ""
 "exile. When you do, cast it for its madness cost or put it into your "
 "graveyard.)"
 msgstr ""
+"Szaleństwo |mana_1|\\ |mana_r| (Odrzucając tę kartę odrzuć ją na wygnanie. "
+"Jeśli tak zrobisz, rzuć ją za jej koszt szaleństwa albo umieść ją w twoim "
+"cmentarzu.)"
 
 #: ../../SIR.rst:912
 msgid ""
@@ -2732,6 +2949,8 @@ msgid ""
 "Alphas deals 3 damage to that creature and 3 damage to that creature's "
 "controller."
 msgstr ""
+"Ilekroć ten stwór blokuje lub zostanie zablokowany przez stwora, zadaje on "
+"owemu stworowi 3 obrażenia oraz 3 obrażenia władcy owego stwora."
 
 #: ../../SIR.rst:918
 msgid ""
@@ -2746,6 +2965,9 @@ msgid ""
 "exile. When you do, cast it for its madness cost or put it into your "
 "graveyard.)"
 msgstr ""
+"Szaleństwo |mana_x|\\ |mana_r| (Odrzucając tę kartę odrzuć ją na wygnanie. "
+"Jeśli tak zrobisz, rzuć ją za jej koszt szaleństwa albo umieść ją w twoim "
+"cmentarzu.)"
 
 #: ../../SIR.rst:917
 msgid ""
@@ -2753,6 +2975,9 @@ msgid ""
 "targets. If this spell's madness cost was paid, it deals X damage divided as "
 "you choose among those permanents and/or players instead."
 msgstr ""
+"Ten czar zadaje 2 obrażenia rozdzielone dowolnie pomiędzy dowolną liczbę "
+"wskazanych celów. Jeśli opłacono koszt szaleństwa tego czaru, zamiast tego "
+"zadaje on X obrażeń rozdzielonych dowolnie pomiędzy owe cele."
 
 #: ../../SIR.rst:926
 msgid ""
@@ -2766,16 +2991,20 @@ msgid ""
 "This spell costs |mana_1| less to cast for each instant and sorcery card in "
 "your graveyard."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_1| mniej za każdą kartę sztuczki lub "
+"obrzędu w twoim cmentarzu."
 
 #: ../../SIR.rst:923
 msgid "Prowess"
-msgstr ""
+msgstr "Waleczność"
 
 #: ../../SIR.rst:925
 msgid ""
 "When Bedlam Reveler enters the battlefield, discard your hand, then draw "
 "three cards."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, odrzuć twoją rękę, po czym dobierz trzy "
+"karty."
 
 #: ../../SIR.rst:930
 msgid ""
@@ -2789,6 +3018,8 @@ msgid ""
 "At the beginning of combat on your turn, target creature you control gains "
 "double strike until end of turn."
 msgstr ""
+"Na początku potyczki w twojej turze, wskazany stwór pod twoim władaniem "
+"zyskuje podwójny cios do końca tury."
 
 #: ../../SIR.rst:936
 msgid ""
@@ -2802,6 +3033,8 @@ msgid ""
 "Whenever Bloodmad Vampire deals combat damage to a player, put a +1/+1 "
 "counter on it."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, umieść na nim znacznik +1/"
+"+1."
 
 #: ../../SIR.rst:946
 msgid ""
@@ -2813,15 +3046,15 @@ msgstr ""
 #: ../../SIR.rst:939
 msgid ""
 "Escalate |mana_3| (Pay this cost for each mode chosen beyond the first.)"
-msgstr ""
+msgstr "Eskalacja |mana_3| (Opłać ten koszt za każdy dodatkowo wybrany tryb.)"
 
 #: ../../SIR.rst:943
 msgid "Target creature gets +3/+0 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór do końca tury dostaje +3/+0."
 
 #: ../../SIR.rst:945
 msgid "Target creature gains first strike until end of turn."
-msgstr ""
+msgstr "Wskazany stwór zyskuje pierwszy cios do końca tury."
 
 #: ../../SIR.rst:950
 msgid ""
@@ -2836,6 +3069,9 @@ msgid ""
 "this way, it loses indestructible until end of turn. If that creature would "
 "die this turn, exile it instead."
 msgstr ""
+"Ten czar zadaje wskazanemu celowi X obrażeń. Jeśli stwór otrzyma obrażenia w "
+"ten sposób, traci on do końca tury niezniszczalność. Jeśli ów stwór miałby "
+"umrzeć w tej turze, zamiast tego wygnaj go."
 
 #: ../../SIR.rst:962
 msgid ""
@@ -2847,21 +3083,23 @@ msgstr ""
 #: ../../SIR.rst:953
 msgid ""
 "Escalate |mana_1| (Pay this cost for each mode chosen beyond the first.)"
-msgstr ""
+msgstr "Eskalacja |mana_1| (Opłać ten koszt za każdy dodatkowo wybrany tryb.)"
 
 #: ../../SIR.rst:957
 msgid ""
 "Target player discards all the cards in their hand, then draws that many "
 "cards."
 msgstr ""
+"Wskazany gracz odrzuca wszystkie karty ze swojej ręki, po czym dobiera tyle "
+"samo kart."
 
 #: ../../SIR.rst:959
 msgid "Collective Defiance deals 4 damage to target creature."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu stworowi 4 obrażenia."
 
 #: ../../SIR.rst:961
 msgid "Collective Defiance deals 3 damage to target opponent or planeswalker."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu przeciwnikowi lub wędrowcowi 3 obrażenia."
 
 #: ../../SIR.rst:968
 msgid ""
@@ -2875,10 +3113,12 @@ msgid ""
 "Whenever Conduit of Storms attacks, add |mana_r| at the beginning of your "
 "next main phase this turn."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, weź |mana_r| na początku twojej najbliższej "
+"fazy głównej w tej turze."
 
 #: ../../SIR.rst:967
 msgid "|mana_3|\\ |mana_r|\\ |mana_r|: Transform Conduit of Storms."
-msgstr ""
+msgstr "|mana_3|\\ |mana_r|\\ |mana_r|: Transformuj tego stwora."
 
 #: ../../SIR.rst:972
 msgid ""
@@ -2892,6 +3132,8 @@ msgid ""
 "Whenever Conduit of Emrakul attacks, add |colorless|\\ |colorless| at the "
 "beginning of your next main phase this turn."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, weź |colorless|\\ |colorless| na początku "
+"twojej najbliższej fazy głównej w tej turze."
 
 #: ../../SIR.rst:976
 msgid ""
@@ -2912,6 +3154,8 @@ msgid ""
 "Create four 1/1 red Devil creature tokens. They have \"When this creature "
 "dies, it deals 1 damage to any target.\""
 msgstr ""
+"Stwórz cztery żetony czerwonego stwora Diabeł 1/1 mające \"Kiedy ten stwór "
+"umrze, zadaje on wskazanemu celowi 1 obrażenie.\""
 
 #: ../../SIR.rst:986
 msgid ""
@@ -2922,7 +3166,7 @@ msgstr ""
 
 #: ../../SIR.rst:985
 msgid "|mana_1|\\ |mana_r|: Ember-Eye Wolf gets +2/+0 until end of turn."
-msgstr ""
+msgstr "|mana_1|\\ |mana_r|: Ten stwór do końca tury dostaje +2/+0."
 
 #: ../../SIR.rst:990
 msgid ""
@@ -2938,6 +3182,10 @@ msgid ""
 "with madness, discard it into exile. When you do, cast it for its madness "
 "cost or put it into your graveyard.)"
 msgstr ""
+"Każda twoja karta stwora typu Wampir nie będąca na polu bitwy ma szaleństwo. "
+"Jej koszt szaleństwa jest równy jej kosztowi many. (Odrzucając kartę z "
+"szaleństwem, odrzuć ją na wygnanie. Jeśli tak zrobisz, rzuć ją za jej koszt "
+"szaleństwa albo umieść ją w twoim cmentarzu.)"
 
 #: ../../SIR.rst:996
 msgid ""
@@ -2948,13 +3196,15 @@ msgstr ""
 
 #: ../../SIR.rst:993
 msgid "Fiery Temper deals 3 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu celowi 3 obrażenia."
 
 #: ../../SIR.rst:995
 msgid ""
 "Madness |mana_r| (If you discard this card, discard it into exile. When you "
 "do, cast it for its madness cost or put it into your graveyard.)"
 msgstr ""
+"Szaleństwo |mana_r| (Odrzucając tę kartę odrzuć ją na wygnanie. Jeśli tak "
+"zrobisz, rzuć ją za jej koszt szaleństwa albo umieść ją w twoim cmentarzu.)"
 
 #: ../../SIR.rst:1002
 msgid ""
@@ -2969,6 +3219,9 @@ msgid ""
 "you control, you may have Flameblade Angel deal 1 damage to that source's "
 "controller."
 msgstr ""
+"Ilekroć źródło pod władaniem przeciwnika miałoby zadać obrażenia tobie lub "
+"bytom pod twoim władaniem, możesz sprawić, że niniejszy stwór zada władcy "
+"owego źródła 1 obrażenie."
 
 #: ../../SIR.rst:1008
 msgid ""
@@ -2980,13 +3233,15 @@ msgstr ""
 #: ../../SIR.rst:1005 ../../SIR.rst:1109 ../../SIR.rst:1147 ../../SIR.rst:1169
 #: ../../SIR.rst:1277 ../../SIR.rst:1289 ../../SIR.rst:1491
 msgid "Trample"
-msgstr ""
+msgstr "Tratowanie"
 
 #: ../../SIR.rst:1007
 msgid ""
 "At the beginning of combat on your turn, you may discard a card. If you do, "
 "Furyblade Vampire gets +3/+0 until end of turn."
 msgstr ""
+"Na początku potyczki w twojej turze, możesz odrzucić kartę. Jeśli tak "
+"zrobisz, ten stwór do końca tury dostaje +3/+0."
 
 #: ../../SIR.rst:1012
 msgid ""
@@ -3000,6 +3255,8 @@ msgid ""
 "Galvanic Bombardment deals X damage to target creature, where X is 2 plus "
 "the number of cards named Galvanic Bombardment in your graveyard."
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi X obrażeń, gdzie X jest liczbą kart o "
+"nazwie Galvanic Bombardment w twoim cmentarzu plus 2."
 
 #: ../../SIR.rst:1016
 msgid ""
@@ -3013,6 +3270,8 @@ msgid ""
 "At the beginning of each upkeep, if no spells were cast last turn, transform "
 "Gatstaf Arsonists."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli w poprzedniej turze nie rzucono "
+"czarów, transformuj tego stwora."
 
 #: ../../SIR.rst:1022
 msgid ""
@@ -3026,6 +3285,8 @@ msgid ""
 "At the beginning of each upkeep, if a player cast two or more spells last "
 "turn, transform Gatstaf Ravagers."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli w poprzedniej turze któryś gracz "
+"rzucił co najmniej dwa czary, transformuj tego stwora."
 
 #: ../../SIR.rst:1028
 msgid ""
@@ -3039,6 +3300,8 @@ msgid ""
 "At the beginning of each upkeep, if no spells were cast last turn, transform "
 "Geier Reach Bandit."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli w poprzedniej turze nie rzucono "
+"czarów, transformuj tego stwora."
 
 #: ../../SIR.rst:1034
 msgid ""
@@ -3048,22 +3311,20 @@ msgid ""
 msgstr ""
 
 #: ../../SIR.rst:1031
-#, fuzzy
-#| msgid ""
-#| "Whenever an Equipment enters the battlefield under your control, you may "
-#| "attach it to target creature you control."
 msgid ""
 "Whenever a Werewolf enters the battlefield under your control, you may "
 "transform it."
 msgstr ""
-"Ilekroć Wyposażenie wejdzie na pole bitwy pod twoim władaniem, możesz "
-"dołączyć je do wskazanego stwora pod twoim władaniem."
+"Ilekroć Wilkołak wejdzie na pole bitwy pod twoim władaniem, możesz go "
+"transformować."
 
 #: ../../SIR.rst:1033
 msgid ""
 "At the beginning of each upkeep, if a player cast two or more spells last "
 "turn, transform Vildin-Pack Alpha."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli w poprzedniej turze któryś gracz "
+"rzucił co najmniej dwa czary, transformuj tego stwora."
 
 #: ../../SIR.rst:1042
 msgid ""
@@ -3074,19 +3335,23 @@ msgstr ""
 
 #: ../../SIR.rst:1037
 msgid "Flying, haste"
-msgstr ""
+msgstr "Latanie, pośpiech"
 
 #: ../../SIR.rst:1039
 msgid ""
 "If a source would deal damage to you, it deals double that damage to you "
 "instead."
 msgstr ""
+"Jeśli jakieś źródło miałoby zadać tobie obrażenia, zamiast tego zadaje ono "
+"dwukrotność owych obrażeń."
 
 #: ../../SIR.rst:1041
 msgid ""
 "If a source would deal damage to Goldnight Castigator, it deals double that "
 "damage to Goldnight Castigator instead."
 msgstr ""
+"Jeśli jakieś źródło miałoby zadać obrażenia temu stworowi, zamiast tego "
+"zadaje ono temu stworowi dwukrotność owych obrażeń."
 
 #: ../../SIR.rst:1048
 msgid ""
@@ -3100,10 +3365,12 @@ msgid ""
 "Whenever Hanweir Garrison attacks, create two 1/1 red Human creature tokens "
 "that are tapped and attacking."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, stwórz dwa przekręcone i atakujące żetony "
+"czerwonego stwora Człowiek 1/1."
 
 #: ../../SIR.rst:1047
 msgid "(Melds with Hanweir Battlements.)"
-msgstr ""
+msgstr "(Łączy się z Hanweir Battlements.)"
 
 #: ../../SIR.rst:1054
 msgid ""
@@ -3118,6 +3385,8 @@ msgid ""
 "Whenever Hanweir, the Writhing Township attacks, create two 3/2 colorless "
 "Eldrazi Horror creature tokens that are tapped and attacking."
 msgstr ""
+"Ilekroć ten stwór zaatakuje, stwórz dwa przekręcone i atakujące żetony "
+"bezkolorowego stwora Eldrazi Horror 3/2."
 
 #: ../../SIR.rst:1058
 msgid ""
@@ -3129,6 +3398,7 @@ msgstr ""
 #: ../../SIR.rst:1057
 msgid "Howlpack Wolf can't block unless you control another Wolf or Werewolf."
 msgstr ""
+"Ten stwór nie może blokować, chyba że władasz innym Wilkiem lub Wilkołakiem."
 
 #: ../../SIR.rst:1062
 msgid ""
@@ -3142,6 +3412,8 @@ msgid ""
 "Incendiary Flow deals 3 damage to any target. If a creature dealt damage "
 "this way would die this turn, exile it instead."
 msgstr ""
+"Ten czar zadaje wskazanemu celowi 3 obrażenia. Jeśli stwór uszkodzony w ten "
+"sposób miałby umrzeć w tej turze, zamiast tego wygnaj go."
 
 #: ../../SIR.rst:1068
 msgid ""
@@ -3152,7 +3424,7 @@ msgstr ""
 
 #: ../../SIR.rst:1065
 msgid "Insatiable Gorgers attacks each combat if able."
-msgstr ""
+msgstr "Ten stwór atakuje w każdej potyczce, jeśli może."
 
 #: ../../SIR.rst:1067
 msgid ""
@@ -3160,6 +3432,9 @@ msgid ""
 "exile. When you do, cast it for its madness cost or put it into your "
 "graveyard.)"
 msgstr ""
+"Szaleństwo |mana_3|\\ |mana_r| (Odrzucając tę kartę odrzuć ją na wygnanie. "
+"Jeśli tak zrobisz, rzuć ją za jej koszt szaleństwa albo umieść ją w twoim "
+"cmentarzu.)"
 
 #: ../../SIR.rst:1074
 msgid ""
@@ -3170,7 +3445,7 @@ msgstr ""
 
 #: ../../SIR.rst:1073
 msgid "Discard a card, Sacrifice Insolent Neonate: Draw a card."
-msgstr ""
+msgstr "Odrzuć kartę, poświęć tego stwora: Dobierz kartę."
 
 #: ../../SIR.rst:1080
 msgid ""
@@ -3183,10 +3458,11 @@ msgstr ""
 msgid ""
 "As an additional cost to cast this spell, discard a card or pay |mana_5|."
 msgstr ""
+"Jako dodatkowy koszt rzucenia tego czaru — odrzuć kartę lub zapłać |mana_5|."
 
 #: ../../SIR.rst:1079
 msgid "Lightning Axe deals 5 damage to target creature."
-msgstr ""
+msgstr "Ten czar zadaje wskazanemu stworowi 5 obrażeń."
 
 #: ../../SIR.rst:1086
 msgid ""
@@ -3197,7 +3473,7 @@ msgstr ""
 
 #: ../../SIR.rst:1085
 msgid "|tap|, Discard a card: Draw a card."
-msgstr ""
+msgstr "|tap|, odrzuć kartę: Dobierz kartę."
 
 #: ../../SIR.rst:1090
 msgid ""
@@ -3208,7 +3484,7 @@ msgstr ""
 
 #: ../../SIR.rst:1089
 msgid "Creatures without flying can't block this turn."
-msgstr ""
+msgstr "Stwory bez latania nie mogą blokować w tej turze."
 
 #: ../../SIR.rst:1094
 msgid ""
@@ -3222,6 +3498,9 @@ msgid ""
 "Make Mischief deals 1 damage to any target. Create a 1/1 red Devil creature "
 "token. It has \"When this creature dies, it deals 1 damage to any target.\""
 msgstr ""
+"Ten czar zadaje wskazanemu celowi 1 obrażenie. Stwórz żeton czerwonego "
+"stwora Diabeł 1/1 mający \"Kiedy ten stwór umrze, zadaje on wskazanemu "
+"celowi 1 obrażenie.\""
 
 #: ../../SIR.rst:1100
 msgid ""
@@ -3237,6 +3516,10 @@ msgid ""
 "they control that the spell could target. Each copy targets a different one "
 "of those creatures."
 msgstr ""
+"Ilekroć gracz rzuci czar sztuczki lub obrzędu wskazujący tylko tego stwora, "
+"ów gracz kopiuje ów czar za każdego innego stwora pod swoim władaniem, "
+"którego ów czar mógłby wskazywać. Każda kopia wskazuje innego z owych "
+"stworów."
 
 #: ../../SIR.rst:1106
 msgid ""
@@ -3247,13 +3530,15 @@ msgstr ""
 
 #: ../../SIR.rst:1103
 msgid "As an additional cost to cast this spell, discard X cards."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — odrzuć X kart."
 
 #: ../../SIR.rst:1105
 msgid ""
 "Nahiri's Wrath deals damage equal to the total mana value of the discarded "
 "cards to each of up to X target creatures and/or planeswalkers."
 msgstr ""
+"Ten czar zadaje każdemu z co najwyżej X wskazanych stworów i/lub wędrowców "
+"po tyle obrażeń, ile wynosi łączny skrót many odrzuconych kart."
 
 #: ../../SIR.rst:1112
 msgid ""
@@ -3263,16 +3548,12 @@ msgid ""
 msgstr ""
 
 #: ../../SIR.rst:1111
-#, fuzzy
-#| msgid ""
-#| "Whenever you cast an instant or sorcery spell, remove an ice counter from "
-#| "Thing in the Ice. Then if it has no ice counters on it, transform it."
 msgid ""
 "Whenever you cast an instant or sorcery spell, put a +1/+1 counter on Pyre "
 "Hound."
 msgstr ""
-"Ilekroć rzucisz czar sztuczki lub obrzędu, usuń znacznik lodu z tego stwora. "
-"Następnie jeśli nie ma on znaczników lodu, transformuj go."
+"Ilekroć rzucisz czar sztuczki lub obrzędu, umieść znacznik +1/+1 na tym "
+"stworze."
 
 #: ../../SIR.rst:1116
 msgid ""
@@ -3283,7 +3564,7 @@ msgstr ""
 
 #: ../../SIR.rst:1115
 msgid "Discard a card: Ravenous Bloodseeker gets +2/-2 until end of turn."
-msgstr ""
+msgstr "Odrzuć kartę: Ten stwór do końca tury dostaje +2/-2."
 
 #: ../../SIR.rst:1120
 msgid ""
@@ -3294,7 +3575,7 @@ msgstr ""
 
 #: ../../SIR.rst:1119
 msgid "Target creature gets +2/+1 and gains trample until end of turn."
-msgstr ""
+msgstr "Wskazany stwór do końca tury dostaje +2/+1 i tratowanie."
 
 #: ../../SIR.rst:1126
 msgid ""
@@ -3308,6 +3589,8 @@ msgid ""
 "Delirium — Scourge Wolf has double strike as long as there are four or more "
 "card types among cards in your graveyard."
 msgstr ""
+"Delirium — Ten stwór ma podwójny cios o ile w twoim cmentarzu są karty "
+"należące do co najmniej czterech typów kart."
 
 #: ../../SIR.rst:1130
 msgid ""
@@ -3321,6 +3604,9 @@ msgid ""
 "Return up to one target instant card and up to one target sorcery card from "
 "your graveyard to your hand, then discard a card. Exile Shreds of Sanity."
 msgstr ""
+"Przywróć co najwyżej jedną wskazaną kartę sztuczki i co najwyżej jedną "
+"wskazaną kartę obrzędu z twojego cmentarza do twojej ręki, po czym odrzuć "
+"kartę. Wygnaj niniejszy czar."
 
 #: ../../SIR.rst:1136
 msgid ""
@@ -3331,7 +3617,7 @@ msgstr ""
 
 #: ../../SIR.rst:1133
 msgid "Menace"
-msgstr ""
+msgstr "Złowrogość"
 
 #: ../../SIR.rst:1135
 msgid ""
@@ -3340,6 +3626,11 @@ msgid ""
 "Sin Prodder deals damage to that player equal to that card's mana value. "
 "Otherwise, put that card into your hand."
 msgstr ""
+"Na początku twojego kroku utrzymania ujawnij wierzchnią kartę twojej "
+"biblioteki. Którykolwiek przeciwnik może zdecydować, że umieścisz ją w swoim "
+"cmentarzu. Jeśli którykolwiek gracz tak zrobi, ten stwór zadaje owemu "
+"graczowi obrażenia równe skrótowi many owej karty. W przeciwnym razie umieść "
+"ową kartę w twojej ręce."
 
 #: ../../SIR.rst:1144
 msgid ""
@@ -3350,13 +3641,15 @@ msgstr ""
 
 #: ../../SIR.rst:1139
 msgid "Attacking creatures you control have first strike."
-msgstr ""
+msgstr "Atakujące stwory pod twoim władaniem mają pierwszy cios."
 
 #: ../../SIR.rst:1141
 msgid ""
 "Whenever a Vampire you control deals combat damage to a player, put a +1/+1 "
 "counter on it."
 msgstr ""
+"Ilekroć Wampir pod twoim władaniem zada graczowi obrażenia bojowe, umieść na "
+"nim znacznik +1/+1."
 
 #: ../../SIR.rst:1143
 msgid ""
@@ -3364,6 +3657,9 @@ msgid ""
 "exile. When you do, cast it for its madness cost or put it into your "
 "graveyard.)"
 msgstr ""
+"Szaleństwo |mana_2|\\ |mana_r| (Odrzucając tę kartę odrzuć ją na wygnanie. "
+"Jeśli tak zrobisz, rzuć ją za jej koszt szaleństwa albo umieść ją w twoim "
+"cmentarzu.)"
 
 #: ../../SIR.rst:1152
 msgid ""
@@ -3377,6 +3673,8 @@ msgid ""
 "Whenever Stromkirk Occultist deals combat damage to a player, exile the top "
 "card of your library. Until end of turn, you may play that card."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, wygnaj wierzchnią kartę "
+"twojej biblioteki. Do końca tury możesz zagrać ową kartę."
 
 #: ../../SIR.rst:1160
 msgid ""
@@ -3387,11 +3685,11 @@ msgstr ""
 
 #: ../../SIR.rst:1157
 msgid "|tap|: Thermo-Alchemist deals 1 damage to each opponent."
-msgstr ""
+msgstr "|tap|: Ten stwór zadaje każdemu przeciwnikowi po 1 obrażeniu."
 
 #: ../../SIR.rst:1159
 msgid "Whenever you cast an instant or sorcery spell, untap Thermo-Alchemist."
-msgstr ""
+msgstr "Ilekroć rzucisz czar sztuczki lub obrzędu, odkręć tego stwora."
 
 #: ../../SIR.rst:1166
 msgid ""
@@ -3402,7 +3700,7 @@ msgstr ""
 
 #: ../../SIR.rst:1163
 msgid "As an additional cost to cast this spell, discard a card."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — odrzuć kartę."
 
 #: ../../SIR.rst:1172
 msgid ""
@@ -3416,6 +3714,8 @@ msgid ""
 "|mana_3|\\ |mana_g|: Target attacking Wolf or Werewolf gains indestructible "
 "until end of turn."
 msgstr ""
+"|mana_3|\\ |mana_g|: Wskazany atakujący Wilk lub Wilkołak zyskuje "
+"niezniszczalność do końca tury."
 
 #: ../../SIR.rst:1176
 msgid ""
@@ -3429,6 +3729,8 @@ msgid ""
 "Target creature gets +1/+1 and gains double strike until end of turn. (It "
 "deals both first-strike and regular combat damage.)"
 msgstr ""
+"Wskazany stwór do końca tury dostaje +1/+1 oraz podwójny cios. (Zadaje "
+"obrażenia bojowe zarówno jako pierwszy cios oraz normalnie.)"
 
 #: ../../SIR.rst:1182
 msgid ""
@@ -3443,6 +3745,8 @@ msgid ""
 "At the beginning of each upkeep, if no spells were cast last turn, transform "
 "Village Messenger."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli w poprzedniej turze nie rzucono "
+"czarów, transformuj tego stwora."
 
 #: ../../SIR.rst:1188
 msgid ""
@@ -3457,6 +3761,8 @@ msgid ""
 "At the beginning of each upkeep, if a player cast two or more spells last "
 "turn, transform Moonrise Intruder."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli w poprzedniej turze któryś gracz "
+"rzucił co najmniej dwa czary, transformuj tego stwora."
 
 #: ../../SIR.rst:1192
 msgid ""
@@ -3470,6 +3776,8 @@ msgid ""
 "Untap target creature. It gets +2/+2 and gains reach until end of turn. (It "
 "can block creatures with flying.)"
 msgstr ""
+"Odkręć wskazanego stwora. Dostaje on do końca tury +2/+2 oraz zasięg. (Może "
+"blokować stwory z lataniem.)"
 
 #: ../../SIR.rst:1196
 msgid ""
@@ -3481,7 +3789,7 @@ msgstr ""
 #: ../../SIR.rst:1195
 msgid ""
 "Whenever you sacrifice another permanent, put a +1/+1 counter on Bloodbriar."
-msgstr ""
+msgstr "Ilekroć poświęcisz inny byt, umieść znacznik +1/+1 na tym stworze."
 
 #: ../../SIR.rst:1202
 msgid ""
@@ -3496,12 +3804,18 @@ msgid ""
 "investigate. (Create a Clue token. It's an artifact with \"|mana_2|, "
 "Sacrifice this artifact: Draw a card.\")"
 msgstr ""
+"Ilekroć ten stwór zada obrażenia co najmniej jednemu stworowi, dociekaj. ("
+"Stwórz żeton Wskazówki. To artefakt mający \"|mana_2|, poświęć ten artefakt: "
+"Dobierz kartę.\")"
 
 #: ../../SIR.rst:1201
 msgid ""
 "At the beginning of each end step, if you sacrificed three or more Clues "
 "this turn, you may put a creature card from your hand onto the battlefield."
 msgstr ""
+"Na początku każdego kroku końcowego, jeśli poświęciłeś co najmniej trzy "
+"Wskazówki w tej turze, możesz umieścić kartę stwora z twojej ręki na polu "
+"bitwy."
 
 #: ../../SIR.rst:1206
 msgid ""
@@ -3515,6 +3829,8 @@ msgid ""
 "When Byway Courier dies, investigate. (Create a Clue token. It's an artifact "
 "with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
+"Kiedy ten stwór umrze, dociekaj. (Stwórz żeton Wskazówki. To artefakt mający "
+"\"|mana_2|, poświęć ten artefakt: Dobierz kartę.\")"
 
 #: ../../SIR.rst:1210
 msgid ""
@@ -3528,6 +3844,8 @@ msgid ""
 "Target creature you control gets +1/+1 until end of turn. It deals damage "
 "equal to its power to target creature you don't control."
 msgstr ""
+"Wskazany stwór pod twoim władaniem do końca tury dostaje +1/+1. Zadaje on "
+"wskazanemu stworowi poza twoim władaniem obrażenia równe swojej sile."
 
 #: ../../SIR.rst:1214
 msgid ""
@@ -3542,6 +3860,9 @@ msgid ""
 "you control. (Create a Clue token. It's an artifact with \"|mana_2|, "
 "Sacrifice this artifact: Draw a card.\")"
 msgstr ""
+"Dociekaj, po czym wskazany stwór do końca tury dostaje +1/+1 za każdą "
+"Wskazówkę pod twoim władaniem. (Stwórz żeton Wskazówki. To artefakt mający \""
+"|mana_2|, poświęć ten artefakt: Dobierz kartę.\")"
 
 #: ../../SIR.rst:1220
 msgid ""
@@ -3552,13 +3873,16 @@ msgstr ""
 
 #: ../../SIR.rst:1217
 msgid "At the beginning of your upkeep, you may mill two cards."
-msgstr ""
+msgstr "Na początku twojego kroku utrzymania, możesz zmielić dwie karty."
 
 #: ../../SIR.rst:1219
 msgid ""
 "Whenever one or more land cards are put into your graveyard from anywhere "
 "for the first time each turn, create a 1/1 green Insect creature token."
 msgstr ""
+"Ilekroć po raz pierwszy w danej turze jedna lub więcej kart lądów zostanie "
+"umieszczonych skądkolwiek w twoim cmentarzu, stwórz żeton zielonego stwora "
+"Owad 1/1."
 
 #: ../../SIR.rst:1224
 msgid ""
@@ -3570,6 +3894,7 @@ msgstr ""
 #: ../../SIR.rst:1223
 msgid "Creatures you control have \"|tap|: Add one mana of any color.\""
 msgstr ""
+"Stwory pod twoim władaniem mają \"|tap|: Weź jedną manę dowolnego koloru.\""
 
 #: ../../SIR.rst:1230
 msgid ""
@@ -3580,13 +3905,15 @@ msgstr ""
 
 #: ../../SIR.rst:1227 ../../SIR.rst:1737
 msgid "|tap|: Add |mana_b| or |mana_g|."
-msgstr ""
+msgstr "|tap|: Weź |mana_b| lub |mana_g|."
 
 #: ../../SIR.rst:1229
 msgid ""
 "Delirium — Deathcap Cultivator has deathtouch as long as there are four or "
 "more card types among cards in your graveyard."
 msgstr ""
+"Delirium — Ten stwór ma dotyk śmierci o ile w twoim cmentarzu są karty "
+"należące do co najmniej czterech typów kart."
 
 #: ../../SIR.rst:1236
 msgid ""
@@ -3602,12 +3929,17 @@ msgid ""
 "reveal a creature card from among them and put it into your hand. Put the "
 "rest on the bottom of your library in any order."
 msgstr ""
+"|mana_2|\\ |mana_g|: Spójrz na trzy wierzchnie karty twojej biblioteki. "
+"Możesz ujawnić spośród nich kartę stwora i umieścić ją w twojej ręce. Umieść "
+"pozostałe na spodzie twojej biblioteki w dowolnej kolejności."
 
 #: ../../SIR.rst:1235
 msgid ""
 "At the beginning of each upkeep, if no spells were cast last turn, transform "
 "Duskwatch Recruiter."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli w poprzedniej turze nie rzucono "
+"czarów, transformuj tego stwora."
 
 #: ../../SIR.rst:1242
 msgid ""
@@ -3619,13 +3951,15 @@ msgstr ""
 
 #: ../../SIR.rst:1239
 msgid "Creature spells you cast cost |mana_1| less to cast."
-msgstr ""
+msgstr "Rzucanie czarów stworów kosztuje cię o |mana_1| mniej."
 
 #: ../../SIR.rst:1241
 msgid ""
 "At the beginning of each upkeep, if a player cast two or more spells last "
 "turn, transform Krallenhorde Howler."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli w poprzedniej turze któryś gracz "
+"rzucił co najmniej dwa czary, transformuj tego stwora."
 
 #: ../../SIR.rst:1248
 msgid ""
@@ -3636,7 +3970,7 @@ msgstr ""
 
 #: ../../SIR.rst:1245
 msgid "As an additional cost to cast this spell, sacrifice a creature."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru — poświęć stwora."
 
 #: ../../SIR.rst:1247
 msgid ""
@@ -3644,6 +3978,9 @@ msgid ""
 "is 2 plus the sacrificed creature's mana value. Put that card onto the "
 "battlefield, then shuffle. Exile Eldritch Evolution."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę stwora o skrócie many X lub mniejszym, "
+"gdzie X jest skrótem many poświęconego stwora plus 2. Umieść ową kartę na "
+"polu bitwy, po czym przetasuj. Wygnaj niniejszy czar."
 
 #: ../../SIR.rst:1254
 msgid ""
@@ -3654,13 +3991,15 @@ msgstr ""
 
 #: ../../SIR.rst:1251
 msgid "Deathtouch"
-msgstr ""
+msgstr "Dotyk śmierci"
 
 #: ../../SIR.rst:1253
 msgid ""
 "Delirium — Gnarlwood Dryad gets +2/+2 as long as there are four or more card "
 "types among cards in your graveyard."
 msgstr ""
+"Delirium — Ten stwór dostaje +2/+2 o ile w twoim cmentarzu są karty należące "
+"do przynajmniej czterech typów kart."
 
 #: ../../SIR.rst:1258
 msgid ""
@@ -3671,7 +4010,7 @@ msgstr ""
 
 #: ../../SIR.rst:1257
 msgid "Whenever you sacrifice a Clue, you gain 3 life."
-msgstr ""
+msgstr "Ilekroć poświęcisz Wskazówkę, zyskaj 3 życia."
 
 #: ../../SIR.rst:1262
 msgid ""
@@ -3685,6 +4024,8 @@ msgid ""
 "Mill three cards, then you may return a creature or land card from your "
 "graveyard to your hand."
 msgstr ""
+"Zmiel trzy karty, po czym możesz przywrócić kartę stwora lub lądu z twojego "
+"cmentarza do twojej ręki."
 
 #: ../../SIR.rst:1266
 msgid ""
@@ -3698,6 +4039,8 @@ msgid ""
 "|mana_1|\\ |mana_g|: Return target basic land card from your graveyard to "
 "your hand."
 msgstr ""
+"|mana_1|\\ |mana_g|: Przywróć wskazaną kartę bazowego lądu z twojego "
+"cmentarza do twojej ręki."
 
 #: ../../SIR.rst:1270
 msgid ""
@@ -3711,6 +4054,8 @@ msgid ""
 "Whenever Hamlet Captain attacks or blocks, other Humans you control get +1/"
 "+1 until end of turn."
 msgstr ""
+"Ilekroć ten stwór zaatakuje lub zablokuje, inne stwory typu Człowiek pod "
+"twoim władaniem dostają do końca tury +1/+1."
 
 #: ../../SIR.rst:1274
 msgid ""
@@ -3724,6 +4069,8 @@ msgid ""
 "At the beginning of each upkeep, if no spells were cast last turn, transform "
 "Hinterland Logger."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli w poprzedniej turze nie rzucono "
+"czarów, transformuj tego stwora."
 
 #: ../../SIR.rst:1280
 msgid ""
@@ -3737,6 +4084,8 @@ msgid ""
 "At the beginning of each upkeep, if a player cast two or more spells last "
 "turn, transform Timber Shredder."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli w poprzedniej turze któryś gracz "
+"rzucił co najmniej dwa czary, transformuj tego stwora."
 
 #: ../../SIR.rst:1286
 msgid ""
@@ -3750,6 +4099,8 @@ msgid ""
 "Each creature you control that's a Wolf or a Werewolf gets +1/+1 and has "
 "trample."
 msgstr ""
+"Każdy stwór pod twoim władaniem będący Wilkiem lub Wilkołakiem ostaje +1/+1 "
+"i ma tratowanie."
 
 #: ../../SIR.rst:1292
 msgid ""
@@ -3763,6 +4114,8 @@ msgid ""
 "When Intrepid Provisioner enters the battlefield, another target Human you "
 "control gets +2/+2 until end of turn."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, inny wskazany Człowiek pod twoim "
+"władaniem do końca tury dostaje +2/+2."
 
 #: ../../SIR.rst:1300
 msgid ""
@@ -3773,7 +4126,7 @@ msgstr ""
 
 #: ../../SIR.rst:1295 ../../SIR.rst:1307 ../../SIR.rst:1413
 msgid "Reach"
-msgstr ""
+msgstr "Zasięg"
 
 #: ../../SIR.rst:1297
 msgid ""
@@ -3781,12 +4134,17 @@ msgid ""
 "four or more card types among cards in your graveyard, create three 1/2 "
 "green Spider creature tokens with reach."
 msgstr ""
+"Delirium — Kiedy ten byt wejdzie na pole bitwy, jeśli w twoim cmentarzu są "
+"karty należące do przynajmniej czterech typów kart, stwórz trzy żetony "
+"zielonego stwora Pająk 1/2 z zasięgiem."
 
 #: ../../SIR.rst:1299
 msgid ""
 "|mana_6|\\ |mana_b|: Target opponent loses 1 life for each Spider you "
 "control."
 msgstr ""
+"|mana_6|\\ |mana_b|: Wskazany przeciwnik traci po 1 życiu za każdego Pająka "
+"pod twoim władaniem."
 
 #: ../../SIR.rst:1304
 msgid ""
@@ -3800,6 +4158,9 @@ msgid ""
 "Choose target creature you don't control. Each creature you control that's a "
 "Wolf or a Werewolf deals damage equal to its power to that creature."
 msgstr ""
+"Wybierz wskazanego stwora poza twoim władaniem. Każdy stwór pod twoim "
+"władaniem będący Wilkiem lub Wilkołakiem zadaje owemu stworowi obrażenia "
+"równe swojej sile."
 
 #: ../../SIR.rst:1310
 msgid ""
@@ -3810,7 +4171,7 @@ msgstr ""
 
 #: ../../SIR.rst:1309
 msgid "Discard a card: Noose Constrictor gets +1/+1 until end of turn."
-msgstr ""
+msgstr "Odrzuć kartę: Ten stwór do końca tury dostaje +1/+1."
 
 #: ../../SIR.rst:1316
 msgid ""
@@ -3820,13 +4181,12 @@ msgid ""
 msgstr ""
 
 #: ../../SIR.rst:1313
-#, fuzzy
-#| msgid ""
-#| "Thing in the Ice enters the battlefield with four ice counters on it."
 msgid ""
 "When Obsessive Skinner enters the battlefield, put a +1/+1 counter on target "
 "creature."
-msgstr "Ten stwór wchodzi na pole bitwy mając cztery znaczniki lodu."
+msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, umieść znacznik +1/+1 na wskazanym "
+"stworze."
 
 #: ../../SIR.rst:1315
 msgid ""
@@ -3834,6 +4194,9 @@ msgid ""
 "more card types among cards in your graveyard, put a +1/+1 counter on target "
 "creature."
 msgstr ""
+"Delirium — Na początku kroku utrzymania każdego przeciwnika, jeśli w twoim "
+"cmentarzu są karty należące do co najmniej czterech typów kart, umieść "
+"znacznik +1/+1na wskazanym stworze."
 
 #: ../../SIR.rst:1322
 msgid ""
@@ -3847,6 +4210,8 @@ msgid ""
 "When Pack Guardian enters the battlefield, you may discard a land card. If "
 "you do, create a 2/2 green Wolf creature token."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, możesz odrzucić kartę lądu. Jeśli tak "
+"zrobisz, stwórz żeton zielonego stwora Wilk 2/2."
 
 #: ../../SIR.rst:1326
 msgid ""
@@ -3860,6 +4225,8 @@ msgid ""
 "Whenever Permeating Mass deals combat damage to a creature, that creature "
 "becomes a copy of Permeating Mass."
 msgstr ""
+"Ilekroć ten stwór zada stworowi obrażenia bojowe, ów stwór staje się kopią "
+"niniejszego stwora."
 
 #: ../../SIR.rst:1330
 msgid ""
@@ -3869,16 +4236,12 @@ msgid ""
 msgstr ""
 
 #: ../../SIR.rst:1329
-#, fuzzy
-#| msgid ""
-#| "Whenever an Equipment enters the battlefield under your control, you may "
-#| "attach it to target creature you control."
 msgid ""
 "Target creature you control deals damage equal to its power to target "
 "creature you don't control."
 msgstr ""
-"Ilekroć Wyposażenie wejdzie na pole bitwy pod twoim władaniem, możesz "
-"dołączyć je do wskazanego stwora pod twoim władaniem."
+"Wskazany stwór pod twoim władaniem zadaje obrażenia równe swojej sile "
+"wskazanemu stworowi poza twoim władaniem."
 
 #: ../../SIR.rst:1338
 msgid ""
@@ -3891,17 +4254,19 @@ msgstr ""
 msgid ""
 "Sage of Ancient Lore's power and toughness are each equal to the number of "
 "cards in your hand."
-msgstr ""
+msgstr "Siła i wytrzymałość tej karty są obie równe liczbie kart w twojej ręce."
 
 #: ../../SIR.rst:1335
 msgid "When Sage of Ancient Lore enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../SIR.rst:1337
 msgid ""
 "At the beginning of each upkeep, if no spells were cast last turn, transform "
 "Sage of Ancient Lore."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli w poprzedniej turze nie rzucono "
+"czarów, transformuj tego stwora."
 
 #: ../../SIR.rst:1346
 msgid ""
@@ -3913,19 +4278,23 @@ msgstr ""
 
 #: ../../SIR.rst:1341
 msgid "Vigilance, trample"
-msgstr ""
+msgstr "Czujność, tratowanie"
 
 #: ../../SIR.rst:1343
 msgid ""
 "Werewolf of Ancient Hunger's power and toughness are each equal to the total "
 "number of cards in all players' hands."
 msgstr ""
+"Siła i wytrzymałość tej karty są obie równe liczbie kart w rękach wszystkich "
+"graczy."
 
 #: ../../SIR.rst:1345
 msgid ""
 "At the beginning of each upkeep, if a player cast two or more spells last "
 "turn, transform Werewolf of Ancient Hunger."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli w poprzedniej turze któryś gracz "
+"rzucił co najmniej dwa czary, transformuj tego stwora."
 
 #: ../../SIR.rst:1350
 msgid ""
@@ -3939,6 +4308,8 @@ msgid ""
 "Return any number of cards with different mana values from your graveyard to "
 "your hand. Put Seasons Past on the bottom of its owner's library."
 msgstr ""
+"Przywróć dowolną liczbę kart o różnych skrótach many z twojego cmentarza do "
+"twojej ręki. Umieść ten czar na spodzie biblioteki właściciela."
 
 #: ../../SIR.rst:1354
 msgid ""
@@ -3950,7 +4321,7 @@ msgstr ""
 #: ../../SIR.rst:1353
 msgid ""
 "For each token you control, create a token that's a copy of that permanent."
-msgstr ""
+msgstr "Dla każdego żetonu pod twoim władaniem, stwórz żeton będący jego kopią."
 
 #: ../../SIR.rst:1360
 msgid ""
@@ -3961,11 +4332,11 @@ msgstr ""
 
 #: ../../SIR.rst:1357
 msgid "Creatures with power less than Shrill Howler's power can't block it."
-msgstr ""
+msgstr "Stwory o sile mniejszej niż siła tego stwora nie mogą go blokować."
 
 #: ../../SIR.rst:1359
 msgid "|mana_5|\\ |mana_g|: Transform Shrill Howler."
-msgstr ""
+msgstr "|mana_5|\\ |mana_g|: Transformuj tego stwora."
 
 #: ../../SIR.rst:1366
 msgid ""
@@ -3976,13 +4347,15 @@ msgstr ""
 
 #: ../../SIR.rst:1363
 msgid "Creatures with power less than Howling Chorus's power can't block it."
-msgstr ""
+msgstr "Stwory o sile mniejszej niż siła tego stwora nie mogą go blokować."
 
 #: ../../SIR.rst:1365
 msgid ""
 "Whenever Howling Chorus deals combat damage to a player, create a 3/2 "
 "colorless Eldrazi Horror creature token."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, stwórz żeton bezkolorowego "
+"stwora Eldrazi Horror 3/2."
 
 #: ../../SIR.rst:1372
 msgid ""
@@ -3996,6 +4369,8 @@ msgid ""
 "When Spirit of the Hunt enters the battlefield, each other creature you "
 "control that's a Wolf or a Werewolf gets +0/+3 until end of turn."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, każdy inny stwór pod twoim władaniem "
+"będący Wilkiem lub Wilkołakiem do końca tury dostaje +0/+3."
 
 #: ../../SIR.rst:1376
 msgid ""
@@ -4007,6 +4382,7 @@ msgstr ""
 #: ../../SIR.rst:1375
 msgid "Return all land cards from your graveyard to the battlefield tapped."
 msgstr ""
+"Przywróć wszystkie karty lądów z twojego cmentarza przekręcone na pole bitwy."
 
 #: ../../SIR.rst:1382
 msgid ""
@@ -4016,13 +4392,8 @@ msgid ""
 msgstr ""
 
 #: ../../SIR.rst:1381
-#, fuzzy
-#| msgid ""
-#| "Menace (This creature can't be blocked except by two or more creatures.)"
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr ""
-"Złowrogość (Ten stwór nie może być blokowany, chyba że przez co najmniej dwa "
-"stwory.)"
+msgstr "Zasięg (Ten stwór może blokować stwory mające latanie.)"
 
 #: ../../SIR.rst:1384
 msgid ""
@@ -4044,10 +4415,13 @@ msgid ""
 "investigate. (Create a Clue token. It's an artifact with \"|mana_2|, "
 "Sacrifice this artifact: Draw a card.\")"
 msgstr ""
+"Lądowanie — Ilekroć ląd wejdzie na pole bitwy pod twoim władaniem, dociekaj. "
+"(Stwórz żeton Wskazówki. To artefakt mający \"|mana_2|, poświęć ten artefakt:"
+" Dobierz kartę.\")"
 
 #: ../../SIR.rst:1391
 msgid "Whenever you sacrifice a Clue, put a +1/+1 counter on Tireless Tracker."
-msgstr ""
+msgstr "Ilekroć poświęcisz Wskazówkę, umieść znacznik +1/+1 na tym stworze."
 
 #: ../../SIR.rst:1398
 msgid ""
@@ -4061,6 +4435,8 @@ msgid ""
 "Search your library for a basic land card, reveal it, put it into your hand, "
 "then shuffle."
 msgstr ""
+"Wyszukaj w twojej bibliotece kartę bazowego lądu, ujawnij ją i umieść w "
+"twojej ręce, po czym przetasuj."
 
 #: ../../SIR.rst:1397
 msgid ""
@@ -4068,6 +4444,9 @@ msgid ""
 "graveyard, instead search your library for a creature or land card, reveal "
 "it, put it into your hand, then shuffle."
 msgstr ""
+"Delirium — Jeśli w twoim cmentarzu są karty należące do co najmniej czterech "
+"typów kart, zamiast tego wyszukaj w twojej bibliotece kartę stwora lub lądu, "
+"ujawnij ją, umieść ją w twojej ręce, po czym przetasuj."
 
 #: ../../SIR.rst:1406
 msgid ""
@@ -4078,11 +4457,11 @@ msgstr ""
 
 #: ../../SIR.rst:1403
 msgid "|tap|: Add |mana_g|."
-msgstr ""
+msgstr "|tap|: Weź |mana_g|."
 
 #: ../../SIR.rst:1405
 msgid "|mana_5|\\ |mana_g|\\ |mana_g|: Transform Ulvenwald Captive."
-msgstr ""
+msgstr "|mana_5|\\ |mana_g|\\ |mana_g|: Transformuj tego stwora."
 
 #: ../../SIR.rst:1410
 msgid ""
@@ -4093,7 +4472,7 @@ msgstr ""
 
 #: ../../SIR.rst:1409
 msgid "|tap|: Add |colorless|\\ |colorless|."
-msgstr ""
+msgstr "|tap|: Weź |colorless|\\ |colorless|."
 
 #: ../../SIR.rst:1418
 msgid ""
@@ -4107,12 +4486,16 @@ msgid ""
 "Ulvenwald Hydra's power and toughness are each equal to the number of lands "
 "you control."
 msgstr ""
+"Siła i wytrzymałość tej karty są obie równe liczbie lądów pod twoim "
+"władaniem."
 
 #: ../../SIR.rst:1417
 msgid ""
 "When Ulvenwald Hydra enters the battlefield, you may search your library for "
 "a land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, możesz wyszukać w twojej bibliotece "
+"kartę lądu, umieść ją przekręconą na polu bitwy, po czym przetasuj."
 
 #: ../../SIR.rst:1424
 msgid ""
@@ -4127,12 +4510,17 @@ msgid ""
 "token. It's an artifact with \"|mana_2|, Sacrifice this artifact: Draw a "
 "card.\")"
 msgstr ""
+"Ilekroć umrze nieżetonowy stwór pod twoim władaniem, dociekaj. (Stwórz żeton "
+"Wskazówki. To artefakt mający \"|mana_2|, poświęć ten artefakt: Dobierz "
+"kartę.\")"
 
 #: ../../SIR.rst:1423
 msgid ""
 "Whenever you sacrifice a Clue, create a 1/1 white Human Soldier creature "
 "token."
 msgstr ""
+"Ilekroć poświęcisz Wskazówkę, stwórz żeton białego stwora Człowiek Piechur 1/"
+"1."
 
 #: ../../SIR.rst:1428
 msgid ""
@@ -4148,6 +4536,9 @@ msgid ""
 "planeswalker card from among them into your hand. Put the rest into your "
 "graveyard."
 msgstr ""
+"|mana_1|\\ |mana_g|, poświęć ten urok: Ujawnij cztery wierzchnie karty "
+"twojej biblioteki. Możesz umieścić spośród nich kartę artefaktu, stwora, "
+"uroku, lądu lub wędrowca w twojej ręce. Umieść pozostałe w twoim cmentarzu."
 
 #: ../../SIR.rst:1432
 msgid ""
@@ -4160,6 +4551,7 @@ msgstr ""
 msgid ""
 "|mana_3|\\ |mana_w|: Target Human gains double strike until end of turn."
 msgstr ""
+"|mana_3|\\ |mana_w|: Wskazany Człowiek zyskuje podwójny cios do końca tury."
 
 #: ../../SIR.rst:1440
 msgid ""
@@ -4170,7 +4562,7 @@ msgstr ""
 
 #: ../../SIR.rst:1435
 msgid "Enchant land"
-msgstr ""
+msgstr "Zaurocz ląd"
 
 #: ../../SIR.rst:1437
 msgid ""
@@ -4178,10 +4570,12 @@ msgid ""
 "token. It's an artifact with \"|mana_2|, Sacrifice this artifact: Draw a "
 "card.\")"
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, dociekaj. (Stwórz żeton Wskazówki. To "
+"artefakt mający \"|mana_2|, poświęć ten artefakt: Dobierz kartę.\")"
 
 #: ../../SIR.rst:1439
 msgid "Enchanted land has \"|tap|: Add two mana of any one color.\""
-msgstr ""
+msgstr "Zauroczony ląd ma \"|tap|: Weź dwie many w dowolnym jednym kolorze.\""
 
 #: ../../SIR.rst:1448
 msgid ""
@@ -4195,6 +4589,7 @@ msgid ""
 "When Wolfkin Bond enters the battlefield, create a 2/2 green Wolf creature "
 "token."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, stwórz żeton zielonego stwora Wilk 2/2."
 
 #: ../../SIR.rst:1454
 msgid ""
@@ -4205,13 +4600,15 @@ msgstr ""
 
 #: ../../SIR.rst:1451
 msgid "This spell can't be countered."
-msgstr ""
+msgstr "Ten czar nie może być skontrowany."
 
 #: ../../SIR.rst:1453
 msgid ""
 "You may have Altered Ego enter the battlefield as a copy of any creature on "
 "the battlefield, except it enters with X additional +1/+1 counters on it."
 msgstr ""
+"Możesz sprawić, że ten byt wejdzie na pole bitwy jako kopia dowolnego stwora "
+"na polu bitwy z tą różnicą, że wejdzie mając X znaczników +1/+1."
 
 #: ../../SIR.rst:1458
 msgid ""
@@ -4222,7 +4619,7 @@ msgstr ""
 
 #: ../../SIR.rst:1457
 msgid "Exile target nonland permanent. You lose 3 life."
-msgstr ""
+msgstr "Wygnaj wskazany nie-lądowy byt. Strać 3 życia."
 
 #: ../../SIR.rst:1464
 msgid ""
@@ -4237,10 +4634,13 @@ msgid ""
 "+1: Until end of turn, up to one target creature gets +2/+2 and gains "
 "vigilance and haste."
 msgstr ""
+"+1: Do końca tury, co najwyżej jeden wskazany stwór dostaje +2/+2 oraz "
+"czujność i pośpiech."
 
 #: ../../SIR.rst:1463
 msgid "0: Create a 2/2 green Wolf creature token. Transform Arlinn Kord."
 msgstr ""
+"0: Stwórz dwa żetony zielonego stwora Wilk 2/2. Transformuj tego wędrowca."
 
 #: ../../SIR.rst:1472
 msgid ""
@@ -4253,18 +4653,24 @@ msgstr ""
 #: ../../SIR.rst:1467
 msgid "+1: Creatures you control get +1/+1 and gain trample until end of turn."
 msgstr ""
+"+1: Stwory pod twoim władaniem dostają do końca tury +1/+1 oraz tratowanie."
 
 #: ../../SIR.rst:1469
 msgid ""
 "−1: Arlinn, Embraced by the Moon deals 3 damage to any target. Transform "
 "Arlinn, Embraced by the Moon."
 msgstr ""
+"–1: Ten wędrowiec zadaje wskazanemu celowi 3 obrażenia. Transformuj tego "
+"wędrowca."
 
 #: ../../SIR.rst:1471
 msgid ""
 "−6: You get an emblem with \"Creatures you control have haste and '|tap|: "
 "This creature deals damage equal to its power to any target.'\""
 msgstr ""
+"–6: Dostajesz emblemat mający \"Stwory pod twoim władaniem mają pośpiech "
+"oraz '|tap|: Ten stwór zadaje wskazanemu celowi obrażenia równe swojej sile.'"
+"\""
 
 #: ../../SIR.rst:1478
 msgid ""
@@ -4278,6 +4684,8 @@ msgid ""
 "Whenever Bloodhall Priest enters the battlefield or attacks, if you have no "
 "cards in hand, Bloodhall Priest deals 2 damage to any target."
 msgstr ""
+"Ilekroć ten byt wejdzie na pole bitwy lub zaatakuje, jeśli nie masz kart w "
+"ręce, ten stwór zadaje wskazanemu celowi 2 obrażenia."
 
 #: ../../SIR.rst:1477
 msgid ""
@@ -4285,6 +4693,9 @@ msgid ""
 "into exile. When you do, cast it for its madness cost or put it into your "
 "graveyard.)"
 msgstr ""
+"Szaleństwo |mana_1|\\ |mana_b|\\ |mana_r| (Odrzucając tę kartę odrzuć ją na "
+"wygnanie. Jeśli tak zrobisz, zagraj ją za jej koszt szaleństwa albo umieść "
+"ją w twoim cmentarzu.)"
 
 #: ../../SIR.rst:1482
 msgid ""
@@ -4299,6 +4710,9 @@ msgid ""
 "player is your opponent and has four or more cards in hand, Fevered Visions "
 "deals 2 damage to that player."
 msgstr ""
+"Na początku kroku końcowego każdego gracza ów gracz dobiera kartę. Jeśli ów "
+"gracz jest twoim przeciwnikiem i ma co najmniej cztery karty w ręce, ten "
+"urok zadaje owemu graczowi 2 obrażenia."
 
 #: ../../SIR.rst:1488
 msgid ""
@@ -4308,17 +4722,16 @@ msgid ""
 msgstr ""
 
 #: ../../SIR.rst:1485
-#, fuzzy
-#| msgid ""
-#| "Thing in the Ice enters the battlefield with four ice counters on it."
 msgid "When Gisa and Geralf enters the battlefield, mill four cards."
-msgstr "Ten stwór wchodzi na pole bitwy mając cztery znaczniki lodu."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, zmiel cztery karty."
 
 #: ../../SIR.rst:1487
 msgid ""
 "Once during each of your turns, you may cast a Zombie creature spell from "
 "your graveyard."
 msgstr ""
+"Raz na każdą z twoich tur możesz rzucić czar stwora typu Zombi z twojego "
+"cmentarza."
 
 #: ../../SIR.rst:1496
 msgid ""
@@ -4333,12 +4746,17 @@ msgid ""
 "the top three cards of your library, then put any number of them into your "
 "graveyard and the rest on top of your library in any order.)"
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bojowe, szpieguj 3. (Spójrz na "
+"trzy wierzchnie karty twojej biblioteki, po czym umieść dowolne z nich w "
+"twoim cmentarzu, a pozostałe dowolnie na wierzchu twojej biblioteki.)"
 
 #: ../../SIR.rst:1495
 msgid ""
 "Delirium — Grim Flayer gets +2/+2 as long as there are four or more card "
 "types among cards in your graveyard."
 msgstr ""
+"Delirium — Ten stwór dostaje +2/+2 o ile w twoim cmentarzu są karty należące "
+"do przynajmniej czterech typów kart."
 
 #: ../../SIR.rst:1504
 msgid ""
@@ -4352,6 +4770,8 @@ msgid ""
 "When Heron's Grace Champion enters the battlefield, other Humans you control "
 "get +1/+1 and gain lifelink until end of turn."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, pozostałe stwory typu Człowiek pod "
+"twoim władaniem dostają do końca tury +1/+1 oraz więź życia."
 
 #: ../../SIR.rst:1510
 msgid ""
@@ -4361,16 +4781,12 @@ msgid ""
 msgstr ""
 
 #: ../../SIR.rst:1509
-#, fuzzy
-#| msgid ""
-#| "Whenever you cast an instant or sorcery spell, remove an ice counter from "
-#| "Thing in the Ice. Then if it has no ice counters on it, transform it."
 msgid ""
 "Whenever you cast an instant or sorcery spell, Mercurial Geists gets +3/+0 "
 "until end of turn."
 msgstr ""
-"Ilekroć rzucisz czar sztuczki lub obrzędu, usuń znacznik lodu z tego stwora. "
-"Następnie jeśli nie ma on znaczników lodu, transformuj go."
+"Ilekroć rzucisz czar sztuczki lub obrzędu, ten stwór do końca tury dostaje +"
+"3/+0."
 
 #: ../../SIR.rst:1516
 msgid ""
@@ -4385,6 +4801,9 @@ msgid ""
 "more card types among cards in your graveyard, creatures with power 2 or "
 "less can't block this turn."
 msgstr ""
+"Delirium — Kiedy ten byt wejdzie na pole bitwy, jeśli w twoim cmentarzu są "
+"karty należące do przynajmniej czterech typów kart, stwory o sile 2 lub "
+"mniejszej nie mogą blokować w tej turze."
 
 #: ../../SIR.rst:1524
 msgid ""
@@ -4395,11 +4814,12 @@ msgstr ""
 
 #: ../../SIR.rst:1519
 msgid "+2: You may discard a card. If you do, draw a card."
-msgstr ""
+msgstr "+2: Możesz odrzucić kartę. Jeśli tak zrobisz, dobierz kartę."
 
 #: ../../SIR.rst:1521
 msgid "−2: Exile target enchantment, tapped artifact, or tapped creature."
 msgstr ""
+"–2: Wygnaj wskazany urok, przekręcony artefakt lub przekręconego stwora."
 
 #: ../../SIR.rst:1523
 msgid ""
@@ -4407,6 +4827,9 @@ msgid ""
 "battlefield, then shuffle. It gains haste. Return it to your hand at the "
 "beginning of the next end step."
 msgstr ""
+"–8: Wyszukaj w twojej bibliotece kartę artefaktu lub stwora, umieść ją na "
+"polu bitwy, po czym przetasuj. Zyskuje ona pośpiech. Przywróć ją do twojej "
+"ręki na początku najbliższego kroku końcowego."
 
 #: ../../SIR.rst:1530
 msgid ""
@@ -4422,6 +4845,10 @@ msgid ""
 "haste until end of turn, and it becomes a Vampire in addition to its other "
 "types."
 msgstr ""
+"Ilekroć inny stwór wejdzie na pole bitwy pod twoim władaniem, możesz "
+"odrzucić kartę. Jeśli tak zrobisz, umieść znacznik +1/+1 na owym stworze, "
+"zyskuje on pośpiech do końca tury i staje się dodatkowo Wampirem oprócz "
+"swoich innych typów."
 
 #: ../../SIR.rst:1534
 msgid ""
@@ -4437,6 +4864,9 @@ msgid ""
 "your graveyard to the battlefield tapped at the beginning of the next end "
 "step."
 msgstr ""
+"Ilekroć stwór wejdzie na pole bitwy, jeśli wszedł z twojego cmentarza lub "
+"rzuciłeś go z twojego cmentarza, przywróć tego stwora z twojego cmentarza "
+"przekręconego na pole bitwy na początku najbliższego kroku końcowego."
 
 #: ../../SIR.rst:1538
 msgid ""
@@ -4450,6 +4880,8 @@ msgid ""
 "Destroy target blocking creature. Creatures that were blocked by that "
 "creature this combat gain trample until end of turn."
 msgstr ""
+"Zniszcz wskazanego blokującego stwora. Stwory blokowane w tej potyczce przez "
+"owego stwora zyskują tratowanie do końca tury."
 
 #: ../../SIR.rst:1546
 msgid ""
@@ -4460,13 +4892,15 @@ msgstr ""
 
 #: ../../SIR.rst:1543
 msgid "You and Humans you control have hexproof."
-msgstr ""
+msgstr "Ty oraz stwory typu Człowiek pod twoim władaniem macie antyklątwę."
 
 #: ../../SIR.rst:1545
 msgid ""
 "|mana_2|, Exile a card from your graveyard: Create a 1/1 white Human Soldier "
 "creature token."
 msgstr ""
+"|mana_2|, wygnaj kartę z twojego cmentarza: Stwórz żeton białego stwora "
+"Człowiek Piechur 1/1."
 
 #: ../../SIR.rst:1554
 msgid ""
@@ -4480,18 +4914,24 @@ msgid ""
 "+1: Reveal the top card of your library and put that card into your hand. "
 "Each opponent loses life equal to its mana value."
 msgstr ""
+"+1: Ujawnij wierzchnią kartę twojej biblioteki i umieść ją w twojej ręce. "
+"Każdy przeciwnik traci po tyle żyć, ile wynosi jej skrót many."
 
 #: ../../SIR.rst:1551
 msgid ""
 "−X: Sorin, Grim Nemesis deals X damage to target creature or planeswalker "
 "and you gain X life."
 msgstr ""
+"–X: Ten wędrowiec zadaje wskazanemu stworowi lub wędrowcowi X obrażeń, a ty "
+"zyskaj X żyć."
 
 #: ../../SIR.rst:1553
 msgid ""
 "−9: Create a number of 1/1 black Vampire Knight creature tokens with "
 "lifelink equal to the highest life total among all players."
 msgstr ""
+"–9: Stwórz tyle żetonów czarnego stwora Rycerz Wampir 1/1 z więzią życia, "
+"ile wynosi największa liczba żyć pośród wszystkich graczy."
 
 #: ../../SIR.rst:1564
 msgid ""
@@ -4505,12 +4945,16 @@ msgid ""
 "When Spell Queller enters the battlefield, exile target spell with mana "
 "value 4 or less."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, wygnaj wskazany czar o skrócie many 4 "
+"lub mniejszym."
 
 #: ../../SIR.rst:1563
 msgid ""
 "When Spell Queller leaves the battlefield, the exiled card's owner may cast "
 "that card without paying its mana cost."
 msgstr ""
+"Kiedy ten stwór opuści pole bitwy, właściciel owej wygnanej karty może ją "
+"rzucić bez płacenia jej kosztu many."
 
 #: ../../SIR.rst:1572
 msgid ""
@@ -4524,18 +4968,24 @@ msgid ""
 "+1: Choose up to two target creatures. Until your next turn, whenever either "
 "of those creatures deals combat damage, you draw a card."
 msgstr ""
+"+1: Wskaż co najwyżej dwa stwory. Do twojej następnej tury ilekroć "
+"którykolwiek z owych stwór zada obrażenia bojowe, dobierz kartę."
 
 #: ../../SIR.rst:1569
 msgid ""
 "−2: Tap up to two target nonland permanents. They don't untap during their "
 "controller's next untap step."
 msgstr ""
+"–2: Przekręć co najwyżej dwa nie-lądowe byty. Nie odkręcą się one w "
+"najbliższych krokach odkręcania swoich władców."
 
 #: ../../SIR.rst:1571
 msgid ""
 "−7: Draw three cards. You get an emblem with \"You may cast spells from your "
 "hand without paying their mana costs.\""
 msgstr ""
+"–7: Dobierz trzy karty. Dostajesz emblemat mający \"Możesz rzucać czary z "
+"twojej ręki bez płacenia ich kosztu many.\""
 
 #: ../../SIR.rst:1578
 msgid ""
@@ -4550,12 +5000,16 @@ msgid ""
 "Whenever this creature enters the battlefield or transforms into Ulrich of "
 "the Krallenhorde, target creature gets +4/+4 until end of turn."
 msgstr ""
+"Ilekroć ten byt wejdzie na pole bitwy lub transformuje w tę formę, wskazany "
+"stwór do końca tury dostaje +4/+4."
 
 #: ../../SIR.rst:1577
 msgid ""
 "At the beginning of each upkeep, if no spells were cast last turn, transform "
 "Ulrich of the Krallenhorde."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli w poprzedniej turze nie rzucono "
+"czarów, transformuj tego stwora."
 
 #: ../../SIR.rst:1584
 msgid ""
@@ -4570,12 +5024,16 @@ msgid ""
 "Whenever this creature transforms into Ulrich, Uncontested Alpha, you may "
 "have it fight target non-Werewolf creature you don't control."
 msgstr ""
+"Ilekroć ten stwór transformuje w tę formę, możesz sprawić że będzie on "
+"walczyć ze wskazanym stworem bez typu Wilkołak poza twoim władaniem."
 
 #: ../../SIR.rst:1583
 msgid ""
 "At the beginning of each upkeep, if a player cast two or more spells last "
 "turn, transform Ulrich, Uncontested Alpha."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli w poprzedniej turze któryś gracz "
+"rzucił co najmniej dwa czary, transformuj tego stwora."
 
 #: ../../SIR.rst:1590
 msgid ""
@@ -4590,10 +5048,13 @@ msgid ""
 "an instant or sorcery spell with mana value equal to the number of charge "
 "counters on Brain in a Jar from your hand without paying its mana cost."
 msgstr ""
+"|mana_1|, |tap|: Umieść znacznik ładunku na tym artefakcie, po czym możesz "
+"rzucić z twojej ręki bez płacenia kosztu many czar sztuczki lub obrzędu o "
+"skrócie many równym liczbie znaczników ładunku na tym artefakcie."
 
 #: ../../SIR.rst:1589
 msgid "|mana_3|, |tap|, Remove X charge counters from Brain in a Jar: Scry X."
-msgstr ""
+msgstr "|mana_3|, |tap|, usuń X znaczników ładunku z tego artefaktu: Wróż X."
 
 #: ../../SIR.rst:1598
 msgid ""
@@ -4605,17 +5066,19 @@ msgstr ""
 
 #: ../../SIR.rst:1593
 msgid "Cryptolith Fragment enters the battlefield tapped."
-msgstr ""
+msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
 
 #: ../../SIR.rst:1595
 msgid "|tap|: Add one mana of any color. Each player loses 1 life."
-msgstr ""
+msgstr "|tap|: Weź jedną manę dowolnego koloru. Każdy gracz traci po 1 życiu."
 
 #: ../../SIR.rst:1597
 msgid ""
 "At the beginning of your upkeep, if each player has 10 or less life, "
 "transform Cryptolith Fragment."
 msgstr ""
+"Na początku twojego kroku utrzymania, jeśli każdy gracz ma 10 lub mniej żyć, "
+"transformuj ten artefakt."
 
 #: ../../SIR.rst:1604
 msgid ""
@@ -4627,11 +5090,11 @@ msgstr ""
 
 #: ../../SIR.rst:1601
 msgid "Flying, deathtouch"
-msgstr ""
+msgstr "Latanie, dotyk śmierci"
 
 #: ../../SIR.rst:1603
 msgid "Whenever Aurora of Emrakul attacks, each opponent loses 3 life."
-msgstr ""
+msgstr "Ilekroć ten stwór zaatakuje, każdy przeciwnik traci po 3 życia."
 
 #: ../../SIR.rst:1608
 msgid ""
@@ -4644,6 +5107,8 @@ msgstr ""
 msgid ""
 "|mana_2|: Put target card from your graveyard on the bottom of your library."
 msgstr ""
+"|mana_2|: Umieść wskazaną kartę z twojego cmentarza na spodzie twojej "
+"biblioteki."
 
 #: ../../SIR.rst:1612
 msgid ""
@@ -4657,6 +5122,8 @@ msgid ""
 "|mana_3|, |tap|, Sacrifice Explosive Apparatus: It deals 2 damage to any "
 "target."
 msgstr ""
+"|mana_3|, |tap|, poświęć ten artefakt: Zadaje on wskazanemu celowi 2 "
+"obrażenia."
 
 #: ../../SIR.rst:1614
 msgid ""
@@ -4677,6 +5144,8 @@ msgid ""
 "When Harvest Hand dies, return it to the battlefield transformed under your "
 "control."
 msgstr ""
+"Kiedy ten stwór umrze, przywróć go transformowanego na pole bitwy pod twoim "
+"władaniem."
 
 #: ../../SIR.rst:1628
 msgid ""
@@ -4687,22 +5156,19 @@ msgstr ""
 
 #: ../../SIR.rst:1623 ../../SIR.rst:1647
 msgid "Equipped creature gets +1/+1."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +1/+1."
 
 #: ../../SIR.rst:1625
-#, fuzzy
-#| msgid ""
-#| "Menace (This creature can't be blocked except by two or more creatures.)"
 msgid ""
 "As long as equipped creature is a Human, it has menace. (It can't be blocked "
 "except by two or more creatures.)"
 msgstr ""
-"Złowrogość (Ten stwór nie może być blokowany, chyba że przez co najmniej dwa "
-"stwory.)"
+"O ile wyposażony stwór jest Człowiekiem, ma złowrogość. (Nie może być "
+"blokowany, chyba że przez co najmniej dwa stwory.)"
 
 #: ../../SIR.rst:1627 ../../SIR.rst:1679
 msgid "Equip |mana_2|"
-msgstr ""
+msgstr "Wyposaż |mana_2|"
 
 #: ../../SIR.rst:1632
 msgid ""
@@ -4715,6 +5181,8 @@ msgstr ""
 msgid ""
 "Lupine Prototype can't attack or block unless a player has no cards in hand."
 msgstr ""
+"Ten stwór nie może atakować ani blokować, chyba że któryś gracz nie ma kart "
+"w ręce."
 
 #: ../../SIR.rst:1638
 msgid ""
@@ -4725,13 +5193,15 @@ msgstr ""
 
 #: ../../SIR.rst:1635 ../../SIR.rst:1747 ../../SIR.rst:1753 ../../SIR.rst:1779
 msgid "|tap|: Add |colorless|."
-msgstr ""
+msgstr "|tap|: Weź |colorless|."
 
 #: ../../SIR.rst:1637
 msgid ""
 "|mana_4|, |tap|: Investigate. (Create a Clue token. It's an artifact with \"|"
 "mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
+"|mana_4|, |tap|: Dociekaj. (Stwórz żeton Wskazówki. Jest to artefakt mający "
+"\"|mana_2|, poświęć ten artefakt: Dobierz kartę.\")"
 
 #: ../../SIR.rst:1644
 msgid ""
@@ -4742,11 +5212,11 @@ msgstr ""
 
 #: ../../SIR.rst:1641
 msgid "Equipped creature gets +2/+2."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +2/+2."
 
 #: ../../SIR.rst:1643
 msgid "Equip—Discard a card."
-msgstr ""
+msgstr "Wyposaż—Odrzuć kartę."
 
 #: ../../SIR.rst:1652
 msgid ""
@@ -4757,11 +5227,11 @@ msgstr ""
 
 #: ../../SIR.rst:1649
 msgid "When equipped creature transforms, transform Neglected Heirloom."
-msgstr ""
+msgstr "Kiedy wyposażony stwór transformuje, transformuj ten artefakt."
 
 #: ../../SIR.rst:1651
 msgid "Equip |mana_1|"
-msgstr ""
+msgstr "Wyposaż |mana_1|"
 
 #: ../../SIR.rst:1658
 msgid ""
@@ -4772,11 +5242,11 @@ msgstr ""
 
 #: ../../SIR.rst:1655
 msgid "Equipped creature gets +3/+3 and has first strike."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +3/+3 i ma pierwszy cios."
 
 #: ../../SIR.rst:1657 ../../SIR.rst:1665
 msgid "Equip |mana_3|"
-msgstr ""
+msgstr "Wyposaż |mana_3|"
 
 #: ../../SIR.rst:1666
 msgid ""
@@ -4787,13 +5257,15 @@ msgstr ""
 
 #: ../../SIR.rst:1661
 msgid "Equipped creature gets +4/+2."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +4/+2."
 
 #: ../../SIR.rst:1663
 msgid ""
 "Whenever equipped creature dies, if it was a Human, create a 1/1 white "
 "Spirit creature token with flying."
 msgstr ""
+"Ilekroć wyposażony stwór umrze, jeśli był Człowiekiem, stwórz żeton białego "
+"stwora Duch 1/1 z lataniem."
 
 #: ../../SIR.rst:1670
 msgid ""
@@ -4810,6 +5282,11 @@ msgid ""
 "black Zombie creature token with power equal to that card's power and "
 "toughness equal to that card's toughness."
 msgstr ""
+"|mana_5|, |tap|, poświęć ten artefakt: Wygnaj wskazaną kartę stwora z "
+"twojego cmentarza. Stwórz żeton będący kopią owej karty, ale jest on Duchem "
+"1/1 oprócz swoich pozostałych typów oraz ma latanie. Stwórz żeton czarnego "
+"stwora Zombi z siła równą sile owej karty oraz wytrzymałością równą "
+"wytrzymałości owej karty."
 
 #: ../../SIR.rst:1680
 msgid ""
@@ -4820,19 +5297,21 @@ msgstr ""
 
 #: ../../SIR.rst:1673
 msgid "Equipped creature gets +3/+3."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +3/+3."
 
 #: ../../SIR.rst:1675
 msgid ""
 "Whenever equipped creature attacks, it doesn't untap during its controller's "
 "next untap step."
 msgstr ""
+"Ilekroć wyposażony stwór zaatakuje, nie odkręci się on w najbliższym kroku "
+"odkręcania swojego władcy."
 
 #: ../../SIR.rst:1677
 msgid ""
 "Whenever Stitcher's Graft becomes unattached from a permanent, sacrifice "
 "that permanent."
-msgstr ""
+msgstr "Ilekroć ten artefakt zostanie odłączony od bytu, poświęć ów byt."
 
 #: ../../SIR.rst:1686
 msgid ""
@@ -4846,12 +5325,16 @@ msgid ""
 "At the beginning of your upkeep, investigate. (Create a Clue token. It's an "
 "artifact with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
+"Na początku twojego kroku utrzymania, dociekaj. (Stwórz żeton Wskazówki. To "
+"artefakt mający \"|mana_2|, poświęć ten artefakt: Dobierz kartę.\")"
 
 #: ../../SIR.rst:1685
 msgid ""
 "|tap|, Sacrifice three Clues: Search your library for a card, put that card "
 "into your hand, then shuffle."
 msgstr ""
+"|tap|, poświęć trzy Wskazówki: Wyszukaj kartę w twojej bibliotece, umieść ją "
+"w twojej ręce, po czym przetasuj."
 
 #: ../../SIR.rst:1694
 msgid ""
@@ -4862,18 +5345,22 @@ msgstr ""
 
 #: ../../SIR.rst:1689
 msgid "Terrarion enters the battlefield tapped."
-msgstr ""
+msgstr "Ten artefakt wchodzi przekręcony na pole bitwy."
 
 #: ../../SIR.rst:1691
 msgid ""
 "|mana_2|, |tap|, Sacrifice Terrarion: Add two mana in any combination of "
 "colors."
 msgstr ""
+"|mana_2|, |tap|, poświęć ten artefakt: Weź dwie many w dowolnej kombinacji "
+"kolorów."
 
 #: ../../SIR.rst:1693
 msgid ""
 "When Terrarion is put into a graveyard from the battlefield, draw a card."
 msgstr ""
+"Kiedy ten artefakt zostanie umieszczony w cmentarzu z pola bitwy, dobierz "
+"kartę."
 
 #: ../../SIR.rst:1702
 msgid ""
@@ -4884,17 +5371,19 @@ msgstr ""
 
 #: ../../SIR.rst:1697
 msgid "Equipped creature gets +1/+1 and has vigilance."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +1/+1 i ma czujność."
 
 #: ../../SIR.rst:1699
 msgid "As long as equipped creature is a Human, it gets an additional +1/+0."
-msgstr ""
+msgstr "O ile wyposażony stwór jest Człowiekiem, dostaje dodatkowe +1/+0."
 
 #: ../../SIR.rst:1701
 msgid ""
 "Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip only "
 "as a sorcery.)"
 msgstr ""
+"Wyposaż |mana_2| (|mana_2|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Aktywuj tylko jako obrzęd.)"
 
 #: ../../SIR.rst:1708
 msgid ""
@@ -4908,6 +5397,8 @@ msgid ""
 "|mana_2|, Sacrifice Wild-Field Scarecrow: Search your library for up to two "
 "basic land cards, reveal them, put them into your hand, then shuffle."
 msgstr ""
+"|mana_2|, poświęć tego stwora: Wyszukaj w twojej bibliotece co najwyżej dwie "
+"karty bazowych lądów, ujawnij je, mieść je w twojej ręce, po czym przetasuj."
 
 #: ../../SIR.rst:1714
 msgid ""
@@ -4922,10 +5413,13 @@ msgid ""
 "card from your hand. If you don't, Choked Estuary enters the battlefield "
 "tapped."
 msgstr ""
+"Przy wejściu tego bytu na pole bitwy możesz ujawnić z twojej ręki kartę "
+"Wyspy lub Bagna. Jeśli tak nie zrobisz, ten byt wchodzi przekręcony na pole "
+"bitwy."
 
 #: ../../SIR.rst:1713
 msgid "|tap|: Add |mana_u| or |mana_b|."
-msgstr ""
+msgstr "|tap|: Weź |mana_u| lub |mana_b|."
 
 #: ../../SIR.rst:1720
 msgid ""
@@ -4940,10 +5434,13 @@ msgid ""
 "Mountain card from your hand. If you don't, Foreboding Ruins enters the "
 "battlefield tapped."
 msgstr ""
+"Przy wejściu tego bytu na pole bitwy możesz ujawnić z twojej ręki kartę "
+"Bagna lub Góry. Jeśli tak nie zrobisz, ten byt wchodzi przekręcony na pole "
+"bitwy."
 
 #: ../../SIR.rst:1719
 msgid "|tap|: Add |mana_b| or |mana_r|."
-msgstr ""
+msgstr "|tap|: Weź |mana_b| lub |mana_r|."
 
 #: ../../SIR.rst:1726
 msgid ""
@@ -4954,11 +5451,11 @@ msgstr ""
 
 #: ../../SIR.rst:1723
 msgid "Forsaken Sanctuary enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../SIR.rst:1725
 msgid "|tap|: Add |mana_w| or |mana_b|."
-msgstr ""
+msgstr "|tap|: Weź |mana_w| lub |mana_b|."
 
 #: ../../SIR.rst:1732
 msgid ""
@@ -4973,10 +5470,13 @@ msgid ""
 "Plains card from your hand. If you don't, Fortified Village enters the "
 "battlefield tapped."
 msgstr ""
+"Przy wejściu tego bytu na pole bitwy możesz ujawnić z twojej ręki kartę Lasu "
+"lub Równiny. Jeśli tak nie zrobisz, ten byt wchodzi przekręcony na pole "
+"bitwy."
 
 #: ../../SIR.rst:1731
 msgid "|tap|: Add |mana_g| or |mana_w|."
-msgstr ""
+msgstr "|tap|: Weź |mana_g| lub |mana_w|."
 
 #: ../../SIR.rst:1738
 msgid ""
@@ -4987,7 +5487,7 @@ msgstr ""
 
 #: ../../SIR.rst:1735
 msgid "Foul Orchard enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../SIR.rst:1744
 msgid ""
@@ -5001,10 +5501,12 @@ msgid ""
 "As Game Trail enters the battlefield, you may reveal a Mountain or Forest "
 "card from your hand. If you don't, Game Trail enters the battlefield tapped."
 msgstr ""
+"Przy wejściu tego bytu na pole bitwy możesz ujawnić z twojej ręki kartę Góry "
+"lub Lasu. Jeśli tak nie zrobisz, ten byt wchodzi przekręcony na pole bitwy."
 
 #: ../../SIR.rst:1743
 msgid "|tap|: Add |mana_r| or |mana_g|."
-msgstr ""
+msgstr "|tap|: Weź |mana_r| lub |mana_g|."
 
 #: ../../SIR.rst:1750
 msgid ""
@@ -5015,7 +5517,7 @@ msgstr ""
 
 #: ../../SIR.rst:1749
 msgid "|mana_2|, |tap|: Each player draws a card, then discards a card."
-msgstr ""
+msgstr "|mana_2|, |tap|: Każdy gracz dobiera kartę, po czym odrzuca kartę."
 
 #: ../../SIR.rst:1758
 msgid ""
@@ -5026,7 +5528,7 @@ msgstr ""
 
 #: ../../SIR.rst:1755
 msgid "|mana_r|, |tap|: Target creature gains haste until end of turn."
-msgstr ""
+msgstr "|mana_r|, |tap|: Wskazany stwór zyskuje pośpiech do końca tury."
 
 #: ../../SIR.rst:1757
 msgid ""
@@ -5034,6 +5536,9 @@ msgid ""
 "Battlements and a creature named Hanweir Garrison, exile them, then meld "
 "them into Hanweir, the Writhing Township."
 msgstr ""
+"|mana_3|\\ |mana_r|\\ |mana_r|, |tap|: jeśli jednocześnie masz w posiadaniu "
+"i władaniu ten ląd oraz stwora o nazwie Hanweir Garrison, wygnaj je, po czym "
+"połącz je tworząc Hanweir, the Writhing Township."
 
 #: ../../SIR.rst:1764
 msgid ""
@@ -5044,11 +5549,11 @@ msgstr ""
 
 #: ../../SIR.rst:1761
 msgid "Highland Lake enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../SIR.rst:1763
 msgid "|tap|: Add |mana_u| or |mana_r|."
-msgstr ""
+msgstr "|tap|: Weź |mana_u| lub |mana_r|."
 
 #: ../../SIR.rst:1770
 msgid ""
@@ -5062,10 +5567,13 @@ msgid ""
 "As Port Town enters the battlefield, you may reveal a Plains or Island card "
 "from your hand. If you don't, Port Town enters the battlefield tapped."
 msgstr ""
+"Przy wejściu tego bytu na pole bitwy możesz ujawnić z twojej ręki kartę "
+"Równiny lub Wyspy. Jeśli tak nie zrobisz, ten byt wchodzi przekręcony na "
+"pole bitwy."
 
 #: ../../SIR.rst:1769
 msgid "|tap|: Add |mana_w| or |mana_u|."
-msgstr ""
+msgstr "|tap|: Weź |mana_w| lub |mana_u|."
 
 #: ../../SIR.rst:1776
 msgid ""
@@ -5076,11 +5584,11 @@ msgstr ""
 
 #: ../../SIR.rst:1773
 msgid "Stone Quarry enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../SIR.rst:1775
 msgid "|tap|: Add |mana_r| or |mana_w|."
-msgstr ""
+msgstr "|tap|: Weź |mana_r| lub |mana_w|."
 
 #: ../../SIR.rst:1784
 msgid ""
@@ -5095,12 +5603,16 @@ msgid ""
 "|mana_5|, |tap|, Pay 1 life: Create a 1/1 white and black Human Cleric "
 "creature token."
 msgstr ""
+"|mana_5|, |tap|, zapłać 1 życie: Stwórz żeton biało-czarnego stwora Człowiek "
+"Kleryk 1/1."
 
 #: ../../SIR.rst:1783
 msgid ""
 "|mana_5|, |tap|, Sacrifice five creatures: Transform Westvale Abbey, then "
 "untap it."
 msgstr ""
+"|mana_5|, |tap|, poświęć pięć stworów: Transformuj ten ląd, po czym odkręć "
+"go."
 
 #: ../../SIR.rst:1788
 msgid ""
@@ -5112,7 +5624,7 @@ msgstr ""
 
 #: ../../SIR.rst:1787
 msgid "Flying, lifelink, indestructible, haste"
-msgstr ""
+msgstr "Latanie, więź życia, niezniszczalność, pośpiech"
 
 #: ../../SIR.rst:1794
 msgid ""
@@ -5123,11 +5635,11 @@ msgstr ""
 
 #: ../../SIR.rst:1791
 msgid "Woodland Stream enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi przekręcony na pole bitwy."
 
 #: ../../SIR.rst:1793
 msgid "|tap|: Add |mana_g| or |mana_u|."
-msgstr ""
+msgstr "|tap|: Weź |mana_g| lub |mana_u|."
 
 #: ../../SIR.rst:1798
 msgid ""
@@ -5138,7 +5650,7 @@ msgstr ""
 
 #: ../../SIR.rst:1797
 msgid "(|tap|: Add |mana_w|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_w|.)"
 
 #: ../../SIR.rst:1802
 msgid ""
@@ -5149,7 +5661,7 @@ msgstr ""
 
 #: ../../SIR.rst:1801
 msgid "(|tap|: Add |mana_u|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_u|.)"
 
 #: ../../SIR.rst:1806
 msgid ""
@@ -5160,7 +5672,7 @@ msgstr ""
 
 #: ../../SIR.rst:1805
 msgid "(|tap|: Add |mana_b|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_b|.)"
 
 #: ../../SIR.rst:1810
 msgid ""
@@ -5171,7 +5683,7 @@ msgstr ""
 
 #: ../../SIR.rst:1809
 msgid "(|tap|: Add |mana_r|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_r|.)"
 
 #: ../../SIR.rst:1813
 msgid ""
@@ -5182,4 +5694,4 @@ msgstr ""
 
 #: ../../SIR.rst:1813
 msgid "(|tap|: Add |mana_g|.)"
-msgstr ""
+msgstr "(|tap|: Weź |mana_g|.)"

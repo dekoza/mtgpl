@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG po polsku 2022.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-28 11:10+0200\n"
-"PO-Revision-Date: 2023-03-03 08:34+0000\n"
+"PO-Revision-Date: 2023-05-28 11:11+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/bro/pl/>\n"
 "Language: pl\n"
@@ -1357,7 +1357,7 @@ msgstr ""
 
 #: ../../BRO.rst:333
 msgid "You may play lands and cast spells from the top of your library."
-msgstr "Możesz zagrywać lądy i rzucać czary z wierzchu twojej biblioteki."
+msgstr "Możesz zagrywać lądy i rzucać czaru z wierzchu twojej biblioteki."
 
 #: ../../BRO.rst:335
 msgid ""
@@ -2269,13 +2269,6 @@ msgid ""
 msgstr ""
 
 #: ../../BRO.rst:623
-#, fuzzy
-#| msgid ""
-#| "Exile the top three cards of your library in a face-down pile, then exile "
-#| "the next top three cards of your library in another face-down pile. Look "
-#| "at the cards in each pile, then turn a pile of your choice face up. An "
-#| "opponent chooses one of those piles. Put all cards in the chosen pile "
-#| "into your hand and the rest into your graveyard. You lose 3 life."
 msgid ""
 "Exile the top three cards of your library in a face-down pile, then exile "
 "the top three cards of your library in another face-down pile. Look at the "
@@ -2283,12 +2276,11 @@ msgid ""
 "chooses one of those piles. Put all cards in the chosen pile into your hand "
 "and the rest into your graveyard. You lose 3 life."
 msgstr ""
-"Wygnaj trzy wierzchnie karty twojej biblioteki jako zakryty stos, po czym "
-"wygnaj kolejne trzy karty z wierzchu twojej biblioteki jako inny zakryty "
-"stos. Spójrz na karty w każdym ze stosów, po czym odkryj wybrany przez "
-"siebie stos. Przeciwnik wybiera jeden z owych stosów. Umieść wszystkie karty "
-"z wybranego stosu w twojej ręce, a pozostałe w twoim cmentarzu. Strać 3 "
-"życia."
+"Wygnaj trzy karty z wierzchu twojej biblioteki jako zakryty stos, po czym "
+"wygnaj trzy karty z wierzchu twojej biblioteki jako inny zakryty stos. "
+"Spójrz na karty w każdym ze stosów, po czym odkryj wybrany przez siebie "
+"stos. Przeciwnik wybiera jeden z owych stosów. Umieść wszystkie karty z "
+"wybranego stosu w twojej ręce, a pozostałe w twoim cmentarzu. Strać 3 życia."
 
 #: ../../BRO.rst:628
 msgid ""
@@ -2511,10 +2503,6 @@ msgid ""
 msgstr ""
 
 #: ../../BRO.rst:693
-#, fuzzy
-#| msgid ""
-#| "Equipped creature gets +1/+0 and has menace. (It's can't be blocked "
-#| "except by two or more creatures.)"
 msgid ""
 "Equipped creature gets +1/+0 and has menace. (It can't be blocked except by "
 "two or more creatures.)"
@@ -3219,15 +3207,11 @@ msgid ""
 msgstr ""
 
 #: ../../BRO.rst:921
-#, fuzzy
-#| msgid ""
-#| "Prototype |mana_2|\\ |mana_r| — 1/3 (You may cast this spell with "
-#| "different mana cost, color, and size. It keeps its abilities and types.)"
 msgid ""
 "Prototype |mana_2|\\ |mana_r| — 3/2 (You may cast this spell with different "
 "mana cost, color, and size. It keeps its abilities and types.)"
 msgstr ""
-"Prototyp |mana_2|\\ |mana_r| — 1/3 (Możesz rzucić ten czar za różne koszty "
+"Prototyp |mana_2|\\ |mana_r| — 3/2 (Możesz rzucić ten czar za różne koszty "
 "many, kolor i rozmiar. Zachowuje swoje zdolności i typy.)"
 
 #: ../../BRO.rst:932
@@ -3998,15 +3982,11 @@ msgid ""
 msgstr ""
 
 #: ../../BRO.rst:1161
-#, fuzzy
-#| msgid ""
-#| "Prototype |mana_2|\\ |mana_r| — 1/3 (You may cast this spell with "
-#| "different mana cost, color, and size. It keeps its abilities and types.)"
 msgid ""
 "Prototype |mana_2|\\ |mana_g| — 1/3 (You may cast this spell with different "
 "mana cost, color, and size. It keeps its abilities and types.)"
 msgstr ""
-"Prototyp |mana_2|\\ |mana_r| — 1/3 (Możesz rzucić ten czar za różne koszty "
+"Prototyp |mana_2|\\ |mana_g| — 1/3 (Możesz rzucić ten czar za różne koszty "
 "many, kolor i rozmiar. Zachowuje swoje zdolności i typy.)"
 
 #: ../../BRO.rst:1163
@@ -4040,10 +4020,8 @@ msgid ""
 msgstr ""
 
 #: ../../BRO.rst:1173
-#, fuzzy
-#| msgid "When Haywire Mite dies, you gain 2 life."
 msgid "When Haywire Mite dies, you gain 3 life."
-msgstr "Kiedy niniejszy umrze, zyskaj 2 życia."
+msgstr "Kiedy niniejszy umrze, zyskaj 3 życia."
 
 #: ../../BRO.rst:1182
 msgid ""

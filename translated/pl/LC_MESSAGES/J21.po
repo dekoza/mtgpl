@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2021.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-28 11:10+0200\n"
-"PO-Revision-Date: 2023-03-03 08:34+0000\n"
+"PO-Revision-Date: 2023-05-28 11:11+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/j21/pl/>\n"
 "Language: pl\n"
@@ -344,10 +344,8 @@ msgstr ""
 "miał obronności.\""
 
 #: ../../J21.rst:39
-#, fuzzy
-#| msgid "−2: Conjure a Lumbering Lightshield card onto the battlefield."
 msgid "−2: Conjure a card named Lumbering Lightshield onto the battlefield."
-msgstr "–2: Wyczaruj kartę Lumbering Lightshield na polu bitwy."
+msgstr "–2: Wyczaruj na polu bitwy kartę o nazwie Lumbering Lightshield."
 
 #: ../../J21.rst:41
 msgid ""
@@ -367,16 +365,12 @@ msgid ""
 msgstr ""
 
 #: ../../J21.rst:45
-#, fuzzy
-#| msgid ""
-#| "When Wingsteed Trainer enters the battlefield or attacks, conjure a "
-#| "Stormfront Pegasus card into your hand."
 msgid ""
 "When Wingsteed Trainer enters the battlefield or attacks, conjure a card "
 "named Stormfront Pegasus into your hand."
 msgstr ""
-"Kiedy ten byt wejdzie na pole bitwy lub zaatakuje, wyczaruj kartę Stormfront "
-"Pegasus w twojej ręce."
+"Kiedy ten byt wejdzie na pole bitwy lub zaatakuje, wyczaruj w twojej ręce "
+"kartę o nazwie Stormfront Pegasus."
 
 #: ../../J21.rst:50
 msgid ""
@@ -416,10 +410,8 @@ msgid ""
 msgstr ""
 
 #: ../../J21.rst:57
-#, fuzzy
-#| msgid "+1: Conjure a Kraken Hatchling into your hand."
 msgid "+1: Conjure a card named Kraken Hatchling into your hand."
-msgstr "+1: Wyczaruj kartę Kraken Hatchling w twojej ręce."
+msgstr "+1: Wyczaruj w twojej ręce kartę o nazwie Kraken Hatchling."
 
 #: ../../J21.rst:59
 msgid ""
@@ -472,19 +464,14 @@ msgid ""
 msgstr ""
 
 #: ../../J21.rst:71
-#, fuzzy
-#| msgid ""
-#| "When Shoreline Scout enters the battlefield, you may exile a Merfolk card "
-#| "or a land card from your hand. If you do, conjure a Tropical Island card "
-#| "into your hand."
 msgid ""
 "When Shoreline Scout enters the battlefield, you may exile a Merfolk card or "
 "a land card from your hand. If you do, conjure a card named Tropical Island "
 "into your hand."
 msgstr ""
 "Kiedy ten byt wejdzie na pole bitwy, możesz wygnaj kartę Wodnika lub kartę "
-"lądu z twojej ręki. Jeśli tak zrobisz, wyczaruj kartę Tropical Island w "
-"twojej ręce."
+"lądu z twojej ręki. Jeśli tak zrobisz, wyczaruj w twojej ręce kartę o nazwie "
+"Tropical Island."
 
 #: ../../J21.rst:73
 msgid ""
@@ -683,10 +670,8 @@ msgstr ""
 "tego czaru, gdzie X jest jego skrótem many.\""
 
 #: ../../J21.rst:131
-#, fuzzy
-#| msgid "+1: Conjure a Shivan Dragon card into your hand."
 msgid "+1: Conjure a card named Shivan Dragon into your hand."
-msgstr "+1: Wyczaruj kartę Shivan Dragon w twojej ręce."
+msgstr "+1: Wyczaruj w twojej ręce kartę o nazwie Shivan Dragon."
 
 #: ../../J21.rst:133
 msgid "−2: Sarkhan, Wanderer to Shiv deals 3 damage to target creature."
@@ -759,10 +744,8 @@ msgid "−1: Seek an Elf card."
 msgstr "–1: Pobierz kartę Elfa."
 
 #: ../../J21.rst:157
-#, fuzzy
-#| msgid "−6: Conjure a Regal Force card onto the battlefield."
 msgid "−6: Conjure a card named Regal Force onto the battlefield."
-msgstr "–6: Wyczaruj kartę Regal Force na polu bitwy."
+msgstr "–6: Wyczaruj na polu bitwy kartę o nazwie Regal Force."
 
 #: ../../J21.rst:164
 msgid ""
@@ -2453,18 +2436,13 @@ msgstr ""
 "stał się stworem w ten sposób."
 
 #: ../../J21.rst:727
-#, fuzzy
-#| msgid ""
-#| "Overload |mana_4|\\ |mana_u|\\ |mana_u| (You may cast this spell for its "
-#| "overload cost. If you do, change its text by replacing all instances of "
-#| "\"target\" with \"each.\")"
 msgid ""
 "Overload |mana_4|\\ |mana_u|\\ |mana_u| (You may cast this spell for its "
 "overload cost. If you do, change \"target\" in its text to \"each.\")"
 msgstr ""
 "Przeciążenie |mana_4|\\ |mana_u|\\ |mana_u| (Możesz rzucić ten czar za jego "
-"koszt przeciążenia. Jeśli tak zrobisz, zmień jego tekst zastępując wszystkie "
-"wystąpienia słowa \"wskazany\" słowem \"każdy\".)"
+"koszt przeciążenia. Jeśli tak zrobisz, zamień \"wskazany\" w jego treści na "
+"\"każdy\".)"
 
 #: ../../J21.rst:734
 msgid ""
