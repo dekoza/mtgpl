@@ -45,7 +45,7 @@
 
 .. |NCC_percent| image:: images/pie75.png        
 
-.. |MAT_percent| image:: images/pie95.png        
+.. |MAT_percent| image:: images/pie50.png        
 
 .. |RIX_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
