@@ -52,6 +52,7 @@ Standard
 
 Format posiadający rotację - raz do roku część dodatków przestaje być legalna w tym formacie, by zrobić miejsce na kolejne. Dzięki temu pula kart ma przewidywalny rozmiar.
 Jest podzbiorem wszystkich innych formatów.
+
 * :mtgexp:`MAT` :doc:`March of the Machine - Aftermath<MAT>` |MAT_percent|
 * :mtgexp:`MOM` :doc:`March of the Machine<MOM>` |MOM_percent|
 * :mtgexp:`ONE` :doc:`Phyrexia: All Will Be One<ONE>` |ONE_percent|
