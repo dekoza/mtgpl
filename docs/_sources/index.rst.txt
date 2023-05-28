@@ -40,15 +40,20 @@ Tłumaczenie dodatków
 Nadchodzące
 -----------
 
-* :mtgexp:`MOM` :doc:`March of the Machine<MOM>` Premiera: 2023-04-21
-   * :mtgexp:`MUL` :doc:`Multiverse Legends<MUL>` (suplement)
+* :mtgexp:`LTR` :doc:`Lord of the Rings<LTR>` Premiera: 2023-06-23
+* :mtgexp:`LTC` :doc:`Lord of the Rings Commander Decks<LTC>` Premiera: 2023-06-23
+* :mtgexp:`CMM` :doc:`Commander Masters<CMM>` Premiera: 2023-08-04
+* :mtgexp:`WOE` :doc:`Wild of Eldraine<WOE>` Premiera: 2023-09-08
+* :mtgexp:`WHO` :doc:`Doctor Who Commander Decks<WHO>` Premiera: 2023-10-13
+
 
 Standard
 --------
 
 Format posiadający rotację - raz do roku część dodatków przestaje być legalna w tym formacie, by zrobić miejsce na kolejne. Dzięki temu pula kart ma przewidywalny rozmiar.
 Jest podzbiorem wszystkich innych formatów.
-
+* :mtgexp:`MAT` :doc:`March of the Machine - Aftermath<MAT>` |MAT_percent|
+* :mtgexp:`MOM` :doc:`March of the Machine<MOM>` |MOM_percent|
 * :mtgexp:`ONE` :doc:`Phyrexia: All Will Be One<ONE>` |ONE_percent|
 * :mtgexp:`BRO` :doc:`Brother's War<BRO>` |BRO_percent| (dodatkowo okraszone specjalnymi :doc:`Arefaktami<BRR>` z symbolem :mtgexp:`BRR` - w większości spoza Standardu)
 * :mtgexp:`DMU` :doc:`Dominaria United<DMU>` |DMU_percent|
@@ -56,6 +61,12 @@ Jest podzbiorem wszystkich innych formatów.
 * :mtgexp:`NEO` :doc:`Kamigawa: Neon Dynasty<NEO>` |NEO_percent|
 * :mtgexp:`VOW` :doc:`Innistrad: Crimson Vow<VOW>` |VOW_percent|
 * :mtgexp:`MID` :doc:`Innistrad: Midnight Hunt<MID>` |MID_percent|
+
+Suplementy
+----------
+
+* :mtgexp:`MUL` :doc:`Multiverse Legends<MUL>` |MUL_percent|
+
 
 Pionier
 -------

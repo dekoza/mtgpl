@@ -157,6 +157,10 @@
    Enchanted creature gets +1/+1.
 
 
+:mtgtip:`Shorecomber Crab<https://cards.scryfall.io/border_crop/front/d/0/d0d899e1-bded-4e16-8ecc-cc07784af4bb.jpg?1680962671|https://scryfall.com/card/anb/32a/shorecomber-crab?utm_source=api>`
+   
+
+
 :mtgtip:`Sleep<https://cards.scryfall.io/border_crop/front/9/5/959aeb66-311d-4a73-9120-e73692cb252c.jpg?1597376866|https://scryfall.com/card/anb/33/sleep?utm_source=api>`
    Tap all creatures target player controls. Those creatures don't untap during that player's next untap step.
 
@@ -273,6 +277,10 @@
 
 :mtgtip:`Raise Dead<https://cards.scryfall.io/border_crop/front/a/6/a68fdb3d-cb34-4691-ada3-ff47b6802363.jpg?1597377056|https://scryfall.com/card/anb/56/raise-dead?utm_source=api>`
    Return target creature card from your graveyard to your hand.
+
+
+:mtgtip:`Rise from the Grave<https://cards.scryfall.io/border_crop/front/4/1/4139383e-6c7c-4053-8e89-8b601e4ae98e.jpg?1680992790|https://scryfall.com/card/anb/56b/rise-from-the-grave?utm_source=api>`
+   Put target creature card from a graveyard onto the battlefield under your control. That creature is a black Zombie in addition to its other colors and types.
 
 
 :mtgtip:`Sanitarium Skeleton<https://cards.scryfall.io/border_crop/front/5/8/580ed607-2338-4119-b24c-7657133dc6be.jpg?1597377063|https://scryfall.com/card/anb/57/sanitarium-skeleton?utm_source=api>`
@@ -543,10 +551,10 @@
    (|tap|: Add |mana_b|.)
 
 
-:mtgtip:`Arcane Signet<https://cards.scryfall.io/border_crop/front/e/a/eae6e393-315b-4f70-9da2-c58003e2813d.jpg?1662251936|https://scryfall.com/card/anb/117/arcane-signet?utm_source=api>`
+:mtgtip:`Arcane Signet<https://cards.scryfall.io/border_crop/front/e/a/eae6e393-315b-4f70-9da2-c58003e2813d.jpg?1679620375|https://scryfall.com/card/anb/117/arcane-signet?utm_source=api>`
    |tap|: Add one mana of any color in your commander's color identity.
 
 
-:mtgtip:`Command Tower<https://cards.scryfall.io/border_crop/front/b/d/bde73c08-40f6-42bd-9c38-348fcef97aa5.jpg?1652898645|https://scryfall.com/card/anb/118/command-tower?utm_source=api>`
+:mtgtip:`Command Tower<https://cards.scryfall.io/border_crop/front/b/d/bde73c08-40f6-42bd-9c38-348fcef97aa5.jpg?1679620383|https://scryfall.com/card/anb/118/command-tower?utm_source=api>`
    |tap|: Add one mana of any color in your commander's color identity.
 

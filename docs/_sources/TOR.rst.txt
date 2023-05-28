@@ -306,7 +306,7 @@
 
 
 :mtgtip:`Chainer, Dementia Master<https://cards.scryfall.io/border_crop/front/4/0/40342b11-1005-4ccc-bef4-9ea4c640b048.jpg?1562629465|https://scryfall.com/card/tor/56/chainer-dementia-master?utm_source=api>`
-   Nightmare creatures get +1/+1.
+   All Nightmares get +1/+1.
 
    |mana_b|\ |mana_b|\ |mana_b|, Pay 3 life: Put target creature card from a graveyard onto the battlefield under your control. That creature is black and is a Nightmare in addition to its other creature types.
 
@@ -332,7 +332,7 @@
 
 
 :mtgtip:`Faceless Butcher<https://cards.scryfall.io/border_crop/front/4/0/4073be21-c54a-4eee-9109-f3adfe757c4e.jpg?1562629472|https://scryfall.com/card/tor/60/faceless-butcher?utm_source=api>`
-   When Faceless Butcher enters the battlefield, exile target creature other than Faceless Butcher.
+   When Faceless Butcher enters the battlefield, exile another target creature.
 
    When Faceless Butcher leaves the battlefield, return the exiled card to the battlefield under its owner's control.
 

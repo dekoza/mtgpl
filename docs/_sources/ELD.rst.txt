@@ -515,7 +515,7 @@
    Sacrifice a Food: Return Cauldron Familiar from your graveyard to the battlefield.
 
 
-:mtgtip:`A-Cauldron Familiar<https://cards.scryfall.io/border_crop/front/c/5/c55cdc15-e289-49a0-94d9-d0a118ad0a2a.jpg?1658633053|https://scryfall.com/card/eld/A-81/a-cauldron-familiar?utm_source=api>`
+:mtgtip:`A-Cauldron Familiar<https://cards.scryfall.io/border_crop/front/c/5/c55cdc15-e289-49a0-94d9-d0a118ad0a2a.jpg?1681158398|https://scryfall.com/card/eld/A-81/a-cauldron-familiar?utm_source=api>`
    A-Cauldron Familiar can't block.
 
    When Cauldron Familiar enters the battlefield, each opponent loses 1 life and you gain 1 life.
@@ -799,7 +799,7 @@
    You may cast spells with mana value less than or equal to the number of lands you control without paying their mana costs.
 
 
-:mtgtip:`A-Fires of Invention<https://cards.scryfall.io/border_crop/front/2/4/24729f25-e900-4a71-a304-7346eb17990a.jpg?1649850189|https://scryfall.com/card/eld/A-125/a-fires-of-invention?utm_source=api>`
+:mtgtip:`A-Fires of Invention<https://cards.scryfall.io/border_crop/front/2/4/24729f25-e900-4a71-a304-7346eb17990a.jpg?1681158808|https://scryfall.com/card/eld/A-125/a-fires-of-invention?utm_source=api>`
    You can cast spells only during your turn and you can cast no more than two spells each turn.
 
    You may cast spells with mana value less than or equal to the number of lands you control without paying their mana costs.
@@ -1579,7 +1579,7 @@
    (|tap|: Add |mana_g|.)
 
 
-:mtgtip:`Kenrith, the Returned King<https://cards.scryfall.io/border_crop/front/5/6/56c1227e-bea7-47cb-bbec-389a3d585af5.jpg?1637568481|https://scryfall.com/card/eld/303/kenrith-the-returned-king?utm_source=api>`
+:mtgtip:`Kenrith, the Returned King<https://cards.scryfall.io/border_crop/front/5/6/56c1227e-bea7-47cb-bbec-389a3d585af5.jpg?1680739383|https://scryfall.com/card/eld/303/kenrith-the-returned-king?utm_source=api>`
    |mana_r|: All creatures gain trample and haste until end of turn.
 
    |mana_1|\ |mana_g|: Put a +1/+1 counter on target creature.

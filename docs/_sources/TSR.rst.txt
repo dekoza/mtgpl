@@ -1515,7 +1515,7 @@
    Creatures you control have flying, first strike, vigilance, trample, haste, and protection from black and from red.
 
 
-:mtgtip:`Chromatic Star<https://cards.scryfall.io/border_crop/front/c/2/c2e8d492-2c67-410b-b556-c157a14c4cec.jpg?1619404181|https://scryfall.com/card/tsr/263/chromatic-star?utm_source=api>`
+:mtgtip:`Chromatic Star<https://cards.scryfall.io/border_crop/front/c/2/c2e8d492-2c67-410b-b556-c157a14c4cec.jpg?1681724919|https://scryfall.com/card/tsr/263/chromatic-star?utm_source=api>`
    |mana_1|, |tap|, Sacrifice Chromatic Star: Add one mana of any color.
 
    When Chromatic Star is put into a graveyard from the battlefield, draw a card.

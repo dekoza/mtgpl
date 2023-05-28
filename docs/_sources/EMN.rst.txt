@@ -117,7 +117,7 @@
    (Melds with Gisela, the Broken Blade.)
 
 
-:mtgtip:`Brisela, Voice of Nightmares<https://cards.scryfall.io/border_crop/front/5/a/5a7a212e-e0b6-4f12-a95c-173cae023f93.jpg?1664998568|https://scryfall.com/card/emn/15b/brisela-voice-of-nightmares?utm_source=api>`
+:mtgtip:`Brisela, Voice of Nightmares<https://cards.scryfall.io/border_crop/front/5/a/5a7a212e-e0b6-4f12-a95c-173cae023f93.jpg?1679517857|https://scryfall.com/card/emn/15b/brisela-voice-of-nightmares?utm_source=api>`
    Flying, first strike, vigilance, lifelink
 
    Your opponents can't cast spells with mana value 3 or less.
@@ -593,7 +593,7 @@
    (Melds with Graf Rats.)
 
 
-:mtgtip:`Chittering Host<https://cards.scryfall.io/border_crop/front/7/0/70b94f21-4f01-46f8-ad50-e2bb0b68ea33.jpg?1625771745|https://scryfall.com/card/emn/96b/chittering-host?utm_source=api>`
+:mtgtip:`Chittering Host<https://cards.scryfall.io/border_crop/front/7/0/70b94f21-4f01-46f8-ad50-e2bb0b68ea33.jpg?1679517861|https://scryfall.com/card/emn/96b/chittering-host?utm_source=api>`
    Haste
 
    Menace (This creature can't be blocked except by two or more creatures.)
@@ -797,7 +797,7 @@
    (Melds with Hanweir Battlements.)
 
 
-:mtgtip:`Hanweir, the Writhing Township<https://cards.scryfall.io/border_crop/front/6/7/671fe14d-0070-4bc7-8983-707b570f4492.jpg?1664998584|https://scryfall.com/card/emn/130b/hanweir-the-writhing-township?utm_source=api>`
+:mtgtip:`Hanweir, the Writhing Township<https://cards.scryfall.io/border_crop/front/6/7/671fe14d-0070-4bc7-8983-707b570f4492.jpg?1683813404|https://scryfall.com/card/emn/130b/hanweir-the-writhing-township?utm_source=api>`
    Trample, haste
 
    Whenever Hanweir, the Writhing Township attacks, create two 3/2 colorless Eldrazi Horror creature tokens that are tapped and attacking.
@@ -1113,10 +1113,10 @@
    Whenever a creature you control attacks, defending player loses 1 life and you gain 1 life.
 
 
-:mtgtip:`Gisa and Geralf<https://cards.scryfall.io/border_crop/front/2/e/2e2c85d8-0bef-40d0-abaf-4555462c29c5.jpg?1576384983|https://scryfall.com/card/emn/183/gisa-and-geralf?utm_source=api>`
+:mtgtip:`Gisa and Geralf<https://cards.scryfall.io/border_crop/front/2/e/2e2c85d8-0bef-40d0-abaf-4555462c29c5.jpg?1684440778|https://scryfall.com/card/emn/183/gisa-and-geralf?utm_source=api>`
    When Gisa and Geralf enters the battlefield, mill four cards.
 
-   During each of your turns, you may cast a Zombie creature spell from your graveyard.
+   Once during each of your turns, you may cast a Zombie creature spell from your graveyard.
 
 
 :mtgtip:`Grim Flayer<https://cards.scryfall.io/border_crop/front/0/2/025af99f-a029-4f99-9c76-676b68821520.jpg?1576384990|https://scryfall.com/card/emn/184/grim-flayer?utm_source=api>`

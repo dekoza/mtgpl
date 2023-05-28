@@ -261,11 +261,11 @@
    At the beginning of combat on your turn, populate. The token created this way gains haste. Sacrifice it at the beginning of the next end step. (To populate, create a token that's a copy of a creature token you control.)
 
 
-:mtgtip:`Indulge<https://cards.scryfall.io/border_crop/front/d/6/d653b755-1e09-45c4-8d44-8a950151ca51.jpg?1675491814|https://scryfall.com/card/ncc/46/indulge-excess?utm_source=api>`
+:mtgtip:`Indulge<https://cards.scryfall.io/border_crop/front/d/6/d653b755-1e09-45c4-8d44-8a950151ca51.jpg?1681394433|https://scryfall.com/card/ncc/46/indulge-excess?utm_source=api>`
    Whenever a creature you control attacks this turn, create a 1/1 green and white Citizen creature token that's tapped and attacking.
 
 
-:mtgtip:`Excess<https://cards.scryfall.io/border_crop/front/d/6/d653b755-1e09-45c4-8d44-8a950151ca51.jpg?1675491814|https://scryfall.com/card/ncc/46/indulge-excess?utm_source=api>`
+:mtgtip:`Excess<https://cards.scryfall.io/border_crop/front/d/6/d653b755-1e09-45c4-8d44-8a950151ca51.jpg?1681394433|https://scryfall.com/card/ncc/46/indulge-excess?utm_source=api>`
    Aftermath (Cast this spell only from your graveyard. Then exile it.)
 
    Create a Treasure token for each creature you controlled that dealt combat damage to a player this turn.
@@ -371,7 +371,7 @@
    Whenever Park Heights Maverick deals combat damage to a player or dies, proliferate.
 
 
-:mtgtip:`Scepter of Celebration<https://cards.scryfall.io/border_crop/front/4/0/404b786c-b64c-4935-b0d3-4dd7a2d14c37.jpg?1673482281|https://scryfall.com/card/ncc/64/scepter-of-celebration?utm_source=api>`
+:mtgtip:`Scepter of Celebration<https://cards.scryfall.io/border_crop/front/4/0/404b786c-b64c-4935-b0d3-4dd7a2d14c37.jpg?1683892081|https://scryfall.com/card/ncc/64/scepter-of-celebration?utm_source=api>`
    Equipped creature gets +2/+0 and has trample.
 
    Whenever equipped creature deals combat damage to a player, create that many 1/1 green and white Citizen creature tokens.
@@ -1091,7 +1091,7 @@
    Whenever one or more Devils you control attack one or more players, you and those players each draw a card, then discard a card at random.
 
 
-:mtgtip:`Arasta of the Endless Web<https://cards.scryfall.io/border_crop/front/e/9/e905a310-02d5-4a86-bb58-2bb3502edba2.jpg?1673484451|https://scryfall.com/card/ncc/279/arasta-of-the-endless-web?utm_source=api>`
+:mtgtip:`Arasta of the Endless Web<https://cards.scryfall.io/border_crop/front/e/9/e905a310-02d5-4a86-bb58-2bb3502edba2.jpg?1681728820|https://scryfall.com/card/ncc/279/arasta-of-the-endless-web?utm_source=api>`
    Reach
 
    Whenever an opponent casts an instant or sorcery spell, create a 1/2 green Spider creature token with reach.

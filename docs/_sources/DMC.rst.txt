@@ -221,7 +221,7 @@
    Whenever a Desert enters the battlefield under your control, create two 1/1 red, green, and white Sand Warrior creature tokens.
 
 
-:mtgtip:`Jasmine Boreal of the Seven<https://cards.scryfall.io/border_crop/front/c/1/c1f5bcc4-3ec7-42ae-8e4b-80a9b9135ff0.jpg?1673304924|https://scryfall.com/card/dmc/33/jasmine-boreal-of-the-seven?utm_source=api>`
+:mtgtip:`Jasmine Boreal of the Seven<https://cards.scryfall.io/border_crop/front/c/1/c1f5bcc4-3ec7-42ae-8e4b-80a9b9135ff0.jpg?1679172088|https://scryfall.com/card/dmc/33/jasmine-boreal-of-the-seven?utm_source=api>`
    |tap|: Add |mana_g|\ |mana_w|. Spend this mana only to cast creature spells with no abilities.
 
    Creatures you control with no abilities can't be blocked by creatures with abilities.
@@ -245,7 +245,7 @@
    Whenever an Archer you control deals damage to a creature, you may pay |mana_2|. If you do, draw a card.
 
 
-:mtgtip:`Orca, Siege Demon<https://cards.scryfall.io/border_crop/front/8/5/8511fc1e-cff2-4d6c-b9c3-0a7f70ac3528.jpg?1673304955|https://scryfall.com/card/dmc/37/orca-siege-demon?utm_source=api>`
+:mtgtip:`Orca, Siege Demon<https://cards.scryfall.io/border_crop/front/8/5/8511fc1e-cff2-4d6c-b9c3-0a7f70ac3528.jpg?1681553521|https://scryfall.com/card/dmc/37/orca-siege-demon?utm_source=api>`
    Trample
 
    Whenever another creature dies, put a +1/+1 counter on Orca, Siege Demon.
@@ -595,7 +595,7 @@
    At the beginning of your upkeep, exile the top card of your library. You may play that card this turn.
 
 
-:mtgtip:`Chromanticore<https://cards.scryfall.io/border_crop/front/f/1/f1182463-348b-45b3-a662-68f06ac53699.jpg?1673305486|https://scryfall.com/card/dmc/146/chromanticore?utm_source=api>`
+:mtgtip:`Chromanticore<https://cards.scryfall.io/border_crop/front/f/1/f1182463-348b-45b3-a662-68f06ac53699.jpg?1681728973|https://scryfall.com/card/dmc/146/chromanticore?utm_source=api>`
    Bestow |mana_2|\ |mana_w|\ |mana_u|\ |mana_b|\ |mana_r|\ |mana_g| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
 
    Flying, first strike, vigilance, trample, lifelink

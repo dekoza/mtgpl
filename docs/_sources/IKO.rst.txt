@@ -375,7 +375,7 @@
    Whenever this creature mutates, you may return target creature an opponent controls to its owner's hand.
 
 
-:mtgtip:`Reconnaissance Mission<https://cards.scryfall.io/border_crop/front/a/e/ae9f7efa-d125-4f83-825e-172ea099a62a.jpg?1591226471|https://scryfall.com/card/iko/65/reconnaissance-mission?utm_source=api>`
+:mtgtip:`Reconnaissance Mission<https://cards.scryfall.io/border_crop/front/a/e/ae9f7efa-d125-4f83-825e-172ea099a62a.jpg?1681500843|https://scryfall.com/card/iko/65/reconnaissance-mission?utm_source=api>`
    Whenever a creature you control deals combat damage to a player, you may draw a card.
 
    Cycling |mana_2| (|mana_2|, Discard this card: Draw a card.)
@@ -813,7 +813,7 @@
    |mana_3|\ |mana_g|: Almighty Brushwagg gets +3/+3 until end of turn.
 
 
-:mtgtip:`Auspicious Starrix<https://cards.scryfall.io/border_crop/front/a/3/a39ae1e4-d4dd-4691-af5a-5fa25ace4ebe.jpg?1591227516|https://scryfall.com/card/iko/144/auspicious-starrix?utm_source=api>`
+:mtgtip:`Auspicious Starrix<https://cards.scryfall.io/border_crop/front/a/3/a39ae1e4-d4dd-4691-af5a-5fa25ace4ebe.jpg?1681500723|https://scryfall.com/card/iko/144/auspicious-starrix?utm_source=api>`
    Mutate |mana_5|\ |mana_g| (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
 
    Whenever this creature mutates, exile cards from the top of your library until you exile X permanent cards, where X is the number of times this creature has mutated. Put those permanent cards onto the battlefield.
@@ -1159,7 +1159,7 @@
    Whenever you discard one or more cards for the first time each turn, draw that many cards.
 
 
-:mtgtip:`Ruinous Ultimatum<https://cards.scryfall.io/border_crop/front/5/0/50c1d6ca-7789-46b5-bc89-85cc3915cb85.jpg?1591228208|https://scryfall.com/card/iko/204/ruinous-ultimatum?utm_source=api>`
+:mtgtip:`Ruinous Ultimatum<https://cards.scryfall.io/border_crop/front/5/0/50c1d6ca-7789-46b5-bc89-85cc3915cb85.jpg?1681500691|https://scryfall.com/card/iko/204/ruinous-ultimatum?utm_source=api>`
    Destroy all nonland permanents your opponents control.
 
 
@@ -1237,7 +1237,7 @@
    Whenever a non-Human creature you control attacks, look at the top six cards of your library. You may put a Human creature card from among them onto the battlefield tapped and attacking. It gains indestructible until end of turn. Put the rest of the cards on the bottom of your library in a random order.
 
 
-:mtgtip:`A-Winota, Joiner of Forces<https://cards.scryfall.io/border_crop/front/6/b/6bf6e906-9305-4003-b040-1dfecca590c1.jpg?1663649166|https://scryfall.com/card/iko/A-216/a-winota-joiner-of-forces?utm_source=api>`
+:mtgtip:`A-Winota, Joiner of Forces<https://cards.scryfall.io/border_crop/front/6/b/6bf6e906-9305-4003-b040-1dfecca590c1.jpg?1681159573|https://scryfall.com/card/iko/A-216/a-winota-joiner-of-forces?utm_source=api>`
    Whenever one or more non-Human creatures you control attack, look at the top six cards of your library. You may put a Human creature card from among them onto the battlefield tapped and attacking. It gains indestructible until end of turn. Put the rest of the cards on the bottom of your library in a random order.
 
 
@@ -1264,13 +1264,13 @@
 
 
 :mtgtip:`Gyruda, Doom of Depths<https://cards.scryfall.io/border_crop/front/9/7/97eb1804-6fd8-4917-af36-87fdfce39d3a.jpg?1591228372|https://scryfall.com/card/iko/221/gyruda-doom-of-depths?utm_source=api>`
-   Companion — Your starting deck contains only cards with even mana values. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| any time you could cast a sorcery.)
+   Companion — Your starting deck contains only cards with even mana values. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| as a sorcery.)
 
    When Gyruda enters the battlefield, each player mills four cards. Put a creature card with an even mana value from among the milled cards onto the battlefield under your control.
 
 
 :mtgtip:`Jegantha, the Wellspring<https://cards.scryfall.io/border_crop/front/1/d/1d52e527-3835-4350-8c01-0f2d5d623b9c.jpg?1676913289|https://scryfall.com/card/iko/222/jegantha-the-wellspring?utm_source=api>`
-   Companion — No card in your starting deck has more than one of the same mana symbol in its mana cost. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| any time you could cast a sorcery.)
+   Companion — No card in your starting deck has more than one of the same mana symbol in its mana cost. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| as a sorcery.)
 
    |tap|: Add |mana_w|\ |mana_u|\ |mana_b|\ |mana_r|\ |mana_g|. This mana can't be spent to pay generic mana costs.
 
@@ -1282,7 +1282,7 @@
 
 
 :mtgtip:`Kaheera, the Orphanguard<https://cards.scryfall.io/border_crop/front/d/4/d4ebed0b-8060-4a7b-a060-5cfcd2172b16.jpg?1623748548|https://scryfall.com/card/iko/224/kaheera-the-orphanguard?utm_source=api>`
-   Companion — Each creature card in your starting deck is a Cat, Elemental, Nightmare, Dinosaur, or Beast card. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| any time you could cast a sorcery.)
+   Companion — Each creature card in your starting deck is a Cat, Elemental, Nightmare, Dinosaur, or Beast card. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| as a sorcery.)
 
    Vigilance
 
@@ -1290,21 +1290,21 @@
 
 
 :mtgtip:`Keruga, the Macrosage<https://cards.scryfall.io/border_crop/front/a/9/a90ee952-de7a-420f-993c-a38db89bc8ac.jpg?1666782800|https://scryfall.com/card/iko/225/keruga-the-macrosage?utm_source=api>`
-   Companion — Your starting deck contains only cards with mana value 3 or greater and land cards. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| any time you could cast a sorcery.)
+   Companion — Your starting deck contains only cards with mana value 3 or greater and land cards. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| as a sorcery.)
 
    When Keruga, the Macrosage enters the battlefield, draw a card for each other permanent you control with mana value 3 or greater.
 
 
-:mtgtip:`Lurrus of the Dream-Den<https://cards.scryfall.io/border_crop/front/5/a/5ad36fb2-c44e-4085-ba0d-54277841ad3a.jpg?1650599605|https://scryfall.com/card/iko/226/lurrus-of-the-dream-den?utm_source=api>`
-   Companion — Each permanent card in your starting deck has mana value 2 or less. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| any time you could cast a sorcery.)
+:mtgtip:`Lurrus of the Dream-Den<https://cards.scryfall.io/border_crop/front/5/a/5ad36fb2-c44e-4085-ba0d-54277841ad3a.jpg?1682228556|https://scryfall.com/card/iko/226/lurrus-of-the-dream-den?utm_source=api>`
+   Companion — Each permanent card in your starting deck has mana value 2 or less. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| as a sorcery.)
 
    Lifelink
 
-   During each of your turns, you may cast one permanent spell with mana value 2 or less from your graveyard.
+   Once during each of your turns, you may cast a permanent spell with mana value 2 or less from your graveyard.
 
 
 :mtgtip:`Lutri, the Spellchaser<https://cards.scryfall.io/border_crop/front/f/b/fb1189c9-7842-466e-8238-1e02677d8494.jpg?1628801771|https://scryfall.com/card/iko/227/lutri-the-spellchaser?utm_source=api>`
-   Companion — Each nonland card in your starting deck has a different name. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| any time you could cast a sorcery.)
+   Companion — Each nonland card in your starting deck has a different name. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| as a sorcery.)
 
    Flash
 
@@ -1312,7 +1312,7 @@
 
 
 :mtgtip:`Obosh, the Preypiercer<https://cards.scryfall.io/border_crop/front/4/5/451507de-9c42-43ee-b9ba-1f69e9aa29d2.jpg?1591228450|https://scryfall.com/card/iko/228/obosh-the-preypiercer?utm_source=api>`
-   Companion — Your starting deck contains only cards with odd mana values and land cards. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| any time you could cast a sorcery.)
+   Companion — Your starting deck contains only cards with odd mana values and land cards. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| as a sorcery.)
 
    If a source you control with an odd mana value would deal damage to a permanent or player, it deals double that damage to that permanent or player instead.
 
@@ -1330,7 +1330,7 @@
 
 
 :mtgtip:`Umori, the Collector<https://cards.scryfall.io/border_crop/front/7/5/75ac31e0-ac70-4ee6-b2b1-cc445ffa1da9.jpg?1591228489|https://scryfall.com/card/iko/231/umori-the-collector?utm_source=api>`
-   Companion — Each nonland card in your starting deck shares a card type. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| any time you could cast a sorcery.)
+   Companion — Each nonland card in your starting deck shares a card type. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| as a sorcery.)
 
    As Umori, the Collector enters the battlefield, choose a card type.
 
@@ -1338,7 +1338,7 @@
 
 
 :mtgtip:`Yorion, Sky Nomad<https://cards.scryfall.io/border_crop/front/2/7/275426c4-c14e-47d0-a9d4-24da7f6f6911.jpg?1665402560|https://scryfall.com/card/iko/232/yorion-sky-nomad?utm_source=api>`
-   Companion — Your starting deck contains at least twenty cards more than the minimum deck size. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| any time you could cast a sorcery.)
+   Companion — Your starting deck contains at least twenty cards more than the minimum deck size. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| as a sorcery.)
 
    Flying
 
@@ -1346,7 +1346,7 @@
 
 
 :mtgtip:`Zirda, the Dawnwaker<https://cards.scryfall.io/border_crop/front/1/b/1bd8e61c-2ee8-4243-a848-7008810db8a0.jpg?1615132391|https://scryfall.com/card/iko/233/zirda-the-dawnwaker?utm_source=api>`
-   Companion — Each permanent card in your starting deck has an activated ability. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| any time you could cast a sorcery.)
+   Companion — Each permanent card in your starting deck has an activated ability. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| as a sorcery.)
 
    Abilities you activate that aren't mana abilities cost |mana_2| less to activate. This effect can't reduce the mana in that cost to less than one mana.
 
@@ -1387,7 +1387,7 @@
    Cycling |mana_2| (|mana_2|, Discard this card: Draw a card.)
 
 
-:mtgtip:`Sleeper Dart<https://cards.scryfall.io/border_crop/front/3/1/311f827a-1585-483e-b0fd-3dc05969b485.jpg?1591228570|https://scryfall.com/card/iko/240/sleeper-dart?utm_source=api>`
+:mtgtip:`Sleeper Dart<https://cards.scryfall.io/border_crop/front/3/1/311f827a-1585-483e-b0fd-3dc05969b485.jpg?1681500667|https://scryfall.com/card/iko/240/sleeper-dart?utm_source=api>`
    When Sleeper Dart enters the battlefield, draw a card.
 
    |tap|, Sacrifice Sleeper Dart: Target creature doesn't untap during its controller's next untap step.

@@ -5,29 +5,29 @@
 ======================================
 
 
-:mtgtip:`Atarka, World Render<https://cards.scryfall.io/border_crop/front/7/1/719f172b-f9ad-4960-af66-757eb54147f6.jpg?1673559973|https://scryfall.com/card/scd/1/atarka-world-render?utm_source=api>`
+:mtgtip:`Atarka, World Render<https://cards.scryfall.io/border_crop/front/7/1/719f172b-f9ad-4960-af66-757eb54147f6.jpg?1683836596|https://scryfall.com/card/scd/1/atarka-world-render?utm_source=api>`
    Flying, trample
 
    Whenever a Dragon you control attacks, it gains double strike until end of turn.
 
 
-:mtgtip:`Emmara, Soul of the Accord<https://cards.scryfall.io/border_crop/front/e/8/e8510a1e-62ca-462c-b036-d1312729f27d.jpg?1673559980|https://scryfall.com/card/scd/2/emmara-soul-of-the-accord?utm_source=api>`
+:mtgtip:`Emmara, Soul of the Accord<https://cards.scryfall.io/border_crop/front/e/8/e8510a1e-62ca-462c-b036-d1312729f27d.jpg?1683836594|https://scryfall.com/card/scd/2/emmara-soul-of-the-accord?utm_source=api>`
    Whenever Emmara, Soul of the Accord becomes tapped, create a 1/1 white Soldier creature token with lifelink.
 
 
-:mtgtip:`Gisa and Geralf<https://cards.scryfall.io/border_crop/front/4/d/4d8fd87c-caf7-402e-b543-e35ba3007bcb.jpg?1673559993|https://scryfall.com/card/scd/3/gisa-and-geralf?utm_source=api>`
+:mtgtip:`Gisa and Geralf<https://cards.scryfall.io/border_crop/front/4/d/4d8fd87c-caf7-402e-b543-e35ba3007bcb.jpg?1683836591|https://scryfall.com/card/scd/3/gisa-and-geralf?utm_source=api>`
    When Gisa and Geralf enters the battlefield, mill four cards.
 
-   During each of your turns, you may cast a Zombie creature spell from your graveyard.
+   Once during each of your turns, you may cast a Zombie creature spell from your graveyard.
 
 
-:mtgtip:`Isperia, Supreme Judge<https://cards.scryfall.io/border_crop/front/d/e/de3278de-a045-4290-b05f-3b19e7055091.jpg?1673560000|https://scryfall.com/card/scd/4/isperia-supreme-judge?utm_source=api>`
+:mtgtip:`Isperia, Supreme Judge<https://cards.scryfall.io/border_crop/front/d/e/de3278de-a045-4290-b05f-3b19e7055091.jpg?1683836628|https://scryfall.com/card/scd/4/isperia-supreme-judge?utm_source=api>`
    Flying
 
    Whenever a creature attacks you or a planeswalker you control, you may draw a card.
 
 
-:mtgtip:`Kardur, Doomscourge<https://cards.scryfall.io/border_crop/front/1/9/19e4d494-e8b3-4ae2-93e3-70c65ab90f15.jpg?1673560007|https://scryfall.com/card/scd/5/kardur-doomscourge?utm_source=api>`
+:mtgtip:`Kardur, Doomscourge<https://cards.scryfall.io/border_crop/front/1/9/19e4d494-e8b3-4ae2-93e3-70c65ab90f15.jpg?1683836583|https://scryfall.com/card/scd/5/kardur-doomscourge?utm_source=api>`
    When Kardur, Doomscourge enters the battlefield, until your next turn, creatures your opponents control attack each combat if able and attack a player other than you if able.
 
    Whenever an attacking creature dies, each opponent loses 1 life and you gain 1 life.

@@ -58,11 +58,11 @@
 :mtgtip:`Norn's Choirmaster<https://cards.scryfall.io/border_crop/front/1/d/1da10c9f-4c9f-4eee-8480-665c453215d4.jpg?1675905572|https://scryfall.com/card/onc/8/norns-choirmaster?utm_source=api>`
    Flying, first strike
 
-   Whenever a commander you control enters the battlefield or attacks, proliferate. (Choose any number of permanents and/or players, then give each another counter kind of each kind they already have.)
+   Whenever a commander you control enters the battlefield or attacks, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
 
 
 :mtgtip:`Norn's Decree<https://cards.scryfall.io/border_crop/front/7/6/76f28aa2-1c18-4d58-a3f9-6cd5b49280d8.jpg?1675905575|https://scryfall.com/card/onc/9/norns-decree?utm_source=api>`
-   Whenever one or more creatures an opponent controls deal combat damage to you, that player gets a poison counter.
+   Whenever one or more creatures an opponent controls deal combat damage to you, that opponent gets a poison counter.
 
    Whenever a player attacks, if one or more players being attacked are poisoned, the attacking player draws a card.
 
@@ -449,7 +449,7 @@
    |mana_1|\ |mana_r|, Sacrifice a Goblin: Siege-Gang Commander deals 2 damage to any target.
 
 
-:mtgtip:`Beast Within<https://cards.scryfall.io/border_crop/front/c/6/c6a30538-8a7b-425e-a9ae-562e527151ec.jpg?1675905737|https://scryfall.com/card/onc/104/beast-within?utm_source=api>`
+:mtgtip:`Beast Within<https://cards.scryfall.io/border_crop/front/c/6/c6a30538-8a7b-425e-a9ae-562e527151ec.jpg?1680795401|https://scryfall.com/card/onc/104/beast-within?utm_source=api>`
    Destroy target permanent. Its controller creates a 3/3 green Beast creature token.
 
 

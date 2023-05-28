@@ -177,7 +177,7 @@
    Orthodoxy Enforcer gets +2/+0 as long as you control two or more artifacts.
 
 
-:mtgtip:`Ossification<https://cards.scryfall.io/border_crop/front/0/d/0da03224-c1af-438f-96c2-b0e41e1070b7.jpg?1677285311|https://scryfall.com/card/one/26/ossification?utm_source=api>`
+:mtgtip:`Ossification<https://cards.scryfall.io/border_crop/front/0/d/0da03224-c1af-438f-96c2-b0e41e1070b7.jpg?1680795456|https://scryfall.com/card/one/26/ossification?utm_source=api>`
    Enchant basic land you control
 
    When Ossification enters the battlefield, exile target creature or planeswalker an opponent controls until Ossification leaves the battlefield.
@@ -281,7 +281,7 @@
    Gain control of target creature with mana value X or less. If X is 5 or more, create a token that's a copy of that creature.
 
 
-:mtgtip:`Bring the Ending<https://cards.scryfall.io/border_crop/front/b/a/ba9d9d26-0c76-4a09-aa25-b32854e70c0b.jpg?1675956949|https://scryfall.com/card/one/44/bring-the-ending?utm_source=api>`
+:mtgtip:`Bring the Ending<https://cards.scryfall.io/border_crop/front/b/a/ba9d9d26-0c76-4a09-aa25-b32854e70c0b.jpg?1681468862|https://scryfall.com/card/one/44/bring-the-ending?utm_source=api>`
    Counter target spell unless its controller pays |mana_2|.
 
    Corrupted — Counter that spell instead if its controller has three or more poison counters.
@@ -347,8 +347,8 @@
    As long as Ichor Synthesizer has four or more oil counters on it, it gets +2/+0 and can't be blocked.
 
 
-:mtgtip:`Ichormoon Gauntlet<https://cards.scryfall.io/border_crop/front/2/c/2c093ce0-2561-4847-ab58-f6f1650d743e.jpg?1675956970|https://scryfall.com/card/one/56/ichormoon-gauntlet?utm_source=api>`
-   Planeswalkers you control have "[0]: Proliferate" and "[-12]: Take an extra turn after this one."
+:mtgtip:`Ichormoon Gauntlet<https://cards.scryfall.io/border_crop/front/2/c/2c093ce0-2561-4847-ab58-f6f1650d743e.jpg?1684523650|https://scryfall.com/card/one/56/ichormoon-gauntlet?utm_source=api>`
+   Planeswalkers you control have "[0]: Proliferate" and "[−12]: Take an extra turn after this one."
 
    Whenever you cast a noncreature spell, choose a counter on target permanent. Put an additional counter of that kind on that permanent.
 
@@ -461,7 +461,7 @@
    |mana_2|: Put target card from your graveyard on the bottom of your library.
 
 
-:mtgtip:`Trawler Drake<https://cards.scryfall.io/border_crop/front/f/4/f442442d-2e5d-4913-82d8-bab2f31541f8.jpg?1676398895|https://scryfall.com/card/one/74/trawler-drake?utm_source=api>`
+:mtgtip:`Trawler Drake<https://cards.scryfall.io/border_crop/front/f/4/f442442d-2e5d-4913-82d8-bab2f31541f8.jpg?1680795495|https://scryfall.com/card/one/74/trawler-drake?utm_source=api>`
    Flying
 
    Trawler Drake enters the battlefield with an oil counter on it.
@@ -653,7 +653,7 @@
    Corrupted — When Ravenous Necrotitan enters the battlefield, sacrifice a creature unless an opponent has three or more poison counters.
 
 
-:mtgtip:`Scheming Aspirant<https://cards.scryfall.io/border_crop/front/8/d/8de80f71-82b5-499c-afc0-6bbae6b896ad.jpg?1675957049|https://scryfall.com/card/one/107/scheming-aspirant?utm_source=api>`
+:mtgtip:`Scheming Aspirant<https://cards.scryfall.io/border_crop/front/8/d/8de80f71-82b5-499c-afc0-6bbae6b896ad.jpg?1681468798|https://scryfall.com/card/one/107/scheming-aspirant?utm_source=api>`
    Whenever you proliferate, each opponent loses 2 life and you gain 2 life.
 
 
@@ -670,7 +670,7 @@
 :mtgtip:`Sheoldred's Headcleaver<https://cards.scryfall.io/border_crop/front/8/c/8c6b818f-6912-4ea1-a35a-c8cd7ee9aead.jpg?1675957050|https://scryfall.com/card/one/109/sheoldreds-headcleaver?utm_source=api>`
    Menace
 
-   Toxic 2 (Players dealt combat damage by this creature also gets two poison counter.)
+   Toxic 2 (Players dealt combat damage by this creature also get two poison counters.)
 
 
 :mtgtip:`Stinging Hivemaster<https://cards.scryfall.io/border_crop/front/c/d/cdbbcbe1-5317-455e-8d71-a4e2ad0addfc.jpg?1675957053|https://scryfall.com/card/one/110/stinging-hivemaster?utm_source=api>`
@@ -963,7 +963,7 @@
    Whenever Armored Scrapgorger becomes tapped, exile target card from a graveyard and put an oil counter on Armored Scrapgorger.
 
 
-:mtgtip:`Bloated Contaminator<https://cards.scryfall.io/border_crop/front/4/1/411bda96-6c65-475d-9850-0a9b3eefa553.jpg?1675957126|https://scryfall.com/card/one/159/bloated-contaminator?utm_source=api>`
+:mtgtip:`Bloated Contaminator<https://cards.scryfall.io/border_crop/front/4/1/411bda96-6c65-475d-9850-0a9b3eefa553.jpg?1678455105|https://scryfall.com/card/one/159/bloated-contaminator?utm_source=api>`
    Trample
 
    Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)
@@ -1080,9 +1080,7 @@
 
 
 :mtgtip:`Paladin of Predation<https://cards.scryfall.io/border_crop/front/7/5/758dbe61-6dc7-4b08-bdd6-7262257955fc.jpg?1675997685|https://scryfall.com/card/one/178/paladin-of-predation?utm_source=api>`
-   Toxic 6 (Players dealt combat damage by
-
-   this creature also get six poison counters.)
+   Toxic 6 (Players dealt combat damage by this creature also get six poison counters.)
 
    Paladin of Predation can't be blocked by creatures with power 2 or less.
 
@@ -1179,7 +1177,7 @@
    When Venomous Brutalizer enters the battlefield, you may pay |mana_1|\ |mana_g|. If you do, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
 
 
-:mtgtip:`Viral Spawning<https://cards.scryfall.io/border_crop/front/8/5/85ad30a1-3ecc-42ca-afe8-85df5bad9196.jpg?1676398993|https://scryfall.com/card/one/194/viral-spawning?utm_source=api>`
+:mtgtip:`Viral Spawning<https://cards.scryfall.io/border_crop/front/8/5/85ad30a1-3ecc-42ca-afe8-85df5bad9196.jpg?1680795489|https://scryfall.com/card/one/194/viral-spawning?utm_source=api>`
    Create a 3/3 green Phyrexian Beast creature token with toxic 1. (Players dealt combat damage by it also get a poison counter.)
 
    Corrupted — As long as an opponent has three or more poison counters and Viral Spawning is in your graveyard, it has flashback |mana_2|\ |mana_g|. (You may cast this card from your graveyard for its flashback cost. Then exile it.)
@@ -1498,13 +1496,13 @@
 
 
 :mtgtip:`Prosthetic Injector<https://cards.scryfall.io/border_crop/front/7/5/75a1beec-bafe-4243-b91e-040a88fb0e95.jpg?1675957249|https://scryfall.com/card/one/239/prosthetic-injector?utm_source=api>`
-   Equipped creature gets +0/+2 and has toxic 1. (Players dealt damage by equipped creature also get a poison counter.)
+   Equipped creature gets +0/+2 and has toxic 1. (Players dealt combat damage by equipped creature also get a poison counter.)
 
    Equip |mana_1|
 
 
 :mtgtip:`Ribskiff<https://cards.scryfall.io/border_crop/front/1/e/1ec8f984-5ed4-4b34-8b2a-a113cbba001d.jpg?1675957252|https://scryfall.com/card/one/240/ribskiff?utm_source=api>`
-   Toxic 2 (Players dealt combat damage by this permanent also get two poison counters.)
+   Toxic 2 (Players dealt combat damage by this creature also get two poison counters.)
 
    When Ribskiff enters the battlefield, draw a card.
 

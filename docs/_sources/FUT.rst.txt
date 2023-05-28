@@ -281,7 +281,7 @@
    Aura swap |mana_2|\ |mana_u| (|mana_2|\ |mana_u|: Exchange this Aura with an Aura card in your hand.)
 
 
-:mtgtip:`Blind Phantasm<https://cards.scryfall.io/border_crop/front/6/b/6b26ee7b-de1a-4a39-9580-89941c3d0f21.jpg?1562916536|https://scryfall.com/card/fut/49/blind-phantasm?utm_source=api>`
+:mtgtip:`Blind Phantasm<https://cards.scryfall.io/border_crop/front/6/b/6b26ee7b-de1a-4a39-9580-89941c3d0f21.jpg?1682719406|https://scryfall.com/card/fut/49/blind-phantasm?utm_source=api>`
    
 
 

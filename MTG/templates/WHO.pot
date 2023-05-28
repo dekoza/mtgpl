@@ -1,0 +1,293 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013-2022, Dominik Kozaczko
+# This file is distributed under the same license as the MTG po polsku package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MTG po polsku 2023.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-28 11:31+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../symbols.rst:3
+msgid "{C}"
+msgstr ""
+
+#: ../../symbols.rst:5
+msgid "{T}"
+msgstr ""
+
+#: ../../symbols.rst:7
+msgid "{Q}"
+msgstr ""
+
+#: ../../symbols.rst:9
+msgid "{U}"
+msgstr ""
+
+#: ../../symbols.rst:11
+msgid "{W}"
+msgstr ""
+
+#: ../../symbols.rst:13
+msgid "{B}"
+msgstr ""
+
+#: ../../symbols.rst:15
+msgid "{G}"
+msgstr ""
+
+#: ../../symbols.rst:17
+msgid "{R}"
+msgstr ""
+
+#: ../../symbols.rst:19
+msgid "{2/U}"
+msgstr ""
+
+#: ../../symbols.rst:21
+msgid "{2/W}"
+msgstr ""
+
+#: ../../symbols.rst:23
+msgid "{2/B}"
+msgstr ""
+
+#: ../../symbols.rst:25
+msgid "{2/G}"
+msgstr ""
+
+#: ../../symbols.rst:27
+msgid "{2/R}"
+msgstr ""
+
+#: ../../symbols.rst:29
+msgid "{U/P}"
+msgstr ""
+
+#: ../../symbols.rst:31
+msgid "{W/P}"
+msgstr ""
+
+#: ../../symbols.rst:33
+msgid "{B/P}"
+msgstr ""
+
+#: ../../symbols.rst:35
+msgid "{G/P}"
+msgstr ""
+
+#: ../../symbols.rst:37
+msgid "{R/P}"
+msgstr ""
+
+#: ../../symbols.rst:39
+msgid "{X}"
+msgstr ""
+
+#: ../../symbols.rst:41
+msgid "{P}"
+msgstr ""
+
+#: ../../symbols.rst:43
+msgid "{0}"
+msgstr ""
+
+#: ../../symbols.rst:45
+msgid "{1}"
+msgstr ""
+
+#: ../../symbols.rst:47
+msgid "{2}"
+msgstr ""
+
+#: ../../symbols.rst:49
+msgid "{3}"
+msgstr ""
+
+#: ../../symbols.rst:51
+msgid "{4}"
+msgstr ""
+
+#: ../../symbols.rst:53
+msgid "{5}"
+msgstr ""
+
+#: ../../symbols.rst:55
+msgid "{6}"
+msgstr ""
+
+#: ../../symbols.rst:57
+msgid "{7}"
+msgstr ""
+
+#: ../../symbols.rst:59
+msgid "{8}"
+msgstr ""
+
+#: ../../symbols.rst:61
+msgid "{9}"
+msgstr ""
+
+#: ../../symbols.rst:63
+msgid "{10}"
+msgstr ""
+
+#: ../../symbols.rst:65
+msgid "{11}"
+msgstr ""
+
+#: ../../symbols.rst:67
+msgid "{12}"
+msgstr ""
+
+#: ../../symbols.rst:69
+msgid "{13}"
+msgstr ""
+
+#: ../../symbols.rst:71
+msgid "{14}"
+msgstr ""
+
+#: ../../symbols.rst:73
+msgid "{15}"
+msgstr ""
+
+#: ../../symbols.rst:75
+msgid "{16}"
+msgstr ""
+
+#: ../../symbols.rst:77
+msgid "{20}"
+msgstr ""
+
+#: ../../symbols.rst:79
+msgid "{(r/g)}"
+msgstr ""
+
+#: ../../symbols.rst:81
+msgid "{(r/w)}"
+msgstr ""
+
+#: ../../symbols.rst:83
+msgid "{(u/b)}"
+msgstr ""
+
+#: ../../symbols.rst:85
+msgid "{(u/r)}"
+msgstr ""
+
+#: ../../symbols.rst:87
+msgid "{(w/b)}"
+msgstr ""
+
+#: ../../symbols.rst:89
+msgid "{(w/u)}"
+msgstr ""
+
+#: ../../symbols.rst:91
+msgid "{(b/g)}"
+msgstr ""
+
+#: ../../symbols.rst:93
+msgid "{(b/r)}"
+msgstr ""
+
+#: ../../symbols.rst:95
+msgid "{(g/w)}"
+msgstr ""
+
+#: ../../symbols.rst:97
+msgid "{(g/u)}"
+msgstr ""
+
+#: ../../symbols.rst:99
+msgid "{(g/u/p)}"
+msgstr ""
+
+#: ../../symbols.rst:101
+msgid "{(g/w/p)}"
+msgstr ""
+
+#: ../../symbols.rst:103
+msgid "{S}"
+msgstr ""
+
+#: ../../symbols.rst:105
+msgid "{E}"
+msgstr ""
+
+#: ../../symbols.rst:107
+msgid "{CHAOS}"
+msgstr ""
+
+#: ../../symbols.rst:109
+msgid "{PW}"
+msgstr ""
+
+#: ../../WHO.rst:5
+msgid ":mtgexp:`WHO` Universes Beyond: Doctor Who"
+msgstr ""
+
+#: ../../WHO.rst:10
+msgid ":mtgtip:`Plains<https://cards.scryfall.io/border_crop/front/1/a/1aaea970-a19c-400a-a8cb-5d30f9cc2672.jpg?1683334677|https://scryfall.com/card/who/197/plains?utm_source=api>`"
+msgstr ""
+
+#: ../../WHO.rst:9
+msgid "(|tap|: Add |mana_w|.)"
+msgstr ""
+
+#: ../../WHO.rst:14
+msgid ":mtgtip:`Island<https://cards.scryfall.io/border_crop/front/1/2/12b2aae2-a0b4-4c52-8a43-a4155527bae9.jpg?1683334571|https://scryfall.com/card/who/199/island?utm_source=api>`"
+msgstr ""
+
+#: ../../WHO.rst:13
+msgid "(|tap|: Add |mana_u|.)"
+msgstr ""
+
+#: ../../WHO.rst:18
+msgid ":mtgtip:`Swamp<https://cards.scryfall.io/border_crop/front/1/c/1c5d8a2c-b98a-4dae-8b89-4a2435fa7103.jpg?1683334713|https://scryfall.com/card/who/201/swamp?utm_source=api>`"
+msgstr ""
+
+#: ../../WHO.rst:17
+msgid "(|tap|: Add |mana_b|.)"
+msgstr ""
+
+#: ../../WHO.rst:22
+msgid ":mtgtip:`Mountain<https://cards.scryfall.io/border_crop/front/4/9/49f1fe4e-8da1-4879-8129-bd8a440a45be.jpg?1683334690|https://scryfall.com/card/who/203/mountain?utm_source=api>`"
+msgstr ""
+
+#: ../../WHO.rst:21
+msgid "(|tap|: Add |mana_r|.)"
+msgstr ""
+
+#: ../../WHO.rst:26
+msgid ":mtgtip:`Forest<https://cards.scryfall.io/border_crop/front/1/5/15b3f35e-451e-4de6-a4f7-249287566964.jpg?1683334664|https://scryfall.com/card/who/205/forest?utm_source=api>`"
+msgstr ""
+
+#: ../../WHO.rst:25
+msgid "(|tap|: Add |mana_g|.)"
+msgstr ""
+
+#: ../../WHO.rst:33
+msgid ":mtgtip:`The Lux Foundation Library<https://cards.scryfall.io/border_crop/front/c/3/c3cd9db0-b417-42e8-b3be-00fdc9330014.jpg?1683334203|https://scryfall.com/card/who/588/the-lux-foundation-library?utm_source=api>`"
+msgstr ""
+
+#: ../../WHO.rst:29
+msgid "Players have no maximum hand size."
+msgstr ""
+
+#: ../../WHO.rst:31
+msgid "Whenever a creature you control deals combat damage to a player, you may draw a card."
+msgstr ""
+
+#: ../../WHO.rst:33
+msgid "Whenever chaos ensues, put a shadow counter on target creature. (A creature with shadow can block or be blocked by only creatures with shadow.)"
+msgstr ""

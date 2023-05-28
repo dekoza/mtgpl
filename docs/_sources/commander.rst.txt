@@ -9,6 +9,8 @@ Commander
 
 Poniżej znajduje się lista dodatków do formatu Commander oraz produkty pokrewne (np. :mtgexp:`BBD` :doc:`Battlebond<BBD>`):
 
+* :mtgexp:`MOC` :doc:`March of the Machine Commander Decks<MOC>` |MOC_percent|
+* :mtgexp:`ONC` :doc:`Phyrexia: All Will Be One Commander Decks<ONC>` |ONC_percent|
 * :mtgexp:`SCD` :doc:`Starter Commander Decks<SCD>` |SCD_percent|
 * :mtgexp:`BRC` :doc:`Brother's War Commander<BRC>` |BRC_percent|
 * :mtgexp:`40K` :doc:`Warhammer 40,000 Commander<40K>` |40K_percent|

@@ -131,7 +131,7 @@
    |mana_w|: Marble Gargoyle gets +0/+1 until end of turn.
 
 
-:mtgtip:`Nykthos Paragon<https://cards.scryfall.io/border_crop/front/2/9/2963205e-b181-44d1-809f-6577e29fa812.jpg?1626093830|https://scryfall.com/card/mh2/22/nykthos-paragon?utm_source=api>`
+:mtgtip:`Nykthos Paragon<https://cards.scryfall.io/border_crop/front/2/9/2963205e-b181-44d1-809f-6577e29fa812.jpg?1681729100|https://scryfall.com/card/mh2/22/nykthos-paragon?utm_source=api>`
    Whenever you gain life, you may put that many +1/+1 counters on each creature you control. Do this only once each turn.
 
 
@@ -364,7 +364,7 @@
 :mtgtip:`Rise and Shine<https://cards.scryfall.io/border_crop/front/2/e/2e658cb2-11c5-4b59-a91c-f26ac28e82af.jpg?1626094799|https://scryfall.com/card/mh2/58/rise-and-shine?utm_source=api>`
    Target noncreature artifact you control becomes a 0/0 artifact creature. Put four +1/+1 counters on each artifact that became a creature this way.
 
-   Overload |mana_4|\ |mana_u|\ |mana_u| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of "target" with "each.")
+   Overload |mana_4|\ |mana_u|\ |mana_u| (You may cast this spell for its overload cost. If you do, change "target" in its text to "each.")
 
 
 :mtgtip:`Rishadan Dockhand<https://cards.scryfall.io/border_crop/front/f/c/fc488a4c-2885-4727-8317-da93aee8fced.jpg?1626094834|https://scryfall.com/card/mh2/59/rishadan-dockhand?utm_source=api>`
@@ -751,7 +751,7 @@
    Delirium — As long as there are four or more card types among cards in your graveyard, Dragon's Rage Channeler gets +2/+2, has flying, and attacks each combat if able.
 
 
-:mtgtip:`A-Dragon's Rage Channeler<https://cards.scryfall.io/border_crop/front/a/e/ae8024ce-12c9-4139-934d-fb230103daa1.jpg?1658633068|https://scryfall.com/card/mh2/A-121/a-dragons-rage-channeler?utm_source=api>`
+:mtgtip:`A-Dragon's Rage Channeler<https://cards.scryfall.io/border_crop/front/a/e/ae8024ce-12c9-4139-934d-fb230103daa1.jpg?1681158590|https://scryfall.com/card/mh2/A-121/a-dragons-rage-channeler?utm_source=api>`
    Whenever you cast a noncreature spell, surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)
 
    Delirium — As long as there are four or more card types among cards in your graveyard, Dragon's Rage Channeler gets +2/+0, has flying, and attacks each combat if able.
@@ -847,7 +847,7 @@
    Mine Collapse deals 5 damage to target creature or planeswalker.
 
 
-:mtgtip:`Mount Velus Manticore<https://cards.scryfall.io/border_crop/front/6/6/667a356c-b10d-42f2-bb2f-c3fd9affa4bd.jpg?1626096874|https://scryfall.com/card/mh2/136/mount-velus-manticore?utm_source=api>`
+:mtgtip:`Mount Velus Manticore<https://cards.scryfall.io/border_crop/front/6/6/667a356c-b10d-42f2-bb2f-c3fd9affa4bd.jpg?1681729120|https://scryfall.com/card/mh2/136/mount-velus-manticore?utm_source=api>`
    At the beginning of combat on your turn, you may discard a card. When you do, Mount Velus Manticore deals X damage to any target, where X is the number of card types the discarded card has.
 
 
@@ -859,7 +859,7 @@
    When Obsidian Charmaw enters the battlefield, destroy target nonbasic land an opponent controls.
 
 
-:mtgtip:`Ragavan, Nimble Pilferer<https://cards.scryfall.io/border_crop/front/a/9/a9738cda-adb1-47fb-9f4c-ecd930228c4d.jpg?1653966896|https://scryfall.com/card/mh2/138/ragavan-nimble-pilferer?utm_source=api>`
+:mtgtip:`Ragavan, Nimble Pilferer<https://cards.scryfall.io/border_crop/front/a/9/a9738cda-adb1-47fb-9f4c-ecd930228c4d.jpg?1681963138|https://scryfall.com/card/mh2/138/ragavan-nimble-pilferer?utm_source=api>`
    Whenever Ragavan, Nimble Pilferer deals combat damage to a player, create a Treasure token and exile the top card of that player's library. Until end of turn, you may cast that card.
 
    Dash |mana_1|\ |mana_r| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)
@@ -907,7 +907,7 @@
    Delirium — Unholy Heat deals 6 damage instead if there are four or more card types among cards in your graveyard.
 
 
-:mtgtip:`A-Unholy Heat<https://cards.scryfall.io/border_crop/front/8/9/89d5d2b5-3769-4341-b84e-03771dbb7491.jpg?1658485688|https://scryfall.com/card/mh2/A-145/a-unholy-heat?utm_source=api>`
+:mtgtip:`A-Unholy Heat<https://cards.scryfall.io/border_crop/front/8/9/89d5d2b5-3769-4341-b84e-03771dbb7491.jpg?1681159562|https://scryfall.com/card/mh2/A-145/a-unholy-heat?utm_source=api>`
    Unholy Heat deals 2 damage to target creature or planeswalker.
 
    Delirium — Unholy Heat deals 4 damage instead if there are four or more card types among cards in your graveyard.
@@ -1065,7 +1065,7 @@
    Suspend 2—|mana_g| (Rather than cast this card from your hand, you may pay |mana_g| and exile it with two time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)
 
 
-:mtgtip:`Sanctum Weaver<https://cards.scryfall.io/border_crop/front/4/d/4d42e22d-f60e-40c5-b069-5e1708f3bebc.jpg?1626097732|https://scryfall.com/card/mh2/171/sanctum-weaver?utm_source=api>`
+:mtgtip:`Sanctum Weaver<https://cards.scryfall.io/border_crop/front/4/d/4d42e22d-f60e-40c5-b069-5e1708f3bebc.jpg?1681729270|https://scryfall.com/card/mh2/171/sanctum-weaver?utm_source=api>`
    |tap|: Add X mana of any one color, where X is the number of enchantments you control.
 
 
@@ -1349,13 +1349,13 @@
    Ruin deals damage to target creature equal to the number of lands you control.
 
 
-:mtgtip:`Storm God's Oracle<https://cards.scryfall.io/border_crop/front/a/6/a6d22f24-f752-4bc8-ba97-061b2c060ec8.jpg?1626098763|https://scryfall.com/card/mh2/213/storm-gods-oracle?utm_source=api>`
+:mtgtip:`Storm God's Oracle<https://cards.scryfall.io/border_crop/front/a/6/a6d22f24-f752-4bc8-ba97-061b2c060ec8.jpg?1681729360|https://scryfall.com/card/mh2/213/storm-gods-oracle?utm_source=api>`
    |mana_1|: Storm God's Oracle gets +1/-1 until end of turn.
 
    When Storm God's Oracle dies, it deals 3 damage to any target.
 
 
-:mtgtip:`Sythis, Harvest's Hand<https://cards.scryfall.io/border_crop/front/0/b/0babfe00-9bad-48fc-b3b1-df8280242fd2.jpg?1626098785|https://scryfall.com/card/mh2/214/sythis-harvests-hand?utm_source=api>`
+:mtgtip:`Sythis, Harvest's Hand<https://cards.scryfall.io/border_crop/front/0/b/0babfe00-9bad-48fc-b3b1-df8280242fd2.jpg?1681729369|https://scryfall.com/card/mh2/214/sythis-harvests-hand?utm_source=api>`
    Whenever you cast an enchantment spell, you gain 1 life and draw a card.
 
 

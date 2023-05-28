@@ -295,7 +295,7 @@
    |tap|, Mill a card: Add |colorless|. (To mill a card, put the top card of your library into your graveyard.)
 
 
-:mtgtip:`Dig Through Time<https://cards.scryfall.io/border_crop/front/0/1/01cd4184-93ce-4005-b6d1-140afa3dd429.jpg?1622764005|https://scryfall.com/card/uma/50/dig-through-time?utm_source=api>`
+:mtgtip:`Dig Through Time<https://cards.scryfall.io/border_crop/front/0/1/01cd4184-93ce-4005-b6d1-140afa3dd429.jpg?1680225510|https://scryfall.com/card/uma/50/dig-through-time?utm_source=api>`
    Delve (Each card you exile from your graveyard while casting this spell pays for |mana_1|.)
 
    Look at the top seven cards of your library. Put two of them into your hand and the rest on the bottom of your library in any order.
@@ -427,7 +427,7 @@
    Flying
 
 
-:mtgtip:`Stitcher's Apprentice<https://cards.scryfall.io/border_crop/front/7/1/717e34b9-161e-4b11-afb1-f41ee8027433.jpg?1547516555|https://scryfall.com/card/uma/73/stitchers-apprentice?utm_source=api>`
+:mtgtip:`Stitcher's Apprentice<https://cards.scryfall.io/border_crop/front/7/1/717e34b9-161e-4b11-afb1-f41ee8027433.jpg?1681725056|https://scryfall.com/card/uma/73/stitchers-apprentice?utm_source=api>`
    |mana_1|\ |mana_u|, |tap|: Create a 2/2 blue Homunculus creature token, then sacrifice a creature.
 
 

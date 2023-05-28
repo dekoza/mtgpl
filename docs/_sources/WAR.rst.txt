@@ -851,7 +851,7 @@
    −1: Put a +1/+1 counter on target creature.
 
 
-:mtgtip:`Kraul Stinger<https://cards.scryfall.io/border_crop/front/4/6/46b88fe9-2450-47ee-ac1e-bbbccbf5684f.jpg?1622763957|https://scryfall.com/card/war/165/kraul-stinger?utm_source=api>`
+:mtgtip:`Kraul Stinger<https://cards.scryfall.io/border_crop/front/4/6/46b88fe9-2450-47ee-ac1e-bbbccbf5684f.jpg?1680225502|https://scryfall.com/card/war/165/kraul-stinger?utm_source=api>`
    Deathtouch
 
 
@@ -927,7 +927,7 @@
    • Exile target card from a graveyard.
 
 
-:mtgtip:`Snarespinner<https://cards.scryfall.io/border_crop/front/4/8/48a0fcc5-57d3-43ab-9e3d-0e015792239a.jpg?1622764182|https://scryfall.com/card/war/176/snarespinner?utm_source=api>`
+:mtgtip:`Snarespinner<https://cards.scryfall.io/border_crop/front/4/8/48a0fcc5-57d3-43ab-9e3d-0e015792239a.jpg?1680225495|https://scryfall.com/card/war/176/snarespinner?utm_source=api>`
    Reach
 
    Whenever Snarespinner blocks a creature with flying, Snarespinner gets +2/+0 until end of turn.
@@ -1197,7 +1197,7 @@
    −3: Return target card from your graveyard to your hand.
 
 
-:mtgtip:`Teferi, Time Raveler<https://cards.scryfall.io/border_crop/front/5/c/5cb76266-ae50-4bbc-8f96-d98f309b02d3.jpg?1650599808|https://scryfall.com/card/war/221/teferi-time-raveler?utm_source=api>`
+:mtgtip:`Teferi, Time Raveler<https://cards.scryfall.io/border_crop/front/5/c/5cb76266-ae50-4bbc-8f96-d98f309b02d3.jpg?1681130129|https://scryfall.com/card/war/221/teferi-time-raveler?utm_source=api>`
    Each opponent can cast spells only any time they could cast a sorcery.
 
    +1: Until your next turn, you may cast sorcery spells as though they had flash.
@@ -1205,7 +1205,7 @@
    −3: Return up to one target artifact, creature, or enchantment to its owner's hand. Draw a card.
 
 
-:mtgtip:`A-Teferi, Time Raveler<https://cards.scryfall.io/border_crop/front/0/1/01091bfd-e9b8-4a9b-89a9-56da625a5d18.jpg?1647659886|https://scryfall.com/card/war/A-221/a-teferi-time-raveler?utm_source=api>`
+:mtgtip:`A-Teferi, Time Raveler<https://cards.scryfall.io/border_crop/front/0/1/01091bfd-e9b8-4a9b-89a9-56da625a5d18.jpg?1681151251|https://scryfall.com/card/war/A-221/a-teferi-time-raveler?utm_source=api>`
    Your opponents can't cast spells during your turn.
 
    +1: Until your next turn, you may cast sorcery spells as though they had flash.

@@ -616,7 +616,7 @@
 :mtgtip:`Gisa and Geralf<https://cards.scryfall.io/border_crop/front/3/7/377a5f75-222b-43e1-8998-18c6cfa44b24.jpg?1637631446|https://scryfall.com/card/mic/150/gisa-and-geralf?utm_source=api>`
    When Gisa and Geralf enters the battlefield, mill four cards.
 
-   During each of your turns, you may cast a Zombie creature spell from your graveyard.
+   Once during each of your turns, you may cast a Zombie creature spell from your graveyard.
 
 
 :mtgtip:`Gleaming Overseer<https://cards.scryfall.io/border_crop/front/9/4/94fa19ef-3e27-43a6-ac19-c4f532dfac8d.jpg?1637631472|https://scryfall.com/card/mic/151/gleaming-overseer?utm_source=api>`

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG po polsku 2023.5\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-28 11:10+0200\n"
+"POT-Creation-Date: 2023-05-28 11:31+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -236,14 +236,588 @@ msgstr ""
 msgid ":mtgexp:`MAT` March of the Machine: The Aftermath"
 msgstr ""
 
-#: ../../MAT.rst:11
-msgid ":mtgtip:`The Kenriths' Royal Funeral<https://cards.scryfall.io/border_crop/front/4/5/4569fb73-3555-4eb8-933a-130770dd56d1.jpg?1676854693|https://scryfall.com/card/mat/34/the-kenriths-royal-funeral?utm_source=api>`"
+#: ../../MAT.rst:10
+msgid ":mtgtip:`Coppercoat Vanguard<https://cards.scryfall.io/border_crop/front/d/7/d786f05d-78a2-41b6-a185-111e8c1b216b.jpg?1684340436|https://scryfall.com/card/mat/1/coppercoat-vanguard?utm_source=api>`"
 msgstr ""
 
 #: ../../MAT.rst:9
+msgid "Each other Human you control gets +1/+0 and has ward |mana_1|. (Whenever it becomes the target of a spell or ability an opponent controls, counter it unless that player pays |mana_1|.)"
+msgstr ""
+
+#: ../../MAT.rst:18
+msgid ":mtgtip:`Deification<https://cards.scryfall.io/border_crop/front/5/2/52ce799e-cb9e-4d74-8b13-a5f4559e13a9.jpg?1684340448|https://scryfall.com/card/mat/2/deification?utm_source=api>`"
+msgstr ""
+
+#: ../../MAT.rst:13
+msgid "As Deification enters the battlefield, choose a planeswalker type."
+msgstr ""
+
+#: ../../MAT.rst:15
+msgid "Planeswalkers you control of the chosen type have hexproof."
+msgstr ""
+
+#: ../../MAT.rst:17
+msgid "As long as you control a creature, if damage dealt to a planeswalker you control of the chosen type would result in all loyalty counters on it being removed, instead all but one of those counters are removed."
+msgstr ""
+
+#: ../../MAT.rst:24
+msgid ":mtgtip:`Harnessed Snubhorn<https://cards.scryfall.io/border_crop/front/5/5/553ed1d8-4d5c-48f8-8513-031bd8977d75.jpg?1684340458|https://scryfall.com/card/mat/3/harnessed-snubhorn?utm_source=api>`"
+msgstr ""
+
+#: ../../MAT.rst:21
+msgid "Vigilance"
+msgstr ""
+
+#: ../../MAT.rst:23
+msgid "Whenever Harnessed Snubhorn deals combat damage to a player, return target artifact or enchantment card from your graveyard to the battlefield."
+msgstr ""
+
+#: ../../MAT.rst:32
+msgid ":mtgtip:`Metropolis Reformer<https://cards.scryfall.io/border_crop/front/a/6/a61a3ba1-af6c-4ddc-aa82-34bfc30867d0.jpg?1684340467|https://scryfall.com/card/mat/4/metropolis-reformer?utm_source=api>`"
+msgstr ""
+
+#: ../../MAT.rst:27
+msgid "Flying, vigilance"
+msgstr ""
+
+#: ../../MAT.rst:29
+msgid "You have hexproof."
+msgstr ""
+
+#: ../../MAT.rst:31
+msgid "Whenever Metropolis Reformer is dealt damage, you gain that much life."
+msgstr ""
+
+#: ../../MAT.rst:38
+msgid ":mtgtip:`Spark Rupture<https://cards.scryfall.io/border_crop/front/a/0/a027a75f-4faf-4e96-9035-d1f622b9b607.jpg?1684340478|https://scryfall.com/card/mat/5/spark-rupture?utm_source=api>`"
+msgstr ""
+
+#: ../../MAT.rst:35
+msgid "When Spark Rupture enters the battlefield, draw a card."
+msgstr ""
+
+#: ../../MAT.rst:37
+msgid "Each planeswalker with one or more loyalty counters on it loses all abilities and is a creature with power and toughness each equal to the number of loyalty counters on it."
+msgstr ""
+
+#: ../../MAT.rst:44
+msgid ":mtgtip:`Tazri, Stalwart Survivor<https://cards.scryfall.io/border_crop/front/2/2/227d0d7d-544b-4736-914d-10d5d752eb42.jpg?1684340488|https://scryfall.com/card/mat/6/tazri-stalwart-survivor?utm_source=api>`"
+msgstr ""
+
+#: ../../MAT.rst:41
+msgid "Each creature you control has \"|tap|: Add one mana of any of this creature's colors. Spend this mana only to activate an ability of a creature. Activate only if this creature has another activated ability.\""
+msgstr ""
+
+#: ../../MAT.rst:43
+msgid "|mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|, |tap|: Mill five cards. Put all creature cards with activated abilities that aren't mana abilities from among the milled cards into your hand."
+msgstr ""
+
+#: ../../MAT.rst:48
+msgid ":mtgtip:`Filter Out<https://cards.scryfall.io/border_crop/front/a/8/a81a9eb1-240b-40fd-9282-0f5abec63449.jpg?1684340498|https://scryfall.com/card/mat/7/filter-out?utm_source=api>`"
+msgstr ""
+
+#: ../../MAT.rst:47
+msgid "Return all noncreature, nonland permanents to their owners' hands."
+msgstr ""
+
+#: ../../MAT.rst:54
+msgid ":mtgtip:`Tolarian Contempt<https://cards.scryfall.io/border_crop/front/f/7/f72a9deb-9329-4930-a906-136c26490d52.jpg?1684340507|https://scryfall.com/card/mat/8/tolarian-contempt?utm_source=api>`"
+msgstr ""
+
+#: ../../MAT.rst:51
+msgid "When Tolarian Contempt enters the battlefield, put a rejection counter on each creature your opponents control."
+msgstr ""
+
+#: ../../MAT.rst:53
+msgid "At the beginning of your end step, for each opponent, choose up to one target creature they control with a rejection counter on it. That creature's owner puts it on the top or bottom of their library."
+msgstr ""
+
+#: ../../MAT.rst:58
+msgid ":mtgtip:`Training Grounds<https://cards.scryfall.io/border_crop/front/9/9/991c27ed-f53c-48c6-8c12-282f44b8d441.jpg?1684340516|https://scryfall.com/card/mat/9/training-grounds?utm_source=api>`"
+msgstr ""
+
+#: ../../MAT.rst:57
+msgid "Activated abilities of creatures you control cost up to |mana_2| less to activate. This effect can't reduce the mana in that cost to less than one mana."
+msgstr ""
+
+#: ../../MAT.rst:66
+msgid ":mtgtip:`Vesuvan Drifter<https://cards.scryfall.io/border_crop/front/f/2/f2785902-2757-406b-bc75-6f05e0edc98d.jpg?1684340527|https://scryfall.com/card/mat/10/vesuvan-drifter?utm_source=api>`"
+msgstr ""
+
+#: ../../MAT.rst:61
+#: ../../MAT.rst:277
+msgid "Flying"
+msgstr ""
+
+#: ../../MAT.rst:63
+#: ../../MAT.rst:281
+msgid "You may look at the top card of your library any time."
+msgstr ""
+
+#: ../../MAT.rst:65
+msgid "At the beginning of each combat, you may reveal the top card of your library. If you reveal a creature card this way, Vesuvan Drifter becomes a copy of that card until end of turn, except it has flying."
+msgstr ""
+
+#: ../../MAT.rst:72
+msgid ":mtgtip:`Ayara's Oathsworn<https://cards.scryfall.io/border_crop/front/5/3/5330e6b7-eca3-46a4-8905-8f1de16f76af.jpg?1684340537|https://scryfall.com/card/mat/11/ayaras-oathsworn?utm_source=api>`"
+msgstr ""
+
+#: ../../MAT.rst:69
+msgid "Menace"
+msgstr ""
+
+#: ../../MAT.rst:71
+msgid "Whenever Ayara's Oathsworn deals combat damage to a player, if it has fewer than four +1/+1 counters on it, put a +1/+1 counter on it. Then if it has exactly four +1/+1 counters on it, search your library for a card, put it into your hand, then shuffle."
+msgstr ""
+
+#: ../../MAT.rst:76
+msgid ":mtgtip:`Blot Out<https://cards.scryfall.io/border_crop/front/4/2/424eb4c7-647e-4168-9471-f299e8e77f5f.jpg?1684340545|https://scryfall.com/card/mat/12/blot-out?utm_source=api>`"
+msgstr ""
+
+#: ../../MAT.rst:75
+msgid "Target opponent exiles a creature or planeswalker they control with the greatest mana value among creatures and planeswalkers they control."
+msgstr ""
+
+#: ../../MAT.rst:84
+msgid ":mtgtip:`Death-Rattle Oni<https://cards.scryfall.io/border_crop/front/d/5/d5e0b5cf-39e8-454f-a942-f7865416ef81.jpg?1684340554|https://scryfall.com/card/mat/13/death-rattle-oni?utm_source=api>`"
+msgstr ""
+
+#: ../../MAT.rst:79
+msgid "Flash"
+msgstr ""
+
+#: ../../MAT.rst:81
+msgid "This spell costs |mana_2| less to cast for each creature that died this turn."
+msgstr ""
+
+#: ../../MAT.rst:83
+msgid "When Death-Rattle Oni enters the battlefield, destroy all other creatures that were dealt damage this turn."
+msgstr ""
+
+#: ../../MAT.rst:94
+msgid ":mtgtip:`Markov Baron<https://cards.scryfall.io/border_crop/front/a/1/a1dc6b0f-09bb-4489-8022-42c700eb1191.jpg?1684340562|https://scryfall.com/card/mat/14/markov-baron?utm_source=api>`"
+msgstr ""
+
+#: ../../MAT.rst:87
+msgid "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for |mana_1| or one mana of that creature's color.)"
+msgstr ""
+
+#: ../../MAT.rst:89
+msgid "Lifelink"
+msgstr ""
+
+#: ../../MAT.rst:91
+msgid "Other Vampires you control get +1/+1."
+msgstr ""
+
+#: ../../MAT.rst:93
+msgid "Madness |mana_2|\\ |mana_b| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
+msgstr ""
+
+#: ../../MAT.rst:100
+msgid ":mtgtip:`Urborg Scavengers<https://cards.scryfall.io/border_crop/front/4/d/4dbb4d8f-8ae3-4052-9c6a-e56e96cec832.jpg?1684340572|https://scryfall.com/card/mat/15/urborg-scavengers?utm_source=api>`"
+msgstr ""
+
+#: ../../MAT.rst:97
+msgid "Whenever Urborg Scavengers enters the battlefield or attacks, exile target card from a graveyard. Put a +1/+1 counter on Urborg Scavengers."
+msgstr ""
+
+#: ../../MAT.rst:99
+msgid "Urborg Scavengers has flying as long as a card exiled with it has flying. The same is true for first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, menace, reach, trample, and vigilance."
+msgstr ""
+
+#: ../../MAT.rst:104
+msgid ":mtgtip:`Arni Metalbrow<https://cards.scryfall.io/border_crop/front/a/e/aeb3069f-5f5a-4e11-8a63-46399eb85a95.jpg?1684340580|https://scryfall.com/card/mat/16/arni-metalbrow?utm_source=api>`"
+msgstr ""
+
+#: ../../MAT.rst:103
+msgid "Whenever a creature you control attacks or a creature enters the battlefield under your control attacking, you may pay |mana_1|\\ |mana_r|. If you do, you may put a creature card with mana value less than that creature's mana value from your hand onto the battlefield tapped and attacking."
+msgstr ""
+
+#: ../../MAT.rst:110
+msgid ":mtgtip:`Kolaghan Warmonger<https://cards.scryfall.io/border_crop/front/8/3/8361d9e2-b9fc-4d46-a1ba-a24139157f26.jpg?1684340589|https://scryfall.com/card/mat/17/kolaghan-warmonger?utm_source=api>`"
+msgstr ""
+
+#: ../../MAT.rst:107
+msgid "Haste"
+msgstr ""
+
+#: ../../MAT.rst:109
+msgid "Whenever Kolaghan Warmonger attacks, look at the top six cards of your library. You may reveal a Dragon card from among them and put it into your hand. Put the rest on the bottom of your library in a random order."
+msgstr ""
+
+#: ../../MAT.rst:114
+msgid ":mtgtip:`Plargg and Nassari<https://cards.scryfall.io/border_crop/front/1/7/179a0525-a142-46f6-9b5b-06a2fbb25556.jpg?1684340598|https://scryfall.com/card/mat/18/plargg-and-nassari?utm_source=api>`"
+msgstr ""
+
+#: ../../MAT.rst:113
+msgid "At the beginning of your upkeep, each player exiles cards from the top of their library until they exile a nonland card. An opponent chooses a nonland card exiled this way. You may cast up to two spells from among the other cards exiled this way without paying their mana costs."
+msgstr ""
+
+#: ../../MAT.rst:118
+msgid ":mtgtip:`Reckless Handling<https://cards.scryfall.io/border_crop/front/2/3/239165bb-7819-4d54-a84c-2911934253d6.jpg?1684340607|https://scryfall.com/card/mat/19/reckless-handling?utm_source=api>`"
+msgstr ""
+
+#: ../../MAT.rst:117
+msgid "Search your library for an artifact card, reveal it, put it into your hand, shuffle, then discard a card at random. If an artifact card was discarded this way, Reckless Handling deals 2 damage to each opponent."
+msgstr ""
+
+#: ../../MAT.rst:124
+msgid ":mtgtip:`Animist's Might<https://cards.scryfall.io/border_crop/front/8/5/8525ae50-7438-492a-98ae-53f0ffeaab51.jpg?1684340615|https://scryfall.com/card/mat/20/animists-might?utm_source=api>`"
+msgstr ""
+
+#: ../../MAT.rst:121
+msgid "This spell costs |mana_2| less to cast if it targets a legendary creature you control."
+msgstr ""
+
+#: ../../MAT.rst:123
+msgid "Target creature you control deals damage equal to twice its power to target creature or planeswalker you don't control."
+msgstr ""
+
+#: ../../MAT.rst:130
+msgid ":mtgtip:`Leyline Immersion<https://cards.scryfall.io/border_crop/front/1/9/197f5adc-e14b-4c84-896f-ef5f01f7ff57.jpg?1684340623|https://scryfall.com/card/mat/21/leyline-immersion?utm_source=api>`"
+msgstr ""
+
+#: ../../MAT.rst:127
+msgid "Enchant legendary creature"
+msgstr ""
+
+#: ../../MAT.rst:129
+msgid "Enchanted creature has ward |mana_2| and \"|tap|: Add five mana in any combination of colors. Spend this mana only to cast spells.\""
+msgstr ""
+
+#: ../../MAT.rst:134
+msgid ":mtgtip:`Nissa, Resurgent Animist<https://cards.scryfall.io/border_crop/front/2/4/248c76d3-b5cb-4582-be17-7cd1d0cb0f58.jpg?1684340632|https://scryfall.com/card/mat/22/nissa-resurgent-animist?utm_source=api>`"
+msgstr ""
+
+#: ../../MAT.rst:133
+msgid "Landfall — Whenever a land enters the battlefield under your control, add one mana of any color. Then if this is the second time this ability has resolved this turn, reveal cards from the top of your library until you reveal an Elf or Elemental card. Put that card into your hand and the rest on the bottom of your library in a random order."
+msgstr ""
+
+#: ../../MAT.rst:140
+msgid ":mtgtip:`Open the Way<https://cards.scryfall.io/border_crop/front/e/7/e72a911e-8291-48ca-bfc6-8907e3b57011.jpg?1684340640|https://scryfall.com/card/mat/23/open-the-way?utm_source=api>`"
+msgstr ""
+
+#: ../../MAT.rst:137
+msgid "X can't be greater than the number of players in the game."
+msgstr ""
+
+#: ../../MAT.rst:139
+msgid "Reveal cards from the top of your library until you reveal X land cards. Put those land cards onto the battlefield tapped and the rest on the bottom of your library in a random order."
+msgstr ""
+
+#: ../../MAT.rst:150
+msgid ":mtgtip:`Tranquil Frillback<https://cards.scryfall.io/border_crop/front/5/b/5b647377-d47e-4630-8ccc-933ef6127880.jpg?1684340650|https://scryfall.com/card/mat/24/tranquil-frillback?utm_source=api>`"
+msgstr ""
+
+#: ../../MAT.rst:143
+msgid "When Tranquil Frillback enters the battlefield, you may pay |mana_g| up to three times. When you pay this cost one or more times, choose up to that many —"
+msgstr ""
+
+#: ../../MAT.rst:145
+msgid "Destroy target artifact or enchantment."
+msgstr ""
+
+#: ../../MAT.rst:147
+msgid "Exile target player's graveyard."
+msgstr ""
+
+#: ../../MAT.rst:149
+msgid "You gain 4 life."
+msgstr ""
+
+#: ../../MAT.rst:154
+msgid ":mtgtip:`Undercity Upheaval<https://cards.scryfall.io/border_crop/front/a/c/acfe6957-d971-413f-b075-01b995f1d7a3.jpg?1684340660|https://scryfall.com/card/mat/25/undercity-upheaval?utm_source=api>`"
+msgstr ""
+
+#: ../../MAT.rst:153
+msgid "Undergrowth — Distribute X +1/+1 counters among any number of target creatures you control, where X is the number of creature cards in your graveyard as you cast this spell. Creatures you control gain vigilance until end of turn."
+msgstr ""
+
+#: ../../MAT.rst:160
+msgid ":mtgtip:`Calix, Guided by Fate<https://cards.scryfall.io/border_crop/front/0/a/0a707ab3-b9b5-422a-8b0f-e963d3ad6606.jpg?1684340668|https://scryfall.com/card/mat/26/calix-guided-by-fate?utm_source=api>`"
+msgstr ""
+
+#: ../../MAT.rst:157
+msgid "Constellation — Whenever Calix, Guided by Fate or another enchantment enters the battlefield under your control, put a +1/+1 counter on target creature."
+msgstr ""
+
+#: ../../MAT.rst:159
+msgid "Whenever Calix or an enchanted creature you control deals combat damage to a player, you may create a token that's a copy of a nonlegendary enchantment you control. Do this only once each turn."
+msgstr ""
+
+#: ../../MAT.rst:164
+msgid ":mtgtip:`Campus Renovation<https://cards.scryfall.io/border_crop/front/6/d/6d925d13-fcd6-417b-b2b2-bbdd114aae78.jpg?1684340676|https://scryfall.com/card/mat/27/campus-renovation?utm_source=api>`"
+msgstr ""
+
+#: ../../MAT.rst:163
+msgid "Return up to one target artifact or enchantment card from your graveyard to the battlefield. Exile the top two cards of your library. Until the end of your next turn, you may play those cards."
+msgstr ""
+
+#: ../../MAT.rst:170
+msgid ":mtgtip:`Cosmic Rebirth<https://cards.scryfall.io/border_crop/front/7/f/7fcb225c-d18f-4b84-b2fc-91ed84ec30aa.jpg?1684340687|https://scryfall.com/card/mat/28/cosmic-rebirth?utm_source=api>`"
+msgstr ""
+
+#: ../../MAT.rst:167
+msgid "Choose target permanent card in your graveyard. If it has mana value 3 or less, you may put it onto the battlefield. If you don't put it onto the battlefield, put it into your hand."
+msgstr ""
+
+#: ../../MAT.rst:169
+msgid "You gain 3 life."
+msgstr ""
+
+#: ../../MAT.rst:176
+msgid ":mtgtip:`Danitha, New Benalia's Light<https://cards.scryfall.io/border_crop/front/0/3/039e43f2-cf3b-4c60-ac55-d2aafb20eb34.jpg?1684340695|https://scryfall.com/card/mat/29/danitha-new-benalias-light?utm_source=api>`"
+msgstr ""
+
+#: ../../MAT.rst:173
+msgid "Vigilance, trample, lifelink"
+msgstr ""
+
+#: ../../MAT.rst:175
+msgid "Once during each of your turns, you may cast an Aura or Equipment spell from your graveyard."
+msgstr ""
+
+#: ../../MAT.rst:180
+msgid ":mtgtip:`Feast of the Victorious Dead<https://cards.scryfall.io/border_crop/front/8/a/8a90d613-a327-4dc7-b0c1-0003fe0171ef.jpg?1684340705|https://scryfall.com/card/mat/30/feast-of-the-victorious-dead?utm_source=api>`"
+msgstr ""
+
+#: ../../MAT.rst:179
+msgid "At the beginning of your end step, if one or more creatures died this turn, you gain that much life and distribute that many +1/+1 counters among creatures you control."
+msgstr ""
+
+#: ../../MAT.rst:186
+msgid ":mtgtip:`Gold-Forged Thopteryx<https://cards.scryfall.io/border_crop/front/6/9/6917d51b-eb61-4e7e-8336-8b4adf8d1e39.jpg?1684340715|https://scryfall.com/card/mat/31/gold-forged-thopteryx?utm_source=api>`"
+msgstr ""
+
+#: ../../MAT.rst:183
+msgid "Flying, lifelink"
+msgstr ""
+
+#: ../../MAT.rst:185
+msgid "Each legendary permanent you control has ward |mana_2|. (Whenever it becomes the target of a spell or ability an opponent controls, counter it unless that player pays |mana_2|.)"
+msgstr ""
+
+#: ../../MAT.rst:192
+msgid ":mtgtip:`Jirina, Dauntless General<https://cards.scryfall.io/border_crop/front/5/c/5c0c3860-1dab-4897-8f36-f9be263bba03.jpg?1684340724|https://scryfall.com/card/mat/32/jirina-dauntless-general?utm_source=api>`"
+msgstr ""
+
+#: ../../MAT.rst:189
+msgid "When Jirina, Dauntless General enters the battlefield, exile target player's graveyard."
+msgstr ""
+
+#: ../../MAT.rst:191
+msgid "Sacrifice Jirina: Humans you control gain hexproof and indestructible until end of turn."
+msgstr ""
+
+#: ../../MAT.rst:198
+msgid ":mtgtip:`Jolrael, Voice of Zhalfir<https://cards.scryfall.io/border_crop/front/f/c/fcb93216-885c-4ec5-8b88-6cd51f593c8b.jpg?1684340733|https://scryfall.com/card/mat/33/jolrael-voice-of-zhalfir?utm_source=api>`"
+msgstr ""
+
+#: ../../MAT.rst:195
+msgid "At the beginning of combat on your turn, up to one target land you control becomes an X/X green and blue Bird creature with flying and haste until end of turn, where X is the number of cards in your hand. It's still a land."
+msgstr ""
+
+#: ../../MAT.rst:197
+msgid "Whenever a land creature you control deals combat damage to a player, draw a card."
+msgstr ""
+
+#: ../../MAT.rst:204
+msgid ":mtgtip:`The Kenriths' Royal Funeral<https://cards.scryfall.io/border_crop/front/4/5/4569fb73-3555-4eb8-933a-130770dd56d1.jpg?1684340741|https://scryfall.com/card/mat/34/the-kenriths-royal-funeral?utm_source=api>`"
+msgstr ""
+
+#: ../../MAT.rst:201
 msgid "When The Kenriths' Royal Funeral enters the battlefield, exile up to two target legendary creature cards from your graveyard. You draw X cards and you lose X life, where X is the greatest mana value among cards exiled this way."
 msgstr ""
 
-#: ../../MAT.rst:11
+#: ../../MAT.rst:203
 msgid "Legendary spells you cast cost |mana_1| less to cast for each card exiled with The Kenriths' Royal Funeral."
+msgstr ""
+
+#: ../../MAT.rst:210
+msgid ":mtgtip:`Kiora, Sovereign of the Deep<https://cards.scryfall.io/border_crop/front/7/b/7b599f53-614c-4b1f-9899-15d5d1e35879.jpg?1684340751|https://scryfall.com/card/mat/35/kiora-sovereign-of-the-deep?utm_source=api>`"
+msgstr ""
+
+#: ../../MAT.rst:207
+msgid "Vigilance, ward |mana_3|"
+msgstr ""
+
+#: ../../MAT.rst:209
+msgid "Whenever you cast a Kraken, Leviathan, Octopus, or Serpent spell from your hand, look at the top X cards of your library, where X is that spell's mana value. You may cast a spell with mana value less than X from among them without paying its mana cost. Put the rest on the bottom of your library in a random order."
+msgstr ""
+
+#: ../../MAT.rst:216
+msgid ":mtgtip:`Nahiri, Forged in Fury<https://cards.scryfall.io/border_crop/front/9/0/90eb0859-d24e-4703-8930-1cd4ac1fb3b6.jpg?1684340759|https://scryfall.com/card/mat/36/nahiri-forged-in-fury?utm_source=api>`"
+msgstr ""
+
+#: ../../MAT.rst:213
+msgid "Affinity for Equipment (This spell costs |mana_1| less to cast for each Equipment you control.)"
+msgstr ""
+
+#: ../../MAT.rst:215
+msgid "Whenever an equipped creature you control attacks, exile the top card of your library. You may play that card this turn. You may cast Equipment spells this way without paying their mana costs."
+msgstr ""
+
+#: ../../MAT.rst:222
+msgid ":mtgtip:`Nahiri's Resolve<https://cards.scryfall.io/border_crop/front/d/f/df9acf30-b4f4-4e99-9763-a3055e91fefb.jpg?1684340767|https://scryfall.com/card/mat/37/nahiris-resolve?utm_source=api>`"
+msgstr ""
+
+#: ../../MAT.rst:219
+msgid "Creatures you control get +1/+0 and have haste."
+msgstr ""
+
+#: ../../MAT.rst:221
+msgid "At the beginning of your end step, exile any number of nontoken artifacts and/or creatures you control. Return those cards to the battlefield under their owner's control at the beginning of your next upkeep."
+msgstr ""
+
+#: ../../MAT.rst:228
+msgid ":mtgtip:`Narset, Enlightened Exile<https://cards.scryfall.io/border_crop/front/8/2/827ecc44-0b00-4515-8953-bc91fa03705a.jpg?1684340776|https://scryfall.com/card/mat/38/narset-enlightened-exile?utm_source=api>`"
+msgstr ""
+
+#: ../../MAT.rst:225
+msgid "Creatures you control have prowess."
+msgstr ""
+
+#: ../../MAT.rst:227
+msgid "Whenever Narset, Enlightened Exile attacks, exile target noncreature, nonland card with mana value less than Narset's power from a graveyard and copy it. You may cast the copy without paying its mana cost."
+msgstr ""
+
+#: ../../MAT.rst:234
+msgid ":mtgtip:`Nashi, Moon's Legacy<https://cards.scryfall.io/border_crop/front/8/e/8ebd7ce4-550d-41ab-8559-97efb234a0a1.jpg?1684340784|https://scryfall.com/card/mat/39/nashi-moons-legacy?utm_source=api>`"
+msgstr ""
+
+#: ../../MAT.rst:231
+msgid "Menace, ward |mana_1|"
+msgstr ""
+
+#: ../../MAT.rst:233
+msgid "Whenever Nashi, Moon's Legacy attacks, exile up to one target legendary or Rat card from your graveyard and copy it. You may cast the copy. (You still pay its costs. A copy of a permanent spell becomes a token.)"
+msgstr ""
+
+#: ../../MAT.rst:240
+msgid ":mtgtip:`Niv-Mizzet, Supreme<https://cards.scryfall.io/border_crop/front/d/a/da1ff886-d3c8-43e5-8bf0-ba4f0b259781.jpg?1684340792|https://scryfall.com/card/mat/40/niv-mizzet-supreme?utm_source=api>`"
+msgstr ""
+
+#: ../../MAT.rst:237
+msgid "Flying, hexproof from monocolored"
+msgstr ""
+
+#: ../../MAT.rst:239
+msgid "Each instant and sorcery card in your graveyard that's exactly two colors has jump-start. (You may cast that card from your graveyard by discarding a card in addition to paying its other costs. Then exile it.)"
+msgstr ""
+
+#: ../../MAT.rst:246
+msgid ":mtgtip:`Ob Nixilis, Captive Kingpin<https://cards.scryfall.io/border_crop/front/d/d/ddb68233-3683-41bd-9b6e-4f07a1b54244.jpg?1684340801|https://scryfall.com/card/mat/41/ob-nixilis-captive-kingpin?utm_source=api>`"
+msgstr ""
+
+#: ../../MAT.rst:243
+msgid "Flying, trample"
+msgstr ""
+
+#: ../../MAT.rst:245
+msgid "Whenever one or more opponents each lose exactly 1 life, put a +1/+1 counter on Ob Nixilis, Captive Kingpin. Exile the top card of your library. Until your next end step, you may play that card."
+msgstr ""
+
+#: ../../MAT.rst:252
+msgid ":mtgtip:`Pia Nalaar, Consul of Revival<https://cards.scryfall.io/border_crop/front/0/a/0ae89461-4bce-4b49-b875-03afc2469fe7.jpg?1684340810|https://scryfall.com/card/mat/42/pia-nalaar-consul-of-revival?utm_source=api>`"
+msgstr ""
+
+#: ../../MAT.rst:249
+msgid "Thopters you control have haste."
+msgstr ""
+
+#: ../../MAT.rst:251
+msgid "Whenever you play a land from exile or cast a spell from exile, create a 1/1 colorless Thopter artifact creature token with flying."
+msgstr ""
+
+#: ../../MAT.rst:256
+msgid ":mtgtip:`Rebuild the City<https://cards.scryfall.io/border_crop/front/e/7/e7651eb7-3cbe-43de-8800-085be19e7f77.jpg?1684340819|https://scryfall.com/card/mat/43/rebuild-the-city?utm_source=api>`"
+msgstr ""
+
+#: ../../MAT.rst:255
+msgid "Choose target land. Create three tokens that are copies of it, except they're 3/3 creatures in addition to their other types and they have vigilance and menace. (They're affected by summoning sickness.)"
+msgstr ""
+
+#: ../../MAT.rst:262
+msgid ":mtgtip:`Rocco, Street Chef<https://cards.scryfall.io/border_crop/front/c/d/cdb53ce7-845c-4c62-98a9-4fc33c67a07b.jpg?1684340828|https://scryfall.com/card/mat/44/rocco-street-chef?utm_source=api>`"
+msgstr ""
+
+#: ../../MAT.rst:259
+msgid "At the beginning of your end step, each player exiles the top card of their library. Until your next end step, each player may play the card they exiled this way."
+msgstr ""
+
+#: ../../MAT.rst:261
+msgid "Whenever a player plays a land from exile or casts a spell from exile, you put a +1/+1 counter on target creature and create a Food token. (It's an artifact with \"|mana_2|, |tap|, Sacrifice this artifact: You gain 3 life.\")"
+msgstr ""
+
+#: ../../MAT.rst:268
+msgid ":mtgtip:`Samut, Vizier of Naktamun<https://cards.scryfall.io/border_crop/front/a/0/a0f3fdb0-47ad-4df6-a95c-a2c81aaf7af5.jpg?1684340837|https://scryfall.com/card/mat/45/samut-vizier-of-naktamun?utm_source=api>`"
+msgstr ""
+
+#: ../../MAT.rst:265
+msgid "First strike, vigilance, haste"
+msgstr ""
+
+#: ../../MAT.rst:267
+msgid "Whenever a creature you control deals combat damage to a player, if that creature entered the battlefield this turn, draw a card."
+msgstr ""
+
+#: ../../MAT.rst:274
+msgid ":mtgtip:`Sarkhan, Soul Aflame<https://cards.scryfall.io/border_crop/front/6/2/6225f139-f6eb-4eb5-9776-159a599d8255.jpg?1684340846|https://scryfall.com/card/mat/46/sarkhan-soul-aflame?utm_source=api>`"
+msgstr ""
+
+#: ../../MAT.rst:271
+msgid "Dragon spells you cast cost |mana_1| less to cast."
+msgstr ""
+
+#: ../../MAT.rst:273
+msgid "Whenever a Dragon enters the battlefield under your control, you may have Sarkhan, Soul Aflame become a copy of it until end of turn, except its name is Sarkhan, Soul Aflame and it's legendary in addition to its other types."
+msgstr ""
+
+#: ../../MAT.rst:284
+msgid ":mtgtip:`Sigarda, Font of Blessings<https://cards.scryfall.io/border_crop/front/c/b/cba71725-d6df-44d7-a93b-934573759711.jpg?1684340854|https://scryfall.com/card/mat/47/sigarda-font-of-blessings?utm_source=api>`"
+msgstr ""
+
+#: ../../MAT.rst:279
+msgid "Other permanents you control have hexproof."
+msgstr ""
+
+#: ../../MAT.rst:283
+msgid "You may cast Angel spells and Human spells from the top of your library."
+msgstr ""
+
+#: ../../MAT.rst:290
+msgid ":mtgtip:`Tyvar the Bellicose<https://cards.scryfall.io/border_crop/front/0/1/01a543f0-72fe-4a30-a4a0-356971c1c68a.jpg?1684340862|https://scryfall.com/card/mat/48/tyvar-the-bellicose?utm_source=api>`"
+msgstr ""
+
+#: ../../MAT.rst:287
+msgid "Whenever one or more Elves you control attack, they gain deathtouch until end of turn."
+msgstr ""
+
+#: ../../MAT.rst:289
+msgid "Each creature you control has \"Whenever a mana ability of this creature resolves, put a number of +1/+1 counters on it equal to the amount of mana this creature produced. This ability triggers only once each turn.\""
+msgstr ""
+
+#: ../../MAT.rst:296
+msgid ":mtgtip:`Karn, Legacy Reforged<https://cards.scryfall.io/border_crop/front/4/2/4219b5ea-a252-4d76-a60a-9674340e8ed3.jpg?1684340871|https://scryfall.com/card/mat/49/karn-legacy-reforged?utm_source=api>`"
+msgstr ""
+
+#: ../../MAT.rst:293
+msgid "Karn, Legacy Reforged's power and toughness are each equal to the greatest mana value among artifacts you control."
+msgstr ""
+
+#: ../../MAT.rst:295
+msgid "At the beginning of your upkeep, add |colorless| for each artifact you control. This mana can't be spent to cast nonartifact spells. Until end of turn, you don't lose this mana as steps and phases end."
+msgstr ""
+
+#: ../../MAT.rst:301
+msgid ":mtgtip:`Drannith Ruins<https://cards.scryfall.io/border_crop/front/9/c/9c07dda8-06dd-499a-9825-dc6b9a73e455.jpg?1684340879|https://scryfall.com/card/mat/50/drannith-ruins?utm_source=api>`"
+msgstr ""
+
+#: ../../MAT.rst:299
+msgid "|tap|: Add |colorless|."
+msgstr ""
+
+#: ../../MAT.rst:301
+msgid "|mana_2|, |tap|: Put two +1/+1 counters on target non-Human creature that entered the battlefield this turn."
 msgstr ""

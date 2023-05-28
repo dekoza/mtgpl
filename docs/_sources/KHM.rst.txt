@@ -259,13 +259,13 @@
    Whenever Hakka, Whispering Raven deals combat damage to a player, return it to its owner's hand, then scry 2.
 
 
-:mtgtip:`A-Alrund, God of the Cosmos<https://cards.scryfall.io/border_crop/front/b/4/b443504e-1b25-4565-bad7-2575826c7bb9.jpg?1657266320|https://scryfall.com/card/khm/A-40/a-alrund-god-of-the-cosmos-a-hakka-whispering-raven?utm_source=api>`
+:mtgtip:`A-Alrund, God of the Cosmos<https://cards.scryfall.io/border_crop/front/b/4/b443504e-1b25-4565-bad7-2575826c7bb9.jpg?1682292303|https://scryfall.com/card/khm/A-40/a-alrund-god-of-the-cosmos-a-hakka-whispering-raven?utm_source=api>`
    Alrund gets +1/+1 for each card in your hand and each foretold card you own in exile.
 
    At the beginning of your end step, choose a card type, then reveal the top three cards of your library. Put all cards of the chosen type revealed this way into your hand and the rest on the bottom of your library in any order.
 
 
-:mtgtip:`A-Hakka, Whispering Raven<https://cards.scryfall.io/border_crop/back/b/4/b443504e-1b25-4565-bad7-2575826c7bb9.jpg?1657266320|https://scryfall.com/card/khm/A-40/a-alrund-god-of-the-cosmos-a-hakka-whispering-raven?utm_source=api>`
+:mtgtip:`A-Hakka, Whispering Raven<https://cards.scryfall.io/border_crop/back/b/4/b443504e-1b25-4565-bad7-2575826c7bb9.jpg?1682292303|https://scryfall.com/card/khm/A-40/a-alrund-god-of-the-cosmos-a-hakka-whispering-raven?utm_source=api>`
    Flying
 
    Whenever Hakka, Whispering Raven deals combat damage to a player, return it to its owner's hand, then scry 2.
@@ -277,7 +277,7 @@
    Foretell |mana_4|\ |mana_u|\ |mana_u| (During your turn, you may pay |mana_2| and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)
 
 
-:mtgtip:`A-Alrund's Epiphany<https://cards.scryfall.io/border_crop/front/d/f/df2f81dc-2346-4bd9-aa3b-aaa2d3873415.jpg?1645415678|https://scryfall.com/card/khm/A-41/a-alrunds-epiphany?utm_source=api>`
+:mtgtip:`A-Alrund's Epiphany<https://cards.scryfall.io/border_crop/front/d/f/df2f81dc-2346-4bd9-aa3b-aaa2d3873415.jpg?1681158261|https://scryfall.com/card/khm/A-41/a-alrunds-epiphany?utm_source=api>`
    Take an extra turn after this one. If this spell was foretold, create two 1/1 blue Bird creature tokens with flying. Exile Alrund's Epiphany.
 
    Foretell |mana_5|\ |mana_u|\ |mana_u|
@@ -349,7 +349,7 @@
    Foretell |mana_2|\ |mana_u| (During your turn, you may pay |mana_2| and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)
 
 
-:mtgtip:`A-Cosmos Charger<https://cards.scryfall.io/border_crop/front/4/d/4dfd73e2-1fad-46f6-90c5-ea35a380dbef.jpg?1657012621|https://scryfall.com/card/khm/A-51/a-cosmos-charger?utm_source=api>`
+:mtgtip:`A-Cosmos Charger<https://cards.scryfall.io/border_crop/front/4/d/4dfd73e2-1fad-46f6-90c5-ea35a380dbef.jpg?1681158510|https://scryfall.com/card/khm/A-51/a-cosmos-charger?utm_source=api>`
    Flash
 
    Flying
@@ -675,7 +675,7 @@
    Foretell |mana_3|\ |mana_b| (During your turn, you may pay |mana_2| and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)
 
 
-:mtgtip:`A-Return Upon the Tide<https://cards.scryfall.io/border_crop/front/a/2/a238560c-4633-4507-828e-4e96ecf62e11.jpg?1657012625|https://scryfall.com/card/khm/A-106/a-return-upon-the-tide?utm_source=api>`
+:mtgtip:`A-Return Upon the Tide<https://cards.scryfall.io/border_crop/front/a/2/a238560c-4633-4507-828e-4e96ecf62e11.jpg?1681159280|https://scryfall.com/card/khm/A-106/a-return-upon-the-tide?utm_source=api>`
    Return target creature card from your graveyard to the battlefield. If it's an Elf, create three 1/1 green Elf Warrior creature tokens.
 
    Foretell |mana_3|\ |mana_b|
@@ -701,7 +701,7 @@
    Whenever another nontoken Elf or Berserker you control dies, you draw a card and you lose 1 life.
 
 
-:mtgtip:`A-Skemfar Avenger<https://cards.scryfall.io/border_crop/front/8/8/886b815b-ffcb-4239-b161-68983e091124.jpg?1649275364|https://scryfall.com/card/khm/A-109/a-skemfar-avenger?utm_source=api>`
+:mtgtip:`A-Skemfar Avenger<https://cards.scryfall.io/border_crop/front/8/8/886b815b-ffcb-4239-b161-68983e091124.jpg?1681159375|https://scryfall.com/card/khm/A-109/a-skemfar-avenger?utm_source=api>`
    Whenever another Elf or Berserker you control dies, you draw a card and you lose 1 life.
 
 
@@ -1043,7 +1043,7 @@
    When Elderleaf Mentor enters the battlefield, create a 1/1 green Elf Warrior creature token.
 
 
-:mtgtip:`A-Elderleaf Mentor<https://cards.scryfall.io/border_crop/front/8/c/8c1d225c-8a49-43f9-a9d2-aef7e406ab52.jpg?1649275577|https://scryfall.com/card/khm/A-165/a-elderleaf-mentor?utm_source=api>`
+:mtgtip:`A-Elderleaf Mentor<https://cards.scryfall.io/border_crop/front/8/c/8c1d225c-8a49-43f9-a9d2-aef7e406ab52.jpg?1681158650|https://scryfall.com/card/khm/A-165/a-elderleaf-mentor?utm_source=api>`
    When Elderleaf Mentor enters the battlefield, create a 1/1 green Elf Warrior creature token.
 
 
@@ -1055,7 +1055,7 @@
    Equip |mana_3|
 
 
-:mtgtip:`A-Elven Bow<https://cards.scryfall.io/border_crop/front/6/3/6310bf62-6016-4987-83ed-671283a7ff61.jpg?1649275602|https://scryfall.com/card/khm/A-166/a-elven-bow?utm_source=api>`
+:mtgtip:`A-Elven Bow<https://cards.scryfall.io/border_crop/front/6/3/6310bf62-6016-4987-83ed-671283a7ff61.jpg?1681158654|https://scryfall.com/card/khm/A-166/a-elven-bow?utm_source=api>`
    When Elven Bow enters the battlefield, you may pay |mana_1|. If you do, create a 1/1 green Elf Warrior creature token, then attach Elven Bow to it.
 
    Equipped creature gets +1/+2 and has reach.
@@ -1267,7 +1267,7 @@
    −6: You get an emblem with "Whenever you cast an Elf spell, it gains haste until end of turn and you draw two cards."
 
 
-:mtgtip:`A-Tyvar Kell<https://cards.scryfall.io/border_crop/front/1/6/16492772-1a2a-4935-95ff-c2416633d064.jpg?1649275285|https://scryfall.com/card/khm/A-198/a-tyvar-kell?utm_source=api>`
+:mtgtip:`A-Tyvar Kell<https://cards.scryfall.io/border_crop/front/1/6/16492772-1a2a-4935-95ff-c2416633d064.jpg?1681159569|https://scryfall.com/card/khm/A-198/a-tyvar-kell?utm_source=api>`
    Elves you control have "|tap|: Add |mana_b|."
 
    +1: Put two +1/+1 counters on up to one target Elf. Untap it. It gains deathtouch until end of turn.
@@ -1365,7 +1365,7 @@
    III — Exile a creature with the greatest power among creatures target opponent controls.
 
 
-:mtgtip:`A-Fall of the Impostor<https://cards.scryfall.io/border_crop/front/3/f/3fe02fae-3e0a-402e-9f2e-f0e9c553cc1a.jpg?1657064899|https://scryfall.com/card/khm/A-208/a-fall-of-the-impostor?utm_source=api>`
+:mtgtip:`A-Fall of the Impostor<https://cards.scryfall.io/border_crop/front/3/f/3fe02fae-3e0a-402e-9f2e-f0e9c553cc1a.jpg?1681158668|https://scryfall.com/card/khm/A-208/a-fall-of-the-impostor?utm_source=api>`
    (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 
    I, II — Put a +1/+1 counter on up to one target creature.
@@ -1403,7 +1403,7 @@
    When Harald, King of Skemfar enters the battlefield, look at the top five cards of your library. You may reveal an Elf, Warrior, or Tyvar card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
 
 
-:mtgtip:`A-Harald, King of Skemfar<https://cards.scryfall.io/border_crop/front/c/c/cc3987c7-4114-44ea-bd40-1a6054e06f09.jpg?1649275464|https://scryfall.com/card/khm/A-212/a-harald-king-of-skemfar?utm_source=api>`
+:mtgtip:`A-Harald, King of Skemfar<https://cards.scryfall.io/border_crop/front/c/c/cc3987c7-4114-44ea-bd40-1a6054e06f09.jpg?1681158893|https://scryfall.com/card/khm/A-212/a-harald-king-of-skemfar?utm_source=api>`
    Menace (This creature can't be blocked except by two or more creatures.)
 
    When Harald, King of Skemfar enters the battlefield, look at the top seven cards of your library. You may reveal an Elf, Warrior, or Tyvar card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
@@ -1419,7 +1419,7 @@
    III — Whenever an Elf you control attacks this turn, target creature an opponent controls gets -1/-1 until end of turn.
 
 
-:mtgtip:`A-Harald Unites the Elves<https://cards.scryfall.io/border_crop/front/d/b/db8705b7-e851-483e-a2af-bd309e62f079.jpg?1649365330|https://scryfall.com/card/khm/A-213/a-harald-unites-the-elves?utm_source=api>`
+:mtgtip:`A-Harald Unites the Elves<https://cards.scryfall.io/border_crop/front/d/b/db8705b7-e851-483e-a2af-bd309e62f079.jpg?1681158873|https://scryfall.com/card/khm/A-213/a-harald-unites-the-elves?utm_source=api>`
    (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 
    I — Mill five cards. You may put an Elf or Tyvar card from your graveyard onto the battlefield.
@@ -1515,7 +1515,7 @@
    |mana_s|\ |mana_s|\ |mana_s|: Return Narfi, Betrayer King from your graveyard to the battlefield tapped. (|mana_s| can be paid with one mana from a snow source.)
 
 
-:mtgtip:`A-Narfi, Betrayer King<https://cards.scryfall.io/border_crop/front/2/d/2d689fc6-c7b5-46f8-9ec2-2bc4b4af87c0.jpg?1676453198|https://scryfall.com/card/khm/A-224/a-narfi-betrayer-king?utm_source=api>`
+:mtgtip:`A-Narfi, Betrayer King<https://cards.scryfall.io/border_crop/front/2/d/2d689fc6-c7b5-46f8-9ec2-2bc4b4af87c0.jpg?1681159141|https://scryfall.com/card/khm/A-224/a-narfi-betrayer-king?utm_source=api>`
    Other snow and Zombie creatures you control get +1/+1.
 
    |mana_s|\ |mana_s|\ |mana_s|: Return Narfi, Betrayer King from your graveyard to the battlefield tapped. (|mana_s| can be paid with one mana from a snow source.)
@@ -1597,7 +1597,7 @@
    Whenever you cast a spell from anywhere other than your hand, draw a card.
 
 
-:mtgtip:`A-Vega, the Watcher<https://cards.scryfall.io/border_crop/front/6/f/6f471133-db82-4610-81fb-736fbd3b1c6c.jpg?1645740909|https://scryfall.com/card/khm/A-233/a-vega-the-watcher?utm_source=api>`
+:mtgtip:`A-Vega, the Watcher<https://cards.scryfall.io/border_crop/front/6/f/6f471133-db82-4610-81fb-736fbd3b1c6c.jpg?1681159566|https://scryfall.com/card/khm/A-233/a-vega-the-watcher?utm_source=api>`
    Flying
 
    Ward |mana_2|
@@ -1633,7 +1633,7 @@
    At the beginning of your end step, draw a card if your life total is greater than your starting life total. Otherwise, you gain 2 life.
 
 
-:mtgtip:`A-Cosmos Elixir<https://cards.scryfall.io/border_crop/front/f/7/f7f1ce0b-6668-4d16-8fe0-07c65ce4bc82.jpg?1645415589|https://scryfall.com/card/khm/A-237/a-cosmos-elixir?utm_source=api>`
+:mtgtip:`A-Cosmos Elixir<https://cards.scryfall.io/border_crop/front/f/7/f7f1ce0b-6668-4d16-8fe0-07c65ce4bc82.jpg?1681158506|https://scryfall.com/card/khm/A-237/a-cosmos-elixir?utm_source=api>`
    At the beginning of your end step, draw a card if your life total is greater than your starting life total. Otherwise, you gain 2 life and scry 1.
 
 
@@ -1741,7 +1741,7 @@
    |mana_g|\ |mana_w|\ |mana_w|, |tap|, Sacrifice Bretagard Stronghold: Put a +1/+1 counter on each of up to two target creatures you control. They gain vigilance and lifelink until end of turn. Activate only as a sorcery.
 
 
-:mtgtip:`A-Bretagard Stronghold<https://cards.scryfall.io/border_crop/front/8/8/88010fdf-41e5-4303-82e2-19cfe9082270.jpg?1657064796|https://scryfall.com/card/khm/A-253/a-bretagard-stronghold?utm_source=api>`
+:mtgtip:`A-Bretagard Stronghold<https://cards.scryfall.io/border_crop/front/8/8/88010fdf-41e5-4303-82e2-19cfe9082270.jpg?1681158356|https://scryfall.com/card/khm/A-253/a-bretagard-stronghold?utm_source=api>`
    Bretagard Stronghold enters the battlefield tapped.
 
    |tap|: Add |mana_g|.
@@ -1859,7 +1859,7 @@
    |mana_2|\ |mana_b|\ |mana_b|\ |mana_g|, |tap|, Sacrifice Skemfar Elderhall: Up to one target creature you don't control gets -2/-2 until end of turn. Create two 1/1 green Elf Warrior creature tokens. Activate only as a sorcery.
 
 
-:mtgtip:`A-Skemfar Elderhall<https://cards.scryfall.io/border_crop/front/d/3/d305dd37-2764-46cb-8cb9-d3d2c049b36c.jpg?1649275624|https://scryfall.com/card/khm/A-268/a-skemfar-elderhall?utm_source=api>`
+:mtgtip:`A-Skemfar Elderhall<https://cards.scryfall.io/border_crop/front/d/3/d305dd37-2764-46cb-8cb9-d3d2c049b36c.jpg?1681159367|https://scryfall.com/card/khm/A-268/a-skemfar-elderhall?utm_source=api>`
    Skemfar Elderhall enters the battlefield tapped.
 
    |tap|: Add |mana_g|.
@@ -1965,7 +1965,7 @@
    |tap|: Add |mana_g|\ |mana_g|\ |mana_g|.
 
 
-:mtgtip:`A-Canopy Tactician<https://cards.scryfall.io/border_crop/front/6/9/693eb7cb-a78c-4d79-b4de-f59da76cce31.jpg?1659249532|https://scryfall.com/card/khm/A-378/a-canopy-tactician?utm_source=api>`
+:mtgtip:`A-Canopy Tactician<https://cards.scryfall.io/border_crop/front/6/9/693eb7cb-a78c-4d79-b4de-f59da76cce31.jpg?1681158376|https://scryfall.com/card/khm/A-378/a-canopy-tactician?utm_source=api>`
    Other Elves you control get +1/+1.
 
    |tap|: Add |mana_g|\ |mana_g|\ |mana_g|.
@@ -2003,7 +2003,7 @@
    When Elderfang Ritualist dies, return another target Elf card from your graveyard to your hand.
 
 
-:mtgtip:`A-Elderfang Ritualist<https://cards.scryfall.io/border_crop/front/6/2/62872f7d-26ab-40b7-96db-955e576ec110.jpg?1649275337|https://scryfall.com/card/khm/A-385/a-elderfang-ritualist?utm_source=api>`
+:mtgtip:`A-Elderfang Ritualist<https://cards.scryfall.io/border_crop/front/6/2/62872f7d-26ab-40b7-96db-955e576ec110.jpg?1681158648|https://scryfall.com/card/khm/A-385/a-elderfang-ritualist?utm_source=api>`
    When Elderfang Ritualist dies, you may exile it. If you do, return another target Elf or Tyvar card from your graveyard to your hand.
 
 
@@ -2021,7 +2021,7 @@
    • Target creature an opponent controls gets -X/-X until end of turn, where X is the number of Elves you control.
 
 
-:mtgtip:`A-Thornmantle Striker<https://cards.scryfall.io/border_crop/front/5/b/5b7a57af-b44d-476d-8f11-43c54eff52b2.jpg?1649275531|https://scryfall.com/card/khm/A-387/a-thornmantle-striker?utm_source=api>`
+:mtgtip:`A-Thornmantle Striker<https://cards.scryfall.io/border_crop/front/5/b/5b7a57af-b44d-476d-8f11-43c54eff52b2.jpg?1681159461|https://scryfall.com/card/khm/A-387/a-thornmantle-striker?utm_source=api>`
    When Thornmantle Striker enters the battlefield, choose one —
 
    • Remove X counters from target permanent, where X is the number of Elves you control.

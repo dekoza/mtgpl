@@ -999,7 +999,7 @@
    Equip |mana_1|
 
 
-:mtgtip:`Gleaming Barrier<https://cards.scryfall.io/border_crop/front/6/2/62447a76-4aa7-4823-941e-84bc18eb672a.jpg?1555041015|https://scryfall.com/card/rix/178/gleaming-barrier?utm_source=api>`
+:mtgtip:`Gleaming Barrier<https://cards.scryfall.io/border_crop/front/6/2/62447a76-4aa7-4823-941e-84bc18eb672a.jpg?1681500945|https://scryfall.com/card/rix/178/gleaming-barrier?utm_source=api>`
    Defender
 
    When Gleaming Barrier dies, create a Treasure token. (It's an artifact with "|tap|, Sacrifice this artifact: Add one mana of any color.")

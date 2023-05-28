@@ -895,7 +895,7 @@
    Elven Riders can't be blocked except by Walls and/or creatures with flying.
 
 
-:mtgtip:`Emerald Dragonfly<https://cards.scryfall.io/border_crop/front/a/3/a3e81250-52c3-49f6-be43-17c34339e177.jpg?1562860613|https://scryfall.com/card/leg/184/emerald-dragonfly?utm_source=api>`
+:mtgtip:`Emerald Dragonfly<https://cards.scryfall.io/border_crop/front/a/3/a3e81250-52c3-49f6-be43-17c34339e177.jpg?1681169084|https://scryfall.com/card/leg/184/emerald-dragonfly?utm_source=api>`
    Flying
 
    |mana_g|\ |mana_g|: Emerald Dragonfly gains first strike until end of turn.

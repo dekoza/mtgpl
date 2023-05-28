@@ -5,7 +5,7 @@
 ================================
 
 
-:mtgtip:`The Prismatic Piper<https://cards.scryfall.io/border_crop/front/a/6/a69e6d8f-f742-4508-a83a-38ae84be228c.jpg?1615117441|https://scryfall.com/card/cmr/1/the-prismatic-piper?utm_source=api>`
+:mtgtip:`The Prismatic Piper<https://cards.scryfall.io/border_crop/front/a/6/a69e6d8f-f742-4508-a83a-38ae84be228c.jpg?1682386854|https://scryfall.com/card/cmr/1/the-prismatic-piper?utm_source=api>`
    If The Prismatic Piper is your commander, choose a color before the game begins. The Prismatic Piper is the chosen color.
 
    Partner (You can have two commanders if both have partner.)

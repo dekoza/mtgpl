@@ -213,7 +213,7 @@
    You may have Copy Enchantment enter the battlefield as a copy of any enchantment on the battlefield.
 
 
-:mtgtip:`Dizzy Spell<https://cards.scryfall.io/border_crop/front/6/e/6e0db10d-fb6d-44df-9ff2-6f1e0e8f8209.jpg?1598914105|https://scryfall.com/card/rav/43/dizzy-spell?utm_source=api>`
+:mtgtip:`Dizzy Spell<https://cards.scryfall.io/border_crop/front/6/e/6e0db10d-fb6d-44df-9ff2-6f1e0e8f8209.jpg?1682382094|https://scryfall.com/card/rav/43/dizzy-spell?utm_source=api>`
    Target creature gets -3/-0 until end of turn.
 
    Transmute |mana_1|\ |mana_u|\ |mana_u| (|mana_1|\ |mana_u|\ |mana_u|, Discard this card: Search your library for a card with the same mana value as this card, reveal it, put it into your hand, then shuffle. Transmute only as a sorcery.)
@@ -233,7 +233,7 @@
    You control enchanted permanent.
 
 
-:mtgtip:`Drift of Phantasms<https://cards.scryfall.io/border_crop/front/c/1/c1096ce5-f776-4028-b231-e6eaee35014b.jpg?1598914152|https://scryfall.com/card/rav/46/drift-of-phantasms?utm_source=api>`
+:mtgtip:`Drift of Phantasms<https://cards.scryfall.io/border_crop/front/c/1/c1096ce5-f776-4028-b231-e6eaee35014b.jpg?1682382112|https://scryfall.com/card/rav/46/drift-of-phantasms?utm_source=api>`
    Defender (This creature can't attack.)
 
    Flying
@@ -241,7 +241,7 @@
    Transmute |mana_1|\ |mana_u|\ |mana_u| (|mana_1|\ |mana_u|\ |mana_u|, Discard this card: Search your library for a card with the same mana value as this card, reveal it, put it into your hand, then shuffle. Transmute only as a sorcery.)
 
 
-:mtgtip:`Ethereal Usher<https://cards.scryfall.io/border_crop/front/9/0/908901b7-fb40-4358-bca5-5e71bdafcbe7.jpg?1598914166|https://scryfall.com/card/rav/47/ethereal-usher?utm_source=api>`
+:mtgtip:`Ethereal Usher<https://cards.scryfall.io/border_crop/front/9/0/908901b7-fb40-4358-bca5-5e71bdafcbe7.jpg?1682382119|https://scryfall.com/card/rav/47/ethereal-usher?utm_source=api>`
    |mana_u|, |tap|: Target creature can't be blocked this turn.
 
    Transmute |mana_1|\ |mana_u|\ |mana_u| (|mana_1|\ |mana_u|\ |mana_u|, Discard this card: Search your library for a card with the same mana value as this card, reveal it, put it into your hand, then shuffle. Transmute only as a sorcery.)
@@ -273,7 +273,7 @@
    Islandwalk (This creature can't be blocked as long as defending player controls an Island.)
 
 
-:mtgtip:`Grozoth<https://cards.scryfall.io/border_crop/front/9/6/96d81c13-93de-4cf6-bb15-d387ed259c50.jpg?1598914261|https://scryfall.com/card/rav/53/grozoth?utm_source=api>`
+:mtgtip:`Grozoth<https://cards.scryfall.io/border_crop/front/9/6/96d81c13-93de-4cf6-bb15-d387ed259c50.jpg?1682382132|https://scryfall.com/card/rav/53/grozoth?utm_source=api>`
    Defender (This creature can't attack.)
 
    When Grozoth enters the battlefield, you may search your library for any number of cards that have mana value 9, reveal them, put them into your hand, then shuffle.
@@ -405,7 +405,7 @@
    Whenever you cast a noncreature spell, counter that spell unless you sacrifice a creature.
 
 
-:mtgtip:`Brainspoil<https://cards.scryfall.io/border_crop/front/c/3/c34fa44f-274e-4914-bbd5-71193f8d2f96.jpg?1598914670|https://scryfall.com/card/rav/78/brainspoil?utm_source=api>`
+:mtgtip:`Brainspoil<https://cards.scryfall.io/border_crop/front/c/3/c34fa44f-274e-4914-bbd5-71193f8d2f96.jpg?1682382037|https://scryfall.com/card/rav/78/brainspoil?utm_source=api>`
    Destroy target creature that isn't enchanted. It can't be regenerated.
 
    Transmute |mana_1|\ |mana_b|\ |mana_b| (|mana_1|\ |mana_b|\ |mana_b|, Discard this card: Search your library for a card with the same mana value as this card, reveal it, put it into your hand, then shuffle. Transmute only as a sorcery.)
@@ -431,7 +431,7 @@
    Dredge 3 (If you would draw a card, you may mill three cards instead. If you do, return this card from your graveyard to your hand.)
 
 
-:mtgtip:`Dimir House Guard<https://cards.scryfall.io/border_crop/front/9/a/9a021caf-d9e7-470b-85be-3af42a3adfd3.jpg?1598914751|https://scryfall.com/card/rav/83/dimir-house-guard?utm_source=api>`
+:mtgtip:`Dimir House Guard<https://cards.scryfall.io/border_crop/front/9/a/9a021caf-d9e7-470b-85be-3af42a3adfd3.jpg?1682382067|https://scryfall.com/card/rav/83/dimir-house-guard?utm_source=api>`
    Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
 
    Sacrifice a creature: Regenerate Dimir House Guard.
@@ -439,7 +439,7 @@
    Transmute |mana_1|\ |mana_b|\ |mana_b| (|mana_1|\ |mana_b|\ |mana_b|, Discard this card: Search your library for a card with the same mana value as this card, reveal it, put it into your hand, then shuffle. Transmute only as a sorcery.)
 
 
-:mtgtip:`Dimir Machinations<https://cards.scryfall.io/border_crop/front/1/4/14bfd72a-78c1-4167-89bf-ea1fccccd5b1.jpg?1598914791|https://scryfall.com/card/rav/84/dimir-machinations?utm_source=api>`
+:mtgtip:`Dimir Machinations<https://cards.scryfall.io/border_crop/front/1/4/14bfd72a-78c1-4167-89bf-ea1fccccd5b1.jpg?1682382085|https://scryfall.com/card/rav/84/dimir-machinations?utm_source=api>`
    Look at the top three cards of target player's library. Exile any number of those cards, then put the rest back in any order.
 
    Transmute |mana_1|\ |mana_b|\ |mana_b| (|mana_1|\ |mana_b|\ |mana_b|, Discard this card: Search your library for a card with the same mana value as this card, reveal it, put it into your hand, then shuffle. Transmute only as a sorcery.)
@@ -513,7 +513,7 @@
    Dredge 2 (If you would draw a card, you may mill two cards instead. If you do, return this card from your graveyard to your hand.)
 
 
-:mtgtip:`Netherborn Phalanx<https://cards.scryfall.io/border_crop/front/b/6/b665e905-cb06-48b7-9f50-5916277e237d.jpg?1598915069|https://scryfall.com/card/rav/99/netherborn-phalanx?utm_source=api>`
+:mtgtip:`Netherborn Phalanx<https://cards.scryfall.io/border_crop/front/b/6/b665e905-cb06-48b7-9f50-5916277e237d.jpg?1682382138|https://scryfall.com/card/rav/99/netherborn-phalanx?utm_source=api>`
    When Netherborn Phalanx enters the battlefield, each opponent loses 1 life for each creature they control.
 
    Transmute |mana_1|\ |mana_b|\ |mana_b| (|mana_1|\ |mana_b|\ |mana_b|, Discard this card: Search your library for a card with the same mana value as this card, reveal it, put it into your hand, then then shuffle. Transmute only as a sorcery.)
@@ -543,7 +543,7 @@
    Sacrifice Sewerdreg: Exile target card from a graveyard.
 
 
-:mtgtip:`Shred Memory<https://cards.scryfall.io/border_crop/front/e/3/e38192e5-814f-4269-bae8-13867a73e7fa.jpg?1598915176|https://scryfall.com/card/rav/105/shred-memory?utm_source=api>`
+:mtgtip:`Shred Memory<https://cards.scryfall.io/border_crop/front/e/3/e38192e5-814f-4269-bae8-13867a73e7fa.jpg?1682382185|https://scryfall.com/card/rav/105/shred-memory?utm_source=api>`
    Exile up to four target cards from a single graveyard.
 
    Transmute |mana_1|\ |mana_b|\ |mana_b| (|mana_1|\ |mana_b|\ |mana_b|, Discard this card: Search your library for a card with the same mana value as this card, reveal it, put it into your hand, then shuffle. Transmute only as a sorcery.)
@@ -1001,7 +1001,7 @@
    Your opponents can't cast spells with the same name as a card exiled with Circu, Dimir Lobotomist.
 
 
-:mtgtip:`Clutch of the Undercity<https://cards.scryfall.io/border_crop/front/2/4/24437641-85a1-4fcd-93dc-bd19a7abf969.jpg?1598916837|https://scryfall.com/card/rav/197/clutch-of-the-undercity?utm_source=api>`
+:mtgtip:`Clutch of the Undercity<https://cards.scryfall.io/border_crop/front/2/4/24437641-85a1-4fcd-93dc-bd19a7abf969.jpg?1682382056|https://scryfall.com/card/rav/197/clutch-of-the-undercity?utm_source=api>`
    Return target permanent to its owner's hand. Its controller loses 3 life.
 
    Transmute |mana_1|\ |mana_u|\ |mana_b| (|mana_1|\ |mana_u|\ |mana_b|, Discard this card: Search your library for a card with the same mana value as this card, reveal it, put it into your hand, then shuffle. Transmute only as a sorcery.)
@@ -1103,7 +1103,7 @@
    At the beginning of your upkeep, you lose 1 life.
 
 
-:mtgtip:`Perplex<https://cards.scryfall.io/border_crop/front/0/d/0db57459-29f0-4ef6-b256-56955036c0ef.jpg?1598917204|https://scryfall.com/card/rav/217/perplex?utm_source=api>`
+:mtgtip:`Perplex<https://cards.scryfall.io/border_crop/front/0/d/0db57459-29f0-4ef6-b256-56955036c0ef.jpg?1682382176|https://scryfall.com/card/rav/217/perplex?utm_source=api>`
    Counter target spell unless its controller discards their hand.
 
    Transmute |mana_1|\ |mana_u|\ |mana_b| (|mana_1|\ |mana_u|\ |mana_b|, Discard this card: Search your library for a card with the same mana value as this card, reveal it, put it into your hand, then shuffle. Transmute only as a sorcery.)

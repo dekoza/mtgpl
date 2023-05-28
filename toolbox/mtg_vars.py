@@ -1,4 +1,8 @@
 expansions = {
+    "MAT",
+    "LTR",
+    "LTC",
+    "CMM",
     "10E",
     "2ED",
     "2X2",

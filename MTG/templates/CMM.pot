@@ -1,0 +1,349 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013-2022, Dominik Kozaczko
+# This file is distributed under the same license as the MTG po polsku package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MTG po polsku 2023.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-28 11:31+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../symbols.rst:3
+msgid "{C}"
+msgstr ""
+
+#: ../../symbols.rst:5
+msgid "{T}"
+msgstr ""
+
+#: ../../symbols.rst:7
+msgid "{Q}"
+msgstr ""
+
+#: ../../symbols.rst:9
+msgid "{U}"
+msgstr ""
+
+#: ../../symbols.rst:11
+msgid "{W}"
+msgstr ""
+
+#: ../../symbols.rst:13
+msgid "{B}"
+msgstr ""
+
+#: ../../symbols.rst:15
+msgid "{G}"
+msgstr ""
+
+#: ../../symbols.rst:17
+msgid "{R}"
+msgstr ""
+
+#: ../../symbols.rst:19
+msgid "{2/U}"
+msgstr ""
+
+#: ../../symbols.rst:21
+msgid "{2/W}"
+msgstr ""
+
+#: ../../symbols.rst:23
+msgid "{2/B}"
+msgstr ""
+
+#: ../../symbols.rst:25
+msgid "{2/G}"
+msgstr ""
+
+#: ../../symbols.rst:27
+msgid "{2/R}"
+msgstr ""
+
+#: ../../symbols.rst:29
+msgid "{U/P}"
+msgstr ""
+
+#: ../../symbols.rst:31
+msgid "{W/P}"
+msgstr ""
+
+#: ../../symbols.rst:33
+msgid "{B/P}"
+msgstr ""
+
+#: ../../symbols.rst:35
+msgid "{G/P}"
+msgstr ""
+
+#: ../../symbols.rst:37
+msgid "{R/P}"
+msgstr ""
+
+#: ../../symbols.rst:39
+msgid "{X}"
+msgstr ""
+
+#: ../../symbols.rst:41
+msgid "{P}"
+msgstr ""
+
+#: ../../symbols.rst:43
+msgid "{0}"
+msgstr ""
+
+#: ../../symbols.rst:45
+msgid "{1}"
+msgstr ""
+
+#: ../../symbols.rst:47
+msgid "{2}"
+msgstr ""
+
+#: ../../symbols.rst:49
+msgid "{3}"
+msgstr ""
+
+#: ../../symbols.rst:51
+msgid "{4}"
+msgstr ""
+
+#: ../../symbols.rst:53
+msgid "{5}"
+msgstr ""
+
+#: ../../symbols.rst:55
+msgid "{6}"
+msgstr ""
+
+#: ../../symbols.rst:57
+msgid "{7}"
+msgstr ""
+
+#: ../../symbols.rst:59
+msgid "{8}"
+msgstr ""
+
+#: ../../symbols.rst:61
+msgid "{9}"
+msgstr ""
+
+#: ../../symbols.rst:63
+msgid "{10}"
+msgstr ""
+
+#: ../../symbols.rst:65
+msgid "{11}"
+msgstr ""
+
+#: ../../symbols.rst:67
+msgid "{12}"
+msgstr ""
+
+#: ../../symbols.rst:69
+msgid "{13}"
+msgstr ""
+
+#: ../../symbols.rst:71
+msgid "{14}"
+msgstr ""
+
+#: ../../symbols.rst:73
+msgid "{15}"
+msgstr ""
+
+#: ../../symbols.rst:75
+msgid "{16}"
+msgstr ""
+
+#: ../../symbols.rst:77
+msgid "{20}"
+msgstr ""
+
+#: ../../symbols.rst:79
+msgid "{(r/g)}"
+msgstr ""
+
+#: ../../symbols.rst:81
+msgid "{(r/w)}"
+msgstr ""
+
+#: ../../symbols.rst:83
+msgid "{(u/b)}"
+msgstr ""
+
+#: ../../symbols.rst:85
+msgid "{(u/r)}"
+msgstr ""
+
+#: ../../symbols.rst:87
+msgid "{(w/b)}"
+msgstr ""
+
+#: ../../symbols.rst:89
+msgid "{(w/u)}"
+msgstr ""
+
+#: ../../symbols.rst:91
+msgid "{(b/g)}"
+msgstr ""
+
+#: ../../symbols.rst:93
+msgid "{(b/r)}"
+msgstr ""
+
+#: ../../symbols.rst:95
+msgid "{(g/w)}"
+msgstr ""
+
+#: ../../symbols.rst:97
+msgid "{(g/u)}"
+msgstr ""
+
+#: ../../symbols.rst:99
+msgid "{(g/u/p)}"
+msgstr ""
+
+#: ../../symbols.rst:101
+msgid "{(g/w/p)}"
+msgstr ""
+
+#: ../../symbols.rst:103
+msgid "{S}"
+msgstr ""
+
+#: ../../symbols.rst:105
+msgid "{E}"
+msgstr ""
+
+#: ../../symbols.rst:107
+msgid "{CHAOS}"
+msgstr ""
+
+#: ../../symbols.rst:109
+msgid "{PW}"
+msgstr ""
+
+#: ../../CMM.rst:5
+msgid ":mtgexp:`CMM` Commander Masters"
+msgstr ""
+
+#: ../../CMM.rst:10
+msgid ":mtgtip:`Capture of Jingzhou<https://cards.scryfall.io/border_crop/front/f/8/f87d0298-f76b-4ea8-82c4-5861c4539d8b.jpg?1676994962|https://scryfall.com/card/cmm/79/capture-of-jingzhou?utm_source=api>`"
+msgstr ""
+
+#: ../../CMM.rst:9
+msgid "Take an extra turn after this one."
+msgstr ""
+
+#: ../../CMM.rst:14
+msgid ":mtgtip:`Personal Tutor<https://cards.scryfall.io/border_crop/front/2/8/2887fc25-22cd-48c9-ad2b-6539c8139e27.jpg?1683324900|https://scryfall.com/card/cmm/110/personal-tutor?utm_source=api>`"
+msgstr ""
+
+#: ../../CMM.rst:13
+msgid "Search your library for a sorcery card, reveal it, then shuffle and put that card on top."
+msgstr ""
+
+#: ../../CMM.rst:20
+msgid ":mtgtip:`Selvala, Heart of the Wilds<https://cards.scryfall.io/border_crop/front/7/d/7d711cb2-4f34-4792-90d7-2be5d329a347.jpg?1684257293|https://scryfall.com/card/cmm/320/selvala-heart-of-the-wilds?utm_source=api>`"
+msgstr ""
+
+#: ../../CMM.rst:17
+msgid "Whenever another creature enters the battlefield, its controller may draw a card if its power is greater than each other creature's power."
+msgstr ""
+
+#: ../../CMM.rst:19
+msgid "|mana_g|, |tap|: Add X mana in any combination of colors, where X is the greatest power among creatures you control."
+msgstr ""
+
+#: ../../CMM.rst:28
+msgid ":mtgtip:`The Ur-Dragon<https://cards.scryfall.io/border_crop/front/1/0/10d42b35-844f-4a64-9981-c6118d45e826.jpg?1676994966|https://scryfall.com/card/cmm/361/the-ur-dragon?utm_source=api>`"
+msgstr ""
+
+#: ../../CMM.rst:23
+msgid "Eminence — As long as The Ur-Dragon is in the command zone or on the battlefield, other Dragon spells you cast cost |mana_1| less to cast."
+msgstr ""
+
+#: ../../CMM.rst:25
+msgid "Flying"
+msgstr ""
+
+#: ../../CMM.rst:27
+msgid "Whenever one or more Dragons you control attack, draw that many cards, then you may put a permanent card from your hand onto the battlefield."
+msgstr ""
+
+#: ../../CMM.rst:32
+msgid ":mtgtip:`Jeweled Lotus<https://cards.scryfall.io/border_crop/front/d/7/d7183700-6941-4a3d-a581-4f33bea795e9.jpg?1676994983|https://scryfall.com/card/cmm/396/jeweled-lotus?utm_source=api>`"
+msgstr ""
+
+#: ../../CMM.rst:31
+msgid "|tap|, Sacrifice Jeweled Lotus: Add three mana of any one color. Spend this mana only to cast your commander."
+msgstr ""
+
+#: ../../CMM.rst:36
+msgid ":mtgtip:`Zhulodok, Void Gorger<https://cards.scryfall.io/border_crop/front/a/0/a015461d-4214-4feb-8b04-519c537759eb.jpg?1683325160|https://scryfall.com/card/cmm/704/zhulodok-void-gorger?utm_source=api>`"
+msgstr ""
+
+#: ../../CMM.rst:35
+msgid "Colorless spells you cast from your hand with mana value 7 or greater have \"Cascade, cascade.\" (When you cast one, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom of your library in a random order. Then do it again.)"
+msgstr ""
+
+#: ../../CMM.rst:44
+msgid ":mtgtip:`Anikthea, Hand of Erebos<https://cards.scryfall.io/border_crop/front/8/b/8b796a56-1611-4835-ac5b-48b4e9263685.jpg?1683325229|https://scryfall.com/card/cmm/705/anikthea-hand-of-erebos?utm_source=api>`"
+msgstr ""
+
+#: ../../CMM.rst:39
+msgid "Menace"
+msgstr ""
+
+#: ../../CMM.rst:41
+msgid "Other enchantment creatures you control have menace."
+msgstr ""
+
+#: ../../CMM.rst:43
+msgid "Whenever Anikthea enters the battlefield or attacks, exile up to one target non-Aura enchantment card from your graveyard. Create a token that's a copy of that card, except it's a 3/3 black Zombie creature in addition to its other types."
+msgstr ""
+
+#: ../../CMM.rst:54
+msgid ":mtgtip:`Commodore Guff<https://cards.scryfall.io/border_crop/front/9/2/92870fc6-a6bc-4198-bb31-397e07e0e835.jpg?1683366935|https://scryfall.com/card/cmm/706/commodore-guff?utm_source=api>`"
+msgstr ""
+
+#: ../../CMM.rst:47
+msgid "At the beginning of your end step, put a loyalty counter on another target planeswalker you control."
+msgstr ""
+
+#: ../../CMM.rst:49
+msgid "+1: Create a 1/1 red Wizard creature token with \"|tap|: Add |mana_r|. Spend this mana only to cast a planeswalker spell.\""
+msgstr ""
+
+#: ../../CMM.rst:51
+msgid "−3: You draw X cards and Commodore Guff deals X damage to each opponent, where X is the number of planeswalkers you control."
+msgstr ""
+
+#: ../../CMM.rst:53
+msgid "Commodore Guff can be your commander."
+msgstr ""
+
+#: ../../CMM.rst:61
+msgid ":mtgtip:`Sliver Gravemother<https://cards.scryfall.io/border_crop/front/9/f/9f5d253e-9eb2-423c-90ee-68f27ec6bf88.jpg?1683325555|https://scryfall.com/card/cmm/707/sliver-gravemother?utm_source=api>`"
+msgstr ""
+
+#: ../../CMM.rst:57
+msgid "The \"legend rule\" doesn't apply to Slivers you control."
+msgstr ""
+
+#: ../../CMM.rst:59
+msgid "Each Sliver creature card in your graveyard has encore |mana_x|, where X is its mana value."
+msgstr ""
+
+#: ../../CMM.rst:61
+msgid "Encore |mana_5| (|mana_5|, Exile this card from your graveyard: For each opponent, create a token copy that attacks that opponent this turn if able. They gain haste. Sacrifice them at the beginning of the next end step. Activate only as a sorcery.)"
+msgstr ""

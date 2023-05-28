@@ -619,8 +619,8 @@
    When Gurgling Anointer dies, return another target creature card with mana value less than or equal to Gurgling Anointer's power from your graveyard to the battlefield.
 
 
-:mtgtip:`Hostile Negotiations<https://cards.scryfall.io/border_crop/front/f/8/f827a9a0-7b72-49e2-85fa-adcce1e8fdda.jpg?1674420924|https://scryfall.com/card/bro/105/hostile-negotiations?utm_source=api>`
-   Exile the top three cards of your library in a face-down pile, then exile the next top three cards of your library in another face-down pile. Look at the cards in each pile, then turn a pile of your choice face up. An opponent chooses one of those piles. Put all cards in the chosen pile into your hand and the rest into your graveyard. You lose 3 life.
+:mtgtip:`Hostile Negotiations<https://cards.scryfall.io/border_crop/front/f/8/f827a9a0-7b72-49e2-85fa-adcce1e8fdda.jpg?1681549383|https://scryfall.com/card/bro/105/hostile-negotiations?utm_source=api>`
+   Exile the top three cards of your library in a face-down pile, then exile the top three cards of your library in another face-down pile. Look at the cards in each pile, then turn a pile of your choice face up. An opponent chooses one of those piles. Put all cards in the chosen pile into your hand and the rest into your graveyard. You lose 3 life.
 
 
 :mtgtip:`Kill-Zone Acrobat<https://cards.scryfall.io/border_crop/front/4/8/48f97974-bb65-46b0-a710-12fa4b9343ac.jpg?1674420931|https://scryfall.com/card/bro/106/kill-zone-acrobat?utm_source=api>`
@@ -689,8 +689,8 @@
    |mana_2|\ |mana_b|: Return Clay Revenant from your graveyard to your hand.
 
 
-:mtgtip:`Dredging Claw<https://cards.scryfall.io/border_crop/front/c/8/c8e133a2-631f-43f6-9fdd-e542d4d15e10.jpg?1674421022|https://scryfall.com/card/bro/119/dredging-claw?utm_source=api>`
-   Equipped creature gets +1/+0 and has menace. (It's can't be blocked except by two or more creatures.)
+:mtgtip:`Dredging Claw<https://cards.scryfall.io/border_crop/front/c/8/c8e133a2-631f-43f6-9fdd-e542d4d15e10.jpg?1684523602|https://scryfall.com/card/bro/119/dredging-claw?utm_source=api>`
+   Equipped creature gets +1/+0 and has menace. (It can't be blocked except by two or more creatures.)
 
    Whenever a creature enters the battlefield from your graveyard, you may attach Dredging Claw to it.
 
@@ -917,8 +917,8 @@
    Target creature gets +2/+0 and gains first strike and trample until end of turn.
 
 
-:mtgtip:`Blitz Automaton<https://cards.scryfall.io/border_crop/front/e/4/e4e5529a-848b-486c-97fb-1def35df7837.jpg?1674421318|https://scryfall.com/card/bro/158/blitz-automaton?utm_source=api>`
-   Prototype |mana_2|\ |mana_r| - 3/2 (You may cast this spell with different mana cost, color, and size. It keeps its abilities and types.)
+:mtgtip:`Blitz Automaton<https://cards.scryfall.io/border_crop/front/e/4/e4e5529a-848b-486c-97fb-1def35df7837.jpg?1680794381|https://scryfall.com/card/bro/158/blitz-automaton?utm_source=api>`
+   Prototype |mana_2|\ |mana_r| — 3/2 (You may cast this spell with different mana cost, color, and size. It keeps its abilities and types.)
 
    Haste
 
@@ -1095,7 +1095,7 @@
    When Hoarding Recluse dies, put up to one other target card from a graveyard on the bottom of its owner's library.
 
 
-:mtgtip:`Obstinate Baloth<https://cards.scryfall.io/border_crop/front/e/1/e1b7809f-f3a3-439e-8bae-c083842de1bf.jpg?1674421604|https://scryfall.com/card/bro/187/obstinate-baloth?utm_source=api>`
+:mtgtip:`Obstinate Baloth<https://cards.scryfall.io/border_crop/front/e/1/e1b7809f-f3a3-439e-8bae-c083842de1bf.jpg?1680795416|https://scryfall.com/card/bro/187/obstinate-baloth?utm_source=api>`
    When Obstinate Baloth enters the battlefield, you gain 4 life.
 
    If a spell or ability an opponent controls causes you to discard Obstinate Baloth, put it onto the battlefield instead of putting it into your graveyard.
@@ -1157,14 +1157,20 @@
    When Boulderbranch Golem enters the battlefield, you gain life equal to its power.
 
 
-:mtgtip:`Cradle Clearcutter<https://cards.scryfall.io/border_crop/front/5/0/50cc9b90-792e-4cf7-ab8c-cb616d94092a.jpg?1674421682|https://scryfall.com/card/bro/198/cradle-clearcutter?utm_source=api>`
-   Prototype |mana_2|\ |mana_g| - 1/3 (You may cast this spell with different mana cost, color, and size. It keeps its abilities and types.)
+:mtgtip:`Cradle Clearcutter<https://cards.scryfall.io/border_crop/front/5/0/50cc9b90-792e-4cf7-ab8c-cb616d94092a.jpg?1680794389|https://scryfall.com/card/bro/198/cradle-clearcutter?utm_source=api>`
+   Prototype |mana_2|\ |mana_g| — 1/3 (You may cast this spell with different mana cost, color, and size. It keeps its abilities and types.)
 
    |tap|: Add an amount of |mana_g| equal to Cradle Clearcutter's power.
 
 
 :mtgtip:`Haywire Mite<https://cards.scryfall.io/border_crop/front/8/4/847a175e-ead1-4596-baf3-5f7f57859e0b.jpg?1674421689|https://scryfall.com/card/bro/199/haywire-mite?utm_source=api>`
    When Haywire Mite dies, you gain 2 life.
+
+   |mana_g|, Sacrifice Haywire Mite: Exile target noncreature artifact or noncreature enchantment.
+
+
+:mtgtip:`A-Haywire Mite<https://cards.scryfall.io/border_crop/front/0/3/0398ea6e-94f8-4a34-873b-6cde8426169d.jpg?1681158882|https://scryfall.com/card/bro/A-199/a-haywire-mite?utm_source=api>`
+   When Haywire Mite dies, you gain 3 life.
 
    |mana_g|, Sacrifice Haywire Mite: Exile target noncreature artifact or noncreature enchantment.
 

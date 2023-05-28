@@ -1534,7 +1534,7 @@
 
 
 :mtgtip:`Umbilicus<https://cards.scryfall.io/border_crop/front/2/9/29a6db88-a11d-49b4-8692-28b24d23f3c7.jpg?1562903837|https://scryfall.com/card/usg/312/umbilicus?utm_source=api>`
-   At the beginning of each player's upkeep, that player returns a permanent they control to its owner's hand unless they pay 2 life.
+   At the beginning of each player's upkeep, that player may pay 2 life. If they don't, they return a permanent they control to its owner's hand.
 
 
 :mtgtip:`Urza's Armor<https://cards.scryfall.io/border_crop/front/d/f/df901d78-e8fb-4adf-bafe-99a567a375c1.jpg?1562942153|https://scryfall.com/card/usg/313/urzas-armor?utm_source=api>`

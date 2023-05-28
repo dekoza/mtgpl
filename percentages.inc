@@ -4,6 +4,8 @@
 .. |M12_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
+.. |MOC_percent| image:: images/pie80.png        
+
 .. |THB_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
 
@@ -42,6 +44,8 @@
    :alt: Tłumaczenie zakończone
 
 .. |NCC_percent| image:: images/pie75.png        
+
+.. |MAT_percent| image:: images/pie95.png        
 
 .. |RIX_percent| image:: images/done.png        
    :alt: Tłumaczenie zakończone
@@ -293,6 +297,9 @@
    :alt: Tłumaczenie zakończone
 
 .. |PLS_percent| image:: images/pie45.png        
+
+.. |SIR_percent| image:: images/done.png        
+   :alt: Tłumaczenie zakończone
 
 .. |DMR_percent| image:: images/pie75.png        
 

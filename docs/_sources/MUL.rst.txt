@@ -5,14 +5,410 @@
 =================================
 
 
-:mtgtip:`Ragavan, Nimble Pilferer<https://cards.scryfall.io/border_crop/front/f/c/fc898fec-4cc6-4587-b556-c5a8d38ccbd0.jpg?1676822144|https://scryfall.com/card/mul/21/ragavan-nimble-pilferer?utm_source=api>`
+:mtgtip:`Anafenza, Kin-Tree Spirit<https://cards.scryfall.io/border_crop/front/2/7/278d7781-ddfe-4bcb-94bd-3c155030dfdc.jpg?1682200282|https://scryfall.com/card/mul/1/anafenza-kin-tree-spirit?utm_source=api>`
+   Whenever another nontoken creature enters the battlefield under your control, bolster 1. (Choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.)
+
+
+:mtgtip:`Daxos, Blessed by the Sun<https://cards.scryfall.io/border_crop/front/4/2/42496543-db8c-4053-aaf5-8e96948bafb9.jpg?1682347253|https://scryfall.com/card/mul/2/daxos-blessed-by-the-sun?utm_source=api>`
+   Daxos's toughness is equal to your devotion to white. (Each |mana_w| in the mana costs of permanents you control counts toward your devotion to white.)
+
+   Whenever another creature you control enters the battlefield or dies, you gain 1 life.
+
+
+:mtgtip:`Elesh Norn, Grand Cenobite<https://cards.scryfall.io/border_crop/front/0/e/0ee0719c-07d0-419a-b6ed-fc3bf982e4d3.jpg?1682347264|https://scryfall.com/card/mul/3/elesh-norn-grand-cenobite?utm_source=api>`
+   Vigilance
+
+   Other creatures you control get +2/+2.
+
+   Creatures your opponents control get -2/-2.
+
+
+:mtgtip:`Kenrith, the Returned King<https://cards.scryfall.io/border_crop/front/5/e/5ed8b9c5-8b09-40a0-ae08-bc7a7a391256.jpg?1682200313|https://scryfall.com/card/mul/4/kenrith-the-returned-king?utm_source=api>`
+   |mana_r|: All creatures gain trample and haste until end of turn.
+
+   |mana_1|\ |mana_g|: Put a +1/+1 counter on target creature.
+
+   |mana_2|\ |mana_w|: Target player gains 5 life.
+
+   |mana_3|\ |mana_u|: Target player draws a card.
+
+   |mana_4|\ |mana_b|: Put target creature card from a graveyard onto the battlefield under its owner's control.
+
+
+:mtgtip:`Kwende, Pride of Femeref<https://cards.scryfall.io/border_crop/front/4/2/427cf253-71c1-40cf-bdc3-eeb0431ae37f.jpg?1682200324|https://scryfall.com/card/mul/5/kwende-pride-of-femeref?utm_source=api>`
+   Double strike
+
+   Creatures you control with first strike have double strike.
+
+
+:mtgtip:`Sram, Senior Edificer<https://cards.scryfall.io/border_crop/front/c/b/cb7eb35d-2684-40f7-b678-0d9a180c955a.jpg?1682347370|https://scryfall.com/card/mul/6/sram-senior-edificer?utm_source=api>`
+   Whenever you cast an Aura, Equipment, or Vehicle spell, draw a card.
+
+
+:mtgtip:`Thalia, Guardian of Thraben<https://cards.scryfall.io/border_crop/front/9/7/9716a5ff-f1ed-4285-a0a7-68114eeb1ba7.jpg?1682347379|https://scryfall.com/card/mul/7/thalia-guardian-of-thraben?utm_source=api>`
+   First strike
+
+   Noncreature spells cost |mana_1| more to cast.
+
+
+:mtgtip:`Baral, Chief of Compliance<https://cards.scryfall.io/border_crop/front/4/7/47eb1fa4-a332-4618-a400-c082719f7d5f.jpg?1682347374|https://scryfall.com/card/mul/8/baral-chief-of-compliance?utm_source=api>`
+   Instant and sorcery spells you cast cost |mana_1| less to cast.
+
+   Whenever a spell or ability you control counters a spell, you may draw a card. If you do, discard a card.
+
+
+:mtgtip:`Emry, Lurker of the Loch<https://cards.scryfall.io/border_crop/front/7/6/766a0ac7-2051-46f6-a5e5-32fd65b09553.jpg?1682200364|https://scryfall.com/card/mul/9/emry-lurker-of-the-loch?utm_source=api>`
+   This spell costs |mana_1| less to cast for each artifact you control.
+
+   When Emry, Lurker of the Loch enters the battlefield, mill four cards.
+
+   |tap|: Choose target artifact card in your graveyard. You may cast that card this turn. (You still pay its costs. Timing rules still apply.)
+
+
+:mtgtip:`Inga Rune-Eyes<https://cards.scryfall.io/border_crop/front/3/8/386b9f57-b75c-4431-9abe-a5cec2a35340.jpg?1682720477|https://scryfall.com/card/mul/10/inga-rune-eyes?utm_source=api>`
+   When Inga Rune-Eyes enters the battlefield, scry 3.
+
+   When Inga Rune-Eyes dies, draw three cards if three or more creatures died this turn.
+
+
+:mtgtip:`Jin-Gitaxias, Core Augur<https://cards.scryfall.io/border_crop/front/7/7/77fd8de3-bd4a-473d-b1ed-05305ab15d75.jpg?1682347365|https://scryfall.com/card/mul/11/jin-gitaxias-core-augur?utm_source=api>`
+   Flash
+
+   At the beginning of your end step, draw seven cards.
+
+   Each opponent's maximum hand size is reduced by seven.
+
+
+:mtgtip:`Tetsuko Umezawa, Fugitive<https://cards.scryfall.io/border_crop/front/4/6/469beb59-1e57-474e-9dcf-9c13957cbfdd.jpg?1682200394|https://scryfall.com/card/mul/12/tetsuko-umezawa-fugitive?utm_source=api>`
+   Creatures you control with power or toughness 1 or less can't be blocked.
+
+
+:mtgtip:`Ayara, First of Locthwain<https://cards.scryfall.io/border_crop/front/e/9/e915b51b-761c-432e-9565-f3aca2ca33f7.jpg?1682200405|https://scryfall.com/card/mul/13/ayara-first-of-locthwain?utm_source=api>`
+   Whenever Ayara, First of Locthwain or another black creature enters the battlefield under your control, each opponent loses 1 life and you gain 1 life.
+
+   |tap|, Sacrifice another black creature: Draw a card.
+
+
+:mtgtip:`Horobi, Death's Wail<https://cards.scryfall.io/border_crop/front/2/5/25f16054-64fc-436f-b926-4abcfedf42b3.jpg?1682347362|https://scryfall.com/card/mul/14/horobi-deaths-wail?utm_source=api>`
+   Flying
+
+   Whenever a creature becomes the target of a spell or ability, destroy that creature.
+
+
+:mtgtip:`Seizan, Perverter of Truth<https://cards.scryfall.io/border_crop/front/d/6/d6716f24-6b25-4a64-bb52-b6eec7f91180.jpg?1682347358|https://scryfall.com/card/mul/15/seizan-perverter-of-truth?utm_source=api>`
+   At the beginning of each player's upkeep, that player loses 2 life and draws two cards.
+
+
+:mtgtip:`Sheoldred, Whispering One<https://cards.scryfall.io/border_crop/front/d/c/dc2234cd-0a1c-4dca-b94b-0dd927bb32e2.jpg?1682347350|https://scryfall.com/card/mul/16/sheoldred-whispering-one?utm_source=api>`
+   Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)
+
+   At the beginning of your upkeep, return target creature card from your graveyard to the battlefield.
+
+   At the beginning of each opponent's upkeep, that player sacrifices a creature.
+
+
+:mtgtip:`Skithiryx, the Blight Dragon<https://cards.scryfall.io/border_crop/front/e/e/ee0d41b3-42ce-4645-96c9-baab109033ef.jpg?1682347342|https://scryfall.com/card/mul/17/skithiryx-the-blight-dragon?utm_source=api>`
+   Flying
+
+   Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+
+   |mana_b|: Skithiryx, the Blight Dragon gains haste until end of turn.
+
+   |mana_b|\ |mana_b|: Regenerate Skithiryx.
+
+
+:mtgtip:`Tymaret, Chosen from Death<https://cards.scryfall.io/border_crop/front/a/f/aff4fb74-8fb8-4d58-ac1b-be3de156411a.jpg?1682347346|https://scryfall.com/card/mul/18/tymaret-chosen-from-death?utm_source=api>`
+   Tymaret's toughness is equal to your devotion to black. (Each |mana_b| in the mana costs of permanents you control counts toward your devotion to black.)
+
+   |mana_1|\ |mana_b|: Exile up to two target cards from graveyards. You gain 1 life for each creature card exiled this way.
+
+
+:mtgtip:`Yargle, Glutton of Urborg<https://cards.scryfall.io/border_crop/front/e/0/e07104c8-3af9-44ff-8f24-ce420333e05b.jpg?1682200466|https://scryfall.com/card/mul/19/yargle-glutton-of-urborg?utm_source=api>`
+   
+
+
+:mtgtip:`Captain Lannery Storm<https://cards.scryfall.io/border_crop/front/2/a/2ab5252d-e6b2-43ae-ac35-75f32082486c.jpg?1682200477|https://scryfall.com/card/mul/20/captain-lannery-storm?utm_source=api>`
+   Haste
+
+   Whenever Captain Lannery Storm attacks, create a Treasure token. (It's an artifact with "|tap|, Sacrifice this artifact: Add one mana of any color.")
+
+   Whenever you sacrifice a Treasure, Captain Lannery Storm gets +1/+0 until end of turn.
+
+
+:mtgtip:`Ragavan, Nimble Pilferer<https://cards.scryfall.io/border_crop/front/f/c/fc898fec-4cc6-4587-b556-c5a8d38ccbd0.jpg?1682347338|https://scryfall.com/card/mul/21/ragavan-nimble-pilferer?utm_source=api>`
    Whenever Ragavan, Nimble Pilferer deals combat damage to a player, create a Treasure token and exile the top card of that player's library. Until end of turn, you may cast that card.
 
    Dash |mana_1|\ |mana_r| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)
 
 
-:mtgtip:`Atraxa, Praetors' Voice<https://cards.scryfall.io/border_crop/front/b/d/bd0d5a0c-5dec-439c-b037-9d17dda5ead3.jpg?1676822153|https://scryfall.com/card/mul/33/atraxa-praetors-voice?utm_source=api>`
+:mtgtip:`Squee, the Immortal<https://cards.scryfall.io/border_crop/front/e/5/e5483306-885c-44e1-84ce-b6e2124a6ecc.jpg?1682200496|https://scryfall.com/card/mul/22/squee-the-immortal?utm_source=api>`
+   You may cast Squee, the Immortal from your graveyard or from exile.
+
+
+:mtgtip:`Urabrask the Hidden<https://cards.scryfall.io/border_crop/front/0/5/0533d7e4-6b5b-4e2e-8407-279fe438c676.jpg?1682347330|https://scryfall.com/card/mul/23/urabrask-the-hidden?utm_source=api>`
+   Creatures you control have haste.
+
+   Creatures your opponents control enter the battlefield tapped.
+
+
+:mtgtip:`Valduk, Keeper of the Flame<https://cards.scryfall.io/border_crop/front/b/c/bc26c152-b1d4-4afe-90fb-fddd6c1e67e9.jpg?1682200517|https://scryfall.com/card/mul/24/valduk-keeper-of-the-flame?utm_source=api>`
+   At the beginning of combat on your turn, for each Aura and Equipment attached to Valduk, Keeper of the Flame, create a 3/1 red Elemental creature token with trample and haste. Exile those tokens at the beginning of the next end step.
+
+
+:mtgtip:`Zada, Hedron Grinder<https://cards.scryfall.io/border_crop/front/8/9/8994524c-b9ff-4ca0-9ff0-2d074911bfe6.jpg?1682436404|https://scryfall.com/card/mul/25/zada-hedron-grinder?utm_source=api>`
+   Whenever you cast an instant or sorcery spell that targets only Zada, Hedron Grinder, copy that spell for each other creature you control that the spell could target. Each copy targets a different one of those creatures.
+
+
+:mtgtip:`Fynn, the Fangbearer<https://cards.scryfall.io/border_crop/front/8/3/837e18d9-a5a6-4a0c-a604-9374d5b0dea4.jpg?1682720480|https://scryfall.com/card/mul/26/fynn-the-fangbearer?utm_source=api>`
+   Deathtouch
+
+   Whenever a creature you control with deathtouch deals combat damage to a player, that player gets two poison counters. (A player with ten or more poison counters loses the game.)
+
+
+:mtgtip:`Goreclaw, Terror of Qal Sisma<https://cards.scryfall.io/border_crop/front/a/5/a5f3fddf-a82e-4297-8ee5-458981700d9e.jpg?1682200555|https://scryfall.com/card/mul/27/goreclaw-terror-of-qal-sisma?utm_source=api>`
+   Creature spells you cast with power 4 or greater cost |mana_2| less to cast.
+
+   Whenever Goreclaw, Terror of Qal Sisma attacks, each creature you control with power 4 or greater gets +1/+1 and gains trample until end of turn.
+
+
+:mtgtip:`Renata, Called to the Hunt<https://cards.scryfall.io/border_crop/front/1/9/1998356b-4eb3-43a7-8534-10eb212c7f2a.jpg?1682347317|https://scryfall.com/card/mul/28/renata-called-to-the-hunt?utm_source=api>`
+   Renata's power is equal to your devotion to green. (Each |mana_g| in the mana costs of permanents you control counts toward your devotion to green.)
+
+   Each other creature you control enters the battlefield with an additional +1/+1 counter on it.
+
+
+:mtgtip:`Vorinclex, Voice of Hunger<https://cards.scryfall.io/border_crop/front/b/d/bdcd2ec9-a8e7-46b3-8d79-eb15d6e95a3c.jpg?1682347437|https://scryfall.com/card/mul/29/vorinclex-voice-of-hunger?utm_source=api>`
+   Trample
+
+   Whenever you tap a land for mana, add one mana of any type that land produced.
+
+   Whenever an opponent taps a land for mana, that land doesn't untap during its controller's next untap step.
+
+
+:mtgtip:`Yedora, Grave Gardener<https://cards.scryfall.io/border_crop/front/6/0/606715cc-c0b8-466a-90a0-719cba1968d6.jpg?1682200585|https://scryfall.com/card/mul/30/yedora-grave-gardener?utm_source=api>`
+   Whenever another nontoken creature you control dies, you may return it to the battlefield face down under its owner's control. It's a Forest land. (It has no other types or abilities.)
+
+
+:mtgtip:`Aegar, the Freezing Flame<https://cards.scryfall.io/border_crop/front/0/a/0a0d2ebd-99ba-4968-a79e-68288626bed1.jpg?1682720485|https://scryfall.com/card/mul/31/aegar-the-freezing-flame?utm_source=api>`
+   Whenever a creature or planeswalker an opponent controls is dealt excess damage, if a Giant, Wizard, or spell you controlled dealt damage to it this turn, draw a card.
+
+
+:mtgtip:`Arixmethes, Slumbering Isle<https://cards.scryfall.io/border_crop/front/2/f/2fa20406-86ce-48a1-876d-c434cfca2237.jpg?1682347441|https://scryfall.com/card/mul/32/arixmethes-slumbering-isle?utm_source=api>`
+   Arixmethes, Slumbering Isle enters the battlefield tapped with five slumber counters on it.
+
+   As long as Arixmethes has a slumber counter on it, it's a land. (It's not a creature.)
+
+   Whenever you cast a spell, you may remove a slumber counter from Arixmethes.
+
+   |tap|: Add |mana_g|\ |mana_u|.
+
+
+:mtgtip:`Atraxa, Praetors' Voice<https://cards.scryfall.io/border_crop/front/b/d/bd0d5a0c-5dec-439c-b037-9d17dda5ead3.jpg?1682347459|https://scryfall.com/card/mul/33/atraxa-praetors-voice?utm_source=api>`
    Flying, vigilance, deathtouch, lifelink
 
    At the beginning of your end step, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
+
+
+:mtgtip:`Atris, Oracle of Half-Truths<https://cards.scryfall.io/border_crop/front/e/0/e023d642-1784-4e7e-b5de-dc9943f0099e.jpg?1682347454|https://scryfall.com/card/mul/34/atris-oracle-of-half-truths?utm_source=api>`
+   Menace
+
+   When Atris, Oracle of Half-Truths enters the battlefield, target opponent looks at the top three cards of your library and separates them into a face-down pile and a face-up pile. Put one pile into your hand and the other into your graveyard.
+
+
+:mtgtip:`Aurelia, the Warleader<https://cards.scryfall.io/border_crop/front/1/e/1e7c2afb-e04e-4012-b8a2-7a7273b52136.jpg?1682200633|https://scryfall.com/card/mul/35/aurelia-the-warleader?utm_source=api>`
+   Flying, vigilance, haste
+
+   Whenever Aurelia, the Warleader attacks for the first time each turn, untap all creatures you control. After this phase, there is an additional combat phase.
+
+
+:mtgtip:`Brudiclad, Telchor Engineer<https://cards.scryfall.io/border_crop/front/9/a/9a833fa7-5934-4c04-be42-e215a61f450e.jpg?1682347447|https://scryfall.com/card/mul/36/brudiclad-telchor-engineer?utm_source=api>`
+   Creature tokens you control have haste.
+
+   At the beginning of combat on your turn, create a 2/1 blue Phyrexian Myr artifact creature token. Then you may choose a token you control. If you do, each other token you control becomes a copy of that token.
+
+
+:mtgtip:`Dina, Soul Steeper<https://cards.scryfall.io/border_crop/front/8/d/8d07b9f4-7a92-41ee-bdd8-2c8dbe247ac5.jpg?1682200653|https://scryfall.com/card/mul/37/dina-soul-steeper?utm_source=api>`
+   Whenever you gain life, each opponent loses 1 life.
+
+   |mana_1|, Sacrifice another creature: Dina, Soul Steeper gets +X/+0 until end of turn, where X is the sacrificed creature's power.
+
+
+:mtgtip:`Ezuri, Claw of Progress<https://cards.scryfall.io/border_crop/front/7/0/703b9b74-e1f3-4218-b504-07bba71187c8.jpg?1682347463|https://scryfall.com/card/mul/38/ezuri-claw-of-progress?utm_source=api>`
+   Whenever a creature with power 2 or less enters the battlefield under your control, you get an experience counter.
+
+   At the beginning of combat on your turn, put X +1/+1 counters on another target creature you control, where X is the number of experience counters you have.
+
+
+:mtgtip:`Firesong and Sunspeaker<https://cards.scryfall.io/border_crop/front/9/0/90e0031e-de69-41e7-aef9-78ed1d4b3361.jpg?1682200673|https://scryfall.com/card/mul/39/firesong-and-sunspeaker?utm_source=api>`
+   Red instant and sorcery spells you control have lifelink.
+
+   Whenever a white instant or sorcery spell causes you to gain life, Firesong and Sunspeaker deals 3 damage to target creature or player.
+
+
+:mtgtip:`Firja, Judge of Valor<https://cards.scryfall.io/border_crop/front/4/6/46f485c6-a2b2-4da3-8804-b2b816eba344.jpg?1682720488|https://scryfall.com/card/mul/40/firja-judge-of-valor?utm_source=api>`
+   Flying, lifelink
+
+   Whenever you cast your second spell each turn, look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.
+
+
+:mtgtip:`Grimgrin, Corpse-Born<https://cards.scryfall.io/border_crop/front/2/c/2c0056d5-4d23-4c0c-bbfb-c091cc3fb9ae.jpg?1682200692|https://scryfall.com/card/mul/41/grimgrin-corpse-born?utm_source=api>`
+   Grimgrin, Corpse-Born enters the battlefield tapped and doesn't untap during your untap step.
+
+   Sacrifice another creature: Untap Grimgrin and put a +1/+1 counter on it.
+
+   Whenever Grimgrin attacks, destroy target creature defending player controls, then put a +1/+1 counter on Grimgrin.
+
+
+:mtgtip:`Gyruda, Doom of Depths<https://cards.scryfall.io/border_crop/front/9/c/9cbe6748-8ef1-4697-8b7b-72c5ea5b34c5.jpg?1682347466|https://scryfall.com/card/mul/42/gyruda-doom-of-depths?utm_source=api>`
+   Companion — Your starting deck contains only cards with even mana values. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| as a sorcery.)
+
+   When Gyruda enters the battlefield, each player mills four cards. Put a creature card with an even mana value from among the milled cards onto the battlefield under your control.
+
+
+:mtgtip:`Imoti, Celebrant of Bounty<https://cards.scryfall.io/border_crop/front/a/b/ab58b800-2caa-4b0b-9548-9c43e97bc213.jpg?1682200711|https://scryfall.com/card/mul/43/imoti-celebrant-of-bounty?utm_source=api>`
+   Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom of your library in a random order.)
+
+   Spells you cast with mana value 6 or greater have cascade.
+
+
+:mtgtip:`Jegantha, the Wellspring<https://cards.scryfall.io/border_crop/front/5/1/51b8d3a9-2b2b-4b14-8886-459cd83ae4e6.jpg?1682347074|https://scryfall.com/card/mul/44/jegantha-the-wellspring?utm_source=api>`
+   Companion — No card in your starting deck has more than one of the same mana symbol in its mana cost. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| as a sorcery.)
+
+   |tap|: Add |mana_w|\ |mana_u|\ |mana_b|\ |mana_r|\ |mana_g|. This mana can't be spent to pay generic mana costs.
+
+
+:mtgtip:`Judith, the Scourge Diva<https://cards.scryfall.io/border_crop/front/0/a/0a1b14a8-c194-49d3-ab6c-1db377b69495.jpg?1682200732|https://scryfall.com/card/mul/45/judith-the-scourge-diva?utm_source=api>`
+   Other creatures you control get +1/+0.
+
+   Whenever a nontoken creature you control dies, Judith, the Scourge Diva deals 1 damage to any target.
+
+
+:mtgtip:`Juri, Master of the Revue<https://cards.scryfall.io/border_crop/front/c/9/c94cd726-8d67-4510-ad56-3ead1931214b.jpg?1682200742|https://scryfall.com/card/mul/46/juri-master-of-the-revue?utm_source=api>`
+   Whenever you sacrifice a permanent, put a +1/+1 counter on Juri, Master of the Revue.
+
+   When Juri dies, it deals damage equal to its power to any target.
+
+
+:mtgtip:`Kaheera, the Orphanguard<https://cards.scryfall.io/border_crop/front/e/9/e9c296d0-ad8d-4139-97c4-e36c4af3d3c9.jpg?1682347470|https://scryfall.com/card/mul/47/kaheera-the-orphanguard?utm_source=api>`
+   Companion — Each creature card in your starting deck is a Cat, Elemental, Nightmare, Dinosaur, or Beast card. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| as a sorcery.)
+
+   Vigilance
+
+   Each other creature you control that's a Cat, Elemental, Nightmare, Dinosaur, or Beast gets +1/+1 and has vigilance.
+
+
+:mtgtip:`Keruga, the Macrosage<https://cards.scryfall.io/border_crop/front/8/1/814cd870-a4da-4987-a69b-5ba6cee136c1.jpg?1682347475|https://scryfall.com/card/mul/48/keruga-the-macrosage?utm_source=api>`
+   Companion — Your starting deck contains only cards with mana value 3 or greater and land cards. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| as a sorcery.)
+
+   When Keruga, the Macrosage enters the battlefield, draw a card for each other permanent you control with mana value 3 or greater.
+
+
+:mtgtip:`Kroxa, Titan of Death's Hunger<https://cards.scryfall.io/border_crop/front/c/f/cf9bf8c4-f977-449b-8d16-539060b40777.jpg?1682347479|https://scryfall.com/card/mul/49/kroxa-titan-of-deaths-hunger?utm_source=api>`
+   When Kroxa enters the battlefield, sacrifice it unless it escaped.
+
+   Whenever Kroxa enters the battlefield or attacks, each opponent discards a card, then each opponent who didn't discard a nonland card this way loses 3 life.
+
+   Escape—|mana_b|\ |mana_b|\ |mana_r|\ |mana_r|, Exile five other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)
+
+
+:mtgtip:`Lathiel, the Bounteous Dawn<https://cards.scryfall.io/border_crop/front/f/b/fb721716-1027-4c2c-a156-30fb6a939e82.jpg?1682200780|https://scryfall.com/card/mul/50/lathiel-the-bounteous-dawn?utm_source=api>`
+   Lifelink
+
+   At the beginning of each end step, if you gained life this turn, distribute up to that many +1/+1 counters among any number of other target creatures.
+
+
+:mtgtip:`Lurrus of the Dream-Den<https://cards.scryfall.io/border_crop/front/4/b/4b32771b-d89f-46b1-8c70-95a4f058ef05.jpg?1682347487|https://scryfall.com/card/mul/51/lurrus-of-the-dream-den?utm_source=api>`
+   Companion — Each permanent card in your starting deck has mana value 2 or less. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| as a sorcery.)
+
+   Lifelink
+
+   Once during each of your turns, you may cast a permanent spell with mana value 2 or less from your graveyard.
+
+
+:mtgtip:`Lutri, the Spellchaser<https://cards.scryfall.io/border_crop/front/0/8/08d24f3f-bff1-4424-a029-3221c4e395b3.jpg?1682347483|https://scryfall.com/card/mul/52/lutri-the-spellchaser?utm_source=api>`
+   Companion — Each nonland card in your starting deck has a different name. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| as a sorcery.)
+
+   Flash
+
+   When Lutri, the Spellchaser enters the battlefield, if you cast it, copy target instant or sorcery spell you control. You may choose new targets for the copy.
+
+
+:mtgtip:`Niv-Mizzet Reborn<https://cards.scryfall.io/border_crop/front/c/f/cf0d7769-d98e-4cf2-900e-11dc74142c0d.jpg?1682200811|https://scryfall.com/card/mul/53/niv-mizzet-reborn?utm_source=api>`
+   Flying
+
+   When Niv-Mizzet Reborn enters the battlefield, reveal the top ten cards of your library. For each color pair, choose a card that's exactly those colors from among them. Put the chosen cards into your hand and the rest on the bottom of your library in a random order.
+
+
+:mtgtip:`Obosh, the Preypiercer<https://cards.scryfall.io/border_crop/front/4/a/4a0116c9-ee0f-435a-a599-96cc04a994b3.jpg?1682347490|https://scryfall.com/card/mul/54/obosh-the-preypiercer?utm_source=api>`
+   Companion — Your starting deck contains only cards with odd mana values and land cards. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| as a sorcery.)
+
+   If a source you control with an odd mana value would deal damage to a permanent or player, it deals double that damage to that permanent or player instead.
+
+
+:mtgtip:`Radha, Coalition Warlord<https://cards.scryfall.io/border_crop/front/c/a/ca9bdaae-55f4-4e90-b6b5-28eb1cec198b.jpg?1682228283|https://scryfall.com/card/mul/55/radha-coalition-warlord?utm_source=api>`
+   Domain — Whenever Radha, Coalition Warlord becomes tapped, another target creature you control gets +X/+X until end of turn, where X is the number of basic land types among lands you control.
+
+
+:mtgtip:`Raff, Weatherlight Stalwart<https://cards.scryfall.io/border_crop/front/6/5/651c3dd6-e1a8-4a65-a200-f86d308570ac.jpg?1682228464|https://scryfall.com/card/mul/56/raff-weatherlight-stalwart?utm_source=api>`
+   Whenever you cast an instant or sorcery spell, you may tap two untapped creatures you control. If you do, draw a card.
+
+   |mana_3|\ |mana_w|\ |mana_w|: Creatures you control get +1/+1 and gain vigilance until end of turn.
+
+
+:mtgtip:`Reyav, Master Smith<https://cards.scryfall.io/border_crop/front/d/4/d44478d2-20eb-4dba-8008-687a293444f5.jpg?1682347495|https://scryfall.com/card/mul/57/reyav-master-smith?utm_source=api>`
+   Whenever a creature you control that's enchanted or equipped attacks, that creature gains double strike until end of turn.
+
+
+:mtgtip:`Rona, Sheoldred's Faithful<https://cards.scryfall.io/border_crop/front/8/e/8eaeb2b7-ad2d-4e00-b37a-06963ae41bb2.jpg?1682228270|https://scryfall.com/card/mul/58/rona-sheoldreds-faithful?utm_source=api>`
+   Whenever you cast an instant or sorcery spell, each opponent loses 1 life.
+
+   You may cast Rona, Sheoldred's Faithful from your graveyard by discarding two cards in addition to paying its other costs.
+
+
+:mtgtip:`Shanna, Sisay's Legacy<https://cards.scryfall.io/border_crop/front/4/0/40c00370-0160-48a9-87ac-07a3b2bbd459.jpg?1682200872|https://scryfall.com/card/mul/59/shanna-sisays-legacy?utm_source=api>`
+   Shanna, Sisay's Legacy can't be the target of abilities your opponents control.
+
+   Shanna gets +1/+1 for each creature you control.
+
+
+:mtgtip:`Taigam, Ojutai Master<https://cards.scryfall.io/border_crop/front/e/b/eb90aae8-34c7-484c-80da-626393917720.jpg?1682200881|https://scryfall.com/card/mul/60/taigam-ojutai-master?utm_source=api>`
+   Instant, sorcery, and Dragon spells you control can't be countered.
+
+   Whenever you cast an instant or sorcery spell from your hand, if Taigam, Ojutai Master attacked this turn, that spell gains rebound. (Exile the spell as it resolves. At the beginning of your next upkeep, you may cast that card from exile without paying its mana cost.)
+
+
+:mtgtip:`Teysa Karlov<https://cards.scryfall.io/border_crop/front/3/c/3c48a7da-0d01-439f-8cfb-22af30cffbba.jpg?1682200891|https://scryfall.com/card/mul/61/teysa-karlov?utm_source=api>`
+   If a creature dying causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
+
+   Creature tokens you control have vigilance and lifelink.
+
+
+:mtgtip:`Umori, the Collector<https://cards.scryfall.io/border_crop/front/8/1/81826ef6-02ea-411b-ac08-8ac5e459daa1.jpg?1682347571|https://scryfall.com/card/mul/62/umori-the-collector?utm_source=api>`
+   Companion — Each nonland card in your starting deck shares a card type. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| as a sorcery.)
+
+   As Umori, the Collector enters the battlefield, choose a card type.
+
+   Spells you cast of the chosen type cost |mana_1| less to cast.
+
+
+:mtgtip:`Yarok, the Desecrated<https://cards.scryfall.io/border_crop/front/e/5/e56ba25b-1803-4e1a-b7cf-c2c873159010.jpg?1682347559|https://scryfall.com/card/mul/63/yarok-the-desecrated?utm_source=api>`
+   Deathtouch, lifelink
+
+   If a permanent entering the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
+
+
+:mtgtip:`Yorion, Sky Nomad<https://cards.scryfall.io/border_crop/front/5/7/572f03c2-cd20-4e09-90a4-13bd291c5478.jpg?1682347567|https://scryfall.com/card/mul/64/yorion-sky-nomad?utm_source=api>`
+   Companion — Your starting deck contains at least twenty cards more than the minimum deck size. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| as a sorcery.)
+
+   Flying
+
+   When Yorion enters the battlefield, exile any number of other nonland permanents you own and control. Return those cards to the battlefield at the beginning of the next end step.
+
+
+:mtgtip:`Zirda, the Dawnwaker<https://cards.scryfall.io/border_crop/front/5/f/5fe75365-7f6d-4faf-9f55-0ba83821836a.jpg?1682347564|https://scryfall.com/card/mul/65/zirda-the-dawnwaker?utm_source=api>`
+   Companion — Each permanent card in your starting deck has an activated ability. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| as a sorcery.)
+
+   Abilities you activate that aren't mana abilities cost |mana_2| less to activate. This effect can't reduce the mana in that cost to less than one mana.
+
+   |mana_1|, |tap|: Target creature can't block this turn.
 

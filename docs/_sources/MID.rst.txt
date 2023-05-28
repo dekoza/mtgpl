@@ -375,7 +375,7 @@
    When Falcon Abomination enters the battlefield, create a 2/2 black Zombie creature token with decayed. (It can't block. When it attacks, sacrifice it at end of combat.)
 
 
-:mtgtip:`A-Falcon Abomination<https://cards.scryfall.io/border_crop/front/0/0/004c1078-0dea-4885-97b5-497f3f15c8c3.jpg?1645740110|https://scryfall.com/card/mid/A-52/a-falcon-abomination?utm_source=api>`
+:mtgtip:`A-Falcon Abomination<https://cards.scryfall.io/border_crop/front/0/0/004c1078-0dea-4885-97b5-497f3f15c8c3.jpg?1681158665|https://scryfall.com/card/mid/A-52/a-falcon-abomination?utm_source=api>`
    Flash
 
    Flying
@@ -431,7 +431,7 @@
    Each instant and sorcery card in your graveyard has flashback. The flashback cost is equal to that card's mana cost.
 
 
-:mtgtip:`A-Lier, Disciple of the Drowned<https://cards.scryfall.io/border_crop/front/7/9/79a6bf25-4e94-4760-b4f5-69c78ac98fb5.jpg?1645415764|https://scryfall.com/card/mid/A-59/a-lier-disciple-of-the-drowned?utm_source=api>`
+:mtgtip:`A-Lier, Disciple of the Drowned<https://cards.scryfall.io/border_crop/front/7/9/79a6bf25-4e94-4760-b4f5-69c78ac98fb5.jpg?1681158992|https://scryfall.com/card/mid/A-59/a-lier-disciple-of-the-drowned?utm_source=api>`
    Spells can't be countered.
 
    As long as it's your turn, each instant and sorcery card in your graveyard has flashback. The flashback cost is equal to that card's mana cost.
@@ -517,7 +517,7 @@
    Spells you cast from your graveyard cost |mana_1| less to cast.
 
 
-:mtgtip:`A-Patrician Geist<https://cards.scryfall.io/border_crop/front/a/1/a17c4ab2-f455-4195-86d2-b8d039fb27dd.jpg?1676762034|https://scryfall.com/card/mid/A-69/a-patrician-geist?utm_source=api>`
+:mtgtip:`A-Patrician Geist<https://cards.scryfall.io/border_crop/front/a/1/a17c4ab2-f455-4195-86d2-b8d039fb27dd.jpg?1681159170|https://scryfall.com/card/mid/A-69/a-patrician-geist?utm_source=api>`
    Flying
 
    Other Spirits you control get +1/+1.
@@ -531,7 +531,7 @@
    When Phantom Carriage enters the battlefield, you may search your library for a card with flashback or disturb, put it into your graveyard, then shuffle.
 
 
-:mtgtip:`A-Phantom Carriage<https://cards.scryfall.io/border_crop/front/b/9/b99a920c-5bd9-4aee-863a-26b4bfd4bf08.jpg?1676762147|https://scryfall.com/card/mid/A-70/a-phantom-carriage?utm_source=api>`
+:mtgtip:`A-Phantom Carriage<https://cards.scryfall.io/border_crop/front/b/9/b99a920c-5bd9-4aee-863a-26b4bfd4bf08.jpg?1681159220|https://scryfall.com/card/mid/A-70/a-phantom-carriage?utm_source=api>`
    Flying
 
    When Phantom Carriage enters the battlefield, you may search your library for a card with flashback or disturb, put it into your graveyard, then shuffle.
@@ -565,7 +565,7 @@
    Whenever you discard a Spirit card or a card with disturb, put a +1/+1 counter on Shipwreck Sifters.
 
 
-:mtgtip:`A-Shipwreck Sifters<https://cards.scryfall.io/border_crop/front/5/9/59feb0fa-3d5f-4712-899c-272f3976ff0d.jpg?1676762210|https://scryfall.com/card/mid/A-74/a-shipwreck-sifters?utm_source=api>`
+:mtgtip:`A-Shipwreck Sifters<https://cards.scryfall.io/border_crop/front/5/9/59feb0fa-3d5f-4712-899c-272f3976ff0d.jpg?1681159363|https://scryfall.com/card/mid/A-74/a-shipwreck-sifters?utm_source=api>`
    When Shipwreck Sifters enters the battlefield, draw a card, then discard a card.
 
    Whenever a Spirit card or a card with disturb is put into your graveyard from anywhere, put a +1/+1 counter on Shipwreck Sifters.
@@ -797,7 +797,7 @@
    When Hobbling Zombie dies, create a 2/2 black Zombie creature token with decayed. (It can't block. When it attacks, sacrifice it at end of combat.)
 
 
-:mtgtip:`A-Hobbling Zombie<https://cards.scryfall.io/border_crop/front/2/f/2fae7302-0439-4b96-88c8-4ecfae322e7b.jpg?1649850855|https://scryfall.com/card/mid/A-106/a-hobbling-zombie?utm_source=api>`
+:mtgtip:`A-Hobbling Zombie<https://cards.scryfall.io/border_crop/front/2/f/2fae7302-0439-4b96-88c8-4ecfae322e7b.jpg?1681158880|https://scryfall.com/card/mid/A-106/a-hobbling-zombie?utm_source=api>`
    Deathtouch
 
    When Hobbling Zombie dies, create a 2/2 black Zombie creature token with decayed. (It can't block. When it attacks, sacrifice it at end of combat.)
@@ -849,7 +849,7 @@
    Whenever a creature an opponent controls dies, you gain 1 life.
 
 
-:mtgtip:`A-The Meathook Massacre<https://cards.scryfall.io/border_crop/front/3/5/353c37d7-1c20-43fe-b9d9-6336856c9ef4.jpg?1657064602|https://scryfall.com/card/mid/A-112/a-the-meathook-massacre?utm_source=api>`
+:mtgtip:`A-The Meathook Massacre<https://cards.scryfall.io/border_crop/front/3/5/353c37d7-1c20-43fe-b9d9-6336856c9ef4.jpg?1681159453|https://scryfall.com/card/mid/A-112/a-the-meathook-massacre?utm_source=api>`
    When The Meathook Massacre enters the battlefield, each creature gets -X/-X until end of turn.
 
    Whenever a creature you control dies, each opponent loses 1 life.
@@ -1611,15 +1611,15 @@
    If Departed Soulkeeper would be put into a graveyard from anywhere, exile it instead.
 
 
-:mtgtip:`A-Devoted Grafkeeper<https://cards.scryfall.io/border_crop/front/5/1/5132a045-fe39-4e45-8abd-d0c1069caee7.jpg?1676762237|https://scryfall.com/card/mid/A-218/a-devoted-grafkeeper-a-departed-soulkeeper?utm_source=api>`
-   When Devoted Grafkeeper enters the battlefield, mill four cards
+:mtgtip:`A-Devoted Grafkeeper<https://cards.scryfall.io/border_crop/front/5/1/5132a045-fe39-4e45-8abd-d0c1069caee7.jpg?1684523780|https://scryfall.com/card/mid/A-218/a-devoted-grafkeeper-a-departed-soulkeeper?utm_source=api>`
+   When Devoted Grafkeeper enters the battlefield, mill four cards.
 
    Whenever you cast a spell from your graveyard, tap target creature you don't control.
 
    Disturb |mana_1|\ |mana_w|\ |mana_u| (You may cast this card from your graveyard transformed for its disturb cost.)
 
 
-:mtgtip:`A-Departed Soulkeeper<https://cards.scryfall.io/border_crop/back/5/1/5132a045-fe39-4e45-8abd-d0c1069caee7.jpg?1676762237|https://scryfall.com/card/mid/A-218/a-devoted-grafkeeper-a-departed-soulkeeper?utm_source=api>`
+:mtgtip:`A-Departed Soulkeeper<https://cards.scryfall.io/border_crop/back/5/1/5132a045-fe39-4e45-8abd-d0c1069caee7.jpg?1684523780|https://scryfall.com/card/mid/A-218/a-devoted-grafkeeper-a-departed-soulkeeper?utm_source=api>`
    Flying
 
    If Departed Soulkeeper would be put into a graveyard from anywhere, exile it instead.
@@ -1895,7 +1895,7 @@
    |mana_1|, Exile Jack-o'-Lantern from your graveyard: Add one mana of any color.
 
 
-:mtgtip:`Moonsilver Key<https://cards.scryfall.io/border_crop/front/8/7/87778e37-af92-402e-b037-5fbd6112b682.jpg?1637114586|https://scryfall.com/card/mid/255/moonsilver-key?utm_source=api>`
+:mtgtip:`Moonsilver Key<https://cards.scryfall.io/border_crop/front/8/7/87778e37-af92-402e-b037-5fbd6112b682.jpg?1683389771|https://scryfall.com/card/mid/255/moonsilver-key?utm_source=api>`
    |mana_1|, |tap|, Sacrifice Moonsilver Key: Search your library for an artifact card with a mana ability or a basic land card, reveal it, put it into your hand, then shuffle.
 
 

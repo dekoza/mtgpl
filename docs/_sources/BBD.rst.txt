@@ -1103,7 +1103,7 @@
    Destroy target artifact, enchantment, or creature with flying.
 
 
-:mtgtip:`Saddleback Lagac<https://cards.scryfall.io/border_crop/front/6/3/634f9544-5ac3-4566-aa73-65a3930b559b.jpg?1562915107|https://scryfall.com/card/bbd/211/saddleback-lagac?utm_source=api>`
+:mtgtip:`Saddleback Lagac<https://cards.scryfall.io/border_crop/front/6/3/634f9544-5ac3-4566-aa73-65a3930b559b.jpg?1681725049|https://scryfall.com/card/bbd/211/saddleback-lagac?utm_source=api>`
    When Saddleback Lagac enters the battlefield, support 2. (Put a +1/+1 counter on each of up to two other target creatures.)
 
 
