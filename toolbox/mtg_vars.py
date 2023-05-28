@@ -111,6 +111,7 @@ expansions = {
     "MIC",
     "MID",
     "MIR",
+    "MOM",
     "MM2",
     "MM3",
     "MMA",

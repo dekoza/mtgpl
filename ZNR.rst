@@ -429,7 +429,7 @@
    Whenever you cast an instant, sorcery, or Wizard spell, you may have Master of Winds's base power and toughness become 4/1 or 1/4 until end of turn.
 
 
-:mtgtip:`A-Master of Winds<https://cards.scryfall.io/border_crop/front/f/2/f2a96105-8448-44cb-b60a-36648a1bdbac.jpg?1657065374|https://scryfall.com/card/znr/A-68/a-master-of-winds?utm_source=api>`
+:mtgtip:`A-Master of Winds<https://cards.scryfall.io/border_crop/front/f/2/f2a96105-8448-44cb-b60a-36648a1bdbac.jpg?1681159083|https://scryfall.com/card/znr/A-68/a-master-of-winds?utm_source=api>`
    Flying
 
    When Master of Winds enters the battlefield, draw two cards, then discard a card.
@@ -663,7 +663,7 @@
    Each creature you control with a +1/+1 counter on it has menace. (A creature with menace can't be blocked except by two or more creatures.)
 
 
-:mtgtip:`A-Hagra Constrictor<https://cards.scryfall.io/border_crop/front/f/7/f7bdcad1-00d2-4e26-8230-82f0768bdd67.jpg?1657064998|https://scryfall.com/card/znr/A-105/a-hagra-constrictor?utm_source=api>`
+:mtgtip:`A-Hagra Constrictor<https://cards.scryfall.io/border_crop/front/f/7/f7bdcad1-00d2-4e26-8230-82f0768bdd67.jpg?1681158871|https://scryfall.com/card/znr/A-105/a-hagra-constrictor?utm_source=api>`
    Hagra Constrictor enters the battlefield with two +1/+1 counters on it.
 
    Each creature you control with a +1/+1 counter on it has menace. (A creature with menace can't be blocked except by two or more creatures.)
@@ -815,7 +815,7 @@
    Whenever a creature you control with a +1/+1 counter on it dies, draw a card.
 
 
-:mtgtip:`A-Skyclave Shadowcat<https://cards.scryfall.io/border_crop/front/b/c/bc5fd304-d8e4-4ba4-ab0e-2ebeebea8fdd.jpg?1657065141|https://scryfall.com/card/znr/A-126/a-skyclave-shadowcat?utm_source=api>`
+:mtgtip:`A-Skyclave Shadowcat<https://cards.scryfall.io/border_crop/front/b/c/bc5fd304-d8e4-4ba4-ab0e-2ebeebea8fdd.jpg?1681159367|https://scryfall.com/card/znr/A-126/a-skyclave-shadowcat?utm_source=api>`
    |mana_b|, Sacrifice another creature: Put a +1/+1 counter on Skyclave Shadowcat.
 
    Whenever a creature you control with a +1/+1 counter on it dies, draw a card.
@@ -909,7 +909,7 @@
    Whenever Goma Fada Vanguard attacks, target creature an opponent controls with power less than or equal to the number of Warriors you control can't block this turn.
 
 
-:mtgtip:`A-Goma Fada Vanguard<https://cards.scryfall.io/border_crop/front/7/7/7762d48f-9088-4856-a0b0-cbf62540caf5.jpg?1649275043|https://scryfall.com/card/znr/A-141/a-goma-fada-vanguard?utm_source=api>`
+:mtgtip:`A-Goma Fada Vanguard<https://cards.scryfall.io/border_crop/front/7/7/7762d48f-9088-4856-a0b0-cbf62540caf5.jpg?1681158815|https://scryfall.com/card/znr/A-141/a-goma-fada-vanguard?utm_source=api>`
    Whenever Goma Fada Vanguard attacks, target creature an opponent controls with power less than or equal to the number of Warriors and Equipment you control can't block this turn.
 
 
@@ -939,7 +939,7 @@
    • Target Warrior gains trample until end of turn.
 
 
-:mtgtip:`A-Kargan Intimidator<https://cards.scryfall.io/border_crop/front/8/2/825d4bac-9433-4956-9126-358432c22818.jpg?1656684840|https://scryfall.com/card/znr/A-145/a-kargan-intimidator?utm_source=api>`
+:mtgtip:`A-Kargan Intimidator<https://cards.scryfall.io/border_crop/front/8/2/825d4bac-9433-4956-9126-358432c22818.jpg?1681158977|https://scryfall.com/card/znr/A-145/a-kargan-intimidator?utm_source=api>`
    Cowards can't block Warriors.
 
    |mana_1|: Choose one that hasn't been chosen this turn —
@@ -1007,7 +1007,7 @@
    Whenever you cast an instant, sorcery, or Wizard spell, Rockslide Sorcerer deals 1 damage to any target.
 
 
-:mtgtip:`A-Rockslide Sorcerer<https://cards.scryfall.io/border_crop/front/e/3/e350e531-1ce1-48dc-b458-c2ace44cad1e.jpg?1657065310|https://scryfall.com/card/znr/A-154/a-rockslide-sorcerer?utm_source=api>`
+:mtgtip:`A-Rockslide Sorcerer<https://cards.scryfall.io/border_crop/front/e/3/e350e531-1ce1-48dc-b458-c2ace44cad1e.jpg?1681159293|https://scryfall.com/card/znr/A-154/a-rockslide-sorcerer?utm_source=api>`
    Whenever you cast an instant, sorcery, or Wizard spell, Rockslide Sorcerer deals 1 damage to any target.
 
 
@@ -1211,7 +1211,7 @@
    Each creature you control with a +1/+1 counter on it has trample.
 
 
-:mtgtip:`A-Gnarlid Colony<https://cards.scryfall.io/border_crop/front/4/6/46f644a6-9621-429e-a0a0-4c74d0ecff2e.jpg?1657064951|https://scryfall.com/card/znr/A-185/a-gnarlid-colony?utm_source=api>`
+:mtgtip:`A-Gnarlid Colony<https://cards.scryfall.io/border_crop/front/4/6/46f644a6-9621-429e-a0a0-4c74d0ecff2e.jpg?1681158810|https://scryfall.com/card/znr/A-185/a-gnarlid-colony?utm_source=api>`
    Kicker |mana_2|\ |mana_g| (You may pay an additional |mana_2|\ |mana_g| as you cast this spell.)
 
    If Gnarlid Colony was kicked, it enters the battlefield with four +1/+1 counters on it.
@@ -1235,7 +1235,7 @@
    At the beginning of your end step, create a 1/1 green Insect creature token for each +1/+1 counter you've put on creatures under your control this turn.
 
 
-:mtgtip:`A-Iridescent Hornbeetle<https://cards.scryfall.io/border_crop/front/5/3/538103da-aa42-436b-8d1a-8f774d005c9a.jpg?1672950724|https://scryfall.com/card/znr/A-187/a-iridescent-hornbeetle?utm_source=api>`
+:mtgtip:`A-Iridescent Hornbeetle<https://cards.scryfall.io/border_crop/front/5/3/538103da-aa42-436b-8d1a-8f774d005c9a.jpg?1681158920|https://scryfall.com/card/znr/A-187/a-iridescent-hornbeetle?utm_source=api>`
    At the beginning of your end step, create a 1/1 green Insect creature token for each +1/+1 counter you've put on creatures under your control this turn.
 
 
@@ -1307,7 +1307,7 @@
    Whenever Oran-Rief Ooze attacks, put a +1/+1 counter on each attacking creature with a +1/+1 counter on it.
 
 
-:mtgtip:`A-Oran-Rief Ooze<https://cards.scryfall.io/border_crop/front/5/2/52abea40-2736-49a8-a372-16b7b93d510a.jpg?1657065202|https://scryfall.com/card/znr/A-198/a-oran-rief-ooze?utm_source=api>`
+:mtgtip:`A-Oran-Rief Ooze<https://cards.scryfall.io/border_crop/front/5/2/52abea40-2736-49a8-a372-16b7b93d510a.jpg?1681159166|https://scryfall.com/card/znr/A-198/a-oran-rief-ooze?utm_source=api>`
    When Oran-Rief Ooze enters the battlefield, put a +1/+1 counter on target creature you control.
 
    Whenever Oran-Rief Ooze attacks, put a +1/+1 counter on each creature you control with a +1/+1 counter on it.
@@ -1475,7 +1475,7 @@
    Other Warriors you control get +1/+1.
 
 
-:mtgtip:`A-Kargan Warleader<https://cards.scryfall.io/border_crop/front/1/3/13d44c40-cdd0-42d5-a250-e7d95ae926c0.jpg?1649275120|https://scryfall.com/card/znr/A-224/a-kargan-warleader?utm_source=api>`
+:mtgtip:`A-Kargan Warleader<https://cards.scryfall.io/border_crop/front/1/3/13d44c40-cdd0-42d5-a250-e7d95ae926c0.jpg?1681158974|https://scryfall.com/card/znr/A-224/a-kargan-warleader?utm_source=api>`
    Ward |mana_1|
 
    Other Warriors you control get +1/+1 and have ward |mana_1|.
@@ -1509,7 +1509,7 @@
    Whenever one or more +1/+1 counters are put on a creature you control, if Moss-Pit Skeleton is in your graveyard, you may put Moss-Pit Skeleton on top of your library.
 
 
-:mtgtip:`A-Moss-Pit Skeleton<https://cards.scryfall.io/border_crop/front/d/d/dd748df0-b7af-4438-b567-5fabe0731438.jpg?1657065115|https://scryfall.com/card/znr/A-228/a-moss-pit-skeleton?utm_source=api>`
+:mtgtip:`A-Moss-Pit Skeleton<https://cards.scryfall.io/border_crop/front/d/d/dd748df0-b7af-4438-b567-5fabe0731438.jpg?1681159096|https://scryfall.com/card/znr/A-228/a-moss-pit-skeleton?utm_source=api>`
    Kicker |mana_3| (You may pay an additional |mana_3| as you cast this spell.)
 
    If Moss-Pit Skeleton was kicked, it enters the battlefield with three +1/+1 counters on it.
@@ -1533,10 +1533,10 @@
    −3: Nahiri, Heir of the Ancients deals damage to target creature or planeswalker equal to twice the number of Equipment you control.
 
 
-:mtgtip:`A-Nahiri, Heir of the Ancients<https://cards.scryfall.io/border_crop/front/0/2/02e33233-fc29-489b-bcf4-fa7d771db0cc.jpg?1649275187|https://scryfall.com/card/znr/A-230/a-nahiri-heir-of-the-ancients?utm_source=api>`
+:mtgtip:`A-Nahiri, Heir of the Ancients<https://cards.scryfall.io/border_crop/front/0/2/02e33233-fc29-489b-bcf4-fa7d771db0cc.jpg?1684523712|https://scryfall.com/card/znr/A-230/a-nahiri-heir-of-the-ancients?utm_source=api>`
    +1: Create a 1/1 white Kor Warrior creature token. You may attach an Equipment you control to it.
 
-   −2: Look at the top six cards of your library. You may reveal a Warrior and Equipment card from among them and put them into your hand. Put the rest on the bottom of your library in a random order.
+   −2: Look at the top six cards of your library. You may reveala Warrior card and/or an Equipment card from among them and put them into your hand. Put the rest on the bottom of your library in a random order.
 
    −3: Nahiri, Heir of the Ancients deals damage to target creature or planeswalker equal to twice the number of Warriors and Equipment you control.
 
@@ -1555,7 +1555,7 @@
    Landfall — Whenever a land enters the battlefield under your control, you gain 4 life if this is the first time this ability has resolved this turn. If it's the second time, add |mana_r|\ |mana_g|\ |mana_w|\ |mana_u|. If it's the third time, Omnath deals 4 damage to each opponent and each planeswalker you don't control.
 
 
-:mtgtip:`A-Omnath, Locus of Creation<https://cards.scryfall.io/border_crop/front/b/5/b5f5fbd5-b045-4da7-a996-54f163b35b8d.jpg?1651977770|https://scryfall.com/card/znr/A-232/a-omnath-locus-of-creation?utm_source=api>`
+:mtgtip:`A-Omnath, Locus of Creation<https://cards.scryfall.io/border_crop/front/b/5/b5f5fbd5-b045-4da7-a996-54f163b35b8d.jpg?1681159160|https://scryfall.com/card/znr/A-232/a-omnath-locus-of-creation?utm_source=api>`
    When Omnath, Locus of Creation enters the battlefield, draw a card.
 
    Landfall — Whenever a land enters the battlefield under your control, you gain 4 life if this is the first time this ability has resolved this turn. If it's the second time, add |mana_r|\ |mana_g|\ |mana_w|\ |mana_u|. If it's the third time, Omnath deals 4 damage to each opponent and each planeswalker you don't control.
@@ -1573,7 +1573,7 @@
    Landfall — Whenever a land enters the battlefield under your control, put four +1/+1 counters on target Plant you control.
 
 
-:mtgtip:`A-Phylath, World Sculptor<https://cards.scryfall.io/border_crop/front/e/0/e0c4a2f5-b942-4c94-b28c-e04d0609cfb3.jpg?1645415658|https://scryfall.com/card/znr/A-234/a-phylath-world-sculptor?utm_source=api>`
+:mtgtip:`A-Phylath, World Sculptor<https://cards.scryfall.io/border_crop/front/e/0/e0c4a2f5-b942-4c94-b28c-e04d0609cfb3.jpg?1681159215|https://scryfall.com/card/znr/A-234/a-phylath-world-sculptor?utm_source=api>`
    Trample
 
    When Phylath, World Sculptor enters the battlefield, create a 0/1 green Plant creature token for each basic land you control.
@@ -1611,7 +1611,7 @@
    Whenever you cast an instant, sorcery, or Wizard spell, Umara Mystic gets +2/+0 until end of turn.
 
 
-:mtgtip:`A-Umara Mystic<https://cards.scryfall.io/border_crop/front/5/5/559ebc64-3412-413f-8ef3-f058a0d60f33.jpg?1657065556|https://scryfall.com/card/znr/A-238/a-umara-mystic?utm_source=api>`
+:mtgtip:`A-Umara Mystic<https://cards.scryfall.io/border_crop/front/5/5/559ebc64-3412-413f-8ef3-f058a0d60f33.jpg?1681159559|https://scryfall.com/card/znr/A-238/a-umara-mystic?utm_source=api>`
    Flying, haste
 
    Whenever you cast an instant, sorcery, or Wizard spell, Umara Mystic gets +2/+0 until end of turn.
@@ -1759,7 +1759,7 @@
    |tap|: Add one mana of any color. Spend this mana only to cast a Cleric, Rogue, Warrior, or Wizard spell or to activate an ability of a Cleric, Rogue, Warrior, or Wizard.
 
 
-:mtgtip:`A-Base Camp<https://cards.scryfall.io/border_crop/front/b/5/b56f7e2a-150c-4daa-811c-a0347ff850bf.jpg?1649276558|https://scryfall.com/card/znr/A-257/a-base-camp?utm_source=api>`
+:mtgtip:`A-Base Camp<https://cards.scryfall.io/border_crop/front/b/5/b56f7e2a-150c-4daa-811c-a0347ff850bf.jpg?1681158308|https://scryfall.com/card/znr/A-257/a-base-camp?utm_source=api>`
    |tap|: Add |colorless|.
 
    |tap|: Add one mana of any color. Spend this mana only to cast a Cleric, Rogue, Warrior, or Wizard spell or to activate an ability of a Cleric, Rogue, Warrior, or Wizard.
@@ -1827,22 +1827,22 @@
    |tap|, Remove a charge counter from Throne of Makindi: Add two mana of any one color. Spend this mana only to cast kicked spells.
 
 
-:mtgtip:`Plains<https://cards.scryfall.io/border_crop/front/9/5/9591fd15-78d9-4089-a075-031ab2affd2d.jpg?1604201761|https://scryfall.com/card/znr/266/plains?utm_source=api>`
+:mtgtip:`Plains<https://cards.scryfall.io/border_crop/front/9/5/9591fd15-78d9-4089-a075-031ab2affd2d.jpg?1681845977|https://scryfall.com/card/znr/266/plains?utm_source=api>`
    (|tap|: Add |mana_w|.)
 
 
-:mtgtip:`Island<https://cards.scryfall.io/border_crop/front/7/7/77ea783b-adaa-47be-9918-ca2f161c5d9e.jpg?1604201860|https://scryfall.com/card/znr/269/island?utm_source=api>`
+:mtgtip:`Island<https://cards.scryfall.io/border_crop/front/7/7/77ea783b-adaa-47be-9918-ca2f161c5d9e.jpg?1681845944|https://scryfall.com/card/znr/269/island?utm_source=api>`
    (|tap|: Add |mana_u|.)
 
 
-:mtgtip:`Swamp<https://cards.scryfall.io/border_crop/front/9/5/95a58ce4-e07f-4c9c-98ae-3173d6d63cc5.jpg?1604201981|https://scryfall.com/card/znr/272/swamp?utm_source=api>`
+:mtgtip:`Swamp<https://cards.scryfall.io/border_crop/front/9/5/95a58ce4-e07f-4c9c-98ae-3173d6d63cc5.jpg?1681845994|https://scryfall.com/card/znr/272/swamp?utm_source=api>`
    (|tap|: Add |mana_b|.)
 
 
-:mtgtip:`Mountain<https://cards.scryfall.io/border_crop/front/9/6/96297bcc-8480-4b14-8612-1c395d481bce.jpg?1604202111|https://scryfall.com/card/znr/275/mountain?utm_source=api>`
+:mtgtip:`Mountain<https://cards.scryfall.io/border_crop/front/9/6/96297bcc-8480-4b14-8612-1c395d481bce.jpg?1681845960|https://scryfall.com/card/znr/275/mountain?utm_source=api>`
    (|tap|: Add |mana_r|.)
 
 
-:mtgtip:`Forest<https://cards.scryfall.io/border_crop/front/d/9/d949485e-5188-49f4-9d30-5e135532d445.jpg?1604202204|https://scryfall.com/card/znr/278/forest?utm_source=api>`
+:mtgtip:`Forest<https://cards.scryfall.io/border_crop/front/d/9/d949485e-5188-49f4-9d30-5e135532d445.jpg?1681845897|https://scryfall.com/card/znr/278/forest?utm_source=api>`
    (|tap|: Add |mana_g|.)
 

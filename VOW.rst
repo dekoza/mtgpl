@@ -365,13 +365,13 @@
    If Spectral Binding would be put into a graveyard from anywhere, exile it instead.
 
 
-:mtgtip:`A-Binding Geist<https://cards.scryfall.io/border_crop/front/6/e/6e40e8f7-38f9-454a-9127-164b39737cb8.jpg?1676761640|https://scryfall.com/card/vow/A-48/a-binding-geist-a-spectral-binding?utm_source=api>`
+:mtgtip:`A-Binding Geist<https://cards.scryfall.io/border_crop/front/6/e/6e40e8f7-38f9-454a-9127-164b39737cb8.jpg?1681725535|https://scryfall.com/card/vow/A-48/a-binding-geist-a-spectral-binding?utm_source=api>`
    Whenever Binding Geist attacks, target creature an opponent controls gets -2/-0 until your next turn.
 
    Disturb |mana_u| (You may cast this card from your graveyard transformed for its disturb cost.)
 
 
-:mtgtip:`A-Spectral Binding<https://cards.scryfall.io/border_crop/back/6/e/6e40e8f7-38f9-454a-9127-164b39737cb8.jpg?1676761640|https://scryfall.com/card/vow/A-48/a-binding-geist-a-spectral-binding?utm_source=api>`
+:mtgtip:`A-Spectral Binding<https://cards.scryfall.io/border_crop/back/6/e/6e40e8f7-38f9-454a-9127-164b39737cb8.jpg?1681725535|https://scryfall.com/card/vow/A-48/a-binding-geist-a-spectral-binding?utm_source=api>`
    Enchant creature
 
    Enchanted creature gets -2/-0.
@@ -415,7 +415,7 @@
    |mana_3|\ |mana_u|, Exile Cobbled Lancer from your graveyard: Draw a card.
 
 
-:mtgtip:`A-Cobbled Lancer<https://cards.scryfall.io/border_crop/front/8/f/8f72382e-920b-4695-a91c-4980c8c37a12.jpg?1645739885|https://scryfall.com/card/vow/A-52/a-cobbled-lancer?utm_source=api>`
+:mtgtip:`A-Cobbled Lancer<https://cards.scryfall.io/border_crop/front/8/f/8f72382e-920b-4695-a91c-4980c8c37a12.jpg?1681158512|https://scryfall.com/card/vow/A-52/a-cobbled-lancer?utm_source=api>`
    As an additional cost to cast this spell, exile a creature card from your graveyard.
 
    |mana_1|\ |mana_u|, Exile Cobbled Lancer from your graveyard: Draw a card.
@@ -463,7 +463,7 @@
    • Target creature doesn't untap during its controller's next untap step.
 
 
-:mtgtip:`A-Dreamshackle Geist<https://cards.scryfall.io/border_crop/front/6/3/63cb3ee1-54f6-4523-9bec-435fade6332f.jpg?1676761734|https://scryfall.com/card/vow/A-58/a-dreamshackle-geist?utm_source=api>`
+:mtgtip:`A-Dreamshackle Geist<https://cards.scryfall.io/border_crop/front/6/3/63cb3ee1-54f6-4523-9bec-435fade6332f.jpg?1681158592|https://scryfall.com/card/vow/A-58/a-dreamshackle-geist?utm_source=api>`
    Flying
 
    At the beginning of combat on your turn, choose up to one —
@@ -507,13 +507,13 @@
    If Gutter Shortcut would be put into a graveyard from anywhere, exile it instead.
 
 
-:mtgtip:`A-Gutter Skulker<https://cards.scryfall.io/border_crop/front/f/7/f7c3cf39-c49f-4055-87e6-c82a224b273c.jpg?1676761891|https://scryfall.com/card/vow/A-62/a-gutter-skulker-a-gutter-shortcut?utm_source=api>`
+:mtgtip:`A-Gutter Skulker<https://cards.scryfall.io/border_crop/front/f/7/f7c3cf39-c49f-4055-87e6-c82a224b273c.jpg?1681725554|https://scryfall.com/card/vow/A-62/a-gutter-skulker-a-gutter-shortcut?utm_source=api>`
    Gutter Skulker can't be blocked as long as it's attacking alone.
 
    Disturb |mana_2|\ |mana_u| (You may cast this card from your graveyard transformed for its disturb cost.)
 
 
-:mtgtip:`A-Gutter Shortcut<https://cards.scryfall.io/border_crop/back/f/7/f7c3cf39-c49f-4055-87e6-c82a224b273c.jpg?1676761891|https://scryfall.com/card/vow/A-62/a-gutter-skulker-a-gutter-shortcut?utm_source=api>`
+:mtgtip:`A-Gutter Shortcut<https://cards.scryfall.io/border_crop/back/f/7/f7c3cf39-c49f-4055-87e6-c82a224b273c.jpg?1681725554|https://scryfall.com/card/vow/A-62/a-gutter-skulker-a-gutter-shortcut?utm_source=api>`
    Enchant creature
 
    Enchanted creature gets +3/+0.
@@ -535,7 +535,7 @@
    • Return target nonland permanent to its owner's hand.
 
 
-:mtgtip:`A-Hullbreaker Horror<https://cards.scryfall.io/border_crop/front/e/c/ec43799d-c83c-4774-bd39-3d94d6c8360e.jpg?1645415700|https://scryfall.com/card/vow/A-63/a-hullbreaker-horror?utm_source=api>`
+:mtgtip:`A-Hullbreaker Horror<https://cards.scryfall.io/border_crop/front/e/c/ec43799d-c83c-4774-bd39-3d94d6c8360e.jpg?1681158908|https://scryfall.com/card/vow/A-63/a-hullbreaker-horror?utm_source=api>`
    Flash
 
    Whenever you cast a spell, choose up to one —
@@ -575,13 +575,13 @@
    If Lanterns' Lift would be put into a graveyard from anywhere, exile it instead.
 
 
-:mtgtip:`A-Lantern Bearer<https://cards.scryfall.io/border_crop/front/9/4/942d9122-f380-4bc0-8bf1-2ba6f49fd3ee.jpg?1676761920|https://scryfall.com/card/vow/A-66/a-lantern-bearer-a-lanterns-lift?utm_source=api>`
+:mtgtip:`A-Lantern Bearer<https://cards.scryfall.io/border_crop/front/9/4/942d9122-f380-4bc0-8bf1-2ba6f49fd3ee.jpg?1681725561|https://scryfall.com/card/vow/A-66/a-lantern-bearer-a-lanterns-lift?utm_source=api>`
    Flying
 
    Disturb |mana_1|\ |mana_u| (You may cast this card from your graveyard transformed for its disturb cost.)
 
 
-:mtgtip:`A-Lanterns' Lift<https://cards.scryfall.io/border_crop/back/9/4/942d9122-f380-4bc0-8bf1-2ba6f49fd3ee.jpg?1676761920|https://scryfall.com/card/vow/A-66/a-lantern-bearer-a-lanterns-lift?utm_source=api>`
+:mtgtip:`A-Lanterns' Lift<https://cards.scryfall.io/border_crop/back/9/4/942d9122-f380-4bc0-8bf1-2ba6f49fd3ee.jpg?1681725561|https://scryfall.com/card/vow/A-66/a-lantern-bearer-a-lanterns-lift?utm_source=api>`
    Enchant creature
 
    Enchanted creature gets +1/+1 and has flying.
@@ -625,13 +625,13 @@
    If Catlike Curiosity would be put into a graveyard from anywhere, exile it instead.
 
 
-:mtgtip:`A-Mischievous Catgeist<https://cards.scryfall.io/border_crop/front/4/d/4dd4f872-1af1-4bb7-81e7-409861c45b20.jpg?1676761958|https://scryfall.com/card/vow/A-69/a-mischievous-catgeist-a-catlike-curiosity?utm_source=api>`
+:mtgtip:`A-Mischievous Catgeist<https://cards.scryfall.io/border_crop/front/4/d/4dd4f872-1af1-4bb7-81e7-409861c45b20.jpg?1681725566|https://scryfall.com/card/vow/A-69/a-mischievous-catgeist-a-catlike-curiosity?utm_source=api>`
    Whenever Mischievous Catgeist deals combat damage to a player, draw a card.
 
    Disturb |mana_1|\ |mana_u| (You may cast this card from your graveyard transformed for its disturb cost.)
 
 
-:mtgtip:`A-Catlike Curiosity<https://cards.scryfall.io/border_crop/back/4/d/4dd4f872-1af1-4bb7-81e7-409861c45b20.jpg?1676761958|https://scryfall.com/card/vow/A-69/a-mischievous-catgeist-a-catlike-curiosity?utm_source=api>`
+:mtgtip:`A-Catlike Curiosity<https://cards.scryfall.io/border_crop/back/4/d/4dd4f872-1af1-4bb7-81e7-409861c45b20.jpg?1681725566|https://scryfall.com/card/vow/A-69/a-mischievous-catgeist-a-catlike-curiosity?utm_source=api>`
    Enchant creature
 
    Enchanted creature gets +1/+1.
@@ -721,7 +721,7 @@
    When Stitched Assistant exploits a creature, scry 1, then draw a card. (To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)
 
 
-:mtgtip:`A-Stitched Assistant<https://cards.scryfall.io/border_crop/front/5/7/5753d235-24d6-47a9-aed8-b3e13211c222.jpg?1646899892|https://scryfall.com/card/vow/A-81/a-stitched-assistant?utm_source=api>`
+:mtgtip:`A-Stitched Assistant<https://cards.scryfall.io/border_crop/front/5/7/5753d235-24d6-47a9-aed8-b3e13211c222.jpg?1681159464|https://scryfall.com/card/vow/A-81/a-stitched-assistant?utm_source=api>`
    Exploit
 
    When Stitched Assistant exploits a creature, scry 2, then draw a card.
@@ -1761,13 +1761,13 @@
    If Brinebound Gift would be put into a graveyard from anywhere, exile it instead.
 
 
-:mtgtip:`A-Brine Comber<https://cards.scryfall.io/border_crop/front/d/0/d0e03cdb-1082-448b-ae5c-501fb8bc3f3b.jpg?1676761546|https://scryfall.com/card/vow/A-233/a-brine-comber-a-brinebound-gift?utm_source=api>`
+:mtgtip:`A-Brine Comber<https://cards.scryfall.io/border_crop/front/d/0/d0e03cdb-1082-448b-ae5c-501fb8bc3f3b.jpg?1681725541|https://scryfall.com/card/vow/A-233/a-brine-comber-a-brinebound-gift?utm_source=api>`
    Whenever Brine Comber enters the battlefield or becomes the target of an Aura spell, create a 1/1 white Spirit creature token with flying.
 
    Disturb |mana_w|\ |mana_u| (You may cast this card from your graveyard transformed for its disturb cost.)
 
 
-:mtgtip:`A-Brinebound Gift<https://cards.scryfall.io/border_crop/back/d/0/d0e03cdb-1082-448b-ae5c-501fb8bc3f3b.jpg?1676761546|https://scryfall.com/card/vow/A-233/a-brine-comber-a-brinebound-gift?utm_source=api>`
+:mtgtip:`A-Brinebound Gift<https://cards.scryfall.io/border_crop/back/d/0/d0e03cdb-1082-448b-ae5c-501fb8bc3f3b.jpg?1681725541|https://scryfall.com/card/vow/A-233/a-brine-comber-a-brinebound-gift?utm_source=api>`
    Enchant creature
 
    Whenever Brinebound Gift enters the battlefield or enchanted creature becomes the target of an Aura spell, create a 1/1 white Spirit creature token with flying.
@@ -1805,7 +1805,7 @@
    If Dorothea's Retribution would be put into a graveyard from anywhere, exile it instead.
 
 
-:mtgtip:`A-Dorothea, Vengeful Victim<https://cards.scryfall.io/border_crop/front/9/b/9b21d350-9b89-41d0-8def-00ef5189449c.jpg?1676761706|https://scryfall.com/card/vow/A-235/a-dorothea-vengeful-victim-a-dorotheas-retribution?utm_source=api>`
+:mtgtip:`A-Dorothea, Vengeful Victim<https://cards.scryfall.io/border_crop/front/9/b/9b21d350-9b89-41d0-8def-00ef5189449c.jpg?1681725547|https://scryfall.com/card/vow/A-235/a-dorothea-vengeful-victim-a-dorotheas-retribution?utm_source=api>`
    Flying
 
    When Dorothea, Vengeful Victim attacks or blocks, sacrifice it at end of combat.
@@ -1813,7 +1813,7 @@
    Disturb |mana_w|\ |mana_u| (You may cast this card from your graveyard transformed for its disturb cost.)
 
 
-:mtgtip:`A-Dorothea's Retribution<https://cards.scryfall.io/border_crop/back/9/b/9b21d350-9b89-41d0-8def-00ef5189449c.jpg?1676761706|https://scryfall.com/card/vow/A-235/a-dorothea-vengeful-victim-a-dorotheas-retribution?utm_source=api>`
+:mtgtip:`A-Dorothea's Retribution<https://cards.scryfall.io/border_crop/back/9/b/9b21d350-9b89-41d0-8def-00ef5189449c.jpg?1681725547|https://scryfall.com/card/vow/A-235/a-dorothea-vengeful-victim-a-dorotheas-retribution?utm_source=api>`
    Enchant creature
 
    Enchanted creature has "Whenever this creature attacks, create a 4/4 white Spirit creature token with flying that's tapped and attacking. Sacrifice that token at end of combat."
@@ -1903,7 +1903,7 @@
    |mana_1|\ |mana_g|\ |mana_w|: Target creature you control with a +1/+1 counter on it gains trample and lifelink until end of turn.
 
 
-:mtgtip:`A-Sigardian Paladin<https://cards.scryfall.io/border_crop/front/2/2/220003ce-cf2e-4595-91f4-c3462407d293.jpg?1657064976|https://scryfall.com/card/vow/A-247/a-sigardian-paladin?utm_source=api>`
+:mtgtip:`A-Sigardian Paladin<https://cards.scryfall.io/border_crop/front/2/2/220003ce-cf2e-4595-91f4-c3462407d293.jpg?1681159366|https://scryfall.com/card/vow/A-247/a-sigardian-paladin?utm_source=api>`
    As long as you've put one or more +1/+1 counters on a creature this turn, Sigardian Paladin has trample and lifelink.
 
    |mana_g|\ |mana_w|: Target creature you control with a +1/+1 counter on it gains trample and lifelink until end of turn.
@@ -1915,7 +1915,7 @@
    Whenever a creature you control exploits a nontoken creature, create a 2/2 black Zombie creature token.
 
 
-:mtgtip:`A-Skull Skaab<https://cards.scryfall.io/border_crop/front/7/3/7302dfa1-7302-4b3c-a894-b780b5474d8f.jpg?1645740419|https://scryfall.com/card/vow/A-248/a-skull-skaab?utm_source=api>`
+:mtgtip:`A-Skull Skaab<https://cards.scryfall.io/border_crop/front/7/3/7302dfa1-7302-4b3c-a894-b780b5474d8f.jpg?1681159369|https://scryfall.com/card/vow/A-248/a-skull-skaab?utm_source=api>`
    Exploit (When this creature enters the battlefield, you may sacrifice a creature.)
 
    Whenever a creature you control exploits a creature, create a 2/2 black Zombie creature token.
@@ -1957,7 +1957,7 @@
    Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip only as a sorcery.)
 
 
-:mtgtip:`Dollhouse of Horrors<https://cards.scryfall.io/border_crop/front/3/9/396abc9e-a738-430d-85cc-448ace2548f9.jpg?1643594665|https://scryfall.com/card/vow/255/dollhouse-of-horrors?utm_source=api>`
+:mtgtip:`Dollhouse of Horrors<https://cards.scryfall.io/border_crop/front/3/9/396abc9e-a738-430d-85cc-448ace2548f9.jpg?1681389581|https://scryfall.com/card/vow/255/dollhouse-of-horrors?utm_source=api>`
    |mana_1|, |tap|, Exile a creature card from your graveyard: Create a token that's a copy of the exiled card, except it's a 0/0 Construct artifact in addition to its other types and it has "This creature gets +1/+1 for each Construct you control." It gains haste until end of turn. Activate only as a sorcery.
 
 

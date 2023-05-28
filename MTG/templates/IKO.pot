@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: MTG po polsku 2023.3\n"
+"Project-Id-Version: MTG po polsku 2023.5\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-02 12:41+0100\n"
+"POT-Creation-Date: 2023-05-28 11:10+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -926,7 +926,7 @@ msgid "Whenever this creature mutates, you may return target creature an opponen
 msgstr ""
 
 #: ../../IKO.rst:382
-msgid ":mtgtip:`Reconnaissance Mission<https://cards.scryfall.io/border_crop/front/a/e/ae9f7efa-d125-4f83-825e-172ea099a62a.jpg?1591226471|https://scryfall.com/card/iko/65/reconnaissance-mission?utm_source=api>`"
+msgid ":mtgtip:`Reconnaissance Mission<https://cards.scryfall.io/border_crop/front/a/e/ae9f7efa-d125-4f83-825e-172ea099a62a.jpg?1681500843|https://scryfall.com/card/iko/65/reconnaissance-mission?utm_source=api>`"
 msgstr ""
 
 #: ../../IKO.rst:379
@@ -1700,7 +1700,7 @@ msgid "|mana_3|\\ |mana_g|: Almighty Brushwagg gets +3/+3 until end of turn."
 msgstr ""
 
 #: ../../IKO.rst:820
-msgid ":mtgtip:`Auspicious Starrix<https://cards.scryfall.io/border_crop/front/a/3/a39ae1e4-d4dd-4691-af5a-5fa25ace4ebe.jpg?1591227516|https://scryfall.com/card/iko/144/auspicious-starrix?utm_source=api>`"
+msgid ":mtgtip:`Auspicious Starrix<https://cards.scryfall.io/border_crop/front/a/3/a39ae1e4-d4dd-4691-af5a-5fa25ace4ebe.jpg?1681500723|https://scryfall.com/card/iko/144/auspicious-starrix?utm_source=api>`"
 msgstr ""
 
 #: ../../IKO.rst:817
@@ -2328,7 +2328,7 @@ msgid "Whenever you discard one or more cards for the first time each turn, draw
 msgstr ""
 
 #: ../../IKO.rst:1164
-msgid ":mtgtip:`Ruinous Ultimatum<https://cards.scryfall.io/border_crop/front/5/0/50c1d6ca-7789-46b5-bc89-85cc3915cb85.jpg?1591228208|https://scryfall.com/card/iko/204/ruinous-ultimatum?utm_source=api>`"
+msgid ":mtgtip:`Ruinous Ultimatum<https://cards.scryfall.io/border_crop/front/5/0/50c1d6ca-7789-46b5-bc89-85cc3915cb85.jpg?1681500691|https://scryfall.com/card/iko/204/ruinous-ultimatum?utm_source=api>`"
 msgstr ""
 
 #: ../../IKO.rst:1163
@@ -2477,7 +2477,7 @@ msgid "Whenever a non-Human creature you control attacks, look at the top six ca
 msgstr ""
 
 #: ../../IKO.rst:1242
-msgid ":mtgtip:`A-Winota, Joiner of Forces<https://cards.scryfall.io/border_crop/front/6/b/6bf6e906-9305-4003-b040-1dfecca590c1.jpg?1663649166|https://scryfall.com/card/iko/A-216/a-winota-joiner-of-forces?utm_source=api>`"
+msgid ":mtgtip:`A-Winota, Joiner of Forces<https://cards.scryfall.io/border_crop/front/6/b/6bf6e906-9305-4003-b040-1dfecca590c1.jpg?1681159573|https://scryfall.com/card/iko/A-216/a-winota-joiner-of-forces?utm_source=api>`"
 msgstr ""
 
 #: ../../IKO.rst:1241
@@ -2525,7 +2525,7 @@ msgid ":mtgtip:`Gyruda, Doom of Depths<https://cards.scryfall.io/border_crop/fro
 msgstr ""
 
 #: ../../IKO.rst:1267
-msgid "Companion — Your starting deck contains only cards with even mana values. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| any time you could cast a sorcery.)"
+msgid "Companion — Your starting deck contains only cards with even mana values. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| as a sorcery.)"
 msgstr ""
 
 #: ../../IKO.rst:1269
@@ -2537,7 +2537,7 @@ msgid ":mtgtip:`Jegantha, the Wellspring<https://cards.scryfall.io/border_crop/f
 msgstr ""
 
 #: ../../IKO.rst:1273
-msgid "Companion — No card in your starting deck has more than one of the same mana symbol in its mana cost. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| any time you could cast a sorcery.)"
+msgid "Companion — No card in your starting deck has more than one of the same mana symbol in its mana cost. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| as a sorcery.)"
 msgstr ""
 
 #: ../../IKO.rst:1275
@@ -2557,7 +2557,7 @@ msgid ":mtgtip:`Kaheera, the Orphanguard<https://cards.scryfall.io/border_crop/f
 msgstr ""
 
 #: ../../IKO.rst:1285
-msgid "Companion — Each creature card in your starting deck is a Cat, Elemental, Nightmare, Dinosaur, or Beast card. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| any time you could cast a sorcery.)"
+msgid "Companion — Each creature card in your starting deck is a Cat, Elemental, Nightmare, Dinosaur, or Beast card. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| as a sorcery.)"
 msgstr ""
 
 #: ../../IKO.rst:1289
@@ -2569,7 +2569,7 @@ msgid ":mtgtip:`Keruga, the Macrosage<https://cards.scryfall.io/border_crop/fron
 msgstr ""
 
 #: ../../IKO.rst:1293
-msgid "Companion — Your starting deck contains only cards with mana value 3 or greater and land cards. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| any time you could cast a sorcery.)"
+msgid "Companion — Your starting deck contains only cards with mana value 3 or greater and land cards. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| as a sorcery.)"
 msgstr ""
 
 #: ../../IKO.rst:1295
@@ -2577,15 +2577,15 @@ msgid "When Keruga, the Macrosage enters the battlefield, draw a card for each o
 msgstr ""
 
 #: ../../IKO.rst:1304
-msgid ":mtgtip:`Lurrus of the Dream-Den<https://cards.scryfall.io/border_crop/front/5/a/5ad36fb2-c44e-4085-ba0d-54277841ad3a.jpg?1650599605|https://scryfall.com/card/iko/226/lurrus-of-the-dream-den?utm_source=api>`"
+msgid ":mtgtip:`Lurrus of the Dream-Den<https://cards.scryfall.io/border_crop/front/5/a/5ad36fb2-c44e-4085-ba0d-54277841ad3a.jpg?1682228556|https://scryfall.com/card/iko/226/lurrus-of-the-dream-den?utm_source=api>`"
 msgstr ""
 
 #: ../../IKO.rst:1299
-msgid "Companion — Each permanent card in your starting deck has mana value 2 or less. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| any time you could cast a sorcery.)"
+msgid "Companion — Each permanent card in your starting deck has mana value 2 or less. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| as a sorcery.)"
 msgstr ""
 
 #: ../../IKO.rst:1303
-msgid "During each of your turns, you may cast one permanent spell with mana value 2 or less from your graveyard."
+msgid "Once during each of your turns, you may cast a permanent spell with mana value 2 or less from your graveyard."
 msgstr ""
 
 #: ../../IKO.rst:1312
@@ -2593,7 +2593,7 @@ msgid ":mtgtip:`Lutri, the Spellchaser<https://cards.scryfall.io/border_crop/fro
 msgstr ""
 
 #: ../../IKO.rst:1307
-msgid "Companion — Each nonland card in your starting deck has a different name. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| any time you could cast a sorcery.)"
+msgid "Companion — Each nonland card in your starting deck has a different name. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| as a sorcery.)"
 msgstr ""
 
 #: ../../IKO.rst:1311
@@ -2605,7 +2605,7 @@ msgid ":mtgtip:`Obosh, the Preypiercer<https://cards.scryfall.io/border_crop/fro
 msgstr ""
 
 #: ../../IKO.rst:1315
-msgid "Companion — Your starting deck contains only cards with odd mana values and land cards. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| any time you could cast a sorcery.)"
+msgid "Companion — Your starting deck contains only cards with odd mana values and land cards. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| as a sorcery.)"
 msgstr ""
 
 #: ../../IKO.rst:1317
@@ -2633,7 +2633,7 @@ msgid ":mtgtip:`Umori, the Collector<https://cards.scryfall.io/border_crop/front
 msgstr ""
 
 #: ../../IKO.rst:1333
-msgid "Companion — Each nonland card in your starting deck shares a card type. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| any time you could cast a sorcery.)"
+msgid "Companion — Each nonland card in your starting deck shares a card type. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| as a sorcery.)"
 msgstr ""
 
 #: ../../IKO.rst:1335
@@ -2649,7 +2649,7 @@ msgid ":mtgtip:`Yorion, Sky Nomad<https://cards.scryfall.io/border_crop/front/2/
 msgstr ""
 
 #: ../../IKO.rst:1341
-msgid "Companion — Your starting deck contains at least twenty cards more than the minimum deck size. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| any time you could cast a sorcery.)"
+msgid "Companion — Your starting deck contains at least twenty cards more than the minimum deck size. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| as a sorcery.)"
 msgstr ""
 
 #: ../../IKO.rst:1345
@@ -2661,7 +2661,7 @@ msgid ":mtgtip:`Zirda, the Dawnwaker<https://cards.scryfall.io/border_crop/front
 msgstr ""
 
 #: ../../IKO.rst:1349
-msgid "Companion — Each permanent card in your starting deck has an activated ability. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| any time you could cast a sorcery.)"
+msgid "Companion — Each permanent card in your starting deck has an activated ability. (If this card is your chosen companion, you may put it into your hand from outside the game for |mana_3| as a sorcery.)"
 msgstr ""
 
 #: ../../IKO.rst:1351
@@ -2725,7 +2725,7 @@ msgid "|tap|: Add |mana_r|, |mana_w|, or |mana_b|."
 msgstr ""
 
 #: ../../IKO.rst:1394
-msgid ":mtgtip:`Sleeper Dart<https://cards.scryfall.io/border_crop/front/3/1/311f827a-1585-483e-b0fd-3dc05969b485.jpg?1591228570|https://scryfall.com/card/iko/240/sleeper-dart?utm_source=api>`"
+msgid ":mtgtip:`Sleeper Dart<https://cards.scryfall.io/border_crop/front/3/1/311f827a-1585-483e-b0fd-3dc05969b485.jpg?1681500667|https://scryfall.com/card/iko/240/sleeper-dart?utm_source=api>`"
 msgstr ""
 
 #: ../../IKO.rst:1391

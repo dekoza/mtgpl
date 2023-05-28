@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: MTG po polsku 2023.3\n"
+"Project-Id-Version: MTG po polsku 2023.5\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-07 10:26+0100\n"
+"POT-Creation-Date: 2023-05-28 11:10+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3049,7 +3049,7 @@ msgid ":mtgtip:`Umbilicus<https://cards.scryfall.io/border_crop/front/2/9/29a6db
 msgstr ""
 
 #: ../../USG.rst:1537
-msgid "At the beginning of each player's upkeep, that player returns a permanent they control to its owner's hand unless they pay 2 life."
+msgid "At the beginning of each player's upkeep, that player may pay 2 life. If they don't, they return a permanent they control to its owner's hand."
 msgstr ""
 
 #: ../../USG.rst:1542

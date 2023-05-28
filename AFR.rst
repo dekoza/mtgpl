@@ -53,7 +53,7 @@
    As long as you've completed a dungeon, Cloister Gargoyle gets +3/+0 and has flying.
 
 
-:mtgtip:`A-Cloister Gargoyle<https://cards.scryfall.io/border_crop/front/7/3/735b16a4-c35a-4eec-94ed-8df6720240e0.jpg?1649850406|https://scryfall.com/card/afr/A-7/a-cloister-gargoyle?utm_source=api>`
+:mtgtip:`A-Cloister Gargoyle<https://cards.scryfall.io/border_crop/front/7/3/735b16a4-c35a-4eec-94ed-8df6720240e0.jpg?1681158514|https://scryfall.com/card/afr/A-7/a-cloister-gargoyle?utm_source=api>`
    When Cloister Gargoyle enters the battlefield, venture into the dungeon. (Enter the first room or advance to the next room.)
 
    As long as you've completed a dungeon, Cloister Gargoyle gets +3/+0 and has flying.
@@ -68,6 +68,16 @@
 
 
 :mtgtip:`Dawnbringer Cleric<https://cards.scryfall.io/border_crop/front/c/0/c00856f7-fef5-4ba5-9079-59a81d452c82.jpg?1627701517|https://scryfall.com/card/afr/9/dawnbringer-cleric?utm_source=api>`
+   When Dawnbringer Cleric enters the battlefield, choose one —
+
+   • Cure Wounds — You gain 2 life.
+
+   • Dispel Magic — Destroy target enchantment.
+
+   • Gentle Repose — Exile target card from a graveyard.
+
+
+:mtgtip:`A-Dawnbringer Cleric<https://cards.scryfall.io/border_crop/front/a/f/af2fecd0-cb15-42d5-b652-5721bec421b2.jpg?1682346326|https://scryfall.com/card/afr/A-9/a-dawnbringer-cleric?utm_source=api>`
    When Dawnbringer Cleric enters the battlefield, choose one —
 
    • Cure Wounds — You gain 2 life.
@@ -103,7 +113,7 @@
    As long as Dwarfhold Champion is equipped, it gets +0/+2.
 
 
-:mtgtip:`A-Dwarfhold Champion<https://cards.scryfall.io/border_crop/front/1/9/191a73b3-9efc-4f79-bf10-e8e2d6951c6c.jpg?1649274895|https://scryfall.com/card/afr/A-14/a-dwarfhold-champion?utm_source=api>`
+:mtgtip:`A-Dwarfhold Champion<https://cards.scryfall.io/border_crop/front/1/9/191a73b3-9efc-4f79-bf10-e8e2d6951c6c.jpg?1681158642|https://scryfall.com/card/afr/A-14/a-dwarfhold-champion?utm_source=api>`
    Ward |mana_1|
 
    As long as Dwarfhold Champion is equipped, it gets +0/+2.
@@ -227,7 +237,7 @@
    Equip |mana_3|. This ability costs |mana_1| less to activate for each other Equipment you control.
 
 
-:mtgtip:`A-Plate Armor<https://cards.scryfall.io/border_crop/front/5/9/594323b6-558d-4597-beb8-5346599ea571.jpg?1649275211|https://scryfall.com/card/afr/A-32/a-plate-armor?utm_source=api>`
+:mtgtip:`A-Plate Armor<https://cards.scryfall.io/border_crop/front/5/9/594323b6-558d-4597-beb8-5346599ea571.jpg?1681159217|https://scryfall.com/card/afr/A-32/a-plate-armor?utm_source=api>`
    Equipped creature gets +3/+3 and has ward |mana_1|. (Whenever equipped creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays |mana_1|.)
 
    Equip |mana_3|. This ability costs |mana_1| less to activate for each other Equipment you control.
@@ -359,7 +369,7 @@
    You may cast Demilich from your graveyard by exiling four instant and/or sorcery cards from your graveyard in addition to paying its other costs.
 
 
-:mtgtip:`A-Demilich<https://cards.scryfall.io/border_crop/front/e/2/e200b8f1-3738-4db4-a2b3-7aeb4c2fd59b.jpg?1645415502|https://scryfall.com/card/afr/A-53/a-demilich?utm_source=api>`
+:mtgtip:`A-Demilich<https://cards.scryfall.io/border_crop/front/e/2/e200b8f1-3738-4db4-a2b3-7aeb4c2fd59b.jpg?1681158608|https://scryfall.com/card/afr/A-53/a-demilich?utm_source=api>`
    This spell costs |mana_u| less to cast for each instant and sorcery spell you've cast this turn.
 
    Whenever Demilich attacks, exile up to one target instant or sorcery card from your graveyard. Copy it. You may cast the copy.
@@ -549,7 +559,7 @@
    Whenever you draw a card, put a +1/+1 counter on target creature you control.
 
 
-:mtgtip:`A-Wizard Class<https://cards.scryfall.io/border_crop/front/a/b/ab73fa2c-b89f-4f1c-b8bf-f00c024a00bd.jpg?1645415261|https://scryfall.com/card/afr/A-81/a-wizard-class?utm_source=api>`
+:mtgtip:`A-Wizard Class<https://cards.scryfall.io/border_crop/front/a/b/ab73fa2c-b89f-4f1c-b8bf-f00c024a00bd.jpg?1681159576|https://scryfall.com/card/afr/A-81/a-wizard-class?utm_source=api>`
    (Gain the next level as a sorcery to add its ability.)
 
    You have no maximum hand size.
@@ -609,7 +619,7 @@
    Whenever Acererak the Archlich attacks, for each opponent, you create a 2/2 black Zombie creature token unless that player sacrifices a creature.
 
 
-:mtgtip:`A-Acererak the Archlich<https://cards.scryfall.io/border_crop/front/e/b/eb363654-2004-4db8-bbd2-5b121da4f2a0.jpg?1645415464|https://scryfall.com/card/afr/A-87/a-acererak-the-archlich?utm_source=api>`
+:mtgtip:`A-Acererak the Archlich<https://cards.scryfall.io/border_crop/front/e/b/eb363654-2004-4db8-bbd2-5b121da4f2a0.jpg?1681158256|https://scryfall.com/card/afr/A-87/a-acererak-the-archlich?utm_source=api>`
    When Acererak the Archlich enters the battlefield, if you haven't completed Tomb of Annihilation, return Acererak the Archlich to its owner's hand and venture into the dungeon.
 
    Whenever Acererak the Archlich attacks, create a number of 2/2 black Zombie creature tokens equal to the number of opponents you have.
@@ -663,7 +673,7 @@
    At the beginning of your end step, if a creature died this turn, you may pay |mana_1|. If you do, create a 1/1 black Skeleton creature token.
 
 
-:mtgtip:`A-Death-Priest of Myrkul<https://cards.scryfall.io/border_crop/front/f/7/f756f0c8-bab6-45cf-a433-409b3c999263.jpg?1645739974|https://scryfall.com/card/afr/A-95/a-death-priest-of-myrkul?utm_source=api>`
+:mtgtip:`A-Death-Priest of Myrkul<https://cards.scryfall.io/border_crop/front/f/7/f756f0c8-bab6-45cf-a433-409b3c999263.jpg?1681158497|https://scryfall.com/card/afr/A-95/a-death-priest-of-myrkul?utm_source=api>`
    Skeletons, Vampires, and Zombies you control get +1/+1.
 
    At the beginning of your end step, if a creature died this turn, create a 1/1 black Skeleton creature token.
@@ -707,7 +717,7 @@
    Return up to one target creature card from your graveyard to your hand. Venture into the dungeon. (Enter the first room or advance to the next room.)
 
 
-:mtgtip:`A-Fates' Reversal<https://cards.scryfall.io/border_crop/front/c/a/ca09f699-c3e9-436e-b1b3-0fcd1ef3273f.jpg?1649850845|https://scryfall.com/card/afr/A-102/a-fates-reversal?utm_source=api>`
+:mtgtip:`A-Fates' Reversal<https://cards.scryfall.io/border_crop/front/c/a/ca09f699-c3e9-436e-b1b3-0fcd1ef3273f.jpg?1681158793|https://scryfall.com/card/afr/A-102/a-fates-reversal?utm_source=api>`
    Return up to one target creature card from your graveyard to your hand. Venture into the dungeon. (Enter the first room or advance to the next room.)
 
 
@@ -797,7 +807,7 @@
    Enchanted creature gets -2/-2. It gets -5/-5 instead as long as you've completed a dungeon.
 
 
-:mtgtip:`A-Precipitous Drop<https://cards.scryfall.io/border_crop/front/7/7/77808663-2511-4495-a779-d4294a621c7f.jpg?1649850851|https://scryfall.com/card/afr/A-115/a-precipitous-drop?utm_source=api>`
+:mtgtip:`A-Precipitous Drop<https://cards.scryfall.io/border_crop/front/7/7/77808663-2511-4495-a779-d4294a621c7f.jpg?1681159220|https://scryfall.com/card/afr/A-115/a-precipitous-drop?utm_source=api>`
    Enchant creature
 
    When Precipitous Drop enters the battlefield, venture into the dungeon. (Enter the first room or advance to the next room.)
@@ -821,7 +831,7 @@
    Sacrifice another creature: Sepulcher Ghoul gets +2/+2 until end of turn. Activate only once each turn.
 
 
-:mtgtip:`A-Sepulcher Ghoul<https://cards.scryfall.io/border_crop/front/6/a/6af167ef-40f9-4734-a14b-6024ddf93871.jpg?1645740334|https://scryfall.com/card/afr/A-118/a-sepulcher-ghoul?utm_source=api>`
+:mtgtip:`A-Sepulcher Ghoul<https://cards.scryfall.io/border_crop/front/6/a/6af167ef-40f9-4734-a14b-6024ddf93871.jpg?1681159298|https://scryfall.com/card/afr/A-118/a-sepulcher-ghoul?utm_source=api>`
    Sacrifice another creature: Sepulcher Ghoul gets +2/+2 until end of turn. Activate only once each turn.
 
 
@@ -907,7 +917,7 @@
    As long as Armory Veteran is equipped, it has menace. (It can't be blocked except by two or more creatures.)
 
 
-:mtgtip:`A-Armory Veteran<https://cards.scryfall.io/border_crop/front/4/2/423f13ba-e165-4add-9935-d88503e1e761.jpg?1660839671|https://scryfall.com/card/afr/A-130/a-armory-veteran?utm_source=api>`
+:mtgtip:`A-Armory Veteran<https://cards.scryfall.io/border_crop/front/4/2/423f13ba-e165-4add-9935-d88503e1e761.jpg?1681158270|https://scryfall.com/card/afr/A-130/a-armory-veteran?utm_source=api>`
    Ward—Pay 2 life.
 
    As long as Armory Veteran is equipped, it has menace. (It can't be blocked except by two or more creatures.)
@@ -1239,7 +1249,7 @@
    When this Class becomes level 3, target land you control becomes a creature with haste and "This creature's power and toughness are each equal to the number of lands you control." It's still a land.
 
 
-:mtgtip:`A-Druid Class<https://cards.scryfall.io/border_crop/front/8/c/8cbd3554-0096-470d-ba9d-011f5c8212c4.jpg?1645415423|https://scryfall.com/card/afr/A-180/a-druid-class?utm_source=api>`
+:mtgtip:`A-Druid Class<https://cards.scryfall.io/border_crop/front/8/c/8cbd3554-0096-470d-ba9d-011f5c8212c4.jpg?1681158589|https://scryfall.com/card/afr/A-180/a-druid-class?utm_source=api>`
    (Gain the next level as a sorcery to add its ability.)
 
    Whenever a land enters the battlefield under your control, you gain 1 life.
@@ -1261,7 +1271,7 @@
    −7: You get an emblem with "Creatures you control have trample and haste and get +2/+2 for each differently named dungeon you've completed."
 
 
-:mtgtip:`A-Ellywick Tumblestrum<https://cards.scryfall.io/border_crop/front/4/9/49215be1-88ed-4302-a708-99496d90d175.jpg?1645415483|https://scryfall.com/card/afr/A-181/a-ellywick-tumblestrum?utm_source=api>`
+:mtgtip:`A-Ellywick Tumblestrum<https://cards.scryfall.io/border_crop/front/4/9/49215be1-88ed-4302-a708-99496d90d175.jpg?1681158677|https://scryfall.com/card/afr/A-181/a-ellywick-tumblestrum?utm_source=api>`
    +1: Venture into the dungeon. (Enter the first room or advance to the next room.)
 
    −2: Look at the top six cards of your library. You may reveal a creature card from among them and put it into your hand. If it's legendary, you gain 3 life. Put the rest on the bottom of your library in a random order.
@@ -1283,7 +1293,7 @@
    Enchanted land has "|tap|: Add |mana_g|\ |mana_g|."
 
 
-:mtgtip:`A-Find the Path<https://cards.scryfall.io/border_crop/front/5/0/50a223fc-ded8-4675-a72a-74ca6a44a642.jpg?1647770408|https://scryfall.com/card/afr/A-183/a-find-the-path?utm_source=api>`
+:mtgtip:`A-Find the Path<https://cards.scryfall.io/border_crop/front/5/0/50a223fc-ded8-4675-a72a-74ca6a44a642.jpg?1681158794|https://scryfall.com/card/afr/A-183/a-find-the-path?utm_source=api>`
    Enchant land
 
    When Find the Path enters the battlefield, venture into the dungeon.
@@ -1371,7 +1381,7 @@
    Split — When Ochre Jelly dies, if it had two or more +1/+1 counters on it, create a token that's a copy of it at the beginning of the next end step. The token enters the battlefield with half that many +1/+1 counters on it, rounded down.
 
 
-:mtgtip:`A-Ochre Jelly<https://cards.scryfall.io/border_crop/front/e/4/e499ccce-359a-45ac-a09b-5e4ca96ac1cd.jpg?1657065174|https://scryfall.com/card/afr/A-196/a-ochre-jelly?utm_source=api>`
+:mtgtip:`A-Ochre Jelly<https://cards.scryfall.io/border_crop/front/e/4/e499ccce-359a-45ac-a09b-5e4ca96ac1cd.jpg?1681159154|https://scryfall.com/card/afr/A-196/a-ochre-jelly?utm_source=api>`
    Trample
 
    Ward |mana_2|
@@ -1545,7 +1555,7 @@
    You may pay |mana_0| rather than pay the equip cost of the first equip ability you activate each turn.
 
 
-:mtgtip:`A-Bruenor Battlehammer<https://cards.scryfall.io/border_crop/front/7/a/7ad77890-cf97-4707-ab31-be0f5be0e120.jpg?1649339351|https://scryfall.com/card/afr/A-219/a-bruenor-battlehammer?utm_source=api>`
+:mtgtip:`A-Bruenor Battlehammer<https://cards.scryfall.io/border_crop/front/7/a/7ad77890-cf97-4707-ab31-be0f5be0e120.jpg?1681158407|https://scryfall.com/card/afr/A-219/a-bruenor-battlehammer?utm_source=api>`
    Each creature you control gets +2/+0 for each Equipment attached to it.
 
    |mana_0|: Attach target Equipment you control to target creature you control. Activate only as a sorcery and only once each turn.
@@ -1595,6 +1605,12 @@
    Whenever Krydle of Baldur's Gate deals combat damage to a player, that player loses 1 life and mills a card, then you gain 1 life and scry 1.
 
    Whenever you attack, you may pay |mana_2|. If you do, target creature can't be blocked this turn.
+
+
+:mtgtip:`A-Krydle of Baldur's Gate<https://cards.scryfall.io/border_crop/front/8/3/8375b7a3-40f2-4b1c-a8cb-ce19e34e4471.jpg?1681158995|https://scryfall.com/card/afr/A-226/a-krydle-of-baldurs-gate?utm_source=api>`
+   Whenever Krydle of Baldur's Gate deals combat damage to a player, that player loses 1 life and mills a card, then you gain 1 life and scry 1.
+
+   Whenever you attack, target creature can't be blocked this turn.
 
 
 :mtgtip:`Minsc, Beloved Ranger<https://cards.scryfall.io/border_crop/front/7/2/72405607-a60e-42af-b523-64008d3f89b9.jpg?1655249958|https://scryfall.com/card/afr/227/minsc-beloved-ranger?utm_source=api>`
@@ -1647,7 +1663,7 @@
    Whispers of the Grave — At the beginning of your end step, if a creature died this turn, you may pay 2 life. If you do, draw a card.
 
 
-:mtgtip:`A-Shessra, Death's Whisper<https://cards.scryfall.io/border_crop/front/4/e/4ef5fb8c-ee26-464e-bc89-47b2e4c39222.jpg?1649328644|https://scryfall.com/card/afr/A-231/a-shessra-deaths-whisper?utm_source=api>`
+:mtgtip:`A-Shessra, Death's Whisper<https://cards.scryfall.io/border_crop/front/4/e/4ef5fb8c-ee26-464e-bc89-47b2e4c39222.jpg?1681159313|https://scryfall.com/card/afr/A-231/a-shessra-deaths-whisper?utm_source=api>`
    Bewitching Whispers — When Shessra, Death's Whisper enters the battlefield, target creature blocks this turn if able.
 
    Whispers of the Grave — At the beginning of your end step, if a creature died this turn, you may pay 2 life. If you do, draw a card.
@@ -1673,7 +1689,7 @@
    Whenever you cast an instant or sorcery spell, that spell deals damage to each opponent equal to the number of instant and sorcery spells you've cast this turn.
 
 
-:mtgtip:`A-Sorcerer Class<https://cards.scryfall.io/border_crop/front/6/7/67afa501-d561-4a02-9321-351d19daa10d.jpg?1657065536|https://scryfall.com/card/afr/A-233/a-sorcerer-class?utm_source=api>`
+:mtgtip:`A-Sorcerer Class<https://cards.scryfall.io/border_crop/front/6/7/67afa501-d561-4a02-9321-351d19daa10d.jpg?1681159373|https://scryfall.com/card/afr/A-233/a-sorcerer-class?utm_source=api>`
    (Gain the next level as a sorcery to add its ability.)
 
    When Sorcerer Class enters the battlefield, draw two cards, then discard two cards.
@@ -1711,7 +1727,7 @@
    Whenever Triumphant Adventurer attacks, venture into the dungeon. (Enter the first room or advance to the next room.)
 
 
-:mtgtip:`A-Triumphant Adventurer<https://cards.scryfall.io/border_crop/front/b/6/b6a95341-168b-4a97-90dc-9a444f5de8e6.jpg?1645415442|https://scryfall.com/card/afr/A-237/a-triumphant-adventurer?utm_source=api>`
+:mtgtip:`A-Triumphant Adventurer<https://cards.scryfall.io/border_crop/front/b/6/b6a95341-168b-4a97-90dc-9a444f5de8e6.jpg?1681159558|https://scryfall.com/card/afr/A-237/a-triumphant-adventurer?utm_source=api>`
    Deathtouch
 
    As long as it's your turn, Triumphant Adventurer has first strike.
@@ -1849,7 +1865,7 @@
    |mana_4|, |tap|, Tap an untapped legendary creature you control: Venture into the dungeon. Activate only as a sorcery. (Enter the first room or advance to the next room.)
 
 
-:mtgtip:`A-Dungeon Descent<https://cards.scryfall.io/border_crop/front/7/6/7673def9-9f27-4382-b65b-ec616fae1768.jpg?1645415723|https://scryfall.com/card/afr/A-255/a-dungeon-descent?utm_source=api>`
+:mtgtip:`A-Dungeon Descent<https://cards.scryfall.io/border_crop/front/7/6/7673def9-9f27-4382-b65b-ec616fae1768.jpg?1681158581|https://scryfall.com/card/afr/A-255/a-dungeon-descent?utm_source=api>`
    |tap|: Add |colorless|.
 
    |mana_1|, |tap|, Tap an untapped legendary creature you control: Venture into the dungeon. Activate only as a sorcery.

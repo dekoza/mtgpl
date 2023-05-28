@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: MTG po polsku 2023.3\n"
+"Project-Id-Version: MTG po polsku 2023.5\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-02 12:41+0100\n"
+"POT-Creation-Date: 2023-05-28 11:10+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -272,11 +272,11 @@ msgstr ""
 #: ../../ONE.rst:677
 #: ../../ONE.rst:969
 #: ../../ONE.rst:1035
-#: ../../ONE.rst:1171
-#: ../../ONE.rst:1363
-#: ../../ONE.rst:1395
-#: ../../ONE.rst:1425
-#: ../../ONE.rst:1475
+#: ../../ONE.rst:1169
+#: ../../ONE.rst:1361
+#: ../../ONE.rst:1393
+#: ../../ONE.rst:1423
+#: ../../ONE.rst:1473
 msgid "Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)"
 msgstr ""
 
@@ -304,13 +304,13 @@ msgstr ""
 #: ../../ONE.rst:617
 #: ../../ONE.rst:637
 #: ../../ONE.rst:763
-#: ../../ONE.rst:1213
-#: ../../ONE.rst:1333
-#: ../../ONE.rst:1347
-#: ../../ONE.rst:1361
-#: ../../ONE.rst:1393
-#: ../../ONE.rst:1693
-#: ../../ONE.rst:1701
+#: ../../ONE.rst:1211
+#: ../../ONE.rst:1331
+#: ../../ONE.rst:1345
+#: ../../ONE.rst:1359
+#: ../../ONE.rst:1391
+#: ../../ONE.rst:1691
+#: ../../ONE.rst:1699
 msgid "Flying"
 msgstr ""
 
@@ -344,7 +344,7 @@ msgstr ""
 
 #: ../../ONE.rst:41
 #: ../../ONE.rst:661
-#: ../../ONE.rst:1127
+#: ../../ONE.rst:1125
 msgid "Choose one —"
 msgstr ""
 
@@ -388,8 +388,8 @@ msgstr ""
 #: ../../ONE.rst:175
 #: ../../ONE.rst:377
 #: ../../ONE.rst:949
-#: ../../ONE.rst:1229
-#: ../../ONE.rst:1387
+#: ../../ONE.rst:1227
+#: ../../ONE.rst:1385
 msgid "Vigilance"
 msgstr ""
 
@@ -441,8 +441,8 @@ msgstr ""
 #: ../../ONE.rst:781
 #: ../../ONE.rst:827
 #: ../../ONE.rst:941
-#: ../../ONE.rst:1119
-#: ../../ONE.rst:1203
+#: ../../ONE.rst:1117
+#: ../../ONE.rst:1201
 msgid "For Mirrodin! (When this Equipment enters the battlefield, create a 2/2 red Rebel creature token, then attach this to it.)"
 msgstr ""
 
@@ -593,7 +593,7 @@ msgid "Orthodoxy Enforcer gets +2/+0 as long as you control two or more artifact
 msgstr ""
 
 #: ../../ONE.rst:184
-msgid ":mtgtip:`Ossification<https://cards.scryfall.io/border_crop/front/0/d/0da03224-c1af-438f-96c2-b0e41e1070b7.jpg?1677285311|https://scryfall.com/card/one/26/ossification?utm_source=api>`"
+msgid ":mtgtip:`Ossification<https://cards.scryfall.io/border_crop/front/0/d/0da03224-c1af-438f-96c2-b0e41e1070b7.jpg?1680795456|https://scryfall.com/card/one/26/ossification?utm_source=api>`"
 msgstr ""
 
 #: ../../ONE.rst:181
@@ -783,7 +783,7 @@ msgid "Whenever Blade of Shared Souls becomes attached to a creature, for as lon
 msgstr ""
 
 #: ../../ONE.rst:277
-#: ../../ONE.rst:1543
+#: ../../ONE.rst:1541
 msgid "Equip |mana_2|"
 msgstr ""
 
@@ -796,7 +796,7 @@ msgid "Gain control of target creature with mana value X or less. If X is 5 or m
 msgstr ""
 
 #: ../../ONE.rst:288
-msgid ":mtgtip:`Bring the Ending<https://cards.scryfall.io/border_crop/front/b/a/ba9d9d26-0c76-4a09-aa25-b32854e70c0b.jpg?1675956949|https://scryfall.com/card/one/44/bring-the-ending?utm_source=api>`"
+msgid ":mtgtip:`Bring the Ending<https://cards.scryfall.io/border_crop/front/b/a/ba9d9d26-0c76-4a09-aa25-b32854e70c0b.jpg?1681468862|https://scryfall.com/card/one/44/bring-the-ending?utm_source=api>`"
 msgstr ""
 
 #: ../../ONE.rst:285
@@ -921,11 +921,11 @@ msgid "As long as Ichor Synthesizer has four or more oil counters on it, it gets
 msgstr ""
 
 #: ../../ONE.rst:354
-msgid ":mtgtip:`Ichormoon Gauntlet<https://cards.scryfall.io/border_crop/front/2/c/2c093ce0-2561-4847-ab58-f6f1650d743e.jpg?1675956970|https://scryfall.com/card/one/56/ichormoon-gauntlet?utm_source=api>`"
+msgid ":mtgtip:`Ichormoon Gauntlet<https://cards.scryfall.io/border_crop/front/2/c/2c093ce0-2561-4847-ab58-f6f1650d743e.jpg?1684523650|https://scryfall.com/card/one/56/ichormoon-gauntlet?utm_source=api>`"
 msgstr ""
 
 #: ../../ONE.rst:351
-msgid "Planeswalkers you control have \"[0]: Proliferate\" and \"[-12]: Take an extra turn after this one.\""
+msgid "Planeswalkers you control have \"[0]: Proliferate\" and \"[−12]: Take an extra turn after this one.\""
 msgstr ""
 
 #: ../../ONE.rst:353
@@ -981,7 +981,7 @@ msgid "Remove an oil counter from Meldweb Strider: It becomes an artifact creatu
 msgstr ""
 
 #: ../../ONE.rst:383
-#: ../../ONE.rst:1511
+#: ../../ONE.rst:1509
 msgid "Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)"
 msgstr ""
 
@@ -1122,7 +1122,7 @@ msgid "|mana_2|: Put target card from your graveyard on the bottom of your libra
 msgstr ""
 
 #: ../../ONE.rst:472
-msgid ":mtgtip:`Trawler Drake<https://cards.scryfall.io/border_crop/front/f/4/f442442d-2e5d-4913-82d8-bab2f31541f8.jpg?1676398895|https://scryfall.com/card/one/74/trawler-drake?utm_source=api>`"
+msgid ":mtgtip:`Trawler Drake<https://cards.scryfall.io/border_crop/front/f/4/f442442d-2e5d-4913-82d8-bab2f31541f8.jpg?1680795495|https://scryfall.com/card/one/74/trawler-drake?utm_source=api>`"
 msgstr ""
 
 #: ../../ONE.rst:467
@@ -1412,9 +1412,11 @@ msgid ":mtgtip:`Nimraiser Paladin<https://cards.scryfall.io/border_crop/front/a/
 msgstr ""
 
 #: ../../ONE.rst:627
+#: ../../ONE.rst:673
 #: ../../ONE.rst:975
-#: ../../ONE.rst:1325
-#: ../../ONE.rst:1355
+#: ../../ONE.rst:1323
+#: ../../ONE.rst:1353
+#: ../../ONE.rst:1505
 msgid "Toxic 2 (Players dealt combat damage by this creature also get two poison counters.)"
 msgstr ""
 
@@ -1451,8 +1453,8 @@ msgstr ""
 #: ../../ONE.rst:847
 #: ../../ONE.rst:877
 #: ../../ONE.rst:967
-#: ../../ONE.rst:1137
-#: ../../ONE.rst:1253
+#: ../../ONE.rst:1135
+#: ../../ONE.rst:1251
 msgid "Trample"
 msgstr ""
 
@@ -1469,7 +1471,7 @@ msgid "Corrupted — When Ravenous Necrotitan enters the battlefield, sacrifice 
 msgstr ""
 
 #: ../../ONE.rst:658
-msgid ":mtgtip:`Scheming Aspirant<https://cards.scryfall.io/border_crop/front/8/d/8de80f71-82b5-499c-afc0-6bbae6b896ad.jpg?1675957049|https://scryfall.com/card/one/107/scheming-aspirant?utm_source=api>`"
+msgid ":mtgtip:`Scheming Aspirant<https://cards.scryfall.io/border_crop/front/8/d/8de80f71-82b5-499c-afc0-6bbae6b896ad.jpg?1681468798|https://scryfall.com/card/one/107/scheming-aspirant?utm_source=api>`"
 msgstr ""
 
 #: ../../ONE.rst:657
@@ -1500,10 +1502,6 @@ msgstr ""
 #: ../../ONE.rst:741
 #: ../../ONE.rst:807
 msgid "Menace"
-msgstr ""
-
-#: ../../ONE.rst:673
-msgid "Toxic 2 (Players dealt combat damage by this creature also gets two poison counter.)"
 msgstr ""
 
 #: ../../ONE.rst:680
@@ -1681,7 +1679,7 @@ msgstr ""
 #: ../../ONE.rst:769
 #: ../../ONE.rst:853
 #: ../../ONE.rst:895
-#: ../../ONE.rst:1149
+#: ../../ONE.rst:1147
 msgid "Haste"
 msgstr ""
 
@@ -2000,7 +1998,7 @@ msgstr ""
 
 #: ../../ONE.rst:955
 #: ../../ONE.rst:985
-#: ../../ONE.rst:1131
+#: ../../ONE.rst:1129
 msgid "Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
 msgstr ""
 
@@ -2013,7 +2011,7 @@ msgid "Armored Scrapgorger gets +3/+0 as long as it has three or more oil counte
 msgstr ""
 
 #: ../../ONE.rst:961
-#: ../../ONE.rst:1489
+#: ../../ONE.rst:1487
 msgid "|tap|: Add one mana of any color."
 msgstr ""
 
@@ -2022,7 +2020,7 @@ msgid "Whenever Armored Scrapgorger becomes tapped, exile target card from a gra
 msgstr ""
 
 #: ../../ONE.rst:972
-msgid ":mtgtip:`Bloated Contaminator<https://cards.scryfall.io/border_crop/front/4/1/411bda96-6c65-475d-9850-0a9b3eefa553.jpg?1675957126|https://scryfall.com/card/one/159/bloated-contaminator?utm_source=api>`"
+msgid ":mtgtip:`Bloated Contaminator<https://cards.scryfall.io/border_crop/front/4/1/411bda96-6c65-475d-9850-0a9b3eefa553.jpg?1678455105|https://scryfall.com/card/one/159/bloated-contaminator?utm_source=api>`"
 msgstr ""
 
 #: ../../ONE.rst:971
@@ -2046,7 +2044,7 @@ msgid "Destroy target artifact."
 msgstr ""
 
 #: ../../ONE.rst:983
-#: ../../ONE.rst:1247
+#: ../../ONE.rst:1245
 msgid "Destroy target enchantment."
 msgstr ""
 
@@ -2083,7 +2081,7 @@ msgid ":mtgtip:`Copper Longlegs<https://cards.scryfall.io/border_crop/front/f/8/
 msgstr ""
 
 #: ../../ONE.rst:1003
-#: ../../ONE.rst:1189
+#: ../../ONE.rst:1187
 msgid "Reach"
 msgstr ""
 
@@ -2223,1141 +2221,1133 @@ msgstr ""
 msgid "When Oil-Gorger Troll enters the battlefield, you gain 3 life. Then if you control a permanent with an oil counter on it, draw a card."
 msgstr ""
 
-#: ../../ONE.rst:1088
+#: ../../ONE.rst:1086
 msgid ":mtgtip:`Paladin of Predation<https://cards.scryfall.io/border_crop/front/7/5/758dbe61-6dc7-4b08-bdd6-7262257955fc.jpg?1675997685|https://scryfall.com/card/one/178/paladin-of-predation?utm_source=api>`"
 msgstr ""
 
 #: ../../ONE.rst:1083
-msgid "Toxic 6 (Players dealt combat damage by"
+msgid "Toxic 6 (Players dealt combat damage by this creature also get six poison counters.)"
 msgstr ""
 
 #: ../../ONE.rst:1085
-msgid "this creature also get six poison counters.)"
-msgstr ""
-
-#: ../../ONE.rst:1087
 msgid "Paladin of Predation can't be blocked by creatures with power 2 or less."
 msgstr ""
 
-#: ../../ONE.rst:1094
+#: ../../ONE.rst:1092
 msgid ":mtgtip:`Plague Nurse<https://cards.scryfall.io/border_crop/front/5/e/5e7eef9e-68ae-4743-ad89-64f6fafbe365.jpg?1675957156|https://scryfall.com/card/one/179/plague-nurse?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1091
+#: ../../ONE.rst:1089
 msgid "Toxic 2"
 msgstr ""
 
-#: ../../ONE.rst:1093
+#: ../../ONE.rst:1091
 msgid "|mana_2|\\ |mana_g|: Each other creature you control with toxic gains toxic 1 until end of turn. Activate only once each turn. (A player dealt combat damage by a creature with toxic also gets poison counters equal to that creature's total toxic value.)"
 msgstr ""
 
-#: ../../ONE.rst:1100
+#: ../../ONE.rst:1098
 msgid ":mtgtip:`Predation Steward<https://cards.scryfall.io/border_crop/front/4/1/419fab07-f921-4eff-91e2-1974ae121077.jpg?1675957158|https://scryfall.com/card/one/180/predation-steward?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1097
+#: ../../ONE.rst:1095
 msgid "Predation Steward enters the battlefield with two oil counters on it."
 msgstr ""
 
-#: ../../ONE.rst:1099
+#: ../../ONE.rst:1097
 msgid "|mana_2|\\ |mana_g|, |tap|, Remove an oil counter from Predation Steward: Target creature gets +2/+2 until end of turn. Activate only as a sorcery."
 msgstr ""
 
-#: ../../ONE.rst:1106
+#: ../../ONE.rst:1104
 msgid ":mtgtip:`Rustvine Cultivator<https://cards.scryfall.io/border_crop/front/6/b/6b71fd8f-e688-4210-bc5b-a3f19b5b3497.jpg?1675957160|https://scryfall.com/card/one/181/rustvine-cultivator?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1103
+#: ../../ONE.rst:1101
 msgid "|tap|: Put an oil counter on Rustvine Cultivator."
 msgstr ""
 
-#: ../../ONE.rst:1105
+#: ../../ONE.rst:1103
 msgid "|tap|, Remove an oil counter from Rustvine Cultivator: Untap target land."
 msgstr ""
 
-#: ../../ONE.rst:1110
+#: ../../ONE.rst:1108
 msgid ":mtgtip:`Ruthless Predation<https://cards.scryfall.io/border_crop/front/1/2/123f0c76-1fde-439e-a76d-eccf96f8d941.jpg?1675957163|https://scryfall.com/card/one/182/ruthless-predation?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1109
+#: ../../ONE.rst:1107
 msgid "Target creature you control gets +1/+2 until end of turn. It fights target creature you don't control. (Each deals damage equal to its power to the other.)"
 msgstr ""
 
-#: ../../ONE.rst:1116
+#: ../../ONE.rst:1114
 msgid ":mtgtip:`Skyscythe Engulfer<https://cards.scryfall.io/border_crop/front/d/7/d7898399-3c52-402c-9cd7-baad2cb7f00e.jpg?1675957163|https://scryfall.com/card/one/183/skyscythe-engulfer?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1113
+#: ../../ONE.rst:1111
 msgid "Reach, trample"
 msgstr ""
 
-#: ../../ONE.rst:1115
+#: ../../ONE.rst:1113
 msgid "Skyscythe Engulfer can't be blocked by creatures with flying."
 msgstr ""
 
-#: ../../ONE.rst:1124
+#: ../../ONE.rst:1122
 msgid ":mtgtip:`Sylvok Battle-Chair<https://cards.scryfall.io/border_crop/front/7/1/71c1a1d0-5616-42f8-a59c-42c1ccd48d26.jpg?1675957164|https://scryfall.com/card/one/184/sylvok-battle-chair?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1121
+#: ../../ONE.rst:1119
 msgid "Equipped creature gets +4/+4 and has trample."
 msgstr ""
 
-#: ../../ONE.rst:1123
+#: ../../ONE.rst:1121
 msgid "Equip |mana_5|\\ |mana_g|\\ |mana_g|"
 msgstr ""
 
-#: ../../ONE.rst:1132
+#: ../../ONE.rst:1130
 msgid ":mtgtip:`Thirsting Roots<https://cards.scryfall.io/border_crop/front/7/5/75a4a340-453b-471a-82ba-48ebf20b271a.jpg?1675957166|https://scryfall.com/card/one/185/thirsting-roots?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1129
+#: ../../ONE.rst:1127
 msgid "Search your library for a basic land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
-#: ../../ONE.rst:1142
+#: ../../ONE.rst:1140
 msgid ":mtgtip:`Thrun, Breaker of Silence<https://cards.scryfall.io/border_crop/front/6/d/6d9f51dd-0393-4b3c-bea5-8f74634ab0e5.jpg?1675957167|https://scryfall.com/card/one/186/thrun-breaker-of-silence?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1135
-#: ../../ONE.rst:1155
+#: ../../ONE.rst:1133
+#: ../../ONE.rst:1153
 msgid "This spell can't be countered."
 msgstr ""
 
-#: ../../ONE.rst:1139
+#: ../../ONE.rst:1137
 msgid "Thrun, Breaker of Silence can't be the target of nongreen spells your opponents control or abilities from nongreen sources your opponents control."
 msgstr ""
 
-#: ../../ONE.rst:1141
+#: ../../ONE.rst:1139
 msgid "As long as it's your turn, Thrun has indestructible."
 msgstr ""
 
-#: ../../ONE.rst:1146
+#: ../../ONE.rst:1144
 msgid ":mtgtip:`Titanic Growth<https://cards.scryfall.io/border_crop/front/3/5/3583ea03-525f-4c70-9d7e-ccc6002ee9e1.jpg?1675957169|https://scryfall.com/card/one/187/titanic-growth?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1145
+#: ../../ONE.rst:1143
 msgid "Target creature gets +4/+4 until end of turn."
 msgstr ""
 
-#: ../../ONE.rst:1152
+#: ../../ONE.rst:1150
 msgid ":mtgtip:`Tyrranax Atrocity<https://cards.scryfall.io/border_crop/front/1/5/157cf43c-f7f2-4362-bfc8-11682e94b747.jpg?1675957171|https://scryfall.com/card/one/188/tyrranax-atrocity?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1151
-#: ../../ONE.rst:1177
+#: ../../ONE.rst:1149
+#: ../../ONE.rst:1175
 msgid "Toxic 3 (Players dealt combat damage by this creature also get three poison counters.)"
 msgstr ""
 
-#: ../../ONE.rst:1160
+#: ../../ONE.rst:1158
 msgid ":mtgtip:`Tyrranax Rex<https://cards.scryfall.io/border_crop/front/0/f/0fb52b44-da5f-4f7a-a6c2-7924b855e051.jpg?1675957171|https://scryfall.com/card/one/189/tyrranax-rex?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1157
+#: ../../ONE.rst:1155
 msgid "Trample, ward |mana_4|, haste"
 msgstr ""
 
-#: ../../ONE.rst:1159
+#: ../../ONE.rst:1157
 msgid "Toxic 4 (Players dealt combat damage by this creature also get four poison counters.)"
 msgstr ""
 
-#: ../../ONE.rst:1164
+#: ../../ONE.rst:1162
 msgid ":mtgtip:`Tyvar's Stand<https://cards.scryfall.io/border_crop/front/c/7/c7b362a5-382a-4016-b4f2-aa7b683354c4.jpg?1675957174|https://scryfall.com/card/one/190/tyvars-stand?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1163
+#: ../../ONE.rst:1161
 msgid "Target creature you control gets +X/+X and gains hexproof and indestructible until end of turn. (A creature with hexproof and indestructible can't be the target of spells or abilities your opponents control. Damage and effects that say \"destroy\" don't destroy it.)"
 msgstr ""
 
-#: ../../ONE.rst:1168
+#: ../../ONE.rst:1166
 msgid ":mtgtip:`Unnatural Restoration<https://cards.scryfall.io/border_crop/front/4/d/4d4e6a91-59cc-4f7f-af25-16acabdafb1a.jpg?1675957174|https://scryfall.com/card/one/191/unnatural-restoration?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1167
+#: ../../ONE.rst:1165
 msgid "Return target permanent card from your graveyard to your hand. Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
 msgstr ""
 
-#: ../../ONE.rst:1174
+#: ../../ONE.rst:1172
 msgid ":mtgtip:`Venerated Rotpriest<https://cards.scryfall.io/border_crop/front/d/1/d1b032e3-14e3-48ba-ab8a-d2b4f8d31a7d.jpg?1675957177|https://scryfall.com/card/one/192/venerated-rotpriest?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1173
+#: ../../ONE.rst:1171
 msgid "Whenever a creature you control becomes the target of a spell, target opponent gets a poison counter."
 msgstr ""
 
-#: ../../ONE.rst:1180
+#: ../../ONE.rst:1178
 msgid ":mtgtip:`Venomous Brutalizer<https://cards.scryfall.io/border_crop/front/d/d/dd9df44a-a0ab-435f-914c-aa11cd88f4ec.jpg?1675957178|https://scryfall.com/card/one/193/venomous-brutalizer?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1179
+#: ../../ONE.rst:1177
 msgid "When Venomous Brutalizer enters the battlefield, you may pay |mana_1|\\ |mana_g|. If you do, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
 msgstr ""
 
-#: ../../ONE.rst:1186
-msgid ":mtgtip:`Viral Spawning<https://cards.scryfall.io/border_crop/front/8/5/85ad30a1-3ecc-42ca-afe8-85df5bad9196.jpg?1676398993|https://scryfall.com/card/one/194/viral-spawning?utm_source=api>`"
+#: ../../ONE.rst:1184
+msgid ":mtgtip:`Viral Spawning<https://cards.scryfall.io/border_crop/front/8/5/85ad30a1-3ecc-42ca-afe8-85df5bad9196.jpg?1680795489|https://scryfall.com/card/one/194/viral-spawning?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1183
+#: ../../ONE.rst:1181
 msgid "Create a 3/3 green Phyrexian Beast creature token with toxic 1. (Players dealt combat damage by it also get a poison counter.)"
 msgstr ""
 
-#: ../../ONE.rst:1185
+#: ../../ONE.rst:1183
 msgid "Corrupted — As long as an opponent has three or more poison counters and Viral Spawning is in your graveyard, it has flashback |mana_2|\\ |mana_g|. (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
 
-#: ../../ONE.rst:1194
+#: ../../ONE.rst:1192
 msgid ":mtgtip:`Zopandrel, Hunger Dominus<https://cards.scryfall.io/border_crop/front/f/b/fb419d9d-e06f-48c8-a4f8-a57f9be39e50.jpg?1675957181|https://scryfall.com/card/one/195/zopandrel-hunger-dominus?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1191
+#: ../../ONE.rst:1189
 msgid "At the beginning of each combat, double the power and toughness of each creature you control until end of turn."
 msgstr ""
 
-#: ../../ONE.rst:1193
+#: ../../ONE.rst:1191
 msgid "|mana_gp|\\ |mana_gp|, Sacrifice two other creatures: Put an indestructible counter on Zopandrel, Hunger Dominus. (|mana_gp| can be paid with either |mana_g| or 2 life.)"
 msgstr ""
 
-#: ../../ONE.rst:1200
+#: ../../ONE.rst:1198
 msgid ":mtgtip:`Atraxa, Grand Unifier<https://cards.scryfall.io/border_crop/front/4/a/4a1f905f-1d55-4d02-9d24-e58070793d3f.jpg?1676519555|https://scryfall.com/card/one/196/atraxa-grand-unifier?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1197
+#: ../../ONE.rst:1195
 msgid "Flying, vigilance, deathtouch, lifelink"
 msgstr ""
 
-#: ../../ONE.rst:1199
+#: ../../ONE.rst:1197
 msgid "When Atraxa, Grand Unifier enters the battlefield, reveal the top ten cards of your library. For each card type, you may put a card of that type from among the revealed cards into your hand. Put the rest on the bottom of your library in a random order. (Artifact, battle, creature, enchantment, instant, land, planeswalker, and sorcery are card types.)"
 msgstr ""
 
-#: ../../ONE.rst:1210
+#: ../../ONE.rst:1208
 msgid ":mtgtip:`Bladehold War-Whip<https://cards.scryfall.io/border_crop/front/5/6/563e9ba5-e0ec-4fb3-8301-689aa145cc19.jpg?1675957183|https://scryfall.com/card/one/197/bladehold-war-whip?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1205
+#: ../../ONE.rst:1203
 msgid "Equip abilities you activate of other Equipment cost |mana_1| less to activate."
 msgstr ""
 
-#: ../../ONE.rst:1207
+#: ../../ONE.rst:1205
 msgid "Equipped creature has double strike."
 msgstr ""
 
-#: ../../ONE.rst:1209
+#: ../../ONE.rst:1207
 msgid "Equip |mana_3|\\ |mana_r|\\ |mana_w|"
 msgstr ""
 
-#: ../../ONE.rst:1216
+#: ../../ONE.rst:1214
 msgid ":mtgtip:`Cephalopod Sentry<https://cards.scryfall.io/border_crop/front/3/0/30c22eb9-5056-4c0b-a5d8-41e09161eb40.jpg?1675957185|https://scryfall.com/card/one/198/cephalopod-sentry?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1215
+#: ../../ONE.rst:1213
 msgid "Cephalopod Sentry's power is equal to the number of artifacts you control."
 msgstr ""
 
-#: ../../ONE.rst:1224
+#: ../../ONE.rst:1222
 msgid ":mtgtip:`Charforger<https://cards.scryfall.io/border_crop/front/4/5/45db6b46-c4b4-4684-8a49-53a64ffc82f2.jpg?1675957186|https://scryfall.com/card/one/199/charforger?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1219
+#: ../../ONE.rst:1217
 msgid "When Charforger enters the battlefield, create a 1/1 red Phyrexian Goblin creature token."
 msgstr ""
 
-#: ../../ONE.rst:1221
+#: ../../ONE.rst:1219
 msgid "Whenever another creature or artifact you control is put into a graveyard from the battlefield, put an oil counter on Charforger."
 msgstr ""
 
-#: ../../ONE.rst:1223
+#: ../../ONE.rst:1221
 msgid "Remove three oil counters from Charforger: Exile the top card of your library. You may play that card this turn."
 msgstr ""
 
-#: ../../ONE.rst:1232
+#: ../../ONE.rst:1230
 msgid ":mtgtip:`Cinderslash Ravager<https://cards.scryfall.io/border_crop/front/e/e/eee24300-fff8-4405-9629-9f62b4a839ef.jpg?1675957188|https://scryfall.com/card/one/200/cinderslash-ravager?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1227
+#: ../../ONE.rst:1225
 msgid "This spell costs |mana_1| less to cast for each permanent you control with oil counters on it."
 msgstr ""
 
-#: ../../ONE.rst:1231
+#: ../../ONE.rst:1229
 msgid "When Cinderslash Ravager enters the battlefield, it deals 1 damage to each creature your opponents control."
 msgstr ""
 
-#: ../../ONE.rst:1238
+#: ../../ONE.rst:1236
 msgid ":mtgtip:`Ezuri, Stalker of Spheres<https://cards.scryfall.io/border_crop/front/d/3/d38961ce-0257-412f-acec-c5c9886061f8.jpg?1675957189|https://scryfall.com/card/one/201/ezuri-stalker-of-spheres?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1235
+#: ../../ONE.rst:1233
 msgid "When Ezuri, Stalker of Spheres enters the battlefield, you may pay |mana_3|. If you do, proliferate twice."
 msgstr ""
 
-#: ../../ONE.rst:1237
+#: ../../ONE.rst:1235
 msgid "Whenever you proliferate, draw a card."
 msgstr ""
 
-#: ../../ONE.rst:1250
+#: ../../ONE.rst:1248
 msgid ":mtgtip:`Glissa Sunslayer<https://cards.scryfall.io/border_crop/front/b/2/b2bf633e-0470-4b87-99ed-5ad1683b0954.jpg?1675957191|https://scryfall.com/card/one/202/glissa-sunslayer?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1241
+#: ../../ONE.rst:1239
 msgid "First strike, deathtouch"
 msgstr ""
 
-#: ../../ONE.rst:1243
+#: ../../ONE.rst:1241
 msgid "Whenever Glissa Sunslayer deals combat damage to a player, choose one —"
 msgstr ""
 
-#: ../../ONE.rst:1245
+#: ../../ONE.rst:1243
 msgid "You draw a card and you lose 1 life."
 msgstr ""
 
-#: ../../ONE.rst:1249
+#: ../../ONE.rst:1247
 msgid "Remove up to three counters from target permanent."
 msgstr ""
 
-#: ../../ONE.rst:1256
+#: ../../ONE.rst:1254
 msgid ":mtgtip:`Jor Kadeen, First Goldwarden<https://cards.scryfall.io/border_crop/front/e/7/e7e4d8f7-874d-4b2a-ad23-afab479784ea.jpg?1675957193|https://scryfall.com/card/one/203/jor-kadeen-first-goldwarden?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1255
+#: ../../ONE.rst:1253
 msgid "Whenever Jor Kadeen, First Goldwarden attacks, it gets +X/+X until end of turn, where X is the number of equipped creatures you control. Then if Jor Kadeen's power is 4 or greater, draw a card."
 msgstr ""
 
-#: ../../ONE.rst:1266
+#: ../../ONE.rst:1264
 msgid ":mtgtip:`Kaito, Dancing Shadow<https://cards.scryfall.io/border_crop/front/0/d/0d97f59a-07b8-47ef-aa88-d94f8c3feae4.jpg?1675957193|https://scryfall.com/card/one/204/kaito-dancing-shadow?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1259
+#: ../../ONE.rst:1257
 msgid "Whenever one or more creatures you control deal combat damage to a player, you may return one of them to its owner's hand. If you do, you may activate loyalty abilities of Kaito twice this turn rather than only once."
 msgstr ""
 
-#: ../../ONE.rst:1261
+#: ../../ONE.rst:1259
 msgid "+1: Up to one target creature can't attack or block until your next turn."
 msgstr ""
 
-#: ../../ONE.rst:1263
+#: ../../ONE.rst:1261
 msgid "0: Draw a card."
 msgstr ""
 
-#: ../../ONE.rst:1265
+#: ../../ONE.rst:1263
 msgid "−2: Create a 2/2 colorless Drone artifact creature token with deathtouch and \"When this creature leaves the battlefield, each opponent loses 2 life and you gain 2 life.\""
 msgstr ""
 
-#: ../../ONE.rst:1276
+#: ../../ONE.rst:1274
 msgid ":mtgtip:`Kaya, Intangible Slayer<https://cards.scryfall.io/border_crop/front/6/8/6865b8c7-b260-48e8-a905-64cbf06b7e57.jpg?1675957195|https://scryfall.com/card/one/205/kaya-intangible-slayer?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1269
+#: ../../ONE.rst:1267
 msgid "Hexproof"
 msgstr ""
 
-#: ../../ONE.rst:1271
+#: ../../ONE.rst:1269
 msgid "+2: Each opponent loses 3 life and you gain 3 life."
 msgstr ""
 
-#: ../../ONE.rst:1273
+#: ../../ONE.rst:1271
 msgid "0: You draw two cards. Then each opponent may scry 1."
 msgstr ""
 
-#: ../../ONE.rst:1275
+#: ../../ONE.rst:1273
 msgid "−3: Exile target creature or enchantment. If it wasn't an Aura, create a token that's a copy of it, except it's a 1/1 white Spirit creature with flying in addition to its other types."
 msgstr ""
 
-#: ../../ONE.rst:1280
+#: ../../ONE.rst:1278
 msgid ":mtgtip:`Kethek, Crucible Goliath<https://cards.scryfall.io/border_crop/front/4/1/4152a5a8-e5a1-46b0-8f75-b9ac341da474.jpg?1675957198|https://scryfall.com/card/one/206/kethek-crucible-goliath?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1279
+#: ../../ONE.rst:1277
 msgid "At the beginning of your end step, you may sacrifice another creature. If you do, reveal cards from the top of your library until you reveal a nonlegendary creature card with lesser mana value, put it onto the battlefield, then put the rest on the bottom of your library in a random order."
 msgstr ""
 
-#: ../../ONE.rst:1290
+#: ../../ONE.rst:1288
 msgid ":mtgtip:`Lukka, Bound to Ruin<https://cards.scryfall.io/border_crop/front/6/d/6df77017-c4a7-4b79-a16b-26463bd6a96a.jpg?1675957198|https://scryfall.com/card/one/207/lukka-bound-to-ruin?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1283
+#: ../../ONE.rst:1281
 msgid "Compleated ({R/G/P} can be paid with |mana_r|, |mana_g|, or 2 life. If life was paid, this planeswalker enters with two fewer loyalty counters.)"
 msgstr ""
 
-#: ../../ONE.rst:1285
+#: ../../ONE.rst:1283
 msgid "+1: Add |mana_r|\\ |mana_g|. Spend this mana only to cast creature spells or activate abilities of creatures."
 msgstr ""
 
-#: ../../ONE.rst:1287
+#: ../../ONE.rst:1285
 msgid "−1: Create a 3/3 green Phyrexian Beast creature token with toxic 1."
 msgstr ""
 
-#: ../../ONE.rst:1289
+#: ../../ONE.rst:1287
 msgid "−4: Lukka deals X damage divided as you choose among any number of target creatures and/or planeswalkers, where X is the greatest power among creatures you controlled as you activated this ability."
 msgstr ""
 
-#: ../../ONE.rst:1296
+#: ../../ONE.rst:1294
 msgid ":mtgtip:`Malcator, Purity Overseer<https://cards.scryfall.io/border_crop/front/3/6/36bda977-e5d1-4813-a5f5-265023965142.jpg?1675957200|https://scryfall.com/card/one/208/malcator-purity-overseer?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1293
+#: ../../ONE.rst:1291
 msgid "When Malcator, Purity Overseer enters the battlefield, create a 3/3 colorless Phyrexian Golem artifact creature token."
 msgstr ""
 
-#: ../../ONE.rst:1295
+#: ../../ONE.rst:1293
 msgid "At the beginning of your end step, if three or more artifacts entered the battlefield under your control this turn, create a 3/3 colorless Phyrexian Golem artifact creature token."
 msgstr ""
 
-#: ../../ONE.rst:1302
+#: ../../ONE.rst:1300
 msgid ":mtgtip:`Melira, the Living Cure<https://cards.scryfall.io/border_crop/front/e/1/e1329ad9-5989-4920-b17b-943b9b4a0cd9.jpg?1675957200|https://scryfall.com/card/one/209/melira-the-living-cure?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1299
+#: ../../ONE.rst:1297
 msgid "If you would get one or more poison counters, instead you get one poison counter and you can't get additional poison counters this turn."
 msgstr ""
 
-#: ../../ONE.rst:1301
+#: ../../ONE.rst:1299
 msgid "Exile Melira, the Living Cure: Choose another target creature or artifact. When it's put into a graveyard this turn, return that card to the battlefield under its owner's control."
 msgstr ""
 
-#: ../../ONE.rst:1312
+#: ../../ONE.rst:1310
 msgid ":mtgtip:`Migloz, Maze Crusher<https://cards.scryfall.io/border_crop/front/c/1/c1171899-07d8-4e60-a79b-f162f59dc3ce.jpg?1675957202|https://scryfall.com/card/one/210/migloz-maze-crusher?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1305
+#: ../../ONE.rst:1303
 msgid "Migloz, Maze Crusher enters the battlefield with five oil counters on it."
 msgstr ""
 
-#: ../../ONE.rst:1307
+#: ../../ONE.rst:1305
 msgid "|mana_1|, Remove an oil counter from Migloz: It gains vigilance and menace until end of turn."
 msgstr ""
 
-#: ../../ONE.rst:1309
+#: ../../ONE.rst:1307
 msgid "|mana_2|, Remove two oil counters from Migloz: It gets +2/+2 until end of turn."
 msgstr ""
 
-#: ../../ONE.rst:1311
+#: ../../ONE.rst:1309
 msgid "|mana_3|, Remove three oil counters from Migloz: Destroy target artifact or enchantment."
 msgstr ""
 
-#: ../../ONE.rst:1322
+#: ../../ONE.rst:1320
 msgid ":mtgtip:`Nahiri, the Unforgiving<https://cards.scryfall.io/border_crop/front/5/7/578e35b9-7252-4767-a1f3-aecd71256515.jpg?1675957205|https://scryfall.com/card/one/211/nahiri-the-unforgiving?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1315
+#: ../../ONE.rst:1313
 msgid "Compleated ({R/W/P} can be paid with |mana_r|, |mana_w|, or 2 life. If life was paid, this planeswalker enters with two fewer loyalty counters.)"
 msgstr ""
 
-#: ../../ONE.rst:1317
+#: ../../ONE.rst:1315
 msgid "+1: Until your next turn, up to one target creature attacks a player each combat if able."
 msgstr ""
 
-#: ../../ONE.rst:1319
+#: ../../ONE.rst:1317
 msgid "+1: Discard a card, then draw a card."
 msgstr ""
 
-#: ../../ONE.rst:1321
+#: ../../ONE.rst:1319
 msgid "0: Exile target creature or Equipment card with mana value less than Nahiri's loyalty from your graveyard. Create a token that's a copy of it. That token gains haste. Exile it at the beginning of the next end step."
 msgstr ""
 
-#: ../../ONE.rst:1330
+#: ../../ONE.rst:1328
 msgid ":mtgtip:`Necrogen Rotpriest<https://cards.scryfall.io/border_crop/front/8/7/87519b36-1d95-4020-a61d-6afb75555e3e.jpg?1675957207|https://scryfall.com/card/one/212/necrogen-rotpriest?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1327
+#: ../../ONE.rst:1325
 msgid "Whenever a creature you control with toxic deals combat damage to a player, that player gets an additional poison counter."
 msgstr ""
 
-#: ../../ONE.rst:1329
+#: ../../ONE.rst:1327
 msgid "|mana_1|\\ |mana_b|\\ |mana_g|: Target creature you control with toxic gains deathtouch until end of turn."
 msgstr ""
 
-#: ../../ONE.rst:1338
+#: ../../ONE.rst:1336
 msgid ":mtgtip:`Ovika, Enigma Goliath<https://cards.scryfall.io/border_crop/front/b/2/b298cf34-7aa5-4f97-a86c-7f28d2113b87.jpg?1675957207|https://scryfall.com/card/one/213/ovika-enigma-goliath?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1335
+#: ../../ONE.rst:1333
 msgid "Ward—|mana_3|, Pay 3 life."
 msgstr ""
 
-#: ../../ONE.rst:1337
+#: ../../ONE.rst:1335
 msgid "Whenever you cast a noncreature spell, create X 1/1 red Phyrexian Goblin creature tokens, where X is the mana value of that spell. They gain haste until end of turn."
 msgstr ""
 
-#: ../../ONE.rst:1344
+#: ../../ONE.rst:1342
 msgid ":mtgtip:`Ria Ivor, Bane of Bladehold<https://cards.scryfall.io/border_crop/front/f/7/f7531ed3-235f-4368-98a8-e4e1947c53fb.jpg?1675957209|https://scryfall.com/card/one/214/ria-ivor-bane-of-bladehold?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1341
+#: ../../ONE.rst:1339
 msgid "Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)"
 msgstr ""
 
-#: ../../ONE.rst:1343
+#: ../../ONE.rst:1341
 msgid "At the beginning of combat on your turn, the next time target creature would deal combat damage to one or more players this combat, prevent that damage. If damage is prevented this way, create that many 1/1 colorless Phyrexian Mite artifact creature tokens with toxic 1 and \"This creature can't block.\""
 msgstr ""
 
-#: ../../ONE.rst:1352
+#: ../../ONE.rst:1350
 msgid ":mtgtip:`Serum-Core Chimera<https://cards.scryfall.io/border_crop/front/3/1/31147651-9a5e-4329-923b-e464f67135e9.jpg?1675957210|https://scryfall.com/card/one/215/serum-core-chimera?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1349
+#: ../../ONE.rst:1347
 msgid "Whenever you cast a noncreature spell, put an oil counter on Serum-Core Chimera."
 msgstr ""
 
-#: ../../ONE.rst:1351
+#: ../../ONE.rst:1349
 msgid "Remove three oil counters from Serum-Core Chimera: Draw a card. Then you may discard a nonland card. When you discard a card this way, Serum-Core Chimera deals 3 damage to target creature or planeswalker. Activate only as a sorcery."
 msgstr ""
 
-#: ../../ONE.rst:1358
+#: ../../ONE.rst:1356
 msgid ":mtgtip:`Slaughter Singer<https://cards.scryfall.io/border_crop/front/4/a/4a37aa46-bcf3-48a5-9f74-05e4878ad96f.jpg?1675957213|https://scryfall.com/card/one/216/slaughter-singer?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1357
+#: ../../ONE.rst:1355
 msgid "Whenever another creature you control with toxic attacks, it gets +1/+1 until end of turn."
 msgstr ""
 
-#: ../../ONE.rst:1366
+#: ../../ONE.rst:1364
 msgid ":mtgtip:`Tainted Observer<https://cards.scryfall.io/border_crop/front/b/9/b9cba67a-b714-49b0-9797-24aca283f162.jpg?1675957214|https://scryfall.com/card/one/217/tainted-observer?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1365
+#: ../../ONE.rst:1363
 msgid "Whenever another creature enters the battlefield under your control, you may pay |mana_2|. If you do, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
 msgstr ""
 
-#: ../../ONE.rst:1374
+#: ../../ONE.rst:1372
 msgid ":mtgtip:`Tyvar, Jubilant Brawler<https://cards.scryfall.io/border_crop/front/6/6/66605fe1-9a20-4c95-b53e-1249cedb978b.jpg?1675957216|https://scryfall.com/card/one/218/tyvar-jubilant-brawler?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1369
+#: ../../ONE.rst:1367
 msgid "You may activate abilities of creatures you control as though those creatures had haste."
 msgstr ""
 
-#: ../../ONE.rst:1371
+#: ../../ONE.rst:1369
 msgid "+1: Untap up to one target creature."
 msgstr ""
 
-#: ../../ONE.rst:1373
+#: ../../ONE.rst:1371
 msgid "−2: Mill three cards, then you may return a creature card with mana value 2 or less from your graveyard to the battlefield."
 msgstr ""
 
-#: ../../ONE.rst:1384
+#: ../../ONE.rst:1382
 msgid ":mtgtip:`Venser, Corpse Puppet<https://cards.scryfall.io/border_crop/front/1/b/1b5b94b8-0420-40f2-b989-39cb43cff916.jpg?1675957216|https://scryfall.com/card/one/219/venser-corpse-puppet?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1377
+#: ../../ONE.rst:1375
 msgid "Lifelink, toxic 1"
 msgstr ""
 
-#: ../../ONE.rst:1379
+#: ../../ONE.rst:1377
 msgid "Whenever you proliferate, choose one —"
 msgstr ""
 
-#: ../../ONE.rst:1381
+#: ../../ONE.rst:1379
 msgid "If you don't control a creature named The Hollow Sentinel, create The Hollow Sentinel, a legendary 3/3 colorless Phyrexian Golem artifact creature token."
 msgstr ""
 
-#: ../../ONE.rst:1383
+#: ../../ONE.rst:1381
 msgid "Target artifact creature you control gains flying and lifelink until end of turn."
 msgstr ""
 
-#: ../../ONE.rst:1390
+#: ../../ONE.rst:1388
 msgid ":mtgtip:`Vivisection Evangelist<https://cards.scryfall.io/border_crop/front/6/2/626c46a3-72b8-4e04-adf2-c9c7aaf94f04.jpg?1675957217|https://scryfall.com/card/one/220/vivisection-evangelist?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1389
+#: ../../ONE.rst:1387
 msgid "Corrupted — When Vivisection Evangelist enters the battlefield, if an opponent has three or more poison counters, destroy target creature or planeswalker an opponent controls."
 msgstr ""
 
-#: ../../ONE.rst:1398
+#: ../../ONE.rst:1396
 msgid ":mtgtip:`Voidwing Hybrid<https://cards.scryfall.io/border_crop/front/8/a/8a48705f-bd8a-43f1-b1fe-14a5c9a83ccd.jpg?1675957222|https://scryfall.com/card/one/221/voidwing-hybrid?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1397
+#: ../../ONE.rst:1395
 msgid "When you proliferate, return Voidwing Hybrid from your graveyard to your hand."
 msgstr ""
 
-#: ../../ONE.rst:1404
+#: ../../ONE.rst:1402
 msgid ":mtgtip:`Argentum Masticore<https://cards.scryfall.io/border_crop/front/9/7/9746e3ab-c0a6-46c1-a418-275b419962e4.jpg?1675957222|https://scryfall.com/card/one/222/argentum-masticore?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1401
+#: ../../ONE.rst:1399
 msgid "First strike, protection from multicolored"
 msgstr ""
 
-#: ../../ONE.rst:1403
+#: ../../ONE.rst:1401
 msgid "At the beginning of your upkeep, sacrifice Argentum Masticore unless you discard a card. When you discard a card this way, destroy target nonland permanent an opponent controls with mana value less than or equal to the mana value of the discarded card."
 msgstr ""
 
-#: ../../ONE.rst:1410
+#: ../../ONE.rst:1408
 msgid ":mtgtip:`Atraxa's Skitterfang<https://cards.scryfall.io/border_crop/front/c/d/cdedebad-f71e-4434-871e-5bbbd3c07a12.jpg?1675957223|https://scryfall.com/card/one/223/atraxas-skitterfang?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1407
+#: ../../ONE.rst:1405
 msgid "Atraxa's Skitterfang enters the battlefield with three oil counters on it."
 msgstr ""
 
-#: ../../ONE.rst:1409
+#: ../../ONE.rst:1407
 msgid "At the beginning of combat on your turn, you may remove an oil counter from Atraxa's Skitterfang. When you do, target creature you control gains your choice of flying, vigilance, deathtouch, or lifelink until end of turn."
 msgstr ""
 
-#: ../../ONE.rst:1416
+#: ../../ONE.rst:1414
 msgid ":mtgtip:`Basilica Skullbomb<https://cards.scryfall.io/border_crop/front/8/e/8e2f0ae2-db68-4338-93f9-9d9268cec41e.jpg?1675957224|https://scryfall.com/card/one/224/basilica-skullbomb?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1413
+#: ../../ONE.rst:1411
 msgid "|mana_1|, Sacrifice Basilica Skullbomb: Draw a card."
 msgstr ""
 
-#: ../../ONE.rst:1415
+#: ../../ONE.rst:1413
 msgid "|mana_2|\\ |mana_w|, Sacrifice Basilica Skullbomb: Target creature you control gets +2/+2 and gains flying until end of turn. Draw a card. Activate only as a sorcery."
 msgstr ""
 
-#: ../../ONE.rst:1422
+#: ../../ONE.rst:1420
 msgid ":mtgtip:`Dross Skullbomb<https://cards.scryfall.io/border_crop/front/6/6/66270dd2-9139-4329-9621-852962836688.jpg?1675957225|https://scryfall.com/card/one/225/dross-skullbomb?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1419
+#: ../../ONE.rst:1417
 msgid "|mana_1|, Sacrifice Dross Skullbomb: Draw a card."
 msgstr ""
 
-#: ../../ONE.rst:1421
+#: ../../ONE.rst:1419
 msgid "|mana_2|\\ |mana_b|, Sacrifice Dross Skullbomb: Return target creature card from your graveyard to your hand. Draw a card. Activate only as a sorcery."
 msgstr ""
 
-#: ../../ONE.rst:1428
+#: ../../ONE.rst:1426
 msgid ":mtgtip:`Dune Mover<https://cards.scryfall.io/border_crop/front/2/9/29d2c689-af37-433a-a012-e8d384702811.jpg?1675957228|https://scryfall.com/card/one/226/dune-mover?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1427
+#: ../../ONE.rst:1425
 msgid "When Dune Mover enters the battlefield, you may search your library for a basic land card, reveal it, then shuffle and put that card on top."
 msgstr ""
 
-#: ../../ONE.rst:1436
+#: ../../ONE.rst:1434
 msgid ":mtgtip:`The Filigree Sylex<https://cards.scryfall.io/border_crop/front/6/e/6e0958a1-1bac-48be-888d-f7573f409a9b.jpg?1675957230|https://scryfall.com/card/one/227/the-filigree-sylex?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1431
+#: ../../ONE.rst:1429
 msgid "|tap|: Put an oil counter on The Filigree Sylex."
 msgstr ""
 
-#: ../../ONE.rst:1433
+#: ../../ONE.rst:1431
 msgid "|tap|, Sacrifice The Filigree Sylex: Destroy each nonland permanent with mana value equal to the number of oil counters on The Filigree Sylex."
 msgstr ""
 
-#: ../../ONE.rst:1435
+#: ../../ONE.rst:1433
 msgid "|tap|, Remove ten oil counters from among permanents you control and sacrifice The Filigree Sylex: It deals 10 damage to any target."
 msgstr ""
 
-#: ../../ONE.rst:1442
+#: ../../ONE.rst:1440
 msgid ":mtgtip:`Furnace Skullbomb<https://cards.scryfall.io/border_crop/front/c/b/cb530f9d-cf35-48a7-8711-f74b3d9a35a7.jpg?1675957232|https://scryfall.com/card/one/228/furnace-skullbomb?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1439
+#: ../../ONE.rst:1437
 msgid "|mana_1|, Sacrifice Furnace Skullbomb: Draw a card."
 msgstr ""
 
-#: ../../ONE.rst:1441
+#: ../../ONE.rst:1439
 msgid "|mana_1|\\ |mana_r|, Sacrifice Furnace Skullbomb: Put two oil counters on target artifact or creature you control. Draw a card. Activate only as a sorcery."
 msgstr ""
 
-#: ../../ONE.rst:1450
+#: ../../ONE.rst:1448
 msgid ":mtgtip:`Graaz, Unstoppable Juggernaut<https://cards.scryfall.io/border_crop/front/e/0/e0e73b63-17cc-4dca-abd6-728b74bc37a8.jpg?1675957233|https://scryfall.com/card/one/229/graaz-unstoppable-juggernaut?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1445
+#: ../../ONE.rst:1443
 msgid "Juggernauts you control attack each combat if able."
 msgstr ""
 
-#: ../../ONE.rst:1447
+#: ../../ONE.rst:1445
 msgid "Juggernauts you control can't be blocked by Walls."
 msgstr ""
 
-#: ../../ONE.rst:1449
+#: ../../ONE.rst:1447
 msgid "Other creatures you control have base power and toughness 5/3 and are Juggernauts in addition to their other creature types."
 msgstr ""
 
-#: ../../ONE.rst:1456
+#: ../../ONE.rst:1454
 msgid ":mtgtip:`Ichorplate Golem<https://cards.scryfall.io/border_crop/front/e/5/e555abb1-ffd4-4143-9be8-ec8a758f5c2a.jpg?1675957234|https://scryfall.com/card/one/230/ichorplate-golem?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1453
+#: ../../ONE.rst:1451
 msgid "Whenever a creature enters the battlefield under your control, if it has one or more oil counters on it, put an oil counter on it."
 msgstr ""
 
-#: ../../ONE.rst:1455
+#: ../../ONE.rst:1453
 msgid "Creatures you control with oil counters on them get +1/+1."
 msgstr ""
 
-#: ../../ONE.rst:1462
+#: ../../ONE.rst:1460
 msgid ":mtgtip:`Maze Skullbomb<https://cards.scryfall.io/border_crop/front/1/0/1073aee2-aea6-473d-97c6-248778d79d80.jpg?1675957236|https://scryfall.com/card/one/231/maze-skullbomb?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1459
+#: ../../ONE.rst:1457
 msgid "|mana_1|, Sacrifice Maze Skullbomb: Draw a card."
 msgstr ""
 
-#: ../../ONE.rst:1461
+#: ../../ONE.rst:1459
 msgid "|mana_2|\\ |mana_g|, Sacrifice Maze Skullbomb: Target creature you control gets +3/+3 and gains trample until end of turn. Draw a card. Activate only as a sorcery."
 msgstr ""
 
-#: ../../ONE.rst:1466
+#: ../../ONE.rst:1464
 msgid ":mtgtip:`Mirran Safehouse<https://cards.scryfall.io/border_crop/front/d/7/d76fe2f2-ce2c-49e4-9f00-89c82f2fae8d.jpg?1675957237|https://scryfall.com/card/one/232/mirran-safehouse?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1465
+#: ../../ONE.rst:1463
 msgid "As long as Mirran Safehouse is on the battlefield, it has all activated abilities of all land cards in all graveyards."
 msgstr ""
 
-#: ../../ONE.rst:1472
+#: ../../ONE.rst:1470
 msgid ":mtgtip:`Monument to Perfection<https://cards.scryfall.io/border_crop/front/a/b/ab892e7b-6797-4ede-ab5d-d9d0fa488c80.jpg?1675957240|https://scryfall.com/card/one/233/monument-to-perfection?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1469
+#: ../../ONE.rst:1467
 msgid "|mana_3|, |tap|: Search your library for a basic, Sphere, or Locus land card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
-#: ../../ONE.rst:1471
+#: ../../ONE.rst:1469
 msgid "|mana_3|: Monument to Perfection becomes a 9/9 Phyrexian Construct artifact creature, loses all abilities, and gains indestructible and toxic 9. Activate only if there are nine or more lands with different names among the basic, Sphere, and Locus lands you control."
 msgstr ""
 
-#: ../../ONE.rst:1478
+#: ../../ONE.rst:1476
 msgid ":mtgtip:`Myr Convert<https://cards.scryfall.io/border_crop/front/9/d/9df0adcf-7ad0-4d70-8dcd-28f69471495b.jpg?1675957241|https://scryfall.com/card/one/234/myr-convert?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1477
-#: ../../ONE.rst:1523
+#: ../../ONE.rst:1475
+#: ../../ONE.rst:1521
 msgid "|tap|, Pay 2 life: Add one mana of any color."
 msgstr ""
 
-#: ../../ONE.rst:1482
+#: ../../ONE.rst:1480
 msgid ":mtgtip:`Myr Custodian<https://cards.scryfall.io/border_crop/front/5/6/56bfdd21-4d46-4ec2-ba25-f16b6993f1a8.jpg?1675957243|https://scryfall.com/card/one/235/myr-custodian?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1481
+#: ../../ONE.rst:1479
 msgid "When Myr Custodian enters the battlefield, scry 2. Then each opponent may scry 1. (To scry X, that player looks at the top X cards of their library, then put any number of them on the bottom and the rest on top in any order.)"
 msgstr ""
 
-#: ../../ONE.rst:1486
+#: ../../ONE.rst:1484
 msgid ":mtgtip:`Myr Kinsmith<https://cards.scryfall.io/border_crop/front/6/0/6046e50a-f4c9-4029-a589-62a19371b734.jpg?1675957244|https://scryfall.com/card/one/236/myr-kinsmith?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1485
+#: ../../ONE.rst:1483
 msgid "When Myr Kinsmith enters the battlefield, you may search your library for a Myr card, reveal it, put it into your hand, then shuffle."
 msgstr ""
 
-#: ../../ONE.rst:1492
+#: ../../ONE.rst:1490
 msgid ":mtgtip:`Phyrexian Atlas<https://cards.scryfall.io/border_crop/front/b/5/b5adb509-6ad3-4838-925d-1cafa926b83a.jpg?1675957245|https://scryfall.com/card/one/237/phyrexian-atlas?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1491
+#: ../../ONE.rst:1489
 msgid "Corrupted — Whenever Phyrexian Atlas becomes tapped, each opponent who has three or more poison counters loses 1 life."
 msgstr ""
 
-#: ../../ONE.rst:1498
+#: ../../ONE.rst:1496
 msgid ":mtgtip:`Prophetic Prism<https://cards.scryfall.io/border_crop/front/3/0/3056ac38-7630-4301-88bb-a012a5b186ed.jpg?1675957247|https://scryfall.com/card/one/238/prophetic-prism?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1495
+#: ../../ONE.rst:1493
 msgid "When Prophetic Prism enters the battlefield, draw a card."
 msgstr ""
 
-#: ../../ONE.rst:1497
-#: ../../ONE.rst:1627
+#: ../../ONE.rst:1495
+#: ../../ONE.rst:1625
 msgid "|mana_1|, |tap|: Add one mana of any color."
 msgstr ""
 
-#: ../../ONE.rst:1504
+#: ../../ONE.rst:1502
 msgid ":mtgtip:`Prosthetic Injector<https://cards.scryfall.io/border_crop/front/7/5/75a1beec-bafe-4243-b91e-040a88fb0e95.jpg?1675957249|https://scryfall.com/card/one/239/prosthetic-injector?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1501
-msgid "Equipped creature gets +0/+2 and has toxic 1. (Players dealt damage by equipped creature also get a poison counter.)"
+#: ../../ONE.rst:1499
+msgid "Equipped creature gets +0/+2 and has toxic 1. (Players dealt combat damage by equipped creature also get a poison counter.)"
 msgstr ""
 
-#: ../../ONE.rst:1503
+#: ../../ONE.rst:1501
 msgid "Equip |mana_1|"
 msgstr ""
 
-#: ../../ONE.rst:1512
+#: ../../ONE.rst:1510
 msgid ":mtgtip:`Ribskiff<https://cards.scryfall.io/border_crop/front/1/e/1ec8f984-5ed4-4b34-8b2a-a113cbba001d.jpg?1675957252|https://scryfall.com/card/one/240/ribskiff?utm_source=api>`"
 msgstr ""
 
 #: ../../ONE.rst:1507
-msgid "Toxic 2 (Players dealt combat damage by this permanent also get two poison counters.)"
-msgstr ""
-
-#: ../../ONE.rst:1509
 msgid "When Ribskiff enters the battlefield, draw a card."
 msgstr ""
 
-#: ../../ONE.rst:1518
+#: ../../ONE.rst:1516
 msgid ":mtgtip:`Soulless Jailer<https://cards.scryfall.io/border_crop/front/b/f/bf9991fd-ea6a-4ed7-b5f1-46a95f8d0634.jpg?1675957252|https://scryfall.com/card/one/241/soulless-jailer?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1515
+#: ../../ONE.rst:1513
 msgid "Permanent cards in graveyards can't enter the battlefield."
 msgstr ""
 
-#: ../../ONE.rst:1517
+#: ../../ONE.rst:1515
 msgid "Players can't cast noncreature spells from graveyards or exile."
 msgstr ""
 
-#: ../../ONE.rst:1530
+#: ../../ONE.rst:1528
 msgid ":mtgtip:`Staff of Compleation<https://cards.scryfall.io/border_crop/front/d/2/d2934af5-aa4f-4c88-adbd-dcd847ef43a2.jpg?1675957252|https://scryfall.com/card/one/242/staff-of-compleation?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1521
+#: ../../ONE.rst:1519
 msgid "|tap|, Pay 1 life: Destroy target permanent you own."
 msgstr ""
 
-#: ../../ONE.rst:1525
+#: ../../ONE.rst:1523
 msgid "|tap|, Pay 3 life: Proliferate."
 msgstr ""
 
-#: ../../ONE.rst:1527
+#: ../../ONE.rst:1525
 msgid "|tap|, Pay 4 life: Draw a card."
 msgstr ""
 
-#: ../../ONE.rst:1529
+#: ../../ONE.rst:1527
 msgid "|mana_5|: Untap Staff of Compleation."
 msgstr ""
 
-#: ../../ONE.rst:1536
+#: ../../ONE.rst:1534
 msgid ":mtgtip:`Surgical Skullbomb<https://cards.scryfall.io/border_crop/front/9/8/98c2b2af-739f-413c-8c36-da6f78df0acb.jpg?1675957256|https://scryfall.com/card/one/243/surgical-skullbomb?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1533
+#: ../../ONE.rst:1531
 msgid "|mana_1|, Sacrifice Surgical Skullbomb: Draw a card."
 msgstr ""
 
-#: ../../ONE.rst:1535
+#: ../../ONE.rst:1533
 msgid "|mana_2|\\ |mana_u|, Sacrifice Surgical Skullbomb: Return target creature to its owner's hand. Draw a card. Activate only as a sorcery."
 msgstr ""
 
-#: ../../ONE.rst:1544
+#: ../../ONE.rst:1542
 msgid ":mtgtip:`Sword of Forge and Frontier<https://cards.scryfall.io/border_crop/front/2/d/2daa3621-8a2c-4b4b-87ac-f981192a0567.jpg?1675957256|https://scryfall.com/card/one/244/sword-of-forge-and-frontier?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1539
+#: ../../ONE.rst:1537
 msgid "Equipped creature gets +2/+2 and has protection from red and from green."
 msgstr ""
 
-#: ../../ONE.rst:1541
+#: ../../ONE.rst:1539
 msgid "Whenever equipped creature deals combat damage to a player, exile the top two cards of your library. You may play those cards this turn. You may play an additional land this turn."
 msgstr ""
 
-#: ../../ONE.rst:1552
+#: ../../ONE.rst:1550
 msgid ":mtgtip:`Tablet of Compleation<https://cards.scryfall.io/border_crop/front/9/7/9747e4b0-fcf9-4f1d-b990-2a3e461adfee.jpg?1675957259|https://scryfall.com/card/one/245/tablet-of-compleation?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1547
+#: ../../ONE.rst:1545
 msgid "|tap|: Put an oil counter on Tablet of Compleation."
 msgstr ""
 
-#: ../../ONE.rst:1549
+#: ../../ONE.rst:1547
 msgid "|tap|: Add |colorless|. Activate only if Tablet of Compleation has two or more oil counters on it."
 msgstr ""
 
-#: ../../ONE.rst:1551
+#: ../../ONE.rst:1549
 msgid "|mana_1|, |tap|: Draw a card. Activate only if Tablet of Compleation has five or more oil counters on it."
 msgstr ""
 
-#: ../../ONE.rst:1556
+#: ../../ONE.rst:1554
 msgid ":mtgtip:`Zenith Chronicler<https://cards.scryfall.io/border_crop/front/1/4/1431fe83-7dc7-4c40-8d66-6525560e4323.jpg?1675957261|https://scryfall.com/card/one/246/zenith-chronicler?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1555
+#: ../../ONE.rst:1553
 msgid "Whenever a player casts their first multicolored spell each turn, each other player draws a card."
 msgstr ""
 
-#: ../../ONE.rst:1564
+#: ../../ONE.rst:1562
 msgid ":mtgtip:`The Autonomous Furnace<https://cards.scryfall.io/border_crop/front/c/1/c16f96f5-a2a6-4ac4-bdae-326cee92bf2e.jpg?1675957261|https://scryfall.com/card/one/247/the-autonomous-furnace?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1559
+#: ../../ONE.rst:1557
 msgid "The Autonomous Furnace enters the battlefield tapped."
 msgstr ""
 
-#: ../../ONE.rst:1561
+#: ../../ONE.rst:1559
 msgid "|tap|: Add |mana_r|."
 msgstr ""
 
-#: ../../ONE.rst:1563
+#: ../../ONE.rst:1561
 msgid "|mana_1|\\ |mana_r|, |tap|, Sacrifice The Autonomous Furnace: Draw a card."
 msgstr ""
 
-#: ../../ONE.rst:1570
+#: ../../ONE.rst:1568
 msgid ":mtgtip:`Blackcleave Cliffs<https://cards.scryfall.io/border_crop/front/1/4/1441fba4-fe06-4b5f-a103-aa6cf59a3859.jpg?1675957263|https://scryfall.com/card/one/248/blackcleave-cliffs?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1567
+#: ../../ONE.rst:1565
 msgid "Blackcleave Cliffs enters the battlefield tapped unless you control two or fewer other lands."
 msgstr ""
 
-#: ../../ONE.rst:1569
+#: ../../ONE.rst:1567
 msgid "|tap|: Add |mana_b| or |mana_r|."
 msgstr ""
 
-#: ../../ONE.rst:1576
+#: ../../ONE.rst:1574
 msgid ":mtgtip:`Copperline Gorge<https://cards.scryfall.io/border_crop/front/7/8/78b0f36b-7d8c-4e77-adc2-a4dad93a81d5.jpg?1675957264|https://scryfall.com/card/one/249/copperline-gorge?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1573
+#: ../../ONE.rst:1571
 msgid "Copperline Gorge enters the battlefield tapped unless you control two or fewer other lands."
 msgstr ""
 
-#: ../../ONE.rst:1575
+#: ../../ONE.rst:1573
 msgid "|tap|: Add |mana_r| or |mana_g|."
 msgstr ""
 
-#: ../../ONE.rst:1582
+#: ../../ONE.rst:1580
 msgid ":mtgtip:`Darkslick Shores<https://cards.scryfall.io/border_crop/front/b/c/bcbda15b-e49a-4445-a0e1-f221aa82c1e8.jpg?1675957267|https://scryfall.com/card/one/250/darkslick-shores?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1579
+#: ../../ONE.rst:1577
 msgid "Darkslick Shores enters the battlefield tapped unless you control two or fewer other lands."
 msgstr ""
 
-#: ../../ONE.rst:1581
+#: ../../ONE.rst:1579
 msgid "|tap|: Add |mana_u| or |mana_b|."
 msgstr ""
 
-#: ../../ONE.rst:1590
+#: ../../ONE.rst:1588
 msgid ":mtgtip:`The Dross Pits<https://cards.scryfall.io/border_crop/front/1/9/19d469f1-2219-4466-9f8a-769ee43e28db.jpg?1675957269|https://scryfall.com/card/one/251/the-dross-pits?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1585
+#: ../../ONE.rst:1583
 msgid "The Dross Pits enters the battlefield tapped."
 msgstr ""
 
-#: ../../ONE.rst:1587
+#: ../../ONE.rst:1585
 msgid "|tap|: Add |mana_b|."
 msgstr ""
 
-#: ../../ONE.rst:1589
+#: ../../ONE.rst:1587
 msgid "|mana_1|\\ |mana_b|, |tap|, Sacrifice The Dross Pits: Draw a card."
 msgstr ""
 
-#: ../../ONE.rst:1598
+#: ../../ONE.rst:1596
 msgid ":mtgtip:`The Fair Basilica<https://cards.scryfall.io/border_crop/front/0/1/01d6ba55-7bc0-41c6-84be-8cd528e46a05.jpg?1675957270|https://scryfall.com/card/one/252/the-fair-basilica?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1593
+#: ../../ONE.rst:1591
 msgid "The Fair Basilica enters the battlefield tapped."
 msgstr ""
 
-#: ../../ONE.rst:1595
+#: ../../ONE.rst:1593
 msgid "|tap|: Add |mana_w|."
 msgstr ""
 
-#: ../../ONE.rst:1597
+#: ../../ONE.rst:1595
 msgid "|mana_1|\\ |mana_w|, |tap|, Sacrifice The Fair Basilica: Draw a card."
 msgstr ""
 
-#: ../../ONE.rst:1606
+#: ../../ONE.rst:1604
 msgid ":mtgtip:`The Hunter Maze<https://cards.scryfall.io/border_crop/front/6/3/6389c242-2139-4f12-af30-2b080a1c5e83.jpg?1675957270|https://scryfall.com/card/one/253/the-hunter-maze?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1601
+#: ../../ONE.rst:1599
 msgid "The Hunter Maze enters the battlefield tapped."
 msgstr ""
 
-#: ../../ONE.rst:1603
+#: ../../ONE.rst:1601
 msgid "|tap|: Add |mana_g|."
 msgstr ""
 
-#: ../../ONE.rst:1605
+#: ../../ONE.rst:1603
 msgid "|mana_1|\\ |mana_g|, |tap|, Sacrifice The Hunter Maze: Draw a card."
 msgstr ""
 
-#: ../../ONE.rst:1614
+#: ../../ONE.rst:1612
 msgid ":mtgtip:`Mirrex<https://cards.scryfall.io/border_crop/front/5/4/54a702cd-ca49-4570-b47e-8b090452a3c3.jpg?1675957271|https://scryfall.com/card/one/254/mirrex?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1609
-#: ../../ONE.rst:1619
-#: ../../ONE.rst:1625
-#: ../../ONE.rst:1645
+#: ../../ONE.rst:1607
+#: ../../ONE.rst:1617
+#: ../../ONE.rst:1623
+#: ../../ONE.rst:1643
 msgid "|tap|: Add |colorless|."
 msgstr ""
 
-#: ../../ONE.rst:1611
+#: ../../ONE.rst:1609
 msgid "|tap|: Add one mana of any color. Activate only if Mirrex entered the battlefield this turn."
 msgstr ""
 
-#: ../../ONE.rst:1613
+#: ../../ONE.rst:1611
 msgid "|mana_3|, |tap|: Create a 1/1 colorless Phyrexian Mite artifact creature token with toxic 1 and \"This creature can't block.\" (Players dealt combat damage by it also get a poison counter.)"
 msgstr ""
 
-#: ../../ONE.rst:1622
+#: ../../ONE.rst:1620
 msgid ":mtgtip:`The Monumental Facade<https://cards.scryfall.io/border_crop/front/d/6/d6785057-0d06-4f91-b45f-c05f7c4e2b19.jpg?1675957274|https://scryfall.com/card/one/255/the-monumental-facade?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1617
+#: ../../ONE.rst:1615
 msgid "The Monumental Facade enters the battlefield with two oil counters on it."
 msgstr ""
 
-#: ../../ONE.rst:1621
+#: ../../ONE.rst:1619
 msgid "|tap|, Remove an oil counter from The Monumental Facade: Put an oil counter on target artifact or creature you control. Activate only as a sorcery."
 msgstr ""
 
-#: ../../ONE.rst:1630
+#: ../../ONE.rst:1628
 msgid ":mtgtip:`The Mycosynth Gardens<https://cards.scryfall.io/border_crop/front/5/a/5a931463-25f6-4e31-95b4-bb4a9388009b.jpg?1675957276|https://scryfall.com/card/one/256/the-mycosynth-gardens?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1629
+#: ../../ONE.rst:1627
 msgid "|mana_x|, |tap|: The Mycosynth Gardens becomes a copy of target nontoken artifact you control with mana value X."
 msgstr ""
 
-#: ../../ONE.rst:1636
+#: ../../ONE.rst:1634
 msgid ":mtgtip:`Razorverge Thicket<https://cards.scryfall.io/border_crop/front/6/5/65b26f68-3a25-4c4e-bc76-a199ab479a50.jpg?1675957278|https://scryfall.com/card/one/257/razorverge-thicket?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1633
+#: ../../ONE.rst:1631
 msgid "Razorverge Thicket enters the battlefield tapped unless you control two or fewer other lands."
 msgstr ""
 
-#: ../../ONE.rst:1635
+#: ../../ONE.rst:1633
 msgid "|tap|: Add |mana_g| or |mana_w|."
 msgstr ""
 
-#: ../../ONE.rst:1642
+#: ../../ONE.rst:1640
 msgid ":mtgtip:`Seachrome Coast<https://cards.scryfall.io/border_crop/front/9/e/9ed7441f-f624-49c8-8611-d9bba0e441ac.jpg?1675957278|https://scryfall.com/card/one/258/seachrome-coast?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1639
+#: ../../ONE.rst:1637
 msgid "Seachrome Coast enters the battlefield tapped unless you control two or fewer other lands."
 msgstr ""
 
-#: ../../ONE.rst:1641
+#: ../../ONE.rst:1639
 msgid "|tap|: Add |mana_w| or |mana_u|."
 msgstr ""
 
-#: ../../ONE.rst:1650
+#: ../../ONE.rst:1648
 msgid ":mtgtip:`The Seedcore<https://cards.scryfall.io/border_crop/front/2/9/29c91aad-bf33-448e-b122-65940fb2e33b.jpg?1675957280|https://scryfall.com/card/one/259/the-seedcore?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1647
+#: ../../ONE.rst:1645
 msgid "|tap|: Add one mana of any color. Spend this mana only to cast Phyrexian creature spells."
 msgstr ""
 
-#: ../../ONE.rst:1649
+#: ../../ONE.rst:1647
 msgid "Corrupted — |tap|: Target 1/1 creature gets +2/+1 until end of turn. Activate only if an opponent has three or more poison counters."
 msgstr ""
 
-#: ../../ONE.rst:1658
+#: ../../ONE.rst:1656
 msgid ":mtgtip:`The Surgical Bay<https://cards.scryfall.io/border_crop/front/1/b/1b49ec35-2c4f-4144-85fe-226f7cb67266.jpg?1675957281|https://scryfall.com/card/one/260/the-surgical-bay?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1653
+#: ../../ONE.rst:1651
 msgid "The Surgical Bay enters the battlefield tapped."
 msgstr ""
 
-#: ../../ONE.rst:1655
+#: ../../ONE.rst:1653
 msgid "|tap|: Add |mana_u|."
 msgstr ""
 
-#: ../../ONE.rst:1657
+#: ../../ONE.rst:1655
 msgid "|mana_1|\\ |mana_u|, |tap|, Sacrifice The Surgical Bay: Draw a card."
 msgstr ""
 
-#: ../../ONE.rst:1662
+#: ../../ONE.rst:1660
 msgid ":mtgtip:`Terramorphic Expanse<https://cards.scryfall.io/border_crop/front/5/a/5adceb34-78c7-40dd-af31-6fb282d577ca.jpg?1675957283|https://scryfall.com/card/one/261/terramorphic-expanse?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1661
+#: ../../ONE.rst:1659
 msgid "|tap|, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
 msgstr ""
 
-#: ../../ONE.rst:1666
+#: ../../ONE.rst:1664
 msgid ":mtgtip:`Plains<https://cards.scryfall.io/border_crop/front/5/0/50958c6e-9555-42ad-9bb3-2da9faa5cb52.jpg?1675957285|https://scryfall.com/card/one/262/plains?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1665
+#: ../../ONE.rst:1663
 msgid "(|tap|: Add |mana_w|.)"
 msgstr ""
 
-#: ../../ONE.rst:1670
+#: ../../ONE.rst:1668
 msgid ":mtgtip:`Island<https://cards.scryfall.io/border_crop/front/5/c/5c6322d4-52bf-471a-a5b2-8329ef4be39a.jpg?1675957286|https://scryfall.com/card/one/263/island?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1669
+#: ../../ONE.rst:1667
 msgid "(|tap|: Add |mana_u|.)"
 msgstr ""
 
-#: ../../ONE.rst:1674
+#: ../../ONE.rst:1672
 msgid ":mtgtip:`Swamp<https://cards.scryfall.io/border_crop/front/7/3/736a0484-e091-4178-92c5-c517b0e92f3d.jpg?1675957288|https://scryfall.com/card/one/264/swamp?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1673
+#: ../../ONE.rst:1671
 msgid "(|tap|: Add |mana_b|.)"
 msgstr ""
 
-#: ../../ONE.rst:1678
+#: ../../ONE.rst:1676
 msgid ":mtgtip:`Mountain<https://cards.scryfall.io/border_crop/front/6/d/6d9e44c1-7b51-47cb-b564-608deb46cc44.jpg?1675957289|https://scryfall.com/card/one/265/mountain?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1677
+#: ../../ONE.rst:1675
 msgid "(|tap|: Add |mana_r|.)"
 msgstr ""
 
-#: ../../ONE.rst:1682
+#: ../../ONE.rst:1680
 msgid ":mtgtip:`Forest<https://cards.scryfall.io/border_crop/front/4/f/4fce7045-4572-4e9e-8853-2a5dcfc989ac.jpg?1675957290|https://scryfall.com/card/one/266/forest?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1681
+#: ../../ONE.rst:1679
 msgid "(|tap|: Add |mana_g|.)"
 msgstr ""
 
-#: ../../ONE.rst:1690
+#: ../../ONE.rst:1688
 msgid ":mtgtip:`Mite Overseer<https://cards.scryfall.io/border_crop/front/a/5/a55a5edb-edf3-4f6c-90b8-1780b1e73997.jpg?1675957440|https://scryfall.com/card/one/404/mite-overseer?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1685
+#: ../../ONE.rst:1683
 msgid "First strike"
 msgstr ""
 
-#: ../../ONE.rst:1687
+#: ../../ONE.rst:1685
 msgid "As long as it's your turn, creature tokens you control get +1/+0 and have first strike."
 msgstr ""
 
-#: ../../ONE.rst:1689
+#: ../../ONE.rst:1687
 msgid "|mana_3|\\ |mana_wp|: Create a 1/1 colorless Phyrexian Mite artifact creature token with toxic 1 and \"This creature can't block.\" (Players dealt combat damage by it also get a poison counter. |mana_wp| can be paid with either |mana_w| or 2 life.)"
 msgstr ""
 
-#: ../../ONE.rst:1698
+#: ../../ONE.rst:1696
 msgid ":mtgtip:`Serum Sovereign<https://cards.scryfall.io/border_crop/front/7/0/70d562aa-8b49-40a3-a5c1-3af8afa98edc.jpg?1675957442|https://scryfall.com/card/one/405/serum-sovereign?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1695
+#: ../../ONE.rst:1693
 msgid "Whenever you cast a noncreature spell, put an oil counter on Serum Sovereign."
 msgstr ""
 
-#: ../../ONE.rst:1697
+#: ../../ONE.rst:1695
 msgid "|mana_u|, Remove an oil counter from Serum Sovereign: Draw a card, then scry 2."
 msgstr ""
 
-#: ../../ONE.rst:1704
+#: ../../ONE.rst:1702
 msgid ":mtgtip:`Kinzu of the Bleak Coven<https://cards.scryfall.io/border_crop/front/2/8/28934cf3-c1e0-49c9-93ce-fd60b1881884.jpg?1675957442|https://scryfall.com/card/one/406/kinzu-of-the-bleak-coven?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1703
+#: ../../ONE.rst:1701
 msgid "Whenever another nontoken creature you control dies, you may pay 2 life and exile it. If you do, create a token that's a copy of that creature, except it's 1/1 and has toxic 1. (Players dealt combat damage by it also get a poison counter.)"
 msgstr ""
 
-#: ../../ONE.rst:1710
+#: ../../ONE.rst:1708
 msgid ":mtgtip:`Rhuk, Hexgold Nabber<https://cards.scryfall.io/border_crop/front/d/7/d7c25806-1da6-4789-a17e-d2440184ec40.jpg?1675957444|https://scryfall.com/card/one/407/rhuk-hexgold-nabber?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1707
+#: ../../ONE.rst:1705
 msgid "Trample, haste"
 msgstr ""
 
-#: ../../ONE.rst:1709
+#: ../../ONE.rst:1707
 msgid "Whenever an equipped creature you control other than Rhuk, Hexgold Nabber attacks or dies, you may attach all Equipment attached to that creature to Rhuk."
 msgstr ""
 
-#: ../../ONE.rst:1715
+#: ../../ONE.rst:1713
 msgid ":mtgtip:`Goliath Hatchery<https://cards.scryfall.io/border_crop/front/0/e/0e1141ca-78c0-46e5-99f8-28069d69f23a.jpg?1675957447|https://scryfall.com/card/one/408/goliath-hatchery?utm_source=api>`"
 msgstr ""
 
-#: ../../ONE.rst:1713
+#: ../../ONE.rst:1711
 msgid "When Goliath Hatchery enters the battlefield, create two 3/3 green Phyrexian Beast creature tokens with toxic 1. (Players dealt combat damage by them also get a poison counter.)"
 msgstr ""
 
-#: ../../ONE.rst:1715
+#: ../../ONE.rst:1713
 msgid "Corrupted — At the beginning of your upkeep, if an opponent has three or more poison counters, choose a creature you control, then draw cards equal to its total toxic value."
 msgstr ""

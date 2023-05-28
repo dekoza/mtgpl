@@ -919,7 +919,7 @@
    Whenever Blood Artist or another creature dies, target player loses 1 life and you gain 1 life.
 
 
-:mtgtip:`A-Blood Artist<https://cards.scryfall.io/border_crop/front/a/b/ab76e956-5d6c-49b8-991c-c39d5b18b876.jpg?1655196413|https://scryfall.com/card/jmp/A-206/a-blood-artist?utm_source=api>`
+:mtgtip:`A-Blood Artist<https://cards.scryfall.io/border_crop/front/a/b/ab76e956-5d6c-49b8-991c-c39d5b18b876.jpg?1681158416|https://scryfall.com/card/jmp/A-206/a-blood-artist?utm_source=api>`
    Whenever Blood Artist or another creature dies, target opponent loses 1 life and you gain 1 life.
 
 
@@ -1125,7 +1125,7 @@
    Target creature gets -3/-3 until end of turn.
 
 
-:mtgtip:`Launch Party<https://cards.scryfall.io/border_crop/front/a/4/a49b95d9-2b64-4f33-97b1-db350026aa95.jpg?1600700658|https://scryfall.com/card/jmp/248/launch-party?utm_source=api>`
+:mtgtip:`Launch Party<https://cards.scryfall.io/border_crop/front/a/4/a49b95d9-2b64-4f33-97b1-db350026aa95.jpg?1681725421|https://scryfall.com/card/jmp/248/launch-party?utm_source=api>`
    As an additional cost to cast this spell, sacrifice a creature.
 
    Destroy target creature. Its controller loses 2 life.
@@ -2021,7 +2021,7 @@
    At the beginning of your upkeep, you may move any number of +1/+1 counters from Scrounging Bandar onto another target creature.
 
 
-:mtgtip:`Selvala, Heart of the Wilds<https://cards.scryfall.io/border_crop/front/f/b/fb87782d-e9c7-440b-bd96-aa043d18e185.jpg?1601080073|https://scryfall.com/card/jmp/429/selvala-heart-of-the-wilds?utm_source=api>`
+:mtgtip:`Selvala, Heart of the Wilds<https://cards.scryfall.io/border_crop/front/f/b/fb87782d-e9c7-440b-bd96-aa043d18e185.jpg?1683324946|https://scryfall.com/card/jmp/429/selvala-heart-of-the-wilds?utm_source=api>`
    Whenever another creature enters the battlefield, its controller may draw a card if its power is greater than each other creature's power.
 
    |mana_g|, |tap|: Add X mana in any combination of colors, where X is the greatest power among creatures you control.
@@ -2035,7 +2035,7 @@
    When Somberwald Stag enters the battlefield, you may have it fight target creature you don't control.
 
 
-:mtgtip:`Soul of the Harvest<https://cards.scryfall.io/border_crop/front/d/7/d7ce9104-0ad3-4d3d-bb2c-c456c25030f6.jpg?1601080108|https://scryfall.com/card/jmp/432/soul-of-the-harvest?utm_source=api>`
+:mtgtip:`Soul of the Harvest<https://cards.scryfall.io/border_crop/front/d/7/d7ce9104-0ad3-4d3d-bb2c-c456c25030f6.jpg?1679497505|https://scryfall.com/card/jmp/432/soul-of-the-harvest?utm_source=api>`
    Trample
 
    Whenever another nontoken creature enters the battlefield under your control, you may draw a card.

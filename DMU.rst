@@ -209,7 +209,7 @@
    Whenever Samite Herbalist becomes tapped, you gain 1 life and scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
 
 
-:mtgtip:`Serra Paragon<https://cards.scryfall.io/border_crop/front/c/e/ce295f1e-fb31-4275-a5d3-8c6f29afff40.jpg?1673306571|https://scryfall.com/card/dmu/32/serra-paragon?utm_source=api>`
+:mtgtip:`Serra Paragon<https://cards.scryfall.io/border_crop/front/c/e/ce295f1e-fb31-4275-a5d3-8c6f29afff40.jpg?1678700111|https://scryfall.com/card/dmu/32/serra-paragon?utm_source=api>`
    Flying
 
    Once during each of your turns, you may play a land from your graveyard or cast a permanent spell with mana value 3 or less from your graveyard. If you do, it gains "When this permanent is put into a graveyard from the battlefield, exile it and you gain 2 life."
@@ -1057,7 +1057,7 @@
    |mana_1|\ |mana_g|, Discard Herd Migration: Search your library for a basic land card, reveal it, put it into your hand, then shuffle. You gain 3 life.
 
 
-:mtgtip:`Hexbane Tortoise<https://cards.scryfall.io/border_crop/front/a/c/acd5a635-bcf5-4a05-b00b-bf40322823fe.jpg?1673307703|https://scryfall.com/card/dmu/166/hexbane-tortoise?utm_source=api>`
+:mtgtip:`Hexbane Tortoise<https://cards.scryfall.io/border_crop/front/a/c/acd5a635-bcf5-4a05-b00b-bf40322823fe.jpg?1683034479|https://scryfall.com/card/dmu/166/hexbane-tortoise?utm_source=api>`
    Ward |mana_2| (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays |mana_2|.)
 
    Enlist (As this creature attacks, you may tap a nonattacking creature you control without summoning sickness. When you do, add its power to this creature's until end of turn.)

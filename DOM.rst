@@ -1203,7 +1203,7 @@
    Each spell a player casts costs |mana_1| more to cast for each other spell that player has cast this turn.
 
 
-:mtgtip:`Forebear's Blade<https://cards.scryfall.io/border_crop/front/5/2/52212fd5-551e-4bc1-9dac-6361e27c27ad.jpg?1562735636|https://scryfall.com/card/dom/214/forebears-blade?utm_source=api>`
+:mtgtip:`Forebear's Blade<https://cards.scryfall.io/border_crop/front/5/2/52212fd5-551e-4bc1-9dac-6361e27c27ad.jpg?1681500928|https://scryfall.com/card/dom/214/forebears-blade?utm_source=api>`
    Equipped creature gets +3/+0 and has vigilance and trample.
 
    Whenever equipped creature dies, attach Forebear's Blade to target creature you control.

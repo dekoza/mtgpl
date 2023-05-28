@@ -5,79 +5,79 @@
 =========================
 
 
-:mtgtip:`Advantageous Proclamation<https://cards.scryfall.io/border_crop/front/f/8/f8c37fe8-43b3-454e-a70b-5b0d0f396a33.jpg?1562867367|https://scryfall.com/card/cns/1/advantageous-proclamation?utm_source=api>`
+:mtgtip:`Advantageous Proclamation<https://cards.scryfall.io/border_crop/front/f/8/f8c37fe8-43b3-454e-a70b-5b0d0f396a33.jpg?1681082854|https://scryfall.com/card/cns/1/advantageous-proclamation?utm_source=api>`
    (Start the game with this conspiracy face up in the command zone.)
 
    Your minimum deck size is reduced by five.
 
 
-:mtgtip:`Backup Plan<https://cards.scryfall.io/border_crop/front/8/4/84c5a45a-adc2-41f9-893c-58a03bebbf0c.jpg?1562865916|https://scryfall.com/card/cns/2/backup-plan?utm_source=api>`
+:mtgtip:`Backup Plan<https://cards.scryfall.io/border_crop/front/8/4/84c5a45a-adc2-41f9-893c-58a03bebbf0c.jpg?1681082857|https://scryfall.com/card/cns/2/backup-plan?utm_source=api>`
    (Start the game with this conspiracy face up in the command zone.)
 
    Draw an additional hand of seven cards as the game begins. Before taking mulligans, shuffle all but one of your hands into your library.
 
 
-:mtgtip:`Brago's Favor<https://cards.scryfall.io/border_crop/front/9/b/9bb6ece9-2038-4dbc-83aa-01ab4d7980b4.jpg?1562866379|https://scryfall.com/card/cns/3/bragos-favor?utm_source=api>`
+:mtgtip:`Brago's Favor<https://cards.scryfall.io/border_crop/front/9/b/9bb6ece9-2038-4dbc-83aa-01ab4d7980b4.jpg?1681082857|https://scryfall.com/card/cns/3/bragos-favor?utm_source=api>`
    Hidden agenda (Start the game with this conspiracy face down in the command zone and secretly choose a card name. You may turn this conspiracy face up any time and reveal that name.)
 
    Spells with the chosen name you cast cost |mana_1| less to cast.
 
 
-:mtgtip:`Double Stroke<https://cards.scryfall.io/border_crop/front/b/0/b0ec6d79-8a22-49d5-ac00-7fd60b278a4d.jpg?1562866406|https://scryfall.com/card/cns/4/double-stroke?utm_source=api>`
+:mtgtip:`Double Stroke<https://cards.scryfall.io/border_crop/front/b/0/b0ec6d79-8a22-49d5-ac00-7fd60b278a4d.jpg?1681082859|https://scryfall.com/card/cns/4/double-stroke?utm_source=api>`
    Hidden agenda (Start the game with this conspiracy face down in the command zone and secretly choose a card name. You may turn this conspiracy face up any time and reveal that name.)
 
    Whenever you cast an instant or sorcery spell with the chosen name, you may copy it. You may choose new targets for the copy.
 
 
-:mtgtip:`Immediate Action<https://cards.scryfall.io/border_crop/front/1/6/167c6740-0625-4987-8fac-516aab564ca1.jpg?1562864471|https://scryfall.com/card/cns/5/immediate-action?utm_source=api>`
+:mtgtip:`Immediate Action<https://cards.scryfall.io/border_crop/front/1/6/167c6740-0625-4987-8fac-516aab564ca1.jpg?1681082898|https://scryfall.com/card/cns/5/immediate-action?utm_source=api>`
    Hidden agenda (Start the game with this conspiracy face down in the command zone and secretly choose a card name. You may turn this conspiracy face up any time and reveal that name.)
 
    Creatures you control with the chosen name have haste.
 
 
-:mtgtip:`Iterative Analysis<https://cards.scryfall.io/border_crop/front/2/1/212a39fa-e1b3-4ae3-945f-6d8cda6372ae.jpg?1562864488|https://scryfall.com/card/cns/6/iterative-analysis?utm_source=api>`
+:mtgtip:`Iterative Analysis<https://cards.scryfall.io/border_crop/front/2/1/212a39fa-e1b3-4ae3-945f-6d8cda6372ae.jpg?1681082904|https://scryfall.com/card/cns/6/iterative-analysis?utm_source=api>`
    Hidden agenda (Start the game with this conspiracy face down in the command zone and secretly choose a card name. You may turn this conspiracy face up any time and reveal that name.)
 
    Whenever you cast an instant or sorcery spell with the chosen name, you may draw a card.
 
 
-:mtgtip:`Muzzio's Preparations<https://cards.scryfall.io/border_crop/front/5/7/57c57a16-328d-4c87-adf0-7af8f3515339.jpg?1562865437|https://scryfall.com/card/cns/7/muzzios-preparations?utm_source=api>`
+:mtgtip:`Muzzio's Preparations<https://cards.scryfall.io/border_crop/front/5/7/57c57a16-328d-4c87-adf0-7af8f3515339.jpg?1681082903|https://scryfall.com/card/cns/7/muzzios-preparations?utm_source=api>`
    Hidden agenda (Start the game with this conspiracy face down in the command zone and secretly choose a card name. You may turn this conspiracy face up any time and reveal that name.)
 
    Each creature you control with the chosen name enters the battlefield with an additional +1/+1 counter on it.
 
 
-:mtgtip:`Power Play<https://cards.scryfall.io/border_crop/front/b/b/bbfca319-edc4-45f2-b208-35c8112ec918.jpg?1562866414|https://scryfall.com/card/cns/8/power-play?utm_source=api>`
+:mtgtip:`Power Play<https://cards.scryfall.io/border_crop/front/b/b/bbfca319-edc4-45f2-b208-35c8112ec918.jpg?1681082908|https://scryfall.com/card/cns/8/power-play?utm_source=api>`
    (Start the game with this conspiracy face up in the command zone.)
 
    You are the starting player. If multiple players would be the starting player, one of those players is chosen at random.
 
 
-:mtgtip:`Secret Summoning<https://cards.scryfall.io/border_crop/front/7/8/7867db8a-5adc-4fe9-aabd-aa55935e3227.jpg?1562865895|https://scryfall.com/card/cns/9/secret-summoning?utm_source=api>`
+:mtgtip:`Secret Summoning<https://cards.scryfall.io/border_crop/front/7/8/7867db8a-5adc-4fe9-aabd-aa55935e3227.jpg?1681082913|https://scryfall.com/card/cns/9/secret-summoning?utm_source=api>`
    Hidden agenda (Start the game with this conspiracy face down in the command zone and secretly choose a card name. You may turn this conspiracy face up any time and reveal that name.)
 
    Whenever a creature with the chosen name enters the battlefield under your control, you may search your library for any number of cards with that name, reveal them, put them into your hand, then shuffle.
 
 
-:mtgtip:`Secrets of Paradise<https://cards.scryfall.io/border_crop/front/1/5/15ace01c-93de-49e6-b9f9-276a2303f42f.jpg?1562864468|https://scryfall.com/card/cns/10/secrets-of-paradise?utm_source=api>`
+:mtgtip:`Secrets of Paradise<https://cards.scryfall.io/border_crop/front/1/5/15ace01c-93de-49e6-b9f9-276a2303f42f.jpg?1681082910|https://scryfall.com/card/cns/10/secrets-of-paradise?utm_source=api>`
    Hidden agenda (Start the game with this conspiracy face down in the command zone and secretly choose a card name. You may turn this conspiracy face up any time and reveal that name.)
 
    Creatures you control with the chosen name have "|tap|: Add one mana of any color."
 
 
-:mtgtip:`Sentinel Dispatch<https://cards.scryfall.io/border_crop/front/2/b/2b5f4072-47d6-46e2-affb-3affb908124e.jpg?1562864939|https://scryfall.com/card/cns/11/sentinel-dispatch?utm_source=api>`
+:mtgtip:`Sentinel Dispatch<https://cards.scryfall.io/border_crop/front/2/b/2b5f4072-47d6-46e2-affb-3affb908124e.jpg?1681082916|https://scryfall.com/card/cns/11/sentinel-dispatch?utm_source=api>`
    (Start the game with this conspiracy face up in the command zone.)
 
    At the beginning of the first upkeep, create a 1/1 colorless Construct artifact creature token with defender.
 
 
-:mtgtip:`Unexpected Potential<https://cards.scryfall.io/border_crop/front/8/7/8789ef9e-f68c-4ff0-8621-47678038131b.jpg?1562865922|https://scryfall.com/card/cns/12/unexpected-potential?utm_source=api>`
+:mtgtip:`Unexpected Potential<https://cards.scryfall.io/border_crop/front/8/7/8789ef9e-f68c-4ff0-8621-47678038131b.jpg?1681082949|https://scryfall.com/card/cns/12/unexpected-potential?utm_source=api>`
    Hidden agenda (Start the game with this conspiracy face down in the command zone and secretly choose a card name. You may turn this conspiracy face up any time and reveal that name.)
 
    You may spend mana as though it were mana of any color to cast spells with the chosen name.
 
 
-:mtgtip:`Worldknit<https://cards.scryfall.io/border_crop/front/7/f/7f1fe849-b407-4252-b175-3f4afbbcea1b.jpg?1562865901|https://scryfall.com/card/cns/13/worldknit?utm_source=api>`
+:mtgtip:`Worldknit<https://cards.scryfall.io/border_crop/front/7/f/7f1fe849-b407-4252-b175-3f4afbbcea1b.jpg?1681082953|https://scryfall.com/card/cns/13/worldknit?utm_source=api>`
    (Start the game with this conspiracy face up in the command zone.)
 
    As long as every card in your card pool started the game in your library or in the command zone, lands you control have "|tap|: Add one mana of any color."

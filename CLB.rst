@@ -5,7 +5,7 @@
 ==========================================================
 
 
-:mtgtip:`Faceless One<https://cards.scryfall.io/border_crop/front/2/5/25564fba-5765-457b-8dd3-f26b877221b8.jpg?1674134846|https://scryfall.com/card/clb/1/faceless-one?utm_source=api>`
+:mtgtip:`Faceless One<https://cards.scryfall.io/border_crop/front/2/5/25564fba-5765-457b-8dd3-f26b877221b8.jpg?1682390376|https://scryfall.com/card/clb/1/faceless-one?utm_source=api>`
    If Faceless One is your commander, choose a color before the game begins. Faceless One is the chosen color.
 
    Choose a Background (You can have a Background as a second commander.)
@@ -1367,14 +1367,14 @@
    Put two +1/+1 counters on target creature and untap it. It gains hexproof until end of turn. (Then exile this card. You may cast the creature later from exile.)
 
 
-:mtgtip:`Druid of the Emerald Grove<https://cards.scryfall.io/border_crop/front/8/a/8a270d07-29da-4c31-ae6a-5f60c162f508.jpg?1674137049|https://scryfall.com/card/clb/226/druid-of-the-emerald-grove?utm_source=api>`
+:mtgtip:`Druid of the Emerald Grove<https://cards.scryfall.io/border_crop/front/8/a/8a270d07-29da-4c31-ae6a-5f60c162f508.jpg?1681953276|https://scryfall.com/card/clb/226/druid-of-the-emerald-grove?utm_source=api>`
    When Druid of the Emerald Grove enters the battlefield, search your library for up to two basic land cards and reveal them, then roll a d20.
 
    1—9 | Put those cards into your hand, then shuffle.
 
    10—19 | Put one of those cards onto the battlefield tapped and the other into your hand, then shuffle.
 
-   20 | Put those cards onto the battlefield tapped, then shuffle.
+   20+ | Put those cards onto the battlefield tapped, then shuffle.
 
 
 :mtgtip:`Druidic Ritual<https://cards.scryfall.io/border_crop/front/5/4/54935597-b5d0-476d-82f3-42a9201e4556.jpg?1674137057|https://scryfall.com/card/clb/227/druidic-ritual?utm_source=api>`
@@ -1727,7 +1727,7 @@
    Whenever another nontoken Dragon enters the battlefield under your control, create a token that's a copy of it, except the token isn't legendary.
 
 
-:mtgtip:`Minsc & Boo, Timeless Heroes<https://cards.scryfall.io/border_crop/front/9/2/928036c9-11b8-493e-b9f2-8fbd3487cd19.jpg?1674137598|https://scryfall.com/card/clb/285/minsc-&-boo-timeless-heroes?utm_source=api>`
+:mtgtip:`Minsc & Boo, Timeless Heroes<https://cards.scryfall.io/border_crop/front/9/2/928036c9-11b8-493e-b9f2-8fbd3487cd19.jpg?1681130108|https://scryfall.com/card/clb/285/minsc-&-boo-timeless-heroes?utm_source=api>`
    When Minsc & Boo, Timeless Heroes enters the battlefield and at the beginning of your upkeep, you may create Boo, a legendary 1/1 red Hamster creature token with trample and haste.
 
    +1: Put three +1/+1 counters on up to one target creature with trample or haste.
@@ -2973,7 +2973,7 @@
    Nighthawk Scavenger's power is equal to 1 plus the number of card types among cards in your opponents' graveyards. (Cards in graveyards have only the characteristics of their front face.)
 
 
-:mtgtip:`Nighthowler<https://cards.scryfall.io/border_crop/front/b/7/b76dab3d-1788-4ab7-8d2b-70f7787cf935.jpg?1674141732|https://scryfall.com/card/clb/764/nighthowler?utm_source=api>`
+:mtgtip:`Nighthowler<https://cards.scryfall.io/border_crop/front/b/7/b76dab3d-1788-4ab7-8d2b-70f7787cf935.jpg?1681729115|https://scryfall.com/card/clb/764/nighthowler?utm_source=api>`
    Bestow |mana_2|\ |mana_b|\ |mana_b| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
 
    Nighthowler and enchanted creature each get +X/+X, where X is the number of creature cards in all graveyards.

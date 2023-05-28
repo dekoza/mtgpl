@@ -5,25 +5,25 @@
 =========================================
 
 
-:mtgtip:`Adriana's Valor<https://cards.scryfall.io/border_crop/front/8/b/8bfd6889-90e2-49fe-bd30-7d850dc18db2.jpg?1576381439|https://scryfall.com/card/cn2/1/adrianas-valor?utm_source=api>`
+:mtgtip:`Adriana's Valor<https://cards.scryfall.io/border_crop/front/8/b/8bfd6889-90e2-49fe-bd30-7d850dc18db2.jpg?1681082830|https://scryfall.com/card/cn2/1/adrianas-valor?utm_source=api>`
    Hidden agenda (Start the game with this conspiracy face down in the command zone and secretly choose a card name. You may turn this conspiracy face up any time and reveal that name.)
 
    Whenever a creature you control with the chosen name attacks, you may pay |mana_w|. If you do, that creature gains indestructible until end of turn. (Damage and effects that say "destroy" don't destroy it.)
 
 
-:mtgtip:`Assemble the Rank and Vile<https://cards.scryfall.io/border_crop/front/7/0/7023889e-924f-495f-b189-82592989d659.jpg?1576381448|https://scryfall.com/card/cn2/2/assemble-the-rank-and-vile?utm_source=api>`
+:mtgtip:`Assemble the Rank and Vile<https://cards.scryfall.io/border_crop/front/7/0/7023889e-924f-495f-b189-82592989d659.jpg?1681082852|https://scryfall.com/card/cn2/2/assemble-the-rank-and-vile?utm_source=api>`
    Hidden agenda (Start the game with this conspiracy face down in the command zone and secretly choose a card name. You may turn this conspiracy face up any time and reveal that name.)
 
    Creatures you control with the chosen name have "When this creature dies, you may pay |mana_b|. If you do, create a tapped 2/2 black Zombie creature token."
 
 
-:mtgtip:`Echoing Boon<https://cards.scryfall.io/border_crop/front/1/6/165dd3b0-0878-448e-b922-019d0ba372d0.jpg?1576381455|https://scryfall.com/card/cn2/3/echoing-boon?utm_source=api>`
+:mtgtip:`Echoing Boon<https://cards.scryfall.io/border_crop/front/1/6/165dd3b0-0878-448e-b922-019d0ba372d0.jpg?1681082860|https://scryfall.com/card/cn2/3/echoing-boon?utm_source=api>`
    Hidden agenda (Start the game with this conspiracy face down in the command zone and secretly choose a card name. You may turn this conspiracy face up any time and reveal that name.)
 
    Whenever you cast an instant or sorcery spell, if it targets a creature you control with the chosen name, you may copy that spell and may choose new targets for the copy.
 
 
-:mtgtip:`Emissary's Ploy<https://cards.scryfall.io/border_crop/front/c/e/ce5f3b5c-feb8-4304-852f-01c467d6517c.jpg?1576381593|https://scryfall.com/card/cn2/4/emissarys-ploy?utm_source=api>`
+:mtgtip:`Emissary's Ploy<https://cards.scryfall.io/border_crop/front/c/e/ce5f3b5c-feb8-4304-852f-01c467d6517c.jpg?1681082864|https://scryfall.com/card/cn2/4/emissarys-ploy?utm_source=api>`
    (Start the game with this conspiracy face up in the command zone.)
 
    Before drawing your opening hand, choose 1, 2, or 3.
@@ -31,13 +31,13 @@
    You may spend mana as though it were mana of any color to cast creature spells with mana value equal to the chosen number.
 
 
-:mtgtip:`Hired Heist<https://cards.scryfall.io/border_crop/front/d/3/d3914468-d769-4fe3-ae18-0caee9eb1502.jpg?1576381473|https://scryfall.com/card/cn2/5/hired-heist?utm_source=api>`
+:mtgtip:`Hired Heist<https://cards.scryfall.io/border_crop/front/d/3/d3914468-d769-4fe3-ae18-0caee9eb1502.jpg?1681082875|https://scryfall.com/card/cn2/5/hired-heist?utm_source=api>`
    Hidden agenda (Start the game with this conspiracy face down in the command zone and secretly choose a card name. You may turn this conspiracy face up any time and reveal that name.)
 
    Whenever a creature you control with the chosen name deals combat damage to a player, you may pay |mana_u|. If you do, draw a card.
 
 
-:mtgtip:`Hold the Perimeter<https://cards.scryfall.io/border_crop/front/0/0/00717f7c-0778-4a02-b6c0-b3c3f07e75a9.jpg?1576381482|https://scryfall.com/card/cn2/6/hold-the-perimeter?utm_source=api>`
+:mtgtip:`Hold the Perimeter<https://cards.scryfall.io/border_crop/front/0/0/00717f7c-0778-4a02-b6c0-b3c3f07e75a9.jpg?1681082896|https://scryfall.com/card/cn2/6/hold-the-perimeter?utm_source=api>`
    (Start the game with this conspiracy face up in the command zone.)
 
    At the beginning of your first upkeep, create a 1/2 white Soldier creature token with defender.
@@ -45,7 +45,7 @@
    At the beginning of each other player's first upkeep, that player creates a 1/1 red Goblin creature token with "This creature can't block."
 
 
-:mtgtip:`Hymn of the Wilds<https://cards.scryfall.io/border_crop/front/e/7/e7902666-21f2-4590-9dca-e95858dbde70.jpg?1576381490|https://scryfall.com/card/cn2/7/hymn-of-the-wilds?utm_source=api>`
+:mtgtip:`Hymn of the Wilds<https://cards.scryfall.io/border_crop/front/e/7/e7902666-21f2-4590-9dca-e95858dbde70.jpg?1681082896|https://scryfall.com/card/cn2/7/hymn-of-the-wilds?utm_source=api>`
    (Start the game with this conspiracy face up in the command zone.)
 
    The first creature spell you cast each turn costs |mana_1| less to cast.
@@ -53,19 +53,19 @@
    You can't cast instant or sorcery spells.
 
 
-:mtgtip:`Incendiary Dissent<https://cards.scryfall.io/border_crop/front/c/f/cfbe340b-ca40-4604-bdc6-4b00e7444df4.jpg?1576381501|https://scryfall.com/card/cn2/8/incendiary-dissent?utm_source=api>`
+:mtgtip:`Incendiary Dissent<https://cards.scryfall.io/border_crop/front/c/f/cfbe340b-ca40-4604-bdc6-4b00e7444df4.jpg?1681082900|https://scryfall.com/card/cn2/8/incendiary-dissent?utm_source=api>`
    Hidden agenda (Start the game with this conspiracy face down in the command zone and secretly choose a card name. You may turn this conspiracy face up any time and reveal that name.)
 
    Creatures you control with the chosen name have "|mana_r|: This creature gets +1/+0 until end of turn."
 
 
-:mtgtip:`Natural Unity<https://cards.scryfall.io/border_crop/front/5/e/5e633e76-ea92-46e5-a0c1-7930109c7712.jpg?1576381511|https://scryfall.com/card/cn2/9/natural-unity?utm_source=api>`
+:mtgtip:`Natural Unity<https://cards.scryfall.io/border_crop/front/5/e/5e633e76-ea92-46e5-a0c1-7930109c7712.jpg?1681082908|https://scryfall.com/card/cn2/9/natural-unity?utm_source=api>`
    Hidden agenda (Start the game with this conspiracy face down in the command zone and secretly choose a card name. You may turn this conspiracy face up any time and reveal that name.)
 
    Creatures you control with the chosen name have "At the beginning of combat on your turn, you may pay |mana_g|. If you do, put a +1/+1 counter on this creature."
 
 
-:mtgtip:`Sovereign's Realm<https://cards.scryfall.io/border_crop/front/a/b/abefb30c-780d-4496-8fc6-6e1b80686c15.jpg?1576381520|https://scryfall.com/card/cn2/10/sovereigns-realm?utm_source=api>`
+:mtgtip:`Sovereign's Realm<https://cards.scryfall.io/border_crop/front/a/b/abefb30c-780d-4496-8fc6-6e1b80686c15.jpg?1681082918|https://scryfall.com/card/cn2/10/sovereigns-realm?utm_source=api>`
    (Start the game with this conspiracy face up in the command zone.)
 
    Your starting deck can't have basic land cards and your starting hand size is five.
@@ -75,13 +75,13 @@
    Basic lands you control have "|tap|: Add one mana of any color."
 
 
-:mtgtip:`Summoner's Bond<https://cards.scryfall.io/border_crop/front/c/4/c4f16145-1ace-48a9-bd98-b0aea3e4bf62.jpg?1576381534|https://scryfall.com/card/cn2/11/summoners-bond?utm_source=api>`
+:mtgtip:`Summoner's Bond<https://cards.scryfall.io/border_crop/front/c/4/c4f16145-1ace-48a9-bd98-b0aea3e4bf62.jpg?1681082947|https://scryfall.com/card/cn2/11/summoners-bond?utm_source=api>`
    Double agenda (Start the game with this conspiracy face down in the command zone and secretly choose two different card names. You may turn this conspiracy face up any time and reveal those names.)
 
    Whenever you cast a creature spell with one of the chosen names, you may search your library for a creature card with the other chosen name, reveal it, put it into your hand, then shuffle.
 
 
-:mtgtip:`Weight Advantage<https://cards.scryfall.io/border_crop/front/f/e/feef03a1-f19a-413b-ad86-0b357cf9c09c.jpg?1576381542|https://scryfall.com/card/cn2/12/weight-advantage?utm_source=api>`
+:mtgtip:`Weight Advantage<https://cards.scryfall.io/border_crop/front/f/e/feef03a1-f19a-413b-ad86-0b357cf9c09c.jpg?1681082951|https://scryfall.com/card/cn2/12/weight-advantage?utm_source=api>`
    (Start the game with this conspiracy face up in the command zone.)
 
    Each creature you control assigns combat damage equal to its toughness rather than its power.

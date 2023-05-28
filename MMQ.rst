@@ -319,7 +319,7 @@
    Cloud Sprite can block only creatures with flying.
 
 
-:mtgtip:`Coastal Piracy<https://cards.scryfall.io/border_crop/front/1/7/179d1f76-6f4c-4a77-815a-aae7a933c9ad.jpg?1562379429|https://scryfall.com/card/mmq/68/coastal-piracy?utm_source=api>`
+:mtgtip:`Coastal Piracy<https://cards.scryfall.io/border_crop/front/1/7/179d1f76-6f4c-4a77-815a-aae7a933c9ad.jpg?1681616794|https://scryfall.com/card/mmq/68/coastal-piracy?utm_source=api>`
    Whenever a creature you control deals combat damage to an opponent, you may draw a card.
 
 

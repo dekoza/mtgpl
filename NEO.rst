@@ -13,7 +13,7 @@
    Equip |mana_3| (|mana_3|: Attach to target creature you control. Equip only as a sorcery.)
 
 
-:mtgtip:`A-Ancestral Katana<https://cards.scryfall.io/border_crop/front/0/3/0321b706-87b0-4bea-89d3-ec2e7252dc7c.jpg?1676762411|https://scryfall.com/card/neo/A-1/a-ancestral-katana?utm_source=api>`
+:mtgtip:`A-Ancestral Katana<https://cards.scryfall.io/border_crop/front/0/3/0321b706-87b0-4bea-89d3-ec2e7252dc7c.jpg?1681158265|https://scryfall.com/card/neo/A-1/a-ancestral-katana?utm_source=api>`
    Whenever a Samurai or Warrior you control attacks alone, you may pay |mana_1|. When you do, attach Ancestral Katana to it.
 
    Equipped creature gets +2/+2 and has "This creature has first strike as long as it's attacking."
@@ -83,7 +83,7 @@
    Whenever a Samurai or Warrior you control attacks alone, it gets +1/+1 until end of turn.
 
 
-:mtgtip:`A-Eiganjo Exemplar<https://cards.scryfall.io/border_crop/front/e/2/e2a8f60f-7cca-4528-b153-a8804e93626e.jpg?1676762491|https://scryfall.com/card/neo/A-10/a-eiganjo-exemplar?utm_source=api>`
+:mtgtip:`A-Eiganjo Exemplar<https://cards.scryfall.io/border_crop/front/e/2/e2a8f60f-7cca-4528-b153-a8804e93626e.jpg?1681158645|https://scryfall.com/card/neo/A-10/a-eiganjo-exemplar?utm_source=api>`
    Whenever a Samurai or Warrior you control attacks alone, it gets +1/+1 until end of turn.
 
 
@@ -157,7 +157,7 @@
    Whenever a Samurai or Warrior you control attacks alone, tap target creature you don't control.
 
 
-:mtgtip:`A-Imperial Subduer<https://cards.scryfall.io/border_crop/front/d/6/d6c23437-244f-4e6b-93b7-ce0321be154b.jpg?1676762544|https://scryfall.com/card/neo/A-19/a-imperial-subduer?utm_source=api>`
+:mtgtip:`A-Imperial Subduer<https://cards.scryfall.io/border_crop/front/d/6/d6c23437-244f-4e6b-93b7-ce0321be154b.jpg?1681158886|https://scryfall.com/card/neo/A-19/a-imperial-subduer?utm_source=api>`
    Whenever a Samurai or Warrior you control attacks alone, tap target creature you don't control.
 
 
@@ -393,6 +393,12 @@
    |mana_2|\ |mana_u|: Untap Futurist Operative.
 
 
+:mtgtip:`A-Futurist Operative<https://cards.scryfall.io/border_crop/front/0/3/034c5631-fd61-47cb-88b6-aca036affc1e.jpg?1681158803|https://scryfall.com/card/neo/A-53/a-futurist-operative?utm_source=api>`
+   As long as Futurist Operative is tapped, it's a Human Citizen with base power and toughness 1/1 and can't be blocked.
+
+   |mana_2|\ |mana_u|: Untap Futurist Operative.
+
+
 :mtgtip:`Futurist Sentinel<https://cards.scryfall.io/border_crop/front/8/6/8672f626-3e46-447b-841f-6a04cd380653.jpg?1654566691|https://scryfall.com/card/neo/54/futurist-sentinel?utm_source=api>`
    Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)
 
@@ -497,6 +503,12 @@
    Whenever Moon-Circuit Hacker deals combat damage to a player, you may draw a card. If you do, discard a card unless Moon-Circuit Hacker entered the battlefield this turn.
 
 
+:mtgtip:`A-Moon-Circuit Hacker<https://cards.scryfall.io/border_crop/front/3/8/38f66d0c-5d03-449f-a056-b97e2ed6a3a1.jpg?1681159092|https://scryfall.com/card/neo/A-67/a-moon-circuit-hacker?utm_source=api>`
+   Ninjutsu |mana_u| (|mana_u|, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+
+   Whenever Moon-Circuit Hacker deals combat damage to a player, scry 2, then draw a card. Discard a card unless Moon-Circuit Hacker entered the battlefield this turn.
+
+
 :mtgtip:`Moonfolk Puzzlemaker<https://cards.scryfall.io/border_crop/front/c/9/c9fa6d4c-78dc-4b40-9ce8-a0e593d4001f.jpg?1654566846|https://scryfall.com/card/neo/68/moonfolk-puzzlemaker?utm_source=api>`
    Flying
 
@@ -526,6 +538,12 @@
 
 
 :mtgtip:`Prosperous Thief<https://cards.scryfall.io/border_crop/front/d/a/da3f683e-5a28-4ae7-b53b-851b957123ba.jpg?1654566901|https://scryfall.com/card/neo/73/prosperous-thief?utm_source=api>`
+   Ninjutsu |mana_1|\ |mana_u| (|mana_1|\ |mana_u|, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+
+   Whenever one or more Ninja or Rogue creatures you control deal combat damage to a player, create a Treasure token. (It's an artifact with "|tap|, Sacrifice this artifact: Add one mana of any color.")
+
+
+:mtgtip:`A-Prosperous Thief<https://cards.scryfall.io/border_crop/front/d/f/df5c4d9c-6c27-4d29-a6b8-df8905f810a6.jpg?1681159223|https://scryfall.com/card/neo/A-73/a-prosperous-thief?utm_source=api>`
    Ninjutsu |mana_1|\ |mana_u| (|mana_1|\ |mana_u|, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
 
    Whenever one or more Ninja or Rogue creatures you control deal combat damage to a player, create a Treasure token. (It's an artifact with "|tap|, Sacrifice this artifact: Add one mana of any color.")
@@ -617,6 +635,14 @@
    When Thousand-Faced Shadow enters the battlefield from your hand, if it's attacking, create a token that's a copy of another target attacking creature. The token enters the battlefield tapped and attacking.
 
 
+:mtgtip:`A-Thousand-Faced Shadow<https://cards.scryfall.io/border_crop/front/4/d/4df5e7d3-cd49-498e-b2e3-37db891edbbe.jpg?1681159547|https://scryfall.com/card/neo/A-86/a-thousand-faced-shadow?utm_source=api>`
+   Ninjutsu |mana_2|\ |mana_u| (|mana_2|\ |mana_u|, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+
+   Flying
+
+   When Thousand-Faced Shadow enters the battlefield from your hand, if it's attacking, create a token that's a copy of another target attacking creature. The token enters the battlefield tapped and attacking.
+
+
 :mtgtip:`Assassin's Ink<https://cards.scryfall.io/border_crop/front/5/a/5a926c10-029d-4e24-8c3f-1808025e30aa.jpg?1654567050|https://scryfall.com/card/neo/87/assassins-ink?utm_source=api>`
    This spell costs |mana_1| less to cast if you control an artifact and |mana_1| less to cast if you control an enchantment.
 
@@ -673,6 +699,12 @@
    Ninjutsu |mana_1|\ |mana_b| (|mana_1|\ |mana_b|, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
 
    Whenever Dokuchi Silencer deals combat damage to a player, you may discard a creature card. When you do, destroy target creature or planeswalker that player controls.
+
+
+:mtgtip:`A-Dokuchi Silencer<https://cards.scryfall.io/border_crop/front/7/3/73447b86-d5a4-4b62-9a21-84d284c9ae3c.jpg?1681158598|https://scryfall.com/card/neo/A-95/a-dokuchi-silencer?utm_source=api>`
+   Ninjutsu |mana_1|\ |mana_b| (|mana_1|\ |mana_b|, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+
+   Whenever Dokuchi Silencer deals combat damage to a player, you may discard a card. When you do, destroy target creature or planeswalker that player controls.
 
 
 :mtgtip:`Enormous Energy Blade<https://cards.scryfall.io/border_crop/front/9/9/991370bd-a96a-4ed0-bdf9-f03b98191abf.jpg?1654567135|https://scryfall.com/card/neo/96/enormous-energy-blade?utm_source=api>`
@@ -809,6 +841,12 @@
    Whenever Nashi, Moon Sage's Scion deals combat damage to a player, exile the top card of each player's library. Until end of turn, you may play one of those cards. If you cast a spell this way, pay life equal to its mana value rather than paying its mana cost.
 
 
+:mtgtip:`A-Nashi, Moon Sage's Scion<https://cards.scryfall.io/border_crop/front/a/4/a47b49c4-6adb-445b-b0f1-e0391c2f08cf.jpg?1681159147|https://scryfall.com/card/neo/A-114/a-nashi-moon-sages-scion?utm_source=api>`
+   Ninjutsu |mana_2|\ |mana_b| (|mana_2|\ |mana_b|, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+
+   Whenever Nashi, Moon Sage's Scion deals combat damage to a player, exile the top card of each player's library. Until end of turn, you may play one of those cards. If you cast a spell this way, pay life equal to its mana value rather than paying its mana cost.
+
+
 :mtgtip:`Nezumi Bladeblesser<https://cards.scryfall.io/border_crop/front/9/a/9a03d3f5-b32b-4814-b485-25f24e51609c.jpg?1654567333|https://scryfall.com/card/neo/115/nezumi-bladeblesser?utm_source=api>`
    Nezumi Bladeblesser has deathtouch as long as you control an artifact.
 
@@ -819,6 +857,12 @@
    Ninjutsu |mana_1|\ |mana_b| (|mana_1|\ |mana_b|, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
 
    When Nezumi Prowler enters the battlefield, target creature you control gains deathtouch and lifelink until end of turn.
+
+
+:mtgtip:`A-Nezumi Prowler<https://cards.scryfall.io/border_crop/front/8/b/8b7d51c6-a9c8-47b8-b120-d72a1f2aa439.jpg?1681159151|https://scryfall.com/card/neo/A-116/a-nezumi-prowler?utm_source=api>`
+   Ninjutsu |mana_1|\ |mana_b| (|mana_1|\ |mana_b|, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+
+   When Nezumi Prowler enters the battlefield, put a deathtouch counter and a lifelink counter on target creature you control.
 
 
 :mtgtip:`Okiba Reckoner Raid<https://cards.scryfall.io/border_crop/front/4/f/4f0582b4-d951-4450-b158-4a34109e48cd.jpg?1656453196|https://scryfall.com/card/neo/117/okiba-reckoner-raid-nezumi-road-captain?utm_source=api>`
@@ -919,7 +963,7 @@
    Whenever a Samurai or Warrior you control attacks alone, you may discard a card. If you do, draw a card.
 
 
-:mtgtip:`A-Akki Ronin<https://cards.scryfall.io/border_crop/front/0/c/0c780e37-91b1-4fe1-85c9-7007d91209d5.jpg?1676762453|https://scryfall.com/card/neo/A-131/a-akki-ronin?utm_source=api>`
+:mtgtip:`A-Akki Ronin<https://cards.scryfall.io/border_crop/front/0/c/0c780e37-91b1-4fe1-85c9-7007d91209d5.jpg?1681158251|https://scryfall.com/card/neo/A-131/a-akki-ronin?utm_source=api>`
    Whenever a Samurai or Warrior you control attacks alone, you may put a card from your hand on the bottom of your library. If you do, draw a card.
 
 
@@ -1091,7 +1135,7 @@
    Whenever a Samurai or Warrior you control attacks alone, the next spell you cast this turn costs |mana_1| less to cast.
 
 
-:mtgtip:`A-Peerless Samurai<https://cards.scryfall.io/border_crop/front/6/f/6f6c21b4-a143-4fe5-a505-963e98f2fe2f.jpg?1676762582|https://scryfall.com/card/neo/A-156/a-peerless-samurai?utm_source=api>`
+:mtgtip:`A-Peerless Samurai<https://cards.scryfall.io/border_crop/front/6/f/6f6c21b4-a143-4fe5-a505-963e98f2fe2f.jpg?1681159171|https://scryfall.com/card/neo/A-156/a-peerless-samurai?utm_source=api>`
    Menace (This creature can't be blocked except by two or more creatures.)
 
    Whenever a Samurai or Warrior you control attacks alone, the next spell you cast this turn costs |mana_1| less to cast.
@@ -1505,7 +1549,7 @@
    Whenever a Samurai or Warrior you control attacks alone, it gets +1/+0 until end of turn for each Samurai or Warrior you control.
 
 
-:mtgtip:`A-Asari Captain<https://cards.scryfall.io/border_crop/front/e/a/ea1d684e-c4dd-481b-856e-8331d4f64be2.jpg?1676762373|https://scryfall.com/card/neo/A-215/a-asari-captain?utm_source=api>`
+:mtgtip:`A-Asari Captain<https://cards.scryfall.io/border_crop/front/e/a/ea1d684e-c4dd-481b-856e-8331d4f64be2.jpg?1681158273|https://scryfall.com/card/neo/A-215/a-asari-captain?utm_source=api>`
    Trample, haste
 
    Whenever a Samurai or Warrior you control attacks alone, it gets +1/+0 until end of turn for each Samurai or Warrior you control.
@@ -1641,7 +1685,7 @@
    Whenever a Samurai or Warrior you control attacks alone, untap it. If it's the first combat phase of the turn, there is an additional combat phase after this phase.
 
 
-:mtgtip:`A-Raiyuu, Storm's Edge<https://cards.scryfall.io/border_crop/front/0/6/06f5ab0d-3280-42d3-bc7e-abb109bbe3c4.jpg?1676762609|https://scryfall.com/card/neo/A-232/a-raiyuu-storms-edge?utm_source=api>`
+:mtgtip:`A-Raiyuu, Storm's Edge<https://cards.scryfall.io/border_crop/front/0/6/06f5ab0d-3280-42d3-bc7e-abb109bbe3c4.jpg?1681159238|https://scryfall.com/card/neo/A-232/a-raiyuu-storms-edge?utm_source=api>`
    First strike
 
    Whenever a Samurai or Warrior you control attacks alone, untap it. If it's the first combat phase of the turn, there is an additional combat phase after this phase.
@@ -1661,6 +1705,12 @@
    Each creature card in your hand has ninjutsu |mana_2|\ |mana_u|\ |mana_b|.
 
 
+:mtgtip:`A-Satoru Umezawa<https://cards.scryfall.io/border_crop/front/7/b/7b30c1fe-b3c0-48c7-a451-989eb3776d43.jpg?1681159297|https://scryfall.com/card/neo/A-234/a-satoru-umezawa?utm_source=api>`
+   Whenever you activate a ninjutsu ability, look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order. This ability triggers only once each turn.
+
+   Each creature card in your hand has ninjutsu |mana_1|\ |mana_u|\ |mana_b|.
+
+
 :mtgtip:`Satsuki, the Living Lore<https://cards.scryfall.io/border_crop/front/0/1/0152575b-31b0-4142-9cc2-b87a81bd51a8.jpg?1654568597|https://scryfall.com/card/neo/235/satsuki-the-living-lore?utm_source=api>`
    |tap|: Put a lore counter on each Saga you control. Activate only as a sorcery.
 
@@ -1673,6 +1723,14 @@
 
 :mtgtip:`Silver-Fur Master<https://cards.scryfall.io/border_crop/front/c/a/cacc36d9-4c4b-43b2-a8b4-d265deb1e6b2.jpg?1654568620|https://scryfall.com/card/neo/236/silver-fur-master?utm_source=api>`
    Ninjutsu |mana_u|\ |mana_b| (|mana_u|\ |mana_b|, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+
+   Ninjutsu abilities you activate cost |mana_1| less to activate.
+
+   Other Ninja and Rogue creatures you control get +1/+1.
+
+
+:mtgtip:`A-Silver-Fur Master<https://cards.scryfall.io/border_crop/front/f/a/fa2d984f-1a5e-4ca7-b333-5fcca8a966e2.jpg?1681159359|https://scryfall.com/card/neo/A-236/a-silver-fur-master?utm_source=api>`
+   Ninjutsu |mana_ub| (|mana_ub|, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
 
    Ninjutsu abilities you activate cost |mana_1| less to activate.
 
@@ -1711,6 +1769,12 @@
 
 :mtgtip:`Circuit Mender<https://cards.scryfall.io/border_crop/front/d/e/defaeb68-3f8a-4740-b13f-8c71c7e9c8b4.jpg?1654568662|https://scryfall.com/card/neo/242/circuit-mender?utm_source=api>`
    When Circuit Mender enters the battlefield, you gain 2 life.
+
+   When Circuit Mender leaves the battlefield, draw a card.
+
+
+:mtgtip:`A-Circuit Mender<https://cards.scryfall.io/border_crop/front/6/a/6a93c43b-0604-47fa-ae4e-4f72d342acf9.jpg?1681158524|https://scryfall.com/card/neo/A-242/a-circuit-mender?utm_source=api>`
+   When Circuit Mender enters the battlefield, you gain 3 life.
 
    When Circuit Mender leaves the battlefield, draw a card.
 
