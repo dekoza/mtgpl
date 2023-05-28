@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG po polsku 2023.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-03-03 09:09+0100\n"
-"PO-Revision-Date: 2023-03-03 08:34+0000\n"
+"PO-Revision-Date: 2023-05-28 12:52+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mom/pl/>\n"
 "Language: pl\n"
@@ -363,11 +363,6 @@ msgstr ""
 "II — Przywróć wszystkie stwory bez typu Phyreksiański do rąk ich właścicieli."
 
 #: ../../MOM.rst:45
-#, fuzzy
-#| msgid ""
-#| "III — You may cast any number of spells from your hand without paying "
-#| "their mana cost. Exile The Great Synthesis, then return it to the "
-#| "battlefield (front face up)."
 msgid ""
 "III — You may cast any number of spells from your hand without paying their "
 "mana costs. Exile The Great Synthesis, then return it to the battlefield "
@@ -406,6 +401,10 @@ msgid ""
 "battlefield under your control. Then each creature you control becomes a "
 "Phyrexian in addition to its other types."
 msgstr ""
+"Każdy gracz mieli po dziesięć kart. Dla każdego gracza, wybierz kartę stwora "
+"lub wędrowca w cmentarzu owego gracza. Umieść owe karty na polu bitwy pod "
+"twoim władaniem. Następnie każdy stwór pod twoim władaniem staje się "
+"dodatkowo Phyrexiański oprócz swoich innych typów."
 
 #: ../../MOM.rst:64
 msgid ""
@@ -460,11 +459,6 @@ msgstr ""
 "aktywowane."
 
 #: ../../MOM.rst:71
-#, fuzzy
-#| msgid ""
-#| "Drana and Linvala has alla ctivated abilities of all creatures your "
-#| "opponents control. You may spend mana as though it were mana of any colo "
-#| "to activate those abilities."
 msgid ""
 "Drana and Linvala has all activated abilities of all creatures your "
 "opponents control. You may spend mana as though it were mana of any color to "
@@ -490,10 +484,6 @@ msgid "Whenever you attack, choose one —"
 msgstr "Ilekroć zaatakujesz, wybierz jedno —"
 
 #: ../../MOM.rst:79
-#, fuzzy
-#| msgid ""
-#| "Create a tapped and attacking X/X green Dniosaur creature token with "
-#| "trample, where X is the greatest power among other attacking creatures."
 msgid ""
 "Create a tapped and attacking X/X green Dinosaur creature token with "
 "trample, where X is the greatest power among other attacking creatures."
@@ -522,13 +512,6 @@ msgstr ""
 "Jeśli miałbyś stracić niewydaną manę, zamiast tego owa mana staje się czarna."
 
 #: ../../MOM.rst:87
-#, fuzzy
-#| msgid ""
-#| "At the beginning of your precombat main phase, look at the top card of "
-#| "your library. You may reveal that card if it has three or more colored "
-#| "mana symbols in its mana cost. If you do, add three mana in any "
-#| "combination of colors and put it into your hand. If you don't reveal it, "
-#| "put it into your hand."
 msgid ""
 "At the beginning of your precombat main phase, look at the top card of your "
 "library. You may reveal that card if it has three or more colored mana "
@@ -566,10 +549,6 @@ msgstr ""
 "przekręcone na pole bitwy."
 
 #: ../../MOM.rst:97
-#, fuzzy
-#| msgid ""
-#| "Wheenver Thalia and The Gitrog Monster attacks, sacrifice a creature or "
-#| "land, then draw a card."
 msgid ""
 "Whenever Thalia and The Gitrog Monster attacks, sacrifice a creature or "
 "land, then draw a card."

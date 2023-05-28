@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG po polsku 2023.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-28 11:31+0200\n"
-"PO-Revision-Date: 2023-05-28 11:11+0000\n"
+"PO-Revision-Date: 2023-05-28 12:52+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mat/pl/>\n"
 "Language: pl\n"
@@ -251,6 +251,9 @@ msgid ""
 "becomes the target of a spell or ability an opponent controls, counter it "
 "unless that player pays |mana_1|.)"
 msgstr ""
+"Każdy inny Człowiek pod twoim władaniem dostaje +1/+0 i ma straż |mana_1|. ("
+"Ilekroć ten stwór zostanie wskazany przez czar lub zdolność pod władaniem "
+"przeciwnika, skontruj to, chyba że ów gracz zapłaci |mana_1|.)"
 
 #: ../../MAT.rst:18
 msgid ""
@@ -261,11 +264,11 @@ msgstr ""
 
 #: ../../MAT.rst:13
 msgid "As Deification enters the battlefield, choose a planeswalker type."
-msgstr ""
+msgstr "Przy wejściu tego bytu na pole bitwy, wybierz tym wędrowca."
 
 #: ../../MAT.rst:15
 msgid "Planeswalkers you control of the chosen type have hexproof."
-msgstr ""
+msgstr "Wędrowcy pod twoim władaniem mający wybrany typ, mają antyklątwę."
 
 #: ../../MAT.rst:17
 msgid ""
@@ -273,6 +276,10 @@ msgid ""
 "control of the chosen type would result in all loyalty counters on it being "
 "removed, instead all but one of those counters are removed."
 msgstr ""
+"O ile władasz stworem, jeśli obrażenia zadane wędrowcowi pod twoim władaniem "
+"mającego wybrany typ miałyby spowodować usunięcie z niego znaczników "
+"lojalności, zamiast tego zostają z niego usunięte wszystkie z owych "
+"znaczników oprócz jednego."
 
 #: ../../MAT.rst:24
 msgid ""
@@ -290,6 +297,8 @@ msgid ""
 "Whenever Harnessed Snubhorn deals combat damage to a player, return target "
 "artifact or enchantment card from your graveyard to the battlefield."
 msgstr ""
+"Ilekroć ten byt zada graczowi obrażenia bojowe, przywróć wskazaną kartę "
+"artefaktu lub uroku z twojego cmentarza na pole bitwy."
 
 #: ../../MAT.rst:32
 msgid ""
@@ -308,7 +317,7 @@ msgstr "Masz antyklątwę."
 
 #: ../../MAT.rst:31
 msgid "Whenever Metropolis Reformer is dealt damage, you gain that much life."
-msgstr ""
+msgstr "Ilekroć niniejszy otrzyma obrażenia, zyskaj tyle samo żyć."
 
 #: ../../MAT.rst:38
 msgid ""
@@ -319,7 +328,7 @@ msgstr ""
 
 #: ../../MAT.rst:35
 msgid "When Spark Rupture enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../MAT.rst:37
 msgid ""
@@ -327,6 +336,9 @@ msgid ""
 "abilities and is a creature with power and toughness each equal to the "
 "number of loyalty counters on it."
 msgstr ""
+"Każdy wędrowiec mający co najmniej jeden znacznik lojalności traci wszystkie "
+"zdolności i jest stworem o sile i wytrzymałości równych liczbie znaczników "
+"lojalności umieszczonych na nim."
 
 #: ../../MAT.rst:44
 msgid ""
@@ -341,6 +353,9 @@ msgid ""
 "creature's colors. Spend this mana only to activate an ability of a "
 "creature. Activate only if this creature has another activated ability.\""
 msgstr ""
+"Każdy stwór pod twoim władaniem ma \"|tap|: Weź jedną manę dowolnego z "
+"kolorów niniejszego stwora. Wydaj tę manę tylko na aktywowanie zdolności "
+"stwora. Możesz aktywować tylko jeśli ten stwór ma inną aktywowaną zdolność.\""
 
 #: ../../MAT.rst:43
 msgid ""
@@ -348,6 +363,9 @@ msgid ""
 "cards. Put all creature cards with activated abilities that aren't mana "
 "abilities from among the milled cards into your hand."
 msgstr ""
+"|mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|, |tap|: Zmiel pięć "
+"kart. Umieść w twojej ręce wszystkie karty stworów z aktywowanymi "
+"zdolnościami nie dającymi many spośród zmielonych kart."
 
 #: ../../MAT.rst:48
 msgid ""
@@ -359,6 +377,7 @@ msgstr ""
 #: ../../MAT.rst:47
 msgid "Return all noncreature, nonland permanents to their owners' hands."
 msgstr ""
+"Przywróć wszystkie niestworowe nielądowe permanenty do rąk ich właścicieli."
 
 #: ../../MAT.rst:54
 msgid ""
@@ -372,6 +391,8 @@ msgid ""
 "When Tolarian Contempt enters the battlefield, put a rejection counter on "
 "each creature your opponents control."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, umieść znacznik odrzucenia na każdym "
+"stworze pod władaniem twoich przeciwników."
 
 #: ../../MAT.rst:53
 msgid ""
@@ -379,6 +400,10 @@ msgid ""
 "target creature they control with a rejection counter on it. That creature's "
 "owner puts it on the top or bottom of their library."
 msgstr ""
+"Na początku twojego kroku końcowego, dla każdego przeciwnika, wybierz co "
+"najwyżej jednego wskazanego stwora pod jego władaniem mającego znacznik "
+"odrzucenia. Właściciel owego stwora umieszcza go na wierzchu lub spodzie "
+"swojej biblioteki."
 
 #: ../../MAT.rst:58
 msgid ""
@@ -419,6 +444,9 @@ msgid ""
 "library. If you reveal a creature card this way, Vesuvan Drifter becomes a "
 "copy of that card until end of turn, except it has flying."
 msgstr ""
+"Na początku każdej potyczki, możesz ujawnić wierzchnią kartę twojej "
+"biblioteki. Jeśli ujawnisz w ten sposób kartę stwora, niniejszy do końca "
+"tury staje się kopią owej karty, ale ma latanie."
 
 #: ../../MAT.rst:72
 msgid ""
@@ -438,6 +466,10 @@ msgid ""
 "exactly four +1/+1 counters on it, search your library for a card, put it "
 "into your hand, then shuffle."
 msgstr ""
+"Ilekroć niniejszy zada graczowi obrażenia bojowe, jeśli ma mniej niż cztery "
+"znaczniki +1/+1, umieść na nim znacznik +1/+1. Następnie jeśli ma dokładnie "
+"cztery znaczniki +1/+1, wyszukaj kartę w twojej bibliotece, umieść ją w "
+"twojej ręce, po czym przetasuj."
 
 #: ../../MAT.rst:76
 msgid ""
