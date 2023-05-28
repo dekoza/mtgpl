@@ -43,7 +43,7 @@ Nadchodzące
 * :mtgexp:`LTR` :doc:`Lord of the Rings<LTR>` Premiera: 2023-06-23
 * :mtgexp:`LTC` :doc:`Lord of the Rings Commander Decks<LTC>` Premiera: 2023-06-23
 * :mtgexp:`CMM` :doc:`Commander Masters<CMM>` Premiera: 2023-08-04
-* :mtgexp:`WOE` :doc:`Wild of Eldraine<WOE>` Premiera: 2023-09-08
+* :mtgexp:`WOE` :doc:`Wilds of Eldraine<WOE>` Premiera: 2023-09-08
 * :mtgexp:`WHO` :doc:`Doctor Who Commander Decks<WHO>` Premiera: 2023-10-13
 
 

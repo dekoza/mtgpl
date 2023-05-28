@@ -1,0 +1,556 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013-2022, Dominik Kozaczko
+# This file is distributed under the same license as the MTG po polsku package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MTG po polsku 2023.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-28 13:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../symbols.rst:3
+msgid "{C}"
+msgstr ""
+
+#: ../../symbols.rst:5
+msgid "{T}"
+msgstr ""
+
+#: ../../symbols.rst:7
+msgid "{Q}"
+msgstr ""
+
+#: ../../symbols.rst:9
+msgid "{U}"
+msgstr ""
+
+#: ../../symbols.rst:11
+msgid "{W}"
+msgstr ""
+
+#: ../../symbols.rst:13
+msgid "{B}"
+msgstr ""
+
+#: ../../symbols.rst:15
+msgid "{G}"
+msgstr ""
+
+#: ../../symbols.rst:17
+msgid "{R}"
+msgstr ""
+
+#: ../../symbols.rst:19
+msgid "{2/U}"
+msgstr ""
+
+#: ../../symbols.rst:21
+msgid "{2/W}"
+msgstr ""
+
+#: ../../symbols.rst:23
+msgid "{2/B}"
+msgstr ""
+
+#: ../../symbols.rst:25
+msgid "{2/G}"
+msgstr ""
+
+#: ../../symbols.rst:27
+msgid "{2/R}"
+msgstr ""
+
+#: ../../symbols.rst:29
+msgid "{U/P}"
+msgstr ""
+
+#: ../../symbols.rst:31
+msgid "{W/P}"
+msgstr ""
+
+#: ../../symbols.rst:33
+msgid "{B/P}"
+msgstr ""
+
+#: ../../symbols.rst:35
+msgid "{G/P}"
+msgstr ""
+
+#: ../../symbols.rst:37
+msgid "{R/P}"
+msgstr ""
+
+#: ../../symbols.rst:39
+msgid "{X}"
+msgstr ""
+
+#: ../../symbols.rst:41
+msgid "{P}"
+msgstr ""
+
+#: ../../symbols.rst:43
+msgid "{0}"
+msgstr ""
+
+#: ../../symbols.rst:45
+msgid "{1}"
+msgstr ""
+
+#: ../../symbols.rst:47
+msgid "{2}"
+msgstr ""
+
+#: ../../symbols.rst:49
+msgid "{3}"
+msgstr ""
+
+#: ../../symbols.rst:51
+msgid "{4}"
+msgstr ""
+
+#: ../../symbols.rst:53
+msgid "{5}"
+msgstr ""
+
+#: ../../symbols.rst:55
+msgid "{6}"
+msgstr ""
+
+#: ../../symbols.rst:57
+msgid "{7}"
+msgstr ""
+
+#: ../../symbols.rst:59
+msgid "{8}"
+msgstr ""
+
+#: ../../symbols.rst:61
+msgid "{9}"
+msgstr ""
+
+#: ../../symbols.rst:63
+msgid "{10}"
+msgstr ""
+
+#: ../../symbols.rst:65
+msgid "{11}"
+msgstr ""
+
+#: ../../symbols.rst:67
+msgid "{12}"
+msgstr ""
+
+#: ../../symbols.rst:69
+msgid "{13}"
+msgstr ""
+
+#: ../../symbols.rst:71
+msgid "{14}"
+msgstr ""
+
+#: ../../symbols.rst:73
+msgid "{15}"
+msgstr ""
+
+#: ../../symbols.rst:75
+msgid "{16}"
+msgstr ""
+
+#: ../../symbols.rst:77
+msgid "{20}"
+msgstr ""
+
+#: ../../symbols.rst:79
+msgid "{(r/g)}"
+msgstr ""
+
+#: ../../symbols.rst:81
+msgid "{(r/w)}"
+msgstr ""
+
+#: ../../symbols.rst:83
+msgid "{(u/b)}"
+msgstr ""
+
+#: ../../symbols.rst:85
+msgid "{(u/r)}"
+msgstr ""
+
+#: ../../symbols.rst:87
+msgid "{(w/b)}"
+msgstr ""
+
+#: ../../symbols.rst:89
+msgid "{(w/u)}"
+msgstr ""
+
+#: ../../symbols.rst:91
+msgid "{(b/g)}"
+msgstr ""
+
+#: ../../symbols.rst:93
+msgid "{(b/r)}"
+msgstr ""
+
+#: ../../symbols.rst:95
+msgid "{(g/w)}"
+msgstr ""
+
+#: ../../symbols.rst:97
+msgid "{(g/u)}"
+msgstr ""
+
+#: ../../symbols.rst:99
+msgid "{(g/u/p)}"
+msgstr ""
+
+#: ../../symbols.rst:101
+msgid "{(g/w/p)}"
+msgstr ""
+
+#: ../../symbols.rst:103
+msgid "{S}"
+msgstr ""
+
+#: ../../symbols.rst:105
+msgid "{E}"
+msgstr ""
+
+#: ../../symbols.rst:107
+msgid "{CHAOS}"
+msgstr ""
+
+#: ../../symbols.rst:109
+msgid "{PW}"
+msgstr ""
+
+#: ../../LTR.rst:5
+msgid ":mtgexp:`LTR` The Lord of the Rings: Tales of Middle-earth"
+msgstr ""
+
+#: ../../LTR.rst:16
+msgid ":mtgtip:`The One Ring<https://cards.scryfall.io/border_crop/front/9/3/93de9042-cc62-4ade-8d8d-68fdbc84bfae.jpg?1682715967|https://scryfall.com/card/ltr/0/the-one-ring?utm_source=api>`"
+msgstr ""
+
+#: ../../LTR.rst:9
+msgid "Indestructible"
+msgstr ""
+
+#: ../../LTR.rst:11
+msgid "When The One Ring enters the battlefield, if you cast it, you gain protection from everything until your next turn."
+msgstr ""
+
+#: ../../LTR.rst:13
+msgid "At the beginning of your upkeep, you lose 1 life for each burden counter on The One Ring."
+msgstr ""
+
+#: ../../LTR.rst:15
+msgid "|tap|: Put a burden counter on The One Ring, then draw a card for each burden counter on The One Ring."
+msgstr ""
+
+#: ../../LTR.rst:22
+msgid ":mtgtip:`Frodo, Sauron's Bane<https://cards.scryfall.io/border_crop/front/7/d/7d86dc2e-6f0c-4714-9d30-5d099d3b895c.jpg?1678818393|https://scryfall.com/card/ltr/18/frodo-saurons-bane?utm_source=api>`"
+msgstr ""
+
+#: ../../LTR.rst:19
+msgid "|mana_wb|\\ |mana_wb|: If Frodo, Sauron's Bane is a Citizen, it becomes a Halfling Scout with base power and toughness 2/3 and lifelink."
+msgstr ""
+
+#: ../../LTR.rst:21
+msgid "|mana_b|\\ |mana_b|\\ |mana_b|: If Frodo is a Scout, it becomes a Halfling Rogue with \"Whenever this creature deals combat damage to a player, that player loses the game if the Ring has tempted you four or more times this game. Otherwise, the Ring tempts you.\""
+msgstr ""
+
+#: ../../LTR.rst:28
+msgid ":mtgtip:`Reprieve<https://cards.scryfall.io/border_crop/front/1/b/1bd3fa8a-6c50-4f7f-9ae3-0810eec5e3db.jpg?1678818946|https://scryfall.com/card/ltr/26/reprieve?utm_source=api>`"
+msgstr ""
+
+#: ../../LTR.rst:25
+msgid "Return target spell to its owner's hand."
+msgstr ""
+
+#: ../../LTR.rst:27
+msgid "Draw a card."
+msgstr ""
+
+#: ../../LTR.rst:34
+msgid ":mtgtip:`Samwise the Stouthearted<https://cards.scryfall.io/border_crop/front/2/1/214c270e-29ca-4d69-bea6-9252ae7707ad.jpg?1678818468|https://scryfall.com/card/ltr/28/samwise-the-stouthearted?utm_source=api>`"
+msgstr ""
+
+#: ../../LTR.rst:31
+#: ../../LTR.rst:131
+#: ../../LTR.rst:147
+msgid "Flash"
+msgstr ""
+
+#: ../../LTR.rst:33
+msgid "When Samwise the Stouthearted enters the battlefield, choose up to one target permanent card in your graveyard that was put there from the battlefield this turn. Return it to your hand. Then the Ring tempts you."
+msgstr ""
+
+#: ../../LTR.rst:38
+msgid ":mtgtip:`You Cannot Pass!<https://cards.scryfall.io/border_crop/front/1/1/116d4030-acd2-4aa2-8254-aaaff1264459.jpg?1678837504|https://scryfall.com/card/ltr/38/you-cannot-pass!?utm_source=api>`"
+msgstr ""
+
+#: ../../LTR.rst:37
+msgid "Destroy target creature that blocked or was blocked by a legendary creature this turn."
+msgstr ""
+
+#: ../../LTR.rst:44
+msgid ":mtgtip:`Call of the Ring<https://cards.scryfall.io/border_crop/front/a/9/a92a2c5a-e450-494a-b23b-7ac0a6c50535.jpg?1683517572|https://scryfall.com/card/ltr/79/call-of-the-ring?utm_source=api>`"
+msgstr ""
+
+#: ../../LTR.rst:41
+msgid "At the beginning of your upkeep, the Ring tempts you."
+msgstr ""
+
+#: ../../LTR.rst:43
+msgid "Whenever you choose a creature as your Ring-bearer, you may pay 2 life. If you do, draw a card."
+msgstr ""
+
+#: ../../LTR.rst:50
+msgid ":mtgtip:`Gollum, Patient Plotter<https://cards.scryfall.io/border_crop/front/4/d/4ddda7d4-0226-404f-8418-f1f5720dcef8.jpg?1678908173|https://scryfall.com/card/ltr/84/gollum-patient-plotter?utm_source=api>`"
+msgstr ""
+
+#: ../../LTR.rst:47
+msgid "When Gollum, Patient Plotter leaves the battlefield, the Ring tempts you."
+msgstr ""
+
+#: ../../LTR.rst:49
+msgid "|mana_b|, Sacrifice a creature: Return Gollum from your graveyard to your hand. Activate only as a sorcery."
+msgstr ""
+
+#: ../../LTR.rst:56
+msgid ":mtgtip:`Sauron, the Necromancer<https://cards.scryfall.io/border_crop/front/3/7/377d65d8-21c8-4292-97db-610e0173ba59.jpg?1683517577|https://scryfall.com/card/ltr/106/sauron-the-necromancer?utm_source=api>`"
+msgstr ""
+
+#: ../../LTR.rst:53
+#: ../../LTR.rst:133
+msgid "Menace"
+msgstr ""
+
+#: ../../LTR.rst:55
+msgid "Whenever Sauron, the Necromancer attacks, exile target creature card from your graveyard. Create a tapped and attacking token that's a copy of that card, except it's a 3/3 black Wraith with menace. At the beginning of the next end step, exile that token unless Sauron is your Ring-bearer."
+msgstr ""
+
+#: ../../LTR.rst:68
+msgid ":mtgtip:`Gandalf the Grey<https://cards.scryfall.io/border_crop/front/e/2/e2b975e6-e709-481f-bfbc-41a832508283.jpg?1681224987|https://scryfall.com/card/ltr/207/gandalf-the-grey?utm_source=api>`"
+msgstr ""
+
+#: ../../LTR.rst:59
+msgid "Whenever you cast an instant or sorcery spell, choose one that hasn't been chosen —"
+msgstr ""
+
+#: ../../LTR.rst:61
+msgid "You may tap or untap target permanent."
+msgstr ""
+
+#: ../../LTR.rst:63
+msgid "Gandalf the Grey deals 3 damage to each opponent."
+msgstr ""
+
+#: ../../LTR.rst:65
+msgid "Copy target instant or sorcery spell you control. You may choose new targets for the copy."
+msgstr ""
+
+#: ../../LTR.rst:67
+msgid "Put Gandalf on top of its owner's library."
+msgstr ""
+
+#: ../../LTR.rst:74
+msgid ":mtgtip:`Tom Bombadil<https://cards.scryfall.io/border_crop/front/2/a/2ab04c49-76a1-4896-8dca-8cb4c615f489.jpg?1681225002|https://scryfall.com/card/ltr/234/tom-bombadil?utm_source=api>`"
+msgstr ""
+
+#: ../../LTR.rst:71
+msgid "As long as there are four or more lore counters among Sagas you control, Tom Bombadil has hexproof and indestructible."
+msgstr ""
+
+#: ../../LTR.rst:73
+msgid "Whenever the final chapter ability of a Saga you control resolves, reveal cards from the top of your library until you reveal a Saga card. Put that card onto the battlefield and the rest on the bottom of your library in a random order. This ability triggers only once each turn."
+msgstr ""
+
+#: ../../LTR.rst:82
+msgid ":mtgtip:`Mount Doom<https://cards.scryfall.io/border_crop/front/b/5/b5bc71a1-2344-4bc6-aa60-658cec19d0d6.jpg?1678818681|https://scryfall.com/card/ltr/258/mount-doom?utm_source=api>`"
+msgstr ""
+
+#: ../../LTR.rst:77
+msgid "|tap|, Pay 1 life: Add |mana_b| or |mana_r|."
+msgstr ""
+
+#: ../../LTR.rst:79
+msgid "|mana_1|\\ |mana_b|\\ |mana_r|, |tap|: Mount Doom deals 1 damage to each opponent."
+msgstr ""
+
+#: ../../LTR.rst:81
+msgid "|mana_5|\\ |mana_b|\\ |mana_r|, |tap|, Sacrifice Mount Doom and a legendary artifact: Choose up to two creatures, then destroy the rest. Activate only as a sorcery."
+msgstr ""
+
+#: ../../LTR.rst:90
+msgid ":mtgtip:`The Shire<https://cards.scryfall.io/border_crop/front/d/5/d5178a1b-588b-4414-a370-ac6eed51187a.jpg?1678822640|https://scryfall.com/card/ltr/260/the-shire?utm_source=api>`"
+msgstr ""
+
+#: ../../LTR.rst:85
+msgid "The Shire enters the battlefield tapped unless you control a legendary creature."
+msgstr ""
+
+#: ../../LTR.rst:87
+msgid "|tap|: Add |mana_g|."
+msgstr ""
+
+#: ../../LTR.rst:89
+msgid "|mana_1|\\ |mana_g|, |tap|, Tap an untapped creature you control: Create a Food token."
+msgstr ""
+
+#: ../../LTR.rst:94
+msgid ":mtgtip:`Plains<https://cards.scryfall.io/border_crop/front/4/f/4ff9fbf5-de6f-4ef9-a6ab-56da4b341b77.jpg?1678821860|https://scryfall.com/card/ltr/272/plains?utm_source=api>`"
+msgstr ""
+
+#: ../../LTR.rst:93
+msgid "(|tap|: Add |mana_w|.)"
+msgstr ""
+
+#: ../../LTR.rst:98
+msgid ":mtgtip:`Island<https://cards.scryfall.io/border_crop/front/e/b/eba0c7c5-ed63-41a5-93e1-a979a6f983b9.jpg?1678821956|https://scryfall.com/card/ltr/274/island?utm_source=api>`"
+msgstr ""
+
+#: ../../LTR.rst:97
+msgid "(|tap|: Add |mana_u|.)"
+msgstr ""
+
+#: ../../LTR.rst:102
+msgid ":mtgtip:`Swamp<https://cards.scryfall.io/border_crop/front/9/b/9b5f68bc-1842-4efd-b85a-d897cfd63bde.jpg?1678821891|https://scryfall.com/card/ltr/276/swamp?utm_source=api>`"
+msgstr ""
+
+#: ../../LTR.rst:101
+msgid "(|tap|: Add |mana_b|.)"
+msgstr ""
+
+#: ../../LTR.rst:106
+msgid ":mtgtip:`Mountain<https://cards.scryfall.io/border_crop/front/b/1/b1902b98-7579-4b7a-8cb8-9bd0e0da5f67.jpg?1678821959|https://scryfall.com/card/ltr/278/mountain?utm_source=api>`"
+msgstr ""
+
+#: ../../LTR.rst:105
+msgid "(|tap|: Add |mana_r|.)"
+msgstr ""
+
+#: ../../LTR.rst:110
+msgid ":mtgtip:`Forest<https://cards.scryfall.io/border_crop/front/2/f/2f5b488e-d725-4ef7-90f4-71091325c0b6.jpg?1678821943|https://scryfall.com/card/ltr/280/forest?utm_source=api>`"
+msgstr ""
+
+#: ../../LTR.rst:109
+msgid "(|tap|: Add |mana_g|.)"
+msgstr ""
+
+#: ../../LTR.rst:116
+msgid ":mtgtip:`Aragorn and Arwen, Wed<https://cards.scryfall.io/border_crop/front/d/7/d7d4c97a-9319-4534-9a49-da000f41a02d.jpg?1678908124|https://scryfall.com/card/ltr/287/aragorn-and-arwen-wed?utm_source=api>`"
+msgstr ""
+
+#: ../../LTR.rst:113
+msgid "Vigilance"
+msgstr ""
+
+#: ../../LTR.rst:115
+msgid "Whenever Aragorn and Arwen, Wed enters the battlefield or attacks, put a +1/+1 counter on each other creature you control. You gain 1 life for each other creature you control."
+msgstr ""
+
+#: ../../LTR.rst:122
+msgid ":mtgtip:`Sauron, the Lidless Eye<https://cards.scryfall.io/border_crop/front/d/8/d82a4c78-d2fc-425a-8d0e-2e64509a08f1.jpg?1678908144|https://scryfall.com/card/ltr/288/sauron-the-lidless-eye?utm_source=api>`"
+msgstr ""
+
+#: ../../LTR.rst:119
+msgid "When Sauron, the Lidless Eye enters the battlefield, gain control of target creature an opponent controls until end of turn. Untap it. It gains haste until end of turn."
+msgstr ""
+
+#: ../../LTR.rst:121
+msgid "|mana_1|\\ |mana_b|\\ |mana_r|: Creatures you control get +2/+0 until end of turn. Each opponent loses 2 life."
+msgstr ""
+
+#: ../../LTR.rst:128
+msgid ":mtgtip:`Trailblazer's Boots<https://cards.scryfall.io/border_crop/front/3/6/36ee958c-ae8c-49bd-9d85-0128ca19901c.jpg?1682715802|https://scryfall.com/card/ltr/398/trailblazers-boots?utm_source=api>`"
+msgstr ""
+
+#: ../../LTR.rst:125
+msgid "Equipped creature has nonbasic landwalk. (It can't be blocked as long as defending player controls a nonbasic land.)"
+msgstr ""
+
+#: ../../LTR.rst:127
+msgid "Equip |mana_2|"
+msgstr ""
+
+#: ../../LTR.rst:136
+msgid ":mtgtip:`Lobelia Sackville-Baggins<https://cards.scryfall.io/border_crop/front/0/e/0ecea0ba-da29-45f1-b72b-50b873309483.jpg?1683414336|https://scryfall.com/card/ltr/399/lobelia-sackville-baggins?utm_source=api>`"
+msgstr ""
+
+#: ../../LTR.rst:135
+msgid "When Lobelia Sackville-Baggins enters the battlefield, exile target creature card from an opponent's graveyard that was put there from the battlefield this turn, then create X Treasure tokens, where X is the exiled card's power."
+msgstr ""
+
+#: ../../LTR.rst:144
+msgid ":mtgtip:`Wizard's Rockets<https://cards.scryfall.io/border_crop/front/5/4/541faaf0-4832-47b5-bb92-881dd70d6309.jpg?1683414385|https://scryfall.com/card/ltr/400/wizards-rockets?utm_source=api>`"
+msgstr ""
+
+#: ../../LTR.rst:139
+msgid "Wizard's Rockets enters the battlefield tapped."
+msgstr ""
+
+#: ../../LTR.rst:141
+msgid "|mana_x|, |tap|, Sacrifice Wizard's Rockets: Add X mana in any combination of colors."
+msgstr ""
+
+#: ../../LTR.rst:143
+msgid "When Wizard's Rockets is put into a graveyard from the battlefield, draw a card."
+msgstr ""
+
+#: ../../LTR.rst:152
+msgid ":mtgtip:`Gandalf, Friend of the Shire<https://cards.scryfall.io/border_crop/front/6/4/646ff18e-9d6a-4a55-838c-0bd88b8c9fae.jpg?1683861760|https://scryfall.com/card/ltr/401/gandalf-friend-of-the-shire?utm_source=api>`"
+msgstr ""
+
+#: ../../LTR.rst:149
+msgid "You may cast sorcery spells as though they had flash."
+msgstr ""
+
+#: ../../LTR.rst:151
+msgid "Whenever the Ring tempts you, if you chose a creature other than Gandalf, Friend of the Shire as your Ring-bearer, draw a card."
+msgstr ""
+
+#: ../../LTR.rst:158
+msgid ":mtgtip:`Delighted Halfling<https://cards.scryfall.io/border_crop/front/c/d/cd87f082-1596-43fd-b971-720090ac6733.jpg?1684523691|https://scryfall.com/card/ltr/402/delighted-halfling?utm_source=api>`"
+msgstr ""
+
+#: ../../LTR.rst:155
+msgid "|tap|: Add |colorless|."
+msgstr ""
+
+#: ../../LTR.rst:157
+msgid "|tap|: Add one mana of any color. Spend this mana only to cast a legendary spell, and that spell can't be countered."
+msgstr ""
+
+#: ../../LTR.rst:164
+msgid ":mtgtip:`Bilbo, Retired Burglar<https://cards.scryfall.io/border_crop/front/b/1/b14d6a77-eb1e-4f1a-ac5c-7513952fd1ce.jpg?1683416047|https://scryfall.com/card/ltr/403/bilbo-retired-burglar?utm_source=api>`"
+msgstr ""
+
+#: ../../LTR.rst:161
+msgid "When Bilbo, Retired Burglar enters or leaves the battlefield, the Ring tempts you."
+msgstr ""
+
+#: ../../LTR.rst:163
+msgid "Whenever Bilbo deals combat damage to a player, create a Treasure token."
+msgstr ""
+
+#: ../../LTR.rst:169
+msgid ":mtgtip:`Frodo Baggins<https://cards.scryfall.io/border_crop/front/7/7/770ea046-3008-4d4e-b316-e6c5e80422d3.jpg?1683414575|https://scryfall.com/card/ltr/404/frodo-baggins?utm_source=api>`"
+msgstr ""
+
+#: ../../LTR.rst:167
+msgid "Whenever Frodo Baggins or another legendary creature enters the battlefield under your control, the Ring tempts you."
+msgstr ""
+
+#: ../../LTR.rst:169
+msgid "As long as Frodo is your Ring-bearer, it must be blocked if able."
+msgstr ""
