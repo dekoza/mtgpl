@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG po polsku 2022.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-02 12:41+0100\n"
+"POT-Creation-Date: 2023-05-28 11:10+0200\n"
 "PO-Revision-Date: 2023-03-03 08:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/j22/pl/>\n"
@@ -287,7 +287,7 @@ msgstr "O ile niniejszy ma co najmniej trzy znaczniki +1/+1, ma on latanie."
 #: ../../J22.rst:26
 msgid ""
 ":mtgtip:`Chains of Custody<https://cards.scryfall.io/border_crop/"
-"front/9/4/94a1a840-bcdc-4d6f-a28d-9805578473f6.jpg?1675644333|https://"
+"front/9/4/94a1a840-bcdc-4d6f-a28d-9805578473f6.jpg?1682896221|https://"
 "scryfall.com/card/j22/3/chains-of-custody?utm_source=api>`"
 msgstr ""
 
@@ -305,10 +305,15 @@ msgstr ""
 "władaniem przeciwnika do czasu opuszczenia pola bitwy przez niniejszy."
 
 #: ../../J22.rst:25
+#, fuzzy
+#| msgid ""
+#| "Enchanted creature has ward |mana_2|. (Whenever this creature becomes the "
+#| "target of a spell or ability an opponent controls, counter it unless that "
+#| "player pays |mana_2|.)"
 msgid ""
-"Enchanted creature has ward |mana_2|. (Whenever this creature becomes the "
-"target of a spell or ability an opponent controls, counter it unless that "
-"player pays |mana_2|.)"
+"Enchanted creature has ward |mana_2|. (Whenever it becomes the target of a "
+"spell or ability an opponent controls, counter it unless that player pays |"
+"mana_2|.)"
 msgstr ""
 "Zauroczony stwór ma straż |mana_2|. (Ilekroć ten stwór zostanie wskazany "
 "przez czar lub zdolność pod władaniem przeciwnika, skontruj to, chyba że ów "
@@ -785,7 +790,7 @@ msgstr ""
 #: ../../J22.rst:162
 msgid ""
 ":mtgtip:`Rodolf Duskbringer<https://cards.scryfall.io/border_crop/front/d/9/"
-"d9afd47b-ff94-4fdd-bb04-bdf9b8b61a6d.jpg?1675644592|https://scryfall.com/"
+"d9afd47b-ff94-4fdd-bb04-bdf9b8b61a6d.jpg?1682896157|https://scryfall.com/"
 "card/j22/25/rodolf-duskbringer?utm_source=api>`"
 msgstr ""
 
@@ -801,10 +806,17 @@ msgstr ""
 "Ilekroć zyskasz życia, niniejszy do końca tury zyskuje niezniszczalność."
 
 #: ../../J22.rst:161
+#, fuzzy
+#| msgid ""
+#| "At the beginning of your end step, you may pay |mana_1|\\ |mana_wb|. When "
+#| "you do, return target creature with mana value X or less from your "
+#| "graveyard to the battlefield, where X is the amount of life you gained "
+#| "this turn."
 msgid ""
 "At the beginning of your end step, you may pay |mana_1|\\ |mana_wb|. When "
-"you do, return target creature with mana value X or less from your graveyard "
-"to the battlefield, where X is the amount of life you gained this turn."
+"you do, return target creature card with mana value X or less from your "
+"graveyard to the battlefield, where X is the amount of life you gained this "
+"turn."
 msgstr ""
 "Na początku twojego kroku końcowego, możesz zapłacić |mana_1|\\ |mana_wb|. "
 "Kiedy tak zrobisz, przywróć wskazaną kartę stwora o skrócie many X lub "
@@ -847,7 +859,7 @@ msgstr ""
 #: ../../J22.rst:176
 msgid ""
 ":mtgtip:`Termination Facilitator<https://cards.scryfall.io/border_crop/"
-"front/5/d/5db59164-f0b1-4b5a-b821-ad0b2e1612d1.jpg?1675644634|https://"
+"front/5/d/5db59164-f0b1-4b5a-b821-ad0b2e1612d1.jpg?1684320785|https://"
 "scryfall.com/card/j22/28/termination-facilitator?utm_source=api>`"
 msgstr ""
 
@@ -984,15 +996,19 @@ msgstr ""
 #: ../../J22.rst:206
 msgid ""
 ":mtgtip:`Daring Piracy<https://cards.scryfall.io/border_crop/front/e/c/"
-"ec6ce176-a4f3-44dd-b66a-a23b6cf512e4.jpg?1675644695|https://scryfall.com/"
+"ec6ce176-a4f3-44dd-b66a-a23b6cf512e4.jpg?1679784296|https://scryfall.com/"
 "card/j22/33/daring-piracy?utm_source=api>`"
 msgstr ""
 
 #: ../../J22.rst:205
+#, fuzzy
+#| msgid ""
+#| "At the beginning of your combat on your turn, create a 1/1 red Pirate "
+#| "creature token with menace and haste. Exile it at the beginning of the "
+#| "next end step."
 msgid ""
-"At the beginning of your combat on your turn, create a 1/1 red Pirate "
-"creature token with menace and haste. Exile it at the beginning of the next "
-"end step."
+"At the beginning of combat on your turn, create a 1/1 red Pirate creature "
+"token with menace and haste. Exile it at the beginning of the next end step."
 msgstr ""
 "Na początku potyczki w twojej turze stwórz żeton czerwonego stwora Pirat 1/1 "
 "ze złowrogością i pośpiechem. Wygnaj go na początku najbliższego kroku "
@@ -1431,7 +1447,7 @@ msgstr ""
 #: ../../J22.rst:334
 msgid ""
 ":mtgtip:`Eidolon of Rhetoric<https://cards.scryfall.io/border_crop/front/8/"
-"f/8f9ad5c0-a343-4d1a-9a85-1f4d5fa64079.jpg?1675644970|https://scryfall.com/"
+"f/8f9ad5c0-a343-4d1a-9a85-1f4d5fa64079.jpg?1681728932|https://scryfall.com/"
 "card/j22/54/eidolon-of-rhetoric?utm_source=api>`"
 msgstr ""
 
@@ -1565,7 +1581,7 @@ msgstr ""
 #: ../../J22.rst:380
 msgid ""
 ":mtgtip:`Mirror Image<https://cards.scryfall.io/border_crop/front/b/d/"
-"bd9b7f07-cffb-4797-94a6-3279714b1c88.jpg?1675645062|https://scryfall.com/"
+"bd9b7f07-cffb-4797-94a6-3279714b1c88.jpg?1683966574|https://scryfall.com/"
 "card/j22/62/mirror-image?utm_source=api>`"
 msgstr ""
 
@@ -1597,7 +1613,7 @@ msgstr ""
 #: ../../J22.rst:392
 msgid ""
 ":mtgtip:`Spectral Sailor<https://cards.scryfall.io/border_crop/"
-"front/7/7/7743b587-e498-4761-9173-e803c9eed86b.jpg?1675645086|https://"
+"front/7/7/7743b587-e498-4761-9173-e803c9eed86b.jpg?1680795503|https://"
 "scryfall.com/card/j22/64/spectral-sailor?utm_source=api>`"
 msgstr ""
 
@@ -2232,7 +2248,7 @@ msgstr "(|tap|: Weź |mana_g|.)"
 #: ../../J22.rst:608
 msgid ""
 ":mtgtip:`Task Force<https://cards.scryfall.io/border_crop/front/a/1/"
-"a1db6ef2-92a7-4dc1-bb7f-f9ad1dd76593.jpg?1675645668|https://scryfall.com/"
+"a1db6ef2-92a7-4dc1-bb7f-f9ad1dd76593.jpg?1680223863|https://scryfall.com/"
 "card/j22/113/task-force?utm_source=api>`"
 msgstr ""
 
@@ -2262,7 +2278,7 @@ msgstr ""
 #: ../../J22.rst:616
 msgid ""
 ":mtgtip:`Tragic Lesson<https://cards.scryfall.io/border_crop/front/b/3/"
-"b31430e8-538b-4361-ba80-b91b2ca0fe36.jpg?1675645692|https://scryfall.com/"
+"b31430e8-538b-4361-ba80-b91b2ca0fe36.jpg?1680134570|https://scryfall.com/"
 "card/j22/115/tragic-lesson?utm_source=api>`"
 msgstr ""
 
@@ -2277,7 +2293,7 @@ msgstr ""
 #: ../../J22.rst:620
 msgid ""
 ":mtgtip:`Wizard Mentor<https://cards.scryfall.io/border_crop/front/c/2/"
-"c24faaf5-f63f-4c46-9bed-ae4693ff8e9a.jpg?1675645704|https://scryfall.com/"
+"c24faaf5-f63f-4c46-9bed-ae4693ff8e9a.jpg?1680134530|https://scryfall.com/"
 "card/j22/116/wizard-mentor?utm_source=api>`"
 msgstr ""
 
@@ -2361,7 +2377,7 @@ msgstr ""
 #: ../../J22.rst:644
 msgid ""
 ":mtgtip:`Morkrut Banshee<https://cards.scryfall.io/border_crop/front/7/"
-"d/7d28e4a2-5ed6-43f5-a38d-b8bb30d935d9.jpg?1675645765|https://scryfall.com/"
+"d/7d28e4a2-5ed6-43f5-a38d-b8bb30d935d9.jpg?1680134481|https://scryfall.com/"
 "card/j22/121/morkrut-banshee?utm_source=api>`"
 msgstr ""
 
@@ -2391,7 +2407,7 @@ msgstr ""
 #: ../../J22.rst:654
 msgid ""
 ":mtgtip:`Phyrexian Plaguelord<https://cards.scryfall.io/border_crop/front/9/"
-"e/9e537802-164f-4ba2-8f3a-9ebc845e05fd.jpg?1675645791|https://scryfall.com/"
+"e/9e537802-164f-4ba2-8f3a-9ebc845e05fd.jpg?1680134502|https://scryfall.com/"
 "card/j22/123/phyrexian-plaguelord?utm_source=api>`"
 msgstr ""
 
@@ -2446,7 +2462,7 @@ msgstr ""
 #: ../../J22.rst:674
 msgid ""
 ":mtgtip:`Swarm of Bloodflies<https://cards.scryfall.io/border_crop/front/b/6/"
-"b675b8a4-3cbc-458f-bdc3-1ec85f95dde9.jpg?1675645844|https://scryfall.com/"
+"b675b8a4-3cbc-458f-bdc3-1ec85f95dde9.jpg?1680134589|https://scryfall.com/"
 "card/j22/127/swarm-of-bloodflies?utm_source=api>`"
 msgstr ""
 
@@ -2463,7 +2479,7 @@ msgstr "Ilekroć inny stwór umrze, umieść znacznik +1/+1 na tym stworze."
 #: ../../J22.rst:678
 msgid ""
 ":mtgtip:`Wakedancer<https://cards.scryfall.io/border_crop/front/e/0/"
-"e0fd24ce-6b37-4801-b10f-5e2dbada7a41.jpg?1675645859|https://scryfall.com/"
+"e0fd24ce-6b37-4801-b10f-5e2dbada7a41.jpg?1680134552|https://scryfall.com/"
 "card/j22/128/wakedancer?utm_source=api>`"
 msgstr ""
 
@@ -2596,7 +2612,7 @@ msgstr "|tap|: Umieść znacznik +1/+1 na tym stworze."
 #: ../../J22.rst:722
 msgid ""
 ":mtgtip:`Spawning Pit<https://cards.scryfall.io/border_crop/front/d/1/"
-"d1f1ece0-83be-4f46-8c17-3fb0af900b7a.jpg?1675645959|https://scryfall.com/"
+"d1f1ece0-83be-4f46-8c17-3fb0af900b7a.jpg?1680134609|https://scryfall.com/"
 "card/j22/136/spawning-pit?utm_source=api>`"
 msgstr ""
 
@@ -2737,7 +2753,7 @@ msgstr "Ilekroć zyskasz życia, umieść znacznik +1/+1 na tym stworze."
 #: ../../J22.rst:766
 msgid ""
 ":mtgtip:`Alseid of Life's Bounty<https://cards.scryfall.io/border_crop/"
-"front/0/6/06dbfdac-059c-411c-aeac-6d849ee54212.jpg?1675646052|https://"
+"front/0/6/06dbfdac-059c-411c-aeac-6d849ee54212.jpg?1681728841|https://"
 "scryfall.com/card/j22/143/alseid-of-lifes-bounty?utm_source=api>`"
 msgstr ""
 
@@ -3528,7 +3544,7 @@ msgstr "|mana_w|, |tap|: Przekręć wskazanego stwora."
 #: ../../J22.rst:1036
 msgid ""
 ":mtgtip:`Glory Bearers<https://cards.scryfall.io/border_crop/front/9/"
-"a/9a0f1eb3-379d-4dc0-a3c8-618cfd3414b2.jpg?1675646697|https://scryfall.com/"
+"a/9a0f1eb3-379d-4dc0-a3c8-618cfd3414b2.jpg?1681728922|https://scryfall.com/"
 "card/j22/191/glory-bearers?utm_source=api>`"
 msgstr ""
 
@@ -4192,7 +4208,7 @@ msgstr ""
 #: ../../J22.rst:1264
 msgid ""
 ":mtgtip:`Savannah Lions<https://cards.scryfall.io/border_crop/"
-"front/8/9/89b77ad5-1585-49dc-b635-780143e1e1c8.jpg?1675647463|https://"
+"front/8/9/89b77ad5-1585-49dc-b635-780143e1e1c8.jpg?1681518881|https://"
 "scryfall.com/card/j22/237/savannah-lions?utm_source=api>`"
 msgstr ""
 
@@ -4500,7 +4516,7 @@ msgstr ""
 #: ../../J22.rst:1372
 msgid ""
 ":mtgtip:`Transcendent Envoy<https://cards.scryfall.io/border_crop/"
-"front/3/9/39830f8b-3c92-4bce-9ddc-e71d402f599a.jpg?1675647776|https://"
+"front/3/9/39830f8b-3c92-4bce-9ddc-e71d402f599a.jpg?1681729393|https://"
 "scryfall.com/card/j22/257/transcendent-envoy?utm_source=api>`"
 msgstr ""
 
@@ -5929,7 +5945,7 @@ msgstr ""
 #: ../../J22.rst:1904
 msgid ""
 ":mtgtip:`Stinging Lionfish<https://cards.scryfall.io/border_crop/"
-"front/3/6/36fc6a86-d778-4407-8db2-1c15ce827e01.jpg?1675648982|https://"
+"front/3/6/36fc6a86-d778-4407-8db2-1c15ce827e01.jpg?1681729349|https://"
 "scryfall.com/card/j22/352/stinging-lionfish?utm_source=api>`"
 msgstr ""
 
@@ -6268,7 +6284,7 @@ msgstr ""
 #: ../../J22.rst:2008
 msgid ""
 ":mtgtip:`Wavebreak Hippocamp<https://cards.scryfall.io/border_crop/front/d/1/"
-"d1d0b6f3-d2c7-441a-9b8f-3269d196a106.jpg?1675649135|https://scryfall.com/"
+"d1d0b6f3-d2c7-441a-9b8f-3269d196a106.jpg?1681729442|https://scryfall.com/"
 "card/j22/371/wavebreak-hippocamp?utm_source=api>`"
 msgstr ""
 
@@ -6890,7 +6906,7 @@ msgstr ""
 #: ../../J22.rst:2224
 msgid ""
 ":mtgtip:`Fetid Imp<https://cards.scryfall.io/border_crop/front/9/a/9a3353a2-"
-"b443-4084-b43f-0ff3a22b26c1.jpg?1675649485|https://scryfall.com/card/j22/415/"
+"b443-4084-b43f-0ff3a22b26c1.jpg?1680134188|https://scryfall.com/card/j22/415/"
 "fetid-imp?utm_source=api>`"
 msgstr ""
 
@@ -9429,7 +9445,7 @@ msgstr "Ilekroć recyklujesz kartę, ten stwór do końca tury dostaje +2/+0."
 #: ../../J22.rst:3062
 msgid ""
 ":mtgtip:`Professional Face-Breaker<https://cards.scryfall.io/border_crop/"
-"front/9/c/9c2561e6-c5b6-4c88-896e-67b33b8cf6bc.jpg?1675650819|https://"
+"front/9/c/9c2561e6-c5b6-4c88-896e-67b33b8cf6bc.jpg?1681517446|https://"
 "scryfall.com/card/j22/581/professional-face-breaker?utm_source=api>`"
 msgstr ""
 
@@ -10361,7 +10377,7 @@ msgstr ""
 #: ../../J22.rst:3360
 msgid ""
 ":mtgtip:`Courser of Kruphix<https://cards.scryfall.io/border_crop/front/c/c/"
-"cccc9e96-b3dd-4443-935e-621ec37f595b.jpg?1675651321|https://scryfall.com/"
+"cccc9e96-b3dd-4443-935e-621ec37f595b.jpg?1681729189|https://scryfall.com/"
 "card/j22/641/courser-of-kruphix?utm_source=api>`"
 msgstr ""
 
@@ -12640,7 +12656,7 @@ msgstr "Wyposaż |mana_1|"
 #: ../../J22.rst:4094
 msgid ""
 ":mtgtip:`Hero's Blade<https://cards.scryfall.io/border_crop/front/b/3/"
-"b342fb32-d1a0-4fb3-9765-af7674bc6628.jpg?1675652421|https://scryfall.com/"
+"b342fb32-d1a0-4fb3-9765-af7674bc6628.jpg?1680134246|https://scryfall.com/"
 "card/j22/776/heros-blade?utm_source=api>`"
 msgstr ""
 
@@ -12742,7 +12758,7 @@ msgstr ""
 #: ../../J22.rst:4132
 msgid ""
 ":mtgtip:`Leonin Scimitar<https://cards.scryfall.io/border_crop/front/7/"
-"f/7f30adfa-2581-47ca-946f-d1a193523be3.jpg?1675652472|https://scryfall.com/"
+"f/7f30adfa-2581-47ca-946f-d1a193523be3.jpg?1680134430|https://scryfall.com/"
 "card/j22/782/leonin-scimitar?utm_source=api>`"
 msgstr ""
 

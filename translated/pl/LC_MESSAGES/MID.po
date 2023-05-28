@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.7\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-02 12:41+0100\n"
+"POT-Creation-Date: 2023-05-28 11:10+0200\n"
 "PO-Revision-Date: 2023-03-03 08:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mid/pl/>\n"
@@ -1438,7 +1438,7 @@ msgstr ""
 #: ../../MID.rst:384
 msgid ""
 ":mtgtip:`A-Falcon Abomination<https://cards.scryfall.io/border_crop/"
-"front/0/0/004c1078-0dea-4885-97b5-497f3f15c8c3.jpg?1645740110|https://"
+"front/0/0/004c1078-0dea-4885-97b5-497f3f15c8c3.jpg?1681158665|https://"
 "scryfall.com/card/mid/A-52/a-falcon-abomination?utm_source=api>`"
 msgstr ""
 
@@ -1582,7 +1582,7 @@ msgstr ""
 #: ../../MID.rst:438
 msgid ""
 ":mtgtip:`A-Lier, Disciple of the Drowned<https://cards.scryfall.io/"
-"border_crop/front/7/9/79a6bf25-4e94-4760-b4f5-69c78ac98fb5.jpg?1645415764|"
+"border_crop/front/7/9/79a6bf25-4e94-4760-b4f5-69c78ac98fb5.jpg?1681158992|"
 "https://scryfall.com/card/mid/A-59/a-lier-disciple-of-the-drowned?"
 "utm_source=api>`"
 msgstr ""
@@ -1838,7 +1838,7 @@ msgstr "Rzucanie czarów z twojego cmentarza kosztuje cię o |mana_1| mniej."
 #: ../../MID.rst:526
 msgid ""
 ":mtgtip:`A-Patrician Geist<https://cards.scryfall.io/border_crop/front/a/1/"
-"a17c4ab2-f455-4195-86d2-b8d039fb27dd.jpg?1676762034|https://scryfall.com/"
+"a17c4ab2-f455-4195-86d2-b8d039fb27dd.jpg?1681159170|https://scryfall.com/"
 "card/mid/A-69/a-patrician-geist?utm_source=api>`"
 msgstr ""
 
@@ -1866,7 +1866,7 @@ msgstr ""
 #: ../../MID.rst:538
 msgid ""
 ":mtgtip:`A-Phantom Carriage<https://cards.scryfall.io/border_crop/front/b/9/"
-"b99a920c-5bd9-4aee-863a-26b4bfd4bf08.jpg?1676762147|https://scryfall.com/"
+"b99a920c-5bd9-4aee-863a-26b4bfd4bf08.jpg?1681159220|https://scryfall.com/"
 "card/mid/A-70/a-phantom-carriage?utm_source=api>`"
 msgstr ""
 
@@ -1977,7 +1977,7 @@ msgstr ""
 #: ../../MID.rst:572
 msgid ""
 ":mtgtip:`A-Shipwreck Sifters<https://cards.scryfall.io/border_crop/"
-"front/5/9/59feb0fa-3d5f-4712-899c-272f3976ff0d.jpg?1676762210|https://"
+"front/5/9/59feb0fa-3d5f-4712-899c-272f3976ff0d.jpg?1681159363|https://"
 "scryfall.com/card/mid/A-74/a-shipwreck-sifters?utm_source=api>`"
 msgstr ""
 
@@ -2645,7 +2645,7 @@ msgstr ""
 #: ../../MID.rst:804
 msgid ""
 ":mtgtip:`A-Hobbling Zombie<https://cards.scryfall.io/border_crop/front/2/"
-"f/2fae7302-0439-4b96-88c8-4ecfae322e7b.jpg?1649850855|https://scryfall.com/"
+"f/2fae7302-0439-4b96-88c8-4ecfae322e7b.jpg?1681158880|https://scryfall.com/"
 "card/mid/A-106/a-hobbling-zombie?utm_source=api>`"
 msgstr ""
 
@@ -2799,7 +2799,7 @@ msgstr "Ilekroć umrze stwór pod władaniem przeciwnika, zyskaj 1 życie."
 #: ../../MID.rst:856
 msgid ""
 ":mtgtip:`A-The Meathook Massacre<https://cards.scryfall.io/border_crop/"
-"front/3/5/353c37d7-1c20-43fe-b9d9-6336856c9ef4.jpg?1657064602|https://"
+"front/3/5/353c37d7-1c20-43fe-b9d9-6336856c9ef4.jpg?1681159453|https://"
 "scryfall.com/card/mid/A-112/a-the-meathook-massacre?utm_source=api>`"
 msgstr ""
 
@@ -5020,19 +5020,21 @@ msgstr ""
 #: ../../MID.rst:1620
 msgid ""
 ":mtgtip:`A-Devoted Grafkeeper<https://cards.scryfall.io/border_crop/"
-"front/5/1/5132a045-fe39-4e45-8abd-d0c1069caee7.jpg?1676762237|https://"
+"front/5/1/5132a045-fe39-4e45-8abd-d0c1069caee7.jpg?1684523780|https://"
 "scryfall.com/card/mid/A-218/a-devoted-grafkeeper-a-departed-soulkeeper?"
 "utm_source=api>`"
 msgstr ""
 
 #: ../../MID.rst:1615
-msgid "When Devoted Grafkeeper enters the battlefield, mill four cards"
+#, fuzzy
+#| msgid "When Devoted Grafkeeper enters the battlefield, mill four cards"
+msgid "When Devoted Grafkeeper enters the battlefield, mill four cards."
 msgstr "Kiedy ten byt wejdzie na pole bitwy, zmiel cztery karty."
 
 #: ../../MID.rst:1626
 msgid ""
 ":mtgtip:`A-Departed Soulkeeper<https://cards.scryfall.io/border_crop/"
-"back/5/1/5132a045-fe39-4e45-8abd-d0c1069caee7.jpg?1676762237|https://"
+"back/5/1/5132a045-fe39-4e45-8abd-d0c1069caee7.jpg?1684523780|https://"
 "scryfall.com/card/mid/A-218/a-devoted-grafkeeper-a-departed-soulkeeper?"
 "utm_source=api>`"
 msgstr ""
@@ -5955,7 +5957,7 @@ msgstr ""
 #: ../../MID.rst:1900
 msgid ""
 ":mtgtip:`Moonsilver Key<https://cards.scryfall.io/border_crop/"
-"front/8/7/87778e37-af92-402e-b037-5fbd6112b682.jpg?1637114586|https://"
+"front/8/7/87778e37-af92-402e-b037-5fbd6112b682.jpg?1683389771|https://"
 "scryfall.com/card/mid/255/moonsilver-key?utm_source=api>`"
 msgstr ""
 

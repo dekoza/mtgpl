@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-02 12:41+0100\n"
+"POT-Creation-Date: 2023-05-28 11:10+0200\n"
 "PO-Revision-Date: 2023-03-03 08:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/tor/pl/>\n"
@@ -1089,7 +1089,7 @@ msgid ""
 msgstr ""
 
 #: ../../TOR.rst:309
-msgid "Nightmare creatures get +1/+1."
+msgid "All Nightmares get +1/+1."
 msgstr ""
 
 #: ../../TOR.rst:311
@@ -1166,10 +1166,11 @@ msgid ""
 msgstr ""
 
 #: ../../TOR.rst:335
+#, fuzzy
+#| msgid "When Stupefying Touch enters the battlefield, draw a card."
 msgid ""
-"When Faceless Butcher enters the battlefield, exile target creature other "
-"than Faceless Butcher."
-msgstr ""
+"When Faceless Butcher enters the battlefield, exile another target creature."
+msgstr "Kiedy ten byt wejdzie na pole bitwy, dobierz kartę."
 
 #: ../../TOR.rst:337
 msgid ""

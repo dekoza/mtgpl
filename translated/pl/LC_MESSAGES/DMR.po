@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2022.9\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-09 13:56+0100\n"
+"POT-Creation-Date: 2023-05-28 11:10+0200\n"
 "PO-Revision-Date: 2023-03-03 08:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/dmr/pl/>\n"
@@ -1311,7 +1311,7 @@ msgstr "Ilekroć ten stwór zada przeciwnikowi obrażenia, dobierz kartę."
 #: ../../DMR.rst:382
 msgid ""
 ":mtgtip:`Time Stretch<https://cards.scryfall.io/border_crop/front/9/"
-"d/9dc791fd-d49c-4c66-b8fb-6b54ce842e90.jpg?1675199461|https://scryfall.com/"
+"d/9dc791fd-d49c-4c66-b8fb-6b54ce842e90.jpg?1683842983|https://scryfall.com/"
 "card/dmr/69/time-stretch?utm_source=api>`"
 msgstr ""
 
@@ -1577,15 +1577,20 @@ msgstr "Ten stwór nie może być blokowany, chyba że przez Ściany."
 #: ../../DMR.rst:472
 msgid ""
 ":mtgtip:`Faceless Butcher<https://cards.scryfall.io/border_crop/front/2/"
-"e/2e5511e2-a218-411e-aea3-96461e9c5fdd.jpg?1675199614|https://scryfall.com/"
+"e/2e5511e2-a218-411e-aea3-96461e9c5fdd.jpg?1684714828|https://scryfall.com/"
 "card/dmr/84/faceless-butcher?utm_source=api>`"
 msgstr ""
 
 #: ../../DMR.rst:469
+#, fuzzy
+#| msgid ""
+#| "When Flametongue Kavu enters the battlefield, it deals 4 damage to target "
+#| "creature."
 msgid ""
-"When Faceless Butcher enters the battlefield, exile target creature other "
-"than Faceless Butcher."
+"When Faceless Butcher enters the battlefield, exile another target creature."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, zadaje on wskazanemu stworowi 4 "
+"obrażenia."
 
 #: ../../DMR.rst:471
 msgid ""
@@ -2687,7 +2692,7 @@ msgstr ""
 #: ../../DMR.rst:836
 msgid ""
 ":mtgtip:`Crop Rotation<https://cards.scryfall.io/border_crop/"
-"front/5/2/523414cb-f8db-407a-808a-01454e03d8b9.jpg?1675200348|https://"
+"front/5/2/523414cb-f8db-407a-808a-01454e03d8b9.jpg?1681724998|https://"
 "scryfall.com/card/dmr/154/crop-rotation?utm_source=api>`"
 msgstr ""
 
@@ -4101,10 +4106,16 @@ msgid ""
 msgstr ""
 
 #: ../../DMR.rst:1313
+#, fuzzy
+#| msgid ""
+#| "When Denizen of the Deep enters the battlefield, return each other "
+#| "creature you control to its owner's hand."
 msgid ""
-"At the beginning of each player's upkeep, that player returns a permanent "
-"they control to its owner's hand unless they pay 2 life."
+"At the beginning of each player's upkeep, that player may pay 2 life. If "
+"they don't, they return a permanent they control to its owner's hand."
 msgstr ""
+"Kiedy ten byt wejdzie na pole bitwy, przywróć każdego innego stwora pod "
+"twoim władaniem do ręki właściciela."
 
 #: ../../DMR.rst:1320
 msgid ""

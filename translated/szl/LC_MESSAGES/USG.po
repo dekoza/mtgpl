@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-07 10:26+0100\n"
+"POT-Creation-Date: 2023-05-28 11:10+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -4365,8 +4365,8 @@ msgstr ""
 
 #: ../../USG.rst:1537
 msgid ""
-"At the beginning of each player's upkeep, that player returns a permanent "
-"they control to its owner's hand unless they pay 2 life."
+"At the beginning of each player's upkeep, that player may pay 2 life. If "
+"they don't, they return a permanent they control to its owner's hand."
 msgstr ""
 
 #: ../../USG.rst:1542

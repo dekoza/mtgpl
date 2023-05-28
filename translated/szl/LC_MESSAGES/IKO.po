@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-02 12:41+0100\n"
+"POT-Creation-Date: 2023-05-28 11:10+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -1162,7 +1162,7 @@ msgstr ""
 #: ../../IKO.rst:382
 msgid ""
 ":mtgtip:`Reconnaissance Mission<https://cards.scryfall.io/border_crop/front/"
-"a/e/ae9f7efa-d125-4f83-825e-172ea099a62a.jpg?1591226471|https://scryfall.com/"
+"a/e/ae9f7efa-d125-4f83-825e-172ea099a62a.jpg?1681500843|https://scryfall.com/"
 "card/iko/65/reconnaissance-mission?utm_source=api>`"
 msgstr ""
 
@@ -2343,7 +2343,7 @@ msgstr ""
 #: ../../IKO.rst:820
 msgid ""
 ":mtgtip:`Auspicious Starrix<https://cards.scryfall.io/border_crop/front/a/3/"
-"a39ae1e4-d4dd-4691-af5a-5fa25ace4ebe.jpg?1591227516|https://scryfall.com/"
+"a39ae1e4-d4dd-4691-af5a-5fa25ace4ebe.jpg?1681500723|https://scryfall.com/"
 "card/iko/144/auspicious-starrix?utm_source=api>`"
 msgstr ""
 
@@ -3329,7 +3329,7 @@ msgstr ""
 #: ../../IKO.rst:1164
 msgid ""
 ":mtgtip:`Ruinous Ultimatum<https://cards.scryfall.io/border_crop/"
-"front/5/0/50c1d6ca-7789-46b5-bc89-85cc3915cb85.jpg?1591228208|https://"
+"front/5/0/50c1d6ca-7789-46b5-bc89-85cc3915cb85.jpg?1681500691|https://"
 "scryfall.com/card/iko/204/ruinous-ultimatum?utm_source=api>`"
 msgstr ""
 
@@ -3546,7 +3546,7 @@ msgstr ""
 #: ../../IKO.rst:1242
 msgid ""
 ":mtgtip:`A-Winota, Joiner of Forces<https://cards.scryfall.io/border_crop/"
-"front/6/b/6bf6e906-9305-4003-b040-1dfecca590c1.jpg?1663649166|https://"
+"front/6/b/6bf6e906-9305-4003-b040-1dfecca590c1.jpg?1681159573|https://"
 "scryfall.com/card/iko/A-216/a-winota-joiner-of-forces?utm_source=api>`"
 msgstr ""
 
@@ -3626,7 +3626,7 @@ msgstr ""
 msgid ""
 "Companion — Your starting deck contains only cards with even mana values. "
 "(If this card is your chosen companion, you may put it into your hand from "
-"outside the game for |mana_3| any time you could cast a sorcery.)"
+"outside the game for |mana_3| as a sorcery.)"
 msgstr ""
 
 #: ../../IKO.rst:1269
@@ -3647,8 +3647,7 @@ msgstr ""
 msgid ""
 "Companion — No card in your starting deck has more than one of the same mana "
 "symbol in its mana cost. (If this card is your chosen companion, you may put "
-"it into your hand from outside the game for |mana_3| any time you could cast "
-"a sorcery.)"
+"it into your hand from outside the game for |mana_3| as a sorcery.)"
 msgstr ""
 
 #: ../../IKO.rst:1275
@@ -3681,8 +3680,8 @@ msgstr ""
 msgid ""
 "Companion — Each creature card in your starting deck is a Cat, Elemental, "
 "Nightmare, Dinosaur, or Beast card. (If this card is your chosen companion, "
-"you may put it into your hand from outside the game for |mana_3| any time "
-"you could cast a sorcery.)"
+"you may put it into your hand from outside the game for |mana_3| as a "
+"sorcery.)"
 msgstr ""
 
 #: ../../IKO.rst:1289
@@ -3702,8 +3701,7 @@ msgstr ""
 msgid ""
 "Companion — Your starting deck contains only cards with mana value 3 or "
 "greater and land cards. (If this card is your chosen companion, you may put "
-"it into your hand from outside the game for |mana_3| any time you could cast "
-"a sorcery.)"
+"it into your hand from outside the game for |mana_3| as a sorcery.)"
 msgstr ""
 
 #: ../../IKO.rst:1295
@@ -3715,7 +3713,7 @@ msgstr ""
 #: ../../IKO.rst:1304
 msgid ""
 ":mtgtip:`Lurrus of the Dream-Den<https://cards.scryfall.io/border_crop/"
-"front/5/a/5ad36fb2-c44e-4085-ba0d-54277841ad3a.jpg?1650599605|https://"
+"front/5/a/5ad36fb2-c44e-4085-ba0d-54277841ad3a.jpg?1682228556|https://"
 "scryfall.com/card/iko/226/lurrus-of-the-dream-den?utm_source=api>`"
 msgstr ""
 
@@ -3723,13 +3721,13 @@ msgstr ""
 msgid ""
 "Companion — Each permanent card in your starting deck has mana value 2 or "
 "less. (If this card is your chosen companion, you may put it into your hand "
-"from outside the game for |mana_3| any time you could cast a sorcery.)"
+"from outside the game for |mana_3| as a sorcery.)"
 msgstr ""
 
 #: ../../IKO.rst:1303
 msgid ""
-"During each of your turns, you may cast one permanent spell with mana value "
-"2 or less from your graveyard."
+"Once during each of your turns, you may cast a permanent spell with mana "
+"value 2 or less from your graveyard."
 msgstr ""
 
 #: ../../IKO.rst:1312
@@ -3743,7 +3741,7 @@ msgstr ""
 msgid ""
 "Companion — Each nonland card in your starting deck has a different name. "
 "(If this card is your chosen companion, you may put it into your hand from "
-"outside the game for |mana_3| any time you could cast a sorcery.)"
+"outside the game for |mana_3| as a sorcery.)"
 msgstr ""
 
 #: ../../IKO.rst:1311
@@ -3764,7 +3762,7 @@ msgstr ""
 msgid ""
 "Companion — Your starting deck contains only cards with odd mana values and "
 "land cards. (If this card is your chosen companion, you may put it into your "
-"hand from outside the game for |mana_3| any time you could cast a sorcery.)"
+"hand from outside the game for |mana_3| as a sorcery.)"
 msgstr ""
 
 #: ../../IKO.rst:1317
@@ -3811,7 +3809,7 @@ msgstr ""
 msgid ""
 "Companion — Each nonland card in your starting deck shares a card type. (If "
 "this card is your chosen companion, you may put it into your hand from "
-"outside the game for |mana_3| any time you could cast a sorcery.)"
+"outside the game for |mana_3| as a sorcery.)"
 msgstr ""
 
 #: ../../IKO.rst:1335
@@ -3833,8 +3831,7 @@ msgstr ""
 msgid ""
 "Companion — Your starting deck contains at least twenty cards more than the "
 "minimum deck size. (If this card is your chosen companion, you may put it "
-"into your hand from outside the game for |mana_3| any time you could cast a "
-"sorcery.)"
+"into your hand from outside the game for |mana_3| as a sorcery.)"
 msgstr ""
 
 #: ../../IKO.rst:1345
@@ -3855,7 +3852,7 @@ msgstr ""
 msgid ""
 "Companion — Each permanent card in your starting deck has an activated "
 "ability. (If this card is your chosen companion, you may put it into your "
-"hand from outside the game for |mana_3| any time you could cast a sorcery.)"
+"hand from outside the game for |mana_3| as a sorcery.)"
 msgstr ""
 
 #: ../../IKO.rst:1351
@@ -3950,7 +3947,7 @@ msgstr ""
 #: ../../IKO.rst:1394
 msgid ""
 ":mtgtip:`Sleeper Dart<https://cards.scryfall.io/border_crop/"
-"front/3/1/311f827a-1585-483e-b0fd-3dc05969b485.jpg?1591228570|https://"
+"front/3/1/311f827a-1585-483e-b0fd-3dc05969b485.jpg?1681500667|https://"
 "scryfall.com/card/iko/240/sleeper-dart?utm_source=api>`"
 msgstr ""
 

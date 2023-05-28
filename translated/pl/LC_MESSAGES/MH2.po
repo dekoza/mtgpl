@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2021.5\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-02 12:41+0100\n"
+"POT-Creation-Date: 2023-05-28 11:10+0200\n"
 "PO-Revision-Date: 2023-03-03 08:34+0000\n"
 "Last-Translator: Weblate Admin <weblate-admin@kozaczko.info>\n"
 "Language-Team: Polish <https://weblate.mtgpopolsku.pl/projects/mtg/mh2/pl/>\n"
@@ -653,7 +653,7 @@ msgstr "|mana_w|: Ten stwór do końca tury dostaje +0/+1."
 #: ../../MH2.rst:136
 msgid ""
 ":mtgtip:`Nykthos Paragon<https://cards.scryfall.io/border_crop/"
-"front/2/9/2963205e-b181-44d1-809f-6577e29fa812.jpg?1626093830|https://"
+"front/2/9/2963205e-b181-44d1-809f-6577e29fa812.jpg?1681729100|https://"
 "scryfall.com/card/mh2/22/nykthos-paragon?utm_source=api>`"
 msgstr ""
 
@@ -1381,10 +1381,14 @@ msgstr ""
 "stał się stworem w ten sposób."
 
 #: ../../MH2.rst:367
+#, fuzzy
+#| msgid ""
+#| "Overload |mana_4|\\ |mana_u|\\ |mana_u| (You may cast this spell for its "
+#| "overload cost. If you do, change its text by replacing all instances of "
+#| "\"target\" with \"each.\")"
 msgid ""
 "Overload |mana_4|\\ |mana_u|\\ |mana_u| (You may cast this spell for its "
-"overload cost. If you do, change its text by replacing all instances of "
-"\"target\" with \"each.\")"
+"overload cost. If you do, change \"target\" in its text to \"each.\")"
 msgstr ""
 "Przeciążenie |mana_4|\\ |mana_u|\\ |mana_u| (Możesz rzucić ten czar za jego "
 "koszt przeciążenia. Jeśli tak zrobisz, zmień jego tekst zastępując wszystkie "
@@ -2672,7 +2676,7 @@ msgstr ""
 #: ../../MH2.rst:758
 msgid ""
 ":mtgtip:`A-Dragon's Rage Channeler<https://cards.scryfall.io/border_crop/"
-"front/a/e/ae8024ce-12c9-4139-934d-fb230103daa1.jpg?1658633068|https://"
+"front/a/e/ae8024ce-12c9-4139-934d-fb230103daa1.jpg?1681158590|https://"
 "scryfall.com/card/mh2/A-121/a-dragons-rage-channeler?utm_source=api>`"
 msgstr ""
 
@@ -2985,7 +2989,7 @@ msgstr "Ten czar zadaje wskazanemu stworowi lub wędrowcowi 5 obrażeń."
 #: ../../MH2.rst:852
 msgid ""
 ":mtgtip:`Mount Velus Manticore<https://cards.scryfall.io/border_crop/"
-"front/6/6/667a356c-b10d-42f2-bb2f-c3fd9affa4bd.jpg?1626096874|https://"
+"front/6/6/667a356c-b10d-42f2-bb2f-c3fd9affa4bd.jpg?1681729120|https://"
 "scryfall.com/card/mh2/136/mount-velus-manticore?utm_source=api>`"
 msgstr ""
 
@@ -3025,7 +3029,7 @@ msgstr ""
 #: ../../MH2.rst:866
 msgid ""
 ":mtgtip:`Ragavan, Nimble Pilferer<https://cards.scryfall.io/border_crop/"
-"front/a/9/a9738cda-adb1-47fb-9f4c-ecd930228c4d.jpg?1653966896|https://"
+"front/a/9/a9738cda-adb1-47fb-9f4c-ecd930228c4d.jpg?1681963138|https://"
 "scryfall.com/card/mh2/138/ragavan-nimble-pilferer?utm_source=api>`"
 msgstr ""
 
@@ -3195,7 +3199,7 @@ msgstr ""
 #: ../../MH2.rst:914
 msgid ""
 ":mtgtip:`A-Unholy Heat<https://cards.scryfall.io/border_crop/"
-"front/8/9/89d5d2b5-3769-4341-b84e-03771dbb7491.jpg?1658485688|https://"
+"front/8/9/89d5d2b5-3769-4341-b84e-03771dbb7491.jpg?1681159562|https://"
 "scryfall.com/card/mh2/A-145/a-unholy-heat?utm_source=api>`"
 msgstr ""
 
@@ -3691,7 +3695,7 @@ msgstr ""
 #: ../../MH2.rst:1070
 msgid ""
 ":mtgtip:`Sanctum Weaver<https://cards.scryfall.io/border_crop/front/4/"
-"d/4d42e22d-f60e-40c5-b069-5e1708f3bebc.jpg?1626097732|https://scryfall.com/"
+"d/4d42e22d-f60e-40c5-b069-5e1708f3bebc.jpg?1681729270|https://scryfall.com/"
 "card/mh2/171/sanctum-weaver?utm_source=api>`"
 msgstr ""
 
@@ -4617,7 +4621,7 @@ msgstr ""
 #: ../../MH2.rst:1356
 msgid ""
 ":mtgtip:`Storm God's Oracle<https://cards.scryfall.io/border_crop/front/a/6/"
-"a6d22f24-f752-4bc8-ba97-061b2c060ec8.jpg?1626098763|https://scryfall.com/"
+"a6d22f24-f752-4bc8-ba97-061b2c060ec8.jpg?1681729360|https://scryfall.com/"
 "card/mh2/213/storm-gods-oracle?utm_source=api>`"
 msgstr ""
 
@@ -4632,7 +4636,7 @@ msgstr "Kiedy ten stwór umrze, zadaje on wskazanemu celowi 3 obrażenia."
 #: ../../MH2.rst:1360
 msgid ""
 ":mtgtip:`Sythis, Harvest's Hand<https://cards.scryfall.io/border_crop/"
-"front/0/b/0babfe00-9bad-48fc-b3b1-df8280242fd2.jpg?1626098785|https://"
+"front/0/b/0babfe00-9bad-48fc-b3b1-df8280242fd2.jpg?1681729369|https://"
 "scryfall.com/card/mh2/214/sythis-harvests-hand?utm_source=api>`"
 msgstr ""
 
